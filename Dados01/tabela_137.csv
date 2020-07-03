@@ -1,0 +1,618 @@
+Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+5,00:00,NaN,110,106,fim_partida,
+5,00:00,Fim  do período de prorragação,110,106,,
+5,00:02,MOG,110,106,2_Pts_T,André Goes
+5,00:05,MOG,110,106,RD,André Goes
+5,00:05,MOG,110,106,TO,Paranhos
+5,00:05,PIN,110,106,2_Pts_T,Betinho
+5,00:11,PIN,110,106,RD,Buffat
+5,00:15,MOG,110,106,3_Pts_T,Lucas
+5,00:19,PIN,110,106,substituicao_entra,Scaglia
+5,00:19,PIN,110,106,substituicao_sai,C  Torres
+5,00:19,PIN,110,106,LL_Pts_C,Betinho
+5,00:19,PIN,109,106,LL_Pts_C,Betinho
+5,00:19,MOG,108,106,substituicao_entra,Paranhos
+5,00:19,MOG,108,106,substituicao_sai,Fúlvio
+5,00:19,PIN,108,106,FR,Betinho
+5,00:19,MOG,108,106,FC,Fúlvio
+5,00:30,MOG,108,106,LL_Pts_C,Lucas
+5,00:30,PIN,108,105,substituicao_entra,C  Torres
+5,00:30,PIN,108,105,substituicao_sai,Scaglia
+5,00:30,MOG,108,105,FR,Lucas
+5,00:30,PIN,108,105,FC,Bennett
+5,00:30,MOG,108,105,AS,Fúlvio
+5,00:30,MOG,108,105,3_Pts_C,Lucas
+5,00:38,PIN,108,102,LL_Pts_C,Scaglia
+5,00:38,MOG,107,102,substituicao_entra,Fabricio
+5,00:38,MOG,107,102,substituicao_entra,Lucas
+5,00:38,MOG,107,102,substituicao_sai,Lessa
+5,00:38,MOG,107,102,substituicao_sai,Paranhos
+5,00:38,PIN,107,102,FR,Scaglia
+5,00:38,MOG,107,102,FC,Lessa
+5,00:38,PIN,107,102,AS,Betinho
+5,00:38,PIN,107,102,2_Pts_C,Scaglia
+5,00:55,PIN,105,102,RD,Bennett
+5,01:00,MOG,105,102,2_Pts_T,Lessa
+5,01:12,PIN,105,102,AS,Bennett
+5,01:12,PIN,105,102,3_Pts_C,Betinho
+5,01:33,MOG,102,102,2_Pts_C,André Goes
+5,01:38,MOG,102,100,BR,Lessa
+5,01:38,PIN,102,100,ER,Betinho
+5,01:47,MOG,102,100,2_Pts_C,André Goes
+5,02:02,MOG,102,98,tempo_tecnico,Mogi
+5,02:04,PIN,102,98,AS,Betinho
+5,02:04,PIN,102,98,2_Pts_C,Buffat
+5,02:19,MOG,100,98,substituicao_entra,Lessa
+5,02:19,MOG,100,98,substituicao_sai,Fabricio
+5,02:19,PIN,100,98,RD,Ware
+5,02:21,MOG,100,98,2_Pts_T,Fúlvio
+5,02:47,PIN,100,98,2_Pts_C,Betinho
+5,03:06,MOG,98,98,AS,Fúlvio
+5,03:06,MOG,98,98,2_Pts_C,Paranhos
+5,03:18,PIN,98,96,AS,Scaglia
+5,03:18,PIN,98,96,3_Pts_C,Ware
+5,03:39,MOG,95,96,AS,Fúlvio
+5,03:39,MOG,95,96,2_Pts_C,Paranhos
+5,03:52,PIN,95,94,3_Pts_C,Betinho
+5,04:17,MOG,92,94,2_Pts_C,Fúlvio
+5,04:24,MOG,92,92,RD,Fúlvio
+5,04:27,PIN,92,92,3_Pts_T,Betinho
+5,04:40,PIN,92,92,BR,Buffat
+5,04:40,MOG,92,92,ER,Fúlvio
+5,04:49,MOG,92,92,RD,Mogi
+5,04:49,PIN,92,92,2_Pts_T,Bennett
+5,04:56,PIN,92,92,BR,Scaglia
+5,04:56,MOG,92,92,ER,Fúlvio
+5,05:00,Início do  de período de prorragação,92,92,,
+5,05:00,MOG,92,92,substituicao_entra,Paranhos
+5,05:00,MOG,92,92,substituicao_sai,Lucas
+5,05:00,PIN,92,92,substituicao_entra,Ware
+5,05:00,PIN,92,92,substituicao_sai,C  Torres
+4,00:00,NaN,92,92,fim_quarto, 
+4,00:02,MOG,92,92,3_Pts_T,André Goes
+4,00:05,PIN,92,92,2_Pts_C,Betinho
+4,00:11,PIN,90,92,substituicao_entra,C  Torres
+4,00:11,PIN,90,92,substituicao_sai,Toledo
+4,00:11,MOG,90,92,LL_Pts_C,Lucas
+4,00:11,MOG,90,91,LL_Pts_T,Lucas
+4,00:11,MOG,90,91,FR,Lucas
+4,00:11,PIN,90,91,FC,Bennett
+4,00:15,MOG,90,91,substituicao_entra,Fúlvio
+4,00:15,MOG,90,91,substituicao_sai,Paranhos
+4,00:15,PIN,90,91,substituicao_entra,Scaglia
+4,00:15,PIN,90,91,substituicao_sai,Ware
+4,00:15,MOG,90,91,tempo_tecnico,Mogi
+4,00:15,PIN,90,91,2_Pts_C,Ware
+4,00:16,PIN,88,91,RO,Ware
+4,00:16,PIN,88,91,LL_Pts_T,Bennett
+4,00:16,PIN,88,91,LL_Pts_C,Bennett
+4,00:16,MOG,87,91,substituicao_entra,Paranhos
+4,00:16,MOG,87,91,substituicao_entra,Lucas
+4,00:16,MOG,87,91,substituicao_sai,Lessa
+4,00:16,MOG,87,91,substituicao_sai,Fúlvio
+4,00:16,PIN,87,91,substituicao_entra,Toledo
+4,00:16,PIN,87,91,substituicao_sai,Scaglia
+4,00:16,PIN,87,91,FR,Bennett
+4,00:16,MOG,87,91,FC,Fúlvio
+4,00:23,PIN,87,91,RD,Buffat
+4,00:23,MOG,87,91,LL_Pts_T,Siqueira
+4,00:23,MOG,87,91,LL_Pts_T,Siqueira
+4,00:23,MOG,87,91,substituicao_entra,Lessa
+4,00:23,MOG,87,91,substituicao_sai,Lucas
+4,00:23,MOG,87,91,FR,Siqueira
+4,00:23,PIN,87,91,FC,Betinho
+4,00:32,MOG,87,91,substituicao_entra,Lucas
+4,00:32,MOG,87,91,substituicao_sai,Paranhos
+4,00:32,PIN,87,91,substituicao_entra,Scaglia
+4,00:32,PIN,87,91,substituicao_sai,Toledo
+4,00:32,MOG,87,91,FR,Fabricio
+4,00:32,PIN,87,91,FC,Betinho
+4,00:37,MOG,87,91,RD,André Goes
+4,00:37,PIN,87,91,LL_Pts_T,Toledo
+4,00:37,PIN,87,91,LL_Pts_C,Toledo
+4,00:37,PIN,86,91,FR,Toledo
+4,00:37,MOG,86,91,FC,Fúlvio
+4,00:40,MOG,86,91,substituicao_entra,Paranhos
+4,00:40,MOG,86,91,substituicao_sai,Lucas
+4,00:40,PIN,86,91,substituicao_entra,Toledo
+4,00:40,PIN,86,91,substituicao_sai,Scaglia
+4,00:40,PIN,86,91,tempo_tecnico,Pinheiros
+4,00:40,MOG,86,91,3_Pts_C,André Goes
+4,00:54,MOG,86,88,FR,Fúlvio
+4,00:54,PIN,86,88,FC,Scaglia
+4,00:56,MOG,86,88,FR,Fabricio
+4,00:56,PIN,86,88,FC,Ware
+4,01:06,MOG,86,88,substituicao_entra,Lucas
+4,01:06,MOG,86,88,substituicao_sai,Paranhos
+4,01:06,PIN,86,88,substituicao_entra,Scaglia
+4,01:06,PIN,86,88,substituicao_sai,Toledo
+4,01:06,PIN,86,88,LL_Pts_C,Betinho
+4,01:06,PIN,85,88,LL_Pts_C,Betinho
+4,01:06,PIN,84,88,FR,Betinho
+4,01:06,MOG,84,88,FC,Paranhos
+4,01:18,PIN,84,88,substituicao_entra,Ware
+4,01:18,PIN,84,88,substituicao_sai,C  Torres
+4,01:18,PIN,84,88,tempo_tecnico,Pinheiros
+4,01:18,MOG,84,88,AS,Fúlvio
+4,01:18,MOG,84,88,3_Pts_C,Siqueira
+4,01:19,MOG,84,85,RO,Fúlvio
+4,01:26,MOG,84,85,2_Pts_T,Fabricio
+4,01:45,MOG,84,85,RD,Paranhos
+4,01:45,PIN,84,85,LL_Pts_T,Betinho
+4,01:45,PIN,84,85,LL_Pts_C,Betinho
+4,01:45,PIN,83,85,FR,Betinho
+4,01:45,MOG,83,85,FC,André Goes
+4,01:58,PIN,83,85,BR,Bennett
+4,01:58,MOG,83,85,ER,André Goes
+4,02:14,PIN,83,85,ER,Betinho
+4,02:16,PIN,83,85,RD,Betinho
+4,02:22,PIN,83,85,TO,Buffat
+4,02:22,MOG,83,85,3_Pts_T,Fabricio
+4,02:29,MOG,83,85,RD,Siqueira
+4,02:32,PIN,83,85,2_Pts_T,Bennett
+4,02:33,PIN,83,85,RO,Bennett
+4,02:36,PIN,83,85,3_Pts_T,Buffat
+4,02:58,MOG,83,85,LL_Pts_C,Siqueira
+4,02:58,MOG,83,84,LL_Pts_C,Siqueira
+4,02:58,MOG,83,83,LL_Pts_C,Siqueira
+4,02:58,MOG,83,82,FR,Siqueira
+4,02:58,PIN,83,82,FC,C  Torres
+4,03:15,MOG,83,82,tempo_tecnico,Mogi
+4,03:16,PIN,83,82,2_Pts_C,Bennett
+4,03:23,PIN,81,82,BR,C  Torres
+4,03:23,MOG,81,82,ER,Fabricio
+4,03:43,PIN,81,82,2_Pts_C,Betinho
+4,03:44,PIN,79,82,RO,Betinho
+4,03:47,PIN,79,82,2_Pts_T,Betinho
+4,04:02,MOG,79,82,3_Pts_C,Fúlvio
+4,04:23,PIN,79,79,AS,Toledo
+4,04:23,PIN,79,79,2_Pts_C,Betinho
+4,04:41,PIN,77,79,substituicao_entra,C  Torres
+4,04:41,PIN,77,79,substituicao_sai,Ware
+4,04:41,PIN,77,79,tempo_tecnico,Pinheiros
+4,04:41,MOG,77,79,EN,Siqueira
+4,04:47,MOG,77,77,BR,Siqueira
+4,04:47,PIN,77,77,ER,Ware
+4,05:02,MOG,77,77,AS,Fúlvio
+4,05:02,MOG,77,77,2_Pts_C,Paranhos
+4,05:28,PIN,77,75,2_Pts_C,Betinho
+4,05:47,MOG,75,75,AS,Paranhos
+4,05:47,MOG,75,75,3_Pts_C,Siqueira
+4,05:50,MOG,75,72,RO,Paranhos
+4,05:54,MOG,75,72,3_Pts_T,Fúlvio
+4,06:12,PIN,75,72,ER,Bennett
+4,06:29,PIN,75,72,substituicao_entra,Toledo
+4,06:29,PIN,75,72,substituicao_entra,Buffat
+4,06:29,PIN,75,72,substituicao_sai,C  Torres
+4,06:29,PIN,75,72,substituicao_sai,Scaglia
+4,06:29,MOG,75,72,tempo_tecnico,Mogi
+4,06:29,PIN,75,72,FR,Betinho
+4,06:29,MOG,75,72,FC,André Goes
+4,06:37,PIN,75,72,RD,Ware
+4,06:41,MOG,75,72,3_Pts_T,Siqueira
+4,06:49,MOG,75,72,RD,Paranhos
+4,06:52,PIN,75,72,3_Pts_T,C  Torres
+4,07:14,MOG,75,72,AS,André Goes
+4,07:14,MOG,75,72,3_Pts_C,Fabricio
+4,07:36,PIN,75,69,3_Pts_C,Betinho
+4,07:53,MOG,72,69,AS,Fúlvio
+4,07:53,MOG,72,69,2_Pts_C,Paranhos
+4,08:00,PIN,72,67,ER,
+4,08:02,PIN,72,67,RO,Pinheiros
+4,08:04,PIN,72,67,3_Pts_T,Bennett
+4,08:17,PIN,72,67,FR,Betinho
+4,08:17,MOG,72,67,FC,Siqueira
+4,08:29,MOG,72,67,ER,André Goes
+4,08:42,PIN,72,67,LL_Pts_C,Bennett
+4,08:42,PIN,71,67,LL_Pts_C,Bennett
+4,08:42,PIN,70,67,FR,Bennett
+4,08:42,MOG,70,67,FC,André Goes
+4,09:03,MOG,70,67,AS,Fúlvio
+4,09:03,MOG,70,67,3_Pts_C,André Goes
+4,09:14,MOG,70,64,BR,André Goes
+4,09:14,PIN,70,64,ER,C  Torres
+4,09:28,MOG,70,64,2_Pts_C,Paranhos
+4,09:28,MOG,70,62,RO,Paranhos
+4,09:33,MOG,70,62,3_Pts_T,André Goes
+4,09:45,MOG,70,62,BR,André Goes
+4,09:45,PIN,70,62,ER,Scaglia
+4,10:00,NaN,70,62,inicio_quarto,
+3,00:00,NaN,70,62,fim_quarto,
+3,00:00,PIN,70,62,2_Pts_C,Bennett
+3,00:03,PIN,68,62,substituicao_entra,Ware
+3,00:03,PIN,68,62,substituicao_sai,Cauê
+3,00:03,MOG,68,62,substituicao_entra,Alex
+3,00:03,MOG,68,62,substituicao_sai,F Cardoso
+3,00:03,MOG,68,62,LL_Pts_C,F Cardoso
+3,00:03,MOG,68,61,LL_Pts_C,F Cardoso
+3,00:03,MOG,68,60,FR,F Cardoso
+3,00:03,PIN,68,60,FC,Cauê
+3,00:29,PIN,68,60,2_Pts_C,Bennett
+3,00:38,MOG,66,60,LL_Pts_C,Siqueira
+3,00:38,MOG,66,59,LL_Pts_C,Siqueira
+3,00:38,MOG,66,58,LL_Pts_C,Siqueira
+3,00:38,MOG,66,57,substituicao_entra,André Goes
+3,00:38,MOG,66,57,substituicao_entra,F Cardoso
+3,00:38,MOG,66,57,substituicao_sai,Paranhos
+3,00:38,MOG,66,57,substituicao_sai,Alex
+3,00:38,PIN,66,57,substituicao_entra,Betinho
+3,00:38,PIN,66,57,substituicao_sai,Buffat
+3,00:38,MOG,66,57,FR,Siqueira
+3,00:38,PIN,66,57,FC,Buffat
+3,00:50,PIN,66,57,2_Pts_C,C  Torres
+3,00:51,PIN,64,57,RO,C  Torres
+3,00:55,PIN,64,57,2_Pts_T,Cauê
+3,01:20,PIN,64,57,RD,Cauê
+3,01:24,MOG,64,57,2_Pts_T,Paranhos
+3,01:48,PIN,64,57,3_Pts_C,Bennett
+3,02:05,MOG,61,57,AS,Lucas
+3,02:05,MOG,61,57,LL_Pts_C,Paranhos
+3,02:05,MOG,61,56,LL_Pts_T,Paranhos
+3,02:05,PIN,61,56,substituicao_entra,Cauê
+3,02:05,PIN,61,56,substituicao_sai,Ware
+3,02:05,MOG,61,56,FR,Paranhos
+3,02:05,PIN,61,56,FC,Bennett
+3,02:09,MOG,61,56,RD,Lucas
+3,02:13,PIN,61,56,3_Pts_T,Scaglia
+3,02:26,MOG,61,56,substituicao_entra,Lessa
+3,02:26,MOG,61,56,substituicao_entra,Paranhos
+3,02:26,MOG,61,56,substituicao_sai,André Goes
+3,02:26,MOG,61,56,substituicao_sai,Fúlvio
+3,02:26,PIN,61,56,substituicao_entra,C  Torres
+3,02:26,PIN,61,56,substituicao_sai,Toledo
+3,02:26,MOG,61,56,ER,Fúlvio
+3,02:29,MOG,61,56,RO,Fúlvio
+3,02:31,MOG,61,56,3_Pts_T,Fúlvio
+3,02:45,PIN,61,56,2_Pts_C,Ware
+3,03:05,MOG,59,56,AS,Fúlvio
+3,03:05,MOG,59,56,2_Pts_C,André Goes
+3,03:23,PIN,59,54,AS,Toledo
+3,03:23,PIN,59,54,2_Pts_C,Ware
+3,03:29,PIN,57,54,RD,Buffat
+3,03:33,MOG,57,54,3_Pts_T,André Goes
+3,03:48,MOG,57,54,RD,Siqueira
+3,03:48,PIN,57,54,LL_Pts_T,Toledo
+3,03:48,PIN,57,54,FR,Toledo
+3,03:48,MOG,57,54,FC,André Goes
+3,03:48,PIN,57,54,AS,Bennett
+3,03:48,PIN,57,54,2_Pts_C,Toledo
+3,03:59,PIN,55,54,RD,Toledo
+3,04:03,MOG,55,54,3_Pts_T,Lucas
+3,04:26,MOG,55,54,substituicao_entra,Lucas
+3,04:26,MOG,55,54,substituicao_sai,Fabricio
+3,04:26,PIN,55,54,substituicao_entra,Scaglia
+3,04:26,PIN,55,54,substituicao_sai,Betinho
+3,04:26,MOG,55,54,FR,Alex
+3,04:26,PIN,55,54,ER,Toledo
+3,04:26,PIN,55,54,FC_O,Toledo
+3,04:43,MOG,55,54,2_Pts_C,Alex
+3,04:44,MOG,55,52,RO,Alex
+3,04:48,MOG,55,52,3_Pts_T,Siqueira
+3,05:08,MOG,55,52,RD,Fabricio
+3,05:12,PIN,55,52,2_Pts_T,Betinho
+3,05:35,PIN,55,52,RD,Bennett
+3,05:38,MOG,55,52,3_Pts_T,André Goes
+3,05:59,PIN,55,52,2_Pts_C,Bennett
+3,06:04,PIN,53,52,BR,Bennett
+3,06:04,MOG,53,52,ER,Alex
+3,06:15,MOG,53,52,BR,Alex
+3,06:15,PIN,53,52,ER,Bennett
+3,06:31,MOG,53,52,AS,Fúlvio
+3,06:31,MOG,53,52,3_Pts_C,André Goes
+3,06:37,MOG,53,49,FR,André Goes
+3,06:37,PIN,53,49,FC,Toledo
+3,06:39,MOG,53,49,RD,Fabricio
+3,06:40,PIN,53,49,2_Pts_T,Bennett
+3,06:56,PIN,53,49,FR,Ware
+3,06:56,MOG,53,49,FC,Alex
+3,06:57,PIN,53,49,RO,Pinheiros
+3,06:57,PIN,53,49,LL_Pts_T,Toledo
+3,06:57,MOG,53,49,substituicao_entra,Alex
+3,06:57,MOG,53,49,substituicao_sai,Paranhos
+3,06:57,PIN,53,49,FR,Toledo
+3,06:57,MOG,53,49,FC,Fabricio
+3,06:57,PIN,53,49,2_Pts_C,Toledo
+3,07:16,MOG,51,49,2_Pts_C,André Goes
+3,07:21,MOG,51,47,BR,André Goes
+3,07:21,PIN,51,47,ER,Betinho
+3,07:42,PIN,51,47,FR,Toledo
+3,07:42,MOG,51,47,FC,Paranhos
+3,07:43,PIN,51,47,RD,Toledo
+3,07:44,MOG,51,47,2_Pts_T,André Goes
+3,07:55,PIN,51,47,ER,Bennett
+3,08:09,MOG,51,47,LL_Pts_C,Siqueira
+3,08:09,MOG,51,46,LL_Pts_C,Siqueira
+3,08:09,MOG,51,45,FR,Siqueira
+3,08:09,PIN,51,45,FC,Ware
+3,08:24,PIN,51,45,AS,Bennett
+3,08:24,PIN,51,45,2_Pts_C,Toledo
+3,08:32,PIN,49,45,RD,Ware
+3,08:32,MOG,49,45,LL_Pts_T,Siqueira
+3,08:32,MOG,49,45,FR,Siqueira
+3,08:32,PIN,49,45,FC,Betinho
+3,08:32,MOG,49,45,2_Pts_C,Siqueira
+3,08:39,MOG,49,43,RD,Fúlvio
+3,08:42,PIN,49,43,3_Pts_T,Bennett
+3,08:48,PIN,49,43,RO,Toledo
+3,08:52,PIN,49,43,3_Pts_T,Betinho
+3,09:00,MOG,49,43,2_Pts_C,André Goes
+3,09:17,PIN,49,41,3_Pts_C,Betinho
+3,09:23,PIN,46,41,BR,Buffat
+3,09:23,MOG,46,41,ER,Fúlvio
+3,09:27,PIN,46,41,LL_Pts_C,Betinho
+3,09:27,PIN,45,41,FR,Betinho
+3,09:27,MOG,45,41,FC,Fúlvio
+3,09:27,PIN,45,41,2_Pts_C,Betinho
+3,09:36,PIN,43,41,RD,Ware
+3,09:39,MOG,43,41,2_Pts_T,Siqueira
+3,09:44,MOG,43,41,BR,Siqueira
+3,09:44,PIN,43,41,ER,Bennett
+3,09:46,PIN,43,41,RD,Bennett
+3,09:49,MOG,43,41,3_Pts_T,Fabricio
+3,09:58,MOG,43,41,substituicao_entra,Paranhos
+3,09:58,MOG,43,41,substituicao_entra,Fúlvio
+3,09:58,MOG,43,41,substituicao_sai,Lessa
+3,09:58,MOG,43,41,substituicao_sai,Lucas
+3,09:58,PIN,43,41,substituicao_entra,Toledo
+3,09:58,PIN,43,41,substituicao_entra,Buffat
+3,09:58,PIN,43,41,substituicao_sai,Cauê
+3,09:58,PIN,43,41,substituicao_sai,Scaglia
+3,10:00,NaN,43,41,inicio_quarto,
+2,00:00,NaN,43,41,fim_quarto,
+2,00:02,MOG,43,41,substituicao_entra,Lessa
+2,00:02,MOG,43,41,substituicao_sai,Fúlvio
+2,00:02,PIN,43,41,substituicao_entra,Ware
+2,00:02,PIN,43,41,substituicao_sai,G  Campos
+2,00:02,PIN,43,41,RD,Pinheiros
+2,00:03,MOG,43,41,3_Pts_T,Lucas
+2,00:07,MOG,43,41,FR,Fúlvio
+2,00:07,PIN,43,41,FC,Cauê
+2,00:20,MOG,43,41,substituicao_entra,Fabricio
+2,00:20,MOG,43,41,substituicao_sai,Paranhos
+2,00:20,PIN,43,41,substituicao_entra,Cauê
+2,00:20,PIN,43,41,substituicao_sai,C  Torres
+2,00:20,MOG,43,41,tempo_tecnico,Mogi
+2,00:20,PIN,43,41,ER,Betinho
+2,00:27,PIN,43,41,RD,Betinho
+2,00:31,MOG,43,41,3_Pts_T,Siqueira
+2,00:34,MOG,43,41,substituicao_entra,Paranhos
+2,00:34,MOG,43,41,substituicao_sai,F Cardoso
+2,00:34,PIN,43,41,substituicao_entra,G  Campos
+2,00:34,PIN,43,41,substituicao_sai,Buffat
+2,00:34,MOG,43,41,FR,Siqueira
+2,00:34,PIN,43,41,FC,Buffat
+2,00:58,PIN,43,41,2_Pts_C,Betinho
+2,01:14,MOG,41,41,AS,Siqueira
+2,01:14,MOG,41,41,3_Pts_C,André Goes
+2,01:35,PIN,41,38,2_Pts_C,Buffat
+2,01:36,PIN,39,38,RO,Buffat
+2,01:38,PIN,39,38,2_Pts_T,Scaglia
+2,01:45,PIN,39,38,BR,Buffat
+2,01:45,MOG,39,38,ER,Fúlvio
+2,01:53,PIN,39,38,2_Pts_C,Bennett
+2,02:16,MOG,37,38,2_Pts_C,Fúlvio
+2,02:22,MOG,37,36,RD,Siqueira
+2,02:25,PIN,37,36,2_Pts_T,Bennett
+2,02:37,PIN,37,36,FR,Betinho
+2,02:37,MOG,37,36,ER,F Cardoso
+2,02:37,MOG,37,36,FC_O,F Cardoso
+2,02:53,MOG,37,36,substituicao_entra,Lucas
+2,02:53,MOG,37,36,substituicao_sai,Guga
+2,02:53,PIN,37,36,LL_Pts_C,C  Torres
+2,02:53,MOG,36,36,substituicao_entra,F Cardoso
+2,02:53,MOG,36,36,substituicao_sai,Alex
+2,02:53,PIN,36,36,FR,C  Torres
+2,02:53,MOG,36,36,FC,Guga
+2,02:53,PIN,36,36,AS,Bennett
+2,02:53,PIN,36,36,2_Pts_C,C  Torres
+2,03:03,MOG,34,36,LL_Pts_C,Fúlvio
+2,03:03,PIN,34,35,ER,Bennett
+2,03:03,PIN,34,35,FC_T,Bennett
+2,03:03,PIN,34,35,FR,Bennett
+2,03:03,MOG,34,35,FC,Guga
+2,03:13,MOG,34,35,substituicao_entra,Guga
+2,03:13,MOG,34,35,substituicao_sai,Lucas
+2,03:14,PIN,34,35,RD,Pinheiros
+2,03:18,MOG,34,35,3_Pts_T,Siqueira
+2,03:36,PIN,34,35,2_Pts_C,Bennett
+2,03:46,PIN,32,35,RD,C  Torres
+2,03:50,MOG,32,35,3_Pts_T,André Goes
+2,04:13,PIN,32,35,AS,Bennett
+2,04:13,PIN,32,35,3_Pts_C,Betinho
+2,04:24,PIN,29,35,tempo_tecnico,Pinheiros
+2,04:24,MOG,29,35,AS,Fúlvio
+2,04:24,MOG,29,35,2_Pts_C,Siqueira
+2,04:30,MOG,29,33,BR,Lucas
+2,04:30,PIN,29,33,ER,C  Torres
+2,04:45,MOG,29,33,substituicao_entra,Alex
+2,04:45,MOG,29,33,substituicao_sai,Paranhos
+2,04:45,MOG,29,33,LL_Pts_C,Fúlvio
+2,04:45,PIN,29,32,substituicao_entra,C  Torres
+2,04:45,PIN,29,32,substituicao_entra,Buffat
+2,04:45,PIN,29,32,substituicao_sai,Ware
+2,04:45,PIN,29,32,substituicao_sai,Toledo
+2,04:45,PIN,29,32,ER,
+2,04:45,PIN,29,32,FC_T,Técnico do Pinheiros
+2,04:45,MOG,29,32,ER,Siqueira
+2,04:52,MOG,29,32,RD,Paranhos
+2,04:55,PIN,29,32,2_Pts_T,Toledo
+2,05:11,MOG,29,32,2_Pts_C,Paranhos
+2,05:13,MOG,29,30,RO,Paranhos
+2,05:17,MOG,29,30,2_Pts_T,Lucas
+2,05:22,MOG,29,30,RD,Paranhos
+2,05:24,PIN,29,30,2_Pts_T,Bennett
+2,05:39,MOG,29,30,substituicao_entra,Fúlvio
+2,05:39,MOG,29,30,substituicao_sai,Lessa
+2,05:39,MOG,29,30,substituicao_entra,André Goes
+2,05:39,MOG,29,30,substituicao_sai,Fabricio
+2,05:39,PIN,29,30,RD,Pinheiros
+2,05:42,MOG,29,30,3_Pts_T,Fabricio
+2,05:46,MOG,29,30,RD,Lessa
+2,05:50,PIN,29,30,2_Pts_T,Ware
+2,06:04,PIN,29,30,FR,Toledo
+2,06:04,MOG,29,30,FC,Paranhos
+2,06:22,MOG,29,30,AS,Paranhos
+2,06:22,MOG,29,30,3_Pts_C,Fabricio
+2,06:38,PIN,29,27,AS,Betinho
+2,06:38,PIN,29,27,3_Pts_C,Ware
+2,06:52,MOG,26,27,LL_Pts_C,Siqueira
+2,06:52,MOG,26,26,FR,Siqueira
+2,06:52,PIN,26,26,FC,Ware
+2,06:52,MOG,26,26,2_Pts_C,Siqueira
+2,07:11,PIN,26,24,2_Pts_C,Bennett
+2,07:26,PIN,24,24,RD,Pinheiros
+2,07:28,MOG,24,24,2_Pts_T,Lucas
+2,07:47,MOG,24,24,substituicao_entra,Siqueira
+2,07:47,MOG,24,24,substituicao_sai,Guga
+2,07:47,PIN,24,24,2_Pts_C,Betinho
+2,08:03,PIN,22,24,substituicao_entra,Scaglia
+2,08:03,PIN,22,24,substituicao_sai,Buffat
+2,08:03,PIN,22,24,FR,Betinho
+2,08:03,MOG,22,24,ER,Guga
+2,08:03,MOG,22,24,FC_O,Guga
+2,08:24,MOG,22,24,RD,Mogi
+2,08:26,PIN,22,24,3_Pts_T,Betinho
+2,08:40,PIN,22,24,FR,Ware
+2,08:40,MOG,22,24,FC,Paranhos
+2,09:01,PIN,22,24,substituicao_entra,Betinho
+2,09:01,PIN,22,24,substituicao_entra,Toledo
+2,09:01,PIN,22,24,substituicao_sai,Cauê
+2,09:01,PIN,22,24,substituicao_sai,Scaglia
+2,09:01,PIN,22,24,tempo_tecnico,Pinheiros
+2,09:01,MOG,22,24,AS,Lucas
+2,09:01,MOG,22,24,2_Pts_C,Lessa
+2,09:06,MOG,22,22,BR,Lucas
+2,09:06,PIN,22,22,ER,Bennett
+2,09:07,PIN,22,22,RO,Bennett
+2,09:10,PIN,22,22,2_Pts_T,Ware
+2,09:33,MOG,22,22,AS,Lucas
+2,09:33,MOG,22,22,3_Pts_C,Fabricio
+2,09:41,MOG,22,19,RD,Paranhos
+2,09:45,PIN,22,19,2_Pts_T,Buffat
+2,10:00,NaN,22,19,inicio_quarto,
+1,00:00,NaN,22,19,fim_quarto,
+1,00:03,MOG,22,19,3_Pts_C,Lucas
+1,00:20,MOG,22,16,RD,Alex
+1,00:24,PIN,22,16,2_Pts_T,C  Torres
+1,00:41,MOG,22,16,LL_Pts_C,Lucas
+1,00:41,MOG,22,15,LL_Pts_C,Lucas
+1,00:41,MOG,22,14,FR,Lucas
+1,00:41,PIN,22,14,FC,Buffat
+1,00:57,PIN,22,14,ER,Cauê
+1,01:02,PIN,22,14,RO,Cauê
+1,01:02,PIN,22,14,LL_Pts_T,C  Torres
+1,01:02,PIN,22,14,LL_Pts_T,C  Torres
+1,01:02,PIN,22,14,FR,C  Torres
+1,01:02,MOG,22,14,FC,F Cardoso
+1,01:23,MOG,22,14,3_Pts_C,Lucas
+1,01:40,MOG,22,11,substituicao_entra,Lessa
+1,01:40,MOG,22,11,substituicao_sai,Fúlvio
+1,01:40,PIN,22,11,ER,C  Torres
+1,01:52,MOG,22,11,substituicao_entra,F Cardoso
+1,01:52,MOG,22,11,substituicao_sai,Paranhos
+1,01:52,PIN,22,11,substituicao_entra,Scaglia
+1,01:52,PIN,22,11,substituicao_sai,Bennett
+1,01:52,PIN,22,11,FR,Bennett
+1,01:52,MOG,22,11,FC,Alex
+1,02:08,PIN,22,11,RD,C  Torres
+1,02:08,MOG,22,11,LL_Pts_T,Paranhos
+1,02:08,MOG,22,11,LL_Pts_C,Paranhos
+1,02:08,MOG,22,10,substituicao_entra,Lucas
+1,02:08,MOG,22,10,substituicao_entra,Guga
+1,02:08,MOG,22,10,substituicao_sai,André Goes
+1,02:08,MOG,22,10,substituicao_sai,Siqueira
+1,02:08,PIN,22,10,substituicao_entra,Cauê
+1,02:08,PIN,22,10,substituicao_sai,Toledo
+1,02:08,MOG,22,10,FR,Paranhos
+1,02:08,PIN,22,10,FC,C  Torres
+1,02:20,MOG,22,10,RD,André Goes
+1,02:25,PIN,22,10,3_Pts_T,C  Torres
+1,02:34,PIN,22,10,BR,Betinho
+1,02:34,MOG,22,10,ER,André Goes
+1,02:55,PIN,22,10,AS,Bennett
+1,02:55,PIN,22,10,2_Pts_C,Betinho
+1,03:08,PIN,20,10,LL_Pts_C,Betinho
+1,03:08,MOG,19,10,FC_T,Técnico do Mogi
+1,03:08,MOG,19,10,substituicao_entra,Alex
+1,03:08,MOG,19,10,substituicao_sai,Fabricio
+1,03:08,PIN,19,10,substituicao_entra,C  Torres
+1,03:08,PIN,19,10,substituicao_sai,Ware
+1,03:08,PIN,19,10,FR,Toledo
+1,03:08,MOG,19,10,FC,Fabricio
+1,03:22,PIN,19,10,RD,Betinho
+1,03:25,MOG,19,10,3_Pts_T,Fabricio
+1,03:36,MOG,19,10,tempo_tecnico,Mogi
+1,03:37,PIN,19,10,AS,Bennett
+1,03:37,PIN,19,10,3_Pts_C,Buffat
+1,03:47,PIN,16,10,RD,Pinheiros
+1,03:50,MOG,16,10,2_Pts_T,André Goes
+1,04:02,MOG,16,10,FR,Siqueira
+1,04:02,PIN,16,10,FC,Buffat
+1,04:16,PIN,16,10,AS,Ware
+1,04:16,PIN,16,10,3_Pts_C,Betinho
+1,04:30,MOG,13,10,AS,Fúlvio
+1,04:30,MOG,13,10,2_Pts_C,André Goes
+1,04:37,MOG,13,8,RO,Fabricio
+1,04:41,MOG,13,8,2_Pts_T,André Goes
+1,05:06,PIN,13,8,AS,Bennett
+1,05:06,PIN,13,8,3_Pts_C,Buffat
+1,05:14,PIN,10,8,FR,Toledo
+1,05:14,MOG,10,8,FC,Fúlvio
+1,05:32,MOG,10,8,LL_Pts_C,Fúlvio
+1,05:32,MOG,10,7,FR,Fúlvio
+1,05:32,PIN,10,7,FC,Betinho
+1,05:32,MOG,10,7,3_Pts_C,Fúlvio
+1,05:37,MOG,10,4,RD,André Goes
+1,05:40,PIN,10,4,2_Pts_T,Betinho
+1,05:54,MOG,10,4,ER,Paranhos
+1,06:08,MOG,10,4,FR,Fúlvio
+1,06:08,PIN,10,4,ER,Toledo
+1,06:08,PIN,10,4,FC_O,Toledo
+1,06:16,PIN,10,4,RD,Bennett
+1,06:20,MOG,10,4,2_Pts_T,Fúlvio
+1,06:28,MOG,10,4,FR,André Goes
+1,06:28,PIN,10,4,FC,Ware
+1,06:35,MOG,10,4,RD,André Goes
+1,06:39,PIN,10,4,3_Pts_T,Ware
+1,06:52,PIN,10,4,BR,Betinho
+1,06:52,MOG,10,4,ER,Siqueira
+1,07:08,PIN,10,4,LL_Pts_C,Toledo
+1,07:08,PIN,9,4,FR,Toledo
+1,07:08,MOG,9,4,FC,Fabricio
+1,07:08,PIN,9,4,AS,Buffat
+1,07:08,PIN,9,4,2_Pts_C,Toledo
+1,07:15,PIN,7,4,BR,Buffat
+1,07:15,MOG,7,4,ER,André Goes
+1,07:23,MOG,7,4,RD,André Goes
+1,07:26,PIN,7,4,2_Pts_T,Toledo
+1,07:46,MOG,7,4,AS,Siqueira
+1,07:46,MOG,7,4,2_Pts_C,Paranhos
+1,08:06,PIN,7,2,2_Pts_C,Bennett
+1,08:12,PIN,5,2,RD,Ware
+1,08:15,MOG,5,2,2_Pts_T,Siqueira
+1,08:22,MOG,5,2,BR,Paranhos
+1,08:22,PIN,5,2,ER,Betinho
+1,08:35,MOG,5,2,ER,André Goes
+1,08:39,MOG,5,2,RD,Fabricio
+1,08:42,PIN,5,2,2_Pts_T,Ware
+1,08:47,PIN,5,2,BR,Buffat
+1,08:47,MOG,5,2,ER,Paranhos
+1,08:48,MOG,5,2,RO,Paranhos
+1,08:53,MOG,5,2,2_Pts_T,Siqueira
+1,09:11,PIN,5,2,3_Pts_C,Betinho
+1,09:27,MOG,2,2,2_Pts_C,Fúlvio
+1,09:37,PIN,2,0,AS,Bennett
+1,09:37,PIN,2,0,2_Pts_C,Buffat
+1,09:40,PIN,0,0,RD,Bennett
+1,09:44,MOG,0,0,2_Pts_T,André Goes
+1,10:00,MOG,0,0,substituicao_entra,André Goes
+1,10:00,MOG,0,0,substituicao_entra,Paranhos
+1,10:00,MOG,0,0,substituicao_entra,Fabricio
+1,10:00,MOG,0,0,substituicao_entra,Siqueira
+1,10:00,MOG,0,0,substituicao_entra,Fúlvio
+1,10:00,PIN,0,0,substituicao_entra,Ware
+1,10:00,PIN,0,0,substituicao_entra,Betinho
+1,10:00,PIN,0,0,substituicao_entra,Toledo
+1,10:00,PIN,0,0,substituicao_entra,Buffat
+1,10:00,PIN,0,0,substituicao_entra,Bennett
+1,10:00,NaN,0,0,inicio_partida,
