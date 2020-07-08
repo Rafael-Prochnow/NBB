@@ -2,7 +2,7 @@ import time
 from bs4 import BeautifulSoup
 import pandas as pd
 
-
+# teste
 dados = pd.read_csv('teste_07.csv')
 
 divisao1 = dados["Indicador_01"]

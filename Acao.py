@@ -9,7 +9,7 @@ import io
 
 r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos')
 soup = BeautifulSoup(r.content, 'html.parser')
-
+# teste
 
 def get_links_from(soup):
     links = []

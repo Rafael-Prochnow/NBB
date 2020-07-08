@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import requests
 import io
-
+# teste
 
 r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos')
 soup = BeautifulSoup(r.content, 'html.parser')

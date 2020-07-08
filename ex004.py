@@ -2,7 +2,7 @@ import pandas as pd
 
 df = pd.read_csv('parte_3.csv')
 # pegar a coluna individual, separar o que precisa ser separado e depois juntar a coluna principal
-
+# teste
 divisao1_placar = df["Placar"].str.split(" x ")
 
 placar_casa = divisao1_placar.str.get(0)

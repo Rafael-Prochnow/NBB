@@ -5,6 +5,7 @@ import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
+# teste
 url = 'https://lnb.com.br/nbb/tabela-de-jogos'
 
 option = Options()
