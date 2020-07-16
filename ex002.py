@@ -5,9 +5,8 @@ from selenium.webdriver.firefox.options import Options
 import requests
 import pandas as pd
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=34')
 soup = BeautifulSoup(r.content, 'html.parser')
-# teste
 
 def get_links_from(soup):
     links = []
@@ -17,6 +16,11 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
+del(list_inoutControl[:241])
+print(list_inoutControl)
+
+#print(list_inoutControl)
+
 #######################################################################################################################
 option = Options()
 option.headless = True
@@ -60,7 +64,7 @@ df_full.drop('EF', axis=1, inplace=True)
 df_full['Min'] = df_full['Min'].str.replace(':', '.')
 
 print(df_full)
-'''
+
 # divisão 1 separa da porcentagem
 divisao1 = df_full["Pts C/T %"].str.split(" ")
 # separar os convertidos e tentados
@@ -154,8 +158,4 @@ df_full.drop("RO+RD RT", axis=1, inplace=True)
 ########################################################################################################################
 # drive de saída
 df_full.to_csv("tabela_noiss.csv", index=None)
-## precisa colocar a mudança de nomes
-
-# else________________________________________________
-'''
-
+# precisa colocar a mudança de nomes

@@ -6,7 +6,7 @@ from selenium.webdriver.firefox.options import Options
 import requests
 from selenium.common.exceptions import NoSuchElementException
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=34')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
@@ -18,8 +18,15 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
+
+# jogo do pinheiros_x_vitória não aparece as estatísticas do jogo
+del(list_inoutControl[1])
+
+# jogo do mogi_x_vitoria não aparece as estatísticas do jogo 246
+del(list_inoutControl[246])
+
 #######################################################################################################################
-ii = 0
+ii = 1
 
 
 for i in list_inoutControl:
@@ -268,7 +275,8 @@ for i in list_inoutControl:
         # tirei a coluna "RO+RD RT"
         df_full.drop("RO+RD RT", axis=1, inplace=True)
 
-    df_full.to_csv(f"./Dados/tabela_{ii}.csv", index=None)
-
+    df_full.to_csv(f"./temporada 2016/tabela_{ii}.csv", index=None)
+    print(ii)
     ii = ii + 1
+
     driver.quit()
