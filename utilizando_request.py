@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
+'''
 r = requests.get('https://lnb.com.br/partidas/nbb-2019-2020-unifacisa-x-rio-claro-12102019-1600/')
 soup = BeautifulSoup(r.content, 'html.parser')
 
@@ -13,7 +14,12 @@ nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
 
 print(nome_casa)
 print(nome_fora)
+'''
 
+tabela_geral = pd.DataFrame(index=[])
+
+print(tabela_geral)
+print(type(tabela_geral))
 '''
 r = requests.get('https://lnb.com.br/noticias/basquete-cearense-87-x-90-renata-rio-claro/')
 soup = BeautifulSoup(r.content, 'html.parser')

@@ -22,12 +22,11 @@ ano = 16
 # jogo do pinheiros_x_vitória não aparece as estatísticas do jogo
 del(list_inoutControl[1])
 # jogo do mogi_x_vitoria não aparece as estatísticas do jogo 246
-del(list_inoutControl[4:])
-print(list_inoutControl)
+del(list_inoutControl[246])
 
 #######################################################################################################################
-tabela_geral = pd.DataFrame(index=['0', '1', '2', '3', '4'])
-print(tabela_geral)
+tabela_geral = pd.DataFrame([])
+
 for i in list_inoutControl:
 
     option = Options()
@@ -337,12 +336,11 @@ for i in list_inoutControl:
                        '3_Pts_T', '2_Pts_C', '2_Pts_T', 'LL_Pts_C', 'LL_Pts_T', 'RO', 'RD', 'RT', 'AS', 'BR', 'TO',
                        'FC', 'FR', 'ER', 'EN']]
     df_full.to_csv("./temporada 2016/" + nome_casa + "_x_" + nome_fora + ".csv", index=None)
-    print(nome_casa + "_" + nome_fora)
 
-    nome_coluna = nome_casa + "_x_" + nome_fora
-    print(nome_coluna)
-    # tabela_geral[nome_coluna] = pd.DataFrame(df_full, index=tabela_geral.index)
+    nome_inf_coluna = nome_casa + "_x_" + nome_fora
+    print(nome_inf_coluna)
+    tabela_geral = pd.concat([df_full, tabela_geral], axis=0)
     driver.quit()
 
-# tabela_Final = tabela_geral.T
-# print(tabela_Final)
+
+tabela_geral.to_csv("./temporada 2016/Tabela geral.csv")
