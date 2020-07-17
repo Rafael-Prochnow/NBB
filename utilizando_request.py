@@ -26,13 +26,11 @@ nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
 print(nome_casa)
 print(nome_fora)
 
-
-
-
+'''
+'''
 tabela_casa = soup.find_all("div", class_="stats_real_time_table_away table-wrapper float-left")
 df_casa = pd.read_html(str(tabela_casa))[0]
 print(df_casa)
-
 
 r = requests.get('https://lnb.com.br/noticias/e-do-mogi-paulistano/')
 soup = BeautifulSoup(r.content, 'html.parser')

@@ -18,17 +18,16 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
-
+ano = 16
 # jogo do pinheiros_x_vitória não aparece as estatísticas do jogo
 del(list_inoutControl[1])
-
 # jogo do mogi_x_vitoria não aparece as estatísticas do jogo 246
-del(list_inoutControl[246])
+del(list_inoutControl[4:])
+print(list_inoutControl)
 
 #######################################################################################################################
-ii = 1
-
-
+tabela_geral = pd.DataFrame(index=['0', '1', '2', '3', '4'])
+print(tabela_geral)
 for i in list_inoutControl:
 
     option = Options()
@@ -61,9 +60,38 @@ for i in list_inoutControl:
         soup_2 = BeautifulSoup(html_content_2, 'html.parser')
         table_2 = soup_2.find(name='table')
 
-        # Estruturar conteúdos em uma Data Frame
+        r1 = requests.get(f'{i}')
+        soup01 = BeautifulSoup(r1.content, 'html.parser')
+
+        informacoes_1 = soup01.find_all("div", class_="float-left text-right")
+        informacoes_2 = soup01.find_all("div", class_="float-right text-left")
+
+        nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
+        nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
+
         time_casa = pd.read_html(str(table))[0]
+        linhas = len(time_casa)
+        tamanho_casa = [nome_casa for item in range(linhas)]
+        tamanho_casa_adversario = [nome_fora for item01 in range(linhas)]
+        tamanho01_casa = [1 for item02 in range(linhas)]
+        ano_casa = [ano for item03 in range(linhas)]
+
+        time_casa['time'] = tamanho_casa
+        time_casa['casa/fora'] = tamanho01_casa
+        time_casa['adversário'] = tamanho_casa_adversario
+        time_casa['Temporada'] = ano_casa
+
         time_fora = pd.read_html(str(table_2))[0]
+        linhas_fora = len(time_fora)
+        tamanho_fora = [nome_fora for itens in range(linhas_fora)]
+        tamanho01_fora = [2 for itens01 in range(linhas_fora)]
+        ano_fora = [ano for itens02 in range(linhas_fora)]
+        tamanho_fora_adversario = [nome_casa for itens03 in range(linhas_fora)]
+
+        time_fora['time'] = tamanho_fora
+        time_fora['casa/fora'] = tamanho01_fora
+        time_fora['adversário'] = tamanho_fora_adversario
+        time_fora['Temporada'] = ano_fora
 
         df_full = pd.concat([time_casa, time_fora], axis=0)
 
@@ -174,9 +202,39 @@ for i in list_inoutControl:
         soup_2 = BeautifulSoup(html_content_2, 'html.parser')
         table_2 = soup_2.find(name='table')
 
+        r1 = requests.get(f'{i}')
+        soup01 = BeautifulSoup(r1.content, 'html.parser')
+
+        informacoes_1 = soup01.find_all("div", class_="score_header large-12 small-12 medium-12 columns")
+        informacoes_2 = soup01.find_all("div", class_="float-right text-left score_header_right")
+
+        nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
+        nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
+
         # Estruturar conteúdos em uma Data Frame
         time_casa = pd.read_html(str(table))[0]
+        linhas = len(time_casa)
+        tamanho_casa = [nome_casa for item in range(linhas)]
+        tamanho_casa_adversario = [nome_fora for item01 in range(linhas)]
+        tamanho01_casa = [1 for item02 in range(linhas)]
+        ano_casa = [ano for item03 in range(linhas)]
+
+        time_casa['time'] = tamanho_casa
+        time_casa['casa/fora'] = tamanho01_casa
+        time_casa['adversário'] = tamanho_casa_adversario
+        time_casa['Temporada'] = ano_casa
+
         time_fora = pd.read_html(str(table_2))[0]
+        linhas_fora = len(time_fora)
+        tamanho_fora = [nome_fora for itens in range(linhas_fora)]
+        tamanho01_fora = [2 for itens01 in range(linhas_fora)]
+        ano_fora = [ano for itens02 in range(linhas_fora)]
+        tamanho_fora_adversario = [nome_casa for itens03 in range(linhas_fora)]
+
+        time_fora['time'] = tamanho_fora
+        time_fora['casa/fora'] = tamanho01_fora
+        time_fora['adversário'] = tamanho_fora_adversario
+        time_fora['Temporada'] = ano_fora
 
         df_full = pd.concat([time_casa, time_fora], axis=0)
 
@@ -275,8 +333,16 @@ for i in list_inoutControl:
         # tirei a coluna "RO+RD RT"
         df_full.drop("RO+RD RT", axis=1, inplace=True)
 
-    df_full.to_csv(f"./temporada 2016/tabela_{ii}.csv", index=None)
-    print(ii)
-    ii = ii + 1
+    df_full = df_full[['Temporada', 'time', 'adversário', 'casa/fora', 'Jogador', 'Min', 'Pts_C', 'Pts_T', '3_Pts_C',
+                       '3_Pts_T', '2_Pts_C', '2_Pts_T', 'LL_Pts_C', 'LL_Pts_T', 'RO', 'RD', 'RT', 'AS', 'BR', 'TO',
+                       'FC', 'FR', 'ER', 'EN']]
+    df_full.to_csv("./temporada 2016/" + nome_casa + "_x_" + nome_fora + ".csv", index=None)
+    print(nome_casa + "_" + nome_fora)
 
+    nome_coluna = nome_casa + "_x_" + nome_fora
+    print(nome_coluna)
+    # tabela_geral[nome_coluna] = pd.DataFrame(df_full, index=tabela_geral.index)
     driver.quit()
+
+# tabela_Final = tabela_geral.T
+# print(tabela_Final)

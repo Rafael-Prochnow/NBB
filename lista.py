@@ -9,7 +9,6 @@ r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
-
 def get_links_from(soup):
     links = []
     for a in soup.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
@@ -18,7 +17,20 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
+ano = 19
 #######################################################################################################################
+r1 = requests.get(list_inoutControl[2])
+soup01 = BeautifulSoup(r1.content, 'html.parser')
+
+informacoes_1 = soup01.find_all("div", class_="float-left text-right")
+informacoes_2 = soup01.find_all("div", class_="float-right text-left")
+
+nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
+nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
+
+print(nome_casa)
+print(nome_fora)
+
 option = Options()
 option.headless = True
 driver = webdriver.Firefox()
@@ -51,8 +63,31 @@ soup_2 = BeautifulSoup(html_content_2, 'html.parser')
 table_2 = soup_2.find(name='table')
 
 # Estruturar conteúdos em uma Data Frame
+# Estruturar conteúdos em uma Data Frame
 time_casa = pd.read_html(str(table))[0]
+linhas = len(time_casa)
+tamanho_casa = [nome_casa for item in range(linhas)]
+tamanho_casa_adversario = [nome_fora for item01 in range(linhas)]
+tamanho01_casa = [1 for item02 in range(linhas)]
+ano_casa = [ano for item03 in range(linhas)]
+
+time_casa['time'] = tamanho_casa
+time_casa['casa/fora'] = tamanho01_casa
+time_casa['adversário'] = tamanho_casa_adversario
+time_casa['Temporada'] = ano_casa
+
+
 time_fora = pd.read_html(str(table_2))[0]
+linhas_fora = len(time_fora)
+tamanho_fora = [nome_fora for itens in range(linhas_fora)]
+tamanho01_fora = [2 for itens01 in range(linhas_fora)]
+ano_fora = [ano for itens02 in range(linhas_fora)]
+tamanho_fora_adversario = [nome_casa for itens03 in range(linhas_fora)]
+
+time_fora['time'] = tamanho_fora
+time_fora['casa/fora'] = tamanho01_fora
+time_fora['adversário'] = tamanho_fora_adversario
+time_fora['Temporada'] = ano_fora
 
 df_full = pd.concat([time_casa, time_fora], axis=0)
 
@@ -61,7 +96,8 @@ df_full.drop('+/-', axis=1, inplace=True)
 df_full.drop('EF', axis=1, inplace=True)
 
 ########################################################################################################################
-# Nr.,Jogador,Min,AS,BR,TO,FC,FR,ER,EN,+-,EF,Pts_C,Pts_T,Pts_P,3_Pts_C,3_Pts_T,3_Pts_P,2_Pts_C,2_Pts_T,2_Pts_P,LL_Pts_C,LL_Pts_T,LL_Pts_P,RO,RD,RT
+# Nr.,Jogador,Min,AS,BR,TO,FC,FR,ER,EN,+-,EF,Pts_C,Pts_T,Pts_P,3_Pts_C,3_Pts_T,3_Pts_P,2_Pts_C,2_Pts_T,2_Pts_P,LL_Pts_C,
+# LL_Pts_T,LL_Pts_P,RO,RD,RT
 # divisão 1 separa da porcentagem
 divisao1 = df_full["Pts"].str.split(" ")
 # separar os convertidos e tentados
@@ -153,8 +189,8 @@ df_full["RT"] = RT
 # tirei a coluna "Pts C/T %"
 df_full.drop("RD+RO RT", axis=1, inplace=True)
 ########################################################################################################################
-# juntar as duas tabelas para que seja um só dado
-
-# salvar em csv
-df_full.to_csv("tabela_02.csv", index=None)
-
+df_full = df_full[['Temporada', 'time', 'adversário', 'casa/fora', 'Jogador', 'Min', 'Pts_C', 'Pts_T', '3_Pts_C',
+                   '3_Pts_T', '2_Pts_C', '2_Pts_T', 'LL_Pts_C', 'LL_Pts_T', 'RO', 'RD', 'RT', 'AS', 'BR', 'TO', 'FC',
+                   'FR', 'ER', 'EN']]
+df_full.to_csv(nome_casa + "_" + nome_fora + ".csv", index=None)
+print(df_full)
