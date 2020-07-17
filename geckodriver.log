@@ -34878,7 +34878,9 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1594921135934	Marionette	INFO	Listening on port 56234
 1594921136361	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1594922740355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileZvcA1M"
+Exiting due to channel error.
+Exiting due to channel error.
+gram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileZvcA1M"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
@@ -34960,3 +34962,563 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1594923227762	Marionette	INFO	Listening on port 57607
 1594923227889	Marionette	WARN	TLS certificate errors will be ignored for this session
 1594923250090	Marionette	INFO	Stopped listening on port 57607
+1594925010551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofilepW33Nh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594925017606	Marionette	INFO	Listening on port 57899
+1594925017876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1594926784126	Marionette	INFO	Stopped listening on port 57899
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594926690072	Marionette	INFO	Listening on port 58160
+1594926690127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1594926784378	Marionette	INFO	Stopped listening on port 58160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594990383638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofilegjnFPd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594990396466	Marionette	INFO	Listening on port 59083
+1594990398103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1594990659158	Marionette	INFO	Stopped listening on port 59083
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594996654555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofile9Wyo4O"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594996658331	Marionette	INFO	Listening on port 52750
+1594996658668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1595005404624	Marionette	INFO	Stopped listening on port 52750
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595005619121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileBnCsbD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595005622386	Marionette	INFO	Listening on port 53574
+1595005622737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://lnb.com.br/wp-content/themes/lnb-2016/bundle.js?v=1594662288, line 9: TypeError: t.getBoundingClientRect is not a function
+1595005688210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileyeQLX4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595005691531	Marionette	INFO	Listening on port 53657
+1595005691824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1595005769411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofilepgraY3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595005773181	Marionette	INFO	Listening on port 53753
+1595005773527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://lnb.com.br/wp-content/themes/lnb-2016/bundle.js?v=1594662288, line 9: TypeError: t.getBoundingClientRect is not a function
+1595006002859	Marionette	INFO	Stopped listening on port 53753
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595006073435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileDJ80wP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595006077218	Marionette	INFO	Listening on port 53915
+1595006077560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1595006407968	Marionette	INFO	Stopped listening on port 53915
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+N	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595006409017	Marionette	INFO	Stopped listening on port 54023
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595006547593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileIDrq51"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595006551391	Marionette	INFO	Listening on port 54159
+1595006551713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595006727933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileSKsEkt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595006731535	Marionette	INFO	Listening on port 54279
+1595006731565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595006842576	Marionette	INFO	Stopped listening on port 54279
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595006849525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileKSY43J"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595006853321	Marionette	INFO	Listening on port 54370
+1595006853638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595007058481	Marionette	INFO	Stopped listening on port 54370
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595007062423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileNZT51V"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595007065792	Marionette	INFO	Listening on port 54477
+1595007066033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595007165028	Marionette	INFO	Stopped listening on port 54477
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595007171683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileC5scmM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595007175532	Marionette	INFO	Listening on port 54568
+1595007175804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595007228817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileDAPOO9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595007232794	Marionette	INFO	Listening on port 54649
+1595007232927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595007410887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofile3lFdOU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595007414264	Marionette	INFO	Listening on port 54752
+1595007414502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595007700440	Marionette	INFO	Stopped listening on port 54752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595007703975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileiJus5d"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595007707828	Marionette	INFO	Listening on port 54885
+1595007708088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595007769949	Marionette	INFO	Stopped listening on port 54885
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595007773976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofilegJ0E7U"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595007777451	Marionette	INFO	Listening on port 54978
+1595007777650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595008036780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofile7AEG6Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595008040508	Marionette	INFO	Listening on port 55096
+1595008040891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1595008222930	Marionette	INFO	Stopped listening on port 55096
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+N	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595008225297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofilePFvuRm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595008230109	Marionette	INFO	Listening on port 55289
+1595008230513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595008276898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileWsuL8p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595008280590	Marionette	INFO	Listening on port 55381
+1595008281010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595010955111	Marionette	INFO	Stopped listening on port 55381
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595010962193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileapKg8u"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595010966557	Marionette	INFO	Listening on port 55857
+1595010966908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+1595011172704	Marionette	INFO	Stopped listening on port 55857
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595011176700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ELEN-P~1\\AppData\\Local\\Temp\\rust_mozprofileODF4EA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595011180474	Marionette	INFO	Listening on port 55990
+1595011180810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 568: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
+JavaScript error: https://platform.twitter.com/widgets.js, line 1: Error: No target element specified. Expected: ƒ(tweetId, target, [options]);
