@@ -26,6 +26,8 @@ del(list_inoutControl[246])
 
 #######################################################################################################################
 tabela_geral = pd.DataFrame([])
+tabela_inf = pd.DataFrame([])
+ii = 1
 
 for i in list_inoutControl:
 
@@ -67,6 +69,10 @@ for i in list_inoutControl:
 
         nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
         nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
+
+        # acontece erro por conta de nomes com siglas ai eu preciso substituir
+        nome_casa = nome_casa.replace('/', ' ')
+        nome_fora = nome_fora.replace('/', ' ')
 
         time_casa = pd.read_html(str(table))[0]
         linhas = len(time_casa)
@@ -210,6 +216,10 @@ for i in list_inoutControl:
         nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
         nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
 
+        # acontece erro por conta de nomes com siglas ai eu preciso substituir
+        nome_casa = nome_casa.replace('/', ' ')
+        nome_fora = nome_fora.replace('/', ' ')
+
         # Estruturar conteúdos em uma Data Frame
         time_casa = pd.read_html(str(table))[0]
         linhas = len(time_casa)
@@ -335,12 +345,16 @@ for i in list_inoutControl:
     df_full = df_full[['Temporada', 'time', 'adversário', 'casa/fora', 'Jogador', 'Min', 'Pts_C', 'Pts_T', '3_Pts_C',
                        '3_Pts_T', '2_Pts_C', '2_Pts_T', 'LL_Pts_C', 'LL_Pts_T', 'RO', 'RD', 'RT', 'AS', 'BR', 'TO',
                        'FC', 'FR', 'ER', 'EN']]
-    df_full.to_csv("./temporada 2016/" + nome_casa + "_x_" + nome_fora + ".csv", index=None)
+    df_full.to_csv("./temporada 2016/" + "tabela_" + f"{ii}" + "_" + nome_casa + "_x_" + nome_fora + ".csv", index=None)
 
     nome_inf_coluna = nome_casa + "_x_" + nome_fora
     print(nome_inf_coluna)
     tabela_geral = pd.concat([df_full, tabela_geral], axis=0)
+    ii = ii + 1
+    tabela_inf = pd.concat([nome_inf_coluna, tabela_inf], axis=0)
+
     driver.quit()
 
 
-tabela_geral.to_csv("./temporada 2016/Tabela geral.csv")
+tabela_geral.to_csv("./temporada 2016/Tabela_geral_2016.csv")
+tabela_inf.to_csv("./temporada 2016/Tabela_geral_informaçoes_2016.csv")

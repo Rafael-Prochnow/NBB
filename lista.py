@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import requests
-
+'''
 r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos')
 soup = BeautifulSoup(r.content, 'html.parser')
 
@@ -17,9 +17,10 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
+'''
 ano = 19
 #######################################################################################################################
-r1 = requests.get(list_inoutControl[2])
+r1 = requests.get('https://lnb.com.br/noticias/que-estreia-2/')
 soup01 = BeautifulSoup(r1.content, 'html.parser')
 
 informacoes_1 = soup01.find_all("div", class_="float-left text-right")
@@ -28,15 +29,18 @@ informacoes_2 = soup01.find_all("div", class_="float-right text-left")
 nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
 nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
 
+nome_casa = nome_casa.replace('/', ' ')
+nome_fora = nome_fora.replace('/', ' ')
+
 print(nome_casa)
 print(nome_fora)
-
+'''
 option = Options()
 option.headless = True
 driver = webdriver.Firefox()
 # options=option
 
-driver.get(list_inoutControl[2])
+driver.get('https://lnb.com.br/noticias/que-estreia-2/')
 time.sleep(10)
 ########################################################################################################################
 # função
@@ -194,3 +198,4 @@ df_full = df_full[['Temporada', 'time', 'adversário', 'casa/fora', 'Jogador', '
                    'FR', 'ER', 'EN']]
 df_full.to_csv(nome_casa + "_" + nome_fora + ".csv", index=None)
 print(df_full)
+'''
