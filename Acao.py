@@ -42,8 +42,7 @@ del(list_inoutControl[156])
 # erro me cearence_77x71_franca
 del(list_inoutControl[168])
 
-del(list_inoutControl[:167])
-print(list_inoutControl)
+
 '''
 ano = 16
 # jogo do pinheiros_x_vitória não aparece as estatísticas do jogo
@@ -69,7 +68,7 @@ del(list_inoutControl[85])
 '''
 #######################################################################################################################
 
-ii = 168
+ii = 1
 
 for i in list_inoutControl:
 
@@ -216,7 +215,7 @@ for i in list_inoutControl:
         a34 = a33.str.replace('Técnico da equipe ', '')
         a35 = a34.str.replace(' pede tempo ', '/tempo_tecnico;')
         # cravada
-        a36 = a35.str.replace(' Cravada ', '')
+        a36 = a35.str.replace('Cravada ', '')
         a37 = a36.str.replace(' acerta enterrada ', '/EN;1')
 
         # primeira separação é coloco na ordem dos nomes e depois indicadores

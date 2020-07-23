@@ -150,7 +150,7 @@ a33 = a32.str.replace(' dá um toco ', '/TO;1')
 a34 = a33.str.replace('Técnico da equipe ', '')
 a35 = a34.str.replace(' pede tempo ', '/tempo_tecnico;')
 # cravada
-a36 = a35.str.replace(' Cravada ', '')
+a36 = a35.str.replace('Cravada ', '')
 a37 = a36.str.replace(' acerta enterrada', '/EN;1')
 
 # primeira separação é coloco na ordem dos nomes e depois indicadores
