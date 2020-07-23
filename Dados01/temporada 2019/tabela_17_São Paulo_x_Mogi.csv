@@ -1,0 +1,558 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,80,83,fim_partida,
+1,4,00:00,NaN,80,83,fim_quarto, 
+2,4,00:01,SPF,80,83,3_Pts_T,Jefferson
+3,4,00:03,MOG,80,83,LL_Pts_C,Fúlvio
+4,4,00:03,MOG,80,82,LL_Pts_T,Fúlvio
+5,4,00:03,SPF,80,82,substituicao_entra,Renan
+6,4,00:03,SPF,80,82,substituicao_sai,Murilo
+7,4,00:03,MOG,80,82,FR,Fúlvio
+8,4,00:03,SPF,80,82,FC,Murilo
+9,4,00:04,SPF,80,82,LL_Pts_C,Shamell
+10,4,00:04,SPF,79,82,LL_Pts_T,Shamell
+11,4,00:04,MOG,79,82,substituicao_entra,Colina
+12,4,00:04,MOG,79,82,substituicao_sai,Gruber
+13,4,00:04,SPF,79,82,substituicao_entra,Murilo
+14,4,00:04,SPF,79,82,substituicao_sai,Jones
+15,4,00:04,SPF,79,82,FR,Shamell
+16,4,00:04,MOG,79,82,FC,Gruber
+17,4,00:05,SPF,79,82,substituicao_entra,Jones
+18,4,00:05,SPF,79,82,substituicao_sai,Renan
+19,4,00:09,MOG,79,82,LL_Pts_C,Alexey
+20,4,00:09,MOG,79,81,LL_Pts_C,Alexey
+21,4,00:09,SPF,79,80,substituicao_entra,Shamell
+22,4,00:09,SPF,79,80,substituicao_sai,Cassiano
+23,4,00:09,SPF,79,80,substituicao_entra,Léo Meindl
+24,4,00:09,SPF,79,80,substituicao_sai,Jones
+25,4,00:09,MOG,79,80,FR,Alexey
+26,4,00:09,SPF,79,80,FC,Cassiano
+27,4,00:13,SPF,79,80,LL_Pts_C,Renan
+28,4,00:13,SPF,78,80,substituicao_entra,Jones
+29,4,00:13,SPF,78,80,substituicao_sai,Shamell
+30,4,00:13,SPF,78,80,substituicao_entra,Cassiano
+31,4,00:13,SPF,78,80,substituicao_sai,Léo Meindl
+32,4,00:13,SPF,78,80,FR,Renan
+33,4,00:13,MOG,78,80,FC,Gruber
+34,4,00:13,SPF,78,80,2_Pts_C,Renan
+35,4,00:13,SPF,76,80,RO,Renan
+36,4,00:13,SPF,76,80,2_Pts_T,Jefferson
+37,4,00:20,SPF,76,80,substituicao_entra,Renan
+38,4,00:20,SPF,76,80,substituicao_sai,Murilo
+39,4,00:24,MOG,76,80,ER,Alexey
+40,4,00:24,MOG,76,80,LL_Pts_C,André Goes
+41,4,00:24,MOG,76,79,LL_Pts_C,André Goes
+42,4,00:24,MOG,76,78,FR,André Goes
+43,4,00:24,SPF,76,78,FC_A,De Paula
+44,4,00:24,MOG,76,78,RD,André Goes
+45,4,00:26,SPF,76,78,3_Pts_T,De Paula
+46,4,00:37,SPF,76,78,substituicao_entra,Jefferson
+47,4,00:37,SPF,76,78,substituicao_sai,Jones
+48,4,00:37,SPF,76,78,tempo_tecnico,São Paulo
+49,4,00:37,MOG,76,78,AS,Alexey
+50,4,00:37,MOG,76,78,3_Pts_C,Fúlvio
+51,4,00:52,MOG,76,75,RD,Mogi
+52,4,00:53,SPF,76,75,2_Pts_T,De Paula
+53,4,01:03,SPF,76,75,FR,Léo Meindl
+54,4,01:03,MOG,76,75,FC,André Goes
+55,4,01:15,SPF,76,75,substituicao_entra,Murilo
+56,4,01:15,SPF,76,75,substituicao_sai,Renan
+57,4,01:15,SPF,76,75,tempo_tecnico,São Paulo
+58,4,01:18,MOG,76,75,LL_Pts_C,Gruber
+59,4,01:18,MOG,76,74,FR,Gruber
+60,4,01:18,SPF,76,74,FC,De Paula
+61,4,01:18,MOG,76,74,2_Pts_C,Gruber
+62,4,01:18,MOG,76,72,RO,Gruber
+63,4,01:19,MOG,76,72,3_Pts_T,Alexey
+64,4,01:33,MOG,76,72,FR,Fúlvio
+65,4,01:33,SPF,76,72,ER,Shamell
+66,4,01:33,SPF,76,72,FC_O,Shamell
+67,4,01:36,SPF,76,72,RO,Léo Meindl
+68,4,01:36,SPF,76,72,LL_Pts_T,De Paula
+69,4,01:36,SPF,76,72,FR,De Paula
+70,4,01:36,MOG,76,72,FC,Alexey
+71,4,01:36,SPF,76,72,2_Pts_C,De Paula
+72,4,01:39,SPF,74,72,RD,De Paula
+73,4,01:42,MOG,74,72,2_Pts_T,André Goes
+74,4,01:45,MOG,74,72,RO,Mogi
+75,4,01:45,MOG,74,72,3_Pts_T,Gruber
+76,4,02:06,SPF,74,72,substituicao_entra,Renan
+77,4,02:06,SPF,74,72,substituicao_sai,Murilo
+78,4,02:06,SPF,74,72,LL_Pts_C,Murilo
+79,4,02:06,SPF,73,72,AS,De Paula
+80,4,02:06,SPF,73,72,LL_Pts_C,Murilo
+81,4,02:06,SPF,72,72,FR,Murilo
+82,4,02:06,MOG,72,72,FC,Gruber
+83,4,02:27,MOG,72,72,2_Pts_C,Gruber
+84,4,02:45,SPF,72,70,AS,Léo Meindl
+85,4,02:45,SPF,72,70,3_Pts_C,De Paula
+86,4,02:58,SPF,69,70,RD,Murilo
+87,4,03:01,MOG,69,70,2_Pts_T,Gruber
+88,4,03:17,MOG,69,70,BR,Lessa
+89,4,03:17,SPF,69,70,ER,Jones
+90,4,03:18,SPF,69,70,RO,Jones
+91,4,03:22,SPF,69,70,2_Pts_T,Shamell
+92,4,03:41,MOG,69,70,LL_Pts_C,Gruber
+93,4,03:41,MOG,69,69,FR,Gruber
+94,4,03:41,SPF,69,69,FC,Murilo
+95,4,03:41,MOG,69,69,2_Pts_C,Gruber
+96,4,03:55,SPF,69,67,ER,Léo Meindl
+97,4,04:06,MOG,69,67,AS,Fúlvio
+98,4,04:06,MOG,69,67,3_Pts_C,Gruber
+99,4,04:25,MOG,69,64,RD,André Goes
+100,4,04:25,SPF,69,64,LL_Pts_T,Léo Meindl
+101,4,04:25,SPF,69,64,substituicao_entra,Murilo
+102,4,04:25,SPF,69,64,substituicao_sai,Renan
+103,4,04:25,SPF,69,64,substituicao_entra,De Paula
+104,4,04:25,SPF,69,64,substituicao_sai,Cassiano
+105,4,04:25,SPF,69,64,FR,Léo Meindl
+106,4,04:25,MOG,69,64,FC,André Goes
+107,4,04:25,SPF,69,64,2_Pts_C,Léo Meindl
+108,4,04:25,SPF,67,64,RO,Léo Meindl
+109,4,04:25,SPF,67,64,2_Pts_T,Léo Meindl
+110,4,04:27,SPF,67,64,RO,Léo Meindl
+111,4,04:29,SPF,67,64,3_Pts_T,Cassiano
+112,4,04:51,MOG,67,64,2_Pts_C,Alexey
+113,4,05:13,MOG,67,62,RD,Fúlvio
+114,4,05:18,MOG,67,62,TO,Gruber
+115,4,05:18,SPF,67,62,2_Pts_T,Shamell
+116,4,05:34,MOG,67,62,LL_Pts_C,Gruber
+117,4,05:34,MOG,67,61,LL_Pts_C,Gruber
+118,4,05:34,MOG,67,60,FR,Gruber
+119,4,05:34,SPF,67,60,FC,Léo Meindl
+120,4,05:51,MOG,67,60,FR,Gruber
+121,4,05:51,SPF,67,60,FC,Renan
+122,4,05:51,MOG,67,60,RD,Gruber
+123,4,05:51,SPF,67,60,3_Pts_T,Léo Meindl
+124,4,06:16,MOG,67,60,AS,Fúlvio
+125,4,06:16,MOG,67,60,EN,Gruber
+126,4,06:34,SPF,67,58,substituicao_entra,Cassiano
+127,4,06:34,SPF,67,58,substituicao_sai,De Paula
+128,4,06:34,MOG,67,58,tempo_tecnico,Mogi
+129,4,06:34,MOG,67,58,FR,Gruber
+130,4,06:34,SPF,67,58,FC,De Paula
+131,4,06:37,MOG,67,58,BR,Gruber
+132,4,06:37,SPF,67,58,ER,De Paula
+133,4,06:38,SPF,67,58,RD,Renan
+134,4,06:41,MOG,67,58,2_Pts_T,Lessa
+135,4,07:00,MOG,67,58,RD,Fúlvio
+136,4,07:02,SPF,67,58,2_Pts_T,Jones
+137,4,07:04,SPF,67,58,RO,Léo Meindl
+138,4,07:06,SPF,67,58,2_Pts_T,De Paula
+139,4,07:19,SPF,67,58,RD,Renan
+140,4,07:21,MOG,67,58,3_Pts_T,Gruber
+141,4,07:28,MOG,67,58,RO,Mogi
+142,4,07:29,SPF,67,58,TO,Renan
+143,4,07:29,MOG,67,58,2_Pts_T,Lessa
+144,4,07:33,MOG,67,58,BR,André Goes
+145,4,07:33,SPF,67,58,ER,Léo Meindl
+146,4,07:48,MOG,67,58,ER,Alexey
+147,4,08:06,SPF,67,58,3_Pts_C,De Paula
+148,4,08:26,SPF,64,58,RD,Shamell
+149,4,08:28,MOG,64,58,3_Pts_T,André Goes
+150,4,08:36,MOG,64,58,BR,Lessa
+151,4,08:36,SPF,64,58,ER,De Paula
+152,4,08:43,SPF,64,58,RD,De Paula
+153,4,08:45,MOG,64,58,2_Pts_T,André Goes
+154,4,08:57,MOG,64,58,RD,Alexey
+155,4,09:00,SPF,64,58,3_Pts_T,Jones
+156,4,09:07,SPF,64,58,RD,De Paula
+157,4,09:09,MOG,64,58,3_Pts_T,Gruber
+158,4,09:25,SPF,64,58,ER,De Paula
+159,4,09:27,SPF,64,58,RD,De Paula
+160,4,09:30,MOG,64,58,2_Pts_T,Gruber
+161,4,09:41,MOG,64,58,RD,André Goes
+162,4,09:44,SPF,64,58,3_Pts_T,Renan
+163,4,10:00,NaN,64,58,inicio_quarto,
+164,3,00:00,NaN,64,58,fim_quarto,
+165,3,00:01,SPF,64,58,3_Pts_T,De Paula
+166,3,00:08,MOG,64,58,substituicao_entra,Lucas
+167,3,00:08,MOG,64,58,substituicao_sai,Fúlvio
+168,3,00:08,MOG,64,58,LL_Pts_C,André Goes
+169,3,00:08,MOG,64,57,LL_Pts_C,André Goes
+170,3,00:08,MOG,64,56,FR,André Goes
+171,3,00:08,SPF,64,56,FC,Jones
+172,3,00:24,MOG,64,56,RD,Lessa
+173,3,00:27,SPF,64,56,3_Pts_T,Jefferson
+174,3,00:33,SPF,64,56,BR,Léo Meindl
+175,3,00:33,MOG,64,56,ER,André Goes
+176,3,00:42,SPF,64,56,AS,De Paula
+177,3,00:42,SPF,64,56,3_Pts_C,Léo Meindl
+178,3,00:57,MOG,61,56,2_Pts_C,Fúlvio
+179,3,01:04,MOG,61,54,RD,Lessa
+180,3,01:09,SPF,61,54,2_Pts_T,Jefferson
+181,3,01:27,MOG,61,54,LL_Pts_C,Alexey
+182,3,01:27,MOG,61,53,LL_Pts_C,Alexey
+183,3,01:27,MOG,61,52,FR,Alexey
+184,3,01:27,SPF,61,52,FC,Jones
+185,3,01:39,SPF,61,52,AS,Léo Meindl
+186,3,01:39,SPF,61,52,3_Pts_C,Jones
+187,3,01:49,MOG,58,52,LL_Pts_C,André Goes
+188,3,01:49,MOG,58,51,LL_Pts_T,André Goes
+189,3,01:49,MOG,58,51,FR,André Goes
+190,3,01:49,SPF,58,51,FC,Shamell
+191,3,01:57,SPF,58,51,AS,Jones
+192,3,01:57,SPF,58,51,3_Pts_C,Léo Meindl
+193,3,02:15,MOG,55,51,2_Pts_C,Gruber
+194,3,02:33,SPF,55,49,2_Pts_C,Léo Meindl
+195,3,02:39,SPF,53,49,RD,Léo Meindl
+196,3,02:41,MOG,53,49,3_Pts_T,Lessa
+197,3,03:04,MOG,53,49,substituicao_entra,Fúlvio
+198,3,03:04,MOG,53,49,substituicao_sai,Lucas
+199,3,03:04,MOG,53,49,tempo_tecnico,Mogi
+200,3,03:07,SPF,53,49,AS,De Paula
+201,3,03:07,SPF,53,49,2_Pts_C,Shamell
+202,3,03:10,SPF,51,49,RD,Shamell
+203,3,03:12,MOG,51,49,3_Pts_T,Lucas
+204,3,03:32,SPF,51,49,AS,Jones
+205,3,03:32,SPF,51,49,2_Pts_C,De Paula
+206,3,03:36,SPF,49,49,RD,Jones
+207,3,03:39,MOG,49,49,3_Pts_T,Alexey
+208,3,03:46,MOG,49,49,RD,André Goes
+209,3,03:49,SPF,49,49,2_Pts_T,Léo Meindl
+210,3,04:05,MOG,49,49,substituicao_entra,Lucas
+211,3,04:05,MOG,49,49,substituicao_sai,Fúlvio
+212,3,04:05,MOG,49,49,LL_Pts_C,Fúlvio
+213,3,04:05,MOG,49,48,LL_Pts_C,Fúlvio
+214,3,04:05,MOG,49,47,FR,Fúlvio
+215,3,04:05,SPF,49,47,FC,Léo Meindl
+216,3,04:05,MOG,49,47,RD,Mogi
+217,3,04:06,SPF,49,47,2_Pts_T,Shamell
+218,3,04:16,SPF,49,47,RD,Léo Meindl
+219,3,04:19,MOG,49,47,3_Pts_T,André Goes
+220,3,04:33,MOG,49,47,substituicao_entra,Lessa
+221,3,04:33,MOG,49,47,substituicao_sai,Colina
+222,3,04:33,MOG,49,47,FR,Gruber
+223,3,04:33,SPF,49,47,FC,Jefferson
+224,3,04:44,SPF,49,47,AS,Shamell
+225,3,04:44,SPF,49,47,3_Pts_C,Jones
+226,3,04:53,SPF,46,47,RD,São Paulo
+227,3,04:56,MOG,46,47,3_Pts_T,André Goes
+228,3,05:11,MOG,46,47,RD,André Goes
+229,3,05:14,SPF,46,47,3_Pts_T,Shamell
+230,3,05:34,MOG,46,47,AS,Alexey
+231,3,05:34,MOG,46,47,3_Pts_C,Fúlvio
+232,3,05:38,MOG,46,44,RD,Alexey
+233,3,05:40,SPF,46,44,2_Pts_T,Léo Meindl
+234,3,05:41,SPF,46,44,RO,Léo Meindl
+235,3,05:41,SPF,46,44,LL_Pts_T,Jefferson
+236,3,05:41,SPF,46,44,LL_Pts_C,Jefferson
+237,3,05:41,MOG,45,44,substituicao_entra,Colina
+238,3,05:41,MOG,45,44,substituicao_sai,Lessa
+239,3,05:41,MOG,45,44,substituicao_entra,Fúlvio
+240,3,05:41,MOG,45,44,substituicao_sai,Lucas
+241,3,05:41,SPF,45,44,FR,Jefferson
+242,3,05:41,MOG,45,44,FC,Gruber
+243,3,05:41,SPF,45,44,RO,Jefferson
+244,3,05:44,SPF,45,44,3_Pts_T,Shamell
+245,3,05:47,SPF,45,44,RD,Léo Meindl
+246,3,05:49,MOG,45,44,3_Pts_T,Gruber
+247,3,06:09,SPF,45,44,AS,Léo Meindl
+248,3,06:09,SPF,45,44,2_Pts_C,Jones
+249,3,06:13,SPF,43,44,RD,Léo Meindl
+250,3,06:15,MOG,43,44,3_Pts_T,Lessa
+251,3,06:37,SPF,43,44,AS,Shamell
+252,3,06:37,SPF,43,44,2_Pts_C,Jones
+253,3,06:39,SPF,41,44,RD,Léo Meindl
+254,3,06:42,MOG,41,44,2_Pts_T,André Goes
+255,3,06:51,MOG,41,44,FR,Alexey
+256,3,06:51,SPF,41,44,FC,Jefferson
+257,3,07:08,MOG,41,44,tempo_tecnico,Mogi
+258,3,07:12,SPF,41,44,2_Pts_C,Léo Meindl
+259,3,07:26,SPF,39,44,RD,Jefferson
+260,3,07:28,MOG,39,44,2_Pts_T,Lessa
+261,3,07:35,MOG,39,44,RD,Gruber
+262,3,07:35,SPF,39,44,LL_Pts_T,Shamell
+263,3,07:35,MOG,39,44,substituicao_entra,Lucas
+264,3,07:35,MOG,39,44,substituicao_sai,Colina
+265,3,07:35,SPF,39,44,FR,Shamell
+266,3,07:35,MOG,39,44,FC,Gruber
+267,3,07:35,SPF,39,44,2_Pts_C,Shamell
+268,3,07:48,SPF,37,44,RD,De Paula
+269,3,07:50,MOG,37,44,2_Pts_T,Gruber
+270,3,08:00,MOG,37,44,RD,Alexey
+271,3,08:03,SPF,37,44,3_Pts_T,Shamell
+272,3,08:12,MOG,37,44,AS,Alexey
+273,3,08:12,MOG,37,44,3_Pts_C,Lessa
+274,3,08:22,MOG,37,41,substituicao_entra,Colina
+275,3,08:22,MOG,37,41,substituicao_sai,Fúlvio
+276,3,08:22,MOG,37,41,FR,Alexey
+277,3,08:22,SPF,37,41,FC,Shamell
+278,3,08:32,MOG,37,41,RD,Gruber
+279,3,08:35,SPF,37,41,2_Pts_T,Léo Meindl
+280,3,08:41,SPF,37,41,RD,De Paula
+281,3,08:43,MOG,37,41,2_Pts_T,Gruber
+282,3,08:50,MOG,37,41,RD,Lessa
+283,3,08:53,SPF,37,41,3_Pts_T,Jefferson
+284,3,09:01,SPF,37,41,RD,De Paula
+285,3,09:04,MOG,37,41,3_Pts_T,Fúlvio
+286,3,09:12,SPF,37,41,AS,De Paula
+287,3,09:12,SPF,37,41,2_Pts_C,Léo Meindl
+288,3,09:28,SPF,35,41,FR,Léo Meindl
+289,3,09:28,MOG,35,41,FC,Fúlvio
+290,3,09:28,SPF,35,41,RO,São Paulo
+291,3,09:28,SPF,35,41,2_Pts_T,Jones
+292,3,09:43,SPF,35,41,RD,Léo Meindl
+293,3,09:43,MOG,35,41,LL_Pts_T,Lessa
+294,3,09:43,MOG,35,41,LL_Pts_T,Lessa
+295,3,09:43,MOG,35,41,FR,Lessa
+296,3,09:43,SPF,35,41,FC,Jones
+297,3,10:00,NaN,35,41,inicio_quarto,
+298,2,00:00,NaN,35,41,fim_quarto,
+299,2,00:03,MOG,35,41,RD,Mogi
+300,2,00:03,MOG,35,41,TO,André Goes
+301,2,00:03,SPF,35,41,2_Pts_T,Léo Meindl
+302,2,00:18,SPF,35,41,substituicao_entra,Shamell
+303,2,00:18,SPF,35,41,substituicao_sai,Jefferson
+304,2,00:18,MOG,35,41,LL_Pts_C,Alexey
+305,2,00:18,MOG,35,40,LL_Pts_T,Alexey
+306,2,00:18,MOG,35,40,substituicao_entra,Lucas
+307,2,00:18,MOG,35,40,substituicao_sai,Fúlvio
+308,2,00:18,MOG,35,40,FR,Alexey
+309,2,00:18,SPF,35,40,FC,Cassiano
+310,2,00:34,SPF,35,40,2_Pts_C,Cassiano
+311,2,00:36,SPF,33,40,RO,Cassiano
+312,2,00:38,SPF,33,40,2_Pts_T,Léo Meindl
+313,2,00:41,SPF,33,40,RD,Cassiano
+314,2,00:44,MOG,33,40,2_Pts_T,André Goes
+315,2,01:06,MOG,33,40,BR,André Goes
+316,2,01:06,SPF,33,40,ER,Cassiano
+317,2,01:08,SPF,33,40,RD,Cassiano
+318,2,01:12,MOG,33,40,2_Pts_T,Gruber
+319,2,01:14,MOG,33,40,RD,Alexey
+320,2,01:17,SPF,33,40,2_Pts_T,Cassiano
+321,2,01:35,MOG,33,40,3_Pts_C,Alexey
+322,2,01:48,SPF,33,37,ER,Jefferson
+323,2,01:48,SPF,33,37,RO,Jefferson
+324,2,01:51,SPF,33,37,2_Pts_T,Léo Meindl
+325,2,02:05,MOG,33,37,2_Pts_C,Alexey
+326,2,02:15,MOG,33,35,RO,Mogi
+327,2,02:15,SPF,33,35,TO,Léo Meindl
+328,2,02:15,MOG,33,35,2_Pts_T,Alexey
+329,2,02:27,SPF,33,35,substituicao_entra,Jefferson
+330,2,02:27,SPF,33,35,substituicao_sai,Renan
+331,2,02:27,SPF,33,35,tempo_tecnico,São Paulo
+332,2,02:27,SPF,33,35,ER,Jones
+333,2,02:37,MOG,33,35,LL_Pts_C,Alexey
+334,2,02:37,MOG,33,34,LL_Pts_C,Alexey
+335,2,02:37,MOG,33,33,FR,Alexey
+336,2,02:37,SPF,33,33,FC,Renan
+337,2,02:59,SPF,33,33,LL_Pts_C,Renan
+338,2,02:59,SPF,32,33,LL_Pts_C,Renan
+339,2,02:59,SPF,31,33,FR,Renan
+340,2,02:59,MOG,31,33,FC,Fúlvio
+341,2,03:14,MOG,31,33,AS,Alexey
+342,2,03:14,MOG,31,33,LL_Pts_C,Gruber
+343,2,03:14,MOG,31,32,LL_Pts_T,Gruber
+344,2,03:14,MOG,31,32,FR,Gruber
+345,2,03:14,SPF,31,32,FC,Jones
+346,2,03:22,MOG,31,32,RD,André Goes
+347,2,03:24,SPF,31,32,3_Pts_T,Léo Meindl
+348,2,03:35,MOG,31,32,AS,Fúlvio
+349,2,03:35,MOG,31,32,2_Pts_C,Lessa
+350,2,03:39,SPF,31,30,LL_Pts_C,De Paula
+351,2,03:39,SPF,30,30,LL_Pts_C,De Paula
+352,2,03:39,SPF,29,30,FR,De Paula
+353,2,03:39,MOG,29,30,FC,Alexey
+354,2,03:43,SPF,29,30,RD,Jones
+355,2,03:46,MOG,29,30,2_Pts_T,Gruber
+356,2,03:59,MOG,29,30,BR,André Goes
+357,2,03:59,SPF,29,30,ER,Léo Meindl
+358,2,04:03,SPF,29,30,RO,São Paulo
+359,2,04:05,SPF,29,30,LL_Pts_T,Renan
+360,2,04:06,MOG,29,30,substituicao_entra,Fúlvio
+361,2,04:06,MOG,29,30,substituicao_sai,Colina
+362,2,04:07,SPF,29,30,FR,Renan
+363,2,04:07,MOG,29,30,FC,Colina
+364,2,04:07,SPF,29,30,AS,Léo Meindl
+365,2,04:07,SPF,29,30,2_Pts_C,Renan
+366,2,04:22,SPF,27,30,substituicao_entra,Cassiano
+367,2,04:22,SPF,27,30,substituicao_sai,Shamell
+368,2,04:22,MOG,27,30,ER,Alexey
+369,2,04:37,SPF,27,30,AS,Léo Meindl
+370,2,04:37,SPF,27,30,2_Pts_C,Jones
+371,2,04:49,MOG,25,30,2_Pts_C,Lessa
+372,2,05:02,SPF,25,28,AS,Léo Meindl
+373,2,05:02,SPF,25,28,2_Pts_C,Jones
+374,2,05:20,MOG,23,28,substituicao_entra,Lessa
+375,2,05:20,MOG,23,28,substituicao_sai,Fúlvio
+376,2,05:20,MOG,23,28,LL_Pts_C,Fúlvio
+377,2,05:20,MOG,23,27,LL_Pts_C,Fúlvio
+378,2,05:20,MOG,23,26,FR,Fúlvio
+379,2,05:20,SPF,23,26,FC,Renan
+380,2,05:42,MOG,23,26,RD,Mogi
+381,2,05:45,SPF,23,26,3_Pts_T,Jones
+382,2,05:56,MOG,23,26,substituicao_entra,Colina
+383,2,05:56,MOG,23,26,substituicao_sai,Lessa
+384,2,05:56,SPF,23,26,FR,Shamell
+385,2,05:56,MOG,23,26,FC,Fúlvio
+386,2,05:56,SPF,23,26,RD,Jones
+387,2,05:59,SPF,23,26,TO,De Paula
+388,2,05:59,MOG,23,26,2_Pts_T,Lessa
+389,2,06:02,MOG,23,26,RD,Lessa
+390,2,06:05,SPF,23,26,3_Pts_T,Léo Meindl
+391,2,06:16,SPF,23,26,RD,Léo Meindl
+392,2,06:19,MOG,23,26,3_Pts_T,Alexey
+393,2,06:34,MOG,23,26,substituicao_entra,Gruber
+394,2,06:34,MOG,23,26,substituicao_sai,Lucas
+395,2,06:34,SPF,23,26,substituicao_entra,Léo Meindl
+396,2,06:34,SPF,23,26,substituicao_sai,Murilo
+397,2,06:34,MOG,23,26,FR,André Goes
+398,2,06:34,SPF,23,26,FC,Murilo
+399,2,06:34,MOG,23,26,RD,André Goes
+400,2,06:35,SPF,23,26,3_Pts_T,Jones
+401,2,06:48,SPF,23,26,RD,Jones
+402,2,06:51,MOG,23,26,3_Pts_T,Fúlvio
+403,2,07:00,MOG,23,26,BR,Alexey
+404,2,07:00,SPF,23,26,ER,Shamell
+405,2,07:04,SPF,23,26,RD,Murilo
+406,2,07:06,MOG,23,26,2_Pts_T,Lucas
+407,2,07:15,MOG,23,26,FR,André Goes
+408,2,07:15,SPF,23,26,FC,Murilo
+409,2,07:38,SPF,23,26,AS,Renan
+410,2,07:38,SPF,23,26,2_Pts_C,Murilo
+411,2,07:53,MOG,21,26,substituicao_entra,Alexey
+412,2,07:53,MOG,21,26,substituicao_sai,Gruber
+413,2,07:53,MOG,21,26,substituicao_entra,André Goes
+414,2,07:53,MOG,21,26,substituicao_sai,Colina
+415,2,07:53,SPF,21,26,substituicao_entra,Jones
+416,2,07:53,SPF,21,26,substituicao_sai,Léo Meindl
+417,2,07:53,SPF,21,26,substituicao_entra,Renan
+418,2,07:53,SPF,21,26,substituicao_sai,Jefferson
+419,2,07:53,SPF,21,26,tempo_tecnico,São Paulo
+420,2,07:57,MOG,21,26,3_Pts_C,Lucas
+421,2,08:11,MOG,21,23,RD,Lucas
+422,2,08:14,SPF,21,23,2_Pts_T,Jefferson
+423,2,08:31,MOG,21,23,AS,Fúlvio
+424,2,08:31,MOG,21,23,2_Pts_C,Colina
+425,2,08:38,SPF,21,21,AS,Murilo
+426,2,08:38,SPF,21,21,2_Pts_C,Jefferson
+427,2,08:57,MOG,19,21,2_Pts_C,Colina
+428,2,09:03,MOG,19,19,RD,Colina
+429,2,09:06,SPF,19,19,2_Pts_T,Jefferson
+430,2,09:29,MOG,19,19,AS,Lucas
+431,2,09:29,MOG,19,19,2_Pts_C,Colina
+432,2,09:42,SPF,19,17,,
+433,2,09:51,SPF,19,17,FR,Jefferson
+434,2,09:51,MOG,19,17,FC,Colina
+435,2,10:00,NaN,19,17,inicio_quarto,
+436,1,00:00,NaN,19,17,fim_quarto,
+437,1,00:02,SPF,19,17,RD,Jefferson
+438,1,00:02,MOG,19,17,3_Pts_T,André Goes
+439,1,00:09,MOG,19,17,RD,André Goes
+440,1,00:12,SPF,19,17,2_Pts_T,Jefferson
+441,1,00:20,SPF,19,17,RO,São Paulo
+442,1,00:23,SPF,19,17,3_Pts_T,De Paula
+443,1,00:47,MOG,19,17,AS,Alexey
+444,1,00:47,MOG,19,17,2_Pts_C,Gruber
+445,1,00:53,MOG,19,15,BR,Lessa
+446,1,00:53,SPF,19,15,ER,Léo Meindl
+447,1,00:59,SPF,19,15,BR,Léo Meindl
+448,1,00:59,MOG,19,15,ER,Colina
+449,1,01:07,MOG,19,15,RD,Lessa
+450,1,01:10,SPF,19,15,3_Pts_T,Murilo
+451,1,01:19,MOG,19,15,substituicao_entra,Lessa
+452,1,01:19,MOG,19,15,substituicao_sai,Lucas
+453,1,01:19,SPF,19,15,FR,Léo Meindl
+454,1,01:19,MOG,19,15,FC,Lucas
+455,1,01:31,MOG,19,15,2_Pts_C,Lucas
+456,1,01:40,SPF,19,13,2_Pts_C,Jefferson
+457,1,01:41,SPF,17,13,RO,Jefferson
+458,1,01:44,SPF,17,13,3_Pts_T,Léo Meindl
+459,1,02:00,MOG,17,13,LL_Pts_C,Alexey
+460,1,02:00,MOG,17,12,LL_Pts_C,Alexey
+461,1,02:00,MOG,17,11,FR,Alexey
+462,1,02:00,SPF,17,11,FC,Murilo
+463,1,02:00,MOG,17,11,RD,Alexey
+464,1,02:00,SPF,17,11,3_Pts_T,Jefferson
+465,1,02:15,SPF,17,11,FR,Léo Meindl
+466,1,02:15,MOG,17,11,FC,Colina
+467,1,02:15,SPF,17,11,RO,São Paulo
+468,1,02:15,SPF,17,11,3_Pts_T,Shamell
+469,1,02:21,SPF,17,11,RD,Jefferson
+470,1,02:23,MOG,17,11,3_Pts_T,Colina
+471,1,02:45,MOG,17,11,FR,Colina
+472,1,02:45,SPF,17,11,ER,Shamell
+473,1,02:45,SPF,17,11,FC_O,Shamell
+474,1,03:02,MOG,17,11,EN,Gruber
+475,1,03:24,MOG,17,9,substituicao_entra,Colina
+476,1,03:24,MOG,17,9,substituicao_sai,Lessa
+477,1,03:24,MOG,17,9,substituicao_entra,Lucas
+478,1,03:24,MOG,17,9,substituicao_sai,Fúlvio
+479,1,03:24,SPF,17,9,substituicao_entra,Murilo
+480,1,03:24,SPF,17,9,substituicao_sai,Renan
+481,1,03:24,MOG,17,9,RD,Mogi
+482,1,03:26,SPF,17,9,3_Pts_T,Jefferson
+483,1,03:34,SPF,17,9,RD,Jefferson
+484,1,03:36,MOG,17,9,2_Pts_T,Alexey
+485,1,03:55,SPF,17,9,AS,De Paula
+486,1,03:55,SPF,17,9,3_Pts_C,Shamell
+487,1,04:01,SPF,14,9,RD,Léo Meindl
+488,1,04:04,MOG,14,9,3_Pts_T,Fúlvio
+489,1,04:12,MOG,14,9,RO,Alexey
+490,1,04:15,MOG,14,9,2_Pts_T,Gruber
+491,1,04:30,MOG,14,9,RD,Alexey
+492,1,04:34,SPF,14,9,3_Pts_T,De Paula
+493,1,04:52,MOG,14,9,LL_Pts_C,Gruber
+494,1,04:52,MOG,14,8,LL_Pts_T,Gruber
+495,1,04:52,MOG,14,8,FR,Gruber
+496,1,04:52,SPF,14,8,FC,Renan
+497,1,05:15,SPF,14,8,AS,Renan
+498,1,05:15,SPF,14,8,2_Pts_C,Léo Meindl
+499,1,05:20,SPF,12,8,BR,Renan
+500,1,05:20,MOG,12,8,ER,Gruber
+501,1,05:25,MOG,12,8,RD,André Goes
+502,1,05:27,SPF,12,8,3_Pts_T,Jefferson
+503,1,05:36,MOG,12,8,tempo_tecnico,Mogi
+504,1,05:39,MOG,12,8,ER,Fúlvio
+505,1,05:59,SPF,12,8,AS,Renan
+506,1,05:59,SPF,12,8,2_Pts_C,Jefferson
+507,1,06:03,SPF,10,8,RO,Léo Meindl
+508,1,06:06,SPF,10,8,3_Pts_T,Renan
+509,1,06:11,SPF,10,8,RD,De Paula
+510,1,06:14,MOG,10,8,3_Pts_T,Gruber
+511,1,06:40,SPF,10,8,AS,Shamell
+512,1,06:40,SPF,10,8,3_Pts_C,Jefferson
+513,1,06:52,MOG,7,8,AS,Gruber
+514,1,06:52,MOG,7,8,3_Pts_C,André Goes
+515,1,07:01,MOG,7,5,FR,Fúlvio
+516,1,07:01,SPF,7,5,FC,Léo Meindl
+517,1,07:16,SPF,7,5,AS,Jefferson
+518,1,07:16,SPF,7,5,3_Pts_C,Léo Meindl
+519,1,07:29,SPF,4,5,BR,Shamell
+520,1,07:29,MOG,4,5,ER,Lessa
+521,1,07:38,MOG,4,5,RD,Mogi
+522,1,07:38,SPF,4,5,3_Pts_T,Renan
+523,1,07:53,MOG,4,5,3_Pts_C,Fúlvio
+524,1,08:09,SPF,4,2,AS,Shamell
+525,1,08:09,SPF,4,2,3_Pts_C,Jefferson
+526,1,08:12,SPF,1,2,RD,Shamell
+527,1,08:16,MOG,1,2,3_Pts_T,Gruber
+528,1,08:31,SPF,1,2,LL_Pts_C,Léo Meindl
+529,1,08:31,SPF,0,2,LL_Pts_T,Léo Meindl
+530,1,08:31,SPF,0,2,FR,Léo Meindl
+531,1,08:31,MOG,0,2,FC,Lessa
+532,1,08:31,SPF,0,2,RO,Léo Meindl
+533,1,08:33,SPF,0,2,3_Pts_T,Jefferson
+534,1,08:35,SPF,0,2,RO,Léo Meindl
+535,1,08:37,SPF,0,2,2_Pts_T,Jefferson
+536,1,09:01,MOG,0,2,LL_Pts_C,Fúlvio
+537,1,09:01,MOG,0,1,LL_Pts_C,Fúlvio
+538,1,09:01,MOG,0,0,FR,Fúlvio
+539,1,09:01,SPF,0,0,FC,Léo Meindl
+540,1,09:12,MOG,0,0,RD,André Goes
+541,1,09:15,SPF,0,0,3_Pts_T,Renan
+542,1,09:19,SPF,0,0,RO,De Paula
+543,1,09:23,SPF,0,0,2_Pts_T,Léo Meindl
+544,1,09:39,SPF,0,0,RD,Jefferson
+545,1,09:43,MOG,0,0,3_Pts_T,Alexey
+546,1,10:00,MOG,0,0,substituicao_entra,André Goes
+547,1,10:00,MOG,0,0,substituicao_entra,Lessa
+548,1,10:00,MOG,0,0,substituicao_entra,Gruber
+549,1,10:00,MOG,0,0,substituicao_entra,Alexey
+550,1,10:00,MOG,0,0,substituicao_entra,Fúlvio
+551,1,10:00,SPF,0,0,substituicao_entra,Renan
+552,1,10:00,SPF,0,0,substituicao_entra,Léo Meindl
+553,1,10:00,SPF,0,0,substituicao_entra,De Paula
+554,1,10:00,SPF,0,0,substituicao_entra,Jefferson
+555,1,10:00,SPF,0,0,substituicao_entra,Shamell
+556,1,10:00,NaN,0,0,inicio_partida,

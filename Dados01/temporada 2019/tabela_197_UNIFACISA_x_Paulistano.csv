@@ -1,0 +1,515 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,101,90,fim_partida,
+1,4,00:00,NaN,101,90,fim_quarto, 
+2,4,00:01,UFC,101,90,RD,D  Nunes
+3,4,00:01,CAP,101,90,2_Pts_T,Yago
+4,4,00:06,UFC,101,90,2_Pts_C,Barnes
+5,4,00:11,UFC,99,90,RD,Miller
+6,4,00:15,CAP,99,90,3_Pts_T,Solano
+7,4,00:17,CAP,99,90,FR,Yago
+8,4,00:17,UFC,99,90,FC,Miller
+9,4,00:25,UFC,99,90,LL_Pts_C,D  Nunes
+10,4,00:25,UFC,98,90,LL_Pts_C,D  Nunes
+11,4,00:25,UFC,97,90,FR,D  Nunes
+12,4,00:25,CAP,97,90,FC,Eddy
+13,4,00:25,UFC,97,90,RD,D  Nunes
+14,4,00:25,CAP,97,90,3_Pts_T,D  Coleman
+15,4,00:29,CAP,97,90,substituicao_entra,D  Coleman
+16,4,00:29,CAP,97,90,substituicao_sai,Victão
+17,4,00:29,CAP,97,90,tempo_tecnico,Paulistano
+18,4,00:29,UFC,97,90,LL_Pts_C,Pepo Vidal
+19,4,00:29,UFC,96,90,LL_Pts_C,Pepo Vidal
+20,4,00:29,UFC,95,90,FR,Pepo Vidal
+21,4,00:29,CAP,95,90,FC,Eddy
+22,4,00:29,UFC,95,90,RD,Gemerson
+23,4,00:32,CAP,95,90,3_Pts_T,Yago
+24,4,00:41,UFC,95,90,3_Pts_C,Barnes
+25,4,00:59,CAP,92,90,AS,Solano
+26,4,00:59,CAP,92,90,3_Pts_C,Yago
+27,4,01:05,CAP,92,87,FR,Yago
+28,4,01:05,UFC,92,87,FC,Pepo Vidal
+29,4,01:08,CAP,92,87,tempo_tecnico,Paulistano
+30,4,01:09,UFC,92,87,3_Pts_C,Barnes
+31,4,01:25,UFC,89,87,RD,Pepo Vidal
+32,4,01:30,CAP,89,87,3_Pts_T,Solano
+33,4,01:40,CAP,89,87,substituicao_entra,Victão
+34,4,01:40,CAP,89,87,substituicao_sai,Maique
+35,4,01:40,CAP,89,87,FR,Solano
+36,4,01:40,UFC,89,87,FC,D  Nunes
+37,4,01:55,UFC,89,87,AS,D  Nunes
+38,4,01:55,UFC,89,87,3_Pts_C,Barnes
+39,4,01:57,UFC,86,87,RO,D  Nunes
+40,4,02:01,UFC,86,87,3_Pts_T,Gemerson
+41,4,02:29,CAP,86,87,AS,Eddy
+42,4,02:29,CAP,86,87,3_Pts_C,Solano
+43,4,02:57,UFC,86,84,3_Pts_C,Barnes
+44,4,03:16,CAP,83,84,2_Pts_C,Maique
+45,4,03:16,CAP,83,82,RO,Maique
+46,4,03:22,CAP,83,82,3_Pts_T,Yago
+47,4,03:32,CAP,83,82,FR,Solano
+48,4,03:32,UFC,83,82,FC,Miller
+49,4,03:41,UFC,83,82,2_Pts_C,Miller
+50,4,04:01,UFC,81,82,substituicao_entra,D  Nunes
+51,4,04:01,UFC,81,82,substituicao_sai,João Vitor
+52,4,04:01,UFC,81,82,tempo_tecnico,UNIFACISA
+53,4,04:01,CAP,81,82,AS,Yago
+54,4,04:01,CAP,81,82,2_Pts_C,Eddy
+55,4,04:03,CAP,81,80,RD,Yago
+56,4,04:07,UFC,81,80,2_Pts_T,João Vitor
+57,4,04:28,CAP,81,80,AS,Maique
+58,4,04:28,CAP,81,80,3_Pts_C,Yago
+59,4,04:55,UFC,81,77,AS,Pepo Vidal
+60,4,04:55,UFC,81,77,2_Pts_C,João Vitor
+61,4,05:03,UFC,79,77,RD,João Vitor
+62,4,05:09,CAP,79,77,3_Pts_T,Eddy
+63,4,05:23,UFC,79,77,2_Pts_C,Barnes
+64,4,05:40,CAP,77,77,AS,Maique
+65,4,05:40,CAP,77,77,3_Pts_C,Eddy
+66,4,05:58,CAP,77,74,substituicao_entra,Maique
+67,4,05:58,CAP,77,74,substituicao_sai,D  Coleman
+68,4,05:58,CAP,77,74,tempo_tecnico,Paulistano
+69,4,06:00,UFC,77,74,3_Pts_C,Barnes
+70,4,06:08,UFC,74,74,RO,João Vitor
+71,4,06:12,UFC,74,74,3_Pts_T,Gemerson
+72,4,06:15,UFC,74,74,RD,João Vitor
+73,4,06:23,UFC,74,74,TO,João Vitor
+74,4,06:23,CAP,74,74,2_Pts_T,Dikembe
+75,4,06:27,CAP,74,74,RD,Solano
+76,4,06:31,UFC,74,74,3_Pts_T,João Vitor
+77,4,06:32,UFC,74,74,RO,João Vitor
+78,4,06:36,UFC,74,74,2_Pts_T,Gemerson
+79,4,06:45,CAP,74,74,substituicao_entra,Eddy
+80,4,06:45,CAP,74,74,substituicao_sai,Victão
+81,4,06:45,UFC,74,74,FR,Gemerson
+82,4,06:45,CAP,74,74,FC,Victão
+83,4,06:50,UFC,74,74,RD,Pepo Vidal
+84,4,06:55,CAP,74,74,2_Pts_T,Solano
+85,4,07:08,UFC,74,74,LL_Pts_C,João Vitor
+86,4,07:08,UFC,73,74,LL_Pts_C,João Vitor
+87,4,07:08,UFC,72,74,substituicao_entra,Miller
+88,4,07:08,UFC,72,74,substituicao_entra,Pepo Vidal
+89,4,07:08,UFC,72,74,substituicao_sai,Gemadinha
+90,4,07:08,UFC,72,74,substituicao_sai,Dixson
+91,4,07:08,UFC,72,74,FR,João Vitor
+92,4,07:08,CAP,72,74,FC,D  Coleman
+93,4,07:08,UFC,72,74,RO,João Vitor
+94,4,07:10,UFC,72,74,2_Pts_T,Barnes
+95,4,07:23,CAP,72,74,2_Pts_C,Victão
+96,4,07:38,UFC,72,72,3_Pts_C,Barnes
+97,4,08:02,CAP,69,72,AS,D  Coleman
+98,4,08:02,CAP,69,72,2_Pts_C,Victão
+99,4,08:13,CAP,69,70,RD,Solano
+100,4,08:18,UFC,69,70,3_Pts_T,Barnes
+101,4,08:34,CAP,69,70,ER,Dikembe
+102,4,08:36,CAP,69,70,RD,Dikembe
+103,4,08:41,UFC,69,70,2_Pts_T,Gemerson
+104,4,08:59,CAP,69,70,AS,Solano
+105,4,08:59,CAP,69,70,3_Pts_C,Yago
+106,4,09:14,UFC,69,67,LL_Pts_C,Gemerson
+107,4,09:14,CAP,68,67,substituicao_entra,Dikembe
+108,4,09:14,CAP,68,67,substituicao_sai,Maique
+109,4,09:14,UFC,68,67,FR,Gemerson
+110,4,09:14,CAP,68,67,FC,Maique
+111,4,09:14,UFC,68,67,2_Pts_C,Gemerson
+112,4,09:14,UFC,66,67,RO,Gemerson
+113,4,09:15,UFC,66,67,2_Pts_T,João Vitor
+114,4,09:21,UFC,66,67,RD,Dixson
+115,4,09:25,CAP,66,67,3_Pts_T,Solano
+116,4,09:29,CAP,66,67,RD,Maique
+117,4,09:33,UFC,66,67,2_Pts_T,João Vitor
+118,4,09:36,UFC,66,67,RO,João Vitor
+119,4,09:36,UFC,66,67,LL_Pts_T,Gemerson
+120,4,09:36,UFC,66,67,AS,Barnes
+121,4,09:36,UFC,66,67,LL_Pts_C,Gemerson
+122,4,09:36,UFC,65,67,FR,Gemerson
+123,4,09:36,CAP,65,67,FC,Victão
+124,4,09:50,CAP,65,67,substituicao_entra,D  Coleman
+125,4,09:50,CAP,65,67,substituicao_sai,Barbosa
+126,4,09:50,CAP,65,67,ER,Barbosa
+127,4,10:00,NaN,65,67,inicio_quarto,
+128,3,00:00,NaN,65,67,fim_quarto,
+129,3,00:01,UFC,65,67,3_Pts_T,Gemadinha
+130,3,00:05,CAP,65,67,AS,Barbosa
+131,3,00:05,CAP,65,67,2_Pts_C,Maique
+132,3,00:13,CAP,65,65,BR,Solano
+133,3,00:13,UFC,65,65,ER,Gemadinha
+134,3,00:32,CAP,65,65,AS,Yago
+135,3,00:32,CAP,65,65,3_Pts_C,Victão
+136,3,00:41,UFC,65,62,ER,Barnes
+137,3,01:00,CAP,65,62,AS,Victão
+138,3,01:00,CAP,65,62,EN,Maique
+139,3,01:16,CAP,65,60,substituicao_entra,Barbosa
+140,3,01:16,CAP,65,60,substituicao_sai,Eddy
+141,3,01:16,UFC,65,60,AS,Gemadinha
+142,3,01:16,UFC,65,60,LL_Pts_C,João Vitor
+143,3,01:16,UFC,64,60,LL_Pts_T,João Vitor
+144,3,01:16,CAP,64,60,substituicao_entra,Maique
+145,3,01:16,CAP,64,60,substituicao_sai,Dikembe
+146,3,01:16,UFC,64,60,FR,João Vitor
+147,3,01:16,CAP,64,60,FC,Dikembe
+148,3,01:18,UFC,64,60,RD,João Vitor
+149,3,01:18,CAP,64,60,LL_Pts_T,Solano
+150,3,01:23,CAP,64,60,LL_Pts_T,Solano
+151,3,01:23,UFC,64,60,substituicao_entra,Gemerson
+152,3,01:23,UFC,64,60,substituicao_sai,D  Nunes
+153,3,01:23,CAP,64,60,FR,Solano
+154,3,01:23,UFC,64,60,FC,Gemadinha
+155,3,01:47,UFC,64,60,AS,D  Nunes
+156,3,01:47,UFC,64,60,3_Pts_C,Gemadinha
+157,3,01:50,UFC,61,60,RO,Dixson
+158,3,01:55,UFC,61,60,2_Pts_T,Barnes
+159,3,02:03,CAP,61,60,LL_Pts_C,Dikembe
+160,3,02:03,CAP,61,59,LL_Pts_T,Dikembe
+161,3,02:03,UFC,61,59,substituicao_entra,Barnes
+162,3,02:03,UFC,61,59,substituicao_sai,Pepo Vidal
+163,3,02:03,CAP,61,59,substituicao_entra,Solano
+164,3,02:03,CAP,61,59,substituicao_sai,D  Coleman
+165,3,02:03,CAP,61,59,FR,Dikembe
+166,3,02:03,UFC,61,59,FC,João Vitor
+167,3,02:03,CAP,61,59,RD,Paulistano
+168,3,02:04,UFC,61,59,3_Pts_T,D  Nunes
+169,3,02:09,UFC,61,59,RD,João Vitor
+170,3,02:13,CAP,61,59,3_Pts_T,Victão
+171,3,02:14,CAP,61,59,RO,Yago
+172,3,02:21,UFC,61,59,TO,João Vitor
+173,3,02:21,CAP,61,59,2_Pts_T,Dikembe
+174,3,02:27,CAP,61,59,RD,Yago
+175,3,02:32,UFC,61,59,3_Pts_T,Pepo Vidal
+176,3,02:38,CAP,61,59,2_Pts_C,Eddy
+177,3,02:38,CAP,61,57,RO,Eddy
+178,3,02:50,UFC,61,57,TO,João Vitor
+179,3,02:50,CAP,61,57,2_Pts_T,Eddy
+180,3,03:01,UFC,61,57,LL_Pts_C,Gemadinha
+181,3,03:01,UFC,60,57,AS,Pepo Vidal
+182,3,03:01,UFC,60,57,LL_Pts_C,Gemadinha
+183,3,03:01,UFC,59,57,substituicao_entra,Dixson
+184,3,03:01,UFC,59,57,substituicao_sai,Miller
+185,3,03:01,UFC,59,57,FR,Gemadinha
+186,3,03:01,CAP,59,57,FC,Yago
+187,3,03:18,CAP,59,57,substituicao_entra,Yago
+188,3,03:18,CAP,59,57,substituicao_sai,Solano
+189,3,03:18,CAP,59,57,LL_Pts_C,Solano
+190,3,03:18,CAP,59,56,AS,D  Coleman
+191,3,03:18,CAP,59,56,LL_Pts_C,Solano
+192,3,03:18,UFC,59,55,substituicao_entra,João Vitor
+193,3,03:18,UFC,59,55,substituicao_sai,Gemerson
+194,3,03:18,CAP,59,55,FR,Solano
+195,3,03:18,UFC,59,55,FC,Gemadinha
+196,3,03:38,UFC,59,55,AS,Pepo Vidal
+197,3,03:38,UFC,59,55,2_Pts_C,D  Nunes
+198,3,03:44,UFC,57,55,RD,Pepo Vidal
+199,3,03:47,CAP,57,55,3_Pts_T,D  Coleman
+200,3,04:00,CAP,57,55,RD,Dikembe
+201,3,04:05,UFC,57,55,3_Pts_T,Gemerson
+202,3,04:21,CAP,57,55,AS,Solano
+203,3,04:21,CAP,57,55,2_Pts_C,Victão
+204,3,04:36,UFC,57,53,LL_Pts_C,Gemerson
+205,3,04:36,UFC,56,53,LL_Pts_C,Gemerson
+206,3,04:36,CAP,55,53,substituicao_entra,Victão
+207,3,04:36,CAP,55,53,substituicao_sai,Yago
+208,3,04:36,UFC,55,53,FR,Gemerson
+209,3,04:36,CAP,55,53,FC,Dikembe
+210,3,04:36,UFC,55,53,RD,UNIFACISA
+211,3,04:38,CAP,55,53,3_Pts_T,Solano
+212,3,04:50,UFC,55,53,ER,Miller
+213,3,04:54,UFC,55,53,FR,Gemerson
+214,3,04:54,CAP,55,53,FC,Eddy
+215,3,04:55,UFC,55,53,RO,D  Nunes
+216,3,04:59,UFC,55,53,3_Pts_T,Miller
+217,3,05:16,CAP,55,53,LL_Pts_C,Solano
+218,3,05:16,CAP,55,52,LL_Pts_T,Solano
+219,3,05:16,UFC,55,52,substituicao_entra,Gemadinha
+220,3,05:16,UFC,55,52,substituicao_sai,Barnes
+221,3,05:16,CAP,55,52,FR,Solano
+222,3,05:16,UFC,55,52,FC,Barnes
+223,3,05:29,UFC,55,52,AS,Barnes
+224,3,05:29,UFC,55,52,2_Pts_C,D  Nunes
+225,3,05:31,UFC,53,52,RO,D  Nunes
+226,3,05:35,UFC,53,52,3_Pts_T,Barnes
+227,3,05:55,CAP,53,52,AS,D  Coleman
+228,3,05:55,CAP,53,52,2_Pts_C,Dikembe
+229,3,06:07,UFC,53,50,2_Pts_C,Barnes
+230,3,06:16,CAP,51,50,AS,Solano
+231,3,06:16,CAP,51,50,3_Pts_C,Eddy
+232,3,06:27,CAP,51,47,FR,D  Coleman
+233,3,06:27,UFC,51,47,FC,Barnes
+234,3,06:27,CAP,51,47,RO,D  Coleman
+235,3,06:30,CAP,51,47,3_Pts_T,Eddy
+236,3,06:45,CAP,51,47,FR,Yago
+237,3,06:45,UFC,51,47,FC,Miller
+238,3,06:50,UFC,51,47,AS,Pepo Vidal
+239,3,06:50,UFC,51,47,LL_Pts_C,Gemerson
+240,3,06:50,UFC,50,47,LL_Pts_T,Gemerson
+241,3,06:50,CAP,50,47,substituicao_entra,Dikembe
+242,3,06:50,CAP,50,47,substituicao_sai,Maique
+243,3,06:50,UFC,50,47,FR,Gemerson
+244,3,06:50,CAP,50,47,FC,Maique
+245,3,07:14,CAP,50,47,AS,D  Coleman
+246,3,07:14,CAP,50,47,3_Pts_C,Eddy
+247,3,07:17,CAP,50,44,RD,D  Coleman
+248,3,07:21,UFC,50,44,3_Pts_T,Gemerson
+249,3,07:49,CAP,50,44,AS,Solano
+250,3,07:49,CAP,50,44,2_Pts_C,Eddy
+251,3,08:05,UFC,50,42,3_Pts_C,Pepo Vidal
+252,3,08:07,UFC,47,42,RO,Pepo Vidal
+253,3,08:12,UFC,47,42,3_Pts_T,Barnes
+254,3,08:13,UFC,47,42,RO,Gemerson
+255,3,08:17,UFC,47,42,2_Pts_T,Miller
+256,3,08:26,CAP,47,42,2_Pts_C,Solano
+257,3,08:42,UFC,47,40,2_Pts_C,Barnes
+258,3,08:58,UFC,45,40,FR,Gemerson
+259,3,08:58,CAP,45,40,FC,Solano
+260,3,08:58,UFC,45,40,RD,UNIFACISA
+261,3,08:59,CAP,45,40,2_Pts_T,Solano
+262,3,09:04,CAP,45,40,RD,Yago
+263,3,09:08,UFC,45,40,3_Pts_T,Miller
+264,3,09:20,CAP,45,40,2_Pts_C,Solano
+265,3,09:20,CAP,45,38,RO,Solano
+266,3,09:28,CAP,45,38,2_Pts_T,Solano
+267,3,09:44,UFC,45,38,LL_Pts_C,Gemerson
+268,3,09:44,UFC,44,38,AS,D  Nunes
+269,3,09:44,UFC,44,38,LL_Pts_C,Gemerson
+270,3,09:44,UFC,43,38,FR,Gemerson
+271,3,09:44,CAP,43,38,FC,Solano
+272,3,10:00,NaN,43,38,inicio_quarto,
+273,2,00:00,NaN,43,38,fim_quarto,
+274,2,00:03,CAP,43,38,RD,D  Coleman
+275,2,00:03,UFC,43,38,3_Pts_T,Gemerson
+276,2,00:10,UFC,43,38,RD,Gemerson
+277,2,00:15,CAP,43,38,3_Pts_T,Yago
+278,2,00:31,UFC,43,38,AS,Pepo Vidal
+279,2,00:31,UFC,43,38,2_Pts_C,Gemerson
+280,2,00:45,CAP,41,38,ER,D  Coleman
+281,2,00:59,UFC,41,38,substituicao_entra,João Vitor
+282,2,00:59,UFC,41,38,substituicao_sai,D  Nunes
+283,2,00:59,UFC,41,38,AS,Miller
+284,2,00:59,UFC,41,38,3_Pts_C,João Vitor
+285,2,01:19,CAP,38,38,LL_Pts_C,D  Coleman
+286,2,01:19,CAP,38,37,AS,Yago
+287,2,01:19,CAP,38,37,LL_Pts_C,D  Coleman
+288,2,01:19,CAP,38,36,substituicao_entra,Eddy
+289,2,01:19,CAP,38,36,substituicao_sai,Victão
+290,2,01:19,CAP,38,36,FR,D  Coleman
+291,2,01:19,UFC,38,36,FC,D  Nunes
+292,2,01:23,CAP,38,36,RO,Dikembe
+293,2,01:29,CAP,38,36,3_Pts_T,D  Coleman
+294,2,01:35,CAP,38,36,substituicao_entra,Yago
+295,2,01:35,CAP,38,36,substituicao_sai,Barbosa
+296,2,01:36,CAP,38,36,RD,Dikembe
+297,2,01:40,UFC,38,36,3_Pts_T,D  Nunes
+298,2,01:50,UFC,38,36,RD,D  Nunes
+299,2,01:54,CAP,38,36,2_Pts_T,Victão
+300,2,02:01,CAP,38,36,substituicao_entra,Victão
+301,2,02:01,CAP,38,36,substituicao_sai,Eddy
+302,2,02:01,CAP,38,36,FR,D  Coleman
+303,2,02:01,UFC,38,36,FC,Pepo Vidal
+304,2,02:08,UFC,38,36,AS,D  Nunes
+305,2,02:08,UFC,38,36,3_Pts_C,Gemadinha
+306,2,02:12,UFC,35,36,RD,Pepo Vidal
+307,2,02:16,CAP,35,36,2_Pts_T,Barbosa
+308,2,02:38,CAP,35,36,substituicao_entra,Barbosa
+309,2,02:38,CAP,35,36,substituicao_entra,Dikembe
+310,2,02:38,CAP,35,36,substituicao_sai,Maique
+311,2,02:38,CAP,35,36,substituicao_sai,Yago
+312,2,02:48,UFC,35,36,BR,Pepo Vidal
+313,2,02:48,CAP,35,36,ER,D  Coleman
+314,2,02:48,UFC,35,36,2_Pts_C,Gemadinha
+315,2,03:00,UFC,33,36,3_Pts_C,D  Nunes
+316,2,03:03,CAP,30,36,RD,Eddy
+317,2,03:03,UFC,30,36,LL_Pts_T,D  Nunes
+318,2,03:03,UFC,30,36,LL_Pts_C,D  Nunes
+319,2,03:03,UFC,29,36,FR,D  Nunes
+320,2,03:03,CAP,29,36,FC,D  Coleman
+321,2,03:03,UFC,29,36,RO,UNIFACISA
+322,2,03:05,UFC,29,36,3_Pts_T,Miller
+323,2,03:16,UFC,29,36,substituicao_entra,Gemadinha
+324,2,03:16,UFC,29,36,substituicao_sai,Dixson
+325,2,03:16,UFC,29,36,tempo_tecnico,UNIFACISA
+326,2,03:41,CAP,29,36,AS,Solano
+327,2,03:41,CAP,29,36,3_Pts_C,D  Coleman
+328,2,03:41,CAP,29,33,RO,Maique
+329,2,03:41,CAP,29,33,2_Pts_T,D  Coleman
+330,2,03:44,UFC,29,33,substituicao_entra,Miller
+331,2,03:44,UFC,29,33,substituicao_sai,Barnes
+332,2,03:44,CAP,29,33,RD,Paulistano
+333,2,03:47,UFC,29,33,3_Pts_T,Pepo Vidal
+334,2,03:53,UFC,29,33,RD,Gemerson
+335,2,03:57,CAP,29,33,2_Pts_T,Eddy
+336,2,04:00,CAP,29,33,substituicao_entra,Maique
+337,2,04:00,CAP,29,33,substituicao_sai,Victão
+338,2,04:09,CAP,29,33,RD,Victão
+339,2,04:23,UFC,29,33,3_Pts_T,Dixson
+340,2,04:35,UFC,29,33,RD,Gemerson
+341,2,04:39,CAP,29,33,2_Pts_T,Solano
+342,2,04:47,CAP,29,33,RD,Yago
+343,2,04:52,UFC,29,33,3_Pts_T,Pepo Vidal
+344,2,05:07,CAP,29,33,3_Pts_C,Solano
+345,2,05:21,UFC,29,30,ER,Pepo Vidal
+346,2,05:30,CAP,29,30,3_Pts_C,Solano
+347,2,05:33,CAP,29,27,substituicao_entra,Eddy
+348,2,05:33,CAP,29,27,substituicao_sai,Maique
+349,2,05:40,CAP,29,27,RD,Maique
+350,2,05:47,UFC,29,27,3_Pts_T,Barnes
+351,2,05:56,UFC,29,27,RD,Barnes
+352,2,06:05,CAP,29,27,3_Pts_T,Maique
+353,2,06:09,CAP,29,27,RD,Solano
+354,2,06:14,UFC,29,27,3_Pts_T,Barnes
+355,2,06:31,CAP,29,27,substituicao_entra,Maique
+356,2,06:31,CAP,29,27,substituicao_sai,Dikembe
+357,2,06:31,UFC,29,27,FR,Dixson
+358,2,06:31,CAP,29,27,FC,Victão
+359,2,06:31,UFC,29,27,RD,UNIFACISA
+360,2,06:31,CAP,29,27,2_Pts_T,Dikembe
+361,2,06:58,UFC,29,27,AS,Pepo Vidal
+362,2,06:58,UFC,29,27,3_Pts_C,Dixson
+363,2,07:18,CAP,26,27,AS,D  Coleman
+364,2,07:18,CAP,26,27,3_Pts_C,Solano
+365,2,07:25,CAP,26,24,substituicao_entra,Solano
+366,2,07:25,CAP,26,24,substituicao_sai,Barbosa
+367,2,07:25,UFC,26,24,,
+368,2,07:31,CAP,26,24,2_Pts_C,Victão
+369,2,07:33,CAP,26,22,RO,Victão
+370,2,07:38,CAP,26,22,2_Pts_T,Dikembe
+371,2,08:04,UFC,26,22,AS,Pepo Vidal
+372,2,08:04,UFC,26,22,2_Pts_C,Gemerson
+373,2,08:12,UFC,24,22,RD,Gemerson
+374,2,08:12,CAP,24,22,LL_Pts_T,Dikembe
+375,2,08:12,CAP,24,22,AS,Yago
+376,2,08:12,CAP,24,22,LL_Pts_C,Dikembe
+377,2,08:12,UFC,24,21,substituicao_entra,D  Nunes
+378,2,08:12,UFC,24,21,substituicao_sai,João Vitor
+379,2,08:17,CAP,24,21,FR,Dikembe
+380,2,08:17,UFC,24,21,FC,João Vitor
+381,2,08:34,UFC,24,21,AS,Barnes
+382,2,08:34,UFC,24,21,2_Pts_C,Gemerson
+383,2,08:39,CAP,22,21,LL_Pts_C,D  Coleman
+384,2,08:39,UFC,22,20,tempo_tecnico,UNIFACISA
+385,2,08:39,CAP,22,20,FR,D  Coleman
+386,2,08:39,UFC,22,20,FC,João Vitor
+387,2,08:39,CAP,22,20,2_Pts_C,D  Coleman
+388,2,08:45,UFC,22,18,substituicao_entra,Gemerson
+389,2,08:45,UFC,22,18,substituicao_entra,Pepo Vidal
+390,2,08:45,UFC,22,18,substituicao_sai,Gemadinha
+391,2,08:45,UFC,22,18,substituicao_sai,D  Nunes
+392,2,08:48,UFC,22,18,ER,Barnes
+393,2,09:02,CAP,22,18,2_Pts_C,Victão
+394,2,09:04,CAP,22,16,RO,Victão
+395,2,09:09,CAP,22,16,2_Pts_T,Barbosa
+396,2,09:21,CAP,22,16,RO,Paulistano
+397,2,09:23,CAP,22,16,3_Pts_T,Yago
+398,2,09:26,CAP,22,16,RD,Yago
+399,2,09:31,UFC,22,16,3_Pts_T,Gemadinha
+400,2,09:49,CAP,22,16,2_Pts_C,Dikembe
+401,2,10:00,NaN,22,14,inicio_quarto,
+402,1,00:00,NaN,22,14,fim_quarto,
+403,1,00:04,CAP,22,14,RD,Yago
+404,1,00:04,UFC,22,14,3_Pts_T,Gemadinha
+405,1,00:16,UFC,22,14,RD,João Vitor
+406,1,00:21,CAP,22,14,3_Pts_T,Victão
+407,1,00:26,CAP,22,14,FR,Yago
+408,1,00:26,UFC,22,14,FC,Gemadinha
+409,1,00:26,CAP,22,14,RD,Yago
+410,1,00:30,UFC,22,14,2_Pts_T,Dixson
+411,1,00:41,UFC,22,14,FR,João Vitor
+412,1,00:41,CAP,22,14,FC,Victão
+413,1,00:41,UFC,22,14,RO,UNIFACISA
+414,1,00:42,UFC,22,14,2_Pts_T,Dixson
+415,1,01:00,CAP,22,14,AS,Yago
+416,1,01:00,CAP,22,14,EN,Dikembe
+417,1,01:09,UFC,22,12,substituicao_entra,Gemadinha
+418,1,01:09,UFC,22,12,substituicao_sai,Pepo Vidal
+419,1,01:20,CAP,22,12,RD,Eddy
+420,1,01:24,UFC,22,12,3_Pts_T,Pepo Vidal
+421,1,01:33,CAP,22,12,substituicao_entra,Barbosa
+422,1,01:33,CAP,22,12,substituicao_sai,D  Coleman
+423,1,01:33,UFC,22,12,FR,Barnes
+424,1,01:33,CAP,22,12,FC,Eddy
+425,1,01:33,UFC,22,12,RD,Dixson
+426,1,01:39,UFC,22,12,TO,D  Nunes
+427,1,01:39,CAP,22,12,3_Pts_T,D  Coleman
+428,1,01:41,CAP,22,12,RO,Eddy
+429,1,01:45,CAP,22,12,3_Pts_T,Eddy
+430,1,01:46,CAP,22,12,RO,D  Coleman
+431,1,01:48,CAP,22,12,2_Pts_T,D  Coleman
+432,1,01:48,CAP,22,12,RO,D  Coleman
+433,1,01:56,CAP,22,12,3_Pts_T,Yago
+434,1,01:59,CAP,22,12,RD,D  Coleman
+435,1,02:03,UFC,22,12,3_Pts_T,Barnes
+436,1,02:10,UFC,22,12,substituicao_entra,João Vitor
+437,1,02:10,UFC,22,12,substituicao_sai,Gemerson
+438,1,02:21,CAP,22,12,EN,Dikembe
+439,1,02:21,CAP,22,10,RO,Dikembe
+440,1,02:29,CAP,22,10,2_Pts_T,Dikembe
+441,1,02:41,UFC,22,10,substituicao_entra,Dixson
+442,1,02:41,UFC,22,10,substituicao_sai,Miller
+443,1,02:41,UFC,22,10,ER,Gemerson
+444,1,02:42,UFC,22,10,RD,Gemerson
+445,1,02:47,CAP,22,10,2_Pts_T,Dikembe
+446,1,02:55,CAP,22,10,RD,D  Coleman
+447,1,03:00,UFC,22,10,2_Pts_T,Gemerson
+448,1,03:07,UFC,22,10,RD,Pepo Vidal
+449,1,03:12,CAP,22,10,3_Pts_T,Victão
+450,1,03:30,UFC,22,10,AS,Barnes
+451,1,03:30,UFC,22,10,3_Pts_C,D  Nunes
+452,1,03:43,CAP,19,10,ER,Dikembe
+453,1,03:56,CAP,19,10,substituicao_entra,Victão
+454,1,03:56,CAP,19,10,substituicao_sai,Solano
+455,1,04:06,CAP,19,10,FR,Dikembe
+456,1,04:06,UFC,19,10,FC,D  Nunes
+457,1,04:06,UFC,19,10,RO,UNIFACISA
+458,1,04:06,UFC,19,10,2_Pts_T,Gemerson
+459,1,04:07,UFC,19,10,RO,Gemerson
+460,1,04:11,UFC,19,10,3_Pts_T,D  Nunes
+461,1,04:33,CAP,19,10,2_Pts_C,Yago
+462,1,04:41,UFC,19,8,2_Pts_C,Pepo Vidal
+463,1,04:59,CAP,17,8,2_Pts_C,Yago
+464,1,05:05,CAP,17,6,RD,Dikembe
+465,1,05:09,UFC,17,6,3_Pts_T,Gemerson
+466,1,05:21,CAP,17,6,2_Pts_C,D  Coleman
+467,1,05:44,UFC,17,4,AS,Pepo Vidal
+468,1,05:44,UFC,17,4,3_Pts_C,D  Nunes
+469,1,06:09,CAP,14,4,AS,Yago
+470,1,06:09,CAP,14,4,2_Pts_C,D  Coleman
+471,1,06:28,UFC,14,2,AS,D  Nunes
+472,1,06:28,UFC,14,2,2_Pts_C,Pepo Vidal
+473,1,06:36,UFC,12,2,BR,Pepo Vidal
+474,1,06:36,CAP,12,2,ER,Dikembe
+475,1,06:39,CAP,12,2,substituicao_entra,Dikembe
+476,1,06:39,CAP,12,2,substituicao_sai,Maique
+477,1,06:54,CAP,12,2,substituicao_entra,Yago
+478,1,06:54,CAP,12,2,substituicao_sai,Victão
+479,1,06:54,CAP,12,2,tempo_tecnico,Paulistano
+480,1,06:56,UFC,12,2,AS,Pepo Vidal
+481,1,06:56,UFC,12,2,3_Pts_C,D  Nunes
+482,1,06:59,UFC,9,2,RD,Pepo Vidal
+483,1,07:03,CAP,9,2,2_Pts_T,Solano
+484,1,07:09,CAP,9,2,RD,Maique
+485,1,07:13,UFC,9,2,3_Pts_T,Barnes
+486,1,07:15,UFC,9,2,RD,Gemerson
+487,1,07:22,CAP,9,2,3_Pts_T,D  Coleman
+488,1,07:36,UFC,9,2,2_Pts_C,Barnes
+489,1,07:52,CAP,7,2,ER,Victão
+490,1,08:10,UFC,7,2,AS,Gemerson
+491,1,08:10,UFC,7,2,3_Pts_C,Miller
+492,1,08:22,UFC,4,2,RD,Gemerson
+493,1,08:26,CAP,4,2,3_Pts_T,Eddy
+494,1,08:49,UFC,4,2,ER,Miller
+495,1,08:49,UFC,4,2,RD,Pepo Vidal
+496,1,08:54,CAP,4,2,3_Pts_T,Victão
+497,1,09:14,UFC,4,2,EN,Miller
+498,1,09:15,CAP,2,2,2_Pts_C,Victão
+499,1,09:15,CAP,2,0,RO,Victão
+500,1,09:25,CAP,2,0,3_Pts_T,Eddy
+501,1,09:44,UFC,2,0,AS,Pepo Vidal
+502,1,09:44,UFC,2,0,2_Pts_C,Barnes
+503,1,10:00,CAP,0,0,substituicao_entra,Maique
+504,1,10:00,CAP,0,0,substituicao_entra,Eddy
+505,1,10:00,CAP,0,0,substituicao_entra,Victão
+506,1,10:00,CAP,0,0,substituicao_entra,D  Coleman
+507,1,10:00,CAP,0,0,substituicao_entra,Solano
+508,1,10:00,UFC,0,0,substituicao_entra,Barnes
+509,1,10:00,UFC,0,0,substituicao_entra,Miller
+510,1,10:00,UFC,0,0,substituicao_entra,D  Nunes
+511,1,10:00,UFC,0,0,substituicao_entra,Gemerson
+512,1,10:00,UFC,0,0,substituicao_entra,Pepo Vidal
+513,1,10:00,NaN,0,0,inicio_partida,

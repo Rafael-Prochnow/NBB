@@ -1,0 +1,525 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,79,59,fim_partida,
+1,4,00:19,FRA,79,59,RD,Cipolini
+2,4,00:22,CEA,79,59,3_Pts_T,Armani
+3,4,00:36,FRA,79,59,substituicao_entra,Guilherme
+4,4,00:36,FRA,79,59,substituicao_sai,Léo
+5,4,00:36,FRA,79,59,ER,Léo
+6,4,00:43,FRA,79,59,RD,João Pedro
+7,4,00:49,FRA,79,59,TO,Antonio
+8,4,00:49,CEA,79,59,2_Pts_T,Sualisson
+9,4,01:01,FRA,79,59,2_Pts_C,Cipolini
+10,4,01:02,FRA,77,59,RO,Cipolini
+11,4,01:05,FRA,77,59,2_Pts_T,Antonio
+12,4,01:17,FRA,77,59,RD,Cipolini
+13,4,01:19,CEA,77,59,2_Pts_T,Leal
+14,4,01:27,CEA,77,59,RO,Leal
+15,4,01:31,CEA,77,59,3_Pts_T,Laster
+16,4,01:42,CEA,77,59,RD,Leal
+17,4,01:42,FRA,77,59,LL_Pts_T,Cassiano
+18,4,01:42,FRA,77,59,LL_Pts_C,Cassiano
+19,4,01:42,FRA,76,59,substituicao_entra,João Pedro
+20,4,01:42,FRA,76,59,substituicao_sai,Mineiro
+21,4,01:42,FRA,76,59,FR,Cassiano
+22,4,01:42,CEA,76,59,FC,Laster
+23,4,01:44,FRA,76,59,RO,Cipolini
+24,4,01:47,FRA,76,59,3_Pts_T,Léo
+25,4,01:53,FRA,76,59,RD,Antonio
+26,4,01:56,CEA,76,59,3_Pts_T,Walisson
+27,4,01:59,FRA,76,59,substituicao_entra,Cassiano
+28,4,01:59,FRA,76,59,substituicao_sai,Coelho
+29,4,01:59,FRA,76,59,TO,Antonio
+30,4,01:59,CEA,76,59,2_Pts_T,Leal
+31,4,02:14,CEA,76,59,BR,Armani
+32,4,02:14,FRA,76,59,ER,Antonio
+33,4,02:20,CEA,76,59,substituicao_entra,Armani
+34,4,02:20,CEA,76,59,substituicao_sai,Davi
+35,4,02:20,FRA,76,59,FR,Cipolini
+36,4,02:20,CEA,76,59,FC,Walisson
+37,4,02:20,FRA,76,59,substituicao_entra,Antonio
+38,4,02:20,FRA,76,59,substituicao_sai,Pedro
+39,4,02:20,FRA,76,59,RO,Franca
+40,4,02:25,FRA,76,59,3_Pts_T,Pedro
+41,4,02:48,CEA,76,59,LL_Pts_C,Leal
+42,4,02:48,CEA,76,58,LL_Pts_T,Leal
+43,4,02:48,CEA,76,58,substituicao_entra,Walisson
+44,4,02:48,CEA,76,58,substituicao_sai,Leonardo
+45,4,02:48,FRA,76,58,substituicao_entra,Cipolini
+46,4,02:48,FRA,76,58,substituicao_sai,Antonio
+47,4,02:48,FRA,76,58,substituicao_entra,Antonio
+48,4,02:48,FRA,76,58,substituicao_sai,Gruber
+49,4,02:48,CEA,76,58,FR,Leal
+50,4,02:48,FRA,76,58,FC,Mineiro
+51,4,03:04,CEA,76,58,RD,Davi
+52,4,03:07,FRA,76,58,3_Pts_T,Léo
+53,4,03:12,FRA,76,58,BR,Coelho
+54,4,03:12,CEA,76,58,ER,Davi
+55,4,03:15,CEA,76,58,BR,Davi
+56,4,03:15,FRA,76,58,ER,Coelho
+57,4,03:19,FRA,76,58,RD,Mineiro
+58,4,03:22,CEA,76,58,2_Pts_T,Leonardo
+59,4,03:39,FRA,76,58,2_Pts_C,Léo
+60,4,03:46,CEA,74,58,AS,Leal
+61,4,03:46,CEA,74,58,3_Pts_C,Laster
+62,4,03:53,CEA,74,55,RO,Laster
+63,4,03:56,CEA,74,55,2_Pts_T,Leonardo
+64,4,04:00,FRA,74,55,substituicao_entra,Léo
+65,4,04:00,FRA,74,55,substituicao_sai,Leandrinho
+66,4,04:04,CEA,74,55,RO,Basq  Cearense
+67,4,04:14,CEA,74,55,2_Pts_T,Sualisson
+68,4,04:21,CEA,74,55,RD,Davi
+69,4,04:23,FRA,74,55,2_Pts_T,Leandrinho
+70,4,04:30,CEA,74,55,substituicao_entra,Laster
+71,4,04:30,CEA,74,55,substituicao_sai,Rashaun
+72,4,04:30,FRA,74,55,RO,Franca
+73,4,04:30,FRA,74,55,3_Pts_T,Mineiro
+74,4,04:47,FRA,74,55,RO,Mineiro
+75,4,04:49,FRA,74,55,3_Pts_T,Leandrinho
+76,4,05:08,CEA,74,55,substituicao_entra,Leonardo
+77,4,05:08,CEA,74,55,substituicao_sai,B  Fiorotto
+78,4,05:08,FRA,74,55,tempo_tecnico,Franca
+79,4,05:08,FRA,74,55,FR,Pedro
+80,4,05:08,CEA,74,55,FC,Rashaun
+81,4,05:08,FRA,74,55,RD,Mineiro
+82,4,05:12,CEA,74,55,2_Pts_T,B  Fiorotto
+83,4,05:21,FRA,74,55,AS,Coelho
+84,4,05:21,FRA,74,55,3_Pts_C,Pedro
+85,4,05:21,FRA,71,55,RD,Gruber
+86,4,05:28,FRA,71,55,TO,Leandrinho
+87,4,05:28,CEA,71,55,2_Pts_T,Rashaun
+88,4,05:37,CEA,71,55,BR,Leal
+89,4,05:37,FRA,71,55,ER,Mineiro
+90,4,05:44,FRA,71,55,BR,Mineiro
+91,4,05:44,CEA,71,55,ER,Rashaun
+92,4,05:53,CEA,71,55,RO,Sualisson
+93,4,05:53,CEA,71,55,LL_Pts_T,B  Fiorotto
+94,4,05:53,CEA,71,55,LL_Pts_T,B  Fiorotto
+95,4,05:53,CEA,71,55,FR,B  Fiorotto
+96,4,05:53,FRA,71,55,FC,Mineiro
+97,4,06:09,FRA,71,55,AS,Leandrinho
+98,4,06:09,FRA,71,55,LL_Pts_C,Mineiro
+99,4,06:09,FRA,70,55,LL_Pts_T,Mineiro
+100,4,06:09,FRA,70,55,FR,Mineiro
+101,4,06:09,CEA,70,55,FC,Leal
+102,4,06:25,CEA,70,55,AS,B  Fiorotto
+103,4,06:25,CEA,70,55,2_Pts_C,Rashaun
+104,4,06:35,FRA,70,53,2_Pts_C,Gruber
+105,4,06:39,FRA,68,53,RO,Gruber
+106,4,06:39,FRA,68,53,2_Pts_T,Leandrinho
+107,4,06:50,FRA,68,53,RD,Gruber
+108,4,06:53,CEA,68,53,3_Pts_T,B  Fiorotto
+109,4,07:13,FRA,68,53,AS,Gruber
+110,4,07:13,FRA,68,53,2_Pts_C,Leandrinho
+111,4,07:29,CEA,66,53,LL_Pts_C,Rashaun
+112,4,07:29,CEA,66,52,LL_Pts_C,Rashaun
+113,4,07:29,FRA,66,51,substituicao_entra,Mineiro
+114,4,07:29,FRA,66,51,substituicao_sai,Guilherme
+115,4,07:29,FRA,66,51,substituicao_entra,Coelho
+116,4,07:29,FRA,66,51,substituicao_sai,João Pedro
+117,4,07:29,CEA,66,51,substituicao_entra,B  Fiorotto
+118,4,07:29,CEA,66,51,substituicao_sai,Leonardo
+119,4,07:29,FRA,66,51,tempo_tecnico,Franca
+120,4,07:29,CEA,66,51,FR,Rashaun
+121,4,07:29,FRA,66,51,FC,João Pedro
+122,4,07:29,CEA,66,51,RO,Rashaun
+123,4,07:29,CEA,66,51,2_Pts_T,Rashaun
+124,4,07:32,CEA,66,51,RD,Sualisson
+125,4,07:37,CEA,66,51,TO,Leonardo
+126,4,07:37,FRA,66,51,2_Pts_T,João Pedro
+127,4,07:47,CEA,66,51,AS,Davi
+128,4,07:47,CEA,66,51,EN,Sualisson
+129,4,07:50,CEA,66,49,BR,Davi
+130,4,07:50,FRA,66,49,ER,João Pedro
+131,4,07:58,CEA,66,49,substituicao_entra,Sualisson
+132,4,07:58,CEA,66,49,substituicao_sai,Paulinho
+133,4,07:58,CEA,66,49,substituicao_entra,Davi
+134,4,07:58,CEA,66,49,substituicao_sai,Betinho
+135,4,07:58,FRA,66,49,FR,Leandrinho
+136,4,07:58,CEA,66,49,FC,Leonardo
+137,4,08:08,FRA,66,49,RD,Franca
+138,4,08:13,FRA,66,49,TO,Pedro
+139,4,08:13,CEA,66,49,2_Pts_T,Betinho
+140,4,08:26,CEA,66,49,RO,Basq  Cearense
+141,4,08:28,CEA,66,49,2_Pts_T,Leonardo
+142,4,08:33,CEA,66,49,FR,Leonardo
+143,4,08:33,FRA,66,49,FC,João Pedro
+144,4,08:34,CEA,66,49,RO,Basq  Cearense
+145,4,08:38,CEA,66,49,3_Pts_T,Betinho
+146,4,08:46,CEA,66,49,FR,Rashaun
+147,4,08:46,FRA,66,49,FC,Leandrinho
+148,4,08:51,CEA,66,49,FR,Betinho
+149,4,08:51,FRA,66,49,FC,Guilherme
+150,4,09:04,FRA,66,49,AS,Pedro
+151,4,09:04,FRA,66,49,3_Pts_C,Guilherme
+152,4,09:25,CEA,63,49,AS,Rashaun
+153,4,09:25,CEA,63,49,2_Pts_C,Leal
+154,4,09:39,CEA,63,47,BR,Leonardo
+155,4,09:39,FRA,63,47,ER,João Pedro
+156,4,10:00,NaN,63,47,inicio_quarto,
+157,3,00:00,NaN,63,47,fim_quarto,
+158,3,00:06,CEA,63,47,BR,Rashaun
+159,3,00:06,FRA,63,47,ER,Pedro
+160,3,00:13,CEA,63,47,3_Pts_C,Betinho
+161,3,00:31,FRA,63,44,LL_Pts_C,Pedro
+162,3,00:31,FRA,62,44,LL_Pts_T,Pedro
+163,3,00:31,FRA,62,44,substituicao_entra,João Pedro
+164,3,00:31,FRA,62,44,substituicao_sai,Mineiro
+165,3,00:31,FRA,62,44,FR,Pedro
+166,3,00:31,CEA,62,44,FC,Leonardo
+167,3,00:33,FRA,62,44,BR,Pedro
+168,3,00:33,CEA,62,44,ER,Paulinho
+169,3,00:39,CEA,62,44,RD,Leal
+170,3,00:41,FRA,62,44,2_Pts_T,Gruber
+171,3,00:53,CEA,62,44,LL_Pts_C,Paulinho
+172,3,00:53,CEA,62,43,LL_Pts_C,Paulinho
+173,3,00:53,CEA,62,42,FR,Paulinho
+174,3,00:53,FRA,62,42,FC,Pedro
+175,3,00:56,CEA,62,42,RO,Basq  Cearense
+176,3,00:56,CEA,62,42,3_Pts_T,Rashaun
+177,3,00:57,CEA,62,42,BR,Paulinho
+178,3,00:57,FRA,62,42,ER,Pedro
+179,3,01:01,FRA,62,42,BR,Pedro
+180,3,01:01,CEA,62,42,ER,Leonardo
+181,3,01:04,CEA,62,42,RO,Leonardo
+182,3,01:09,FRA,62,42,TO,Pedro
+183,3,01:09,CEA,62,42,2_Pts_T,Paulinho
+184,3,01:26,FRA,62,42,substituicao_entra,Guilherme
+185,3,01:26,FRA,62,42,substituicao_sai,Léo
+186,3,01:26,FRA,62,42,substituicao_entra,Gruber
+187,3,01:26,FRA,62,42,substituicao_sai,Cipolini
+188,3,01:26,FRA,62,42,LL_Pts_C,Cipolini
+189,3,01:26,FRA,61,42,LL_Pts_T,Cipolini
+190,3,01:26,FRA,61,42,FR,Cipolini
+191,3,01:26,CEA,61,42,FC,Paulinho
+192,3,01:26,FRA,61,42,RO,Cipolini
+193,3,01:28,FRA,61,42,2_Pts_T,Léo
+194,3,01:31,FRA,61,42,RD,Leandrinho
+195,3,01:36,FRA,61,42,TO,Cipolini
+196,3,01:36,CEA,61,42,2_Pts_T,Leal
+197,3,01:57,FRA,61,42,LL_Pts_C,Cipolini
+198,3,01:57,CEA,60,42,substituicao_entra,Leonardo
+199,3,01:57,CEA,60,42,substituicao_sai,Walisson
+200,3,01:57,FRA,60,42,FR,Cipolini
+201,3,01:57,CEA,60,42,FC,Walisson
+202,3,01:57,FRA,60,42,AS,Leandrinho
+203,3,01:57,FRA,60,42,2_Pts_C,Cipolini
+204,3,02:07,CEA,58,42,substituicao_entra,Betinho
+205,3,02:07,CEA,58,42,substituicao_sai,Leonardo
+206,3,02:07,CEA,58,42,substituicao_entra,Walisson
+207,3,02:07,CEA,58,42,substituicao_sai,Davi
+208,3,02:07,CEA,58,42,LL_Pts_C,Leonardo
+209,3,02:07,CEA,58,41,LL_Pts_C,Leonardo
+210,3,02:07,FRA,58,40,substituicao_entra,Leandrinho
+211,3,02:07,FRA,58,40,substituicao_sai,Coelho
+212,3,02:07,FRA,58,40,substituicao_entra,Pedro
+213,3,02:07,FRA,58,40,substituicao_sai,Antonio
+214,3,02:07,CEA,58,40,FR,Leonardo
+215,3,02:07,FRA,58,40,FC,Mineiro
+216,3,02:29,FRA,58,40,AS,Léo
+217,3,02:29,FRA,58,40,3_Pts_C,Cipolini
+218,3,02:45,FRA,55,40,RD,Léo
+219,3,02:48,CEA,55,40,2_Pts_T,Paulinho
+220,3,02:54,CEA,55,40,BR,Paulinho
+221,3,02:54,FRA,55,40,ER,Léo
+222,3,02:59,FRA,55,40,RD,Mineiro
+223,3,03:01,CEA,55,40,2_Pts_T,Paulinho
+224,3,03:08,CEA,55,40,FR,Paulinho
+225,3,03:08,FRA,55,40,FC,Cipolini
+226,3,03:25,FRA,55,40,AS,Léo
+227,3,03:25,FRA,55,40,2_Pts_C,Mineiro
+228,3,03:39,FRA,53,40,RD,Antonio
+229,3,03:41,CEA,53,40,3_Pts_T,Paulinho
+230,3,04:03,FRA,53,40,LL_Pts_C,Antonio
+231,3,04:03,FRA,52,40,LL_Pts_C,Antonio
+232,3,04:03,FRA,51,40,FR,Antonio
+233,3,04:03,CEA,51,40,FC,Davi
+234,3,04:07,FRA,51,40,RD,Cipolini
+235,3,04:10,CEA,51,40,2_Pts_T,Paulinho
+236,3,04:29,CEA,51,40,substituicao_entra,Paulinho
+237,3,04:29,CEA,51,40,substituicao_sai,Felipe
+238,3,04:29,CEA,51,40,substituicao_entra,Leal
+239,3,04:29,CEA,51,40,substituicao_sai,B  Fiorotto
+240,3,04:29,CEA,51,40,tempo_tecnico,Basq  Cearense
+241,3,04:35,FRA,51,40,AS,Coelho
+242,3,04:35,FRA,51,40,3_Pts_C,Antonio
+243,3,04:40,FRA,48,40,RD,Léo
+244,3,04:43,CEA,48,40,2_Pts_T,Davi
+245,3,05:08,FRA,48,40,AS,Antonio
+246,3,05:08,FRA,48,40,3_Pts_C,Coelho
+247,3,05:18,FRA,45,40,RD,Cipolini
+248,3,05:18,CEA,45,40,LL_Pts_T,B  Fiorotto
+249,3,05:18,CEA,45,40,LL_Pts_T,B  Fiorotto
+250,3,05:18,CEA,45,40,FR,B  Fiorotto
+251,3,05:18,FRA,45,40,FC,Cipolini
+252,3,05:37,CEA,45,40,RD,Davi
+253,3,05:39,FRA,45,40,3_Pts_T,Léo
+254,3,06:01,CEA,45,40,ER,Davi
+255,3,06:25,FRA,45,40,AS,Léo
+256,3,06:25,FRA,45,40,2_Pts_C,Coelho
+257,3,06:31,FRA,43,40,RD,Antonio
+258,3,06:34,CEA,43,40,3_Pts_T,Rashaun
+259,3,06:40,CEA,43,40,FR,Davi
+260,3,06:40,FRA,43,40,FC,Antonio
+261,3,06:49,CEA,43,40,RD,Leonardo
+262,3,06:52,FRA,43,40,2_Pts_T,Mineiro
+263,3,07:15,CEA,43,40,AS,Leonardo
+264,3,07:15,CEA,43,40,3_Pts_C,Davi
+265,3,07:35,FRA,43,37,ER,Coelho
+266,3,07:58,FRA,43,37,FR,Antonio
+267,3,07:58,CEA,43,37,ER,Felipe
+268,3,07:58,CEA,43,37,FC_O,Felipe
+269,3,08:12,FRA,43,37,AS,Léo
+270,3,08:12,FRA,43,37,EN,Cipolini
+271,3,08:21,FRA,41,37,LL_Pts_C,Coelho
+272,3,08:21,CEA,40,37,FC_T,Felipe
+273,3,08:25,CEA,40,37,2_Pts_C,Rashaun
+274,3,08:36,CEA,40,35,FR,Rashaun
+275,3,08:36,FRA,40,35,FC,Léo
+276,3,08:52,FRA,40,35,2_Pts_C,Antonio
+277,3,08:56,FRA,38,35,RD,Mineiro
+278,3,08:58,CEA,38,35,3_Pts_T,Felipe
+279,3,09:10,CEA,38,35,RD,B  Fiorotto
+280,3,09:13,FRA,38,35,2_Pts_T,Coelho
+281,3,09:30,CEA,38,35,2_Pts_C,Felipe
+282,3,09:31,CEA,38,33,RO,Felipe
+283,3,09:34,CEA,38,33,2_Pts_T,B  Fiorotto
+284,3,10:00,NaN,38,33,inicio_quarto,
+285,2,00:00,NaN,38,33,fim_quarto,
+286,2,00:08,FRA,38,33,3_Pts_C,Leandrinho
+287,2,00:21,FRA,35,33,RD,Coelho
+288,2,00:24,CEA,35,33,3_Pts_T,Rashaun
+289,2,00:33,CEA,35,33,substituicao_entra,Betinho
+290,2,00:33,CEA,35,33,substituicao_sai,Felipe
+291,2,00:33,CEA,35,33,tempo_tecnico,Basq  Cearense
+292,2,00:35,CEA,35,33,RO,Basq  Cearense
+293,2,00:37,CEA,35,33,3_Pts_T,Rashaun
+294,2,00:45,CEA,35,33,RO,B  Fiorotto
+295,2,00:49,CEA,35,33,3_Pts_T,Paulinho
+296,2,01:13,FRA,35,33,AS,Leandrinho
+297,2,01:13,FRA,35,33,2_Pts_C,Coelho
+298,2,01:16,FRA,33,33,BR,Leandrinho
+299,2,01:16,CEA,33,33,ER,Felipe
+300,2,01:21,CEA,33,33,RO,Rashaun
+301,2,01:26,FRA,33,33,TO,Léo
+302,2,01:26,CEA,33,33,2_Pts_T,Rashaun
+303,2,01:45,CEA,33,33,tempo_tecnico,Basq  Cearense
+304,2,01:55,FRA,33,33,AS,Léo
+305,2,01:55,FRA,33,33,2_Pts_C,Gruber
+306,2,01:58,FRA,31,33,RD,Mineiro
+307,2,02:00,CEA,31,33,2_Pts_T,B  Fiorotto
+308,2,02:25,FRA,31,33,2_Pts_C,Mineiro
+309,2,02:39,CEA,29,33,AS,Felipe
+310,2,02:39,CEA,29,33,EN,B  Fiorotto
+311,2,02:50,FRA,29,31,AS,Mineiro
+312,2,02:50,FRA,29,31,3_Pts_C,Léo
+313,2,02:56,FRA,26,31,substituicao_entra,Mineiro
+314,2,02:56,FRA,26,31,substituicao_sai,Cipolini
+315,2,02:56,FRA,26,31,tempo_tecnico,Franca
+316,2,02:56,CEA,26,31,EN,B  Fiorotto
+317,2,02:57,CEA,26,29,RO,B  Fiorotto
+318,2,02:59,CEA,26,29,3_Pts_T,Felipe
+319,2,03:22,FRA,26,29,AS,Leandrinho
+320,2,03:22,FRA,26,29,2_Pts_C,Léo
+321,2,03:26,FRA,24,29,RD,Gruber
+322,2,03:28,CEA,24,29,2_Pts_T,B  Fiorotto
+323,2,03:47,CEA,24,29,RD,Rashaun
+324,2,03:50,FRA,24,29,3_Pts_T,Léo
+325,2,03:56,FRA,24,29,RO,Gruber
+326,2,03:59,FRA,24,29,3_Pts_T,Coelho
+327,2,04:16,CEA,24,29,3_Pts_C,Paulinho
+328,2,04:31,CEA,24,26,RD,Leonardo
+329,2,04:32,FRA,24,26,AS,Gruber
+330,2,04:32,FRA,24,26,LL_Pts_T,Cipolini
+331,2,04:32,FRA,24,26,LL_Pts_C,Cipolini
+332,2,04:32,CEA,23,26,substituicao_entra,Leonardo
+333,2,04:32,CEA,23,26,substituicao_sai,Leal
+334,2,04:32,FRA,23,26,FR,Cipolini
+335,2,04:32,CEA,23,26,FC,Leal
+336,2,04:49,CEA,23,26,3_Pts_C,Rashaun
+337,2,05:12,FRA,23,23,AS,Leandrinho
+338,2,05:12,FRA,23,23,2_Pts_C,Cipolini
+339,2,05:37,FRA,21,23,RD,Franca
+340,2,05:40,CEA,21,23,3_Pts_T,Paulinho
+341,2,05:59,CEA,21,23,RD,Felipe
+342,2,06:02,FRA,21,23,3_Pts_T,Gruber
+343,2,06:08,CEA,21,23,substituicao_entra,Rashaun
+344,2,06:08,CEA,21,23,substituicao_sai,Davi
+345,2,06:08,CEA,21,23,substituicao_entra,B  Fiorotto
+346,2,06:08,CEA,21,23,substituicao_sai,Leonardo
+347,2,06:08,FRA,21,23,substituicao_entra,Leandrinho
+348,2,06:08,FRA,21,23,substituicao_sai,Antonio
+349,2,06:08,FRA,21,23,RO,Franca
+350,2,06:08,FRA,21,23,2_Pts_T,Léo
+351,2,06:12,FRA,21,23,RD,Léo
+352,2,06:15,CEA,21,23,3_Pts_T,Felipe
+353,2,06:25,FRA,21,23,AS,Léo
+354,2,06:25,FRA,21,23,3_Pts_C,Gruber
+355,2,06:43,FRA,18,23,RD,Cipolini
+356,2,06:44,CEA,18,23,LL_Pts_T,Leonardo
+357,2,06:44,CEA,18,23,LL_Pts_T,Leonardo
+358,2,06:44,CEA,18,23,FR,Leonardo
+359,2,06:44,FRA,18,23,FC,Gruber
+360,2,06:53,FRA,18,23,AS,Coelho
+361,2,06:53,FRA,18,23,LL_Pts_C,Antonio
+362,2,06:53,FRA,17,23,LL_Pts_T,Antonio
+363,2,06:53,FRA,17,23,FR,Antonio
+364,2,06:53,CEA,17,23,FC,Paulinho
+365,2,06:54,FRA,17,23,RD,Cipolini
+366,2,06:57,CEA,17,23,2_Pts_T,Felipe
+367,2,07:00,CEA,17,23,RD,Paulinho
+368,2,07:03,FRA,17,23,3_Pts_T,Cipolini
+369,2,07:08,FRA,17,23,RD,Gruber
+370,2,07:10,CEA,17,23,2_Pts_T,Paulinho
+371,2,07:24,FRA,17,23,LL_Pts_C,Léo
+372,2,07:24,FRA,16,23,FR,Léo
+373,2,07:24,CEA,16,23,FC,Leal
+374,2,07:25,FRA,16,23,2_Pts_C,Léo
+375,2,07:25,FRA,14,23,RO,Léo
+376,2,07:31,CEA,14,23,TO,Leal
+377,2,07:31,FRA,14,23,2_Pts_T,Léo
+378,2,07:47,CEA,14,23,LL_Pts_C,Felipe
+379,2,07:47,FRA,14,22,substituicao_entra,Léo
+380,2,07:47,FRA,14,22,substituicao_sai,Pedro
+381,2,07:47,FRA,14,22,substituicao_entra,Gruber
+382,2,07:47,FRA,14,22,substituicao_sai,João Pedro
+383,2,07:47,CEA,14,22,FR,Felipe
+384,2,07:47,FRA,14,22,FC,Cipolini
+385,2,07:47,CEA,14,22,2_Pts_C,Felipe
+386,2,08:09,CEA,14,20,RD,Basq  Cearense
+387,2,08:11,FRA,14,20,2_Pts_T,Cipolini
+388,2,08:26,FRA,14,20,RD,Cipolini
+389,2,08:27,CEA,14,20,LL_Pts_T,Leonardo
+390,2,08:27,CEA,14,20,FR,Leonardo
+391,2,08:27,FRA,14,20,FC,João Pedro
+392,2,08:27,CEA,14,20,2_Pts_C,Leonardo
+393,2,08:39,CEA,14,18,substituicao_entra,Leonardo
+394,2,08:39,CEA,14,18,substituicao_sai,Sualisson
+395,2,08:39,FRA,14,18,substituicao_entra,Coelho
+396,2,08:39,FRA,14,18,substituicao_sai,Cassiano
+397,2,08:45,FRA,14,18,EN,Cipolini
+398,2,08:46,FRA,12,18,RO,Cipolini
+399,2,08:49,FRA,12,18,2_Pts_T,Pedro
+400,2,09:11,FRA,12,18,RD,Franca
+401,2,09:13,CEA,12,18,3_Pts_T,Sualisson
+402,2,09:26,CEA,12,18,BR,Felipe
+403,2,09:26,FRA,12,18,ER,Cassiano
+404,2,09:32,FRA,12,18,RD,João Pedro
+405,2,09:35,CEA,12,18,2_Pts_T,Paulinho
+406,2,09:50,FRA,12,18,ER,João Pedro
+407,2,09:52,FRA,12,18,FR,Cipolini
+408,2,09:52,CEA,12,18,FC,Leal
+409,2,10:00,NaN,12,18,inicio_quarto,
+410,1,00:00,NaN,12,18,fim_quarto,
+411,1,00:05,CEA,12,18,3_Pts_T,Felipe
+412,1,00:09,CEA,12,18,RD,Felipe
+413,1,00:09,FRA,12,18,3_Pts_T,Cipolini
+414,1,00:33,CEA,12,18,3_Pts_C,Paulinho
+415,1,00:49,CEA,12,15,BR,Sualisson
+416,1,00:49,FRA,12,15,ER,Cassiano
+417,1,01:01,CEA,12,15,2_Pts_C,Davi
+418,1,01:23,CEA,12,13,RD,Sualisson
+419,1,01:26,FRA,12,13,2_Pts_T,Cassiano
+420,1,01:32,FRA,12,13,RO,Pedro
+421,1,01:35,FRA,12,13,3_Pts_T,Antonio
+422,1,01:47,FRA,12,13,RD,João Pedro
+423,1,01:50,CEA,12,13,3_Pts_T,Paulinho
+424,1,02:00,FRA,12,13,AS,Cipolini
+425,1,02:00,FRA,12,13,2_Pts_C,Cassiano
+426,1,02:01,FRA,10,13,RO,Cipolini
+427,1,02:03,FRA,10,13,3_Pts_T,Pedro
+428,1,02:11,FRA,10,13,RO,Franca
+429,1,02:14,FRA,10,13,3_Pts_T,Antonio
+430,1,02:31,CEA,10,13,2_Pts_C,Leonardo
+431,1,02:33,CEA,10,11,RO,Leonardo
+432,1,02:36,CEA,10,11,3_Pts_T,Sualisson
+433,1,02:47,CEA,10,11,substituicao_entra,Felipe
+434,1,02:47,CEA,10,11,substituicao_sai,B  Fiorotto
+435,1,02:47,FRA,10,11,substituicao_entra,Antonio
+436,1,02:47,FRA,10,11,substituicao_sai,Léo
+437,1,02:47,FRA,10,11,substituicao_entra,João Pedro
+438,1,02:47,FRA,10,11,substituicao_sai,Mineiro
+439,1,02:47,CEA,10,11,RO,Basq  Cearense
+440,1,02:47,CEA,10,11,3_Pts_T,B  Fiorotto
+441,1,03:08,CEA,10,11,RD,Leonardo
+442,1,03:11,FRA,10,11,3_Pts_T,Cipolini
+443,1,03:19,CEA,10,11,substituicao_entra,Sualisson
+444,1,03:19,CEA,10,11,substituicao_sai,Betinho
+445,1,03:19,FRA,10,11,FR,Léo
+446,1,03:19,CEA,10,11,FC,Leonardo
+447,1,03:24,FRA,10,11,BR,Léo
+448,1,03:24,CEA,10,11,ER,Davi
+449,1,03:38,CEA,10,11,FR,Betinho
+450,1,03:38,FRA,10,11,FC,Léo
+451,1,03:50,FRA,10,11,AS,Cassiano
+452,1,03:50,FRA,10,11,2_Pts_C,Léo
+453,1,03:53,FRA,8,11,RD,Cassiano
+454,1,03:56,CEA,8,11,3_Pts_T,Betinho
+455,1,04:10,CEA,8,11,substituicao_entra,Paulinho
+456,1,04:10,CEA,8,11,substituicao_sai,Rashaun
+457,1,04:10,FRA,8,11,substituicao_entra,Cassiano
+458,1,04:10,FRA,8,11,substituicao_sai,Coelho
+459,1,04:10,FRA,8,11,substituicao_entra,Pedro
+460,1,04:10,FRA,8,11,substituicao_sai,Gruber
+461,1,04:10,FRA,8,11,substituicao_entra,Cipolini
+462,1,04:10,FRA,8,11,substituicao_sai,Leandrinho
+463,1,04:24,FRA,8,11,3_Pts_C,Leandrinho
+464,1,04:44,CEA,5,11,2_Pts_C,B  Fiorotto
+465,1,05:03,CEA,5,9,RD,Leonardo
+466,1,05:06,FRA,5,9,2_Pts_T,Leandrinho
+467,1,05:11,FRA,5,9,RD,Leandrinho
+468,1,05:15,CEA,5,9,3_Pts_T,Betinho
+469,1,05:37,FRA,5,9,AS,Leandrinho
+470,1,05:37,FRA,5,9,2_Pts_C,Gruber
+471,1,05:43,FRA,3,9,BR,Gruber
+472,1,05:43,CEA,3,9,ER,Davi
+473,1,06:01,CEA,3,9,RD,Rashaun
+474,1,06:04,FRA,3,9,3_Pts_T,Gruber
+475,1,06:13,FRA,3,9,RD,Léo
+476,1,06:16,CEA,3,9,2_Pts_T,Rashaun
+477,1,06:28,FRA,3,9,AS,Léo
+478,1,06:28,FRA,3,9,2_Pts_C,Leandrinho
+479,1,06:40,CEA,1,9,2_Pts_C,Leonardo
+480,1,06:42,CEA,1,7,RO,Leonardo
+481,1,06:46,CEA,1,7,2_Pts_T,Betinho
+482,1,06:51,CEA,1,7,FR,Davi
+483,1,06:51,FRA,1,7,FC,Gruber
+484,1,06:52,CEA,1,7,RD,B  Fiorotto
+485,1,06:55,FRA,1,7,3_Pts_T,Gruber
+486,1,07:12,CEA,1,7,LL_Pts_C,Davi
+487,1,07:12,CEA,1,6,LL_Pts_C,Davi
+488,1,07:12,CEA,1,5,FR,Davi
+489,1,07:12,FRA,1,5,FC,Coelho
+490,1,07:18,CEA,1,5,RO,Leonardo
+491,1,07:20,CEA,1,5,2_Pts_T,Davi
+492,1,07:23,CEA,1,5,RO,B  Fiorotto
+493,1,07:27,FRA,1,5,TO,Léo
+494,1,07:27,CEA,1,5,2_Pts_T,Leonardo
+495,1,07:42,CEA,1,5,RD,Davi
+496,1,07:46,FRA,1,5,3_Pts_T,Léo
+497,1,07:58,FRA,1,5,RO,Franca
+498,1,08:02,FRA,1,5,2_Pts_T,Leandrinho
+499,1,08:08,FRA,1,5,RO,Leandrinho
+500,1,08:12,FRA,1,5,3_Pts_T,Léo
+501,1,08:31,CEA,1,5,AS,Davi
+502,1,08:31,CEA,1,5,3_Pts_C,Betinho
+503,1,08:43,CEA,1,2,RD,Leonardo
+504,1,08:44,FRA,1,2,LL_Pts_T,Léo
+505,1,08:44,FRA,1,2,LL_Pts_C,Léo
+506,1,08:44,FRA,0,2,FR,Léo
+507,1,08:44,CEA,0,2,FC,B  Fiorotto
+508,1,09:04,FRA,0,2,RD,Franca
+509,1,09:06,CEA,0,2,2_Pts_T,B  Fiorotto
+510,1,09:18,CEA,0,2,RD,B  Fiorotto
+511,1,09:21,FRA,0,2,2_Pts_T,Leandrinho
+512,1,09:40,CEA,0,2,AS,Leonardo
+513,1,09:40,CEA,0,2,EN,B  Fiorotto
+514,1,10:00,CEA,0,0,substituicao_entra,Betinho
+515,1,10:00,CEA,0,0,substituicao_entra,B  Fiorotto
+516,1,10:00,CEA,0,0,substituicao_entra,Leonardo
+517,1,10:00,CEA,0,0,substituicao_entra,Rashaun
+518,1,10:00,CEA,0,0,substituicao_entra,Davi
+519,1,10:00,FRA,0,0,substituicao_entra,Léo
+520,1,10:00,FRA,0,0,substituicao_entra,Gruber
+521,1,10:00,FRA,0,0,substituicao_entra,Leandrinho
+522,1,10:00,FRA,0,0,substituicao_entra,Coelho
+523,1,10:00,FRA,0,0,substituicao_entra,Mineiro

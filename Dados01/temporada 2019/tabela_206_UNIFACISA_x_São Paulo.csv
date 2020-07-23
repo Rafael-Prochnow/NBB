@@ -1,0 +1,509 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,103,106,fim_partida,
+1,4,00:00,NaN,103,106,fim_quarto, 
+2,4,00:00,UFC,103,106,RD,João Vitor
+3,4,00:00,SPF,103,106,LL_Pts_T,Jefferson
+4,4,00:00,SPF,103,106,LL_Pts_C,Jefferson
+5,4,00:00,UFC,103,105,substituicao_entra,Dixson
+6,4,00:00,UFC,103,105,substituicao_sai,Gemerson
+7,4,00:00,SPF,103,105,FR,Jefferson
+8,4,00:00,UFC,103,105,FC,Gemerson
+9,4,00:00,SPF,103,105,RD,Murilo
+10,4,00:00,UFC,103,105,LL_Pts_T,Barnes
+11,4,00:02,UFC,103,105,LL_Pts_C,Barnes
+12,4,00:02,SPF,102,105,substituicao_entra,Murilo
+13,4,00:02,SPF,102,105,substituicao_sai,Léo Meindl
+14,4,00:02,UFC,102,105,substituicao_entra,João Vitor
+15,4,00:02,UFC,102,105,substituicao_sai,Dixson
+16,4,00:02,SPF,102,105,tempo_tecnico,São Paulo
+17,4,00:02,UFC,102,105,FR,Barnes
+18,4,00:02,SPF,102,105,FC,Shamell
+19,4,00:03,UFC,102,105,RD,Gemerson
+20,4,00:05,SPF,102,105,LL_Pts_T,Shamell
+21,4,00:05,SPF,102,105,LL_Pts_T,Shamell
+22,4,00:05,SPF,102,105,FR,Shamell
+23,4,00:05,UFC,102,105,FC,Miller
+24,4,00:05,UFC,102,105,AS,Barnes
+25,4,00:05,UFC,102,105,EN,Gemerson
+26,4,00:08,SPF,100,105,LL_Pts_C,Léo Meindl
+27,4,00:08,SPF,100,104,LL_Pts_T,Léo Meindl
+28,4,00:08,SPF,100,104,FR,Léo Meindl
+29,4,00:08,UFC,100,104,FC,Dixson
+30,4,00:09,UFC,100,104,LL_Pts_C,Barnes
+31,4,00:09,UFC,99,104,LL_Pts_C,Barnes
+32,4,00:09,UFC,98,104,FR,Barnes
+33,4,00:09,SPF,98,104,FC,Jefferson
+34,4,00:13,SPF,98,104,LL_Pts_C,Shamell
+35,4,00:13,SPF,98,103,LL_Pts_C,Shamell
+36,4,00:13,SPF,98,102,FR,Shamell
+37,4,00:13,UFC,98,102,FC,Miller
+38,4,00:14,UFC,98,102,AS,Gemerson
+39,4,00:14,UFC,98,102,2_Pts_C,Dixson
+40,4,00:22,SPF,96,102,LL_Pts_C,Shamell
+41,4,00:22,SPF,96,101,LL_Pts_C,Shamell
+42,4,00:22,SPF,96,100,FR,Shamell
+43,4,00:22,UFC,96,100,FC,Barnes
+44,4,00:24,SPF,96,100,RD,Holloway
+45,4,00:27,UFC,96,100,2_Pts_T,Dixson
+46,4,00:32,UFC,96,100,RD,Dixson
+47,4,00:37,SPF,96,100,3_Pts_T,Jefferson
+48,4,00:48,UFC,96,100,2_Pts_C,Gemerson
+49,4,00:50,UFC,94,100,RO,Gemerson
+50,4,00:53,UFC,94,100,2_Pts_T,Barnes
+51,4,00:57,UFC,94,100,RD,Gemerson
+52,4,01:00,SPF,94,100,2_Pts_T,Holloway
+53,4,01:09,UFC,94,100,3_Pts_C,Barnes
+54,4,01:23,SPF,91,100,LL_Pts_C,Georginho
+55,4,01:23,SPF,91,99,LL_Pts_C,Georginho
+56,4,01:23,SPF,91,98,substituicao_entra,Léo Meindl
+57,4,01:23,SPF,91,98,substituicao_sai,Murilo
+58,4,01:23,UFC,91,98,substituicao_entra,Gabriel
+59,4,01:23,UFC,91,98,substituicao_sai,Antonio
+60,4,01:23,SPF,91,98,FR,Georginho
+61,4,01:23,UFC,91,98,FC,Barnes
+62,4,01:32,SPF,91,98,RD,Georginho
+63,4,01:35,UFC,91,98,3_Pts_T,Gemerson
+64,4,01:58,SPF,91,98,AS,Shamell
+65,4,01:58,SPF,91,98,LL_Pts_C,Murilo
+66,4,01:58,SPF,91,97,LL_Pts_T,Murilo
+67,4,01:58,UFC,91,97,substituicao_entra,Gemerson
+68,4,01:58,UFC,91,97,substituicao_sai,João Vitor
+69,4,01:58,SPF,91,97,FR,Murilo
+70,4,01:58,UFC,91,97,FC,João Vitor
+71,4,02:15,SPF,91,97,RD,Georginho
+72,4,02:18,UFC,91,97,3_Pts_T,Barnes
+73,4,02:25,UFC,91,97,RD,Antonio
+74,4,02:30,SPF,91,97,3_Pts_T,Georginho
+75,4,02:45,UFC,91,97,3_Pts_C,Miller
+76,4,02:47,UFC,88,97,RO,Miller
+77,4,02:50,UFC,88,97,3_Pts_T,Dixson
+78,4,03:08,SPF,88,97,AS,Holloway
+79,4,03:08,SPF,88,97,2_Pts_C,Murilo
+80,4,03:25,UFC,88,95,AS,Barnes
+81,4,03:25,UFC,88,95,3_Pts_C,Dixson
+82,4,03:43,SPF,85,95,AS,Georginho
+83,4,03:43,SPF,85,95,3_Pts_C,Jefferson
+84,4,03:54,SPF,85,92,RD,Murilo
+85,4,03:57,UFC,85,92,2_Pts_T,Miller
+86,4,04:13,UFC,85,92,substituicao_entra,Antonio
+87,4,04:13,UFC,85,92,substituicao_sai,Gemerson
+88,4,04:13,UFC,85,92,tempo_tecnico,UNIFACISA
+89,4,04:13,SPF,85,92,AS,Holloway
+90,4,04:13,SPF,85,92,3_Pts_C,Jefferson
+91,4,04:26,SPF,85,89,FR,Holloway
+92,4,04:26,UFC,85,89,ER,Gemerson
+93,4,04:26,UFC,85,89,FC_O,Gemerson
+94,4,04:44,SPF,85,89,ER,Murilo
+95,4,04:46,SPF,85,89,BR,Murilo
+96,4,04:46,UFC,85,89,ER,Barnes
+97,4,04:54,SPF,85,89,LL_Pts_C,Holloway
+98,4,04:54,SPF,85,88,LL_Pts_C,Holloway
+99,4,04:54,SPF,85,87,FR,Holloway
+100,4,04:54,UFC,85,87,FC,Miller
+101,4,05:04,UFC,85,87,AS,Gemerson
+102,4,05:04,UFC,85,87,3_Pts_C,Miller
+103,4,05:23,SPF,82,87,LL_Pts_C,Holloway
+104,4,05:23,UFC,82,86,substituicao_entra,João Vitor
+105,4,05:23,UFC,82,86,substituicao_sai,Antonio
+106,4,05:23,UFC,82,86,substituicao_entra,Miller
+107,4,05:23,UFC,82,86,substituicao_sai,Gemadinha
+108,4,05:23,SPF,82,86,FR,Holloway
+109,4,05:23,UFC,82,86,FC,Gemadinha
+110,4,05:23,SPF,82,86,2_Pts_C,Holloway
+111,4,05:33,SPF,82,84,FR,Shamell
+112,4,05:33,UFC,82,84,FC,Antonio
+113,4,05:45,UFC,82,84,LL_Pts_C,Gemadinha
+114,4,05:45,UFC,81,84,LL_Pts_C,Gemadinha
+115,4,05:45,UFC,80,84,substituicao_entra,Barnes
+116,4,05:45,UFC,80,84,substituicao_sai,Gabriel
+117,4,05:45,UFC,80,84,FR,Gemadinha
+118,4,05:45,SPF,80,84,FC,Murilo
+119,4,05:56,SPF,80,84,2_Pts_C,Georginho
+120,4,06:02,SPF,80,82,RD,Murilo
+121,4,06:07,UFC,80,82,2_Pts_T,Dixson
+122,4,06:28,SPF,80,82,AS,Holloway
+123,4,06:28,SPF,80,82,3_Pts_C,Shamell
+124,4,06:45,UFC,80,79,AS,Gabriel
+125,4,06:45,UFC,80,79,2_Pts_C,Dixson
+126,4,06:47,SPF,78,79,substituicao_entra,Murilo
+127,4,06:47,SPF,78,79,substituicao_sai,Renan
+128,4,06:47,UFC,78,79,FR,Antonio
+129,4,06:47,SPF,78,79,FC,Renan
+130,4,06:49,UFC,78,79,RO,UNIFACISA
+131,4,06:49,UFC,78,79,2_Pts_T,Gemerson
+132,4,07:11,UFC,78,79,RD,Antonio
+133,4,07:11,SPF,78,79,LL_Pts_T,Renan
+134,4,07:11,SPF,78,79,AS,Jefferson
+135,4,07:11,SPF,78,79,LL_Pts_C,Renan
+136,4,07:11,SPF,78,78,FR,Renan
+137,4,07:11,UFC,78,78,FC,Dixson
+138,4,07:26,SPF,78,78,tempo_tecnico,São Paulo
+139,4,07:26,UFC,78,78,AS,Gemadinha
+140,4,07:26,UFC,78,78,EN,Antonio
+141,4,07:31,UFC,76,78,RD,Antonio
+142,4,07:34,SPF,76,78,2_Pts_T,Holloway
+143,4,07:58,UFC,76,78,3_Pts_C,Gemadinha
+144,4,08:07,SPF,73,78,substituicao_entra,Renan
+145,4,08:07,SPF,73,78,substituicao_sai,Léo Meindl
+146,4,08:07,UFC,73,78,FR,Antonio
+147,4,08:07,SPF,73,78,ER,Léo Meindl
+148,4,08:07,SPF,73,78,FC_O,Léo Meindl
+149,4,08:10,SPF,73,78,FR,Léo Meindl
+150,4,08:10,UFC,73,78,FC,Gemerson
+151,4,08:10,SPF,73,78,RO,Shamell
+152,4,08:12,UFC,73,78,TO,Dixson
+153,4,08:12,SPF,73,78,2_Pts_T,Shamell
+154,4,08:34,UFC,73,78,LL_Pts_C,Dixson
+155,4,08:34,UFC,72,78,LL_Pts_C,Dixson
+156,4,08:34,UFC,71,78,FR,Dixson
+157,4,08:34,SPF,71,78,FC,Shamell
+158,4,08:42,SPF,71,78,LL_Pts_C,Holloway
+159,4,08:42,SPF,71,77,FR,Holloway
+160,4,08:42,UFC,71,77,FC,Gemerson
+161,4,08:42,SPF,71,77,2_Pts_C,Holloway
+162,4,09:05,UFC,71,75,2_Pts_C,Dixson
+163,4,09:10,UFC,69,75,RD,Dixson
+164,4,09:14,SPF,69,75,2_Pts_T,Léo Meindl
+165,4,09:35,UFC,69,75,2_Pts_C,Gemerson
+166,4,09:41,UFC,67,75,RO,Gabriel
+167,4,09:44,UFC,67,75,3_Pts_T,Antonio
+168,4,10:00,NaN,67,75,inicio_quarto,
+169,3,00:00,NaN,67,75,fim_quarto,
+170,3,00:00,UFC,67,75,RD,UNIFACISA
+171,3,00:00,SPF,67,75,3_Pts_T,Georginho
+172,3,00:04,UFC,67,75,substituicao_entra,Miller
+173,3,00:04,UFC,67,75,substituicao_sai,Gemadinha
+174,3,00:05,SPF,67,75,RO,São Paulo
+175,3,00:05,SPF,67,75,2_Pts_T,Léo Meindl
+176,3,00:19,UFC,67,75,LL_Pts_C,Gabriel
+177,3,00:19,UFC,66,75,FR,Gabriel
+178,3,00:19,SPF,66,75,FC,Holloway
+179,3,00:19,UFC,66,75,2_Pts_C,Gabriel
+180,3,00:36,UFC,64,75,RD,UNIFACISA
+181,3,00:38,SPF,64,75,3_Pts_T,Shamell
+182,3,01:01,UFC,64,75,AS,Gabriel
+183,3,01:01,UFC,64,75,2_Pts_C,Gemerson
+184,3,01:15,UFC,62,75,substituicao_entra,Gemadinha
+185,3,01:15,UFC,62,75,substituicao_sai,Barnes
+186,3,01:15,SPF,62,75,2_Pts_C,Shamell
+187,3,01:35,SPF,62,73,RD,Holloway
+188,3,01:38,UFC,62,73,3_Pts_T,Gabriel
+189,3,01:44,UFC,62,73,RO,Gemerson
+190,3,01:48,UFC,62,73,3_Pts_T,Gemerson
+191,3,02:03,UFC,62,73,RD,Gemerson
+192,3,02:03,SPF,62,73,LL_Pts_T,Shamell
+193,3,02:03,SPF,62,73,LL_Pts_C,Shamell
+194,3,02:03,SPF,62,72,FR,Shamell
+195,3,02:03,UFC,62,72,FC,Gabriel
+196,3,02:16,UFC,62,72,AS,Gemerson
+197,3,02:16,UFC,62,72,EN,Dixson
+198,3,02:17,UFC,60,72,RD,Antonio
+199,3,02:24,UFC,60,72,TO,Dixson
+200,3,02:24,SPF,60,72,2_Pts_T,Georginho
+201,3,02:32,SPF,60,72,substituicao_entra,Holloway
+202,3,02:32,SPF,60,72,substituicao_sai,Renan
+203,3,02:46,UFC,60,72,ER,Dixson
+204,3,02:50,SPF,60,72,ER,Georginho
+205,3,03:12,UFC,60,72,LL_Pts_C,Dixson
+206,3,03:12,UFC,59,72,LL_Pts_C,Dixson
+207,3,03:12,UFC,58,72,FR,Dixson
+208,3,03:12,SPF,58,72,FC,Renan
+209,3,03:15,UFC,58,72,RD,Gemerson
+210,3,03:19,SPF,58,72,3_Pts_T,Shamell
+211,3,03:22,SPF,58,72,RD,Léo Meindl
+212,3,03:25,UFC,58,72,2_Pts_T,Barnes
+213,3,03:38,SPF,58,72,LL_Pts_C,Shamell
+214,3,03:38,SPF,58,71,LL_Pts_C,Shamell
+215,3,03:38,SPF,58,70,FR,Shamell
+216,3,03:38,UFC,58,70,FC,Dixson
+217,3,03:49,UFC,58,70,EN,Dixson
+218,3,03:57,UFC,56,70,BR,Dixson
+219,3,03:57,SPF,56,70,ER,Shamell
+220,3,03:58,SPF,56,70,RO,Léo Meindl
+221,3,04:04,SPF,56,70,3_Pts_T,Jefferson
+222,3,04:11,SPF,56,70,FR,Shamell
+223,3,04:11,UFC,56,70,FC,Gabriel
+224,3,04:25,UFC,56,70,LL_Pts_C,Antonio
+225,3,04:25,UFC,55,70,LL_Pts_C,Antonio
+226,3,04:25,UFC,54,70,FR,Antonio
+227,3,04:25,SPF,54,70,FC,Renan
+228,3,04:43,SPF,54,70,AS,Georginho
+229,3,04:43,SPF,54,70,3_Pts_C,Jefferson
+230,3,05:06,UFC,54,67,AS,Antonio
+231,3,05:06,UFC,54,67,3_Pts_C,Gemerson
+232,3,05:22,UFC,51,67,substituicao_entra,Dixson
+233,3,05:22,UFC,51,67,substituicao_entra,Gabriel
+234,3,05:22,UFC,51,67,substituicao_sai,Miller
+235,3,05:22,UFC,51,67,substituicao_sai,Pepo Vidal
+236,3,05:22,UFC,51,67,tempo_tecnico,UNIFACISA
+237,3,05:24,SPF,51,67,AS,Renan
+238,3,05:24,SPF,51,67,3_Pts_C,Shamell
+239,3,05:41,SPF,51,64,RD,Léo Meindl
+240,3,05:44,UFC,51,64,3_Pts_T,Barnes
+241,3,05:50,UFC,51,64,BR,Antonio
+242,3,05:50,SPF,51,64,ER,Shamell
+243,3,06:04,UFC,51,64,2_Pts_C,Antonio
+244,3,06:05,UFC,49,64,RO,Antonio
+245,3,06:08,UFC,49,64,2_Pts_T,Gemerson
+246,3,06:28,SPF,49,64,,
+247,3,06:45,UFC,49,64,2_Pts_C,Pepo Vidal
+248,3,06:59,SPF,47,64,AS,Léo Meindl
+249,3,06:59,SPF,47,64,3_Pts_C,Georginho
+250,3,07:27,UFC,47,61,AS,Pepo Vidal
+251,3,07:27,UFC,47,61,2_Pts_C,Antonio
+252,3,07:31,UFC,45,61,RD,Miller
+253,3,07:35,SPF,45,61,3_Pts_T,Jefferson
+254,3,07:46,SPF,45,61,RD,Léo Meindl
+255,3,07:49,UFC,45,61,3_Pts_T,Antonio
+256,3,07:54,UFC,45,61,FR,Barnes
+257,3,07:54,SPF,45,61,FC,Shamell
+258,3,08:02,UFC,45,61,RD,Gemerson
+259,3,08:05,SPF,45,61,LL_Pts_T,Léo Meindl
+260,3,08:08,UFC,45,61,substituicao_entra,Antonio
+261,3,08:08,UFC,45,61,substituicao_sai,João Vitor
+262,3,08:25,SPF,45,61,FR,Léo Meindl
+263,3,08:25,UFC,45,61,FC,João Vitor
+264,3,08:25,SPF,45,61,AS,Renan
+265,3,08:25,SPF,45,61,3_Pts_C,Léo Meindl
+266,3,08:26,SPF,45,58,RD,Jefferson
+267,3,08:26,UFC,45,58,2_Pts_T,João Vitor
+268,3,08:26,UFC,45,58,tempo_tecnico,UNIFACISA
+269,3,08:28,SPF,45,58,AS,Shamell
+270,3,08:28,SPF,45,58,3_Pts_C,Renan
+271,3,08:37,SPF,45,55,RD,Georginho
+272,3,08:41,UFC,45,55,3_Pts_T,Miller
+273,3,08:56,UFC,45,55,substituicao_entra,João Vitor
+274,3,08:56,UFC,45,55,substituicao_sai,D  Nunes
+275,3,09:02,SPF,45,55,AS,Jefferson
+276,3,09:02,SPF,45,55,3_Pts_C,Shamell
+277,3,09:04,SPF,45,52,RO,Jefferson
+278,3,09:09,SPF,45,52,3_Pts_T,Jefferson
+279,3,09:27,SPF,45,52,FR,Léo Meindl
+280,3,09:27,UFC,45,52,ER,Barnes
+281,3,09:27,UFC,45,52,FC_O,Barnes
+282,3,09:37,UFC,45,52,RD,UNIFACISA
+283,3,09:38,SPF,45,52,2_Pts_T,Georginho
+284,3,09:52,SPF,45,52,FR,Léo Meindl
+285,3,09:52,UFC,45,52,FC,Miller
+286,3,10:00,NaN,45,52,inicio_quarto,
+287,2,00:00,NaN,45,52,fim_quarto,
+288,2,00:00,UFC,45,52,RD,UNIFACISA
+289,2,00:00,SPF,45,52,2_Pts_T,Georginho
+290,2,00:10,SPF,45,52,RD,Georginho
+291,2,00:14,UFC,45,52,3_Pts_T,Pepo Vidal
+292,2,00:27,UFC,45,52,substituicao_entra,João Vitor
+293,2,00:27,UFC,45,52,substituicao_sai,D  Nunes
+294,2,00:27,UFC,45,52,FR,Gemerson
+295,2,00:27,SPF,45,52,FC,Shamell
+296,2,00:27,UFC,45,52,RD,Gemerson
+297,2,00:31,SPF,45,52,2_Pts_T,Georginho
+298,2,00:35,SPF,45,52,RD,Shamell
+299,2,00:38,UFC,45,52,3_Pts_T,Miller
+300,2,00:45,UFC,45,52,FR,Gemerson
+301,2,00:45,SPF,45,52,FC,Léo Meindl
+302,2,00:45,SPF,45,52,AS,Shamell
+303,2,00:45,SPF,45,52,3_Pts_C,Jefferson
+304,2,00:45,UFC,45,49,AS,Pepo Vidal
+305,2,00:45,UFC,45,49,2_Pts_C,Miller
+306,2,00:45,UFC,43,49,BR,Pepo Vidal
+307,2,00:45,SPF,43,49,ER,Shamell
+308,2,00:45,SPF,43,49,RD,Jefferson
+309,2,00:45,UFC,43,49,3_Pts_T,D  Nunes
+310,2,00:45,UFC,43,49,FR,D  Nunes
+311,2,00:45,SPF,43,49,FC,Renan
+312,2,00:45,SPF,43,49,substituicao_entra,Holloway
+313,2,00:45,SPF,43,49,substituicao_sai,Léo Meindl
+314,2,00:45,SPF,43,49,ER,Jefferson
+315,2,00:45,SPF,43,49,RD,Jefferson
+316,2,00:45,UFC,43,49,2_Pts_T,D  Nunes
+317,2,00:45,UFC,43,49,RO,D  Nunes
+318,2,00:45,UFC,43,49,3_Pts_T,Miller
+319,2,00:45,UFC,43,49,substituicao_entra,Miller
+320,2,00:45,UFC,43,49,substituicao_sai,Dixson
+321,2,00:45,SPF,43,49,LL_Pts_C,Jefferson
+322,2,00:45,SPF,43,48,LL_Pts_C,Jefferson
+323,2,00:45,SPF,43,47,FR,Jefferson
+324,2,00:45,UFC,43,47,FC,Gemerson
+325,2,02:26,UFC,43,47,2_Pts_C,Gemerson
+326,2,02:44,UFC,41,47,tempo_tecnico,UNIFACISA
+327,2,02:44,SPF,41,47,AS,Renan
+328,2,02:44,SPF,41,47,3_Pts_C,Léo Meindl
+329,2,03:01,UFC,41,44,3_Pts_C,Barnes
+330,2,03:21,SPF,38,44,2_Pts_C,Léo Meindl
+331,2,03:43,UFC,38,42,3_Pts_C,Barnes
+332,2,03:48,SPF,35,42,EN,Renan
+333,2,04:00,SPF,35,40,BR,Renan
+334,2,04:00,UFC,35,40,ER,Pepo Vidal
+335,2,04:02,UFC,35,40,RD,Pepo Vidal
+336,2,04:05,SPF,35,40,3_Pts_T,Shamell
+337,2,04:32,UFC,35,40,AS,Pepo Vidal
+338,2,04:32,UFC,35,40,2_Pts_C,Barnes
+339,2,04:49,UFC,33,40,RD,UNIFACISA
+340,2,04:51,SPF,33,40,3_Pts_T,Shamell
+341,2,05:07,SPF,33,40,FR,Jefferson
+342,2,05:07,UFC,33,40,FC,Dixson
+343,2,05:09,SPF,33,40,RD,Shamell
+344,2,05:15,SPF,33,40,TO,Renan
+345,2,05:15,UFC,33,40,2_Pts_T,Pepo Vidal
+346,2,05:35,SPF,33,40,AS,Shamell
+347,2,05:35,SPF,33,40,3_Pts_C,Jefferson
+348,2,05:48,SPF,33,37,RD,São Paulo
+349,2,05:50,UFC,33,37,3_Pts_T,D  Nunes
+350,2,05:55,UFC,33,37,RD,Pepo Vidal
+351,2,05:58,SPF,33,37,2_Pts_T,Jefferson
+352,2,06:10,SPF,33,37,FR,Léo Meindl
+353,2,06:10,UFC,33,37,FC,Barnes
+354,2,06:19,SPF,33,37,RD,Jefferson
+355,2,06:22,UFC,33,37,3_Pts_T,Barnes
+356,2,06:26,UFC,33,37,RD,UNIFACISA
+357,2,06:26,SPF,33,37,2_Pts_T,Shamell
+358,2,06:56,UFC,33,37,AS,Pepo Vidal
+359,2,06:56,UFC,33,37,3_Pts_C,Gemerson
+360,2,07:16,SPF,30,37,ER,Léo Meindl
+361,2,07:20,SPF,30,37,RD,Léo Meindl
+362,2,07:23,UFC,30,37,3_Pts_T,Dixson
+363,2,07:35,UFC,30,37,substituicao_entra,D  Nunes
+364,2,07:35,UFC,30,37,substituicao_entra,Gemerson
+365,2,07:35,UFC,30,37,substituicao_sai,Antonio
+366,2,07:35,UFC,30,37,substituicao_sai,João Vitor
+367,2,07:35,UFC,30,37,tempo_tecnico,UNIFACISA
+368,2,07:36,SPF,30,37,AS,Léo Meindl
+369,2,07:36,SPF,30,37,3_Pts_C,Renan
+370,2,07:45,UFC,30,34,substituicao_entra,Pepo Vidal
+371,2,07:45,UFC,30,34,substituicao_sai,Miller
+372,2,07:45,SPF,30,34,FR,Renan
+373,2,07:45,UFC,30,34,ER,João Vitor
+374,2,07:45,UFC,30,34,FC_O,João Vitor
+375,2,08:06,SPF,30,34,AS,Shamell
+376,2,08:06,SPF,30,34,3_Pts_C,Léo Meindl
+377,2,08:19,UFC,30,31,ER,Miller
+378,2,08:24,UFC,30,31,RD,Miller
+379,2,08:27,SPF,30,31,2_Pts_T,Shamell
+380,2,08:53,UFC,30,31,AS,Barnes
+381,2,08:53,UFC,30,31,2_Pts_C,Antonio
+382,2,09:04,UFC,28,31,RD,Miller
+383,2,09:07,SPF,28,31,3_Pts_T,Georginho
+384,2,09:22,UFC,28,31,AS,Antonio
+385,2,09:22,UFC,28,31,EN,João Vitor
+386,2,09:36,UFC,26,31,RD,João Vitor
+387,2,09:37,SPF,26,31,LL_Pts_T,Léo Meindl
+388,2,09:37,SPF,26,31,LL_Pts_T,Léo Meindl
+389,2,09:37,UFC,26,31,substituicao_entra,Dixson
+390,2,09:37,UFC,26,31,substituicao_sai,Gemadinha
+391,2,09:37,SPF,26,31,FR,Léo Meindl
+392,2,09:37,UFC,26,31,FC,João Vitor
+393,2,09:41,SPF,26,31,RD,Jefferson
+394,2,09:43,UFC,26,31,2_Pts_T,João Vitor
+395,2,10:00,NaN,26,31,inicio_quarto,
+396,1,00:00,NaN,26,31,fim_quarto,
+397,1,00:06,UFC,26,31,AS,Barnes
+398,1,00:06,UFC,26,31,3_Pts_C,Miller
+399,1,00:28,SPF,23,31,AS,Renan
+400,1,00:28,SPF,23,31,3_Pts_C,Jefferson
+401,1,00:32,SPF,23,28,RD,Georginho
+402,1,00:35,UFC,23,28,2_Pts_T,Barnes
+403,1,01:02,SPF,23,28,ER,Jefferson
+404,1,01:21,SPF,23,28,FR,Léo Meindl
+405,1,01:21,UFC,23,28,ER,Antonio
+406,1,01:21,UFC,23,28,FC_O,Antonio
+407,1,01:31,UFC,23,28,substituicao_entra,Barnes
+408,1,01:31,UFC,23,28,substituicao_sai,Pepo Vidal
+409,1,01:33,SPF,23,28,2_Pts_C,Shamell
+410,1,01:34,SPF,23,26,RO,Shamell
+411,1,01:37,SPF,23,26,2_Pts_T,Shamell
+412,1,01:40,SPF,23,26,RD,Georginho
+413,1,01:43,UFC,23,26,3_Pts_T,Gemadinha
+414,1,01:51,UFC,23,26,BR,Pepo Vidal
+415,1,01:51,SPF,23,26,ER,Georginho
+416,1,02:06,SPF,23,26,RD,São Paulo
+417,1,02:08,UFC,23,26,2_Pts_T,Miller
+418,1,02:21,UFC,23,26,substituicao_entra,Gemadinha
+419,1,02:21,UFC,23,26,substituicao_entra,Antonio
+420,1,02:21,UFC,23,26,substituicao_sai,Barnes
+421,1,02:21,UFC,23,26,substituicao_sai,D  Nunes
+422,1,02:22,SPF,23,26,2_Pts_C,Léo Meindl
+423,1,02:40,UFC,23,24,AS,Pepo Vidal
+424,1,02:40,UFC,23,24,3_Pts_C,D  Nunes
+425,1,02:48,UFC,20,24,RD,Miller
+426,1,02:52,SPF,20,24,3_Pts_T,Jefferson
+427,1,02:54,SPF,20,24,RD,Shamell
+428,1,02:58,UFC,20,24,2_Pts_T,Barnes
+429,1,03:17,SPF,20,24,AS,Shamell
+430,1,03:17,SPF,20,24,3_Pts_C,Jefferson
+431,1,03:31,UFC,20,21,substituicao_entra,João Vitor
+432,1,03:31,UFC,20,21,substituicao_sai,Gemerson
+433,1,03:35,UFC,20,21,2_Pts_C,Miller
+434,1,03:37,UFC,18,21,RD,Pepo Vidal
+435,1,03:41,SPF,18,21,3_Pts_T,Léo Meindl
+436,1,04:04,UFC,18,21,AS,D  Nunes
+437,1,04:04,UFC,18,21,3_Pts_C,Barnes
+438,1,04:19,SPF,15,21,AS,Georginho
+439,1,04:19,SPF,15,21,3_Pts_C,Renan
+440,1,04:30,SPF,15,18,RD,Renan
+441,1,04:33,UFC,15,18,3_Pts_T,Miller
+442,1,04:43,UFC,15,18,FR,D  Nunes
+443,1,04:43,SPF,15,18,FC,Jefferson
+444,1,04:56,SPF,15,18,AS,Shamell
+445,1,04:56,SPF,15,18,3_Pts_C,Georginho
+446,1,05:02,SPF,15,15,RD,Shamell
+447,1,05:04,UFC,15,15,2_Pts_T,Miller
+448,1,05:21,SPF,15,15,LL_Pts_C,Georginho
+449,1,05:21,SPF,15,14,AS,Renan
+450,1,05:21,SPF,15,14,LL_Pts_C,Georginho
+451,1,05:21,SPF,15,13,FR,Georginho
+452,1,05:21,UFC,15,13,FC,Pepo Vidal
+453,1,05:40,UFC,15,13,AS,Pepo Vidal
+454,1,05:40,UFC,15,13,EN,D  Nunes
+455,1,05:58,SPF,13,13,AS,Shamell
+456,1,05:58,SPF,13,13,3_Pts_C,Jefferson
+457,1,06:15,UFC,13,10,AS,Pepo Vidal
+458,1,06:15,UFC,13,10,2_Pts_C,Miller
+459,1,06:19,UFC,11,10,RD,Pepo Vidal
+460,1,06:22,SPF,11,10,3_Pts_T,Jefferson
+461,1,06:35,UFC,11,10,2_Pts_C,Barnes
+462,1,06:55,SPF,9,10,AS,Shamell
+463,1,06:55,SPF,9,10,3_Pts_C,Georginho
+464,1,07:15,UFC,9,7,ER,D  Nunes
+465,1,07:33,SPF,9,7,ER,Georginho
+466,1,07:36,SPF,9,7,RD,Jefferson
+467,1,07:39,UFC,9,7,LL_Pts_T,Gemerson
+468,1,07:39,UFC,9,7,FR,Gemerson
+469,1,07:39,SPF,9,7,FC,Georginho
+470,1,07:39,UFC,9,7,2_Pts_C,Gemerson
+471,1,07:41,UFC,7,7,RO,Gemerson
+472,1,07:45,UFC,7,7,2_Pts_T,Pepo Vidal
+473,1,07:56,SPF,7,7,2_Pts_C,Renan
+474,1,07:56,SPF,7,5,RO,Léo Meindl
+475,1,07:56,SPF,7,5,3_Pts_T,Renan
+476,1,07:56,SPF,7,5,RD,Jefferson
+477,1,07:56,UFC,7,5,3_Pts_T,Pepo Vidal
+478,1,07:56,UFC,7,5,RD,D  Nunes
+479,1,07:56,SPF,7,5,3_Pts_T,Léo Meindl
+480,1,08:09,UFC,7,5,2_Pts_C,Barnes
+481,1,08:20,SPF,5,5,2_Pts_C,Léo Meindl
+482,1,08:35,UFC,5,3,LL_Pts_C,Barnes
+483,1,08:35,UFC,4,3,LL_Pts_C,Barnes
+484,1,08:35,UFC,3,3,FR,Barnes
+485,1,08:35,SPF,3,3,FC,Léo Meindl
+486,1,08:47,SPF,3,3,ER,Shamell
+487,1,08:57,SPF,3,3,RD,Jefferson
+488,1,09:00,UFC,3,3,2_Pts_T,Miller
+489,1,09:05,UFC,3,3,RO,Gemerson
+490,1,09:08,UFC,3,3,3_Pts_T,Barnes
+491,1,09:27,SPF,3,3,AS,Shamell
+492,1,09:27,SPF,3,3,3_Pts_C,Renan
+493,1,09:40,UFC,3,0,AS,Barnes
+494,1,09:40,UFC,3,0,3_Pts_C,D  Nunes
+495,1,09:56,UFC,0,0,BR,Gemerson
+496,1,09:56,SPF,0,0,ER,Jefferson
+497,1,10:00,SPF,0,0,substituicao_entra,Renan
+498,1,10:00,SPF,0,0,substituicao_entra,Léo Meindl
+499,1,10:00,SPF,0,0,substituicao_entra,Georginho
+500,1,10:00,SPF,0,0,substituicao_entra,Jefferson
+501,1,10:00,SPF,0,0,substituicao_entra,Shamell
+502,1,10:00,UFC,0,0,substituicao_entra,Barnes
+503,1,10:00,UFC,0,0,substituicao_entra,Miller
+504,1,10:00,UFC,0,0,substituicao_entra,D  Nunes
+505,1,10:00,UFC,0,0,substituicao_entra,Gemerson
+506,1,10:00,UFC,0,0,substituicao_entra,Pepo Vidal
+507,1,10:00,NaN,0,0,inicio_partida,

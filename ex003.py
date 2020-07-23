@@ -10,7 +10,8 @@ url = 'https://lnb.com.br/nbb/tabela-de-jogos'
 
 option = Options()
 option.headless = True
-driver = webdriver.Firefox(options=option)
+driver = webdriver.Firefox()
+# options=option
 
 driver.get(url)
 time.sleep(10)

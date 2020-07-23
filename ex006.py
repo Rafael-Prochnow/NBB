@@ -7,7 +7,7 @@ import requests
 import io
 # teste
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=27&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
@@ -97,9 +97,6 @@ dados['placar_visitante'] = placar_visitante
 dados.drop('Placar', axis=1, inplace=True)
 
 
-dados.to_csv("teste_07.csv", index=None)
-
-'''
 # esses valores estão invertidos ou seja
 # Nome; Indicador
 # Indicador ; Nome
@@ -167,7 +164,7 @@ alinhados_05 = alinhados_04.str.replace(' 1', '')
 dados["Indicador"] = alinhados_03
 dados["Nomes"] = alinhados_05
 dados.drop('Indicador_01', axis=1, inplace=True)
-dados.to_csv("teste_08.csv", index=None)
+dados.to_csv("teste_06.csv", index=None)
 
 driver.quit()
-'''
+

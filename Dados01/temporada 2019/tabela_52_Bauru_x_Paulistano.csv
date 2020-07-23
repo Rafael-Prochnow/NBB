@@ -1,0 +1,470 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,74,82,fim_partida,
+1,4,00:00,NaN,74,82,fim_quarto, 
+2,4,00:01,CAP,74,82,3_Pts_T,Yago
+3,4,00:03,CAP,74,82,BR,Yago
+4,4,00:03,BAU,74,82,ER,Faggiano
+5,4,00:05,CAP,74,82,AS,Eddy
+6,4,00:05,CAP,74,82,3_Pts_C,Yago
+7,4,00:26,CAP,74,79,RD,Maique
+8,4,00:26,BAU,74,79,3_Pts_T,Jaú
+9,4,00:27,CAP,74,79,FR,Eddy
+10,4,00:27,BAU,74,79,FC,Massey
+11,4,00:34,BAU,74,79,FR,Faggiano
+12,4,00:34,CAP,74,79,FC,Victão
+13,4,00:36,CAP,74,79,AS,Eddy
+14,4,00:36,BAU,74,79,tempo_tecnico,Bauru
+15,4,00:36,CAP,74,79,LL_Pts_C,Maique
+16,4,00:36,CAP,74,78,LL_Pts_T,Maique
+17,4,00:36,CAP,74,78,FR,Maique
+18,4,00:36,BAU,74,78,FC,Massey
+19,4,01:06,CAP,74,78,RD,Victão
+20,4,01:06,BAU,74,78,LL_Pts_T,Jaú
+21,4,01:06,BAU,74,78,FR,Jaú
+22,4,01:06,CAP,74,78,FC,Eddy
+23,4,01:14,BAU,74,78,AS,Wiggins
+24,4,01:14,BAU,74,78,2_Pts_C,Jaú
+25,4,01:30,BAU,72,78,FR,Wiggins
+26,4,01:30,CAP,72,78,FC,Maique
+27,4,01:30,BAU,72,78,RD,Wiggins
+28,4,01:31,CAP,72,78,2_Pts_T,Solano
+29,4,01:51,CAP,72,78,FR,Yago
+30,4,01:51,BAU,72,78,FC,Massey
+31,4,01:58,CAP,72,78,RD,Solano
+32,4,02:05,BAU,72,78,3_Pts_T,Massey
+33,4,02:10,BAU,72,78,substituicao_entra,Jaú
+34,4,02:10,BAU,72,78,substituicao_sai,Samuel
+35,4,02:10,BAU,72,78,substituicao_entra,Wiggins
+36,4,02:10,BAU,72,78,substituicao_sai,Emanuel
+37,4,03:29,BAU,72,78,tempo_tecnico,Bauru
+38,4,03:30,CAP,72,78,3_Pts_C,Victão
+39,4,03:30,BAU,72,75,ER,Samuel
+40,4,03:30,CAP,72,75,2_Pts_C,Solano
+41,4,03:30,BAU,72,73,ER,Emanuel
+42,4,03:40,CAP,72,73,2_Pts_C,Maique
+43,4,03:51,BAU,72,71,AS,Massey
+44,4,03:51,BAU,72,71,2_Pts_C,Faggiano
+45,4,03:55,CAP,70,71,AS,Yago
+46,4,03:55,CAP,70,71,3_Pts_C,Victão
+47,4,03:55,BAU,70,68,ER,Samuel
+48,4,04:11,BAU,70,68,FR,Emanuel
+49,4,04:11,CAP,70,68,FC,Eddy
+50,4,04:32,CAP,70,68,FR,Yago
+51,4,04:32,BAU,70,68,FC,Samuel
+52,4,04:51,CAP,70,68,RD,Yago
+53,4,04:56,BAU,70,68,2_Pts_T,Samuel
+54,4,05:12,BAU,70,68,tempo_tecnico,Bauru
+55,4,05:20,CAP,70,68,2_Pts_C,Victão
+56,4,05:26,CAP,70,66,RD,Victão
+57,4,05:40,BAU,70,66,3_Pts_T,Massey
+58,4,05:53,CAP,70,66,2_Pts_C,Solano
+59,4,06:00,BAU,70,64,ER,Massey
+60,4,06:22,CAP,70,64,AS,Yago
+61,4,06:22,CAP,70,64,3_Pts_C,Victão
+62,4,06:22,CAP,70,61,RD,Victão
+63,4,06:22,BAU,70,61,2_Pts_T,Massey
+64,4,06:22,CAP,70,61,2_Pts_C,Maique
+65,4,06:22,CAP,70,59,substituicao_entra,Victão
+66,4,06:22,CAP,70,59,substituicao_sai,Dikembe
+67,4,06:22,BAU,70,59,2_Pts_C,Samuel
+68,4,06:22,CAP,68,59,ER,Eddy
+69,4,06:22,CAP,68,59,substituicao_entra,Dikembe
+70,4,06:22,CAP,68,59,substituicao_sai,Victão
+71,4,06:22,BAU,68,59,2_Pts_C,Emanuel
+72,4,06:22,CAP,66,59,ER,Victão
+73,4,10:00,CAP,66,59,FR,Maique
+74,4,10:00,BAU,66,59,FC,Crescenzi
+75,4,10:00,NaN,66,59,inicio_quarto,
+76,3,00:00,NaN,66,59,fim_quarto,
+77,3,00:00,CAP,66,59,RD,Kevin Foster
+78,3,00:05,BAU,66,59,3_Pts_T,Massey
+79,3,00:21,BAU,66,59,substituicao_entra,Massey
+80,3,00:21,BAU,66,59,substituicao_sai,Emanuel
+81,3,00:25,BAU,66,59,FR,L  Brito
+82,3,00:25,CAP,66,59,ER,Kevin Foster
+83,3,00:25,CAP,66,59,FC_O,Kevin Foster
+84,3,00:30,CAP,66,59,RD,Ruivo
+85,3,00:37,CAP,66,59,TO,Maique
+86,3,00:37,BAU,66,59,2_Pts_T,Emanuel
+87,3,00:40,BAU,66,59,substituicao_entra,Wiggins
+88,3,00:40,BAU,66,59,substituicao_sai,Gabriel
+89,3,00:40,CAP,66,59,LL_Pts_C,Kevin Foster
+90,3,00:40,CAP,66,58,LL_Pts_C,Kevin Foster
+91,3,00:41,CAP,66,57,FR,Kevin Foster
+92,3,00:41,BAU,66,57,FC,Emanuel
+93,3,00:47,BAU,66,57,LL_Pts_C,L  Brito
+94,3,00:47,BAU,65,57,LL_Pts_C,L  Brito
+95,3,00:47,CAP,64,57,substituicao_entra,Maique
+96,3,00:47,CAP,64,57,substituicao_sai,D  Coleman
+97,3,00:47,BAU,64,57,substituicao_entra,Gabriel
+98,3,00:47,BAU,64,57,substituicao_sai,Massey
+99,3,00:47,BAU,64,57,substituicao_entra,Samuel
+100,3,00:47,BAU,64,57,substituicao_sai,Wiggins
+101,3,00:48,BAU,64,57,FR,L  Brito
+102,3,00:48,CAP,64,57,FC,Ruivo
+103,3,01:05,BAU,64,57,BR,Emanuel
+104,3,01:05,CAP,64,57,ER,D  Coleman
+105,3,01:19,BAU,64,57,LL_Pts_C,Massey
+106,3,01:19,BAU,63,57,LL_Pts_C,Massey
+107,3,01:19,BAU,62,57,FR,Massey
+108,3,01:19,CAP,62,57,FC,Jonatan
+109,3,01:19,BAU,62,57,RD,Massey
+110,3,01:20,CAP,62,57,3_Pts_T,D  Coleman
+111,3,01:35,BAU,62,57,LL_Pts_C,Emanuel
+112,3,01:35,BAU,61,57,LL_Pts_C,Emanuel
+113,3,01:35,CAP,60,57,substituicao_entra,Ruivo
+114,3,01:35,CAP,60,57,substituicao_sai,Yago
+115,3,01:35,CAP,60,57,substituicao_entra,Jonatan
+116,3,01:35,CAP,60,57,substituicao_sai,Barbosa
+117,3,01:35,BAU,60,57,substituicao_entra,L  Brito
+118,3,01:35,BAU,60,57,substituicao_sai,Faggiano
+119,3,01:35,BAU,60,57,FR,Emanuel
+120,3,01:35,CAP,60,57,FC,Barbosa
+121,3,01:41,BAU,60,57,RD,Wiggins
+122,3,01:45,CAP,60,57,2_Pts_T,Yago
+123,3,02:09,BAU,60,57,AS,Crescenzi
+124,3,02:09,BAU,60,57,3_Pts_C,Wiggins
+125,3,02:14,BAU,57,57,RD,Crescenzi
+126,3,02:21,CAP,57,57,2_Pts_T,Yago
+127,3,02:33,CAP,57,57,RO,Paulistano
+128,3,02:33,BAU,57,57,TO,Crescenzi
+129,3,02:33,CAP,57,57,2_Pts_T,Kevin Foster
+130,3,02:35,CAP,57,57,RD,Barbosa
+131,3,02:43,BAU,57,57,3_Pts_T,Crescenzi
+132,3,02:51,CAP,57,57,LL_Pts_C,Yago
+133,3,02:51,CAP,57,56,LL_Pts_C,Yago
+134,3,02:51,CAP,57,55,FR,Yago
+135,3,02:51,BAU,57,55,FC,Crescenzi
+136,3,02:51,BAU,57,55,AS,Faggiano
+137,3,02:51,BAU,57,55,3_Pts_C,Crescenzi
+138,3,02:51,BAU,54,55,substituicao_entra,Crescenzi
+139,3,02:51,BAU,54,55,substituicao_sai,Samuel
+140,3,03:19,CAP,54,55,AS,Yago
+141,3,03:19,CAP,54,55,3_Pts_C,Eddy
+142,3,03:30,CAP,54,52,BR,Yago
+143,3,03:30,BAU,54,52,ER,Massey
+144,3,03:38,BAU,54,52,BR,Massey
+145,3,03:38,CAP,54,52,ER,Yago
+146,3,03:48,BAU,54,52,2_Pts_C,Faggiano
+147,3,03:51,CAP,52,52,2_Pts_C,Yago
+148,3,03:52,BAU,52,50,LL_Pts_C,Faggiano
+149,3,03:52,CAP,51,50,substituicao_entra,D  Coleman
+150,3,03:52,CAP,51,50,substituicao_sai,Dikembe
+151,3,03:52,CAP,51,50,substituicao_entra,Barbosa
+152,3,03:52,CAP,51,50,substituicao_sai,Ruivo
+153,3,03:52,BAU,51,50,FR,Faggiano
+154,3,03:52,CAP,51,50,FC,Ruivo
+155,3,03:52,BAU,51,50,2_Pts_C,Faggiano
+156,3,03:52,BAU,49,50,RD,Faggiano
+157,3,03:52,CAP,49,50,2_Pts_T,Dikembe
+158,3,03:52,BAU,49,50,substituicao_entra,Emanuel
+159,3,03:52,BAU,49,50,substituicao_sai,Jaú
+160,3,03:54,CAP,49,50,RD,Paulistano
+161,3,03:57,BAU,49,50,LL_Pts_T,Jaú
+162,3,03:59,CAP,49,50,FR,Yago
+163,3,03:59,BAU,49,50,FC,Jaú
+164,3,04:02,BAU,49,50,LL_Pts_C,Jaú
+165,3,04:12,BAU,48,50,FR,Jaú
+166,3,04:12,CAP,48,50,FC,Eddy
+167,3,04:25,CAP,48,50,AS,Kevin Foster
+168,3,04:25,CAP,48,50,2_Pts_C,Dikembe
+169,3,04:32,BAU,48,48,AS,Wiggins
+170,3,04:32,BAU,48,48,2_Pts_C,Samuel
+171,3,04:37,CAP,46,48,3_Pts_C,Kevin Foster
+172,3,04:45,BAU,46,45,2_Pts_C,Samuel
+173,3,05:01,CAP,44,45,ER,Ruivo
+174,3,06:00,CAP,44,45,substituicao_entra,Ruivo
+175,3,06:00,CAP,44,45,substituicao_sai,Victão
+176,3,06:00,CAP,44,45,substituicao_entra,Eddy
+177,3,06:00,CAP,44,45,substituicao_sai,D  Coleman
+178,3,06:00,CAP,44,45,substituicao_entra,Kevin Foster
+179,3,06:00,CAP,44,45,substituicao_sai,Solano
+180,3,06:00,CAP,44,45,tempo_tecnico,Paulistano
+181,3,06:20,BAU,44,45,AS,Samuel
+182,3,06:20,BAU,44,45,2_Pts_C,Faggiano
+183,3,06:25,BAU,42,45,RD,Samuel
+184,3,06:30,CAP,42,45,2_Pts_T,Dikembe
+185,3,06:54,BAU,42,45,AS,Samuel
+186,3,06:54,BAU,42,45,3_Pts_C,Jaú
+187,3,06:58,CAP,39,45,LL_Pts_C,D  Coleman
+188,3,06:58,CAP,39,44,LL_Pts_T,D  Coleman
+189,3,06:58,CAP,39,44,FR,D  Coleman
+190,3,06:58,BAU,39,44,FC,Jaú
+191,3,06:58,BAU,39,44,2_Pts_C,Samuel
+192,3,06:58,BAU,37,44,BR,Faggiano
+193,3,06:58,CAP,37,44,ER,Victão
+194,3,07:18,CAP,37,44,FR,Dikembe
+195,3,07:18,BAU,37,44,ER,Jaú
+196,3,07:18,BAU,37,44,FC_O,Jaú
+197,3,07:39,BAU,37,44,FR,Samuel
+198,3,07:39,CAP,37,44,FC,Victão
+199,3,07:42,CAP,37,44,substituicao_entra,Dikembe
+200,3,07:42,CAP,37,44,substituicao_sai,Maique
+201,3,07:43,BAU,37,44,RD,Samuel
+202,3,07:47,CAP,37,44,2_Pts_T,Victão
+203,3,07:52,BAU,37,44,LL_Pts_C,Wiggins
+204,3,07:52,BAU,36,44,LL_Pts_T,Wiggins
+205,3,07:52,BAU,36,44,FR,Wiggins
+206,3,07:52,CAP,36,44,FC,Solano
+207,3,07:52,BAU,36,44,FR,Wiggins
+208,3,07:52,CAP,36,44,FC,Solano
+209,3,07:55,BAU,36,44,RD,Faggiano
+210,3,07:55,CAP,36,44,3_Pts_T,Yago
+211,3,07:58,BAU,36,44,LL_Pts_C,Samuel
+212,3,08:11,BAU,35,44,LL_Pts_T,Samuel
+213,3,08:31,BAU,35,44,FR,Samuel
+214,3,08:31,CAP,35,44,FC,Maique
+215,3,08:33,BAU,35,44,RD,Jaú
+216,3,08:40,CAP,35,44,RD,D  Coleman
+217,3,08:43,CAP,35,44,3_Pts_T,Solano
+218,3,08:57,BAU,35,44,2_Pts_T,Jaú
+219,3,09:24,BAU,35,44,FC,
+220,3,09:47,CAP,35,44,2_Pts_C,Maique
+221,3,10:00,BAU,35,42,2_Pts_C,Jaú
+222,3,10:00,NaN,33,42,inicio_quarto,
+223,2,00:00,NaN,33,42,fim_quarto,
+224,2,00:02,BAU,33,42,2_Pts_T,Faggiano
+225,2,00:17,CAP,33,42,substituicao_entra,Victão
+226,2,00:17,CAP,33,42,substituicao_sai,D  Coleman
+227,2,00:17,CAP,33,42,substituicao_entra,Barbosa
+228,2,00:17,CAP,33,42,substituicao_sai,Kevin Foster
+229,2,00:17,BAU,33,42,substituicao_entra,Crescenzi
+230,2,00:17,BAU,33,42,substituicao_sai,Jaú
+231,2,00:17,BAU,33,42,substituicao_entra,Samuel
+232,2,00:17,BAU,33,42,substituicao_sai,Renato
+233,2,00:17,CAP,33,42,tempo_tecnico,Paulistano
+234,2,00:18,CAP,33,42,AS,D  Coleman
+235,2,00:18,CAP,33,42,3_Pts_C,Kevin Foster
+236,2,00:35,CAP,33,39,BR,D  Coleman
+237,2,00:35,BAU,33,39,ER,Wiggins
+238,2,00:43,CAP,33,39,ER,Kevin Foster
+239,2,00:44,CAP,33,39,RD,Kevin Foster
+240,2,00:50,BAU,33,39,3_Pts_T,Wiggins
+241,2,01:02,CAP,33,39,ER,Maique
+242,2,01:07,CAP,33,39,RD,Paulistano
+243,2,01:10,CAP,33,39,TO,Maique
+244,2,01:10,BAU,33,39,2_Pts_T,Wiggins
+245,2,01:18,CAP,33,39,substituicao_entra,Ruivo
+246,2,01:18,CAP,33,39,substituicao_sai,Yago
+247,2,01:18,CAP,33,39,substituicao_entra,Jonatan
+248,2,01:18,CAP,33,39,substituicao_sai,Solano
+249,2,01:18,BAU,33,39,tempo_tecnico,Bauru
+250,2,01:18,CAP,33,39,AS,Solano
+251,2,01:18,CAP,33,39,3_Pts_C,D  Coleman
+252,2,01:18,CAP,33,36,RD,Kevin Foster
+253,2,01:18,BAU,33,36,2_Pts_T,Renato
+254,2,01:18,BAU,33,36,RD,Faggiano
+255,2,01:18,CAP,33,36,2_Pts_T,Kevin Foster
+256,2,01:20,BAU,33,36,LL_Pts_C,Wiggins
+257,2,01:39,CAP,32,36,substituicao_entra,Solano
+258,2,01:39,CAP,32,36,substituicao_sai,Jonatan
+259,2,01:40,BAU,32,36,LL_Pts_C,Wiggins
+260,2,02:20,BAU,31,36,FR,Wiggins
+261,2,02:20,CAP,31,36,FC,Yago
+262,2,02:22,BAU,31,36,substituicao_entra,Renato
+263,2,02:22,BAU,31,36,substituicao_sai,Crescenzi
+264,2,02:22,BAU,31,36,FR,Jaú
+265,2,02:22,CAP,31,36,FC,Kevin Foster
+266,2,02:49,CAP,31,36,substituicao_entra,Jonatan
+267,2,02:49,CAP,31,36,substituicao_sai,Solano
+268,2,02:49,CAP,31,36,LL_Pts_C,Solano
+269,2,02:49,CAP,31,35,LL_Pts_T,Solano
+270,2,02:49,CAP,31,35,FR,Solano
+271,2,02:49,BAU,31,35,FC,Crescenzi
+272,2,03:00,CAP,31,35,substituicao_entra,Maique
+273,2,03:00,CAP,31,35,substituicao_sai,Victão
+274,2,03:00,CAP,31,35,substituicao_entra,Kevin Foster
+275,2,03:00,CAP,31,35,substituicao_sai,Dikembe
+276,2,03:03,CAP,31,35,RD,D  Coleman
+277,2,03:10,BAU,31,35,3_Pts_T,Massey
+278,2,03:17,BAU,31,35,BR,Faggiano
+279,2,03:17,CAP,31,35,ER,Solano
+280,2,03:34,BAU,31,35,AS,Wiggins
+281,2,03:34,BAU,31,35,3_Pts_C,Massey
+282,2,03:53,CAP,28,35,AS,Dikembe
+283,2,03:53,CAP,28,35,2_Pts_C,Victão
+284,2,04:00,CAP,28,33,substituicao_entra,D  Coleman
+285,2,04:00,CAP,28,33,substituicao_sai,Eddy
+286,2,04:00,CAP,28,33,substituicao_entra,Solano
+287,2,04:00,CAP,28,33,substituicao_sai,Ruivo
+288,2,04:00,CAP,28,33,tempo_tecnico,Paulistano
+289,2,04:08,BAU,28,33,RO,Bauru
+290,2,04:15,BAU,28,33,2_Pts_C,Jaú
+291,2,04:20,CAP,26,33,TO,Victão
+292,2,04:20,BAU,26,33,2_Pts_T,Jaú
+293,2,04:30,BAU,26,33,BR,Massey
+294,2,04:30,CAP,26,33,ER,Victão
+295,2,04:55,BAU,26,33,AS,Wiggins
+296,2,04:55,BAU,26,33,3_Pts_C,Massey
+297,2,05:00,BAU,23,33,substituicao_entra,Wiggins
+298,2,05:00,BAU,23,33,substituicao_sai,Samuel
+299,2,05:00,BAU,23,33,FR,Samuel
+300,2,05:00,CAP,23,33,FC,Dikembe
+301,2,05:01,BAU,23,33,RD,Massey
+302,2,05:07,CAP,23,33,3_Pts_T,Eddy
+303,2,05:14,CAP,23,33,BR,Victão
+304,2,05:14,BAU,23,33,ER,Faggiano
+305,2,05:36,CAP,23,33,AS,Eddy
+306,2,05:36,CAP,23,33,3_Pts_C,Yago
+307,2,05:44,CAP,23,30,BR,Eddy
+308,2,05:44,BAU,23,30,ER,Faggiano
+309,2,05:51,CAP,23,30,ER,Victão
+310,2,05:55,CAP,23,30,RD,Dikembe
+311,2,05:59,BAU,23,30,3_Pts_T,Crescenzi
+312,2,06:11,BAU,23,30,substituicao_entra,Faggiano
+313,2,06:11,BAU,23,30,substituicao_sai,L  Brito
+314,2,06:15,BAU,23,30,tempo_tecnico,Bauru
+315,2,06:15,CAP,23,30,AS,Ruivo
+316,2,06:15,CAP,23,30,3_Pts_C,Yago
+317,2,06:25,CAP,23,27,RO,Dikembe
+318,2,06:30,CAP,23,27,3_Pts_T,Eddy
+319,2,06:32,CAP,23,27,RO,Victão
+320,2,06:38,CAP,23,27,2_Pts_T,Dikembe
+321,2,06:59,BAU,23,27,2_Pts_C,Crescenzi
+322,2,07:14,BAU,21,27,FR,L  Brito
+323,2,07:14,CAP,21,27,FC,Ruivo
+324,2,07:24,CAP,21,27,AS,Yago
+325,2,07:24,CAP,21,27,3_Pts_C,Ruivo
+326,2,07:31,CAP,21,24,FR,Victão
+327,2,07:31,BAU,21,24,FC,Crescenzi
+328,2,07:37,CAP,21,24,substituicao_entra,Yago
+329,2,07:37,CAP,21,24,substituicao_sai,Jonatan
+330,2,07:37,CAP,21,24,substituicao_entra,Victão
+331,2,07:37,CAP,21,24,substituicao_sai,Maique
+332,2,07:37,CAP,21,24,substituicao_entra,Dikembe
+333,2,07:37,CAP,21,24,substituicao_sai,Kevin Foster
+334,2,07:37,BAU,21,24,substituicao_entra,Jaú
+335,2,07:37,BAU,21,24,substituicao_sai,Renato
+336,2,07:37,CAP,21,24,FR,Ruivo
+337,2,07:37,BAU,21,24,FC,L  Brito
+338,2,07:57,BAU,21,24,2_Pts_C,Crescenzi
+339,2,07:58,BAU,19,24,RD,Renato
+340,2,08:07,CAP,19,24,3_Pts_T,Kevin Foster
+341,2,08:08,CAP,19,24,RD,Eddy
+342,2,08:16,BAU,19,24,3_Pts_T,Renato
+343,2,08:24,BAU,19,24,BR,Samuel
+344,2,08:24,CAP,19,24,ER,Ruivo
+345,2,08:39,CAP,19,24,RD,Maique
+346,2,08:44,BAU,19,24,2_Pts_T,Renato
+347,2,08:53,BAU,19,24,substituicao_entra,Samuel
+348,2,08:53,BAU,19,24,substituicao_sai,Wiggins
+349,2,08:53,BAU,19,24,FR,Massey
+350,2,08:53,CAP,19,24,FC,Kevin Foster
+351,2,09:08,CAP,19,24,AS,Ruivo
+352,2,09:08,CAP,19,24,2_Pts_C,Maique
+353,2,09:22,CAP,19,22,RD,Ruivo
+354,2,09:27,BAU,19,22,3_Pts_T,Massey
+355,2,09:47,CAP,19,22,AS,Kevin Foster
+356,2,09:47,CAP,19,22,3_Pts_C,Eddy
+357,2,10:00,NaN,19,19,inicio_quarto,
+358,1,00:00,NaN,19,19,fim_quarto,
+359,1,00:03,CAP,19,19,AS,Maique
+360,1,00:03,CAP,19,19,3_Pts_C,Eddy
+361,1,00:11,BAU,19,16,substituicao_entra,Emanuel
+362,1,00:11,BAU,19,16,substituicao_sai,Massey
+363,1,00:11,CAP,19,16,FR,Kevin Foster
+364,1,00:11,BAU,19,16,FC,Massey
+365,1,00:28,BAU,19,16,AS,Wiggins
+366,1,00:28,BAU,19,16,3_Pts_C,Massey
+367,1,00:44,CAP,16,16,AS,Maique
+368,1,00:44,CAP,16,16,2_Pts_C,Jonatan
+369,1,00:50,CAP,16,14,BR,Ruivo
+370,1,00:50,BAU,16,14,ER,Wiggins
+371,1,00:57,BAU,16,14,RD,Renato
+372,1,01:04,CAP,16,14,2_Pts_T,Ruivo
+373,1,01:32,BAU,16,14,2_Pts_C,Wiggins
+374,1,01:56,CAP,14,14,substituicao_entra,Jonatan
+375,1,01:56,CAP,14,14,substituicao_sai,Yago
+376,1,01:56,BAU,14,14,substituicao_entra,L  Brito
+377,1,01:56,BAU,14,14,substituicao_sai,Jaú
+378,1,01:56,BAU,14,14,substituicao_entra,Crescenzi
+379,1,01:56,BAU,14,14,substituicao_sai,Samuel
+380,1,01:56,BAU,14,14,substituicao_entra,Massey
+381,1,01:56,BAU,14,14,substituicao_sai,Faggiano
+382,1,01:56,BAU,14,14,FR,Wiggins
+383,1,01:56,CAP,14,14,FC,Eddy
+384,1,02:11,CAP,14,14,AS,Yago
+385,1,02:11,CAP,14,14,3_Pts_C,Eddy
+386,1,02:23,BAU,14,11,2_Pts_C,Wiggins
+387,1,02:25,BAU,12,11,RD,Wiggins
+388,1,02:33,CAP,12,11,,
+389,1,02:38,CAP,12,11,RD,Kevin Foster
+390,1,02:43,BAU,12,11,2_Pts_T,Jaú
+391,1,02:46,BAU,12,11,RD,Jaú
+392,1,02:57,BAU,12,11,TO,Jaú
+393,1,02:57,CAP,12,11,2_Pts_T,Ruivo
+394,1,02:59,CAP,12,11,RD,Kevin Foster
+395,1,03:05,BAU,12,11,2_Pts_T,Faggiano
+396,1,03:15,BAU,12,11,BR,Samuel
+397,1,03:15,CAP,12,11,ER,Kevin Foster
+398,1,03:16,CAP,12,11,RO,Maique
+399,1,03:20,CAP,12,11,3_Pts_T,Eddy
+400,1,03:37,CAP,12,11,substituicao_entra,Ruivo
+401,1,03:37,CAP,12,11,substituicao_sai,Solano
+402,1,03:37,CAP,12,11,FR,Solano
+403,1,03:37,BAU,12,11,FC,Faggiano
+404,1,03:52,BAU,12,11,LL_Pts_C,Wiggins
+405,1,03:52,BAU,11,11,LL_Pts_T,Wiggins
+406,1,03:52,CAP,11,11,substituicao_entra,Kevin Foster
+407,1,03:52,CAP,11,11,substituicao_sai,Victão
+408,1,03:52,BAU,11,11,FR,Wiggins
+409,1,03:52,CAP,11,11,FC,Solano
+410,1,03:59,CAP,11,11,substituicao_entra,Maique
+411,1,03:59,CAP,11,11,substituicao_sai,Dikembe
+412,1,03:59,CAP,11,11,substituicao_entra,Eddy
+413,1,03:59,CAP,11,11,substituicao_sai,D  Coleman
+414,1,03:59,BAU,11,11,FR,Wiggins
+415,1,03:59,CAP,11,11,FC,Solano
+416,1,04:02,BAU,11,11,RD,Wiggins
+417,1,04:08,CAP,11,11,3_Pts_T,D  Coleman
+418,1,04:24,BAU,11,11,AS,Faggiano
+419,1,04:24,BAU,11,11,3_Pts_C,Samuel
+420,1,04:45,CAP,8,11,AS,Solano
+421,1,04:45,CAP,8,11,EN,Dikembe
+422,1,05:04,BAU,8,9,AS,Renato
+423,1,05:04,BAU,8,9,2_Pts_C,Faggiano
+424,1,05:39,CAP,6,9,ER,
+425,1,06:00,CAP,6,9,RD,D  Coleman
+426,1,06:06,BAU,6,9,3_Pts_T,Jaú
+427,1,06:25,CAP,6,9,AS,Solano
+428,1,06:25,CAP,6,9,2_Pts_C,D  Coleman
+429,1,06:31,CAP,6,7,BR,Solano
+430,1,06:31,BAU,6,7,ER,Wiggins
+431,1,06:34,BAU,6,7,FR,Samuel
+432,1,06:34,CAP,6,7,ER,D  Coleman
+433,1,06:34,CAP,6,7,FC_O,D  Coleman
+434,1,06:35,CAP,6,7,RO,Yago
+435,1,06:41,CAP,6,7,2_Pts_T,Solano
+436,1,07:01,BAU,6,7,AS,Renato
+437,1,07:01,BAU,6,7,2_Pts_C,Faggiano
+438,1,07:11,CAP,4,7,3_Pts_C,Solano
+439,1,07:20,CAP,4,4,FR,D  Coleman
+440,1,07:20,BAU,4,4,FC,Faggiano
+441,1,07:35,BAU,4,4,2_Pts_C,Faggiano
+442,1,07:46,CAP,2,4,AS,Solano
+443,1,07:46,CAP,2,4,2_Pts_C,D  Coleman
+444,1,08:02,BAU,2,2,AS,Faggiano
+445,1,08:02,BAU,2,2,2_Pts_C,Samuel
+446,1,08:08,BAU,0,2,BR,Faggiano
+447,1,08:08,CAP,0,2,ER,Yago
+448,1,08:16,CAP,0,2,RD,Victão
+449,1,08:21,BAU,0,2,3_Pts_T,Wiggins
+450,1,08:25,CAP,0,2,RD,Dikembe
+451,1,08:38,CAP,0,2,AS,Solano
+452,1,08:38,CAP,0,2,2_Pts_C,Dikembe
+453,1,08:50,BAU,0,0,3_Pts_T,Renato
+454,1,08:55,BAU,0,0,RD,Wiggins
+455,1,09:00,CAP,0,0,2_Pts_T,Dikembe
+456,1,09:24,BAU,0,0,ER,Samuel
+457,1,09:43,CAP,0,0,ER,D  Coleman
+458,1,10:00,CAP,0,0,substituicao_entra,Dikembe
+459,1,10:00,CAP,0,0,substituicao_entra,Victão
+460,1,10:00,CAP,0,0,substituicao_entra,D  Coleman
+461,1,10:00,CAP,0,0,substituicao_entra,Yago
+462,1,10:00,CAP,0,0,substituicao_entra,Solano
+463,1,10:00,BAU,0,0,substituicao_entra,Jaú
+464,1,10:00,BAU,0,0,substituicao_entra,Samuel
+465,1,10:00,BAU,0,0,substituicao_entra,Renato
+466,1,10:00,BAU,0,0,substituicao_entra,Wiggins
+467,1,10:00,BAU,0,0,substituicao_entra,Faggiano
+468,1,10:00,NaN,0,0,inicio_partida,

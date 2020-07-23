@@ -1,0 +1,530 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,87,71,fim_partida,
+1,4,00:00,NaN,87,71,fim_quarto, 
+2,4,00:18,MOG,87,71,RD,Fúlvio
+3,4,00:21,MIN,87,71,3_Pts_T,Alex
+4,4,00:42,MIN,87,71,RD,Scott
+5,4,00:46,MOG,87,71,3_Pts_T,Fúlvio
+6,4,00:54,MIN,87,71,AS,Scott
+7,4,00:54,MIN,87,71,2_Pts_C,Tyrone 
+8,4,01:12,MOG,85,71,2_Pts_C,João Pedro
+9,4,01:12,MOG,85,69,RO,João Pedro
+10,4,01:12,MOG,85,69,2_Pts_T,Guga
+11,4,01:30,MOG,85,69,RD,Fabricio
+12,4,01:33,MIN,85,69,3_Pts_T,Alex
+13,4,01:48,MIN,85,69,RD,Scott
+14,4,01:51,MOG,85,69,3_Pts_T,Fabricio
+15,4,02:11,MOG,85,69,tempo_tecnico,Mogi
+16,4,02:11,MIN,85,69,AS,Alex
+17,4,02:11,MIN,85,69,3_Pts_C,Jackson Jr
+18,4,02:31,MOG,82,69,LL_Pts_C,João Pedro
+19,4,02:31,MOG,82,68,AS,Fúlvio
+20,4,02:31,MOG,82,68,LL_Pts_C,João Pedro
+21,4,02:31,MOG,82,67,FR,João Pedro
+22,4,02:31,MIN,82,67,FC,Jackson Jr
+23,4,02:42,MOG,82,67,BR,João Pedro
+24,4,02:42,MIN,82,67,ER,Alex
+25,4,03:02,MOG,82,67,AS,Lessa
+26,4,03:02,MOG,82,67,3_Pts_C,Fúlvio
+27,4,03:16,MIN,82,64,AS,Davi
+28,4,03:16,MIN,82,64,2_Pts_C,Alex
+29,4,03:39,MIN,80,64,tempo_tecnico,Minas
+30,4,03:39,MOG,80,64,AS,Fúlvio
+31,4,03:39,MOG,80,64,2_Pts_C,Lessa
+32,4,03:44,MOG,80,62,BR,Fúlvio
+33,4,03:44,MIN,80,62,ER,Scott
+34,4,03:57,MOG,80,62,LL_Pts_C,João Pedro
+35,4,03:57,MOG,80,61,LL_Pts_C,João Pedro
+36,4,03:57,MOG,80,60,FR,João Pedro
+37,4,03:57,MIN,80,60,FC,Davi
+38,4,03:57,MOG,80,60,RO,João Pedro
+39,4,03:57,MOG,80,60,2_Pts_T,João Pedro
+40,4,04:23,MOG,80,60,substituicao_entra,Fúlvio
+41,4,04:23,MOG,80,60,substituicao_sai,Paranhos
+42,4,04:23,MIN,80,60,LL_Pts_C,Alex
+43,4,04:23,MIN,79,60,LL_Pts_C,Alex
+44,4,04:23,MOG,78,60,substituicao_entra,Fabricio
+45,4,04:23,MOG,78,60,substituicao_sai,Fuzaro
+46,4,04:23,MIN,78,60,FR,Alex
+47,4,04:23,MOG,78,60,FC,Fuzaro
+48,4,04:37,MIN,78,60,RD,Tyrone 
+49,4,04:40,MOG,78,60,2_Pts_T,Fuzaro
+50,4,04:52,MOG,78,60,LL_Pts_C,Fuzaro
+51,4,04:52,MIN,78,59,FC_T,Técnico do Minas
+52,4,04:52,MIN,78,59,substituicao_entra,Jackson Jr
+53,4,04:52,MIN,78,59,substituicao_sai,Deodato
+54,4,04:52,MOG,78,59,FR,Guga
+55,4,04:52,MIN,78,59,FC,Deodato
+56,4,05:03,MIN,78,59,LL_Pts_C,Scott
+57,4,05:03,MIN,77,59,substituicao_entra,Alex
+58,4,05:03,MIN,77,59,substituicao_sai,Leandrinho
+59,4,05:03,MIN,77,59,FR,Scott
+60,4,05:03,MOG,77,59,FC,João Pedro
+61,4,05:03,MIN,77,59,AS,Tyrone 
+62,4,05:03,MIN,77,59,2_Pts_C,Scott
+63,4,05:25,MOG,75,59,AS,Guga
+64,4,05:25,MOG,75,59,2_Pts_C,João Pedro
+65,4,05:35,MOG,75,57,FR,Lessa
+66,4,05:35,MIN,75,57,FC,Leandrinho
+67,4,05:46,MOG,75,57,RD,Paranhos
+68,4,05:49,MIN,75,57,2_Pts_T,Davi
+69,4,06:01,MOG,75,57,substituicao_entra,João Pedro
+70,4,06:01,MOG,75,57,substituicao_sai,Fabricio
+71,4,06:01,MIN,75,57,FR,Leandrinho
+72,4,06:01,MOG,75,57,FC,Lessa
+73,4,06:24,MOG,75,57,2_Pts_C,Guga
+74,4,06:31,MOG,75,55,substituicao_entra,Guga
+75,4,06:31,MOG,75,55,substituicao_sai,Fúlvio
+76,4,06:31,MOG,75,55,FR,Fuzaro
+77,4,06:31,MIN,75,55,FC,Deodato
+78,4,06:46,MIN,75,55,2_Pts_C,Leandrinho
+79,4,07:05,MIN,73,55,RD,Scott
+80,4,07:08,MOG,73,55,3_Pts_T,Fúlvio
+81,4,07:14,MOG,73,55,RD,Paranhos
+82,4,07:16,MIN,73,55,2_Pts_T,Scott
+83,4,07:37,MOG,73,55,2_Pts_C,Fúlvio
+84,4,07:40,MIN,73,53,AS,Davi
+85,4,07:40,MIN,73,53,3_Pts_C,Leandrinho
+86,4,07:43,MIN,70,53,RO,Scott
+87,4,07:44,MIN,70,53,2_Pts_T,Scott
+88,4,07:44,MIN,70,53,RO,Scott
+89,4,07:47,MIN,70,53,2_Pts_T,Leandrinho
+90,4,07:56,MIN,70,53,RO,Scott
+91,4,08:00,MIN,70,53,2_Pts_T,Deodato
+92,4,08:10,MIN,70,53,RD,Leandrinho
+93,4,08:12,MOG,70,53,3_Pts_T,Fúlvio
+94,4,08:38,MIN,70,53,2_Pts_C,Scott
+95,4,08:48,MIN,68,53,LL_Pts_T,Deodato
+96,4,08:48,MIN,68,53,FR,Deodato
+97,4,08:48,MOG,68,53,FC_A,Lessa
+98,4,08:48,MIN,68,53,AS,Davi
+99,4,08:48,MIN,68,53,2_Pts_C,Deodato
+100,4,08:50,MIN,66,53,BR,Scott
+101,4,08:50,MOG,66,53,ER,Fuzaro
+102,4,08:56,MIN,66,53,substituicao_entra,Tyrone 
+103,4,08:56,MIN,66,53,substituicao_sai,Shilton
+104,4,08:56,MOG,66,53,FR,Paranhos
+105,4,08:56,MIN,66,53,FC,Davi
+106,4,09:02,MOG,66,53,RD,Lessa
+107,4,09:05,MIN,66,53,2_Pts_T,Deodato
+108,4,09:19,MIN,66,53,FR,Shilton
+109,4,09:19,MOG,66,53,FC,Fuzaro
+110,4,09:34,MOG,66,53,3_Pts_C,Fúlvio
+111,4,09:40,MOG,66,50,BR,Lessa
+112,4,09:40,MIN,66,50,ER,Scott
+113,4,10:00,NaN,66,50,inicio_quarto,
+114,3,00:00,NaN,66,50,fim_quarto,
+115,3,00:01,MOG,66,50,2_Pts_T,Fuzaro
+116,3,00:04,MIN,66,50,ER,Jackson Jr
+117,3,00:28,MOG,66,50,AS,Fuzaro
+118,3,00:28,MOG,66,50,2_Pts_C,Paranhos
+119,3,00:37,MIN,66,48,AS,Davi
+120,3,00:37,MIN,66,48,3_Pts_C,Scott
+121,3,00:59,MIN,63,48,substituicao_entra,Alexei
+122,3,00:59,MIN,63,48,substituicao_sai,Alex
+123,3,00:59,MIN,63,48,LL_Pts_T,Alex
+124,3,00:59,MIN,63,48,substituicao_entra,Scott
+125,3,00:59,MIN,63,48,substituicao_sai,Tyrone 
+126,3,00:59,MOG,63,48,FC_T,Fúlvio
+127,3,01:00,MIN,63,48,RD,Shilton
+128,3,01:00,MOG,63,48,2_Pts_T,Fúlvio
+129,3,01:11,MIN,63,48,AS,Alex
+130,3,01:11,MIN,63,48,3_Pts_C,Davi
+131,3,01:33,MIN,60,48,RD,Alex
+132,3,01:36,MOG,60,48,3_Pts_T,Fúlvio
+133,3,01:54,MIN,60,48,ER,Jackson Jr
+134,3,02:04,MIN,60,48,RD,Jackson Jr
+135,3,02:06,MOG,60,48,2_Pts_T,Fúlvio
+136,3,02:17,MIN,60,48,substituicao_entra,Jackson Jr
+137,3,02:17,MIN,60,48,substituicao_sai,Leandrinho
+138,3,02:17,MOG,60,48,RO,Alex
+139,3,02:17,MOG,60,48,2_Pts_T,Fúlvio
+140,3,02:40,MOG,60,48,substituicao_entra,Fúlvio
+141,3,02:40,MOG,60,48,substituicao_sai,Lessa
+142,3,02:40,MOG,60,48,RD,Mogi
+143,3,02:40,MIN,60,48,3_Pts_T,Alex
+144,3,03:01,MIN,60,48,RD,Shilton
+145,3,03:01,MOG,60,48,LL_Pts_T,Paranhos
+146,3,03:01,MOG,60,48,LL_Pts_T,Paranhos
+147,3,03:01,MOG,60,48,FR,Paranhos
+148,3,03:01,MIN,60,48,FC,Leandrinho
+149,3,03:06,MOG,60,48,RD,Lessa
+150,3,03:08,MIN,60,48,2_Pts_T,Leandrinho
+151,3,03:17,MOG,60,48,substituicao_entra,Paranhos
+152,3,03:17,MOG,60,48,substituicao_entra,Alex
+153,3,03:17,MOG,60,48,substituicao_sai,João Pedro
+154,3,03:17,MOG,60,48,substituicao_sai,Guga
+155,3,03:17,MIN,60,48,FR,Shilton
+156,3,03:17,MOG,60,48,FC,João Pedro
+157,3,03:25,MOG,60,48,ER,Guga
+158,3,03:47,MIN,60,48,AS,Shilton
+159,3,03:47,MIN,60,48,2_Pts_C,Alex
+160,3,04:00,MOG,58,48,LL_Pts_C,Fuzaro
+161,3,04:00,MOG,58,47,LL_Pts_C,Fuzaro
+162,3,04:00,MOG,58,46,substituicao_entra,Guga
+163,3,04:00,MOG,58,46,substituicao_sai,Fúlvio
+164,3,04:00,MOG,58,46,FR,Fuzaro
+165,3,04:00,MIN,58,46,FC,Shilton
+166,3,04:07,MOG,58,46,RD,Fúlvio
+167,3,04:11,MIN,58,46,2_Pts_T,Leandrinho
+168,3,04:31,MOG,58,46,ER,Fúlvio
+169,3,04:52,MOG,58,46,tempo_tecnico,Mogi
+170,3,04:52,MIN,58,46,AS,Tyrone 
+171,3,04:52,MIN,58,46,3_Pts_C,Davi
+172,3,04:54,MIN,55,46,RO,Shilton
+173,3,04:57,MIN,55,46,2_Pts_T,Alex
+174,3,05:14,MOG,55,46,ER,Fuzaro
+175,3,05:30,MOG,55,46,LL_Pts_C,Fuzaro
+176,3,05:30,MOG,55,45,LL_Pts_C,Fuzaro
+177,3,05:30,MOG,55,44,substituicao_entra,João Pedro
+178,3,05:30,MOG,55,44,substituicao_sai,Paranhos
+179,3,05:30,MOG,55,44,FR,Fuzaro
+180,3,05:30,MIN,55,44,FC_A,Davi
+181,3,05:33,MOG,55,44,BR,Fuzaro
+182,3,05:33,MIN,55,44,ER,Leandrinho
+183,3,05:34,MIN,55,44,BR,Alex
+184,3,05:34,MOG,55,44,ER,Fúlvio
+185,3,05:45,MIN,55,44,substituicao_entra,Shilton
+186,3,05:45,MIN,55,44,substituicao_sai,Scott
+187,3,05:59,MIN,55,44,ER,Alex
+188,3,06:04,MIN,55,44,BR,Davi
+189,3,06:04,MOG,55,44,ER,Fúlvio
+190,3,06:13,MIN,55,44,AS,Leandrinho
+191,3,06:13,MIN,55,44,3_Pts_C,Davi
+192,3,06:32,MOG,52,44,LL_Pts_C,Lessa
+193,3,06:32,MIN,52,43,substituicao_entra,Davi
+194,3,06:32,MIN,52,43,substituicao_sai,Deodato
+195,3,06:32,MOG,52,43,FR,Lessa
+196,3,06:32,MIN,52,43,FC,Deodato
+197,3,06:32,MOG,52,43,AS,Fúlvio
+198,3,06:32,MOG,52,43,2_Pts_C,Lessa
+199,3,06:38,MOG,52,41,BR,Fabricio
+200,3,06:38,MIN,52,41,ER,Alex
+201,3,06:43,MIN,52,41,FR,Leandrinho
+202,3,06:43,MOG,52,41,FC,Fúlvio
+203,3,06:53,MIN,52,41,RD,Alex
+204,3,06:57,MOG,52,41,2_Pts_T,Fúlvio
+205,3,07:15,MOG,52,41,FR,Paranhos
+206,3,07:15,MIN,52,41,FC,Tyrone 
+207,3,07:29,MIN,52,41,2_Pts_C,Scott
+208,3,07:36,MIN,50,41,FR,Alex
+209,3,07:36,MOG,50,41,ER,Fuzaro
+210,3,07:36,MOG,50,41,FC_O,Fuzaro
+211,3,07:37,MOG,50,41,RO,Fabricio
+212,3,07:38,MOG,50,41,2_Pts_T,Fuzaro
+213,3,07:47,MOG,50,41,BR,Lessa
+214,3,07:47,MIN,50,41,ER,Scott
+215,3,07:48,MIN,50,41,RD,Scott
+216,3,07:51,MOG,50,41,2_Pts_T,Fuzaro
+217,3,07:59,MIN,50,41,AS,Alex
+218,3,07:59,MIN,50,41,2_Pts_C,Tyrone 
+219,3,08:03,MIN,48,41,FR,Scott
+220,3,08:03,MOG,48,41,FC,Fuzaro
+221,3,08:16,MOG,48,41,ER,Paranhos
+222,3,08:23,MOG,48,41,RO,Paranhos
+223,3,08:25,MOG,48,41,2_Pts_T,Paranhos
+224,3,08:42,MIN,48,41,AS,Leandrinho
+225,3,08:42,MIN,48,41,3_Pts_C,Alex
+226,3,08:51,MIN,45,41,RD,Tyrone 
+227,3,08:54,MOG,45,41,3_Pts_T,Lessa
+228,3,09:03,MOG,45,41,BR,Lessa
+229,3,09:03,MIN,45,41,ER,Scott
+230,3,09:11,MIN,45,41,BR,Alex
+231,3,09:11,MOG,45,41,ER,Fuzaro
+232,3,09:20,MOG,45,41,BR,Fabricio
+233,3,09:20,MIN,45,41,ER,Scott
+234,3,09:46,MOG,45,41,AS,Fúlvio
+235,3,09:46,MOG,45,41,2_Pts_C,Paranhos
+236,3,10:00,NaN,45,39,inicio_quarto,
+237,2,00:00,NaN,45,39,fim_quarto,
+238,2,00:03,MOG,45,39,3_Pts_C,Fúlvio
+239,2,00:08,MOG,45,36,substituicao_entra,Fabricio
+240,2,00:08,MOG,45,36,substituicao_entra,Guga
+241,2,00:08,MOG,45,36,substituicao_sai,João Pedro
+242,2,00:08,MOG,45,36,substituicao_sai,Alex
+243,2,00:08,MIN,45,36,substituicao_entra,Tyrone 
+244,2,00:08,MIN,45,36,substituicao_sai,Deodato
+245,2,00:08,MIN,45,36,ER,Deodato
+246,2,00:14,MOG,45,36,substituicao_entra,Alex
+247,2,00:14,MOG,45,36,substituicao_sai,Fabricio
+248,2,00:14,MIN,45,36,substituicao_entra,Deodato
+249,2,00:14,MIN,45,36,substituicao_sai,Tyrone 
+250,2,00:14,MOG,45,36,ER,
+251,2,00:30,MIN,45,36,substituicao_entra,Tyrone 
+252,2,00:30,MIN,45,36,substituicao_sai,Deodato
+253,2,00:30,MIN,45,36,ER,Leandrinho
+254,2,00:41,MOG,45,36,substituicao_entra,João Pedro
+255,2,00:41,MOG,45,36,substituicao_entra,Fabricio
+256,2,00:41,MOG,45,36,substituicao_sai,Paranhos
+257,2,00:41,MOG,45,36,substituicao_sai,Alex
+258,2,00:41,MIN,45,36,substituicao_entra,Leandrinho
+259,2,00:41,MIN,45,36,substituicao_sai,Black
+260,2,00:41,MIN,45,36,tempo_tecnico,Minas
+261,2,00:41,MIN,45,36,FR,Davi
+262,2,00:41,MOG,45,36,ER,Paranhos
+263,2,00:41,MOG,45,36,FC_O,Paranhos
+264,2,00:41,MOG,45,36,RO,Alex
+265,2,00:43,MOG,45,36,2_Pts_T,Paranhos
+266,2,00:55,MOG,45,36,RD,Paranhos
+267,2,00:58,MIN,45,36,2_Pts_T,Scott
+268,2,01:03,MIN,45,36,RO,Deodato
+269,2,01:06,MIN,45,36,3_Pts_T,Alex
+270,2,01:19,MIN,45,36,RD,Deodato
+271,2,01:23,MIN,45,36,TO,Black
+272,2,01:23,MOG,45,36,2_Pts_T,Alex
+273,2,01:30,MIN,45,36,2_Pts_C,Davi
+274,2,01:37,MIN,43,36,RO,Black
+275,2,01:39,MIN,43,36,3_Pts_T,Black
+276,2,01:52,MIN,43,36,RD,Scott
+277,2,01:55,MOG,43,36,2_Pts_T,Paranhos
+278,2,02:00,MOG,43,36,RO,Mogi
+279,2,02:00,MIN,43,36,TO,Black
+280,2,02:00,MOG,43,36,2_Pts_T,Alex
+281,2,02:07,MOG,43,36,BR,Paranhos
+282,2,02:07,MIN,43,36,ER,Deodato
+283,2,02:17,MIN,43,36,FR,Black
+284,2,02:17,MOG,43,36,FC,Alex
+285,2,02:27,MIN,43,36,RD,Davi
+286,2,02:27,MOG,43,36,LL_Pts_T,Fuzaro
+287,2,02:27,MOG,43,36,LL_Pts_C,Fuzaro
+288,2,02:27,MOG,43,35,FR,Fuzaro
+289,2,02:27,MIN,43,35,FC,Black
+290,2,02:54,MIN,43,35,AS,Davi
+291,2,02:54,MIN,43,35,2_Pts_C,Black
+292,2,02:59,MIN,41,35,RO,Black
+293,2,03:01,MIN,41,35,3_Pts_T,Deodato
+294,2,03:22,MOG,41,35,substituicao_entra,Alex
+295,2,03:22,MOG,41,35,substituicao_entra,Fúlvio
+296,2,03:22,MOG,41,35,substituicao_sai,Fabricio
+297,2,03:22,MOG,41,35,substituicao_sai,Guga
+298,2,03:22,MIN,41,35,substituicao_entra,Scott
+299,2,03:22,MIN,41,35,substituicao_entra,Davi
+300,2,03:22,MIN,41,35,substituicao_sai,Leandrinho
+301,2,03:22,MIN,41,35,substituicao_sai,Shilton
+302,2,03:22,MIN,41,35,tempo_tecnico,Minas
+303,2,03:22,MOG,41,35,AS,Fuzaro
+304,2,03:22,MOG,41,35,3_Pts_C,Lessa
+305,2,03:29,MOG,41,32,RD,Paranhos
+306,2,03:32,MIN,41,32,2_Pts_T,Shilton
+307,2,03:39,MIN,41,32,RD,Shilton
+308,2,03:42,MOG,41,32,3_Pts_T,Guga
+309,2,04:03,MOG,41,32,FR,Fuzaro
+310,2,04:03,MIN,41,32,ER,Alex
+311,2,04:03,MIN,41,32,FC_O,Alex
+312,2,04:11,MIN,41,32,FR,Shilton
+313,2,04:11,MOG,41,32,ER,Fuzaro
+314,2,04:11,MOG,41,32,FC_O,Fuzaro
+315,2,04:26,MIN,41,32,AS,Alex
+316,2,04:26,MIN,41,32,3_Pts_C,Deodato
+317,2,04:35,MOG,38,32,LL_Pts_C,Guga
+318,2,04:35,MOG,38,31,FR,Guga
+319,2,04:35,MIN,38,31,FC,Deodato
+320,2,04:35,MOG,38,31,2_Pts_C,Guga
+321,2,04:45,MIN,38,29,AS,Leandrinho
+322,2,04:45,MIN,38,29,3_Pts_C,Black
+323,2,05:04,MOG,35,29,AS,Fabricio
+324,2,05:04,MOG,35,29,3_Pts_C,Fuzaro
+325,2,05:05,MOG,35,26,RO,Fabricio
+326,2,05:10,MOG,35,26,3_Pts_T,Guga
+327,2,05:24,MOG,35,26,substituicao_entra,Lessa
+328,2,05:24,MOG,35,26,substituicao_sai,Fúlvio
+329,2,05:24,MOG,35,26,FR,Fúlvio
+330,2,05:24,MIN,35,26,FC,Shilton
+331,2,05:38,MOG,35,26,RD,Paranhos
+332,2,05:41,MIN,35,26,3_Pts_T,Black
+333,2,05:53,MIN,35,26,BR,Leandrinho
+334,2,05:53,MOG,35,26,ER,Fuzaro
+335,2,06:12,MIN,35,26,AS,Deodato
+336,2,06:12,MIN,35,26,3_Pts_C,Alex
+337,2,06:21,MIN,32,26,RD,Leandrinho
+338,2,06:24,MOG,32,26,3_Pts_T,Fúlvio
+339,2,06:31,MOG,32,26,RD,Guga
+340,2,06:34,MIN,32,26,2_Pts_T,Leandrinho
+341,2,06:40,MIN,32,26,BR,Shilton
+342,2,06:40,MOG,32,26,ER,Fúlvio
+343,2,06:55,MOG,32,26,substituicao_entra,Paranhos
+344,2,06:55,MOG,32,26,substituicao_sai,João Pedro
+345,2,06:55,MIN,32,26,substituicao_entra,Deodato
+346,2,06:55,MIN,32,26,substituicao_sai,Jackson Jr
+347,2,06:55,MOG,32,26,tempo_tecnico,Mogi
+348,2,06:55,MIN,32,26,2_Pts_C,Leandrinho
+349,2,06:58,MIN,30,26,BR,Jackson Jr
+350,2,06:58,MOG,30,26,ER,João Pedro
+351,2,07:10,MOG,30,26,BR,Fabricio
+352,2,07:10,MIN,30,26,ER,Jackson Jr
+353,2,07:20,MIN,30,26,RD,Alex
+354,2,07:23,MOG,30,26,3_Pts_T,Fuzaro
+355,2,07:54,MIN,30,26,3_Pts_C,Leandrinho
+356,2,08:07,MOG,27,26,LL_Pts_C,Fúlvio
+357,2,08:07,MOG,27,25,LL_Pts_C,Fúlvio
+358,2,08:07,MOG,27,24,substituicao_entra,João Pedro
+359,2,08:07,MOG,27,24,substituicao_sai,Paranhos
+360,2,08:07,MOG,27,24,FR,Fúlvio
+361,2,08:07,MIN,27,24,FC,Shilton
+362,2,08:24,MIN,27,24,AS,Leandrinho
+363,2,08:24,MIN,27,24,2_Pts_C,Alex
+364,2,08:28,MIN,25,24,RD,Shilton
+365,2,08:32,MOG,25,24,2_Pts_T,Fuzaro
+366,2,08:54,MIN,25,24,2_Pts_C,Leandrinho
+367,2,08:58,MIN,23,24,RD,Shilton
+368,2,09:01,MOG,23,24,2_Pts_T,Paranhos
+369,2,09:05,MOG,23,24,RD,Fabricio
+370,2,09:08,MIN,23,24,3_Pts_T,Black
+371,2,09:22,MOG,23,24,AS,Fúlvio
+372,2,09:22,MOG,23,24,2_Pts_C,Paranhos
+373,2,09:46,MIN,23,22,2_Pts_C,Black
+374,2,10:00,NaN,21,22,inicio_quarto,
+375,1,00:00,NaN,21,22,fim_quarto,
+376,1,00:01,MOG,21,22,AS,Fúlvio
+377,1,00:01,MOG,21,22,2_Pts_C,Paranhos
+378,1,00:06,MOG,21,20,RD,Fabricio
+379,1,00:09,MIN,21,20,2_Pts_T,Leandrinho
+380,1,00:09,MIN,21,20,RO,Leandrinho
+381,1,00:11,MIN,21,20,2_Pts_T,Shilton
+382,1,00:11,MIN,21,20,RO,Shilton
+383,1,00:19,MOG,21,20,TO,Fuzaro
+384,1,00:19,MIN,21,20,2_Pts_T,Shilton
+385,1,00:34,MIN,21,20,RD,Alex
+386,1,00:34,MOG,21,20,LL_Pts_T,Paranhos
+387,1,00:34,MOG,21,20,LL_Pts_C,Paranhos
+388,1,00:34,MOG,21,19,substituicao_entra,Fabricio
+389,1,00:34,MOG,21,19,substituicao_sai,João Pedro
+390,1,00:34,MIN,21,19,substituicao_entra,Black
+391,1,00:34,MIN,21,19,substituicao_sai,Tyrone 
+392,1,00:34,MOG,21,19,FR,Paranhos
+393,1,00:34,MIN,21,19,FC,Leandrinho
+394,1,00:38,MOG,21,19,FR,Fuzaro
+395,1,00:38,MIN,21,19,FC,Jackson Jr
+396,1,00:38,MOG,21,19,RD,Fuzaro
+397,1,00:39,MIN,21,19,2_Pts_T,Tyrone 
+398,1,00:39,MIN,21,19,RO,Tyrone 
+399,1,00:43,MIN,21,19,2_Pts_T,Jackson Jr
+400,1,00:59,MOG,21,19,LL_Pts_C,Paranhos
+401,1,00:59,MOG,21,18,substituicao_entra,Guga
+402,1,00:59,MOG,21,18,substituicao_sai,Colina
+403,1,00:59,MOG,21,18,FR,Paranhos
+404,1,00:59,MIN,21,18,FC,Jackson Jr
+405,1,00:59,MOG,21,18,AS,Fúlvio
+406,1,00:59,MOG,21,18,2_Pts_C,Paranhos
+407,1,01:06,MOG,21,16,RD,Paranhos
+408,1,01:09,MIN,21,16,3_Pts_T,Tyrone 
+409,1,01:26,MOG,21,16,AS,Fúlvio
+410,1,01:26,MOG,21,16,2_Pts_C,Paranhos
+411,1,01:47,MIN,21,14,LL_Pts_C,Tyrone 
+412,1,01:47,MIN,20,14,LL_Pts_T,Tyrone 
+413,1,01:47,MOG,20,14,substituicao_entra,João Pedro
+414,1,01:47,MOG,20,14,substituicao_entra,Fúlvio
+415,1,01:47,MOG,20,14,substituicao_sai,André Goes
+416,1,01:47,MOG,20,14,substituicao_sai,Fabricio
+417,1,01:47,MIN,20,14,substituicao_entra,Alex
+418,1,01:47,MIN,20,14,substituicao_entra,Jackson Jr
+419,1,01:47,MIN,20,14,substituicao_entra,Shilton
+420,1,01:47,MIN,20,14,substituicao_sai,Scott
+421,1,01:47,MIN,20,14,substituicao_sai,Davi
+422,1,01:47,MIN,20,14,substituicao_sai,Deodato
+423,1,01:47,MIN,20,14,FR,Tyrone 
+424,1,01:47,MOG,20,14,FC,Fabricio
+425,1,01:55,MIN,20,14,RD,Deodato
+426,1,01:58,MOG,20,14,3_Pts_T,Fabricio
+427,1,02:14,MOG,20,14,substituicao_entra,Paranhos
+428,1,02:14,MOG,20,14,substituicao_sai,Alex
+429,1,02:14,MOG,20,14,FR,Fuzaro
+430,1,02:14,MIN,20,14,FC,Tyrone 
+431,1,02:20,MOG,20,14,RO,Mogi
+432,1,02:20,MIN,20,14,TO,Leandrinho
+433,1,02:20,MOG,20,14,2_Pts_T,Fuzaro
+434,1,02:23,MOG,20,14,RD,André Goes
+435,1,02:25,MIN,20,14,3_Pts_T,Tyrone 
+436,1,02:43,MOG,20,14,3_Pts_C,Fuzaro
+437,1,02:53,MIN,20,11,AS,Scott
+438,1,02:53,MIN,20,11,3_Pts_C,Deodato
+439,1,03:11,MOG,17,11,substituicao_entra,Colina
+440,1,03:11,MOG,17,11,substituicao_sai,Fúlvio
+441,1,03:12,MOG,17,11,AS,Fabricio
+442,1,03:12,MOG,17,11,3_Pts_C,André Goes
+443,1,03:39,MIN,17,8,LL_Pts_C,Leandrinho
+444,1,03:39,MIN,16,8,LL_Pts_C,Leandrinho
+445,1,03:39,MIN,15,8,FR,Leandrinho
+446,1,03:39,MOG,15,8,FC,André Goes
+447,1,03:44,MIN,15,8,RD,Scott
+448,1,03:47,MOG,15,8,2_Pts_T,André Goes
+449,1,04:08,MOG,15,8,substituicao_entra,Fabricio
+450,1,04:08,MOG,15,8,substituicao_sai,Paranhos
+451,1,04:08,MOG,15,8,tempo_tecnico,Mogi
+452,1,04:08,MIN,15,8,2_Pts_C,Leandrinho
+453,1,04:12,MIN,13,8,BR,Davi
+454,1,04:12,MOG,13,8,ER,Fuzaro
+455,1,04:23,MIN,13,8,LL_Pts_C,Leandrinho
+456,1,04:23,MIN,12,8,LL_Pts_C,Leandrinho
+457,1,04:23,MIN,11,8,FR,Leandrinho
+458,1,04:23,MOG,11,8,FC,Fúlvio
+459,1,04:45,MOG,11,8,ER,Paranhos
+460,1,04:45,MOG,11,8,RO,Paranhos
+461,1,04:45,MIN,11,8,TO,Tyrone 
+462,1,04:45,MOG,11,8,2_Pts_T,Paranhos
+463,1,05:03,MIN,11,8,LL_Pts_C,Leandrinho
+464,1,05:03,MIN,10,8,LL_Pts_C,Leandrinho
+465,1,05:03,MOG,9,8,substituicao_entra,Paranhos
+466,1,05:03,MOG,9,8,substituicao_sai,João Pedro
+467,1,05:03,MIN,9,8,FR,Leandrinho
+468,1,05:03,MOG,9,8,FC,João Pedro
+469,1,05:18,MIN,9,8,RD,Minas
+470,1,05:18,MOG,9,8,3_Pts_T,André Goes
+471,1,05:34,MIN,9,8,2_Pts_C,Leandrinho
+472,1,05:51,MOG,7,8,substituicao_entra,Alex
+473,1,05:51,MOG,7,8,substituicao_sai,Paranhos
+474,1,05:51,MOG,7,8,ER,Paranhos
+475,1,05:51,MOG,7,8,RO,Paranhos
+476,1,05:51,MOG,7,8,2_Pts_T,João Pedro
+477,1,06:06,MIN,7,8,2_Pts_C,Deodato
+478,1,06:18,MIN,5,8,RO,Minas
+479,1,06:18,MIN,5,8,2_Pts_T,Davi
+480,1,06:28,MIN,5,8,RD,Davi
+481,1,06:28,MOG,5,8,2_Pts_T,Paranhos
+482,1,06:39,MOG,5,8,RO,Mogi
+483,1,06:39,MOG,5,8,2_Pts_T,Paranhos
+484,1,06:54,MOG,5,8,FR,Paranhos
+485,1,06:54,MIN,5,8,FC,Deodato
+486,1,06:54,MOG,5,8,RD,João Pedro
+487,1,07:00,MOG,5,8,TO,João Pedro
+488,1,07:00,MIN,5,8,2_Pts_T,Tyrone 
+489,1,07:06,MIN,5,8,RD,Scott
+490,1,07:09,MOG,5,8,3_Pts_T,Fuzaro
+491,1,07:30,MIN,5,8,substituicao_entra,Leandrinho
+492,1,07:30,MIN,5,8,substituicao_sai,Alex
+493,1,07:30,MIN,5,8,ER,Alex
+494,1,07:30,MOG,5,8,substituicao_sai,Fabricio
+495,1,07:30,MOG,5,8,substituicao_entra,João Pedro
+496,1,07:33,MIN,5,8,BR,Tyrone 
+497,1,07:33,MOG,5,8,ER,Paranhos
+498,1,07:45,MIN,5,8,2_Pts_C,Tyrone 
+499,1,07:55,MIN,3,8,RD,Alex
+500,1,07:58,MOG,3,8,3_Pts_T,Fúlvio
+501,1,08:09,MIN,3,8,2_Pts_C,Tyrone 
+502,1,08:27,MOG,1,8,3_Pts_C,Fúlvio
+503,1,08:32,MOG,1,5,RD,Paranhos
+504,1,08:37,MIN,1,5,2_Pts_T,Deodato
+505,1,08:43,MIN,1,5,FR,Tyrone 
+506,1,08:43,MOG,1,5,FC,Fabricio
+507,1,08:56,MOG,1,5,3_Pts_C,Fuzaro
+508,1,09:01,MOG,1,2,RD,Fabricio
+509,1,09:03,MIN,1,2,3_Pts_T,Alex
+510,1,09:18,MOG,1,2,ER,André Goes
+511,1,09:22,MIN,1,2,AS,Alex
+512,1,09:22,MIN,1,2,LL_Pts_C,Davi
+513,1,09:22,MIN,0,2,LL_Pts_T,Davi
+514,1,09:22,MIN,0,2,FR,Davi
+515,1,09:22,MOG,0,2,FC,Paranhos
+516,1,09:43,MOG,0,2,AS,Fúlvio
+517,1,09:43,MOG,0,2,2_Pts_C,Paranhos
+518,1,10:00,MOG,0,0,substituicao_entra,André Goes
+519,1,10:00,MOG,0,0,substituicao_entra,Paranhos
+520,1,10:00,MOG,0,0,substituicao_entra,Fabricio
+521,1,10:00,MOG,0,0,substituicao_entra,Fuzaro
+522,1,10:00,MOG,0,0,substituicao_entra,Fúlvio
+523,1,10:00,MIN,0,0,substituicao_entra,Scott
+524,1,10:00,MIN,0,0,substituicao_entra,Alex
+525,1,10:00,MIN,0,0,substituicao_entra,Davi
+526,1,10:00,MIN,0,0,substituicao_entra,Deodato
+527,1,10:00,MIN,0,0,substituicao_entra,Tyrone 
+528,1,10:00,NaN,0,0,inicio_partida,

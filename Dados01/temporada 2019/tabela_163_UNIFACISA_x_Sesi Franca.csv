@@ -1,0 +1,463 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,86,92,fim_partida,
+1,4,00:00,NaN,86,92,fim_quarto, 
+2,4,00:24,UFC,86,92,substituicao_entra,Dixson
+3,4,00:24,UFC,86,92,substituicao_sai,Gemadinha
+4,4,00:24,UFC,86,92,ER,D  Nunes
+5,4,00:27,UFC,86,92,RO,Pepo Vidal
+6,4,00:31,UFC,86,92,3_Pts_T,Barnes
+7,4,00:40,UFC,86,92,FR,Barnes
+8,4,00:40,FRA,86,92,FC,Lucas Dias
+9,4,00:45,FRA,86,92,LL_Pts_C,Parodi
+10,4,00:45,FRA,86,91,LL_Pts_C,Parodi
+11,4,00:45,FRA,86,90,FR,Parodi
+12,4,00:45,UFC,86,90,FC,João Vitor
+13,4,00:52,UFC,86,90,2_Pts_C,João Vitor
+14,4,00:52,UFC,84,90,RO,João Vitor
+15,4,00:57,UFC,84,90,2_Pts_T,Barnes
+16,4,01:12,UFC,84,90,substituicao_entra,Gemadinha
+17,4,01:12,UFC,84,90,substituicao_sai,Dixson
+18,4,01:12,FRA,84,90,ER,Elinho
+19,4,01:23,FRA,84,90,RD,Hettsheimeir
+20,4,01:26,UFC,84,90,3_Pts_T,Pepo Vidal
+21,4,01:33,UFC,84,90,RD,D  Nunes
+22,4,01:33,FRA,84,90,LL_Pts_T,Lucas Dias
+23,4,01:33,FRA,84,90,LL_Pts_C,Lucas Dias
+24,4,01:33,FRA,84,89,FR,Lucas Dias
+25,4,01:33,UFC,84,89,FC,Pepo Vidal
+26,4,01:51,UFC,84,89,AS,Pepo Vidal
+27,4,01:51,UFC,84,89,3_Pts_C,D  Nunes
+28,4,02:01,FRA,81,89,2_Pts_C,David Jackson
+29,4,02:02,FRA,81,87,RO,David Jackson
+30,4,02:06,FRA,81,87,3_Pts_T,Lucas Dias
+31,4,02:10,FRA,81,87,substituicao_entra,Parodi
+32,4,02:10,FRA,81,87,substituicao_sai,Jimmy
+33,4,02:26,UFC,81,87,AS,Barnes
+34,4,02:26,UFC,81,87,2_Pts_C,Pepo Vidal
+35,4,02:34,UFC,79,87,BR,Pepo Vidal
+36,4,02:34,FRA,79,87,ER,Jimmy
+37,4,02:44,FRA,79,87,ER,Hettsheimeir
+38,4,03:01,UFC,79,87,substituicao_entra,Dixson
+39,4,03:01,UFC,79,87,substituicao_sai,Gemadinha
+40,4,03:10,UFC,79,87,2_Pts_C,Barnes
+41,4,03:22,FRA,77,87,substituicao_entra,Jimmy
+42,4,03:22,FRA,77,87,substituicao_sai,Parodi
+43,4,03:22,UFC,77,87,tempo_tecnico,UNIFACISA
+44,4,03:29,FRA,77,87,2_Pts_C,David Jackson
+45,4,03:42,FRA,77,85,RD,David Jackson
+46,4,03:46,UFC,77,85,2_Pts_T,Pepo Vidal
+47,4,03:55,FRA,77,85,substituicao_entra,Hettsheimeir
+48,4,03:55,FRA,77,85,substituicao_sai,Guilherme
+49,4,03:55,UFC,77,85,substituicao_entra,Gemadinha
+50,4,03:55,UFC,77,85,substituicao_entra,Barnes
+51,4,03:55,UFC,77,85,substituicao_sai,Miller
+52,4,03:55,UFC,77,85,substituicao_sai,Dixson
+53,4,03:55,UFC,77,85,FR,D  Nunes
+54,4,03:55,FRA,77,85,FC,Parodi
+55,4,04:01,FRA,77,85,3_Pts_C,Parodi
+56,4,04:03,FRA,77,82,RO,Parodi
+57,4,04:10,FRA,77,82,2_Pts_T,Guilherme
+58,4,04:10,FRA,77,82,RO,Guilherme
+59,4,04:18,FRA,77,82,3_Pts_T,Lucas Dias
+60,4,04:27,FRA,77,82,RD,David Jackson
+61,4,04:35,UFC,77,82,2_Pts_T,Miller
+62,4,04:42,UFC,77,82,BR,João Vitor
+63,4,04:42,FRA,77,82,ER,Elinho
+64,4,04:56,UFC,77,82,AS,Pepo Vidal
+65,4,04:56,UFC,77,82,2_Pts_C,D  Nunes
+66,4,05:08,UFC,75,82,RD,Pepo Vidal
+67,4,05:12,FRA,75,82,3_Pts_T,David Jackson
+68,4,05:16,UFC,75,82,substituicao_entra,Miller
+69,4,05:16,UFC,75,82,substituicao_sai,Barnes
+70,4,05:16,FRA,75,82,FR,David Jackson
+71,4,05:16,UFC,75,82,FC,Dixson
+72,4,05:31,FRA,75,82,RD,Lucas Dias
+73,4,05:34,UFC,75,82,3_Pts_T,Barnes
+74,4,05:40,UFC,75,82,BR,D  Nunes
+75,4,05:40,FRA,75,82,ER,David Jackson
+76,4,06:06,UFC,75,82,AS,Barnes
+77,4,06:06,UFC,75,82,3_Pts_C,João Vitor
+78,4,06:16,UFC,72,82,FR,Barnes
+79,4,06:16,FRA,72,82,FC,Lucas Dias
+80,4,06:32,FRA,72,82,AS,Lucas Dias
+81,4,06:32,FRA,72,82,EN,Guilherme
+82,4,06:37,FRA,72,80,RD,Lucas Dias
+83,4,06:41,UFC,72,80,2_Pts_T,Barnes
+84,4,06:58,FRA,72,80,AS,David Jackson
+85,4,06:58,FRA,72,80,3_Pts_C,Elinho
+86,4,07:12,FRA,72,77,substituicao_entra,Elinho
+87,4,07:12,FRA,72,77,substituicao_sai,Schattmann
+88,4,07:12,FRA,72,77,tempo_tecnico,Franca
+89,4,07:15,UFC,72,77,2_Pts_C,Barnes
+90,4,07:28,UFC,70,77,RD,D  Nunes
+91,4,07:32,FRA,70,77,3_Pts_T,Guilherme
+92,4,07:42,FRA,70,77,FR,Guilherme
+93,4,07:42,UFC,70,77,FC,Barnes
+94,4,08:02,UFC,70,77,AS,Pepo Vidal
+95,4,08:02,UFC,70,77,2_Pts_C,Dixson
+96,4,08:08,UFC,68,77,BR,Pepo Vidal
+97,4,08:08,FRA,68,77,ER,Parodi
+98,4,08:29,UFC,68,77,3_Pts_C,Barnes
+99,4,08:48,FRA,65,77,AS,Schattmann
+100,4,08:48,FRA,65,77,3_Pts_C,Lucas Dias
+101,4,08:59,FRA,65,74,RD,David Jackson
+102,4,09:03,UFC,65,74,3_Pts_T,D  Nunes
+103,4,09:20,UFC,65,74,RD,Dixson
+104,4,09:24,FRA,65,74,3_Pts_T,Parodi
+105,4,09:26,FRA,65,74,RO,David Jackson
+106,4,09:31,FRA,65,74,3_Pts_T,Schattmann
+107,4,09:38,FRA,65,74,FR,Parodi
+108,4,09:38,UFC,65,74,FC,Pepo Vidal
+109,4,09:50,UFC,65,74,AS,Pepo Vidal
+110,4,09:50,UFC,65,74,3_Pts_C,D  Nunes
+111,4,10:00,NaN,62,74,inicio_quarto,
+112,3,00:00,NaN,62,74,fim_quarto,
+113,3,00:01,UFC,62,74,2_Pts_C,Antonio
+114,3,00:25,FRA,60,74,AS,David Jackson
+115,3,00:25,FRA,60,74,3_Pts_C,Lucas Dias
+116,3,00:33,FRA,60,71,RD,David Jackson
+117,3,00:38,UFC,60,71,3_Pts_T,Dixson
+118,3,01:07,FRA,60,71,AS,Lucas Dias
+119,3,01:07,FRA,60,71,3_Pts_C,Schattmann
+120,3,01:18,FRA,60,68,RD,Lucas Dias
+121,3,01:21,UFC,60,68,2_Pts_T,Antonio
+122,3,01:40,FRA,60,68,2_Pts_C,Parodi
+123,3,01:54,UFC,60,66,substituicao_entra,Pepo Vidal
+124,3,01:54,UFC,60,66,substituicao_sai,Barnes
+125,3,01:54,UFC,60,66,ER,
+126,3,02:13,FRA,60,66,LL_Pts_C,Lucas Dias
+127,3,02:13,UFC,60,65,substituicao_entra,João Vitor
+128,3,02:13,UFC,60,65,substituicao_sai,D  Nunes
+129,3,02:13,FRA,60,65,FR,Lucas Dias
+130,3,02:13,UFC,60,65,FC,Antonio
+131,3,02:17,FRA,60,65,AS,Parodi
+132,3,02:17,FRA,60,65,2_Pts_C,Lucas Dias
+133,3,02:26,UFC,60,63,substituicao_entra,Antonio
+134,3,02:26,UFC,60,63,substituicao_sai,Gemerson
+135,3,02:26,UFC,60,63,ER,Gemerson
+136,3,02:38,UFC,60,63,RD,UNIFACISA
+137,3,02:43,FRA,60,63,2_Pts_T,David Jackson
+138,3,02:53,FRA,60,63,BR,Parodi
+139,3,02:53,UFC,60,63,ER,Gemerson
+140,3,02:57,UFC,60,63,FR,Gemadinha
+141,3,02:57,FRA,60,63,FC,Parodi
+142,3,03:17,FRA,60,63,substituicao_entra,Guilherme
+143,3,03:17,FRA,60,63,substituicao_sai,Hettsheimeir
+144,3,03:17,FRA,60,63,LL_Pts_C,Hettsheimeir
+145,3,03:17,FRA,60,62,LL_Pts_C,Hettsheimeir
+146,3,03:17,FRA,60,61,FR,Hettsheimeir
+147,3,03:17,UFC,60,61,FC,Gemerson
+148,3,03:30,UFC,60,61,LL_Pts_C,Barnes
+149,3,03:30,FRA,59,61,substituicao_entra,Parodi
+150,3,03:30,FRA,59,61,substituicao_sai,Elinho
+151,3,03:30,UFC,59,61,substituicao_entra,Gemadinha
+152,3,03:30,UFC,59,61,substituicao_sai,Pepo Vidal
+153,3,03:30,UFC,59,61,FR,Barnes
+154,3,03:30,FRA,59,61,FC,Elinho
+155,3,03:33,UFC,59,61,2_Pts_C,Barnes
+156,3,03:39,UFC,57,61,FR,Gemerson
+157,3,03:39,FRA,57,61,FC,Schattmann
+158,3,03:43,UFC,57,61,RD,Dixson
+159,3,03:47,FRA,57,61,3_Pts_T,Schattmann
+160,3,04:13,UFC,57,61,3_Pts_C,Barnes
+161,3,04:29,FRA,54,61,2_Pts_C,David Jackson
+162,3,04:46,UFC,54,59,ER,
+163,3,05:01,FRA,54,59,tempo_tecnico,Franca
+164,3,05:08,FRA,54,59,AS,Elinho
+165,3,05:08,FRA,54,59,3_Pts_C,David Jackson
+166,3,05:11,UFC,54,56,ER,Dixson
+167,3,05:11,FRA,54,56,substituicao_entra,Schattmann
+168,3,05:11,FRA,54,56,substituicao_sai,Jimmy
+169,3,05:20,FRA,54,56,ER,David Jackson
+170,3,05:29,UFC,54,56,substituicao_entra,Dixson
+171,3,05:29,UFC,54,56,substituicao_entra,Gemerson
+172,3,05:29,UFC,54,56,substituicao_sai,Miller
+173,3,05:29,UFC,54,56,substituicao_sai,João Vitor
+174,3,05:30,FRA,54,56,RD,Franca
+175,3,05:36,UFC,54,56,3_Pts_T,Miller
+176,3,06:03,FRA,54,56,AS,Hettsheimeir
+177,3,06:03,FRA,54,56,2_Pts_C,Lucas Dias
+178,3,06:22,FRA,54,54,RD,Hettsheimeir
+179,3,06:25,UFC,54,54,2_Pts_T,João Vitor
+180,3,06:37,FRA,54,54,ER,Hettsheimeir
+181,3,06:48,FRA,54,54,BR,Lucas Dias
+182,3,06:48,UFC,54,54,ER,Barnes
+183,3,07:10,FRA,54,54,2_Pts_C,David Jackson
+184,3,07:12,FRA,54,52,RD,Elinho
+185,3,07:16,UFC,54,52,2_Pts_T,Barnes
+186,3,07:29,FRA,54,52,2_Pts_C,Hettsheimeir
+187,3,07:30,FRA,54,50,RO,Hettsheimeir
+188,3,07:33,FRA,54,50,3_Pts_T,Elinho
+189,3,07:39,FRA,54,50,BR,Elinho
+190,3,07:39,UFC,54,50,ER,Pepo Vidal
+191,3,07:45,UFC,54,50,RD,Pepo Vidal
+192,3,07:49,FRA,54,50,3_Pts_T,Jimmy
+193,3,08:11,UFC,54,50,AS,Miller
+194,3,08:11,UFC,54,50,3_Pts_C,Barnes
+195,3,08:19,UFC,51,50,BR,Pepo Vidal
+196,3,08:19,FRA,51,50,ER,Elinho
+197,3,08:33,FRA,51,50,FR,Lucas Dias
+198,3,08:33,UFC,51,50,FC,Miller
+199,3,08:43,FRA,51,50,RD,Hettsheimeir
+200,3,08:43,UFC,51,50,LL_Pts_T,João Vitor
+201,3,08:43,UFC,51,50,FR,João Vitor
+202,3,08:43,FRA,51,50,FC,Jimmy
+203,3,08:47,UFC,51,50,AS,Pepo Vidal
+204,3,08:47,UFC,51,50,EN,João Vitor
+205,3,08:53,UFC,49,50,RD,João Vitor
+206,3,08:57,FRA,49,50,3_Pts_T,Elinho
+207,3,09:19,UFC,49,50,2_Pts_C,D  Nunes
+208,3,09:43,FRA,47,50,2_Pts_C,David Jackson
+209,3,09:52,FRA,47,48,FR,David Jackson
+210,3,09:52,UFC,47,48,FC,Miller
+211,3,10:00,NaN,47,48,inicio_quarto,
+212,2,00:00,NaN,47,48,fim_quarto,
+213,2,00:02,FRA,47,48,RD,Hettsheimeir
+214,2,00:02,UFC,47,48,LL_Pts_T,João Vitor
+215,2,00:02,UFC,47,48,LL_Pts_T,João Vitor
+216,2,00:02,UFC,47,48,substituicao_entra,Gemadinha
+217,2,00:02,UFC,47,48,substituicao_sai,Dixson
+218,2,00:02,UFC,47,48,FR,João Vitor
+219,2,00:02,FRA,47,48,FC,Jimmy
+220,2,00:19,FRA,47,48,AS,David Jackson
+221,2,00:19,FRA,47,48,3_Pts_C,Elinho
+222,2,00:34,UFC,47,45,substituicao_entra,Pepo Vidal
+223,2,00:34,UFC,47,45,substituicao_sai,Barnes
+224,2,00:34,FRA,47,45,tempo_tecnico,Franca
+225,2,00:34,UFC,47,45,ER,Miller
+226,2,00:53,FRA,47,45,substituicao_entra,Elinho
+227,2,00:53,FRA,47,45,substituicao_sai,Parodi
+228,2,00:53,FRA,47,45,LL_Pts_C,Hettsheimeir
+229,2,00:53,FRA,47,44,LL_Pts_C,Hettsheimeir
+230,2,00:53,FRA,47,43,FR,Hettsheimeir
+231,2,00:53,UFC,47,43,FC,Dixson
+232,2,00:55,UFC,47,43,LL_Pts_C,Barnes
+233,2,00:55,FRA,46,43,substituicao_entra,Jimmy
+234,2,00:55,FRA,46,43,substituicao_sai,Elinho
+235,2,01:01,UFC,46,43,FR,Barnes
+236,2,01:01,FRA,46,43,FC,Parodi
+237,2,01:05,UFC,46,43,2_Pts_C,Barnes
+238,2,01:24,FRA,44,43,AS,Parodi
+239,2,01:24,FRA,44,43,3_Pts_C,David Jackson
+240,2,01:37,UFC,44,40,2_Pts_C,João Vitor
+241,2,01:38,UFC,42,40,RO,João Vitor
+242,2,01:41,UFC,42,40,2_Pts_T,Dixson
+243,2,02:00,FRA,42,40,3_Pts_C,Parodi
+244,2,02:10,UFC,42,37,substituicao_entra,Miller
+245,2,02:10,UFC,42,37,substituicao_sai,Pepo Vidal
+246,2,02:10,UFC,42,37,LL_Pts_C,D  Nunes
+247,2,02:10,UFC,41,37,FR,D  Nunes
+248,2,02:10,FRA,41,37,FC,Elinho
+249,2,02:10,UFC,41,37,AS,Pepo Vidal
+250,2,02:10,UFC,41,37,2_Pts_C,D  Nunes
+251,2,02:15,UFC,39,37,RD,Pepo Vidal
+252,2,02:18,FRA,39,37,2_Pts_T,Lucas Dias
+253,2,02:25,FRA,39,37,RO,Elinho
+254,2,02:29,FRA,39,37,3_Pts_T,Hettsheimeir
+255,2,02:40,UFC,39,37,LL_Pts_C,Barnes
+256,2,02:40,UFC,38,37,LL_Pts_C,Barnes
+257,2,02:40,UFC,37,37,substituicao_entra,João Vitor
+258,2,02:40,UFC,37,37,substituicao_sai,Gemerson
+259,2,02:40,UFC,37,37,FR,Barnes
+260,2,02:40,FRA,37,37,FC,David Jackson
+261,2,02:53,FRA,37,37,AS,Lucas Dias
+262,2,02:53,FRA,37,37,3_Pts_C,Hettsheimeir
+263,2,02:55,FRA,37,34,RO,Lucas Dias
+264,2,02:58,FRA,37,34,2_Pts_T,Lucas Dias
+265,2,03:03,FRA,37,34,RD,Elinho
+266,2,03:07,UFC,37,34,3_Pts_T,Gemerson
+267,2,03:13,UFC,37,34,RO,UNIFACISA
+268,2,03:21,FRA,37,34,TO,Lucas Dias
+269,2,03:21,UFC,37,34,2_Pts_T,Gemerson
+270,2,04:05,FRA,37,34,ER,Hettsheimeir
+271,2,04:16,FRA,37,34,RD,David Jackson
+272,2,04:20,UFC,37,34,3_Pts_T,Pepo Vidal
+273,2,04:39,FRA,37,34,2_Pts_C,Parodi
+274,2,04:44,FRA,37,32,RD,Elinho
+275,2,04:48,UFC,37,32,2_Pts_T,Barnes
+276,2,04:49,FRA,37,32,LL_Pts_C,Lucas Dias
+277,2,04:49,UFC,37,31,substituicao_entra,D  Nunes
+278,2,04:49,UFC,37,31,substituicao_sai,João Vitor
+279,2,04:49,UFC,37,31,tempo_tecnico,UNIFACISA
+280,2,04:49,FRA,37,31,FR,Lucas Dias
+281,2,04:49,UFC,37,31,FC,Dixson
+282,2,04:54,FRA,37,31,FR,Lucas Dias
+283,2,04:54,UFC,37,31,FC,Gemerson
+284,2,05:42,FRA,37,31,AS,Lucas Dias
+285,2,05:42,FRA,37,31,3_Pts_C,Parodi
+286,2,05:42,FRA,37,28,substituicao_entra,Parodi
+287,2,05:42,FRA,37,28,substituicao_entra,Lucas Dias
+288,2,05:42,FRA,37,28,substituicao_sai,Schattmann
+289,2,05:42,FRA,37,28,substituicao_sai,Márcio
+290,2,05:42,FRA,37,28,FR,Márcio
+291,2,05:42,UFC,37,28,FC,Gemerson
+292,2,06:06,UFC,37,28,AS,Pepo Vidal
+293,2,06:06,UFC,37,28,EN,João Vitor
+294,2,06:11,UFC,35,28,BR,João Vitor
+295,2,06:11,FRA,35,28,ER,David Jackson
+296,2,06:19,UFC,35,28,substituicao_entra,Barnes
+297,2,06:19,UFC,35,28,substituicao_entra,Dixson
+298,2,06:19,UFC,35,28,substituicao_sai,Gemadinha
+299,2,06:19,UFC,35,28,substituicao_sai,Miller
+300,2,06:19,UFC,35,28,LL_Pts_C,Gemadinha
+301,2,06:19,UFC,34,28,LL_Pts_C,Gemadinha
+302,2,06:19,FRA,33,28,tempo_tecnico,Franca
+303,2,06:19,UFC,33,28,FR,Gemadinha
+304,2,06:19,FRA,33,28,FC,Márcio
+305,2,06:28,FRA,33,28,substituicao_entra,David Jackson
+306,2,06:28,FRA,33,28,substituicao_entra,Hettsheimeir
+307,2,06:28,FRA,33,28,substituicao_sai,Guilherme
+308,2,06:28,FRA,33,28,substituicao_sai,Jimmy
+309,2,06:28,UFC,33,28,FR,Pepo Vidal
+310,2,06:28,FRA,33,28,FC,Schattmann
+311,2,06:41,FRA,33,28,BR,Guilherme
+312,2,06:41,UFC,33,28,ER,Pepo Vidal
+313,2,06:44,UFC,33,28,RO,UNIFACISA
+314,2,06:47,UFC,33,28,2_Pts_T,Gemerson
+315,2,06:51,UFC,33,28,RD,Miller
+316,2,06:56,FRA,33,28,2_Pts_T,Jimmy
+317,2,06:58,FRA,33,28,RD,Elinho
+318,2,07:03,UFC,33,28,3_Pts_T,Gemerson
+319,2,07:10,UFC,33,28,FR,João Vitor
+320,2,07:10,FRA,33,28,FC,Márcio
+321,2,07:15,UFC,33,28,RD,Miller
+322,2,07:19,FRA,33,28,3_Pts_T,Schattmann
+323,2,07:46,UFC,33,28,AS,Miller
+324,2,07:46,UFC,33,28,2_Pts_C,João Vitor
+325,2,08:12,FRA,31,28,2_Pts_C,Schattmann
+326,2,08:31,FRA,31,26,RD,Guilherme
+327,2,08:34,UFC,31,26,2_Pts_T,João Vitor
+328,2,08:41,UFC,31,26,RD,João Vitor
+329,2,08:44,FRA,31,26,2_Pts_T,Schattmann
+330,2,08:55,UFC,31,26,substituicao_entra,João Vitor
+331,2,08:55,UFC,31,26,substituicao_sai,Antonio
+332,2,08:55,UFC,31,26,LL_Pts_C,Antonio
+333,2,08:55,UFC,30,26,LL_Pts_T,Antonio
+334,2,08:55,FRA,30,26,substituicao_entra,Márcio
+335,2,08:55,FRA,30,26,substituicao_sai,Lucas Dias
+336,2,08:55,UFC,30,26,FR,Antonio
+337,2,08:55,FRA,30,26,FC,Lucas Dias
+338,2,09:03,UFC,30,26,RD,Gemerson
+339,2,09:08,FRA,30,26,3_Pts_T,Jimmy
+340,2,09:15,FRA,30,26,RO,Guilherme
+341,2,09:18,FRA,30,26,3_Pts_T,Lucas Dias
+342,2,09:23,FRA,30,26,FR,Lucas Dias
+343,2,09:23,UFC,30,26,FC,Antonio
+344,2,09:35,UFC,30,26,AS,Pepo Vidal
+345,2,09:35,UFC,30,26,3_Pts_C,Antonio
+346,2,09:47,UFC,27,26,FR,Miller
+347,2,09:47,FRA,27,26,FC,Jimmy
+348,2,10:00,NaN,27,26,inicio_quarto,
+349,1,00:00,NaN,27,26,fim_quarto,
+350,1,00:38,FRA,27,26,3_Pts_C,Elinho
+351,1,00:44,FRA,27,23,RD,Lucas Dias
+352,1,00:44,UFC,27,23,2_Pts_T,Barnes
+353,1,00:44,FRA,27,23,EN,Guilherme
+354,1,00:44,FRA,27,21,substituicao_entra,Schattmann
+355,1,00:44,FRA,27,21,substituicao_sai,Parodi
+356,1,00:44,UFC,27,21,substituicao_entra,Gemadinha
+357,1,00:44,UFC,27,21,substituicao_sai,Pepo Vidal
+358,1,00:44,FRA,27,21,FR,Lucas Dias
+359,1,00:44,UFC,27,21,FC,Antonio
+360,1,00:44,FRA,27,21,RO,Franca
+361,1,00:48,FRA,27,21,2_Pts_T,Lucas Dias
+362,1,01:04,UFC,27,21,AS,Pepo Vidal
+363,1,01:04,UFC,27,21,3_Pts_C,Barnes
+364,1,01:07,UFC,24,21,RD,Pepo Vidal
+365,1,01:11,FRA,24,21,3_Pts_T,Lucas Dias
+366,1,01:33,UFC,24,21,AS,Barnes
+367,1,01:33,UFC,24,21,2_Pts_C,Miller
+368,1,01:57,FRA,22,21,AS,Parodi
+369,1,01:57,FRA,22,21,2_Pts_C,Guilherme
+370,1,02:15,UFC,22,19,AS,Pepo Vidal
+371,1,02:15,UFC,22,19,2_Pts_C,Miller
+372,1,02:45,UFC,20,19,substituicao_entra,Gemerson
+373,1,02:45,UFC,20,19,substituicao_sai,D  Nunes
+374,1,02:54,FRA,20,19,ER,Guilherme
+375,1,02:55,UFC,20,19,AS,Pepo Vidal
+376,1,02:55,UFC,20,19,2_Pts_C,Antonio
+377,1,02:55,FRA,18,19,AS,Jimmy
+378,1,02:55,FRA,18,19,LL_Pts_C,Lucas Dias
+379,1,02:55,FRA,18,18,LL_Pts_C,Lucas Dias
+380,1,02:55,FRA,18,17,substituicao_entra,Guilherme
+381,1,02:55,FRA,18,17,substituicao_sai,Hettsheimeir
+382,1,02:55,FRA,18,17,FR,Lucas Dias
+383,1,02:55,UFC,18,17,FC,Antonio
+384,1,03:03,FRA,18,17,RD,Hettsheimeir
+385,1,03:07,UFC,18,17,3_Pts_T,Antonio
+386,1,03:28,FRA,18,17,2_Pts_C,Jimmy
+387,1,03:33,FRA,18,15,BR,Lucas Dias
+388,1,03:33,UFC,18,15,ER,Pepo Vidal
+389,1,03:34,UFC,18,15,RD,Pepo Vidal
+390,1,03:40,FRA,18,15,3_Pts_T,Lucas Dias
+391,1,04:00,UFC,18,15,AS,D  Nunes
+392,1,04:00,UFC,18,15,3_Pts_C,Barnes
+393,1,04:12,FRA,15,15,substituicao_entra,Elinho
+394,1,04:12,FRA,15,15,substituicao_sai,David Jackson
+395,1,04:12,UFC,15,15,substituicao_entra,Miller
+396,1,04:12,UFC,15,15,substituicao_entra,Antonio
+397,1,04:12,UFC,15,15,substituicao_sai,Dixson
+398,1,04:12,UFC,15,15,substituicao_sai,João Vitor
+399,1,04:12,UFC,15,15,FR,D  Nunes
+400,1,04:12,FRA,15,15,FC,Parodi
+401,1,04:27,FRA,15,15,AS,David Jackson
+402,1,04:27,FRA,15,15,EN,Hettsheimeir
+403,1,04:31,FRA,15,13,RD,Hettsheimeir
+404,1,04:34,UFC,15,13,3_Pts_T,Dixson
+405,1,04:52,FRA,15,13,AS,Parodi
+406,1,04:52,FRA,15,13,3_Pts_C,Hettsheimeir
+407,1,05:05,UFC,15,10,3_Pts_C,Barnes
+408,1,05:18,UFC,12,10,RD,UNIFACISA
+409,1,05:23,FRA,12,10,3_Pts_T,Hettsheimeir
+410,1,05:33,FRA,12,10,RD,Hettsheimeir
+411,1,05:36,UFC,12,10,2_Pts_T,João Vitor
+412,1,05:37,UFC,12,10,RO,João Vitor
+413,1,05:41,UFC,12,10,2_Pts_T,Dixson
+414,1,05:55,FRA,12,10,2_Pts_C,Hettsheimeir
+415,1,06:08,FRA,12,8,BR,Hettsheimeir
+416,1,06:08,UFC,12,8,ER,João Vitor
+417,1,06:16,FRA,12,8,substituicao_entra,Jimmy
+418,1,06:16,FRA,12,8,substituicao_sai,Schattmann
+419,1,06:30,FRA,12,8,AS,Schattmann
+420,1,06:30,FRA,12,8,3_Pts_C,David Jackson
+421,1,06:54,UFC,12,5,AS,Pepo Vidal
+422,1,06:54,UFC,12,5,3_Pts_C,Barnes
+423,1,06:57,UFC,9,5,RO,Pepo Vidal
+424,1,07:01,UFC,9,5,3_Pts_T,D  Nunes
+425,1,07:12,FRA,9,5,LL_Pts_C,Hettsheimeir
+426,1,07:12,FRA,9,4,FR,Hettsheimeir
+427,1,07:12,UFC,9,4,FC,João Vitor
+428,1,07:17,FRA,9,4,2_Pts_C,Hettsheimeir
+429,1,07:35,UFC,9,2,EN,João Vitor
+430,1,07:37,UFC,7,2,RO,João Vitor
+431,1,07:43,UFC,7,2,3_Pts_T,Dixson
+432,1,07:48,UFC,7,2,RD,Pepo Vidal
+433,1,07:53,FRA,7,2,2_Pts_T,David Jackson
+434,1,08:03,FRA,7,2,BR,Schattmann
+435,1,08:03,UFC,7,2,ER,Pepo Vidal
+436,1,08:07,UFC,7,2,RD,Pepo Vidal
+437,1,08:11,FRA,7,2,2_Pts_T,Schattmann
+438,1,08:25,UFC,7,2,AS,D  Nunes
+439,1,08:25,UFC,7,2,2_Pts_C,Pepo Vidal
+440,1,08:33,UFC,5,2,RD,Pepo Vidal
+441,1,08:37,FRA,5,2,3_Pts_T,Lucas Dias
+442,1,08:38,FRA,5,2,RO,David Jackson
+443,1,08:42,FRA,5,2,3_Pts_T,Lucas Dias
+444,1,08:57,UFC,5,2,2_Pts_C,Barnes
+445,1,08:59,UFC,3,2,RD,Pepo Vidal
+446,1,09:05,UFC,3,2,TO,João Vitor
+447,1,09:05,FRA,3,2,2_Pts_T,Parodi
+448,1,09:26,UFC,3,2,AS,D  Nunes
+449,1,09:26,UFC,3,2,3_Pts_C,Barnes
+450,1,09:43,FRA,0,2,2_Pts_C,Lucas Dias
+451,1,10:00,FRA,0,0,substituicao_entra,David Jackson
+452,1,10:00,FRA,0,0,substituicao_entra,Hettsheimeir
+453,1,10:00,FRA,0,0,substituicao_entra,Parodi
+454,1,10:00,FRA,0,0,substituicao_entra,Schattmann
+455,1,10:00,FRA,0,0,substituicao_entra,Lucas Dias
+456,1,10:00,UFC,0,0,substituicao_entra,Barnes
+457,1,10:00,UFC,0,0,substituicao_entra,Dixson
+458,1,10:00,UFC,0,0,substituicao_entra,D  Nunes
+459,1,10:00,UFC,0,0,substituicao_entra,Pepo Vidal
+460,1,10:00,UFC,0,0,substituicao_entra,João Vitor
+461,1,10:00,NaN,0,0,inicio_partida,

@@ -1,0 +1,552 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,94,105,fim_partida,
+1,4,00:00,NaN,94,105,fim_quarto, 
+2,4,00:00,CAP,94,105,3_Pts_T,Eddy
+3,4,00:07,MOG,94,105,3_Pts_C,Alexey
+4,4,00:20,MOG,94,102,LL_Pts_C,Alexey
+5,4,00:20,MOG,94,101,LL_Pts_C,Alexey
+6,4,00:20,CAP,94,100,substituicao_entra,Beto
+7,4,00:20,CAP,94,100,substituicao_sai,Solano
+8,4,00:20,CAP,94,100,substituicao_entra,Ruivo
+9,4,00:20,CAP,94,100,substituicao_sai,Yago
+10,4,00:20,MOG,94,100,FR,Alexey
+11,4,00:20,CAP,94,100,FC_A,Yago
+12,4,00:37,CAP,94,100,LL_Pts_C,Solano
+13,4,00:37,CAP,93,100,LL_Pts_C,Solano
+14,4,00:37,CAP,92,100,FR,Solano
+15,4,00:37,MOG,92,100,FC,Gruber
+16,4,00:43,CAP,92,100,RD,D  Coleman
+17,4,00:46,MOG,92,100,2_Pts_T,Alexey
+18,4,01:03,CAP,92,100,LL_Pts_C,Solano
+19,4,01:03,CAP,91,100,LL_Pts_C,Solano
+20,4,01:03,CAP,90,100,FR,Solano
+21,4,01:03,MOG,90,100,FC,Lessa
+22,4,01:03,CAP,90,100,RD,Eddy
+23,4,01:10,MOG,90,100,3_Pts_T,Fúlvio
+24,4,01:38,CAP,90,100,AS,Yago
+25,4,01:38,CAP,90,100,3_Pts_C,D  Coleman
+26,4,01:42,CAP,87,100,RD,Maique
+27,4,01:45,MOG,87,100,3_Pts_T,André Goes
+28,4,02:06,CAP,87,100,LL_Pts_C,Solano
+29,4,02:06,CAP,86,100,LL_Pts_T,Solano
+30,4,02:06,CAP,86,100,FR,Solano
+31,4,02:06,MOG,86,100,FC,Gruber
+32,4,02:16,MOG,86,100,LL_Pts_C,Alexey
+33,4,02:16,MOG,86,99,LL_Pts_C,Alexey
+34,4,02:16,CAP,86,98,tempo_tecnico,Paulistano
+35,4,02:16,MOG,86,98,FR,Alexey
+36,4,02:16,CAP,86,98,FC,Yago
+37,4,02:23,MOG,86,98,BR,Lessa
+38,4,02:23,CAP,86,98,ER,D  Coleman
+39,4,02:32,MOG,86,98,2_Pts_C,Alexey
+40,4,02:43,MOG,86,96,RD,Lessa
+41,4,02:46,CAP,86,96,2_Pts_T,Yago
+42,4,02:57,CAP,86,96,BR,D  Coleman
+43,4,02:57,MOG,86,96,ER,Fúlvio
+44,4,03:13,CAP,86,96,LL_Pts_C,Yago
+45,4,03:13,CAP,85,96,FR,Yago
+46,4,03:13,MOG,85,96,FC,Gruber
+47,4,03:13,CAP,85,96,2_Pts_C,Yago
+48,4,03:28,MOG,83,96,LL_Pts_C,Alexey
+49,4,03:28,MOG,83,95,LL_Pts_C,Alexey
+50,4,03:28,MOG,83,94,FR,Alexey
+51,4,03:28,CAP,83,94,FC,Solano
+52,4,03:30,CAP,83,94,ER,D  Coleman
+53,4,03:32,CAP,83,94,RO,D  Coleman
+54,4,03:34,CAP,83,94,3_Pts_T,Eddy
+55,4,03:38,MOG,83,94,ER,Alexey
+56,4,03:55,CAP,83,94,AS,Solano
+57,4,03:55,CAP,83,94,2_Pts_C,Maique
+58,4,04:11,MOG,81,94,LL_Pts_C,Alexey
+59,4,04:11,MOG,81,93,LL_Pts_C,Alexey
+60,4,04:11,CAP,81,92,substituicao_entra,Maique
+61,4,04:11,CAP,81,92,substituicao_sai,Dikembe
+62,4,04:11,MOG,81,92,FR,Alexey
+63,4,04:11,CAP,81,92,FC,Yago
+64,4,04:13,MOG,81,92,RD,Mogi
+65,4,04:15,CAP,81,92,3_Pts_T,D  Coleman
+66,4,04:31,MOG,81,92,3_Pts_C,André Goes
+67,4,04:52,CAP,81,89,2_Pts_C,Solano
+68,4,05:04,CAP,79,89,FR,Yago
+69,4,05:04,MOG,79,89,FC,Lessa
+70,4,05:15,MOG,79,89,2_Pts_C,André Goes
+71,4,05:39,CAP,79,87,AS,Solano
+72,4,05:39,CAP,79,87,3_Pts_C,D  Coleman
+73,4,05:59,CAP,76,87,substituicao_entra,D  Coleman
+74,4,05:59,CAP,76,87,substituicao_sai,Victão
+75,4,05:59,CAP,76,87,substituicao_entra,Eddy
+76,4,05:59,CAP,76,87,substituicao_sai,Beto
+77,4,05:59,CAP,76,87,tempo_tecnico,Paulistano
+78,4,06:00,MOG,76,87,2_Pts_C,André Goes
+79,4,06:13,MOG,76,85,RD,Alexey
+80,4,06:15,CAP,76,85,3_Pts_T,Victão
+81,4,06:38,MOG,76,85,ER,Alexey
+82,4,06:55,CAP,76,85,ER,
+83,4,06:56,CAP,76,85,3_Pts_T,Solano
+84,4,07:24,MOG,76,85,AS,Lessa
+85,4,07:24,MOG,76,85,3_Pts_C,Fúlvio
+86,4,07:42,CAP,76,82,substituicao_entra,Beto
+87,4,07:42,CAP,76,82,substituicao_sai,Ruivo
+88,4,07:42,CAP,76,82,substituicao_entra,Victão
+89,4,07:42,CAP,76,82,substituicao_sai,Eddy
+90,4,07:42,CAP,76,82,tempo_tecnico,Paulistano
+91,4,07:42,MOG,76,82,FR,Fúlvio
+92,4,07:42,CAP,76,82,ER,Ruivo
+93,4,07:42,CAP,76,82,FC_O,Ruivo
+94,4,07:51,MOG,76,82,AS,Fúlvio
+95,4,07:51,MOG,76,82,2_Pts_C,Gruber
+96,4,07:56,MOG,76,80,BR,Lessa
+97,4,07:56,CAP,76,80,ER,Dikembe
+98,4,07:57,CAP,76,80,RO,Dikembe
+99,4,08:01,CAP,76,80,3_Pts_T,Yago
+100,4,08:12,CAP,76,80,FR,Solano
+101,4,08:12,MOG,76,80,FC,Fúlvio
+102,4,08:12,CAP,76,80,RD,Solano
+103,4,08:15,CAP,76,80,TO,Dikembe
+104,4,08:15,MOG,76,80,2_Pts_T,Lessa
+105,4,08:22,MOG,76,80,FR,André Goes
+106,4,08:22,CAP,76,80,FC,Eddy
+107,4,08:37,CAP,76,80,LL_Pts_C,Dikembe
+108,4,08:37,CAP,75,80,FR,Dikembe
+109,4,08:37,MOG,75,80,FC,Fúlvio
+110,4,08:37,CAP,75,80,AS,Yago
+111,4,08:37,CAP,75,80,2_Pts_C,Dikembe
+112,4,08:44,CAP,73,80,RD,Ruivo
+113,4,08:46,MOG,73,80,3_Pts_T,Gruber
+114,4,09:00,CAP,73,80,substituicao_entra,Ruivo
+115,4,09:00,CAP,73,80,substituicao_sai,D  Coleman
+116,4,09:00,MOG,73,80,FR,Fúlvio
+117,4,09:00,CAP,73,80,FC,Eddy
+118,4,09:07,MOG,73,80,RD,André Goes
+119,4,09:10,CAP,73,80,3_Pts_T,D  Coleman
+120,4,09:28,CAP,73,80,RD,Dikembe
+121,4,09:28,MOG,73,80,LL_Pts_T,Gruber
+122,4,09:28,MOG,73,80,FR,Gruber
+123,4,09:28,CAP,73,80,FC,Dikembe
+124,4,09:28,MOG,73,80,2_Pts_C,Gruber
+125,4,09:32,MOG,73,78,RO,Lessa
+126,4,09:35,MOG,73,78,2_Pts_T,Lessa
+127,4,09:35,MOG,73,78,RD,Gruber
+128,4,09:41,CAP,73,78,2_Pts_T,Solano
+129,4,09:48,CAP,73,78,RD,Yago
+130,4,09:52,MOG,73,78,2_Pts_T,Fúlvio
+131,4,10:00,NaN,73,78,inicio_quarto,
+132,3,00:00,NaN,73,78,fim_quarto,
+133,3,00:02,MOG,73,78,3_Pts_C,Fúlvio
+134,3,00:04,MOG,73,75,RD,Fúlvio
+135,3,00:08,CAP,73,75,3_Pts_T,Ruivo
+136,3,00:28,MOG,73,75,AS,Gruber
+137,3,00:28,MOG,73,75,2_Pts_C,Lucas
+138,3,00:32,MOG,73,73,RD,Gruber
+139,3,00:35,CAP,73,73,3_Pts_T,Victão
+140,3,00:55,MOG,73,73,AS,Fúlvio
+141,3,00:55,MOG,73,73,LL_Pts_C,Gruber
+142,3,00:55,MOG,73,72,LL_Pts_C,Gruber
+143,3,00:55,MOG,73,71,substituicao_entra,Lucas
+144,3,00:55,MOG,73,71,substituicao_sai,Sanches
+145,3,00:55,CAP,73,71,substituicao_entra,Yago
+146,3,00:55,CAP,73,71,substituicao_sai,Solano
+147,3,00:55,CAP,73,71,substituicao_entra,Victão
+148,3,00:55,CAP,73,71,substituicao_sai,Eddy
+149,3,00:55,MOG,73,71,FR,Gruber
+150,3,00:55,CAP,73,71,FC,Solano
+151,3,01:18,CAP,73,71,EN,Solano
+152,3,01:21,CAP,71,71,BR,Solano
+153,3,01:21,MOG,71,71,ER,Fúlvio
+154,3,01:36,MOG,71,71,BR,Fúlvio
+155,3,01:36,CAP,71,71,ER,Dikembe
+156,3,01:40,CAP,71,71,RO,Dikembe
+157,3,01:43,CAP,71,71,2_Pts_T,Dikembe
+158,3,02:02,MOG,71,71,LL_Pts_C,Gruber
+159,3,02:02,MOG,71,70,substituicao_entra,Sanches
+160,3,02:02,MOG,71,70,substituicao_sai,André Goes
+161,3,02:02,MOG,71,70,substituicao_entra,Colina
+162,3,02:02,MOG,71,70,substituicao_sai,Alexey
+163,3,02:02,CAP,71,70,substituicao_entra,Dikembe
+164,3,02:02,CAP,71,70,substituicao_sai,Maique
+165,3,02:02,MOG,71,70,FR,Gruber
+166,3,02:02,CAP,71,70,FC,Maique
+167,3,02:02,MOG,71,70,AS,Alexey
+168,3,02:02,MOG,71,70,2_Pts_C,Gruber
+169,3,02:15,MOG,71,68,substituicao_entra,Alexey
+170,3,02:15,MOG,71,68,substituicao_sai,Lucas
+171,3,02:15,MOG,71,68,tempo_tecnico,Mogi
+172,3,02:18,CAP,71,68,2_Pts_C,Maique
+173,3,02:22,CAP,69,68,BR,Maique
+174,3,02:22,MOG,69,68,ER,Fúlvio
+175,3,02:38,CAP,69,68,2_Pts_C,Solano
+176,3,02:42,CAP,67,68,BR,Solano
+177,3,02:42,MOG,67,68,ER,Lucas
+178,3,02:48,CAP,67,68,substituicao_entra,Ruivo
+179,3,02:48,CAP,67,68,substituicao_sai,Yago
+180,3,02:48,CAP,67,68,LL_Pts_C,Yago
+181,3,02:48,CAP,66,68,substituicao_entra,Maique
+182,3,02:48,CAP,66,68,substituicao_sai,Victão
+183,3,02:48,CAP,66,68,FR,Yago
+184,3,02:48,MOG,66,68,FC,Fúlvio
+185,3,02:48,CAP,66,68,2_Pts_C,Yago
+186,3,03:02,MOG,64,68,AS,Fúlvio
+187,3,03:02,MOG,64,68,3_Pts_C,Gruber
+188,3,03:19,CAP,64,65,2_Pts_C,D  Coleman
+189,3,03:40,MOG,62,65,AS,André Goes
+190,3,03:40,MOG,62,65,3_Pts_C,Fúlvio
+191,3,03:56,MOG,62,62,BR,Gruber
+192,3,03:56,CAP,62,62,ER,Solano
+193,3,04:00,CAP,62,62,RD,Solano
+194,3,04:05,MOG,62,62,2_Pts_T,Gruber
+195,3,04:16,MOG,62,62,RD,Gruber
+196,3,04:20,CAP,62,62,3_Pts_T,Solano
+197,3,04:50,MOG,62,62,3_Pts_C,Fúlvio
+198,3,05:01,CAP,62,59,LL_Pts_C,Yago
+199,3,05:01,CAP,61,59,LL_Pts_C,Yago
+200,3,05:01,MOG,60,59,substituicao_entra,Lucas
+201,3,05:01,MOG,60,59,substituicao_sai,Alexey
+202,3,05:01,CAP,60,59,FR,Yago
+203,3,05:01,MOG,60,59,FC,Alexey
+204,3,05:05,CAP,60,59,RD,Yago
+205,3,05:08,MOG,60,59,3_Pts_T,André Goes
+206,3,05:33,MOG,60,59,FR,André Goes
+207,3,05:33,CAP,60,59,FC,Victão
+208,3,05:33,MOG,60,59,RD,Mogi
+209,3,05:34,CAP,60,59,3_Pts_T,D  Coleman
+210,3,05:38,CAP,60,59,RD,Eddy
+211,3,05:41,MOG,60,59,2_Pts_T,Lessa
+212,3,05:45,MOG,60,59,RD,Gruber
+213,3,05:45,CAP,60,59,LL_Pts_T,Solano
+214,3,05:45,CAP,60,59,substituicao_entra,Victão
+215,3,05:45,CAP,60,59,substituicao_sai,Dikembe
+216,3,05:45,CAP,60,59,FR,Solano
+217,3,05:45,MOG,60,59,FC,Alexey
+218,3,05:45,CAP,60,59,2_Pts_C,Solano
+219,3,06:00,CAP,58,59,RD,Dikembe
+220,3,06:00,MOG,58,59,LL_Pts_T,Lessa
+221,3,06:00,MOG,58,59,FR,Lessa
+222,3,06:00,CAP,58,59,FC,Solano
+223,3,06:00,MOG,58,59,AS,André Goes
+224,3,06:00,MOG,58,59,2_Pts_C,Lessa
+225,3,06:15,CAP,58,57,AS,Eddy
+226,3,06:15,CAP,58,57,2_Pts_C,D  Coleman
+227,3,06:29,MOG,56,57,substituicao_entra,Lessa
+228,3,06:29,MOG,56,57,substituicao_sai,Colina
+229,3,06:29,CAP,56,57,FR,D  Coleman
+230,3,06:29,MOG,56,57,FC,André Goes
+231,3,06:29,CAP,56,57,RD,D  Coleman
+232,3,06:29,MOG,56,57,2_Pts_T,André Goes
+233,3,06:29,MOG,56,57,RO,André Goes
+234,3,06:32,MOG,56,57,3_Pts_T,Alexey
+235,3,06:35,MOG,56,57,substituicao_entra,Colina
+236,3,06:35,MOG,56,57,substituicao_sai,Lessa
+237,3,06:35,MOG,56,57,RO,Mogi
+238,3,06:35,CAP,56,57,TO,Solano
+239,3,06:35,MOG,56,57,2_Pts_T,Lessa
+240,3,06:52,MOG,56,57,BR,André Goes
+241,3,06:52,CAP,56,57,ER,Eddy
+242,3,06:58,CAP,56,57,BR,D  Coleman
+243,3,06:58,MOG,56,57,ER,Alexey
+244,3,07:03,MOG,56,57,RO,Alexey
+245,3,07:05,MOG,56,57,2_Pts_T,Alexey
+246,3,07:12,MOG,56,57,RD,Alexey
+247,3,07:14,CAP,56,57,3_Pts_T,Eddy
+248,3,07:29,MOG,56,57,AS,Alexey
+249,3,07:29,MOG,56,57,2_Pts_C,Lessa
+250,3,07:35,MOG,56,55,BR,André Goes
+251,3,07:35,CAP,56,55,ER,Dikembe
+252,3,07:46,MOG,56,55,2_Pts_C,Lessa
+253,3,08:02,CAP,56,53,AS,Solano
+254,3,08:02,CAP,56,53,3_Pts_C,Yago
+255,3,08:17,MOG,53,53,ER,Alexey
+256,3,08:18,MOG,53,53,RD,Lessa
+257,3,08:22,CAP,53,53,2_Pts_T,Dikembe
+258,3,08:27,CAP,53,53,BR,Yago
+259,3,08:27,MOG,53,53,ER,André Goes
+260,3,08:38,MOG,53,53,RD,Mogi
+261,3,08:41,CAP,53,53,3_Pts_T,Yago
+262,3,08:57,MOG,53,53,LL_Pts_C,Lessa
+263,3,08:57,MOG,53,52,LL_Pts_C,Lessa
+264,3,08:57,MOG,53,51,FR,Lessa
+265,3,08:57,CAP,53,51,FC,D  Coleman
+266,3,09:08,MOG,53,51,RD,Alexey
+267,3,09:10,CAP,53,51,3_Pts_T,D  Coleman
+268,3,09:17,CAP,53,51,RO,Yago
+269,3,09:17,CAP,53,51,LL_Pts_T,Dikembe
+270,3,09:17,CAP,53,51,LL_Pts_C,Dikembe
+271,3,09:17,CAP,52,51,FR,Dikembe
+272,3,09:17,MOG,52,51,FC,Alexey
+273,3,09:32,CAP,52,51,BR,Dikembe
+274,3,09:32,MOG,52,51,ER,Lessa
+275,3,09:49,CAP,52,51,3_Pts_C,Solano
+276,3,10:00,NaN,49,51,inicio_quarto,
+277,2,00:00,NaN,49,51,fim_quarto,
+278,2,00:01,MOG,49,51,3_Pts_T,Gruber
+279,2,00:01,MOG,49,51,RD,Gruber
+280,2,00:05,CAP,49,51,2_Pts_T,Jonatan
+281,2,00:26,MOG,49,51,substituicao_entra,Colina
+282,2,00:26,MOG,49,51,substituicao_sai,Alexey
+283,2,00:26,MOG,49,51,substituicao_entra,Lessa
+284,2,00:26,MOG,49,51,substituicao_sai,André Goes
+285,2,00:26,CAP,49,51,substituicao_entra,Solano
+286,2,00:26,CAP,49,51,substituicao_sai,Yago
+287,2,00:26,MOG,49,51,LL_Pts_C,André Goes
+288,2,00:26,MOG,49,50,AS,Alexey
+289,2,00:26,MOG,49,50,LL_Pts_C,André Goes
+290,2,00:26,MOG,49,49,FR,André Goes
+291,2,00:26,CAP,49,49,FC,Yago
+292,2,00:38,CAP,49,49,AS,Yago
+293,2,00:38,CAP,49,49,3_Pts_C,Ruivo
+294,2,00:52,CAP,46,49,substituicao_entra,Jonatan
+295,2,00:52,CAP,46,49,substituicao_sai,Dikembe
+296,2,00:52,MOG,46,49,ER,
+297,2,00:53,MOG,46,49,RO,Fúlvio
+298,2,00:58,MOG,46,49,2_Pts_T,Gruber
+299,2,01:20,CAP,46,49,AS,Yago
+300,2,01:20,CAP,46,49,2_Pts_C,D  Coleman
+301,2,01:35,MOG,44,49,LL_Pts_C,Alexey
+302,2,01:35,MOG,44,48,LL_Pts_T,Alexey
+303,2,01:35,MOG,44,48,FR,Alexey
+304,2,01:35,CAP,44,48,FC,Dikembe
+305,2,01:35,CAP,44,48,RO,Ruivo
+306,2,01:38,CAP,44,48,3_Pts_T,Eddy
+307,2,01:43,CAP,44,48,FR,D  Coleman
+308,2,01:43,MOG,44,48,FC,Alexey
+309,2,01:58,MOG,44,48,2_Pts_C,Gruber
+310,2,02:15,MOG,44,46,substituicao_entra,Lucas
+311,2,02:15,MOG,44,46,substituicao_sai,Colina
+312,2,02:15,CAP,44,46,substituicao_entra,Yago
+313,2,02:15,CAP,44,46,substituicao_sai,Solano
+314,2,02:15,CAP,44,46,ER,Ruivo
+315,2,02:17,CAP,44,46,RD,Ruivo
+316,2,02:20,MOG,44,46,3_Pts_T,Colina
+317,2,02:36,CAP,44,46,AS,Solano
+318,2,02:36,CAP,44,46,3_Pts_C,D  Coleman
+319,2,02:47,CAP,41,46,RD,D  Coleman
+320,2,02:51,MOG,41,46,2_Pts_T,Gruber
+321,2,03:06,MOG,41,46,tempo_tecnico,Mogi
+322,2,03:06,CAP,41,46,AS,D  Coleman
+323,2,03:06,CAP,41,46,3_Pts_C,Eddy
+324,2,03:06,CAP,38,46,BR,Dikembe
+325,2,03:06,MOG,38,46,ER,Gruber
+326,2,03:17,MOG,38,46,RO,Fúlvio
+327,2,03:25,MOG,38,46,2_Pts_T,Gruber
+328,2,03:27,MOG,38,46,RD,Colina
+329,2,03:32,CAP,38,46,2_Pts_T,D  Coleman
+330,2,03:37,CAP,38,46,BR,Ruivo
+331,2,03:37,MOG,38,46,ER,André Goes
+332,2,03:51,MOG,38,46,RD,André Goes
+333,2,03:54,CAP,38,46,3_Pts_T,Ruivo
+334,2,04:13,MOG,38,46,AS,Alexey
+335,2,04:13,MOG,38,46,3_Pts_C,Gruber
+336,2,04:31,MOG,38,43,RD,André Goes
+337,2,04:34,CAP,38,43,3_Pts_T,Eddy
+338,2,04:39,CAP,38,43,RD,Dikembe
+339,2,04:42,MOG,38,43,2_Pts_T,Alexey
+340,2,05:01,CAP,38,43,2_Pts_C,Dikembe
+341,2,05:01,CAP,36,43,RO,Dikembe
+342,2,05:05,CAP,36,43,2_Pts_T,Dikembe
+343,2,05:19,CAP,36,43,RD,Dikembe
+344,2,05:22,MOG,36,43,3_Pts_T,Colina
+345,2,05:40,MOG,36,43,substituicao_entra,Fúlvio
+346,2,05:40,MOG,36,43,substituicao_sai,Lucas
+347,2,05:46,CAP,36,43,LL_Pts_C,Eddy
+348,2,05:46,CAP,35,43,LL_Pts_C,Eddy
+349,2,05:46,CAP,34,43,FR,Eddy
+350,2,05:46,MOG,34,43,FC,Colina
+351,2,05:46,CAP,34,43,RO,Eddy
+352,2,05:48,CAP,34,43,3_Pts_T,D  Coleman
+353,2,05:51,CAP,34,43,RD,Ruivo
+354,2,05:54,MOG,34,43,3_Pts_T,Gruber
+355,2,06:09,MOG,34,43,tempo_tecnico,Mogi
+356,2,06:09,CAP,34,43,AS,Solano
+357,2,06:09,CAP,34,43,3_Pts_C,D  Coleman
+358,2,06:18,CAP,31,43,BR,Solano
+359,2,06:18,MOG,31,43,ER,Alexey
+360,2,06:37,CAP,31,43,AS,Ruivo
+361,2,06:37,CAP,31,43,2_Pts_C,Dikembe
+362,2,06:51,CAP,29,43,RD,Dikembe
+363,2,06:51,MOG,29,43,LL_Pts_T,Gruber
+364,2,06:51,MOG,29,43,substituicao_entra,Lucas
+365,2,06:51,MOG,29,43,substituicao_sai,Fúlvio
+366,2,06:51,MOG,29,43,FR,Gruber
+367,2,06:51,CAP,29,43,FC,Dikembe
+368,2,06:51,MOG,29,43,2_Pts_C,Gruber
+369,2,06:57,MOG,29,41,RD,Alexey
+370,2,07:00,CAP,29,41,3_Pts_T,Eddy
+371,2,07:10,MOG,29,41,AS,André Goes
+372,2,07:10,MOG,29,41,2_Pts_C,Alexey
+373,2,07:16,CAP,29,39,substituicao_entra,Dikembe
+374,2,07:16,CAP,29,39,substituicao_sai,Maique
+375,2,07:16,MOG,29,39,FR,Fúlvio
+376,2,07:16,CAP,29,39,FC,Maique
+377,2,07:22,MOG,29,39,substituicao_entra,Colina
+378,2,07:22,MOG,29,39,substituicao_sai,Lucas
+379,2,07:22,MOG,29,39,FR,Gruber
+380,2,07:22,CAP,29,39,FC,Maique
+381,2,07:36,CAP,29,39,AS,Ruivo
+382,2,07:36,CAP,29,39,3_Pts_C,Eddy
+383,2,07:57,CAP,26,39,substituicao_entra,Maique
+384,2,07:57,CAP,26,39,substituicao_sai,Dikembe
+385,2,07:57,CAP,26,39,substituicao_entra,Solano
+386,2,07:57,CAP,26,39,substituicao_sai,Beto
+387,2,07:57,CAP,26,39,substituicao_entra,D  Coleman
+388,2,07:57,CAP,26,39,substituicao_sai,Yago
+389,2,07:57,CAP,26,39,tempo_tecnico,Paulistano
+390,2,07:57,MOG,26,39,2_Pts_C,André Goes
+391,2,07:57,MOG,26,37,RO,André Goes
+392,2,07:57,MOG,26,37,2_Pts_T,Gruber
+393,2,07:58,MOG,26,37,RO,Gruber
+394,2,08:03,MOG,26,37,3_Pts_T,Lucas
+395,2,08:15,MOG,26,37,RD,André Goes
+396,2,08:18,CAP,26,37,3_Pts_T,Eddy
+397,2,08:23,CAP,26,37,RD,Ruivo
+398,2,08:27,MOG,26,37,3_Pts_T,Fúlvio
+399,2,08:33,MOG,26,37,BR,André Goes
+400,2,08:33,CAP,26,37,ER,Dikembe
+401,2,08:51,MOG,26,37,AS,André Goes
+402,2,08:51,MOG,26,37,3_Pts_C,Fúlvio
+403,2,09:05,MOG,26,34,BR,Fúlvio
+404,2,09:05,CAP,26,34,ER,Yago
+405,2,09:12,MOG,26,34,AS,André Goes
+406,2,09:12,MOG,26,34,3_Pts_C,Fúlvio
+407,2,09:22,MOG,26,31,FR,Fúlvio
+408,2,09:22,CAP,26,31,FC,Ruivo
+409,2,09:36,CAP,26,31,LL_Pts_C,Dikembe
+410,2,09:36,CAP,25,31,AS,Yago
+411,2,09:36,CAP,25,31,LL_Pts_C,Dikembe
+412,2,09:36,MOG,24,31,substituicao_entra,Lucas
+413,2,09:36,MOG,24,31,substituicao_sai,Colina
+414,2,09:36,CAP,24,31,FR,Dikembe
+415,2,09:36,MOG,24,31,FC,André Goes
+416,2,09:43,CAP,24,31,RD,Ruivo
+417,2,09:46,MOG,24,31,3_Pts_T,Colina
+418,2,10:00,NaN,24,31,inicio_quarto,
+419,1,00:00,NaN,24,31,fim_quarto,
+420,1,00:01,MOG,24,31,3_Pts_T,Alexey
+421,1,00:08,CAP,24,31,AS,Ruivo
+422,1,00:08,CAP,24,31,3_Pts_C,Yago
+423,1,00:12,CAP,21,31,RD,Dikembe
+424,1,00:12,MOG,21,31,LL_Pts_T,Fúlvio
+425,1,00:12,MOG,21,31,LL_Pts_C,Fúlvio
+426,1,00:12,MOG,21,30,AS,Alexey
+427,1,00:12,MOG,21,30,LL_Pts_C,Fúlvio
+428,1,00:12,MOG,21,29,substituicao_entra,Gruber
+429,1,00:12,MOG,21,29,substituicao_sai,Colina
+430,1,00:12,CAP,21,29,substituicao_entra,Beto
+431,1,00:12,CAP,21,29,substituicao_sai,Solano
+432,1,00:12,MOG,21,29,FR,Fúlvio
+433,1,00:12,CAP,21,29,FC,Eddy
+434,1,00:33,CAP,21,29,AS,Yago
+435,1,00:33,CAP,21,29,EN,Dikembe
+436,1,00:52,MOG,19,29,AS,Colina
+437,1,00:52,MOG,19,29,3_Pts_C,Fúlvio
+438,1,01:03,MOG,19,26,RD,Colina
+439,1,01:06,CAP,19,26,3_Pts_T,Solano
+440,1,01:25,MOG,19,26,AS,André Goes
+441,1,01:25,MOG,19,26,3_Pts_C,Fúlvio
+442,1,01:37,CAP,19,23,AS,Ruivo
+443,1,01:37,CAP,19,23,3_Pts_C,Eddy
+444,1,01:50,CAP,16,23,RO,Paulistano
+445,1,01:50,CAP,16,23,2_Pts_T,Eddy
+446,1,02:03,MOG,16,23,LL_Pts_C,André Goes
+447,1,02:03,MOG,16,22,LL_Pts_C,André Goes
+448,1,02:03,MOG,16,21,substituicao_entra,Lucas
+449,1,02:03,MOG,16,21,substituicao_sai,Gruber
+450,1,02:03,MOG,16,21,FR,André Goes
+451,1,02:03,CAP,16,21,FC,Solano
+452,1,02:20,CAP,16,21,AS,Yago
+453,1,02:20,CAP,16,21,3_Pts_C,Eddy
+454,1,02:42,MOG,13,21,2_Pts_C,Fúlvio
+455,1,02:59,MOG,13,19,RD,Alexey
+456,1,03:03,CAP,13,19,2_Pts_T,Dikembe
+457,1,03:04,CAP,13,19,RD,Yago
+458,1,03:07,MOG,13,19,2_Pts_T,Fúlvio
+459,1,03:24,MOG,13,19,RD,Alexey
+460,1,03:28,CAP,13,19,3_Pts_T,Yago
+461,1,03:34,MOG,13,19,substituicao_entra,Alexey
+462,1,03:34,MOG,13,19,substituicao_sai,Lucas
+463,1,03:34,CAP,13,19,substituicao_entra,Dikembe
+464,1,03:34,CAP,13,19,substituicao_sai,Maique
+465,1,03:34,CAP,13,19,substituicao_entra,Eddy
+466,1,03:34,CAP,13,19,substituicao_sai,D  Coleman
+467,1,03:37,CAP,13,19,FR,Solano
+468,1,03:37,MOG,13,19,FC,Lucas
+469,1,03:46,CAP,13,19,RD,Solano
+470,1,03:51,MOG,13,19,3_Pts_T,Gruber
+471,1,04:01,MOG,13,19,BR,Fúlvio
+472,1,04:01,CAP,13,19,ER,D  Coleman
+473,1,04:12,MOG,13,19,AS,Gruber
+474,1,04:12,MOG,13,19,3_Pts_C,Colina
+475,1,04:19,MOG,13,16,BR,Gruber
+476,1,04:19,CAP,13,16,ER,Yago
+477,1,04:20,MOG,13,16,LL_Pts_C,Gruber
+478,1,04:20,MOG,13,15,LL_Pts_C,Gruber
+479,1,04:20,MOG,13,14,FR,Gruber
+480,1,04:20,CAP,13,14,FC,Maique
+481,1,04:32,MOG,13,14,substituicao_entra,Fúlvio
+482,1,04:32,MOG,13,14,substituicao_sai,Alexey
+483,1,04:32,CAP,13,14,substituicao_entra,Ruivo
+484,1,04:32,CAP,13,14,substituicao_sai,Victão
+485,1,04:32,CAP,13,14,tempo_tecnico,Paulistano
+486,1,04:32,MOG,13,14,FR,André Goes
+487,1,04:32,CAP,13,14,FC,Victão
+488,1,04:34,MOG,13,14,BR,André Goes
+489,1,04:34,CAP,13,14,ER,Solano
+490,1,04:51,MOG,13,14,AS,Alexey
+491,1,04:51,MOG,13,14,3_Pts_C,Gruber
+492,1,05:13,CAP,13,11,3_Pts_C,D  Coleman
+493,1,05:32,MOG,10,11,substituicao_entra,Colina
+494,1,05:32,MOG,10,11,substituicao_sai,Lessa
+495,1,05:32,MOG,10,11,ER,Alexey
+496,1,05:45,MOG,10,11,RD,André Goes
+497,1,05:48,CAP,10,11,3_Pts_T,Yago
+498,1,06:02,CAP,10,11,FR,Yago
+499,1,06:02,MOG,10,11,FC,Lessa
+500,1,06:04,MOG,10,11,LL_Pts_C,Lessa
+501,1,06:04,MOG,10,10,FR,Lessa
+502,1,06:04,CAP,10,10,FC,Yago
+503,1,06:04,MOG,10,10,AS,Lucas
+504,1,06:04,MOG,10,10,2_Pts_C,Lessa
+505,1,06:06,MOG,10,8,RD,Lucas
+506,1,06:10,CAP,10,8,3_Pts_T,Yago
+507,1,06:29,MOG,10,8,3_Pts_C,André Goes
+508,1,06:55,CAP,10,5,AS,Victão
+509,1,06:55,CAP,10,5,3_Pts_C,D  Coleman
+510,1,07:07,MOG,7,5,LL_Pts_C,Lessa
+511,1,07:07,MOG,7,4,FR,Lessa
+512,1,07:07,CAP,7,4,FC,D  Coleman
+513,1,07:07,MOG,7,4,2_Pts_C,Lessa
+514,1,07:21,CAP,7,2,2_Pts_C,Solano
+515,1,07:32,MOG,5,2,LL_Pts_C,André Goes
+516,1,07:32,MOG,5,1,LL_Pts_C,André Goes
+517,1,07:32,MOG,5,0,FR,André Goes
+518,1,07:32,CAP,5,0,FC,Victão
+519,1,07:35,MOG,5,0,RD,Lucas
+520,1,07:38,CAP,5,0,3_Pts_T,Victão
+521,1,07:48,CAP,5,0,RD,D  Coleman
+522,1,07:51,MOG,5,0,3_Pts_T,André Goes
+523,1,07:59,MOG,5,0,BR,Gruber
+524,1,07:59,CAP,5,0,ER,Maique
+525,1,08:05,CAP,5,0,BR,Maique
+526,1,08:05,MOG,5,0,ER,Gruber
+527,1,08:27,CAP,5,0,AS,Yago
+528,1,08:27,CAP,5,0,3_Pts_C,Victão
+529,1,08:33,CAP,2,0,RD,Yago
+530,1,08:39,MOG,2,0,2_Pts_T,Alexey
+531,1,08:56,CAP,2,0,2_Pts_C,Solano
+532,1,09:14,CAP,0,0,FR,Yago
+533,1,09:14,MOG,0,0,FC,Lessa
+534,1,09:14,CAP,0,0,RD,Solano
+535,1,09:16,MOG,0,0,3_Pts_T,Lucas
+536,1,09:23,MOG,0,0,RD,Gruber
+537,1,09:28,CAP,0,0,2_Pts_T,Solano
+538,1,09:44,CAP,0,0,RD,Maique
+539,1,09:47,MOG,0,0,2_Pts_T,Gruber
+540,1,10:00,MOG,0,0,substituicao_entra,André Goes
+541,1,10:00,MOG,0,0,substituicao_entra,Lessa
+542,1,10:00,MOG,0,0,substituicao_entra,Gruber
+543,1,10:00,MOG,0,0,substituicao_entra,Alexey
+544,1,10:00,MOG,0,0,substituicao_entra,Lucas
+545,1,10:00,CAP,0,0,substituicao_entra,Maique
+546,1,10:00,CAP,0,0,substituicao_entra,Victão
+547,1,10:00,CAP,0,0,substituicao_entra,D  Coleman
+548,1,10:00,CAP,0,0,substituicao_entra,Yago
+549,1,10:00,CAP,0,0,substituicao_entra,Solano
+550,1,10:00,NaN,0,0,inicio_partida,

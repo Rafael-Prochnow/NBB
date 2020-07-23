@@ -1,0 +1,575 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,95,85,fim_partida,
+1,4,00:00,NaN,95,85,fim_quarto, 
+2,4,00:01,MIN,95,85,RD,Wesley
+3,4,00:01,CEA,95,85,3_Pts_T,Paulinho
+4,4,00:06,MIN,95,85,AS,Wesley
+5,4,00:06,MIN,95,85,2_Pts_C,Leandrinho
+6,4,00:09,MIN,93,85,RD,Wesley
+7,4,00:09,CEA,93,85,3_Pts_T,Felipe
+8,4,00:18,MIN,93,85,LL_Pts_C,Wesley
+9,4,00:18,MIN,92,85,LL_Pts_C,Wesley
+10,4,00:18,MIN,91,85,FR,Wesley
+11,4,00:18,CEA,91,85,FC,Felipe
+12,4,00:19,MIN,91,85,RD,Wesley
+13,4,00:19,CEA,91,85,3_Pts_T,Sualisson
+14,4,00:26,MIN,91,85,LL_Pts_C,Gegê
+15,4,00:26,MIN,90,85,LL_Pts_C,Gegê
+16,4,00:26,MIN,89,85,FR,Gegê
+17,4,00:26,CEA,89,85,FC,Brite
+18,4,00:28,CEA,89,85,substituicao_entra,Sualisson
+19,4,00:28,CEA,89,85,substituicao_sai,Kurtz
+20,4,00:28,CEA,89,85,substituicao_entra,Paulinho
+21,4,00:28,CEA,89,85,substituicao_sai,Gabriel
+22,4,00:28,CEA,89,85,substituicao_entra,Brite
+23,4,00:28,CEA,89,85,substituicao_sai,Léo W 
+24,4,00:28,MIN,89,85,tempo_tecnico,Minas
+25,4,00:28,CEA,89,85,2_Pts_C,Paulo
+26,4,00:29,CEA,89,83,BR,Paulo
+27,4,00:29,MIN,89,83,ER,Jefferson
+28,4,00:32,CEA,89,83,LL_Pts_C,Felipe
+29,4,00:32,CEA,89,82,LL_Pts_C,Felipe
+30,4,00:32,CEA,89,81,FR,Felipe
+31,4,00:32,MIN,89,81,FC,Jefferson
+32,4,00:33,CEA,89,81,RO,Felipe
+33,4,00:34,CEA,89,81,LL_Pts_T,Kurtz
+34,4,00:34,CEA,89,81,substituicao_entra,Gabriel
+35,4,00:34,CEA,89,81,substituicao_sai,Rashaun
+36,4,00:34,CEA,89,81,substituicao_entra,Léo W 
+37,4,00:34,CEA,89,81,substituicao_sai,Paulinho
+38,4,00:34,MIN,89,81,substituicao_entra,Wesley
+39,4,00:34,MIN,89,81,substituicao_sai,Leonardo
+40,4,00:34,CEA,89,81,FR,Kurtz
+41,4,00:34,MIN,89,81,FC,Leonardo
+42,4,00:34,CEA,89,81,AS,Paulinho
+43,4,00:34,CEA,89,81,EN,Kurtz
+44,4,00:35,CEA,89,79,RD,Paulinho
+45,4,00:39,MIN,89,79,3_Pts_T,Leandrinho
+46,4,00:58,MIN,89,79,RD,Leonardo
+47,4,01:02,CEA,89,79,2_Pts_T,Paulinho
+48,4,01:03,CEA,89,79,RD,Rashaun
+49,4,01:07,MIN,89,79,2_Pts_T,D  Coleman
+50,4,01:31,CEA,89,79,substituicao_entra,Paulo
+51,4,01:31,CEA,89,79,substituicao_sai,Alex
+52,4,01:31,MIN,89,79,tempo_tecnico,Minas
+53,4,01:31,CEA,89,79,2_Pts_C,Felipe
+54,4,01:31,CEA,89,77,RO,Felipe
+55,4,01:33,CEA,89,77,3_Pts_T,Paulinho
+56,4,01:40,CEA,89,77,BR,Rashaun
+57,4,01:40,MIN,89,77,ER,Leonardo
+58,4,01:44,CEA,89,77,2_Pts_C,Paulinho
+59,4,01:51,MIN,89,75,AS,Gegê
+60,4,01:51,MIN,89,75,LL_Pts_C,Leonardo
+61,4,01:51,MIN,88,75,LL_Pts_T,Leonardo
+62,4,01:51,MIN,88,75,FR,Leonardo
+63,4,01:51,CEA,88,75,FC,Kurtz
+64,4,02:19,MIN,88,75,FR,Leonardo
+65,4,02:19,CEA,88,75,FC,Felipe
+66,4,02:21,MIN,88,75,RD,Leonardo
+67,4,02:21,MIN,88,75,TO,Leonardo
+68,4,02:21,CEA,88,75,2_Pts_T,Felipe
+69,4,02:35,MIN,88,75,AS,Gegê
+70,4,02:35,MIN,88,75,3_Pts_C,Jefferson
+71,4,02:45,CEA,85,75,LL_Pts_C,Rashaun
+72,4,02:45,CEA,85,74,LL_Pts_T,Rashaun
+73,4,02:45,CEA,85,74,FR,Rashaun
+74,4,02:45,MIN,85,74,FC,Jefferson
+75,4,02:59,MIN,85,74,2_Pts_C,Leandrinho
+76,4,03:18,CEA,83,74,LL_Pts_C,Alex
+77,4,03:18,CEA,83,73,LL_Pts_C,Alex
+78,4,03:18,CEA,83,72,FR,Alex
+79,4,03:18,MIN,83,72,FC,Leandrinho
+80,4,03:33,CEA,83,72,tempo_tecnico,Basq  Cearense
+81,4,03:33,MIN,83,72,AS,Gegê
+82,4,03:33,MIN,83,72,2_Pts_C,Leandrinho
+83,4,03:36,MIN,81,72,BR,Leandrinho
+84,4,03:36,CEA,81,72,ER,Rashaun
+85,4,03:53,CEA,81,72,FR,Paulinho
+86,4,03:53,MIN,81,72,FC,Gegê
+87,4,03:56,CEA,81,72,RD,Rashaun
+88,4,04:00,MIN,81,72,2_Pts_T,Leandrinho
+89,4,04:16,CEA,81,72,LL_Pts_C,Paulinho
+90,4,04:16,CEA,81,71,LL_Pts_C,Paulinho
+91,4,04:16,CEA,81,70,FR,Paulinho
+92,4,04:16,MIN,81,70,FC,D  Coleman
+93,4,04:24,CEA,81,70,RD,Kurtz
+94,4,04:27,MIN,81,70,3_Pts_T,D  Coleman
+95,4,04:36,MIN,81,70,RO,Jefferson
+96,4,04:39,MIN,81,70,3_Pts_T,Gegê
+97,4,04:48,MIN,81,70,FR,D  Coleman
+98,4,04:48,CEA,81,70,FC,Alex
+99,4,05:01,MIN,81,70,BR,Jefferson
+100,4,05:01,CEA,81,70,ER,Paulinho
+101,4,05:16,MIN,81,70,AS,Gegê
+102,4,05:16,MIN,81,70,3_Pts_C,D  Coleman
+103,4,05:29,MIN,78,70,RD,Leonardo
+104,4,05:32,CEA,78,70,3_Pts_T,Rashaun
+105,4,05:52,CEA,78,70,tempo_tecnico,Basq  Cearense
+106,4,05:52,MIN,78,70,AS,Gegê
+107,4,05:52,MIN,78,70,2_Pts_C,D  Coleman
+108,4,06:05,MIN,76,70,RD,Jefferson
+109,4,06:10,MIN,76,70,TO,Leonardo
+110,4,06:10,CEA,76,70,3_Pts_T,Alex
+111,4,06:32,CEA,76,70,FR,Paulinho
+112,4,06:32,MIN,76,70,ER,Leandrinho
+113,4,06:32,MIN,76,70,FC_O,Leandrinho
+114,4,06:36,MIN,76,70,BR,Jefferson
+115,4,06:36,CEA,76,70,ER,Felipe
+116,4,06:42,CEA,76,70,substituicao_entra,Rashaun
+117,4,06:42,CEA,76,70,substituicao_sai,Brite
+118,4,06:42,CEA,76,70,FR,Paulinho
+119,4,06:42,MIN,76,70,FC,Jefferson
+120,4,06:56,CEA,76,70,RD,Kurtz
+121,4,06:58,MIN,76,70,3_Pts_T,D  Coleman
+122,4,07:03,MIN,76,70,RD,Jefferson
+123,4,07:08,MIN,76,70,TO,Leonardo
+124,4,07:08,CEA,76,70,2_Pts_T,Kurtz
+125,4,07:28,CEA,76,70,RD,Felipe
+126,4,07:31,MIN,76,70,3_Pts_T,Jefferson
+127,4,07:36,MIN,76,70,RD,Leonardo
+128,4,07:39,CEA,76,70,2_Pts_T,Brite
+129,4,07:46,MIN,76,70,LL_Pts_C,Leandrinho
+130,4,07:46,MIN,75,70,LL_Pts_C,Leandrinho
+131,4,07:46,MIN,74,70,AS,Gegê
+132,4,07:46,MIN,74,70,LL_Pts_C,Leandrinho
+133,4,07:46,CEA,73,70,substituicao_entra,Kurtz
+134,4,07:46,CEA,73,70,substituicao_sai,B  Fiorotto
+135,4,07:46,CEA,73,70,substituicao_entra,Alex
+136,4,07:46,CEA,73,70,substituicao_sai,Sualisson
+137,4,07:46,CEA,73,70,substituicao_entra,Felipe
+138,4,07:46,CEA,73,70,substituicao_sai,Paulo
+139,4,07:46,MIN,73,70,FR,Leandrinho
+140,4,07:46,CEA,73,70,FC,Sualisson
+141,4,07:47,MIN,73,70,BR,Gegê
+142,4,07:47,CEA,73,70,ER,Paulinho
+143,4,07:49,MIN,73,70,2_Pts_C,Leandrinho
+144,4,07:50,MIN,71,70,RO,Leandrinho
+145,4,07:55,MIN,71,70,3_Pts_T,Leandrinho
+146,4,08:21,MIN,71,70,LL_Pts_C,Leandrinho
+147,4,08:21,MIN,70,70,substituicao_entra,Gegê
+148,4,08:21,MIN,70,70,substituicao_sai,Lucas
+149,4,08:21,MIN,70,70,substituicao_entra,Leonardo
+150,4,08:21,MIN,70,70,substituicao_sai,Paranhos
+151,4,08:21,CEA,70,70,FC_T,Técnico do Basq  Cearense
+152,4,08:23,MIN,70,70,RD,Paranhos
+153,4,08:24,CEA,70,70,2_Pts_T,B  Fiorotto
+154,4,08:45,CEA,70,70,BR,Sualisson
+155,4,08:45,MIN,70,70,ER,Lucas
+156,4,08:49,CEA,70,70,2_Pts_C,Sualisson
+157,4,08:49,CEA,70,68,RO,Sualisson
+158,4,08:53,CEA,70,68,2_Pts_T,Paulinho
+159,4,09:12,MIN,70,68,AS,Lucas
+160,4,09:12,MIN,70,68,2_Pts_C,Paranhos
+161,4,09:23,MIN,68,68,RO,Lucas
+162,4,09:27,MIN,68,68,3_Pts_T,Jefferson
+163,4,09:46,CEA,68,68,3_Pts_C,Paulinho
+164,4,10:00,NaN,68,65,inicio_quarto,
+165,3,00:00,NaN,68,65,fim_quarto,
+166,3,00:03,CEA,68,65,EN,Sualisson
+167,3,00:03,CEA,68,63,RO,Sualisson
+168,3,00:03,CEA,68,63,2_Pts_T,B  Fiorotto
+169,3,00:28,MIN,68,63,3_Pts_C,Jefferson
+170,3,00:38,MIN,65,63,RO,Lucas
+171,3,00:42,MIN,65,63,3_Pts_T,D  Coleman
+172,3,01:06,CEA,65,63,AS,Paulinho
+173,3,01:06,CEA,65,63,2_Pts_C,Brite
+174,3,01:27,MIN,65,61,AS,Leandrinho
+175,3,01:27,MIN,65,61,LL_Pts_C,Paranhos
+176,3,01:27,MIN,64,61,LL_Pts_T,Paranhos
+177,3,01:27,MIN,64,61,substituicao_entra,Jefferson
+178,3,01:27,MIN,64,61,substituicao_sai,Wesley
+179,3,01:27,MIN,64,61,FR,Paranhos
+180,3,01:27,CEA,64,61,FC,Paulo
+181,3,01:35,MIN,64,61,RO,Leandrinho
+182,3,01:38,MIN,64,61,3_Pts_T,Wesley
+183,3,02:07,CEA,64,61,AS,Sualisson
+184,3,02:07,CEA,64,61,3_Pts_C,Paulinho
+185,3,02:26,CEA,64,58,RD,Basq  Cearense
+186,3,02:26,MIN,64,58,3_Pts_T,Lucas
+187,3,02:42,MIN,64,58,RD,Paranhos
+188,3,02:44,CEA,64,58,LL_Pts_T,B  Fiorotto
+189,3,02:44,CEA,64,58,AS,Paulo
+190,3,02:44,CEA,64,58,LL_Pts_C,B  Fiorotto
+191,3,02:44,CEA,64,57,substituicao_entra,Paulinho
+192,3,02:44,CEA,64,57,substituicao_sai,Rashaun
+193,3,02:44,CEA,64,57,FR,B  Fiorotto
+194,3,02:44,MIN,64,57,FC,Lucas
+195,3,03:04,MIN,64,57,LL_Pts_C,D  Coleman
+196,3,03:04,MIN,63,57,substituicao_entra,Lucas
+197,3,03:04,MIN,63,57,substituicao_sai,Gegê
+198,3,03:04,MIN,63,57,FR,D  Coleman
+199,3,03:04,CEA,63,57,FC,Sualisson
+200,3,03:04,MIN,63,57,AS,Wesley
+201,3,03:04,MIN,63,57,2_Pts_C,D  Coleman
+202,3,03:11,CEA,61,57,LL_Pts_C,Sualisson
+203,3,03:11,CEA,61,56,LL_Pts_C,Sualisson
+204,3,03:11,CEA,61,55,FR,Sualisson
+205,3,03:11,MIN,61,55,FC,Wesley
+206,3,03:12,CEA,61,55,RD,Sualisson
+207,3,03:12,MIN,61,55,2_Pts_T,Paranhos
+208,3,03:12,MIN,61,55,RO,Paranhos
+209,3,03:13,MIN,61,55,2_Pts_T,Wesley
+210,3,03:24,CEA,61,55,substituicao_entra,Paulo
+211,3,03:24,CEA,61,55,substituicao_sai,Alex
+212,3,03:24,CEA,61,55,substituicao_entra,Brite
+213,3,03:24,CEA,61,55,substituicao_sai,Paulinho
+214,3,03:24,MIN,61,55,FR,Gegê
+215,3,03:24,CEA,61,55,FC,Paulinho
+216,3,03:24,MIN,61,55,RD,D  Coleman
+217,3,03:28,CEA,61,55,3_Pts_T,Paulinho
+218,3,03:33,CEA,61,55,RD,Sualisson
+219,3,03:36,MIN,61,55,2_Pts_T,Wesley
+220,3,03:53,MIN,61,55,FR,Paranhos
+221,3,03:53,CEA,61,55,FC,B  Fiorotto
+222,3,04:06,CEA,61,55,3_Pts_C,Paulinho
+223,3,04:09,CEA,61,52,substituicao_entra,B  Fiorotto
+224,3,04:09,CEA,61,52,substituicao_sai,Kurtz
+225,3,04:09,CEA,61,52,FR,Kurtz
+226,3,04:09,MIN,61,52,FC,Paranhos
+227,3,04:24,MIN,61,52,AS,Gegê
+228,3,04:24,MIN,61,52,2_Pts_C,Paranhos
+229,3,04:28,MIN,59,52,RD,Wesley
+230,3,04:31,CEA,59,52,3_Pts_T,Rashaun
+231,3,04:32,CEA,59,52,RO,Paulinho
+232,3,04:33,CEA,59,52,2_Pts_T,Kurtz
+233,3,04:33,CEA,59,52,RO,Kurtz
+234,3,04:37,CEA,59,52,2_Pts_T,Paulinho
+235,3,04:47,CEA,59,52,RD,Rashaun
+236,3,04:50,MIN,59,52,3_Pts_T,Wesley
+237,3,05:05,CEA,59,52,ER,Alex
+238,3,05:12,MIN,59,52,AS,Gegê
+239,3,05:12,MIN,59,52,3_Pts_C,D  Coleman
+240,3,05:30,CEA,56,52,LL_Pts_C,Paulinho
+241,3,05:30,MIN,56,51,ER,Wesley
+242,3,05:30,MIN,56,51,FC_T,Wesley
+243,3,05:31,CEA,56,51,AS,Alex
+244,3,05:31,CEA,56,51,3_Pts_C,Rashaun
+245,3,05:40,CEA,56,48,RO,Sualisson
+246,3,05:43,CEA,56,48,2_Pts_T,Paulinho
+247,3,05:54,CEA,56,48,RD,Sualisson
+248,3,05:58,MIN,56,48,3_Pts_T,D  Coleman
+249,3,06:07,MIN,56,48,BR,Paranhos
+250,3,06:07,CEA,56,48,ER,Alex
+251,3,06:12,MIN,56,48,substituicao_entra,Paranhos
+252,3,06:12,MIN,56,48,substituicao_sai,Leonardo
+253,3,06:24,CEA,56,48,RD,Kurtz
+254,3,06:27,MIN,56,48,3_Pts_T,Wesley
+255,3,06:35,MIN,56,48,BR,Leonardo
+256,3,06:35,CEA,56,48,ER,Paulinho
+257,3,06:53,MIN,56,48,AS,Wesley
+258,3,06:53,MIN,56,48,3_Pts_C,Gegê
+259,3,06:54,MIN,53,48,RO,Leandrinho
+260,3,06:59,MIN,53,48,2_Pts_T,Leandrinho
+261,3,07:14,CEA,53,48,AS,Alex
+262,3,07:14,CEA,53,48,2_Pts_C,Sualisson
+263,3,07:25,CEA,53,46,FR,Sualisson
+264,3,07:25,MIN,53,46,FC,Leonardo
+265,3,07:31,CEA,53,46,substituicao_entra,Sualisson
+266,3,07:31,CEA,53,46,substituicao_sai,Felipe
+267,3,07:31,CEA,53,46,tempo_tecnico,Basq  Cearense
+268,3,07:31,MIN,53,46,AS,Gegê
+269,3,07:31,MIN,53,46,2_Pts_C,Leandrinho
+270,3,07:35,MIN,51,46,BR,Leonardo
+271,3,07:35,CEA,51,46,ER,Felipe
+272,3,07:53,MIN,51,46,2_Pts_C,Leandrinho
+273,3,08:03,CEA,49,46,2_Pts_C,Felipe
+274,3,08:25,MIN,49,44,AS,Gegê
+275,3,08:25,MIN,49,44,2_Pts_C,Leandrinho
+276,3,08:26,MIN,47,44,BR,Gegê
+277,3,08:26,CEA,47,44,ER,Rashaun
+278,3,08:30,CEA,47,44,FR,Kurtz
+279,3,08:30,MIN,47,44,FC,Leonardo
+280,3,08:42,CEA,47,44,RD,Kurtz
+281,3,08:43,MIN,47,44,LL_Pts_T,Wesley
+282,3,08:43,MIN,47,44,FR,Wesley
+283,3,08:43,CEA,47,44,FC,Felipe
+284,3,08:43,MIN,47,44,AS,Gegê
+285,3,08:43,MIN,47,44,2_Pts_C,Wesley
+286,3,08:52,MIN,45,44,FR,Leandrinho
+287,3,08:52,CEA,45,44,FC,Paulinho
+288,3,08:56,MIN,45,44,RD,D  Coleman
+289,3,09:00,CEA,45,44,2_Pts_T,Felipe
+290,3,09:17,MIN,45,44,ER,Leandrinho
+291,3,09:25,MIN,45,44,RD,Leonardo
+292,3,09:28,CEA,45,44,3_Pts_T,Alex
+293,3,09:43,CEA,45,44,RD,Basq  Cearense
+294,3,09:43,CEA,45,44,TO,Felipe
+295,3,09:43,MIN,45,44,2_Pts_T,D  Coleman
+296,3,10:00,NaN,45,44,inicio_quarto,
+297,2,00:00,NaN,45,44,fim_quarto,
+298,2,00:02,CEA,45,44,2_Pts_C,Paulinho
+299,2,00:24,CEA,45,42,substituicao_entra,Paulinho
+300,2,00:24,CEA,45,42,substituicao_sai,Gabriel
+301,2,00:24,CEA,45,42,substituicao_entra,Brite
+302,2,00:24,CEA,45,42,substituicao_sai,Léo W 
+303,2,00:24,MIN,45,42,substituicao_entra,Bob
+304,2,00:24,MIN,45,42,substituicao_sai,Paranhos
+305,2,00:24,CEA,45,42,tempo_tecnico,Basq  Cearense
+306,2,00:24,MIN,45,42,LL_Pts_C,Paranhos
+307,2,00:24,MIN,44,42,LL_Pts_T,Paranhos
+308,2,00:24,MIN,44,42,substituicao_entra,Lucas
+309,2,00:24,MIN,44,42,substituicao_sai,Gegê
+310,2,00:24,MIN,44,42,FR,Paranhos
+311,2,00:24,CEA,44,42,FC,Sualisson
+312,2,00:38,CEA,44,42,substituicao_entra,Léo W 
+313,2,00:38,CEA,44,42,substituicao_sai,Paulinho
+314,2,00:38,CEA,44,42,substituicao_entra,Gabriel
+315,2,00:38,CEA,44,42,substituicao_sai,Brite
+316,2,00:38,CEA,44,42,substituicao_entra,Sualisson
+317,2,00:38,CEA,44,42,substituicao_sai,Kurtz
+318,2,00:38,CEA,44,42,LL_Pts_C,Brite
+319,2,00:38,CEA,44,41,LL_Pts_C,Brite
+320,2,00:38,CEA,44,40,FR,Brite
+321,2,00:38,MIN,44,40,FC,Gegê
+322,2,00:50,MIN,44,40,AS,Gegê
+323,2,00:50,MIN,44,40,EN,Wesley
+324,2,00:54,MIN,42,40,LL_Pts_C,D  Coleman
+325,2,00:54,MIN,41,40,LL_Pts_C,D  Coleman
+326,2,00:54,MIN,40,40,FR,D  Coleman
+327,2,00:54,CEA,40,40,FC_A,Felipe
+328,2,00:55,MIN,40,40,RD,Wesley
+329,2,00:56,CEA,40,40,2_Pts_T,Paulinho
+330,2,01:14,MIN,40,40,substituicao_entra,D  Coleman
+331,2,01:14,MIN,40,40,substituicao_sai,Leandrinho
+332,2,01:14,MIN,40,40,ER,Jefferson
+333,2,01:17,MIN,40,40,BR,Wesley
+334,2,01:17,CEA,40,40,ER,Felipe
+335,2,01:34,MIN,40,40,AS,Leandrinho
+336,2,01:34,MIN,40,40,2_Pts_C,Wesley
+337,2,01:40,MIN,38,40,RD,Leandrinho
+338,2,01:43,CEA,38,40,3_Pts_T,Felipe
+339,2,01:52,CEA,38,40,RD,Kurtz
+340,2,01:56,MIN,38,40,2_Pts_T,Gegê
+341,2,02:04,MIN,38,40,FR,Jefferson
+342,2,02:04,CEA,38,40,FC,Paulinho
+343,2,02:12,CEA,38,40,AS,Brite
+344,2,02:12,CEA,38,40,2_Pts_C,Felipe
+345,2,02:16,CEA,38,38,RD,Brite
+346,2,02:19,MIN,38,38,2_Pts_T,Leandrinho
+347,2,02:42,CEA,38,38,AS,Felipe
+348,2,02:42,CEA,38,38,2_Pts_C,Kurtz
+349,2,02:55,CEA,38,36,FR,Paulo
+350,2,02:55,MIN,38,36,ER,Paranhos
+351,2,02:55,MIN,38,36,FC_O,Paranhos
+352,2,03:08,CEA,38,36,ER,Brite
+353,2,03:20,MIN,38,36,3_Pts_C,Gegê
+354,2,03:39,MIN,35,36,substituicao_entra,Paranhos
+355,2,03:39,MIN,35,36,substituicao_sai,D  Coleman
+356,2,03:39,MIN,35,36,tempo_tecnico,Minas
+357,2,03:39,CEA,35,36,AS,Paulinho
+358,2,03:39,CEA,35,36,2_Pts_C,Kurtz
+359,2,03:51,CEA,35,34,BR,Felipe
+360,2,03:51,MIN,35,34,ER,D  Coleman
+361,2,04:03,CEA,35,34,substituicao_entra,Felipe
+362,2,04:03,CEA,35,34,substituicao_sai,Sualisson
+363,2,04:03,CEA,35,34,LL_Pts_C,Paulo
+364,2,04:03,CEA,35,33,LL_Pts_C,Paulo
+365,2,04:03,CEA,35,32,AS,Kurtz
+366,2,04:03,CEA,35,32,LL_Pts_C,Paulo
+367,2,04:03,CEA,35,31,FR,Paulo
+368,2,04:03,MIN,35,31,FC,Leandrinho
+369,2,04:28,CEA,35,31,RD,Basq  Cearense
+370,2,04:28,MIN,35,31,3_Pts_T,Wesley
+371,2,04:55,MIN,35,31,RD,Minas
+372,2,04:55,CEA,35,31,2_Pts_T,Paulinho
+373,2,05:10,MIN,35,31,substituicao_entra,Wesley
+374,2,05:10,MIN,35,31,substituicao_sai,Leonardo
+375,2,05:10,CEA,35,31,RO,Basq  Cearense
+376,2,05:12,CEA,35,31,LL_Pts_T,Paulo
+377,2,05:12,CEA,35,31,AS,B  Fiorotto
+378,2,05:12,CEA,35,31,LL_Pts_C,Paulo
+379,2,05:12,CEA,35,30,substituicao_entra,Kurtz
+380,2,05:12,CEA,35,30,substituicao_sai,B  Fiorotto
+381,2,05:12,CEA,35,30,substituicao_entra,Paulinho
+382,2,05:12,CEA,35,30,substituicao_sai,Rashaun
+383,2,05:12,CEA,35,30,FR,Paulo
+384,2,05:12,MIN,35,30,FC,Leonardo
+385,2,05:28,MIN,35,30,2_Pts_C,Leandrinho
+386,2,05:45,CEA,33,30,2_Pts_C,Brite
+387,2,06:01,CEA,33,28,RD,Rashaun
+388,2,06:04,MIN,33,28,3_Pts_T,Jefferson
+389,2,06:15,MIN,33,28,FR,Leonardo
+390,2,06:15,CEA,33,28,FC,Sualisson
+391,2,06:25,MIN,33,28,tempo_tecnico,Minas
+392,2,06:25,CEA,33,28,substituicao_entra,Paulo
+393,2,06:25,CEA,33,28,substituicao_sai,Alex
+394,2,06:25,CEA,33,28,LL_Pts_C,Alex
+395,2,06:25,CEA,33,27,LL_Pts_T,Alex
+396,2,06:25,MIN,33,27,substituicao_entra,Leonardo
+397,2,06:25,MIN,33,27,substituicao_sai,Paranhos
+398,2,06:25,MIN,33,27,substituicao_entra,Jefferson
+399,2,06:25,MIN,33,27,substituicao_sai,Augusto
+400,2,06:25,CEA,33,27,FR,Alex
+401,2,06:25,MIN,33,27,FC,Augusto
+402,2,06:26,CEA,33,27,RO,Alex
+403,2,06:26,CEA,33,27,2_Pts_T,B  Fiorotto
+404,2,06:43,CEA,33,27,RD,Brite
+405,2,06:46,MIN,33,27,3_Pts_T,Leandrinho
+406,2,06:52,MIN,33,27,RD,D  Coleman
+407,2,06:56,CEA,33,27,3_Pts_T,Brite
+408,2,07:15,CEA,33,27,RD,Alex
+409,2,07:17,MIN,33,27,2_Pts_T,Augusto
+410,2,07:26,MIN,33,27,FR,Paranhos
+411,2,07:26,CEA,33,27,FC,B  Fiorotto
+412,2,07:26,MIN,33,27,RD,Gegê
+413,2,07:27,CEA,33,27,2_Pts_T,Alex
+414,2,07:27,CEA,33,27,RO,Alex
+415,2,07:32,CEA,33,27,2_Pts_T,Rashaun
+416,2,07:37,CEA,33,27,RD,Brite
+417,2,07:39,MIN,33,27,3_Pts_T,Augusto
+418,2,07:52,MIN,33,27,FR,Leandrinho
+419,2,07:52,CEA,33,27,FC,Alex
+420,2,07:57,CEA,33,27,2_Pts_C,Alex
+421,2,08:14,CEA,33,25,RD,B  Fiorotto
+422,2,08:17,MIN,33,25,2_Pts_T,Leandrinho
+423,2,08:38,CEA,33,25,ER,B  Fiorotto
+424,2,08:50,CEA,33,25,RD,Sualisson
+425,2,08:54,MIN,33,25,3_Pts_T,Gegê
+426,2,09:13,MIN,33,25,BR,D  Coleman
+427,2,09:13,CEA,33,25,ER,Brite
+428,2,09:21,CEA,33,25,RO,Basq  Cearense
+429,2,09:21,CEA,33,25,3_Pts_T,Rashaun
+430,2,09:29,CEA,33,25,RD,Brite
+431,2,09:31,CEA,33,25,TO,B  Fiorotto
+432,2,09:31,MIN,33,25,2_Pts_T,Paranhos
+433,2,09:31,MIN,33,25,RO,Paranhos
+434,2,09:37,MIN,33,25,2_Pts_T,Augusto
+435,2,09:49,CEA,33,25,AS,B  Fiorotto
+436,2,09:49,CEA,33,25,2_Pts_C,Rashaun
+437,2,10:00,NaN,33,23,inicio_quarto,
+438,1,00:00,NaN,33,23,fim_quarto,
+439,1,00:00,MIN,33,23,3_Pts_T,Jefferson
+440,1,00:03,CEA,33,23,substituicao_entra,Felipe
+441,1,00:03,CEA,33,23,substituicao_sai,B  Fiorotto
+442,1,00:03,CEA,33,23,substituicao_entra,Gabriel
+443,1,00:03,CEA,33,23,substituicao_sai,Paulinho
+444,1,00:03,CEA,33,23,substituicao_entra,Léo W 
+445,1,00:03,CEA,33,23,substituicao_sai,Brite
+446,1,00:03,MIN,33,23,substituicao_entra,Augusto
+447,1,00:03,MIN,33,23,substituicao_sai,Wesley
+448,1,00:03,MIN,33,23,substituicao_entra,Leandrinho
+449,1,00:03,MIN,33,23,substituicao_sai,Leonardo
+450,1,00:03,CEA,33,23,LL_Pts_C,Paulinho
+451,1,00:03,CEA,33,22,AS,Brite
+452,1,00:03,CEA,33,22,LL_Pts_C,Paulinho
+453,1,00:03,CEA,33,21,FR,Paulinho
+454,1,00:03,MIN,33,21,FC,Wesley
+455,1,00:26,CEA,33,21,substituicao_entra,Paulinho
+456,1,00:26,CEA,33,21,substituicao_sai,Paulo
+457,1,00:26,MIN,33,21,substituicao_entra,Gegê
+458,1,00:26,MIN,33,21,substituicao_sai,D  Coleman
+459,1,00:26,MIN,33,21,substituicao_entra,Wesley
+460,1,00:26,MIN,33,21,substituicao_sai,Leandrinho
+461,1,00:26,CEA,33,21,RD,Basq  Cearense
+462,1,00:26,MIN,33,21,3_Pts_T,D  Coleman
+463,1,00:40,CEA,33,21,AS,B  Fiorotto
+464,1,00:40,CEA,33,21,3_Pts_C,Paulo
+465,1,00:56,MIN,33,18,AS,Lucas
+466,1,00:56,MIN,33,18,EN,D  Coleman
+467,1,00:58,MIN,31,18,RD,Lucas
+468,1,01:04,MIN,31,18,TO,Leonardo
+469,1,01:04,CEA,31,18,2_Pts_T,Sualisson
+470,1,01:20,MIN,31,18,AS,Leandrinho
+471,1,01:20,MIN,31,18,3_Pts_C,D  Coleman
+472,1,01:33,CEA,28,18,AS,Rashaun
+473,1,01:33,CEA,28,18,3_Pts_C,B  Fiorotto
+474,1,01:50,MIN,28,15,2_Pts_C,Lucas
+475,1,01:54,MIN,26,15,BR,Lucas
+476,1,01:54,CEA,26,15,ER,Paulo
+477,1,02:12,MIN,26,15,3_Pts_C,D  Coleman
+478,1,02:15,MIN,23,15,RD,D  Coleman
+479,1,02:20,MIN,23,15,TO,Leonardo
+480,1,02:20,CEA,23,15,2_Pts_T,B  Fiorotto
+481,1,02:41,CEA,23,15,RD,Sualisson
+482,1,02:42,MIN,23,15,LL_Pts_T,Jefferson
+483,1,02:42,MIN,23,15,LL_Pts_C,Jefferson
+484,1,02:42,CEA,22,15,substituicao_entra,Sualisson
+485,1,02:42,CEA,22,15,substituicao_sai,Felipe
+486,1,02:42,MIN,22,15,FR,Jefferson
+487,1,02:42,CEA,22,15,FC,Brite
+488,1,02:53,CEA,22,15,3_Pts_C,Brite
+489,1,03:17,MIN,22,12,LL_Pts_C,Leandrinho
+490,1,03:17,MIN,21,12,LL_Pts_C,Leandrinho
+491,1,03:17,MIN,20,12,FR,Leandrinho
+492,1,03:17,CEA,20,12,FC,B  Fiorotto
+493,1,03:31,MIN,20,12,substituicao_entra,Lucas
+494,1,03:31,MIN,20,12,substituicao_sai,Gegê
+495,1,03:31,CEA,20,12,LL_Pts_C,Felipe
+496,1,03:31,CEA,20,11,LL_Pts_T,Felipe
+497,1,03:31,CEA,20,11,substituicao_entra,Paulo
+498,1,03:31,CEA,20,11,substituicao_sai,Alex
+499,1,03:31,CEA,20,11,substituicao_entra,Brite
+500,1,03:31,CEA,20,11,substituicao_sai,Paulinho
+501,1,03:31,CEA,20,11,FR,Felipe
+502,1,03:31,MIN,20,11,FC,Leonardo
+503,1,03:36,CEA,20,11,RD,Felipe
+504,1,03:46,CEA,20,11,TO,Felipe
+505,1,03:46,MIN,20,11,2_Pts_T,Leonardo
+506,1,04:02,CEA,20,11,substituicao_entra,B  Fiorotto
+507,1,04:02,CEA,20,11,substituicao_sai,Kurtz
+508,1,04:02,MIN,20,11,substituicao_entra,Leonardo
+509,1,04:02,MIN,20,11,substituicao_sai,Wesley
+510,1,04:02,MIN,20,11,FR,Leandrinho
+511,1,04:02,CEA,20,11,FC,Kurtz
+512,1,04:18,MIN,20,11,RD,Gegê
+513,1,04:22,CEA,20,11,2_Pts_T,Kurtz
+514,1,04:29,CEA,20,11,BR,Rashaun
+515,1,04:29,MIN,20,11,ER,Gegê
+516,1,04:45,CEA,20,11,3_Pts_C,Rashaun
+517,1,05:04,MIN,20,8,2_Pts_C,Gegê
+518,1,05:40,CEA,18,8,AS,Kurtz
+519,1,05:40,CEA,18,8,3_Pts_C,Paulinho
+520,1,05:48,CEA,18,5,FR,Paulinho
+521,1,05:48,MIN,18,5,FC,Jefferson
+522,1,05:55,MIN,18,5,substituicao_entra,Jefferson
+523,1,05:55,MIN,18,5,substituicao_sai,Augusto
+524,1,05:55,CEA,18,5,FR,Paulinho
+525,1,05:55,MIN,18,5,FC,Augusto
+526,1,06:05,MIN,18,5,2_Pts_C,Gegê
+527,1,06:10,MIN,16,5,BR,Gegê
+528,1,06:10,CEA,16,5,ER,Kurtz
+529,1,06:24,CEA,16,5,FR,Felipe
+530,1,06:24,MIN,16,5,FC,Augusto
+531,1,06:36,MIN,16,5,2_Pts_C,Leandrinho
+532,1,06:53,CEA,14,5,2_Pts_C,Paulinho
+533,1,07:10,CEA,14,3,tempo_tecnico,Basq  Cearense
+534,1,07:10,MIN,14,3,3_Pts_C,Leandrinho
+535,1,07:13,MIN,11,3,RD,Leandrinho
+536,1,07:16,CEA,11,3,2_Pts_T,Alex
+537,1,07:27,MIN,11,3,2_Pts_C,Augusto
+538,1,07:33,MIN,9,3,BR,Augusto
+539,1,07:33,CEA,9,3,ER,Paulinho
+540,1,07:44,MIN,9,3,AS,Gegê
+541,1,07:44,MIN,9,3,3_Pts_C,D  Coleman
+542,1,07:51,MIN,6,3,FR,D  Coleman
+543,1,07:51,CEA,6,3,FC,Rashaun
+544,1,07:54,MIN,6,3,RD,Augusto
+545,1,07:57,CEA,6,3,2_Pts_T,Felipe
+546,1,08:06,CEA,6,3,FR,Felipe
+547,1,08:06,MIN,6,3,FC,Gegê
+548,1,08:10,MIN,6,3,LL_Pts_C,Wesley
+549,1,08:10,MIN,5,3,AS,Leandrinho
+550,1,08:10,MIN,5,3,LL_Pts_C,Wesley
+551,1,08:10,MIN,4,3,FR,Wesley
+552,1,08:10,CEA,4,3,FC,Kurtz
+553,1,08:19,MIN,4,3,RD,Gegê
+554,1,08:22,CEA,4,3,2_Pts_T,Kurtz
+555,1,08:41,MIN,4,3,2_Pts_C,Leandrinho
+556,1,08:46,MIN,2,3,RD,Leandrinho
+557,1,08:49,CEA,2,3,3_Pts_T,Felipe
+558,1,09:08,MIN,2,3,2_Pts_C,Leandrinho
+559,1,09:25,CEA,0,3,AS,Rashaun
+560,1,09:25,CEA,0,3,3_Pts_C,Alex
+561,1,09:39,CEA,0,0,RD,Felipe
+562,1,09:43,MIN,0,0,2_Pts_T,D  Coleman
+563,1,10:00,CEA,0,0,substituicao_entra,Kurtz
+564,1,10:00,CEA,0,0,substituicao_entra,Felipe
+565,1,10:00,CEA,0,0,substituicao_entra,Rashaun
+566,1,10:00,CEA,0,0,substituicao_entra,Alex
+567,1,10:00,CEA,0,0,substituicao_entra,Paulinho
+568,1,10:00,MIN,0,0,substituicao_entra,Leandrinho
+569,1,10:00,MIN,0,0,substituicao_entra,Wesley
+570,1,10:00,MIN,0,0,substituicao_entra,Gegê
+571,1,10:00,MIN,0,0,substituicao_entra,D  Coleman
+572,1,10:00,MIN,0,0,substituicao_entra,Augusto
+573,1,10:00,NaN,0,0,inicio_partida,

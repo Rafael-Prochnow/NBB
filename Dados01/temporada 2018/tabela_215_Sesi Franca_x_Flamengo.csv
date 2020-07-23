@@ -1,0 +1,510 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,88,79,fim_partida,
+1,4,00:00,NaN,88,79,fim_quarto, 
+2,4,00:09,FLA,88,79,RD,Olivinha
+3,4,00:09,FRA,88,79,3_Pts_T,Lucas Dias
+4,4,00:14,FRA,88,79,RD,Jimmy
+5,4,00:14,FLA,88,79,3_Pts_T,Balbi
+6,4,00:16,FLA,88,79,BR,Balbi
+7,4,00:16,FRA,88,79,ER,Elinho
+8,4,00:23,FLA,88,79,substituicao_entra,Nesbitt
+9,4,00:23,FLA,88,79,substituicao_sai,Varejão
+10,4,00:23,FLA,88,79,substituicao_entra,Jhonatan
+11,4,00:23,FLA,88,79,substituicao_sai,Marquinhos
+12,4,00:25,FRA,88,79,RD,Franca
+13,4,00:25,FLA,88,79,3_Pts_T,Marquinhos
+14,4,00:29,FLA,88,79,substituicao_entra,Varejão
+15,4,00:29,FLA,88,79,substituicao_sai,Mineiro
+16,4,00:29,FLA,88,79,tempo_tecnico,Flamengo
+17,4,00:29,FRA,88,79,LL_Pts_C,David Jackson
+18,4,00:29,FLA,87,79,substituicao_entra,Olivinha
+19,4,00:29,FLA,87,79,substituicao_sai,Jhonatan
+20,4,00:29,FLA,87,79,substituicao_entra,Marquinhos
+21,4,00:29,FLA,87,79,substituicao_sai,Davi
+22,4,00:29,FRA,87,79,FR,David Jackson
+23,4,00:29,FLA,87,79,FC,Jhonatan
+24,4,00:29,FRA,87,79,2_Pts_C,David Jackson
+25,4,00:39,FLA,85,79,substituicao_entra,Mineiro
+26,4,00:39,FLA,85,79,substituicao_sai,Varejão
+27,4,00:39,FLA,85,79,substituicao_entra,Davi
+28,4,00:39,FLA,85,79,substituicao_sai,Olivinha
+29,4,00:39,FLA,85,79,substituicao_entra,Jhonatan
+30,4,00:39,FLA,85,79,substituicao_sai,Marquinhos
+31,4,00:39,FRA,85,79,substituicao_entra,Alexey
+32,4,00:39,FRA,85,79,substituicao_sai,Cipolini
+33,4,00:39,FLA,85,79,LL_Pts_C,Varejão
+34,4,00:39,FLA,85,78,LL_Pts_T,Varejão
+35,4,00:39,FLA,85,78,FR,Varejão
+36,4,00:39,FRA,85,78,FC,Jimmy
+37,4,00:51,FLA,85,78,RD,Olivinha
+38,4,00:52,FRA,85,78,LL_Pts_T,Elinho
+39,4,00:52,FRA,85,78,LL_Pts_C,Elinho
+40,4,00:52,FRA,84,78,FR,Elinho
+41,4,00:52,FLA,84,78,FC,Balbi
+42,4,01:09,FLA,84,78,3_Pts_C,Balbi
+43,4,01:21,FRA,84,75,LL_Pts_C,Jimmy
+44,4,01:21,FLA,83,75,substituicao_entra,Balbi
+45,4,01:21,FLA,83,75,substituicao_sai,Davi
+46,4,01:21,FRA,83,75,FR,Jimmy
+47,4,01:21,FLA,83,75,FC,Olivinha
+48,4,01:21,FRA,83,75,2_Pts_C,Jimmy
+49,4,01:32,FLA,81,75,substituicao_entra,Varejão
+50,4,01:32,FLA,81,75,substituicao_sai,Mineiro
+51,4,01:32,FLA,81,75,substituicao_entra,Deryk
+52,4,01:32,FLA,81,75,substituicao_sai,Balbi
+53,4,01:32,FRA,81,75,substituicao_entra,Cipolini
+54,4,01:32,FRA,81,75,substituicao_sai,André Goes
+55,4,01:32,FRA,81,75,RD,Franca
+56,4,01:32,FLA,81,75,3_Pts_T,Marquinhos
+57,4,01:40,FLA,81,75,BR,Balbi
+58,4,01:40,FRA,81,75,ER,Jimmy
+59,4,01:49,FRA,81,75,RD,David Jackson
+60,4,01:52,FLA,81,75,2_Pts_T,Mineiro
+61,4,02:10,FLA,81,75,RD,Olivinha
+62,4,02:13,FRA,81,75,3_Pts_T,André Goes
+63,4,02:30,FLA,81,75,AS,Davi
+64,4,02:30,FLA,81,75,2_Pts_C,Mineiro
+65,4,02:45,FRA,81,73,AS,David Jackson
+66,4,02:45,FRA,81,73,3_Pts_C,Lucas Dias
+67,4,03:06,FLA,78,73,AS,Davi
+68,4,03:06,FLA,78,73,3_Pts_C,Balbi
+69,4,03:11,FLA,78,70,RD,Marquinhos
+70,4,03:15,FRA,78,70,3_Pts_T,André Goes
+71,4,03:31,FRA,78,70,FR,David Jackson
+72,4,03:31,FLA,78,70,FC,Olivinha
+73,4,03:52,FRA,78,70,tempo_tecnico,Franca
+74,4,03:52,FLA,78,70,2_Pts_C,Marquinhos
+75,4,04:00,FLA,78,68,RD,Olivinha
+76,4,04:02,FRA,78,68,2_Pts_T,David Jackson
+77,4,04:24,FRA,78,68,RD,Lucas Dias
+78,4,04:25,FLA,78,68,LL_Pts_T,Mineiro
+79,4,04:25,FLA,78,68,LL_Pts_C,Mineiro
+80,4,04:25,FLA,78,67,FR,Mineiro
+81,4,04:25,FRA,78,67,FC,David Jackson
+82,4,04:25,FLA,78,67,BR,Mineiro
+83,4,04:25,FRA,78,67,ER,David Jackson
+84,4,04:38,FRA,78,67,BR,André Goes
+85,4,04:38,FLA,78,67,ER,Davi
+86,4,04:50,FLA,78,67,substituicao_entra,Olivinha
+87,4,04:50,FLA,78,67,substituicao_sai,Nesbitt
+88,4,04:50,FRA,78,67,LL_Pts_C,David Jackson
+89,4,04:50,FRA,77,67,LL_Pts_T,David Jackson
+90,4,04:50,FRA,77,67,FR,David Jackson
+91,4,04:50,FLA,77,67,FC,Mineiro
+92,4,05:01,FRA,77,67,RD,Lucas Dias
+93,4,05:04,FLA,77,67,2_Pts_T,Mineiro
+94,4,05:10,FLA,77,67,RD,Flamengo
+95,4,05:10,FRA,77,67,3_Pts_T,André Goes
+96,4,05:41,FLA,77,67,AS,Davi
+97,4,05:41,FLA,77,67,2_Pts_C,Nesbitt
+98,4,05:54,FRA,77,65,substituicao_entra,David Jackson
+99,4,05:54,FRA,77,65,substituicao_sai,Didi
+100,4,05:54,FLA,77,65,FR,Mineiro
+101,4,05:54,FRA,77,65,ER,Elinho
+102,4,05:54,FRA,77,65,FC_O,Elinho
+103,4,05:58,FLA,77,65,substituicao_entra,Balbi
+104,4,05:58,FLA,77,65,substituicao_sai,Deryk
+105,4,05:58,FLA,77,65,ER,Nesbitt
+106,4,06:06,FLA,77,65,RD,Nesbitt
+107,4,06:09,FRA,77,65,2_Pts_T,Elinho
+108,4,06:33,FLA,77,65,2_Pts_C,Marquinhos
+109,4,06:43,FLA,77,63,FR,Deryk
+110,4,06:43,FRA,77,63,FC,Lucas Dias
+111,4,07:00,FRA,77,63,2_Pts_C,Didi
+112,4,07:11,FLA,75,63,substituicao_entra,Nesbitt
+113,4,07:11,FLA,75,63,substituicao_sai,Varejão
+114,4,07:11,FLA,75,63,substituicao_entra,Mineiro
+115,4,07:11,FLA,75,63,substituicao_sai,Olivinha
+116,4,07:11,FLA,75,63,substituicao_entra,Davi
+117,4,07:11,FLA,75,63,substituicao_sai,Balbi
+118,4,07:11,FRA,75,63,FR,André Goes
+119,4,07:11,FLA,75,63,FC,Marquinhos
+120,4,07:25,FLA,75,63,2_Pts_C,Varejão
+121,4,07:32,FLA,75,61,RD,Olivinha
+122,4,07:35,FRA,75,61,2_Pts_T,Elinho
+123,4,07:46,FRA,75,61,RD,Lucas Dias
+124,4,07:50,FLA,75,61,2_Pts_T,Marquinhos
+125,4,08:04,FRA,75,61,2_Pts_C,Lucas Dias
+126,4,08:16,FLA,73,61,LL_Pts_C,Olivinha
+127,4,08:16,FLA,73,60,FR,Olivinha
+128,4,08:16,FRA,73,60,FC,Elinho
+129,4,08:16,FLA,73,60,AS,Deryk
+130,4,08:16,FLA,73,60,2_Pts_C,Olivinha
+131,4,08:29,FLA,73,58,tempo_tecnico,Flamengo
+132,4,08:29,FRA,73,58,2_Pts_C,Elinho
+133,4,08:33,FRA,71,58,RD,Elinho
+134,4,08:36,FLA,71,58,3_Pts_T,Olivinha
+135,4,08:57,FRA,71,58,2_Pts_C,Didi
+136,4,09:16,FLA,69,58,LL_Pts_C,Deryk
+137,4,09:16,FLA,69,57,LL_Pts_C,Deryk
+138,4,09:16,FLA,69,56,FR,Deryk
+139,4,09:16,FRA,69,56,FC,André Goes
+140,4,09:17,FLA,69,56,RD,Deryk
+141,4,09:20,FRA,69,56,2_Pts_T,Didi
+142,4,09:25,FRA,69,56,RD,Elinho
+143,4,09:29,FLA,69,56,3_Pts_T,Deryk
+144,4,09:45,FRA,69,56,AS,Elinho
+145,4,09:45,FRA,69,56,2_Pts_C,Jimmy
+146,4,09:52,FRA,67,56,FR,Lucas Dias
+147,4,09:52,FLA,67,56,FC,Varejão
+148,4,10:00,NaN,67,56,inicio_quarto,
+149,3,00:00,NaN,67,56,fim_quarto,
+150,3,00:03,FRA,67,56,AS,Elinho
+151,3,00:03,FRA,67,56,2_Pts_C,Jimmy
+152,3,00:06,FRA,65,56,RD,Lucas Dias
+153,3,00:10,FLA,65,56,2_Pts_T,Olivinha
+154,3,00:29,FLA,65,56,RD,Olivinha
+155,3,00:30,FRA,65,56,LL_Pts_T,André Goes
+156,3,00:30,FRA,65,56,LL_Pts_C,André Goes
+157,3,00:30,FRA,64,56,substituicao_entra,Elinho
+158,3,00:30,FRA,64,56,substituicao_sai,Alexey
+159,3,00:30,FRA,64,56,FR,André Goes
+160,3,00:30,FLA,64,56,FC,Balbi
+161,3,00:30,FRA,64,56,RO,Franca
+162,3,00:30,FRA,64,56,3_Pts_T,Lucas Dias
+163,3,00:34,FRA,64,56,RD,André Goes
+164,3,00:36,FLA,64,56,2_Pts_T,Deryk
+165,3,00:43,FLA,64,56,FR,Marquinhos
+166,3,00:43,FRA,64,56,FC,Alexey
+167,3,00:43,FLA,64,56,RD,Marquinhos
+168,3,00:43,FRA,64,56,2_Pts_T,Alexey
+169,3,01:02,FLA,64,56,LL_Pts_C,Olivinha
+170,3,01:02,FLA,64,55,LL_Pts_T,Olivinha
+171,3,01:02,FRA,64,55,substituicao_entra,Didi
+172,3,01:02,FRA,64,55,substituicao_sai,David Jackson
+173,3,01:02,FLA,64,55,FR,Olivinha
+174,3,01:02,FRA,64,55,FC,David Jackson
+175,3,01:25,FRA,64,55,LL_Pts_C,André Goes
+176,3,01:25,FRA,63,55,LL_Pts_C,André Goes
+177,3,01:25,FRA,62,55,LL_Pts_T,André Goes
+178,3,01:25,FLA,62,55,substituicao_entra,Varejão
+179,3,01:25,FLA,62,55,substituicao_sai,Jhonatan
+180,3,01:25,FLA,62,55,substituicao_entra,Marquinhos
+181,3,01:25,FLA,62,55,substituicao_sai,Mineiro
+182,3,01:25,FRA,62,55,FR,André Goes
+183,3,01:25,FLA,62,55,FC,Deryk
+184,3,01:45,FRA,62,55,FR,Lucas Dias
+185,3,01:45,FLA,62,55,FC,Olivinha
+186,3,01:51,FLA,62,55,2_Pts_C,Deryk
+187,3,02:09,FRA,62,53,2_Pts_C,Jimmy
+188,3,02:14,FLA,60,53,substituicao_entra,Olivinha
+189,3,02:14,FLA,60,53,substituicao_sai,Nesbitt
+190,3,02:14,FRA,60,53,FR,Alexey
+191,3,02:14,FLA,60,53,FC,Deryk
+192,3,02:17,FLA,60,53,substituicao_entra,Balbi
+193,3,02:17,FLA,60,53,substituicao_sai,Davi
+194,3,02:17,FRA,60,53,RD,Franca
+195,3,02:17,FLA,60,53,2_Pts_T,Deryk
+196,3,02:47,FRA,60,53,AS,André Goes
+197,3,02:47,FRA,60,53,3_Pts_C,Lucas Dias
+198,3,03:06,FRA,57,53,tempo_tecnico,Franca
+199,3,03:06,FLA,57,53,2_Pts_C,Mineiro
+200,3,03:06,FLA,57,51,RO,Mineiro
+201,3,03:10,FLA,57,51,2_Pts_T,Jhonatan
+202,3,03:15,FLA,57,51,BR,Jhonatan
+203,3,03:15,FRA,57,51,ER,David Jackson
+204,3,03:34,FLA,57,51,substituicao_entra,Nesbitt
+205,3,03:34,FLA,57,51,substituicao_sai,Olivinha
+206,3,03:34,FLA,57,51,substituicao_entra,Deryk
+207,3,03:34,FLA,57,51,substituicao_sai,Balbi
+208,3,03:34,FRA,57,51,substituicao_entra,Alexey
+209,3,03:34,FRA,57,51,substituicao_sai,Elinho
+210,3,03:34,FLA,57,51,ER,Balbi
+211,3,03:48,FLA,57,51,RD,Balbi
+212,3,03:52,FRA,57,51,2_Pts_T,Elinho
+213,3,04:12,FRA,57,51,RD,André Goes
+214,3,04:14,FLA,57,51,3_Pts_T,Olivinha
+215,3,04:22,FLA,57,51,RD,Olivinha
+216,3,04:27,FRA,57,51,2_Pts_T,Lucas Dias
+217,3,04:47,FLA,57,51,2_Pts_C,Olivinha
+218,3,05:03,FRA,57,49,AS,Elinho
+219,3,05:03,FRA,57,49,2_Pts_C,André Goes
+220,3,05:08,FLA,55,49,2_Pts_C,Olivinha
+221,3,05:08,FLA,55,47,RO,Olivinha
+222,3,05:14,FLA,55,47,2_Pts_T,Davi
+223,3,05:28,FLA,55,47,RO,Flamengo
+224,3,05:28,FRA,55,47,TO,Lucas Dias
+225,3,05:28,FLA,55,47,2_Pts_T,Davi
+226,3,05:42,FRA,55,47,substituicao_entra,André Goes
+227,3,05:42,FRA,55,47,substituicao_sai,Cipolini
+228,3,05:42,FLA,55,47,FR,Balbi
+229,3,05:42,FRA,55,47,FC,Cipolini
+230,3,05:42,FLA,55,47,BR,Balbi
+231,3,05:42,FRA,55,47,ER,Elinho
+232,3,05:59,FLA,55,47,LL_Pts_C,Balbi
+233,3,05:59,FLA,55,46,LL_Pts_C,Balbi
+234,3,05:59,FLA,55,45,FR,Balbi
+235,3,05:59,FRA,55,45,FC,Elinho
+236,3,06:06,FLA,55,45,RO,Flamengo
+237,3,06:06,FRA,55,45,TO,Elinho
+238,3,06:06,FLA,55,45,2_Pts_T,Balbi
+239,3,06:15,FLA,55,45,RD,Jhonatan
+240,3,06:19,FRA,55,45,2_Pts_T,Jimmy
+241,3,06:37,FLA,55,45,substituicao_entra,Jhonatan
+242,3,06:37,FLA,55,45,substituicao_sai,Marquinhos
+243,3,06:37,FLA,55,45,substituicao_entra,Mineiro
+244,3,06:37,FLA,55,45,substituicao_sai,Varejão
+245,3,06:37,FLA,55,45,substituicao_entra,Davi
+246,3,06:37,FLA,55,45,substituicao_sai,Deryk
+247,3,06:37,FRA,55,45,substituicao_entra,Jimmy
+248,3,06:37,FRA,55,45,substituicao_sai,Alexey
+249,3,06:37,FRA,55,45,FR,Alexey
+250,3,06:37,FLA,55,45,FC,Varejão
+251,3,06:37,FRA,55,45,RD,Lucas Dias
+252,3,06:42,FRA,55,45,TO,Lucas Dias
+253,3,06:42,FLA,55,45,2_Pts_T,Marquinhos
+254,3,07:06,FRA,55,45,AS,Elinho
+255,3,07:06,FRA,55,45,2_Pts_C,David Jackson
+256,3,07:21,FLA,53,45,2_Pts_C,Olivinha
+257,3,07:23,FLA,53,43,RO,Olivinha
+258,3,07:26,FLA,53,43,3_Pts_T,Balbi
+259,3,07:46,FRA,53,43,ER,Elinho
+260,3,07:53,FLA,53,43,2_Pts_C,Varejão
+261,3,07:54,FLA,53,41,RO,Varejão
+262,3,08:00,FLA,53,41,2_Pts_T,Varejão
+263,3,08:16,FRA,53,41,2_Pts_C,David Jackson
+264,3,08:30,FLA,51,41,AS,Balbi
+265,3,08:30,FLA,51,41,3_Pts_C,Olivinha
+266,3,08:34,FLA,51,38,RD,Balbi
+267,3,08:38,FRA,51,38,3_Pts_T,Elinho
+268,3,08:52,FRA,51,38,RD,Cipolini
+269,3,08:55,FLA,51,38,2_Pts_T,Marquinhos
+270,3,09:13,FLA,51,38,RD,Deryk
+271,3,09:16,FRA,51,38,3_Pts_T,Alexey
+272,3,09:38,FLA,51,38,AS,Deryk
+273,3,09:38,FLA,51,38,2_Pts_C,Varejão
+274,3,10:00,NaN,51,36,inicio_quarto,
+275,2,00:00,NaN,51,36,fim_quarto,
+276,2,00:04,FRA,51,36,2_Pts_C,David Jackson
+277,2,00:16,FRA,49,36,RD,Lucas Dias
+278,2,00:20,FLA,49,36,3_Pts_T,Deryk
+279,2,00:28,FLA,49,36,RD,Varejão
+280,2,00:31,FRA,49,36,3_Pts_T,Alexey
+281,2,00:51,FLA,49,36,AS,Balbi
+282,2,00:51,FLA,49,36,2_Pts_C,Varejão
+283,2,01:14,FRA,49,34,2_Pts_C,Elinho
+284,2,01:24,FRA,47,34,BR,David Jackson
+285,2,01:24,FLA,47,34,ER,Varejão
+286,2,01:36,FLA,47,34,RO,Flamengo
+287,2,01:36,FLA,47,34,3_Pts_T,Deryk
+288,2,02:04,FRA,47,34,AS,Alexey
+289,2,02:04,FRA,47,34,3_Pts_C,Lucas Dias
+290,2,02:30,FRA,44,34,substituicao_entra,David Jackson
+291,2,02:30,FRA,44,34,substituicao_sai,Jimmy
+292,2,02:30,FRA,44,34,tempo_tecnico,Franca
+293,2,02:30,FLA,44,34,3_Pts_C,Balbi
+294,2,02:38,FLA,44,31,RO,Flamengo
+295,2,02:38,FLA,44,31,3_Pts_T,Jhonatan
+296,2,02:56,FLA,44,31,substituicao_entra,Jhonatan
+297,2,02:56,FLA,44,31,substituicao_sai,Marquinhos
+298,2,02:56,FLA,44,31,FR,Varejão
+299,2,02:56,FRA,44,31,ER,Hettsheimeir
+300,2,02:56,FRA,44,31,FC_O,Hettsheimeir
+301,2,03:08,FLA,44,31,2_Pts_C,Balbi
+302,2,03:17,FLA,44,29,RO,Olivinha
+303,2,03:20,FLA,44,29,2_Pts_T,Varejão
+304,2,03:45,FRA,44,29,2_Pts_C,Elinho
+305,2,03:55,FLA,42,29,3_Pts_C,Deryk
+306,2,04:05,FRA,42,26,substituicao_entra,Hettsheimeir
+307,2,04:05,FRA,42,26,substituicao_sai,Cipolini
+308,2,04:05,FLA,42,26,FR,Olivinha
+309,2,04:05,FRA,42,26,FC,Cipolini
+310,2,04:09,FLA,42,26,RD,Deryk
+311,2,04:12,FRA,42,26,2_Pts_T,Lucas Dias
+312,2,04:26,FRA,42,26,RD,Lucas Dias
+313,2,04:29,FLA,42,26,2_Pts_T,Balbi
+314,2,04:34,FLA,42,26,RD,Olivinha
+315,2,04:37,FRA,42,26,3_Pts_T,Elinho
+316,2,04:41,FRA,42,26,RO,Lucas Dias
+317,2,04:44,FRA,42,26,2_Pts_T,Lucas Dias
+318,2,05:02,FRA,42,26,RD,Cipolini
+319,2,05:04,FLA,42,26,2_Pts_T,Marquinhos
+320,2,05:23,FLA,42,26,substituicao_entra,Deryk
+321,2,05:23,FLA,42,26,substituicao_sai,Mineiro
+322,2,05:23,FLA,42,26,substituicao_entra,Olivinha
+323,2,05:23,FLA,42,26,substituicao_sai,Davi
+324,2,05:23,FRA,42,26,substituicao_entra,Elinho
+325,2,05:23,FRA,42,26,substituicao_sai,David Jackson
+326,2,05:23,FLA,42,26,tempo_tecnico,Flamengo
+327,2,05:23,FRA,42,26,3_Pts_C,Alexey
+328,2,05:36,FRA,39,26,RD,Jimmy
+329,2,05:40,FLA,39,26,2_Pts_T,Varejão
+330,2,05:59,FLA,39,26,RD,Davi
+331,2,06:02,FRA,39,26,3_Pts_T,Cipolini
+332,2,06:07,FRA,39,26,BR,Alexey
+333,2,06:07,FLA,39,26,ER,Varejão
+334,2,06:11,FRA,39,26,2_Pts_C,Alexey
+335,2,06:26,FLA,37,26,AS,Marquinhos
+336,2,06:26,FLA,37,26,2_Pts_C,Mineiro
+337,2,06:41,FLA,37,24,RD,Davi
+338,2,06:45,FRA,37,24,3_Pts_T,Lucas Dias
+339,2,06:50,FRA,37,24,RD,Cipolini
+340,2,06:53,FLA,37,24,2_Pts_T,Mineiro
+341,2,07:14,FRA,37,24,AS,Alexey
+342,2,07:14,FRA,37,24,3_Pts_C,Lucas Dias
+343,2,07:31,FRA,34,24,RD,David Jackson
+344,2,07:34,FLA,34,24,2_Pts_T,Davi
+345,2,07:45,FRA,34,24,substituicao_entra,Lucas Dias
+346,2,07:45,FRA,34,24,substituicao_sai,André Goes
+347,2,07:45,FLA,34,24,FR,Marquinhos
+348,2,07:45,FRA,34,24,FC,Jimmy
+349,2,07:48,FLA,34,24,RD,Mineiro
+350,2,07:53,FLA,34,24,TO,Varejão
+351,2,07:53,FRA,34,24,2_Pts_T,André Goes
+352,2,08:00,FRA,34,24,FR,David Jackson
+353,2,08:00,FLA,34,24,FC,Davi
+354,2,08:09,FRA,34,24,FR,Alexey
+355,2,08:09,FLA,34,24,ER,Mineiro
+356,2,08:09,FLA,34,24,FC_O,Mineiro
+357,2,08:12,FLA,34,24,RD,Davi
+358,2,08:15,FRA,34,24,2_Pts_T,André Goes
+359,2,08:34,FLA,34,24,AS,Balbi
+360,2,08:34,FLA,34,24,3_Pts_C,Davi
+361,2,08:53,FLA,34,21,substituicao_entra,Balbi
+362,2,08:53,FLA,34,21,substituicao_sai,Jhonatan
+363,2,08:53,FLA,34,21,tempo_tecnico,Flamengo
+364,2,08:53,FRA,34,21,3_Pts_C,David Jackson
+365,2,09:07,FLA,31,21,substituicao_entra,Varejão
+366,2,09:07,FLA,31,21,substituicao_sai,Nesbitt
+367,2,09:07,FRA,31,21,FR,Jimmy
+368,2,09:07,FLA,31,21,FC,Nesbitt
+369,2,09:07,FRA,31,21,RD,Jimmy
+370,2,09:07,FLA,31,21,3_Pts_T,Jhonatan
+371,2,09:23,FRA,31,21,2_Pts_C,André Goes
+372,2,09:28,FRA,29,21,BR,Jimmy
+373,2,09:28,FLA,29,21,ER,Marquinhos
+374,2,09:40,FLA,29,21,RD,Jhonatan
+375,2,09:43,FRA,29,21,3_Pts_T,André Goes
+376,2,10:00,NaN,29,21,inicio_quarto,
+377,1,00:00,NaN,29,21,fim_quarto,
+378,1,00:01,FLA,29,21,3_Pts_T,Davi
+379,1,00:05,FRA,29,21,3_Pts_C,Alexey
+380,1,00:14,FLA,26,21,substituicao_entra,Nesbitt
+381,1,00:14,FLA,26,21,substituicao_sai,Varejão
+382,1,00:14,FLA,26,21,LL_Pts_C,Varejão
+383,1,00:14,FLA,26,20,substituicao_entra,Mineiro
+384,1,00:14,FLA,26,20,substituicao_sai,Balbi
+385,1,00:14,FRA,26,20,substituicao_entra,David Jackson
+386,1,00:14,FRA,26,20,substituicao_sai,Didi
+387,1,00:14,FLA,26,20,FR,Varejão
+388,1,00:14,FRA,26,20,FC,Didi
+389,1,00:14,FLA,26,20,AS,Marquinhos
+390,1,00:14,FLA,26,20,2_Pts_C,Varejão
+391,1,00:20,FLA,26,18,substituicao_entra,Varejão
+392,1,00:20,FLA,26,18,substituicao_sai,Mineiro
+393,1,00:20,FLA,26,18,FR,Davi
+394,1,00:20,FRA,26,18,FC,Alexey
+395,1,00:29,FLA,26,18,substituicao_entra,Balbi
+396,1,00:29,FLA,26,18,substituicao_sai,Nesbitt
+397,1,00:29,FRA,26,18,substituicao_entra,Jimmy
+398,1,00:29,FRA,26,18,substituicao_sai,David Jackson
+399,1,00:29,FLA,26,18,FR,Marquinhos
+400,1,00:29,FRA,26,18,FC,Didi
+401,1,00:38,FRA,26,18,2_Pts_C,Alexey
+402,1,00:52,FRA,24,18,substituicao_entra,André Goes
+403,1,00:52,FRA,24,18,substituicao_sai,Lucas Dias
+404,1,00:52,FLA,24,18,ER,
+405,1,01:19,FRA,24,18,2_Pts_C,David Jackson
+406,1,01:39,FLA,22,18,substituicao_entra,Marquinhos
+407,1,01:39,FLA,22,18,substituicao_sai,Deryk
+408,1,01:39,FLA,22,18,substituicao_entra,Davi
+409,1,01:39,FLA,22,18,substituicao_sai,Balbi
+410,1,01:39,FRA,22,18,RD,Franca
+411,1,01:39,FRA,22,18,TO,Cipolini
+412,1,01:39,FLA,22,18,2_Pts_T,Deryk
+413,1,01:46,FLA,22,18,RO,Jhonatan
+414,1,01:50,FLA,22,18,3_Pts_T,Deryk
+415,1,02:08,FRA,22,18,2_Pts_C,David Jackson
+416,1,02:13,FRA,20,18,FR,Lucas Dias
+417,1,02:13,FLA,20,18,FC,Nesbitt
+418,1,02:17,FRA,20,18,substituicao_entra,Didi
+419,1,02:17,FRA,20,18,substituicao_sai,Jimmy
+420,1,02:17,FLA,20,18,substituicao_entra,Mineiro
+421,1,02:17,FLA,20,18,substituicao_sai,Varejão
+422,1,02:17,FRA,20,18,FR,Lucas Dias
+423,1,02:17,FLA,20,18,FC,Jhonatan
+424,1,02:17,FRA,20,18,RD,Lucas Dias
+425,1,02:20,FLA,20,18,3_Pts_T,Deryk
+426,1,02:22,FLA,20,18,RO,Jhonatan
+427,1,02:25,FLA,20,18,3_Pts_T,Nesbitt
+428,1,02:49,FLA,20,18,substituicao_entra,Nesbitt
+429,1,02:49,FLA,20,18,substituicao_sai,Olivinha
+430,1,02:49,FLA,20,18,substituicao_entra,Jhonatan
+431,1,02:49,FLA,20,18,substituicao_sai,Marquinhos
+432,1,02:49,FRA,20,18,substituicao_entra,Cipolini
+433,1,02:49,FRA,20,18,substituicao_sai,Hettsheimeir
+434,1,02:49,FRA,20,18,substituicao_entra,Alexey
+435,1,02:49,FRA,20,18,substituicao_sai,Elinho
+436,1,02:49,FRA,20,18,ER,Elinho
+437,1,02:55,FLA,20,18,3_Pts_C,Deryk
+438,1,03:19,FRA,20,15,AS,Lucas Dias
+439,1,03:19,FRA,20,15,3_Pts_C,Hettsheimeir
+440,1,03:23,FRA,17,15,RD,Elinho
+441,1,03:26,FLA,17,15,3_Pts_T,Marquinhos
+442,1,03:36,FLA,17,15,BR,Varejão
+443,1,03:36,FRA,17,15,ER,Hettsheimeir
+444,1,03:46,FLA,17,15,2_Pts_C,Varejão
+445,1,03:47,FLA,17,13,RO,Varejão
+446,1,03:51,FLA,17,13,2_Pts_T,Varejão
+447,1,04:06,FRA,17,13,2_Pts_C,David Jackson
+448,1,04:07,FRA,15,13,RO,David Jackson
+449,1,04:12,FRA,15,13,2_Pts_T,Lucas Dias
+450,1,04:24,FRA,15,13,RD,David Jackson
+451,1,04:27,FLA,15,13,2_Pts_T,Varejão
+452,1,04:44,FLA,15,13,RD,Flamengo
+453,1,04:50,FRA,15,13,2_Pts_T,Hettsheimeir
+454,1,04:57,FRA,15,13,FR,Hettsheimeir
+455,1,04:57,FLA,15,13,FC,Varejão
+456,1,04:57,FRA,15,13,RO,Hettsheimeir
+457,1,04:57,FRA,15,13,2_Pts_T,Hettsheimeir
+458,1,05:06,FRA,15,13,RD,Lucas Dias
+459,1,05:11,FLA,15,13,3_Pts_T,Balbi
+460,1,05:34,FRA,15,13,AS,Elinho
+461,1,05:34,FRA,15,13,3_Pts_C,Lucas Dias
+462,1,05:38,FRA,12,13,FR,Lucas Dias
+463,1,05:38,FLA,12,13,FC,Olivinha
+464,1,05:39,FRA,12,13,RO,Jimmy
+465,1,05:44,FLA,12,13,TO,Varejão
+466,1,05:44,FRA,12,13,2_Pts_T,Hettsheimeir
+467,1,05:50,FRA,12,13,RD,Hettsheimeir
+468,1,05:53,FLA,12,13,2_Pts_T,Balbi
+469,1,06:00,FLA,12,13,FR,Balbi
+470,1,06:00,FRA,12,13,FC,David Jackson
+471,1,06:17,FRA,12,13,2_Pts_C,David Jackson
+472,1,06:32,FLA,10,13,AS,Balbi
+473,1,06:32,FLA,10,13,3_Pts_C,Olivinha
+474,1,06:36,FLA,10,10,RD,Varejão
+475,1,06:40,FRA,10,10,2_Pts_T,David Jackson
+476,1,06:48,FRA,10,10,RD,Hettsheimeir
+477,1,06:52,FLA,10,10,3_Pts_T,Balbi
+478,1,07:15,FRA,10,10,2_Pts_C,Elinho
+479,1,07:19,FRA,8,10,RD,Hettsheimeir
+480,1,07:22,FLA,8,10,3_Pts_T,Varejão
+481,1,07:39,FRA,8,10,AS,David Jackson
+482,1,07:39,FRA,8,10,3_Pts_C,Hettsheimeir
+483,1,08:01,FLA,5,10,3_Pts_C,Balbi
+484,1,08:07,FLA,5,7,RD,Varejão
+485,1,08:11,FRA,5,7,2_Pts_T,Elinho
+486,1,08:23,FLA,5,7,2_Pts_C,Balbi
+487,1,08:43,FRA,5,5,AS,Elinho
+488,1,08:43,FRA,5,5,3_Pts_C,Jimmy
+489,1,08:53,FLA,2,5,LL_Pts_C,Varejão
+490,1,08:53,FLA,2,4,LL_Pts_C,Varejão
+491,1,08:53,FLA,2,3,FR,Varejão
+492,1,08:53,FRA,2,3,FC,Hettsheimeir
+493,1,09:18,FRA,2,3,2_Pts_C,Lucas Dias
+494,1,09:30,FLA,0,3,AS,Marquinhos
+495,1,09:30,FLA,0,3,3_Pts_C,Olivinha
+496,1,09:37,FLA,0,0,RD,Marquinhos
+497,1,09:40,FRA,0,0,2_Pts_T,Lucas Dias
+498,1,10:00,FLA,0,0,substituicao_entra,Varejão
+499,1,10:00,FLA,0,0,substituicao_entra,Olivinha
+500,1,10:00,FLA,0,0,substituicao_entra,Marquinhos
+501,1,10:00,FLA,0,0,substituicao_entra,Deryk
+502,1,10:00,FLA,0,0,substituicao_entra,Balbi
+503,1,10:00,FRA,0,0,substituicao_entra,David Jackson
+504,1,10:00,FRA,0,0,substituicao_entra,Hettsheimeir
+505,1,10:00,FRA,0,0,substituicao_entra,Jimmy
+506,1,10:00,FRA,0,0,substituicao_entra,Lucas Dias
+507,1,10:00,FRA,0,0,substituicao_entra,Elinho
+508,1,10:00,NaN,0,0,inicio_partida,

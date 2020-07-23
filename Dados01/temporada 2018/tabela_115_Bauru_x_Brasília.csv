@@ -1,0 +1,499 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,75,76,fim_partida,
+1,4,00:00,NaN,75,76,fim_quarto, 
+2,4,00:00,BAU,75,76,RO,Lucas
+3,4,00:01,BAU,75,76,LL_Pts_T,Lucas
+4,4,00:01,BAU,75,76,LL_Pts_C,Lucas
+5,4,00:01,BAU,74,76,FR,Lucas
+6,4,00:01,BRA,74,76,FC,Nezinho
+7,4,00:03,BAU,74,76,LL_Pts_T,Larry
+8,4,00:03,BAU,74,76,LL_Pts_C,Larry
+9,4,00:03,BRA,73,76,substituicao_entra,Marcelão
+10,4,00:03,BRA,73,76,substituicao_sai,Rafa Moreira
+11,4,00:03,BAU,73,76,FR,Larry
+12,4,00:03,BRA,73,76,FC,Nezinho
+13,4,00:06,BRA,73,76,LL_Pts_C,Andrezão
+14,4,00:06,BRA,73,75,LL_Pts_C,Andrezão
+15,4,00:06,BAU,73,74,substituicao_entra,Jefferson
+16,4,00:06,BAU,73,74,substituicao_sai,Gustavo
+17,4,00:06,BRA,73,74,FR,Andrezão
+18,4,00:06,BAU,73,74,FC,Ruiz
+19,4,00:06,BRA,73,74,substituicao_entra,Rafa Moreira
+20,4,00:06,BRA,73,74,substituicao_sai,Marcelão
+21,4,00:06,BAU,73,74,substituicao_entra,Gustavo
+22,4,00:06,BAU,73,74,substituicao_sai,Jefferson
+23,4,00:06,BRA,73,74,Caixa,Universo
+24,4,00:06,BAU,73,74,LL_Pts_C,Jefferson
+25,4,00:06,BAU,72,74,LL_Pts_C,Jefferson
+26,4,00:06,BRA,71,74,substituicao_entra,Marcelão
+27,4,00:06,BRA,71,74,substituicao_sai,Graterol
+28,4,00:06,BAU,71,74,FR,Jefferson
+29,4,00:06,BRA,71,74,FC,Graterol
+30,4,00:09,BAU,71,74,tempo_tecnico,Bauru
+31,4,00:09,BRA,71,74,ER,Arthur
+32,4,00:09,BRA,71,74,RO,Arthur
+33,4,00:16,BRA,71,74,2_Pts_T,Nezinho
+34,4,00:36,BAU,71,74,LL_Pts_C,Lucas
+35,4,00:36,BAU,70,74,LL_Pts_T,Lucas
+36,4,00:36,BAU,70,74,FR,Lucas
+37,4,00:36,BRA,70,74,FC,Graterol
+38,4,00:37,BAU,70,74,RO,Lucas
+39,4,00:41,BAU,70,74,3_Pts_T,Jefferson
+40,4,00:54,BAU,70,74,substituicao_entra,Lucas
+41,4,00:54,BAU,70,74,substituicao_sai,Cauê
+42,4,00:54,BAU,70,74,tempo_tecnico,Bauru
+43,4,00:54,BRA,70,74,AS,Arthur
+44,4,00:54,BRA,70,74,2_Pts_C,Andrezão
+45,4,01:11,BAU,70,72,substituicao_entra,Alex
+46,4,01:11,BAU,70,72,substituicao_sai,Lucas
+47,4,01:11,BRA,70,72,RD,Zach Graham
+48,4,01:11,BAU,70,72,2_Pts_T,Larry
+49,4,01:39,BAU,70,72,RD,Larry
+50,4,01:45,BRA,70,72,2_Pts_T,Arthur
+51,4,02:00,BRA,70,72,RD,Arthur
+52,4,02:05,BAU,70,72,3_Pts_T,Larry
+53,4,02:15,BRA,70,72,2_Pts_C,Zach Graham
+54,4,02:27,BAU,70,70,ER,Jefferson
+55,4,02:47,BRA,70,70,AS,Zach Graham
+56,4,02:47,BRA,70,70,2_Pts_C,Graterol
+57,4,03:03,BAU,70,68,AS,Jefferson
+58,4,03:03,BAU,70,68,3_Pts_C,Lucas
+59,4,03:12,BAU,67,68,RO,Ruiz
+60,4,03:14,BAU,67,68,LL_Pts_T,Ruiz
+61,4,03:14,BAU,67,68,LL_Pts_C,Ruiz
+62,4,03:14,BAU,66,68,FR,Ruiz
+63,4,03:14,BRA,66,68,FC,Andrezão
+64,4,03:30,BRA,66,68,ER,Nezinho
+65,4,03:47,BRA,66,68,RD,Arthur
+66,4,03:51,BAU,66,68,LL_Pts_T,Lucas
+67,4,03:51,BAU,66,68,LL_Pts_T,Lucas
+68,4,03:51,BAU,66,68,FR,Lucas
+69,4,03:51,BRA,66,68,FC,Nezinho
+70,4,03:58,BAU,66,68,RD,Larry
+71,4,04:04,BRA,66,68,3_Pts_T,Andrezão
+72,4,04:23,BRA,66,68,RD,Arthur
+73,4,04:30,BAU,66,68,3_Pts_T,Cauê
+74,4,04:54,BRA,66,68,AS,Arthur
+75,4,04:54,BRA,66,68,3_Pts_C,Nezinho
+76,4,05:13,BRA,66,65,Caixa,Universo
+77,4,05:14,BAU,66,65,AS,Larry
+78,4,05:14,BAU,66,65,3_Pts_C,Cauê
+79,4,05:16,BAU,63,65,RD,Larry
+80,4,05:20,BRA,63,65,3_Pts_T,Nezinho
+81,4,05:33,BAU,63,65,LL_Pts_C,Larry
+82,4,05:33,BAU,62,65,LL_Pts_C,Larry
+83,4,05:33,BAU,61,65,FR,Larry
+84,4,05:33,BRA,61,65,FC,Nezinho
+85,4,05:43,BRA,61,65,2_Pts_C,Andrezão
+86,4,05:53,BRA,61,63,RO,Graterol
+87,4,05:56,BRA,61,63,LL_Pts_T,Andrezão
+88,4,05:56,BRA,61,63,LL_Pts_T,Andrezão
+89,4,05:56,BRA,61,63,FR,Andrezão
+90,4,05:56,BAU,61,63,FC,Jefferson
+91,4,05:56,BRA,61,63,RD,Graterol
+92,4,06:02,BAU,61,63,2_Pts_T,Jefferson
+93,4,06:15,BAU,61,63,FR,Lucas
+94,4,06:15,BRA,61,63,FC,Graterol
+95,4,06:29,BAU,61,63,substituicao_entra,Jefferson
+96,4,06:29,BAU,61,63,substituicao_sai,Gustavo
+97,4,06:29,BAU,61,63,FR,Gustavo
+98,4,06:29,BRA,61,63,ER,Zach Graham
+99,4,06:29,BRA,61,63,FC_O,Zach Graham
+100,4,06:30,BRA,61,63,RO,Andrezão
+101,4,06:36,BRA,61,63,3_Pts_T,Zach Graham
+102,4,06:54,BRA,61,63,RD,Graterol
+103,4,07:00,BAU,61,63,3_Pts_T,Larry
+104,4,07:22,BRA,61,63,ER,Graterol
+105,4,07:38,BRA,61,63,LL_Pts_T,Nezinho
+106,4,07:38,BRA,61,63,LL_Pts_C,Nezinho
+107,4,07:38,BAU,61,62,substituicao_entra,Ruiz
+108,4,07:38,BAU,61,62,substituicao_sai,Alex
+109,4,07:38,BRA,61,62,FR,Nezinho
+110,4,07:38,BAU,61,62,ER,Alex
+111,4,07:38,BAU,61,62,FC_A,Alex
+112,4,07:39,BAU,61,62,RD,Alex
+113,4,07:44,BRA,61,62,2_Pts_T,Nezinho
+114,4,08:07,BRA,61,62,substituicao_entra,Arthur
+115,4,08:07,BRA,61,62,substituicao_sai,Rafa Moreira
+116,4,08:07,BRA,61,62,Caixa,Universo
+117,4,08:13,BAU,61,62,3_Pts_T,Cauê
+118,4,08:22,BAU,61,62,RD,Lucas
+119,4,08:27,BRA,61,62,2_Pts_T,Rafa Moreira
+120,4,08:34,BRA,61,62,RD,Graterol
+121,4,08:34,BAU,61,62,3_Pts_T,Larry
+122,4,08:34,BAU,61,62,FR,Alex
+123,4,08:34,BRA,61,62,FC,Andrezão
+124,4,08:41,BAU,61,62,BR,Alex
+125,4,08:41,BRA,61,62,ER,Zach Graham
+126,4,08:54,BRA,61,62,LL_Pts_C,Zach Graham
+127,4,08:54,BAU,61,61,FC_T,Lucas
+128,4,08:54,BRA,61,61,FR,Andrezão
+129,4,08:54,BAU,61,61,ER,Lucas
+130,4,08:54,BAU,61,61,FC_O,Lucas
+131,4,08:54,BAU,61,61,RO,Lucas
+132,4,09:01,BAU,61,61,3_Pts_T,Alex
+133,4,09:22,BAU,61,61,FR,Larry
+134,4,09:22,BRA,61,61,FC,Rafa Moreira
+135,4,09:32,BRA,61,61,AS,Andrezão
+136,4,09:32,BRA,61,61,3_Pts_C,Zach Graham
+137,4,09:32,BRA,61,58,FR,Graterol
+138,4,09:32,BAU,61,58,FC,Cauê
+139,4,09:42,BAU,61,58,AS,Larry
+140,4,09:42,BAU,61,58,2_Pts_C,Gustavo
+141,4,09:47,BAU,59,58,RD,Lucas
+142,4,09:50,BRA,59,58,3_Pts_T,Nezinho
+143,4,10:00,NaN,59,58,inicio_quarto,
+144,3,00:00,NaN,59,58,fim_quarto,
+145,3,00:03,BAU,59,58,RD,Lucas
+146,3,00:06,BRA,59,58,LL_Pts_T,Nezinho
+147,3,00:06,BRA,59,58,LL_Pts_T,Nezinho
+148,3,00:06,BRA,59,58,FR,Nezinho
+149,3,00:06,BAU,59,58,FC,Samuel
+150,3,00:06,BAU,59,58,substituicao_entra,Samuel
+151,3,00:06,BAU,59,58,substituicao_sai,Alex
+152,3,00:23,BAU,59,58,AS,Alex
+153,3,00:23,BAU,59,58,3_Pts_C,Cauê
+154,3,00:23,BAU,56,58,RD,Cauê
+155,3,00:25,BRA,56,58,2_Pts_T,Rodrigo
+156,3,00:59,BAU,56,58,2_Pts_C,Larry
+157,3,01:04,BAU,54,58,substituicao_entra,Larry
+158,3,01:04,BAU,54,58,substituicao_sai,Gustavo
+159,3,01:15,BRA,54,58,ER,Nezinho
+160,3,01:18,BRA,54,58,RD,Rafa Moreira
+161,3,01:23,BAU,54,58,2_Pts_T,Alex
+162,3,01:42,BRA,54,58,LL_Pts_C,Rafa Moreira
+163,3,01:42,BRA,54,57,LL_Pts_T,Rafa Moreira
+164,3,01:42,BRA,54,57,FR,Rafa Moreira
+165,3,01:42,BAU,54,57,FC,Jefferson
+166,3,01:47,BRA,54,57,FR,Zach Graham
+167,3,01:47,BAU,54,57,FC,Cauê
+168,3,01:52,BRA,54,57,RD,Rafa Moreira
+169,3,01:58,BAU,54,57,3_Pts_T,Jefferson
+170,3,02:08,BRA,54,57,LL_Pts_C,Zach Graham
+171,3,02:08,BRA,54,56,FR,Zach Graham
+172,3,02:08,BAU,54,56,FC,Gustavo
+173,3,02:08,BRA,54,56,2_Pts_C,Zach Graham
+174,3,02:27,BAU,54,54,LL_Pts_C,Jefferson
+175,3,02:27,BAU,53,54,LL_Pts_C,Jefferson
+176,3,02:27,BRA,52,54,substituicao_entra,Rodrigo
+177,3,02:27,BRA,52,54,substituicao_sai,Gui
+178,3,02:27,BAU,52,54,FR,Jefferson
+179,3,02:27,BRA,52,54,FC,Gui
+180,3,02:27,BAU,52,54,RO,Jefferson
+181,3,02:33,BAU,52,54,3_Pts_T,Alex
+182,3,02:43,BAU,52,54,RD,Lucas
+183,3,02:49,BRA,52,54,2_Pts_T,Nezinho
+184,3,02:58,BAU,52,54,LL_Pts_C,Jefferson
+185,3,02:58,BAU,51,54,LL_Pts_C,Jefferson
+186,3,02:58,BAU,50,54,FR,Jefferson
+187,3,02:58,BRA,50,54,FC,Rafa Moreira
+188,3,02:58,BAU,50,54,RD,Alex
+189,3,03:07,BRA,50,54,3_Pts_T,Rafa Moreira
+190,3,03:15,BRA,50,54,substituicao_entra,Gui
+191,3,03:15,BRA,50,54,substituicao_sai,Andrezão
+192,3,03:15,BAU,50,54,substituicao_entra,Alex
+193,3,03:15,BAU,50,54,substituicao_sai,Ruiz
+194,3,03:21,BRA,50,54,RD,Zach Graham
+195,3,03:26,BAU,50,54,3_Pts_T,Jefferson
+196,3,03:38,BRA,50,54,2_Pts_C,Andrezão
+197,3,04:00,BRA,50,52,2_Pts_C,Graterol
+198,3,04:04,BAU,50,50,substituicao_entra,Cauê
+199,3,04:04,BAU,50,50,substituicao_sai,Larry
+200,3,04:04,BAU,50,50,ER,
+201,3,04:23,BRA,50,50,RO,Graterol
+202,3,04:30,BRA,50,50,2_Pts_T,Nezinho
+203,3,04:38,BRA,50,50,BR,Nezinho
+204,3,04:38,BAU,50,50,ER,Lucas
+205,3,04:55,BAU,50,50,LL_Pts_C,Jefferson
+206,3,04:55,BRA,49,50,FC_T,Zach Graham
+207,3,05:04,BRA,49,50,3_Pts_C,Zach Graham
+208,3,05:26,BAU,49,47,AS,Gustavo
+209,3,05:26,BAU,49,47,3_Pts_C,Jefferson
+210,3,05:43,BRA,46,47,AS,Graterol
+211,3,05:43,BRA,46,47,3_Pts_C,Zach Graham
+212,3,05:51,BRA,46,44,FR,Zach Graham
+213,3,05:51,BAU,46,44,FC,Ruiz
+214,3,06:06,BAU,46,44,LL_Pts_C,Jefferson
+215,3,06:06,BAU,45,44,LL_Pts_T,Jefferson
+216,3,06:18,BAU,45,44,FR,Jefferson
+217,3,06:18,BRA,45,44,FC,Andrezão
+218,3,06:28,BRA,45,44,substituicao_entra,Rafa Moreira
+219,3,06:28,BRA,45,44,substituicao_sai,Arthur
+220,3,06:52,BAU,45,44,FR,Gustavo
+221,3,06:52,BRA,45,44,ER,Arthur
+222,3,06:52,BRA,45,44,FC_O,Arthur
+223,3,06:58,BRA,45,44,BR,Graterol
+224,3,06:58,BAU,45,44,ER,Larry
+225,3,06:58,BRA,45,44,RD,Andrezão
+226,3,06:58,BAU,45,44,tempo_tecnico,Bauru
+227,3,06:59,BRA,45,44,2_Pts_C,Nezinho
+228,3,07:16,BRA,45,42,BR,Arthur
+229,3,07:16,BAU,45,42,ER,Lucas
+230,3,07:20,BRA,45,42,2_Pts_C,Andrezão
+231,3,07:23,BAU,45,40,2_Pts_T,Gustavo
+232,3,07:34,BAU,45,40,BR,Ruiz
+233,3,07:34,BRA,45,40,ER,Nezinho
+234,3,07:52,BAU,45,40,2_Pts_C,Lucas
+235,3,08:03,BAU,43,40,RD,Lucas
+236,3,08:08,BRA,43,40,3_Pts_T,Nezinho
+237,3,08:33,BRA,43,40,AS,Nezinho
+238,3,08:33,BRA,43,40,2_Pts_C,Graterol
+239,3,08:33,BRA,43,38,RD,Nezinho
+240,3,08:33,BAU,43,38,2_Pts_T,Jefferson
+241,3,08:33,BAU,43,38,FR,Gustavo
+242,3,08:33,BRA,43,38,FC,Arthur
+243,3,08:59,BAU,43,38,substituicao_entra,Gustavo
+244,3,08:59,BAU,43,38,substituicao_sai,Alex
+245,3,08:59,BAU,43,38,BR,Ruiz
+246,3,08:59,BRA,43,38,ER,Zach Graham
+247,3,09:08,BRA,43,38,FR,Graterol
+248,3,09:08,BAU,43,38,ER,Alex
+249,3,09:08,BAU,43,38,FC_O,Alex
+250,3,09:27,BRA,43,38,AS,Nezinho
+251,3,09:27,BRA,43,38,2_Pts_C,Zach Graham
+252,3,09:39,BRA,43,36,Caixa,Universo
+253,3,09:46,BAU,43,36,3_Pts_T,Alex
+254,3,10:00,NaN,43,36,inicio_quarto,
+255,2,00:00,NaN,43,36,fim_quarto,
+256,2,00:04,BAU,43,36,substituicao_entra,Lucas
+257,2,00:04,BRA,43,36,substituicao_entra,Arthur
+258,2,00:04,BRA,43,36,substituicao_sai,P  Rava
+259,2,00:04,BAU,43,36,substituicao_sai,Gustavo
+260,2,00:04,BAU,43,36,substituicao_entra,Cauê
+261,2,00:04,BAU,43,36,substituicao_sai,Samuel
+262,2,00:06,BRA,43,36,Caixa,Universo
+263,2,00:06,BAU,43,36,AS,Larry
+264,2,00:06,BAU,43,36,2_Pts_C,Gustavo
+265,2,00:22,BAU,41,36,RD,Larry
+266,2,00:30,BRA,41,36,3_Pts_T,Nezinho
+267,2,00:36,BRA,41,36,FR,Graterol
+268,2,00:36,BAU,41,36,ER,Renato
+269,2,00:36,BAU,41,36,FC_O,Renato
+270,2,00:46,BAU,41,36,substituicao_entra,Gustavo
+271,2,00:46,BAU,41,36,substituicao_sai,Ruiz
+272,2,00:46,BRA,41,36,AS,Nezinho
+273,2,00:46,BRA,41,36,3_Pts_C,Zach Graham
+274,2,00:48,BRA,41,33,RD,Nezinho
+275,2,00:59,BRA,41,33,TO,Andrezão
+276,2,00:59,BAU,41,33,3_Pts_T,Alex
+277,2,01:19,BRA,41,33,AS,Andrezão
+278,2,01:19,BRA,41,33,2_Pts_C,P  Rava
+279,2,01:42,BAU,41,31,LL_Pts_C,Alex
+280,2,01:42,BAU,40,31,LL_Pts_C,Alex
+281,2,01:42,BRA,39,31,substituicao_entra,Graterol
+282,2,01:42,BRA,39,31,substituicao_sai,Marcelão
+283,2,01:46,BAU,39,31,FR,Alex
+284,2,01:46,BRA,39,31,FC,Marcelão
+285,2,01:49,BRA,39,31,substituicao_entra,P  Rava
+286,2,01:49,BRA,39,31,substituicao_sai,Gui
+287,2,01:56,BRA,39,31,ER,Gui
+288,2,01:58,BRA,39,31,LL_Pts_T,Zach Graham
+289,2,01:58,BAU,39,31,FC_T,Ruiz
+290,2,01:58,BRA,39,31,substituicao_entra,Andrezão
+291,2,01:58,BRA,39,31,substituicao_sai,Rafa Moreira
+292,2,01:58,BAU,39,31,substituicao_entra,Renato
+293,2,01:58,BAU,39,31,substituicao_sai,Marcão
+294,2,01:58,BRA,39,31,FR,Gui
+295,2,01:58,BAU,39,31,FC,Marcão
+296,2,01:58,BRA,39,31,RD,Gui
+297,2,02:02,BAU,39,31,2_Pts_T,Alex
+298,2,02:23,BRA,39,31,AS,Rafa Moreira
+299,2,02:23,BRA,39,31,2_Pts_C,Marcelão
+300,2,02:43,BAU,39,29,AS,Alex
+301,2,02:43,BAU,39,29,2_Pts_C,Marcão
+302,2,02:55,BAU,37,29,BR,Samuel
+303,2,02:55,BRA,37,29,ER,Gui
+304,2,03:19,BAU,37,29,substituicao_entra,Alex
+305,2,03:19,BAU,37,29,substituicao_sai,Cauê
+306,2,03:20,BAU,37,29,AS,Larry
+307,2,03:20,BAU,37,29,2_Pts_C,Samuel
+308,2,03:22,BAU,35,29,RD,Larry
+309,2,03:26,BRA,35,29,3_Pts_T,Rafa Moreira
+310,2,03:42,BAU,35,29,2_Pts_C,Marcão
+311,2,03:51,BAU,33,29,RD,Marcão
+312,2,03:56,BRA,33,29,2_Pts_T,Marcelão
+313,2,03:59,BRA,33,29,RD,Rafa Moreira
+314,2,04:05,BAU,33,29,2_Pts_T,Larry
+315,2,04:15,BAU,33,29,LL_Pts_T,Ruiz
+316,2,04:15,BRA,33,29,ER,
+317,2,04:15,BRA,33,29,Caixa,Técnico do Universo
+318,2,04:20,BRA,33,29,substituicao_entra,Gui
+319,2,04:20,BRA,33,29,substituicao_sai,Arthur
+320,2,04:20,BAU,33,29,substituicao_entra,Marcão
+321,2,04:20,BAU,33,29,substituicao_sai,Lucas
+322,2,04:21,BRA,33,29,RD,Nezinho
+323,2,04:25,BAU,33,29,2_Pts_T,Samuel
+324,2,04:35,BAU,33,29,TO,Cauê
+325,2,04:35,BAU,33,29,RD,Lucas
+326,2,04:35,BRA,33,29,2_Pts_T,Zach Graham
+327,2,04:38,BRA,33,29,RO,Marcelão
+328,2,04:42,BRA,33,29,2_Pts_T,Arthur
+329,2,04:43,BRA,33,29,RO,Marcelão
+330,2,04:47,BRA,33,29,3_Pts_T,Nezinho
+331,2,04:50,BRA,33,29,RD,Rafa Moreira
+332,2,04:57,BAU,33,29,3_Pts_T,Lucas
+333,2,04:58,BAU,33,29,FR,Larry
+334,2,04:58,BRA,33,29,FC,Rafa Moreira
+335,2,05:18,BRA,33,29,AS,Nezinho
+336,2,05:18,BRA,33,29,2_Pts_C,Rafa Moreira
+337,2,05:22,BRA,33,27,RD,Marcelão
+338,2,05:26,BAU,33,27,2_Pts_T,Cauê
+339,2,05:41,BRA,33,27,ER,Arthur
+340,2,05:56,BRA,33,27,FR,Nezinho
+341,2,05:56,BAU,33,27,FC,Samuel
+342,2,06:10,BAU,33,27,3_Pts_C,Ruiz
+343,2,06:13,BAU,30,27,RD,Samuel
+344,2,06:21,BRA,30,27,3_Pts_T,Rafa Moreira
+345,2,06:26,BRA,30,27,substituicao_entra,Nezinho
+346,2,06:26,BRA,30,27,substituicao_sai,P  Rava
+347,2,06:26,BRA,30,27,substituicao_entra,Zach Graham
+348,2,06:26,BRA,30,27,substituicao_sai,Gui
+349,2,06:26,BAU,30,27,substituicao_entra,Ruiz
+350,2,06:26,BAU,30,27,substituicao_sai,Jefferson
+351,2,06:29,BRA,30,27,RD,Marcelão
+352,2,06:34,BAU,30,27,3_Pts_T,Larry
+353,2,06:41,BRA,30,27,AS,Arthur
+354,2,06:41,BRA,30,27,2_Pts_C,Marcelão
+355,2,06:43,BRA,30,25,RD,Rafa Moreira
+356,2,06:52,BRA,30,25,TO,Marcelão
+357,2,06:52,BAU,30,25,2_Pts_T,Jefferson
+358,2,07:19,BAU,30,25,RO,Samuel
+359,2,07:24,BAU,30,25,3_Pts_T,Jefferson
+360,2,07:26,BAU,30,25,RD,Lucas
+361,2,07:34,BRA,30,25,3_Pts_T,P  Rava
+362,2,07:52,BAU,30,25,2_Pts_C,Larry
+363,2,08:04,BRA,28,25,substituicao_entra,Marcelão
+364,2,08:04,BRA,28,25,substituicao_sai,Graterol
+365,2,08:04,BAU,28,25,substituicao_entra,Larry
+366,2,08:04,BAU,28,25,substituicao_sai,Gustavo
+367,2,08:04,BAU,28,25,FR,Lucas
+368,2,08:04,BRA,28,25,FC,Gui
+369,2,08:04,BAU,28,25,RO,Lucas
+370,2,08:05,BAU,28,25,2_Pts_T,Lucas
+371,2,08:34,BRA,28,25,2_Pts_C,Graterol
+372,2,08:36,BRA,28,23,RD,Rafa Moreira
+373,2,08:45,BAU,28,23,2_Pts_T,Samuel
+374,2,08:51,BAU,28,23,RD,Jefferson
+375,2,08:55,BRA,28,23,3_Pts_T,P  Rava
+376,2,08:59,BRA,28,23,FR,P  Rava
+377,2,08:59,BAU,28,23,FC,Jefferson
+378,2,09:00,BRA,28,23,RD,P  Rava
+379,2,09:06,BRA,28,23,TO,Rafa Moreira
+380,2,09:06,BAU,28,23,2_Pts_T,Lucas
+381,2,09:09,BAU,28,23,RD,Lucas
+382,2,09:13,BRA,28,23,2_Pts_T,Rafa Moreira
+383,2,09:22,BRA,28,23,RD,Rafa Moreira
+384,2,09:25,BAU,28,23,2_Pts_T,Jefferson
+385,2,09:37,BAU,28,23,RD,Gustavo
+386,2,09:42,BRA,28,23,2_Pts_T,Gui
+387,2,10:00,NaN,28,23,inicio_quarto,
+388,1,00:00,NaN,28,23,fim_quarto,
+389,1,00:05,BAU,28,23,2_Pts_C,Jefferson
+390,1,00:07,BAU,26,23,RO,Jefferson
+391,1,00:19,BAU,26,23,3_Pts_T,Samuel
+392,1,00:38,BRA,26,23,3_Pts_C,Arthur
+393,1,00:43,BRA,26,20,substituicao_entra,Arthur
+394,1,00:43,BRA,26,20,substituicao_sai,Andrezão
+395,1,00:43,BRA,26,20,substituicao_entra,P  Rava
+396,1,00:43,BRA,26,20,substituicao_sai,Nezinho
+397,1,00:43,BAU,26,20,substituicao_entra,Samuel
+398,1,00:43,BAU,26,20,substituicao_sai,Ruiz
+399,1,00:43,BRA,26,20,FR,Nezinho
+400,1,00:43,BAU,26,20,FC,Ruiz
+401,1,00:45,BRA,26,20,RD,Nezinho
+402,1,00:52,BAU,26,20,3_Pts_T,Gustavo
+403,1,01:19,BRA,26,20,AS,Nezinho
+404,1,01:19,BRA,26,20,3_Pts_C,Rafa Moreira
+405,1,01:45,BAU,26,17,AS,Jefferson
+406,1,01:45,BAU,26,17,3_Pts_C,Ruiz
+407,1,01:58,BRA,23,17,AS,Nezinho
+408,1,01:58,BRA,23,17,3_Pts_C,Gui
+409,1,02:16,BAU,23,14,AS,Ruiz
+410,1,02:16,BAU,23,14,3_Pts_C,Lucas
+411,1,02:27,BAU,20,14,BR,Cauê
+412,1,02:27,BRA,20,14,ER,Andrezão
+413,1,02:41,BAU,20,14,AS,Lucas
+414,1,02:41,BAU,20,14,2_Pts_C,Cauê
+415,1,02:49,BAU,18,14,FR,Ruiz
+416,1,02:49,BRA,18,14,FC,Gui
+417,1,02:51,BRA,18,14,substituicao_entra,Gui
+418,1,02:51,BRA,18,14,substituicao_sai,Zach Graham
+419,1,02:51,BAU,18,14,substituicao_entra,Cauê
+420,1,02:51,BAU,18,14,substituicao_sai,Larry
+421,1,02:51,BAU,18,14,FR,Lucas
+422,1,02:51,BRA,18,14,FC,Graterol
+423,1,03:10,BRA,18,14,2_Pts_C,Zach Graham
+424,1,03:28,BAU,18,12,AS,Larry
+425,1,03:28,BAU,18,12,3_Pts_C,Ruiz
+426,1,03:36,BRA,15,12,substituicao_entra,Rafa Moreira
+427,1,03:36,BRA,15,12,substituicao_sai,Arthur
+428,1,03:39,BRA,15,12,AS,Nezinho
+429,1,03:39,BRA,15,12,2_Pts_C,Graterol
+430,1,03:51,BAU,15,10,2_Pts_C,Larry
+431,1,03:54,BAU,13,10,RD,Larry
+432,1,04:02,BRA,13,10,3_Pts_T,Zach Graham
+433,1,04:18,BAU,13,10,2_Pts_C,Jefferson
+434,1,04:33,BRA,11,10,LL_Pts_C,Graterol
+435,1,04:33,BRA,11,9,LL_Pts_T,Graterol
+436,1,04:33,BAU,11,9,substituicao_entra,Lucas
+437,1,04:33,BAU,11,9,substituicao_sai,Alex
+438,1,04:33,BAU,11,9,substituicao_entra,Jefferson
+439,1,04:33,BAU,11,9,substituicao_sai,Marcão
+440,1,04:33,BRA,11,9,FR,Graterol
+441,1,04:33,BAU,11,9,FC,Alex
+442,1,04:33,BRA,11,9,BR,Graterol
+443,1,04:33,BAU,11,9,ER,Alex
+444,1,04:43,BRA,11,9,2_Pts_C,Andrezão
+445,1,04:53,BRA,11,7,BR,Nezinho
+446,1,04:53,BAU,11,7,ER,Alex
+447,1,04:55,BAU,11,7,RD,Alex
+448,1,05:08,BRA,11,7,2_Pts_T,Arthur
+449,1,05:10,BRA,11,7,RO,Andrezão
+450,1,05:16,BRA,11,7,3_Pts_T,Arthur
+451,1,05:26,BRA,11,7,RD,Arthur
+452,1,05:31,BAU,11,7,3_Pts_T,Alex
+453,1,05:33,BAU,11,7,RO,Marcão
+454,1,05:39,BAU,11,7,3_Pts_T,Gustavo
+455,1,05:48,BAU,11,7,FR,Alex
+456,1,05:48,BRA,11,7,FC,Arthur
+457,1,06:07,BRA,11,7,AS,Andrezão
+458,1,06:07,BRA,11,7,2_Pts_C,Zach Graham
+459,1,06:24,BAU,11,5,AS,Alex
+460,1,06:24,BAU,11,5,3_Pts_C,Gustavo
+461,1,06:34,BRA,8,5,2_Pts_C,Andrezão
+462,1,06:50,BAU,8,3,AS,Gustavo
+463,1,06:50,BAU,8,3,3_Pts_C,Larry
+464,1,06:57,BRA,5,3,2_Pts_C,Andrezão
+465,1,07:15,BAU,5,1,3_Pts_C,Ruiz
+466,1,07:20,BRA,2,1,ER,Graterol
+467,1,07:21,BRA,2,1,RD,Arthur
+468,1,07:25,BAU,2,1,2_Pts_T,Larry
+469,1,07:27,BAU,2,1,RO,Larry
+470,1,07:31,BAU,2,1,2_Pts_T,Larry
+471,1,07:47,BRA,2,1,LL_Pts_C,Arthur
+472,1,07:47,BRA,2,0,LL_Pts_T,Arthur
+473,1,07:47,BRA,2,0,FR,Arthur
+474,1,07:47,BAU,2,0,FC,Alex
+475,1,07:59,BRA,2,0,Caixa,Universo
+476,1,08:02,BRA,2,0,3_Pts_T,Arthur
+477,1,08:19,BAU,2,0,2_Pts_C,Gustavo
+478,1,08:39,BAU,0,0,RD,Bauru
+479,1,08:43,BRA,0,0,2_Pts_T,Graterol
+480,1,09:04,BRA,0,0,FR,Graterol
+481,1,09:04,BAU,0,0,ER,Marcão
+482,1,09:04,BAU,0,0,FC_O,Marcão
+483,1,09:16,BAU,0,0,RD,Bauru
+484,1,09:24,BRA,0,0,2_Pts_T,Arthur
+485,1,09:35,BRA,0,0,Caixa,Universo
+486,1,09:42,BAU,0,0,3_Pts_T,Ruiz
+487,1,10:00,BRA,0,0,substituicao_entra,Nezinho
+488,1,10:00,BRA,0,0,substituicao_entra,Andrezão
+489,1,10:00,BRA,0,0,substituicao_entra,Graterol
+490,1,10:00,BRA,0,0,substituicao_entra,Arthur
+491,1,10:00,BRA,0,0,substituicao_entra,Zach Graham
+492,1,10:00,BAU,0,0,substituicao_entra,Marcão
+493,1,10:00,BAU,0,0,substituicao_entra,Ruiz
+494,1,10:00,BAU,0,0,substituicao_entra,Gustavo
+495,1,10:00,BAU,0,0,substituicao_entra,Alex
+496,1,10:00,BAU,0,0,substituicao_entra,Larry
+497,1,10:00,NaN,0,0,inicio_partida,

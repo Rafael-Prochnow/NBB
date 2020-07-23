@@ -1,0 +1,506 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,86,75,fim_partida,
+1,4,00:02,FLA,86,75,AS,Marquinhos
+2,4,00:02,FLA,86,75,3_Pts_C,Cubillan
+3,4,00:13,FLA,83,75,substituicao_entra,Ramon
+4,4,00:13,FLA,83,75,substituicao_sai,Olivinha
+5,4,00:13,FLA,83,75,substituicao_entra,Batista
+6,4,00:13,FLA,83,75,substituicao_sai,Rhett
+7,4,00:13,JLE,83,75,2_Pts_C,Johnson
+8,4,00:31,FLA,83,73,LL_Pts_C,Marquinhos
+9,4,00:31,FLA,82,73,LL_Pts_C,Marquinhos
+10,4,00:31,JLE,81,73,substituicao_entra,J  Socas
+11,4,00:31,JLE,81,73,substituicao_sai,Stocks
+12,4,00:31,FLA,81,73,substituicao_entra,Rhett
+13,4,00:31,FLA,81,73,substituicao_sai,Batista
+14,4,00:31,FLA,81,73,FR,Marquinhos
+15,4,00:31,JLE,81,73,FC,Stocks
+16,4,00:35,JLE,81,73,3_Pts_C,Stocks
+17,4,00:47,JLE,81,70,RD,A  Bambu
+18,4,00:47,FLA,81,70,LL_Pts_T,Batista
+19,4,00:47,FLA,81,70,LL_Pts_T,Batista
+20,4,00:47,FLA,81,70,FR,Batista
+21,4,00:47,JLE,81,70,FC,A  Bambu
+22,4,00:55,FLA,81,70,FR,Cubillan
+23,4,00:55,JLE,81,70,FC,Tiagão
+24,4,01:03,FLA,81,70,RO,Arthur Pecos
+25,4,01:05,FLA,81,70,3_Pts_T,Marquinhos
+26,4,01:27,FLA,81,70,substituicao_entra,Batista
+27,4,01:27,FLA,81,70,substituicao_sai,João Vitor
+28,4,01:27,FLA,81,70,substituicao_entra,Olivinha
+29,4,01:27,FLA,81,70,substituicao_sai,Humberto G 
+30,4,01:27,FLA,81,70,tempo_tecnico,Flamengo
+31,4,01:27,JLE,81,70,2_Pts_C,Tiagão
+32,4,01:28,JLE,81,68,RO,Tiagão
+33,4,01:28,JLE,81,68,2_Pts_T,Johnson
+34,4,01:51,JLE,81,68,LL_Pts_C,Vezarinho
+35,4,01:51,FLA,81,67,substituicao_entra,Cubillan
+36,4,01:51,FLA,81,67,substituicao_sai,Ramon
+37,4,01:51,JLE,81,67, AABJ ,Joinville 
+38,4,01:51,FLA,81,67,FC_T,Técnico do Flamengo
+39,4,01:51,JLE,81,67,FR,Stocks
+40,4,01:51,FLA,81,67,ER,Ramon
+41,4,01:51,FLA,81,67,FC_O,Ramon
+42,4,01:58,FLA,81,67,RO,João Vitor
+43,4,02:00,FLA,81,67,3_Pts_T,Marquinhos
+44,4,02:24,FLA,81,67,RD,Ramon
+45,4,02:26,JLE,81,67,2_Pts_T,Vezarinho
+46,4,02:34,JLE,81,67,RD,Vezarinho
+47,4,02:36,FLA,81,67,2_Pts_T,Marquinhos
+48,4,02:40,FLA,81,67,RO,Marquinhos
+49,4,02:42,FLA,81,67,2_Pts_T,Arthur Pecos
+50,4,02:46,FLA,81,67,BR,Marquinhos
+51,4,02:46,JLE,81,67,ER,Johnson
+52,4,02:53,FLA,81,67,AS,Arthur Pecos
+53,4,02:53,FLA,81,67,EN,Marquinhos
+54,4,02:56,FLA,79,67,BR,Arthur Pecos
+55,4,02:56,JLE,79,67,ER,Stocks
+56,4,03:05,JLE,79,67,LL_Pts_C,Stocks
+57,4,03:05,JLE,79,66,LL_Pts_C,Stocks
+58,4,03:05,JLE,79,65,substituicao_entra,Vezarinho
+59,4,03:05,JLE,79,65,substituicao_sai,F  Vezaro
+60,4,03:05,JLE,79,65,FR,Stocks
+61,4,03:05,FLA,79,65,FC_A,Ramon
+62,4,03:06,JLE,79,65,RD,Stocks
+63,4,03:08,FLA,79,65,3_Pts_T,Marquinhos
+64,4,03:30,FLA,79,65,RD,Marquinhos
+65,4,03:32,JLE,79,65,2_Pts_T,A  Bambu
+66,4,03:45,JLE,79,65,FR,A  Bambu
+67,4,03:45,FLA,79,65,FC,João Vitor
+68,4,03:59,JLE,79,65, AABJ ,Joinville 
+69,4,03:59,FLA,79,65,3_Pts_T,Arthur Pecos
+70,4,04:15,JLE,79,65,substituicao_entra,Johnson
+71,4,04:15,JLE,79,65,substituicao_sai,Weihermann
+72,4,04:15,FLA,79,65,FR,Marquinhos
+73,4,04:15,JLE,79,65,FC,Tiagão
+74,4,04:36,JLE,79,65,2_Pts_C,A  Bambu
+75,4,04:37,JLE,79,63,RO,A  Bambu
+76,4,04:39,JLE,79,63,3_Pts_T,Weihermann
+77,4,05:00,JLE,79,63, AABJ ,Joinville 
+78,4,05:00,FLA,79,63,RO,Flamengo
+79,4,05:00,FLA,79,63,2_Pts_T,João Vitor
+80,4,05:02,FLA,79,63,RO,João Vitor
+81,4,05:04,FLA,79,63,2_Pts_T,Humberto G 
+82,4,05:21,FLA,79,63,RD,Marquinhos
+83,4,05:23,JLE,79,63,3_Pts_T,Tiagão
+84,4,05:32,JLE,79,63,RD,F  Vezaro
+85,4,05:36,FLA,79,63,3_Pts_T,Humberto G 
+86,4,05:41,FLA,79,63,FR,Arthur Pecos
+87,4,05:41,JLE,79,63,FC,Stocks
+88,4,05:48,JLE,79,63,2_Pts_C,Weihermann
+89,4,05:50,JLE,79,61,RO,Weihermann
+90,4,05:51,JLE,79,61,3_Pts_T,F  Vezaro
+91,4,06:05,FLA,79,61,AS,João Vitor
+92,4,06:05,FLA,79,61,2_Pts_C,Arthur Pecos
+93,4,06:07,FLA,77,61,RO,João Vitor
+94,4,06:09,FLA,77,61,2_Pts_T,Arthur Pecos
+95,4,06:24,FLA,77,61,RD,Marquinhos
+96,4,06:24,JLE,77,61,LL_Pts_T,Stocks
+97,4,06:24,JLE,77,61,LL_Pts_C,Stocks
+98,4,06:24,FLA,77,60,substituicao_entra,Marquinhos
+99,4,06:24,FLA,77,60,substituicao_sai,Marcelinho
+100,4,06:24,JLE,77,60,substituicao_entra,Tiagão
+101,4,06:24,JLE,77,60,substituicao_sai,Jerônimo
+102,4,06:24,JLE,77,60,substituicao_entra,A  Bambu
+103,4,06:24,JLE,77,60,substituicao_sai,Vezarinho
+104,4,06:24,JLE,77,60,FR,Stocks
+105,4,06:24,FLA,77,60,FC,Arthur Pecos
+106,4,06:39,FLA,77,60,AS,Arthur Pecos
+107,4,06:39,FLA,77,60,3_Pts_C,Ramon
+108,4,06:58,JLE,74,60,AS,Jerônimo
+109,4,06:58,JLE,74,60,3_Pts_C,Weihermann
+110,4,07:16,FLA,74,57,2_Pts_C,Arthur Pecos
+111,4,07:20,FLA,72,57,RO,Ramon
+112,4,07:22,FLA,72,57,3_Pts_T,Ramon
+113,4,07:23,FLA,72,57,RO,Ramon
+114,4,07:28,JLE,72,57,TO,Weihermann
+115,4,07:28,FLA,72,57,3_Pts_T,Marcelinho
+116,4,07:45,JLE,72,57,3_Pts_C,Weihermann
+117,4,07:49,JLE,72,54,RD,Stocks
+118,4,07:52,FLA,72,54,3_Pts_T,Marcelinho
+119,4,08:05,FLA,72,54,RD,Humberto G 
+120,4,08:07,JLE,72,54,2_Pts_T,Jerônimo
+121,4,08:23,JLE,72,54,RD,Weihermann
+122,4,08:23,FLA,72,54,LL_Pts_T,João Vitor
+123,4,08:23,FLA,72,54,LL_Pts_C,João Vitor
+124,4,08:23,FLA,71,54,FR,João Vitor
+125,4,08:23,JLE,71,54,FC,F  Vezaro
+126,4,08:24,FLA,71,54,RO,João Vitor
+127,4,08:24,FLA,71,54,2_Pts_T,Ramon
+128,4,08:45,JLE,71,54,2_Pts_C,Stocks
+129,4,08:55,FLA,71,52,substituicao_entra,João Vitor
+130,4,08:55,FLA,71,52,substituicao_sai,Batista
+131,4,08:55,JLE,71,52,FR,Jerônimo
+132,4,08:55,FLA,71,52,FC,Batista
+133,4,09:14,JLE,71,52,FR,Vezarinho
+134,4,09:14,FLA,71,52,ER,Humberto G 
+135,4,09:14,FLA,71,52,FC_O,Humberto G 
+136,4,09:30,FLA,71,52,RD,Batista
+137,4,09:32,JLE,71,52,3_Pts_T,Stocks
+138,4,09:46,FLA,71,52,AS,Ramon
+139,4,09:46,FLA,71,52,3_Pts_C,Marcelinho
+140,4,10:00,NaN,68,52,inicio_quarto,
+141,3,00:00,NaN,68,52,fim_quarto,
+142,3,00:01,JLE,68,52,2_Pts_T,F  Vezaro
+143,3,00:23,FLA,68,52,AS,Ramon
+144,3,00:23,FLA,68,52,3_Pts_C,Marcelinho
+145,3,00:35,JLE,65,52,substituicao_entra,F  Vezaro
+146,3,00:35,JLE,65,52,substituicao_sai,Johnson
+147,3,00:35,JLE,65,52,LL_Pts_C,Johnson
+148,3,00:35,JLE,65,51,LL_Pts_C,Johnson
+149,3,00:35,JLE,65,50,FR,Johnson
+150,3,00:35,FLA,65,50,FC,Olivinha
+151,3,00:36,JLE,65,50,BR,Johnson
+152,3,00:36,FLA,65,50,ER,Olivinha
+153,3,00:56,JLE,65,50,AS,Weihermann
+154,3,00:56,JLE,65,50,2_Pts_C,Jerônimo
+155,3,01:11,FLA,65,48,LL_Pts_C,Arthur Pecos
+156,3,01:11,FLA,64,48,LL_Pts_C,Arthur Pecos
+157,3,01:11,FLA,63,48,FR,Arthur Pecos
+158,3,01:11,JLE,63,48,ER,Weihermann
+159,3,01:11,JLE,63,48,FC_O,Weihermann
+160,3,01:24,FLA,63,48,RD,Arthur Pecos
+161,3,01:26,JLE,63,48,2_Pts_T,Stocks
+162,3,01:35,JLE,63,48,RD,Jerônimo
+163,3,01:38,FLA,63,48,2_Pts_T,Ramon
+164,3,01:53,FLA,63,48,RD,Olivinha
+165,3,01:54,JLE,63,48,LL_Pts_T,Stocks
+166,3,01:54,JLE,63,48,LL_Pts_C,Stocks
+167,3,01:54,JLE,63,47,substituicao_entra,Weihermann
+168,3,01:54,JLE,63,47,substituicao_sai,A  Bambu
+169,3,01:54,FLA,63,47,substituicao_entra,Humberto G 
+170,3,01:54,FLA,63,47,substituicao_sai,Marquinhos
+171,3,01:54,FLA,63,47,substituicao_entra,Marcelinho
+172,3,01:54,FLA,63,47,substituicao_sai,Rhett
+173,3,01:54,JLE,63,47,FR,Stocks
+174,3,01:54,FLA,63,47,FC,Arthur Pecos
+175,3,02:10,FLA,63,47,AS,Marquinhos
+176,3,02:10,FLA,63,47,3_Pts_C,Ramon
+177,3,02:34,FLA,60,47,RD,Marquinhos
+178,3,02:36,JLE,60,47,3_Pts_T,Vezarinho
+179,3,02:55,FLA,60,47,LL_Pts_C,Olivinha
+180,3,02:55,FLA,59,47,LL_Pts_C,Olivinha
+181,3,02:55,JLE,58,47,substituicao_entra,Jerônimo
+182,3,02:55,JLE,58,47,substituicao_sai,Maxwell
+183,3,02:55,JLE,58,47,substituicao_entra,Vezarinho
+184,3,02:55,JLE,58,47,substituicao_sai,J  Socas
+185,3,02:55,FLA,58,47,FR,Olivinha
+186,3,02:55,JLE,58,47,FC,Maxwell
+187,3,02:56,FLA,58,47,RO,Olivinha
+188,3,02:56,FLA,58,47,2_Pts_T,Rhett
+189,3,02:57,FLA,58,47,RO,Rhett
+190,3,02:59,FLA,58,47,3_Pts_T,Marquinhos
+191,3,03:03,FLA,58,47,RO,Olivinha
+192,3,03:05,FLA,58,47,3_Pts_T,Ramon
+193,3,03:28,FLA,58,47,RD,Olivinha
+194,3,03:29,JLE,58,47,2_Pts_T,Maxwell
+195,3,03:32,JLE,58,47,RO,Johnson
+196,3,03:34,JLE,58,47,3_Pts_T,Maxwell
+197,3,03:50,JLE,58,47, AABJ ,Joinville 
+198,3,03:53,FLA,58,47,LL_Pts_C,Ramon
+199,3,03:53,FLA,57,47,LL_Pts_C,Ramon
+200,3,03:53,FLA,56,47,FR,Ramon
+201,3,03:53,JLE,56,47,FC,J  Socas
+202,3,03:58,FLA,56,47,RD,Ramon
+203,3,03:59,JLE,56,47,2_Pts_T,J  Socas
+204,3,04:00,JLE,56,47,RO,A  Bambu
+205,3,04:07,FLA,56,47,TO,Rhett
+206,3,04:07,JLE,56,47,2_Pts_T,Johnson
+207,3,04:22,FLA,56,47,LL_Pts_C,Marquinhos
+208,3,04:22,FLA,55,47,FR,Marquinhos
+209,3,04:22,JLE,55,47,FC,A  Bambu
+210,3,04:22,FLA,55,47,2_Pts_C,Marquinhos
+211,3,04:36,JLE,53,47,LL_Pts_C,Stocks
+212,3,04:36,JLE,53,46,LL_Pts_C,Stocks
+213,3,04:36,FLA,53,45,substituicao_entra,Olivinha
+214,3,04:36,FLA,53,45,substituicao_sai,Batista
+215,3,04:36,JLE,53,45,FR,Stocks
+216,3,04:36,FLA,53,45,FC,Batista
+217,3,04:38,JLE,53,45,BR,Stocks
+218,3,04:38,FLA,53,45,ER,Batista
+219,3,04:44,FLA,53,45,RD,Batista
+220,3,04:46,JLE,53,45,3_Pts_T,Maxwell
+221,3,05:09,FLA,53,45,LL_Pts_C,Arthur Pecos
+222,3,05:09,FLA,52,45,LL_Pts_T,Arthur Pecos
+223,3,05:09,FLA,52,45,FR,Arthur Pecos
+224,3,05:09,JLE,52,45,FC,Stocks
+225,3,05:13,JLE,52,45,ER,Stocks
+226,3,05:20,JLE,52,45,FR,J  Socas
+227,3,05:20,FLA,52,45,FC,Ramon
+228,3,05:22,FLA,52,45,LL_Pts_C,Batista
+229,3,05:22,FLA,51,45,FR,Batista
+230,3,05:22,JLE,51,45,FC,Maxwell
+231,3,05:22,FLA,51,45,AS,Marquinhos
+232,3,05:22,FLA,51,45,2_Pts_C,Batista
+233,3,05:35,JLE,49,45,AS,F  Vezaro
+234,3,05:35,JLE,49,45,LL_Pts_C,A  Bambu
+235,3,05:35,JLE,49,44,LL_Pts_T,A  Bambu
+236,3,05:35,JLE,49,44,substituicao_entra,J  Socas
+237,3,05:35,JLE,49,44,substituicao_sai,F  Vezaro
+238,3,05:35,JLE,49,44,FR,A  Bambu
+239,3,05:35,FLA,49,44,FC,Batista
+240,3,05:55,FLA,49,44,LL_Pts_C,Ramon
+241,3,05:55,FLA,48,44,substituicao_entra,Arthur Pecos
+242,3,05:55,FLA,48,44,substituicao_sai,Cubillan
+243,3,05:55,FLA,48,44,FR,Ramon
+244,3,05:55,JLE,48,44,FC,Maxwell
+245,3,05:55,FLA,48,44,2_Pts_C,Ramon
+246,3,06:17,JLE,46,44,AS,Stocks
+247,3,06:17,JLE,46,44,2_Pts_C,F  Vezaro
+248,3,06:22,JLE,46,42,BR,Stocks
+249,3,06:22,FLA,46,42,ER,Cubillan
+250,3,06:26,FLA,46,42,FR,Batista
+251,3,06:26,JLE,46,42,FC,Stocks
+252,3,06:36,FLA,46,42,BR,Cubillan
+253,3,06:36,JLE,46,42,ER,Stocks
+254,3,06:51,FLA,46,42,AS,Rhett
+255,3,06:51,FLA,46,42,2_Pts_C,Batista
+256,3,07:03,FLA,44,42,RD,Marquinhos
+257,3,07:05,JLE,44,42,3_Pts_T,F  Vezaro
+258,3,07:19,FLA,44,42,2_Pts_C,Batista
+259,3,07:20,FLA,42,42,RO,Batista
+260,3,07:22,FLA,42,42,2_Pts_T,Marquinhos
+261,3,07:36,FLA,42,42,RD,Batista
+262,3,07:39,JLE,42,42,2_Pts_T,Johnson
+263,3,07:53,JLE,42,42,LL_Pts_T,Stocks
+264,3,07:53,JLE,42,42,LL_Pts_C,Stocks
+265,3,07:53,JLE,42,41,FR,Stocks
+266,3,07:53,FLA,42,41,FC_A,Cubillan
+267,3,07:54,JLE,42,41,BR,Stocks
+268,3,07:54,FLA,42,41,ER,Cubillan
+269,3,08:00,FLA,42,41,FR,Marquinhos
+270,3,08:00,JLE,42,41,FC,Johnson
+271,3,08:17,JLE,42,41,2_Pts_C,F  Vezaro
+272,3,08:27,JLE,42,39,FR,Johnson
+273,3,08:27,FLA,42,39,FC,Marquinhos
+274,3,08:37,JLE,42,39, AABJ ,Joinville 
+275,3,08:37,FLA,42,39,TO,Marquinhos
+276,3,08:37,JLE,42,39,2_Pts_T,Johnson
+277,3,08:42,JLE,42,39, AABJ ,Joinville 
+278,3,08:42,FLA,42,39,TO,Batista
+279,3,08:42,JLE,42,39,2_Pts_T,Stocks
+280,3,08:46,FLA,42,39,ER,Batista
+281,3,08:55,FLA,42,39,RD,Batista
+282,3,08:56,JLE,42,39,2_Pts_T,Maxwell
+283,3,09:10,JLE,42,39,RD,A  Bambu
+284,3,09:12,FLA,42,39,2_Pts_T,Rhett
+285,3,09:18,FLA,42,39,RD,Rhett
+286,3,09:20,JLE,42,39,3_Pts_T,A  Bambu
+287,3,09:23,FLA,42,39,substituicao_entra,Batista
+288,3,09:23,FLA,42,39,substituicao_sai,Marcelinho
+289,3,09:46,FLA,42,39,ER,Cubillan
+290,3,09:54,FLA,42,39,RD,Marquinhos
+291,3,09:56,JLE,42,39,2_Pts_T,Stocks
+292,3,10:00,NaN,42,39,inicio_quarto,
+293,2,00:00,NaN,42,39,fim_quarto,
+294,2,00:01,JLE,42,39,3_Pts_T,Johnson
+295,2,00:02,JLE,42,39,substituicao_entra,Johnson
+296,2,00:02,JLE,42,39,substituicao_sai,J  Socas
+297,2,00:25,FLA,42,39,AS,Ramon
+298,2,00:25,FLA,42,39,2_Pts_C,Rhett
+299,2,00:35,FLA,40,39,RD,Ramon
+300,2,00:36,JLE,40,39,2_Pts_T,F  Vezaro
+301,2,01:03,FLA,40,39,2_Pts_C,Rhett
+302,2,01:27,FLA,38,39,substituicao_entra,Marquinhos
+303,2,01:27,FLA,38,39,substituicao_sai,Arthur Pecos
+304,2,01:27,FLA,38,39,tempo_tecnico,Flamengo
+305,2,01:27,JLE,38,39,2_Pts_C,Stocks
+306,2,01:41,JLE,38,37,substituicao_entra,J  Socas
+307,2,01:41,JLE,38,37,substituicao_sai,Vezarinho
+308,2,01:41,JLE,38,37, AABJ ,Joinville 
+309,2,01:41,FLA,38,37,ER,
+310,2,01:42,FLA,38,37,RO,Arthur Pecos
+311,2,01:42,FLA,38,37,2_Pts_T,Ramon
+312,2,02:06,JLE,38,37,AS,Maxwell
+313,2,02:06,JLE,38,37,3_Pts_C,F  Vezaro
+314,2,02:31,FLA,38,34,AS,Arthur Pecos
+315,2,02:31,FLA,38,34,EN,Rhett
+316,2,02:43,FLA,36,34,RD,Olivinha
+317,2,02:45,JLE,36,34,2_Pts_T,Vezarinho
+318,2,03:09,JLE,36,34,substituicao_entra,Stocks
+319,2,03:09,JLE,36,34,substituicao_sai,J  Socas
+320,2,03:09,JLE,36,34, AABJ ,Joinville 
+321,2,03:09,FLA,36,34,3_Pts_T,Ramon
+322,2,03:24,FLA,36,34,RD,Olivinha
+323,2,03:24,JLE,36,34,LL_Pts_T,J  Socas
+324,2,03:24,JLE,36,34,LL_Pts_C,J  Socas
+325,2,03:24,JLE,36,33,FR,J  Socas
+326,2,03:24,FLA,36,33,FC,Ramon
+327,2,03:37,JLE,36,33,BR,Tiagão
+328,2,03:37,FLA,36,33,ER,Olivinha
+329,2,03:43,FLA,36,33,RD,Rhett
+330,2,03:44,JLE,36,33,LL_Pts_T,J  Socas
+331,2,03:44,JLE,36,33,LL_Pts_C,J  Socas
+332,2,03:44,FLA,36,32,substituicao_entra,Arthur Pecos
+333,2,03:44,FLA,36,32,substituicao_sai,Marquinhos
+334,2,03:44,FLA,36,32,substituicao_entra,Olivinha
+335,2,03:44,FLA,36,32,substituicao_sai,Cubillan
+336,2,03:44,JLE,36,32,substituicao_entra,F  Vezaro
+337,2,03:44,JLE,36,32,substituicao_sai,Johnson
+338,2,03:44,JLE,36,32,FR,J  Socas
+339,2,03:44,FLA,36,32,FC,Rhett
+340,2,03:45,JLE,36,32,RO,J  Socas
+341,2,03:45,JLE,36,32,3_Pts_T,Tiagão
+342,2,04:07,FLA,36,32,AS,Ramon
+343,2,04:07,FLA,36,32,3_Pts_C,Marcelinho
+344,2,04:30,FLA,33,32,RD,Ramon
+345,2,04:32,JLE,33,32,3_Pts_T,Johnson
+346,2,04:35,JLE,33,32,RD,Maxwell
+347,2,04:39,FLA,33,32,2_Pts_T,Marquinhos
+348,2,05:04,JLE,33,32,ER,
+349,2,05:16,JLE,33,32,RO,Tiagão
+350,2,05:18,JLE,33,32,3_Pts_T,Vezarinho
+351,2,05:26,JLE,33,32,RD,J  Socas
+352,2,05:28,FLA,33,32,3_Pts_T,Ramon
+353,2,05:58,JLE,33,32,3_Pts_C,Johnson
+354,2,06:21,JLE,33,29,substituicao_entra,Tiagão
+355,2,06:21,JLE,33,29,substituicao_sai,Stocks
+356,2,06:21,JLE,33,29,substituicao_entra,Vezarinho
+357,2,06:21,JLE,33,29,substituicao_sai,A  Bambu
+358,2,06:21,FLA,33,29,substituicao_entra,Rhett
+359,2,06:21,FLA,33,29,substituicao_sai,João Vitor
+360,2,06:21,JLE,33,29, AABJ ,Joinville 
+361,2,06:21,FLA,33,29,AS,Marcelinho
+362,2,06:21,FLA,33,29,EN,Marquinhos
+363,2,06:26,FLA,31,29,RD,Marcelinho
+364,2,06:28,JLE,31,29,2_Pts_T,A  Bambu
+365,2,06:51,FLA,31,29,AS,Cubillan
+366,2,06:51,FLA,31,29,3_Pts_C,Ramon
+367,2,07:08,FLA,28,29,RD,João Vitor
+368,2,07:10,JLE,28,29,3_Pts_T,Johnson
+369,2,07:23,FLA,28,29,ER,
+370,2,07:23,FLA,28,29,RO,Cubillan
+371,2,07:23,FLA,28,29,2_Pts_T,Cubillan
+372,2,07:38,FLA,28,29,RO,João Vitor
+373,2,07:39,FLA,28,29,3_Pts_T,Marcelinho
+374,2,07:47,FLA,28,29,RD,Cubillan
+375,2,07:49,JLE,28,29,3_Pts_T,A  Bambu
+376,2,08:09,FLA,28,29,2_Pts_C,Marquinhos
+377,2,08:29,JLE,26,29,ER,Stocks
+378,2,08:35,FLA,26,29,AS,Marcelinho
+379,2,08:35,FLA,26,29,2_Pts_C,João Vitor
+380,2,08:46,FLA,24,29,substituicao_entra,Marcelinho
+381,2,08:46,FLA,24,29,substituicao_sai,Pilar
+382,2,08:46,FLA,24,29,FR,Cubillan
+383,2,08:46,JLE,24,29,FC,Stocks
+384,2,09:08,JLE,24,29,2_Pts_C,J  Socas
+385,2,09:11,JLE,24,27,BR,J  Socas
+386,2,09:11,FLA,24,27,ER,Pilar
+387,2,09:22,FLA,24,27,RD,João Vitor
+388,2,09:24,JLE,24,27,2_Pts_T,Maxwell
+389,2,09:46,JLE,24,27,RD,Stocks
+390,2,09:46,FLA,24,27,3_Pts_T,Marquinhos
+391,2,10:00,NaN,24,27,inicio_quarto,
+392,1,00:00,NaN,24,27,fim_quarto,
+393,1,00:01,FLA,24,27,EN,Marquinhos
+394,1,00:04,FLA,22,27,BR,Marquinhos
+395,1,00:04,JLE,22,27,ER,Stocks
+396,1,00:04,JLE,22,27,substituicao_entra,Vezarinho
+397,1,00:04,JLE,22,27,substituicao_sai,Colimerio
+398,1,00:04,JLE,22,27,substituicao_entra,F  Vezaro
+399,1,00:04,JLE,22,27,substituicao_sai,Jerônimo
+400,1,00:04,FLA,22,27,substituicao_entra,João Vitor
+401,1,00:04,FLA,22,27,substituicao_sai,Marcelinho
+402,1,00:04,FLA,22,27,ER,Cubillan
+403,1,00:12,FLA,22,27,substituicao_entra,Marcelinho
+404,1,00:12,FLA,22,27,substituicao_sai,João Vitor
+405,1,00:12,FLA,22,27,FR,João Vitor
+406,1,00:12,JLE,22,27,ER,Jerônimo
+407,1,00:12,JLE,22,27,FC_O,Jerônimo
+408,1,00:18,JLE,22,27,FR,Colimerio
+409,1,00:18,FLA,22,27,FC,Pilar
+410,1,00:33,FLA,22,27,AS,Pilar
+411,1,00:33,FLA,22,27,2_Pts_C,João Vitor
+412,1,00:53,JLE,20,27,substituicao_entra,Colimerio
+413,1,00:53,JLE,20,27,substituicao_sai,Maxwell
+414,1,00:56,JLE,20,27,EN,Johnson
+415,1,01:00,JLE,20,25,BR,Johnson
+416,1,01:00,FLA,20,25,ER,Marquinhos
+417,1,01:13,JLE,20,25,2_Pts_C,Maxwell
+418,1,01:29,FLA,20,23,2_Pts_C,Marquinhos
+419,1,01:43,JLE,18,23,LL_Pts_C,Johnson
+420,1,01:43,JLE,18,22,LL_Pts_C,Johnson
+421,1,01:43,FLA,18,21,substituicao_entra,João Vitor
+422,1,01:43,FLA,18,21,substituicao_sai,Batista
+423,1,01:43,JLE,18,21,FR,Johnson
+424,1,01:43,FLA,18,21,FC,Marquinhos
+425,1,01:57,FLA,18,21,substituicao_entra,Ramon
+426,1,01:57,FLA,18,21,substituicao_sai,Olivinha
+427,1,01:57,FLA,18,21,substituicao_entra,Pilar
+428,1,01:57,FLA,18,21,substituicao_sai,Arthur Pecos
+429,1,01:57,JLE,18,21,substituicao_entra,J  Socas
+430,1,01:57,JLE,18,21,substituicao_sai,A  Bambu
+431,1,01:57,JLE,18,21,substituicao_entra,Jerônimo
+432,1,01:57,JLE,18,21,substituicao_sai,F  Vezaro
+433,1,01:57,JLE,18,21,FR,F  Vezaro
+434,1,01:57,FLA,18,21,ER,Olivinha
+435,1,01:57,FLA,18,21,FC_O,Olivinha
+436,1,02:18,JLE,18,21,AS,Johnson
+437,1,02:18,JLE,18,21,3_Pts_C,F  Vezaro
+438,1,02:21,JLE,18,18,RD,Johnson
+439,1,02:24,FLA,18,18,3_Pts_T,Olivinha
+440,1,02:50,JLE,18,18,3_Pts_C,Johnson
+441,1,02:54,JLE,18,15,RD,Stocks
+442,1,02:58,FLA,18,15,3_Pts_T,Marquinhos
+443,1,03:14,JLE,18,15,2_Pts_C,Johnson
+444,1,03:24,FLA,18,13,AS,Arthur Pecos
+445,1,03:24,FLA,18,13,2_Pts_C,Marquinhos
+446,1,03:28,FLA,16,13,BR,Arthur Pecos
+447,1,03:28,JLE,16,13,ER,Johnson
+448,1,03:34,JLE,16,13,RD,A  Bambu
+449,1,03:36,FLA,16,13,3_Pts_T,Arthur Pecos
+450,1,03:48,JLE,16,13,AS,F  Vezaro
+451,1,03:48,JLE,16,13,2_Pts_C,Stocks
+452,1,03:53,JLE,16,11,BR,F  Vezaro
+453,1,03:53,FLA,16,11,ER,Olivinha
+454,1,04:10,JLE,16,11,ER,A  Bambu
+455,1,04:30,FLA,16,11,AS,Batista
+456,1,04:30,FLA,16,11,2_Pts_C,Olivinha
+457,1,04:34,FLA,14,11,RD,Batista
+458,1,04:36,JLE,14,11,3_Pts_T,F  Vezaro
+459,1,04:59,FLA,14,11,AS,Batista
+460,1,04:59,FLA,14,11,2_Pts_C,Olivinha
+461,1,05:12,FLA,12,11,RD,Batista
+462,1,05:13,JLE,12,11,2_Pts_T,F  Vezaro
+463,1,05:26,FLA,12,11,AS,Olivinha
+464,1,05:26,FLA,12,11,2_Pts_C,Batista
+465,1,05:43,JLE,10,11,AS,A  Bambu
+466,1,05:43,JLE,10,11,2_Pts_C,Stocks
+467,1,05:57,JLE,10,9,RD,A  Bambu
+468,1,05:59,FLA,10,9,2_Pts_T,Olivinha
+469,1,06:23,JLE,10,9,EN,Maxwell
+470,1,06:25,JLE,10,7,BR,Maxwell
+471,1,06:25,FLA,10,7,ER,Cubillan
+472,1,06:37,JLE,10,7,AS,Stocks
+473,1,06:37,JLE,10,7,3_Pts_C,A  Bambu
+474,1,06:56,FLA,10,4,AS,Marquinhos
+475,1,06:56,FLA,10,4,3_Pts_C,Cubillan
+476,1,07:13,JLE,7,4,2_Pts_C,A  Bambu
+477,1,07:32,FLA,7,2,2_Pts_C,Olivinha
+478,1,07:34,FLA,5,2,RO,Olivinha
+479,1,07:35,FLA,5,2,3_Pts_T,Cubillan
+480,1,07:48,FLA,5,2,BR,Olivinha
+481,1,07:48,JLE,5,2,ER,A  Bambu
+482,1,07:54,JLE,5,2,RD,F  Vezaro
+483,1,07:59,FLA,5,2,2_Pts_T,Batista
+484,1,08:13,JLE,5,2,ER,Stocks
+485,1,08:35,FLA,5,2,AS,Cubillan
+486,1,08:35,FLA,5,2,3_Pts_C,Olivinha
+487,1,08:51,FLA,2,2,RD,Batista
+488,1,08:54,JLE,2,2,2_Pts_T,Stocks
+489,1,09:03,JLE,2,2,FR,A  Bambu
+490,1,09:03,FLA,2,2,ER,Batista
+491,1,09:03,FLA,2,2,FC_O,Batista
+492,1,09:12,JLE,2,2,2_Pts_C,Stocks
+493,1,09:30,FLA,2,0,AS,Arthur Pecos
+494,1,09:30,FLA,2,0,2_Pts_C,Batista
+495,1,09:46,FLA,0,0,RD,Cubillan
+496,1,09:49,JLE,0,0,2_Pts_T,A  Bambu
+497,1,10:00,JLE,0,0,substituicao_entra,Johnson
+498,1,10:00,JLE,0,0,substituicao_entra,Maxwell
+499,1,10:00,JLE,0,0,substituicao_entra,A  Bambu
+500,1,10:00,FLA,0,0,substituicao_entra,Batista
+501,1,10:00,FLA,0,0,substituicao_entra,Olivinha
+502,1,10:00,FLA,0,0,substituicao_entra,Arthur Pecos
+503,1,10:00,FLA,0,0,substituicao_entra,Marquinhos
+504,1,10:00,FLA,0,0,substituicao_entra,Cubillan

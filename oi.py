@@ -6,7 +6,7 @@ from selenium.webdriver.firefox.options import Options
 import requests
 from selenium.common.exceptions import NoSuchElementException
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=34')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=15&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
@@ -18,16 +18,85 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
+ano = 15
+
+
+'''
+
+ano = 12
+# erro em minas_77x70_tijuca
+del(list_inoutControl[0])
+# erro em palmeiras_95x86_suzano
+del (list_inoutControl[5])
+# erro em palmeiras_79x86_paulistano
+del (list_inoutControl[15])
+# erro em joinville_73x55_minas
+del (list_inoutControl[15])
+# erro em limiera_85x87_minas
+del(list_inoutControl[20])
+# erro em minas_100x78_suzano
+del (list_inoutControl[22])
+# erro em espirito santos_68x59_palmeiras
+del (list_inoutControl[22])
+# erro em minas_89x77_palmeiras
+del (list_inoutControl[26])
+# erro em pinheiros_102x100_limiera
+# del (list_inoutControl[:3])
+del (list_inoutControl[30])
+# erro em pinheiros_92x90_espirito santos
+del (list_inoutControl[33])
+# erro em paulistano_92x78_minas
+del (list_inoutControl[33])
+# erro em palmeiras_75x66_minas
+del (list_inoutControl[34])
+# erro em pinheiros_91x77_minas
+del (list_inoutControl[39])
+# erro em mogi_78x75_palmeiras
+del (list_inoutControl[42])
+
+del (list_inoutControl[:37])
+
+ano = 13
+# erro em pinheiros_53x91_limeira
+del(list_inoutControl[1])
+# erro em macaé_68x80_paulistano
+del(list_inoutControl[28])
+
+
+ano = 14
+# erro em paulistano_84x68_pinheiros
+del(list_inoutControl[188])
+
+ano = 15
+# erro em são jose_74x95_pinheiros
+del(list_inoutControl[15])
+# erro en são josé_71_x76_caxias do sul
+del(list_inoutControl[21])
+# erro em são josé_88x82_rio claro
+del(list_inoutControl[24])
+# erro em paulistano_88x100_brasilia 237
+del(list_inoutControl[233])
+
+ano = 19
+# erro em mogi_91x84_Minas
+del(list_inoutControl[85])
+
+ano = 17
+# joinville _81x91_flamengo
+del(list_inoutControl[135])
+
 ano = 16
 # jogo do pinheiros_x_vitória não aparece as estatísticas do jogo
 del(list_inoutControl[1])
-# jogo do mogi_x_vitoria não aparece as estatísticas do jogo 246
-del(list_inoutControl[246])
+# jogo do flamengo_75x78_pinheiros não aparece as estatísticas do jogo 244
+# alem disso a lista sai errado e tira mais dois jogos --> mogi_85x95_vitória e franca_67x80_paulistano
+del(list_inoutControl[243:246])
+'''
+######################################################################################################################
 
-#######################################################################################################################
 tabela_geral = pd.DataFrame([])
-tabela_inf = pd.DataFrame([])
 ii = 1
+
 
 for i in list_inoutControl:
 
@@ -345,16 +414,13 @@ for i in list_inoutControl:
     df_full = df_full[['Temporada', 'time', 'adversário', 'casa/fora', 'Jogador', 'Min', 'Pts_C', 'Pts_T', '3_Pts_C',
                        '3_Pts_T', '2_Pts_C', '2_Pts_T', 'LL_Pts_C', 'LL_Pts_T', 'RO', 'RD', 'RT', 'AS', 'BR', 'TO',
                        'FC', 'FR', 'ER', 'EN']]
-    df_full.to_csv("./temporada 2016/" + "tabela_" + f"{ii}" + "_" + nome_casa + "_x_" + nome_fora + ".csv", index=None)
+    df_full.to_csv("./temporada 2013/" + "tabela_" + f"{ii}" + "_" + nome_casa + "_x_" + nome_fora + ".csv", index=None)
 
     nome_inf_coluna = nome_casa + "_x_" + nome_fora
     print(nome_inf_coluna)
     tabela_geral = pd.concat([df_full, tabela_geral], axis=0)
     ii = ii + 1
-    tabela_inf = pd.concat([nome_inf_coluna, tabela_inf], axis=0)
-
     driver.quit()
 
 
-tabela_geral.to_csv("./temporada 2016/Tabela_geral_2016.csv")
-tabela_inf.to_csv("./temporada 2016/Tabela_geral_informaçoes_2016.csv")
+tabela_geral.to_csv("./temporada 2013/Tabela_geral_2013.csv")

@@ -1,0 +1,538 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,86,103,fim_partida,
+1,4,00:00,NaN,86,103,fim_quarto, 
+2,4,00:03,MIN,86,103,RD,Gui Carvalho
+3,4,00:03,FRA,86,103,2_Pts_T,Guilherme
+4,4,00:08,FRA,86,103,BR,Márcio
+5,4,00:08,MIN,86,103,ER,Gui Carvalho
+6,4,00:22,FRA,86,103,AS,Alexey
+7,4,00:22,FRA,86,103,2_Pts_C,Guilherme
+8,4,00:25,FRA,86,101,BR,Alexey
+9,4,00:25,MIN,86,101,ER,Gui Carvalho
+10,4,00:37,MIN,86,101,RD,Wesley
+11,4,00:40,FRA,86,101,2_Pts_T,David Jackson
+12,4,00:50,MIN,86,101,substituicao_entra,Gui Carvalho
+13,4,00:50,MIN,86,101,substituicao_sai,D  Coleman
+14,4,00:50,FRA,86,101,FR,Alexey
+15,4,00:50,MIN,86,101,FC,Jefferson
+16,4,00:53,FRA,86,101,RD,Márcio
+17,4,00:56,MIN,86,101,2_Pts_T,Jefferson
+18,4,00:59,MIN,86,101,RD,Wesley
+19,4,01:03,FRA,86,101,3_Pts_T,Lucas Dias
+20,4,01:15,FRA,86,101,substituicao_entra,Márcio
+21,4,01:15,FRA,86,101,substituicao_sai,Jimmy
+22,4,01:15,FRA,86,101,substituicao_entra,Guilherme
+23,4,01:15,FRA,86,101,substituicao_sai,Cipolini
+24,4,01:15,MIN,86,101,AS,Jefferson
+25,4,01:15,MIN,86,101,2_Pts_C,Paranhos
+26,4,01:28,FRA,84,101,AS,Jimmy
+27,4,01:28,FRA,84,101,2_Pts_C,Cipolini
+28,4,01:51,MIN,84,99,ER,Gegê
+29,4,02:01,MIN,84,99,BR,Paranhos
+30,4,02:01,FRA,84,99,ER,Cipolini
+31,4,02:22,MIN,84,99,LL_Pts_C,Wesley
+32,4,02:22,MIN,83,99,LL_Pts_T,Wesley
+33,4,02:22,FRA,83,99,substituicao_entra,Alexey
+34,4,02:22,FRA,83,99,substituicao_sai,Elinho
+35,4,02:22,MIN,83,99,FR,Wesley
+36,4,02:22,FRA,83,99,FC,Jimmy
+37,4,02:33,FRA,83,99,AS,Elinho
+38,4,02:33,FRA,83,99,2_Pts_C,Lucas Dias
+39,4,02:43,FRA,83,97,RD,Jimmy
+40,4,02:46,MIN,83,97,3_Pts_T,D  Coleman
+41,4,02:48,MIN,83,97,RD,Gegê
+42,4,02:52,FRA,83,97,2_Pts_T,Lucas Dias
+43,4,02:58,FRA,83,97,BR,Jimmy
+44,4,02:58,MIN,83,97,ER,Gegê
+45,4,03:00,MIN,83,97,RD,Gegê
+46,4,03:04,FRA,83,97,3_Pts_T,Cipolini
+47,4,03:08,FRA,83,97,RD,Cipolini
+48,4,03:11,MIN,83,97,3_Pts_T,Gegê
+49,4,03:18,MIN,83,97,BR,Gegê
+50,4,03:18,FRA,83,97,ER,Elinho
+51,4,03:31,FRA,83,97,substituicao_entra,David Jackson
+52,4,03:31,FRA,83,97,substituicao_sai,Didi
+53,4,03:31,FRA,83,97,tempo_tecnico,Franca
+54,4,03:31,MIN,83,97,AS,Gegê
+55,4,03:31,MIN,83,97,2_Pts_C,Wesley
+56,4,03:35,MIN,81,97,RD,Wesley
+57,4,03:38,FRA,81,97,3_Pts_T,Jimmy
+58,4,03:51,FRA,81,97,FR,Jimmy
+59,4,03:51,MIN,81,97,FC,Gegê
+60,4,04:00,MIN,81,97,LL_Pts_C,Paranhos
+61,4,04:00,MIN,80,97,FR,Paranhos
+62,4,04:00,FRA,80,97,FC,Elinho
+63,4,04:00,MIN,80,97,AS,Gegê
+64,4,04:00,MIN,80,97,2_Pts_C,Paranhos
+65,4,04:10,FRA,78,97,ER,Lucas Dias
+66,4,04:23,MIN,78,97,LL_Pts_C,Jefferson
+67,4,04:23,MIN,77,97,LL_Pts_T,Jefferson
+68,4,04:23,MIN,77,97,FR,Jefferson
+69,4,04:23,FRA,77,97,FC,Didi
+70,4,04:30,MIN,77,97,RO,Minas
+71,4,04:30,FRA,77,97,TO,Cipolini
+72,4,04:30,MIN,77,97,2_Pts_T,Paranhos
+73,4,04:41,FRA,77,97,AS,Elinho
+74,4,04:41,FRA,77,97,3_Pts_C,Jimmy
+75,4,04:54,FRA,77,94,FR,Didi
+76,4,04:54,MIN,77,94,FC,Paranhos
+77,4,05:02,MIN,77,94,LL_Pts_C,Paranhos
+78,4,05:02,MIN,76,94,FR,Paranhos
+79,4,05:02,FRA,76,94,FC,Didi
+80,4,05:02,MIN,76,94,2_Pts_C,Paranhos
+81,4,05:21,FRA,74,94,substituicao_entra,Didi
+82,4,05:21,FRA,74,94,substituicao_sai,Alexey
+83,4,05:21,FRA,74,94,2_Pts_C,Jimmy
+84,4,05:44,MIN,74,92,2_Pts_C,Wesley
+85,4,05:58,FRA,72,92,AS,Elinho
+86,4,05:58,FRA,72,92,EN,Lucas Dias
+87,4,06:06,MIN,72,90,AS,Gegê
+88,4,06:06,MIN,72,90,2_Pts_C,Paranhos
+89,4,06:07,MIN,70,90,RO,Gegê
+90,4,06:11,MIN,70,90,3_Pts_T,Jefferson
+91,4,06:23,FRA,70,90,substituicao_entra,Cipolini
+92,4,06:23,FRA,70,90,substituicao_sai,Augusto
+93,4,06:23,MIN,70,90,FR,Wesley
+94,4,06:23,FRA,70,90,FC,Jimmy
+95,4,06:24,MIN,70,90,RO,Wesley
+96,4,06:27,MIN,70,90,3_Pts_T,Gegê
+97,4,06:32,MIN,70,90,RD,D  Coleman
+98,4,06:35,FRA,70,90,2_Pts_T,Augusto
+99,4,06:51,FRA,70,90,RD,Jimmy
+100,4,06:53,MIN,70,90,3_Pts_T,Wesley
+101,4,07:08,FRA,70,90,substituicao_entra,Lucas Dias
+102,4,07:08,FRA,70,90,substituicao_sai,André Goes
+103,4,07:08,MIN,70,90,FR,Paranhos
+104,4,07:08,FRA,70,90,ER,André Goes
+105,4,07:08,FRA,70,90,FC_O,André Goes
+106,4,07:28,MIN,70,90,AS,D  Coleman
+107,4,07:28,MIN,70,90,2_Pts_C,Paranhos
+108,4,07:31,MIN,68,90,RD,Gegê
+109,4,07:34,FRA,68,90,2_Pts_T,Alexey
+110,4,07:46,FRA,68,90,RD,Jimmy
+111,4,07:49,MIN,68,90,2_Pts_T,Gegê
+112,4,07:54,MIN,68,90,FR,Paranhos
+113,4,07:54,FRA,68,90,FC,Augusto
+114,4,07:54,MIN,68,90,RO,Minas
+115,4,07:54,MIN,68,90,2_Pts_T,Wesley
+116,4,08:02,MIN,68,90,RD,Paranhos
+117,4,08:05,FRA,68,90,3_Pts_T,Jimmy
+118,4,08:24,FRA,68,90,RD,Augusto
+119,4,08:28,MIN,68,90,2_Pts_T,D  Coleman
+120,4,08:43,FRA,68,90,AS,Alexey
+121,4,08:43,FRA,68,90,EN,Augusto
+122,4,09:00,MIN,68,88,3_Pts_C,Gegê
+123,4,09:02,MIN,65,88,RD,Paranhos
+124,4,09:03,FRA,65,88,2_Pts_T,Jimmy
+125,4,09:03,FRA,65,88,RO,Jimmy
+126,4,09:09,FRA,65,88,2_Pts_T,Jimmy
+127,4,09:20,FRA,65,88,BR,André Goes
+128,4,09:20,MIN,65,88,ER,Gegê
+129,4,09:29,FRA,65,88,2_Pts_C,Elinho
+130,4,09:45,MIN,65,86,LL_Pts_C,D  Coleman
+131,4,09:45,MIN,64,86,LL_Pts_C,D  Coleman
+132,4,09:45,MIN,63,86,FR,D  Coleman
+133,4,09:45,FRA,63,86,FC,André Goes
+134,4,10:00,NaN,63,86,inicio_quarto,
+135,3,00:00,NaN,63,86,fim_quarto,
+136,3,00:02,FRA,63,86,2_Pts_C,Alexey
+137,3,00:09,MIN,63,84,AS,Gegê
+138,3,00:09,MIN,63,84,2_Pts_C,Wesley
+139,3,00:35,FRA,61,84,AS,Alexey
+140,3,00:35,FRA,61,84,3_Pts_C,André Goes
+141,3,00:54,MIN,61,81,2_Pts_C,Paranhos
+142,3,00:54,MIN,59,81,RO,Paranhos
+143,3,01:01,MIN,59,81,3_Pts_T,D  Coleman
+144,3,01:09,MIN,59,81,BR,D  Coleman
+145,3,01:09,FRA,59,81,ER,Elinho
+146,3,01:26,FRA,59,81,RD,Augusto
+147,3,01:28,MIN,59,81,LL_Pts_T,Paranhos
+148,3,01:28,MIN,59,81,LL_Pts_T,Paranhos
+149,3,01:28,FRA,59,81,substituicao_entra,Elinho
+150,3,01:28,FRA,59,81,substituicao_sai,David Jackson
+151,3,01:28,MIN,59,81,FR,Paranhos
+152,3,01:28,FRA,59,81,FC,Augusto
+153,3,01:35,MIN,59,81,RD,Wesley
+154,3,01:36,FRA,59,81,LL_Pts_T,David Jackson
+155,3,01:36,FRA,59,81,LL_Pts_C,David Jackson
+156,3,01:36,FRA,59,80,substituicao_entra,Augusto
+157,3,01:36,FRA,59,80,substituicao_sai,Cipolini
+158,3,01:36,MIN,59,80,substituicao_entra,Gegê
+159,3,01:36,MIN,59,80,substituicao_sai,Lucas
+160,3,01:36,MIN,59,80,substituicao_entra,Wesley
+161,3,01:36,MIN,59,80,substituicao_sai,Bob
+162,3,01:36,MIN,59,80,substituicao_entra,Jefferson
+163,3,01:36,MIN,59,80,substituicao_sai,Leandrinho
+164,3,01:36,FRA,59,80,FR,David Jackson
+165,3,01:36,MIN,59,80,FC,Bob
+166,3,01:41,MIN,59,80,EN,Paranhos
+167,3,01:41,MIN,57,80,RO,Paranhos
+168,3,01:51,MIN,57,80,2_Pts_T,Leandrinho
+169,3,01:58,MIN,57,80,BR,Leandrinho
+170,3,01:58,FRA,57,80,ER,Alexey
+171,3,02:09,MIN,57,80,2_Pts_C,Leandrinho
+172,3,02:10,MIN,55,80,RO,Leandrinho
+173,3,02:14,MIN,55,80,LL_Pts_T,Leandrinho
+174,3,02:14,MIN,55,80,LL_Pts_C,Leandrinho
+175,3,02:14,MIN,54,80,FR,Leandrinho
+176,3,02:14,FRA,54,80,FC,David Jackson
+177,3,02:38,MIN,54,80,RD,Paranhos
+178,3,02:42,FRA,54,80,3_Pts_T,David Jackson
+179,3,02:46,FRA,54,80,RD,David Jackson
+180,3,02:52,MIN,54,80,2_Pts_T,D  Coleman
+181,3,02:53,MIN,54,80,FR,Paranhos
+182,3,02:53,FRA,54,80,FC,Cipolini
+183,3,03:05,FRA,54,80,3_Pts_C,Alexey
+184,3,03:12,MIN,54,77,substituicao_entra,Paranhos
+185,3,03:12,MIN,54,77,substituicao_sai,Leonardo
+186,3,03:12,FRA,54,77,LL_Pts_C,Cipolini
+187,3,03:12,FRA,54,76,LL_Pts_C,Cipolini
+188,3,03:12,MIN,54,75,ER,
+189,3,03:12,MIN,54,75,FC_T,Técnico do Minas
+190,3,03:12,FRA,54,75,LL_Pts_C,Cipolini
+191,3,03:12,FRA,54,74,LL_Pts_C,Cipolini
+192,3,03:12,FRA,54,73,FR,Cipolini
+193,3,03:12,MIN,54,73,FC,Leandrinho
+194,3,03:17,FRA,54,73,RD,André Goes
+195,3,03:20,MIN,54,73,3_Pts_T,D  Coleman
+196,3,03:32,FRA,54,73,AS,Alexey
+197,3,03:32,FRA,54,73,EN,Cipolini
+198,3,03:41,FRA,54,71,LL_Pts_C,David Jackson
+199,3,03:41,MIN,54,70,FC_T,Técnico do Minas
+200,3,03:43,FRA,54,70,RO,Cipolini
+201,3,03:43,FRA,54,70,2_Pts_T,Alexey
+202,3,04:14,MIN,54,70,2_Pts_C,D  Coleman
+203,3,04:28,MIN,52,70,substituicao_entra,D  Coleman
+204,3,04:28,MIN,52,70,substituicao_sai,Sam Daniel
+205,3,04:28,FRA,52,70,substituicao_entra,Alexey
+206,3,04:28,FRA,52,70,substituicao_sai,Elinho
+207,3,04:28,MIN,52,70,tempo_tecnico,Minas
+208,3,04:28,FRA,52,70,2_Pts_C,Elinho
+209,3,04:29,FRA,52,68,RD,Elinho
+210,3,04:31,MIN,52,68,2_Pts_T,Bob
+211,3,04:44,MIN,52,68,RO,Bob
+212,3,04:48,MIN,52,68,3_Pts_T,Leandrinho
+213,3,05:00,FRA,52,68,AS,Elinho
+214,3,05:00,FRA,52,68,3_Pts_C,André Goes
+215,3,05:13,FRA,52,65,LL_Pts_C,David Jackson
+216,3,05:13,FRA,52,64,LL_Pts_C,David Jackson
+217,3,05:13,FRA,52,63,substituicao_entra,Jimmy
+218,3,05:13,FRA,52,63,substituicao_sai,Didi
+219,3,05:13,FRA,52,63,FR,David Jackson
+220,3,05:13,MIN,52,63,FC_A,Bob
+221,3,05:27,MIN,52,63,AS,Sam Daniel
+222,3,05:27,MIN,52,63,2_Pts_C,Leonardo
+223,3,05:39,MIN,50,63,RD,Sam Daniel
+224,3,05:42,FRA,50,63,2_Pts_T,Didi
+225,3,05:46,FRA,50,63,RD,Elinho
+226,3,05:49,MIN,50,63,3_Pts_T,Leandrinho
+227,3,06:09,FRA,50,63,3_Pts_C,David Jackson
+228,3,06:26,MIN,50,60,2_Pts_C,Leandrinho
+229,3,06:44,FRA,48,60,AS,Elinho
+230,3,06:44,FRA,48,60,LL_Pts_C,Cipolini
+231,3,06:44,FRA,48,59,LL_Pts_T,Cipolini
+232,3,06:44,FRA,48,59,substituicao_entra,André Goes
+233,3,06:44,FRA,48,59,substituicao_sai,Lucas Dias
+234,3,06:44,FRA,48,59,FR,Cipolini
+235,3,06:44,MIN,48,59,FC,Bob
+236,3,06:55,MIN,48,59,LL_Pts_C,Lucas
+237,3,06:55,MIN,47,59,AS,Leandrinho
+238,3,06:55,MIN,47,59,LL_Pts_C,Lucas
+239,3,06:55,MIN,46,59,FR,Lucas
+240,3,06:55,FRA,46,59,FC,Lucas Dias
+241,3,07:04,MIN,46,59,BR,Lucas
+242,3,07:04,FRA,46,59,ER,Didi
+243,3,07:10,FRA,46,59,RD,David Jackson
+244,3,07:12,MIN,46,59,3_Pts_T,Lucas
+245,3,07:32,FRA,46,59,AS,Elinho
+246,3,07:32,FRA,46,59,2_Pts_C,David Jackson
+247,3,07:40,FRA,46,57,FR,Cipolini
+248,3,07:40,MIN,46,57,FC,Lucas
+249,3,08:00,MIN,46,57,LL_Pts_C,Bob
+250,3,08:00,MIN,45,57,LL_Pts_C,Bob
+251,3,08:00,MIN,44,57,FR,Bob
+252,3,08:00,FRA,44,57,FC,David Jackson
+253,3,08:09,MIN,44,57,RD,Leonardo
+254,3,08:12,FRA,44,57,3_Pts_T,Cipolini
+255,3,08:25,MIN,44,57,LL_Pts_C,Leandrinho
+256,3,08:25,MIN,43,57,LL_Pts_C,Leandrinho
+257,3,08:25,MIN,42,57,FR,Leandrinho
+258,3,08:25,FRA,42,57,FC,Didi
+259,3,08:27,MIN,42,57,RD,Sam Daniel
+260,3,08:29,FRA,42,57,3_Pts_T,Cipolini
+261,3,08:40,FRA,42,57,LL_Pts_C,Cipolini
+262,3,08:40,FRA,42,56,LL_Pts_T,Cipolini
+263,3,08:40,FRA,42,56,FR,Cipolini
+264,3,08:40,MIN,42,56,FC_A,Leonardo
+265,3,08:54,MIN,42,56,AS,Leonardo
+266,3,08:54,MIN,42,56,2_Pts_C,Lucas
+267,3,09:10,FRA,40,56,AS,Lucas Dias
+268,3,09:10,FRA,40,56,3_Pts_C,Cipolini
+269,3,09:16,FRA,40,53,RD,Didi
+270,3,09:18,MIN,40,53,3_Pts_T,Sam Daniel
+271,3,09:46,FRA,40,53,2_Pts_C,Lucas Dias
+272,3,10:00,NaN,40,51,inicio_quarto,
+273,2,00:00,NaN,40,51,fim_quarto,
+274,2,00:01,FRA,40,51,RD,Elinho
+275,2,00:01,MIN,40,51,3_Pts_T,Leandrinho
+276,2,00:04,FRA,40,51,substituicao_entra,André Goes
+277,2,00:04,FRA,40,51,substituicao_sai,Lucas Dias
+278,2,00:04,MIN,40,51,substituicao_entra,Leandrinho
+279,2,00:04,MIN,40,51,substituicao_sai,Paranhos
+280,2,00:04,FRA,40,51,ER,David Jackson
+281,2,00:09,FRA,40,51,FR,Elinho
+282,2,00:09,MIN,40,51,FC,Bob
+283,2,00:14,MIN,40,51,substituicao_entra,Paranhos
+284,2,00:14,MIN,40,51,substituicao_sai,Leonardo
+285,2,00:14,MIN,40,51,LL_Pts_C,Leonardo
+286,2,00:14,MIN,39,51,AS,Leandrinho
+287,2,00:14,MIN,39,51,LL_Pts_C,Leonardo
+288,2,00:14,MIN,38,51,substituicao_entra,Jefferson
+289,2,00:14,MIN,38,51,substituicao_sai,Leandrinho
+290,2,00:14,MIN,38,51,FR,Leonardo
+291,2,00:14,FRA,38,51,FC,Lucas Dias
+292,2,00:28,FRA,38,51,AS,Elinho
+293,2,00:28,FRA,38,51,3_Pts_C,Cipolini
+294,2,00:43,MIN,38,48,3_Pts_C,Leandrinho
+295,2,01:01,MIN,35,48,RD,Bob
+296,2,01:04,FRA,35,48,3_Pts_T,Didi
+297,2,01:19,MIN,35,48,LL_Pts_C,Leandrinho
+298,2,01:19,MIN,34,48,LL_Pts_C,Leandrinho
+299,2,01:19,MIN,33,48,FR,Leandrinho
+300,2,01:19,FRA,33,48,FC,Didi
+301,2,01:22,MIN,33,48,RD,Leandrinho
+302,2,01:25,FRA,33,48,3_Pts_T,Lucas Dias
+303,2,01:33,FRA,33,48,FR,Lucas Dias
+304,2,01:33,MIN,33,48,FC,Lucas
+305,2,01:43,MIN,33,48,2_Pts_C,Leandrinho
+306,2,01:53,FRA,31,48,AS,Cipolini
+307,2,01:53,FRA,31,48,3_Pts_C,David Jackson
+308,2,02:11,FRA,31,45,substituicao_entra,Cipolini
+309,2,02:11,FRA,31,45,substituicao_sai,André Goes
+310,2,02:11,FRA,31,45,tempo_tecnico,Franca
+311,2,02:11,MIN,31,45,AS,Leonardo
+312,2,02:11,MIN,31,45,3_Pts_C,Bob
+313,2,02:16,MIN,28,45,RO,Leonardo
+314,2,02:19,MIN,28,45,2_Pts_T,Leandrinho
+315,2,02:20,MIN,28,45,RO,Leandrinho
+316,2,02:26,FRA,28,45,TO,Lucas Dias
+317,2,02:26,MIN,28,45,2_Pts_T,Leandrinho
+318,2,02:32,MIN,28,45,RO,Bob
+319,2,02:35,MIN,28,45,3_Pts_T,Bob
+320,2,02:38,MIN,28,45,RD,Sam Daniel
+321,2,02:43,MIN,28,45,TO,Leonardo
+322,2,02:43,FRA,28,45,2_Pts_T,André Goes
+323,2,02:59,MIN,28,45,substituicao_entra,Bob
+324,2,02:59,MIN,28,45,substituicao_sai,Gegê
+325,2,02:59,MIN,28,45,substituicao_entra,Lucas
+326,2,02:59,MIN,28,45,substituicao_sai,D  Coleman
+327,2,02:59,MIN,28,45,LL_Pts_C,Leonardo
+328,2,02:59,MIN,27,45,LL_Pts_C,Leonardo
+329,2,02:59,MIN,26,45,FR,Leonardo
+330,2,02:59,FRA,26,45,FC,Lucas Dias
+331,2,03:00,MIN,26,45,RO,Gegê
+332,2,03:00,MIN,26,45,3_Pts_T,Leandrinho
+333,2,03:09,MIN,26,45,FR,D  Coleman
+334,2,03:09,FRA,26,45,FC,André Goes
+335,2,03:11,MIN,26,45,RO,Leonardo
+336,2,03:16,FRA,26,45,TO,Lucas Dias
+337,2,03:16,MIN,26,45,2_Pts_T,Leonardo
+338,2,03:31,FRA,26,45,2_Pts_C,David Jackson
+339,2,03:49,FRA,26,43,substituicao_entra,André Goes
+340,2,03:49,FRA,26,43,substituicao_sai,Cipolini
+341,2,03:49,MIN,26,43,ER,Gegê
+342,2,03:56,MIN,26,43,RD,Sam Daniel
+343,2,03:59,FRA,26,43,3_Pts_T,Lucas Dias
+344,2,04:14,FRA,26,43,RD,Didi
+345,2,04:17,MIN,26,43,3_Pts_T,Sam Daniel
+346,2,04:35,FRA,26,43,ER,David Jackson
+347,2,04:37,FRA,26,43,BR,Cipolini
+348,2,04:37,MIN,26,43,ER,Leonardo
+349,2,04:42,FRA,26,43,substituicao_entra,Didi
+350,2,04:42,FRA,26,43,substituicao_sai,Jimmy
+351,2,05:01,MIN,26,43,FR,Leonardo
+352,2,05:01,FRA,26,43,FC,Jimmy
+353,2,05:02,MIN,26,43,RD,Leonardo
+354,2,05:03,FRA,26,43,3_Pts_T,Cipolini
+355,2,05:23,MIN,26,43,AS,Gegê
+356,2,05:23,MIN,26,43,3_Pts_C,Sam Daniel
+357,2,05:38,FRA,23,43,substituicao_entra,Elinho
+358,2,05:38,FRA,23,43,substituicao_sai,Alexey
+359,2,05:38,MIN,23,43,substituicao_entra,Leandrinho
+360,2,05:38,MIN,23,43,substituicao_sai,Jefferson
+361,2,05:38,MIN,23,43,tempo_tecnico,Minas
+362,2,05:38,FRA,23,43,AS,Cipolini
+363,2,05:38,FRA,23,43,2_Pts_C,Lucas Dias
+364,2,05:55,FRA,23,41,RD,Lucas Dias
+365,2,05:58,MIN,23,41,2_Pts_T,Leonardo
+366,2,06:10,FRA,23,41,AS,Alexey
+367,2,06:10,FRA,23,41,3_Pts_C,Lucas Dias
+368,2,06:17,FRA,23,38,substituicao_entra,Lucas Dias
+369,2,06:17,FRA,23,38,substituicao_sai,André Goes
+370,2,06:17,MIN,23,38,substituicao_entra,Leonardo
+371,2,06:17,MIN,23,38,substituicao_sai,Paranhos
+372,2,06:17,FRA,23,38,FR,Alexey
+373,2,06:17,MIN,23,38,FC,Jefferson
+374,2,06:25,FRA,23,38,RD,Alexey
+375,2,06:27,MIN,23,38,3_Pts_T,Sam Daniel
+376,2,06:48,FRA,23,38,2_Pts_C,Alexey
+377,2,06:52,FRA,23,36,RO,Cipolini
+378,2,06:56,FRA,23,36,2_Pts_T,Jimmy
+379,2,07:17,FRA,23,36,tempo_tecnico,Franca
+380,2,07:17,MIN,23,36,AS,Gegê
+381,2,07:17,MIN,23,36,3_Pts_C,Jefferson
+382,2,07:34,FRA,20,36,AS,André Goes
+383,2,07:34,FRA,20,36,2_Pts_C,Cipolini
+384,2,07:52,MIN,20,34,AS,D  Coleman
+385,2,07:52,MIN,20,34,3_Pts_C,Sam Daniel
+386,2,08:06,FRA,17,34,AS,David Jackson
+387,2,08:06,FRA,17,34,2_Pts_C,André Goes
+388,2,08:10,FRA,17,32,substituicao_entra,David Jackson
+389,2,08:10,FRA,17,32,substituicao_sai,Didi
+390,2,08:10,FRA,17,32,FR,Jimmy
+391,2,08:10,MIN,17,32,FC,Sam Daniel
+392,2,08:10,FRA,17,32,RO,Jimmy
+393,2,08:10,FRA,17,32,3_Pts_T,Alexey
+394,2,08:26,MIN,17,32,LL_Pts_C,Jefferson
+395,2,08:26,FRA,16,32,substituicao_entra,Cipolini
+396,2,08:26,FRA,16,32,substituicao_sai,Guilherme
+397,2,08:26,MIN,16,32,FR,Jefferson
+398,2,08:26,FRA,16,32,FC,André Goes
+399,2,08:26,MIN,16,32,2_Pts_C,Jefferson
+400,2,08:44,FRA,14,32,AS,André Goes
+401,2,08:44,FRA,14,32,3_Pts_C,Alexey
+402,2,08:59,MIN,14,29,AS,Jefferson
+403,2,08:59,MIN,14,29,3_Pts_C,Gegê
+404,2,09:05,MIN,11,29,RD,Paranhos
+405,2,09:08,FRA,11,29,3_Pts_T,André Goes
+406,2,09:32,MIN,11,29,LL_Pts_C,Paranhos
+407,2,09:32,MIN,10,29,LL_Pts_C,Paranhos
+408,2,09:32,MIN,9,29,FR,Paranhos
+409,2,09:32,FRA,9,29,FC,Jimmy
+410,2,09:33,MIN,9,29,RO,Paranhos
+411,2,09:33,MIN,9,29,3_Pts_T,Sam Daniel
+412,2,10:00,NaN,9,29,inicio_quarto,
+413,1,00:00,NaN,9,29,fim_quarto,
+414,1,00:01,FRA,9,29,AS,Alexey
+415,1,00:01,FRA,9,29,3_Pts_C,André Goes
+416,1,00:21,FRA,9,26,RD,André Goes
+417,1,00:24,MIN,9,26,3_Pts_T,Wesley
+418,1,00:32,MIN,9,26,RO,D  Coleman
+419,1,00:35,MIN,9,26,3_Pts_T,Jefferson
+420,1,00:54,MIN,9,26,substituicao_entra,D  Coleman
+421,1,00:54,MIN,9,26,substituicao_sai,Leandrinho
+422,1,00:54,FRA,9,26,LL_Pts_C,Didi
+423,1,00:54,FRA,9,25,LL_Pts_C,Didi
+424,1,00:54,FRA,9,24,FR,Didi
+425,1,00:54,MIN,9,24,FC,Leandrinho
+426,1,01:15,FRA,9,24,BR,André Goes
+427,1,01:15,MIN,9,24,ER,Jefferson
+428,1,01:27,FRA,9,24,substituicao_entra,Jimmy
+429,1,01:27,FRA,9,24,substituicao_sai,David Jackson
+430,1,01:27,FRA,9,24,substituicao_entra,Guilherme
+431,1,01:27,FRA,9,24,substituicao_sai,Lucas Dias
+432,1,01:31,FRA,9,24,AS,Didi
+433,1,01:31,FRA,9,24,3_Pts_C,David Jackson
+434,1,01:34,FRA,9,21,RO,Didi
+435,1,01:36,FRA,9,21,3_Pts_T,André Goes
+436,1,01:53,MIN,9,21,substituicao_entra,Gegê
+437,1,01:53,MIN,9,21,substituicao_sai,D  Coleman
+438,1,01:53,MIN,9,21,substituicao_entra,Jefferson
+439,1,01:53,MIN,9,21,substituicao_sai,Lucas
+440,1,01:53,MIN,9,21,ER,Paranhos
+441,1,02:11,FRA,9,21,AS,André Goes
+442,1,02:11,FRA,9,21,3_Pts_C,Lucas Dias
+443,1,02:32,FRA,9,18,BR,Didi
+444,1,02:32,MIN,9,18,ER,D  Coleman
+445,1,02:39,MIN,9,18,RD,Paranhos
+446,1,02:43,FRA,9,18,2_Pts_T,Didi
+447,1,03:07,MIN,9,18,ER,Lucas
+448,1,03:08,MIN,9,18,RO,Lucas
+449,1,03:10,MIN,9,18,3_Pts_T,Leandrinho
+450,1,03:37,MIN,9,18,tempo_tecnico,Minas
+451,1,03:37,FRA,9,18,2_Pts_C,Lucas Dias
+452,1,03:37,FRA,9,16,RO,Lucas Dias
+453,1,03:37,FRA,9,16,3_Pts_T,David Jackson
+454,1,03:55,FRA,9,16,substituicao_entra,Alexey
+455,1,03:55,FRA,9,16,substituicao_sai,Elinho
+456,1,03:55,FRA,9,16,LL_Pts_C,Lucas Dias
+457,1,03:55,FRA,9,15,LL_Pts_C,Lucas Dias
+458,1,03:55,FRA,9,14,FR,Lucas Dias
+459,1,03:55,MIN,9,14,FC_A,Wesley
+460,1,03:55,MIN,9,14,ER,Wesley
+461,1,04:08,FRA,9,14,2_Pts_C,David Jackson
+462,1,04:20,FRA,9,12,substituicao_entra,Didi
+463,1,04:20,FRA,9,12,substituicao_sai,Jimmy
+464,1,04:20,FRA,9,12,substituicao_entra,André Goes
+465,1,04:20,FRA,9,12,substituicao_sai,Cipolini
+466,1,04:20,MIN,9,12,substituicao_entra,Paranhos
+467,1,04:20,MIN,9,12,substituicao_sai,Augusto
+468,1,04:29,FRA,9,12,RD,Elinho
+469,1,04:32,MIN,9,12,3_Pts_T,Wesley
+470,1,04:52,FRA,9,12,AS,Lucas Dias
+471,1,04:52,FRA,9,12,2_Pts_C,David Jackson
+472,1,05:00,FRA,9,10,RD,Cipolini
+473,1,05:03,MIN,9,10,3_Pts_T,Leandrinho
+474,1,05:09,MIN,9,10,RD,Leandrinho
+475,1,05:12,FRA,9,10,3_Pts_T,Elinho
+476,1,05:24,MIN,9,10,2_Pts_C,Wesley
+477,1,05:30,MIN,7,10,RD,Wesley
+478,1,05:33,FRA,7,10,2_Pts_T,Elinho
+479,1,05:43,MIN,7,10,AS,Leandrinho
+480,1,05:43,MIN,7,10,2_Pts_C,Augusto
+481,1,05:53,MIN,5,10,RD,Leandrinho
+482,1,05:56,FRA,5,10,3_Pts_T,Cipolini
+483,1,06:15,MIN,5,10,ER,Leandrinho
+484,1,06:32,FRA,5,10,LL_Pts_C,Lucas Dias
+485,1,06:32,FRA,5,9,AS,David Jackson
+486,1,06:32,FRA,5,9,LL_Pts_C,Lucas Dias
+487,1,06:32,FRA,5,8,FR,Lucas Dias
+488,1,06:32,MIN,5,8,FC,D  Coleman
+489,1,06:45,FRA,5,8,RD,David Jackson
+490,1,06:47,MIN,5,8,3_Pts_T,D  Coleman
+491,1,07:04,FRA,5,8,LL_Pts_C,David Jackson
+492,1,07:04,FRA,5,7,AS,Elinho
+493,1,07:04,FRA,5,7,LL_Pts_C,David Jackson
+494,1,07:04,FRA,5,6,FR,David Jackson
+495,1,07:04,MIN,5,6,FC,Augusto
+496,1,07:09,MIN,5,6,substituicao_entra,Lucas
+497,1,07:09,MIN,5,6,substituicao_sai,Gegê
+498,1,07:09,FRA,5,6,FR,Elinho
+499,1,07:09,MIN,5,6,FC,Gegê
+500,1,07:09,FRA,5,6,RD,Jimmy
+501,1,07:14,FRA,5,6,TO,Lucas Dias
+502,1,07:14,MIN,5,6,2_Pts_T,Leandrinho
+503,1,07:35,FRA,5,6,AS,David Jackson
+504,1,07:35,FRA,5,6,3_Pts_C,Cipolini
+505,1,07:53,MIN,5,3,ER,D  Coleman
+506,1,08:02,MIN,5,3,FR,Gegê
+507,1,08:02,FRA,5,3,FC,Elinho
+508,1,08:15,MIN,5,3,RD,Gegê
+509,1,08:16,FRA,5,3,LL_Pts_T,Elinho
+510,1,08:16,FRA,5,3,LL_Pts_C,Elinho
+511,1,08:16,FRA,5,2,FR,Elinho
+512,1,08:16,MIN,5,2,FC,Gegê
+513,1,08:21,FRA,5,2,RD,Jimmy
+514,1,08:24,MIN,5,2,3_Pts_T,Augusto
+515,1,08:28,MIN,5,2,RD,D  Coleman
+516,1,08:34,FRA,5,2,2_Pts_T,Lucas Dias
+517,1,08:45,MIN,5,2,AS,Gegê
+518,1,08:45,MIN,5,2,2_Pts_C,Wesley
+519,1,09:02,MIN,3,2,BR,Wesley
+520,1,09:02,FRA,3,2,ER,David Jackson
+521,1,09:04,FRA,3,2,FR,David Jackson
+522,1,09:04,MIN,3,2,FC,Leandrinho
+523,1,09:23,MIN,3,2,AS,Gegê
+524,1,09:23,MIN,3,2,3_Pts_C,D  Coleman
+525,1,09:44,FRA,0,2,2_Pts_C,Elinho
+526,1,10:00,FRA,0,0,substituicao_entra,David Jackson
+527,1,10:00,FRA,0,0,substituicao_entra,Jimmy
+528,1,10:00,FRA,0,0,substituicao_entra,Cipolini
+529,1,10:00,FRA,0,0,substituicao_entra,Lucas Dias
+530,1,10:00,FRA,0,0,substituicao_entra,Elinho
+531,1,10:00,MIN,0,0,substituicao_entra,Leandrinho
+532,1,10:00,MIN,0,0,substituicao_entra,Wesley
+533,1,10:00,MIN,0,0,substituicao_entra,Gegê
+534,1,10:00,MIN,0,0,substituicao_entra,D  Coleman
+535,1,10:00,MIN,0,0,substituicao_entra,Augusto
+536,1,10:00,NaN,0,0,inicio_partida,

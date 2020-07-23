@@ -1,0 +1,563 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,76,80,fim_partida,
+1,4,00:00,NaN,76,80,fim_quarto, 
+2,4,00:06,BRA,76,80,substituicao_entra,Danilo
+3,4,00:06,BRA,76,80,substituicao_sai,Graterol
+4,4,00:06,BRA,76,80,substituicao_entra,Rafa Moreira
+5,4,00:06,BRA,76,80,substituicao_sai,Arthur
+6,4,00:06,BRA,76,80,substituicao_entra,Rodrigo
+7,4,00:06,BRA,76,80,substituicao_sai,Zach Graham
+8,4,00:06,MOG,76,80,tempo_tecnico,Mogi
+9,4,00:07,MOG,76,80,LL_Pts_C,Shamell
+10,4,00:07,MOG,76,79,LL_Pts_C,Shamell
+11,4,00:07,BRA,76,78,substituicao_entra,P  Rava
+12,4,00:07,BRA,76,78,substituicao_sai,Nezinho
+13,4,00:07,MOG,76,78,FR,Shamell
+14,4,00:07,BRA,76,78,FC_A,Nezinho
+15,4,00:07,MOG,76,78,BR,Shamell
+16,4,00:07,BRA,76,78,ER,Arthur
+17,4,00:07,BRA,76,78,Caixa,Universo
+18,4,00:08,MOG,76,78,LL_Pts_C,Shamell
+19,4,00:08,MOG,76,77,LL_Pts_C,Shamell
+20,4,00:08,MOG,76,76,FR,Shamell
+21,4,00:08,BRA,76,76,FC,Graterol
+22,4,00:19,MOG,76,76,RD,Deodato
+23,4,00:24,BRA,76,76,3_Pts_T,Zach Graham
+24,4,00:39,BRA,76,76,RD,Zach Graham
+25,4,00:45,MOG,76,76,2_Pts_T,Arthur Pecos
+26,4,00:58,MOG,76,76,RD,Deodato
+27,4,01:00,BRA,76,76,3_Pts_T,Gui
+28,4,01:24,MOG,76,76,LL_Pts_C,Batista
+29,4,01:24,MOG,76,75,LL_Pts_C,Batista
+30,4,01:24,MOG,76,74,FR,Batista
+31,4,01:24,BRA,76,74,FC,Gui
+32,4,01:38,MOG,76,74,tempo_tecnico,Mogi
+33,4,01:38,BRA,76,74,AS,Gui
+34,4,01:38,BRA,76,74,2_Pts_C,Zach Graham
+35,4,01:38,BRA,74,74,BR,Gui
+36,4,01:38,MOG,74,74,ER,Shamell
+37,4,01:58,MOG,74,74,RD,Gruber
+38,4,02:03,BRA,74,74,3_Pts_T,Arthur
+39,4,02:09,BRA,74,74,RD,Graterol
+40,4,02:14,MOG,74,74,2_Pts_T,Batista
+41,4,02:28,MOG,74,74,FR,Shamell
+42,4,02:28,BRA,74,74,FC,Arthur
+43,4,02:41,BRA,74,74,AS,Zach Graham
+44,4,02:41,BRA,74,74,2_Pts_C,Graterol
+45,4,02:54,BRA,72,74,substituicao_entra,Gui
+46,4,02:54,BRA,72,74,substituicao_sai,Andrezão
+47,4,02:57,MOG,72,74,ER,Batista
+48,4,02:58,MOG,72,74,RO,Batista
+49,4,03:03,MOG,72,74,3_Pts_T,Deodato
+50,4,03:22,BRA,72,74,substituicao_entra,Graterol
+51,4,03:22,BRA,72,74,substituicao_sai,P  Rava
+52,4,03:22,MOG,72,74,RD,Mogi
+53,4,03:28,BRA,72,74,3_Pts_T,Zach Graham
+54,4,03:46,MOG,72,74,substituicao_entra,Gruber
+55,4,03:46,MOG,72,74,substituicao_sai,Filipin
+56,4,03:46,BRA,72,74,substituicao_entra,P  Rava
+57,4,03:46,BRA,72,74,substituicao_sai,Rodrigo
+58,4,03:46,BRA,72,74,Caixa,Universo
+59,4,03:47,MOG,72,74,EN,Deodato
+60,4,03:51,MOG,72,72,RD,Deodato
+61,4,03:56,BRA,72,72,3_Pts_T,Zach Graham
+62,4,04:12,MOG,72,72,AS,Deodato
+63,4,04:12,MOG,72,72,2_Pts_C,Batista
+64,4,04:15,MOG,72,70,RO,Deodato
+65,4,04:20,MOG,72,70,3_Pts_T,Deodato
+66,4,04:36,MOG,72,70,RD,Batista
+67,4,04:40,BRA,72,70,3_Pts_T,Zach Graham
+68,4,05:05,MOG,72,70,2_Pts_C,Shamell
+69,4,05:22,MOG,72,68,substituicao_entra,Filipin
+70,4,05:22,MOG,72,68,substituicao_sai,Gruber
+71,4,05:22,BRA,72,68,substituicao_entra,Andrezão
+72,4,05:22,BRA,72,68,substituicao_sai,Rafa Moreira
+73,4,05:22,MOG,72,68,FR,Batista
+74,4,05:22,BRA,72,68,FC,Rafa Moreira
+75,4,05:22,MOG,72,68,RD,Batista
+76,4,05:25,BRA,72,68,2_Pts_T,Nezinho
+77,4,05:48,BRA,72,68,FR,Rafa Moreira
+78,4,05:48,MOG,72,68,ER,Gruber
+79,4,05:48,MOG,72,68,FC_O,Gruber
+80,4,05:48,BRA,72,68,3_Pts_C,Arthur
+81,4,05:48,BRA,69,68,Caixa,Universo
+82,4,05:48,MOG,69,68,2_Pts_T,Batista
+83,4,06:03,BRA,69,68,2_Pts_C,Rodrigo
+84,4,06:35,MOG,67,68,AS,Shamell
+85,4,06:35,MOG,67,68,2_Pts_C,Deodato
+86,4,06:42,BRA,67,66,ER,Nezinho
+87,4,07:01,BRA,67,66,RD,Rafa Moreira
+88,4,07:05,MOG,67,66,2_Pts_T,Batista
+89,4,07:25,BRA,67,66,AS,Nezinho
+90,4,07:25,BRA,67,66,2_Pts_C,Arthur
+91,4,07:28,BRA,65,66,RD,Nezinho
+92,4,07:32,MOG,65,66,2_Pts_T,Gruber
+93,4,07:38,MOG,65,66,RD,Arthur Pecos
+94,4,07:43,BRA,65,66,3_Pts_T,Rafa Moreira
+95,4,08:02,BRA,65,66,Caixa,Universo
+96,4,08:02,MOG,65,66,3_Pts_C,Gruber
+97,4,08:03,MOG,65,63,RD,Arthur Pecos
+98,4,08:08,BRA,65,63,2_Pts_T,Arthur
+99,4,08:19,MOG,65,63,LL_Pts_C,Batista
+100,4,08:19,BRA,65,62,substituicao_entra,Rodrigo
+101,4,08:19,BRA,65,62,substituicao_sai,Marcelão
+102,4,08:19,MOG,65,62,FR,Batista
+103,4,08:19,BRA,65,62,FC,Marcelão
+104,4,08:19,MOG,65,62,2_Pts_C,Batista
+105,4,08:19,MOG,65,60,RO,Batista
+106,4,08:21,MOG,65,60,2_Pts_T,Shamell
+107,4,08:26,MOG,65,60,FR,Batista
+108,4,08:26,BRA,65,60,FC,Marcelão
+109,4,08:43,BRA,65,60,LL_Pts_C,Zach Graham
+110,4,08:43,BRA,64,60,LL_Pts_C,Zach Graham
+111,4,08:43,BRA,63,60,FR,Zach Graham
+112,4,08:43,MOG,63,60,FC,Shamell
+113,4,08:48,BRA,63,60,substituicao_entra,Marcelão
+114,4,08:48,BRA,63,60,substituicao_sai,Graterol
+115,4,09:01,MOG,63,60,AS,Arthur Pecos
+116,4,09:01,MOG,63,60,2_Pts_C,Batista
+117,4,09:04,MOG,63,58,RD,Deodato
+118,4,09:08,BRA,63,58,3_Pts_T,Nezinho
+119,4,09:09,BRA,63,58,RD,Nezinho
+120,4,09:25,MOG,63,58,3_Pts_T,Arthur Pecos
+121,4,09:32,MOG,63,58,RD,Shamell
+122,4,09:36,BRA,63,58,2_Pts_T,Zach Graham
+123,4,09:37,BRA,63,58,RO,Zach Graham
+124,4,09:42,MOG,63,58,3_Pts_C,Arthur Pecos
+125,4,09:42,BRA,63,55,3_Pts_T,Arthur
+126,4,09:58,MOG,63,55,substituicao_entra,Gruber
+127,4,09:58,MOG,63,55,substituicao_sai,Filipin
+128,4,09:58,BRA,63,55,substituicao_entra,Arthur
+129,4,09:58,BRA,63,55,substituicao_sai,Rodrigo
+130,4,09:58,BRA,63,55,substituicao_entra,Nezinho
+131,4,09:58,BRA,63,55,substituicao_sai,Danilo
+132,4,09:58,BRA,63,55,substituicao_entra,Rafa Moreira
+133,4,09:58,BRA,63,55,substituicao_sai,P  Rava
+134,4,09:58,BRA,63,55,substituicao_entra,Graterol
+135,4,09:58,BRA,63,55,substituicao_sai,Gui
+136,4,10:00,NaN,63,55,inicio_quarto,
+137,3,00:00,NaN,63,55,fim_quarto,
+138,3,00:04,MOG,63,55,RD,Mogi
+139,3,00:07,BRA,63,55,LL_Pts_T,Rodrigo
+140,3,00:07,BRA,63,55,LL_Pts_T,Rodrigo
+141,3,00:09,BRA,63,55,FR,Rodrigo
+142,3,00:09,MOG,63,55,FC,Batista
+143,3,00:09,BRA,63,55,substituicao_entra,Gui
+144,3,00:09,BRA,63,55,substituicao_sai,Nezinho
+145,3,00:09,BRA,63,55,substituicao_entra,Danilo
+146,3,00:09,BRA,63,55,substituicao_sai,Arthur
+147,3,00:09,BRA,63,55,Caixa,Universo
+148,3,00:09,MOG,63,55,2_Pts_T,Arthur Pecos
+149,3,00:29,BRA,63,55,3_Pts_C,Arthur
+150,3,00:43,MOG,60,55,ER,Batista
+151,3,01:07,BRA,60,55,2_Pts_C,Arthur
+152,3,01:14,MOG,58,55,substituicao_entra,Filipin
+153,3,01:14,MOG,58,55,substituicao_sai,Gruber
+154,3,01:14,BRA,58,55,substituicao_entra,Nezinho
+155,3,01:14,BRA,58,55,substituicao_sai,Gui
+156,3,01:14,BRA,58,55,substituicao_entra,Arthur
+157,3,01:14,BRA,58,55,substituicao_sai,Andrezão
+158,3,01:14,MOG,58,55,ER,
+159,3,01:14,MOG,58,55,RO,Arthur Pecos
+160,3,01:15,BRA,58,55,TO,Zach Graham
+161,3,01:15,MOG,58,55,2_Pts_T,Arthur Pecos
+162,3,01:37,BRA,58,55,ER,
+163,3,01:50,MOG,58,55,substituicao_entra,Gruber
+164,3,01:50,MOG,58,55,substituicao_sai,Cafferata
+165,3,01:50,MOG,58,55,substituicao_entra,Batista
+166,3,01:50,MOG,58,55,substituicao_sai,João Pedro
+167,3,01:50,MOG,58,55,substituicao_entra,Shamell
+168,3,01:50,MOG,58,55,substituicao_sai,Filipin
+169,3,01:50,BRA,58,55,FR,Zach Graham
+170,3,01:50,MOG,58,55,FC,Filipin
+171,3,02:02,BRA,58,55,RD,Rodrigo
+172,3,02:06,MOG,58,55,LL_Pts_T,Cafferata
+173,3,02:06,MOG,58,55,LL_Pts_T,Cafferata
+174,3,02:08,MOG,58,55,FR,Cafferata
+175,3,02:08,BRA,58,55,FC,Rodrigo
+176,3,02:24,BRA,58,55,2_Pts_C,Gui
+177,3,02:40,BRA,56,55,RD,Zach Graham
+178,3,02:44,MOG,56,55,2_Pts_T,Filipin
+179,3,02:56,MOG,56,55,substituicao_entra,Arthur Pecos
+180,3,02:56,MOG,56,55,substituicao_sai,Batista
+181,3,02:56,BRA,56,55,substituicao_entra,P  Rava
+182,3,02:56,BRA,56,55,substituicao_sai,Nezinho
+183,3,02:56,BRA,56,55,substituicao_entra,Rodrigo
+184,3,02:56,BRA,56,55,substituicao_sai,Graterol
+185,3,02:56,MOG,56,55,tempo_tecnico,Mogi
+186,3,02:59,BRA,56,55,2_Pts_C,Zach Graham
+187,3,03:00,BRA,54,55,RD,Zach Graham
+188,3,03:05,MOG,54,55,2_Pts_T,Deodato
+189,3,03:24,BRA,54,55,AS,Nezinho
+190,3,03:24,BRA,54,55,3_Pts_C,Andrezão
+191,3,03:35,BRA,51,55,substituicao_entra,Gui
+192,3,03:35,BRA,51,55,substituicao_sai,P  Rava
+193,3,03:35,MOG,51,55,substituicao_entra,Deodato
+194,3,03:35,MOG,51,55,substituicao_sai,Shamell
+195,3,03:35,BRA,51,55,FR,Nezinho
+196,3,03:35,MOG,51,55,FC,Cafferata
+197,3,03:52,MOG,51,55,2_Pts_C,João Pedro
+198,3,03:52,MOG,51,53,RO,João Pedro
+199,3,03:54,MOG,51,53,2_Pts_T,Cafferata
+200,3,04:03,MOG,51,53,RD,Mogi
+201,3,04:08,BRA,51,53,3_Pts_T,P  Rava
+202,3,04:17,BRA,51,53,substituicao_entra,Nezinho
+203,3,04:17,BRA,51,53,substituicao_sai,Arthur
+204,3,04:17,MOG,51,53,RO,Batista
+205,3,04:22,MOG,51,53,2_Pts_T,João Pedro
+206,3,04:37,BRA,51,53,AS,Arthur
+207,3,04:37,BRA,51,53,EN,Graterol
+208,3,04:50,BRA,49,53,BR,Arthur
+209,3,04:50,MOG,49,53,ER,Batista
+210,3,05:00,MOG,49,53,BR,Cafferata
+211,3,05:00,BRA,49,53,ER,Zach Graham
+212,3,05:01,BRA,49,53,RD,Zach Graham
+213,3,05:05,MOG,49,53,2_Pts_T,Batista
+214,3,05:09,MOG,49,53,substituicao_entra,João Pedro
+215,3,05:09,MOG,49,53,substituicao_sai,Gruber
+216,3,05:09,BRA,49,53,LL_Pts_C,Arthur
+217,3,05:09,BRA,48,53,LL_Pts_C,Arthur
+218,3,05:09,MOG,47,53,substituicao_entra,Cafferata
+219,3,05:09,MOG,47,53,substituicao_sai,Arthur Pecos
+220,3,05:09,BRA,47,53,FR,Arthur
+221,3,05:09,MOG,47,53,FC,Batista
+222,3,05:24,MOG,47,53,AS,Shamell
+223,3,05:24,MOG,47,53,3_Pts_C,Filipin
+224,3,05:40,MOG,47,50,FR,Shamell
+225,3,05:40,BRA,47,50,FC,Arthur
+226,3,05:40,MOG,47,50,substituicao_entra,Filipin
+227,3,05:40,MOG,47,50,substituicao_sai,Deodato
+228,3,05:40,BRA,47,50,substituicao_entra,P  Rava
+229,3,05:40,BRA,47,50,substituicao_sai,Marcelão
+230,3,05:40,BRA,47,50,substituicao_entra,Graterol
+231,3,05:40,BRA,47,50,substituicao_sai,Nezinho
+232,3,06:10,BRA,47,50,2_Pts_C,Arthur
+233,3,06:12,BRA,45,50,RO,Arthur
+234,3,06:21,BRA,45,50,3_Pts_T,Arthur
+235,3,06:28,MOG,45,50,LL_Pts_T,Shamell
+236,3,06:28,BRA,45,50,ER,Nezinho
+237,3,06:28,BRA,45,50,FC_T,Nezinho
+238,3,06:48,MOG,45,50,AS,Arthur Pecos
+239,3,06:48,MOG,45,50,3_Pts_C,Shamell
+240,3,07:15,MOG,45,47,FR,Batista
+241,3,07:15,BRA,45,47,FC,Marcelão
+242,3,07:26,MOG,45,47,AS,Deodato
+243,3,07:26,MOG,45,47,2_Pts_C,Gruber
+244,3,07:39,BRA,45,45,2_Pts_C,Zach Graham
+245,3,07:40,BRA,43,45,RD,Andrezão
+246,3,07:47,MOG,43,45,2_Pts_T,Batista
+247,3,07:59,BRA,43,45,ER,Andrezão
+248,3,08:20,BRA,43,45,RD,Arthur
+249,3,08:22,MOG,43,45,LL_Pts_T,Batista
+250,3,08:22,MOG,43,45,LL_Pts_T,Batista
+251,3,08:22,BRA,43,45,substituicao_entra,Marcelão
+252,3,08:22,BRA,43,45,substituicao_sai,Graterol
+253,3,08:22,MOG,43,45,FR,Batista
+254,3,08:22,BRA,43,45,FC,Nezinho
+255,3,08:22,MOG,43,45,RO,Batista
+256,3,08:28,MOG,43,45,2_Pts_T,Batista
+257,3,08:44,MOG,43,45,RD,Deodato
+258,3,08:50,BRA,43,45,3_Pts_T,Graterol
+259,3,08:54,BRA,43,45,RO,Zach Graham
+260,3,09:00,BRA,43,45,3_Pts_T,Zach Graham
+261,3,09:05,MOG,43,45,AS,Arthur Pecos
+262,3,09:05,MOG,43,45,2_Pts_C,Batista
+263,3,09:05,MOG,43,43,RO,Mogi
+264,3,09:09,MOG,43,43,3_Pts_T,Deodato
+265,3,09:33,BRA,43,43,AS,Andrezão
+266,3,09:33,BRA,43,43,3_Pts_C,Arthur
+267,3,10:00,NaN,40,43,inicio_quarto,
+268,2,00:00,NaN,40,43,fim_quarto,
+269,2,00:10,MOG,40,43,2_Pts_C,Shamell
+270,2,00:10,MOG,40,41,RO,Shamell
+271,2,00:10,MOG,40,41,2_Pts_T,Deodato
+272,2,00:15,BRA,40,41,substituicao_entra,Rodrigo
+273,2,00:15,BRA,40,41,substituicao_sai,Graterol
+274,2,00:15,BRA,40,41,substituicao_entra,Marcelão
+275,2,00:15,BRA,40,41,substituicao_sai,Arthur
+276,2,00:15,BRA,40,41,LL_Pts_C,Arthur
+277,2,00:15,BRA,39,41,LL_Pts_C,Arthur
+278,2,00:15,MOG,38,41,substituicao_entra,Gruber
+279,2,00:15,MOG,38,41,substituicao_sai,Lessa
+280,2,00:15,MOG,38,41,substituicao_entra,Deodato
+281,2,00:15,MOG,38,41,substituicao_sai,Filipin
+282,2,00:15,BRA,38,41,substituicao_entra,Danilo
+283,2,00:15,BRA,38,41,substituicao_sai,Nezinho
+284,2,00:15,BRA,38,41,substituicao_entra,Gui
+285,2,00:15,BRA,38,41,substituicao_sai,Zach Graham
+286,2,00:15,BRA,38,41,FR,Arthur
+287,2,00:15,MOG,38,41,FC,Lessa
+288,2,00:33,MOG,38,41,substituicao_entra,Batista
+289,2,00:33,MOG,38,41,substituicao_sai,Cafferata
+290,2,00:33,MOG,38,41,substituicao_entra,Filipin
+291,2,00:33,MOG,38,41,substituicao_sai,Lucas
+292,2,00:33,BRA,38,41,substituicao_entra,Graterol
+293,2,00:33,BRA,38,41,substituicao_sai,Rodrigo
+294,2,00:33,BRA,38,41,Caixa,Universo
+295,2,00:45,MOG,38,41,LL_Pts_C,Cafferata
+296,2,00:45,MOG,38,40,LL_Pts_C,Cafferata
+297,2,00:48,MOG,38,39,FR,Cafferata
+298,2,00:48,BRA,38,39,FC,Rodrigo
+299,2,00:54,MOG,38,39,RD,Shamell
+300,2,00:54,BRA,38,39,2_Pts_T,Rodrigo
+301,2,00:54,MOG,38,39,substituicao_entra,Arthur Pecos
+302,2,00:54,MOG,38,39,substituicao_sai,João Pedro
+303,2,00:54,MOG,38,39,substituicao_entra,Cafferata
+304,2,00:54,MOG,38,39,substituicao_sai,Batista
+305,2,00:54,MOG,38,39,substituicao_entra,Lessa
+306,2,00:54,MOG,38,39,substituicao_sai,Filipin
+307,2,00:54,BRA,38,39,substituicao_entra,Zach Graham
+308,2,00:54,BRA,38,39,substituicao_sai,Gui
+309,2,00:54,BRA,38,39,substituicao_entra,Nezinho
+310,2,00:54,BRA,38,39,substituicao_sai,Danilo
+311,2,00:54,BRA,38,39,substituicao_entra,Arthur
+312,2,00:54,BRA,38,39,substituicao_sai,Andrezão
+313,2,00:54,MOG,38,39,LL_Pts_C,Lucas
+314,2,00:54,MOG,38,38,LL_Pts_T,Lucas
+315,2,00:54,MOG,38,38,FR,Lucas
+316,2,00:54,BRA,38,38,FC,P  Rava
+317,2,00:56,BRA,38,38,substituicao_entra,Rodrigo
+318,2,00:56,BRA,38,38,substituicao_sai,Graterol
+319,2,01:04,BRA,38,38,LL_Pts_C,P  Rava
+320,2,01:04,BRA,37,38,LL_Pts_C,P  Rava
+321,2,01:04,BRA,36,38,FR,P  Rava
+322,2,01:04,MOG,36,38,FC,Lucas
+323,2,01:10,MOG,36,38,AS,Shamell
+324,2,01:10,MOG,36,38,3_Pts_C,Lucas
+325,2,01:29,MOG,36,35,substituicao_entra,Lucas
+326,2,01:29,MOG,36,35,substituicao_sai,Cafferata
+327,2,01:29,BRA,36,35,substituicao_entra,Danilo
+328,2,01:29,BRA,36,35,substituicao_sai,Zach Graham
+329,2,01:30,MOG,36,35,tempo_tecnico,Mogi
+330,2,01:30,BRA,36,35,2_Pts_C,Graterol
+331,2,01:30,BRA,34,35,BR,Graterol
+332,2,01:30,MOG,34,35,ER,Shamell
+333,2,01:31,MOG,34,35,RD,Batista
+334,2,01:41,BRA,34,35,LL_Pts_T,Andrezão
+335,2,01:42,BRA,34,35,LL_Pts_C,Andrezão
+336,2,01:49,MOG,33,35,substituicao_entra,João Pedro
+337,2,01:49,MOG,33,35,substituicao_sai,Gruber
+338,2,01:49,BRA,33,35,substituicao_entra,P  Rava
+339,2,01:49,BRA,33,35,substituicao_sai,Nezinho
+340,2,01:49,BRA,33,35,FR,Andrezão
+341,2,01:49,MOG,33,35,FC,Gruber
+342,2,02:02,MOG,33,35,substituicao_entra,Cafferata
+343,2,02:02,MOG,33,35,substituicao_sai,Arthur Pecos
+344,2,02:09,BRA,33,35,RD,Andrezão
+345,2,02:14,MOG,33,35,2_Pts_T,Arthur Pecos
+346,2,02:18,MOG,33,35,RD,Shamell
+347,2,02:25,BRA,33,35,3_Pts_T,Andrezão
+348,2,02:36,MOG,33,35,3_Pts_C,Shamell
+349,2,02:44,MOG,33,32,RD,Filipin
+350,2,02:52,BRA,33,32,2_Pts_T,Graterol
+351,2,02:56,MOG,33,32,substituicao_entra,Filipin
+352,2,02:56,MOG,33,32,substituicao_sai,Deodato
+353,2,03:06,BRA,33,32,Caixa,Universo
+354,2,03:07,MOG,33,32,FC,Cafferata
+355,2,03:07,MOG,33,32,LL_Pts_T,Deodato
+356,2,03:07,MOG,33,32,LL_Pts_T,Deodato
+357,2,03:07,BRA,33,32,substituicao_entra,Gui
+358,2,03:07,BRA,33,32,substituicao_sai,Rafa Moreira
+359,2,03:07,MOG,33,32,FR,Deodato
+360,2,03:07,BRA,33,32,FC,Rafa Moreira
+361,2,03:18,MOG,33,32,substituicao_entra,Gruber
+362,2,03:18,MOG,33,32,substituicao_sai,Lessa
+363,2,03:18,MOG,33,32,substituicao_entra,Deodato
+364,2,03:18,MOG,33,32,substituicao_sai,João Pedro
+365,2,03:18,MOG,33,32,substituicao_entra,Batista
+366,2,03:18,MOG,33,32,substituicao_sai,Filipin
+367,2,03:18,MOG,33,32,tempo_tecnico,Mogi
+368,2,03:18,MOG,33,32,FR,João Pedro
+369,2,03:18,BRA,33,32,ER,Rafa Moreira
+370,2,03:18,BRA,33,32,FC_O,Rafa Moreira
+371,2,03:21,BRA,33,32,RD,Graterol
+372,2,03:27,MOG,33,32,2_Pts_T,Lessa
+373,2,03:55,BRA,33,32,AS,Zach Graham
+374,2,03:55,BRA,33,32,3_Pts_C,Graterol
+375,2,03:58,BRA,30,32,LL_Pts_C,Zach Graham
+376,2,03:59,MOG,29,32,FC_T,Técnico do Mogi
+377,2,04:02,BRA,29,32,substituicao_entra,Graterol
+378,2,04:02,BRA,29,32,substituicao_sai,Marcelão
+379,2,04:06,BRA,29,32,Caixa,Universo
+380,2,04:13,BRA,29,32,2_Pts_T,Marcelão
+381,2,04:17,BRA,29,32,RD,Andrezão
+382,2,04:21,MOG,29,32,2_Pts_T,João Pedro
+383,2,04:26,MOG,29,32,FR,Arthur Pecos
+384,2,04:26,BRA,29,32,FC,Rafa Moreira
+385,2,04:26,MOG,29,32,substituicao_entra,João Pedro
+386,2,04:26,MOG,29,32,substituicao_sai,Gruber
+387,2,04:26,MOG,29,32,substituicao_entra,Shamell
+388,2,04:26,MOG,29,32,substituicao_sai,Batista
+389,2,04:28,MOG,29,32,FR,Gruber
+390,2,04:28,BRA,29,32,FC,Marcelão
+391,2,04:41,MOG,29,32,RD,Arthur Pecos
+392,2,04:46,BRA,29,32,3_Pts_T,Andrezão
+393,2,05:14,MOG,29,32,RD,Gruber
+394,2,05:17,MOG,29,32,FC,Gruber
+395,2,05:17,BRA,29,32,FR,Zach Graham
+396,2,05:17,MOG,29,32,ER,Gruber
+397,2,05:17,MOG,29,32,FC_O,Gruber
+398,2,05:19,BRA,29,32,2_Pts_T,Graterol
+399,2,05:37,MOG,29,32,FR,Arthur Pecos
+400,2,05:37,BRA,29,32,FC,Andrezão
+401,2,05:37,BRA,29,32,3_Pts_C,Rafa Moreira
+402,2,05:37,BRA,26,32,substituicao_entra,Marcelão
+403,2,05:37,BRA,26,32,substituicao_sai,Graterol
+404,2,05:37,MOG,26,32,tempo_tecnico,Mogi
+405,2,05:41,MOG,26,32,2_Pts_C,Gruber
+406,2,05:46,BRA,26,30,substituicao_entra,Andrezão
+407,2,05:46,BRA,26,30,substituicao_sai,P  Rava
+408,2,06:18,BRA,26,30,3_Pts_C,Zach Graham
+409,2,06:21,MOG,23,30,substituicao_entra,Arthur Pecos
+410,2,06:21,MOG,23,30,substituicao_sai,João Pedro
+411,2,06:54,MOG,23,30,substituicao_entra,Filipin
+412,2,06:54,MOG,23,30,substituicao_sai,Shamell
+413,2,06:54,MOG,23,30,FR,Batista
+414,2,06:54,BRA,23,30,FC,Graterol
+415,2,07:03,MOG,23,30,RD,Lessa
+416,2,07:07,BRA,23,30,3_Pts_T,Nezinho
+417,2,07:13,MOG,23,30,substituicao_entra,Lessa
+418,2,07:13,MOG,23,30,substituicao_sai,Deodato
+419,2,07:13,BRA,23,30,FR,P  Rava
+420,2,07:13,MOG,23,30,FC,Deodato
+421,2,07:16,MOG,23,30,substituicao_entra,Gruber
+422,2,07:16,MOG,23,30,substituicao_sai,Cafferata
+423,2,07:16,BRA,23,30,FR,Nezinho
+424,2,07:16,MOG,23,30,FC,Deodato
+425,2,07:23,MOG,23,30,BR,Deodato
+426,2,07:23,BRA,23,30,ER,Nezinho
+427,2,07:29,BRA,23,30,BR,Nezinho
+428,2,07:29,MOG,23,30,ER,Cafferata
+429,2,07:39,MOG,23,30,RD,João Pedro
+430,2,07:46,BRA,23,30,3_Pts_T,Rafa Moreira
+431,2,07:57,MOG,23,30,2_Pts_C,João Pedro
+432,2,08:15,BRA,23,28,2_Pts_C,Zach Graham
+433,2,08:18,BRA,21,28,FR,Graterol
+434,2,08:18,MOG,21,28,FC,Cafferata
+435,2,08:24,BRA,21,28,BR,Graterol
+436,2,08:24,MOG,21,28,ER,Deodato
+437,2,08:56,BRA,21,28,AS,P  Rava
+438,2,08:56,BRA,21,28,3_Pts_C,Rafa Moreira
+439,2,08:58,BRA,18,28,RO,P  Rava
+440,2,09:03,BRA,18,28,2_Pts_T,Nezinho
+441,2,09:23,BRA,18,28,RD,Graterol
+442,2,09:28,MOG,18,28,2_Pts_T,Shamell
+443,2,09:33,MOG,18,28,substituicao_entra,Deodato
+444,2,09:33,MOG,18,28,substituicao_sai,Filipin
+445,2,09:49,MOG,18,28,substituicao_entra,Batista
+446,2,09:49,MOG,18,28,substituicao_sai,Arthur Pecos
+447,2,09:49,BRA,18,28,substituicao_entra,Nezinho
+448,2,09:49,BRA,18,28,substituicao_sai,Gui
+449,2,10:00,NaN,18,28,inicio_quarto,
+450,1,00:00,NaN,18,28,fim_quarto,
+451,1,00:40,MOG,18,28,RD,Mogi
+452,1,00:53,BRA,18,28,3_Pts_T,Zach Graham
+453,1,00:56,MOG,18,28,AS,João Pedro
+454,1,00:56,MOG,18,28,3_Pts_C,Filipin
+455,1,00:56,MOG,18,25,RD,João Pedro
+456,1,00:56,BRA,18,25,2_Pts_T,P  Rava
+457,1,00:56,BRA,18,25,FR,Graterol
+458,1,00:56,MOG,18,25,FC,Filipin
+459,1,00:56,MOG,18,25,LL_Pts_C,João Pedro
+460,1,00:56,MOG,18,24,FR,João Pedro
+461,1,00:56,BRA,18,24,FC,P  Rava
+462,1,00:56,BRA,18,24,substituicao_entra,P  Rava
+463,1,00:56,BRA,18,24,substituicao_sai,Nezinho
+464,1,00:56,MOG,18,24,AS,Arthur Pecos
+465,1,00:56,MOG,18,24,EN,João Pedro
+466,1,01:12,MOG,18,22,substituicao_entra,Arthur Pecos
+467,1,01:12,MOG,18,22,substituicao_sai,Gruber
+468,1,01:12,MOG,18,22,substituicao_entra,Shamell
+469,1,01:12,MOG,18,22,substituicao_sai,Deodato
+470,1,02:14,BRA,18,22,AS,Nezinho
+471,1,02:14,BRA,18,22,2_Pts_C,Graterol
+472,1,02:39,BRA,16,22,FR,Rafa Moreira
+473,1,02:39,MOG,16,22,FC,Filipin
+474,1,02:41,MOG,16,22,RD,Filipin
+475,1,02:48,BRA,16,22,2_Pts_T,Gui
+476,1,03:05,BRA,16,22,RD,Nezinho
+477,1,03:09,MOG,16,22,LL_Pts_T,Gruber
+478,1,03:09,BRA,16,22,substituicao_entra,Gui
+479,1,03:09,BRA,16,22,substituicao_sai,Arthur
+480,1,03:09,MOG,16,22,FR,Gruber
+481,1,03:09,BRA,16,22,FC,Arthur
+482,1,03:18,MOG,16,22,AS,Deodato
+483,1,03:18,MOG,16,22,2_Pts_C,Gruber
+484,1,03:20,MOG,16,20,substituicao_entra,Filipin
+485,1,03:20,MOG,16,20,substituicao_sai,Shamell
+486,1,03:20,MOG,16,20,RD,Deodato
+487,1,03:20,BRA,16,20,3_Pts_T,Zach Graham
+488,1,03:20,MOG,16,20,3_Pts_C,Deodato
+489,1,03:20,MOG,16,17,substituicao_entra,Shamell
+490,1,03:20,MOG,16,17,substituicao_sai,Batista
+491,1,03:20,MOG,16,17,RD,Cafferata
+492,1,03:20,BRA,16,17,3_Pts_T,Rafa Moreira
+493,1,03:20,MOG,16,17,RO,Batista
+494,1,03:20,MOG,16,17,2_Pts_T,João Pedro
+495,1,03:20,MOG,16,17,substituicao_entra,João Pedro
+496,1,03:20,MOG,16,17,substituicao_sai,Arthur Pecos
+497,1,03:20,MOG,16,17,substituicao_entra,Cafferata
+498,1,03:20,MOG,16,17,substituicao_sai,Shamell
+499,1,03:43,MOG,16,17,FR,Shamell
+500,1,03:43,BRA,16,17,FC,Arthur
+501,1,03:59,MOG,16,17,RD,Batista
+502,1,04:08,BRA,16,17,3_Pts_T,Arthur
+503,1,04:22,BRA,16,17,2_Pts_C,Zach Graham
+504,1,04:22,MOG,14,17,2_Pts_C,Gruber
+505,1,04:22,BRA,14,15,2_Pts_C,Zach Graham
+506,1,04:35,BRA,12,15,3_Pts_C,Nezinho
+507,1,04:40,MOG,9,15,3_Pts_C,Deodato
+508,1,05:03,BRA,9,12,3_Pts_C,Arthur
+509,1,05:32,BRA,6,12,RD,Graterol
+510,1,05:35,MOG,6,12,LL_Pts_T,Batista
+511,1,05:35,BRA,6,12,substituicao_entra,Rafa Moreira
+512,1,05:35,BRA,6,12,substituicao_sai,Marcelão
+513,1,05:35,MOG,6,12,FR,Batista
+514,1,05:35,BRA,6,12,FC,Nezinho
+515,1,05:35,MOG,6,12,2_Pts_C,Batista
+516,1,05:58,BRA,6,10,2_Pts_C,Zach Graham
+517,1,06:10,BRA,4,10,Caixa,Universo
+518,1,06:15,MOG,4,10,3_Pts_T,Gruber
+519,1,06:21,MOG,4,10,RD,Batista
+520,1,06:28,BRA,4,10,2_Pts_T,Graterol
+521,1,06:44,MOG,4,10,LL_Pts_C,Gruber
+522,1,06:44,MOG,4,9,LL_Pts_C,Gruber
+523,1,06:54,MOG,4,8,FR,Gruber
+524,1,06:54,BRA,4,8,FC,Marcelão
+525,1,07:02,MOG,4,8,BR,Shamell
+526,1,07:02,BRA,4,8,ER,Nezinho
+527,1,07:07,BRA,4,8,RD,Marcelão
+528,1,07:07,MOG,4,8,2_Pts_T,Batista
+529,1,07:08,MOG,4,8,RD,Gruber
+530,1,07:15,BRA,4,8,LL_Pts_T,Zach Graham
+531,1,07:15,BRA,4,8,LL_Pts_C,Zach Graham
+532,1,07:15,BRA,3,8,LL_Pts_C,Zach Graham
+533,1,07:15,BRA,2,8,FR,Zach Graham
+534,1,07:15,MOG,2,8,FC,Shamell
+535,1,07:29,MOG,2,8,3_Pts_C,Shamell
+536,1,07:32,MOG,2,5,RD,Arthur Pecos
+537,1,07:38,BRA,2,5,3_Pts_T,Zach Graham
+538,1,07:43,BRA,2,5,Caixa,Universo
+539,1,07:49,MOG,2,5,3_Pts_T,Arthur Pecos
+540,1,07:58,MOG,2,5,RD,Shamell
+541,1,08:04,BRA,2,5,2_Pts_T,Marcelão
+542,1,08:16,MOG,2,5,2_Pts_C,Gruber
+543,1,08:25,BRA,2,3,2_Pts_C,Arthur
+544,1,08:49,MOG,0,3,AS,Gruber
+545,1,08:49,MOG,0,3,3_Pts_C,Arthur Pecos
+546,1,08:53,MOG,0,0,RD,Arthur Pecos
+547,1,08:59,BRA,0,0,3_Pts_T,Nezinho
+548,1,09:05,BRA,0,0,RD,Arthur
+549,1,09:12,MOG,0,0,3_Pts_T,Arthur Pecos
+550,1,09:35,BRA,0,0,ER,
+551,1,10:00,MOG,0,0,substituicao_entra,Arthur Pecos
+552,1,10:00,MOG,0,0,substituicao_entra,Gruber
+553,1,10:00,MOG,0,0,substituicao_entra,Batista
+554,1,10:00,MOG,0,0,substituicao_entra,Shamell
+555,1,10:00,MOG,0,0,substituicao_entra,Deodato
+556,1,10:00,BRA,0,0,substituicao_entra,Marcelão
+557,1,10:00,BRA,0,0,substituicao_entra,Nezinho
+558,1,10:00,BRA,0,0,substituicao_entra,Graterol
+559,1,10:00,BRA,0,0,substituicao_entra,Arthur
+560,1,10:00,BRA,0,0,substituicao_entra,Zach Graham
+561,1,10:00,NaN,0,0,inicio_partida,

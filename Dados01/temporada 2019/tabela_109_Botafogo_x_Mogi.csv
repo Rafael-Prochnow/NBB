@@ -1,0 +1,553 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,69,79,fim_partida,
+1,4,00:00,NaN,69,79,fim_quarto, 
+2,4,00:03,MOG,69,79,AS,Lucas
+3,4,00:03,BOT,69,79,3_Pts_T,Coelho
+4,4,00:03,MOG,69,79,3_Pts_C,Siqueira
+5,4,00:20,BOT,69,76,ER,Wesley
+6,4,00:20,BOT,69,76,BR,Wesley
+7,4,00:20,MOG,69,76,ER,Fabricio
+8,4,00:29,BOT,69,76,substituicao_entra,Jackson
+9,4,00:29,BOT,69,76,substituicao_sai,Jamaal
+10,4,00:29,MOG,69,76,substituicao_entra,Lucas
+11,4,00:29,MOG,69,76,substituicao_sai,Paranhos
+12,4,00:32,MOG,69,76,LL_Pts_T,André Goes
+13,4,00:32,MOG,69,76,LL_Pts_T,André Goes
+14,4,00:32,MOG,69,76,FR,André Goes
+15,4,00:32,BOT,69,76,FC_A,Jamaal
+16,4,00:36,BOT,69,76,2_Pts_C,Jamaal
+17,4,00:40,MOG,67,76,substituicao_entra,Paranhos
+18,4,00:40,MOG,67,76,substituicao_sai,Lucas
+19,4,00:40,MOG,67,76,ER,Gruber
+20,4,01:00,BOT,67,76,LL_Pts_C,Jamaal
+21,4,01:00,BOT,66,76,LL_Pts_C,Jamaal
+22,4,01:00,MOG,65,76,substituicao_entra,Lucas
+23,4,01:00,MOG,65,76,substituicao_sai,Guga
+24,4,01:00,BOT,65,76,FR,Jamaal
+25,4,01:00,MOG,65,76,FC,Guga
+26,4,01:01,MOG,65,76,LL_Pts_C,Siqueira
+27,4,01:01,MOG,65,75,LL_Pts_C,Siqueira
+28,4,01:01,MOG,65,74,LL_Pts_C,André Goes
+29,4,01:01,MOG,65,73,substituicao_entra,Guga
+30,4,01:01,MOG,65,73,substituicao_sai,Lucas
+31,4,01:01,BOT,65,73,substituicao_entra,Wesley
+32,4,01:01,BOT,65,73,substituicao_sai,Du Sommer
+33,4,01:01,BOT,65,73,FC_T,Du Sommer
+34,4,01:01,MOG,65,73,FR,Siqueira
+35,4,01:01,BOT,65,73,FC,Du Sommer
+36,4,01:08,BOT,65,73,AS,Coelho
+37,4,01:08,BOT,65,73,3_Pts_C,Arthur
+38,4,01:10,BOT,62,73,RO,Coelho
+39,4,01:13,BOT,62,73,3_Pts_T,Jamaal
+40,4,01:25,MOG,62,73,substituicao_entra,Lucas
+41,4,01:25,MOG,62,73,substituicao_sai,Guga
+42,4,01:25,BOT,62,73,FR,Jamaal
+43,4,01:25,MOG,62,73,FC,André Goes
+44,4,01:35,MOG,62,73,2_Pts_C,André Goes
+45,4,01:55,MOG,62,71,BR,André Goes
+46,4,01:55,BOT,62,71,ER,Du Sommer
+47,4,02:04,BOT,62,71,tempo_tecnico,Botafogo
+48,4,02:04,MOG,62,71,substituicao_entra,Guga
+49,4,02:04,MOG,62,71,substituicao_sai,Lucas
+50,4,02:04,MOG,62,71,ER,Fabricio
+51,4,02:22,MOG,62,71,substituicao_entra,Lucas
+52,4,02:22,MOG,62,71,substituicao_sai,Guga
+53,4,02:23,MOG,62,71,BR,André Goes
+54,4,02:23,BOT,62,71,ER,Du Sommer
+55,4,02:27,BOT,62,71,BR,Du Sommer
+56,4,02:27,MOG,62,71,ER,Siqueira
+57,4,02:32,MOG,62,71,RD,Siqueira
+58,4,02:35,BOT,62,71,3_Pts_T,Coelho
+59,4,02:46,MOG,62,71,LL_Pts_C,Gruber
+60,4,02:46,MOG,62,70,LL_Pts_C,Gruber
+61,4,02:46,MOG,62,69,FR,Gruber
+62,4,02:46,BOT,62,69,FC,Coelho
+63,4,02:57,BOT,62,69,2_Pts_C,Jamaal
+64,4,03:03,MOG,60,69,substituicao_entra,Guga
+65,4,03:03,MOG,60,69,substituicao_sai,Paranhos
+66,4,03:03,MOG,60,69,ER,André Goes
+67,4,03:14,MOG,60,69,RD,André Goes
+68,4,03:18,BOT,60,69,3_Pts_T,Arthur
+69,4,03:25,MOG,60,69,AS,Siqueira
+70,4,03:25,MOG,60,69,2_Pts_C,Gruber
+71,4,03:40,MOG,60,67,FR,Fabricio
+72,4,03:40,BOT,60,67,ER,Coelho
+73,4,03:40,BOT,60,67,FC_O,Coelho
+74,4,03:47,BOT,60,67,tempo_tecnico,Botafogo
+75,4,03:47,MOG,60,67,LL_Pts_C,Gruber
+76,4,03:47,MOG,60,66,LL_Pts_C,Gruber
+77,4,03:47,MOG,60,65,LL_Pts_C,André Goes
+78,4,03:47,MOG,60,64,substituicao_entra,Paranhos
+79,4,03:47,MOG,60,64,substituicao_sai,Lucas
+80,4,03:47,BOT,60,64,substituicao_entra,Arthur
+81,4,03:47,BOT,60,64,substituicao_sai,Lucas
+82,4,03:47,BOT,60,64,FC_T,Lucas
+83,4,03:47,MOG,60,64,FR,Gruber
+84,4,03:47,BOT,60,64,FC,Lucas
+85,4,03:59,BOT,60,64,ER,Jamaal
+86,4,03:59,BOT,60,64,BR,Jamaal
+87,4,03:59,MOG,60,64,ER,André Goes
+88,4,04:07,MOG,60,64,substituicao_entra,Lucas
+89,4,04:07,MOG,60,64,substituicao_sai,Paranhos
+90,4,04:16,BOT,60,64,2_Pts_C,Mogi
+91,4,04:22,BOT,58,64,BR,Jamaal
+92,4,04:22,MOG,58,64,ER,Paranhos
+93,4,04:23,MOG,58,64,RO,Paranhos
+94,4,04:26,MOG,58,64,3_Pts_T,Gruber
+95,4,04:42,BOT,58,64,LL_Pts_C,Coelho
+96,4,04:42,BOT,57,64,LL_Pts_C,Coelho
+97,4,04:42,BOT,56,64,LL_Pts_T,Jamaal
+98,4,04:42,MOG,56,64,FC_T,Técnico do Mogi
+99,4,04:42,BOT,56,64,FR,Coelho
+100,4,04:42,MOG,56,64,FC,Gruber
+101,4,04:53,BOT,56,64,FR,Lucas
+102,4,04:53,MOG,56,64,FC,Paranhos
+103,4,04:53,BOT,56,64,RO,Botafogo
+104,4,04:53,BOT,56,64,2_Pts_T,Lucas
+105,4,04:53,BOT,56,64,RO,Lucas
+106,4,04:54,BOT,56,64,2_Pts_T,Du Sommer
+107,4,05:07,MOG,56,64,LL_Pts_C,Siqueira
+108,4,05:07,MOG,56,63,LL_Pts_C,Siqueira
+109,4,05:07,BOT,56,62,substituicao_entra,Lucas
+110,4,05:07,BOT,56,62,substituicao_sai,Freddie
+111,4,05:07,MOG,56,62,LL_Pts_C,André Goes
+112,4,05:07,MOG,56,61,substituicao_entra,Paranhos
+113,4,05:07,MOG,56,61,substituicao_sai,Lucas
+114,4,05:07,BOT,56,61,substituicao_entra,Jamaal
+115,4,05:07,BOT,56,61,substituicao_sai,Arthur
+116,4,05:07,BOT,56,61,FC_T,Arthur
+117,4,05:07,MOG,56,61,FR,Siqueira
+118,4,05:07,BOT,56,61,FC,Arthur
+119,4,05:15,BOT,56,61,ER,
+120,4,05:15,BOT,56,61,RO,Coelho
+121,4,05:15,BOT,56,61,2_Pts_T,Arthur
+122,4,05:43,MOG,56,61,AS,André Goes
+123,4,05:43,MOG,56,61,2_Pts_C,Gruber
+124,4,05:49,BOT,56,59,substituicao_entra,Mogi
+125,4,05:49,BOT,56,59,substituicao_sai,Jamaal
+126,4,05:49,MOG,56,59,FR,Siqueira
+127,4,05:49,BOT,56,59,FC,Jamaal
+128,4,06:04,MOG,56,59,substituicao_entra,André Goes
+129,4,06:04,MOG,56,59,substituicao_sai,Paranhos
+130,4,06:04,MOG,56,59,FR,Fabricio
+131,4,06:04,BOT,56,59,FC,Du Sommer
+132,4,06:04,MOG,56,59,RD,Mogi
+133,4,06:04,BOT,56,59,2_Pts_T,Freddie
+134,4,06:04,BOT,56,59,RO,Freddie
+135,4,06:05,BOT,56,59,3_Pts_T,Jamaal
+136,4,06:28,BOT,56,59,RD,Botafogo
+137,4,06:30,MOG,56,59,3_Pts_T,Fabricio
+138,4,06:49,BOT,56,59,AS,Du Sommer
+139,4,06:49,BOT,56,59,3_Pts_C,Arthur
+140,4,06:54,MOG,53,59,ER,Fabricio
+141,4,06:54,MOG,53,59,RD,Fabricio
+142,4,06:55,BOT,53,59,3_Pts_T,Coelho
+143,4,07:12,BOT,53,59,substituicao_entra,Coelho
+144,4,07:12,BOT,53,59,substituicao_sai,Mogi
+145,4,07:12,MOG,53,59,substituicao_entra,Lucas
+146,4,07:12,MOG,53,59,substituicao_sai,André Goes
+147,4,07:12,BOT,53,59,RD,Botafogo
+148,4,07:12,MOG,53,59,2_Pts_T,André Goes
+149,4,07:32,MOG,53,59,RD,Mogi
+150,4,07:33,BOT,53,59,2_Pts_T,Du Sommer
+151,4,07:54,MOG,53,59,ER,Gruber
+152,4,08:12,BOT,53,59,substituicao_entra,Mogi
+153,4,08:12,BOT,53,59,substituicao_sai,Coelho
+154,4,08:12,MOG,53,59,FR,Siqueira
+155,4,08:12,BOT,53,59,FC,Jamaal
+156,4,08:20,BOT,53,59,ER,Coelho
+157,4,08:20,BOT,53,59,RO,Coelho
+158,4,08:22,BOT,53,59,3_Pts_T,Freddie
+159,4,08:35,BOT,53,59,FR,Du Sommer
+160,4,08:35,MOG,53,59,FC,Fabricio
+161,4,08:35,BOT,53,59,RO,Du Sommer
+162,4,08:35,BOT,53,59,2_Pts_T,Arthur
+163,4,08:44,BOT,53,59,RD,Du Sommer
+164,4,08:44,MOG,53,59,2_Pts_T,Gruber
+165,4,08:44,MOG,53,59,RO,Gruber
+166,4,08:47,MOG,53,59,2_Pts_T,Gruber
+167,4,08:53,MOG,53,59,RD,André Goes
+168,4,08:56,BOT,53,59,3_Pts_T,Jamaal
+169,4,09:09,MOG,53,59,2_Pts_C,Siqueira
+170,4,09:10,MOG,53,57,RO,Siqueira
+171,4,09:12,MOG,53,57,3_Pts_T,Gruber
+172,4,09:25,BOT,53,57,substituicao_entra,Freddie
+173,4,09:25,BOT,53,57,substituicao_sai,Mogi
+174,4,09:25,MOG,53,57,FR,Siqueira
+175,4,09:25,BOT,53,57,FC,Mogi
+176,4,09:40,BOT,53,57,2_Pts_C,Coelho
+177,4,10:00,NaN,51,57,inicio_quarto,
+178,3,00:00,NaN,51,57,fim_quarto,
+179,3,00:03,MOG,51,57,AS,André Goes
+180,3,00:03,MOG,51,57,3_Pts_C,Fabricio
+181,3,00:13,BOT,51,54,substituicao_entra,Wesley
+182,3,00:13,BOT,51,54,substituicao_sai,Du Sommer
+183,3,00:13,BOT,51,54,LL_Pts_C,Jamaal
+184,3,00:13,BOT,50,54,LL_Pts_C,Jamaal
+185,3,00:13,BOT,49,54,substituicao_entra,Freddie
+186,3,00:13,BOT,49,54,substituicao_entra,Jackson
+187,3,00:13,BOT,49,54,substituicao_sai,Coelho
+188,3,00:13,BOT,49,54,substituicao_sai,Mogi
+189,3,00:13,MOG,49,54,substituicao_entra,Fabricio
+190,3,00:13,MOG,49,54,substituicao_sai,Lucas
+191,3,00:13,BOT,49,54,FR,Jamaal
+192,3,00:13,MOG,49,54,FC,André Goes
+193,3,00:27,MOG,49,54,substituicao_entra,Lucas
+194,3,00:27,MOG,49,54,substituicao_sai,Fabricio
+195,3,00:27,BOT,49,54,FR,Mogi
+196,3,00:27,MOG,49,54,ER,André Goes
+197,3,00:27,MOG,49,54,FC_O,André Goes
+198,3,00:40,BOT,49,54,AS,Coelho
+199,3,00:40,BOT,49,54,3_Pts_C,Arthur
+200,3,00:51,MOG,46,54,substituicao_entra,Lessa
+201,3,00:51,MOG,46,54,substituicao_sai,Guga
+202,3,00:51,BOT,46,54,substituicao_entra,Du Sommer
+203,3,00:51,BOT,46,54,substituicao_sai,Lucas
+204,3,00:51,BOT,46,54,FR,Jamaal
+205,3,00:51,MOG,46,54,FC,Guga
+206,3,00:51,BOT,46,54,RD,Jamaal
+207,3,00:52,MOG,46,54,2_Pts_T,André Goes
+208,3,01:19,BOT,46,54,2_Pts_C,Lucas
+209,3,01:28,MOG,44,54,ER,Siqueira
+210,3,01:44,MOG,44,54,RD,Fabricio
+211,3,01:46,BOT,44,54,2_Pts_T,Lucas
+212,3,02:06,MOG,44,54,AS,André Goes
+213,3,02:06,MOG,44,54,3_Pts_C,Gruber
+214,3,02:23,MOG,44,51,RD,Gruber
+215,3,02:25,BOT,44,51,3_Pts_T,Mogi
+216,3,02:33,BOT,44,51,FR,Mogi
+217,3,02:33,MOG,44,51,FC,Guga
+218,3,02:33,BOT,44,51,RO,Botafogo
+219,3,02:33,BOT,44,51,3_Pts_T,Arthur
+220,3,02:51,BOT,44,51,tempo_tecnico,Botafogo
+221,3,02:51,MOG,44,51,AS,André Goes
+222,3,02:51,MOG,44,51,3_Pts_C,Fabricio
+223,3,02:59,MOG,44,48,BR,Siqueira
+224,3,02:59,BOT,44,48,ER,Arthur
+225,3,03:10,BOT,44,48,FR,Lucas
+226,3,03:10,MOG,44,48,ER,André Goes
+227,3,03:10,MOG,44,48,FC_O,André Goes
+228,3,03:23,MOG,44,48,RD,Fabricio
+229,3,03:25,BOT,44,48,3_Pts_T,Jamaal
+230,3,03:47,MOG,44,48,LL_Pts_C,André Goes
+231,3,03:47,MOG,44,47,LL_Pts_C,André Goes
+232,3,03:47,MOG,44,46,substituicao_entra,Guga
+233,3,03:47,MOG,44,46,substituicao_sai,Paranhos
+234,3,03:47,MOG,44,46,FR,André Goes
+235,3,03:47,BOT,44,46,FC,Mogi
+236,3,03:53,MOG,44,46,RD,Siqueira
+237,3,03:57,BOT,44,46,2_Pts_T,Lucas
+238,3,04:10,MOG,44,46,2_Pts_C,Gruber
+239,3,04:10,MOG,44,44,RO,Gruber
+240,3,04:21,BOT,44,44,TO,Lucas
+241,3,04:21,MOG,44,44,2_Pts_T,Paranhos
+242,3,04:34,MOG,44,44,FR,André Goes
+243,3,04:34,BOT,44,44,FC,Jamaal
+244,3,04:41,BOT,44,44,AS,Coelho
+245,3,04:41,BOT,44,44,2_Pts_C,Arthur
+246,3,04:42,MOG,42,44,tempo_tecnico,Mogi
+247,3,04:45,BOT,42,44,BR,Coelho
+248,3,04:45,MOG,42,44,ER,André Goes
+249,3,04:59,BOT,42,44,2_Pts_C,Lucas
+250,3,04:59,BOT,40,44,RO,Lucas
+251,3,05:02,BOT,40,44,2_Pts_T,Mogi
+252,3,05:23,MOG,40,44,AS,Gruber
+253,3,05:23,MOG,40,44,2_Pts_C,André Goes
+254,3,05:45,MOG,40,42,tempo_tecnico,Mogi
+255,3,05:47,BOT,40,42,AS,Coelho
+256,3,05:47,BOT,40,42,2_Pts_C,Arthur
+257,3,05:47,BOT,38,42,substituicao_entra,Lucas
+258,3,05:47,BOT,38,42,substituicao_sai,Du Sommer
+259,3,05:47,MOG,38,42,substituicao_entra,Fabricio
+260,3,05:47,MOG,38,42,substituicao_sai,Lucas
+261,3,05:47,BOT,38,42,FR,Coelho
+262,3,05:47,MOG,38,42,FC,Paranhos
+263,3,05:49,BOT,38,42,RD,Arthur
+264,3,05:52,MOG,38,42,2_Pts_T,Paranhos
+265,3,06:11,MOG,38,42,FR,Siqueira
+266,3,06:11,BOT,38,42,FC,Coelho
+267,3,06:12,MOG,38,42,BR,Siqueira
+268,3,06:12,BOT,38,42,ER,Arthur
+269,3,06:21,BOT,38,42,RD,Arthur
+270,3,06:26,MOG,38,42,2_Pts_T,Gruber
+271,3,06:30,MOG,38,42,FR,André Goes
+272,3,06:30,BOT,38,42,FC,Mogi
+273,3,06:40,MOG,38,42,RD,Paranhos
+274,3,06:43,BOT,38,42,3_Pts_T,Mogi
+275,3,06:54,BOT,38,42,RD,Du Sommer
+276,3,06:57,MOG,38,42,3_Pts_T,Lucas
+277,3,07:20,MOG,38,42,BR,André Goes
+278,3,07:20,BOT,38,42,ER,Coelho
+279,3,07:30,MOG,38,42,ER,Paranhos
+280,3,07:30,MOG,38,42,RD,Paranhos
+281,3,07:33,BOT,38,42,3_Pts_T,Du Sommer
+282,3,08:03,MOG,38,42,2_Pts_C,Paranhos
+283,3,08:25,BOT,38,40,AS,Arthur
+284,3,08:25,BOT,38,40,3_Pts_C,Mogi
+285,3,08:32,BOT,35,40,RD,Arthur
+286,3,08:33,MOG,35,40,2_Pts_T,Lucas
+287,3,08:33,MOG,35,40,RO,Lucas
+288,3,08:36,MOG,35,40,3_Pts_T,Siqueira
+289,3,08:46,MOG,35,40,RD,Paranhos
+290,3,08:48,BOT,35,40,3_Pts_T,Mogi
+291,3,09:00,MOG,35,40,2_Pts_C,Siqueira
+292,3,09:25,BOT,35,38,AS,Du Sommer
+293,3,09:25,BOT,35,38,3_Pts_C,Mogi
+294,3,09:43,BOT,32,38,RD,Jamaal
+295,3,09:45,MOG,32,38,3_Pts_T,Gruber
+296,3,10:00,NaN,32,38,inicio_quarto,
+297,2,00:00,NaN,32,38,fim_quarto,
+298,2,00:00,MOG,32,38,AS,Siqueira
+299,2,00:00,MOG,32,38,3_Pts_C,Fabricio
+300,2,00:19,MOG,32,35,RD,Lessa
+301,2,00:22,BOT,32,35,3_Pts_T,Arthur
+302,2,00:26,BOT,32,35,RD,Mogi
+303,2,00:29,MOG,32,35,3_Pts_T,Lessa
+304,2,00:48,BOT,32,35,AS,Mogi
+305,2,00:48,BOT,32,35,2_Pts_C,Arthur
+306,2,01:07,BOT,30,35,RD,Du Sommer
+307,2,01:10,MOG,30,35,2_Pts_T,Alex
+308,2,01:30,MOG,30,35,substituicao_entra,Alex
+309,2,01:30,MOG,30,35,substituicao_sai,Paranhos
+310,2,01:30,MOG,30,35,tempo_tecnico,Mogi
+311,2,01:33,BOT,30,35,AS,Paulinho
+312,2,01:33,BOT,30,35,3_Pts_C,Arthur
+313,2,01:47,BOT,27,35,RD,Mogi
+314,2,01:47,MOG,27,35,LL_Pts_T,Paranhos
+315,2,01:47,MOG,27,35,LL_Pts_T,Paranhos
+316,2,01:47,BOT,27,35,substituicao_entra,Arthur
+317,2,01:47,BOT,27,35,substituicao_entra,Paulinho
+318,2,01:47,BOT,27,35,substituicao_sai,Diego
+319,2,01:47,BOT,27,35,substituicao_sai,Jamaal
+320,2,01:47,MOG,27,35,substituicao_entra,Lessa
+321,2,01:47,MOG,27,35,substituicao_sai,Lucas
+322,2,01:47,BOT,27,35,tempo_tecnico,Botafogo
+323,2,01:47,MOG,27,35,substituicao_entra,Siqueira
+324,2,01:47,MOG,27,35,substituicao_sai,Guga
+325,2,01:47,MOG,27,35,FR,Paranhos
+326,2,01:47,BOT,27,35,FC,Diego
+327,2,02:06,MOG,27,35,RD,Fabricio
+328,2,02:10,BOT,27,35,2_Pts_T,Jamaal
+329,2,02:30,MOG,27,35,AS,Lucas
+330,2,02:30,MOG,27,35,2_Pts_C,Paranhos
+331,2,02:48,BOT,27,33,AS,Jamaal
+332,2,02:48,BOT,27,33,3_Pts_C,Coelho
+333,2,03:07,MOG,24,33,2_Pts_C,Guga
+334,2,03:27,BOT,24,31,AS,Jamaal
+335,2,03:27,BOT,24,31,2_Pts_C,Du Sommer
+336,2,03:46,MOG,22,31,ER,Paranhos
+337,2,03:50,MOG,22,31,RD,Lucas
+338,2,03:53,BOT,22,31,3_Pts_T,Jamaal
+339,2,04:07,MOG,22,31,LL_Pts_C,Fabricio
+340,2,04:07,MOG,22,30,LL_Pts_C,Fabricio
+341,2,04:07,MOG,22,29,FR,Fabricio
+342,2,04:07,BOT,22,29,FC,Diego
+343,2,04:17,BOT,22,29,AS,Diego
+344,2,04:17,BOT,22,29,2_Pts_C,Mogi
+345,2,04:34,MOG,20,29,substituicao_entra,Guga
+346,2,04:34,MOG,20,29,substituicao_sai,Siqueira
+347,2,04:34,MOG,20,29,substituicao_entra,Lucas
+348,2,04:34,MOG,20,29,substituicao_sai,Lessa
+349,2,04:34,BOT,20,29,substituicao_entra,Du Sommer
+350,2,04:34,BOT,20,29,substituicao_entra,Diego
+351,2,04:34,BOT,20,29,substituicao_entra,Mogi
+352,2,04:34,BOT,20,29,substituicao_sai,Arthur
+353,2,04:34,BOT,20,29,substituicao_sai,Freddie
+354,2,04:34,BOT,20,29,substituicao_sai,Lucas
+355,2,04:34,BOT,20,29,FR,Jamaal
+356,2,04:34,MOG,20,29,FC,Lessa
+357,2,04:37,BOT,20,29,RD,Jamaal
+358,2,04:39,MOG,20,29,3_Pts_T,Fabricio
+359,2,04:49,MOG,20,29,BR,André Goes
+360,2,04:49,BOT,20,29,ER,Lucas
+361,2,05:01,BOT,20,29,RD,Freddie
+362,2,05:04,MOG,20,29,2_Pts_T,André Goes
+363,2,05:24,MOG,20,29,RD,Paranhos
+364,2,05:27,BOT,20,29,3_Pts_T,Jamaal
+365,2,05:49,MOG,20,29,AS,André Goes
+366,2,05:49,MOG,20,29,3_Pts_C,Siqueira
+367,2,06:11,MOG,20,26,tempo_tecnico,Mogi
+368,2,06:11,MOG,20,26,FR,Paranhos
+369,2,06:11,BOT,20,26,ER,Lucas
+370,2,06:11,BOT,20,26,FC_O,Lucas
+371,2,06:22,BOT,20,26,RD,Lucas
+372,2,06:25,MOG,20,26,2_Pts_T,Siqueira
+373,2,06:41,MOG,20,26,RD,Paranhos
+374,2,06:45,BOT,20,26,2_Pts_T,Freddie
+375,2,07:00,BOT,20,26,substituicao_entra,Lucas
+376,2,07:00,BOT,20,26,substituicao_sai,Wesley
+377,2,07:00,MOG,20,26,substituicao_entra,Paranhos
+378,2,07:00,MOG,20,26,substituicao_sai,Alex
+379,2,07:00,MOG,20,26,substituicao_entra,Lessa
+380,2,07:00,MOG,20,26,substituicao_sai,Lucas
+381,2,07:00,MOG,20,26,ER,Siqueira
+382,2,07:03,MOG,20,26,RD,Siqueira
+383,2,07:06,BOT,20,26,2_Pts_T,Freddie
+384,2,07:19,BOT,20,26,RD,Freddie
+385,2,07:22,MOG,20,26,2_Pts_T,André Goes
+386,2,07:29,MOG,20,26,substituicao_entra,André Goes
+387,2,07:29,MOG,20,26,substituicao_sai,Guga
+388,2,07:29,MOG,20,26,FR,Fabricio
+389,2,07:29,BOT,20,26,FC,Wesley
+390,2,07:43,BOT,20,26,AS,Freddie
+391,2,07:43,BOT,20,26,2_Pts_C,Arthur
+392,2,07:58,BOT,18,26,RD,Freddie
+393,2,08:01,MOG,18,26,3_Pts_T,Lucas
+394,2,08:18,MOG,18,26,RD,Lucas
+395,2,08:18,BOT,18,26,LL_Pts_T,Coelho
+396,2,08:18,BOT,18,26,LL_Pts_C,Coelho
+397,2,08:18,BOT,17,26,FR,Coelho
+398,2,08:18,MOG,17,26,FC,Guga
+399,2,08:18,BOT,17,26,RO,Coelho
+400,2,08:19,BOT,17,26,2_Pts_T,Arthur
+401,2,08:35,BOT,17,26,substituicao_entra,Wesley
+402,2,08:35,BOT,17,26,substituicao_sai,Diego
+403,2,08:36,MOG,17,26,LL_Pts_C,Siqueira
+404,2,08:36,MOG,17,25,FR,Siqueira
+405,2,08:36,BOT,17,25,FC,Arthur
+406,2,08:36,MOG,17,25,2_Pts_C,Siqueira
+407,2,08:49,MOG,17,23,RD,Mogi
+408,2,08:50,MOG,17,23,TO,Alex
+409,2,08:50,BOT,17,23,2_Pts_T,Diego
+410,2,09:13,BOT,17,23,FR,Jamaal
+411,2,09:13,MOG,17,23,ER,Alex
+412,2,09:13,MOG,17,23,FC_O,Alex
+413,2,09:18,BOT,17,23,substituicao_entra,Diego
+414,2,09:18,BOT,17,23,substituicao_sai,Du Sommer
+415,2,09:18,MOG,17,23,FR,Alex
+416,2,09:18,BOT,17,23,FC,Du Sommer
+417,2,09:18,MOG,17,23,RO,Alex
+418,2,09:19,MOG,17,23,3_Pts_T,Guga
+419,2,09:44,BOT,17,23,AS,Jamaal
+420,2,09:44,BOT,17,23,3_Pts_C,Arthur
+421,2,10:00,NaN,14,23,inicio_quarto,
+422,1,00:00,NaN,14,23,fim_quarto,
+423,1,00:03,BOT,14,23,2_Pts_C,Coelho
+424,1,00:30,MOG,12,23,AS,Guga
+425,1,00:30,MOG,12,23,3_Pts_C,Fabricio
+426,1,00:43,MOG,12,20,RD,Paranhos
+427,1,00:43,BOT,12,20,LL_Pts_T,Jamaal
+428,1,00:43,BOT,12,20,LL_Pts_T,Jamaal
+429,1,00:43,BOT,12,20,substituicao_entra,Coelho
+430,1,00:43,BOT,12,20,substituicao_sai,Du Sommer
+431,1,00:43,BOT,12,20,FR,Jamaal
+432,1,00:43,MOG,12,20,FC,Lessa
+433,1,00:51,MOG,12,20,2_Pts_C,Paranhos
+434,1,00:51,MOG,12,18,RO,Paranhos
+435,1,00:55,MOG,12,18,2_Pts_T,Lucas
+436,1,01:07,MOG,12,18,substituicao_entra,Lucas
+437,1,01:07,MOG,12,18,substituicao_sai,André Goes
+438,1,01:07,BOT,12,18,substituicao_entra,Arthur
+439,1,01:07,BOT,12,18,substituicao_sai,Diego
+440,1,01:24,BOT,12,18,AS,Jamaal
+441,1,01:24,BOT,12,18,2_Pts_C,Freddie
+442,1,01:30,BOT,10,18,RD,Du Sommer
+443,1,01:33,MOG,10,18,2_Pts_T,Lessa
+444,1,01:35,MOG,10,18,RD,André Goes
+445,1,01:37,BOT,10,18,3_Pts_T,Diego
+446,1,01:42,BOT,10,18,RD,Jamaal
+447,1,01:47,MOG,10,18,2_Pts_T,André Goes
+448,1,02:00,MOG,10,18,FR,Fabricio
+449,1,02:00,BOT,10,18,FC,Diego
+450,1,02:16,MOG,10,18,RD,Fabricio
+451,1,02:18,BOT,10,18,2_Pts_T,Freddie
+452,1,02:27,BOT,10,18,RO,Diego
+453,1,02:30,BOT,10,18,2_Pts_T,Freddie
+454,1,02:50,BOT,10,18,RD,Botafogo
+455,1,02:52,BOT,10,18,TO,Freddie
+456,1,02:52,MOG,10,18,2_Pts_T,Paranhos
+457,1,02:52,MOG,10,18,RO,Paranhos
+458,1,02:56,MOG,10,18,3_Pts_T,André Goes
+459,1,03:07,BOT,10,18,substituicao_entra,Paulinho
+460,1,03:07,BOT,10,18,substituicao_sai,Mogi
+461,1,03:09,MOG,10,18,FR,Paranhos
+462,1,03:09,BOT,10,18,FC,Freddie
+463,1,03:21,BOT,10,18,AS,Diego
+464,1,03:21,BOT,10,18,3_Pts_C,Freddie
+465,1,03:43,MOG,7,18,2_Pts_C,Paranhos
+466,1,04:01,BOT,7,16,ER,Freddie
+467,1,04:14,MOG,7,16,substituicao_entra,Guga
+468,1,04:14,MOG,7,16,substituicao_sai,Siqueira
+469,1,04:14,BOT,7,16,tempo_tecnico,Botafogo
+470,1,04:14,MOG,7,16,AS,André Goes
+471,1,04:14,MOG,7,16,3_Pts_C,Lessa
+472,1,04:23,MOG,7,13,BR,André Goes
+473,1,04:23,BOT,7,13,ER,Jamaal
+474,1,04:33,BOT,7,13,RD,Freddie
+475,1,04:36,MOG,7,13,2_Pts_T,Lessa
+476,1,04:45,BOT,7,13,substituicao_entra,Freddie
+477,1,04:45,BOT,7,13,substituicao_sai,Arthur
+478,1,04:45,MOG,7,13,FR,Paranhos
+479,1,04:45,BOT,7,13,FC,Du Sommer
+480,1,04:55,MOG,7,13,RD,Mogi
+481,1,04:56,BOT,7,13,3_Pts_T,Arthur
+482,1,05:12,MOG,7,13,substituicao_entra,Lessa
+483,1,05:12,MOG,7,13,substituicao_entra,Fabricio
+484,1,05:12,MOG,7,13,substituicao_sai,Gruber
+485,1,05:12,MOG,7,13,substituicao_sai,Lucas
+486,1,05:12,BOT,7,13,FR,Jamaal
+487,1,05:12,MOG,7,13,FC,Gruber
+488,1,05:30,BOT,7,13,substituicao_entra,
+489,1,05:30,BOT,7,13,substituicao_entra,Mogi
+490,1,05:30,BOT,7,13,substituicao_sai,Lucas
+491,1,05:30,BOT,7,13,substituicao_sai,Coelho
+492,1,05:30,MOG,7,13,AS,Siqueira
+493,1,05:30,MOG,7,13,2_Pts_C,André Goes
+494,1,05:44,MOG,7,11,BR,Paranhos
+495,1,05:44,BOT,7,11,ER,Coelho
+496,1,05:45,BOT,7,11,RO,Coelho
+497,1,05:48,BOT,7,11,3_Pts_T,Lucas
+498,1,06:01,MOG,7,11,AS,Siqueira
+499,1,06:01,MOG,7,11,2_Pts_C,Paranhos
+500,1,06:07,MOG,7,9,RD,André Goes
+501,1,06:09,BOT,7,9,3_Pts_T,Du Sommer
+502,1,06:22,MOG,7,9,AS,Siqueira
+503,1,06:22,MOG,7,9,2_Pts_C,Paranhos
+504,1,06:43,BOT,7,7,AS,Arthur
+505,1,06:43,BOT,7,7,2_Pts_C,Lucas
+506,1,06:52,MOG,5,7,ER,Lucas
+507,1,06:55,MOG,5,7,RD,André Goes
+508,1,06:57,BOT,5,7,3_Pts_T,Coelho
+509,1,07:15,MOG,5,7,ER,André Goes
+510,1,07:16,MOG,5,7,RD,André Goes
+511,1,07:19,BOT,5,7,2_Pts_T,Du Sommer
+512,1,07:19,BOT,5,7,RO,Du Sommer
+513,1,07:20,BOT,5,7,2_Pts_T,Lucas
+514,1,07:20,BOT,5,7,RO,Lucas
+515,1,07:24,BOT,5,7,3_Pts_T,Coelho
+516,1,07:29,BOT,5,7,FR,Du Sommer
+517,1,07:29,MOG,5,7,FC,Gruber
+518,1,07:47,MOG,5,7,AS,Siqueira
+519,1,07:47,MOG,5,7,3_Pts_C,Gruber
+520,1,08:05,BOT,5,4,AS,Coelho
+521,1,08:05,BOT,5,4,3_Pts_C,Jamaal
+522,1,08:16,BOT,2,4,FR,Lucas
+523,1,08:16,MOG,2,4,FC,Paranhos
+524,1,08:35,MOG,2,4,2_Pts_C,Siqueira
+525,1,08:38,MOG,2,2,BR,Siqueira
+526,1,08:38,BOT,2,2,ER,Lucas
+527,1,08:57,MOG,2,2,AS,André Goes
+528,1,08:57,MOG,2,2,2_Pts_C,Lucas
+529,1,09:12,BOT,2,0,AS,Coelho
+530,1,09:12,BOT,2,0,2_Pts_C,Arthur
+531,1,09:22,MOG,0,0,ER,Paranhos
+532,1,09:22,MOG,0,0,BR,Paranhos
+533,1,09:22,BOT,0,0,ER,Lucas
+534,1,09:23,BOT,0,0,RO,Du Sommer
+535,1,09:27,BOT,0,0,3_Pts_T,Coelho
+536,1,09:36,BOT,0,0,FR,Coelho
+537,1,09:36,MOG,0,0,FC,Siqueira
+538,1,09:44,MOG,0,0,ER,André Goes
+539,1,09:48,MOG,0,0,FR,Gruber
+540,1,09:48,BOT,0,0,FC,Coelho
+541,1,10:00,MOG,0,0,substituicao_entra,André Goes
+542,1,10:00,MOG,0,0,substituicao_entra,Paranhos
+543,1,10:00,MOG,0,0,substituicao_entra,Gruber
+544,1,10:00,MOG,0,0,substituicao_entra,Siqueira
+545,1,10:00,MOG,0,0,substituicao_entra,Lucas
+546,1,10:00,BOT,0,0,substituicao_entra,Arthur
+547,1,10:00,BOT,0,0,substituicao_entra,Lucas
+548,1,10:00,BOT,0,0,substituicao_entra,Du Sommer
+549,1,10:00,BOT,0,0,substituicao_entra,Coelho
+550,1,10:00,BOT,0,0,substituicao_entra,Jamaal
+551,1,10:00,NaN,0,0,inicio_partida,

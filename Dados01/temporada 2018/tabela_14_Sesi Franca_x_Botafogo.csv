@@ -1,0 +1,472 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,74,77,fim_partida,
+1,4,00:00,NaN,74,77,fim_quarto, 
+2,4,00:04,BOT,74,77,substituicao_entra,Jamaal
+3,4,00:04,BOT,74,77,substituicao_sai,Fabrício
+4,4,00:04,BOT,74,77,RD,Botafogo
+5,4,00:04,FRA,74,77,3_Pts_T,Lucas Dias
+6,4,00:05,BOT,74,77,substituicao_entra,Fabrício
+7,4,00:05,BOT,74,77,substituicao_sai,Jamaal
+8,4,00:05,FRA,74,77,tempo_tecnico,Franca
+9,4,00:05,BOT,74,77,LL_Pts_C,Murilo
+10,4,00:05,BOT,74,76,LL_Pts_C,Murilo
+11,4,00:05,FRA,74,75,substituicao_entra,Lucas Dias
+12,4,00:05,FRA,74,75,substituicao_sai,Didi
+13,4,00:05,BOT,74,75,FR,Murilo
+14,4,00:05,FRA,74,75,FC,Jimmy
+15,4,00:06,FRA,74,75,substituicao_entra,Didi
+16,4,00:06,FRA,74,75,substituicao_sai,Lucas Dias
+17,4,00:06,BOT,74,75,tempo_tecnico,Botafogo
+18,4,00:06,BOT,74,75,RD,Arthur
+19,4,00:11,FRA,74,75,3_Pts_T,David Jackson
+20,4,00:19,FRA,74,75,RD,André Goes
+21,4,00:22,BOT,74,75,2_Pts_T,Mogi
+22,4,00:35,FRA,74,75,LL_Pts_C,Lucas Dias
+23,4,00:35,FRA,73,75,LL_Pts_C,Lucas Dias
+24,4,00:35,FRA,72,75,FR,Lucas Dias
+25,4,00:35,BOT,72,75,FC,Cauê
+26,4,00:50,BOT,72,75,AS,Jamaal
+27,4,00:50,BOT,72,75,3_Pts_C,Mogi
+28,4,00:58,FRA,72,72,3_Pts_C,David Jackson
+29,4,01:11,BOT,69,72,2_Pts_C,Cauê
+30,4,01:25,FRA,69,70,2_Pts_C,Jimmy
+31,4,01:26,FRA,67,70,RO,Jimmy
+32,4,01:29,FRA,67,70,2_Pts_T,André Goes
+33,4,01:55,BOT,67,70,LL_Pts_C,Jamaal
+34,4,01:55,BOT,67,69,FR,Jamaal
+35,4,01:55,FRA,67,69,FC,Jimmy
+36,4,01:55,BOT,67,69,2_Pts_C,Jamaal
+37,4,02:10,FRA,67,67,AS,Elinho
+38,4,02:10,FRA,67,67,3_Pts_C,David Jackson
+39,4,02:31,BOT,64,67,AS,Cauê
+40,4,02:31,BOT,64,67,EN,Murilo
+41,4,02:33,BOT,64,65,RD,Cauê
+42,4,02:36,FRA,64,65,3_Pts_T,David Jackson
+43,4,02:43,FRA,64,65,RD,David Jackson
+44,4,02:46,BOT,64,65,3_Pts_T,Arthur
+45,4,03:09,FRA,64,65,LL_Pts_C,David Jackson
+46,4,03:09,FRA,63,65,LL_Pts_C,David Jackson
+47,4,03:09,FRA,62,65,FR,David Jackson
+48,4,03:09,BOT,62,65,FC,Murilo
+49,4,03:27,FRA,62,65,substituicao_entra,Lucas Dias
+50,4,03:27,FRA,62,65,substituicao_sai,Cipolini
+51,4,03:27,FRA,62,65,tempo_tecnico,Franca
+52,4,03:27,BOT,62,65,2_Pts_C,Cauê
+53,4,03:34,BOT,62,63,RD,Murilo
+54,4,03:37,FRA,62,63,3_Pts_T,Cipolini
+55,4,03:50,FRA,62,63,FR,André Goes
+56,4,03:50,BOT,62,63,FC,Jamaal
+57,4,04:12,BOT,62,63,3_Pts_C,Cauê
+58,4,04:25,BOT,62,60,FR,Murilo
+59,4,04:25,FRA,62,60,FC,Cipolini
+60,4,04:42,FRA,62,60,AS,Cipolini
+61,4,04:42,FRA,62,60,3_Pts_C,André Goes
+62,4,04:51,FRA,59,60,FR,Cipolini
+63,4,04:51,BOT,59,60,FC,Murilo
+64,4,05:05,BOT,59,60,substituicao_entra,Mogi
+65,4,05:05,BOT,59,60,substituicao_sai,Ansaloni
+66,4,05:05,FRA,59,60,FR,David Jackson
+67,4,05:05,BOT,59,60,FC,Murilo
+68,4,05:18,FRA,59,60,RD,Jimmy
+69,4,05:20,BOT,59,60,2_Pts_T,Ansaloni
+70,4,05:35,BOT,59,60,RD,Arthur
+71,4,05:39,FRA,59,60,2_Pts_T,Elinho
+72,4,05:44,BOT,59,60,ER,Arthur
+73,4,05:57,BOT,59,60,RD,Arthur
+74,4,06:05,FRA,59,60,2_Pts_T,André Goes
+75,4,06:06,BOT,59,60,2_Pts_C,Jamaal
+76,4,06:06,BOT,59,58,BR,Murilo
+77,4,06:06,FRA,59,58,ER,Cipolini
+78,4,06:20,FRA,59,58,RD,André Goes
+79,4,06:24,BOT,59,58,2_Pts_T,Arthur
+80,4,06:30,BOT,59,58,BR,Jamaal
+81,4,06:30,FRA,59,58,ER,Cipolini
+82,4,06:36,FRA,59,58,BR,Jimmy
+83,4,06:36,BOT,59,58,ER,Murilo
+84,4,06:47,BOT,59,58,tempo_tecnico,Botafogo
+85,4,06:48,FRA,59,58,2_Pts_C,David Jackson
+86,4,06:55,FRA,57,58,RD,David Jackson
+87,4,06:57,BOT,57,58,3_Pts_T,Murilo
+88,4,07:02,BOT,57,58,FR,Murilo
+89,4,07:02,FRA,57,58,FC,André Goes
+90,4,07:20,FRA,57,58,2_Pts_C,Elinho
+91,4,07:32,FRA,55,58,RO,Jimmy
+92,4,07:35,FRA,55,58,3_Pts_T,David Jackson
+93,4,07:47,FRA,55,58,substituicao_entra,David Jackson
+94,4,07:47,FRA,55,58,substituicao_sai,Didi
+95,4,07:47,BOT,55,58,ER,Ansaloni
+96,4,08:01,BOT,55,58,BR,Jamaal
+97,4,08:01,FRA,55,58,ER,Didi
+98,4,08:11,FRA,55,58,RD,André Goes
+99,4,08:16,BOT,55,58,2_Pts_T,Arthur
+100,4,08:36,FRA,55,58,AS,Cipolini
+101,4,08:36,FRA,55,58,2_Pts_C,Jimmy
+102,4,08:51,BOT,53,58,substituicao_entra,Murilo
+103,4,08:51,BOT,53,58,substituicao_sai,Maique
+104,4,08:51,BOT,53,58,substituicao_entra,Jamaal
+105,4,08:51,BOT,53,58,substituicao_sai,Guga
+106,4,08:58,FRA,53,58,RD,Franca
+107,4,09:00,BOT,53,58,3_Pts_T,Cauê
+108,4,09:16,FRA,53,58,substituicao_entra,Cipolini
+109,4,09:16,FRA,53,58,substituicao_sai,Lucas Dias
+110,4,09:16,BOT,53,58,FR,Cauê
+111,4,09:16,FRA,53,58,FC,Lucas Dias
+112,4,09:35,BOT,53,58,RD,Ansaloni
+113,4,09:38,FRA,53,58,3_Pts_T,Lucas Dias
+114,4,09:43,FRA,53,58,RO,Franca
+115,4,09:43,FRA,53,58,3_Pts_T,Jimmy
+116,4,09:52,FRA,53,58,FR,André Goes
+117,4,09:52,BOT,53,58,FC,Maique
+118,4,10:00,NaN,53,58,inicio_quarto,
+119,3,00:00,NaN,53,58,fim_quarto,
+120,3,00:00,FRA,53,58,RO,Jimmy
+121,3,00:00,FRA,53,58,3_Pts_T,André Goes
+122,3,00:05,FRA,53,58,BR,Guilherme
+123,3,00:05,BOT,53,58,ER,Mogi
+124,3,00:08,BOT,53,58,substituicao_entra,Fabrício
+125,3,00:08,BOT,53,58,substituicao_sai,Maique
+126,3,00:08,FRA,53,58,substituicao_entra,Guilherme
+127,3,00:08,FRA,53,58,substituicao_sai,David Jackson
+128,3,00:08,FRA,53,58,substituicao_entra,Didi
+129,3,00:08,FRA,53,58,substituicao_sai,Lucas Dias
+130,3,00:08,BOT,53,58,FR,Cauê
+131,3,00:08,FRA,53,58,FC,David Jackson
+132,3,00:21,BOT,53,58,RD,Ansaloni
+133,3,00:23,FRA,53,58,3_Pts_T,Jimmy
+134,3,00:40,BOT,53,58,substituicao_entra,Mogi
+135,3,00:40,BOT,53,58,substituicao_sai,Murilo
+136,3,00:40,BOT,53,58,substituicao_entra,Guga
+137,3,00:40,BOT,53,58,substituicao_sai,Jamaal
+138,3,00:40,BOT,53,58,substituicao_entra,Maique
+139,3,00:40,BOT,53,58,substituicao_sai,Arthur
+140,3,00:40,FRA,53,58,RO,Franca
+141,3,00:42,FRA,53,58,2_Pts_T,André Goes
+142,3,01:07,BOT,53,58,2_Pts_C,Ansaloni
+143,3,01:15,FRA,53,56,AS,André Goes
+144,3,01:15,FRA,53,56,3_Pts_C,David Jackson
+145,3,01:30,BOT,50,56,2_Pts_C,Jamaal
+146,3,01:39,BOT,50,54,RD,Ansaloni
+147,3,01:42,FRA,50,54,3_Pts_T,David Jackson
+148,3,01:55,BOT,50,54,AS,Cauê
+149,3,01:55,BOT,50,54,2_Pts_C,Jamaal
+150,3,02:14,FRA,50,52,2_Pts_C,André Goes
+151,3,02:31,BOT,48,52,2_Pts_C,Ansaloni
+152,3,02:47,BOT,48,50,RD,Arthur
+153,3,02:50,FRA,48,50,3_Pts_T,André Goes
+154,3,03:05,FRA,48,50,RD,André Goes
+155,3,03:08,BOT,48,50,3_Pts_T,Jamaal
+156,3,03:20,BOT,48,50,FR,Jamaal
+157,3,03:20,FRA,48,50,FC,Lucas Dias
+158,3,03:20,BOT,48,50,RD,Murilo
+159,3,03:20,BOT,48,50,TO,Arthur
+160,3,03:20,FRA,48,50,2_Pts_T,David Jackson
+161,3,03:31,BOT,48,50,ER,
+162,3,03:49,BOT,48,50,substituicao_entra,Ansaloni
+163,3,03:49,BOT,48,50,substituicao_sai,Guga
+164,3,03:58,FRA,48,50,AS,David Jackson
+165,3,03:58,FRA,48,50,2_Pts_C,Jimmy
+166,3,04:02,FRA,46,50,BR,Elinho
+167,3,04:02,BOT,46,50,ER,Murilo
+168,3,04:24,FRA,46,50,LL_Pts_C,David Jackson
+169,3,04:24,FRA,45,50,LL_Pts_T,David Jackson
+170,3,04:24,FRA,45,50,FR,David Jackson
+171,3,04:24,BOT,45,50,FC,Cauê
+172,3,04:33,BOT,45,50,2_Pts_C,Cauê
+173,3,04:51,FRA,45,48,substituicao_entra,André Goes
+174,3,04:51,FRA,45,48,substituicao_sai,Cipolini
+175,3,04:51,BOT,45,48,substituicao_entra,Guga
+176,3,04:51,BOT,45,48,substituicao_sai,Mogi
+177,3,04:51,BOT,45,48,FR,Cauê
+178,3,04:51,FRA,45,48,FC,Cipolini
+179,3,05:13,FRA,45,48,AS,Elinho
+180,3,05:13,FRA,45,48,3_Pts_C,Lucas Dias
+181,3,05:21,FRA,42,48,BR,Cipolini
+182,3,05:21,BOT,42,48,ER,Arthur
+183,3,05:42,BOT,42,48,substituicao_entra,Murilo
+184,3,05:42,BOT,42,48,substituicao_sai,Ansaloni
+185,3,05:42,FRA,42,48,LL_Pts_C,Cipolini
+186,3,05:42,FRA,41,48,LL_Pts_C,Cipolini
+187,3,05:42,FRA,40,48,FR,Cipolini
+188,3,05:42,BOT,40,48,FC,Cauê
+189,3,05:42,FRA,40,48,RO,Cipolini
+190,3,05:42,FRA,40,48,3_Pts_T,Jimmy
+191,3,06:03,BOT,40,48,3_Pts_C,Cauê
+192,3,06:18,BOT,40,45,FR,Ansaloni
+193,3,06:18,FRA,40,45,FC,Elinho
+194,3,06:22,BOT,40,45,RO,Ansaloni
+195,3,06:25,BOT,40,45,2_Pts_T,Arthur
+196,3,06:51,BOT,40,45,tempo_tecnico,Botafogo
+197,3,06:51,FRA,40,45,AS,Elinho
+198,3,06:51,FRA,40,45,3_Pts_C,David Jackson
+199,3,07:00,FRA,37,45,BR,David Jackson
+200,3,07:00,BOT,37,45,ER,Cauê
+201,3,07:18,FRA,37,45,2_Pts_C,Cipolini
+202,3,07:30,BOT,35,45,AS,Ansaloni
+203,3,07:30,BOT,35,45,2_Pts_C,Mogi
+204,3,07:33,BOT,35,43,RD,Ansaloni
+205,3,07:37,FRA,35,43,2_Pts_T,Jimmy
+206,3,07:50,BOT,35,43,2_Pts_C,Ansaloni
+207,3,08:08,FRA,35,41,AS,Elinho
+208,3,08:08,FRA,35,41,3_Pts_C,Jimmy
+209,3,08:25,BOT,32,41,AS,Arthur
+210,3,08:25,BOT,32,41,EN,Mogi
+211,3,08:31,FRA,32,39,LL_Pts_C,Jimmy
+212,3,08:31,FRA,31,39,LL_Pts_C,Jimmy
+213,3,08:31,FRA,30,39,FR,Jimmy
+214,3,08:31,BOT,30,39,FC,Ansaloni
+215,3,08:32,FRA,30,39,RO,Jimmy
+216,3,08:35,FRA,30,39,3_Pts_T,Elinho
+217,3,08:45,FRA,30,39,RO,Jimmy
+218,3,08:48,FRA,30,39,3_Pts_T,Elinho
+219,3,08:55,FRA,30,39,RD,Jimmy
+220,3,08:57,BOT,30,39,3_Pts_T,Arthur
+221,3,09:23,FRA,30,39,ER,Elinho
+222,3,09:36,BOT,30,39,2_Pts_C,Arthur
+223,3,09:43,BOT,30,37,RO,Arthur
+224,3,09:46,BOT,30,37,2_Pts_T,Arthur
+225,3,09:53,BOT,30,37,substituicao_entra,Mogi
+226,3,09:53,BOT,30,37,substituicao_sai,Murilo
+227,3,09:53,FRA,30,37,substituicao_entra,Lucas Dias
+228,3,09:53,FRA,30,37,substituicao_sai,André Goes
+229,3,09:53,FRA,30,37,substituicao_entra,Jimmy
+230,3,09:53,FRA,30,37,substituicao_sai,Guilherme
+231,3,10:00,NaN,30,37,inicio_quarto,
+232,2,00:00,NaN,30,37,fim_quarto,
+233,2,00:02,FRA,30,37,RD,Cipolini
+234,2,00:02,BOT,30,37,2_Pts_T,Cauê
+235,2,00:08,BOT,30,37,RD,Murilo
+236,2,00:12,FRA,30,37,2_Pts_T,David Jackson
+237,2,00:14,FRA,30,37,RO,David Jackson
+238,2,00:23,BOT,30,37,TO,Arthur
+239,2,00:23,FRA,30,37,2_Pts_T,Guilherme
+240,2,00:31,BOT,30,37,LL_Pts_C,Ansaloni
+241,2,00:31,BOT,30,36,AS,Cauê
+242,2,00:31,BOT,30,36,LL_Pts_C,Ansaloni
+243,2,00:31,BOT,30,35,FR,Ansaloni
+244,2,00:31,FRA,30,35,FC,Cipolini
+245,2,00:53,FRA,30,35,AS,David Jackson
+246,2,00:53,FRA,30,35,3_Pts_C,André Goes
+247,2,01:07,BOT,27,35,ER,Jamaal
+248,2,01:15,FRA,27,35,LL_Pts_C,André Goes
+249,2,01:15,FRA,26,35,LL_Pts_T,André Goes
+250,2,01:15,FRA,26,35,substituicao_entra,Guilherme
+251,2,01:15,FRA,26,35,substituicao_sai,Lucas Dias
+252,2,01:15,FRA,26,35,FR,André Goes
+253,2,01:15,BOT,26,35,FC,Ansaloni
+254,2,01:35,BOT,26,35,AS,Cauê
+255,2,01:35,BOT,26,35,3_Pts_C,Ansaloni
+256,2,01:43,BOT,26,32,BR,Cauê
+257,2,01:43,FRA,26,32,ER,Lucas Dias
+258,2,01:50,BOT,26,32,ER,
+259,2,02:03,BOT,26,32,RO,Arthur
+260,2,02:05,BOT,26,32,LL_Pts_T,Ansaloni
+261,2,02:05,BOT,26,32,LL_Pts_T,Ansaloni
+262,2,02:05,BOT,26,32,FR,Ansaloni
+263,2,02:05,FRA,26,32,FC,Lucas Dias
+264,2,02:13,BOT,26,32,RD,Jamaal
+265,2,02:17,FRA,26,32,3_Pts_T,Lucas Dias
+266,2,02:24,FRA,26,32,RD,André Goes
+267,2,02:27,BOT,26,32,2_Pts_T,Arthur
+268,2,02:53,FRA,26,32,AS,Cipolini
+269,2,02:53,FRA,26,32,2_Pts_C,Lucas Dias
+270,2,03:11,FRA,24,32,tempo_tecnico,Franca
+271,2,03:11,BOT,24,32,2_Pts_C,Cauê
+272,2,03:16,BOT,24,30,BR,Cauê
+273,2,03:16,FRA,24,30,ER,Elinho
+274,2,03:24,FRA,24,30,substituicao_entra,André Goes
+275,2,03:24,FRA,24,30,substituicao_sai,Didi
+276,2,03:24,FRA,24,30,FR,Cipolini
+277,2,03:24,BOT,24,30,FC,Murilo
+278,2,03:32,BOT,24,30,AS,Jamaal
+279,2,03:32,BOT,24,30,2_Pts_C,Ansaloni
+280,2,03:45,BOT,24,28,RD,Ansaloni
+281,2,03:47,FRA,24,28,3_Pts_T,Didi
+282,2,04:02,BOT,24,28,LL_Pts_C,Arthur
+283,2,04:02,BOT,24,27,LL_Pts_C,Arthur
+284,2,04:02,BOT,24,26,substituicao_entra,Cauê
+285,2,04:02,BOT,24,26,substituicao_sai,Guga
+286,2,04:02,FRA,24,26,substituicao_entra,David Jackson
+287,2,04:02,FRA,24,26,substituicao_sai,Jimmy
+288,2,04:02,BOT,24,26,FR,Arthur
+289,2,04:02,FRA,24,26,FC,Jimmy
+290,2,04:18,BOT,24,26,RD,Murilo
+291,2,04:21,FRA,24,26,2_Pts_T,Didi
+292,2,04:37,FRA,24,26,FR,Cipolini
+293,2,04:37,BOT,24,26,FC,Guga
+294,2,04:37,FRA,24,26,RO,Franca
+295,2,04:37,FRA,24,26,3_Pts_T,Didi
+296,2,04:56,FRA,24,26,BR,Jimmy
+297,2,04:56,BOT,24,26,ER,Murilo
+298,2,05:16,FRA,24,26,AS,Lucas Dias
+299,2,05:16,FRA,24,26,3_Pts_C,Jimmy
+300,2,05:22,FRA,21,26,RO,Didi
+301,2,05:25,FRA,21,26,3_Pts_T,Lucas Dias
+302,2,05:40,BOT,21,26,LL_Pts_C,Ansaloni
+303,2,05:40,BOT,21,25,AS,Guga
+304,2,05:40,BOT,21,25,LL_Pts_C,Ansaloni
+305,2,05:40,FRA,21,24,substituicao_entra,Lucas Dias
+306,2,05:40,FRA,21,24,substituicao_sai,André Goes
+307,2,05:40,BOT,21,24,FR,Ansaloni
+308,2,05:40,FRA,21,24,FC,Jimmy
+309,2,05:42,BOT,21,24,substituicao_entra,Arthur
+310,2,05:42,BOT,21,24,substituicao_sai,Mogi
+311,2,05:42,BOT,21,24,substituicao_entra,Jamaal
+312,2,05:42,BOT,21,24,substituicao_sai,Cauê
+313,2,05:42,BOT,21,24,substituicao_entra,Ansaloni
+314,2,05:42,BOT,21,24,substituicao_sai,Maique
+315,2,05:59,FRA,21,24,AS,Elinho
+316,2,05:59,FRA,21,24,2_Pts_C,Jimmy
+317,2,06:14,BOT,19,24,ER,Cauê
+318,2,06:28,BOT,19,24,RD,Mogi
+319,2,06:31,FRA,19,24,3_Pts_T,André Goes
+320,2,06:52,FRA,19,24,substituicao_entra,Cipolini
+321,2,06:52,FRA,19,24,substituicao_sai,Lucas Dias
+322,2,06:52,FRA,19,24,substituicao_entra,Elinho
+323,2,06:52,FRA,19,24,substituicao_sai,Alexey
+324,2,06:52,FRA,19,24,tempo_tecnico,Franca
+325,2,06:53,BOT,19,24,2_Pts_C,Cauê
+326,2,06:58,BOT,19,22,RD,Murilo
+327,2,07:00,FRA,19,22,3_Pts_T,Didi
+328,2,07:15,FRA,19,22,FR,André Goes
+329,2,07:15,BOT,19,22,FC,Maique
+330,2,07:15,FRA,19,22,RD,Franca
+331,2,07:15,BOT,19,22,2_Pts_T,Mogi
+332,2,07:26,BOT,19,22,FR,Maique
+333,2,07:26,FRA,19,22,FC,Didi
+334,2,07:41,BOT,19,22,BR,Maique
+335,2,07:41,FRA,19,22,ER,Alexey
+336,2,07:53,FRA,19,22,substituicao_entra,Jimmy
+337,2,07:53,FRA,19,22,substituicao_sai,David Jackson
+338,2,07:53,BOT,19,22,LL_Pts_C,Cauê
+339,2,07:53,BOT,19,21,LL_Pts_T,Cauê
+340,2,07:53,BOT,19,21,FR,Cauê
+341,2,07:53,FRA,19,21,FC,David Jackson
+342,2,07:57,BOT,19,21,RD,Cauê
+343,2,08:00,FRA,19,21,3_Pts_T,André Goes
+344,2,08:21,BOT,19,21,AS,Guga
+345,2,08:21,BOT,19,21,EN,Maique
+346,2,08:29,BOT,19,19,FR,Cauê
+347,2,08:29,FRA,19,19,FC,Lucas Dias
+348,2,08:34,BOT,19,19,RD,Mogi
+349,2,08:37,FRA,19,19,3_Pts_T,David Jackson
+350,2,08:47,FRA,19,19,RD,Lucas Dias
+351,2,08:49,BOT,19,19,2_Pts_T,Murilo
+352,2,08:58,BOT,19,19,substituicao_entra,Mogi
+353,2,08:58,BOT,19,19,substituicao_sai,Fabrício
+354,2,08:59,BOT,19,19,RO,Botafogo
+355,2,09:02,BOT,19,19,2_Pts_T,Fabrício
+356,2,09:04,BOT,19,19,RD,Murilo
+357,2,09:08,FRA,19,19,3_Pts_T,David Jackson
+358,2,09:24,BOT,19,19,AS,Guga
+359,2,09:24,BOT,19,19,3_Pts_C,Murilo
+360,2,09:49,FRA,19,16,2_Pts_C,David Jackson
+361,2,10:00,NaN,17,16,inicio_quarto,
+362,1,00:00,NaN,17,16,fim_quarto,
+363,1,00:01,FRA,17,16,AS,André Goes
+364,1,00:01,FRA,17,16,3_Pts_C,David Jackson
+365,1,00:02,FRA,14,16,RO,Lucas Dias
+366,1,00:06,FRA,14,16,3_Pts_T,Alexey
+367,1,00:29,BOT,14,16,LL_Pts_C,Maique
+368,1,00:29,BOT,14,15,FR,Maique
+369,1,00:29,FRA,14,15,FC,André Goes
+370,1,00:29,BOT,14,15,AS,Guga
+371,1,00:29,BOT,14,15,2_Pts_C,Maique
+372,1,00:41,FRA,14,13,2_Pts_C,André Goes
+373,1,00:55,BOT,12,13,2_Pts_C,Guga
+374,1,01:11,BOT,12,11,substituicao_entra,Fabrício
+375,1,01:11,BOT,12,11,substituicao_sai,Mogi
+376,1,01:28,FRA,12,11,LL_Pts_C,Alexey
+377,1,01:28,FRA,11,11,LL_Pts_T,Alexey
+378,1,01:28,FRA,11,11,FR,Alexey
+379,1,01:28,BOT,11,11,FC,Guga
+380,1,01:41,FRA,11,11,RD,André Goes
+381,1,01:45,BOT,11,11,2_Pts_T,Maique
+382,1,02:04,FRA,11,11,AS,André Goes
+383,1,02:04,FRA,11,11,3_Pts_C,Alexey
+384,1,02:14,BOT,8,11,substituicao_entra,Maique
+385,1,02:14,BOT,8,11,substituicao_sai,Ansaloni
+386,1,02:14,FRA,8,11,substituicao_entra,André Goes
+387,1,02:14,FRA,8,11,substituicao_sai,Cipolini
+388,1,02:14,FRA,8,11,RO,Franca
+389,1,02:15,FRA,8,11,3_Pts_T,Lucas Dias
+390,1,02:22,FRA,8,11,RD,David Jackson
+391,1,02:26,BOT,8,11,2_Pts_T,Ansaloni
+392,1,02:39,FRA,8,11,2_Pts_C,Lucas Dias
+393,1,02:51,BOT,6,11,substituicao_entra,Guga
+394,1,02:51,BOT,6,11,substituicao_sai,Jamaal
+395,1,02:51,FRA,6,11,substituicao_entra,Alexey
+396,1,02:51,FRA,6,11,substituicao_sai,Elinho
+397,1,02:51,FRA,6,11,substituicao_entra,Didi
+398,1,02:51,FRA,6,11,substituicao_sai,Jimmy
+399,1,02:51,FRA,6,11,FR,Lucas Dias
+400,1,02:51,BOT,6,11,FC,Jamaal
+401,1,02:57,BOT,6,11,AS,Mogi
+402,1,02:57,BOT,6,11,2_Pts_C,Murilo
+403,1,03:19,FRA,6,9,2_Pts_C,Elinho
+404,1,03:34,BOT,4,9,AS,Jamaal
+405,1,03:34,BOT,4,9,2_Pts_C,Ansaloni
+406,1,03:45,BOT,4,7,RD,Murilo
+407,1,03:48,FRA,4,7,2_Pts_T,Cipolini
+408,1,04:01,BOT,4,7,3_Pts_C,Jamaal
+409,1,04:20,FRA,4,4,ER,David Jackson
+410,1,04:22,FRA,4,4,RD,David Jackson
+411,1,04:25,BOT,4,4,3_Pts_T,Mogi
+412,1,04:30,BOT,4,4,RD,Ansaloni
+413,1,04:33,FRA,4,4,3_Pts_T,Lucas Dias
+414,1,04:46,BOT,4,4,substituicao_entra,Murilo
+415,1,04:46,BOT,4,4,substituicao_sai,Arthur
+416,1,04:46,FRA,4,4,FR,Lucas Dias
+417,1,04:46,BOT,4,4,FC,Arthur
+418,1,04:57,BOT,4,4,ER,Cauê
+419,1,05:13,BOT,4,4,FR,Cauê
+420,1,05:13,FRA,4,4,ER,Cipolini
+421,1,05:13,FRA,4,4,FC_O,Cipolini
+422,1,05:26,BOT,4,4,2_Pts_C,Arthur
+423,1,05:42,FRA,4,2,2_Pts_C,Cipolini
+424,1,05:59,FRA,2,2,FR,Lucas Dias
+425,1,05:59,BOT,2,2,ER,Arthur
+426,1,05:59,BOT,2,2,FC_O,Arthur
+427,1,06:07,FRA,2,2,AS,David Jackson
+428,1,06:07,FRA,2,2,2_Pts_C,Lucas Dias
+429,1,06:14,FRA,0,2,FR,Lucas Dias
+430,1,06:14,BOT,0,2,FC,Jamaal
+431,1,06:24,BOT,0,2,2_Pts_C,Jamaal
+432,1,06:42,BOT,0,0,RD,Mogi
+433,1,06:44,FRA,0,0,2_Pts_T,David Jackson
+434,1,06:54,FRA,0,0,RO,Jimmy
+435,1,06:58,FRA,0,0,2_Pts_T,David Jackson
+436,1,07:06,FRA,0,0,BR,David Jackson
+437,1,07:06,BOT,0,0,ER,Ansaloni
+438,1,07:22,BOT,0,0,RD,Mogi
+439,1,07:25,FRA,0,0,3_Pts_T,Cipolini
+440,1,07:47,FRA,0,0,RD,Franca
+441,1,07:47,BOT,0,0,2_Pts_T,Cauê
+442,1,07:57,BOT,0,0,RD,Mogi
+443,1,08:01,FRA,0,0,3_Pts_T,Lucas Dias
+444,1,08:04,FRA,0,0,RD,Cipolini
+445,1,08:12,FRA,0,0,TO,Lucas Dias
+446,1,08:12,BOT,0,0,2_Pts_T,Ansaloni
+447,1,08:23,BOT,0,0,BR,Mogi
+448,1,08:23,FRA,0,0,ER,Elinho
+449,1,08:40,FRA,0,0,RD,Franca
+450,1,08:40,FRA,0,0,TO,Elinho
+451,1,08:40,BOT,0,0,2_Pts_T,Ansaloni
+452,1,08:46,BOT,0,0,BR,Ansaloni
+453,1,08:46,FRA,0,0,ER,Cipolini
+454,1,08:56,FRA,0,0,RD,Cipolini
+455,1,08:58,BOT,0,0,3_Pts_T,Jamaal
+456,1,09:17,BOT,0,0,RD,Ansaloni
+457,1,09:20,FRA,0,0,3_Pts_T,Jimmy
+458,1,09:42,FRA,0,0,RD,Cipolini
+459,1,09:45,BOT,0,0,3_Pts_T,Mogi
+460,1,10:00,BOT,0,0,substituicao_entra,Arthur
+461,1,10:00,BOT,0,0,substituicao_entra,Ansaloni
+462,1,10:00,BOT,0,0,substituicao_entra,Mogi
+463,1,10:00,BOT,0,0,substituicao_entra,Jamaal
+464,1,10:00,BOT,0,0,substituicao_entra,Cauê
+465,1,10:00,FRA,0,0,substituicao_entra,David Jackson
+466,1,10:00,FRA,0,0,substituicao_entra,Jimmy
+467,1,10:00,FRA,0,0,substituicao_entra,Cipolini
+468,1,10:00,FRA,0,0,substituicao_entra,Lucas Dias
+469,1,10:00,FRA,0,0,substituicao_entra,Elinho
+470,1,10:00,NaN,0,0,inicio_partida,

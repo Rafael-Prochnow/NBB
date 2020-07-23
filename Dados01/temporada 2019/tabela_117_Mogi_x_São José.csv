@@ -1,0 +1,563 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,85,78,fim_partida,
+1,4,00:00,NaN,85,78,fim_quarto, 
+2,4,00:02,MOG,85,78,3_Pts_T,Lucas
+3,4,00:02,SJO,85,78,AS,Ambrosino
+4,4,00:02,SJO,85,78,2_Pts_C,Morillo
+5,4,00:04,MOG,85,76,LL_Pts_C,Lucas
+6,4,00:04,MOG,84,76,LL_Pts_C,Lucas
+7,4,00:04,MOG,83,76,FR,Lucas
+8,4,00:04,SJO,83,76,FC,Ambrosino
+9,4,00:07,SJO,83,76,AS,Mariani
+10,4,00:07,SJO,83,76,2_Pts_C,Figueredo
+11,4,00:12,SJO,83,74,RD,Mariani
+12,4,00:12,MOG,83,74,LL_Pts_T,Guga
+13,4,00:12,MOG,83,74,LL_Pts_T,Guga
+14,4,00:12,MOG,83,74,FR,Guga
+15,4,00:12,SJO,83,74,FC,Figueredo
+16,4,00:13,MOG,83,74,LL_Pts_C,André Goes
+17,4,00:13,MOG,82,74,LL_Pts_C,André Goes
+18,4,00:13,SJO,81,74,substituicao_entra,Figueredo
+19,4,00:13,SJO,81,74,substituicao_sai,Eugeniusz
+20,4,00:13,MOG,81,74,FR,André Goes
+21,4,00:13,SJO,81,74,FC_A,Eugeniusz
+22,4,00:13,SJO,81,74,2_Pts_C,Morillo
+23,4,00:18,MOG,81,72,AS,André Goes
+24,4,00:18,MOG,81,72,3_Pts_C,Fabricio
+25,4,00:21,SJO,78,72,substituicao_entra,Eugeniusz
+26,4,00:21,SJO,78,72,substituicao_sai,Figueredo
+27,4,00:21,MOG,78,72,substituicao_entra,Guga
+28,4,00:21,MOG,78,72,substituicao_sai,Siqueira
+29,4,00:44,SJO,78,72,AS,Figueredo
+30,4,00:44,SJO,78,72,3_Pts_C,Ambrosino
+31,4,00:46,SJO,78,69,RD,L  Eltink
+32,4,00:52,MOG,78,69,3_Pts_T,Gruber
+33,4,01:10,MOG,78,69,RD,Lucas
+34,4,01:15,SJO,78,69,2_Pts_T,Morillo
+35,4,01:18,SJO,78,69,RD,Morillo
+36,4,01:22,MOG,78,69,2_Pts_T,Gruber
+37,4,01:36,MOG,78,69,RD,André Goes
+38,4,01:40,SJO,78,69,2_Pts_T,Figueredo
+39,4,01:47,MOG,78,69,substituicao_entra,Lucas
+40,4,01:47,MOG,78,69,substituicao_sai,Guga
+41,4,01:52,SJO,78,69,RD,Figueredo
+42,4,01:56,MOG,78,69,3_Pts_T,Guga
+43,4,02:19,SJO,78,69,substituicao_entra,Morillo
+44,4,02:19,SJO,78,69,substituicao_sai,Duda
+45,4,02:19,SJO,78,69,ER,Mariani
+46,4,02:22,SJO,78,69,RD,Mariani
+47,4,02:26,MOG,78,69,3_Pts_T,Gruber
+48,4,02:45,MOG,78,69,RD,Gruber
+49,4,02:50,SJO,78,69,3_Pts_T,Duda
+50,4,02:59,SJO,78,69,BR,Duda
+51,4,02:59,MOG,78,69,ER,Fabricio
+52,4,03:03,MOG,78,69,RD,Fabricio
+53,4,03:12,SJO,78,69,3_Pts_T,Figueredo
+54,4,03:27,MOG,78,69,,
+55,4,03:33,MOG,78,69,substituicao_entra,Guga
+56,4,03:33,MOG,78,69,substituicao_sai,Lucas
+57,4,03:37,MOG,78,69,BR,Lucas
+58,4,03:37,SJO,78,69,ER,L  Eltink
+59,4,03:46,SJO,78,69,RD,Duda
+60,4,03:46,MOG,78,69,LL_Pts_T,Gruber
+61,4,03:46,MOG,78,69,LL_Pts_T,Gruber
+62,4,03:46,MOG,78,69,substituicao_entra,Lucas
+63,4,03:46,MOG,78,69,substituicao_sai,Guga
+64,4,03:46,MOG,78,69,FR,Gruber
+65,4,03:46,SJO,78,69,FC,Duda
+66,4,04:04,MOG,78,69,BR,André Goes
+67,4,04:04,SJO,78,69,ER,Mariani
+68,4,04:09,SJO,78,69,BR,Duda
+69,4,04:09,MOG,78,69,ER,Fabricio
+70,4,04:23,SJO,78,69,AS,Mariani
+71,4,04:23,SJO,78,69,2_Pts_C,Ambrosino
+72,4,04:45,MOG,78,67,tempo_tecnico,Mogi
+73,4,04:45,SJO,78,67,FR,Figueredo
+74,4,04:45,MOG,78,67,ER,Siqueira
+75,4,04:45,MOG,78,67,FC_O,Siqueira
+76,4,04:48,MOG,78,67,RD,Fabricio
+77,4,04:52,SJO,78,67,3_Pts_T,Mariani
+78,4,04:59,SJO,78,67,BR,Mariani
+79,4,04:59,MOG,78,67,ER,Guga
+80,4,05:04,SJO,78,67,substituicao_entra,Duda
+81,4,05:04,SJO,78,67,substituicao_sai,Morillo
+82,4,05:14,SJO,78,67,2_Pts_C,Mariani
+83,4,05:25,SJO,78,65,RD,Ambrosino
+84,4,05:29,MOG,78,65,2_Pts_T,Siqueira
+85,4,05:55,SJO,78,65,LL_Pts_C,Mariani
+86,4,05:55,SJO,78,64,LL_Pts_C,Mariani
+87,4,05:55,SJO,78,63,FR,Mariani
+88,4,05:55,MOG,78,63,FC,Fabricio
+89,4,06:07,MOG,78,63,LL_Pts_C,Fabricio
+90,4,06:07,MOG,77,63,LL_Pts_C,Fabricio
+91,4,06:07,MOG,76,63,AS,André Goes
+92,4,06:07,MOG,76,63,LL_Pts_C,Fabricio
+93,4,06:07,SJO,75,63,substituicao_entra,Ambrosino
+94,4,06:07,SJO,75,63,substituicao_sai,Rafael
+95,4,06:07,MOG,75,63,FR,Fabricio
+96,4,06:07,SJO,75,63,FC,Rafael
+97,4,06:18,MOG,75,63,RD,André Goes
+98,4,06:23,SJO,75,63,2_Pts_T,Mariani
+99,4,06:30,SJO,75,63,RD,L  Eltink
+100,4,06:36,MOG,75,63,3_Pts_T,André Goes
+101,4,06:57,MOG,75,63,RD,Fabricio
+102,4,07:01,SJO,75,63,2_Pts_T,Rafael
+103,4,07:12,SJO,75,63,LL_Pts_C,Rafael
+104,4,07:12,MOG,75,62,substituicao_entra,Gruber
+105,4,07:12,MOG,75,62,substituicao_entra,Guga
+106,4,07:12,MOG,75,62,substituicao_sai,Lessa
+107,4,07:12,MOG,75,62,substituicao_sai,Paranhos
+108,4,07:12,SJO,75,62,FR,Rafael
+109,4,07:12,MOG,75,62,FC_A,Paranhos
+110,4,07:12,SJO,75,62,EN,Rafael
+111,4,07:12,SJO,75,60,BR,Rafael
+112,4,07:12,MOG,75,60,ER,Fabricio
+113,4,07:24,MOG,75,60,substituicao_entra,Paranhos
+114,4,07:24,MOG,75,60,substituicao_sai,Gruber
+115,4,07:24,SJO,75,60,ER,Figueredo
+116,4,07:27,SJO,75,60,RD,Rafael
+117,4,07:31,MOG,75,60,2_Pts_T,Gruber
+118,4,07:42,MOG,75,60,FR,Gruber
+119,4,07:42,SJO,75,60,FC,Morillo
+120,4,07:46,MOG,75,60,FR,Gruber
+121,4,07:46,SJO,75,60,FC,Rafael
+122,4,08:07,SJO,75,60,AS,Mariani
+123,4,08:07,SJO,75,60,3_Pts_C,Figueredo
+124,4,08:25,SJO,75,57,substituicao_entra,L  Eltink
+125,4,08:25,SJO,75,57,substituicao_sai,Sérgio
+126,4,08:25,SJO,75,57,tempo_tecnico,São José
+127,4,08:25,MOG,75,57,AS,Lessa
+128,4,08:25,MOG,75,57,3_Pts_C,Gruber
+129,4,08:47,MOG,72,57,substituicao_entra,Lessa
+130,4,08:47,MOG,72,57,substituicao_sai,Guga
+131,4,08:47,MOG,72,57,FR,André Goes
+132,4,08:47,SJO,72,57,ER,Rafael
+133,4,08:47,SJO,72,57,FC_O,Rafael
+134,4,09:05,MOG,72,57,substituicao_entra,Siqueira
+135,4,09:05,MOG,72,57,substituicao_sai,Lucas
+136,4,09:12,SJO,72,57,FR,Morillo
+137,4,09:12,MOG,72,57,ER,Lucas
+138,4,09:12,MOG,72,57,FC_O,Lucas
+139,4,09:24,MOG,72,57,substituicao_entra,Lucas
+140,4,09:24,MOG,72,57,substituicao_sai,Siqueira
+141,4,09:38,MOG,72,57,RD,Mogi
+142,4,09:44,SJO,72,57,2_Pts_T,Rafael
+143,4,09:48,SJO,72,57,BR,Mariani
+144,4,09:48,MOG,72,57,ER,André Goes
+145,4,09:48,MOG,72,57,RD,Gruber
+146,4,09:48,SJO,72,57,3_Pts_T,Morillo
+147,4,09:48,MOG,72,57,2_Pts_C,Gruber
+148,4,09:48,MOG,70,57,RD,Siqueira
+149,4,09:48,MOG,70,57,TO,Gruber
+150,4,09:48,SJO,70,57,2_Pts_T,Sérgio
+151,4,09:58,SJO,70,57,FR,Figueredo
+152,4,09:58,MOG,70,57,ER,Guga
+153,4,09:58,MOG,70,57,FC_O,Guga
+154,4,10:00,NaN,70,57,inicio_quarto,
+155,3,00:00,NaN,70,57,fim_quarto,
+156,3,00:01,SJO,70,57,3_Pts_T,Duda
+157,3,00:03,SJO,70,57,RD,L  Eltink
+158,3,00:05,MOG,70,57,3_Pts_T,Siqueira
+159,3,00:19,MOG,70,57,RD,Paranhos
+160,3,00:21,SJO,70,57,2_Pts_T,Lupa
+161,3,00:21,SJO,70,57,RO,Lupa
+162,3,00:28,SJO,70,57,2_Pts_T,Lupa
+163,3,00:31,SJO,70,57,RO,Lupa
+164,3,00:36,SJO,70,57,2_Pts_T,Morillo
+165,3,01:00,MOG,70,57,LL_Pts_C,Siqueira
+166,3,01:00,MOG,69,57,LL_Pts_C,Siqueira
+167,3,01:00,MOG,68,57,substituicao_entra,Paranhos
+168,3,01:00,MOG,68,57,substituicao_sai,Gruber
+169,3,01:00,MOG,68,57,FR,Siqueira
+170,3,01:00,SJO,68,57,FC,Lupa
+171,3,01:23,SJO,68,57,2_Pts_C,Morillo
+172,3,01:30,SJO,68,55,FR,Duda
+173,3,01:30,MOG,68,55,FC,Guga
+174,3,01:48,MOG,68,55,LL_Pts_C,Guga
+175,3,01:48,SJO,67,55,substituicao_entra,Figueredo
+176,3,01:48,SJO,67,55,substituicao_entra,Morillo
+177,3,01:48,SJO,67,55,substituicao_sai,Ambrosino
+178,3,01:48,SJO,67,55,substituicao_sai,Eugeniusz
+179,3,01:48,MOG,67,55,FR,Guga
+180,3,01:48,SJO,67,55,FC,L  Eltink
+181,3,01:48,MOG,67,55,2_Pts_C,Guga
+182,3,01:48,MOG,65,55,RO,Guga
+183,3,01:50,MOG,65,55,3_Pts_T,Gruber
+184,3,02:03,MOG,65,55,RD,André Goes
+185,3,02:07,SJO,65,55,2_Pts_T,Duda
+186,3,02:28,SJO,65,55,tempo_tecnico,São José
+187,3,02:29,MOG,65,55,2_Pts_C,Guga
+188,3,02:43,SJO,63,55,ER,Duda
+189,3,02:48,MOG,63,55,substituicao_entra,André Goes
+190,3,02:48,MOG,63,55,substituicao_sai,Lessa
+191,3,02:48,SJO,63,55,RO,São José
+192,3,02:48,MOG,63,55,TO,Gruber
+193,3,02:48,SJO,63,55,2_Pts_T,L  Eltink
+194,3,02:59,MOG,63,55,3_Pts_C,Guga
+195,3,03:21,SJO,60,55,2_Pts_C,Duda
+196,3,03:22,SJO,60,53,RO,Duda
+197,3,03:31,SJO,60,53,3_Pts_T,Ambrosino
+198,3,03:43,MOG,60,53,2_Pts_C,Guga
+199,3,03:49,MOG,58,53,RD,Gruber
+200,3,03:54,SJO,58,53,2_Pts_T,Eugeniusz
+201,3,03:55,SJO,58,53,substituicao_entra,Duda
+202,3,03:55,SJO,58,53,substituicao_entra,Ambrosino
+203,3,03:55,SJO,58,53,substituicao_sai,Rafael
+204,3,03:55,SJO,58,53,substituicao_sai,Mariani
+205,3,04:05,SJO,58,53,RO,São José
+206,3,04:05,MOG,58,53,TO,Gruber
+207,3,04:05,SJO,58,53,2_Pts_T,Mariani
+208,3,04:10,SJO,58,53,BR,L  Eltink
+209,3,04:10,MOG,58,53,ER,Gruber
+210,3,04:11,MOG,58,53,RD,Gruber
+211,3,04:16,SJO,58,53,2_Pts_T,Rafael
+212,3,04:31,MOG,58,53,LL_Pts_C,Gruber
+213,3,04:31,SJO,57,53,substituicao_entra,Lupa
+214,3,04:31,SJO,57,53,substituicao_entra,Eugeniusz
+215,3,04:31,SJO,57,53,substituicao_sai,Sérgio
+216,3,04:31,SJO,57,53,substituicao_sai,Figueredo
+217,3,04:31,MOG,57,53,substituicao_entra,Guga
+218,3,04:31,MOG,57,53,substituicao_sai,André Goes
+219,3,04:35,MOG,57,53,FR,Gruber
+220,3,04:35,SJO,57,53,FC,Sérgio
+221,3,04:40,MOG,57,53,2_Pts_C,Gruber
+222,3,04:59,SJO,55,53,LL_Pts_C,Mariani
+223,3,04:59,SJO,55,52,LL_Pts_T,Mariani
+224,3,05:10,SJO,55,52,FR,Mariani
+225,3,05:10,MOG,55,52,FC,Siqueira
+226,3,05:12,MOG,55,52,AS,André Goes
+227,3,05:12,MOG,55,52,3_Pts_C,Gruber
+228,3,05:12,MOG,52,52,RD,André Goes
+229,3,05:12,SJO,52,52,3_Pts_T,Rafael
+230,3,05:12,MOG,52,52,substituicao_entra,Lessa
+231,3,05:12,MOG,52,52,substituicao_entra,Fabricio
+232,3,05:12,MOG,52,52,substituicao_sai,Paranhos
+233,3,05:12,MOG,52,52,substituicao_sai,Lucas
+234,3,05:12,SJO,52,52,RD,L  Eltink
+235,3,05:18,MOG,52,52,2_Pts_T,Paranhos
+236,3,05:38,SJO,52,52,AS,Figueredo
+237,3,05:38,SJO,52,52,3_Pts_C,L  Eltink
+238,3,05:57,MOG,52,49,2_Pts_C,Siqueira
+239,3,06:10,SJO,50,49,2_Pts_C,Rafael
+240,3,06:10,SJO,50,47,RO,Rafael
+241,3,06:21,SJO,50,47,2_Pts_T,Sérgio
+242,3,06:22,SJO,50,47,RO,Sérgio
+243,3,06:29,MOG,50,47,TO,Lucas
+244,3,06:29,SJO,50,47,2_Pts_T,Sérgio
+245,3,06:37,SJO,50,47,RD,L  Eltink
+246,3,06:44,MOG,50,47,3_Pts_T,André Goes
+247,3,06:47,MOG,50,47,RD,Paranhos
+248,3,06:50,SJO,50,47,2_Pts_T,Rafael
+249,3,07:08,MOG,50,47,ER,Paranhos
+250,3,07:08,MOG,50,47,RO,Paranhos
+251,3,07:10,SJO,50,47,TO,Sérgio
+252,3,07:10,MOG,50,47,2_Pts_T,Paranhos
+253,3,07:27,SJO,50,47,AS,Figueredo
+254,3,07:27,SJO,50,47,2_Pts_C,L  Eltink
+255,3,07:45,MOG,50,45,LL_Pts_C,Siqueira
+256,3,07:45,SJO,49,45,substituicao_entra,L  Eltink
+257,3,07:45,SJO,49,45,substituicao_sai,Morillo
+258,3,07:45,MOG,49,45,FR,Siqueira
+259,3,07:45,SJO,49,45,FC,Morillo
+260,3,07:45,MOG,49,45,2_Pts_C,Siqueira
+261,3,08:01,MOG,47,45,substituicao_entra,Lucas
+262,3,08:01,MOG,47,45,substituicao_sai,Lessa
+263,3,08:03,SJO,47,45,2_Pts_C,Mariani
+264,3,08:15,MOG,47,43,AS,Paranhos
+265,3,08:15,MOG,47,43,EN,Gruber
+266,3,08:18,MOG,45,43,RO,Lessa
+267,3,08:24,MOG,45,43,3_Pts_T,Gruber
+268,3,08:31,MOG,45,43,RD,André Goes
+269,3,08:35,SJO,45,43,2_Pts_T,Morillo
+270,3,08:36,SJO,45,43,RO,Morillo
+271,3,08:44,SJO,45,43,3_Pts_T,Rafael
+272,3,08:57,MOG,45,43,2_Pts_C,Gruber
+273,3,09:07,MOG,43,43,substituicao_entra,Lessa
+274,3,09:07,MOG,43,43,substituicao_sai,Lucas
+275,3,09:07,SJO,43,43,ER,Morillo
+276,3,09:13,SJO,43,43,RD,Rafael
+277,3,09:17,MOG,43,43,2_Pts_T,Lucas
+278,3,09:21,MOG,43,43,RD,Paranhos
+279,3,09:25,SJO,43,43,2_Pts_T,Figueredo
+280,3,09:44,MOG,43,43,LL_Pts_C,Gruber
+281,3,09:44,MOG,42,43,LL_Pts_T,Gruber
+282,3,09:44,MOG,42,43,FR,Gruber
+283,3,09:44,SJO,42,43,FC,Sérgio
+284,3,10:00,NaN,42,43,inicio_quarto,
+285,2,00:00,NaN,42,43,fim_quarto,
+286,2,00:04,MOG,42,43,3_Pts_T,Fabricio
+287,2,00:09,SJO,42,43,substituicao_entra,Jean
+288,2,00:09,SJO,42,43,substituicao_sai,Mariani
+289,2,00:09,MOG,42,43,substituicao_entra,Gruber
+290,2,00:09,MOG,42,43,substituicao_sai,Alex
+291,2,00:09,MOG,42,43,RD,Mogi
+292,2,00:09,SJO,42,43,2_Pts_T,Lupa
+293,2,00:32,SJO,42,43,substituicao_entra,Duda
+294,2,00:32,SJO,42,43,substituicao_sai,Ambrosino
+295,2,00:32,MOG,42,43,2_Pts_C,André Goes
+296,2,00:38,MOG,40,43,BR,André Goes
+297,2,00:38,SJO,40,43,ER,Ambrosino
+298,2,00:49,SJO,40,43,substituicao_entra,L  Eltink
+299,2,00:49,SJO,40,43,substituicao_entra,Eugeniusz
+300,2,00:49,SJO,40,43,substituicao_sai,Figueredo
+301,2,00:49,SJO,40,43,substituicao_sai,Morillo
+302,2,00:49,SJO,40,43,FR,Lupa
+303,2,00:49,MOG,40,43,FC,Alex
+304,2,00:49,SJO,40,43,RO,São José
+305,2,00:49,SJO,40,43,2_Pts_T,Ambrosino
+306,2,00:53,SJO,40,43,RD,Lupa
+307,2,00:57,MOG,40,43,3_Pts_T,Fabricio
+308,2,01:22,SJO,40,43,AS,Morillo
+309,2,01:22,SJO,40,43,3_Pts_C,Mariani
+310,2,01:36,MOG,40,40,AS,Siqueira
+311,2,01:36,MOG,40,40,2_Pts_C,Alex
+312,2,01:38,MOG,38,40,RD,Siqueira
+313,2,01:46,SJO,38,40,3_Pts_T,Figueredo
+314,2,02:04,MOG,38,40,AS,André Goes
+315,2,02:04,MOG,38,40,3_Pts_C,Fabricio
+316,2,02:26,SJO,35,40,LL_Pts_C,Figueredo
+317,2,02:26,SJO,35,39,FR,Figueredo
+318,2,02:26,MOG,35,39,FC,Lessa
+319,2,02:26,SJO,35,39,2_Pts_C,Figueredo
+320,2,02:38,SJO,35,37,substituicao_entra,Ambrosino
+321,2,02:38,SJO,35,37,substituicao_sai,Rafael
+322,2,02:38,MOG,35,37,substituicao_entra,Siqueira
+323,2,02:38,MOG,35,37,substituicao_sai,Guga
+324,2,02:38,SJO,35,37,RD,São José
+325,2,02:41,MOG,35,37,3_Pts_T,André Goes
+326,2,02:54,SJO,35,37,AS,Figueredo
+327,2,02:54,SJO,35,37,3_Pts_C,Mariani
+328,2,02:56,SJO,35,34,RD,Figueredo
+329,2,03:01,MOG,35,34,3_Pts_T,Guga
+330,2,03:21,SJO,35,34,AS,Morillo
+331,2,03:21,SJO,35,34,3_Pts_C,Figueredo
+332,2,03:28,SJO,35,31,substituicao_entra,Lupa
+333,2,03:28,SJO,35,31,substituicao_sai,Sérgio
+334,2,03:28,SJO,35,31,FR,Figueredo
+335,2,03:28,MOG,35,31,FC,Lessa
+336,2,03:43,MOG,35,31,AS,Guga
+337,2,03:43,MOG,35,31,3_Pts_C,André Goes
+338,2,04:03,MOG,32,31,BR,André Goes
+339,2,04:03,SJO,32,31,ER,Mariani
+340,2,04:15,SJO,32,31,tempo_tecnico,São José
+341,2,04:15,MOG,32,31,AS,Guga
+342,2,04:15,MOG,32,31,2_Pts_C,André Goes
+343,2,04:15,MOG,30,31,BR,Guga
+344,2,04:15,SJO,30,31,ER,Morillo
+345,2,04:24,SJO,30,31,BR,Morillo
+346,2,04:24,MOG,30,31,ER,Fabricio
+347,2,04:35,MOG,30,31,substituicao_entra,Alex
+348,2,04:35,MOG,30,31,substituicao_sai,Paranhos
+349,2,04:35,MOG,30,31,FR,Paranhos
+350,2,04:35,SJO,30,31,FC,Rafael
+351,2,04:45,MOG,30,31,RD,André Goes
+352,2,04:49,SJO,30,31,2_Pts_T,Morillo
+353,2,05:10,MOG,30,31,substituicao_entra,Guga
+354,2,05:10,MOG,30,31,substituicao_sai,Lucas
+355,2,05:12,SJO,30,31,RD,São José
+356,2,05:12,MOG,30,31,2_Pts_T,André Goes
+357,2,05:37,SJO,30,31,substituicao_entra,Morillo
+358,2,05:37,SJO,30,31,substituicao_sai,Duda
+359,2,05:37,MOG,30,31,substituicao_entra,Lessa
+360,2,05:37,MOG,30,31,substituicao_sai,Siqueira
+361,2,05:39,MOG,30,31,RD,Mogi
+362,2,05:44,SJO,30,31,3_Pts_T,Duda
+363,2,06:11,MOG,30,31,AS,Siqueira
+364,2,06:11,MOG,30,31,3_Pts_C,André Goes
+365,2,06:17,MOG,27,31,RD,André Goes
+366,2,06:21,SJO,27,31,2_Pts_T,Rafael
+367,2,06:31,SJO,27,31,BR,Sérgio
+368,2,06:31,MOG,27,31,ER,Siqueira
+369,2,06:43,MOG,27,31,RD,Paranhos
+370,2,06:48,SJO,27,31,3_Pts_T,Duda
+371,2,07:01,MOG,27,31,ER,
+372,2,07:01,MOG,27,31,RO,Paranhos
+373,2,07:01,MOG,27,31,2_Pts_T,Paranhos
+374,2,07:26,MOG,27,31,substituicao_entra,André Goes
+375,2,07:26,MOG,27,31,substituicao_sai,Colina
+376,2,07:26,MOG,27,31,tempo_tecnico,Mogi
+377,2,07:37,SJO,27,31,AS,Duda
+378,2,07:37,SJO,27,31,2_Pts_C,Sérgio
+379,2,07:38,MOG,27,29,AS,Lucas
+380,2,07:38,MOG,27,29,2_Pts_C,Siqueira
+381,2,07:38,MOG,25,29,substituicao_entra,Colina
+382,2,07:38,MOG,25,29,substituicao_sai,André Goes
+383,2,07:38,MOG,25,29,FR,Paranhos
+384,2,07:38,SJO,25,29,FC,Rafael
+385,2,07:38,MOG,25,29,RD,Paranhos
+386,2,07:38,SJO,25,29,3_Pts_T,Mariani
+387,2,07:39,SJO,25,29,RO,Figueredo
+388,2,07:44,SJO,25,29,2_Pts_T,Duda
+389,2,07:53,SJO,25,29,RD,Figueredo
+390,2,08:00,SJO,25,29,TO,Sérgio
+391,2,08:00,MOG,25,29,2_Pts_T,Siqueira
+392,2,08:13,SJO,25,29,LL_Pts_C,Mariani
+393,2,08:13,SJO,25,28,LL_Pts_C,Mariani
+394,2,08:22,SJO,25,27,FR,Mariani
+395,2,08:22,MOG,25,27,FC,Fabricio
+396,2,08:31,SJO,25,27,RD,Figueredo
+397,2,08:38,MOG,25,27,3_Pts_T,André Goes
+398,2,08:44,MOG,25,27,RD,Fabricio
+399,2,08:50,SJO,25,27,3_Pts_T,Figueredo
+400,2,09:10,MOG,25,27,AS,André Goes
+401,2,09:10,MOG,25,27,3_Pts_C,Siqueira
+402,2,09:23,SJO,22,27,AS,Figueredo
+403,2,09:23,SJO,22,27,3_Pts_C,Mariani
+404,2,09:29,MOG,22,24,2_Pts_C,André Goes
+405,2,09:57,SJO,20,24,AS,Figueredo
+406,2,09:57,SJO,20,24,3_Pts_C,Duda
+407,2,10:00,NaN,20,21,inicio_quarto,
+408,1,00:00,NaN,20,21,fim_quarto,
+409,1,00:03,MOG,20,21,2_Pts_T,Guga
+410,1,00:08,SJO,20,21,AS,Duda
+411,1,00:08,SJO,20,21,3_Pts_C,Rafael
+412,1,00:24,MOG,20,18,LL_Pts_C,Siqueira
+413,1,00:24,MOG,19,18,LL_Pts_C,Siqueira
+414,1,00:24,SJO,18,18,substituicao_entra,Rafael
+415,1,00:24,SJO,18,18,substituicao_sai,Ambrosino
+416,1,00:24,MOG,18,18,FR,Siqueira
+417,1,00:24,SJO,18,18,FC,Ambrosino
+418,1,00:24,MOG,18,18,BR,Fabricio
+419,1,00:24,SJO,18,18,ER,Duda
+420,1,00:30,SJO,18,18,RD,Duda
+421,1,00:35,MOG,18,18,3_Pts_T,Fabricio
+422,1,00:50,SJO,18,18,2_Pts_C,Ambrosino
+423,1,01:17,SJO,18,16,RD,Morillo
+424,1,01:22,MOG,18,16,3_Pts_T,Siqueira
+425,1,01:22,MOG,18,16,RD,Mogi
+426,1,01:22,SJO,18,16,2_Pts_T,Morillo
+427,1,01:33,SJO,18,16,RD,Duda
+428,1,01:33,MOG,18,16,LL_Pts_T,Siqueira
+429,1,01:33,MOG,18,16,LL_Pts_T,Siqueira
+430,1,01:33,MOG,18,16,FR,Siqueira
+431,1,01:33,SJO,18,16,FC,Morillo
+432,1,01:51,MOG,18,16,RD,Siqueira
+433,1,01:51,SJO,18,16,LL_Pts_T,Morillo
+434,1,01:51,SJO,18,16,LL_Pts_C,Morillo
+435,1,01:51,MOG,18,15,tempo_tecnico,Mogi
+436,1,01:51,SJO,18,15,FR,Morillo
+437,1,01:51,MOG,18,15,FC,Guga
+438,1,02:01,SJO,18,15,BR,Sérgio
+439,1,02:01,MOG,18,15,ER,Alex
+440,1,02:23,SJO,18,15,AS,Duda
+441,1,02:23,SJO,18,15,EN,Sérgio
+442,1,02:28,MOG,18,13,substituicao_entra,Alex
+443,1,02:28,MOG,18,13,substituicao_entra,Siqueira
+444,1,02:28,MOG,18,13,substituicao_sai,André Goes
+445,1,02:28,MOG,18,13,substituicao_sai,Paranhos
+446,1,02:28,SJO,18,13,FR,Sérgio
+447,1,02:28,MOG,18,13,ER,Paranhos
+448,1,02:28,MOG,18,13,FC_O,Paranhos
+449,1,02:32,SJO,18,13,3_Pts_C,Eugeniusz
+450,1,03:05,MOG,18,10,ER,Lucas
+451,1,03:05,SJO,18,10,FR,Eugeniusz
+452,1,03:05,MOG,18,10,FC_O,Lucas
+453,1,03:49,SJO,18,10,2_Pts_C,Eugeniusz
+454,1,03:50,MOG,18,8,LL_Pts_C,Fabricio
+455,1,03:50,MOG,17,8,LL_Pts_T,Fabricio
+456,1,03:50,MOG,17,8,substituicao_entra,Lessa
+457,1,03:50,MOG,17,8,substituicao_sai,Siqueira
+458,1,03:50,MOG,17,8,FR,Fabricio
+459,1,03:50,SJO,17,8,FC,Ambrosino
+460,1,04:02,SJO,17,8,AS,Duda
+461,1,04:02,SJO,17,8,LL_Pts_C,Sérgio
+462,1,04:02,SJO,17,7,LL_Pts_T,Sérgio
+463,1,04:02,SJO,17,7,substituicao_entra,Ambrosino
+464,1,04:02,SJO,17,7,substituicao_sai,Rafael
+465,1,04:02,SJO,17,7,FR,Sérgio
+466,1,04:02,MOG,17,7,FC,Siqueira
+467,1,04:16,MOG,17,7,LL_Pts_C,Lucas
+468,1,04:16,MOG,16,7,LL_Pts_C,Lucas
+469,1,04:16,MOG,15,7,FR,Lucas
+470,1,04:16,SJO,15,7,FC,Eugeniusz
+471,1,04:32,SJO,15,7,AS,Duda
+472,1,04:32,SJO,15,7,2_Pts_C,Rafael
+473,1,04:35,SJO,15,5,RO,Sérgio
+474,1,04:40,SJO,15,5,2_Pts_T,Morillo
+475,1,04:48,MOG,15,5,LL_Pts_C,Siqueira
+476,1,04:48,MOG,14,5,LL_Pts_T,Siqueira
+477,1,04:48,MOG,14,5,FR,Siqueira
+478,1,04:48,SJO,14,5,FC,Morillo
+479,1,04:54,MOG,14,5,substituicao_entra,Fabricio
+480,1,04:54,MOG,14,5,substituicao_sai,Gruber
+481,1,04:54,MOG,14,5,FR,Siqueira
+482,1,04:54,SJO,14,5,FC,Eugeniusz
+483,1,04:59,SJO,14,5,LL_Pts_C,Morillo
+484,1,04:59,SJO,14,4,FR,Morillo
+485,1,04:59,MOG,14,4,FC,Gruber
+486,1,04:59,SJO,14,4,2_Pts_C,Morillo
+487,1,05:03,SJO,14,2,BR,Sérgio
+488,1,05:03,MOG,14,2,ER,Siqueira
+489,1,05:07,MOG,14,2,RD,Paranhos
+490,1,05:12,SJO,14,2,2_Pts_T,Sérgio
+491,1,05:29,MOG,14,2,LL_Pts_C,Gruber
+492,1,05:29,SJO,13,2,substituicao_entra,Duda
+493,1,05:29,SJO,13,2,substituicao_entra,Eugeniusz
+494,1,05:29,SJO,13,2,substituicao_entra,Morillo
+495,1,05:29,SJO,13,2,substituicao_sai,L  Eltink
+496,1,05:29,SJO,13,2,substituicao_sai,Figueredo
+497,1,05:29,SJO,13,2,substituicao_sai,Mariani
+498,1,05:29,MOG,13,2,FR,Gruber
+499,1,05:29,SJO,13,2,FC,Sérgio
+500,1,05:29,MOG,13,2,AS,Siqueira
+501,1,05:29,MOG,13,2,EN,Gruber
+502,1,05:32,MOG,11,2,RD,Gruber
+503,1,05:36,SJO,11,2,2_Pts_T,Figueredo
+504,1,05:57,MOG,11,2,2_Pts_C,Paranhos
+505,1,06:04,MOG,9,2,RO,Paranhos
+506,1,06:08,MOG,9,2,2_Pts_T,Gruber
+507,1,06:16,SJO,9,2,substituicao_entra,Sérgio
+508,1,06:16,SJO,9,2,substituicao_sai,Lupa
+509,1,06:16,MOG,9,2,FR,Paranhos
+510,1,06:16,SJO,9,2,FC,Lupa
+511,1,06:16,MOG,9,2,RO,Paranhos
+512,1,06:16,MOG,9,2,2_Pts_T,Gruber
+513,1,06:30,SJO,9,2,LL_Pts_C,Rafael
+514,1,06:30,SJO,9,1,LL_Pts_C,Rafael
+515,1,06:30,SJO,9,0,FR,Rafael
+516,1,06:30,MOG,9,0,FC,Gruber
+517,1,06:52,SJO,9,0,tempo_tecnico,São José
+518,1,06:52,MOG,9,0,AS,Gruber
+519,1,06:52,MOG,9,0,2_Pts_C,Paranhos
+520,1,06:55,MOG,7,0,RO,Lucas
+521,1,07:00,MOG,7,0,2_Pts_T,Paranhos
+522,1,07:26,SJO,7,0,ER,Rafael
+523,1,07:32,SJO,7,0,BR,Lupa
+524,1,07:32,MOG,7,0,ER,Paranhos
+525,1,07:33,MOG,7,0,RD,Gruber
+526,1,07:39,SJO,7,0,3_Pts_T,Figueredo
+527,1,07:44,SJO,7,0,RD,Mariani
+528,1,07:50,MOG,7,0,3_Pts_T,Gruber
+529,1,07:53,MOG,7,0,RD,Siqueira
+530,1,07:57,SJO,7,0,3_Pts_T,L  Eltink
+531,1,08:10,MOG,7,0,2_Pts_C,Siqueira
+532,1,08:18,MOG,5,0,RD,Paranhos
+533,1,08:23,SJO,5,0,3_Pts_T,Mariani
+534,1,08:35,SJO,5,0,FR,Figueredo
+535,1,08:35,MOG,5,0,FC,Lucas
+536,1,08:41,MOG,5,0,AS,André Goes
+537,1,08:41,MOG,5,0,3_Pts_C,Lucas
+538,1,08:52,MOG,2,0,FR,Gruber
+539,1,08:52,SJO,2,0,FC,L  Eltink
+540,1,08:52,MOG,2,0,RD,Gruber
+541,1,08:52,SJO,2,0,3_Pts_T,Figueredo
+542,1,09:07,MOG,2,0,ER,Lucas
+543,1,09:11,MOG,2,0,BR,Lucas
+544,1,09:11,SJO,2,0,ER,Lupa
+545,1,09:29,MOG,2,0,AS,Gruber
+546,1,09:29,MOG,2,0,EN,Paranhos
+547,1,09:33,MOG,0,0,RD,Gruber
+548,1,09:39,SJO,0,0,2_Pts_T,Mariani
+549,1,09:40,SJO,0,0,RD,Lupa
+550,1,09:45,MOG,0,0,3_Pts_T,Siqueira
+551,1,10:00,SJO,0,0,substituicao_entra,L  Eltink
+552,1,10:00,SJO,0,0,substituicao_entra,Lupa
+553,1,10:00,SJO,0,0,substituicao_entra,Rafael
+554,1,10:00,SJO,0,0,substituicao_entra,Figueredo
+555,1,10:00,SJO,0,0,substituicao_entra,Mariani
+556,1,10:00,MOG,0,0,substituicao_entra,André Goes
+557,1,10:00,MOG,0,0,substituicao_entra,Paranhos
+558,1,10:00,MOG,0,0,substituicao_entra,Gruber
+559,1,10:00,MOG,0,0,substituicao_entra,Siqueira
+560,1,10:00,MOG,0,0,substituicao_entra,Lucas
+561,1,10:00,NaN,0,0,inicio_partida,

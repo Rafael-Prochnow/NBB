@@ -1,0 +1,566 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,81,71,fim_partida,
+1,4,00:00,NaN,81,71,fim_quarto, 
+2,4,00:02,APB,81,71,RD,Murilo
+3,4,00:02,SJO,81,71,3_Pts_T,Duda
+4,4,00:09,SJO,81,71,RD,L  Eltink
+5,4,00:12,APB,81,71,2_Pts_T,Paulo
+6,4,00:27,SJO,81,71,AS,Rafael
+7,4,00:27,SJO,81,71,2_Pts_C,Lupa
+8,4,00:42,APB,79,71,AS,Murilo
+9,4,00:42,APB,79,71,3_Pts_C,Augusto
+10,4,00:46,APB,79,68,LL_Pts_C,Augusto
+11,4,00:46,APB,79,67,LL_Pts_T,Augusto
+12,4,00:46,SJO,79,67,substituicao_entra,Figueredo
+13,4,00:46,SJO,79,67,substituicao_sai,Eugeniusz
+14,4,00:46,SJO,79,67,substituicao_entra,Lupa
+15,4,00:46,SJO,79,67,substituicao_sai,Sérgio
+16,4,00:46,APB,79,67,FR,Augusto
+17,4,00:46,SJO,79,67,FC_A,Sérgio
+18,4,00:47,APB,79,67,BR,Augusto
+19,4,00:47,SJO,79,67,ER,Duda
+20,4,00:59,APB,79,67,AS,Murilo
+21,4,00:59,APB,79,67,3_Pts_C,Augusto
+22,4,01:02,SJO,79,64,ER,Eugeniusz
+23,4,01:05,APB,79,64,2_Pts_C,Paulo
+24,4,01:16,APB,79,62,RD,Augusto
+25,4,01:19,SJO,79,62,2_Pts_T,Rafael
+26,4,01:39,APB,79,62,AS,Murilo
+27,4,01:39,APB,79,62,2_Pts_C,Augusto
+28,4,01:55,APB,79,60,RD,Aquiles
+29,4,01:55,SJO,79,60,LL_Pts_T,Duda
+30,4,01:55,SJO,79,60,FR,Duda
+31,4,01:55,APB,79,60,FC,Augusto
+32,4,01:55,SJO,79,60,2_Pts_C,Duda
+33,4,02:14,APB,77,60,substituicao_entra,Leandro
+34,4,02:14,APB,77,60,substituicao_sai,Gustavo
+35,4,02:14,SJO,77,60,substituicao_entra,Eugeniusz
+36,4,02:14,SJO,77,60,substituicao_sai,Figueredo
+37,4,02:14,SJO,77,60,substituicao_entra,Duda
+38,4,02:14,SJO,77,60,substituicao_sai,Mariani
+39,4,02:14,APB,77,60,ER,
+40,4,02:30,APB,77,60,RO,Pato Basquete
+41,4,02:33,APB,77,60,3_Pts_T,Aquiles
+42,4,02:36,APB,77,60,RO,Paulo
+43,4,02:40,APB,77,60,3_Pts_T,Augusto
+44,4,02:44,APB,77,60,substituicao_entra,Murilo
+45,4,02:44,APB,77,60,substituicao_sai,Gegê
+46,4,02:44,APB,77,60,RO,Pato Basquete
+47,4,02:44,SJO,77,60,TO,L  Eltink
+48,4,02:44,APB,77,60,2_Pts_T,Paulo
+49,4,03:04,SJO,77,60,AS,Sérgio
+50,4,03:04,SJO,77,60,2_Pts_C,L  Eltink
+51,4,03:13,SJO,75,60,FR,Figueredo
+52,4,03:13,APB,75,60,FC,Gegê
+53,4,03:23,APB,75,60,ER,Paulo
+54,4,03:33,SJO,75,60,ER,Sérgio
+55,4,03:41,SJO,75,60,RD,Mariani
+56,4,03:47,APB,75,60,2_Pts_T,Paulo
+57,4,04:03,APB,75,60,FR,Gegê
+58,4,04:03,SJO,75,60,FC,Figueredo
+59,4,04:14,SJO,75,60,AS,Mariani
+60,4,04:14,SJO,75,60,3_Pts_C,L  Eltink
+61,4,04:37,APB,72,60,AS,Aquiles
+62,4,04:37,APB,72,60,2_Pts_C,Paulo
+63,4,04:50,APB,72,58,substituicao_entra,Paulo
+64,4,04:50,APB,72,58,substituicao_sai,Rodrigues
+65,4,04:50,APB,72,58,tempo_tecnico,Pato Basquete
+66,4,04:50,SJO,72,58,AS,Mariani
+67,4,04:50,SJO,72,58,2_Pts_C,Rafael
+68,4,04:56,SJO,70,58,BR,Mariani
+69,4,04:56,APB,70,58,ER,Rodrigues
+70,4,05:16,SJO,70,58,AS,Mariani
+71,4,05:16,SJO,70,58,EN,Sérgio
+72,4,05:19,SJO,68,58,RD,Rafael
+73,4,05:27,APB,68,58,2_Pts_T,Aquiles
+74,4,05:32,APB,68,58,RD,Augusto
+75,4,05:38,SJO,68,58,3_Pts_T,L  Eltink
+76,4,05:56,APB,68,58,LL_Pts_C,Aquiles
+77,4,05:56,APB,68,57,LL_Pts_C,Aquiles
+78,4,05:56,SJO,68,56,substituicao_entra,Rafael
+79,4,05:56,SJO,68,56,substituicao_sai,Ambrosino
+80,4,05:56,APB,68,56,FR,Aquiles
+81,4,05:56,SJO,68,56,FC,Figueredo
+82,4,05:56,APB,68,56,RO,Aquiles
+83,4,05:56,APB,68,56,3_Pts_T,Gustavo
+84,4,06:02,APB,68,56,RD,Rodrigues
+85,4,06:11,SJO,68,56,2_Pts_T,Mariani
+86,4,06:27,SJO,68,56,RD,Mariani
+87,4,06:30,APB,68,56,3_Pts_T,Aquiles
+88,4,06:51,SJO,68,56,AS,L  Eltink
+89,4,06:51,SJO,68,56,EN,Sérgio
+90,4,06:56,APB,66,56,LL_Pts_C,Gegê
+91,4,06:56,APB,66,55,LL_Pts_C,Gegê
+92,4,06:56,SJO,66,54,substituicao_entra,Sérgio
+93,4,06:56,SJO,66,54,substituicao_sai,Lupa
+94,4,07:26,APB,66,54,FR,Gegê
+95,4,07:26,SJO,66,54,FC,Lupa
+96,4,07:41,APB,66,54,RD,Gustavo
+97,4,07:46,SJO,66,54,2_Pts_T,Lupa
+98,4,08:02,APB,66,54,AS,Gegê
+99,4,08:02,APB,66,54,3_Pts_C,Augusto
+100,4,08:08,APB,66,51,substituicao_entra,Rodrigues
+101,4,08:08,APB,66,51,substituicao_sai,Coimbra
+102,4,08:08,APB,66,51,substituicao_entra,Aquiles
+103,4,08:08,APB,66,51,substituicao_sai,Paulo
+104,4,08:08,APB,66,51,substituicao_entra,Augusto
+105,4,08:08,APB,66,51,substituicao_sai,Smith
+106,4,08:09,SJO,66,51,2_Pts_C,Figueredo
+107,4,08:27,SJO,64,51,2_Pts_C,Figueredo
+108,4,08:46,APB,62,51,ER,Smith
+109,4,08:55,SJO,62,51,AS,Figueredo
+110,4,08:55,SJO,62,51,3_Pts_C,Mariani
+111,4,09:11,SJO,59,51,FR,Lupa
+112,4,09:11,APB,59,51,FC,Gustavo
+113,4,09:22,APB,59,51,AS,Gustavo
+114,4,09:22,APB,59,51,3_Pts_C,Paulo
+115,4,09:42,APB,59,48,AS,Gegê
+116,4,09:42,APB,59,48,3_Pts_C,Gustavo
+117,4,09:49,SJO,59,45,AS,Mariani
+118,4,09:49,SJO,59,45,EN,L  Eltink
+119,4,09:54,SJO,57,45,BR,L  Eltink
+120,4,09:54,APB,57,45,ER,Gustavo
+121,4,09:58,APB,57,45,substituicao_entra,Smith
+122,4,09:58,APB,57,45,substituicao_sai,Augusto
+123,4,09:58,APB,57,45,substituicao_entra,Gustavo
+124,4,09:58,APB,57,45,substituicao_sai,Paulo
+125,4,09:58,APB,57,45,substituicao_entra,Coimbra
+126,4,09:58,APB,57,45,substituicao_sai,Aquiles
+127,4,09:58,APB,57,45,substituicao_entra,Gegê
+128,4,09:58,APB,57,45,substituicao_sai,Murilo
+129,4,09:58,SJO,57,45,substituicao_entra,Lupa
+130,4,09:58,SJO,57,45,substituicao_sai,Duda
+131,4,09:58,SJO,57,45,substituicao_entra,Mariani
+132,4,09:58,SJO,57,45,substituicao_sai,Buemo
+133,4,10:00,NaN,57,45,inicio_quarto,
+134,3,00:00,NaN,57,45,fim_quarto,
+135,3,00:19,APB,57,45,substituicao_entra,Paulo
+136,3,00:19,APB,57,45,substituicao_sai,Funches III
+137,3,00:24,APB,57,45,LL_Pts_C,Funches III
+138,3,00:24,APB,57,44,LL_Pts_T,Funches III
+139,3,00:24,APB,57,44,substituicao_entra,Aquiles
+140,3,00:24,APB,57,44,substituicao_sai,Gustavo
+141,3,00:24,APB,57,44,substituicao_entra,Murilo
+142,3,00:24,APB,57,44,substituicao_sai,Gegê
+143,3,00:24,SJO,57,44,substituicao_entra,Figueredo
+144,3,00:24,SJO,57,44,substituicao_sai,Eugeniusz
+145,3,00:24,APB,57,44,FR,Funches III
+146,3,00:24,SJO,57,44,FC,Eugeniusz
+147,3,00:34,APB,57,44,RD,Funches III
+148,3,00:34,SJO,57,44,LL_Pts_T,Eugeniusz
+149,3,00:34,SJO,57,44,LL_Pts_T,Eugeniusz
+150,3,00:34,APB,57,44,substituicao_entra,Gegê
+151,3,00:34,APB,57,44,substituicao_sai,Murilo
+152,3,00:34,SJO,57,44,substituicao_entra,Buemo
+153,3,00:34,SJO,57,44,substituicao_sai,Abner
+154,3,00:34,SJO,57,44,FR,Eugeniusz
+155,3,00:34,APB,57,44,FC,Augusto
+156,3,00:34,SJO,57,44,AS,Eugeniusz
+157,3,00:34,SJO,57,44,3_Pts_C,Duda
+158,3,00:36,SJO,54,44,RD,Abner
+159,3,00:39,APB,54,44,LL_Pts_T,Paulo
+160,3,00:39,APB,54,44,LL_Pts_C,Paulo
+161,3,00:48,APB,54,43,FR,Paulo
+162,3,00:48,SJO,54,43,FC,Abner
+163,3,00:57,SJO,54,43,AS,Eugeniusz
+164,3,00:57,SJO,54,43,3_Pts_C,Ambrosino
+165,3,01:02,APB,51,43,substituicao_entra,Murilo
+166,3,01:02,APB,51,43,substituicao_sai,Gegê
+167,3,01:07,APB,51,43,LL_Pts_C,Gegê
+168,3,01:07,APB,51,42,FR,Gegê
+169,3,01:07,SJO,51,42,FC,Abner
+170,3,01:07,APB,51,42,2_Pts_C,Gegê
+171,3,01:28,APB,51,40,substituicao_entra,Gustavo
+172,3,01:28,APB,51,40,substituicao_sai,Rodrigues
+173,3,01:28,APB,51,40,FR,Gegê
+174,3,01:28,SJO,51,40,ER,Ambrosino
+175,3,01:28,SJO,51,40,FC_O,Ambrosino
+176,3,01:32,SJO,51,40,RD,Ambrosino
+177,3,01:35,APB,51,40,3_Pts_T,Gegê
+178,3,01:36,APB,51,40,RO,Augusto
+179,3,01:42,APB,51,40,3_Pts_T,Paulo
+180,3,02:08,APB,51,40,substituicao_entra,Paulo
+181,3,02:08,APB,51,40,substituicao_sai,Aquiles
+182,3,02:08,APB,51,40,tempo_tecnico,Pato Basquete
+183,3,02:08,SJO,51,40,AS,Eugeniusz
+184,3,02:08,SJO,51,40,2_Pts_C,L  Eltink
+185,3,02:13,SJO,49,40,BR,Eugeniusz
+186,3,02:13,APB,49,40,ER,Funches III
+187,3,02:32,SJO,49,40,AS,Duda
+188,3,02:32,SJO,49,40,3_Pts_C,Ambrosino
+189,3,02:47,SJO,46,40,FR,Eugeniusz
+190,3,02:47,APB,46,40,ER,Rodrigues
+191,3,02:47,APB,46,40,FC_O,Rodrigues
+192,3,03:06,SJO,46,40,substituicao_entra,Abner
+193,3,03:06,SJO,46,40,substituicao_sai,Sérgio
+194,3,03:06,APB,46,40,substituicao_entra,Gegê
+195,3,03:06,APB,46,40,substituicao_sai,Smith
+196,3,03:06,APB,46,40,FR,Augusto
+197,3,03:06,SJO,46,40,ER,Sérgio
+198,3,03:06,SJO,46,40,FC_O,Sérgio
+199,3,03:20,SJO,46,40,RD,Sérgio
+200,3,03:24,APB,46,40,2_Pts_T,Smith
+201,3,03:25,APB,46,40,RO,Smith
+202,3,03:25,APB,46,40,LL_Pts_T,Smith
+203,3,03:25,APB,46,40,LL_Pts_T,Smith
+204,3,03:25,APB,46,40,FR,Smith
+205,3,03:25,SJO,46,40,FC,Eugeniusz
+206,3,03:44,SJO,46,40,LL_Pts_C,Ambrosino
+207,3,03:44,SJO,45,40,LL_Pts_C,Ambrosino
+208,3,03:44,APB,44,40,substituicao_entra,Funches III
+209,3,03:44,APB,44,40,substituicao_sai,Paulo
+210,3,03:44,APB,44,40,substituicao_entra,Aquiles
+211,3,03:44,APB,44,40,substituicao_sai,Gustavo
+212,3,03:44,SJO,44,40,substituicao_entra,Eugeniusz
+213,3,03:44,SJO,44,40,substituicao_sai,Figueredo
+214,3,03:44,SJO,44,40,FR,Ambrosino
+215,3,03:44,APB,44,40,FC,Paulo
+216,3,03:44,SJO,44,40,RO,Ambrosino
+217,3,03:44,SJO,44,40,2_Pts_T,Duda
+218,3,04:02,SJO,44,40,BR,Ambrosino
+219,3,04:02,APB,44,40,ER,Gustavo
+220,3,04:06,APB,44,40,RD,Smith
+221,3,04:11,SJO,44,40,3_Pts_T,L  Eltink
+222,3,04:26,SJO,44,40,RD,L  Eltink
+223,3,04:31,APB,44,40,2_Pts_T,Rodrigues
+224,3,04:40,APB,44,40,substituicao_entra,Augusto
+225,3,04:40,APB,44,40,substituicao_sai,Gegê
+226,3,04:40,SJO,44,40,substituicao_entra,Duda
+227,3,04:40,SJO,44,40,substituicao_sai,Mariani
+228,3,04:53,APB,44,40,BR,Gegê
+229,3,04:53,SJO,44,40,ER,Figueredo
+230,3,04:55,SJO,44,40,RD,Ambrosino
+231,3,04:59,APB,44,40,2_Pts_T,Gustavo
+232,3,05:04,APB,44,40,BR,Gustavo
+233,3,05:04,SJO,44,40,ER,Mariani
+234,3,05:12,APB,44,40,LL_Pts_C,Gustavo
+235,3,05:12,APB,44,39,FR,Gustavo
+236,3,05:12,SJO,44,39,FC,Sérgio
+237,3,05:12,APB,44,39,2_Pts_C,Gustavo
+238,3,05:15,APB,44,37,RO,Rodrigues
+239,3,05:19,APB,44,37,2_Pts_T,Paulo
+240,3,05:30,APB,44,37,RD,Smith
+241,3,05:34,SJO,44,37,2_Pts_T,L  Eltink
+242,3,05:57,APB,44,37,AS,Gegê
+243,3,05:57,APB,44,37,3_Pts_C,Gustavo
+244,3,06:10,SJO,44,34,substituicao_entra,Sérgio
+245,3,06:10,SJO,44,34,substituicao_sai,Lupa
+246,3,06:10,APB,44,34,FR,Gegê
+247,3,06:10,SJO,44,34,FC,Lupa
+248,3,06:18,APB,44,34,FR,Smith
+249,3,06:18,SJO,44,34,FC,Mariani
+250,3,06:27,SJO,44,34,LL_Pts_C,Lupa
+251,3,06:27,APB,43,34,substituicao_entra,Rodrigues
+252,3,06:27,APB,43,34,substituicao_sai,Coimbra
+253,3,06:27,SJO,43,34,FR,Lupa
+254,3,06:27,APB,43,34,FC,Coimbra
+255,3,06:27,SJO,43,34,AS,Mariani
+256,3,06:27,SJO,43,34,2_Pts_C,Lupa
+257,3,06:27,SJO,41,34,RO,Mariani
+258,3,06:31,SJO,41,34,2_Pts_T,Mariani
+259,3,06:41,SJO,41,34,RD,Lupa
+260,3,06:41,APB,41,34,LL_Pts_T,Smith
+261,3,06:41,APB,41,34,LL_Pts_C,Smith
+262,3,06:41,APB,41,33,FR,Smith
+263,3,06:41,SJO,41,33,FC,L  Eltink
+264,3,07:01,SJO,41,33,LL_Pts_C,Ambrosino
+265,3,07:01,SJO,40,33,FR,Ambrosino
+266,3,07:01,APB,40,33,FC,Smith
+267,3,07:01,SJO,40,33,AS,Lupa
+268,3,07:01,SJO,40,33,2_Pts_C,Ambrosino
+269,3,07:13,SJO,38,33,FR,Figueredo
+270,3,07:13,APB,38,33,FC,Gustavo
+271,3,07:17,SJO,38,33,RO,Figueredo
+272,3,07:18,SJO,38,33,2_Pts_T,Lupa
+273,3,07:19,SJO,38,33,RO,Lupa
+274,3,07:21,SJO,38,33,2_Pts_T,Lupa
+275,3,07:21,SJO,38,33,RO,Lupa
+276,3,07:23,SJO,38,33,2_Pts_T,Lupa
+277,3,07:23,SJO,38,33,RO,Lupa
+278,3,07:30,SJO,38,33,2_Pts_T,Figueredo
+279,3,07:49,APB,38,33,2_Pts_C,Paulo
+280,3,08:03,APB,38,31,RD,Coimbra
+281,3,08:03,SJO,38,31,LL_Pts_T,Lupa
+282,3,08:03,SJO,38,31,LL_Pts_T,Lupa
+283,3,08:03,SJO,38,31,substituicao_entra,Ambrosino
+284,3,08:03,SJO,38,31,substituicao_sai,Rafael
+285,3,08:03,SJO,38,31,FR,Lupa
+286,3,08:03,APB,38,31,FC,Paulo
+287,3,08:28,APB,38,31,2_Pts_C,Gustavo
+288,3,08:33,APB,38,29,RD,Paulo
+289,3,08:36,SJO,38,29,3_Pts_T,Figueredo
+290,3,08:53,APB,38,29,AS,Coimbra
+291,3,08:53,APB,38,29,2_Pts_C,Paulo
+292,3,09:14,SJO,38,27,AS,Figueredo
+293,3,09:14,SJO,38,27,2_Pts_C,Mariani
+294,3,09:30,APB,36,27,AS,Gegê
+295,3,09:30,APB,36,27,2_Pts_C,Coimbra
+296,3,09:38,APB,36,25,FR,Gegê
+297,3,09:38,SJO,36,25,FC,Rafael
+298,3,09:38,APB,36,25,RD,Pato Basquete
+299,3,09:38,SJO,36,25,2_Pts_T,Lupa
+300,3,09:49,SJO,36,25,FR,Mariani
+301,3,09:49,APB,36,25,FC,Coimbra
+302,3,10:00,NaN,36,25,inicio_quarto,
+303,2,00:00,NaN,36,25,fim_quarto,
+304,2,00:08,SJO,36,25,RD,Sérgio
+305,2,00:09,APB,36,25,2_Pts_T,Paulo
+306,2,00:25,APB,36,25,substituicao_entra,Augusto
+307,2,00:25,APB,36,25,substituicao_sai,Rodrigues
+308,2,00:25,SJO,36,25,LL_Pts_C,Sérgio
+309,2,00:25,SJO,35,25,LL_Pts_C,Sérgio
+310,2,00:25,SJO,34,25,substituicao_entra,Eugeniusz
+311,2,00:25,SJO,34,25,substituicao_sai,Figueredo
+312,2,00:25,SJO,34,25,FR,Sérgio
+313,2,00:25,APB,34,25,FC,Rodrigues
+314,2,00:36,SJO,34,25,RD,L  Eltink
+315,2,00:39,APB,34,25,2_Pts_T,Gustavo
+316,2,00:42,APB,34,25,RD,Gegê
+317,2,00:48,APB,34,25,TO,Rodrigues
+318,2,00:48,SJO,34,25,2_Pts_T,Sérgio
+319,2,00:49,SJO,34,25,RO,Sérgio
+320,2,00:51,SJO,34,25,2_Pts_T,Sérgio
+321,2,00:51,SJO,34,25,RO,Sérgio
+322,2,00:53,SJO,34,25,2_Pts_T,Sérgio
+323,2,00:53,SJO,34,25,RO,Sérgio
+324,2,00:59,SJO,34,25,2_Pts_T,Figueredo
+325,2,01:19,APB,34,25,AS,Gegê
+326,2,01:19,APB,34,25,2_Pts_C,Gustavo
+327,2,01:34,APB,34,23,RD,Pato Basquete
+328,2,01:35,SJO,34,23,3_Pts_T,Duda
+329,2,01:48,APB,34,23,LL_Pts_C,Gegê
+330,2,01:48,APB,34,22,LL_Pts_T,Gegê
+331,2,01:48,APB,34,22,FR,Gegê
+332,2,01:48,SJO,34,22,FC,Sérgio
+333,2,02:03,SJO,34,22,substituicao_entra,Sérgio
+334,2,02:03,SJO,34,22,substituicao_sai,Lupa
+335,2,02:03,APB,34,22,RO,Pato Basquete
+336,2,02:03,APB,34,22,2_Pts_T,Rodrigues
+337,2,02:11,APB,34,22,BR,Aquiles
+338,2,02:11,SJO,34,22,ER,Figueredo
+339,2,02:18,SJO,34,22,BR,Duda
+340,2,02:18,APB,34,22,ER,Paulo
+341,2,02:37,SJO,34,22,substituicao_entra,L  Eltink
+342,2,02:37,SJO,34,22,substituicao_sai,Rafael
+343,2,02:37,SJO,34,22,ER,Duda
+344,2,02:54,SJO,34,22,RD,Lupa
+345,2,02:54,APB,34,22,LL_Pts_T,Rodrigues
+346,2,02:54,APB,34,22,LL_Pts_T,Rodrigues
+347,2,02:54,APB,34,22,substituicao_entra,Aquiles
+348,2,02:54,APB,34,22,substituicao_sai,Funches III
+349,2,02:54,APB,34,22,FR,Rodrigues
+350,2,02:54,SJO,34,22,FC,Lupa
+351,2,02:59,APB,34,22,RD,Gegê
+352,2,03:02,SJO,34,22,3_Pts_T,Mariani
+353,2,03:22,APB,34,22,ER,Gegê
+354,2,03:32,APB,34,22,FR,Gegê
+355,2,03:32,SJO,34,22,FC,Lupa
+356,2,03:52,SJO,34,22,LL_Pts_C,Figueredo
+357,2,03:52,SJO,33,22,LL_Pts_C,Figueredo
+358,2,03:56,SJO,32,22,FR,Figueredo
+359,2,03:56,APB,32,22,FC,Gegê
+360,2,04:02,SJO,32,22,RD,Lupa
+361,2,04:02,APB,32,22,2_Pts_T,Gustavo
+362,2,04:21,APB,32,22,substituicao_entra,Funches III
+363,2,04:21,APB,32,22,substituicao_sai,Leandro
+364,2,04:21,APB,32,22,tempo_tecnico,Pato Basquete
+365,2,04:22,SJO,32,22,AS,Lupa
+366,2,04:22,SJO,32,22,3_Pts_C,Rafael
+367,2,04:41,SJO,29,22,RD,Mariani
+368,2,04:44,APB,29,22,2_Pts_T,Gegê
+369,2,05:05,SJO,29,22,LL_Pts_C,Rafael
+370,2,05:05,SJO,28,22,LL_Pts_C,Rafael
+371,2,05:05,APB,27,22,substituicao_entra,Paulo
+372,2,05:05,APB,27,22,substituicao_sai,Smith
+373,2,05:05,SJO,27,22,FR,Rafael
+374,2,05:05,APB,27,22,FC,Smith
+375,2,05:15,SJO,27,22,BR,Lupa
+376,2,05:15,APB,27,22,ER,Gustavo
+377,2,05:34,SJO,27,22,LL_Pts_C,Rafael
+378,2,05:34,SJO,26,22,AS,Lupa
+379,2,05:34,SJO,26,22,LL_Pts_C,Rafael
+380,2,05:34,SJO,25,22,FR,Rafael
+381,2,05:34,APB,25,22,FC,Leandro
+382,2,05:47,SJO,25,22,RD,Duda
+383,2,05:51,APB,25,22,3_Pts_T,Leandro
+384,2,06:12,SJO,25,22,AS,Figueredo
+385,2,06:12,SJO,25,22,3_Pts_C,Duda
+386,2,06:22,APB,22,22,LL_Pts_C,Rodrigues
+387,2,06:22,APB,22,21,FR,Rodrigues
+388,2,06:22,SJO,22,21,FC,Rafael
+389,2,06:36,APB,22,21,2_Pts_C,Rodrigues
+390,2,06:42,APB,22,19,BR,Gegê
+391,2,06:42,SJO,22,19,ER,Figueredo
+392,2,06:50,SJO,22,19,substituicao_entra,Mariani
+393,2,06:50,SJO,22,19,substituicao_sai,L  Eltink
+394,2,06:50,SJO,22,19,substituicao_entra,Rafael
+395,2,06:50,SJO,22,19,substituicao_sai,Ambrosino
+396,2,06:50,SJO,22,19,tempo_tecnico,São José
+397,2,06:50,APB,22,19,AS,Gegê
+398,2,06:50,APB,22,19,2_Pts_C,Smith
+399,2,06:54,APB,22,17,BR,Gegê
+400,2,06:54,SJO,22,17,ER,Duda
+401,2,07:02,APB,22,17,LL_Pts_C,Rodrigues
+402,2,07:02,APB,22,16,LL_Pts_C,Rodrigues
+403,2,07:02,APB,22,15,FR,Rodrigues
+404,2,07:02,SJO,22,15,FC,Duda
+405,2,07:37,APB,22,15,FR,Gegê
+406,2,07:37,SJO,22,15,ER,Ambrosino
+407,2,07:37,SJO,22,15,FC_O,Ambrosino
+408,2,07:55,APB,22,15,AS,Gustavo
+409,2,07:55,APB,22,15,3_Pts_C,Gegê
+410,2,08:04,APB,22,12,RD,Leandro
+411,2,08:04,SJO,22,12,LL_Pts_T,Lupa
+412,2,08:04,APB,22,12,substituicao_entra,Rodrigues
+413,2,08:04,APB,22,12,substituicao_sai,Paulo
+414,2,08:04,APB,22,12,substituicao_entra,Leandro
+415,2,08:04,APB,22,12,substituicao_sai,Coimbra
+416,2,08:04,SJO,22,12,substituicao_entra,Figueredo
+417,2,08:04,SJO,22,12,substituicao_sai,Eugeniusz
+418,2,08:04,SJO,22,12,FR,Lupa
+419,2,08:04,APB,22,12,FC,Paulo
+420,2,08:04,SJO,22,12,AS,Duda
+421,2,08:04,SJO,22,12,2_Pts_C,Lupa
+422,2,08:12,SJO,20,12,RD,L  Eltink
+423,2,08:17,APB,20,12,3_Pts_T,Smith
+424,2,08:31,APB,20,12,RD,Coimbra
+425,2,08:35,SJO,20,12,2_Pts_T,Lupa
+426,2,08:43,SJO,20,12,FR,Duda
+427,2,08:43,APB,20,12,ER,Coimbra
+428,2,08:43,APB,20,12,FC_O,Coimbra
+429,2,08:56,APB,20,12,substituicao_entra,Gustavo
+430,2,08:56,APB,20,12,substituicao_sai,Augusto
+431,2,08:56,APB,20,12,substituicao_entra,Gegê
+432,2,08:56,APB,20,12,substituicao_sai,Murilo
+433,2,08:56,APB,20,12,tempo_tecnico,Pato Basquete
+434,2,08:56,SJO,20,12,AS,Duda
+435,2,08:56,SJO,20,12,2_Pts_C,Lupa
+436,2,09:05,SJO,18,12,FR,Eugeniusz
+437,2,09:05,APB,18,12,FC,Murilo
+438,2,09:10,SJO,18,12,BR,Eugeniusz
+439,2,09:10,APB,18,12,ER,Augusto
+440,2,09:22,SJO,18,12,LL_Pts_C,Lupa
+441,2,09:22,SJO,17,12,FR,Lupa
+442,2,09:22,APB,17,12,FC,Smith
+443,2,09:22,SJO,17,12,AS,L  Eltink
+444,2,09:22,SJO,17,12,2_Pts_C,Lupa
+445,2,09:43,SJO,15,12,RD,São José
+446,2,09:47,APB,15,12,3_Pts_T,Augusto
+447,2,10:00,NaN,15,12,inicio_quarto,
+448,1,00:00,NaN,15,12,fim_quarto,
+449,1,00:01,APB,15,12,3_Pts_T,Augusto
+450,1,00:02,APB,15,12,BR,Paulo
+451,1,00:02,SJO,15,12,ER,Duda
+452,1,00:05,SJO,15,12,RO,Ambrosino
+453,1,00:08,SJO,15,12,3_Pts_T,Eugeniusz
+454,1,00:28,APB,15,12,3_Pts_C,Augusto
+455,1,00:36,SJO,15,9,AS,L  Eltink
+456,1,00:36,SJO,15,9,2_Pts_C,Ambrosino
+457,1,00:42,SJO,13,9,BR,L  Eltink
+458,1,00:42,APB,13,9,ER,Smith
+459,1,00:43,APB,13,9,RD,Smith
+460,1,00:47,SJO,13,9,2_Pts_T,Lupa
+461,1,01:19,APB,13,9,ER,Augusto
+462,1,01:33,APB,13,9,substituicao_entra,Murilo
+463,1,01:33,APB,13,9,substituicao_sai,Paulo
+464,1,01:33,SJO,13,9,substituicao_entra,Ambrosino
+465,1,01:33,SJO,13,9,substituicao_sai,Rafael
+466,1,01:33,SJO,13,9,substituicao_entra,L  Eltink
+467,1,01:33,SJO,13,9,substituicao_sai,Mariani
+468,1,01:33,APB,13,9,FR,Paulo
+469,1,01:33,SJO,13,9,FC,Eugeniusz
+470,1,01:47,SJO,13,9,2_Pts_C,Lupa
+471,1,01:54,SJO,11,9,RD,Rafael
+472,1,01:57,APB,11,9,2_Pts_T,Paulo
+473,1,02:20,SJO,11,9,ER,Rafael
+474,1,02:27,SJO,11,9,BR,Eugeniusz
+475,1,02:27,APB,11,9,ER,Coimbra
+476,1,02:51,APB,11,9,substituicao_entra,Smith
+477,1,02:51,APB,11,9,substituicao_sai,Gustavo
+478,1,02:51,SJO,11,9,substituicao_entra,Lupa
+479,1,02:51,SJO,11,9,substituicao_sai,Sérgio
+480,1,02:51,APB,11,9,FR,Gustavo
+481,1,02:51,SJO,11,9,ER,Sérgio
+482,1,02:51,SJO,11,9,FC_O,Sérgio
+483,1,02:57,SJO,11,9,RD,Sérgio
+484,1,03:01,APB,11,9,2_Pts_T,Coimbra
+485,1,03:14,SJO,11,9,AS,Eugeniusz
+486,1,03:14,SJO,11,9,3_Pts_C,Mariani
+487,1,03:29,APB,8,9,substituicao_entra,Paulo
+488,1,03:29,APB,8,9,substituicao_sai,Gegê
+489,1,03:29,APB,8,9,substituicao_entra,Coimbra
+490,1,03:29,APB,8,9,substituicao_sai,Rodrigues
+491,1,03:29,APB,8,9,substituicao_entra,Augusto
+492,1,03:29,APB,8,9,substituicao_sai,Funches III
+493,1,03:29,SJO,8,9,substituicao_entra,Eugeniusz
+494,1,03:29,SJO,8,9,substituicao_sai,Figueredo
+495,1,03:29,SJO,8,9,substituicao_entra,Duda
+496,1,03:29,SJO,8,9,substituicao_sai,L  Eltink
+497,1,03:29,APB,8,9,ER,Gegê
+498,1,03:34,APB,8,9,RD,Paulo
+499,1,03:38,SJO,8,9,3_Pts_T,Mariani
+500,1,03:44,SJO,8,9,RD,Figueredo
+501,1,03:48,APB,8,9,3_Pts_T,Paulo
+502,1,04:05,SJO,8,9,AS,Figueredo
+503,1,04:05,SJO,8,9,2_Pts_C,Rafael
+504,1,04:11,SJO,6,9,BR,Figueredo
+505,1,04:11,APB,6,9,ER,Funches III
+506,1,04:13,APB,6,9,RD,Gegê
+507,1,04:19,APB,6,9,TO,Paulo
+508,1,04:19,SJO,6,9,2_Pts_T,Mariani
+509,1,04:41,APB,6,9,AS,Gegê
+510,1,04:41,APB,6,9,3_Pts_C,Paulo
+511,1,05:00,SJO,6,6,AS,Mariani
+512,1,05:00,SJO,6,6,EN,Sérgio
+513,1,05:15,APB,4,6,AS,Gegê
+514,1,05:15,APB,4,6,2_Pts_C,Rodrigues
+515,1,05:20,APB,4,4,RO,Rodrigues
+516,1,05:21,APB,4,4,2_Pts_T,Rodrigues
+517,1,05:21,APB,4,4,RO,Rodrigues
+518,1,05:23,APB,4,4,2_Pts_T,Rodrigues
+519,1,05:23,APB,4,4,RO,Rodrigues
+520,1,05:29,APB,4,4,2_Pts_T,Rodrigues
+521,1,05:43,APB,4,4,RD,Funches III
+522,1,05:47,SJO,4,4,2_Pts_T,Sérgio
+523,1,05:56,SJO,4,4,RO,Mariani
+524,1,06:01,SJO,4,4,3_Pts_T,L  Eltink
+525,1,06:21,SJO,4,4,RD,Sérgio
+526,1,06:25,APB,4,4,3_Pts_T,Gustavo
+527,1,06:34,SJO,4,4,ER,
+528,1,06:52,SJO,4,4,FR,L  Eltink
+529,1,06:52,APB,4,4,FC,Gustavo
+530,1,07:01,APB,4,4,AS,Gegê
+531,1,07:01,APB,4,4,2_Pts_C,Gustavo
+532,1,07:04,APB,4,2,RO,Pato Basquete
+533,1,07:05,APB,4,2,2_Pts_T,Rodrigues
+534,1,07:19,SJO,4,2,ER,Sérgio
+535,1,07:36,APB,4,2,ER,
+536,1,07:50,APB,4,2,FR,Funches III
+537,1,07:50,SJO,4,2,FC,Rafael
+538,1,07:50,APB,4,2,RO,Funches III
+539,1,07:57,APB,4,2,3_Pts_T,Gustavo
+540,1,08:10,SJO,4,2,2_Pts_C,Mariani
+541,1,08:26,SJO,2,2,RD,São José
+542,1,08:30,APB,2,2,3_Pts_T,Gegê
+543,1,08:37,APB,2,2,RD,Rodrigues
+544,1,08:41,SJO,2,2,3_Pts_T,Figueredo
+545,1,08:45,SJO,2,2,RO,Rafael
+546,1,08:50,SJO,2,2,2_Pts_T,Sérgio
+547,1,09:10,APB,2,2,AS,Gegê
+548,1,09:10,APB,2,2,EN,Rodrigues
+549,1,09:25,SJO,2,0,2_Pts_C,L  Eltink
+550,1,09:25,SJO,0,0,RO,L  Eltink
+551,1,09:34,SJO,0,0,3_Pts_T,Mariani
+552,1,09:41,SJO,0,0,RO,L  Eltink
+553,1,09:45,SJO,0,0,3_Pts_T,Figueredo
+554,1,10:00,APB,0,0,substituicao_entra,Paulo
+555,1,10:00,APB,0,0,substituicao_entra,Gegê
+556,1,10:00,APB,0,0,substituicao_entra,Rodrigues
+557,1,10:00,APB,0,0,substituicao_entra,Gustavo
+558,1,10:00,APB,0,0,substituicao_entra,Funches III
+559,1,10:00,SJO,0,0,substituicao_entra,L  Eltink
+560,1,10:00,SJO,0,0,substituicao_entra,Sérgio
+561,1,10:00,SJO,0,0,substituicao_entra,Rafael
+562,1,10:00,SJO,0,0,substituicao_entra,Figueredo
+563,1,10:00,SJO,0,0,substituicao_entra,Mariani
+564,1,10:00,NaN,0,0,inicio_partida,

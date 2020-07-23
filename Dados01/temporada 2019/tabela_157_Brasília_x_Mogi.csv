@@ -1,0 +1,456 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,70,86,fim_partida,
+1,4,00:00,NaN,70,86,fim_quarto, 
+2,4,00:30,MOG,70,86,AS,Fúlvio
+3,4,00:30,MOG,70,86,3_Pts_C,Fabricio
+4,4,00:51,MOG,70,83,RD,Mogi
+5,4,00:54,BSB,70,83,2_Pts_T,Gui Bento
+6,4,01:07,MOG,70,83,LL_Pts_C,Fúlvio
+7,4,01:07,MOG,70,82,LL_Pts_C,Fúlvio
+8,4,01:07,BSB,70,81,substituicao_entra,Gabriel
+9,4,01:07,BSB,70,81,substituicao_sai,P  Rava
+10,4,01:07,MOG,70,81,FR,Fúlvio
+11,4,01:07,BSB,70,81,FC,Nezinho
+12,4,01:08,BSB,70,81,AS,P  Rava
+13,4,01:08,BSB,70,81,3_Pts_C,Rafa Moreira
+14,4,01:11,BSB,67,81,BR,P  Rava
+15,4,01:11,MOG,67,81,ER,Fúlvio
+16,4,01:28,MOG,67,81,substituicao_entra,Guga
+17,4,01:28,MOG,67,81,substituicao_sai,Paranhos
+18,4,01:28,BSB,67,81,substituicao_entra,Gui Bento
+19,4,01:28,BSB,67,81,substituicao_sai,Arthur
+20,4,01:44,MOG,67,81,FR,Paranhos
+21,4,01:44,BSB,67,81,FC,Rafa Moreira
+22,4,01:44,MOG,67,81,RD,Mogi
+23,4,01:45,BSB,67,81,2_Pts_T,Arthur
+24,4,01:49,BSB,67,81,RO,Brasília
+25,4,01:53,BSB,67,81,3_Pts_T,Rafa Moreira
+26,4,02:05,MOG,67,81,2_Pts_C,Fuzaro
+27,4,02:28,BSB,67,79,2_Pts_C,Arthur
+28,4,02:48,MOG,65,79,2_Pts_C,Fuzaro
+29,4,03:01,MOG,65,77,tempo_tecnico,Mogi
+30,4,03:01,BSB,65,77,AS,P  Rava
+31,4,03:01,BSB,65,77,2_Pts_C,Nezinho
+32,4,03:06,BSB,63,77,BR,P  Rava
+33,4,03:06,MOG,63,77,ER,Fúlvio
+34,4,03:18,MOG,63,77,RD,Paranhos
+35,4,03:22,BSB,63,77,2_Pts_T,B  Fiorotto
+36,4,03:30,BSB,63,77,RD,P  Rava
+37,4,03:34,MOG,63,77,2_Pts_T,Paranhos
+38,4,03:41,MOG,63,77,substituicao_entra,Fúlvio
+39,4,03:41,MOG,63,77,substituicao_sai,Guga
+40,4,03:41,MOG,63,77,FR,Fuzaro
+41,4,03:41,BSB,63,77,FC,Arthur
+42,4,03:55,BSB,63,77,2_Pts_C,Arthur
+43,4,04:02,BSB,61,77,BR,Nezinho
+44,4,04:02,MOG,61,77,ER,Fuzaro
+45,4,04:22,MOG,61,77,substituicao_entra,André Goes
+46,4,04:22,MOG,61,77,substituicao_sai,Fúlvio
+47,4,04:22,MOG,61,77,FR,Fúlvio
+48,4,04:22,BSB,61,77,FC,B  Fiorotto
+49,4,04:22,MOG,61,77,RD,Fuzaro
+50,4,04:24,BSB,61,77,2_Pts_T,P  Rava
+51,4,04:46,MOG,61,77,3_Pts_C,Fuzaro
+52,4,05:14,BSB,61,74,AS,Nezinho
+53,4,05:14,BSB,61,74,3_Pts_C,P  Rava
+54,4,05:21,MOG,58,74,RO,Paranhos
+55,4,05:21,MOG,58,74,2_Pts_C,Paranhos
+56,4,05:28,MOG,58,72,2_Pts_T,Fúlvio
+57,4,05:37,MOG,58,72,RD,Paranhos
+58,4,05:43,BSB,58,72,2_Pts_T,B  Fiorotto
+59,4,05:52,BSB,58,72,RO,B  Fiorotto
+60,4,05:55,BSB,58,72,2_Pts_T,Arthur
+61,4,06:08,MOG,58,72,substituicao_entra,Guga
+62,4,06:08,MOG,58,72,substituicao_sai,André Goes
+63,4,06:08,BSB,58,72,substituicao_entra,B  Fiorotto
+64,4,06:08,BSB,58,72,substituicao_sai,Ronald
+65,4,06:12,BSB,58,72,tempo_tecnico,Brasília
+66,4,06:13,MOG,58,72,AS,Fuzaro
+67,4,06:13,MOG,58,72,2_Pts_C,Paranhos
+68,4,06:28,BSB,58,70,2_Pts_C,Nezinho
+69,4,06:43,MOG,56,70,2_Pts_C,Paranhos
+70,4,06:44,MOG,56,68,RO,Paranhos
+71,4,06:48,MOG,56,68,2_Pts_T,André Goes
+72,4,07:10,MOG,56,68,substituicao_entra,Fabricio
+73,4,07:10,MOG,56,68,substituicao_sai,Alex
+74,4,07:10,BSB,56,68,ER,Ronald
+75,4,07:29,MOG,56,68,2_Pts_C,Paranhos
+76,4,07:51,MOG,56,66,substituicao_entra,Alex
+77,4,07:51,MOG,56,66,substituicao_sai,Fabricio
+78,4,07:51,BSB,56,66,substituicao_entra,Rafa Moreira
+79,4,07:51,BSB,56,66,substituicao_sai,B  Fiorotto
+80,4,07:51,BSB,56,66,ER,P  Rava
+81,4,07:58,BSB,56,66,RD,B  Fiorotto
+82,4,08:02,MOG,56,66,2_Pts_T,Paranhos
+83,4,08:09,MOG,56,66,RD,Fuzaro
+84,4,08:18,MOG,56,66,TO,Paranhos
+85,4,08:18,BSB,56,66,2_Pts_T,Ronald
+86,4,08:36,MOG,56,66,3_Pts_C,Fabricio
+87,4,08:49,MOG,56,63,FR,Fúlvio
+88,4,08:49,BSB,56,63,FC,Nezinho
+89,4,08:56,BSB,56,63,AS,Nezinho
+90,4,08:56,BSB,56,63,3_Pts_C,P  Rava
+91,4,09:03,BSB,53,63,RD,Arthur
+92,4,09:07,MOG,53,63,3_Pts_T,Fabricio
+93,4,09:27,BSB,53,63,ER,P  Rava
+94,4,09:28,BSB,53,63,RO,Brasília
+95,4,09:28,MOG,53,63,TO,Paranhos
+96,4,09:28,BSB,53,63,2_Pts_T,Arthur
+97,4,09:48,MOG,53,63,2_Pts_C,Fúlvio
+98,4,10:00,NaN,53,61,inicio_quarto,
+99,3,00:00,NaN,53,61,fim_quarto,
+100,3,00:39,BSB,53,61,EN,Ronald
+101,3,00:39,BSB,51,61,RO,Ronald
+102,3,00:39,BSB,51,61,3_Pts_T,P  Rava
+103,3,00:39,MOG,51,61,2_Pts_C,Fabricio
+104,3,00:39,MOG,51,59,substituicao_entra,Fabricio
+105,3,00:39,MOG,51,59,substituicao_entra,Fúlvio
+106,3,00:39,MOG,51,59,substituicao_sai,Alex
+107,3,00:39,MOG,51,59,substituicao_sai,Fuzaro
+108,3,00:39,MOG,51,59,RD,Mogi
+109,3,00:41,BSB,51,59,3_Pts_T,Arthur
+110,3,00:49,MOG,51,59,AS,Fuzaro
+111,3,00:49,MOG,51,59,3_Pts_C,André Goes
+112,3,00:54,MOG,51,56,RD,Paranhos
+113,3,00:57,BSB,51,56,2_Pts_T,B  Fiorotto
+114,3,01:20,MOG,51,56,3_Pts_C,André Goes
+115,3,01:33,BSB,51,53,ER,Nezinho
+116,3,01:41,BSB,51,53,RD,P  Rava
+117,3,01:45,MOG,51,53,3_Pts_T,Fuzaro
+118,3,02:00,MOG,51,53,substituicao_entra,Paranhos
+119,3,02:00,MOG,51,53,substituicao_sai,Fabricio
+120,3,02:16,BSB,51,53,ER,Arthur
+121,3,02:23,BSB,51,53,RD,Arthur
+122,3,02:23,MOG,51,53,2_Pts_T,Alex
+123,3,02:23,MOG,51,53,FR,Fuzaro
+124,3,02:23,BSB,51,53,FC,P  Rava
+125,3,02:25,MOG,51,53,RD,Fuzaro
+126,3,02:29,BSB,51,53,2_Pts_T,P  Rava
+127,3,02:35,BSB,51,53,RD,Arthur
+128,3,02:39,BSB,51,53,TO,B  Fiorotto
+129,3,02:39,MOG,51,53,2_Pts_T,Fabricio
+130,3,02:39,BSB,51,53,2_Pts_C,Arthur
+131,3,02:39,BSB,49,53,BR,Arthur
+132,3,02:39,MOG,49,53,ER,Fuzaro
+133,3,02:39,MOG,49,53,FR,Fuzaro
+134,3,02:39,BSB,49,53,ER,Ronald
+135,3,02:39,BSB,49,53,FC_O,Ronald
+136,3,03:03,MOG,49,53,substituicao_entra,Alex
+137,3,03:03,MOG,49,53,substituicao_sai,Paranhos
+138,3,03:03,MOG,49,53,substituicao_entra,Guga
+139,3,03:03,MOG,49,53,substituicao_sai,Fúlvio
+140,3,03:04,BSB,49,53,BR,Ronald
+141,3,03:04,MOG,49,53,ER,Fúlvio
+142,3,03:04,MOG,49,53,RD,André Goes
+143,3,03:04,BSB,49,53,LL_Pts_T,B  Fiorotto
+144,3,03:04,BSB,49,53,LL_Pts_C,B  Fiorotto
+145,3,03:04,MOG,48,53,substituicao_entra,Alex
+146,3,03:04,MOG,48,53,substituicao_sai,Paranhos
+147,3,03:38,BSB,48,53,FR,B  Fiorotto
+148,3,03:38,MOG,48,53,FC,Paranhos
+149,3,03:39,BSB,48,53,RO,B  Fiorotto
+150,3,03:40,BSB,48,53,LL_Pts_T,Ronald
+151,3,03:40,BSB,48,53,LL_Pts_C,Ronald
+152,3,03:40,BSB,47,53,FR,Ronald
+153,3,03:40,MOG,47,53,FC,André Goes
+154,3,03:40,BSB,47,53,RO,Ronald
+155,3,03:41,BSB,47,53,2_Pts_T,Ronald
+156,3,03:41,BSB,47,53,FR,B  Fiorotto
+157,3,03:41,MOG,47,53,FC,Paranhos
+158,3,03:51,BSB,47,53,FR,Nezinho
+159,3,03:51,MOG,47,53,FC,Fúlvio
+160,3,04:04,MOG,47,53,substituicao_entra,Fuzaro
+161,3,04:04,MOG,47,53,substituicao_sai,Guga
+162,3,04:04,MOG,47,53,tempo_tecnico,Mogi
+163,3,04:04,MOG,47,53,ER,Fúlvio
+164,3,04:28,BSB,47,53,AS,B  Fiorotto
+165,3,04:28,BSB,47,53,3_Pts_C,P  Rava
+166,3,04:53,MOG,44,53,2_Pts_C,André Goes
+167,3,05:07,MOG,44,51,RD,Fabricio
+168,3,05:11,BSB,44,51,3_Pts_T,Nezinho
+169,3,05:22,BSB,44,51,RD,Ronald
+170,3,05:25,MOG,44,51,3_Pts_T,Fúlvio
+171,3,05:33,MOG,44,51,RD,Mogi
+172,3,05:33,BSB,44,51,2_Pts_T,Nezinho
+173,3,05:37,BSB,44,51,RD,Arthur
+174,3,05:40,MOG,44,51,3_Pts_T,Guga
+175,3,05:53,BSB,44,51,2_Pts_C,B  Fiorotto
+176,3,06:13,BSB,42,51,RD,Brasília
+177,3,06:14,MOG,42,51,2_Pts_T,Guga
+178,3,06:40,BSB,42,51,AS,Nezinho
+179,3,06:40,BSB,42,51,2_Pts_C,Ronald
+180,3,06:44,BSB,40,51,RD,P  Rava
+181,3,06:47,MOG,40,51,2_Pts_T,Paranhos
+182,3,06:48,MOG,40,51,RO,André Goes
+183,3,06:51,MOG,40,51,3_Pts_T,Fúlvio
+184,3,06:52,MOG,40,51,RO,Fabricio
+185,3,06:55,MOG,40,51,2_Pts_T,Paranhos
+186,3,06:56,MOG,40,51,RO,Paranhos
+187,3,07:01,MOG,40,51,2_Pts_T,Fúlvio
+188,3,07:14,MOG,40,51,FR,Fabricio
+189,3,07:14,BSB,40,51,ER,Arthur
+190,3,07:14,BSB,40,51,FC_O,Arthur
+191,3,07:25,BSB,40,51,FR,Nezinho
+192,3,07:25,MOG,40,51,ER,André Goes
+193,3,07:25,MOG,40,51,FC_O,André Goes
+194,3,07:36,MOG,40,51,RD,Paranhos
+195,3,07:40,BSB,40,51,2_Pts_T,Ronald
+196,3,08:08,MOG,40,51,AS,Guga
+197,3,08:08,MOG,40,51,3_Pts_C,Fabricio
+198,3,08:29,MOG,40,48,RD,Mogi
+199,3,08:30,BSB,40,48,2_Pts_T,Arthur
+200,3,08:49,BSB,40,48,substituicao_entra,B  Fiorotto
+201,3,08:49,BSB,40,48,substituicao_sai,Rafa Moreira
+202,3,08:49,MOG,40,48,ER,Paranhos
+203,3,09:00,MOG,40,48,FR,Fabricio
+204,3,09:00,BSB,40,48,FC,Rafa Moreira
+205,3,09:15,BSB,40,48,2_Pts_C,Ronald
+206,3,09:35,MOG,38,48,AS,André Goes
+207,3,09:35,MOG,38,48,2_Pts_C,Paranhos
+208,3,09:44,MOG,38,46,RD,Paranhos
+209,3,09:48,BSB,38,46,2_Pts_T,Ronald
+210,3,10:00,NaN,38,46,inicio_quarto,
+211,2,00:00,NaN,38,46,fim_quarto,
+212,2,00:02,BSB,38,46,3_Pts_C,P  Rava
+213,2,00:02,BSB,35,46,FR,Gabriel
+214,2,00:02,MOG,35,46,ER,Fuzaro
+215,2,00:02,MOG,35,46,FC_O,Fuzaro
+216,2,00:03,BSB,35,46,substituicao_entra,Veloso
+217,2,00:03,BSB,35,46,substituicao_sai,Rafa Moreira
+218,2,00:03,MOG,35,46,FR,André Goes
+219,2,00:03,BSB,35,46,FC,Rafa Moreira
+220,2,00:03,MOG,35,46,FR,Fúlvio
+221,2,00:03,BSB,35,46,FC,B  Fiorotto
+222,2,00:06,BSB,35,46,substituicao_entra,Gabriel
+223,2,00:06,BSB,35,46,substituicao_sai,Arthur
+224,2,00:06,MOG,35,46,tempo_tecnico,Mogi
+225,2,00:06,MOG,35,46,FR,Fúlvio
+226,2,00:06,BSB,35,46,FC,P  Rava
+227,2,00:18,BSB,35,46,LL_Pts_C,Rafa Moreira
+228,2,00:18,BSB,34,46,LL_Pts_C,Rafa Moreira
+229,2,00:18,BSB,33,46,FR,Rafa Moreira
+230,2,00:18,MOG,33,46,FC,André Goes
+231,2,00:43,MOG,33,46,AS,Fúlvio
+232,2,00:43,MOG,33,46,3_Pts_C,Fabricio
+233,2,00:49,BSB,33,43,LL_Pts_C,Arthur
+234,2,00:49,BSB,32,43,FR,Arthur
+235,2,00:49,MOG,32,43,FC,Fuzaro
+236,2,00:49,BSB,32,43,AS,B  Fiorotto
+237,2,00:49,BSB,32,43,2_Pts_C,Arthur
+238,2,00:59,BSB,30,43,substituicao_entra,Gui Bento
+239,2,00:59,BSB,30,43,substituicao_entra,B  Fiorotto
+240,2,00:59,BSB,30,43,substituicao_sai,Nezinho
+241,2,00:59,BSB,30,43,substituicao_sai,Ronald
+242,2,00:59,BSB,30,43,tempo_tecnico,Brasília
+243,2,01:01,MOG,30,43,AS,Fúlvio
+244,2,01:01,MOG,30,43,3_Pts_C,André Goes
+245,2,01:20,MOG,30,40,RD,Fabricio
+246,2,01:23,BSB,30,40,3_Pts_T,Arthur
+247,2,01:41,MOG,30,40,AS,André Goes
+248,2,01:41,MOG,30,40,2_Pts_C,Fúlvio
+249,2,01:49,MOG,30,38,substituicao_entra,Guga
+250,2,01:49,MOG,30,38,substituicao_sai,F Cardoso
+251,2,01:49,MOG,30,38,FR,F Cardoso
+252,2,01:49,BSB,30,38,FC,Arthur
+253,2,02:10,BSB,30,38,ER,Ronald
+254,2,02:28,MOG,30,38,2_Pts_C,Fuzaro
+255,2,02:46,MOG,30,36,RD,Fuzaro
+256,2,02:51,BSB,30,36,3_Pts_T,Nezinho
+257,2,03:06,MOG,30,36,substituicao_entra,F Cardoso
+258,2,03:06,MOG,30,36,substituicao_entra,Fabricio
+259,2,03:06,MOG,30,36,substituicao_sai,Paranhos
+260,2,03:06,MOG,30,36,substituicao_sai,Colina
+261,2,03:06,MOG,30,36,ER,Paranhos
+262,2,03:22,MOG,30,36,RD,Colina
+263,2,03:25,BSB,30,36,3_Pts_T,P  Rava
+264,2,03:29,BSB,30,36,RD,Ronald
+265,2,03:32,MOG,30,36,2_Pts_T,Paranhos
+266,2,03:54,BSB,30,36,2_Pts_C,P  Rava
+267,2,04:17,MOG,28,36,3_Pts_C,Fúlvio
+268,2,04:35,BSB,28,33,2_Pts_C,P  Rava
+269,2,04:49,MOG,26,33,substituicao_entra,André Goes
+270,2,04:49,MOG,26,33,substituicao_sai,Fabricio
+271,2,04:49,BSB,26,33,tempo_tecnico,Brasília
+272,2,04:49,MOG,26,33,2_Pts_C,Fúlvio
+273,2,04:52,MOG,26,31,RD,Fúlvio
+274,2,04:55,BSB,26,31,2_Pts_T,Ronald
+275,2,05:19,MOG,26,31,AS,Fúlvio
+276,2,05:19,MOG,26,31,2_Pts_C,Fuzaro
+277,2,05:20,MOG,26,29,RD,Fúlvio
+278,2,05:24,BSB,26,29,2_Pts_T,Ronald
+279,2,05:25,BSB,26,29,RO,Ronald
+280,2,05:29,BSB,26,29,2_Pts_T,Arthur
+281,2,05:34,BSB,26,29,RO,Arthur
+282,2,05:39,BSB,26,29,2_Pts_T,Arthur
+283,2,05:49,MOG,26,29,substituicao_entra,Colina
+284,2,05:49,MOG,26,29,substituicao_sai,André Goes
+285,2,05:49,BSB,26,29,substituicao_entra,Rafa Moreira
+286,2,05:49,BSB,26,29,substituicao_entra,P  Rava
+287,2,05:49,BSB,26,29,substituicao_sai,Gui Bento
+288,2,05:49,BSB,26,29,substituicao_sai,B  Fiorotto
+289,2,05:49,BSB,26,29,FR,Ronald
+290,2,05:49,MOG,26,29,FC,Fabricio
+291,2,06:00,MOG,26,29,AS,Fuzaro
+292,2,06:00,MOG,26,29,3_Pts_C,Fabricio
+293,2,06:07,MOG,26,26,RD,Fúlvio
+294,2,06:11,BSB,26,26,3_Pts_T,Gui Bento
+295,2,06:29,MOG,26,26,AS,Fuzaro
+296,2,06:29,MOG,26,26,2_Pts_C,Paranhos
+297,2,06:34,BSB,26,24,substituicao_entra,Arthur
+298,2,06:34,BSB,26,24,substituicao_sai,P  Rava
+299,2,06:34,BSB,26,24,ER,Ronald
+300,2,06:36,BSB,26,24,RD,Ronald
+301,2,06:40,MOG,26,24,2_Pts_T,André Goes
+302,2,06:43,MOG,26,24,RO,Fúlvio
+303,2,06:47,MOG,26,24,2_Pts_T,Fúlvio
+304,2,06:48,MOG,26,24,RD,Fabricio
+305,2,06:51,BSB,26,24,2_Pts_T,P  Rava
+306,2,07:02,BSB,26,24,RO,Ronald
+307,2,07:06,BSB,26,24,FR,Nezinho
+308,2,07:06,MOG,26,24,FC,Fuzaro
+309,2,07:06,BSB,26,24,3_Pts_T,Nezinho
+310,2,07:19,MOG,26,24,2_Pts_C,Fuzaro
+311,2,07:48,BSB,26,22,RD,P  Rava
+312,2,07:52,MOG,26,22,2_Pts_T,Paranhos
+313,2,08:13,MOG,26,22,substituicao_entra,Fúlvio
+314,2,08:13,MOG,26,22,substituicao_sai,Guga
+315,2,08:13,BSB,26,22,ER,Nezinho
+316,2,08:37,MOG,26,22,AS,Guga
+317,2,08:37,MOG,26,22,2_Pts_C,Paranhos
+318,2,08:45,BSB,26,20,AS,Nezinho
+319,2,08:45,BSB,26,20,3_Pts_C,P  Rava
+320,2,08:51,MOG,23,20,substituicao_entra,Paranhos
+321,2,08:51,MOG,23,20,substituicao_sai,Alex
+322,2,08:51,BSB,23,20,FR,Ronald
+323,2,08:51,MOG,23,20,FC,Alex
+324,2,08:59,BSB,23,20,FR,P  Rava
+325,2,08:59,MOG,23,20,FC,Alex
+326,2,09:00,BSB,23,20,RD,P  Rava
+327,2,09:05,MOG,23,20,3_Pts_T,Guga
+328,2,09:16,MOG,23,20,RD,André Goes
+329,2,09:19,BSB,23,20,3_Pts_T,Ronald
+330,2,09:52,MOG,23,20,2_Pts_C,Fuzaro
+331,2,09:56,MOG,23,18,substituicao_entra,Fuzaro
+332,2,09:56,MOG,23,18,substituicao_sai,Colina
+333,2,09:56,BSB,23,18,substituicao_entra,Nezinho
+334,2,09:56,BSB,23,18,substituicao_entra,Ronald
+335,2,09:56,BSB,23,18,substituicao_sai,Rafa Moreira
+336,2,09:56,BSB,23,18,substituicao_sai,Arthur
+337,2,10:00,NaN,23,18,inicio_quarto,
+338,1,00:00,NaN,23,18,fim_quarto,
+339,1,00:02,BSB,23,18,3_Pts_T,Rafa Moreira
+340,1,00:10,MOG,23,18,AS,Guga
+341,1,00:10,MOG,23,18,2_Pts_C,Alex
+342,1,00:26,BSB,23,16,2_Pts_C,Arthur
+343,1,00:34,BSB,21,16,BR,Rafa Moreira
+344,1,00:34,MOG,21,16,ER,Alex
+345,1,00:39,MOG,21,16,BR,Alex
+346,1,00:39,BSB,21,16,ER,Gui Bento
+347,1,00:56,MOG,21,16,3_Pts_C,Guga
+348,1,01:12,MOG,21,13,substituicao_entra,Colina
+349,1,01:12,MOG,21,13,substituicao_sai,Lessa
+350,1,01:12,BSB,21,13,substituicao_entra,Gui Bento
+351,1,01:12,BSB,21,13,substituicao_sai,Nezinho
+352,1,01:12,MOG,21,13,tempo_tecnico,Mogi
+353,1,01:13,BSB,21,13,2_Pts_C,Nezinho
+354,1,01:21,BSB,19,13,RD,B  Fiorotto
+355,1,01:26,MOG,19,13,3_Pts_T,Lessa
+356,1,01:50,BSB,19,13,3_Pts_C,Nezinho
+357,1,02:08,MOG,16,13,substituicao_entra,Fabricio
+358,1,02:08,MOG,16,13,substituicao_sai,Paranhos
+359,1,02:08,BSB,16,13,substituicao_entra,B  Fiorotto
+360,1,02:08,BSB,16,13,substituicao_sai,Ronald
+361,1,02:08,BSB,16,13,FR,P  Rava
+362,1,02:08,MOG,16,13,ER,Alex
+363,1,02:08,MOG,16,13,FC_O,Alex
+364,1,02:09,MOG,16,13,RD,Paranhos
+365,1,02:14,BSB,16,13,2_Pts_T,Rafa Moreira
+366,1,02:25,MOG,16,13,substituicao_entra,André Goes
+367,1,02:25,MOG,16,13,substituicao_entra,Guga
+368,1,02:25,MOG,16,13,substituicao_sai,Fuzaro
+369,1,02:25,MOG,16,13,substituicao_sai,Fúlvio
+370,1,02:25,MOG,16,13,ER,Lessa
+371,1,02:31,MOG,16,13,RD,Fuzaro
+372,1,02:36,BSB,16,13,3_Pts_T,P  Rava
+373,1,02:51,MOG,16,13,2_Pts_C,Alex
+374,1,02:52,MOG,16,11,RD,Lessa
+375,1,02:58,MOG,16,11,TO,Lessa
+376,1,02:58,BSB,16,11,2_Pts_T,Nezinho
+377,1,03:07,BSB,16,11,RD,Ronald
+378,1,03:12,MOG,16,11,2_Pts_T,Lessa
+379,1,03:29,BSB,16,11,AS,Nezinho
+380,1,03:29,BSB,16,11,3_Pts_C,P  Rava
+381,1,03:40,MOG,13,11,2_Pts_C,Alex
+382,1,03:41,MOG,13,9,RO,Alex
+383,1,03:47,MOG,13,9,2_Pts_T,Fúlvio
+384,1,04:04,MOG,13,9,substituicao_entra,Lessa
+385,1,04:04,MOG,13,9,substituicao_entra,Alex
+386,1,04:04,MOG,13,9,substituicao_sai,André Goes
+387,1,04:04,MOG,13,9,substituicao_sai,Fabricio
+388,1,04:04,BSB,13,9,substituicao_entra,P  Rava
+389,1,04:04,BSB,13,9,substituicao_sai,Gui Bento
+390,1,04:28,BSB,13,9,ER,Nezinho
+391,1,04:28,MOG,13,9,FR,Fuzaro
+392,1,04:28,BSB,13,9,FC_O,Nezinho
+393,1,04:28,BSB,13,9,2_Pts_C,Rafa Moreira
+394,1,04:28,MOG,11,9,LL_Pts_C,Paranhos
+395,1,04:28,MOG,11,8,FR,Paranhos
+396,1,04:28,BSB,11,8,FC,Rafa Moreira
+397,1,04:28,MOG,11,8,2_Pts_C,Paranhos
+398,1,04:28,MOG,11,6,RO,Paranhos
+399,1,04:28,MOG,11,6,3_Pts_T,Fuzaro
+400,1,04:46,BSB,11,6,RD,Ronald
+401,1,04:50,MOG,11,6,3_Pts_T,Fabricio
+402,1,05:05,BSB,11,6,AS,Arthur
+403,1,05:05,BSB,11,6,3_Pts_C,Rafa Moreira
+404,1,05:06,BSB,8,6,RO,Rafa Moreira
+405,1,05:16,MOG,8,6,TO,Paranhos
+406,1,05:16,BSB,8,6,2_Pts_T,Gui Bento
+407,1,05:28,BSB,8,6,RD,Arthur
+408,1,05:31,MOG,8,6,3_Pts_T,Fabricio
+409,1,05:35,MOG,8,6,RD,Paranhos
+410,1,05:39,BSB,8,6,2_Pts_T,Gui Bento
+411,1,05:58,MOG,8,6,AS,Fuzaro
+412,1,05:58,MOG,8,6,3_Pts_C,Fabricio
+413,1,06:09,MOG,8,3,RD,André Goes
+414,1,06:12,BSB,8,3,3_Pts_T,Ronald
+415,1,06:15,BSB,8,3,RO,Ronald
+416,1,06:19,BSB,8,3,2_Pts_T,Gui Bento
+417,1,06:29,BSB,8,3,RD,Ronald
+418,1,06:34,MOG,8,3,3_Pts_T,Fabricio
+419,1,06:37,MOG,8,3,RD,Paranhos
+420,1,06:41,BSB,8,3,2_Pts_T,Arthur
+421,1,06:54,MOG,8,3,AS,André Goes
+422,1,06:54,MOG,8,3,3_Pts_C,Fuzaro
+423,1,07:02,MOG,8,0,RD,Paranhos
+424,1,07:05,BSB,8,0,3_Pts_T,Nezinho
+425,1,07:11,BSB,8,0,RD,Nezinho
+426,1,07:15,MOG,8,0,3_Pts_T,André Goes
+427,1,07:32,BSB,8,0,AS,Nezinho
+428,1,07:32,BSB,8,0,3_Pts_C,Arthur
+429,1,07:47,BSB,5,0,RD,Brasília
+430,1,07:47,MOG,5,0,2_Pts_T,Fuzaro
+431,1,08:09,BSB,5,0,2_Pts_C,Nezinho
+432,1,08:26,BSB,3,0,RD,Brasília
+433,1,08:29,MOG,3,0,3_Pts_T,Fúlvio
+434,1,08:37,MOG,3,0,RD,Fuzaro
+435,1,08:40,BSB,3,0,2_Pts_T,Rafa Moreira
+436,1,08:50,BSB,3,0,RD,Ronald
+437,1,08:53,MOG,3,0,2_Pts_T,Paranhos
+438,1,09:17,BSB,3,0,3_Pts_C,Arthur
+439,1,09:30,BSB,0,0,RD,Ronald
+440,1,09:35,BSB,0,0,TO,Ronald
+441,1,09:35,MOG,0,0,2_Pts_T,Paranhos
+442,1,09:46,MOG,0,0,RD,Fúlvio
+443,1,09:51,BSB,0,0,2_Pts_T,Ronald
+444,1,10:00,MOG,0,0,substituicao_entra,André Goes
+445,1,10:00,MOG,0,0,substituicao_entra,Paranhos
+446,1,10:00,MOG,0,0,substituicao_entra,Fabricio
+447,1,10:00,MOG,0,0,substituicao_entra,Fuzaro
+448,1,10:00,MOG,0,0,substituicao_entra,Fúlvio
+449,1,10:00,BSB,0,0,substituicao_entra,Gui Bento
+450,1,10:00,BSB,0,0,substituicao_entra,Nezinho
+451,1,10:00,BSB,0,0,substituicao_entra,Rafa Moreira
+452,1,10:00,BSB,0,0,substituicao_entra,Ronald
+453,1,10:00,BSB,0,0,substituicao_entra,Arthur
+454,1,10:00,NaN,0,0,inicio_partida,

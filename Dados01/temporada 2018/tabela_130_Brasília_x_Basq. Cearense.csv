@@ -1,0 +1,565 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,80,87,fim_partida,
+1,4,00:00,NaN,80,87,fim_quarto, 
+2,4,00:05,BRA,80,87,RD,Zach Graham
+3,4,00:06,CEA,80,87,LL_Pts_T,Brite
+4,4,00:06,CEA,80,87,LL_Pts_C,Brite
+5,4,00:06,CEA,80,86,FR,Brite
+6,4,00:06,BRA,80,86,FC,Daniel
+7,4,00:06,CEA,80,86,RD,Brite
+8,4,00:06,BRA,80,86,3_Pts_T,Rafa Moreira
+9,4,00:08,BRA,80,86,substituicao_entra,Daniel
+10,4,00:08,BRA,80,86,substituicao_sai,Graterol
+11,4,00:08,BRA,80,86,Caixa,Universo
+12,4,00:09,CEA,80,86,LL_Pts_T,Sualisson
+13,4,00:09,CEA,80,86,LL_Pts_C,Sualisson
+14,4,00:09,CEA,80,85,FR,Sualisson
+15,4,00:09,BRA,80,85,FC,Graterol
+16,4,00:10,CEA,80,85,substituicao_entra,Brite
+17,4,00:10,CEA,80,85,substituicao_sai,B  Fiorotto
+18,4,00:10,BRA,80,85,,
+19,4,00:11,CEA,80,85,substituicao_entra,Sualisson
+20,4,00:11,CEA,80,85,substituicao_sai,Paulinho
+21,4,00:11,CEA,80,85,substituicao_entra,Alex
+22,4,00:11,CEA,80,85,substituicao_sai,Brite
+23,4,00:11,BRA,80,85,Caixa,Universo
+24,4,00:11,CEA,80,85,2_Pts_C,B  Fiorotto
+25,4,00:11,CEA,80,83,RO,B  Fiorotto
+26,4,00:11,CEA,80,83,2_Pts_T,Brite
+27,4,00:35,BRA,80,83,LL_Pts_C,Nezinho
+28,4,00:35,BRA,79,83,LL_Pts_T,Nezinho
+29,4,00:35,CEA,79,83,substituicao_entra,B  Fiorotto
+30,4,00:35,CEA,79,83,substituicao_sai,Kurtz
+31,4,00:35,BRA,79,83,FR,Nezinho
+32,4,00:35,CEA,79,83,FC,Kurtz
+33,4,00:35,BRA,79,83,BR,Zach Graham
+34,4,00:35,CEA,79,83,ER,Paulinho
+35,4,00:57,CEA,79,83,BR,Felipe
+36,4,00:57,BRA,79,83,ER,Zach Graham
+37,4,01:12,CEA,79,83,LL_Pts_C,Kurtz
+38,4,01:12,CEA,79,82,LL_Pts_C,Kurtz
+39,4,01:12,BRA,79,81,substituicao_entra,Rafa Moreira
+40,4,01:12,BRA,79,81,substituicao_sai,Ronald
+41,4,01:12,CEA,79,81,FR,Kurtz
+42,4,01:12,BRA,79,81,FC,Ronald
+43,4,01:12,CEA,79,81,RD,Basq  Cearense
+44,4,01:12,BRA,79,81,2_Pts_T,Zach Graham
+45,4,01:34,BRA,79,81,Caixa,Universo
+46,4,01:35,CEA,79,81,3_Pts_C,Paulinho
+47,4,01:51,CEA,79,78,RD,Felipe
+48,4,01:54,BRA,79,78,2_Pts_T,Arthur
+49,4,02:10,BRA,79,78,RD,Ronald
+50,4,02:12,CEA,79,78,LL_Pts_T,Brite
+51,4,02:12,CEA,79,78,LL_Pts_C,Brite
+52,4,02:12,BRA,79,77,substituicao_entra,Graterol
+53,4,02:12,BRA,79,77,substituicao_sai,Rafa Moreira
+54,4,02:12,CEA,79,77,FR,Brite
+55,4,02:12,BRA,79,77,FC,Rafa Moreira
+56,4,02:15,CEA,79,77,RD,Paulinho
+57,4,02:19,BRA,79,77,3_Pts_T,Nezinho
+58,4,02:33,CEA,79,77,LL_Pts_C,Paulinho
+59,4,02:33,CEA,79,76,LL_Pts_C,Paulinho
+60,4,02:33,CEA,79,75,LL_Pts_C,Paulinho
+61,4,02:33,BRA,79,74,substituicao_entra,Ronald
+62,4,02:33,BRA,79,74,substituicao_sai,Graterol
+63,4,02:33,CEA,79,74,FR,Paulinho
+64,4,02:33,BRA,79,74,FC,Arthur
+65,4,02:37,CEA,79,74,RD,Kurtz
+66,4,02:42,BRA,79,74,2_Pts_T,Graterol
+67,4,03:02,CEA,79,74,AS,Paulinho
+68,4,03:02,CEA,79,74,2_Pts_C,Kurtz
+69,4,03:12,CEA,79,72,RD,Basq  Cearense
+70,4,03:17,BRA,79,72,2_Pts_T,Graterol
+71,4,03:30,CEA,79,72,2_Pts_C,Kurtz
+72,4,03:31,CEA,79,70,RO,Kurtz
+73,4,03:33,CEA,79,70,LL_Pts_T,Felipe
+74,4,03:33,CEA,79,70,LL_Pts_T,Felipe
+75,4,03:33,BRA,79,70,substituicao_entra,Rafa Moreira
+76,4,03:33,BRA,79,70,substituicao_sai,Gui
+77,4,03:33,CEA,79,70,FR,Felipe
+78,4,03:33,BRA,79,70,FC,Gui
+79,4,03:52,CEA,79,70,RD,Felipe
+80,4,03:55,BRA,79,70,LL_Pts_T,Graterol
+81,4,03:55,BRA,79,70,LL_Pts_C,Graterol
+82,4,03:55,BRA,78,70,FR,Graterol
+83,4,03:55,CEA,78,70,FC,Kurtz
+84,4,04:14,CEA,78,70,2_Pts_C,Paulo
+85,4,04:30,BRA,78,68,LL_Pts_C,Zach Graham
+86,4,04:30,BRA,77,68,FR,Zach Graham
+87,4,04:30,CEA,77,68,FC,Paulo
+88,4,04:30,BRA,77,68,2_Pts_C,Zach Graham
+89,4,04:41,CEA,75,68,substituicao_entra,Brite
+90,4,04:41,CEA,75,68,substituicao_sai,Alex
+91,4,04:41,BRA,75,68,substituicao_entra,Arthur
+92,4,04:41,BRA,75,68,substituicao_sai,Ronald
+93,4,04:49,CEA,75,68,3_Pts_C,Felipe
+94,4,04:52,CEA,75,65,RO,Alex
+95,4,05:02,BRA,75,65,TO,Ronald
+96,4,05:02,CEA,75,65,2_Pts_T,Kurtz
+97,4,05:19,CEA,75,65,substituicao_entra,Paulinho
+98,4,05:19,CEA,75,65,substituicao_sai,Brite
+99,4,05:19,CEA,75,65,FR,Felipe
+100,4,05:19,BRA,75,65,ER,Ronald
+101,4,05:19,BRA,75,65,FC_O,Ronald
+102,4,05:38,CEA,75,65,LL_Pts_C,Brite
+103,4,05:38,CEA,75,64,LL_Pts_C,Brite
+104,4,05:38,CEA,75,63,FR,Brite
+105,4,05:38,BRA,75,63,FC,Gui
+106,4,05:48,CEA,75,63,tempo_tecnico,Basq  Cearense
+107,4,05:48,BRA,75,63,AS,Gui
+108,4,05:48,BRA,75,63,3_Pts_C,Zach Graham
+109,4,05:53,BRA,72,63,BR,Gui
+110,4,05:53,CEA,72,63,ER,Alex
+111,4,05:58,CEA,72,63,BR,Alex
+112,4,05:58,BRA,72,63,ER,Graterol
+113,4,05:59,BRA,72,63,RD,Graterol
+114,4,06:03,CEA,72,63,2_Pts_T,Kurtz
+115,4,06:16,BRA,72,63,2_Pts_C,Nezinho
+116,4,06:31,CEA,70,63,LL_Pts_C,Alex
+117,4,06:31,CEA,70,62,LL_Pts_C,Alex
+118,4,06:31,CEA,70,61,FR,Alex
+119,4,06:31,BRA,70,61,FC,Zach Graham
+120,4,06:50,BRA,70,61,LL_Pts_C,Graterol
+121,4,06:50,BRA,69,61,substituicao_entra,Gui
+122,4,06:50,BRA,69,61,substituicao_sai,Arthur
+123,4,06:50,BRA,69,61,FR,Graterol
+124,4,06:50,CEA,69,61,FC,Paulo
+125,4,06:50,BRA,69,61,AS,Nezinho
+126,4,06:50,BRA,69,61,2_Pts_C,Graterol
+127,4,07:05,CEA,67,61,substituicao_entra,Paulo
+128,4,07:05,CEA,67,61,substituicao_sai,Rashaun
+129,4,07:05,BRA,67,61,Caixa,Universo
+130,4,07:08,CEA,67,61,EN,Felipe
+131,4,07:13,CEA,67,59,BR,Felipe
+132,4,07:13,BRA,67,59,ER,Zach Graham
+133,4,07:18,BRA,67,59,RD,Zach Graham
+134,4,07:23,CEA,67,59,3_Pts_T,Rashaun
+135,4,07:36,BRA,67,59,ER,Arthur
+136,4,07:36,BRA,67,59,RD,Ronald
+137,4,07:42,CEA,67,59,2_Pts_T,Felipe
+138,4,07:53,BRA,67,59,ER,Nezinho
+139,4,08:03,CEA,67,59,EN,Kurtz
+140,4,08:03,CEA,67,57,RO,Kurtz
+141,4,08:05,CEA,67,57,2_Pts_T,Alex
+142,4,08:17,CEA,67,57,FR,Rashaun
+143,4,08:17,BRA,67,57,FC,Graterol
+144,4,08:17,CEA,67,57,BR,Rashaun
+145,4,08:17,BRA,67,57,ER,Arthur
+146,4,08:18,BRA,67,57,RO,Arthur
+147,4,08:24,BRA,67,57,3_Pts_T,Graterol
+148,4,08:37,BRA,67,57,FR,Graterol
+149,4,08:37,CEA,67,57,FC,Kurtz
+150,4,08:38,BRA,67,57,RO,Graterol
+151,4,08:42,BRA,67,57,2_Pts_T,Ronald
+152,4,09:03,BRA,67,57,substituicao_entra,Arthur
+153,4,09:03,BRA,67,57,substituicao_sai,Rafa Moreira
+154,4,09:04,CEA,67,57,LL_Pts_C,Rashaun
+155,4,09:04,CEA,67,56,LL_Pts_T,Rashaun
+156,4,09:04,CEA,67,56,FR,Rashaun
+157,4,09:04,BRA,67,56,FC,Rafa Moreira
+158,4,09:15,CEA,67,56,RD,Rashaun
+159,4,09:17,BRA,67,56,LL_Pts_T,Ronald
+160,4,09:17,BRA,67,56,FR,Ronald
+161,4,09:17,CEA,67,56,FC,Brite
+162,4,09:17,BRA,67,56,2_Pts_C,Ronald
+163,4,09:17,BRA,65,56,RO,Ronald
+164,4,09:17,BRA,65,56,2_Pts_T,Zach Graham
+165,4,09:19,BRA,65,56,Caixa,Universo
+166,4,09:22,BRA,65,56,2_Pts_T,Ronald
+167,4,09:23,BRA,65,56,RO,Ronald
+168,4,09:26,BRA,65,56,2_Pts_T,Zach Graham
+169,4,09:29,BRA,65,56,RD,Zach Graham
+170,4,09:33,CEA,65,56,3_Pts_T,Brite
+171,4,09:47,CEA,65,56,FR,Felipe
+172,4,09:47,BRA,65,56,FC,Ronald
+173,4,09:47,CEA,65,56,BR,Felipe
+174,4,09:47,BRA,65,56,ER,Rafa Moreira
+175,4,10:00,NaN,65,56,inicio_quarto,
+176,3,00:00,NaN,65,56,fim_quarto,
+177,3,00:18,CEA,65,56,RD,B  Fiorotto
+178,3,00:23,BRA,65,56,2_Pts_T,Nezinho
+179,3,00:27,BRA,65,56,BR,Graterol
+180,3,00:27,CEA,65,56,ER,Alex
+181,3,00:31,CEA,65,56,BR,B  Fiorotto
+182,3,00:31,BRA,65,56,ER,Zach Graham
+183,3,00:48,BRA,65,56,RD,Graterol
+184,3,00:51,CEA,65,56,LL_Pts_T,B  Fiorotto
+185,3,00:51,CEA,65,56,LL_Pts_C,B  Fiorotto
+186,3,00:51,CEA,65,55,substituicao_entra,Paulo
+187,3,00:51,CEA,65,55,substituicao_sai,Paulinho
+188,3,00:51,CEA,65,55,substituicao_entra,Léo W 
+189,3,00:51,CEA,65,55,substituicao_sai,Brite
+190,3,00:51,BRA,65,55,substituicao_entra,Graterol
+191,3,00:51,BRA,65,55,substituicao_sai,Ronald
+192,3,00:51,CEA,65,55,FR,B  Fiorotto
+193,3,00:51,BRA,65,55,FC,Ronald
+194,3,00:51,CEA,65,55,RD,B  Fiorotto
+195,3,00:53,BRA,65,55,3_Pts_T,Nezinho
+196,3,00:58,BRA,65,55,RD,Andrezão
+197,3,01:04,BRA,65,55,TO,Ronald
+198,3,01:04,CEA,65,55,2_Pts_T,Sualisson
+199,3,01:05,CEA,65,55,RO,Sualisson
+200,3,01:10,CEA,65,55,3_Pts_T,Paulinho
+201,3,01:24,BRA,65,55,substituicao_entra,Andrezão
+202,3,01:24,BRA,65,55,substituicao_sai,Gui
+203,3,01:26,BRA,65,55,LL_Pts_C,Nezinho
+204,3,01:26,BRA,64,55,LL_Pts_C,Nezinho
+205,3,01:26,BRA,63,55,FR,Nezinho
+206,3,01:26,CEA,63,55,FC,Paulinho
+207,3,01:39,CEA,63,55,AS,Paulinho
+208,3,01:39,CEA,63,55,2_Pts_C,B  Fiorotto
+209,3,01:52,BRA,63,53,2_Pts_C,Zach Graham
+210,3,02:06,BRA,61,53,substituicao_entra,Nezinho
+211,3,02:06,BRA,61,53,substituicao_sai,P  Rava
+212,3,02:14,CEA,61,53,2_Pts_C,Sualisson
+213,3,02:15,CEA,61,51,RO,Sualisson
+214,3,02:22,BRA,61,51,TO,Rafa Moreira
+215,3,02:22,CEA,61,51,2_Pts_T,Alex
+216,3,02:24,CEA,61,51,RD,Brite
+217,3,02:28,BRA,61,51,3_Pts_T,Rafa Moreira
+218,3,02:42,CEA,61,51,LL_Pts_C,Sualisson
+219,3,02:42,CEA,61,50,LL_Pts_C,Sualisson
+220,3,02:42,CEA,61,49,FR,Sualisson
+221,3,02:42,BRA,61,49,FC,Gui
+222,3,02:42,CEA,61,49,RO,Sualisson
+223,3,02:42,CEA,61,49,2_Pts_T,Sualisson
+224,3,02:42,CEA,61,49,RO,Sualisson
+225,3,02:43,CEA,61,49,3_Pts_T,Paulinho
+226,3,02:49,CEA,61,49,BR,Paulinho
+227,3,02:49,BRA,61,49,ER,Rafa Moreira
+228,3,03:01,CEA,61,49,substituicao_entra,B  Fiorotto
+229,3,03:01,CEA,61,49,substituicao_sai,Kurtz
+230,3,03:01,BRA,61,49,FR,Gui
+231,3,03:01,CEA,61,49,FC,Brite
+232,3,03:05,BRA,61,49,RO,Ronald
+233,3,03:10,BRA,61,49,3_Pts_T,Gui
+234,3,03:25,CEA,61,49,ER,Paulinho
+235,3,03:32,BRA,61,49,2_Pts_C,Gui
+236,3,03:39,BRA,59,49,FR,Zach Graham
+237,3,03:39,CEA,59,49,FC,Sualisson
+238,3,03:53,CEA,59,49,2_Pts_C,Paulinho
+239,3,03:55,CEA,59,47,RO,Paulinho
+240,3,03:59,CEA,59,47,3_Pts_T,Paulinho
+241,3,04:14,BRA,59,47,substituicao_entra,P  Rava
+242,3,04:14,BRA,59,47,substituicao_sai,Nezinho
+243,3,04:14,CEA,59,47,FR,Alex
+244,3,04:14,BRA,59,47,ER,Ronald
+245,3,04:14,BRA,59,47,FC_O,Ronald
+246,3,04:26,CEA,59,47,AS,Sualisson
+247,3,04:26,CEA,59,47,EN,Alex
+248,3,04:30,CEA,59,45,BR,Sualisson
+249,3,04:30,BRA,59,45,ER,Nezinho
+250,3,04:44,BRA,59,45,FR,Nezinho
+251,3,04:44,CEA,59,45,FC,Kurtz
+252,3,04:44,BRA,59,45,Caixa,Universo
+253,3,04:47,CEA,59,45,3_Pts_T,Brite
+254,3,05:02,BRA,59,45,substituicao_entra,Rafa Moreira
+255,3,05:02,BRA,59,45,substituicao_sai,Arthur
+256,3,05:02,CEA,59,45,FR,Kurtz
+257,3,05:02,BRA,59,45,FC,Arthur
+258,3,05:14,BRA,59,45,AS,Nezinho
+259,3,05:14,BRA,59,45,3_Pts_C,Gui
+260,3,05:27,CEA,56,45,substituicao_entra,Sualisson
+261,3,05:27,CEA,56,45,substituicao_sai,Rashaun
+262,3,05:27,CEA,56,45,substituicao_entra,Paulinho
+263,3,05:27,CEA,56,45,substituicao_sai,Paulo
+264,3,05:27,BRA,56,45,substituicao_entra,Ronald
+265,3,05:27,BRA,56,45,substituicao_sai,Graterol
+266,3,05:28,BRA,56,45,Caixa,Universo
+267,3,05:32,BRA,56,45,2_Pts_T,Arthur
+268,3,05:48,CEA,56,45,AS,Brite
+269,3,05:48,CEA,56,45,2_Pts_C,Alex
+270,3,06:07,BRA,56,43,2_Pts_C,Gui
+271,3,06:15,BRA,54,43,BR,Gui
+272,3,06:15,CEA,54,43,ER,Alex
+273,3,06:39,BRA,54,43,2_Pts_C,Zach Graham
+274,3,06:52,CEA,52,43,AS,Brite
+275,3,06:52,CEA,52,43,LL_Pts_C,Rashaun
+276,3,06:52,CEA,52,42,LL_Pts_T,Rashaun
+277,3,06:52,CEA,52,42,FR,Rashaun
+278,3,06:52,BRA,52,42,FC,Graterol
+279,3,06:58,CEA,52,42,BR,Brite
+280,3,06:58,BRA,52,42,ER,Nezinho
+281,3,07:02,BRA,52,42,RD,Graterol
+282,3,07:06,CEA,52,42,3_Pts_T,Rashaun
+283,3,07:21,CEA,52,42,BR,Brite
+284,3,07:21,BRA,52,42,ER,Gui
+285,3,07:22,BRA,52,42,RD,Gui
+286,3,07:27,CEA,52,42,3_Pts_T,Brite
+287,3,07:34,CEA,52,42,FR,Kurtz
+288,3,07:34,BRA,52,42,FC,Arthur
+289,3,07:46,BRA,52,42,LL_Pts_C,Nezinho
+290,3,07:46,BRA,51,42,LL_Pts_C,Nezinho
+291,3,07:46,BRA,50,42,LL_Pts_C,Nezinho
+292,3,07:46,CEA,49,42,ER,
+293,3,07:46,CEA,49,42,FC_T,Técnico do Basq  Cearense
+294,3,07:46,CEA,49,42,substituicao_entra,Paulo
+295,3,07:46,CEA,49,42,substituicao_sai,Felipe
+296,3,07:46,BRA,49,42,FR,Nezinho
+297,3,07:46,CEA,49,42,FC,Felipe
+298,3,08:03,CEA,49,42,3_Pts_C,Brite
+299,3,08:21,BRA,49,39,2_Pts_C,Arthur
+300,3,08:32,BRA,47,39,RD,Graterol
+301,3,08:37,CEA,47,39,2_Pts_T,Kurtz
+302,3,08:59,BRA,47,39,2_Pts_C,Graterol
+303,3,09:19,CEA,45,39,3_Pts_C,Brite
+304,3,09:26,CEA,45,36,RD,Kurtz
+305,3,09:32,BRA,45,36,3_Pts_T,Arthur
+306,3,09:39,BRA,45,36,RD,Graterol
+307,3,09:44,CEA,45,36,2_Pts_T,Kurtz
+308,3,10:00,NaN,45,36,inicio_quarto,
+309,2,00:00,NaN,45,36,fim_quarto,
+310,2,00:15,BRA,45,36,BR,Nezinho
+311,2,00:15,CEA,45,36,ER,Paulinho
+312,2,00:34,BRA,45,36,AS,Nezinho
+313,2,00:34,BRA,45,36,3_Pts_C,Arthur
+314,2,00:36,BRA,42,36,RD,Gui
+315,2,00:39,CEA,42,36,2_Pts_T,Sualisson
+316,2,00:42,CEA,42,36,RD,Paulo
+317,2,00:44,CEA,42,36,TO,Sualisson
+318,2,00:44,BRA,42,36,2_Pts_T,Arthur
+319,2,00:53,BRA,42,36,substituicao_entra,Nezinho
+320,2,00:53,BRA,42,36,substituicao_sai,P  Rava
+321,2,01:09,CEA,42,36,substituicao_entra,Paulo
+322,2,01:09,CEA,42,36,substituicao_sai,Alex
+323,2,01:09,CEA,42,36,LL_Pts_C,Alex
+324,2,01:09,CEA,42,35,LL_Pts_T,Alex
+325,2,01:09,BRA,42,35,substituicao_entra,Arthur
+326,2,01:09,BRA,42,35,substituicao_sai,Marcelão
+327,2,01:09,CEA,42,35,FR,Alex
+328,2,01:09,BRA,42,35,FC,Zach Graham
+329,2,01:22,CEA,42,35,RD,Basq  Cearense
+330,2,01:24,BRA,42,35,,
+331,2,01:38,BRA,42,35,FR,Ronald
+332,2,01:38,CEA,42,35,ER,Sualisson
+333,2,01:38,CEA,42,35,FC_O,Sualisson
+334,2,01:42,CEA,42,35,substituicao_entra,Sualisson
+335,2,01:42,CEA,42,35,substituicao_sai,Felipe
+336,2,01:42,CEA,42,35,FR,Felipe
+337,2,01:42,BRA,42,35,FC,Gui
+338,2,01:57,CEA,42,35,BR,Felipe
+339,2,01:57,BRA,42,35,ER,Zach Graham
+340,2,02:09,BRA,42,35,substituicao_entra,Marcelão
+341,2,02:09,BRA,42,35,substituicao_sai,Graterol
+342,2,02:09,BRA,42,35,substituicao_entra,P  Rava
+343,2,02:09,BRA,42,35,substituicao_sai,Nezinho
+344,2,02:09,CEA,42,35,ER,
+345,2,02:20,CEA,42,35,RO,Felipe
+346,2,02:24,CEA,42,35,3_Pts_T,Alex
+347,2,02:25,CEA,42,35,RD,Felipe
+348,2,02:29,BRA,42,35,2_Pts_T,Gui
+349,2,02:36,BRA,42,35,RD,Gui
+350,2,02:40,CEA,42,35,3_Pts_T,Brite
+351,2,02:48,BRA,42,35,AS,Graterol
+352,2,02:48,BRA,42,35,2_Pts_C,Gui
+353,2,03:01,BRA,40,35,RO,Graterol
+354,2,03:06,BRA,40,35,2_Pts_T,Ronald
+355,2,03:11,BRA,40,35,RD,Nezinho
+356,2,03:16,CEA,40,35,2_Pts_T,Brite
+357,2,03:26,CEA,40,35,RO,Basq  Cearense
+358,2,03:26,BRA,40,35,TO,Ronald
+359,2,03:26,CEA,40,35,2_Pts_T,Paulinho
+360,2,03:39,BRA,40,35,LL_Pts_C,Nezinho
+361,2,03:39,BRA,39,35,LL_Pts_C,Nezinho
+362,2,03:39,BRA,38,35,FR,Nezinho
+363,2,03:39,CEA,38,35,FC,Brite
+364,2,03:44,CEA,38,35,substituicao_entra,Paulinho
+365,2,03:44,CEA,38,35,substituicao_sai,Rashaun
+366,2,03:44,BRA,38,35,substituicao_entra,Gui
+367,2,03:44,BRA,38,35,substituicao_sai,Arthur
+368,2,03:46,CEA,38,35,ER,Kurtz
+369,2,03:46,CEA,38,35,RO,Kurtz
+370,2,03:46,CEA,38,35,,
+371,2,03:46,CEA,38,35,RO,Kurtz
+372,2,03:46,CEA,38,35,2_Pts_T,Brite
+373,2,04:07,BRA,38,35,AS,Nezinho
+374,2,04:07,BRA,38,35,2_Pts_C,Zach Graham
+375,2,04:29,CEA,36,35,AS,Brite
+376,2,04:29,CEA,36,35,EN,Kurtz
+377,2,04:35,CEA,36,33,RD,Brite
+378,2,04:40,BRA,36,33,2_Pts_T,Graterol
+379,2,04:48,BRA,36,33,RD,Ronald
+380,2,04:54,CEA,36,33,2_Pts_T,Rashaun
+381,2,05:10,BRA,36,33,3_Pts_C,Zach Graham
+382,2,05:32,BRA,33,33,RD,Arthur
+383,2,05:35,CEA,33,33,LL_Pts_T,Brite
+384,2,05:35,CEA,33,33,LL_Pts_C,Brite
+385,2,05:35,BRA,33,32,substituicao_entra,Ronald
+386,2,05:35,BRA,33,32,substituicao_sai,Rafa Moreira
+387,2,05:35,CEA,33,32,FR,Brite
+388,2,05:35,BRA,33,32,FC,Rafa Moreira
+389,2,05:53,CEA,33,32,RD,Kurtz
+390,2,05:58,BRA,33,32,3_Pts_T,Arthur
+391,2,06:07,BRA,33,32,LL_Pts_C,Nezinho
+392,2,06:07,BRA,32,32,LL_Pts_C,Nezinho
+393,2,06:07,CEA,31,32,substituicao_entra,Brite
+394,2,06:07,CEA,31,32,substituicao_sai,B  Fiorotto
+395,2,06:07,CEA,31,32,substituicao_entra,Felipe
+396,2,06:07,CEA,31,32,substituicao_sai,Sualisson
+397,2,06:07,CEA,31,32,substituicao_entra,Kurtz
+398,2,06:07,CEA,31,32,substituicao_sai,Paulinho
+399,2,06:07,BRA,31,32,FR,Nezinho
+400,2,06:07,CEA,31,32,FC_A,B  Fiorotto
+401,2,06:16,BRA,31,32,BR,Nezinho
+402,2,06:16,CEA,31,32,ER,B  Fiorotto
+403,2,06:34,BRA,31,32,AS,Arthur
+404,2,06:34,BRA,31,32,3_Pts_C,Rafa Moreira
+405,2,06:38,BRA,28,32,RD,Graterol
+406,2,06:42,CEA,28,32,2_Pts_T,Sualisson
+407,2,06:44,CEA,28,32,RO,B  Fiorotto
+408,2,06:48,CEA,28,32,2_Pts_T,Paulinho
+409,2,07:06,BRA,28,32,2_Pts_C,Arthur
+410,2,07:21,BRA,26,32,FR,Arthur
+411,2,07:21,CEA,26,32,FC,Alex
+412,2,07:21,BRA,26,32,RD,Arthur
+413,2,07:22,CEA,26,32,2_Pts_T,Alex
+414,2,07:33,CEA,26,32,tempo_tecnico,Basq  Cearense
+415,2,07:44,BRA,26,32,2_Pts_C,Nezinho
+416,2,07:48,BRA,24,32,RD,Arthur
+417,2,07:52,CEA,24,32,3_Pts_T,Alex
+418,2,08:14,BRA,24,32,ER,Nezinho
+419,2,08:18,CEA,24,32,substituicao_entra,Sualisson
+420,2,08:18,CEA,24,32,substituicao_sai,Felipe
+421,2,08:19,BRA,24,32,FR,Graterol
+422,2,08:19,CEA,24,32,FC,Felipe
+423,2,08:19,CEA,24,32,RO,Basq  Cearense
+424,2,08:19,CEA,24,32,2_Pts_T,B  Fiorotto
+425,2,08:40,BRA,24,32,AS,Nezinho
+426,2,08:40,BRA,24,32,3_Pts_C,Rafa Moreira
+427,2,08:51,CEA,21,32,ER,Paulinho
+428,2,08:57,CEA,21,32,BR,Alex
+429,2,08:57,BRA,21,32,ER,Nezinho
+430,2,08:59,BRA,21,32,RD,Nezinho
+431,2,09:02,CEA,21,32,3_Pts_T,Alex
+432,2,09:13,BRA,21,32,,
+433,2,09:25,CEA,21,32,,
+434,2,09:40,CEA,21,32,RD,Alex
+435,2,09:45,BRA,21,32,3_Pts_T,Nezinho
+436,2,10:00,NaN,21,32,inicio_quarto,
+437,1,00:00,NaN,21,32,fim_quarto,
+438,1,00:03,BRA,21,32,3_Pts_C,Nezinho
+439,1,00:03,BRA,18,32,substituicao_entra,Nezinho
+440,1,00:03,BRA,18,32,substituicao_sai,P  Rava
+441,1,00:08,BRA,18,32,RD,Arthur
+442,1,00:09,CEA,18,32,LL_Pts_T,Paulinho
+443,1,00:09,BRA,18,32,substituicao_entra,Arthur
+444,1,00:09,BRA,18,32,substituicao_sai,Marcelão
+445,1,00:09,BRA,18,32,substituicao_entra,Zach Graham
+446,1,00:09,BRA,18,32,substituicao_sai,Gui
+447,1,00:09,CEA,18,32,FR,Paulinho
+448,1,00:09,BRA,18,32,FC,P  Rava
+449,1,00:09,CEA,18,32,3_Pts_C,Paulinho
+450,1,00:27,CEA,18,29,RD,B  Fiorotto
+451,1,00:30,BRA,18,29,LL_Pts_T,Rafa Moreira
+452,1,00:30,BRA,18,29,LL_Pts_C,Rafa Moreira
+453,1,00:30,BRA,17,29,substituicao_entra,Gui
+454,1,00:30,BRA,17,29,substituicao_sai,Zach Graham
+455,1,00:30,BRA,17,29,FR,Rafa Moreira
+456,1,00:30,CEA,17,29,FC,Paulo
+457,1,00:38,BRA,17,29,RD,Marcelão
+458,1,00:43,CEA,17,29,2_Pts_T,Paulinho
+459,1,00:48,CEA,17,29,FR,Paulinho
+460,1,00:48,BRA,17,29,FC,Rafa Moreira
+461,1,01:14,BRA,17,29,AS,P  Rava
+462,1,01:14,BRA,17,29,3_Pts_C,Zach Graham
+463,1,01:30,CEA,14,29,substituicao_entra,Alex
+464,1,01:30,CEA,14,29,substituicao_sai,Rashaun
+465,1,01:30,BRA,14,29,FR,Marcelão
+466,1,01:30,CEA,14,29,FC,Paulinho
+467,1,01:30,BRA,14,29,RD,Marcelão
+468,1,01:32,CEA,14,29,2_Pts_T,Rashaun
+469,1,01:54,BRA,14,29,LL_Pts_C,Rafa Moreira
+470,1,01:54,BRA,13,29,LL_Pts_T,Rafa Moreira
+471,1,01:54,CEA,13,29,substituicao_entra,B  Fiorotto
+472,1,01:54,CEA,13,29,substituicao_sai,Kurtz
+473,1,01:54,BRA,13,29,substituicao_entra,Marcelão
+474,1,01:54,BRA,13,29,substituicao_sai,Graterol
+475,1,01:54,BRA,13,29,substituicao_entra,P  Rava
+476,1,01:54,BRA,13,29,substituicao_sai,Nezinho
+477,1,01:54,BRA,13,29,FR,Rafa Moreira
+478,1,01:54,CEA,13,29,FC,Kurtz
+479,1,02:14,BRA,13,29,FR,Nezinho
+480,1,02:14,CEA,13,29,ER,Rashaun
+481,1,02:14,CEA,13,29,FC_O,Rashaun
+482,1,02:27,BRA,13,29,2_Pts_C,Zach Graham
+483,1,02:35,CEA,11,29,AS,Kurtz
+484,1,02:35,CEA,11,29,3_Pts_C,Felipe
+485,1,02:35,CEA,11,26,substituicao_entra,Paulinho
+486,1,02:35,CEA,11,26,substituicao_sai,Brite
+487,1,02:35,BRA,11,26,substituicao_entra,Rafa Moreira
+488,1,02:35,BRA,11,26,substituicao_sai,Arthur
+489,1,02:35,CEA,11,26,FR,Paulo
+490,1,02:35,BRA,11,26,ER,Arthur
+491,1,02:35,BRA,11,26,FC_O,Arthur
+492,1,02:35,CEA,11,26,RD,Basq  Cearense
+493,1,02:35,BRA,11,26,3_Pts_T,Nezinho
+494,1,02:46,CEA,11,26,2_Pts_C,Rashaun
+495,1,03:02,BRA,11,24,2_Pts_C,Graterol
+496,1,03:04,BRA,9,24,RO,Graterol
+497,1,03:07,BRA,9,24,2_Pts_T,Ronald
+498,1,03:24,CEA,9,24,3_Pts_C,Brite
+499,1,03:38,BRA,9,21,2_Pts_C,Nezinho
+500,1,03:50,CEA,7,21,3_Pts_C,Felipe
+501,1,04:11,BRA,7,18,AS,Nezinho
+502,1,04:11,BRA,7,18,2_Pts_C,Graterol
+503,1,04:17,BRA,5,18,BR,Arthur
+504,1,04:17,CEA,5,18,ER,Kurtz
+505,1,04:23,CEA,5,18,RD,Brite
+506,1,04:32,BRA,5,18,2_Pts_T,Ronald
+507,1,04:38,BRA,5,18,Caixa,Universo
+508,1,04:43,CEA,5,18,AS,Felipe
+509,1,04:43,CEA,5,18,3_Pts_C,Rashaun
+510,1,04:47,CEA,5,15,FR,Brite
+511,1,04:47,BRA,5,15,FC,Nezinho
+512,1,04:57,CEA,5,15,RD,Felipe
+513,1,05:02,BRA,5,15,2_Pts_T,Ronald
+514,1,05:20,CEA,5,15,3_Pts_C,Brite
+515,1,05:24,BRA,5,12,substituicao_entra,Ronald
+516,1,05:24,BRA,5,12,substituicao_sai,Andrezão
+517,1,05:30,CEA,5,12,RD,Kurtz
+518,1,05:33,BRA,5,12,2_Pts_T,Andrezão
+519,1,05:54,CEA,5,12,3_Pts_C,Brite
+520,1,06:07,BRA,5,9,AS,Andrezão
+521,1,06:07,BRA,5,9,2_Pts_C,Graterol
+522,1,06:09,BRA,3,9,RD,Andrezão
+523,1,06:16,BRA,3,9,TO,Graterol
+524,1,06:16,CEA,3,9,2_Pts_T,Felipe
+525,1,06:42,BRA,3,9,AS,Nezinho
+526,1,06:42,BRA,3,9,3_Pts_C,Zach Graham
+527,1,07:02,CEA,0,9,AS,Rashaun
+528,1,07:02,CEA,0,9,3_Pts_C,Paulo
+529,1,07:12,CEA,0,6,RD,Rashaun
+530,1,07:15,BRA,0,6,3_Pts_T,Graterol
+531,1,07:17,BRA,0,6,RO,Graterol
+532,1,07:22,BRA,0,6,3_Pts_T,Andrezão
+533,1,07:32,BRA,0,6,RD,Graterol
+534,1,07:37,CEA,0,6,2_Pts_T,Kurtz
+535,1,07:58,CEA,0,6,RD,Basq  Cearense
+536,1,07:58,BRA,0,6,2_Pts_T,Zach Graham
+537,1,08:15,CEA,0,6,AS,Felipe
+538,1,08:15,CEA,0,6,2_Pts_C,Rashaun
+539,1,08:34,CEA,0,4,RD,Kurtz
+540,1,08:39,BRA,0,4,3_Pts_T,Andrezão
+541,1,08:46,BRA,0,4,FR,Nezinho
+542,1,08:46,CEA,0,4,FC,Felipe
+543,1,08:51,CEA,0,4,EN,Kurtz
+544,1,08:51,CEA,0,2,RO,Kurtz
+545,1,09:01,CEA,0,2,2_Pts_T,Brite
+546,1,09:06,CEA,0,2,RD,Kurtz
+547,1,09:10,BRA,0,2,3_Pts_T,Arthur
+548,1,09:17,BRA,0,2,Caixa,Universo
+549,1,09:20,BRA,0,2,3_Pts_T,Nezinho
+550,1,09:35,CEA,0,2,2_Pts_C,Kurtz
+551,1,09:36,CEA,0,0,RO,Kurtz
+552,1,09:43,CEA,0,0,2_Pts_T,Kurtz
+553,1,10:00,CEA,0,0,substituicao_entra,Kurtz
+554,1,10:00,CEA,0,0,substituicao_entra,Felipe
+555,1,10:00,CEA,0,0,substituicao_entra,Rashaun
+556,1,10:00,CEA,0,0,substituicao_entra,Paulo
+557,1,10:00,CEA,0,0,substituicao_entra,Brite
+558,1,10:00,BRA,0,0,substituicao_entra,Nezinho
+559,1,10:00,BRA,0,0,substituicao_entra,Andrezão
+560,1,10:00,BRA,0,0,substituicao_entra,Graterol
+561,1,10:00,BRA,0,0,substituicao_entra,Arthur
+562,1,10:00,BRA,0,0,substituicao_entra,Zach Graham
+563,1,10:00,NaN,0,0,inicio_partida,

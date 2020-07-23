@@ -7,9 +7,9 @@ import requests
 from selenium.common.exceptions import NoSuchElementException
 import io
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=27&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
-# teste
+
 
 def get_links_from(soup):
     links = []
@@ -19,9 +19,57 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
-#######################################################################################################################
-ii = 0
 
+ano = 15
+# erro em são jose_74x95_pinheiros
+del(list_inoutControl[15])
+# erro en são josé_71_x76_caxias do sul
+del(list_inoutControl[21])
+# erro em são josé_88x82_rio claro
+del(list_inoutControl[24])
+# erro em paulistano_88x100_brasilia 237
+del(list_inoutControl[233])
+# erro em rio claro_63x72_bauru
+del(list_inoutControl[39])
+#  erro em brasilia_85x94_flamengo
+del(list_inoutControl[75])
+# erro em brasília_83x73_são josé
+del(list_inoutControl[114])
+# erro em franca_71x79_brasilia
+del(list_inoutControl[122])
+# erro em Minas_76x82_paulistano
+del(list_inoutControl[156])
+# erro me cearence_77x71_franca
+del(list_inoutControl[168])
+
+del(list_inoutControl[:167])
+print(list_inoutControl)
+'''
+ano = 16
+# jogo do pinheiros_x_vitória não aparece as estatísticas do jogo
+del(list_inoutControl[1])
+# jogo do flamengo_75x78_pinheiros não aparece as estatísticas do jogo 244
+# alem disso a lista sai errado e tira mais dois jogos --> mogi_85x95_vitória e franca_67x80_paulistano
+del(list_inoutControl[243:246])
+# erro em minas_83x63_caxias do sul
+del(list_inoutControl[1])
+# campo mourão_74x92_paulistano
+del(list_inoutControl[49])
+# erro em paulistano_82x49_caxias o sul
+del(list_inoutControl[66])
+del(list_inoutControl[:78])
+
+ano = 17
+# joinville _81x91_flamengo
+del(list_inoutControl[135])
+
+ano = 19
+# erro em mogi_91x84_Minas
+del(list_inoutControl[85])
+'''
+#######################################################################################################################
+
+ii = 168
 
 for i in list_inoutControl:
 
@@ -55,6 +103,19 @@ for i in list_inoutControl:
         # passa para outra parte pegando nome e indicador que depois precisa fazer a separação
         items01 = soup.find_all(class_='move_action_content_text')
         acao_pessoa02 = [nome_acao_pessoa02.find("p", class_='').get_text() for nome_acao_pessoa02 in items01]
+
+        r1 = requests.get(f'{i}')
+        soup01 = BeautifulSoup(r1.content, 'html.parser')
+
+        informacoes_1 = soup01.find_all("div", class_="float-left text-right")
+        informacoes_2 = soup01.find_all("div", class_="float-right text-left")
+
+        nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
+        nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
+
+        # acontece erro por conta de nomes com siglas ai eu preciso substituir
+        nome_casa = nome_casa.replace('/', ' ')
+        nome_fora = nome_fora.replace('/', ' ')
 
         dados = pd.DataFrame(
             {'Quarto': quarto,
@@ -119,60 +180,66 @@ for i in list_inoutControl:
         ####################################################################################################
         # esses são os valores que estão os indicadores
         a11 = a10.str.replace('É de três  ', '')
-        a12 = a11.str.replace(' acerta arremesso de três pontos', '/3_Pts_C;1')
-        a13 = a12.str.replace(' erra tentativa para três pontos', '/3_Pts_T;1')
+        a12 = a11.str.replace(' acerta arremesso de três pontos ', '/3_Pts_C;1')
+        a13 = a12.str.replace(' erra tentativa para três pontos ', '/3_Pts_T;1')
         # lance livre
-        a14 = a13.str.replace(' acerta o lance livre', '/LL_Pts_C;1')
-        a15 = a14.str.replace(' erra o lance livre', '/LL_Pts_T;1')
+        a14 = a13.str.replace(' acerta o lance livre ', '/LL_Pts_C;1')
+        a15 = a14.str.replace(' erra o lance livre ', '/LL_Pts_T;1')
         # Dois pontos
-        a16 = a15.str.replace(' acerta arremesso de dois pontos', '/2_Pts_C;1')
-        a17 = a16.str.replace(' erra tentativa para dois pontos', '/2_Pts_T;1')
+        a16 = a15.str.replace(' acerta arremesso de dois pontos ', '/2_Pts_C;1')
+        a17 = a16.str.replace(' erra tentativa para dois pontos ', '/2_Pts_T;1')
         # rebotes
         a18 = a17.str.replace(' pega rebote defensivo', '/RD;1')
         a19 = a18.str.replace(' pega rebote ofensivo', '/RO;1')
         # recuperação de bola
-        a20 = a19.str.replace(' recupera a bola', '/BR;1')
+        a20 = a19.str.replace(' recupera a bola ', '/BR;1')
         # assistencia
-        a21 = a20.str.replace('Assistência do ', '/AS;')
+        a21 = a20.str.replace(' Assistência do ', '/AS;')
         # faltas recebidas
-        a22 = a21.str.replace(' sofre falta', '/FR;1')
+        a22 = a21.str.replace(' sofre falta ', '/FR;1')
         # faltas cometidas
-        a23 = a22.str.replace(' comete falta técnica', '/FC_T;1')
-        a24 = a23.str.replace(' comete falta antidesportiva', '/FC_A;1')
-        a25 = a24.str.replace(' comete falta ofensiva', '/FC_O;1')
-        a26 = a25.str.replace(' comete falta', '/FC;1')
+        a23 = a22.str.replace(' comete falta técnica ', '/FC_T;1')
+        a24 = a23.str.replace(' comete falta antidesportiva ', '/FC_A;1')
+        a25 = a24.str.replace(' comete falta ofensiva ', '/FC_O;1')
+        a26 = a25.str.replace(' comete falta ', '/FC;1')
         # substituição
         a27 = a26.str.replace('Entra ', '/substituicao_entra;')
         a28 = a27.str.replace('Sai ', '/substituicao_sai;')
         # erros
-        a29 = a28.str.replace(' perde posse de bola', '/ER;1')
-        a30 = a29.str.replace('Estouro dos 24s', '/ER;1')
-        a31 = a30.str.replace(' andou com a bola', '/ER;1')
-        a32 = a31.str.replace(' comete violação de saída de quadra', '/ER;1')
+        a29 = a28.str.replace(' perde posse de bola ', '/ER;1')
+        a30 = a29.str.replace('Estouro dos 24s ', '/ER;1')
+        a31 = a30.str.replace(' andou com a bola ', '/ER;1')
+        a32 = a31.str.replace(' comete violação de saída de quadra ', '/ER;1')
         # tocos
-        a33 = a32.str.replace(' dá um toco', '/TO;1')
+        a33 = a32.str.replace(' dá um toco ', '/TO;1')
         # tempo técnico
         a34 = a33.str.replace('Técnico da equipe ', '')
         a35 = a34.str.replace(' pede tempo ', '/tempo_tecnico;')
         # cravada
-        a36 = a35.str.replace('Cravada ', '')
-        a37 = a36.str.replace(' acerta enterrada', '/EN;1')
+        a36 = a35.str.replace(' Cravada ', '')
+        a37 = a36.str.replace(' acerta enterrada ', '/EN;1')
 
         # primeira separação é coloco na ordem dos nomes e depois indicadores
         # o ; é para fazer a primeira separação
-        # 1 é para conter um valor apenas, pois quando separo e junto, caso não tenha um valor, o resultado retira os valores
+        # 1 é para conter um valor apenas, pois quando separo e junto, caso não tenha um valor, o resultado retira
+        # os valores
         mudados_00 = a37.str.split(';')
         mudados_01 = mudados_00.str.get(1)
         mudados_02 = mudados_00.str.get(0)
 
-        alinhados = mudados_01 + mudados_02
+        # outra forma de tirar o (% de algo)
+        mudados_03 = mudados_01.str.split('(')
+        mudados_04 = mudados_03.str.get(0)
+
+        alinhados = mudados_04 + mudados_02
         # agora que juntou e alinhou os nomes
         # organizar novamente
         alinhados_01 = alinhados.str.split('/')
         alinhados_02 = alinhados_01.str.get(0)
         alinhados_03 = alinhados_01.str.get(1)
 
-        # depois de separado vamos organizar por nomes e retirar os valores que ajudaram na primeira separação, como 1 e espaço
+        # depois de separado vamos organizar por nomes e retirar os valores que ajudaram na primeira separação,
+        # como 1 e espaço
 
         alinhados_04 = alinhados_02.str.replace('1 ', '')
         alinhados_05 = alinhados_04.str.replace(' 1', '')
@@ -180,8 +247,22 @@ for i in list_inoutControl:
         dados["Indicador"] = alinhados_03
         dados["Nomes"] = alinhados_05
         dados.drop('Indicador_01', axis=1, inplace=True)
+
     else:
         html_content = element.get_attribute('outerHTML')
+
+        r1 = requests.get(f'{i}')
+        soup01 = BeautifulSoup(r1.content, 'html.parser')
+
+        informacoes_1 = soup01.find_all("div", class_="score_header large-12 small-12 medium-12 columns")
+        informacoes_2 = soup01.find_all("div", class_="float-right text-left score_header_right")
+
+        nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
+        nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
+
+        # acontece erro por conta de nomes com siglas ai eu preciso substituir
+        nome_casa = nome_casa.replace('/', ' ')
+        nome_fora = nome_fora.replace('/', ' ')
 
         # passear o conteúdo em HTML
         soup = BeautifulSoup(html_content, 'html.parser')
@@ -234,7 +315,7 @@ for i in list_inoutControl:
 
         # fora revisados os dados na primeira planilha. eu sei que está certo uma olhada pq
         # os dados apresentam padrão na escrita
-        ########################################################################################################################
+        ###########################################################################################################
         # três pontos
         a10 = a9.str.replace("Tentativa para três pontos ", "3_Pts_T;")
         a11 = a10.str.replace('É DE TRÊS  É de três  ', '3_Pts_C;')
@@ -303,6 +384,7 @@ for i in list_inoutControl:
         Indicador = separar_01.str.get(0)
         dados['Indicador'] = Indicador
         inf_02 = separar_01.str.get(1)
+        print(inf_02)
 
         teste = inf_02.str.translate({ord(c): "," for c in "("})
 
@@ -311,7 +393,9 @@ for i in list_inoutControl:
         dados['Nomes'] = teste3
         dados.drop('mudados', axis=1, inplace=True)
 
-    dados.to_csv(f"./Dados01/tabela_{ii}.csv", index=None)
+    dados.to_csv("Dados01/temporada 2015/" + "tabela_" + f"{ii}" + "_" + nome_casa + "_x_" + nome_fora + ".csv")
+    nome_inf_coluna = nome_casa + "_x_" + nome_fora
+    print(nome_inf_coluna)
 
     ii = ii + 1
     driver.quit()

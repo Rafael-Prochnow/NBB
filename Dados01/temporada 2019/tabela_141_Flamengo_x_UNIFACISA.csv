@@ -1,0 +1,514 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,83,77,fim_partida,
+1,4,00:00,NaN,83,77,fim_quarto, 
+2,4,00:05,FLA,83,77,FR,Léo Demétrio
+3,4,00:05,UFC,83,77,FC,D  Nunes
+4,4,00:17,FLA,83,77,substituicao_entra,Marquinhos
+5,4,00:17,FLA,83,77,substituicao_entra,Balbi
+6,4,00:17,FLA,83,77,substituicao_sai,Mineiro
+7,4,00:17,FLA,83,77,substituicao_sai,Jhonatan
+8,4,00:17,FLA,83,77,FR,Barrera
+9,4,00:17,UFC,83,77,FC,D  Nunes
+10,4,00:17,FLA,83,77,RD,Barrera
+11,4,00:17,UFC,83,77,3_Pts_T,Gemerson
+12,4,00:32,FLA,83,77,substituicao_entra,Barrera
+13,4,00:32,FLA,83,77,substituicao_entra,Jhonatan
+14,4,00:32,FLA,83,77,substituicao_sai,Marquinhos
+15,4,00:32,FLA,83,77,substituicao_sai,Balbi
+16,4,00:32,UFC,83,77,tempo_tecnico,UNIFACISA
+17,4,00:32,FLA,83,77,3_Pts_C,Balbi
+18,4,00:52,FLA,80,77,RD,Mineiro
+19,4,00:55,UFC,80,77,3_Pts_T,D  Nunes
+20,4,01:13,FLA,80,77,substituicao_entra,Léo Demétrio
+21,4,01:13,FLA,80,77,substituicao_sai,Jhonatan
+22,4,01:13,FLA,80,77,ER,Marquinhos
+23,4,01:18,FLA,80,77,RO,Flamengo
+24,4,01:21,FLA,80,77,3_Pts_T,Jhonatan
+25,4,01:35,FLA,80,77,substituicao_entra,Jhonatan
+26,4,01:35,FLA,80,77,substituicao_sai,Léo Demétrio
+27,4,01:35,UFC,80,77,LL_Pts_C,Gemerson
+28,4,01:35,UFC,80,76,LL_Pts_C,Gemerson
+29,4,01:35,FLA,80,75,substituicao_entra,Zach Graham
+30,4,01:35,FLA,80,75,substituicao_sai,Barrera
+31,4,01:35,UFC,80,75,FR,Gemerson
+32,4,01:35,FLA,80,75,FC,Marquinhos
+33,4,01:54,FLA,80,75,2_Pts_C,Balbi
+34,4,02:07,UFC,78,75,AS,Pepo Vidal
+35,4,02:07,UFC,78,75,3_Pts_C,Miller
+36,4,02:19,FLA,78,72,substituicao_entra,Barrera
+37,4,02:19,FLA,78,72,substituicao_sai,Zach Graham
+38,4,02:19,FLA,78,72,LL_Pts_C,Marquinhos
+39,4,02:19,FLA,77,72,LL_Pts_C,Marquinhos
+40,4,02:19,FLA,76,72,FR,Marquinhos
+41,4,02:19,UFC,76,72,FC,Dixson
+42,4,02:38,UFC,76,72,AS,Pepo Vidal
+43,4,02:38,UFC,76,72,3_Pts_C,D  Nunes
+44,4,02:49,UFC,76,69,RD,Gemerson
+45,4,02:55,FLA,76,69,2_Pts_T,Mineiro
+46,4,03:08,UFC,76,69,substituicao_sai,João Vitor
+47,4,03:08,UFC,76,69,substituicao_entra,Dixson
+48,4,03:08,UFC,76,69,substituicao_sai,João Vitor
+49,4,03:08,FLA,76,69,tempo_tecnico,Flamengo
+50,4,03:08,FLA,76,69,substituicao_entra,Marquinhos
+51,4,03:08,FLA,76,69,substituicao_sai,Barrera
+52,4,03:08,UFC,76,69,substituicao_entra,D  Nunes
+53,4,03:19,FLA,76,69,RD,Zach Graham
+54,4,03:22,UFC,76,69,3_Pts_T,Gemerson
+55,4,03:35,UFC,76,69,RD,Gemerson
+56,4,03:38,FLA,76,69,2_Pts_T,Barrera
+57,4,03:40,FLA,76,69,RD,Barrera
+58,4,03:45,UFC,76,69,2_Pts_T,Pepo Vidal
+59,4,03:56,UFC,76,69,RD,João Vitor
+60,4,03:59,FLA,76,69,3_Pts_T,Balbi
+61,4,04:24,UFC,76,69,AS,Pepo Vidal
+62,4,04:24,UFC,76,69,3_Pts_C,Miller
+63,4,04:39,FLA,76,66,AS,Balbi
+64,4,04:39,FLA,76,66,2_Pts_C,Mineiro
+65,4,04:59,FLA,74,66,substituicao_entra,Balbi
+66,4,04:59,FLA,74,66,substituicao_sai,Jhonatan
+67,4,04:59,UFC,74,66,ER,Gemerson
+68,4,05:10,UFC,74,66,substituicao_entra,Miller
+69,4,05:10,UFC,74,66,substituicao_sai,Gabriel
+70,4,05:10,FLA,74,66,substituicao_entra,Barrera
+71,4,05:10,FLA,74,66,substituicao_sai,Balbi
+72,4,05:10,UFC,74,66,tempo_tecnico,UNIFACISA
+73,4,05:10,FLA,74,66,AS,Zach Graham
+74,4,05:10,FLA,74,66,2_Pts_C,Jhonatan
+75,4,05:14,FLA,72,66,RD,Zach Graham
+76,4,05:17,UFC,72,66,2_Pts_T,Dixson
+77,4,05:39,FLA,72,66,AS,Balbi
+78,4,05:39,FLA,72,66,3_Pts_C,Jhonatan
+79,4,05:44,FLA,69,66,RO,Jhonatan
+80,4,05:46,FLA,69,66,3_Pts_T,Zach Graham
+81,4,06:06,UFC,69,66,AS,Gemerson
+82,4,06:06,UFC,69,66,3_Pts_C,Dixson
+83,4,06:25,FLA,69,63,AS,Jhonatan
+84,4,06:25,FLA,69,63,2_Pts_C,Zach Graham
+85,4,06:46,UFC,67,63,ER,Pepo Vidal
+86,4,06:48,UFC,67,63,LL_Pts_C,Gemerson
+87,4,06:48,FLA,67,62,substituicao_entra,Jhonatan
+88,4,06:48,FLA,67,62,substituicao_sai,Barrera
+89,4,06:48,FLA,67,62,FC_T,Balbi
+90,4,06:48,UFC,67,62,FR,Dixson
+91,4,06:48,FLA,67,62,FC,Balbi
+92,4,07:00,FLA,67,62,3_Pts_C,Zach Graham
+93,4,07:19,UFC,64,62,2_Pts_C,Pepo Vidal
+94,4,07:38,FLA,64,60,AS,Zach Graham
+95,4,07:38,FLA,64,60,2_Pts_C,Barrera
+96,4,07:54,UFC,62,60,LL_Pts_C,Dixson
+97,4,07:54,UFC,62,59,LL_Pts_C,Dixson
+98,4,07:54,UFC,62,58,substituicao_entra,João Vitor
+99,4,07:54,UFC,62,58,substituicao_sai,D  Nunes
+100,4,07:54,FLA,62,58,substituicao_entra,Zach Graham
+101,4,07:54,FLA,62,58,substituicao_sai,Marquinhos
+102,4,07:54,UFC,62,58,FR,Dixson
+103,4,07:54,FLA,62,58,FC,Marquinhos
+104,4,07:56,UFC,62,58,RD,Gemerson
+105,4,08:00,FLA,62,58,2_Pts_T,Barrera
+106,4,08:20,FLA,62,58,RD,Marquinhos
+107,4,08:22,UFC,62,58,3_Pts_T,Pepo Vidal
+108,4,08:38,UFC,62,58,FR,Pepo Vidal
+109,4,08:38,FLA,62,58,FC,Barrera
+110,4,08:48,UFC,62,58,substituicao_entra,Dixson
+111,4,08:48,UFC,62,58,substituicao_entra,Gemerson
+112,4,08:48,UFC,62,58,substituicao_entra,Pepo Vidal
+113,4,08:48,UFC,62,58,substituicao_sai,Gemadinha
+114,4,08:48,UFC,62,58,substituicao_sai,Miller
+115,4,08:48,UFC,62,58,substituicao_sai,Antonio
+116,4,08:48,UFC,62,58,tempo_tecnico,UNIFACISA
+117,4,08:48,FLA,62,58,AS,Marquinhos
+118,4,08:48,FLA,62,58,3_Pts_C,Balbi
+119,4,09:01,FLA,59,58,BR,Léo Demétrio
+120,4,09:01,UFC,59,58,ER,Miller
+121,4,09:27,FLA,59,58,AS,Marquinhos
+122,4,09:27,FLA,59,58,3_Pts_C,Léo Demétrio
+123,4,09:41,FLA,56,58,LL_Pts_C,Barrera
+124,4,09:41,FLA,55,58,LL_Pts_T,Barrera
+125,4,09:41,FLA,55,58,FR,Barrera
+126,4,09:41,UFC,55,58,ER,Gemadinha
+127,4,09:41,UFC,55,58,FC_A,Gemadinha
+128,4,09:41,UFC,55,58,FR,Gemadinha
+129,4,09:41,FLA,55,58,FC,Barrera
+130,4,09:45,UFC,55,58,RD,UNIFACISA
+131,4,09:48,FLA,55,58,3_Pts_T,Marquinhos
+132,4,10:00,NaN,55,58,inicio_quarto,
+133,3,00:00,NaN,55,58,fim_quarto,
+134,3,00:01,UFC,55,58,3_Pts_T,Gemadinha
+135,3,00:03,UFC,55,58,RD,D  Nunes
+136,3,00:03,FLA,55,58,3_Pts_T,Barrera
+137,3,00:18,UFC,55,58,2_Pts_C,Miller
+138,3,00:41,FLA,55,56,substituicao_entra,Jhonatan
+139,3,00:41,FLA,55,56,substituicao_sai,Marquinhos
+140,3,00:41,FLA,55,56,LL_Pts_C,Balbi
+141,3,00:41,FLA,54,56,LL_Pts_C,Balbi
+142,3,00:41,FLA,53,56,FR,Balbi
+143,3,00:41,UFC,53,56,FC,Gemadinha
+144,3,00:45,FLA,53,56,BR,Balbi
+145,3,00:45,UFC,53,56,ER,Gemadinha
+146,3,00:58,FLA,53,56,AS,Marquinhos
+147,3,00:58,FLA,53,56,3_Pts_C,Léo Demétrio
+148,3,01:24,FLA,50,56,substituicao_entra,Léo Demétrio
+149,3,01:24,FLA,50,56,substituicao_entra,Balbi
+150,3,01:24,FLA,50,56,substituicao_sai,Zach Graham
+151,3,01:24,FLA,50,56,substituicao_sai,Olivinha
+152,3,01:24,UFC,50,56,LL_Pts_C,Miller
+153,3,01:24,UFC,50,55,LL_Pts_C,Miller
+154,3,01:24,UFC,50,54,substituicao_entra,Gemadinha
+155,3,01:24,UFC,50,54,substituicao_sai,Pepo Vidal
+156,3,01:24,UFC,50,54,FR,Miller
+157,3,01:24,FLA,50,54,FC,Mineiro
+158,3,01:28,UFC,50,54,BR,Miller
+159,3,01:28,FLA,50,54,ER,Marquinhos
+160,3,01:31,FLA,50,54,RO,Zach Graham
+161,3,01:35,FLA,50,54,2_Pts_T,Olivinha
+162,3,01:44,FLA,50,54,RO,Flamengo
+163,3,01:46,FLA,50,54,3_Pts_T,Zach Graham
+164,3,02:04,UFC,50,54,ER,Gabriel
+165,3,02:12,FLA,50,54,LL_Pts_C,Barrera
+166,3,02:12,FLA,49,54,LL_Pts_C,Barrera
+167,3,02:12,UFC,48,54,substituicao_entra,Gabriel
+168,3,02:12,UFC,48,54,substituicao_sai,Dixson
+169,3,02:12,FLA,48,54,FR,Barrera
+170,3,02:12,UFC,48,54,FC,Dixson
+171,3,02:19,FLA,48,54,RO,Mineiro
+172,3,02:22,FLA,48,54,2_Pts_T,Olivinha
+173,3,02:42,UFC,48,54,LL_Pts_C,D  Nunes
+174,3,02:42,FLA,48,53,substituicao_entra,Mineiro
+175,3,02:42,FLA,48,53,substituicao_sai,Vargas
+176,3,02:42,UFC,48,53,FR,D  Nunes
+177,3,02:42,FLA,48,53,FC,Vargas
+178,3,02:42,UFC,48,53,AS,Pepo Vidal
+179,3,02:42,UFC,48,53,2_Pts_C,D  Nunes
+180,3,03:01,UFC,48,51,RD,D  Nunes
+181,3,03:01,FLA,48,51,LL_Pts_T,Olivinha
+182,3,03:01,FLA,48,51,LL_Pts_C,Olivinha
+183,3,03:01,FLA,47,51,substituicao_entra,Marquinhos
+184,3,03:01,FLA,47,51,substituicao_sai,Balbi
+185,3,03:01,FLA,47,51,FR,Olivinha
+186,3,03:01,UFC,47,51,FC,Antonio
+187,3,03:15,UFC,47,51,AS,Pepo Vidal
+188,3,03:15,UFC,47,51,2_Pts_C,Antonio
+189,3,03:34,UFC,47,49,substituicao_entra,Antonio
+190,3,03:34,UFC,47,49,substituicao_sai,Gemerson
+191,3,03:34,FLA,47,49,ER,Olivinha
+192,3,03:55,FLA,47,49,RD,Vargas
+193,3,03:55,UFC,47,49,LL_Pts_T,Gemerson
+194,3,03:55,UFC,47,49,LL_Pts_C,Gemerson
+195,3,03:55,UFC,47,48,FR,Gemerson
+196,3,03:55,FLA,47,48,FC,Olivinha
+197,3,04:05,FLA,47,48,AS,Olivinha
+198,3,04:05,FLA,47,48,3_Pts_C,Zach Graham
+199,3,04:29,FLA,44,48,FR,Zach Graham
+200,3,04:29,UFC,44,48,FC,Pepo Vidal
+201,3,04:32,FLA,44,48,BR,Zach Graham
+202,3,04:32,UFC,44,48,ER,Miller
+203,3,04:37,UFC,44,48,RD,Miller
+204,3,04:40,FLA,44,48,2_Pts_T,Vargas
+205,3,04:52,UFC,44,48,LL_Pts_C,Gemerson
+206,3,04:52,UFC,44,47,LL_Pts_C,Gemerson
+207,3,04:52,UFC,44,46,FR,Gemerson
+208,3,04:52,FLA,44,46,FC,Olivinha
+209,3,05:12,UFC,44,46,RD,Gemerson
+210,3,05:12,FLA,44,46,,
+211,3,05:19,FLA,44,46,RD,Vargas
+212,3,05:22,UFC,44,46,2_Pts_T,Miller
+213,3,05:37,UFC,44,46,RD,Gemerson
+214,3,05:37,FLA,44,46,LL_Pts_T,Vargas
+215,3,05:37,FLA,44,46,LL_Pts_C,Vargas
+216,3,05:37,UFC,43,46,substituicao_entra,D  Nunes
+217,3,05:37,UFC,43,46,substituicao_sai,João Vitor
+218,3,05:37,FLA,43,46,substituicao_entra,Barrera
+219,3,05:37,FLA,43,46,substituicao_entra,Olivinha
+220,3,05:37,FLA,43,46,substituicao_sai,Léo Demétrio
+221,3,05:37,FLA,43,46,substituicao_sai,Marquinhos
+222,3,05:37,FLA,43,46,FR,Vargas
+223,3,05:37,UFC,43,46,FC,João Vitor
+224,3,05:46,FLA,43,46,RD,Léo Demétrio
+225,3,05:49,UFC,43,46,3_Pts_T,Miller
+226,3,05:57,UFC,43,46,RD,Dixson
+227,3,06:03,FLA,43,46,3_Pts_T,Léo Demétrio
+228,3,06:14,UFC,43,46,AS,João Vitor
+229,3,06:14,UFC,43,46,2_Pts_C,Miller
+230,3,06:19,UFC,43,44,BR,Pepo Vidal
+231,3,06:19,FLA,43,44,ER,Marquinhos
+232,3,06:23,FLA,43,44,RD,Marquinhos
+233,3,06:26,UFC,43,44,3_Pts_T,Miller
+234,3,06:27,UFC,43,44,RD,UNIFACISA
+235,3,06:27,UFC,43,44,TO,João Vitor
+236,3,06:27,FLA,43,44,2_Pts_T,Vargas
+237,3,06:48,UFC,43,44,LL_Pts_C,Miller
+238,3,06:48,UFC,43,43,LL_Pts_C,Miller
+239,3,06:48,UFC,43,42,FR,Miller
+240,3,06:48,FLA,43,42,FC,Zach Graham
+241,3,07:08,FLA,43,42,2_Pts_C,Vargas
+242,3,07:16,UFC,41,42,LL_Pts_C,Dixson
+243,3,07:16,UFC,41,41,LL_Pts_C,Dixson
+244,3,07:16,UFC,41,40,FR,Dixson
+245,3,07:16,FLA,41,40,FC,Vargas
+246,3,07:33,FLA,41,40,AS,Marquinhos
+247,3,07:33,FLA,41,40,EN,Vargas
+248,3,07:35,FLA,39,40,RO,Léo Demétrio
+249,3,07:38,FLA,39,40,3_Pts_T,Marquinhos
+250,3,07:49,FLA,39,40,substituicao_entra,Vargas
+251,3,07:49,FLA,39,40,substituicao_sai,Mineiro
+252,3,07:49,FLA,39,40,RD,Flamengo
+253,3,07:52,UFC,39,40,3_Pts_T,Gemerson
+254,3,08:04,UFC,39,40,FR,Dixson
+255,3,08:04,FLA,39,40,ER,Zach Graham
+256,3,08:04,FLA,39,40,FC_O,Zach Graham
+257,3,08:08,UFC,39,40,AS,Pepo Vidal
+258,3,08:08,UFC,39,40,2_Pts_C,João Vitor
+259,3,08:10,UFC,39,38,RD,Pepo Vidal
+260,3,08:14,UFC,39,38,TO,João Vitor
+261,3,08:14,FLA,39,38,2_Pts_T,Zach Graham
+262,3,08:28,UFC,39,38,LL_Pts_C,Gemerson
+263,3,08:28,UFC,39,37,LL_Pts_T,Gemerson
+264,3,08:28,UFC,39,37,FR,Gemerson
+265,3,08:28,FLA,39,37,FC,Léo Demétrio
+266,3,08:28,UFC,39,37,RO,Gemerson
+267,3,08:28,UFC,39,37,3_Pts_T,Dixson
+268,3,08:38,FLA,39,37,LL_Pts_C,Léo Demétrio
+269,3,08:38,FLA,38,37,LL_Pts_T,Léo Demétrio
+270,3,08:38,FLA,38,37,FR,Léo Demétrio
+271,3,08:38,UFC,38,37,FC,João Vitor
+272,3,08:45,FLA,38,37,BR,Marquinhos
+273,3,08:45,UFC,38,37,ER,Dixson
+274,3,08:53,UFC,38,37,FR,Gemerson
+275,3,08:53,FLA,38,37,FC,Léo Demétrio
+276,3,08:59,UFC,38,37,RD,João Vitor
+277,3,09:02,FLA,38,37,3_Pts_T,Balbi
+278,3,09:14,FLA,38,37,RD,Marquinhos
+279,3,09:17,UFC,38,37,3_Pts_T,Pepo Vidal
+280,3,09:40,FLA,38,37,LL_Pts_C,Balbi
+281,3,09:40,FLA,37,37,LL_Pts_C,Balbi
+282,3,09:40,FLA,36,37,FR,Balbi
+283,3,09:40,UFC,36,37,FC,Pepo Vidal
+284,3,10:00,NaN,36,37,inicio_quarto,
+285,2,00:00,NaN,36,37,fim_quarto,
+286,2,00:02,FLA,36,37,BR,Barrera
+287,2,00:02,UFC,36,37,ER,Gabriel
+288,2,00:03,FLA,36,37,substituicao_entra,Barrera
+289,2,00:03,FLA,36,37,substituicao_sai,Deryk
+290,2,00:09,FLA,36,37,substituicao_entra,Jhonatan
+291,2,00:09,FLA,36,37,substituicao_sai,Marquinhos
+292,2,00:09,UFC,36,37,FR,Pepo Vidal
+293,2,00:09,FLA,36,37,FC,Deryk
+294,2,00:29,FLA,36,37,2_Pts_C,Mineiro
+295,2,00:33,FLA,34,37,BR,Mineiro
+296,2,00:33,UFC,34,37,ER,Pepo Vidal
+297,2,00:44,UFC,34,37,tempo_tecnico,UNIFACISA
+298,2,00:44,FLA,34,37,2_Pts_C,Balbi
+299,2,00:48,FLA,32,37,RD,Balbi
+300,2,00:52,UFC,32,37,3_Pts_T,D  Nunes
+301,2,01:06,UFC,32,37,RD,João Vitor
+302,2,01:09,FLA,32,37,3_Pts_T,Léo Demétrio
+303,2,01:23,FLA,32,37,RD,Mineiro
+304,2,01:26,UFC,32,37,2_Pts_T,Pepo Vidal
+305,2,01:38,UFC,32,37,FR,Pepo Vidal
+306,2,01:38,FLA,32,37,FC,Deryk
+307,2,01:42,FLA,32,37,LL_Pts_C,Marquinhos
+308,2,01:42,FLA,31,37,AS,Balbi
+309,2,01:42,FLA,31,37,LL_Pts_C,Marquinhos
+310,2,01:42,FLA,30,37,LL_Pts_T,Marquinhos
+311,2,01:42,FLA,30,37,substituicao_entra,Léo Demétrio
+312,2,01:42,FLA,30,37,substituicao_entra,Mineiro
+313,2,01:42,FLA,30,37,substituicao_sai,Vargas
+314,2,01:42,FLA,30,37,substituicao_sai,Olivinha
+315,2,01:42,FLA,30,37,FR,Marquinhos
+316,2,01:42,UFC,30,37,FC,Gabriel
+317,2,01:44,FLA,30,37,tempo_tecnico,Flamengo
+318,2,01:44,FLA,30,37,FR,Vargas
+319,2,01:44,UFC,30,37,FC,João Vitor
+320,2,01:44,FLA,30,37,RO,Flamengo
+321,2,01:44,FLA,30,37,3_Pts_T,Marquinhos
+322,2,02:08,UFC,30,37,AS,Miller
+323,2,02:08,UFC,30,37,2_Pts_C,João Vitor
+324,2,02:30,UFC,30,35,substituicao_entra,Miller
+325,2,02:30,UFC,30,35,substituicao_entra,João Vitor
+326,2,02:30,UFC,30,35,substituicao_sai,Barnes
+327,2,02:30,UFC,30,35,substituicao_sai,Gemerson
+328,2,02:30,FLA,30,35,substituicao_entra,Vargas
+329,2,02:30,FLA,30,35,substituicao_entra,Olivinha
+330,2,02:30,FLA,30,35,substituicao_entra,Marquinhos
+331,2,02:30,FLA,30,35,substituicao_entra,Deryk
+332,2,02:30,FLA,30,35,substituicao_entra,Balbi
+333,2,02:30,FLA,30,35,substituicao_sai,Léo Demétrio
+334,2,02:30,FLA,30,35,substituicao_sai,Barrera
+335,2,02:30,FLA,30,35,substituicao_sai,Zach Graham
+336,2,02:30,FLA,30,35,substituicao_sai,Mineiro
+337,2,02:30,FLA,30,35,substituicao_sai,Jhonatan
+338,2,02:30,UFC,30,35,tempo_tecnico,UNIFACISA
+339,2,02:38,FLA,30,35,AS,Zach Graham
+340,2,02:38,FLA,30,35,2_Pts_C,Léo Demétrio
+341,2,02:54,FLA,28,35,RD,Zach Graham
+342,2,02:57,UFC,28,35,3_Pts_T,Barnes
+343,2,03:25,FLA,28,35,2_Pts_C,Zach Graham
+344,2,03:45,UFC,26,35,AS,Pepo Vidal
+345,2,03:45,UFC,26,35,3_Pts_C,Gabriel
+346,2,03:45,UFC,26,32,RO,Pepo Vidal
+347,2,03:50,FLA,26,32,TO,Zach Graham
+348,2,03:50,UFC,26,32,2_Pts_T,Pepo Vidal
+349,2,04:04,FLA,26,32,2_Pts_C,Mineiro
+350,2,04:16,FLA,24,32,RD,Léo Demétrio
+351,2,04:18,UFC,24,32,2_Pts_T,Barnes
+352,2,04:45,FLA,24,32,3_Pts_C,Barrera
+353,2,05:00,FLA,21,32,RD,Léo Demétrio
+354,2,05:03,UFC,21,32,2_Pts_T,D  Nunes
+355,2,05:15,UFC,21,32,RD,Pepo Vidal
+356,2,05:18,FLA,21,32,3_Pts_T,Léo Demétrio
+357,2,05:32,UFC,21,32,2_Pts_C,D  Nunes
+358,2,05:32,UFC,21,30,RO,D  Nunes
+359,2,05:37,UFC,21,30,3_Pts_T,Gemerson
+360,2,06:03,FLA,21,30,AS,Zach Graham
+361,2,06:03,FLA,21,30,2_Pts_C,Léo Demétrio
+362,2,06:07,FLA,19,30,RD,Mineiro
+363,2,06:11,FLA,19,30,TO,Léo Demétrio
+364,2,06:11,UFC,19,30,2_Pts_T,Gemerson
+365,2,06:24,UFC,19,30,RD,Gemerson
+366,2,06:27,FLA,19,30,3_Pts_T,Barrera
+367,2,06:50,UFC,19,30,AS,Pepo Vidal
+368,2,06:50,UFC,19,30,3_Pts_C,Gemerson
+369,2,06:53,UFC,19,27,RD,Pepo Vidal
+370,2,07:02,FLA,19,27,3_Pts_T,Zach Graham
+371,2,07:09,UFC,19,27,substituicao_entra,Pepo Vidal
+372,2,07:09,UFC,19,27,substituicao_sai,Gemadinha
+373,2,07:10,UFC,19,27,2_Pts_C,Gabriel
+374,2,07:24,UFC,19,25,FR,Barnes
+375,2,07:24,FLA,19,25,FC,Barrera
+376,2,07:35,UFC,19,25,RD,D  Nunes
+377,2,07:38,FLA,19,25,3_Pts_T,Zach Graham
+378,2,07:54,UFC,19,25,AS,Barnes
+379,2,07:54,UFC,19,25,3_Pts_C,Gemerson
+380,2,08:12,UFC,19,22,RD,Gemerson
+381,2,08:12,FLA,19,22,AS,Barrera
+382,2,08:12,FLA,19,22,LL_Pts_T,Léo Demétrio
+383,2,08:12,FLA,19,22,LL_Pts_C,Léo Demétrio
+384,2,08:12,FLA,18,22,substituicao_entra,Jhonatan
+385,2,08:12,FLA,18,22,substituicao_sai,Marquinhos
+386,2,08:12,FLA,18,22,FR,Léo Demétrio
+387,2,08:12,UFC,18,22,FC,Gabriel
+388,2,08:26,FLA,18,22,RD,Léo Demétrio
+389,2,08:30,UFC,18,22,3_Pts_T,Gemadinha
+390,2,08:41,UFC,18,22,BR,Barnes
+391,2,08:41,FLA,18,22,ER,Barrera
+392,2,08:45,FLA,18,22,BR,Mineiro
+393,2,08:45,UFC,18,22,ER,Gemadinha
+394,2,08:49,UFC,18,22,RD,Gemadinha
+395,2,08:52,FLA,18,22,2_Pts_T,Marquinhos
+396,2,09:14,FLA,18,22,RD,Flamengo
+397,2,09:15,UFC,18,22,2_Pts_T,Gemadinha
+398,2,09:38,UFC,18,22,RD,UNIFACISA
+399,2,09:40,FLA,18,22,3_Pts_T,Zach Graham
+400,2,09:47,FLA,18,22,RD,Barrera
+401,2,09:50,UFC,18,22,2_Pts_T,Gemerson
+402,2,10:00,NaN,18,22,inicio_quarto,
+403,1,00:00,NaN,18,22,fim_quarto,
+404,1,00:02,UFC,18,22,3_Pts_T,Gemadinha
+405,1,00:04,FLA,18,22,AS,Zach Graham
+406,1,00:04,FLA,18,22,3_Pts_C,Mineiro
+407,1,00:17,UFC,15,22,LL_Pts_C,Gemerson
+408,1,00:17,UFC,15,21,AS,Miller
+409,1,00:17,UFC,15,21,LL_Pts_C,Gemerson
+410,1,00:17,UFC,15,20,substituicao_entra,Gabriel
+411,1,00:17,UFC,15,20,substituicao_sai,Miller
+412,1,00:17,UFC,15,20,FR,Gemerson
+413,1,00:17,FLA,15,20,FC,Mineiro
+414,1,00:37,FLA,15,20,AS,Barrera
+415,1,00:37,FLA,15,20,3_Pts_C,Zach Graham
+416,1,00:46,FLA,12,20,RD,Mineiro
+417,1,00:49,UFC,12,20,3_Pts_T,Barnes
+418,1,00:59,UFC,12,20,BR,Miller
+419,1,00:59,FLA,12,20,ER,Zach Graham
+420,1,01:12,UFC,12,20,substituicao_entra,D  Nunes
+421,1,01:12,UFC,12,20,substituicao_sai,João Vitor
+422,1,01:12,FLA,12,20,substituicao_entra,Barrera
+423,1,01:12,FLA,12,20,substituicao_sai,Balbi
+424,1,01:12,UFC,12,20,ER,Miller
+425,1,01:30,FLA,12,20,2_Pts_C,Marquinhos
+426,1,01:34,FLA,10,20,BR,Marquinhos
+427,1,01:34,UFC,10,20,ER,Gemadinha
+428,1,01:49,UFC,10,20,RD,João Vitor
+429,1,01:52,FLA,10,20,3_Pts_T,Balbi
+430,1,02:07,UFC,10,20,3_Pts_C,Gemadinha
+431,1,02:31,FLA,10,17,3_Pts_C,Balbi
+432,1,02:41,UFC,7,17,substituicao_entra,Gemadinha
+433,1,02:41,UFC,7,17,substituicao_sai,Dixson
+434,1,02:50,FLA,7,17,FR,Marquinhos
+435,1,02:50,UFC,7,17,FC,Dixson
+436,1,02:58,UFC,7,17,substituicao_entra,Barnes
+437,1,02:58,UFC,7,17,substituicao_entra,Gemerson
+438,1,02:58,UFC,7,17,substituicao_sai,D  Nunes
+439,1,02:58,UFC,7,17,substituicao_sai,Pepo Vidal
+440,1,02:58,FLA,7,17,substituicao_entra,Léo Demétrio
+441,1,02:58,FLA,7,17,substituicao_entra,Zach Graham
+442,1,02:58,FLA,7,17,substituicao_entra,Mineiro
+443,1,02:58,FLA,7,17,substituicao_sai,Vargas
+444,1,02:58,FLA,7,17,substituicao_sai,Olivinha
+445,1,02:58,FLA,7,17,substituicao_sai,Jhonatan
+446,1,02:58,FLA,7,17,tempo_tecnico,Flamengo
+447,1,02:58,UFC,7,17,AS,D  Nunes
+448,1,02:58,UFC,7,17,2_Pts_C,João Vitor
+449,1,03:14,UFC,7,15,RD,D  Nunes
+450,1,03:16,FLA,7,15,3_Pts_T,Marquinhos
+451,1,03:43,UFC,7,15,2_Pts_C,Miller
+452,1,04:05,FLA,7,13,2_Pts_C,Balbi
+453,1,04:13,FLA,5,13,FR,Balbi
+454,1,04:13,UFC,5,13,FC,Dixson
+455,1,04:28,UFC,5,13,3_Pts_C,Pepo Vidal
+456,1,04:40,FLA,5,10,3_Pts_C,Marquinhos
+457,1,04:42,UFC,2,10,EN,João Vitor
+458,1,04:42,UFC,2,8,RO,João Vitor
+459,1,04:48,UFC,2,8,2_Pts_T,Dixson
+460,1,04:54,UFC,2,8,RD,João Vitor
+461,1,04:57,FLA,2,8,2_Pts_T,Olivinha
+462,1,05:10,FLA,2,8,FR,Balbi
+463,1,05:10,UFC,2,8,ER,D  Nunes
+464,1,05:10,UFC,2,8,FC_O,D  Nunes
+465,1,05:31,UFC,2,8,BR,João Vitor
+466,1,05:31,FLA,2,8,ER,Olivinha
+467,1,05:36,FLA,2,8,BR,Olivinha
+468,1,05:36,UFC,2,8,ER,Pepo Vidal
+469,1,05:43,UFC,2,8,RD,João Vitor
+470,1,05:47,FLA,2,8,3_Pts_T,Olivinha
+471,1,06:11,UFC,2,8,AS,João Vitor
+472,1,06:11,UFC,2,8,2_Pts_C,Miller
+473,1,06:21,FLA,2,6,ER,Vargas
+474,1,06:21,FLA,2,6,RO,Vargas
+475,1,06:24,FLA,2,6,2_Pts_T,Marquinhos
+476,1,06:42,UFC,2,6,ER,
+477,1,07:09,UFC,2,6,BR,D  Nunes
+478,1,07:09,FLA,2,6,ER,Balbi
+479,1,07:32,UFC,2,6,AS,Pepo Vidal
+480,1,07:32,UFC,2,6,2_Pts_C,D  Nunes
+481,1,07:50,UFC,2,4,RO,UNIFACISA
+482,1,07:54,UFC,2,4,2_Pts_T,Miller
+483,1,08:13,FLA,2,4,2_Pts_C,Vargas
+484,1,08:14,FLA,0,4,RO,Vargas
+485,1,08:16,FLA,0,4,2_Pts_T,Marquinhos
+486,1,08:28,UFC,0,4,AS,D  Nunes
+487,1,08:28,UFC,0,4,2_Pts_C,João Vitor
+488,1,08:36,UFC,0,2,RD,Dixson
+489,1,08:38,FLA,0,2,3_Pts_T,Olivinha
+490,1,08:40,FLA,0,2,RO,Jhonatan
+491,1,08:48,UFC,0,2,TO,Miller
+492,1,08:48,FLA,0,2,2_Pts_T,Jhonatan
+493,1,08:48,FLA,0,2,RO,Jhonatan
+494,1,08:53,UFC,0,2,TO,João Vitor
+495,1,08:53,FLA,0,2,2_Pts_T,Vargas
+496,1,09:15,UFC,0,2,AS,Pepo Vidal
+497,1,09:15,UFC,0,2,2_Pts_C,Miller
+498,1,09:16,UFC,0,0,RD,Dixson
+499,1,09:19,FLA,0,0,2_Pts_T,Balbi
+500,1,09:34,UFC,0,0,,
+501,1,09:34,FLA,0,0,ER,
+502,1,10:00,UFC,0,0,substituicao_entra,Miller
+503,1,10:00,UFC,0,0,substituicao_entra,Dixson
+504,1,10:00,UFC,0,0,substituicao_entra,D  Nunes
+505,1,10:00,UFC,0,0,substituicao_entra,Pepo Vidal
+506,1,10:00,UFC,0,0,substituicao_entra,João Vitor
+507,1,10:00,FLA,0,0,substituicao_entra,Vargas
+508,1,10:00,FLA,0,0,substituicao_entra,Olivinha
+509,1,10:00,FLA,0,0,substituicao_entra,Marquinhos
+510,1,10:00,FLA,0,0,substituicao_entra,Jhonatan
+511,1,10:00,FLA,0,0,substituicao_entra,Balbi
+512,1,10:00,NaN,0,0,inicio_partida,

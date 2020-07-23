@@ -1,0 +1,599 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,72,69,fim_partida,
+1,4,00:00,NaN,72,69,fim_quarto, 
+2,4,00:00,CEA,72,69,LL_Pts_C,Alex
+3,4,00:00,CEA,72,68,LL_Pts_C,Alex
+4,4,00:00,CEA,72,67,FR,Alex
+5,4,00:00,JLE,72,67,FC,Vezarinho
+6,4,00:11,JLE,72,67,LL_Pts_C,Cook
+7,4,00:11,JLE,71,67,LL_Pts_T,Cook
+8,4,00:11,JLE,71,67,FR,Cook
+9,4,00:11,CEA,71,67,FC,Alex
+10,4,00:11,JLE,71,67,RD,Colimerio
+11,4,00:11,CEA,71,67,3_Pts_T,Brite
+12,4,00:14,CEA,71,67,RD,Brite
+13,4,00:17,JLE,71,67,LL_Pts_T,Vezarinho
+14,4,00:17,JLE,71,67,LL_Pts_T,Vezarinho
+15,4,00:17,CEA,71,67,substituicao_entra,Alex
+16,4,00:17,CEA,71,67,substituicao_sai,Paulo
+17,4,00:17,CEA,71,67,substituicao_entra,Rashaun
+18,4,00:17,CEA,71,67,substituicao_sai,Léo W 
+19,4,00:17,CEA,71,67,substituicao_entra,Cobb
+20,4,00:17,CEA,71,67,substituicao_sai,Victor
+21,4,00:17,JLE,71,67,FR,Vezarinho
+22,4,00:17,CEA,71,67,FC,Léo W 
+23,4,00:19,CEA,71,67,substituicao_entra,Paulo
+24,4,00:19,CEA,71,67,substituicao_sai,Cobb
+25,4,00:19,CEA,71,67,substituicao_entra,Victor
+26,4,00:19,CEA,71,67,substituicao_sai,Alex
+27,4,00:19,JLE,71,67, AABJ ,Joinville 
+28,4,00:19,CEA,71,67,2_Pts_C,Felipe
+29,4,00:19,CEA,71,65,RO,Felipe
+30,4,00:19,CEA,71,65,2_Pts_T,Alex
+31,4,00:19,CEA,71,65,substituicao_entra,Felipe
+32,4,00:19,CEA,71,65,substituicao_sai,Rashaun
+33,4,00:23,CEA,71,65,substituicao_entra,Alex
+34,4,00:23,CEA,71,65,substituicao_sai,Felipe
+35,4,00:23,CEA,71,65,substituicao_entra,Brite
+36,4,00:23,CEA,71,65,substituicao_sai,Paulo
+37,4,00:23,CEA,71,65,substituicao_entra,Cobb
+38,4,00:23,CEA,71,65,substituicao_sai,Victor
+39,4,00:23,CEA,71,65,FR,Felipe
+40,4,00:23,JLE,71,65,FC,Colimerio
+41,4,00:23,CEA,71,65,RD,Felipe
+42,4,00:23,JLE,71,65,LL_Pts_T,J  Socas
+43,4,00:23,JLE,71,65,LL_Pts_C,J  Socas
+44,4,00:23,JLE,70,65,FR,J  Socas
+45,4,00:23,CEA,70,65,FC,Léo W 
+46,4,00:25,JLE,70,65,FR,Vezarinho
+47,4,00:25,CEA,70,65,FC,Léo W 
+48,4,00:25,CEA,70,65,substituicao_entra,Léo W 
+49,4,00:25,CEA,70,65,substituicao_sai,Alex
+50,4,00:35,JLE,70,65, AABJ ,Joinville 
+51,4,00:35,CEA,70,65,substituicao_entra,Victor
+52,4,00:35,CEA,70,65,substituicao_sai,Brite
+53,4,00:35,CEA,70,65,substituicao_entra,Felipe
+54,4,00:35,CEA,70,65,substituicao_sai,Kurtz
+55,4,00:35,JLE,70,65,RD,J  Socas
+56,4,00:35,CEA,70,65,3_Pts_T,Rashaun
+57,4,00:46,CEA,70,65,tempo_tecnico,Basq  Cearense
+58,4,00:46,JLE,70,65,ER,
+59,4,00:56,CEA,70,65,,
+60,4,01:04,CEA,70,65,tempo_tecnico,Basq  Cearense
+61,4,01:04,JLE,70,65,LL_Pts_C,Vezarinho
+62,4,01:04,JLE,69,65,LL_Pts_T,Vezarinho
+63,4,01:04,JLE,69,65,FR,Vezarinho
+64,4,01:04,CEA,69,65,FC,Paulo
+65,4,01:24,JLE,69,65,BR,J  Socas
+66,4,01:24,CEA,69,65,ER,Kurtz
+67,4,01:26,CEA,69,65,RO,Alex
+68,4,01:30,CEA,69,65,2_Pts_T,Rashaun
+69,4,01:42,JLE,69,65,substituicao_entra,Cook
+70,4,01:42,JLE,69,65,substituicao_sai,Mathias
+71,4,01:42,CEA,69,65,LL_Pts_C,Brite
+72,4,01:42,CEA,69,64,LL_Pts_C,Brite
+73,4,01:42,CEA,69,63,FR,Brite
+74,4,01:42,JLE,69,63,FC_A,J  Socas
+75,4,01:42,CEA,69,63,RD,Brite
+76,4,01:45,CEA,69,63,TO,Kurtz
+77,4,01:45,JLE,69,63,2_Pts_T,Vezarinho
+78,4,02:03,CEA,69,63,3_Pts_C,Rashaun
+79,4,02:05,JLE,69,60,substituicao_entra,Vezarinho
+80,4,02:05,JLE,69,60,substituicao_sai,Cook
+81,4,02:23,JLE,69,60,AS,Vezarinho
+82,4,02:23,JLE,69,60,2_Pts_C,Mathias
+83,4,02:38,JLE,67,60,RD,Colimerio
+84,4,02:43,CEA,67,60,3_Pts_T,Brite
+85,4,03:05,JLE,67,60,substituicao_entra,J  Socas
+86,4,03:05,JLE,67,60,substituicao_sai,Vezarinho
+87,4,03:05,CEA,67,60,tempo_tecnico,Basq  Cearense
+88,4,03:05,JLE,67,60,2_Pts_C,Colimerio
+89,4,03:22,JLE,65,60,substituicao_entra,F  Vezaro
+90,4,03:22,JLE,65,60,substituicao_sai,Dieguinho
+91,4,03:22,JLE,65,60,FR,Vezarinho
+92,4,03:22,CEA,65,60,FC,Kurtz
+93,4,03:30,JLE,65,60,RD,Vezarinho
+94,4,03:34,CEA,65,60,3_Pts_T,Alex
+95,4,03:44,CEA,65,60,RD,Kurtz
+96,4,03:49,JLE,65,60,3_Pts_T,Cook
+97,4,04:02,JLE,65,60,RD,Dieguinho
+98,4,04:06,CEA,65,60,3_Pts_T,Rashaun
+99,4,04:21,JLE,65,60,substituicao_entra,Dieguinho
+100,4,04:21,JLE,65,60,substituicao_sai,F  Vezaro
+101,4,04:21,CEA,65,60,substituicao_entra,Kurtz
+102,4,04:21,CEA,65,60,substituicao_sai,Feliciano
+103,4,04:31,JLE,65,60,AS,Cook
+104,4,04:31,JLE,65,60,2_Pts_C,Mathias
+105,4,04:49,JLE,63,60,substituicao_entra,F  Vezaro
+106,4,04:49,JLE,63,60,substituicao_sai,Dieguinho
+107,4,04:49,JLE,63,60,FR,Vezarinho
+108,4,04:49,CEA,63,60,ER,Rashaun
+109,4,04:49,CEA,63,60,FC_O,Rashaun
+110,4,04:56,JLE,63,60,substituicao_entra,Mathias
+111,4,04:56,JLE,63,60,substituicao_sai,A  Bambu
+112,4,04:56,CEA,63,60,FR,Paulo
+113,4,04:56,JLE,63,60,FC,A  Bambu
+114,4,04:56,CEA,63,60,RO,Basq  Cearense
+115,4,04:56,CEA,63,60,2_Pts_T,Paulo
+116,4,04:58,CEA,63,60,RD,Paulo
+117,4,05:02,JLE,63,60,3_Pts_T,Dieguinho
+118,4,05:07,JLE,63,60,RD,Cook
+119,4,05:11,CEA,63,60,2_Pts_T,Alex
+120,4,05:27,JLE,63,60,substituicao_entra,Dieguinho
+121,4,05:27,JLE,63,60,substituicao_sai,J  Socas
+122,4,05:27,CEA,63,60,FR,Brite
+123,4,05:27,JLE,63,60,FC,A  Bambu
+124,4,05:27,CEA,63,60,RD,Brite
+125,4,05:27,JLE,63,60,2_Pts_T,J  Socas
+126,4,05:27,JLE,63,60,substituicao_entra,Vezarinho
+127,4,05:27,JLE,63,60,substituicao_sai,F  Vezaro
+128,4,05:27,JLE,63,60,substituicao_entra,Colimerio
+129,4,05:27,JLE,63,60,substituicao_sai,Mathias
+130,4,05:58,CEA,63,60,AS,Alex
+131,4,05:58,CEA,63,60,EN,Feliciano
+132,4,06:20,JLE,63,58,2_Pts_C,Cook
+133,4,06:33,CEA,61,58,2_Pts_C,Feliciano
+134,4,06:35,CEA,61,56,RO,Feliciano
+135,4,06:39,CEA,61,56,2_Pts_T,Alex
+136,4,06:55,CEA,61,56,RD,Rashaun
+137,4,06:59,JLE,61,56,3_Pts_T,A  Bambu
+138,4,07:09,CEA,61,56,substituicao_entra,Paulo
+139,4,07:09,CEA,61,56,substituicao_sai,Felipe
+140,4,07:19,CEA,61,56,substituicao_entra,Feliciano
+141,4,07:19,CEA,61,56,substituicao_sai,Kurtz
+142,4,07:19,CEA,61,56,substituicao_entra,Brite
+143,4,07:19,CEA,61,56,substituicao_sai,Cobb
+144,4,07:25,CEA,61,56,3_Pts_C,Rashaun
+145,4,07:52,JLE,61,53,2_Pts_C,Mathias
+146,4,08:02,JLE,59,53,RO,A  Bambu
+147,4,08:06,JLE,59,53,3_Pts_T,F  Vezaro
+148,4,08:15,JLE,59,53,BR,A  Bambu
+149,4,08:15,CEA,59,53,ER,Kurtz
+150,4,08:37,JLE,59,53,ER,
+151,4,09:01,JLE,59,53,RD,J  Socas
+152,4,09:01,JLE,59,53,TO,Mathias
+153,4,09:01,CEA,59,53,2_Pts_T,Felipe
+154,4,09:01,CEA,59,53,RO,Rashaun
+155,4,09:01,CEA,59,53,2_Pts_T,Cobb
+156,4,09:01,CEA,59,53,RD,Basq  Cearense
+157,4,09:01,JLE,59,53,3_Pts_T,F  Vezaro
+158,4,09:05,JLE,59,53,RO,A  Bambu
+159,4,09:09,JLE,59,53,3_Pts_T,Mathias
+160,4,09:11,JLE,59,53,RO,J  Socas
+161,4,09:15,JLE,59,53,2_Pts_T,J  Socas
+162,4,09:27,JLE,59,53,RO,Mathias
+163,4,09:27,JLE,59,53,2_Pts_T,Cook
+164,4,09:38,JLE,59,53,RD,Mathias
+165,4,09:42,CEA,59,53,2_Pts_T,Felipe
+166,4,10:00,NaN,59,53,inicio_quarto,
+167,3,00:00,NaN,59,53,fim_quarto,
+168,3,00:09,JLE,59,53,2_Pts_C,Mathias
+169,3,00:09,JLE,57,53,RO,Mathias
+170,3,00:09,JLE,57,53,3_Pts_T,J  Socas
+171,3,00:09,JLE,57,53, AABJ ,Joinville 
+172,3,00:09,CEA,57,53,TO,Paulo
+173,3,00:09,JLE,57,53,2_Pts_T,Mathias
+174,3,00:12,CEA,57,53,substituicao_entra,Alex
+175,3,00:12,CEA,57,53,substituicao_sai,Cobb
+176,3,00:16,JLE,57,53,FR,Mathias
+177,3,00:16,CEA,57,53,FC,Feliciano
+178,3,00:19,CEA,57,53,substituicao_entra,Felipe
+179,3,00:19,CEA,57,53,substituicao_sai,Alex
+180,3,00:19,CEA,57,53,substituicao_entra,Feliciano
+181,3,00:19,CEA,57,53,substituicao_sai,Kurtz
+182,3,00:19,JLE,57,53, AABJ ,Joinville 
+183,3,00:19,CEA,57,53,TO,Paulo
+184,3,00:19,JLE,57,53,2_Pts_T,F  Vezaro
+185,3,00:29,CEA,57,53,substituicao_entra,Léo W 
+186,3,00:29,CEA,57,53,substituicao_sai,Rashaun
+187,3,00:35,JLE,57,53,RD,J  Socas
+188,3,00:38,CEA,57,53,LL_Pts_T,Kurtz
+189,3,00:38,CEA,57,53,LL_Pts_C,Kurtz
+190,3,00:38,JLE,57,52,substituicao_entra,Mathias
+191,3,00:38,JLE,57,52,substituicao_sai,Weihermann
+192,3,00:38,JLE,57,52,substituicao_entra,Cook
+193,3,00:38,JLE,57,52,substituicao_sai,Colimerio
+194,3,00:38,CEA,57,52,FR,Kurtz
+195,3,00:38,JLE,57,52,FC,Colimerio
+196,3,00:38,CEA,57,52,RD,Kurtz
+197,3,00:38,JLE,57,52,2_Pts_T,Colimerio
+198,3,00:52,CEA,57,52,2_Pts_C,Paulo
+199,3,00:53,CEA,57,50,RD,Cobb
+200,3,01:01,JLE,57,50,3_Pts_T,F  Vezaro
+201,3,01:08,JLE,57,50,BR,J  Socas
+202,3,01:08,CEA,57,50,ER,Paulo
+203,3,01:09,CEA,57,50,RO,Paulo
+204,3,01:19,CEA,57,50,3_Pts_T,Alex
+205,3,01:46,JLE,57,50,AS,J  Socas
+206,3,01:46,JLE,57,50,2_Pts_C,Colimerio
+207,3,02:10,JLE,55,50,RD,A  Bambu
+208,3,02:13,CEA,55,50,LL_Pts_T,Kurtz
+209,3,02:13,CEA,55,50,LL_Pts_C,Kurtz
+210,3,02:13,JLE,55,49,substituicao_entra,F  Vezaro
+211,3,02:13,JLE,55,49,substituicao_sai,Vezarinho
+212,3,02:13,CEA,55,49,FR,Kurtz
+213,3,02:13,JLE,55,49,FC,Colimerio
+214,3,02:29,JLE,55,49,AS,A  Bambu
+215,3,02:29,JLE,55,49,EN,Colimerio
+216,3,02:30,JLE,53,49,RO,A  Bambu
+217,3,02:34,JLE,53,49,3_Pts_T,Colimerio
+218,3,02:56,JLE,53,49,substituicao_entra,A  Bambu
+219,3,02:56,JLE,53,49,substituicao_sai,Rosniak
+220,3,02:56,JLE,53,49,substituicao_entra,J  Socas
+221,3,02:56,JLE,53,49,substituicao_sai,Dieguinho
+222,3,02:56,CEA,53,49,LL_Pts_C,Kurtz
+223,3,02:56,CEA,53,48,LL_Pts_C,Kurtz
+224,3,02:56,CEA,53,47,FR,Kurtz
+225,3,02:56,JLE,53,47,FC,Weihermann
+226,3,02:56,CEA,53,47,RO,Kurtz
+227,3,02:56,CEA,53,47,3_Pts_T,Alex
+228,3,03:04,CEA,53,47,RD,Paulo
+229,3,03:08,JLE,53,47,LL_Pts_T,Vezarinho
+230,3,03:08,JLE,53,47,LL_Pts_T,Vezarinho
+231,3,03:08,CEA,53,47,substituicao_entra,Alex
+232,3,03:08,CEA,53,47,substituicao_sai,Victor
+233,3,03:08,JLE,53,47,substituicao_entra,Rosniak
+234,3,03:08,JLE,53,47,substituicao_sai,A  Bambu
+235,3,03:14,JLE,53,47,FR,Vezarinho
+236,3,03:14,CEA,53,47,FC,Victor
+237,3,03:23,JLE,53,47,RD,Weihermann
+238,3,03:27,CEA,53,47,2_Pts_T,Rashaun
+239,3,03:43,JLE,53,47,substituicao_entra,Colimerio
+240,3,03:43,JLE,53,47,substituicao_sai,F  Vezaro
+241,3,03:43,JLE,53,47,substituicao_entra,A  Bambu
+242,3,03:43,JLE,53,47,substituicao_sai,Mathias
+243,3,04:03,JLE,53,47,AS,Vezarinho
+244,3,04:03,JLE,53,47,3_Pts_C,Dieguinho
+245,3,04:25,CEA,50,47,AS,Paulo
+246,3,04:25,CEA,50,47,2_Pts_C,Kurtz
+247,3,04:33,CEA,50,45,RD,Victor
+248,3,04:37,JLE,50,45,3_Pts_T,Vezarinho
+249,3,04:55,JLE,50,45, AABJ ,Joinville 
+250,3,04:55,CEA,50,45,AS,Cobb
+251,3,04:55,CEA,50,45,2_Pts_C,Kurtz
+252,3,05:12,JLE,50,43,substituicao_entra,Vezarinho
+253,3,05:12,JLE,50,43,substituicao_sai,Cook
+254,3,05:12,JLE,50,43,substituicao_entra,Dieguinho
+255,3,05:12,JLE,50,43,substituicao_sai,J  Socas
+256,3,05:12,CEA,50,43,RD,Basq  Cearense
+257,3,05:12,JLE,50,43,3_Pts_T,J  Socas
+258,3,05:35,CEA,50,43,2_Pts_C,Paulo
+259,3,05:41,CEA,50,41,substituicao_entra,Victor
+260,3,05:41,CEA,50,41,substituicao_sai,Feliciano
+261,3,05:41,CEA,50,41,substituicao_entra,Kurtz
+262,3,05:41,CEA,50,41,substituicao_sai,Felipe
+263,3,05:43,CEA,50,41,FR,Felipe
+264,3,05:43,JLE,50,41,FC,F  Vezaro
+265,3,06:00,JLE,50,41,substituicao_entra,Weihermann
+266,3,06:00,JLE,50,41,substituicao_sai,A  Bambu
+267,3,06:00,CEA,50,41,FR,Felipe
+268,3,06:00,JLE,50,41,FC,A  Bambu
+269,3,06:22,JLE,50,41,LL_Pts_C,A  Bambu
+270,3,06:22,JLE,49,41,LL_Pts_T,A  Bambu
+271,3,06:22,JLE,49,41,FR,A  Bambu
+272,3,06:22,CEA,49,41,FC,Felipe
+273,3,06:37,JLE,49,41,FR,J  Socas
+274,3,06:37,CEA,49,41,ER,Felipe
+275,3,06:37,CEA,49,41,FC_O,Felipe
+276,3,06:37,CEA,49,41,RD,Feliciano
+277,3,06:37,JLE,49,41,2_Pts_T,Mathias
+278,3,06:37,CEA,49,41,,
+279,3,06:41,CEA,49,41,ER,
+280,3,06:44,CEA,49,41,AS,Rashaun
+281,3,06:44,CEA,49,41,3_Pts_C,Cobb
+282,3,06:44,CEA,49,38,substituicao_entra,Feliciano
+283,3,06:44,CEA,49,38,substituicao_sai,Kurtz
+284,3,06:44,CEA,49,38,RD,Felipe
+285,3,06:44,JLE,49,38,3_Pts_T,Cook
+286,3,06:48,JLE,49,38,RD,J  Socas
+287,3,06:55,CEA,49,38,2_Pts_T,Felipe
+288,3,07:05,CEA,49,38,RO,Paulo
+289,3,07:11,CEA,49,38,2_Pts_T,Felipe
+290,3,07:17,CEA,49,38,FR,Felipe
+291,3,07:17,JLE,49,38,FC,A  Bambu
+292,3,07:17,CEA,49,38,FR,Rashaun
+293,3,07:17,JLE,49,38,FC,Mathias
+294,3,07:26,CEA,49,38,3_Pts_C,Rashaun
+295,3,07:28,CEA,49,35,RD,Cobb
+296,3,07:33,JLE,49,35,2_Pts_T,F  Vezaro
+297,3,07:49,JLE,49,35,RO,J  Socas
+298,3,07:58,JLE,49,35,3_Pts_T,A  Bambu
+299,3,08:01,JLE,49,35,RD,J  Socas
+300,3,08:07,CEA,49,35,3_Pts_T,Rashaun
+301,3,08:15,JLE,49,35,RD,Mathias
+302,3,08:19,CEA,49,35,2_Pts_T,Paulo
+303,3,08:29,JLE,49,35,EN,J  Socas
+304,3,08:29,JLE,47,35,RO,J  Socas
+305,3,08:39,JLE,47,35,2_Pts_T,F  Vezaro
+306,3,08:44,CEA,47,35,ER,Paulo
+307,3,08:44,CEA,47,35,RD,Paulo
+308,3,08:44,JLE,47,35,2_Pts_T,Cook
+309,3,09:05,CEA,47,35,AS,Cobb
+310,3,09:05,CEA,47,35,2_Pts_C,Paulo
+311,3,09:07,CEA,47,33,RD,Cobb
+312,3,09:12,JLE,47,33,3_Pts_T,Cook
+313,3,09:22,JLE,47,33,BR,Mathias
+314,3,09:22,CEA,47,33,ER,Kurtz
+315,3,09:39,JLE,47,33,2_Pts_C,Mathias
+316,3,10:00,NaN,45,33,inicio_quarto,
+317,2,00:00,NaN,45,33,fim_quarto,
+318,2,00:05,CEA,45,33,AS,Rashaun
+319,2,00:05,CEA,45,33,3_Pts_C,Cobb
+320,2,00:05,CEA,45,30,RD,Felipe
+321,2,00:05,JLE,45,30,2_Pts_T,Mathias
+322,2,00:20,JLE,45,30,RD,J  Socas
+323,2,00:23,CEA,45,30,LL_Pts_T,Rashaun
+324,2,00:23,CEA,45,30,LL_Pts_T,Rashaun
+325,2,00:23,CEA,45,30,FR,Rashaun
+326,2,00:23,JLE,45,30,FC,Cook
+327,2,00:23,CEA,45,30,BR,Rashaun
+328,2,00:23,JLE,45,30,ER,Mathias
+329,2,00:28,JLE,45,30,RO,Mathias
+330,2,00:32,JLE,45,30,3_Pts_T,Cook
+331,2,00:49,JLE,45,30,substituicao_entra,J  Socas
+332,2,00:49,JLE,45,30,substituicao_sai,Dieguinho
+333,2,00:49,JLE,45,30,substituicao_entra,A  Bambu
+334,2,00:49,JLE,45,30,substituicao_sai,Weihermann
+335,2,00:49,JLE,45,30,substituicao_entra,Mathias
+336,2,00:49,JLE,45,30,substituicao_sai,Rosniak
+337,2,00:49,JLE,45,30,substituicao_entra,F  Vezaro
+338,2,00:49,JLE,45,30,substituicao_sai,Colimerio
+339,2,00:49,JLE,45,30,substituicao_entra,Cook
+340,2,00:49,JLE,45,30,substituicao_sai,Vezarinho
+341,2,00:49,JLE,45,30, AABJ ,Joinville 
+342,2,00:52,CEA,45,30,2_Pts_C,Cobb
+343,2,00:57,JLE,45,28,substituicao_entra,Colimerio
+344,2,00:57,JLE,45,28,substituicao_sai,F  Vezaro
+345,2,00:57,JLE,45,28,substituicao_entra,Vezarinho
+346,2,00:57,JLE,45,28,substituicao_sai,Cook
+347,2,00:57,JLE,45,28,LL_Pts_C,Cook
+348,2,00:57,JLE,44,28,LL_Pts_C,Cook
+349,2,00:57,JLE,43,28,LL_Pts_C,Cook
+350,2,00:57,CEA,42,28,substituicao_entra,Paulo
+351,2,00:57,CEA,42,28,substituicao_sai,Victor
+352,2,00:57,JLE,42,28,substituicao_entra,Rosniak
+353,2,00:57,JLE,42,28,substituicao_sai,A  Bambu
+354,2,00:57,JLE,42,28,substituicao_entra,Weihermann
+355,2,00:57,JLE,42,28,substituicao_sai,Colimerio
+356,2,01:22,JLE,42,28,FR,Cook
+357,2,01:22,CEA,42,28,FC,Victor
+358,2,01:28,CEA,42,28,substituicao_entra,Felipe
+359,2,01:28,CEA,42,28,substituicao_sai,Paulo
+360,2,01:28,JLE,42,28,substituicao_entra,F  Vezaro
+361,2,01:28,JLE,42,28,substituicao_sai,Vezarinho
+362,2,01:28,JLE,42,28,FR,Cook
+363,2,01:28,CEA,42,28,FC,Victor
+364,2,01:48,CEA,42,28,AS,Victor
+365,2,01:48,CEA,42,28,EN,Kurtz
+366,2,02:06,JLE,42,26,AS,Vezarinho
+367,2,02:06,JLE,42,26,3_Pts_C,A  Bambu
+368,2,02:23,CEA,39,26,LL_Pts_C,Kurtz
+369,2,02:23,CEA,39,25,LL_Pts_T,Kurtz
+370,2,02:23,JLE,39,25,substituicao_entra,Dieguinho
+371,2,02:23,JLE,39,25,substituicao_sai,Mathias
+372,2,02:23,JLE,39,25,substituicao_entra,Colimerio
+373,2,02:23,JLE,39,25,substituicao_sai,J  Socas
+374,2,02:23,CEA,39,25,FR,Kurtz
+375,2,02:23,JLE,39,25,FC,Cook
+376,2,02:23,CEA,39,25,RO,Kurtz
+377,2,02:23,CEA,39,25,3_Pts_T,Paulo
+378,2,02:43,JLE,39,25,AS,J  Socas
+379,2,02:43,JLE,39,25,3_Pts_C,Cook
+380,2,02:50,JLE,36,25,RD,Vezarinho
+381,2,02:55,CEA,36,25,2_Pts_T,Cobb
+382,2,02:57,CEA,36,25,RD,Cobb
+383,2,03:01,JLE,36,25,2_Pts_T,Mathias
+384,2,03:16,CEA,36,25,3_Pts_C,Cobb
+385,2,03:33,JLE,36,22,2_Pts_C,Mathias
+386,2,03:47,JLE,34,22,FR,J  Socas
+387,2,03:47,CEA,34,22,FC,Victor
+388,2,03:47,CEA,34,22,substituicao_entra,Kurtz
+389,2,03:47,CEA,34,22,substituicao_sai,Feliciano
+390,2,03:47,CEA,34,22,substituicao_entra,Paulo
+391,2,03:47,CEA,34,22,substituicao_sai,Felipe
+392,2,03:47,CEA,34,22,substituicao_entra,Rashaun
+393,2,03:47,CEA,34,22,substituicao_sai,Alex
+394,2,03:47,JLE,34,22,substituicao_entra,A  Bambu
+395,2,03:47,JLE,34,22,substituicao_sai,Weihermann
+396,2,03:47,JLE,34,22,substituicao_entra,Cook
+397,2,03:47,JLE,34,22,substituicao_sai,F  Vezaro
+398,2,03:52,CEA,34,22,LL_Pts_C,Feliciano
+399,2,03:52,CEA,34,21,LL_Pts_T,Feliciano
+400,2,03:52,CEA,34,21,FR,Feliciano
+401,2,03:52,JLE,34,21,FC,Weihermann
+402,2,03:52,CEA,34,21,RO,Feliciano
+403,2,03:52,CEA,34,21,2_Pts_T,Alex
+404,2,04:03,JLE,34,21,3_Pts_C,F  Vezaro
+405,2,04:17,CEA,31,21,ER,Felipe
+406,2,04:24,CEA,31,21,RD,Felipe
+407,2,04:33,JLE,31,21,2_Pts_T,J  Socas
+408,2,04:45,CEA,31,21,2_Pts_C,Victor
+409,2,04:52,CEA,31,19,BR,Victor
+410,2,04:52,JLE,31,19,ER,J  Socas
+411,2,04:56,JLE,31,19,RD,J  Socas
+412,2,05:03,JLE,31,19,TO,Mathias
+413,2,05:03,CEA,31,19,2_Pts_T,Alex
+414,2,05:35,JLE,31,19,substituicao_entra,Vezarinho
+415,2,05:35,JLE,31,19,substituicao_sai,Cook
+416,2,05:36,CEA,31,19,RO,Basq  Cearense
+417,2,05:44,JLE,31,19,TO,Weihermann
+418,2,05:44,CEA,31,19,2_Pts_T,Victor
+419,2,05:48,CEA,31,19,RD,Feliciano
+420,2,05:51,JLE,31,19,3_Pts_T,Weihermann
+421,2,05:59,JLE,31,19,BR,J  Socas
+422,2,05:59,CEA,31,19,ER,Felipe
+423,2,06:07,CEA,31,19,substituicao_entra,Victor
+424,2,06:07,CEA,31,19,substituicao_sai,Rashaun
+425,2,06:07,CEA,31,19,substituicao_entra,Felipe
+426,2,06:07,CEA,31,19,substituicao_sai,Paulo
+427,2,06:07,JLE,31,19,substituicao_entra,F  Vezaro
+428,2,06:07,JLE,31,19,substituicao_sai,A  Bambu
+429,2,06:07,CEA,31,19,tempo_tecnico,Basq  Cearense
+430,2,06:16,JLE,31,19,AS,Cook
+431,2,06:16,JLE,31,19,3_Pts_C,Weihermann
+432,2,06:18,JLE,28,19,RD,A  Bambu
+433,2,06:22,CEA,28,19,2_Pts_T,Feliciano
+434,2,06:23,CEA,28,19,substituicao_entra,Feliciano
+435,2,06:23,CEA,28,19,substituicao_sai,Kurtz
+436,2,06:23,JLE,28,19,substituicao_entra,J  Socas
+437,2,06:23,JLE,28,19,substituicao_sai,F  Vezaro
+438,2,06:23,JLE,28,19,substituicao_entra,Weihermann
+439,2,06:23,JLE,28,19,substituicao_sai,Vezarinho
+440,2,06:23,JLE,28,19,AS,F  Vezaro
+441,2,06:23,JLE,28,19,LL_Pts_C,A  Bambu
+442,2,06:23,JLE,27,19,LL_Pts_C,A  Bambu
+443,2,06:23,JLE,26,19,FR,A  Bambu
+444,2,06:23,CEA,26,19,FC,Kurtz
+445,2,06:34,CEA,26,19,AS,Paulo
+446,2,06:34,CEA,26,19,EN,Kurtz
+447,2,06:46,CEA,26,17,RD,Kurtz
+448,2,06:50,JLE,26,17,2_Pts_T,Mathias
+449,2,07:09,CEA,26,17,AS,Alex
+450,2,07:09,CEA,26,17,2_Pts_C,Kurtz
+451,2,07:28,JLE,26,15,AS,Vezarinho
+452,2,07:28,JLE,26,15,2_Pts_C,F  Vezaro
+453,2,07:35,JLE,24,15,BR,Vezarinho
+454,2,07:35,CEA,24,15,ER,Alex
+455,2,07:39,CEA,24,15,RD,Kurtz
+456,2,07:44,JLE,24,15,2_Pts_T,Vezarinho
+457,2,08:11,CEA,24,15,2_Pts_C,Cobb
+458,2,08:15,CEA,24,13,RD,Cobb
+459,2,08:19,JLE,24,13,3_Pts_T,Mathias
+460,2,08:46,JLE,24,13, AABJ ,Joinville 
+461,2,08:46,CEA,24,13,3_Pts_T,Rashaun
+462,2,09:07,JLE,24,13,AS,Vezarinho
+463,2,09:07,JLE,24,13,2_Pts_C,Mathias
+464,2,09:32,JLE,22,13, AABJ ,Joinville 
+465,2,09:32,CEA,22,13,TO,Kurtz
+466,2,09:32,JLE,22,13,2_Pts_T,Cook
+467,2,09:39,JLE,22,13,substituicao_entra,Mathias
+468,2,09:39,JLE,22,13,substituicao_sai,Colimerio
+469,2,09:39,JLE,22,13,FR,Cook
+470,2,09:39,CEA,22,13,FC,Paulo
+471,2,09:50,CEA,22,13,2_Pts_C,Rashaun
+472,2,09:50,CEA,22,11,FR,Kurtz
+473,2,09:50,JLE,22,11,FC,Colimerio
+474,2,10:00,NaN,22,11,inicio_quarto,
+475,1,00:00,NaN,22,11,fim_quarto,
+476,1,00:07,JLE,22,11,3_Pts_C,Colimerio
+477,1,00:07,JLE,19,11,FR,J  Socas
+478,1,00:07,CEA,19,11,FC,Rashaun
+479,1,00:13,JLE,19,11,substituicao_entra,J  Socas
+480,1,00:13,JLE,19,11,substituicao_sai,Mathias
+481,1,00:13,JLE,19,11,FR,Vezarinho
+482,1,00:13,CEA,19,11,FC,Léo W 
+483,1,00:13,CEA,19,11,2_Pts_C,Rashaun
+484,1,00:13,CEA,19,9,RD,Victor
+485,1,00:13,JLE,19,9,3_Pts_T,F  Vezaro
+486,1,00:15,JLE,19,9,substituicao_entra,F  Vezaro
+487,1,00:15,JLE,19,9,substituicao_sai,Dieguinho
+488,1,00:42,CEA,19,9,substituicao_entra,Léo W 
+489,1,00:42,CEA,19,9,substituicao_sai,Brite
+490,1,00:42,CEA,19,9,substituicao_entra,Victor
+491,1,00:42,CEA,19,9,substituicao_sai,Alex
+492,1,00:42,JLE,19,9,substituicao_entra,Mathias
+493,1,00:42,JLE,19,9,substituicao_sai,Rosniak
+494,1,00:42,JLE,19,9,substituicao_entra,Weihermann
+495,1,00:42,JLE,19,9,substituicao_sai,Cook
+496,1,00:42,CEA,19,9,ER,
+497,1,01:10,JLE,19,9,2_Pts_C,Vezarinho
+498,1,01:14,JLE,17,9,RD,Dieguinho
+499,1,01:19,CEA,17,9,3_Pts_T,Paulo
+500,1,01:24,CEA,17,9,RD,Kurtz
+501,1,01:28,JLE,17,9,2_Pts_T,Cook
+502,1,01:45,CEA,17,9,AS,Brite
+503,1,01:45,CEA,17,9,EN,Kurtz
+504,1,01:53,CEA,17,7,BR,Brite
+505,1,01:53,JLE,17,7,ER,Rosniak
+506,1,02:11,CEA,17,7,ER,Paulo
+507,1,02:13,CEA,17,7,RD,Brite
+508,1,02:20,JLE,17,7,2_Pts_T,Dieguinho
+509,1,02:39,JLE,17,7,FR,Rosniak
+510,1,02:39,CEA,17,7,FC,Kurtz
+511,1,02:41,JLE,17,7,RD,Rosniak
+512,1,02:46,CEA,17,7,3_Pts_T,Alex
+513,1,02:50,JLE,17,7,substituicao_entra,Dieguinho
+514,1,02:50,JLE,17,7,substituicao_sai,J  Socas
+515,1,02:50,JLE,17,7,substituicao_entra,Colimerio
+516,1,02:50,JLE,17,7,substituicao_sai,A  Bambu
+517,1,02:50,CEA,17,7,FR,Kurtz
+518,1,02:50,JLE,17,7,FC,Rosniak
+519,1,03:05,JLE,17,7,AS,Cook
+520,1,03:05,JLE,17,7,2_Pts_C,J  Socas
+521,1,03:21,JLE,15,7,substituicao_entra,Rosniak
+522,1,03:21,JLE,15,7,substituicao_sai,Mathias
+523,1,03:32,JLE,15,7,substituicao_entra,Vezarinho
+524,1,03:32,JLE,15,7,substituicao_sai,F  Vezaro
+525,1,03:32,JLE,15,7, AABJ ,Joinville 
+526,1,03:32,CEA,15,7,3_Pts_T,Brite
+527,1,03:44,JLE,15,7,AS,J  Socas
+528,1,03:44,JLE,15,7,3_Pts_C,F  Vezaro
+529,1,03:47,JLE,12,7,RD,J  Socas
+530,1,03:55,JLE,12,7,TO,A  Bambu
+531,1,03:55,CEA,12,7,2_Pts_T,Paulo
+532,1,04:02,CEA,12,7,BR,Kurtz
+533,1,04:02,JLE,12,7,ER,A  Bambu
+534,1,04:17,JLE,12,7,RD,F  Vezaro
+535,1,04:22,CEA,12,7,3_Pts_T,Rashaun
+536,1,04:39,CEA,12,7,substituicao_entra,Paulo
+537,1,04:39,CEA,12,7,substituicao_sai,Felipe
+538,1,04:39,CEA,12,7,tempo_tecnico,Basq  Cearense
+539,1,04:39,JLE,12,7,AS,J  Socas
+540,1,04:39,JLE,12,7,2_Pts_C,Cook
+541,1,04:46,JLE,10,7,BR,J  Socas
+542,1,04:46,CEA,10,7,ER,Felipe
+543,1,04:48,CEA,10,7,RD,Rashaun
+544,1,04:52,JLE,10,7,3_Pts_T,A  Bambu
+545,1,04:54,JLE,10,7,RD,Mathias
+546,1,05:00,CEA,10,7,2_Pts_T,Kurtz
+547,1,05:14,JLE,10,7,2_Pts_C,J  Socas
+548,1,05:27,CEA,8,7,LL_Pts_C,Felipe
+549,1,05:27,CEA,8,6,LL_Pts_C,Felipe
+550,1,05:27,CEA,8,5,FR,Felipe
+551,1,05:27,JLE,8,5,FC,A  Bambu
+552,1,05:45,CEA,8,5,RD,Basq  Cearense
+553,1,05:45,JLE,8,5,3_Pts_T,Cook
+554,1,05:49,JLE,8,5,RO,A  Bambu
+555,1,05:53,JLE,8,5,2_Pts_T,A  Bambu
+556,1,06:13,JLE,8,5, AABJ ,Joinville 
+557,1,06:13,CEA,8,5,2_Pts_T,Brite
+558,1,06:33,CEA,8,5,RD,Felipe
+559,1,06:37,JLE,8,5,3_Pts_T,A  Bambu
+560,1,06:48,CEA,8,5,2_Pts_C,Kurtz
+561,1,06:49,CEA,8,3,RO,Kurtz
+562,1,06:57,CEA,8,3,3_Pts_T,Felipe
+563,1,07:13,JLE,8,3,AS,Cook
+564,1,07:13,JLE,8,3,3_Pts_C,A  Bambu
+565,1,07:18,JLE,5,3,RD,Cook
+566,1,07:26,JLE,5,3,TO,Mathias
+567,1,07:26,CEA,5,3,2_Pts_T,Alex
+568,1,07:43,JLE,5,3,LL_Pts_C,J  Socas
+569,1,07:43,JLE,4,3,LL_Pts_T,J  Socas
+570,1,07:43,JLE,4,3,FR,J  Socas
+571,1,07:43,CEA,4,3,FC,Brite
+572,1,07:54,CEA,4,3,2_Pts_C,Felipe
+573,1,07:56,CEA,4,1,RO,Felipe
+574,1,08:02,CEA,4,1,2_Pts_T,Felipe
+575,1,08:32,JLE,4,1,2_Pts_C,J  Socas
+576,1,08:35,JLE,2,1,RD,Mathias
+577,1,08:39,CEA,2,1,2_Pts_T,Alex
+578,1,08:54,CEA,2,1,BR,Kurtz
+579,1,08:54,JLE,2,1,ER,J  Socas
+580,1,09:13,CEA,2,1,LL_Pts_C,Kurtz
+581,1,09:13,CEA,2,0,LL_Pts_T,Kurtz
+582,1,09:13,CEA,2,0,FR,Kurtz
+583,1,09:13,JLE,2,0,FC,F  Vezaro
+584,1,09:26,JLE,2,0,2_Pts_C,Cook
+585,1,09:37,JLE,0,0, AABJ ,Joinville 
+586,1,09:37,JLE,0,0,2_Pts_T,J  Socas
+587,1,10:00,CEA,0,0,substituicao_entra,Kurtz
+588,1,10:00,CEA,0,0,substituicao_entra,Felipe
+589,1,10:00,CEA,0,0,substituicao_entra,Rashaun
+590,1,10:00,CEA,0,0,substituicao_entra,Alex
+591,1,10:00,CEA,0,0,substituicao_entra,Brite
+592,1,10:00,JLE,0,0,substituicao_entra,J  Socas
+593,1,10:00,JLE,0,0,substituicao_entra,A  Bambu
+594,1,10:00,JLE,0,0,substituicao_entra,Mathias
+595,1,10:00,JLE,0,0,substituicao_entra,F  Vezaro
+596,1,10:00,JLE,0,0,substituicao_entra,Cook
+597,1,10:00,NaN,0,0,inicio_partida,

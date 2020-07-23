@@ -1,0 +1,554 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,93,82,fim_partida,
+1,4,00:00,NaN,93,82,fim_quarto, 
+2,4,00:20,FLA,93,82,RD,Balbi
+3,4,00:20,PIN,93,82,LL_Pts_T,Ware
+4,4,00:20,PIN,93,82,LL_Pts_T,Ware
+5,4,00:20,PIN,93,82,FR,Ware
+6,4,00:20,FLA,93,82,FC,Olivinha
+7,4,00:20,PIN,93,82,RD,Ware
+8,4,00:20,FLA,93,82,3_Pts_T,Marquinhos
+9,4,00:43,PIN,93,82,substituicao_entra,Scaglia
+10,4,00:43,PIN,93,82,substituicao_sai,Dawkins
+11,4,00:43,FLA,93,82,substituicao_entra,Marquinhos
+12,4,00:43,FLA,93,82,substituicao_entra,Deryk
+13,4,00:43,FLA,93,82,substituicao_sai,Léo Demétrio
+14,4,00:43,FLA,93,82,substituicao_sai,Jhonatan
+15,4,00:43,PIN,93,82,ER,Dawkins
+16,4,00:46,PIN,93,82,RD,Dawkins
+17,4,00:48,FLA,93,82,3_Pts_T,Jhonatan
+18,4,01:09,FLA,93,82,RD,Olivinha
+19,4,01:13,PIN,93,82,2_Pts_T,Ware
+20,4,01:24,FLA,93,82,substituicao_entra,Léo Demétrio
+21,4,01:24,FLA,93,82,substituicao_entra,Pedro Nunes
+22,4,01:24,FLA,93,82,substituicao_sai,Vargas
+23,4,01:24,FLA,93,82,substituicao_sai,Marquinhos
+24,4,01:24,FLA,93,82,,
+25,4,01:33,PIN,93,82,ER,Bennett
+26,4,01:35,PIN,93,82,RD,Bennett
+27,4,01:40,PIN,93,82,TO,Betinho
+28,4,01:40,FLA,93,82,2_Pts_T,Olivinha
+29,4,01:54,FLA,93,82,BR,Olivinha
+30,4,01:54,PIN,93,82,ER,Buffat
+31,4,02:09,FLA,93,82,AS,Balbi
+32,4,02:09,FLA,93,82,2_Pts_C,Marquinhos
+33,4,02:29,PIN,91,82,substituicao_entra,Ware
+34,4,02:29,PIN,91,82,substituicao_entra,Buffat
+35,4,02:29,PIN,91,82,substituicao_sai,C  Torres
+36,4,02:29,PIN,91,82,substituicao_sai,Cauê
+37,4,02:29,FLA,91,82,substituicao_entra,Vargas
+38,4,02:29,FLA,91,82,substituicao_entra,Jhonatan
+39,4,02:29,FLA,91,82,substituicao_sai,Léo Demétrio
+40,4,02:29,FLA,91,82,substituicao_sai,Deryk
+41,4,02:29,FLA,91,82,tempo_tecnico,Flamengo
+42,4,02:30,PIN,91,82,AS,Betinho
+43,4,02:30,PIN,91,82,2_Pts_C,Bennett
+44,4,02:35,PIN,91,80,RD,Betinho
+45,4,02:37,FLA,91,80,2_Pts_T,Marquinhos
+46,4,02:51,PIN,91,80,3_Pts_C,Betinho
+47,4,03:01,FLA,91,77,2_Pts_C,Olivinha
+48,4,03:01,FLA,89,77,RO,Olivinha
+49,4,03:04,FLA,89,77,2_Pts_T,Léo Demétrio
+50,4,03:27,PIN,89,77,LL_Pts_C,Dawkins
+51,4,03:27,PIN,89,76,LL_Pts_C,Dawkins
+52,4,03:27,FLA,89,75,substituicao_entra,Marquinhos
+53,4,03:27,FLA,89,75,substituicao_sai,Jhonatan
+54,4,03:27,PIN,89,75,FR,Dawkins
+55,4,03:27,FLA,89,75,FC,Deryk
+56,4,03:33,PIN,89,75,RD,Cauê
+57,4,03:35,FLA,89,75,2_Pts_T,Léo Demétrio
+58,4,03:56,PIN,89,75,AS,C  Torres
+59,4,03:56,PIN,89,75,2_Pts_C,Cauê
+60,4,04:14,FLA,89,73,substituicao_entra,Léo Demétrio
+61,4,04:14,FLA,89,73,substituicao_sai,Vargas
+62,4,04:14,FLA,89,73,LL_Pts_C,Vargas
+63,4,04:14,FLA,88,73,AS,Olivinha
+64,4,04:14,FLA,88,73,LL_Pts_C,Vargas
+65,4,04:14,PIN,87,73,substituicao_entra,Betinho
+66,4,04:14,PIN,87,73,substituicao_sai,Isaac
+67,4,04:14,FLA,87,73,substituicao_entra,Jhonatan
+68,4,04:14,FLA,87,73,substituicao_sai,Marquinhos
+69,4,04:14,FLA,87,73,FR,Vargas
+70,4,04:14,PIN,87,73,FC,C  Torres
+71,4,04:16,FLA,87,73,RD,Olivinha
+72,4,04:19,PIN,87,73,2_Pts_T,C  Torres
+73,4,04:26,FLA,87,73,AS,Marquinhos
+74,4,04:26,FLA,87,73,2_Pts_C,Vargas
+75,4,05:01,PIN,85,73,3_Pts_C,Dawkins
+76,4,05:21,FLA,85,70,AS,Marquinhos
+77,4,05:21,FLA,85,70,3_Pts_C,Olivinha
+78,4,05:42,PIN,82,70,3_Pts_C,Cauê
+79,4,05:59,FLA,82,67,AS,Balbi
+80,4,05:59,FLA,82,67,3_Pts_C,Deryk
+81,4,06:19,FLA,79,67,RD,Olivinha
+82,4,06:19,PIN,79,67,LL_Pts_T,Cauê
+83,4,06:19,PIN,79,67,substituicao_entra,C  Torres
+84,4,06:19,PIN,79,67,substituicao_sai,Ware
+85,4,06:19,FLA,79,67,substituicao_entra,Olivinha
+86,4,06:19,FLA,79,67,substituicao_sai,Léo Demétrio
+87,4,06:19,FLA,79,67,tempo_tecnico,Flamengo
+88,4,06:19,PIN,79,67,FR,Cauê
+89,4,06:19,FLA,79,67,FC,Léo Demétrio
+90,4,06:19,PIN,79,67,AS,Dawkins
+91,4,06:19,PIN,79,67,EN,Cauê
+92,4,06:20,PIN,79,65,FR,Isaac
+93,4,06:20,FLA,79,65,FC,Marquinhos
+94,4,06:25,PIN,79,65,RD,Dawkins
+95,4,06:28,FLA,79,65,3_Pts_T,Léo Demétrio
+96,4,06:46,PIN,79,65,LL_Pts_C,Bennett
+97,4,06:46,FLA,79,64,substituicao_entra,Vargas
+98,4,06:46,FLA,79,64,substituicao_sai,Olivinha
+99,4,06:46,PIN,79,64,FR,Bennett
+100,4,06:46,FLA,79,64,FC,Olivinha
+101,4,06:46,PIN,79,64,2_Pts_C,Bennett
+102,4,07:02,PIN,79,62,RD,Ware
+103,4,07:05,FLA,79,62,3_Pts_T,Marquinhos
+104,4,07:17,PIN,79,62,2_Pts_C,Bennett
+105,4,07:44,FLA,79,60,LL_Pts_C,Marquinhos
+106,4,07:44,FLA,78,60,AS,Deryk
+107,4,07:44,FLA,78,60,LL_Pts_C,Marquinhos
+108,4,07:44,PIN,77,60,substituicao_entra,Isaac
+109,4,07:44,PIN,77,60,substituicao_entra,Bennett
+110,4,07:44,PIN,77,60,substituicao_sai,Buffat
+111,4,07:44,PIN,77,60,substituicao_sai,Scaglia
+112,4,07:44,FLA,77,60,FR,Marquinhos
+113,4,07:44,PIN,77,60,FC,Cauê
+114,4,08:00,FLA,77,60,BR,Marquinhos
+115,4,08:00,PIN,77,60,ER,Dawkins
+116,4,08:15,FLA,77,60,substituicao_entra,Olivinha
+117,4,08:15,FLA,77,60,substituicao_entra,Deryk
+118,4,08:15,FLA,77,60,substituicao_sai,Vargas
+119,4,08:15,FLA,77,60,substituicao_sai,Jhonatan
+120,4,08:15,FLA,77,60,LL_Pts_C,Vargas
+121,4,08:15,FLA,76,60,AS,Balbi
+122,4,08:15,FLA,76,60,LL_Pts_C,Vargas
+123,4,08:17,FLA,75,60,FR,Vargas
+124,4,08:17,PIN,75,60,FC,Buffat
+125,4,08:30,FLA,75,60,substituicao_entra,Léo Demétrio
+126,4,08:30,FLA,75,60,substituicao_sai,Olivinha
+127,4,08:30,FLA,75,60,FR,Marquinhos
+128,4,08:30,PIN,75,60,FC,Scaglia
+129,4,08:41,FLA,75,60,RD,Olivinha
+130,4,08:41,PIN,75,60,LL_Pts_T,Dawkins
+131,4,08:41,PIN,75,60,LL_Pts_T,Dawkins
+132,4,08:41,PIN,75,60,FR,Dawkins
+133,4,08:41,FLA,75,60,FC,Vargas
+134,4,08:46,FLA,75,60,substituicao_entra,Olivinha
+135,4,08:46,FLA,75,60,substituicao_sai,Léo Demétrio
+136,4,08:46,PIN,75,60,FR,Dawkins
+137,4,08:46,FLA,75,60,FC,Balbi
+138,4,09:07,FLA,75,60,AS,Balbi
+139,4,09:07,FLA,75,60,3_Pts_C,Marquinhos
+140,4,09:25,PIN,72,60,AS,Buffat
+141,4,09:25,PIN,72,60,2_Pts_C,Ware
+142,4,09:38,PIN,72,58,RD,Cauê
+143,4,09:41,FLA,72,58,2_Pts_T,Vargas
+144,4,10:00,NaN,72,58,inicio_quarto,
+145,3,00:00,NaN,72,58,fim_quarto,
+146,3,00:00,PIN,72,58,3_Pts_T,Dawkins
+147,3,00:03,FLA,72,58,LL_Pts_C,Zach Graham
+148,3,00:03,FLA,71,58,LL_Pts_C,Zach Graham
+149,3,00:03,FLA,70,58,substituicao_entra,Vargas
+150,3,00:03,FLA,70,58,substituicao_sai,Balbi
+151,3,00:04,FLA,70,58,FR,Zach Graham
+152,3,00:04,PIN,70,58,FC,Bennett
+153,3,00:04,PIN,70,58,substituicao_entra,Bennett
+154,3,00:04,PIN,70,58,substituicao_sai,Cauê
+155,3,00:04,FLA,70,58,FR,Zach Graham
+156,3,00:04,PIN,70,58,FC,Cauê
+157,3,00:06,PIN,70,58,substituicao_entra,Toledo
+158,3,00:06,PIN,70,58,substituicao_sai,Buffat
+159,3,00:06,FLA,70,58,substituicao_entra,Marquinhos
+160,3,00:06,FLA,70,58,substituicao_entra,Balbi
+161,3,00:06,FLA,70,58,substituicao_sai,Olivinha
+162,3,00:06,FLA,70,58,substituicao_sai,Mineiro
+163,3,00:06,FLA,70,58,FR,Deryk
+164,3,00:06,PIN,70,58,FC,Dawkins
+165,3,00:27,PIN,70,58,AS,Buffat
+166,3,00:27,PIN,70,58,2_Pts_C,Cauê
+167,3,00:32,FLA,70,56,substituicao_entra,Pedro Nunes
+168,3,00:32,FLA,70,56,substituicao_sai,Marquinhos
+169,3,00:36,PIN,70,56,FR,Dawkins
+170,3,00:36,FLA,70,56,FC,Olivinha
+171,3,00:44,PIN,70,56,RD,Dawkins
+172,3,00:47,FLA,70,56,2_Pts_T,Zach Graham
+173,3,01:01,PIN,70,56,AS,Ware
+174,3,01:01,PIN,70,56,3_Pts_C,Buffat
+175,3,01:17,PIN,70,53,RD,Ware
+176,3,01:20,FLA,70,53,3_Pts_T,Zach Graham
+177,3,01:41,PIN,70,53,AS,Scaglia
+178,3,01:41,PIN,70,53,2_Pts_C,Ware
+179,3,02:00,FLA,70,51,AS,Balbi
+180,3,02:00,FLA,70,51,LL_Pts_C,Mineiro
+181,3,02:00,FLA,69,51,LL_Pts_T,Mineiro
+182,3,02:00,PIN,69,51,substituicao_entra,Buffat
+183,3,02:00,PIN,69,51,substituicao_sai,Bennett
+184,3,02:00,FLA,69,51,substituicao_entra,Marquinhos
+185,3,02:00,FLA,69,51,substituicao_entra,Deryk
+186,3,02:00,FLA,69,51,substituicao_sai,Jhonatan
+187,3,02:00,FLA,69,51,substituicao_sai,Balbi
+188,3,02:00,FLA,69,51,FR,Mineiro
+189,3,02:00,PIN,69,51,FC,Cauê
+190,3,02:02,FLA,69,51,RD,Mineiro
+191,3,02:08,PIN,69,51,3_Pts_T,Scaglia
+192,3,02:31,FLA,69,51,AS,Zach Graham
+193,3,02:31,FLA,69,51,2_Pts_C,Jhonatan
+194,3,02:34,FLA,67,51,RD,Zach Graham
+195,3,02:37,PIN,67,51,2_Pts_T,Bennett
+196,3,02:47,FLA,67,51,AS,Balbi
+197,3,02:47,FLA,67,51,2_Pts_C,Olivinha
+198,3,03:10,PIN,65,51,3_Pts_C,Dawkins
+199,3,03:21,FLA,65,48,ER,Zach Graham
+200,3,03:37,PIN,65,48,substituicao_entra,Cauê
+201,3,03:37,PIN,65,48,substituicao_entra,Scaglia
+202,3,03:37,PIN,65,48,substituicao_sai,C  Torres
+203,3,03:37,PIN,65,48,substituicao_sai,Isaac
+204,3,03:37,FLA,65,48,substituicao_entra,Mineiro
+205,3,03:37,FLA,65,48,substituicao_sai,Léo Demétrio
+206,3,03:37,FLA,65,48,FR,Olivinha
+207,3,03:37,PIN,65,48,ER,Ware
+208,3,03:37,PIN,65,48,FC_O,Ware
+209,3,03:47,FLA,65,48,AS,Balbi
+210,3,03:47,FLA,65,48,3_Pts_C,Jhonatan
+211,3,03:52,FLA,62,48,RD,Balbi
+212,3,03:54,PIN,62,48,3_Pts_T,Bennett
+213,3,04:02,PIN,62,48,RD,C  Torres
+214,3,04:05,FLA,62,48,2_Pts_T,Balbi
+215,3,04:24,PIN,62,48,LL_Pts_C,Bennett
+216,3,04:24,PIN,62,47,LL_Pts_C,Bennett
+217,3,04:24,FLA,62,46,substituicao_entra,Zach Graham
+218,3,04:24,FLA,62,46,substituicao_entra,Olivinha
+219,3,04:24,FLA,62,46,substituicao_sai,Vargas
+220,3,04:24,FLA,62,46,substituicao_sai,Marquinhos
+221,3,04:24,PIN,62,46,FR,Bennett
+222,3,04:24,FLA,62,46,FC,Léo Demétrio
+223,3,04:38,FLA,62,46,AS,Balbi
+224,3,04:38,FLA,62,46,3_Pts_C,Léo Demétrio
+225,3,04:59,PIN,59,46,AS,C  Torres
+226,3,04:59,PIN,59,46,2_Pts_C,Dawkins
+227,3,05:16,FLA,59,44,AS,Balbi
+228,3,05:16,FLA,59,44,2_Pts_C,Vargas
+229,3,05:22,PIN,57,44,AS,Dawkins
+230,3,05:22,PIN,57,44,2_Pts_C,C  Torres
+231,3,05:48,FLA,57,42,AS,Jhonatan
+232,3,05:48,FLA,57,42,EN,Vargas
+233,3,05:51,FLA,55,42,RO,Vargas
+234,3,05:54,FLA,55,42,3_Pts_T,Léo Demétrio
+235,3,06:21,PIN,55,42,AS,Dawkins
+236,3,06:21,PIN,55,42,2_Pts_C,C  Torres
+237,3,06:37,PIN,55,40,FR,Ware
+238,3,06:37,FLA,55,40,FC,Léo Demétrio
+239,3,06:56,PIN,55,40,substituicao_entra,Isaac
+240,3,06:56,PIN,55,40,substituicao_sai,Buffat
+241,3,06:56,PIN,55,40,tempo_tecnico,Pinheiros
+242,3,06:56,FLA,55,40,AS,Balbi
+243,3,06:56,FLA,55,40,2_Pts_C,Marquinhos
+244,3,07:14,PIN,53,40,substituicao_entra,Dawkins
+245,3,07:14,PIN,53,40,substituicao_sai,Betinho
+246,3,07:14,FLA,53,40,substituicao_entra,Léo Demétrio
+247,3,07:14,FLA,53,40,substituicao_sai,Olivinha
+248,3,07:14,PIN,53,40,ER,Betinho
+249,3,07:27,FLA,53,40,AS,Vargas
+250,3,07:27,FLA,53,40,2_Pts_C,Olivinha
+251,3,07:31,FLA,51,40,BR,Vargas
+252,3,07:31,PIN,51,40,ER,Bennett
+253,3,07:46,PIN,51,40,RD,Betinho
+254,3,07:48,FLA,51,40,2_Pts_T,Marquinhos
+255,3,08:02,PIN,51,40,ER,Betinho
+256,3,08:09,PIN,51,40,BR,Betinho
+257,3,08:09,FLA,51,40,ER,Marquinhos
+258,3,08:22,FLA,51,40,RO,Flamengo
+259,3,08:23,FLA,51,40,2_Pts_T,Olivinha
+260,3,08:32,FLA,51,40,RD,Olivinha
+261,3,08:34,PIN,51,40,2_Pts_T,C  Torres
+262,3,08:42,PIN,51,40,RD,Buffat
+263,3,08:45,FLA,51,40,2_Pts_T,Jhonatan
+264,3,09:02,PIN,51,40,ER,Betinho
+265,3,09:24,FLA,51,40,AS,Balbi
+266,3,09:24,FLA,51,40,3_Pts_C,Marquinhos
+267,3,09:36,FLA,48,40,RD,Marquinhos
+268,3,09:39,PIN,48,40,2_Pts_T,Betinho
+269,3,10:00,NaN,48,40,inicio_quarto,
+270,2,00:00,NaN,48,40,fim_quarto,
+271,2,00:03,FLA,48,40,RD,Pedro Nunes
+272,2,00:03,PIN,48,40,2_Pts_T,Bennett
+273,2,00:14,PIN,48,40,substituicao_entra,Bennett
+274,2,00:14,PIN,48,40,substituicao_sai,Toledo
+275,2,00:14,FLA,48,40,substituicao_entra,Léo Demétrio
+276,2,00:14,FLA,48,40,substituicao_entra,Pedro Nunes
+277,2,00:14,FLA,48,40,substituicao_sai,Vargas
+278,2,00:14,FLA,48,40,substituicao_sai,Marquinhos
+279,2,00:14,PIN,48,40,FR,Toledo
+280,2,00:14,FLA,48,40,ER,Marquinhos
+281,2,00:14,FLA,48,40,FC_O,Marquinhos
+282,2,00:24,FLA,48,40,RD,Balbi
+283,2,00:26,PIN,48,40,2_Pts_T,Cauê
+284,2,00:27,PIN,48,40,RO,Cauê
+285,2,00:31,PIN,48,40,2_Pts_T,Dawkins
+286,2,00:47,FLA,48,40,LL_Pts_C,Marquinhos
+287,2,00:47,FLA,47,40,LL_Pts_T,Marquinhos
+288,2,00:47,FLA,47,40,FR,Marquinhos
+289,2,00:47,PIN,47,40,FC,Toledo
+290,2,01:01,PIN,47,40,LL_Pts_C,Dawkins
+291,2,01:01,FLA,47,39,substituicao_entra,Zach Graham
+292,2,01:01,FLA,47,39,substituicao_sai,Jhonatan
+293,2,01:01,FLA,47,39,ER,Marquinhos
+294,2,01:01,FLA,47,39,FC_T,Marquinhos
+295,2,01:04,PIN,47,39,2_Pts_C,Cauê
+296,2,01:13,PIN,47,37,FR,Betinho
+297,2,01:13,FLA,47,37,FC,Jhonatan
+298,2,01:29,FLA,47,37,LL_Pts_C,Marquinhos
+299,2,01:29,FLA,46,37,AS,Balbi
+300,2,01:29,FLA,46,37,LL_Pts_C,Marquinhos
+301,2,01:29,FLA,45,37,FR,Marquinhos
+302,2,01:29,PIN,45,37,FC,C  Torres
+303,2,01:30,FLA,45,37,BR,Balbi
+304,2,01:30,PIN,45,37,ER,Dawkins
+305,2,01:35,PIN,45,37,tempo_tecnico,Pinheiros
+306,2,01:35,FLA,45,37,AS,Marquinhos
+307,2,01:35,FLA,45,37,2_Pts_C,Vargas
+308,2,01:41,FLA,43,37,BR,Olivinha
+309,2,01:41,PIN,43,37,ER,Betinho
+310,2,01:56,FLA,43,37,3_Pts_C,Balbi
+311,2,02:10,FLA,40,37,RD,Flamengo
+312,2,02:12,PIN,40,37,2_Pts_T,Cauê
+313,2,02:28,FLA,40,37,LL_Pts_C,Jhonatan
+314,2,02:28,FLA,39,37,LL_Pts_C,Jhonatan
+315,2,02:28,FLA,38,37,LL_Pts_C,Jhonatan
+316,2,02:28,PIN,37,37,FC_T,Betinho
+317,2,02:28,FLA,37,37,FR,Jhonatan
+318,2,02:28,PIN,37,37,FC,Betinho
+319,2,02:37,PIN,37,37,substituicao_entra,Cauê
+320,2,02:37,PIN,37,37,substituicao_entra,Dawkins
+321,2,02:37,PIN,37,37,substituicao_entra,Toledo
+322,2,02:37,PIN,37,37,substituicao_sai,Ware
+323,2,02:37,PIN,37,37,substituicao_sai,Isaac
+324,2,02:37,PIN,37,37,substituicao_sai,Bennett
+325,2,02:37,FLA,37,37,substituicao_entra,Jhonatan
+326,2,02:37,FLA,37,37,substituicao_sai,Zach Graham
+327,2,02:37,FLA,37,37,tempo_tecnico,Flamengo
+328,2,02:37,PIN,37,37,AS,Betinho
+329,2,02:37,PIN,37,37,2_Pts_C,Bennett
+330,2,02:38,PIN,37,35,RD,Betinho
+331,2,02:41,FLA,37,35,2_Pts_T,Olivinha
+332,2,02:47,FLA,37,35,RD,Marquinhos
+333,2,02:49,PIN,37,35,2_Pts_T,Bennett
+334,2,02:53,PIN,37,35,RD,C  Torres
+335,2,02:56,FLA,37,35,2_Pts_T,Balbi
+336,2,03:07,FLA,37,35,FR,Balbi
+337,2,03:07,PIN,37,35,FC,Bennett
+338,2,03:22,PIN,37,35,3_Pts_C,Bennett
+339,2,03:34,PIN,37,32,BR,Isaac
+340,2,03:34,FLA,37,32,ER,Olivinha
+341,2,03:42,PIN,37,32,2_Pts_C,C  Torres
+342,2,03:42,PIN,37,30,RO,C  Torres
+343,2,03:51,PIN,37,30,2_Pts_T,Betinho
+344,2,04:04,PIN,37,30,substituicao_entra,Isaac
+345,2,04:04,PIN,37,30,substituicao_sai,Dawkins
+346,2,04:04,FLA,37,30,substituicao_entra,Olivinha
+347,2,04:04,FLA,37,30,substituicao_sai,Léo Demétrio
+348,2,04:04,PIN,37,30,RO,Pinheiros
+349,2,04:07,PIN,37,30,3_Pts_T,Betinho
+350,2,04:20,FLA,37,30,AS,Zach Graham
+351,2,04:20,FLA,37,30,EN,Léo Demétrio
+352,2,04:25,FLA,35,30,BR,Zach Graham
+353,2,04:25,PIN,35,30,ER,Dawkins
+354,2,04:33,PIN,35,30,FR,Ware
+355,2,04:33,FLA,35,30,FC,Léo Demétrio
+356,2,04:48,FLA,35,30,AS,Balbi
+357,2,04:48,FLA,35,30,3_Pts_C,Zach Graham
+358,2,05:09,PIN,32,30,2_Pts_C,Ware
+359,2,05:28,PIN,32,28,RD,C  Torres
+360,2,05:28,FLA,32,28,LL_Pts_T,Léo Demétrio
+361,2,05:28,FLA,32,28,LL_Pts_T,Léo Demétrio
+362,2,05:28,FLA,32,28,LL_Pts_C,Léo Demétrio
+363,2,05:28,FLA,31,28,substituicao_entra,Zach Graham
+364,2,05:28,FLA,31,28,substituicao_sai,Jhonatan
+365,2,05:28,FLA,31,28,substituicao_entra,Marquinhos
+366,2,05:28,FLA,31,28,substituicao_sai,Zach Graham
+367,2,05:28,FLA,31,28,FR,Léo Demétrio
+368,2,05:28,PIN,31,28,FC,C  Torres
+369,2,05:45,PIN,31,28,AS,Bennett
+370,2,05:45,PIN,31,28,3_Pts_C,Ware
+371,2,05:57,FLA,31,25,2_Pts_C,Léo Demétrio
+372,2,06:15,FLA,29,25,RD,Vargas
+373,2,06:18,PIN,29,25,2_Pts_T,C  Torres
+374,2,06:43,FLA,29,25,LL_Pts_C,Zach Graham
+375,2,06:43,FLA,28,25,LL_Pts_T,Zach Graham
+376,2,06:43,FLA,28,25,AS,Deryk
+377,2,06:43,FLA,28,25,LL_Pts_C,Zach Graham
+378,2,06:43,FLA,27,25,substituicao_entra,Vargas
+379,2,06:43,FLA,27,25,substituicao_entra,Balbi
+380,2,06:43,FLA,27,25,substituicao_sai,Olivinha
+381,2,06:43,FLA,27,25,substituicao_sai,Deryk
+382,2,06:43,FLA,27,25,FR,Zach Graham
+383,2,06:43,PIN,27,25,FC,Dawkins
+384,2,07:03,PIN,27,25,AS,Dawkins
+385,2,07:03,PIN,27,25,2_Pts_C,C  Torres
+386,2,07:23,FLA,27,23,AS,Deryk
+387,2,07:23,FLA,27,23,3_Pts_C,Zach Graham
+388,2,07:30,FLA,24,23,LL_Pts_C,Jhonatan
+389,2,07:30,PIN,23,23,FC_T,Técnico do Pinheiros
+390,2,07:30,FLA,23,23,RO,Léo Demétrio
+391,2,07:33,FLA,23,23,2_Pts_T,Zach Graham
+392,2,07:44,PIN,23,23,substituicao_entra,Betinho
+393,2,07:44,PIN,23,23,substituicao_sai,Buffat
+394,2,07:44,FLA,23,23,FR,Jhonatan
+395,2,07:44,PIN,23,23,FC,Buffat
+396,2,07:44,FLA,23,23,RO,Flamengo
+397,2,07:45,FLA,23,23,3_Pts_T,Léo Demétrio
+398,2,07:52,PIN,23,23,substituicao_entra,Buffat
+399,2,07:52,PIN,23,23,substituicao_sai,Isaac
+400,2,07:52,FLA,23,23,tempo_tecnico,Flamengo
+401,2,07:52,PIN,23,23,2_Pts_C,Bennett
+402,2,08:04,PIN,23,21,RD,Bennett
+403,2,08:06,FLA,23,21,3_Pts_T,Deryk
+404,2,08:29,FLA,23,21,RD,Zach Graham
+405,2,08:31,PIN,23,21,2_Pts_T,C  Torres
+406,2,08:42,PIN,23,21,RD,Isaac
+407,2,08:45,FLA,23,21,3_Pts_T,Olivinha
+408,2,09:07,PIN,23,21,AS,Ware
+409,2,09:07,PIN,23,21,3_Pts_C,Isaac
+410,2,09:09,PIN,23,18,RO,Ware
+411,2,09:12,PIN,23,18,2_Pts_T,Ware
+412,2,09:22,PIN,23,18,BR,Bennett
+413,2,09:22,FLA,23,18,ER,Zach Graham
+414,2,09:29,FLA,23,18,RD,Olivinha
+415,2,09:32,PIN,23,18,2_Pts_T,Dawkins
+416,2,09:42,PIN,23,18,RD,Isaac
+417,2,09:44,FLA,23,18,2_Pts_T,Jhonatan
+418,2,10:00,NaN,23,18,inicio_quarto,
+419,1,00:00,NaN,23,18,fim_quarto,
+420,1,00:00,PIN,23,18,3_Pts_T,Bennett
+421,1,00:00,PIN,23,18,substituicao_entra,Bennett
+422,1,00:00,PIN,23,18,substituicao_sai,Isaac
+423,1,00:03,FLA,23,18,LL_Pts_C,Zach Graham
+424,1,00:03,FLA,22,18,LL_Pts_T,Zach Graham
+425,1,00:03,FLA,22,18,substituicao_entra,Barrera
+426,1,00:03,FLA,22,18,substituicao_entra,Deryk
+427,1,00:03,FLA,22,18,substituicao_sai,Jhonatan
+428,1,00:03,FLA,22,18,substituicao_sai,Balbi
+429,1,00:03,FLA,22,18,FR,Zach Graham
+430,1,00:03,PIN,22,18,FC,Betinho
+431,1,00:25,PIN,22,18,AS,Betinho
+432,1,00:25,PIN,22,18,2_Pts_C,C  Torres
+433,1,00:44,FLA,22,16,substituicao_entra,Maciel
+434,1,00:44,FLA,22,16,substituicao_sai,Vargas
+435,1,00:44,FLA,22,16,LL_Pts_C,Vargas
+436,1,00:44,FLA,21,16,LL_Pts_C,Vargas
+437,1,00:44,FLA,20,16,substituicao_entra,Zach Graham
+438,1,00:44,FLA,20,16,substituicao_entra,Jhonatan
+439,1,00:44,FLA,20,16,substituicao_sai,Marquinhos
+440,1,00:44,FLA,20,16,substituicao_sai,Pedro Nunes
+441,1,00:44,FLA,20,16,FR,Vargas
+442,1,00:44,PIN,20,16,FC,Ware
+443,1,00:59,PIN,20,16,LL_Pts_C,Betinho
+444,1,00:59,PIN,20,15,LL_Pts_C,Betinho
+445,1,00:59,PIN,20,14,substituicao_entra,C  Torres
+446,1,00:59,PIN,20,14,substituicao_sai,Toledo
+447,1,00:59,PIN,20,14,FR,Betinho
+448,1,00:59,FLA,20,14,FC,Vargas
+449,1,01:14,FLA,20,14,AS,Balbi
+450,1,01:14,FLA,20,14,2_Pts_C,Vargas
+451,1,01:28,PIN,18,14,AS,Toledo
+452,1,01:28,PIN,18,14,3_Pts_C,Betinho
+453,1,01:36,FLA,18,11,substituicao_entra,Vargas
+454,1,01:36,FLA,18,11,substituicao_sai,Olivinha
+455,1,01:36,PIN,18,11,substituicao_entra,Toledo
+456,1,01:36,PIN,18,11,substituicao_sai,Bennett
+457,1,01:36,PIN,18,11,substituicao_entra,Dawkins
+458,1,01:36,PIN,18,11,substituicao_entra,Isaac
+459,1,01:36,PIN,18,11,substituicao_sai,Toledo
+460,1,01:36,PIN,18,11,substituicao_sai,Buffat
+461,1,01:36,PIN,18,11,FR,Betinho
+462,1,01:36,FLA,18,11,FC,Pedro Nunes
+463,1,01:43,PIN,18,11,RD,Ware
+464,1,01:45,FLA,18,11,3_Pts_T,Olivinha
+465,1,01:51,FLA,18,11,RD,Olivinha
+466,1,01:54,PIN,18,11,2_Pts_T,Bennett
+467,1,02:09,PIN,18,11,RD,Buffat
+468,1,02:12,FLA,18,11,2_Pts_T,Balbi
+469,1,02:36,PIN,18,11,ER,Toledo
+470,1,02:44,PIN,18,11,substituicao_entra,Ware
+471,1,02:44,PIN,18,11,substituicao_sai,C  Torres
+472,1,02:44,FLA,18,11,substituicao_entra,Léo Demétrio
+473,1,02:44,FLA,18,11,substituicao_sai,Vargas
+474,1,02:44,PIN,18,11,FR,Betinho
+475,1,02:44,FLA,18,11,FC,Pedro Nunes
+476,1,03:00,FLA,18,11,AS,Olivinha
+477,1,03:00,FLA,18,11,2_Pts_C,Vargas
+478,1,03:11,FLA,16,11,RO,Vargas
+479,1,03:13,FLA,16,11,3_Pts_T,Marquinhos
+480,1,03:22,FLA,16,11,RD,Pedro Nunes
+481,1,03:24,PIN,16,11,3_Pts_T,C  Torres
+482,1,03:35,PIN,16,11,BR,C  Torres
+483,1,03:35,FLA,16,11,ER,Marquinhos
+484,1,03:56,FLA,16,11,FR,Balbi
+485,1,03:56,PIN,16,11,ER,Bennett
+486,1,03:56,PIN,16,11,FC_O,Bennett
+487,1,04:21,FLA,16,11,ER,
+488,1,04:34,PIN,16,11,,
+489,1,04:54,FLA,16,11,substituicao_entra,Pedro Nunes
+490,1,04:54,FLA,16,11,substituicao_sai,Jhonatan
+491,1,04:54,FLA,16,11,ER,Olivinha
+492,1,04:54,FLA,16,11,RO,Olivinha
+493,1,04:56,FLA,16,11,3_Pts_T,Marquinhos
+494,1,05:16,PIN,16,11,AS,C  Torres
+495,1,05:16,PIN,16,11,3_Pts_C,Betinho
+496,1,05:29,FLA,16,8,LL_Pts_C,Vargas
+497,1,05:29,FLA,15,8,FR,Vargas
+498,1,05:29,PIN,15,8,FC,Buffat
+499,1,05:29,FLA,15,8,AS,Balbi
+500,1,05:29,FLA,15,8,2_Pts_C,Vargas
+501,1,05:47,PIN,13,8,AS,Bennett
+502,1,05:47,PIN,13,8,2_Pts_C,C  Torres
+503,1,05:54,PIN,13,6,FR,Buffat
+504,1,05:54,FLA,13,6,FC,Jhonatan
+505,1,06:06,FLA,13,6,AS,Vargas
+506,1,06:06,FLA,13,6,2_Pts_C,Olivinha
+507,1,06:18,FLA,11,6,FR,Olivinha
+508,1,06:18,PIN,11,6,FC,Toledo
+509,1,06:24,FLA,11,6,RD,Flamengo
+510,1,06:26,PIN,11,6,2_Pts_T,Bennett
+511,1,06:46,FLA,11,6,AS,Jhonatan
+512,1,06:46,FLA,11,6,3_Pts_C,Olivinha
+513,1,06:54,FLA,8,6,FR,Vargas
+514,1,06:54,PIN,8,6,FC,Buffat
+515,1,07:05,FLA,8,6,BR,Olivinha
+516,1,07:05,PIN,8,6,ER,Betinho
+517,1,07:24,FLA,8,6,3_Pts_C,Marquinhos
+518,1,07:40,PIN,5,6,2_Pts_C,Buffat
+519,1,07:40,PIN,5,4,RO,Buffat
+520,1,07:43,PIN,5,4,2_Pts_T,Buffat
+521,1,07:54,PIN,5,4,RO,Betinho
+522,1,07:57,PIN,5,4,3_Pts_T,C  Torres
+523,1,08:09,PIN,5,4,RO,Pinheiros
+524,1,08:09,PIN,5,4,LL_Pts_T,Toledo
+525,1,08:09,PIN,5,4,AS,Betinho
+526,1,08:09,PIN,5,4,LL_Pts_C,Toledo
+527,1,08:09,PIN,5,3,FR,Toledo
+528,1,08:09,FLA,5,3,FC,Olivinha
+529,1,08:18,FLA,5,3,AS,Balbi
+530,1,08:18,FLA,5,3,2_Pts_C,Olivinha
+531,1,08:32,PIN,3,3,3_Pts_C,Betinho
+532,1,08:46,FLA,3,0,AS,Balbi
+533,1,08:46,FLA,3,0,3_Pts_C,Olivinha
+534,1,08:59,FLA,0,0,RD,Olivinha
+535,1,09:03,PIN,0,0,2_Pts_T,Bennett
+536,1,09:10,PIN,0,0,RO,Toledo
+537,1,09:13,PIN,0,0,2_Pts_T,Toledo
+538,1,09:29,PIN,0,0,BR,Bennett
+539,1,09:29,FLA,0,0,ER,Balbi
+540,1,09:34,FLA,0,0,RD,Vargas
+541,1,09:37,PIN,0,0,3_Pts_T,C  Torres
+542,1,10:00,PIN,0,0,substituicao_entra,C  Torres
+543,1,10:00,PIN,0,0,substituicao_entra,Betinho
+544,1,10:00,PIN,0,0,substituicao_entra,Toledo
+545,1,10:00,PIN,0,0,substituicao_entra,Buffat
+546,1,10:00,PIN,0,0,substituicao_entra,Bennett
+547,1,10:00,FLA,0,0,substituicao_entra,Vargas
+548,1,10:00,FLA,0,0,substituicao_entra,Olivinha
+549,1,10:00,FLA,0,0,substituicao_entra,Marquinhos
+550,1,10:00,FLA,0,0,substituicao_entra,Jhonatan
+551,1,10:00,FLA,0,0,substituicao_entra,Balbi
+552,1,10:00,NaN,0,0,inicio_partida,

@@ -1,0 +1,581 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,81,72,fim_partida,
+1,4,00:00,NaN,81,72,fim_quarto, 
+2,4,00:00,BOT,81,72,3_Pts_C,Paulinho
+3,4,00:02,BOT,81,69,FR,Lucas
+4,4,00:02,FLA,81,69,FC,Olivinha
+5,4,00:04,BOT,81,69,substituicao_entra,Paulinho
+6,4,00:04,BOT,81,69,substituicao_sai,Mogi
+7,4,00:04,FLA,81,69,substituicao_entra,Léo Demétrio
+8,4,00:04,FLA,81,69,substituicao_sai,Marquinhos
+9,4,00:04,FLA,81,69,substituicao_entra,Mineiro
+10,4,00:04,FLA,81,69,substituicao_sai,Deryk
+11,4,00:04,FLA,81,69,substituicao_entra,Black
+12,4,00:04,FLA,81,69,substituicao_sai,Balbi
+13,4,00:04,BOT,81,69,tempo_tecnico,Botafogo
+14,4,00:04,FLA,81,69,AS,Deryk
+15,4,00:04,FLA,81,69,3_Pts_C,Balbi
+16,4,00:16,FLA,78,69,BR,Pedro Nunes
+17,4,00:16,BOT,78,69,ER,Jamaal
+18,4,00:31,BOT,78,69,BR,Mogi
+19,4,00:31,FLA,78,69,ER,Marquinhos
+20,4,00:44,FLA,78,69,substituicao_entra,Marquinhos
+21,4,00:44,FLA,78,69,substituicao_sai,Black
+22,4,01:10,FLA,78,69,substituicao_entra,Deryk
+23,4,01:10,FLA,78,69,substituicao_sai,Mineiro
+24,4,01:10,BOT,78,69,AS,Jamaal
+25,4,01:10,BOT,78,69,3_Pts_C,Arthur
+26,4,01:24,FLA,78,66,substituicao_entra,Pedro Nunes
+27,4,01:24,FLA,78,66,substituicao_sai,Deryk
+28,4,01:24,FLA,78,66,substituicao_entra,Black
+29,4,01:24,FLA,78,66,substituicao_sai,Marquinhos
+30,4,01:24,FLA,78,66,ER,Olivinha
+31,4,01:37,FLA,78,66,substituicao_entra,Marquinhos
+32,4,01:37,FLA,78,66,substituicao_sai,Black
+33,4,01:37,BOT,78,66,AS,Jamaal
+34,4,01:37,BOT,78,66,3_Pts_C,Lucas
+35,4,01:44,BOT,78,63,substituicao_entra,Mogi
+36,4,01:44,BOT,78,63,substituicao_sai,Paulinho
+37,4,01:44,FLA,78,63,substituicao_entra,Black
+38,4,01:44,FLA,78,63,substituicao_sai,Marquinhos
+39,4,01:44,FLA,78,63,substituicao_entra,Mineiro
+40,4,01:44,FLA,78,63,substituicao_sai,Vargas
+41,4,01:44,FLA,78,63,substituicao_entra,Balbi
+42,4,01:44,FLA,78,63,substituicao_sai,Zach Graham
+43,4,01:46,FLA,78,63,2_Pts_C,Marquinhos
+44,4,01:55,FLA,76,63,BR,Deryk
+45,4,01:55,BOT,76,63,ER,Paulinho
+46,4,02:02,BOT,76,63,RO,Paulinho
+47,4,02:07,BOT,76,63,2_Pts_T,Paulinho
+48,4,02:14,BOT,76,63,RD,Lucas
+49,4,02:18,FLA,76,63,3_Pts_T,Olivinha
+50,4,02:41,BOT,76,63,2_Pts_C,Cauê
+51,4,02:46,BOT,76,61,RD,Lucas
+52,4,02:51,FLA,76,61,2_Pts_T,Olivinha
+53,4,03:05,FLA,76,61,RD,Olivinha
+54,4,03:09,BOT,76,61,2_Pts_T,Lucas
+55,4,03:30,FLA,76,61,AS,Marquinhos
+56,4,03:30,FLA,76,61,3_Pts_C,Olivinha
+57,4,03:43,FLA,73,61,RD,Olivinha
+58,4,03:49,BOT,73,61,3_Pts_T,Arthur
+59,4,04:04,BOT,73,61,substituicao_entra,Cauê
+60,4,04:04,BOT,73,61,substituicao_sai,Mogi
+61,4,04:04,BOT,73,61,tempo_tecnico,Botafogo
+62,4,04:04,FLA,73,61,2_Pts_C,Marquinhos
+63,4,04:26,FLA,71,61,substituicao_entra,Marquinhos
+64,4,04:26,FLA,71,61,substituicao_sai,Pedro Nunes
+65,4,04:26,BOT,71,61,ER,Lucas
+66,4,04:26,FLA,71,61,2_Pts_C,Deryk
+67,4,04:26,FLA,69,61,RO,Deryk
+68,4,04:36,FLA,69,61,3_Pts_T,Olivinha
+69,4,04:52,BOT,69,61,substituicao_entra,Lucas
+70,4,04:52,BOT,69,61,substituicao_sai,Du Sommer
+71,4,04:52,FLA,69,61,FR,Zach Graham
+72,4,04:52,BOT,69,61,FC,Du Sommer
+73,4,04:52,FLA,69,61,RO,Flamengo
+74,4,04:52,FLA,69,61,2_Pts_T,Zach Graham
+75,4,05:10,FLA,69,61,BR,Olivinha
+76,4,05:10,BOT,69,61,ER,Paulinho
+77,4,05:21,BOT,69,61,LL_Pts_T,Paulinho
+78,4,05:21,FLA,69,61,FC_T,Técnico do Flamengo
+79,4,05:21,BOT,69,61,RD,Botafogo
+80,4,05:21,FLA,69,61,2_Pts_T,Olivinha
+81,4,05:21,FLA,69,61,RD,Zach Graham
+82,4,05:29,BOT,69,61,2_Pts_T,Paulinho
+83,4,05:41,BOT,69,61,RD,Mogi
+84,4,05:45,FLA,69,61,2_Pts_T,Olivinha
+85,4,06:05,BOT,69,61,2_Pts_C,Paulinho
+86,4,06:30,FLA,69,59,3_Pts_C,Deryk
+87,4,06:43,FLA,66,59,RD,Deryk
+88,4,06:46,BOT,66,59,2_Pts_T,Jamaal
+89,4,07:01,BOT,66,59,substituicao_entra,Du Sommer
+90,4,07:01,BOT,66,59,substituicao_sai,Lucas
+91,4,07:01,FLA,66,59,substituicao_entra,Pedro Nunes
+92,4,07:01,FLA,66,59,substituicao_sai,Marquinhos
+93,4,07:01,FLA,66,59,LL_Pts_C,Vargas
+94,4,07:01,FLA,65,59,LL_Pts_T,Vargas
+95,4,07:01,FLA,65,59,FR,Vargas
+96,4,07:01,BOT,65,59,FC,Lucas
+97,4,07:01,FLA,65,59,RO,Vargas
+98,4,07:03,BOT,65,59,TO,Lucas
+99,4,07:03,FLA,65,59,2_Pts_T,Zach Graham
+100,4,07:19,FLA,65,59,RD,Marquinhos
+101,4,07:22,BOT,65,59,3_Pts_T,Jamaal
+102,4,07:44,FLA,65,59,ER,Vargas
+103,4,07:55,FLA,65,59,substituicao_entra,Deryk
+104,4,07:55,FLA,65,59,substituicao_sai,Balbi
+105,4,07:55,FLA,65,59,RD,Flamengo
+106,4,07:56,BOT,65,59,2_Pts_T,Lucas
+107,4,08:09,BOT,65,59,FR,Jamaal
+108,4,08:09,FLA,65,59,FC,Balbi
+109,4,08:09,BOT,65,59,RD,Lucas
+110,4,08:19,FLA,65,59,2_Pts_T,Balbi
+111,4,08:29,FLA,65,59,RO,Flamengo
+112,4,08:34,FLA,65,59,2_Pts_T,Zach Graham
+113,4,08:45,FLA,65,59,RD,Vargas
+114,4,08:48,BOT,65,59,3_Pts_T,Lucas
+115,4,09:01,BOT,65,59,RD,Lucas
+116,4,09:05,FLA,65,59,3_Pts_T,Marquinhos
+117,4,09:09,FLA,65,59,RD,Vargas
+118,4,09:12,BOT,65,59,2_Pts_T,Paulinho
+119,4,09:29,BOT,65,59,FR,Paulinho
+120,4,09:29,FLA,65,59,ER,Vargas
+121,4,09:29,FLA,65,59,FC_O,Vargas
+122,4,09:30,FLA,65,59,RO,Flamengo
+123,4,09:33,BOT,65,59,TO,Lucas
+124,4,09:33,FLA,65,59,2_Pts_T,Vargas
+125,4,09:49,BOT,65,59,LL_Pts_C,Paulinho
+126,4,09:49,BOT,65,58,LL_Pts_C,Paulinho
+127,4,09:49,BOT,65,57,FR,Paulinho
+128,4,09:49,FLA,65,57,FC,Zach Graham
+129,4,10:00,NaN,65,57,inicio_quarto,
+130,3,00:00,NaN,65,57,fim_quarto,
+131,3,00:03,BOT,65,57,RD,Arthur
+132,3,00:03,FLA,65,57,3_Pts_T,Balbi
+133,3,00:05,BOT,65,57,substituicao_entra,Jackson
+134,3,00:05,BOT,65,57,substituicao_sai,Mogi
+135,3,00:05,FLA,65,57,substituicao_entra,Deryk
+136,3,00:05,FLA,65,57,substituicao_sai,Mineiro
+137,3,00:05,BOT,65,57,LL_Pts_C,Jamaal
+138,3,00:08,BOT,65,56,LL_Pts_C,Jamaal
+139,3,00:08,BOT,65,55,FR,Jamaal
+140,3,00:08,FLA,65,55,FC,Balbi
+141,3,00:08,FLA,65,55,substituicao_entra,Balbi
+142,3,00:08,FLA,65,55,substituicao_sai,Deryk
+143,3,00:31,FLA,65,55,2_Pts_C,Zach Graham
+144,3,00:33,BOT,63,55,LL_Pts_C,Diego
+145,3,00:33,BOT,63,54,LL_Pts_C,Diego
+146,3,00:33,BOT,63,53,FR,Diego
+147,3,00:33,FLA,63,53,FC,Deryk
+148,3,00:33,BOT,63,53,RD,Diego
+149,3,00:35,FLA,63,53,2_Pts_T,Mineiro
+150,3,00:41,FLA,63,53,RO,Mineiro
+151,3,00:50,FLA,63,53,3_Pts_T,Marquinhos
+152,3,01:02,FLA,63,53,RO,Mineiro
+153,3,01:06,FLA,63,53,3_Pts_T,Léo Demétrio
+154,3,01:24,BOT,63,53,AS,Paulinho
+155,3,01:24,BOT,63,53,2_Pts_C,Arthur
+156,3,01:45,BOT,63,51,substituicao_entra,Diego
+157,3,01:45,BOT,63,51,substituicao_sai,Du Sommer
+158,3,01:45,FLA,63,51,LL_Pts_C,Mineiro
+159,3,01:45,FLA,62,51,LL_Pts_T,Mineiro
+160,3,01:45,FLA,62,51,FR,Mineiro
+161,3,01:45,BOT,62,51,FC,Du Sommer
+162,3,01:59,BOT,62,51,AS,Paulinho
+163,3,01:59,BOT,62,51,2_Pts_C,Mogi
+164,3,02:15,BOT,62,49,substituicao_entra,Du Sommer
+165,3,02:15,BOT,62,49,substituicao_sai,Lucas
+166,3,02:25,FLA,62,49,AS,Deryk
+167,3,02:25,FLA,62,49,2_Pts_C,Marquinhos
+168,3,02:28,FLA,60,49,RD,Zach Graham
+169,3,02:32,BOT,60,49,3_Pts_T,Jamaal
+170,3,02:55,BOT,60,49,substituicao_entra,Jamaal
+171,3,02:55,BOT,60,49,substituicao_sai,Jackson
+172,3,02:55,FLA,60,49,substituicao_entra,Zach Graham
+173,3,02:55,FLA,60,49,substituicao_sai,Balbi
+174,3,02:55,BOT,60,49,tempo_tecnico,Botafogo
+175,3,02:55,FLA,60,49,AS,Deryk
+176,3,02:55,FLA,60,49,3_Pts_C,Marquinhos
+177,3,02:57,FLA,57,49,RD,Deryk
+178,3,03:03,BOT,57,49,3_Pts_T,Arthur
+179,3,03:30,FLA,57,49,AS,Deryk
+180,3,03:30,FLA,57,49,3_Pts_C,Léo Demétrio
+181,3,03:43,FLA,54,49,FR,Marquinhos
+182,3,03:43,BOT,54,49,FC,Mogi
+183,3,03:48,FLA,54,49,RD,Balbi
+184,3,03:52,BOT,54,49,2_Pts_T,Arthur
+185,3,04:09,BOT,54,49,substituicao_entra,Jackson
+186,3,04:09,BOT,54,49,substituicao_sai,Jamaal
+187,3,04:09,FLA,54,49,substituicao_entra,Mineiro
+188,3,04:09,FLA,54,49,substituicao_sai,Vargas
+189,3,04:09,BOT,54,49,FR,Jamaal
+190,3,04:09,FLA,54,49,ER,Deryk
+191,3,04:09,FLA,54,49,FC_O,Deryk
+192,3,04:16,BOT,54,49,2_Pts_C,Lucas
+193,3,04:32,FLA,54,47,AS,Marquinhos
+194,3,04:32,FLA,54,47,2_Pts_C,Léo Demétrio
+195,3,04:34,FLA,52,47,RO,Vargas
+196,3,04:38,FLA,52,47,3_Pts_T,Marquinhos
+197,3,04:54,BOT,52,47,AS,Jamaal
+198,3,04:54,BOT,52,47,3_Pts_C,Lucas
+199,3,05:15,FLA,52,44,LL_Pts_C,Balbi
+200,3,05:15,FLA,51,44,LL_Pts_C,Balbi
+201,3,05:15,BOT,50,44,substituicao_entra,Paulinho
+202,3,05:15,BOT,50,44,substituicao_sai,Cauê
+203,3,05:15,FLA,50,44,FR,Balbi
+204,3,05:15,BOT,50,44,FC,Cauê
+205,3,05:26,BOT,50,44,2_Pts_C,Jamaal
+206,3,05:27,FLA,50,42,substituicao_entra,Deryk
+207,3,05:27,FLA,50,42,substituicao_sai,Zach Graham
+208,3,05:27,FLA,50,42,substituicao_entra,Marquinhos
+209,3,05:27,FLA,50,42,substituicao_sai,Olivinha
+210,3,05:27,FLA,50,42,substituicao_entra,Léo Demétrio
+211,3,05:27,FLA,50,42,substituicao_sai,Pedro Nunes
+212,3,05:48,BOT,50,42,RD,Botafogo
+213,3,05:49,FLA,50,42,2_Pts_T,Vargas
+214,3,06:08,BOT,50,42,AS,Jamaal
+215,3,06:08,BOT,50,42,2_Pts_C,Lucas
+216,3,06:12,BOT,50,40,RD,Lucas
+217,3,06:17,FLA,50,40,2_Pts_T,Olivinha
+218,3,06:35,BOT,50,40,2_Pts_C,Mogi
+219,3,06:45,FLA,50,38,AS,Balbi
+220,3,06:45,FLA,50,38,2_Pts_C,Zach Graham
+221,3,06:52,BOT,48,38,RD,Lucas
+222,3,06:52,FLA,48,38,2_Pts_T,Zach Graham
+223,3,07:08,BOT,48,38,2_Pts_C,Jamaal
+224,3,07:09,BOT,48,36,RO,Jamaal
+225,3,07:14,BOT,48,36,2_Pts_T,Mogi
+226,3,07:29,BOT,48,36,FR,Cauê
+227,3,07:29,FLA,48,36,FC,Pedro Nunes
+228,3,07:36,FLA,48,36,substituicao_entra,Pedro Nunes
+229,3,07:36,FLA,48,36,substituicao_sai,Marquinhos
+230,3,07:36,BOT,48,36,RD,Mogi
+231,3,07:36,FLA,48,36,2_Pts_T,Marquinhos
+232,3,07:41,FLA,48,36,RD,Olivinha
+233,3,07:45,BOT,48,36,3_Pts_T,Lucas
+234,3,07:46,BOT,48,36,RO,Jamaal
+235,3,07:50,BOT,48,36,3_Pts_T,Lucas
+236,3,07:58,BOT,48,36,RD,Lucas
+237,3,08:07,FLA,48,36,2_Pts_T,Balbi
+238,3,08:23,BOT,48,36,2_Pts_C,Jamaal
+239,3,08:37,BOT,48,34,FR,Cauê
+240,3,08:37,FLA,48,34,FC,Vargas
+241,3,08:37,BOT,48,34,RD,Cauê
+242,3,08:40,FLA,48,34,2_Pts_T,Balbi
+243,3,08:45,FLA,48,34,RD,Marquinhos
+244,3,08:49,BOT,48,34,,
+245,3,09:10,FLA,48,34,LL_Pts_C,Marquinhos
+246,3,09:10,FLA,47,34,LL_Pts_C,Marquinhos
+247,3,09:10,FLA,46,34,FR,Marquinhos
+248,3,09:10,BOT,46,34,FC,Arthur
+249,3,09:13,FLA,46,34,RD,Marquinhos
+250,3,09:16,BOT,46,34,2_Pts_T,Mogi
+251,3,09:38,FLA,46,34,AS,Balbi
+252,3,09:38,FLA,46,34,3_Pts_C,Olivinha
+253,3,10:00,NaN,43,34,inicio_quarto,
+254,2,00:00,NaN,43,34,fim_quarto,
+255,2,00:03,BOT,43,34,2_Pts_T,Cauê
+256,2,00:05,BOT,43,34,substituicao_entra,Cauê
+257,2,00:05,BOT,43,34,substituicao_sai,Diego
+258,2,00:05,BOT,43,34,substituicao_entra,Jamaal
+259,2,00:05,BOT,43,34,substituicao_sai,Jackson
+260,2,00:05,BOT,43,34,substituicao_entra,Lucas
+261,2,00:05,BOT,43,34,substituicao_sai,Mogi
+262,2,00:05,FLA,43,34,substituicao_entra,Black
+263,2,00:05,FLA,43,34,substituicao_sai,Marquinhos
+264,2,00:05,FLA,43,34,substituicao_entra,Léo Demétrio
+265,2,00:05,FLA,43,34,substituicao_sai,Deryk
+266,2,00:05,FLA,43,34,substituicao_entra,Pedro Nunes
+267,2,00:05,FLA,43,34,substituicao_sai,Balbi
+268,2,00:05,BOT,43,34,tempo_tecnico,Botafogo
+269,2,00:05,FLA,43,34,2_Pts_C,Deryk
+270,2,00:19,FLA,41,34,substituicao_entra,Balbi
+271,2,00:19,FLA,41,34,substituicao_sai,Black
+272,2,00:19,FLA,41,34,LL_Pts_C,Mineiro
+273,2,00:19,FLA,40,34,LL_Pts_C,Mineiro
+274,2,00:19,FLA,39,34,FR,Mineiro
+275,2,00:19,BOT,39,34,FC_A,Jackson
+276,2,00:27,BOT,39,34,substituicao_entra,Jackson
+277,2,00:27,BOT,39,34,substituicao_sai,Jamaal
+278,2,00:27,BOT,39,34,LL_Pts_C,Jamaal
+279,2,00:27,BOT,39,33,LL_Pts_C,Jamaal
+280,2,00:27,FLA,39,32,substituicao_entra,Marquinhos
+281,2,00:27,FLA,39,32,substituicao_sai,Pedro Nunes
+282,2,00:27,BOT,39,32,FR,Jamaal
+283,2,00:27,FLA,39,32,FC,Deryk
+284,2,00:45,BOT,39,32,substituicao_entra,Jamaal
+285,2,00:45,BOT,39,32,substituicao_sai,Jackson
+286,2,00:45,FLA,39,32,substituicao_entra,Black
+287,2,00:45,FLA,39,32,substituicao_sai,Balbi
+288,2,00:45,FLA,39,32,substituicao_entra,Pedro Nunes
+289,2,00:45,FLA,39,32,substituicao_sai,Marquinhos
+290,2,00:45,FLA,39,32,ER,
+291,2,00:57,FLA,39,32,substituicao_entra,Balbi
+292,2,00:57,FLA,39,32,substituicao_sai,Black
+293,2,01:13,BOT,39,32,substituicao_entra,Jackson
+294,2,01:13,BOT,39,32,substituicao_sai,Jamaal
+295,2,01:13,FLA,39,32,substituicao_entra,Marquinhos
+296,2,01:13,FLA,39,32,substituicao_sai,Pedro Nunes
+297,2,01:13,FLA,39,32,tempo_tecnico,Flamengo
+298,2,01:13,BOT,39,32,2_Pts_C,Arthur
+299,2,01:39,BOT,39,30,substituicao_entra,Jamaal
+300,2,01:39,BOT,39,30,substituicao_sai,Jackson
+301,2,01:39,FLA,39,30,substituicao_entra,Pedro Nunes
+302,2,01:39,FLA,39,30,substituicao_sai,Marquinhos
+303,2,01:39,FLA,39,30,substituicao_entra,Zach Graham
+304,2,01:39,FLA,39,30,substituicao_sai,Pedro Nunes
+305,2,01:39,FLA,39,30,substituicao_entra,Mineiro
+306,2,01:39,FLA,39,30,substituicao_sai,Léo Demétrio
+307,2,01:39,FLA,39,30,ER,Léo Demétrio
+308,2,01:53,FLA,39,30,substituicao_entra,Black
+309,2,01:53,FLA,39,30,substituicao_sai,Olivinha
+310,2,01:53,BOT,39,30,ER,Jackson
+311,2,02:15,FLA,39,30,2_Pts_C,Marquinhos
+312,2,02:26,BOT,37,30,ER,
+313,2,02:34,BOT,37,30,RO,Botafogo
+314,2,02:34,FLA,37,30,TO,Léo Demétrio
+315,2,02:34,BOT,37,30,2_Pts_T,Paulinho
+316,2,02:52,FLA,37,30,AS,Pedro Nunes
+317,2,02:52,FLA,37,30,3_Pts_C,Marquinhos
+318,2,03:01,FLA,34,30,substituicao_entra,Olivinha
+319,2,03:01,FLA,34,30,substituicao_sai,Mineiro
+320,2,03:01,FLA,34,30,tempo_tecnico,Flamengo
+321,2,03:01,BOT,34,30,AS,Paulinho
+322,2,03:01,BOT,34,30,3_Pts_C,Arthur
+323,2,03:18,BOT,34,27,BR,Mogi
+324,2,03:18,FLA,34,27,ER,Mineiro
+325,2,03:27,FLA,34,27,RD,Marquinhos
+326,2,03:32,BOT,34,27,3_Pts_T,Paulinho
+327,2,03:33,BOT,34,27,RO,Diego
+328,2,03:41,BOT,34,27,2_Pts_T,Paulinho
+329,2,04:00,FLA,34,27,substituicao_entra,Léo Demétrio
+330,2,04:00,FLA,34,27,substituicao_sai,Olivinha
+331,2,04:00,FLA,34,27,LL_Pts_C,Olivinha
+332,2,04:00,FLA,33,27,AS,Marquinhos
+333,2,04:00,FLA,33,27,LL_Pts_C,Olivinha
+334,2,04:00,BOT,32,27,substituicao_entra,Mogi
+335,2,04:00,BOT,32,27,substituicao_sai,Cauê
+336,2,04:00,FLA,32,27,substituicao_entra,Pedro Nunes
+337,2,04:00,FLA,32,27,substituicao_sai,Zach Graham
+338,2,04:00,FLA,32,27,FR,Olivinha
+339,2,04:00,BOT,32,27,FC,Cauê
+340,2,04:09,BOT,32,27,AS,Cauê
+341,2,04:09,BOT,32,27,3_Pts_C,Arthur
+342,2,04:16,BOT,32,24,BR,Jackson
+343,2,04:16,FLA,32,24,ER,Mineiro
+344,2,04:32,BOT,32,24,substituicao_entra,Cauê
+345,2,04:32,BOT,32,24,substituicao_sai,Du Sommer
+346,2,04:36,FLA,32,24,FR,Deryk
+347,2,04:36,BOT,32,24,ER,Arthur
+348,2,04:36,BOT,32,24,FC_O,Arthur
+349,2,04:45,BOT,32,24,RD,Diego
+350,2,04:50,FLA,32,24,2_Pts_T,Olivinha
+351,2,04:54,FLA,32,24,RD,Olivinha
+352,2,04:58,BOT,32,24,2_Pts_T,Diego
+353,2,05:22,FLA,32,24,LL_Pts_C,Zach Graham
+354,2,05:22,FLA,31,24,LL_Pts_C,Zach Graham
+355,2,05:22,FLA,30,24,FR,Zach Graham
+356,2,05:22,BOT,30,24,FC,Du Sommer
+357,2,05:22,FLA,30,24,RD,Zach Graham
+358,2,05:22,BOT,30,24,2_Pts_T,Paulinho
+359,2,05:38,FLA,30,24,2_Pts_C,Deryk
+360,2,05:56,BOT,28,24,2_Pts_C,Arthur
+361,2,06:16,BOT,28,22,substituicao_entra,Jackson
+362,2,06:16,BOT,28,22,substituicao_sai,Cauê
+363,2,06:16,FLA,28,22,LL_Pts_C,Marquinhos
+364,2,06:16,FLA,27,22,LL_Pts_C,Marquinhos
+365,2,06:16,FLA,26,22,substituicao_entra,Deryk
+366,2,06:16,FLA,26,22,substituicao_sai,Balbi
+367,2,06:16,FLA,26,22,FR,Marquinhos
+368,2,06:16,BOT,26,22,FC,Cauê
+369,2,06:23,FLA,26,22,BR,Marquinhos
+370,2,06:23,BOT,26,22,ER,Cauê
+371,2,06:37,BOT,26,22,tempo_tecnico,Botafogo
+372,2,06:37,FLA,26,22,AS,Balbi
+373,2,06:37,FLA,26,22,3_Pts_C,Marquinhos
+374,2,06:38,FLA,23,22,RO,Balbi
+375,2,06:42,FLA,23,22,3_Pts_T,Zach Graham
+376,2,06:49,FLA,23,22,RD,Marquinhos
+377,2,06:53,BOT,23,22,2_Pts_T,Du Sommer
+378,2,07:08,FLA,23,22,,
+379,2,07:08,FLA,23,22,RD,Mineiro
+380,2,07:11,BOT,23,22,2_Pts_T,Paulinho
+381,2,07:26,BOT,23,22,LL_Pts_C,Paulinho
+382,2,07:26,BOT,23,21,LL_Pts_C,Paulinho
+383,2,07:26,BOT,23,20,FR,Paulinho
+384,2,07:26,FLA,23,20,FC_A,Balbi
+385,2,07:41,FLA,23,20,AS,Marquinhos
+386,2,07:41,FLA,23,20,2_Pts_C,Mineiro
+387,2,07:48,BOT,21,20,substituicao_entra,Paulinho
+388,2,07:48,BOT,21,20,substituicao_sai,Jamaal
+389,2,07:48,FLA,21,20,FR,Balbi
+390,2,07:48,BOT,21,20,FC,Jamaal
+391,2,07:54,FLA,21,20,RD,Olivinha
+392,2,07:58,BOT,21,20,2_Pts_T,Du Sommer
+393,2,08:17,BOT,21,20,BR,Diego
+394,2,08:17,FLA,21,20,ER,Olivinha
+395,2,08:33,FLA,21,20,FR,Olivinha
+396,2,08:33,BOT,21,20,ER,Jamaal
+397,2,08:33,BOT,21,20,FC_O,Jamaal
+398,2,08:37,BOT,21,20,FR,Jamaal
+399,2,08:37,FLA,21,20,FC,Balbi
+400,2,08:42,BOT,21,20,FR,Cauê
+401,2,08:42,FLA,21,20,FC,Mineiro
+402,2,08:48,FLA,21,20,LL_Pts_C,Olivinha
+403,2,08:48,FLA,20,20,FR,Olivinha
+404,2,08:48,BOT,20,20,FC,Diego
+405,2,08:48,FLA,20,20,AS,Mineiro
+406,2,08:48,FLA,20,20,2_Pts_C,Olivinha
+407,2,09:01,BOT,18,20,substituicao_entra,Du Sommer
+408,2,09:01,BOT,18,20,substituicao_sai,Lucas
+409,2,09:01,FLA,18,20,FR,Mineiro
+410,2,09:01,BOT,18,20,ER,Lucas
+411,2,09:01,BOT,18,20,FC_O,Lucas
+412,2,09:20,BOT,18,20,FR,Cauê
+413,2,09:20,FLA,18,20,ER,Marquinhos
+414,2,09:20,FLA,18,20,FC_O,Marquinhos
+415,2,09:39,FLA,18,20,RD,Marquinhos
+416,2,09:45,BOT,18,20,2_Pts_T,Cauê
+417,2,09:54,FLA,18,20,AS,Marquinhos
+418,2,09:54,FLA,18,20,2_Pts_C,Olivinha
+419,2,09:55,BOT,16,20,substituicao_entra,Diego
+420,2,09:55,BOT,16,20,substituicao_sai,Paulinho
+421,2,09:55,FLA,16,20,substituicao_entra,Marquinhos
+422,2,09:55,FLA,16,20,substituicao_sai,Black
+423,2,09:55,FLA,16,20,substituicao_entra,Olivinha
+424,2,09:55,FLA,16,20,substituicao_sai,Pedro Nunes
+425,2,10:00,NaN,16,20,inicio_quarto,
+426,1,00:00,NaN,16,20,fim_quarto,
+427,1,00:00,BOT,16,20,AS,Paulinho
+428,1,00:00,BOT,16,20,2_Pts_C,Lucas
+429,1,00:14,BOT,16,18,substituicao_entra,Paulinho
+430,1,00:14,BOT,16,18,substituicao_sai,Diego
+431,1,00:14,FLA,16,18,LL_Pts_C,Mineiro
+432,1,00:14,FLA,15,18,LL_Pts_T,Mineiro
+433,1,00:14,FLA,15,18,substituicao_entra,Pedro Nunes
+434,1,00:14,FLA,15,18,substituicao_sai,Olivinha
+435,1,00:14,FLA,15,18,FR,Mineiro
+436,1,00:14,BOT,15,18,FC,Lucas
+437,1,00:19,FLA,15,18,RO,Mineiro
+438,1,00:19,FLA,15,18,3_Pts_T,Zach Graham
+439,1,00:23,FLA,15,18,RO,Zach Graham
+440,1,00:26,FLA,15,18,3_Pts_T,Balbi
+441,1,00:51,BOT,15,18,AS,Jamaal
+442,1,00:51,BOT,15,18,3_Pts_C,Lucas
+443,1,00:56,BOT,15,15,RD,Diego
+444,1,00:59,FLA,15,15,3_Pts_T,Black
+445,1,01:01,BOT,15,15,substituicao_entra,Diego
+446,1,01:01,BOT,15,15,substituicao_sai,Paulinho
+447,1,01:01,FLA,15,15,substituicao_entra,Mineiro
+448,1,01:01,FLA,15,15,substituicao_sai,Vargas
+449,1,01:10,BOT,15,15,LL_Pts_C,Paulinho
+450,1,01:10,BOT,15,14,LL_Pts_C,Paulinho
+451,1,01:10,BOT,15,13,substituicao_entra,Arthur
+452,1,01:10,BOT,15,13,substituicao_sai,Du Sommer
+453,1,01:10,FLA,15,13,substituicao_entra,Olivinha
+454,1,01:10,FLA,15,13,substituicao_sai,Léo Demétrio
+455,1,01:10,FLA,15,13,substituicao_entra,Zach Graham
+456,1,01:10,FLA,15,13,substituicao_sai,Pedro Nunes
+457,1,01:10,BOT,15,13,FR,Paulinho
+458,1,01:10,FLA,15,13,FC,Black
+459,1,01:10,BOT,15,13,RD,Paulinho
+460,1,01:11,FLA,15,13,2_Pts_T,Léo Demétrio
+461,1,01:15,FLA,15,13,BR,Léo Demétrio
+462,1,01:15,BOT,15,13,ER,Paulinho
+463,1,01:26,FLA,15,13,2_Pts_C,Léo Demétrio
+464,1,01:35,BOT,13,13,2_Pts_C,Paulinho
+465,1,01:49,BOT,13,11,LL_Pts_C,Jamaal
+466,1,01:49,FLA,13,10,FC_T,Vargas
+467,1,01:49,BOT,13,10,FR,Jamaal
+468,1,01:49,FLA,13,10,FC,Léo Demétrio
+469,1,01:49,BOT,13,10,RD,Jamaal
+470,1,01:49,FLA,13,10,2_Pts_T,Black
+471,1,02:11,BOT,13,10,3_Pts_C,Jamaal
+472,1,02:24,BOT,13,7,substituicao_entra,Cauê
+473,1,02:24,BOT,13,7,substituicao_sai,Arthur
+474,1,02:24,FLA,13,7,substituicao_entra,Pedro Nunes
+475,1,02:24,FLA,13,7,substituicao_sai,Marquinhos
+476,1,02:24,FLA,13,7,substituicao_entra,Black
+477,1,02:24,FLA,13,7,substituicao_sai,Deryk
+478,1,02:24,FLA,13,7,LL_Pts_C,Deryk
+479,1,02:24,FLA,12,7,LL_Pts_C,Deryk
+480,1,02:24,FLA,11,7,FR,Deryk
+481,1,02:24,BOT,11,7,FC,Du Sommer
+482,1,02:35,BOT,11,7,2_Pts_C,Paulinho
+483,1,02:57,FLA,11,5,AS,Marquinhos
+484,1,02:57,FLA,11,5,3_Pts_C,Léo Demétrio
+485,1,03:12,BOT,8,5,2_Pts_C,Jamaal
+486,1,03:35,BOT,8,3,substituicao_entra,Jamaal
+487,1,03:35,BOT,8,3,substituicao_sai,Cauê
+488,1,03:47,FLA,8,3,ER,Balbi
+489,1,03:49,FLA,8,3,RD,Vargas
+490,1,03:52,BOT,8,3,3_Pts_T,Lucas
+491,1,03:57,BOT,8,3,RD,Paulinho
+492,1,04:01,FLA,8,3,3_Pts_T,Deryk
+493,1,04:05,FLA,8,3,RD,Vargas
+494,1,04:09,BOT,8,3,2_Pts_T,Paulinho
+495,1,04:32,FLA,8,3,substituicao_entra,Balbi
+496,1,04:32,FLA,8,3,substituicao_sai,Zach Graham
+497,1,04:42,BOT,8,3,FR,Lucas
+498,1,04:42,FLA,8,3,FC,Vargas
+499,1,04:42,BOT,8,3,RD,Botafogo
+500,1,04:42,FLA,8,3,2_Pts_T,Marquinhos
+501,1,04:46,FLA,8,3,RD,Vargas
+502,1,04:51,BOT,8,3,3_Pts_T,Paulinho
+503,1,05:05,BOT,8,3,RD,Paulinho
+504,1,05:05,FLA,8,3,LL_Pts_T,Deryk
+505,1,05:05,FLA,8,3,LL_Pts_T,Deryk
+506,1,05:05,BOT,8,3,substituicao_entra,Du Sommer
+507,1,05:05,BOT,8,3,substituicao_sai,Mogi
+508,1,05:05,FLA,8,3,FR,Léo Demétrio
+509,1,05:05,BOT,8,3,FC,Mogi
+510,1,05:07,FLA,8,3,RD,Vargas
+511,1,05:11,BOT,8,3,3_Pts_T,Mogi
+512,1,05:35,FLA,8,3,AS,Léo Demétrio
+513,1,05:35,FLA,8,3,2_Pts_C,Vargas
+514,1,05:55,BOT,6,3,ER,Mogi
+515,1,05:59,BOT,6,3,RD,Paulinho
+516,1,06:03,FLA,6,3,3_Pts_T,Léo Demétrio
+517,1,06:06,FLA,6,3,substituicao_entra,Léo Demétrio
+518,1,06:06,FLA,6,3,substituicao_sai,Olivinha
+519,1,06:06,FLA,6,3,substituicao_entra,Zach Graham
+520,1,06:06,FLA,6,3,substituicao_sai,Mineiro
+521,1,06:07,FLA,6,3,FR,Marquinhos
+522,1,06:07,BOT,6,3,FC,Cauê
+523,1,06:07,FLA,6,3,BR,Marquinhos
+524,1,06:07,BOT,6,3,ER,Cauê
+525,1,06:07,BOT,6,3,substituicao_entra,Lucas
+526,1,06:07,BOT,6,3,substituicao_sai,Du Sommer
+527,1,06:07,BOT,6,3,substituicao_entra,Paulinho
+528,1,06:07,BOT,6,3,substituicao_sai,Jamaal
+529,1,06:07,FLA,6,3,substituicao_entra,Vargas
+530,1,06:07,FLA,6,3,substituicao_sai,Zach Graham
+531,1,06:39,BOT,6,3,FR,Jamaal
+532,1,06:39,FLA,6,3,FC,Deryk
+533,1,06:47,FLA,6,3,AS,Mineiro
+534,1,06:47,FLA,6,3,2_Pts_C,Deryk
+535,1,06:47,FLA,4,3,RD,Mineiro
+536,1,06:47,BOT,4,3,2_Pts_T,Du Sommer
+537,1,06:47,BOT,4,3,FR,Cauê
+538,1,06:47,FLA,4,3,FC,Olivinha
+539,1,06:49,BOT,4,3,RD,Arthur
+540,1,06:56,FLA,4,3,,
+541,1,07:02,FLA,4,3,BR,Olivinha
+542,1,07:02,BOT,4,3,ER,Arthur
+543,1,07:04,BOT,4,3,RD,Arthur
+544,1,07:08,FLA,4,3,2_Pts_T,Deryk
+545,1,07:23,FLA,4,3,FR,Marquinhos
+546,1,07:23,BOT,4,3,FC,Mogi
+547,1,07:26,FLA,4,3,RD,Marquinhos
+548,1,07:31,BOT,4,3,2_Pts_T,Du Sommer
+549,1,07:36,BOT,4,3,RD,Arthur
+550,1,07:40,FLA,4,3,2_Pts_T,Mineiro
+551,1,07:47,FLA,4,3,RD,Marquinhos
+552,1,07:50,BOT,4,3,2_Pts_T,Mogi
+553,1,08:03,BOT,4,3,RD,Botafogo
+554,1,08:03,FLA,4,3,3_Pts_T,Olivinha
+555,1,08:05,FLA,4,3,RD,Olivinha
+556,1,08:09,BOT,4,3,3_Pts_T,Cauê
+557,1,08:19,FLA,4,3,2_Pts_C,Deryk
+558,1,08:26,FLA,2,3,BR,Deryk
+559,1,08:26,BOT,2,3,ER,Cauê
+560,1,08:48,FLA,2,3,2_Pts_C,Marquinhos
+561,1,08:49,FLA,0,3,RO,Marquinhos
+562,1,08:53,FLA,0,3,3_Pts_T,Deryk
+563,1,09:07,FLA,0,3,RD,Marquinhos
+564,1,09:12,BOT,0,3,2_Pts_T,Cauê
+565,1,09:22,BOT,0,3,RD,Arthur
+566,1,09:26,FLA,0,3,2_Pts_T,Mineiro
+567,1,09:43,BOT,0,3,AS,Arthur
+568,1,09:43,BOT,0,3,3_Pts_C,Jamaal
+569,1,10:00,BOT,0,0,substituicao_entra,Arthur
+570,1,10:00,BOT,0,0,substituicao_entra,Du Sommer
+571,1,10:00,BOT,0,0,substituicao_entra,Jamaal
+572,1,10:00,BOT,0,0,substituicao_entra,Cauê
+573,1,10:00,BOT,0,0,substituicao_entra,Mogi
+574,1,10:00,FLA,0,0,substituicao_entra,Zach Graham
+575,1,10:00,FLA,0,0,substituicao_entra,Olivinha
+576,1,10:00,FLA,0,0,substituicao_entra,Mineiro
+577,1,10:00,FLA,0,0,substituicao_entra,Marquinhos
+578,1,10:00,FLA,0,0,substituicao_entra,Deryk
+579,1,10:00,NaN,0,0,inicio_partida,

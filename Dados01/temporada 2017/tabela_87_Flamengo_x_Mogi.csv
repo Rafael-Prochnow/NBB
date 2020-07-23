@@ -1,0 +1,456 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,77,71,fim_partida,
+1,4,00:08,FLA,77,71,substituicao_entra,Ramon
+2,4,00:08,FLA,77,71,substituicao_sai,Pilar
+3,4,00:08,MOG,77,71,3_Pts_C,Shamell
+4,4,00:19,MOG,77,68,RD,C  Torres
+5,4,00:20,FLA,77,68,LL_Pts_T,Cubillan
+6,4,00:20,FLA,77,68,LL_Pts_T,Cubillan
+7,4,00:20,FLA,77,68,substituicao_entra,Pilar
+8,4,00:20,FLA,77,68,substituicao_sai,Ramon
+9,4,00:20,FLA,77,68,FR,Cubillan
+10,4,00:20,MOG,77,68,FC,Shamell
+11,4,00:26,FLA,77,68,substituicao_entra,Ramon
+12,4,00:26,FLA,77,68,substituicao_sai,Pilar
+13,4,00:26,MOG,77,68,2_Pts_C,Jimmy
+14,4,00:30,MOG,77,66,substituicao_entra,Filipin
+15,4,00:30,MOG,77,66,substituicao_sai,Tyrone 
+16,4,00:30,FLA,77,66,substituicao_entra,Pilar
+17,4,00:30,FLA,77,66,substituicao_sai,Ramon
+18,4,00:30,FLA,77,66,LL_Pts_C,Ramon
+19,4,00:30,FLA,76,66,LL_Pts_C,Ramon
+20,4,00:30,FLA,75,66,FR,Ramon
+21,4,00:30,MOG,75,66,FC,Tyrone 
+22,4,00:41,MOG,75,66,2_Pts_C,Larry
+23,4,00:50,FLA,75,64,AS,Arthur Pecos
+24,4,00:50,FLA,75,64,2_Pts_C,Marquinhos
+25,4,01:05,FLA,73,64,RD,Arthur Pecos
+26,4,01:07,MOG,73,64,3_Pts_T,Tyrone 
+27,4,01:14,MOG,73,64,RD,Jimmy
+28,4,01:16,FLA,73,64,2_Pts_T,Marquinhos
+29,4,01:25,FLA,73,64,RO,Batista
+30,4,01:27,FLA,73,64,3_Pts_T,Arthur Pecos
+31,4,01:47,MOG,73,64,LL_Pts_C,Shamell
+32,4,01:47,MOG,73,63,LL_Pts_C,Shamell
+33,4,01:47,MOG,73,62,substituicao_entra,Tyrone 
+34,4,01:47,MOG,73,62,substituicao_sai,Fabricio
+35,4,01:47,MOG,73,62,FR,Shamell
+36,4,01:47,FLA,73,62,FC,Ramon
+37,4,01:59,FLA,73,62,3_Pts_C,Ramon
+38,4,02:18,FLA,70,62,BR,Batista
+39,4,02:18,MOG,70,62,ER,Fabricio
+40,4,02:30,MOG,70,62,BR,Fabricio
+41,4,02:30,FLA,70,62,ER,Marquinhos
+42,4,02:51,FLA,70,62,tempo_tecnico,Flamengo
+43,4,02:54,MOG,70,62,2_Pts_C,Larry
+44,4,03:03,MOG,70,60,RD,Fabricio
+45,4,03:06,FLA,70,60,2_Pts_T,Cubillan
+46,4,03:16,FLA,70,60,FR,Arthur Pecos
+47,4,03:16,MOG,70,60,FC,Larry
+48,4,03:34,MOG,70,60,ER,Shamell
+49,4,03:51,MOG,70,60,FR,Jimmy
+50,4,03:51,FLA,70,60,FC,Arthur Pecos
+51,4,03:54,MOG,70,60,BR,Jimmy
+52,4,03:54,FLA,70,60,ER,Marquinhos
+53,4,04:17,MOG,70,60,AS,Jimmy
+54,4,04:17,MOG,70,60,2_Pts_C,Fabricio
+55,4,04:21,MOG,70,58,RD,Jimmy
+56,4,04:24,FLA,70,58,2_Pts_T,Cubillan
+57,4,04:33,FLA,70,58,FR,Cubillan
+58,4,04:33,MOG,70,58,FC,Larry
+59,4,04:45,MOG,70,58,substituicao_entra,Fabricio
+60,4,04:45,MOG,70,58,substituicao_sai,Tyrone 
+61,4,04:45,FLA,70,58,FR,Arthur Pecos
+62,4,04:45,MOG,70,58,FC,Larry
+63,4,04:57,MOG,70,58,2_Pts_C,C  Torres
+64,4,04:58,MOG,70,56,RO,C  Torres
+65,4,05:00,MOG,70,56,3_Pts_T,Shamell
+66,4,05:05,MOG,70,56,RD,Larry
+67,4,05:07,FLA,70,56,2_Pts_T,Arthur Pecos
+68,4,05:15,FLA,70,56,RO,Batista
+69,4,05:16,FLA,70,56,2_Pts_T,Batista
+70,4,05:24,MOG,70,56,ER,Tyrone 
+71,4,05:42,FLA,70,56,AS,Marquinhos
+72,4,05:42,FLA,70,56,2_Pts_C,Batista
+73,4,06:00,MOG,68,56,ER,Larry
+74,4,06:11,MOG,68,56,tempo_tecnico,Mogi
+75,4,06:11,FLA,68,56,2_Pts_C,Marquinhos
+76,4,06:33,MOG,66,56,2_Pts_C,C  Torres
+77,4,06:34,MOG,66,54,RO,C  Torres
+78,4,06:36,MOG,66,54,2_Pts_T,C  Torres
+79,4,06:39,MOG,66,54,RO,C  Torres
+80,4,06:41,MOG,66,54,2_Pts_T,Shamell
+81,4,06:42,MOG,66,54,FR,C  Torres
+82,4,06:42,FLA,66,54,FC,Batista
+83,4,06:45,FLA,66,54,LL_Pts_C,Marquinhos
+84,4,06:45,FLA,65,54,LL_Pts_C,Marquinhos
+85,4,07:08,MOG,64,54,FC,C  Torres
+86,4,07:37,MOG,64,54,AS,Tyrone 
+87,4,07:37,MOG,64,54,2_Pts_C,Larry
+88,4,07:54,MOG,64,52,RD,Mogi
+89,4,07:56,FLA,64,52,3_Pts_T,Ramon
+90,4,08:12,FLA,64,52,RD,Batista
+91,4,08:15,MOG,64,52,2_Pts_T,Shamell
+92,4,08:38,FLA,64,52,3_Pts_C,Marquinhos
+93,4,09:00,FLA,61,52,RD,Ramon
+94,4,09:02,MOG,61,52,3_Pts_T,Tyrone 
+95,4,09:11,MOG,61,52,RO,Mogi
+96,4,09:13,MOG,61,52,3_Pts_T,Larry
+97,4,09:23,MOG,61,52,FR,Shamell
+98,4,09:23,FLA,61,52,FC,Cubillan
+99,4,09:36,MOG,61,52,FR,Jimmy
+100,4,09:36,FLA,61,52,FC,Ramon
+101,4,09:37,MOG,61,52,RD,C  Torres
+102,4,09:40,FLA,61,52,2_Pts_T,Arthur Pecos
+103,4,10:00,NaN,61,52,inicio_quarto,
+104,3,00:00,NaN,61,52,fim_quarto,
+105,3,00:05,FLA,61,52,AS,Arthur Pecos
+106,3,00:05,FLA,61,52,2_Pts_C,Marquinhos
+107,3,00:09,FLA,59,52,BR,Ramon
+108,3,00:09,MOG,59,52,ER,Jimmy
+109,3,00:31,FLA,59,52,LL_Pts_C,Marquinhos
+110,3,00:31,FLA,58,52,LL_Pts_C,Marquinhos
+111,3,00:31,MOG,57,52,substituicao_entra,Jimmy
+112,3,00:31,MOG,57,52,substituicao_sai,Fabricio
+113,3,00:31,FLA,57,52,FR,Marquinhos
+114,3,00:31,MOG,57,52,FC,Fabricio
+115,3,00:46,MOG,57,52,AS,Shamell
+116,3,00:46,MOG,57,52,2_Pts_C,Vithinho
+117,3,00:50,MOG,57,50,RD,Larry
+118,3,00:53,FLA,57,50,2_Pts_T,Marquinhos
+119,3,01:14,MOG,57,50,ER,
+120,3,01:37,FLA,57,50,LL_Pts_C,Batista
+121,3,01:37,MOG,56,50,substituicao_entra,C  Torres
+122,3,01:37,MOG,56,50,substituicao_sai,Filipin
+123,3,01:37,MOG,56,50,substituicao_entra,Larry
+124,3,01:37,MOG,56,50,substituicao_sai,Wesley
+125,3,01:37,MOG,56,50,tempo_tecnico,Mogi
+126,3,01:37,FLA,56,50,FR,Batista
+127,3,01:37,MOG,56,50,FC,Filipin
+128,3,01:41,FLA,56,50,AS,Cubillan
+129,3,01:41,FLA,56,50,2_Pts_C,Batista
+130,3,02:00,FLA,54,50,RD,Marquinhos
+131,3,02:02,MOG,54,50,2_Pts_T,Filipin
+132,3,02:18,MOG,54,50,RD,Wesley
+133,3,02:18,FLA,54,50,LL_Pts_T,Batista
+134,3,02:18,MOG,54,50,substituicao_entra,Fabricio
+135,3,02:18,MOG,54,50,substituicao_sai,Tyrone 
+136,3,02:18,FLA,54,50,FR,Batista
+137,3,02:18,MOG,54,50,FC,Filipin
+138,3,02:22,FLA,54,50,AS,Cubillan
+139,3,02:22,FLA,54,50,2_Pts_C,Batista
+140,3,02:48,MOG,52,50,2_Pts_C,Shamell
+141,3,03:05,FLA,52,48,AS,Cubillan
+142,3,03:05,FLA,52,48,LL_Pts_C,Batista
+143,3,03:05,FLA,51,48,LL_Pts_C,Batista
+144,3,03:05,FLA,50,48,FR,Batista
+145,3,03:05,MOG,50,48,FC,Tyrone 
+146,3,03:25,MOG,50,48,LL_Pts_C,Wesley
+147,3,03:25,MOG,50,47,LL_Pts_C,Wesley
+148,3,03:25,MOG,50,46,substituicao_entra,Filipin
+149,3,03:25,MOG,50,46,substituicao_sai,Jimmy
+150,3,03:25,MOG,50,46,substituicao_entra,Vithinho
+151,3,03:25,MOG,50,46,substituicao_sai,Larry
+152,3,03:25,MOG,50,46,FR,Wesley
+153,3,03:25,FLA,50,46,FC,Ramon
+154,3,03:42,FLA,50,46,AS,Marquinhos
+155,3,03:42,FLA,50,46,3_Pts_C,Arthur Pecos
+156,3,03:57,MOG,47,46,substituicao_entra,Wesley
+157,3,03:57,MOG,47,46,substituicao_sai,C  Torres
+158,3,03:57,FLA,47,46,FR,Ramon
+159,3,03:57,MOG,47,46,FC,Jimmy
+160,3,04:04,FLA,47,46,RD,Batista
+161,3,04:05,MOG,47,46,LL_Pts_T,C  Torres
+162,3,04:05,MOG,47,46,LL_Pts_C,C  Torres
+163,3,04:05,FLA,47,45,substituicao_entra,Arthur Pecos
+164,3,04:05,FLA,47,45,substituicao_sai,Pilar
+165,3,04:05,MOG,47,45,FR,C  Torres
+166,3,04:05,FLA,47,45,FC,Pilar
+167,3,04:07,MOG,47,45,RO,C  Torres
+168,3,04:09,MOG,47,45,2_Pts_T,C  Torres
+169,3,04:11,MOG,47,45,RO,Jimmy
+170,3,04:12,MOG,47,45,3_Pts_T,Larry
+171,3,04:21,MOG,47,45,RD,C  Torres
+172,3,04:22,FLA,47,45,3_Pts_T,Cubillan
+173,3,04:38,FLA,47,45,FR,Batista
+174,3,04:38,MOG,47,45,ER,Tyrone 
+175,3,04:38,MOG,47,45,FC_O,Tyrone 
+176,3,04:42,MOG,47,45,RD,C  Torres
+177,3,04:45,FLA,47,45,3_Pts_T,Ramon
+178,3,04:51,FLA,47,45,RD,Cubillan
+179,3,04:54,MOG,47,45,3_Pts_T,Shamell
+180,3,04:55,MOG,47,45,RO,Larry
+181,3,04:57,MOG,47,45,3_Pts_T,Tyrone 
+182,3,05:14,FLA,47,45,LL_Pts_C,Batista
+183,3,05:14,FLA,46,45,FR,Batista
+184,3,05:14,MOG,46,45,FC,Jimmy
+185,3,05:19,FLA,46,45,AS,Pilar
+186,3,05:19,FLA,46,45,2_Pts_C,Batista
+187,3,05:33,MOG,44,45,LL_Pts_C,Shamell
+188,3,05:33,MOG,44,44,LL_Pts_C,Shamell
+189,3,05:33,MOG,44,43,FR,Shamell
+190,3,05:33,FLA,44,43,FC,Pilar
+191,3,05:51,MOG,44,43,RD,Tyrone 
+192,3,05:53,FLA,44,43,3_Pts_T,Cubillan
+193,3,06:15,MOG,44,43,LL_Pts_C,Tyrone 
+194,3,06:15,MOG,44,42,LL_Pts_C,Tyrone 
+195,3,06:15,MOG,44,41,FR,Tyrone 
+196,3,06:15,FLA,44,41,FC,Batista
+197,3,06:32,FLA,44,41,EN,Marquinhos
+198,3,06:48,FLA,42,41,RD,Pilar
+199,3,06:50,MOG,42,41,3_Pts_T,Larry
+200,3,06:54,MOG,42,41,RO,Mogi
+201,3,06:54,MOG,42,41,3_Pts_T,Jimmy
+202,3,07:17,MOG,42,41,FR,Tyrone 
+203,3,07:17,FLA,42,41,FC,Pilar
+204,3,07:19,MOG,42,41,RD,Tyrone 
+205,3,07:21,FLA,42,41,2_Pts_T,Marquinhos
+206,3,07:41,MOG,42,41,2_Pts_C,Shamell
+207,3,07:57,FLA,42,39,2_Pts_C,Marquinhos
+208,3,08:03,FLA,40,39,BR,Pilar
+209,3,08:03,MOG,40,39,ER,Tyrone 
+210,3,08:22,FLA,40,39,AS,Marquinhos
+211,3,08:22,FLA,40,39,3_Pts_C,Ramon
+212,3,08:28,FLA,37,39,RD,Pilar
+213,3,08:30,MOG,37,39,2_Pts_T,C  Torres
+214,3,08:32,MOG,37,39,RO,C  Torres
+215,3,08:40,FLA,37,39,TO,Pilar
+216,3,08:40,MOG,37,39,2_Pts_T,Larry
+217,3,08:55,MOG,37,39,LL_Pts_T,Shamell
+218,3,08:55,MOG,37,39,LL_Pts_T,Shamell
+219,3,08:55,MOG,37,39,FR,Shamell
+220,3,08:55,FLA,37,39,FC_A,Pilar
+221,3,09:14,FLA,37,39,ER,Batista
+222,3,09:21,FLA,37,39,FR,Ramon
+223,3,09:21,MOG,37,39,FC,Jimmy
+224,3,09:40,MOG,37,39,AS,Tyrone 
+225,3,09:40,MOG,37,39,3_Pts_C,Larry
+226,3,10:00,NaN,37,36,inicio_quarto,
+227,2,00:00,NaN,37,36,fim_quarto,
+228,2,00:01,FLA,37,36,3_Pts_T,Ramon
+229,2,00:03,FLA,37,36,RD,Rhett
+230,2,00:03,MOG,37,36,3_Pts_T,Tyrone 
+231,2,00:08,FLA,37,36,substituicao_entra,Rhett
+232,2,00:08,FLA,37,36,substituicao_sai,Batista
+233,2,00:08,FLA,37,36,substituicao_entra,Humberto G 
+234,2,00:08,FLA,37,36,substituicao_sai,Marcelinho
+235,2,00:08,MOG,37,36,tempo_tecnico,Mogi
+236,2,00:08,FLA,37,36,2_Pts_C,Batista
+237,2,00:09,FLA,35,36,RO,Batista
+238,2,00:11,FLA,35,36,3_Pts_T,Ramon
+239,2,00:31,FLA,35,36,substituicao_entra,Batista
+240,2,00:31,FLA,35,36,substituicao_sai,Rhett
+241,2,00:31,MOG,35,36,LL_Pts_C,Tyrone 
+242,2,00:31,MOG,35,35,LL_Pts_T,Tyrone 
+243,2,00:31,MOG,35,35,FR,Tyrone 
+244,2,00:31,FLA,35,35,FC,Olivinha
+245,2,00:43,MOG,35,35,substituicao_entra,Filipin
+246,2,00:43,MOG,35,35,substituicao_sai,Fabricio
+247,2,00:43,FLA,35,35,substituicao_entra,Olivinha
+248,2,00:43,FLA,35,35,substituicao_sai,João Vitor
+249,2,00:43,MOG,35,35,FR,Shamell
+250,2,00:43,FLA,35,35,FC,Rhett
+251,2,00:49,MOG,35,35,RD,Shamell
+252,2,00:52,FLA,35,35,3_Pts_T,Marcelinho
+253,2,01:09,FLA,35,35,RD,Arthur Pecos
+254,2,01:10,MOG,35,35,LL_Pts_T,Shamell
+255,2,01:10,MOG,35,35,LL_Pts_C,Shamell
+256,2,01:10,MOG,35,34,substituicao_entra,Tyrone 
+257,2,01:10,MOG,35,34,substituicao_sai,C  Torres
+258,2,01:10,MOG,35,34,FR,Shamell
+259,2,01:10,FLA,35,34,FC,Arthur Pecos
+260,2,01:37,FLA,35,34,AS,Marcelinho
+261,2,01:37,FLA,35,34,EN,João Vitor
+262,2,01:53,FLA,33,34,RD,Rhett
+263,2,01:56,MOG,33,34,2_Pts_T,C  Torres
+264,2,02:19,FLA,33,34,AS,João Vitor
+265,2,02:19,FLA,33,34,3_Pts_C,Ramon
+266,2,02:37,FLA,30,34,tempo_tecnico,Flamengo
+267,2,02:40,MOG,30,34,AS,Fabricio
+268,2,02:40,MOG,30,34,3_Pts_C,Jimmy
+269,2,02:50,MOG,30,31,RD,Fabricio
+270,2,02:52,FLA,30,31,2_Pts_T,Arthur Pecos
+271,2,03:17,MOG,30,31,AS,Fabricio
+272,2,03:17,MOG,30,31,2_Pts_C,Jimmy
+273,2,03:22,MOG,30,29,BR,C  Torres
+274,2,03:22,FLA,30,29,ER,Marcelinho
+275,2,03:42,FLA,30,29,RD,Flamengo
+276,2,03:44,MOG,30,29,3_Pts_T,Jimmy
+277,2,03:49,MOG,30,29,RD,Jimmy
+278,2,03:51,FLA,30,29,2_Pts_T,Ramon
+279,2,04:12,MOG,30,29,AS,Larry
+280,2,04:12,MOG,30,29,2_Pts_C,C  Torres
+281,2,04:24,MOG,30,27,substituicao_entra,Shamell
+282,2,04:24,MOG,30,27,substituicao_sai,Filipin
+283,2,04:24,FLA,30,27,substituicao_entra,João Vitor
+284,2,04:24,FLA,30,27,substituicao_sai,Batista
+285,2,04:24,FLA,30,27,ER,
+286,2,04:49,FLA,30,27,RD,Rhett
+287,2,04:51,MOG,30,27,2_Pts_T,C  Torres
+288,2,05:03,MOG,30,27,RD,C  Torres
+289,2,05:05,FLA,30,27,2_Pts_T,Arthur Pecos
+290,2,05:06,FLA,30,27,RO,Arthur Pecos
+291,2,05:08,FLA,30,27,2_Pts_T,Batista
+292,2,05:14,FLA,30,27,RD,Arthur Pecos
+293,2,05:17,MOG,30,27,3_Pts_T,C  Torres
+294,2,05:27,MOG,30,27,substituicao_entra,Jimmy
+295,2,05:27,MOG,30,27,substituicao_sai,Vithinho
+296,2,05:27,FLA,30,27,substituicao_entra,Rhett
+297,2,05:27,FLA,30,27,substituicao_sai,Pilar
+298,2,05:27,MOG,30,27,tempo_tecnico,Mogi
+299,2,05:30,FLA,30,27,3_Pts_C,Arthur Pecos
+300,2,05:41,FLA,27,27,RD,Arthur Pecos
+301,2,05:44,MOG,27,27,3_Pts_T,Larry
+302,2,05:55,FLA,27,27,AS,Ramon
+303,2,05:55,FLA,27,27,2_Pts_C,Batista
+304,2,06:09,MOG,25,27,2_Pts_C,Larry
+305,2,06:23,MOG,25,25,RD,Fabricio
+306,2,06:24,FLA,25,25,LL_Pts_T,Batista
+307,2,06:24,MOG,25,25,substituicao_entra,Fabricio
+308,2,06:24,MOG,25,25,substituicao_sai,Wesley
+309,2,06:24,MOG,25,25,substituicao_entra,C  Torres
+310,2,06:24,MOG,25,25,substituicao_sai,Tyrone 
+311,2,06:24,FLA,25,25,FR,Batista
+312,2,06:24,MOG,25,25,FC,Wesley
+313,2,06:28,FLA,25,25,AS,Pilar
+314,2,06:28,FLA,25,25,2_Pts_C,Batista
+315,2,06:38,FLA,23,25,RD,Ramon
+316,2,06:41,MOG,23,25,3_Pts_T,Filipin
+317,2,07:04,FLA,23,25,AS,Ramon
+318,2,07:04,FLA,23,25,2_Pts_C,Pilar
+319,2,07:13,FLA,21,25,FR,Marcelinho
+320,2,07:13,MOG,21,25,FC,Filipin
+321,2,07:30,MOG,21,25,substituicao_entra,Larry
+322,2,07:30,MOG,21,25,substituicao_sai,Shamell
+323,2,07:33,MOG,21,25,ER,Shamell
+324,2,07:40,MOG,21,25,RO,Tyrone 
+325,2,07:42,MOG,21,25,3_Pts_T,Vithinho
+326,2,07:54,MOG,21,25,RD,Wesley
+327,2,07:56,FLA,21,25,3_Pts_T,Pilar
+328,2,08:08,FLA,21,25,RD,Batista
+329,2,08:10,MOG,21,25,2_Pts_T,Shamell
+330,2,08:25,FLA,21,25,AS,Batista
+331,2,08:25,FLA,21,25,2_Pts_C,Pilar
+332,2,08:35,FLA,19,25,RO,Flamengo
+333,2,08:37,FLA,19,25,3_Pts_T,Marcelinho
+334,2,08:46,FLA,19,25,RD,Pilar
+335,2,08:49,MOG,19,25,2_Pts_T,Shamell
+336,2,09:05,MOG,19,25,substituicao_entra,Filipin
+337,2,09:05,MOG,19,25,substituicao_sai,Jimmy
+338,2,09:05,FLA,19,25,ER,Pilar
+339,2,09:20,MOG,19,25,ER,Jimmy
+340,2,09:28,MOG,19,25,FR,Jimmy
+341,2,09:28,FLA,19,25,FC,Marcelinho
+342,2,09:38,FLA,19,25,LL_Pts_C,Batista
+343,2,09:38,FLA,18,25,LL_Pts_C,Batista
+344,2,09:38,FLA,17,25,FR,Batista
+345,2,09:38,MOG,17,25,FC,Wesley
+346,2,10:00,NaN,17,25,inicio_quarto,
+347,1,00:00,NaN,17,25,fim_quarto,
+348,1,00:03,FLA,17,25,RD,Ramon
+349,1,00:03,MOG,17,25,3_Pts_T,Vithinho
+350,1,00:10,FLA,17,25,AS,Ramon
+351,1,00:10,FLA,17,25,2_Pts_C,Pilar
+352,1,00:15,FLA,15,25,BR,Batista
+353,1,00:15,MOG,15,25,ER,Wesley
+354,1,00:34,MOG,15,25,RD,Vithinho
+355,1,00:36,FLA,15,25,2_Pts_T,Batista
+356,1,00:51,FLA,15,25,RD,Pilar
+357,1,00:53,MOG,15,25,3_Pts_T,Jimmy
+358,1,00:59,MOG,15,25,BR,Shamell
+359,1,00:59,FLA,15,25,ER,Batista
+360,1,01:17,MOG,15,25,AS,Tyrone 
+361,1,01:17,MOG,15,25,2_Pts_C,Jimmy
+362,1,01:29,MOG,15,23,BR,Tyrone 
+363,1,01:29,FLA,15,23,ER,Pilar
+364,1,01:42,FLA,15,23,RD,Marquinhos
+365,1,01:42,MOG,15,23,AS,Larry
+366,1,01:42,MOG,15,23,LL_Pts_T,Wesley
+367,1,01:42,MOG,15,23,LL_Pts_C,Wesley
+368,1,01:42,MOG,15,22,substituicao_entra,Vithinho
+369,1,01:42,MOG,15,22,substituicao_sai,Larry
+370,1,01:42,FLA,15,22,substituicao_entra,Arthur Pecos
+371,1,01:42,FLA,15,22,substituicao_sai,Cubillan
+372,1,01:42,MOG,15,22,FR,Wesley
+373,1,01:42,FLA,15,22,FC,Ramon
+374,1,01:43,MOG,15,22,RO,Larry
+375,1,01:45,MOG,15,22,2_Pts_T,Larry
+376,1,01:58,FLA,15,22,ER,Marquinhos
+377,1,02:07,FLA,15,22,LL_Pts_C,Ramon
+378,1,02:07,FLA,14,22,LL_Pts_C,Ramon
+379,1,02:07,MOG,13,22,substituicao_entra,Wesley
+380,1,02:07,MOG,13,22,substituicao_sai,C  Torres
+381,1,02:07,FLA,13,22,FR,Ramon
+382,1,02:07,MOG,13,22,FC_A,Tyrone 
+383,1,02:25,FLA,13,22,2_Pts_C,Ramon
+384,1,02:50,MOG,11,22,2_Pts_C,Larry
+385,1,02:54,MOG,11,20,BR,Tyrone 
+386,1,02:54,FLA,11,20,ER,Pilar
+387,1,02:59,FLA,11,20,RD,Pilar
+388,1,03:01,MOG,11,20,2_Pts_T,C  Torres
+389,1,03:17,MOG,11,20,BR,Tyrone 
+390,1,03:17,FLA,11,20,ER,Marquinhos
+391,1,03:21,FLA,11,20,RO,Batista
+392,1,03:22,FLA,11,20,LL_Pts_T,Marquinhos
+393,1,03:22,FLA,11,20,LL_Pts_C,Marquinhos
+394,1,03:22,FLA,10,20,substituicao_entra,Pilar
+395,1,03:22,FLA,10,20,substituicao_sai,Olivinha
+396,1,03:22,FLA,10,20,FR,Marquinhos
+397,1,03:22,MOG,10,20,FC,C  Torres
+398,1,03:36,MOG,10,20,AS,Larry
+399,1,03:36,MOG,10,20,2_Pts_C,Jimmy
+400,1,03:45,FLA,10,18,AS,Ramon
+401,1,03:45,FLA,10,18,2_Pts_C,Batista
+402,1,04:08,MOG,8,18,AS,Larry
+403,1,04:08,MOG,8,18,3_Pts_C,C  Torres
+404,1,04:29,FLA,8,15,AS,Cubillan
+405,1,04:29,FLA,8,15,3_Pts_C,Ramon
+406,1,04:52,MOG,5,15,2_Pts_C,Jimmy
+407,1,05:12,FLA,5,13,2_Pts_C,Marquinhos
+408,1,05:25,FLA,3,13,RD,Batista
+409,1,05:27,MOG,3,13,2_Pts_T,C  Torres
+410,1,05:41,FLA,3,13,AS,Cubillan
+411,1,05:41,FLA,3,13,3_Pts_C,Ramon
+412,1,06:00,FLA,0,13,RD,Olivinha
+413,1,06:02,MOG,0,13,2_Pts_T,C  Torres
+414,1,06:23,MOG,0,13,RD,Mogi
+415,1,06:25,FLA,0,13,3_Pts_T,Cubillan
+416,1,06:42,FLA,0,13,tempo_tecnico,Flamengo
+417,1,06:42,MOG,0,13,AS,Jimmy
+418,1,06:42,MOG,0,13,3_Pts_C,Shamell
+419,1,06:56,MOG,0,10,RD,Larry
+420,1,06:58,FLA,0,10,3_Pts_T,Olivinha
+421,1,07:19,FLA,0,10,FR,Cubillan
+422,1,07:19,MOG,0,10,FC,Larry
+423,1,07:23,MOG,0,10,EN,Jimmy
+424,1,07:27,MOG,0,8,BR,Jimmy
+425,1,07:27,FLA,0,8,ER,Ramon
+426,1,07:45,MOG,0,8,AS,Tyrone 
+427,1,07:45,MOG,0,8,3_Pts_C,Shamell
+428,1,08:02,MOG,0,5,RD,Tyrone 
+429,1,08:06,MOG,0,5,TO,Tyrone 
+430,1,08:06,FLA,0,5,2_Pts_T,Marquinhos
+431,1,08:11,FLA,0,5,RD,Marquinhos
+432,1,08:13,MOG,0,5,3_Pts_T,Larry
+433,1,08:17,MOG,0,5,RO,Tyrone 
+434,1,08:21,FLA,0,5,TO,Batista
+435,1,08:21,MOG,0,5,2_Pts_T,C  Torres
+436,1,08:39,MOG,0,5,FR,C  Torres
+437,1,08:39,FLA,0,5,FC,Batista
+438,1,08:39,MOG,0,5,RD,Mogi
+439,1,08:39,FLA,0,5,2_Pts_T,Marquinhos
+440,1,08:59,MOG,0,5,AS,Jimmy
+441,1,08:59,MOG,0,5,3_Pts_C,Tyrone 
+442,1,09:20,FLA,0,2,ER,Cubillan
+443,1,09:38,MOG,0,2,AS,Shamell
+444,1,09:38,MOG,0,2,2_Pts_C,C  Torres
+445,1,10:00,MOG,0,0,substituicao_entra,Shamell
+446,1,10:00,MOG,0,0,substituicao_entra,Jimmy
+447,1,10:00,MOG,0,0,substituicao_entra,C  Torres
+448,1,10:00,MOG,0,0,substituicao_entra,Larry
+449,1,10:00,MOG,0,0,substituicao_entra,Tyrone 
+450,1,10:00,FLA,0,0,substituicao_entra,Olivinha
+451,1,10:00,FLA,0,0,substituicao_entra,Ramon
+452,1,10:00,FLA,0,0,substituicao_entra,Batista
+453,1,10:00,FLA,0,0,substituicao_entra,Marquinhos
+454,1,10:00,FLA,0,0,substituicao_entra,Cubillan

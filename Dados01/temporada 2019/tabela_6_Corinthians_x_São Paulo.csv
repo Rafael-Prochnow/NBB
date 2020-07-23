@@ -1,0 +1,496 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,84,97,fim_partida,
+1,4,00:00,NaN,84,97,fim_quarto, 
+2,4,00:01,COR,84,97,3_Pts_C,F  Vezaro
+3,4,00:04,SPF,81,97,AS,Murilo
+4,4,00:04,SPF,81,97,3_Pts_C,Shamell
+5,4,00:05,SPF,81,94,RD,De Paula
+6,4,00:05,COR,81,94,2_Pts_T,Fuller
+7,4,00:07,COR,81,94,BR,Fuller
+8,4,00:07,SPF,81,94,ER,De Paula
+9,4,00:17,COR,81,94,3_Pts_C,Fischer
+10,4,00:20,SPF,78,94,ER,Shamell
+11,4,00:31,COR,78,94,AS,Fischer
+12,4,00:31,COR,78,94,3_Pts_C,Robinson
+13,4,00:35,COR,75,94,RO,Fischer
+14,4,00:38,COR,75,94,3_Pts_T,Fuller
+15,4,00:41,COR,75,94,RD,F  Vezaro
+16,4,00:44,SPF,75,94,2_Pts_T,Murilo
+17,4,00:55,COR,75,94,AS,F  Vezaro
+18,4,00:55,COR,75,94,3_Pts_C,Fischer
+19,4,01:05,SPF,72,94,AS,Murilo
+20,4,01:05,SPF,72,94,3_Pts_C,De Paula
+21,4,01:15,SPF,72,91,RD,Cassiano
+22,4,01:19,COR,72,91,2_Pts_T,Fuller
+23,4,01:24,COR,72,91,BR,Fuller
+24,4,01:24,SPF,72,91,ER,Léo Meindl
+25,4,01:26,SPF,72,91,RD,Léo Meindl
+26,4,01:29,COR,72,91,2_Pts_T,Fischer
+27,4,01:33,SPF,72,91,substituicao_entra,De Paula
+28,4,01:33,SPF,72,91,substituicao_sai,Jones
+29,4,01:33,COR,72,91,tempo_tecnico,Corinthians
+30,4,01:33,SPF,72,91,substituicao_entra,Cassiano
+31,4,01:33,SPF,72,91,substituicao_sai,De Paula
+32,4,01:44,SPF,72,91,2_Pts_C,Léo Meindl
+33,4,01:45,SPF,72,89,RO,Léo Meindl
+34,4,01:48,SPF,72,89,3_Pts_T,Murilo
+35,4,01:54,SPF,72,89,RO,São Paulo
+36,4,01:54,SPF,72,89,3_Pts_T,Léo Meindl
+37,4,02:21,COR,72,89,3_Pts_C,F  Vezaro
+38,4,02:25,COR,69,89,RD,Nesbitt
+39,4,02:28,SPF,69,89,3_Pts_T,Jones
+40,4,02:49,SPF,69,89,RD,São Paulo
+41,4,02:52,COR,69,89,2_Pts_T,Fuller
+42,4,03:06,SPF,69,89,AS,Jones
+43,4,03:06,SPF,69,89,2_Pts_C,Murilo
+44,4,03:22,COR,69,87,2_Pts_C,Fuller
+45,4,03:38,SPF,67,87,EN,De Paula
+46,4,03:52,COR,67,85,AS,Fuller
+47,4,03:52,COR,67,85,3_Pts_C,F  Vezaro
+48,4,04:02,COR,64,85,substituicao_entra,F  Vezaro
+49,4,04:02,COR,64,85,substituicao_sai,Arthur Pecos
+50,4,04:02,COR,64,85,substituicao_entra,Fischer
+51,4,04:02,COR,64,85,substituicao_sai,Humberto
+52,4,04:02,COR,64,85,tempo_tecnico,Corinthians
+53,4,04:02,SPF,64,85,AS,De Paula
+54,4,04:02,SPF,64,85,2_Pts_C,Murilo
+55,4,04:15,COR,64,83,2_Pts_C,Robinson
+56,4,04:29,SPF,62,83,2_Pts_C,Shamell
+57,4,04:52,COR,62,81,AS,Fuller
+58,4,04:52,COR,62,81,3_Pts_C,Robinson
+59,4,05:12,SPF,59,81,AS,De Paula
+60,4,05:12,SPF,59,81,3_Pts_C,Léo Meindl
+61,4,05:35,COR,59,78,EN,Nesbitt
+62,4,05:36,COR,57,78,RO,Nesbitt
+63,4,05:39,COR,57,78,3_Pts_T,Robinson
+64,4,05:52,SPF,57,78,LL_Pts_C,Murilo
+65,4,05:52,SPF,57,77,substituicao_entra,Jones
+66,4,05:52,SPF,57,77,substituicao_sai,Renan
+67,4,05:52,SPF,57,77,FR,Murilo
+68,4,05:52,COR,57,77,FC,Nesbitt
+69,4,05:52,SPF,57,77,AS,De Paula
+70,4,05:52,SPF,57,77,2_Pts_C,Murilo
+71,4,06:04,COR,57,75,2_Pts_C,Fuller
+72,4,06:15,COR,55,75,FR,Humberto
+73,4,06:15,SPF,55,75,ER,Léo Meindl
+74,4,06:15,SPF,55,75,FC_O,Léo Meindl
+75,4,06:34,COR,55,75,2_Pts_C,Fuller
+76,4,06:49,SPF,53,75,AS,Murilo
+77,4,06:49,SPF,53,75,3_Pts_C,Léo Meindl
+78,4,07:03,COR,53,72,LL_Pts_C,Humberto
+79,4,07:03,COR,52,72,LL_Pts_C,Humberto
+80,4,07:03,COR,51,72,substituicao_entra,Nesbitt
+81,4,07:03,COR,51,72,substituicao_sai,Teichmann
+82,4,07:03,COR,51,72,FR,Humberto
+83,4,07:03,SPF,51,72,FC,Renan
+84,4,07:18,SPF,51,72,AS,Shamell
+85,4,07:18,SPF,51,72,3_Pts_C,Renan
+86,4,07:32,SPF,51,69,FR,Léo Meindl
+87,4,07:32,COR,51,69,FC,Arthur Pecos
+88,4,07:42,SPF,51,69,RD,Léo Meindl
+89,4,07:45,COR,51,69,3_Pts_T,Arthur Pecos
+90,4,07:57,COR,51,69,substituicao_entra,Fuller
+91,4,07:57,COR,51,69,substituicao_sai,F  Vezaro
+92,4,07:57,SPF,51,69,ER,De Paula
+93,4,08:09,COR,51,69,AS,Teichmann
+94,4,08:09,COR,51,69,3_Pts_C,Robinson
+95,4,08:10,COR,48,69,RO,Teichmann
+96,4,08:14,COR,48,69,2_Pts_T,Robinson
+97,4,08:22,COR,48,69,RD,F  Vezaro
+98,4,08:25,SPF,48,69,2_Pts_T,Léo Meindl
+99,4,08:27,SPF,48,69,RO,Léo Meindl
+100,4,08:32,COR,48,69,TO,Teichmann
+101,4,08:32,SPF,48,69,2_Pts_T,Murilo
+102,4,08:48,COR,48,69,LL_Pts_C,Robinson
+103,4,08:48,COR,47,69,LL_Pts_T,Robinson
+104,4,08:48,COR,47,69,substituicao_entra,Arthur Pecos
+105,4,08:48,COR,47,69,substituicao_sai,Fischer
+106,4,08:48,COR,47,69,FR,Robinson
+107,4,08:48,SPF,47,69,FC,Shamell
+108,4,09:04,SPF,47,69,AS,Shamell
+109,4,09:04,SPF,47,69,3_Pts_C,Léo Meindl
+110,4,09:18,SPF,47,66,BR,Murilo
+111,4,09:18,COR,47,66,ER,Fischer
+112,4,09:29,COR,47,66,RD,Fischer
+113,4,09:32,SPF,47,66,2_Pts_T,De Paula
+114,4,09:41,SPF,47,66,FR,Léo Meindl
+115,4,09:41,COR,47,66,FC,Robinson
+116,4,10:00,NaN,47,66,inicio_quarto,
+117,3,00:00,NaN,47,66,fim_quarto,
+118,3,00:00,COR,47,66,3_Pts_T,Humberto
+119,3,00:00,COR,47,66,substituicao_entra,Fuller
+120,3,00:00,COR,47,66,substituicao_sai,Wesley
+121,3,00:00,COR,47,66,substituicao_entra,Fischer
+122,3,00:00,COR,47,66,substituicao_sai,Douglas Santos
+123,3,00:00,SPF,47,66,ER,Shamell
+124,3,00:01,COR,47,66,LL_Pts_C,Humberto
+125,3,00:01,COR,46,66,substituicao_entra,Douglas Santos
+126,3,00:01,COR,46,66,substituicao_sai,Fischer
+127,3,00:01,COR,46,66,FR,Humberto
+128,3,00:01,SPF,46,66,FC,Renan
+129,3,00:01,COR,46,66,2_Pts_C,Humberto
+130,3,00:22,SPF,44,66,LL_Pts_C,De Paula
+131,3,00:22,SPF,44,65,LL_Pts_C,De Paula
+132,3,00:22,SPF,44,64,LL_Pts_C,De Paula
+133,3,00:22,COR,44,63,FC_T,Fischer
+134,3,00:22,SPF,44,63,FR,De Paula
+135,3,00:22,COR,44,63,FC,Fischer
+136,3,00:28,COR,44,63,2_Pts_C,Humberto
+137,3,00:29,COR,42,63,RO,Humberto
+138,3,00:32,COR,42,63,2_Pts_T,Fischer
+139,3,00:38,COR,42,63,FR,F  Vezaro
+140,3,00:38,SPF,42,63,FC,Renan
+141,3,00:50,SPF,42,63,ER,
+142,3,01:15,COR,42,63,2_Pts_C,Robinson
+143,3,01:43,SPF,40,63,LL_Pts_C,Léo Meindl
+144,3,01:43,SPF,40,62,LL_Pts_C,Léo Meindl
+145,3,01:43,SPF,40,61,substituicao_entra,Kurtz
+146,3,01:43,SPF,40,61,substituicao_sai,Murilo
+147,3,01:43,COR,40,61,substituicao_entra,Humberto
+148,3,01:43,COR,40,61,substituicao_sai,Arthur Pecos
+149,3,01:43,SPF,40,61,FR,Léo Meindl
+150,3,01:43,COR,40,61,FC,Fischer
+151,3,02:00,COR,40,61,AS,Fischer
+152,3,02:00,COR,40,61,2_Pts_C,Wesley
+153,3,02:13,SPF,38,61,3_Pts_C,Shamell
+154,3,02:30,SPF,38,58,RD,São Paulo
+155,3,02:30,COR,38,58,3_Pts_T,Wesley
+156,3,02:49,COR,38,58,RD,Corinthians
+157,3,02:49,SPF,38,58,3_Pts_T,Renan
+158,3,03:15,COR,38,58,AS,Fischer
+159,3,03:15,COR,38,58,3_Pts_C,F  Vezaro
+160,3,03:20,COR,35,58,RD,Wesley
+161,3,03:25,SPF,35,58,2_Pts_T,Shamell
+162,3,03:46,COR,35,58,2_Pts_C,Robinson
+163,3,04:00,SPF,33,58,LL_Pts_C,Murilo
+164,3,04:00,SPF,33,57,LL_Pts_C,Murilo
+165,3,04:00,COR,33,56,tempo_tecnico,Corinthians
+166,3,04:00,COR,33,56,substituicao_entra,Robinson
+167,3,04:00,COR,33,56,substituicao_sai,Johnson
+168,3,04:00,SPF,33,56,FR,Murilo
+169,3,04:00,COR,33,56,FC,Wesley
+170,3,04:00,SPF,33,56,RD,Murilo
+171,3,04:00,SPF,33,56,TO,Renan
+172,3,04:00,COR,33,56,2_Pts_T,Wesley
+173,3,04:04,COR,33,56,RD,F  Vezaro
+174,3,04:05,SPF,33,56,2_Pts_T,Léo Meindl
+175,3,04:05,SPF,33,56,RO,Léo Meindl
+176,3,04:10,SPF,33,56,2_Pts_T,De Paula
+177,3,04:19,SPF,33,56,RD,De Paula
+178,3,04:21,COR,33,56,3_Pts_T,Arthur Pecos
+179,3,04:42,COR,33,56,RD,F  Vezaro
+180,3,04:45,SPF,33,56,3_Pts_T,Murilo
+181,3,04:59,SPF,33,56,BR,Murilo
+182,3,04:59,COR,33,56,ER,Johnson
+183,3,05:15,COR,33,56,RD,Arthur Pecos
+184,3,05:15,SPF,33,56,LL_Pts_T,Léo Meindl
+185,3,05:15,SPF,33,56,AS,Shamell
+186,3,05:15,SPF,33,56,LL_Pts_C,Léo Meindl
+187,3,05:15,COR,33,55,substituicao_entra,F  Vezaro
+188,3,05:15,COR,33,55,substituicao_sai,Humberto
+189,3,05:15,COR,33,55,substituicao_entra,Fischer
+190,3,05:15,COR,33,55,substituicao_sai,Fuller
+191,3,05:15,SPF,33,55,FR,Léo Meindl
+192,3,05:15,COR,33,55,FC,Wesley
+193,3,05:23,SPF,33,55,TO,Léo Meindl
+194,3,05:23,SPF,33,55,RD,De Paula
+195,3,05:23,COR,33,55,2_Pts_T,Fuller
+196,3,05:32,SPF,33,55,AS,De Paula
+197,3,05:32,SPF,33,55,LL_Pts_C,Murilo
+198,3,05:32,SPF,33,54,LL_Pts_T,Murilo
+199,3,05:32,COR,33,54,substituicao_entra,Wesley
+200,3,05:32,COR,33,54,substituicao_sai,Nesbitt
+201,3,05:32,SPF,33,54,FR,Murilo
+202,3,05:32,COR,33,54,FC,Nesbitt
+203,3,05:54,SPF,33,54,RD,São Paulo
+204,3,05:54,COR,33,54,3_Pts_T,Arthur Pecos
+205,3,06:15,SPF,33,54,AS,Léo Meindl
+206,3,06:15,SPF,33,54,3_Pts_C,Shamell
+207,3,06:19,SPF,33,51,RD,Léo Meindl
+208,3,06:21,COR,33,51,2_Pts_T,Humberto
+209,3,06:25,COR,33,51,RD,Humberto
+210,3,06:28,SPF,33,51,2_Pts_T,Murilo
+211,3,06:37,SPF,33,51,BR,Shamell
+212,3,06:37,COR,33,51,ER,Fuller
+213,3,06:49,SPF,33,51,LL_Pts_C,Murilo
+214,3,06:49,SPF,33,50,FR,Murilo
+215,3,06:49,COR,33,50,FC,Johnson
+216,3,06:49,SPF,33,50,AS,Shamell
+217,3,06:49,SPF,33,50,2_Pts_C,Murilo
+218,3,07:09,COR,33,48,2_Pts_C,Johnson
+219,3,07:28,COR,31,48,FR,Johnson
+220,3,07:28,SPF,31,48,FC,Murilo
+221,3,07:28,COR,31,48,RD,Corinthians
+222,3,07:28,SPF,31,48,3_Pts_T,De Paula
+223,3,07:52,COR,31,48,2_Pts_C,Johnson
+224,3,07:52,COR,29,48,RO,Johnson
+225,3,07:57,COR,29,48,2_Pts_T,Arthur Pecos
+226,3,08:10,COR,29,48,FR,Arthur Pecos
+227,3,08:10,SPF,29,48,ER,Murilo
+228,3,08:10,SPF,29,48,FC_O,Murilo
+229,3,08:19,SPF,29,48,FR,De Paula
+230,3,08:19,COR,29,48,FC,Arthur Pecos
+231,3,08:23,COR,29,48,AS,Humberto
+232,3,08:23,COR,29,48,2_Pts_C,Fuller
+233,3,08:26,COR,27,48,RD,Nesbitt
+234,3,08:28,SPF,27,48,2_Pts_T,De Paula
+235,3,08:39,SPF,27,48,BR,Léo Meindl
+236,3,08:39,COR,27,48,ER,Nesbitt
+237,3,08:43,COR,27,48,BR,Nesbitt
+238,3,08:43,SPF,27,48,ER,De Paula
+239,3,08:45,SPF,27,48,RO,De Paula
+240,3,08:51,SPF,27,48,2_Pts_T,De Paula
+241,3,08:55,SPF,27,48,RD,Murilo
+242,3,08:58,COR,27,48,3_Pts_T,Fuller
+243,3,09:01,COR,27,48,FR,Humberto
+244,3,09:01,SPF,27,48,FC,Shamell
+245,3,09:24,SPF,27,48,2_Pts_C,De Paula
+246,3,09:43,SPF,27,46,FR,Léo Meindl
+247,3,09:43,COR,27,46,ER,Nesbitt
+248,3,09:43,COR,27,46,FC_O,Nesbitt
+249,3,10:00,NaN,27,46,inicio_quarto,
+250,2,00:00,NaN,27,46,fim_quarto,
+251,2,00:01,SPF,27,46,RD,De Paula
+252,2,00:04,COR,27,46,3_Pts_T,Nesbitt
+253,2,00:25,SPF,27,46,AS,Léo Meindl
+254,2,00:25,SPF,27,46,2_Pts_C,Jones
+255,2,00:31,SPF,27,44,BR,Léo Meindl
+256,2,00:31,COR,27,44,ER,Fuller
+257,2,00:46,SPF,27,44,2_Pts_C,De Paula
+258,2,00:55,SPF,27,42,tempo_tecnico,São Paulo
+259,2,00:55,COR,27,42,LL_Pts_C,Humberto
+260,2,00:55,SPF,26,42,substituicao_entra,Shamell
+261,2,00:55,SPF,26,42,substituicao_sai,Kurtz
+262,2,00:55,COR,26,42,FR,Humberto
+263,2,00:55,SPF,26,42,FC,De Paula
+264,2,00:55,COR,26,42,2_Pts_C,Humberto
+265,2,00:59,COR,24,42,RD,Nesbitt
+266,2,01:03,SPF,24,42,2_Pts_T,Léo Meindl
+267,2,01:14,SPF,24,42,RD,De Paula
+268,2,01:14,COR,24,42,LL_Pts_T,Fuller
+269,2,01:14,COR,24,42,LL_Pts_C,Fuller
+270,2,01:14,COR,23,42,FR,Fuller
+271,2,01:14,SPF,23,42,FC,Léo Meindl
+272,2,01:22,COR,23,42,BR,Johnson
+273,2,01:22,SPF,23,42,ER,De Paula
+274,2,01:40,COR,23,42,AS,Fuller
+275,2,01:40,COR,23,42,EN,Johnson
+276,2,01:49,COR,21,42,BR,Johnson
+277,2,01:49,SPF,21,42,ER,Kurtz
+278,2,01:59,SPF,21,42,RO,São Paulo
+279,2,02:01,SPF,21,42,3_Pts_T,De Paula
+280,2,02:21,COR,21,42,LL_Pts_C,Fuller
+281,2,02:21,COR,20,42,LL_Pts_C,Fuller
+282,2,02:21,COR,19,42,substituicao_entra,Humberto
+283,2,02:21,COR,19,42,substituicao_sai,Fischer
+284,2,02:21,COR,19,42,FR,Fuller
+285,2,02:21,SPF,19,42,FC,Kurtz
+286,2,02:36,SPF,19,42,2_Pts_C,Léo Meindl
+287,2,02:56,SPF,19,40,RD,Kurtz
+288,2,03:00,SPF,19,40,TO,Kurtz
+289,2,03:00,COR,19,40,2_Pts_T,Fischer
+290,2,03:11,COR,19,40,RD,Nesbitt
+291,2,03:11,SPF,19,40,LL_Pts_T,Léo Meindl
+292,2,03:11,SPF,19,40,LL_Pts_C,Léo Meindl
+293,2,03:11,SPF,19,39,FR,Léo Meindl
+294,2,03:11,COR,19,39,FC,Nesbitt
+295,2,03:24,COR,19,39,2_Pts_C,Nesbitt
+296,2,03:24,COR,17,39,RO,Nesbitt
+297,2,03:27,COR,17,39,2_Pts_T,Fuller
+298,2,03:35,SPF,17,39,LL_Pts_C,Renan
+299,2,03:35,COR,17,38,substituicao_entra,F  Vezaro
+300,2,03:35,COR,17,38,substituicao_sai,Robinson
+301,2,03:35,SPF,17,38,FR,Renan
+302,2,03:35,COR,17,38,FC,Robinson
+303,2,03:35,SPF,17,38,AS,De Paula
+304,2,03:35,SPF,17,38,2_Pts_C,Renan
+305,2,03:38,SPF,17,36,RD,De Paula
+306,2,03:39,COR,17,36,2_Pts_T,Johnson
+307,2,03:39,COR,17,36,RO,Johnson
+308,2,03:43,COR,17,36,2_Pts_T,Fuller
+309,2,03:51,COR,17,36,substituicao_entra,Johnson
+310,2,03:51,COR,17,36,substituicao_sai,Wesley
+311,2,03:51,COR,17,36,tempo_tecnico,Corinthians
+312,2,03:53,SPF,17,36,AS,De Paula
+313,2,03:53,SPF,17,36,2_Pts_C,Jones
+314,2,04:00,SPF,17,34,RD,De Paula
+315,2,04:04,COR,17,34,3_Pts_T,Fischer
+316,2,04:15,COR,17,34,RD,Wesley
+317,2,04:15,SPF,17,34,LL_Pts_T,Kurtz
+318,2,04:15,SPF,17,34,FR,Kurtz
+319,2,04:15,COR,17,34,FC,Robinson
+320,2,04:15,SPF,17,34,AS,Jones
+321,2,04:15,SPF,17,34,2_Pts_C,Kurtz
+322,2,04:24,SPF,17,32,BR,Jones
+323,2,04:24,COR,17,32,ER,Fischer
+324,2,04:36,SPF,17,32,ER,De Paula
+325,2,04:42,SPF,17,32,RD,Kurtz
+326,2,04:45,COR,17,32,3_Pts_T,Nesbitt
+327,2,04:49,COR,17,32,FR,Nesbitt
+328,2,04:49,SPF,17,32,FC,Jones
+329,2,05:00,COR,17,32,RD,Fischer
+330,2,05:03,SPF,17,32,2_Pts_T,Kurtz
+331,2,05:04,SPF,17,32,RO,Kurtz
+332,2,05:08,SPF,17,32,2_Pts_T,De Paula
+333,2,05:09,SPF,17,32,RO,De Paula
+334,2,05:12,SPF,17,32,2_Pts_T,Kurtz
+335,2,05:34,COR,17,32,2_Pts_C,Fuller
+336,2,05:44,SPF,15,32,2_Pts_C,Léo Meindl
+337,2,05:51,SPF,15,30,RD,Léo Meindl
+338,2,05:54,COR,15,30,3_Pts_T,Nesbitt
+339,2,06:05,SPF,15,30,3_Pts_C,De Paula
+340,2,06:08,SPF,15,27,RO,Kurtz
+341,2,06:13,SPF,15,27,2_Pts_T,Léo Meindl
+342,2,06:34,COR,15,27,3_Pts_C,Fischer
+343,2,06:43,COR,12,27,RD,Robinson
+344,2,06:43,SPF,12,27,LL_Pts_T,De Paula
+345,2,06:43,SPF,12,27,LL_Pts_C,De Paula
+346,2,06:43,SPF,12,26,substituicao_entra,Kurtz
+347,2,06:43,SPF,12,26,substituicao_sai,Murilo
+348,2,06:43,SPF,12,26,FR,De Paula
+349,2,06:43,COR,12,26,FC,Fischer
+350,2,07:00,COR,12,26,LL_Pts_C,Fuller
+351,2,07:00,COR,11,26,LL_Pts_T,Fuller
+352,2,07:00,SPF,11,26,substituicao_entra,De Paula
+353,2,07:00,SPF,11,26,substituicao_sai,Cassiano
+354,2,07:00,COR,11,26,FR,Fuller
+355,2,07:00,SPF,11,26,FC,Jones
+356,2,07:11,COR,11,26,RD,Corinthians
+357,2,07:11,SPF,11,26,2_Pts_T,Jones
+358,2,07:30,SPF,11,26,RD,Léo Meindl
+359,2,07:33,COR,11,26,2_Pts_T,Wesley
+360,2,07:45,COR,11,26,RD,Nesbitt
+361,2,07:47,SPF,11,26,3_Pts_T,Cassiano
+362,2,07:54,SPF,11,26,FR,Léo Meindl
+363,2,07:54,COR,11,26,FC,Robinson
+364,2,08:12,SPF,11,26,substituicao_entra,Léo Meindl
+365,2,08:12,SPF,11,26,substituicao_sai,Shamell
+366,2,08:12,COR,11,26,substituicao_entra,Robinson
+367,2,08:12,COR,11,26,substituicao_sai,Humberto
+368,2,08:12,COR,11,26,substituicao_entra,Nesbitt
+369,2,08:12,COR,11,26,substituicao_sai,Teichmann
+370,2,08:12,SPF,11,26,FR,Jones
+371,2,08:12,COR,11,26,FC,Teichmann
+372,2,08:12,SPF,11,26,RD,São Paulo
+373,2,08:12,COR,11,26,2_Pts_T,Fischer
+374,2,08:28,SPF,11,26,2_Pts_C,Murilo
+375,2,08:28,SPF,11,24,RO,Murilo
+376,2,08:33,SPF,11,24,2_Pts_T,Cassiano
+377,2,08:54,SPF,11,24,RD,Murilo
+378,2,08:58,COR,11,24,2_Pts_T,Fuller
+379,2,09:13,COR,11,24,RD,Teichmann
+380,2,09:16,SPF,11,24,3_Pts_T,Cassiano
+381,2,09:29,SPF,11,24,RD,Shamell
+382,2,09:31,COR,11,24,3_Pts_T,Fuller
+383,2,09:45,SPF,11,24,2_Pts_C,Shamell
+384,2,10:00,NaN,11,22,inicio_quarto,
+385,1,00:00,NaN,11,22,fim_quarto,
+386,1,00:00,SPF,11,22,3_Pts_T,Cassiano
+387,1,00:01,SPF,11,22,RD,Murilo
+388,1,00:04,COR,11,22,3_Pts_T,Humberto
+389,1,00:24,COR,11,22,FR,Teichmann
+390,1,00:24,SPF,11,22,ER,Murilo
+391,1,00:24,SPF,11,22,FC_O,Murilo
+392,1,00:37,COR,11,22,AS,Fischer
+393,1,00:37,COR,11,22,2_Pts_C,Fuller
+394,1,00:41,SPF,9,22,substituicao_entra,Cassiano
+395,1,00:41,SPF,9,22,substituicao_sai,De Paula
+396,1,00:41,COR,9,22,substituicao_entra,Fuller
+397,1,00:41,COR,9,22,substituicao_sai,Arthur Pecos
+398,1,00:41,COR,9,22,substituicao_entra,Fischer
+399,1,00:41,COR,9,22,substituicao_sai,F  Vezaro
+400,1,01:03,SPF,9,22,AS,De Paula
+401,1,01:03,SPF,9,22,2_Pts_C,Jones
+402,1,01:08,SPF,9,20,BR,De Paula
+403,1,01:08,COR,9,20,ER,F  Vezaro
+404,1,01:22,SPF,9,20,AS,Jones
+405,1,01:22,SPF,9,20,3_Pts_C,De Paula
+406,1,01:28,SPF,9,17,RD,Renan
+407,1,01:32,COR,9,17,2_Pts_T,Arthur Pecos
+408,1,01:36,COR,9,17,RD,Arthur Pecos
+409,1,01:39,SPF,9,17,3_Pts_T,Jones
+410,1,01:44,SPF,9,17,BR,Renan
+411,1,01:44,COR,9,17,ER,Teichmann
+412,1,01:45,COR,9,17,RD,Teichmann
+413,1,01:48,SPF,9,17,3_Pts_T,Shamell
+414,1,02:03,SPF,9,17,RD,Jones
+415,1,02:06,COR,9,17,2_Pts_T,Arthur Pecos
+416,1,02:16,COR,9,17,RO,Teichmann
+417,1,02:18,COR,9,17,2_Pts_T,Wesley
+418,1,02:28,COR,9,17,RD,Teichmann
+419,1,02:31,SPF,9,17,3_Pts_T,De Paula
+420,1,02:44,COR,9,17,2_Pts_C,Arthur Pecos
+421,1,03:09,SPF,7,17,2_Pts_C,Jones
+422,1,03:14,SPF,7,15,RD,Shamell
+423,1,03:17,COR,7,15,2_Pts_T,F  Vezaro
+424,1,03:43,SPF,7,15,AS,De Paula
+425,1,03:43,SPF,7,15,3_Pts_C,Renan
+426,1,03:57,SPF,7,12,BR,Murilo
+427,1,03:57,COR,7,12,ER,F  Vezaro
+428,1,04:06,COR,7,12,substituicao_entra,Arthur Pecos
+429,1,04:06,COR,7,12,substituicao_sai,Nesbitt
+430,1,04:06,COR,7,12,substituicao_entra,Wesley
+431,1,04:06,COR,7,12,substituicao_sai,Fuller
+432,1,04:06,COR,7,12,substituicao_entra,F  Vezaro
+433,1,04:06,COR,7,12,substituicao_sai,Fischer
+434,1,04:06,COR,7,12,tempo_tecnico,Corinthians
+435,1,04:06,SPF,7,12,AS,De Paula
+436,1,04:06,SPF,7,12,EN,Murilo
+437,1,04:27,COR,7,10,ER,Fuller
+438,1,04:39,SPF,7,10,2_Pts_C,De Paula
+439,1,04:51,COR,7,8,ER,Fischer
+440,1,05:04,COR,7,8,substituicao_entra,Humberto
+441,1,05:04,COR,7,8,substituicao_sai,Johnson
+442,1,05:04,COR,7,8,substituicao_entra,Teichmann
+443,1,05:04,COR,7,8,substituicao_sai,Robinson
+444,1,05:04,SPF,7,8,ER,Murilo
+445,1,05:14,SPF,7,8,RD,Jones
+446,1,05:17,COR,7,8,2_Pts_T,Johnson
+447,1,05:45,SPF,7,8,3_Pts_C,Shamell
+448,1,05:59,SPF,7,5,RD,De Paula
+449,1,06:02,COR,7,5,2_Pts_T,Johnson
+450,1,06:24,SPF,7,5,2_Pts_C,Shamell
+451,1,06:40,COR,7,3,AS,Johnson
+452,1,06:40,COR,7,3,EN,Robinson
+453,1,06:57,COR,5,3,RD,Johnson
+454,1,07:00,SPF,5,3,2_Pts_T,Murilo
+455,1,07:07,SPF,5,3,FR,Murilo
+456,1,07:07,COR,5,3,FC,Johnson
+457,1,07:15,SPF,5,3,RD,São Paulo
+458,1,07:15,COR,5,3,3_Pts_T,Fischer
+459,1,07:36,SPF,5,3,AS,De Paula
+460,1,07:36,SPF,5,3,3_Pts_C,Renan
+461,1,07:59,COR,5,0,AS,Fischer
+462,1,07:59,COR,5,0,EN,Johnson
+463,1,08:12,COR,3,0,RD,Corinthians
+464,1,08:12,COR,3,0,TO,Johnson
+465,1,08:12,SPF,3,0,2_Pts_T,Murilo
+466,1,08:30,COR,3,0,AS,Johnson
+467,1,08:30,COR,3,0,EN,Nesbitt
+468,1,08:32,COR,1,0,RO,Johnson
+469,1,08:36,COR,1,0,2_Pts_T,Johnson
+470,1,08:41,COR,1,0,BR,Johnson
+471,1,08:41,SPF,1,0,ER,De Paula
+472,1,08:43,COR,1,0,LL_Pts_C,Robinson
+473,1,08:43,COR,0,0,LL_Pts_T,Robinson
+474,1,08:43,COR,0,0,FR,Robinson
+475,1,08:43,SPF,0,0,FC,Renan
+476,1,08:54,COR,0,0,RD,Nesbitt
+477,1,08:56,SPF,0,0,3_Pts_T,Jones
+478,1,09:10,SPF,0,0,RD,De Paula
+479,1,09:14,COR,0,0,2_Pts_T,Johnson
+480,1,09:23,COR,0,0,RD,Fischer
+481,1,09:26,SPF,0,0,3_Pts_T,Murilo
+482,1,09:40,SPF,0,0,BR,De Paula
+483,1,09:40,COR,0,0,ER,Fischer
+484,1,10:00,SPF,0,0,substituicao_entra,Renan
+485,1,10:00,SPF,0,0,substituicao_entra,Murilo
+486,1,10:00,SPF,0,0,substituicao_entra,De Paula
+487,1,10:00,SPF,0,0,substituicao_entra,Shamell
+488,1,10:00,SPF,0,0,substituicao_entra,Jones
+489,1,10:00,COR,0,0,substituicao_entra,Johnson
+490,1,10:00,COR,0,0,substituicao_entra,Robinson
+491,1,10:00,COR,0,0,substituicao_entra,Nesbitt
+492,1,10:00,COR,0,0,substituicao_entra,Fuller
+493,1,10:00,COR,0,0,substituicao_entra,Fischer
+494,1,10:00,NaN,0,0,inicio_partida,

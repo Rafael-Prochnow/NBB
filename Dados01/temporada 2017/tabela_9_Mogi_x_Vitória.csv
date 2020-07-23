@@ -1,0 +1,547 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,80,75,fim_partida,
+1,4,00:19,MOG,80,75,BR,Larry
+2,4,00:19,VIT,80,75,ER,Dawkins
+3,4,00:31,VIT,80,75,tempo_tecnico,Vitória
+4,4,00:33,MOG,80,75,2_Pts_C,Shamell
+5,4,00:53,MOG,78,75,RD,Shamell
+6,4,00:54,VIT,78,75,LL_Pts_T,Kurtz
+7,4,00:54,VIT,78,75,FR,Kurtz
+8,4,00:54,MOG,78,75,FC,Shamell
+9,4,00:54,VIT,78,75,AS,Renato
+10,4,00:54,VIT,78,75,2_Pts_C,Kurtz
+11,4,01:09,VIT,78,73,tempo_tecnico,Vitória
+12,4,01:09,MOG,78,73,LL_Pts_C,Fabricio
+13,4,01:09,MOG,77,73,LL_Pts_C,Fabricio
+14,4,01:09,MOG,76,73,FR,Fabricio
+15,4,01:09,VIT,76,73,FC,Renato
+16,4,01:17,MOG,76,73,RD,Larry
+17,4,01:21,MOG,76,73,TO,Wesley
+18,4,01:21,VIT,76,73,2_Pts_T,Dawkins
+19,4,01:34,MOG,76,73,substituicao_entra,Wesley
+20,4,01:34,MOG,76,73,substituicao_sai,C  Torres
+21,4,01:34,VIT,76,73,FR,André
+22,4,01:34,MOG,76,73,FC,C  Torres
+23,4,01:34,VIT,76,73,RD,Vitória
+24,4,01:34,MOG,76,73,3_Pts_T,Jimmy
+25,4,01:59,MOG,76,73,RD,Mogi
+26,4,01:59,VIT,76,73,3_Pts_T,André
+27,4,02:17,VIT,76,73,RD,Renato
+28,4,02:20,MOG,76,73,2_Pts_T,Larry
+29,4,02:29,MOG,76,73,RO,Mogi
+30,4,02:30,MOG,76,73,3_Pts_T,Shamell
+31,4,02:46,MOG,76,73,FR,Shamell
+32,4,02:46,VIT,76,73,FC,Mariano
+33,4,02:53,MOG,76,73,RO,C  Torres
+34,4,02:55,MOG,76,73,2_Pts_T,Fabricio
+35,4,03:24,VIT,76,73,2_Pts_C,Mariano
+36,4,03:39,VIT,76,71,BR,Kurtz
+37,4,03:39,MOG,76,71,ER,Larry
+38,4,03:52,MOG,76,71,FR,Larry
+39,4,03:52,VIT,76,71,FC,André
+40,4,04:04,VIT,76,71,LL_Pts_C,Kurtz
+41,4,04:04,MOG,76,70,substituicao_entra,Fabricio
+42,4,04:04,MOG,76,70,substituicao_sai,Vithinho
+43,4,04:04,VIT,76,70,FR,Kurtz
+44,4,04:04,MOG,76,70,FC,C  Torres
+45,4,04:04,VIT,76,70,AS,André
+46,4,04:04,VIT,76,70,EN,Kurtz
+47,4,04:21,MOG,76,68,AS,Jimmy
+48,4,04:21,MOG,76,68,3_Pts_C,C  Torres
+49,4,04:48,VIT,73,68,3_Pts_C,André
+50,4,05:03,VIT,73,65,BR,Mariano
+51,4,05:03,MOG,73,65,ER,Shamell
+52,4,05:26,MOG,73,65,tempo_tecnico,Mogi
+53,4,05:49,VIT,73,65,3_Pts_C,Dawkins
+54,4,05:58,VIT,73,62,RD,Kurtz
+55,4,06:01,MOG,73,62,2_Pts_T,Jimmy
+56,4,06:08,MOG,73,62,substituicao_entra,Larry
+57,4,06:08,MOG,73,62,substituicao_sai,Fabricio
+58,4,06:08,MOG,73,62,substituicao_entra,Vithinho
+59,4,06:08,MOG,73,62,substituicao_sai,Larry
+60,4,06:08,MOG,73,62,RD,Larry
+61,4,06:12,VIT,73,62,3_Pts_T,Mariano
+62,4,06:17,MOG,73,62,ER,C  Torres
+63,4,06:17,MOG,73,62,RD,C  Torres
+64,4,06:17,VIT,73,62,2_Pts_T,Dawkins
+65,4,06:17,VIT,73,62,RO,Dawkins
+66,4,06:20,VIT,73,62,3_Pts_T,André
+67,4,06:41,VIT,73,62,RD,Kurtz
+68,4,06:44,MOG,73,62,2_Pts_T,Larry
+69,4,06:57,MOG,73,62,RD,Larry
+70,4,07:00,VIT,73,62,3_Pts_T,André
+71,4,07:17,MOG,73,62,LL_Pts_C,Jimmy
+72,4,07:17,MOG,72,62,FR,Jimmy
+73,4,07:17,VIT,72,62,FC,Renato
+74,4,07:17,MOG,72,62,AS,Larry
+75,4,07:17,MOG,72,62,2_Pts_C,Jimmy
+76,4,07:35,VIT,70,62,2_Pts_C,Mariano
+77,4,07:38,VIT,70,60,BR,Mariano
+78,4,07:38,MOG,70,60,ER,C  Torres
+79,4,07:40,MOG,70,60,RO,C  Torres
+80,4,07:43,MOG,70,60,3_Pts_T,Jimmy
+81,4,07:58,VIT,70,60,2_Pts_C,Kurtz
+82,4,08:03,VIT,70,58,RO,Kurtz
+83,4,08:03,VIT,70,58,2_Pts_T,Mariano
+84,4,08:07,VIT,70,58,RD,André
+85,4,08:09,MOG,70,58,3_Pts_T,Shamell
+86,4,08:30,MOG,70,58,tempo_tecnico,Mogi
+87,4,08:30,VIT,70,58,AS,André
+88,4,08:30,VIT,70,58,2_Pts_C,Mariano
+89,4,08:34,VIT,70,56,BR,Mariano
+90,4,08:34,MOG,70,56,ER,C  Torres
+91,4,08:47,MOG,70,56,substituicao_entra,C  Torres
+92,4,08:47,MOG,70,56,substituicao_sai,Wesley
+93,4,08:49,VIT,70,56,RD,Mariano
+94,4,08:52,MOG,70,56,2_Pts_T,Jimmy
+95,4,09:16,VIT,70,56,AS,André
+96,4,09:16,VIT,70,56,2_Pts_C,Renato
+97,4,09:18,VIT,70,54,FR,Kurtz
+98,4,09:18,MOG,70,54,FC,Wesley
+99,4,09:19,VIT,70,54,RO,Vitória
+100,4,09:24,VIT,70,54,3_Pts_T,Renato
+101,4,09:36,MOG,70,54,AS,Jimmy
+102,4,09:36,MOG,70,54,LL_Pts_C,Shamell
+103,4,09:36,MOG,69,54,LL_Pts_C,Shamell
+104,4,09:37,MOG,68,54,FR,Shamell
+105,4,09:37,VIT,68,54,FC,Kurtz
+106,4,09:47,MOG,68,54,BR,Jimmy
+107,4,09:47,VIT,68,54,ER,Mariano
+108,4,09:49,VIT,68,54,RO,Mariano
+109,4,09:51,VIT,68,54,2_Pts_T,Renato
+110,4,10:00,NaN,68,54,inicio_quarto,
+111,3,00:00,NaN,68,54,fim_quarto,
+112,3,00:03,VIT,68,54,RD,João Pedro
+113,3,00:03,MOG,68,54,3_Pts_T,Jimmy
+114,3,00:27,VIT,68,54,LL_Pts_C,Dawkins
+115,3,00:27,VIT,68,53,LL_Pts_C,Dawkins
+116,3,00:27,MOG,68,52,substituicao_entra,Carioca
+117,3,00:27,MOG,68,52,substituicao_sai,C  Torres
+118,3,00:27,VIT,68,52,substituicao_entra,Maique
+119,3,00:27,VIT,68,52,substituicao_sai,Kurtz
+120,3,00:27,VIT,68,52,FR,Dawkins
+121,3,00:27,MOG,68,52,FC,C  Torres
+122,3,00:45,MOG,68,52,LL_Pts_C,C  Torres
+123,3,00:45,MOG,67,52,LL_Pts_C,C  Torres
+124,3,00:45,VIT,66,52,substituicao_entra,João Pedro
+125,3,00:45,VIT,66,52,substituicao_sai,André
+126,3,00:45,MOG,66,52,substituicao_entra,Jimmy
+127,3,00:45,MOG,66,52,substituicao_sai,Filipin
+128,3,00:45,MOG,66,52,FR,C  Torres
+129,3,00:45,VIT,66,52,FC,Kurtz
+130,3,00:45,MOG,66,52,RO,Mogi
+131,3,00:45,MOG,66,52,3_Pts_T,Filipin
+132,3,01:02,MOG,66,52,RD,Shamell
+133,3,01:05,VIT,66,52,3_Pts_T,Renato
+134,3,01:22,VIT,66,52,LL_Pts_C,André
+135,3,01:22,VIT,66,51,LL_Pts_C,André
+136,3,01:22,MOG,66,50,substituicao_entra,Larry
+137,3,01:22,MOG,66,50,substituicao_sai,Vithinho
+138,3,01:22,VIT,66,50,FR,André
+139,3,01:22,MOG,66,50,FC_A,C  Torres
+140,3,01:29,VIT,66,50,RD,Kurtz
+141,3,01:32,MOG,66,50,2_Pts_T,C  Torres
+142,3,01:33,MOG,66,50,RD,Vithinho
+143,3,01:35,VIT,66,50,3_Pts_T,Mariano
+144,3,01:39,VIT,66,50,BR,Mariano
+145,3,01:39,MOG,66,50,ER,Vithinho
+146,3,01:49,VIT,66,50,2_Pts_C,Dawkins
+147,3,01:53,VIT,66,48,BR,Dawkins
+148,3,01:53,MOG,66,48,ER,Shamell
+149,3,01:56,MOG,66,48,substituicao_entra,C  Torres
+150,3,01:56,MOG,66,48,substituicao_entra,Fabricio
+151,3,01:56,MOG,66,48,substituicao_sai,Wesley
+152,3,01:56,MOG,66,48,substituicao_sai,Carioca
+153,3,01:56,MOG,66,48,FR,Vithinho
+154,3,01:56,VIT,66,48,FC,Mariano
+155,3,02:06,VIT,66,48,AS,André
+156,3,02:06,VIT,66,48,2_Pts_C,Renato
+157,3,02:08,VIT,66,46,RO,Dawkins
+158,3,02:12,VIT,66,46,2_Pts_T,Renato
+159,3,02:12,VIT,66,46,RO,Renato
+160,3,02:15,VIT,66,46,2_Pts_T,Kurtz
+161,3,02:16,VIT,66,46,RO,Kurtz
+162,3,02:19,VIT,66,46,3_Pts_T,André
+163,3,02:36,VIT,66,46,FR,Kurtz
+164,3,02:36,MOG,66,46,FC,Filipin
+165,3,02:53,MOG,66,46,2_Pts_C,Shamell
+166,3,03:16,VIT,64,46,2_Pts_C,Renato
+167,3,03:31,VIT,64,44,substituicao_entra,Dawkins
+168,3,03:31,VIT,64,44,substituicao_sai,Arthur
+169,3,03:31,MOG,64,44,substituicao_entra,Shamell
+170,3,03:31,MOG,64,44,substituicao_sai,Jimmy
+171,3,03:31,MOG,64,44,substituicao_entra,Carioca
+172,3,03:31,MOG,64,44,substituicao_sai,Larry
+173,3,03:31,VIT,64,44,RD,Vitória
+174,3,03:31,MOG,64,44,2_Pts_T,Wesley
+175,3,03:57,VIT,64,44,AS,Arthur
+176,3,03:57,VIT,64,44,2_Pts_C,Kurtz
+177,3,04:19,MOG,64,42,AS,Vithinho
+178,3,04:19,MOG,64,42,3_Pts_C,Jimmy
+179,3,04:52,VIT,61,42,ER,Arthur
+180,3,04:56,VIT,61,42,RO,Arthur
+181,3,04:58,VIT,61,42,3_Pts_T,Renato
+182,3,05:06,VIT,61,42,FR,André
+183,3,05:06,MOG,61,42,FC,Wesley
+184,3,05:20,VIT,61,42,BR,Mariano
+185,3,05:20,MOG,61,42,ER,Jimmy
+186,3,05:22,MOG,61,42,substituicao_entra,Wesley
+187,3,05:22,MOG,61,42,substituicao_entra,Filipin
+188,3,05:22,MOG,61,42,substituicao_entra,Vithinho
+189,3,05:22,MOG,61,42,substituicao_sai,C  Torres
+190,3,05:22,MOG,61,42,substituicao_sai,Shamell
+191,3,05:22,MOG,61,42,substituicao_sai,Fabricio
+192,3,05:22,VIT,61,42,ER,André
+193,3,05:25,VIT,61,42,BR,André
+194,3,05:25,MOG,61,42,ER,C  Torres
+195,3,05:42,VIT,61,42,AS,Mariano
+196,3,05:42,VIT,61,42,2_Pts_C,Renato
+197,3,06:05,VIT,61,40,BR,Kurtz
+198,3,06:05,MOG,61,40,ER,C  Torres
+199,3,06:24,MOG,61,40,LL_Pts_C,Larry
+200,3,06:24,MOG,60,40,FR,Larry
+201,3,06:24,VIT,60,40,FC_A,André
+202,3,06:24,MOG,60,40,2_Pts_C,Larry
+203,3,06:24,MOG,58,40,BR,Larry
+204,3,06:24,VIT,58,40,ER,André
+205,3,06:32,VIT,58,40,substituicao_entra,Renato
+206,3,06:32,VIT,58,40,substituicao_sai,Okorie
+207,3,06:32,VIT,58,40,substituicao_entra,Kurtz
+208,3,06:32,VIT,58,40,substituicao_sai,Murilo
+209,3,06:32,VIT,58,40,substituicao_entra,Mariano
+210,3,06:32,VIT,58,40,substituicao_sai,Shaw
+211,3,06:32,VIT,58,40,tempo_tecnico,Vitória
+212,3,06:32,MOG,58,40,2_Pts_C,Fabricio
+213,3,06:33,MOG,56,40,RO,Fabricio
+214,3,06:33,MOG,56,40,3_Pts_T,Larry
+215,3,06:38,MOG,56,40,RD,Shamell
+216,3,06:41,VIT,56,40,2_Pts_T,Okorie
+217,3,06:45,VIT,56,40,RD,Shaw
+218,3,06:48,MOG,56,40,2_Pts_T,C  Torres
+219,3,06:48,MOG,56,40,RO,C  Torres
+220,3,06:55,MOG,56,40,2_Pts_T,C  Torres
+221,3,07:06,VIT,56,40,substituicao_entra,André
+222,3,07:06,VIT,56,40,substituicao_sai,Dawkins
+223,3,07:06,VIT,56,40,ER,Dawkins
+224,3,07:23,MOG,56,40,2_Pts_C,Shamell
+225,3,07:35,MOG,54,40,FR,C  Torres
+226,3,07:35,VIT,54,40,FC,Arthur
+227,3,07:35,MOG,54,40,RO,C  Torres
+228,3,07:35,MOG,54,40,2_Pts_T,Shamell
+229,3,07:45,MOG,54,40,RD,C  Torres
+230,3,07:48,VIT,54,40,2_Pts_T,Okorie
+231,3,07:52,VIT,54,40,RD,Shaw
+232,3,07:55,MOG,54,40,2_Pts_T,Larry
+233,3,08:20,VIT,54,40,AS,Arthur
+234,3,08:20,VIT,54,40,LL_Pts_C,Murilo
+235,3,08:20,VIT,54,39,LL_Pts_C,Murilo
+236,3,08:20,VIT,54,38,FR,Murilo
+237,3,08:20,MOG,54,38,FC,Shamell
+238,3,08:30,MOG,54,38,2_Pts_C,Jimmy
+239,3,08:31,MOG,52,38,RO,Jimmy
+240,3,08:39,VIT,52,38,TO,Murilo
+241,3,08:39,MOG,52,38,2_Pts_T,Larry
+242,3,08:43,MOG,52,38,BR,Larry
+243,3,08:43,VIT,52,38,ER,Dawkins
+244,3,08:54,VIT,52,38,RD,Dawkins
+245,3,08:56,MOG,52,38,2_Pts_T,Shamell
+246,3,09:07,MOG,52,38,FR,C  Torres
+247,3,09:07,VIT,52,38,FC,Murilo
+248,3,09:08,MOG,52,38,RO,Jimmy
+249,3,09:11,MOG,52,38,3_Pts_T,Fabricio
+250,3,09:28,MOG,52,38,RD,Fabricio
+251,3,09:31,VIT,52,38,3_Pts_T,Murilo
+252,3,09:47,MOG,52,38,AS,Jimmy
+253,3,09:47,MOG,52,38,2_Pts_C,C  Torres
+254,3,10:00,NaN,50,38,inicio_quarto,
+255,2,00:00,NaN,50,38,fim_quarto,
+256,2,00:03,MOG,50,38,3_Pts_T,C  Torres
+257,2,00:03,MOG,50,38,substituicao_entra,Larry
+258,2,00:03,MOG,50,38,substituicao_sai,Carioca
+259,2,00:03,MOG,50,38,LL_Pts_T,Filipin
+260,2,00:03,MOG,50,38,substituicao_entra,Filipin
+261,2,00:03,MOG,50,38,substituicao_sai,Larry
+262,2,00:03,MOG,50,38,substituicao_entra,C  Torres
+263,2,00:03,MOG,50,38,substituicao_sai,José Carlos
+264,2,00:03,VIT,50,38,FC_T,Shaw
+265,2,00:03,MOG,50,38,FR,Lessa
+266,2,00:03,VIT,50,38,ER,André
+267,2,00:03,VIT,50,38,FC_O,André
+268,2,00:03,MOG,50,38,substituicao_entra,Carioca
+269,2,00:03,MOG,50,38,substituicao_sai,Shamell
+270,2,00:03,MOG,50,38,LL_Pts_C,Shamell
+271,2,00:03,MOG,49,38,LL_Pts_C,Shamell
+272,2,00:03,MOG,48,38,substituicao_entra,Lessa
+273,2,00:03,MOG,48,38,substituicao_sai,Filipin
+274,2,00:03,MOG,48,38,substituicao_entra,José Carlos
+275,2,00:03,MOG,48,38,substituicao_sai,C  Torres
+276,2,00:03,MOG,48,38,FR,Shamell
+277,2,00:03,VIT,48,38,FC,João Pedro
+278,2,00:14,VIT,48,38,AS,Dawkins
+279,2,00:14,VIT,48,38,LL_Pts_C,Murilo
+280,2,00:14,VIT,48,37,LL_Pts_C,Murilo
+281,2,00:14,MOG,48,36,substituicao_entra,Filipin
+282,2,00:14,MOG,48,36,substituicao_entra,Shamell
+283,2,00:14,MOG,48,36,substituicao_sai,José Carlos
+284,2,00:14,MOG,48,36,substituicao_sai,Lessa
+285,2,00:14,VIT,48,36,substituicao_entra,Mariano
+286,2,00:14,VIT,48,36,substituicao_sai,Arthur
+287,2,00:14,VIT,48,36,substituicao_entra,João Pedro
+288,2,00:14,VIT,48,36,substituicao_sai,Dawkins
+289,2,00:14,VIT,48,36,FR,Murilo
+290,2,00:14,MOG,48,36,FC,C  Torres
+291,2,00:24,MOG,48,36,LL_Pts_C,Larry
+292,2,00:24,MOG,47,36,substituicao_entra,José Carlos
+293,2,00:24,MOG,47,36,substituicao_sai,Shamell
+294,2,00:24,MOG,47,36,substituicao_entra,Lessa
+295,2,00:24,MOG,47,36,substituicao_sai,Filipin
+296,2,00:24,MOG,47,36,FR,Larry
+297,2,00:24,VIT,47,36,FC,Dawkins
+298,2,00:24,MOG,47,36,AS,Shamell
+299,2,00:24,MOG,47,36,2_Pts_C,Larry
+300,2,00:24,MOG,45,36,BR,Shamell
+301,2,00:24,VIT,45,36,ER,Dawkins
+302,2,00:40,MOG,45,36,2_Pts_C,C  Torres
+303,2,00:43,MOG,43,36,RO,C  Torres
+304,2,00:43,MOG,43,36,2_Pts_T,Larry
+305,2,01:02,VIT,43,36,substituicao_entra,André
+306,2,01:02,VIT,43,36,substituicao_sai,Okorie
+307,2,01:02,VIT,43,36,2_Pts_C,Shaw
+308,2,01:06,VIT,43,34,RO,Shaw
+309,2,01:06,VIT,43,34,2_Pts_T,Shaw
+310,2,01:30,MOG,43,34,AS,Larry
+311,2,01:30,MOG,43,34,2_Pts_C,Shamell
+312,2,01:42,MOG,41,34,RD,Jimmy
+313,2,01:45,VIT,41,34,3_Pts_T,Shaw
+314,2,01:53,VIT,41,34,RD,Shaw
+315,2,01:55,MOG,41,34,3_Pts_T,Larry
+316,2,02:11,MOG,41,34,substituicao_entra,Filipin
+317,2,02:11,MOG,41,34,substituicao_sai,Fabricio
+318,2,02:11,MOG,41,34,RD,Mogi
+319,2,02:12,VIT,41,34,3_Pts_T,Dawkins
+320,2,02:29,MOG,41,34,LL_Pts_C,Jimmy
+321,2,02:29,MOG,40,34,LL_Pts_C,Jimmy
+322,2,02:29,MOG,39,34,FR,Jimmy
+323,2,02:29,VIT,39,34,FC,Dawkins
+324,2,02:41,VIT,39,34,AS,Dawkins
+325,2,02:41,VIT,39,34,3_Pts_C,Arthur
+326,2,02:45,VIT,39,31,RD,Dawkins
+327,2,02:47,MOG,39,31,3_Pts_T,Shamell
+328,2,03:04,MOG,39,31,RD,C  Torres
+329,2,03:05,VIT,39,31,LL_Pts_T,Okorie
+330,2,03:05,VIT,39,31,LL_Pts_C,Okorie
+331,2,03:05,VIT,39,30,LL_Pts_C,Okorie
+332,2,03:05,MOG,39,29,substituicao_entra,Jimmy
+333,2,03:05,MOG,39,29,substituicao_sai,Carioca
+334,2,03:05,MOG,39,29,substituicao_entra,C  Torres
+335,2,03:05,MOG,39,29,substituicao_sai,Wesley
+336,2,03:05,VIT,39,29,FR,Okorie
+337,2,03:05,MOG,39,29,FC,Fabricio
+338,2,03:31,MOG,39,29,AS,Shamell
+339,2,03:31,MOG,39,29,EN,Wesley
+340,2,03:54,VIT,37,29,2_Pts_C,Shaw
+341,2,04:10,VIT,37,27,RD,Okorie
+342,2,04:13,MOG,37,27,2_Pts_T,Wesley
+343,2,04:30,VIT,37,27,tempo_tecnico,Vitória
+344,2,04:30,MOG,37,27,FR,Wesley
+345,2,04:30,VIT,37,27,FC,Shaw
+346,2,04:30,MOG,37,27,BR,Wesley
+347,2,04:30,VIT,37,27,ER,Shaw
+348,2,04:53,VIT,37,27,RD,Arthur
+349,2,04:54,MOG,37,27,AS,Larry
+350,2,04:54,MOG,37,27,LL_Pts_T,Carioca
+351,2,04:54,MOG,37,27,LL_Pts_C,Carioca
+352,2,04:54,MOG,36,27,FR,Carioca
+353,2,04:54,VIT,36,27,FC,Okorie
+354,2,05:02,MOG,36,27,BR,Larry
+355,2,05:02,VIT,36,27,ER,Dawkins
+356,2,05:18,VIT,36,27,FR,Arthur
+357,2,05:18,MOG,36,27,FC,Wesley
+358,2,05:34,VIT,36,27,substituicao_entra,Murilo
+359,2,05:34,VIT,36,27,substituicao_sai,Kurtz
+360,2,05:34,MOG,36,27,LL_Pts_C,Wesley
+361,2,05:34,MOG,35,27,LL_Pts_T,Wesley
+362,2,05:34,MOG,35,27,substituicao_entra,Fabricio
+363,2,05:34,MOG,35,27,substituicao_sai,Filipin
+364,2,05:34,MOG,35,27,FR,Wesley
+365,2,05:34,VIT,35,27,FC,Kurtz
+366,2,05:43,VIT,35,27,substituicao_entra,Shaw
+367,2,05:43,VIT,35,27,substituicao_sai,Renato
+368,2,05:55,VIT,35,27,3_Pts_C,Dawkins
+369,2,05:57,VIT,35,24,substituicao_entra,Okorie
+370,2,05:57,VIT,35,24,substituicao_sai,André
+371,2,05:57,MOG,35,24,substituicao_entra,Wesley
+372,2,05:57,MOG,35,24,substituicao_sai,C  Torres
+373,2,05:57,MOG,35,24,substituicao_entra,Carioca
+374,2,05:57,MOG,35,24,substituicao_sai,Vithinho
+375,2,05:57,VIT,35,24,tempo_tecnico,Vitória
+376,2,05:57,VIT,35,24,substituicao_entra,Arthur
+377,2,05:57,VIT,35,24,substituicao_sai,Mariano
+378,2,05:57,MOG,35,24,substituicao_entra,Larry
+379,2,05:57,MOG,35,24,substituicao_sai,Jimmy
+380,2,05:57,MOG,35,24,AS,Shamell
+381,2,05:57,MOG,35,24,3_Pts_C,C  Torres
+382,2,06:08,MOG,32,24,RD,Filipin
+383,2,06:11,VIT,32,24,3_Pts_T,André
+384,2,06:28,MOG,32,24,AS,Vithinho
+385,2,06:28,MOG,32,24,2_Pts_C,C  Torres
+386,2,06:37,VIT,30,24,AS,Mariano
+387,2,06:37,VIT,30,24,3_Pts_C,André
+388,2,06:58,MOG,30,21,AS,Shamell
+389,2,06:58,MOG,30,21,3_Pts_C,Filipin
+390,2,07:08,MOG,27,21,RD,Filipin
+391,2,07:11,VIT,27,21,2_Pts_T,Dawkins
+392,2,07:22,VIT,27,21,FR,André
+393,2,07:22,MOG,27,21,FC,Vithinho
+394,2,07:30,MOG,27,21,LL_Pts_C,Jimmy
+395,2,07:30,MOG,26,21,LL_Pts_T,Jimmy
+396,2,07:30,VIT,26,21,substituicao_entra,Dawkins
+397,2,07:30,VIT,26,21,substituicao_sai,João Pedro
+398,2,07:30,MOG,26,21,FR,Jimmy
+399,2,07:30,VIT,26,21,FC,Renato
+400,2,07:30,MOG,26,21,RO,Jimmy
+401,2,07:31,MOG,26,21,2_Pts_T,C  Torres
+402,2,07:47,MOG,26,21,RD,Shamell
+403,2,07:49,VIT,26,21,2_Pts_T,Kurtz
+404,2,07:51,MOG,26,21,substituicao_entra,Shamell
+405,2,07:51,MOG,26,21,substituicao_sai,Wesley
+406,2,08:15,MOG,26,21,AS,Jimmy
+407,2,08:15,MOG,26,21,2_Pts_C,C  Torres
+408,2,08:39,VIT,24,21,AS,André
+409,2,08:39,VIT,24,21,2_Pts_C,Kurtz
+410,2,08:49,VIT,24,19,RD,Kurtz
+411,2,08:52,MOG,24,19,3_Pts_T,Wesley
+412,2,09:07,VIT,24,19,AS,André
+413,2,09:07,VIT,24,19,2_Pts_C,Kurtz
+414,2,09:14,VIT,24,17,BR,Renato
+415,2,09:14,MOG,24,17,ER,Vithinho
+416,2,09:41,VIT,24,17,AS,Mariano
+417,2,09:41,VIT,24,17,EN,Kurtz
+418,2,10:00,NaN,24,15,inicio_quarto,
+419,1,00:00,NaN,24,15,fim_quarto,
+420,1,00:01,VIT,24,15,2_Pts_T,Kurtz
+421,1,00:04,MOG,24,15,substituicao_entra,Jimmy
+422,1,00:04,MOG,24,15,substituicao_sai,Fabricio
+423,1,00:04,VIT,24,15,FR,João Pedro
+424,1,00:04,MOG,24,15,FC,Vithinho
+425,1,00:10,VIT,24,15,RD,André
+426,1,00:13,MOG,24,15,3_Pts_T,Larry
+427,1,00:36,MOG,24,15,FR,Larry
+428,1,00:36,VIT,24,15,ER,Kurtz
+429,1,00:36,VIT,24,15,FC_O,Kurtz
+430,1,00:36,MOG,24,15,RD,Mogi
+431,1,00:36,VIT,24,15,3_Pts_T,João Pedro
+432,1,00:45,VIT,24,15,FR,André
+433,1,00:45,MOG,24,15,FC,Larry
+434,1,00:59,MOG,24,15,3_Pts_C,Vithinho
+435,1,01:18,MOG,21,15,substituicao_entra,Larry
+436,1,01:18,MOG,21,15,substituicao_sai,Jimmy
+437,1,01:18,VIT,21,15,substituicao_entra,João Pedro
+438,1,01:18,VIT,21,15,substituicao_sai,Okorie
+439,1,01:18,MOG,21,15,FR,Filipin
+440,1,01:18,VIT,21,15,ER,André
+441,1,01:18,VIT,21,15,FC_O,André
+442,1,01:21,VIT,21,15,RD,Mariano
+443,1,01:24,MOG,21,15,3_Pts_T,Filipin
+444,1,01:42,MOG,21,15,RD,Fabricio
+445,1,01:45,VIT,21,15,2_Pts_T,Okorie
+446,1,02:03,MOG,21,15,AS,Vithinho
+447,1,02:03,MOG,21,15,3_Pts_C,Fabricio
+448,1,02:29,VIT,18,15,AS,André
+449,1,02:29,VIT,18,15,EN,Kurtz
+450,1,02:53,VIT,18,13,LL_Pts_C,André
+451,1,02:53,VIT,18,12,LL_Pts_C,André
+452,1,02:53,VIT,18,11,substituicao_entra,Mariano
+453,1,02:53,VIT,18,11,substituicao_sai,Arthur
+454,1,02:53,MOG,18,11,substituicao_entra,Filipin
+455,1,02:53,MOG,18,11,substituicao_sai,Shamell
+456,1,02:53,VIT,18,11,substituicao_entra,Renato
+457,1,02:53,VIT,18,11,substituicao_sai,Shaw
+458,1,02:53,MOG,18,11,substituicao_entra,Vithinho
+459,1,02:53,MOG,18,11,substituicao_sai,Larry
+460,1,02:53,VIT,18,11,FR,André
+461,1,02:53,MOG,18,11,FC_A,Fabricio
+462,1,02:53,VIT,18,11,RD,André
+463,1,02:55,MOG,18,11,2_Pts_T,Shamell
+464,1,03:02,MOG,18,11,RD,Shamell
+465,1,03:04,VIT,18,11,2_Pts_T,Kurtz
+466,1,03:25,MOG,18,11,AS,Wesley
+467,1,03:25,MOG,18,11,3_Pts_C,Shamell
+468,1,03:49,MOG,15,11,substituicao_entra,Wesley
+469,1,03:49,MOG,15,11,substituicao_sai,C  Torres
+470,1,03:49,VIT,15,11,substituicao_entra,André
+471,1,03:49,VIT,15,11,substituicao_sai,Dawkins
+472,1,03:49,VIT,15,11,substituicao_entra,Kurtz
+473,1,03:49,VIT,15,11,substituicao_sai,Murilo
+474,1,03:49,VIT,15,11,AS,Dawkins
+475,1,03:49,VIT,15,11,2_Pts_C,Arthur
+476,1,03:51,VIT,15,9,RD,Dawkins
+477,1,03:55,MOG,15,9,3_Pts_T,Larry
+478,1,04:02,MOG,15,9,BR,Fabricio
+479,1,04:02,VIT,15,9,ER,Okorie
+480,1,04:05,VIT,15,9,RO,Murilo
+481,1,04:07,VIT,15,9,3_Pts_T,Arthur
+482,1,04:12,VIT,15,9,BR,Dawkins
+483,1,04:12,MOG,15,9,ER,Larry
+484,1,04:16,MOG,15,9,BR,Larry
+485,1,04:16,VIT,15,9,ER,Okorie
+486,1,04:31,MOG,15,9,2_Pts_C,Larry
+487,1,04:46,MOG,13,9,RD,C  Torres
+488,1,04:50,VIT,13,9,3_Pts_T,Dawkins
+489,1,04:55,VIT,13,9,BR,Shaw
+490,1,04:55,MOG,13,9,ER,C  Torres
+491,1,05:02,MOG,13,9,RD,Shamell
+492,1,05:06,VIT,13,9,3_Pts_T,Murilo
+493,1,05:30,MOG,13,9,2_Pts_C,Larry
+494,1,05:49,VIT,11,9,AS,Dawkins
+495,1,05:49,VIT,11,9,3_Pts_C,Arthur
+496,1,05:53,VIT,11,6,RD,Okorie
+497,1,05:56,MOG,11,6,2_Pts_T,Jimmy
+498,1,06:01,MOG,11,6,RD,C  Torres
+499,1,06:04,VIT,11,6,2_Pts_T,Dawkins
+500,1,06:10,VIT,11,6,RD,Murilo
+501,1,06:13,MOG,11,6,3_Pts_T,Shamell
+502,1,06:19,MOG,11,6,BR,Jimmy
+503,1,06:19,VIT,11,6,ER,Dawkins
+504,1,06:23,VIT,11,6,RD,Dawkins
+505,1,06:26,MOG,11,6,2_Pts_T,Shamell
+506,1,06:31,MOG,11,6,BR,Fabricio
+507,1,06:31,VIT,11,6,ER,Murilo
+508,1,06:39,MOG,11,6,AS,Larry
+509,1,06:39,MOG,11,6,3_Pts_C,Jimmy
+510,1,06:52,VIT,8,6,2_Pts_C,Murilo
+511,1,07:01,VIT,8,4,RD,Murilo
+512,1,07:03,MOG,8,4,2_Pts_T,Shamell
+513,1,07:23,VIT,8,4,LL_Pts_C,Arthur
+514,1,07:23,VIT,8,3,LL_Pts_C,Arthur
+515,1,07:23,VIT,8,2,FR,Arthur
+516,1,07:23,MOG,8,2,FC,Shamell
+517,1,07:23,VIT,8,2,RO,Arthur
+518,1,07:23,VIT,8,2,3_Pts_T,Murilo
+519,1,07:26,VIT,8,2,RO,Murilo
+520,1,07:28,VIT,8,2,2_Pts_T,Arthur
+521,1,07:45,MOG,8,2,AS,Jimmy
+522,1,07:45,MOG,8,2,3_Pts_C,Fabricio
+523,1,08:03,VIT,5,2,ER,Arthur
+524,1,08:23,MOG,5,2,AS,Larry
+525,1,08:23,MOG,5,2,2_Pts_C,Jimmy
+526,1,08:26,MOG,3,2,RD,Larry
+527,1,08:29,VIT,3,2,2_Pts_T,Okorie
+528,1,08:50,MOG,3,2,3_Pts_C,Jimmy
+529,1,08:52,MOG,0,2,RO,Shamell
+530,1,08:56,MOG,0,2,2_Pts_T,Shamell
+531,1,09:02,MOG,0,2,RO,Jimmy
+532,1,09:04,MOG,0,2,3_Pts_T,C  Torres
+533,1,09:29,VIT,0,2,2_Pts_C,Okorie
+534,1,09:43,VIT,0,0,RD,Dawkins
+535,1,09:46,MOG,0,0,2_Pts_T,C  Torres
+536,1,10:00,VIT,0,0,substituicao_entra,Okorie
+537,1,10:00,VIT,0,0,substituicao_entra,Dawkins
+538,1,10:00,VIT,0,0,substituicao_entra,Shaw
+539,1,10:00,VIT,0,0,substituicao_entra,Murilo
+540,1,10:00,VIT,0,0,substituicao_entra,Arthur
+541,1,10:00,MOG,0,0,substituicao_entra,Fabricio
+542,1,10:00,MOG,0,0,substituicao_entra,Jimmy
+543,1,10:00,MOG,0,0,substituicao_entra,Larry
+544,1,10:00,MOG,0,0,substituicao_entra,C  Torres
+545,1,10:00,MOG,0,0,substituicao_entra,Shamell

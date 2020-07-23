@@ -1,0 +1,443 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,85,87,fim_partida,
+1,4,00:00,NaN,85,87,fim_quarto, 
+2,4,00:00,MIN,85,87,2_Pts_T,Deodato
+3,4,00:00,MIN,85,87,RO,Deodato
+4,4,00:02,MIN,85,87,2_Pts_T,Leandrinho
+5,4,00:20,MIN,85,87,tempo_tecnico,Minas
+6,4,00:21,SPF,85,87,ER,
+7,4,00:45,MIN,85,87,LL_Pts_C,Shilton
+8,4,00:45,MIN,84,87,LL_Pts_C,Shilton
+9,4,00:45,MIN,83,87,FR,Shilton
+10,4,00:45,SPF,83,87,FC,Shamell
+11,4,00:50,MIN,83,87,tempo_tecnico,Minas
+12,4,00:50,MIN,83,87,RD,Minas
+13,4,00:50,SPF,83,87,3_Pts_T,Shamell
+14,4,01:07,SPF,83,87,RD,Georginho
+15,4,01:12,MIN,83,87,3_Pts_T,Deodato
+16,4,01:23,SPF,83,87,3_Pts_C,Shamell
+17,4,01:44,MIN,83,84,3_Pts_C,Leandrinho
+18,4,01:54,SPF,80,84,LL_Pts_C,Jefferson
+19,4,01:54,SPF,80,83,LL_Pts_C,Jefferson
+20,4,01:54,SPF,80,82,FR,Jefferson
+21,4,01:54,MIN,80,82,FC,Tyrone 
+22,4,01:54,SPF,80,82,BR,Jefferson
+23,4,01:54,MIN,80,82,ER,Tyrone 
+24,4,01:54,MIN,80,82,RD,Tyrone 
+25,4,01:57,SPF,80,82,3_Pts_T,Léo Meindl
+26,4,02:09,SPF,80,82,RO,Léo Meindl
+27,4,02:14,SPF,80,82,3_Pts_T,Georginho
+28,4,02:41,MIN,80,82,AS,Shilton
+29,4,02:41,MIN,80,82,2_Pts_C,Alex
+30,4,03:00,MIN,78,82,RD,Alex
+31,4,03:00,SPF,78,82,LL_Pts_T,Shamell
+32,4,03:00,SPF,78,82,LL_Pts_C,Shamell
+33,4,03:00,SPF,78,81,FR,Shamell
+34,4,03:00,MIN,78,81,FC,Shilton
+35,4,03:10,SPF,78,81,RD,Renan
+36,4,03:10,MIN,78,81,2_Pts_T,Tyrone 
+37,4,03:10,MIN,78,81,RO,Tyrone 
+38,4,03:12,MIN,78,81,2_Pts_T,Tyrone 
+39,4,03:12,MIN,78,81,RO,Tyrone 
+40,4,03:18,MIN,78,81,2_Pts_T,Leandrinho
+41,4,03:24,MIN,78,81,RO,Shilton
+42,4,03:27,MIN,78,81,2_Pts_T,Alex
+43,4,03:35,MIN,78,81,RO,Minas
+44,4,03:35,MIN,78,81,LL_Pts_T,Shilton
+45,4,03:35,MIN,78,81,LL_Pts_T,Shilton
+46,4,03:35,MIN,78,81,FR,Shilton
+47,4,03:35,SPF,78,81,FC,Jefferson
+48,4,03:57,MIN,78,81,LL_Pts_C,Alex
+49,4,03:57,MIN,77,81,substituicao_entra,Tyrone 
+50,4,03:57,MIN,77,81,substituicao_sai,Jackson Jr
+51,4,03:57,SPF,77,81,FC_T,Léo Meindl
+52,4,04:01,SPF,77,81,2_Pts_C,Shamell
+53,4,04:11,SPF,77,79,RO,Georginho
+54,4,04:15,SPF,77,79,3_Pts_T,Léo Meindl
+55,4,04:18,SPF,77,79,RO,Jefferson
+56,4,04:23,SPF,77,79,3_Pts_T,Shamell
+57,4,04:46,MIN,77,79,3_Pts_C,Alex
+58,4,05:00,SPF,74,79,AS,Shamell
+59,4,05:00,SPF,74,79,3_Pts_C,Léo Meindl
+60,4,05:06,SPF,74,76,RD,Jefferson
+61,4,05:09,MIN,74,76,3_Pts_T,Jackson Jr
+62,4,05:22,MIN,74,76,FR,Jackson Jr
+63,4,05:22,SPF,74,76,FC,Jefferson
+64,4,05:25,MIN,74,76,RD,Jackson Jr
+65,4,05:29,SPF,74,76,2_Pts_T,Georginho
+66,4,05:53,SPF,74,76,FR,Jefferson
+67,4,05:53,MIN,74,76,FC,Shilton
+68,4,05:53,SPF,74,76,RD,São Paulo
+69,4,05:54,MIN,74,76,2_Pts_T,Leandrinho
+70,4,06:04,MIN,74,76,RD,Shilton
+71,4,06:08,SPF,74,76,2_Pts_T,Shamell
+72,4,06:21,SPF,74,76,FR,Jefferson
+73,4,06:21,MIN,74,76,FC,Shilton
+74,4,06:21,SPF,74,76,RO,Jefferson
+75,4,06:25,SPF,74,76,2_Pts_T,Léo Meindl
+76,4,06:47,MIN,74,76,substituicao_entra,Alex
+77,4,06:47,MIN,74,76,substituicao_sai,Tyrone 
+78,4,06:47,SPF,74,76,tempo_tecnico,São Paulo
+79,4,06:47,MIN,74,76,2_Pts_C,Jackson Jr
+80,4,06:50,MIN,72,76,RD,Shilton
+81,4,06:54,SPF,72,76,2_Pts_T,Shamell
+82,4,07:18,MIN,72,76,AS,Leandrinho
+83,4,07:18,MIN,72,76,EN,Tyrone 
+84,4,07:21,MIN,70,76,RD,Leandrinho
+85,4,07:25,SPF,70,76,3_Pts_T,Jefferson
+86,4,07:47,MIN,70,76,2_Pts_C,Deodato
+87,4,07:47,MIN,68,76,RO,Deodato
+88,4,07:51,MIN,68,76,3_Pts_T,Tyrone 
+89,4,07:57,MIN,68,76,RD,Leandrinho
+90,4,08:01,SPF,68,76,2_Pts_T,Jefferson
+91,4,08:22,SPF,68,76,RD,Georginho
+92,4,08:26,MIN,68,76,3_Pts_T,Deodato
+93,4,08:33,SPF,68,76,LL_Pts_C,Georginho
+94,4,08:33,SPF,68,75,LL_Pts_C,Georginho
+95,4,08:33,SPF,68,74,FR,Georginho
+96,4,08:33,MIN,68,74,FC,Deodato
+97,4,08:42,SPF,68,74,RD,Shamell
+98,4,08:47,SPF,68,74,TO,Georginho
+99,4,08:47,MIN,68,74,2_Pts_T,Leandrinho
+100,4,09:01,MIN,68,74,FR,Leandrinho
+101,4,09:01,SPF,68,74,FC,Renan
+102,4,09:05,MIN,68,74,RD,Tyrone 
+103,4,09:10,SPF,68,74,3_Pts_T,Georginho
+104,4,09:36,MIN,68,74,3_Pts_C,Leandrinho
+105,4,09:39,MIN,65,74,RD,Deodato
+106,4,09:43,SPF,65,74,2_Pts_T,Léo Meindl
+107,4,10:00,NaN,65,74,inicio_quarto,
+108,3,00:00,NaN,65,74,fim_quarto,
+109,3,00:00,SPF,65,74,LL_Pts_C,Georginho
+110,3,00:00,SPF,65,73,LL_Pts_C,Georginho
+111,3,00:00,SPF,65,72,LL_Pts_C,Jefferson
+112,3,00:00,MIN,65,71,FC_T,Tyrone 
+113,3,00:00,SPF,65,71,FR,Georginho
+114,3,00:00,MIN,65,71,FC,Jackson Jr
+115,3,00:20,MIN,65,71,2_Pts_C,Leandrinho
+116,3,00:34,MIN,63,71,substituicao_entra,Jackson Jr
+117,3,00:34,MIN,63,71,substituicao_sai,Alexei
+118,3,00:34,SPF,63,71,ER,Georginho
+119,3,00:48,SPF,63,71,RD,Shamell
+120,3,00:53,MIN,63,71,2_Pts_T,Alex
+121,3,01:06,MIN,63,71,RD,Shilton
+122,3,01:06,SPF,63,71,LL_Pts_T,Léo Meindl
+123,3,01:06,SPF,63,71,FR,Léo Meindl
+124,3,01:06,MIN,63,71,FC,Alexei
+125,3,01:06,SPF,63,71,AS,Georginho
+126,3,01:06,SPF,63,71,2_Pts_C,Léo Meindl
+127,3,01:10,SPF,63,69,RD,Georginho
+128,3,01:13,MIN,63,69,2_Pts_T,Leandrinho
+129,3,01:21,MIN,63,69,FR,Leandrinho
+130,3,01:21,SPF,63,69,FC,Georginho
+131,3,01:37,SPF,63,69,2_Pts_C,Shamell
+132,3,01:41,SPF,63,67,RO,São Paulo
+133,3,01:42,SPF,63,67,2_Pts_T,Shamell
+134,3,01:59,SPF,63,67,RD,Léo Meindl
+135,3,02:03,MIN,63,67,3_Pts_T,Tyrone 
+136,3,02:21,SPF,63,67,2_Pts_C,Shamell
+137,3,02:50,MIN,63,65,2_Pts_C,Leandrinho
+138,3,02:58,MIN,61,65,RD,Tyrone 
+139,3,03:02,SPF,61,65,3_Pts_T,Georginho
+140,3,03:22,MIN,61,65,AS,Alexei
+141,3,03:22,MIN,61,65,3_Pts_C,Leandrinho
+142,3,03:36,MIN,58,65,substituicao_entra,Alexei
+143,3,03:36,MIN,58,65,substituicao_entra,Shilton
+144,3,03:36,MIN,58,65,substituicao_sai,Scott
+145,3,03:36,MIN,58,65,substituicao_sai,Deodato
+146,3,03:36,MIN,58,65,tempo_tecnico,Minas
+147,3,03:40,SPF,58,65,AS,Georginho
+148,3,03:40,SPF,58,65,3_Pts_C,Renan
+149,3,03:49,SPF,58,62,RD,Léo Meindl
+150,3,03:52,MIN,58,62,2_Pts_T,Scott
+151,3,04:12,SPF,58,62,2_Pts_C,Georginho
+152,3,04:33,MIN,58,60,ER,Leandrinho
+153,3,04:53,SPF,58,60,LL_Pts_C,Léo Meindl
+154,3,04:53,MIN,58,59,substituicao_entra,Leandrinho
+155,3,04:53,MIN,58,59,substituicao_sai,Davi
+156,3,04:53,SPF,58,59,FR,Léo Meindl
+157,3,04:53,MIN,58,59,FC,Deodato
+158,3,04:53,SPF,58,59,AS,Georginho
+159,3,04:53,SPF,58,59,2_Pts_C,Léo Meindl
+160,3,05:10,SPF,58,57,RD,Jefferson
+161,3,05:13,MIN,58,57,3_Pts_T,Deodato
+162,3,05:37,MIN,58,57,RD,Scott
+163,3,05:37,SPF,58,57,LL_Pts_T,Shamell
+164,3,05:37,SPF,58,57,LL_Pts_T,Shamell
+165,3,05:37,SPF,58,57,FR,Shamell
+166,3,05:37,MIN,58,57,FC,Scott
+167,3,05:57,MIN,58,57,2_Pts_C,Alex
+168,3,06:02,MIN,56,57,BR,Alex
+169,3,06:02,SPF,56,57,ER,Renan
+170,3,06:04,SPF,56,57,RD,Léo Meindl
+171,3,06:08,MIN,56,57,2_Pts_T,Alex
+172,3,06:36,SPF,56,57,AS,Léo Meindl
+173,3,06:36,SPF,56,57,3_Pts_C,Shamell
+174,3,06:41,SPF,56,54,RD,Léo Meindl
+175,3,06:46,MIN,56,54,3_Pts_T,Davi
+176,3,06:48,MIN,56,54,RD,Deodato
+177,3,06:52,SPF,56,54,3_Pts_T,Georginho
+178,3,07:01,MIN,56,54,LL_Pts_C,Davi
+179,3,07:01,MIN,55,54,AS,Alex
+180,3,07:01,MIN,55,54,LL_Pts_C,Davi
+181,3,07:01,MIN,54,54,FR,Davi
+182,3,07:01,SPF,54,54,FC,Léo Meindl
+183,3,07:07,MIN,54,54,RD,Alex
+184,3,07:07,SPF,54,54,LL_Pts_T,Shamell
+185,3,07:07,SPF,54,54,LL_Pts_T,Shamell
+186,3,07:07,SPF,54,54,FR,Shamell
+187,3,07:07,MIN,54,54,FC,Deodato
+188,3,07:29,MIN,54,54,AS,Alex
+189,3,07:29,MIN,54,54,2_Pts_C,Deodato
+190,3,07:49,MIN,52,54,RD,Scott
+191,3,07:49,SPF,52,54,LL_Pts_T,Georginho
+192,3,07:49,SPF,52,54,FR,Georginho
+193,3,07:49,MIN,52,54,FC,Davi
+194,3,07:49,SPF,52,54,AS,Léo Meindl
+195,3,07:49,SPF,52,54,2_Pts_C,Georginho
+196,3,09:50,MIN,52,52,2_Pts_C,Deodato
+197,3,09:50,MIN,50,52,BR,Deodato
+198,3,09:50,SPF,50,52,ER,Shamell
+199,3,09:50,MIN,50,52,2_Pts_C,Tyrone 
+200,3,09:50,MIN,48,52,RO,Tyrone 
+201,3,09:50,SPF,48,52,TO,Renan
+202,3,09:50,MIN,48,52,2_Pts_T,Tyrone 
+203,3,09:50,MIN,48,52,RD,Deodato
+204,3,09:50,SPF,48,52,3_Pts_T,Léo Meindl
+205,3,09:50,SPF,48,52,RD,Georginho
+206,3,09:50,MIN,48,52,3_Pts_T,Alex
+207,3,09:50,SPF,48,52,AS,Georginho
+208,3,09:50,SPF,48,52,3_Pts_C,Shamell
+209,3,09:50,SPF,48,49,RO,Georginho
+210,3,09:50,SPF,48,49,3_Pts_T,Jefferson
+211,3,09:50,SPF,48,49,RD,Shamell
+212,3,09:50,MIN,48,49,3_Pts_T,Alex
+213,3,10:00,NaN,48,49,inicio_quarto,
+214,2,00:00,NaN,48,49,fim_quarto,
+215,2,00:00,SPF,48,49,RD,Shamell
+216,2,00:00,MIN,48,49,3_Pts_T,Deodato
+217,2,00:02,MIN,48,49,RO,Deodato
+218,2,00:09,MIN,48,49,3_Pts_T,Tyrone 
+219,2,00:29,MIN,48,49,substituicao_entra,Davi
+220,2,00:29,MIN,48,49,substituicao_sai,Shilton
+221,2,00:29,MIN,48,49,tempo_tecnico,Minas
+222,2,00:29,MIN,48,49,FR,Shilton
+223,2,00:29,SPF,48,49,FC,Murilo
+224,2,00:29,MIN,48,49,RD,Shilton
+225,2,00:31,SPF,48,49,2_Pts_T,Murilo
+226,2,00:56,MIN,48,49,AS,Tyrone 
+227,2,00:56,MIN,48,49,2_Pts_C,Deodato
+228,2,00:58,MIN,46,49,RD,Alex
+229,2,01:02,SPF,46,49,3_Pts_T,Jefferson
+230,2,01:04,SPF,46,49,RO,São Paulo
+231,2,01:07,SPF,46,49,3_Pts_T,Jones
+232,2,01:29,MIN,46,49,ER,Deodato
+233,2,01:46,SPF,46,49,AS,Georginho
+234,2,01:46,SPF,46,49,3_Pts_C,Shamell
+235,2,02:03,SPF,46,46,RD,Georginho
+236,2,02:03,MIN,46,46,LL_Pts_T,Tyrone 
+237,2,02:03,MIN,46,46,LL_Pts_C,Tyrone 
+238,2,02:03,MIN,45,46,AS,Leandrinho
+239,2,02:03,MIN,45,46,LL_Pts_C,Tyrone 
+240,2,02:03,MIN,44,46,FR,Tyrone 
+241,2,02:03,SPF,44,46,FC,Shamell
+242,2,02:17,MIN,44,46,RD,Alex
+243,2,02:17,SPF,44,46,LL_Pts_T,Murilo
+244,2,02:17,SPF,44,46,LL_Pts_T,Murilo
+245,2,02:18,SPF,44,46,FR,Murilo
+246,2,02:18,MIN,44,46,FC,Shilton
+247,2,02:27,MIN,44,46,2_Pts_C,Leandrinho
+248,2,02:40,MIN,42,46,tempo_tecnico,Minas
+249,2,02:40,SPF,42,46,LL_Pts_C,Murilo
+250,2,02:40,SPF,42,45,FR,Murilo
+251,2,02:40,MIN,42,45,FC,Deodato
+252,2,02:40,SPF,42,45,2_Pts_C,Murilo
+253,2,02:40,SPF,42,43,RO,Murilo
+254,2,02:40,SPF,42,43,3_Pts_T,Shamell
+255,2,02:53,SPF,42,43,substituicao_entra,Jefferson
+256,2,02:53,SPF,42,43,substituicao_entra,Jones
+257,2,02:53,SPF,42,43,substituicao_sai,Renan
+258,2,02:53,SPF,42,43,substituicao_sai,Léo Meindl
+259,2,02:53,SPF,42,43,RO,São Paulo
+260,2,02:57,SPF,42,43,3_Pts_T,Shamell
+261,2,03:04,SPF,42,43,RO,São Paulo
+262,2,03:04,MIN,42,43,TO,Deodato
+263,2,03:04,SPF,42,43,2_Pts_T,Georginho
+264,2,03:18,MIN,42,43,2_Pts_C,Leandrinho
+265,2,03:35,SPF,40,43,AS,Shamell
+266,2,03:35,SPF,40,43,3_Pts_C,Murilo
+267,2,04:02,MIN,40,40,AS,Leandrinho
+268,2,04:02,MIN,40,40,3_Pts_C,Tyrone 
+269,2,04:19,MIN,37,40,RD,Alex
+270,2,04:19,SPF,37,40,LL_Pts_T,Renan
+271,2,04:19,SPF,37,40,FR,Renan
+272,2,04:19,MIN,37,40,FC,Leandrinho
+273,2,04:19,SPF,37,40,2_Pts_C,Renan
+274,2,04:19,SPF,37,38,RO,Renan
+275,2,04:23,SPF,37,38,3_Pts_T,Georginho
+276,2,04:40,MIN,37,38,AS,Alex
+277,2,04:40,MIN,37,38,LL_Pts_C,Leandrinho
+278,2,04:40,MIN,36,38,LL_Pts_T,Leandrinho
+279,2,04:40,SPF,36,38,substituicao_entra,Murilo
+280,2,04:40,SPF,36,38,substituicao_sai,Jefferson
+281,2,04:42,MIN,36,38,FR,Leandrinho
+282,2,04:42,SPF,36,38,FC,Georginho
+283,2,04:58,SPF,36,38,AS,Shamell
+284,2,04:58,SPF,36,38,3_Pts_C,Renan
+285,2,05:20,MIN,36,35,AS,Alex
+286,2,05:20,MIN,36,35,3_Pts_C,Tyrone 
+287,2,05:42,SPF,33,35,ER,Shamell
+288,2,05:59,SPF,33,35,tempo_tecnico,São Paulo
+289,2,06:00,MIN,33,35,AS,Leandrinho
+290,2,06:00,MIN,33,35,2_Pts_C,Deodato
+291,2,06:06,MIN,31,35,BR,Leandrinho
+292,2,06:06,SPF,31,35,ER,Jefferson
+293,2,06:31,MIN,31,35,AS,Tyrone 
+294,2,06:31,MIN,31,35,EN,Shilton
+295,2,06:32,MIN,29,35,RO,Tyrone 
+296,2,06:36,MIN,29,35,3_Pts_T,Alex
+297,2,06:48,SPF,29,35,ER,Léo Meindl
+298,2,07:14,MIN,29,35,AS,Alex
+299,2,07:14,MIN,29,35,3_Pts_C,Leandrinho
+300,2,07:16,MIN,26,35,FR,Deodato
+301,2,07:16,SPF,26,35,FC,Léo Meindl
+302,2,07:26,SPF,26,35,LL_Pts_C,Georginho
+303,2,07:26,SPF,26,34,AS,Jefferson
+304,2,07:26,SPF,26,34,LL_Pts_C,Georginho
+305,2,07:26,SPF,26,33,FR,Georginho
+306,2,07:26,MIN,26,33,FC,Leandrinho
+307,2,07:30,MIN,26,33,substituicao_entra,Alex
+308,2,07:30,MIN,26,33,substituicao_entra,Tyrone 
+309,2,07:30,MIN,26,33,substituicao_sai,Jackson Jr
+310,2,07:30,MIN,26,33,substituicao_sai,Black
+311,2,07:30,SPF,26,33,FR,Renan
+312,2,07:30,MIN,26,33,FC,Black
+313,2,07:35,SPF,26,33,RD,Renan
+314,2,07:38,MIN,26,33,2_Pts_T,Leandrinho
+315,2,07:44,MIN,26,33,RD,Deodato
+316,2,07:50,SPF,26,33,3_Pts_T,Georginho
+317,2,08:00,MIN,26,33,AS,Deodato
+318,2,08:00,MIN,26,33,2_Pts_C,Shilton
+319,2,08:04,MIN,24,33,RO,Jackson Jr
+320,2,08:08,MIN,24,33,2_Pts_T,Jackson Jr
+321,2,08:30,SPF,24,33,AS,Léo Meindl
+322,2,08:30,SPF,24,33,3_Pts_C,Renan
+323,2,08:44,SPF,24,30,FR,Renan
+324,2,08:44,MIN,24,30,FC,Jackson Jr
+325,2,08:44,SPF,24,30,RD,São Paulo
+326,2,08:45,MIN,24,30,2_Pts_T,Jackson Jr
+327,2,09:01,SPF,24,30,LL_Pts_C,Léo Meindl
+328,2,09:01,SPF,24,29,LL_Pts_T,Léo Meindl
+329,2,09:01,SPF,24,29,FR,Léo Meindl
+330,2,09:01,MIN,24,29,FC,Black
+331,2,09:19,MIN,24,29,2_Pts_C,Black
+332,2,09:19,MIN,22,29,RO,Black
+333,2,09:24,MIN,22,29,2_Pts_T,Shilton
+334,2,09:44,MIN,22,29,RD,Deodato
+335,2,09:49,SPF,22,29,3_Pts_T,Jefferson
+336,2,10:00,NaN,22,29,inicio_quarto,
+337,1,00:00,NaN,22,29,fim_quarto,
+338,1,00:03,SPF,22,29,3_Pts_C,Shamell
+339,1,00:06,SPF,22,26,RD,Shamell
+340,1,00:13,MIN,22,26,3_Pts_T,Leandrinho
+341,1,00:21,SPF,22,26,2_Pts_C,Jefferson
+342,1,00:39,SPF,22,24,RD,Georginho
+343,1,00:43,MIN,22,24,3_Pts_T,Jackson Jr
+344,1,01:01,SPF,22,24,AS,Georginho
+345,1,01:01,SPF,22,24,LL_Pts_C,Léo Meindl
+346,1,01:01,SPF,22,23,LL_Pts_C,Léo Meindl
+347,1,01:01,SPF,22,22,FR,Léo Meindl
+348,1,01:01,MIN,22,22,FC,Jackson Jr
+349,1,01:09,SPF,22,22,BR,Jefferson
+350,1,01:09,MIN,22,22,ER,Jackson Jr
+351,1,01:20,MIN,22,22,BR,Tyrone 
+352,1,01:20,SPF,22,22,ER,Léo Meindl
+353,1,01:37,MIN,22,22,substituicao_entra,Jackson Jr
+354,1,01:37,MIN,22,22,substituicao_sai,Davi
+355,1,01:37,MIN,22,22,ER,Alex
+356,1,01:48,MIN,22,22,RD,Minas
+357,1,01:52,SPF,22,22,3_Pts_T,Shamell
+358,1,02:17,MIN,22,22,AS,Davi
+359,1,02:17,MIN,22,22,EN,Tyrone 
+360,1,02:20,MIN,20,22,RD,Davi
+361,1,02:23,SPF,20,22,3_Pts_T,Jefferson
+362,1,02:35,SPF,20,22,RD,Jefferson
+363,1,02:39,MIN,20,22,3_Pts_T,Tyrone 
+364,1,02:51,MIN,20,22,RD,Scott
+365,1,02:55,SPF,20,22,3_Pts_T,Georginho
+366,1,03:05,SPF,20,22,RO,Jefferson
+367,1,03:10,SPF,20,22,2_Pts_T,Georginho
+368,1,03:13,MIN,20,22,substituicao_entra,Leandrinho
+369,1,03:13,MIN,20,22,substituicao_sai,Deodato
+370,1,03:33,MIN,20,22,AS,Alex
+371,1,03:33,MIN,20,22,2_Pts_C,Scott
+372,1,03:53,SPF,18,22,2_Pts_C,Shamell
+373,1,04:00,SPF,18,20,RO,São Paulo
+374,1,04:04,SPF,18,20,3_Pts_T,Léo Meindl
+375,1,04:15,SPF,18,20,RD,Jefferson
+376,1,04:19,MIN,18,20,3_Pts_T,Davi
+377,1,04:35,SPF,18,20,3_Pts_C,Shamell
+378,1,04:41,SPF,18,17,RD,Shamell
+379,1,04:45,MIN,18,17,3_Pts_T,Deodato
+380,1,05:01,SPF,18,17,LL_Pts_C,Léo Meindl
+381,1,05:01,SPF,18,16,FR,Léo Meindl
+382,1,05:01,MIN,18,16,FC,Scott
+383,1,05:01,SPF,18,16,2_Pts_C,Léo Meindl
+384,1,05:16,MIN,18,14,LL_Pts_C,Alex
+385,1,05:16,MIN,17,14,FR,Alex
+386,1,05:16,SPF,17,14,FC,Renan
+387,1,05:16,MIN,17,14,2_Pts_C,Alex
+388,1,05:26,MIN,15,14,RD,Deodato
+389,1,05:29,SPF,15,14,2_Pts_T,Jefferson
+390,1,05:41,MIN,15,14,ER,Tyrone 
+391,1,05:53,SPF,15,14,AS,Georginho
+392,1,05:53,SPF,15,14,3_Pts_C,Léo Meindl
+393,1,06:07,SPF,15,11,RD,Renan
+394,1,06:12,MIN,15,11,3_Pts_T,Davi
+395,1,06:31,SPF,15,11,AS,Georginho
+396,1,06:31,SPF,15,11,2_Pts_C,Jefferson
+397,1,06:39,MIN,15,9,AS,Deodato
+398,1,06:39,MIN,15,9,2_Pts_C,Alex
+399,1,06:56,SPF,13,9,AS,Georginho
+400,1,06:56,SPF,13,9,3_Pts_C,Renan
+401,1,07:07,MIN,13,6,EN,Scott
+402,1,07:07,MIN,11,6,RO,Scott
+403,1,07:14,MIN,11,6,3_Pts_T,Alex
+404,1,07:39,MIN,11,6,RD,Scott
+405,1,07:42,SPF,11,6,2_Pts_T,Georginho
+406,1,07:51,SPF,11,6,FR,Georginho
+407,1,07:51,MIN,11,6,FC,Davi
+408,1,08:13,MIN,11,6,AS,Davi
+409,1,08:13,MIN,11,6,3_Pts_C,Alex
+410,1,08:13,MIN,8,6,RO,Davi
+411,1,08:13,MIN,8,6,2_Pts_T,Scott
+412,1,08:13,MIN,8,6,BR,Scott
+413,1,08:13,SPF,8,6,ER,Léo Meindl
+414,1,08:13,MIN,8,6,LL_Pts_C,Tyrone 
+415,1,08:13,MIN,7,6,FR,Tyrone 
+416,1,08:13,SPF,7,6,FC,Renan
+417,1,08:13,MIN,7,6,AS,Scott
+418,1,08:13,MIN,7,6,2_Pts_C,Tyrone 
+419,1,08:30,SPF,5,6,AS,Georginho
+420,1,08:30,SPF,5,6,2_Pts_C,Renan
+421,1,08:45,MIN,5,4,LL_Pts_C,Scott
+422,1,08:45,MIN,4,4,LL_Pts_C,Scott
+423,1,08:45,MIN,3,4,FR,Scott
+424,1,08:45,SPF,3,4,FC,Jefferson
+425,1,08:58,SPF,3,4,AS,Georginho
+426,1,08:58,SPF,3,4,2_Pts_C,Jefferson
+427,1,09:11,MIN,3,2,3_Pts_C,Deodato
+428,1,09:38,SPF,0,2,2_Pts_C,Léo Meindl
+429,1,09:47,SPF,0,0,RD,Georginho
+430,1,09:52,MIN,0,0,2_Pts_T,Tyrone 
+431,1,10:00,SPF,0,0,substituicao_entra,Renan
+432,1,10:00,SPF,0,0,substituicao_entra,Léo Meindl
+433,1,10:00,SPF,0,0,substituicao_entra,Georginho
+434,1,10:00,SPF,0,0,substituicao_entra,Jefferson
+435,1,10:00,SPF,0,0,substituicao_entra,Shamell
+436,1,10:00,MIN,0,0,substituicao_entra,Scott
+437,1,10:00,MIN,0,0,substituicao_entra,Alex
+438,1,10:00,MIN,0,0,substituicao_entra,Davi
+439,1,10:00,MIN,0,0,substituicao_entra,Deodato
+440,1,10:00,MIN,0,0,substituicao_entra,Tyrone 
+441,1,10:00,NaN,0,0,inicio_partida,

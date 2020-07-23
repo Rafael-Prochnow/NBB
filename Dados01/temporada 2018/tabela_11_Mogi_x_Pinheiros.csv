@@ -1,0 +1,486 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,77,83,fim_partida,
+1,4,00:00,NaN,77,83,fim_quarto, 
+2,4,00:02,PIN,77,83,RD,Bennett
+3,4,00:04,MOG,77,83,3_Pts_T,Shamell
+4,4,00:11,MOG,77,83,RD,Gruber
+5,4,00:15,PIN,77,83,LL_Pts_T,Ruivo
+6,4,00:15,PIN,77,83,LL_Pts_T,Ruivo
+7,4,00:15,PIN,77,83,FR,Ruivo
+8,4,00:15,MOG,77,83,FC,Gruber
+9,4,00:22,PIN,77,83,substituicao_entra,Dawkins
+10,4,00:22,PIN,77,83,substituicao_sai,Ware
+11,4,00:22,PIN,77,83,tempo_tecnico,Pinheiros
+12,4,00:22,PIN,77,83,RD,Pinheiros
+13,4,00:22,MOG,77,83,3_Pts_T,Deodato
+14,4,00:26,MOG,77,83,RO,Batista
+15,4,00:30,MOG,77,83,2_Pts_T,Shamell
+16,4,00:38,MOG,77,83,tempo_tecnico,Mogi
+17,4,00:38,PIN,77,83,LL_Pts_C,Isaac
+18,4,00:38,PIN,77,82,LL_Pts_C,Isaac
+19,4,00:38,PIN,77,81,FR,Isaac
+20,4,00:38,MOG,77,81,FC,Shamell
+21,4,00:41,MOG,77,81,AS,Batista
+22,4,00:41,MOG,77,81,EN,Gruber
+23,4,00:42,MOG,75,81,RO,Batista
+24,4,00:46,MOG,75,81,3_Pts_T,Gruber
+25,4,00:57,MOG,75,81,tempo_tecnico,Mogi
+26,4,00:57,PIN,75,81,LL_Pts_C,Renato
+27,4,00:57,PIN,75,80,LL_Pts_C,Renato
+28,4,00:57,PIN,75,79,FR,Renato
+29,4,00:57,MOG,75,79,FC,Batista
+30,4,01:08,PIN,75,79,RD,Renato
+31,4,01:12,MOG,75,79,2_Pts_T,Deodato
+32,4,01:20,MOG,75,79,RD,Deodato
+33,4,01:24,PIN,75,79,2_Pts_T,Ware
+34,4,01:33,PIN,75,79,RO,Bennett
+35,4,01:37,PIN,75,79,3_Pts_T,Ruivo
+36,4,01:48,PIN,75,79,RO,Renato
+37,4,01:52,PIN,75,79,2_Pts_T,Bennett
+38,4,02:08,MOG,75,79,LL_Pts_C,Gruber
+39,4,02:08,MOG,74,79,AS,Arthur Pecos
+40,4,02:08,MOG,74,79,LL_Pts_C,Gruber
+41,4,02:08,MOG,73,79,FR,Gruber
+42,4,02:08,PIN,73,79,FC,Ware
+43,4,02:12,MOG,73,79,RD,Arthur Pecos
+44,4,02:15,PIN,73,79,2_Pts_T,Ware
+45,4,02:33,PIN,73,79,RD,Bennett
+46,4,02:36,MOG,73,79,3_Pts_T,Gruber
+47,4,02:52,PIN,73,79,substituicao_entra,Renato
+48,4,02:52,PIN,73,79,substituicao_sai,Toledo
+49,4,02:52,MOG,73,79,RO,Mogi
+50,4,02:52,PIN,73,79,TO,Toledo
+51,4,02:52,MOG,73,79,2_Pts_T,Arthur Pecos
+52,4,03:11,PIN,73,79,AS,Bennett
+53,4,03:11,PIN,73,79,2_Pts_C,Ware
+54,4,03:21,MOG,73,77,2_Pts_C,Shamell
+55,4,03:25,MOG,71,77,substituicao_entra,Deodato
+56,4,03:25,MOG,71,77,substituicao_sai,Lessa
+57,4,03:25,MOG,71,77,RD,Mogi
+58,4,03:27,PIN,71,77,LL_Pts_T,Toledo
+59,4,03:27,PIN,71,77,LL_Pts_T,Toledo
+60,4,03:27,PIN,71,77,FR,Toledo
+61,4,03:27,MOG,71,77,FC,Batista
+62,4,03:41,PIN,71,77,FR,Ruivo
+63,4,03:41,MOG,71,77,FC,Arthur Pecos
+64,4,03:44,MOG,71,77,ER,Arthur Pecos
+65,4,03:44,MOG,71,77,RD,Lessa
+66,4,03:49,MOG,71,77,TO,Batista
+67,4,03:49,PIN,71,77,2_Pts_T,Ruivo
+68,4,04:11,MOG,71,77,ER,Shamell
+69,4,04:17,PIN,71,77,substituicao_entra,Ware
+70,4,04:17,PIN,71,77,substituicao_sai,Renato
+71,4,04:17,MOG,71,77,FR,Batista
+72,4,04:17,PIN,71,77,FC,Bennett
+73,4,04:28,MOG,71,77,RD,Shamell
+74,4,04:31,PIN,71,77,3_Pts_T,Toledo
+75,4,04:59,MOG,71,77,AS,Arthur Pecos
+76,4,04:59,MOG,71,77,2_Pts_C,Batista
+77,4,05:10,MOG,69,77,RD,Batista
+78,4,05:14,PIN,69,77,2_Pts_T,Ruivo
+79,4,05:42,PIN,69,77,substituicao_entra,Ruivo
+80,4,05:42,PIN,69,77,substituicao_sai,Dawkins
+81,4,05:42,PIN,69,77,tempo_tecnico,Pinheiros
+82,4,05:42,MOG,69,77,AS,Arthur Pecos
+83,4,05:42,MOG,69,77,3_Pts_C,Lessa
+84,4,05:59,MOG,66,77,RD,Mogi
+85,4,05:59,PIN,66,77,3_Pts_T,Dawkins
+86,4,06:14,MOG,66,77,,
+87,4,06:23,MOG,66,77,RD,Mogi
+88,4,06:24,PIN,66,77,2_Pts_T,Renato
+89,4,06:36,PIN,66,77,FR,Toledo
+90,4,06:36,MOG,66,77,FC,Shamell
+91,4,06:42,PIN,66,77,substituicao_entra,Isaac
+92,4,06:42,PIN,66,77,substituicao_sai,Gabriel
+93,4,07:01,MOG,66,77,AS,Shamell
+94,4,07:01,MOG,66,77,3_Pts_C,Gruber
+95,4,07:10,MOG,63,77,RD,Mogi
+96,4,07:17,PIN,63,77,2_Pts_T,Dawkins
+97,4,07:19,PIN,63,77,substituicao_entra,Toledo
+98,4,07:19,PIN,63,77,substituicao_sai,Ware
+99,4,07:19,MOG,63,77,substituicao_entra,Lessa
+100,4,07:19,MOG,63,77,substituicao_sai,Deodato
+101,4,07:19,PIN,63,77,RO,Pinheiros
+102,4,07:19,MOG,63,77,TO,Gruber
+103,4,07:19,PIN,63,77,2_Pts_T,Gabriel
+104,4,07:36,PIN,63,77,RD,Ware
+105,4,07:40,MOG,63,77,3_Pts_T,Deodato
+106,4,07:55,MOG,63,77,FR,Shamell
+107,4,07:55,PIN,63,77,FC,Ware
+108,4,07:56,MOG,63,77,RD,Deodato
+109,4,08:00,PIN,63,77,3_Pts_T,Gabriel
+110,4,08:13,PIN,63,77,LL_Pts_C,Dawkins
+111,4,08:13,MOG,63,76,FC_T,Deodato
+112,4,08:32,MOG,63,76,2_Pts_C,Batista
+113,4,08:51,MOG,61,76,substituicao_entra,Batista
+114,4,08:51,MOG,61,76,substituicao_sai,João Pedro
+115,4,08:51,MOG,61,76,tempo_tecnico,Mogi
+116,4,08:52,PIN,61,76,3_Pts_C,Ware
+117,4,09:09,PIN,61,73,RD,Gabriel
+118,4,09:13,MOG,61,73,LL_Pts_T,João Pedro
+119,4,09:13,MOG,61,73,LL_Pts_T,João Pedro
+120,4,09:13,MOG,61,73,FR,João Pedro
+121,4,09:13,PIN,61,73,FC,Dawkins
+122,4,09:26,PIN,61,73,2_Pts_C,Ware
+123,4,09:41,PIN,61,71,FR,Renato
+124,4,09:41,MOG,61,71,FC,Gruber
+125,4,09:41,PIN,61,71,RD,Pinheiros
+126,4,09:41,MOG,61,71,2_Pts_T,Deodato
+127,4,10:00,NaN,61,71,inicio_quarto,
+128,3,00:00,NaN,61,71,fim_quarto,
+129,3,00:01,PIN,61,71,RD,Toledo
+130,3,00:01,MOG,61,71,3_Pts_T,Lessa
+131,3,00:18,PIN,61,71,3_Pts_C,Dawkins
+132,3,00:19,PIN,61,68,RO,Pinheiros
+133,3,00:19,MOG,61,68,TO,João Pedro
+134,3,00:19,PIN,61,68,2_Pts_T,Ware
+135,3,00:38,PIN,61,68,RD,Toledo
+136,3,00:43,MOG,61,68,3_Pts_T,Deodato
+137,3,00:55,MOG,61,68,FR,Lessa
+138,3,00:55,PIN,61,68,FC,Gabriel
+139,3,01:06,PIN,61,68,LL_Pts_C,Bennett
+140,3,01:06,PIN,61,67,LL_Pts_C,Bennett
+141,3,01:06,PIN,61,66,FR,Bennett
+142,3,01:06,MOG,61,66,FC,João Pedro
+143,3,01:26,MOG,61,66,substituicao_entra,Deodato
+144,3,01:26,MOG,61,66,substituicao_sai,Shamell
+145,3,01:26,MOG,61,66,ER,João Pedro
+146,3,01:30,MOG,61,66,BR,Lessa
+147,3,01:30,PIN,61,66,ER,Toledo
+148,3,01:41,MOG,61,66,substituicao_entra,João Pedro
+149,3,01:41,MOG,61,66,substituicao_sai,Batista
+150,3,01:41,MOG,61,66,LL_Pts_C,Batista
+151,3,01:41,MOG,60,66,LL_Pts_C,Batista
+152,3,01:41,MOG,59,66,FR,Batista
+153,3,01:41,PIN,59,66,FC,Toledo
+154,3,01:41,MOG,59,66,RO,Batista
+155,3,01:43,MOG,59,66,3_Pts_T,Arthur Pecos
+156,3,02:04,PIN,59,66,AS,Gabriel
+157,3,02:04,PIN,59,66,2_Pts_C,Toledo
+158,3,02:26,PIN,59,64,RD,Toledo
+159,3,02:28,MOG,59,64,LL_Pts_T,Arthur Pecos
+160,3,02:28,MOG,59,64,LL_Pts_C,Arthur Pecos
+161,3,02:28,PIN,58,64,substituicao_entra,Ware
+162,3,02:28,PIN,58,64,substituicao_sai,Renato
+163,3,02:28,PIN,58,64,substituicao_entra,Bennett
+164,3,02:28,PIN,58,64,substituicao_sai,Ruivo
+165,3,02:28,MOG,58,64,substituicao_entra,Lessa
+166,3,02:28,MOG,58,64,substituicao_sai,Deodato
+167,3,02:28,MOG,58,64,substituicao_entra,José Carlos
+168,3,02:28,MOG,58,64,substituicao_sai,Gruber
+169,3,02:28,MOG,58,64,FR,Arthur Pecos
+170,3,02:28,PIN,58,64,FC,Toledo
+171,3,02:41,PIN,58,64,2_Pts_C,Ruivo
+172,3,03:04,MOG,58,62,ER,Deodato
+173,3,03:09,MOG,58,62,BR,Arthur Pecos
+174,3,03:09,PIN,58,62,ER,Ruivo
+175,3,03:26,MOG,58,62,AS,Arthur Pecos
+176,3,03:26,MOG,58,62,2_Pts_C,Batista
+177,3,03:41,PIN,56,62,LL_Pts_C,Toledo
+178,3,03:41,PIN,56,61,AS,Ruivo
+179,3,03:41,PIN,56,61,LL_Pts_C,Toledo
+180,3,03:41,PIN,56,60,FR,Toledo
+181,3,03:41,MOG,56,60,FC,Gruber
+182,3,03:56,PIN,56,60,RD,Pinheiros
+183,3,03:56,MOG,56,60,3_Pts_T,Shamell
+184,3,03:57,MOG,56,60,RD,Arthur Pecos
+185,3,04:01,PIN,56,60,3_Pts_T,Renato
+186,3,04:22,PIN,56,60,substituicao_entra,Gabriel
+187,3,04:22,PIN,56,60,substituicao_sai,Isaac
+188,3,04:22,PIN,56,60,substituicao_entra,Dawkins
+189,3,04:22,PIN,56,60,substituicao_sai,Bennett
+190,3,04:22,MOG,56,60,2_Pts_C,Shamell
+191,3,04:28,MOG,54,60,RD,Arthur Pecos
+192,3,04:32,PIN,54,60,3_Pts_T,Isaac
+193,3,04:38,PIN,54,60,RD,Toledo
+194,3,04:45,MOG,54,60,2_Pts_T,Batista
+195,3,04:57,PIN,54,60,AS,Renato
+196,3,04:57,PIN,54,60,3_Pts_C,Ruivo
+197,3,05:18,PIN,54,57,BR,Isaac
+198,3,05:18,MOG,54,57,ER,Shamell
+199,3,05:22,MOG,54,57,RO,Shamell
+200,3,05:25,MOG,54,57,2_Pts_T,Batista
+201,3,05:49,PIN,54,57,2_Pts_C,Bennett
+202,3,05:52,PIN,54,55,RD,Toledo
+203,3,06:01,MOG,54,55,3_Pts_T,Deodato
+204,3,06:16,MOG,54,55,RD,Mogi
+205,3,06:18,PIN,54,55,2_Pts_T,Toledo
+206,3,06:38,MOG,54,55,AS,Arthur Pecos
+207,3,06:38,MOG,54,55,3_Pts_C,Gruber
+208,3,06:52,PIN,51,55,LL_Pts_C,Bennett
+209,3,06:52,PIN,51,54,FR,Bennett
+210,3,06:52,MOG,51,54,FC,Gruber
+211,3,06:52,PIN,51,54,2_Pts_C,Bennett
+212,3,07:12,MOG,51,52,AS,Arthur Pecos
+213,3,07:12,MOG,51,52,EN,Deodato
+214,3,07:16,PIN,49,52,2_Pts_C,Bennett
+215,3,07:17,PIN,49,50,RO,Bennett
+216,3,07:23,MOG,49,50,TO,Batista
+217,3,07:23,PIN,49,50,2_Pts_T,Renato
+218,3,07:44,PIN,49,50,RD,Toledo
+219,3,07:48,MOG,49,50,2_Pts_T,Batista
+220,3,08:13,PIN,49,50,AS,Bennett
+221,3,08:13,PIN,49,50,3_Pts_C,Renato
+222,3,08:24,PIN,49,47,RD,Renato
+223,3,08:29,MOG,49,47,2_Pts_T,Batista
+224,3,08:42,PIN,49,47,3_Pts_C,Bennett
+225,3,09:04,MOG,49,44,AS,Arthur Pecos
+226,3,09:04,MOG,49,44,2_Pts_C,Batista
+227,3,09:19,MOG,47,44,RD,Batista
+228,3,09:22,PIN,47,44,3_Pts_T,Ruivo
+229,3,09:41,MOG,47,44,3_Pts_C,Shamell
+230,3,09:43,MOG,44,44,RD,Shamell
+231,3,09:48,MOG,44,44,TO,Gruber
+232,3,09:48,PIN,44,44,2_Pts_T,Toledo
+233,3,10:00,NaN,44,44,inicio_quarto,
+234,2,00:00,NaN,44,44,fim_quarto,
+235,2,00:03,PIN,44,44,RD,Toledo
+236,2,00:03,MOG,44,44,2_Pts_T,Cafferata
+237,2,00:20,PIN,44,44,3_Pts_C,Isaac
+238,2,00:33,MOG,44,41,substituicao_entra,Lessa
+239,2,00:33,MOG,44,41,substituicao_sai,Arthur Pecos
+240,2,00:33,PIN,44,41,tempo_tecnico,Pinheiros
+241,2,00:33,MOG,44,41,AS,Arthur Pecos
+242,2,00:33,MOG,44,41,2_Pts_C,Gruber
+243,2,00:49,PIN,42,41,2_Pts_C,Dawkins
+244,2,01:15,MOG,42,39,LL_Pts_C,Gruber
+245,2,01:15,PIN,41,39,substituicao_entra,Toledo
+246,2,01:15,PIN,41,39,substituicao_sai,Betinho
+247,2,01:15,MOG,41,39,substituicao_entra,João Pedro
+248,2,01:15,MOG,41,39,substituicao_sai,Batista
+249,2,01:15,MOG,41,39,FR,Gruber
+250,2,01:15,PIN,41,39,FC,Bennett
+251,2,01:15,MOG,41,39,2_Pts_C,Gruber
+252,2,01:15,MOG,39,39,RO,Gruber
+253,2,01:18,MOG,39,39,3_Pts_T,Cafferata
+254,2,01:36,PIN,39,39,2_Pts_C,Isaac
+255,2,02:07,MOG,39,37,AS,Gruber
+256,2,02:07,MOG,39,37,2_Pts_C,Shamell
+257,2,02:17,PIN,37,37,LL_Pts_C,Dawkins
+258,2,02:17,PIN,37,36,LL_Pts_C,Dawkins
+259,2,02:17,MOG,37,35,substituicao_entra,Cafferata
+260,2,02:17,MOG,37,35,substituicao_sai,Lucas
+261,2,02:17,PIN,37,35,FR,Dawkins
+262,2,02:17,MOG,37,35,FC,Lucas
+263,2,02:23,MOG,37,35,2_Pts_C,Shamell
+264,2,02:23,MOG,35,35,RO,Shamell
+265,2,02:30,MOG,35,35,2_Pts_T,Shamell
+266,2,02:52,PIN,35,35,AS,Bennett
+267,2,02:52,PIN,35,35,2_Pts_C,Isaac
+268,2,02:59,MOG,35,33,AS,Lucas
+269,2,02:59,MOG,35,33,LL_Pts_C,Shamell
+270,2,02:59,MOG,34,33,LL_Pts_T,Shamell
+271,2,02:59,MOG,34,33,substituicao_entra,Arthur Pecos
+272,2,02:59,MOG,34,33,substituicao_sai,Lessa
+273,2,02:59,MOG,34,33,FR,Shamell
+274,2,02:59,PIN,34,33,FC,Betinho
+275,2,03:14,PIN,34,33,2_Pts_C,Bennett
+276,2,03:23,MOG,34,31,substituicao_entra,Shamell
+277,2,03:23,MOG,34,31,substituicao_sai,Deodato
+278,2,03:23,MOG,34,31,substituicao_entra,Batista
+279,2,03:23,MOG,34,31,substituicao_sai,José Carlos
+280,2,03:23,MOG,34,31,ER,
+281,2,03:23,PIN,34,31,RD,Pinheiros
+282,2,03:23,MOG,34,31,2_Pts_T,Gruber
+283,2,03:50,MOG,34,31,RD,Mogi
+284,2,03:50,PIN,34,31,3_Pts_T,Betinho
+285,2,03:58,PIN,34,31,substituicao_entra,Renato
+286,2,03:58,PIN,34,31,substituicao_sai,Toledo
+287,2,04:08,MOG,34,31,AS,Deodato
+288,2,04:08,MOG,34,31,2_Pts_C,Gruber
+289,2,04:25,PIN,32,31,LL_Pts_C,Bennett
+290,2,04:25,PIN,32,30,LL_Pts_C,Bennett
+291,2,04:25,PIN,32,29,FR,Bennett
+292,2,04:25,MOG,32,29,FC,Lessa
+293,2,04:40,MOG,32,29,2_Pts_C,Lessa
+294,2,04:44,MOG,30,29,RO,Lessa
+295,2,04:47,MOG,30,29,LL_Pts_T,Deodato
+296,2,04:47,MOG,30,29,AS,Lucas
+297,2,04:47,MOG,30,29,LL_Pts_C,Deodato
+298,2,04:47,MOG,29,29,FR,Deodato
+299,2,04:47,PIN,29,29,FC,Isaac
+300,2,04:53,PIN,29,29,substituicao_entra,Dawkins
+301,2,04:53,PIN,29,29,substituicao_sai,Ruivo
+302,2,04:53,MOG,29,29,RD,Deodato
+303,2,04:57,PIN,29,29,2_Pts_T,Toledo
+304,2,05:17,MOG,29,29,2_Pts_C,Deodato
+305,2,05:32,PIN,27,29,2_Pts_C,Toledo
+306,2,05:49,PIN,27,27,FR,Ruivo
+307,2,05:49,MOG,27,27,FC,Lucas
+308,2,05:50,PIN,27,27,RD,Isaac
+309,2,05:54,MOG,27,27,2_Pts_T,Lucas
+310,2,05:58,MOG,27,27,LL_Pts_C,Gruber
+311,2,05:58,PIN,26,27,FC_T,Betinho
+312,2,05:58,PIN,26,27,,
+313,2,06:06,MOG,26,27,substituicao_entra,Lucas
+314,2,06:06,MOG,26,27,substituicao_sai,Cafferata
+315,2,06:06,PIN,26,27,FR,Toledo
+316,2,06:06,MOG,26,27,FC,Lessa
+317,2,06:06,PIN,26,27,RO,Toledo
+318,2,06:07,PIN,26,27,2_Pts_T,Ruivo
+319,2,06:22,PIN,26,27,RD,Toledo
+320,2,06:27,MOG,26,27,2_Pts_T,Cafferata
+321,2,06:34,MOG,26,27,RO,Deodato
+322,2,06:40,MOG,26,27,3_Pts_T,Gruber
+323,2,06:55,PIN,26,27,substituicao_entra,Bennett
+324,2,06:55,PIN,26,27,substituicao_sai,Ware
+325,2,06:55,PIN,26,27,substituicao_entra,Toledo
+326,2,06:55,PIN,26,27,substituicao_sai,Renato
+327,2,06:55,PIN,26,27,substituicao_entra,Isaac
+328,2,06:55,PIN,26,27,substituicao_sai,Gabriel
+329,2,06:55,MOG,26,27,substituicao_entra,Lessa
+330,2,06:55,MOG,26,27,substituicao_sai,Shamell
+331,2,06:55,MOG,26,27,substituicao_entra,Gruber
+332,2,06:55,MOG,26,27,substituicao_sai,Batista
+333,2,06:55,MOG,26,27,FR,José Carlos
+334,2,06:55,PIN,26,27,ER,Ware
+335,2,06:55,PIN,26,27,FC_O,Ware
+336,2,07:13,MOG,26,27,AS,Batista
+337,2,07:13,MOG,26,27,2_Pts_C,José Carlos
+338,2,07:23,MOG,24,27,RD,José Carlos
+339,2,07:27,PIN,24,27,3_Pts_T,Gabriel
+340,2,07:34,PIN,24,27,RO,Renato
+341,2,07:38,PIN,24,27,3_Pts_T,Betinho
+342,2,07:49,PIN,24,27,RD,Ruivo
+343,2,07:55,PIN,24,27,TO,Betinho
+344,2,07:55,MOG,24,27,3_Pts_T,Deodato
+345,2,08:11,PIN,24,27,3_Pts_C,Ruivo
+346,2,08:17,PIN,24,24,RD,Betinho
+347,2,08:20,MOG,24,24,3_Pts_T,Deodato
+348,2,08:43,PIN,24,24,LL_Pts_C,Ruivo
+349,2,08:43,PIN,24,23,LL_Pts_C,Ruivo
+350,2,08:43,PIN,24,22,FR,Ruivo
+351,2,08:43,MOG,24,22,FC,Cafferata
+352,2,08:58,MOG,24,22,2_Pts_C,Batista
+353,2,08:58,MOG,22,22,RO,Batista
+354,2,09:06,MOG,22,22,2_Pts_T,Deodato
+355,2,09:12,MOG,22,22,BR,Deodato
+356,2,09:12,PIN,22,22,ER,Betinho
+357,2,09:23,MOG,22,22,AS,Cafferata
+358,2,09:23,MOG,22,22,2_Pts_C,Batista
+359,2,09:38,MOG,20,22,RD,José Carlos
+360,2,09:41,PIN,20,22,LL_Pts_T,Ware
+361,2,09:41,PIN,20,22,LL_Pts_C,Ware
+362,2,09:41,PIN,20,21,FR,Ware
+363,2,09:41,MOG,20,21,FC,José Carlos
+364,2,10:00,NaN,20,21,inicio_quarto,
+365,1,00:00,NaN,20,21,fim_quarto,
+366,1,00:03,PIN,20,21,RD,Renato
+367,1,00:04,MOG,20,21,2_Pts_T,Cafferata
+368,1,00:22,PIN,20,21,2_Pts_C,Betinho
+369,1,00:39,PIN,20,19,RD,Ruivo
+370,1,00:44,MOG,20,19,3_Pts_T,José Carlos
+371,1,01:06,PIN,20,19,substituicao_entra,Ruivo
+372,1,01:06,PIN,20,19,substituicao_sai,Bennett
+373,1,01:06,MOG,20,19,substituicao_entra,José Carlos
+374,1,01:06,MOG,20,19,substituicao_sai,Gruber
+375,1,01:06,MOG,20,19,tempo_tecnico,Mogi
+376,1,01:45,PIN,20,19,AS,Betinho
+377,1,01:45,PIN,20,19,3_Pts_C,Renato
+378,1,01:55,MOG,20,16,AS,Batista
+379,1,01:55,MOG,20,16,2_Pts_C,Gruber
+380,1,01:55,PIN,18,16,AS,Betinho
+381,1,01:55,PIN,18,16,3_Pts_C,Gabriel
+382,1,01:55,PIN,18,13,FR,Bennett
+383,1,01:55,MOG,18,13,FC,Cafferata
+384,1,02:05,PIN,18,13,substituicao_entra,Gabriel
+385,1,02:05,PIN,18,13,substituicao_sai,Isaac
+386,1,02:05,MOG,18,13,substituicao_entra,Cafferata
+387,1,02:05,MOG,18,13,substituicao_sai,Arthur Pecos
+388,1,02:05,PIN,18,13,FR,Bennett
+389,1,02:05,MOG,18,13,FC,Arthur Pecos
+390,1,02:05,PIN,18,13,RO,Bennett
+391,1,02:08,PIN,18,13,3_Pts_T,Isaac
+392,1,02:31,MOG,18,13,LL_Pts_C,Batista
+393,1,02:31,MOG,17,13,AS,Deodato
+394,1,02:31,MOG,17,13,LL_Pts_C,Batista
+395,1,02:31,MOG,16,13,FR,Batista
+396,1,02:31,PIN,16,13,FC,Ware
+397,1,02:42,PIN,16,13,AS,Renato
+398,1,02:42,PIN,16,13,3_Pts_C,Isaac
+399,1,03:07,MOG,16,10,AS,Gruber
+400,1,03:07,MOG,16,10,2_Pts_C,Batista
+401,1,03:22,PIN,14,10,LL_Pts_C,Bennett
+402,1,03:22,PIN,14,9,substituicao_entra,Ware
+403,1,03:22,PIN,14,9,substituicao_sai,Toledo
+404,1,03:22,PIN,14,9,FR,Bennett
+405,1,03:22,MOG,14,9,FC,Arthur Pecos
+406,1,03:22,PIN,14,9,2_Pts_C,Bennett
+407,1,03:25,PIN,14,7,RO,Bennett
+408,1,03:29,PIN,14,7,3_Pts_T,Isaac
+409,1,03:42,PIN,14,7,RD,Isaac
+410,1,03:45,MOG,14,7,2_Pts_T,Arthur Pecos
+411,1,03:47,MOG,14,7,RO,Mogi
+412,1,03:49,MOG,14,7,3_Pts_T,Shamell
+413,1,03:54,MOG,14,7,RD,Arthur Pecos
+414,1,03:59,PIN,14,7,2_Pts_T,Toledo
+415,1,04:09,PIN,14,7,BR,Bennett
+416,1,04:09,MOG,14,7,ER,Deodato
+417,1,04:11,PIN,14,7,substituicao_entra,Betinho
+418,1,04:11,PIN,14,7,substituicao_sai,Dawkins
+419,1,04:19,MOG,14,7,RD,Batista
+420,1,04:25,PIN,14,7,2_Pts_T,Bennett
+421,1,04:45,PIN,14,7,FR,Dawkins
+422,1,04:45,MOG,14,7,FC,Deodato
+423,1,04:50,MOG,14,7,LL_Pts_C,Batista
+424,1,04:50,MOG,13,7,AS,Shamell
+425,1,04:50,MOG,13,7,LL_Pts_C,Batista
+426,1,04:50,MOG,12,7,FR,Batista
+427,1,04:50,PIN,12,7,FC,Renato
+428,1,05:12,MOG,12,7,FR,Gruber
+429,1,05:12,PIN,12,7,FC,Isaac
+430,1,05:15,MOG,12,7,RO,Arthur Pecos
+431,1,05:15,MOG,12,7,3_Pts_T,Shamell
+432,1,05:23,MOG,12,7,RD,Batista
+433,1,05:26,PIN,12,7,3_Pts_T,Dawkins
+434,1,05:29,PIN,12,7,RO,Renato
+435,1,05:32,PIN,12,7,3_Pts_T,Isaac
+436,1,05:43,PIN,12,7,RO,Dawkins
+437,1,05:47,PIN,12,7,3_Pts_T,Dawkins
+438,1,06:06,MOG,12,7,LL_Pts_C,Deodato
+439,1,06:06,MOG,11,7,LL_Pts_C,Deodato
+440,1,06:06,MOG,10,7,LL_Pts_C,Deodato
+441,1,06:06,MOG,9,7,FR,Deodato
+442,1,06:06,PIN,9,7,FC,Bennett
+443,1,06:21,MOG,9,7,BR,Deodato
+444,1,06:21,PIN,9,7,ER,Renato
+445,1,06:30,PIN,9,7,RD,Renato
+446,1,06:34,PIN,9,7,TO,Renato
+447,1,06:34,MOG,9,7,2_Pts_T,Gruber
+448,1,06:41,PIN,9,7,2_Pts_C,Bennett
+449,1,06:52,MOG,9,5,2_Pts_C,Deodato
+450,1,07:04,MOG,7,5,RD,Mogi
+451,1,07:06,PIN,7,5,2_Pts_T,Isaac
+452,1,07:27,MOG,7,5,2_Pts_C,Batista
+453,1,07:35,PIN,5,5,AS,Dawkins
+454,1,07:35,PIN,5,5,2_Pts_C,Toledo
+455,1,07:40,PIN,5,3,BR,Dawkins
+456,1,07:40,MOG,5,3,ER,Shamell
+457,1,07:40,MOG,5,3,RD,Shamell
+458,1,07:48,MOG,5,3,TO,Gruber
+459,1,07:48,PIN,5,3,2_Pts_T,Toledo
+460,1,08:16,MOG,5,3,AS,Shamell
+461,1,08:16,MOG,5,3,3_Pts_C,Gruber
+462,1,08:23,MOG,2,3,RD,Deodato
+463,1,08:26,PIN,2,3,3_Pts_T,Renato
+464,1,08:38,PIN,2,3,RD,Renato
+465,1,08:41,MOG,2,3,3_Pts_T,Deodato
+466,1,08:52,MOG,2,3,RO,Batista
+467,1,08:57,MOG,2,3,3_Pts_T,Arthur Pecos
+468,1,09:11,PIN,2,3,AS,Bennett
+469,1,09:11,PIN,2,3,3_Pts_C,Isaac
+470,1,09:16,PIN,2,0,RO,Pinheiros
+471,1,09:17,PIN,2,0,2_Pts_T,Renato
+472,1,09:40,MOG,2,0,AS,Gruber
+473,1,09:40,MOG,2,0,2_Pts_C,Deodato
+474,1,10:00,PIN,0,0,substituicao_entra,Renato
+475,1,10:00,PIN,0,0,substituicao_entra,Dawkins
+476,1,10:00,PIN,0,0,substituicao_entra,Toledo
+477,1,10:00,PIN,0,0,substituicao_entra,Isaac
+478,1,10:00,PIN,0,0,substituicao_entra,Bennett
+479,1,10:00,MOG,0,0,substituicao_entra,Arthur Pecos
+480,1,10:00,MOG,0,0,substituicao_entra,Gruber
+481,1,10:00,MOG,0,0,substituicao_entra,Batista
+482,1,10:00,MOG,0,0,substituicao_entra,Shamell
+483,1,10:00,MOG,0,0,substituicao_entra,Deodato
+484,1,10:00,NaN,0,0,inicio_partida,

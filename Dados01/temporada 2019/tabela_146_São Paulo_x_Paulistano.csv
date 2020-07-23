@@ -1,0 +1,492 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,75,74,fim_partida,
+1,4,00:00,NaN,75,74,fim_quarto, 
+2,4,00:01,CAP,75,74,AS,Victão
+3,4,00:01,CAP,75,74,3_Pts_C,D  Coleman
+4,4,00:02,CAP,75,71,substituicao_entra,D  Coleman
+5,4,00:02,CAP,75,71,substituicao_sai,Eddy
+6,4,00:02,CAP,75,71,tempo_tecnico,Paulistano
+7,4,00:02,SPF,75,71,LL_Pts_C,Shamell
+8,4,00:02,SPF,74,71,LL_Pts_C,Shamell
+9,4,00:02,SPF,73,71,FR,Shamell
+10,4,00:02,CAP,73,71,FC,Victão
+11,4,00:05,SPF,73,71,RD,Shamell
+12,4,00:05,CAP,73,71,3_Pts_T,Solano
+13,4,00:27,SPF,73,71,2_Pts_C,Léo Meindl
+14,4,00:50,SPF,71,71,tempo_tecnico,São Paulo
+15,4,00:50,CAP,71,71,ER,
+16,4,01:14,CAP,71,71,RD,Eddy
+17,4,01:18,SPF,71,71,3_Pts_T,Renan
+18,4,01:27,SPF,71,71,FR,Shamell
+19,4,01:27,CAP,71,71,FC,Eddy
+20,4,01:29,SPF,71,71,FR,Georginho
+21,4,01:29,CAP,71,71,FC,Eddy
+22,4,01:32,SPF,71,71,RD,Léo Meindl
+23,4,01:36,CAP,71,71,3_Pts_T,Solano
+24,4,01:49,CAP,71,71,RD,Eddy
+25,4,01:53,SPF,71,71,3_Pts_T,Shamell
+26,4,02:04,SPF,71,71,RD,Léo Meindl
+27,4,02:06,CAP,71,71,3_Pts_T,Solano
+28,4,02:11,CAP,71,71,RO,Solano
+29,4,02:13,CAP,71,71,3_Pts_T,Eddy
+30,4,02:17,CAP,71,71,RD,Solano
+31,4,02:21,SPF,71,71,,
+32,4,02:23,SPF,71,71,RO,Léo Meindl
+33,4,02:26,SPF,71,71,3_Pts_T,Georginho
+34,4,02:36,SPF,71,71,RD,Léo Meindl
+35,4,02:41,CAP,71,71,3_Pts_T,Victão
+36,4,02:59,SPF,71,71,AS,Shamell
+37,4,02:59,SPF,71,71,3_Pts_C,Georginho
+38,4,03:20,CAP,68,71,3_Pts_C,Solano
+39,4,03:35,CAP,68,68,FR,Solano
+40,4,03:35,SPF,68,68,ER,Kurtz
+41,4,03:35,SPF,68,68,FC_O,Kurtz
+42,4,03:46,SPF,68,68,RD,Léo Meindl
+43,4,03:49,CAP,68,68,3_Pts_T,Yago
+44,4,04:14,SPF,68,68,AS,Kurtz
+45,4,04:14,SPF,68,68,2_Pts_C,Renan
+46,4,04:25,SPF,66,68,RO,Léo Meindl
+47,4,04:27,SPF,66,68,3_Pts_T,Renan
+48,4,04:45,CAP,66,68,AS,Solano
+49,4,04:45,CAP,66,68,EN,Dikembe
+50,4,05:02,CAP,66,66,substituicao_entra,Eddy
+51,4,05:02,CAP,66,66,substituicao_sai,D  Coleman
+52,4,05:02,CAP,66,66,tempo_tecnico,Paulistano
+53,4,05:02,SPF,66,66,3_Pts_C,Shamell
+54,4,05:22,SPF,63,66,RD,Renan
+55,4,05:25,CAP,63,66,2_Pts_T,D  Coleman
+56,4,05:49,SPF,63,66,AS,Georginho
+57,4,05:49,SPF,63,66,EN,Kurtz
+58,4,06:04,CAP,61,66,ER,
+59,4,06:06,CAP,61,66,RO,Dikembe
+60,4,06:11,SPF,61,66,TO,Renan
+61,4,06:11,CAP,61,66,2_Pts_T,Solano
+62,4,06:22,CAP,61,66,FR,Solano
+63,4,06:22,SPF,61,66,FC,Léo Meindl
+64,4,06:30,SPF,61,66,LL_Pts_C,Shamell
+65,4,06:30,SPF,60,66,FR,Shamell
+66,4,06:30,CAP,60,66,FC,D  Coleman
+67,4,06:30,SPF,60,66,2_Pts_C,Shamell
+68,4,06:47,CAP,58,66,LL_Pts_C,Yago
+69,4,06:47,CAP,58,65,FR,Yago
+70,4,06:47,SPF,58,65,FC,Georginho
+71,4,06:47,CAP,58,65,2_Pts_C,Yago
+72,4,06:55,CAP,58,63,substituicao_entra,D  Coleman
+73,4,06:55,CAP,58,63,substituicao_sai,Eddy
+74,4,06:55,CAP,58,63,FR,Yago
+75,4,06:55,SPF,58,63,FC,Georginho
+76,4,07:13,SPF,58,63,AS,Shamell
+77,4,07:13,SPF,58,63,2_Pts_C,Léo Meindl
+78,4,07:28,SPF,56,63,RD,Shamell
+79,4,07:31,CAP,56,63,3_Pts_T,Eddy
+80,4,07:55,CAP,56,63,RD,Eddy
+81,4,07:58,SPF,56,63,3_Pts_T,Georginho
+82,4,08:01,SPF,56,63,RO,Léo Meindl
+83,4,08:04,SPF,56,63,3_Pts_T,Shamell
+84,4,08:07,SPF,56,63,RD,Georginho
+85,4,08:11,CAP,56,63,3_Pts_T,Yago
+86,4,08:33,CAP,56,63,RD,Paulistano
+87,4,08:33,SPF,56,63,3_Pts_T,Shamell
+88,4,08:41,SPF,56,63,RD,Kurtz
+89,4,08:44,CAP,56,63,3_Pts_T,Eddy
+90,4,09:08,SPF,56,63,2_Pts_C,Léo Meindl
+91,4,09:27,CAP,54,63,ER,Yago
+92,4,09:32,CAP,54,63,RD,Solano
+93,4,09:32,SPF,54,63,LL_Pts_T,Renan
+94,4,09:32,SPF,54,63,AS,Georginho
+95,4,09:32,SPF,54,63,LL_Pts_C,Renan
+96,4,09:32,CAP,53,63,substituicao_entra,Dikembe
+97,4,09:32,CAP,53,63,substituicao_sai,Maique
+98,4,09:32,SPF,53,63,substituicao_entra,Kurtz
+99,4,09:32,SPF,53,63,substituicao_sai,Jones
+100,4,09:32,SPF,53,63,FR,Renan
+101,4,09:32,CAP,53,63,FC,Yago
+102,4,09:41,SPF,53,63,RD,Shamell
+103,4,09:44,CAP,53,63,2_Pts_T,Maique
+104,4,10:00,NaN,53,63,inicio_quarto,
+105,3,00:00,NaN,53,63,fim_quarto,
+106,3,00:00,CAP,53,63,AS,Yago
+107,3,00:00,CAP,53,63,2_Pts_C,Maique
+108,3,00:02,CAP,53,61,RO,Paulistano
+109,3,00:02,SPF,53,61,TO,Renan
+110,3,00:02,CAP,53,61,2_Pts_T,Yago
+111,3,00:17,CAP,53,61,substituicao_entra,Yago
+112,3,00:17,CAP,53,61,substituicao_sai,Solano
+113,3,00:17,CAP,53,61,FR,Ruivo
+114,3,00:17,SPF,53,61,FC,Georginho
+115,3,00:17,CAP,53,61,RD,Paulistano
+116,3,00:17,SPF,53,61,3_Pts_T,Léo Meindl
+117,3,00:38,CAP,53,61,AS,Solano
+118,3,00:38,CAP,53,61,3_Pts_C,Victão
+119,3,00:52,CAP,53,58,RD,Eddy
+120,3,00:55,SPF,53,58,3_Pts_T,Renan
+121,3,01:09,CAP,53,58,2_Pts_C,Victão
+122,3,01:35,SPF,53,56,AS,Jones
+123,3,01:35,SPF,53,56,3_Pts_C,Georginho
+124,3,01:43,SPF,50,56,RO,São Paulo
+125,3,01:43,SPF,50,56,3_Pts_T,Georginho
+126,3,01:59,SPF,50,56,RD,Shamell
+127,3,02:02,CAP,50,56,3_Pts_T,Solano
+128,3,02:25,SPF,50,56,LL_Pts_C,Renan
+129,3,02:25,CAP,49,56,substituicao_entra,Victão
+130,3,02:25,CAP,49,56,substituicao_sai,D  Coleman
+131,3,02:25,SPF,49,56,FR,Renan
+132,3,02:25,CAP,49,56,FC,D  Coleman
+133,3,02:25,SPF,49,56,AS,Jones
+134,3,02:25,SPF,49,56,EN,Renan
+135,3,02:25,SPF,47,56,RO,Jones
+136,3,02:28,SPF,47,56,3_Pts_T,Shamell
+137,3,02:39,SPF,47,56,FR,Léo Meindl
+138,3,02:39,CAP,47,56,FC,D  Coleman
+139,3,02:39,SPF,47,56,RO,São Paulo
+140,3,02:39,SPF,47,56,3_Pts_T,Renan
+141,3,02:53,CAP,47,56,substituicao_entra,Ruivo
+142,3,02:53,CAP,47,56,substituicao_sai,Yago
+143,3,02:53,CAP,47,56,ER,Solano
+144,3,02:59,CAP,47,56,BR,D  Coleman
+145,3,02:59,SPF,47,56,ER,Léo Meindl
+146,3,03:11,SPF,47,56,RD,Léo Meindl
+147,3,03:14,CAP,47,56,3_Pts_T,Yago
+148,3,03:27,CAP,47,56,FR,Yago
+149,3,03:27,SPF,47,56,FC,Léo Meindl
+150,3,03:40,SPF,47,56,2_Pts_C,Renan
+151,3,04:08,CAP,45,56,AS,Maique
+152,3,04:08,CAP,45,56,3_Pts_C,Eddy
+153,3,04:20,SPF,45,53,ER,Shamell
+154,3,04:34,SPF,45,53,RD,Georginho
+155,3,04:37,CAP,45,53,3_Pts_T,Solano
+156,3,04:40,CAP,45,53,RO,Solano
+157,3,04:44,CAP,45,53,3_Pts_T,Yago
+158,3,04:45,CAP,45,53,RO,Eddy
+159,3,04:49,CAP,45,53,3_Pts_T,D  Coleman
+160,3,04:54,CAP,45,53,FR,D  Coleman
+161,3,04:54,SPF,45,53,FC,Léo Meindl
+162,3,05:10,SPF,45,53,LL_Pts_C,Georginho
+163,3,05:10,SPF,44,53,LL_Pts_C,Georginho
+164,3,05:10,SPF,43,53,FR,Georginho
+165,3,05:10,CAP,43,53,FC,Solano
+166,3,05:16,SPF,43,53,BR,Léo Meindl
+167,3,05:16,CAP,43,53,ER,Solano
+168,3,05:30,SPF,43,53,AS,Renan
+169,3,05:30,SPF,43,53,3_Pts_C,Shamell
+170,3,05:47,CAP,40,53,AS,D  Coleman
+171,3,05:47,CAP,40,53,3_Pts_C,Solano
+172,3,06:01,CAP,40,50,RD,Maique
+173,3,06:01,SPF,40,50,LL_Pts_T,Georginho
+174,3,06:01,SPF,40,50,LL_Pts_C,Georginho
+175,3,06:01,SPF,39,50,FR,Georginho
+176,3,06:01,CAP,39,50,FC,Solano
+177,3,06:11,CAP,39,50,AS,Solano
+178,3,06:11,CAP,39,50,2_Pts_C,Yago
+179,3,06:14,CAP,39,48,RD,Solano
+180,3,06:17,SPF,39,48,2_Pts_T,Léo Meindl
+181,3,06:21,SPF,39,48,RD,Léo Meindl
+182,3,06:24,CAP,39,48,2_Pts_T,Maique
+183,3,06:25,CAP,39,48,RO,Maique
+184,3,06:30,CAP,39,48,2_Pts_T,Maique
+185,3,06:49,SPF,39,48,ER,Jones
+186,3,06:55,SPF,39,48,RD,Jones
+187,3,07:01,CAP,39,48,2_Pts_T,D  Coleman
+188,3,07:19,CAP,39,48,substituicao_entra,Maique
+189,3,07:19,CAP,39,48,substituicao_entra,Eddy
+190,3,07:19,CAP,39,48,substituicao_sai,Dikembe
+191,3,07:19,CAP,39,48,substituicao_sai,Victão
+192,3,07:19,CAP,39,48,tempo_tecnico,Paulistano
+193,3,07:21,SPF,39,48,2_Pts_C,Shamell
+194,3,07:31,SPF,37,48,RD,Renan
+195,3,07:35,CAP,37,48,2_Pts_T,Victão
+196,3,07:57,SPF,37,48,AS,Shamell
+197,3,07:57,SPF,37,48,3_Pts_C,Renan
+198,3,08:08,SPF,34,48,RD,São Paulo
+199,3,08:08,CAP,34,48,2_Pts_T,Dikembe
+200,3,08:28,SPF,34,48,AS,Georginho
+201,3,08:28,SPF,34,48,3_Pts_C,Renan
+202,3,08:42,CAP,31,48,AS,Solano
+203,3,08:42,CAP,31,48,3_Pts_C,D  Coleman
+204,3,09:02,CAP,31,45,RD,Dikembe
+205,3,09:06,SPF,31,45,3_Pts_T,Léo Meindl
+206,3,09:30,SPF,31,45,RD,Shamell
+207,3,09:30,CAP,31,45,LL_Pts_T,Dikembe
+208,3,09:30,CAP,31,45,FR,Dikembe
+209,3,09:30,SPF,31,45,FC,Shamell
+210,3,09:30,CAP,31,45,AS,Solano
+211,3,09:30,CAP,31,45,2_Pts_C,Dikembe
+212,3,09:47,SPF,31,43,2_Pts_C,Shamell
+213,3,10:00,NaN,29,43,inicio_quarto,
+214,2,00:00,NaN,29,43,fim_quarto,
+215,2,00:01,SPF,29,43,3_Pts_C,Léo Meindl
+216,2,00:02,SPF,26,43,RO,Léo Meindl
+217,2,00:02,CAP,26,43,TO,Solano
+218,2,00:02,SPF,26,43,2_Pts_T,Georginho
+219,2,00:07,CAP,26,43,substituicao_entra,Ruivo
+220,2,00:07,CAP,26,43,substituicao_sai,Victão
+221,2,00:07,CAP,26,43,substituicao_entra,Barbosa
+222,2,00:07,CAP,26,43,substituicao_sai,Yago
+223,2,00:29,CAP,26,43,AS,Yago
+224,2,00:29,CAP,26,43,3_Pts_C,Solano
+225,2,00:42,SPF,26,40,LL_Pts_C,Jones
+226,2,00:42,SPF,25,40,LL_Pts_T,Jones
+227,2,00:42,CAP,25,40,substituicao_entra,Victão
+228,2,00:42,CAP,25,40,substituicao_entra,Yago
+229,2,00:42,CAP,25,40,substituicao_sai,Corrêa
+230,2,00:42,CAP,25,40,substituicao_sai,Ruivo
+231,2,00:42,SPF,25,40,FR,Jones
+232,2,00:42,CAP,25,40,FC,Corrêa
+233,2,00:42,SPF,25,40,RD,São Paulo
+234,2,00:44,CAP,25,40,3_Pts_T,D  Coleman
+235,2,00:48,CAP,25,40,RD,Solano
+236,2,00:51,SPF,25,40,3_Pts_T,Shamell
+237,2,01:07,CAP,25,40,substituicao_entra,Corrêa
+238,2,01:07,CAP,25,40,substituicao_entra,Solano
+239,2,01:07,CAP,25,40,substituicao_sai,Eddy
+240,2,01:07,CAP,25,40,substituicao_sai,Yago
+241,2,01:07,SPF,25,40,substituicao_entra,Georginho
+242,2,01:07,SPF,25,40,substituicao_sai,Jefferson
+243,2,01:07,SPF,25,40,tempo_tecnico,São Paulo
+244,2,01:07,CAP,25,40,LL_Pts_C,Yago
+245,2,01:07,CAP,25,39,LL_Pts_C,Yago
+246,2,01:07,CAP,25,38,FR,Yago
+247,2,01:07,SPF,25,38,FC,Jefferson
+248,2,01:25,SPF,25,38,2_Pts_C,Léo Meindl
+249,2,01:28,CAP,23,38,ER,Ruivo
+250,2,01:28,SPF,23,38,FR,Léo Meindl
+251,2,01:28,CAP,23,38,FC_O,Ruivo
+252,2,01:41,CAP,23,38,RO,Maique
+253,2,01:45,CAP,23,38,3_Pts_T,D  Coleman
+254,2,01:47,CAP,23,38,RO,Eddy
+255,2,01:52,SPF,23,38,TO,Renan
+256,2,01:52,CAP,23,38,2_Pts_T,Maique
+257,2,01:59,CAP,23,38,RD,Paulistano
+258,2,01:59,CAP,23,38,TO,Maique
+259,2,01:59,SPF,23,38,2_Pts_T,Léo Meindl
+260,2,02:05,SPF,23,38,BR,Jones
+261,2,02:05,CAP,23,38,ER,Yago
+262,2,02:23,SPF,23,38,LL_Pts_C,Jefferson
+263,2,02:23,SPF,22,38,LL_Pts_T,Jefferson
+264,2,02:23,CAP,22,38,substituicao_entra,Ruivo
+265,2,02:23,CAP,22,38,substituicao_sai,Solano
+266,2,02:23,SPF,22,38,substituicao_entra,Renan
+267,2,02:23,SPF,22,38,substituicao_sai,Kurtz
+268,2,02:23,SPF,22,38,FR,Jefferson
+269,2,02:23,CAP,22,38,FC,Eddy
+270,2,02:42,CAP,22,38,AS,Yago
+271,2,02:42,CAP,22,38,EN,Eddy
+272,2,02:44,CAP,22,36,RD,Yago
+273,2,02:47,SPF,22,36,3_Pts_T,Shamell
+274,2,02:54,SPF,22,36,RD,Kurtz
+275,2,02:57,CAP,22,36,2_Pts_T,D  Coleman
+276,2,03:06,CAP,22,36,RO,Eddy
+277,2,03:10,CAP,22,36,3_Pts_T,D  Coleman
+278,2,03:28,SPF,22,36,LL_Pts_C,Léo Meindl
+279,2,03:28,SPF,21,36,LL_Pts_C,Léo Meindl
+280,2,03:28,SPF,20,36,FR,Léo Meindl
+281,2,03:28,CAP,20,36,FC,D  Coleman
+282,2,03:36,SPF,20,36,RO,São Paulo
+283,2,03:41,SPF,20,36,3_Pts_T,Léo Meindl
+284,2,04:01,CAP,20,36,AS,Yago
+285,2,04:01,CAP,20,36,EN,Maique
+286,2,04:20,SPF,20,34,2_Pts_C,Jones
+287,2,04:27,SPF,18,34,RD,Jefferson
+288,2,04:29,CAP,18,34,3_Pts_T,Solano
+289,2,04:48,CAP,18,34,FR,Solano
+290,2,04:48,SPF,18,34,ER,Shamell
+291,2,04:48,SPF,18,34,FC_O,Shamell
+292,2,04:58,SPF,18,34,substituicao_entra,Jones
+293,2,04:58,SPF,18,34,substituicao_sai,Georginho
+294,2,04:58,SPF,18,34,FR,Jefferson
+295,2,04:58,CAP,18,34,FC,Yago
+296,2,04:58,SPF,18,34,RO,São Paulo
+297,2,05:01,SPF,18,34,2_Pts_T,Léo Meindl
+298,2,05:09,CAP,18,34,ER,Solano
+299,2,05:24,CAP,18,34,RD,Paulistano
+300,2,05:26,SPF,18,34,3_Pts_T,Georginho
+301,2,05:36,CAP,18,34,substituicao_entra,Maique
+302,2,05:36,CAP,18,34,substituicao_sai,Dikembe
+303,2,05:36,SPF,18,34,substituicao_entra,Shamell
+304,2,05:36,SPF,18,34,substituicao_sai,Jones
+305,2,05:36,SPF,18,34,ER,Kurtz
+306,2,05:36,SPF,18,34,FC_T,Kurtz
+307,2,05:36,CAP,18,34,FC_T,Dikembe
+308,2,05:36,SPF,18,34,FR,Kurtz
+309,2,05:36,CAP,18,34,FC,Dikembe
+310,2,05:36,SPF,18,34,RO,São Paulo
+311,2,05:36,SPF,18,34,3_Pts_T,Georginho
+312,2,05:46,CAP,18,34,2_Pts_C,D  Coleman
+313,2,05:50,CAP,18,32,RO,D  Coleman
+314,2,05:52,CAP,18,32,2_Pts_T,D  Coleman
+315,2,05:52,CAP,18,32,RO,D  Coleman
+316,2,05:57,CAP,18,32,2_Pts_T,D  Coleman
+317,2,06:17,SPF,18,32,substituicao_entra,Jefferson
+318,2,06:17,SPF,18,32,substituicao_sai,Renan
+319,2,06:17,CAP,18,32,FR,Dikembe
+320,2,06:17,SPF,18,32,FC,Renan
+321,2,06:17,CAP,18,32,RD,Dikembe
+322,2,06:17,SPF,18,32,3_Pts_T,Jones
+323,2,06:29,CAP,18,32,AS,Solano
+324,2,06:29,CAP,18,32,LL_Pts_C,Dikembe
+325,2,06:29,CAP,18,31,LL_Pts_T,Dikembe
+326,2,06:29,CAP,18,31,FR,Dikembe
+327,2,06:29,SPF,18,31,FC,Kurtz
+328,2,06:38,CAP,18,31,RD,Solano
+329,2,06:42,SPF,18,31,3_Pts_T,Renan
+330,2,06:47,SPF,18,31,RD,Léo Meindl
+331,2,06:50,CAP,18,31,3_Pts_T,Solano
+332,2,06:56,CAP,18,31,RD,Yago
+333,2,07:00,SPF,18,31,2_Pts_T,Renan
+334,2,07:13,CAP,18,31,substituicao_entra,D  Coleman
+335,2,07:13,CAP,18,31,substituicao_sai,Victão
+336,2,07:13,SPF,18,31,FR,Renan
+337,2,07:13,CAP,18,31,ER,Victão
+338,2,07:13,CAP,18,31,FC_O,Victão
+339,2,07:25,CAP,18,31,substituicao_entra,Solano
+340,2,07:25,CAP,18,31,substituicao_sai,Ruivo
+341,2,07:25,SPF,18,31,substituicao_entra,Kurtz
+342,2,07:25,SPF,18,31,substituicao_entra,Léo Meindl
+343,2,07:25,SPF,18,31,substituicao_sai,Murilo
+344,2,07:25,SPF,18,31,substituicao_sai,Shamell
+345,2,07:25,CAP,18,31,FR,Dikembe
+346,2,07:25,SPF,18,31,FC,Murilo
+347,2,07:25,CAP,18,31,RD,Dikembe
+348,2,07:25,SPF,18,31,2_Pts_T,Shamell
+349,2,07:26,SPF,18,31,RO,Murilo
+350,2,07:30,SPF,18,31,2_Pts_T,Shamell
+351,2,07:42,SPF,18,31,RD,Murilo
+352,2,07:45,CAP,18,31,3_Pts_T,Eddy
+353,2,07:54,CAP,18,31,RO,Dikembe
+354,2,07:58,CAP,18,31,3_Pts_T,Ruivo
+355,2,08:08,CAP,18,31,RD,Dikembe
+356,2,08:12,SPF,18,31,2_Pts_T,Jones
+357,2,08:27,CAP,18,31,2_Pts_C,Victão
+358,2,08:27,CAP,18,29,RO,Victão
+359,2,08:33,CAP,18,29,2_Pts_T,Dikembe
+360,2,08:58,SPF,18,29,AS,Murilo
+361,2,08:58,SPF,18,29,2_Pts_C,Jones
+362,2,09:15,CAP,16,29,AS,Yago
+363,2,09:15,CAP,16,29,3_Pts_C,Eddy
+364,2,09:18,CAP,16,26,RD,Dikembe
+365,2,09:21,SPF,16,26,2_Pts_T,Georginho
+366,2,09:32,SPF,16,26,RD,Murilo
+367,2,09:35,CAP,16,26,2_Pts_T,Yago
+368,2,10:00,NaN,16,26,inicio_quarto,
+369,1,00:00,NaN,16,26,fim_quarto,
+370,1,00:00,CAP,16,26,3_Pts_T,Yago
+371,1,00:03,SPF,16,26,ER,Murilo
+372,1,00:07,CAP,16,26,substituicao_entra,Barbosa
+373,1,00:07,CAP,16,26,substituicao_sai,Maique
+374,1,00:07,CAP,16,26,substituicao_entra,Dikembe
+375,1,00:07,CAP,16,26,substituicao_sai,Victão
+376,1,00:07,SPF,16,26,substituicao_entra,Georginho
+377,1,00:07,SPF,16,26,substituicao_sai,Renan
+378,1,00:07,SPF,16,26,RO,São Paulo
+379,1,00:07,SPF,16,26,2_Pts_T,Cassiano
+380,1,00:26,CAP,16,26,AS,Victão
+381,1,00:26,CAP,16,26,3_Pts_C,Yago
+382,1,00:39,CAP,16,23,substituicao_entra,Victão
+383,1,00:39,CAP,16,23,substituicao_sai,Corrêa
+384,1,00:39,SPF,16,23,substituicao_entra,Cassiano
+385,1,00:39,SPF,16,23,substituicao_sai,Georginho
+386,1,00:39,CAP,16,23,tempo_tecnico,Paulistano
+387,1,00:42,SPF,16,23,3_Pts_C,Jones
+388,1,00:53,SPF,13,23,RD,Jones
+389,1,00:56,CAP,13,23,3_Pts_T,Maique
+390,1,01:11,SPF,13,23,LL_Pts_C,Jones
+391,1,01:11,SPF,12,23,FR,Jones
+392,1,01:11,CAP,12,23,FC,Eddy
+393,1,01:11,SPF,12,23,2_Pts_C,Jones
+394,1,01:26,SPF,10,23,RD,Jones
+395,1,01:29,CAP,10,23,3_Pts_T,Yago
+396,1,01:33,CAP,10,23,RD,Maique
+397,1,01:38,SPF,10,23,3_Pts_T,Jones
+398,1,01:40,SPF,10,23,RD,Georginho
+399,1,01:46,CAP,10,23,3_Pts_T,Ruivo
+400,1,02:09,CAP,10,23,substituicao_entra,Yago
+401,1,02:09,CAP,10,23,substituicao_sai,Solano
+402,1,02:09,SPF,10,23,LL_Pts_C,Jones
+403,1,02:09,SPF,9,23,LL_Pts_C,Jones
+404,1,02:09,CAP,8,23,substituicao_entra,Eddy
+405,1,02:09,CAP,8,23,substituicao_entra,Corrêa
+406,1,02:09,CAP,8,23,substituicao_sai,Victão
+407,1,02:09,CAP,8,23,substituicao_sai,D  Coleman
+408,1,02:09,SPF,8,23,FR,Jones
+409,1,02:09,CAP,8,23,FC,Maique
+410,1,02:24,CAP,8,23,3_Pts_C,D  Coleman
+411,1,02:43,SPF,8,20,EN,Renan
+412,1,02:45,SPF,6,20,RO,Renan
+413,1,02:48,SPF,6,20,3_Pts_T,Jones
+414,1,03:05,SPF,6,20,RD,Georginho
+415,1,03:09,CAP,6,20,2_Pts_T,D  Coleman
+416,1,03:18,CAP,6,20,FR,Solano
+417,1,03:18,SPF,6,20,FC,Jones
+418,1,03:35,SPF,6,20,2_Pts_C,Shamell
+419,1,03:42,CAP,4,20,substituicao_entra,Maique
+420,1,03:42,CAP,4,20,substituicao_sai,Dikembe
+421,1,03:42,SPF,4,20,FR,Renan
+422,1,03:42,CAP,4,20,FC,Victão
+423,1,03:58,CAP,4,20,AS,Solano
+424,1,03:58,CAP,4,20,2_Pts_C,Victão
+425,1,04:09,CAP,4,18,RO,D  Coleman
+426,1,04:14,CAP,4,18,3_Pts_T,Solano
+427,1,04:34,CAP,4,18,substituicao_entra,Ruivo
+428,1,04:34,CAP,4,18,substituicao_sai,Yago
+429,1,04:34,SPF,4,18,substituicao_entra,Jones
+430,1,04:34,SPF,4,18,substituicao_sai,Léo Meindl
+431,1,04:34,CAP,4,18,FR,Solano
+432,1,04:34,SPF,4,18,ER,Léo Meindl
+433,1,04:34,SPF,4,18,FC_O,Léo Meindl
+434,1,04:43,SPF,4,18,substituicao_entra,Murilo
+435,1,04:43,SPF,4,18,substituicao_sai,Jefferson
+436,1,04:43,SPF,4,18,RO,São Paulo
+437,1,04:46,SPF,4,18,3_Pts_T,Shamell
+438,1,05:05,CAP,4,18,2_Pts_C,Victão
+439,1,05:07,CAP,4,16,RO,Victão
+440,1,05:10,CAP,4,16,2_Pts_T,D  Coleman
+441,1,05:14,CAP,4,16,RD,D  Coleman
+442,1,05:17,SPF,4,16,2_Pts_T,Georginho
+443,1,05:41,SPF,4,16,tempo_tecnico,São Paulo
+444,1,05:41,CAP,4,16,3_Pts_C,Solano
+445,1,05:51,CAP,4,13,RD,D  Coleman
+446,1,05:55,SPF,4,13,3_Pts_T,Jefferson
+447,1,06:10,CAP,4,13,AS,Yago
+448,1,06:10,CAP,4,13,3_Pts_C,Victão
+449,1,06:29,CAP,4,10,RD,Solano
+450,1,06:32,SPF,4,10,3_Pts_T,Renan
+451,1,06:44,SPF,4,10,RD,Renan
+452,1,06:49,SPF,4,10,TO,Jefferson
+453,1,06:49,CAP,4,10,2_Pts_T,Dikembe
+454,1,06:53,CAP,4,10,RO,Dikembe
+455,1,06:56,CAP,4,10,3_Pts_T,Yago
+456,1,07:14,SPF,4,10,2_Pts_C,Léo Meindl
+457,1,07:39,CAP,2,10,AS,Solano
+458,1,07:39,CAP,2,10,3_Pts_C,Victão
+459,1,07:49,CAP,2,7,RO,Solano
+460,1,07:51,CAP,2,7,3_Pts_T,D  Coleman
+461,1,08:00,CAP,2,7,RD,Victão
+462,1,08:03,SPF,2,7,3_Pts_T,Jefferson
+463,1,08:16,CAP,2,7,LL_Pts_C,Dikembe
+464,1,08:16,CAP,2,6,AS,Solano
+465,1,08:16,CAP,2,6,LL_Pts_C,Dikembe
+466,1,08:16,CAP,2,5,FR,Dikembe
+467,1,08:16,SPF,2,5,FC,Renan
+468,1,08:23,CAP,2,5,BR,Victão
+469,1,08:23,SPF,2,5,ER,Georginho
+470,1,08:35,CAP,2,5,3_Pts_C,D  Coleman
+471,1,09:01,SPF,2,2,2_Pts_C,Shamell
+472,1,09:08,SPF,0,2,RD,Jefferson
+473,1,09:11,CAP,0,2,2_Pts_T,Dikembe
+474,1,09:18,CAP,0,2,BR,Solano
+475,1,09:18,SPF,0,2,ER,Jefferson
+476,1,09:38,CAP,0,2,AS,Solano
+477,1,09:38,CAP,0,2,2_Pts_C,Victão
+478,1,09:45,CAP,0,0,RD,Solano
+479,1,09:48,SPF,0,0,3_Pts_T,Shamell
+480,1,10:00,CAP,0,0,substituicao_entra,Dikembe
+481,1,10:00,CAP,0,0,substituicao_entra,Victão
+482,1,10:00,CAP,0,0,substituicao_entra,D  Coleman
+483,1,10:00,CAP,0,0,substituicao_entra,Yago
+484,1,10:00,CAP,0,0,substituicao_entra,Solano
+485,1,10:00,SPF,0,0,substituicao_entra,Renan
+486,1,10:00,SPF,0,0,substituicao_entra,Léo Meindl
+487,1,10:00,SPF,0,0,substituicao_entra,Georginho
+488,1,10:00,SPF,0,0,substituicao_entra,Jefferson
+489,1,10:00,SPF,0,0,substituicao_entra,Shamell
+490,1,10:00,NaN,0,0,inicio_partida,

@@ -1,0 +1,610 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,71,88,fim_partida,
+1,4,00:00,NaN,71,88,fim_quarto, 
+2,4,00:02,CEA,71,88,3_Pts_T,Gabriel
+3,4,00:12,CEA,71,88,RD,Basq  Cearense
+4,4,00:12,FLA,71,88,LL_Pts_T,Pedro Nunes
+5,4,00:12,FLA,71,88,LL_Pts_T,Pedro Nunes
+6,4,00:12,FLA,71,88,FR,Pedro Nunes
+7,4,00:12,CEA,71,88,FC,Brandon
+8,4,00:14,FLA,71,88,RD,Ruan
+9,4,00:21,CEA,71,88,3_Pts_T,Brandon
+10,4,00:36,CEA,71,88,RD,Brandon
+11,4,00:42,FLA,71,88,2_Pts_T,Pedro Nunes
+12,4,01:04,CEA,71,88,LL_Pts_C,Armani
+13,4,01:04,CEA,70,88,LL_Pts_C,Armani
+14,4,01:04,FLA,69,88,substituicao_entra,Jhonatan
+15,4,01:04,FLA,69,88,substituicao_sai,Zach Graham
+16,4,01:04,CEA,69,88,substituicao_entra,J  Gabriel
+17,4,01:04,CEA,69,88,substituicao_sai,Mathias
+18,4,01:04,CEA,69,88,FR,Armani
+19,4,01:04,FLA,69,88,FC,Pedro Nunes
+20,4,01:04,CEA,69,88,RD,Basq  Cearense
+21,4,01:04,FLA,69,88,3_Pts_T,Matheusinho
+22,4,01:16,CEA,69,88,LL_Pts_C,Mathias
+23,4,01:16,CEA,68,88,LL_Pts_C,Mathias
+24,4,01:16,CEA,67,88,FR,Mathias
+25,4,01:16,FLA,67,88,FC,Ruan
+26,4,01:16,CEA,67,88,RO,Basq  Cearense
+27,4,01:18,CEA,67,88,2_Pts_T,Armani
+28,4,01:39,FLA,67,88,2_Pts_C,Pedro Nunes
+29,4,01:49,FLA,67,86,RO,Flamengo
+30,4,01:49,FLA,67,86,LL_Pts_T,Ruan
+31,4,01:49,CEA,67,86,substituicao_entra,Armani
+32,4,01:49,CEA,67,86,substituicao_sai,Alex
+33,4,01:49,CEA,67,86,substituicao_entra,Brandon
+34,4,01:49,CEA,67,86,substituicao_sai,Brite
+35,4,01:49,FLA,67,86,FR,Ruan
+36,4,01:49,CEA,67,86,FC,Brite
+37,4,01:49,FLA,67,86,AS,Matheusinho
+38,4,01:49,FLA,67,86,2_Pts_C,Ruan
+39,4,01:59,CEA,67,84,substituicao_entra,Gabriel
+40,4,01:59,CEA,67,84,substituicao_sai,Rashaun
+41,4,01:59,CEA,67,84,LL_Pts_C,Brite
+42,4,01:59,CEA,66,84,LL_Pts_C,Brite
+43,4,01:59,CEA,65,84,FR,Brite
+44,4,01:59,FLA,65,84,FC,Matheusinho
+45,4,02:11,CEA,65,84,tempo_tecnico,Basq  Cearense
+46,4,02:13,FLA,65,84,AS,Matheusinho
+47,4,02:13,FLA,65,84,3_Pts_C,Black
+48,4,02:35,CEA,65,81,2_Pts_C,Mathias
+49,4,02:47,CEA,63,81,RO,Brite
+50,4,02:47,CEA,63,81,LL_Pts_T,Rashaun
+51,4,02:47,CEA,63,81,LL_Pts_C,Rashaun
+52,4,02:47,FLA,62,81,substituicao_entra,Matheusinho
+53,4,02:47,FLA,62,81,substituicao_sai,Deryk
+54,4,02:47,CEA,62,81,FR,Rashaun
+55,4,02:47,FLA,62,81,FC,Deryk
+56,4,02:54,FLA,62,81,LL_Pts_C,Black
+57,4,02:54,FLA,62,80,LL_Pts_T,Black
+58,4,02:54,CEA,62,80,substituicao_entra,Mathias
+59,4,02:54,CEA,62,80,substituicao_sai,Felipe
+60,4,02:54,FLA,62,80,FR,Black
+61,4,02:54,CEA,62,80,FC,Felipe
+62,4,02:54,FLA,62,80,RO,Black
+63,4,02:56,FLA,62,80,2_Pts_T,Black
+64,4,03:08,FLA,62,80,RD,Black
+65,4,03:08,CEA,62,80,LL_Pts_T,Sualisson
+66,4,03:08,CEA,62,80,LL_Pts_C,Sualisson
+67,4,03:08,CEA,61,80,FR,Sualisson
+68,4,03:08,FLA,61,80,FC,Ruan
+69,4,03:08,CEA,61,80,RO,Basq  Cearense
+70,4,03:09,CEA,61,80,3_Pts_T,Rashaun
+71,4,03:10,CEA,61,80,RO,Sualisson
+72,4,03:16,CEA,61,80,3_Pts_T,Alex
+73,4,03:35,FLA,61,80,2_Pts_C,Black
+74,4,03:37,FLA,61,78,RO,Black
+75,4,03:43,FLA,61,78,3_Pts_T,Zach Graham
+76,4,03:56,FLA,61,78,BR,Ruan
+77,4,03:56,CEA,61,78,ER,Sualisson
+78,4,03:58,CEA,61,78,RO,Sualisson
+79,4,03:58,CEA,61,78,LL_Pts_T,Felipe
+80,4,03:58,CEA,61,78,LL_Pts_C,Felipe
+81,4,03:58,CEA,60,78,FR,Felipe
+82,4,03:58,FLA,60,78,FC,Black
+83,4,04:18,FLA,60,78,substituicao_entra,Black
+84,4,04:18,FLA,60,78,substituicao_sai,Léo Demétrio
+85,4,04:18,CEA,60,78,RD,Felipe
+86,4,04:18,FLA,60,78,2_Pts_T,Léo Demétrio
+87,4,04:38,CEA,60,78,2_Pts_C,Rashaun
+88,4,04:57,CEA,58,78,FR,Sualisson
+89,4,04:57,FLA,58,78,FC,Ruan
+90,4,05:02,FLA,58,78,substituicao_entra,Pedro Nunes
+91,4,05:02,FLA,58,78,substituicao_sai,Balbi
+92,4,05:02,FLA,58,78,substituicao_entra,Ruan
+93,4,05:02,FLA,58,78,substituicao_sai,Olivinha
+94,4,05:02,FLA,58,78,substituicao_entra,Zach Graham
+95,4,05:02,FLA,58,78,substituicao_sai,Jhonatan
+96,4,05:02,CEA,58,78,FR,Rashaun
+97,4,05:02,FLA,58,78,FC,Balbi
+98,4,05:10,FLA,58,78,AS,Deryk
+99,4,05:10,FLA,58,78,3_Pts_C,Olivinha
+100,4,05:23,FLA,58,75,RD,Jhonatan
+101,4,05:33,CEA,58,75,3_Pts_T,Brite
+102,4,05:37,CEA,58,75,RD,Felipe
+103,4,05:42,FLA,58,75,2_Pts_T,Olivinha
+104,4,06:03,CEA,58,75,2_Pts_C,Alex
+105,4,06:17,CEA,56,75,tempo_tecnico,Basq  Cearense
+106,4,06:18,FLA,56,75,AS,Deryk
+107,4,06:18,FLA,56,75,2_Pts_C,Léo Demétrio
+108,4,06:25,FLA,56,73,RO,Olivinha
+109,4,06:28,FLA,56,73,3_Pts_T,Jhonatan
+110,4,06:30,FLA,56,73,RO,Léo Demétrio
+111,4,06:36,CEA,56,73,TO,Sualisson
+112,4,06:36,FLA,56,73,2_Pts_T,Olivinha
+113,4,06:38,FLA,56,73,RO,Olivinha
+114,4,06:42,FLA,56,73,3_Pts_T,Léo Demétrio
+115,4,06:59,FLA,56,73,RD,Olivinha
+116,4,07:05,CEA,56,73,3_Pts_T,Rashaun
+117,4,07:19,FLA,56,73,LL_Pts_C,Léo Demétrio
+118,4,07:19,FLA,56,72,LL_Pts_T,Léo Demétrio
+119,4,07:19,FLA,56,72,substituicao_entra,Balbi
+120,4,07:19,FLA,56,72,substituicao_sai,Pedro Nunes
+121,4,07:19,FLA,56,72,substituicao_entra,Olivinha
+122,4,07:19,FLA,56,72,substituicao_sai,Marquinhos
+123,4,07:19,FLA,56,72,FR,Léo Demétrio
+124,4,07:19,CEA,56,72,FC,Felipe
+125,4,07:19,FLA,56,72,RO,Léo Demétrio
+126,4,07:22,FLA,56,72,2_Pts_T,Léo Demétrio
+127,4,07:29,FLA,56,72,BR,Deryk
+128,4,07:29,CEA,56,72,ER,Brite
+129,4,07:35,CEA,56,72,FR,Brite
+130,4,07:35,FLA,56,72,FC,Deryk
+131,4,07:35,CEA,56,72,RD,Felipe
+132,4,07:39,FLA,56,72,2_Pts_T,Jhonatan
+133,4,07:57,CEA,56,72,substituicao_entra,Sualisson
+134,4,07:57,CEA,56,72,substituicao_sai,Marcão
+135,4,08:03,CEA,56,72,AS,Brite
+136,4,08:03,CEA,56,72,2_Pts_C,Rashaun
+137,4,08:05,CEA,54,72,RD,Brite
+138,4,08:08,FLA,54,72,2_Pts_T,Marquinhos
+139,4,08:10,FLA,54,72,substituicao_entra,Jhonatan
+140,4,08:10,FLA,54,72,substituicao_sai,Mineiro
+141,4,08:13,FLA,54,72,RD,Mineiro
+142,4,08:17,CEA,54,72,3_Pts_T,Rashaun
+143,4,08:25,CEA,54,72,BR,Felipe
+144,4,08:25,FLA,54,72,ER,Mineiro
+145,4,08:34,FLA,54,72,FR,Mineiro
+146,4,08:34,CEA,54,72,FC,Brite
+147,4,08:46,FLA,54,72,substituicao_entra,Pedro Nunes
+148,4,08:46,FLA,54,72,substituicao_sai,Zach Graham
+149,4,08:46,CEA,54,72,substituicao_entra,Brite
+150,4,08:46,CEA,54,72,substituicao_sai,Cauê
+151,4,08:46,FLA,54,72,FR,Zach Graham
+152,4,08:46,CEA,54,72,ER,Rashaun
+153,4,08:46,CEA,54,72,FC_O,Rashaun
+154,4,09:11,FLA,54,72,AS,Marquinhos
+155,4,09:11,FLA,54,72,EN,Mineiro
+156,4,09:13,FLA,54,70,FR,Léo Demétrio
+157,4,09:13,CEA,54,70,FC,Cauê
+158,4,09:18,FLA,54,70,BR,Léo Demétrio
+159,4,09:18,CEA,54,70,ER,Felipe
+160,4,09:27,FLA,54,70,LL_Pts_C,Zach Graham
+161,4,09:27,FLA,54,69,substituicao_entra,Léo Demétrio
+162,4,09:27,FLA,54,69,substituicao_sai,Olivinha
+163,4,09:27,FLA,54,69,FR,Zach Graham
+164,4,09:27,CEA,54,69,FC,Felipe
+165,4,09:27,FLA,54,69,2_Pts_C,Zach Graham
+166,4,09:47,FLA,54,67,RD,Flamengo
+167,4,09:48,CEA,54,67,3_Pts_T,Alex
+168,4,09:58,FLA,54,67,substituicao_entra,Marquinhos
+169,4,09:58,FLA,54,67,substituicao_sai,Jhonatan
+170,4,10:00,NaN,54,67,inicio_quarto,
+171,3,00:00,NaN,54,67,fim_quarto,
+172,3,00:02,CEA,54,67,3_Pts_T,Felipe
+173,3,00:06,CEA,54,67,RD,Felipe
+174,3,00:10,FLA,54,67,3_Pts_T,Olivinha
+175,3,00:36,CEA,54,67,AS,Felipe
+176,3,00:36,CEA,54,67,3_Pts_C,Alex
+177,3,00:54,FLA,51,67,LL_Pts_C,Black
+178,3,00:54,FLA,51,66,LL_Pts_T,Black
+179,3,00:54,CEA,51,66,substituicao_entra,Rashaun
+180,3,00:54,CEA,51,66,substituicao_sai,Sualisson
+181,3,00:54,FLA,51,66,FR,Black
+182,3,00:54,CEA,51,66,FC,Sualisson
+183,3,00:55,FLA,51,66,RO,Black
+184,3,00:55,FLA,51,66,LL_Pts_T,Jhonatan
+185,3,00:55,FLA,51,66,LL_Pts_C,Jhonatan
+186,3,00:55,FLA,51,65,FR,Jhonatan
+187,3,00:55,CEA,51,65,FC,Felipe
+188,3,00:58,FLA,51,65,RD,Jhonatan
+189,3,00:58,CEA,51,65,LL_Pts_T,Alex
+190,3,00:58,CEA,51,65,LL_Pts_T,Alex
+191,3,00:59,CEA,51,65,FR,Alex
+192,3,00:59,FLA,51,65,FC,Zach Graham
+193,3,01:19,FLA,51,65,substituicao_entra,Jhonatan
+194,3,01:19,FLA,51,65,substituicao_sai,Marquinhos
+195,3,01:19,FLA,51,65,LL_Pts_C,Marquinhos
+196,3,01:19,FLA,51,64,LL_Pts_C,Marquinhos
+197,3,01:19,FLA,51,63,substituicao_entra,Black
+198,3,01:19,FLA,51,63,substituicao_sai,Léo Demétrio
+199,3,01:19,CEA,51,63,substituicao_entra,Sualisson
+200,3,01:19,CEA,51,63,substituicao_sai,Marcão
+201,3,01:19,FLA,51,63,FR,Marquinhos
+202,3,01:19,CEA,51,63,FC,Marcão
+203,3,01:28,FLA,51,63,RD,Léo Demétrio
+204,3,01:32,CEA,51,63,3_Pts_T,Felipe
+205,3,01:41,CEA,51,63,RO,Felipe
+206,3,01:49,CEA,51,63,2_Pts_T,Cauê
+207,3,02:10,CEA,51,63,RD,Cauê
+208,3,02:10,FLA,51,63,LL_Pts_T,Léo Demétrio
+209,3,02:10,FLA,51,63,LL_Pts_T,Léo Demétrio
+210,3,02:10,FLA,51,63,FR,Léo Demétrio
+211,3,02:10,CEA,51,63,FC,Cauê
+212,3,02:16,FLA,51,63,FR,Zach Graham
+213,3,02:16,CEA,51,63,FC,Brandon
+214,3,02:33,CEA,51,63,LL_Pts_C,Alex
+215,3,02:33,CEA,50,63,LL_Pts_C,Alex
+216,3,02:33,FLA,49,63,substituicao_entra,Olivinha
+217,3,02:33,FLA,49,63,substituicao_sai,Mineiro
+218,3,02:33,CEA,49,63,FR,Alex
+219,3,02:33,FLA,49,63,FC,Mineiro
+220,3,02:47,CEA,49,63,RD,Felipe
+221,3,02:52,FLA,49,63,2_Pts_T,Marquinhos
+222,3,02:57,FLA,49,63,substituicao_entra,Marquinhos
+223,3,02:57,FLA,49,63,substituicao_sai,Balbi
+224,3,02:57,CEA,49,63,substituicao_entra,Cauê
+225,3,02:57,CEA,49,63,substituicao_sai,Brite
+226,3,02:57,FLA,49,63,FR,Balbi
+227,3,02:57,CEA,49,63,FC,Brite
+228,3,03:05,FLA,49,63,RD,Mineiro
+229,3,03:09,CEA,49,63,2_Pts_T,Brandon
+230,3,03:19,CEA,49,63,BR,Brandon
+231,3,03:19,FLA,49,63,ER,Deryk
+232,3,03:33,FLA,49,63,RD,Léo Demétrio
+233,3,03:39,CEA,49,63,2_Pts_T,Brite
+234,3,03:52,FLA,49,63,ER,Deryk
+235,3,04:04,FLA,49,63,FR,Balbi
+236,3,04:04,CEA,49,63,FC,Brite
+237,3,04:14,CEA,49,63,AS,Brite
+238,3,04:14,CEA,49,63,EN,Marcão
+239,3,04:27,CEA,47,63,RD,Alex
+240,3,04:31,FLA,47,63,3_Pts_T,Léo Demétrio
+241,3,04:44,CEA,47,63,LL_Pts_C,Brite
+242,3,04:44,CEA,46,63,LL_Pts_C,Brite
+243,3,04:44,FLA,45,63,substituicao_entra,Zach Graham
+244,3,04:44,FLA,45,63,substituicao_sai,Marquinhos
+245,3,04:44,FLA,45,63,substituicao_entra,Mineiro
+246,3,04:44,FLA,45,63,substituicao_sai,Olivinha
+247,3,04:50,CEA,45,63,FR,Brite
+248,3,04:50,FLA,45,63,FC,Deryk
+249,3,04:57,CEA,45,63,RD,Brite
+250,3,05:02,FLA,45,63,3_Pts_T,Léo Demétrio
+251,3,05:10,FLA,45,63,RD,Olivinha
+252,3,05:14,CEA,45,63,3_Pts_T,Brandon
+253,3,05:41,FLA,45,63,AS,Deryk
+254,3,05:41,FLA,45,63,EN,Léo Demétrio
+255,3,05:54,CEA,45,61,2_Pts_C,Brite
+256,3,05:57,CEA,43,61,RD,Marcão
+257,3,06:02,FLA,43,61,2_Pts_T,Léo Demétrio
+258,3,06:08,FLA,43,61,substituicao_entra,Deryk
+259,3,06:08,FLA,43,61,substituicao_sai,Jhonatan
+260,3,06:08,CEA,43,61,substituicao_entra,Alex
+261,3,06:08,CEA,43,61,substituicao_sai,Mathias
+262,3,06:08,CEA,43,61,substituicao_entra,Marcão
+263,3,06:08,CEA,43,61,substituicao_sai,Rashaun
+264,3,06:08,FLA,43,61,FR,Marquinhos
+265,3,06:08,CEA,43,61,FC,Mathias
+266,3,06:24,FLA,43,61,RD,Olivinha
+267,3,06:30,CEA,43,61,2_Pts_T,Brite
+268,3,06:56,FLA,43,61,AS,Balbi
+269,3,06:56,FLA,43,61,2_Pts_C,Marquinhos
+270,3,07:02,CEA,43,59,2_Pts_C,Brandon
+271,3,07:17,CEA,41,59,tempo_tecnico,Basq  Cearense
+272,3,07:20,FLA,41,59,AS,Léo Demétrio
+273,3,07:20,FLA,41,59,3_Pts_C,Marquinhos
+274,3,07:32,FLA,41,56,RD,Flamengo
+275,3,07:32,CEA,41,56,LL_Pts_T,Felipe
+276,3,07:32,FLA,41,56,substituicao_entra,Léo Demétrio
+277,3,07:32,FLA,41,56,substituicao_sai,Mineiro
+278,3,07:32,CEA,41,56,FR,Felipe
+279,3,07:32,FLA,41,56,FC,Jhonatan
+280,3,07:32,CEA,41,56,2_Pts_C,Felipe
+281,3,07:56,FLA,39,56,AS,Marquinhos
+282,3,07:56,FLA,39,56,2_Pts_C,Balbi
+283,3,08:00,FLA,39,54,RD,Marquinhos
+284,3,08:04,CEA,39,54,2_Pts_T,Brite
+285,3,08:12,CEA,39,54,FR,Rashaun
+286,3,08:12,FLA,39,54,FC,Jhonatan
+287,3,08:29,FLA,39,54,AS,Balbi
+288,3,08:29,FLA,39,54,2_Pts_C,Olivinha
+289,3,08:33,FLA,39,52,RD,Jhonatan
+290,3,08:39,CEA,39,52,2_Pts_T,Brite
+291,3,09:01,FLA,39,52,2_Pts_C,Marquinhos
+292,3,09:03,FLA,39,50,RO,Marquinhos
+293,3,09:07,FLA,39,50,2_Pts_T,Marquinhos
+294,3,09:18,FLA,39,50,RD,Olivinha
+295,3,09:25,CEA,39,50,3_Pts_T,Rashaun
+296,3,09:36,CEA,39,50,RO,Felipe
+297,3,09:40,CEA,39,50,3_Pts_T,Brandon
+298,3,09:46,CEA,39,50,BR,Rashaun
+299,3,09:46,FLA,39,50,ER,Balbi
+300,3,10:00,NaN,39,50,inicio_quarto,
+301,2,00:00,NaN,39,50,fim_quarto,
+302,2,00:01,CEA,39,50,2_Pts_C,Felipe
+303,2,00:08,FLA,37,50,substituicao_entra,Olivinha
+304,2,00:08,FLA,37,50,substituicao_sai,Balbi
+305,2,00:08,FLA,37,50,substituicao_entra,Pedro Nunes
+306,2,00:08,FLA,37,50,substituicao_sai,Marquinhos
+307,2,00:08,CEA,37,50,FR,Rashaun
+308,2,00:08,FLA,37,50,ER,Balbi
+309,2,00:08,FLA,37,50,FC_O,Balbi
+310,2,00:25,FLA,37,50,substituicao_entra,Marquinhos
+311,2,00:25,FLA,37,50,substituicao_sai,Mineiro
+312,2,00:25,CEA,37,50,substituicao_entra,Sualisson
+313,2,00:25,CEA,37,50,substituicao_sai,Mathias
+314,2,00:25,FLA,37,50,tempo_tecnico,Flamengo
+315,2,00:25,CEA,37,50,AS,Felipe
+316,2,00:25,CEA,37,50,3_Pts_C,Rashaun
+317,2,00:44,FLA,34,50,2_Pts_C,Zach Graham
+318,2,00:58,FLA,34,48,substituicao_entra,Balbi
+319,2,00:58,FLA,34,48,substituicao_sai,Olivinha
+320,2,00:58,CEA,34,48,substituicao_entra,Cauê
+321,2,00:58,CEA,34,48,substituicao_sai,Brite
+322,2,00:58,FLA,34,48,FR,Olivinha
+323,2,00:58,CEA,34,48,ER,Mathias
+324,2,00:58,CEA,34,48,FC_O,Mathias
+325,2,01:12,FLA,34,48,substituicao_entra,Olivinha
+326,2,01:12,FLA,34,48,substituicao_sai,Marquinhos
+327,2,01:12,FLA,34,48,LL_Pts_C,Marquinhos
+328,2,01:12,FLA,34,47,LL_Pts_C,Marquinhos
+329,2,01:12,FLA,34,46,substituicao_entra,Zach Graham
+330,2,01:12,FLA,34,46,substituicao_sai,Balbi
+331,2,01:12,CEA,34,46,substituicao_entra,Brandon
+332,2,01:12,CEA,34,46,substituicao_sai,Alex
+333,2,01:12,FLA,34,46,FR,Marquinhos
+334,2,01:12,CEA,34,46,FC,Alex
+335,2,01:30,FLA,34,46,substituicao_entra,Balbi
+336,2,01:30,FLA,34,46,substituicao_sai,Zach Graham
+337,2,01:30,FLA,34,46,tempo_tecnico,Flamengo
+338,2,01:30,CEA,34,46,2_Pts_C,Brite
+339,2,01:34,CEA,32,46,BR,Brite
+340,2,01:34,FLA,32,46,ER,Deryk
+341,2,01:41,FLA,32,46,RD,Jhonatan
+342,2,01:41,CEA,32,46,LL_Pts_T,Brite
+343,2,01:41,CEA,32,46,FR,Brite
+344,2,01:41,FLA,32,46,FC,Marquinhos
+345,2,01:42,CEA,32,46,AS,Felipe
+346,2,01:42,CEA,32,46,2_Pts_C,Brite
+347,2,01:46,CEA,30,46,FR,Felipe
+348,2,01:46,FLA,30,46,FC,Marquinhos
+349,2,01:47,CEA,30,46,RO,Basq  Cearense
+350,2,01:47,FLA,30,46,TO,Deryk
+351,2,01:47,CEA,30,46,2_Pts_T,Brite
+352,2,02:07,FLA,30,46,AS,Deryk
+353,2,02:07,FLA,30,46,3_Pts_C,Mineiro
+354,2,02:21,CEA,30,43,substituicao_entra,Felipe
+355,2,02:21,CEA,30,43,substituicao_sai,Sualisson
+356,2,02:21,CEA,30,43,substituicao_entra,Rashaun
+357,2,02:21,CEA,30,43,substituicao_sai,Brandon
+358,2,02:21,FLA,30,43,FR,Deryk
+359,2,02:21,CEA,30,43,ER,Sualisson
+360,2,02:21,CEA,30,43,FC_O,Sualisson
+361,2,02:21,CEA,30,43,RO,Alex
+362,2,02:24,CEA,30,43,2_Pts_T,Alex
+363,2,02:37,FLA,30,43,2_Pts_C,Marquinhos
+364,2,02:44,CEA,30,41,substituicao_entra,Brite
+365,2,02:44,CEA,30,41,substituicao_sai,Cauê
+366,2,02:49,FLA,30,41,LL_Pts_C,Marquinhos
+367,2,02:49,FLA,30,40,substituicao_entra,Marquinhos
+368,2,02:49,FLA,30,40,substituicao_sai,Olivinha
+369,2,02:49,CEA,30,40,ER,Mathias
+370,2,02:49,CEA,30,40,FC_T,Mathias
+371,2,02:49,CEA,30,40,ER,Mathias
+372,2,02:49,CEA,30,40,BR,Mathias
+373,2,02:49,FLA,30,40,ER,Mineiro
+374,2,03:14,CEA,30,40,AS,Alex
+375,2,03:14,CEA,30,40,3_Pts_C,Sualisson
+376,2,03:30,FLA,27,40,LL_Pts_C,Mineiro
+377,2,03:30,FLA,27,39,LL_Pts_T,Mineiro
+378,2,03:30,FLA,27,39,substituicao_entra,Deryk
+379,2,03:30,FLA,27,39,substituicao_sai,Balbi
+380,2,03:30,FLA,27,39,FR,Mineiro
+381,2,03:30,CEA,27,39,FC,Alex
+382,2,03:30,FLA,27,39,RD,Olivinha
+383,2,03:30,CEA,27,39,3_Pts_T,Cauê
+384,2,03:50,CEA,27,39,FR,Sualisson
+385,2,03:50,FLA,27,39,FC,Zach Graham
+386,2,03:53,FLA,27,39,2_Pts_C,Jhonatan
+387,2,04:00,CEA,27,37,RD,Sualisson
+388,2,04:08,FLA,27,37,2_Pts_T,Jhonatan
+389,2,04:20,FLA,27,37,RO,Flamengo
+390,2,04:24,FLA,27,37,3_Pts_T,Olivinha
+391,2,04:37,CEA,27,37,substituicao_entra,Sualisson
+392,2,04:37,CEA,27,37,substituicao_sai,Felipe
+393,2,04:37,FLA,27,37,FR,Zach Graham
+394,2,04:37,CEA,27,37,ER,Felipe
+395,2,04:37,CEA,27,37,FC_O,Felipe
+396,2,04:51,FLA,27,37,LL_Pts_C,Olivinha
+397,2,04:51,FLA,27,36,LL_Pts_T,Olivinha
+398,2,04:51,FLA,27,36,substituicao_entra,Mineiro
+399,2,04:51,FLA,27,36,substituicao_sai,Léo Demétrio
+400,2,04:51,FLA,27,36,substituicao_entra,Jhonatan
+401,2,04:51,FLA,27,36,substituicao_sai,Marquinhos
+402,2,04:51,CEA,27,36,substituicao_entra,Mathias
+403,2,04:51,CEA,27,36,substituicao_sai,Marcão
+404,2,04:51,FLA,27,36,FR,Olivinha
+405,2,04:51,CEA,27,36,FC,Marcão
+406,2,04:51,FLA,27,36,RO,Olivinha
+407,2,04:53,FLA,27,36,2_Pts_T,Olivinha
+408,2,05:07,FLA,27,36,FR,Olivinha
+409,2,05:07,CEA,27,36,FC,Marcão
+410,2,05:11,FLA,27,36,BR,Olivinha
+411,2,05:11,CEA,27,36,ER,Marcão
+412,2,05:30,CEA,27,36,substituicao_entra,Brandon
+413,2,05:30,CEA,27,36,substituicao_sai,Rashaun
+414,2,05:30,CEA,27,36,substituicao_entra,Felipe
+415,2,05:30,CEA,27,36,substituicao_sai,Sualisson
+416,2,05:30,CEA,27,36,tempo_tecnico,Basq  Cearense
+417,2,05:32,FLA,27,36,AS,Léo Demétrio
+418,2,05:32,FLA,27,36,2_Pts_C,Zach Graham
+419,2,05:34,FLA,27,34,RD,Balbi
+420,2,05:45,FLA,27,34,TO,Balbi
+421,2,05:45,CEA,27,34,2_Pts_T,Rashaun
+422,2,05:53,CEA,27,34,FR,Rashaun
+423,2,05:53,FLA,27,34,FC,Zach Graham
+424,2,06:02,FLA,27,34,AS,Marquinhos
+425,2,06:02,FLA,27,34,2_Pts_C,Zach Graham
+426,2,06:18,FLA,27,32,BR,Marquinhos
+427,2,06:18,CEA,27,32,ER,Sualisson
+428,2,06:23,CEA,27,32,BR,Sualisson
+429,2,06:23,FLA,27,32,ER,Zach Graham
+430,2,06:26,FLA,27,32,RO,Léo Demétrio
+431,2,06:28,FLA,27,32,3_Pts_T,Marquinhos
+432,2,06:31,FLA,27,32,RO,Marquinhos
+433,2,06:31,FLA,27,32,LL_Pts_T,Léo Demétrio
+434,2,06:31,FLA,27,32,substituicao_entra,Zach Graham
+435,2,06:31,FLA,27,32,substituicao_sai,Mineiro
+436,2,06:31,FLA,27,32,substituicao_entra,Olivinha
+437,2,06:31,FLA,27,32,substituicao_sai,Jhonatan
+438,2,06:31,FLA,27,32,FR,Léo Demétrio
+439,2,06:31,CEA,27,32,FC,Sualisson
+440,2,06:31,FLA,27,32,2_Pts_C,Léo Demétrio
+441,2,06:50,CEA,27,30,AS,Cauê
+442,2,06:50,CEA,27,30,3_Pts_C,Sualisson
+443,2,07:06,CEA,24,30,substituicao_entra,Sualisson
+444,2,07:06,CEA,24,30,substituicao_sai,Felipe
+445,2,07:06,CEA,24,30,tempo_tecnico,Basq  Cearense
+446,2,07:19,FLA,24,30,2_Pts_C,Marquinhos
+447,2,07:24,FLA,24,28,RD,Balbi
+448,2,07:29,CEA,24,28,2_Pts_T,Felipe
+449,2,07:40,FLA,24,28,2_Pts_C,Balbi
+450,2,07:50,FLA,24,26,FR,Mineiro
+451,2,07:50,CEA,24,26,ER,Marcão
+452,2,07:50,CEA,24,26,FC_O,Marcão
+453,2,07:50,CEA,24,26,substituicao_entra,Marcão
+454,2,07:50,CEA,24,26,substituicao_sai,Mathias
+455,2,07:54,FLA,24,26,substituicao_entra,Balbi
+456,2,07:54,FLA,24,26,substituicao_sai,Deryk
+457,2,08:08,FLA,24,26,AS,Marquinhos
+458,2,08:08,FLA,24,26,2_Pts_C,Mineiro
+459,2,08:16,FLA,24,24,RD,Léo Demétrio
+460,2,08:22,CEA,24,24,2_Pts_T,Felipe
+461,2,08:45,FLA,24,24,AS,Léo Demétrio
+462,2,08:45,FLA,24,24,3_Pts_C,Marquinhos
+463,2,08:50,CEA,24,21,substituicao_entra,Cauê
+464,2,08:50,CEA,24,21,substituicao_sai,Brite
+465,2,08:51,FLA,24,21,RD,Marquinhos
+466,2,08:57,CEA,24,21,2_Pts_T,Rashaun
+467,2,09:18,FLA,24,21,LL_Pts_C,Mineiro
+468,2,09:18,FLA,24,20,FR,Mineiro
+469,2,09:18,CEA,24,20,FC,Rashaun
+470,2,09:18,FLA,24,20,AS,Deryk
+471,2,09:18,FLA,24,20,2_Pts_C,Mineiro
+472,2,09:29,FLA,24,18,RD,Flamengo
+473,2,09:32,CEA,24,18,3_Pts_T,Alex
+474,2,09:41,CEA,24,18,FR,Rashaun
+475,2,09:41,FLA,24,18,FC,Jhonatan
+476,2,10:00,NaN,24,18,inicio_quarto,
+477,1,00:00,NaN,24,18,fim_quarto,
+478,1,00:02,FLA,24,18,3_Pts_T,Deryk
+479,1,00:08,CEA,24,18,substituicao_entra,Cauê
+480,1,00:08,CEA,24,18,substituicao_sai,Brandon
+481,1,00:08,FLA,24,18,substituicao_entra,Marquinhos
+482,1,00:08,FLA,24,18,substituicao_sai,Black
+483,1,00:08,FLA,24,18,substituicao_entra,Balbi
+484,1,00:08,FLA,24,18,substituicao_sai,Léo Demétrio
+485,1,00:08,CEA,24,18,LL_Pts_C,Felipe
+486,1,00:08,CEA,23,18,LL_Pts_C,Felipe
+487,1,00:08,CEA,22,18,substituicao_entra,Gabriel
+488,1,00:08,CEA,22,18,substituicao_sai,Mathias
+489,1,00:08,CEA,22,18,FR,Felipe
+490,1,00:08,FLA,22,18,FC,Black
+491,1,00:32,CEA,22,18,RD,Sualisson
+492,1,00:37,FLA,22,18,2_Pts_T,Léo Demétrio
+493,1,00:51,CEA,22,18,AS,Sualisson
+494,1,00:51,CEA,22,18,2_Pts_C,Felipe
+495,1,00:57,CEA,20,18,BR,Sualisson
+496,1,00:57,FLA,20,18,ER,Deryk
+497,1,01:10,FLA,20,18,RD,Jhonatan
+498,1,01:14,CEA,20,18,3_Pts_T,Brite
+499,1,01:24,CEA,20,18,RD,Brite
+500,1,01:30,FLA,20,18,3_Pts_T,Jhonatan
+501,1,01:44,CEA,20,18,AS,Brite
+502,1,01:44,CEA,20,18,2_Pts_C,Sualisson
+503,1,01:51,CEA,18,18,RD,Brite
+504,1,01:54,FLA,18,18,3_Pts_T,Black
+505,1,02:02,FLA,18,18,RD,Pedro Nunes
+506,1,02:07,CEA,18,18,3_Pts_T,Felipe
+507,1,02:18,FLA,18,18,AS,Deryk
+508,1,02:18,FLA,18,18,2_Pts_C,Pedro Nunes
+509,1,02:25,FLA,18,16,BR,Deryk
+510,1,02:25,CEA,18,16,ER,Sualisson
+511,1,02:42,FLA,18,16,AS,Léo Demétrio
+512,1,02:42,FLA,18,16,3_Pts_C,Deryk
+513,1,03:00,CEA,18,13,LL_Pts_C,Felipe
+514,1,03:00,CEA,17,13,LL_Pts_C,Felipe
+515,1,03:00,CEA,16,13,FR,Felipe
+516,1,03:00,FLA,16,13,FC,Black
+517,1,03:10,CEA,16,13,FR,Mathias
+518,1,03:10,FLA,16,13,FC,Léo Demétrio
+519,1,03:10,CEA,16,13,RD,Mathias
+520,1,03:11,FLA,16,13,2_Pts_T,Léo Demétrio
+521,1,03:22,CEA,16,13,substituicao_entra,Sualisson
+522,1,03:22,CEA,16,13,substituicao_sai,Rashaun
+523,1,03:22,CEA,16,13,LL_Pts_C,Rashaun
+524,1,03:22,CEA,15,13,LL_Pts_C,Rashaun
+525,1,03:22,FLA,14,13,substituicao_entra,Black
+526,1,03:22,FLA,14,13,substituicao_sai,Olivinha
+527,1,03:22,FLA,14,13,substituicao_entra,Pedro Nunes
+528,1,03:22,FLA,14,13,substituicao_sai,Marquinhos
+529,1,03:22,CEA,14,13,substituicao_entra,Brite
+530,1,03:22,CEA,14,13,substituicao_sai,Alex
+531,1,03:22,CEA,14,13,substituicao_entra,Brandon
+532,1,03:22,CEA,14,13,substituicao_sai,Cauê
+533,1,03:22,CEA,14,13,FR,Rashaun
+534,1,03:22,FLA,14,13,FC,Léo Demétrio
+535,1,03:29,CEA,14,13,RD,Cauê
+536,1,03:33,FLA,14,13,3_Pts_T,Marquinhos
+537,1,03:34,FLA,14,13,RD,Marquinhos
+538,1,03:39,CEA,14,13,3_Pts_T,Cauê
+539,1,03:41,FLA,14,13,substituicao_entra,Marquinhos
+540,1,03:41,FLA,14,13,substituicao_sai,Zach Graham
+541,1,03:56,FLA,14,13,3_Pts_C,Deryk
+542,1,04:07,FLA,14,10,substituicao_entra,Deryk
+543,1,04:07,FLA,14,10,substituicao_sai,Balbi
+544,1,04:07,FLA,14,10,substituicao_entra,Léo Demétrio
+545,1,04:07,FLA,14,10,substituicao_sai,Marquinhos
+546,1,04:07,FLA,14,10,substituicao_entra,Jhonatan
+547,1,04:07,FLA,14,10,substituicao_sai,Mineiro
+548,1,04:07,CEA,14,10,substituicao_entra,Mathias
+549,1,04:07,CEA,14,10,substituicao_sai,Marcão
+550,1,04:07,CEA,14,10,ER,Felipe
+551,1,04:08,CEA,14,10,BR,Felipe
+552,1,04:08,FLA,14,10,ER,Balbi
+553,1,04:22,CEA,14,10,AS,Marcão
+554,1,04:22,CEA,14,10,2_Pts_C,Cauê
+555,1,04:36,FLA,12,10,2_Pts_C,Balbi
+556,1,04:44,FLA,12,8,RD,Olivinha
+557,1,04:48,CEA,12,8,2_Pts_T,Felipe
+558,1,05:04,CEA,12,8,RD,Cauê
+559,1,05:12,FLA,12,8,2_Pts_T,Mineiro
+560,1,05:20,FLA,12,8,RD,Marquinhos
+561,1,05:24,CEA,12,8,3_Pts_T,Alex
+562,1,05:45,FLA,12,8,AS,Balbi
+563,1,05:45,FLA,12,8,2_Pts_C,Mineiro
+564,1,05:47,FLA,12,6,RD,Mineiro
+565,1,05:54,CEA,12,6,2_Pts_T,Rashaun
+566,1,06:11,CEA,12,6,RD,Basq  Cearense
+567,1,06:16,FLA,12,6,2_Pts_T,Mineiro
+568,1,06:34,CEA,12,6,3_Pts_C,Cauê
+569,1,06:40,CEA,9,6,RD,Cauê
+570,1,06:44,FLA,9,6,2_Pts_T,Marquinhos
+571,1,06:55,CEA,9,6,LL_Pts_C,Rashaun
+572,1,06:55,CEA,8,6,FR,Rashaun
+573,1,06:55,FLA,8,6,FC,Mineiro
+574,1,06:55,CEA,8,6,2_Pts_C,Rashaun
+575,1,06:59,CEA,6,6,RD,Felipe
+576,1,07:04,FLA,6,6,3_Pts_T,Zach Graham
+577,1,07:07,FLA,6,6,FR,Zach Graham
+578,1,07:07,CEA,6,6,FC,Rashaun
+579,1,07:11,FLA,6,6,FR,Mineiro
+580,1,07:11,CEA,6,6,FC,Alex
+581,1,07:20,FLA,6,6,RD,Olivinha
+582,1,07:28,CEA,6,6,2_Pts_T,Alex
+583,1,07:52,FLA,6,6,AS,Marquinhos
+584,1,07:52,FLA,6,6,2_Pts_C,Mineiro
+585,1,08:00,FLA,6,4,RD,Marquinhos
+586,1,08:07,CEA,6,4,2_Pts_T,Rashaun
+587,1,08:26,FLA,6,4,2_Pts_C,Olivinha
+588,1,08:47,CEA,6,2,3_Pts_C,Alex
+589,1,09:06,FLA,3,2,AS,Balbi
+590,1,09:06,FLA,3,2,2_Pts_C,Olivinha
+591,1,09:09,FLA,3,0,RO,Flamengo
+592,1,09:16,FLA,3,0,3_Pts_T,Marquinhos
+593,1,09:34,CEA,3,0,AS,Rashaun
+594,1,09:34,CEA,3,0,3_Pts_C,Felipe
+595,1,09:50,CEA,0,0,FR,Cauê
+596,1,09:50,FLA,0,0,ER,Balbi
+597,1,09:50,FLA,0,0,FC_O,Balbi
+598,1,10:00,FLA,0,0,substituicao_entra,Zach Graham
+599,1,10:00,FLA,0,0,substituicao_entra,Olivinha
+600,1,10:00,FLA,0,0,substituicao_entra,Mineiro
+601,1,10:00,FLA,0,0,substituicao_entra,Marquinhos
+602,1,10:00,FLA,0,0,substituicao_entra,Balbi
+603,1,10:00,CEA,0,0,substituicao_entra,Felipe
+604,1,10:00,CEA,0,0,substituicao_entra,Rashaun
+605,1,10:00,CEA,0,0,substituicao_entra,Marcão
+606,1,10:00,CEA,0,0,substituicao_entra,Alex
+607,1,10:00,CEA,0,0,substituicao_entra,Cauê
+608,1,10:00,NaN,0,0,inicio_partida,

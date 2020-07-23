@@ -1,0 +1,575 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,62,64,fim_partida,
+1,4,00:00,NaN,62,64,fim_quarto, 
+2,4,00:01,BOT,62,64,RD,Jamaal
+3,4,00:03,JLE,62,64,LL_Pts_T,A  Bambu
+4,4,00:03,JLE,62,64,LL_Pts_C,A  Bambu
+5,4,00:03,JLE,62,63,FR,A  Bambu
+6,4,00:03,BOT,62,63,FC,Erike
+7,4,00:03,BOT,62,63,3_Pts_C,Mogi
+8,4,00:18,BOT,59,63,RD,Maique
+9,4,00:19,JLE,59,63,LL_Pts_T,J  Socas
+10,4,00:19,JLE,59,63,LL_Pts_T,J  Socas
+11,4,00:19,BOT,59,63,substituicao_entra,Erike
+12,4,00:19,BOT,59,63,substituicao_sai,Ansaloni
+13,4,00:19,JLE,59,63,FR,J  Socas
+14,4,00:19,BOT,59,63,FC,Ansaloni
+15,4,00:20,JLE,59,63,RD,J  Socas
+16,4,00:21,BOT,59,63,LL_Pts_T,Jamaal
+17,4,00:21,BOT,59,63,LL_Pts_C,Jamaal
+18,4,00:21,BOT,58,63,FR,Jamaal
+19,4,00:21,JLE,58,63,FC,F  Vezaro
+20,4,00:24,BOT,58,63,RD,Mogi
+21,4,00:25,JLE,58,63,LL_Pts_T,Vezarinho
+22,4,00:25,JLE,58,63,LL_Pts_T,Vezarinho
+23,4,00:25,BOT,58,63,substituicao_entra,Ansaloni
+24,4,00:25,BOT,58,63,substituicao_sai,Arthur
+25,4,00:25,JLE,58,63,FR,Vezarinho
+26,4,00:25,BOT,58,63,FC,Arthur
+27,4,00:25,JLE,58,63,RD,Mathias
+28,4,00:27,BOT,58,63,3_Pts_T,Mogi
+29,4,00:34,BOT,58,63,FR,Jamaal
+30,4,00:34,JLE,58,63,FC,Mathias
+31,4,00:41,JLE,58,63,LL_Pts_C,J  Socas
+32,4,00:41,JLE,58,62,LL_Pts_T,J  Socas
+33,4,00:41,JLE,58,62,FR,J  Socas
+34,4,00:41,BOT,58,62,FC,Arthur
+35,4,00:43,BOT,58,62,substituicao_entra,Maique
+36,4,00:43,BOT,58,62,substituicao_sai,Ansaloni
+37,4,00:43,JLE,58,62, AABJ ,Joinville 
+38,4,00:43,BOT,58,62,3_Pts_C,Jamaal
+39,4,00:52,JLE,55,62,LL_Pts_C,F  Vezaro
+40,4,00:52,JLE,55,61,LL_Pts_C,F  Vezaro
+41,4,00:52,JLE,55,60,FR,F  Vezaro
+42,4,00:52,BOT,55,60,FC,Ansaloni
+43,4,01:00,BOT,55,60,2_Pts_C,Ansaloni
+44,4,01:00,BOT,53,60,RO,Ansaloni
+45,4,01:01,BOT,53,60,2_Pts_T,Mogi
+46,4,01:10,JLE,53,60,LL_Pts_C,Vezarinho
+47,4,01:10,JLE,53,59,LL_Pts_C,Vezarinho
+48,4,01:10,JLE,53,58,FR,Vezarinho
+49,4,01:10,BOT,53,58,FC,Arthur
+50,4,01:22,BOT,53,58,2_Pts_C,Jamaal
+51,4,01:28,JLE,51,58,2_Pts_C,A  Bambu
+52,4,01:40,JLE,51,56,LL_Pts_T,A  Bambu
+53,4,01:40,JLE,51,56,LL_Pts_T,A  Bambu
+54,4,01:40,JLE,51,56,FR,A  Bambu
+55,4,01:40,BOT,51,56,FC_A,Arthur
+56,4,01:41,JLE,51,56,BR,A  Bambu
+57,4,01:41,BOT,51,56,ER,Arthur
+58,4,01:48,BOT,51,56,RD,Ansaloni
+59,4,01:50,JLE,51,56,2_Pts_T,F  Vezaro
+60,4,02:14,JLE,51,56,substituicao_entra,A  Bambu
+61,4,02:14,JLE,51,56,substituicao_sai,Colimerio
+62,4,02:14,JLE,51,56,substituicao_entra,Mathias
+63,4,02:14,JLE,51,56,substituicao_sai,Jerônimo
+64,4,02:14,BOT,51,56,2_Pts_C,Arthur
+65,4,02:25,BOT,49,56,RD,Ansaloni
+66,4,02:27,JLE,49,56,3_Pts_T,Vezarinho
+67,4,02:34,JLE,49,56,RD,Jerônimo
+68,4,02:39,BOT,49,56,2_Pts_T,Arthur
+69,4,03:01,BOT,49,56,tempo_tecnico,Botafogo
+70,4,03:01,JLE,49,56,2_Pts_C,F  Vezaro
+71,4,03:01,JLE,49,54,RO,F  Vezaro
+72,4,03:01,JLE,49,54,3_Pts_T,J  Socas
+73,4,03:15,JLE,49,54,FR,Jerônimo
+74,4,03:15,BOT,49,54,FC,Arthur
+75,4,03:28,JLE,49,54,RO,F  Vezaro
+76,4,03:31,JLE,49,54,3_Pts_T,Colimerio
+77,4,03:52,JLE,49,54,FR,Jerônimo
+78,4,03:52,BOT,49,54,FC,Ansaloni
+79,4,03:52,JLE,49,54, AABJ ,Joinville 
+80,4,03:52,BOT,49,54,3_Pts_T,Cauê
+81,4,04:06,BOT,49,54,FR,Jamaal
+82,4,04:06,JLE,49,54,FC,Vezarinho
+83,4,04:16,JLE,49,54,substituicao_entra,Vezarinho
+84,4,04:16,JLE,49,54,substituicao_sai,Weihermann
+85,4,04:16,BOT,49,54,tempo_tecnico,Botafogo
+86,4,04:16,JLE,49,54,AS,F  Vezaro
+87,4,04:16,JLE,49,54,2_Pts_C,Colimerio
+88,4,04:35,JLE,49,52,RD,Colimerio
+89,4,04:37,BOT,49,52,3_Pts_T,Jamaal
+90,4,04:59,JLE,49,52,AS,F  Vezaro
+91,4,04:59,JLE,49,52,2_Pts_C,J  Socas
+92,4,05:19,BOT,49,50,substituicao_entra,Mogi
+93,4,05:19,BOT,49,50,substituicao_sai,Fabrício
+94,4,05:19,BOT,49,50,ER,
+95,4,05:19,BOT,49,50,RO,Ansaloni
+96,4,05:19,BOT,49,50,3_Pts_T,Jamaal
+97,4,05:41,BOT,49,50,RD,Ansaloni
+98,4,05:43,JLE,49,50,3_Pts_T,J  Socas
+99,4,06:01,JLE,49,50,substituicao_entra,Colimerio
+100,4,06:01,JLE,49,50,substituicao_sai,Mathias
+101,4,06:01,BOT,49,50,substituicao_entra,Ansaloni
+102,4,06:01,BOT,49,50,substituicao_sai,Maique
+103,4,06:01,JLE,49,50,substituicao_entra,Weihermann
+104,4,06:01,JLE,49,50,substituicao_sai,Vezarinho
+105,4,06:01,JLE,49,50, AABJ ,Joinville 
+106,4,06:01,BOT,49,50,3_Pts_T,Maique
+107,4,06:26,JLE,49,50,ER,Mathias
+108,4,06:48,BOT,49,50,2_Pts_C,Maique
+109,4,06:48,BOT,47,50,RO,Maique
+110,4,06:52,BOT,47,50,2_Pts_T,Arthur
+111,4,07:00,BOT,47,50,RD,Jamaal
+112,4,07:03,JLE,47,50,3_Pts_T,F  Vezaro
+113,4,07:07,JLE,47,50,substituicao_entra,F  Vezaro
+114,4,07:07,JLE,47,50,substituicao_sai,Dieguinho
+115,4,07:13,JLE,47,50,RO,Mathias
+116,4,07:15,JLE,47,50,2_Pts_T,Dieguinho
+117,4,07:26,JLE,47,50,RO,Jerônimo
+118,4,07:28,JLE,47,50,3_Pts_T,J  Socas
+119,4,07:42,JLE,47,50,RD,J  Socas
+120,4,07:44,BOT,47,50,2_Pts_T,Cauê
+121,4,07:54,JLE,47,50,substituicao_entra,Jerônimo
+122,4,07:54,JLE,47,50,substituicao_sai,A  Bambu
+123,4,07:54,JLE,47,50,substituicao_entra,Dieguinho
+124,4,07:54,JLE,47,50,substituicao_sai,F  Vezaro
+125,4,07:54,BOT,47,50,FR,Arthur
+126,4,07:54,JLE,47,50,FC,A  Bambu
+127,4,07:55,BOT,47,50,BR,Fabrício
+128,4,07:55,JLE,47,50,ER,Vezarinho
+129,4,08:12,BOT,47,50,substituicao_entra,Maique
+130,4,08:12,BOT,47,50,substituicao_sai,Ansaloni
+131,4,08:12,JLE,47,50,FR,J  Socas
+132,4,08:12,BOT,47,50,FC,Ansaloni
+133,4,08:13,JLE,47,50, AABJ ,Joinville 
+134,4,08:13,JLE,47,50,3_Pts_T,Mathias
+135,4,08:41,JLE,47,50,RD,A  Bambu
+136,4,08:41,BOT,47,50,3_Pts_T,Arthur
+137,4,08:42,JLE,47,50,substituicao_entra,F  Vezaro
+138,4,08:42,JLE,47,50,substituicao_sai,Dieguinho
+139,4,08:56,BOT,47,50,RO,Ansaloni
+140,4,08:59,BOT,47,50,3_Pts_T,Jamaal
+141,4,09:18,JLE,47,50,substituicao_entra,Dieguinho
+142,4,09:18,JLE,47,50,substituicao_sai,F  Vezaro
+143,4,09:18,BOT,47,50,FR,Jamaal
+144,4,09:18,JLE,47,50,ER,Mathias
+145,4,09:18,JLE,47,50,FC_O,Mathias
+146,4,09:36,JLE,47,50,FR,J  Socas
+147,4,09:36,BOT,47,50,FC,Fabrício
+148,4,09:36,JLE,47,50,RD,J  Socas
+149,4,09:38,BOT,47,50,2_Pts_T,Ansaloni
+150,4,10:00,NaN,47,50,inicio_quarto,
+151,3,00:00,NaN,47,50,fim_quarto,
+152,3,00:03,BOT,47,50,RO,Mogi
+153,3,00:03,BOT,47,50,2_Pts_T,Cauê
+154,3,00:12,JLE,47,50,substituicao_entra,Colimerio
+155,3,00:12,JLE,47,50,substituicao_sai,Mathias
+156,3,00:12,BOT,47,50,substituicao_entra,Jamaal
+157,3,00:12,BOT,47,50,substituicao_sai,Fabrício
+158,3,00:12,JLE,47,50,ER,Vezarinho
+159,3,00:27,JLE,47,50,RD,Vezarinho
+160,3,00:29,BOT,47,50,3_Pts_T,Mogi
+161,3,00:43,JLE,47,50,substituicao_entra,Vezarinho
+162,3,00:43,JLE,47,50,substituicao_sai,J  Socas
+163,3,00:43,BOT,47,50,substituicao_entra,Cauê
+164,3,00:43,BOT,47,50,substituicao_sai,Guga
+165,3,00:43,JLE,47,50,LL_Pts_C,J  Socas
+166,3,00:43,JLE,47,49,LL_Pts_T,J  Socas
+167,3,00:43,JLE,47,49,substituicao_entra,Rosniak
+168,3,00:43,JLE,47,49,substituicao_sai,A  Bambu
+169,3,00:43,JLE,47,49,FR,J  Socas
+170,3,00:43,BOT,47,49,FC,Guga
+171,3,00:57,BOT,47,49,AS,Guga
+172,3,00:57,BOT,47,49,2_Pts_C,Arthur
+173,3,01:14,JLE,45,49,substituicao_entra,Weihermann
+174,3,01:14,JLE,45,49,substituicao_sai,Vezarinho
+175,3,01:14,JLE,45,49,substituicao_entra,Dieguinho
+176,3,01:14,JLE,45,49,substituicao_sai,F  Vezaro
+177,3,01:14,BOT,45,49,substituicao_entra,Arthur
+178,3,01:14,BOT,45,49,substituicao_sai,Maique
+179,3,01:14,BOT,45,49,FR,Mogi
+180,3,01:14,JLE,45,49,FC,F  Vezaro
+181,3,01:18,JLE,45,49,3_Pts_C,J  Socas
+182,3,01:34,BOT,45,46,substituicao_entra,Mogi
+183,3,01:34,BOT,45,46,substituicao_sai,Arthur
+184,3,01:34,BOT,45,46,ER,
+185,3,01:58,JLE,45,46,substituicao_entra,J  Socas
+186,3,01:58,JLE,45,46,substituicao_sai,Dieguinho
+187,3,01:58,JLE,45,46,substituicao_entra,A  Bambu
+188,3,01:58,JLE,45,46,substituicao_sai,Weihermann
+189,3,01:58,JLE,45,46,substituicao_entra,F  Vezaro
+190,3,01:58,JLE,45,46,substituicao_sai,Colimerio
+191,3,01:58,JLE,45,46,substituicao_entra,Mathias
+192,3,01:58,JLE,45,46,substituicao_sai,Jerônimo
+193,3,01:58,BOT,45,46,substituicao_entra,Ansaloni
+194,3,01:58,BOT,45,46,substituicao_sai,Cauê
+195,3,01:58,JLE,45,46,ER,
+196,3,01:59,JLE,45,46,RO,Vezarinho
+197,3,02:03,BOT,45,46,TO,Maique
+198,3,02:03,JLE,45,46,,
+199,3,02:26,BOT,45,46,2_Pts_C,Guga
+200,3,02:38,BOT,43,46,FR,Maique
+201,3,02:38,JLE,43,46,FC,Jerônimo
+202,3,02:48,JLE,43,46,LL_Pts_C,Weihermann
+203,3,02:48,JLE,43,45,FR,Weihermann
+204,3,02:48,BOT,43,45,FC,Guga
+205,3,02:48,JLE,43,45,AS,Vezarinho
+206,3,02:48,JLE,43,45,3_Pts_C,Weihermann
+207,3,03:02,JLE,43,42,RD,Colimerio
+208,3,03:03,BOT,43,42,LL_Pts_T,Cauê
+209,3,03:03,BOT,43,42,LL_Pts_T,Cauê
+210,3,03:03,BOT,43,42,FR,Cauê
+211,3,03:03,JLE,43,42,FC,Vezarinho
+212,3,03:16,JLE,43,42,substituicao_entra,Dieguinho
+213,3,03:16,JLE,43,42,substituicao_sai,J  Socas
+214,3,03:16,JLE,43,42,ER,Colimerio
+215,3,03:28,JLE,43,42,substituicao_entra,Jerônimo
+216,3,03:28,JLE,43,42,substituicao_sai,Mathias
+217,3,03:28,JLE,43,42,FR,Mathias
+218,3,03:28,BOT,43,42,ER,Guga
+219,3,03:28,BOT,43,42,FC_O,Guga
+220,3,03:38,BOT,43,42,RD,Maique
+221,3,03:41,JLE,43,42,2_Pts_T,Vezarinho
+222,3,03:58,JLE,43,42, AABJ ,Joinville 
+223,3,03:58,JLE,43,42,3_Pts_T,Vezarinho
+224,3,04:15,JLE,43,42,substituicao_entra,Weihermann
+225,3,04:15,JLE,43,42,substituicao_sai,F  Vezaro
+226,3,04:15,BOT,43,42,substituicao_entra,Fabrício
+227,3,04:15,BOT,43,42,substituicao_sai,Mogi
+228,3,04:15,JLE,43,42,FR,F  Vezaro
+229,3,04:15,BOT,43,42,FC,Mogi
+230,3,04:24,JLE,43,42,RD,Mathias
+231,3,04:26,BOT,43,42,3_Pts_T,Mogi
+232,3,04:34,BOT,43,42,RD,Guga
+233,3,04:36,JLE,43,42,2_Pts_T,Mathias
+234,3,04:53,BOT,43,42,AS,Cauê
+235,3,04:53,BOT,43,42,3_Pts_C,Arthur
+236,3,05:02,BOT,40,42,RD,Guga
+237,3,05:04,JLE,40,42,3_Pts_T,Mathias
+238,3,05:11,JLE,40,42,substituicao_entra,Colimerio
+239,3,05:11,JLE,40,42,substituicao_sai,A  Bambu
+240,3,05:11,JLE,40,42,FR,Vezarinho
+241,3,05:11,BOT,40,42,FC,Cauê
+242,3,05:23,BOT,40,42,substituicao_entra,Maique
+243,3,05:23,BOT,40,42,substituicao_sai,Ansaloni
+244,3,05:24,JLE,40,42,RO,Vezarinho
+245,3,05:26,JLE,40,42,2_Pts_T,Vezarinho
+246,3,05:45,JLE,40,42,BR,Mathias
+247,3,05:45,BOT,40,42,ER,Ansaloni
+248,3,06:06,JLE,40,42,substituicao_entra,Vezarinho
+249,3,06:06,JLE,40,42,substituicao_sai,Dieguinho
+250,3,06:06,BOT,40,42,tempo_tecnico,Botafogo
+251,3,06:06,JLE,40,42,AS,Dieguinho
+252,3,06:06,JLE,40,42,2_Pts_C,Mathias
+253,3,06:18,JLE,40,40, AABJ ,Joinville 
+254,3,06:18,BOT,40,40,TO,Cauê
+255,3,06:18,JLE,40,40,2_Pts_T,Mathias
+256,3,06:21,JLE,40,40,BR,J  Socas
+257,3,06:21,BOT,40,40,ER,Cauê
+258,3,06:36,JLE,40,40,AS,J  Socas
+259,3,06:36,JLE,40,40,3_Pts_C,A  Bambu
+260,3,06:44,JLE,40,37,RD,Mathias
+261,3,06:48,BOT,40,37,2_Pts_T,Arthur
+262,3,07:10,JLE,40,37,3_Pts_C,F  Vezaro
+263,3,07:17,BOT,40,34,substituicao_entra,Guga
+264,3,07:17,BOT,40,34,substituicao_sai,Jamaal
+265,3,07:17,JLE,40,34,FR,A  Bambu
+266,3,07:17,BOT,40,34,FC,Jamaal
+267,3,07:34,BOT,40,34,2_Pts_C,Jamaal
+268,3,07:43,JLE,38,34,substituicao_entra,Dieguinho
+269,3,07:43,JLE,38,34,substituicao_sai,Vezarinho
+270,3,07:43,BOT,38,34,FR,Cauê
+271,3,07:43,JLE,38,34,FC,Vezarinho
+272,3,07:48,BOT,38,34,RD,Mogi
+273,3,07:51,JLE,38,34,3_Pts_T,J  Socas
+274,3,08:08,BOT,38,34,AS,Cauê
+275,3,08:08,BOT,38,34,2_Pts_C,Ansaloni
+276,3,08:29,JLE,36,34,AS,Vezarinho
+277,3,08:29,JLE,36,34,3_Pts_C,A  Bambu
+278,3,08:49,BOT,36,31,AS,Mogi
+279,3,08:49,BOT,36,31,2_Pts_C,Arthur
+280,3,09:10,BOT,34,31,BR,Ansaloni
+281,3,09:10,JLE,34,31,ER,Vezarinho
+282,3,09:21,JLE,34,31,FR,F  Vezaro
+283,3,09:21,BOT,34,31,FC,Jamaal
+284,3,09:27,JLE,34,31,RD,J  Socas
+285,3,09:29,BOT,34,31,2_Pts_T,Ansaloni
+286,3,09:47,JLE,34,31,ER,Mathias
+287,3,09:48,JLE,34,31,RO,Mathias
+288,3,09:48,JLE,34,31,2_Pts_T,Mathias
+289,3,10:00,NaN,34,31,inicio_quarto,
+290,2,00:00,NaN,34,31,fim_quarto,
+291,2,00:04,BOT,34,31,AS,Jamaal
+292,2,00:04,BOT,34,31,2_Pts_C,Mogi
+293,2,00:12,BOT,32,31,FR,Arthur
+294,2,00:12,JLE,32,31,FC,Jerônimo
+295,2,00:16,JLE,32,31,substituicao_entra,Weihermann
+296,2,00:16,JLE,32,31,substituicao_sai,Vezarinho
+297,2,00:16,JLE,32,31,substituicao_entra,Dieguinho
+298,2,00:16,JLE,32,31,substituicao_sai,F  Vezaro
+299,2,00:16,JLE,32,31,substituicao_entra,Jerônimo
+300,2,00:16,JLE,32,31,substituicao_sai,Mathias
+301,2,00:16,BOT,32,31,substituicao_entra,Fabrício
+302,2,00:16,BOT,32,31,substituicao_sai,Ansaloni
+303,2,00:16,BOT,32,31,FR,Ansaloni
+304,2,00:16,JLE,32,31,FC,F  Vezaro
+305,2,00:16,BOT,32,31,RO,Ansaloni
+306,2,00:18,BOT,32,31,3_Pts_T,Cauê
+307,2,00:30,BOT,32,31,RO,Cauê
+308,2,00:32,BOT,32,31,2_Pts_T,Ansaloni
+309,2,00:41,JLE,32,31,ER,Colimerio
+310,2,00:52,JLE,32,31,substituicao_entra,Vezarinho
+311,2,00:52,JLE,32,31,substituicao_sai,Weihermann
+312,2,00:52,JLE,32,31, AABJ ,Joinville 
+313,2,00:52,JLE,32,31,3_Pts_T,F  Vezaro
+314,2,01:00,JLE,32,31,BR,J  Socas
+315,2,01:00,BOT,32,31,ER,Mogi
+316,2,01:04,BOT,32,31,RD,Mogi
+317,2,01:06,JLE,32,31,3_Pts_T,F  Vezaro
+318,2,01:18,JLE,32,31,RD,J  Socas
+319,2,01:20,BOT,32,31,3_Pts_T,Jamaal
+320,2,01:40,BOT,32,31,FR,Mogi
+321,2,01:40,JLE,32,31,ER,F  Vezaro
+322,2,01:40,JLE,32,31,FC_O,F  Vezaro
+323,2,01:52,BOT,32,31,AS,Arthur
+324,2,01:52,BOT,32,31,2_Pts_C,Ansaloni
+325,2,01:53,BOT,30,31,RO,Arthur
+326,2,01:55,BOT,30,31,2_Pts_T,Ansaloni
+327,2,01:56,BOT,30,31,RO,Ansaloni
+328,2,01:59,BOT,30,31,3_Pts_T,Mogi
+329,2,02:22,BOT,30,31,RD,Jamaal
+330,2,02:26,JLE,30,31,2_Pts_T,F  Vezaro
+331,2,02:40,JLE,30,31,RD,F  Vezaro
+332,2,02:43,BOT,30,31,3_Pts_T,Cauê
+333,2,02:47,BOT,30,31,substituicao_entra,Arthur
+334,2,02:47,BOT,30,31,substituicao_sai,Fabrício
+335,2,03:09,JLE,30,31,substituicao_entra,Colimerio
+336,2,03:09,JLE,30,31,substituicao_sai,Jerônimo
+337,2,03:09,BOT,30,31,RD,Botafogo
+338,2,03:09,JLE,30,31,3_Pts_T,Weihermann
+339,2,03:33,JLE,30,31,substituicao_entra,Weihermann
+340,2,03:33,JLE,30,31,substituicao_sai,A  Bambu
+341,2,03:33,JLE,30,31,substituicao_entra,Mathias
+342,2,03:33,JLE,30,31,substituicao_sai,Vezarinho
+343,2,03:33,JLE,30,31, AABJ ,Joinville 
+344,2,03:33,BOT,30,31,AS,Ansaloni
+345,2,03:33,BOT,30,31,2_Pts_C,Cauê
+346,2,03:48,BOT,28,31,RD,Fabrício
+347,2,03:50,JLE,28,31,2_Pts_T,Jerônimo
+348,2,04:10,BOT,28,31,2_Pts_C,Fabrício
+349,2,04:10,BOT,26,31,RO,Fabrício
+350,2,04:12,BOT,26,31,3_Pts_T,Ansaloni
+351,2,04:21,BOT,26,31,RD,Fabrício
+352,2,04:25,JLE,26,31,2_Pts_T,Vezarinho
+353,2,04:36,BOT,26,31,substituicao_entra,Fabrício
+354,2,04:36,BOT,26,31,substituicao_sai,Arthur
+355,2,04:36,BOT,26,31,,
+356,2,04:51,JLE,26,31,AS,F  Vezaro
+357,2,04:51,JLE,26,31,EN,Jerônimo
+358,2,05:00,JLE,26,29,FR,F  Vezaro
+359,2,05:00,BOT,26,29,FC,Mogi
+360,2,05:16,JLE,26,29,RD,Jerônimo
+361,2,05:18,BOT,26,29,2_Pts_T,Ansaloni
+362,2,05:42,JLE,26,29,,
+363,2,05:56,BOT,26,29,AS,Arthur
+364,2,05:56,BOT,26,29,3_Pts_C,Jamaal
+365,2,06:06,BOT,23,29,RD,Mogi
+366,2,06:08,JLE,23,29,2_Pts_T,Jerônimo
+367,2,06:30,JLE,23,29,substituicao_entra,A  Bambu
+368,2,06:30,JLE,23,29,substituicao_sai,Mathias
+369,2,06:30,JLE,23,29,substituicao_entra,Jerônimo
+370,2,06:30,JLE,23,29,substituicao_sai,Colimerio
+371,2,06:30,JLE,23,29, AABJ ,Joinville 
+372,2,06:31,BOT,23,29,2_Pts_C,Cauê
+373,2,06:36,BOT,21,29,BR,Cauê
+374,2,06:36,JLE,21,29,ER,Colimerio
+375,2,07:04,BOT,21,29,AS,Ansaloni
+376,2,07:04,BOT,21,29,2_Pts_C,Mogi
+377,2,07:07,BOT,19,29,RO,Ansaloni
+378,2,07:09,BOT,19,29,3_Pts_T,Mogi
+379,2,07:23,BOT,19,29,tempo_tecnico,Botafogo
+380,2,07:23,JLE,19,29,AS,F  Vezaro
+381,2,07:23,JLE,19,29,2_Pts_C,Vezarinho
+382,2,07:25,JLE,19,27,RD,F  Vezaro
+383,2,07:27,BOT,19,27,2_Pts_T,Jamaal
+384,2,07:51,JLE,19,27,LL_Pts_C,Vezarinho
+385,2,07:51,JLE,19,26,LL_Pts_C,Vezarinho
+386,2,07:51,JLE,19,25,substituicao_entra,F  Vezaro
+387,2,07:51,JLE,19,25,substituicao_sai,Weihermann
+388,2,07:51,BOT,19,25,substituicao_entra,Mogi
+389,2,07:51,BOT,19,25,substituicao_sai,Maique
+390,2,07:51,BOT,19,25,substituicao_entra,Arthur
+391,2,07:51,BOT,19,25,substituicao_sai,Guga
+392,2,07:51,JLE,19,25,FR,Vezarinho
+393,2,07:51,BOT,19,25,FC,Maique
+394,2,08:20,JLE,19,25,RD,Weihermann
+395,2,08:22,BOT,19,25,3_Pts_T,Guga
+396,2,08:46,JLE,19,25,2_Pts_C,Mathias
+397,2,09:00,JLE,19,23,BR,J  Socas
+398,2,09:00,BOT,19,23,ER,Guga
+399,2,09:21,JLE,19,23,2_Pts_C,Mathias
+400,2,09:21,JLE,19,21,RO,Mathias
+401,2,09:24,JLE,19,21,2_Pts_T,Colimerio
+402,2,09:33,JLE,19,21,RO,J  Socas
+403,2,09:37,JLE,19,21,2_Pts_T,Colimerio
+404,2,09:54,JLE,19,21,RD,J  Socas
+405,2,09:56,BOT,19,21,3_Pts_T,Ansaloni
+406,2,09:59,JLE,19,21,substituicao_entra,J  Socas
+407,2,09:59,JLE,19,21,substituicao_sai,Dieguinho
+408,2,09:59,JLE,19,21,substituicao_entra,Mathias
+409,2,09:59,JLE,19,21,substituicao_sai,Rosniak
+410,2,09:59,JLE,19,21,substituicao_entra,Vezarinho
+411,2,09:59,JLE,19,21,substituicao_sai,Jerônimo
+412,2,09:59,BOT,19,21,substituicao_entra,Maique
+413,2,09:59,BOT,19,21,substituicao_sai,Arthur
+414,2,09:59,BOT,19,21,substituicao_entra,Ansaloni
+415,2,09:59,BOT,19,21,substituicao_sai,Mogi
+416,2,10:00,NaN,19,21,inicio_quarto,
+417,1,00:00,NaN,19,21,fim_quarto,
+418,1,00:01,BOT,19,21,LL_Pts_C,Guga
+419,1,00:01,BOT,18,21,LL_Pts_T,Guga
+420,1,00:01,BOT,18,21,LL_Pts_T,Guga
+421,1,00:01,BOT,18,21,FR,Guga
+422,1,00:01,JLE,18,21,FC,Rosniak
+423,1,00:03,JLE,18,21,substituicao_entra,Rosniak
+424,1,00:03,JLE,18,21,substituicao_sai,J  Socas
+425,1,00:03,BOT,18,21,substituicao_entra,Guga
+426,1,00:03,BOT,18,21,substituicao_sai,Maique
+427,1,00:03,JLE,18,21,LL_Pts_C,J  Socas
+428,1,00:03,JLE,18,20,LL_Pts_C,J  Socas
+429,1,00:03,JLE,18,19,substituicao_entra,Dieguinho
+430,1,00:03,JLE,18,19,substituicao_sai,A  Bambu
+431,1,00:03,JLE,18,19,substituicao_entra,Weihermann
+432,1,00:03,JLE,18,19,substituicao_sai,Mathias
+433,1,00:03,JLE,18,19,substituicao_entra,Colimerio
+434,1,00:03,JLE,18,19,substituicao_sai,F  Vezaro
+435,1,00:03,JLE,18,19,substituicao_entra,Jerônimo
+436,1,00:03,JLE,18,19,substituicao_sai,Vezarinho
+437,1,00:03,BOT,18,19,substituicao_entra,Jamaal
+438,1,00:03,BOT,18,19,substituicao_sai,Coelho
+439,1,00:03,JLE,18,19,FR,J  Socas
+440,1,00:03,BOT,18,19,FC,Maique
+441,1,00:07,JLE,18,19,RO,Mathias
+442,1,00:07,BOT,18,19,TO,Maique
+443,1,00:07,JLE,18,19,2_Pts_T,Vezarinho
+444,1,00:18,JLE,18,19,FR,Mathias
+445,1,00:18,BOT,18,19,FC,Maique
+446,1,00:18,JLE,18,19, AABJ ,Joinville 
+447,1,00:18,JLE,18,19,3_Pts_T,J  Socas
+448,1,00:38,BOT,18,19,LL_Pts_C,Maique
+449,1,00:38,BOT,17,19,AS,Coelho
+450,1,00:38,BOT,17,19,LL_Pts_C,Maique
+451,1,00:38,BOT,16,19,FR,Maique
+452,1,00:38,JLE,16,19,FC,A  Bambu
+453,1,00:47,BOT,16,19,RD,Maique
+454,1,00:50,JLE,16,19,2_Pts_T,A  Bambu
+455,1,00:59,JLE,16,19,substituicao_entra,F  Vezaro
+456,1,00:59,JLE,16,19,substituicao_sai,Weihermann
+457,1,00:59,JLE,16,19, AABJ ,Joinville 
+458,1,00:59,BOT,16,19,3_Pts_T,Cauê
+459,1,01:20,BOT,16,19,substituicao_entra,Cauê
+460,1,01:20,BOT,16,19,substituicao_sai,Jamaal
+461,1,01:20,JLE,16,19,substituicao_entra,Weihermann
+462,1,01:20,JLE,16,19,substituicao_sai,F  Vezaro
+463,1,01:20,JLE,16,19,substituicao_entra,Mathias
+464,1,01:20,JLE,16,19,substituicao_sai,Jerônimo
+465,1,01:20,JLE,16,19,substituicao_entra,J  Socas
+466,1,01:20,JLE,16,19,substituicao_sai,Dieguinho
+467,1,01:28,BOT,16,19,BR,Jamaal
+468,1,01:28,JLE,16,19,ER,Jerônimo
+469,1,01:44,JLE,16,19,RD,F  Vezaro
+470,1,01:46,BOT,16,19,3_Pts_T,Mogi
+471,1,02:02,BOT,16,19,RD,Mogi
+472,1,02:04,JLE,16,19,2_Pts_T,F  Vezaro
+473,1,02:23,JLE,16,19,RD,A  Bambu
+474,1,02:24,BOT,16,19,LL_Pts_T,Mogi
+475,1,02:24,JLE,16,19,substituicao_entra,Vezarinho
+476,1,02:24,JLE,16,19,substituicao_sai,Weihermann
+477,1,02:24,BOT,16,19,FR,Mogi
+478,1,02:24,JLE,16,19,FC,Jerônimo
+479,1,02:24,BOT,16,19,2_Pts_C,Mogi
+480,1,02:33,BOT,14,19,RD,Mogi
+481,1,02:37,BOT,14,19,TO,Maique
+482,1,02:37,JLE,14,19,2_Pts_T,Dieguinho
+483,1,02:50,JLE,14,19,RD,Jerônimo
+484,1,02:51,BOT,14,19,2_Pts_T,Arthur
+485,1,02:51,BOT,14,19,RO,Arthur
+486,1,02:54,BOT,14,19,3_Pts_T,Mogi
+487,1,03:08,JLE,14,19,substituicao_entra,Dieguinho
+488,1,03:08,JLE,14,19,substituicao_sai,J  Socas
+489,1,03:08,JLE,14,19,substituicao_entra,A  Bambu
+490,1,03:08,JLE,14,19,substituicao_sai,Mathias
+491,1,03:08,BOT,14,19,substituicao_entra,Coelho
+492,1,03:08,BOT,14,19,substituicao_sai,Cauê
+493,1,03:08,BOT,14,19,tempo_tecnico,Botafogo
+494,1,03:08,JLE,14,19,AS,J  Socas
+495,1,03:08,JLE,14,19,3_Pts_C,F  Vezaro
+496,1,03:21,BOT,14,16,substituicao_entra,Maique
+497,1,03:21,BOT,14,16,substituicao_sai,Ansaloni
+498,1,03:21,BOT,14,16,ER,Cauê
+499,1,03:27,BOT,14,16,BR,Mogi
+500,1,03:27,JLE,14,16,ER,F  Vezaro
+501,1,03:33,JLE,14,16,RD,J  Socas
+502,1,03:35,BOT,14,16,3_Pts_T,Ansaloni
+503,1,03:56,JLE,14,16,AS,J  Socas
+504,1,03:56,JLE,14,16,3_Pts_C,F  Vezaro
+505,1,04:08,JLE,14,13,BR,F  Vezaro
+506,1,04:08,BOT,14,13,ER,Jamaal
+507,1,04:26,JLE,14,13,AS,J  Socas
+508,1,04:26,JLE,14,13,3_Pts_C,Weihermann
+509,1,04:41,BOT,14,10,substituicao_entra,Mogi
+510,1,04:41,BOT,14,10,substituicao_sai,Coelho
+511,1,04:41,JLE,14,10,substituicao_entra,Weihermann
+512,1,04:41,JLE,14,10,substituicao_sai,Vezarinho
+513,1,04:41,JLE,14,10,substituicao_entra,Jerônimo
+514,1,04:41,JLE,14,10,substituicao_sai,A  Bambu
+515,1,04:51,BOT,14,10,AS,Ansaloni
+516,1,04:51,BOT,14,10,3_Pts_C,Jamaal
+517,1,05:07,BOT,11,10,RD,Botafogo
+518,1,05:07,JLE,11,10,3_Pts_T,Mathias
+519,1,05:23,BOT,11,10,AS,Cauê
+520,1,05:23,BOT,11,10,2_Pts_C,Arthur
+521,1,05:35,JLE,9,10,LL_Pts_C,A  Bambu
+522,1,05:35,JLE,9,9,LL_Pts_T,A  Bambu
+523,1,05:35,JLE,9,9,FR,A  Bambu
+524,1,05:35,BOT,9,9,FC,Ansaloni
+525,1,05:36,JLE,9,9,RO,A  Bambu
+526,1,05:36,JLE,9,9,3_Pts_T,J  Socas
+527,1,05:46,JLE,9,9,FR,Vezarinho
+528,1,05:46,BOT,9,9,FC,Jamaal
+529,1,05:50,JLE,9,9,FR,F  Vezaro
+530,1,05:50,BOT,9,9,FC,Coelho
+531,1,06:01,BOT,9,9,2_Pts_C,Cauê
+532,1,06:06,BOT,7,9,BR,Cauê
+533,1,06:06,JLE,7,9,ER,J  Socas
+534,1,06:20,BOT,7,9,LL_Pts_C,Arthur
+535,1,06:20,BOT,6,9,AS,Ansaloni
+536,1,06:20,BOT,6,9,LL_Pts_C,Arthur
+537,1,06:20,BOT,5,9,FR,Arthur
+538,1,06:20,JLE,5,9,FC,Mathias
+539,1,06:34,BOT,5,9,RD,Ansaloni
+540,1,06:36,JLE,5,9,2_Pts_T,Vezarinho
+541,1,07:01,BOT,5,9,AS,Jamaal
+542,1,07:01,BOT,5,9,2_Pts_C,Ansaloni
+543,1,07:32,JLE,3,9,AS,Mathias
+544,1,07:32,JLE,3,9,3_Pts_C,Vezarinho
+545,1,07:45,JLE,3,6,BR,Mathias
+546,1,07:45,BOT,3,6,ER,Ansaloni
+547,1,08:11,JLE,3,6,AS,J  Socas
+548,1,08:11,JLE,3,6,2_Pts_C,Vezarinho
+549,1,08:17,JLE,3,4,BR,F  Vezaro
+550,1,08:17,BOT,3,4,ER,Coelho
+551,1,08:31,JLE,3,4,AS,F  Vezaro
+552,1,08:31,JLE,3,4,2_Pts_C,Mathias
+553,1,08:47,BOT,3,2,3_Pts_C,Coelho
+554,1,08:57,BOT,0,2,RO,Coelho
+555,1,08:59,BOT,0,2,2_Pts_T,Cauê
+556,1,09:09,JLE,0,2,2_Pts_C,Mathias
+557,1,09:09,JLE,0,0,RO,Mathias
+558,1,09:12,JLE,0,0,3_Pts_T,J  Socas
+559,1,09:31,JLE,0,0,RD,Vezarinho
+560,1,09:33,BOT,0,0,2_Pts_T,Ansaloni
+561,1,09:54,BOT,0,0,RD,Coelho
+562,1,09:57,JLE,0,0,2_Pts_T,Vezarinho
+563,1,10:00,JLE,0,0,substituicao_entra,J  Socas
+564,1,10:00,JLE,0,0,substituicao_entra,A  Bambu
+565,1,10:00,JLE,0,0,substituicao_entra,Mathias
+566,1,10:00,JLE,0,0,substituicao_entra,F  Vezaro
+567,1,10:00,JLE,0,0,substituicao_entra,Vezarinho
+568,1,10:00,BOT,0,0,substituicao_entra,Arthur
+569,1,10:00,BOT,0,0,substituicao_entra,Ansaloni
+570,1,10:00,BOT,0,0,substituicao_entra,Jamaal
+571,1,10:00,BOT,0,0,substituicao_entra,Cauê
+572,1,10:00,BOT,0,0,substituicao_entra,Coelho
+573,1,10:00,NaN,0,0,inicio_partida,

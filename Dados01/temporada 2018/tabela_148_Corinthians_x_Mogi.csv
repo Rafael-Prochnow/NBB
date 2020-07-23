@@ -1,0 +1,521 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,90,79,fim_partida,
+1,4,00:00,NaN,90,79,fim_quarto, 
+2,4,00:02,COR,90,79,RD,Douglas Santos
+3,4,00:02,MOG,90,79,3_Pts_T,Shamell
+4,4,00:09,COR,90,79,ER,Douglas Santos
+5,4,00:20,COR,90,79,RO,Douglas Santos
+6,4,00:24,COR,90,79,3_Pts_T,Aguiar
+7,4,00:39,MOG,90,79,LL_Pts_C,Shamell
+8,4,00:39,MOG,90,78,LL_Pts_C,Shamell
+9,4,00:39,MOG,90,77,FR,Shamell
+10,4,00:39,COR,90,77,FC,Gustavinho
+11,4,00:41,MOG,90,77,RO,Shamell
+12,4,00:42,MOG,90,77,2_Pts_T,Arthur Pecos
+13,4,00:42,MOG,90,77,RD,Shamell
+14,4,00:50,MOG,90,77,TO,Gruber
+15,4,00:50,COR,90,77,2_Pts_T,Teichmann
+16,4,01:11,MOG,90,77,AS,Shamell
+17,4,01:11,MOG,90,77,2_Pts_C,Arthur Pecos
+18,4,01:28,COR,90,75,3_Pts_C,Fuller
+19,4,01:41,COR,87,75,RD,Gustavinho
+20,4,01:44,MOG,87,75,2_Pts_T,Gruber
+21,4,01:44,MOG,87,75,RO,Gruber
+22,4,01:50,MOG,87,75,2_Pts_T,JP Batista
+23,4,02:04,COR,87,75,LL_Pts_C,Fuller
+24,4,02:04,COR,86,75,LL_Pts_C,Fuller
+25,4,02:04,COR,85,75,FR,Fuller
+26,4,02:04,MOG,85,75,FC,JP Batista
+27,4,02:05,MOG,85,75,LL_Pts_C,Shamell
+28,4,02:05,MOG,85,74,FR,Shamell
+29,4,02:05,COR,85,74,FC,Douglas Santos
+30,4,02:05,MOG,85,74,AS,Arthur Pecos
+31,4,02:05,MOG,85,74,2_Pts_C,Shamell
+32,4,02:05,MOG,85,72,RD,Arthur Pecos
+33,4,02:18,MOG,85,72,TO,Gruber
+34,4,02:18,COR,85,72,2_Pts_T,Gustavinho
+35,4,02:20,COR,85,72,RO,Teichmann
+36,4,02:24,COR,85,72,3_Pts_T,Gustavinho
+37,4,02:43,COR,85,72,RD,Teichmann
+38,4,02:45,MOG,85,72,LL_Pts_T,Gruber
+39,4,02:45,MOG,85,72,LL_Pts_T,Gruber
+40,4,02:49,MOG,85,72,FR,Gruber
+41,4,02:49,COR,85,72,FC,Douglas Santos
+42,4,03:08,COR,85,72,2_Pts_C,Fuller
+43,4,03:25,COR,83,72,RD,Douglas Santos
+44,4,03:30,MOG,83,72,2_Pts_T,Deodato
+45,4,03:42,MOG,83,72,FR,Deodato
+46,4,03:42,COR,83,72,ER,Teichmann
+47,4,03:42,COR,83,72,FC_O,Teichmann
+48,4,03:51,COR,83,72,RD,Gustavinho
+49,4,03:53,MOG,83,72,LL_Pts_T,Gruber
+50,4,03:53,MOG,83,72,LL_Pts_C,Gruber
+51,4,03:53,COR,83,71,substituicao_entra,Teichmann
+52,4,03:53,COR,83,71,substituicao_sai,Shilton
+53,4,03:53,MOG,83,71,FR,Gruber
+54,4,03:53,COR,83,71,FC,Shilton
+55,4,04:07,COR,83,71,ER,Aguiar
+56,4,04:24,MOG,83,71,AS,Arthur Pecos
+57,4,04:24,MOG,83,71,3_Pts_C,Gruber
+58,4,04:25,MOG,83,68,RO,Arthur Pecos
+59,4,04:30,MOG,83,68,2_Pts_T,JP Batista
+60,4,04:43,COR,83,68,LL_Pts_C,Aguiar
+61,4,04:43,COR,82,68,LL_Pts_C,Aguiar
+62,4,04:43,COR,81,68,FR,Aguiar
+63,4,04:43,MOG,81,68,FC,JP Batista
+64,4,05:06,MOG,81,68,AS,JP Batista
+65,4,05:06,MOG,81,68,3_Pts_C,Arthur Pecos
+66,4,05:17,MOG,81,65,tempo_tecnico,Mogi
+67,4,05:17,COR,81,65,AS,Aguiar
+68,4,05:17,COR,81,65,2_Pts_C,Fuller
+69,4,05:24,COR,79,65,BR,Aguiar
+70,4,05:24,MOG,79,65,ER,Arthur Pecos
+71,4,05:24,MOG,79,65,RD,Shamell
+72,4,05:29,COR,79,65,2_Pts_T,Fuller
+73,4,05:42,COR,79,65,RD,Douglas Santos
+74,4,05:45,MOG,79,65,3_Pts_T,Shamell
+75,4,05:51,MOG,79,65,RD,Mogi
+76,4,05:55,COR,79,65,2_Pts_T,Douglas Santos
+77,4,05:55,COR,79,65,RO,Douglas Santos
+78,4,06:00,COR,79,65,2_Pts_T,Gustavinho
+79,4,06:06,MOG,79,65,substituicao_entra,Gruber
+80,4,06:06,MOG,79,65,substituicao_sai,Cafferata
+81,4,06:06,COR,79,65,FR,Douglas Santos
+82,4,06:06,MOG,79,65,FC,Shamell
+83,4,06:12,COR,79,65,RD,Douglas Santos
+84,4,06:17,MOG,79,65,3_Pts_T,Cafferata
+85,4,06:21,COR,79,65,LL_Pts_C,Aguiar
+86,4,06:21,COR,78,65,LL_Pts_C,Aguiar
+87,4,06:21,COR,77,65,FR,Aguiar
+88,4,06:21,MOG,77,65,FC,JP Batista
+89,4,06:38,COR,77,65,RD,Gustavinho
+90,4,06:43,MOG,77,65,2_Pts_T,Arthur Pecos
+91,4,07:03,COR,77,65,LL_Pts_C,Fuller
+92,4,07:03,COR,76,65,LL_Pts_C,Fuller
+93,4,07:03,COR,75,65,FR,Fuller
+94,4,07:03,MOG,75,65,FC,Cafferata
+95,4,07:13,MOG,75,65,substituicao_entra,Deodato
+96,4,07:13,MOG,75,65,substituicao_sai,Gruber
+97,4,07:13,COR,75,65,FR,Douglas Santos
+98,4,07:13,MOG,75,65,FC,Gruber
+99,4,07:13,COR,75,65,RO,Douglas Santos
+100,4,07:17,COR,75,65,2_Pts_T,Douglas Santos
+101,4,07:43,MOG,75,65,AS,Shamell
+102,4,07:43,MOG,75,65,2_Pts_C,Arthur Pecos
+103,4,07:48,MOG,75,63,BR,Shamell
+104,4,07:48,COR,75,63,ER,Gustavinho
+105,4,08:03,MOG,75,63,2_Pts_C,Gruber
+106,4,08:07,COR,75,61,substituicao_entra,Douglas Santos
+107,4,08:07,COR,75,61,substituicao_sai,Giovannoni
+108,4,08:07,MOG,75,61,FR,Shamell
+109,4,08:07,COR,75,61,FC,Giovannoni
+110,4,08:13,MOG,75,61,RD,Gruber
+111,4,08:16,COR,75,61,3_Pts_T,Giovannoni
+112,4,08:20,COR,75,61,RD,Giovannoni
+113,4,08:24,MOG,75,61,2_Pts_T,Gruber
+114,4,08:25,MOG,75,61,RO,Gruber
+115,4,08:28,MOG,75,61,3_Pts_T,Cafferata
+116,4,08:32,MOG,75,61,LL_Pts_C,Shamell
+117,4,08:32,COR,75,60,FC_T,Gustavinho
+118,4,08:32,MOG,75,60,FR,Arthur Pecos
+119,4,08:32,COR,75,60,FC,Gustavinho
+120,4,08:32,MOG,75,60,RO,Arthur Pecos
+121,4,08:35,MOG,75,60,3_Pts_T,Gruber
+122,4,08:45,COR,75,60,2_Pts_C,Gustavinho
+123,4,08:52,MOG,73,60,AS,Arthur Pecos
+124,4,08:52,MOG,73,60,2_Pts_C,JP Batista
+125,4,09:14,COR,73,58,AS,Shilton
+126,4,09:14,COR,73,58,3_Pts_C,Giovannoni
+127,4,09:26,MOG,70,58,2_Pts_C,JP Batista
+128,4,09:26,MOG,70,56,RO,JP Batista
+129,4,09:32,MOG,70,56,2_Pts_T,JP Batista
+130,4,09:46,COR,70,56,AS,Fuller
+131,4,09:46,COR,70,56,3_Pts_C,Gustavinho
+132,4,10:00,NaN,67,56,inicio_quarto,
+133,3,00:00,NaN,67,56,fim_quarto,
+134,3,00:03,MOG,67,56,3_Pts_T,Cafferata
+135,3,00:06,COR,67,56,2_Pts_C,Gustavinho
+136,3,00:26,MOG,65,56,substituicao_entra,Lessa
+137,3,00:26,MOG,65,56,substituicao_sai,Shamell
+138,3,00:26,MOG,65,56,LL_Pts_C,Shamell
+139,3,00:26,MOG,65,55,LL_Pts_C,Shamell
+140,3,00:26,MOG,65,54,FR,Shamell
+141,3,00:26,COR,65,54,FC,Shilton
+142,3,00:39,COR,65,54,LL_Pts_C,Giovannoni
+143,3,00:39,COR,64,54,FR,Giovannoni
+144,3,00:39,MOG,64,54,FC,Filipin
+145,3,00:39,COR,64,54,AS,Gustavinho
+146,3,00:39,COR,64,54,2_Pts_C,Giovannoni
+147,3,00:49,COR,62,54,LL_Pts_C,Fuller
+148,3,00:49,MOG,61,54,FC_T,Shamell
+149,3,00:49,MOG,61,54,ER,Shamell
+150,3,00:49,MOG,61,54,BR,Shamell
+151,3,00:49,COR,61,54,ER,Fuller
+152,3,01:04,COR,61,54,substituicao_entra,Shilton
+153,3,01:04,COR,61,54,substituicao_sai,Teichmann
+154,3,01:04,MOG,61,54,ER,Shamell
+155,3,01:09,MOG,61,54,RD,João Pedro
+156,3,01:14,COR,61,54,3_Pts_T,Fuller
+157,3,01:25,MOG,61,54,2_Pts_C,Shamell
+158,3,01:37,MOG,61,52,substituicao_entra,João Pedro
+159,3,01:37,MOG,61,52,substituicao_sai,JP Batista
+160,3,01:37,MOG,61,52,substituicao_entra,Cafferata
+161,3,01:37,MOG,61,52,substituicao_sai,Deodato
+162,3,01:37,COR,61,52,substituicao_entra,Aguiar
+163,3,01:37,COR,61,52,substituicao_sai,Humberto
+164,3,01:37,MOG,61,52,FR,JP Batista
+165,3,01:37,COR,61,52,FC,Teichmann
+166,3,01:51,COR,61,52,2_Pts_C,Gustavinho
+167,3,02:01,COR,59,52,RD,Gustavinho
+168,3,02:05,MOG,59,52,3_Pts_T,Filipin
+169,3,02:20,MOG,59,52,RD,Deodato
+170,3,02:25,COR,59,52,3_Pts_T,Humberto
+171,3,02:37,COR,59,52,RD,Humberto
+172,3,02:41,MOG,59,52,2_Pts_T,Deodato
+173,3,02:57,COR,59,52,AS,Teichmann
+174,3,02:57,COR,59,52,2_Pts_C,Giovannoni
+175,3,03:13,MOG,57,52,AS,Filipin
+176,3,03:13,MOG,57,52,2_Pts_C,Arthur Pecos
+177,3,03:37,COR,57,50,LL_Pts_C,Fuller
+178,3,03:37,COR,56,50,LL_Pts_C,Fuller
+179,3,03:37,COR,55,50,substituicao_entra,Gustavinho
+180,3,03:37,COR,55,50,substituicao_sai,Parodi
+181,3,03:37,COR,55,50,FR,Fuller
+182,3,03:37,MOG,55,50,FC,Deodato
+183,3,03:41,MOG,55,50,substituicao_entra,Filipin
+184,3,03:41,MOG,55,50,substituicao_sai,Gruber
+185,3,03:41,MOG,55,50,LL_Pts_C,Gruber
+186,3,03:49,MOG,55,49,FR,Gruber
+187,3,03:49,COR,55,49,FC,Giovannoni
+188,3,03:54,MOG,55,49,AS,Arthur Pecos
+189,3,03:54,MOG,55,49,2_Pts_C,Gruber
+190,3,04:01,MOG,55,47,BR,Gruber
+191,3,04:01,COR,55,47,ER,Giovannoni
+192,3,04:21,MOG,55,47,AS,Shamell
+193,3,04:21,MOG,55,47,3_Pts_C,Arthur Pecos
+194,3,04:31,COR,55,44,2_Pts_C,Fuller
+195,3,04:31,COR,53,44,BR,Teichmann
+196,3,04:31,MOG,53,44,ER,Deodato
+197,3,04:40,COR,53,44,substituicao_entra,Giovannoni
+198,3,04:40,COR,53,44,substituicao_sai,Douglas Santos
+199,3,04:40,MOG,53,44,FR,Shamell
+200,3,04:40,COR,53,44,FC,Douglas Santos
+201,3,04:48,COR,53,44,AS,Parodi
+202,3,04:48,COR,53,44,2_Pts_C,Humberto
+203,3,04:58,COR,51,44,FR,Fuller
+204,3,04:58,MOG,51,44,FC,Gruber
+205,3,05:15,MOG,51,44,2_Pts_C,Shamell
+206,3,05:18,MOG,51,42,RD,JP Batista
+207,3,05:26,MOG,51,42,TO,Gruber
+208,3,05:26,COR,51,42,2_Pts_T,Fuller
+209,3,05:30,COR,51,42,RD,Teichmann
+210,3,05:34,MOG,51,42,2_Pts_T,Deodato
+211,3,05:44,MOG,51,42,RD,Shamell
+212,3,05:49,COR,51,42,2_Pts_T,Parodi
+213,3,06:03,COR,51,42,FR,Fuller
+214,3,06:03,MOG,51,42,ER,JP Batista
+215,3,06:03,MOG,51,42,FC_O,JP Batista
+216,3,06:15,COR,51,42,AS,Teichmann
+217,3,06:15,COR,51,42,3_Pts_C,Parodi
+218,3,06:17,COR,48,42,RO,Teichmann
+219,3,06:20,COR,48,42,3_Pts_T,Douglas Santos
+220,3,06:36,MOG,48,42,AS,Deodato
+221,3,06:36,MOG,48,42,3_Pts_C,Arthur Pecos
+222,3,06:50,COR,48,39,LL_Pts_C,Fuller
+223,3,06:50,COR,47,39,AS,Teichmann
+224,3,06:50,COR,47,39,LL_Pts_C,Fuller
+225,3,06:50,COR,46,39,LL_Pts_T,Fuller
+226,3,06:50,COR,46,39,FR,Fuller
+227,3,06:50,MOG,46,39,FC,Deodato
+228,3,07:02,COR,46,39,RD,Teichmann
+229,3,07:06,MOG,46,39,3_Pts_T,Shamell
+230,3,07:11,COR,46,39,substituicao_entra,Teichmann
+231,3,07:11,COR,46,39,substituicao_sai,Abner
+232,3,07:12,MOG,46,39,RD,Gruber
+233,3,07:15,COR,46,39,3_Pts_T,Humberto
+234,3,07:24,COR,46,39,RD,Douglas Santos
+235,3,07:30,MOG,46,39,2_Pts_T,Gruber
+236,3,07:41,MOG,46,39,RD,JP Batista
+237,3,07:44,COR,46,39,3_Pts_T,Humberto
+238,3,08:14,MOG,46,39,AS,Deodato
+239,3,08:14,MOG,46,39,2_Pts_C,JP Batista
+240,3,08:21,MOG,46,37,RD,Gruber
+241,3,08:25,COR,46,37,3_Pts_T,Humberto
+242,3,08:42,MOG,46,37,3_Pts_C,Shamell
+243,3,08:53,MOG,46,34,BR,JP Batista
+244,3,08:53,COR,46,34,ER,Humberto
+245,3,09:08,MOG,46,34,AS,JP Batista
+246,3,09:08,MOG,46,34,2_Pts_C,Deodato
+247,3,09:13,MOG,46,32,FR,Shamell
+248,3,09:13,COR,46,32,FC,Humberto
+249,3,09:17,COR,46,32,LL_Pts_C,Abner
+250,3,09:17,COR,45,32,FR,Abner
+251,3,09:17,MOG,45,32,FC,Gruber
+252,3,09:17,COR,45,32,2_Pts_C,Abner
+253,3,09:18,COR,43,32,RO,Abner
+254,3,09:26,MOG,43,32,TO,Gruber
+255,3,09:26,COR,43,32,2_Pts_T,Fuller
+256,3,09:35,COR,43,32,RD,Humberto
+257,3,09:38,MOG,43,32,2_Pts_T,Gruber
+258,3,09:39,MOG,43,32,RO,Gruber
+259,3,09:42,MOG,43,32,2_Pts_T,Arthur Pecos
+260,3,10:00,NaN,43,32,inicio_quarto,
+261,2,00:00,NaN,43,32,fim_quarto,
+262,2,00:01,MOG,43,32,AS,Lucas
+263,2,00:01,MOG,43,32,2_Pts_C,Deodato
+264,2,00:01,MOG,43,30,substituicao_entra,JP Batista
+265,2,00:01,MOG,43,30,substituicao_sai,Shamell
+266,2,00:01,MOG,43,30,tempo_tecnico,Mogi
+267,2,00:01,MOG,43,30,substituicao_entra,Shamell
+268,2,00:01,MOG,43,30,substituicao_sai,JP Batista
+269,2,00:01,COR,43,30,ER,Parodi
+270,2,00:03,MOG,43,30,substituicao_entra,Lessa
+271,2,00:03,MOG,43,30,substituicao_sai,Arthur Pecos
+272,2,00:03,MOG,43,30,substituicao_entra,Lucas
+273,2,00:03,MOG,43,30,substituicao_sai,Shamell
+274,2,00:03,COR,43,30,substituicao_entra,Parodi
+275,2,00:03,COR,43,30,substituicao_sai,Gui Bento
+276,2,00:03,COR,43,30,substituicao_entra,Fuller
+277,2,00:03,COR,43,30,substituicao_sai,Nicolas
+278,2,00:03,COR,43,30,tempo_tecnico,Corinthians
+279,2,00:03,MOG,43,30,LL_Pts_C,Shamell
+280,2,00:03,MOG,43,29,LL_Pts_C,Shamell
+281,2,00:03,MOG,43,28,FR,Shamell
+282,2,00:03,COR,43,28,FC,Nicolas
+283,2,00:25,COR,43,28,substituicao_entra,Nicolas
+284,2,00:25,COR,43,28,substituicao_sai,Parodi
+285,2,00:25,COR,43,28,AS,Parodi
+286,2,00:25,COR,43,28,LL_Pts_C,Humberto
+287,2,00:25,COR,42,28,LL_Pts_T,Humberto
+288,2,00:25,MOG,42,28,substituicao_entra,Deodato
+289,2,00:25,MOG,42,28,substituicao_sai,Filipin
+290,2,00:25,COR,42,28,substituicao_entra,Gui Bento
+291,2,00:25,COR,42,28,substituicao_sai,Aguiar
+292,2,00:25,COR,42,28,FR,Humberto
+293,2,00:25,MOG,42,28,FC,Shamell
+294,2,00:32,COR,42,28,BR,Parodi
+295,2,00:32,MOG,42,28,ER,Shamell
+296,2,00:39,COR,42,28,substituicao_entra,Douglas Santos
+297,2,00:39,COR,42,28,substituicao_sai,Giovannoni
+298,2,00:39,MOG,42,28,LL_Pts_C,Shamell
+299,2,00:39,COR,42,27,FC_T,Giovannoni
+300,2,00:41,MOG,42,27,BR,Filipin
+301,2,00:41,COR,42,27,ER,Giovannoni
+302,2,00:50,COR,42,27,RD,Humberto
+303,2,00:56,MOG,42,27,2_Pts_T,Arthur Pecos
+304,2,01:19,COR,42,27,AS,Aguiar
+305,2,01:19,COR,42,27,3_Pts_C,Parodi
+306,2,01:43,MOG,39,27,AS,JP Batista
+307,2,01:43,MOG,39,27,EN,Gruber
+308,2,01:52,MOG,39,25,RD,Gruber
+309,2,01:55,COR,39,25,2_Pts_T,Giovannoni
+310,2,02:02,COR,39,25,RD,Teichmann
+311,2,02:06,MOG,39,25,3_Pts_T,Gruber
+312,2,02:07,MOG,39,25,RO,Mogi
+313,2,02:14,COR,39,25,TO,Teichmann
+314,2,02:14,MOG,39,25,2_Pts_T,Gruber
+315,2,02:32,COR,39,25,AS,Parodi
+316,2,02:32,COR,39,25,2_Pts_C,Humberto
+317,2,02:37,COR,37,25,BR,Parodi
+318,2,02:37,MOG,37,25,ER,JP Batista
+319,2,02:51,COR,37,25,2_Pts_C,Giovannoni
+320,2,03:05,COR,35,25,RD,Giovannoni
+321,2,03:09,MOG,35,25,3_Pts_T,Filipin
+322,2,03:26,MOG,35,25,substituicao_entra,Gruber
+323,2,03:26,MOG,35,25,substituicao_sai,Deodato
+324,2,03:26,MOG,35,25,tempo_tecnico,Mogi
+325,2,03:28,COR,35,25,AS,Parodi
+326,2,03:28,COR,35,25,2_Pts_C,Humberto
+327,2,03:50,MOG,33,25,ER,
+328,2,04:17,COR,33,25,2_Pts_C,Aguiar
+329,2,04:18,COR,31,25,RO,Aguiar
+330,2,04:22,COR,31,25,3_Pts_T,Humberto
+331,2,04:35,COR,31,25,substituicao_entra,Humberto
+332,2,04:35,COR,31,25,substituicao_sai,Fuller
+333,2,04:36,COR,31,25,RD,Corinthians
+334,2,04:39,MOG,31,25,3_Pts_T,Deodato
+335,2,04:50,COR,31,25,AS,Giovannoni
+336,2,04:50,COR,31,25,3_Pts_C,Aguiar
+337,2,05:07,MOG,28,25,AS,Deodato
+338,2,05:07,MOG,28,25,3_Pts_C,Filipin
+339,2,05:16,COR,28,22,AS,Parodi
+340,2,05:16,COR,28,22,2_Pts_C,Giovannoni
+341,2,05:30,COR,26,22,FR,Teichmann
+342,2,05:30,MOG,26,22,FC,Arthur Pecos
+343,2,05:39,MOG,26,22,ER,JP Batista
+344,2,05:52,COR,26,22,AS,Teichmann
+345,2,05:52,COR,26,22,2_Pts_C,Giovannoni
+346,2,06:06,MOG,24,22,AS,Filipin
+347,2,06:06,MOG,24,22,2_Pts_C,JP Batista
+348,2,06:10,MOG,24,20,substituicao_entra,Arthur Pecos
+349,2,06:10,MOG,24,20,substituicao_sai,Cafferata
+350,2,06:10,MOG,24,20,substituicao_entra,JP Batista
+351,2,06:10,MOG,24,20,substituicao_sai,João Pedro
+352,2,06:10,MOG,24,20,FR,Cafferata
+353,2,06:10,COR,24,20,FC,Giovannoni
+354,2,06:10,MOG,24,20,RO,Cafferata
+355,2,06:18,MOG,24,20,2_Pts_T,Cafferata
+356,2,06:20,MOG,24,20,RD,João Pedro
+357,2,06:25,COR,24,20,2_Pts_T,Giovannoni
+358,2,06:37,MOG,24,20,LL_Pts_C,Shamell
+359,2,06:37,MOG,24,19,LL_Pts_C,Shamell
+360,2,06:37,MOG,24,18,FR,Shamell
+361,2,06:37,COR,24,18,FC,Teichmann
+362,2,06:41,MOG,24,18,RO,Mogi
+363,2,06:47,COR,24,18,TO,Teichmann
+364,2,06:47,MOG,24,18,2_Pts_T,Cafferata
+365,2,07:05,COR,24,18,AS,Parodi
+366,2,07:05,COR,24,18,2_Pts_C,Aguiar
+367,2,07:10,COR,22,18,BR,Parodi
+368,2,07:10,MOG,22,18,ER,Shamell
+369,2,07:22,COR,22,18,AS,Teichmann
+370,2,07:22,COR,22,18,2_Pts_C,Fuller
+371,2,07:24,COR,20,18,RO,Teichmann
+372,2,07:28,COR,20,18,3_Pts_T,Aguiar
+373,2,07:43,COR,20,18,substituicao_entra,Parodi
+374,2,07:43,COR,20,18,substituicao_sai,Shilton
+375,2,07:43,COR,20,18,substituicao_entra,Teichmann
+376,2,07:43,COR,20,18,substituicao_sai,Gustavinho
+377,2,07:44,COR,20,18,RD,Corinthians
+378,2,07:50,MOG,20,18,3_Pts_T,Shamell
+379,2,07:56,MOG,20,18,RD,João Pedro
+380,2,07:59,COR,20,18,3_Pts_T,Gustavinho
+381,2,08:09,COR,20,18,RD,Shilton
+382,2,08:13,MOG,20,18,3_Pts_T,Cafferata
+383,2,08:35,MOG,20,18,substituicao_entra,Filipin
+384,2,08:35,MOG,20,18,substituicao_sai,Gruber
+385,2,08:35,COR,20,18,ER,Giovannoni
+386,2,08:54,MOG,20,18,AS,Shamell
+387,2,08:54,MOG,20,18,EN,João Pedro
+388,2,09:00,MOG,20,16,RD,João Pedro
+389,2,09:04,COR,20,16,2_Pts_T,Giovannoni
+390,2,09:12,COR,20,16,RD,Aguiar
+391,2,09:16,MOG,20,16,3_Pts_T,Deodato
+392,2,09:25,MOG,20,16,RO,Shamell
+393,2,09:31,MOG,20,16,3_Pts_T,Gruber
+394,2,09:44,COR,20,16,ER,Shilton
+395,2,10:00,NaN,20,16,inicio_quarto,
+396,1,00:00,NaN,20,16,fim_quarto,
+397,1,00:02,MOG,20,16,2_Pts_T,João Pedro
+398,1,00:04,MOG,20,16,TO,Cafferata
+399,1,00:04,MOG,20,16,RD,João Pedro
+400,1,00:04,COR,20,16,2_Pts_T,Aguiar
+401,1,00:10,COR,20,16,BR,Giovannoni
+402,1,00:10,MOG,20,16,ER,Deodato
+403,1,00:22,MOG,20,16,RD,João Pedro
+404,1,00:27,COR,20,16,2_Pts_T,Aguiar
+405,1,00:47,MOG,20,16,2_Pts_C,Cafferata
+406,1,01:06,COR,20,14,LL_Pts_C,Aguiar
+407,1,01:06,COR,19,14,AS,Fuller
+408,1,01:06,COR,19,14,LL_Pts_C,Aguiar
+409,1,01:06,COR,18,14,substituicao_entra,Giovannoni
+410,1,01:06,COR,18,14,substituicao_sai,Douglas Santos
+411,1,01:06,COR,18,14,FR,Aguiar
+412,1,01:06,MOG,18,14,FC,Lessa
+413,1,01:27,COR,18,14,substituicao_entra,Aguiar
+414,1,01:27,COR,18,14,substituicao_sai,Humberto
+415,1,01:27,MOG,18,14,ER,Deodato
+416,1,01:45,COR,18,14,LL_Pts_C,Fuller
+417,1,01:45,COR,17,14,LL_Pts_T,Fuller
+418,1,01:45,MOG,17,14,substituicao_entra,Lessa
+419,1,01:45,MOG,17,14,substituicao_sai,Shamell
+420,1,01:45,COR,17,14,substituicao_entra,Gustavinho
+421,1,01:45,COR,17,14,substituicao_sai,Parodi
+422,1,01:45,COR,17,14,FR,Fuller
+423,1,01:45,MOG,17,14,FC,Gruber
+424,1,01:47,COR,17,14,RD,Shilton
+425,1,01:51,MOG,17,14,2_Pts_T,Deodato
+426,1,02:14,MOG,17,14,substituicao_entra,João Pedro
+427,1,02:14,MOG,17,14,substituicao_sai,JP Batista
+428,1,02:14,COR,17,14,ER,Parodi
+429,1,02:35,MOG,17,14,2_Pts_C,Gruber
+430,1,02:44,COR,17,12,substituicao_entra,Shilton
+431,1,02:44,COR,17,12,substituicao_sai,Abner
+432,1,02:44,MOG,17,12,FR,Deodato
+433,1,02:44,COR,17,12,FC,Douglas Santos
+434,1,02:45,MOG,17,12,RD,Deodato
+435,1,02:49,COR,17,12,3_Pts_T,Humberto
+436,1,03:00,COR,17,12,RD,Abner
+437,1,03:03,MOG,17,12,3_Pts_T,Deodato
+438,1,03:12,MOG,17,12,BR,Gruber
+439,1,03:12,COR,17,12,ER,Humberto
+440,1,03:22,MOG,17,12,substituicao_entra,Cafferata
+441,1,03:22,MOG,17,12,substituicao_sai,Arthur Pecos
+442,1,03:23,COR,17,12,RO,Corinthians
+443,1,03:30,MOG,17,12,TO,Gruber
+444,1,03:30,COR,17,12,2_Pts_T,Parodi
+445,1,03:35,COR,17,12,RD,Parodi
+446,1,03:40,MOG,17,12,3_Pts_T,Gruber
+447,1,03:50,MOG,17,12,RD,Deodato
+448,1,03:50,COR,17,12,3_Pts_T,Fuller
+449,1,03:50,COR,17,12,FR,Abner
+450,1,03:50,MOG,17,12,FC,Arthur Pecos
+451,1,04:13,MOG,17,12,AS,Arthur Pecos
+452,1,04:13,MOG,17,12,2_Pts_C,JP Batista
+453,1,04:30,COR,17,10,AS,Parodi
+454,1,04:30,COR,17,10,2_Pts_C,Douglas Santos
+455,1,04:36,COR,15,10,BR,Abner
+456,1,04:36,MOG,15,10,ER,Arthur Pecos
+457,1,04:46,COR,15,10,2_Pts_C,Parodi
+458,1,04:56,COR,13,10,RD,Corinthians
+459,1,04:59,MOG,13,10,3_Pts_T,Shamell
+460,1,05:13,COR,13,10,2_Pts_C,Douglas Santos
+461,1,05:14,COR,11,10,RO,Douglas Santos
+462,1,05:17,COR,11,10,2_Pts_T,Fuller
+463,1,05:18,COR,11,10,RO,Douglas Santos
+464,1,05:22,COR,11,10,3_Pts_T,Parodi
+465,1,05:29,COR,11,10,BR,Parodi
+466,1,05:29,MOG,11,10,ER,Shamell
+467,1,05:38,COR,11,10,AS,Abner
+468,1,05:38,COR,11,10,3_Pts_C,Parodi
+469,1,05:42,COR,8,10,RO,Corinthians
+470,1,05:47,COR,8,10,3_Pts_T,Fuller
+471,1,06:02,MOG,8,10,AS,Gruber
+472,1,06:02,MOG,8,10,2_Pts_C,JP Batista
+473,1,06:07,MOG,8,8,RD,Arthur Pecos
+474,1,06:11,COR,8,8,2_Pts_T,Abner
+475,1,06:26,MOG,8,8,2_Pts_C,Shamell
+476,1,06:31,MOG,8,6,FR,Arthur Pecos
+477,1,06:31,COR,8,6,FC,Parodi
+478,1,06:31,MOG,8,6,RO,Arthur Pecos
+479,1,06:36,MOG,8,6,3_Pts_T,Deodato
+480,1,06:48,COR,8,6,LL_Pts_C,Fuller
+481,1,06:48,COR,7,6,FR,Fuller
+482,1,06:48,MOG,7,6,FC,Shamell
+483,1,06:48,COR,7,6,2_Pts_C,Fuller
+484,1,07:04,MOG,5,6,AS,Arthur Pecos
+485,1,07:04,MOG,5,6,EN,Gruber
+486,1,07:12,MOG,5,4,BR,Arthur Pecos
+487,1,07:12,COR,5,4,ER,Douglas Santos
+488,1,07:24,MOG,5,4,AS,Deodato
+489,1,07:24,MOG,5,4,2_Pts_C,Arthur Pecos
+490,1,07:29,MOG,5,2,BR,JP Batista
+491,1,07:29,COR,5,2,ER,Parodi
+492,1,07:37,MOG,5,2,ER,Arthur Pecos
+493,1,07:48,COR,5,2,AS,Humberto
+494,1,07:48,COR,5,2,2_Pts_C,Douglas Santos
+495,1,08:03,MOG,3,2,2_Pts_C,Shamell
+496,1,08:19,MOG,3,0,RD,Gruber
+497,1,08:23,COR,3,0,3_Pts_T,Fuller
+498,1,08:38,MOG,3,0,ER,Deodato
+499,1,08:52,COR,3,0,AS,Abner
+500,1,08:52,COR,3,0,3_Pts_C,Fuller
+501,1,09:03,COR,0,0,RD,Humberto
+502,1,09:08,MOG,0,0,3_Pts_T,Gruber
+503,1,09:11,MOG,0,0,RD,Gruber
+504,1,09:17,COR,0,0,3_Pts_T,Parodi
+505,1,09:21,COR,0,0,RO,Douglas Santos
+506,1,09:28,COR,0,0,2_Pts_T,Fuller
+507,1,09:48,COR,0,0,BR,Fuller
+508,1,09:48,MOG,0,0,ER,Arthur Pecos
+509,1,10:00,MOG,0,0,substituicao_entra,Arthur Pecos
+510,1,10:00,MOG,0,0,substituicao_entra,Gruber
+511,1,10:00,MOG,0,0,substituicao_entra,JP Batista
+512,1,10:00,MOG,0,0,substituicao_entra,Shamell
+513,1,10:00,MOG,0,0,substituicao_entra,Deodato
+514,1,10:00,COR,0,0,substituicao_entra,Abner
+515,1,10:00,COR,0,0,substituicao_entra,Parodi
+516,1,10:00,COR,0,0,substituicao_entra,Humberto
+517,1,10:00,COR,0,0,substituicao_entra,Fuller
+518,1,10:00,COR,0,0,substituicao_entra,Douglas Santos
+519,1,10:00,NaN,0,0,inicio_partida,

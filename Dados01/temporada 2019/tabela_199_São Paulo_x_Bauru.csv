@@ -1,0 +1,484 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,99,64,fim_partida,
+1,4,00:00,NaN,99,64,fim_quarto, 
+2,4,00:07,SPF,99,64,ER,Igor
+3,4,00:19,SPF,99,64,RO,Danilo
+4,4,00:19,SPF,99,64,LL_Pts_T,Igor
+5,4,00:19,SPF,99,64,LL_Pts_T,Igor
+6,4,00:19,SPF,99,64,FR,Igor
+7,4,00:19,BAU,99,64,FC,Crescenzi
+8,4,00:30,BAU,99,64,LL_Pts_C,L  Brito
+9,4,00:30,BAU,99,63,LL_Pts_C,L  Brito
+10,4,00:30,BAU,99,62,FR,L  Brito
+11,4,00:30,SPF,99,62,FC,Cassiano
+12,4,00:31,SPF,99,62,2_Pts_C,Holloway
+13,4,00:34,SPF,97,62,RO,Holloway
+14,4,00:38,SPF,97,62,2_Pts_T,Holloway
+15,4,00:45,SPF,97,62,BR,Igor
+16,4,00:45,BAU,97,62,ER,Wiggins
+17,4,01:14,SPF,97,62,AS,Igor
+18,4,01:14,SPF,97,62,3_Pts_C,Cassiano
+19,4,01:16,SPF,94,62,RO,Igor
+20,4,01:18,SPF,94,62,3_Pts_T,Igor
+21,4,01:32,BAU,94,62,2_Pts_C,Malachias
+22,4,01:33,BAU,94,60,RO,Malachias
+23,4,01:36,BAU,94,60,2_Pts_T,Crescenzi
+24,4,01:37,BAU,94,60,RO,Crescenzi
+25,4,01:40,BAU,94,60,2_Pts_T,Malachias
+26,4,01:55,BAU,94,60,substituicao_entra,Andrew
+27,4,01:55,BAU,94,60,substituicao_sai,Samuel
+28,4,01:56,SPF,94,60,AS,Igor
+29,4,01:56,SPF,94,60,2_Pts_C,Danilo
+30,4,01:59,SPF,92,60,RD,Igor
+31,4,02:01,BAU,92,60,3_Pts_T,Wiggins
+32,4,02:21,SPF,92,60,AS,Holloway
+33,4,02:21,SPF,92,60,3_Pts_C,Igor
+34,4,02:27,SPF,89,60,RD,Cassiano
+35,4,02:29,BAU,89,60,3_Pts_T,Samuel
+36,4,02:46,SPF,89,60,,
+37,4,02:56,BAU,89,60,LL_Pts_C,L  Brito
+38,4,02:56,BAU,89,59,LL_Pts_T,L  Brito
+39,4,02:56,BAU,89,59,FR,L  Brito
+40,4,02:56,SPF,89,59,FC,Murilo
+41,4,03:10,SPF,89,59,LL_Pts_C,Murilo
+42,4,03:10,SPF,88,59,LL_Pts_C,Murilo
+43,4,03:10,BAU,87,59,substituicao_entra,Malachias
+44,4,03:10,BAU,87,59,substituicao_sai,Draper
+45,4,03:10,BAU,87,59,substituicao_entra,Crescenzi
+46,4,03:10,BAU,87,59,substituicao_sai,Faggiano
+47,4,03:10,SPF,87,59,FR,Murilo
+48,4,03:10,BAU,87,59,FC,Draper
+49,4,03:12,SPF,87,59,RO,Murilo
+50,4,03:14,SPF,87,59,LL_Pts_T,Holloway
+51,4,03:14,SPF,87,59,AS,Jefferson
+52,4,03:14,SPF,87,59,LL_Pts_C,Holloway
+53,4,03:14,SPF,86,59,substituicao_entra,Murilo
+54,4,03:14,SPF,86,59,substituicao_sai,Jones
+55,4,03:14,SPF,86,59,substituicao_entra,Igor
+56,4,03:14,SPF,86,59,substituicao_sai,Jefferson
+57,4,03:14,SPF,86,59,FR,Holloway
+58,4,03:14,BAU,86,59,FC,Draper
+59,4,03:17,SPF,86,59,RD,Jefferson
+60,4,03:19,BAU,86,59,2_Pts_T,Samuel
+61,4,03:24,BAU,86,59,RO,Samuel
+62,4,03:28,BAU,86,59,3_Pts_T,Draper
+63,4,03:43,SPF,86,59,EN,Holloway
+64,4,03:44,SPF,84,59,RO,Jefferson
+65,4,03:47,SPF,84,59,3_Pts_T,Danilo
+66,4,03:53,SPF,84,59,RD,Jefferson
+67,4,03:56,BAU,84,59,2_Pts_T,Wiggins
+68,4,04:09,BAU,84,59,substituicao_entra,Wiggins
+69,4,04:09,BAU,84,59,substituicao_sai,Malachias
+70,4,04:11,SPF,84,59,2_Pts_C,Holloway
+71,4,04:22,BAU,82,59,AS,Samuel
+72,4,04:22,BAU,82,59,2_Pts_C,Faggiano
+73,4,04:27,BAU,82,57,BR,Samuel
+74,4,04:27,SPF,82,57,ER,Cassiano
+75,4,04:30,SPF,82,57,RD,Jefferson
+76,4,04:32,BAU,82,57,2_Pts_T,Draper
+77,4,04:54,BAU,82,57,substituicao_entra,L  Brito
+78,4,04:54,BAU,82,57,substituicao_sai,Crescenzi
+79,4,04:54,SPF,82,57,substituicao_entra,Danilo
+80,4,04:54,SPF,82,57,substituicao_sai,Renan
+81,4,04:54,SPF,82,57,substituicao_entra,Cassiano
+82,4,04:54,SPF,82,57,substituicao_sai,Georginho
+83,4,04:54,BAU,82,57,tempo_tecnico,Bauru
+84,4,04:54,SPF,82,57,2_Pts_C,Georginho
+85,4,04:59,SPF,80,57,RD,Georginho
+86,4,05:02,BAU,80,57,3_Pts_T,Draper
+87,4,05:17,BAU,80,57,RO,Malachias
+88,4,05:21,BAU,80,57,2_Pts_T,Draper
+89,4,05:30,SPF,80,57,2_Pts_C,Georginho
+90,4,05:45,SPF,78,57,RD,Holloway
+91,4,05:48,BAU,78,57,3_Pts_T,Crescenzi
+92,4,05:55,BAU,78,57,RD,Faggiano
+93,4,05:57,SPF,78,57,3_Pts_T,Holloway
+94,4,06:22,BAU,78,57,AS,Faggiano
+95,4,06:22,BAU,78,57,3_Pts_C,Draper
+96,4,06:44,SPF,78,54,AS,Jones
+97,4,06:44,SPF,78,54,3_Pts_C,Jefferson
+98,4,06:53,BAU,75,54,LL_Pts_C,Crescenzi
+99,4,06:53,BAU,75,53,FR,Crescenzi
+100,4,06:53,SPF,75,53,FC,Holloway
+101,4,06:53,BAU,75,53,3_Pts_C,Crescenzi
+102,4,07:14,SPF,75,50,AS,Holloway
+103,4,07:14,SPF,75,50,3_Pts_C,Renan
+104,4,07:16,SPF,72,50,RO,Holloway
+105,4,07:20,BAU,72,50,TO,Draper
+106,4,07:20,SPF,72,50,2_Pts_T,Renan
+107,4,07:22,SPF,72,50,RO,Renan
+108,4,07:25,SPF,72,50,3_Pts_T,Jones
+109,4,07:42,SPF,72,50,substituicao_entra,Holloway
+110,4,07:42,SPF,72,50,substituicao_sai,Shamell
+111,4,07:43,SPF,72,50,FR,Jefferson
+112,4,07:43,BAU,72,50,FC,Malachias
+113,4,07:53,SPF,72,50,RD,Jefferson
+114,4,07:55,BAU,72,50,2_Pts_T,Samuel
+115,4,08:00,BAU,72,50,RO,Bauru
+116,4,08:00,SPF,72,50,TO,Georginho
+117,4,08:00,BAU,72,50,2_Pts_T,Draper
+118,4,08:05,BAU,72,50,BR,Draper
+119,4,08:05,SPF,72,50,ER,Georginho
+120,4,08:10,SPF,72,50,RD,Jefferson
+121,4,08:12,BAU,72,50,3_Pts_T,Faggiano
+122,4,08:28,SPF,72,50,AS,Shamell
+123,4,08:28,SPF,72,50,EN,Renan
+124,4,08:39,SPF,70,50,RO,Jefferson
+125,4,08:41,SPF,70,50,3_Pts_T,Jones
+126,4,08:57,SPF,70,50,FR,Shamell
+127,4,08:57,BAU,70,50,FC,Samuel
+128,4,09:11,BAU,70,50,2_Pts_C,Faggiano
+129,4,09:16,BAU,70,48,RD,Malachias
+130,4,09:19,SPF,70,48,3_Pts_T,Shamell
+131,4,09:44,SPF,70,48,RD,Georginho
+132,4,09:46,BAU,70,48,3_Pts_T,Crescenzi
+133,4,10:00,NaN,70,48,inicio_quarto,
+134,3,00:00,NaN,70,48,fim_quarto,
+135,3,00:02,BAU,70,48,RD,Malachias
+136,3,00:02,SPF,70,48,LL_Pts_T,Renan
+137,3,00:02,BAU,70,48,substituicao_entra,Crescenzi
+138,3,00:02,BAU,70,48,substituicao_sai,Wiggins
+139,3,00:02,SPF,70,48,FR,Renan
+140,3,00:02,BAU,70,48,FC,Malachias
+141,3,00:02,SPF,70,48,AS,Léo Meindl
+142,3,00:02,SPF,70,48,EN,Renan
+143,3,00:09,BAU,68,48,substituicao_entra,Malachias
+144,3,00:09,BAU,68,48,substituicao_sai,Draper
+145,3,00:09,BAU,68,48,LL_Pts_C,Draper
+146,3,00:09,BAU,68,47,LL_Pts_C,Draper
+147,3,00:09,BAU,68,46,FR,Draper
+148,3,00:09,SPF,68,46,FC,Jefferson
+149,3,00:23,SPF,68,46,AS,Shamell
+150,3,00:23,SPF,68,46,3_Pts_C,Jefferson
+151,3,00:36,SPF,65,46,RD,Georginho
+152,3,00:39,BAU,65,46,2_Pts_T,Wiggins
+153,3,00:59,SPF,65,46,EN,Léo Meindl
+154,3,01:03,SPF,63,46,BR,Léo Meindl
+155,3,01:03,BAU,63,46,ER,Larry
+156,3,01:14,BAU,63,46,RD,Bauru
+157,3,01:14,SPF,63,46,3_Pts_T,Jefferson
+158,3,01:27,SPF,63,46,FR,Georginho
+159,3,01:27,BAU,63,46,FC,Draper
+160,3,01:31,SPF,63,46,RD,Georginho
+161,3,01:33,BAU,63,46,3_Pts_T,Draper
+162,3,01:45,BAU,63,46,BR,Larry
+163,3,01:45,SPF,63,46,ER,Georginho
+164,3,01:59,BAU,63,46,ER,Draper
+165,3,02:19,SPF,63,46,EN,Renan
+166,3,02:19,SPF,61,46,RO,Renan
+167,3,02:23,SPF,61,46,2_Pts_T,Léo Meindl
+168,3,02:30,BAU,61,46,LL_Pts_C,Wiggins
+169,3,02:30,BAU,61,45,LL_Pts_T,Wiggins
+170,3,02:30,BAU,61,45,FR,Wiggins
+171,3,02:30,SPF,61,45,FC,Jefferson
+172,3,02:33,BAU,61,45,BR,Wiggins
+173,3,02:33,SPF,61,45,ER,Léo Meindl
+174,3,02:35,SPF,61,45,RO,Léo Meindl
+175,3,02:38,SPF,61,45,3_Pts_T,Shamell
+176,3,02:41,SPF,61,45,RD,Georginho
+177,3,02:44,BAU,61,45,2_Pts_T,Draper
+178,3,02:53,BAU,61,45,RO,Samuel
+179,3,02:56,BAU,61,45,3_Pts_T,Faggiano
+180,3,03:19,BAU,61,45,substituicao_entra,Samuel
+181,3,03:19,BAU,61,45,substituicao_sai,Crescenzi
+182,3,03:19,BAU,61,45,tempo_tecnico,Bauru
+183,3,03:21,SPF,61,45,AS,Léo Meindl
+184,3,03:21,SPF,61,45,2_Pts_C,Georginho
+185,3,03:24,SPF,59,45,RO,Léo Meindl
+186,3,03:27,SPF,59,45,3_Pts_T,Jefferson
+187,3,03:43,SPF,59,45,RD,Léo Meindl
+188,3,03:45,BAU,59,45,,
+189,3,03:45,BAU,59,45,RO,Draper
+190,3,03:49,BAU,59,45,2_Pts_T,Crescenzi
+191,3,03:54,SPF,59,45,ER,Georginho
+192,3,04:01,SPF,59,45,RD,São Paulo
+193,3,04:02,BAU,59,45,3_Pts_T,Larry
+194,3,04:08,BAU,59,45,RD,Draper
+195,3,04:10,SPF,59,45,2_Pts_T,Jefferson
+196,3,04:25,SPF,59,45,RD,Renan
+197,3,04:25,BAU,59,45,LL_Pts_T,Draper
+198,3,04:25,BAU,59,45,LL_Pts_T,Draper
+199,3,04:25,BAU,59,45,FR,Draper
+200,3,04:25,SPF,59,45,FC,Léo Meindl
+201,3,04:32,SPF,59,45,substituicao_entra,Jefferson
+202,3,04:32,SPF,59,45,substituicao_sai,Kurtz
+203,3,04:32,SPF,59,45,,
+204,3,04:44,BAU,59,45,3_Pts_C,Draper
+205,3,04:59,SPF,59,42,AS,Shamell
+206,3,04:59,SPF,59,42,3_Pts_C,Léo Meindl
+207,3,05:13,BAU,56,42,AS,Faggiano
+208,3,05:13,BAU,56,42,3_Pts_C,Draper
+209,3,05:31,BAU,56,39,RD,Crescenzi
+210,3,05:34,SPF,56,39,3_Pts_T,Georginho
+211,3,05:48,BAU,56,39,substituicao_entra,Larry
+212,3,05:48,BAU,56,39,substituicao_sai,Malachias
+213,3,05:48,SPF,56,39,RD,São Paulo
+214,3,05:48,BAU,56,39,2_Pts_T,Malachias
+215,3,05:49,BAU,56,39,RO,Malachias
+216,3,05:51,BAU,56,39,2_Pts_T,Malachias
+217,3,06:05,SPF,56,39,AS,Shamell
+218,3,06:05,SPF,56,39,2_Pts_C,Kurtz
+219,3,06:20,BAU,54,39,3_Pts_C,Faggiano
+220,3,06:44,SPF,54,36,AS,Renan
+221,3,06:44,SPF,54,36,3_Pts_C,Shamell
+222,3,06:49,SPF,51,36,RD,Kurtz
+223,3,06:53,BAU,51,36,3_Pts_T,Draper
+224,3,06:56,BAU,51,36,RD,Draper
+225,3,07:00,BAU,51,36,TO,Malachias
+226,3,07:00,SPF,51,36,2_Pts_T,Kurtz
+227,3,07:09,BAU,51,36,LL_Pts_C,Faggiano
+228,3,07:09,BAU,51,35,LL_Pts_C,Faggiano
+229,3,07:09,BAU,51,34,FR,Faggiano
+230,3,07:09,SPF,51,34,FC,Kurtz
+231,3,07:26,BAU,51,34,FR,Draper
+232,3,07:26,SPF,51,34,FC,Kurtz
+233,3,07:26,BAU,51,34,RD,Bauru
+234,3,07:27,SPF,51,34,3_Pts_T,Shamell
+235,3,07:30,SPF,51,34,RD,Georginho
+236,3,07:34,BAU,51,34,3_Pts_T,Wiggins
+237,3,07:44,BAU,51,34,BR,Wiggins
+238,3,07:44,SPF,51,34,ER,Kurtz
+239,3,07:57,BAU,51,34,2_Pts_C,Wiggins
+240,3,08:18,SPF,51,32,AS,Georginho
+241,3,08:18,SPF,51,32,3_Pts_C,Léo Meindl
+242,3,08:26,SPF,48,32,FR,Georginho
+243,3,08:26,BAU,48,32,FC,Draper
+244,3,08:28,SPF,48,32,RD,Georginho
+245,3,08:30,BAU,48,32,3_Pts_T,Crescenzi
+246,3,08:40,SPF,48,32,AS,Georginho
+247,3,08:40,SPF,48,32,2_Pts_C,Léo Meindl
+248,3,08:57,BAU,46,32,2_Pts_C,Draper
+249,3,08:59,BAU,46,30,RO,Draper
+250,3,09:01,BAU,46,30,3_Pts_T,Crescenzi
+251,3,09:16,SPF,46,30,ER,Léo Meindl
+252,3,09:33,SPF,46,30,RD,Renan
+253,3,09:33,BAU,46,30,LL_Pts_T,Faggiano
+254,3,09:33,BAU,46,30,LL_Pts_C,Faggiano
+255,3,09:33,BAU,46,29,FR,Faggiano
+256,3,09:33,SPF,46,29,FC,Renan
+257,3,09:40,BAU,46,29,RD,Draper
+258,3,09:43,SPF,46,29,2_Pts_T,Renan
+259,3,10:00,NaN,46,29,inicio_quarto,
+260,2,00:00,NaN,46,29,fim_quarto,
+261,2,00:04,SPF,46,29,AS,Jones
+262,2,00:04,SPF,46,29,3_Pts_C,Shamell
+263,2,00:14,BAU,43,29,substituicao_entra,Malachias
+264,2,00:14,BAU,43,29,substituicao_sai,Samuel
+265,2,00:14,BAU,43,29,substituicao_entra,L  Brito
+266,2,00:14,BAU,43,29,substituicao_sai,Wiggins
+267,2,00:14,SPF,43,29,substituicao_entra,Shamell
+268,2,00:14,SPF,43,29,substituicao_sai,Murilo
+269,2,00:14,SPF,43,29,tempo_tecnico,São Paulo
+270,2,00:14,BAU,43,29,2_Pts_C,Faggiano
+271,2,00:33,SPF,43,27,LL_Pts_C,Renan
+272,2,00:33,SPF,42,27,FR,Renan
+273,2,00:33,BAU,42,27,FC,Larry
+274,2,00:33,SPF,42,27,AS,Georginho
+275,2,00:33,SPF,42,27,2_Pts_C,Renan
+276,2,00:36,SPF,40,27,RO,São Paulo
+277,2,00:36,SPF,40,27,3_Pts_T,Jones
+278,2,00:59,BAU,40,27,AS,Wiggins
+279,2,00:59,BAU,40,27,3_Pts_C,Larry
+280,2,01:10,BAU,40,24,FR,Draper
+281,2,01:10,SPF,40,24,ER,Murilo
+282,2,01:10,SPF,40,24,FC_O,Murilo
+283,2,01:10,SPF,40,24,RO,Murilo
+284,2,01:11,SPF,40,24,3_Pts_T,Léo Meindl
+285,2,01:23,SPF,40,24,RD,Murilo
+286,2,01:26,BAU,40,24,2_Pts_T,Larry
+287,2,01:31,BAU,40,24,RO,Bauru
+288,2,01:34,BAU,40,24,3_Pts_T,Wiggins
+289,2,01:58,SPF,40,24,ER,Murilo
+290,2,02:21,BAU,40,24,2_Pts_C,Draper
+291,2,02:45,BAU,40,22,substituicao_entra,Faggiano
+292,2,02:45,BAU,40,22,substituicao_sai,Crescenzi
+293,2,02:45,SPF,40,22,substituicao_entra,Jones
+294,2,02:45,SPF,40,22,substituicao_sai,Shamell
+295,2,02:45,BAU,40,22,FR,Draper
+296,2,02:45,SPF,40,22,ER,Murilo
+297,2,02:45,SPF,40,22,FC_O,Murilo
+298,2,02:59,BAU,40,22,2_Pts_C,Draper
+299,2,03:19,SPF,40,20,AS,Léo Meindl
+300,2,03:19,SPF,40,20,3_Pts_C,Shamell
+301,2,03:24,SPF,37,20,BR,Shamell
+302,2,03:24,BAU,37,20,ER,Draper
+303,2,03:31,BAU,37,20,RD,Draper
+304,2,03:35,SPF,37,20,2_Pts_T,Léo Meindl
+305,2,04:00,BAU,37,20,2_Pts_C,Wiggins
+306,2,04:09,SPF,37,18,AS,Georginho
+307,2,04:09,SPF,37,18,3_Pts_C,Renan
+308,2,04:20,SPF,34,18,RD,Georginho
+309,2,04:23,BAU,34,18,2_Pts_T,Samuel
+310,2,04:44,SPF,34,18,2_Pts_C,Léo Meindl
+311,2,04:45,SPF,32,18,RO,Léo Meindl
+312,2,04:47,SPF,32,18,3_Pts_T,Georginho
+313,2,05:16,BAU,32,18,2_Pts_C,Draper
+314,2,05:37,SPF,32,16,LL_Pts_C,Shamell
+315,2,05:37,SPF,31,16,LL_Pts_C,Shamell
+316,2,05:37,SPF,30,16,FR,Shamell
+317,2,05:37,BAU,30,16,FC,Draper
+318,2,05:45,SPF,30,16,FR,Murilo
+319,2,05:45,BAU,30,16,FC,Samuel
+320,2,05:45,SPF,30,16,RO,São Paulo
+321,2,05:45,SPF,30,16,3_Pts_T,Léo Meindl
+322,2,05:49,SPF,30,16,RO,Murilo
+323,2,05:51,SPF,30,16,3_Pts_T,Shamell
+324,2,06:02,BAU,30,16,LL_Pts_C,Wiggins
+325,2,06:02,BAU,30,15,LL_Pts_C,Wiggins
+326,2,06:02,BAU,30,14,FR,Wiggins
+327,2,06:02,SPF,30,14,FC,Shamell
+328,2,06:02,BAU,30,14,RO,Wiggins
+329,2,06:05,BAU,30,14,2_Pts_T,Wiggins
+330,2,06:26,BAU,30,14,tempo_tecnico,Bauru
+331,2,06:27,SPF,30,14,2_Pts_C,Léo Meindl
+332,2,06:32,SPF,28,14,RD,Murilo
+333,2,06:36,BAU,28,14,3_Pts_T,Crescenzi
+334,2,06:47,BAU,28,14,RD,Crescenzi
+335,2,06:51,SPF,28,14,2_Pts_T,Murilo
+336,2,07:05,SPF,28,14,FR,Shamell
+337,2,07:05,BAU,28,14,FC,Larry
+338,2,07:19,BAU,28,14,substituicao_entra,Samuel
+339,2,07:19,BAU,28,14,substituicao_sai,Faggiano
+340,2,07:20,BAU,28,14,ER,Draper
+341,2,07:44,SPF,28,14,AS,Renan
+342,2,07:44,SPF,28,14,2_Pts_C,Léo Meindl
+343,2,07:55,BAU,26,14,substituicao_entra,Wiggins
+344,2,07:55,BAU,26,14,substituicao_sai,Malachias
+345,2,07:55,SPF,26,14,substituicao_entra,Murilo
+346,2,07:55,SPF,26,14,substituicao_sai,Jefferson
+347,2,07:55,SPF,26,14,FR,Georginho
+348,2,07:55,BAU,26,14,FC,Malachias
+349,2,08:06,SPF,26,14,RD,Georginho
+350,2,08:10,BAU,26,14,3_Pts_T,Larry
+351,2,08:15,BAU,26,14,RD,Larry
+352,2,08:18,SPF,26,14,3_Pts_T,Shamell
+353,2,08:24,SPF,26,14,RD,Georginho
+354,2,08:27,BAU,26,14,2_Pts_T,Faggiano
+355,2,08:44,BAU,26,14,RD,Bauru
+356,2,08:44,SPF,26,14,3_Pts_T,Jefferson
+357,2,09:00,BAU,26,14,2_Pts_C,Faggiano
+358,2,09:03,BAU,26,12,RD,Faggiano
+359,2,09:07,SPF,26,12,3_Pts_T,Georginho
+360,2,09:20,SPF,26,12,BR,Georginho
+361,2,09:20,BAU,26,12,ER,Larry
+362,2,09:36,SPF,26,12,2_Pts_C,Léo Meindl
+363,2,09:36,SPF,24,12,RO,Léo Meindl
+364,2,09:39,SPF,24,12,2_Pts_T,Léo Meindl
+365,2,09:52,SPF,24,12,RD,Jefferson
+366,2,09:55,BAU,24,12,3_Pts_T,Draper
+367,2,10:00,NaN,24,12,inicio_quarto,
+368,1,00:00,NaN,24,12,fim_quarto,
+369,1,00:03,SPF,24,12,AS,Georginho
+370,1,00:03,SPF,24,12,2_Pts_C,Renan
+371,1,00:28,BAU,22,12,AS,Faggiano
+372,1,00:28,BAU,22,12,2_Pts_C,Malachias
+373,1,00:36,BAU,22,10,RO,Faggiano
+374,1,00:40,BAU,22,10,3_Pts_T,Larry
+375,1,00:47,BAU,22,10,RD,Malachias
+376,1,00:47,SPF,22,10,LL_Pts_T,Shamell
+377,1,00:47,SPF,22,10,LL_Pts_C,Shamell
+378,1,00:47,SPF,21,10,FR,Shamell
+379,1,00:47,BAU,21,10,FC,Faggiano
+380,1,01:09,SPF,21,10,RD,Renan
+381,1,01:12,BAU,21,10,2_Pts_T,Malachias
+382,1,01:31,SPF,21,10,AS,Georginho
+383,1,01:31,SPF,21,10,3_Pts_C,Shamell
+384,1,01:33,SPF,18,10,RO,Georginho
+385,1,01:35,SPF,18,10,3_Pts_T,Jefferson
+386,1,01:45,SPF,18,10,FR,Léo Meindl
+387,1,01:45,BAU,18,10,FC,Crescenzi
+388,1,01:45,SPF,18,10,RO,São Paulo
+389,1,01:45,SPF,18,10,2_Pts_T,Léo Meindl
+390,1,02:08,BAU,18,10,2_Pts_C,Faggiano
+391,1,02:21,SPF,18,8,LL_Pts_C,Léo Meindl
+392,1,02:21,SPF,17,8,AS,Shamell
+393,1,02:21,SPF,17,8,LL_Pts_C,Léo Meindl
+394,1,02:21,BAU,16,8,substituicao_entra,Crescenzi
+395,1,02:21,BAU,16,8,substituicao_sai,Wiggins
+396,1,02:21,BAU,16,8,substituicao_entra,Larry
+397,1,02:21,BAU,16,8,substituicao_sai,L  Brito
+398,1,02:21,SPF,16,8,FR,Léo Meindl
+399,1,02:21,BAU,16,8,FC,Wiggins
+400,1,02:26,SPF,16,8,BR,Jefferson
+401,1,02:26,BAU,16,8,ER,Faggiano
+402,1,02:32,BAU,16,8,RD,Faggiano
+403,1,02:35,SPF,16,8,3_Pts_T,Jefferson
+404,1,02:54,BAU,16,8,AS,Wiggins
+405,1,02:54,BAU,16,8,3_Pts_C,Draper
+406,1,03:07,SPF,16,5,EN,Renan
+407,1,03:07,SPF,14,5,RO,Renan
+408,1,03:12,SPF,14,5,2_Pts_T,Shamell
+409,1,03:15,SPF,14,5,RD,Georginho
+410,1,03:18,BAU,14,5,2_Pts_T,Wiggins
+411,1,03:22,BAU,14,5,RD,Malachias
+412,1,03:27,SPF,14,5,2_Pts_T,Léo Meindl
+413,1,03:41,BAU,14,5,ER,L  Brito
+414,1,03:58,SPF,14,5,AS,Jefferson
+415,1,03:58,SPF,14,5,EN,Renan
+416,1,04:12,BAU,12,5,2_Pts_C,L  Brito
+417,1,04:25,SPF,12,3,AS,Georginho
+418,1,04:25,SPF,12,3,3_Pts_C,Shamell
+419,1,04:36,SPF,9,3,RD,Renan
+420,1,04:40,SPF,9,3,TO,Renan
+421,1,04:40,BAU,9,3,2_Pts_T,Malachias
+422,1,05:04,BAU,9,3,substituicao_entra,Malachias
+423,1,05:04,BAU,9,3,substituicao_sai,Jaú
+424,1,05:04,SPF,9,3,ER,Renan
+425,1,05:19,BAU,9,3,AS,Faggiano
+426,1,05:19,BAU,9,3,3_Pts_C,Wiggins
+427,1,05:22,BAU,9,0,RO,Draper
+428,1,05:25,BAU,9,0,2_Pts_T,Jaú
+429,1,05:38,BAU,9,0,RD,Jaú
+430,1,05:41,SPF,9,0,3_Pts_T,Léo Meindl
+431,1,05:50,SPF,9,0,RD,Georginho
+432,1,05:52,BAU,9,0,2_Pts_T,Jaú
+433,1,06:13,BAU,9,0,tempo_tecnico,Bauru
+434,1,06:13,SPF,9,0,AS,Léo Meindl
+435,1,06:13,SPF,9,0,3_Pts_C,Shamell
+436,1,06:32,SPF,6,0,RD,Jefferson
+437,1,06:34,BAU,6,0,2_Pts_T,Jaú
+438,1,06:40,BAU,6,0,RD,Jaú
+439,1,06:43,SPF,6,0,2_Pts_T,Jefferson
+440,1,06:52,SPF,6,0,RD,Renan
+441,1,06:54,BAU,6,0,3_Pts_T,Faggiano
+442,1,07:11,SPF,6,0,ER,Renan
+443,1,07:27,SPF,6,0,RD,Jefferson
+444,1,07:29,BAU,6,0,2_Pts_T,Draper
+445,1,07:51,BAU,6,0,FR,Jaú
+446,1,07:51,SPF,6,0,FC,Jefferson
+447,1,07:51,BAU,6,0,RD,Jaú
+448,1,07:54,SPF,6,0,3_Pts_T,Renan
+449,1,08:03,SPF,6,0,RD,Jefferson
+450,1,08:05,BAU,6,0,2_Pts_T,Wiggins
+451,1,08:10,BAU,6,0,RD,Wiggins
+452,1,08:13,SPF,6,0,3_Pts_T,Shamell
+453,1,08:17,SPF,6,0,RD,Jefferson
+454,1,08:20,SPF,6,0,TO,Jefferson
+455,1,08:20,BAU,6,0,2_Pts_T,L  Brito
+456,1,08:43,SPF,6,0,AS,Léo Meindl
+457,1,08:43,SPF,6,0,3_Pts_C,Shamell
+458,1,08:48,SPF,3,0,RD,Georginho
+459,1,08:54,SPF,3,0,TO,Léo Meindl
+460,1,08:54,BAU,3,0,2_Pts_T,Faggiano
+461,1,09:00,BAU,3,0,RD,Draper
+462,1,09:04,SPF,3,0,2_Pts_T,Renan
+463,1,09:09,SPF,3,0,RD,Jefferson
+464,1,09:13,BAU,3,0,2_Pts_T,Draper
+465,1,09:35,SPF,3,0,AS,Shamell
+466,1,09:35,SPF,3,0,3_Pts_C,Léo Meindl
+467,1,09:44,SPF,0,0,RD,Jefferson
+468,1,09:47,BAU,0,0,2_Pts_T,Jaú
+469,1,09:51,BAU,0,0,RD,Jaú
+470,1,09:56,BAU,0,0,TO,L  Brito
+471,1,09:56,SPF,0,0,2_Pts_T,Léo Meindl
+472,1,10:00,BAU,0,0,substituicao_entra,Jaú
+473,1,10:00,BAU,0,0,substituicao_entra,Draper
+474,1,10:00,BAU,0,0,substituicao_entra,Wiggins
+475,1,10:00,BAU,0,0,substituicao_entra,L  Brito
+476,1,10:00,BAU,0,0,substituicao_entra,Faggiano
+477,1,10:00,SPF,0,0,substituicao_entra,Renan
+478,1,10:00,SPF,0,0,substituicao_entra,Léo Meindl
+479,1,10:00,SPF,0,0,substituicao_entra,Georginho
+480,1,10:00,SPF,0,0,substituicao_entra,Jefferson
+481,1,10:00,SPF,0,0,substituicao_entra,Shamell
+482,1,10:00,NaN,0,0,inicio_partida,

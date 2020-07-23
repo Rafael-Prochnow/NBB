@@ -1,0 +1,483 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,67,76,fim_partida,
+1,4,00:11,CAX,67,76,BR,Cauê V 
+2,4,00:11,CEA,67,76,ER,Paulinho
+3,4,00:16,CAX,67,76,AS,Cauê V 
+4,4,00:16,CAX,67,76,2_Pts_C,Cafferata
+5,4,00:20,CAX,67,74,BR,Marcão
+6,4,00:20,CEA,67,74,ER,Rashaun
+7,4,00:29,CAX,67,74,LL_Pts_C,Cauê B 
+8,4,00:29,CAX,67,73,LL_Pts_C,Cauê B 
+9,4,00:29,CAX,67,72,FR,Cauê B 
+10,4,00:29,CEA,67,72,FC,Davi
+11,4,00:32,CAX,67,72,RD,Cauê V 
+12,4,00:32,CEA,67,72,LL_Pts_T,Davi
+13,4,00:32,CEA,67,72,LL_Pts_T,Davi
+14,4,00:32,CAX,67,72,substituicao_entra,Pedro
+15,4,00:32,CAX,67,72,substituicao_sai,Alex
+16,4,00:32,CEA,67,72,FR,Davi
+17,4,00:32,CAX,67,72,FC,Alex
+18,4,00:41,CAX,67,72,LL_Pts_C,Cafferata
+19,4,00:41,CAX,67,71,LL_Pts_C,Cafferata
+20,4,00:41,CAX,67,70,FR,Cafferata
+21,4,00:41,CEA,67,70,FC,Paulinho
+22,4,00:44,CEA,67,70,2_Pts_C,B  Fiorotto
+23,4,00:55,CEA,65,70,RD,B  Fiorotto
+24,4,00:57,CAX,65,70,LL_Pts_T,Alex
+25,4,00:57,CAX,65,70,LL_Pts_T,Alex
+26,4,00:57,CAX,65,70,FR,Alex
+27,4,00:57,CEA,65,70,FC,Betinho
+28,4,00:57,CAX,65,70,BR,Alex
+29,4,00:57,CEA,65,70,ER,Paulinho
+30,4,01:02,CEA,65,70,tempo_tecnico,Basq  Cearense
+31,4,01:02,CAX,65,70,LL_Pts_C,Alex
+32,4,01:02,CAX,65,69,LL_Pts_C,Alex
+33,4,01:02,CEA,65,68,substituicao_entra,Betinho
+34,4,01:02,CEA,65,68,substituicao_sai,Felipe
+35,4,01:02,CAX,65,68,FR,Alex
+36,4,01:02,CEA,65,68,FC,Felipe
+37,4,01:16,CAX,65,68,FR,Marcão
+38,4,01:16,CEA,65,68,FC,Paulinho
+39,4,01:39,CEA,65,68,AS,B  Fiorotto
+40,4,01:39,CEA,65,68,3_Pts_C,Davi
+41,4,01:51,CAX,62,68,substituicao_entra,Marcão
+42,4,01:51,CAX,62,68,substituicao_sai,Paranhos
+43,4,01:51,CEA,62,68,FR,Davi
+44,4,01:51,CAX,62,68,ER,Paranhos
+45,4,01:51,CAX,62,68,FC_O,Paranhos
+46,4,01:59,CAX,62,68,BR,Cafferata
+47,4,01:59,CEA,62,68,ER,B  Fiorotto
+48,4,02:18,CAX,62,68,AS,Cafferata
+49,4,02:18,CAX,62,68,EN,Paranhos
+50,4,02:41,CEA,62,66,2_Pts_C,B  Fiorotto
+51,4,02:58,CAX,60,66,2_Pts_C,Cauê V 
+52,4,03:12,CAX,60,64,FR,Cauê B 
+53,4,03:12,CEA,60,64,FC,B  Fiorotto
+54,4,03:18,CAX,60,64,FR,Paranhos
+55,4,03:18,CEA,60,64,FC,Felipe
+56,4,03:33,CAX,60,64,substituicao_entra,Alex
+57,4,03:33,CAX,60,64,substituicao_sai,Nandão
+58,4,03:34,CEA,60,64,AS,B  Fiorotto
+59,4,03:34,CEA,60,64,3_Pts_C,Rashaun
+60,4,03:43,CAX,57,64,2_Pts_C,Paranhos
+61,4,03:46,CAX,57,62,BR,Paranhos
+62,4,03:46,CEA,57,62,ER,B  Fiorotto
+63,4,03:51,CEA,57,62,RD,B  Fiorotto
+64,4,03:56,CAX,57,62,3_Pts_T,Cauê B 
+65,4,04:16,CEA,57,62,3_Pts_C,Rashaun
+66,4,04:25,CEA,54,62,substituicao_entra,Davi
+67,4,04:25,CEA,54,62,substituicao_sai,Betinho
+68,4,04:25,CEA,54,62,tempo_tecnico,Basq  Cearense
+69,4,04:35,CAX,54,62,3_Pts_C,Cauê V 
+70,4,04:45,CAX,54,59,RO,Paranhos
+71,4,04:50,CAX,54,59,3_Pts_T,Cauê V 
+72,4,04:54,CAX,54,59,RD,Paranhos
+73,4,04:56,CEA,54,59,3_Pts_T,Betinho
+74,4,05:22,CAX,54,59,2_Pts_C,Cauê B 
+75,4,05:27,CAX,54,57,BR,Cafferata
+76,4,05:27,CEA,54,57,ER,Paulinho
+77,4,05:37,CAX,54,57,2_Pts_C,Paranhos
+78,4,05:38,CAX,54,55,RO,Paranhos
+79,4,05:41,CAX,54,55,2_Pts_T,Cauê B 
+80,4,05:56,CEA,54,55,3_Pts_C,Rashaun
+81,4,06:15,CEA,51,55,RD,Basq  Cearense
+82,4,06:18,CAX,51,55,2_Pts_T,Cafferata
+83,4,06:31,CAX,51,55,RO,Caxias do Sul
+84,4,06:31,CEA,51,55,TO,Felipe
+85,4,06:31,CAX,51,55,2_Pts_T,Cauê B 
+86,4,06:33,CAX,51,55,BR,Cafferata
+87,4,06:33,CEA,51,55,ER,Betinho
+88,4,06:47,CEA,51,55,RD,Basq  Cearense
+89,4,06:49,CAX,51,55,3_Pts_T,Cafferata
+90,4,07:03,CAX,51,55,RD,Paranhos
+91,4,07:05,CEA,51,55,3_Pts_T,Betinho
+92,4,07:28,CEA,51,55,RD,Felipe
+93,4,07:31,CAX,51,55,3_Pts_T,Cauê B 
+94,4,07:48,CAX,51,55,tempo_tecnico,Caxias do Sul
+95,4,07:52,CEA,51,55,AS,Rashaun
+96,4,07:52,CEA,51,55,3_Pts_C,B  Fiorotto
+97,4,07:53,CEA,48,55,RO,Basq  Cearense
+98,4,07:53,CEA,48,55,2_Pts_T,Felipe
+99,4,07:53,CEA,48,55,RO,Felipe
+100,4,07:56,CEA,48,55,2_Pts_T,Paulinho
+101,4,08:01,CEA,48,55,RD,B  Fiorotto
+102,4,08:04,CAX,48,55,3_Pts_T,Cauê V 
+103,4,08:27,CEA,48,55,3_Pts_C,Paulinho
+104,4,08:33,CEA,45,55,RD,Rashaun
+105,4,08:38,CAX,45,55,2_Pts_T,Nandão
+106,4,08:52,CAX,45,55,RD,Paranhos
+107,4,08:59,CAX,45,55,TO,Paranhos
+108,4,08:59,CEA,45,55,2_Pts_T,Betinho
+109,4,09:11,CEA,45,55,AS,Paulinho
+110,4,09:11,CEA,45,55,LL_Pts_C,B  Fiorotto
+111,4,09:11,CEA,44,55,LL_Pts_T,B  Fiorotto
+112,4,09:11,CEA,44,55,substituicao_entra,Betinho
+113,4,09:11,CEA,44,55,substituicao_sai,Sualisson
+114,4,09:11,CEA,44,55,FR,B  Fiorotto
+115,4,09:11,CAX,44,55,FC_A,Paranhos
+116,4,09:16,CEA,44,55,FR,Paulinho
+117,4,09:16,CAX,44,55,FC,Cafferata
+118,4,09:18,CEA,44,55,BR,Felipe
+119,4,09:18,CAX,44,55,ER,Paranhos
+120,4,09:39,CAX,44,55,RD,Cauê V 
+121,4,09:42,CEA,44,55,LL_Pts_T,Sualisson
+122,4,09:42,CEA,44,55,LL_Pts_T,Sualisson
+123,4,09:42,CAX,44,55,substituicao_entra,Nandão
+124,4,09:42,CAX,44,55,substituicao_sai,Alex
+125,4,09:42,CEA,44,55,FR,Sualisson
+126,4,09:42,CAX,44,55,FC,Alex
+127,4,09:42,CEA,44,55,RO,Sualisson
+128,4,09:42,CEA,44,55,2_Pts_T,Rashaun
+129,4,10:00,NaN,44,55,inicio_quarto,
+130,3,00:00,NaN,44,55,fim_quarto,
+131,3,00:07,CAX,44,55,AS,Cafferata
+132,3,00:07,CAX,44,55,3_Pts_C,Alex
+133,3,00:14,CEA,44,52,LL_Pts_C,Rashaun
+134,3,00:14,CEA,43,52,LL_Pts_T,Rashaun
+135,3,00:15,CEA,43,52,FR,Rashaun
+136,3,00:15,CAX,43,52,FC,Paranhos
+137,3,00:29,CEA,43,52,RD,Rashaun
+138,3,00:31,CAX,43,52,2_Pts_T,Cauê V 
+139,3,00:46,CAX,43,52,RD,Alex
+140,3,00:49,CEA,43,52,2_Pts_T,Leonardo
+141,3,00:51,CEA,43,52,RO,Leonardo
+142,3,00:54,CEA,43,52,2_Pts_T,Davi
+143,3,01:06,CEA,43,52,RD,Leonardo
+144,3,01:07,CAX,43,52,LL_Pts_T,Paranhos
+145,3,01:07,CAX,43,52,LL_Pts_T,Paranhos
+146,3,01:09,CAX,43,52,FR,Paranhos
+147,3,01:09,CEA,43,52,FC,Paulinho
+148,3,01:28,CEA,43,52,ER,Leonardo
+149,3,01:31,CEA,43,52,RO,Leonardo
+150,3,01:34,CEA,43,52,2_Pts_T,Leonardo
+151,3,01:48,CEA,43,52,substituicao_entra,Betinho
+152,3,01:48,CEA,43,52,substituicao_sai,Felipe
+153,3,01:48,CEA,43,52,tempo_tecnico,Basq  Cearense
+154,3,01:52,CAX,43,52,AS,Cauê V 
+155,3,01:52,CAX,43,52,3_Pts_C,Alex
+156,3,01:55,CAX,43,49,RD,Cauê V 
+157,3,01:59,CEA,43,49,3_Pts_T,Rashaun
+158,3,02:16,CAX,43,49,AS,Cauê B 
+159,3,02:16,CAX,43,49,3_Pts_C,Alex
+160,3,02:40,CAX,43,46,FR,Cafferata
+161,3,02:40,CEA,43,46,ER,Felipe
+162,3,02:40,CEA,43,46,FC_O,Felipe
+163,3,02:58,CAX,43,46,AS,Paranhos
+164,3,02:58,CAX,43,46,3_Pts_C,Cafferata
+165,3,03:15,CEA,43,43,substituicao_entra,Felipe
+166,3,03:15,CEA,43,43,substituicao_sai,B  Fiorotto
+167,3,03:15,CAX,43,43,FR,Alex
+168,3,03:15,CEA,43,43,ER,Leonardo
+169,3,03:15,CEA,43,43,FC_O,Leonardo
+170,3,03:15,CAX,43,43,RD,Caxias do Sul
+171,3,03:15,CEA,43,43,3_Pts_T,Paulinho
+172,3,03:17,CEA,43,43,RO,Davi
+173,3,03:18,CEA,43,43,LL_Pts_T,Davi
+174,3,03:18,CEA,43,43,LL_Pts_C,Davi
+175,3,03:18,CEA,42,43,FR,Davi
+176,3,03:18,CAX,42,43,FC,Alex
+177,3,03:35,CAX,42,43,LL_Pts_C,Cafferata
+178,3,03:35,CAX,42,42,FR,Cafferata
+179,3,03:35,CEA,42,42,FC,Leonardo
+180,3,03:35,CAX,42,42,2_Pts_C,Cafferata
+181,3,03:58,CAX,42,40,FR,Alex
+182,3,03:58,CEA,42,40,ER,B  Fiorotto
+183,3,03:58,CEA,42,40,FC_O,B  Fiorotto
+184,3,04:05,CEA,42,40,substituicao_entra,Davi
+185,3,04:05,CEA,42,40,substituicao_sai,Betinho
+186,3,04:05,CEA,42,40,FR,Paulinho
+187,3,04:05,CAX,42,40,FC,Alex
+188,3,04:12,CEA,42,40,RD,B  Fiorotto
+189,3,04:14,CAX,42,40,2_Pts_T,Paranhos
+190,3,04:20,CAX,42,40,RD,Caxias do Sul
+191,3,04:20,CEA,42,40,3_Pts_T,Rashaun
+192,3,04:42,CAX,42,40,substituicao_entra,Cafferata
+193,3,04:42,CAX,42,40,substituicao_sai,Marcão
+194,3,04:54,CAX,42,40,AS,Alex
+195,3,04:54,CAX,42,40,3_Pts_C,Cauê V 
+196,3,05:08,CAX,42,37,BR,Alex
+197,3,05:08,CEA,42,37,ER,Paulinho
+198,3,05:27,CEA,42,37,BR,Paulinho
+199,3,05:27,CAX,42,37,ER,Paranhos
+200,3,05:45,CEA,42,37,AS,Paulinho
+201,3,05:45,CEA,42,37,3_Pts_C,B  Fiorotto
+202,3,05:59,CEA,39,37,LL_Pts_C,Betinho
+203,3,05:59,CAX,38,37,FC_T,Cauê V 
+204,3,05:59,CEA,38,37,FR,Leonardo
+205,3,05:59,CAX,38,37,FC,Marcão
+206,3,05:59,CEA,38,37,RO,Leonardo
+207,3,05:59,CEA,38,37,2_Pts_T,Leonardo
+208,3,06:17,CAX,38,37,2_Pts_C,Cauê B 
+209,3,06:20,CAX,38,35,BR,Cauê B 
+210,3,06:20,CEA,38,35,ER,B  Fiorotto
+211,3,06:23,CEA,38,35,RO,B  Fiorotto
+212,3,06:27,CEA,38,35,3_Pts_T,Betinho
+213,3,06:44,CAX,38,35,AS,Cauê B 
+214,3,06:44,CAX,38,35,3_Pts_C,Marcão
+215,3,06:57,CEA,38,32,AS,Betinho
+216,3,06:57,CEA,38,32,LL_Pts_C,B  Fiorotto
+217,3,06:57,CEA,37,32,LL_Pts_T,B  Fiorotto
+218,3,06:57,CEA,37,32,FR,B  Fiorotto
+219,3,06:57,CAX,37,32,FC,Marcão
+220,3,06:57,CEA,37,32,RD,Rashaun
+221,3,06:57,CAX,37,32,3_Pts_T,Alex
+222,3,07:05,CEA,37,32,ER,Rashaun
+223,3,07:23,CEA,37,32,RO,B  Fiorotto
+224,3,07:25,CEA,37,32,3_Pts_T,Paulinho
+225,3,07:43,CEA,37,32,RD,Basq  Cearense
+226,3,07:45,CAX,37,32,3_Pts_T,Marcão
+227,3,07:53,CEA,37,32,AS,Rashaun
+228,3,07:53,CEA,37,32,3_Pts_C,Betinho
+229,3,08:10,CAX,34,32,AS,Cauê V 
+230,3,08:10,CAX,34,32,3_Pts_C,Alex
+231,3,08:31,CEA,34,29,2_Pts_C,Leonardo
+232,3,08:35,CEA,32,29,RO,Leonardo
+233,3,08:35,CEA,32,29,2_Pts_T,Paulinho
+234,3,08:43,CAX,32,29,ER,Cauê B 
+235,3,08:47,CAX,32,29,BR,Marcão
+236,3,08:47,CEA,32,29,ER,Paulinho
+237,3,08:55,CEA,32,29,RD,Leonardo
+238,3,08:58,CAX,32,29,2_Pts_T,Paranhos
+239,3,09:16,CEA,32,29,2_Pts_C,Paulinho
+240,3,09:25,CAX,30,29,2_Pts_C,Cauê V 
+241,3,09:49,CAX,30,27,BR,Cauê B 
+242,3,09:49,CEA,30,27,ER,B  Fiorotto
+243,3,10:00,NaN,30,27,inicio_quarto,
+244,2,00:00,NaN,30,27,fim_quarto,
+245,2,00:13,CEA,30,27,3_Pts_C,Rashaun
+246,2,00:38,CAX,27,27,AS,Cafferata
+247,2,00:38,CAX,27,27,3_Pts_C,Cauê V 
+248,2,00:54,CAX,27,24,RD,Paranhos
+249,2,00:57,CEA,27,24,2_Pts_T,Davi
+250,2,01:09,CEA,27,24,substituicao_entra,Davi
+251,2,01:09,CEA,27,24,substituicao_sai,Felipe
+252,2,01:09,CEA,27,24,tempo_tecnico,Basq  Cearense
+253,2,01:29,CAX,27,24,2_Pts_C,Cauê B 
+254,2,01:44,CEA,27,22,2_Pts_C,B  Fiorotto
+255,2,01:45,CEA,25,22,RO,B  Fiorotto
+256,2,01:45,CEA,25,22,2_Pts_T,Felipe
+257,2,01:59,CAX,25,22,substituicao_entra,Nandão
+258,2,01:59,CAX,25,22,substituicao_sai,Marcão
+259,2,01:59,CAX,25,22,ER,Marcão
+260,2,02:16,CEA,25,22,AS,Paulinho
+261,2,02:16,CEA,25,22,2_Pts_C,Felipe
+262,2,02:22,CEA,23,22,RD,B  Fiorotto
+263,2,02:26,CAX,23,22,3_Pts_T,Cauê B 
+264,2,02:31,CAX,23,22,BR,Cafferata
+265,2,02:31,CEA,23,22,ER,Rashaun
+266,2,02:38,CEA,23,22,RD,B  Fiorotto
+267,2,02:42,CAX,23,22,3_Pts_T,Cauê V 
+268,2,03:02,CAX,23,22,tempo_tecnico,Caxias do Sul
+269,2,03:02,CEA,23,22,2_Pts_C,B  Fiorotto
+270,2,03:23,CEA,21,22,RD,B  Fiorotto
+271,2,03:25,CAX,21,22,2_Pts_T,Paranhos
+272,2,03:39,CAX,21,22,RD,Marcão
+273,2,03:43,CEA,21,22,2_Pts_T,B  Fiorotto
+274,2,03:50,CEA,21,22,substituicao_entra,Felipe
+275,2,03:50,CEA,21,22,substituicao_sai,Molony Benjamin
+276,2,03:50,CAX,21,22,ER,Cauê V 
+277,2,04:02,CEA,21,22,ER,
+278,2,04:23,CEA,21,22,substituicao_entra,Betinho
+279,2,04:23,CEA,21,22,substituicao_sai,Laster
+280,2,04:28,CAX,21,22,AS,Cafferata
+281,2,04:28,CAX,21,22,LL_Pts_C,Marcão
+282,2,04:28,CAX,21,21,LL_Pts_C,Marcão
+283,2,04:28,CAX,21,20,FR,Marcão
+284,2,04:28,CEA,21,20,FC,Molony Benjamin
+285,2,04:43,CAX,21,20,RD,Paranhos
+286,2,04:44,CEA,21,20,AS,Paulinho
+287,2,04:44,CEA,21,20,LL_Pts_T,Molony Benjamin
+288,2,04:44,CEA,21,20,LL_Pts_C,Molony Benjamin
+289,2,04:44,CEA,20,20,FR,Molony Benjamin
+290,2,04:44,CAX,20,20,FC,Paranhos
+291,2,04:57,CEA,20,20,FR,Molony Benjamin
+292,2,04:57,CAX,20,20,ER,Marcão
+293,2,04:57,CAX,20,20,FC_O,Marcão
+294,2,05:09,CAX,20,20,LL_Pts_C,Marcão
+295,2,05:09,CAX,20,19,substituicao_entra,Cauê B 
+296,2,05:09,CAX,20,19,substituicao_sai,Alex
+297,2,05:09,CEA,20,19,FC_T,Molony Benjamin
+298,2,05:09,CAX,20,19,RO,Caxias do Sul
+299,2,05:10,CAX,20,19,3_Pts_T,Alex
+300,2,05:12,CAX,20,19,RD,Paranhos
+301,2,05:21,CEA,20,19,2_Pts_T,Paulinho
+302,2,05:32,CEA,20,19,FR,Rashaun
+303,2,05:32,CAX,20,19,FC,Alex
+304,2,05:40,CEA,20,19,RD,B  Fiorotto
+305,2,05:43,CAX,20,19,3_Pts_T,Cauê V 
+306,2,06:07,CEA,20,19,AS,Rashaun
+307,2,06:07,CEA,20,19,3_Pts_C,B  Fiorotto
+308,2,06:27,CAX,17,19,substituicao_entra,Cauê V 
+309,2,06:27,CAX,17,19,substituicao_sai,Pedro
+310,2,06:27,CEA,17,19,substituicao_entra,Paulinho
+311,2,06:27,CEA,17,19,substituicao_sai,Davi
+312,2,06:27,CEA,17,19,FR,Rashaun
+313,2,06:27,CAX,17,19,ER,Pedro
+314,2,06:27,CAX,17,19,FC_O,Pedro
+315,2,06:35,CAX,17,19,RD,Marcão
+316,2,06:38,CEA,17,19,3_Pts_T,Laster
+317,2,06:56,CEA,17,19,BR,Molony Benjamin
+318,2,06:56,CAX,17,19,ER,Alex
+319,2,07:08,CEA,17,19,substituicao_entra,Laster
+320,2,07:08,CEA,17,19,substituicao_sai,Sualisson
+321,2,07:08,CAX,17,19,substituicao_entra,Marcão
+322,2,07:08,CAX,17,19,substituicao_sai,Buboltz 
+323,2,07:20,CAX,17,19,BR,Cafferata
+324,2,07:20,CEA,17,19,ER,Molony Benjamin
+325,2,07:34,CEA,17,19,RD,B  Fiorotto
+326,2,07:38,CAX,17,19,3_Pts_T,Alex
+327,2,07:55,CAX,17,19,FR,Cafferata
+328,2,07:55,CEA,17,19,ER,Davi
+329,2,07:55,CEA,17,19,FC_O,Davi
+330,2,08:05,CAX,17,19,ER,Cafferata
+331,2,08:06,CAX,17,19,RD,Buboltz 
+332,2,08:08,CEA,17,19,2_Pts_T,B  Fiorotto
+333,2,08:22,CAX,17,19,substituicao_entra,Pedro
+334,2,08:22,CAX,17,19,substituicao_sai,Cauê B 
+335,2,08:22,CEA,17,19,substituicao_entra,Rashaun
+336,2,08:22,CEA,17,19,substituicao_sai,Betinho
+337,2,08:24,CEA,17,19,RD,Betinho
+338,2,08:28,CAX,17,19,3_Pts_T,Alex
+339,2,08:33,CAX,17,19,RD,Paranhos
+340,2,08:39,CAX,17,19,TO,Paranhos
+341,2,08:39,CEA,17,19,2_Pts_T,Molony Benjamin
+342,2,08:44,CEA,17,19,RO,Sualisson
+343,2,08:47,CEA,17,19,3_Pts_T,Betinho
+344,2,08:58,CAX,17,19,AS,Cafferata
+345,2,08:58,CAX,17,19,2_Pts_C,Paranhos
+346,2,09:21,CEA,17,17,AS,Molony Benjamin
+347,2,09:21,CEA,17,17,2_Pts_C,B  Fiorotto
+348,2,09:38,CEA,15,17,RD,Basq  Cearense
+349,2,09:40,CAX,15,17,3_Pts_T,Cafferata
+350,2,09:53,CAX,15,17,FR,Cauê B 
+351,2,09:53,CEA,15,17,FC,Sualisson
+352,2,10:00,NaN,15,17,inicio_quarto,
+353,1,00:00,NaN,15,17,fim_quarto,
+354,1,00:04,CEA,15,17,BR,Molony Benjamin
+355,1,00:04,CAX,15,17,ER,Cauê B 
+356,1,00:14,CAX,15,17,RD,Cauê B 
+357,1,00:15,CEA,15,17,2_Pts_T,Molony Benjamin
+358,1,00:28,CEA,15,17,RO,Molony Benjamin
+359,1,00:28,CEA,15,17,2_Pts_T,Molony Benjamin
+360,1,00:33,CEA,15,17,RO,Molony Benjamin
+361,1,00:33,CEA,15,17,2_Pts_T,Sualisson
+362,1,00:46,CAX,15,17,LL_Pts_C,Alex
+363,1,00:46,CAX,15,16,FR,Alex
+364,1,00:46,CEA,15,16,FC,Molony Benjamin
+365,1,00:46,CAX,15,16,2_Pts_C,Alex
+366,1,00:57,CAX,15,14,RD,Paranhos
+367,1,00:59,CEA,15,14,AS,B  Fiorotto
+368,1,00:59,CEA,15,14,LL_Pts_T,Molony Benjamin
+369,1,00:59,CEA,15,14,LL_Pts_C,Molony Benjamin
+370,1,00:59,CEA,14,14,FR,Molony Benjamin
+371,1,00:59,CAX,14,14,FC,Buboltz 
+372,1,01:04,CAX,14,14,AS,Paranhos
+373,1,01:04,CAX,14,14,2_Pts_C,Buboltz 
+374,1,01:17,CAX,14,12,substituicao_entra,Buboltz 
+375,1,01:17,CAX,14,12,substituicao_sai,Pedro
+376,1,01:17,CEA,14,12,AS,Molony Benjamin
+377,1,01:17,CEA,14,12,LL_Pts_C,B  Fiorotto
+378,1,01:17,CEA,13,12,LL_Pts_T,B  Fiorotto
+379,1,01:17,CEA,13,12,FR,B  Fiorotto
+380,1,01:17,CAX,13,12,FC,Pedro
+381,1,01:34,CEA,13,12,substituicao_entra,Sualisson
+382,1,01:34,CEA,13,12,substituicao_sai,Rashaun
+383,1,01:34,CEA,13,12,tempo_tecnico,Basq  Cearense
+384,1,01:34,CAX,13,12,2_Pts_C,Pedro
+385,1,01:34,CAX,13,10,BR,Pedro
+386,1,01:34,CEA,13,10,ER,Betinho
+387,1,01:56,CEA,13,10,substituicao_entra,Molony Benjamin
+388,1,01:56,CEA,13,10,substituicao_sai,Felipe
+389,1,01:56,CAX,13,10,LL_Pts_C,Cauê B 
+390,1,01:56,CAX,13,9,LL_Pts_C,Cauê B 
+391,1,01:56,CAX,13,8,substituicao_entra,Paranhos
+392,1,01:56,CAX,13,8,substituicao_sai,Marcão
+393,1,01:57,CAX,13,8,FR,Cauê B 
+394,1,01:57,CEA,13,8,FC,Betinho
+395,1,02:07,CAX,13,8,RD,Pedro
+396,1,02:11,CEA,13,8,3_Pts_T,Betinho
+397,1,02:19,CAX,13,8,2_Pts_C,Pedro
+398,1,02:26,CAX,13,6,BR,Marcão
+399,1,02:26,CEA,13,6,ER,B  Fiorotto
+400,1,02:43,CAX,13,6,substituicao_entra,Cafferata
+401,1,02:43,CAX,13,6,substituicao_sai,Cauê V 
+402,1,02:43,CAX,13,6,ER,Marcão
+403,1,02:43,CEA,13,6,substituicao_entra,B  Fiorotto
+404,1,02:43,CEA,13,6,substituicao_sai,Leonardo
+405,1,02:43,CEA,13,6,substituicao_entra,Davi
+406,1,02:43,CEA,13,6,substituicao_sai,Paulinho
+407,1,02:55,CAX,13,6,RD,Cauê V 
+408,1,03:01,CEA,13,6,3_Pts_T,Felipe
+409,1,03:22,CAX,13,6,2_Pts_C,Cauê B 
+410,1,03:23,CAX,13,4,RO,Cauê B 
+411,1,03:26,CAX,13,4,2_Pts_T,Pedro
+412,1,03:36,CEA,13,4,ER,Paulinho
+413,1,03:44,CEA,13,4,FR,Rashaun
+414,1,03:44,CAX,13,4,FC,Pedro
+415,1,03:51,CAX,13,4,tempo_tecnico,Caxias do Sul
+416,1,03:51,CAX,13,4,ER,Cauê B 
+417,1,04:24,CEA,13,4,2_Pts_C,Rashaun
+418,1,04:37,CEA,11,4,RD,Betinho
+419,1,04:41,CAX,11,4,3_Pts_T,Pedro
+420,1,04:48,CAX,11,4,RD,Pedro
+421,1,04:51,CEA,11,4,2_Pts_T,Leonardo
+422,1,05:11,CAX,11,4,LL_Pts_C,Marcão
+423,1,05:11,CAX,11,3,LL_Pts_C,Marcão
+424,1,05:11,CAX,11,2,FR,Marcão
+425,1,05:11,CEA,11,2,FC,Felipe
+426,1,05:23,CEA,11,2,2_Pts_C,Rashaun
+427,1,05:35,CAX,9,2,ER,
+428,1,05:38,CEA,9,2,RD,Basq  Cearense
+429,1,05:38,CAX,9,2,2_Pts_T,Pedro
+430,1,05:49,CAX,9,2,FR,Marcão
+431,1,05:49,CEA,9,2,FC,Leonardo
+432,1,05:49,CAX,9,2,RO,Caxias do Sul
+433,1,05:51,CAX,9,2,3_Pts_T,Alex
+434,1,06:05,CAX,9,2,BR,Pedro
+435,1,06:05,CEA,9,2,ER,Paulinho
+436,1,06:25,CAX,9,2,2_Pts_C,Cauê B 
+437,1,06:35,CAX,9,0,substituicao_entra,Alex
+438,1,06:35,CAX,9,0,substituicao_sai,Paranhos
+439,1,06:35,CAX,9,0,FR,Pedro
+440,1,06:35,CEA,9,0,FC,Betinho
+441,1,06:44,CEA,9,0,2_Pts_C,Paulinho
+442,1,06:45,CEA,7,0,RD,Felipe
+443,1,06:48,CAX,7,0,2_Pts_T,Paranhos
+444,1,07:18,CAX,7,0,TO,Marcão
+445,1,07:18,CAX,7,0,RD,Caxias do Sul
+446,1,07:21,CEA,7,0,3_Pts_T,Betinho
+447,1,07:35,CEA,7,0,FR,Leonardo
+448,1,07:35,CAX,7,0,FC,Paranhos
+449,1,07:35,CEA,7,0,RD,Basq  Cearense
+450,1,07:35,CAX,7,0,3_Pts_T,Marcão
+451,1,07:41,CEA,7,0,AS,Rashaun
+452,1,07:41,CEA,7,0,3_Pts_C,Betinho
+453,1,07:44,CEA,4,0,RO,Rashaun
+454,1,07:47,CEA,4,0,2_Pts_T,Betinho
+455,1,07:51,CEA,4,0,BR,Felipe
+456,1,07:51,CAX,4,0,ER,Cauê V 
+457,1,08:13,CAX,4,0,RD,Pedro
+458,1,08:17,CEA,4,0,2_Pts_T,Leonardo
+459,1,08:20,CEA,4,0,RO,Leonardo
+460,1,08:26,CEA,4,0,3_Pts_T,Felipe
+461,1,08:32,CAX,4,0,,
+462,1,08:44,CEA,4,0,AS,Felipe
+463,1,08:44,CEA,4,0,2_Pts_C,Leonardo
+464,1,08:52,CEA,2,0,FR,Betinho
+465,1,08:52,CAX,2,0,FC,Marcão
+466,1,09:03,CAX,2,0,ER,Paranhos
+467,1,09:10,CAX,2,0,FR,Marcão
+468,1,09:10,CEA,2,0,FC,Felipe
+469,1,09:10,CAX,2,0,RO,Caxias do Sul
+470,1,09:16,CAX,2,0,3_Pts_T,Cauê V 
+471,1,09:38,CEA,2,0,2_Pts_C,Betinho
+472,1,10:00,CAX,0,0,substituicao_entra,Paranhos
+473,1,10:00,CAX,0,0,substituicao_entra,Marcão
+474,1,10:00,CAX,0,0,substituicao_entra,Pedro
+475,1,10:00,CAX,0,0,substituicao_entra,Cauê V 
+476,1,10:00,CAX,0,0,substituicao_entra,Cauê B 
+477,1,10:00,CEA,0,0,substituicao_entra,Felipe
+478,1,10:00,CEA,0,0,substituicao_entra,Betinho
+479,1,10:00,CEA,0,0,substituicao_entra,Rashaun
+480,1,10:00,CEA,0,0,substituicao_entra,Leonardo
+481,1,10:00,CEA,0,0,substituicao_entra,Paulinho

@@ -1,0 +1,536 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,88,85,fim_partida,
+1,4,00:00,NaN,88,85,fim_quarto, 
+2,4,00:00,CAP,88,85,3_Pts_T,Léo Meindl
+3,4,00:01,MIN,88,85,LL_Pts_C,Wesley
+4,4,00:01,MIN,87,85,LL_Pts_C,Wesley
+5,4,00:01,MIN,86,85,FR,Wesley
+6,4,00:01,CAP,86,85,FC,Léo Meindl
+7,4,00:08,MIN,86,85,RD,Paranhos
+8,4,00:08,CAP,86,85,2_Pts_T,Yago
+9,4,00:28,CAP,86,85,substituicao_entra,Yago
+10,4,00:28,CAP,86,85,substituicao_sai,De Paula
+11,4,00:28,MIN,86,85,substituicao_entra,Bob
+12,4,00:28,MIN,86,85,substituicao_sai,Jefferson
+13,4,00:28,MIN,86,85,substituicao_entra,Paranhos
+14,4,00:28,MIN,86,85,substituicao_sai,Daniel
+15,4,00:28,CAP,86,85,tempo_tecnico,Paulistano
+16,4,00:28,MIN,86,85,AS,Gegê
+17,4,00:28,MIN,86,85,EN,Wesley
+18,4,00:32,MIN,84,85,substituicao_entra,Daniel
+19,4,00:32,MIN,84,85,substituicao_sai,Bob
+20,4,00:32,MIN,84,85,tempo_tecnico,Minas
+21,4,00:32,CAP,84,85,LL_Pts_C,Léo Meindl
+22,4,00:32,CAP,84,84,LL_Pts_C,Léo Meindl
+23,4,00:32,CAP,84,83,substituicao_entra,De Paula
+24,4,00:32,CAP,84,83,substituicao_sai,Yago
+25,4,00:32,CAP,84,83,FR,Léo Meindl
+26,4,00:32,MIN,84,83,FC,Wesley
+27,4,00:32,CAP,84,83,BR,Guilherme
+28,4,00:32,MIN,84,83,ER,Wesley
+29,4,00:43,CAP,84,83,ER,Yago
+30,4,00:47,CAP,84,83,RD,Yago
+31,4,00:48,MIN,84,83,2_Pts_T,Bob
+32,4,00:48,MIN,84,83,RO,Bob
+33,4,00:57,MIN,84,83,2_Pts_T,Wesley
+34,4,01:02,CAP,84,83,2_Pts_C,Guilherme
+35,4,01:02,CAP,84,81,RO,Guilherme
+36,4,01:08,CAP,84,81,2_Pts_T,Léo Meindl
+37,4,01:10,CAP,84,81,BR,Yago
+38,4,01:10,MIN,84,81,ER,Bob
+39,4,01:18,MIN,84,81,RD,Bob
+40,4,01:22,CAP,84,81,2_Pts_T,Guilherme
+41,4,01:28,MIN,84,81,ER,
+42,4,01:28,MIN,84,81,2_Pts_T,Gegê
+43,4,01:55,MIN,84,81,substituicao_entra,Gegê
+44,4,01:55,MIN,84,81,substituicao_sai,Lucas
+45,4,01:55,CAP,84,81,ER,
+46,4,01:55,CAP,84,81,2_Pts_T,Léo Meindl
+47,4,02:09,MIN,84,81,substituicao_entra,Lucas
+48,4,02:09,MIN,84,81,substituicao_sai,Gegê
+49,4,02:09,CAP,84,81,RO,Paulistano
+50,4,02:09,CAP,84,81,2_Pts_T,Léo Meindl
+51,4,02:30,MIN,84,81,2_Pts_C,Bob
+52,4,02:45,MIN,82,81,FR,Wesley
+53,4,02:45,CAP,82,81,FC,Guilherme
+54,4,02:45,MIN,82,81,RD,Minas
+55,4,02:45,CAP,82,81,3_Pts_T,Léo Meindl
+56,4,02:48,CAP,82,81,RO,Guilherme
+57,4,02:51,CAP,82,81,2_Pts_T,Yago
+58,4,03:09,MIN,82,81,AS,Gegê
+59,4,03:09,MIN,82,81,3_Pts_C,Bob
+60,4,03:26,CAP,79,81,LL_Pts_C,Léo Meindl
+61,4,03:26,MIN,79,80,substituicao_entra,Gegê
+62,4,03:26,MIN,79,80,substituicao_sai,Lucas
+63,4,03:26,CAP,79,80,FR,Léo Meindl
+64,4,03:26,MIN,79,80,FC,Bob
+65,4,03:26,CAP,79,80,2_Pts_C,Léo Meindl
+66,4,03:32,MIN,79,78,substituicao_entra,Lucas
+67,4,03:32,MIN,79,78,substituicao_sai,Gegê
+68,4,03:32,MIN,79,78,substituicao_entra,D  Coleman
+69,4,03:32,MIN,79,78,substituicao_sai,Paranhos
+70,4,03:44,MIN,79,78,2_Pts_C,Gegê
+71,4,04:16,CAP,77,78,AS,Yago
+72,4,04:16,CAP,77,78,3_Pts_C,Eddy
+73,4,04:32,MIN,77,75,AS,Wesley
+74,4,04:32,MIN,77,75,3_Pts_C,Jefferson
+75,4,04:33,MIN,74,75,RO,Wesley
+76,4,04:36,MIN,74,75,3_Pts_T,Bob
+77,4,04:52,MIN,74,75,substituicao_entra,Gegê
+78,4,04:52,MIN,74,75,substituicao_sai,Lucas
+79,4,04:52,CAP,74,75,ER,
+80,4,04:55,CAP,74,75,RO,Guilherme
+81,4,04:55,CAP,74,75,3_Pts_T,Eddy
+82,4,05:19,CAP,74,75,substituicao_entra,Yago
+83,4,05:19,CAP,74,75,substituicao_sai,Du Sommer
+84,4,05:19,MIN,74,75,substituicao_entra,Lucas
+85,4,05:19,MIN,74,75,substituicao_sai,Gegê
+86,4,05:19,CAP,74,75,tempo_tecnico,Paulistano
+87,4,05:19,MIN,74,75,AS,Gegê
+88,4,05:19,MIN,74,75,2_Pts_C,Wesley
+89,4,05:33,MIN,72,75,BR,Gegê
+90,4,05:33,CAP,72,75,ER,Du Sommer
+91,4,05:47,CAP,72,75,RD,Léo Meindl
+92,4,05:49,MIN,72,75,LL_Pts_T,Bob
+93,4,05:49,MIN,72,75,LL_Pts_C,Bob
+94,4,05:49,CAP,71,75,substituicao_entra,Guilherme
+95,4,05:49,CAP,71,75,substituicao_sai,Victão
+96,4,05:49,CAP,71,75,substituicao_entra,Eddy
+97,4,05:49,CAP,71,75,substituicao_sai,De Paula
+98,4,05:49,MIN,71,75,FR,Bob
+99,4,05:49,CAP,71,75,FC,Du Sommer
+100,4,05:50,MIN,71,75,RO,Bob
+101,4,05:50,MIN,71,75,2_Pts_T,Gegê
+102,4,06:07,MIN,71,75,FR,Gegê
+103,4,06:07,CAP,71,75,FC,Victão
+104,4,06:08,MIN,71,75,RD,Gegê
+105,4,06:08,CAP,71,75,3_Pts_T,De Paula
+106,4,06:23,CAP,71,75,FR,Du Sommer
+107,4,06:23,MIN,71,75,FC,Jefferson
+108,4,06:41,MIN,71,75,AS,Gegê
+109,4,06:41,MIN,71,75,2_Pts_C,Wesley
+110,4,06:58,CAP,69,75,AS,Léo Meindl
+111,4,06:58,CAP,69,75,EN,Du Sommer
+112,4,07:21,MIN,69,73,AS,Bob
+113,4,07:21,MIN,69,73,2_Pts_C,Paranhos
+114,4,07:32,CAP,67,73,ER,De Paula
+115,4,07:41,CAP,67,73,BR,Victão
+116,4,07:41,MIN,67,73,ER,Wesley
+117,4,07:44,MIN,67,73,RO,Wesley
+118,4,07:49,MIN,67,73,2_Pts_T,Wesley
+119,4,07:59,MIN,67,73,RD,Minas
+120,4,08:00,CAP,67,73,LL_Pts_T,Léo Meindl
+121,4,08:00,MIN,67,73,substituicao_entra,Bob
+122,4,08:00,MIN,67,73,substituicao_sai,D  Coleman
+123,4,08:00,CAP,67,73,FR,Léo Meindl
+124,4,08:00,MIN,67,73,FC,Paranhos
+125,4,08:00,CAP,67,73,2_Pts_C,Léo Meindl
+126,4,08:21,MIN,67,71,AS,Gegê
+127,4,08:21,MIN,67,71,2_Pts_C,Wesley
+128,4,08:36,CAP,65,71,AS,De Paula
+129,4,08:36,CAP,65,71,2_Pts_C,Du Sommer
+130,4,08:56,CAP,65,69,RD,Victão
+131,4,08:59,MIN,65,69,3_Pts_T,Jefferson
+132,4,09:13,MIN,65,69,FR,Paranhos
+133,4,09:13,CAP,65,69,FC,Roquemore
+134,4,09:28,CAP,65,69,LL_Pts_C,Roquemore
+135,4,09:28,CAP,65,68,LL_Pts_C,Roquemore
+136,4,09:28,CAP,65,67,FR,Roquemore
+137,4,09:28,MIN,65,67,FC,Paranhos
+138,4,09:36,CAP,65,67,RO,De Paula
+139,4,09:40,CAP,65,67,3_Pts_T,Roquemore
+140,4,10:00,NaN,65,67,inicio_quarto,
+141,3,00:00,NaN,65,67,fim_quarto,
+142,3,00:00,CAP,65,67,RD,Victão
+143,3,00:00,MIN,65,67,3_Pts_T,D  Coleman
+144,3,00:12,CAP,65,67,2_Pts_C,Léo Meindl
+145,3,00:37,MIN,65,65,2_Pts_C,Jefferson
+146,3,00:51,CAP,63,65,2_Pts_C,Roquemore
+147,3,01:17,CAP,63,63,RD,Léo Meindl
+148,3,01:21,MIN,63,63,2_Pts_T,Paranhos
+149,3,01:28,CAP,63,63,LL_Pts_C,Roquemore
+150,3,01:28,CAP,63,62,LL_Pts_T,Roquemore
+151,3,01:28,MIN,63,62,substituicao_entra,Paranhos
+152,3,01:28,MIN,63,62,substituicao_sai,Daniel
+153,3,01:28,MIN,63,62,substituicao_entra,Wesley
+154,3,01:28,MIN,63,62,substituicao_sai,Leonardo
+155,3,01:28,CAP,63,62,FR,Roquemore
+156,3,01:28,MIN,63,62,FC,Leonardo
+157,3,01:30,CAP,63,62,RD,Roquemore
+158,3,01:30,CAP,63,62,TO,Du Sommer
+159,3,01:30,MIN,63,62,2_Pts_T,Lucas
+160,3,01:43,MIN,63,62,RD,Minas
+161,3,01:43,CAP,63,62,3_Pts_T,Léo Meindl
+162,3,01:47,CAP,63,62,RD,Léo Meindl
+163,3,01:52,MIN,63,62,3_Pts_T,D  Coleman
+164,3,02:18,MIN,63,62,tempo_tecnico,Minas
+165,3,02:18,CAP,63,62,EN,De Paula
+166,3,02:20,CAP,63,60,BR,Léo Meindl
+167,3,02:20,MIN,63,60,ER,Lucas
+168,3,02:28,CAP,63,60,LL_Pts_C,Léo Meindl
+169,3,02:28,CAP,63,59,LL_Pts_T,Léo Meindl
+170,3,02:28,CAP,63,59,FR,Léo Meindl
+171,3,02:28,MIN,63,59,FC,Leonardo
+172,3,02:37,CAP,63,59,LL_Pts_T,Roquemore
+173,3,02:37,CAP,63,59,LL_Pts_T,Roquemore
+174,3,02:37,CAP,63,59,substituicao_entra,Léo Meindl
+175,3,02:37,CAP,63,59,substituicao_sai,Yago
+176,3,02:37,CAP,63,59,FR,Roquemore
+177,3,02:37,MIN,63,59,FC_A,Lucas
+178,3,02:37,CAP,63,59,RD,Yago
+179,3,02:40,MIN,63,59,3_Pts_T,D  Coleman
+180,3,03:00,CAP,63,59,2_Pts_C,De Paula
+181,3,03:08,CAP,63,57,RD,De Paula
+182,3,03:09,MIN,63,57,LL_Pts_T,Leonardo
+183,3,03:09,MIN,63,57,LL_Pts_C,Leonardo
+184,3,03:09,MIN,62,57,FR,Leonardo
+185,3,03:09,CAP,62,57,FC,Victão
+186,3,03:24,CAP,62,57,3_Pts_C,Roquemore
+187,3,03:35,MIN,62,54,2_Pts_C,Leonardo
+188,3,03:35,MIN,60,54,RO,Leonardo
+189,3,03:41,MIN,60,54,2_Pts_T,Jefferson
+190,3,03:47,MIN,60,54,RD,Leonardo
+191,3,03:51,CAP,60,54,2_Pts_T,Victão
+192,3,04:10,CAP,60,54,substituicao_entra,De Paula
+193,3,04:10,CAP,60,54,substituicao_sai,Léo Meindl
+194,3,04:10,CAP,60,54,tempo_tecnico,Paulistano
+195,3,04:10,MIN,60,54,AS,Lucas
+196,3,04:10,MIN,60,54,3_Pts_C,Daniel
+197,3,04:24,CAP,57,54,LL_Pts_C,Yago
+198,3,04:24,CAP,57,53,LL_Pts_T,Yago
+199,3,04:24,CAP,57,53,substituicao_entra,Du Sommer
+200,3,04:24,CAP,57,53,substituicao_sai,Guilherme
+201,3,04:24,CAP,57,53,substituicao_entra,Victão
+202,3,04:24,CAP,57,53,substituicao_sai,Renan
+203,3,04:24,CAP,57,53,FR,Yago
+204,3,04:24,MIN,57,53,FC,Leonardo
+205,3,04:39,MIN,57,53,AS,Daniel
+206,3,04:39,MIN,57,53,2_Pts_C,Lucas
+207,3,04:49,MIN,55,53,RO,Leonardo
+208,3,04:52,MIN,55,53,3_Pts_T,Daniel
+209,3,05:16,MIN,55,53,RD,Daniel
+210,3,05:18,CAP,55,53,LL_Pts_T,Guilherme
+211,3,05:18,CAP,55,53,AS,Léo Meindl
+212,3,05:18,CAP,55,53,LL_Pts_C,Guilherme
+213,3,05:18,CAP,55,52,FR,Guilherme
+214,3,05:18,MIN,55,52,FC,D  Coleman
+215,3,05:28,MIN,55,52,LL_Pts_C,D  Coleman
+216,3,05:28,MIN,54,52,LL_Pts_T,D  Coleman
+217,3,05:28,MIN,54,52,FR,D  Coleman
+218,3,05:28,CAP,54,52,FC,Roquemore
+219,3,05:37,MIN,54,52,substituicao_entra,Leonardo
+220,3,05:37,MIN,54,52,substituicao_sai,Wesley
+221,3,05:37,CAP,54,52,ER,Yago
+222,3,05:50,CAP,54,52,FR,Yago
+223,3,05:50,MIN,54,52,FC,Lucas
+224,3,05:57,MIN,54,52,ER,Wesley
+225,3,05:58,MIN,54,52,RO,Wesley
+226,3,05:58,MIN,54,52,3_Pts_T,Lucas
+227,3,06:17,CAP,54,52,substituicao_entra,Roquemore
+228,3,06:17,CAP,54,52,substituicao_sai,Eddy
+229,3,06:17,MIN,54,52,FR,D  Coleman
+230,3,06:17,CAP,54,52,FC,Eddy
+231,3,06:27,CAP,54,52,ER,Renan
+232,3,06:44,MIN,54,52,3_Pts_C,D  Coleman
+233,3,06:54,MIN,51,52,LL_Pts_C,Daniel
+234,3,06:54,CAP,50,52,FC_T,Eddy
+235,3,07:11,CAP,50,52,AS,Renan
+236,3,07:11,CAP,50,52,3_Pts_C,Eddy
+237,3,07:19,MIN,50,49,ER,Lucas
+238,3,07:32,CAP,50,49,AS,Renan
+239,3,07:32,CAP,50,49,3_Pts_C,Eddy
+240,3,07:43,MIN,50,46,LL_Pts_C,Daniel
+241,3,07:43,CAP,49,46,substituicao_entra,Renan
+242,3,07:43,CAP,49,46,substituicao_sai,Antonio
+243,3,07:43,MIN,49,46,FR,Daniel
+244,3,07:43,CAP,49,46,FC,Antonio
+245,3,07:43,MIN,49,46,AS,Lucas
+246,3,07:43,MIN,49,46,2_Pts_C,Daniel
+247,3,07:46,MIN,47,46,RD,Wesley
+248,3,07:50,CAP,47,46,2_Pts_T,Antonio
+249,3,08:06,MIN,47,46,AS,Wesley
+250,3,08:06,MIN,47,46,3_Pts_C,D  Coleman
+251,3,08:23,CAP,44,46,2_Pts_C,Eddy
+252,3,08:42,MIN,44,44,2_Pts_C,Jefferson
+253,3,08:53,MIN,42,44,FR,Jefferson
+254,3,08:53,CAP,42,44,FC,Guilherme
+255,3,09:13,CAP,42,44,AS,Léo Meindl
+256,3,09:13,CAP,42,44,3_Pts_C,Guilherme
+257,3,09:15,MIN,42,41,substituicao_entra,Lucas
+258,3,09:15,MIN,42,41,substituicao_sai,Gegê
+259,3,09:15,CAP,42,41,FR,Guilherme
+260,3,09:15,MIN,42,41,FC,Gegê
+261,3,09:31,MIN,42,41,AS,Wesley
+262,3,09:31,MIN,42,41,2_Pts_C,D  Coleman
+263,3,09:33,CAP,40,41,ER,Eddy
+264,3,09:42,CAP,40,41,RD,Guilherme
+265,3,09:45,MIN,40,41,2_Pts_T,Daniel
+266,3,10:00,NaN,40,41,inicio_quarto,
+267,2,00:00,NaN,40,41,fim_quarto,
+268,2,00:04,CAP,40,41,substituicao_entra,Beto
+269,2,00:04,CAP,40,41,substituicao_sai,Yago
+270,2,00:04,MIN,40,41,substituicao_entra,Bob
+271,2,00:04,MIN,40,41,substituicao_sai,Wesley
+272,2,00:04,MIN,40,41,FR,Wesley
+273,2,00:04,CAP,40,41,ER,Yago
+274,2,00:04,CAP,40,41,FC_O,Yago
+275,2,00:16,MIN,40,41,AS,Gegê
+276,2,00:16,MIN,40,41,2_Pts_C,Wesley
+277,2,00:35,CAP,38,41,substituicao_entra,Yago
+278,2,00:35,CAP,38,41,substituicao_sai,Léo Meindl
+279,2,00:35,MIN,38,41,LL_Pts_T,D  Coleman
+280,2,00:35,CAP,38,41,FC_T,Léo Meindl
+281,2,00:36,CAP,38,41,AS,De Paula
+282,2,00:36,CAP,38,41,3_Pts_C,Léo Meindl
+283,2,00:54,MIN,38,38,AS,Gegê
+284,2,00:54,MIN,38,38,3_Pts_C,Daniel
+285,2,01:12,MIN,35,38,substituicao_entra,Daniel
+286,2,01:12,MIN,35,38,substituicao_sai,Paranhos
+287,2,01:12,MIN,35,38,tempo_tecnico,Minas
+288,2,01:12,CAP,35,38,2_Pts_C,Léo Meindl
+289,2,01:14,CAP,35,36,RD,Léo Meindl
+290,2,01:18,MIN,35,36,2_Pts_T,D  Coleman
+291,2,01:31,CAP,35,36,substituicao_entra,Léo Meindl
+292,2,01:31,CAP,35,36,substituicao_sai,Beto
+293,2,01:31,MIN,35,36,LL_Pts_C,Gegê
+294,2,01:31,MIN,34,36,LL_Pts_T,Gegê
+295,2,01:31,MIN,34,36,FR,Gegê
+296,2,01:31,CAP,34,36,FC_A,Beto
+297,2,01:32,MIN,34,36,BR,Gegê
+298,2,01:32,CAP,34,36,ER,Beto
+299,2,01:33,CAP,34,36,RD,Roquemore
+300,2,01:36,MIN,34,36,3_Pts_T,Gegê
+301,2,01:57,CAP,34,36,2_Pts_C,De Paula
+302,2,01:57,CAP,34,34,RO,De Paula
+303,2,02:02,CAP,34,34,3_Pts_T,Victão
+304,2,02:14,MIN,34,34,EN,Wesley
+305,2,02:14,MIN,32,34,RO,Wesley
+306,2,02:19,MIN,32,34,2_Pts_T,Paranhos
+307,2,02:30,MIN,32,34,RD,Paranhos
+308,2,02:32,CAP,32,34,LL_Pts_T,Beto
+309,2,02:32,CAP,32,34,LL_Pts_C,Beto
+310,2,02:32,CAP,32,33,FR,Beto
+311,2,02:32,MIN,32,33,FC,Paranhos
+312,2,02:42,CAP,32,33,RD,Beto
+313,2,02:46,MIN,32,33,2_Pts_T,Wesley
+314,2,03:01,CAP,32,33,LL_Pts_C,Roquemore
+315,2,03:01,CAP,32,32,LL_Pts_C,Roquemore
+316,2,03:01,CAP,32,31,substituicao_entra,Beto
+317,2,03:01,CAP,32,31,substituicao_sai,Yago
+318,2,03:01,MIN,32,31,substituicao_entra,Gegê
+319,2,03:01,MIN,32,31,substituicao_sai,Lucas
+320,2,03:01,MIN,32,31,substituicao_entra,Jefferson
+321,2,03:01,MIN,32,31,substituicao_sai,Augusto
+322,2,03:01,CAP,32,31,FR,Roquemore
+323,2,03:01,MIN,32,31,FC,Augusto
+324,2,03:17,MIN,32,31,AS,D  Coleman
+325,2,03:17,MIN,32,31,2_Pts_C,Augusto
+326,2,03:37,CAP,30,31,3_Pts_C,Roquemore
+327,2,03:54,CAP,30,28,substituicao_entra,De Paula
+328,2,03:54,CAP,30,28,substituicao_sai,Léo Meindl
+329,2,03:54,CAP,30,28,FR,Du Sommer
+330,2,03:54,MIN,30,28,FC,Lucas
+331,2,04:09,CAP,30,28,substituicao_entra,Du Sommer
+332,2,04:09,CAP,30,28,substituicao_sai,Guilherme
+333,2,04:09,MIN,30,28,substituicao_entra,Lucas
+334,2,04:09,MIN,30,28,substituicao_sai,Gegê
+335,2,04:09,CAP,30,28,FR,Yago
+336,2,04:09,MIN,30,28,FC,Gegê
+337,2,04:09,CAP,30,28,RD,Guilherme
+338,2,04:09,MIN,30,28,2_Pts_T,Paranhos
+339,2,04:09,MIN,30,28,RO,Paranhos
+340,2,04:14,CAP,30,28,TO,Guilherme
+341,2,04:14,MIN,30,28,2_Pts_T,Paranhos
+342,2,04:24,MIN,30,28,FR,D  Coleman
+343,2,04:24,CAP,30,28,FC,Léo Meindl
+344,2,04:31,MIN,30,28,FR,Paranhos
+345,2,04:31,CAP,30,28,FC,Victão
+346,2,04:31,MIN,30,28,RO,Paranhos
+347,2,04:31,MIN,30,28,3_Pts_T,Augusto
+348,2,04:37,MIN,30,28,RD,Paranhos
+349,2,04:40,CAP,30,28,2_Pts_T,Léo Meindl
+350,2,04:47,MIN,30,28,2_Pts_C,Paranhos
+351,2,04:47,MIN,28,28,RO,Paranhos
+352,2,04:52,MIN,28,28,2_Pts_T,D  Coleman
+353,2,05:04,MIN,28,28,substituicao_entra,Augusto
+354,2,05:04,MIN,28,28,substituicao_sai,Bob
+355,2,05:04,MIN,28,28,FR,Paranhos
+356,2,05:04,CAP,28,28,FC,Victão
+357,2,05:20,CAP,28,28,substituicao_entra,Roquemore
+358,2,05:20,CAP,28,28,substituicao_sai,Eddy
+359,2,05:20,MIN,28,28,substituicao_entra,Paranhos
+360,2,05:20,MIN,28,28,substituicao_sai,Daniel
+361,2,05:20,MIN,28,28,tempo_tecnico,Minas
+362,2,05:20,CAP,28,28,2_Pts_C,Yago
+363,2,05:24,CAP,28,26,RD,Yago
+364,2,05:27,MIN,28,26,3_Pts_T,Daniel
+365,2,05:31,MIN,28,26,RD,D  Coleman
+366,2,05:36,CAP,28,26,2_Pts_T,Yago
+367,2,06:01,CAP,28,26,substituicao_entra,Victão
+368,2,06:01,CAP,28,26,substituicao_sai,Antonio
+369,2,06:01,MIN,28,26,substituicao_entra,Wesley
+370,2,06:01,MIN,28,26,substituicao_sai,Jefferson
+371,2,06:01,MIN,28,26,substituicao_entra,D  Coleman
+372,2,06:01,MIN,28,26,substituicao_sai,Leonardo
+373,2,06:01,CAP,28,26,RD,Paulistano
+374,2,06:01,MIN,28,26,3_Pts_T,Jefferson
+375,2,06:22,CAP,28,26,2_Pts_C,Léo Meindl
+376,2,06:26,CAP,28,24,RD,Léo Meindl
+377,2,06:30,MIN,28,24,3_Pts_T,Gegê
+378,2,06:49,CAP,28,24,AS,Yago
+379,2,06:49,CAP,28,24,3_Pts_C,Eddy
+380,2,06:53,CAP,28,21,RD,Yago
+381,2,06:57,MIN,28,21,3_Pts_T,Bob
+382,2,07:22,CAP,28,21,2_Pts_C,Léo Meindl
+383,2,07:38,MIN,28,19,AS,Bob
+384,2,07:38,MIN,28,19,3_Pts_C,Gegê
+385,2,08:02,CAP,25,19,ER,Yago
+386,2,08:19,MIN,25,19,ER,Daniel
+387,2,08:23,MIN,25,19,RD,Leonardo
+388,2,08:27,CAP,25,19,2_Pts_T,Léo Meindl
+389,2,08:38,MIN,25,19,AS,Gegê
+390,2,08:38,MIN,25,19,3_Pts_C,Daniel
+391,2,08:51,MIN,22,19,substituicao_entra,Daniel
+392,2,08:51,MIN,22,19,substituicao_sai,Paranhos
+393,2,08:51,CAP,22,19,LL_Pts_C,Antonio
+394,2,08:51,CAP,22,18,AS,Yago
+395,2,08:51,CAP,22,18,LL_Pts_C,Antonio
+396,2,08:51,CAP,22,17,FR,Antonio
+397,2,08:51,MIN,22,17,FC,Leonardo
+398,2,08:52,CAP,22,17,FR,Yago
+399,2,08:52,MIN,22,17,FC,Gegê
+400,2,08:56,CAP,22,17,BR,Léo Meindl
+401,2,08:56,MIN,22,17,ER,Jefferson
+402,2,09:14,CAP,22,17,AS,Antonio
+403,2,09:14,CAP,22,17,2_Pts_C,Eddy
+404,2,09:18,CAP,22,15,RD,Yago
+405,2,09:21,MIN,22,15,3_Pts_T,Gegê
+406,2,09:26,MIN,22,15,RO,Minas
+407,2,09:26,MIN,22,15,3_Pts_T,Gegê
+408,2,09:39,MIN,22,15,RD,Gegê
+409,2,09:45,CAP,22,15,2_Pts_T,Yago
+410,2,10:00,NaN,22,15,inicio_quarto,
+411,1,00:00,NaN,22,15,fim_quarto,
+412,1,00:00,MIN,22,15,3_Pts_T,Jefferson
+413,1,00:03,MIN,22,15,RD,Paranhos
+414,1,00:06,CAP,22,15,3_Pts_T,De Paula
+415,1,00:29,MIN,22,15,AS,Lucas
+416,1,00:29,MIN,22,15,2_Pts_C,Paranhos
+417,1,00:30,MIN,20,15,RD,Paranhos
+418,1,00:38,CAP,20,15,2_Pts_T,Roquemore
+419,1,00:50,CAP,20,15,RD,Yago
+420,1,00:56,CAP,20,15,TO,Du Sommer
+421,1,00:56,MIN,20,15,2_Pts_T,Jefferson
+422,1,01:23,MIN,20,15,RD,Minas
+423,1,01:23,CAP,20,15,3_Pts_T,De Paula
+424,1,01:38,MIN,20,15,LL_Pts_C,D  Coleman
+425,1,01:38,MIN,19,15,FR,D  Coleman
+426,1,01:38,CAP,19,15,FC,De Paula
+427,1,01:38,MIN,19,15,3_Pts_C,D  Coleman
+428,1,01:44,MIN,16,15,RD,Leonardo
+429,1,01:45,CAP,16,15,2_Pts_T,Renan
+430,1,01:45,CAP,16,15,RO,Renan
+431,1,01:51,CAP,16,15,2_Pts_T,Roquemore
+432,1,02:06,CAP,16,15,substituicao_entra,Yago
+433,1,02:06,CAP,16,15,substituicao_sai,Beto
+434,1,02:06,MIN,16,15,substituicao_entra,Leonardo
+435,1,02:06,MIN,16,15,substituicao_sai,Wesley
+436,1,02:06,CAP,16,15,tempo_tecnico,Paulistano
+437,1,02:06,MIN,16,15,3_Pts_C,D  Coleman
+438,1,02:14,MIN,13,15,BR,D  Coleman
+439,1,02:14,CAP,13,15,ER,De Paula
+440,1,02:23,MIN,13,15,ER,Paranhos
+441,1,02:45,MIN,13,15,FR,Lucas
+442,1,02:45,CAP,13,15,ER,Renan
+443,1,02:45,CAP,13,15,FC_O,Renan
+444,1,02:57,MIN,13,15,LL_Pts_C,Jefferson
+445,1,02:57,MIN,12,15,LL_Pts_C,Jefferson
+446,1,02:57,MIN,11,15,FR,Jefferson
+447,1,02:57,CAP,11,15,FC,Beto
+448,1,03:05,MIN,11,15,RD,Lucas
+449,1,03:08,CAP,11,15,3_Pts_T,Renan
+450,1,03:23,CAP,11,15,FR,Beto
+451,1,03:23,MIN,11,15,ER,Paranhos
+452,1,03:23,MIN,11,15,FC_O,Paranhos
+453,1,03:39,CAP,11,15,substituicao_entra,De Paula
+454,1,03:39,CAP,11,15,substituicao_sai,Yago
+455,1,03:39,CAP,11,15,substituicao_entra,Beto
+456,1,03:39,CAP,11,15,substituicao_sai,Eddy
+457,1,03:39,MIN,11,15,substituicao_entra,Paranhos
+458,1,03:39,MIN,11,15,substituicao_sai,Daniel
+459,1,03:39,MIN,11,15,RD,Minas
+460,1,03:39,CAP,11,15,3_Pts_T,Roquemore
+461,1,03:57,CAP,11,15,RD,Renan
+462,1,03:59,MIN,11,15,3_Pts_T,Daniel
+463,1,04:09,MIN,11,15,RD,Lucas
+464,1,04:12,CAP,11,15,3_Pts_T,Renan
+465,1,04:38,CAP,11,15,substituicao_entra,Renan
+466,1,04:38,CAP,11,15,substituicao_sai,Guilherme
+467,1,04:38,CAP,11,15,substituicao_entra,Du Sommer
+468,1,04:38,CAP,11,15,substituicao_sai,Antonio
+469,1,04:38,MIN,11,15,substituicao_entra,Lucas
+470,1,04:38,MIN,11,15,substituicao_sai,Gegê
+471,1,04:38,CAP,11,15,RD,Paulistano
+472,1,04:38,MIN,11,15,2_Pts_T,Gegê
+473,1,04:56,CAP,11,15,3_Pts_C,Yago
+474,1,05:06,CAP,11,12,substituicao_entra,Roquemore
+475,1,05:06,CAP,11,12,substituicao_sai,Léo Meindl
+476,1,05:06,MIN,11,12,substituicao_entra,Jefferson
+477,1,05:06,MIN,11,12,substituicao_sai,Augusto
+478,1,05:06,CAP,11,12,FR,Yago
+479,1,05:06,MIN,11,12,FC,Augusto
+480,1,05:14,MIN,11,12,AS,Gegê
+481,1,05:14,MIN,11,12,EN,Wesley
+482,1,05:28,CAP,9,12,2_Pts_C,Yago
+483,1,05:37,MIN,9,10,2_Pts_C,D  Coleman
+484,1,05:54,CAP,7,10,AS,Léo Meindl
+485,1,05:54,CAP,7,10,2_Pts_C,Guilherme
+486,1,06:06,MIN,7,8,AS,Gegê
+487,1,06:06,MIN,7,8,2_Pts_C,D  Coleman
+488,1,06:08,MIN,5,8,RD,Gegê
+489,1,06:11,CAP,5,8,3_Pts_T,Eddy
+490,1,06:16,CAP,5,8,RD,Guilherme
+491,1,06:19,MIN,5,8,3_Pts_T,D  Coleman
+492,1,06:26,MIN,5,8,FR,D  Coleman
+493,1,06:26,CAP,5,8,ER,Eddy
+494,1,06:26,CAP,5,8,FC_O,Eddy
+495,1,06:32,CAP,5,8,FR,Eddy
+496,1,06:32,MIN,5,8,FC,Augusto
+497,1,06:35,CAP,5,8,FR,Léo Meindl
+498,1,06:35,MIN,5,8,ER,Wesley
+499,1,06:35,MIN,5,8,FC_O,Wesley
+500,1,06:44,CAP,5,8,2_Pts_C,Antonio
+501,1,07:02,MIN,5,6,2_Pts_C,D  Coleman
+502,1,07:13,CAP,3,6,LL_Pts_C,Eddy
+503,1,07:13,CAP,3,5,LL_Pts_C,Eddy
+504,1,07:13,CAP,3,4,FR,Eddy
+505,1,07:13,MIN,3,4,FC,D  Coleman
+506,1,07:27,CAP,3,4,RD,Yago
+507,1,07:30,MIN,3,4,3_Pts_T,Augusto
+508,1,07:49,MIN,3,4,RD,Wesley
+509,1,07:52,CAP,3,4,3_Pts_T,Eddy
+510,1,08:06,CAP,3,4,BR,Léo Meindl
+511,1,08:06,MIN,3,4,ER,Gegê
+512,1,08:08,MIN,3,4,RD,Daniel
+513,1,08:13,CAP,3,4,3_Pts_T,Guilherme
+514,1,08:27,CAP,3,4,BR,Guilherme
+515,1,08:27,MIN,3,4,ER,Gegê
+516,1,08:30,MIN,3,4,RD,Gegê
+517,1,08:33,CAP,3,4,3_Pts_T,Léo Meindl
+518,1,08:39,CAP,3,4,RD,Léo Meindl
+519,1,08:43,MIN,3,4,3_Pts_T,Wesley
+520,1,09:01,CAP,3,4,2_Pts_C,Yago
+521,1,09:26,MIN,3,2,AS,Gegê
+522,1,09:26,MIN,3,2,3_Pts_C,Daniel
+523,1,09:48,CAP,0,2,2_Pts_C,Eddy
+524,1,10:00,CAP,0,0,substituicao_entra,Guilherme
+525,1,10:00,CAP,0,0,substituicao_entra,Eddy
+526,1,10:00,CAP,0,0,substituicao_entra,Léo Meindl
+527,1,10:00,CAP,0,0,substituicao_entra,Antonio
+528,1,10:00,CAP,0,0,substituicao_entra,Yago
+529,1,10:00,MIN,0,0,substituicao_entra,Wesley
+530,1,10:00,MIN,0,0,substituicao_entra,Gegê
+531,1,10:00,MIN,0,0,substituicao_entra,D  Coleman
+532,1,10:00,MIN,0,0,substituicao_entra,Augusto
+533,1,10:00,MIN,0,0,substituicao_entra,Daniel
+534,1,10:00,NaN,0,0,inicio_partida,

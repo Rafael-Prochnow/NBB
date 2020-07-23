@@ -1,0 +1,564 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,69,74,fim_partida,
+1,4,00:00,NaN,69,74,fim_quarto, 
+2,4,00:02,FLA,69,74,tempo_tecnico,Flamengo
+3,4,00:10,FLA,69,74,substituicao_entra,Zach Graham
+4,4,00:10,FLA,69,74,substituicao_entra,Balbi
+5,4,00:10,FLA,69,74,substituicao_sai,Léo Demétrio
+6,4,00:10,FLA,69,74,substituicao_sai,Olivinha
+7,4,00:17,FLA,69,74,tempo_tecnico,Flamengo
+8,4,00:17,MOG,69,74,ER,Fuzaro
+9,4,00:17,MOG,69,74,RO,João Pedro
+10,4,00:17,MOG,69,74,3_Pts_T,Fuzaro
+11,4,00:27,FLA,69,74,substituicao_entra,Léo Demétrio
+12,4,00:27,FLA,69,74,substituicao_sai,Balbi
+13,4,00:27,MOG,69,74,tempo_tecnico,Mogi
+14,4,00:27,FLA,69,74,AS,Balbi
+15,4,00:27,FLA,69,74,3_Pts_C,Mineiro
+16,4,00:48,FLA,69,71,RD,Flamengo
+17,4,00:48,MOG,69,71,3_Pts_T,André Goes
+18,4,01:02,FLA,69,71,substituicao_entra,Marquinhos
+19,4,01:02,FLA,69,71,substituicao_sai,Zach Graham
+20,4,01:02,MOG,69,71,tempo_tecnico,Mogi
+21,4,01:02,FLA,69,71,ER,
+22,4,01:02,FLA,69,71,RO,Mineiro
+23,4,01:03,FLA,69,71,2_Pts_T,Mineiro
+24,4,01:27,FLA,69,71,BR,Balbi
+25,4,01:27,MOG,69,71,ER,André Goes
+26,4,01:50,FLA,69,71,substituicao_entra,Zach Graham
+27,4,01:50,FLA,69,71,substituicao_sai,Marquinhos
+28,4,01:50,FLA,69,71,LL_Pts_C,Jhonatan
+29,4,01:50,FLA,69,70,LL_Pts_C,Jhonatan
+30,4,01:50,FLA,69,69,FR,Jhonatan
+31,4,01:50,MOG,69,69,FC,Fúlvio
+32,4,02:10,FLA,69,69,substituicao_entra,Olivinha
+33,4,02:10,FLA,69,69,substituicao_sai,Léo Demétrio
+34,4,02:10,FLA,69,69,RD,Flamengo
+35,4,02:10,MOG,69,69,2_Pts_T,Fuzaro
+36,4,02:34,FLA,69,69,substituicao_entra,Léo Demétrio
+37,4,02:34,FLA,69,69,substituicao_sai,Olivinha
+38,4,02:34,MOG,69,69,RD,Mogi
+39,4,02:34,FLA,69,69,3_Pts_T,Jhonatan
+40,4,02:34,FLA,69,69,substituicao_entra,Olivinha
+41,4,02:34,FLA,69,69,substituicao_sai,Léo Demétrio
+42,4,02:42,FLA,69,69,RD,Jhonatan
+43,4,02:49,MOG,69,69,3_Pts_T,André Goes
+44,4,03:16,FLA,69,69,AS,Balbi
+45,4,03:16,FLA,69,69,2_Pts_C,Jhonatan
+46,4,03:34,MOG,69,67,LL_Pts_C,Fuzaro
+47,4,03:34,MOG,68,67,LL_Pts_T,Fuzaro
+48,4,03:34,MOG,68,67,FR,Fuzaro
+49,4,03:34,FLA,68,67,FC,Mineiro
+50,4,03:34,MOG,68,67,RD,Mogi
+51,4,03:34,FLA,68,67,3_Pts_T,Marquinhos
+52,4,03:56,MOG,68,67,2_Pts_C,André Goes
+53,4,04:06,MOG,66,67,substituicao_entra,André Goes
+54,4,04:06,MOG,66,67,substituicao_sai,Alex
+55,4,04:06,MOG,66,67,RO,Mogi
+56,4,04:06,MOG,66,67,3_Pts_T,Fúlvio
+57,4,04:31,FLA,66,67,LL_Pts_C,Marquinhos
+58,4,04:31,FLA,66,66,LL_Pts_T,Marquinhos
+59,4,04:31,MOG,66,66,substituicao_entra,Alex
+60,4,04:31,MOG,66,66,substituicao_sai,Lessa
+61,4,04:31,FLA,66,66,FR,Marquinhos
+62,4,04:31,MOG,66,66,FC,Lessa
+63,4,04:38,FLA,66,66,FR,Jhonatan
+64,4,04:38,MOG,66,66,FC,Fúlvio
+65,4,04:43,MOG,66,66,substituicao_entra,Lessa
+66,4,04:43,MOG,66,66,substituicao_sai,Guga
+67,4,04:43,FLA,66,66,FR,Jhonatan
+68,4,04:43,MOG,66,66,FC,Guga
+69,4,04:46,FLA,66,66,FR,Balbi
+70,4,04:46,MOG,66,66,FC,Guga
+71,4,04:46,MOG,66,66,substituicao_entra,João Pedro
+72,4,04:46,MOG,66,66,substituicao_sai,Paranhos
+73,4,04:46,MOG,66,66,substituicao_entra,Guga
+74,4,04:46,MOG,66,66,substituicao_sai,André Goes
+75,4,04:59,FLA,66,66,RD,Jhonatan
+76,4,04:59,MOG,66,66,LL_Pts_T,Paranhos
+77,4,04:59,MOG,66,66,LL_Pts_T,Paranhos
+78,4,04:59,MOG,66,66,LL_Pts_C,Fúlvio
+79,4,04:59,FLA,65,66,FC_T,Técnico do Flamengo
+80,4,04:59,MOG,65,66,FR,Paranhos
+81,4,04:59,FLA,65,66,FC,Marquinhos
+82,4,05:16,MOG,65,66,RD,André Goes
+83,4,05:19,FLA,65,66,3_Pts_T,Marquinhos
+84,4,05:21,FLA,65,66,RD,Balbi
+85,4,05:29,FLA,65,66,TO,Mineiro
+86,4,05:29,MOG,65,66,2_Pts_T,Paranhos
+87,4,05:47,FLA,65,66,AS,Léo Demétrio
+88,4,05:47,FLA,65,66,3_Pts_C,Marquinhos
+89,4,05:49,FLA,65,63,RO,Léo Demétrio
+90,4,05:53,FLA,65,63,3_Pts_T,Jhonatan
+91,4,06:13,FLA,65,63,RD,Flamengo
+92,4,06:13,MOG,65,63,2_Pts_T,Fuzaro
+93,4,06:26,FLA,65,63,substituicao_entra,Mineiro
+94,4,06:26,FLA,65,63,substituicao_sai,Vargas
+95,4,06:26,MOG,65,63,LL_Pts_C,Fuzaro
+96,4,06:26,MOG,64,63,LL_Pts_T,Fuzaro
+97,4,06:26,MOG,64,63,FR,Fuzaro
+98,4,06:26,FLA,64,63,FC_A,Vargas
+99,4,06:26,MOG,64,63,RO,Fabricio
+100,4,06:29,MOG,64,63,3_Pts_T,Fúlvio
+101,4,06:36,FLA,64,63,substituicao_entra,Léo Demétrio
+102,4,06:36,FLA,64,63,substituicao_entra,Jhonatan
+103,4,06:36,FLA,64,63,substituicao_sai,Olivinha
+104,4,06:36,FLA,64,63,substituicao_sai,Deryk
+105,4,06:36,MOG,64,63,FR,Paranhos
+106,4,06:36,FLA,64,63,FC,Vargas
+107,4,06:36,MOG,64,63,RO,Paranhos
+108,4,06:36,MOG,64,63,3_Pts_T,Fabricio
+109,4,06:44,MOG,64,63,RD,Paranhos
+110,4,06:48,FLA,64,63,2_Pts_T,Balbi
+111,4,07:01,FLA,64,63,RD,Olivinha
+112,4,07:05,MOG,64,63,3_Pts_T,Fuzaro
+113,4,07:14,MOG,64,63,RD,Mogi
+114,4,07:14,FLA,64,63,3_Pts_T,Deryk
+115,4,07:34,FLA,64,63,FR,Olivinha
+116,4,07:34,MOG,64,63,ER,Paranhos
+117,4,07:34,MOG,64,63,FC_O,Paranhos
+118,4,07:34,MOG,64,63,substituicao_entra,Paranhos
+119,4,07:34,MOG,64,63,substituicao_sai,João Pedro
+120,4,07:43,MOG,64,63,RD,Mogi
+121,4,07:43,FLA,64,63,3_Pts_T,Deryk
+122,4,07:53,FLA,64,63,BR,Balbi
+123,4,07:53,MOG,64,63,ER,Fuzaro
+124,4,08:08,FLA,64,63,AS,Deryk
+125,4,08:08,FLA,64,63,3_Pts_C,Olivinha
+126,4,08:26,MOG,64,60,AS,Fúlvio
+127,4,08:26,MOG,64,60,2_Pts_C,João Pedro
+128,4,08:57,FLA,62,60,AS,Olivinha
+129,4,08:57,FLA,62,60,2_Pts_C,Vargas
+130,4,09:13,MOG,62,58,2_Pts_C,Fuzaro
+131,4,09:32,FLA,60,58,2_Pts_C,Vargas
+132,4,09:32,FLA,60,56,RO,Vargas
+133,4,09:41,FLA,60,56,2_Pts_T,Olivinha
+134,4,10:00,NaN,60,56,inicio_quarto,
+135,4,10:00,MOG,60,56,LL_Pts_C,Fúlvio
+136,4,10:00,FLA,59,56,ER,Mineiro
+137,4,10:00,FLA,59,56,FC_T,Mineiro
+138,3,00:00,NaN,59,56,fim_quarto,
+139,3,00:03,FLA,59,56,3_Pts_T,Marquinhos
+140,3,00:05,FLA,59,56,FR,Jhonatan
+141,3,00:05,MOG,59,56,FC,Alex
+142,3,00:12,FLA,59,56,substituicao_entra,Marquinhos
+143,3,00:12,FLA,59,56,substituicao_sai,Léo Demétrio
+144,3,00:12,MOG,59,56,substituicao_entra,Lessa
+145,3,00:12,MOG,59,56,substituicao_entra,Alex
+146,3,00:12,MOG,59,56,substituicao_sai,André Goes
+147,3,00:12,MOG,59,56,substituicao_sai,Fabricio
+148,3,00:12,FLA,59,56,FR,Barrera
+149,3,00:12,MOG,59,56,ER,Fúlvio
+150,3,00:12,MOG,59,56,FC_O,Fúlvio
+151,3,00:24,FLA,59,56,substituicao_entra,Léo Demétrio
+152,3,00:24,FLA,59,56,substituicao_entra,Jhonatan
+153,3,00:24,FLA,59,56,substituicao_sai,Olivinha
+154,3,00:24,FLA,59,56,substituicao_sai,Balbi
+155,3,00:24,MOG,59,56,substituicao_entra,Guga
+156,3,00:24,MOG,59,56,substituicao_sai,João Pedro
+157,3,00:24,MOG,59,56,FR,Fuzaro
+158,3,00:24,FLA,59,56,FC,Balbi
+159,3,00:35,MOG,59,56,RD,João Pedro
+160,3,00:40,FLA,59,56,3_Pts_T,Barrera
+161,3,00:53,FLA,59,56,RD,Olivinha
+162,3,00:57,MOG,59,56,2_Pts_T,André Goes
+163,3,01:17,MOG,59,56,substituicao_entra,João Pedro
+164,3,01:17,MOG,59,56,substituicao_sai,Alex
+165,3,01:17,MOG,59,56,FR,Alex
+166,3,01:17,FLA,59,56,FC,Olivinha
+167,3,01:17,MOG,59,56,RD,Mogi
+168,3,01:17,FLA,59,56,2_Pts_T,Barrera
+169,3,01:26,MOG,59,56,substituicao_entra,Alex
+170,3,01:26,MOG,59,56,substituicao_sai,Paranhos
+171,3,01:33,FLA,59,56,tempo_tecnico,Flamengo
+172,3,01:33,MOG,59,56,2_Pts_C,Fuzaro
+173,3,01:47,MOG,57,56,RD,Fabricio
+174,3,01:50,FLA,57,56,2_Pts_T,Zach Graham
+175,3,02:11,MOG,57,56,AS,André Goes
+176,3,02:11,MOG,57,56,2_Pts_C,Fuzaro
+177,3,02:26,FLA,55,56,substituicao_entra,Olivinha
+178,3,02:26,FLA,55,56,substituicao_entra,Mineiro
+179,3,02:26,FLA,55,56,substituicao_entra,Balbi
+180,3,02:26,FLA,55,56,substituicao_sai,Léo Demétrio
+181,3,02:26,FLA,55,56,substituicao_sai,Vargas
+182,3,02:26,FLA,55,56,substituicao_sai,Marquinhos
+183,3,02:26,MOG,55,56,substituicao_entra,Paranhos
+184,3,02:26,MOG,55,56,substituicao_entra,Fuzaro
+185,3,02:26,MOG,55,56,substituicao_sai,João Pedro
+186,3,02:26,MOG,55,56,substituicao_sai,Guga
+187,3,02:26,FLA,55,56,ER,Marquinhos
+188,3,02:33,FLA,55,56,BR,Barrera
+189,3,02:33,MOG,55,56,ER,João Pedro
+190,3,02:38,MOG,55,56,RD,João Pedro
+191,3,02:42,FLA,55,56,3_Pts_T,Marquinhos
+192,3,02:54,MOG,55,56,substituicao_entra,André Goes
+193,3,02:54,MOG,55,56,substituicao_sai,Fuzaro
+194,3,02:54,FLA,55,56,FR,Marquinhos
+195,3,02:54,MOG,55,56,FC,João Pedro
+196,3,03:07,MOG,55,56,AS,Fuzaro
+197,3,03:07,MOG,55,56,3_Pts_C,Fúlvio
+198,3,03:15,MOG,52,56,BR,Fuzaro
+199,3,03:15,FLA,52,56,ER,Barrera
+200,3,03:44,FLA,52,56,substituicao_entra,Marquinhos
+201,3,03:44,FLA,52,56,substituicao_sai,Jhonatan
+202,3,03:44,MOG,52,56,substituicao_entra,Fúlvio
+203,3,03:44,MOG,52,56,substituicao_sai,André Goes
+204,3,03:44,MOG,52,56,ER,João Pedro
+205,3,03:44,MOG,52,56,RO,João Pedro
+206,3,03:44,MOG,52,56,3_Pts_T,André Goes
+207,3,03:52,MOG,52,56,RD,João Pedro
+208,3,03:57,FLA,52,56,2_Pts_T,Vargas
+209,3,04:05,FLA,52,56,RD,Barrera
+210,3,04:09,MOG,52,56,2_Pts_T,João Pedro
+211,3,04:33,FLA,52,56,substituicao_entra,Vargas
+212,3,04:33,FLA,52,56,substituicao_sai,Mineiro
+213,3,04:33,MOG,52,56,substituicao_entra,João Pedro
+214,3,04:33,MOG,52,56,substituicao_sai,Paranhos
+215,3,04:33,FLA,52,56,LL_Pts_C,Mineiro
+216,3,04:33,FLA,52,55,substituicao_entra,Barrera
+217,3,04:33,FLA,52,55,substituicao_sai,Balbi
+218,3,04:33,FLA,52,55,FR,Mineiro
+219,3,04:33,MOG,52,55,FC,Paranhos
+220,3,04:33,FLA,52,55,AS,Balbi
+221,3,04:33,FLA,52,55,EN,Mineiro
+222,3,04:47,MOG,52,53,substituicao_entra,Guga
+223,3,04:47,MOG,52,53,substituicao_sai,Fúlvio
+224,3,04:47,MOG,52,53,ER,Fuzaro
+225,3,04:59,MOG,52,53,RD,Fúlvio
+226,3,05:04,FLA,52,53,3_Pts_T,Jhonatan
+227,3,05:26,FLA,52,53,RD,Léo Demétrio
+228,3,05:26,MOG,52,53,LL_Pts_T,Fuzaro
+229,3,05:26,MOG,52,53,AS,Fúlvio
+230,3,05:26,MOG,52,53,LL_Pts_C,Fuzaro
+231,3,05:26,MOG,51,53,FR,Fuzaro
+232,3,05:26,FLA,51,53,FC,Zach Graham
+233,3,05:34,FLA,51,53,AS,Léo Demétrio
+234,3,05:34,FLA,51,53,2_Pts_C,Mineiro
+235,3,05:46,MOG,51,51,LL_Pts_C,Fuzaro
+236,3,05:46,MOG,50,51,LL_Pts_T,Fuzaro
+237,3,05:46,FLA,50,51,substituicao_entra,Léo Demétrio
+238,3,05:46,FLA,50,51,substituicao_entra,Zach Graham
+239,3,05:46,FLA,50,51,substituicao_sai,Olivinha
+240,3,05:46,FLA,50,51,substituicao_sai,Marquinhos
+241,3,05:46,MOG,50,51,FR,Paranhos
+242,3,05:46,FLA,50,51,FC,Marquinhos
+243,3,05:51,MOG,50,51,RD,Paranhos
+244,3,05:55,FLA,50,51,3_Pts_T,Balbi
+245,3,06:17,MOG,50,51,3_Pts_C,Fuzaro
+246,3,06:26,MOG,47,51,RD,Paranhos
+247,3,06:31,FLA,47,51,3_Pts_T,Jhonatan
+248,3,06:40,FLA,47,51,BR,Marquinhos
+249,3,06:40,MOG,47,51,ER,Fúlvio
+250,3,06:55,MOG,47,51,tempo_tecnico,Mogi
+251,3,06:56,FLA,47,51,AS,Balbi
+252,3,06:56,FLA,47,51,3_Pts_C,Marquinhos
+253,3,07:06,FLA,47,48,RD,Balbi
+254,3,07:10,MOG,47,48,2_Pts_T,Paranhos
+255,3,07:23,MOG,47,48,RD,Fuzaro
+256,3,07:27,FLA,47,48,2_Pts_T,Jhonatan
+257,3,07:29,FLA,47,48,RD,Balbi
+258,3,07:33,MOG,47,48,3_Pts_T,Fúlvio
+259,3,07:55,FLA,47,48,ER,Marquinhos
+260,3,07:56,FLA,47,48,RD,Marquinhos
+261,3,08:02,MOG,47,48,2_Pts_T,Paranhos
+262,3,08:10,MOG,47,48,RD,André Goes
+263,3,08:14,FLA,47,48,2_Pts_T,Jhonatan
+264,3,08:32,FLA,47,48,RD,Olivinha
+265,3,08:36,MOG,47,48,3_Pts_T,Fuzaro
+266,3,08:54,FLA,47,48,AS,Marquinhos
+267,3,08:54,FLA,47,48,3_Pts_C,Balbi
+268,3,09:07,FLA,47,45,RD,Mineiro
+269,3,09:12,MOG,47,45,2_Pts_T,Fabricio
+270,3,09:29,FLA,47,45,AS,Balbi
+271,3,09:29,FLA,47,45,3_Pts_C,Olivinha
+272,3,09:45,MOG,47,42,AS,Fúlvio
+273,3,09:45,MOG,47,42,2_Pts_C,Paranhos
+274,3,10:00,NaN,45,42,inicio_quarto,
+275,2,00:00,NaN,45,42,fim_quarto,
+276,2,00:02,MOG,45,42,RD,Fabricio
+277,2,00:02,FLA,45,42,2_Pts_T,Balbi
+278,2,00:13,MOG,45,42,2_Pts_C,André Goes
+279,2,00:14,MOG,43,42,substituicao_entra,Guga
+280,2,00:14,MOG,43,42,substituicao_sai,João Pedro
+281,2,00:27,MOG,43,42,RO,João Pedro
+282,2,00:27,MOG,43,42,2_Pts_T,João Pedro
+283,2,00:27,MOG,43,42,RD,Fuzaro
+284,2,00:33,MOG,43,42,TO,Fuzaro
+285,2,00:33,FLA,43,42,2_Pts_T,Balbi
+286,2,00:39,FLA,43,42,BR,Balbi
+287,2,00:39,MOG,43,42,ER,Fuzaro
+288,2,00:45,MOG,43,42,LL_Pts_C,Fúlvio
+289,2,00:45,FLA,42,42,FC_T,Marquinhos
+290,2,00:50,FLA,42,42,substituicao_entra,Léo Demétrio
+291,2,00:50,FLA,42,42,substituicao_sai,Vargas
+292,2,00:50,MOG,42,42,substituicao_entra,André Goes
+293,2,00:50,MOG,42,42,substituicao_sai,Alex
+294,2,00:50,FLA,42,42,ER,Marquinhos
+295,2,01:05,MOG,42,42,AS,Fuzaro
+296,2,01:05,MOG,42,42,3_Pts_C,Fúlvio
+297,2,01:17,FLA,39,42,AS,Marquinhos
+298,2,01:17,FLA,39,42,2_Pts_C,Vargas
+299,2,01:33,MOG,39,40,LL_Pts_C,Fúlvio
+300,2,01:33,MOG,38,40,LL_Pts_C,Fúlvio
+301,2,01:33,MOG,37,40,substituicao_entra,João Pedro
+302,2,01:33,MOG,37,40,substituicao_sai,Lessa
+303,2,01:33,MOG,37,40,FR,Fúlvio
+304,2,01:33,FLA,37,40,FC,Zach Graham
+305,2,01:49,MOG,37,40,tempo_tecnico,Mogi
+306,2,01:51,FLA,37,40,2_Pts_C,Marquinhos
+307,2,01:59,FLA,37,38,RO,Vargas
+308,2,02:03,FLA,37,38,3_Pts_T,Marquinhos
+309,2,02:07,FLA,37,38,LL_Pts_T,Marquinhos
+310,2,02:07,MOG,37,38,ER,
+311,2,02:07,MOG,37,38,FC_T,Técnico do Mogi
+312,2,02:07,FLA,37,38,tempo_tecnico,Flamengo
+313,2,02:21,MOG,37,38,substituicao_entra,Fúlvio
+314,2,02:21,MOG,37,38,substituicao_sai,Guga
+315,2,02:21,FLA,37,38,LL_Pts_C,Mineiro
+316,2,02:21,FLA,37,37,LL_Pts_T,Mineiro
+317,2,02:21,FLA,37,37,FR,Mineiro
+318,2,02:21,MOG,37,37,FC,Guga
+319,2,02:21,MOG,37,37,substituicao_entra,Guga
+320,2,02:21,MOG,37,37,substituicao_sai,Fúlvio
+321,2,02:21,FLA,37,37,substituicao_entra,Vargas
+322,2,02:21,FLA,37,37,substituicao_sai,Léo Demétrio
+323,2,02:21,MOG,37,37,substituicao_entra,Lessa
+324,2,02:21,MOG,37,37,substituicao_entra,Fúlvio
+325,2,02:21,MOG,37,37,substituicao_sai,Paranhos
+326,2,02:21,MOG,37,37,substituicao_sai,Guga
+327,2,02:40,FLA,37,37,FR,Mineiro
+328,2,02:40,MOG,37,37,FC,Guga
+329,2,03:01,FLA,37,37,RO,Mineiro
+330,2,03:01,FLA,37,37,LL_Pts_T,Marquinhos
+331,2,03:01,FLA,37,37,LL_Pts_C,Marquinhos
+332,2,03:01,FLA,37,36,substituicao_entra,Zach Graham
+333,2,03:01,FLA,37,36,substituicao_sai,Jhonatan
+334,2,03:01,MOG,37,36,substituicao_entra,Paranhos
+335,2,03:01,MOG,37,36,substituicao_sai,João Pedro
+336,2,03:02,MOG,37,36,substituicao_entra,Fuzaro
+337,2,03:02,MOG,37,36,substituicao_sai,Fúlvio
+338,2,03:02,FLA,37,36,RO,Flamengo
+339,2,03:02,MOG,37,36,TO,Alex
+340,2,03:02,FLA,37,36,2_Pts_T,Mineiro
+341,2,03:06,FLA,37,36,RD,Balbi
+342,2,03:11,MOG,37,36,3_Pts_T,João Pedro
+343,2,03:48,FLA,37,36,AS,Balbi
+344,2,03:48,FLA,37,36,3_Pts_C,Mineiro
+345,2,04:07,MOG,37,33,LL_Pts_C,Fúlvio
+346,2,04:07,MOG,36,33,LL_Pts_C,Fúlvio
+347,2,04:07,FLA,35,33,substituicao_entra,Marquinhos
+348,2,04:07,FLA,35,33,substituicao_sai,Zach Graham
+349,2,04:07,MOG,35,33,substituicao_entra,Alex
+350,2,04:07,MOG,35,33,substituicao_entra,Guga
+351,2,04:07,MOG,35,33,substituicao_sai,André Goes
+352,2,04:07,MOG,35,33,substituicao_sai,Fuzaro
+353,2,04:07,MOG,35,33,FR,Fúlvio
+354,2,04:07,FLA,35,33,FC,Jhonatan
+355,2,04:19,MOG,35,33,RD,João Pedro
+356,2,04:25,FLA,35,33,2_Pts_T,Zach Graham
+357,2,04:30,FLA,35,33,RO,Mineiro
+358,2,04:34,FLA,35,33,3_Pts_T,Zach Graham
+359,2,04:50,MOG,35,33,AS,Fúlvio
+360,2,04:50,MOG,35,33,EN,João Pedro
+361,2,04:53,FLA,33,33,2_Pts_C,Jhonatan
+362,2,04:53,FLA,33,31,RO,Jhonatan
+363,2,05:02,FLA,33,31,2_Pts_T,Balbi
+364,2,05:14,FLA,33,31,FR,Zach Graham
+365,2,05:14,MOG,33,31,FC,André Goes
+366,2,05:29,MOG,33,31,2_Pts_C,André Goes
+367,2,05:58,FLA,31,31,AS,Balbi
+368,2,05:58,FLA,31,31,2_Pts_C,Léo Demétrio
+369,2,06:13,FLA,31,29,tempo_tecnico,Flamengo
+370,2,06:13,MOG,31,29,AS,Fabricio
+371,2,06:13,MOG,31,29,EN,Fuzaro
+372,2,06:13,MOG,29,29,BR,Fabricio
+373,2,06:13,FLA,29,29,ER,Jhonatan
+374,2,06:28,MOG,29,29,2_Pts_C,Fúlvio
+375,2,06:34,MOG,27,29,RD,Fabricio
+376,2,06:36,FLA,27,29,2_Pts_T,Léo Demétrio
+377,2,06:36,FLA,27,29,RO,Léo Demétrio
+378,2,06:44,FLA,27,29,3_Pts_T,Jhonatan
+379,2,06:59,FLA,27,29,RD,Mineiro
+380,2,07:03,MOG,27,29,2_Pts_T,Fuzaro
+381,2,07:17,FLA,27,29,substituicao_entra,Mineiro
+382,2,07:17,FLA,27,29,substituicao_sai,Vargas
+383,2,07:17,MOG,27,29,FR,Fúlvio
+384,2,07:17,FLA,27,29,FC,Vargas
+385,2,07:31,FLA,27,29,substituicao_entra,Jhonatan
+386,2,07:31,FLA,27,29,substituicao_sai,Marquinhos
+387,2,07:31,MOG,27,29,substituicao_entra,João Pedro
+388,2,07:31,MOG,27,29,substituicao_sai,Paranhos
+389,2,07:31,FLA,27,29,LL_Pts_C,Vargas
+390,2,07:31,FLA,27,28,LL_Pts_C,Vargas
+391,2,07:31,FLA,27,27,substituicao_entra,Léo Demétrio
+392,2,07:31,FLA,27,27,substituicao_sai,Olivinha
+393,2,07:31,FLA,27,27,FR,Vargas
+394,2,07:31,MOG,27,27,FC,Paranhos
+395,2,07:31,FLA,27,27,RO,Vargas
+396,2,07:31,FLA,27,27,2_Pts_T,Vargas
+397,2,07:51,MOG,27,27,AS,Fuzaro
+398,2,07:51,MOG,27,27,3_Pts_C,Fabricio
+399,2,07:55,MOG,24,27,RD,Fuzaro
+400,2,07:59,FLA,24,27,2_Pts_T,Marquinhos
+401,2,08:01,FLA,24,27,RD,Balbi
+402,2,08:09,MOG,24,27,2_Pts_T,Fuzaro
+403,2,08:18,FLA,24,27,substituicao_entra,Balbi
+404,2,08:18,FLA,24,27,substituicao_sai,Barrera
+405,2,08:18,MOG,24,27,substituicao_entra,Fabricio
+406,2,08:18,MOG,24,27,substituicao_entra,Fúlvio
+407,2,08:18,MOG,24,27,substituicao_sai,Alex
+408,2,08:18,MOG,24,27,substituicao_sai,Guga
+409,2,08:18,MOG,24,27,FR,André Goes
+410,2,08:18,FLA,24,27,FC,Barrera
+411,2,08:30,FLA,24,27,2_Pts_C,Zach Graham
+412,2,08:36,FLA,24,25,BR,Zach Graham
+413,2,08:36,MOG,24,25,ER,Fuzaro
+414,2,08:45,MOG,24,25,RD,Paranhos
+415,2,08:49,FLA,24,25,2_Pts_T,Vargas
+416,2,09:03,FLA,24,25,RD,Vargas
+417,2,09:06,MOG,24,25,2_Pts_T,Alex
+418,2,09:31,FLA,24,25,AS,Barrera
+419,2,09:31,FLA,24,25,3_Pts_C,Marquinhos
+420,2,09:33,FLA,24,22,RD,Vargas
+421,2,09:38,MOG,24,22,2_Pts_T,Paranhos
+422,2,10:00,NaN,24,22,inicio_quarto,
+423,1,00:00,NaN,24,22,fim_quarto,
+424,1,00:02,FLA,24,22,3_Pts_T,Barrera
+425,1,00:02,MOG,24,22,2_Pts_C,Fúlvio
+426,1,00:21,FLA,22,22,substituicao_entra,Marquinhos
+427,1,00:21,FLA,22,22,substituicao_sai,Vargas
+428,1,00:21,FLA,22,22,LL_Pts_C,Vargas
+429,1,00:21,FLA,22,21,AS,Barrera
+430,1,00:21,FLA,22,21,LL_Pts_C,Vargas
+431,1,00:21,MOG,22,20,substituicao_entra,André Goes
+432,1,00:21,MOG,22,20,substituicao_entra,Fabricio
+433,1,00:21,MOG,22,20,substituicao_sai,João Pedro
+434,1,00:21,MOG,22,20,substituicao_sai,Alex
+435,1,00:21,FLA,22,20,FR,Vargas
+436,1,00:21,MOG,22,20,FC,João Pedro
+437,1,00:40,MOG,22,20,substituicao_entra,Fúlvio
+438,1,00:40,MOG,22,20,substituicao_sai,André Goes
+439,1,00:40,MOG,22,20,LL_Pts_C,André Goes
+440,1,00:40,MOG,21,20,LL_Pts_C,André Goes
+441,1,00:40,FLA,20,20,substituicao_entra,Deryk
+442,1,00:40,FLA,20,20,substituicao_entra,Pedro Nunes
+443,1,00:40,FLA,20,20,substituicao_sai,Zach Graham
+444,1,00:40,FLA,20,20,substituicao_sai,Jhonatan
+445,1,00:40,MOG,20,20,FR,André Goes
+446,1,00:40,FLA,20,20,FC,Barrera
+447,1,00:48,MOG,20,20,BR,Guga
+448,1,00:48,FLA,20,20,ER,Zach Graham
+449,1,01:01,MOG,20,20,2_Pts_C,Fuzaro
+450,1,01:02,MOG,18,20,RO,Fuzaro
+451,1,01:06,MOG,18,20,3_Pts_T,Alex
+452,1,01:24,FLA,18,20,substituicao_entra,Jhonatan
+453,1,01:24,FLA,18,20,substituicao_sai,Marquinhos
+454,1,01:24,FLA,18,20,substituicao_entra,Vargas
+455,1,01:24,FLA,18,20,substituicao_sai,Mineiro
+456,1,01:24,MOG,18,20,substituicao_entra,João Pedro
+457,1,01:24,MOG,18,20,substituicao_sai,Fabricio
+458,1,01:24,FLA,18,20,ER,Olivinha
+459,1,01:32,FLA,18,20,RD,Marquinhos
+460,1,01:36,MOG,18,20,3_Pts_T,André Goes
+461,1,01:37,MOG,18,20,RO,Alex
+462,1,01:38,MOG,18,20,2_Pts_T,Alex
+463,1,01:38,MOG,18,20,RO,Alex
+464,1,01:45,MOG,18,20,2_Pts_T,Fabricio
+465,1,02:00,FLA,18,20,AS,Barrera
+466,1,02:00,FLA,18,20,3_Pts_C,Marquinhos
+467,1,02:02,FLA,18,17,RO,Barrera
+468,1,02:06,FLA,18,17,3_Pts_T,Olivinha
+469,1,02:12,MOG,18,17,substituicao_entra,Guga
+470,1,02:12,MOG,18,17,substituicao_sai,Fúlvio
+471,1,02:26,MOG,18,17,LL_Pts_C,Fúlvio
+472,1,02:26,MOG,17,17,LL_Pts_T,Fúlvio
+473,1,02:26,FLA,17,17,substituicao_entra,Barrera
+474,1,02:26,FLA,17,17,substituicao_sai,Balbi
+475,1,02:26,MOG,17,17,substituicao_entra,Alex
+476,1,02:26,MOG,17,17,substituicao_sai,Paranhos
+477,1,02:26,MOG,17,17,FR,Fúlvio
+478,1,02:26,FLA,17,17,FC,Olivinha
+479,1,02:26,MOG,17,17,RD,Fúlvio
+480,1,02:27,FLA,17,17,2_Pts_T,Mineiro
+481,1,02:35,FLA,17,17,RD,Olivinha
+482,1,02:39,MOG,17,17,2_Pts_T,André Goes
+483,1,03:08,FLA,17,17,AS,Balbi
+484,1,03:08,FLA,17,17,3_Pts_C,Marquinhos
+485,1,03:11,FLA,17,14,substituicao_entra,Zach Graham
+486,1,03:11,FLA,17,14,substituicao_entra,Olivinha
+487,1,03:11,FLA,17,14,substituicao_sai,Léo Demétrio
+488,1,03:11,FLA,17,14,substituicao_sai,Jhonatan
+489,1,03:11,FLA,17,14,FR,Marquinhos
+490,1,03:11,MOG,17,14,FC,André Goes
+491,1,03:23,MOG,17,14,AS,Fuzaro
+492,1,03:23,MOG,17,14,3_Pts_C,Fabricio
+493,1,03:44,FLA,14,14,AS,Marquinhos
+494,1,03:44,FLA,14,14,3_Pts_C,Mineiro
+495,1,04:05,MOG,14,11,3_Pts_C,Fúlvio
+496,1,04:17,FLA,11,11,2_Pts_C,Balbi
+497,1,04:25,FLA,11,9,RD,Léo Demétrio
+498,1,04:29,MOG,11,9,2_Pts_T,Paranhos
+499,1,04:48,FLA,11,9,LL_Pts_C,Léo Demétrio
+500,1,04:48,FLA,11,8,FR,Léo Demétrio
+501,1,04:48,MOG,11,8,FC,Fabricio
+502,1,04:48,FLA,11,8,AS,Marquinhos
+503,1,04:48,FLA,11,8,EN,Léo Demétrio
+504,1,04:53,FLA,11,6,BR,Balbi
+505,1,04:53,MOG,11,6,ER,Fuzaro
+506,1,05:06,MOG,11,6,FR,Fúlvio
+507,1,05:06,FLA,11,6,FC,Léo Demétrio
+508,1,05:06,MOG,11,6,BR,Fúlvio
+509,1,05:06,FLA,11,6,ER,Léo Demétrio
+510,1,05:27,MOG,11,6,3_Pts_C,Fuzaro
+511,1,05:49,FLA,8,6,2_Pts_C,Marquinhos
+512,1,06:03,MOG,8,4,LL_Pts_C,Paranhos
+513,1,06:03,MOG,7,4,LL_Pts_T,Paranhos
+514,1,06:03,MOG,7,4,FR,Paranhos
+515,1,06:03,FLA,7,4,FC,Jhonatan
+516,1,06:03,MOG,7,4,RO,Paranhos
+517,1,06:03,MOG,7,4,2_Pts_T,Fabricio
+518,1,06:17,MOG,7,4,RD,Paranhos
+519,1,06:21,FLA,7,4,3_Pts_T,Mineiro
+520,1,06:40,MOG,7,4,LL_Pts_C,Paranhos
+521,1,06:40,MOG,6,4,AS,Fabricio
+522,1,06:40,MOG,6,4,LL_Pts_C,Paranhos
+523,1,06:40,MOG,5,4,FR,Paranhos
+524,1,06:40,FLA,5,4,FC,Mineiro
+525,1,06:45,FLA,5,4,EN,Léo Demétrio
+526,1,06:45,FLA,5,2,RO,Léo Demétrio
+527,1,06:54,FLA,5,2,3_Pts_T,Marquinhos
+528,1,07:08,FLA,5,2,RD,Flamengo
+529,1,07:08,MOG,5,2,2_Pts_T,André Goes
+530,1,07:30,MOG,5,2,RD,Paranhos
+531,1,07:30,FLA,5,2,LL_Pts_T,Mineiro
+532,1,07:30,FLA,5,2,FR,Mineiro
+533,1,07:30,MOG,5,2,FC,Paranhos
+534,1,07:30,FLA,5,2,2_Pts_C,Mineiro
+535,1,07:45,MOG,5,0,2_Pts_C,Fuzaro
+536,1,07:56,MOG,3,0,RD,Fuzaro
+537,1,08:00,FLA,3,0,2_Pts_T,Marquinhos
+538,1,08:05,FLA,3,0,RD,Marquinhos
+539,1,08:09,MOG,3,0,3_Pts_T,André Goes
+540,1,08:25,MOG,3,0,FR,Fuzaro
+541,1,08:25,FLA,3,0,FC,Balbi
+542,1,08:25,MOG,3,0,RD,Fuzaro
+543,1,08:30,MOG,3,0,TO,Fuzaro
+544,1,08:30,FLA,3,0,2_Pts_T,Léo Demétrio
+545,1,08:43,FLA,3,0,RD,Balbi
+546,1,08:48,MOG,3,0,2_Pts_T,Fuzaro
+547,1,09:06,FLA,3,0,ER,Balbi
+548,1,09:28,MOG,3,0,AS,Fúlvio
+549,1,09:28,MOG,3,0,3_Pts_C,Fabricio
+550,1,09:49,MOG,0,0,BR,André Goes
+551,1,09:49,FLA,0,0,ER,Mineiro
+552,1,10:00,FLA,0,0,substituicao_entra,Léo Demétrio
+553,1,10:00,FLA,0,0,substituicao_entra,Mineiro
+554,1,10:00,FLA,0,0,substituicao_entra,Marquinhos
+555,1,10:00,FLA,0,0,substituicao_entra,Jhonatan
+556,1,10:00,FLA,0,0,substituicao_entra,Balbi
+557,1,10:00,MOG,0,0,substituicao_entra,André Goes
+558,1,10:00,MOG,0,0,substituicao_entra,Paranhos
+559,1,10:00,MOG,0,0,substituicao_entra,Fabricio
+560,1,10:00,MOG,0,0,substituicao_entra,Fuzaro
+561,1,10:00,MOG,0,0,substituicao_entra,Fúlvio
+562,1,10:00,NaN,0,0,inicio_partida,

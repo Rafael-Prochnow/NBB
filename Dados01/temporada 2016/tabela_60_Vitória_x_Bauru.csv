@@ -1,0 +1,506 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,,84,90,fim_partida, 
+1,4,00:01,BAU,84,90,RD,Hettsheimeir 
+2,4,00:01,VIT,84,90,2_Pts_T,Kurtz 
+3,4,00:01,VIT,84,90,substituicao_entra,Kurtz 
+4,4,00:01,VIT,84,90,substituicao_sai,Kurtz 
+5,4,00:01,VIT,84,90,RO,Kurtz 
+6,4,00:01,VIT,84,90,2_Pts_T,Keyron 
+7,4,00:02,BAU,84,90,LL_Pts_C,Valtinho 
+8,4,00:02,BAU,84,89,LL_Pts_T,Valtinho 
+9,4,00:02,BAU,84,89,FR,Valtinho 
+10,4,00:02,VIT,84,89,FC,André 
+11,4,00:03,BAU,84,89,RD,Gegê 
+12,4,00:06,VIT,84,89,3_Pts_T,André 
+13,4,00:08,VIT,84,89,BR,André 
+14,4,00:10,BAU,84,89,ER,Gegê 
+15,4,00:26,BAU,84,89,substituicao_entra,Valtinho 
+16,4,00:26,BAU,84,89,substituicao_sai,Shilton 
+17,4,00:28,BAU,84,89,RD,Shilton 
+18,4,00:29,VIT,84,89,2_Pts_T,Hayes 
+19,4,00:32,BAU,84,89,substituicao_entra,Shilton 
+20,4,00:32,BAU,84,89,substituicao_sai,Jefferson 
+21,4,00:32,VIT,84,89,tempo_tecnico,Vitória
+22,4,00:32,BAU,84,89,LL_Pts_C,Léo Meindl 
+23,4,00:32,BAU,84,88,LL_Pts_C,Léo Meindl 
+24,4,00:32,BAU,84,87,FR,Léo Meindl 
+25,4,00:32,VIT,84,87,FC,André 
+26,4,00:46,VIT,84,87,3_Pts_C,Dawkins 
+27,4,00:56,BAU,81,87,AS,Léo Meindl 
+28,4,00:57,BAU,81,87,3_Pts_C,Gui Deodato 
+29,4,01:14,BAU,81,84, RD,Bauru
+30,4,01:17,VIT,81,84,2_Pts_T,André 
+31,4,01:26,BAU,81,84,LL_Pts_C,Hettsheimeir 
+32,4,01:26,BAU,81,83,LL_Pts_C,Hettsheimeir 
+33,4,01:26,VIT,81,82,substituicao_entra,André 
+34,4,01:26,VIT,81,82,substituicao_sai,Edu Mariano 
+35,4,01:26,BAU,81,82,FR,Hettsheimeir 
+36,4,01:26,VIT,81,82,FC,Kurtz 
+37,4,01:36,VIT,81,82,ER,Kurtz 
+38,4,01:41,VIT,81,82,RO,Kurtz 
+39,4,01:43,VIT,81,82,3_Pts_T,Keyron 
+40,4,01:47,VIT,81,82,RD,Edu Mariano 
+41,4,01:49,BAU,81,82,3_Pts_T,Gui Deodato 
+42,4,02:15,VIT,81,82,AS,Dawkins 
+43,4,02:17,VIT,81,82,3_Pts_C,Keyron 
+44,4,02:23,BAU,78,82,LL_Pts_C,Gui Deodato 
+45,4,02:23,BAU,78,81,LL_Pts_T,Gui Deodato 
+46,4,02:23,BAU,78,81,FR,Gui Deodato 
+47,4,02:23,VIT,78,81,FC,Edu Mariano 
+48,4,02:24,VIT,78,81,substituicao_entra,Dawkins 
+49,4,02:24,VIT,78,81,substituicao_sai,André 
+50,4,02:24,BAU,78,81,FR,Jefferson 
+51,4,02:24,VIT,78,81,FC,André 
+52,4,02:48,VIT,78,81,2_Pts_C,Kurtz 
+53,4,02:49,VIT,76,81,RD,Kurtz 
+54,4,02:52,VIT,76,81,2_Pts_T,Hayes 
+55,4,02:54,VIT,76,81,RO,Hayes 
+56,4,02:56,VIT,76,81,3_Pts_T,Keyron 
+57,4,03:07,VIT,76,81,substituicao_entra,Keyron 
+58,4,03:07,VIT,76,81,substituicao_sai,Dawkins 
+59,4,03:07,BAU,76,81,substituicao_entra,Léo Meindl 
+60,4,03:07,BAU,76,81,substituicao_sai,Valtinho 
+61,4,03:07,VIT,76,81,FR,Dawkins 
+62,4,03:07,BAU,76,81,FC,Gui Deodato 
+63,4,03:19,VIT,76,81,RD,Edu Mariano 
+64,4,03:20,BAU,76,81,2_Pts_T,Hettsheimeir 
+65,4,03:37,BAU,76,81,RD,Jefferson 
+66,4,03:39,VIT,76,81,2_Pts_T,Hayes 
+67,4,03:55,BAU,76,81,AS,Jefferson 
+68,4,03:57,BAU,76,81,3_Pts_C,Gui Deodato 
+69,4,04:04,VIT,76,78,AS,Hayes 
+70,4,04:13,VIT,76,78,2_Pts_C,Kurtz 
+71,4,04:18,VIT,74,78,RO,Hayes 
+72,4,04:20,VIT,74,78,3_Pts_T,Dawkins 
+73,4,04:31,VIT,74,78,RD,André 
+74,4,04:33,BAU,74,78,3_Pts_T,Hettsheimeir 
+75,4,04:51,VIT,74,78,2_Pts_C,Dawkins 
+76,4,04:55,VIT,72,78,RD,Dawkins 
+77,4,04:58,BAU,72,78,3_Pts_T,Valtinho 
+78,4,05:04,BAU,72,78,FR,Gegê 
+79,4,05:04,VIT,72,78,FC,Dawkins 
+80,4,05:14,BAU,72,78,RD,Hettsheimeir 
+81,4,05:16,VIT,72,78,3_Pts_T,André 
+82,4,05:20,VIT,72,78,RO,Kurtz 
+83,4,05:21,VIT,72,78,3_Pts_T,Hayes 
+84,4,05:39,BAU,72,78,2_Pts_C,Hettsheimeir 
+85,4,05:52,VIT,72,76,ER,Dawkins 
+86,4,06:01,VIT,72,76,RD,Hayes 
+87,4,06:05,BAU,72,76,3_Pts_T,Gegê 
+88,4,06:16,BAU,72,76,tempo_tecnico,Bauru
+89,4,06:18,VIT,72,76,AS,Edu Mariano 
+90,4,06:23,VIT,72,76,2_Pts_C,Dawkins 
+91,4,06:25,VIT,70,76,BR,André 
+92,4,06:29,BAU,70,76,ER,Jefferson 
+93,4,06:43,BAU,70,76,RD,Hettsheimeir 
+94,4,06:45,VIT,70,76,2_Pts_T,Hayes 
+95,4,06:51,BAU,70,76,substituicao_entra,Jefferson 
+96,4,06:51,BAU,70,76,substituicao_sai,Shilton 
+97,4,06:52,BAU,70,76,ER,Gegê comete violação de volta de quadra 
+98,4,07:04,VIT,70,76,LL_Pts_C,André 
+99,4,07:04,VIT,69,76,LL_Pts_C,André 
+100,4,07:04,VIT,68,76,FR,André 
+101,4,07:04,BAU,68,76,FC,Valtinho 
+102,4,07:07,VIT,68,76,BR,André 
+103,4,07:10,BAU,68,76,ER,Valtinho 
+104,4,07:16,BAU,68,76,substituicao_entra,Gui Deodato 
+105,4,07:16,BAU,68,76,substituicao_sai,Léo Meindl 
+106,4,07:16,BAU,68,76,tempo_tecnico,Bauru
+107,4,07:19,VIT,68,76,3_Pts_C,Dawkins 
+108,4,07:26,VIT,65,76,RD,Hayes 
+109,4,07:28,BAU,65,76,3_Pts_T,Léo Meindl 
+110,4,07:46,BAU,65,76,RD,Léo Meindl 
+111,4,07:48,VIT,65,76,3_Pts_T,Hayes 
+112,4,07:52,VIT,65,76,FR,André 
+113,4,07:52,BAU,65,76,ER,Shilton 
+114,4,07:52,BAU,65,76,FC_O, Shilton 
+115,4,07:59,BAU,65,76,substituicao_entra,Shilton 
+116,4,07:59,BAU,65,76,substituicao_sai,Jefferson 
+117,4,07:59,BAU,65,76,ER,Jefferson 
+118,4,07:59,BAU,65,76,FC_O, Shilton 
+119,4,08:12,VIT,65,76,LL_Pts_C,Hayes 
+120,4,08:12,BAU,64,76,substituicao_entra,Gegê 
+121,4,08:12,BAU,64,76,substituicao_sai,Henrique 
+122,4,08:12,BAU,64,76,substituicao_entra,Hettsheimeir 
+123,4,08:12,BAU,64,76,substituicao_sai,Shilton 
+124,4,08:12,VIT,64,76,FR,Hayes 
+125,4,08:16,VIT,64,76,2_Pts_C,Hayes 
+126,4,08:27,VIT,62,76,RD,Kurtz 
+127,4,08:29,BAU,62,76,2_Pts_T,Henrique 
+128,4,08:38,BAU,62,76,FR,Shilton 
+129,4,08:38,VIT,62,76,FC,Dawkins 
+130,4,08:58,VIT,62,76,AS,Dawkins 
+131,4,08:59,VIT,62,76,3_Pts_C,Hayes 
+132,4,09:17,BAU,59,76,AS,Léo Meindl 
+133,4,09:17,BAU,59,76,LL_Pts_C,Shilton 
+134,4,09:17,BAU,59,75,LL_Pts_T,Shilton 
+135,4,09:17,BAU,59,75,FR,Shilton 
+136,4,09:17,VIT,59,75,FC,Hayes 
+137,4,09:38,VIT,59,75,2_Pts_C,Edu Mariano 
+138,4,09:39,VIT,57,75,BR,Edu Mariano 
+139,4,09:42,BAU,57,75,ER,Léo Meindl 
+140,4,10:00,,57,75,inicio_quarto,
+141,3,00:00,,57,75,fim_quarto,
+142,3,00:02,VIT,57,75,substituicao_entra,André 
+143,3,00:02,VIT,57,75,substituicao_sai,Keyron 
+144,3,00:03,VIT,57,75, RO,Vitória
+145,3,00:04,VIT,57,75,2_Pts_T,Edu Mariano 
+146,3,00:13,BAU,57,75,3_Pts_C,Gui Deodato 
+147,3,00:31,BAU,57,72,RD,Valtinho 
+148,3,00:33,VIT,57,72,3_Pts_T,Hayes 
+149,3,00:47,BAU,57,72,AS,Léo Meindl 
+150,3,00:50,BAU,57,72,2_Pts_C,Gui Deodato 
+151,3,01:06,VIT,57,70,AS,Dawkins 
+152,3,01:09,VIT,57,70,2_Pts_C,Edu Mariano 
+153,3,01:15,VIT,55,70,RD,Hayes 
+154,3,01:17,BAU,55,70,3_Pts_T,Gui Deodato 
+155,3,01:29,BAU,55,70,substituicao_entra,Shilton 
+156,3,01:29,BAU,55,70,substituicao_sai,Hettsheimeir 
+157,3,01:29,VIT,55,70,substituicao_entra,Edu Mariano 
+158,3,01:29,VIT,55,70,substituicao_sai,André 
+159,3,01:33,VIT,55,70,2_Pts_C,Hayes 
+160,3,01:43,BAU,53,70,AS,Gui Deodato 
+161,3,01:44,BAU,53,70,3_Pts_C,Hettsheimeir 
+162,3,01:49,BAU,53,67,RD,Léo Meindl 
+163,3,01:51,VIT,53,67,2_Pts_T,André 
+164,3,02:00,VIT,53,67,RD,Kurtz 
+165,3,02:01,BAU,53,67,2_Pts_T,Jefferson 
+166,3,02:10,BAU,53,67,FR,Hettsheimeir 
+167,3,02:10,VIT,53,67,FC,Kurtz 
+168,3,02:21,VIT,53,67,2_Pts_C,Kurtz 
+169,3,02:23,VIT,51,67,RO,Kurtz 
+170,3,02:25,VIT,51,67,2_Pts_T,Hayes 
+171,3,02:35,BAU,51,67,substituicao_entra,Léo Meindl 
+172,3,02:35,BAU,51,67,substituicao_sai,Gegê 
+173,3,02:35,VIT,51,67,FR,Keyron 
+174,3,02:35,BAU,51,67,FC,Gegê 
+175,3,02:48,VIT,51,67,tempo_tecnico,Vitória
+176,3,02:50,BAU,51,67,ER,Gui Deodato 
+177,3,03:05,BAU,51,67,RD,Jefferson 
+178,3,03:06,VIT,51,67,2_Pts_T,André 
+179,3,03:17,BAU,51,67,AS,Valtinho 
+180,3,03:20,BAU,51,67,2_Pts_C,Gui Deodato 
+181,3,03:31,VIT,51,65,AS,Keyron 
+182,3,03:34,VIT,51,65,2_Pts_C,Kurtz 
+183,3,03:46,BAU,49,65,LL_Pts_C,Hettsheimeir 
+184,3,03:46,BAU,49,64,LL_Pts_C,Hettsheimeir 
+185,3,03:46,VIT,49,63,substituicao_entra,Kurtz 
+186,3,03:46,VIT,49,63,substituicao_sai,Coimbra 
+187,3,03:46,BAU,49,63,FR,Hettsheimeir 
+188,3,03:46,VIT,49,63,FC,Coimbra 
+189,3,03:49,BAU,49,63,2_Pts_T,Hettsheimeir 
+190,3,03:52,BAU,49,63,BR,Gegê 
+191,3,03:55,VIT,49,63,ER,Coimbra 
+192,3,03:58,VIT,49,63,RD,Coimbra 
+193,3,04:01,BAU,49,63,3_Pts_T,Gegê 
+194,3,04:17,BAU,49,63,RD,Hettsheimeir 
+195,3,04:19,VIT,49,63,3_Pts_T,Keyron 
+196,3,04:32,VIT,49,63,RD,Keyron 
+197,3,04:33,VIT,49,63,TO,Coimbra 
+198,3,04:36,BAU,49,63,2_Pts_T,Gui Deodato 
+199,3,04:49,VIT,49,63,substituicao_entra,Hayes 
+200,3,04:49,VIT,49,63,substituicao_sai,Renato 
+201,3,04:49,VIT,49,63,substituicao_entra,André 
+202,3,04:49,VIT,49,63,substituicao_sai,Edu Mariano 
+203,3,04:51,BAU,49,63, RD,Bauru
+204,3,04:53,VIT,49,63,2_Pts_T,Dawkins 
+205,3,05:03,BAU,49,63,AS,Gegê 
+206,3,05:05,BAU,49,63,3_Pts_C,Hettsheimeir 
+207,3,05:11,BAU,49,60,RD,Gegê 
+208,3,05:13,VIT,49,60,3_Pts_T,Edu Mariano 
+209,3,05:25,BAU,49,60,2_Pts_C,Gegê 
+210,3,05:44,VIT,49,58,AS,Dawkins 
+211,3,05:46,VIT,49,58,3_Pts_C,Keyron 
+212,3,05:59,VIT,46,58,tempo_tecnico,Vitória
+213,3,06:01,BAU,46,58,AS,Gegê 
+214,3,06:01,BAU,46,58,3_Pts_C,Hettsheimeir 
+215,3,06:11,BAU,46,55,RD,Gui Deodato 
+216,3,06:13,VIT,46,55,2_Pts_T,Keyron 
+217,3,06:20,VIT,46,55,RD,Renato 
+218,3,06:22,BAU,46,55,3_Pts_T,Valtinho 
+219,3,06:28,BAU,46,55,RD,Gegê 
+220,3,06:30,VIT,46,55,2_Pts_T,Renato 
+221,3,06:35,BAU,46,55,AS,Jefferson 
+222,3,06:46,BAU,46,55,AS,Gui Deodato 
+223,3,06:49,BAU,46,55,3_Pts_C,Hettsheimeir 
+224,3,07:04,VIT,46,52,AS,Keyron 
+225,3,07:06,VIT,46,52,2_Pts_C,Coimbra 
+226,3,07:19,BAU,44,52,ER,Gegê 
+227,3,07:33,BAU,44,52,FR,Valtinho 
+228,3,07:33,VIT,44,52,FC,Renato 
+229,3,07:47,VIT,44,52,2_Pts_C,Renato 
+230,3,07:49,VIT,42,52,RO,Renato 
+231,3,07:50,VIT,42,52,3_Pts_T,Dawkins 
+232,3,08:04,BAU,42,52,3_Pts_C,Gui Deodato 
+233,3,08:10,BAU,42,49,RD,Gegê 
+234,3,08:13,VIT,42,49,3_Pts_T,Renato 
+235,3,08:27,BAU,42,49,AS,Gegê 
+236,3,08:29,BAU,42,49,3_Pts_C,Hettsheimeir 
+237,3,08:35,BAU,42,46,RD,Valtinho 
+238,3,08:39,VIT,42,46,2_Pts_T,Keyron 
+239,3,08:42,VIT,42,46,RD,Coimbra 
+240,3,08:45,BAU,42,46,3_Pts_T,Gegê 
+241,3,09:12,VIT,42,46,AS,Dawkins 
+242,3,09:14,VIT,42,46,3_Pts_C,Renato 
+243,3,09:29,BAU,39,46,2_Pts_C,Jefferson 
+244,3,09:45,BAU,39,44,RD,Hettsheimeir 
+245,3,09:47,VIT,39,44,2_Pts_T,Renato 
+246,3,10:00,,39,44,inicio_quarto,
+247,2,00:00,,39,44,fim_quarto,
+248,2,00:05,BAU,39,44,RD,Valtinho 
+249,2,00:06,VIT,39,44,3_Pts_T,Murilo 
+250,2,00:21,BAU,39,44,substituicao_entra,Jaú 
+251,2,00:21,BAU,39,44,substituicao_sai,Jefferson 
+252,2,00:22,BAU,39,44,AS,Gui Deodato 
+253,2,00:24,BAU,39,44,2_Pts_C,Henrique 
+254,2,00:27,BAU,39,42,BR,Gui Deodato 
+255,2,00:30,VIT,39,42,ER,Renato 
+256,2,00:49,BAU,39,42,2_Pts_C,Jefferson 
+257,2,01:10,BAU,39,40,RO,Henrique 
+258,2,01:11,BAU,39,40,2_Pts_T,Jefferson 
+259,2,01:32,VIT,39,40,LL_Pts_C,André 
+260,2,01:32,VIT,38,40,LL_Pts_C,André 
+261,2,01:32,BAU,37,40,substituicao_entra,Henrique 
+262,2,01:32,BAU,37,40,substituicao_sai,Léo Meindl 
+263,2,01:32,VIT,37,40,substituicao_entra,Murilo 
+264,2,01:32,VIT,37,40,substituicao_sai,Dawkins 
+265,2,01:32,VIT,37,40,FR,André 
+266,2,01:32,BAU,37,40,FC,Léo Meindl 
+267,2,01:43,BAU,37,40,EN,Gui Deodato
+268,2,01:43,BAU,37,38,BR,Gui Deodato 
+269,2,01:43,VIT,37,38,ER,André 
+270,2,01:43,BAU,37,38,LL_Pts_C,Shilton 
+271,2,01:43,VIT,37,37,substituicao_entra,André 
+272,2,01:43,VIT,37,37,substituicao_sai,Keyron 
+273,2,01:43,VIT,37,37,substituicao_entra,Arthur 
+274,2,01:43,VIT,37,37,substituicao_sai,Edu Mariano 
+275,2,01:43,BAU,37,37,FR,Shilton 
+276,2,01:43,VIT,37,37,FC,Edu Mariano 
+277,2,01:47,BAU,37,37,2_Pts_C,Shilton 
+278,2,02:06,VIT,37,35,ER,Kurtz 
+279,2,02:13,VIT,37,35,RD,Renato 
+280,2,02:15,BAU,37,35,3_Pts_T,Léo Meindl 
+281,2,02:30,BAU,37,35,RD,Léo Meindl 
+282,2,02:31,VIT,37,35,2_Pts_T,Dawkins 
+283,2,02:45,BAU,37,35,ER,Shilton 
+284,2,02:58,VIT,37,35,LL_Pts_C,Renato 
+285,2,02:58,VIT,36,35,LL_Pts_C,Renato 
+286,2,02:58,BAU,35,35,substituicao_entra,Jefferson 
+287,2,02:58,BAU,35,35,substituicao_sai,Hettsheimeir 
+288,2,02:58,BAU,35,35,substituicao_entra,Léo Meindl 
+289,2,02:58,BAU,35,35,substituicao_sai,Stefano 
+290,2,02:58,VIT,35,35,FR,Renato 
+291,2,02:58,BAU,35,35,FC,Stefano 
+292,2,03:05,VIT,35,35,RD,Edu Mariano 
+293,2,03:09,BAU,35,35,2_Pts_T,Valtinho 
+294,2,03:13,BAU,35,35,RO,Valtinho 
+295,2,03:14,BAU,35,35,3_Pts_T,Stefano 
+296,2,03:30,BAU,35,35,tempo_tecnico,Bauru
+297,2,03:34,VIT,35,35,3_Pts_C,Dawkins 
+298,2,03:46,BAU,32,35,ER,Hettsheimeir andou com a bola 
+299,2,03:52,BAU,32,35,RO,Shilton 
+300,2,03:53,BAU,32,35,2_Pts_T,Hettsheimeir 
+301,2,04:16,VIT,32,35,2_Pts_C,Dawkins 
+302,2,04:24,BAU,30,35,AS,Gui Deodato 
+303,2,04:26,BAU,30,35,3_Pts_C,Hettsheimeir 
+304,2,04:29,BAU,30,32, RO,Bauru
+305,2,04:32,BAU,30,32,2_Pts_T,Hettsheimeir 
+306,2,04:54,VIT,30,32,AS,Edu Mariano 
+307,2,04:56,VIT,30,32,3_Pts_C,Dawkins 
+308,2,04:59,BAU,27,32,LL_Pts_C,Hettsheimeir 
+309,2,04:59,VIT,27,31,substituicao_entra,Kurtz 
+310,2,04:59,VIT,27,31,substituicao_sai,Hayes 
+311,2,04:59,BAU,27,31,FR,Hettsheimeir 
+312,2,04:59,VIT,27,31,FC,Hayes 
+313,2,05:02,BAU,27,31,AS,Valtinho 
+314,2,05:06,BAU,27,31,2_Pts_C,Hettsheimeir 
+315,2,05:15,VIT,27,29,LL_Pts_C,Renato 
+316,2,05:15,VIT,26,29,LL_Pts_C,Renato 
+317,2,05:15,VIT,25,29,FR,Renato 
+318,2,05:15,BAU,25,29,FC,Hettsheimeir 
+319,2,05:20,VIT,25,29,2_Pts_T,Renato 
+320,2,05:25,BAU,25,29,substituicao_entra,Valtinho 
+321,2,05:25,BAU,25,29,substituicao_sai,Léo Meindl 
+322,2,05:25,VIT,25,29,substituicao_entra,Renato 
+323,2,05:25,VIT,25,29,substituicao_sai,Braga 
+324,2,05:29,VIT,25,29,BR,Braga 
+325,2,05:31,BAU,25,29,ER,Léo Meindl 
+326,2,05:40,BAU,25,29,RD,Shilton 
+327,2,05:42,VIT,25,29,3_Pts_T,Dawkins 
+328,2,05:55,BAU,25,29,AS,Shilton 
+329,2,05:57,BAU,25,29,2_Pts_C,Hettsheimeir 
+330,2,06:07,BAU,25,27,RD,Gui Deodato 
+331,2,06:08,VIT,25,27,3_Pts_T,Edu Mariano 
+332,2,06:30,VIT,25,27,substituicao_entra,Edu Mariano 
+333,2,06:30,VIT,25,27,substituicao_sai,André 
+334,2,06:30,VIT,25,27,tempo_tecnico,Vitória
+335,2,06:32,BAU,25,27,AS,Léo Meindl 
+336,2,06:34,BAU,25,27,3_Pts_C,Gui Deodato 
+337,2,06:47,BAU,25,24,RD,Shilton 
+338,2,06:49,VIT,25,24,2_Pts_T,Braga 
+339,2,06:59,BAU,25,24,LL_Pts_C,Shilton 
+340,2,06:59,BAU,25,23,LL_Pts_C,Shilton 
+341,2,06:59,BAU,25,22,substituicao_entra,Hettsheimeir 
+342,2,06:59,BAU,25,22,substituicao_sai,Jefferson 
+343,2,06:59,BAU,25,22,FR,Shilton 
+344,2,06:59,VIT,25,22,FC,Keyron 
+345,2,07:07,BAU,25,22,2_Pts_T,Gui Deodato 
+346,2,07:23,VIT,25,22,substituicao_entra,Braga 
+347,2,07:23,VIT,25,22,substituicao_sai,Coimbra 
+348,2,07:23,BAU,25,22,FR,Léo Meindl 
+349,2,07:23,VIT,25,22,ER,Coimbra 
+350,2,07:23,VIT,25,22,FC_O, Coimbra 
+351,2,07:28,VIT,25,22,FR,Hayes 
+352,2,07:28,BAU,25,22,FC,Léo Meindl 
+353,2,07:39,BAU,25,22,LL_Pts_C,Shilton 
+354,2,07:39,BAU,25,21,LL_Pts_T,Shilton 
+355,2,07:39,BAU,25,21,FR,Shilton 
+356,2,07:39,VIT,25,21,FC,Hayes 
+357,2,07:42,BAU,25,21,RO,Gui Deodato 
+358,2,07:44,BAU,25,21,2_Pts_T,Gui Deodato 
+359,2,07:51,BAU,25,21,RD,Jefferson 
+360,2,07:52,VIT,25,21,LL_Pts_T,André 
+361,2,07:52,BAU,25,21,substituicao_entra,Shilton 
+362,2,07:52,BAU,25,21,substituicao_sai,Hettsheimeir 
+363,2,07:52,VIT,25,21,substituicao_entra,Hayes 
+364,2,07:52,VIT,25,21,substituicao_sai,Arthur 
+365,2,07:52,VIT,25,21,substituicao_entra,Dawkins 
+366,2,07:52,VIT,25,21,substituicao_sai,Renato 
+367,2,07:52,VIT,25,21,FR,André 
+368,2,07:52,BAU,25,21,FC,Stefano 
+369,2,07:59,VIT,25,21,2_Pts_C,André 
+370,2,08:15,BAU,23,21,2_Pts_C,Léo Meindl 
+371,2,08:26,BAU,23,19,RD,Léo Meindl 
+372,2,08:29,VIT,23,19,2_Pts_T,Renato 
+373,2,08:35,VIT,23,19,RD,Keyron 
+374,2,08:37,BAU,23,19,3_Pts_T,Hettsheimeir 
+375,2,08:43,BAU,23,19,RD,Hettsheimeir 
+376,2,08:46,VIT,23,19,3_Pts_T,Arthur 
+377,2,08:53,VIT,23,19,FR,Arthur 
+378,2,08:53,BAU,23,19,FC,Stefano 
+379,2,09:03,VIT,23,19,RD,Coimbra 
+380,2,09:06,BAU,23,19,2_Pts_T,Jefferson 
+381,2,09:25,BAU,23,19,FR,Léo Meindl 
+382,2,09:25,VIT,23,19,ER,Coimbra 
+383,2,09:25,VIT,23,19,FC_O, Coimbra 
+384,2,09:37,BAU,23,19,AS,Stefano 
+385,2,09:38,BAU,23,19,2_Pts_C,Léo Meindl 
+386,2,09:42,BAU,23,17,BR,Stefano 
+387,2,09:45,VIT,23,17,ER,Coimbra 
+388,2,10:00,,23,17,inicio_quarto,
+389,1,00:00,,23,17,fim_quarto,
+390,1,00:01,VIT,23,17,FR,Arthur 
+391,1,00:01,BAU,23,17,FC,Jefferson 
+392,1,00:03,BAU,23,17,LL_Pts_C,Hettsheimeir 
+393,1,00:03,BAU,23,16,LL_Pts_C,Hettsheimeir 
+394,1,00:03,BAU,23,15,substituicao_entra,Stefano 
+395,1,00:03,BAU,23,15,substituicao_sai,Valtinho 
+396,1,00:03,BAU,23,15,FR,Hettsheimeir 
+397,1,00:03,VIT,23,15,FC,Arthur 
+398,1,00:06,BAU,23,15,3_Pts_T,Gui Deodato 
+399,1,00:18,BAU,23,15,RD,Hettsheimeir 
+400,1,00:21,VIT,23,15,3_Pts_T,Arthur 
+401,1,00:30,VIT,23,15,RD,Keyron 
+402,1,00:31,BAU,23,15,2_Pts_T,Gui Deodato 
+403,1,00:57,VIT,23,15,AS,Arthur 
+404,1,00:59,VIT,23,15,2_Pts_C,Coimbra 
+405,1,01:24,BAU,21,15,AS,Léo Meindl 
+406,1,01:25,BAU,21,15,3_Pts_C,Jefferson 
+407,1,01:42,VIT,21,12,AS,Arthur 
+408,1,01:46,VIT,21,12,EN,Coimbra
+409,1,02:06,BAU,19,12,AS,Valtinho 
+410,1,02:07,BAU,19,12,2_Pts_C,Jefferson 
+411,1,02:17,BAU,19,10,FR,Léo Meindl 
+412,1,02:17,VIT,19,10,FC,Arthur 
+413,1,02:23,VIT,19,10,substituicao_entra,Murilo 
+414,1,02:23,VIT,19,10,substituicao_sai,Dawkins 
+415,1,02:23,BAU,19,10,tempo_tecnico,Bauru
+416,1,02:28,VIT,19,10,2_Pts_C,Renato 
+417,1,02:40,VIT,17,10,RD,Arthur 
+418,1,02:42,BAU,17,10,3_Pts_T,Gui Deodato 
+419,1,03:05,VIT,17,10,AS,Coimbra 
+420,1,03:07,VIT,17,10,3_Pts_C,Keyron 
+421,1,03:19,VIT,14,10,RO,Renato 
+422,1,03:22,VIT,14,10,2_Pts_T,Dawkins 
+423,1,03:26,VIT,14,10,RD,Coimbra 
+424,1,03:29,BAU,14,10,2_Pts_T,Valtinho 
+425,1,03:36,VIT,14,10,tempo_tecnico,Vitória
+426,1,03:42,VIT,14,10,ER,Arthur 
+427,1,03:55,BAU,14,10,substituicao_entra,Léo Meindl 
+428,1,03:55,BAU,14,10,substituicao_sai,Gegê 
+429,1,03:55,VIT,14,10,substituicao_entra,Arthur 
+430,1,03:55,VIT,14,10,substituicao_sai,Edu Mariano 
+431,1,03:55,VIT,14,10,FR,Dawkins 
+432,1,03:55,BAU,14,10,ER,Gegê 
+433,1,03:55,BAU,14,10,FC_O, Gegê 
+434,1,04:19,BAU,14,10, RD,Bauru
+435,1,04:22,VIT,14,10,3_Pts_T,Coimbra 
+436,1,04:36,BAU,14,10,ER,Gegê 
+437,1,04:48,VIT,14,10,substituicao_entra,Renato 
+438,1,04:48,VIT,14,10,substituicao_sai,Hayes 
+439,1,04:48,VIT,14,10,substituicao_entra,Keyron 
+440,1,04:48,VIT,14,10,substituicao_sai,André 
+441,1,04:48,VIT,14,10,BR,Hayes 
+442,1,04:52,VIT,14,10,ER,Hayes 
+443,1,05:02,BAU,14,10,AS,Gui Deodato 
+444,1,05:04,BAU,14,10,3_Pts_C,Jefferson 
+445,1,05:20,VIT,14,7,AS,Dawkins 
+446,1,05:22,VIT,14,7,3_Pts_C,Edu Mariano 
+447,1,05:29,VIT,11,7,FR,Edu Mariano 
+448,1,05:29,BAU,11,7,FC,Gegê 
+449,1,05:31,VIT,11,7,RD,Edu Mariano 
+450,1,05:34,BAU,11,7,2_Pts_T,Hettsheimeir 
+451,1,05:56,VIT,11,7,AS,André 
+452,1,06:00,VIT,11,7,2_Pts_C,Dawkins 
+453,1,06:02,VIT,9,7,RD,André 
+454,1,06:06,BAU,9,7,2_Pts_T,Valtinho 
+455,1,06:11,BAU,9,7,RD,Valtinho 
+456,1,06:13,VIT,9,7,3_Pts_T,Dawkins 
+457,1,06:20,VIT,9,7,substituicao_entra,Coimbra 
+458,1,06:20,VIT,9,7,substituicao_sai,Kurtz 
+459,1,06:20,VIT,9,7,FR,Dawkins 
+460,1,06:20,BAU,9,7,FC,Gui Deodato 
+461,1,06:25,VIT,9,7,RD,Hayes 
+462,1,06:27,BAU,9,7,3_Pts_T,Gegê 
+463,1,06:32,BAU,9,7,BR,Jefferson 
+464,1,06:35,VIT,9,7,ER,Hayes 
+465,1,06:42,BAU,9,7,ER,Gegê 
+466,1,06:50,VIT,9,7,AS,Dawkins 
+467,1,06:53,VIT,9,7,2_Pts_C,Kurtz 
+468,1,06:59,VIT,7,7,BR,Edu Mariano 
+469,1,07:03,BAU,7,7,ER,Valtinho 
+470,1,07:07,BAU,7,7,BR,Valtinho 
+471,1,07:10,VIT,7,7,ER,Dawkins 
+472,1,07:19,VIT,7,7,RO,Hayes 
+473,1,07:21,VIT,7,7,2_Pts_T,Kurtz 
+474,1,07:27,BAU,7,7,LL_Pts_C,Hettsheimeir 
+475,1,07:27,BAU,7,6,LL_Pts_T,Hettsheimeir 
+476,1,07:27,BAU,7,6,FR,Hettsheimeir 
+477,1,07:27,VIT,7,6,FC,Kurtz 
+478,1,07:32,BAU,7,6,2_Pts_T,Hettsheimeir 
+479,1,07:38,BAU,7,6,FR,Jefferson 
+480,1,07:38,VIT,7,6,FC,Hayes 
+481,1,07:46,VIT,7,6,AS,Kurtz 
+482,1,07:51,VIT,7,6,2_Pts_C,Dawkins 
+483,1,07:56,VIT,5,6,RD,Kurtz 
+484,1,07:57,BAU,5,6,2_Pts_T,Gui Deodato 
+485,1,08:18,VIT,5,6,2_Pts_C,Edu Mariano 
+486,1,08:30,BAU,3,6,3_Pts_C,Gegê 
+487,1,08:33,BAU,3,3,FR,Hettsheimeir 
+488,1,08:33,VIT,3,3,FC,Kurtz 
+489,1,08:39,BAU,3,3,RD,Gegê 
+490,1,08:43,VIT,3,3,2_Pts_T,Edu Mariano 
+491,1,08:58,BAU,3,3,3_Pts_C,Valtinho 
+492,1,09:18,VIT,3,0,3_Pts_C,Dawkins 
+493,1,09:28,VIT,0,0,RD,Kurtz 
+494,1,09:39,BAU,0,0,3_Pts_T,Hettsheimeir 
+495,1,10:00,BAU,0,0,substituicao_entra,Jefferson 
+496,1,10:00,BAU,0,0,substituicao_entra,Hettsheimeir 
+497,1,10:00,BAU,0,0,substituicao_entra,Gegê 
+498,1,10:00,BAU,0,0,substituicao_entra,Valtinho 
+499,1,10:00,BAU,0,0,substituicao_entra,Gui Deodato 
+500,1,10:00,VIT,0,0,substituicao_entra,Kurtz 
+501,1,10:00,VIT,0,0,substituicao_entra,Hayes 
+502,1,10:00,VIT,0,0,substituicao_entra,Edu Mariano 
+503,1,10:00,VIT,0,0,substituicao_entra,André 
+504,1,10:00,VIT,0,0,substituicao_entra,Dawkins 

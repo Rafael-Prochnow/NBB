@@ -1,0 +1,515 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,70,61,fim_partida,
+1,4,00:00,NaN,70,61,fim_quarto, 
+2,4,00:00,CEA,70,61,RO,Alex
+3,4,00:01,CEA,70,61,LL_Pts_T,Alex
+4,4,00:01,CEA,70,61,LL_Pts_T,Alex
+5,4,00:01,CEA,70,61,LL_Pts_T,Alex
+6,4,00:03,CEA,70,61,FR,Alex
+7,4,00:03,MIN,70,61,FC,Wesley
+8,4,00:09,CEA,70,61,RD,Felipe
+9,4,00:14,MIN,70,61,3_Pts_T,D  Coleman
+10,4,00:19,CEA,70,61,substituicao_entra,Sualisson
+11,4,00:19,CEA,70,61,substituicao_sai,Kurtz
+12,4,00:19,MIN,70,61,tempo_tecnico,Minas
+13,4,00:19,CEA,70,61,LL_Pts_C,Felipe
+14,4,00:19,CEA,69,61,LL_Pts_C,Felipe
+15,4,00:19,CEA,68,61,FR,Felipe
+16,4,00:19,MIN,68,61,FC,Daniel
+17,4,00:26,MIN,68,61,3_Pts_C,Bob
+18,4,00:27,MIN,68,58,RD,Bob
+19,4,00:32,CEA,68,58,2_Pts_T,Felipe
+20,4,00:49,MIN,68,58,LL_Pts_C,Daniel
+21,4,00:49,MIN,68,57,LL_Pts_T,Daniel
+22,4,00:49,MIN,68,57,FR,Daniel
+23,4,00:49,CEA,68,57,FC,Léo W 
+24,4,00:53,MIN,68,57,RD,Daniel
+25,4,00:57,CEA,68,57,3_Pts_T,Felipe
+26,4,01:12,CEA,68,57,BR,Paulo
+27,4,01:12,MIN,68,57,ER,Lucas
+28,4,01:21,MIN,68,57,RD,Daniel
+29,4,01:23,CEA,68,57,LL_Pts_T,Paulo
+30,4,01:23,CEA,68,57,LL_Pts_T,Paulo
+31,4,01:23,MIN,68,57,substituicao_entra,Lucas
+32,4,01:23,MIN,68,57,substituicao_sai,Gegê
+33,4,01:23,MIN,68,57,substituicao_entra,Wesley
+34,4,01:23,MIN,68,57,substituicao_sai,Leonardo
+35,4,01:23,CEA,68,57,FR,Paulo
+36,4,01:23,MIN,68,57,FC,Bob
+37,4,01:25,CEA,68,57,RD,Léo W 
+38,4,01:29,MIN,68,57,2_Pts_T,Gegê
+39,4,01:38,MIN,68,57,RO,Minas
+40,4,01:38,MIN,68,57,2_Pts_T,Leonardo
+41,4,01:42,MIN,68,57,tempo_tecnico,Minas
+42,4,01:44,CEA,68,57,AS,Alex
+43,4,01:44,CEA,68,57,3_Pts_C,Léo W 
+44,4,01:59,CEA,65,57,RD,Alex
+45,4,02:04,MIN,65,57,3_Pts_T,D  Coleman
+46,4,02:10,MIN,65,57,BR,D  Coleman
+47,4,02:10,CEA,65,57,ER,Felipe
+48,4,02:19,CEA,65,57,RD,Paulo
+49,4,02:23,MIN,65,57,2_Pts_T,Daniel
+50,4,02:33,MIN,65,57,RD,Daniel
+51,4,02:36,CEA,65,57,LL_Pts_T,Felipe
+52,4,02:36,CEA,65,57,LL_Pts_T,Felipe
+53,4,02:36,CEA,65,57,FR,Felipe
+54,4,02:36,MIN,65,57,FC,Daniel
+55,4,02:40,MIN,65,57,substituicao_entra,Bob
+56,4,02:40,MIN,65,57,substituicao_sai,Lucas
+57,4,02:41,CEA,65,57,FR,Alex
+58,4,02:41,MIN,65,57,FC,Gegê
+59,4,02:44,CEA,65,57,RO,Léo W 
+60,4,02:50,CEA,65,57,2_Pts_T,Alex
+61,4,03:04,CEA,65,57,FR,Léo W 
+62,4,03:04,MIN,65,57,FC,Lucas
+63,4,03:09,CEA,65,57,RD,Felipe
+64,4,03:15,MIN,65,57,3_Pts_T,Daniel
+65,4,03:21,MIN,65,57,RD,Gegê
+66,4,03:26,CEA,65,57,3_Pts_T,Felipe
+67,4,03:45,MIN,65,57,2_Pts_C,Lucas
+68,4,03:47,MIN,65,55,RO,Lucas
+69,4,03:52,MIN,65,55,3_Pts_T,Gegê
+70,4,04:13,CEA,65,55,substituicao_entra,Kurtz
+71,4,04:13,CEA,65,55,substituicao_sai,Feliciano
+72,4,04:13,CEA,65,55,ER,Felipe
+73,4,04:22,MIN,65,55,ER,Gegê
+74,4,04:34,MIN,65,55,BR,Gegê
+75,4,04:34,CEA,65,55,ER,Felipe
+76,4,04:36,MIN,65,55,ER,Lucas
+77,4,04:55,MIN,65,55,substituicao_entra,Daniel
+78,4,04:55,MIN,65,55,substituicao_sai,Bob
+79,4,04:55,CEA,65,55,substituicao_entra,Feliciano
+80,4,04:55,CEA,65,55,substituicao_sai,Kurtz
+81,4,04:55,MIN,65,55,FR,Bob
+82,4,04:55,CEA,65,55,ER,Kurtz
+83,4,04:55,CEA,65,55,FC_O,Kurtz
+84,4,05:06,MIN,65,55,AS,Gegê
+85,4,05:06,MIN,65,55,2_Pts_C,Leonardo
+86,4,05:19,MIN,65,53,BR,Lucas
+87,4,05:19,CEA,65,53,ER,Alex
+88,4,05:41,MIN,65,53,ER,Leonardo
+89,4,05:55,CEA,65,53,AS,Kurtz
+90,4,05:55,CEA,65,53,3_Pts_C,Alex
+91,4,06:14,CEA,62,53,RD,Léo W 
+92,4,06:18,MIN,62,53,3_Pts_T,Lucas
+93,4,06:28,CEA,62,53,substituicao_entra,Léo W 
+94,4,06:28,CEA,62,53,substituicao_sai,Brite
+95,4,06:46,CEA,62,53,AS,Paulo
+96,4,06:46,CEA,62,53,3_Pts_C,Alex
+97,4,06:47,MIN,59,53,substituicao_entra,Gegê
+98,4,06:47,MIN,59,53,substituicao_sai,Jefferson
+99,4,06:47,MIN,59,53,substituicao_entra,Leonardo
+100,4,06:47,MIN,59,53,substituicao_sai,Wesley
+101,4,06:47,CEA,59,53,FR,Paulo
+102,4,06:47,MIN,59,53,FC,Lucas
+103,4,06:47,CEA,59,53,RO,Paulo
+104,4,06:47,CEA,59,53,3_Pts_T,Felipe
+105,4,06:49,CEA,59,53,RO,Kurtz
+106,4,06:53,CEA,59,53,2_Pts_T,Paulo
+107,4,07:12,MIN,59,53,ER,Lucas
+108,4,07:17,MIN,59,53,BR,Lucas
+109,4,07:17,CEA,59,53,ER,Kurtz
+110,4,07:17,CEA,59,53,RD,Kurtz
+111,4,07:23,MIN,59,53,2_Pts_T,Lucas
+112,4,07:47,CEA,59,53,3_Pts_C,Alex
+113,4,08:00,CEA,56,53,RD,Felipe
+114,4,08:06,MIN,56,53,2_Pts_T,Wesley
+115,4,08:12,MIN,56,53,BR,Jefferson
+116,4,08:12,CEA,56,53,ER,Brite
+117,4,08:23,MIN,56,53,AS,D  Coleman
+118,4,08:23,MIN,56,53,2_Pts_C,Wesley
+119,4,08:31,CEA,56,51,2_Pts_C,Felipe
+120,4,08:36,CEA,54,51,BR,Felipe
+121,4,08:36,MIN,54,51,ER,Jefferson
+122,4,08:42,MIN,54,51,BR,Jefferson
+123,4,08:42,CEA,54,51,ER,Paulo
+124,4,08:50,MIN,54,51,LL_Pts_C,D  Coleman
+125,4,08:50,MIN,54,50,LL_Pts_C,D  Coleman
+126,4,08:50,MIN,54,49,FR,D  Coleman
+127,4,08:50,CEA,54,49,FC,Kurtz
+128,4,09:04,CEA,54,49,2_Pts_C,Paulo
+129,4,09:11,CEA,52,49,FR,Brite
+130,4,09:11,MIN,52,49,FC,Lucas
+131,4,09:24,MIN,52,49,3_Pts_C,D  Coleman
+132,4,09:30,MIN,52,46,RD,Lucas
+133,4,09:35,CEA,52,46,2_Pts_T,Kurtz
+134,4,10:00,NaN,52,46,inicio_quarto,
+135,3,00:00,NaN,52,46,fim_quarto,
+136,3,00:02,MIN,52,46,3_Pts_T,D  Coleman
+137,3,00:04,MIN,52,46,RD,Lucas
+138,3,00:08,CEA,52,46,2_Pts_T,Léo W 
+139,3,00:32,CEA,52,46,BR,Léo W 
+140,3,00:32,MIN,52,46,ER,Lucas
+141,3,00:42,CEA,52,46,2_Pts_C,Léo W 
+142,3,01:02,MIN,50,46,2_Pts_C,D  Coleman
+143,3,01:11,CEA,50,44,substituicao_entra,Feliciano
+144,3,01:11,CEA,50,44,substituicao_sai,Kurtz
+145,3,01:11,MIN,50,44,LL_Pts_C,Wesley
+146,3,01:11,MIN,50,43,LL_Pts_T,Wesley
+147,3,01:11,MIN,50,43,FR,Wesley
+148,3,01:11,CEA,50,43,FC_A,Kurtz
+149,3,01:23,MIN,50,43,FR,Jefferson
+150,3,01:23,CEA,50,43,ER,Léo W 
+151,3,01:23,CEA,50,43,FC_O,Léo W 
+152,3,01:25,CEA,50,43,RD,Kurtz
+153,3,01:32,MIN,50,43,3_Pts_T,Jefferson
+154,3,01:55,MIN,50,43,RD,Jefferson
+155,3,01:57,CEA,50,43,LL_Pts_T,Kurtz
+156,3,01:57,CEA,50,43,LL_Pts_C,Kurtz
+157,3,01:57,CEA,49,43,FR,Kurtz
+158,3,01:57,MIN,49,43,FC,Wesley
+159,3,01:57,CEA,49,43,RO,Kurtz
+160,3,02:01,CEA,49,43,2_Pts_T,Felipe
+161,3,02:20,MIN,49,43,2_Pts_C,Lucas
+162,3,02:35,CEA,49,41,ER,
+163,3,02:35,CEA,49,41,RO,Léo W 
+164,3,02:40,CEA,49,41,3_Pts_T,Paulo
+165,3,03:02,CEA,49,41,RD,Felipe
+166,3,03:04,MIN,49,41,LL_Pts_T,Lucas
+167,3,03:04,MIN,49,41,LL_Pts_C,Lucas
+168,3,03:04,MIN,49,40,FR,Lucas
+169,3,03:04,CEA,49,40,FC,Léo W 
+170,3,03:09,MIN,49,40,BR,Bob
+171,3,03:09,CEA,49,40,ER,Kurtz
+172,3,03:24,MIN,49,40,LL_Pts_C,Lucas
+173,3,03:24,MIN,49,39,LL_Pts_T,Lucas
+174,3,03:24,CEA,49,39,substituicao_entra,Léo W 
+175,3,03:24,CEA,49,39,substituicao_sai,Brite
+176,3,03:24,MIN,49,39,FR,Lucas
+177,3,03:24,CEA,49,39,FC,Brite
+178,3,03:39,CEA,49,39,substituicao_entra,Rashaun
+179,3,03:39,CEA,49,39,substituicao_sai,Alex
+180,3,03:48,CEA,49,39,2_Pts_C,Alex
+181,3,04:03,CEA,47,39,RD,Felipe
+182,3,04:12,MIN,47,39,3_Pts_T,Wesley
+183,3,04:23,MIN,47,39,RD,Wesley
+184,3,04:24,CEA,47,39,3_Pts_T,Alex
+185,3,04:26,CEA,47,39,substituicao_entra,Brite
+186,3,04:26,CEA,47,39,substituicao_sai,Rashaun
+187,3,04:33,CEA,47,39,substituicao_entra,Paulo
+188,3,04:33,CEA,47,39,substituicao_sai,Léo W 
+189,3,04:33,MIN,47,39,RO,Minas
+190,3,04:35,MIN,47,39,2_Pts_T,D  Coleman
+191,3,04:35,MIN,47,39,BR,Lucas
+192,3,04:35,CEA,47,39,ER,Léo W 
+193,3,04:35,MIN,47,39,2_Pts_C,Bob
+194,3,04:35,MIN,47,37,substituicao_entra,Wesley
+195,3,04:35,MIN,47,37,substituicao_sai,Leonardo
+196,3,04:37,MIN,47,37,substituicao_entra,Jefferson
+197,3,04:37,MIN,47,37,substituicao_sai,Wesley
+198,3,04:56,CEA,47,37,ER,
+199,3,04:56,CEA,47,37,RO,Léo W 
+200,3,04:56,CEA,47,37,2_Pts_T,Rashaun
+201,3,05:23,CEA,47,37,RD,Felipe
+202,3,05:25,MIN,47,37,LL_Pts_T,Bob
+203,3,05:25,MIN,47,37,LL_Pts_T,Bob
+204,3,05:25,MIN,47,37,substituicao_entra,Lucas
+205,3,05:25,MIN,47,37,substituicao_sai,Gegê
+206,3,05:25,MIN,47,37,FR,Bob
+207,3,05:25,CEA,47,37,FC,Rashaun
+208,3,05:38,CEA,47,37,3_Pts_C,Alex
+209,3,05:52,CEA,44,37,RD,Felipe
+210,3,05:58,MIN,44,37,3_Pts_T,Bob
+211,3,06:15,CEA,44,37,LL_Pts_C,Felipe
+212,3,06:15,CEA,43,37,FR,Felipe
+213,3,06:15,MIN,43,37,FC,D  Coleman
+214,3,06:15,CEA,43,37,2_Pts_C,Felipe
+215,3,06:17,MIN,41,37,TO,Leonardo
+216,3,06:17,CEA,41,37,RO,Basq  Cearense
+217,3,06:17,CEA,41,37,2_Pts_T,Alex
+218,3,06:31,MIN,41,37,AS,Gegê
+219,3,06:31,MIN,41,37,2_Pts_C,Wesley
+220,3,06:39,MIN,41,35,FR,D  Coleman
+221,3,06:39,CEA,41,35,FC,Felipe
+222,3,06:51,MIN,41,35,FR,Wesley
+223,3,06:51,CEA,41,35,FC,Kurtz
+224,3,06:51,MIN,41,35,RD,Wesley
+225,3,06:51,CEA,41,35,2_Pts_T,Rashaun
+226,3,07:08,MIN,41,35,2_Pts_C,Wesley
+227,3,07:08,MIN,41,33,RO,Wesley
+228,3,07:13,MIN,41,33,2_Pts_T,Wesley
+229,3,07:34,MIN,41,33,substituicao_entra,Bob
+230,3,07:34,MIN,41,33,substituicao_sai,Jefferson
+231,3,07:34,MIN,41,33,tempo_tecnico,Minas
+232,3,07:34,CEA,41,33,AS,Alex
+233,3,07:34,CEA,41,33,2_Pts_C,Felipe
+234,3,07:39,CEA,39,33,BR,Alex
+235,3,07:39,MIN,39,33,ER,Wesley
+236,3,07:59,CEA,39,33,AS,Rashaun
+237,3,07:59,CEA,39,33,3_Pts_C,Alex
+238,3,08:09,CEA,36,33,RD,Felipe
+239,3,08:12,MIN,36,33,2_Pts_T,Jefferson
+240,3,08:21,MIN,36,33,RD,Wesley
+241,3,08:24,CEA,36,33,LL_Pts_T,Rashaun
+242,3,08:24,CEA,36,33,LL_Pts_T,Rashaun
+243,3,08:24,CEA,36,33,FR,Rashaun
+244,3,08:24,MIN,36,33,FC,Jefferson
+245,3,08:42,MIN,36,33,LL_Pts_C,Wesley
+246,3,08:42,CEA,36,32,substituicao_entra,Rashaun
+247,3,08:42,CEA,36,32,substituicao_sai,Paulo
+248,3,08:42,CEA,36,32,substituicao_entra,Léo W 
+249,3,08:42,CEA,36,32,substituicao_sai,Brite
+250,3,08:42,MIN,36,32,FR,Wesley
+251,3,08:42,CEA,36,32,FC,Paulo
+252,3,08:42,MIN,36,32,AS,Gegê
+253,3,08:42,MIN,36,32,2_Pts_C,Wesley
+254,3,08:43,MIN,36,30,RD,D  Coleman
+255,3,08:49,CEA,36,30,3_Pts_T,Brite
+256,3,09:00,CEA,36,30,BR,Brite
+257,3,09:00,MIN,36,30,ER,Leonardo
+258,3,09:02,MIN,36,30,RO,Leonardo
+259,3,09:06,MIN,36,30,2_Pts_T,Wesley
+260,3,09:21,CEA,36,30,ER,Brite
+261,3,09:29,MIN,36,30,AS,Gegê
+262,3,09:29,MIN,36,30,LL_Pts_C,Leonardo
+263,3,09:29,MIN,36,29,LL_Pts_T,Leonardo
+264,3,09:29,MIN,36,29,FR,Leonardo
+265,3,09:29,CEA,36,29,FC,Brite
+266,3,09:37,CEA,36,29,AS,Felipe
+267,3,09:37,CEA,36,29,2_Pts_C,Paulo
+268,3,09:43,CEA,34,29,BR,Brite
+269,3,09:43,MIN,34,29,ER,Gegê
+270,3,10:00,NaN,34,29,inicio_quarto,
+271,2,00:00,NaN,34,29,fim_quarto,
+272,2,00:02,CEA,34,29,RD,Léo W 
+273,2,00:05,MIN,34,29,3_Pts_T,Daniel
+274,2,00:21,CEA,34,29,substituicao_entra,Victor
+275,2,00:21,CEA,34,29,substituicao_sai,Paulo
+276,2,00:21,CEA,34,29,substituicao_entra,Sualisson
+277,2,00:21,CEA,34,29,substituicao_sai,Felipe
+278,2,00:21,CEA,34,29,substituicao_entra,Léo W 
+279,2,00:21,CEA,34,29,substituicao_sai,Brite
+280,2,00:21,MIN,34,29,tempo_tecnico,Minas
+281,2,00:21,CEA,34,29,AS,Brite
+282,2,00:21,CEA,34,29,3_Pts_C,Felipe
+283,2,00:33,CEA,31,29,RD,Feliciano
+284,2,00:35,MIN,31,29,LL_Pts_T,Wesley
+285,2,00:35,MIN,31,29,FR,Wesley
+286,2,00:35,CEA,31,29,FC,Brite
+287,2,00:35,MIN,31,29,2_Pts_C,Wesley
+288,2,00:40,MIN,31,27,BR,Wesley
+289,2,00:40,CEA,31,27,ER,Brite
+290,2,00:52,CEA,31,27,RD,Feliciano
+291,2,00:53,MIN,31,27,LL_Pts_T,Gegê
+292,2,00:53,MIN,31,27,FR,Gegê
+293,2,00:53,CEA,31,27,FC,Paulo
+294,2,00:53,MIN,31,27,2_Pts_C,Gegê
+295,2,01:13,CEA,31,25,substituicao_entra,Alex
+296,2,01:13,CEA,31,25,substituicao_sai,Rashaun
+297,2,01:13,MIN,31,25,tempo_tecnico,Minas
+298,2,01:13,CEA,31,25,AS,Felipe
+299,2,01:13,CEA,31,25,3_Pts_C,Rashaun
+300,2,01:27,CEA,28,25,BR,Felipe
+301,2,01:27,MIN,28,25,ER,Gegê
+302,2,01:44,CEA,28,25,3_Pts_C,Brite
+303,2,01:54,CEA,25,25,RO,Basq  Cearense
+304,2,02:00,CEA,25,25,2_Pts_T,Felipe
+305,2,02:22,MIN,25,25,LL_Pts_C,Daniel
+306,2,02:22,MIN,25,24,FR,Daniel
+307,2,02:22,CEA,25,24,FC,Brite
+308,2,02:22,MIN,25,24,2_Pts_C,Daniel
+309,2,02:22,MIN,25,22,RO,Daniel
+310,2,02:24,MIN,25,22,3_Pts_T,Jefferson
+311,2,02:45,CEA,25,22,2_Pts_C,Brite
+312,2,02:59,MIN,23,22,2_Pts_C,Bob
+313,2,03:05,MIN,23,20,BR,Bob
+314,2,03:05,CEA,23,20,ER,Rashaun
+315,2,03:24,MIN,23,20,AS,Gegê
+316,2,03:24,MIN,23,20,3_Pts_C,Daniel
+317,2,03:38,CEA,23,17,substituicao_entra,Brite
+318,2,03:38,CEA,23,17,substituicao_sai,Léo W 
+319,2,03:38,CEA,23,17,substituicao_entra,Feliciano
+320,2,03:38,CEA,23,17,substituicao_sai,Kurtz
+321,2,03:38,CEA,23,17,AS,Rashaun
+322,2,03:38,CEA,23,17,2_Pts_C,Kurtz
+323,2,03:58,MIN,21,17,2_Pts_C,Jefferson
+324,2,04:13,MIN,21,15,RD,Bob
+325,2,04:17,CEA,21,15,2_Pts_T,Rashaun
+326,2,04:39,MIN,21,15,AS,Jefferson
+327,2,04:39,MIN,21,15,2_Pts_C,Wesley
+328,2,04:59,CEA,21,13,ER,
+329,2,05:10,MIN,21,13,substituicao_entra,Bob
+330,2,05:10,MIN,21,13,substituicao_sai,D  Coleman
+331,2,05:10,MIN,21,13,substituicao_entra,Wesley
+332,2,05:10,MIN,21,13,substituicao_sai,Paranhos
+333,2,05:10,CEA,21,13,substituicao_entra,Rashaun
+334,2,05:10,CEA,21,13,substituicao_sai,Alex
+335,2,05:10,CEA,21,13,substituicao_entra,Felipe
+336,2,05:10,CEA,21,13,substituicao_sai,Sualisson
+337,2,05:10,CEA,21,13,substituicao_entra,Léo W 
+338,2,05:10,CEA,21,13,substituicao_sai,Brite
+339,2,05:14,CEA,21,13,RD,Kurtz
+340,2,05:21,MIN,21,13,2_Pts_T,Paranhos
+341,2,05:23,MIN,21,13,RO,Gegê
+342,2,05:27,MIN,21,13,3_Pts_T,D  Coleman
+343,2,05:30,MIN,21,13,RD,Paranhos
+344,2,05:35,CEA,21,13,2_Pts_T,Kurtz
+345,2,05:36,CEA,21,13,RO,Kurtz
+346,2,05:42,CEA,21,13,2_Pts_T,Brite
+347,2,05:44,CEA,21,13,RD,Kurtz
+348,2,05:49,MIN,21,13,2_Pts_T,Paranhos
+349,2,05:59,MIN,21,13,RD,Daniel
+350,2,06:04,CEA,21,13,2_Pts_T,Kurtz
+351,2,06:16,CEA,21,13,FR,Brite
+352,2,06:16,MIN,21,13,ER,Paranhos
+353,2,06:16,MIN,21,13,FC_O,Paranhos
+354,2,06:31,CEA,21,13,2_Pts_C,Paulo
+355,2,06:42,CEA,19,13,RD,Brite
+356,2,06:45,MIN,19,13,3_Pts_T,D  Coleman
+357,2,06:59,MIN,19,13,RD,Paranhos
+358,2,07:01,CEA,19,13,LL_Pts_T,Kurtz
+359,2,07:01,CEA,19,13,FR,Kurtz
+360,2,07:01,MIN,19,13,FC,Paranhos
+361,2,07:01,CEA,19,13,AS,Brite
+362,2,07:01,CEA,19,13,EN,Kurtz
+363,2,07:13,CEA,17,13,RD,Kurtz
+364,2,07:18,MIN,17,13,3_Pts_T,Daniel
+365,2,07:28,MIN,17,13,FR,Paranhos
+366,2,07:28,CEA,17,13,FC,Paulo
+367,2,07:38,MIN,17,13,RD,Paranhos
+368,2,07:43,CEA,17,13,3_Pts_T,Alex
+369,2,07:54,MIN,17,13,ER,Paranhos
+370,2,07:54,MIN,17,13,substituicao_entra,Paranhos
+371,2,07:54,MIN,17,13,substituicao_sai,Leonardo
+372,2,07:57,CEA,17,13,2_Pts_C,Paulo
+373,2,08:09,CEA,15,13,substituicao_entra,Alex
+374,2,08:09,CEA,15,13,substituicao_sai,Rashaun
+375,2,08:09,CEA,15,13,substituicao_entra,Brite
+376,2,08:09,CEA,15,13,substituicao_sai,Léo W 
+377,2,08:09,CEA,15,13,tempo_tecnico,Basq  Cearense
+378,2,08:09,MIN,15,13,AS,Gegê
+379,2,08:09,MIN,15,13,2_Pts_C,Leonardo
+380,2,08:11,MIN,15,11,RD,Leonardo
+381,2,08:18,CEA,15,11,3_Pts_T,Paulo
+382,2,08:37,CEA,15,11,RD,Léo W 
+383,2,08:41,MIN,15,11,2_Pts_T,Leonardo
+384,2,08:56,MIN,15,11,FR,Gegê
+385,2,08:56,CEA,15,11,FC,Sualisson
+386,2,08:59,MIN,15,11,BR,Leonardo
+387,2,08:59,CEA,15,11,ER,Kurtz
+388,2,09:19,MIN,15,11,AS,Jefferson
+389,2,09:19,MIN,15,11,3_Pts_C,Gegê
+390,2,09:21,MIN,15,8,RO,Jefferson
+391,2,09:25,MIN,15,8,3_Pts_T,Daniel
+392,2,09:34,MIN,15,8,RD,Minas
+393,2,09:39,CEA,15,8,2_Pts_T,Kurtz
+394,2,10:00,NaN,15,8,inicio_quarto,
+395,1,00:00,NaN,15,8,fim_quarto,
+396,1,00:01,MIN,15,8,2_Pts_T,Lucas
+397,1,00:09,CEA,15,8,2_Pts_C,Kurtz
+398,1,00:10,CEA,13,8,RO,Kurtz
+399,1,00:16,CEA,13,8,2_Pts_T,Paulo
+400,1,00:24,CEA,13,8,BR,Paulo
+401,1,00:24,MIN,13,8,ER,Bob
+402,1,00:30,CEA,13,8,2_Pts_C,Sualisson
+403,1,00:30,CEA,11,8,RO,Sualisson
+404,1,00:32,CEA,11,8,2_Pts_T,Sualisson
+405,1,00:32,CEA,11,8,RO,Sualisson
+406,1,00:44,CEA,11,8,,
+407,1,00:53,CEA,11,8,RO,Kurtz
+408,1,00:55,CEA,11,8,LL_Pts_T,Paulo
+409,1,00:55,MIN,11,8,substituicao_entra,Paranhos
+410,1,00:55,MIN,11,8,substituicao_sai,Leonardo
+411,1,00:55,CEA,11,8,substituicao_entra,Léo W 
+412,1,00:55,CEA,11,8,substituicao_sai,Brite
+413,1,00:55,CEA,11,8,FR,Paulo
+414,1,00:55,MIN,11,8,FC,Leonardo
+415,1,00:55,CEA,11,8,AS,Rashaun
+416,1,00:55,CEA,11,8,EN,Paulo
+417,1,01:15,MIN,9,8,2_Pts_C,D  Coleman
+418,1,01:23,CEA,9,6,2_Pts_C,Kurtz
+419,1,01:23,CEA,7,6,RO,Kurtz
+420,1,01:35,CEA,7,6,2_Pts_T,Rashaun
+421,1,01:52,CEA,7,6,FR,Rashaun
+422,1,01:52,MIN,7,6,ER,Bob
+423,1,01:52,MIN,7,6,FC_O,Bob
+424,1,01:55,MIN,7,6,RD,Bob
+425,1,02:00,CEA,7,6,3_Pts_T,Brite
+426,1,02:10,CEA,7,6,substituicao_entra,Paulo
+427,1,02:10,CEA,7,6,substituicao_sai,Alex
+428,1,02:14,CEA,7,6,RD,Sualisson
+429,1,02:20,MIN,7,6,2_Pts_T,Leonardo
+430,1,02:32,MIN,7,6,RD,Leonardo
+431,1,02:37,CEA,7,6,3_Pts_T,Sualisson
+432,1,02:53,MIN,7,6,substituicao_entra,Lucas
+433,1,02:53,MIN,7,6,substituicao_sai,Gegê
+434,1,02:53,CEA,7,6,RD,Basq  Cearense
+435,1,02:54,MIN,7,6,2_Pts_T,Bob
+436,1,03:13,MIN,7,6,substituicao_entra,Bob
+437,1,03:13,MIN,7,6,substituicao_sai,Jefferson
+438,1,03:13,CEA,7,6,substituicao_entra,Sualisson
+439,1,03:13,CEA,7,6,substituicao_sai,Felipe
+440,1,03:13,CEA,7,6,substituicao_entra,Brite
+441,1,03:13,CEA,7,6,substituicao_sai,Léo W 
+442,1,03:13,MIN,7,6,FR,Wesley
+443,1,03:13,CEA,7,6,FC,Felipe
+444,1,03:31,CEA,7,6,AS,Felipe
+445,1,03:31,CEA,7,6,2_Pts_C,Kurtz
+446,1,03:44,CEA,5,6,RD,Felipe
+447,1,03:49,MIN,5,6,3_Pts_T,Jefferson
+448,1,03:56,MIN,5,6,RD,Gegê
+449,1,04:00,CEA,5,6,2_Pts_T,Kurtz
+450,1,04:11,MIN,5,6,2_Pts_C,Leonardo
+451,1,04:12,MIN,5,4,RO,Leonardo
+452,1,04:19,MIN,5,4,2_Pts_T,Wesley
+453,1,04:31,MIN,5,4,RD,Leonardo
+454,1,04:35,CEA,5,4,3_Pts_T,Rashaun
+455,1,04:45,CEA,5,4,RD,Basq  Cearense
+456,1,04:46,MIN,5,4,3_Pts_T,Gegê
+457,1,04:53,MIN,5,4,BR,Gegê
+458,1,04:53,CEA,5,4,ER,Alex
+459,1,05:07,MIN,5,4,ER,Jefferson
+460,1,05:25,MIN,5,4,RD,D  Coleman
+461,1,05:31,CEA,5,4,3_Pts_T,Léo W 
+462,1,05:44,CEA,5,4,FR,Felipe
+463,1,05:44,MIN,5,4,FC,Wesley
+464,1,05:58,MIN,5,4,AS,Gegê
+465,1,05:58,MIN,5,4,2_Pts_C,Leonardo
+466,1,06:17,CEA,5,2,AS,Léo W 
+467,1,06:17,CEA,5,2,3_Pts_C,Felipe
+468,1,06:33,MIN,2,2,ER,Wesley
+469,1,06:52,MIN,2,2,FR,Gegê
+470,1,06:52,CEA,2,2,FC,Léo W 
+471,1,07:07,MIN,2,2,RD,D  Coleman
+472,1,07:12,CEA,2,2,3_Pts_T,Alex
+473,1,07:29,CEA,2,2,RD,Léo W 
+474,1,07:33,MIN,2,2,2_Pts_T,Jefferson
+475,1,07:41,MIN,2,2,RD,Wesley
+476,1,07:46,CEA,2,2,3_Pts_T,Alex
+477,1,07:53,CEA,2,2,FR,Rashaun
+478,1,07:53,MIN,2,2,FC,D  Coleman
+479,1,07:57,CEA,2,2,RD,Felipe
+480,1,07:57,MIN,2,2,2_Pts_T,Jefferson
+481,1,08:03,CEA,2,2,substituicao_entra,Léo W 
+482,1,08:03,CEA,2,2,substituicao_sai,Brite
+483,1,08:15,MIN,2,2,RO,Gegê
+484,1,08:15,MIN,2,2,3_Pts_T,Jefferson
+485,1,08:15,MIN,2,2,RD,Gegê
+486,1,08:15,CEA,2,2,2_Pts_T,Brite
+487,1,08:30,CEA,2,2,BR,Rashaun
+488,1,08:30,MIN,2,2,ER,D  Coleman
+489,1,08:30,CEA,2,2,substituicao_entra,Brite
+490,1,08:30,CEA,2,2,substituicao_sai,Cobb
+491,1,08:33,CEA,2,2,2_Pts_C,Brite
+492,1,08:57,MIN,0,2,ER,D  Coleman
+493,1,09:00,MIN,0,2,BR,D  Coleman
+494,1,09:00,CEA,0,2,ER,Rashaun
+495,1,09:10,CEA,0,2,FR,Kurtz
+496,1,09:10,MIN,0,2,FC,Leonardo
+497,1,09:16,CEA,0,2,RD,Rashaun
+498,1,09:23,MIN,0,2,3_Pts_T,Wesley
+499,1,09:26,MIN,0,2,RD,Leonardo
+500,1,09:32,CEA,0,2,2_Pts_T,Felipe
+501,1,09:52,MIN,0,2,AS,Leonardo
+502,1,09:52,MIN,0,2,2_Pts_C,Wesley
+503,1,10:00,MIN,0,0,substituicao_entra,Leonardo
+504,1,10:00,MIN,0,0,substituicao_entra,Wesley
+505,1,10:00,MIN,0,0,substituicao_entra,Gegê
+506,1,10:00,MIN,0,0,substituicao_entra,D  Coleman
+507,1,10:00,MIN,0,0,substituicao_entra,Jefferson
+508,1,10:00,CEA,0,0,substituicao_entra,Kurtz
+509,1,10:00,CEA,0,0,substituicao_entra,Felipe
+510,1,10:00,CEA,0,0,substituicao_entra,Cobb
+511,1,10:00,CEA,0,0,substituicao_entra,Rashaun
+512,1,10:00,CEA,0,0,substituicao_entra,Alex
+513,1,10:00,NaN,0,0,inicio_partida,

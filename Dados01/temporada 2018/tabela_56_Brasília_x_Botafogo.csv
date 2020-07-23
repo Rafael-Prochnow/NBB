@@ -1,0 +1,583 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,82,64,fim_partida,
+1,4,00:00,NaN,82,64,fim_quarto, 
+2,4,00:06,BOT,82,64,substituicao_entra,Erike
+3,4,00:06,BOT,82,64,substituicao_sai,Ansaloni
+4,4,00:06,BOT,82,64,substituicao_entra,Fabrício
+5,4,00:06,BOT,82,64,substituicao_sai,Jamaal
+6,4,00:06,BOT,82,64,LL_Pts_C,Cauê
+7,4,00:06,BOT,82,63,LL_Pts_C,Cauê
+8,4,00:06,BOT,82,62,LL_Pts_T,Cauê
+9,4,00:06,BRA,82,62,substituicao_entra,Luis
+10,4,00:06,BRA,82,62,substituicao_sai,Nezinho
+11,4,00:06,BOT,82,62,FR,Cauê
+12,4,00:06,BRA,82,62,FC,Nezinho
+13,4,00:21,BRA,82,62,AS,Graterol
+14,4,00:21,BRA,82,62,3_Pts_C,Zach Graham
+15,4,00:42,BOT,79,62,2_Pts_C,Cauê
+16,4,00:59,BRA,79,60,AS,Ricky Sánchez
+17,4,00:59,BRA,79,60,EN,Graterol
+18,4,01:11,BOT,77,60,AS,Guga
+19,4,01:11,BOT,77,60,3_Pts_C,Cauê
+20,4,01:17,BOT,77,57,RD,Ansaloni
+21,4,01:20,BRA,77,57,LL_Pts_T,Graterol
+22,4,01:20,BRA,77,57,LL_Pts_C,Graterol
+23,4,01:20,BRA,76,57,FR,Graterol
+24,4,01:20,BOT,76,57,FC,Maique
+25,4,01:25,BOT,76,57,2_Pts_C,Cauê
+26,4,01:26,BOT,76,55,RO,Cauê
+27,4,01:30,BOT,76,55,3_Pts_T,Ansaloni
+28,4,01:42,BOT,76,55,FR,Ansaloni
+29,4,01:42,BRA,76,55,FC,P  Rava
+30,4,01:45,BOT,76,55,RD,Ansaloni
+31,4,01:50,BRA,76,55,2_Pts_T,Nezinho
+32,4,02:08,BOT,76,55,ER,Cauê
+33,4,02:24,BRA,76,55,AS,Graterol
+34,4,02:24,BRA,76,55,3_Pts_C,Ricky Sánchez
+35,4,02:32,BRA,73,55,TO,Ricky Sánchez
+36,4,02:32,BRA,73,55,RD,P  Rava
+37,4,02:32,BOT,73,55,2_Pts_T,Cauê
+38,4,02:32,BOT,73,55,substituicao_entra,Maique
+39,4,02:32,BOT,73,55,substituicao_sai,Arthur
+40,4,02:32,BOT,73,55,substituicao_entra,Guga
+41,4,02:32,BOT,73,55,substituicao_sai,Fabrício
+42,4,02:32,BOT,73,55,tempo_tecnico,Botafogo
+43,4,02:32,BRA,73,55,AS,Nezinho
+44,4,02:32,BRA,73,55,2_Pts_C,Graterol
+45,4,02:38,BRA,71,55,BR,Graterol
+46,4,02:38,BOT,71,55,ER,Arthur
+47,4,02:53,BRA,71,55,AS,Zach Graham
+48,4,02:53,BRA,71,55,2_Pts_C,Graterol
+49,4,02:56,BRA,69,55,RD,Nezinho
+50,4,03:01,BOT,69,55,3_Pts_T,Jamaal
+51,4,03:10,BOT,69,55,FR,Jamaal
+52,4,03:10,BRA,69,55,FC,Nezinho
+53,4,03:12,BOT,69,55,RD,Ansaloni
+54,4,03:17,BRA,69,55,3_Pts_T,Ricky Sánchez
+55,4,03:40,BOT,69,55,substituicao_entra,Arthur
+56,4,03:40,BOT,69,55,substituicao_sai,Mogi
+57,4,03:40,BOT,69,55,LL_Pts_C,Ansaloni
+58,4,03:40,BOT,69,54,FR,Ansaloni
+59,4,03:40,BRA,69,54,FC,Ricky Sánchez
+60,4,03:46,BOT,69,54,AS,Cauê
+61,4,03:46,BOT,69,54,2_Pts_C,Ansaloni
+62,4,03:54,BRA,69,52,ER,
+63,4,04:15,BRA,69,52,RD,Graterol
+64,4,04:19,BOT,69,52,3_Pts_T,Mogi
+65,4,04:40,BRA,69,52,AS,Ricky Sánchez
+66,4,04:40,BRA,69,52,3_Pts_C,Zach Graham
+67,4,04:51,BRA,66,52,Caixa,Universo
+68,4,04:57,BOT,66,52,2_Pts_T,Ansaloni
+69,4,05:13,BOT,66,52,substituicao_entra,Fabrício
+70,4,05:13,BOT,66,52,substituicao_sai,Arthur
+71,4,05:13,BRA,66,52,LL_Pts_C,Zach Graham
+72,4,05:13,BRA,65,52,LL_Pts_T,Zach Graham
+73,4,05:13,BRA,65,52,FR,Zach Graham
+74,4,05:13,BOT,65,52,FC,Arthur
+75,4,05:13,BRA,65,52,RO,Graterol
+76,4,05:18,BRA,65,52,2_Pts_T,Ricky Sánchez
+77,4,05:31,BOT,65,52,substituicao_entra,Jamaal
+78,4,05:31,BOT,65,52,substituicao_sai,Guga
+79,4,05:31,BOT,65,52,tempo_tecnico,Botafogo
+80,4,05:36,BRA,65,52,substituicao_entra,Ricky Sánchez
+81,4,05:36,BRA,65,52,substituicao_sai,Andrezão
+82,4,05:36,BRA,65,52,FR,Andrezão
+83,4,05:36,BOT,65,52,FC,Ansaloni
+84,4,05:36,BRA,65,52,Caixa,Universo
+85,4,05:37,BOT,65,52,3_Pts_T,Guga
+86,4,05:43,BOT,65,52,RD,Cauê
+87,4,05:47,BRA,65,52,2_Pts_T,Zach Graham
+88,4,05:48,BRA,65,52,Caixa,Universo
+89,4,05:59,BRA,65,52,TO,Andrezão
+90,4,05:59,BOT,65,52,2_Pts_T,Guga
+91,4,06:14,BOT,65,52,RD,Mogi
+92,4,06:20,BRA,65,52,3_Pts_T,Nezinho
+93,4,06:22,BOT,65,52,substituicao_entra,Ansaloni
+94,4,06:22,BOT,65,52,substituicao_sai,Maique
+95,4,06:31,BRA,65,52,RD,Andrezão
+96,4,06:41,BOT,65,52,2_Pts_T,Maique
+97,4,06:57,BOT,65,52,RD,Mogi
+98,4,07:03,BRA,65,52,2_Pts_T,Graterol
+99,4,07:21,BRA,65,52,FR,Nezinho
+100,4,07:21,BOT,65,52,FC,Arthur
+101,4,07:23,BRA,65,52,RD,Nezinho
+102,4,07:30,BRA,65,52,TO,Andrezão
+103,4,07:30,BOT,65,52,2_Pts_T,Arthur
+104,4,07:32,BOT,65,52,RO,Maique
+105,4,07:38,BOT,65,52,3_Pts_T,Arthur
+106,4,07:58,BRA,65,52,AS,Nezinho
+107,4,07:58,BRA,65,52,2_Pts_C,Graterol
+108,4,08:07,BOT,63,52,substituicao_entra,Mogi
+109,4,08:07,BOT,63,52,substituicao_sai,Fabrício
+110,4,08:07,BOT,63,52,substituicao_entra,Guga
+111,4,08:07,BOT,63,52,substituicao_sai,Jamaal
+112,4,08:09,BRA,63,52,FR,Zach Graham
+113,4,08:09,BOT,63,52,FC,Jamaal
+114,4,08:24,BOT,63,52,ER,
+115,4,08:46,BRA,63,52,2_Pts_C,Zach Graham
+116,4,08:46,BRA,61,52,substituicao_entra,P  Rava
+117,4,08:46,BRA,61,52,substituicao_sai,Rafa Moreira
+118,4,08:46,BRA,61,52,FR,Andrezão
+119,4,08:46,BOT,61,52,FC,Fabrício
+120,4,08:55,BOT,61,52,2_Pts_C,Jamaal
+121,4,09:01,BOT,61,50,BR,Jamaal
+122,4,09:01,BRA,61,50,ER,Zach Graham
+123,4,09:22,BRA,61,50,RD,Andrezão
+124,4,09:27,BOT,61,50,2_Pts_T,Maique
+125,4,09:28,BOT,61,50,RO,Maique
+126,4,09:33,BOT,61,50,2_Pts_T,Arthur
+127,4,09:45,BOT,61,50,FR,Arthur
+128,4,09:45,BRA,61,50,FC,Rafa Moreira
+129,4,09:46,BOT,61,50,RD,Arthur
+130,4,09:51,BRA,61,50,3_Pts_T,Nezinho
+131,4,10:00,NaN,61,50,inicio_quarto,
+132,3,00:00,NaN,61,50,fim_quarto,
+133,3,00:08,BRA,61,50,RD,Graterol
+134,3,00:09,BOT,61,50,3_Pts_T,Jamaal
+135,3,00:17,BOT,61,50,substituicao_entra,Guga
+136,3,00:17,BOT,61,50,substituicao_sai,Maique
+137,3,00:17,BRA,61,50,substituicao_entra,Marcelão
+138,3,00:17,BRA,61,50,substituicao_sai,Ricky Sánchez
+139,3,00:17,BRA,61,50,substituicao_entra,P  Rava
+140,3,00:17,BRA,61,50,substituicao_sai,Nezinho
+141,3,00:17,BOT,61,50,RD,Botafogo
+142,3,00:20,BRA,61,50,LL_Pts_T,Nezinho
+143,3,00:20,BRA,61,50,LL_Pts_C,Nezinho
+144,3,00:20,BOT,60,50,substituicao_entra,Jamaal
+145,3,00:20,BOT,60,50,substituicao_sai,Fabrício
+146,3,00:20,BRA,60,50,substituicao_entra,Luis
+147,3,00:20,BRA,60,50,substituicao_sai,Zach Graham
+148,3,00:20,BRA,60,50,FR,Nezinho
+149,3,00:20,BOT,60,50,FC,Arthur
+150,3,00:27,BOT,60,50,LL_Pts_C,Cauê
+151,3,00:27,BOT,60,49,LL_Pts_C,Cauê
+152,3,00:27,BOT,60,48,substituicao_entra,Mogi
+153,3,00:27,BOT,60,48,substituicao_sai,Jamaal
+154,3,00:27,BRA,60,48,substituicao_entra,Nezinho
+155,3,00:27,BRA,60,48,substituicao_sai,P  Rava
+156,3,00:27,BOT,60,48,FR,Cauê
+157,3,00:27,BRA,60,48,FC,Rafa Moreira
+158,3,00:44,BOT,60,48,BR,Fabrício
+159,3,00:44,BRA,60,48,ER,Zach Graham
+160,3,00:52,BOT,60,48,AS,Cauê
+161,3,00:52,BOT,60,48,2_Pts_C,Fabrício
+162,3,00:53,BOT,60,46,RD,Jamaal
+163,3,00:59,BRA,60,46,,
+164,3,01:08,BOT,60,46,LL_Pts_C,Cauê
+165,3,01:08,BOT,60,45,LL_Pts_C,Cauê
+166,3,01:08,BOT,60,44,FR,Cauê
+167,3,01:08,BRA,60,44,FC,Ricky Sánchez
+168,3,01:22,BOT,60,44,RD,Arthur
+169,3,01:28,BRA,60,44,3_Pts_T,P  Rava
+170,3,01:47,BOT,60,44,2_Pts_C,Cauê
+171,3,02:03,BRA,60,42,AS,Ricky Sánchez
+172,3,02:03,BRA,60,42,3_Pts_C,Rafa Moreira
+173,3,02:16,BOT,57,42,substituicao_entra,Maique
+174,3,02:16,BOT,57,42,substituicao_sai,Murilo
+175,3,02:16,BRA,57,42,FR,Ricky Sánchez
+176,3,02:16,BOT,57,42,ER,Murilo
+177,3,02:16,BOT,57,42,FC_O,Murilo
+178,3,02:30,BRA,57,42,substituicao_entra,Graterol
+179,3,02:30,BRA,57,42,substituicao_sai,Andrezão
+180,3,02:30,BOT,57,42,FR,Fabrício
+181,3,02:30,BRA,57,42,ER,Andrezão
+182,3,02:30,BRA,57,42,FC_O,Andrezão
+183,3,02:47,BOT,57,42,AS,Murilo
+184,3,02:47,BOT,57,42,3_Pts_C,Arthur
+185,3,02:58,BOT,57,39,RD,Cauê
+186,3,03:00,BRA,57,39,LL_Pts_T,Zach Graham
+187,3,03:00,BOT,57,39,substituicao_entra,Arthur
+188,3,03:00,BOT,57,39,substituicao_sai,Ansaloni
+189,3,03:00,BOT,57,39,substituicao_entra,Fabrício
+190,3,03:00,BOT,57,39,substituicao_sai,Mogi
+191,3,03:00,BRA,57,39,FR,Zach Graham
+192,3,03:00,BOT,57,39,FC,Mogi
+193,3,03:00,BRA,57,39,2_Pts_C,Zach Graham
+194,3,03:06,BOT,55,39,,
+195,3,03:16,BOT,55,39,FR,Murilo
+196,3,03:16,BRA,55,39,FC,Andrezão
+197,3,03:30,BOT,55,39,FR,Ansaloni
+198,3,03:30,BRA,55,39,FC,Ricky Sánchez
+199,3,03:30,BOT,55,39,RO,Botafogo
+200,3,03:33,BOT,55,39,3_Pts_T,Mogi
+201,3,03:45,BRA,55,39,substituicao_entra,Ricky Sánchez
+202,3,03:45,BRA,55,39,substituicao_sai,Graterol
+203,3,03:45,BOT,55,39,substituicao_entra,Jamaal
+204,3,03:45,BOT,55,39,substituicao_sai,Guga
+205,3,03:45,BRA,55,39,LL_Pts_C,P  Rava
+206,3,03:45,BRA,54,39,LL_Pts_C,P  Rava
+207,3,03:45,BRA,53,39,FR,P  Rava
+208,3,03:45,BOT,53,39,FC,Guga
+209,3,04:05,BOT,53,39,2_Pts_C,Murilo
+210,3,04:28,BRA,53,37,AS,Rafa Moreira
+211,3,04:28,BRA,53,37,3_Pts_C,P  Rava
+212,3,04:41,BRA,50,37,FR,Zach Graham
+213,3,04:41,BOT,50,37,ER,Ansaloni
+214,3,04:41,BOT,50,37,FC_O,Ansaloni
+215,3,05:02,BRA,50,37,AS,Graterol
+216,3,05:02,BRA,50,37,3_Pts_C,Andrezão
+217,3,05:13,BOT,47,37,2_Pts_C,Cauê
+218,3,05:28,BOT,47,35,tempo_tecnico,Botafogo
+219,3,05:30,BRA,47,35,2_Pts_C,Zach Graham
+220,3,05:35,BOT,45,35,substituicao_entra,Murilo
+221,3,05:35,BOT,45,35,substituicao_sai,Arthur
+222,3,05:35,BRA,45,35,substituicao_entra,Andrezão
+223,3,05:35,BRA,45,35,substituicao_sai,Ricky Sánchez
+224,3,05:35,BRA,45,35,FR,Zach Graham
+225,3,05:35,BOT,45,35,FC,Cauê
+226,3,05:54,BOT,45,35,AS,Guga
+227,3,05:54,BOT,45,35,3_Pts_C,Ansaloni
+228,3,06:07,BOT,45,32,RD,Ansaloni
+229,3,06:11,BRA,45,32,3_Pts_T,Zach Graham
+230,3,06:12,BRA,45,32,RD,Zach Graham
+231,3,06:17,BOT,45,32,2_Pts_T,Arthur
+232,3,06:21,BOT,45,32,RD,Arthur
+233,3,06:27,BRA,45,32,3_Pts_T,Rafa Moreira
+234,3,06:44,BOT,45,32,substituicao_entra,Mogi
+235,3,06:44,BOT,45,32,substituicao_sai,Maique
+236,3,06:44,BRA,45,32,FR,Graterol
+237,3,06:44,BOT,45,32,ER,Maique
+238,3,06:44,BOT,45,32,FC_O,Maique
+239,3,06:59,BOT,45,32,RD,Botafogo
+240,3,07:03,BRA,45,32,3_Pts_T,Graterol
+241,3,07:07,BRA,45,32,RD,Graterol
+242,3,07:13,BOT,45,32,2_Pts_T,Guga
+243,3,07:20,BOT,45,32,RD,Ansaloni
+244,3,07:25,BRA,45,32,2_Pts_T,Graterol
+245,3,07:45,BOT,45,32,ER,Guga
+246,3,07:52,BRA,45,32,AS,Ricky Sánchez
+247,3,07:52,BRA,45,32,3_Pts_C,Zach Graham
+248,3,08:02,BOT,42,32,substituicao_entra,Guga
+249,3,08:02,BOT,42,32,substituicao_sai,Jamaal
+250,3,08:02,BRA,42,32,FR,Zach Graham
+251,3,08:02,BOT,42,32,FC,Jamaal
+252,3,08:05,BRA,42,32,RD,Graterol
+253,3,08:09,BOT,42,32,2_Pts_T,Arthur
+254,3,08:22,BOT,42,32,FR,Jamaal
+255,3,08:22,BRA,42,32,FC,P  Rava
+256,3,08:37,BRA,42,32,AS,Graterol
+257,3,08:37,BRA,42,32,2_Pts_C,Rafa Moreira
+258,3,08:51,BRA,40,32,RD,Zach Graham
+259,3,08:56,BOT,40,32,3_Pts_T,Jamaal
+260,3,08:59,BOT,40,32,RO,Botafogo
+261,3,09:04,BOT,40,32,3_Pts_T,Arthur
+262,3,09:23,BRA,40,32,AS,Zach Graham
+263,3,09:23,BRA,40,32,3_Pts_C,Ricky Sánchez
+264,3,09:43,BOT,37,32,AS,Maique
+265,3,09:43,BOT,37,32,3_Pts_C,Cauê
+266,3,10:00,NaN,37,29,inicio_quarto,
+267,3,10:00,BOT,37,29,ER,
+268,3,10:00,BOT,37,29,FC_T,Técnico do Botafogo
+269,3,10:00,BRA,37,29,Caixa,Técnico do Universo
+270,2,00:00,NaN,37,29,fim_quarto,
+271,2,00:03,BOT,37,29,3_Pts_T,Jamaal
+272,2,00:06,BOT,37,29,LL_Pts_C,Arthur
+273,2,00:06,BOT,37,28,substituicao_entra,Jamaal
+274,2,00:06,BOT,37,28,substituicao_sai,Maique
+275,2,00:06,BOT,37,28,substituicao_entra,Guga
+276,2,00:06,BOT,37,28,substituicao_sai,Fabrício
+277,2,00:06,BRA,37,28,substituicao_entra,Luis
+278,2,00:06,BRA,37,28,substituicao_sai,Nezinho
+279,2,00:06,BRA,37,28,substituicao_entra,Danilo
+280,2,00:06,BRA,37,28,substituicao_sai,Rafa Moreira
+281,2,00:06,BRA,37,28,substituicao_entra,Andrezão
+282,2,00:06,BRA,37,28,substituicao_sai,Zach Graham
+283,2,00:06,BRA,37,28,FC_T,Nezinho
+284,2,00:06,BOT,37,28,BR,Arthur
+285,2,00:06,BRA,37,28,ER,Ricky Sánchez
+286,2,00:09,BOT,37,28,substituicao_entra,Cauê
+287,2,00:09,BOT,37,28,substituicao_sai,Jamaal
+288,2,00:09,BRA,37,28,substituicao_entra,P  Rava
+289,2,00:09,BRA,37,28,substituicao_sai,Andrezão
+290,2,00:09,BRA,37,28,substituicao_entra,Rafa Moreira
+291,2,00:09,BRA,37,28,substituicao_sai,Graterol
+292,2,00:09,BRA,37,28,Caixa,Universo
+293,2,00:12,BRA,37,28,Caixa,Universo
+294,2,00:12,BRA,37,28,2_Pts_T,Nezinho
+295,2,00:35,BRA,37,28,Caixa,Universo
+296,2,00:35,BOT,37,28,substituicao_entra,Arthur
+297,2,00:35,BOT,37,28,substituicao_sai,Murilo
+298,2,00:35,BOT,37,28,substituicao_entra,Fabrício
+299,2,00:35,BOT,37,28,substituicao_sai,Ansaloni
+300,2,00:35,BRA,37,28,LL_Pts_T,Zach Graham
+301,2,00:35,BRA,37,28,substituicao_entra,Andrezão
+302,2,00:35,BRA,37,28,substituicao_sai,Danilo
+303,2,00:35,BRA,37,28,substituicao_entra,Zach Graham
+304,2,00:35,BRA,37,28,substituicao_sai,Andrezão
+305,2,00:35,BOT,37,28,FC_T,Técnico do Botafogo
+306,2,00:35,BRA,37,28,substituicao_entra,Nezinho
+307,2,00:35,BRA,37,28,substituicao_sai,Luis
+308,2,00:35,BRA,37,28,FR,Ricky Sánchez
+309,2,00:35,BOT,37,28,ER,Murilo
+310,2,00:35,BOT,37,28,FC_O,Murilo
+311,2,00:42,BOT,37,28,substituicao_entra,Jamaal
+312,2,00:42,BOT,37,28,substituicao_sai,Guga
+313,2,00:42,BOT,37,28,LL_Pts_T,Murilo
+314,2,00:42,BOT,37,28,LL_Pts_C,Murilo
+315,2,00:42,BOT,37,27,FR,Murilo
+316,2,00:42,BRA,37,27,FC_A,Ricky Sánchez
+317,2,01:04,BRA,37,27,substituicao_entra,Luis
+318,2,01:04,BRA,37,27,substituicao_sai,Nezinho
+319,2,01:04,BRA,37,27,substituicao_entra,Graterol
+320,2,01:04,BRA,37,27,substituicao_sai,Rodrigo
+321,2,01:04,BRA,37,27,LL_Pts_C,Nezinho
+322,2,01:04,BRA,36,27,LL_Pts_C,Nezinho
+323,2,01:04,BRA,35,27,substituicao_entra,Danilo
+324,2,01:04,BRA,35,27,substituicao_sai,Zach Graham
+325,2,01:04,BRA,35,27,FR,Nezinho
+326,2,01:04,BOT,35,27,FC,Guga
+327,2,01:08,BRA,35,27,substituicao_entra,Nezinho
+328,2,01:08,BRA,35,27,substituicao_sai,Luis
+329,2,01:18,BOT,35,27,AS,Guga
+330,2,01:18,BOT,35,27,3_Pts_C,Ansaloni
+331,2,01:20,BOT,35,24,RO,Guga
+332,2,01:24,BOT,35,24,2_Pts_T,Murilo
+333,2,01:26,BOT,35,24,RO,Murilo
+334,2,01:29,BOT,35,24,2_Pts_T,Ansaloni
+335,2,01:33,BOT,35,24,substituicao_entra,Maique
+336,2,01:33,BOT,35,24,substituicao_sai,Arthur
+337,2,01:33,BOT,35,24,tempo_tecnico,Botafogo
+338,2,01:36,BOT,35,24,RD,Ansaloni
+339,2,01:44,BRA,35,24,2_Pts_T,Andrezão
+340,2,02:07,BOT,35,24,ER,Guga
+341,2,02:20,BOT,35,24,RD,Ansaloni
+342,2,02:23,BRA,35,24,LL_Pts_T,Andrezão
+343,2,02:23,BRA,35,24,LL_Pts_C,Andrezão
+344,2,02:23,BOT,34,24,substituicao_entra,Murilo
+345,2,02:23,BOT,34,24,substituicao_sai,Maique
+346,2,02:23,BOT,34,24,substituicao_entra,Mogi
+347,2,02:23,BOT,34,24,substituicao_sai,Jamaal
+348,2,02:23,BOT,34,24,substituicao_entra,Guga
+349,2,02:23,BOT,34,24,substituicao_sai,Cauê
+350,2,02:23,BRA,34,24,substituicao_entra,Ricky Sánchez
+351,2,02:23,BRA,34,24,substituicao_sai,Marcelão
+352,2,02:23,BRA,34,24,substituicao_entra,Rodrigo
+353,2,02:23,BRA,34,24,substituicao_sai,P  Rava
+354,2,02:23,BRA,34,24,substituicao_entra,Luis
+355,2,02:23,BRA,34,24,substituicao_sai,Graterol
+356,2,02:23,BRA,34,24,FR,Andrezão
+357,2,02:23,BOT,34,24,FC,Jamaal
+358,2,02:31,BRA,34,24,RD,P  Rava
+359,2,02:37,BOT,34,24,2_Pts_T,Cauê
+360,2,02:42,BOT,34,24,RD,Ansaloni
+361,2,02:46,BRA,34,24,3_Pts_T,Zach Graham
+362,2,02:57,BRA,34,24,RD,Marcelão
+363,2,03:01,BOT,34,24,2_Pts_T,Jamaal
+364,2,03:02,BOT,34,24,RO,Jamaal
+365,2,03:07,BOT,34,24,3_Pts_T,Cauê
+366,2,03:26,BRA,34,24,AS,Graterol
+367,2,03:26,BRA,34,24,3_Pts_C,Zach Graham
+368,2,03:44,BOT,31,24,AS,Jamaal
+369,2,03:44,BOT,31,24,3_Pts_C,Ansaloni
+370,2,04:05,BRA,31,21,AS,P  Rava
+371,2,04:05,BRA,31,21,3_Pts_C,Andrezão
+372,2,04:15,BOT,28,21,ER,Cauê
+373,2,04:30,BOT,28,21,RO,Botafogo
+374,2,04:30,BRA,28,21,TO,P  Rava
+375,2,04:30,BOT,28,21,2_Pts_T,Jamaal
+376,2,04:35,BOT,28,21,BR,Jamaal
+377,2,04:35,BRA,28,21,ER,Graterol
+378,2,04:54,BOT,28,21,substituicao_entra,Cauê
+379,2,04:54,BOT,28,21,substituicao_sai,Fabrício
+380,2,04:54,BOT,28,21,LL_Pts_C,Arthur
+381,2,04:54,BOT,28,20,LL_Pts_T,Arthur
+382,2,04:54,BOT,28,20,LL_Pts_T,Arthur
+383,2,04:54,BOT,28,20,FR,Arthur
+384,2,04:54,BRA,28,20,FC,Marcelão
+385,2,05:09,BOT,28,20,FR,Jamaal
+386,2,05:09,BRA,28,20,FC,P  Rava
+387,2,05:10,BOT,28,20,RD,Ansaloni
+388,2,05:14,BRA,28,20,2_Pts_T,Zach Graham
+389,2,05:37,BRA,28,20,RD,Zach Graham
+390,2,05:42,BOT,28,20,3_Pts_T,Ansaloni
+391,2,06:02,BOT,28,20,substituicao_entra,Ansaloni
+392,2,06:02,BOT,28,20,substituicao_sai,Guga
+393,2,06:02,BRA,28,20,substituicao_entra,Graterol
+394,2,06:02,BRA,28,20,substituicao_sai,Ricky Sánchez
+395,2,06:02,BRA,28,20,LL_Pts_C,Ricky Sánchez
+396,2,06:02,BRA,27,20,LL_Pts_C,Ricky Sánchez
+397,2,06:02,BOT,26,20,substituicao_entra,Maique
+398,2,06:02,BOT,26,20,substituicao_sai,Murilo
+399,2,06:02,BRA,26,20,FR,Ricky Sánchez
+400,2,06:02,BOT,26,20,FC,Murilo
+401,2,06:21,BOT,26,20,substituicao_entra,Murilo
+402,2,06:21,BOT,26,20,substituicao_sai,Ansaloni
+403,2,06:22,BOT,26,20,ER,Ansaloni
+404,2,06:35,BOT,26,20,RD,Botafogo
+405,2,06:40,BRA,26,20,3_Pts_T,Ricky Sánchez
+406,2,06:55,BOT,26,20,ER,Guga
+407,2,07:04,BOT,26,20,BR,Fabrício
+408,2,07:04,BRA,26,20,ER,P  Rava
+409,2,07:04,BOT,26,20,substituicao_entra,Fabrício
+410,2,07:04,BOT,26,20,substituicao_sai,Cauê
+411,2,07:04,BRA,26,20,substituicao_entra,Marcelão
+412,2,07:04,BRA,26,20,substituicao_sai,Graterol
+413,2,07:07,BRA,26,20,FR,P  Rava
+414,2,07:07,BOT,26,20,FC,Guga
+415,2,07:09,BRA,26,20,RO,P  Rava
+416,2,07:13,BRA,26,20,3_Pts_T,Ricky Sánchez
+417,2,07:15,BRA,26,20,RD,Ricky Sánchez
+418,2,07:22,BOT,26,20,2_Pts_T,Guga
+419,2,07:45,BOT,26,20,FR,Ansaloni
+420,2,07:45,BRA,26,20,ER,Zach Graham
+421,2,07:45,BRA,26,20,FC_O,Zach Graham
+422,2,07:49,BRA,26,20,FR,Zach Graham
+423,2,07:49,BOT,26,20,FC,Cauê
+424,2,07:53,BRA,26,20,substituicao_entra,Andrezão
+425,2,07:53,BRA,26,20,substituicao_sai,Nezinho
+426,2,07:53,BRA,26,20,FR,Nezinho
+427,2,07:53,BOT,26,20,FC,Ansaloni
+428,2,08:09,BOT,26,20,2_Pts_C,Guga
+429,2,08:18,BOT,26,18,substituicao_entra,Guga
+430,2,08:18,BOT,26,18,substituicao_sai,Maique
+431,2,08:18,BOT,26,18,FR,Arthur
+432,2,08:18,BRA,26,18,FC,Nezinho
+433,2,08:41,BRA,26,18,3_Pts_C,Ricky Sánchez
+434,2,09:00,BRA,23,18,BR,Ricky Sánchez
+435,2,09:00,BOT,23,18,ER,Maique
+436,2,09:03,BRA,23,18,LL_Pts_C,Ricky Sánchez
+437,2,09:03,BRA,22,18,LL_Pts_C,Ricky Sánchez
+438,2,09:03,BRA,21,18,FR,Ricky Sánchez
+439,2,09:03,BOT,21,18,FC,Maique
+440,2,09:15,BOT,21,18,2_Pts_C,Ansaloni
+441,2,09:37,BOT,21,16,BR,Cauê
+442,2,09:37,BRA,21,16,ER,Nezinho
+443,2,10:00,NaN,21,16,inicio_quarto,
+444,1,00:00,NaN,21,16,fim_quarto,
+445,1,00:04,BOT,21,16,3_Pts_T,Mogi
+446,1,00:04,BRA,21,16,substituicao_entra,Danilo
+447,1,00:04,BRA,21,16,substituicao_sai,Nezinho
+448,1,00:04,BRA,21,16,LL_Pts_C,Nezinho
+449,1,00:04,BRA,20,16,LL_Pts_T,Nezinho
+450,1,00:04,BOT,20,16,substituicao_entra,Jamaal
+451,1,00:04,BOT,20,16,substituicao_sai,Erike
+452,1,00:04,BOT,20,16,substituicao_entra,Ansaloni
+453,1,00:04,BOT,20,16,substituicao_sai,Fabrício
+454,1,00:04,BOT,20,16,substituicao_entra,Arthur
+455,1,00:04,BOT,20,16,substituicao_sai,Guga
+456,1,00:04,BRA,20,16,substituicao_entra,P  Rava
+457,1,00:04,BRA,20,16,substituicao_sai,Zach Graham
+458,1,00:04,BRA,20,16,FR,Nezinho
+459,1,00:04,BOT,20,16,FC,Erike
+460,1,00:16,BRA,20,16,RO,Graterol
+461,1,00:21,BRA,20,16,3_Pts_T,Nezinho
+462,1,00:42,BRA,20,16,substituicao_entra,Zach Graham
+463,1,00:42,BRA,20,16,substituicao_sai,P  Rava
+464,1,00:42,BOT,20,16,substituicao_entra,Erike
+465,1,00:42,BOT,20,16,substituicao_sai,Arthur
+466,1,00:42,BOT,20,16,substituicao_entra,Fabrício
+467,1,00:42,BOT,20,16,substituicao_sai,Ansaloni
+468,1,00:42,BOT,20,16,LL_Pts_C,Ansaloni
+469,1,00:42,BOT,20,15,LL_Pts_C,Ansaloni
+470,1,00:42,BRA,20,14,substituicao_entra,Nezinho
+471,1,00:42,BRA,20,14,substituicao_sai,Andrezão
+472,1,00:42,BRA,20,14,substituicao_entra,Luis
+473,1,00:42,BRA,20,14,substituicao_sai,Zach Graham
+474,1,00:42,BOT,20,14,FR,Ansaloni
+475,1,00:42,BRA,20,14,FC,Rodrigo
+476,1,00:42,BOT,20,14,RD,Botafogo
+477,1,00:43,BRA,20,14,3_Pts_T,Zach Graham
+478,1,01:04,BRA,20,14,substituicao_entra,Rodrigo
+479,1,01:04,BRA,20,14,substituicao_sai,Rafa Moreira
+480,1,01:04,BOT,20,14,LL_Pts_C,Ansaloni
+481,1,01:04,BOT,20,13,FR,Ansaloni
+482,1,01:04,BRA,20,13,FC,Rafa Moreira
+483,1,01:04,BOT,20,13,AS,Guga
+484,1,01:04,BOT,20,13,2_Pts_C,Ansaloni
+485,1,01:21,BRA,20,11,AS,Rafa Moreira
+486,1,01:21,BRA,20,11,2_Pts_C,Graterol
+487,1,01:30,BOT,18,11,substituicao_entra,Arthur
+488,1,01:30,BOT,18,11,substituicao_sai,Murilo
+489,1,01:30,BRA,18,11,FR,Andrezão
+490,1,01:30,BOT,18,11,FC,Murilo
+491,1,01:42,BRA,18,11,BR,Graterol
+492,1,01:42,BOT,18,11,ER,Guga
+493,1,01:48,BOT,18,11,FR,Ansaloni
+494,1,01:48,BRA,18,11,FC,Rafa Moreira
+495,1,01:56,BRA,18,11,substituicao_entra,Graterol
+496,1,01:56,BRA,18,11,substituicao_sai,Ricky Sánchez
+497,1,02:13,BRA,18,11,2_Pts_C,P  Rava
+498,1,02:28,BRA,16,11,RD,P  Rava
+499,1,02:34,BOT,16,11,3_Pts_T,Murilo
+500,1,02:56,BOT,16,11,substituicao_entra,Guga
+501,1,02:56,BOT,16,11,substituicao_sai,Jamaal
+502,1,02:56,BOT,16,11,tempo_tecnico,Botafogo
+503,1,02:56,BRA,16,11,AS,Ricky Sánchez
+504,1,02:56,BRA,16,11,3_Pts_C,Rafa Moreira
+505,1,03:02,BRA,13,11,RD,Andrezão
+506,1,03:06,BOT,13,11,2_Pts_T,Murilo
+507,1,03:16,BOT,13,11,substituicao_entra,Ansaloni
+508,1,03:16,BOT,13,11,substituicao_sai,Maique
+509,1,03:16,BRA,13,11,substituicao_entra,P  Rava
+510,1,03:16,BRA,13,11,substituicao_sai,Nezinho
+511,1,03:16,BOT,13,11,FR,Murilo
+512,1,03:16,BRA,13,11,FC,Andrezão
+513,1,03:27,BRA,13,11,AS,Nezinho
+514,1,03:27,BRA,13,11,3_Pts_C,Zach Graham
+515,1,03:38,BOT,10,11,ER,Jamaal
+516,1,03:50,BRA,10,11,AS,Nezinho
+517,1,03:50,BRA,10,11,2_Pts_C,Ricky Sánchez
+518,1,03:58,BRA,8,11,FR,Rafa Moreira
+519,1,03:58,BOT,8,11,FC,Mogi
+520,1,04:18,BOT,8,11,LL_Pts_C,Jamaal
+521,1,04:18,BOT,8,10,LL_Pts_C,Jamaal
+522,1,04:18,BOT,8,9,FR,Jamaal
+523,1,04:18,BRA,8,9,FC,Nezinho
+524,1,04:24,BOT,8,9,RO,Botafogo
+525,1,04:29,BOT,8,9,2_Pts_T,Maique
+526,1,04:40,BOT,8,9,substituicao_entra,Mogi
+527,1,04:40,BOT,8,9,substituicao_sai,Arthur
+528,1,04:40,BOT,8,9,substituicao_entra,Murilo
+529,1,04:40,BOT,8,9,substituicao_sai,Ansaloni
+530,1,04:40,BRA,8,9,substituicao_entra,Andrezão
+531,1,04:40,BRA,8,9,substituicao_sai,Graterol
+532,1,04:47,BOT,8,9,BR,Jamaal
+533,1,04:47,BRA,8,9,ER,Graterol
+534,1,04:56,BOT,8,9,AS,Cauê
+535,1,04:56,BOT,8,9,EN,Maique
+536,1,05:03,BOT,8,7,BR,Cauê
+537,1,05:03,BRA,8,7,ER,Graterol
+538,1,05:18,BOT,8,7,ER,
+539,1,05:47,BRA,8,7,AS,Rafa Moreira
+540,1,05:47,BRA,8,7,3_Pts_C,Ricky Sánchez
+541,1,06:10,BOT,5,7,AS,Ansaloni
+542,1,06:10,BOT,5,7,3_Pts_C,Arthur
+543,1,06:21,BOT,5,4,RD,Arthur
+544,1,06:26,BRA,5,4,2_Pts_T,Graterol
+545,1,06:46,BRA,5,4,substituicao_entra,Rafa Moreira
+546,1,06:46,BRA,5,4,substituicao_sai,Pedro
+547,1,06:55,BOT,5,4,AS,Arthur
+548,1,06:55,BOT,5,4,EN,Maique
+549,1,07:21,BRA,5,2,AS,Zach Graham
+550,1,07:21,BRA,5,2,3_Pts_C,Graterol
+551,1,07:27,BRA,2,2,RD,Zach Graham
+552,1,07:33,BOT,2,2,2_Pts_T,Cauê
+553,1,07:59,BRA,2,2,2_Pts_C,Graterol
+554,1,08:07,BRA,0,2,RD,Zach Graham
+555,1,08:11,BOT,0,2,3_Pts_T,Jamaal
+556,1,08:17,BOT,0,2,RD,Ansaloni
+557,1,08:21,BRA,0,2,2_Pts_T,Pedro
+558,1,08:30,BRA,0,2,FR,Graterol
+559,1,08:30,BOT,0,2,FC,Jamaal
+560,1,08:50,BOT,0,2,AS,Jamaal
+561,1,08:50,BOT,0,2,2_Pts_C,Maique
+562,1,09:03,BRA,0,0,ER,Zach Graham
+563,1,09:19,BRA,0,0,FR,Pedro
+564,1,09:19,BOT,0,0,ER,Arthur
+565,1,09:19,BOT,0,0,FC_O,Arthur
+566,1,09:21,BOT,0,0,FR,Ansaloni
+567,1,09:21,BRA,0,0,ER,Graterol
+568,1,09:21,BRA,0,0,FC_O,Graterol
+569,1,09:29,BRA,0,0,RD,Nezinho
+570,1,09:39,BOT,0,0,2_Pts_T,Arthur
+571,1,10:00,BOT,0,0,substituicao_entra,Arthur
+572,1,10:00,BOT,0,0,substituicao_entra,Maique
+573,1,10:00,BOT,0,0,substituicao_entra,Ansaloni
+574,1,10:00,BOT,0,0,substituicao_entra,Jamaal
+575,1,10:00,BOT,0,0,substituicao_entra,Cauê
+576,1,10:00,BRA,0,0,substituicao_entra,Ricky Sánchez
+577,1,10:00,BRA,0,0,substituicao_entra,Nezinho
+578,1,10:00,BRA,0,0,substituicao_entra,Pedro
+579,1,10:00,BRA,0,0,substituicao_entra,Graterol
+580,1,10:00,BRA,0,0,substituicao_entra,Zach Graham
+581,1,10:00,NaN,0,0,inicio_partida,

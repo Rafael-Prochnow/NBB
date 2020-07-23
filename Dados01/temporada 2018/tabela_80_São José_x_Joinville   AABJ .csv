@@ -1,0 +1,583 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,102,100,fim_partida,
+1,4,00:00,NaN,102,100,fim_quarto, 
+2,4,00:04,JLE,102,100,2_Pts_C,Cook
+3,4,00:08,SJO,102,98,LL_Pts_C,Pedro
+4,4,00:08,SJO,101,98,LL_Pts_C,Pedro
+5,4,00:08,SJO,100,98,FR,Pedro
+6,4,00:08,JLE,100,98,FC,Cook
+7,4,00:09,JLE,100,98,3_Pts_C,Vezarinho
+8,4,00:12,SJO,100,95,LL_Pts_C,Pedro
+9,4,00:12,SJO,99,95,LL_Pts_C,Pedro
+10,4,00:12,SJO,98,95,FR,Pedro
+11,4,00:12,JLE,98,95,FC,Vezarinho
+12,4,00:14,JLE,98,95,2_Pts_C,Cook
+13,4,00:16,SJO,98,93,LL_Pts_C,Sahdi
+14,4,00:16,SJO,97,93,LL_Pts_T,Sahdi
+15,4,00:16,JLE,97,93,substituicao_entra,Mathias
+16,4,00:16,JLE,97,93,substituicao_sai,J  Socas
+17,4,00:16,SJO,97,93,FR,Sahdi
+18,4,00:16,JLE,97,93,FC,Vezarinho
+19,4,00:18,JLE,97,93,substituicao_entra,Weihermann
+20,4,00:18,JLE,97,93,substituicao_sai,Mathias
+21,4,00:18,JLE,97,93,LL_Pts_C,Mathias
+22,4,00:18,JLE,97,92,LL_Pts_C,Mathias
+23,4,00:18,JLE,97,91,FR,Mathias
+24,4,00:18,SJO,97,91,FC,Sahdi
+25,4,00:23,JLE,97,91,substituicao_entra,Vezarinho
+26,4,00:23,JLE,97,91,substituicao_sai,A  Bambu
+27,4,00:23,SJO,97,91,substituicao_entra,Dedé
+28,4,00:23,SJO,97,91,substituicao_sai,Coimbra
+29,4,00:23,JLE,97,91, AABJ ,Joinville 
+30,4,00:23,SJO,97,91,AS,Pedro
+31,4,00:23,SJO,97,91,3_Pts_C,D  Nunes
+32,4,00:40,JLE,94,91,LL_Pts_C,Mathias
+33,4,00:40,JLE,94,90,AS,J  Socas
+34,4,00:40,JLE,94,90,LL_Pts_C,Mathias
+35,4,00:40,JLE,94,89,FR,Mathias
+36,4,00:40,SJO,94,89,FC,Hélio
+37,4,00:49,SJO,94,89,2_Pts_C,Pedro
+38,4,01:06,JLE,92,89,LL_Pts_C,F  Vezaro
+39,4,01:06,JLE,92,88,LL_Pts_C,F  Vezaro
+40,4,01:06,JLE,92,87,FR,F  Vezaro
+41,4,01:06,SJO,92,87,FC,Coimbra
+42,4,01:14,SJO,92,87,LL_Pts_C,Pedro
+43,4,01:14,SJO,91,87,LL_Pts_C,Pedro
+44,4,01:14,JLE,90,87,substituicao_entra,Cook
+45,4,01:14,JLE,90,87,substituicao_sai,Vezarinho
+46,4,01:14,SJO,90,87,FR,Pedro
+47,4,01:14,JLE,90,87,FC,J  Socas
+48,4,01:23,SJO,90,87,BR,Coimbra
+49,4,01:23,JLE,90,87,ER,Vezarinho
+50,4,01:32,SJO,90,87,AS,Hélio
+51,4,01:32,SJO,90,87,2_Pts_C,Coimbra
+52,4,01:54,JLE,88,87,3_Pts_C,Vezarinho
+53,4,02:12,SJO,88,84,2_Pts_C,Coimbra
+54,4,02:14,SJO,86,84,RO,Coimbra
+55,4,02:24,JLE,86,84,TO,Mathias
+56,4,02:24,SJO,86,84,2_Pts_T,Hélio
+57,4,03:00,SJO,86,84,tempo_tecnico,São José
+58,4,03:00,JLE,86,84,AS,J  Socas
+59,4,03:00,JLE,86,84,3_Pts_C,A  Bambu
+60,4,03:11,JLE,86,81,RD,Mathias
+61,4,03:15,SJO,86,81,3_Pts_T,Pedro
+62,4,03:43,JLE,86,81,AS,F  Vezaro
+63,4,03:43,JLE,86,81,3_Pts_C,A  Bambu
+64,4,03:51,JLE,86,78,RD,J  Socas
+65,4,03:53,SJO,86,78,LL_Pts_T,Pedro
+66,4,03:53,SJO,86,78,AS,D  Nunes
+67,4,03:53,SJO,86,78,LL_Pts_C,Pedro
+68,4,03:53,JLE,85,78,substituicao_entra,Vezarinho
+69,4,03:53,JLE,85,78,substituicao_sai,Cook
+70,4,03:53,SJO,85,78,FR,Pedro
+71,4,03:53,JLE,85,78,FC,Cook
+72,4,03:58,JLE,85,78,2_Pts_C,J  Socas
+73,4,04:07,SJO,85,76,LL_Pts_C,Coimbra
+74,4,04:07,JLE,84,76,substituicao_entra,J  Socas
+75,4,04:07,JLE,84,76,substituicao_sai,Starks
+76,4,04:07,SJO,84,76,FR,Coimbra
+77,4,04:07,JLE,84,76,FC,F  Vezaro
+78,4,04:07,SJO,84,76,AS,Sahdi
+79,4,04:07,SJO,84,76,2_Pts_C,Coimbra
+80,4,04:09,SJO,82,76,RD,D  Nunes
+81,4,04:13,JLE,82,76,3_Pts_T,Starks
+82,4,04:32,SJO,82,76,AS,Coimbra
+83,4,04:32,SJO,82,76,2_Pts_C,Hélio
+84,4,04:52,JLE,80,76,LL_Pts_C,Cook
+85,4,04:52,JLE,80,75,LL_Pts_C,Cook
+86,4,04:52,JLE,80,74,FR,Cook
+87,4,04:52,SJO,80,74,FC,Pedro
+88,4,04:56,SJO,80,74,2_Pts_C,D  Nunes
+89,4,04:56,SJO,78,74,RO,D  Nunes
+90,4,05:03,SJO,78,74,LL_Pts_T,Coimbra
+91,4,05:03,SJO,78,74,FR,Coimbra
+92,4,05:03,JLE,78,74,FC,Mathias
+93,4,05:03,SJO,78,74,AS,Pedro
+94,4,05:03,SJO,78,74,2_Pts_C,Coimbra
+95,4,05:19,JLE,76,74,LL_Pts_C,Mathias
+96,4,05:19,JLE,76,73,LL_Pts_C,Mathias
+97,4,05:19,JLE,76,72,FR,Mathias
+98,4,05:19,SJO,76,72,FC,Hélio
+99,4,05:35,JLE,76,72,FR,F  Vezaro
+100,4,05:35,SJO,76,72,ER,Coimbra
+101,4,05:35,SJO,76,72,FC_O,Coimbra
+102,4,05:42,SJO,76,72,RD,Sahdi
+103,4,05:47,JLE,76,72,3_Pts_T,Starks
+104,4,05:56,SJO,76,72,substituicao_entra,D  Nunes
+105,4,05:56,SJO,76,72,substituicao_sai,Pastor
+106,4,05:56,JLE,76,72,FR,Cook
+107,4,05:56,SJO,76,72,FC,Sahdi
+108,4,06:01,JLE,76,72,RD,F  Vezaro
+109,4,06:05,SJO,76,72,3_Pts_T,Pedro
+110,4,06:20,SJO,76,72,substituicao_entra,Hélio
+111,4,06:20,SJO,76,72,substituicao_sai,Dedé
+112,4,06:20,SJO,76,72,FR,Sahdi
+113,4,06:20,JLE,76,72,FC,Starks
+114,4,06:33,JLE,76,72,3_Pts_C,Cook
+115,4,06:36,JLE,76,69,RD,Cook
+116,4,06:39,SJO,76,69,3_Pts_T,Sahdi
+117,4,06:54,JLE,76,69,LL_Pts_C,Cook
+118,4,06:54,JLE,76,68,LL_Pts_C,Cook
+119,4,06:54,JLE,76,67,FR,Cook
+120,4,06:54,SJO,76,67,FC,Dedé
+121,4,07:08,SJO,76,67,AS,Pastor
+122,4,07:08,SJO,76,67,3_Pts_C,Sahdi
+123,4,07:21,SJO,73,67,substituicao_entra,Dedé
+124,4,07:21,SJO,73,67,substituicao_sai,Hélio
+125,4,07:21,SJO,73,67,RO,São José
+126,4,07:23,SJO,73,67,3_Pts_T,Pedro
+127,4,07:50,JLE,73,67,AS,Cook
+128,4,07:50,JLE,73,67,3_Pts_C,A  Bambu
+129,4,08:02,JLE,73,64,FR,F  Vezaro
+130,4,08:02,SJO,73,64,FC,Pastor
+131,4,08:16,JLE,73,64,substituicao_entra,Starks
+132,4,08:16,JLE,73,64,substituicao_sai,J  Socas
+133,4,08:16,JLE,73,64, AABJ ,Joinville 
+134,4,08:16,SJO,73,64,AS,Hélio
+135,4,08:16,SJO,73,64,2_Pts_C,Pastor
+136,4,08:21,SJO,71,64,BR,Pedro
+137,4,08:21,JLE,71,64,ER,J  Socas
+138,4,08:36,SJO,71,64,LL_Pts_C,Sahdi
+139,4,08:36,JLE,70,64,ER,
+140,4,08:36,JLE,70,64, AABJ ,Técnico do Joinville 
+141,4,08:44,SJO,70,64,AS,Pastor
+142,4,08:44,SJO,70,64,3_Pts_C,Sahdi
+143,4,08:50,SJO,67,64,BR,Hélio
+144,4,08:50,JLE,67,64,ER,F  Vezaro
+145,4,09:14,JLE,67,64,RD,J  Socas
+146,4,09:16,SJO,67,64,LL_Pts_T,Pedro
+147,4,09:16,SJO,67,64,LL_Pts_T,Pedro
+148,4,09:16,SJO,67,64,FR,Pedro
+149,4,09:16,JLE,67,64,FC,F  Vezaro
+150,4,09:17,SJO,67,64,RO,São José
+151,4,09:17,SJO,67,64,2_Pts_T,Pastor
+152,4,09:36,SJO,67,64,RD,Pastor
+153,4,09:41,JLE,67,64,2_Pts_T,Cook
+154,4,10:00,NaN,67,64,inicio_quarto,
+155,3,00:00,NaN,67,64,fim_quarto,
+156,3,00:07,SJO,67,64,AS,Sahdi
+157,3,00:07,SJO,67,64,2_Pts_C,Coimbra
+158,3,00:10,SJO,65,64,RD,Sahdi
+159,3,00:10,JLE,65,64,2_Pts_T,J  Socas
+160,3,00:31,SJO,65,64,AS,Coimbra
+161,3,00:31,SJO,65,64,2_Pts_C,Hélio
+162,3,00:46,JLE,63,64,AS,J  Socas
+163,3,00:46,JLE,63,64,3_Pts_C,Mathias
+164,3,01:13,SJO,63,61,AS,Hélio
+165,3,01:13,SJO,63,61,2_Pts_C,Pastor
+166,3,01:21,JLE,61,61,substituicao_entra,Cook
+167,3,01:21,JLE,61,61,substituicao_sai,Vezarinho
+168,3,01:21,SJO,61,61,FR,Hélio
+169,3,01:21,JLE,61,61,FC,F  Vezaro
+170,3,01:35,SJO,61,61,RD,Pastor
+171,3,01:40,JLE,61,61,3_Pts_T,Vezarinho
+172,3,01:42,JLE,61,61,RD,J  Socas
+173,3,01:47,SJO,61,61,2_Pts_T,Hélio
+174,3,01:57,JLE,61,61,substituicao_entra,Colimerio
+175,3,01:57,JLE,61,61,substituicao_sai,A  Bambu
+176,3,01:57,JLE,61,61,substituicao_entra,F  Vezaro
+177,3,01:57,JLE,61,61,substituicao_sai,Weihermann
+178,3,01:57,SJO,61,61,substituicao_entra,Pastor
+179,3,01:57,SJO,61,61,substituicao_sai,D  Nunes
+180,3,01:57,SJO,61,61,substituicao_entra,Coimbra
+181,3,01:57,SJO,61,61,substituicao_sai,Mineiro
+182,3,01:57,SJO,61,61,RD,Hélio
+183,3,02:05,SJO,61,61,TO,Mineiro
+184,3,02:05,JLE,61,61,2_Pts_T,Vezarinho
+185,3,02:08,JLE,61,61,RD,J  Socas
+186,3,02:13,SJO,61,61,2_Pts_T,D  Nunes
+187,3,02:24,SJO,61,61,RD,D  Nunes
+188,3,02:28,JLE,61,61,2_Pts_T,Weihermann
+189,3,02:40,SJO,61,61,substituicao_entra,Pedro
+190,3,02:40,SJO,61,61,substituicao_sai,Dedé
+191,3,02:40,JLE,61,61,FR,Vezarinho
+192,3,02:40,SJO,61,61,FC,Dedé
+193,3,02:41,JLE,61,61,RD,J  Socas
+194,3,02:46,SJO,61,61,2_Pts_T,Sahdi
+195,3,03:01,SJO,61,61,RD,Dedé
+196,3,03:06,JLE,61,61,3_Pts_T,Weihermann
+197,3,03:24,JLE,61,61,substituicao_entra,Mathias
+198,3,03:24,JLE,61,61,substituicao_sai,Colimerio
+199,3,03:24,JLE,61,61, AABJ ,Joinville 
+200,3,03:24,SJO,61,61,AS,D  Nunes
+201,3,03:24,SJO,61,61,2_Pts_C,Dedé
+202,3,03:25,SJO,59,61,RD,Sahdi
+203,3,03:29,JLE,59,61,3_Pts_T,Vezarinho
+204,3,03:50,JLE,59,61,FR,Vezarinho
+205,3,03:50,SJO,59,61,ER,Sahdi
+206,3,03:50,SJO,59,61,FC_O,Sahdi
+207,3,03:53,JLE,59,61,substituicao_entra,Weihermann
+208,3,03:53,JLE,59,61,substituicao_sai,Cook
+209,3,03:53,SJO,59,61,RD,São José
+210,3,03:53,JLE,59,61,2_Pts_T,Cook
+211,3,04:18,SJO,59,61,2_Pts_C,Sahdi
+212,3,04:26,SJO,57,61,LL_Pts_C,Sahdi
+213,3,04:26,SJO,56,61,LL_Pts_C,Sahdi
+214,3,04:26,JLE,55,61,substituicao_entra,J  Socas
+215,3,04:26,JLE,55,61,substituicao_sai,Starks
+216,3,04:26,JLE,55,61,substituicao_entra,Colimerio
+217,3,04:26,JLE,55,61,substituicao_sai,Mathias
+218,3,04:26,SJO,55,61,FR,Sahdi
+219,3,04:26,JLE,55,61,FC_A,Mathias
+220,3,04:26,SJO,55,61,RD,Sahdi
+221,3,04:29,JLE,55,61,3_Pts_T,Mathias
+222,3,04:52,SJO,55,61,AS,Sahdi
+223,3,04:52,SJO,55,61,2_Pts_C,D  Nunes
+224,3,05:05,JLE,53,61,AS,Vezarinho
+225,3,05:05,JLE,53,61,3_Pts_C,Starks
+226,3,05:15,JLE,53,58,RD,Vezarinho
+227,3,05:21,SJO,53,58,2_Pts_T,Sahdi
+228,3,05:33,JLE,53,58,substituicao_entra,Vezarinho
+229,3,05:33,JLE,53,58,substituicao_sai,F  Vezaro
+230,3,05:33,SJO,53,58,FR,Hélio
+231,3,05:33,JLE,53,58,ER,Mathias
+232,3,05:33,JLE,53,58,FC_O,Mathias
+233,3,05:39,SJO,53,58,AS,Dedé
+234,3,05:39,SJO,53,58,3_Pts_C,Hélio
+235,3,05:42,SJO,50,58,RO,Dedé
+236,3,05:46,SJO,50,58,2_Pts_T,Mineiro
+237,3,05:58,SJO,50,58,substituicao_entra,Hélio
+238,3,05:58,SJO,50,58,substituicao_sai,Pedro
+239,3,05:58,SJO,50,58,tempo_tecnico,São José
+240,3,05:59,JLE,50,58,AS,F  Vezaro
+241,3,05:59,JLE,50,58,3_Pts_C,A  Bambu
+242,3,06:04,JLE,50,55,substituicao_entra,Starks
+243,3,06:04,JLE,50,55,substituicao_sai,J  Socas
+244,3,06:04,JLE,50,55,FR,A  Bambu
+245,3,06:04,SJO,50,55,FC,Dedé
+246,3,06:17,JLE,50,55, AABJ ,Joinville 
+247,3,06:17,SJO,50,55,2_Pts_T,Pedro
+248,3,06:19,SJO,50,55,RD,Pedro
+249,3,06:23,JLE,50,55,3_Pts_T,A  Bambu
+250,3,06:26,JLE,50,55,RD,Mathias
+251,3,06:34,SJO,50,55,2_Pts_T,Pedro
+252,3,06:52,JLE,50,55,AS,F  Vezaro
+253,3,06:52,JLE,50,55,3_Pts_C,Cook
+254,3,06:53,JLE,50,52,RO,F  Vezaro
+255,3,06:58,JLE,50,52,3_Pts_T,Cook
+256,3,06:59,JLE,50,52,RD,F  Vezaro
+257,3,07:06,JLE,50,52,TO,A  Bambu
+258,3,07:06,SJO,50,52,2_Pts_T,Mineiro
+259,3,07:07,SJO,50,52,RO,Mineiro
+260,3,07:13,SJO,50,52,3_Pts_T,D  Nunes
+261,3,07:28,SJO,50,52,RD,D  Nunes
+262,3,07:33,JLE,50,52,2_Pts_T,A  Bambu
+263,3,07:42,JLE,50,52,FR,J  Socas
+264,3,07:42,SJO,50,52,FC,D  Nunes
+265,3,07:54,SJO,50,52,AS,D  Nunes
+266,3,07:54,SJO,50,52,LL_Pts_C,Mineiro
+267,3,07:54,SJO,49,52,LL_Pts_T,Mineiro
+268,3,07:54,SJO,49,52,FR,Mineiro
+269,3,07:54,JLE,49,52,FC,J  Socas
+270,3,08:02,JLE,49,52,2_Pts_C,A  Bambu
+271,3,08:03,JLE,49,50,RO,A  Bambu
+272,3,08:12,JLE,49,50,2_Pts_T,Cook
+273,3,08:18,JLE,49,50,BR,Cook
+274,3,08:18,SJO,49,50,ER,Sahdi
+275,3,08:32,SJO,49,50,RD,Mineiro
+276,3,08:38,JLE,49,50,2_Pts_T,Mathias
+277,3,08:57,SJO,49,50,AS,Sahdi
+278,3,08:57,SJO,49,50,2_Pts_C,Pedro
+279,3,09:10,SJO,47,50,BR,D  Nunes
+280,3,09:10,JLE,47,50,ER,F  Vezaro
+281,3,09:19,JLE,47,50,RD,Mathias
+282,3,09:24,SJO,47,50,3_Pts_T,Sahdi
+283,3,09:38,JLE,47,50,AS,J  Socas
+284,3,09:38,JLE,47,50,3_Pts_C,Cook
+285,3,09:41,JLE,47,47,RD,F  Vezaro
+286,3,09:46,SJO,47,47,3_Pts_T,D  Nunes
+287,3,10:00,NaN,47,47,inicio_quarto,
+288,2,00:00,NaN,47,47,fim_quarto,
+289,2,00:02,JLE,47,47,AS,Starks
+290,2,00:02,JLE,47,47,3_Pts_C,Weihermann
+291,2,00:04,JLE,47,44,substituicao_entra,Starks
+292,2,00:04,JLE,47,44,substituicao_sai,Maxwell
+293,2,00:04,JLE,47,44,substituicao_entra,Mathias
+294,2,00:04,JLE,47,44,substituicao_sai,Dieguinho
+295,2,00:04,SJO,47,44,substituicao_entra,Coimbra
+296,2,00:04,SJO,47,44,substituicao_sai,Hélio
+297,2,00:04,SJO,47,44,substituicao_entra,Panunzio
+298,2,00:04,SJO,47,44,substituicao_sai,Sahdi
+299,2,00:04,JLE,47,44,FR,Dieguinho
+300,2,00:04,SJO,47,44,ER,Hélio
+301,2,00:04,SJO,47,44,FC_O,Hélio
+302,2,00:24,JLE,47,44,substituicao_entra,Maxwell
+303,2,00:24,JLE,47,44,substituicao_sai,A  Bambu
+304,2,00:24,JLE,47,44,substituicao_entra,Dieguinho
+305,2,00:24,JLE,47,44,substituicao_sai,Mathias
+306,2,00:24,JLE,47,44,substituicao_entra,F  Vezaro
+307,2,00:24,JLE,47,44,substituicao_sai,Cook
+308,2,00:24,SJO,47,44,substituicao_entra,Pedro
+309,2,00:24,SJO,47,44,substituicao_sai,Coimbra
+310,2,00:24,SJO,47,44,tempo_tecnico,São José
+311,2,00:24,JLE,47,44,AS,J  Socas
+312,2,00:24,JLE,47,44,3_Pts_C,A  Bambu
+313,2,00:44,JLE,47,41,substituicao_entra,Weihermann
+314,2,00:44,JLE,47,41,substituicao_sai,F  Vezaro
+315,2,00:44,JLE,47,41,substituicao_entra,Cook
+316,2,00:44,JLE,47,41,substituicao_sai,Vezarinho
+317,2,00:44,SJO,47,41,substituicao_entra,Pastor
+318,2,00:44,SJO,47,41,substituicao_sai,Mineiro
+319,2,00:44,SJO,47,41,substituicao_entra,Coimbra
+320,2,00:44,SJO,47,41,substituicao_sai,D  Nunes
+321,2,00:44,JLE,47,41, AABJ ,Joinville 
+322,2,00:45,SJO,47,41,AS,Hélio
+323,2,00:45,SJO,47,41,3_Pts_C,D  Nunes
+324,2,01:02,SJO,44,41,RD,Mineiro
+325,2,01:07,JLE,44,41,2_Pts_T,F  Vezaro
+326,2,01:23,JLE,44,41,RD,Mathias
+327,2,01:25,SJO,44,41,LL_Pts_T,Sahdi
+328,2,01:25,SJO,44,41,LL_Pts_C,Sahdi
+329,2,01:25,SJO,43,41,FR,Sahdi
+330,2,01:25,JLE,43,41,FC,Vezarinho
+331,2,01:42,JLE,43,41,AS,J  Socas
+332,2,01:42,JLE,43,41,2_Pts_C,Vezarinho
+333,2,01:55,JLE,43,39,substituicao_entra,Mathias
+334,2,01:55,JLE,43,39,substituicao_sai,Maxwell
+335,2,01:55,SJO,43,39,substituicao_entra,Dedé
+336,2,01:55,SJO,43,39,substituicao_sai,Márcio
+337,2,01:56,JLE,43,39, AABJ ,Joinville 
+338,2,02:01,SJO,43,39,3_Pts_T,Sahdi
+339,2,02:22,JLE,43,39,substituicao_entra,A  Bambu
+340,2,02:22,JLE,43,39,substituicao_sai,Mathias
+341,2,02:22,JLE,43,39,substituicao_entra,J  Socas
+342,2,02:22,JLE,43,39,substituicao_sai,Starks
+343,2,02:22,SJO,43,39,FR,Hélio
+344,2,02:22,JLE,43,39,ER,Starks
+345,2,02:22,JLE,43,39,FC_O,Starks
+346,2,02:23,JLE,43,39,RD,Starks
+347,2,02:28,SJO,43,39,2_Pts_T,D  Nunes
+348,2,02:34,SJO,43,39,RO,São José
+349,2,02:34,JLE,43,39,TO,Starks
+350,2,02:34,SJO,43,39,2_Pts_T,Márcio
+351,2,02:35,SJO,43,39,RD,Hélio
+352,2,02:40,JLE,43,39,2_Pts_T,F  Vezaro
+353,2,02:56,SJO,43,39,AS,Márcio
+354,2,02:56,SJO,43,39,2_Pts_C,Mineiro
+355,2,03:20,SJO,41,39,RD,D  Nunes
+356,2,03:25,JLE,41,39,3_Pts_T,Starks
+357,2,03:33,JLE,41,39,BR,Mathias
+358,2,03:33,SJO,41,39,ER,Sahdi
+359,2,03:38,SJO,41,39,substituicao_entra,Hélio
+360,2,03:38,SJO,41,39,substituicao_sai,Coimbra
+361,2,03:38,SJO,41,39,substituicao_entra,Mineiro
+362,2,03:38,SJO,41,39,substituicao_sai,Dedé
+363,2,03:40,SJO,41,39,tempo_tecnico,São José
+364,2,03:40,JLE,41,39,2_Pts_C,F  Vezaro
+365,2,03:44,JLE,41,37,RD,Mathias
+366,2,03:50,SJO,41,37,2_Pts_T,Dedé
+367,2,04:08,JLE,41,37,2_Pts_C,Starks
+368,2,04:24,SJO,41,35,LL_Pts_C,Sahdi
+369,2,04:24,SJO,40,35,LL_Pts_C,Sahdi
+370,2,04:24,SJO,39,35,FR,Sahdi
+371,2,04:24,JLE,39,35,FC,Maxwell
+372,2,04:32,SJO,39,35,RD,Dedé
+373,2,04:36,JLE,39,35,3_Pts_T,Starks
+374,2,04:44,SJO,39,35,AS,Coimbra
+375,2,04:44,SJO,39,35,3_Pts_C,D  Nunes
+376,2,04:54,SJO,36,35,RD,Dedé
+377,2,04:58,JLE,36,35,2_Pts_T,Maxwell
+378,2,05:16,SJO,36,35,LL_Pts_C,Márcio
+379,2,05:16,SJO,35,35,LL_Pts_T,Márcio
+380,2,05:16,JLE,35,35,substituicao_entra,F  Vezaro
+381,2,05:16,JLE,35,35,substituicao_sai,Cook
+382,2,05:16,SJO,35,35,FR,Márcio
+383,2,05:16,JLE,35,35,FC,Cook
+384,2,05:40,JLE,35,35,ER,Mathias
+385,2,05:45,JLE,35,35,substituicao_entra,Maxwell
+386,2,05:45,JLE,35,35,substituicao_sai,A  Bambu
+387,2,05:48,SJO,35,35,substituicao_entra,Márcio
+388,2,05:48,SJO,35,35,substituicao_sai,Hélio
+389,2,05:48,SJO,35,35,substituicao_entra,Sahdi
+390,2,05:48,SJO,35,35,substituicao_sai,Pedro
+391,2,05:56,JLE,35,35,FR,Vezarinho
+392,2,05:56,SJO,35,35,FC,Pedro
+393,2,05:56,JLE,35,35,RO,Vezarinho
+394,2,05:56,JLE,35,35,2_Pts_T,Mathias
+395,2,06:00,JLE,35,35,FR,Mathias
+396,2,06:00,SJO,35,35,FC,Coimbra
+397,2,06:02,JLE,35,35,3_Pts_C,Starks
+398,2,06:05,JLE,35,32,substituicao_entra,Starks
+399,2,06:05,JLE,35,32,substituicao_sai,J  Socas
+400,2,06:05,JLE,35,32,FR,Mathias
+401,2,06:05,SJO,35,32,FC,D  Nunes
+402,2,06:12,JLE,35,32, AABJ ,Joinville 
+403,2,06:12,SJO,35,32,3_Pts_T,Hélio
+404,2,06:13,SJO,35,32,RO,Coimbra
+405,2,06:21,JLE,35,32,TO,A  Bambu
+406,2,06:21,SJO,35,32,2_Pts_T,D  Nunes
+407,2,06:37,JLE,35,32,,
+408,2,07:03,JLE,35,32,substituicao_entra,Vezarinho
+409,2,07:03,JLE,35,32,substituicao_sai,F  Vezaro
+410,2,07:07,JLE,35,32, AABJ ,Joinville 
+411,2,07:08,SJO,35,32,AS,Dedé
+412,2,07:08,SJO,35,32,2_Pts_C,Pedro
+413,2,07:09,SJO,33,32,RD,Dedé
+414,2,07:13,JLE,33,32,2_Pts_T,Cook
+415,2,07:19,JLE,33,32,RD,Mathias
+416,2,07:23,SJO,33,32,3_Pts_T,Hélio
+417,2,07:32,JLE,33,32,ER,
+418,2,07:33,JLE,33,32,RO,Mathias
+419,2,07:33,JLE,33,32,2_Pts_T,F  Vezaro
+420,2,07:42,SJO,33,32,substituicao_entra,D  Nunes
+421,2,07:42,SJO,33,32,substituicao_sai,Pastor
+422,2,07:42,JLE,33,32,FR,F  Vezaro
+423,2,07:42,SJO,33,32,FC,Pedro
+424,2,08:00,SJO,33,32,AS,Pastor
+425,2,08:00,SJO,33,32,2_Pts_C,Pedro
+426,2,08:06,SJO,31,32,BR,Pastor
+427,2,08:06,JLE,31,32,ER,J  Socas
+428,2,08:15,SJO,31,32,AS,Hélio
+429,2,08:15,SJO,31,32,2_Pts_C,Coimbra
+430,2,08:35,JLE,29,32,AS,F  Vezaro
+431,2,08:35,JLE,29,32,3_Pts_C,A  Bambu
+432,2,08:52,SJO,29,29,LL_Pts_C,Hélio
+433,2,08:52,SJO,28,29,LL_Pts_C,Hélio
+434,2,08:52,SJO,27,29,FR,Hélio
+435,2,08:52,JLE,27,29,FC,J  Socas
+436,2,09:04,SJO,27,29,FR,Pastor
+437,2,09:04,JLE,27,29,FC,A  Bambu
+438,2,09:04,SJO,27,29,RO,Pastor
+439,2,09:05,SJO,27,29,2_Pts_T,Coimbra
+440,2,09:16,SJO,27,29,BR,Coimbra
+441,2,09:16,JLE,27,29,ER,Cook
+442,2,09:19,JLE,27,29,RD,A  Bambu
+443,2,09:24,SJO,27,29,2_Pts_T,Dedé
+444,2,09:25,SJO,27,29,RO,Dedé
+445,2,09:29,SJO,27,29,2_Pts_T,Coimbra
+446,2,09:48,JLE,27,29,ER,J  Socas
+447,2,10:00,NaN,27,29,inicio_quarto,
+448,1,00:00,NaN,27,29,fim_quarto,
+449,1,00:08,SJO,27,29,RD,Coimbra
+450,1,00:08,JLE,27,29,3_Pts_T,J  Socas
+451,1,00:27,SJO,27,29,AS,Coimbra
+452,1,00:27,SJO,27,29,2_Pts_C,Hélio
+453,1,00:38,JLE,25,29,AS,Vezarinho
+454,1,00:38,JLE,25,29,2_Pts_C,A  Bambu
+455,1,00:52,SJO,25,27,3_Pts_C,Pedro
+456,1,00:56,SJO,22,27,RD,Dedé
+457,1,01:02,JLE,22,27,2_Pts_T,Vezarinho
+458,1,01:09,JLE,22,27,RO,F  Vezaro
+459,1,01:13,JLE,22,27,3_Pts_T,F  Vezaro
+460,1,01:29,SJO,22,27,LL_Pts_C,Coimbra
+461,1,01:29,SJO,21,27,LL_Pts_C,Coimbra
+462,1,01:29,SJO,20,27,FR,Coimbra
+463,1,01:29,JLE,20,27,FC,Mathias
+464,1,01:29,SJO,20,27,RO,Coimbra
+465,1,01:29,SJO,20,27,2_Pts_T,Pastor
+466,1,01:47,JLE,20,27,LL_Pts_C,Vezarinho
+467,1,01:47,JLE,20,26,LL_Pts_C,Vezarinho
+468,1,01:47,JLE,20,25,substituicao_entra,A  Bambu
+469,1,01:47,JLE,20,25,substituicao_sai,Colimerio
+470,1,01:47,JLE,20,25,FR,Vezarinho
+471,1,01:47,SJO,20,25,FC,Hélio
+472,1,01:56,SJO,20,25,AS,Pedro
+473,1,01:56,SJO,20,25,2_Pts_C,Coimbra
+474,1,02:11,SJO,18,25,RD,Coimbra
+475,1,02:13,JLE,18,25,LL_Pts_T,F  Vezaro
+476,1,02:13,JLE,18,25,LL_Pts_C,F  Vezaro
+477,1,02:13,JLE,18,24,FR,F  Vezaro
+478,1,02:13,SJO,18,24,FC,Dedé
+479,1,02:24,SJO,18,24,,
+480,1,02:33,JLE,18,24,substituicao_entra,J  Socas
+481,1,02:33,JLE,18,24,substituicao_sai,Starks
+482,1,02:33,JLE,18,24,substituicao_entra,F  Vezaro
+483,1,02:33,JLE,18,24,substituicao_sai,Weihermann
+484,1,02:33,SJO,18,24,FR,Dedé
+485,1,02:33,JLE,18,24,FC,Weihermann
+486,1,02:35,JLE,18,24,substituicao_entra,Mathias
+487,1,02:35,JLE,18,24,substituicao_sai,Maxwell
+488,1,02:35,SJO,18,24,substituicao_entra,Pedro
+489,1,02:35,SJO,18,24,substituicao_sai,Sahdi
+490,1,02:35,SJO,18,24,RO,São José
+491,1,02:37,SJO,18,24,LL_Pts_T,Dedé
+492,1,02:37,SJO,18,24,AS,Hélio
+493,1,02:37,SJO,18,24,LL_Pts_C,Dedé
+494,1,02:37,JLE,17,24,substituicao_entra,Colimerio
+495,1,02:37,JLE,17,24,substituicao_sai,Mathias
+496,1,02:37,SJO,17,24,FR,Dedé
+497,1,02:37,JLE,17,24,FC,Weihermann
+498,1,02:43,SJO,17,24,FR,Pastor
+499,1,02:43,JLE,17,24,FC,Weihermann
+500,1,02:57,JLE,17,24,3_Pts_C,Starks
+501,1,03:09,SJO,17,21,LL_Pts_C,Hélio
+502,1,03:09,SJO,16,21,FR,Hélio
+503,1,03:09,JLE,16,21,FC,Starks
+504,1,03:13,SJO,16,21,2_Pts_C,Hélio
+505,1,03:23,SJO,14,21,substituicao_entra,Coimbra
+506,1,03:23,SJO,14,21,substituicao_sai,Mineiro
+507,1,03:29,JLE,14,21,substituicao_entra,Vezarinho
+508,1,03:29,JLE,14,21,substituicao_sai,Cook
+509,1,03:36,JLE,14,21,LL_Pts_C,Weihermann
+510,1,03:36,JLE,14,20,FR,Weihermann
+511,1,03:36,SJO,14,20,FC,Mineiro
+512,1,03:36,JLE,14,20,2_Pts_C,Weihermann
+513,1,03:48,JLE,14,18,RD,Mathias
+514,1,03:52,SJO,14,18,2_Pts_T,Hélio
+515,1,04:01,SJO,14,18,substituicao_entra,Dedé
+516,1,04:01,SJO,14,18,substituicao_sai,Márcio
+517,1,04:16,JLE,14,18, AABJ ,Joinville 
+518,1,04:16,JLE,14,18,LL_Pts_T,Weihermann
+519,1,04:16,SJO,14,18,substituicao_entra,Hélio
+520,1,04:16,SJO,14,18,substituicao_sai,Pedro
+521,1,04:16,JLE,14,18,FR,Weihermann
+522,1,04:16,SJO,14,18,FC,Márcio
+523,1,04:16,JLE,14,18,AS,Cook
+524,1,04:16,JLE,14,18,3_Pts_C,Weihermann
+525,1,04:33,JLE,14,15,FR,Mathias
+526,1,04:33,SJO,14,15,FC,Pastor
+527,1,04:33,JLE,14,15, AABJ ,Joinville 
+528,1,04:33,SJO,14,15,3_Pts_T,Sahdi
+529,1,04:48,JLE,14,15,substituicao_entra,Maxwell
+530,1,04:48,JLE,14,15,substituicao_sai,A  Bambu
+531,1,04:48,JLE,14,15,substituicao_entra,Starks
+532,1,04:48,JLE,14,15,substituicao_sai,J  Socas
+533,1,04:48,JLE,14,15,substituicao_entra,Weihermann
+534,1,04:48,JLE,14,15,substituicao_sai,F  Vezaro
+535,1,04:48,SJO,14,15,substituicao_entra,Pastor
+536,1,04:48,SJO,14,15,substituicao_sai,D  Nunes
+537,1,04:54,JLE,14,15,2_Pts_C,Cook
+538,1,04:59,JLE,14,13,BR,Cook
+539,1,04:59,SJO,14,13,ER,Mineiro
+540,1,05:14,JLE,14,13,2_Pts_C,Mathias
+541,1,05:34,SJO,14,11,2_Pts_C,D  Nunes
+542,1,05:53,JLE,12,11,AS,F  Vezaro
+543,1,05:53,JLE,12,11,2_Pts_C,J  Socas
+544,1,05:59,JLE,12,9,BR,F  Vezaro
+545,1,05:59,SJO,12,9,ER,D  Nunes
+546,1,06:13,JLE,12,9,2_Pts_C,J  Socas
+547,1,06:27,JLE,12,7,FR,J  Socas
+548,1,06:27,SJO,12,7,FC,Mineiro
+549,1,06:34,SJO,12,7,AS,Sahdi
+550,1,06:34,SJO,12,7,2_Pts_C,Mineiro
+551,1,06:56,JLE,10,7,LL_Pts_C,Cook
+552,1,06:56,JLE,10,6,FR,Cook
+553,1,06:56,SJO,10,6,FC,D  Nunes
+554,1,06:56,JLE,10,6,2_Pts_C,Cook
+555,1,07:07,SJO,10,4,AS,Sahdi
+556,1,07:07,SJO,10,4,3_Pts_C,Pedro
+557,1,07:27,JLE,7,4,AS,Cook
+558,1,07:27,JLE,7,4,2_Pts_C,Mathias
+559,1,07:48,SJO,7,2,3_Pts_C,Sahdi
+560,1,08:04,JLE,4,2,2_Pts_C,F  Vezaro
+561,1,08:09,JLE,4,0,BR,F  Vezaro
+562,1,08:09,SJO,4,0,ER,D  Nunes
+563,1,08:24,JLE,4,0,ER,Mathias
+564,1,08:49,SJO,4,0,2_Pts_C,Pedro
+565,1,09:04,SJO,2,0,BR,Mineiro
+566,1,09:04,JLE,2,0,ER,Mathias
+567,1,09:12,JLE,2,0, AABJ ,Joinville 
+568,1,09:14,JLE,2,0,2_Pts_T,A  Bambu
+569,1,09:36,SJO,2,0,AS,Pedro
+570,1,09:36,SJO,2,0,2_Pts_C,Mineiro
+571,1,10:00,JLE,0,0,substituicao_entra,J  Socas
+572,1,10:00,JLE,0,0,substituicao_entra,A  Bambu
+573,1,10:00,JLE,0,0,substituicao_entra,Mathias
+574,1,10:00,JLE,0,0,substituicao_entra,F  Vezaro
+575,1,10:00,JLE,0,0,substituicao_entra,Cook
+576,1,10:00,SJO,0,0,substituicao_entra,Mineiro
+577,1,10:00,SJO,0,0,substituicao_entra,D  Nunes
+578,1,10:00,SJO,0,0,substituicao_entra,Márcio
+579,1,10:00,SJO,0,0,substituicao_entra,Pedro
+580,1,10:00,SJO,0,0,substituicao_entra,Sahdi
+581,1,10:00,NaN,0,0,inicio_partida,

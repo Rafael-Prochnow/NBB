@@ -1,0 +1,603 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,,77,92,fim_partida, 
+1,4,00:03,PIN,77,92,AS,Scaglia 
+2,4,00:06,PIN,77,92,2_Pts_C,Ansaloni 
+3,4,00:10,PIN,75,92,RD,Scaglia 
+4,4,00:12,CAP,75,92,3_Pts_T,Arthur Pecos 
+5,4,00:30,PIN,75,92,AS,Cauê 
+6,4,00:33,PIN,75,92,EN,Ansaloni
+7,4,00:38,PIN,73,92,substituicao_entra,Cauê 
+8,4,00:38,PIN,73,92,substituicao_sai,Gemerson 
+9,4,00:38,CAP,73,92,LL_Pts_C,Luis Ferdo 
+10,4,00:38,CAP,73,91,LL_Pts_C,Luis Ferdo 
+11,4,00:38,CAP,73,90,FR,Luis Ferdo 
+12,4,00:38,PIN,73,90,FC,Gemerson 
+13,4,00:43,PIN,73,90,AS,Gemerson 
+14,4,00:45,PIN,73,90,3_Pts_C,Ruivo 
+15,4,00:56,CAP,70,90,3_Pts_C,De Paula 
+16,4,01:16,PIN,70,87,AS,Ruivo 
+17,4,01:19,PIN,70,87,3_Pts_C,Gemerson 
+18,4,01:36,CAP,67,87,substituicao_entra,Victor André 
+19,4,01:36,CAP,67,87,substituicao_sai,Jhonatan 
+20,4,01:36,CAP,67,87,LL_Pts_C,De Paula 
+21,4,01:36,CAP,67,86,LL_Pts_C,De Paula 
+22,4,01:36,CAP,67,85,FR,De Paula 
+23,4,01:36,PIN,67,85,FC,Mathias 
+24,4,01:47,PIN,67,85,FR,Ansaloni 
+25,4,01:47,CAP,67,85,FC,Guilherme 
+26,4,01:47,CAP,67,85,FR,Guilherme 
+27,4,01:47,PIN,67,85,FC,Ansaloni 
+28,4,01:48,CAP,67,85,3_Pts_T,Jhonatan 
+29,4,02:09,PIN,67,85,AS,Mathias 
+30,4,02:11,PIN,67,85,2_Pts_C,Gemerson 
+31,4,02:21,PIN,65,85,RD,Gemerson 
+32,4,02:22,CAP,65,85,2_Pts_T,Arthur Pecos 
+33,4,02:42,CAP,65,85,substituicao_entra,Luis Ferdo 
+34,4,02:42,CAP,65,85,substituicao_sai,Hure 
+35,4,02:42,PIN,65,85,substituicao_entra,Scaglia 
+36,4,02:42,PIN,65,85,substituicao_sai,Bennett 
+37,4,02:44,PIN,65,85,AS,Bennett 
+38,4,02:47,PIN,65,85,2_Pts_C,Mathias 
+39,4,02:56,CAP,63,85,LL_Pts_C,De Paula 
+40,4,02:56,CAP,63,84,LL_Pts_C,De Paula 
+41,4,02:56,CAP,63,83,FR,De Paula 
+42,4,02:56,PIN,63,83,FC,Ruivo 
+43,4,02:59,PIN,63,83,2_Pts_C,Ruivo 
+44,4,03:13,CAP,61,83,LL_Pts_C,Arthur Pecos 
+45,4,03:13,CAP,61,82,LL_Pts_C,Arthur Pecos 
+46,4,03:13,PIN,61,81,substituicao_entra,Ansaloni 
+47,4,03:13,PIN,61,81,substituicao_sai,Re 
+48,4,03:13,CAP,61,81,substituicao_entra,Hure 
+49,4,03:13,CAP,61,81,substituicao_sai,Renato 
+50,4,03:13,CAP,61,81,FR,Arthur Pecos 
+51,4,03:13,PIN,61,81,FC,Re 
+52,4,03:20,CAP,61,81,RO,Jhonatan 
+53,4,03:22,CAP,61,81,2_Pts_T,Arthur Pecos 
+54,4,03:52,PIN,61,81,2_Pts_C,Re 
+55,4,04:05,PIN,59,81,substituicao_entra,Mathias 
+56,4,04:05,PIN,59,81,substituicao_sai,Teichmann 
+57,4,04:05,CAP,59,81,substituicao_entra,Guilherme 
+58,4,04:05,CAP,59,81,substituicao_sai,Luis Ferdo 
+59,4,04:05,CAP,59,81,LL_Pts_C,Arthur Pecos 
+60,4,04:05,CAP,59,80,LL_Pts_C,Arthur Pecos 
+61,4,04:05,PIN,59,79,substituicao_entra,Ruivo 
+62,4,04:05,PIN,59,79,substituicao_sai,Holloway 
+63,4,04:05,CAP,59,79,FR,Arthur Pecos 
+64,4,04:05,PIN,59,79,FC,Holloway 
+65,4,04:07,CAP,59,79,substituicao_entra,Luis Ferdo 
+66,4,04:07,CAP,59,79,substituicao_sai,Hure 
+67,4,04:07,CAP,59,79,FR,Arthur Pecos 
+68,4,04:07,PIN,59,79,FC,Holloway 
+69,4,04:23,PIN,59,79,3_Pts_C,Gemerson 
+70,4,04:41,CAP,56,79,2_Pts_C,Hure 
+71,4,05:02,PIN,56,77,2_Pts_C,Bennett 
+72,4,05:12,CAP,54,77,substituicao_entra,Jhonatan 
+73,4,05:12,CAP,54,77,substituicao_sai,Lucas Dias 
+74,4,05:12,CAP,54,77,ER,De Paula comete violação de volta de quadra 
+75,4,05:28,CAP,54,77,RD,Hure 
+76,4,05:30,PIN,54,77,2_Pts_T,Holloway 
+77,4,05:38,PIN,54,77, RO,Pinheiros
+78,4,05:38,CAP,54,77,TO,De Paula 
+79,4,05:38,PIN,54,77,2_Pts_T,Gemerson 
+80,4,05:39,PIN,54,77,BR,Gemerson 
+81,4,05:41,CAP,54,77,ER,Hure 
+82,4,05:43,CAP,54,77,BR,Hure 
+83,4,05:45,PIN,54,77,ER,Gemerson 
+84,4,05:59,PIN,54,77,substituicao_entra,Bennett 
+85,4,05:59,PIN,54,77,substituicao_sai,Neto 
+86,4,05:59,CAP,54,77,substituicao_entra,Renato 
+87,4,05:59,CAP,54,77,substituicao_sai,Jhonatan 
+88,4,05:59,PIN,54,77,tempo_tecnico,Pinheiros
+89,4,06:01,CAP,54,77,AS,Arthur Pecos 
+90,4,06:02,CAP,54,77,3_Pts_C,Hure 
+91,4,06:23,CAP,54,74,RD,Lucas Dias 
+92,4,06:25,PIN,54,74,2_Pts_T,Re 
+93,4,06:37,CAP,54,74,2_Pts_C,Hure 
+94,4,07:03,PIN,54,72,2_Pts_C,Re 
+95,4,07:20,CAP,52,72,LL_Pts_C,De Paula 
+96,4,07:20,CAP,52,71,substituicao_entra,Lucas Dias 
+97,4,07:20,CAP,52,71,substituicao_sai,Renato 
+98,4,07:20,CAP,52,71,FR,De Paula 
+99,4,07:20,PIN,52,71,FC,Holloway 
+100,4,07:20,CAP,52,71,2_Pts_C,De Paula 
+101,4,07:29,PIN,52,69,EN,Re
+102,4,07:32,PIN,50,69,BR,Re 
+103,4,07:35,CAP,50,69,ER,Renato 
+104,4,07:45,CAP,50,69,RD,Hure 
+105,4,07:47,PIN,50,69,3_Pts_T,Gemerson 
+106,4,07:50,PIN,50,69,RO,Re 
+107,4,07:51,PIN,50,69,LL_Pts_T,Teichmann 
+108,4,07:51,PIN,50,69,LL_Pts_T,Teichmann 
+109,4,07:51,PIN,50,69,FR,Teichmann 
+110,4,07:51,CAP,50,69,FC,De Paula 
+111,4,07:51,PIN,50,69,BR,Teichmann 
+112,4,07:54,CAP,50,69,ER,Arthur Pecos 
+113,4,08:13,PIN,50,69,2_Pts_C,Holloway 
+114,4,08:16,PIN,48,69,RO,Holloway 
+115,4,08:17,PIN,48,69,2_Pts_T,Neto 
+116,4,08:29,CAP,48,69,AS,Renato 
+117,4,08:31,CAP,48,69,3_Pts_C,Arthur Pecos 
+118,4,08:50,PIN,48,66,2_Pts_C,Re 
+119,4,08:54,PIN,46,66,FR,Gemerson 
+120,4,08:54,CAP,46,66,FC,De Paula 
+121,4,08:58,PIN,46,66,FR,Teichmann 
+122,4,08:58,CAP,46,66,FC,Hure 
+123,4,09:10,CAP,46,66,AS,Arthur Pecos 
+124,4,09:10,CAP,46,66,LL_Pts_C,Hure 
+125,4,09:10,CAP,46,65,LL_Pts_C,Hure 
+126,4,09:10,CAP,46,64,FR,Hure 
+127,4,09:10,PIN,46,64,FC,Re 
+128,4,09:22,PIN,46,64,substituicao_entra,Re 
+129,4,09:22,PIN,46,64,substituicao_sai,Bennett 
+130,4,09:22,CAP,46,64,FR,Hure 
+131,4,09:22,PIN,46,64,FC,Teichmann 
+132,4,09:22,CAP,46,64,BR,Hure 
+133,4,09:22,PIN,46,64,ER,Neto 
+134,4,09:30,PIN,46,64,FR,Gemerson 
+135,4,09:30,CAP,46,64,FC,Jhonatan 
+136,4,09:38,CAP,46,64,AS,De Paula 
+137,4,09:39,CAP,46,64,2_Pts_C,Arthur Pecos 
+138,4,10:00,,46,62,inicio_quarto,
+139,4,10:00,CAP,46,62,LL_Pts_C,Arthur Pecos 
+140,4,10:00,PIN,46,61, FC_T,Técnico do Pinheiros
+141,3,00:00,CAP,46,61,substituicao_sai,De Paula 
+142,3,00:00,CAP,46,61,substituicao_sai,Renato 
+143,3,00:00,CAP,46,61,substituicao_sai,Arthur Pecos 
+144,3,00:00,CAP,46,61,substituicao_sai,Victor André 
+145,3,00:00,CAP,46,61,substituicao_sai,Luis Ferdo 
+146,3,00:00,PIN,46,61,substituicao_sai,Neto 
+147,3,00:00,PIN,46,61,substituicao_sai,Teichmann 
+148,3,00:00,PIN,46,61,substituicao_sai,Gemerson 
+149,3,00:00,PIN,46,61,substituicao_sai,Ruivo 
+150,3,00:00,PIN,46,61,substituicao_sai,Scaglia 
+151,3,00:00,,46,61,fim_quarto,
+152,3,00:12,PIN,46,61,substituicao_entra,Scaglia 
+153,3,00:12,PIN,46,61,substituicao_sai,Holloway 
+154,3,00:14,PIN,46,61,RD,Neto 
+155,3,00:14,CAP,46,61,2_Pts_T,Arthur Pecos 
+156,3,00:19,PIN,46,61,substituicao_entra,Ruivo 
+157,3,00:19,PIN,46,61,substituicao_sai,Bennett 
+158,3,00:21,PIN,46,61,LL_Pts_C,Bennett 
+159,3,00:21,PIN,45,61,LL_Pts_T,Bennett 
+160,3,00:21,CAP,45,61,substituicao_entra,De Paula 
+161,3,00:21,CAP,45,61,substituicao_sai,Lucas Dias 
+162,3,00:21,CAP,45,61,LL_Pts_T,Lucas Dias 
+163,3,00:21,CAP,45,61,LL_Pts_T,Lucas Dias 
+164,3,00:21,CAP,45,61,substituicao_entra,Renato 
+165,3,00:21,CAP,45,61,substituicao_sai,Guilherme 
+166,3,00:21,CAP,45,61,FR,Lucas Dias 
+167,3,00:21,PIN,45,61,FC_A,Bennett 
+168,3,00:21,PIN,45,61,FR,Bennett 
+169,3,00:21,CAP,45,61,FC,Lucas Dias 
+170,3,00:27,CAP,45,61,substituicao_entra,Guilherme 
+171,3,00:27,CAP,45,61,substituicao_sai,Hure 
+172,3,00:27,CAP,45,61,LL_Pts_C,Arthur Pecos 
+173,3,00:27,CAP,45,60,LL_Pts_C,Arthur Pecos 
+174,3,00:27,CAP,45,59,substituicao_entra,Victor André 
+175,3,00:27,CAP,45,59,substituicao_sai,Renato 
+176,3,00:27,CAP,45,59,FR,Arthur Pecos 
+177,3,00:27,PIN,45,59,FC,Bennett 
+178,3,00:29,CAP,45,59,RO,Lucas Dias 
+179,3,00:31,CAP,45,59,3_Pts_T,Luis Ferdo 
+180,3,00:35,CAP,45,59,BR,Lucas Dias 
+181,3,00:37,PIN,45,59,ER,Neto 
+182,3,00:44,PIN,45,59,RD,Gemerson 
+183,3,00:46,CAP,45,59,2_Pts_T,Luis Ferdo 
+184,3,01:05,CAP,45,59,RD,Hure 
+185,3,01:07,PIN,45,59,2_Pts_T,Teichmann 
+186,3,01:10,PIN,45,59,RO,Teichmann 
+187,3,01:12,PIN,45,59,3_Pts_T,Neto 
+188,3,01:15,PIN,45,59, RO,Pinheiros
+189,3,01:15,CAP,45,59,TO,Hure 
+190,3,01:15,PIN,45,59,2_Pts_T,Bennett 
+191,3,01:26,CAP,45,59,LL_Pts_C,Arthur Pecos 
+192,3,01:26,CAP,45,58,LL_Pts_C,Arthur Pecos 
+193,3,01:26,CAP,45,57,substituicao_entra,Luis Ferdo 
+194,3,01:26,CAP,45,57,substituicao_sai,De Paula 
+195,3,01:26,CAP,45,57,FR,Arthur Pecos 
+196,3,01:26,PIN,45,57,FC,Gemerson 
+197,3,01:33,CAP,45,57,RO,Arthur Pecos 
+198,3,01:36,CAP,45,57,2_Pts_T,Arthur Pecos 
+199,3,01:59,PIN,45,57,LL_Pts_C,Neto 
+200,3,01:59,PIN,44,57,LL_Pts_T,Neto 
+201,3,01:59,CAP,44,57,substituicao_entra,Lucas Dias 
+202,3,01:59,CAP,44,57,substituicao_sai,Jhonatan 
+203,3,01:59,PIN,44,57,FR,Neto 
+204,3,01:59,CAP,44,57,FC,Hure 
+205,3,02:14,CAP,44,57,substituicao_entra,Renato 
+206,3,02:14,CAP,44,57,substituicao_sai,Victor André 
+207,3,02:14,CAP,44,57,ER,Arthur Pecos 
+208,3,02:24,PIN,44,57,LL_Pts_C,Bennett 
+209,3,02:24,PIN,43,57,LL_Pts_T,Bennett 
+210,3,02:24,PIN,43,57,FR,Bennett 
+211,3,02:24,CAP,43,57,FC,Jhonatan 
+212,3,02:30,PIN,43,57,RD,Teichmann 
+213,3,02:31,CAP,43,57,LL_Pts_T,Arthur Pecos 
+214,3,02:31,CAP,43,57,LL_Pts_C,Arthur Pecos 
+215,3,02:31,CAP,43,56,FR,Arthur Pecos 
+216,3,02:31,PIN,43,56,FC,Bennett 
+217,3,02:42,PIN,43,56,substituicao_entra,Teichmann 
+218,3,02:42,PIN,43,56,substituicao_entra,Gemerson 
+219,3,02:42,PIN,43,56,substituicao_sai,Re 
+220,3,02:42,PIN,43,56,substituicao_sai,Ansaloni 
+221,3,02:42,PIN,43,56,ER,Neto andou com a bola 
+222,3,02:55,PIN,43,56,RD,Re 
+223,3,02:56,CAP,43,56,LL_Pts_T,Arthur Pecos 
+224,3,02:56,CAP,43,56,LL_Pts_C,Arthur Pecos 
+225,3,02:56,CAP,43,55,FR,Arthur Pecos 
+226,3,02:56,PIN,43,55,FC,Holloway 
+227,3,02:56,PIN,43,55,3_Pts_T,Neto 
+228,3,02:59,CAP,43,55,substituicao_entra,Victor André 
+229,3,02:59,CAP,43,55,substituicao_sai,Renato 
+230,3,02:59,CAP,43,55,substituicao_entra,Jhonatan 
+231,3,02:59,CAP,43,55,substituicao_sai,Lucas Dias 
+232,3,02:59,PIN,43,55,FR,Neto 
+233,3,02:59,CAP,43,55,FC,Lucas Dias 
+234,3,03:16,CAP,43,55,2_Pts_C,Arthur Pecos 
+235,3,03:19,CAP,43,53,RD,Renato 
+236,3,03:21,PIN,43,53,2_Pts_T,Holloway 
+237,3,03:37,CAP,43,53,AS,Lucas Dias 
+238,3,03:41,CAP,43,53,2_Pts_C,Hure 
+239,3,04:00,CAP,43,51,BR,De Paula 
+240,3,04:02,PIN,43,51,ER,Bennett 
+241,3,04:11,PIN,43,51,RD,Holloway 
+242,3,04:12,PIN,43,51,TO,Re 
+243,3,04:15,CAP,43,51,3_Pts_T,Hure 
+244,3,04:37,PIN,43,51,LL_Pts_C,Holloway 
+245,3,04:37,PIN,42,51,LL_Pts_T,Holloway 
+246,3,04:37,PIN,42,51,FR,Holloway 
+247,3,04:37,CAP,42,51,FC,Arthur Pecos 
+248,3,04:51,PIN,42,51,RD,Ansaloni 
+249,3,04:53,CAP,42,51,2_Pts_T,De Paula 
+250,3,04:56,CAP,42,51,RO,Renato 
+251,3,04:57,CAP,42,51,LL_Pts_T,De Paula 
+252,3,04:57,CAP,42,51,LL_Pts_C,De Paula 
+253,3,04:57,CAP,42,50,substituicao_entra,Arthur Pecos 
+254,3,04:57,CAP,42,50,substituicao_entra,Lucas Dias 
+255,3,04:57,CAP,42,50,substituicao_sai,Jhonatan 
+256,3,04:57,CAP,42,50,substituicao_sai,Luis Ferdo 
+257,3,04:57,CAP,42,50,FR,De Paula 
+258,3,04:57,PIN,42,50,FC,Bennett 
+259,3,04:57,CAP,42,50,RO,De Paula 
+260,3,04:57,CAP,42,50,2_Pts_T,De Paula 
+261,3,04:57,CAP,42,50,RO,De Paula 
+262,3,04:58,CAP,42,50,2_Pts_T,De Paula 
+263,3,05:11,PIN,42,50,AS,Bennett 
+264,3,05:15,PIN,42,50,EN,Re
+265,3,05:18,PIN,40,50,BR,Bennett 
+266,3,05:20,CAP,40,50,ER,Luis Ferdo 
+267,3,05:38,PIN,40,50,AS,Neto 
+268,3,05:43,PIN,40,50,2_Pts_C,Holloway 
+269,3,05:46,PIN,38,50,BR,Neto 
+270,3,05:47,CAP,38,50,ER,Jhonatan 
+271,3,06:06,CAP,38,50,BR,De Paula 
+272,3,06:08,PIN,38,50,ER,Neto 
+273,3,06:17,PIN,38,50,RD,Ansaloni 
+274,3,06:19,CAP,38,50,3_Pts_T,Hure 
+275,3,06:24,CAP,38,50,RD,De Paula 
+276,3,06:26,PIN,38,50,3_Pts_T,Re 
+277,3,06:51,CAP,38,50,2_Pts_C,De Paula 
+278,3,07:05,PIN,38,48,AS,Re 
+279,3,07:08,PIN,38,48,2_Pts_C,Ansaloni 
+280,3,07:20,CAP,36,48,substituicao_entra,Hure 
+281,3,07:20,CAP,36,48,substituicao_sai,Guilherme 
+282,3,07:20,CAP,36,48,ER,Guilherme andou com a bola 
+283,3,07:25,CAP,36,48,FR,Renato 
+284,3,07:25,PIN,36,48,FC,Re 
+285,3,07:27,CAP,36,48, RO,Paulistano
+286,3,07:31,CAP,36,48,2_Pts_T,Luis Ferdo 
+287,3,07:50,CAP,36,48,FR,Renato 
+288,3,07:50,PIN,36,48,FC,Re 
+289,3,07:58,PIN,36,48,2_Pts_C,Neto 
+290,3,08:12,CAP,34,48,AS,Guilherme 
+291,3,08:14,CAP,34,48,2_Pts_C,Renato 
+292,3,08:28,PIN,34,46,ER,Ansaloni 
+293,3,08:34,PIN,34,46,RD,Ansaloni 
+294,3,08:35,CAP,34,46,2_Pts_T,Guilherme 
+295,3,08:38,CAP,34,46,RO,Guilherme 
+296,3,08:40,CAP,34,46,2_Pts_T,Jhonatan 
+297,3,08:42,CAP,34,46,RO,Jhonatan 
+298,3,08:44,CAP,34,46,2_Pts_T,Luis Ferdo 
+299,3,08:53,CAP,34,46,FR,Jhonatan 
+300,3,08:53,PIN,34,46,FC,Ansaloni 
+301,3,08:59,CAP,34,46,RD,Jhonatan 
+302,3,09:02,PIN,34,46,3_Pts_T,Neto 
+303,3,09:23,CAP,34,46,AS,Renato 
+304,3,09:24,CAP,34,46,3_Pts_C,Jhonatan 
+305,3,09:43,PIN,34,43,AS,Bennett 
+306,3,09:43,PIN,34,43,LL_Pts_C,Ansaloni 
+307,3,09:43,PIN,33,43,LL_Pts_C,Ansaloni 
+308,3,09:43,PIN,32,43,FR,Ansaloni 
+309,3,09:43,CAP,32,43,FC,Guilherme 
+310,3,10:00,,32,43,inicio_quarto,
+311,2,00:00,PIN,32,43,substituicao_sai,Re 
+312,2,00:00,PIN,32,43,substituicao_sai,Teichmann 
+313,2,00:00,PIN,32,43,substituicao_sai,Gemerson 
+314,2,00:00,PIN,32,43,substituicao_sai,Ruivo 
+315,2,00:00,PIN,32,43,substituicao_sai,Bennett 
+316,2,00:00,CAP,32,43,substituicao_sai,De Paula 
+317,2,00:00,CAP,32,43,substituicao_sai,Renato 
+318,2,00:00,CAP,32,43,substituicao_sai,Arthur Pecos 
+319,2,00:00,CAP,32,43,substituicao_sai,Lucas Dias 
+320,2,00:00,CAP,32,43,substituicao_sai,Jhonatan 
+321,2,00:00,,32,43,fim_quarto,
+322,2,00:05,CAP,32,43,RD,Renato 
+323,2,00:08,PIN,32,43,3_Pts_T,Ruivo 
+324,2,00:26,CAP,32,43,2_Pts_C,Lucas Dias 
+325,2,00:37,PIN,32,41,substituicao_entra,Ruivo 
+326,2,00:37,PIN,32,41,substituicao_sai,Neto 
+327,2,00:37,PIN,32,41,substituicao_entra,Teichmann 
+328,2,00:37,PIN,32,41,substituicao_sai,Ansaloni 
+329,2,00:37,CAP,32,41,tempo_tecnico,Paulistano
+330,2,00:37,CAP,32,41,BR,Renato 
+331,2,00:37,PIN,32,41,ER,Ansaloni 
+332,2,00:39,PIN,32,41,substituicao_entra,Ansaloni 
+333,2,00:39,PIN,32,41,substituicao_sai,Mathias 
+334,2,00:39,PIN,32,41,tempo_tecnico,Pinheiros
+335,2,00:55,CAP,32,41,EN,Renato
+336,2,00:57,CAP,32,39,RO,Renato 
+337,2,01:01,PIN,32,39,TO,Mathias 
+338,2,01:03,CAP,32,39,2_Pts_T,De Paula 
+339,2,01:11,CAP,32,39,substituicao_entra,Lucas Dias 
+340,2,01:11,CAP,32,39,substituicao_sai,Hure 
+341,2,01:11,PIN,32,39,substituicao_entra,Re 
+342,2,01:11,PIN,32,39,substituicao_sai,Teichmann 
+343,2,01:11,CAP,32,39,FR,Renato 
+344,2,01:11,PIN,32,39,FC,Mathias 
+345,2,01:21,PIN,32,39,AS,Neto 
+346,2,01:24,PIN,32,39,2_Pts_C,Mathias 
+347,2,01:33,PIN,30,39,RD,Teichmann 
+348,2,01:35,CAP,30,39,2_Pts_T,Arthur Pecos 
+349,2,01:43,CAP,30,39,BR,De Paula 
+350,2,01:45,PIN,30,39,ER,Gemerson 
+351,2,01:49,PIN,30,39,RD,Gemerson 
+352,2,01:51,CAP,30,39,2_Pts_T,Jhonatan 
+353,2,01:51,CAP,30,39,RO,Jhonatan 
+354,2,01:55,CAP,30,39,2_Pts_T,De Paula 
+355,2,02:10,PIN,30,39,substituicao_entra,Bennett 
+356,2,02:10,PIN,30,39,substituicao_sai,Holloway 
+357,2,02:10,CAP,30,39,FR,De Paula 
+358,2,02:10,PIN,30,39,FC,Holloway 
+359,2,02:10,CAP,30,39,BR,De Paula 
+360,2,02:10,PIN,30,39,ER,Gemerson 
+361,2,02:22,CAP,30,39,AS,De Paula 
+362,2,02:27,CAP,30,39,2_Pts_C,Hure 
+363,2,02:29,CAP,30,37,BR,De Paula 
+364,2,02:31,PIN,30,37,ER,Holloway 
+365,2,02:47,CAP,30,37,2_Pts_C,Arthur Pecos 
+366,2,02:59,CAP,30,35, RD,Paulistano
+367,2,03:00,PIN,30,35,2_Pts_T,Holloway 
+368,2,03:23,PIN,30,35,RD,Teichmann 
+369,2,03:25,CAP,30,35,3_Pts_T,Arthur Pecos 
+370,2,03:36,CAP,30,35,substituicao_entra,Renato 
+371,2,03:36,CAP,30,35,substituicao_sai,Guilherme 
+372,2,03:40,PIN,30,35,2_Pts_C,Gemerson 
+373,2,03:40,PIN,28,35,RO,Gemerson 
+374,2,03:43,PIN,28,35,2_Pts_T,Neto 
+375,2,03:46,PIN,28,35,BR,Neto 
+376,2,03:48,CAP,28,35,ER,Hure 
+377,2,04:03,CAP,28,35,substituicao_entra,Jhonatan 
+378,2,04:03,CAP,28,35,substituicao_sai,Lucas Dias 
+379,2,04:03,CAP,28,35,tempo_tecnico,Paulistano
+380,2,04:03,PIN,28,35,2_Pts_C,Holloway 
+381,2,04:16,PIN,26,35,RD,Teichmann 
+382,2,04:18,CAP,26,35,3_Pts_T,De Paula 
+383,2,04:34,PIN,26,35,2_Pts_C,Gemerson 
+384,2,04:46,CAP,24,35,AS,Hure 
+385,2,04:51,CAP,24,35,2_Pts_C,De Paula 
+386,2,04:57,CAP,24,33,BR,Lucas Dias 
+387,2,04:59,PIN,24,33,ER,Holloway 
+388,2,05:04,PIN,24,33,RD,Holloway 
+389,2,05:06,CAP,24,33,3_Pts_T,Lucas Dias 
+390,2,05:12,CAP,24,33,RD,De Paula 
+391,2,05:14,PIN,24,33,LL_Pts_T,Teichmann 
+392,2,05:14,PIN,24,33,LL_Pts_C,Teichmann 
+393,2,05:14,PIN,23,33,FR,Teichmann 
+394,2,05:14,CAP,23,33,FC,Hure 
+395,2,05:33,CAP,23,33,ER,Guilherme 
+396,2,05:45,CAP,23,33,substituicao_entra,Arthur Pecos 
+397,2,05:45,CAP,23,33,substituicao_sai,Jhonatan 
+398,2,05:45,CAP,23,33,FR,De Paula 
+399,2,05:45,PIN,23,33,FC,Mathias 
+400,2,05:45,CAP,23,33,BR,De Paula 
+401,2,05:45,PIN,23,33,ER,Neto 
+402,2,05:56,CAP,23,33,AS,De Paula 
+403,2,06:00,CAP,23,33,3_Pts_C,Lucas Dias 
+404,2,06:06,CAP,23,30,RD,De Paula 
+405,2,06:07,PIN,23,30,3_Pts_T,Neto 
+406,2,06:24,CAP,23,30,substituicao_entra,Guilherme 
+407,2,06:24,CAP,23,30,substituicao_sai,Renato 
+408,2,06:24,PIN,23,30,substituicao_entra,Gemerson 
+409,2,06:24,PIN,23,30,substituicao_sai,Bennett 
+410,2,06:24,PIN,23,30,FR,Neto 
+411,2,06:24,CAP,23,30,FC,Lucas Dias 
+412,2,06:27,PIN,23,30,BR,Teichmann 
+413,2,06:29,CAP,23,30,ER,De Paula 
+414,2,06:50,PIN,23,30,AS,Holloway 
+415,2,06:52,PIN,23,30,3_Pts_C,Neto 
+416,2,07:08,CAP,20,30,AS,Hure 
+417,2,07:10,CAP,20,30,3_Pts_C,Jhonatan 
+418,2,07:13,CAP,20,27,RO,Hure 
+419,2,07:15,CAP,20,27,2_Pts_T,Renato 
+420,2,07:20,CAP,20,27,RD,De Paula 
+421,2,07:22,PIN,20,27,3_Pts_T,Holloway 
+422,2,07:43,CAP,20,27,AS,Renato 
+423,2,07:46,CAP,20,27,2_Pts_C,Jhonatan 
+424,2,08:03,CAP,20,25,RD,Lucas Dias 
+425,2,08:04,PIN,20,25,2_Pts_T,Mathias 
+426,2,08:22,CAP,20,25,substituicao_entra,Lucas Dias 
+427,2,08:22,CAP,20,25,substituicao_sai,Arthur Pecos 
+428,2,08:22,PIN,20,25,FR,Bennett 
+429,2,08:22,CAP,20,25,FC,Jhonatan 
+430,2,08:22,PIN,20,25,RD,Bennett 
+431,2,08:24,CAP,20,25,2_Pts_T,Arthur Pecos 
+432,2,08:40,CAP,20,25,RD,Renato 
+433,2,08:42,PIN,20,25,3_Pts_T,Neto 
+434,2,08:45,PIN,20,25,RD,Teichmann 
+435,2,08:46,PIN,20,25,TO,Teichmann 
+436,2,08:49,CAP,20,25,2_Pts_T,Arthur Pecos 
+437,2,09:06,PIN,20,25,2_Pts_C,Holloway 
+438,2,09:08,PIN,18,25,BR,Holloway 
+439,2,09:10,CAP,18,25,ER,Arthur Pecos 
+440,2,09:29,PIN,18,25,LL_Pts_C,Holloway 
+441,2,09:29,PIN,17,25,FR,Holloway 
+442,2,09:29,CAP,17,25,FC,De Paula 
+443,2,09:29,PIN,17,25,AS,Teichmann 
+444,2,09:29,PIN,17,25,2_Pts_C,Holloway 
+445,2,09:30,PIN,15,25,BR,Teichmann 
+446,2,09:33,CAP,15,25,ER,Arthur Pecos 
+447,2,09:40,CAP,15,25,RD,Renato 
+448,2,09:42,PIN,15,25,2_Pts_T,Mathias 
+449,2,09:45,PIN,15,25,RO,Mathias 
+450,2,09:47,PIN,15,25,2_Pts_T,Teichmann 
+451,2,10:00,,15,25,inicio_quarto,
+452,1,00:00,PIN,15,25,substituicao_sai,Holloway 
+453,1,00:00,PIN,15,25,substituicao_sai,Teichmann 
+454,1,00:00,PIN,15,25,substituicao_sai,Mathias 
+455,1,00:00,PIN,15,25,substituicao_sai,Ruivo 
+456,1,00:00,PIN,15,25,substituicao_sai,Bennett 
+457,1,00:00,CAP,15,25,substituicao_sai,De Paula 
+458,1,00:00,CAP,15,25,substituicao_sai,Arthur Pecos 
+459,1,00:00,CAP,15,25,substituicao_sai,Hure 
+460,1,00:00,CAP,15,25,substituicao_sai,Jhonatan 
+461,1,00:00,CAP,15,25,substituicao_sai,Luis Ferdo 
+462,1,00:00,,15,25,fim_quarto,
+463,1,00:00,CAP,15,25,LL_Pts_C,De Paula 
+464,1,00:00,CAP,15,24,LL_Pts_C,De Paula 
+465,1,00:00,CAP,15,23,LL_Pts_T,De Paula 
+466,1,00:00,CAP,15,23,FR,De Paula 
+467,1,00:00,PIN,15,23,FC,Teichmann 
+468,1,00:05,CAP,15,23,substituicao_entra,Luis Ferdo 
+469,1,00:05,CAP,15,23,substituicao_sai,Renato 
+470,1,00:05,PIN,15,23,substituicao_entra,Ruivo 
+471,1,00:05,PIN,15,23,substituicao_sai,Neto 
+472,1,00:05,CAP,15,23,FR,De Paula 
+473,1,00:05,PIN,15,23,FC,Neto 
+474,1,00:07,PIN,15,23,LL_Pts_C,Bennett 
+475,1,00:07,PIN,14,23,LL_Pts_C,Bennett 
+476,1,00:07,CAP,13,23,substituicao_entra,Renato 
+477,1,00:07,CAP,13,23,substituicao_sai,Victor André 
+478,1,00:07,CAP,13,23,substituicao_entra,Arthur Pecos 
+479,1,00:07,CAP,13,23,substituicao_sai,Léo 
+480,1,00:07,PIN,13,23,substituicao_entra,Mathias 
+481,1,00:07,PIN,13,23,substituicao_sai,Re 
+482,1,00:07,PIN,13,23,FR,Bennett 
+483,1,00:07,CAP,13,23,FC,Victor André 
+484,1,00:18,CAP,13,23,substituicao_entra,De Paula 
+485,1,00:18,CAP,13,23,substituicao_sai,Arthur Pecos 
+486,1,00:18,CAP,13,23,substituicao_entra,Victor André 
+487,1,00:18,CAP,13,23,substituicao_sai,Renato 
+488,1,00:18,PIN,13,23,FR,Neto 
+489,1,00:18,CAP,13,23,FC,Arthur Pecos 
+490,1,00:30,PIN,13,23,RD,Neto 
+491,1,00:32,CAP,13,23,3_Pts_T,Renato 
+492,1,00:53,PIN,13,23,AS,Teichmann 
+493,1,00:56,PIN,13,23,EN,Bennett
+494,1,01:00,PIN,11,23,BR,Teichmann 
+495,1,01:02,CAP,11,23,ER,Hure 
+496,1,01:11,CAP,11,23,RD,Hure 
+497,1,01:14,PIN,11,23,2_Pts_T,Holloway 
+498,1,01:14,PIN,11,23,RO,Holloway 
+499,1,01:18,PIN,11,23,2_Pts_T,Bennett 
+500,1,01:43,PIN,11,23,tempo_tecnico,Pinheiros
+501,1,01:43,CAP,11,23,AS,Arthur Pecos 
+502,1,01:43,CAP,11,23,3_Pts_C,Hure 
+503,1,02:08,CAP,11,20,RD,Jhonatan 
+504,1,02:11,PIN,11,20,2_Pts_T,Re 
+505,1,02:31,CAP,11,20,2_Pts_C,Renato 
+506,1,02:31,CAP,11,18,RO,Renato 
+507,1,02:37,CAP,11,18,2_Pts_T,Jhonatan 
+508,1,02:45,PIN,11,18,substituicao_entra,Teichmann 
+509,1,02:45,PIN,11,18,substituicao_sai,Ansaloni 
+510,1,02:45,CAP,11,18,FR,Jhonatan 
+511,1,02:45,PIN,11,18,FC,Ansaloni 
+512,1,02:45,CAP,11,18,2_Pts_T,Renato 
+513,1,02:48,CAP,11,18,RD,Jhonatan 
+514,1,02:48,PIN,11,18,2_Pts_T,Re 
+515,1,02:49,PIN,11,18,RO,Re 
+516,1,02:55,PIN,11,18,2_Pts_T,Ansaloni 
+517,1,03:06,CAP,11,18,substituicao_entra,Arthur Pecos 
+518,1,03:06,CAP,11,18,substituicao_entra,Hure 
+519,1,03:06,CAP,11,18,substituicao_sai,Guilherme 
+520,1,03:06,CAP,11,18,substituicao_sai,De Paula 
+521,1,03:08,PIN,11,18,FR,Neto 
+522,1,03:08,CAP,11,18,FC,Guilherme 
+523,1,03:09,PIN,11,18,BR,Neto 
+524,1,03:09,CAP,11,18,ER,Renato 
+525,1,03:09,CAP,11,18,BR,Renato 
+526,1,03:10,PIN,11,18,ER,Holloway 
+527,1,03:28,PIN,11,18,RD,Ansaloni 
+528,1,03:30,CAP,11,18,LL_Pts_T,De Paula 
+529,1,03:30,CAP,11,18,LL_Pts_C,De Paula 
+530,1,03:30,PIN,11,17,substituicao_entra,Neto 
+531,1,03:30,PIN,11,17,substituicao_sai,Gemerson 
+532,1,03:30,CAP,11,17,FR,De Paula 
+533,1,03:30,PIN,11,17,FC,Ansaloni 
+534,1,03:34,CAP,11,17,RD,De Paula 
+535,1,03:36,PIN,11,17,2_Pts_T,Bennett 
+536,1,03:45,PIN,11,17,RO,Ansaloni 
+537,1,03:47,PIN,11,17,2_Pts_T,Holloway 
+538,1,04:02,CAP,11,17,AS,De Paula 
+539,1,04:05,CAP,11,17,2_Pts_C,Renato 
+540,1,04:08,CAP,11,15,RD,Guilherme 
+541,1,04:12,PIN,11,15,3_Pts_T,Gemerson 
+542,1,04:21,PIN,11,15,RD,Re 
+543,1,04:22,CAP,11,15,2_Pts_T,De Paula 
+544,1,04:35,PIN,11,15,2_Pts_C,Holloway 
+545,1,04:46,CAP,9,15,substituicao_entra,Léo 
+546,1,04:46,CAP,9,15,substituicao_sai,Luis Ferdo 
+547,1,04:48,PIN,9,15,FR,Holloway 
+548,1,04:48,CAP,9,15,FC,Luis Ferdo 
+549,1,04:51,PIN,9,15,FR,Holloway 
+550,1,04:51,CAP,9,15,FC,Luis Ferdo 
+551,1,05:07,CAP,9,15,2_Pts_C,Renato 
+552,1,05:18,CAP,9,13,BR,Jhonatan 
+553,1,05:21,PIN,9,13,ER,Bennett 
+554,1,05:24,PIN,9,13,BR,Bennett 
+555,1,05:27,CAP,9,13,ER,Renato 
+556,1,05:40,CAP,9,13,BR,De Paula 
+557,1,05:42,PIN,9,13,ER,Gemerson 
+558,1,05:50,PIN,9,13,RD,Bennett 
+559,1,05:54,CAP,9,13,2_Pts_T,De Paula 
+560,1,06:09,PIN,9,13,2_Pts_C,Bennett 
+561,1,06:19,CAP,7,13,3_Pts_C,Jhonatan 
+562,1,06:38,PIN,7,10,EN,Re
+563,1,06:41,PIN,5,10,BR,Re 
+564,1,06:44,CAP,5,10,ER,Guilherme 
+565,1,06:57,CAP,5,10,FR,Guilherme 
+566,1,06:57,PIN,5,10,FC,Re 
+567,1,06:57,CAP,5,10,RD,Guilherme 
+568,1,06:57,PIN,5,10,2_Pts_T,Re 
+569,1,06:59,PIN,5,10,RO,Re 
+570,1,07:01,PIN,5,10,2_Pts_T,Ansaloni 
+571,1,07:22,CAP,5,10,AS,Luis Ferdo 
+572,1,07:26,CAP,5,10,3_Pts_C,Jhonatan 
+573,1,07:32,PIN,5,7,AS,Holloway 
+574,1,07:37,PIN,5,7,2_Pts_C,Ansaloni 
+575,1,07:39,PIN,3,7,BR,Bennett 
+576,1,07:41,CAP,3,7,ER,Jhonatan 
+577,1,07:54,CAP,3,7,RD,Guilherme 
+578,1,07:57,PIN,3,7,3_Pts_T,Re 
+579,1,08:14,CAP,3,7,2_Pts_C,De Paula 
+580,1,08:26,CAP,3,5,RD,Guilherme 
+581,1,08:28,PIN,3,5,2_Pts_T,Holloway 
+582,1,08:43,CAP,3,5,2_Pts_C,Jhonatan 
+583,1,08:51,CAP,3,3, RO,Paulistano
+584,1,08:51,PIN,3,3,TO,Re 
+585,1,08:51,CAP,3,3,2_Pts_T,Renato 
+586,1,09:08,PIN,3,3,AS,Holloway 
+587,1,09:11,PIN,3,3,3_Pts_C,Re 
+588,1,09:23,CAP,0,3,AS,Jhonatan 
+589,1,09:26,CAP,0,3,3_Pts_C,Guilherme 
+590,1,09:36,CAP,0,0,RO,Guilherme 
+591,1,09:38,CAP,0,0,2_Pts_T,Jhonatan 
+592,1,10:00,CAP,0,0,substituicao_entra,Guilherme 
+593,1,10:00,CAP,0,0,substituicao_entra,De Paula 
+594,1,10:00,CAP,0,0,substituicao_entra,Renato 
+595,1,10:00,CAP,0,0,substituicao_entra,Jhonatan 
+596,1,10:00,CAP,0,0,substituicao_entra,Luis Ferdo 
+597,1,10:00,PIN,0,0,substituicao_entra,Holloway 
+598,1,10:00,PIN,0,0,substituicao_entra,Re 
+599,1,10:00,PIN,0,0,substituicao_entra,Ansaloni 
+600,1,10:00,PIN,0,0,substituicao_entra,Gemerson 
+601,1,10:00,PIN,0,0,substituicao_entra,Bennett 

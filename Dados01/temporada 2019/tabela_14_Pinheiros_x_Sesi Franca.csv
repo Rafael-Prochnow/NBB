@@ -1,0 +1,516 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,87,96,fim_partida,
+1,4,00:00,NaN,87,96,fim_quarto, 
+2,4,00:02,PIN,87,96,RD,Ware
+3,4,00:04,FRA,87,96,2_Pts_T,Lucas Dias
+4,4,00:04,FRA,87,96,RO,Lucas Dias
+5,4,00:05,FRA,87,96,2_Pts_T,Cipolini
+6,4,00:07,FRA,87,96,tempo_tecnico,Franca
+7,4,00:26,FRA,87,96,RD,Cipolini
+8,4,00:31,PIN,87,96,3_Pts_T,Dawkins
+9,4,00:39,FRA,87,96,AS,Cipolini
+10,4,00:39,FRA,87,96,2_Pts_C,Jimmy
+11,4,00:45,FRA,87,94,RD,Parodi
+12,4,00:45,PIN,87,94,LL_Pts_T,Ware
+13,4,00:45,PIN,87,94,LL_Pts_T,Ware
+14,4,00:45,PIN,87,94,FR,Ware
+15,4,00:45,FRA,87,94,FC,Jimmy
+16,4,00:45,PIN,87,94,RD,Ware
+17,4,00:48,FRA,87,94,3_Pts_T,Parodi
+18,4,01:10,PIN,87,94,substituicao_entra,Toledo
+19,4,01:10,PIN,87,94,substituicao_sai,C  Torres
+20,4,01:10,PIN,87,94,LL_Pts_C,C  Torres
+21,4,01:10,PIN,86,94,LL_Pts_C,C  Torres
+22,4,01:10,PIN,85,94,FR,C  Torres
+23,4,01:10,FRA,85,94,FC,David Jackson
+24,4,01:15,PIN,85,94,tempo_tecnico,Pinheiros
+25,4,01:16,FRA,85,94,LL_Pts_C,Cipolini
+26,4,01:16,FRA,85,93,AS,David Jackson
+27,4,01:16,FRA,85,93,LL_Pts_C,Cipolini
+28,4,01:16,PIN,85,92,substituicao_entra,C  Torres
+29,4,01:16,PIN,85,92,substituicao_sai,Toledo
+30,4,01:16,FRA,85,92,FR,Cipolini
+31,4,01:16,PIN,85,92,FC,Buffat
+32,4,01:32,PIN,85,92,LL_Pts_C,Buffat
+33,4,01:32,PIN,84,92,LL_Pts_C,Buffat
+34,4,01:32,PIN,83,92,substituicao_entra,Toledo
+35,4,01:32,PIN,83,92,substituicao_sai,C  Torres
+36,4,01:32,PIN,83,92,FR,Buffat
+37,4,01:32,FRA,83,92,FC,Parodi
+38,4,01:32,PIN,83,92,RO,Buffat
+39,4,01:33,PIN,83,92,3_Pts_T,C  Torres
+40,4,01:41,FRA,83,92,LL_Pts_C,David Jackson
+41,4,01:41,FRA,83,91,FR,David Jackson
+42,4,01:41,PIN,83,91,FC,Buffat
+43,4,01:41,FRA,83,91,AS,Parodi
+44,4,01:41,FRA,83,91,2_Pts_C,David Jackson
+45,4,01:46,PIN,83,89,LL_Pts_C,C  Torres
+46,4,01:46,PIN,82,89,LL_Pts_C,C  Torres
+47,4,01:46,PIN,81,89,substituicao_entra,Ware
+48,4,01:46,PIN,81,89,substituicao_sai,Toledo
+49,4,01:48,FRA,81,89,BR,Parodi
+50,4,01:48,PIN,81,89,ER,Dawkins
+51,4,01:52,PIN,81,89,RD,Buffat
+52,4,01:53,FRA,81,89,3_Pts_T,Cipolini
+53,4,02:34,PIN,81,89,FR,C  Torres
+54,4,02:34,FRA,81,89,FC,Cipolini
+55,4,02:35,PIN,81,89,RO,Pinheiros
+56,4,02:35,PIN,81,89,LL_Pts_T,Toledo
+57,4,02:36,PIN,81,89,LL_Pts_C,Toledo
+58,4,02:36,PIN,80,89,FR,Toledo
+59,4,02:36,FRA,80,89,FC,Cipolini
+60,4,02:36,PIN,80,89,RO,Pinheiros
+61,4,02:36,PIN,80,89,3_Pts_T,C  Torres
+62,4,02:45,PIN,80,89,RD,Dawkins
+63,4,02:49,FRA,80,89,3_Pts_T,Lucas Dias
+64,4,03:01,FRA,80,89,FR,Jimmy
+65,4,03:01,PIN,80,89,ER,Dawkins
+66,4,03:01,PIN,80,89,FC_O,Dawkins
+67,4,03:09,PIN,80,89,tempo_tecnico,Pinheiros
+68,4,03:10,FRA,80,89,AS,Lucas Dias
+69,4,03:10,FRA,80,89,3_Pts_C,Jimmy
+70,4,03:20,FRA,80,86,RD,Jimmy
+71,4,03:25,PIN,80,86,3_Pts_T,Bennett
+72,4,03:45,FRA,80,86,AS,Parodi
+73,4,03:45,FRA,80,86,2_Pts_C,Jimmy
+74,4,03:47,FRA,80,84,RD,Lucas Dias
+75,4,03:53,PIN,80,84,3_Pts_T,Dawkins
+76,4,04:11,FRA,80,84,ER,Lucas Dias
+77,4,04:26,PIN,80,84,LL_Pts_C,Bennett
+78,4,04:26,PIN,79,84,substituicao_entra,C  Torres
+79,4,04:26,PIN,79,84,substituicao_sai,Cauê
+80,4,04:26,PIN,79,84,FR,Bennett
+81,4,04:26,FRA,79,84,FC,David Jackson
+82,4,04:26,PIN,79,84,2_Pts_C,Bennett
+83,4,04:35,FRA,77,84,AS,Jimmy
+84,4,04:35,FRA,77,84,2_Pts_C,Lucas Dias
+85,4,04:48,FRA,77,82,substituicao_entra,Cipolini
+86,4,04:48,FRA,77,82,substituicao_sai,Hettsheimeir
+87,4,04:48,PIN,77,82,ER,Dawkins
+88,4,05:01,PIN,77,82,RD,Pinheiros
+89,4,05:04,FRA,77,82,3_Pts_T,Hettsheimeir
+90,4,05:25,PIN,77,82,LL_Pts_C,Toledo
+91,4,05:25,PIN,76,82,FR,Toledo
+92,4,05:25,FRA,76,82,FC,Lucas Dias
+93,4,05:25,PIN,76,82,2_Pts_C,Toledo
+94,4,05:39,FRA,74,82,LL_Pts_C,Lucas Dias
+95,4,05:39,FRA,74,81,LL_Pts_C,Lucas Dias
+96,4,05:39,FRA,74,80,FR,Lucas Dias
+97,4,05:39,PIN,74,80,FC,Cauê
+98,4,05:45,FRA,74,80,FR,Parodi
+99,4,05:45,PIN,74,80,FC,Dawkins
+100,4,05:48,PIN,74,80,substituicao_entra,Cauê
+101,4,05:48,PIN,74,80,substituicao_sai,Ware
+102,4,05:48,FRA,74,80,FR,Lucas Dias
+103,4,05:48,PIN,74,80,FC,Ware
+104,4,06:00,FRA,74,80,RD,Parodi
+105,4,06:03,PIN,74,80,3_Pts_T,Buffat
+106,4,06:09,PIN,74,80,RD,Toledo
+107,4,06:12,FRA,74,80,2_Pts_T,Parodi
+108,4,06:29,FRA,74,80,substituicao_entra,Parodi
+109,4,06:29,FRA,74,80,substituicao_sai,Elinho
+110,4,06:40,PIN,74,80,AS,Bennett
+111,4,06:40,PIN,74,80,2_Pts_C,Dawkins
+112,4,06:45,PIN,72,80,BR,Bennett
+113,4,06:45,FRA,72,80,ER,Hettsheimeir
+114,4,06:58,FRA,72,80,substituicao_entra,David Jackson
+115,4,06:58,FRA,72,80,substituicao_sai,Schattmann
+116,4,06:58,FRA,72,80,tempo_tecnico,Franca
+117,4,07:01,PIN,72,80,3_Pts_C,Dawkins
+118,4,07:05,PIN,69,80,RD,Dawkins
+119,4,07:08,FRA,69,80,3_Pts_T,Lucas Dias
+120,4,07:24,PIN,69,80,LL_Pts_C,Toledo
+121,4,07:24,PIN,68,80,substituicao_entra,Bennett
+122,4,07:24,PIN,68,80,substituicao_sai,Scaglia
+123,4,07:24,PIN,68,80,FR,Toledo
+124,4,07:24,FRA,68,80,FC,Schattmann
+125,4,07:24,PIN,68,80,AS,Dawkins
+126,4,07:24,PIN,68,80,2_Pts_C,Toledo
+127,4,07:30,PIN,66,80,BR,Scaglia
+128,4,07:30,FRA,66,80,ER,Elinho
+129,4,07:34,FRA,66,80,RD,Hettsheimeir
+130,4,07:38,PIN,66,80,3_Pts_T,Scaglia
+131,4,07:43,PIN,66,80,RD,Ware
+132,4,07:47,FRA,66,80,3_Pts_T,Lucas Dias
+133,4,07:50,FRA,66,80,RO,Elinho
+134,4,07:50,FRA,66,80,LL_Pts_T,Schattmann
+135,4,07:50,FRA,66,80,AS,Elinho
+136,4,07:50,FRA,66,80,LL_Pts_C,Schattmann
+137,4,07:50,FRA,66,79,FR,Schattmann
+138,4,07:50,PIN,66,79,FC,Buffat
+139,4,08:10,PIN,66,79,2_Pts_C,Buffat
+140,4,08:20,PIN,64,79,FR,Toledo
+141,4,08:20,FRA,64,79,FC,Hettsheimeir
+142,4,08:20,PIN,64,79,RO,Toledo
+143,4,08:22,PIN,64,79,3_Pts_T,Dawkins
+144,4,08:39,FRA,64,79,2_Pts_C,Elinho
+145,4,09:01,PIN,64,77,AS,Toledo
+146,4,09:01,PIN,64,77,3_Pts_C,Ware
+147,4,09:08,PIN,61,77,FR,Dawkins
+148,4,09:08,FRA,61,77,FC,Elinho
+149,4,09:15,FRA,61,77,2_Pts_C,Schattmann
+150,4,09:35,PIN,61,75,AS,Toledo
+151,4,09:35,PIN,61,75,3_Pts_C,Ware
+152,4,09:50,FRA,58,75,AS,Elinho
+153,4,09:50,FRA,58,75,LL_Pts_C,Lucas Dias
+154,4,09:50,FRA,58,74,LL_Pts_T,Lucas Dias
+155,4,09:50,FRA,58,74,FR,Lucas Dias
+156,4,09:50,PIN,58,74,FC,Ware
+157,4,10:00,NaN,58,74,inicio_quarto,
+158,3,00:00,NaN,58,74,fim_quarto,
+159,3,00:00,PIN,58,74,2_Pts_T,Toledo
+160,3,00:07,PIN,58,74,RD,Toledo
+161,3,00:07,FRA,58,74,LL_Pts_T,Hettsheimeir
+162,3,00:07,FRA,58,74,LL_Pts_C,Hettsheimeir
+163,3,00:07,FRA,58,73,FR,Hettsheimeir
+164,3,00:07,PIN,58,73,FC,Toledo
+165,3,00:07,FRA,58,73,RD,Hettsheimeir
+166,3,00:10,PIN,58,73,2_Pts_T,Toledo
+167,3,00:23,FRA,58,73,LL_Pts_C,Elinho
+168,3,00:23,FRA,58,72,LL_Pts_C,Elinho
+169,3,00:23,FRA,58,71,LL_Pts_C,Lucas Dias
+170,3,00:23,PIN,58,70,FC_T,Técnico do Pinheiros
+171,3,00:23,FRA,58,70,FR,Elinho
+172,3,00:23,PIN,58,70,FC,Buffat
+173,3,00:30,PIN,58,70,2_Pts_C,Toledo
+174,3,00:34,PIN,56,70,FR,Toledo
+175,3,00:34,FRA,56,70,FC,Hettsheimeir
+176,3,00:44,PIN,56,70,LL_Pts_T,Buffat
+177,3,00:44,PIN,56,70,LL_Pts_C,Buffat
+178,3,00:44,FRA,55,70,substituicao_entra,Elinho
+179,3,00:44,FRA,55,70,substituicao_sai,Parodi
+180,3,00:44,PIN,55,70,substituicao_entra,Scaglia
+181,3,00:44,PIN,55,70,substituicao_sai,Bennett
+182,3,00:44,PIN,55,70,FR,Buffat
+183,3,00:44,FRA,55,70,FC_A,Parodi
+184,3,00:45,PIN,55,70,BR,Buffat
+185,3,00:45,FRA,55,70,ER,Parodi
+186,3,01:10,PIN,55,70,AS,Dawkins
+187,3,01:10,PIN,55,70,2_Pts_C,Buffat
+188,3,01:23,FRA,53,70,ER,Schattmann
+189,3,01:27,FRA,53,70,BR,Lucas Dias
+190,3,01:27,PIN,53,70,ER,Ware
+191,3,01:46,PIN,53,70,RD,Buffat
+192,3,01:46,FRA,53,70,LL_Pts_T,Lucas Dias
+193,3,01:46,FRA,53,70,LL_Pts_C,Lucas Dias
+194,3,01:46,FRA,53,69,FR,Lucas Dias
+195,3,01:46,PIN,53,69,FC,Toledo
+196,3,02:05,FRA,53,69,RD,Jimmy
+197,3,02:09,PIN,53,69,3_Pts_T,Dawkins
+198,3,02:30,FRA,53,69,tempo_tecnico,Franca
+199,3,02:32,FRA,53,69,substituicao_entra,Schattmann
+200,3,02:32,FRA,53,69,substituicao_sai,Elinho
+201,3,02:32,PIN,53,69,RD,Pinheiros
+202,3,02:32,FRA,53,69,3_Pts_T,Hettsheimeir
+203,3,02:58,PIN,53,69,AS,Bennett
+204,3,02:58,PIN,53,69,2_Pts_C,Toledo
+205,3,03:00,PIN,51,69,RD,Bennett
+206,3,03:06,FRA,51,69,3_Pts_T,Elinho
+207,3,03:23,PIN,51,69,AS,Dawkins
+208,3,03:23,PIN,51,69,3_Pts_C,Ware
+209,3,03:28,PIN,48,69,RD,Buffat
+210,3,03:33,FRA,48,69,2_Pts_T,Elinho
+211,3,03:49,FRA,48,69,substituicao_entra,Hettsheimeir
+212,3,03:49,FRA,48,69,substituicao_sai,Cipolini
+213,3,03:58,PIN,48,69,3_Pts_C,Bennett
+214,3,04:00,PIN,45,69,RO,Bennett
+215,3,04:04,PIN,45,69,3_Pts_T,Dawkins
+216,3,04:18,FRA,45,69,substituicao_entra,Jimmy
+217,3,04:18,FRA,45,69,substituicao_sai,David Jackson
+218,3,04:18,PIN,45,69,substituicao_entra,Ware
+219,3,04:18,PIN,45,69,substituicao_sai,Cauê
+220,3,04:18,PIN,45,69,substituicao_entra,Toledo
+221,3,04:18,PIN,45,69,substituicao_sai,C  Torres
+222,3,04:18,PIN,45,69,substituicao_entra,Buffat
+223,3,04:18,PIN,45,69,substituicao_sai,Betinho
+224,3,04:18,PIN,45,69,RO,Pinheiros
+225,3,04:21,PIN,45,69,3_Pts_T,Bennett
+226,3,04:31,FRA,45,69,AS,Elinho
+227,3,04:31,FRA,45,69,2_Pts_C,David Jackson
+228,3,04:41,PIN,45,67,AS,Bennett
+229,3,04:41,PIN,45,67,2_Pts_C,C  Torres
+230,3,04:55,FRA,43,67,2_Pts_C,David Jackson
+231,3,05:00,FRA,43,65,BR,David Jackson
+232,3,05:00,PIN,43,65,ER,Dawkins
+233,3,05:07,FRA,43,65,2_Pts_C,David Jackson
+234,3,05:15,FRA,43,63,BR,David Jackson
+235,3,05:15,PIN,43,63,ER,C  Torres
+236,3,05:22,FRA,43,63,2_Pts_C,Lucas Dias
+237,3,05:34,FRA,43,61,FR,David Jackson
+238,3,05:34,PIN,43,61,FC,C  Torres
+239,3,05:34,FRA,43,61,RD,Franca
+240,3,05:36,PIN,43,61,2_Pts_T,Betinho
+241,3,05:51,PIN,43,61,BR,Dawkins
+242,3,05:51,FRA,43,61,ER,Parodi
+243,3,06:09,PIN,43,61,AS,Dawkins
+244,3,06:09,PIN,43,61,3_Pts_C,C  Torres
+245,3,06:20,PIN,40,61,RD,Bennett
+246,3,06:24,FRA,40,61,3_Pts_T,Lucas Dias
+247,3,06:43,PIN,40,61,AS,Bennett
+248,3,06:43,PIN,40,61,3_Pts_C,C  Torres
+249,3,07:02,FRA,37,61,2_Pts_C,Lucas Dias
+250,3,07:03,FRA,37,59,RO,Lucas Dias
+251,3,07:07,FRA,37,59,2_Pts_T,Lucas Dias
+252,3,07:19,PIN,37,59,substituicao_entra,Dawkins
+253,3,07:19,PIN,37,59,substituicao_sai,Scaglia
+254,3,07:19,FRA,37,59,LL_Pts_C,David Jackson
+255,3,07:19,FRA,37,58,LL_Pts_C,David Jackson
+256,3,07:19,FRA,37,57,FR,David Jackson
+257,3,07:19,PIN,37,57,FC_A,Scaglia
+258,3,07:23,FRA,37,57,BR,Cipolini
+259,3,07:23,PIN,37,57,ER,C  Torres
+260,3,07:45,PIN,37,57,tempo_tecnico,Pinheiros
+261,3,07:47,FRA,37,57,AS,Parodi
+262,3,07:47,FRA,37,57,3_Pts_C,Cipolini
+263,3,07:54,FRA,37,54,RD,Cipolini
+264,3,07:58,PIN,37,54,2_Pts_T,Bennett
+265,3,08:14,FRA,37,54,AS,Parodi
+266,3,08:14,FRA,37,54,3_Pts_C,Lucas Dias
+267,3,08:19,FRA,37,51,FR,Cipolini
+268,3,08:19,PIN,37,51,FC,Scaglia
+269,3,08:25,FRA,37,51,RD,David Jackson
+270,3,08:29,PIN,37,51,3_Pts_T,Betinho
+271,3,08:39,PIN,37,51,FR,Betinho
+272,3,08:39,FRA,37,51,FC,Cipolini
+273,3,08:47,PIN,37,51,RO,Pinheiros
+274,3,08:50,PIN,37,51,3_Pts_T,Scaglia
+275,3,08:54,PIN,37,51,RO,C  Torres
+276,3,08:59,PIN,37,51,3_Pts_T,Cauê
+277,3,09:12,PIN,37,51,RD,Cauê
+278,3,09:16,FRA,37,51,2_Pts_T,Parodi
+279,3,09:23,FRA,37,51,RD,Parodi
+280,3,09:27,PIN,37,51,3_Pts_T,Scaglia
+281,3,09:37,FRA,37,51,AS,Cipolini
+282,3,09:37,FRA,37,51,3_Pts_C,David Jackson
+283,3,09:48,FRA,37,48,FR,Lucas Dias
+284,3,09:48,PIN,37,48,FC,Betinho
+285,3,10:00,NaN,37,48,inicio_quarto,
+286,2,00:00,NaN,37,48,fim_quarto,
+287,2,00:15,FRA,37,48,tempo_tecnico,Franca
+288,2,00:15,FRA,37,48,BR,Parodi
+289,2,00:15,PIN,37,48,ER,Toledo
+290,2,00:30,PIN,37,48,BR,Bennett
+291,2,00:30,FRA,37,48,ER,Parodi
+292,2,00:37,FRA,37,48,substituicao_entra,Cipolini
+293,2,00:37,FRA,37,48,substituicao_sai,David Jackson
+294,2,00:37,FRA,37,48,substituicao_entra,Guilherme
+295,2,00:37,FRA,37,48,substituicao_sai,Hettsheimeir
+296,2,00:37,PIN,37,48,substituicao_entra,Toledo
+297,2,00:37,PIN,37,48,substituicao_sai,C  Torres
+298,2,00:37,PIN,37,48,substituicao_entra,Buffat
+299,2,00:37,PIN,37,48,substituicao_sai,Betinho
+300,2,00:37,PIN,37,48,substituicao_entra,Scaglia
+301,2,00:37,PIN,37,48,substituicao_sai,Dawkins
+302,2,00:37,FRA,37,48,tempo_tecnico,Franca
+303,2,00:40,PIN,37,48,AS,Dawkins
+304,2,00:40,PIN,37,48,3_Pts_C,Betinho
+305,2,00:43,PIN,34,48,RD,Dawkins
+306,2,00:47,FRA,34,48,2_Pts_T,Hettsheimeir
+307,2,00:55,FRA,34,48,RD,Hettsheimeir
+308,2,00:59,PIN,34,48,2_Pts_T,C  Torres
+309,2,01:01,PIN,34,48,RD,Pinheiros
+310,2,01:11,FRA,34,48,RD,Franca
+311,2,01:11,PIN,34,48,2_Pts_T,C  Torres
+312,2,01:11,FRA,34,48,3_Pts_T,Hettsheimeir
+313,2,01:34,FRA,34,48,2_Pts_C,Parodi
+314,2,01:39,PIN,34,46,AS,Bennett
+315,2,01:39,PIN,34,46,3_Pts_C,C  Torres
+316,2,01:54,FRA,31,46,2_Pts_C,David Jackson
+317,2,02:12,PIN,31,44,AS,Dawkins
+318,2,02:12,PIN,31,44,2_Pts_C,C  Torres
+319,2,02:34,FRA,29,44,AS,Parodi
+320,2,02:34,FRA,29,44,2_Pts_C,Schattmann
+321,2,02:39,FRA,29,42,FR,Hettsheimeir
+322,2,02:39,PIN,29,42,FC,C  Torres
+323,2,02:42,FRA,29,42,FR,David Jackson
+324,2,02:42,PIN,29,42,FC,Dawkins
+325,2,02:49,PIN,29,42,2_Pts_C,C  Torres
+326,2,02:49,PIN,27,42,RO,C  Torres
+327,2,02:56,PIN,27,42,2_Pts_T,Bennett
+328,2,02:59,PIN,27,42,RD,Cauê
+329,2,03:04,FRA,27,42,2_Pts_T,David Jackson
+330,2,03:08,FRA,27,42,RD,Hettsheimeir
+331,2,03:15,PIN,27,42,3_Pts_T,Betinho
+332,2,03:24,PIN,27,42,substituicao_entra,Cauê
+333,2,03:24,PIN,27,42,substituicao_sai,Ware
+334,2,03:29,FRA,27,42,2_Pts_C,Lucas Dias
+335,2,03:29,FRA,27,40,RO,Lucas Dias
+336,2,03:36,FRA,27,40,2_Pts_T,Hettsheimeir
+337,2,03:58,PIN,27,40,LL_Pts_C,Betinho
+338,2,03:58,PIN,26,40,LL_Pts_C,Betinho
+339,2,03:58,PIN,25,40,FR,Betinho
+340,2,03:58,FRA,25,40,FC,Hettsheimeir
+341,2,04:12,FRA,25,40,AS,Parodi
+342,2,04:12,FRA,25,40,3_Pts_C,Hettsheimeir
+343,2,04:32,PIN,25,37,ER,C  Torres
+344,2,04:39,PIN,25,37,FR,Betinho
+345,2,04:39,FRA,25,37,FC,Schattmann
+346,2,04:43,PIN,25,37,BR,C  Torres
+347,2,04:43,FRA,25,37,ER,David Jackson
+348,2,05:07,PIN,25,37,AS,Betinho
+349,2,05:07,PIN,25,37,2_Pts_C,C  Torres
+350,2,05:21,FRA,23,37,substituicao_entra,Hettsheimeir
+351,2,05:21,FRA,23,37,substituicao_sai,Cipolini
+352,2,05:21,FRA,23,37,substituicao_entra,Parodi
+353,2,05:21,FRA,23,37,substituicao_sai,Elinho
+354,2,05:21,PIN,23,37,tempo_tecnico,Pinheiros
+355,2,05:21,FRA,23,37,AS,Cipolini
+356,2,05:21,FRA,23,37,2_Pts_C,Schattmann
+357,2,05:26,FRA,23,35,RD,David Jackson
+358,2,05:33,FRA,23,35,TO,Cipolini
+359,2,05:33,PIN,23,35,2_Pts_T,C  Torres
+360,2,05:53,PIN,23,35,substituicao_entra,C  Torres
+361,2,05:53,PIN,23,35,substituicao_sai,Toledo
+362,2,05:53,FRA,23,35,2_Pts_C,David Jackson
+363,2,05:53,FRA,23,33,RO,David Jackson
+364,2,05:58,FRA,23,33,2_Pts_T,Cipolini
+365,2,06:04,FRA,23,33,BR,David Jackson
+366,2,06:04,PIN,23,33,ER,Dawkins
+367,2,06:11,PIN,23,33,BR,Betinho
+368,2,06:11,FRA,23,33,ER,Cipolini
+369,2,06:31,FRA,23,33,RD,Franca
+370,2,06:35,PIN,23,33,2_Pts_T,Toledo
+371,2,06:37,PIN,23,33,FR,Toledo
+372,2,06:37,FRA,23,33,FC,Lucas Dias
+373,2,06:50,PIN,23,33,RD,Bennett
+374,2,06:52,FRA,23,33,2_Pts_T,Cipolini
+375,2,07:07,PIN,23,33,AS,Bennett
+376,2,07:07,PIN,23,33,2_Pts_C,Ware
+377,2,07:27,FRA,21,33,AS,Lucas Dias
+378,2,07:27,FRA,21,33,2_Pts_C,Cipolini
+379,2,07:29,FRA,21,31,RO,Lucas Dias
+380,2,07:32,FRA,21,31,3_Pts_T,David Jackson
+381,2,07:49,PIN,21,31,3_Pts_C,Dawkins
+382,2,08:03,PIN,18,31,substituicao_entra,Betinho
+383,2,08:03,PIN,18,31,substituicao_sai,Buffat
+384,2,08:03,PIN,18,31,substituicao_entra,Bennett
+385,2,08:03,PIN,18,31,substituicao_sai,Scaglia
+386,2,08:03,FRA,18,31,ER,Elinho
+387,2,08:20,FRA,18,31,BR,Elinho
+388,2,08:20,PIN,18,31,ER,Dawkins
+389,2,08:38,FRA,18,31,AS,Lucas Dias
+390,2,08:38,FRA,18,31,3_Pts_C,David Jackson
+391,2,08:55,FRA,18,28,RD,Lucas Dias
+392,2,08:58,PIN,18,28,2_Pts_T,Scaglia
+393,2,09:09,PIN,18,28,FR,Dawkins
+394,2,09:09,FRA,18,28,FC,Elinho
+395,2,09:22,FRA,18,28,AS,Cipolini
+396,2,09:22,FRA,18,28,2_Pts_C,Schattmann
+397,2,09:32,FRA,18,26,RD,Cipolini
+398,2,09:36,PIN,18,26,3_Pts_T,Ware
+399,2,09:43,FRA,18,26,substituicao_entra,David Jackson
+400,2,09:43,FRA,18,26,substituicao_sai,Jimmy
+401,2,09:43,PIN,18,26,FR,Toledo
+402,2,09:43,FRA,18,26,FC,Jimmy
+403,2,10:00,NaN,18,26,inicio_quarto,
+404,1,00:00,NaN,18,26,fim_quarto,
+405,1,00:01,FRA,18,26,3_Pts_T,Elinho
+406,1,00:07,PIN,18,26,AS,Toledo
+407,1,00:07,PIN,18,26,2_Pts_C,Dawkins
+408,1,00:13,PIN,16,26,BR,Toledo
+409,1,00:13,FRA,16,26,ER,Elinho
+410,1,00:25,FRA,16,26,RD,Hettsheimeir
+411,1,00:30,PIN,16,26,3_Pts_T,Dawkins
+412,1,00:43,FRA,16,26,AS,Elinho
+413,1,00:43,FRA,16,26,3_Pts_C,Cipolini
+414,1,00:52,FRA,16,23,BR,Hettsheimeir
+415,1,00:52,PIN,16,23,ER,Scaglia
+416,1,01:05,FRA,16,23,2_Pts_C,Jimmy
+417,1,01:10,FRA,16,21,RD,Jimmy
+418,1,01:14,PIN,16,21,3_Pts_T,Scaglia
+419,1,01:16,PIN,16,21,FR,Ware
+420,1,01:16,FRA,16,21,FC,Cipolini
+421,1,01:27,FRA,16,21,3_Pts_C,Hettsheimeir
+422,1,01:39,FRA,16,18,substituicao_entra,Cipolini
+423,1,01:39,FRA,16,18,substituicao_sai,Lucas Dias
+424,1,01:39,PIN,16,18,substituicao_entra,Buffat
+425,1,01:39,PIN,16,18,substituicao_sai,Betinho
+426,1,01:39,PIN,16,18,substituicao_entra,Dawkins
+427,1,01:39,PIN,16,18,substituicao_sai,Bennett
+428,1,01:39,FRA,16,18,FR,Elinho
+429,1,01:39,PIN,16,18,FC,Scaglia
+430,1,01:59,PIN,16,18,2_Pts_C,Bennett
+431,1,02:04,PIN,14,18,RD,Bennett
+432,1,02:07,FRA,14,18,3_Pts_T,Lucas Dias
+433,1,02:22,PIN,14,18,3_Pts_C,Bennett
+434,1,02:43,FRA,11,18,AS,Elinho
+435,1,02:43,FRA,11,18,EN,Lucas Dias
+436,1,02:54,FRA,11,16,substituicao_entra,Schattmann
+437,1,02:54,FRA,11,16,substituicao_sai,David Jackson
+438,1,02:54,PIN,11,16,ER,Betinho
+439,1,03:07,PIN,11,16,substituicao_entra,Scaglia
+440,1,03:07,PIN,11,16,substituicao_sai,Dawkins
+441,1,03:07,PIN,11,16,FR,Betinho
+442,1,03:07,FRA,11,16,FC,David Jackson
+443,1,03:08,PIN,11,16,AS,Dawkins
+444,1,03:08,PIN,11,16,2_Pts_C,Ware
+445,1,03:17,PIN,9,16,RO,Toledo
+446,1,03:20,PIN,9,16,2_Pts_T,Betinho
+447,1,03:44,FRA,9,16,LL_Pts_C,Hettsheimeir
+448,1,03:44,FRA,9,15,substituicao_entra,Elinho
+449,1,03:44,FRA,9,15,substituicao_sai,Parodi
+450,1,03:44,FRA,9,15,FR,Hettsheimeir
+451,1,03:44,PIN,9,15,FC,Toledo
+452,1,03:44,FRA,9,15,AS,Lucas Dias
+453,1,03:44,FRA,9,15,2_Pts_C,Hettsheimeir
+454,1,04:00,PIN,9,13,LL_Pts_C,Betinho
+455,1,04:00,PIN,8,13,LL_Pts_C,Betinho
+456,1,04:00,PIN,7,13,FR,Betinho
+457,1,04:00,FRA,7,13,FC,Jimmy
+458,1,04:09,PIN,7,13,BR,Toledo
+459,1,04:09,FRA,7,13,ER,David Jackson
+460,1,04:23,PIN,7,13,2_Pts_C,Betinho
+461,1,04:46,PIN,5,13,substituicao_entra,Ware
+462,1,04:46,PIN,5,13,substituicao_sai,C  Torres
+463,1,04:46,PIN,5,13,substituicao_entra,Toledo
+464,1,04:46,PIN,5,13,substituicao_sai,Cauê
+465,1,04:46,PIN,5,13,tempo_tecnico,Pinheiros
+466,1,04:48,FRA,5,13,3_Pts_C,David Jackson
+467,1,04:54,FRA,5,10,RD,Hettsheimeir
+468,1,04:59,PIN,5,10,2_Pts_T,C  Torres
+469,1,05:22,FRA,5,10,2_Pts_C,Parodi
+470,1,05:28,FRA,5,8,RD,Hettsheimeir
+471,1,05:33,FRA,5,8,TO,Hettsheimeir
+472,1,05:33,PIN,5,8,2_Pts_T,Bennett
+473,1,05:54,PIN,5,8,RD,Bennett
+474,1,05:59,FRA,5,8,3_Pts_T,Hettsheimeir
+475,1,06:03,FRA,5,8,RD,David Jackson
+476,1,06:08,PIN,5,8,2_Pts_T,Cauê
+477,1,06:34,FRA,5,8,LL_Pts_C,Hettsheimeir
+478,1,06:34,FRA,5,7,LL_Pts_C,Hettsheimeir
+479,1,06:34,FRA,5,6,FR,Hettsheimeir
+480,1,06:34,PIN,5,6,FC,Bennett
+481,1,06:45,FRA,5,6,RD,David Jackson
+482,1,06:48,PIN,5,6,3_Pts_T,Dawkins
+483,1,07:13,FRA,5,6,AS,Jimmy
+484,1,07:13,FRA,5,6,3_Pts_C,Parodi
+485,1,07:34,PIN,5,3,2_Pts_C,Bennett
+486,1,07:59,FRA,3,3,AS,David Jackson
+487,1,07:59,FRA,3,3,3_Pts_C,Parodi
+488,1,08:05,FRA,3,0,RO,Jimmy
+489,1,08:10,FRA,3,0,3_Pts_T,Hettsheimeir
+490,1,08:15,FRA,3,0,RD,Hettsheimeir
+491,1,08:18,PIN,3,0,2_Pts_T,C  Torres
+492,1,08:35,PIN,3,0,RD,Cauê
+493,1,08:39,FRA,3,0,3_Pts_T,Lucas Dias
+494,1,08:55,PIN,3,0,AS,Dawkins
+495,1,08:55,PIN,3,0,3_Pts_C,Cauê
+496,1,09:12,PIN,0,0,RD,C  Torres
+497,1,09:16,FRA,0,0,2_Pts_T,Parodi
+498,1,09:18,FRA,0,0,RD,Hettsheimeir
+499,1,09:19,PIN,0,0,2_Pts_T,C  Torres
+500,1,09:19,PIN,0,0,RO,C  Torres
+501,1,09:26,PIN,0,0,2_Pts_T,Cauê
+502,1,09:42,PIN,0,0,RD,Cauê
+503,1,09:46,FRA,0,0,2_Pts_T,Lucas Dias
+504,1,10:00,FRA,0,0,substituicao_entra,David Jackson
+505,1,10:00,FRA,0,0,substituicao_entra,Hettsheimeir
+506,1,10:00,FRA,0,0,substituicao_entra,Parodi
+507,1,10:00,FRA,0,0,substituicao_entra,Jimmy
+508,1,10:00,FRA,0,0,substituicao_entra,Lucas Dias
+509,1,10:00,PIN,0,0,substituicao_entra,C  Torres
+510,1,10:00,PIN,0,0,substituicao_entra,Betinho
+511,1,10:00,PIN,0,0,substituicao_entra,Cauê
+512,1,10:00,PIN,0,0,substituicao_entra,Dawkins
+513,1,10:00,PIN,0,0,substituicao_entra,Bennett
+514,1,10:00,NaN,0,0,inicio_partida,

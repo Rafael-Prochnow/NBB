@@ -1,0 +1,582 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,60,76,fim_partida,
+1,4,00:00,NaN,60,76,fim_quarto, 
+2,4,00:04,CAP,60,76,AS,De Paula
+3,4,00:04,CAP,60,76,2_Pts_C,Guilherme
+4,4,00:07,CAP,60,74,RO,De Paula
+5,4,00:07,CAP,60,74,3_Pts_T,Eddy
+6,4,00:26,VAS,60,74,2_Pts_C,Duda
+7,4,00:33,VAS,58,74,RD,Gemerson
+8,4,00:36,CAP,58,74,3_Pts_T,Roquemore
+9,4,00:57,VAS,58,74,AS,Duda
+10,4,00:57,VAS,58,74,3_Pts_C,Rafael
+11,4,01:13,CAP,55,74,AS,Roquemore
+12,4,01:13,CAP,55,74,2_Pts_C,Guilherme
+13,4,01:26,CAP,55,72,RD,Roquemore
+14,4,01:28,VAS,55,72,3_Pts_T,Alexei
+15,4,01:39,CAP,55,72,LL_Pts_C,De Paula
+16,4,01:39,CAP,55,71,LL_Pts_C,De Paula
+17,4,01:39,CAP,55,70,substituicao_entra,Antonio
+18,4,01:39,CAP,55,70,substituicao_sai,Victão
+19,4,01:39,VAS,55,70,substituicao_entra,Alexei
+20,4,01:39,VAS,55,70,substituicao_sai,Okorie
+21,4,01:39,CAP,55,70,FR,De Paula
+22,4,01:39,VAS,55,70,FC,Okorie
+23,4,01:59,VAS,55,70,2_Pts_C,Okorie
+24,4,02:02,CAP,53,70,substituicao_entra,Eddy
+25,4,02:02,CAP,53,70,substituicao_sai,Yago
+26,4,02:02,VAS,53,70,RO,L  Felipe
+27,4,02:05,VAS,53,70,3_Pts_T,Duda
+28,4,02:17,CAP,53,70,LL_Pts_C,Guilherme
+29,4,02:17,CAP,53,69,LL_Pts_T,Guilherme
+30,4,02:17,CAP,53,69,FR,Guilherme
+31,4,02:17,VAS,53,69,FC,Gemerson
+32,4,02:17,CAP,53,69,RO,Paulistano
+33,4,02:17,CAP,53,69,3_Pts_T,De Paula
+34,4,02:31,CAP,53,69,RD,De Paula
+35,4,02:34,VAS,53,69,3_Pts_T,Duda
+36,4,02:53,CAP,53,69,substituicao_entra,Roquemore
+37,4,02:53,CAP,53,69,substituicao_sai,Danilo
+38,4,02:53,CAP,53,69,ER,
+39,4,03:17,VAS,53,69,LL_Pts_C,L  Felipe
+40,4,03:17,VAS,52,69,LL_Pts_C,L  Felipe
+41,4,03:17,CAP,51,69,substituicao_entra,Victão
+42,4,03:17,CAP,51,69,substituicao_sai,Du Sommer
+43,4,03:17,VAS,51,69,FR,L  Felipe
+44,4,03:17,CAP,51,69,FC,De Paula
+45,4,03:21,VAS,51,69,BR,L  Felipe
+46,4,03:21,CAP,51,69,ER,De Paula
+47,4,03:23,CAP,51,69,RD,De Paula
+48,4,03:26,VAS,51,69,3_Pts_T,Okorie
+49,4,03:29,VAS,51,69,RO,Okorie
+50,4,03:30,VAS,51,69,LL_Pts_T,Okorie
+51,4,03:30,VAS,51,69,LL_Pts_C,Okorie
+52,4,03:30,VAS,50,69,FR,Okorie
+53,4,03:30,CAP,50,69,FC,Danilo
+54,4,03:40,CAP,50,69,substituicao_entra,Danilo
+55,4,03:40,CAP,50,69,substituicao_sai,Roquemore
+56,4,03:40,VAS,50,69,substituicao_entra,Duda
+57,4,03:40,VAS,50,69,substituicao_sai,Alexei
+58,4,03:40,VAS,50,69,RD,Gemerson
+59,4,03:45,CAP,50,69,2_Pts_T,Guilherme
+60,4,03:45,CAP,50,69,RO,Guilherme
+61,4,03:48,CAP,50,69,3_Pts_T,Du Sommer
+62,4,03:59,VAS,50,69,AS,Alexei
+63,4,03:59,VAS,50,69,2_Pts_C,L  Felipe
+64,4,04:02,VAS,48,69,RD,Alexei
+65,4,04:11,CAP,48,69,,
+66,4,04:16,CAP,48,69,BR,Roquemore
+67,4,04:16,VAS,48,69,ER,Alexei
+68,4,04:23,CAP,48,69,LL_Pts_C,De Paula
+69,4,04:23,CAP,48,68,LL_Pts_C,De Paula
+70,4,04:23,CAP,48,67,FR,De Paula
+71,4,04:23,VAS,48,67,FC,Alexei
+72,4,04:24,CAP,48,67,RD,Du Sommer
+73,4,04:28,VAS,48,67,2_Pts_T,L  Felipe
+74,4,04:28,VAS,48,67,RO,L  Felipe
+75,4,04:33,VAS,48,67,3_Pts_T,Okorie
+76,4,04:43,CAP,48,67,substituicao_entra,Roquemore
+77,4,04:43,CAP,48,67,substituicao_sai,Léo Meindl
+78,4,04:43,VAS,48,67,substituicao_entra,L  Felipe
+79,4,04:43,VAS,48,67,substituicao_sai,Lucão
+80,4,04:43,CAP,48,67,substituicao_entra,Yago
+81,4,04:43,CAP,48,67,substituicao_sai,Roquemore
+82,4,04:43,CAP,48,67,substituicao_entra,Du Sommer
+83,4,04:43,CAP,48,67,substituicao_sai,Renan
+84,4,04:54,CAP,48,67,2_Pts_C,Léo Meindl
+85,4,05:13,CAP,48,65,RD,De Paula
+86,4,05:15,VAS,48,65,LL_Pts_T,Lucão
+87,4,05:15,VAS,48,65,LL_Pts_T,Lucão
+88,4,05:15,VAS,48,65,FR,Lucão
+89,4,05:15,CAP,48,65,FC,Guilherme
+90,4,05:15,VAS,48,65,RD,Vasco da Gama
+91,4,05:15,CAP,48,65,3_Pts_T,Léo Meindl
+92,4,05:20,VAS,48,65,AS,Okorie
+93,4,05:20,VAS,48,65,LL_Pts_C,Lucão
+94,4,05:20,VAS,47,65,LL_Pts_T,Lucão
+95,4,05:20,VAS,47,65,FR,Lucão
+96,4,05:20,CAP,47,65,FC,Renan
+97,4,05:45,CAP,47,65,AS,Léo Meindl
+98,4,05:45,CAP,47,65,3_Pts_C,Renan
+99,4,05:54,CAP,47,62,RO,De Paula
+100,4,05:56,CAP,47,62,LL_Pts_T,Léo Meindl
+101,4,05:56,VAS,47,62,substituicao_entra,Rafael
+102,4,05:56,VAS,47,62,substituicao_sai,Duda
+103,4,05:56,VAS,47,62,substituicao_entra,Lucão
+104,4,05:56,VAS,47,62,substituicao_sai,Lupa
+105,4,05:56,CAP,47,62,FR,Léo Meindl
+106,4,05:56,VAS,47,62,FC,Lupa
+107,4,05:59,CAP,47,62,2_Pts_C,Léo Meindl
+108,4,06:09,CAP,47,60,RO,Renan
+109,4,06:12,CAP,47,60,2_Pts_T,Guilherme
+110,4,06:23,CAP,47,60,RD,Roquemore
+111,4,06:26,VAS,47,60,2_Pts_T,Okorie
+112,4,06:45,VAS,47,60,RD,Lupa
+113,4,06:47,CAP,47,60,LL_Pts_T,Roquemore
+114,4,06:47,CAP,47,60,FR,Roquemore
+115,4,06:47,VAS,47,60,FC,Okorie
+116,4,06:53,CAP,47,60,2_Pts_C,Roquemore
+117,4,07:00,CAP,47,58,BR,Léo Meindl
+118,4,07:00,VAS,47,58,ER,Alexei
+119,4,07:13,CAP,47,58,substituicao_entra,De Paula
+120,4,07:13,CAP,47,58,substituicao_sai,Eddy
+121,4,07:13,VAS,47,58,tempo_tecnico,Vasco da Gama
+122,4,07:20,CAP,47,58,2_Pts_C,Léo Meindl
+123,4,07:21,CAP,47,56,RD,Léo Meindl
+124,4,07:25,VAS,47,56,2_Pts_T,Lupa
+125,4,07:38,CAP,47,56,AS,Léo Meindl
+126,4,07:38,CAP,47,56,EN,Renan
+127,4,07:44,VAS,47,54,substituicao_entra,Lupa
+128,4,07:44,VAS,47,54,substituicao_sai,Lucão
+129,4,07:44,CAP,47,54,FR,Renan
+130,4,07:44,VAS,47,54,FC,Okorie
+131,4,07:44,VAS,47,54,FR,Okorie
+132,4,07:44,CAP,47,54,FC,Renan
+133,4,07:44,VAS,47,54,RD,Vasco da Gama
+134,4,07:44,CAP,47,54,3_Pts_T,Eddy
+135,4,07:49,CAP,47,54,BR,Eddy
+136,4,07:49,VAS,47,54,ER,Lucão
+137,4,07:50,VAS,47,54,RO,Lucão
+138,4,07:54,VAS,47,54,3_Pts_T,Gemerson
+139,4,08:01,VAS,47,54,substituicao_entra,Alexei
+140,4,08:01,VAS,47,54,substituicao_sai,Rafael
+141,4,08:01,VAS,47,54,RO,Vasco da Gama
+142,4,08:01,CAP,47,54,TO,Renan
+143,4,08:01,VAS,47,54,2_Pts_T,Rafael
+144,4,08:13,CAP,47,54,ER,Renan
+145,4,08:17,CAP,47,54,RO,Guilherme
+146,4,08:19,CAP,47,54,3_Pts_T,Eddy
+147,4,08:28,CAP,47,54,BR,Léo Meindl
+148,4,08:28,VAS,47,54,ER,Duda
+149,4,08:33,VAS,47,54,FR,Gemerson
+150,4,08:33,CAP,47,54,FC,Eddy
+151,4,08:41,CAP,47,54,ER,Léo Meindl
+152,4,08:44,CAP,47,54,RD,Léo Meindl
+153,4,08:47,VAS,47,54,3_Pts_T,Lucão
+154,4,09:10,CAP,47,54,LL_Pts_C,Léo Meindl
+155,4,09:10,CAP,47,53,LL_Pts_C,Léo Meindl
+156,4,09:10,CAP,47,52,FR,Léo Meindl
+157,4,09:10,VAS,47,52,FC,Gemerson
+158,4,09:12,CAP,47,52,RD,Eddy
+159,4,09:16,VAS,47,52,2_Pts_T,Rafael
+160,4,09:26,VAS,47,52,FR,Duda
+161,4,09:26,CAP,47,52,ER,Léo Meindl
+162,4,09:26,CAP,47,52,FC_O,Léo Meindl
+163,4,09:35,CAP,47,52,RD,Roquemore
+164,4,09:38,VAS,47,52,2_Pts_T,Lucão
+165,4,10:00,NaN,47,52,inicio_quarto,
+166,3,00:00,NaN,47,52,fim_quarto,
+167,3,00:00,VAS,47,52,3_Pts_T,Duda
+168,3,00:02,VAS,47,52,RD,Duda
+169,3,00:03,CAP,47,52,LL_Pts_T,Roquemore
+170,3,00:03,CAP,47,52,LL_Pts_C,Roquemore
+171,3,00:03,CAP,47,51,substituicao_entra,Antonio
+172,3,00:03,CAP,47,51,substituicao_sai,Yago
+173,3,00:03,CAP,47,51,substituicao_entra,Danilo
+174,3,00:03,CAP,47,51,substituicao_sai,Léo Meindl
+175,3,00:03,VAS,47,51,substituicao_entra,Duda
+176,3,00:03,VAS,47,51,substituicao_sai,Armani
+177,3,00:03,CAP,47,51,FR,Roquemore
+178,3,00:03,VAS,47,51,FC,Lupa
+179,3,00:12,CAP,47,51,substituicao_entra,Yago
+180,3,00:12,CAP,47,51,substituicao_sai,Du Sommer
+181,3,00:12,VAS,47,51,substituicao_entra,Armani
+182,3,00:12,VAS,47,51,substituicao_sai,Duda
+183,3,00:12,VAS,47,51,LL_Pts_C,Okorie
+184,3,00:12,VAS,46,51,LL_Pts_C,Okorie
+185,3,00:12,VAS,45,51,LL_Pts_C,Okorie
+186,3,00:12,VAS,44,51,FR,Okorie
+187,3,00:12,CAP,44,51,FC,Du Sommer
+188,3,00:26,CAP,44,51,LL_Pts_C,Du Sommer
+189,3,00:26,CAP,44,50,LL_Pts_T,Du Sommer
+190,3,00:26,VAS,44,50,substituicao_entra,Duda
+191,3,00:26,VAS,44,50,substituicao_sai,Armani
+192,3,00:26,CAP,44,50,FR,Du Sommer
+193,3,00:26,VAS,44,50,FC,Lupa
+194,3,00:26,VAS,44,50,substituicao_entra,Lupa
+195,3,00:26,VAS,44,50,substituicao_sai,Lucão
+196,3,00:44,VAS,44,50,2_Pts_C,Armani
+197,3,01:07,CAP,42,50,2_Pts_C,Léo Meindl
+198,3,01:20,CAP,42,48,RD,Eddy
+199,3,01:24,VAS,42,48,3_Pts_T,Gemerson
+200,3,01:38,CAP,42,48,substituicao_entra,Victão
+201,3,01:38,CAP,42,48,substituicao_sai,Antonio
+202,3,01:38,CAP,42,48,substituicao_entra,Eddy
+203,3,01:38,CAP,42,48,substituicao_sai,Yago
+204,3,01:39,CAP,42,48,2_Pts_C,Du Sommer
+205,3,01:39,CAP,42,46,RO,Du Sommer
+206,3,01:45,CAP,42,46,2_Pts_T,Yago
+207,3,02:05,VAS,42,46,AS,Okorie
+208,3,02:05,VAS,42,46,3_Pts_C,Gemerson
+209,3,02:21,CAP,39,46,2_Pts_C,Léo Meindl
+210,3,02:41,VAS,39,44,AS,Gemerson
+211,3,02:41,VAS,39,44,2_Pts_C,Lucão
+212,3,02:46,CAP,37,44,LL_Pts_C,Yago
+213,3,02:46,CAP,37,43,LL_Pts_T,Yago
+214,3,02:46,CAP,37,43,FR,Yago
+215,3,02:46,VAS,37,43,FC,Lucão
+216,3,03:07,VAS,37,43,2_Pts_C,Gemerson
+217,3,03:27,CAP,35,43,2_Pts_C,Roquemore
+218,3,03:44,VAS,35,41,substituicao_entra,Armani
+219,3,03:44,VAS,35,41,substituicao_sai,Alexei
+220,3,03:44,CAP,35,41,substituicao_entra,Léo Meindl
+221,3,03:44,CAP,35,41,substituicao_sai,De Paula
+222,3,03:44,CAP,35,41,FR,Roquemore
+223,3,03:44,VAS,35,41,FC,Alexei
+224,3,04:01,CAP,35,41,RD,Antonio
+225,3,04:04,VAS,35,41,2_Pts_T,Rafael
+226,3,04:26,VAS,35,41,RD,Lucão
+227,3,04:28,CAP,35,41,2_Pts_T,Yago
+228,3,04:31,CAP,35,41,RD,Antonio
+229,3,04:35,VAS,35,41,2_Pts_T,Okorie
+230,3,04:54,VAS,35,41,RD,Lucão
+231,3,04:57,CAP,35,41,2_Pts_T,Antonio
+232,3,05:07,VAS,35,41,substituicao_entra,Alexei
+233,3,05:07,VAS,35,41,substituicao_sai,Duda
+234,3,05:07,CAP,35,41,FR,Du Sommer
+235,3,05:07,VAS,35,41,FC,Duda
+236,3,05:28,VAS,35,41,LL_Pts_C,Gemerson
+237,3,05:28,VAS,34,41,LL_Pts_C,Gemerson
+238,3,05:28,VAS,33,41,FR,Gemerson
+239,3,05:28,CAP,33,41,FC,De Paula
+240,3,05:45,VAS,33,41,FR,Lucão
+241,3,05:45,CAP,33,41,FC,Du Sommer
+242,3,05:54,VAS,33,41,RD,Gemerson
+243,3,05:57,CAP,33,41,3_Pts_T,Yago
+244,3,06:05,CAP,33,41,substituicao_entra,Du Sommer
+245,3,06:05,CAP,33,41,substituicao_sai,Guilherme
+246,3,06:05,CAP,33,41,FR,Guilherme
+247,3,06:05,VAS,33,41,FC,Duda
+248,3,06:21,VAS,33,41,3_Pts_C,Gemerson
+249,3,06:26,VAS,30,41,RD,Lucão
+250,3,06:28,CAP,30,41,3_Pts_T,De Paula
+251,3,06:53,CAP,30,41,substituicao_entra,Antonio
+252,3,06:53,CAP,30,41,substituicao_sai,Renan
+253,3,06:53,CAP,30,41,substituicao_entra,De Paula
+254,3,06:53,CAP,30,41,substituicao_sai,Léo Meindl
+255,3,06:53,CAP,30,41,tempo_tecnico,Paulistano
+256,3,06:55,VAS,30,41,2_Pts_C,Lucão
+257,3,07:09,VAS,28,41,BR,Rafael
+258,3,07:09,CAP,28,41,ER,Roquemore
+259,3,07:27,VAS,28,41,AS,Duda
+260,3,07:27,VAS,28,41,3_Pts_C,Gemerson
+261,3,07:37,VAS,25,41,BR,Duda
+262,3,07:37,CAP,25,41,ER,Léo Meindl
+263,3,07:43,CAP,25,41,RD,Léo Meindl
+264,3,07:46,VAS,25,41,3_Pts_T,Okorie
+265,3,07:54,VAS,25,41,RD,Vasco da Gama
+266,3,07:56,CAP,25,41,2_Pts_T,Renan
+267,3,07:57,CAP,25,41,RO,Renan
+268,3,08:00,CAP,25,41,3_Pts_T,Léo Meindl
+269,3,08:10,CAP,25,41,RD,Renan
+270,3,08:12,VAS,25,41,3_Pts_T,Duda
+271,3,08:16,CAP,25,41,EN,Guilherme
+272,3,08:16,CAP,25,39,RO,Guilherme
+273,3,08:27,CAP,25,39,2_Pts_T,Renan
+274,3,08:55,CAP,25,39,RD,Paulistano
+275,3,08:57,VAS,25,39,3_Pts_T,Rafael
+276,3,09:04,VAS,25,39,FR,Gemerson
+277,3,09:04,CAP,25,39,FC,Léo Meindl
+278,3,09:15,VAS,25,39,RD,Gemerson
+279,3,09:19,CAP,25,39,3_Pts_T,Renan
+280,3,09:30,CAP,25,39,FR,Roquemore
+281,3,09:30,VAS,25,39,FC,Okorie
+282,3,09:43,VAS,25,39,AS,Duda
+283,3,09:43,VAS,25,39,2_Pts_C,Rafael
+284,3,10:00,NaN,23,39,inicio_quarto,
+285,2,00:00,NaN,23,39,fim_quarto,
+286,2,00:02,VAS,23,39,3_Pts_T,Duda
+287,2,00:02,VAS,23,39,BR,Lupa
+288,2,00:02,CAP,23,39,ER,Yago
+289,2,00:05,CAP,23,39,tempo_tecnico,Paulistano
+290,2,00:05,CAP,23,39,RD,Paulistano
+291,2,00:07,VAS,23,39,3_Pts_T,Duda
+292,2,00:13,VAS,23,39,RD,Rafael
+293,2,00:19,VAS,23,39,TO,Lupa
+294,2,00:19,CAP,23,39,2_Pts_T,Du Sommer
+295,2,00:36,CAP,23,39,substituicao_entra,Roquemore
+296,2,00:36,CAP,23,39,substituicao_sai,Victão
+297,2,00:36,CAP,23,39,substituicao_entra,Renan
+298,2,00:36,CAP,23,39,substituicao_sai,Danilo
+299,2,00:36,CAP,23,39,tempo_tecnico,Paulistano
+300,2,00:36,VAS,23,39,LL_Pts_C,Okorie
+301,2,00:36,VAS,22,39,LL_Pts_C,Okorie
+302,2,00:36,VAS,21,39,substituicao_entra,Lupa
+303,2,00:36,VAS,21,39,substituicao_sai,Lucão
+304,2,00:36,VAS,21,39,FR,Okorie
+305,2,00:36,CAP,21,39,FC,Victão
+306,2,00:36,VAS,21,39,RD,Okorie
+307,2,00:36,CAP,21,39,3_Pts_T,Yago
+308,2,00:46,CAP,21,39,RO,Paulistano
+309,2,00:48,CAP,21,39,2_Pts_T,Du Sommer
+310,2,01:05,CAP,21,39,FR,Victão
+311,2,01:05,VAS,21,39,FC,Rafael
+312,2,01:14,CAP,21,39,RD,Léo Meindl
+313,2,01:16,VAS,21,39,LL_Pts_T,Okorie
+314,2,01:16,VAS,21,39,LL_Pts_T,Okorie
+315,2,01:16,CAP,21,39,substituicao_entra,Léo Meindl
+316,2,01:16,CAP,21,39,substituicao_sai,Antonio
+317,2,01:16,CAP,21,39,substituicao_entra,Danilo
+318,2,01:16,CAP,21,39,substituicao_sai,Eddy
+319,2,01:16,VAS,21,39,FR,Okorie
+320,2,01:16,CAP,21,39,FC,Antonio
+321,2,01:16,VAS,21,39,RD,Vasco da Gama
+322,2,01:16,CAP,21,39,3_Pts_T,Eddy
+323,2,01:27,VAS,21,39,LL_Pts_C,Lucão
+324,2,01:27,VAS,20,39,FR,Lucão
+325,2,01:27,CAP,20,39,FC,Yago
+326,2,01:38,VAS,20,39,AS,Gemerson
+327,2,01:38,VAS,20,39,EN,Lucão
+328,2,01:49,CAP,18,39,AS,Yago
+329,2,01:49,CAP,18,39,2_Pts_C,Antonio
+330,2,02:11,VAS,18,37,AS,Okorie
+331,2,02:11,VAS,18,37,2_Pts_C,Gemerson
+332,2,02:31,CAP,16,37,2_Pts_C,Yago
+333,2,02:49,CAP,16,35,RD,Yago
+334,2,02:49,VAS,16,35,3_Pts_T,Okorie
+335,2,02:52,VAS,16,35,FR,Gemerson
+336,2,02:52,CAP,16,35,FC,Antonio
+337,2,03:00,CAP,16,35,substituicao_entra,Antonio
+338,2,03:00,CAP,16,35,substituicao_sai,Léo Meindl
+339,2,03:00,CAP,16,35,substituicao_entra,Yago
+340,2,03:00,CAP,16,35,substituicao_sai,De Paula
+341,2,03:00,VAS,16,35,FR,Lucão
+342,2,03:00,CAP,16,35,FC,Eddy
+343,2,03:14,VAS,16,35,RD,Vasco da Gama
+344,2,03:17,CAP,16,35,2_Pts_T,Victão
+345,2,03:18,CAP,16,35,RO,Victão
+346,2,03:22,CAP,16,35,3_Pts_T,Léo Meindl
+347,2,03:29,CAP,16,35,BR,Du Sommer
+348,2,03:29,VAS,16,35,ER,Rafael
+349,2,03:33,VAS,16,35,BR,Duda
+350,2,03:33,CAP,16,35,ER,Léo Meindl
+351,2,03:34,CAP,16,35,RO,Léo Meindl
+352,2,03:38,CAP,16,35,3_Pts_T,Eddy
+353,2,03:55,VAS,16,35,tempo_tecnico,Vasco da Gama
+354,2,03:55,CAP,16,35,substituicao_entra,Eddy
+355,2,03:55,CAP,16,35,substituicao_sai,Roquemore
+356,2,03:55,CAP,16,35,FR,Du Sommer
+357,2,03:55,VAS,16,35,FC,Gemerson
+358,2,03:57,CAP,16,35,RD,Léo Meindl
+359,2,04:00,VAS,16,35,3_Pts_T,Okorie
+360,2,04:11,VAS,16,35,RD,Duda
+361,2,04:14,CAP,16,35,3_Pts_T,De Paula
+362,2,04:27,CAP,16,35,BR,De Paula
+363,2,04:27,VAS,16,35,ER,Gemerson
+364,2,04:44,CAP,16,35,substituicao_entra,Du Sommer
+365,2,04:44,CAP,16,35,substituicao_sai,Guilherme
+366,2,04:44,CAP,16,35,substituicao_entra,De Paula
+367,2,04:44,CAP,16,35,substituicao_sai,Yago
+368,2,04:44,VAS,16,35,substituicao_entra,Okorie
+369,2,04:44,VAS,16,35,substituicao_sai,Alexei
+370,2,04:44,VAS,16,35,FR,Duda
+371,2,04:44,CAP,16,35,FC,Guilherme
+372,2,04:53,VAS,16,35,RD,Lucão
+373,2,04:56,CAP,16,35,2_Pts_T,Victão
+374,2,05:00,CAP,16,35,RD,Yago
+375,2,05:03,VAS,16,35,3_Pts_T,Duda
+376,2,05:19,CAP,16,35,2_Pts_C,Léo Meindl
+377,2,05:24,CAP,16,33,RD,Guilherme
+378,2,05:27,VAS,16,33,2_Pts_T,Gemerson
+379,2,05:31,VAS,16,33,RO,Lucão
+380,2,05:33,VAS,16,33,3_Pts_T,Gemerson
+381,2,05:51,CAP,16,33,ER,
+382,2,05:55,CAP,16,33,2_Pts_T,Yago
+383,2,06:12,VAS,16,33,substituicao_entra,Rafael
+384,2,06:12,VAS,16,33,substituicao_sai,Okorie
+385,2,06:15,CAP,16,33,RO,Roquemore
+386,2,06:18,CAP,16,33,3_Pts_T,Yago
+387,2,06:23,CAP,16,33,RD,Roquemore
+388,2,06:25,VAS,16,33,2_Pts_T,Okorie
+389,2,06:49,CAP,16,33,substituicao_entra,Victão
+390,2,06:49,CAP,16,33,substituicao_sai,Renan
+391,2,06:49,VAS,16,33,FR,Alexei
+392,2,06:49,CAP,16,33,ER,Renan
+393,2,06:49,CAP,16,33,FC_O,Renan
+394,2,07:04,VAS,16,33,ER,Okorie
+395,2,07:22,CAP,16,33,3_Pts_C,Yago
+396,2,07:32,CAP,16,30,FR,Guilherme
+397,2,07:32,VAS,16,30,FC,Lucão
+398,2,07:33,CAP,16,30,RD,Paulistano
+399,2,07:36,VAS,16,30,3_Pts_T,Alexei
+400,2,07:56,CAP,16,30,2_Pts_C,Léo Meindl
+401,2,08:09,VAS,16,28,AS,Duda
+402,2,08:09,VAS,16,28,3_Pts_C,Okorie
+403,2,08:18,VAS,13,28,RD,Vasco da Gama
+404,2,08:22,CAP,13,28,3_Pts_T,Roquemore
+405,2,08:41,CAP,13,28,RD,Léo Meindl
+406,2,08:44,VAS,13,28,3_Pts_T,Okorie
+407,2,08:50,VAS,13,28,RD,Alexei
+408,2,08:53,CAP,13,28,3_Pts_T,Renan
+409,2,09:01,CAP,13,28,BR,Roquemore
+410,2,09:01,VAS,13,28,ER,Okorie
+411,2,09:25,CAP,13,28,AS,Léo Meindl
+412,2,09:25,CAP,13,28,3_Pts_C,Yago
+413,2,09:29,CAP,13,25,RD,Léo Meindl
+414,2,09:32,VAS,13,25,3_Pts_T,Alexei
+415,2,09:35,VAS,13,25,RO,Vasco da Gama
+416,2,09:38,VAS,13,25,2_Pts_T,Alexei
+417,2,09:50,CAP,13,25,AS,Léo Meindl
+418,2,09:50,CAP,13,25,2_Pts_C,Guilherme
+419,2,10:00,NaN,13,23,inicio_quarto,
+420,1,00:00,NaN,13,23,fim_quarto,
+421,1,00:03,CAP,13,23,2_Pts_T,De Paula
+422,1,00:08,CAP,13,23,RD,Antonio
+423,1,00:09,VAS,13,23,LL_Pts_T,Lupa
+424,1,00:09,VAS,13,23,LL_Pts_T,Lupa
+425,1,00:09,VAS,13,23,FR,Lupa
+426,1,00:09,CAP,13,23,FC,Guilherme
+427,1,00:09,VAS,13,23,RO,Vasco da Gama
+428,1,00:09,VAS,13,23,2_Pts_T,Gemerson
+429,1,00:10,VAS,13,23,RO,Gemerson
+430,1,00:13,VAS,13,23,2_Pts_T,Gemerson
+431,1,00:21,VAS,13,23,RD,Lupa
+432,1,00:24,CAP,13,23,2_Pts_T,Guilherme
+433,1,00:40,VAS,13,23,AS,Lupa
+434,1,00:40,VAS,13,23,2_Pts_C,Alexei
+435,1,00:47,CAP,11,23,2_Pts_C,Guilherme
+436,1,00:47,CAP,11,21,RO,Guilherme
+437,1,00:49,CAP,11,21,3_Pts_T,Danilo
+438,1,00:59,CAP,11,21,BR,Eddy
+439,1,00:59,VAS,11,21,ER,Duda
+440,1,01:18,CAP,11,21,2_Pts_C,Eddy
+441,1,01:29,CAP,11,19,LL_Pts_T,Eddy
+442,1,01:29,VAS,11,19,FC_T,Técnico do Vasco da Gama
+443,1,01:36,VAS,11,19,AS,Okorie
+444,1,01:36,VAS,11,19,2_Pts_C,Alexei
+445,1,01:39,VAS,9,19,RD,Gemerson
+446,1,01:42,CAP,9,19,2_Pts_T,Eddy
+447,1,01:48,CAP,9,19,BR,Eddy
+448,1,01:48,VAS,9,19,ER,Okorie
+449,1,02:13,VAS,9,19,substituicao_entra,Alexei
+450,1,02:13,VAS,9,19,substituicao_sai,Armani
+451,1,02:13,CAP,9,19,LL_Pts_C,Guilherme
+452,1,02:13,CAP,9,18,LL_Pts_C,Guilherme
+453,1,02:13,CAP,9,17,substituicao_entra,Danilo
+454,1,02:13,CAP,9,17,substituicao_sai,Roquemore
+455,1,02:13,CAP,9,17,FR,Guilherme
+456,1,02:13,VAS,9,17,FC,Okorie
+457,1,02:20,CAP,9,17,RD,Guilherme
+458,1,02:21,VAS,9,17,LL_Pts_T,Okorie
+459,1,02:21,VAS,9,17,LL_Pts_C,Okorie
+460,1,02:21,VAS,8,17,FR,Okorie
+461,1,02:21,CAP,8,17,FC,De Paula
+462,1,02:36,CAP,8,17,3_Pts_C,Roquemore
+463,1,02:42,CAP,8,14,RD,Guilherme
+464,1,02:46,VAS,8,14,3_Pts_T,Gemerson
+465,1,03:01,VAS,8,14,RO,Armani
+466,1,03:04,VAS,8,14,3_Pts_T,Duda
+467,1,03:13,VAS,8,14,substituicao_entra,Duda
+468,1,03:13,VAS,8,14,substituicao_sai,Rafael
+469,1,03:13,CAP,8,14,LL_Pts_C,Guilherme
+470,1,03:13,CAP,8,13,LL_Pts_C,Guilherme
+471,1,03:13,CAP,8,12,substituicao_entra,Roquemore
+472,1,03:13,CAP,8,12,substituicao_sai,Yago
+473,1,03:13,CAP,8,12,FR,Guilherme
+474,1,03:13,VAS,8,12,FC,Armani
+475,1,03:29,VAS,8,12,LL_Pts_C,Rafael
+476,1,03:29,VAS,7,12,LL_Pts_T,Rafael
+477,1,03:29,VAS,7,12,FR,Rafael
+478,1,03:29,CAP,7,12,FC,Antonio
+479,1,03:45,CAP,7,12,substituicao_entra,Eddy
+480,1,03:45,CAP,7,12,substituicao_sai,Léo Meindl
+481,1,03:45,CAP,7,12,LL_Pts_C,Léo Meindl
+482,1,03:45,CAP,7,11,LL_Pts_C,Léo Meindl
+483,1,03:45,CAP,7,10,substituicao_entra,Guilherme
+484,1,03:45,CAP,7,10,substituicao_sai,Du Sommer
+485,1,03:45,VAS,7,10,substituicao_entra,Rafael
+486,1,03:45,VAS,7,10,substituicao_sai,Lucão
+487,1,03:45,CAP,7,10,FR,Léo Meindl
+488,1,03:45,VAS,7,10,FC,Lucão
+489,1,04:02,VAS,7,10,AS,Gemerson
+490,1,04:02,VAS,7,10,2_Pts_C,Lucão
+491,1,04:07,VAS,5,10,BR,Gemerson
+492,1,04:07,CAP,5,10,ER,Yago
+493,1,04:12,CAP,5,10,BR,De Paula
+494,1,04:12,VAS,5,10,ER,Okorie
+495,1,04:24,VAS,5,10,RD,Armani
+496,1,04:27,CAP,5,10,2_Pts_T,Du Sommer
+497,1,04:37,CAP,5,10,substituicao_entra,Antonio
+498,1,04:37,CAP,5,10,substituicao_sai,Renan
+499,1,04:37,VAS,5,10,substituicao_entra,Armani
+500,1,04:37,VAS,5,10,substituicao_sai,Duda
+501,1,04:40,VAS,5,10,ER,Duda
+502,1,04:48,VAS,5,10,BR,Duda
+503,1,04:48,CAP,5,10,ER,Yago
+504,1,04:51,CAP,5,10,RD,Yago
+505,1,04:54,VAS,5,10,3_Pts_T,Okorie
+506,1,05:00,VAS,5,10,RD,Gemerson
+507,1,05:03,CAP,5,10,3_Pts_T,Renan
+508,1,05:22,CAP,5,10,substituicao_entra,De Paula
+509,1,05:22,CAP,5,10,substituicao_sai,Roquemore
+510,1,05:22,VAS,5,10,ER,Lupa
+511,1,05:30,CAP,5,10,LL_Pts_C,Yago
+512,1,05:30,CAP,5,9,LL_Pts_C,Yago
+513,1,05:30,CAP,5,8,FR,Yago
+514,1,05:30,VAS,5,8,FC,Lupa
+515,1,05:41,VAS,5,8,AS,Okorie
+516,1,05:41,VAS,5,8,2_Pts_C,Lucão
+517,1,05:52,VAS,3,8,RD,Lupa
+518,1,05:55,CAP,3,8,3_Pts_T,Léo Meindl
+519,1,06:02,VAS,3,8,substituicao_entra,Lupa
+520,1,06:02,VAS,3,8,substituicao_sai,Alexei
+521,1,06:02,CAP,3,8,FR,Yago
+522,1,06:02,VAS,3,8,FC,Alexei
+523,1,06:05,CAP,3,8,RD,Yago
+524,1,06:08,VAS,3,8,2_Pts_T,Duda
+525,1,06:09,VAS,3,8,RO,Duda
+526,1,06:12,VAS,3,8,2_Pts_T,Duda
+527,1,06:26,CAP,3,8,AS,Léo Meindl
+528,1,06:26,CAP,3,8,2_Pts_C,Du Sommer
+529,1,06:43,VAS,3,6,AS,Okorie
+530,1,06:43,VAS,3,6,LL_Pts_C,Gemerson
+531,1,06:43,VAS,2,6,LL_Pts_T,Gemerson
+532,1,06:43,VAS,2,6,FR,Gemerson
+533,1,06:43,CAP,2,6,FC,Renan
+534,1,06:47,VAS,2,6,RD,Gemerson
+535,1,06:50,CAP,2,6,3_Pts_T,Léo Meindl
+536,1,06:52,CAP,2,6,RD,Renan
+537,1,06:56,VAS,2,6,2_Pts_T,Duda
+538,1,07:06,CAP,2,6,2_Pts_C,Léo Meindl
+539,1,07:23,VAS,2,4,AS,Duda
+540,1,07:23,VAS,2,4,2_Pts_C,Okorie
+541,1,07:43,CAP,0,4,LL_Pts_C,Du Sommer
+542,1,07:43,CAP,0,3,AS,Yago
+543,1,07:43,CAP,0,3,LL_Pts_C,Du Sommer
+544,1,07:43,CAP,0,2,FR,Du Sommer
+545,1,07:43,VAS,0,2,FC,Alexei
+546,1,07:47,CAP,0,2,RD,Roquemore
+547,1,07:52,VAS,0,2,2_Pts_T,Okorie
+548,1,08:01,VAS,0,2,RD,Lucão
+549,1,08:04,CAP,0,2,2_Pts_T,Renan
+550,1,08:10,CAP,0,2,RD,Yago
+551,1,08:12,VAS,0,2,2_Pts_T,Lucão
+552,1,08:18,VAS,0,2,FR,Duda
+553,1,08:18,CAP,0,2,FC,Léo Meindl
+554,1,08:35,CAP,0,2,AS,Yago
+555,1,08:35,CAP,0,2,EN,Léo Meindl
+556,1,08:39,CAP,0,0,BR,Yago
+557,1,08:39,VAS,0,0,ER,Lucão
+558,1,08:47,VAS,0,0,FR,Alexei
+559,1,08:47,CAP,0,0,FC,Du Sommer
+560,1,08:51,VAS,0,0,BR,Alexei
+561,1,08:51,CAP,0,0,ER,Yago
+562,1,08:57,CAP,0,0,FR,Du Sommer
+563,1,08:57,VAS,0,0,FC,Duda
+564,1,09:16,CAP,0,0,RD,Paulistano
+565,1,09:19,VAS,0,0,3_Pts_T,Duda
+566,1,09:31,VAS,0,0,RD,Gemerson
+567,1,09:34,CAP,0,0,3_Pts_T,Renan
+568,1,09:41,CAP,0,0,RD,Léo Meindl
+569,1,09:44,VAS,0,0,2_Pts_T,Lucão
+570,1,10:00,CAP,0,0,substituicao_entra,Renan
+571,1,10:00,CAP,0,0,substituicao_entra,Léo Meindl
+572,1,10:00,CAP,0,0,substituicao_entra,Du Sommer
+573,1,10:00,CAP,0,0,substituicao_entra,Yago
+574,1,10:00,CAP,0,0,substituicao_entra,Roquemore
+575,1,10:00,VAS,0,0,substituicao_entra,Alexei
+576,1,10:00,VAS,0,0,substituicao_entra,Duda
+577,1,10:00,VAS,0,0,substituicao_entra,Gemerson
+578,1,10:00,VAS,0,0,substituicao_entra,Lucão
+579,1,10:00,VAS,0,0,substituicao_entra,Okorie
+580,1,10:00,NaN,0,0,inicio_partida,

@@ -1,0 +1,535 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,73,67,fim_partida,
+1,4,00:00,NaN,73,67,fim_quarto, 
+2,4,00:03,MOG,73,67,3_Pts_T,Arthur Pecos
+3,4,00:04,MOG,73,67,substituicao_entra,Filipin
+4,4,00:04,MOG,73,67,substituicao_sai,Gruber
+5,4,00:04,MOG,73,67,tempo_tecnico,Mogi
+6,4,00:04,BAU,73,67,LL_Pts_C,Ruiz
+7,4,00:04,BAU,73,66,LL_Pts_C,Ruiz
+8,4,00:04,MOG,73,65,substituicao_entra,Arthur Pecos
+9,4,00:04,MOG,73,65,substituicao_sai,Cafferata
+10,4,00:04,BAU,73,65,FR,Ruiz
+11,4,00:04,MOG,73,65,FC,Cafferata
+12,4,00:06,MOG,73,65,LL_Pts_C,Deodato
+13,4,00:06,MOG,72,65,LL_Pts_C,Deodato
+14,4,00:06,MOG,71,65,FR,Deodato
+15,4,00:06,BAU,71,65,FC,Lucas
+16,4,00:18,BAU,71,65,AS,Ruiz
+17,4,00:18,BAU,71,65,3_Pts_C,Lucas
+18,4,00:25,MOG,71,62,LL_Pts_C,Gruber
+19,4,00:25,MOG,70,62,LL_Pts_T,Gruber
+20,4,00:25,BAU,70,62,substituicao_entra,André
+21,4,00:25,BAU,70,62,substituicao_sai,Fúlvio
+22,4,00:25,MOG,70,62,FR,Gruber
+23,4,00:25,BAU,70,62,FC,Fúlvio
+24,4,00:38,BAU,70,62,AS,Fúlvio
+25,4,00:38,BAU,70,62,3_Pts_C,Lucas
+26,4,00:46,MOG,70,59,3_Pts_C,Shamell
+27,4,01:12,BAU,67,59,ER,Larry
+28,4,01:14,MOG,67,59,substituicao_entra,Gruber
+29,4,01:14,MOG,67,59,substituicao_sai,Filipin
+30,4,01:14,BAU,67,59,tempo_tecnico,Bauru
+31,4,01:14,MOG,67,59,2_Pts_C,Cafferata
+32,4,01:14,MOG,65,59,RO,Cafferata
+33,4,01:14,MOG,65,59,3_Pts_T,Shamell
+34,4,01:38,BAU,65,59,LL_Pts_C,Fúlvio
+35,4,01:38,BAU,65,58,LL_Pts_C,Fúlvio
+36,4,01:38,BAU,65,57,FR,Fúlvio
+37,4,01:38,MOG,65,57,FC,Batista
+38,4,01:48,BAU,65,57,RO,Lucas
+39,4,01:53,BAU,65,57,3_Pts_T,Larry
+40,4,02:06,BAU,65,57,RD,Renato
+41,4,02:08,MOG,65,57,LL_Pts_T,Deodato
+42,4,02:08,MOG,65,57,LL_Pts_C,Deodato
+43,4,02:08,MOG,64,57,FR,Deodato
+44,4,02:08,BAU,64,57,FC,Lucas
+45,4,02:20,MOG,64,57,substituicao_entra,Filipin
+46,4,02:20,MOG,64,57,substituicao_sai,Gruber
+47,4,02:20,MOG,64,57,FR,Shamell
+48,4,02:20,BAU,64,57,FC,Ruiz
+49,4,02:28,MOG,64,57,RD,Batista
+50,4,02:33,BAU,64,57,2_Pts_T,Fúlvio
+51,4,02:41,BAU,64,57,RD,Ruiz
+52,4,02:45,MOG,64,57,2_Pts_T,Gruber
+53,4,03:03,BAU,64,57,2_Pts_C,Fúlvio
+54,4,03:12,BAU,64,55,RO,Bauru
+55,4,03:12,BAU,64,55,2_Pts_T,Larry
+56,4,03:31,MOG,64,55,ER,Gruber
+57,4,03:42,MOG,64,55,RD,Cafferata
+58,4,03:46,BAU,64,55,3_Pts_T,Ruiz
+59,4,04:03,BAU,64,55,tempo_tecnico,Bauru
+60,4,04:03,MOG,64,55,3_Pts_C,Shamell
+61,4,04:12,MOG,61,55,RO,Gruber
+62,4,04:17,MOG,61,55,3_Pts_T,Deodato
+63,4,04:31,MOG,61,55,FR,Shamell
+64,4,04:31,BAU,61,55,FC,Fúlvio
+65,4,04:47,MOG,61,55,BR,Batista
+66,4,04:47,BAU,61,55,ER,Fúlvio
+67,4,04:53,BAU,61,55,RO,Lucas
+68,4,04:59,BAU,61,55,3_Pts_T,Renato
+69,4,05:18,MOG,61,55,LL_Pts_C,Batista
+70,4,05:18,BAU,60,55,substituicao_entra,Larry
+71,4,05:18,BAU,60,55,substituicao_sai,André
+72,4,05:18,MOG,60,55,substituicao_entra,Cafferata
+73,4,05:18,MOG,60,55,substituicao_sai,Arthur Pecos
+74,4,05:18,MOG,60,55,FR,Batista
+75,4,05:18,BAU,60,55,FC,Renato
+76,4,05:18,MOG,60,55,2_Pts_C,Batista
+77,4,05:18,MOG,58,55,RO,Batista
+78,4,05:19,MOG,58,55,3_Pts_T,Arthur Pecos
+79,4,05:32,MOG,58,55,RD,Gruber
+80,4,05:36,BAU,58,55,2_Pts_T,Lucas
+81,4,05:51,MOG,58,55,LL_Pts_C,Shamell
+82,4,05:51,MOG,57,55,LL_Pts_C,Shamell
+83,4,05:51,BAU,56,55,substituicao_entra,Lucas
+84,4,05:51,BAU,56,55,substituicao_sai,Marcão
+85,4,05:51,MOG,56,55,FR,Shamell
+86,4,05:51,BAU,56,55,FC,Marcão
+87,4,06:12,MOG,56,55,tempo_tecnico,Mogi
+88,4,06:12,BAU,56,55,substituicao_entra,Marcão
+89,4,06:12,BAU,56,55,substituicao_sai,Lucas
+90,4,06:12,BAU,56,55,LL_Pts_C,Lucas
+91,4,06:12,BAU,56,54,LL_Pts_C,Lucas
+92,4,06:12,BAU,56,53,substituicao_entra,André
+93,4,06:12,BAU,56,53,substituicao_sai,Larry
+94,4,06:12,BAU,56,53,FR,Lucas
+95,4,06:12,MOG,56,53,FC,Gruber
+96,4,06:12,BAU,56,53,RO,Lucas
+97,4,06:12,BAU,56,53,2_Pts_T,Lucas
+98,4,06:12,BAU,56,53,RO,Lucas
+99,4,06:16,BAU,56,53,2_Pts_T,Fúlvio
+100,4,06:34,MOG,56,53,ER,Batista
+101,4,06:42,MOG,56,53,BR,Arthur Pecos
+102,4,06:42,BAU,56,53,ER,Fúlvio
+103,4,06:57,BAU,56,53,FR,Fúlvio
+104,4,06:57,MOG,56,53,FC,Shamell
+105,4,07:02,BAU,56,53,FR,Ruiz
+106,4,07:02,MOG,56,53,FC,Gruber
+107,4,07:19,MOG,56,53,AS,Arthur Pecos
+108,4,07:19,MOG,56,53,2_Pts_C,Shamell
+109,4,07:21,MOG,54,53,RD,Arthur Pecos
+110,4,07:27,BAU,54,53,2_Pts_T,Fúlvio
+111,4,07:37,BAU,54,53,RD,Renato
+112,4,07:42,MOG,54,53,2_Pts_T,Shamell
+113,4,07:59,BAU,54,53,LL_Pts_C,Ruiz
+114,4,07:59,BAU,54,52,FR,Ruiz
+115,4,07:59,MOG,54,52,FC,Arthur Pecos
+116,4,07:59,BAU,54,52,2_Pts_C,Ruiz
+117,4,07:59,BAU,54,50,BR,Renato
+118,4,07:59,MOG,54,50,ER,Arthur Pecos
+119,4,08:00,MOG,54,50,RD,Arthur Pecos
+120,4,08:09,MOG,54,50,TO,Deodato
+121,4,08:09,BAU,54,50,2_Pts_T,Ruiz
+122,4,08:21,BAU,54,50,RD,Renato
+123,4,08:26,MOG,54,50,2_Pts_T,Arthur Pecos
+124,4,08:42,BAU,54,50,2_Pts_C,Fúlvio
+125,4,08:57,BAU,54,48,substituicao_entra,Fúlvio
+126,4,08:57,BAU,54,48,substituicao_sai,André
+127,4,08:57,BAU,54,48,tempo_tecnico,Bauru
+128,4,08:57,MOG,54,48,AS,Arthur Pecos
+129,4,08:57,MOG,54,48,EN,Deodato
+130,4,09:00,MOG,52,48,BR,Shamell
+131,4,09:00,BAU,52,48,ER,André
+132,4,09:09,BAU,52,48,RO,Bauru
+133,4,09:09,BAU,52,48,3_Pts_T,Larry
+134,4,09:22,BAU,52,48,RD,Bauru
+135,4,09:24,MOG,52,48,3_Pts_T,Deodato
+136,4,09:32,MOG,52,48,BR,Deodato
+137,4,09:32,BAU,52,48,ER,André
+138,4,09:39,BAU,52,48,FR,Larry
+139,4,09:39,MOG,52,48,FC,Deodato
+140,4,09:40,MOG,52,48,2_Pts_C,Shamell
+141,4,09:48,MOG,50,48,BR,Shamell
+142,4,09:48,BAU,50,48,ER,Ruiz
+143,4,10:00,NaN,50,48,inicio_quarto,
+144,3,00:00,NaN,50,48,fim_quarto,
+145,3,00:03,BAU,50,48,3_Pts_T,André
+146,3,00:04,MOG,50,48,LL_Pts_C,Deodato
+147,3,00:04,MOG,49,48,LL_Pts_T,Deodato
+148,3,00:04,MOG,49,48,FR,Deodato
+149,3,00:04,BAU,49,48,FC,Lucas
+150,3,00:09,BAU,49,48,substituicao_entra,Renato
+151,3,00:09,BAU,49,48,substituicao_sai,Marcão
+152,3,00:09,MOG,49,48,substituicao_entra,Filipin
+153,3,00:09,MOG,49,48,substituicao_sai,Lessa
+154,3,00:09,MOG,49,48,substituicao_entra,Shamell
+155,3,00:09,MOG,49,48,substituicao_sai,José Carlos
+156,3,00:09,MOG,49,48,FR,Deodato
+157,3,00:09,BAU,49,48,FC,Larry
+158,3,00:11,MOG,49,48,RD,Batista
+159,3,00:16,BAU,49,48,2_Pts_T,Marcão
+160,3,00:18,BAU,49,48,RO,Marcão
+161,3,00:26,MOG,49,48,TO,José Carlos
+162,3,00:26,BAU,49,48,2_Pts_T,Marcão
+163,3,00:43,MOG,49,48,substituicao_entra,Lessa
+164,3,00:43,MOG,49,48,substituicao_sai,Filipin
+165,3,00:43,BAU,49,48,RD,Bauru
+166,3,00:43,MOG,49,48,2_Pts_T,Batista
+167,3,01:01,BAU,49,48,AS,Larry
+168,3,01:01,BAU,49,48,2_Pts_C,Emanuel
+169,3,01:20,MOG,49,46,AS,Batista
+170,3,01:20,MOG,49,46,2_Pts_C,José Carlos
+171,3,01:37,BAU,47,46,AS,Lucas
+172,3,01:37,BAU,47,46,2_Pts_C,Emanuel
+173,3,01:55,BAU,47,44,substituicao_entra,Emanuel
+174,3,01:55,BAU,47,44,substituicao_sai,Ruiz
+175,3,01:55,BAU,47,44,substituicao_entra,Lucas
+176,3,01:55,BAU,47,44,substituicao_sai,Renato
+177,3,01:55,BAU,47,44,RD,Bauru
+178,3,01:55,MOG,47,44,3_Pts_T,Cafferata
+179,3,02:08,BAU,47,44,AS,Ruiz
+180,3,02:08,BAU,47,44,2_Pts_C,Marcão
+181,3,02:28,BAU,47,42,BR,Marcão
+182,3,02:28,MOG,47,42,ER,Batista
+183,3,02:48,MOG,47,42,substituicao_entra,José Carlos
+184,3,02:48,MOG,47,42,substituicao_sai,Gruber
+185,3,02:48,MOG,47,42,substituicao_entra,Deodato
+186,3,02:48,MOG,47,42,substituicao_sai,Shamell
+187,3,02:48,BAU,47,42,ER,Renato
+188,3,03:09,MOG,47,42,ER,Cafferata
+189,3,03:28,BAU,47,42,ER,
+190,3,03:39,MOG,47,42,substituicao_entra,Batista
+191,3,03:39,MOG,47,42,substituicao_sai,Arthur Pecos
+192,3,03:39,MOG,47,42,substituicao_entra,Cafferata
+193,3,03:39,MOG,47,42,substituicao_sai,João Pedro
+194,3,03:39,BAU,47,42,FR,Marcão
+195,3,03:39,MOG,47,42,FC,João Pedro
+196,3,03:40,BAU,47,42,RD,Renato
+197,3,03:46,MOG,47,42,2_Pts_T,Gruber
+198,3,04:12,BAU,47,42,2_Pts_C,Larry
+199,3,04:16,BAU,47,40,FR,Marcão
+200,3,04:16,MOG,47,40,FC,João Pedro
+201,3,04:21,BAU,47,40,RD,Marcão
+202,3,04:26,MOG,47,40,3_Pts_T,Arthur Pecos
+203,3,04:47,BAU,47,40,substituicao_entra,Marcão
+204,3,04:47,BAU,47,40,substituicao_sai,Lucas
+205,3,04:47,MOG,47,40,substituicao_entra,João Pedro
+206,3,04:47,MOG,47,40,substituicao_sai,Batista
+207,3,04:47,MOG,47,40,substituicao_entra,Filipin
+208,3,04:47,MOG,47,40,substituicao_sai,Deodato
+209,3,04:47,MOG,47,40,RD,Mogi
+210,3,04:47,BAU,47,40,3_Pts_T,Ruiz
+211,3,05:01,MOG,47,40,AS,Arthur Pecos
+212,3,05:01,MOG,47,40,2_Pts_C,Batista
+213,3,05:04,MOG,45,40,RD,Arthur Pecos
+214,3,05:09,BAU,45,40,2_Pts_T,Ruiz
+215,3,05:09,BAU,45,40,RO,Ruiz
+216,3,05:17,BAU,45,40,3_Pts_T,Lucas
+217,3,05:19,BAU,45,40,RD,Renato
+218,3,05:29,MOG,45,40,2_Pts_T,Deodato
+219,3,05:36,BAU,45,40,LL_Pts_C,Ruiz
+220,3,05:36,BAU,45,39,FR,Ruiz
+221,3,05:36,MOG,45,39,FC,Batista
+222,3,05:36,BAU,45,39,2_Pts_C,Ruiz
+223,3,05:49,MOG,45,37,AS,Shamell
+224,3,05:49,MOG,45,37,2_Pts_C,Batista
+225,3,06:12,BAU,43,37,AS,Ruiz
+226,3,06:12,BAU,43,37,2_Pts_C,Lucas
+227,3,06:39,MOG,43,35,LL_Pts_C,Shamell
+228,3,06:39,BAU,42,35,substituicao_entra,Larry
+229,3,06:39,BAU,42,35,substituicao_sai,Fúlvio
+230,3,06:39,MOG,42,35,substituicao_entra,Arthur Pecos
+231,3,06:39,MOG,42,35,substituicao_sai,Cafferata
+232,3,06:39,MOG,42,35,FR,Shamell
+233,3,06:39,BAU,42,35,FC,Fúlvio
+234,3,06:39,MOG,42,35,2_Pts_C,Shamell
+235,3,06:49,MOG,40,35,FR,Cafferata
+236,3,06:49,BAU,40,35,FC,Fúlvio
+237,3,06:59,BAU,40,35,2_Pts_C,André
+238,3,07:12,BAU,40,33,RO,Bauru
+239,3,07:15,BAU,40,33,3_Pts_T,Ruiz
+240,3,07:20,BAU,40,33,FR,Ruiz
+241,3,07:20,MOG,40,33,FC,Cafferata
+242,3,07:20,BAU,40,33,RD,Ruiz
+243,3,07:27,MOG,40,33,2_Pts_T,Batista
+244,3,07:44,BAU,40,33,ER,Ruiz
+245,3,08:02,BAU,40,33,RD,André
+246,3,08:06,MOG,40,33,2_Pts_T,Batista
+247,3,08:15,MOG,40,33,RO,Mogi
+248,3,08:19,MOG,40,33,3_Pts_T,Deodato
+249,3,08:33,MOG,40,33,FR,Deodato
+250,3,08:33,BAU,40,33,FC,Fúlvio
+251,3,08:33,MOG,40,33,RD,Batista
+252,3,08:41,MOG,40,33,TO,Batista
+253,3,08:41,BAU,40,33,2_Pts_T,Renato
+254,3,08:49,BAU,40,33,RD,Renato
+255,3,08:54,MOG,40,33,2_Pts_T,Batista
+256,3,09:02,MOG,40,33,RD,Deodato
+257,3,09:06,BAU,40,33,3_Pts_T,Fúlvio
+258,3,09:07,BAU,40,33,RO,Ruiz
+259,3,09:17,BAU,40,33,,
+260,3,09:42,MOG,40,33,AS,Deodato
+261,3,09:42,MOG,40,33,2_Pts_C,Batista
+262,3,10:00,NaN,38,33,inicio_quarto,
+263,2,00:00,NaN,38,33,fim_quarto,
+264,2,00:07,MOG,38,33,2_Pts_T,Arthur Pecos
+265,2,00:07,MOG,38,33,BR,Arthur Pecos
+266,2,00:07,BAU,38,33,ER,Emanuel
+267,2,00:07,BAU,38,33,BR,Emanuel
+268,2,00:07,MOG,38,33,ER,Arthur Pecos
+269,2,00:18,MOG,38,33,tempo_tecnico,Mogi
+270,2,00:22,BAU,38,33,AS,Larry
+271,2,00:22,BAU,38,33,2_Pts_C,Lucas
+272,2,00:25,BAU,38,31,BR,Larry
+273,2,00:25,MOG,38,31,ER,Shamell
+274,2,00:43,BAU,38,31,substituicao_entra,Emanuel
+275,2,00:43,BAU,38,31,substituicao_sai,Ruiz
+276,2,00:43,BAU,38,31,substituicao_entra,André
+277,2,00:43,BAU,38,31,substituicao_sai,Renato
+278,2,00:43,BAU,38,31,LL_Pts_C,Ruiz
+279,2,00:43,BAU,38,30,LL_Pts_C,Ruiz
+280,2,00:43,BAU,38,29,FR,Ruiz
+281,2,00:43,MOG,38,29,FC,Filipin
+282,2,00:55,MOG,38,29,AS,Deodato
+283,2,00:55,MOG,38,29,3_Pts_C,Filipin
+284,2,00:58,MOG,35,29,RO,Shamell
+285,2,01:04,MOG,35,29,2_Pts_T,Shamell
+286,2,01:09,MOG,35,29,BR,Shamell
+287,2,01:09,BAU,35,29,ER,Fúlvio
+288,2,01:12,BAU,35,29,substituicao_entra,Ruiz
+289,2,01:12,BAU,35,29,substituicao_sai,André
+290,2,01:20,BAU,35,29,substituicao_entra,Fúlvio
+291,2,01:20,BAU,35,29,substituicao_sai,Emanuel
+292,2,01:20,MOG,35,29,LL_Pts_T,Shamell
+293,2,01:20,BAU,35,29,ER,
+294,2,01:20,BAU,35,29,FC_T,Técnico do Bauru
+295,2,01:20,MOG,35,29,LL_Pts_T,Shamell
+296,2,01:20,BAU,35,29,ER,Lucas
+297,2,01:20,BAU,35,29,FC_T,Lucas
+298,2,01:20,BAU,35,29,tempo_tecnico,Bauru
+299,2,01:20,MOG,35,29,2_Pts_C,Batista
+300,2,01:20,MOG,33,29,RO,Batista
+301,2,01:22,MOG,33,29,2_Pts_T,Batista
+302,2,01:32,MOG,33,29,RD,Arthur Pecos
+303,2,01:38,BAU,33,29,3_Pts_T,Renato
+304,2,01:54,BAU,33,29,RD,Larry
+305,2,01:58,MOG,33,29,2_Pts_T,Batista
+306,2,02:10,MOG,33,29,substituicao_entra,Filipin
+307,2,02:10,MOG,33,29,substituicao_sai,José Carlos
+308,2,02:10,MOG,33,29,RD,Mogi
+309,2,02:11,BAU,33,29,3_Pts_T,Lucas
+310,2,02:22,BAU,33,29,RD,Larry
+311,2,02:29,MOG,33,29,3_Pts_T,José Carlos
+312,2,02:49,BAU,33,29,2_Pts_C,Renato
+313,2,03:08,BAU,33,27,substituicao_entra,Emanuel
+314,2,03:08,BAU,33,27,substituicao_sai,Ruiz
+315,2,03:08,MOG,33,27,LL_Pts_C,Shamell
+316,2,03:08,MOG,32,27,LL_Pts_C,Shamell
+317,2,03:08,MOG,31,27,FR,Shamell
+318,2,03:08,BAU,31,27,FC,Ruiz
+319,2,03:12,BAU,31,27,ER,Renato
+320,2,03:12,BAU,31,27,RD,Renato
+321,2,03:16,MOG,31,27,3_Pts_T,Shamell
+322,2,03:30,MOG,31,27,RD,José Carlos
+323,2,03:32,BAU,31,27,LL_Pts_T,Lucas
+324,2,03:32,BAU,31,27,LL_Pts_C,Lucas
+325,2,03:32,BAU,31,26,FR,Lucas
+326,2,03:32,MOG,31,26,FC,Batista
+327,2,03:54,MOG,31,26,LL_Pts_C,Batista
+328,2,03:54,MOG,30,26,FR,Batista
+329,2,03:54,BAU,30,26,FC,André
+330,2,03:54,MOG,30,26,AS,José Carlos
+331,2,03:54,MOG,30,26,2_Pts_C,Batista
+332,2,04:01,MOG,28,26,RD,Shamell
+333,2,04:05,BAU,28,26,2_Pts_T,Larry
+334,2,04:21,MOG,28,26,LL_Pts_C,Batista
+335,2,04:21,MOG,27,26,LL_Pts_C,Batista
+336,2,04:21,BAU,26,26,substituicao_entra,Renato
+337,2,04:21,BAU,26,26,substituicao_sai,Marcão
+338,2,04:21,MOG,26,26,FR,Batista
+339,2,04:21,BAU,26,26,FC,Marcão
+340,2,04:36,MOG,26,26,RD,Batista
+341,2,04:39,BAU,26,26,LL_Pts_T,Ruiz
+342,2,04:39,BAU,26,26,LL_Pts_C,Ruiz
+343,2,04:39,BAU,26,25,substituicao_entra,Larry
+344,2,04:39,BAU,26,25,substituicao_sai,Fúlvio
+345,2,04:39,MOG,26,25,substituicao_entra,Deodato
+346,2,04:39,MOG,26,25,substituicao_sai,Lessa
+347,2,04:39,MOG,26,25,substituicao_entra,José Carlos
+348,2,04:39,MOG,26,25,substituicao_sai,Gruber
+349,2,04:39,MOG,26,25,substituicao_entra,Arthur Pecos
+350,2,04:39,MOG,26,25,substituicao_sai,Cafferata
+351,2,04:39,BAU,26,25,FR,Ruiz
+352,2,04:39,MOG,26,25,FC,Lessa
+353,2,04:52,BAU,26,25,RD,Ruiz
+354,2,04:57,MOG,26,25,3_Pts_T,Gruber
+355,2,05:21,BAU,26,25,3_Pts_C,Fúlvio
+356,2,05:43,BAU,26,22,FR,Ruiz
+357,2,05:43,MOG,26,22,ER,Gruber
+358,2,05:43,MOG,26,22,FC_O,Gruber
+359,2,05:51,MOG,26,22,BR,Cafferata
+360,2,05:51,BAU,26,22,ER,Fúlvio
+361,2,06:08,MOG,26,22,LL_Pts_C,Batista
+362,2,06:08,MOG,25,22,LL_Pts_T,Batista
+363,2,06:08,MOG,25,22,FR,Batista
+364,2,06:08,BAU,25,22,FC,Marcão
+365,2,06:29,MOG,25,22,BR,Batista
+366,2,06:29,BAU,25,22,ER,Fúlvio
+367,2,06:44,BAU,25,22,LL_Pts_C,Fúlvio
+368,2,06:44,BAU,25,21,LL_Pts_C,Fúlvio
+369,2,06:44,BAU,25,20,FR,Fúlvio
+370,2,06:44,MOG,25,20,FC_A,Lessa
+371,2,06:48,BAU,25,20,RD,Fúlvio
+372,2,06:53,MOG,25,20,2_Pts_T,Gruber
+373,2,06:58,MOG,25,20,substituicao_entra,Lessa
+374,2,06:58,MOG,25,20,substituicao_sai,Filipin
+375,2,06:58,MOG,25,20,substituicao_entra,Cafferata
+376,2,06:58,MOG,25,20,substituicao_sai,Deodato
+377,2,06:58,MOG,25,20,substituicao_entra,Batista
+378,2,06:58,MOG,25,20,substituicao_sai,João Pedro
+379,2,06:58,MOG,25,20,substituicao_entra,Shamell
+380,2,06:58,MOG,25,20,substituicao_sai,Arthur Pecos
+381,2,07:16,BAU,25,20,LL_Pts_C,Lucas
+382,2,07:16,BAU,25,19,LL_Pts_C,Lucas
+383,2,07:16,BAU,25,18,FR,Lucas
+384,2,07:16,MOG,25,18,FC,João Pedro
+385,2,07:42,MOG,25,18,AS,Filipin
+386,2,07:42,MOG,25,18,3_Pts_C,Gruber
+387,2,07:52,BAU,22,18,substituicao_entra,Fúlvio
+388,2,07:52,BAU,22,18,substituicao_sai,Larry
+389,2,07:52,MOG,22,18,FR,João Pedro
+390,2,07:52,BAU,22,18,FC,Marcão
+391,2,07:52,MOG,22,18,RO,Arthur Pecos
+392,2,07:53,MOG,22,18,2_Pts_T,João Pedro
+393,2,08:07,MOG,22,18,RD,Deodato
+394,2,08:12,BAU,22,18,3_Pts_T,André
+395,2,08:22,BAU,22,18,RD,Ruiz
+396,2,08:26,MOG,22,18,3_Pts_T,Deodato
+397,2,08:56,BAU,22,18,AS,Larry
+398,2,08:56,BAU,22,18,3_Pts_C,Lucas
+399,2,09:08,BAU,22,15,FR,Marcão
+400,2,09:08,MOG,22,15,FC,João Pedro
+401,2,09:27,MOG,22,15,3_Pts_C,Gruber
+402,2,09:42,BAU,19,15,substituicao_entra,Marcão
+403,2,09:42,BAU,19,15,substituicao_sai,Renato
+404,2,09:45,MOG,19,15,FR,Arthur Pecos
+405,2,09:45,BAU,19,15,ER,Renato
+406,2,09:45,BAU,19,15,FC_O,Renato
+407,2,10:00,NaN,19,15,inicio_quarto,
+408,1,00:00,NaN,19,15,fim_quarto,
+409,1,00:05,MOG,19,15,RD,Gruber
+410,1,00:05,BAU,19,15,2_Pts_T,Renato
+411,1,00:27,MOG,19,15,AS,Arthur Pecos
+412,1,00:27,MOG,19,15,3_Pts_C,Cafferata
+413,1,00:30,MOG,16,15,RO,Mogi
+414,1,00:30,BAU,16,15,TO,Malachias
+415,1,00:30,MOG,16,15,2_Pts_T,Cafferata
+416,1,00:44,BAU,16,15,substituicao_entra,Malachias
+417,1,00:44,BAU,16,15,substituicao_sai,Lucas
+418,1,00:44,BAU,16,15,substituicao_entra,Emanuel
+419,1,00:44,BAU,16,15,substituicao_sai,Ruiz
+420,1,00:44,BAU,16,15,LL_Pts_C,Ruiz
+421,1,00:44,BAU,16,14,LL_Pts_C,Ruiz
+422,1,00:44,MOG,16,13,substituicao_entra,João Pedro
+423,1,00:44,MOG,16,13,substituicao_sai,Batista
+424,1,00:44,BAU,16,13,FR,Ruiz
+425,1,00:44,MOG,16,13,FC,Filipin
+426,1,01:04,MOG,16,13,AS,Batista
+427,1,01:04,MOG,16,13,LL_Pts_C,Gruber
+428,1,01:04,MOG,15,13,LL_Pts_T,Gruber
+429,1,01:04,MOG,15,13,FR,Gruber
+430,1,01:04,BAU,15,13,FC,Renato
+431,1,01:18,MOG,15,13,RD,Gruber
+432,1,01:20,BAU,15,13,LL_Pts_T,Renato
+433,1,01:20,BAU,15,13,substituicao_entra,André
+434,1,01:20,BAU,15,13,substituicao_sai,Fúlvio
+435,1,01:20,MOG,15,13,substituicao_entra,Cafferata
+436,1,01:20,MOG,15,13,substituicao_sai,Shamell
+437,1,01:20,MOG,15,13,substituicao_entra,Filipin
+438,1,01:20,MOG,15,13,substituicao_sai,Deodato
+439,1,01:20,BAU,15,13,FR,Renato
+440,1,01:20,MOG,15,13,FC,Gruber
+441,1,01:20,BAU,15,13,AS,Fúlvio
+442,1,01:20,BAU,15,13,2_Pts_C,Renato
+443,1,01:24,BAU,15,11,RD,Fúlvio
+444,1,01:28,MOG,15,11,3_Pts_T,Arthur Pecos
+445,1,01:38,MOG,15,11,RO,Batista
+446,1,01:42,MOG,15,11,3_Pts_T,Deodato
+447,1,01:58,BAU,15,11,AS,Ruiz
+448,1,01:58,BAU,15,11,2_Pts_C,Larry
+449,1,02:06,BAU,15,9,RD,Ruiz
+450,1,02:11,MOG,15,9,3_Pts_T,Arthur Pecos
+451,1,02:22,BAU,15,9,AS,Ruiz
+452,1,02:22,BAU,15,9,2_Pts_C,Lucas
+453,1,02:27,BAU,15,7,RD,Renato
+454,1,02:31,MOG,15,7,2_Pts_T,Shamell
+455,1,02:39,MOG,15,7,BR,Deodato
+456,1,02:39,BAU,15,7,ER,Lucas
+457,1,02:45,BAU,15,7,RD,Lucas
+458,1,02:51,MOG,15,7,3_Pts_T,Shamell
+459,1,03:16,BAU,15,7,3_Pts_C,Fúlvio
+460,1,03:32,MOG,15,4,2_Pts_C,Arthur Pecos
+461,1,03:45,MOG,13,4,RD,Gruber
+462,1,03:51,BAU,13,4,3_Pts_T,Lucas
+463,1,03:55,BAU,13,4,RD,Ruiz
+464,1,04:00,MOG,13,4,3_Pts_T,Shamell
+465,1,04:02,MOG,13,4,RD,Gruber
+466,1,04:08,BAU,13,4,2_Pts_T,Fúlvio
+467,1,04:25,MOG,13,4,substituicao_entra,Gruber
+468,1,04:25,MOG,13,4,substituicao_sai,José Carlos
+469,1,04:25,BAU,13,4,tempo_tecnico,Bauru
+470,1,04:25,MOG,13,4,2_Pts_C,Deodato
+471,1,04:28,MOG,11,4,BR,Deodato
+472,1,04:28,BAU,11,4,ER,Larry
+473,1,04:39,MOG,11,4,2_Pts_C,Arthur Pecos
+474,1,04:44,MOG,9,4,RD,Batista
+475,1,04:49,BAU,9,4,2_Pts_T,Renato
+476,1,05:05,MOG,9,4,ER,Deodato
+477,1,05:12,MOG,9,4,BR,Batista
+478,1,05:12,BAU,9,4,ER,Fúlvio
+479,1,05:26,BAU,9,4,RO,Bauru
+480,1,05:29,BAU,9,4,2_Pts_T,Larry
+481,1,05:45,BAU,9,4,BR,Fúlvio
+482,1,05:45,MOG,9,4,ER,Shamell
+483,1,05:57,BAU,9,4,2_Pts_C,Ruiz
+484,1,06:18,BAU,9,2,substituicao_entra,Renato
+485,1,06:18,BAU,9,2,substituicao_sai,Marcão
+486,1,06:18,BAU,9,2,substituicao_entra,Larry
+487,1,06:18,BAU,9,2,substituicao_sai,André
+488,1,06:18,MOG,9,2,substituicao_entra,Arthur Pecos
+489,1,06:18,MOG,9,2,substituicao_sai,Cafferata
+490,1,06:18,BAU,9,2,RD,Bauru
+491,1,06:22,MOG,9,2,3_Pts_T,Deodato
+492,1,06:25,MOG,9,2,RD,José Carlos
+493,1,06:30,BAU,9,2,3_Pts_T,Ruiz
+494,1,06:47,MOG,9,2,AS,Batista
+495,1,06:47,MOG,9,2,3_Pts_C,Deodato
+496,1,06:52,MOG,6,2,FR,Deodato
+497,1,06:52,BAU,6,2,FC,Ruiz
+498,1,06:52,MOG,6,2,RD,Cafferata
+499,1,06:56,BAU,6,2,2_Pts_T,Marcão
+500,1,07:05,BAU,6,2,RD,Lucas
+501,1,07:10,MOG,6,2,3_Pts_T,Cafferata
+502,1,07:34,BAU,6,2,LL_Pts_C,Marcão
+503,1,07:34,BAU,6,1,LL_Pts_C,Marcão
+504,1,07:34,BAU,6,0,FR,Marcão
+505,1,07:34,MOG,6,0,FC,José Carlos
+506,1,07:57,BAU,6,0,FR,Lucas
+507,1,07:57,MOG,6,0,FC,Deodato
+508,1,08:00,MOG,6,0,LL_Pts_C,Deodato
+509,1,08:00,MOG,5,0,LL_Pts_T,Deodato
+510,1,08:00,MOG,5,0,FR,Deodato
+511,1,08:00,BAU,5,0,FC,André
+512,1,08:21,BAU,5,0,ER,André
+513,1,08:35,MOG,5,0,3_Pts_C,Deodato
+514,1,08:37,MOG,2,0,RD,José Carlos
+515,1,08:43,BAU,2,0,2_Pts_T,Marcão
+516,1,08:56,MOG,2,0,2_Pts_C,Batista
+517,1,08:58,MOG,0,0,RO,Batista
+518,1,09:05,MOG,0,0,2_Pts_T,Batista
+519,1,09:13,MOG,0,0,RD,Batista
+520,1,09:20,BAU,0,0,3_Pts_T,Ruiz
+521,1,09:34,BAU,0,0,RD,Lucas
+522,1,09:41,MOG,0,0,2_Pts_T,Shamell
+523,1,10:00,BAU,0,0,substituicao_entra,Marcão
+524,1,10:00,BAU,0,0,substituicao_entra,Fúlvio
+525,1,10:00,BAU,0,0,substituicao_entra,Ruiz
+526,1,10:00,BAU,0,0,substituicao_entra,Lucas
+527,1,10:00,BAU,0,0,substituicao_entra,André
+528,1,10:00,MOG,0,0,substituicao_entra,Cafferata
+529,1,10:00,MOG,0,0,substituicao_entra,José Carlos
+530,1,10:00,MOG,0,0,substituicao_entra,Batista
+531,1,10:00,MOG,0,0,substituicao_entra,Shamell
+532,1,10:00,MOG,0,0,substituicao_entra,Deodato
+533,1,10:00,NaN,0,0,inicio_partida,

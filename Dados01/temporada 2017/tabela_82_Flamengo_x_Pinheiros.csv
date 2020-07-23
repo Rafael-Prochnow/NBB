@@ -1,0 +1,568 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,72,68,fim_partida,
+1,4,00:03,FLA,72,68,EN,Olivinha
+2,4,00:06,FLA,70,68,BR,Batista
+3,4,00:06,PIN,70,68,ER,Gui Bento
+4,4,00:14,PIN,70,68,RD,Arthur
+5,4,00:15,FLA,70,68,LL_Pts_T,Cubillan
+6,4,00:15,FLA,70,68,LL_Pts_T,Cubillan
+7,4,00:15,FLA,70,68,FR,Cubillan
+8,4,00:15,PIN,70,68,FC,Sena
+9,4,00:19,PIN,70,68,substituicao_entra,Gui Bento
+10,4,00:19,PIN,70,68,substituicao_sai,Holloway
+11,4,00:19,PIN,70,68,substituicao_entra,Arthur
+12,4,00:19,PIN,70,68,substituicao_sai,Lupa
+13,4,00:19,PIN,70,68,substituicao_entra,Sena
+14,4,00:19,PIN,70,68,substituicao_sai,Ware
+15,4,00:19,FLA,70,68,tempo_tecnico,Flamengo
+16,4,00:19,PIN,70,68,LL_Pts_C,Holloway
+17,4,00:19,PIN,70,67,LL_Pts_C,Holloway
+18,4,00:19,FLA,70,66,substituicao_entra,Cubillan
+19,4,00:19,FLA,70,66,substituicao_sai,Arthur Pecos
+20,4,00:19,FLA,70,66,substituicao_entra,Marquinhos
+21,4,00:19,FLA,70,66,substituicao_sai,Pilar
+22,4,00:19,PIN,70,66,FR,Holloway
+23,4,00:19,FLA,70,66,FC,Pilar
+24,4,00:21,FLA,70,66,substituicao_entra,Arthur Pecos
+25,4,00:21,FLA,70,66,substituicao_sai,Marquinhos
+26,4,00:21,FLA,70,66,substituicao_entra,Pilar
+27,4,00:21,FLA,70,66,substituicao_sai,Cubillan
+28,4,00:21,PIN,70,66,tempo_tecnico,Pinheiros
+29,4,00:21,FLA,70,66,AS,Batista
+30,4,00:21,FLA,70,66,3_Pts_C,Ramon
+31,4,00:34,FLA,67,66,substituicao_entra,Cubillan
+32,4,00:34,FLA,67,66,substituicao_sai,Arthur Pecos
+33,4,00:34,PIN,67,66,AS,Lupa
+34,4,00:34,PIN,67,66,2_Pts_C,Bennett
+35,4,00:45,PIN,67,64,FR,Holloway
+36,4,00:45,FLA,67,64,FC,Ramon
+37,4,00:57,PIN,67,64,RD,Ware
+38,4,00:57,FLA,67,64,LL_Pts_T,Olivinha
+39,4,00:57,FLA,67,64,substituicao_entra,Arthur Pecos
+40,4,00:57,FLA,67,64,substituicao_sai,Cubillan
+41,4,00:57,FLA,67,64,FR,Olivinha
+42,4,00:57,PIN,67,64,FC,Lupa
+43,4,01:01,FLA,67,64,2_Pts_C,Olivinha
+44,4,01:02,FLA,65,64,RO,Olivinha
+45,4,01:04,FLA,65,64,2_Pts_T,Batista
+46,4,01:28,FLA,65,64,substituicao_entra,Olivinha
+47,4,01:28,FLA,65,64,substituicao_sai,Pilar
+48,4,01:28,FLA,65,64,substituicao_entra,Cubillan
+49,4,01:28,FLA,65,64,substituicao_sai,Arthur Pecos
+50,4,01:29,PIN,65,64,AS,Holloway
+51,4,01:29,PIN,65,64,2_Pts_C,Lupa
+52,4,01:40,FLA,65,62,substituicao_entra,Arthur Pecos
+53,4,01:40,FLA,65,62,substituicao_sai,Cubillan
+54,4,01:40,PIN,65,62,FR,Bennett
+55,4,01:40,FLA,65,62,FC,Cubillan
+56,4,01:40,PIN,65,62,RO,Pinheiros
+57,4,01:40,PIN,65,62,3_Pts_T,Ruivo
+58,4,02:06,FLA,65,62,AS,Ramon
+59,4,02:06,FLA,65,62,2_Pts_C,Batista
+60,4,02:08,FLA,63,62,RO,Cubillan
+61,4,02:10,FLA,63,62,3_Pts_T,Marquinhos
+62,4,02:33,PIN,63,62,2_Pts_C,Bennett
+63,4,02:36,PIN,63,60,RD,Lupa
+64,4,02:38,FLA,63,60,2_Pts_T,Marquinhos
+65,4,02:54,PIN,63,60,2_Pts_C,Holloway
+66,4,02:55,PIN,63,58,RO,Holloway
+67,4,02:57,PIN,63,58,2_Pts_T,Ware
+68,4,03:14,FLA,63,58,LL_Pts_C,Batista
+69,4,03:14,FLA,62,58,LL_Pts_C,Batista
+70,4,03:14,PIN,61,58,substituicao_entra,Ware
+71,4,03:14,PIN,61,58,substituicao_sai,Gui Bento
+72,4,03:15,PIN,61,58,substituicao_entra,Holloway
+73,4,03:15,PIN,61,58,substituicao_sai,Ware
+74,4,03:15,FLA,61,58,FR,Pilar
+75,4,03:15,PIN,61,58,FC,Ware
+76,4,03:15,FLA,61,58,RO,Flamengo
+77,4,03:15,FLA,61,58,3_Pts_T,Ramon
+78,4,03:37,PIN,61,58,2_Pts_C,Ruivo
+79,4,03:59,PIN,61,56,RD,Gui Bento
+80,4,04:01,FLA,61,56,2_Pts_T,Cubillan
+81,4,04:25,FLA,61,56,RD,Batista
+82,4,04:28,PIN,61,56,3_Pts_T,Ware
+83,4,04:41,PIN,61,56,RD,Ware
+84,4,04:43,FLA,61,56,2_Pts_T,Pilar
+85,4,04:45,FLA,61,56,FR,Pilar
+86,4,04:45,PIN,61,56,FC,Gui Bento
+87,4,04:46,FLA,61,56,RO,Flamengo
+88,4,04:48,FLA,61,56,3_Pts_T,Ramon
+89,4,05:06,FLA,61,56,RD,Cubillan
+90,4,05:08,PIN,61,56,2_Pts_T,Lupa
+91,4,05:17,PIN,61,56,FR,Bennett
+92,4,05:17,FLA,61,56,FC,Pilar
+93,4,05:17,PIN,61,56,RO,Pinheiros
+94,4,05:17,PIN,61,56,2_Pts_T,Ruivo
+95,4,05:36,PIN,61,56,substituicao_entra,Gui Bento
+96,4,05:36,PIN,61,56,substituicao_sai,Holloway
+97,4,05:36,PIN,61,56,substituicao_entra,Ware
+98,4,05:36,PIN,61,56,substituicao_sai,Ansaloni
+99,4,05:36,FLA,61,56,ER,
+100,4,05:37,FLA,61,56,RO,Batista
+101,4,05:40,FLA,61,56,2_Pts_T,Pilar
+102,4,05:53,FLA,61,56,RO,Cubillan
+103,4,05:54,FLA,61,56,2_Pts_T,Marquinhos
+104,4,05:56,FLA,61,56,RD,Cubillan
+105,4,05:58,PIN,61,56,3_Pts_T,Ansaloni
+106,4,06:15,PIN,61,56,RD,Ansaloni
+107,4,06:17,FLA,61,56,2_Pts_T,Batista
+108,4,06:27,FLA,61,56,RD,Batista
+109,4,06:29,PIN,61,56,3_Pts_T,Ansaloni
+110,4,06:46,FLA,61,56,LL_Pts_C,Pilar
+111,4,06:46,FLA,60,56,FR,Pilar
+112,4,06:46,PIN,60,56,FC,Holloway
+113,4,06:46,FLA,60,56,AS,Marquinhos
+114,4,06:46,FLA,60,56,2_Pts_C,Pilar
+115,4,07:04,FLA,58,56,substituicao_entra,Cubillan
+116,4,07:04,FLA,58,56,substituicao_sai,Arthur Pecos
+117,4,07:04,PIN,58,56,ER,Lupa
+118,4,07:18,PIN,58,56,BR,Lupa
+119,4,07:18,FLA,58,56,ER,Arthur Pecos
+120,4,07:42,PIN,58,56,2_Pts_C,Holloway
+121,4,07:49,PIN,58,54,BR,Bennett
+122,4,07:49,FLA,58,54,ER,Marquinhos
+123,4,08:04,FLA,58,54,RD,Pilar
+124,4,08:07,PIN,58,54,3_Pts_T,Ruivo
+125,4,08:27,PIN,58,54,tempo_tecnico,Pinheiros
+126,4,08:31,FLA,58,54,AS,Marquinhos
+127,4,08:31,FLA,58,54,3_Pts_C,Pilar
+128,4,08:47,FLA,55,54,BR,Ramon
+129,4,08:47,PIN,55,54,ER,Bennett
+130,4,08:58,FLA,55,54,AS,Batista
+131,4,08:58,FLA,55,54,LL_Pts_C,Marquinhos
+132,4,08:58,FLA,54,54,LL_Pts_C,Marquinhos
+133,4,08:58,FLA,53,54,LL_Pts_C,Marquinhos
+134,4,08:58,FLA,52,54,FR,Marquinhos
+135,4,08:58,PIN,52,54,FC,Holloway
+136,4,09:04,FLA,52,54,FR,Pilar
+137,4,09:04,PIN,52,54,FC,Ansaloni
+138,4,09:20,FLA,52,54,RD,Arthur Pecos
+139,4,09:20,PIN,52,54,LL_Pts_T,Holloway
+140,4,09:20,PIN,52,54,LL_Pts_C,Holloway
+141,4,09:20,PIN,52,53,FR,Holloway
+142,4,09:20,FLA,52,53,FC,Marquinhos
+143,4,09:38,FLA,52,53,AS,Batista
+144,4,09:38,FLA,52,53,2_Pts_C,Marquinhos
+145,4,10:00,NaN,50,53,inicio_quarto,
+146,3,00:00,NaN,50,53,fim_quarto,
+147,3,00:03,FLA,50,53,3_Pts_T,Arthur Pecos
+148,3,00:04,FLA,50,53,RD,Arthur Pecos
+149,3,00:04,PIN,50,53,3_Pts_T,Bennett
+150,3,00:26,PIN,50,53,substituicao_entra,Arthur
+151,3,00:26,PIN,50,53,substituicao_sai,Lupa
+152,3,00:26,FLA,50,53,LL_Pts_C,Rhett
+153,3,00:26,FLA,49,53,LL_Pts_T,Rhett
+154,3,00:26,FLA,49,53,FR,Rhett
+155,3,00:26,PIN,49,53,FC,Lupa
+156,3,00:27,FLA,49,53,RO,Rhett
+157,3,00:29,FLA,49,53,3_Pts_T,Ramon
+158,3,00:42,FLA,49,53,RO,Arthur Pecos
+159,3,00:44,FLA,49,53,3_Pts_T,Marquinhos
+160,3,01:05,FLA,49,53,RD,Batista
+161,3,01:05,PIN,49,53,LL_Pts_T,Ansaloni
+162,3,01:05,PIN,49,53,LL_Pts_T,Ansaloni
+163,3,01:05,PIN,49,53,FR,Ansaloni
+164,3,01:05,FLA,49,53,FC,Rhett
+165,3,01:06,PIN,49,53,RD,Ansaloni
+166,3,01:08,FLA,49,53,2_Pts_T,Arthur Pecos
+167,3,01:19,FLA,49,53,substituicao_entra,Batista
+168,3,01:19,FLA,49,53,substituicao_sai,João Vitor
+169,3,01:19,FLA,49,53,FR,Arthur Pecos
+170,3,01:19,PIN,49,53,FC,Ruivo
+171,3,01:34,PIN,49,53,2_Pts_C,Ansaloni
+172,3,01:35,PIN,49,51,RO,Ansaloni
+173,3,01:37,PIN,49,51,3_Pts_T,Holloway
+174,3,02:02,PIN,49,51,LL_Pts_C,Holloway
+175,3,02:02,FLA,49,50,FC_T,Técnico do Flamengo
+176,3,02:20,PIN,49,50,LL_Pts_C,Bennett
+177,3,02:20,PIN,49,49,LL_Pts_C,Bennett
+178,3,02:20,PIN,49,48,FR,Bennett
+179,3,02:20,FLA,49,48,FC,João Vitor
+180,3,02:26,PIN,49,48,RO,Holloway
+181,3,02:28,PIN,49,48,3_Pts_T,Holloway
+182,3,02:40,PIN,49,48,BR,Lupa
+183,3,02:40,FLA,49,48,ER,Rhett
+184,3,02:56,PIN,49,48,AS,Ansaloni
+185,3,02:56,PIN,49,48,2_Pts_C,Lupa
+186,3,03:06,PIN,49,46,RO,Lupa
+187,3,03:08,PIN,49,46,3_Pts_T,Ansaloni
+188,3,03:24,PIN,49,46,RD,Bennett
+189,3,03:26,FLA,49,46,2_Pts_T,Rhett
+190,3,03:47,FLA,49,46,substituicao_entra,Arthur Pecos
+191,3,03:47,FLA,49,46,substituicao_sai,Cubillan
+192,3,03:47,FLA,49,46,tempo_tecnico,Flamengo
+193,3,03:50,PIN,49,46,AS,Holloway
+194,3,03:50,PIN,49,46,2_Pts_C,Lupa
+195,3,04:05,FLA,49,44,substituicao_entra,Rhett
+196,3,04:05,FLA,49,44,substituicao_sai,Olivinha
+197,3,04:05,FLA,49,44,substituicao_entra,João Vitor
+198,3,04:05,FLA,49,44,substituicao_sai,Batista
+199,3,04:05,FLA,49,44,ER,Olivinha
+200,3,04:16,PIN,49,44,2_Pts_C,Holloway
+201,3,04:19,PIN,49,42,RO,Holloway
+202,3,04:19,PIN,49,42,2_Pts_T,Holloway
+203,3,04:20,PIN,49,42,RO,Holloway
+204,3,04:22,PIN,49,42,2_Pts_T,Ruivo
+205,3,04:27,PIN,49,42,BR,Ruivo
+206,3,04:27,FLA,49,42,ER,Ramon
+207,3,04:44,PIN,49,42,LL_Pts_C,Holloway
+208,3,04:44,PIN,49,41,FR,Holloway
+209,3,04:44,FLA,49,41,FC,Cubillan
+210,3,04:45,PIN,49,41,AS,Lupa
+211,3,04:45,PIN,49,41,2_Pts_C,Holloway
+212,3,04:54,PIN,49,39,RD,Holloway
+213,3,04:56,FLA,49,39,3_Pts_T,Ramon
+214,3,05:03,FLA,49,39,BR,Batista
+215,3,05:03,PIN,49,39,ER,Ruivo
+216,3,05:12,PIN,49,39,FR,Holloway
+217,3,05:12,FLA,49,39,FC,Batista
+218,3,05:20,PIN,49,39,RO,Pinheiros
+219,3,05:21,PIN,49,39,2_Pts_T,Lupa
+220,3,05:22,PIN,49,39,RO,Lupa
+221,3,05:24,PIN,49,39,2_Pts_T,Ansaloni
+222,3,05:50,FLA,49,39,AS,Marquinhos
+223,3,05:50,FLA,49,39,2_Pts_C,Batista
+224,3,06:03,PIN,47,39,AS,Holloway
+225,3,06:03,PIN,47,39,2_Pts_C,Ansaloni
+226,3,06:05,PIN,47,37,RD,Holloway
+227,3,06:07,FLA,47,37,3_Pts_T,Olivinha
+228,3,06:27,PIN,47,37,AS,Lupa
+229,3,06:27,PIN,47,37,2_Pts_C,Ansaloni
+230,3,06:43,FLA,47,35,AS,Marquinhos
+231,3,06:43,FLA,47,35,LL_Pts_C,Olivinha
+232,3,06:43,FLA,46,35,LL_Pts_C,Olivinha
+233,3,06:43,FLA,45,35,FR,Olivinha
+234,3,06:43,PIN,45,35,FC,Holloway
+235,3,06:47,FLA,45,35,RD,Marquinhos
+236,3,06:49,PIN,45,35,3_Pts_T,Ruivo
+237,3,07:05,PIN,45,35,RO,Pinheiros
+238,3,07:05,PIN,45,35,LL_Pts_T,Bennett
+239,3,07:05,PIN,45,35,FR,Bennett
+240,3,07:05,FLA,45,35,FC,Batista
+241,3,07:05,PIN,45,35,2_Pts_C,Bennett
+242,3,07:14,FLA,45,33,AS,Marquinhos
+243,3,07:14,FLA,45,33,3_Pts_C,Cubillan
+244,3,07:20,FLA,42,33,RD,Batista
+245,3,07:22,PIN,42,33,2_Pts_T,Holloway
+246,3,07:38,PIN,42,33,RD,Pinheiros
+247,3,07:40,FLA,42,33,3_Pts_T,Olivinha
+248,3,07:58,FLA,42,33,RD,Flamengo
+249,3,08:00,PIN,42,33,2_Pts_T,Lupa
+250,3,08:15,PIN,42,33,RD,Ruivo
+251,3,08:17,FLA,42,33,3_Pts_T,Ramon
+252,3,08:24,FLA,42,33,BR,Cubillan
+253,3,08:24,PIN,42,33,ER,Bennett
+254,3,08:29,PIN,42,33,BR,Bennett
+255,3,08:29,FLA,42,33,ER,Ramon
+256,3,08:40,FLA,42,33,FR,Marquinhos
+257,3,08:40,PIN,42,33,FC,Holloway
+258,3,08:58,PIN,42,33,AS,Holloway
+259,3,08:58,PIN,42,33,3_Pts_C,Ruivo
+260,3,09:17,PIN,42,30,BR,Ansaloni
+261,3,09:17,FLA,42,30,ER,Batista
+262,3,09:41,FLA,42,30,RD,Batista
+263,3,09:41,PIN,42,30,LL_Pts_T,Lupa
+264,3,09:41,PIN,42,30,LL_Pts_T,Lupa
+265,3,09:41,PIN,42,30,FR,Lupa
+266,3,09:41,FLA,42,30,FC,Marquinhos
+267,3,10:00,NaN,42,30,inicio_quarto,
+268,2,00:00,PIN,42,30,RD,Holloway
+269,2,00:00,NaN,42,30,fim_quarto,
+270,2,00:00,FLA,42,30,2_Pts_T,Arthur Pecos
+271,2,00:12,FLA,42,30,substituicao_entra,Marquinhos
+272,2,00:12,FLA,42,30,substituicao_sai,Humberto G 
+273,2,00:12,FLA,42,30,tempo_tecnico,Flamengo
+274,2,00:12,PIN,42,30,,
+275,2,00:15,FLA,42,30,substituicao_entra,Rhett
+276,2,00:15,FLA,42,30,substituicao_sai,João Vitor
+277,2,00:30,PIN,42,30,substituicao_entra,Arthur
+278,2,00:30,PIN,42,30,substituicao_sai,Lupa
+279,2,00:30,PIN,42,30,substituicao_entra,Sena
+280,2,00:30,PIN,42,30,substituicao_sai,Gui Bento
+281,2,00:30,FLA,42,30,LL_Pts_C,Cubillan
+282,2,00:30,FLA,41,30,LL_Pts_C,Cubillan
+283,2,00:30,FLA,40,30,FR,Cubillan
+284,2,00:30,PIN,40,30,FC,Gui Bento
+285,2,00:35,FLA,40,30,RD,João Vitor
+286,2,00:38,PIN,40,30,3_Pts_T,Gui Bento
+287,2,00:45,PIN,40,30,RD,Holloway
+288,2,00:48,FLA,40,30,3_Pts_T,Olivinha
+289,2,01:10,PIN,40,30,LL_Pts_C,Ansaloni
+290,2,01:10,PIN,40,29,LL_Pts_T,Ansaloni
+291,2,01:10,PIN,40,29,FR,Ansaloni
+292,2,01:10,FLA,40,29,FC,Cubillan
+293,2,01:31,FLA,40,29,2_Pts_C,Humberto G 
+294,2,01:35,FLA,38,29,BR,Humberto G 
+295,2,01:35,PIN,38,29,ER,Lupa
+296,2,01:36,PIN,38,29,substituicao_entra,Ansaloni
+297,2,01:36,PIN,38,29,substituicao_sai,Arthur
+298,2,01:36,PIN,38,29,tempo_tecnico,Pinheiros
+299,2,01:40,FLA,38,29,AS,Humberto G 
+300,2,01:40,FLA,38,29,2_Pts_C,Cubillan
+301,2,01:44,FLA,36,29,BR,Humberto G 
+302,2,01:44,PIN,36,29,ER,Holloway
+303,2,02:03,FLA,36,29,AS,Olivinha
+304,2,02:03,FLA,36,29,2_Pts_C,João Vitor
+305,2,02:15,FLA,34,29,RD,Olivinha
+306,2,02:15,PIN,34,29,LL_Pts_T,Holloway
+307,2,02:15,PIN,34,29,LL_Pts_C,Holloway
+308,2,02:15,PIN,34,28,FR,Holloway
+309,2,02:15,FLA,34,28,FC,Arthur Pecos
+310,2,02:15,PIN,34,28,RO,Holloway
+311,2,02:17,PIN,34,28,3_Pts_T,Ruivo
+312,2,02:34,FLA,34,28,AS,João Vitor
+313,2,02:34,FLA,34,28,LL_Pts_C,Olivinha
+314,2,02:34,FLA,33,28,LL_Pts_C,Olivinha
+315,2,02:34,PIN,32,28,substituicao_entra,Gui Bento
+316,2,02:34,PIN,32,28,substituicao_sai,Ware
+317,2,02:34,FLA,32,28,FR,Olivinha
+318,2,02:34,PIN,32,28,FC,Ware
+319,2,02:36,FLA,32,28,RO,João Vitor
+320,2,02:39,PIN,32,28,TO,Ware
+321,2,02:39,FLA,32,28,2_Pts_T,Arthur Pecos
+322,2,02:41,FLA,32,28,RD,Humberto G 
+323,2,02:44,PIN,32,28,3_Pts_T,Ware
+324,2,02:49,PIN,32,28,RD,Arthur
+325,2,02:52,FLA,32,28,3_Pts_T,Olivinha
+326,2,03:10,FLA,32,28,FR,Humberto G 
+327,2,03:10,PIN,32,28,ER,Lupa
+328,2,03:10,PIN,32,28,FC_O,Lupa
+329,2,03:25,PIN,32,28,BR,Arthur
+330,2,03:25,FLA,32,28,ER,Arthur Pecos
+331,2,03:47,PIN,32,28,LL_Pts_C,Lupa
+332,2,03:47,PIN,32,27,LL_Pts_C,Lupa
+333,2,03:47,PIN,32,26,FR,Lupa
+334,2,03:47,FLA,32,26,FC,João Vitor
+335,2,03:48,PIN,32,26,RO,Lupa
+336,2,03:50,PIN,32,26,2_Pts_T,Arthur
+337,2,04:07,PIN,32,26,RD,Ware
+338,2,04:07,FLA,32,26,LL_Pts_T,João Vitor
+339,2,04:07,FLA,32,26,LL_Pts_T,João Vitor
+340,2,04:07,PIN,32,26,substituicao_entra,Arthur
+341,2,04:07,PIN,32,26,substituicao_sai,Bennett
+342,2,04:07,FLA,32,26,FR,João Vitor
+343,2,04:07,PIN,32,26,FC,Ware
+344,2,04:08,FLA,32,26,RO,João Vitor
+345,2,04:11,FLA,32,26,3_Pts_T,Cubillan
+346,2,04:25,FLA,32,26,RD,Olivinha
+347,2,04:27,PIN,32,26,2_Pts_T,Holloway
+348,2,04:57,FLA,32,26,substituicao_entra,Arthur Pecos
+349,2,04:57,FLA,32,26,substituicao_sai,Ramon
+350,2,04:57,FLA,32,26,LL_Pts_C,Ramon
+351,2,04:57,FLA,31,26,LL_Pts_C,Ramon
+352,2,04:58,FLA,30,26,FR,Ramon
+353,2,04:58,PIN,30,26,FC,Ruivo
+354,2,05:19,PIN,30,26,LL_Pts_C,Bennett
+355,2,05:19,PIN,30,25,FR,Bennett
+356,2,05:19,FLA,30,25,FC,Ramon
+357,2,05:23,PIN,30,25,2_Pts_C,Bennett
+358,2,05:30,FLA,30,23,2_Pts_C,Olivinha
+359,2,05:30,FLA,28,23,RO,Olivinha
+360,2,05:30,FLA,28,23,2_Pts_T,João Vitor
+361,2,05:30,PIN,28,23,substituicao_entra,Ware
+362,2,05:30,PIN,28,23,substituicao_sai,Ansaloni
+363,2,05:30,FLA,28,23,FR,Ramon
+364,2,05:30,PIN,28,23,FC,Ansaloni
+365,2,05:43,FLA,28,23,RD,Olivinha
+366,2,05:43,PIN,28,23,LL_Pts_T,Lupa
+367,2,05:43,FLA,28,23,substituicao_entra,Humberto G 
+368,2,05:43,FLA,28,23,substituicao_sai,Pilar
+369,2,05:43,PIN,28,23,FR,Lupa
+370,2,05:43,FLA,28,23,FC,Pilar
+371,2,05:43,PIN,28,23,2_Pts_C,Lupa
+372,2,05:43,FLA,28,21,substituicao_entra,João Vitor
+373,2,05:43,FLA,28,21,substituicao_sai,Batista
+374,2,05:52,FLA,28,21,AS,Cubillan
+375,2,05:52,FLA,28,21,2_Pts_C,Olivinha
+376,2,05:55,FLA,26,21,BR,Pilar
+377,2,05:55,PIN,26,21,ER,Holloway
+378,2,06:16,PIN,26,21,BR,Ansaloni
+379,2,06:16,FLA,26,21,ER,Batista
+380,2,06:37,FLA,26,21,substituicao_entra,Olivinha
+381,2,06:37,FLA,26,21,substituicao_sai,Rhett
+382,2,06:37,FLA,26,21,tempo_tecnico,Flamengo
+383,2,06:42,PIN,26,21,AS,Lupa
+384,2,06:42,PIN,26,21,2_Pts_C,Ansaloni
+385,2,06:48,FLA,26,19,substituicao_entra,Ramon
+386,2,06:48,FLA,26,19,substituicao_sai,Marquinhos
+387,2,06:48,PIN,26,19,substituicao_entra,Lupa
+388,2,06:48,PIN,26,19,substituicao_sai,Ware
+389,2,06:48,PIN,26,19,FR,Bennett
+390,2,06:48,FLA,26,19,FC,Pilar
+391,2,06:51,PIN,26,19,RD,Ansaloni
+392,2,06:53,FLA,26,19,2_Pts_T,Rhett
+393,2,07:18,PIN,26,19,AS,Ruivo
+394,2,07:18,PIN,26,19,3_Pts_C,Ware
+395,2,07:27,PIN,26,16,RD,Ruivo
+396,2,07:29,FLA,26,16,2_Pts_T,Rhett
+397,2,07:31,FLA,26,16,RO,Rhett
+398,2,07:33,FLA,26,16,2_Pts_T,Rhett
+399,2,07:38,FLA,26,16,BR,Pilar
+400,2,07:38,PIN,26,16,ER,Holloway
+401,2,07:50,FLA,26,16,EN,Marquinhos
+402,2,07:58,PIN,24,16,AS,Holloway
+403,2,07:58,PIN,24,16,LL_Pts_C,Bennett
+404,2,07:58,PIN,24,15,LL_Pts_C,Bennett
+405,2,07:59,PIN,24,14,FR,Bennett
+406,2,07:59,FLA,24,14,FC,Marquinhos
+407,2,08:09,PIN,24,14,RD,Holloway
+408,2,08:11,FLA,24,14,3_Pts_T,Marquinhos
+409,2,08:23,FLA,24,14,RD,Pilar
+410,2,08:25,PIN,24,14,2_Pts_T,Holloway
+411,2,08:29,PIN,24,14,FR,Ruivo
+412,2,08:29,FLA,24,14,FC,Cubillan
+413,2,08:38,PIN,24,14,RD,Holloway
+414,2,08:40,FLA,24,14,3_Pts_T,Rhett
+415,2,08:51,FLA,24,14,FR,Marquinhos
+416,2,08:51,PIN,24,14,FC,Bennett
+417,2,08:52,FLA,24,14,RD,Marquinhos
+418,2,08:54,PIN,24,14,2_Pts_T,Ware
+419,2,09:03,PIN,24,14,FR,Bennett
+420,2,09:03,FLA,24,14,ER,Pilar
+421,2,09:03,FLA,24,14,FC_O,Pilar
+422,2,09:08,PIN,24,14,ER,Bennett
+423,2,09:15,PIN,24,14,RD,Ansaloni
+424,2,09:17,FLA,24,14,3_Pts_T,Cubillan
+425,2,09:27,FLA,24,14,RD,Rhett
+426,2,09:29,PIN,24,14,2_Pts_T,Ware
+427,2,09:32,PIN,24,14,RO,Holloway
+428,2,09:34,PIN,24,14,2_Pts_T,Holloway
+429,2,09:46,FLA,24,14,AS,Marquinhos
+430,2,09:46,FLA,24,14,2_Pts_C,Pilar
+431,2,10:00,NaN,22,14,inicio_quarto,
+432,1,00:00,NaN,22,14,fim_quarto,
+433,1,00:03,FLA,22,14,substituicao_entra,Arthur Pecos
+434,1,00:03,FLA,22,14,substituicao_sai,Marquinhos
+435,1,00:03,FLA,22,14,substituicao_entra,Pilar
+436,1,00:03,FLA,22,14,substituicao_sai,Batista
+437,1,00:03,FLA,22,14,LL_Pts_C,Marquinhos
+438,1,00:03,FLA,21,14,LL_Pts_C,Marquinhos
+439,1,00:03,FLA,20,14,FR,Marquinhos
+440,1,00:03,PIN,20,14,FC,Ware
+441,1,00:26,PIN,20,14,AS,Bennett
+442,1,00:26,PIN,20,14,2_Pts_C,Holloway
+443,1,00:30,PIN,20,12,RO,Ruivo
+444,1,00:34,FLA,20,12,TO,Rhett
+445,1,00:34,PIN,20,12,2_Pts_T,Ruivo
+446,1,00:50,PIN,20,12,BR,Holloway
+447,1,00:50,FLA,20,12,ER,Batista
+448,1,01:07,PIN,20,12,LL_Pts_C,Bennett
+449,1,01:07,PIN,20,11,LL_Pts_T,Bennett
+450,1,01:07,PIN,20,11,substituicao_entra,Holloway
+451,1,01:07,PIN,20,11,substituicao_sai,Gui Bento
+452,1,01:07,PIN,20,11,FR,Bennett
+453,1,01:07,FLA,20,11,FC,Rhett
+454,1,01:15,PIN,20,11,RD,Ruivo
+455,1,01:17,FLA,20,11,3_Pts_T,Marquinhos
+456,1,01:32,FLA,20,11,RD,Cubillan
+457,1,01:34,PIN,20,11,3_Pts_T,Ware
+458,1,02:11,PIN,20,11,tempo_tecnico,Pinheiros
+459,1,02:12,FLA,20,11,AS,Ramon
+460,1,02:12,FLA,20,11,3_Pts_C,Marquinhos
+461,1,02:24,FLA,17,11,RD,Batista
+462,1,02:28,FLA,17,11,TO,Rhett
+463,1,02:28,PIN,17,11,2_Pts_T,Ware
+464,1,02:39,FLA,17,11,LL_Pts_C,Batista
+465,1,02:39,FLA,16,11,LL_Pts_C,Batista
+466,1,02:39,FLA,15,11,FR,Batista
+467,1,02:39,PIN,15,11,FC,Ansaloni
+468,1,02:44,FLA,15,11,substituicao_entra,Rhett
+469,1,02:44,FLA,15,11,substituicao_sai,Olivinha
+470,1,02:44,FLA,15,11,substituicao_entra,Cubillan
+471,1,02:44,FLA,15,11,substituicao_sai,Arthur Pecos
+472,1,02:44,PIN,15,11,ER,Gui Bento
+473,1,02:47,PIN,15,11,BR,Bennett
+474,1,02:47,FLA,15,11,ER,Batista
+475,1,03:15,PIN,15,11,AS,Ruivo
+476,1,03:15,PIN,15,11,2_Pts_C,Bennett
+477,1,03:26,PIN,15,9,RD,Ware
+478,1,03:28,FLA,15,9,3_Pts_T,Marquinhos
+479,1,03:39,PIN,15,9,AS,Ansaloni
+480,1,03:39,PIN,15,9,EN,Gui Bento
+481,1,03:44,PIN,15,7,FR,Ansaloni
+482,1,03:44,FLA,15,7,FC,Batista
+483,1,03:52,FLA,15,7,LL_Pts_C,Batista
+484,1,03:52,PIN,14,7,substituicao_entra,Ansaloni
+485,1,03:52,PIN,14,7,substituicao_sai,Lupa
+486,1,03:52,PIN,14,7,substituicao_entra,Ruivo
+487,1,03:52,PIN,14,7,substituicao_sai,Holloway
+488,1,03:52,FLA,14,7,FR,Batista
+489,1,03:52,PIN,14,7,FC,Lupa
+490,1,03:56,FLA,14,7,AS,Marquinhos
+491,1,03:56,FLA,14,7,2_Pts_C,Batista
+492,1,04:03,FLA,12,7,RD,Batista
+493,1,04:05,PIN,12,7,2_Pts_T,Holloway
+494,1,04:23,PIN,12,7,RD,Lupa
+495,1,04:25,FLA,12,7,2_Pts_T,Marquinhos
+496,1,04:36,FLA,12,7,FR,Batista
+497,1,04:36,PIN,12,7,FC,Gui Bento
+498,1,04:36,FLA,12,7,RD,Flamengo
+499,1,04:38,PIN,12,7,2_Pts_T,Holloway
+500,1,04:41,PIN,12,7,RO,Ware
+501,1,04:42,PIN,12,7,2_Pts_T,Holloway
+502,1,04:58,PIN,12,7,RD,Lupa
+503,1,05:01,FLA,12,7,2_Pts_T,Batista
+504,1,05:13,FLA,12,7,RD,Olivinha
+505,1,05:15,PIN,12,7,3_Pts_T,Holloway
+506,1,05:29,FLA,12,7,AS,Arthur Pecos
+507,1,05:29,FLA,12,7,2_Pts_C,Batista
+508,1,05:37,FLA,10,7,BR,Marquinhos
+509,1,05:37,PIN,10,7,ER,Holloway
+510,1,05:40,PIN,10,7,RO,Pinheiros
+511,1,05:41,PIN,10,7,3_Pts_T,Gui Bento
+512,1,06:00,FLA,10,7,ER,Arthur Pecos
+513,1,06:06,FLA,10,7,FR,Marquinhos
+514,1,06:06,PIN,10,7,FC,Gui Bento
+515,1,06:12,PIN,10,7,LL_Pts_C,Ware
+516,1,06:12,PIN,10,6,FR,Ware
+517,1,06:12,FLA,10,6,FC,Marquinhos
+518,1,06:16,PIN,10,6,2_Pts_C,Ware
+519,1,06:39,FLA,10,4,AS,Marquinhos
+520,1,06:39,FLA,10,4,LL_Pts_C,Batista
+521,1,06:39,FLA,9,4,LL_Pts_C,Batista
+522,1,06:39,PIN,8,4,substituicao_entra,Gui Bento
+523,1,06:39,PIN,8,4,substituicao_sai,Arthur
+524,1,06:39,FLA,8,4,FR,Batista
+525,1,06:39,PIN,8,4,FC,Bennett
+526,1,06:44,FLA,8,4,BR,Marquinhos
+527,1,06:44,PIN,8,4,ER,Bennett
+528,1,06:52,PIN,8,4,RD,Holloway
+529,1,06:55,FLA,8,4,3_Pts_T,Ramon
+530,1,07:07,PIN,8,4,AS,Arthur
+531,1,07:07,PIN,8,4,2_Pts_C,Ware
+532,1,07:21,PIN,8,2,FR,Holloway
+533,1,07:21,FLA,8,2,FC,Ramon
+534,1,07:22,PIN,8,2,RD,Holloway
+535,1,07:24,FLA,8,2,2_Pts_T,Ramon
+536,1,07:28,FLA,8,2,RD,Olivinha
+537,1,07:30,PIN,8,2,2_Pts_T,Lupa
+538,1,07:49,FLA,8,2,AS,Marquinhos
+539,1,07:49,FLA,8,2,2_Pts_C,Batista
+540,1,07:57,FLA,6,2,RD,Olivinha
+541,1,07:59,PIN,6,2,3_Pts_T,Arthur
+542,1,08:15,FLA,6,2,AS,Arthur Pecos
+543,1,08:15,FLA,6,2,2_Pts_C,Ramon
+544,1,08:33,PIN,4,2,ER,Bennett
+545,1,08:39,PIN,4,2,RO,Holloway
+546,1,08:43,PIN,4,2,2_Pts_T,Holloway
+547,1,09:00,FLA,4,2,AS,Arthur Pecos
+548,1,09:00,FLA,4,2,EN,Marquinhos
+549,1,09:04,FLA,2,2,BR,Arthur Pecos
+550,1,09:04,PIN,2,2,ER,Arthur
+551,1,09:28,FLA,2,2,LL_Pts_C,Marquinhos
+552,1,09:28,FLA,1,2,LL_Pts_C,Marquinhos
+553,1,09:28,FLA,0,2,FR,Marquinhos
+554,1,09:28,PIN,0,2,FC,Arthur
+555,1,09:44,PIN,0,2,AS,Ware
+556,1,09:44,PIN,0,2,2_Pts_C,Holloway
+557,1,10:00,PIN,0,0,substituicao_entra,Arthur
+558,1,10:00,PIN,0,0,substituicao_entra,Holloway
+559,1,10:00,PIN,0,0,substituicao_entra,Lupa
+560,1,10:00,PIN,0,0,substituicao_entra,Ware
+561,1,10:00,PIN,0,0,substituicao_entra,Bennett
+562,1,10:00,FLA,0,0,substituicao_entra,Arthur Pecos
+563,1,10:00,FLA,0,0,substituicao_entra,Olivinha
+564,1,10:00,FLA,0,0,substituicao_entra,Ramon
+565,1,10:00,FLA,0,0,substituicao_entra,Batista
+566,1,10:00,FLA,0,0,substituicao_entra,Marquinhos

@@ -1,0 +1,555 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,CAX,76,75,LL_Pts_C,Pedro
+1,4,00:00,CAX,76,74,LL_Pts_C,Pedro
+2,4,00:00,CAX,76,73,FR,Pedro
+3,4,00:00,MOG,76,73,FC,Filipin
+4,4,00:00,MOG,76,73,AS,Tyrone 
+5,4,00:00,MOG,76,73,3_Pts_C,Fabricio
+6,4,00:00,NaN,73,73,fim_partida,
+7,4,00:10,MOG,73,73,tempo_tecnico,Mogi
+8,4,00:10,CAX,73,73,AS,Alex
+9,4,00:10,CAX,73,73,3_Pts_C,Pedro
+10,4,00:14,CAX,73,70,tempo_tecnico,Caxias do Sul
+11,4,00:14,MOG,73,70,LL_Pts_C,Larry
+12,4,00:14,MOG,72,70,LL_Pts_T,Larry
+13,4,00:14,MOG,72,70,FR,Larry
+14,4,00:14,CAX,72,70,FC,Cauê B 
+15,4,00:22,CAX,72,70,2_Pts_C,Cauê B 
+16,4,00:22,CAX,72,68,BR,Cauê B 
+17,4,00:22,MOG,72,68,ER,Larry
+18,4,00:29,MOG,72,68,tempo_tecnico,Mogi
+19,4,00:29,MOG,72,68,RO,Mogi
+20,4,00:29,MOG,72,68,2_Pts_T,Larry
+21,4,00:48,MOG,72,68,RD,Tyrone 
+22,4,00:52,CAX,72,68,2_Pts_T,Cauê B 
+23,4,01:10,MOG,72,68,substituicao_entra,Fabricio
+24,4,01:10,MOG,72,68,substituicao_sai,Vithinho
+25,4,01:10,MOG,72,68,ER,
+26,4,01:14,MOG,72,68,RO,Mogi
+27,4,01:14,CAX,72,68,TO,Alex
+28,4,01:14,MOG,72,68,2_Pts_T,Larry
+29,4,01:44,CAX,72,68,AS,Pedro
+30,4,01:44,CAX,72,68,2_Pts_C,Paranhos
+31,4,02:01,CAX,72,66,LL_Pts_C,Cauê B 
+32,4,02:01,CAX,72,65,LL_Pts_T,Cauê B 
+33,4,02:04,CAX,72,65,FR,Cauê B 
+34,4,02:04,MOG,72,65,FC_A,Tyrone 
+35,4,02:10,CAX,72,65,LL_Pts_C,Paranhos
+36,4,02:10,CAX,72,64,LL_Pts_T,Paranhos
+37,4,02:10,MOG,72,64,substituicao_entra,Filipin
+38,4,02:10,MOG,72,64,substituicao_sai,Shamell
+39,4,02:10,CAX,72,64,FR,Paranhos
+40,4,02:10,MOG,72,64,FC_A,Shamell
+41,4,02:10,CAX,72,64,BR,Paranhos
+42,4,02:10,MOG,72,64,ER,Shamell
+43,4,02:21,MOG,72,64,RD,Larry
+44,4,02:24,CAX,72,64,2_Pts_T,Alex
+45,4,02:43,MOG,72,64,tempo_tecnico,Mogi
+46,4,02:43,CAX,72,64,FR,Pedro
+47,4,02:43,MOG,72,64,ER,Tyrone 
+48,4,02:43,MOG,72,64,FC_O,Tyrone 
+49,4,02:47,MOG,72,64,BR,Larry
+50,4,02:47,CAX,72,64,ER,Cauê V 
+51,4,02:57,CAX,72,64,RD,Paranhos
+52,4,03:01,MOG,72,64,3_Pts_T,Jimmy
+53,4,03:26,CAX,72,64,AS,Pedro
+54,4,03:26,CAX,72,64,3_Pts_C,Cauê B 
+55,4,03:28,MOG,72,61,substituicao_entra,Larry
+56,4,03:28,MOG,72,61,substituicao_sai,Fabricio
+57,4,03:28,CAX,72,61,substituicao_entra,Paranhos
+58,4,03:28,CAX,72,61,substituicao_sai,Marcão
+59,4,03:28,MOG,72,61,substituicao_entra,Fabricio
+60,4,03:28,MOG,72,61,substituicao_sai,Fabricio
+61,4,03:28,CAX,72,61,tempo_tecnico,Caxias do Sul
+62,4,03:28,MOG,72,61,substituicao_entra,Tyrone 
+63,4,03:28,MOG,72,61,substituicao_sai,C  Torres
+64,4,03:43,CAX,72,61,RD,Marcão
+65,4,03:45,MOG,72,61,LL_Pts_T,C  Torres
+66,4,03:45,MOG,72,61,LL_Pts_T,C  Torres
+67,4,03:45,MOG,72,61,FR,C  Torres
+68,4,03:45,CAX,72,61,FC,Pedro
+69,4,03:57,CAX,72,61,AS,Alex
+70,4,03:57,CAX,72,61,2_Pts_C,Pedro
+71,4,04:01,CAX,72,59,BR,Cauê V 
+72,4,04:01,MOG,72,59,ER,C  Torres
+73,4,04:26,CAX,72,59,LL_Pts_C,Pedro
+74,4,04:26,CAX,72,58,LL_Pts_C,Pedro
+75,4,04:26,CAX,72,57,FR,Pedro
+76,4,04:26,MOG,72,57,FC,C  Torres
+77,4,04:35,CAX,72,57,RD,Marcão
+78,4,04:39,MOG,72,57,2_Pts_T,C  Torres
+79,4,04:58,MOG,72,57,RD,Jimmy
+80,4,05:01,CAX,72,57,3_Pts_T,Cauê V 
+81,4,05:10,MOG,72,57,substituicao_entra,Fabricio
+82,4,05:10,MOG,72,57,substituicao_sai,Tyrone 
+83,4,05:10,MOG,72,57,substituicao_entra,Vithinho
+84,4,05:10,MOG,72,57,substituicao_sai,Larry
+85,4,05:23,MOG,72,57,AS,C  Torres
+86,4,05:23,MOG,72,57,LL_Pts_C,Shamell
+87,4,05:23,MOG,71,57,LL_Pts_T,Shamell
+88,4,05:23,MOG,71,57,FR,Shamell
+89,4,05:23,CAX,71,57,FC,Marcão
+90,4,05:23,MOG,71,57,RO,C  Torres
+91,4,05:25,MOG,71,57,3_Pts_T,Shamell
+92,4,05:46,CAX,71,57,LL_Pts_C,Alex
+93,4,05:46,CAX,71,56,LL_Pts_T,Alex
+94,4,05:46,MOG,71,56,substituicao_entra,Shamell
+95,4,05:46,MOG,71,56,substituicao_sai,Filipin
+96,4,05:46,MOG,71,56,substituicao_entra,C  Torres
+97,4,05:46,MOG,71,56,substituicao_sai,Wesley
+98,4,05:46,MOG,71,56,substituicao_entra,Jimmy
+99,4,05:46,MOG,71,56,substituicao_sai,Vithinho
+100,4,05:46,CAX,71,56,FR,Alex
+101,4,05:46,MOG,71,56,FC,Filipin
+102,4,05:48,CAX,71,56,BR,Alex
+103,4,05:48,MOG,71,56,ER,Vithinho
+104,4,05:53,MOG,71,56,BR,Filipin
+105,4,05:53,CAX,71,56,ER,Alex
+106,4,06:10,MOG,71,56,AS,Tyrone 
+107,4,06:10,MOG,71,56,2_Pts_C,Wesley
+108,4,06:21,CAX,69,56,2_Pts_C,Marcão
+109,4,06:39,CAX,69,54,RD,Pedro
+110,4,06:39,MOG,69,54,AS,Vithinho
+111,4,06:39,MOG,69,54,LL_Pts_T,Wesley
+112,4,06:39,MOG,69,54,LL_Pts_C,Wesley
+113,4,06:39,MOG,68,54,FR,Wesley
+114,4,06:39,CAX,68,54,FC,Pedro
+115,4,07:00,CAX,68,54,AS,Alex
+116,4,07:00,CAX,68,54,3_Pts_C,Cauê B 
+117,4,07:12,MOG,68,51,substituicao_entra,Tyrone 
+118,4,07:12,MOG,68,51,substituicao_sai,Fabricio
+119,4,07:12,MOG,68,51,ER,Fabricio
+120,4,07:14,MOG,68,51,FR,Larry
+121,4,07:14,CAX,68,51,FC,Cauê V 
+122,4,07:25,CAX,68,51,LL_Pts_C,Cauê B 
+123,4,07:25,CAX,68,50,FR,Cauê B 
+124,4,07:25,MOG,68,50,FC,Vithinho
+125,4,07:25,CAX,68,50,2_Pts_C,Cauê B 
+126,4,07:34,CAX,68,48,FR,Cauê B 
+127,4,07:34,MOG,68,48,FC,Filipin
+128,4,07:46,CAX,68,48,FR,Alex
+129,4,07:46,MOG,68,48,FC,Fabricio
+130,4,07:55,MOG,68,48,LL_Pts_C,Wesley
+131,4,07:55,CAX,67,48,substituicao_entra,Pedro
+132,4,07:55,CAX,67,48,substituicao_sai,Warren
+133,4,07:55,MOG,67,48,FR,Wesley
+134,4,07:55,CAX,67,48,FC,Warren
+135,4,07:55,MOG,67,48,AS,Vithinho
+136,4,07:55,MOG,67,48,2_Pts_C,Wesley
+137,4,08:08,CAX,65,48,AS,Cauê V 
+138,4,08:08,CAX,65,48,2_Pts_C,Alex
+139,4,08:27,MOG,65,46,ER,Vithinho
+140,4,08:31,CAX,65,46,substituicao_entra,Cauê B 
+141,4,08:31,CAX,65,46,substituicao_sai,Cafferata
+142,4,08:31,CAX,65,46,substituicao_entra,Marcão
+143,4,08:31,CAX,65,46,substituicao_sai,Paranhos
+144,4,08:43,MOG,65,46,BR,Larry
+145,4,08:43,CAX,65,46,ER,Paranhos
+146,4,08:55,CAX,65,46,RO,Caxias do Sul
+147,4,08:55,CAX,65,46,2_Pts_T,Alex
+148,4,09:05,CAX,65,46,RD,Warren
+149,4,09:08,MOG,65,46,2_Pts_T,Larry
+150,4,09:24,MOG,65,46,FR,Vithinho
+151,4,09:24,CAX,65,46,FC,Cauê V 
+152,4,09:32,MOG,65,46,RD,Wesley
+153,4,09:35,CAX,65,46,2_Pts_T,Paranhos
+154,4,09:48,MOG,65,46,AS,Larry
+155,4,09:48,MOG,65,46,3_Pts_C,Filipin
+156,4,10:00,NaN,62,46,inicio_quarto,
+157,3,00:00,NaN,62,46,fim_quarto,
+158,3,00:11,MOG,62,46,AS,Wesley
+159,3,00:11,MOG,62,46,2_Pts_C,Vithinho
+160,3,00:11,MOG,60,46,BR,Wesley
+161,3,00:11,CAX,60,46,ER,Cafferata
+162,3,00:24,CAX,60,46,RD,Cafferata
+163,3,00:25,MOG,60,46,LL_Pts_T,Fabricio
+164,3,00:25,MOG,60,46,LL_Pts_T,Fabricio
+165,3,00:25,MOG,60,46,FR,Fabricio
+166,3,00:25,CAX,60,46,FC,Alex
+167,3,00:36,MOG,60,46,RD,Mogi
+168,3,00:36,MOG,60,46,TO,Wesley
+169,3,00:36,CAX,60,46,2_Pts_T,Alex
+170,3,00:42,MOG,60,46,substituicao_entra,Wesley
+171,3,00:42,MOG,60,46,substituicao_sai,Tyrone 
+172,3,00:42,MOG,60,46,ER,Tyrone 
+173,3,00:53,CAX,60,46,2_Pts_C,Paranhos
+174,3,00:54,CAX,60,44,RO,Paranhos
+175,3,00:58,CAX,60,44,2_Pts_T,Cafferata
+176,3,01:10,CAX,60,44,RO,Cafferata
+177,3,01:14,CAX,60,44,3_Pts_T,Warren
+178,3,01:22,CAX,60,44,RO,Caxias do Sul
+179,3,01:29,CAX,60,44,3_Pts_T,Cauê V 
+180,3,01:50,MOG,60,44,LL_Pts_C,Tyrone 
+181,3,01:50,MOG,59,44,LL_Pts_C,Tyrone 
+182,3,01:50,MOG,58,44,FR,Tyrone 
+183,3,01:50,CAX,58,44,FC,Paranhos
+184,3,02:06,MOG,58,44,RD,Fabricio
+185,3,02:07,CAX,58,44,LL_Pts_T,Paranhos
+186,3,02:07,CAX,58,44,LL_Pts_C,Paranhos
+187,3,02:07,MOG,58,43,substituicao_entra,Fabricio
+188,3,02:07,MOG,58,43,substituicao_sai,C  Torres
+189,3,02:07,CAX,58,43,FR,Paranhos
+190,3,02:07,MOG,58,43,FC,Tyrone 
+191,3,02:17,CAX,58,43,RD,Warren
+192,3,02:21,MOG,58,43,3_Pts_T,Tyrone 
+193,3,02:33,MOG,58,43,RD,Tyrone 
+194,3,02:36,CAX,58,43,3_Pts_T,Alex
+195,3,02:45,MOG,58,43,substituicao_entra,Vithinho
+196,3,02:45,MOG,58,43,substituicao_sai,Shamell
+197,3,02:45,MOG,58,43,substituicao_entra,Filipin
+198,3,02:45,MOG,58,43,substituicao_sai,Larry
+199,3,03:03,MOG,58,43,AS,Larry
+200,3,03:03,MOG,58,43,3_Pts_C,Tyrone 
+201,3,03:25,MOG,55,43,RD,Mogi
+202,3,03:27,CAX,55,43,3_Pts_T,Alex
+203,3,03:41,CAX,55,43,substituicao_entra,Paranhos
+204,3,03:41,CAX,55,43,substituicao_sai,Marcão
+205,3,03:41,CAX,55,43,substituicao_entra,Cafferata
+206,3,03:41,CAX,55,43,substituicao_sai,Pedro
+207,3,03:41,CAX,55,43,tempo_tecnico,Caxias do Sul
+208,3,03:41,MOG,55,43,AS,Larry
+209,3,03:41,MOG,55,43,2_Pts_C,Shamell
+210,3,03:45,MOG,53,43,BR,C  Torres
+211,3,03:45,CAX,53,43,ER,Pedro
+212,3,04:00,CAX,53,43,RD,Alex
+213,3,04:03,MOG,53,43,2_Pts_T,C  Torres
+214,3,04:05,MOG,53,43,RO,C  Torres
+215,3,04:07,MOG,53,43,2_Pts_T,Jimmy
+216,3,04:19,MOG,53,43,RD,Tyrone 
+217,3,04:23,CAX,53,43,3_Pts_T,Marcão
+218,3,04:29,CAX,53,43,RD,Alex
+219,3,04:32,MOG,53,43,2_Pts_T,Larry
+220,3,04:58,CAX,53,43,ER,Warren
+221,3,05:00,CAX,53,43,BR,Warren
+222,3,05:00,MOG,53,43,ER,C  Torres
+223,3,05:08,MOG,53,43,RO,Mogi
+224,3,05:08,CAX,53,43,TO,Marcão
+225,3,05:08,MOG,53,43,2_Pts_T,Shamell
+226,3,05:12,MOG,53,43,RD,Larry
+227,3,05:16,CAX,53,43,3_Pts_T,Pedro
+228,3,05:30,MOG,53,43,substituicao_entra,C  Torres
+229,3,05:30,MOG,53,43,substituicao_sai,Wesley
+230,3,05:30,CAX,53,43,FR,Marcão
+231,3,05:30,MOG,53,43,FC,Wesley
+232,3,05:40,MOG,53,43,LL_Pts_C,Jimmy
+233,3,05:40,MOG,52,43,LL_Pts_C,Jimmy
+234,3,05:40,MOG,51,43,FR,Jimmy
+235,3,05:40,CAX,51,43,FC,Warren
+236,3,05:40,MOG,51,43,RO,Mogi
+237,3,05:40,MOG,51,43,3_Pts_T,Wesley
+238,3,05:46,MOG,51,43,FR,Shamell
+239,3,05:46,CAX,51,43,FC,Pedro
+240,3,06:02,CAX,51,43,LL_Pts_C,Marcão
+241,3,06:02,CAX,51,42,LL_Pts_C,Marcão
+242,3,06:02,CAX,51,41,FR,Marcão
+243,3,06:02,MOG,51,41,FC,Wesley
+244,3,06:13,MOG,51,41,AS,Tyrone 
+245,3,06:13,MOG,51,41,LL_Pts_C,Shamell
+246,3,06:13,MOG,50,41,LL_Pts_C,Shamell
+247,3,06:13,CAX,49,41,substituicao_entra,Pedro
+248,3,06:13,CAX,49,41,substituicao_sai,Cauê B 
+249,3,06:13,MOG,49,41,FR,Shamell
+250,3,06:13,CAX,49,41,FC,Cauê B 
+251,3,06:21,MOG,49,41,FR,Shamell
+252,3,06:21,CAX,49,41,FC,Cauê B 
+253,3,06:32,CAX,49,41,ER,Cauê B 
+254,3,06:40,MOG,49,41,LL_Pts_C,Larry
+255,3,06:40,CAX,48,41,substituicao_entra,Warren
+256,3,06:40,CAX,48,41,substituicao_sai,Paranhos
+257,3,06:40,MOG,48,41,FR,Larry
+258,3,06:40,CAX,48,41,FC,Paranhos
+259,3,06:40,MOG,48,41,EN,Larry
+260,3,06:40,MOG,46,41,RO,Larry
+261,3,06:40,MOG,46,41,2_Pts_T,Wesley
+262,3,06:51,CAX,46,41,AS,Alex
+263,3,06:51,CAX,46,41,3_Pts_C,Cauê B 
+264,3,07:06,MOG,46,38,2_Pts_C,Jimmy
+265,3,07:09,MOG,44,38,RD,Jimmy
+266,3,07:14,CAX,44,38,2_Pts_T,Cauê B 
+267,3,07:21,CAX,44,38,RD,Cauê V 
+268,3,07:31,MOG,44,38,2_Pts_T,Wesley
+269,3,07:48,CAX,44,38,AS,Cauê B 
+270,3,07:48,CAX,44,38,EN,Marcão
+271,3,07:59,MOG,44,36,AS,Shamell
+272,3,07:59,MOG,44,36,2_Pts_C,Tyrone 
+273,3,08:06,MOG,42,36,RD,Shamell
+274,3,08:15,CAX,42,36,2_Pts_T,Cauê B 
+275,3,08:20,CAX,42,36,BR,Alex
+276,3,08:20,MOG,42,36,ER,Larry
+277,3,08:37,CAX,42,36,3_Pts_C,Cauê V 
+278,3,08:51,MOG,42,33,ER,Tyrone 
+279,3,08:53,MOG,42,33,BR,Tyrone 
+280,3,08:53,CAX,42,33,ER,Alex
+281,3,09:16,MOG,42,33,AS,Shamell
+282,3,09:16,MOG,42,33,3_Pts_C,Tyrone 
+283,3,09:25,MOG,39,33,RD,Tyrone 
+284,3,09:28,CAX,39,33,2_Pts_T,Alex
+285,3,09:39,CAX,39,33,BR,Cauê B 
+286,3,09:39,MOG,39,33,ER,Tyrone 
+287,3,09:44,MOG,39,33,BR,Shamell
+288,3,09:44,CAX,39,33,ER,Cauê V 
+289,3,10:00,NaN,39,33,inicio_quarto,
+290,2,00:00,CAX,39,33,substituicao_sai,Cafferata
+291,2,00:00,CAX,39,33,substituicao_sai,Pedro
+292,2,00:00,CAX,39,33,substituicao_sai,Cauê V 
+293,2,00:00,CAX,39,33,substituicao_sai,Cauê B 
+294,2,00:00,CAX,39,33,substituicao_sai,Warren
+295,2,00:00,MOG,39,33,substituicao_sai,Shamell
+296,2,00:00,MOG,39,33,substituicao_sai,Jimmy
+297,2,00:00,MOG,39,33,substituicao_sai,C  Torres
+298,2,00:00,MOG,39,33,substituicao_sai,Larry
+299,2,00:00,MOG,39,33,substituicao_sai,Tyrone 
+300,2,00:00,NaN,39,33,fim_quarto,
+301,2,00:02,MOG,39,33,RD,Tyrone 
+302,2,00:08,CAX,39,33,3_Pts_T,Warren
+303,2,00:08,CAX,39,33,substituicao_entra,Cauê V 
+304,2,00:08,CAX,39,33,substituicao_sai,Alex
+305,2,00:08,CAX,39,33,substituicao_entra,Warren
+306,2,00:08,CAX,39,33,substituicao_sai,Paranhos
+307,2,00:08,CAX,39,33,RD,Caxias do Sul
+308,2,00:08,MOG,39,33,2_Pts_T,Larry
+309,2,00:26,CAX,39,33,substituicao_entra,Paranhos
+310,2,00:26,CAX,39,33,substituicao_sai,Marcão
+311,2,00:26,CAX,39,33,substituicao_entra,Pedro
+312,2,00:26,CAX,39,33,substituicao_sai,Warren
+313,2,00:26,CAX,39,33,AS,Cafferata
+314,2,00:26,CAX,39,33,LL_Pts_C,Marcão
+315,2,00:26,CAX,39,32,LL_Pts_C,Marcão
+316,2,00:26,MOG,39,31,substituicao_entra,Jimmy
+317,2,00:26,MOG,39,31,substituicao_sai,Vithinho
+318,2,00:26,CAX,39,31,FR,Marcão
+319,2,00:26,MOG,39,31,FC,C  Torres
+320,2,00:29,CAX,39,31,BR,Warren
+321,2,00:29,MOG,39,31,ER,Tyrone 
+322,2,00:39,MOG,39,31,BR,Tyrone 
+323,2,00:39,CAX,39,31,ER,Cafferata
+324,2,01:04,MOG,39,31,3_Pts_C,Larry
+325,2,01:29,CAX,36,31,ER,
+326,2,01:36,CAX,36,31,tempo_tecnico,Caxias do Sul
+327,2,01:52,CAX,36,31,RD,Cauê B 
+328,2,01:55,MOG,36,31,2_Pts_T,C  Torres
+329,2,02:08,CAX,36,31,2_Pts_C,Cafferata
+330,2,02:15,CAX,36,29,BR,Cafferata
+331,2,02:15,MOG,36,29,ER,Shamell
+332,2,02:19,MOG,36,29,RD,Shamell
+333,2,02:23,CAX,36,29,3_Pts_T,Alex
+334,2,02:37,MOG,36,29,LL_Pts_C,Shamell
+335,2,02:37,MOG,35,29,LL_Pts_T,Shamell
+336,2,02:37,MOG,35,29,FR,Shamell
+337,2,02:37,CAX,35,29,FC,Warren
+338,2,02:51,MOG,35,29,RO,Mogi
+339,2,02:52,MOG,35,29,3_Pts_T,Tyrone 
+340,2,03:13,CAX,35,29,LL_Pts_C,Warren
+341,2,03:13,CAX,35,28,FR,Warren
+342,2,03:13,MOG,35,28,FC,Shamell
+343,2,03:13,CAX,35,28,AS,Marcão
+344,2,03:13,CAX,35,28,2_Pts_C,Warren
+345,2,03:23,CAX,35,26,substituicao_entra,Cauê B 
+346,2,03:23,CAX,35,26,substituicao_sai,Pedro
+347,2,03:29,MOG,35,26,LL_Pts_C,Larry
+348,2,03:29,MOG,34,26,substituicao_entra,C  Torres
+349,2,03:29,MOG,34,26,substituicao_sai,Fabricio
+350,2,03:29,MOG,34,26,FR,Larry
+351,2,03:29,CAX,34,26,FC,Cafferata
+352,2,03:29,MOG,34,26,2_Pts_C,Larry
+353,2,03:34,MOG,32,26,RD,Larry
+354,2,03:39,CAX,32,26,3_Pts_T,Pedro
+355,2,03:50,MOG,32,26,tempo_tecnico,Mogi
+356,2,03:55,CAX,32,26,FR,Alex
+357,2,03:55,MOG,32,26,ER,Tyrone 
+358,2,03:55,MOG,32,26,FC_O,Tyrone 
+359,2,04:00,MOG,32,26,RD,Vithinho
+360,2,04:02,CAX,32,26,2_Pts_T,Alex
+361,2,04:14,CAX,32,26,RD,Marcão
+362,2,04:17,MOG,32,26,3_Pts_T,Shamell
+363,2,04:29,MOG,32,26,FR,Tyrone 
+364,2,04:29,CAX,32,26,ER,Marcão
+365,2,04:29,CAX,32,26,FC_O,Marcão
+366,2,04:47,MOG,32,26,AS,Vithinho
+367,2,04:47,MOG,32,26,3_Pts_C,Shamell
+368,2,04:50,MOG,29,26,RO,Fabricio
+369,2,04:55,MOG,29,26,3_Pts_T,Larry
+370,2,05:06,CAX,29,26,LL_Pts_C,Warren
+371,2,05:06,CAX,29,25,LL_Pts_C,Warren
+372,2,05:06,MOG,29,24,substituicao_entra,Vithinho
+373,2,05:06,MOG,29,24,substituicao_sai,Jimmy
+374,2,05:06,CAX,29,24,FR,Warren
+375,2,05:06,MOG,29,24,FC,Larry
+376,2,05:13,CAX,29,24,RD,Marcão
+377,2,05:16,MOG,29,24,2_Pts_T,Jimmy
+378,2,05:21,MOG,29,24,RD,Tyrone 
+379,2,05:25,CAX,29,24,3_Pts_T,Alex
+380,2,05:48,CAX,29,24,RD,Pedro
+381,2,05:51,MOG,29,24,3_Pts_T,Jimmy
+382,2,05:58,MOG,29,24,substituicao_entra,Shamell
+383,2,05:58,MOG,29,24,substituicao_sai,Filipin
+384,2,05:58,MOG,29,24,substituicao_entra,Larry
+385,2,05:58,MOG,29,24,substituicao_sai,Carioca
+386,2,05:58,MOG,29,24,substituicao_entra,Tyrone 
+387,2,05:58,MOG,29,24,substituicao_sai,C  Torres
+388,2,05:58,MOG,29,24,FR,C  Torres
+389,2,05:58,CAX,29,24,FC,Marcão
+390,2,06:12,CAX,29,24,AS,Warren
+391,2,06:12,CAX,29,24,3_Pts_C,Alex
+392,2,06:17,CAX,29,21,RD,Cafferata
+393,2,06:20,MOG,29,21,3_Pts_T,Filipin
+394,2,06:40,CAX,29,21,AS,Cafferata
+395,2,06:40,CAX,29,21,3_Pts_C,Warren
+396,2,06:46,CAX,29,18,BR,Cafferata
+397,2,06:46,MOG,29,18,ER,Fabricio
+398,2,07:01,MOG,29,18,RD,Jimmy
+399,2,07:04,CAX,29,18,3_Pts_T,Marcão
+400,2,07:10,CAX,29,18,RD,Marcão
+401,2,07:14,MOG,29,18,2_Pts_T,Filipin
+402,2,07:29,CAX,29,18,AS,Warren
+403,2,07:29,CAX,29,18,LL_Pts_C,Marcão
+404,2,07:29,CAX,29,17,LL_Pts_T,Marcão
+405,2,07:29,CAX,29,17,substituicao_entra,Alex
+406,2,07:29,CAX,29,17,substituicao_sai,Nandão
+407,2,07:29,CAX,29,17,FR,Marcão
+408,2,07:29,MOG,29,17,FC,Filipin
+409,2,07:39,MOG,29,17,LL_Pts_C,C  Torres
+410,2,07:39,MOG,28,17,LL_Pts_C,C  Torres
+411,2,07:39,MOG,27,17,FR,C  Torres
+412,2,07:39,CAX,27,17,FC,Warren
+413,2,07:39,MOG,27,17,RO,C  Torres
+414,2,07:41,MOG,27,17,3_Pts_T,Carioca
+415,2,07:52,MOG,27,17,BR,Carioca
+416,2,07:52,CAX,27,17,ER,Cafferata
+417,2,08:06,MOG,27,17,tempo_tecnico,Mogi
+418,2,08:11,CAX,27,17,RD,Caxias do Sul
+419,2,08:19,MOG,27,17,3_Pts_T,Fabricio
+420,2,08:26,MOG,27,17,RO,Fabricio
+421,2,08:29,MOG,27,17,2_Pts_T,Carioca
+422,2,08:44,MOG,27,17,RD,C  Torres
+423,2,08:45,CAX,27,17,LL_Pts_T,Pedro
+424,2,08:45,CAX,27,17,LL_Pts_C,Pedro
+425,2,08:45,CAX,27,16,FR,Pedro
+426,2,08:45,MOG,27,16,FC,C  Torres
+427,2,09:07,CAX,27,16,BR,Marcão
+428,2,09:07,MOG,27,16,ER,Jimmy
+429,2,09:22,MOG,27,16,substituicao_entra,Carioca
+430,2,09:22,MOG,27,16,substituicao_sai,Larry
+431,2,09:22,MOG,27,16,FR,Fabricio
+432,2,09:22,CAX,27,16,FC,Nandão
+433,2,09:41,CAX,27,16,AS,Nandão
+434,2,09:41,CAX,27,16,2_Pts_C,Pedro
+435,2,09:53,MOG,27,14,2_Pts_C,Fabricio
+436,2,09:57,MOG,25,14,RO,Fabricio
+437,2,09:57,MOG,25,14,3_Pts_T,Jimmy
+438,2,10:00,NaN,25,14,inicio_quarto,
+439,1,00:00,NaN,25,14,fim_quarto,
+440,1,00:13,CAX,25,14,RD,Cafferata
+441,1,00:20,MOG,25,14,3_Pts_T,Larry
+442,1,00:25,MOG,25,14,FR,Larry
+443,1,00:25,CAX,25,14,FC,Pedro
+444,1,00:51,MOG,25,14,RD,Fabricio
+445,1,00:56,CAX,25,14,3_Pts_T,Warren
+446,1,01:18,MOG,25,14,AS,Larry
+447,1,01:18,MOG,25,14,3_Pts_C,Jimmy
+448,1,01:23,MOG,22,14,BR,Larry
+449,1,01:23,CAX,22,14,ER,Cafferata
+450,1,01:42,MOG,22,14,substituicao_entra,C  Torres
+451,1,01:42,MOG,22,14,substituicao_sai,Wesley
+452,1,01:42,MOG,22,14,substituicao_entra,Filipin
+453,1,01:42,MOG,22,14,substituicao_sai,Vithinho
+454,1,01:42,MOG,22,14,ER,Jimmy
+455,1,02:11,CAX,22,14,2_Pts_C,Paranhos
+456,1,02:20,MOG,22,12,AS,Wesley
+457,1,02:20,MOG,22,12,3_Pts_C,Larry
+458,1,02:22,MOG,19,12,RO,Wesley
+459,1,02:30,MOG,19,12,3_Pts_T,Jimmy
+460,1,02:49,CAX,19,12,AS,Cafferata
+461,1,02:49,CAX,19,12,2_Pts_C,Nandão
+462,1,02:54,CAX,19,10,substituicao_entra,Nandão
+463,1,02:54,CAX,19,10,substituicao_entra,Cafferata
+464,1,02:54,CAX,19,10,substituicao_entra,Paranhos
+465,1,02:54,CAX,19,10,substituicao_entra,Pedro
+466,1,02:54,CAX,19,10,substituicao_entra,Warren
+467,1,02:54,CAX,19,10,substituicao_sai,Nandão
+468,1,02:54,CAX,19,10,substituicao_sai,Paranhos
+469,1,02:54,CAX,19,10,substituicao_sai,Cauê V 
+470,1,02:54,CAX,19,10,substituicao_sai,Cauê B 
+471,1,02:54,CAX,19,10,substituicao_sai,Alex
+472,1,02:54,MOG,19,10,substituicao_entra,Jimmy
+473,1,02:54,MOG,19,10,substituicao_sai,Shamell
+474,1,02:54,MOG,19,10,substituicao_entra,Fabricio
+475,1,02:54,MOG,19,10,substituicao_sai,Tyrone 
+476,1,02:54,CAX,19,10,tempo_tecnico,Caxias do Sul
+477,1,04:25,MOG,19,10,AS,Larry
+478,1,04:25,MOG,19,10,2_Pts_C,Shamell
+479,1,04:29,CAX,17,10,ER,Cauê B 
+480,1,04:45,MOG,17,10,AS,Larry
+481,1,04:45,MOG,17,10,3_Pts_C,Vithinho
+482,1,04:45,MOG,14,10,RD,Larry
+483,1,04:45,CAX,14,10,3_Pts_T,Alex
+484,1,04:45,MOG,14,10,AS,Larry
+485,1,04:45,MOG,14,10,2_Pts_C,Wesley
+486,1,04:45,MOG,12,10,BR,Larry
+487,1,04:45,CAX,12,10,ER,Cauê B 
+488,1,04:45,CAX,12,10,BR,Cauê B 
+489,1,04:45,MOG,12,10,ER,Tyrone 
+490,1,04:45,CAX,12,10,2_Pts_C,Alex
+491,1,04:45,MOG,12,8,AS,Tyrone 
+492,1,04:45,MOG,12,8,2_Pts_C,Larry
+493,1,04:45,MOG,10,8,RD,Larry
+494,1,04:45,CAX,10,8,3_Pts_T,Cauê B 
+495,1,04:45,MOG,10,8,2_Pts_C,Wesley
+496,1,04:45,CAX,8,8,substituicao_entra,Nandão
+497,1,04:45,CAX,8,8,substituicao_sai,Marcão
+498,1,04:45,MOG,8,8,substituicao_entra,Larry
+499,1,04:45,MOG,8,8,substituicao_sai,Larry
+500,1,04:45,CAX,8,8,FC,Cauê B 
+501,1,05:08,CAX,8,8,AS,Paranhos
+502,1,05:08,CAX,8,8,2_Pts_C,Marcão
+503,1,05:37,MOG,8,6,2_Pts_C,Vithinho
+504,1,05:50,CAX,6,6,2_Pts_C,Paranhos
+505,1,05:58,CAX,6,4,RO,Paranhos
+506,1,05:58,CAX,6,4,3_Pts_T,Alex
+507,1,06:15,MOG,6,4,AS,Vithinho
+508,1,06:15,MOG,6,4,2_Pts_C,Wesley
+509,1,06:24,MOG,4,4,FR,Shamell
+510,1,06:24,CAX,4,4,FC,Cauê V 
+511,1,06:24,MOG,4,4,RD,Wesley
+512,1,06:27,CAX,4,4,2_Pts_T,Marcão
+513,1,06:28,CAX,4,4,RO,Marcão
+514,1,06:31,CAX,4,4,2_Pts_T,Paranhos
+515,1,06:51,CAX,4,4,FR,Marcão
+516,1,06:51,MOG,4,4,FC,Wesley
+517,1,06:51,CAX,4,4,RD,Caxias do Sul
+518,1,06:52,MOG,4,4,3_Pts_T,Shamell
+519,1,06:54,MOG,4,4,RD,Tyrone 
+520,1,06:58,CAX,4,4,3_Pts_T,Alex
+521,1,07:01,CAX,4,4,RO,Caxias do Sul
+522,1,07:01,CAX,4,4,2_Pts_T,Marcão
+523,1,07:29,MOG,4,4,2_Pts_C,Vithinho
+524,1,07:32,MOG,2,4,RO,Larry
+525,1,07:35,MOG,2,4,2_Pts_T,Larry
+526,1,07:36,MOG,2,4,RO,Larry
+527,1,07:41,MOG,2,4,3_Pts_T,Tyrone 
+528,1,07:52,MOG,2,4,RD,Vithinho
+529,1,07:57,CAX,2,4,3_Pts_T,Alex
+530,1,08:05,CAX,2,4,RD,Cauê V 
+531,1,08:09,MOG,2,4,2_Pts_T,Tyrone 
+532,1,08:18,MOG,2,4,RD,Shamell
+533,1,08:22,CAX,2,4,2_Pts_T,Marcão
+534,1,08:31,CAX,2,4,RD,Paranhos
+535,1,08:34,MOG,2,4,2_Pts_T,Larry
+536,1,08:57,CAX,2,4,2_Pts_C,Alex
+537,1,09:00,CAX,2,2,RD,Cauê V 
+538,1,09:03,MOG,2,2,2_Pts_T,Wesley
+539,1,09:14,CAX,2,2,2_Pts_C,Alex
+540,1,09:24,MOG,2,0,2_Pts_C,Tyrone 
+541,1,09:29,MOG,0,0,RD,Larry
+542,1,09:35,CAX,0,0,2_Pts_T,Alex
+543,1,09:42,CAX,0,0,substituicao_entra,Paranhos
+544,1,10:00,CAX,0,0,substituicao_entra,Paranhos
+545,1,10:00,CAX,0,0,substituicao_entra,Marcão
+546,1,10:00,CAX,0,0,substituicao_entra,Cauê V 
+547,1,10:00,CAX,0,0,substituicao_entra,Cauê B 
+548,1,10:00,CAX,0,0,substituicao_entra,Alex
+549,1,10:00,MOG,0,0,substituicao_entra,Larry
+550,1,10:00,MOG,0,0,substituicao_entra,Wesley
+551,1,10:00,MOG,0,0,substituicao_entra,Shamell
+552,1,10:00,MOG,0,0,substituicao_entra,Vithinho
+553,1,10:00,MOG,0,0,substituicao_entra,Tyrone 

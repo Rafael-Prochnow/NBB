@@ -1,0 +1,589 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,5,00:00,NaN,90,95,fim_partida,
+1,5,00:01,BOT,90,95,3_Pts_T,Gabriel
+2,5,00:03,CAX,90,95,LL_Pts_C,Cauê B 
+3,5,00:03,CAX,90,94,LL_Pts_C,Cauê B 
+4,5,00:03,CAX,90,93,substituicao_entra,Pedro
+5,5,00:03,CAX,90,93,substituicao_sai,Nandão
+6,5,00:03,BOT,90,93,substituicao_entra,Gabriel
+7,5,00:03,BOT,90,93,substituicao_sai,Douglas
+8,5,00:03,CAX,90,93,FR,Cauê B 
+9,5,00:03,BOT,90,93,FC,Douglas
+10,5,00:04,CAX,90,93,RD,Cauê B 
+11,5,00:04,BOT,90,93,2_Pts_T,Átila
+12,5,00:06,BOT,90,93,RO,Átila
+13,5,00:06,BOT,90,93,LL_Pts_T,Jamaal
+14,5,00:06,BOT,90,93,LL_Pts_C,Jamaal
+15,5,00:06,BOT,89,93,substituicao_entra,Roberto
+16,5,00:06,BOT,89,93,substituicao_sai,Gabriel
+17,5,00:06,CAX,89,93,substituicao_entra,Nandão
+18,5,00:06,CAX,89,93,substituicao_sai,Pedro
+19,5,00:06,BOT,89,93,FR,Jamaal
+20,5,00:06,CAX,89,93,FC,Pedro
+21,5,00:10,CAX,89,93,LL_Pts_C,Paranhos
+22,5,00:10,CAX,89,92,LL_Pts_T,Paranhos
+23,5,00:10,CAX,89,92,FR,Paranhos
+24,5,00:10,BOT,89,92,FC,Átila
+25,5,00:10,BOT,89,92,3_Pts_C,Jamaal
+26,5,00:19,CAX,86,92,LL_Pts_C,Cauê B 
+27,5,00:19,CAX,86,91,LL_Pts_C,Cauê B 
+28,5,00:19,BOT,86,90,substituicao_entra,Gabriel
+29,5,00:19,BOT,86,90,substituicao_sai,Roberto
+30,5,00:19,CAX,86,90,FR,Cauê B 
+31,5,00:19,BOT,86,90,FC,Arnaldinho
+32,5,00:21,BOT,86,90,substituicao_entra,Roberto
+33,5,00:21,BOT,86,90,substituicao_sai,Gabriel
+34,5,00:21,CAX,86,90,tempo_tecnico,Caxias do Sul
+35,5,00:21,CAX,86,90,RD,Caxias do Sul
+36,5,00:21,BOT,86,90,3_Pts_T,Arnaldinho
+37,5,00:33,CAX,86,90,LL_Pts_C,Cafferata
+38,5,00:33,CAX,86,89,LL_Pts_T,Cafferata
+39,5,00:33,CAX,86,89,FR,Cafferata
+40,5,00:33,BOT,86,89,FC,Gabriel
+41,5,00:39,BOT,86,89,2_Pts_C,Arnaldinho
+42,5,00:46,BOT,84,89,RD,Jamaal
+43,5,00:48,CAX,84,89,3_Pts_T,Cauê B 
+44,5,01:11,BOT,84,89,LL_Pts_C,Jamaal
+45,5,01:11,BOT,83,89,LL_Pts_C,Jamaal
+46,5,01:11,CAX,82,89,substituicao_entra,Paranhos
+47,5,01:11,CAX,82,89,substituicao_sai,Marcão
+48,5,01:11,BOT,82,89,FR,Jamaal
+49,5,01:11,CAX,82,89,FC,Marcão
+50,5,01:19,CAX,82,89,2_Pts_C,Cafferata
+51,5,01:21,CAX,82,87,RO,Cafferata
+52,5,01:23,CAX,82,87,3_Pts_T,Cauê B 
+53,5,01:45,BOT,82,87,AS,Jamaal
+54,5,01:45,BOT,82,87,LL_Pts_C,Douglas
+55,5,01:45,BOT,81,87,LL_Pts_C,Douglas
+56,5,01:45,BOT,80,87,FR,Douglas
+57,5,01:45,CAX,80,87,FC,Pedro
+58,5,01:56,CAX,80,87,LL_Pts_C,Cauê V 
+59,5,01:56,CAX,80,86,LL_Pts_T,Cauê V 
+60,5,01:56,CAX,80,86,FR,Cauê V 
+61,5,01:56,BOT,80,86,FC,Átila
+62,5,02:14,BOT,80,86,LL_Pts_C,Douglas
+63,5,02:14,BOT,79,86,LL_Pts_T,Douglas
+64,5,02:14,CAX,79,86,substituicao_entra,Cauê V 
+65,5,02:14,CAX,79,86,substituicao_sai,Alex
+66,5,02:14,BOT,79,86,FR,Douglas
+67,5,02:14,CAX,79,86,FC,Alex
+68,5,02:26,CAX,79,86,LL_Pts_C,Cauê B 
+69,5,02:26,CAX,79,85,LL_Pts_C,Cauê B 
+70,5,02:26,BOT,79,84,substituicao_entra,Douglas
+71,5,02:26,BOT,79,84,substituicao_sai,Coimbra
+72,5,02:26,CAX,79,84,FR,Cauê B 
+73,5,02:26,BOT,79,84,FC,Átila
+74,5,02:40,CAX,79,84,BR,Alex
+75,5,02:40,BOT,79,84,ER,Jamaal
+76,5,02:41,CAX,79,84,substituicao_entra,Pedro
+77,5,02:41,CAX,79,84,substituicao_sai,Cauê V 
+78,5,02:41,BOT,79,84,substituicao_entra,Coimbra
+79,5,02:41,BOT,79,84,substituicao_sai,Roberto
+80,5,02:43,CAX,79,84,AS,Cauê B 
+81,5,02:43,CAX,79,84,3_Pts_C,Alex
+82,5,03:02,CAX,79,81,substituicao_entra,Marcão
+83,5,03:02,CAX,79,81,substituicao_sai,Paranhos
+84,5,03:02,BOT,79,81,LL_Pts_C,Jamaal
+85,5,03:02,BOT,78,81,LL_Pts_C,Jamaal
+86,5,03:02,BOT,77,81,substituicao_entra,Roberto
+87,5,03:02,BOT,77,81,substituicao_sai,Coimbra
+88,5,03:02,BOT,77,81,FR,Jamaal
+89,5,03:02,CAX,77,81,FC,Paranhos
+90,5,03:03,BOT,77,81,BR,Jamaal
+91,5,03:03,CAX,77,81,ER,Cafferata
+92,5,03:15,BOT,77,81,substituicao_entra,Átila
+93,5,03:15,BOT,77,81,substituicao_sai,Douglas
+94,5,03:15,BOT,77,81,substituicao_entra,Arnaldinho
+95,5,03:15,BOT,77,81,substituicao_sai,Guga
+96,5,03:18,BOT,77,81,2_Pts_C,Guga
+97,5,03:38,BOT,75,81,substituicao_entra,Jamaal
+98,5,03:38,BOT,75,81,substituicao_sai,Arnaldinho
+99,5,03:38,CAX,75,81,substituicao_entra,Paranhos
+100,5,03:38,CAX,75,81,substituicao_sai,Marcão
+101,5,03:38,BOT,75,81,tempo_tecnico,Botafogo
+102,5,03:38,CAX,75,81,AS,Cauê V 
+103,5,03:38,CAX,75,81,2_Pts_C,Alex
+104,5,03:43,CAX,75,79,RD,Alex
+105,5,03:45,BOT,75,79,2_Pts_T,Arnaldinho
+106,5,03:55,CAX,75,79,2_Pts_C,Marcão
+107,5,03:59,CAX,75,77,RO,Marcão
+108,5,03:59,CAX,75,77,2_Pts_T,Marcão
+109,5,04:00,CAX,75,77,RO,Marcão
+110,5,04:01,CAX,75,77,2_Pts_T,Marcão
+111,5,04:03,CAX,75,77,RO,Marcão
+112,5,04:03,CAX,75,77,3_Pts_T,Cauê B 
+113,5,04:17,CAX,75,77,RD,Cauê B 
+114,5,04:19,BOT,75,77,2_Pts_T,Coimbra
+115,5,04:41,CAX,75,77,AS,Cauê B 
+116,5,04:41,CAX,75,77,2_Pts_C,Marcão
+117,5,04:50,CAX,75,75,FR,Marcão
+118,5,04:50,BOT,75,75,FC,Coimbra
+119,5,05:00,Início do  de período de prorragação,75,75,,
+120,4,00:00,NaN,75,75,fim_quarto, 
+121,4,00:01,BOT,75,75,3_Pts_T,Arnaldinho
+122,4,00:06,BOT,75,75,RD,Arnaldinho
+123,4,00:06,BOT,75,75,TO,Gabriel
+124,4,00:06,CAX,75,75,2_Pts_T,Marcão
+125,4,00:16,BOT,75,75,substituicao_entra,Arnaldinho
+126,4,00:16,BOT,75,75,substituicao_sai,Jamaal
+127,4,00:16,CAX,75,75,tempo_tecnico,Caxias do Sul
+128,4,00:16,BOT,75,75,LL_Pts_C,Jamaal
+129,4,00:16,BOT,74,75,LL_Pts_C,Jamaal
+130,4,00:16,BOT,73,75,FR,Jamaal
+131,4,00:16,CAX,73,75,FC,Cafferata
+132,4,00:36,BOT,73,75,RD,Gabriel
+133,4,00:38,CAX,73,75,2_Pts_T,Alex
+134,4,00:52,CAX,73,75,tempo_tecnico,Caxias do Sul
+135,4,00:52,BOT,73,75,LL_Pts_C,Jamaal
+136,4,00:52,BOT,72,75,LL_Pts_T,Jamaal
+137,4,00:52,BOT,72,75,FR,Jamaal
+138,4,00:52,CAX,72,75,FC,Marcão
+139,4,01:02,BOT,72,75,RD,Coimbra
+140,4,01:03,CAX,72,75,2_Pts_T,Cauê V 
+141,4,01:23,BOT,72,75,AS,Jamaal
+142,4,01:23,BOT,72,75,2_Pts_C,Gabriel
+143,4,01:46,CAX,70,75,2_Pts_C,Cafferata
+144,4,01:52,CAX,70,73,RD,Cauê B 
+145,4,01:53,BOT,70,73,2_Pts_T,Coimbra
+146,4,02:19,CAX,70,73,AS,Cauê V 
+147,4,02:19,CAX,70,73,2_Pts_C,Marcão
+148,4,02:44,BOT,70,71,AS,Jamaal
+149,4,02:44,BOT,70,71,3_Pts_C,Douglas
+150,4,03:02,BOT,67,71,tempo_tecnico,Botafogo
+151,4,03:02,CAX,67,71,AS,Cauê V 
+152,4,03:02,CAX,67,71,2_Pts_C,Cafferata
+153,4,03:22,CAX,67,69,RD,Marcão
+154,4,03:24,BOT,67,69,2_Pts_T,Guga
+155,4,03:39,CAX,67,69,2_Pts_C,Cafferata
+156,4,03:50,CAX,67,67,RD,Cauê B 
+157,4,03:53,CAX,67,67,TO,Marcão
+158,4,03:53,BOT,67,67,2_Pts_T,Gabriel
+159,4,04:15,BOT,67,67,substituicao_entra,Jamaal
+160,4,04:15,BOT,67,67,substituicao_sai,Átila
+161,4,04:15,BOT,67,67,substituicao_entra,Douglas
+162,4,04:15,BOT,67,67,substituicao_sai,Arnaldinho
+163,4,04:15,BOT,67,67,FR,Coimbra
+164,4,04:15,CAX,67,67,ER,Cauê B 
+165,4,04:15,CAX,67,67,FC_O,Cauê B 
+166,4,04:32,BOT,67,67,LL_Pts_C,Gabriel
+167,4,04:32,BOT,66,67,LL_Pts_C,Gabriel
+168,4,04:32,BOT,65,67,substituicao_entra,Arnaldinho
+169,4,04:32,BOT,65,67,substituicao_sai,Douglas
+170,4,04:32,BOT,65,67,substituicao_entra,Átila
+171,4,04:32,BOT,65,67,substituicao_sai,Jamaal
+172,4,04:32,BOT,65,67,FR,Gabriel
+173,4,04:32,CAX,65,67,FC,Marcão
+174,4,04:55,BOT,65,67,substituicao_entra,Douglas
+175,4,04:55,BOT,65,67,substituicao_sai,Átila
+176,4,04:55,CAX,65,67,ER,
+177,4,04:55,BOT,65,67,TO,Átila
+178,4,04:55,CAX,65,67,2_Pts_T,Cauê V 
+179,4,05:19,CAX,65,67,RD,Marcão
+180,4,05:21,BOT,65,67,3_Pts_T,Guga
+181,4,05:33,CAX,65,67,AS,Marcão
+182,4,05:33,CAX,65,67,2_Pts_C,Cafferata
+183,4,05:48,CAX,65,65,FR,Marcão
+184,4,05:48,BOT,65,65,FC,Jamaal
+185,4,06:05,CAX,65,65,RD,Alex
+186,4,06:05,BOT,65,65,LL_Pts_T,Coimbra
+187,4,06:05,BOT,65,65,substituicao_entra,Átila
+188,4,06:05,BOT,65,65,substituicao_sai,Roberto
+189,4,06:05,BOT,65,65,substituicao_entra,Guga
+190,4,06:05,BOT,65,65,substituicao_sai,Arnaldinho
+191,4,06:05,BOT,65,65,FR,Coimbra
+192,4,06:05,CAX,65,65,FC,Cauê V 
+193,4,06:05,BOT,65,65,AS,Jamaal
+194,4,06:05,BOT,65,65,2_Pts_C,Coimbra
+195,4,06:30,CAX,63,65,2_Pts_C,Marcão
+196,4,06:47,CAX,63,63,RD,Marcão
+197,4,06:49,BOT,63,63,3_Pts_T,Arnaldinho
+198,4,07:10,CAX,63,63,AS,Alex
+199,4,07:10,CAX,63,63,2_Pts_C,Marcão
+200,4,07:21,BOT,63,61,ER,Roberto
+201,4,07:25,BOT,63,61,FR,Gabriel
+202,4,07:25,CAX,63,61,FC,Alex
+203,4,07:33,BOT,63,61,FR,Gabriel
+204,4,07:33,CAX,63,61,FC,Alex
+205,4,07:33,BOT,63,61,RD,Botafogo
+206,4,07:33,CAX,63,61,2_Pts_T,Cafferata
+207,4,07:55,CAX,63,61,LL_Pts_C,Cauê B 
+208,4,07:55,BOT,63,60,FC_T,Jamaal
+209,4,07:55,BOT,63,60,AS,Arnaldinho
+210,4,07:55,BOT,63,60,3_Pts_C,Jamaal
+211,4,08:17,CAX,60,60,AS,Marcão
+212,4,08:17,CAX,60,60,3_Pts_C,Cafferata
+213,4,08:31,BOT,60,57,AS,Gabriel
+214,4,08:31,BOT,60,57,3_Pts_C,Coimbra
+215,4,08:38,BOT,57,57,RD,Jamaal
+216,4,08:40,CAX,57,57,3_Pts_T,Alex
+217,4,08:59,BOT,57,57,substituicao_entra,Jamaal
+218,4,08:59,BOT,57,57,substituicao_sai,Guga
+219,4,08:59,BOT,57,57,ER,Guga
+220,4,09:20,CAX,57,57,substituicao_entra,Marcão
+221,4,09:20,CAX,57,57,substituicao_sai,Paranhos
+222,4,09:20,CAX,57,57,LL_Pts_C,Alex
+223,4,09:20,CAX,57,56,LL_Pts_C,Alex
+224,4,09:20,CAX,57,55,FR,Alex
+225,4,09:20,BOT,57,55,FC,Roberto
+226,4,09:42,BOT,57,55,2_Pts_C,Guga
+227,4,10:00,NaN,55,55,inicio_quarto,
+228,3,00:00,NaN,55,55,fim_quarto,
+229,3,00:01,CAX,55,55,3_Pts_T,Alex
+230,3,00:04,CAX,55,55,BR,Cauê V 
+231,3,00:04,BOT,55,55,ER,Guga
+232,3,00:14,BOT,55,55,RD,Coimbra
+233,3,00:15,CAX,55,55,2_Pts_T,Paranhos
+234,3,00:38,BOT,55,55,substituicao_entra,Gabriel
+235,3,00:38,BOT,55,55,substituicao_sai,Jamaal
+236,3,00:38,BOT,55,55,AS,Guga
+237,3,00:38,BOT,55,55,LL_Pts_C,Jamaal
+238,3,00:38,BOT,54,55,LL_Pts_C,Jamaal
+239,3,00:38,BOT,53,55,FR,Jamaal
+240,3,00:38,CAX,53,55,FC,Paranhos
+241,3,00:55,BOT,53,55,RD,Guga
+242,3,00:59,BOT,53,55,TO,Guga
+243,3,00:59,CAX,53,55,2_Pts_T,Cauê B 
+244,3,01:14,BOT,53,55,substituicao_entra,Coimbra
+245,3,01:14,BOT,53,55,substituicao_sai,Átila
+246,3,01:14,BOT,53,55,AS,Guga
+247,3,01:14,BOT,53,55,LL_Pts_C,Átila
+248,3,01:14,BOT,52,55,LL_Pts_C,Átila
+249,3,01:14,BOT,51,55,FR,Átila
+250,3,01:14,CAX,51,55,FC,Paranhos
+251,3,01:38,CAX,51,55,AS,Cauê V 
+252,3,01:38,CAX,51,55,2_Pts_C,Alex
+253,3,01:44,CAX,51,53,BR,Paranhos
+254,3,01:44,BOT,51,53,ER,Jamaal
+255,3,01:53,CAX,51,53,2_Pts_C,Paranhos
+256,3,02:16,BOT,51,51,LL_Pts_C,Jamaal
+257,3,02:16,BOT,50,51,LL_Pts_C,Jamaal
+258,3,02:16,CAX,49,51,substituicao_entra,Cafferata
+259,3,02:16,CAX,49,51,substituicao_sai,Pedro
+260,3,02:16,BOT,49,51,substituicao_entra,Arnaldinho
+261,3,02:16,BOT,49,51,substituicao_sai,Gabriel
+262,3,02:16,BOT,49,51,FR,Jamaal
+263,3,02:16,CAX,49,51,FC,Cauê V 
+264,3,02:22,BOT,49,51,RD,Átila
+265,3,02:24,CAX,49,51,2_Pts_T,Pedro
+266,3,02:38,BOT,49,51,substituicao_entra,Roberto
+267,3,02:38,BOT,49,51,substituicao_sai,Douglas
+268,3,02:38,CAX,49,51,FR,Paranhos
+269,3,02:38,BOT,49,51,FC,Douglas
+270,3,02:39,CAX,49,51,RO,Paranhos
+271,3,02:39,CAX,49,51,2_Pts_T,Pedro
+272,3,02:45,CAX,49,51,FR,Cauê B 
+273,3,02:45,BOT,49,51,FC,Átila
+274,3,03:09,BOT,49,51,AS,Guga
+275,3,03:09,BOT,49,51,2_Pts_C,Gabriel
+276,3,03:12,BOT,47,51,BR,Guga
+277,3,03:12,CAX,47,51,ER,Cauê B 
+278,3,03:28,CAX,47,51,RD,Alex
+279,3,03:29,BOT,47,51,2_Pts_T,Átila
+280,3,03:34,BOT,47,51,RO,Átila
+281,3,03:36,BOT,47,51,2_Pts_T,Guga
+282,3,03:55,CAX,47,51,AS,Cauê B 
+283,3,03:55,CAX,47,51,EN,Paranhos
+284,3,04:10,CAX,47,49,FR,Cauê B 
+285,3,04:10,BOT,47,49,FC,Gabriel
+286,3,04:25,BOT,47,49,LL_Pts_C,Jamaal
+287,3,04:25,BOT,46,49,FR,Jamaal
+288,3,04:25,CAX,46,49,FC,Pedro
+289,3,04:25,BOT,46,49,2_Pts_C,Jamaal
+290,3,04:27,BOT,44,49,RD,Guga
+291,3,04:29,CAX,44,49,2_Pts_T,Paranhos
+292,3,04:50,BOT,44,49,AS,Guga
+293,3,04:50,BOT,44,49,2_Pts_C,Átila
+294,3,05:10,BOT,42,49,tempo_tecnico,Botafogo
+295,3,05:10,CAX,42,49,2_Pts_C,Paranhos
+296,3,05:15,CAX,42,47,RD,Cauê V 
+297,3,05:16,BOT,42,47,2_Pts_T,Gabriel
+298,3,05:27,BOT,42,47,RO,Douglas
+299,3,05:28,BOT,42,47,3_Pts_T,Gabriel
+300,3,05:36,BOT,42,47,RD,Átila
+301,3,05:38,CAX,42,47,3_Pts_T,Cauê V 
+302,3,05:52,BOT,42,47,substituicao_entra,Douglas
+303,3,05:52,BOT,42,47,substituicao_sai,Coimbra
+304,3,05:52,BOT,42,47,ER,Coimbra
+305,3,06:09,CAX,42,47,2_Pts_C,Cauê V 
+306,3,06:18,CAX,42,45,RD,Paranhos
+307,3,06:21,BOT,42,45,3_Pts_T,Jamaal
+308,3,06:32,CAX,42,45,AS,Alex
+309,3,06:32,CAX,42,45,2_Pts_C,Paranhos
+310,3,06:57,BOT,42,43,AS,Jamaal
+311,3,06:57,BOT,42,43,2_Pts_C,Átila
+312,3,07:12,BOT,40,43,FR,Jamaal
+313,3,07:12,CAX,40,43,FC,Cauê V 
+314,3,07:17,BOT,40,43,RD,Jamaal
+315,3,07:19,CAX,40,43,3_Pts_T,Alex
+316,3,07:27,CAX,40,43,RD,Cauê B 
+317,3,07:28,BOT,40,43,3_Pts_T,Coimbra
+318,3,07:51,BOT,40,43,LL_Pts_C,Jamaal
+319,3,07:51,BOT,39,43,LL_Pts_C,Jamaal
+320,3,07:51,CAX,38,43,substituicao_entra,Alex
+321,3,07:51,CAX,38,43,substituicao_sai,Nandão
+322,3,07:51,BOT,38,43,FR,Jamaal
+323,3,07:51,CAX,38,43,FC_A,Nandão
+324,3,07:53,BOT,38,43,RD,Jamaal
+325,3,07:53,BOT,38,43,TO,Coimbra
+326,3,07:53,CAX,38,43,2_Pts_T,Nandão
+327,3,07:53,CAX,38,43,RO,Nandão
+328,3,07:53,CAX,38,43,2_Pts_T,Nandão
+329,3,08:15,BOT,38,43,AS,Guga
+330,3,08:15,BOT,38,43,LL_Pts_C,Gabriel
+331,3,08:15,BOT,37,43,LL_Pts_T,Gabriel
+332,3,08:15,BOT,37,43,FR,Gabriel
+333,3,08:15,CAX,37,43,FC,Nandão
+334,3,08:27,CAX,37,43,ER,Paranhos
+335,3,08:30,CAX,37,43,RD,Cauê V 
+336,3,08:32,BOT,37,43,2_Pts_T,Jamaal
+337,3,08:54,CAX,37,43,2_Pts_C,Pedro
+338,3,09:16,BOT,37,41,AS,Gabriel
+339,3,09:16,BOT,37,41,3_Pts_C,Guga
+340,3,09:39,CAX,34,41,AS,Cauê B 
+341,3,09:39,CAX,34,41,2_Pts_C,Nandão
+342,3,10:00,NaN,34,39,inicio_quarto,
+343,2,00:00,NaN,34,39,fim_quarto,
+344,2,00:02,CAX,34,39,3_Pts_T,Pedro
+345,2,00:12,CAX,34,39,RD,Cauê V 
+346,2,00:14,BOT,34,39,3_Pts_T,Douglas
+347,2,00:25,CAX,34,39,substituicao_entra,Buboltz 
+348,2,00:25,CAX,34,39,substituicao_sai,Cafferata
+349,2,00:25,CAX,34,39,substituicao_entra,Cauê V 
+350,2,00:25,CAX,34,39,substituicao_sai,Nandão
+351,2,00:25,BOT,34,39,substituicao_entra,Douglas
+352,2,00:25,BOT,34,39,substituicao_sai,R  Bahia
+353,2,00:25,BOT,34,39,substituicao_entra,Jamaal
+354,2,00:25,BOT,34,39,substituicao_sai,Arnaldinho
+355,2,00:25,BOT,34,39,tempo_tecnico,Botafogo
+356,2,00:25,CAX,34,39,2_Pts_C,Cauê B 
+357,2,00:27,CAX,34,37,BR,Cauê B 
+358,2,00:27,BOT,34,37,ER,Guga
+359,2,00:36,BOT,34,37,RD,R  Bahia
+360,2,00:38,CAX,34,37,2_Pts_T,Paranhos
+361,2,00:52,BOT,34,37,ER,Arnaldinho
+362,2,01:01,BOT,34,37,RD,Coimbra
+363,2,01:06,CAX,34,37,3_Pts_T,Nandão
+364,2,01:27,CAX,34,37,RD,Pedro
+365,2,01:30,BOT,34,37,3_Pts_T,Gabriel
+366,2,01:46,CAX,34,37,2_Pts_C,Cafferata
+367,2,02:05,BOT,34,35,LL_Pts_C,Gabriel
+368,2,02:05,BOT,33,35,substituicao_entra,Coimbra
+369,2,02:05,BOT,33,35,substituicao_sai,Roberto
+370,2,02:05,CAX,33,35,substituicao_entra,Cauê B 
+371,2,02:05,CAX,33,35,substituicao_sai,Warren
+372,2,02:05,BOT,33,35,FR,Gabriel
+373,2,02:05,CAX,33,35,FC,Warren
+374,2,02:05,BOT,33,35,2_Pts_C,Gabriel
+375,2,02:22,CAX,31,35,2_Pts_C,Pedro
+376,2,02:25,CAX,31,33,RD,Warren
+377,2,02:27,BOT,31,33,2_Pts_T,Roberto
+378,2,02:35,BOT,31,33,RD,Roberto
+379,2,02:38,BOT,31,33,TO,R  Bahia
+380,2,02:38,CAX,31,33,2_Pts_T,Pedro
+381,2,02:43,CAX,31,33,BR,Pedro
+382,2,02:43,BOT,31,33,ER,Roberto
+383,2,03:04,BOT,31,33,tempo_tecnico,Botafogo
+384,2,03:04,CAX,31,33,LL_Pts_C,Pedro
+385,2,03:04,CAX,31,32,LL_Pts_C,Pedro
+386,2,03:04,BOT,31,31,substituicao_entra,Arnaldinho
+387,2,03:04,BOT,31,31,substituicao_sai,Jamaal
+388,2,03:04,CAX,31,31,FR,Pedro
+389,2,03:04,BOT,31,31,FC,Jamaal
+390,2,03:11,CAX,31,31,BR,Paranhos
+391,2,03:11,BOT,31,31,ER,Jamaal
+392,2,03:19,BOT,31,31,RO,Roberto
+393,2,03:20,BOT,31,31,3_Pts_T,R  Bahia
+394,2,03:34,CAX,31,31,2_Pts_C,Pedro
+395,2,03:34,CAX,31,29,substituicao_entra,Pedro
+396,2,03:34,CAX,31,29,substituicao_sai,Cauê B 
+397,2,03:41,CAX,31,29,RD,Cauê B 
+398,2,03:44,BOT,31,29,2_Pts_T,Jamaal
+399,2,03:48,BOT,31,29,BR,Jamaal
+400,2,03:48,CAX,31,29,ER,Cauê B 
+401,2,04:07,CAX,31,29,RD,Paranhos
+402,2,04:08,BOT,31,29,3_Pts_T,Guga
+403,2,04:19,BOT,31,29,BR,Gabriel
+404,2,04:19,CAX,31,29,ER,Warren
+405,2,04:40,BOT,31,29,2_Pts_C,R  Bahia
+406,2,04:52,BOT,29,29,substituicao_entra,R  Bahia
+407,2,04:52,BOT,29,29,substituicao_sai,Átila
+408,2,04:52,BOT,29,29,FR,Jamaal
+409,2,04:52,CAX,29,29,FC,Cafferata
+410,2,05:02,CAX,29,29,2_Pts_C,Nandão
+411,2,05:03,CAX,29,27,RO,Nandão
+412,2,05:05,CAX,29,27,2_Pts_T,Paranhos
+413,2,05:22,BOT,29,27,ER,Átila
+414,2,05:42,CAX,29,27,substituicao_entra,Paranhos
+415,2,05:42,CAX,29,27,substituicao_sai,Marcão
+416,2,05:42,CAX,29,27,AS,Cauê B 
+417,2,05:42,CAX,29,27,LL_Pts_C,Marcão
+418,2,05:42,CAX,29,26,LL_Pts_T,Marcão
+419,2,05:42,BOT,29,26,substituicao_entra,Gabriel
+420,2,05:42,BOT,29,26,substituicao_sai,Douglas
+421,2,05:42,CAX,29,26,FR,Marcão
+422,2,05:42,BOT,29,26,FC,Douglas
+423,2,05:51,CAX,29,26,FR,Cauê B 
+424,2,05:51,BOT,29,26,FC,Guga
+425,2,06:09,BOT,29,26,AS,Jamaal
+426,2,06:09,BOT,29,26,3_Pts_C,Douglas
+427,2,06:14,BOT,26,26,RD,Guga
+428,2,06:16,CAX,26,26,2_Pts_T,Marcão
+429,2,06:17,CAX,26,26,RO,Marcão
+430,2,06:18,CAX,26,26,2_Pts_T,Marcão
+431,2,06:20,CAX,26,26,RO,Marcão
+432,2,06:20,CAX,26,26,2_Pts_T,Cafferata
+433,2,06:34,CAX,26,26,FR,Cauê B 
+434,2,06:34,BOT,26,26,FC,Douglas
+435,2,06:56,BOT,26,26,LL_Pts_C,Jamaal
+436,2,06:56,BOT,25,26,LL_Pts_C,Jamaal
+437,2,06:56,BOT,24,26,substituicao_entra,Guga
+438,2,06:56,BOT,24,26,substituicao_sai,Arnaldinho
+439,2,06:56,BOT,24,26,FR,Jamaal
+440,2,06:56,CAX,24,26,FC,Cafferata
+441,2,07:12,BOT,24,26,substituicao_entra,Douglas
+442,2,07:12,BOT,24,26,substituicao_sai,Gabriel
+443,2,07:12,CAX,24,26,ER,Cafferata
+444,2,07:14,CAX,24,26,RD,Nandão
+445,2,07:15,BOT,24,26,2_Pts_T,Arnaldinho
+446,2,07:34,BOT,24,26,RD,Botafogo
+447,2,07:34,CAX,24,26,2_Pts_T,Cauê B 
+448,2,07:40,CAX,24,26,RD,Cauê B 
+449,2,07:42,BOT,24,26,2_Pts_T,Arnaldinho
+450,2,07:43,BOT,24,26,RO,Arnaldinho
+451,2,07:44,BOT,24,26,3_Pts_T,Gabriel
+452,2,07:53,BOT,24,26,substituicao_entra,Jamaal
+453,2,07:53,BOT,24,26,substituicao_sai,Guga
+454,2,08:12,CAX,24,26,AS,Cafferata
+455,2,08:12,CAX,24,26,3_Pts_C,Marcão
+456,2,08:19,CAX,24,23,RD,Marcão
+457,2,08:21,BOT,24,23,3_Pts_T,Arnaldinho
+458,2,08:34,BOT,24,23,BR,Roberto
+459,2,08:34,CAX,24,23,ER,Cafferata
+460,2,08:51,CAX,24,23,LL_Pts_T,Cafferata
+461,2,08:51,CAX,24,23,LL_Pts_T,Cafferata
+462,2,08:51,BOT,24,23,substituicao_entra,Átila
+463,2,08:51,BOT,24,23,substituicao_sai,Douglas
+464,2,08:51,BOT,24,23,substituicao_entra,Roberto
+465,2,08:51,BOT,24,23,substituicao_sai,Coimbra
+466,2,08:51,CAX,24,23,FR,Cafferata
+467,2,08:51,BOT,24,23,FC_A,Coimbra
+468,2,08:58,CAX,24,23,RO,Warren
+469,2,09:02,CAX,24,23,2_Pts_T,Warren
+470,2,09:08,CAX,24,23,RD,Marcão
+471,2,09:10,BOT,24,23,2_Pts_T,Douglas
+472,2,09:32,CAX,24,23,AS,Cafferata
+473,2,09:32,CAX,24,23,2_Pts_C,Nandão
+474,2,09:38,CAX,24,21,BR,Cafferata
+475,2,09:38,BOT,24,21,ER,Guga
+476,2,10:00,NaN,24,21,inicio_quarto,
+477,1,00:00,NaN,24,21,fim_quarto,
+478,1,00:07,BOT,24,21,AS,Arnaldinho
+479,1,00:07,BOT,24,21,2_Pts_C,Guga
+480,1,00:32,BOT,22,21,FR,Gabriel
+481,1,00:32,CAX,22,21,ER,Marcão
+482,1,00:32,CAX,22,21,FC_O,Marcão
+483,1,00:52,CAX,22,21,RD,Pedro
+484,1,00:52,BOT,22,21,LL_Pts_T,Douglas
+485,1,00:52,BOT,22,21,LL_Pts_C,Douglas
+486,1,00:52,BOT,21,21,substituicao_entra,Arnaldinho
+487,1,00:52,BOT,21,21,substituicao_sai,Jamaal
+488,1,00:52,BOT,21,21,FR,Douglas
+489,1,00:52,CAX,21,21,FC,Nandão
+490,1,01:06,CAX,21,21,2_Pts_C,Cauê B 
+491,1,01:26,BOT,21,19,AS,Guga
+492,1,01:26,BOT,21,19,2_Pts_C,Coimbra
+493,1,01:34,BOT,19,19,RD,Coimbra
+494,1,01:36,CAX,19,19,2_Pts_T,Marcão
+495,1,01:47,CAX,19,19,RD,Marcão
+496,1,01:48,BOT,19,19,2_Pts_T,Guga
+497,1,01:58,BOT,19,19,RD,Douglas
+498,1,01:59,CAX,19,19,2_Pts_T,Marcão
+499,1,02:13,BOT,19,19,AS,Douglas
+500,1,02:13,BOT,19,19,3_Pts_C,Coimbra
+501,1,02:37,CAX,16,19,LL_Pts_C,Marcão
+502,1,02:37,CAX,16,18,LL_Pts_T,Marcão
+503,1,02:37,CAX,16,18,FR,Marcão
+504,1,02:37,BOT,16,18,FC,Coimbra
+505,1,02:37,CAX,16,18,AS,Marcão
+506,1,02:37,CAX,16,18,3_Pts_C,Cauê B 
+507,1,02:51,CAX,16,15,BR,Pedro
+508,1,02:51,BOT,16,15,ER,Gabriel
+509,1,02:56,BOT,16,15,RD,Guga
+510,1,02:58,CAX,16,15,2_Pts_T,Marcão
+511,1,03:18,BOT,16,15,2_Pts_C,Guga
+512,1,03:36,CAX,14,15,LL_Pts_C,Pedro
+513,1,03:36,CAX,14,14,LL_Pts_T,Pedro
+514,1,03:36,CAX,14,14,FR,Pedro
+515,1,03:36,BOT,14,14,FC,Guga
+516,1,03:53,BOT,14,14,LL_Pts_C,Douglas
+517,1,03:53,CAX,13,14,substituicao_entra,Nandão
+518,1,03:53,CAX,13,14,substituicao_sai,Alex
+519,1,03:53,BOT,13,14,FR,Douglas
+520,1,03:53,CAX,13,14,FC,Alex
+521,1,03:53,BOT,13,14,AS,Guga
+522,1,03:53,BOT,13,14,2_Pts_C,Douglas
+523,1,04:01,CAX,11,14,AS,Cauê V 
+524,1,04:01,CAX,11,14,2_Pts_C,Cauê B 
+525,1,04:02,CAX,11,12,RD,Cauê V 
+526,1,04:05,BOT,11,12,3_Pts_T,Jamaal
+527,1,04:10,BOT,11,12,FR,Douglas
+528,1,04:10,CAX,11,12,FC,Alex
+529,1,04:31,BOT,11,12,FR,Coimbra
+530,1,04:31,CAX,11,12,FC,Marcão
+531,1,04:31,BOT,11,12,RD,Coimbra
+532,1,04:31,CAX,11,12,3_Pts_T,Alex
+533,1,04:49,BOT,11,12,ER,Guga
+534,1,05:05,CAX,11,12,ER,Alex
+535,1,05:06,CAX,11,12,RO,Alex
+536,1,05:08,CAX,11,12,2_Pts_T,Alex
+537,1,05:10,CAX,11,12,RO,Alex
+538,1,05:12,CAX,11,12,2_Pts_T,Cauê B 
+539,1,05:16,CAX,11,12,BR,Cauê V 
+540,1,05:16,BOT,11,12,ER,Gabriel
+541,1,05:26,CAX,11,12,substituicao_entra,Marcão
+542,1,05:26,CAX,11,12,substituicao_sai,Paranhos
+543,1,05:26,BOT,11,12,FR,Jamaal
+544,1,05:26,CAX,11,12,FC,Pedro
+545,1,05:48,CAX,11,12,3_Pts_C,Cauê V 
+546,1,06:05,BOT,11,9,AS,Gabriel
+547,1,06:05,BOT,11,9,2_Pts_C,Coimbra
+548,1,06:20,CAX,9,9,AS,Cauê V 
+549,1,06:20,CAX,9,9,2_Pts_C,Paranhos
+550,1,06:28,CAX,9,7,RD,Alex
+551,1,06:30,BOT,9,7,3_Pts_T,Gabriel
+552,1,06:36,BOT,9,7,RD,Guga
+553,1,06:38,CAX,9,7,3_Pts_T,Cauê B 
+554,1,06:56,BOT,9,7,AS,Guga
+555,1,06:56,BOT,9,7,2_Pts_C,Coimbra
+556,1,07:08,BOT,7,7,RD,Jamaal
+557,1,07:10,CAX,7,7,3_Pts_T,Cauê V 
+558,1,07:26,BOT,7,7,AS,Guga
+559,1,07:26,BOT,7,7,2_Pts_C,Gabriel
+560,1,07:44,CAX,5,7,2_Pts_C,Alex
+561,1,07:49,BOT,5,5,AS,Jamaal
+562,1,07:49,BOT,5,5,EN,Gabriel
+563,1,08:03,CAX,3,5,LL_Pts_C,Paranhos
+564,1,08:03,CAX,3,4,FR,Paranhos
+565,1,08:03,BOT,3,4,FC,Douglas
+566,1,08:03,CAX,3,4,2_Pts_C,Paranhos
+567,1,08:27,BOT,3,2,AS,Guga
+568,1,08:27,BOT,3,2,3_Pts_C,Jamaal
+569,1,08:46,CAX,0,2,2_Pts_C,Cauê B 
+570,1,08:56,CAX,0,0,FR,Paranhos
+571,1,08:56,BOT,0,0,FC,Gabriel
+572,1,09:05,CAX,0,0,FR,Pedro
+573,1,09:05,BOT,0,0,FC,Jamaal
+574,1,09:18,CAX,0,0,RD,Cauê B 
+575,1,09:20,BOT,0,0,3_Pts_T,Gabriel
+576,1,09:40,BOT,0,0,RD,Coimbra
+577,1,09:42,CAX,0,0,2_Pts_T,Paranhos
+578,1,10:00,CAX,0,0,substituicao_entra,Paranhos
+579,1,10:00,CAX,0,0,substituicao_entra,Pedro
+580,1,10:00,CAX,0,0,substituicao_entra,Cauê V 
+581,1,10:00,CAX,0,0,substituicao_entra,Cauê B 
+582,1,10:00,CAX,0,0,substituicao_entra,Alex
+583,1,10:00,BOT,0,0,substituicao_entra,Coimbra
+584,1,10:00,BOT,0,0,substituicao_entra,Douglas
+585,1,10:00,BOT,0,0,substituicao_entra,Guga
+586,1,10:00,BOT,0,0,substituicao_entra,Gabriel
+587,1,10:00,BOT,0,0,substituicao_entra,Jamaal

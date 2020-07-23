@@ -1,0 +1,451 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,79,78,fim_partida,
+1,4,00:04,CAX,79,78,LL_Pts_T,Paranhos
+2,4,00:04,CAX,79,78,LL_Pts_C,Paranhos
+3,4,00:04,CAX,78,78,FR,Paranhos
+4,4,00:04,VIT,78,78,FC,Kurtz
+5,4,00:08,CAX,78,78,RD,Cauê B 
+6,4,00:08,VIT,78,78,3_Pts_T,Dawkins
+7,4,00:30,CAX,78,78,LL_Pts_C,Cauê B 
+8,4,00:30,CAX,77,78,LL_Pts_C,Cauê B 
+9,4,00:30,CAX,76,78,FR,Cauê B 
+10,4,00:30,VIT,76,78,FC,Okorie
+11,4,00:44,CAX,76,78,RD,Paranhos
+12,4,00:47,VIT,76,78,3_Pts_T,Okorie
+13,4,01:12,CAX,76,78,2_Pts_C,Cafferata
+14,4,01:33,VIT,74,78,2_Pts_C,Dawkins
+15,4,01:42,VIT,74,76,FR,André
+16,4,01:42,CAX,74,76,FC,Pedro
+17,4,01:53,VIT,74,76,RD,Dawkins
+18,4,01:56,CAX,74,76,2_Pts_T,Cauê B 
+19,4,02:15,CAX,74,76,tempo_tecnico,Caxias do Sul
+20,4,02:15,VIT,74,76,LL_Pts_C,Dawkins
+21,4,02:15,VIT,74,75,LL_Pts_C,Dawkins
+22,4,02:15,VIT,74,74,FR,Dawkins
+23,4,02:15,CAX,74,74,FC,Pedro
+24,4,02:34,CAX,74,74,AS,Alex
+25,4,02:34,CAX,74,74,3_Pts_C,Cafferata
+26,4,02:46,VIT,71,74,2_Pts_C,Dawkins
+27,4,03:09,CAX,71,72,LL_Pts_C,Cauê B 
+28,4,03:09,VIT,70,72,tempo_tecnico,Vitória
+29,4,03:09,VIT,70,72,substituicao_entra,Renato
+30,4,03:09,VIT,70,72,substituicao_sai,Shaw
+31,4,03:09,CAX,70,72,FR,Cauê B 
+32,4,03:09,VIT,70,72,FC,Kurtz
+33,4,03:09,CAX,70,72,2_Pts_C,Cauê B 
+34,4,03:16,CAX,68,72,RD,Paranhos
+35,4,03:19,VIT,68,72,3_Pts_T,Dawkins
+36,4,03:31,VIT,68,72,substituicao_entra,Okorie
+37,4,03:31,VIT,68,72,substituicao_sai,Arthur
+38,4,03:31,VIT,68,72,RO,Vitória
+39,4,03:32,VIT,68,72,2_Pts_T,Kurtz
+40,4,03:39,VIT,68,72,RD,Shaw
+41,4,03:42,CAX,68,72,2_Pts_T,Alex
+42,4,03:44,CAX,68,72,RO,Alex
+43,4,03:47,CAX,68,72,3_Pts_T,Cafferata
+44,4,04:08,VIT,68,72,3_Pts_C,André
+45,4,04:33,CAX,68,69,2_Pts_C,Cafferata
+46,4,04:49,CAX,66,69,substituicao_entra,Alex
+47,4,04:49,CAX,66,69,substituicao_sai,Nandão
+48,4,04:49,CAX,66,69,RD,Caxias do Sul
+49,4,04:52,VIT,66,69,3_Pts_T,Arthur
+50,4,05:06,CAX,66,69,ER,Cafferata
+51,4,05:16,CAX,66,69,FR,Cauê B 
+52,4,05:16,VIT,66,69,FC,Dawkins
+53,4,05:35,CAX,66,69,RD,Paranhos
+54,4,05:36,VIT,66,69,LL_Pts_T,Arthur
+55,4,05:36,CAX,66,69,substituicao_entra,Nandão
+56,4,05:36,CAX,66,69,substituicao_sai,Alex
+57,4,05:36,VIT,66,69,FR,Arthur
+58,4,05:36,CAX,66,69,FC,Cauê B 
+59,4,05:36,VIT,66,69,2_Pts_C,Arthur
+60,4,05:36,VIT,66,67,RO,Arthur
+61,4,05:37,VIT,66,67,2_Pts_T,Arthur
+62,4,06:03,CAX,66,67,2_Pts_C,Alex
+63,4,06:09,CAX,64,67,RO,Alex
+64,4,06:11,CAX,64,67,3_Pts_T,Alex
+65,4,06:31,VIT,64,67,substituicao_entra,Shaw
+66,4,06:31,VIT,64,67,substituicao_sai,Renato
+67,4,06:31,VIT,64,67,ER,Kurtz
+68,4,06:53,VIT,64,67,RD,Renato
+69,4,06:54,CAX,64,67,LL_Pts_T,Cauê B 
+70,4,06:54,CAX,64,67,substituicao_entra,Cafferata
+71,4,06:54,CAX,64,67,substituicao_sai,Cauê V 
+72,4,06:54,CAX,64,67,FR,Cauê B 
+73,4,06:54,VIT,64,67,FC,Renato
+74,4,06:54,CAX,64,67,2_Pts_C,Cauê B 
+75,4,07:02,VIT,62,67,3_Pts_C,Dawkins
+76,4,07:13,VIT,62,64,RO,André
+77,4,07:15,VIT,62,64,2_Pts_T,André
+78,4,07:24,VIT,62,64,RO,Kurtz
+79,4,07:27,VIT,62,64,2_Pts_T,Dawkins
+80,4,07:43,VIT,62,64,RD,Renato
+81,4,07:45,CAX,62,64,2_Pts_T,Pedro
+82,4,08:11,VIT,62,64,AS,Arthur
+83,4,08:11,VIT,62,64,2_Pts_C,Kurtz
+84,4,08:29,CAX,62,62,AS,Pedro
+85,4,08:29,CAX,62,62,2_Pts_C,Paranhos
+86,4,08:44,VIT,60,62,2_Pts_C,André
+87,4,08:56,VIT,60,60,RD,Arthur
+88,4,08:59,CAX,60,60,2_Pts_T,Alex
+89,4,09:13,VIT,60,60,LL_Pts_C,André
+90,4,09:13,VIT,60,59,LL_Pts_C,André
+91,4,09:13,VIT,60,58,FR,André
+92,4,09:13,CAX,60,58,FC,Cauê B 
+93,4,09:40,CAX,60,58,2_Pts_C,Alex
+94,4,10:00,NaN,58,58,inicio_quarto,
+95,3,00:00,NaN,58,58,fim_quarto,
+96,3,00:04,VIT,58,58,RD,Vitória
+97,3,00:04,CAX,58,58,3_Pts_T,Alex
+98,3,00:04,CAX,58,58,substituicao_entra,Cauê B 
+99,3,00:04,CAX,58,58,substituicao_sai,Nandão
+100,3,00:04,VIT,58,58,substituicao_entra,Kurtz
+101,3,00:04,VIT,58,58,substituicao_sai,Murilo
+102,3,00:04,CAX,58,58,FR,Cauê V 
+103,3,00:04,VIT,58,58,FC,Murilo
+104,3,00:14,VIT,58,58,AS,Okorie
+105,3,00:14,VIT,58,58,3_Pts_C,André
+106,3,00:18,VIT,58,55,RO,André
+107,3,00:21,VIT,58,55,3_Pts_T,André
+108,3,00:40,VIT,58,55,RD,Murilo
+109,3,00:43,CAX,58,55,2_Pts_T,Pedro
+110,3,00:55,CAX,58,55,substituicao_entra,Warren
+111,3,00:55,CAX,58,55,substituicao_sai,Cauê B 
+112,3,00:55,VIT,58,55,substituicao_entra,Mariano
+113,3,00:55,VIT,58,55,substituicao_sai,Dawkins
+114,3,00:55,CAX,58,55,substituicao_entra,Nandão
+115,3,00:55,CAX,58,55,substituicao_sai,Paranhos
+116,3,00:55,CAX,58,55,BR,Cauê V 
+117,3,00:55,VIT,58,55,ER,Dawkins
+118,3,00:55,VIT,58,55,BR,Dawkins
+119,3,00:55,CAX,58,55,ER,Cauê B 
+120,3,00:59,CAX,58,55,RD,Pedro
+121,3,01:02,VIT,58,55,3_Pts_T,Dawkins
+122,3,01:14,VIT,58,55,RD,Renato
+123,3,01:16,CAX,58,55,3_Pts_T,Cauê B 
+124,3,01:31,CAX,58,55,FR,Cauê B 
+125,3,01:31,VIT,58,55,FC,Murilo
+126,3,01:39,VIT,58,55,2_Pts_C,Renato
+127,3,01:43,VIT,58,53,RO,Renato
+128,3,01:43,VIT,58,53,2_Pts_T,Dawkins
+129,3,02:04,VIT,58,53,RD,André
+130,3,02:07,CAX,58,53,2_Pts_T,Alex
+131,3,02:27,CAX,58,53,substituicao_entra,Cauê V 
+132,3,02:27,CAX,58,53,substituicao_sai,Cafferata
+133,3,02:27,VIT,58,53,substituicao_entra,André
+134,3,02:27,VIT,58,53,substituicao_sai,Arthur
+135,3,02:27,VIT,58,53,LL_Pts_C,Dawkins
+136,3,02:27,VIT,58,52,LL_Pts_C,Dawkins
+137,3,02:27,VIT,58,51,FR,Dawkins
+138,3,02:27,CAX,58,51,FC,Cafferata
+139,3,02:31,VIT,58,51,RD,Dawkins
+140,3,02:34,CAX,58,51,3_Pts_T,Cauê B 
+141,3,02:55,VIT,58,51,LL_Pts_C,Murilo
+142,3,02:55,VIT,58,50,LL_Pts_C,Murilo
+143,3,02:55,VIT,58,49,FR,Murilo
+144,3,02:55,CAX,58,49,FC,Cafferata
+145,3,03:19,CAX,58,49,AS,Pedro
+146,3,03:19,CAX,58,49,3_Pts_C,Cafferata
+147,3,03:24,CAX,55,49,RO,Cauê B 
+148,3,03:27,CAX,55,49,2_Pts_T,Pedro
+149,3,03:30,CAX,55,49,RD,Paranhos
+150,3,03:33,VIT,55,49,2_Pts_T,Okorie
+151,3,03:44,VIT,55,49,RD,Arthur
+152,3,03:50,VIT,55,49,TO,Murilo
+153,3,03:50,CAX,55,49,2_Pts_T,Paranhos
+154,3,04:13,VIT,55,49,LL_Pts_C,Okorie
+155,3,04:13,VIT,55,48,LL_Pts_C,Okorie
+156,3,04:13,VIT,55,47,FR,Okorie
+157,3,04:13,CAX,55,47,FC,Pedro
+158,3,04:28,VIT,55,47,substituicao_entra,Renato
+159,3,04:28,VIT,55,47,substituicao_sai,Shaw
+160,3,04:28,VIT,55,47,tempo_tecnico,Vitória
+161,3,04:28,CAX,55,47,AS,Pedro
+162,3,04:28,CAX,55,47,2_Pts_C,Alex
+163,3,04:40,CAX,53,47,RD,Paranhos
+164,3,04:43,VIT,53,47,3_Pts_T,Dawkins
+165,3,04:55,CAX,53,47,AS,Alex
+166,3,04:55,CAX,53,47,3_Pts_C,Pedro
+167,3,05:08,VIT,50,47,substituicao_entra,Murilo
+168,3,05:08,VIT,50,47,substituicao_sai,Kurtz
+169,3,05:08,VIT,50,47,ER,Okorie
+170,3,05:27,CAX,50,47,AS,Pedro
+171,3,05:27,CAX,50,47,2_Pts_C,Paranhos
+172,3,05:41,CAX,48,47,RD,Cauê B 
+173,3,05:43,VIT,48,47,3_Pts_T,Shaw
+174,3,06:01,VIT,48,47,BR,Kurtz
+175,3,06:01,CAX,48,47,ER,Cafferata
+176,3,06:07,CAX,48,47,RD,Pedro
+177,3,06:09,VIT,48,47,2_Pts_T,Kurtz
+178,3,06:35,CAX,48,47,AS,Alex
+179,3,06:35,CAX,48,47,2_Pts_C,Paranhos
+180,3,06:52,VIT,46,47,2_Pts_C,Okorie
+181,3,07:04,VIT,46,45,RD,Shaw
+182,3,07:07,CAX,46,45,3_Pts_T,Alex
+183,3,07:27,VIT,46,45,LL_Pts_C,Arthur
+184,3,07:27,VIT,46,44,LL_Pts_C,Arthur
+185,3,07:27,VIT,46,43,FR,Arthur
+186,3,07:27,CAX,46,43,FC,Cauê B 
+187,3,07:34,VIT,46,43,FR,Arthur
+188,3,07:34,CAX,46,43,FC,Pedro
+189,3,07:52,CAX,46,43,AS,Cauê B 
+190,3,07:52,CAX,46,43,EN,Paranhos
+191,3,08:00,CAX,44,43,FR,Alex
+192,3,08:00,VIT,44,43,FC,Arthur
+193,3,08:00,VIT,44,43,FR,Arthur
+194,3,08:00,CAX,44,43,ER,Alex
+195,3,08:00,CAX,44,43,FC_O,Alex
+196,3,08:13,VIT,44,43,AS,Okorie
+197,3,08:13,VIT,44,43,3_Pts_C,Shaw
+198,3,08:35,CAX,44,40,LL_Pts_C,Cauê B 
+199,3,08:35,CAX,43,40,LL_Pts_C,Cauê B 
+200,3,08:35,VIT,42,40,substituicao_entra,Okorie
+201,3,08:35,VIT,42,40,substituicao_sai,André
+202,3,08:35,CAX,42,40,FR,Cauê B 
+203,3,08:35,VIT,42,40,FC,André
+204,3,08:42,VIT,42,40,AS,André
+205,3,08:42,VIT,42,40,2_Pts_C,Kurtz
+206,3,08:56,VIT,42,38,RD,Arthur
+207,3,08:59,CAX,42,38,3_Pts_T,Cafferata
+208,3,09:18,VIT,42,38,,
+209,3,09:31,CAX,42,38,2_Pts_C,Alex
+210,3,09:42,CAX,40,38,RD,Alex
+211,3,09:45,VIT,40,38,2_Pts_T,Kurtz
+212,3,10:00,NaN,40,38,inicio_quarto,
+213,2,00:00,NaN,40,38,fim_quarto,
+214,2,00:03,CAX,40,38,3_Pts_T,Cauê B 
+215,2,00:05,CAX,40,38,substituicao_entra,Cauê B 
+216,2,00:05,CAX,40,38,substituicao_sai,Paranhos
+217,2,00:05,VIT,40,38,ER,Kurtz
+218,2,00:06,VIT,40,38,RD,Kurtz
+219,2,00:07,CAX,40,38,AS,Alex
+220,2,00:07,CAX,40,38,LL_Pts_T,Paranhos
+221,2,00:07,CAX,40,38,LL_Pts_C,Paranhos
+222,2,00:07,VIT,39,38,substituicao_entra,Arthur
+223,2,00:07,VIT,39,38,substituicao_sai,Okorie
+224,2,00:07,CAX,39,38,FR,Paranhos
+225,2,00:07,VIT,39,38,FC,Shaw
+226,2,00:07,CAX,39,38,BR,Alex
+227,2,00:07,VIT,39,38,ER,André
+228,2,00:22,CAX,39,38,2_Pts_C,Alex
+229,2,00:23,CAX,37,38,RO,Alex
+230,2,00:33,CAX,37,38,2_Pts_T,Pedro
+231,2,00:42,CAX,37,38,RD,Alex
+232,2,00:42,CAX,37,38,TO,Alex
+233,2,00:42,VIT,37,38,2_Pts_T,Mariano
+234,2,00:49,VIT,37,38,RD,Kurtz
+235,2,00:52,CAX,37,38,3_Pts_T,Alex
+236,2,01:10,CAX,37,38,RD,Warren
+237,2,01:12,VIT,37,38,3_Pts_T,Okorie
+238,2,01:25,VIT,37,38,FR,Kurtz
+239,2,01:25,CAX,37,38,ER,Paranhos
+240,2,01:25,CAX,37,38,FC_O,Paranhos
+241,2,01:28,CAX,37,38,RD,Warren
+242,2,01:31,VIT,37,38,2_Pts_T,Shaw
+243,2,01:46,VIT,37,38,RD,Shaw
+244,2,01:49,CAX,37,38,3_Pts_T,Warren
+245,2,01:57,VIT,37,38,substituicao_entra,André
+246,2,01:57,VIT,37,38,substituicao_sai,Dawkins
+247,2,01:57,VIT,37,38,tempo_tecnico,Vitória
+248,2,02:01,CAX,37,38,RO,Paranhos
+249,2,02:04,CAX,37,38,3_Pts_T,Pedro
+250,2,02:15,CAX,37,38,RD,Warren
+251,2,02:18,VIT,37,38,2_Pts_T,Kurtz
+252,2,02:50,CAX,37,38,2_Pts_C,Cafferata
+253,2,02:54,CAX,35,38,RD,Paranhos
+254,2,02:57,VIT,35,38,3_Pts_T,Dawkins
+255,2,03:14,CAX,35,38,LL_Pts_C,Cafferata
+256,2,03:14,VIT,34,38,tempo_tecnico,Vitória
+257,2,03:14,CAX,34,38,FR,Cafferata
+258,2,03:14,VIT,34,38,FC,Okorie
+259,2,03:14,CAX,34,38,2_Pts_C,Cafferata
+260,2,03:22,VIT,32,38,substituicao_entra,Mariano
+261,2,03:22,VIT,32,38,substituicao_sai,Arthur
+262,2,03:22,CAX,32,38,FR,Warren
+263,2,03:22,VIT,32,38,ER,Arthur
+264,2,03:22,VIT,32,38,FC_O,Arthur
+265,2,03:28,VIT,32,38,RD,Kurtz
+266,2,03:31,CAX,32,38,2_Pts_T,Paranhos
+267,2,03:44,VIT,32,38,2_Pts_C,Kurtz
+268,2,03:46,VIT,32,36,RO,Kurtz
+269,2,03:48,VIT,32,36,2_Pts_T,Okorie
+270,2,04:15,CAX,32,36,AS,Cafferata
+271,2,04:15,CAX,32,36,2_Pts_C,Warren
+272,2,04:17,CAX,30,36,RO,Cafferata
+273,2,04:19,CAX,30,36,3_Pts_T,Pedro
+274,2,04:38,VIT,30,36,2_Pts_C,Okorie
+275,2,04:58,CAX,30,34,AS,Paranhos
+276,2,04:58,CAX,30,34,2_Pts_C,Pedro
+277,2,05:10,CAX,28,34,substituicao_entra,Pedro
+278,2,05:10,CAX,28,34,substituicao_sai,Cauê B 
+279,2,05:10,CAX,28,34,tempo_tecnico,Caxias do Sul
+280,2,05:13,VIT,28,34,AS,Kurtz
+281,2,05:13,VIT,28,34,2_Pts_C,Okorie
+282,2,05:24,VIT,28,32,FR,Arthur
+283,2,05:24,CAX,28,32,FC,Warren
+284,2,05:40,VIT,28,32,RD,Kurtz
+285,2,05:42,CAX,28,32,2_Pts_T,Cauê B 
+286,2,05:54,VIT,28,32,substituicao_entra,Okorie
+287,2,05:54,VIT,28,32,substituicao_sai,André
+288,2,05:54,CAX,28,32,FR,Cafferata
+289,2,05:54,VIT,28,32,FC,André
+290,2,06:22,VIT,28,32,AS,Kurtz
+291,2,06:22,VIT,28,32,2_Pts_C,Shaw
+292,2,06:42,CAX,28,30,AS,Alex
+293,2,06:42,CAX,28,30,3_Pts_C,Cafferata
+294,2,07:00,VIT,25,30,LL_Pts_C,Shaw
+295,2,07:00,CAX,25,29,substituicao_entra,Warren
+296,2,07:00,CAX,25,29,substituicao_sai,Cauê V 
+297,2,07:01,VIT,25,29,FR,Shaw
+298,2,07:01,CAX,25,29,FC,Alex
+299,2,07:10,VIT,25,29,AS,André
+300,2,07:10,VIT,25,29,2_Pts_C,Shaw
+301,2,07:38,VIT,25,27,RD,André
+302,2,07:40,CAX,25,27,2_Pts_T,Cafferata
+303,2,07:59,VIT,25,27,substituicao_entra,Kurtz
+304,2,07:59,VIT,25,27,substituicao_sai,Murilo
+305,2,08:00,CAX,25,27,FR,Cauê B 
+306,2,08:00,VIT,25,27,FC,Shaw
+307,2,08:11,CAX,25,27,RD,Cauê V 
+308,2,08:11,VIT,25,27,2_Pts_T,Dawkins
+309,2,08:11,CAX,25,27,AS,Cauê B 
+310,2,08:11,CAX,25,27,2_Pts_C,Paranhos
+311,2,08:11,VIT,23,27,LL_Pts_C,Shaw
+312,2,08:11,VIT,23,26,FR,Shaw
+313,2,08:11,CAX,23,26,FC,Cauê V 
+314,2,08:11,VIT,23,26,2_Pts_C,Shaw
+315,2,08:36,VIT,23,24,RD,Vitória
+316,2,08:39,CAX,23,24,2_Pts_T,Paranhos
+317,2,08:45,VIT,23,24,substituicao_entra,Shaw
+318,2,08:45,VIT,23,24,substituicao_sai,Renato
+319,2,08:54,VIT,23,24,substituicao_entra,Arthur
+320,2,08:54,VIT,23,24,substituicao_sai,Okorie
+321,2,08:54,VIT,23,24,substituicao_entra,Dawkins
+322,2,08:54,VIT,23,24,substituicao_sai,Mariano
+323,2,08:54,CAX,23,24,FR,Paranhos
+324,2,08:54,VIT,23,24,FC,Murilo
+325,2,08:54,CAX,23,24,RD,Paranhos
+326,2,08:55,VIT,23,24,2_Pts_T,Renato
+327,2,09:05,VIT,23,24,BR,Renato
+328,2,09:05,CAX,23,24,ER,Paranhos
+329,2,09:08,CAX,23,24,RD,Paranhos
+330,2,09:12,VIT,23,24,2_Pts_T,Murilo
+331,2,09:28,VIT,23,24,FR,Okorie
+332,2,09:28,CAX,23,24,FC,Cafferata
+333,2,09:38,CAX,23,24,AS,Cauê B 
+334,2,09:38,CAX,23,24,3_Pts_C,Cafferata
+335,2,10:00,NaN,20,24,inicio_quarto,
+336,1,00:00,NaN,20,24,fim_quarto,
+337,1,00:06,VIT,20,24,RD,Murilo
+338,1,00:06,CAX,20,24,2_Pts_T,Cafferata
+339,1,00:17,CAX,20,24,substituicao_entra,Cafferata
+340,1,00:17,CAX,20,24,substituicao_sai,Paranhos
+341,1,00:17,CAX,20,24,RD,Caxias do Sul
+342,1,00:19,VIT,20,24,3_Pts_T,Okorie
+343,1,00:28,VIT,20,24,RO,Renato
+344,1,00:32,VIT,20,24,2_Pts_T,Murilo
+345,1,00:48,VIT,20,24,RD,Okorie
+346,1,00:51,CAX,20,24,2_Pts_T,Cauê B 
+347,1,01:02,CAX,20,24,FR,Cauê B 
+348,1,01:02,VIT,20,24,FC,Murilo
+349,1,01:19,VIT,20,24,substituicao_entra,Mariano
+350,1,01:19,VIT,20,24,substituicao_sai,Arthur
+351,1,01:19,CAX,20,24,FR,Cauê B 
+352,1,01:19,VIT,20,24,FC,André
+353,1,01:26,VIT,20,24,AS,André
+354,1,01:26,VIT,20,24,3_Pts_C,Arthur
+355,1,01:43,CAX,20,21,AS,Cauê V 
+356,1,01:43,CAX,20,21,2_Pts_C,Pedro
+357,1,02:03,VIT,18,21,AS,André
+358,1,02:03,VIT,18,21,2_Pts_C,Arthur
+359,1,02:21,CAX,18,19,2_Pts_C,Paranhos
+360,1,02:31,CAX,16,19,RO,Caxias do Sul
+361,1,02:33,CAX,16,19,3_Pts_T,Cauê V 
+362,1,02:36,CAX,16,19,RO,Pedro
+363,1,02:39,CAX,16,19,3_Pts_T,Pedro
+364,1,03:07,CAX,16,19,substituicao_entra,Alex
+365,1,03:07,CAX,16,19,substituicao_sai,Nandão
+366,1,03:07,VIT,16,19,substituicao_entra,Murilo
+367,1,03:07,VIT,16,19,substituicao_sai,Kurtz
+368,1,03:07,VIT,16,19,substituicao_entra,André
+369,1,03:07,VIT,16,19,substituicao_sai,Dawkins
+370,1,03:07,CAX,16,19,FR,Cauê B 
+371,1,03:07,VIT,16,19,FC,Arthur
+372,1,03:11,CAX,16,19,RD,Cauê V 
+373,1,03:14,VIT,16,19,2_Pts_T,Renato
+374,1,03:35,CAX,16,19,AS,Cauê B 
+375,1,03:35,CAX,16,19,2_Pts_C,Paranhos
+376,1,03:41,CAX,14,19,RD,Cauê V 
+377,1,03:43,VIT,14,19,2_Pts_T,Kurtz
+378,1,03:58,CAX,14,19,LL_Pts_C,Cauê B 
+379,1,03:58,CAX,13,19,FR,Cauê B 
+380,1,03:58,VIT,13,19,FC,Kurtz
+381,1,03:58,CAX,13,19,2_Pts_C,Cauê B 
+382,1,04:02,CAX,11,19,RD,Cauê B 
+383,1,04:04,VIT,11,19,3_Pts_T,Dawkins
+384,1,04:26,VIT,11,19,substituicao_entra,Renato
+385,1,04:26,VIT,11,19,substituicao_sai,Shaw
+386,1,04:26,CAX,11,19,tempo_tecnico,Caxias do Sul
+387,1,04:26,VIT,11,19,FR,Kurtz
+388,1,04:26,CAX,11,19,FC,Paranhos
+389,1,04:26,VIT,11,19,RD,Kurtz
+390,1,04:26,CAX,11,19,2_Pts_T,Nandão
+391,1,04:52,VIT,11,19,AS,Dawkins
+392,1,04:52,VIT,11,19,EN,Kurtz
+393,1,04:55,VIT,11,17,RD,Shaw
+394,1,04:59,CAX,11,17,2_Pts_T,Cauê B 
+395,1,05:19,CAX,11,17,RD,Cauê V 
+396,1,05:19,VIT,11,17,LL_Pts_T,Kurtz
+397,1,05:19,VIT,11,17,LL_Pts_T,Kurtz
+398,1,05:19,VIT,11,17,substituicao_entra,Okorie
+399,1,05:19,VIT,11,17,substituicao_sai,Renato
+400,1,05:19,VIT,11,17,substituicao_entra,Renato
+401,1,05:19,VIT,11,17,substituicao_sai,André
+402,1,05:19,VIT,11,17,FR,Kurtz
+403,1,05:19,CAX,11,17,FC,Nandão
+404,1,05:34,CAX,11,17,3_Pts_C,Cauê B 
+405,1,05:48,VIT,8,17,AS,André
+406,1,05:48,VIT,8,17,3_Pts_C,Arthur
+407,1,06:10,CAX,8,14,AS,Nandão
+408,1,06:10,CAX,8,14,2_Pts_C,Cauê B 
+409,1,06:25,VIT,6,14,AS,Kurtz
+410,1,06:25,VIT,6,14,2_Pts_C,André
+411,1,06:40,VIT,6,12,RD,Kurtz
+412,1,06:42,CAX,6,12,2_Pts_T,Pedro
+413,1,06:58,VIT,6,12,LL_Pts_C,Dawkins
+414,1,06:58,VIT,6,11,LL_Pts_C,Dawkins
+415,1,06:58,VIT,6,10,FR,Dawkins
+416,1,06:58,CAX,6,10,FC,Cauê V 
+417,1,07:13,CAX,6,10,AS,Pedro
+418,1,07:13,CAX,6,10,3_Pts_C,Cauê V 
+419,1,07:19,CAX,3,10,RD,Nandão
+420,1,07:22,VIT,3,10,3_Pts_T,Shaw
+421,1,07:33,VIT,3,10,RD,Dawkins
+422,1,07:36,CAX,3,10,2_Pts_T,Cauê V 
+423,1,07:47,VIT,3,10,2_Pts_C,Dawkins
+424,1,07:50,VIT,3,8,BR,Dawkins
+425,1,07:50,CAX,3,8,ER,Cauê V 
+426,1,08:03,VIT,3,8,AS,Dawkins
+427,1,08:03,VIT,3,8,3_Pts_C,Arthur
+428,1,08:16,VIT,3,5,RD,André
+429,1,08:19,CAX,3,5,2_Pts_T,Paranhos
+430,1,08:34,VIT,3,5,AS,Kurtz
+431,1,08:34,VIT,3,5,2_Pts_C,Arthur
+432,1,09:03,CAX,3,3,AS,Cauê B 
+433,1,09:03,CAX,3,3,3_Pts_C,Cauê V 
+434,1,09:20,VIT,0,3,AS,Dawkins
+435,1,09:20,VIT,0,3,3_Pts_C,Arthur
+436,1,09:27,VIT,0,0,RD,André
+437,1,09:30,CAX,0,0,3_Pts_T,Pedro
+438,1,09:43,CAX,0,0,RD,Pedro
+439,1,09:46,VIT,0,0,2_Pts_T,André
+440,1,10:00,VIT,0,0,substituicao_entra,Kurtz
+441,1,10:00,VIT,0,0,substituicao_entra,Shaw
+442,1,10:00,VIT,0,0,substituicao_entra,Arthur
+443,1,10:00,VIT,0,0,substituicao_entra,André
+444,1,10:00,VIT,0,0,substituicao_entra,Dawkins
+445,1,10:00,CAX,0,0,substituicao_entra,Nandão
+446,1,10:00,CAX,0,0,substituicao_entra,Paranhos
+447,1,10:00,CAX,0,0,substituicao_entra,Pedro
+448,1,10:00,CAX,0,0,substituicao_entra,Cauê V 
+449,1,10:00,CAX,0,0,substituicao_entra,Cauê B 

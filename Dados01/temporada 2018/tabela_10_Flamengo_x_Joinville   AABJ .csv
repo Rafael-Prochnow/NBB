@@ -1,0 +1,612 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,76,75,fim_partida,
+1,4,00:00,NaN,76,75,fim_quarto, 
+2,4,00:00,JLE,76,75,3_Pts_T,Mathias
+3,4,00:04,JLE,76,75, AABJ ,Joinville 
+4,4,00:04,JLE,76,75,RD,Vezarinho
+5,4,00:04,FLA,76,75,3_Pts_T,Deryk
+6,4,00:27,JLE,76,75,ER,
+7,4,00:54,FLA,76,75,AS,Deryk
+8,4,00:54,FLA,76,75,3_Pts_C,Davi
+9,4,01:02,FLA,73,75,BR,Nesbitt
+10,4,01:02,JLE,73,75,ER,Vezarinho
+11,4,01:08,FLA,73,75,2_Pts_C,Deryk
+12,4,01:29,JLE,71,75,ER,F  Vezaro
+13,4,01:50,JLE,71,75,substituicao_entra,F  Vezaro
+14,4,01:50,JLE,71,75,substituicao_sai,Weihermann
+15,4,01:51,JLE,71,75,RD,Mathias
+16,4,01:54,FLA,71,75,3_Pts_T,Marquinhos
+17,4,01:54,FLA,71,75,RO,Nesbitt
+18,4,01:57,FLA,71,75,2_Pts_T,Nesbitt
+19,4,02:25,FLA,71,75,RD,Flamengo
+20,4,02:25,JLE,71,75,2_Pts_T,Vezarinho
+21,4,02:44,JLE,71,75,RD,Vezarinho
+22,4,02:46,FLA,71,75,3_Pts_T,Deryk
+23,4,02:59,JLE,71,75,LL_Pts_C,Weihermann
+24,4,02:59,JLE,71,74,LL_Pts_C,Weihermann
+25,4,02:59,JLE,71,73,substituicao_entra,Vezarinho
+26,4,02:59,JLE,71,73,substituicao_sai,F  Vezaro
+27,4,02:59,JLE,71,73,FR,Weihermann
+28,4,02:59,FLA,71,73,FC,Marquinhos
+29,4,03:05,JLE,71,73,substituicao_entra,F  Vezaro
+30,4,03:05,JLE,71,73,substituicao_sai,Vezarinho
+31,4,03:24,FLA,71,73,2_Pts_C,Davi
+32,4,03:38,FLA,69,73,RO,Flamengo
+33,4,03:38,FLA,69,73,3_Pts_T,Deryk
+34,4,03:55,JLE,69,73,AS,A  Bambu
+35,4,03:55,JLE,69,73,3_Pts_C,Weihermann
+36,4,04:05,JLE,69,70,RD,J  Socas
+37,4,04:08,FLA,69,70,2_Pts_T,Nesbitt
+38,4,04:22,FLA,69,70,FR,Davi
+39,4,04:22,JLE,69,70,ER,A  Bambu
+40,4,04:22,JLE,69,70,FC_O,A  Bambu
+41,4,04:42,FLA,69,70,AS,Davi
+42,4,04:42,FLA,69,70,3_Pts_C,Nesbitt
+43,4,04:55,JLE,66,70,LL_Pts_C,Vezarinho
+44,4,04:55,JLE,66,69,LL_Pts_C,Vezarinho
+45,4,04:55,JLE,66,68,FR,Vezarinho
+46,4,04:55,FLA,66,68,FC,Davi
+47,4,05:12,FLA,66,68,2_Pts_C,Deryk
+48,4,05:21,JLE,64,68,substituicao_entra,Weihermann
+49,4,05:21,JLE,64,68,substituicao_sai,F  Vezaro
+50,4,05:22,FLA,64,68,RO,Flamengo
+51,4,05:25,FLA,64,68,3_Pts_T,Marquinhos
+52,4,05:27,FLA,64,68,RO,Mineiro
+53,4,05:30,FLA,64,68,3_Pts_T,Deryk
+54,4,05:44,FLA,64,68,BR,Mineiro
+55,4,05:44,JLE,64,68,ER,Vezarinho
+56,4,05:58,FLA,64,68,substituicao_entra,Nesbitt
+57,4,05:58,FLA,64,68,substituicao_sai,Olivinha
+58,4,05:58,JLE,64,68,FR,A  Bambu
+59,4,05:58,FLA,64,68,FC,Olivinha
+60,4,05:59,JLE,64,68,RD,A  Bambu
+61,4,06:03,FLA,64,68,2_Pts_T,Olivinha
+62,4,06:11,FLA,64,68,RD,Deryk
+63,4,06:21,JLE,64,68,2_Pts_T,Mathias
+64,4,06:40,FLA,64,68,substituicao_entra,Davi
+65,4,06:40,FLA,64,68,substituicao_sai,Balbi
+66,4,06:40,FLA,64,68,ER,Balbi
+67,4,06:53,JLE,64,68,LL_Pts_C,F  Vezaro
+68,4,06:53,FLA,64,67,substituicao_entra,Marquinhos
+69,4,06:53,FLA,64,67,substituicao_sai,Jhonatan
+70,4,06:53,FLA,64,67,tempo_tecnico,Flamengo
+71,4,06:53,JLE,64,67,FR,F  Vezaro
+72,4,06:53,FLA,64,67,FC,Jhonatan
+73,4,06:53,JLE,64,67,2_Pts_C,F  Vezaro
+74,4,07:04,FLA,64,65,LL_Pts_C,Olivinha
+75,4,07:04,FLA,63,65,LL_Pts_C,Olivinha
+76,4,07:04,FLA,62,65,substituicao_entra,Jhonatan
+77,4,07:04,FLA,62,65,substituicao_sai,Marquinhos
+78,4,07:04,FLA,62,65,FR,Olivinha
+79,4,07:04,JLE,62,65,FC,Mathias
+80,4,07:14,JLE,62,65,2_Pts_C,F  Vezaro
+81,4,07:14,JLE,62,63,RO,F  Vezaro
+82,4,07:19,JLE,62,63,3_Pts_T,A  Bambu
+83,4,07:36,JLE,62,63,RD,F  Vezaro
+84,4,07:39,FLA,62,63,3_Pts_T,Olivinha
+85,4,07:55,JLE,62,63,AS,Mathias
+86,4,07:55,JLE,62,63,3_Pts_C,F  Vezaro
+87,4,07:57,JLE,62,60,RO,Mathias
+88,4,08:00,JLE,62,60,3_Pts_T,Vezarinho
+89,4,08:20,FLA,62,60,AS,Balbi
+90,4,08:20,FLA,62,60,2_Pts_C,Marquinhos
+91,4,08:23,FLA,60,60,RD,Balbi
+92,4,08:26,JLE,60,60,3_Pts_T,Mathias
+93,4,08:32,JLE,60,60,RO,Mathias
+94,4,08:38,JLE,60,60,2_Pts_T,J  Socas
+95,4,08:38,JLE,60,60,RO,J  Socas
+96,4,08:42,JLE,60,60,2_Pts_T,J  Socas
+97,4,08:56,JLE,60,60,RD,Mathias
+98,4,08:59,FLA,60,60,3_Pts_T,Marquinhos
+99,4,09:10,FLA,60,60,FR,Deryk
+100,4,09:10,JLE,60,60,FC,J  Socas
+101,4,09:29,JLE,60,60,LL_Pts_C,J  Socas
+102,4,09:29,JLE,60,59,LL_Pts_C,J  Socas
+103,4,09:29,JLE,60,58,FR,J  Socas
+104,4,09:29,FLA,60,58,FC,Mineiro
+105,4,09:40,JLE,60,58,RD,F  Vezaro
+106,4,09:44,FLA,60,58,3_Pts_T,Olivinha
+107,4,10:00,NaN,60,58,inicio_quarto,
+108,3,00:00,NaN,60,58,fim_quarto,
+109,3,00:03,JLE,60,58,RD,Colimerio
+110,3,00:03,FLA,60,58,2_Pts_T,Marquinhos
+111,3,00:21,JLE,60,58,substituicao_entra,Rosniak
+112,3,00:21,JLE,60,58,substituicao_sai,Vezarinho
+113,3,00:21,JLE,60,58,substituicao_entra,Weihermann
+114,3,00:21,JLE,60,58,substituicao_sai,J  Socas
+115,3,00:21,JLE,60,58,ER,Jerônimo
+116,3,00:22,JLE,60,58,RO,Jerônimo
+117,3,00:23,JLE,60,58,LL_Pts_T,J  Socas
+118,3,00:23,JLE,60,58,LL_Pts_C,J  Socas
+119,3,00:23,JLE,60,57,substituicao_entra,Jerônimo
+120,3,00:23,JLE,60,57,substituicao_sai,A  Bambu
+121,3,00:23,JLE,60,57,substituicao_entra,Dieguinho
+122,3,00:23,JLE,60,57,substituicao_sai,Mathias
+123,3,00:23,JLE,60,57,substituicao_entra,Colimerio
+124,3,00:23,JLE,60,57,substituicao_sai,F  Vezaro
+125,3,00:23,FLA,60,57,substituicao_entra,Nesbitt
+126,3,00:23,FLA,60,57,substituicao_sai,João Vitor
+127,3,00:23,FLA,60,57,substituicao_entra,Marquinhos
+128,3,00:23,FLA,60,57,substituicao_sai,Olivinha
+129,3,00:23,FLA,60,57,substituicao_entra,Deryk
+130,3,00:23,FLA,60,57,substituicao_sai,Davi
+131,3,00:23,JLE,60,57,FR,J  Socas
+132,3,00:23,FLA,60,57,FC,João Vitor
+133,3,00:27,JLE,60,57,RO,F  Vezaro
+134,3,00:30,JLE,60,57,2_Pts_T,A  Bambu
+135,3,00:31,JLE,60,57,RO,Mathias
+136,3,00:38,FLA,60,57,TO,João Vitor
+137,3,00:38,JLE,60,57,2_Pts_T,Mathias
+138,3,00:56,FLA,60,57,substituicao_entra,Balbi
+139,3,00:56,FLA,60,57,substituicao_sai,Deryk
+140,3,00:56,FLA,60,57,substituicao_entra,Jhonatan
+141,3,00:56,FLA,60,57,substituicao_sai,Marquinhos
+142,3,00:56,FLA,60,57,LL_Pts_C,Marquinhos
+143,3,00:56,FLA,59,57,LL_Pts_T,Marquinhos
+144,3,00:56,JLE,59,57,substituicao_entra,F  Vezaro
+145,3,00:56,JLE,59,57,substituicao_sai,Weihermann
+146,3,00:56,FLA,59,57,FR,Marquinhos
+147,3,00:56,JLE,59,57,FC,Weihermann
+148,3,01:01,FLA,59,57,RD,Marquinhos
+149,3,01:12,JLE,59,57,2_Pts_T,J  Socas
+150,3,01:27,JLE,59,57,LL_Pts_C,Weihermann
+151,3,01:27,JLE,59,56,AS,J  Socas
+152,3,01:27,JLE,59,56,LL_Pts_C,Weihermann
+153,3,01:27,FLA,59,55,substituicao_entra,Marquinhos
+154,3,01:27,FLA,59,55,substituicao_sai,Jhonatan
+155,3,01:27,FLA,59,55,substituicao_entra,João Vitor
+156,3,01:27,FLA,59,55,substituicao_sai,Mineiro
+157,3,01:27,JLE,59,55,FR,Weihermann
+158,3,01:27,FLA,59,55,FC_A,Jhonatan
+159,3,01:38,JLE,59,55,RD,Mathias
+160,3,01:41,FLA,59,55,2_Pts_T,Deryk
+161,3,02:01,JLE,59,55,AS,J  Socas
+162,3,02:01,JLE,59,55,2_Pts_C,Vezarinho
+163,3,02:03,JLE,59,53,RD,J  Socas
+164,3,02:06,FLA,59,53,3_Pts_T,Mineiro
+165,3,02:23,JLE,59,53,LL_Pts_C,Weihermann
+166,3,02:23,FLA,59,52,ER,
+167,3,02:23,FLA,59,52,FC_T,Técnico do Flamengo
+168,3,02:23,JLE,59,52,substituicao_entra,Mathias
+169,3,02:23,JLE,59,52,substituicao_sai,Jerônimo
+170,3,02:23,JLE,59,52,substituicao_entra,J  Socas
+171,3,02:23,JLE,59,52,substituicao_sai,Dieguinho
+172,3,02:23,JLE,59,52,substituicao_entra,A  Bambu
+173,3,02:23,JLE,59,52,substituicao_sai,Colimerio
+174,3,02:23,FLA,59,52,BR,Mineiro
+175,3,02:23,JLE,59,52,ER,Colimerio
+176,3,02:40,FLA,59,52,2_Pts_C,Davi
+177,3,02:41,FLA,57,52,RO,Davi
+178,3,02:44,FLA,57,52,3_Pts_T,Deryk
+179,3,03:01,JLE,57,52,substituicao_entra,Weihermann
+180,3,03:01,JLE,57,52,substituicao_sai,F  Vezaro
+181,3,03:01,JLE,57,52,ER,Colimerio
+182,3,03:17,JLE,57,52,substituicao_entra,Vezarinho
+183,3,03:17,JLE,57,52,substituicao_sai,Weihermann
+184,3,03:17,FLA,57,52,substituicao_entra,Jhonatan
+185,3,03:17,FLA,57,52,substituicao_sai,Marquinhos
+186,3,03:17,JLE,57,52, AABJ ,Joinville 
+187,3,03:20,FLA,57,52,AS,Davi
+188,3,03:20,FLA,57,52,2_Pts_C,Mineiro
+189,3,03:32,FLA,55,52,FR,Davi
+190,3,03:32,JLE,55,52,ER,Jerônimo
+191,3,03:32,JLE,55,52,FC_O,Jerônimo
+192,3,03:46,FLA,55,52,LL_Pts_C,Marquinhos
+193,3,03:46,FLA,54,52,LL_Pts_C,Marquinhos
+194,3,03:46,JLE,53,52,substituicao_entra,Dieguinho
+195,3,03:46,JLE,53,52,substituicao_sai,Vezarinho
+196,3,03:46,JLE,53,52,substituicao_entra,F  Vezaro
+197,3,03:46,JLE,53,52,substituicao_sai,J  Socas
+198,3,03:46,FLA,53,52,FR,Marquinhos
+199,3,03:46,JLE,53,52,FC,Weihermann
+200,3,03:46,FLA,53,52,RD,Marquinhos
+201,3,03:46,JLE,53,52,2_Pts_T,J  Socas
+202,3,03:59,FLA,53,52,AS,Olivinha
+203,3,03:59,FLA,53,52,2_Pts_C,Deryk
+204,3,04:14,JLE,51,52,LL_Pts_C,Colimerio
+205,3,04:14,JLE,51,51,LL_Pts_T,Colimerio
+206,3,04:14,JLE,51,51,substituicao_entra,Jerônimo
+207,3,04:14,JLE,51,51,substituicao_sai,Mathias
+208,3,04:14,JLE,51,51,substituicao_entra,J  Socas
+209,3,04:14,JLE,51,51,substituicao_sai,F  Vezaro
+210,3,04:14,FLA,51,51,substituicao_entra,Olivinha
+211,3,04:14,FLA,51,51,substituicao_sai,Balbi
+212,3,04:14,FLA,51,51,substituicao_entra,Davi
+213,3,04:14,FLA,51,51,substituicao_sai,Jhonatan
+214,3,04:14,JLE,51,51,FR,Colimerio
+215,3,04:14,FLA,51,51,FC,Marquinhos
+216,3,04:15,JLE,51,51,RO,Colimerio
+217,3,04:18,JLE,51,51,3_Pts_T,Weihermann
+218,3,04:36,JLE,51,51,substituicao_entra,Weihermann
+219,3,04:36,JLE,51,51,substituicao_sai,J  Socas
+220,3,04:36,JLE,51,51,substituicao_entra,F  Vezaro
+221,3,04:36,JLE,51,51,substituicao_sai,Weihermann
+222,3,04:36,JLE,51,51,FR,Weihermann
+223,3,04:36,FLA,51,51,FC,Jhonatan
+224,3,04:46,JLE,51,51,RD,Mathias
+225,3,04:49,FLA,51,51,3_Pts_T,Jhonatan
+226,3,04:56,FLA,51,51,LL_Pts_T,Balbi
+227,3,04:56,FLA,51,51,LL_Pts_C,Balbi
+228,3,04:56,JLE,50,51,substituicao_entra,Vezarinho
+229,3,04:56,JLE,50,51,substituicao_sai,F  Vezaro
+230,3,04:56,FLA,50,51,FR,Balbi
+231,3,04:56,JLE,50,51,ER,F  Vezaro
+232,3,04:56,JLE,50,51,FC_A,F  Vezaro
+233,3,04:56,FLA,50,51,LL_Pts_C,Balbi
+234,3,04:56,FLA,49,51,LL_Pts_C,Balbi
+235,3,04:56,FLA,48,51,FR,Balbi
+236,3,04:56,JLE,48,51,FC,F  Vezaro
+237,3,05:01,FLA,48,51,BR,Balbi
+238,3,05:01,JLE,48,51,ER,F  Vezaro
+239,3,05:07,FLA,48,51,ER,Jhonatan
+240,3,05:17,JLE,48,51,2_Pts_C,F  Vezaro
+241,3,05:33,FLA,48,49,AS,Balbi
+242,3,05:33,FLA,48,49,2_Pts_C,Marquinhos
+243,3,05:38,JLE,46,49,substituicao_entra,Colimerio
+244,3,05:38,JLE,46,49,substituicao_sai,A  Bambu
+245,3,05:38,FLA,46,49,FR,Mineiro
+246,3,05:38,JLE,46,49,FC,Weihermann
+247,3,05:38,FLA,46,49,RO,Flamengo
+248,3,05:38,FLA,46,49,3_Pts_T,Marquinhos
+249,3,05:51,JLE,46,49,substituicao_entra,Weihermann
+250,3,05:51,JLE,46,49,substituicao_sai,Vezarinho
+251,3,05:51,FLA,46,49,substituicao_entra,Jhonatan
+252,3,05:51,FLA,46,49,substituicao_sai,Nesbitt
+253,3,05:51,JLE,46,49,LL_Pts_C,J  Socas
+254,3,05:51,JLE,46,48,LL_Pts_C,J  Socas
+255,3,05:51,JLE,46,47,FR,J  Socas
+256,3,05:51,FLA,46,47,FC,Nesbitt
+257,3,06:07,JLE,46,47,FR,Vezarinho
+258,3,06:07,FLA,46,47,FC,Deryk
+259,3,06:08,JLE,46,47,RD,Mathias
+260,3,06:11,FLA,46,47,3_Pts_T,Marquinhos
+261,3,06:19,FLA,46,47,RO,Nesbitt
+262,3,06:22,FLA,46,47,2_Pts_T,Marquinhos
+263,3,06:26,FLA,46,47,RD,Balbi
+264,3,06:29,JLE,46,47,3_Pts_T,Vezarinho
+265,3,06:37,FLA,46,47,ER,Deryk
+266,3,06:52,JLE,46,47,ER,F  Vezaro
+267,3,07:08,JLE,46,47,RD,J  Socas
+268,3,07:09,FLA,46,47,LL_Pts_T,Mineiro
+269,3,07:09,FLA,46,47,LL_Pts_C,Mineiro
+270,3,07:09,FLA,45,47,FR,Mineiro
+271,3,07:09,JLE,45,47,FC,Mathias
+272,3,07:26,FLA,45,47,RD,Flamengo
+273,3,07:30,JLE,45,47,2_Pts_T,Mathias
+274,3,07:52,FLA,45,47,AS,Balbi
+275,3,07:52,FLA,45,47,3_Pts_C,Deryk
+276,3,08:09,FLA,42,47,FR,Balbi
+277,3,08:09,JLE,42,47,FC,F  Vezaro
+278,3,08:09,FLA,42,47,RD,Nesbitt
+279,3,08:13,JLE,42,47,3_Pts_T,F  Vezaro
+280,3,08:27,FLA,42,47,2_Pts_C,Mineiro
+281,3,08:27,FLA,40,47,RO,Mineiro
+282,3,08:37,FLA,40,47,2_Pts_T,Marquinhos
+283,3,08:45,JLE,40,47,ER,J  Socas
+284,3,08:57,JLE,40,47,RD,J  Socas
+285,3,09:01,FLA,40,47,3_Pts_T,Nesbitt
+286,3,09:19,FLA,40,47,RD,Nesbitt
+287,3,09:21,JLE,40,47,LL_Pts_T,J  Socas
+288,3,09:21,JLE,40,47,LL_Pts_T,J  Socas
+289,3,09:21,JLE,40,47,FR,J  Socas
+290,3,09:21,FLA,40,47,FC,Nesbitt
+291,3,09:31,FLA,40,47,LL_Pts_C,Marquinhos
+292,3,09:31,FLA,39,47,LL_Pts_C,Marquinhos
+293,3,09:31,FLA,38,47,FR,Marquinhos
+294,3,09:31,JLE,38,47,FC,J  Socas
+295,3,09:32,FLA,38,47,RD,Mineiro
+296,3,09:35,JLE,38,47,2_Pts_T,A  Bambu
+297,3,10:00,NaN,38,47,inicio_quarto,
+298,2,00:00,NaN,38,47,fim_quarto,
+299,2,00:04,FLA,38,47,RD,Marquinhos
+300,2,00:04,JLE,38,47,3_Pts_T,F  Vezaro
+301,2,00:15,JLE,38,47,RD,Colimerio
+302,2,00:18,FLA,38,47,3_Pts_T,Deryk
+303,2,00:32,FLA,38,47,RD,Nesbitt
+304,2,00:33,JLE,38,47,LL_Pts_T,Colimerio
+305,2,00:33,JLE,38,47,AS,J  Socas
+306,2,00:33,JLE,38,47,LL_Pts_C,Colimerio
+307,2,00:33,JLE,38,46,substituicao_entra,Weihermann
+308,2,00:33,JLE,38,46,substituicao_sai,J  Socas
+309,2,00:33,FLA,38,46,substituicao_entra,Marquinhos
+310,2,00:33,FLA,38,46,substituicao_sai,Jhonatan
+311,2,00:33,JLE,38,46,FR,Colimerio
+312,2,00:33,FLA,38,46,FC,Nesbitt
+313,2,00:49,JLE,38,46,substituicao_entra,Vezarinho
+314,2,00:49,JLE,38,46,substituicao_sai,Dieguinho
+315,2,00:49,JLE,38,46,substituicao_entra,F  Vezaro
+316,2,00:49,JLE,38,46,substituicao_sai,Weihermann
+317,2,00:49,JLE,38,46, AABJ ,Joinville 
+318,2,00:52,FLA,38,46,AS,Deryk
+319,2,00:52,FLA,38,46,2_Pts_C,Mineiro
+320,2,00:59,JLE,36,46,substituicao_entra,Weihermann
+321,2,00:59,JLE,36,46,substituicao_sai,Vezarinho
+322,2,00:59,FLA,36,46,FR,Davi
+323,2,00:59,JLE,36,46,ER,Jerônimo
+324,2,00:59,JLE,36,46,FC_O,Jerônimo
+325,2,01:02,JLE,36,46,RD,J  Socas
+326,2,01:06,FLA,36,46,3_Pts_T,Deryk
+327,2,01:17,JLE,36,46,AS,J  Socas
+328,2,01:17,JLE,36,46,LL_Pts_C,Jerônimo
+329,2,01:17,JLE,36,45,LL_Pts_T,Jerônimo
+330,2,01:17,JLE,36,45,FR,Jerônimo
+331,2,01:17,FLA,36,45,FC,Jhonatan
+332,2,01:30,JLE,36,45,FR,Vezarinho
+333,2,01:30,FLA,36,45,FC,Davi
+334,2,01:38,FLA,36,45,3_Pts_C,Deryk
+335,2,01:51,JLE,33,45,3_Pts_C,J  Socas
+336,2,01:59,JLE,33,42,BR,J  Socas
+337,2,01:59,FLA,33,42,ER,Jhonatan
+338,2,02:08,JLE,33,42,substituicao_entra,Colimerio
+339,2,02:08,JLE,33,42,substituicao_sai,A  Bambu
+340,2,02:08,JLE,33,42,substituicao_entra,Dieguinho
+341,2,02:08,JLE,33,42,substituicao_sai,F  Vezaro
+342,2,02:12,FLA,33,42,RD,Flamengo
+343,2,02:16,JLE,33,42,3_Pts_T,A  Bambu
+344,2,02:20,FLA,33,42,substituicao_entra,Davi
+345,2,02:20,FLA,33,42,substituicao_sai,Marquinhos
+346,2,02:20,JLE,33,42,substituicao_entra,Vezarinho
+347,2,02:20,JLE,33,42,substituicao_sai,Weihermann
+348,2,02:20,JLE,33,42,substituicao_entra,Jerônimo
+349,2,02:20,JLE,33,42,substituicao_sai,Mathias
+350,2,02:20,FLA,33,42,substituicao_entra,Deryk
+351,2,02:20,FLA,33,42,substituicao_sai,Balbi
+352,2,02:20,JLE,33,42,FR,F  Vezaro
+353,2,02:20,FLA,33,42,FC,Nesbitt
+354,2,02:44,FLA,33,42,2_Pts_C,Jhonatan
+355,2,02:50,FLA,31,42,RD,Marquinhos
+356,2,02:53,JLE,31,42,3_Pts_T,F  Vezaro
+357,2,03:11,FLA,31,42,AS,Balbi
+358,2,03:11,FLA,31,42,3_Pts_C,Nesbitt
+359,2,03:16,FLA,28,42,RD,Balbi
+360,2,03:20,JLE,28,42,3_Pts_T,Weihermann
+361,2,03:34,JLE,28,42,BR,Mathias
+362,2,03:34,FLA,28,42,ER,Balbi
+363,2,03:38,FLA,28,42,substituicao_entra,Mineiro
+364,2,03:38,FLA,28,42,substituicao_sai,Varejão
+365,2,03:38,FLA,28,42,RO,Flamengo
+366,2,03:38,JLE,28,42,TO,Weihermann
+367,2,03:38,FLA,28,42,2_Pts_T,Balbi
+368,2,03:53,JLE,28,42,AS,J  Socas
+369,2,03:53,JLE,28,42,3_Pts_C,A  Bambu
+370,2,03:59,JLE,28,39,RD,J  Socas
+371,2,04:02,FLA,28,39,3_Pts_T,Jhonatan
+372,2,04:23,FLA,28,39,BR,Nesbitt
+373,2,04:23,JLE,28,39,ER,A  Bambu
+374,2,04:40,JLE,28,39,substituicao_entra,J  Socas
+375,2,04:40,JLE,28,39,substituicao_sai,Dieguinho
+376,2,04:40,JLE,28,39,substituicao_entra,A  Bambu
+377,2,04:40,JLE,28,39,substituicao_sai,Colimerio
+378,2,04:40,JLE,28,39,substituicao_entra,Weihermann
+379,2,04:40,JLE,28,39,substituicao_sai,Jerônimo
+380,2,04:40,JLE,28,39,substituicao_entra,Mathias
+381,2,04:40,JLE,28,39,substituicao_sai,Vezarinho
+382,2,04:40,FLA,28,39,substituicao_entra,Jhonatan
+383,2,04:40,FLA,28,39,substituicao_sai,Deryk
+384,2,04:40,FLA,28,39,substituicao_entra,Balbi
+385,2,04:40,FLA,28,39,substituicao_sai,Davi
+386,2,04:40,JLE,28,39, AABJ ,Joinville 
+387,2,04:45,FLA,28,39,2_Pts_C,Varejão
+388,2,04:53,FLA,26,39,RO,Nesbitt
+389,2,04:56,FLA,26,39,3_Pts_T,Deryk
+390,2,05:08,JLE,26,39,AS,F  Vezaro
+391,2,05:08,JLE,26,39,2_Pts_C,Jerônimo
+392,2,05:23,FLA,26,37,AS,Deryk
+393,2,05:23,FLA,26,37,2_Pts_C,Varejão
+394,2,05:34,JLE,24,37,2_Pts_C,Jerônimo
+395,2,05:36,JLE,24,35,RO,Jerônimo
+396,2,05:40,JLE,24,35,2_Pts_T,Dieguinho
+397,2,06:01,FLA,24,35,3_Pts_C,Deryk
+398,2,06:06,FLA,21,35,substituicao_entra,Nesbitt
+399,2,06:06,FLA,21,35,substituicao_sai,Olivinha
+400,2,06:06,FLA,21,35,tempo_tecnico,Flamengo
+401,2,06:06,JLE,21,35,AS,Dieguinho
+402,2,06:06,JLE,21,35,3_Pts_C,Vezarinho
+403,2,06:16,JLE,21,32,RD,Jerônimo
+404,2,06:20,FLA,21,32,3_Pts_T,Davi
+405,2,06:35,JLE,21,32,EN,Jerônimo
+406,2,06:35,JLE,21,30,RO,Jerônimo
+407,2,06:45,JLE,21,30,2_Pts_T,Vezarinho
+408,2,07:00,FLA,21,30,LL_Pts_C,Olivinha
+409,2,07:00,FLA,20,30,LL_Pts_T,Olivinha
+410,2,07:00,JLE,20,30,substituicao_entra,Dieguinho
+411,2,07:00,JLE,20,30,substituicao_sai,J  Socas
+412,2,07:00,FLA,20,30,substituicao_entra,Davi
+413,2,07:00,FLA,20,30,substituicao_sai,Balbi
+414,2,07:00,FLA,20,30,FR,Olivinha
+415,2,07:00,JLE,20,30,FC,Colimerio
+416,2,07:01,FLA,20,30,RO,Olivinha
+417,2,07:04,FLA,20,30,2_Pts_T,Olivinha
+418,2,07:17,JLE,20,30,substituicao_entra,Colimerio
+419,2,07:17,JLE,20,30,substituicao_sai,A  Bambu
+420,2,07:18,FLA,20,30,RD,Flamengo
+421,2,07:22,JLE,20,30,2_Pts_T,Vezarinho
+422,2,07:44,FLA,20,30,AS,Balbi
+423,2,07:44,FLA,20,30,2_Pts_C,Varejão
+424,2,07:54,JLE,18,30,3_Pts_C,Vezarinho
+425,2,08:06,FLA,18,27,AS,Marquinhos
+426,2,08:06,FLA,18,27,2_Pts_C,Varejão
+427,2,08:09,JLE,16,27,substituicao_entra,Jerônimo
+428,2,08:09,JLE,16,27,substituicao_sai,Mathias
+429,2,08:09,FLA,16,27,FR,Balbi
+430,2,08:09,JLE,16,27,FC,F  Vezaro
+431,2,08:11,FLA,16,27,RD,Marquinhos
+432,2,08:14,JLE,16,27,3_Pts_T,J  Socas
+433,2,08:17,FLA,16,27,substituicao_entra,Varejão
+434,2,08:17,FLA,16,27,substituicao_sai,Mineiro
+435,2,08:25,JLE,16,27,RD,F  Vezaro
+436,2,08:28,FLA,16,27,2_Pts_T,Olivinha
+437,2,08:29,FLA,16,27,RO,Olivinha
+438,2,08:33,FLA,16,27,2_Pts_T,Olivinha
+439,2,08:44,JLE,16,27,ER,F  Vezaro
+440,2,08:47,FLA,16,27,LL_Pts_C,Marquinhos
+441,2,08:47,FLA,15,27,LL_Pts_C,Marquinhos
+442,2,08:47,FLA,14,27,FR,Marquinhos
+443,2,08:47,JLE,14,27,FC,J  Socas
+444,2,08:47,FLA,14,27,RO,Marquinhos
+445,2,08:52,FLA,14,27,2_Pts_T,Marquinhos
+446,2,09:01,JLE,14,27,AS,F  Vezaro
+447,2,09:01,JLE,14,27,EN,Mathias
+448,2,09:26,FLA,14,25,ER,Balbi
+449,2,09:37,JLE,14,25,AS,Vezarinho
+450,2,09:37,JLE,14,25,3_Pts_C,A  Bambu
+451,2,09:55,FLA,14,22,AS,Deryk
+452,2,09:55,FLA,14,22,2_Pts_C,Mineiro
+453,2,10:00,NaN,12,22,inicio_quarto,
+454,1,00:00,NaN,12,22,fim_quarto,
+455,1,00:02,JLE,12,22,3_Pts_C,F  Vezaro
+456,1,00:06,JLE,12,19,RD,F  Vezaro
+457,1,00:06,FLA,12,19,3_Pts_T,Deryk
+458,1,00:21,FLA,12,19,RD,Balbi
+459,1,00:24,JLE,12,19,3_Pts_T,Mathias
+460,1,00:36,JLE,12,19,RD,A  Bambu
+461,1,00:39,FLA,12,19,2_Pts_T,Nesbitt
+462,1,00:46,JLE,12,19,substituicao_entra,Weihermann
+463,1,00:46,JLE,12,19,substituicao_sai,Vezarinho
+464,1,00:46,JLE,12,19,,
+465,1,00:46,JLE,12,19,BR,A  Bambu
+466,1,00:46,FLA,12,19,ER,Marquinhos
+467,1,00:49,FLA,12,19,RD,Marquinhos
+468,1,00:52,JLE,12,19,3_Pts_T,Vezarinho
+469,1,01:09,JLE,12,19,RD,Vezarinho
+470,1,01:12,FLA,12,19,3_Pts_T,Marquinhos
+471,1,01:16,JLE,12,19,substituicao_entra,J  Socas
+472,1,01:16,JLE,12,19,substituicao_sai,Dieguinho
+473,1,01:16,JLE,12,19,substituicao_entra,A  Bambu
+474,1,01:16,JLE,12,19,substituicao_sai,Weihermann
+475,1,01:16,JLE,12,19,substituicao_entra,Mathias
+476,1,01:16,JLE,12,19,substituicao_sai,Colimerio
+477,1,01:16,JLE,12,19,substituicao_entra,F  Vezaro
+478,1,01:16,JLE,12,19,substituicao_sai,Jerônimo
+479,1,01:16,FLA,12,19,FR,Mineiro
+480,1,01:16,JLE,12,19,FC,Dieguinho
+481,1,01:17,FLA,12,19,RO,Mineiro
+482,1,01:19,FLA,12,19,2_Pts_T,Mineiro
+483,1,01:24,FLA,12,19,RD,Mineiro
+484,1,01:27,JLE,12,19,2_Pts_T,Colimerio
+485,1,01:47,FLA,12,19,AS,Marquinhos
+486,1,01:47,FLA,12,19,EN,Nesbitt
+487,1,01:49,FLA,10,19,RD,Mineiro
+488,1,01:54,FLA,10,19,TO,Nesbitt
+489,1,01:54,JLE,10,19,2_Pts_T,Vezarinho
+490,1,02:09,FLA,10,19,2_Pts_C,Nesbitt
+491,1,02:10,FLA,8,19,RO,Nesbitt
+492,1,02:16,FLA,8,19,2_Pts_T,Mineiro
+493,1,02:23,FLA,8,19,BR,Marquinhos
+494,1,02:23,JLE,8,19,ER,Weihermann
+495,1,02:34,JLE,8,19,RO,Jerônimo
+496,1,02:37,JLE,8,19,2_Pts_T,Jerônimo
+497,1,02:37,JLE,8,19,RO,Jerônimo
+498,1,02:40,JLE,8,19,3_Pts_T,Vezarinho
+499,1,03:01,FLA,8,19,2_Pts_C,Mineiro
+500,1,03:02,FLA,6,19,RO,Mineiro
+501,1,03:05,FLA,6,19,2_Pts_T,Marquinhos
+502,1,03:18,JLE,6,19,AS,Jerônimo
+503,1,03:18,JLE,6,19,3_Pts_C,Weihermann
+504,1,03:30,JLE,6,16,BR,Colimerio
+505,1,03:30,FLA,6,16,ER,Marquinhos
+506,1,03:34,JLE,6,16,AS,Colimerio
+507,1,03:34,JLE,6,16,LL_Pts_C,Vezarinho
+508,1,03:34,JLE,6,15,LL_Pts_T,Vezarinho
+509,1,03:34,JLE,6,15,LL_Pts_T,Vezarinho
+510,1,03:34,JLE,6,15,substituicao_entra,Dieguinho
+511,1,03:34,JLE,6,15,substituicao_sai,J  Socas
+512,1,03:34,FLA,6,15,substituicao_entra,Mineiro
+513,1,03:34,FLA,6,15,substituicao_sai,Davi
+514,1,03:34,FLA,6,15,substituicao_entra,Balbi
+515,1,03:34,FLA,6,15,substituicao_sai,Varejão
+516,1,03:34,JLE,6,15,FR,Vezarinho
+517,1,03:34,FLA,6,15,FC,Deryk
+518,1,03:37,JLE,6,15,RD,J  Socas
+519,1,03:40,FLA,6,15,3_Pts_T,Deryk
+520,1,03:43,JLE,6,15,LL_Pts_C,Colimerio
+521,1,03:43,JLE,6,14,AS,J  Socas
+522,1,03:43,JLE,6,14,LL_Pts_C,Colimerio
+523,1,03:43,JLE,6,13,substituicao_entra,Vezarinho
+524,1,03:43,JLE,6,13,substituicao_sai,F  Vezaro
+525,1,03:43,JLE,6,13,FR,Colimerio
+526,1,03:43,FLA,6,13,FC,Marquinhos
+527,1,03:45,JLE,6,13,RD,J  Socas
+528,1,03:49,FLA,6,13,2_Pts_T,Davi
+529,1,03:54,FLA,6,13,RD,Davi
+530,1,03:56,JLE,6,13,3_Pts_T,Weihermann
+531,1,04:37,FLA,6,13,AS,Deryk
+532,1,04:37,FLA,6,13,2_Pts_C,Marquinhos
+533,1,04:52,FLA,4,13,FR,Nesbitt
+534,1,04:52,JLE,4,13,ER,Colimerio
+535,1,04:52,JLE,4,13,FC_O,Colimerio
+536,1,04:54,FLA,4,13,substituicao_entra,Deryk
+537,1,04:54,FLA,4,13,substituicao_sai,Balbi
+538,1,04:54,FLA,4,13,substituicao_entra,Marquinhos
+539,1,04:54,FLA,4,13,substituicao_sai,Jhonatan
+540,1,04:54,JLE,4,13,FR,Jerônimo
+541,1,04:54,FLA,4,13,FC,Davi
+542,1,04:55,JLE,4,13,RD,F  Vezaro
+543,1,05:03,JLE,4,13,TO,Jerônimo
+544,1,05:03,FLA,4,13,2_Pts_T,Varejão
+545,1,05:03,FLA,4,13,RO,Varejão
+546,1,05:07,FLA,4,13,3_Pts_T,Nesbitt
+547,1,05:19,JLE,4,13,substituicao_entra,Colimerio
+548,1,05:19,JLE,4,13,substituicao_sai,A  Bambu
+549,1,05:19,JLE,4,13,substituicao_entra,Weihermann
+550,1,05:19,JLE,4,13,substituicao_sai,Vezarinho
+551,1,05:19,FLA,4,13,substituicao_entra,Nesbitt
+552,1,05:19,FLA,4,13,substituicao_sai,Olivinha
+553,1,05:19,FLA,4,13,tempo_tecnico,Flamengo
+554,1,05:24,JLE,4,13,AS,F  Vezaro
+555,1,05:24,JLE,4,13,3_Pts_C,A  Bambu
+556,1,05:31,JLE,4,10,BR,F  Vezaro
+557,1,05:31,FLA,4,10,ER,Varejão
+558,1,05:44,JLE,4,10,AS,F  Vezaro
+559,1,05:44,JLE,4,10,2_Pts_C,Jerônimo
+560,1,06:08,JLE,4,8, AABJ ,Joinville 
+561,1,06:12,FLA,4,8,2_Pts_T,Davi
+562,1,06:17,FLA,4,8,BR,Varejão
+563,1,06:17,JLE,4,8,ER,Jerônimo
+564,1,06:37,FLA,4,8,AS,Jhonatan
+565,1,06:37,FLA,4,8,3_Pts_C,Davi
+566,1,06:52,JLE,1,8,LL_Pts_C,Vezarinho
+567,1,06:52,JLE,1,7,LL_Pts_T,Vezarinho
+568,1,06:52,JLE,1,7,FR,Vezarinho
+569,1,06:52,FLA,1,7,FC,Jhonatan
+570,1,07:07,JLE,1,7,BR,J  Socas
+571,1,07:07,FLA,1,7,ER,Jhonatan
+572,1,07:15,FLA,1,7,RD,Olivinha
+573,1,07:17,JLE,1,7,2_Pts_T,A  Bambu
+574,1,07:34,JLE,1,7,RD,A  Bambu
+575,1,07:36,FLA,1,7,LL_Pts_T,Varejão
+576,1,07:36,FLA,1,7,LL_Pts_C,Varejão
+577,1,07:36,JLE,0,7,substituicao_entra,Jerônimo
+578,1,07:36,JLE,0,7,substituicao_sai,Mathias
+579,1,07:36,FLA,0,7,FR,Varejão
+580,1,07:36,JLE,0,7,FC,Mathias
+581,1,07:48,JLE,0,7,AS,Mathias
+582,1,07:48,JLE,0,7,3_Pts_C,Vezarinho
+583,1,08:01,JLE,0,4,RD,Mathias
+584,1,08:05,FLA,0,4,2_Pts_T,Balbi
+585,1,08:09,FLA,0,4,RD,Olivinha
+586,1,08:12,JLE,0,4,2_Pts_T,F  Vezaro
+587,1,08:26,JLE,0,4,RD,Vezarinho
+588,1,08:29,FLA,0,4,3_Pts_T,Balbi
+589,1,08:49,JLE,0,4,AS,Vezarinho
+590,1,08:49,JLE,0,4,2_Pts_C,A  Bambu
+591,1,08:57,JLE,0,2,RD,Vezarinho
+592,1,09:01,FLA,0,2,3_Pts_T,Olivinha
+593,1,09:07,FLA,0,2,RD,Balbi
+594,1,09:10,JLE,0,2,2_Pts_T,J  Socas
+595,1,09:24,JLE,0,2,RD,Vezarinho
+596,1,09:28,FLA,0,2,2_Pts_T,Varejão
+597,1,09:37,FLA,0,2,FR,Varejão
+598,1,09:37,JLE,0,2,FC,Mathias
+599,1,09:48,JLE,0,2,2_Pts_C,Mathias
+600,1,10:00,JLE,0,0,substituicao_entra,J  Socas
+601,1,10:00,JLE,0,0,substituicao_entra,A  Bambu
+602,1,10:00,JLE,0,0,substituicao_entra,Mathias
+603,1,10:00,JLE,0,0,substituicao_entra,F  Vezaro
+604,1,10:00,JLE,0,0,substituicao_entra,Vezarinho
+605,1,10:00,FLA,0,0,substituicao_entra,Varejão
+606,1,10:00,FLA,0,0,substituicao_entra,Olivinha
+607,1,10:00,FLA,0,0,substituicao_entra,Jhonatan
+608,1,10:00,FLA,0,0,substituicao_entra,Balbi
+609,1,10:00,FLA,0,0,substituicao_entra,Davi
+610,1,10:00,NaN,0,0,inicio_partida,

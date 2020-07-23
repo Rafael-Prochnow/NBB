@@ -1,0 +1,465 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN,82,71,fim_partida,
+1,4,00:00,NaN,82,71,fim_quarto, 
+2,4,00:15,BAU,82,71,RD,Larry
+3,4,00:18,CEA,82,71,2_Pts_T,Paulinho
+4,4,00:27,CEA,82,71,BR,Paulinho
+5,4,00:27,BAU,82,71,ER,Larry
+6,4,00:47,BAU,82,71,RD,Bauru
+7,4,00:47,CEA,82,71,3_Pts_T,Paulinho
+8,4,00:59,CEA,82,71,tempo_tecnico,Basq  Cearense
+9,4,00:59,BAU,82,71,LL_Pts_C,Larry
+10,4,00:59,BAU,81,71,LL_Pts_C,Larry
+11,4,00:59,BAU,80,71,FR,Larry
+12,4,00:59,CEA,80,71,FC,Paulo
+13,4,00:59,CEA,80,71,substituicao_entra,Felipe
+14,4,00:59,CEA,80,71,substituicao_sai,Rashaun
+15,4,01:09,CEA,80,71,LL_Pts_C,Rashaun
+16,4,01:09,CEA,80,70,FR,Rashaun
+17,4,01:09,BAU,80,70,FC,Larry
+18,4,01:09,CEA,80,70,AS,Alex
+19,4,01:09,CEA,80,70,2_Pts_C,Rashaun
+20,4,01:19,CEA,80,68,substituicao_entra,Paulo
+21,4,01:19,CEA,80,68,substituicao_sai,Sualisson
+22,4,01:19,CEA,80,68,tempo_tecnico,Basq  Cearense
+23,4,01:25,BAU,80,68,LL_Pts_C,Ruiz
+24,4,01:25,BAU,79,68,LL_Pts_C,Ruiz
+25,4,01:26,BAU,78,68,FR,Ruiz
+26,4,01:26,CEA,78,68,FC,Paulinho
+27,4,01:38,BAU,78,68,BR,Larry
+28,4,01:38,CEA,78,68,ER,Paulinho
+29,4,01:47,CEA,78,68,RD,B  Fiorotto
+30,4,01:50,BAU,78,68,3_Pts_T,Ruiz
+31,4,02:02,BAU,78,68,RD,Larry
+32,4,02:05,CEA,78,68,2_Pts_T,Sualisson
+33,4,02:09,CEA,78,68,substituicao_entra,Sualisson
+34,4,02:09,CEA,78,68,substituicao_sai,Cobb
+35,4,02:09,CEA,78,68,substituicao_entra,B  Fiorotto
+36,4,02:09,CEA,78,68,substituicao_sai,Felipe
+37,4,02:09,BAU,78,68,substituicao_entra,Lucas
+38,4,02:09,BAU,78,68,substituicao_sai,Jefferson
+39,4,02:13,BAU,78,68,AS,Jefferson
+40,4,02:13,BAU,78,68,3_Pts_C,Alex
+41,4,02:40,CEA,75,68,2_Pts_C,Cobb
+42,4,02:54,BAU,75,66,LL_Pts_C,Larry
+43,4,02:54,BAU,74,66,FR,Larry
+44,4,02:54,CEA,74,66,FC,Paulinho
+45,4,02:54,BAU,74,66,AS,Cauê
+46,4,02:54,BAU,74,66,2_Pts_C,Larry
+47,4,03:09,BAU,72,66,RD,Jefferson
+48,4,03:11,CEA,72,66,AS,Rashaun
+49,4,03:11,CEA,72,66,LL_Pts_T,Felipe
+50,4,03:11,CEA,72,66,FR,Felipe
+51,4,03:11,BAU,72,66,FC,Cauê
+52,4,03:11,CEA,72,66,2_Pts_C,Felipe
+53,4,03:29,CEA,72,64,substituicao_entra,Paulinho
+54,4,03:29,CEA,72,64,substituicao_sai,Sualisson
+55,4,03:29,CEA,72,64,substituicao_entra,Rashaun
+56,4,03:29,CEA,72,64,substituicao_sai,Paulo
+57,4,03:29,CEA,72,64,tempo_tecnico,Basq  Cearense
+58,4,03:31,BAU,72,64,AS,Ruiz
+59,4,03:31,BAU,72,64,3_Pts_C,Jefferson
+60,4,03:38,BAU,69,64,BR,Alex
+61,4,03:38,CEA,69,64,ER,Paulo
+62,4,04:00,CEA,69,64,RD,Felipe
+63,4,04:02,BAU,69,64,2_Pts_T,Jefferson
+64,4,04:27,BAU,69,64,RD,Alex
+65,4,04:31,CEA,69,64,3_Pts_T,Cobb
+66,4,04:44,BAU,69,64,LL_Pts_C,Cauê
+67,4,04:44,CEA,68,64,substituicao_entra,Paulo
+68,4,04:44,CEA,68,64,substituicao_sai,Rashaun
+69,4,04:44,BAU,68,64,FR,Cauê
+70,4,04:44,CEA,68,64,FC,Felipe
+71,4,04:44,BAU,68,64,AS,Alex
+72,4,04:44,BAU,68,64,2_Pts_C,Cauê
+73,4,04:54,BAU,66,64,RD,Jefferson
+74,4,04:56,CEA,66,64,2_Pts_T,Rashaun
+75,4,05:08,CEA,66,64,FR,Cobb
+76,4,05:08,BAU,66,64,FC,Alex
+77,4,05:22,BAU,66,64,substituicao_entra,Alex
+78,4,05:22,BAU,66,64,substituicao_sai,Gustavo
+79,4,05:22,CEA,66,64,RD,Basq  Cearense
+80,4,05:23,BAU,66,64,2_Pts_T,Jefferson
+81,4,05:36,CEA,66,64,2_Pts_C,Cobb
+82,4,05:56,BAU,66,62,LL_Pts_C,Ruiz
+83,4,05:56,BAU,65,62,LL_Pts_C,Ruiz
+84,4,05:56,BAU,64,62,FR,Ruiz
+85,4,05:56,CEA,64,62,FC,Sualisson
+86,4,06:07,CEA,64,62,substituicao_entra,Felipe
+87,4,06:07,CEA,64,62,substituicao_sai,B  Fiorotto
+88,4,06:07,BAU,64,62,FR,Larry
+89,4,06:07,CEA,64,62,FC,B  Fiorotto
+90,4,06:13,BAU,64,62,RD,Gustavo
+91,4,06:18,CEA,64,62,3_Pts_T,Rashaun
+92,4,06:35,BAU,64,62,3_Pts_C,Cauê
+93,4,06:54,CEA,61,62,3_Pts_C,Cobb
+94,4,07:05,CEA,61,59,RD,Sualisson
+95,4,07:07,BAU,61,59,LL_Pts_T,Larry
+96,4,07:07,BAU,61,59,LL_Pts_C,Larry
+97,4,07:07,BAU,60,59,FR,Larry
+98,4,07:07,CEA,60,59,FC,Cobb
+99,4,07:17,BAU,60,59,LL_Pts_T,Gustavo
+100,4,07:17,BAU,60,59,LL_Pts_T,Gustavo
+101,4,07:17,BAU,60,59,FR,Gustavo
+102,4,07:17,CEA,60,59,FC_A,Sualisson
+103,4,07:17,BAU,60,59,BR,Gustavo
+104,4,07:17,CEA,60,59,ER,Cobb
+105,4,07:21,BAU,60,59,ER,Ruiz
+106,4,07:45,CEA,60,59,AS,Rashaun
+107,4,07:45,CEA,60,59,2_Pts_C,B  Fiorotto
+108,4,07:57,BAU,60,57,AS,Larry
+109,4,07:57,BAU,60,57,3_Pts_C,Ruiz
+110,4,08:15,BAU,57,57,RD,Larry
+111,4,08:18,CEA,57,57,3_Pts_T,Cobb
+112,4,08:31,BAU,57,57,LL_Pts_C,Ruiz
+113,4,08:31,BAU,56,57,LL_Pts_C,Ruiz
+114,4,08:31,CEA,55,57,substituicao_entra,Alex
+115,4,08:31,CEA,55,57,substituicao_sai,Paulo
+116,4,08:31,BAU,55,57,FR,Ruiz
+117,4,08:31,CEA,55,57,FC,Cobb
+118,4,08:33,BAU,55,57,RD,Jefferson
+119,4,08:36,CEA,55,57,3_Pts_T,Paulo
+120,4,09:00,CEA,55,57,RD,Rashaun
+121,4,09:03,BAU,55,57,2_Pts_T,Jefferson
+122,4,09:25,BAU,55,57,RD,Jefferson
+123,4,09:26,CEA,55,57,LL_Pts_T,Sualisson
+124,4,09:26,CEA,55,57,LL_Pts_C,Sualisson
+125,4,09:26,CEA,55,56,FR,Sualisson
+126,4,09:26,BAU,55,56,FC,Ruiz
+127,4,09:39,CEA,55,56,RD,Rashaun
+128,4,09:43,BAU,55,56,3_Pts_T,Larry
+129,4,10:00,NaN,55,56,inicio_quarto,
+130,3,00:00,NaN,55,56,fim_quarto,
+131,3,00:01,BAU,55,56,RO,Alex
+132,3,00:01,BAU,55,56,2_Pts_T,Alex
+133,3,00:07,CEA,55,56,substituicao_entra,Alex
+134,3,00:07,CEA,55,56,substituicao_sai,Cobb
+135,3,00:07,BAU,55,56,substituicao_entra,Larry
+136,3,00:07,BAU,55,56,substituicao_sai,Gustavo
+137,3,00:07,BAU,55,56,substituicao_entra,Jefferson
+138,3,00:07,BAU,55,56,substituicao_sai,Lucas
+139,3,00:07,BAU,55,56,RO,Bauru
+140,3,00:09,BAU,55,56,3_Pts_T,Gustavo
+141,3,00:35,CEA,55,56,AS,Cobb
+142,3,00:35,CEA,55,56,2_Pts_C,Paulo
+143,3,00:38,CEA,55,54,RD,Cobb
+144,3,00:42,BAU,55,54,2_Pts_T,Alex
+145,3,00:53,BAU,55,54,BR,Ruiz
+146,3,00:53,CEA,55,54,ER,Paulo
+147,3,00:54,CEA,55,54,RD,Paulo
+148,3,00:57,BAU,55,54,3_Pts_T,Lucas
+149,3,01:03,BAU,55,54,BR,Cauê
+150,3,01:03,CEA,55,54,ER,Rashaun
+151,3,01:06,CEA,55,54,BR,Rashaun
+152,3,01:06,BAU,55,54,ER,Lucas
+153,3,01:19,BAU,55,54,RD,Ruiz
+154,3,01:22,CEA,55,54,3_Pts_T,B  Fiorotto
+155,3,01:29,CEA,55,54,RD,B  Fiorotto
+156,3,01:31,BAU,55,54,2_Pts_T,Lucas
+157,3,01:48,CEA,55,54,AS,B  Fiorotto
+158,3,01:48,CEA,55,54,2_Pts_C,Sualisson
+159,3,02:03,CEA,55,52,RD,Sualisson
+160,3,02:05,BAU,55,52,3_Pts_T,Gustavo
+161,3,02:15,BAU,55,52,FR,Gustavo
+162,3,02:15,CEA,55,52,FC,Rashaun
+163,3,02:20,BAU,55,52,BR,Alex
+164,3,02:20,CEA,55,52,ER,Paulo
+165,3,02:40,BAU,55,52,2_Pts_C,Cauê
+166,3,02:53,CEA,53,52,substituicao_entra,Sualisson
+167,3,02:53,CEA,53,52,substituicao_sai,Felipe
+168,3,02:53,BAU,53,52,FR,Alex
+169,3,02:53,CEA,53,52,FC,Felipe
+170,3,03:15,CEA,53,52,AS,B  Fiorotto
+171,3,03:15,CEA,53,52,2_Pts_C,Cobb
+172,3,03:25,CEA,53,50,FR,Cobb
+173,3,03:25,BAU,53,50,FC,Cauê
+174,3,03:29,BAU,53,50,substituicao_entra,Ruiz
+175,3,03:29,BAU,53,50,substituicao_sai,Jefferson
+176,3,03:36,BAU,53,50,AS,Gustavo
+177,3,03:36,BAU,53,50,EN,Lucas
+178,3,03:39,BAU,51,50,RD,Gustavo
+179,3,03:41,CEA,51,50,2_Pts_T,Felipe
+180,3,03:42,CEA,51,50,RD,Cobb
+181,3,03:44,BAU,51,50,2_Pts_T,Lucas
+182,3,04:00,CEA,51,50,AS,Felipe
+183,3,04:00,CEA,51,50,3_Pts_C,Paulo
+184,3,04:16,BAU,51,47,ER,Jefferson
+185,3,04:22,BAU,51,47,substituicao_entra,Cauê
+186,3,04:22,BAU,51,47,substituicao_sai,Larry
+187,3,04:22,BAU,51,47,FR,Jefferson
+188,3,04:22,CEA,51,47,FC,Felipe
+189,3,04:43,CEA,51,47,AS,Paulo
+190,3,04:43,CEA,51,47,3_Pts_C,Rashaun
+191,3,05:03,BAU,51,44,AS,Larry
+192,3,05:03,BAU,51,44,2_Pts_C,Lucas
+193,3,05:15,CEA,49,44,AS,Felipe
+194,3,05:15,CEA,49,44,2_Pts_C,Cobb
+195,3,05:33,BAU,49,42,AS,Larry
+196,3,05:33,BAU,49,42,2_Pts_C,Lucas
+197,3,05:52,BAU,47,42,RD,Jefferson
+198,3,05:54,CEA,47,42,LL_Pts_T,B  Fiorotto
+199,3,05:54,BAU,47,42,tempo_tecnico,Bauru
+200,3,05:54,CEA,47,42,FR,B  Fiorotto
+201,3,05:54,BAU,47,42,FC,Lucas
+202,3,05:54,CEA,47,42,AS,Cobb
+203,3,05:54,CEA,47,42,2_Pts_C,B  Fiorotto
+204,3,06:10,CEA,47,40,RD,B  Fiorotto
+205,3,06:13,BAU,47,40,2_Pts_T,Larry
+206,3,06:23,BAU,47,40,RD,Lucas
+207,3,06:26,CEA,47,40,3_Pts_T,Felipe
+208,3,06:29,CEA,47,40,RO,B  Fiorotto
+209,3,06:32,CEA,47,40,2_Pts_T,Cobb
+210,3,06:36,CEA,47,40,RD,Cobb
+211,3,06:40,BAU,47,40,3_Pts_T,Alex
+212,3,06:59,BAU,47,40,RD,Bauru
+213,3,07:02,CEA,47,40,2_Pts_T,Cobb
+214,3,07:26,CEA,47,40,FR,B  Fiorotto
+215,3,07:26,BAU,47,40,ER,Lucas
+216,3,07:26,BAU,47,40,FC_O,Lucas
+217,3,07:32,CEA,47,40,AS,B  Fiorotto
+218,3,07:32,CEA,47,40,2_Pts_C,Rashaun
+219,3,07:43,BAU,47,38,ER,
+220,3,07:45,BAU,47,38,substituicao_entra,Gustavo
+221,3,07:45,BAU,47,38,substituicao_sai,Ruiz
+222,3,07:45,BAU,47,38,RO,Bauru
+223,3,07:45,BAU,47,38,2_Pts_T,Alex
+224,3,07:46,CEA,47,38,2_Pts_C,Paulo
+225,3,07:47,CEA,47,36,RO,Paulo
+226,3,07:53,BAU,47,36,TO,Lucas
+227,3,07:53,CEA,47,36,2_Pts_T,B  Fiorotto
+228,3,08:36,CEA,47,36,RD,Felipe
+229,3,08:40,BAU,47,36,3_Pts_T,Lucas
+230,3,08:58,CEA,47,36,AS,Rashaun
+231,3,08:58,CEA,47,36,2_Pts_C,B  Fiorotto
+232,3,09:16,BAU,47,34,AS,Larry
+233,3,09:16,BAU,47,34,LL_Pts_C,Alex
+234,3,09:16,BAU,46,34,LL_Pts_C,Alex
+235,3,09:16,BAU,45,34,FR,Alex
+236,3,09:16,CEA,45,34,FC,Rashaun
+237,3,09:27,CEA,45,34,2_Pts_C,Paulo
+238,3,09:28,CEA,45,32,RO,Paulo
+239,3,09:33,CEA,45,32,2_Pts_T,Rashaun
+240,3,09:46,CEA,45,32,FR,B  Fiorotto
+241,3,09:46,BAU,45,32,FC,Jefferson
+242,3,10:00,NaN,45,32,inicio_quarto,
+243,2,00:00,NaN,45,32,fim_quarto,
+244,2,00:01,CEA,45,32,RD,Rashaun
+245,2,00:02,BAU,45,32,3_Pts_T,Alex
+246,2,00:18,BAU,45,32,RD,Cauê
+247,2,00:20,CEA,45,32,2_Pts_T,Paulo
+248,2,00:36,BAU,45,32,AS,Gustavo
+249,2,00:36,BAU,45,32,2_Pts_C,Samuel
+250,2,00:44,CEA,43,32,AS,B  Fiorotto
+251,2,00:44,CEA,43,32,3_Pts_C,Cobb
+252,2,01:01,BAU,43,29,AS,Cauê
+253,2,01:01,BAU,43,29,3_Pts_C,Gustavo
+254,2,01:29,CEA,40,29,AS,B  Fiorotto
+255,2,01:29,CEA,40,29,2_Pts_C,Paulo
+256,2,01:46,BAU,40,27,AS,Cauê
+257,2,01:46,BAU,40,27,2_Pts_C,Alex
+258,2,01:58,BAU,38,27,substituicao_entra,Samuel
+259,2,01:58,BAU,38,27,substituicao_sai,Renato
+260,2,01:58,BAU,38,27,tempo_tecnico,Bauru
+261,2,02:02,CEA,38,27,2_Pts_C,Paulo
+262,2,02:03,CEA,38,25,RO,Paulo
+263,2,02:07,CEA,38,25,3_Pts_T,Cobb
+264,2,02:22,CEA,38,25,RD,B  Fiorotto
+265,2,02:23,BAU,38,25,LL_Pts_T,Renato
+266,2,02:23,BAU,38,25,LL_Pts_T,Renato
+267,2,02:23,BAU,38,25,FR,Renato
+268,2,02:23,CEA,38,25,FC,B  Fiorotto
+269,2,02:41,CEA,38,25,3_Pts_C,Rashaun
+270,2,03:03,BAU,38,22,3_Pts_C,Cauê
+271,2,03:15,BAU,35,22,FR,Alex
+272,2,03:15,CEA,35,22,FC,Alex
+273,2,03:23,BAU,35,22,RD,Cauê
+274,2,03:25,CEA,35,22,2_Pts_T,B  Fiorotto
+275,2,03:40,CEA,35,22,RD,Rashaun
+276,2,03:46,BAU,35,22,3_Pts_T,Jefferson
+277,2,04:05,CEA,35,22,LL_Pts_C,Rashaun
+278,2,04:05,CEA,35,21,LL_Pts_T,Rashaun
+279,2,04:05,CEA,35,21,FR,Rashaun
+280,2,04:05,BAU,35,21,FC,Jefferson
+281,2,04:14,CEA,35,21,substituicao_entra,Cobb
+282,2,04:14,CEA,35,21,substituicao_sai,Brite
+283,2,04:14,CEA,35,21,substituicao_entra,B  Fiorotto
+284,2,04:14,CEA,35,21,substituicao_sai,Sualisson
+285,2,04:14,CEA,35,21,substituicao_entra,Paulo
+286,2,04:14,CEA,35,21,substituicao_sai,Felipe
+287,2,04:14,BAU,35,21,substituicao_entra,Jefferson
+288,2,04:14,BAU,35,21,substituicao_sai,Lucas
+289,2,04:14,CEA,35,21,tempo_tecnico,Basq  Cearense
+290,2,04:15,BAU,35,21,AS,Cauê
+291,2,04:15,BAU,35,21,2_Pts_C,Renato
+292,2,04:33,BAU,33,21,RD,Renato
+293,2,04:38,CEA,33,21,3_Pts_T,Sualisson
+294,2,04:59,BAU,33,21,AS,Alex
+295,2,04:59,BAU,33,21,2_Pts_C,Lucas
+296,2,05:04,BAU,31,21,RD,Alex
+297,2,05:07,CEA,31,21,3_Pts_T,Rashaun
+298,2,05:29,BAU,31,21,2_Pts_C,Lucas
+299,2,05:40,CEA,29,21,AS,Brite
+300,2,05:40,CEA,29,21,2_Pts_C,Sualisson
+301,2,05:51,CEA,29,19,FR,Brite
+302,2,05:51,BAU,29,19,FC,Cauê
+303,2,05:54,CEA,29,19,BR,Brite
+304,2,05:54,BAU,29,19,ER,Gustavo
+305,2,05:58,BAU,29,19,RD,Lucas
+306,2,06:02,CEA,29,19,3_Pts_T,Felipe
+307,2,06:13,BAU,29,19,substituicao_entra,Renato
+308,2,06:13,BAU,29,19,substituicao_sai,Marcão
+309,2,06:13,CEA,29,19,FR,Sualisson
+310,2,06:13,BAU,29,19,FC,Marcão
+311,2,06:13,CEA,29,19,RO,Basq  Cearense
+312,2,06:15,CEA,29,19,3_Pts_T,Brite
+313,2,06:29,BAU,29,19,AS,Cauê
+314,2,06:29,BAU,29,19,LL_Pts_C,Lucas
+315,2,06:29,BAU,28,19,LL_Pts_C,Lucas
+316,2,06:29,BAU,27,19,substituicao_entra,Alex
+317,2,06:29,BAU,27,19,substituicao_sai,Larry
+318,2,06:29,BAU,27,19,FR,Lucas
+319,2,06:29,CEA,27,19,FC,Alex
+320,2,06:31,BAU,27,19,RD,Cauê
+321,2,06:34,CEA,27,19,2_Pts_T,Felipe
+322,2,06:54,BAU,27,19,AS,Cauê
+323,2,06:54,BAU,27,19,3_Pts_C,Larry
+324,2,07:09,CEA,24,19,AS,Felipe
+325,2,07:09,CEA,24,19,2_Pts_C,Rashaun
+326,2,07:12,CEA,24,17,FR,Sualisson
+327,2,07:12,BAU,24,17,FC,Marcão
+328,2,07:25,CEA,24,17,BR,Sualisson
+329,2,07:25,BAU,24,17,ER,Gustavo
+330,2,07:32,BAU,24,17,RD,Cauê
+331,2,07:35,CEA,24,17,3_Pts_T,Alex
+332,2,07:49,CEA,24,17,substituicao_entra,Rashaun
+333,2,07:49,CEA,24,17,substituicao_sai,Cobb
+334,2,07:49,CEA,24,17,substituicao_entra,Brite
+335,2,07:49,CEA,24,17,substituicao_sai,Paulinho
+336,2,07:49,CEA,24,17,tempo_tecnico,Basq  Cearense
+337,2,07:57,BAU,24,17,AS,Gustavo
+338,2,07:57,BAU,24,17,2_Pts_C,Larry
+339,2,08:00,BAU,22,17,BR,Marcão
+340,2,08:00,CEA,22,17,ER,Paulinho
+341,2,08:16,CEA,22,17,FR,Paulinho
+342,2,08:16,BAU,22,17,FC,Cauê
+343,2,08:18,CEA,22,17,RD,Basq  Cearense
+344,2,08:22,BAU,22,17,2_Pts_T,Marcão
+345,2,08:29,BAU,22,17,RO,Bauru
+346,2,08:29,BAU,22,17,2_Pts_T,Marcão
+347,2,08:45,BAU,22,17,RD,Gustavo
+348,2,08:48,CEA,22,17,3_Pts_T,Felipe
+349,2,09:11,BAU,22,17,AS,Larry
+350,2,09:11,BAU,22,17,3_Pts_C,Lucas
+351,2,09:31,CEA,19,17,2_Pts_C,Paulinho
+352,2,09:49,BAU,19,15,AS,Larry
+353,2,09:49,BAU,19,15,3_Pts_C,Gustavo
+354,2,10:00,NaN,16,15,inicio_quarto,
+355,1,00:00,NaN,16,15,fim_quarto,
+356,1,00:00,CEA,16,15,LL_Pts_C,Paulo
+357,1,00:00,CEA,16,14,LL_Pts_C,Paulo
+358,1,00:00,CEA,16,13,LL_Pts_T,Paulo
+359,1,00:00,CEA,16,13,FR,Paulo
+360,1,00:00,BAU,16,13,FC,Ruiz
+361,1,00:17,CEA,16,13,substituicao_entra,Paulinho
+362,1,00:17,CEA,16,13,substituicao_sai,Sualisson
+363,1,00:17,BAU,16,13,substituicao_entra,Samuel
+364,1,00:17,BAU,16,13,substituicao_sai,Jefferson
+365,1,00:17,BAU,16,13,substituicao_entra,Renato
+366,1,00:17,BAU,16,13,substituicao_sai,Marcão
+367,1,00:17,CEA,16,13,FR,Sualisson
+368,1,00:17,BAU,16,13,ER,Marcão
+369,1,00:17,BAU,16,13,FC_O,Marcão
+370,1,00:27,BAU,16,13,FR,Cauê
+371,1,00:27,CEA,16,13,FC,Sualisson
+372,1,00:28,BAU,16,13,RD,Cauê
+373,1,00:33,CEA,16,13,3_Pts_T,Felipe
+374,1,00:58,BAU,16,13,AS,Gustavo
+375,1,00:58,BAU,16,13,2_Pts_C,Jefferson
+376,1,01:17,CEA,14,13,AS,Sualisson
+377,1,01:17,CEA,14,13,3_Pts_C,Paulo
+378,1,01:28,BAU,14,10,AS,Cauê
+379,1,01:28,BAU,14,10,3_Pts_C,Ruiz
+380,1,01:45,CEA,11,10,2_Pts_C,Cobb
+381,1,01:51,CEA,11,8,substituicao_entra,Sualisson
+382,1,01:51,CEA,11,8,substituicao_sai,B  Fiorotto
+383,1,01:51,BAU,11,8,substituicao_entra,Marcão
+384,1,01:51,BAU,11,8,substituicao_sai,Lucas
+385,1,01:51,CEA,11,8,RD,Cobb
+386,1,01:58,BAU,11,8,3_Pts_T,Lucas
+387,1,02:11,CEA,11,8,2_Pts_C,Cobb
+388,1,02:30,BAU,11,6,AS,Lucas
+389,1,02:30,BAU,11,6,3_Pts_C,Jefferson
+390,1,02:43,CEA,8,6,ER,
+391,1,03:01,BAU,8,6,substituicao_entra,Gustavo
+392,1,03:01,BAU,8,6,substituicao_sai,Alex
+393,1,03:01,BAU,8,6,substituicao_entra,Cauê
+394,1,03:01,BAU,8,6,substituicao_sai,Larry
+395,1,03:01,CEA,8,6,FR,Felipe
+396,1,03:01,BAU,8,6,FC,Lucas
+397,1,03:13,BAU,8,6,2_Pts_C,Alex
+398,1,03:19,BAU,6,6,BR,Lucas
+399,1,03:19,CEA,6,6,ER,B  Fiorotto
+400,1,03:31,CEA,6,6,RD,B  Fiorotto
+401,1,03:35,BAU,6,6,2_Pts_T,Larry
+402,1,03:48,BAU,6,6,RD,Jefferson
+403,1,03:51,CEA,6,6,3_Pts_T,Cobb
+404,1,03:59,CEA,6,6,RD,B  Fiorotto
+405,1,04:00,BAU,6,6,LL_Pts_T,Jefferson
+406,1,04:00,BAU,6,6,LL_Pts_C,Jefferson
+407,1,04:00,BAU,5,6,FR,Jefferson
+408,1,04:00,CEA,5,6,FC,Felipe
+409,1,04:10,BAU,5,6,RO,Alex
+410,1,04:13,BAU,5,6,3_Pts_T,Ruiz
+411,1,04:29,CEA,5,6,2_Pts_C,Rashaun
+412,1,04:40,CEA,5,4,RD,Basq  Cearense
+413,1,04:42,BAU,5,4,3_Pts_T,Alex
+414,1,04:59,BAU,5,4,FR,Ruiz
+415,1,04:59,CEA,5,4,FC,B  Fiorotto
+416,1,04:59,BAU,5,4,RD,Ruiz
+417,1,05:02,CEA,5,4,2_Pts_T,Rashaun
+418,1,05:15,BAU,5,4,ER,Alex
+419,1,05:20,BAU,5,4,RD,Jefferson
+420,1,05:22,CEA,5,4,3_Pts_T,Paulo
+421,1,05:42,CEA,5,4,FR,Cobb
+422,1,05:42,BAU,5,4,ER,Larry
+423,1,05:42,BAU,5,4,FC_O,Larry
+424,1,05:43,BAU,5,4,RO,Bauru
+425,1,05:45,BAU,5,4,2_Pts_T,Larry
+426,1,05:56,BAU,5,4,RD,Alex
+427,1,05:59,CEA,5,4,2_Pts_T,Rashaun
+428,1,06:13,CEA,5,4,RD,B  Fiorotto
+429,1,06:17,BAU,5,4,2_Pts_T,Alex
+430,1,06:40,BAU,5,4,RD,Bauru
+431,1,06:41,CEA,5,4,3_Pts_T,Cobb
+432,1,06:57,CEA,5,4,BR,Rashaun
+433,1,06:57,BAU,5,4,ER,Lucas
+434,1,07:03,CEA,5,4,ER,B  Fiorotto
+435,1,07:13,CEA,5,4,RD,Paulo
+436,1,07:16,BAU,5,4,3_Pts_T,Alex
+437,1,07:30,CEA,5,4,AS,Paulo
+438,1,07:30,CEA,5,4,2_Pts_C,B  Fiorotto
+439,1,07:57,BAU,5,2,AS,Ruiz
+440,1,07:57,BAU,5,2,3_Pts_C,Jefferson
+441,1,08:20,CEA,2,2,2_Pts_C,Cobb
+442,1,08:25,CEA,2,0,BR,Cobb
+443,1,08:25,BAU,2,0,ER,Alex
+444,1,08:37,BAU,2,0,RD,Alex
+445,1,08:42,CEA,2,0,3_Pts_T,Paulo
+446,1,08:54,CEA,2,0,FR,Paulo
+447,1,08:54,BAU,2,0,FC,Ruiz
+448,1,09:15,BAU,2,0,2_Pts_C,Larry
+449,1,09:23,BAU,0,0,RD,Alex
+450,1,09:27,CEA,0,0,2_Pts_T,B  Fiorotto
+451,1,09:29,CEA,0,0,RO,B  Fiorotto
+452,1,09:34,CEA,0,0,2_Pts_T,Paulo
+453,1,10:00,CEA,0,0,substituicao_entra,Felipe
+454,1,10:00,CEA,0,0,substituicao_entra,B  Fiorotto
+455,1,10:00,CEA,0,0,substituicao_entra,Cobb
+456,1,10:00,CEA,0,0,substituicao_entra,Rashaun
+457,1,10:00,CEA,0,0,substituicao_entra,Paulo
+458,1,10:00,BAU,0,0,substituicao_entra,Ruiz
+459,1,10:00,BAU,0,0,substituicao_entra,Lucas
+460,1,10:00,BAU,0,0,substituicao_entra,Jefferson
+461,1,10:00,BAU,0,0,substituicao_entra,Alex
+462,1,10:00,BAU,0,0,substituicao_entra,Larry
+463,1,10:00,NaN,0,0,inicio_partida,
