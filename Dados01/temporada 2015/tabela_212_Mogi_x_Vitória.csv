@@ -1,0 +1,510 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,81,58,fim_partida, 
+1,4,00:31,VIT,81,58,2_Pts_C,Kojo
+2,4,00:31,VIT,81,56,,
+3,4,00:42,VIT,81,56,BR,Rafinha
+4,4,00:42,MOG,81,56,ER,J   Mauro
+5,4,00:53,VIT,81,56,LL_Pts_C,Kojo
+6,4,00:53,VIT,81,55,LL_Pts_C,Kojo
+7,4,00:53,VIT,81,54,FR,Kojo
+8,4,00:53,MOG,81,54,FC,Lersch
+9,4,00:57,VIT,81,54,RD, Calvo
+10,4,00:57,MOG,81,54,2_Pts_T,Gerson
+11,4,01:01,MOG,81,54,RO, Gerson
+12,4,01:01,MOG,81,54,2_Pts_T,Lessa
+13,4,01:17,VIT,81,54,3_Pts_C,Jairo
+14,4,01:17,VIT,81,51,,
+15,4,01:27,VIT,81,51,RD, Calvo
+16,4,01:27,MOG,81,51,2_Pts_T,Lersch
+17,4,01:37,MOG,81,51,FR,Gerson
+18,4,01:37,VIT,81,51,FC,Rafinha
+19,4,01:55,VIT,81,51,2_Pts_C,Calvo
+20,4,02:21,MOG,81,49,2_Pts_C,Lessa
+21,4,02:21,MOG,79,49,,
+22,4,02:25,VIT,79,49,2_Pts_C,Renan
+23,4,02:29,VIT,79,47,RO, Renan
+24,4,02:29,VIT,79,47,2_Pts_T,Kojo
+25,4,02:42,VIT,79,47,RD, Kojo
+26,4,02:42,MOG,79,47,2_Pts_T,Gerson
+27,4,02:58,VIT,79,47,LL_Pts_C,Rafinha
+28,4,02:58,VIT,79,46,LL_Pts_C,Rafinha
+29,4,02:58,VIT,79,45,substituicao_entra,Renan 
+30,4,02:58,VIT,79,45,substituicao_sai,Feliz 
+31,4,02:58,VIT,79,45,FR,Rafinha
+32,4,02:58,MOG,79,45,FC,Lersch
+33,4,03:15,MOG,79,45,3_Pts_C,Lersch
+34,4,03:23,VIT,76,45,2_Pts_C,Jairo
+35,4,03:29,VIT,76,43,RO, Jairo
+36,4,03:29,MOG,76,43,TO,Gerson
+37,4,03:29,VIT,76,43,2_Pts_T,Jairo
+38,4,03:50,MOG,76,43,2_Pts_C,Jimmy
+39,4,04:05,MOG,74,43,,
+40,4,04:05,VIT,74,43,ER,Feliz
+41,4,04:19,VIT,74,43,RD, Feliz
+42,4,04:19,MOG,74,43,LL_Pts_T,J   Mauro
+43,4,04:19,MOG,74,43,LL_Pts_T,J   Mauro
+44,4,04:19,MOG,74,43,FR,J   Mauro
+45,4,04:19,VIT,74,43,FC,Rafinha
+46,4,04:28,VIT,74,43,substituicao_entra,Jairo 
+47,4,04:28,VIT,74,43,substituicao_sai,Pezão 
+48,4,04:28,MOG,74,43,substituicao_sai,Paulão 
+49,4,04:28,MOG,74,43,substituicao_entra,J   Mauro 
+50,4,04:28,VIT,74,43,tempo_tecnico, Vitória
+51,4,04:28,MOG,74,43,FR,Lersch
+52,4,04:28,VIT,74,43,FC,Rafinha
+53,4,04:33,MOG,74,43,RD, Gerson
+54,4,04:33,VIT,74,43,3_Pts_T,Kojo
+55,4,04:55,MOG,74,43,EN,Gerson
+56,4,04:55,MOG,72,43,,
+57,4,05:06,MOG,72,43,BR,Lersch
+58,4,05:06,VIT,72,43,ER,Calvo
+59,4,05:24,VIT,72,43,RD, Rafinha
+60,4,05:24,MOG,72,43,3_Pts_T,Jimmy
+61,4,05:29,VIT,72,43,2_Pts_C,Feliz
+62,4,05:29,VIT,72,41,,
+63,4,05:35,VIT,72,41,BR,Rafinha
+64,4,05:35,MOG,72,41,ER,Paulão
+65,4,05:44,MOG,72,41,RD, Paulão
+66,4,05:44,VIT,72,41,2_Pts_T,Pezão
+67,4,05:55,MOG,72,41,3_Pts_C,Lessa
+68,4,05:55,MOG,69,41,,
+69,4,06:06,MOG,69,41,FR,Lessa
+70,4,06:06,VIT,69,41,FC,Pezão
+71,4,06:13,VIT,69,41,LL_Pts_C,Kojo
+72,4,06:13,VIT,69,40,LL_Pts_C,Kojo
+73,4,06:13,VIT,69,39,FR,Kojo
+74,4,06:13,MOG,69,39,FC,Lessa
+75,4,06:14,VIT,69,39,BR,Kojo
+76,4,06:14,MOG,69,39,ER,Lessa
+77,4,06:14,VIT,69,39,LL_Pts_C,Calvo
+78,4,06:14,VIT,69,38,,
+79,4,06:14,VIT,69,38,LL_Pts_C,Calvo
+80,4,06:14,VIT,69,37,FR,Calvo
+81,4,06:14,MOG,69,37,FC,Jimmy
+82,4,06:16,VIT,69,37,substituicao_entra,Rafinha 
+83,4,06:16,VIT,69,37,substituicao_sai,Jason Smith 
+84,4,06:16,VIT,69,37,FR,Kojo
+85,4,06:16,MOG,69,37,FC,Lessa
+86,4,06:20,VIT,69,37,RD, Calvo
+87,4,06:20,MOG,69,37,2_Pts_T,Lersch
+88,4,06:35,VIT,69,37,2_Pts_C,Pezão
+89,4,06:39,VIT,69,35,RO, Pezão
+90,4,06:39,VIT,69,35,2_Pts_T,Feliz
+91,4,06:54,VIT,69,35,FR,Feliz
+92,4,06:54,MOG,69,35,FC,Paulão
+93,4,06:59,VIT,69,35,RD, Feliz
+94,4,06:59,MOG,69,35,2_Pts_T,Jimmy
+95,4,07:17,VIT,69,35,2_Pts_C,Feliz
+96,4,07:17,VIT,69,33,,
+97,4,07:30,VIT,69,33,RO, Calvo
+98,4,07:30,VIT,69,33,3_Pts_T,Jason Smith
+99,4,07:47,MOG,69,33,2_Pts_C,Gerson
+100,4,07:47,MOG,67,33,,
+101,4,08:03,VIT,67,33,2_Pts_C,Calvo
+102,4,08:03,VIT,67,31,,
+103,4,08:12,VIT,67,31,FR,Feliz
+104,4,08:12,MOG,67,31,FC,Lessa
+105,4,08:18,VIT,67,31,RO, Vitória
+106,4,08:18,MOG,67,31,TO,Gerson
+107,4,08:18,VIT,67,31,2_Pts_T,Pezão
+108,4,08:23,VIT,67,31,RO, Pezão
+109,4,08:23,VIT,67,31,2_Pts_T,Kojo
+110,4,09:00,VIT,67,31,RO, Kojo
+111,4,09:00,VIT,67,31,2_Pts_T,Feliz
+112,4,09:21,MOG,67,31,EN,Jimmy
+113,4,09:25,MOG,65,31,BR,Jimmy
+114,4,09:25,VIT,65,31,ER,Calvo
+115,4,09:30,VIT,65,31,RD, Feliz
+116,4,09:30,VIT,65,31,TO,Feliz
+117,4,09:30,MOG,65,31,2_Pts_T,Gerson
+118,4,09:47,VIT,65,31,2_Pts_C,Pezão
+119,4,09:47,VIT,65,29,,
+120,4,09:54,VIT,65,29,RO, Kojo
+121,4,09:54,VIT,65,29,3_Pts_T,Pezão
+122,3,00:00,NaN.,65,29,fim_quarto, 
+123,3,00:00,VIT,65,29,3_Pts_T,Jason Smith
+124,3,00:03,VIT,65,29,RD, Jason Smith
+125,3,00:03,MOG,65,29,2_Pts_T,Lessa
+126,3,00:28,MOG,65,29,RD, Paulão
+127,3,00:28,VIT,65,29,3_Pts_T,Kojo
+128,3,00:39,VIT,65,29,RD, Feliz
+129,3,00:39,MOG,65,29,3_Pts_T,Lessa
+130,3,01:00,VIT,65,29,LL_Pts_C,Feliz
+131,3,01:00,VIT,65,28,LL_Pts_C,Feliz
+132,3,01:00,VIT,65,27,FR,Feliz
+133,3,01:00,MOG,65,27,FC,Gerson
+134,3,01:14,VIT,65,27,,
+135,3,01:14,MOG,65,27,ER,Paulão
+136,3,01:22,MOG,65,27,RD, Paulão
+137,3,01:22,VIT,65,27,2_Pts_T,Pezão
+138,3,01:36,VIT,65,27,,
+139,3,01:36,MOG,65,27,ER,Lessa
+140,3,01:45,VIT,65,27,ER,Jason Smith
+141,3,02:00,VIT,65,27,tempo_tecnico, Vitória
+142,3,02:00,MOG,65,27,substituicao_sai,Filipin 
+143,3,02:00,MOG,65,27,substituicao_entra,Lessa 
+144,3,02:00,VIT,65,27,substituicao_sai,Renan 
+145,3,02:00,VIT,65,27,substituicao_entra,Pezão 
+146,3,02:00,MOG,65,27,3_Pts_C,Paulão
+147,3,02:00,MOG,62,27,,
+148,3,02:17,MOG,62,27,RD, Paulão
+149,3,02:17,VIT,62,27,3_Pts_T,Calvo
+150,3,02:22,MOG,62,27,2_Pts_C,Paulão
+151,3,02:31,MOG,60,27,RO, Paulão
+152,3,02:31,MOG,60,27,3_Pts_T,Filipin
+153,3,02:51,VIT,60,27,LL_Pts_C,Kojo
+154,3,02:51,VIT,60,26,LL_Pts_T,Kojo
+155,3,02:51,VIT,60,26,FR,Kojo
+156,3,02:51,MOG,60,26,FC,Gerson
+157,3,02:58,VIT,60,26,RD, Calvo
+158,3,02:58,MOG,60,26,LL_Pts_T,Paulão
+159,3,02:58,MOG,60,26,LL_Pts_C,Paulão
+160,3,02:58,MOG,59,26,FR,Paulão
+161,3,02:58,VIT,59,26,FC,Renan
+162,3,03:20,VIT,59,26,2_Pts_C,Calvo
+163,3,03:20,VIT,59,24,,
+164,3,03:29,MOG,59,24,substituicao_sai,Tyrone  
+165,3,03:29,MOG,59,24,substituicao_entra,Paulão 
+166,3,03:29,MOG,59,24,LL_Pts_C,Tyrone 
+167,3,03:29,MOG,58,24,LL_Pts_C,Tyrone 
+168,3,03:29,MOG,57,24,substituicao_sai,Shamell 
+169,3,03:29,MOG,57,24,substituicao_entra,Jimmy 
+170,3,03:29,MOG,57,24,substituicao_sai,Lucas Mariano 
+171,3,03:29,MOG,57,24,substituicao_entra,Gerson 
+172,3,03:29,MOG,57,24,FR,Tyrone 
+173,3,03:29,VIT,57,24,FC,Jason Smith
+174,3,03:35,MOG,57,24,RD, Filipin
+175,3,03:35,VIT,57,24,3_Pts_T,Jason Smith
+176,3,03:42,VIT,57,24,RD, Feliz
+177,3,03:42,MOG,57,24,3_Pts_T,Lucas Mariano
+178,3,03:55,MOG,57,24,RD, Filipin
+179,3,03:55,VIT,57,24,2_Pts_T,Renan
+180,3,04:13,MOG,57,24,3_Pts_C,Lersch
+181,3,04:13,MOG,54,24,,
+182,3,04:29,VIT,54,24,2_Pts_C,Kojo
+183,3,04:29,VIT,54,22,,
+184,3,04:37,MOG,54,22,LL_Pts_C,Lucas Mariano
+185,3,04:37,MOG,53,22,LL_Pts_T,Lucas Mariano
+186,3,04:37,MOG,53,22,substituicao_sai,Larry 
+187,3,04:37,MOG,53,22,substituicao_entra,Lersch 
+188,3,04:37,VIT,53,22,substituicao_entra,Calvo 
+189,3,04:37,VIT,53,22,substituicao_sai,Taddei 
+190,3,04:37,MOG,53,22,FR,Lucas Mariano
+191,3,04:37,VIT,53,22,FC,Jason Smith
+192,3,05:01,MOG,53,22,FR,Filipin
+193,3,05:01,VIT,53,22,FC_O,Feliz
+194,3,05:17,MOG,53,22,3_Pts_C,Filipin
+195,3,05:17,MOG,50,22,,
+196,3,05:22,MOG,50,22,RD, Lucas Mariano
+197,3,05:22,VIT,50,22,2_Pts_T,Feliz
+198,3,05:28,VIT,50,22,RD, Kojo
+199,3,05:28,MOG,50,22,2_Pts_T,Larry
+200,3,05:59,MOG,50,22,RD, Mogi das Cruzes
+201,3,05:59,VIT,50,22,3_Pts_T,Taddei
+202,3,06:05,VIT,50,22,RD, Feliz
+203,3,06:05,MOG,50,22,2_Pts_T,Filipin
+204,3,06:26,VIT,50,22,tempo_tecnico, Vitória
+205,3,06:26,VIT,50,22,ER,
+206,3,06:30,VIT,50,22,RO, Vitória
+207,3,06:30,MOG,50,22,TO,Filipin
+208,3,06:30,VIT,50,22,2_Pts_T,Kojo
+209,3,06:47,MOG,50,22,LL_Pts_C,Larry
+210,3,06:47,MOG,49,22,LL_Pts_C,Larry
+211,3,06:47,MOG,48,22,FR,Larry
+212,3,06:47,VIT,48,22,FC,Taddei
+213,3,06:51,MOG,48,22,RD, Lucas Mariano
+214,3,06:51,VIT,48,22,3_Pts_T,Taddei
+215,3,06:56,VIT,48,22,substituicao_entra,Jason Smith 
+216,3,06:56,VIT,48,22,substituicao_sai,Calvo 
+217,3,06:56,VIT,48,22,RO, Vitória
+218,3,06:56,VIT,48,22,2_Pts_T,Calvo
+219,3,07:20,MOG,48,22,2_Pts_C,Lucas Mariano
+220,3,07:43,VIT,46,22,2_Pts_C,Renan
+221,3,07:43,VIT,46,20,,
+222,3,07:52,VIT,46,20,RO, Feliz
+223,3,07:52,VIT,46,20,2_Pts_T,Calvo
+224,3,08:10,VIT,46,20,substituicao_entra,Feliz 
+225,3,08:10,VIT,46,20,substituicao_sai,Nilson 
+226,3,08:10,VIT,46,20,FR,Kojo
+227,3,08:10,MOG,46,20,FC,Filipin
+228,3,08:13,VIT,46,20,BR,Kojo
+229,3,08:13,MOG,46,20,ER,Tyrone 
+230,3,08:22,MOG,46,20,RO, Lucas Mariano
+231,3,08:22,MOG,46,20,3_Pts_T,Filipin
+232,3,08:34,MOG,46,20,RD, Lucas Mariano
+233,3,08:34,MOG,46,20,TO,Lucas Mariano
+234,3,08:34,VIT,46,20,2_Pts_T,Calvo
+235,3,08:35,VIT,46,20,FR,Renan
+236,3,08:35,MOG,46,20,FC,Tyrone 
+237,3,08:35,VIT,46,20,RO, Renan
+238,3,08:35,VIT,46,20,3_Pts_T,Calvo
+239,3,08:57,MOG,46,20,2_Pts_C,Filipin
+240,3,08:57,MOG,44,20,,
+241,3,09:04,MOG,44,20,RD, Shamell
+242,3,09:04,VIT,44,20,2_Pts_T,Taddei
+243,3,09:08,VIT,44,20,FR,Taddei
+244,3,09:08,MOG,44,20,FC,Larry
+245,3,09:18,MOG,44,20,3_Pts_C,Filipin
+246,3,09:18,MOG,41,20,,
+247,3,09:35,MOG,41,20,RD, Larry
+248,3,09:35,VIT,41,20,3_Pts_T,Calvo
+249,3,09:47,MOG,41,20,LL_Pts_C,Lucas Mariano
+250,3,09:47,MOG,40,20,FR,Lucas Mariano
+251,3,09:47,VIT,40,20,FC,Nilson
+252,3,09:56,MOG,40,20,EN,Lucas Mariano
+253,3,09:56,MOG,38,20,,
+254,2,00:00,NaN.,38,20,fim_quarto, 
+255,2,00:01,VIT,38,20,3_Pts_T,Taddei
+256,2,00:23,MOG,38,20,2_Pts_C,Gerson
+257,2,00:28,MOG,36,20,RO, Gerson
+258,2,00:28,MOG,36,20,2_Pts_T,Shamell
+259,2,00:55,VIT,36,20,2_Pts_C,Feliz
+260,2,01:10,VIT,36,18,RD, Feliz
+261,2,01:10,MOG,36,18,2_Pts_T,Gerson
+262,2,01:19,MOG,36,18,RD, Larry
+263,2,01:19,VIT,36,18,3_Pts_T,Jason Smith
+264,2,01:31,VIT,36,18,RD, Nilson
+265,2,01:31,MOG,36,18,2_Pts_T,Tyrone 
+266,2,01:43,VIT,36,18,2_Pts_C,Kojo
+267,2,02:02,MOG,36,16,LL_Pts_C,Filipin
+268,2,02:02,MOG,35,16,LL_Pts_C,Filipin
+269,2,02:02,MOG,34,16,FR,Filipin
+270,2,02:02,VIT,34,16,FC,Feliz
+271,2,02:04,MOG,34,16,RO, Filipin
+272,2,02:04,MOG,34,16,3_Pts_T,Shamell
+273,2,02:30,MOG,34,16,RD, Tyrone 
+274,2,02:30,VIT,34,16,3_Pts_T,Kojo
+275,2,02:48,MOG,34,16,substituicao_sai,Jimmy 
+276,2,02:48,MOG,34,16,substituicao_entra,Shamell 
+277,2,02:48,VIT,34,16,substituicao_entra,Nilson 
+278,2,02:48,VIT,34,16,substituicao_sai,Calvo 
+279,2,02:48,MOG,34,16,substituicao_sai,Paulão 
+280,2,02:48,MOG,34,16,substituicao_entra,Gerson 
+281,2,02:48,MOG,34,16,LL_Pts_C,Paulão
+282,2,02:48,MOG,33,16,substituicao_sai,Lersch 
+283,2,02:48,MOG,33,16,substituicao_entra,Larry 
+284,2,02:48,VIT,33,16,substituicao_sai,Jairo 
+285,2,02:48,VIT,33,16,substituicao_entra,Taddei 
+286,2,02:48,MOG,33,16,substituicao_sai,Wagner 
+287,2,02:48,MOG,33,16,substituicao_entra,Tyrone  
+288,2,02:48,MOG,33,16,FR,Paulão
+289,2,02:48,VIT,33,16,FC,Jason Smith
+290,2,02:48,MOG,33,16,2_Pts_C,Paulão
+291,2,02:48,MOG,31,16,,
+292,2,03:04,MOG,31,16,RO, Paulão
+293,2,03:04,MOG,31,16,3_Pts_T,Jimmy
+294,2,03:10,MOG,31,16,BR,Jimmy
+295,2,03:10,VIT,31,16,ER,Kojo
+296,2,03:16,VIT,31,16,RD, Jason Smith
+297,2,03:16,VIT,31,16,TO,Feliz
+298,2,03:16,MOG,31,16,2_Pts_T,Paulão
+299,2,03:34,VIT,31,16,2_Pts_C,Kojo
+300,2,03:34,VIT,31,14,,
+301,2,03:53,MOG,31,14,2_Pts_C,Jimmy
+302,2,03:53,MOG,29,14,,
+303,2,03:58,MOG,29,14,BR,Filipin
+304,2,03:58,VIT,29,14,ER,Calvo
+305,2,04:12,VIT,29,14,substituicao_sai,Rafinha 
+306,2,04:12,VIT,29,14,substituicao_entra,Kojo 
+307,2,04:12,VIT,29,14,FR,Calvo
+308,2,04:12,MOG,29,14,FC_O,Wagner
+309,2,04:26,MOG,29,14,RD, Wagner
+310,2,04:26,VIT,29,14,3_Pts_T,Jairo
+311,2,04:44,MOG,29,14,3_Pts_C,Filipin
+312,2,04:44,MOG,26,14,,
+313,2,04:53,VIT,26,14,substituicao_entra,Jason Smith 
+314,2,04:53,VIT,26,14,substituicao_sai,Taddei 
+315,2,04:53,MOG,26,14,FR,Filipin
+316,2,04:53,VIT,26,14,FC,Taddei
+317,2,05:02,MOG,26,14,,
+318,2,05:02,VIT,26,14,ER,Calvo
+319,2,05:08,VIT,26,14,substituicao_sai,Renan 
+320,2,05:08,VIT,26,14,substituicao_entra,Jairo 
+321,2,05:08,VIT,26,14,FR,Taddei
+322,2,05:08,MOG,26,14,FC,Lersch
+323,2,05:23,MOG,26,14,3_Pts_C,Filipin
+324,2,05:23,MOG,23,14,,
+325,2,05:28,MOG,23,14,RD, Paulão
+326,2,05:28,VIT,23,14,2_Pts_T,Taddei
+327,2,05:32,VIT,23,14,RO, Taddei
+328,2,05:32,VIT,23,14,3_Pts_T,Rafinha
+329,2,05:56,VIT,23,14,RD, Taddei
+330,2,05:56,MOG,23,14,2_Pts_T,Wagner
+331,2,06:04,MOG,23,14,FR,Wagner
+332,2,06:04,VIT,23,14,FC,Taddei
+333,2,06:04,MOG,23,14,RO, Wagner
+334,2,06:04,MOG,23,14,3_Pts_T,Lersch
+335,2,06:28,VIT,23,14,substituicao_sai,Kojo 
+336,2,06:28,VIT,23,14,substituicao_entra,Rafinha 
+337,2,06:28,MOG,23,14,FR,Filipin
+338,2,06:28,VIT,23,14,FC,Kojo
+339,2,06:30,MOG,23,14,RD, Filipin
+340,2,06:30,VIT,23,14,2_Pts_T,Calvo
+341,2,06:43,VIT,23,14,substituicao_entra,Taddei 
+342,2,06:43,VIT,23,14,substituicao_sai,Jason Smith 
+343,2,06:43,MOG,23,14,2_Pts_C,Lersch
+344,2,06:43,MOG,21,14,,
+345,2,06:47,MOG,21,14,BR,Jimmy
+346,2,06:47,VIT,21,14,ER,Jason Smith
+347,2,07:04,MOG,21,14,2_Pts_C,Jimmy
+348,2,07:04,MOG,19,14,RO, Jimmy
+349,2,07:04,MOG,19,14,3_Pts_T,Filipin
+350,2,07:10,MOG,19,14,RO, Mogi das Cruzes
+351,2,07:10,VIT,19,14,TO,Renan
+352,2,07:10,MOG,19,14,2_Pts_T,Wagner
+353,2,07:30,MOG,19,14,RD, Filipin
+354,2,07:30,VIT,19,14,2_Pts_T,Feliz
+355,2,08:08,VIT,19,14,tempo_tecnico, Vitória
+356,2,08:08,MOG,19,14,ER,Lersch
+357,2,08:11,MOG,19,14,RD, Jimmy
+358,2,08:11,VIT,19,14,2_Pts_T,Calvo
+359,2,08:11,VIT,19,14,substituicao_entra,Kojo 
+360,2,08:11,VIT,19,14,substituicao_sai,Rafinha 
+361,2,08:11,VIT,19,14,FR,Calvo
+362,2,08:11,MOG,19,14,FC,Jimmy
+363,2,08:16,VIT,19,14,RD, Calvo
+364,2,08:16,MOG,19,14,2_Pts_T,Paulão
+365,2,08:34,MOG,19,14,RD, Lersch
+366,2,08:34,VIT,19,14,3_Pts_T,Jason Smith
+367,2,08:49,MOG,19,14,3_Pts_C,Jimmy
+368,2,08:49,MOG,16,14,,
+369,2,09:04,MOG,16,14,BR,Wagner
+370,2,09:04,VIT,16,14,ER,Jason Smith
+371,2,09:22,VIT,16,14,FR,Feliz
+372,2,09:22,MOG,16,14,FC,Wagner
+373,2,09:22,MOG,16,14,2_Pts_T,Paulão
+374,2,09:47,MOG,16,14,RD, Paulão
+375,2,09:47,VIT,16,14,3_Pts_T,Rafinha
+376,1,00:00,NaN.,16,14,fim_quarto, 
+377,1,00:02,VIT,16,14,2_Pts_T,Pezão
+378,1,00:02,VIT,16,14,RO, Pezão
+379,1,00:02,VIT,16,14,2_Pts_T,Rafinha
+380,1,00:11,MOG,16,14,substituicao_sai,Paulão 
+381,1,00:11,MOG,16,14,substituicao_entra,Lessa 
+382,1,00:11,MOG,16,14,LL_Pts_C,Paulão
+383,1,00:11,MOG,15,14,LL_Pts_C,Paulão
+384,1,00:11,MOG,14,14,FR,Paulão
+385,1,00:11,VIT,14,14,FC,Pezão
+386,1,00:37,MOG,14,14,RD, Wagner
+387,1,00:37,VIT,14,14,LL_Pts_T,Taddei
+388,1,00:37,VIT,14,14,LL_Pts_C,Taddei
+389,1,00:37,VIT,14,13,substituicao_sai,Calvo 
+390,1,00:37,VIT,14,13,substituicao_entra,Jairo 
+391,1,00:37,VIT,14,13,FR,Taddei
+392,1,00:37,MOG,14,13,FC,Lersch
+393,1,00:37,VIT,14,13,RO, Feliz
+394,1,00:37,VIT,14,13,2_Pts_T,Taddei
+395,1,00:40,MOG,14,13,RD, Wagner
+396,1,00:40,VIT,14,13,2_Pts_T,Feliz
+397,1,00:45,VIT,14,13,substituicao_entra,Rafinha 
+398,1,00:45,VIT,14,13,substituicao_sai,Kojo 
+399,1,00:54,VIT,14,13,substituicao_sai,Renan 
+400,1,00:54,VIT,14,13,substituicao_entra,Feliz 
+401,1,00:54,MOG,14,13,substituicao_sai,Tyrone  
+402,1,00:54,MOG,14,13,substituicao_entra,Wagner 
+403,1,00:54,MOG,14,13,substituicao_sai,Shamell 
+404,1,00:54,MOG,14,13,substituicao_entra,Jimmy 
+405,1,00:54,MOG,14,13,substituicao_sai,Gerson 
+406,1,00:54,MOG,14,13,substituicao_entra,Filipin 
+407,1,00:54,MOG,14,13,substituicao_sai,Larry 
+408,1,00:54,MOG,14,13,substituicao_entra,Lersch 
+409,1,00:54,VIT,14,13,FR,Calvo
+410,1,00:54,MOG,14,13,FC,Gerson
+411,1,00:54,VIT,14,13,RD, Vitória
+412,1,00:54,MOG,14,13,2_Pts_T,Paulão
+413,1,01:08,MOG,14,13,RD, Shamell
+414,1,01:08,VIT,14,13,3_Pts_T,Calvo
+415,1,01:28,MOG,14,13,2_Pts_C,Larry
+416,1,01:28,MOG,12,13,,
+417,1,01:36,MOG,12,13,RD, Gerson
+418,1,01:36,VIT,12,13,3_Pts_T,Pezão
+419,1,02:05,MOG,12,13,2_Pts_C,Tyrone 
+420,1,02:05,MOG,10,13,,
+421,1,02:22,VIT,10,13,3_Pts_C,Calvo
+422,1,02:22,VIT,10,10,,
+423,1,02:37,MOG,10,10,2_Pts_C,Paulão
+424,1,02:57,MOG,8,10,RD, Paulão
+425,1,02:57,VIT,8,10,LL_Pts_T,Kojo
+426,1,02:57,VIT,8,10,LL_Pts_T,Kojo
+427,1,02:57,MOG,8,10,substituicao_sai,Lucas Mariano 
+428,1,02:57,MOG,8,10,substituicao_entra,Paulão 
+429,1,02:57,VIT,8,10,substituicao_sai,Jason Smith 
+430,1,02:57,VIT,8,10,substituicao_entra,Taddei 
+431,1,02:57,VIT,8,10,substituicao_sai,Feliz 
+432,1,02:57,VIT,8,10,substituicao_entra,Pezão 
+433,1,02:57,VIT,8,10,FR,Kojo
+434,1,02:57,MOG,8,10,FC,Larry
+435,1,03:17,VIT,8,10,RD, Calvo
+436,1,03:17,MOG,8,10,3_Pts_T,Lucas Mariano
+437,1,03:30,MOG,8,10,RD, Lucas Mariano
+438,1,03:30,VIT,8,10,3_Pts_T,Kojo
+439,1,03:40,VIT,8,10,RD, Renan
+440,1,03:40,MOG,8,10,2_Pts_T,Lucas Mariano
+441,1,03:57,MOG,8,10,RD, Lucas Mariano
+442,1,03:57,VIT,8,10,2_Pts_T,Renan
+443,1,04:20,MOG,8,10,2_Pts_C,Lucas Mariano
+444,1,04:33,MOG,6,10,RD, Gerson
+445,1,04:33,VIT,6,10,2_Pts_T,Feliz
+446,1,04:58,VIT,6,10,RD, Renan
+447,1,04:58,MOG,6,10,3_Pts_T,Lucas Mariano
+448,1,05:09,VIT,6,10,2_Pts_C,Feliz
+449,1,05:16,VIT,6,8,RO, Feliz
+450,1,05:16,VIT,6,8,2_Pts_T,Renan
+451,1,05:36,VIT,6,8,,
+452,1,05:36,MOG,6,8,ER,Gerson
+453,1,05:51,VIT,6,8,2_Pts_C,Calvo
+454,1,06:10,MOG,6,6,,
+455,1,06:14,MOG,6,6,RD, Tyrone 
+456,1,06:14,VIT,6,6,2_Pts_T,Kojo
+457,1,06:32,VIT,6,6,RD, Calvo
+458,1,06:32,MOG,6,6,LL_Pts_T,Larry
+459,1,06:32,MOG,6,6,LL_Pts_T,Larry
+460,1,06:32,MOG,6,6,FR,Larry
+461,1,06:32,VIT,6,6,FC,Kojo
+462,1,06:41,MOG,6,6,FR,Tyrone 
+463,1,06:41,VIT,6,6,FC_O,Renan
+464,1,06:52,VIT,6,6,RD, Feliz
+465,1,06:52,MOG,6,6,3_Pts_T,Tyrone 
+466,1,07:07,MOG,6,6,FR,Lucas Mariano
+467,1,07:07,VIT,6,6,FC,Calvo
+468,1,07:11,VIT,6,6,3_Pts_C,Calvo
+469,1,07:22,MOG,6,3,2_Pts_C,Gerson
+470,1,07:22,MOG,4,3,,
+471,1,07:35,MOG,4,3,RD, Tyrone 
+472,1,07:35,VIT,4,3,2_Pts_T,Jason Smith
+473,1,07:59,VIT,4,3,RD, Calvo
+474,1,07:59,MOG,4,3,2_Pts_T,Tyrone 
+475,1,08:16,VIT,4,3,LL_Pts_C,Renan
+476,1,08:16,VIT,4,2,LL_Pts_T,Renan
+477,1,08:16,VIT,4,2,FR,Renan
+478,1,08:16,MOG,4,2,FC,Gerson
+479,1,08:26,VIT,4,2,RD, Calvo
+480,1,08:26,MOG,4,2,3_Pts_T,Shamell
+481,1,08:35,VIT,4,2,2_Pts_C,Renan
+482,1,08:35,VIT,4,0,,
+483,1,08:48,MOG,4,0,LL_Pts_C,Lucas Mariano
+484,1,08:48,MOG,3,0,LL_Pts_C,Lucas Mariano
+485,1,08:48,MOG,2,0,FR,Lucas Mariano
+486,1,08:48,VIT,2,0,FC,Feliz
+487,1,09:11,MOG,2,0,RD, Gerson
+488,1,09:11,VIT,2,0,LL_Pts_T,Renan
+489,1,09:11,VIT,2,0,LL_Pts_T,Renan
+490,1,09:11,VIT,2,0,FR,Renan
+491,1,09:11,MOG,2,0,FC,Tyrone 
+492,1,09:27,MOG,2,0,2_Pts_C,Larry
+493,1,09:32,MOG,0,0,RD, Larry
+494,1,09:32,VIT,0,0,3_Pts_T,Calvo
+495,1,09:37,VIT,0,0,BR,Kojo
+496,1,09:37,MOG,0,0,ER,Gerson
+497,1,09:44,MOG,0,0,RO, Gerson
+498,1,09:44,MOG,0,0,3_Pts_T,Lucas Mariano
+499,1,10:00,VIT,0,0,substituicao_entra,Renan 
+500,1,10:00,VIT,0,0,substituicao_entra,Feliz 
+501,1,10:00,VIT,0,0,substituicao_entra,Calvo 
+502,1,10:00,VIT,0,0,substituicao_entra,Jason Smith 
+503,1,10:00,VIT,0,0,substituicao_entra,Kojo 
+504,1,10:00,MOG,0,0,substituicao_entra,Tyrone  
+505,1,10:00,MOG,0,0,substituicao_entra,Lucas Mariano 
+506,1,10:00,MOG,0,0,substituicao_entra,Shamell 
+507,1,10:00,MOG,0,0,substituicao_entra,Gerson 
+508,1,10:00,MOG,0,0,substituicao_entra,Larry 

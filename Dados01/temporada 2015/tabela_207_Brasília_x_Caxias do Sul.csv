@@ -1,0 +1,484 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,95,67,fim_partida, 
+1,4,00:18,BRA,95,67,RD, Luiz
+2,4,00:18,CAX,95,67,3_Pts_T,Diego
+3,4,00:27,BRA,95,67,2_Pts_C,Luiz
+4,4,00:43,BRA,93,67,RD, Pureza
+5,4,00:43,CAX,93,67,3_Pts_T,Tobias
+6,4,00:57,CAX,93,67,RD, Diego
+7,4,00:57,BRA,93,67,LL_Pts_T,Pureza
+8,4,00:57,BRA,93,67,LL_Pts_C,Pureza
+9,4,00:57,BRA,92,67,FR,Pureza
+10,4,00:57,CAX,92,67,FC,R  Stabile
+11,4,01:19,BRA,92,67,FR,J  Campos
+12,4,01:19,CAX,92,67,FC,Diego
+13,4,01:33,CAX,92,67,3_Pts_C,Vinícius
+14,4,01:33,CAX,92,64,,
+15,4,01:33,BRA,92,64,ER,Cipolini
+16,4,01:56,CAX,92,64,2_Pts_C,Dida
+17,4,01:56,CAX,92,62,,
+18,4,02:13,CAX,92,62,FR,Diego
+19,4,02:13,BRA,92,62,FC,Luiz
+20,4,02:16,CAX,92,62,RD, Diego
+21,4,02:16,BRA,92,62,3_Pts_T,Luiz
+22,4,02:21,CAX,92,62,substituicao_entra,Vinícius 
+23,4,02:21,CAX,92,62,substituicao_sai,Gustavinho 
+24,4,02:41,CAX,92,62,ER,Tobias
+25,4,02:46,BRA,92,62,2_Pts_C,Luiz
+26,4,02:46,BRA,90,62,,
+27,4,02:47,BRA,90,62,tempo_tecnico, Brasília
+28,4,02:47,CAX,90,62,3_Pts_C,Diego
+29,4,02:47,CAX,90,59,,
+30,4,02:47,CAX,90,59,BR,Tobias
+31,4,02:47,BRA,90,59,ER,Cipolini
+32,4,02:47,CAX,90,59,EN,Diego
+33,4,02:47,CAX,90,57,BR,Diego
+34,4,02:47,BRA,90,57,ER,J  Campos
+35,4,02:56,BRA,90,57,substituicao_entra,Luiz 
+36,4,02:56,BRA,90,57,substituicao_sai,Arthur 
+37,4,03:16,CAX,90,57,2_Pts_C,Gustavinho
+38,4,03:30,BRA,90,55,2_Pts_C,J  Campos
+39,4,03:53,BRA,88,55,,
+40,4,03:53,CAX,88,55,ER,Dida
+41,4,04:09,CAX,88,55,LL_Pts_C,Dida
+42,4,04:09,CAX,88,54,LL_Pts_T,Dida
+43,4,04:09,CAX,88,54,FR,Dida
+44,4,04:09,BRA,88,54,FC_A,Arthur
+45,4,04:21,CAX,88,54,RD, Diego
+46,4,04:21,CAX,88,54,3_Pts_T,Gustavinho
+47,4,04:36,CAX,88,54,FR,Dida
+48,4,04:36,BRA,88,54,FC_O,Coimbra
+49,4,04:41,CAX,88,54,substituicao_entra,Diego 
+50,4,04:41,CAX,88,54,substituicao_sai,Alex 
+51,4,04:41,BRA,88,54,FR,Arthur
+52,4,04:41,CAX,88,54,FC,Alex
+53,4,04:59,BRA,88,54,RD, Coimbra
+54,4,04:59,CAX,88,54,2_Pts_T,Gustavinho
+55,4,05:20,BRA,88,54,2_Pts_C,Arthur
+56,4,05:47,CAX,86,54,3_Pts_C,Tobias
+57,4,05:47,CAX,86,51,,
+58,4,05:56,CAX,86,51,RD, R  Stabile
+59,4,05:56,BRA,86,51,3_Pts_T,J  Campos
+60,4,06:13,BRA,86,51,RD, Coimbra
+61,4,06:13,CAX,86,51,3_Pts_T,Alex
+62,4,06:24,BRA,86,51,3_Pts_C,Cipolini
+63,4,06:24,BRA,83,51,,
+64,4,06:36,BRA,83,51,RD, Cipolini
+65,4,06:36,CAX,83,51,2_Pts_T,Tobias
+66,4,06:53,CAX,83,51,RD, R  Stabile
+67,4,06:53,BRA,83,51,2_Pts_T,Cipolini
+68,4,06:54,BRA,83,51,substituicao_entra,Coimbra 
+69,4,06:54,BRA,83,51,substituicao_sai,G  Giovannoni 
+70,4,06:54,BRA,83,51,FR,Cipolini
+71,4,06:54,CAX,83,51,FC,Alex
+72,4,07:00,BRA,83,51,RO, Cipolini
+73,4,07:00,BRA,83,51,2_Pts_T,Arthur
+74,4,07:22,BRA,83,51,RD, Cipolini
+75,4,07:22,CAX,83,51,3_Pts_T,R  Stabile
+76,4,07:39,CAX,83,51,,
+77,4,07:39,BRA,83,51,ER,Arthur
+78,4,07:42,BRA,83,51,RD, Brasília
+79,4,07:42,CAX,83,51,3_Pts_T,Tobias
+80,4,07:49,CAX,83,51,RO, Caxias do Sul
+81,4,07:49,BRA,83,51,TO,Cipolini
+82,4,07:49,CAX,83,51,2_Pts_T,Alex
+83,4,07:49,BRA,83,51,substituicao_sai,Diego 
+84,4,07:49,BRA,83,51,substituicao_entra,Pureza 
+85,4,07:49,CAX,83,51,RO, Alex
+86,4,07:49,BRA,83,51,TO,Cipolini
+87,4,07:49,CAX,83,51,2_Pts_T,Alex
+88,4,08:07,CAX,83,51,substituicao_sai,Betinho 
+89,4,08:07,CAX,83,51,substituicao_entra,Tobias 
+90,4,08:07,CAX,83,51,substituicao_sai,Vinícius 
+91,4,08:07,CAX,83,51,substituicao_entra,Gustavinho 
+92,4,08:07,CAX,83,51,tempo_tecnico, Caxias do Sul
+93,4,08:07,BRA,83,51,2_Pts_C,J  Campos
+94,4,08:07,BRA,81,51,,
+95,4,08:13,BRA,81,51,RD, Cipolini
+96,4,08:13,BRA,81,51,TO,Diego
+97,4,08:13,CAX,81,51,2_Pts_T,Betinho
+98,4,08:38,BRA,81,51,3_Pts_C,G  Giovannoni
+99,4,08:38,BRA,78,51,,
+100,4,08:51,BRA,78,51,RD, G  Giovannoni
+101,4,08:51,CAX,78,51,3_Pts_T,Alex
+102,4,09:03,BRA,78,51,2_Pts_C,Arthur
+103,4,09:11,BRA,76,51,RD, Arthur
+104,4,09:11,BRA,76,51,TO,J  Campos
+105,4,09:18,CAX,76,51,3_Pts_T,Vinícius
+106,4,09:37,BRA,76,51,2_Pts_C,Cipolini
+107,4,09:42,BRA,74,51,RO, Cipolini
+108,4,09:42,BRA,74,51,3_Pts_T,Arthur
+109,4,09:47,BRA,74,51,FR,J  Campos
+110,4,09:47,CAX,74,51,FC,Vinícius
+111,3,00:00,NaN.,74,51,fim_quarto, 
+112,3,00:01,CAX,74,51,3_Pts_T,Betinho
+113,3,00:29,BRA,74,51,3_Pts_C,G  Giovannoni
+114,3,00:29,CAX,71,51,LL_Pts_C,Alex
+115,3,00:29,CAX,71,50,LL_Pts_C,Alex
+116,3,00:29,BRA,71,49,substituicao_entra,G  Giovannoni 
+117,3,00:29,BRA,71,49,substituicao_sai,Coimbra 
+118,3,00:29,CAX,71,49,FR,Alex
+119,3,00:29,BRA,71,49,FC,Arthur
+120,3,00:56,BRA,71,49,2_Pts_C,J  Campos
+121,3,01:07,BRA,69,49,RO, Diego
+122,3,01:07,BRA,69,49,2_Pts_T,Arthur
+123,3,01:25,CAX,69,49,2_Pts_C,Dida
+124,3,01:40,CAX,69,47,LL_Pts_C,R  Stabile
+125,3,01:40,CAX,69,46,LL_Pts_C,R  Stabile
+126,3,01:40,BRA,69,45,substituicao_sai,Deryk 
+127,3,01:40,BRA,69,45,substituicao_entra,Arthur 
+128,3,01:40,CAX,69,45,FR,R  Stabile
+129,3,01:40,BRA,69,45,FC_A,Cipolini
+130,3,01:53,BRA,69,45,EN,Cipolini
+131,3,01:53,BRA,67,45,,
+132,3,01:58,BRA,67,45,BR,Deryk
+133,3,01:58,CAX,67,45,ER,Betinho
+134,3,02:10,BRA,67,45,2_Pts_C,Coimbra
+135,3,02:10,BRA,65,45,,
+136,3,02:31,CAX,65,45,3_Pts_C,Alex
+137,3,02:31,CAX,65,42,,
+138,3,02:44,BRA,65,42,LL_Pts_C,Coimbra
+139,3,02:44,CAX,64,42,substituicao_entra,Betinho 
+140,3,02:44,CAX,64,42,substituicao_entra,Vinícius 
+141,3,02:44,CAX,64,42,substituicao_sai,Guto 
+142,3,02:44,CAX,64,42,substituicao_sai,Gustavinho 
+143,3,02:44,BRA,64,42,,
+144,3,02:44,BRA,64,42,2_Pts_C,Coimbra
+145,3,02:44,BRA,62,42,FR,Coimbra
+146,3,02:44,CAX,62,42,FC,Dida
+147,3,02:57,BRA,62,42,RO, Coimbra
+148,3,02:57,BRA,62,42,3_Pts_T,Diego
+149,3,03:06,BRA,62,42,RD, J  Campos
+150,3,03:06,CAX,62,42,2_Pts_T,Gustavinho
+151,3,03:10,CAX,62,42,BR,Gustavinho
+152,3,03:10,BRA,62,42,ER,J  Campos
+153,3,03:23,BRA,62,42,RD, Coimbra
+154,3,03:23,CAX,62,42,3_Pts_T,Guto
+155,3,03:32,CAX,62,42,RD, R  Stabile
+156,3,03:32,BRA,62,42,2_Pts_T,Diego
+157,3,03:49,BRA,62,42,RD, Deryk
+158,3,03:49,CAX,62,42,3_Pts_T,Gustavinho
+159,3,04:05,BRA,62,42,2_Pts_C,Diego
+160,3,04:21,BRA,60,42,substituicao_entra,Diego 
+161,3,04:21,BRA,60,42,substituicao_sai,Pilar 
+162,3,04:21,CAX,60,42,LL_Pts_C,Alex
+163,3,04:21,CAX,60,41,LL_Pts_C,Alex
+164,3,04:21,CAX,60,40,LL_Pts_C,Alex
+165,3,04:21,CAX,60,39,FR,Alex
+166,3,04:21,BRA,60,39,FC,Pilar
+167,3,04:37,CAX,60,39,RD, R  Stabile
+168,3,04:37,BRA,60,39,3_Pts_T,J  Campos
+169,3,04:44,BRA,60,39,substituicao_entra,Cipolini 
+170,3,04:44,BRA,60,39,substituicao_sai,G  Giovannoni 
+171,3,04:44,CAX,60,39,substituicao_entra,Dida 
+172,3,04:44,CAX,60,39,substituicao_sai,Marcão 
+173,3,04:44,BRA,60,39,FR,Deryk
+174,3,04:44,CAX,60,39,FC,Gustavinho
+175,3,04:47,BRA,60,39,BR,Deryk
+176,3,04:47,CAX,60,39,ER,Marcão
+177,3,05:14,BRA,60,39,3_Pts_C,J  Campos
+178,3,05:14,BRA,57,39,,
+179,3,05:19,BRA,57,39,BR,Deryk
+180,3,05:19,CAX,57,39,ER,Gustavinho
+181,3,05:32,CAX,57,39,FR,Guto
+182,3,05:32,BRA,57,39,FC,Deryk
+183,3,05:59,BRA,57,39,3_Pts_C,Deryk
+184,3,05:59,BRA,54,39,,
+185,3,06:10,BRA,54,39,substituicao_entra,J  Campos 
+186,3,06:10,BRA,54,39,substituicao_sai,Fulvio 
+187,3,06:10,CAX,54,39,substituicao_entra,Alex 
+188,3,06:10,CAX,54,39,substituicao_sai,Betinho 
+189,3,06:13,CAX,54,39,tempo_tecnico, Caxias do Sul
+190,3,06:13,BRA,54,39,FR,Fulvio
+191,3,06:13,CAX,54,39,FC,Betinho
+192,3,06:16,BRA,54,39,RD, G  Giovannoni
+193,3,06:16,CAX,54,39,3_Pts_T,Betinho
+194,3,06:29,BRA,54,39,2_Pts_C,G  Giovannoni
+195,3,06:41,CAX,52,39,ER,
+196,3,06:55,BRA,52,39,substituicao_entra,Coimbra 
+197,3,06:55,BRA,52,39,substituicao_sai,Ronald 
+198,3,06:55,CAX,52,39,FR,Gustavinho
+199,3,06:55,BRA,52,39,FC,Fulvio
+200,3,07:01,BRA,52,39,,
+201,3,07:16,BRA,52,39,3_Pts_C,G  Giovannoni
+202,3,07:25,BRA,49,39,RD, Pilar
+203,3,07:25,CAX,49,39,3_Pts_T,Guto
+204,3,07:28,CAX,49,39,RO, Gustavinho
+205,3,07:28,CAX,49,39,2_Pts_T,R  Stabile
+206,3,07:44,CAX,49,39,RD, Betinho
+207,3,07:44,BRA,49,39,LL_Pts_T,Ronald
+208,3,07:44,BRA,49,39,,
+209,3,07:44,BRA,49,39,2_Pts_C,Ronald
+210,3,07:44,BRA,47,39,FR,Ronald
+211,3,07:44,CAX,47,39,FC,Betinho
+212,3,07:54,BRA,47,39,RD, Pilar
+213,3,07:54,CAX,47,39,2_Pts_T,Marcão
+214,3,08:09,BRA,47,39,3_Pts_C,G  Giovannoni
+215,3,08:09,BRA,44,39,,
+216,3,08:37,CAX,44,39,3_Pts_C,Gustavinho
+217,3,08:37,CAX,44,36,,
+218,3,08:48,CAX,44,36,RD, Betinho
+219,3,08:48,BRA,44,36,3_Pts_T,G  Giovannoni
+220,3,08:57,BRA,44,36,FR,Fulvio
+221,3,08:57,CAX,44,36,FC,R  Stabile
+222,3,09:08,CAX,44,36,3_Pts_C,Gustavinho
+223,3,09:08,CAX,44,33,,
+224,3,09:10,CAX,44,33,FR,Marcão
+225,3,09:10,BRA,44,33,FC,Ronald
+226,3,09:10,CAX,44,33,RO, Caxias do Sul
+227,3,09:10,CAX,44,33,2_Pts_T,Gustavinho
+228,3,09:31,CAX,44,33,RD, Gustavinho
+229,3,09:31,BRA,44,33,2_Pts_T,Ronald
+230,3,09:42,BRA,44,33,RD, Pilar
+231,3,09:42,CAX,44,33,2_Pts_T,Marcão
+232,2,00:00,NaN.,44,33,fim_quarto, 
+233,2,00:04,CAX,44,33,RD, Gustavinho
+234,2,00:04,BRA,44,33,2_Pts_T,Diego
+235,2,00:09,BRA,44,33,RO, Diego
+236,2,00:09,BRA,44,33,3_Pts_T,Deryk
+237,2,00:33,CAX,44,33,EN,Marcão
+238,2,00:33,CAX,44,31,,
+239,2,00:41,BRA,44,31,substituicao_sai,Pilar 
+240,2,00:41,BRA,44,31,substituicao_entra,Diego 
+241,2,00:41,CAX,44,31,FR,Guto
+242,2,00:41,BRA,44,31,FC_O,Pilar
+243,2,00:50,BRA,44,31,RO, Arthur
+244,2,00:50,BRA,44,31,3_Pts_T,Deryk
+245,2,01:00,BRA,44,31,LL_Pts_C,Deryk
+246,2,01:00,BRA,43,31,LL_Pts_C,Deryk
+247,2,01:00,BRA,42,31,LL_Pts_C,Deryk
+248,2,01:00,CAX,41,31,FC_T,Gustavinho
+249,2,01:00,BRA,41,31,FR,Deryk
+250,2,01:00,CAX,41,31,FC,Gustavinho
+251,2,01:18,CAX,41,31,2_Pts_C,Gustavinho
+252,2,01:38,BRA,41,29,ER,Coimbra
+253,2,02:03,BRA,41,29,RD, Coimbra
+254,2,02:03,CAX,41,29,3_Pts_T,Diego
+255,2,02:16,CAX,41,29,,
+256,2,02:16,BRA,41,29,ER,Deryk
+257,2,02:18,BRA,41,29,RD, Arthur
+258,2,02:18,CAX,41,29,LL_Pts_T,Alex
+259,2,02:18,CAX,41,29,LL_Pts_T,Alex
+260,2,02:18,CAX,41,29,substituicao_entra,Gustavinho 
+261,2,02:18,CAX,41,29,substituicao_sai,Vinícius 
+262,2,02:18,CAX,41,29,FR,Alex
+263,2,02:18,BRA,41,29,FC,Arthur
+264,2,02:23,CAX,41,29,RO, Guto
+265,2,02:23,CAX,41,29,3_Pts_T,Alex
+266,2,02:43,BRA,41,29,2_Pts_C,J  Campos
+267,2,02:48,BRA,39,29,RD, J  Campos
+268,2,02:48,CAX,39,29,2_Pts_T,Vinícius
+269,2,03:13,BRA,39,29,substituicao_entra,Deryk 
+270,2,03:13,BRA,39,29,substituicao_entra,J  Campos 
+271,2,03:13,BRA,39,29,substituicao_sai,G  Giovannoni 
+272,2,03:13,BRA,39,29,substituicao_sai,Fulvio 
+273,2,03:14,CAX,39,29,tempo_tecnico, Caxias do Sul
+274,2,03:14,BRA,39,29,2_Pts_C,G  Giovannoni
+275,2,03:34,BRA,37,29,RD, Arthur
+276,2,03:34,CAX,37,29,3_Pts_T,Vinícius
+277,2,03:45,CAX,37,29,RD, Vinícius
+278,2,03:45,BRA,37,29,3_Pts_T,G  Giovannoni
+279,2,03:52,BRA,37,29,RD, G  Giovannoni
+280,2,03:52,CAX,37,29,2_Pts_T,Diego
+281,2,04:15,BRA,37,29,LL_Pts_C,G  Giovannoni
+282,2,04:15,BRA,36,29,LL_Pts_C,G  Giovannoni
+283,2,04:15,BRA,35,29,FR,G  Giovannoni
+284,2,04:15,CAX,35,29,FC,Vinícius
+285,2,04:31,CAX,35,29,3_Pts_C,Alex
+286,2,04:40,BRA,35,26,substituicao_entra,Pilar 
+287,2,04:40,BRA,35,26,substituicao_sai,Deryk 
+288,2,04:40,CAX,35,26,substituicao_sai,Betinho 
+289,2,04:40,CAX,35,26,substituicao_entra,Guto 
+290,2,04:55,BRA,35,26,2_Pts_C,G  Giovannoni
+291,2,05:11,CAX,33,26,LL_Pts_C,Betinho
+292,2,05:11,CAX,33,25,LL_Pts_T,Betinho
+293,2,05:11,CAX,33,25,FR,Betinho
+294,2,05:11,BRA,33,25,FC,Fulvio
+295,2,05:11,CAX,33,25,RD, Marcão
+296,2,05:22,BRA,33,25,FR,Arthur
+297,2,05:22,CAX,33,25,FC,Vinícius
+298,2,05:23,BRA,33,25,RD, Arthur
+299,2,05:23,CAX,33,25,2_Pts_T,Marcão
+300,2,05:37,BRA,33,25,substituicao_sai,Ronald 
+301,2,05:37,BRA,33,25,substituicao_entra,Coimbra 
+302,2,05:37,CAX,33,25,FR,Marcão
+303,2,05:37,BRA,33,25,FC_O,Ronald
+304,2,05:43,BRA,33,25,RD, Fulvio
+305,2,05:43,CAX,33,25,2_Pts_T,Marcão
+306,2,06:08,BRA,33,25,substituicao_entra,Arthur 
+307,2,06:08,BRA,33,25,substituicao_sai,J  Campos 
+308,2,06:08,BRA,33,25,ER,
+309,2,06:13,BRA,33,25,RO, Fulvio
+310,2,06:13,BRA,33,25,2_Pts_T,J  Campos
+311,2,06:22,BRA,33,25,RO, J  Campos
+312,2,06:22,BRA,33,25,2_Pts_T,Deryk
+313,2,06:26,BRA,33,25,BR,Deryk
+314,2,06:26,CAX,33,25,ER,Vinícius
+315,2,06:37,BRA,33,25,2_Pts_C,G  Giovannoni
+316,2,06:51,CAX,31,25,substituicao_entra,Marcão 
+317,2,06:51,CAX,31,25,substituicao_sai,Dida 
+318,2,06:51,BRA,31,25,FR,Ronald
+319,2,06:51,CAX,31,25,FC,Dida
+320,2,07:01,CAX,31,25,2_Pts_C,Alex
+321,2,07:12,CAX,31,23,FR,Diego
+322,2,07:12,BRA,31,23,FC,G  Giovannoni
+323,2,07:13,BRA,31,23,FR,G  Giovannoni
+324,2,07:13,CAX,31,23,FC,Diego
+325,2,07:13,CAX,31,23,FR,Diego
+326,2,07:13,BRA,31,23,FC,G  Giovannoni
+327,2,07:23,CAX,31,23,FR,Vinícius
+328,2,07:23,BRA,31,23,FC,Fulvio
+329,2,07:26,CAX,31,23,RD, Diego
+330,2,07:26,BRA,31,23,2_Pts_T,G  Giovannoni
+331,2,07:41,CAX,31,23,2_Pts_C,Dida
+332,2,07:57,BRA,31,21,3_Pts_C,Deryk
+333,2,07:57,BRA,28,21,,
+334,2,08:16,CAX,28,21,ER,Diego
+335,2,08:22,CAX,28,21,RO, Betinho
+336,2,08:22,CAX,28,21,2_Pts_T,Betinho
+337,2,08:35,CAX,28,21,RO, Caxias do Sul
+338,2,08:35,BRA,28,21,TO,J  Campos
+339,2,08:35,CAX,28,21,2_Pts_T,Alex
+340,2,08:46,CAX,28,21,RD, Diego
+341,2,08:46,BRA,28,21,3_Pts_T,J  Campos
+342,2,09:01,CAX,28,21,2_Pts_C,Dida
+343,2,09:23,BRA,28,19,substituicao_sai,Coimbra 
+344,2,09:23,BRA,28,19,substituicao_entra,Ronald 
+345,2,09:23,BRA,28,19,LL_Pts_C,Coimbra
+346,2,09:23,BRA,27,19,substituicao_entra,G  Giovannoni 
+347,2,09:23,BRA,27,19,substituicao_entra,Fulvio 
+348,2,09:23,BRA,27,19,substituicao_sai,Cipolini 
+349,2,09:23,BRA,27,19,substituicao_sai,Diego 
+350,2,09:23,BRA,27,19,,
+351,2,09:23,BRA,27,19,2_Pts_C,Coimbra
+352,2,09:23,BRA,25,19,FR,Coimbra
+353,2,09:23,CAX,25,19,FC,Dida
+354,2,09:37,CAX,25,19,2_Pts_C,Dida
+355,2,09:37,CAX,25,17,,
+356,2,09:49,CAX,25,17,RD, Diego
+357,2,09:49,BRA,25,17,3_Pts_T,Cipolini
+358,1,00:00,NaN.,25,17,fim_quarto, 
+359,1,00:05,BRA,25,17,3_Pts_C,J  Campos
+360,1,00:05,BRA,22,17,,
+361,1,00:22,BRA,22,17,FR,Coimbra
+362,1,00:22,CAX,22,17,FC_O,Dida
+363,1,00:39,CAX,22,17,BR,Dida
+364,1,00:39,BRA,22,17,ER,Deryk
+365,1,00:42,CAX,22,17,LL_Pts_C,Diego
+366,1,00:42,CAX,22,16,LL_Pts_C,Diego
+367,1,00:42,CAX,22,15,FR,Diego
+368,1,00:42,BRA,22,15,FC,Coimbra
+369,1,00:49,CAX,22,15,RD, Diego
+370,1,00:49,BRA,22,15,2_Pts_T,Cipolini
+371,1,00:53,BRA,22,15,RO, Cipolini
+372,1,00:53,BRA,22,15,3_Pts_T,Diego
+373,1,01:09,CAX,22,15,substituicao_entra,Dida 
+374,1,01:09,CAX,22,15,substituicao_sai,Marcão 
+375,1,01:09,CAX,22,15,LL_Pts_C,Marcão
+376,1,01:09,CAX,22,14,,
+377,1,01:09,CAX,22,14,LL_Pts_C,Marcão
+378,1,01:09,BRA,22,13,substituicao_sai,Fulvio 
+379,1,01:09,BRA,22,13,substituicao_entra,Deryk 
+380,1,01:09,CAX,22,13,FR,Marcão
+381,1,01:09,BRA,22,13,FC,Diego
+382,1,01:34,BRA,22,13,2_Pts_C,Cipolini
+383,1,01:37,CAX,20,13,2_Pts_C,Diego
+384,1,01:44,CAX,20,11,RO, Diego
+385,1,01:44,BRA,20,11,TO,Diego
+386,1,01:44,CAX,20,11,2_Pts_T,Diego
+387,1,02:12,BRA,20,11,2_Pts_C,Fulvio
+388,1,02:21,CAX,18,11,substituicao_sai,Guto 
+389,1,02:21,CAX,18,11,substituicao_entra,Alex 
+390,1,02:21,CAX,18,11,LL_Pts_C,Diego
+391,1,02:21,CAX,18,10,,
+392,1,02:21,CAX,18,10,LL_Pts_C,Diego
+393,1,02:21,CAX,18,9,FR,Diego
+394,1,02:21,BRA,18,9,FC,Cipolini
+395,1,02:41,BRA,18,9,substituicao_entra,J  Campos 
+396,1,02:41,BRA,18,9,substituicao_entra,Diego 
+397,1,02:41,BRA,18,9,substituicao_sai,Deryk 
+398,1,02:41,BRA,18,9,substituicao_sai,Pilar 
+399,1,02:41,CAX,18,9,substituicao_sai,Gustavinho 
+400,1,02:41,CAX,18,9,substituicao_entra,Vinícius 
+401,1,02:41,CAX,18,9,tempo_tecnico, Caxias do Sul
+402,1,02:41,BRA,18,9,EN,Pilar
+403,1,02:45,BRA,16,9,BR,Pilar
+404,1,02:45,CAX,16,9,ER,Betinho
+405,1,03:05,BRA,16,9,2_Pts_C,Fulvio
+406,1,03:05,BRA,14,9,,
+407,1,03:11,BRA,14,9,RD, Coimbra
+408,1,03:11,CAX,14,9,2_Pts_T,Gustavinho
+409,1,03:23,CAX,14,9,RO, Diego
+410,1,03:23,CAX,14,9,2_Pts_T,Marcão
+411,1,03:42,BRA,14,9,2_Pts_C,Pilar
+412,1,03:55,BRA,12,9,RD, Coimbra
+413,1,03:55,CAX,12,9,2_Pts_T,Gustavinho
+414,1,04:06,CAX,12,9,substituicao_sai,R  Stabile 
+415,1,04:06,CAX,12,9,substituicao_entra,Diego 
+416,1,04:06,BRA,12,9,,
+417,1,04:06,BRA,12,9,LL_Pts_C,Pilar
+418,1,04:06,BRA,11,9,LL_Pts_T,Pilar
+419,1,04:06,BRA,11,9,substituicao_sai,Ronald 
+420,1,04:06,BRA,11,9,substituicao_entra,Coimbra 
+421,1,04:06,BRA,11,9,FR,Pilar
+422,1,04:06,CAX,11,9,FC,R  Stabile
+423,1,04:22,CAX,11,9,LL_Pts_C,Betinho
+424,1,04:22,CAX,11,8,LL_Pts_C,Betinho
+425,1,04:22,CAX,11,7,FR,Betinho
+426,1,04:22,BRA,11,7,FC,Deryk
+427,1,04:29,BRA,11,7,substituicao_entra,Cipolini 
+428,1,04:29,BRA,11,7,substituicao_sai,G  Giovannoni 
+429,1,04:36,CAX,11,7,RD, Gustavinho
+430,1,04:36,BRA,11,7,2_Pts_T,Deryk
+431,1,04:41,BRA,11,7,BR,Deryk
+432,1,04:41,CAX,11,7,ER,Gustavinho
+433,1,05:06,BRA,11,7,3_Pts_C,Deryk
+434,1,05:06,BRA,8,7,,
+435,1,05:13,BRA,8,7,RD, G  Giovannoni
+436,1,05:13,CAX,8,7,3_Pts_T,Betinho
+437,1,05:32,BRA,8,7,2_Pts_C,Deryk
+438,1,05:40,CAX,6,7,LL_Pts_C,Betinho
+439,1,05:40,CAX,6,6,LL_Pts_C,Betinho
+440,1,05:40,CAX,6,5,FR,Betinho
+441,1,05:40,BRA,6,5,FC,Pilar
+442,1,05:44,CAX,6,5,FR,Marcão
+443,1,05:44,BRA,6,5,FC,Ronald
+444,1,05:59,BRA,6,5,2_Pts_C,Ronald
+445,1,05:59,BRA,4,5,,
+446,1,06:05,CAX,4,5,,
+447,1,06:18,BRA,4,5,2_Pts_C,Fulvio
+448,1,06:18,BRA,2,5,,
+449,1,06:30,CAX,2,5,3_Pts_C,R  Stabile
+450,1,06:30,CAX,2,2,,
+451,1,06:51,CAX,2,2,BR,R  Stabile
+452,1,06:51,BRA,2,2,ER,G  Giovannoni
+453,1,06:58,BRA,2,2,FR,Ronald
+454,1,06:58,CAX,2,2,FC,Betinho
+455,1,07:15,CAX,2,2,2_Pts_C,Gustavinho
+456,1,07:28,CAX,2,0,RD, Betinho
+457,1,07:28,BRA,2,0,3_Pts_T,G  Giovannoni
+458,1,07:38,BRA,2,0,FR,G  Giovannoni
+459,1,07:38,CAX,2,0,FC,R  Stabile
+460,1,07:51,BRA,2,0,RD, Brasília
+461,1,07:51,CAX,2,0,3_Pts_T,R  Stabile
+462,1,08:14,BRA,2,0,2_Pts_C,Ronald
+463,1,08:14,BRA,0,0,,
+464,1,08:24,BRA,0,0,RD, G  Giovannoni
+465,1,08:24,CAX,0,0,2_Pts_T,Marcão
+466,1,08:40,CAX,0,0,RD, Marcão
+467,1,08:40,BRA,0,0,2_Pts_T,Pilar
+468,1,08:52,CAX,0,0,ER,
+469,1,09:18,CAX,0,0,RD, Caxias do Sul
+470,1,09:18,BRA,0,0,2_Pts_T,G  Giovannoni
+471,1,09:36,BRA,0,0,RD, Pilar
+472,1,09:36,CAX,0,0,2_Pts_T,Betinho
+473,1,10:00,CAX,0,0,substituicao_entra,Betinho 
+474,1,10:00,CAX,0,0,substituicao_entra,R  Stabile 
+475,1,10:00,CAX,0,0,substituicao_entra,Guto 
+476,1,10:00,CAX,0,0,substituicao_entra,Marcão 
+477,1,10:00,CAX,0,0,substituicao_entra,Gustavinho 
+478,1,10:00,BRA,0,0,substituicao_entra,G  Giovannoni 
+479,1,10:00,BRA,0,0,substituicao_entra,Fulvio 
+480,1,10:00,BRA,0,0,substituicao_entra,Deryk 
+481,1,10:00,BRA,0,0,substituicao_entra,Ronald 
+482,1,10:00,BRA,0,0,substituicao_entra,Pilar 

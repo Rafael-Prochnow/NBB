@@ -1,0 +1,506 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,103,78,fim_partida, 
+1,4,00:00,FRA,103,78,substituicao_sai,Antonio 
+2,4,00:00,FRA,103,78,substituicao_sai,Mathias 
+3,4,00:00,FRA,103,78,substituicao_sai,Thiaguinho 
+4,4,00:00,FRA,103,78,substituicao_sai,Cauê 
+5,4,00:00,FRA,103,78,substituicao_sai,Schneider 
+6,4,00:00,BAU,103,78,substituicao_sai,Labbate 
+7,4,00:00,BAU,103,78,substituicao_sai,Hettsheimeir 
+8,4,00:00,BAU,103,78,substituicao_sai,Gui Santos 
+9,4,00:00,BAU,103,78,substituicao_sai,Wesley  
+10,4,00:00,BAU,103,78,substituicao_sai,Léo 
+11,4,00:20,BAU,103,78,RD, Gui Santos
+12,4,00:20,FRA,103,78,2_Pts_T,Mathias
+13,4,00:38,BAU,103,78,substituicao_entra,Wesley  
+14,4,00:38,BAU,103,78,substituicao_sai,Stefano 
+15,4,00:38,BAU,103,78,2_Pts_C,Hettsheimeir
+16,4,00:38,BAU,101,78,,
+17,4,00:47,BAU,101,78,RD, Hettsheimeir
+18,4,00:47,FRA,101,78,2_Pts_T,Antonio
+19,4,01:04,BAU,101,78,substituicao_entra,Gui Santos 
+20,4,01:04,BAU,101,78,substituicao_sai,Léo Meindl 
+21,4,01:04,BAU,101,78,LL_Pts_C,Stefano
+22,4,01:04,BAU,100,78,LL_Pts_T,Stefano
+23,4,01:04,BAU,100,78,FR,Stefano
+24,4,01:04,FRA,100,78,FC,Schneider
+25,4,01:08,FRA,100,78,3_Pts_C,Cauê
+26,4,01:08,FRA,100,75,,
+27,4,01:19,FRA,100,75,RD, Mathias
+28,4,01:19,FRA,100,75,TO,Mathias
+29,4,01:19,BAU,100,75,2_Pts_T,Labbate
+30,4,01:28,FRA,100,75,2_Pts_C,Schneider
+31,4,01:28,FRA,100,73,,
+32,4,01:34,FRA,100,73,BR,Antonio
+33,4,01:34,BAU,100,73,ER,Stefano
+34,4,01:47,BAU,100,73,RO, Léo Meindl
+35,4,01:47,BAU,100,73,3_Pts_T,Léo
+36,4,02:04,FRA,100,73,LL_Pts_C,Schneider
+37,4,02:04,FRA,100,72,LL_Pts_C,Schneider
+38,4,02:04,FRA,100,71,FR,Schneider
+39,4,02:04,BAU,100,71,FC,Léo Meindl
+40,4,02:18,FRA,100,71,FR,Cauê
+41,4,02:18,BAU,100,71,FC,Labbate
+42,4,02:18,FRA,100,71,BR,Cauê
+43,4,02:18,BAU,100,71,ER,Léo Meindl
+44,4,02:37,BAU,100,71,RD, Hettsheimeir
+45,4,02:37,FRA,100,71,3_Pts_T,Thiaguinho
+46,4,02:56,BAU,100,71,,
+47,4,02:56,BAU,100,71,LL_Pts_C,Labbate
+48,4,02:56,BAU,99,71,LL_Pts_C,Labbate
+49,4,02:58,BAU,98,71,FR,Labbate
+50,4,02:58,FRA,98,71,FC,Thiaguinho
+51,4,03:00,BAU,98,71,BR,Léo
+52,4,03:00,FRA,98,71,ER,Schneider
+53,4,03:10,BAU,98,71,substituicao_entra,Stefano 
+54,4,03:10,BAU,98,71,substituicao_sai,Paulinho Boracini 
+55,4,03:10,FRA,98,71,FR,Mathias
+56,4,03:10,BAU,98,71,FC,Labbate
+57,4,03:18,FRA,98,71,FR,Antonio
+58,4,03:18,BAU,98,71,FC_O,Hettsheimeir
+59,4,03:26,BAU,98,71,substituicao_entra,Léo 
+60,4,03:26,BAU,98,71,substituicao_sai,Alex Garcia 
+61,4,03:26,BAU,98,71,RD, Bauru
+62,4,03:26,FRA,98,71,3_Pts_T,Schneider
+63,4,03:42,FRA,98,71,BR,Mathias
+64,4,03:42,BAU,98,71,ER,Hettsheimeir
+65,4,03:58,BAU,98,71,RD, Hettsheimeir
+66,4,03:58,FRA,98,71,2_Pts_T,Cauê
+67,4,04:13,FRA,98,71,substituicao_entra,Thiaguinho 
+68,4,04:13,FRA,98,71,substituicao_sai,Matheus 
+69,4,04:17,FRA,98,71,tempo_tecnico, Franca
+70,4,04:17,BAU,98,71,3_Pts_C,Hettsheimeir
+71,4,04:17,BAU,95,71,,
+72,4,04:28,BAU,95,71,RD, Labbate
+73,4,04:28,FRA,95,71,2_Pts_T,Mathias
+74,4,04:41,FRA,95,71,RD, Franca
+75,4,04:41,BAU,95,71,2_Pts_T,Alex Garcia
+76,4,04:54,BAU,95,71,substituicao_entra,Hettsheimeir 
+77,4,04:54,BAU,95,71,substituicao_sai,Jefferson W  
+78,4,04:54,BAU,95,71,substituicao_entra,Labbate 
+79,4,04:54,BAU,95,71,substituicao_sai,Murilo 
+80,4,04:54,BAU,95,71,,
+81,4,04:54,FRA,95,71,ER,Antonio
+82,4,05:11,BAU,95,71,2_Pts_C,Murilo
+83,4,05:11,BAU,93,71,,
+84,4,05:28,FRA,93,71,3_Pts_C,Matheus
+85,4,05:50,BAU,93,68,2_Pts_C,Jefferson W 
+86,4,05:53,BAU,91,68,BR,Jefferson W 
+87,4,05:53,FRA,91,68,ER,Matheus
+88,4,05:59,FRA,91,68,RO, Franca
+89,4,05:59,BAU,91,68,TO,Murilo
+90,4,05:59,FRA,91,68,2_Pts_T,Mathias
+91,4,06:15,BAU,91,68,2_Pts_C,Alex Garcia
+92,4,06:15,BAU,89,68,,
+93,4,06:24,BAU,89,68,RO, Murilo
+94,4,06:24,BAU,89,68,3_Pts_T,Jefferson W 
+95,4,06:42,FRA,89,68,2_Pts_C,Mathias
+96,4,06:42,FRA,89,66,,
+97,4,06:59,BAU,89,66,3_Pts_C,Léo Meindl
+98,4,06:59,BAU,86,66,,
+99,4,07:08,BAU,86,66,RD, Alex Garcia
+100,4,07:08,FRA,86,66,3_Pts_T,Cauê
+101,4,07:24,FRA,86,66,,
+102,4,07:24,BAU,86,66,ER,Alex Garcia
+103,4,07:35,BAU,86,66,LL_Pts_C,Léo Meindl
+104,4,07:35,BAU,85,66,LL_Pts_C,Léo Meindl
+105,4,07:35,BAU,84,66,LL_Pts_C,Léo Meindl
+106,4,07:35,FRA,83,66,substituicao_entra,Schneider 
+107,4,07:35,FRA,83,66,substituicao_sai,Nezinho 
+108,4,07:35,FRA,83,66,FC_T,Nezinho
+109,4,07:35,BAU,83,66,FR,Léo Meindl
+110,4,07:35,FRA,83,66,FC,Mathias
+111,4,07:40,FRA,83,66,substituicao_entra,Antonio 
+112,4,07:40,FRA,83,66,substituicao_sai,Kurtz 
+113,4,07:40,FRA,83,66,substituicao_entra,Mathias 
+114,4,07:40,FRA,83,66,substituicao_sai,Isaac 
+115,4,07:40,BAU,83,66,FR,Paulinho Boracini
+116,4,07:40,FRA,83,66,FC,Nezinho
+117,4,07:44,BAU,83,66,RD, Paulinho Boracini
+118,4,07:44,FRA,83,66,2_Pts_T,Isaac
+119,4,07:51,FRA,83,66,BR,Matheus
+120,4,07:51,BAU,83,66,ER,Paulinho Boracini
+121,4,08:00,BAU,83,66,RD, Murilo
+122,4,08:00,FRA,83,66,3_Pts_T,Nezinho
+123,4,08:04,FRA,83,66,FR,Nezinho
+124,4,08:04,BAU,83,66,FC,Murilo
+125,4,08:13,BAU,83,66,,
+126,4,08:13,BAU,83,66,LL_Pts_C,Murilo
+127,4,08:13,BAU,82,66,LL_Pts_T,Murilo
+128,4,08:13,BAU,82,66,FR,Murilo
+129,4,08:13,FRA,82,66,FC,Matheus
+130,4,08:33,FRA,82,66,2_Pts_C,Kurtz
+131,4,08:33,FRA,82,64,,
+132,4,08:50,BAU,82,64,3_Pts_C,Murilo
+133,4,08:50,BAU,79,64,,
+134,4,09:02,FRA,79,64,EN,Kurtz
+135,4,09:05,FRA,79,62,RO, Kurtz
+136,4,09:05,FRA,79,62,2_Pts_T,Cauê
+137,4,09:14,BAU,79,62,2_Pts_C,Alex Garcia
+138,4,09:29,FRA,77,62,3_Pts_C,Nezinho
+139,4,09:45,BAU,77,59,2_Pts_C,Jefferson W 
+140,4,09:45,BAU,75,59,,
+141,3,00:00,NaN.,75,59,fim_quarto, 
+142,3,00:01,BAU,75,59,2_Pts_T,Jefferson W 
+143,3,00:20,FRA,75,59,2_Pts_C,Kurtz
+144,3,00:20,FRA,75,57,,
+145,3,00:33,FRA,75,57,RD, Kurtz
+146,3,00:33,BAU,75,57,2_Pts_T,Murilo
+147,3,00:51,FRA,75,57,2_Pts_C,Kurtz
+148,3,00:51,FRA,75,55,,
+149,3,00:59,FRA,75,55,BR,Kurtz
+150,3,00:59,BAU,75,55,ER,Jefferson W 
+151,3,01:08,BAU,75,55,RO, Paulinho Boracini
+152,3,01:08,BAU,75,55,2_Pts_T,Léo Meindl
+153,3,01:20,BAU,75,55,RD, Alex Garcia
+154,3,01:20,FRA,75,55,LL_Pts_T,Kurtz
+155,3,01:20,FRA,75,55,,
+156,3,01:20,FRA,75,55,LL_Pts_C,Kurtz
+157,3,01:20,BAU,75,54,substituicao_entra,Jefferson W  
+158,3,01:20,BAU,75,54,substituicao_sai,Wesley  
+159,3,01:20,FRA,75,54,FR,Kurtz
+160,3,01:20,BAU,75,54,FC,Wesley 
+161,3,01:31,BAU,75,54,substituicao_entra,Murilo 
+162,3,01:31,BAU,75,54,substituicao_sai,Robert Day 
+163,3,01:31,BAU,75,54,substituicao_entra,Alex Garcia 
+164,3,01:31,BAU,75,54,substituicao_sai,Hettsheimeir 
+165,3,01:31,FRA,75,54,,
+166,3,01:31,BAU,75,54,ER,Hettsheimeir
+167,3,01:45,FRA,75,54,2_Pts_C,Kurtz
+168,3,01:45,FRA,75,52,,
+169,3,01:58,BAU,75,52,3_Pts_C,Hettsheimeir
+170,3,01:58,BAU,72,52,,
+171,3,02:15,FRA,72,52,3_Pts_C,Nezinho
+172,3,02:22,BAU,72,49,EN,Wesley 
+173,3,02:27,BAU,70,49,RO, Wesley 
+174,3,02:27,BAU,70,49,2_Pts_T,Hettsheimeir
+175,3,02:45,FRA,70,49,LL_Pts_C,Kurtz
+176,3,02:45,FRA,70,48,LL_Pts_T,Kurtz
+177,3,02:45,FRA,70,48,FR,Kurtz
+178,3,02:45,BAU,70,48,FC,Wesley 
+179,3,02:52,FRA,70,48,RD, Bruno
+180,3,02:52,BAU,70,48,2_Pts_T,Wesley 
+181,3,03:01,BAU,70,48,RD, Paulinho Boracini
+182,3,03:01,FRA,70,48,2_Pts_T,Isaac
+183,3,03:08,BAU,70,48,substituicao_sai,Gui Santos 
+184,3,03:08,BAU,70,48,substituicao_entra,Hettsheimeir 
+185,3,03:08,BAU,70,48,substituicao_entra,Paulinho Boracini 
+186,3,03:08,BAU,70,48,substituicao_sai,Hettsheimeir 
+187,3,03:08,FRA,70,48,FR,Nezinho
+188,3,03:08,BAU,70,48,FC,Gui Santos
+189,3,03:15,FRA,70,48,RO, Franca
+190,3,03:15,FRA,70,48,2_Pts_T,Kurtz
+191,3,03:23,FRA,70,48,FR,Bruno
+192,3,03:23,BAU,70,48,FC,Gui Santos
+193,3,03:23,FRA,70,48,BR,Bruno
+194,3,03:23,BAU,70,48,ER,Robert Day
+195,3,03:40,BAU,70,48,FR,Robert Day
+196,3,03:40,FRA,70,48,FC,Kurtz
+197,3,03:40,FRA,70,48,2_Pts_C,Matheus
+198,3,03:50,BAU,70,46,3_Pts_C,Hettsheimeir
+199,3,03:50,BAU,67,46,,
+200,3,04:18,FRA,67,46,3_Pts_C,Nezinho
+201,3,04:18,FRA,67,43,,
+202,3,04:18,BAU,67,43,LL_Pts_C,Gui Santos
+203,3,04:18,BAU,66,43,LL_Pts_T,Gui Santos
+204,3,04:18,BAU,66,43,FR,Gui Santos
+205,3,04:18,FRA,66,43,FC,Nezinho
+206,3,04:42,FRA,66,43,,
+207,3,04:56,FRA,66,43,substituicao_entra,Kurtz 
+208,3,04:56,FRA,66,43,substituicao_sai,Antonio 
+209,3,04:56,FRA,66,43,substituicao_entra,Matheus 
+210,3,04:56,FRA,66,43,substituicao_sai,Mathias 
+211,3,04:58,FRA,66,43,tempo_tecnico, Franca
+212,3,04:58,BAU,66,43,3_Pts_C,Léo Meindl
+213,3,04:58,BAU,63,43,,
+214,3,05:13,BAU,63,43,FR,Robert Day
+215,3,05:13,FRA,63,43,FC_O,Mathias
+216,3,05:18,FRA,63,43,2_Pts_C,Isaac
+217,3,05:28,BAU,63,41,2_Pts_C,Wesley 
+218,3,05:28,BAU,61,41,,
+219,3,05:43,FRA,61,41,3_Pts_C,Nezinho
+220,3,05:43,FRA,61,38,,
+221,3,06:04,BAU,61,38,3_Pts_C,Léo Meindl
+222,3,06:04,BAU,58,38,,
+223,3,06:20,FRA,58,38,LL_Pts_C,Antonio
+224,3,06:20,FRA,58,37,LL_Pts_C,Antonio
+225,3,06:20,FRA,58,36,FR,Antonio
+226,3,06:20,BAU,58,36,FC,Wesley 
+227,3,06:42,BAU,58,36,2_Pts_C,Hettsheimeir
+228,3,06:42,BAU,56,36,,
+229,3,07:01,FRA,56,36,2_Pts_C,Nezinho
+230,3,07:12,BAU,56,34,3_Pts_C,Robert Day
+231,3,07:29,FRA,53,34,2_Pts_C,Isaac
+232,3,07:39,FRA,53,32,RD, Mathias
+233,3,07:39,BAU,53,32,3_Pts_T,Robert Day
+234,3,07:53,BAU,53,32,,
+235,3,07:53,FRA,53,32,ER,Antonio
+236,3,08:00,FRA,53,32,RD, Mathias
+237,3,08:00,BAU,53,32,3_Pts_T,Hettsheimeir
+238,3,08:26,BAU,53,32,RD, Robert Day
+239,3,08:26,FRA,53,32,3_Pts_T,Antonio
+240,3,08:37,FRA,53,32,RD, Antonio
+241,3,08:37,BAU,53,32,2_Pts_T,Wesley 
+242,3,08:45,BAU,53,32,RD, Léo Meindl
+243,3,08:45,FRA,53,32,2_Pts_T,Nezinho
+244,3,09:11,BAU,53,32,2_Pts_C,Gui Santos
+245,3,09:18,BAU,51,32,RD, Robert Day
+246,3,09:18,FRA,51,32,3_Pts_T,Nezinho
+247,3,09:28,FRA,51,32,RD, Nezinho
+248,3,09:28,BAU,51,32,2_Pts_T,Hettsheimeir
+249,3,09:33,BAU,51,32,substituicao_entra,Hettsheimeir 
+250,3,09:33,BAU,51,32,substituicao_sai,Murilo 
+251,3,09:49,BAU,51,32,RD, Léo Meindl
+252,3,09:49,FRA,51,32,2_Pts_T,Mathias
+253,2,00:00,NaN.,51,32,fim_quarto, 
+254,2,00:01,BAU,51,32,2_Pts_T,Paulinho Boracini
+255,2,00:02,BAU,51,32,BR,Paulinho Boracini
+256,2,00:02,FRA,51,32,ER,Schneider
+257,2,00:05,FRA,51,32,RD, Schneider
+258,2,00:05,BAU,51,32,3_Pts_T,Paulinho Boracini
+259,2,00:17,FRA,51,32,2_Pts_C,Kurtz
+260,2,00:17,FRA,51,30,,
+261,2,00:35,BAU,51,30,substituicao_entra,Robert Day 
+262,2,00:35,BAU,51,30,substituicao_sai,Jefferson W  
+263,2,00:35,BAU,51,30,,
+264,2,00:35,BAU,51,30,LL_Pts_C,Murilo
+265,2,00:35,BAU,50,30,LL_Pts_T,Murilo
+266,2,00:35,BAU,50,30,FR,Murilo
+267,2,00:35,FRA,50,30,FC,Isaac
+268,2,00:54,FRA,50,30,2_Pts_C,Kurtz
+269,2,00:57,FRA,50,28,RO, Kurtz
+270,2,00:57,FRA,50,28,3_Pts_T,Isaac
+271,2,01:07,FRA,50,28,RO, Franca
+272,2,01:07,BAU,50,28,TO,Jefferson W 
+273,2,01:07,FRA,50,28,2_Pts_T,Cauê
+274,2,01:13,FRA,50,28,RD, Schneider
+275,2,01:13,BAU,50,28,3_Pts_T,Stefano
+276,2,01:28,BAU,50,28,substituicao_entra,Paulinho Boracini 
+277,2,01:28,BAU,50,28,substituicao_sai,Alex Garcia 
+278,2,01:28,BAU,50,28,RD, Bauru
+279,2,01:28,FRA,50,28,2_Pts_T,Schneider
+280,2,01:43,BAU,50,28,3_Pts_C,Jefferson W 
+281,2,01:43,BAU,47,28,,
+282,2,02:08,FRA,47,28,LL_Pts_C,Kurtz
+283,2,02:08,FRA,47,27,LL_Pts_T,Kurtz
+284,2,02:08,FRA,47,27,FR,Kurtz
+285,2,02:08,BAU,47,27,FC,Jefferson W 
+286,2,02:24,BAU,47,27,2_Pts_C,Jefferson W 
+287,2,02:24,BAU,45,27,,
+288,2,02:36,BAU,45,27,BR,Léo
+289,2,02:36,FRA,45,27,ER,Kurtz
+290,2,02:41,FRA,45,27,RD, Kurtz
+291,2,02:41,BAU,45,27,3_Pts_T,Alex Garcia
+292,2,03:03,FRA,45,27,3_Pts_C,Isaac
+293,2,03:03,FRA,45,24,,
+294,2,03:14,BAU,45,24,3_Pts_C,Jefferson W 
+295,2,03:14,BAU,42,24,,
+296,2,03:28,FRA,42,24,2_Pts_C,Kurtz
+297,2,03:33,FRA,42,22,RO, Kurtz
+298,2,03:33,FRA,42,22,2_Pts_T,Schneider
+299,2,03:57,BAU,42,22,substituicao_entra,Stefano 
+300,2,03:57,BAU,42,22,substituicao_sai,Paulinho Boracini 
+301,2,03:57,FRA,42,22,substituicao_entra,Isaac 
+302,2,03:57,FRA,42,22,substituicao_sai,Mathias 
+303,2,03:57,FRA,42,22,tempo_tecnico, Franca
+304,2,03:57,BAU,42,22,,
+305,2,03:58,BAU,42,22,3_Pts_C,Jefferson W 
+306,2,04:05,BAU,39,22,BR,Jefferson W 
+307,2,04:05,FRA,39,22,ER,Cauê
+308,2,04:15,FRA,39,22,BR,Kurtz
+309,2,04:15,BAU,39,22,ER,Alex Garcia
+310,2,04:34,FRA,39,22,3_Pts_C,Thiaguinho
+311,2,04:34,FRA,39,19,,
+312,2,04:58,BAU,39,19,2_Pts_C,Murilo
+313,2,04:58,BAU,37,19,,
+314,2,05:09,BAU,37,19,RO, Léo
+315,2,05:09,BAU,37,19,3_Pts_T,Jefferson W 
+316,2,05:18,BAU,37,19,RD, Jefferson W 
+317,2,05:18,FRA,37,19,2_Pts_T,Schneider
+318,2,05:35,FRA,37,19,LL_Pts_C,Cauê
+319,2,05:35,BAU,37,18,substituicao_entra,Léo 
+320,2,05:35,BAU,37,18,substituicao_sai,Léo Meindl 
+321,2,05:35,FRA,37,18,FR,Thiaguinho
+322,2,05:35,BAU,37,18,FC,Léo Meindl
+323,2,05:35,BAU,37,18,FC_T,Léo Meindl
+324,2,05:55,BAU,37,18,RD, Murilo
+325,2,05:55,FRA,37,18,2_Pts_T,Kurtz
+326,2,06:19,BAU,37,18,2_Pts_C,Alex Garcia
+327,2,06:19,BAU,35,18,,
+328,2,06:23,BAU,35,18,BR,Jefferson W 
+329,2,06:23,FRA,35,18,ER,Cauê
+330,2,06:37,FRA,35,18,RO, Mathias
+331,2,06:37,FRA,35,18,LL_Pts_T,Mathias
+332,2,06:37,BAU,35,18,substituicao_entra,Jefferson W  
+333,2,06:37,BAU,35,18,substituicao_sai,Hettsheimeir 
+334,2,06:37,FRA,35,18,substituicao_entra,Kurtz 
+335,2,06:37,FRA,35,18,substituicao_sai,Antonio 
+336,2,06:37,FRA,35,18,2_Pts_C,Mathias
+337,2,06:37,FRA,35,16,FR,Mathias
+338,2,06:37,BAU,35,16,FC,Alex Garcia
+339,2,06:44,FRA,35,16,RD, Antonio
+340,2,06:44,BAU,35,16,2_Pts_T,Murilo
+341,2,06:57,BAU,35,16,FR,Paulinho Boracini
+342,2,06:57,FRA,35,16,FC,Thiaguinho
+343,2,07:00,BAU,35,16,RD, Paulinho Boracini
+344,2,07:00,FRA,35,16,2_Pts_T,Cauê
+345,2,07:18,BAU,35,16,2_Pts_C,Léo Meindl
+346,2,07:28,BAU,33,16,RD, Hettsheimeir
+347,2,07:28,FRA,33,16,2_Pts_T,Schneider
+348,2,07:42,BAU,33,16,3_Pts_C,Paulinho Boracini
+349,2,07:42,BAU,30,16,,
+350,2,07:52,FRA,30,16,substituicao_entra,Schneider 
+351,2,07:52,FRA,30,16,substituicao_sai,Bruno 
+352,2,07:52,BAU,30,16,substituicao_entra,Murilo 
+353,2,07:52,BAU,30,16,substituicao_sai,Wesley  
+354,2,07:52,BAU,30,16,substituicao_entra,Alex Garcia 
+355,2,07:52,BAU,30,16,substituicao_sai,Robert Day 
+356,2,07:52,BAU,30,16,FR,Léo Meindl
+357,2,07:52,FRA,30,16,FC,Cauê
+358,2,07:58,FRA,30,16,2_Pts_C,Cauê
+359,2,08:05,FRA,30,14,RO, Cauê
+360,2,08:05,FRA,30,14,2_Pts_T,Bruno
+361,2,08:25,BAU,30,14,ER,Robert Day
+362,2,08:33,BAU,30,14,RO, Paulinho Boracini
+363,2,08:33,BAU,30,14,3_Pts_T,Hettsheimeir
+364,2,08:47,FRA,30,14,2_Pts_C,Cauê
+365,2,08:54,FRA,30,12,RO, Mathias
+366,2,08:54,FRA,30,12,3_Pts_T,Thiaguinho
+367,2,09:06,FRA,30,12,FR,Thiaguinho
+368,2,09:06,BAU,30,12,FC,Paulinho Boracini
+369,2,09:24,BAU,30,12,3_Pts_C,Paulinho Boracini
+370,2,09:24,BAU,27,12,,
+371,2,09:39,BAU,27,12,FR,Wesley 
+372,2,09:39,FRA,27,12,FC,Antonio
+373,2,09:46,BAU,27,12,,
+374,2,09:46,FRA,27,12,ER,Antonio
+375,1,00:00,NaN.,27,12,fim_quarto, 
+376,1,00:02,FRA,27,12,2_Pts_C,Cauê
+377,1,00:04,FRA,27,10,RO, Cauê
+378,1,00:04,FRA,27,10,3_Pts_T,Thiaguinho
+379,1,00:12,FRA,27,10,RD, Thiaguinho
+380,1,00:12,BAU,27,10,3_Pts_T,Hettsheimeir
+381,1,00:26,BAU,27,10,RD, Hettsheimeir
+382,1,00:26,FRA,27,10,2_Pts_T,Mathias
+383,1,00:50,BAU,27,10,2_Pts_C,Paulinho Boracini
+384,1,00:57,BAU,25,10,RD, Paulinho Boracini
+385,1,00:57,FRA,25,10,2_Pts_T,Bruno
+386,1,01:09,FRA,25,10,RO, Mathias
+387,1,01:09,FRA,25,10,2_Pts_T,Cauê
+388,1,01:30,BAU,25,10,LL_Pts_C,Paulinho Boracini
+389,1,01:30,BAU,24,10,LL_Pts_C,Paulinho Boracini
+390,1,01:30,FRA,23,10,substituicao_entra,Thiaguinho 
+391,1,01:30,FRA,23,10,substituicao_sai,Nezinho 
+392,1,01:30,BAU,23,10,FR,Paulinho Boracini
+393,1,01:30,FRA,23,10,FC,Mathias
+394,1,01:39,FRA,23,10,LL_Pts_C,Antonio
+395,1,01:39,FRA,23,9,LL_Pts_C,Antonio
+396,1,01:39,FRA,23,8,FR,Antonio
+397,1,01:39,BAU,23,8,FC,Wesley 
+398,1,01:44,BAU,23,8,2_Pts_C,Wesley 
+399,1,01:44,BAU,21,8,,
+400,1,02:00,FRA,21,8,LL_Pts_C,Bruno
+401,1,02:00,FRA,21,7,LL_Pts_C,Bruno
+402,1,02:00,BAU,21,6,substituicao_entra,Robert Day 
+403,1,02:00,BAU,21,6,substituicao_sai,Alex Garcia 
+404,1,02:00,FRA,21,6,FR,Bruno
+405,1,02:00,BAU,21,6,FC,Léo Meindl
+406,1,02:14,FRA,21,6,RD, Franca
+407,1,02:14,BAU,21,6,2_Pts_T,Wesley 
+408,1,02:14,BAU,21,6,RO, Wesley 
+409,1,02:14,BAU,21,6,2_Pts_T,Alex Garcia
+410,1,02:24,FRA,21,6,substituicao_entra,Cauê 
+411,1,02:24,FRA,21,6,substituicao_sai,Isaac 
+412,1,02:24,BAU,21,6,substituicao_entra,Wesley  
+413,1,02:24,BAU,21,6,substituicao_sai,Jefferson W  
+414,1,02:40,BAU,21,6,RD, Alex Garcia
+415,1,02:40,FRA,21,6,2_Pts_T,Antonio
+416,1,02:47,FRA,21,6,RD, Isaac
+417,1,02:47,BAU,21,6,3_Pts_T,Léo Meindl
+418,1,02:54,BAU,21,6,RO, Paulinho Boracini
+419,1,02:54,BAU,21,6,3_Pts_T,Léo Meindl
+420,1,03:08,BAU,21,6,BR,Léo Meindl
+421,1,03:08,FRA,21,6,ER,Mathias
+422,1,03:17,BAU,21,6,2_Pts_C,Alex Garcia
+423,1,03:33,BAU,19,6,,
+424,1,03:33,FRA,19,6,ER,Nezinho
+425,1,03:43,BAU,19,6,substituicao_entra,Paulinho Boracini 
+426,1,03:43,BAU,19,6,substituicao_sai,Gui Santos 
+427,1,03:43,BAU,19,6,substituicao_entra,Léo Meindl 
+428,1,03:43,BAU,19,6,substituicao_sai,Robert Day 
+429,1,03:43,BAU,19,6,2_Pts_C,Gui Santos
+430,1,03:48,BAU,17,6,RD, Alex Garcia
+431,1,03:48,FRA,17,6,2_Pts_T,Mathias
+432,1,04:05,FRA,17,6,RD, Mathias
+433,1,04:05,BAU,17,6,2_Pts_T,Jefferson W 
+434,1,04:25,BAU,17,6,RD, Bauru
+435,1,04:25,FRA,17,6,2_Pts_T,Antonio
+436,1,04:41,FRA,17,6,substituicao_entra,Antonio 
+437,1,04:41,FRA,17,6,substituicao_sai,Schneider 
+438,1,04:41,BAU,17,6,substituicao_entra,Hettsheimeir 
+439,1,04:41,BAU,17,6,substituicao_sai,Murilo 
+440,1,04:41,FRA,17,6,substituicao_entra,Mathias 
+441,1,04:41,FRA,17,6,substituicao_sai,Kurtz 
+442,1,04:41,FRA,17,6,tempo_tecnico, Franca
+443,1,04:41,BAU,17,6,2_Pts_C,Jefferson W 
+444,1,04:41,BAU,15,6,,
+445,1,04:48,BAU,15,6,RD, Jefferson W 
+446,1,04:48,FRA,15,6,3_Pts_T,Schneider
+447,1,05:09,BAU,15,6,2_Pts_C,Alex Garcia
+448,1,05:09,BAU,13,6,,
+449,1,05:33,FRA,13,6,EN,Kurtz
+450,1,05:33,FRA,13,4,,
+451,1,05:43,FRA,13,4,RD, Kurtz
+452,1,05:43,BAU,13,4,3_Pts_T,Gui Santos
+453,1,05:55,BAU,13,4,RD, Robert Day
+454,1,05:55,FRA,13,4,3_Pts_T,Nezinho
+455,1,06:21,BAU,13,4,3_Pts_C,Alex Garcia
+456,1,06:21,BAU,10,4,,
+457,1,06:38,BAU,10,4,RD, Jefferson W 
+458,1,06:38,FRA,10,4,2_Pts_T,Kurtz
+459,1,06:52,FRA,10,4,RD, Nezinho
+460,1,06:52,BAU,10,4,3_Pts_T,Murilo
+461,1,06:59,BAU,10,4,,
+462,1,06:59,FRA,10,4,ER,Nezinho
+463,1,07:01,FRA,10,4,RD, Nezinho
+464,1,07:01,BAU,10,4,2_Pts_T,Gui Santos
+465,1,07:08,BAU,10,4,BR,Gui Santos
+466,1,07:08,FRA,10,4,ER,Kurtz
+467,1,07:14,FRA,10,4,FR,Nezinho
+468,1,07:14,BAU,10,4,FC,Murilo
+469,1,07:29,BAU,10,4,LL_Pts_C,Alex Garcia
+470,1,07:29,BAU,9,4,LL_Pts_C,Alex Garcia
+471,1,07:29,BAU,8,4,FR,Alex Garcia
+472,1,07:29,FRA,8,4,FC,Kurtz
+473,1,07:36,FRA,8,4,LL_Pts_C,Bruno
+474,1,07:36,FRA,8,3,LL_Pts_C,Bruno
+475,1,07:36,FRA,8,2,FR,Bruno
+476,1,07:36,BAU,8,2,FC,Gui Santos
+477,1,08:00,BAU,8,2,3_Pts_C,Robert Day
+478,1,08:00,BAU,5,2,,
+479,1,08:07,BAU,5,2,BR,Alex Garcia
+480,1,08:07,FRA,5,2,ER,Schneider
+481,1,08:29,BAU,5,2,3_Pts_C,Alex Garcia
+482,1,08:29,BAU,2,2,,
+483,1,08:43,BAU,2,2,RD, Gui Santos
+484,1,08:43,FRA,2,2,3_Pts_T,Schneider
+485,1,08:48,FRA,2,2,FR,Nezinho
+486,1,08:48,BAU,2,2,FC,Gui Santos
+487,1,09:06,BAU,2,2,2_Pts_C,Murilo
+488,1,09:06,BAU,0,2,,
+489,1,09:23,BAU,0,2,FR,Gui Santos
+490,1,09:23,FRA,0,2,FC,Schneider
+491,1,09:31,FRA,0,2,2_Pts_C,Nezinho
+492,1,09:39,FRA,0,0,RD, Nezinho
+493,1,09:39,BAU,0,0,3_Pts_T,Alex Garcia
+494,1,10:00,BAU,0,0,substituicao_entra,Jefferson W  
+495,1,10:00,FRA,0,0,substituicao_entra,Kurtz 
+496,1,10:00,FRA,0,0,substituicao_entra,Nezinho 
+497,1,10:00,FRA,0,0,substituicao_entra,Isaac 
+498,1,10:00,FRA,0,0,substituicao_entra,Bruno 
+499,1,10:00,FRA,0,0,substituicao_entra,Schneider 
+500,1,10:00,BAU,0,0,substituicao_entra,Robert Day 
+501,1,10:00,BAU,0,0,substituicao_entra,Murilo 
+502,1,10:00,BAU,0,0,substituicao_entra,Gui Santos 
+503,1,10:00,BAU,0,0,substituicao_entra,Wesley  
+504,1,10:00,BAU,0,0,substituicao_entra,Alex Garcia 

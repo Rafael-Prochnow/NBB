@@ -1,0 +1,524 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,96,73,fim_partida, 
+1,4,00:03,MAC,96,73,RD, Colimerio
+2,4,00:03,LSB,96,73,2_Pts_T,Mafra
+3,4,00:17,MAC,96,73,2_Pts_C,Diego
+4,4,00:19,LSB,96,71,2_Pts_C,Mafra
+5,4,00:20,MAC,94,71,RD, Atílio
+6,4,00:20,LSB,94,71,LL_Pts_T,Lupa
+7,4,00:20,LSB,94,71,LL_Pts_C,Lupa
+8,4,00:20,LSB,93,71,FR,Lupa
+9,4,00:20,MAC,93,71,FC,Colimerio
+10,4,00:20,LSB,93,71,BR,Lupa
+11,4,00:20,MAC,93,71,ER,Colimerio
+12,4,00:29,LSB,93,71,RO, Mafra
+13,4,00:29,LSB,93,71,2_Pts_T,Schneider
+14,4,00:41,MAC,93,71,LL_Pts_C,Pedrinho
+15,4,00:41,MAC,93,70,LL_Pts_C,Pedrinho
+16,4,00:41,MAC,93,69,FR,Pedrinho
+17,4,00:41,LSB,93,69,FC,Mafra
+18,4,00:53,LSB,93,69,ER,Diogo
+19,4,01:02,MAC,93,69,LL_Pts_T,Diego
+20,4,01:02,MAC,93,69,LL_Pts_C,Diego
+21,4,01:02,MAC,93,68,FR,Diego
+22,4,01:02,LSB,93,68,FC,Diogo
+23,4,01:09,LSB,93,68,EN,Lupa
+24,4,01:09,LSB,91,68,,
+25,4,01:24,LSB,91,68,substituicao_entra,Danillo 
+26,4,01:24,LSB,91,68,substituicao_sai,Daniel Gaúcho 
+27,4,01:24,MAC,91,68,LL_Pts_C,Pedrinho
+28,4,01:24,MAC,91,67,LL_Pts_C,Pedrinho
+29,4,01:35,MAC,91,66,FR,Pedrinho
+30,4,01:35,LSB,91,66,FC,Daniel Gaúcho
+31,4,01:35,MAC,91,66,FR,Fernando Mineiro
+32,4,01:35,LSB,91,66,FC,Mafra
+33,4,01:44,MAC,91,66,BR,Pedrinho
+34,4,01:44,LSB,91,66,ER,Schneider
+35,4,01:45,MAC,91,66,substituicao_entra,Colimerio 
+36,4,01:45,MAC,91,66,substituicao_sai,Fernando Mineiro 
+37,4,01:45,MAC,91,66,LL_Pts_C,Fernando Mineiro
+38,4,01:45,MAC,91,65,LL_Pts_C,Fernando Mineiro
+39,4,01:45,MAC,91,64,substituicao_entra,Daniel 
+40,4,01:45,MAC,91,64,substituicao_entra,Pedrinho 
+41,4,01:45,MAC,91,64,substituicao_sai,Jamaal 
+42,4,01:45,MAC,91,64,substituicao_sai,Young 
+43,4,01:45,MAC,91,64,2_Pts_T,Young
+44,4,02:02,LSB,91,64,2_Pts_C,Daniel Gaúcho
+45,4,02:26,LSB,89,64,RD, Lupa
+46,4,02:26,MAC,89,64,2_Pts_T,Young
+47,4,02:48,LSB,89,64,substituicao_entra,Diogo 
+48,4,02:48,LSB,89,64,substituicao_sai,Danillo 
+49,4,02:51,MAC,89,64,tempo_tecnico, Macaé Basquete
+50,4,02:51,MAC,89,64,RD, Young
+51,4,02:51,MAC,89,64,TO,Diego
+52,4,02:51,LSB,89,64,2_Pts_T,Daniel Gaúcho
+53,4,03:03,LSB,89,64,substituicao_entra,Lupa 
+54,4,03:03,LSB,89,64,substituicao_sai,Jeff Agba 
+55,4,03:09,LSB,89,64,RD, Mafra
+56,4,03:09,MAC,89,64,3_Pts_T,Young
+57,4,03:14,MAC,89,64,RO, Fernando Mineiro
+58,4,03:14,MAC,89,64,3_Pts_T,Young
+59,4,03:32,LSB,89,64,2_Pts_C,Daniel Gaúcho
+60,4,03:48,LSB,87,64,RD, Mafra
+61,4,03:48,MAC,87,64,LL_Pts_T,Jamaal
+62,4,03:48,MAC,87,64,LL_Pts_C,Jamaal
+63,4,03:48,MAC,87,63,FR,Jamaal
+64,4,03:48,LSB,87,63,FC,Danillo
+65,4,04:04,LSB,87,63,substituicao_entra,Danillo 
+66,4,04:04,LSB,87,63,substituicao_sai,Diogo 
+67,4,04:08,LSB,87,63,ER,Diogo
+68,4,04:13,MAC,87,63,LL_Pts_C,Jamaal
+69,4,04:13,MAC,87,62,LL_Pts_C,Jamaal
+70,4,04:19,MAC,87,61,FR,Jamaal
+71,4,04:19,LSB,87,61,FC,Diogo
+72,4,04:24,MAC,87,61,substituicao_entra,Fernando Mineiro 
+73,4,04:24,MAC,87,61,substituicao_sai,George 
+74,4,04:24,LSB,87,61,LL_Pts_C,Schneider
+75,4,04:24,LSB,86,61,LL_Pts_C,Schneider
+76,4,04:24,LSB,85,61,substituicao_entra,Mafra 
+77,4,04:24,LSB,85,61,substituicao_sai,Thiaguinho 
+78,4,04:24,LSB,85,61,FR,Schneider
+79,4,04:24,MAC,85,61,FC,Diego
+80,4,04:30,MAC,85,61,LL_Pts_C,Jamaal
+81,4,04:30,MAC,85,60,LL_Pts_C,Jamaal
+82,4,04:30,LSB,85,59,substituicao_entra,Diogo 
+83,4,04:30,LSB,85,59,substituicao_sai,Gaines 
+84,4,04:30,MAC,85,59,FR,Jamaal
+85,4,04:30,LSB,85,59,FC,Gaines
+86,4,04:33,MAC,85,59,substituicao_entra,Young 
+87,4,04:33,MAC,85,59,substituicao_sai,Pedrinho 
+88,4,04:42,LSB,85,59,3_Pts_C,Gaines
+89,4,04:42,LSB,82,59,,
+90,4,05:19,MAC,82,59,substituicao_entra,Diego 
+91,4,05:19,MAC,82,59,substituicao_sai,Eddy 
+92,4,05:19,LSB,82,59,substituicao_entra,Schneider 
+93,4,05:19,LSB,82,59,substituicao_entra,Daniel Gaúcho 
+94,4,05:19,LSB,82,59,substituicao_sai,Guilherme 
+95,4,05:19,LSB,82,59,substituicao_sai,Cauê Borges 
+96,4,05:19,LSB,82,59,FR,Gaines
+97,4,05:19,MAC,82,59,FC,Eddy
+98,4,05:22,MAC,82,59,2_Pts_C,Diego
+99,4,05:22,LSB,82,57,LL_Pts_C,Gaines
+100,4,05:22,LSB,81,57,LL_Pts_C,Gaines
+101,4,05:40,MAC,80,57,2_Pts_C,Atílio
+102,4,05:40,MAC,80,55,,
+103,4,05:50,MAC,80,55,RO, Atílio
+104,4,05:50,MAC,80,55,3_Pts_T,Pedrinho
+105,4,05:59,MAC,80,55,RD, Eddy
+106,4,05:59,LSB,80,55,3_Pts_T,Thiaguinho
+107,4,06:18,LSB,80,55,RD, Guilherme
+108,4,06:18,MAC,80,55,2_Pts_T,George
+109,4,06:38,LSB,80,55,3_Pts_C,Gaines
+110,4,06:38,LSB,77,55,,
+111,4,07:05,MAC,77,55,substituicao_entra,Atílio 
+112,4,07:05,MAC,77,55,substituicao_sai,De Bem 
+113,4,07:05,LSB,77,55,LL_Pts_T,Thiaguinho
+114,4,07:05,LSB,77,55,LL_Pts_T,Thiaguinho
+115,4,07:05,MAC,77,55,LL_Pts_C,De Bem
+116,4,07:05,MAC,77,54,LL_Pts_T,De Bem
+117,4,07:05,MAC,77,54,FC_T,De Bem
+118,4,07:05,MAC,77,54,FR,De Bem
+119,4,07:05,LSB,77,54,FC,Gaines
+120,4,07:25,LSB,77,54,EN,Guilherme
+121,4,07:25,LSB,75,54,,
+122,4,07:28,LSB,75,54,FR,Gaines
+123,4,07:28,MAC,75,54,FC,Eddy
+124,4,07:42,LSB,75,54,FR,Cauê Borges
+125,4,07:42,MAC,75,54,FC,Jamaal
+126,4,07:42,LSB,75,54,RD, Gaines
+127,4,07:42,MAC,75,54,2_Pts_T,Eddy
+128,4,07:43,LSB,75,54,FR,Gaines
+129,4,07:43,MAC,75,54,FC_O,De Bem
+130,4,07:51,MAC,75,54,RO, Eddy
+131,4,07:51,MAC,75,54,2_Pts_T,Eddy
+132,4,07:58,MAC,75,54,RD, Jamaal
+133,4,07:58,LSB,75,54,3_Pts_T,Thiaguinho
+134,4,08:18,MAC,75,54,2_Pts_C,Jamaal
+135,4,08:18,MAC,75,52,,
+136,4,08:20,LSB,75,52,substituicao_entra,Thiaguinho 
+137,4,08:20,LSB,75,52,substituicao_sai,Daniel Gaúcho 
+138,4,08:20,LSB,75,52,ER,Cauê Borges
+139,4,08:25,MAC,75,52,2_Pts_C,De Bem
+140,4,08:25,MAC,75,50,,
+141,4,08:25,MAC,75,50,FR,Pedrinho
+142,4,08:25,LSB,75,50,FC_O,Cauê Borges
+143,4,09:00,MAC,75,50,RO, George
+144,4,09:00,LSB,75,50,TO,Gaines
+145,4,09:00,MAC,75,50,2_Pts_T,De Bem
+146,4,09:11,LSB,75,50,,
+147,4,09:11,MAC,75,50,ER,George
+148,4,09:19,LSB,75,50,RD, Jeff Agba
+149,4,09:19,MAC,75,50,2_Pts_T,Jamaal
+150,4,09:25,MAC,75,50,RO, Jamaal
+151,4,09:25,MAC,75,50,2_Pts_T,De Bem
+152,4,09:50,MAC,75,50,FR,George
+153,4,09:50,LSB,75,50,FC_O,Gaines
+154,3,00:00,NaN.,75,50,fim_quarto, 
+155,3,00:24,MAC,75,50,3_Pts_T,Young
+156,3,00:24,MAC,75,50,RD, Pedrinho
+157,3,00:24,LSB,75,50,3_Pts_T,Schneider
+158,3,00:24,MAC,75,50,2_Pts_C,George
+159,3,00:33,MAC,75,48,FR,Pedrinho
+160,3,00:33,LSB,75,48,FC,Schneider
+161,3,00:50,LSB,75,48,LL_Pts_C,Daniel Gaúcho
+162,3,00:50,LSB,74,48,2_Pts_C,Daniel Gaúcho
+163,3,00:50,LSB,72,48,FR,Daniel Gaúcho
+164,3,00:50,MAC,72,48,FC,Eddy
+165,3,00:50,LSB,72,48,substituicao_entra,Cauê Borges 
+166,3,00:50,LSB,72,48,substituicao_sai,Thiaguinho 
+167,3,00:50,MAC,72,48,2_Pts_C,De Bem
+168,3,00:50,MAC,72,46,RO, De Bem
+169,3,00:50,MAC,72,46,2_Pts_T,George
+170,3,00:50,MAC,72,46,substituicao_entra,George 
+171,3,00:50,MAC,72,46,substituicao_sai,Fernando Mineiro 
+172,3,01:40,LSB,72,46,2_Pts_C,Jeff Agba
+173,3,01:40,LSB,70,46,,
+174,3,01:40,LSB,70,46,substituicao_entra,Jeff Agba 
+175,3,01:40,LSB,70,46,substituicao_sai,Lupa 
+176,3,01:40,LSB,70,46,substituicao_entra,Daniel Gaúcho 
+177,3,01:40,LSB,70,46,substituicao_sai,Daniel Gaúcho 
+178,3,01:40,MAC,70,46,LL_Pts_C,Eddy
+179,3,01:40,MAC,70,45,LL_Pts_C,Eddy
+180,3,01:40,MAC,70,44,substituicao_entra,De Bem 
+181,3,01:40,MAC,70,44,substituicao_entra,Pedrinho 
+182,3,01:40,MAC,70,44,substituicao_sai,Atílio 
+183,3,01:40,MAC,70,44,substituicao_sai,Jamaal 
+184,3,01:40,MAC,70,44,FR,Eddy
+185,3,01:40,LSB,70,44,FC,Lupa
+186,3,02:06,LSB,70,44,2_Pts_C,Daniel Gaúcho
+187,3,02:15,LSB,68,44,RO, Daniel Gaúcho
+188,3,02:15,LSB,68,44,2_Pts_T,Daniel Gaúcho
+189,3,02:28,LSB,68,44,RD, Lupa
+190,3,02:28,MAC,68,44,2_Pts_T,Eddy
+191,3,02:28,MAC,68,44,RO, Eddy
+192,3,02:28,MAC,68,44,2_Pts_T,Atílio
+193,3,02:28,MAC,68,44,RD, Eddy
+194,3,02:28,LSB,68,44,2_Pts_T,Guilherme
+195,3,02:41,LSB,68,44,tempo_tecnico, Liga Sorocabana
+196,3,02:41,MAC,68,44,2_Pts_C,Fernando Mineiro
+197,3,02:54,MAC,68,42,RO, Fernando Mineiro
+198,3,02:54,MAC,68,42,2_Pts_T,Eddy
+199,3,02:57,MAC,68,42,BR,Fernando Mineiro
+200,3,02:57,LSB,68,42,ER,Schneider
+201,3,02:57,LSB,68,42,BR,Lupa
+202,3,02:57,MAC,68,42,ER,Atílio
+203,3,03:05,LSB,68,42,ER,
+204,3,03:07,LSB,68,42,RO, Lupa
+205,3,03:07,LSB,68,42,2_Pts_T,Guilherme
+206,3,03:07,LSB,68,42,substituicao_entra,Lupa 
+207,3,03:07,LSB,68,42,substituicao_sai,Mafra 
+208,3,03:26,MAC,68,42,2_Pts_C,Young
+209,3,03:35,LSB,68,40,2_Pts_C,Daniel Gaúcho
+210,3,03:35,LSB,66,40,,
+211,3,03:51,MAC,66,40,2_Pts_C,Atílio
+212,3,03:51,MAC,66,38,,
+213,3,04:09,LSB,66,38,2_Pts_C,Guilherme
+214,3,04:09,LSB,64,38,,
+215,3,04:24,MAC,64,38,LL_Pts_C,Young
+216,3,04:24,MAC,64,37,2_Pts_C,Young
+217,3,04:24,MAC,64,35,FR,Young
+218,3,04:24,LSB,64,35,FC,Schneider
+219,3,04:35,LSB,64,35,substituicao_entra,Schneider 
+220,3,04:35,LSB,64,35,substituicao_entra,Daniel Gaúcho 
+221,3,04:35,LSB,64,35,substituicao_sai,Cauê Borges 
+222,3,04:35,LSB,64,35,substituicao_sai,Gaines 
+223,3,04:39,LSB,64,35,ER,Mafra
+224,3,05:02,MAC,64,35,2_Pts_C,Young
+225,3,05:10,MAC,64,33,BR,Eddy
+226,3,05:10,LSB,64,33,ER,Thiaguinho
+227,3,05:27,LSB,64,33,,
+228,3,05:27,MAC,64,33,ER,Young
+229,3,05:54,MAC,64,33,RD, Eddy
+230,3,05:54,LSB,64,33,2_Pts_T,Cauê Borges
+231,3,06:10,LSB,64,33,substituicao_entra,Guilherme 
+232,3,06:10,LSB,64,33,substituicao_sai,Jeff Agba 
+233,3,06:10,MAC,64,33,substituicao_entra,Atílio 
+234,3,06:10,MAC,64,33,substituicao_sai,George 
+235,3,06:10,MAC,64,33,ER,Eddy
+236,3,06:20,MAC,64,33,RD, George
+237,3,06:20,LSB,64,33,3_Pts_T,Gaines
+238,3,06:40,MAC,64,33,3_Pts_C,Fernando Mineiro
+239,3,06:40,MAC,64,30,,
+240,3,06:57,LSB,64,30,2_Pts_C,Mafra
+241,3,07:13,LSB,62,30,FR,Cauê Borges
+242,3,07:13,MAC,62,30,FC,Fernando Mineiro
+243,3,07:17,LSB,62,30,ER,Cauê Borges
+244,3,07:22,LSB,62,30,RD, Cauê Borges
+245,3,07:22,MAC,62,30,3_Pts_T,Fernando Mineiro
+246,3,07:25,LSB,62,30,BR,Cauê Borges
+247,3,07:25,MAC,62,30,ER,Eddy
+248,3,07:33,MAC,62,30,RO, Eddy
+249,3,07:33,MAC,62,30,3_Pts_T,George
+250,3,07:47,LSB,62,30,EN,Mafra
+251,3,07:47,LSB,60,30,,
+252,3,07:51,LSB,60,30,FR,Gaines
+253,3,07:51,MAC,60,30,FC,Jamaal
+254,3,07:56,LSB,60,30,RD, Gaines
+255,3,07:56,MAC,60,30,2_Pts_T,Young
+256,3,08:21,LSB,60,30,FR,Cauê Borges
+257,3,08:21,MAC,60,30,FC,George
+258,3,08:25,LSB,60,30,2_Pts_C,Jeff Agba
+259,3,08:36,LSB,58,30,,
+260,3,08:36,MAC,58,30,ER,Jamaal
+261,3,08:42,LSB,58,30,LL_Pts_C,Cauê Borges
+262,3,08:42,LSB,57,30,LL_Pts_C,Cauê Borges
+263,3,08:51,LSB,56,30,RD, Liga Sorocabana
+264,3,08:51,MAC,56,30,2_Pts_T,George
+265,3,09:17,LSB,56,30,2_Pts_C,Cauê Borges
+266,3,09:50,LSB,54,30,,
+267,3,09:50,MAC,54,30,ER,George
+268,2,00:00,NaN.,54,30,fim_quarto, 
+269,2,00:00,MAC,54,30,FR,Eddy
+270,2,00:00,LSB,54,30,FC,Gaines
+271,2,00:00,MAC,54,30,FR,Atílio
+272,2,00:00,LSB,54,30,FC,Guilherme
+273,2,00:00,MAC,54,30,FR,Jamaal
+274,2,00:00,LSB,54,30,FC,Guilherme
+275,2,00:00,LSB,54,30,substituicao_entra,Guilherme 
+276,2,00:00,LSB,54,30,substituicao_sai,Lupa 
+277,2,00:00,LSB,54,30,2_Pts_T,Daniel Gaúcho
+278,2,00:00,MAC,54,30,2_Pts_C,Eddy
+279,2,00:00,MAC,54,28,BR,Jamaal
+280,2,00:00,LSB,54,28,ER,Diogo
+281,2,00:00,MAC,54,28,substituicao_entra,Jamaal 
+282,2,00:00,MAC,54,28,substituicao_sai,Fernando Mineiro 
+283,2,00:00,MAC,54,28,LL_Pts_C,Fernando Mineiro
+284,2,00:00,MAC,54,27,LL_Pts_C,Fernando Mineiro
+285,2,00:00,MAC,54,26,FR,Atílio
+286,2,00:00,LSB,54,26,FC,Daniel Gaúcho
+287,2,00:02,MAC,54,26,substituicao_entra,Atílio 
+288,2,00:06,MAC,54,26,substituicao_sai,Diego 
+289,2,00:28,LSB,54,26,2_Pts_C,Lupa
+290,2,00:34,LSB,52,26,RO, Lupa
+291,2,00:34,LSB,52,26,2_Pts_T,Schneider
+292,2,00:43,LSB,52,26,RD, Lupa
+293,2,00:43,MAC,52,26,3_Pts_T,Fernando Mineiro
+294,2,01:05,MAC,52,26,substituicao_entra,Eddy 
+295,2,01:05,MAC,52,26,substituicao_sai,George 
+296,2,01:05,LSB,52,26,FR,Daniel Gaúcho
+297,2,01:05,MAC,52,26,FC,Daniel
+298,2,01:05,MAC,52,26,substituicao_entra,Daniel 
+299,2,01:05,MAC,52,26,substituicao_sai,Young 
+300,2,01:05,MAC,52,26,substituicao_entra,Pedrinho 
+301,2,01:05,MAC,52,26,substituicao_sai,Daniel 
+302,2,01:05,LSB,52,26,substituicao_entra,Lupa 
+303,2,01:05,LSB,52,26,substituicao_entra,Diogo 
+304,2,01:05,LSB,52,26,substituicao_sai,Guilherme 
+305,2,01:05,LSB,52,26,substituicao_sai,Cauê Borges 
+306,2,01:05,MAC,52,26,2_Pts_C,George
+307,2,01:05,MAC,52,24,RO, George
+308,2,02:10,MAC,52,24,2_Pts_T,Daniel
+309,2,02:32,LSB,52,24,EN,Guilherme
+310,2,02:32,LSB,50,24,,
+311,2,02:41,MAC,50,24,BR,Young
+312,2,02:41,LSB,50,24,ER,Daniel Gaúcho
+313,2,02:51,MAC,50,24,RD, Young
+314,2,02:51,LSB,50,24,3_Pts_T,Schneider
+315,2,04:05,MAC,50,24,substituicao_entra,Diego 
+316,2,04:09,MAC,50,24,substituicao_sai,Pablo 
+317,2,04:21,LSB,50,24,RD, Liga Sorocabana
+318,2,04:21,MAC,50,24,3_Pts_T,Daniel
+319,2,04:23,LSB,50,24,substituicao_entra,Daniel Gaúcho 
+320,2,04:23,LSB,50,24,substituicao_sai,Thiaguinho 
+321,2,04:23,MAC,50,24,RD, Daniel
+322,2,04:23,LSB,50,24,2_Pts_T,Gaines
+323,2,04:23,LSB,50,24,RD, Thiaguinho
+324,2,04:23,MAC,50,24,2_Pts_T,Young
+325,2,04:23,MAC,50,24,BR,Diego
+326,2,04:23,LSB,50,24,ER,Schneider
+327,2,04:23,LSB,50,24,substituicao_entra,Thiaguinho 
+328,2,04:23,LSB,50,24,substituicao_sai,Thiaguinho 
+329,2,04:23,MAC,50,24,FR,Fernando Mineiro
+330,2,04:23,LSB,50,24,FC,Schneider
+331,2,04:23,MAC,50,24,substituicao_entra,Daniel 
+332,2,04:23,MAC,50,24,substituicao_sai,Eddy 
+333,2,04:23,LSB,50,24,RD, Liga Sorocabana
+334,2,04:23,MAC,50,24,3_Pts_T,Diego
+335,2,04:23,MAC,50,24,tempo_tecnico, Macaé Basquete
+336,2,04:23,LSB,50,24,LL_Pts_C,Cauê Borges
+337,2,04:23,MAC,49,24,RO, Macaé Basquete
+338,2,04:23,MAC,49,24,3_Pts_T,Young
+339,2,04:23,LSB,49,24,2_Pts_C,Schneider
+340,2,04:23,LSB,47,24,substituicao_entra,Gaines 
+341,2,04:23,LSB,47,24,substituicao_sai,Jeff Agba 
+342,2,04:35,MAC,47,24,substituicao_entra,Pablo 
+343,2,04:35,MAC,47,24,substituicao_sai,Jamaal 
+344,2,04:49,LSB,47,24,RO, Liga Sorocabana
+345,2,04:49,MAC,47,24,TO,George
+346,2,04:49,LSB,47,24,2_Pts_T,Jeff Agba
+347,2,05:17,LSB,47,24,RD, Cauê Borges
+348,2,05:17,MAC,47,24,3_Pts_T,Fernando Mineiro
+349,2,05:17,MAC,47,24,RD, Jamaal
+350,2,05:17,LSB,47,24,2_Pts_T,Jeff Agba
+351,2,05:17,LSB,47,24,,
+352,2,05:17,LSB,47,24,FR,Cauê Borges
+353,2,05:17,MAC,47,24,FC,Young
+354,2,05:28,LSB,47,24,2_Pts_C,Cauê Borges
+355,2,05:28,LSB,45,24,FR,Cauê Borges
+356,2,05:28,MAC,45,24,FC,Young
+357,2,05:41,MAC,45,24,2_Pts_C,Eddy
+358,2,05:54,LSB,45,22,3_Pts_C,Guilherme
+359,2,05:54,LSB,42,22,,
+360,2,06:14,MAC,42,22,2_Pts_C,Fernando Mineiro
+361,2,06:14,MAC,42,20,,
+362,2,06:35,LSB,42,20,2_Pts_C,Jeff Agba
+363,2,06:35,LSB,40,20,,
+364,2,06:55,MAC,40,20,LL_Pts_C,Fernando Mineiro
+365,2,06:55,MAC,40,19,LL_Pts_T,Fernando Mineiro
+366,2,06:55,MAC,40,19,FR,Fernando Mineiro
+367,2,06:55,LSB,40,19,FC,Cauê Borges
+368,2,07:01,MAC,40,19,BR,Fernando Mineiro
+369,2,07:01,LSB,40,19,ER,Thiaguinho
+370,2,07:13,LSB,40,19,substituicao_entra,Cauê Borges 
+371,2,07:13,LSB,40,19,substituicao_entra,Schneider 
+372,2,07:13,LSB,40,19,substituicao_sai,Gaines 
+373,2,07:13,LSB,40,19,substituicao_sai,Daniel Gaúcho 
+374,2,07:13,LSB,40,19,FR,Daniel Gaúcho
+375,2,07:13,MAC,40,19,FC,George
+376,2,07:13,LSB,40,19,FR,Thiaguinho
+377,2,07:13,MAC,40,19,FC,Fernando Mineiro
+378,2,07:19,MAC,40,19,2_Pts_C,Fernando Mineiro
+379,2,07:26,MAC,40,17,BR,Fernando Mineiro
+380,2,07:26,LSB,40,17,ER,Guilherme
+381,2,07:30,MAC,40,17,ER,Eddy
+382,2,07:40,MAC,40,17,RD, George
+383,2,07:40,LSB,40,17,2_Pts_T,Daniel Gaúcho
+384,2,07:54,MAC,40,17,3_Pts_C,Young
+385,2,07:54,MAC,40,14,,
+386,2,08:06,MAC,40,14,substituicao_entra,Eddy 
+387,2,08:06,MAC,40,14,substituicao_sai,Diego 
+388,2,08:14,LSB,40,14,3_Pts_C,Daniel Gaúcho
+389,2,08:22,LSB,37,14,RD, Guilherme
+390,2,08:22,MAC,37,14,2_Pts_T,Jamaal
+391,2,08:37,LSB,37,14,RD, Thiaguinho
+392,2,08:37,MAC,37,14,2_Pts_T,Young
+393,2,09:04,LSB,37,14,3_Pts_C,Daniel Gaúcho
+394,2,09:04,LSB,34,14,,
+395,2,09:24,LSB,34,14,RD, Jeff Agba
+396,2,09:24,MAC,34,14,2_Pts_T,Diego
+397,2,09:31,LSB,34,14,substituicao_entra,Guilherme 
+398,2,09:41,LSB,34,14,substituicao_sai,Mafra 
+399,2,09:54,MAC,34,14,BR,Diego
+400,2,09:54,LSB,34,14,ER,Gaines
+401,2,09:59,MAC,34,14,2_Pts_C,Fernando Mineiro
+402,1,00:00,NaN.,34,12,fim_quarto, 
+403,1,00:01,LSB,34,12,LL_Pts_C,Gaines
+404,1,00:01,LSB,33,12,2_Pts_C,Lupa
+405,1,00:01,LSB,31,12,,
+406,1,00:01,MAC,31,12,substituicao_entra,Daniel 
+407,1,00:01,MAC,31,12,substituicao_sai,Jamaal 
+408,1,00:01,LSB,31,12,FR,Daniel Gaúcho
+409,1,00:01,MAC,31,12,substituicao_entra,Jamaal 
+410,1,00:01,MAC,31,12,substituicao_sai,Daniel 
+411,1,00:09,MAC,31,12,substituicao_entra,Pablo 
+412,1,00:09,MAC,31,12,substituicao_entra,Daniel 
+413,1,00:09,MAC,31,12,substituicao_sai,De Bem 
+414,1,00:09,MAC,31,12,substituicao_sai,Jamaal 
+415,1,00:09,LSB,31,12,substituicao_entra,Thiaguinho 
+416,1,00:09,LSB,31,12,substituicao_sai,Diogo 
+417,1,00:09,MAC,31,12,RO, Fernando Mineiro
+418,1,00:09,LSB,31,12,TO,Mafra
+419,1,00:09,MAC,31,12,2_Pts_T,Pedrinho
+420,1,00:20,LSB,31,12,LL_Pts_C,Gaines
+421,1,00:20,LSB,30,12,,
+422,1,00:20,LSB,30,12,LL_Pts_C,Gaines
+423,1,00:20,LSB,29,12,FR,Gaines
+424,1,00:20,MAC,29,12,FC,Diego
+425,1,00:42,MAC,29,12,3_Pts_C,Jamaal
+426,1,00:42,MAC,29,9,LL_Pts_T,Diego
+427,1,00:42,MAC,29,9,LL_Pts_C,Diego
+428,1,00:42,MAC,29,8,FR,Diego
+429,1,00:42,LSB,29,8,FC_A,Lupa
+430,1,00:48,MAC,29,8,BR,Diego
+431,1,00:48,LSB,29,8,ER,Diogo
+432,1,00:57,MAC,29,8,ER,De Bem
+433,1,01:06,MAC,29,8,RD, De Bem
+434,1,01:06,LSB,29,8,2_Pts_T,Mafra
+435,1,01:16,LSB,29,8,RO, Mafra
+436,1,01:16,LSB,29,8,2_Pts_T,Diogo
+437,1,01:32,MAC,29,8,3_Pts_C,Jamaal
+438,1,01:32,MAC,29,5,,
+439,1,01:42,MAC,29,5,FR,Fernando Mineiro
+440,1,01:42,LSB,29,5,FC,Mafra
+441,1,01:42,LSB,29,5,substituicao_entra,Diogo 
+442,1,01:42,LSB,29,5,substituicao_sai,Cauê Borges 
+443,1,01:57,MAC,29,5,2_Pts_C,Jamaal
+444,1,02:05,LSB,29,3,2_Pts_C,Mafra
+445,1,02:05,LSB,27,3,,
+446,1,02:05,MAC,27,3,BR,Jamaal
+447,1,02:05,LSB,27,3,ER,Lupa
+448,1,02:09,LSB,27,3,BR,Daniel Gaúcho
+449,1,02:09,MAC,27,3,ER,Pedrinho
+450,1,02:22,LSB,27,3,3_Pts_C,Gaines
+451,1,02:22,LSB,24,3,,
+452,1,02:32,LSB,24,3,FR,Lupa
+453,1,02:32,MAC,24,3,FC,De Bem
+454,1,02:46,LSB,24,3,EN,Cauê Borges
+455,1,03:10,MAC,22,3,substituicao_entra,Fernando Mineiro 
+456,1,03:12,MAC,22,3,substituicao_sai,George 
+457,1,03:23,LSB,22,3,3_Pts_C,Gaines
+458,1,03:39,LSB,19,3,RD, Lupa
+459,1,03:39,MAC,19,3,3_Pts_T,Jamaal
+460,1,03:58,LSB,19,3,BR,Cauê Borges
+461,1,03:58,MAC,19,3,ER,Diego
+462,1,04:03,LSB,19,3,substituicao_entra,Mafra 
+463,1,04:07,LSB,19,3,substituicao_sai,Thiaguinho 
+464,1,05:43,MAC,19,3,ER,Atílio
+465,1,05:47,LSB,19,3,substituicao_entra,Lupa 
+466,1,05:47,LSB,19,3,substituicao_entra,Daniel Gaúcho 
+467,1,05:47,LSB,19,3,substituicao_sai,Guilherme 
+468,1,05:47,LSB,19,3,substituicao_sai,Schneider 
+469,1,05:47,MAC,19,3,substituicao_entra,Diego 
+470,1,05:47,MAC,19,3,substituicao_entra,Pedrinho 
+471,1,05:47,MAC,19,3,substituicao_sai,Eddy 
+472,1,05:47,MAC,19,3,substituicao_sai,Young 
+473,1,05:47,LSB,19,3,3_Pts_C,Thiaguinho
+474,1,05:47,LSB,16,3,RD, Guilherme
+475,1,05:47,MAC,16,3,3_Pts_T,Eddy
+476,1,05:47,MAC,16,3,substituicao_entra,De Bem 
+477,1,05:47,MAC,16,3,substituicao_entra,George 
+478,1,05:47,MAC,16,3,substituicao_sai,Atílio 
+479,1,05:47,MAC,16,3,substituicao_sai,Fernando Mineiro 
+480,1,05:47,LSB,16,3,3_Pts_C,Gaines
+481,1,05:47,MAC,13,3,3_Pts_C,Jamaal
+482,1,05:47,LSB,13,0,2_Pts_C,Guilherme
+483,1,05:47,LSB,11,0,,
+484,1,05:47,LSB,11,0,substituicao_entra,Gaines 
+485,1,05:47,LSB,11,0,substituicao_sai,Jeff Agba 
+486,1,05:47,LSB,11,0,2_Pts_C,Cauê Borges
+487,1,06:36,LSB,9,0,RD, Liga Sorocabana
+488,1,06:36,MAC,9,0,3_Pts_T,Eddy
+489,1,06:36,MAC,9,0,FR,Jamaal
+490,1,06:36,LSB,9,0,FC,Thiaguinho
+491,1,06:43,MAC,9,0,RD, Jamaal
+492,1,06:43,LSB,9,0,2_Pts_T,Jeff Agba
+493,1,07:11,LSB,9,0,RD, Liga Sorocabana
+494,1,07:11,MAC,9,0,2_Pts_T,Fernando Mineiro
+495,1,07:29,MAC,9,0,RD, Young
+496,1,07:29,LSB,9,0,2_Pts_T,Schneider
+497,1,07:46,MAC,9,0,ER,
+498,1,07:57,MAC,9,0,tempo_tecnico, Macaé Basquete
+499,1,07:57,LSB,9,0,2_Pts_C,Cauê Borges
+500,1,08:01,MAC,7,0,RO, Atílio
+501,1,08:01,MAC,7,0,3_Pts_T,Young
+502,1,08:07,LSB,7,0,,
+503,1,08:07,MAC,7,0,ER,Atílio
+504,1,08:21,LSB,7,0,RO, Jeff Agba
+505,1,08:21,LSB,7,0,2_Pts_T,Cauê Borges
+506,1,08:32,LSB,7,0,2_Pts_C,Jeff Agba
+507,1,08:40,LSB,5,0,RD, Jeff Agba
+508,1,08:40,MAC,5,0,2_Pts_T,Young
+509,1,08:46,LSB,5,0,3_Pts_C,Guilherme
+510,1,08:46,LSB,2,0,,
+511,1,09:03,MAC,2,0,ER,
+512,1,09:47,LSB,2,0,2_Pts_C,Guilherme
+513,1,10:00,MAC,0,0,substituicao_entra,Eddy 
+514,1,10:00,MAC,0,0,substituicao_entra,Atílio 
+515,1,10:00,MAC,0,0,substituicao_entra,Jamaal 
+516,1,10:00,MAC,0,0,substituicao_entra,Fernando Mineiro 
+517,1,10:00,MAC,0,0,substituicao_entra,Young 
+518,1,10:00,LSB,0,0,substituicao_entra,Guilherme 
+519,1,10:00,LSB,0,0,substituicao_entra,Jeff Agba 
+520,1,10:00,LSB,0,0,substituicao_entra,Cauê Borges 
+521,1,10:00,LSB,0,0,substituicao_entra,Schneider 
+522,1,10:00,LSB,0,0,substituicao_entra,Thiaguinho 

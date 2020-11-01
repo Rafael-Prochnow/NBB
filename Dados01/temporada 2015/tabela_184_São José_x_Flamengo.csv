@@ -1,0 +1,462 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,80,88,fim_partida, 
+1,4,00:15,FLA,80,88,RD, Olivinha
+2,4,00:15,SJO,80,88,2_Pts_T,Rodgers
+3,4,00:19,FLA,80,88,LL_Pts_C,Marquinhos
+4,4,00:19,FLA,80,87,LL_Pts_T,Marquinhos
+5,4,00:19,FLA,80,87,FR,Marquinhos
+6,4,00:19,SJO,80,87,FC,Gustavo
+7,4,00:20,SJO,80,87,2_Pts_C,César
+8,4,00:20,SJO,78,87,,
+9,4,00:30,FLA,78,87,LL_Pts_C,Rafa Luz
+10,4,00:30,FLA,78,86,LL_Pts_C,Rafa Luz
+11,4,00:30,FLA,78,85,FR,Rafa Luz
+12,4,00:30,SJO,78,85,FC,Rodgers
+13,4,00:33,SJO,78,85,LL_Pts_C,Rodgers
+14,4,00:33,SJO,77,85,LL_Pts_C,Rodgers
+15,4,00:33,SJO,76,85,FR,Rodgers
+16,4,00:33,FLA,76,85,FC,Robinson
+17,4,00:37,FLA,76,85,2_Pts_C,Rafa Luz
+18,4,00:48,FLA,76,83,RD, Olivinha
+19,4,00:48,SJO,76,83,3_Pts_T,Pedro
+20,4,00:59,FLA,76,83,substituicao_sai,JP Batista 
+21,4,00:59,FLA,76,83,substituicao_entra,Robinson 
+22,4,01:00,SJO,76,83,tempo_tecnico, São José
+23,4,01:00,FLA,76,83,2_Pts_C,JP Batista
+24,4,01:00,FLA,76,81,,
+25,4,01:09,FLA,76,81,FR,Rafa Luz
+26,4,01:09,SJO,76,81,FC,Rodgers
+27,4,01:20,FLA,76,81,FR,Ronald Ramon
+28,4,01:20,SJO,76,81,FC,Gustavo
+29,4,01:23,SJO,76,81,LL_Pts_C,Rodgers
+30,4,01:23,SJO,75,81,2_Pts_C,Rodgers
+31,4,01:23,SJO,73,81,FR,Rodgers
+32,4,01:23,FLA,73,81,FC,Ronald Ramon
+33,4,01:27,SJO,73,81,RD, Rodgers
+34,4,01:27,FLA,73,81,2_Pts_T,JP Batista
+35,4,01:41,SJO,73,81,2_Pts_C,Pedro
+36,4,02:01,FLA,71,81,2_Pts_C,Olivinha
+37,4,02:29,SJO,71,79,2_Pts_C,Rodgers
+38,4,02:33,SJO,69,79,BR,Rodgers
+39,4,02:33,FLA,69,79,ER,Rafa Luz
+40,4,02:36,FLA,69,79,substituicao_entra,Olivinha 
+41,4,02:36,FLA,69,79,substituicao_sai,Rafael Mineiro 
+42,4,02:36,FLA,69,79,tempo_tecnico, Flamengo
+43,4,02:36,SJO,69,79,2_Pts_C,Pedro
+44,4,02:36,SJO,67,79,,
+45,4,02:40,SJO,67,79,RD, Rodgers
+46,4,02:40,FLA,67,79,2_Pts_T,JP Batista
+47,4,02:52,FLA,67,79,FR,JP Batista
+48,4,02:52,SJO,67,79,FC,César
+49,4,03:12,FLA,67,79,RD, Marquinhos
+50,4,03:12,SJO,67,79,2_Pts_T,Gustavo
+51,4,03:25,SJO,67,79,RD, Renato C 
+52,4,03:25,FLA,67,79,2_Pts_T,JP Batista
+53,4,03:44,FLA,67,79,,
+54,4,03:44,SJO,67,79,ER,Rodgers
+55,4,03:55,SJO,67,79,RD, São José
+56,4,03:55,FLA,67,79,2_Pts_T,Marquinhos
+57,4,03:59,FLA,67,79,substituicao_entra,Marquinhos 
+58,4,03:59,FLA,67,79,substituicao_sai,Robinson 
+59,4,04:22,SJO,67,79,3_Pts_C,Pedro
+60,4,04:22,SJO,64,79,,
+61,4,04:40,SJO,64,79,substituicao_entra,Pedro 
+62,4,04:40,SJO,64,79,substituicao_entra,Rodgers 
+63,4,04:40,SJO,64,79,substituicao_entra,César 
+64,4,04:40,SJO,64,79,substituicao_sai,Bruno Ferreira 
+65,4,04:40,SJO,64,79,substituicao_sai,Cauê 
+66,4,04:40,SJO,64,79,substituicao_sai,Matheus Dalla 
+67,4,04:40,SJO,64,79,RD, São José
+68,4,04:40,FLA,64,79,2_Pts_T,Ronald Ramon
+69,4,05:04,FLA,64,79,RD, Robinson
+70,4,05:04,SJO,64,79,2_Pts_T,Renato C 
+71,4,05:12,SJO,64,79,RD, Cauê
+72,4,05:12,FLA,64,79,2_Pts_T,Robinson
+73,4,05:38,FLA,64,79,RD, Rafael Mineiro
+74,4,05:38,SJO,64,79,3_Pts_T,Bruno Ferreira
+75,4,05:43,SJO,64,79,BR,Bruno Ferreira
+76,4,05:43,FLA,64,79,ER,Robinson
+77,4,05:46,FLA,64,79,RD, Robinson
+78,4,05:46,SJO,64,79,2_Pts_T,Renato C 
+79,4,05:52,SJO,64,79,BR,Cauê
+80,4,05:52,FLA,64,79,ER,Rafa Luz
+81,4,05:57,FLA,64,79,BR,JP Batista
+82,4,05:57,SJO,64,79,ER,Matheus Dalla
+83,4,06:18,FLA,64,79,2_Pts_C,JP Batista
+84,4,06:18,FLA,64,77,,
+85,4,06:43,FLA,64,77,RD, Flamengo
+86,4,06:43,FLA,64,77,TO,JP Batista
+87,4,06:43,SJO,64,77,2_Pts_T,Bruno Ferreira
+88,4,06:51,SJO,64,77,BR,Bruno Ferreira
+89,4,06:51,FLA,64,77,ER,Rafael Mineiro
+90,4,07:09,SJO,64,77,ER,Bruno Ferreira
+91,4,07:25,SJO,64,77,FR,Cauê
+92,4,07:25,FLA,64,77,FC,Rafael Mineiro
+93,4,07:25,SJO,64,77,BR,Cauê
+94,4,07:25,FLA,64,77,ER,Rafa Luz
+95,4,07:32,FLA,64,77,substituicao_entra,Rafa Luz 
+96,4,07:32,FLA,64,77,substituicao_sai,Marquinhos 
+97,4,07:36,SJO,64,77,2_Pts_C,Renato C 
+98,4,07:54,SJO,62,77,RD, Renato C 
+99,4,07:54,FLA,62,77,2_Pts_T,Ronald Ramon
+100,4,08:16,FLA,62,77,RD, JP Batista
+101,4,08:16,SJO,62,77,3_Pts_T,Cauê
+102,4,08:22,SJO,62,77,FR,Matheus Dalla
+103,4,08:22,FLA,62,77,FC,Ronald Ramon
+104,4,08:34,FLA,62,77,2_Pts_C,JP Batista
+105,4,08:34,FLA,62,75,,
+106,4,08:45,FLA,62,75,BR,JP Batista
+107,4,08:45,SJO,62,75,ER,Cauê
+108,4,08:51,SJO,62,75,RD, Bruno Ferreira
+109,4,08:51,FLA,62,75,3_Pts_T,JP Batista
+110,4,08:59,SJO,62,75,2_Pts_C,Matheus Dalla
+111,4,08:59,SJO,60,75,,
+112,4,09:04,SJO,60,75,FR,Cauê
+113,4,09:04,FLA,60,75,FC,Ronald Ramon
+114,4,09:22,FLA,60,75,3_Pts_C,Robinson
+115,4,09:22,FLA,60,72,,
+116,4,09:30,FLA,60,72,FR,Ronald Ramon
+117,4,09:30,SJO,60,72,FC,Gustavo
+118,4,09:42,SJO,60,72,2_Pts_C,Renato C 
+119,4,09:42,SJO,58,72,,
+120,3,00:00,NaN.,58,72,fim_quarto, 
+121,3,00:02,FLA,58,72,3_Pts_T,Olivinha
+122,3,00:07,SJO,58,72,2_Pts_C,Renato C 
+123,3,00:07,SJO,56,72,,
+124,3,00:29,FLA,56,72,2_Pts_C,Robinson
+125,3,00:29,FLA,56,70,,
+126,3,00:32,FLA,56,70,RO, Flamengo
+127,3,00:32,FLA,56,70,3_Pts_T,JP Batista
+128,3,00:43,SJO,56,70,2_Pts_C,Renato C 
+129,3,00:43,SJO,54,70,,
+130,3,01:05,FLA,54,70,substituicao_sai,Rafa Luz 
+131,3,01:05,FLA,54,70,substituicao_entra,Ronald Ramon 
+132,3,01:05,SJO,54,70,substituicao_sai,Matheus Dalla 
+133,3,01:05,SJO,54,70,substituicao_entra,Cauê 
+134,3,01:05,SJO,54,70,substituicao_sai,Rodgers 
+135,3,01:05,SJO,54,70,substituicao_entra,Gustavo 
+136,3,01:05,SJO,54,70,tempo_tecnico, São José
+137,3,01:05,FLA,54,70,2_Pts_C,Olivinha
+138,3,01:10,FLA,54,68,RD, Olivinha
+139,3,01:10,SJO,54,68,3_Pts_T,Matheus Dalla
+140,3,01:36,FLA,54,68,3_Pts_C,Marquinhos
+141,3,01:50,SJO,54,65,2_Pts_C,Renato C 
+142,3,01:50,SJO,52,65,,
+143,3,02:15,FLA,52,65,2_Pts_C,JP Batista
+144,3,02:15,FLA,52,63,,
+145,3,02:38,FLA,52,63,substituicao_entra,JP Batista 
+146,3,02:38,FLA,52,63,substituicao_sai,Meyinsse 
+147,3,02:38,SJO,52,63,substituicao_sai,César 
+148,3,02:38,SJO,52,63,substituicao_entra,Renato C  
+149,3,02:38,SJO,52,63,substituicao_sai,Aguirre 
+150,3,02:38,SJO,52,63,substituicao_entra,Bruno Ferreira 
+151,3,02:38,FLA,52,63,FR,Meyinsse
+152,3,02:38,SJO,52,63,FC_O,César
+153,3,03:04,FLA,52,63,2_Pts_C,Olivinha
+154,3,03:04,FLA,52,61,,
+155,3,03:11,FLA,52,61,RD, Olivinha
+156,3,03:11,SJO,52,61,2_Pts_T,Rodgers
+157,3,03:18,SJO,52,61,RO, São José
+158,3,03:18,FLA,52,61,TO,Meyinsse
+159,3,03:18,SJO,52,61,2_Pts_T,Pedro
+160,3,03:38,FLA,52,61,2_Pts_C,Robinson
+161,3,03:54,SJO,52,59,LL_Pts_C,Aguirre
+162,3,03:54,SJO,51,59,,
+163,3,03:54,SJO,51,59,LL_Pts_C,Aguirre
+164,3,03:54,SJO,50,59,FR,Aguirre
+165,3,03:54,FLA,50,59,FC,Meyinsse
+166,3,04:09,SJO,50,59,tempo_tecnico, São José
+167,3,04:09,FLA,50,59,3_Pts_C,Olivinha
+168,3,04:09,FLA,50,56,,
+169,3,04:18,FLA,50,56,RD, Rafa Luz
+170,3,04:18,SJO,50,56,2_Pts_T,Matheus Dalla
+171,3,04:47,FLA,50,56,2_Pts_C,Meyinsse
+172,3,04:47,FLA,50,54,,
+173,3,04:56,FLA,50,54,RD, Robinson
+174,3,04:56,SJO,50,54,3_Pts_T,César
+175,3,05:15,FLA,50,54,2_Pts_C,Rafa Luz
+176,3,05:15,FLA,50,52,,
+177,3,05:30,FLA,50,52,FR,Marquinhos
+178,3,05:30,SJO,50,52,FC,Matheus Dalla
+179,3,05:36,SJO,50,52,LL_Pts_C,Pedro
+180,3,05:36,SJO,49,52,2_Pts_C,Pedro
+181,3,05:36,SJO,47,52,FR,Pedro
+182,3,05:36,FLA,47,52,FC,Olivinha
+183,3,05:54,FLA,47,52,3_Pts_C,Robinson
+184,3,05:54,FLA,47,49,,
+185,3,06:02,FLA,47,49,RD, Marquinhos
+186,3,06:02,FLA,47,49,TO,Olivinha
+187,3,06:02,SJO,47,49,2_Pts_T,Matheus Dalla
+188,3,06:21,SJO,47,49,substituicao_entra,César 
+189,3,06:21,SJO,47,49,substituicao_sai,Renato C  
+190,3,06:21,FLA,47,49,LL_Pts_C,Robinson
+191,3,06:21,FLA,47,48,LL_Pts_T,Robinson
+192,3,06:21,FLA,47,48,FR,Robinson
+193,3,06:21,SJO,47,48,FC,Pedro
+194,3,06:26,SJO,47,48,2_Pts_C,Pedro
+195,3,06:45,SJO,45,48,RD, Pedro
+196,3,06:45,FLA,45,48,2_Pts_T,Rafa Luz
+197,3,06:52,FLA,45,48,RD, Robinson
+198,3,06:52,SJO,45,48,LL_Pts_T,Rodgers
+199,3,06:52,SJO,45,48,LL_Pts_T,Rodgers
+200,3,06:52,SJO,45,48,FR,Rodgers
+201,3,06:52,FLA,45,48,FC,Meyinsse
+202,3,07:08,SJO,45,48,FR,Rodgers
+203,3,07:08,FLA,45,48,FC,Rafa Luz
+204,3,07:08,SJO,45,48,BR,Rodgers
+205,3,07:08,FLA,45,48,ER,Robinson
+206,3,07:27,FLA,45,48,RD, Olivinha
+207,3,07:27,SJO,45,48,2_Pts_T,Pedro
+208,3,07:42,SJO,45,48,RD, Renato C 
+209,3,07:42,FLA,45,48,3_Pts_T,Olivinha
+210,3,07:57,SJO,45,48,2_Pts_C,Matheus Dalla
+211,3,08:13,SJO,43,48,,
+212,3,08:13,FLA,43,48,ER,Rafa Luz
+213,3,08:22,FLA,43,48,RD, Meyinsse
+214,3,08:22,SJO,43,48,2_Pts_T,Aguirre
+215,3,08:41,FLA,43,48,LL_Pts_C,Olivinha
+216,3,08:41,FLA,43,47,FR,Olivinha
+217,3,08:41,SJO,43,47,FC,Renato C 
+218,3,08:41,FLA,43,47,2_Pts_C,Olivinha
+219,3,08:41,FLA,43,45,,
+220,3,08:59,FLA,43,45,RD, Robinson
+221,3,08:59,SJO,43,45,2_Pts_T,Rodgers
+222,3,09:11,SJO,43,45,FR,Aguirre
+223,3,09:11,FLA,43,45,FC,Marquinhos
+224,3,09:18,FLA,43,45,2_Pts_C,Meyinsse
+225,3,09:23,FLA,43,43,RO, Meyinsse
+226,3,09:23,FLA,43,43,2_Pts_T,Olivinha
+227,3,09:33,FLA,43,43,RO, Olivinha
+228,3,09:33,FLA,43,43,3_Pts_T,Marquinhos
+229,3,09:49,FLA,43,43,FR,Olivinha
+230,3,09:49,SJO,43,43,FC,Aguirre
+231,2,00:00,NaN.,43,43,fim_quarto, 
+232,2,00:00,SJO,43,43,FC,Gustavo
+233,2,00:02,FLA,43,43,3_Pts_T,Marquinhos
+234,2,00:05,FLA,43,43,substituicao_entra,Marquinhos 
+235,2,00:05,FLA,43,43,substituicao_sai,Ronald Ramon 
+236,2,00:05,FLA,43,43,substituicao_sai,Rafael Mineiro 
+237,2,00:05,FLA,43,43,substituicao_entra,Rafa Luz 
+238,2,00:05,SJO,43,43,substituicao_entra,Biloca 
+239,2,00:05,SJO,43,43,substituicao_entra,Gustavo 
+240,2,00:05,SJO,43,43,substituicao_entra,César 
+241,2,00:05,SJO,43,43,substituicao_sai,Renato C  
+242,2,00:05,SJO,43,43,substituicao_sai,Pedro 
+243,2,00:05,SJO,43,43,substituicao_sai,Rodgers 
+244,2,00:07,FLA,43,43,tempo_tecnico, Flamengo
+245,2,00:07,SJO,43,43,3_Pts_C,Matheus Dalla
+246,2,00:07,SJO,40,43,,
+247,2,00:30,FLA,40,43,2_Pts_C,Rafael Mineiro
+248,2,00:30,FLA,40,41,,
+249,2,00:33,FLA,40,41,RO, JP Batista
+250,2,00:33,FLA,40,41,3_Pts_T,Marcelinho
+251,2,00:50,FLA,40,41,RD, JP Batista
+252,2,00:50,SJO,40,41,2_Pts_T,Rodgers
+253,2,01:08,FLA,40,41,2_Pts_C,Rafael Mineiro
+254,2,01:08,FLA,40,39,,
+255,2,01:45,SJO,40,39,2_Pts_C,Rodgers
+256,2,01:51,SJO,38,39,RD, Matheus Dalla
+257,2,01:51,FLA,38,39,LL_Pts_T,Rafael Mineiro
+258,2,01:51,FLA,38,39,LL_Pts_T,Rafael Mineiro
+259,2,01:51,SJO,38,39,substituicao_sai,Cauê 
+260,2,01:51,SJO,38,39,substituicao_entra,Matheus Dalla 
+261,2,01:51,SJO,38,39,substituicao_sai,Gustavo 
+262,2,01:51,SJO,38,39,substituicao_entra,Pedro 
+263,2,01:51,FLA,38,39,FR,Rafael Mineiro
+264,2,01:51,SJO,38,39,FC,Cauê
+265,2,01:58,FLA,38,39,RD, Marcelinho
+266,2,01:58,SJO,38,39,3_Pts_T,Gustavo
+267,2,02:17,FLA,38,39,3_Pts_C,Ronald Ramon
+268,2,02:17,FLA,38,36,,
+269,2,02:40,SJO,38,36,2_Pts_C,Rodgers
+270,2,02:55,SJO,36,36,RD, Rodgers
+271,2,02:55,FLA,36,36,3_Pts_T,Marcelinho
+272,2,03:00,FLA,36,36,FR,Marcelinho
+273,2,03:08,FLA,36,36,substituicao_sai,Marquinhos 
+274,2,03:08,FLA,36,36,substituicao_entra,Robinson 
+275,2,03:08,SJO,36,36,substituicao_sai,César 
+276,2,03:08,SJO,36,36,substituicao_entra,Bruno Ferreira 
+277,2,03:08,FLA,36,36,2_Pts_C,JP Batista
+278,2,03:19,SJO,36,34,2_Pts_C,Renato C 
+279,2,03:23,SJO,34,34,RO, Renato C 
+280,2,03:23,SJO,34,34,2_Pts_T,Gustavo
+281,2,03:29,SJO,34,34,RD, César
+282,2,03:40,FLA,34,34,RD, JP Batista
+283,2,03:40,SJO,34,34,2_Pts_T,Rodgers
+284,2,04:02,FLA,34,34,RO, JP Batista
+285,2,04:02,FLA,34,34,2_Pts_T,Rafael Mineiro
+286,2,04:23,FLA,34,34,RD, JP Batista
+287,2,04:23,SJO,34,34,3_Pts_T,Renato C 
+288,2,04:46,SJO,34,34,RD, Gustavo
+289,2,04:46,FLA,34,34,2_Pts_T,Marquinhos
+290,2,04:58,FLA,34,34,RD, JP Batista
+291,2,04:58,SJO,34,34,2_Pts_T,Gustavo
+292,2,05:19,FLA,34,34,2_Pts_C,Rafael Mineiro
+293,2,05:19,FLA,34,32,,
+294,2,05:38,SJO,34,32,2_Pts_C,Rodgers
+295,2,05:38,SJO,32,32,,
+296,2,05:45,SJO,32,32,RD, Cauê
+297,2,05:45,FLA,32,32,3_Pts_T,Rafael Mineiro
+298,2,05:53,FLA,32,32,RD, JP Batista
+299,2,05:53,SJO,32,32,2_Pts_T,Renato C 
+300,2,06:02,SJO,32,32,RO, Rodgers
+301,2,06:02,FLA,32,32,TO,Rafael Mineiro
+302,2,06:02,SJO,32,32,2_Pts_T,Rodgers
+303,2,06:19,FLA,32,32,EN,Rafael Mineiro
+304,2,06:19,FLA,32,30,,
+305,2,06:21,FLA,32,30,FR,JP Batista
+306,2,06:21,SJO,32,30,FC,Cauê
+307,2,06:25,FLA,32,30,RO, JP Batista
+308,2,06:25,FLA,32,30,3_Pts_T,Rafael Mineiro
+309,2,06:36,SJO,32,30,3_Pts_C,Cauê
+310,2,06:45,SJO,29,30,RD, Renato C 
+311,2,06:45,FLA,29,30,2_Pts_T,Marquinhos
+312,2,07:03,SJO,29,30,substituicao_sai,Daniel Filé 
+313,2,07:03,SJO,29,30,substituicao_entra,Renato C  
+314,2,07:03,SJO,29,30,2_Pts_C,Daniel Filé
+315,2,07:03,SJO,27,30,,
+316,2,07:22,FLA,27,30,2_Pts_C,JP Batista
+317,2,07:34,FLA,27,28,RD, Rafael Mineiro
+318,2,07:34,SJO,27,28,2_Pts_T,Daniel Filé
+319,2,07:57,FLA,27,28,2_Pts_C,JP Batista
+320,2,07:57,FLA,27,26,,
+321,2,08:09,FLA,27,26,RD, JP Batista
+322,2,08:09,SJO,27,26,2_Pts_T,Rodgers
+323,2,08:30,SJO,27,26,RD, César
+324,2,08:30,FLA,27,26,LL_Pts_T,Rafael Mineiro
+325,2,08:30,FLA,27,26,FR,Rafael Mineiro
+326,2,08:30,SJO,27,26,FC,Daniel Filé
+327,2,08:30,FLA,27,26,2_Pts_C,Rafael Mineiro
+328,2,08:30,FLA,27,24,,
+329,2,08:42,SJO,27,24,3_Pts_C,Gustavo
+330,2,08:42,SJO,24,24,,
+331,2,08:58,FLA,24,24,2_Pts_C,Marquinhos
+332,2,08:58,FLA,24,22,,
+333,2,09:08,FLA,24,22,RD, Rafael Mineiro
+334,2,09:08,SJO,24,22,LL_Pts_T,Gustavo
+335,2,09:08,SJO,24,22,2_Pts_C,Gustavo
+336,2,09:08,SJO,22,22,FR,Gustavo
+337,2,09:08,FLA,22,22,FC,Marcelinho
+338,2,09:20,SJO,22,22,FR,Cauê
+339,2,09:20,FLA,22,22,FC_O,Ronald Ramon
+340,2,09:23,FLA,22,22,FR,Ronald Ramon
+341,2,09:23,SJO,22,22,FC_O,Cauê
+342,2,09:35,FLA,22,22,2_Pts_C,JP Batista
+343,2,09:35,FLA,22,20,,
+344,2,09:46,FLA,22,20,RD, JP Batista
+345,2,09:46,SJO,22,20,2_Pts_T,Rodgers
+346,1,00:00,NaN.,22,20,fim_quarto, 
+347,1,00:04,SJO,22,20,substituicao_sai,Daniel Filé 
+348,1,00:04,SJO,22,20,substituicao_entra,João Pedro 
+349,1,00:04,SJO,22,20,substituicao_entra,Bruno Ferreira 
+350,1,00:04,SJO,22,20,substituicao_sai,Rodgers 
+351,1,00:04,SJO,22,20,LL_Pts_C,Rodgers
+352,1,00:04,SJO,21,20,LL_Pts_C,Rodgers
+353,1,00:04,SJO,20,20,substituicao_entra,Biloca 
+354,1,00:04,SJO,20,20,substituicao_entra,Gustavo 
+355,1,00:04,SJO,20,20,substituicao_sai,Pedro 
+356,1,00:04,SJO,20,20,substituicao_sai,Matheus Dalla 
+357,1,00:04,SJO,20,20,FR,Rodgers
+358,1,00:04,FLA,20,20,FC,JP Batista
+359,1,00:15,FLA,20,20,substituicao_entra,Rafael Mineiro 
+360,1,00:15,FLA,20,20,substituicao_sai,Olivinha 
+361,1,00:15,FLA,20,20,substituicao_sai,Meyinsse 
+362,1,00:15,FLA,20,20,substituicao_entra,JP Batista 
+363,1,00:18,FLA,20,20,ER,Olivinha
+364,1,00:24,FLA,20,20,BR,Marquinhos
+365,1,00:24,SJO,20,20,ER,Rodgers
+366,1,00:37,FLA,20,20,substituicao_sai,Rafa Luz 
+367,1,00:37,FLA,20,20,substituicao_entra,Ronald Ramon 
+368,1,00:37,SJO,20,20,substituicao_sai,Renato C  
+369,1,00:37,SJO,20,20,substituicao_entra,Daniel Filé 
+370,1,00:37,FLA,20,20,LL_Pts_C,Rafa Luz
+371,1,00:37,FLA,20,19,LL_Pts_C,Rafa Luz
+372,1,00:37,FLA,20,18,FR,Rafa Luz
+373,1,00:37,SJO,20,18,FC,Renato C 
+374,1,01:01,FLA,20,18,2_Pts_C,Olivinha
+375,1,01:12,SJO,20,16,substituicao_sai,Aguirre 
+376,1,01:12,SJO,20,16,substituicao_entra,César 
+377,1,01:12,FLA,20,16,FR,Robinson
+378,1,01:12,SJO,20,16,FC,Aguirre
+379,1,01:16,SJO,20,16,2_Pts_C,Aguirre
+380,1,01:39,SJO,18,16,RD, São José
+381,1,01:39,FLA,18,16,2_Pts_T,Rafa Luz
+382,1,01:44,FLA,18,16,RD, Rafa Luz
+383,1,01:44,FLA,18,16,TO,Meyinsse
+384,1,01:44,SJO,18,16,2_Pts_T,Matheus Dalla
+385,1,02:43,SJO,18,16,FR,Rodgers
+386,1,02:43,FLA,18,16,FC,Rafa Luz
+387,1,02:45,FLA,18,16,3_Pts_C,Marquinhos
+388,1,02:45,SJO,18,13,3_Pts_C,Pedro
+389,1,03:15,FLA,15,13,2_Pts_C,Olivinha
+390,1,03:15,FLA,15,11,,
+391,1,03:22,FLA,15,11,FR,Meyinsse
+392,1,03:22,SJO,15,11,FC,Aguirre
+393,1,03:32,SJO,15,11,2_Pts_C,Pedro
+394,1,03:55,SJO,13,11,,
+395,1,03:55,FLA,13,11,ER,Marquinhos
+396,1,04:09,SJO,13,11,3_Pts_C,Matheus Dalla
+397,1,04:09,SJO,10,11,,
+398,1,04:27,SJO,10,11,RD, Renato C 
+399,1,04:27,FLA,10,11,3_Pts_T,Robinson
+400,1,04:33,FLA,10,11,RO, Meyinsse
+401,1,04:33,FLA,10,11,3_Pts_T,Olivinha
+402,1,04:39,FLA,10,11,RD, Robinson
+403,1,04:39,SJO,10,11,2_Pts_T,Aguirre
+404,1,04:56,FLA,10,11,2_Pts_C,Olivinha
+405,1,05:00,FLA,10,9,BR,Olivinha
+406,1,05:00,SJO,10,9,ER,Pedro
+407,1,05:14,FLA,10,9,3_Pts_C,Olivinha
+408,1,05:14,FLA,10,6,,
+409,1,05:21,SJO,10,6,3_Pts_C,Pedro
+410,1,05:21,SJO,7,6,,
+411,1,05:40,SJO,7,6,FR,Rodgers
+412,1,05:40,FLA,7,6,FC,Rafa Luz
+413,1,05:57,SJO,7,6,RD, São José
+414,1,05:57,FLA,7,6,3_Pts_T,Rafa Luz
+415,1,06:14,SJO,7,6,2_Pts_C,Aguirre
+416,1,06:14,SJO,5,6,,
+417,1,06:30,FLA,5,6,,
+418,1,06:30,FLA,5,6,LL_Pts_C,Olivinha
+419,1,06:30,FLA,5,5,LL_Pts_T,Olivinha
+420,1,06:30,FLA,5,5,FR,Olivinha
+421,1,06:30,SJO,5,5,FC,Renato C 
+422,1,06:46,FLA,5,5,RD, Meyinsse
+423,1,06:46,SJO,5,5,3_Pts_T,Pedro
+424,1,06:54,SJO,5,5,RO, Renato C 
+425,1,06:54,SJO,5,5,3_Pts_T,Pedro
+426,1,07:01,SJO,5,5,RD, Aguirre
+427,1,07:01,FLA,5,5,2_Pts_T,Meyinsse
+428,1,07:30,SJO,5,5,3_Pts_C,Pedro
+429,1,07:30,SJO,2,5,,
+430,1,07:40,SJO,2,5,RD, Aguirre
+431,1,07:40,FLA,2,5,2_Pts_T,Meyinsse
+432,1,07:57,FLA,2,5,RD, Marquinhos
+433,1,07:57,SJO,2,5,3_Pts_T,Pedro
+434,1,08:13,FLA,2,5,FR,Robinson
+435,1,08:13,SJO,2,5,FC,Pedro
+436,1,08:13,SJO,2,5,,
+437,1,08:13,FLA,2,5,ER,Rafa Luz
+438,1,08:43,FLA,2,5,2_Pts_C,Meyinsse
+439,1,08:43,FLA,2,3,,
+440,1,08:50,SJO,2,3,2_Pts_C,Pedro
+441,1,08:54,SJO,0,3,BR,Aguirre
+442,1,08:54,FLA,0,3,ER,Marquinhos
+443,1,09:03,FLA,0,3,RD, Marquinhos
+444,1,09:03,SJO,0,3,3_Pts_T,Matheus Dalla
+445,1,09:05,SJO,0,3,substituicao_sai,César 
+446,1,09:05,SJO,0,3,substituicao_entra,Matheus Dalla 
+447,1,09:20,SJO,0,3,RO, Renato C 
+448,1,09:20,SJO,0,3,2_Pts_T,Rodgers
+449,1,09:41,FLA,0,3,3_Pts_C,Robinson
+450,1,09:41,FLA,0,0,,
+451,1,10:00,SJO,0,0,substituicao_entra,Aguirre 
+452,1,10:00,SJO,0,0,substituicao_entra,Renato C  
+453,1,10:00,SJO,0,0,substituicao_entra,Pedro 
+454,1,10:00,SJO,0,0,substituicao_entra,Rodgers 
+455,1,10:00,SJO,0,0,substituicao_entra,César 
+456,1,10:00,FLA,0,0,substituicao_entra,Meyinsse 
+457,1,10:00,FLA,0,0,substituicao_entra,Robinson 
+458,1,10:00,FLA,0,0,substituicao_entra,Olivinha 
+459,1,10:00,FLA,0,0,substituicao_entra,Marquinhos 
+460,1,10:00,FLA,0,0,substituicao_entra,Rafa Luz 

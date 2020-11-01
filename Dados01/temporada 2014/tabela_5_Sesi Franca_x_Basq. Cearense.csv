@@ -1,0 +1,552 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,90,66,fim_partida, 
+1,4,00:00,CEA,90,66,substituicao_sai,Andrezão 
+2,4,00:00,CEA,90,66,substituicao_entra,Victor 
+3,4,00:00,CEA,90,66,FC_T,Andrezão
+4,4,00:00,CEA,90,66,substituicao_entra,Andrezão 
+5,4,00:00,CEA,90,66,substituicao_sai,Victor 
+6,4,00:00,CEA,90,66,RD, Basquete Cearense
+7,4,00:00,FRA,90,66,3_Pts_T,Pedro
+8,4,00:06,CEA,90,66,2_Pts_C,Victor
+9,4,00:06,CEA,90,64,,
+10,4,00:13,CEA,90,64,RD, Alexandre
+11,4,00:13,FRA,90,64,LL_Pts_T,Cobos
+12,4,00:13,FRA,90,64,LL_Pts_C,Cobos
+13,4,00:13,FRA,89,64,FR,Cobos
+14,4,00:13,CEA,89,64,FC,Alexandre
+15,4,00:17,CEA,89,64,LL_Pts_C,Davi
+16,4,00:17,CEA,89,63,LL_Pts_C,Davi
+17,4,00:17,CEA,89,62,FR,Davi
+18,4,00:17,FRA,89,62,FC,Helinho
+19,4,00:20,CEA,89,62,tempo_tecnico, Basquete Cearense
+20,4,00:20,FRA,89,62,LL_Pts_T,Helinho
+21,4,00:20,FRA,89,62,LL_Pts_C,Helinho
+22,4,00:20,FRA,88,62,FR,Helinho
+23,4,00:20,CEA,88,62,FC,Alexandre
+24,4,00:30,CEA,88,62,LL_Pts_C,Victor
+25,4,00:30,CEA,88,61,2_Pts_C,Victor
+26,4,00:30,CEA,88,59,FR,Victor
+27,4,00:30,FRA,88,59,FC,Pedro
+28,4,00:44,CEA,88,59,RD, Alexandre
+29,4,00:44,FRA,88,59,LL_Pts_T,Cobos
+30,4,00:44,FRA,88,59,LL_Pts_C,Cobos
+31,4,00:44,CEA,87,59,substituicao_sai,Andrezão 
+32,4,00:44,CEA,87,59,substituicao_entra,Romulo 
+33,4,00:44,FRA,87,59,FR,Cobos
+34,4,00:44,CEA,87,59,FC,Andrezão
+35,4,00:44,FRA,87,59,FR,Cobos
+36,4,00:44,FRA,87,59,BR,Cobos
+37,4,00:44,CEA,87,59,ER,Davi
+38,4,00:49,FRA,87,59,LL_Pts_C,João Pedro
+39,4,00:49,FRA,86,59,LL_Pts_C,João Pedro
+40,4,00:49,CEA,85,59,substituicao_entra,Leal 
+41,4,00:49,CEA,85,59,substituicao_sai,Socas 
+42,4,00:49,CEA,85,59,substituicao_entra,Victor 
+43,4,00:49,CEA,85,59,substituicao_sai,F  Fischer 
+44,4,00:49,FRA,85,59,FR,João Pedro
+45,4,00:49,CEA,85,59,FC,Andrezão
+46,4,00:49,FRA,85,59,RD, João Pedro
+47,4,00:49,CEA,85,59,3_Pts_T,Socas
+48,4,00:53,FRA,85,59,2_Pts_C,Helinho
+49,4,01:20,CEA,83,59,LL_Pts_C,Davi
+50,4,01:20,CEA,83,58,LL_Pts_T,Davi
+51,4,01:20,CEA,83,58,FR,Davi
+52,4,01:20,FRA,83,58,FC,Pedro
+53,4,01:28,CEA,83,58,RO, Davi
+54,4,01:28,CEA,83,58,3_Pts_T,F  Fischer
+55,4,01:32,CEA,83,58,BR,Davi
+56,4,01:32,FRA,83,58,ER,João Pedro
+57,4,01:46,CEA,83,58,LL_Pts_C,Andrezão
+58,4,01:46,CEA,83,57,LL_Pts_T,Andrezão
+59,4,01:46,CEA,83,57,FR,Andrezão
+60,4,01:46,FRA,83,57,FC,Helinho
+61,4,01:46,CEA,83,57,BR,Andrezão
+62,4,01:46,FRA,83,57,ER,Helinho
+63,4,01:56,CEA,83,57,substituicao_entra,Alexandre 
+64,4,01:56,CEA,83,57,substituicao_sai,Erick Camilo 
+65,4,02:03,FRA,83,57,RO, João Pedro
+66,4,02:03,FRA,83,57,2_Pts_T,Pedro
+67,4,02:18,CEA,83,57,2_Pts_C,Davi
+68,4,02:42,CEA,83,55,tempo_tecnico, Basquete Cearense
+69,4,02:42,FRA,83,55,substituicao_sai,Mata 
+70,4,02:42,FRA,83,55,substituicao_entra,Pedro 
+71,4,02:42,CEA,83,55,RD, Basquete Cearense
+72,4,02:42,FRA,83,55,3_Pts_T,Helinho
+73,4,03:06,FRA,83,55,RD, Helinho
+74,4,03:06,CEA,83,55,3_Pts_T,Andrezão
+75,4,03:13,CEA,83,55,BR,Andrezão
+76,4,03:13,FRA,83,55,ER,Tom
+77,4,03:27,FRA,83,55,RD, João Pedro
+78,4,03:27,CEA,83,55,2_Pts_T,Davi
+79,4,03:46,CEA,83,55,RD, Erick Camilo
+80,4,03:46,FRA,83,55,2_Pts_T,Tom
+81,4,03:54,FRA,83,55,substituicao_entra,João Pedro 
+82,4,03:54,FRA,83,55,substituicao_sai,Antonio 
+83,4,04:07,FRA,83,55,RD, Cobos
+84,4,04:07,FRA,83,55,TO,Mata
+85,4,04:07,CEA,83,55,2_Pts_T,Erick Camilo
+86,4,04:12,CEA,83,55,RO, Erick Camilo
+87,4,04:12,CEA,83,55,3_Pts_T,F  Fischer
+88,4,04:21,FRA,83,55,LL_Pts_C,Antonio
+89,4,04:21,FRA,82,55,LL_Pts_C,Antonio
+90,4,04:21,FRA,81,55,FR,Antonio
+91,4,04:21,CEA,81,55,FC,Andrezão
+92,4,04:26,FRA,81,55,BR,Cobos
+93,4,04:26,CEA,81,55,ER,Socas
+94,4,04:34,CEA,81,55,FR,Erick Camilo
+95,4,04:34,FRA,81,55,FC,Tom
+96,4,04:42,CEA,81,55,,
+97,4,04:42,FRA,81,55,ER,Mata
+98,4,04:46,FRA,81,55,BR,Mata
+99,4,04:46,CEA,81,55,ER,F  Fischer
+100,4,04:56,CEA,81,55,substituicao_entra,Andrezão 
+101,4,04:56,CEA,81,55,substituicao_sai,Romulo 
+102,4,04:56,CEA,81,55,substituicao_entra,Davi 
+103,4,04:56,CEA,81,55,substituicao_sai,Victor 
+104,4,04:56,CEA,81,55,FR,Victor
+105,4,04:56,FRA,81,55,FC,Antonio
+106,4,05:01,CEA,81,55,RD, Victor
+107,4,05:01,FRA,81,55,2_Pts_T,Mata
+108,4,05:27,FRA,81,55,RD, Tom
+109,4,05:27,CEA,81,55,2_Pts_T,Erick Camilo
+110,4,05:50,FRA,81,55,3_Pts_C,Mata
+111,4,05:50,FRA,78,55,,
+112,4,06:08,FRA,78,55,RD, Mata
+113,4,06:08,CEA,78,55,2_Pts_T,Socas
+114,4,06:27,CEA,78,55,RD, Erick Camilo
+115,4,06:27,FRA,78,55,2_Pts_T,Helinho
+116,4,06:37,FRA,78,55,RD, Helinho
+117,4,06:37,FRA,78,55,TO,Antonio
+118,4,06:37,CEA,78,55,2_Pts_T,Victor
+119,4,06:41,CEA,78,55,BR,Victor
+120,4,06:41,FRA,78,55,ER,Mata
+121,4,06:52,CEA,78,55,ER,Victor
+122,4,07:04,FRA,78,55,substituicao_entra,Mata 
+123,4,07:04,FRA,78,55,substituicao_sai,Léo Meindl 
+124,4,07:04,FRA,78,55,substituicao_sai,Léo Waszkiewicz 
+125,4,07:04,FRA,78,55,substituicao_entra,Tom 
+126,4,07:04,CEA,78,55,FR,Romulo
+127,4,07:04,FRA,78,55,FC,Léo Waszkiewicz
+128,4,07:11,CEA,78,55,RD, F  Fischer
+129,4,07:11,FRA,78,55,2_Pts_T,Léo Waszkiewicz
+130,4,07:36,FRA,78,55,RD, Léo Meindl
+131,4,07:36,CEA,78,55,3_Pts_T,F  Fischer
+132,4,07:43,CEA,78,55,FR,Romulo
+133,4,07:43,FRA,78,55,FC,Léo Waszkiewicz
+134,4,07:43,CEA,78,55,RD, Romulo
+135,4,07:43,FRA,78,55,2_Pts_T,Antonio
+136,4,07:52,FRA,78,55,FR,Léo Meindl
+137,4,07:52,CEA,78,55,FC,Victor
+138,4,08:10,CEA,78,55,3_Pts_C,Erick Camilo
+139,4,08:10,CEA,78,52,,
+140,4,08:20,CEA,78,52,RD, Basquete Cearense
+141,4,08:20,FRA,78,52,3_Pts_T,Cobos
+142,4,08:46,FRA,78,52,BR,Antonio
+143,4,08:46,CEA,78,52,ER,F  Fischer
+144,4,09:00,CEA,78,52,RD, Erick Camilo
+145,4,09:00,FRA,78,52,2_Pts_T,Léo Meindl
+146,4,09:23,CEA,78,52,3_Pts_C,F  Fischer
+147,4,09:23,CEA,78,49,,
+148,4,09:31,FRA,78,49,LL_Pts_C,Léo Meindl
+149,4,09:31,FRA,77,49,LL_Pts_C,Léo Meindl
+150,4,09:31,FRA,76,49,LL_Pts_T,Léo Meindl
+151,4,09:31,FRA,76,49,FR,Léo Meindl
+152,4,09:31,CEA,76,49,FC,Victor
+153,4,09:43,CEA,76,49,2_Pts_C,Erick Camilo
+154,4,09:52,CEA,76,47,BR,Erick Camilo
+155,4,09:52,FRA,76,47,ER,Léo Waszkiewicz
+156,3,00:00,NaN.,76,47,fim_quarto, 
+157,3,00:00,FRA,76,47,3_Pts_T,Figueroa
+158,3,00:01,FRA,76,47,RD, Franca
+159,3,00:01,FRA,76,47,TO,Léo Waszkiewicz
+160,3,00:01,CEA,76,47,2_Pts_T,Socas
+161,3,00:14,FRA,76,47,3_Pts_C,Léo Meindl
+162,3,00:14,FRA,73,47,,
+163,3,00:21,FRA,73,47,FR,Léo Meindl
+164,3,00:21,CEA,73,47,FC,Victor
+165,3,00:29,CEA,73,47,LL_Pts_C,Erick Camilo
+166,3,00:29,CEA,73,46,substituicao_entra,Romulo 
+167,3,00:29,CEA,73,46,substituicao_entra,F  Fischer 
+168,3,00:29,CEA,73,46,substituicao_sai,Leal 
+169,3,00:29,CEA,73,46,substituicao_sai,Davi 
+170,3,00:29,CEA,73,46,2_Pts_C,Erick Camilo
+171,3,00:29,CEA,73,44,FR,Erick Camilo
+172,3,00:29,FRA,73,44,FC,Figueroa
+173,3,00:50,FRA,73,44,2_Pts_C,Lucas Mariano
+174,3,01:12,CEA,71,44,LL_Pts_C,Erick Camilo
+175,3,01:12,CEA,71,43,LL_Pts_C,Erick Camilo
+176,3,01:12,CEA,71,42,FR,Erick Camilo
+177,3,01:12,FRA,71,42,FC,Figueroa
+178,3,01:32,FRA,71,42,3_Pts_C,Léo Meindl
+179,3,01:32,FRA,68,42,,
+180,3,01:44,CEA,68,42,2_Pts_C,Victor
+181,3,02:06,FRA,68,40,EN,Léo Waszkiewicz
+182,3,02:06,FRA,66,40,,
+183,3,02:19,CEA,66,40,LL_Pts_C,Leal
+184,3,02:19,CEA,66,39,LL_Pts_T,Leal
+185,3,02:19,CEA,66,39,substituicao_entra,Erick Camilo 
+186,3,02:19,CEA,66,39,substituicao_sai,Alexandre 
+187,3,02:19,CEA,66,39,FR,Leal
+188,3,02:19,FRA,66,39,FC,Léo Waszkiewicz
+189,3,02:33,FRA,66,39,2_Pts_C,Lucas Mariano
+190,3,02:33,FRA,64,39,,
+191,3,02:41,FRA,64,39,RD, Léo Waszkiewicz
+192,3,02:41,CEA,64,39,2_Pts_T,Victor
+193,3,03:05,FRA,64,39,3_Pts_C,Lucas Mariano
+194,3,03:05,FRA,61,39,,
+195,3,03:21,FRA,61,39,FR,Figueroa
+196,3,03:21,CEA,61,39,FC,Davi
+197,3,03:23,FRA,61,39,RD, Figueroa
+198,3,03:23,FRA,61,39,TO,Léo Meindl
+199,3,03:23,CEA,61,39,2_Pts_T,Victor
+200,3,03:30,CEA,61,39,RD, Socas
+201,3,03:30,FRA,61,39,LL_Pts_T,Lucas Mariano
+202,3,03:30,FRA,61,39,LL_Pts_T,Lucas Mariano
+203,3,03:30,FRA,61,39,FR,Lucas Mariano
+204,3,03:30,CEA,61,39,FC,Alexandre
+205,3,03:45,CEA,61,39,2_Pts_C,Victor
+206,3,04:05,CEA,61,37,,
+207,3,04:05,FRA,61,37,ER,Mata
+208,3,04:21,FRA,61,37,RD, Mata
+209,3,04:21,CEA,61,37,LL_Pts_T,Leal
+210,3,04:21,CEA,61,37,LL_Pts_C,Leal
+211,3,04:21,CEA,61,36,FR,Leal
+212,3,04:21,FRA,61,36,FC,Lucas Mariano
+213,3,04:45,FRA,61,36,substituicao_entra,Léo Waszkiewicz 
+214,3,04:45,FRA,61,36,substituicao_sai,André Luiz 
+215,3,04:45,CEA,61,36,substituicao_entra,Alexandre 
+216,3,04:45,CEA,61,36,substituicao_sai,Andrezão 
+217,3,04:45,CEA,61,36,,
+218,3,04:45,FRA,61,36,ER,Léo Meindl
+219,3,04:48,FRA,61,36,RD, Figueroa
+220,3,04:48,CEA,61,36,2_Pts_T,Andrezão
+221,3,05:05,FRA,61,36,EN,Lucas Mariano
+222,3,05:05,FRA,59,36,,
+223,3,05:21,CEA,59,36,substituicao_entra,Socas 
+224,3,05:21,CEA,59,36,substituicao_sai,F  Fischer 
+225,3,05:21,CEA,59,36,substituicao_entra,Leal 
+226,3,05:21,CEA,59,36,substituicao_sai,Romulo 
+227,3,05:21,FRA,59,36,RO, Franca
+228,3,05:21,CEA,59,36,TO,Romulo
+229,3,05:21,FRA,59,36,2_Pts_T,Léo Meindl
+230,3,05:29,FRA,59,36,RD, Léo Meindl
+231,3,05:29,CEA,59,36,3_Pts_T,Davi
+232,3,05:38,FRA,59,36,2_Pts_C,André Luiz
+233,3,05:53,CEA,57,36,LL_Pts_C,Davi
+234,3,05:53,CEA,57,35,LL_Pts_C,Davi
+235,3,05:53,CEA,57,34,FR,Davi
+236,3,05:53,FRA,57,34,FC,Figueroa
+237,3,05:55,CEA,57,34,BR,Andrezão
+238,3,05:55,FRA,57,34,ER,Lucas Mariano
+239,3,06:00,FRA,57,34,RD, Mata
+240,3,06:00,FRA,57,34,TO,André Luiz
+241,3,06:00,CEA,57,34,3_Pts_T,F  Fischer
+242,3,06:06,CEA,57,34,RO, Basquete Cearense
+243,3,06:06,CEA,57,34,2_Pts_T,Davi
+244,3,06:10,CEA,57,34,RO, Davi
+245,3,06:10,CEA,57,34,3_Pts_T,F  Fischer
+246,3,06:15,CEA,57,34,RO, Basquete Cearense
+247,3,06:15,FRA,57,34,TO,André Luiz
+248,3,06:15,CEA,57,34,2_Pts_T,Victor
+249,3,06:36,FRA,57,34,3_Pts_C,Mata
+250,3,06:56,CEA,54,34,2_Pts_C,Victor
+251,3,07:01,CEA,54,32,BR,Victor
+252,3,07:01,FRA,54,32,ER,Figueroa
+253,3,07:10,FRA,54,32,RD, Lucas Mariano
+254,3,07:10,CEA,54,32,LL_Pts_T,Andrezão
+255,3,07:10,CEA,54,32,LL_Pts_C,Andrezão
+256,3,07:10,CEA,54,31,FR,Andrezão
+257,3,07:10,FRA,54,31,FC,Lucas Mariano
+258,3,07:24,CEA,54,31,RD, Andrezão
+259,3,07:24,CEA,54,31,TO,Romulo
+260,3,07:24,FRA,54,31,2_Pts_T,André Luiz
+261,3,07:38,FRA,54,31,,
+262,3,07:38,CEA,54,31,ER,F  Fischer
+263,3,07:41,CEA,54,31,FR,F  Fischer
+264,3,07:41,FRA,54,31,FC,Lucas Mariano
+265,3,07:59,FRA,54,31,2_Pts_C,André Luiz
+266,3,08:24,CEA,52,31,2_Pts_C,Romulo
+267,3,08:24,CEA,52,29,,
+268,3,08:32,CEA,52,29,RO, Victor
+269,3,08:32,CEA,52,29,LL_Pts_T,Victor
+270,3,08:32,CEA,52,29,LL_Pts_T,Victor
+271,3,08:32,CEA,52,29,FR,Victor
+272,3,08:32,FRA,52,29,FC,André Luiz
+273,3,08:32,FRA,52,29,substituicao_sai,Helinho 
+274,3,08:32,FRA,52,29,substituicao_entra,Lucas Mariano 
+275,3,08:48,FRA,52,29,3_Pts_C,Mata
+276,3,09:00,CEA,49,29,LL_Pts_C,Davi
+277,3,09:00,CEA,49,28,LL_Pts_T,Davi
+278,3,09:00,CEA,49,28,FR,Davi
+279,3,09:00,FRA,49,28,FC,Figueroa
+280,3,09:27,FRA,49,28,3_Pts_C,Léo Meindl
+281,3,09:27,FRA,46,28,,
+282,3,09:43,FRA,46,28,RD, Franca
+283,3,09:43,CEA,46,28,3_Pts_T,Davi
+284,2,00:00,NaN.,46,28,fim_quarto, 
+285,2,00:00,FRA,46,28,RD, Léo Waszkiewicz
+286,2,00:00,CEA,46,28,2_Pts_T,Leal
+287,2,00:05,CEA,46,28,FR,Davi
+288,2,00:05,FRA,46,28,FC,Léo Waszkiewicz
+289,2,00:06,CEA,46,28,FR,Davi
+290,2,00:06,FRA,46,28,FC,Helinho
+291,2,00:21,CEA,46,28,RD, Alexandre
+292,2,00:21,FRA,46,28,LL_Pts_T,Léo Waszkiewicz
+293,2,00:21,FRA,46,28,LL_Pts_T,Léo Waszkiewicz
+294,2,00:21,CEA,46,28,substituicao_entra,Leal 
+295,2,00:21,CEA,46,28,substituicao_sai,Andrezão 
+296,2,00:21,FRA,46,28,FR,Léo Waszkiewicz
+297,2,00:21,CEA,46,28,FC,Alexandre
+298,2,00:33,FRA,46,28,BR,Helinho
+299,2,00:33,CEA,46,28,ER,Victor
+300,2,00:43,FRA,46,28,LL_Pts_C,Helinho
+301,2,00:43,FRA,45,28,LL_Pts_C,Helinho
+302,2,00:43,FRA,44,28,substituicao_entra,Mata 
+303,2,00:43,FRA,44,28,substituicao_sai,Léo Meindl 
+304,2,00:43,FRA,44,28,FR,Helinho
+305,2,00:43,CEA,44,28,FC,Davi
+306,2,00:55,CEA,44,28,substituicao_entra,Alexandre 
+307,2,00:55,CEA,44,28,substituicao_sai,Socas 
+308,2,00:55,CEA,44,28,ER,
+309,2,00:55,CEA,44,28,RO, Victor
+310,2,00:55,CEA,44,28,2_Pts_T,Andrezão
+311,2,01:23,FRA,44,28,2_Pts_C,Antonio
+312,2,01:23,FRA,42,28,,
+313,2,01:34,CEA,42,28,2_Pts_C,Davi
+314,2,01:41,CEA,42,26,RO, Victor
+315,2,01:41,CEA,42,26,2_Pts_T,Socas
+316,2,01:54,CEA,42,26,RO, F  Fischer
+317,2,01:54,CEA,42,26,3_Pts_T,Andrezão
+318,2,01:58,CEA,42,26,substituicao_entra,Victor 
+319,2,01:58,CEA,42,26,substituicao_sai,Alexandre 
+320,2,01:58,CEA,42,26,substituicao_entra,F  Fischer 
+321,2,01:58,CEA,42,26,substituicao_sai,Victor 
+322,2,01:58,CEA,42,26,RO, Basquete Cearense
+323,2,01:58,FRA,42,26,TO,Léo Meindl
+324,2,01:58,CEA,42,26,2_Pts_T,Davi
+325,2,02:21,CEA,42,26,substituicao_entra,Alexandre 
+326,2,02:21,CEA,42,26,substituicao_sai,Romulo 
+327,2,02:21,FRA,42,26,LL_Pts_C,Antonio
+328,2,02:21,FRA,41,26,LL_Pts_T,Antonio
+329,2,02:21,FRA,41,26,FR,Antonio
+330,2,02:21,CEA,41,26,FC,Romulo
+331,2,02:38,CEA,41,26,LL_Pts_C,Davi
+332,2,02:38,FRA,41,25,tempo_tecnico, Franca
+333,2,02:38,CEA,41,25,2_Pts_C,Davi
+334,2,02:38,CEA,41,23,FR,Davi
+335,2,02:38,FRA,41,23,FC,Cobos
+336,2,02:43,CEA,41,23,BR,Victor
+337,2,02:43,FRA,41,23,ER,Helinho
+338,2,02:52,CEA,41,23,2_Pts_C,Socas
+339,2,02:59,FRA,41,21,substituicao_entra,Cobos 
+340,2,02:59,FRA,41,21,substituicao_sai,Figueroa 
+341,2,02:59,CEA,41,21,FR,Victor
+342,2,02:59,FRA,41,21,FC,Léo Waszkiewicz
+343,2,03:05,FRA,41,21,LL_Pts_C,Antonio
+344,2,03:05,FRA,40,21,2_Pts_C,Antonio
+345,2,03:05,FRA,38,21,FR,Antonio
+346,2,03:05,CEA,38,21,FC,Andrezão
+347,2,03:12,FRA,38,21,BR,Helinho
+348,2,03:12,CEA,38,21,ER,Andrezão
+349,2,03:19,CEA,38,21,RO, Andrezão
+350,2,03:19,CEA,38,21,3_Pts_T,Davi
+351,2,03:32,CEA,38,21,substituicao_entra,Romulo 
+352,2,03:32,CEA,38,21,substituicao_sai,Erick Camilo 
+353,2,03:32,FRA,38,21,substituicao_entra,Léo Waszkiewicz 
+354,2,03:32,FRA,38,21,substituicao_sai,André Luiz 
+355,2,03:32,CEA,38,21,tempo_tecnico, Basquete Cearense
+356,2,03:32,FRA,38,21,EN,André Luiz
+357,2,03:32,FRA,36,21,,
+358,2,03:38,FRA,36,21,RD, Antonio
+359,2,03:38,CEA,36,21,2_Pts_T,Socas
+360,2,04:03,FRA,36,21,2_Pts_C,Helinho
+361,2,04:03,FRA,34,21,,
+362,2,04:08,FRA,34,21,BR,Léo Meindl
+363,2,04:08,CEA,34,21,ER,Davi
+364,2,04:21,FRA,34,21,2_Pts_C,Helinho
+365,2,04:21,FRA,32,21,,
+366,2,04:28,FRA,32,21,RD, André Luiz
+367,2,04:28,CEA,32,21,3_Pts_T,Socas
+368,2,04:48,FRA,32,21,2_Pts_C,André Luiz
+369,2,05:05,CEA,30,21,2_Pts_C,Erick Camilo
+370,2,05:05,CEA,30,19,,
+371,2,05:28,CEA,30,19,RD, Basquete Cearense
+372,2,05:28,FRA,30,19,3_Pts_T,Figueroa
+373,2,05:52,CEA,30,19,substituicao_entra,Socas 
+374,2,05:52,CEA,30,19,substituicao_sai,F  Fischer 
+375,2,05:52,FRA,30,19,,
+376,2,05:52,CEA,30,19,ER,Victor
+377,2,06:07,CEA,30,19,RD, Andrezão
+378,2,06:07,FRA,30,19,LL_Pts_T,André Luiz
+379,2,06:07,FRA,30,19,2_Pts_C,André Luiz
+380,2,06:07,FRA,28,19,FR,André Luiz
+381,2,06:07,CEA,28,19,FC,Erick Camilo
+382,2,06:14,FRA,28,19,,
+383,2,06:14,CEA,28,19,ER,Erick Camilo
+384,2,06:15,CEA,28,19,substituicao_entra,Victor 
+385,2,06:15,CEA,28,19,substituicao_entra,Erick Camilo 
+386,2,06:17,CEA,28,19,substituicao_sai,Romulo 
+387,2,06:17,CEA,28,19,substituicao_sai,Socas 
+388,2,06:30,FRA,28,19,substituicao_entra,Léo Meindl 
+389,2,06:30,FRA,28,19,substituicao_sai,Mata 
+390,2,06:30,CEA,28,19,tempo_tecnico, Basquete Cearense
+391,2,06:30,FRA,28,19,2_Pts_C,Mata
+392,2,06:33,FRA,26,19,BR,Mata
+393,2,06:33,CEA,26,19,ER,F  Fischer
+394,2,06:35,CEA,26,19,BR,F  Fischer
+395,2,06:35,FRA,26,19,ER,Mata
+396,2,06:47,FRA,26,19,RD, Mata
+397,2,06:47,FRA,26,19,TO,Antonio
+398,2,06:47,CEA,26,19,2_Pts_T,Andrezão
+399,2,07:08,FRA,26,19,2_Pts_C,Antonio
+400,2,07:13,FRA,24,19,BR,Antonio
+401,2,07:13,CEA,24,19,ER,Socas
+402,2,07:18,CEA,24,19,RD, Socas
+403,2,07:18,FRA,24,19,LL_Pts_T,André Luiz
+404,2,07:18,FRA,24,19,LL_Pts_C,André Luiz
+405,2,07:18,CEA,23,19,substituicao_entra,Andrezão 
+406,2,07:18,CEA,23,19,substituicao_sai,Alexandre 
+407,2,07:18,FRA,23,19,FR,André Luiz
+408,2,07:18,CEA,23,19,FC,Romulo
+409,2,07:23,FRA,23,19,RO, André Luiz
+410,2,07:23,FRA,23,19,3_Pts_T,Figueroa
+411,2,07:31,CEA,23,19,2_Pts_C,F  Fischer
+412,2,07:31,CEA,23,17,,
+413,2,07:35,CEA,23,17,RO, Romulo
+414,2,07:35,CEA,23,17,2_Pts_T,Alexandre
+415,2,07:49,FRA,23,17,3_Pts_C,Antonio
+416,2,07:49,FRA,20,17,,
+417,2,08:09,FRA,20,17,RD, André Luiz
+418,2,08:09,CEA,20,17,2_Pts_T,Davi
+419,2,08:26,CEA,20,17,RD, Alexandre
+420,2,08:26,FRA,20,17,2_Pts_T,André Luiz
+421,2,08:47,CEA,20,17,3_Pts_C,F  Fischer
+422,2,08:47,CEA,20,14,,
+423,2,09:00,CEA,20,14,substituicao_entra,F  Fischer 
+424,2,09:00,CEA,20,14,substituicao_sai,Andrezão 
+425,2,09:00,FRA,20,14,,
+426,2,09:16,CEA,20,14,substituicao_entra,Alexandre 
+427,2,09:16,CEA,20,14,substituicao_sai,Erick Camilo 
+428,2,09:16,FRA,20,14,FR,Figueroa
+429,2,09:16,CEA,20,14,FC,Davi
+430,2,09:19,FRA,20,14,BR,Antonio
+431,2,09:19,CEA,20,14,ER,Erick Camilo
+432,2,09:38,FRA,20,14,2_Pts_C,Antonio
+433,2,09:58,CEA,18,14,substituicao_entra,Erick Camilo 
+434,2,09:58,CEA,18,14,substituicao_entra,Romulo 
+435,2,09:58,CEA,18,14,substituicao_entra,Andrezão 
+436,2,09:58,CEA,18,14,substituicao_entra,Socas 
+437,2,09:58,CEA,18,14,substituicao_entra,Davi 
+438,1,00:00,NaN.,18,14,fim_quarto, 
+439,1,00:00,CEA,18,14,3_Pts_C,Davi
+440,1,00:08,FRA,18,11,3_Pts_C,Mata
+441,1,00:08,FRA,15,11,,
+442,1,00:21,FRA,15,11,RD, Mata
+443,1,00:21,CEA,15,11,LL_Pts_T,Romulo
+444,1,00:21,CEA,15,11,FR,Romulo
+445,1,00:21,FRA,15,11,FC,Léo Meindl
+446,1,00:21,CEA,15,11,2_Pts_C,Romulo
+447,1,00:21,CEA,15,9,,
+448,1,00:26,CEA,15,9,RD, Socas
+449,1,00:26,FRA,15,9,2_Pts_T,Mata
+450,1,00:29,FRA,15,9,BR,Mata
+451,1,00:29,CEA,15,9,ER,Erick Camilo
+452,1,00:34,CEA,15,9,RO, Erick Camilo
+453,1,00:34,CEA,15,9,3_Pts_T,Andrezão
+454,1,00:56,FRA,15,9,LL_Pts_C,Mata
+455,1,00:56,FRA,14,9,FR,Mata
+456,1,00:56,CEA,14,9,FC,Erick Camilo
+457,1,00:56,FRA,14,9,2_Pts_C,Mata
+458,1,00:56,FRA,12,9,,
+459,1,00:58,CEA,12,9,substituicao_entra,Erick Camilo 
+460,1,00:58,CEA,12,9,substituicao_sai,Alexandre 
+461,1,00:58,FRA,12,9,substituicao_entra,Antonio 
+462,1,00:58,FRA,12,9,substituicao_sai,Lucas Mariano 
+463,1,00:58,FRA,12,9,FR,André Luiz
+464,1,00:58,CEA,12,9,FC,Romulo
+465,1,01:04,FRA,12,9,RD, Lucas Mariano
+466,1,01:04,CEA,12,9,2_Pts_T,Alexandre
+467,1,01:12,CEA,12,9,RD, Davi
+468,1,01:12,FRA,12,9,3_Pts_T,Léo Meindl
+469,1,01:34,CEA,12,9,2_Pts_C,Socas
+470,1,01:45,CEA,12,7,BR,Andrezão
+471,1,01:45,FRA,12,7,ER,Lucas Mariano
+472,1,01:55,FRA,12,7,RD, André Luiz
+473,1,01:55,CEA,12,7,3_Pts_T,Davi
+474,1,02:16,CEA,12,7,RD, Alexandre
+475,1,02:16,FRA,12,7,2_Pts_T,Lucas Mariano
+476,1,02:25,CEA,12,7,,
+477,1,02:32,FRA,12,7,substituicao_entra,Cobos 
+478,1,02:32,FRA,12,7,substituicao_sai,Figueroa 
+479,1,02:32,CEA,12,7,substituicao_entra,Davi 
+480,1,02:32,CEA,12,7,substituicao_sai,F  Fischer 
+481,1,02:32,CEA,12,7,substituicao_entra,Alexandre 
+482,1,02:32,CEA,12,7,substituicao_sai,Erick Camilo 
+483,1,02:32,CEA,12,7,FR,Erick Camilo
+484,1,02:32,FRA,12,7,FC,Lucas Mariano
+485,1,02:35,CEA,12,7,RO, Erick Camilo
+486,1,02:35,CEA,12,7,2_Pts_T,Romulo
+487,1,02:52,FRA,12,7,3_Pts_C,Léo Meindl
+488,1,02:52,FRA,9,7,,
+489,1,03:01,FRA,9,7,RD, André Luiz
+490,1,03:01,CEA,9,7,2_Pts_T,Erick Camilo
+491,1,03:28,FRA,9,7,2_Pts_C,Lucas Mariano
+492,1,03:28,FRA,7,7,,
+493,1,03:52,FRA,7,7,RD, Mata
+494,1,03:52,CEA,7,7,3_Pts_T,Erick Camilo
+495,1,03:52,FRA,7,7,substituicao_sai,Léo Waszkiewicz 
+496,1,03:52,FRA,7,7,substituicao_entra,André Luiz 
+497,1,03:52,CEA,7,7,FR,Socas
+498,1,03:52,FRA,7,7,FC,Léo Meindl
+499,1,03:56,CEA,7,7,RD, Andrezão
+500,1,03:56,FRA,7,7,3_Pts_T,Léo Meindl
+501,1,04:04,FRA,7,7,RD, Léo Waszkiewicz
+502,1,04:04,CEA,7,7,2_Pts_T,F  Fischer
+503,1,04:14,CEA,7,7,RD, F  Fischer
+504,1,04:14,CEA,7,7,TO,F  Fischer
+505,1,04:14,FRA,7,7,2_Pts_T,Léo Waszkiewicz
+506,1,04:29,FRA,7,7,RD, Mata
+507,1,04:29,CEA,7,7,2_Pts_T,Romulo
+508,1,04:53,CEA,7,7,RD, Romulo
+509,1,04:53,FRA,7,7,2_Pts_T,Figueroa
+510,1,05:13,CEA,7,7,2_Pts_C,Andrezão
+511,1,05:13,CEA,7,5,,
+512,1,05:21,CEA,7,5,RO, Basquete Cearense
+513,1,05:21,CEA,7,5,2_Pts_T,Erick Camilo
+514,1,05:39,CEA,7,5,RD, Socas
+515,1,05:39,FRA,7,5,3_Pts_T,Lucas Mariano
+516,1,05:49,FRA,7,5,RD, Figueroa
+517,1,05:49,CEA,7,5,2_Pts_T,F  Fischer
+518,1,06:13,FRA,7,5,ER,
+519,1,06:39,CEA,7,5,ER,Romulo
+520,1,07:02,FRA,7,5,2_Pts_C,Mata
+521,1,07:12,FRA,5,5,RD, Léo Meindl
+522,1,07:12,CEA,5,5,2_Pts_T,Erick Camilo
+523,1,07:32,CEA,5,5,RD, Erick Camilo
+524,1,07:32,FRA,5,5,3_Pts_T,Mata
+525,1,07:42,FRA,5,5,RD, Mata
+526,1,07:42,CEA,5,5,2_Pts_T,Socas
+527,1,07:51,CEA,5,5,RD, F  Fischer
+528,1,07:51,FRA,5,5,3_Pts_T,Lucas Mariano
+529,1,08:15,CEA,5,5,2_Pts_C,Socas
+530,1,08:39,FRA,5,3,3_Pts_C,Léo Meindl
+531,1,08:39,FRA,2,3,,
+532,1,08:52,CEA,2,3,ER,F  Fischer
+533,1,09:12,FRA,2,3,2_Pts_C,Lucas Mariano
+534,1,09:12,FRA,0,3,,
+535,1,09:31,CEA,0,3,3_Pts_C,F  Fischer
+536,1,09:31,CEA,0,0,,
+537,1,09:37,CEA,0,0,BR,Andrezão
+538,1,09:37,FRA,0,0,ER,Léo Meindl
+539,1,09:44,FRA,0,0,RD, Léo Waszkiewicz
+540,1,09:44,CEA,0,0,3_Pts_T,Andrezão
+541,1,10:00,CEA,0,0,substituicao_entra,Erick Camilo 
+542,1,10:00,CEA,0,0,substituicao_entra,Romulo 
+543,1,10:00,CEA,0,0,substituicao_entra,F  Fischer 
+544,1,10:00,CEA,0,0,substituicao_entra,Andrezão 
+545,1,10:00,CEA,0,0,substituicao_entra,Socas 
+546,1,10:00,FRA,0,0,substituicao_entra,Léo Meindl 
+547,1,10:00,FRA,0,0,substituicao_entra,Léo Waszkiewicz 
+548,1,10:00,FRA,0,0,substituicao_entra,Lucas Mariano 
+549,1,10:00,FRA,0,0,substituicao_entra,Figueroa 
+550,1,10:00,FRA,0,0,substituicao_entra,Mata 

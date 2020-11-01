@@ -1,0 +1,509 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,81,86,fim_partida, 
+1,4,00:06,SJO,81,86,2_Pts_C,Rodgers
+2,4,00:07,SJO,79,86,2_Pts_C,Rodgers
+3,4,00:10,MOG,77,86,LL_Pts_C,Larry
+4,4,00:10,MOG,77,85,LL_Pts_C,Larry
+5,4,00:10,MOG,77,84,FR,Larry
+6,4,00:10,SJO,77,84,FC,Rodgers
+7,4,00:10,SJO,77,84,RO, Rodgers
+8,4,00:10,SJO,77,84,3_Pts_T,Pedro
+9,4,00:20,SJO,77,84,tempo_tecnico, São José
+10,4,00:20,MOG,77,84,LL_Pts_C,Shamell
+11,4,00:20,MOG,77,83,LL_Pts_C,Shamell
+12,4,00:20,MOG,77,82,FR,Shamell
+13,4,00:20,SJO,77,82,FC,Pedro
+14,4,00:21,MOG,77,82,RD, Shamell
+15,4,00:21,SJO,77,82,3_Pts_T,Matheus Dalla
+16,4,00:29,SJO,77,82,RD, Matheus Dalla
+17,4,00:29,MOG,77,82,LL_Pts_T,Jimmy
+18,4,00:29,MOG,77,82,LL_Pts_C,Jimmy
+19,4,00:29,MOG,77,81,FR,Jimmy
+20,4,00:29,SJO,77,81,FC,Rodgers
+21,4,00:31,MOG,77,81,RD, Jimmy
+22,4,00:31,SJO,77,81,2_Pts_T,Renato C 
+23,4,00:43,SJO,77,81,tempo_tecnico, São José
+24,4,00:43,MOG,77,81,LL_Pts_C,Shamell
+25,4,00:43,MOG,77,80,LL_Pts_C,Shamell
+26,4,00:43,MOG,77,79,FR,Shamell
+27,4,00:43,SJO,77,79,FC,Rodgers
+28,4,01:01,SJO,77,79,LL_Pts_C,Matheus Dalla
+29,4,01:01,SJO,76,79,LL_Pts_C,Matheus Dalla
+30,4,01:01,SJO,75,79,substituicao_sai,César 
+31,4,01:01,SJO,75,79,substituicao_entra,Gustavo 
+32,4,01:01,SJO,75,79,substituicao_sai,Cauê 
+33,4,01:01,SJO,75,79,substituicao_entra,Rodgers 
+34,4,01:01,MOG,75,79,substituicao_sai,Wagner 
+35,4,01:01,MOG,75,79,substituicao_entra,Jimmy 
+36,4,01:01,SJO,75,79,FR,Matheus Dalla
+37,4,01:01,MOG,75,79,FC,Wagner
+38,4,01:11,SJO,75,79,RD, Matheus Dalla
+39,4,01:11,MOG,75,79,2_Pts_T,Wagner
+40,4,01:35,MOG,75,79,RD, Larry
+41,4,01:35,SJO,75,79,2_Pts_T,César
+42,4,02:04,MOG,75,79,2_Pts_C,Tyrone 
+43,4,02:04,MOG,75,77,,
+44,4,02:22,SJO,75,77,2_Pts_C,Matheus Dalla
+45,4,02:26,SJO,73,77,BR,Matheus Dalla
+46,4,02:26,MOG,73,77,ER,Shamell
+47,4,02:37,MOG,73,77,RD, Shamell
+48,4,02:37,SJO,73,77,3_Pts_T,Pedro
+49,4,03:03,MOG,73,77,3_Pts_C,Filipin
+50,4,03:03,MOG,73,74,,
+51,4,03:22,MOG,73,74,RD, Tyrone 
+52,4,03:22,SJO,73,74,2_Pts_T,Cauê
+53,4,03:29,SJO,73,74,RO, São José
+54,4,03:29,MOG,73,74,TO,Filipin
+55,4,03:29,SJO,73,74,2_Pts_T,Pedro
+56,4,03:46,MOG,73,74,ER,Shamell
+57,4,04:03,SJO,73,74,2_Pts_C,Renato C 
+58,4,04:34,MOG,71,74,3_Pts_C,Filipin
+59,4,04:34,MOG,71,71,,
+60,4,04:44,SJO,71,71,substituicao_sai,Rodgers 
+61,4,04:44,SJO,71,71,substituicao_entra,César 
+62,4,04:48,MOG,71,71,RO, Mogi das Cruzes
+63,4,04:48,MOG,71,71,2_Pts_T,Tyrone 
+64,4,05:01,MOG,71,71,RO, Filipin
+65,4,05:01,MOG,71,71,2_Pts_T,Shamell
+66,4,05:15,SJO,71,71,substituicao_sai,Gustavo 
+67,4,05:15,SJO,71,71,substituicao_entra,Matheus Dalla 
+68,4,05:22,MOG,71,71,BR,Tyrone 
+69,4,05:22,SJO,71,71,ER,Rodgers
+70,4,05:29,SJO,71,71,RD, Renato C 
+71,4,05:29,SJO,71,71,TO,Cauê
+72,4,05:29,MOG,71,71,2_Pts_T,Shamell
+73,4,05:34,MOG,71,71,RD, Shamell
+74,4,05:34,SJO,71,71,2_Pts_T,Renato C 
+75,4,05:58,MOG,71,71,3_Pts_C,Filipin
+76,4,05:58,MOG,71,68,,
+77,4,06:18,MOG,71,68,RD, Larry
+78,4,06:18,SJO,71,68,2_Pts_T,Gustavo
+79,4,06:34,MOG,71,68,LL_Pts_C,Wagner
+80,4,06:34,MOG,71,67,LL_Pts_C,Wagner
+81,4,06:34,MOG,71,66,FR,Wagner
+82,4,06:34,SJO,71,66,FC,Renato C 
+83,4,06:34,MOG,71,66,RO, Wagner
+84,4,06:34,MOG,71,66,2_Pts_T,Filipin
+85,4,06:39,MOG,71,66,RO, Filipin
+86,4,06:39,MOG,71,66,3_Pts_T,Filipin
+87,4,06:48,MOG,71,66,RD, Shamell
+88,4,06:48,SJO,71,66,2_Pts_T,Pedro
+89,4,07:02,SJO,71,66,LL_Pts_C,Pedro
+90,4,07:02,MOG,70,66,FC_T,Wagner
+91,4,07:04,SJO,70,66,RD, São José
+92,4,07:04,MOG,70,66,LL_Pts_T,Tyrone 
+93,4,07:04,MOG,70,66,LL_Pts_C,Tyrone 
+94,4,07:04,MOG,70,65,FR,Tyrone 
+95,4,07:04,SJO,70,65,FC,Rodgers
+96,4,07:15,SJO,70,65,2_Pts_C,Rodgers
+97,4,07:15,SJO,68,65,FR,Rodgers
+98,4,07:15,MOG,68,65,FC,Larry
+99,4,07:16,MOG,68,65,tempo_tecnico, Mogi das Cruzes
+100,4,07:16,MOG,68,65,substituicao_sai,Lersch 
+101,4,07:16,MOG,68,65,substituicao_entra,Shamell 
+102,4,07:16,MOG,68,65,substituicao_sai,Paulão 
+103,4,07:16,MOG,68,65,substituicao_entra,Tyrone  
+104,4,07:17,SJO,68,65,LL_Pts_C,Rodgers
+105,4,07:17,SJO,67,65,substituicao_sai,Matheus Dalla 
+106,4,07:17,SJO,67,65,substituicao_entra,Gustavo 
+107,4,07:19,SJO,67,65,BR,Rodgers
+108,4,07:19,MOG,67,65,ER,Filipin
+109,4,07:45,SJO,67,65,2_Pts_C,Renato C 
+110,4,07:45,SJO,65,65,,
+111,4,08:03,SJO,65,65,RD, São José
+112,4,08:03,MOG,65,65,2_Pts_T,Filipin
+113,4,08:18,SJO,65,65,LL_Pts_C,Pedro
+114,4,08:18,SJO,64,65,FR,Pedro
+115,4,08:18,MOG,64,65,FC,Wagner
+116,4,08:18,SJO,64,65,2_Pts_C,Pedro
+117,4,08:18,SJO,62,65,,
+118,4,08:23,SJO,62,65,FR,Rodgers
+119,4,08:23,MOG,62,65,FC,Paulão
+120,4,08:35,MOG,62,65,substituicao_sai,Jimmy 
+121,4,08:35,MOG,62,65,substituicao_entra,Paulão 
+122,4,08:35,SJO,62,65,substituicao_sai,Gustavo 
+123,4,08:35,SJO,62,65,substituicao_entra,Rodgers 
+124,4,08:35,MOG,62,65,ER,Jimmy
+125,4,08:46,MOG,62,65,substituicao_sai,Shamell 
+126,4,08:46,MOG,62,65,substituicao_entra,Larry 
+127,4,08:46,MOG,62,65,FR,Shamell
+128,4,08:46,SJO,62,65,FC,Gustavo
+129,4,08:58,SJO,62,65,2_Pts_C,Gustavo
+130,4,08:58,SJO,60,65,,
+131,4,09:18,SJO,60,65,FR,Gustavo
+132,4,09:18,MOG,60,65,FC_O,Shamell
+133,4,09:25,MOG,60,65,FR,Shamell
+134,4,09:25,SJO,60,65,FC,Gustavo
+135,4,09:35,MOG,60,65,FR,Lersch
+136,4,09:35,SJO,60,65,FC,Cauê
+137,4,09:43,SJO,60,65,3_Pts_C,Pedro
+138,4,09:43,SJO,57,65,,
+139,3,00:00,NaN.,57,65,fim_quarto, 
+140,3,00:09,MOG,57,65,RD, Filipin
+141,3,00:09,SJO,57,65,3_Pts_T,Cauê
+142,3,00:34,MOG,57,65,LL_Pts_C,Shamell
+143,3,00:34,MOG,57,64,LL_Pts_C,Shamell
+144,3,00:34,MOG,57,63,FR,Shamell
+145,3,00:34,SJO,57,63,FC,Gustavo
+146,3,00:50,MOG,57,63,RD, Wagner
+147,3,00:50,SJO,57,63,LL_Pts_T,Daniel Filé
+148,3,00:50,SJO,57,63,LL_Pts_C,Daniel Filé
+149,3,00:50,SJO,56,63,substituicao_sai,Pedro 
+150,3,00:50,SJO,56,63,substituicao_entra,Gustavo 
+151,3,00:50,SJO,56,63,FR,Daniel Filé
+152,3,00:50,MOG,56,63,FC,Filipin
+153,3,00:50,SJO,56,63,RO, Daniel Filé
+154,3,00:50,SJO,56,63,3_Pts_T,Cauê
+155,3,01:12,MOG,56,63,2_Pts_C,Shamell
+156,3,01:26,MOG,56,61,BR,Shamell
+157,3,01:26,SJO,56,61,ER,Cauê
+158,3,01:38,SJO,56,61,,
+159,3,01:38,MOG,56,61,ER,Lersch
+160,3,01:58,MOG,56,61,BR,Jimmy
+161,3,01:58,SJO,56,61,ER,Daniel Filé
+162,3,02:15,SJO,56,61,substituicao_sai,César 
+163,3,02:15,SJO,56,61,substituicao_entra,Cauê 
+164,3,02:15,MOG,56,61,substituicao_sai,Larry 
+165,3,02:15,MOG,56,61,substituicao_entra,Jimmy 
+166,3,02:15,MOG,56,61,2_Pts_C,Shamell
+167,3,02:15,MOG,56,59,FR,Shamell
+168,3,02:15,SJO,56,59,FC,Pedro
+169,3,02:17,MOG,56,59,LL_Pts_C,Shamell
+170,3,02:24,MOG,56,58,RD, Shamell
+171,3,02:24,SJO,56,58,2_Pts_T,Matheus Dalla
+172,3,02:28,SJO,56,58,RO, Daniel Filé
+173,3,02:28,SJO,56,58,3_Pts_T,Rodgers
+174,3,02:53,MOG,56,58,3_Pts_C,Larry
+175,3,03:10,MOG,56,55,substituicao_sai,Paulão 
+176,3,03:10,MOG,56,55,substituicao_entra,Lersch 
+177,3,03:25,SJO,56,55,2_Pts_C,Daniel Filé
+178,3,03:25,SJO,54,55,,
+179,3,03:40,SJO,54,55,RD, Rodgers
+180,3,03:40,MOG,54,55,LL_Pts_T,Paulão
+181,3,03:40,MOG,54,55,LL_Pts_T,Paulão
+182,3,03:40,MOG,54,55,FR,Paulão
+183,3,03:40,SJO,54,55,FC,Daniel Filé
+184,3,03:48,SJO,54,55,2_Pts_C,Rodgers
+185,3,03:48,SJO,52,55,,
+186,3,04:05,SJO,52,55,LL_Pts_C,Pedro
+187,3,04:05,SJO,51,55,LL_Pts_T,Pedro
+188,3,04:05,SJO,51,55,LL_Pts_C,Pedro
+189,3,04:05,SJO,50,55,LL_Pts_C,Pedro
+190,3,04:05,MOG,49,55,substituicao_sai,Lucas Mariano 
+191,3,04:05,MOG,49,55,substituicao_entra,Wagner 
+192,3,04:05,MOG,49,55,FC_T,Paulão
+193,3,04:05,MOG,49,55,FC_T,Lucas Mariano
+194,3,04:05,SJO,49,55,FR,Pedro
+195,3,04:05,MOG,49,55,FC,Lucas Mariano
+196,3,04:16,SJO,49,55,RO, Pedro
+197,3,04:16,SJO,49,55,3_Pts_T,César
+198,3,04:38,MOG,49,55,LL_Pts_C,Filipin
+199,3,04:38,MOG,49,54,LL_Pts_C,Filipin
+200,3,04:38,MOG,49,53,FR,Filipin
+201,3,04:38,SJO,49,53,FC,Pedro
+202,3,04:55,SJO,49,53,2_Pts_C,Matheus Dalla
+203,3,05:01,SJO,47,53,RD, Daniel Filé
+204,3,05:01,MOG,47,53,3_Pts_T,Filipin
+205,3,05:11,MOG,47,53,,
+206,3,05:11,SJO,47,53,ER,Rodgers
+207,3,05:23,MOG,47,53,3_Pts_C,Filipin
+208,3,05:23,MOG,47,50,,
+209,3,05:47,SJO,47,50,LL_Pts_C,Rodgers
+210,3,05:47,SJO,46,50,LL_Pts_C,Rodgers
+211,3,05:47,SJO,45,50,FR,Rodgers
+212,3,05:47,MOG,45,50,FC,Lucas Mariano
+213,3,05:53,SJO,45,50,RO, Matheus Dalla
+214,3,05:53,SJO,45,50,3_Pts_T,César
+215,3,05:59,MOG,45,50,substituicao_sai,Tyrone  
+216,3,05:59,MOG,45,50,substituicao_entra,Lucas Mariano 
+217,3,05:59,SJO,45,50,FR,Pedro
+218,3,05:59,MOG,45,50,FC,Tyrone 
+219,3,06:29,MOG,45,50,RD, Tyrone 
+220,3,06:29,SJO,45,50,3_Pts_T,César
+221,3,06:29,MOG,45,50,2_Pts_C,Shamell
+222,3,06:37,SJO,45,48,2_Pts_C,Rodgers
+223,3,06:37,SJO,43,48,,
+224,3,06:48,SJO,43,48,FR,Rodgers
+225,3,06:48,MOG,43,48,FC,Paulão
+226,3,07:03,MOG,43,48,LL_Pts_C,Paulão
+227,3,07:03,MOG,43,47,2_Pts_C,Paulão
+228,3,07:03,MOG,43,45,FR,Paulão
+229,3,07:03,SJO,43,45,FC,Daniel Filé
+230,3,07:22,SJO,43,45,3_Pts_C,Matheus Dalla
+231,3,07:22,SJO,40,45,,
+232,3,07:44,MOG,40,45,LL_Pts_C,Tyrone 
+233,3,07:44,SJO,40,44,substituicao_sai,Aguirre 
+234,3,07:44,SJO,40,44,substituicao_entra,Daniel Filé 
+235,3,07:44,MOG,40,44,2_Pts_C,Tyrone 
+236,3,07:44,MOG,40,42,FR,Tyrone 
+237,3,07:44,SJO,40,42,FC,Aguirre
+238,3,08:03,SJO,40,42,2_Pts_C,Pedro
+239,3,08:03,SJO,38,42,,
+240,3,08:08,SJO,38,42,RD, César
+241,3,08:08,MOG,38,42,3_Pts_T,Filipin
+242,3,08:12,MOG,38,42,FR,Filipin
+243,3,08:12,SJO,38,42,FC,Pedro
+244,3,08:19,SJO,38,42,2_Pts_C,Pedro
+245,3,08:19,SJO,36,42,,
+246,3,08:23,SJO,36,42,substituicao_sai,Renato C  
+247,3,08:23,SJO,36,42,substituicao_entra,Aguirre 
+248,3,08:23,SJO,36,42,RO, São José
+249,3,08:23,MOG,36,42,TO,Paulão
+250,3,08:23,SJO,36,42,2_Pts_T,Renato C 
+251,3,08:39,MOG,36,42,2_Pts_C,Larry
+252,3,08:39,MOG,36,40,,
+253,3,08:44,MOG,36,40,BR,Shamell
+254,3,08:44,SJO,36,40,ER,Rodgers
+255,3,08:58,MOG,36,40,2_Pts_C,Filipin
+256,3,08:58,MOG,36,38,,
+257,3,09:08,MOG,36,38,FR,Paulão
+258,3,09:08,SJO,36,38,FC,Renato C 
+259,3,09:21,MOG,36,38,RD, Tyrone 
+260,3,09:21,SJO,36,38,2_Pts_T,Matheus Dalla
+261,3,09:40,MOG,36,38,ER,Paulão
+262,2,00:00,NaN.,36,38,fim_quarto, 
+263,2,00:00,MOG,36,38,tempo_tecnico, Mogi das Cruzes
+264,2,00:00,SJO,36,38,3_Pts_C,Matheus Dalla
+265,2,00:00,SJO,33,38,,
+266,2,00:01,MOG,33,38,substituicao_sai,Gerson 
+267,2,00:01,MOG,33,38,substituicao_entra,Lucas Mariano 
+268,2,00:01,SJO,33,38,substituicao_entra,Pedrinho 
+269,2,00:01,SJO,33,38,substituicao_entra,Biloca 
+270,2,00:01,SJO,33,38,substituicao_entra,Aguirre 
+271,2,00:01,SJO,33,38,substituicao_entra,Gustavo 
+272,2,00:01,SJO,33,38,substituicao_entra,Bruno Ferreira 
+273,2,00:01,SJO,33,38,substituicao_sai,Renato C  
+274,2,00:01,SJO,33,38,substituicao_sai,Pedro 
+275,2,00:01,SJO,33,38,substituicao_sai,Rodgers 
+276,2,00:01,SJO,33,38,substituicao_sai,Matheus Dalla 
+277,2,00:01,SJO,33,38,substituicao_sai,César 
+278,2,00:08,MOG,33,38,substituicao_sai,Paulão 
+279,2,00:08,MOG,33,38,substituicao_entra,Filipin 
+280,2,00:08,SJO,33,38,LL_Pts_C,Pedro
+281,2,00:08,SJO,32,38,LL_Pts_C,Pedro
+282,2,00:08,MOG,31,38,substituicao_sai,Tyrone  
+283,2,00:08,MOG,31,38,substituicao_entra,Gerson 
+284,2,00:08,SJO,31,38,substituicao_sai,Gustavo 
+285,2,00:08,SJO,31,38,substituicao_entra,Matheus Dalla 
+286,2,00:08,SJO,31,38,substituicao_sai,Aguirre 
+287,2,00:08,SJO,31,38,substituicao_entra,Renato C  
+288,2,00:08,SJO,31,38,FR,Pedro
+289,2,00:08,MOG,31,38,FC_A,Tyrone 
+290,2,00:08,SJO,31,38,BR,Pedro
+291,2,00:08,MOG,31,38,ER,Tyrone 
+292,2,00:31,MOG,31,38,RD, Wagner
+293,2,00:31,SJO,31,38,2_Pts_T,Pedro
+294,2,00:45,MOG,31,38,ER,Paulão
+295,2,00:46,MOG,31,38,RO, Paulão
+296,2,00:46,MOG,31,38,3_Pts_T,Shamell
+297,2,00:53,MOG,31,38,RD, Tyrone 
+298,2,00:53,SJO,31,38,2_Pts_T,Rodgers
+299,2,01:01,SJO,31,38,RD, César
+300,2,01:01,MOG,31,38,2_Pts_T,Larry
+301,2,01:15,SJO,31,38,LL_Pts_C,Pedro
+302,2,01:15,SJO,30,38,LL_Pts_C,Pedro
+303,2,01:15,SJO,29,38,FR,Pedro
+304,2,01:15,MOG,29,38,FC,Wagner
+305,2,01:26,SJO,29,38,FR,Rodgers
+306,2,01:26,MOG,29,38,FC,Tyrone 
+307,2,01:44,SJO,29,38,tempo_tecnico, São José
+308,2,01:44,SJO,29,38,RD, São José
+309,2,01:44,MOG,29,38,2_Pts_T,Wagner
+310,2,01:56,MOG,29,38,substituicao_sai,Lucas Mariano 
+311,2,01:56,MOG,29,38,substituicao_entra,Wagner 
+312,2,01:56,MOG,29,38,substituicao_sai,Filipin 
+313,2,01:56,MOG,29,38,substituicao_entra,Shamell 
+314,2,02:16,SJO,29,38,substituicao_sai,Cauê 
+315,2,02:16,SJO,29,38,substituicao_entra,Pedro 
+316,2,02:16,MOG,29,38,RO, Mogi das Cruzes
+317,2,02:16,MOG,29,38,3_Pts_T,Lucas Mariano
+318,2,02:36,MOG,29,38,RD, Mogi das Cruzes
+319,2,02:36,SJO,29,38,2_Pts_T,Rodgers
+320,2,03:00,MOG,29,38,LL_Pts_C,Tyrone 
+321,2,03:00,MOG,29,37,2_Pts_C,Tyrone 
+322,2,03:00,MOG,29,35,FR,Tyrone 
+323,2,03:00,SJO,29,35,FC,Gustavo
+324,2,03:13,MOG,29,35,substituicao_sai,Lersch 
+325,2,03:13,MOG,29,35,substituicao_entra,Tyrone  
+326,2,03:13,MOG,29,35,substituicao_sai,Gerson 
+327,2,03:13,MOG,29,35,substituicao_entra,Paulão 
+328,2,03:13,SJO,29,35,ER,Rodgers
+329,2,03:15,SJO,29,35,RD, Gustavo
+330,2,03:15,MOG,29,35,3_Pts_T,Lersch
+331,2,03:31,MOG,29,35,RD, Lucas Mariano
+332,2,03:31,MOG,29,35,TO,Gerson
+333,2,03:31,SJO,29,35,2_Pts_T,Rodgers
+334,2,03:45,SJO,29,35,substituicao_sai,Renato C  
+335,2,03:45,SJO,29,35,substituicao_entra,Aguirre 
+336,2,03:50,SJO,29,35,RD, Rodgers
+337,2,03:50,MOG,29,35,3_Pts_T,Larry
+338,2,04:14,MOG,29,35,RD, Gerson
+339,2,04:14,SJO,29,35,2_Pts_T,Renato C 
+340,2,04:37,MOG,29,35,LL_Pts_C,Larry
+341,2,04:37,MOG,29,34,LL_Pts_T,Larry
+342,2,04:37,MOG,29,34,substituicao_sai,Wagner 
+343,2,04:37,MOG,29,34,substituicao_entra,Lucas Mariano 
+344,2,04:37,MOG,29,34,FR,Larry
+345,2,04:37,SJO,29,34,FC,Cauê
+346,2,04:44,MOG,29,34,RD, Larry
+347,2,04:44,SJO,29,34,3_Pts_T,Gustavo
+348,2,05:07,SJO,29,34,RD, Renato C 
+349,2,05:07,MOG,29,34,2_Pts_T,Wagner
+350,2,05:29,SJO,29,34,2_Pts_C,Gustavo
+351,2,05:29,SJO,27,34,,
+352,2,05:34,SJO,27,34,BR,Renato C 
+353,2,05:34,MOG,27,34,ER,Gerson
+354,2,05:45,MOG,27,34,RD, Lersch
+355,2,05:45,SJO,27,34,2_Pts_T,Rodgers
+356,2,05:58,SJO,27,34,substituicao_sai,Matheus Dalla 
+357,2,05:58,SJO,27,34,substituicao_entra,Rodgers 
+358,2,06:10,MOG,27,34,2_Pts_C,Larry
+359,2,06:14,MOG,27,32,BR,Larry
+360,2,06:14,SJO,27,32,ER,Cauê
+361,2,06:36,SJO,27,32,substituicao_sai,Pedro 
+362,2,06:36,SJO,27,32,substituicao_entra,Gustavo 
+363,2,06:36,SJO,27,32,LL_Pts_C,Matheus Dalla
+364,2,06:36,SJO,26,32,LL_Pts_T,Matheus Dalla
+365,2,06:36,MOG,26,32,substituicao_sai,Shamell 
+366,2,06:36,MOG,26,32,substituicao_entra,Larry 
+367,2,06:36,SJO,26,32,FR,Matheus Dalla
+368,2,06:36,MOG,26,32,FC_A,Filipin
+369,2,06:39,SJO,26,32,RD, Renato C 
+370,2,06:39,MOG,26,32,2_Pts_T,Filipin
+371,2,06:53,MOG,26,32,RD, Lersch
+372,2,06:53,SJO,26,32,3_Pts_T,Pedro
+373,2,07:13,MOG,26,32,2_Pts_C,Wagner
+374,2,07:13,MOG,26,30,,
+375,2,07:39,SJO,26,30,3_Pts_C,César
+376,2,07:39,SJO,23,30,,
+377,2,07:58,MOG,23,30,substituicao_sai,Paulão 
+378,2,07:58,MOG,23,30,substituicao_entra,Gerson 
+379,2,08:00,MOG,23,30,LL_Pts_C,Paulão
+380,2,08:00,MOG,23,29,FR,Paulão
+381,2,08:00,SJO,23,29,FC,Renato C 
+382,2,08:00,MOG,23,29,2_Pts_C,Paulão
+383,2,08:00,MOG,23,27,,
+384,2,08:12,SJO,23,27,2_Pts_C,Renato C 
+385,2,08:12,SJO,21,27,,
+386,2,08:23,SJO,21,27,RO, São José
+387,2,08:23,SJO,21,27,3_Pts_T,César
+388,2,08:37,MOG,21,27,3_Pts_C,Shamell
+389,2,08:37,MOG,21,24,,
+390,2,08:54,SJO,21,24,2_Pts_C,Matheus Dalla
+391,2,09:07,MOG,19,24,2_Pts_C,Lersch
+392,2,09:21,MOG,19,22,FR,Wagner
+393,2,09:21,SJO,19,22,FC,Cauê
+394,2,09:37,MOG,19,22,RD, Shamell
+395,2,09:37,SJO,19,22,2_Pts_T,Renato C 
+396,2,09:51,SJO,19,22,FR,Pedro
+397,2,09:51,MOG,19,22,FC,Shamell
+398,1,00:00,NaN.,19,22,fim_quarto, 
+399,1,00:03,MOG,19,22,3_Pts_C,Filipin
+400,1,00:03,MOG,19,19,,
+401,1,00:28,MOG,19,19,RO, Wagner
+402,1,00:28,MOG,19,19,2_Pts_T,Shamell
+403,1,00:38,MOG,19,19,RD, Shamell
+404,1,00:38,SJO,19,19,3_Pts_T,Pedro
+405,1,00:40,MOG,19,19,substituicao_sai,Jimmy 
+406,1,00:40,MOG,19,19,substituicao_entra,Filipin 
+407,1,00:41,SJO,19,19,RO, César
+408,1,00:41,SJO,19,19,2_Pts_T,César
+409,1,00:46,MOG,19,19,2_Pts_C,Paulão
+410,1,00:46,MOG,19,17,,
+411,1,00:52,MOG,19,17,FR,Paulão
+412,1,00:52,SJO,19,17,FC,César
+413,1,00:53,MOG,19,17,substituicao_sai,Larry 
+414,1,00:53,MOG,19,17,substituicao_entra,Lersch 
+415,1,01:10,SJO,19,17,3_Pts_C,Matheus Dalla
+416,1,01:10,SJO,16,17,,
+417,1,01:24,SJO,16,17,FR,Renato C 
+418,1,01:24,MOG,16,17,FC,Wagner
+419,1,01:27,SJO,16,17,RD, Renato C 
+420,1,01:27,MOG,16,17,2_Pts_T,Wagner
+421,1,01:30,MOG,16,17,RO, Wagner
+422,1,01:30,MOG,16,17,2_Pts_T,Wagner
+423,1,01:50,SJO,16,17,3_Pts_C,César
+424,1,01:50,SJO,13,17,,
+425,1,02:18,MOG,13,17,2_Pts_C,Paulão
+426,1,02:44,SJO,13,15,3_Pts_C,Pedro
+427,1,02:44,SJO,10,15,,
+428,1,03:04,MOG,10,15,2_Pts_C,Shamell
+429,1,03:04,MOG,10,13,,
+430,1,03:11,MOG,10,13,BR,Shamell
+431,1,03:11,SJO,10,13,ER,Pedro
+432,1,03:30,MOG,10,13,substituicao_entra,Wagner 
+433,1,03:30,MOG,10,13,substituicao_sai,Tyrone  
+434,1,03:30,SJO,10,13,FR,Pedro
+435,1,03:30,MOG,10,13,FC,Tyrone 
+436,1,03:36,SJO,10,13,RD, Pedro
+437,1,03:36,MOG,10,13,2_Pts_T,Paulão
+438,1,03:47,MOG,10,13,RD, Tyrone 
+439,1,03:47,SJO,10,13,2_Pts_T,Rodgers
+440,1,04:06,MOG,10,13,substituicao_sai,Lucas Mariano 
+441,1,04:06,MOG,10,13,substituicao_entra,Paulão 
+442,1,04:15,SJO,10,13,FR,Rodgers
+443,1,04:15,MOG,10,13,FC_O,Lucas Mariano
+444,1,04:38,MOG,10,13,,
+445,1,04:38,SJO,10,13,ER,Renato C 
+446,1,04:51,SJO,10,13,RD, Renato C 
+447,1,04:51,MOG,10,13,3_Pts_T,Shamell
+448,1,05:11,SJO,10,13,3_Pts_C,César
+449,1,05:11,SJO,7,13,,
+450,1,05:18,SJO,7,13,FR,Pedro
+451,1,05:18,MOG,7,13,FC,Lucas Mariano
+452,1,05:22,SJO,7,13,RD, Pedro
+453,1,05:22,SJO,7,13,TO,Rodgers
+454,1,05:22,MOG,7,13,2_Pts_T,Larry
+455,1,05:31,SJO,7,13,2_Pts_C,César
+456,1,05:34,SJO,5,13,RO, César
+457,1,05:34,SJO,5,13,3_Pts_T,Matheus Dalla
+458,1,05:45,SJO,5,13,RD, Rodgers
+459,1,05:45,SJO,5,13,TO,Rodgers
+460,1,05:45,MOG,5,13,2_Pts_T,Larry
+461,1,06:03,MOG,5,13,FR,Tyrone 
+462,1,06:03,SJO,5,13,FC,Renato C 
+463,1,06:10,MOG,5,13,RD, Jimmy
+464,1,06:10,SJO,5,13,2_Pts_T,César
+465,1,06:17,SJO,5,13,RD, Renato C 
+466,1,06:17,MOG,5,13,3_Pts_T,Tyrone 
+467,1,06:24,MOG,5,13,RO, Jimmy
+468,1,06:24,MOG,5,13,2_Pts_T,Jimmy
+469,1,06:45,MOG,5,13,LL_Pts_C,Shamell
+470,1,06:45,SJO,5,12,FC_T,Técnico do São José
+471,1,06:50,SJO,5,12,3_Pts_C,Matheus Dalla
+472,1,06:50,SJO,2,12,,
+473,1,07:11,MOG,2,12,2_Pts_C,Tyrone 
+474,1,07:20,MOG,2,10,RD, Tyrone 
+475,1,07:20,SJO,2,10,2_Pts_T,Rodgers
+476,1,07:44,SJO,2,10,substituicao_entra,César 
+477,1,07:44,SJO,2,10,substituicao_sai,Aguirre 
+478,1,07:46,SJO,2,10,tempo_tecnico, São José
+479,1,07:46,MOG,2,10,3_Pts_C,Lucas Mariano
+480,1,07:46,MOG,2,7,,
+481,1,07:56,MOG,2,7,RD, Shamell
+482,1,07:56,SJO,2,7,2_Pts_T,Aguirre
+483,1,08:15,MOG,2,7,EN,Lucas Mariano
+484,1,08:19,MOG,2,5,RO, Lucas Mariano
+485,1,08:19,MOG,2,5,2_Pts_T,Jimmy
+486,1,08:30,MOG,2,5,LL_Pts_C,Tyrone 
+487,1,08:30,SJO,2,4,FC_T,Aguirre
+488,1,08:39,SJO,2,4,RO, São José
+489,1,08:39,MOG,2,4,TO,Tyrone 
+490,1,08:39,SJO,2,4,2_Pts_T,Aguirre
+491,1,08:49,MOG,2,4,2_Pts_C,Lucas Mariano
+492,1,09:00,SJO,2,2,ER,Aguirre
+493,1,09:15,MOG,2,2,2_Pts_C,Shamell
+494,1,09:35,SJO,2,0,2_Pts_C,Pedro
+495,1,09:35,SJO,0,0,,
+496,1,09:41,SJO,0,0,RD, Rodgers
+497,1,09:41,MOG,0,0,2_Pts_T,Tyrone 
+498,1,10:00,MOG,0,0,substituicao_entra,Tyrone  
+499,1,10:00,MOG,0,0,substituicao_entra,Lucas Mariano 
+500,1,10:00,MOG,0,0,substituicao_entra,Shamell 
+501,1,10:00,MOG,0,0,substituicao_entra,Jimmy 
+502,1,10:00,MOG,0,0,substituicao_entra,Larry 
+503,1,10:00,SJO,0,0,substituicao_entra,Aguirre 
+504,1,10:00,SJO,0,0,substituicao_entra,Renato C  
+505,1,10:00,SJO,0,0,substituicao_entra,Pedro 
+506,1,10:00,SJO,0,0,substituicao_entra,Rodgers 
+507,1,10:00,SJO,0,0,substituicao_entra,Matheus Dalla 

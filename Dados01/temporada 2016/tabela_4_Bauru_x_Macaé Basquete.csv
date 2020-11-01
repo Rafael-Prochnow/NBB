@@ -1,0 +1,507 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,84,76,fim_partida, 
+1,4,00:01,MAC,84,76,,
+2,4,00:01,MAC,84,76,3_Pts_C,Rafa Moreira
+3,4,00:02,MAC,84,73,BR,Anthony
+4,4,00:02,BAU,84,73,ER,Jefferson
+5,4,00:05,MAC,84,73,2_Pts_C,Anthony
+6,4,00:17,MAC,84,71,FR,Anthony
+7,4,00:17,BAU,84,71,FC,Hettsheimeir
+8,4,00:23,MAC,84,71,tempo_tecnico, Macaé
+9,4,00:23,BAU,84,71,,
+10,4,00:23,BAU,84,71,3_Pts_C,Léo Meindl
+11,4,00:34,MAC,81,71,,
+12,4,00:35,MAC,81,71,3_Pts_C,Anthony
+13,4,00:39,MAC,81,68,RO, Pezão
+14,4,00:39,MAC,81,68,3_Pts_T,Schneider
+15,4,00:48,BAU,81,68,,
+16,4,00:50,BAU,81,68,3_Pts_C,Gui
+17,4,01:06,BAU,78,68,RO, Hettsheimeir
+18,4,01:07,BAU,78,68,3_Pts_T,Jefferson
+19,4,01:23,MAC,78,68,2_Pts_C,Anthony
+20,4,131,MAC,78,66,substituicao_entra,Rafa Moreira 
+21,4,01:31,MAC,78,66,substituicao_sai,Igor 
+22,4,01:31,MAC,78,66,tempo_tecnico, Macaé
+23,4,01:31,BAU,78,66,,
+24,4,01:31,BAU,78,66,2_Pts_C,Hettsheimeir
+25,4,01:42,BAU,76,66,LL_Pts_C,Hettsheimeir
+26,4,01:42,BAU,75,66,LL_Pts_C,Hettsheimeir
+27,4,01:42,MAC,74,66,FC_T,Técnico do Macaé
+28,4,01:42,BAU,74,66,FR,Hettsheimeir
+29,4,01:42,MAC,74,66,FC,Pezão
+30,4,01:42,BAU,74,66,2_Pts_C,Hettsheimeir
+31,4,01:42,BAU,72,66,RO, Hettsheimeir
+32,4,01:43,BAU,72,66,2_Pts_T,Léo Meindl
+33,4,01:54,MAC,72,66,,
+34,4,01:55,MAC,72,66,3_Pts_C,Schneider
+35,4,02:21,BAU,72,63,,
+36,4,02:22,BAU,72,63,3_Pts_C,Jefferson
+37,4,02:27,BAU,69,63,RO, Léo Meindl
+38,4,02:30,BAU,69,63,2_Pts_T,Hettsheimeir
+39,4,02:41,BAU,69,63,FR,Jefferson
+40,4,02:41,MAC,69,63,FC,Igor
+41,4,02:59,MAC,69,63,2_Pts_C,Thiaguinho
+42,4,03:13,MAC,69,61,FR,Anthony
+43,4,03:13,BAU,69,61,FC,Gui
+44,4,03:28,BAU,69,61,,
+45,4,03:29,BAU,69,61,2_Pts_C,Hettsheimeir
+46,4,03:43,BAU,67,61,RD, Gui
+47,4,03:44,MAC,67,61,3_Pts_T,Schneider
+48,4,03:54,MAC,67,61,FR,Anthony
+49,4,03:54,BAU,67,61,FC,Gui
+50,4,04:02,BAU,67,61,,
+51,4,04:05,BAU,67,61,2_Pts_C,Léo Meindl
+52,4,04:25,BAU,65,61,tempo_tecnico, Bauru
+53,4,04:25,MAC,65,61,2_Pts_C,Igor
+54,4,04:47,BAU,65,59,ER,Hettsheimeir
+55,4,04:53,BAU,65,59,RO, Bauru
+56,4,04:54,BAU,65,59,3_Pts_T,Gegê
+57,4,05:02,BAU,65,59,RD, Gui
+58,4,05:04,MAC,65,59,2_Pts_T,Anthony
+59,4,05:19,MAC,65,59,RD, Anthony
+60,4,05:21,BAU,65,59,LL_Pts_T,Gui
+61,4,05:21,BAU,65,59,LL_Pts_C,Gui
+62,4,521,MAC,64,59,substituicao_entra,Pezão 
+63,4,05:21,MAC,64,59,substituicao_sai,Erick 
+64,4,05:21,BAU,64,59,FR,Gui
+65,4,05:21,MAC,64,59,FC,Erick
+66,4,05:29,MAC,64,59,3_Pts_C,Anthony
+67,4,05:41,BAU,64,56,,
+68,4,05:49,BAU,64,56,3_Pts_C,Jefferson
+69,4,554,BAU,61,56,substituicao_entra,Hettsheimeir 
+70,4,05:54,BAU,61,56,substituicao_sai,Shilton 
+71,4,554,MAC,61,56,substituicao_entra,Schneider 
+72,4,554,MAC,61,56,substituicao_sai,Rafa Moreira 
+73,4,554,MAC,61,56,substituicao_entra,Anthony 
+74,4,05:54,MAC,61,56,substituicao_sai,Pitico 
+75,4,05:54,BAU,61,56,FR,Léo Meindl
+76,4,05:54,MAC,61,56,FC,Rafa Moreira
+77,4,06:04,MAC,61,56,2_Pts_C,Erick
+78,4,06:17,MAC,61,54,RD, Rafa Moreira
+79,4,06:19,BAU,61,54,2_Pts_T,Jefferson
+80,4,06:33,MAC,61,54,ER,Thiaguinho
+81,4,06:47,BAU,61,54,2_Pts_C,Jefferson
+82,4,06:59,BAU,59,54,RD, Shilton
+83,4,07:00,MAC,59,54,2_Pts_T,Igor
+84,4,07:31,BAU,59,54,2_Pts_C,Léo Meindl
+85,4,07:53,MAC,57,54,LL_Pts_C,Igor
+86,4,07:53,MAC,57,53,LL_Pts_C,Igor
+87,4,753,MAC,57,52,substituicao_entra,Rafa Moreira 
+88,4,07:53,MAC,57,52,substituicao_sai,Leonard 
+89,4,753,BAU,57,52,substituicao_entra,Gui 
+90,4,07:53,BAU,57,52,substituicao_sai,Valtinho 
+91,4,753,BAU,57,52,substituicao_entra,Jefferson 
+92,4,07:53,BAU,57,52,substituicao_sai,Jaú 
+93,4,07:53,MAC,57,52,FR,Igor
+94,4,07:53,BAU,57,52,FC,Jaú
+95,4,08:04,MAC,57,52,RD, Erick
+96,4,08:06,BAU,57,52,2_Pts_T,Léo Meindl
+97,4,08:19,BAU,57,52,RD, Jaú
+98,4,08:21,MAC,57,52,2_Pts_T,Leonard
+99,4,08:38,MAC,57,52,RD, Macaé
+100,4,08:40,BAU,57,52,3_Pts_T,Valtinho
+101,4,08:47,BAU,57,52,FR,Valtinho
+102,4,08:47,MAC,57,52,FC,Erick
+103,4,09:04,MAC,57,52,3_Pts_C,Pitico
+104,4,09:23,BAU,57,49,2_Pts_C,Valtinho
+105,4,09:41,BAU,55,49,RD, Shilton
+106,4,09:43,MAC,55,49,2_Pts_T,Leonard
+107,4,10:00,NaN.,55,49,inicio_quarto, 
+108,4,1000,BAU,55,49,substituicao_entra,Léo Meindl 
+109,4,1000,BAU,55,49,substituicao_entra,Jaú 
+110,4,1000,BAU,55,49,substituicao_entra,Shilton 
+111,4,1000,BAU,55,49,substituicao_entra,Valtinho 
+112,4,1000,BAU,55,49,substituicao_entra,Gegê 
+113,4,1000,MAC,55,49,substituicao_entra,Leonard 
+114,4,1000,MAC,55,49,substituicao_entra,Thiaguinho 
+115,4,1000,MAC,55,49,substituicao_entra,Pitico 
+116,4,1000,MAC,55,49,substituicao_entra,Igor 
+117,4,1000,MAC,55,49,substituicao_entra,Erick 
+118,3,0,MAC,55,49,substituicao_sai,Igor 
+119,3,0,MAC,55,49,substituicao_sai,Erick 
+120,3,0,MAC,55,49,substituicao_sai,Leonard 
+121,3,0,MAC,55,49,substituicao_sai,Thiaguinho 
+122,3,0,MAC,55,49,substituicao_sai,Pitico 
+123,3,0,BAU,55,49,substituicao_sai,Jaú 
+124,3,0,BAU,55,49,substituicao_sai,Léo Meindl 
+125,3,0,BAU,55,49,substituicao_sai,Gegê 
+126,3,0,BAU,55,49,substituicao_sai,Valtinho 
+127,3,0,BAU,55,49,substituicao_sai,Shilton 
+128,3,00:00,NaN.,55,49,fim_quarto, 
+129,3,00:07,BAU,55,49,2_Pts_T,Léo Meindl
+130,3,00:08,BAU,55,49,RD, Léo Meindl
+131,3,00:08,BAU,55,49,TO,Jaú
+132,3,00:08,MAC,55,49,2_Pts_T,Leonard
+133,3,00:08,MAC,55,49,3_Pts_T,Igor
+134,3,00:29,MAC,55,49,RD, Thiaguinho
+135,3,00:31,BAU,55,49,2_Pts_T,Valtinho
+136,3,50,BAU,55,49,substituicao_entra,Léo Meindl 
+137,3,50,BAU,55,49,substituicao_sai,Gui 
+138,3,00:50,MAC,55,49,ER,Thiaguinho
+139,3,01:05,MAC,55,49,RD, Pitico
+140,3,01:09,BAU,55,49,LL_Pts_T,Gui
+141,3,01:09,BAU,55,49,LL_Pts_T,Gui
+142,3,109,MAC,55,49,substituicao_entra,Pitico 
+143,3,109,MAC,55,49,substituicao_sai,Schneider 
+144,3,109,BAU,55,49,substituicao_entra,Jaú 
+145,3,109,BAU,55,49,substituicao_sai,Hettsheimeir 
+146,3,01:09,BAU,55,49,FR,Gui
+147,3,01:09,MAC,55,49,FC,Leonard
+148,3,01:26,MAC,55,49,,
+149,3,01:29,MAC,55,49,3_Pts_C,Thiaguinho
+150,3,01:50,MAC,55,46,RD, Thiaguinho
+151,3,01:53,BAU,55,46,3_Pts_T,Valtinho
+152,3,02:13,MAC,55,46,,
+153,3,02:14,MAC,55,46,3_Pts_C,Leonard
+154,3,02:24,MAC,55,43,BR,Schneider
+155,3,02:26,BAU,55,43,,
+156,3,02:31,BAU,55,43,RD, Hettsheimeir
+157,3,02:34,MAC,55,43,3_Pts_T,Igor
+158,3,02:59,BAU,55,43,2_Pts_C,Valtinho
+159,3,03:10,BAU,53,43,RD, Hettsheimeir
+160,3,03:11,MAC,53,43,3_Pts_T,Leonard
+161,3,03:26,MAC,53,43,RD, Leonard
+162,3,03:28,BAU,53,43,3_Pts_T,Hettsheimeir
+163,3,03:41,BAU,53,43,FR,Hettsheimeir
+164,3,03:41,MAC,53,43,FC,Erick
+165,3,355,MAC,53,43,substituicao_entra,Igor 
+166,3,355,MAC,53,43,substituicao_sai,Pezão 
+167,3,04:05,BAU,53,43,RD, Gui
+168,3,04:08,MAC,53,43,3_Pts_T,Pezão
+169,3,04:25,MAC,53,43,RD, Thiaguinho
+170,3,04:31,BAU,53,43,3_Pts_T,Gui
+171,3,441,MAC,53,43,substituicao_entra,Thiaguinho 
+172,3,441,MAC,53,43,substituicao_sai,Anthony 
+173,3,04:41,MAC,53,43,LL_Pts_C,Leonard
+174,3,04:41,MAC,53,42,LL_Pts_T,Leonard
+175,3,441,BAU,53,42,substituicao_entra,Gegê 
+176,3,441,BAU,53,42,substituicao_sai,Léo Meindl 
+177,3,441,BAU,53,42,substituicao_entra,Shilton 
+178,3,441,BAU,53,42,substituicao_sai,Jefferson 
+179,3,441,MAC,53,42,substituicao_entra,Erick 
+180,3,441,MAC,53,42,substituicao_sai,Lupa 
+181,3,04:41,MAC,53,42,FR,Leonard
+182,3,04:41,BAU,53,42,FC,Gui
+183,3,04:44,MAC,53,42,RD, Leonard
+184,3,04:48,BAU,53,42,3_Pts_T,Léo Meindl
+185,3,04:59,BAU,53,42,RD, Léo Meindl
+186,3,05:00,MAC,53,42,3_Pts_T,Leonard
+187,3,05:03,MAC,53,42,BR,Schneider
+188,3,05:06,BAU,53,42,,
+189,3,05:09,BAU,53,42,RD, Jefferson
+190,3,05:11,MAC,53,42,2_Pts_T,Anthony
+191,3,05:32,MAC,53,42,RD, Leonard
+192,3,05:33,BAU,53,42,2_Pts_T,Hettsheimeir
+193,3,05:38,BAU,53,42,BR,Léo Meindl
+194,3,05:40,MAC,53,42,,
+195,3,05:55,BAU,53,42,,
+196,3,05:56,BAU,53,42,3_Pts_C,Hettsheimeir
+197,3,06:10,MAC,50,42,3_Pts_C,Anthony
+198,3,06:33,BAU,50,39,,
+199,3,06:34,BAU,50,39,3_Pts_C,Gui
+200,3,647,MAC,47,39,substituicao_entra,Leonard 
+201,3,647,MAC,47,39,substituicao_sai,Rafa Moreira 
+202,3,06:47,BAU,47,39,RD, Bauru
+203,3,06:47,MAC,47,39,2_Pts_T,Anthony
+204,3,06:54,BAU,47,39,,
+205,3,06:56,BAU,47,39,2_Pts_C,Hettsheimeir
+206,3,07:09,MAC,45,39,2_Pts_C,Anthony
+207,3,07:12,MAC,45,37,BR,Anthony
+208,3,07:14,BAU,45,37,,
+209,3,07:22,BAU,45,37,RD, Léo Meindl
+210,3,07:23,MAC,45,37,3_Pts_T,Anthony
+211,3,07:43,BAU,45,37,2_Pts_C,Léo Meindl
+212,3,07:45,BAU,43,37,RO, Léo Meindl
+213,3,07:46,BAU,43,37,3_Pts_T,Gui
+214,3,07:58,BAU,43,37,LL_Pts_T,Hettsheimeir
+215,3,07:58,MAC,43,37,FC_T,Lupa
+216,3,07:58,BAU,43,37,FR,Hettsheimeir
+217,3,07:58,MAC,43,37,FC,Lupa
+218,3,08:11,BAU,43,37,FR,Jefferson
+219,3,08:11,MAC,43,37,FC,Pezão
+220,3,08:21,BAU,43,37,RD, Bauru
+221,3,08:22,MAC,43,37,3_Pts_T,Anthony
+222,3,08:43,MAC,43,37,FR,Anthony
+223,3,08:43,BAU,43,37,ER,Jefferson
+224,3,08:43,BAU,43,37,FC_O,Jefferson
+225,3,08:43,BAU,43,37,3_Pts_T,Léo Meindl
+226,3,09:02,BAU,43,37,RD, Léo Meindl
+227,3,09:03,MAC,43,37,3_Pts_T,Schneider
+228,3,09:16,MAC,43,37,RD, Anthony
+229,3,09:18,BAU,43,37,3_Pts_T,Hettsheimeir
+230,3,09:25,BAU,43,37,BR,Gui
+231,3,09:28,MAC,43,37,,
+232,3,09:40,MAC,43,37,LL_Pts_C,Schneider
+233,3,09:40,BAU,43,36,FC_T,Técnico do Bauru
+234,3,09:40,MAC,43,36,RD, Lupa
+235,3,09:41,BAU,43,36,2_Pts_T,Hettsheimeir
+236,3,10:00,NaN.,43,36,inicio_quarto, 
+237,3,1000,BAU,43,36,substituicao_entra,Jefferson 
+238,3,1000,BAU,43,36,substituicao_entra,Hettsheimeir 
+239,3,1000,BAU,43,36,substituicao_entra,Gui 
+240,3,1000,BAU,43,36,substituicao_entra,Léo Meindl 
+241,3,1000,BAU,43,36,substituicao_entra,Valtinho 
+242,3,1000,MAC,43,36,substituicao_entra,Pezão 
+243,3,1000,MAC,43,36,substituicao_entra,Schneider 
+244,3,1000,MAC,43,36,substituicao_entra,Anthony 
+245,3,1000,MAC,43,36,substituicao_entra,Lupa 
+246,3,1000,MAC,43,36,substituicao_entra,Rafa Moreira 
+247,2,0,BAU,43,36,substituicao_sai,Hettsheimeir 
+248,2,0,BAU,43,36,substituicao_sai,Jaú 
+249,2,0,BAU,43,36,substituicao_sai,Gui 
+250,2,0,BAU,43,36,substituicao_sai,Valtinho 
+251,2,0,BAU,43,36,substituicao_sai,Gui 
+252,2,0,MAC,43,36,substituicao_sai,Lupa 
+253,2,0,MAC,43,36,substituicao_sai,Igor 
+254,2,0,MAC,43,36,substituicao_sai,Schneider 
+255,2,0,MAC,43,36,substituicao_sai,Rafa Moreira 
+256,2,0,MAC,43,36,substituicao_sai,Pitico 
+257,2,00:00,NaN.,43,36,fim_quarto, 
+258,2,00:07,BAU,43,36,RD, Hettsheimeir
+259,2,00:07,MAC,43,36,2_Pts_T,Lupa
+260,2,00:16,MAC,43,36,RD, Lupa
+261,2,00:18,BAU,43,36,2_Pts_T,Hettsheimeir
+262,2,00:33,BAU,43,36,RD, Jaú
+263,2,00:36,MAC,43,36,2_Pts_T,Igor
+264,2,44,BAU,43,36,substituicao_entra,Jaú 
+265,2,44,BAU,43,36,substituicao_sai,Jefferson 
+266,2,44,MAC,43,36,substituicao_entra,Igor 
+267,2,44,MAC,43,36,substituicao_sai,Pezão 
+268,2,00:44,MAC,43,36,tempo_tecnico, Macaé
+269,2,00:44,BAU,43,36,LL_Pts_C,Jefferson
+270,2,00:44,BAU,42,36,LL_Pts_C,Jefferson
+271,2,00:44,BAU,41,36,FR,Jefferson
+272,2,00:44,MAC,41,36,FC,Lupa
+273,2,49,BAU,41,36,substituicao_entra,Jefferson 
+274,2,49,BAU,41,36,substituicao_sai,Jaú 
+275,2,00:58,BAU,41,36,tempo_tecnico, Bauru
+276,2,00:58,MAC,41,36,ER,Rafa Moreira
+277,2,01:07,BAU,41,36,ER,Gui
+278,2,01:12,BAU,41,36,RD, Gui
+279,2,01:14,MAC,41,36,3_Pts_T,Schneider
+280,2,01:32,MAC,41,36,RD, Pezão
+281,2,01:34,BAU,41,36,2_Pts_T,Hettsheimeir
+282,2,01:46,BAU,41,36,RD, Gui
+283,2,01:48,MAC,41,36,2_Pts_T,Lupa
+284,2,02:04,MAC,41,36,BR,Rafa Moreira
+285,2,02:06,BAU,41,36,ER,Valtinho
+286,2,02:14,MAC,41,36,2_Pts_C,Pitico
+287,2,02:17,MAC,41,34,BR,Lupa
+288,2,02:21,BAU,41,34,,
+289,2,02:23,BAU,41,34,RD, Jaú
+290,2,02:24,MAC,41,34,2_Pts_T,Lupa
+291,2,02:42,MAC,41,34,LL_Pts_C,Pezão
+292,2,242,BAU,41,33,substituicao_entra,Valtinho 
+293,2,242,BAU,41,33,substituicao_sai,Gegê 
+294,2,02:42,MAC,41,33,FR,Pezão
+295,2,02:42,BAU,41,33,FC_A,Jaú
+296,2,02:45,MAC,41,33,2_Pts_C,Pezão
+297,2,03:04,BAU,41,31,,
+298,2,03:05,BAU,41,31,3_Pts_C,Gegê
+299,2,312,MAC,38,31,substituicao_entra,Pitico 
+300,2,312,MAC,38,31,substituicao_sai,Thiaguinho 
+301,2,03:14,BAU,38,31,RD, Jaú
+302,2,03:16,MAC,38,31,3_Pts_T,Lupa
+303,2,03:32,BAU,38,31,,
+304,2,03:36,BAU,38,31,RD, Hettsheimeir
+305,2,03:42,MAC,38,31,3_Pts_T,Thiaguinho
+306,2,353,BAU,38,31,substituicao_entra,Gui 
+307,2,353,BAU,38,31,substituicao_sai,Léo Meindl 
+308,2,353,MAC,38,31,substituicao_entra,Lupa 
+309,2,353,MAC,38,31,substituicao_sai,Anthony 
+310,2,353,MAC,38,31,substituicao_entra,Rafa Moreira 
+311,2,353,MAC,38,31,substituicao_sai,Erick 
+312,2,03:53,MAC,38,31,tempo_tecnico, Macaé
+313,2,04:09,BAU,38,31,3_Pts_C,Gegê
+314,2,04:20,BAU,35,31,RO, Jaú
+315,2,04:21,BAU,35,31,3_Pts_T,Hettsheimeir
+316,2,04:29,BAU,35,31,RO, Jaú
+317,2,04:30,BAU,35,31,3_Pts_T,Léo Meindl
+318,2,04:36,MAC,35,31,ER,Erick
+319,2,04:51,MAC,35,31,RD, Anthony
+320,2,04:53,BAU,35,31,3_Pts_T,Jaú
+321,2,05:06,BAU,35,31,RD, Hettsheimeir
+322,2,05:07,MAC,35,31,2_Pts_T,Erick
+323,2,05:26,BAU,35,31,,
+324,2,05:28,BAU,35,31,2_Pts_C,Hettsheimeir
+325,2,530,MAC,33,31,substituicao_entra,Schneider 
+326,2,530,MAC,33,31,substituicao_sai,Leonard 
+327,2,530,BAU,33,31,substituicao_entra,Hettsheimeir 
+328,2,530,BAU,33,31,substituicao_sai,Jefferson 
+329,2,05:30,BAU,33,31,FR,Jefferson
+330,2,05:30,MAC,33,31,FC,Erick
+331,2,05:47,MAC,33,31,,
+332,2,05:48,MAC,33,31,2_Pts_C,Anthony
+333,2,06:05,BAU,33,29,2_Pts_C,Léo Meindl
+334,2,06:17,MAC,31,29,ER,Anthony
+335,2,633,BAU,31,29,substituicao_entra,Jaú 
+336,2,633,BAU,31,29,substituicao_sai,Shilton 
+337,2,06:33,MAC,31,29,FR,Erick
+338,2,06:33,BAU,31,29,ER,Léo Meindl
+339,2,06:33,BAU,31,29,FC_O,Léo Meindl
+340,2,06:33,BAU,31,29,3_Pts_C,Jefferson
+341,2,06:51,MAC,28,29,2_Pts_C,Anthony
+342,2,710,BAU,28,27,substituicao_entra,Léo Meindl 
+343,2,710,BAU,28,27,substituicao_sai,Valtinho 
+344,2,710,MAC,28,27,substituicao_entra,Pezão 
+345,2,710,MAC,28,27,substituicao_sai,Igor 
+346,2,07:10,MAC,28,27,FR,Anthony
+347,2,07:10,BAU,28,27,ER,Gegê
+348,2,07:10,BAU,28,27,FC_O,Gegê
+349,2,07:20,MAC,28,27,3_Pts_C,Leonard
+350,2,07:30,MAC,28,24,RD, Leonard
+351,2,07:32,BAU,28,24,2_Pts_T,Shilton
+352,2,07:41,BAU,28,24,RD, Gegê
+353,2,07:43,MAC,28,24,2_Pts_T,Erick
+354,2,08:09,BAU,28,24,,
+355,2,08:10,BAU,28,24,3_Pts_C,Jefferson
+356,2,08:19,BAU,25,24,FR,Gui
+357,2,08:19,MAC,25,24,FC,Erick
+358,2,08:24,BAU,25,24,BR,Jefferson
+359,2,08:27,MAC,25,24,,
+360,2,08:53,BAU,25,24,2_Pts_C,Jefferson
+361,2,09:11,MAC,23,24,2_Pts_C,Leonard
+362,2,09:30,BAU,23,22,LL_Pts_C,Shilton
+363,2,09:30,BAU,22,22,FR,Shilton
+364,2,09:30,MAC,22,22,FC,Leonard
+365,2,09:30,BAU,22,22,,
+366,2,09:30,BAU,22,22,2_Pts_C,Shilton
+367,2,09:46,BAU,20,22,RD, Gui
+368,2,09:48,MAC,20,22,3_Pts_T,Igor
+369,2,10:00,NaN.,20,22,inicio_quarto, 
+370,2,1000,BAU,20,22,substituicao_entra,Gui 
+371,2,1000,BAU,20,22,substituicao_entra,Shilton 
+372,2,1000,BAU,20,22,substituicao_entra,Valtinho 
+373,2,1000,BAU,20,22,substituicao_entra,Gegê 
+374,2,1000,BAU,20,22,substituicao_entra,Jefferson 
+375,2,1000,MAC,20,22,substituicao_entra,Thiaguinho 
+376,2,1000,MAC,20,22,substituicao_entra,Igor 
+377,2,1000,MAC,20,22,substituicao_entra,Anthony 
+378,2,1000,MAC,20,22,substituicao_entra,Leonard 
+379,2,1000,MAC,20,22,substituicao_entra,Erick 
+380,1,0,BAU,20,22,substituicao_sai,Gui 
+381,1,0,BAU,20,22,substituicao_sai,Gegê 
+382,1,0,BAU,20,22,substituicao_sai,Jefferson 
+383,1,0,BAU,20,22,substituicao_sai,Valtinho 
+384,1,0,BAU,20,22,substituicao_sai,Shilton 
+385,1,0,MAC,20,22,substituicao_sai,Schneider 
+386,1,0,MAC,20,22,substituicao_sai,Erick 
+387,1,0,MAC,20,22,substituicao_sai,Leonard 
+388,1,0,MAC,20,22,substituicao_sai,Thiaguinho 
+389,1,0,MAC,20,22,substituicao_sai,Pitico 
+390,1,00:00,NaN.,20,22,fim_quarto, 
+391,1,00:02,BAU,20,22,LL_Pts_C,Gegê
+392,1,00:02,BAU,19,22,LL_Pts_C,Gegê
+393,1,00:02,BAU,18,22,LL_Pts_C,Gegê
+394,1,00:02,BAU,17,22,FR,Gegê
+395,1,00:02,MAC,17,22,FC,Pitico
+396,1,00:03,BAU,17,22,3_Pts_T,Gegê
+397,1,15,MAC,17,22,substituicao_entra,Pitico 
+398,1,15,MAC,17,22,substituicao_sai,Anthony 
+399,1,00:15,MAC,17,22,LL_Pts_C,Anthony
+400,1,15,BAU,17,21,substituicao_entra,Gui 
+401,1,15,BAU,17,21,substituicao_sai,Léo Meindl 
+402,1,15,MAC,17,21,substituicao_entra,Leonard 
+403,1,15,MAC,17,21,substituicao_sai,Igor 
+404,1,15,BAU,17,21,substituicao_entra,Shilton 
+405,1,15,BAU,17,21,substituicao_sai,Hettsheimeir 
+406,1,00:15,MAC,17,21,FR,Anthony
+407,1,00:15,BAU,17,21,FC,Gegê
+408,1,00:15,MAC,17,21,2_Pts_C,Anthony
+409,1,00:31,MAC,17,19,RD, Schneider
+410,1,00:34,BAU,17,19,3_Pts_T,Jefferson
+411,1,00:54,MAC,17,19,2_Pts_C,Anthony
+412,1,01:06,MAC,17,17,RD, Thiaguinho
+413,1,01:08,BAU,17,17,3_Pts_T,Jefferson
+414,1,01:22,MAC,17,17,2_Pts_C,Erick
+415,1,01:24,MAC,17,15,RO, Erick
+416,1,01:27,MAC,17,15,2_Pts_T,Igor
+417,1,01:48,BAU,17,15,2_Pts_C,Jefferson
+418,1,02:06,MAC,15,15,2_Pts_C,Schneider
+419,1,02:07,MAC,15,13,RO, Schneider
+420,1,02:09,MAC,15,13,3_Pts_T,Schneider
+421,1,02:23,BAU,15,13,2_Pts_C,Hettsheimeir
+422,1,238,BAU,13,13,substituicao_entra,Gegê 
+423,1,238,BAU,13,13,substituicao_sai,Gui 
+424,1,02:38,BAU,13,13,FR,Valtinho
+425,1,02:38,MAC,13,13,FC,Igor
+426,1,02:43,MAC,13,13,,
+427,1,02:46,MAC,13,13,3_Pts_C,Igor
+428,1,301,MAC,13,10,substituicao_entra,Erick 
+429,1,301,MAC,13,10,substituicao_sai,Rafa Moreira 
+430,1,301,MAC,13,10,substituicao_entra,Thiaguinho 
+431,1,301,MAC,13,10,substituicao_sai,Lupa 
+432,1,03:01,BAU,13,10,BR,Léo Meindl
+433,1,03:03,MAC,13,10,ER,Anthony
+434,1,03:33,BAU,13,10,2_Pts_C,Jefferson
+435,1,03:38,MAC,11,10,ER,Igor
+436,1,03:52,BAU,11,10,ER,
+437,1,416,MAC,11,10,substituicao_entra,Igor 
+438,1,416,MAC,11,10,substituicao_sai,Pezão 
+439,1,04:16,BAU,11,10,RD, Bauru
+440,1,04:16,MAC,11,10,2_Pts_T,Pezão
+441,1,04:35,BAU,11,10,,
+442,1,04:36,BAU,11,10,2_Pts_C,Léo Meindl
+443,1,04:58,BAU,9,10,FR,Jefferson
+444,1,04:58,MAC,9,10,FC,Pezão
+445,1,04:59,BAU,9,10,RD, Jefferson
+446,1,05:00,MAC,9,10,2_Pts_T,Pezão
+447,1,05:06,MAC,9,10,FR,Anthony
+448,1,05:06,BAU,9,10,FC,Valtinho
+449,1,05:11,MAC,9,10,RD, Pezão
+450,1,05:13,BAU,9,10,3_Pts_T,Gui
+451,1,05:26,MAC,9,10,LL_Pts_C,Rafa Moreira
+452,1,05:26,MAC,9,9,LL_Pts_C,Rafa Moreira
+453,1,05:26,MAC,9,8,LL_Pts_C,Rafa Moreira
+454,1,05:26,MAC,9,7,FR,Rafa Moreira
+455,1,05:26,BAU,9,7,FC,Gui
+456,1,05:46,BAU,9,7,3_Pts_C,Hettsheimeir
+457,1,06:15,MAC,6,7,FR,Anthony
+458,1,06:15,BAU,6,7,ER,Léo Meindl
+459,1,06:15,BAU,6,7,FC_O,Léo Meindl
+460,1,06:29,BAU,6,7,RD, Bauru
+461,1,06:32,MAC,6,7,2_Pts_T,Anthony
+462,1,06:40,BAU,6,7,2_Pts_T,Hettsheimeir
+463,1,06:48,BAU,6,7,RD, Jefferson
+464,1,06:50,BAU,6,7,TO,Gui
+465,1,06:54,MAC,6,7,2_Pts_T,Lupa
+466,1,06:57,MAC,6,7,RD, Macaé
+467,1,06:57,BAU,6,7,2_Pts_T,Léo Meindl
+468,1,06:57,BAU,6,7,2_Pts_T,
+469,1,07:13,MAC,6,7,2_Pts_C,Anthony
+470,1,07:30,BAU,6,5,,
+471,1,07:36,BAU,6,5,BR,Léo Meindl
+472,1,07:38,MAC,6,5,,
+473,1,07:43,MAC,6,5,RO, Lupa
+474,1,07:45,MAC,6,5,3_Pts_T,Schneider
+475,1,07:57,BAU,6,5,ER,Gui
+476,1,08:04,BAU,6,5,RD, Jefferson
+477,1,08:06,MAC,6,5,2_Pts_T,Lupa
+478,1,08:23,BAU,6,5,3_Pts_C,Gui
+479,1,08:37,MAC,3,5,2_Pts_C,Pezão
+480,1,08:39,MAC,3,3,RO, Pezão
+481,1,08:42,MAC,3,3,3_Pts_T,Schneider
+482,1,09:02,BAU,3,3,LL_Pts_C,Valtinho
+483,1,09:02,BAU,2,3,FR,Valtinho
+484,1,09:02,MAC,2,3,FC,Pezão
+485,1,09:10,BAU,2,3,2_Pts_C,Valtinho
+486,1,09:25,MAC,0,3,,
+487,1,09:29,MAC,0,3,3_Pts_C,Schneider
+488,1,09:36,MAC,0,0,RD, Schneider
+489,1,09:36,BAU,0,0,3_Pts_T,Jefferson
+490,1,09:36,BAU,0,0,BR,Valtinho
+491,1,09:36,MAC,0,0,,
+492,1,09:36,MAC,0,0,FR,Rafa Moreira
+493,1,09:36,BAU,0,0,FC,Jefferson
+494,1,09:40,MAC,0,0,BR,Rafa Moreira
+495,1,09:40,BAU,0,0,,
+496,1,1000,MAC,0,0,substituicao_entra,Lupa 
+497,1,1000,MAC,0,0,substituicao_entra,Pezão 
+498,1,1000,MAC,0,0,substituicao_entra,Schneider 
+499,1,1000,MAC,0,0,substituicao_entra,Rafa Moreira 
+500,1,1000,MAC,0,0,substituicao_entra,Anthony 
+501,1,1000,BAU,0,0,substituicao_entra,Hettsheimeir 
+502,1,1000,BAU,0,0,substituicao_entra,Léo Meindl 
+503,1,1000,BAU,0,0,substituicao_entra,Jefferson 
+504,1,1000,BAU,0,0,substituicao_entra,Valtinho 
+505,1,1000,BAU,0,0,substituicao_entra,Gui 

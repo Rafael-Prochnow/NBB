@@ -1,0 +1,511 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,88,65,fim_partida, 
+1,4,00:04,CEA,88,65,3_Pts_C,Victor
+2,4,00:04,CEA,85,65,,
+3,4,00:09,CEA,85,65,RO, Rômulo
+4,4,00:09,CEA,85,65,2_Pts_T,Joel
+5,4,00:15,CEA,85,65,RO, Joel
+6,4,00:15,CEA,85,65,3_Pts_T,Davi
+7,4,00:18,CEA,85,65,RO, Leal
+8,4,00:18,CEA,85,65,3_Pts_T,Joel
+9,4,00:32,LSB,85,65,LL_Pts_C,Avelino
+10,4,00:32,LSB,85,64,LL_Pts_T,Avelino
+11,4,00:35,LSB,85,64,FR,Avelino
+12,4,00:35,CEA,85,64,FC,Rômulo
+13,4,00:41,CEA,85,64,substituicao_entra,Joel 
+14,4,00:43,CEA,85,64,substituicao_sai,Sualisson 
+15,4,00:50,LSB,85,64,RD, Avelino
+16,4,00:50,CEA,85,64,2_Pts_T,Victor
+17,4,00:52,LSB,85,64,2_Pts_C,Avelino
+18,4,01:11,CEA,85,62,2_Pts_C,Leal
+19,4,01:11,CEA,83,62,,
+20,4,01:24,CEA,83,62,RD, Rômulo
+21,4,01:24,LSB,83,62,3_Pts_T,Neto
+22,4,01:37,CEA,83,62,2_Pts_C,Rômulo
+23,4,01:48,CEA,81,62,RO, Rômulo
+24,4,01:48,CEA,81,62,3_Pts_T,Victor
+25,4,02:08,LSB,81,62,3_Pts_C,Neto
+26,4,02:08,LSB,81,59,,
+27,4,02:23,CEA,81,59,2_Pts_C,Sualisson
+28,4,02:23,CEA,79,59,,
+29,4,02:29,CEA,79,59,substituicao_entra,Sualisson 
+30,4,02:29,CEA,79,59,substituicao_sai,Felipe 
+31,4,02:29,LSB,79,59,substituicao_entra,Victor 
+32,4,02:29,LSB,79,59,substituicao_sai,Fab Melo 
+33,4,02:32,CEA,79,59,RD, Basquete Cearense
+34,4,02:32,LSB,79,59,2_Pts_T,Fab Melo
+35,4,02:38,LSB,79,59,BR,Renato Scholz
+36,4,02:38,CEA,79,59,ER,Davi
+37,4,02:44,CEA,79,59,FR,Leal
+38,4,02:44,LSB,79,59,FC,Fab Melo
+39,4,02:46,CEA,79,59,2_Pts_C,Felipe
+40,4,03:03,LSB,77,59,3_Pts_C,Avelino
+41,4,03:03,LSB,77,56,,
+42,4,03:15,CEA,77,56,ER,Leal
+43,4,03:33,CEA,77,56,substituicao_entra,Rômulo 
+44,4,03:33,CEA,77,56,substituicao_sai,Toledo 
+45,4,03:33,LSB,77,56,LL_Pts_C,Neto
+46,4,03:33,LSB,77,55,LL_Pts_T,Neto
+47,4,03:33,CEA,77,55,substituicao_entra,Victor 
+48,4,03:33,CEA,77,55,substituicao_sai,Sualisson 
+49,4,03:33,LSB,77,55,FR,Neto
+50,4,03:33,CEA,77,55,FC,Sualisson
+51,4,03:39,LSB,77,55,RD, Neto
+52,4,03:39,CEA,77,55,2_Pts_T,Sualisson
+53,4,03:49,CEA,77,55,RO, Sualisson
+54,4,03:49,CEA,77,55,3_Pts_T,Felipe
+55,4,03:56,CEA,77,55,substituicao_entra,Leal 
+56,4,03:56,CEA,77,55,substituicao_sai,Tiagão 
+57,4,03:56,CEA,77,55,FR,Sualisson
+58,4,03:56,LSB,77,55,FC,Avelino
+59,4,04:12,LSB,77,55,2_Pts_C,Fab Melo
+60,4,04:12,LSB,77,53,,
+61,4,04:26,CEA,77,53,2_Pts_C,Davi
+62,4,04:34,CEA,75,53,RD, Felipe
+63,4,04:34,LSB,75,53,2_Pts_T,Renato Scholz
+64,4,04:45,CEA,75,53,2_Pts_C,Sualisson
+65,4,04:52,LSB,73,53,tempo_tecnico, Liga Sorocabana
+66,4,05:08,CEA,73,53,LL_Pts_C,Davi
+67,4,05:08,CEA,72,53,LL_Pts_C,Davi
+68,4,05:08,CEA,71,53,FR,Davi
+69,4,05:08,LSB,71,53,FC_A,Renato Scholz
+70,4,05:28,LSB,71,53,substituicao_entra,Avelino 
+71,4,05:28,LSB,71,53,substituicao_sai,A  Pinheiro 
+72,4,05:28,LSB,71,53,substituicao_entra,Fab Melo 
+73,4,05:28,LSB,71,53,substituicao_sai,Avelino 
+74,4,05:28,LSB,71,53,substituicao_sai,Fab Melo 
+75,4,05:28,LSB,71,53,substituicao_entra,A  Pinheiro 
+76,4,05:28,LSB,71,53,substituicao_entra,Fab Melo 
+77,4,05:28,LSB,71,53,substituicao_sai,Lupa 
+78,4,05:30,LSB,71,53,ER,Lupa
+79,4,05:36,LSB,71,53,FR,Neto
+80,4,05:36,CEA,71,53,FC,Tiagão
+81,4,05:43,LSB,71,53,FR,Renato Scholz
+82,4,05:43,CEA,71,53,FC,Toledo
+83,4,05:58,CEA,71,53,substituicao_entra,Tiagão 
+84,4,05:58,CEA,71,53,substituicao_sai,Léo Waszkiewicz 
+85,4,05:58,LSB,71,53,FR,Renato Scholz
+86,4,05:58,CEA,71,53,FC,Léo Waszkiewicz
+87,4,06:15,LSB,71,53,substituicao_entra,Avelino 
+88,4,06:15,LSB,71,53,substituicao_sai,Lacerda 
+89,4,06:15,LSB,71,53,FR,Neto
+90,4,06:15,CEA,71,53,FC,Toledo
+91,4,06:20,LSB,71,53,RD, Renato Scholz
+92,4,06:20,CEA,71,53,2_Pts_T,Toledo
+93,4,06:24,CEA,71,53,RO, Toledo
+94,4,06:24,CEA,71,53,2_Pts_T,Léo Waszkiewicz
+95,4,06:34,CEA,71,53,FR,Sualisson
+96,4,06:34,LSB,71,53,FC,Lacerda
+97,4,06:46,CEA,71,53,substituicao_entra,Davi 
+98,4,06:46,CEA,71,53,substituicao_sai,Duda Machado 
+99,4,06:50,LSB,71,53,2_Pts_C,Neto
+100,4,06:52,LSB,71,51,BR,Neto
+101,4,06:52,CEA,71,51,ER,Duda Machado
+102,4,07:05,LSB,71,51,2_Pts_C,Lupa
+103,4,07:28,CEA,71,49,EN,Duda Machado
+104,4,07:28,CEA,69,49,,
+105,4,07:34,CEA,69,49,RD, Felipe
+106,4,07:34,LSB,69,49,2_Pts_T,Renato Scholz
+107,4,07:45,LSB,69,49,substituicao_entra,Lacerda 
+108,4,07:45,LSB,69,49,substituicao_sai,Fab Melo 
+109,4,07:52,CEA,69,49,substituicao_entra,Sualisson 
+110,4,07:52,CEA,69,49,substituicao_sai,Victor 
+111,4,07:57,LSB,69,49,tempo_tecnico, Liga Sorocabana
+112,4,07:57,CEA,69,49,2_Pts_C,Duda Machado
+113,4,08:06,LSB,67,49,substituicao_entra,Lupa 
+114,4,08:08,LSB,67,49,substituicao_sai,A  Pinheiro 
+115,4,08:27,LSB,67,49,2_Pts_C,Socas
+116,4,08:55,CEA,67,47,3_Pts_C,Felipe
+117,4,08:55,CEA,64,47,,
+118,4,09:14,CEA,64,47,,
+119,4,09:14,LSB,64,47,ER,Neto
+120,4,09:23,LSB,64,47,BR,Fab Melo
+121,4,09:23,CEA,64,47,ER,Felipe
+122,4,09:27,CEA,64,47,BR,Léo Waszkiewicz
+123,4,09:27,LSB,64,47,ER,Neto
+124,4,09:40,LSB,64,47,RO, Liga Sorocabana
+125,4,09:40,LSB,64,47,2_Pts_T,Neto
+126,3,00:00,NaN.,64,47,fim_quarto, 
+127,3,00:00,CEA,64,47,3_Pts_T,Toledo
+128,3,00:06,CEA,64,47,RD, Léo Waszkiewicz
+129,3,00:06,LSB,64,47,3_Pts_T,Victor
+130,3,00:25,LSB,64,47,RD, Socas
+131,3,00:25,CEA,64,47,3_Pts_T,Duda Machado
+132,3,00:39,LSB,64,47,substituicao_entra,Lacerda 
+133,3,00:39,LSB,64,47,substituicao_sai,Fab Melo 
+134,3,00:39,LSB,64,47,LL_Pts_C,Socas
+135,3,00:39,LSB,64,46,LL_Pts_C,Socas
+136,3,00:39,LSB,64,45,FR,Socas
+137,3,00:39,CEA,64,45,FC,Sualisson
+138,3,00:39,LSB,64,45,BR,Avelino
+139,3,00:39,CEA,64,45,ER,Léo Waszkiewicz
+140,3,00:44,CEA,64,45,RO, Léo Waszkiewicz
+141,3,00:44,CEA,64,45,2_Pts_T,Victor
+142,3,00:54,CEA,64,45,RD, Toledo
+143,3,00:54,LSB,64,45,3_Pts_T,Verson
+144,3,01:04,CEA,64,45,2_Pts_C,Léo Waszkiewicz
+145,3,01:09,CEA,62,45,RO, Léo Waszkiewicz
+146,3,01:09,CEA,62,45,3_Pts_T,Duda Machado
+147,3,01:16,LSB,62,45,substituicao_entra,Avelino 
+148,3,01:16,LSB,62,45,substituicao_sai,Neto 
+149,3,01:16,LSB,62,45,FR,Verson
+150,3,01:16,CEA,62,45,FC,Léo Waszkiewicz
+151,3,01:16,CEA,62,45,FR,Léo Waszkiewicz
+152,3,01:16,LSB,62,45,FC,Verson
+153,3,01:30,CEA,62,45,RD, Léo Waszkiewicz
+154,3,01:30,LSB,62,45,2_Pts_T,Neto
+155,3,01:41,CEA,62,45,substituicao_entra,Sualisson 
+156,3,01:41,CEA,62,45,substituicao_sai,Felipe 
+157,3,01:41,CEA,62,45,ER,Felipe
+158,3,01:48,CEA,62,45,RO, Felipe
+159,3,01:48,CEA,62,45,3_Pts_T,Toledo
+160,3,01:55,CEA,62,45,RO, Toledo
+161,3,01:55,CEA,62,45,2_Pts_T,Felipe
+162,3,02:01,CEA,62,45,BR,Victor
+163,3,02:01,LSB,62,45,ER,Socas
+164,3,02:15,CEA,62,45,ER,Victor
+165,3,02:18,LSB,62,45,substituicao_entra,Fab Melo 
+166,3,02:18,LSB,62,45,substituicao_sai,Lupa 
+167,3,02:27,LSB,62,45,EN,Lupa
+168,3,02:27,LSB,62,43,,
+169,3,02:40,CEA,62,43,3_Pts_C,Duda Machado
+170,3,02:40,CEA,59,43,,
+171,3,02:45,CEA,59,43,FR,Duda Machado
+172,3,02:45,LSB,59,43,FC,Lupa
+173,3,03:07,CEA,59,43,RD, Felipe
+174,3,03:07,LSB,59,43,3_Pts_T,Neto
+175,3,03:15,CEA,59,43,substituicao_entra,Victor 
+176,3,03:15,CEA,59,43,substituicao_sai,Davi 
+177,3,03:15,LSB,59,43,substituicao_entra,Victor 
+178,3,03:15,LSB,59,43,substituicao_sai,A  Pinheiro 
+179,3,03:21,LSB,59,43,RD, Socas
+180,3,03:21,CEA,59,43,2_Pts_T,Davi
+181,3,03:25,CEA,59,43,BR,Davi
+182,3,03:25,LSB,59,43,ER,A  Pinheiro
+183,3,03:31,LSB,59,43,RO, A  Pinheiro
+184,3,03:31,LSB,59,43,3_Pts_T,Verson
+185,3,03:45,LSB,59,43,substituicao_entra,Verson 
+186,3,03:45,LSB,59,43,substituicao_sai,Renato Scholz 
+187,3,03:45,LSB,59,43,LL_Pts_C,Renato Scholz
+188,3,03:45,LSB,59,42,LL_Pts_T,Renato Scholz
+189,3,03:45,CEA,59,42,substituicao_entra,Léo Waszkiewicz 
+190,3,03:45,CEA,59,42,substituicao_sai,Tiagão 
+191,3,03:45,LSB,59,42,FR,Renato Scholz
+192,3,03:45,CEA,59,42,FC_A,Tiagão
+193,3,04:01,CEA,59,42,2_Pts_C,Toledo
+194,3,04:01,CEA,57,42,,
+195,3,04:15,CEA,57,42,RD, Davi
+196,3,04:15,LSB,57,42,3_Pts_T,Neto
+197,3,04:37,CEA,57,42,3_Pts_C,Felipe
+198,3,04:37,CEA,54,42,,
+199,3,04:57,LSB,54,42,2_Pts_C,Neto
+200,3,05:17,LSB,54,40,tempo_tecnico, Liga Sorocabana
+201,3,05:17,CEA,54,40,2_Pts_C,Toledo
+202,3,05:22,CEA,52,40,RO, Toledo
+203,3,05:22,CEA,52,40,2_Pts_T,Duda Machado
+204,3,05:34,CEA,52,40,RD, Tiagão
+205,3,05:34,LSB,52,40,3_Pts_T,Renato Scholz
+206,3,05:53,CEA,52,40,LL_Pts_C,Duda Machado
+207,3,05:53,CEA,51,40,LL_Pts_T,Duda Machado
+208,3,05:53,LSB,51,40,substituicao_entra,Socas 
+209,3,05:53,LSB,51,40,substituicao_sai,Fab Melo 
+210,3,05:53,CEA,51,40,FR,Duda Machado
+211,3,05:53,LSB,51,40,FC,Fab Melo
+212,3,06:11,LSB,51,40,ER,
+213,3,06:35,CEA,51,40,LL_Pts_C,Davi
+214,3,06:35,CEA,50,40,LL_Pts_C,Davi
+215,3,06:35,CEA,49,40,FR,Davi
+216,3,06:35,LSB,49,40,FC,Fab Melo
+217,3,06:55,LSB,49,40,LL_Pts_C,A  Pinheiro
+218,3,06:55,LSB,49,39,LL_Pts_C,A  Pinheiro
+219,3,06:58,LSB,49,38,FR,A  Pinheiro
+220,3,06:58,CEA,49,38,FC,Felipe
+221,3,07:16,CEA,49,38,2_Pts_C,Toledo
+222,3,07:16,CEA,47,38,,
+223,3,07:21,LSB,47,38,2_Pts_C,Renato Scholz
+224,3,07:28,LSB,47,36,RO, Renato Scholz
+225,3,07:28,LSB,47,36,2_Pts_T,Neto
+226,3,07:49,CEA,47,36,2_Pts_C,Davi
+227,3,07:49,CEA,45,36,,
+228,3,07:53,CEA,45,36,BR,Felipe
+229,3,07:53,LSB,45,36,ER,Lupa
+230,3,08:03,CEA,45,36,EN,Tiagão
+231,3,08:03,CEA,43,36,,
+232,3,08:24,LSB,43,36,2_Pts_C,Lupa
+233,3,08:24,LSB,43,34,,
+234,3,08:35,LSB,43,34,substituicao_entra,Lupa 
+235,3,08:35,LSB,43,34,substituicao_sai,Avelino 
+236,3,08:35,LSB,43,34,FR,Neto
+237,3,08:35,CEA,43,34,FC,Duda Machado
+238,3,08:58,LSB,43,34,RD, Liga Sorocabana
+239,3,08:58,CEA,43,34,3_Pts_T,Toledo
+240,3,09:16,CEA,43,34,RD, Felipe
+241,3,09:16,LSB,43,34,3_Pts_T,Renato Scholz
+242,3,09:31,CEA,43,34,2_Pts_C,Tiagão
+243,3,09:31,CEA,41,34,,
+244,3,09:39,CEA,41,34,RO, Toledo
+245,3,09:39,CEA,41,34,3_Pts_T,Davi
+246,2,00:00,NaN.,41,34,fim_quarto, 
+247,2,00:01,LSB,41,34,3_Pts_T,Neto
+248,2,00:04,LSB,41,34,RD, Neto
+249,2,00:04,CEA,41,34,3_Pts_T,Felipe
+250,2,00:13,LSB,41,34,LL_Pts_C,Neto
+251,2,00:13,LSB,41,33,LL_Pts_T,Neto
+252,2,00:13,LSB,41,33,FR,Neto
+253,2,00:13,CEA,41,33,FC,Davi
+254,2,00:28,LSB,41,33,RD, Renato Scholz
+255,2,00:28,LSB,41,33,TO,Renato Scholz
+256,2,00:28,CEA,41,33,2_Pts_T,Davi
+257,2,00:43,LSB,41,33,LL_Pts_C,Neto
+258,2,00:43,LSB,41,32,LL_Pts_C,Neto
+259,2,00:43,CEA,41,31,substituicao_entra,Toledo 
+260,2,00:43,CEA,41,31,substituicao_sai,Victor 
+261,2,00:43,CEA,41,31,tempo_tecnico, Basquete Cearense
+262,2,00:43,CEA,41,31,substituicao_entra,Duda Machado 
+263,2,00:43,CEA,41,31,substituicao_sai,Sualisson 
+264,2,00:43,LSB,41,31,FR,Neto
+265,2,00:43,CEA,41,31,FC,Tiagão
+266,2,00:45,LSB,41,31,BR,Neto
+267,2,00:45,CEA,41,31,ER,Tiagão
+268,2,01:01,LSB,41,31,3_Pts_C,Neto
+269,2,01:01,LSB,41,28,,
+270,2,01:15,CEA,41,28,substituicao_entra,Sualisson 
+271,2,01:15,CEA,41,28,substituicao_sai,Duda Machado 
+272,2,01:15,CEA,41,28,LL_Pts_C,Tiagão
+273,2,01:15,CEA,40,28,,
+274,2,01:15,CEA,40,28,LL_Pts_C,Tiagão
+275,2,01:15,LSB,39,28,substituicao_entra,Lacerda 
+276,2,01:15,LSB,39,28,substituicao_sai,Fab Melo 
+277,2,01:15,CEA,39,28,FR,Tiagão
+278,2,01:15,LSB,39,28,FC,Socas
+279,2,01:27,LSB,39,28,substituicao_entra,Renato Scholz 
+280,2,01:27,LSB,39,28,substituicao_sai,Verson 
+281,2,01:27,LSB,39,28,ER,
+282,2,01:43,LSB,39,28,RO, Socas
+283,2,01:43,LSB,39,28,2_Pts_T,Fab Melo
+284,2,01:47,CEA,39,28,substituicao_entra,Victor 
+285,2,01:47,CEA,39,28,substituicao_sai,Audrei 
+286,2,02:07,CEA,39,28,3_Pts_C,Davi
+287,2,02:07,CEA,36,28,,
+288,2,02:26,CEA,36,28,RD, Felipe
+289,2,02:26,LSB,36,28,2_Pts_T,Fab Melo
+290,2,02:36,LSB,36,28,substituicao_entra,A  Pinheiro 
+291,2,02:36,LSB,36,28,substituicao_sai,Renato Scholz 
+292,2,02:36,CEA,36,28,ER,Audrei
+293,2,02:40,CEA,36,28,BR,Duda Machado
+294,2,02:40,LSB,36,28,ER,Fab Melo
+295,2,02:52,LSB,36,28,tempo_tecnico, Liga Sorocabana
+296,2,02:52,CEA,36,28,3_Pts_C,Tiagão
+297,2,02:52,CEA,33,28,,
+298,2,03:06,CEA,33,28,RD, Tiagão
+299,2,03:06,LSB,33,28,3_Pts_T,Renato Scholz
+300,2,03:25,CEA,33,28,2_Pts_C,Tiagão
+301,2,03:25,CEA,31,28,,
+302,2,03:37,CEA,31,28,substituicao_entra,Audrei 
+303,2,03:37,CEA,31,28,substituicao_sai,Toledo 
+304,2,03:37,CEA,31,28,FR,Davi
+305,2,03:37,LSB,31,28,FC,Socas
+306,2,03:43,CEA,31,28,RD, Davi
+307,2,03:43,CEA,31,28,TO,Tiagão
+308,2,03:43,LSB,31,28,2_Pts_T,Neto
+309,2,03:49,LSB,31,28,FR,Renato Scholz
+310,2,03:49,CEA,31,28,FC,Felipe
+311,2,04:00,LSB,31,28,RD, Socas
+312,2,04:00,CEA,31,28,3_Pts_T,Felipe
+313,2,04:07,CEA,31,28,RO, Toledo
+314,2,04:07,CEA,31,28,2_Pts_T,Duda Machado
+315,2,04:24,CEA,31,28,FR,Toledo
+316,2,04:24,LSB,31,28,FC,Renato Scholz
+317,2,04:28,LSB,31,28,substituicao_entra,Socas 
+318,2,04:28,LSB,31,28,substituicao_sai,A  Pinheiro 
+319,2,04:28,LSB,31,28,LL_Pts_C,A  Pinheiro
+320,2,04:28,LSB,31,27,LL_Pts_C,A  Pinheiro
+321,2,04:31,LSB,31,26,FR,A  Pinheiro
+322,2,04:31,CEA,31,26,FC,Tiagão
+323,2,04:51,CEA,31,26,substituicao_entra,Toledo 
+324,2,04:51,CEA,31,26,substituicao_sai,Rômulo 
+325,2,04:51,CEA,31,26,ER,Rômulo
+326,2,04:54,LSB,31,26,substituicao_entra,Verson 
+327,2,04:54,LSB,31,26,substituicao_sai,Lupa 
+328,2,04:54,CEA,31,26,FR,Davi
+329,2,04:54,LSB,31,26,FC,Lupa
+330,2,05:04,CEA,31,26,substituicao_entra,Rômulo 
+331,2,05:04,CEA,31,26,substituicao_sai,Toledo 
+332,2,05:11,LSB,31,26,EN,Fab Melo
+333,2,05:11,LSB,31,24,,
+334,2,05:28,CEA,31,24,3_Pts_C,Duda Machado
+335,2,05:55,LSB,28,24,,
+336,2,05:59,CEA,28,24,substituicao_entra,Tiagão 
+337,2,05:59,CEA,28,24,substituicao_sai,Léo Waszkiewicz 
+338,2,05:59,LSB,28,24,FR,Neto
+339,2,05:59,CEA,28,24,FC,Léo Waszkiewicz
+340,2,06:16,CEA,28,24,LL_Pts_C,Léo Waszkiewicz
+341,2,06:16,CEA,27,24,,
+342,2,06:16,CEA,27,24,LL_Pts_C,Léo Waszkiewicz
+343,2,06:16,CEA,26,24,FR,Léo Waszkiewicz
+344,2,06:16,LSB,26,24,FC,Fab Melo
+345,2,06:36,LSB,26,24,2_Pts_C,Lupa
+346,2,06:36,LSB,26,22,,
+347,2,06:48,CEA,26,22,2_Pts_C,Felipe
+348,2,06:56,LSB,24,22,2_Pts_C,Neto
+349,2,07:19,LSB,24,20,substituicao_entra,Lupa 
+350,2,07:19,LSB,24,20,substituicao_sai,Avelino 
+351,2,07:20,LSB,24,20,tempo_tecnico, Liga Sorocabana
+352,2,07:20,CEA,24,20,2_Pts_C,Davi
+353,2,07:33,CEA,22,20,BR,Felipe
+354,2,07:33,LSB,22,20,ER,Fab Melo
+355,2,07:44,CEA,22,20,3_Pts_C,Felipe
+356,2,07:44,CEA,19,20,,
+357,2,08:02,LSB,19,20,LL_Pts_C,Renato Scholz
+358,2,08:02,LSB,19,19,LL_Pts_T,Renato Scholz
+359,2,08:09,LSB,19,19,FR,Renato Scholz
+360,2,08:09,CEA,19,19,FC,Léo Waszkiewicz
+361,2,08:23,LSB,19,19,RD, A  Pinheiro
+362,2,08:23,CEA,19,19,3_Pts_T,Duda Machado
+363,2,08:37,LSB,19,19,ER,Fab Melo
+364,2,08:49,LSB,19,19,RD, Fab Melo
+365,2,08:49,CEA,19,19,3_Pts_T,Davi
+366,2,09:09,LSB,19,19,3_Pts_C,Renato Scholz
+367,2,09:09,LSB,19,16,,
+368,2,09:25,CEA,19,16,2_Pts_C,Duda Machado
+369,2,09:46,CEA,17,16,RD, Davi
+370,2,09:46,LSB,17,16,3_Pts_T,Avelino
+371,1,00:00,NaN.,17,16,fim_quarto, 
+372,1,00:05,CEA,17,16,RD, Léo Waszkiewicz
+373,1,00:05,LSB,17,16,3_Pts_T,A  Pinheiro
+374,1,00:32,CEA,17,16,,
+375,1,00:32,CEA,17,16,LL_Pts_C,Léo Waszkiewicz
+376,1,00:32,CEA,16,16,LL_Pts_T,Léo Waszkiewicz
+377,1,00:32,LSB,16,16,substituicao_entra,A  Pinheiro 
+378,1,00:32,LSB,16,16,substituicao_sai,Lupa 
+379,1,00:32,CEA,16,16,substituicao_entra,Victor 
+380,1,00:32,CEA,16,16,substituicao_sai,Audrei 
+381,1,00:32,CEA,16,16,FR,Davi
+382,1,00:32,LSB,16,16,FC,Chupeta
+383,1,00:35,CEA,16,16,FR,Léo Waszkiewicz
+384,1,00:35,LSB,16,16,FC,Lupa
+385,1,00:45,LSB,16,16,3_Pts_C,Renato Scholz
+386,1,00:45,LSB,16,13,,
+387,1,00:58,LSB,16,13,RD, Fab Melo
+388,1,00:58,CEA,16,13,LL_Pts_T,Davi
+389,1,00:58,CEA,16,13,LL_Pts_C,Davi
+390,1,00:58,LSB,15,13,substituicao_entra,Avelino 
+391,1,00:58,LSB,15,13,substituicao_sai,Chupeta 
+392,1,00:58,LSB,15,13,substituicao_entra,Fab Melo 
+393,1,00:58,LSB,15,13,substituicao_sai,Verson 
+394,1,01:08,LSB,15,13,BR,Fab Melo
+395,1,01:08,CEA,15,13,ER,Davi
+396,1,01:18,LSB,15,13,ER,Neto
+397,1,01:42,CEA,15,13,2_Pts_C,Audrei
+398,1,01:48,CEA,13,13,FR,Toledo
+399,1,01:48,LSB,13,13,FC,Lupa
+400,1,01:53,LSB,13,13,substituicao_entra,Neto 
+401,1,01:53,LSB,13,13,substituicao_sai,Socas 
+402,1,02:00,LSB,13,13,LL_Pts_C,Lupa
+403,1,02:00,LSB,13,12,LL_Pts_C,Lupa
+404,1,02:00,CEA,13,11,substituicao_entra,Audrei 
+405,1,02:00,CEA,13,11,substituicao_sai,Victor 
+406,1,02:00,CEA,13,11,substituicao_entra,Léo Waszkiewicz 
+407,1,02:00,CEA,13,11,substituicao_sai,Tiagão 
+408,1,02:02,LSB,13,11,FR,Lupa
+409,1,02:02,CEA,13,11,FC,Duda Machado
+410,1,02:07,LSB,13,11,RO, Lupa
+411,1,02:07,LSB,13,11,2_Pts_T,Lupa
+412,1,02:20,CEA,13,11,2_Pts_C,Tiagão
+413,1,02:20,CEA,11,11,,
+414,1,02:45,CEA,11,11,RD, Duda Machado
+415,1,02:45,LSB,11,11,2_Pts_T,Socas
+416,1,02:56,LSB,11,11,substituicao_entra,Renato Scholz 
+417,1,03:00,LSB,11,11,substituicao_sai,Neto 
+418,1,03:04,LSB,11,11,RD, Lupa
+419,1,03:04,CEA,11,11,LL_Pts_T,Victor
+420,1,03:04,CEA,11,11,LL_Pts_T,Victor
+421,1,03:04,LSB,11,11,substituicao_entra,Chupeta 
+422,1,03:04,LSB,11,11,substituicao_sai,A  Pinheiro 
+423,1,03:04,CEA,11,11,FR,Victor
+424,1,03:04,LSB,11,11,FC,Neto
+425,1,03:19,CEA,11,11,RD, Victor
+426,1,03:19,LSB,11,11,3_Pts_T,Verson
+427,1,03:26,LSB,11,11,RO, A  Pinheiro
+428,1,03:26,LSB,11,11,2_Pts_T,A  Pinheiro
+429,1,03:42,CEA,11,11,EN,Toledo
+430,1,03:47,CEA,9,11,BR,Toledo
+431,1,03:47,LSB,9,11,ER,A  Pinheiro
+432,1,04:01,CEA,9,11,,
+433,1,04:01,CEA,9,11,LL_Pts_C,Tiagão
+434,1,04:01,CEA,8,11,LL_Pts_C,Tiagão
+435,1,04:01,CEA,7,11,substituicao_entra,Victor 
+436,1,04:01,CEA,7,11,substituicao_sai,Sualisson 
+437,1,04:01,LSB,7,11,substituicao_entra,Socas 
+438,1,04:01,LSB,7,11,substituicao_sai,Fab Melo 
+439,1,04:01,LSB,7,11,substituicao_entra,Verson 
+440,1,04:01,LSB,7,11,substituicao_sai,Verson 
+441,1,04:01,CEA,7,11,FR,Tiagão
+442,1,04:01,LSB,7,11,FC,Verson
+443,1,04:17,LSB,7,11,2_Pts_C,Lupa
+444,1,04:23,LSB,7,9,RO, Lupa
+445,1,04:23,LSB,7,9,3_Pts_T,Neto
+446,1,04:38,LSB,7,9,FR,Lupa
+447,1,04:38,CEA,7,9,FC,Toledo
+448,1,04:52,LSB,7,9,RD, A  Pinheiro
+449,1,04:52,CEA,7,9,3_Pts_T,Sualisson
+450,1,05:01,LSB,7,9,substituicao_entra,Verson 
+451,1,05:01,LSB,7,9,substituicao_sai,Renato Scholz 
+452,1,05:01,LSB,7,9,substituicao_entra,Lupa 
+453,1,05:01,LSB,7,9,substituicao_sai,Avelino 
+454,1,05:08,CEA,7,9,RD, Tiagão
+455,1,05:08,LSB,7,9,2_Pts_T,Fab Melo
+456,1,05:15,LSB,7,9,RO, A  Pinheiro
+457,1,05:15,LSB,7,9,3_Pts_T,Avelino
+458,1,05:30,LSB,7,9,,
+459,1,05:30,CEA,7,9,ER,Toledo
+460,1,05:30,CEA,7,9,RD, Toledo
+461,1,05:30,LSB,7,9,2_Pts_T,A  Pinheiro
+462,1,05:35,LSB,7,9,RO, Liga Sorocabana
+463,1,05:35,LSB,7,9,2_Pts_T,Fab Melo
+464,1,05:51,LSB,7,9,RD, Avelino
+465,1,05:51,CEA,7,9,3_Pts_T,Duda Machado
+466,1,06:00,LSB,7,9,ER,
+467,1,06:29,CEA,7,9,2_Pts_C,Sualisson
+468,1,06:29,CEA,5,9,,
+469,1,06:47,LSB,5,9,2_Pts_C,Renato Scholz
+470,1,06:53,LSB,5,7,RO, Renato Scholz
+471,1,06:53,LSB,5,7,2_Pts_T,Neto
+472,1,07:19,CEA,5,7,3_Pts_C,Toledo
+473,1,07:19,CEA,2,7,,
+474,1,07:25,CEA,2,7,RD, Davi
+475,1,07:25,LSB,2,7,2_Pts_T,Neto
+476,1,07:31,LSB,2,7,RD, A  Pinheiro
+477,1,07:31,LSB,2,7,TO,Fab Melo
+478,1,07:31,CEA,2,7,2_Pts_T,Toledo
+479,1,07:41,LSB,2,7,,
+480,1,07:41,LSB,2,7,LL_Pts_C,Fab Melo
+481,1,07:41,LSB,2,6,LL_Pts_C,Fab Melo
+482,1,07:41,LSB,2,5,FR,Fab Melo
+483,1,07:41,CEA,2,5,FC,Davi
+484,1,08:01,CEA,2,5,2_Pts_C,Davi
+485,1,08:07,CEA,0,5,RD, Sualisson
+486,1,08:07,LSB,0,5,2_Pts_T,Renato Scholz
+487,1,08:23,LSB,0,5,FR,Fab Melo
+488,1,08:23,CEA,0,5,FC,Sualisson
+489,1,08:35,LSB,0,5,RD, Fab Melo
+490,1,08:35,CEA,0,5,3_Pts_T,Duda Machado
+491,1,08:50,LSB,0,5,3_Pts_C,Fab Melo
+492,1,08:50,LSB,0,2,,
+493,1,09:10,LSB,0,2,RD, Avelino
+494,1,09:10,CEA,0,2,2_Pts_T,Davi
+495,1,09:17,CEA,0,2,FR,Sualisson
+496,1,09:17,LSB,0,2,FC,A  Pinheiro
+497,1,09:27,LSB,0,2,2_Pts_C,A  Pinheiro
+498,1,09:33,LSB,0,0,RO, Fab Melo
+499,1,09:33,LSB,0,0,3_Pts_T,Avelino
+500,1,10:00,CEA,0,0,substituicao_entra,Tiagão 
+501,1,10:00,CEA,0,0,substituicao_entra,Sualisson 
+502,1,10:00,CEA,0,0,substituicao_entra,Toledo 
+503,1,10:00,CEA,0,0,substituicao_entra,Duda Machado 
+504,1,10:00,CEA,0,0,substituicao_entra,Davi 
+505,1,10:00,LSB,0,0,substituicao_entra,Avelino 
+506,1,10:00,LSB,0,0,substituicao_entra,Fab Melo 
+507,1,10:00,LSB,0,0,substituicao_entra,Renato Scholz 
+508,1,10:00,LSB,0,0,substituicao_entra,Neto 
+509,1,10:00,LSB,0,0,substituicao_entra,A  Pinheiro 

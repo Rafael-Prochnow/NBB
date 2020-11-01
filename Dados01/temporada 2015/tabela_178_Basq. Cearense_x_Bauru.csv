@@ -1,0 +1,511 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,90,86,fim_partida, 
+1,4,00:01,BAU,90,86,3_Pts_T,Stefano
+2,4,00:06,CEA,90,86,LL_Pts_C,Léo Waszkiewicz
+3,4,00:06,CEA,89,86,LL_Pts_T,Léo Waszkiewicz
+4,4,00:06,BAU,89,86,substituicao_entra,Murilo 
+5,4,00:06,BAU,89,86,substituicao_sai,Léo Meindl 
+6,4,00:06,CEA,89,86,FR,Léo Waszkiewicz
+7,4,00:06,BAU,89,86,FC,Léo Meindl
+8,4,00:09,CEA,89,86,FR,Duda Machado
+9,4,00:09,BAU,89,86,FC,Léo Meindl
+10,4,00:10,CEA,89,86,tempo_tecnico, Basquete Cearense
+11,4,00:10,BAU,89,86,3_Pts_C,Léo Meindl
+12,4,00:18,CEA,89,83,ER,Audrei
+13,4,00:26,CEA,89,83,tempo_tecnico, Basquete Cearense
+14,4,00:26,BAU,89,83,LL_Pts_C,Gui Santos
+15,4,00:26,BAU,89,82,substituicao_entra,Gui Santos 
+16,4,00:26,BAU,89,82,substituicao_sai,Wesley  
+17,4,00:26,BAU,89,82,substituicao_entra,Léo 
+18,4,00:26,BAU,89,82,substituicao_sai,Gui Santos 
+19,4,00:26,BAU,89,82,substituicao_entra,Stefano 
+20,4,00:26,BAU,89,82,substituicao_sai,Murilo 
+21,4,00:26,CEA,89,82,substituicao_entra,Léo Waszkiewicz 
+22,4,00:26,CEA,89,82,substituicao_sai,Felipe 
+23,4,00:26,BAU,89,82,FR,Gui Santos
+24,4,00:26,CEA,89,82,FC,Felipe
+25,4,00:26,BAU,89,82,EN,Gui Santos
+26,4,00:29,BAU,89,80,BR,Gui Santos
+27,4,00:29,CEA,89,80,ER,Duda Machado
+28,4,00:37,CEA,89,80,RD, Felipe
+29,4,00:37,BAU,89,80,2_Pts_T,Murilo
+30,4,00:45,BAU,89,80,RD, Léo Meindl
+31,4,00:45,CEA,89,80,3_Pts_T,Audrei
+32,4,01:09,CEA,89,80,RD, Audrei
+33,4,01:09,BAU,89,80,2_Pts_T,Murilo
+34,4,01:25,BAU,89,80,RD, Robert Day
+35,4,01:25,CEA,89,80,3_Pts_T,Toledo
+36,4,01:50,BAU,89,80,LL_Pts_C,Murilo
+37,4,01:50,BAU,89,79,LL_Pts_C,Murilo
+38,4,01:50,BAU,89,78,FR,Murilo
+39,4,01:50,CEA,89,78,FC,Audrei
+40,4,01:56,BAU,89,78,tempo_tecnico, Bauru
+41,4,01:56,CEA,89,78,2_Pts_C,Duda Machado
+42,4,02:13,CEA,87,78,,
+43,4,02:13,BAU,87,78,ER,Gui Santos
+44,4,02:31,CEA,87,78,3_Pts_C,Audrei
+45,4,02:31,CEA,84,78,,
+46,4,02:47,BAU,84,78,2_Pts_C,Léo Meindl
+47,4,02:47,BAU,84,76,,
+48,4,02:51,CEA,84,76,substituicao_entra,Felipe 
+49,4,02:51,CEA,84,76,substituicao_sai,Sualisson 
+50,4,02:51,BAU,84,76,FR,Murilo
+51,4,02:51,CEA,84,76,FC,Toledo
+52,4,03:10,CEA,84,76,2_Pts_C,Duda Machado
+53,4,03:28,CEA,82,76,RD, Duda Machado
+54,4,03:28,BAU,82,76,3_Pts_T,Léo Meindl
+55,4,03:36,BAU,82,76,RO, Robert Day
+56,4,03:36,BAU,82,76,2_Pts_T,Léo Meindl
+57,4,03:50,BAU,82,76,RD, Léo Meindl
+58,4,03:50,CEA,82,76,3_Pts_T,Duda Machado
+59,4,04:03,CEA,82,76,RO, Sualisson
+60,4,04:03,CEA,82,76,3_Pts_T,Davi
+61,4,04:22,BAU,82,76,2_Pts_C,Léo Meindl
+62,4,04:25,BAU,82,74,RO, Léo Meindl
+63,4,04:25,BAU,82,74,2_Pts_T,Wesley 
+64,4,04:38,BAU,82,74,RD, Léo Meindl
+65,4,04:38,CEA,82,74,2_Pts_T,Sualisson
+66,4,04:57,CEA,82,74,FR,Toledo
+67,4,04:57,BAU,82,74,FC,Murilo
+68,4,04:57,CEA,82,74,BR,Duda Machado
+69,4,04:57,BAU,82,74,ER,Gui Santos
+70,4,05:04,CEA,82,74,LL_Pts_C,Davi
+71,4,05:04,CEA,81,74,LL_Pts_C,Davi
+72,4,05:04,CEA,80,74,FR,Davi
+73,4,05:04,BAU,80,74,FC,Murilo
+74,4,05:26,BAU,80,74,3_Pts_C,Robert Day
+75,4,05:26,BAU,80,71,,
+76,4,05:46,CEA,80,71,2_Pts_C,Davi
+77,4,05:46,CEA,78,71,,
+78,4,05:50,CEA,78,71,RO, Toledo
+79,4,05:50,CEA,78,71,2_Pts_T,Sualisson
+80,4,06:10,BAU,78,71,3_Pts_C,Robert Day
+81,4,06:33,BAU,78,68,tempo_tecnico, Bauru
+82,4,06:33,CEA,78,68,3_Pts_C,Toledo
+83,4,06:33,CEA,75,68,,
+84,4,06:49,CEA,75,68,RD, Toledo
+85,4,06:49,CEA,75,68,TO,Toledo
+86,4,06:49,BAU,75,68,2_Pts_T,Gui Santos
+87,4,07:14,CEA,75,68,2_Pts_C,Davi
+88,4,07:21,CEA,73,68,LL_Pts_C,Toledo
+89,4,07:21,CEA,72,68,LL_Pts_C,Toledo
+90,4,07:21,BAU,71,68,substituicao_entra,Gui Santos 
+91,4,07:21,BAU,71,68,substituicao_sai,Léo 
+92,4,07:21,CEA,71,68,FR,Toledo
+93,4,07:21,BAU,71,68,FC_A,Murilo
+94,4,07:25,CEA,71,68,RD, Duda Machado
+95,4,07:25,BAU,71,68,2_Pts_T,Léo Meindl
+96,4,07:31,BAU,71,68,FR,Léo Meindl
+97,4,07:31,CEA,71,68,FC,Duda Machado
+98,4,08:05,BAU,71,68,FR,Wesley 
+99,4,08:05,CEA,71,68,FC,Davi
+100,4,08:08,BAU,71,68,RD, Robert Day
+101,4,08:08,CEA,71,68,2_Pts_T,Toledo
+102,4,08:08,BAU,71,68,ER,Léo Meindl
+103,4,08:25,CEA,71,68,3_Pts_C,Duda Machado
+104,4,08:25,CEA,68,68,,
+105,4,08:43,BAU,68,68,2_Pts_C,Murilo
+106,4,08:47,BAU,68,66,substituicao_entra,Léo Meindl 
+107,4,08:47,BAU,68,66,substituicao_sai,Gui Santos 
+108,4,09:03,CEA,68,66,substituicao_entra,Sualisson 
+109,4,09:03,CEA,68,66,substituicao_sai,Léo Waszkiewicz 
+110,4,09:03,BAU,68,66,FR,Léo
+111,4,09:03,CEA,68,66,FC,Léo Waszkiewicz
+112,4,09:03,BAU,68,66,RO, Léo
+113,4,09:03,BAU,68,66,2_Pts_T,Léo
+114,4,09:05,BAU,68,66,RO, Murilo
+115,4,09:05,BAU,68,66,3_Pts_T,Gui Santos
+116,4,09:31,CEA,68,66,EN,Léo Waszkiewicz
+117,4,09:31,CEA,66,66,,
+118,4,09:46,CEA,66,66,RD, Léo Waszkiewicz
+119,4,09:46,BAU,66,66,3_Pts_T,Robert Day
+120,3,00:00,NaN.,66,66,fim_quarto, 
+121,3,00:04,BAU,66,66,BR,Wesley 
+122,3,00:04,CEA,66,66,ER,Duda Machado
+123,3,00:21,CEA,66,66,RD, Léo Waszkiewicz
+124,3,00:21,BAU,66,66,3_Pts_T,Wesley 
+125,3,00:52,CEA,66,66,3_Pts_C,Toledo
+126,3,00:52,CEA,63,66,,
+127,3,01:06,CEA,63,66,RD, Toledo
+128,3,01:06,BAU,63,66,LL_Pts_T,Murilo
+129,3,01:06,BAU,63,66,LL_Pts_T,Murilo
+130,3,01:06,CEA,63,66,substituicao_entra,Davi 
+131,3,01:06,CEA,63,66,substituicao_sai,Felipe 
+132,3,01:06,BAU,63,66,FR,Murilo
+133,3,01:06,CEA,63,66,FC,Felipe
+134,3,01:08,BAU,63,66,RO, Murilo
+135,3,01:08,BAU,63,66,2_Pts_T,Wesley 
+136,3,01:12,BAU,63,66,RO, Wesley 
+137,3,01:12,BAU,63,66,2_Pts_T,Wesley 
+138,3,01:21,CEA,63,66,LL_Pts_C,Toledo
+139,3,01:21,CEA,62,66,LL_Pts_C,Toledo
+140,3,01:21,BAU,61,66,substituicao_entra,Léo 
+141,3,01:21,BAU,61,66,substituicao_sai,Léo Meindl 
+142,3,01:21,CEA,61,66,FR,Toledo
+143,3,01:21,BAU,61,66,FC,Murilo
+144,3,01:21,CEA,61,66,RO, Toledo
+145,3,01:21,CEA,61,66,3_Pts_T,Duda Machado
+146,3,01:31,CEA,61,66,BR,Toledo
+147,3,01:31,BAU,61,66,ER,Léo Meindl
+148,3,01:46,BAU,61,66,FR,Léo Meindl
+149,3,01:46,CEA,61,66,FC,Toledo
+150,3,01:52,CEA,61,66,substituicao_entra,Toledo 
+151,3,01:52,CEA,61,66,substituicao_sai,Rashaun 
+152,3,01:52,BAU,61,66,substituicao_entra,Murilo 
+153,3,01:52,BAU,61,66,substituicao_sai,Labbate 
+154,3,01:52,BAU,61,66,BR,Léo Meindl
+155,3,01:52,CEA,61,66,ER,Rashaun
+156,3,02:07,CEA,61,66,,
+157,3,02:07,BAU,61,66,ER,Wesley 
+158,3,02:07,BAU,61,66,RO, Wesley 
+159,3,02:07,BAU,61,66,2_Pts_T,Wesley 
+160,3,02:27,CEA,61,66,substituicao_entra,Léo Waszkiewicz 
+161,3,02:27,CEA,61,66,substituicao_sai,Sualisson 
+162,3,02:27,CEA,61,66,substituicao_entra,Rashaun 
+163,3,02:27,CEA,61,66,substituicao_sai,Davi 
+164,3,02:27,BAU,61,66,tempo_tecnico, Bauru
+165,3,02:27,CEA,61,66,LL_Pts_C,Davi
+166,3,02:27,CEA,60,66,LL_Pts_C,Davi
+167,3,02:27,CEA,59,66,substituicao_entra,Davi 
+168,3,02:27,CEA,59,66,substituicao_sai,Toledo 
+169,3,02:27,CEA,59,66,FR,Toledo
+170,3,02:27,BAU,59,66,FC,Gui Santos
+171,3,02:27,CEA,59,66,BR,Toledo
+172,3,02:27,BAU,59,66,ER,Gui Santos
+173,3,02:49,CEA,59,66,LL_Pts_C,Felipe
+174,3,02:49,CEA,58,66,LL_Pts_C,Felipe
+175,3,02:49,CEA,57,66,FR,Felipe
+176,3,02:49,BAU,57,66,FC,Labbate
+177,3,02:49,CEA,57,66,BR,Felipe
+178,3,02:49,BAU,57,66,ER,Labbate
+179,3,02:56,BAU,57,66,BR,Robert Day
+180,3,02:56,CEA,57,66,ER,Duda Machado
+181,3,03:04,CEA,57,66,RD, Audrei
+182,3,03:04,BAU,57,66,3_Pts_T,Wesley 
+183,3,03:25,CEA,57,66,LL_Pts_C,Felipe
+184,3,03:25,CEA,56,66,LL_Pts_T,Felipe
+185,3,03:25,CEA,56,66,substituicao_entra,Sualisson 
+186,3,03:25,CEA,56,66,substituicao_sai,Davi 
+187,3,03:25,CEA,56,66,FR,Felipe
+188,3,03:25,BAU,56,66,FC,Wesley 
+189,3,03:25,CEA,56,66,RD, Felipe
+190,3,03:25,BAU,56,66,3_Pts_T,Robert Day
+191,3,03:32,BAU,56,66,RD, Wesley 
+192,3,03:32,CEA,56,66,2_Pts_T,Davi
+193,3,03:41,BAU,56,66,substituicao_entra,Labbate 
+194,3,03:41,BAU,56,66,substituicao_sai,Murilo 
+195,3,03:41,CEA,56,66,substituicao_entra,Audrei 
+196,3,03:41,CEA,56,66,substituicao_sai,Rashaun 
+197,3,03:41,CEA,56,66,FR,Davi
+198,3,03:41,BAU,56,66,FC,Léo Meindl
+199,3,03:53,BAU,56,66,2_Pts_C,Léo Meindl
+200,3,04:09,CEA,56,64,2_Pts_C,Toledo
+201,3,04:09,CEA,54,64,,
+202,3,04:20,BAU,54,64,,
+203,3,04:25,BAU,54,64,EN,Wesley 
+204,3,04:33,BAU,54,62,RD, Léo Meindl
+205,3,04:33,CEA,54,62,2_Pts_T,Duda Machado
+206,3,04:45,BAU,54,62,2_Pts_C,Gui Santos
+207,3,04:52,BAU,54,60,RD, Robert Day
+208,3,04:52,CEA,54,60,2_Pts_T,Davi
+209,3,05:09,CEA,54,60,,
+210,3,05:09,BAU,54,60,ER,Léo Meindl
+211,3,05:20,BAU,54,60,FR,Léo Meindl
+212,3,05:20,CEA,54,60,FC,Rashaun
+213,3,05:39,CEA,54,60,2_Pts_C,Davi
+214,3,05:39,CEA,52,60,,
+215,3,05:39,CEA,52,60,FR,Rashaun
+216,3,05:39,BAU,52,60,FC,Gui Santos
+217,3,05:42,CEA,52,60,RD, Rashaun
+218,3,05:42,CEA,52,60,TO,Felipe
+219,3,05:42,BAU,52,60,2_Pts_T,Murilo
+220,3,05:58,CEA,52,60,LL_Pts_T,Toledo
+221,3,05:58,CEA,52,60,LL_Pts_C,Toledo
+222,3,05:58,CEA,51,60,substituicao_entra,Felipe 
+223,3,05:58,CEA,51,60,substituicao_sai,Rômulo 
+224,3,05:58,CEA,51,60,substituicao_entra,Rashaun 
+225,3,05:58,CEA,51,60,substituicao_sai,Audrei 
+226,3,05:58,CEA,51,60,FR,Toledo
+227,3,05:58,BAU,51,60,FC,Robert Day
+228,3,06:14,BAU,51,60,2_Pts_C,Gui Santos
+229,3,06:21,BAU,51,58,RD, Gui Santos
+230,3,06:21,CEA,51,58,3_Pts_T,Toledo
+231,3,06:39,CEA,51,58,substituicao_entra,Rômulo 
+232,3,06:39,CEA,51,58,substituicao_sai,Léo Waszkiewicz 
+233,3,06:39,BAU,51,58,substituicao_entra,Wesley  
+234,3,06:39,BAU,51,58,substituicao_sai,Léo 
+235,3,06:39,BAU,51,58,2_Pts_C,Gui Santos
+236,3,07:04,CEA,51,56,2_Pts_C,Léo Waszkiewicz
+237,3,07:04,CEA,49,56,,
+238,3,07:17,CEA,49,56,RD, Léo Waszkiewicz
+239,3,07:17,BAU,49,56,3_Pts_T,Robert Day
+240,3,07:33,BAU,49,56,RO, Bauru
+241,3,07:33,BAU,49,56,3_Pts_T,Robert Day
+242,3,07:46,BAU,49,56,RD, Léo Meindl
+243,3,07:46,CEA,49,56,3_Pts_T,Davi
+244,3,07:52,CEA,49,56,RD, Léo Waszkiewicz
+245,3,07:52,BAU,49,56,LL_Pts_T,Gui Santos
+246,3,07:52,BAU,49,56,LL_Pts_T,Gui Santos
+247,3,07:52,BAU,49,56,FR,Gui Santos
+248,3,07:52,CEA,49,56,FC,Léo Waszkiewicz
+249,3,08:08,CEA,49,56,2_Pts_C,Léo Waszkiewicz
+250,3,08:12,CEA,47,56,RO, Léo Waszkiewicz
+251,3,08:12,CEA,47,56,3_Pts_T,Davi
+252,3,08:27,BAU,47,56,ER,
+253,3,09:00,CEA,47,56,2_Pts_C,Davi
+254,3,09:12,CEA,45,56,FR,Davi
+255,3,09:12,BAU,45,56,FC,Gui Santos
+256,3,09:31,BAU,45,56,2_Pts_C,Murilo
+257,3,09:31,BAU,45,54,,
+258,3,09:46,CEA,45,54,3_Pts_C,Davi
+259,2,00:00,NaN.,42,54,fim_quarto, 
+260,2,00:01,BAU,42,54,3_Pts_T,Léo Meindl
+261,2,00:02,BAU,42,54,RD, Robert Day
+262,2,00:02,CEA,42,54,3_Pts_T,Davi
+263,2,00:21,BAU,42,54,3_Pts_C,Robert Day
+264,2,00:21,BAU,42,51,,
+265,2,00:36,BAU,42,51,substituicao_entra,Murilo 
+266,2,00:36,BAU,42,51,substituicao_sai,Labbate 
+267,2,00:36,BAU,42,51,tempo_tecnico, Bauru
+268,2,00:36,CEA,42,51,LL_Pts_C,Davi
+269,2,00:36,CEA,41,51,LL_Pts_C,Davi
+270,2,00:36,CEA,40,51,substituicao_entra,Victor 
+271,2,00:36,CEA,40,51,substituicao_sai,Duda Machado 
+272,2,00:36,CEA,40,51,FR,Davi
+273,2,00:36,BAU,40,51,FC,Léo
+274,2,00:44,CEA,40,51,RD, Toledo
+275,2,00:44,BAU,40,51,2_Pts_T,Labbate
+276,2,01:07,CEA,40,51,3_Pts_C,Davi
+277,2,01:23,CEA,37,51,RD, Duda Machado
+278,2,01:23,BAU,37,51,3_Pts_T,Léo Meindl
+279,2,01:43,BAU,37,51,RD, Gui Santos
+280,2,01:43,CEA,37,51,3_Pts_T,Duda Machado
+281,2,01:57,BAU,37,51,3_Pts_C,Léo
+282,2,01:57,BAU,37,48,,
+283,2,02:10,CEA,37,48,2_Pts_C,Toledo
+284,2,02:10,CEA,35,48,,
+285,2,02:23,CEA,35,48,RD, Audrei
+286,2,02:23,BAU,35,48,3_Pts_T,Robert Day
+287,2,02:35,BAU,35,48,RD, Labbate
+288,2,02:35,CEA,35,48,3_Pts_T,Duda Machado
+289,2,02:49,BAU,35,48,3_Pts_C,Robert Day
+290,2,02:56,BAU,35,45,RD, Léo
+291,2,02:56,CEA,35,45,2_Pts_T,Duda Machado
+292,2,03:17,BAU,35,45,3_Pts_C,Léo Meindl
+293,2,03:17,BAU,35,42,,
+294,2,03:25,BAU,35,42,BR,Labbate
+295,2,03:25,CEA,35,42,ER,Duda Machado
+296,2,03:34,CEA,35,42,BR,Audrei
+297,2,03:34,BAU,35,42,ER,Gui Santos
+298,2,03:39,BAU,35,42,,
+299,2,03:39,CEA,35,42,ER,Davi
+300,2,03:52,CEA,35,42,RO, Basquete Cearense
+301,2,03:52,CEA,35,42,3_Pts_T,Audrei
+302,2,04:06,CEA,35,42,substituicao_entra,Léo Waszkiewicz 
+303,2,04:06,CEA,35,42,substituicao_sai,Tiagão 
+304,2,04:06,BAU,35,42,2_Pts_C,Labbate
+305,2,04:06,BAU,35,40,,
+306,2,04:39,CEA,35,40,3_Pts_C,Duda Machado
+307,2,04:39,BAU,32,40,LL_Pts_C,Labbate
+308,2,04:42,CEA,32,39,RD, Tiagão
+309,2,04:42,BAU,32,39,LL_Pts_T,Labbate
+310,2,04:42,CEA,32,39,substituicao_entra,Audrei 
+311,2,04:42,CEA,32,39,substituicao_sai,Felipe 
+312,2,04:42,BAU,32,39,FR,Labbate
+313,2,04:42,CEA,32,39,FC,Felipe
+314,2,05:00,BAU,32,39,RD, Léo Meindl
+315,2,05:00,CEA,32,39,3_Pts_T,Felipe
+316,2,05:10,CEA,32,39,RD, Felipe
+317,2,05:10,BAU,32,39,3_Pts_T,Léo Meindl
+318,2,05:14,BAU,32,39,substituicao_entra,Léo Meindl 
+319,2,05:14,BAU,32,39,substituicao_sai,Murilo 
+320,2,05:14,BAU,32,39,RO, Bauru
+321,2,05:14,BAU,32,39,2_Pts_T,Murilo
+322,2,05:38,CEA,32,39,3_Pts_C,Felipe
+323,2,05:38,CEA,29,39,,
+324,2,05:45,CEA,29,39,RO, Davi
+325,2,05:45,CEA,29,39,3_Pts_T,Duda Machado
+326,2,05:59,BAU,29,39,3_Pts_C,Léo
+327,2,05:59,BAU,29,36,,
+328,2,06:09,BAU,29,36,FR,Léo
+329,2,06:09,CEA,29,36,FC,Tiagão
+330,2,06:18,BAU,29,36,tempo_tecnico, Bauru
+331,2,06:18,CEA,29,36,2_Pts_C,Davi
+332,2,06:24,CEA,27,36,RD, Davi
+333,2,06:24,BAU,27,36,3_Pts_T,Murilo
+334,2,06:46,CEA,27,36,2_Pts_C,Felipe
+335,2,06:46,CEA,25,36,,
+336,2,06:53,CEA,25,36,RD, Duda Machado
+337,2,06:53,BAU,25,36,2_Pts_T,Léo
+338,2,06:57,BAU,25,36,FR,Léo
+339,2,06:57,CEA,25,36,FC,Tiagão
+340,2,07:11,CEA,25,36,3_Pts_C,Toledo
+341,2,07:11,CEA,22,36,,
+342,2,07:18,BAU,22,36,3_Pts_C,Gui Santos
+343,2,07:18,BAU,22,33,,
+344,2,07:54,BAU,22,33,RD, Léo
+345,2,07:54,CEA,22,33,3_Pts_T,Felipe
+346,2,07:54,CEA,22,33,RO, Toledo
+347,2,07:54,CEA,22,33,2_Pts_T,Tiagão
+348,2,07:54,CEA,22,33,substituicao_entra,Toledo 
+349,2,07:54,CEA,22,33,substituicao_sai,Audrei 
+350,2,07:54,CEA,22,33,substituicao_entra,Tiagão 
+351,2,07:54,CEA,22,33,substituicao_sai,Léo Waszkiewicz 
+352,2,08:00,CEA,22,33,RO, Basquete Cearense
+353,2,08:00,CEA,22,33,3_Pts_T,Audrei
+354,2,08:12,BAU,22,33,2_Pts_C,Labbate
+355,2,08:12,BAU,22,31,,
+356,2,08:26,BAU,22,31,FR,Gui Santos
+357,2,08:26,CEA,22,31,FC,Felipe
+358,2,08:33,BAU,22,31,ER,Murilo
+359,2,08:35,BAU,22,31,RD, Murilo
+360,2,08:35,CEA,22,31,3_Pts_T,Duda Machado
+361,2,08:41,BAU,22,31,substituicao_entra,Murilo 
+362,2,08:41,BAU,22,31,substituicao_sai,Wesley  
+363,2,08:41,CEA,22,31,FR,Felipe
+364,2,08:41,BAU,22,31,FC_O,Wesley 
+365,2,08:52,BAU,22,31,RD, Bauru
+366,2,08:52,CEA,22,31,2_Pts_T,Duda Machado
+367,2,09:01,CEA,22,31,FR,Duda Machado
+368,2,09:01,BAU,22,31,FC,Léo
+369,2,09:09,CEA,22,31,RD, Felipe
+370,2,09:09,BAU,22,31,3_Pts_T,Gui Santos
+371,2,09:33,CEA,22,31,LL_Pts_C,Felipe
+372,2,09:33,CEA,21,31,LL_Pts_C,Felipe
+373,2,09:33,CEA,20,31,FR,Felipe
+374,2,09:33,BAU,20,31,FC,Léo
+375,2,09:38,CEA,20,31,BR,Felipe
+376,2,09:38,BAU,20,31,ER,Robert Day
+377,2,09:50,BAU,20,31,FR,Gui Santos
+378,2,09:50,CEA,20,31,FC,Léo Waszkiewicz
+379,1,00:00,NaN.,20,31,fim_quarto, 
+380,1,00:01,CEA,20,31,3_Pts_T,Rashaun
+381,1,00:06,BAU,20,31,substituicao_entra,Felipe 
+382,1,00:06,BAU,20,31,substituicao_sai,Robert Day 
+383,1,00:06,BAU,20,31,substituicao_entra,Labbate 
+384,1,00:06,BAU,20,31,substituicao_sai,Wesley  
+385,1,00:06,BAU,20,31,substituicao_entra,Stefano 
+386,1,00:06,BAU,20,31,substituicao_sai,Léo Meindl 
+387,1,00:06,CEA,20,31,FR,Audrei
+388,1,00:06,BAU,20,31,FC,Wesley 
+389,1,00:08,CEA,20,31,RD, Audrei
+390,1,00:08,BAU,20,31,2_Pts_T,Wesley 
+391,1,00:09,BAU,20,31,substituicao_entra,Robert Day 
+392,1,00:10,BAU,20,31,substituicao_sai,Labbate 
+393,1,00:10,BAU,20,31,FR,Léo Meindl
+394,1,00:10,CEA,20,31,FC,Rashaun
+395,1,00:10,CEA,20,31,FR,Rashaun
+396,1,00:10,BAU,20,31,FC,Léo Meindl
+397,1,00:33,CEA,20,31,3_Pts_C,Audrei
+398,1,00:33,CEA,17,31,,
+399,1,00:47,CEA,17,31,RD, Felipe
+400,1,00:47,BAU,17,31,LL_Pts_T,Léo Meindl
+401,1,00:47,BAU,17,31,substituicao_entra,Léo 
+402,1,00:47,BAU,17,31,substituicao_sai,Robert Day 
+403,1,00:47,BAU,17,31,2_Pts_C,Léo Meindl
+404,1,00:47,BAU,17,29,FR,Léo Meindl
+405,1,00:47,CEA,17,29,FC,Léo Waszkiewicz
+406,1,00:48,BAU,17,29,RO, Léo Meindl
+407,1,00:48,BAU,17,29,2_Pts_T,Robert Day
+408,1,01:08,CEA,17,29,2_Pts_C,Duda Machado
+409,1,01:11,CEA,15,29,BR,Rashaun
+410,1,01:11,BAU,15,29,ER,Gui Santos
+411,1,01:17,BAU,15,29,RD, Robert Day
+412,1,01:17,CEA,15,29,2_Pts_T,Rashaun
+413,1,01:36,CEA,15,29,FR,Rashaun
+414,1,01:36,BAU,15,29,FC,Robert Day
+415,1,01:36,BAU,15,29,LL_Pts_C,Robert Day
+416,1,01:36,BAU,15,28,LL_Pts_C,Robert Day
+417,1,01:36,BAU,15,27,,
+418,1,01:36,BAU,15,27,LL_Pts_C,Robert Day
+419,1,01:36,BAU,15,26,substituicao_entra,Labbate 
+420,1,01:36,BAU,15,26,substituicao_sai,Murilo 
+421,1,01:36,BAU,15,26,FR,Robert Day
+422,1,01:36,CEA,15,26,FC,Rashaun
+423,1,01:50,BAU,15,26,RD, Robert Day
+424,1,01:50,CEA,15,26,3_Pts_T,Duda Machado
+425,1,02:03,CEA,15,26,FR,Rashaun
+426,1,02:03,BAU,15,26,FC_O,Léo Meindl
+427,1,02:20,CEA,15,26,substituicao_entra,Rashaun 
+428,1,02:20,CEA,15,26,substituicao_sai,Davi 
+429,1,02:26,CEA,15,26,2_Pts_C,Audrei
+430,1,02:31,CEA,13,26,BR,Duda Machado
+431,1,02:31,BAU,13,26,ER,Léo Meindl
+432,1,02:40,BAU,13,26,RO, Gui Santos
+433,1,02:40,BAU,13,26,2_Pts_T,Murilo
+434,1,03:09,CEA,13,26,3_Pts_C,Felipe
+435,1,03:09,CEA,10,26,,
+436,1,03:21,BAU,10,26,3_Pts_C,Robert Day
+437,1,03:27,BAU,10,23,BR,Gui Santos
+438,1,03:27,CEA,10,23,ER,Davi
+439,1,03:36,CEA,10,23,RD, Léo Waszkiewicz
+440,1,03:36,CEA,10,23,TO,Felipe
+441,1,03:36,BAU,10,23,2_Pts_T,Murilo
+442,1,03:44,BAU,10,23,FR,Wesley 
+443,1,03:44,CEA,10,23,FC,Felipe
+444,1,04:08,CEA,10,23,substituicao_entra,Léo Waszkiewicz 
+445,1,04:08,CEA,10,23,substituicao_sai,Toledo 
+446,1,04:08,CEA,10,23,3_Pts_C,Duda Machado
+447,1,04:09,CEA,7,23,substituicao_entra,Felipe 
+448,1,04:09,CEA,7,23,substituicao_sai,Tiagão 
+449,1,04:09,CEA,7,23,tempo_tecnico, Basquete Cearense
+450,1,04:09,BAU,7,23,2_Pts_C,Wesley 
+451,1,04:09,BAU,7,21,,
+452,1,04:15,BAU,7,21,BR,Robert Day
+453,1,04:15,CEA,7,21,ER,Tiagão
+454,1,04:43,BAU,7,21,2_Pts_C,Gui Santos
+455,1,05:01,BAU,7,19,RD, Bauru
+456,1,05:01,CEA,7,19,2_Pts_T,Toledo
+457,1,05:16,BAU,7,19,3_Pts_C,Robert Day
+458,1,05:16,BAU,7,16,,
+459,1,05:32,CEA,7,16,2_Pts_C,Tiagão
+460,1,05:35,CEA,5,16,RO, Tiagão
+461,1,05:35,CEA,5,16,2_Pts_T,Davi
+462,1,05:49,BAU,5,16,2_Pts_C,Murilo
+463,1,05:49,BAU,5,14,,
+464,1,06:08,BAU,5,14,RD, Wesley 
+465,1,06:08,CEA,5,14,3_Pts_T,Audrei
+466,1,06:14,BAU,5,14,2_Pts_C,Murilo
+467,1,06:14,BAU,5,12,,
+468,1,06:40,CEA,5,12,3_Pts_C,Davi
+469,1,06:40,CEA,2,12,,
+470,1,06:51,CEA,2,12,RD, Audrei
+471,1,06:51,BAU,2,12,2_Pts_T,Murilo
+472,1,07:00,BAU,2,12,,
+473,1,07:00,CEA,2,12,ER,Davi
+474,1,07:11,CEA,2,12,tempo_tecnico, Basquete Cearense
+475,1,07:11,BAU,2,12,3_Pts_C,Murilo
+476,1,07:11,BAU,2,9,,
+477,1,07:24,BAU,2,9,BR,Robert Day
+478,1,07:24,CEA,2,9,ER,Toledo
+479,1,07:44,BAU,2,9,LL_Pts_C,Gui Santos
+480,1,07:44,BAU,2,8,LL_Pts_C,Gui Santos
+481,1,07:44,BAU,2,7,FR,Gui Santos
+482,1,07:44,CEA,2,7,FC,Davi
+483,1,07:55,BAU,2,7,RD, Robert Day
+484,1,07:55,CEA,2,7,2_Pts_T,Audrei
+485,1,08:10,BAU,2,7,2_Pts_C,Murilo
+486,1,08:10,BAU,2,5,,
+487,1,08:27,BAU,2,5,RD, Robert Day
+488,1,08:27,CEA,2,5,3_Pts_T,Toledo
+489,1,08:44,BAU,2,5,3_Pts_C,Léo Meindl
+490,1,08:44,BAU,2,2,,
+491,1,09:01,BAU,2,2,,
+492,1,09:01,CEA,2,2,ER,Toledo
+493,1,09:05,CEA,2,2,BR,Toledo
+494,1,09:05,BAU,2,2,ER,Wesley 
+495,1,09:19,BAU,2,2,RD, Robert Day
+496,1,09:19,CEA,2,2,3_Pts_T,Duda Machado
+497,1,09:36,BAU,2,2,2_Pts_C,Murilo
+498,1,09:36,BAU,2,0,,
+499,1,09:55,CEA,2,0,2_Pts_C,Duda Machado
+500,1,10:00,BAU,0,0,substituicao_entra,Robert Day 
+501,1,10:00,BAU,0,0,substituicao_entra,Léo Meindl 
+502,1,10:00,BAU,0,0,substituicao_entra,Murilo 
+503,1,10:00,BAU,0,0,substituicao_entra,Gui Santos 
+504,1,10:00,BAU,0,0,substituicao_entra,Wesley  
+505,1,10:00,CEA,0,0,substituicao_entra,Audrei 
+506,1,10:00,CEA,0,0,substituicao_entra,Tiagão 
+507,1,10:00,CEA,0,0,substituicao_entra,Toledo 
+508,1,10:00,CEA,0,0,substituicao_entra,Duda Machado 
+509,1,10:00,CEA,0,0,substituicao_entra,Davi 

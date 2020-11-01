@@ -1,0 +1,519 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,70,84,fim_partida, 
+1,4,00:07,FRA,70,84,RD, Franca
+2,4,00:07,PIN,70,84,3_Pts_T,Léo Bispo
+3,4,00:08,FRA,70,84,LL_Pts_C,Alexey
+4,4,00:08,FRA,69,84,LL_Pts_C,Alexey
+5,4,00:08,FRA,68,84,FR,Alexey
+6,4,00:08,PIN,68,84,FC,Humberto
+7,4,00:30,FRA,68,84,2_Pts_C,Antonio
+8,4,00:40,FRA,66,84,,
+9,4,00:40,PIN,66,84,ER,Léo Bispo
+10,4,00:45,PIN,66,84,RD, Léo Bispo
+11,4,00:45,FRA,66,84,2_Pts_T,Schneider
+12,4,01:03,FRA,66,84,LL_Pts_C,Matheus
+13,4,01:03,PIN,65,84,substituicao_entra,Andrezão 
+14,4,01:03,PIN,65,84,substituicao_entra,Georginho 
+15,4,01:03,PIN,65,84,substituicao_sai,Bennett 
+16,4,01:03,PIN,65,84,substituicao_sai,Holloway 
+17,4,01:03,PIN,65,84,FC_T,Bennett
+18,4,01:07,PIN,65,84,LL_Pts_T,Humberto
+19,4,01:07,PIN,65,84,LL_Pts_T,Humberto
+20,4,01:07,PIN,65,84,FC_T,Humberto
+21,4,01:07,FRA,65,84,FC_T,Schneider
+22,4,01:07,PIN,65,84,FR,Humberto
+23,4,01:07,FRA,65,84,FC,Schneider
+24,4,01:22,PIN,65,84,2_Pts_C,Humberto
+25,4,01:22,PIN,65,82,,
+26,4,01:25,PIN,65,82,substituicao_entra,Léo Bispo 
+27,4,01:25,PIN,65,82,substituicao_sai,Mineiro 
+28,4,01:38,PIN,65,82,RD, Holloway
+29,4,01:38,FRA,65,82,2_Pts_T,Alexey
+30,4,01:52,FRA,65,82,,
+31,4,01:52,PIN,65,82,ER,Humberto
+32,4,02:01,PIN,65,82,RD, Mineiro
+33,4,02:01,FRA,65,82,3_Pts_T,Antonio
+34,4,02:12,FRA,65,82,LL_Pts_C,Alexey
+35,4,02:12,FRA,64,82,LL_Pts_C,Alexey
+36,4,02:12,PIN,63,82,substituicao_entra,Scaglia 
+37,4,02:12,PIN,63,82,substituicao_sai,Renan 
+38,4,02:12,PIN,63,82,substituicao_entra,Humberto 
+39,4,02:12,PIN,63,82,substituicao_sai,Lucas Dias 
+40,4,02:12,FRA,63,82,FR,Alexey
+41,4,02:12,PIN,63,82,FC_A,Renan
+42,4,02:12,FRA,63,82,BR,Alexey
+43,4,02:12,PIN,63,82,ER,Holloway
+44,4,02:18,FRA,63,82,,
+45,4,02:24,PIN,63,82,RD, Lucas Dias
+46,4,02:24,FRA,63,82,LL_Pts_T,Schneider
+47,4,02:24,FRA,63,82,FR,Schneider
+48,4,02:24,PIN,63,82,FC,Renan
+49,4,02:24,FRA,63,82,2_Pts_C,Schneider
+50,4,02:33,PIN,61,82,2_Pts_C,Bennett
+51,4,02:33,PIN,61,80,,
+52,4,02:59,PIN,61,80,,
+53,4,02:59,FRA,61,80,ER,Antonio
+54,4,03:09,FRA,61,80,RD, João Pedro
+55,4,03:09,PIN,61,80,3_Pts_T,Lucas Dias
+56,4,03:23,PIN,61,80,RD, Pinheiros
+57,4,03:23,FRA,61,80,LL_Pts_T,Matheus
+58,4,03:23,FRA,61,80,LL_Pts_T,Matheus
+59,4,03:23,FRA,61,80,FR,Matheus
+60,4,03:23,PIN,61,80,FC,Bennett
+61,4,03:37,PIN,61,80,EN,Holloway
+62,4,03:42,PIN,61,78,RD, Lucas Dias
+63,4,03:42,FRA,61,78,3_Pts_T,Matheus
+64,4,03:50,FRA,61,78,RD, João Pedro
+65,4,03:50,PIN,61,78,2_Pts_T,Holloway
+66,4,04:02,PIN,61,78,RD, Mineiro
+67,4,04:02,FRA,61,78,LL_Pts_T,Antonio
+68,4,04:02,FRA,61,78,LL_Pts_T,Antonio
+69,4,04:02,FRA,61,78,FR,Antonio
+70,4,04:02,PIN,61,78,FC,Renan
+71,4,04:07,FRA,61,78,RD, Schneider
+72,4,04:07,PIN,61,78,2_Pts_T,Renan
+73,4,04:07,PIN,61,78,RO, Pinheiros
+74,4,04:07,FRA,61,78,TO,João Pedro
+75,4,04:07,PIN,61,78,2_Pts_T,Holloway
+76,4,04:12,PIN,61,78,RO, Holloway
+77,4,04:12,FRA,61,78,TO,João Pedro
+78,4,04:12,PIN,61,78,2_Pts_T,Mineiro
+79,4,04:33,FRA,61,78,LL_Pts_C,Antonio
+80,4,04:33,FRA,60,78,LL_Pts_C,Antonio
+81,4,04:33,FRA,59,78,substituicao_entra,Alexey 
+82,4,04:33,FRA,59,78,substituicao_sai,Isaac 
+83,4,04:33,PIN,59,78,substituicao_entra,Mineiro 
+84,4,04:33,PIN,59,78,substituicao_sai,Arthur 
+85,4,04:33,PIN,59,78,substituicao_entra,Lucas Dias 
+86,4,04:33,PIN,59,78,substituicao_sai,Scaglia 
+87,4,04:33,PIN,59,78,substituicao_entra,Holloway 
+88,4,04:33,PIN,59,78,substituicao_sai,Georginho 
+89,4,04:33,FRA,59,78,FR,Antonio
+90,4,04:33,PIN,59,78,FC,Arthur
+91,4,04:41,FRA,59,78,RD, João Pedro
+92,4,04:41,PIN,59,78,2_Pts_T,Bennett
+93,4,05:08,FRA,59,78,3_Pts_C,Antonio
+94,4,05:08,FRA,56,78,,
+95,4,05:13,FRA,56,78,RO, João Pedro
+96,4,05:13,FRA,56,78,2_Pts_T,Isaac
+97,4,05:34,PIN,56,78,2_Pts_C,Bennett
+98,4,05:43,PIN,56,76,RO, Georginho
+99,4,05:43,PIN,56,76,2_Pts_T,Renan
+100,4,06:06,PIN,56,76,FR,Bennett
+101,4,06:06,FRA,56,76,FC,Antonio
+102,4,06:09,FRA,56,76,LL_Pts_C,Antonio
+103,4,06:09,FRA,55,76,FR,Antonio
+104,4,06:09,PIN,55,76,FC,Renan
+105,4,06:09,FRA,55,76,2_Pts_C,Antonio
+106,4,06:22,PIN,53,76,2_Pts_C,Arthur
+107,4,06:22,PIN,53,74,,
+108,4,06:43,FRA,53,74,2_Pts_C,João Pedro
+109,4,06:43,FRA,51,74,,
+110,4,06:58,PIN,51,74,substituicao_entra,Arthur 
+111,4,06:58,PIN,51,74,substituicao_sai,Morro 
+112,4,06:58,PIN,51,74,,
+113,4,06:58,PIN,51,74,LL_Pts_C,Morro
+114,4,06:58,PIN,51,73,LL_Pts_T,Morro
+115,4,06:58,PIN,51,73,FR,Morro
+116,4,06:58,FRA,51,73,FC,João Pedro
+117,4,07:09,FRA,51,73,2_Pts_C,João Pedro
+118,4,07:09,FRA,49,73,,
+119,4,07:21,FRA,49,73,FR,Schneider
+120,4,07:21,PIN,49,73,FC_O,Morro
+121,4,07:31,PIN,49,73,RD, Bennett
+122,4,07:31,FRA,49,73,3_Pts_T,Schneider
+123,4,07:48,PIN,49,73,2_Pts_C,Morro
+124,4,07:54,PIN,49,71,RO, Morro
+125,4,07:54,PIN,49,71,2_Pts_T,Renan
+126,4,08:10,PIN,49,71,substituicao_entra,Renan 
+127,4,08:10,PIN,49,71,substituicao_sai,Andrezão 
+128,4,08:10,PIN,49,71,FR,Georginho
+129,4,08:10,FRA,49,71,FC,João Pedro
+130,4,08:26,FRA,49,71,2_Pts_C,Antonio
+131,4,08:39,PIN,47,71,LL_Pts_C,Andrezão
+132,4,08:39,PIN,47,70,LL_Pts_T,Andrezão
+133,4,08:39,PIN,47,70,FR,Andrezão
+134,4,08:39,FRA,47,70,FC,João Pedro
+135,4,09:03,FRA,47,70,3_Pts_C,Isaac
+136,4,09:23,FRA,44,70,RD, Antonio
+137,4,09:23,PIN,44,70,2_Pts_T,Bennett
+138,4,09:45,FRA,44,70,LL_Pts_C,Antonio
+139,4,09:45,FRA,43,70,FR,Antonio
+140,4,09:45,PIN,43,70,FC,Andrezão
+141,4,09:45,FRA,43,70,2_Pts_C,Antonio
+142,3,00:00,NaN.,41,70,fim_quarto, 
+143,3,00:00,PIN,41,70,3_Pts_C,Georginho
+144,3,00:01,PIN,41,67,RD, Georginho
+145,3,00:01,FRA,41,67,3_Pts_T,Matheus
+146,3,00:16,PIN,41,67,substituicao_entra,Scaglia 
+147,3,00:16,PIN,41,67,substituicao_sai,Lucas Dias 
+148,3,00:16,FRA,41,67,FR,Schneider
+149,3,00:16,PIN,41,67,FC,Lucas Dias
+150,3,00:34,PIN,41,67,2_Pts_C,Bennett
+151,3,00:45,PIN,41,65,RD, Lucas Dias
+152,3,00:45,FRA,41,65,3_Pts_T,Matheus
+153,3,00:46,FRA,41,65,substituicao_entra,João Pedro 
+154,3,00:46,FRA,41,65,substituicao_sai,Erick 
+155,3,01:03,PIN,41,65,2_Pts_C,Bennett
+156,3,01:03,PIN,41,63,,
+157,3,01:16,PIN,41,63,RD, Georginho
+158,3,01:16,FRA,41,63,3_Pts_T,Schneider
+159,3,01:39,PIN,41,63,2_Pts_C,Lucas Dias
+160,3,01:39,PIN,41,61,,
+161,3,01:45,PIN,41,61,RD, Morro
+162,3,01:45,FRA,41,61,2_Pts_T,Alexey
+163,3,02:03,PIN,41,61,2_Pts_C,Bennett
+164,3,02:23,PIN,41,59,substituicao_entra,Andrezão 
+165,3,02:23,PIN,41,59,substituicao_sai,Renan 
+166,3,02:29,FRA,41,59,2_Pts_C,Schneider
+167,3,02:33,PIN,39,59,substituicao_entra,Morro 
+168,3,02:33,PIN,39,59,substituicao_sai,Mineiro 
+169,3,02:33,FRA,39,59,RO, Franca
+170,3,02:33,PIN,39,59,TO,Renan
+171,3,02:33,FRA,39,59,2_Pts_T,Isaac
+172,3,02:36,PIN,39,59,2_Pts_C,Lucas Dias
+173,3,02:41,PIN,39,57,RO, Lucas Dias
+174,3,02:41,PIN,39,57,2_Pts_T,Georginho
+175,3,03:05,FRA,39,57,2_Pts_C,Alexey
+176,3,03:24,PIN,37,57,2_Pts_C,Mineiro
+177,3,03:37,PIN,37,55,RD, Renan
+178,3,03:37,FRA,37,55,2_Pts_T,Isaac
+179,3,03:50,PIN,37,55,EN,Lucas Dias
+180,3,03:50,PIN,37,53,,
+181,3,03:51,PIN,37,53,substituicao_entra,Bennett 
+182,3,03:51,PIN,37,53,substituicao_sai,Holloway 
+183,3,03:54,PIN,37,53,BR,Georginho
+184,3,03:54,FRA,37,53,ER,Alexey
+185,3,04:14,FRA,37,53,RD, Erick
+186,3,04:14,PIN,37,53,2_Pts_T,Renan
+187,3,04:22,PIN,37,53,RO, Renan
+188,3,04:22,PIN,37,53,LL_Pts_T,Georginho
+189,3,04:22,PIN,37,53,LL_Pts_C,Georginho
+190,3,04:22,PIN,37,52,FR,Georginho
+191,3,04:22,FRA,37,52,FC,Schneider
+192,3,04:29,PIN,37,52,RD, Mineiro
+193,3,04:29,FRA,37,52,2_Pts_T,Isaac
+194,3,04:33,FRA,37,52,FR,Schneider
+195,3,04:33,PIN,37,52,FC,Lucas Dias
+196,3,04:46,FRA,37,52,FR,Alexey
+197,3,04:46,PIN,37,52,FC_O,Holloway
+198,3,04:58,FRA,37,52,3_Pts_C,Matheus
+199,3,04:58,FRA,34,52,,
+200,3,05:14,PIN,34,52,ER,Mineiro
+201,3,05:24,PIN,34,52,substituicao_entra,Georginho 
+202,3,05:24,PIN,34,52,substituicao_sai,Bennett 
+203,3,05:24,PIN,34,52,FR,Bennett
+204,3,05:24,FRA,34,52,FC,Alexey
+205,3,05:29,PIN,34,52,RD, Mineiro
+206,3,05:29,FRA,34,52,2_Pts_T,Erick
+207,3,05:52,FRA,34,52,,
+208,3,05:52,PIN,34,52,ER,Mineiro
+209,3,06:02,PIN,34,52,RD, Bennett
+210,3,06:02,FRA,34,52,2_Pts_T,Isaac
+211,3,06:21,PIN,34,52,2_Pts_C,Mineiro
+212,3,06:21,PIN,34,50,,
+213,3,06:35,FRA,34,50,2_Pts_C,Matheus
+214,3,06:35,FRA,32,50,,
+215,3,06:52,FRA,32,50,RD, Matheus
+216,3,06:52,PIN,32,50,2_Pts_T,Holloway
+217,3,06:58,PIN,32,50,BR,Holloway
+218,3,06:58,FRA,32,50,ER,Bruno
+219,3,07:01,PIN,32,50,LL_Pts_C,Holloway
+220,3,07:01,PIN,32,49,LL_Pts_T,Holloway
+221,3,07:01,FRA,32,49,substituicao_entra,Alexey 
+222,3,07:01,FRA,32,49,substituicao_sai,Bruno 
+223,3,07:01,FRA,32,49,substituicao_entra,Isaac 
+224,3,07:01,FRA,32,49,substituicao_sai,Antonio 
+225,3,07:01,FRA,32,49,substituicao_entra,Erick 
+226,3,07:01,FRA,32,49,substituicao_sai,Kurtz 
+227,3,07:01,FRA,32,49,substituicao_entra,Matheus 
+228,3,07:01,FRA,32,49,substituicao_sai,Thiaguinho 
+229,3,07:01,FRA,32,49,tempo_tecnico, Franca
+230,3,07:01,PIN,32,49,FR,Holloway
+231,3,07:01,FRA,32,49,FC_A,Thiaguinho
+232,3,07:20,PIN,32,49,2_Pts_C,Bennett
+233,3,07:38,PIN,32,47,BR,Lucas Dias
+234,3,07:38,FRA,32,47,ER,Thiaguinho
+235,3,07:55,PIN,32,47,LL_Pts_C,Renan
+236,3,07:55,PIN,32,46,,
+237,3,07:55,PIN,32,46,LL_Pts_C,Renan
+238,3,07:55,PIN,32,45,FR,Renan
+239,3,07:55,FRA,32,45,FC,Kurtz
+240,3,08:11,PIN,32,45,RD, Lucas Dias
+241,3,08:11,FRA,32,45,2_Pts_T,Antonio
+242,3,08:24,PIN,32,45,substituicao_entra,Mineiro 
+243,3,08:24,PIN,32,45,substituicao_sai,Arthur 
+244,3,08:24,FRA,32,45,FR,Kurtz
+245,3,08:24,PIN,32,45,FC,Arthur
+246,3,08:37,FRA,32,45,RD, Franca
+247,3,08:37,FRA,32,45,TO,Kurtz
+248,3,08:37,PIN,32,45,2_Pts_T,Holloway
+249,3,08:52,PIN,32,45,RD, Arthur
+250,3,08:52,PIN,32,45,TO,Renan
+251,3,08:52,FRA,32,45,2_Pts_T,Antonio
+252,3,08:58,FRA,32,45,RD, Antonio
+253,3,08:58,PIN,32,45,3_Pts_T,Lucas Dias
+254,3,09:06,PIN,32,45,RD, Renan
+255,3,09:06,PIN,32,45,TO,Arthur
+256,3,09:06,FRA,32,45,2_Pts_T,Kurtz
+257,3,09:28,PIN,32,45,EN,Renan
+258,3,09:28,PIN,32,43,,
+259,3,09:32,PIN,32,43,BR,Bennett
+260,3,09:32,FRA,32,43,ER,Antonio
+261,3,09:53,FRA,32,43,RD, Kurtz
+262,3,09:53,PIN,32,43,LL_Pts_T,Holloway
+263,3,09:53,PIN,32,43,LL_Pts_C,Holloway
+264,3,09:53,PIN,32,42,FR,Holloway
+265,3,09:53,FRA,32,42,FC,Thiaguinho
+266,3,09:53,PIN,32,42,RO, Holloway
+267,3,09:53,PIN,32,42,2_Pts_T,Holloway
+268,2,00:00,NaN.,32,42,fim_quarto, 
+269,2,00:01,PIN,32,42,RD, Bennett
+270,2,00:01,FRA,32,42,3_Pts_T,Erick
+271,2,00:10,FRA,32,42,RO, Franca
+272,2,00:10,FRA,32,42,2_Pts_T,Matheus
+273,2,00:30,PIN,32,42,2_Pts_C,Arthur
+274,2,00:33,PIN,32,40,RO, Arthur
+275,2,00:33,PIN,32,40,2_Pts_T,Holloway
+276,2,00:49,PIN,32,40,RD, Holloway
+277,2,00:49,FRA,32,40,3_Pts_T,Isaac
+278,2,01:12,PIN,32,40,3_Pts_C,Bennett
+279,2,01:29,PIN,32,37,RD, Holloway
+280,2,01:29,FRA,32,37,2_Pts_T,Erick
+281,2,01:46,FRA,32,37,tempo_tecnico, Franca
+282,2,01:46,PIN,32,37,FR,Renan
+283,2,01:46,FRA,32,37,FC,Matheus
+284,2,01:47,PIN,32,37,LL_Pts_C,Renan
+285,2,01:47,PIN,32,36,LL_Pts_C,Renan
+286,2,01:47,PIN,32,35,substituicao_entra,Bennett 
+287,2,01:47,PIN,32,35,substituicao_sai,Scaglia 
+288,2,01:55,PIN,32,35,RD, Arthur
+289,2,01:55,FRA,32,35,2_Pts_T,Matheus
+290,2,02:19,PIN,32,35,2_Pts_C,Arthur
+291,2,02:19,PIN,32,33,,
+292,2,02:35,FRA,32,33,LL_Pts_C,Cauê
+293,2,02:35,FRA,31,33,FR,Cauê
+294,2,02:35,PIN,31,33,FC,Holloway
+295,2,02:35,FRA,31,33,2_Pts_C,Cauê
+296,2,02:55,PIN,29,33,LL_Pts_C,Holloway
+297,2,02:55,PIN,29,32,LL_Pts_C,Holloway
+298,2,02:55,FRA,29,31,substituicao_entra,Isaac 
+299,2,02:55,FRA,29,31,substituicao_sai,Antonio 
+300,2,02:55,PIN,29,31,FR,Holloway
+301,2,02:55,FRA,29,31,FC,Antonio
+302,2,03:05,PIN,29,31,RD, Arthur
+303,2,03:05,FRA,29,31,3_Pts_T,Schneider
+304,2,03:25,PIN,29,31,2_Pts_C,Lucas Dias
+305,2,03:29,PIN,29,29,RO, Lucas Dias
+306,2,03:29,PIN,29,29,2_Pts_T,Renan
+307,2,03:48,PIN,29,29,RD, Arthur
+308,2,03:48,FRA,29,29,LL_Pts_T,Schneider
+309,2,03:48,FRA,29,29,LL_Pts_C,Schneider
+310,2,03:48,PIN,28,29,substituicao_entra,Holloway 
+311,2,03:48,PIN,28,29,substituicao_sai,Humberto 
+312,2,03:48,FRA,28,29,FR,Schneider
+313,2,03:48,PIN,28,29,FC,Humberto
+314,2,03:57,PIN,28,29,2_Pts_C,Renan
+315,2,03:57,PIN,28,27,,
+316,2,04:04,PIN,28,27,RD, Humberto
+317,2,04:04,FRA,28,27,3_Pts_T,Matheus
+318,2,04:13,FRA,28,27,RD, Antonio
+319,2,04:13,PIN,28,27,3_Pts_T,Lucas Dias
+320,2,04:17,FRA,28,27,substituicao_entra,Cauê 
+321,2,04:17,FRA,28,27,substituicao_sai,Bruno 
+322,2,04:17,PIN,28,27,FR,Humberto
+323,2,04:17,FRA,28,27,FC,Antonio
+324,2,04:31,FRA,28,27,EN,Antonio
+325,2,04:31,FRA,26,27,,
+326,2,04:38,FRA,26,27,RD, Bruno
+327,2,04:38,PIN,26,27,2_Pts_T,Humberto
+328,2,05:00,PIN,26,27,tempo_tecnico, Pinheiros
+329,2,05:00,PIN,26,27,RD, Humberto
+330,2,05:00,FRA,26,27,2_Pts_T,Erick
+331,2,05:11,PIN,26,27,substituicao_entra,Arthur 
+332,2,05:11,PIN,26,27,substituicao_sai,Morro 
+333,2,05:11,FRA,26,27,FR,Erick
+334,2,05:11,PIN,26,27,FC_O,Morro
+335,2,05:25,FRA,26,27,3_Pts_C,Schneider
+336,2,05:25,FRA,23,27,,
+337,2,05:31,FRA,23,27,BR,Antonio
+338,2,05:31,PIN,23,27,ER,Humberto
+339,2,05:39,PIN,23,27,RD, Lucas Dias
+340,2,05:39,FRA,23,27,2_Pts_T,Schneider
+341,2,05:55,FRA,23,27,substituicao_entra,Antonio 
+342,2,05:55,FRA,23,27,substituicao_sai,Isaac 
+343,2,05:55,PIN,23,27,,
+344,2,06:14,FRA,23,27,2_Pts_C,Isaac
+345,2,06:19,PIN,21,27,substituicao_entra,Scaglia 
+346,2,06:19,PIN,21,27,substituicao_sai,Bennett 
+347,2,06:28,PIN,21,27,2_Pts_C,Bennett
+348,2,06:34,PIN,21,25,BR,Lucas Dias
+349,2,06:34,FRA,21,25,ER,Matheus
+350,2,06:53,PIN,21,25,LL_Pts_C,Bennett
+351,2,06:53,PIN,21,24,,
+352,2,06:53,PIN,21,24,LL_Pts_C,Bennett
+353,2,06:53,PIN,21,23,FR,Bennett
+354,2,06:53,FRA,21,23,FC,Isaac
+355,2,07:02,PIN,21,23,FR,Humberto
+356,2,07:02,FRA,21,23,FC,Isaac
+357,2,07:05,PIN,21,23,BR,Renan
+358,2,07:05,FRA,21,23,ER,Matheus
+359,2,07:18,FRA,21,23,substituicao_entra,Bruno 
+360,2,07:18,FRA,21,23,substituicao_sai,Antonio 
+361,2,07:18,FRA,21,23,LL_Pts_C,Schneider
+362,2,07:18,FRA,20,23,LL_Pts_C,Schneider
+363,2,07:18,PIN,19,23,substituicao_entra,Lucas Dias 
+364,2,07:18,PIN,19,23,substituicao_sai,Holloway 
+365,2,07:18,FRA,19,23,FR,Schneider
+366,2,07:18,PIN,19,23,FC_A,Humberto
+367,2,07:19,FRA,19,23,RD, Erick
+368,2,07:19,PIN,19,23,2_Pts_T,Holloway
+369,2,07:39,FRA,19,23,3_Pts_C,Schneider
+370,2,07:39,FRA,16,23,,
+371,2,08:00,PIN,16,23,substituicao_entra,Renan 
+372,2,08:00,PIN,16,23,substituicao_sai,Mineiro 
+373,2,08:00,FRA,16,23,FR,Erick
+374,2,08:00,PIN,16,23,FC_O,Mineiro
+375,2,08:14,FRA,16,23,LL_Pts_C,Antonio
+376,2,08:14,FRA,15,23,LL_Pts_C,Antonio
+377,2,08:14,PIN,14,23,substituicao_entra,Humberto 
+378,2,08:14,PIN,14,23,substituicao_sai,Andrezão 
+379,2,08:14,FRA,14,23,FR,Antonio
+380,2,08:14,PIN,14,23,FC,Morro
+381,2,08:30,PIN,14,23,2_Pts_C,Holloway
+382,2,08:39,PIN,14,21,RD, Morro
+383,2,08:39,FRA,14,21,3_Pts_T,Matheus
+384,2,08:51,FRA,14,21,RD, Isaac
+385,2,08:51,PIN,14,21,2_Pts_T,Mineiro
+386,2,09:04,FRA,14,21,LL_Pts_C,Isaac
+387,2,09:04,FRA,13,21,LL_Pts_C,Isaac
+388,2,09:04,FRA,12,21,FR,Isaac
+389,2,09:04,PIN,12,21,FC,Andrezão
+390,2,09:09,FRA,12,21,RO, Matheus
+391,2,09:09,FRA,12,21,2_Pts_T,Matheus
+392,2,09:26,PIN,12,21,LL_Pts_C,Bennett
+393,2,09:26,PIN,12,20,LL_Pts_C,Bennett
+394,2,09:26,PIN,12,19,FR,Bennett
+395,2,09:26,FRA,12,19,FC,Isaac
+396,2,09:48,FRA,12,19,2_Pts_C,Erick
+397,2,09:48,FRA,10,19,,
+398,1,00:00,NaN.,10,19,fim_quarto, 
+399,1,00:00,FRA,10,19,BR,Antonio
+400,1,00:00,PIN,10,19,ER,Holloway
+401,1,00:03,PIN,10,19,RD, Morro
+402,1,00:03,FRA,10,19,2_Pts_T,Cauê
+403,1,00:22,PIN,10,19,,
+404,1,00:39,FRA,10,19,LL_Pts_C,Antonio
+405,1,00:39,FRA,9,19,LL_Pts_C,Antonio
+406,1,00:39,FRA,8,19,FR,Antonio
+407,1,00:39,PIN,8,19,FC,Andrezão
+408,1,00:42,FRA,8,19,BR,Cauê
+409,1,00:42,PIN,8,19,ER,Bennett
+410,1,00:53,FRA,8,19,,
+411,1,01:04,FRA,8,19,RD, Cauê
+412,1,01:04,PIN,8,19,2_Pts_T,Mineiro
+413,1,01:18,PIN,8,19,,
+414,1,01:18,FRA,8,19,ER,Matheus
+415,1,01:22,PIN,8,19,2_Pts_C,Bennett
+416,1,01:28,PIN,8,17,RO, Bennett
+417,1,01:28,PIN,8,17,2_Pts_T,Mineiro
+418,1,01:49,PIN,8,17,FR,Bennett
+419,1,01:49,FRA,8,17,FC,Antonio
+420,1,01:58,PIN,8,17,RD, Bennett
+421,1,01:58,FRA,8,17,2_Pts_T,Bruno
+422,1,02:08,FRA,8,17,RO, Kurtz
+423,1,02:08,FRA,8,17,2_Pts_T,Matheus
+424,1,02:17,FRA,8,17,FR,Antonio
+425,1,02:17,PIN,8,17,FC,Morro
+426,1,02:32,PIN,8,17,LL_Pts_C,Holloway
+427,1,02:32,PIN,8,16,LL_Pts_C,Holloway
+428,1,02:32,PIN,8,15,FR,Holloway
+429,1,02:32,FRA,8,15,FC,Kurtz
+430,1,02:45,PIN,8,15,RD, Holloway
+431,1,02:45,FRA,8,15,2_Pts_T,Kurtz
+432,1,03:00,FRA,8,15,LL_Pts_T,Kurtz
+433,1,03:00,FRA,8,15,LL_Pts_C,Kurtz
+434,1,03:00,PIN,7,15,substituicao_entra,Andrezão 
+435,1,03:00,PIN,7,15,substituicao_sai,Lucas Dias 
+436,1,03:00,PIN,7,15,substituicao_entra,Morro 
+437,1,03:00,PIN,7,15,substituicao_sai,Renan 
+438,1,03:00,FRA,7,15,FR,Kurtz
+439,1,03:00,PIN,7,15,FC_A,Mineiro
+440,1,03:07,FRA,7,15,RO, Cauê
+441,1,03:07,FRA,7,15,2_Pts_T,Cauê
+442,1,03:31,PIN,7,15,2_Pts_C,Mineiro
+443,1,03:54,FRA,7,13,3_Pts_C,Bruno
+444,1,03:54,FRA,4,13,,
+445,1,04:16,FRA,4,13,RD, Kurtz
+446,1,04:16,PIN,4,13,2_Pts_T,Lucas Dias
+447,1,04:23,FRA,4,13,substituicao_entra,Cauê 
+448,1,04:23,FRA,4,13,substituicao_entra,Matheus 
+449,1,04:23,FRA,4,13,substituicao_sai,Thiaguinho 
+450,1,04:23,FRA,4,13,substituicao_sai,Schneider 
+451,1,04:23,PIN,4,13,FR,Bennett
+452,1,04:23,FRA,4,13,FC,Thiaguinho
+453,1,04:26,PIN,4,13,RO, Bennett
+454,1,04:26,FRA,4,13,TO,Kurtz
+455,1,04:26,PIN,4,13,2_Pts_T,Holloway
+456,1,04:31,PIN,4,13,BR,Lucas Dias
+457,1,04:31,FRA,4,13,ER,Thiaguinho
+458,1,04:38,PIN,4,13,2_Pts_C,Lucas Dias
+459,1,04:53,FRA,4,11,ER,Bruno
+460,1,05:08,FRA,4,11,LL_Pts_T,Bruno
+461,1,05:08,FRA,4,11,LL_Pts_T,Bruno
+462,1,05:08,PIN,4,11,substituicao_entra,Mineiro 
+463,1,05:08,PIN,4,11,substituicao_sai,Arthur 
+464,1,05:08,FRA,4,11,FR,Bruno
+465,1,05:08,PIN,4,11,FC_A,Arthur
+466,1,05:14,FRA,4,11,RD, Thiaguinho
+467,1,05:14,PIN,4,11,2_Pts_T,Holloway
+468,1,05:22,PIN,4,11,RD, Holloway
+469,1,05:22,FRA,4,11,2_Pts_T,Schneider
+470,1,05:37,FRA,4,11,tempo_tecnico, Franca
+471,1,05:37,PIN,4,11,2_Pts_C,Lucas Dias
+472,1,05:37,PIN,4,9,,
+473,1,05:45,PIN,4,9,RD, Renan
+474,1,05:45,PIN,4,9,TO,Renan
+475,1,05:45,FRA,4,9,2_Pts_T,Bruno
+476,1,05:54,PIN,4,9,2_Pts_C,Holloway
+477,1,06:03,FRA,4,7,,
+478,1,06:03,FRA,4,7,FR,Kurtz
+479,1,06:03,PIN,4,7,FC,Arthur
+480,1,06:18,FRA,4,7,,
+481,1,06:18,PIN,4,7,ER,Bennett
+482,1,06:22,PIN,4,7,,
+483,1,06:22,FRA,4,7,ER,Thiaguinho
+484,1,06:28,FRA,4,7,RD, Kurtz
+485,1,06:28,PIN,4,7,2_Pts_T,Lucas Dias
+486,1,06:49,PIN,4,7,RD, Arthur
+487,1,06:49,FRA,4,7,3_Pts_T,Schneider
+488,1,06:58,FRA,4,7,RD, Schneider
+489,1,06:58,PIN,4,7,2_Pts_T,Renan
+490,1,07:04,PIN,4,7,RD, Holloway
+491,1,07:04,FRA,4,7,3_Pts_T,Antonio
+492,1,07:19,FRA,4,7,RD, Thiaguinho
+493,1,07:19,PIN,4,7,3_Pts_T,Holloway
+494,1,07:44,FRA,4,7,EN,Kurtz
+495,1,07:44,FRA,2,7,,
+496,1,07:56,FRA,2,7,RD, Franca
+497,1,07:56,PIN,2,7,3_Pts_T,Renan
+498,1,08:06,PIN,2,7,RD, Bennett
+499,1,08:06,FRA,2,7,3_Pts_T,Schneider
+500,1,08:38,PIN,2,7,3_Pts_C,Holloway
+501,1,08:51,PIN,2,4,RD, Lucas Dias
+502,1,08:51,FRA,2,4,2_Pts_T,Thiaguinho
+503,1,08:59,PIN,2,4,2_Pts_C,Arthur
+504,1,09:04,PIN,2,2,RO, Arthur
+505,1,09:04,PIN,2,2,2_Pts_T,Holloway
+506,1,09:24,FRA,2,2,2_Pts_C,Bruno
+507,1,09:48,PIN,0,2,2_Pts_C,Renan
+508,1,10:00,PIN,0,0,substituicao_entra,Arthur 
+509,1,10:00,PIN,0,0,substituicao_entra,Renan 
+510,1,10:00,PIN,0,0,substituicao_entra,Lucas Dias 
+511,1,10:00,PIN,0,0,substituicao_entra,Bennett 
+512,1,10:00,PIN,0,0,substituicao_entra,Holloway 
+513,1,10:00,FRA,0,0,substituicao_entra,Antonio 
+514,1,10:00,FRA,0,0,substituicao_entra,Kurtz 
+515,1,10:00,FRA,0,0,substituicao_entra,Bruno 
+516,1,10:00,FRA,0,0,substituicao_entra,Thiaguinho 
+517,1,10:00,FRA,0,0,substituicao_entra,Schneider 

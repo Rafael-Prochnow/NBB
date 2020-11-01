@@ -1,0 +1,532 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,86,79,fim_partida, 
+1,4,00:05,MAC,86,79,RO, Anthony
+2,4,00:05,MAC,86,79,3_Pts_C,Leonard
+3,4,00:09,FRA,86,76,LL_Pts_C,Cauê
+4,4,00:09,FRA,85,76,LL_Pts_C,Cauê
+5,4,00:09,MAC,84,76,substituicao_entra,Leonard 
+6,4,00:09,MAC,84,76,substituicao_sai,Erick 
+7,4,00:09,MAC,84,76,substituicao_entra,Erick 
+8,4,00:09,MAC,84,76,substituicao_sai,Pitico 
+9,4,00:09,FRA,84,76,FR,Cauê
+10,4,00:09,MAC,84,76,FC,Pitico
+11,4,00:16,MAC,84,76,2_Pts_C,Rafa Moreira
+12,4,00:18,MAC,84,74,RO, Rafa Moreira
+13,4,00:19,MAC,84,74,2_Pts_T,Pitico
+14,4,00:21,MAC,84,74,BR,Pitico
+15,4,00:26,FRA,84,74,,
+16,4,00:37,FRA,84,74,RD, João Pedro
+17,4,00:38,MAC,84,74,2_Pts_T,Anthony
+18,4,00:43,FRA,84,74,LL_Pts_C,Alexey
+19,4,00:43,FRA,83,74,LL_Pts_C,Alexey
+20,4,00:43,MAC,82,74,substituicao_entra,Pezão 
+21,4,00:43,MAC,82,74,substituicao_sai,Schneider 
+22,4,00:43,FRA,82,74,FR,Alexey
+23,4,00:43,MAC,82,74,FC,Schneider
+24,4,00:58,MAC,82,74,2_Pts_C,Rafa Moreira
+25,4,01:02,MAC,82,72,RO, Rafa Moreira
+26,4,01:03,MAC,82,72,3_Pts_T,Pitico
+27,4,01:15,MAC,82,72,RO, Macaé
+28,4,01:17,MAC,82,72,,
+29,4,01:17,MAC,82,72,LL_Pts_T,Lupa
+30,4,01:17,MAC,82,72,LL_Pts_C,Lupa
+31,4,01:17,MAC,82,71,FR,Lupa
+32,4,01:17,FRA,82,71,FC,João Pedro
+33,4,01:25,MAC,82,71,RD, Lupa
+34,4,01:27,FRA,82,71,LL_Pts_T,Cauê
+35,4,01:27,FRA,82,71,LL_Pts_C,Cauê
+36,4,01:27,FRA,81,71,FR,Cauê
+37,4,01:27,MAC,81,71,FC,Pitico
+38,4,01:30,FRA,81,71,RD, Franca
+39,4,01:31,MAC,81,71,LL_Pts_T,Pitico
+40,4,01:31,MAC,81,71,FR,Pitico
+41,4,01:31,FRA,81,71,FC,João Pedro
+42,4,01:31,MAC,81,71,2_Pts_C,Pitico
+43,4,01:40,MAC,81,69,FR,Schneider
+44,4,01:40,FRA,81,69,ER,Pedro
+45,4,01:40,FRA,81,69,FC_O,Pedro
+46,4,01:59,MAC,81,69,LL_Pts_C,Pitico
+47,4,01:59,MAC,81,68,LL_Pts_T,Pitico
+48,4,01:59,MAC,81,68,FR,Pitico
+49,4,01:59,FRA,81,68,FC,Cauê
+50,4,02:12,MAC,81,68,RD, Macaé
+51,4,02:12,FRA,81,68,3_Pts_T,Pedro
+52,4,02:25,MAC,81,68,ER,
+53,4,02:34,MAC,81,68,RO, Macaé
+54,4,02:34,FRA,81,68,TO,João Pedro
+55,4,02:34,MAC,81,68,2_Pts_T,Pitico
+56,4,02:51,MAC,81,68,substituicao_entra,Rafa Moreira 
+57,4,02:51,MAC,81,68,substituicao_sai,Igor 
+58,4,02:51,MAC,81,68,tempo_tecnico, Macaé
+59,4,02:51,FRA,81,68,,
+60,4,02:51,FRA,81,68,2_Pts_C,João Pedro
+61,4,03:07,FRA,79,68,substituicao_entra,Alexey 
+62,4,03:07,FRA,79,68,substituicao_sai,Coelho 
+63,4,03:08,FRA,79,68,RD, João Pedro
+64,4,03:09,MAC,79,68,3_Pts_T,Anthony
+65,4,03:15,MAC,79,68,RO, Macaé
+66,4,03:17,MAC,79,68,3_Pts_T,Schneider
+67,4,03:35,FRA,79,68,2_Pts_C,Coelho
+68,4,03:41,FRA,77,68,RO, Antonio
+69,4,03:42,FRA,77,68,2_Pts_T,Cauê
+70,4,04:10,FRA,77,68,RD, João Pedro
+71,4,04:11,MAC,77,68,2_Pts_T,Lupa
+72,4,04:24,MAC,77,68,RD, Anthony
+73,4,04:26,FRA,77,68,2_Pts_T,João Pedro
+74,4,04:50,MAC,77,68,3_Pts_C,Anthony
+75,4,04:57,FRA,77,65,LL_Pts_C,Coelho
+76,4,04:57,FRA,76,65,LL_Pts_C,Coelho
+77,4,04:57,FRA,75,65,FR,Coelho
+78,4,04:57,MAC,75,65,FC,Lupa
+79,4,05:12,MAC,75,65,2_Pts_C,Lupa
+80,4,05:13,MAC,75,63,RO, Lupa
+81,4,05:14,FRA,75,63,TO,Coelho
+82,4,05:17,MAC,75,63,2_Pts_T,Anthony
+83,4,05:23,MAC,75,63,FR,Igor
+84,4,05:23,FRA,75,63,FC,Antonio
+85,4,05:24,MAC,75,63,RO, Macaé
+86,4,05:26,FRA,75,63,TO,Coelho
+87,4,05:29,MAC,75,63,2_Pts_T,Pitico
+88,4,05:34,MAC,75,63,substituicao_entra,Pitico 
+89,4,05:34,MAC,75,63,substituicao_sai,Rafa Moreira 
+90,4,05:42,MAC,75,63,tempo_tecnico, Macaé
+91,4,05:42,FRA,75,63,,
+92,4,05:42,FRA,75,63,2_Pts_C,Pedro
+93,4,05:56,MAC,73,63,substituicao_entra,Igor 
+94,4,05:56,MAC,73,63,substituicao_sai,Erick 
+95,4,05:56,FRA,73,63,substituicao_entra,Coelho 
+96,4,05:56,FRA,73,63,substituicao_sai,Alexey 
+97,4,05:56,FRA,73,63,FR,João Pedro
+98,4,05:56,MAC,73,63,FC,Rafa Moreira
+99,4,05:56,FRA,73,63,RD, João Pedro
+100,4,05:56,MAC,73,63,2_Pts_T,Lupa
+101,4,06:02,MAC,73,63,FR,Lupa
+102,4,06:02,FRA,73,63,FC,Antonio
+103,4,06:02,MAC,73,63,RO, Anthony
+104,4,06:02,MAC,73,63,2_Pts_T,Lupa
+105,4,06:04,MAC,73,63,BR,Anthony
+106,4,06:07,FRA,73,63,ER,Antonio
+107,4,06:09,FRA,73,63,RD, Antonio
+108,4,06:13,MAC,73,63,2_Pts_T,Lupa
+109,4,06:27,FRA,73,63,,
+110,4,06:29,FRA,73,63,3_Pts_C,Cauê
+111,4,06:46,FRA,70,63,FR,Cauê
+112,4,06:46,MAC,70,63,FC,Rafa Moreira
+113,4,06:47,MAC,70,63,RD, Rafa Moreira
+114,4,06:49,MAC,70,63,TO,Erick
+115,4,06:51,FRA,70,63,2_Pts_T,João Pedro
+116,4,07:09,MAC,70,63,LL_Pts_C,Anthony
+117,4,07:09,MAC,70,62,LL_Pts_T,Anthony
+118,4,07:09,MAC,70,62,FR,Anthony
+119,4,07:09,FRA,70,62,FC,Antonio
+120,4,07:14,MAC,70,62,RO, Macaé
+121,4,07:14,MAC,70,62,2_Pts_T,Schneider
+122,4,07:35,FRA,70,62,,
+123,4,07:38,FRA,70,62,2_Pts_C,João Pedro
+124,4,07:53,FRA,68,62,FR,Alexey
+125,4,07:53,MAC,68,62,FC,Rafa Moreira
+126,4,08:13,MAC,68,62,,
+127,4,08:13,MAC,68,62,2_Pts_C,Anthony
+128,4,08:16,MAC,68,60,BR,Lupa
+129,4,08:18,FRA,68,60,ER,Pedro
+130,4,08:23,FRA,68,60,BR,Pedro
+131,4,08:27,MAC,68,60,ER,Schneider
+132,4,08:32,MAC,68,60,substituicao_entra,Anthony 
+133,4,08:32,MAC,68,60,substituicao_sai,Igor 
+134,4,08:32,MAC,68,60,substituicao_entra,Schneider 
+135,4,08:32,MAC,68,60,substituicao_sai,Pitico 
+136,4,08:32,MAC,68,60,substituicao_entra,Lupa 
+137,4,08:32,MAC,68,60,substituicao_sai,Leonard 
+138,4,08:32,MAC,68,60,tempo_tecnico, Macaé
+139,4,08:32,FRA,68,60,,
+140,4,08:33,FRA,68,60,3_Pts_C,Antonio
+141,4,08:44,FRA,65,60,FR,João Pedro
+142,4,08:44,MAC,65,60,FC,Pitico
+143,4,09:09,FRA,65,60,LL_Pts_C,Pedro
+144,4,09:09,MAC,64,60,FC_T,Técnico do Macaé
+145,4,09:18,FRA,64,60,,
+146,4,09:20,FRA,64,60,2_Pts_C,João Pedro
+147,4,09:35,FRA,62,60,RD, João Pedro
+148,4,09:36,FRA,62,60,TO,João Pedro
+149,4,09:36,MAC,62,60,2_Pts_T,Erick
+150,4,09:49,MAC,62,60,FR,Leonard
+151,4,09:49,FRA,62,60,FC,Pedro
+152,4,10:00,NaN.,62,60,inicio_quarto, 
+153,3,00:00,NaN.,62,60,fim_quarto, 
+154,3,00:03,FRA,62,60,2_Pts_C,Cauê
+155,3,00:03,FRA,60,60,RO, Cauê
+156,3,00:03,FRA,60,60,3_Pts_T,Cauê
+157,3,00:11,FRA,60,60,RO, Coelho
+158,3,00:13,FRA,60,60,3_Pts_T,Alexey
+159,3,00:27,FRA,60,60,RO, Cauê
+160,3,00:30,FRA,60,60,2_Pts_T,João Pedro
+161,3,00:39,MAC,60,60,,
+162,3,00:40,MAC,60,60,2_Pts_C,Pitico
+163,3,01:04,FRA,60,58,LL_Pts_C,Coelho
+164,3,01:04,FRA,59,58,LL_Pts_C,Coelho
+165,3,01:04,MAC,58,58,substituicao_entra,Leonard 
+166,3,01:04,MAC,58,58,substituicao_sai,Anthony 
+167,3,01:04,FRA,58,58,FR,Coelho
+168,3,01:04,MAC,58,58,FC,Anthony
+169,3,01:17,MAC,58,58,LL_Pts_C,Anthony
+170,3,01:17,MAC,58,57,LL_Pts_C,Anthony
+171,3,01:17,FRA,58,56,substituicao_entra,Antonio 
+172,3,01:17,FRA,58,56,substituicao_sai,Cesar 
+173,3,01:18,FRA,58,56,substituicao_entra,João Pedro 
+174,3,01:18,FRA,58,56,substituicao_sai,Cipolini 
+175,3,01:18,MAC,58,56,FR,Anthony
+176,3,01:18,FRA,58,56,FC,Alexey
+177,3,01:32,MAC,58,56,RD, Igor
+178,3,01:33,FRA,58,56,3_Pts_T,Coelho
+179,3,01:42,FRA,58,56,RD, Cesar
+180,3,01:44,MAC,58,56,3_Pts_T,Igor
+181,3,01:52,MAC,58,56,FR,Pitico
+182,3,01:52,FRA,58,56,ER,Cipolini
+183,3,01:52,FRA,58,56,FC_O,Cipolini
+184,3,02:01,FRA,58,56,LL_Pts_C,Coelho
+185,3,02:01,FRA,57,56,LL_Pts_C,Coelho
+186,3,02:01,FRA,56,56,FR,Coelho
+187,3,02:01,MAC,56,56,FC_A,Anthony
+188,3,02:02,FRA,56,56,RD, Cesar
+189,3,02:03,FRA,56,56,TO,Cesar
+190,3,02:05,MAC,56,56,2_Pts_T,Pitico
+191,3,02:28,FRA,56,56,substituicao_entra,Cauê 
+192,3,02:28,FRA,56,56,substituicao_sai,Pedro 
+193,3,02:28,FRA,56,56,ER,
+194,3,02:28,MAC,56,56,ER,
+195,3,02:34,FRA,56,56,,
+196,3,02:36,FRA,56,56,2_Pts_C,Cesar
+197,3,02:39,FRA,54,56,RD, Cipolini
+198,3,02:40,MAC,54,56,2_Pts_T,Anthony
+199,3,02:55,MAC,54,56,RD, Rafa Moreira
+200,3,02:57,FRA,54,56,3_Pts_T,Alexey
+201,3,03:11,MAC,54,56,,
+202,3,03:13,MAC,54,56,3_Pts_C,Rafa Moreira
+203,3,03:30,MAC,54,53,FR,Erick
+204,3,03:30,FRA,54,53,FC,Cipolini
+205,3,03:32,FRA,54,53,LL_Pts_C,Alexey
+206,3,03:32,FRA,53,53,LL_Pts_C,Alexey
+207,3,03:32,FRA,52,53,FR,Alexey
+208,3,03:32,MAC,52,53,FC,Pitico
+209,3,03:32,MAC,52,53,2_Pts_C,Pitico
+210,3,03:34,MAC,52,51,BR,Pitico
+211,3,03:41,FRA,52,51,ER,Pedro
+212,3,04:03,FRA,52,51,tempo_tecnico, Franca
+213,3,04:03,MAC,52,51,,
+214,3,04:03,MAC,52,51,3_Pts_C,Rafa Moreira
+215,3,04:21,MAC,52,48,RD, Rafa Moreira
+216,3,04:23,FRA,52,48,3_Pts_T,Cesar
+217,3,04:30,FRA,52,48,RD, Cesar
+218,3,04:31,MAC,52,48,2_Pts_T,Igor
+219,3,04:48,MAC,52,48,RD, Pitico
+220,3,04:49,FRA,52,48,3_Pts_T,Cipolini
+221,3,05:11,MAC,52,48,,
+222,3,05:13,MAC,52,48,3_Pts_C,Igor
+223,3,05:24,MAC,52,45,RD, Anthony
+224,3,05:25,FRA,52,45,3_Pts_T,Pedro
+225,3,05:39,FRA,52,45,RD, Pedro
+226,3,05:40,MAC,52,45,3_Pts_T,Anthony
+227,3,05:53,FRA,52,45,2_Pts_C,Coelho
+228,3,06:09,FRA,50,45,substituicao_entra,Cesar 
+229,3,06:09,FRA,50,45,substituicao_sai,João Pedro 
+230,3,06:09,MAC,50,45,substituicao_entra,Pitico 
+231,3,06:09,MAC,50,45,substituicao_sai,Schneider 
+232,3,06:09,FRA,50,45,FR,João Pedro
+233,3,06:09,MAC,50,45,FC,Schneider
+234,3,06:29,MAC,50,45,2_Pts_C,Anthony
+235,3,06:48,MAC,50,43,RD, Rafa Moreira
+236,3,06:52,FRA,50,43,2_Pts_T,Pedro
+237,3,07:04,FRA,50,43,substituicao_entra,Alexey 
+238,3,07:04,FRA,50,43,substituicao_sai,Antonio 
+239,3,07:04,FRA,50,43,FR,Cipolini
+240,3,07:04,MAC,50,43,ER,Igor
+241,3,07:04,MAC,50,43,FC_O,Igor
+242,3,07:12,MAC,50,43,FR,Anthony
+243,3,07:12,FRA,50,43,ER,Cipolini
+244,3,07:12,FRA,50,43,FC_O,Cipolini
+245,3,07:19,MAC,50,43,2_Pts_C,Schneider
+246,3,07:30,MAC,50,41,3_Pts_T,Anthony
+247,3,07:47,MAC,50,41,RD, Erick
+248,3,07:51,FRA,50,41,2_Pts_T,Antonio
+249,3,08:01,MAC,50,41,2_Pts_C,Schneider
+250,3,08:09,MAC,50,39,RO, Schneider
+251,3,08:10,MAC,50,39,3_Pts_T,Igor
+252,3,08:28,FRA,50,39,LL_Pts_C,Antonio
+253,3,08:28,FRA,49,39,LL_Pts_C,Antonio
+254,3,08:28,FRA,48,39,FR,Antonio
+255,3,08:28,MAC,48,39,FC,Schneider
+256,3,08:30,FRA,48,39,RD, João Pedro
+257,3,08:31,MAC,48,39,2_Pts_T,Anthony
+258,3,08:33,MAC,48,39,RD, Rafa Moreira
+259,3,08:37,FRA,48,39,3_Pts_T,Antonio
+260,3,08:48,FRA,48,39,RD, Cipolini
+261,3,08:50,MAC,48,39,2_Pts_T,Anthony
+262,3,09:02,MAC,48,39,BR,Igor
+263,3,09:05,FRA,48,39,ER,João Pedro
+264,3,09:13,FRA,48,39,FR,Coelho
+265,3,09:13,MAC,48,39,FC,Igor
+266,3,09:30,MAC,48,39,2_Pts_C,Igor
+267,3,09:43,MAC,48,37,RD, Schneider
+268,3,09:44,FRA,48,37,3_Pts_T,Cipolini
+269,3,10:00,NaN.,48,37,inicio_quarto, 
+270,2,00:00,NaN.,48,37,fim_quarto, 
+271,2,00:06,FRA,48,37,,
+272,2,00:06,FRA,48,37,2_Pts_C,Alexey
+273,2,00:06,FRA,46,37,BR,Pedro
+274,2,00:06,MAC,46,37,,
+275,2,00:25,FRA,46,37,2_Pts_C,João Pedro
+276,2,00:35,FRA,44,37,RO, Pedro
+277,2,00:36,FRA,44,37,2_Pts_T,Pedro
+278,2,00:56,FRA,44,37,RD, Franca
+279,2,00:56,MAC,44,37,3_Pts_T,Leonard
+280,2,01:01,MAC,44,37,RO, Leonard
+281,2,01:02,MAC,44,37,3_Pts_T,Erick
+282,2,01:17,MAC,44,37,LL_Pts_T,Anthony
+283,2,01:17,FRA,44,37,substituicao_entra,Alexey 
+284,2,01:17,FRA,44,37,substituicao_sai,Coelho 
+285,2,01:17,MAC,44,37,tempo_tecnico, Macaé
+286,2,01:17,FRA,44,37,FC_T,Coelho
+287,2,01:17,FRA,44,37,2_Pts_C,Pedro
+288,2,01:17,FRA,42,37,BR,Pedro
+289,2,01:18,MAC,42,37,,
+290,2,01:42,FRA,42,37,2_Pts_C,Antonio
+291,2,02:04,MAC,40,37,substituicao_entra,Leonard 
+292,2,02:04,MAC,40,37,substituicao_sai,Pitico 
+293,2,02:04,FRA,40,37,FR,Coelho
+294,2,02:04,MAC,40,37,ER,Anthony
+295,2,02:04,MAC,40,37,FC_O,Anthony
+296,2,02:18,FRA,40,37,,
+297,2,02:20,FRA,40,37,2_Pts_C,Pedro
+298,2,02:28,FRA,38,37,FR,Pedro
+299,2,02:28,MAC,38,37,FC,Erick
+300,2,02:33,FRA,38,37,RD, João Pedro
+301,2,02:34,MAC,38,37,3_Pts_T,Pitico
+302,2,02:39,MAC,38,37,BR,Anthony
+303,2,02:41,FRA,38,37,ER,Coelho
+304,2,02:55,MAC,38,37,LL_Pts_C,Pezão
+305,2,02:55,FRA,38,36,substituicao_entra,João Pedro 
+306,2,02:55,FRA,38,36,substituicao_sai,Cesar 
+307,2,02:55,MAC,38,36,FR,Pezão
+308,2,02:55,FRA,38,36,FC,Cesar
+309,2,02:55,MAC,38,36,2_Pts_C,Pezão
+310,2,03:18,FRA,38,34,LL_Pts_C,Pedro
+311,2,03:18,FRA,37,34,LL_Pts_T,Pedro
+312,2,03:18,MAC,37,34,substituicao_entra,Erick 
+313,2,03:18,MAC,37,34,substituicao_sai,Lupa 
+314,2,03:18,MAC,37,34,substituicao_entra,Pezão 
+315,2,03:18,MAC,37,34,substituicao_sai,Igor 
+316,2,03:18,FRA,37,34,substituicao_entra,Antonio 
+317,2,03:18,FRA,37,34,substituicao_sai,Alexey 
+318,2,03:18,FRA,37,34,substituicao_entra,Coelho 
+319,2,03:18,FRA,37,34,substituicao_sai,Cauê 
+320,2,03:18,FRA,37,34,FR,Pedro
+321,2,03:18,MAC,37,34,FC,Lupa
+322,2,03:39,MAC,37,34,,
+323,2,03:44,MAC,37,34,2_Pts_C,Lupa
+324,2,04:09,FRA,37,32,2_Pts_C,Cesar
+325,2,04:21,FRA,35,32,RD, Cipolini
+326,2,04:24,MAC,35,32,2_Pts_T,Igor
+327,2,04:49,FRA,35,32,2_Pts_C,Alexey
+328,2,05:03,MAC,33,32,,
+329,2,05:10,MAC,33,32,2_Pts_C,Rafa Moreira
+330,2,05:14,MAC,33,30,RD, Lupa
+331,2,05:15,FRA,33,30,3_Pts_T,Pedro
+332,2,05:29,FRA,33,30,RD, Cipolini
+333,2,05:30,MAC,33,30,3_Pts_T,Anthony
+334,2,05:36,MAC,33,30,RD, Igor
+335,2,05:37,FRA,33,30,2_Pts_T,Cauê
+336,2,05:41,FRA,33,30,RD, Alexey
+337,2,05:43,MAC,33,30,2_Pts_T,Anthony
+338,2,05:52,MAC,33,30,FR,Anthony
+339,2,05:52,FRA,33,30,FC,Alexey
+340,2,05:52,MAC,33,30,3_Pts_T,Igor
+341,2,06:02,MAC,33,30,RD, Rafa Moreira
+342,2,06:03,FRA,33,30,3_Pts_T,Cesar
+343,2,06:18,FRA,33,30,FR,Alexey
+344,2,06:18,MAC,33,30,FC,Igor
+345,2,06:33,FRA,33,30,substituicao_entra,Pedro 
+346,2,06:33,FRA,33,30,substituicao_sai,João Pedro 
+347,2,06:33,FRA,33,30,substituicao_entra,Cipolini 
+348,2,06:33,FRA,33,30,substituicao_sai,Coelho 
+349,2,06:33,FRA,33,30,tempo_tecnico, Franca
+350,2,06:33,MAC,33,30,,
+351,2,06:33,MAC,33,30,3_Pts_C,Pitico
+352,2,06:46,MAC,33,27,RD, Igor
+353,2,06:49,FRA,33,27,2_Pts_T,Cauê
+354,2,07:13,MAC,33,27,substituicao_entra,Pitico 
+355,2,07:13,MAC,33,27,substituicao_sai,Thiaguinho 
+356,2,07:13,MAC,33,27,2_Pts_C,Anthony
+357,2,07:15,MAC,33,25,RD, Anthony
+358,2,07:18,FRA,33,25,2_Pts_T,Coelho
+359,2,07:30,MAC,33,25,,
+360,2,07:33,MAC,33,25,2_Pts_C,Rafa Moreira
+361,2,07:49,FRA,33,23,,
+362,2,07:51,FRA,33,23,2_Pts_C,João Pedro
+363,2,08:02,FRA,31,23,RD, João Pedro
+364,2,08:04,MAC,31,23,2_Pts_T,Anthony
+365,2,08:17,MAC,31,23,FR,Anthony
+366,2,08:17,FRA,31,23,FC,Alexey
+367,2,08:18,MAC,31,23,BR,Rafa Moreira
+368,2,08:20,FRA,31,23,ER,Cesar
+369,2,08:39,MAC,31,23,ER,Rafa Moreira
+370,2,08:50,FRA,31,23,,
+371,2,08:51,FRA,31,23,2_Pts_C,João Pedro
+372,2,08:54,FRA,29,23,BR,Alexey
+373,2,08:56,MAC,29,23,ER,Anthony
+374,2,08:58,MAC,29,23,BR,Anthony
+375,2,09:00,FRA,29,23,,
+376,2,09:12,MAC,29,23,,
+377,2,09:14,MAC,29,23,2_Pts_C,Anthony
+378,2,09:16,MAC,29,21,BR,Igor
+379,2,09:19,FRA,29,21,,
+380,2,09:21,FRA,29,21,BR,Alexey
+381,2,09:24,MAC,29,21,ER,Lupa
+382,2,09:39,MAC,29,21,RD, Lupa
+383,2,09:40,FRA,29,21,2_Pts_T,Cesar
+384,2,09:50,MAC,29,21,2_Pts_C,Thiaguinho
+385,2,10:00,NaN.,29,19,inicio_quarto, 
+386,1,00:00,FRA,29,19,substituicao_entra,Coelho 
+387,1,00:00,FRA,29,19,substituicao_sai,Cassiano 
+388,1,00:00,NaN.,29,19,fim_quarto, 
+389,1,00:05,FRA,29,19,BR,João Pedro
+390,1,00:05,MAC,29,19,ER,Igor
+391,1,00:07,FRA,29,19,substituicao_entra,Cassiano 
+392,1,00:07,FRA,29,19,substituicao_sai,Coelho 
+393,1,00:07,FRA,29,19,LL_Pts_C,Cauê
+394,1,00:07,FRA,28,19,LL_Pts_C,Cauê
+395,1,00:07,FRA,27,19,LL_Pts_C,Cauê
+396,1,00:07,FRA,26,19,FR,Cauê
+397,1,00:07,MAC,26,19,FC,Schneider
+398,1,00:18,FRA,26,19,substituicao_entra,Coelho 
+399,1,00:18,FRA,26,19,substituicao_sai,Pedro 
+400,1,00:18,MAC,26,19,ER,Pitico
+401,1,00:19,MAC,26,19,BR,Thiaguinho
+402,1,00:21,FRA,26,19,ER,Alexey
+403,1,00:46,MAC,26,19,,
+404,1,00:47,MAC,26,19,2_Pts_C,Schneider
+405,1,01:08,FRA,26,17,2_Pts_C,João Pedro
+406,1,01:20,FRA,24,17,RD, Pedro
+407,1,01:22,MAC,24,17,2_Pts_T,Erick
+408,1,01:24,MAC,24,17,RO, Erick
+409,1,01:25,FRA,24,17,TO,João Pedro
+410,1,01:28,MAC,24,17,2_Pts_T,Erick
+411,1,01:47,FRA,24,17,LL_Pts_C,Alexey
+412,1,01:47,FRA,23,17,LL_Pts_C,Alexey
+413,1,01:47,MAC,22,17,substituicao_entra,Schneider 
+414,1,01:47,MAC,22,17,substituicao_sai,Rafa Moreira 
+415,1,01:47,MAC,22,17,tempo_tecnico, Macaé
+416,1,01:47,FRA,22,17,FR,Alexey
+417,1,01:47,MAC,22,17,FC,Pitico
+418,1,02:01,FRA,22,17,substituicao_entra,João Pedro 
+419,1,02:01,FRA,22,17,substituicao_sai,Cipolini 
+420,1,02:01,FRA,22,17,RD, Franca
+421,1,02:01,MAC,22,17,2_Pts_T,Erick
+422,1,02:19,FRA,22,17,,
+423,1,02:26,FRA,22,17,2_Pts_C,Pedro
+424,1,02:41,MAC,20,17,,
+425,1,02:44,MAC,20,17,3_Pts_C,Rafa Moreira
+426,1,02:51,MAC,20,14,RO, Thiaguinho
+427,1,02:54,MAC,20,14,3_Pts_T,Thiaguinho
+428,1,03:06,MAC,20,14,substituicao_entra,Thiaguinho 
+429,1,03:06,MAC,20,14,substituicao_sai,Schneider 
+430,1,03:06,MAC,20,14,substituicao_entra,Erick 
+431,1,03:06,MAC,20,14,substituicao_sai,Lupa 
+432,1,03:06,FRA,20,14,LL_Pts_C,Cipolini
+433,1,03:06,FRA,19,14,LL_Pts_C,Cipolini
+434,1,03:06,FRA,18,14,FR,Cipolini
+435,1,03:06,MAC,18,14,FC,Lupa
+436,1,03:15,MAC,18,14,2_Pts_C,Lupa
+437,1,03:17,MAC,18,12,RO, Lupa
+438,1,03:19,MAC,18,12,3_Pts_T,Schneider
+439,1,03:35,FRA,18,12,substituicao_entra,Cauê 
+440,1,03:35,FRA,18,12,substituicao_entra,Alexey 
+441,1,03:35,FRA,18,12,substituicao_sai,Cesar 
+442,1,03:35,FRA,18,12,substituicao_entra,Alexey 
+443,1,03:35,FRA,18,12,substituicao_entra,Cipolini 
+444,1,03:35,FRA,18,12,substituicao_sai,Coelho 
+445,1,03:35,MAC,18,12,substituicao_entra,Pitico 
+446,1,03:35,MAC,18,12,substituicao_sai,Anthony 
+447,1,03:35,MAC,18,12,substituicao_entra,Igor 
+448,1,03:35,MAC,18,12,substituicao_sai,Pezão 
+449,1,03:35,FRA,18,12,,
+450,1,03:35,FRA,18,12,2_Pts_C,Antonio
+451,1,03:39,FRA,16,12,RO, Coelho
+452,1,03:40,FRA,16,12,3_Pts_T,Pedro
+453,1,03:51,FRA,16,12,RD, Pedro
+454,1,03:54,MAC,16,12,2_Pts_T,Anthony
+455,1,04:12,FRA,16,12,,
+456,1,04:13,FRA,16,12,3_Pts_C,Cesar
+457,1,04:28,MAC,13,12,,
+458,1,04:30,MAC,13,12,2_Pts_C,Rafa Moreira
+459,1,04:33,MAC,13,10,RO, Anthony
+460,1,04:34,MAC,13,10,3_Pts_T,Schneider
+461,1,04:52,FRA,13,10,EN,Cipolini
+462,1,04:52,FRA,11,10,RO, Cipolini
+463,1,04:56,FRA,11,10,3_Pts_T,Coelho
+464,1,05:12,MAC,11,10,,
+465,1,05:14,MAC,11,10,2_Pts_C,Lupa
+466,1,05:24,MAC,11,8,FR,Anthony
+467,1,05:24,FRA,11,8,FC,Coelho
+468,1,05:24,FRA,11,8,ER,Coelho
+469,1,05:24,FRA,11,8,BR,Coelho
+470,1,05:24,MAC,11,8,,
+471,1,05:33,FRA,11,8,2_Pts_C,Cesar
+472,1,05:47,MAC,9,8,LL_Pts_C,Rafa Moreira
+473,1,05:47,MAC,9,7,FR,Rafa Moreira
+474,1,05:47,FRA,9,7,FC,Antonio
+475,1,05:47,MAC,9,7,,
+476,1,05:47,MAC,9,7,2_Pts_C,Rafa Moreira
+477,1,05:50,FRA,9,5,,
+478,1,05:56,FRA,9,5,3_Pts_C,Pedro
+479,1,06:00,FRA,6,5,RD, Antonio
+480,1,06:02,MAC,6,5,2_Pts_T,Lupa
+481,1,06:05,MAC,6,5,BR,Lupa
+482,1,06:08,FRA,6,5,ER,Antonio
+483,1,06:13,FRA,6,5,FR,Cesar
+484,1,06:13,MAC,6,5,FC,Pezão
+485,1,06:22,MAC,6,5,ER,Pezão
+486,1,06:37,FRA,6,5,,
+487,1,06:38,FRA,6,5,3_Pts_C,Coelho
+488,1,06:57,MAC,3,5,2_Pts_C,Anthony
+489,1,07:08,FRA,3,3,2_Pts_C,Pedro
+490,1,07:22,FRA,1,3,RD, Cipolini
+491,1,07:23,MAC,1,3,3_Pts_T,Rafa Moreira
+492,1,07:29,MAC,1,3,RD, Lupa
+493,1,07:31,FRA,1,3,2_Pts_T,Coelho
+494,1,07:39,FRA,1,3,FR,Pedro
+495,1,07:39,MAC,1,3,FC,Schneider
+496,1,08:06,MAC,1,3,ER,Pezão
+497,1,08:09,MAC,1,3,BR,Pezão
+498,1,08:12,FRA,1,3,,
+499,1,08:33,FRA,1,3,RD, Antonio
+500,1,08:34,MAC,1,3,2_Pts_T,Schneider
+501,1,08:39,MAC,1,3,RO, Macaé
+502,1,08:47,MAC,1,3,3_Pts_T,Anthony
+503,1,08:56,MAC,1,3,RD, Schneider
+504,1,08:57,FRA,1,3,2_Pts_T,Cesar
+505,1,09:03,MAC,1,3,,
+506,1,09:04,MAC,1,3,3_Pts_C,Rafa Moreira
+507,1,09:19,FRA,1,0,LL_Pts_C,Pedro
+508,1,09:19,FRA,0,0,LL_Pts_T,Pedro
+509,1,09:19,FRA,0,0,FR,Pedro
+510,1,09:19,MAC,0,0,FC,Lupa
+511,1,09:23,MAC,0,0,FR,Pezão
+512,1,09:23,FRA,0,0,ER,Cesar
+513,1,09:23,FRA,0,0,FC_O,Cesar
+514,1,09:37,FRA,0,0,RD, Cipolini
+515,1,09:39,MAC,0,0,3_Pts_T,Rafa Moreira
+516,1,09:44,FRA,0,0,FR,Cesar
+517,1,09:44,MAC,0,0,ER,Pezão
+518,1,09:44,MAC,0,0,FC_O,Pezão
+519,1,09:53,FRA,0,0,substituicao_entra,Cipolini 
+520,1,10:00,MAC,0,0,substituicao_entra,Lupa 
+521,1,10:00,MAC,0,0,substituicao_entra,Thiaguinho 
+522,1,10:00,MAC,0,0,substituicao_entra,Pezão 
+523,1,10:00,MAC,0,0,substituicao_entra,Schneider 
+524,1,10:00,MAC,0,0,substituicao_entra,Rafa Moreira 
+525,1,10:00,MAC,0,0,substituicao_entra,Anthony 
+526,1,10:00,FRA,0,0,substituicao_entra,Cipolini 
+527,1,10:00,FRA,0,0,substituicao_entra,Pedro 
+528,1,10:00,FRA,0,0,substituicao_entra,Antonio 
+529,1,10:00,FRA,0,0,substituicao_entra,Coelho 
+530,1,10:00,FRA,0,0,substituicao_entra,Cesar 

@@ -1,0 +1,565 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,5,00:00,NaN.,76,77,fim_partida, 
+1,5,00:13,PIN,76,77,RD, Pinheiros
+2,5,00:13,RCB,76,77,2_Pts_T,Teichmann
+3,5,00:35,RCB,76,77,tempo_tecnico, Rio Claro
+4,5,00:35,PIN,76,77,LL_Pts_C,Humberto
+5,5,00:35,PIN,76,76,LL_Pts_C,Humberto
+6,5,00:35,RCB,76,75,substituicao_sai,Caio 
+7,5,00:35,RCB,76,75,substituicao_entra,Nicolas 
+8,5,00:35,PIN,76,75,FR,Humberto
+9,5,00:35,RCB,76,75,FC,Caio
+10,5,00:42,RCB,76,75,RD, Teichmann
+11,5,00:42,PIN,76,75,3_Pts_T,Lucas Dias
+12,5,00:59,RCB,76,75,LL_Pts_C,Tatu
+13,5,00:59,RCB,75,75,LL_Pts_C,Tatu
+14,5,00:59,RCB,74,75,FR,Tatu
+15,5,00:59,PIN,74,75,FC,Renan
+16,5,01:24,RCB,74,75,RD, Dedé
+17,5,01:24,RCB,74,75,TO,Dedé
+18,5,01:24,PIN,74,75,2_Pts_T,Holloway
+19,5,01:30,PIN,74,75,BR,Holloway
+20,5,01:30,RCB,74,75,ER,Caio
+21,5,01:31,RCB,74,75,RD, Caio
+22,5,01:31,RCB,74,75,TO,Teichmann
+23,5,01:31,PIN,74,75,2_Pts_T,Holloway
+24,5,01:51,PIN,74,75,,
+25,5,01:51,RCB,74,75,ER,Caio
+26,5,02:08,PIN,74,75,EN,Renan
+27,5,02:16,PIN,74,73,RO, Renan
+28,5,02:16,PIN,74,73,2_Pts_T,Lucas Dias
+29,5,02:23,PIN,74,73,RO, Bennett
+30,5,02:23,PIN,74,73,3_Pts_T,Renan
+31,5,02:41,RCB,74,73,2_Pts_C,Teichmann
+32,5,02:41,RCB,72,73,,
+33,5,02:57,PIN,72,73,LL_Pts_C,Holloway
+34,5,02:57,PIN,72,72,LL_Pts_C,Holloway
+35,5,02:57,PIN,72,71,FR,Holloway
+36,5,02:57,RCB,72,71,FC,Gui Deodato
+37,5,03:09,PIN,72,71,RO, Pinheiros
+38,5,03:09,PIN,72,71,3_Pts_T,Renan
+39,5,03:26,RCB,72,71,2_Pts_C,Dedé
+40,5,03:26,RCB,70,71,,
+41,5,03:33,RCB,70,71,RD, Tatu
+42,5,03:33,PIN,70,71,2_Pts_T,Humberto
+43,5,03:46,RCB,70,71,LL_Pts_C,Teichmann
+44,5,03:46,PIN,69,71,substituicao_entra,Renan 
+45,5,03:46,PIN,69,71,substituicao_sai,Morro 
+46,5,03:46,RCB,69,71,EN,Teichmann
+47,5,03:46,RCB,67,71,FR,Teichmann
+48,5,03:46,PIN,67,71,FC,Morro
+49,5,03:46,PIN,67,71,,
+50,5,03:50,PIN,67,71,RO, Humberto
+51,5,03:50,PIN,67,71,2_Pts_T,Bennett
+52,5,03:55,PIN,67,71,RD, Humberto
+53,5,03:55,RCB,67,71,2_Pts_T,Gui Deodato
+54,5,04:17,PIN,67,71,LL_Pts_C,Bennett
+55,5,04:17,PIN,67,70,LL_Pts_C,Bennett
+56,5,04:17,RCB,67,69,substituicao_entra,Caio 
+57,5,04:17,RCB,67,69,substituicao_sai,Vinicius 
+58,5,04:17,PIN,67,69,FR,Bennett
+59,5,04:17,RCB,67,69,FC,Vinicius
+60,5,04:31,PIN,67,69,RD, Morro
+61,5,04:31,RCB,67,69,2_Pts_T,Dedé
+62,5,04:43,PIN,67,69,LL_Pts_C,Holloway
+63,5,04:43,PIN,67,68,LL_Pts_C,Holloway
+64,5,04:43,PIN,67,67,FR,Holloway
+65,5,04:43,RCB,67,67,FC,Gui Deodato
+66,5,05:00,PIN,67,67,substituicao_entra,Humberto 
+67,5,05:00,PIN,67,67,substituicao_entra,Lucas Dias 
+68,5,05:00,PIN,67,67,substituicao_entra,Morro 
+69,5,05:00,PIN,67,67,substituicao_entra,Bennett 
+70,5,05:00,PIN,67,67,substituicao_entra,Holloway 
+71,5,05:00,RCB,67,67,substituicao_entra,Gui Deodato 
+72,5,05:00,RCB,67,67,substituicao_entra,Tatu 
+73,5,05:00,RCB,67,67,substituicao_entra,Vinicius 
+74,5,05:00,RCB,67,67,substituicao_entra,Teichmann 
+75,5,05:00,RCB,67,67,substituicao_entra,Dedé 
+76,5,05:00,PIN,67,67,substituicao_sai,Humberto 
+77,5,05:00,PIN,67,67,substituicao_sai,Lucas Dias 
+78,5,05:00,PIN,67,67,substituicao_sai,Morro 
+79,5,05:00,PIN,67,67,substituicao_sai,Bennett 
+80,5,05:00,PIN,67,67,substituicao_sai,Holloway 
+81,5,05:00,RCB,67,67,substituicao_sai,Teichmann 
+82,5,05:00,RCB,67,67,substituicao_sai,Gui Deodato 
+83,5,05:00,RCB,67,67,substituicao_sai,Dedé 
+84,5,05:00,RCB,67,67,substituicao_sai,Tatu 
+85,5,05:00,RCB,67,67,substituicao_sai,Vinicius 
+86,4,00:00,NaN.,67,67,fim_quarto,  
+87,4,00:01,PIN,67,67,BR,Bennett
+88,4,00:01,RCB,67,67,ER,Vinicius
+89,4,00:18,RCB,67,67,tempo_tecnico, Rio Claro
+90,4,00:18,PIN,67,67,ER,Holloway
+91,4,00:28,PIN,67,67,tempo_tecnico, Pinheiros
+92,4,00:28,RCB,67,67,,
+93,4,00:28,RCB,67,67,LL_Pts_C,Teichmann
+94,4,00:28,RCB,66,67,LL_Pts_T,Teichmann
+95,4,00:28,PIN,66,67,substituicao_entra,Morro 
+96,4,00:28,PIN,66,67,substituicao_sai,Andrezão 
+97,4,00:28,RCB,66,67,FR,Teichmann
+98,4,00:28,PIN,66,67,FC,Andrezão
+99,4,00:29,PIN,66,67,substituicao_sai,Morro 
+100,4,00:29,PIN,66,67,substituicao_entra,Andrezão 
+101,4,00:29,RCB,66,67,tempo_tecnico, Rio Claro
+102,4,00:29,PIN,66,67,LL_Pts_C,Holloway
+103,4,00:29,PIN,66,66,LL_Pts_C,Holloway
+104,4,00:29,PIN,66,65,FR,Holloway
+105,4,00:29,RCB,66,65,FC,Vinicius
+106,4,00:34,PIN,66,65,RD, Holloway
+107,4,00:34,RCB,66,65,2_Pts_T,Vinicius
+108,4,00:45,RCB,66,65,RD, Teichmann
+109,4,00:45,PIN,66,65,LL_Pts_T,Morro
+110,4,00:45,PIN,66,65,LL_Pts_C,Morro
+111,4,00:45,PIN,66,64,FR,Morro
+112,4,00:45,RCB,66,64,FC,Vinicius
+113,4,00:51,PIN,66,64,RO, Morro
+114,4,00:51,PIN,66,64,2_Pts_T,Humberto
+115,4,01:13,RCB,66,64,3_Pts_C,Gui Deodato
+116,4,01:13,RCB,63,64,,
+117,4,01:32,RCB,63,64,RO, Rio Claro
+118,4,01:32,RCB,63,64,2_Pts_T,Gui Deodato
+119,4,01:50,PIN,63,64,LL_Pts_C,Bennett
+120,4,01:50,PIN,63,63,2_Pts_C,Bennett
+121,4,01:50,PIN,63,61,FR,Bennett
+122,4,01:50,RCB,63,61,FC,Teichmann
+123,4,02:13,RCB,63,61,2_Pts_C,Dedé
+124,4,02:13,RCB,61,61,,
+125,4,02:23,PIN,61,61,substituicao_entra,Bennett 
+126,4,02:23,PIN,61,61,substituicao_sai,Andrezão 
+127,4,02:23,RCB,61,61,FR,Dedé
+128,4,02:23,PIN,61,61,FC,Humberto
+129,4,02:28,PIN,61,61,2_Pts_C,Holloway
+130,4,02:32,PIN,61,59,RO, Holloway
+131,4,02:32,PIN,61,59,3_Pts_T,Lucas Dias
+132,4,02:50,PIN,61,59,RD, Andrezão
+133,4,02:50,RCB,61,59,2_Pts_T,Tatu
+134,4,03:03,RCB,61,59,RD, Teichmann
+135,4,03:03,PIN,61,59,2_Pts_T,Holloway
+136,4,03:25,PIN,61,59,RD, Morro
+137,4,03:25,RCB,61,59,LL_Pts_T,Teichmann
+138,4,03:25,RCB,61,59,LL_Pts_T,Teichmann
+139,4,03:25,RCB,61,59,FR,Teichmann
+140,4,03:25,PIN,61,59,FC,Morro
+141,4,03:48,RCB,61,59,RD, Rio Claro
+142,4,03:48,PIN,61,59,2_Pts_T,Andrezão
+143,4,03:55,PIN,61,59,BR,Andrezão
+144,4,03:55,RCB,61,59,ER,Gui Deodato
+145,4,04:15,RCB,61,59,substituicao_sai,Atílio  
+146,4,04:15,RCB,61,59,substituicao_entra,Teichmann 
+147,4,04:15,RCB,61,59,tempo_tecnico, Rio Claro
+148,4,04:15,PIN,61,59,2_Pts_C,Lucas Dias
+149,4,04:15,PIN,61,57,RO, Lucas Dias
+150,4,04:15,PIN,61,57,2_Pts_T,Andrezão
+151,4,04:15,PIN,61,57,RO, Andrezão
+152,4,04:15,PIN,61,57,2_Pts_T,Holloway
+153,4,04:35,PIN,61,57,RD, Humberto
+154,4,04:35,PIN,61,57,TO,Morro
+155,4,04:35,RCB,61,57,3_Pts_T,Gui Deodato
+156,4,04:57,PIN,61,57,LL_Pts_C,Holloway
+157,4,04:57,PIN,61,56,LL_Pts_T,Holloway
+158,4,04:57,RCB,61,56,substituicao_entra,Dedé 
+159,4,04:57,RCB,61,56,substituicao_sai,Caio 
+160,4,04:57,PIN,61,56,FR,Holloway
+161,4,04:57,RCB,61,56,FC,Vinicius
+162,4,05:12,PIN,61,56,RD, Morro
+163,4,05:12,RCB,61,56,2_Pts_T,Gui Deodato
+164,4,05:19,RCB,61,56,RD, Gui Deodato
+165,4,05:19,PIN,61,56,3_Pts_T,Andrezão
+166,4,05:32,PIN,61,56,substituicao_entra,Holloway 
+167,4,05:32,PIN,61,56,substituicao_sai,Bennett 
+168,4,05:32,RCB,61,56,substituicao_entra,Vinicius 
+169,4,05:32,RCB,61,56,substituicao_sai,Teichmann 
+170,4,05:35,RCB,61,56,3_Pts_C,Tatu
+171,4,05:46,RCB,58,56,RD, Tatu
+172,4,05:46,PIN,58,56,2_Pts_T,Lucas Dias
+173,4,06:12,RCB,58,56,ER,Atílio 
+174,4,06:30,RCB,58,56,RO, Teichmann
+175,4,06:30,RCB,58,56,3_Pts_T,Gui Deodato
+176,4,06:53,RCB,58,56,RD, Teichmann
+177,4,06:53,PIN,58,56,LL_Pts_T,Bennett
+178,4,06:53,PIN,58,56,LL_Pts_T,Bennett
+179,4,06:53,PIN,58,56,FR,Bennett
+180,4,06:53,RCB,58,56,FC,Caio
+181,4,07:01,PIN,58,56,RD, Humberto
+182,4,07:01,RCB,58,56,2_Pts_T,Teichmann
+183,4,07:02,RCB,58,56,FR,Atílio 
+184,4,07:02,PIN,58,56,FC,Morro
+185,4,07:19,PIN,58,56,3_Pts_C,Lucas Dias
+186,4,07:33,PIN,58,53,,
+187,4,07:33,RCB,58,53,ER,Teichmann
+188,4,07:39,RCB,58,53,RD, Teichmann
+189,4,07:39,PIN,58,53,2_Pts_T,Andrezão
+190,4,07:46,PIN,58,53,FR,Lucas Dias
+191,4,07:46,RCB,58,53,FC,Caio
+192,4,07:57,RCB,58,53,2_Pts_C,Teichmann
+193,4,07:57,RCB,56,53,,
+194,4,08:01,RCB,56,53,BR,Gui Deodato
+195,4,08:01,PIN,56,53,ER,Humberto
+196,4,08:07,PIN,56,53,RD, Morro
+197,4,08:07,RCB,56,53,2_Pts_T,Atílio 
+198,4,08:20,RCB,56,53,RO, Teichmann
+199,4,08:20,RCB,56,53,2_Pts_T,Atílio 
+200,4,08:29,RCB,56,53,RD, Teichmann
+201,4,08:29,PIN,56,53,3_Pts_T,Humberto
+202,4,08:36,PIN,56,53,RO, Humberto
+203,4,08:36,PIN,56,53,3_Pts_T,Lucas Dias
+204,4,08:48,PIN,56,53,FR,Humberto
+205,4,08:48,RCB,56,53,FC,Atílio 
+206,4,09:16,PIN,56,53,RD, Pinheiros
+207,4,09:16,RCB,56,53,2_Pts_T,Caio
+208,4,09:43,PIN,56,53,2_Pts_C,Andrezão
+209,4,09:51,PIN,56,51,RO, Andrezão
+210,4,09:51,PIN,56,51,3_Pts_T,Humberto
+211,4,09:59,RCB,56,51,3_Pts_C,Gui Deodato
+212,3,00:00,NaN.,53,51,fim_quarto, 
+213,3,00:12,PIN,53,51,RD, Humberto
+214,3,00:12,RCB,53,51,3_Pts_T,Nicolas
+215,3,00:33,RCB,53,51,substituicao_sai,Tom 
+216,3,00:33,RCB,53,51,substituicao_entra,Tatu 
+217,3,00:33,RCB,53,51,substituicao_sai,Pastor 
+218,3,00:33,RCB,53,51,substituicao_entra,Dedé 
+219,3,00:33,PIN,53,51,LL_Pts_C,Bennett
+220,3,00:33,PIN,53,50,LL_Pts_T,Bennett
+221,3,00:33,PIN,53,50,substituicao_entra,Andrezão 
+222,3,00:33,PIN,53,50,substituicao_sai,Renan 
+223,3,00:33,PIN,53,50,FR,Bennett
+224,3,00:33,RCB,53,50,FC,Tom
+225,3,00:47,RCB,53,50,substituicao_sai,Teichmann 
+226,3,00:47,RCB,53,50,substituicao_entra,Pastor 
+227,3,00:47,RCB,53,50,substituicao_sai,Tatu 
+228,3,00:47,RCB,53,50,substituicao_entra,Nicolas 
+229,3,00:47,RCB,53,50,substituicao_sai,Atílio  
+230,3,00:47,RCB,53,50,substituicao_entra,Tom 
+231,3,00:47,RCB,53,50,LL_Pts_C,Tatu
+232,3,00:47,RCB,52,50,LL_Pts_C,Tatu
+233,3,00:47,RCB,51,50,FR,Tatu
+234,3,00:47,PIN,51,50,FC,Bennett
+235,3,01:06,PIN,51,50,2_Pts_C,Lucas Dias
+236,3,01:06,PIN,51,48,,
+237,3,01:11,PIN,51,48,FR,Bennett
+238,3,01:11,RCB,51,48,FC_O,Caio
+239,3,01:18,RCB,51,48,RD, Caio
+240,3,01:18,PIN,51,48,2_Pts_T,Bennett
+241,3,01:36,RCB,51,48,EN,Teichmann
+242,3,01:36,RCB,49,48,,
+243,3,01:49,RCB,49,48,RD, Atílio 
+244,3,01:49,PIN,49,48,LL_Pts_T,Humberto
+245,3,01:49,PIN,49,48,LL_Pts_C,Humberto
+246,3,01:49,PIN,49,47,substituicao_sai,Mineiro 
+247,3,01:49,PIN,49,47,substituicao_entra,Morro 
+248,3,01:49,RCB,49,47,substituicao_entra,Teichmann 
+249,3,01:49,RCB,49,47,substituicao_sai,Vinicius 
+250,3,01:49,PIN,49,47,FR,Humberto
+251,3,01:49,RCB,49,47,FC,Vinicius
+252,3,01:53,PIN,49,47,RD, Lucas Dias
+253,3,01:53,RCB,49,47,3_Pts_T,Caio
+254,3,02:07,PIN,49,47,2_Pts_C,Lucas Dias
+255,3,02:07,PIN,49,45,,
+256,3,02:29,PIN,49,45,RD, Pinheiros
+257,3,02:29,RCB,49,45,3_Pts_T,Caio
+258,3,02:57,PIN,49,45,2_Pts_C,Humberto
+259,3,03:08,RCB,49,43,2_Pts_C,Atílio 
+260,3,03:13,RCB,47,43,RO, Atílio 
+261,3,03:13,RCB,47,43,2_Pts_T,Gui Deodato
+262,3,03:34,RCB,47,43,substituicao_entra,Atílio  
+263,3,03:34,RCB,47,43,substituicao_sai,Teichmann 
+264,3,03:34,PIN,47,43,ER,Bennett
+265,3,03:38,PIN,47,43,RD, Humberto
+266,3,03:38,RCB,47,43,2_Pts_T,Vinicius
+267,3,04:03,PIN,47,43,LL_Pts_C,Mineiro
+268,3,04:03,PIN,47,42,LL_Pts_C,Mineiro
+269,3,04:03,PIN,47,41,FR,Mineiro
+270,3,04:03,RCB,47,41,FC,Caio
+271,3,04:25,PIN,47,41,RD, Renan
+272,3,04:25,PIN,47,41,TO,Renan
+273,3,04:25,RCB,47,41,2_Pts_T,Teichmann
+274,3,04:36,PIN,47,41,substituicao_entra,Humberto 
+275,3,04:36,PIN,47,41,substituicao_sai,Holloway 
+276,3,04:36,RCB,47,41,FR,Gui Deodato
+277,3,04:36,PIN,47,41,FC,Renan
+278,3,04:46,RCB,47,41,RD, Tatu
+279,3,04:46,PIN,47,41,3_Pts_T,Lucas Dias
+280,3,05:04,RCB,47,41,substituicao_entra,Caio 
+281,3,05:04,RCB,47,41,substituicao_sai,Dedé 
+282,3,05:04,PIN,47,41,FR,Lucas Dias
+283,3,05:04,RCB,47,41,FC,Dedé
+284,3,05:11,RCB,47,41,2_Pts_C,Dedé
+285,3,05:32,RCB,45,41,RD, Dedé
+286,3,05:32,PIN,45,41,3_Pts_T,Renan
+287,3,05:43,PIN,45,41,FR,Lucas Dias
+288,3,05:43,RCB,45,41,FC,Dedé
+289,3,05:51,PIN,45,41,,
+290,3,05:51,RCB,45,41,ER,Teichmann
+291,3,05:59,RCB,45,41,FR,Tatu
+292,3,05:59,PIN,45,41,FC_O,Holloway
+293,3,06:16,RCB,45,41,3_Pts_C,Dedé
+294,3,06:38,PIN,42,41,2_Pts_C,Holloway
+295,3,07:04,PIN,42,39,tempo_tecnico, Pinheiros
+296,3,07:04,RCB,42,39,3_Pts_C,Tatu
+297,3,07:04,RCB,39,39,,
+298,3,07:19,RCB,39,39,,
+299,3,07:19,PIN,39,39,ER,Bennett
+300,3,07:25,PIN,39,39,FR,Holloway
+301,3,07:25,RCB,39,39,FC,Gui Deodato
+302,3,07:35,PIN,39,39,RD, Holloway
+303,3,07:35,PIN,39,39,TO,Renan
+304,3,07:35,RCB,39,39,2_Pts_T,Dedé
+305,3,07:50,RCB,39,39,,
+306,3,07:50,PIN,39,39,ER,Mineiro
+307,3,08:07,RCB,39,39,3_Pts_C,Tatu
+308,3,08:07,RCB,36,39,,
+309,3,08:14,PIN,36,39,2_Pts_C,Mineiro
+310,3,08:24,PIN,36,37,RO, Mineiro
+311,3,08:24,PIN,36,37,2_Pts_T,Mineiro
+312,3,08:37,PIN,36,37,RD, Renan
+313,3,08:37,RCB,36,37,3_Pts_T,Dedé
+314,3,08:43,RCB,36,37,BR,Gui Deodato
+315,3,08:43,PIN,36,37,ER,Bennett
+316,3,09:12,RCB,36,37,3_Pts_C,Gui Deodato
+317,3,09:17,RCB,33,37,FR,Gui Deodato
+318,3,09:17,PIN,33,37,FC,Renan
+319,3,09:22,RCB,33,37,BR,Gui Deodato
+320,3,09:22,PIN,33,37,ER,Bennett
+321,3,09:36,RCB,33,37,2_Pts_C,Gui Deodato
+322,3,09:36,RCB,31,37,,
+323,3,09:50,PIN,31,37,3_Pts_C,Renan
+324,3,09:50,PIN,31,34,,
+325,2,00:00,NaN.,31,34,fim_quarto, 
+326,2,00:03,RCB,31,34,RD, Tatu
+327,2,00:03,PIN,31,34,3_Pts_T,Bennett
+328,2,00:20,PIN,31,34,RD, Lucas Dias
+329,2,00:20,RCB,31,34,3_Pts_T,Tatu
+330,2,00:35,RCB,31,34,RO, Nicolas
+331,2,00:35,RCB,31,34,3_Pts_T,Pastor
+332,2,00:41,RCB,31,34,substituicao_entra,Teichmann 
+333,2,00:41,RCB,31,34,substituicao_sai,Atílio  
+334,2,00:41,RCB,31,34,tempo_tecnico, Rio Claro
+335,2,00:41,PIN,31,34,2_Pts_C,Lucas Dias
+336,2,00:55,RCB,31,32,2_Pts_C,Gui Deodato
+337,2,01:13,PIN,29,32,3_Pts_C,Lucas Dias
+338,2,01:13,PIN,29,29,,
+339,2,01:27,RCB,29,29,EN,Pastor
+340,2,01:31,RCB,27,29,BR,Pastor
+341,2,01:31,PIN,27,29,ER,Georginho
+342,2,01:44,PIN,27,29,substituicao_sai,Andrezão 
+343,2,01:44,PIN,27,29,substituicao_entra,Bennett 
+344,2,01:44,PIN,27,29,substituicao_sai,Humberto 
+345,2,01:44,PIN,27,29,substituicao_entra,Andrezão 
+346,2,01:44,PIN,27,29,substituicao_sai,Renan 
+347,2,01:44,PIN,27,29,substituicao_entra,Georginho 
+348,2,01:48,PIN,27,29,tempo_tecnico, Pinheiros
+349,2,01:48,RCB,27,29,3_Pts_C,Gui Deodato
+350,2,02:08,RCB,24,29,RD, Atílio 
+351,2,02:08,PIN,24,29,LL_Pts_T,Mineiro
+352,2,02:08,PIN,24,29,LL_Pts_C,Mineiro
+353,2,02:08,PIN,24,28,FR,Mineiro
+354,2,02:08,RCB,24,28,FC,Tatu
+355,2,02:14,PIN,24,28,RO, Holloway
+356,2,02:14,PIN,24,28,2_Pts_T,Holloway
+357,2,02:34,PIN,24,28,RD, Renan
+358,2,02:34,RCB,24,28,LL_Pts_T,Tatu
+359,2,02:34,RCB,24,28,LL_Pts_C,Tatu
+360,2,02:34,RCB,23,28,FR,Tatu
+361,2,02:34,PIN,23,28,FC,Holloway
+362,2,02:47,RCB,23,28,RD, Gui Deodato
+363,2,02:47,PIN,23,28,3_Pts_T,Humberto
+364,2,03:12,RCB,23,28,ER,
+365,2,03:46,RCB,23,28,tempo_tecnico, Rio Claro
+366,2,03:46,PIN,23,28,3_Pts_C,Renan
+367,2,03:46,PIN,23,25,,
+368,2,03:57,RCB,23,25,substituicao_entra,Tatu 
+369,2,03:57,RCB,23,25,substituicao_sai,Teichmann 
+370,2,03:57,PIN,23,25,FR,Holloway
+371,2,03:57,RCB,23,25,FC,Teichmann
+372,2,04:04,PIN,23,25,RD, Mineiro
+373,2,04:04,RCB,23,25,3_Pts_T,Pastor
+374,2,04:25,RCB,23,25,RD, Gui Deodato
+375,2,04:25,PIN,23,25,2_Pts_T,Lucas Dias
+376,2,04:40,PIN,23,25,FR,Humberto
+377,2,04:40,RCB,23,25,FC,Nicolas
+378,2,04:44,PIN,23,25,RD, Mineiro
+379,2,04:44,RCB,23,25,2_Pts_T,Pastor
+380,2,04:56,PIN,23,25,2_Pts_C,Humberto
+381,2,05:14,PIN,23,23,FR,Lucas Dias
+382,2,05:14,RCB,23,23,FC,Pastor
+383,2,05:17,PIN,23,23,RD, Lucas Dias
+384,2,05:17,RCB,23,23,LL_Pts_T,Teichmann
+385,2,05:17,RCB,23,23,LL_Pts_C,Teichmann
+386,2,05:17,RCB,22,23,FR,Teichmann
+387,2,05:17,PIN,22,23,FC,Renan
+388,2,05:25,PIN,22,23,,
+389,2,05:32,PIN,22,23,substituicao_entra,Holloway 
+390,2,05:32,PIN,22,23,substituicao_sai,Bennett 
+391,2,05:32,PIN,22,23,FR,Humberto
+392,2,05:32,RCB,22,23,FC,Nicolas
+393,2,05:52,RCB,22,23,substituicao_sai,Tatu 
+394,2,05:52,RCB,22,23,substituicao_entra,Nicolas 
+395,2,05:52,RCB,22,23,LL_Pts_C,Tatu
+396,2,05:52,RCB,21,23,LL_Pts_T,Tatu
+397,2,05:52,RCB,21,23,substituicao_entra,Gui Deodato 
+398,2,05:52,RCB,21,23,substituicao_sai,Caio 
+399,2,05:52,PIN,21,23,substituicao_entra,Lucas Dias 
+400,2,05:52,PIN,21,23,substituicao_sai,Morro 
+401,2,05:52,PIN,21,23,substituicao_entra,Mineiro 
+402,2,05:52,PIN,21,23,substituicao_sai,Scaglia 
+403,2,05:52,RCB,21,23,FR,Tatu
+404,2,05:52,PIN,21,23,FC,Bennett
+405,2,06:02,RCB,21,23,RD, Teichmann
+406,2,06:02,PIN,21,23,3_Pts_T,Humberto
+407,2,06:17,PIN,21,23,RD, Bennett
+408,2,06:17,RCB,21,23,3_Pts_T,Pastor
+409,2,06:22,RCB,21,23,FR,Atílio 
+410,2,06:22,PIN,21,23,FC,Morro
+411,2,06:31,RCB,21,23,RD, Atílio 
+412,2,06:31,PIN,21,23,2_Pts_T,Humberto
+413,2,06:48,RCB,21,23,LL_Pts_C,Atílio 
+414,2,06:48,RCB,20,23,FR,Atílio 
+415,2,06:48,PIN,20,23,FC,Scaglia
+416,2,06:48,RCB,20,23,2_Pts_C,Atílio 
+417,2,06:48,RCB,18,23,,
+418,2,07:10,PIN,18,23,2_Pts_C,Humberto
+419,2,07:27,RCB,18,21,ER,Pastor
+420,2,07:43,RCB,18,21,BR,Tatu
+421,2,07:43,PIN,18,21,ER,Humberto
+422,2,07:50,PIN,18,21,RO, Humberto
+423,2,07:50,PIN,18,21,2_Pts_T,Morro
+424,2,08:07,RCB,18,21,LL_Pts_C,Tatu
+425,2,08:07,RCB,17,21,LL_Pts_C,Tatu
+426,2,08:07,RCB,16,21,substituicao_entra,Pastor 
+427,2,08:07,RCB,16,21,substituicao_sai,Gui Deodato 
+428,2,08:07,RCB,16,21,substituicao_entra,Teichmann 
+429,2,08:07,RCB,16,21,substituicao_sai,Tom 
+430,2,08:07,RCB,16,21,FR,Tatu
+431,2,08:07,PIN,16,21,FC,Morro
+432,2,08:27,RCB,16,21,RO, Tom
+433,2,08:27,RCB,16,21,2_Pts_T,Caio
+434,2,08:53,PIN,16,21,2_Pts_C,Renan
+435,2,08:53,PIN,16,19,,
+436,2,09:04,PIN,16,19,RD, Bennett
+437,2,09:04,RCB,16,19,3_Pts_T,Gui Deodato
+438,2,09:20,RCB,16,19,RO, Tatu
+439,2,09:20,RCB,16,19,2_Pts_T,Tom
+440,2,09:27,RCB,16,19,FR,Gui Deodato
+441,2,09:27,PIN,16,19,FC,Humberto
+442,2,09:31,PIN,16,19,ER,Renan
+443,2,09:42,PIN,16,19,BR,Bennett
+444,2,09:42,RCB,16,19,ER,Gui Deodato
+445,1,00:00,NaN.,16,19,fim_quarto, 
+446,1,00:09,RCB,16,19,3_Pts_T,Tatu
+447,1,00:14,PIN,16,19,substituicao_sai,Mineiro 
+448,1,00:14,PIN,16,19,substituicao_entra,Morro 
+449,1,00:14,PIN,16,19,substituicao_sai,Lucas Dias 
+450,1,00:14,PIN,16,19,substituicao_entra,Scaglia 
+451,1,00:14,RCB,16,19,substituicao_entra,Dedé 
+452,1,00:14,RCB,16,19,substituicao_sai,Atílio  
+453,1,00:14,PIN,16,19,LL_Pts_C,Bennett
+454,1,00:14,PIN,16,18,LL_Pts_C,Bennett
+455,1,00:14,PIN,16,17,FR,Bennett
+456,1,00:14,RCB,16,17,FC,Atílio 
+457,1,00:36,RCB,16,17,2_Pts_C,Atílio 
+458,1,00:36,RCB,14,17,,
+459,1,00:47,RCB,14,17,RO, Tom
+460,1,00:47,RCB,14,17,2_Pts_T,Atílio 
+461,1,01:04,RCB,14,17,RD, Atílio 
+462,1,01:04,PIN,14,17,2_Pts_T,Mineiro
+463,1,01:12,PIN,14,17,RD, Renan
+464,1,01:12,RCB,14,17,3_Pts_T,Caio
+465,1,01:26,PIN,14,17,2_Pts_C,Lucas Dias
+466,1,01:41,RCB,14,15,2_Pts_C,Gui Deodato
+467,1,01:52,PIN,12,15,substituicao_sai,Holloway 
+468,1,01:52,PIN,12,15,substituicao_entra,Humberto 
+469,1,01:52,RCB,12,15,FR,Gui Deodato
+470,1,01:52,PIN,12,15,FC,Lucas Dias
+471,1,01:56,RCB,12,15,RD, Gui Deodato
+472,1,01:56,PIN,12,15,2_Pts_T,Renan
+473,1,02:09,RCB,12,15,substituicao_sai,Teichmann 
+474,1,02:09,RCB,12,15,substituicao_entra,Tom 
+475,1,02:09,RCB,12,15,LL_Pts_C,Atílio 
+476,1,02:09,RCB,11,15,LL_Pts_C,Atílio 
+477,1,02:09,RCB,10,15,FR,Atílio 
+478,1,02:09,PIN,10,15,FC,Mineiro
+479,1,02:13,RCB,10,15,RO, Atílio 
+480,1,02:13,RCB,10,15,2_Pts_T,Tatu
+481,1,02:25,PIN,10,15,2_Pts_C,Mineiro
+482,1,02:25,PIN,10,13,,
+483,1,02:31,RCB,10,13,substituicao_sai,Vinicius 
+484,1,02:31,RCB,10,13,substituicao_entra,Atílio  
+485,1,02:40,RCB,10,13,3_Pts_C,Caio
+486,1,02:40,RCB,7,13,,
+487,1,02:50,RCB,7,13,RD, Teichmann
+488,1,02:50,PIN,7,13,2_Pts_T,Mineiro
+489,1,02:59,PIN,7,13,,
+490,1,02:59,RCB,7,13,ER,Gui Deodato
+491,1,03:03,RCB,7,13,BR,Gui Deodato
+492,1,03:03,PIN,7,13,ER,Bennett
+493,1,03:08,PIN,7,13,RD, Bennett
+494,1,03:08,RCB,7,13,2_Pts_T,Tatu
+495,1,03:30,PIN,7,13,2_Pts_C,Lucas Dias
+496,1,03:30,PIN,7,11,,
+497,1,03:51,RCB,7,11,3_Pts_C,Caio
+498,1,03:51,RCB,4,11,,
+499,1,04:09,PIN,4,11,ER,Holloway
+500,1,04:13,PIN,4,11,RD, Mineiro
+501,1,04:13,RCB,4,11,2_Pts_T,Tatu
+502,1,04:37,PIN,4,11,2_Pts_C,Bennett
+503,1,04:48,RCB,4,9,substituicao_entra,Caio 
+504,1,04:48,RCB,4,9,substituicao_sai,Dedé 
+505,1,04:48,PIN,4,9,FR,Lucas Dias
+506,1,04:48,RCB,4,9,FC,Dedé
+507,1,04:56,PIN,4,9,RD, Lucas Dias
+508,1,04:56,RCB,4,9,2_Pts_T,Dedé
+509,1,05:05,RCB,4,9,FR,Teichmann
+510,1,05:05,PIN,4,9,FC,Holloway
+511,1,05:10,RCB,4,9,RO, Teichmann
+512,1,05:10,RCB,4,9,3_Pts_T,Gui Deodato
+513,1,05:30,PIN,4,9,2_Pts_C,Bennett
+514,1,05:30,PIN,4,7,,
+515,1,05:47,RCB,4,7,2_Pts_C,Dedé
+516,1,05:53,RCB,2,7,RD, Dedé
+517,1,05:53,PIN,2,7,3_Pts_T,Holloway
+518,1,06:11,PIN,2,7,RD, Lucas Dias
+519,1,06:11,RCB,2,7,3_Pts_T,Vinicius
+520,1,06:35,PIN,2,7,2_Pts_C,Renan
+521,1,06:35,PIN,2,5,,
+522,1,06:49,PIN,2,5,RD, Mineiro
+523,1,06:49,RCB,2,5,2_Pts_T,Gui Deodato
+524,1,07:13,PIN,2,5,2_Pts_C,Holloway
+525,1,07:22,RCB,2,3,ER,
+526,1,07:47,PIN,2,3,LL_Pts_C,Lucas Dias
+527,1,07:47,PIN,2,2,FR,Lucas Dias
+528,1,07:47,RCB,2,2,FC,Dedé
+529,1,07:52,PIN,2,2,2_Pts_C,Lucas Dias
+530,1,07:52,PIN,2,0,,
+531,1,08:02,PIN,2,0,RD, Lucas Dias
+532,1,08:02,RCB,2,0,3_Pts_T,Gui Deodato
+533,1,08:21,RCB,2,0,,
+534,1,08:21,PIN,2,0,ER,Lucas Dias
+535,1,08:27,PIN,2,0,RD, Renan
+536,1,08:27,RCB,2,0,2_Pts_T,Gui Deodato
+537,1,08:39,RCB,2,0,RD, Dedé
+538,1,08:39,PIN,2,0,LL_Pts_T,Mineiro
+539,1,08:39,PIN,2,0,LL_Pts_T,Mineiro
+540,1,08:39,PIN,2,0,FR,Mineiro
+541,1,08:39,RCB,2,0,FC,Teichmann
+542,1,08:45,PIN,2,0,RO, Mineiro
+543,1,08:45,PIN,2,0,2_Pts_T,Bennett
+544,1,09:04,RCB,2,0,EN,Teichmann
+545,1,09:04,RCB,0,0,,
+546,1,09:21,RCB,0,0,RD, Tatu
+547,1,09:21,PIN,0,0,2_Pts_T,Mineiro
+548,1,09:26,PIN,0,0,RO, Mineiro
+549,1,09:26,PIN,0,0,2_Pts_T,Renan
+550,1,09:38,PIN,0,0,BR,Bennett
+551,1,09:38,RCB,0,0,ER,Dedé
+552,1,09:43,RCB,0,0,RD, Dedé
+553,1,09:43,PIN,0,0,2_Pts_T,Lucas Dias
+554,1,10:00,PIN,0,0,substituicao_entra,Mineiro 
+555,1,10:00,PIN,0,0,substituicao_entra,Renan 
+556,1,10:00,PIN,0,0,substituicao_entra,Lucas Dias 
+557,1,10:00,PIN,0,0,substituicao_entra,Bennett 
+558,1,10:00,PIN,0,0,substituicao_entra,Holloway 
+559,1,10:00,RCB,0,0,substituicao_entra,Teichmann 
+560,1,10:00,RCB,0,0,substituicao_entra,Gui Deodato 
+561,1,10:00,RCB,0,0,substituicao_entra,Dedé 
+562,1,10:00,RCB,0,0,substituicao_entra,Tatu 
+563,1,10:00,RCB,0,0,substituicao_entra,Vinicius 

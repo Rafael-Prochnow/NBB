@@ -29,6 +29,18 @@ del(list_inoutControl[21])
 del(list_inoutControl[24])
 # erro em paulistano_88x100_brasilia 237
 del(list_inoutControl[233])
+
+
+'''
+ano = 15
+# erro em são jose_74x95_pinheiros
+del(list_inoutControl[15])
+# erro en são josé_71_x76_caxias do sul
+del(list_inoutControl[21])
+# erro em são josé_88x82_rio claro
+del(list_inoutControl[24])
+# erro em paulistano_88x100_brasilia 237
+del(list_inoutControl[233])
 # erro em rio claro_63x72_bauru
 del(list_inoutControl[39])
 #  erro em brasilia_85x94_flamengo
@@ -42,21 +54,19 @@ del(list_inoutControl[156])
 # erro me cearence_77x71_franca
 del(list_inoutControl[168])
 
-
-'''
 ano = 16
 # jogo do pinheiros_x_vitória não aparece as estatísticas do jogo
 del(list_inoutControl[1])
 # jogo do flamengo_75x78_pinheiros não aparece as estatísticas do jogo 244
 # alem disso a lista sai errado e tira mais dois jogos --> mogi_85x95_vitória e franca_67x80_paulistano
 del(list_inoutControl[243:246])
-# erro em minas_83x63_caxias do sul
-del(list_inoutControl[1])
-# campo mourão_74x92_paulistano
-del(list_inoutControl[49])
 # erro em paulistano_82x49_caxias o sul
-del(list_inoutControl[66])
-del(list_inoutControl[:78])
+del(list_inoutControl[68])
+# erro paulistano_64x81_bauru
+del(list_inoutControl[253])
+
+del(list_inoutControl[:149])
+print(list_inoutControl)
 
 ano = 17
 # joinville _81x91_flamengo
@@ -383,8 +393,7 @@ for i in list_inoutControl:
         Indicador = separar_01.str.get(0)
         dados['Indicador'] = Indicador
         inf_02 = separar_01.str.get(1)
-        print(inf_02)
-
+        
         teste = inf_02.str.translate({ord(c): "," for c in "("})
 
         teste2 = teste.str.split(',')

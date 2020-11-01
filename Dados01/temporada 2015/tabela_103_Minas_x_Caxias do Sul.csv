@@ -1,0 +1,501 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,77,67,fim_partida, 
+1,4,00:21,CAX,77,67,2_Pts_C,Gustavinho
+2,4,00:30,CAX,77,65,RD, Alex
+3,4,00:30,MIN,77,65,LL_Pts_T,Siqueira
+4,4,00:30,MIN,77,65,LL_Pts_C,Siqueira
+5,4,00:30,MIN,76,65,FR,Siqueira
+6,4,00:30,CAX,76,65,FC,Gustavinho
+7,4,00:45,MIN,76,65,RD, Sosa
+8,4,00:45,CAX,76,65,3_Pts_T,Guto
+9,4,00:53,MIN,76,65,,
+10,4,00:53,MIN,76,65,LL_Pts_C,Simmons
+11,4,00:53,MIN,75,65,LL_Pts_C,Simmons
+12,4,00:53,MIN,74,65,substituicao_entra,Siqueira 
+13,4,00:53,MIN,74,65,substituicao_sai,Léo Demétrio 
+14,4,00:53,MIN,74,65,FR,Simmons
+15,4,00:53,CAX,74,65,FC,Alex
+16,4,00:59,MIN,74,65,BR,Sosa
+17,4,00:59,CAX,74,65,ER,Betinho
+18,4,01:10,CAX,74,65,,
+19,4,01:10,MIN,74,65,ER,Simmons
+20,4,01:28,CAX,74,65,2_Pts_C,Gustavinho
+21,4,01:28,CAX,74,63,,
+22,4,01:33,CAX,74,63,FR,Gustavinho
+23,4,01:33,MIN,74,63,FC_O,Sosa
+24,4,01:49,CAX,74,63,3_Pts_C,Guto
+25,4,01:49,CAX,74,60,,
+26,4,01:55,CAX,74,60,RD, Gustavinho
+27,4,01:55,MIN,74,60,2_Pts_T,Shilton
+28,4,02:12,MIN,74,60,FR,Coelho
+29,4,02:12,CAX,74,60,FC,Betinho
+30,4,02:20,MIN,74,60,RD, Simmons
+31,4,02:20,CAX,74,60,2_Pts_T,Marcão
+32,4,02:29,CAX,74,60,tempo_tecnico, Caxias do Sul
+33,4,02:29,CAX,74,60,FR,Betinho
+34,4,02:29,MIN,74,60,FC_O,Coelho
+35,4,02:43,MIN,74,60,RD, Shilton
+36,4,02:43,CAX,74,60,2_Pts_T,Gustavinho
+37,4,02:59,MIN,74,60,2_Pts_C,Carioca
+38,4,02:59,MIN,72,60,,
+39,4,03:26,CAX,72,60,LL_Pts_C,Alex
+40,4,03:26,CAX,72,59,LL_Pts_C,Alex
+41,4,03:26,CAX,72,58,FR,Alex
+42,4,03:26,MIN,72,58,FC,Simmons
+43,4,03:48,CAX,72,58,RD, Alex
+44,4,03:48,MIN,72,58,2_Pts_T,Shilton
+45,4,04:00,MIN,72,58,FR,Coelho
+46,4,04:00,CAX,72,58,FC,Guto
+47,4,04:02,MIN,72,58,BR,Coelho
+48,4,04:02,CAX,72,58,ER,Marcão
+49,4,04:21,MIN,72,58,3_Pts_C,Sosa
+50,4,04:21,MIN,69,58,,
+51,4,05:24,CAX,69,58,2_Pts_C,Marcão
+52,4,05:24,CAX,69,56,RD, Alex
+53,4,05:24,MIN,69,56,2_Pts_T,Simmons
+54,4,05:24,MIN,69,56,RD, Shilton
+55,4,05:24,CAX,69,56,2_Pts_T,Gustavinho
+56,4,05:24,CAX,69,56,BR,Betinho
+57,4,05:24,MIN,69,56,ER,Sosa
+58,4,05:26,MIN,69,56,tempo_tecnico, Minas
+59,4,05:26,CAX,69,56,2_Pts_C,Guto
+60,4,05:32,CAX,69,54,RD, Betinho
+61,4,05:32,MIN,69,54,3_Pts_T,Sosa
+62,4,05:44,CAX,69,54,LL_Pts_C,Gustavinho
+63,4,05:44,CAX,69,53,LL_Pts_C,Gustavinho
+64,4,05:44,CAX,69,52,FR,Gustavinho
+65,4,05:44,MIN,69,52,FC,Sosa
+66,4,05:52,MIN,69,52,FR,Simmons
+67,4,05:52,CAX,69,52,FC,Marcão
+68,4,05:53,CAX,69,52,RD, Betinho
+69,4,05:53,MIN,69,52,LL_Pts_T,Simmons
+70,4,05:53,MIN,69,52,LL_Pts_C,Simmons
+71,4,05:56,MIN,68,52,RO, Simmons
+72,4,05:56,MIN,68,52,3_Pts_T,Coelho
+73,4,06:05,CAX,68,52,ER,Guto
+74,4,06:13,MIN,68,52,2_Pts_C,Léo Demétrio
+75,4,06:13,MIN,66,52,,
+76,4,06:28,MIN,66,52,substituicao_entra,Léo Demétrio 
+77,4,06:28,MIN,66,52,substituicao_entra,Simmons 
+78,4,06:28,MIN,66,52,substituicao_sai,Siqueira 
+79,4,06:28,MIN,66,52,substituicao_sai,Ansaloni 
+80,4,06:28,CAX,66,52,LL_Pts_C,Marcão
+81,4,06:28,CAX,66,51,LL_Pts_C,Marcão
+82,4,06:30,CAX,66,50,FR,Marcão
+83,4,06:30,MIN,66,50,FC,Ansaloni
+84,4,06:44,MIN,66,50,ER,Siqueira
+85,4,06:47,MIN,66,50,BR,Siqueira
+86,4,06:47,CAX,66,50,ER,Alex
+87,4,06:59,CAX,66,50,RD, Caxias do Sul
+88,4,06:59,MIN,66,50,2_Pts_T,Ansaloni
+89,4,07:19,MIN,66,50,substituicao_entra,Coelho 
+90,4,07:19,MIN,66,50,substituicao_sai,Carioca 
+91,4,07:19,CAX,66,50,substituicao_entra,Gustavinho 
+92,4,07:19,CAX,66,50,substituicao_sai,Vinícius 
+93,4,07:19,MIN,66,50,FR,Carioca
+94,4,07:19,CAX,66,50,FC,Vinícius
+95,4,07:20,MIN,66,50,RD, Carioca
+96,4,07:20,CAX,66,50,2_Pts_T,Marcão
+97,4,07:44,CAX,66,50,RD, Betinho
+98,4,07:44,MIN,66,50,3_Pts_T,Carioca
+99,4,08:02,MIN,66,50,RD, Ansaloni
+100,4,08:02,CAX,66,50,3_Pts_T,Vinícius
+101,4,08:12,CAX,66,50,RD, Guto
+102,4,08:12,MIN,66,50,2_Pts_T,Ansaloni
+103,4,08:37,CAX,66,50,3_Pts_C,Guto
+104,4,08:37,CAX,66,47,,
+105,4,08:44,CAX,66,47,substituicao_entra,Betinho 
+106,4,08:44,CAX,66,47,substituicao_sai,R  Stabile 
+107,4,08:53,CAX,66,47,,
+108,4,08:53,MIN,66,47,ER,Sosa
+109,4,08:58,MIN,66,47,RD, Minas
+110,4,09:01,CAX,66,47,3_Pts_T,Guto
+111,4,09:29,CAX,66,47,FR,Vinícius
+112,4,09:29,MIN,66,47,FC,Carioca
+113,4,09:31,CAX,66,47,RD, Vinícius
+114,4,09:31,MIN,66,47,2_Pts_T,Carioca
+115,4,09:31,MIN,66,47,RD, Ansaloni
+116,4,09:31,CAX,66,47,2_Pts_T,Marcão
+117,4,09:39,CAX,66,47,RO, Marcão
+118,4,09:39,CAX,66,47,2_Pts_T,Alex
+119,4,09:47,CAX,66,47,FR,Guto
+120,4,09:47,MIN,66,47,FC,Shilton
+121,3,00:00,NaN.,66,47,fim_quarto, 
+122,3,00:01,CAX,66,47,2_Pts_C,Alex
+123,3,00:15,MIN,66,45,LL_Pts_C,Carioca
+124,3,00:15,MIN,65,45,LL_Pts_C,Carioca
+125,3,00:15,MIN,64,45,FR,Carioca
+126,3,00:15,CAX,64,45,FC,Vinícius
+127,3,00:29,CAX,64,45,3_Pts_C,Guto
+128,3,00:29,CAX,64,42,,
+129,3,00:39,MIN,64,42,substituicao_entra,Shilton 
+130,3,00:39,MIN,64,42,substituicao_sai,Matheus P  
+131,3,00:39,MIN,64,42,LL_Pts_C,Carioca
+132,3,00:39,MIN,63,42,LL_Pts_C,Carioca
+133,3,00:39,MIN,62,42,FR,Carioca
+134,3,00:39,CAX,62,42,FC,Vinícius
+135,3,00:48,MIN,62,42,RD, Siqueira
+136,3,00:48,CAX,62,42,LL_Pts_T,Alex
+137,3,00:48,MIN,62,42,substituicao_entra,Sosa 
+138,3,00:48,MIN,62,42,substituicao_sai,Simmons 
+139,3,00:49,CAX,62,42,2_Pts_C,Alex
+140,3,00:49,CAX,62,40,FR,Alex
+141,3,00:49,MIN,62,40,FC,Simmons
+142,3,00:59,CAX,62,40,RD, R  Stabile
+143,3,00:59,MIN,62,40,2_Pts_T,Simmons
+144,3,01:17,MIN,62,40,RD, Ansaloni
+145,3,01:17,CAX,62,40,3_Pts_T,Marcão
+146,3,01:20,CAX,62,40,RO, Caxias do Sul
+147,3,01:20,CAX,62,40,2_Pts_T,Marcão
+148,3,01:41,MIN,62,40,substituicao_entra,Carioca 
+149,3,01:41,MIN,62,40,substituicao_sai,Coelho 
+150,3,01:41,MIN,62,40,ER,Siqueira
+151,3,01:48,MIN,62,40,RD, Simmons
+152,3,01:48,MIN,62,40,TO,Matheus P 
+153,3,01:48,CAX,62,40,2_Pts_T,R  Stabile
+154,3,02:02,CAX,62,40,RD, Vinícius
+155,3,02:02,MIN,62,40,2_Pts_T,Ansaloni
+156,3,02:17,MIN,62,40,RD, Ansaloni
+157,3,02:17,CAX,62,40,LL_Pts_T,R  Stabile
+158,3,02:17,CAX,62,40,LL_Pts_T,R  Stabile
+159,3,02:17,CAX,62,40,substituicao_entra,Vinícius 
+160,3,02:17,CAX,62,40,substituicao_sai,Gustavinho 
+161,3,02:17,CAX,62,40,FR,R  Stabile
+162,3,02:17,MIN,62,40,FC,Matheus P 
+163,3,02:52,MIN,62,40,EN,Ansaloni
+164,3,02:52,MIN,60,40,,
+165,3,02:54,MIN,60,40,RD, Minas
+166,3,02:54,CAX,60,40,3_Pts_T,Alex
+167,3,03:12,MIN,60,40,2_Pts_C,Matheus P 
+168,3,03:12,MIN,58,40,,
+169,3,03:32,MIN,58,40,substituicao_entra,Matheus P  
+170,3,03:32,MIN,58,40,substituicao_sai,Léo Demétrio 
+171,3,03:32,MIN,58,40,FR,Coelho
+172,3,03:32,CAX,58,40,FC,Alex
+173,3,03:45,CAX,58,40,substituicao_entra,R  Stabile 
+174,3,03:45,CAX,58,40,substituicao_sai,Diego 
+175,3,03:45,MIN,58,40,ER,Ansaloni
+176,3,04:10,CAX,58,40,3_Pts_C,Guto
+177,3,04:25,MIN,58,37,2_Pts_C,Léo Demétrio
+178,3,04:25,MIN,56,37,,
+179,3,04:26,CAX,56,37,substituicao_entra,Marcão 
+180,3,04:26,CAX,56,37,substituicao_sai,Rubinho 
+181,3,04:26,MIN,56,37,substituicao_entra,Siqueira 
+182,3,04:26,MIN,56,37,substituicao_entra,Ansaloni 
+183,3,04:26,MIN,56,37,substituicao_sai,Sosa 
+184,3,04:26,MIN,56,37,substituicao_sai,Shilton 
+185,3,04:41,CAX,56,37,3_Pts_C,Guto
+186,3,04:41,CAX,56,34,,
+187,3,04:57,CAX,56,34,RD, Rubinho
+188,3,04:57,MIN,56,34,LL_Pts_T,Coelho
+189,3,04:57,MIN,56,34,2_Pts_C,Coelho
+190,3,04:57,MIN,54,34,FR,Coelho
+191,3,04:57,CAX,54,34,FC,Rubinho
+192,3,05:09,MIN,54,34,LL_Pts_C,Sosa
+193,3,05:09,MIN,53,34,LL_Pts_C,Sosa
+194,3,05:09,CAX,52,34,FC_T,Banco do Caxias do Sul
+195,3,05:09,CAX,52,34,FC_T,Gustavinho
+196,3,05:18,MIN,52,34,RD, Léo Demétrio
+197,3,05:18,CAX,52,34,LL_Pts_T,Guto
+198,3,05:18,CAX,52,34,LL_Pts_C,Guto
+199,3,05:18,CAX,52,33,LL_Pts_C,Guto
+200,3,05:18,CAX,52,32,tempo_tecnico, Caxias do Sul
+201,3,05:18,CAX,52,32,FR,Guto
+202,3,05:18,MIN,52,32,FC,Coelho
+203,3,05:27,CAX,52,32,BR,Alex
+204,3,05:27,MIN,52,32,ER,Simmons
+205,3,05:37,MIN,52,32,RD, Léo Demétrio
+206,3,05:37,CAX,52,32,3_Pts_T,Guto
+207,3,05:58,MIN,52,32,2_Pts_C,Simmons
+208,3,05:58,MIN,50,32,,
+209,3,06:03,MIN,50,32,FR,Shilton
+210,3,06:03,CAX,50,32,FC_O,Rubinho
+211,3,06:04,CAX,50,32,FR,Diego
+212,3,06:04,MIN,50,32,FC,Léo Demétrio
+213,3,06:10,CAX,50,32,RO, Diego
+214,3,06:10,CAX,50,32,3_Pts_T,Rubinho
+215,3,06:20,CAX,50,32,FR,Diego
+216,3,06:20,MIN,50,32,FC,Coelho
+217,3,06:37,MIN,50,32,ER,Coelho
+218,3,06:43,MIN,50,32,RO, Coelho
+219,3,06:43,MIN,50,32,2_Pts_T,Shilton
+220,3,07:05,MIN,50,32,LL_Pts_C,Sosa
+221,3,07:05,CAX,49,32,FC_T,Banco do Caxias do Sul
+222,3,07:05,CAX,49,32,substituicao_entra,Rubinho 
+223,3,07:05,CAX,49,32,substituicao_entra,Alex 
+224,3,07:05,CAX,49,32,substituicao_sai,Betinho 
+225,3,07:05,CAX,49,32,substituicao_sai,R  Stabile 
+226,3,07:05,CAX,49,32,ER,R  Stabile
+227,3,07:25,CAX,49,32,substituicao_entra,Diego 
+228,3,07:25,CAX,49,32,substituicao_sai,Marcão 
+229,3,07:28,MIN,49,32,2_Pts_C,Léo Demétrio
+230,3,07:31,MIN,47,32,RO, Léo Demétrio
+231,3,07:31,MIN,47,32,2_Pts_T,Simmons
+232,3,07:41,MIN,47,32,BR,Léo Demétrio
+233,3,07:41,CAX,47,32,ER,Gustavinho
+234,3,08:13,MIN,47,32,3_Pts_C,Coelho
+235,3,08:13,MIN,44,32,,
+236,3,08:31,CAX,44,32,2_Pts_C,Marcão
+237,3,08:31,CAX,44,30,,
+238,3,08:45,CAX,44,30,RD, Marcão
+239,3,08:45,MIN,44,30,3_Pts_T,Sosa
+240,3,09:04,MIN,44,30,RD, Léo Demétrio
+241,3,09:04,CAX,44,30,LL_Pts_T,R  Stabile
+242,3,09:04,CAX,44,30,LL_Pts_T,R  Stabile
+243,3,09:04,CAX,44,30,FR,R  Stabile
+244,3,09:04,MIN,44,30,FC,Léo Demétrio
+245,3,09:20,MIN,44,30,2_Pts_C,Léo Demétrio
+246,3,09:20,MIN,42,30,,
+247,3,09:28,MIN,42,30,RD, Shilton
+248,3,09:28,CAX,42,30,2_Pts_T,Marcão
+249,3,09:46,MIN,42,30,3_Pts_C,Simmons
+250,3,09:46,MIN,39,30,,
+251,2,00:00,NaN.,39,30,fim_quarto, 
+252,2,00:00,CAX,39,30,3_Pts_T,Vinícius
+253,2,00:00,CAX,39,30,BR,Vinícius
+254,2,00:00,MIN,39,30,ER,Siqueira
+255,2,00:02,CAX,39,30,substituicao_sai,Gustavinho 
+256,2,00:02,CAX,39,30,substituicao_entra,Tobias 
+257,2,00:02,MIN,39,30,substituicao_entra,Shilton 
+258,2,00:02,MIN,39,30,substituicao_sai,Panunzio 
+259,2,00:02,MIN,39,30,substituicao_entra,Panunzio 
+260,2,00:02,MIN,39,30,substituicao_sai,Carioca 
+261,2,00:02,CAX,39,30,substituicao_entra,Gustavinho 
+262,2,00:02,CAX,39,30,substituicao_sai,Diego 
+263,2,00:02,MIN,39,30,substituicao_sai,Matheus P  
+264,2,00:02,MIN,39,30,substituicao_entra,Siqueira 
+265,2,00:02,MIN,39,30,substituicao_entra,Sosa 
+266,2,00:02,MIN,39,30,substituicao_sai,Shilton 
+267,2,00:02,CAX,39,30,,
+268,2,00:02,MIN,39,30,substituicao_entra,Carioca 
+269,2,00:02,MIN,39,30,substituicao_sai,Sosa 
+270,2,00:02,CAX,39,30,substituicao_entra,Diego 
+271,2,00:02,CAX,39,30,substituicao_sai,R  Stabile 
+272,2,00:03,CAX,39,30,tempo_tecnico, Caxias do Sul
+273,2,00:03,CAX,39,30,FR,Betinho
+274,2,00:03,MIN,39,30,FC,Matheus P 
+275,2,00:13,CAX,39,30,RD, R  Stabile
+276,2,00:13,MIN,39,30,3_Pts_T,Coelho
+277,2,00:32,MIN,39,30,substituicao_entra,Simmons 
+278,2,00:32,MIN,39,30,substituicao_sai,Carioca 
+279,2,00:32,CAX,39,30,substituicao_entra,Alex 
+280,2,00:32,CAX,39,30,substituicao_sai,Guto 
+281,2,00:32,CAX,39,30,substituicao_entra,R  Stabile 
+282,2,00:32,CAX,39,30,substituicao_sai,Rubinho 
+283,2,00:32,CAX,39,30,substituicao_entra,Dida 
+284,2,00:32,CAX,39,30,substituicao_sai,Marcão 
+285,2,00:32,CAX,39,30,substituicao_entra,Vinícius 
+286,2,00:32,CAX,39,30,substituicao_sai,Gustavinho 
+287,2,00:33,MIN,39,30,tempo_tecnico, Minas
+288,2,00:33,CAX,39,30,2_Pts_C,Guto
+289,2,00:43,CAX,39,28,FR,Rubinho
+290,2,00:43,MIN,39,28,FC,Sosa
+291,2,01:02,MIN,39,28,substituicao_entra,Carioca 
+292,2,01:02,MIN,39,28,substituicao_sai,Simmons 
+293,2,01:02,MIN,39,28,LL_Pts_C,Coelho
+294,2,01:02,MIN,38,28,LL_Pts_C,Coelho
+295,2,01:02,MIN,37,28,FR,Coelho
+296,2,01:02,CAX,37,28,FC,Betinho
+297,2,01:06,MIN,37,28,RO, Matheus P 
+298,2,01:06,MIN,37,28,LL_Pts_T,Matheus P 
+299,2,01:06,MIN,37,28,LL_Pts_C,Matheus P 
+300,2,01:07,MIN,36,28,FR,Matheus P 
+301,2,01:07,CAX,36,28,FC,Rubinho
+302,2,01:22,CAX,36,28,ER,
+303,2,01:48,CAX,36,28,RD, Marcão
+304,2,01:48,MIN,36,28,3_Pts_T,Sosa
+305,2,01:55,MIN,36,28,RD, Simmons
+306,2,01:55,CAX,36,28,3_Pts_T,Betinho
+307,2,02:14,MIN,36,28,substituicao_entra,Coelho 
+308,2,02:14,MIN,36,28,substituicao_sai,Siqueira 
+309,2,02:14,CAX,36,28,substituicao_entra,Betinho 
+310,2,02:14,CAX,36,28,substituicao_sai,Alex 
+311,2,02:14,CAX,36,28,FR,Alex
+312,2,02:14,MIN,36,28,FC_O,Matheus P 
+313,2,02:28,MIN,36,28,FR,Siqueira
+314,2,02:28,CAX,36,28,FC_O,Gustavinho
+315,2,02:43,CAX,36,28,RD, Alex
+316,2,02:43,MIN,36,28,3_Pts_T,Sosa
+317,2,02:49,MIN,36,28,RO, Shilton
+318,2,02:49,MIN,36,28,2_Pts_T,Matheus P 
+319,2,03:00,MIN,36,28,,
+320,2,03:08,MIN,36,28,FR,Shilton
+321,2,03:08,CAX,36,28,FC,Marcão
+322,2,03:12,MIN,36,28,RD, Minas
+323,2,03:12,CAX,36,28,3_Pts_T,Rubinho
+324,2,03:28,MIN,36,28,3_Pts_C,Simmons
+325,2,03:38,MIN,33,28,RD, Simmons
+326,2,03:38,CAX,33,28,3_Pts_T,Gustavinho
+327,2,04:05,MIN,33,28,ER,Siqueira
+328,2,04:19,CAX,33,28,ER,Rubinho
+329,2,04:26,CAX,33,28,substituicao_entra,Rubinho 
+330,2,04:26,CAX,33,28,substituicao_entra,Gustavinho 
+331,2,04:26,CAX,33,28,substituicao_sai,Diego 
+332,2,04:26,CAX,33,28,substituicao_sai,Vinícius 
+333,2,04:30,CAX,33,28,tempo_tecnico, Caxias do Sul
+334,2,04:30,MIN,33,28,3_Pts_C,Matheus P 
+335,2,04:30,MIN,30,28,,
+336,2,04:46,MIN,30,28,RD, Shilton
+337,2,04:46,CAX,30,28,3_Pts_T,Guto
+338,2,05:08,MIN,30,28,2_Pts_C,Siqueira
+339,2,05:08,MIN,28,28,,
+340,2,05:25,MIN,28,28,substituicao_sai,Carioca 
+341,2,05:25,MIN,28,28,substituicao_entra,Shilton 
+342,2,05:51,MIN,28,28,tempo_tecnico, Minas
+343,2,05:51,MIN,28,28,RD, Minas
+344,2,05:51,CAX,28,28,3_Pts_T,Diego
+345,2,06:14,CAX,28,28,RD, Diego
+346,2,06:14,MIN,28,28,3_Pts_T,Simmons
+347,2,06:18,MIN,28,28,substituicao_entra,Simmons 
+348,2,06:18,MIN,28,28,substituicao_sai,Shilton 
+349,2,06:18,CAX,28,28,3_Pts_C,Vinícius
+350,2,06:18,MIN,28,25,substituicao_sai,Simmons 
+351,2,06:18,MIN,28,25,substituicao_entra,Matheus P  
+352,2,06:18,MIN,28,25,substituicao_entra,Sosa 
+353,2,06:18,MIN,28,25,substituicao_sai,Ansaloni 
+354,2,06:21,MIN,28,25,,
+355,2,06:32,CAX,28,25,2_Pts_C,Diego
+356,2,06:34,CAX,28,23,RO, Diego
+357,2,06:34,CAX,28,23,LL_Pts_T,Alex
+358,2,06:34,CAX,28,23,LL_Pts_C,Alex
+359,2,06:35,CAX,28,22,FR,Alex
+360,2,06:35,MIN,28,22,FC,Carioca
+361,2,06:53,CAX,28,22,,
+362,2,06:53,MIN,28,22,ER,Siqueira
+363,2,07:03,MIN,28,22,RD, Minas
+364,2,07:03,CAX,28,22,2_Pts_T,Marcão
+365,2,07:24,MIN,28,22,2_Pts_C,Ansaloni
+366,2,07:24,MIN,26,22,,
+367,2,07:40,CAX,26,22,2_Pts_C,Marcão
+368,2,07:40,CAX,26,20,,
+369,2,08:00,MIN,26,20,2_Pts_C,Siqueira
+370,2,08:07,MIN,24,20,FR,Shilton
+371,2,08:07,CAX,24,20,FC,Diego
+372,2,08:07,MIN,24,20,substituicao_entra,Shilton 
+373,2,08:07,MIN,24,20,substituicao_sai,Léo Demétrio 
+374,2,08:17,MIN,24,20,RD, Ansaloni
+375,2,08:17,CAX,24,20,3_Pts_T,Alex
+376,2,08:34,CAX,24,20,RD, Alex
+377,2,08:34,MIN,24,20,2_Pts_T,Simmons
+378,2,08:53,CAX,24,20,2_Pts_C,Alex
+379,2,09:21,MIN,24,18,EN,Ansaloni
+380,2,09:21,MIN,22,18,,
+381,2,09:33,MIN,22,18,FR,Siqueira
+382,2,09:33,CAX,22,18,FC,Vinícius
+383,2,09:43,MIN,22,18,RD, Siqueira
+384,2,09:43,CAX,22,18,3_Pts_T,Alex
+385,1,00:00,NaN.,22,18,fim_quarto, 
+386,1,00:04,MIN,22,18,RD, Minas
+387,1,00:04,CAX,22,18,2_Pts_T,Betinho
+388,1,00:17,CAX,22,18,RD, Vinícius
+389,1,00:17,MIN,22,18,3_Pts_T,Sosa
+390,1,00:33,MIN,22,18,substituicao_entra,Sosa 
+391,1,00:33,MIN,22,18,substituicao_sai,Siqueira 
+392,1,00:34,CAX,22,18,ER,Dida
+393,1,00:48,MIN,22,18,2_Pts_C,Léo Demétrio
+394,1,00:48,MIN,20,18,,
+395,1,01:04,CAX,20,18,2_Pts_C,Vinícius
+396,1,01:04,CAX,20,16,,
+397,1,01:15,MIN,20,16,substituicao_entra,Simmons 
+398,1,01:15,MIN,20,16,substituicao_sai,Sosa 
+399,1,01:18,MIN,20,16,2_Pts_C,Ansaloni
+400,1,01:18,MIN,18,16,,
+401,1,01:37,CAX,18,16,,
+402,1,01:37,CAX,18,16,LL_Pts_C,Dida
+403,1,01:37,CAX,18,15,LL_Pts_T,Dida
+404,1,01:37,CAX,18,15,FR,Dida
+405,1,01:37,MIN,18,15,FC,Ansaloni
+406,1,01:39,MIN,18,15,substituicao_entra,Carioca 
+407,1,01:39,MIN,18,15,substituicao_sai,Coelho 
+408,1,01:39,CAX,18,15,FR,Betinho
+409,1,01:39,MIN,18,15,FC,Siqueira
+410,1,01:49,MIN,18,15,2_Pts_C,Coelho
+411,1,01:57,MIN,16,15,RD, Ansaloni
+412,1,01:57,CAX,16,15,2_Pts_T,Alex
+413,1,02:16,CAX,16,15,RD, Caxias do Sul
+414,1,02:16,MIN,16,15,3_Pts_T,Coelho
+415,1,02:28,CAX,16,15,substituicao_entra,Vinícius 
+416,1,02:28,CAX,16,15,substituicao_sai,Gustavinho 
+417,1,02:29,MIN,16,15,FR,Coelho
+418,1,02:29,CAX,16,15,FC,Dida
+419,1,02:52,CAX,16,15,ER,Alex
+420,1,02:58,CAX,16,15,BR,Diego
+421,1,02:58,MIN,16,15,ER,Siqueira
+422,1,03:18,CAX,16,15,LL_Pts_C,Alex
+423,1,03:18,CAX,16,14,,
+424,1,03:18,CAX,16,14,LL_Pts_C,Alex
+425,1,03:18,CAX,16,13,substituicao_entra,Diego 
+426,1,03:18,CAX,16,13,substituicao_sai,R  Stabile 
+427,1,03:18,MIN,16,13,substituicao_sai,Shilton 
+428,1,03:18,MIN,16,13,substituicao_entra,Ansaloni 
+429,1,03:18,CAX,16,13,FR,Alex
+430,1,03:18,MIN,16,13,FC,Siqueira
+431,1,03:21,CAX,16,13,RO, Dida
+432,1,03:21,CAX,16,13,2_Pts_T,Dida
+433,1,03:46,MIN,16,13,3_Pts_C,Siqueira
+434,1,03:46,MIN,13,13,,
+435,1,03:46,MIN,13,13,FR,Léo Demétrio
+436,1,03:46,CAX,13,13,FC,Dida
+437,1,04:09,MIN,13,13,substituicao_entra,Siqueira 
+438,1,04:09,MIN,13,13,substituicao_sai,Simmons 
+439,1,04:09,CAX,13,13,,
+440,1,04:09,CAX,13,13,LL_Pts_C,Dida
+441,1,04:09,CAX,13,12,LL_Pts_T,Dida
+442,1,04:09,CAX,13,12,FR,Dida
+443,1,04:09,MIN,13,12,FC,Shilton
+444,1,04:25,CAX,13,12,substituicao_entra,Dida 
+445,1,04:25,CAX,13,12,substituicao_entra,Alex 
+446,1,04:25,CAX,13,12,substituicao_sai,Guto 
+447,1,04:25,CAX,13,12,substituicao_sai,Marcão 
+448,1,04:25,CAX,13,12,,
+449,1,04:25,MIN,13,12,ER,Sosa
+450,1,04:36,CAX,13,12,3_Pts_C,Betinho
+451,1,04:36,CAX,13,9,,
+452,1,04:57,MIN,13,9,3_Pts_C,Simmons
+453,1,04:57,MIN,10,9,,
+454,1,05:07,MIN,10,9,RD, Simmons
+455,1,05:07,CAX,10,9,3_Pts_T,R  Stabile
+456,1,05:18,CAX,10,9,RD, Marcão
+457,1,05:18,MIN,10,9,2_Pts_T,Léo Demétrio
+458,1,05:29,MIN,10,9,FR,Léo Demétrio
+459,1,05:29,CAX,10,9,FC,Marcão
+460,1,05:39,MIN,10,9,RD, Léo Demétrio
+461,1,05:39,CAX,10,9,3_Pts_T,Guto
+462,1,05:53,MIN,10,9,2_Pts_C,Sosa
+463,1,05:53,MIN,8,9,,
+464,1,06:06,MIN,8,9,RD, Shilton
+465,1,06:06,CAX,8,9,2_Pts_T,Marcão
+466,1,06:26,MIN,8,9,2_Pts_C,Simmons
+467,1,06:26,MIN,6,9,,
+468,1,06:33,MIN,6,9,RD, Shilton
+469,1,06:33,CAX,6,9,2_Pts_T,Gustavinho
+470,1,06:52,CAX,6,9,RD, Marcão
+471,1,06:52,MIN,6,9,3_Pts_T,Sosa
+472,1,07:10,CAX,6,9,3_Pts_C,Betinho
+473,1,07:10,CAX,6,6,,
+474,1,07:29,MIN,6,6,2_Pts_C,Sosa
+475,1,07:36,MIN,4,6,FR,Coelho
+476,1,07:36,CAX,4,6,FC,R  Stabile
+477,1,07:42,CAX,4,6,2_Pts_C,Betinho
+478,1,07:57,MIN,4,4,2_Pts_C,Léo Demétrio
+479,1,08:05,MIN,2,4,RO, Minas
+480,1,08:05,MIN,2,4,2_Pts_T,Simmons
+481,1,08:24,CAX,2,4,ER,Marcão
+482,1,08:43,CAX,2,4,FR,Betinho
+483,1,08:43,MIN,2,4,FC_O,Sosa
+484,1,08:57,CAX,2,4,EN,R  Stabile
+485,1,08:57,CAX,2,2,,
+486,1,09:02,CAX,2,2,BR,R  Stabile
+487,1,09:02,MIN,2,2,ER,Sosa
+488,1,09:21,CAX,2,2,2_Pts_C,Betinho
+489,1,09:46,MIN,2,0,2_Pts_C,Simmons
+490,1,10:00,CAX,0,0,substituicao_entra,Betinho 
+491,1,10:00,CAX,0,0,substituicao_entra,R  Stabile 
+492,1,10:00,CAX,0,0,substituicao_entra,Guto 
+493,1,10:00,CAX,0,0,substituicao_entra,Marcão 
+494,1,10:00,CAX,0,0,substituicao_entra,Gustavinho 
+495,1,10:00,MIN,0,0,substituicao_entra,Sosa 
+496,1,10:00,MIN,0,0,substituicao_entra,Léo Demétrio 
+497,1,10:00,MIN,0,0,substituicao_entra,Coelho 
+498,1,10:00,MIN,0,0,substituicao_entra,Shilton 
+499,1,10:00,MIN,0,0,substituicao_entra,Simmons 

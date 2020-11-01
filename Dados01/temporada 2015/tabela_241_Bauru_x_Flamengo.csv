@@ -1,0 +1,483 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,77,83,fim_partida, 
+1,4,00:00,FLA,77,83,RD, Flamengo
+2,4,00:07,BAU,77,83,3_Pts_T,Jefferson W 
+3,4,00:07,BAU,77,83,RO, Bauru
+4,4,00:07,BAU,77,83,3_Pts_T,Léo Meindl
+5,4,00:12,FLA,77,83,LL_Pts_C,Rafa Luz
+6,4,00:12,FLA,77,82,LL_Pts_C,Rafa Luz
+7,4,00:12,FLA,77,81,FR,Rafa Luz
+8,4,00:12,BAU,77,81,FC,Hettsheimeir
+9,4,00:12,FLA,77,81,RD, Rafa Luz
+10,4,00:12,BAU,77,81,3_Pts_T,Jefferson W 
+11,4,00:16,BAU,77,81,substituicao_sai,Paulinho Boracini 
+12,4,00:16,BAU,77,81,substituicao_entra,Léo Meindl 
+13,4,00:16,FLA,77,81,substituicao_sai,JP Batista 
+14,4,00:16,FLA,77,81,substituicao_entra,Rafa Luz 
+15,4,00:16,BAU,77,81,tempo_tecnico, Bauru
+16,4,00:16,FLA,77,81,LL_Pts_C,Marcelinho
+17,4,00:16,FLA,77,80,LL_Pts_C,Marcelinho
+18,4,00:16,FLA,77,79,FR,Marcelinho
+19,4,00:16,BAU,77,79,FC,Robert Day
+20,4,00:18,FLA,77,79,substituicao_sai,Rafael Mineiro 
+21,4,00:18,FLA,77,79,substituicao_entra,JP Batista 
+22,4,00:18,FLA,77,79,tempo_tecnico, Flamengo
+23,4,00:18,BAU,77,79,2_Pts_C,Hettsheimeir
+24,4,00:18,BAU,75,79,,
+25,4,00:45,BAU,75,79,RD, Hettsheimeir
+26,4,00:45,FLA,75,79,LL_Pts_T,Rafael Mineiro
+27,4,00:45,FLA,75,79,LL_Pts_T,Rafael Mineiro
+28,4,00:45,FLA,75,79,FR,Rafael Mineiro
+29,4,00:45,BAU,75,79,FC,Alex Garcia
+30,4,00:58,FLA,75,79,FR,Olivinha
+31,4,00:58,BAU,75,79,FC,Paulinho Boracini
+32,4,01:00,FLA,75,79,RD, Olivinha
+33,4,01:00,BAU,75,79,2_Pts_T,Paulinho Boracini
+34,4,01:21,BAU,75,79,,
+35,4,01:21,FLA,75,79,ER,Olivinha
+36,4,01:22,BAU,75,79,LL_Pts_C,Hettsheimeir
+37,4,01:22,BAU,74,79,FR,Hettsheimeir
+38,4,01:22,FLA,74,79,FC,Rafael Mineiro
+39,4,01:28,BAU,74,79,2_Pts_C,Hettsheimeir
+40,4,01:32,BAU,72,79,RO, Hettsheimeir
+41,4,01:32,BAU,72,79,2_Pts_T,Hettsheimeir
+42,4,01:45,FLA,72,79,ER,Ronald Ramon
+43,4,02:00,FLA,72,79,RD, Olivinha
+44,4,02:00,FLA,72,79,TO,Rafael Mineiro
+45,4,02:00,BAU,72,79,2_Pts_T,Paulinho Boracini
+46,4,02:13,BAU,72,79,RD, Paulinho Boracini
+47,4,02:13,FLA,72,79,3_Pts_T,Rafael Mineiro
+48,4,02:23,BAU,72,79,2_Pts_C,Jefferson W 
+49,4,02:29,BAU,70,79,RO, Jefferson W 
+50,4,02:29,BAU,70,79,3_Pts_T,Paulinho Boracini
+51,4,02:52,BAU,70,79,tempo_tecnico, Bauru
+52,4,02:52,FLA,70,79,3_Pts_C,Olivinha
+53,4,02:52,FLA,70,76,,
+54,4,03:09,FLA,70,76,BR,Marquinhos
+55,4,03:09,BAU,70,76,ER,Hettsheimeir
+56,4,03:12,BAU,70,76,RO, Hettsheimeir
+57,4,03:12,BAU,70,76,LL_Pts_T,Alex Garcia
+58,4,03:12,BAU,70,76,LL_Pts_C,Alex Garcia
+59,4,03:12,BAU,69,76,FR,Alex Garcia
+60,4,03:12,FLA,69,76,FC,Marquinhos
+61,4,03:16,BAU,69,76,RD, Hettsheimeir
+62,4,03:16,FLA,69,76,3_Pts_T,Marcelinho
+63,4,03:26,FLA,69,76,RO, Flamengo
+64,4,03:26,FLA,69,76,2_Pts_T,Rafael Mineiro
+65,4,03:46,BAU,69,76,LL_Pts_C,Hettsheimeir
+66,4,03:46,BAU,68,76,LL_Pts_C,Hettsheimeir
+67,4,03:46,FLA,67,76,substituicao_sai,JP Batista 
+68,4,03:46,FLA,67,76,substituicao_entra,Rafael Mineiro 
+69,4,03:46,BAU,67,76,FR,Hettsheimeir
+70,4,03:46,FLA,67,76,FC,Marquinhos
+71,4,03:46,BAU,67,76,2_Pts_T,Hettsheimeir
+72,4,04:02,BAU,67,76,FR,Jefferson W 
+73,4,04:02,FLA,67,76,FC_O,Olivinha
+74,4,04:19,FLA,67,76,RD, Marcelinho
+75,4,04:19,BAU,67,76,3_Pts_T,Jefferson W 
+76,4,04:38,FLA,67,76,3_Pts_C,Marcelinho
+77,4,04:50,FLA,67,73,FR,Marquinhos
+78,4,04:50,BAU,67,73,FC,Alex Garcia
+79,4,05:01,FLA,67,73,,
+80,4,05:01,BAU,67,73,ER,Hettsheimeir
+81,4,05:06,BAU,67,73,BR,Robert Day
+82,4,05:06,FLA,67,73,ER,Marquinhos
+83,4,05:26,FLA,67,73,substituicao_sai,Rafa Luz 
+84,4,05:26,FLA,67,73,substituicao_entra,Marquinhos 
+85,4,05:26,FLA,67,73,tempo_tecnico, Flamengo
+86,4,05:26,BAU,67,73,3_Pts_C,Jefferson W 
+87,4,05:26,BAU,64,73,,
+88,4,05:28,BAU,64,73,FR,Hettsheimeir
+89,4,05:28,FLA,64,73,FC,Rafa Luz
+90,4,05:39,BAU,64,73,,
+91,4,05:39,FLA,64,73,ER,Marcelinho
+92,4,05:53,BAU,64,73,LL_Pts_C,Hettsheimeir
+93,4,05:53,BAU,63,73,LL_Pts_C,Hettsheimeir
+94,4,05:53,BAU,62,73,FR,Hettsheimeir
+95,4,05:53,FLA,62,73,FC,JP Batista
+96,4,06:03,BAU,62,73,BR,Paulinho Boracini
+97,4,06:03,FLA,62,73,ER,Rafa Luz
+98,4,06:16,FLA,62,73,,
+99,4,06:16,BAU,62,73,ER,Alex Garcia
+100,4,06:23,BAU,62,73,RO, Robert Day
+101,4,06:23,BAU,62,73,3_Pts_T,Hettsheimeir
+102,4,06:34,FLA,62,73,2_Pts_C,Rafa Luz
+103,4,06:34,FLA,62,71,,
+104,4,06:52,BAU,62,71,ER,Hettsheimeir
+105,4,07:10,BAU,62,71,substituicao_sai,Léo Meindl 
+106,4,07:10,BAU,62,71,substituicao_entra,Robert Day 
+107,4,07:10,BAU,62,71,tempo_tecnico, Bauru
+108,4,07:10,FLA,62,71,2_Pts_C,Ronald Ramon
+109,4,07:31,FLA,62,69,substituicao_sai,Marquinhos 
+110,4,07:31,FLA,62,69,substituicao_entra,Rafa Luz 
+111,4,07:31,FLA,62,69,LL_Pts_C,Marcelinho
+112,4,07:31,BAU,62,68,FC_T,Jefferson W 
+113,4,07:31,FLA,62,68,RD, Flamengo
+114,4,07:31,FLA,62,68,TO,Marquinhos
+115,4,07:31,BAU,62,68,2_Pts_T,Jefferson W 
+116,4,07:50,FLA,62,68,2_Pts_C,Olivinha
+117,4,07:50,FLA,62,66,,
+118,4,07:58,FLA,62,66,RD, Marquinhos
+119,4,07:58,BAU,62,66,2_Pts_T,Léo Meindl
+120,4,08:09,BAU,62,66,substituicao_sai,Gui Santos 
+121,4,08:09,BAU,62,66,substituicao_entra,Paulinho Boracini 
+122,4,08:09,BAU,62,66,substituicao_sai,Murilo 
+123,4,08:09,BAU,62,66,substituicao_entra,Hettsheimeir 
+124,4,08:09,BAU,62,66,FR,Murilo
+125,4,08:09,FLA,62,66,FC,Marcelinho
+126,4,08:32,FLA,62,66,2_Pts_C,Olivinha
+127,4,08:32,FLA,62,64,,
+128,4,08:40,FLA,62,64,RD, JP Batista
+129,4,08:40,BAU,62,64,2_Pts_T,Jefferson W 
+130,4,09:02,FLA,62,64,LL_Pts_C,Marquinhos
+131,4,09:02,FLA,62,63,LL_Pts_C,Marquinhos
+132,4,09:02,FLA,62,62,FR,Marquinhos
+133,4,09:02,BAU,62,62,FC,Murilo
+134,4,09:14,FLA,62,62,RD, Ronald Ramon
+135,4,09:14,BAU,62,62,3_Pts_T,Jefferson W 
+136,4,09:37,FLA,62,62,2_Pts_C,JP Batista
+137,4,09:45,FLA,62,60,RO, Flamengo
+138,4,09:45,FLA,62,60,3_Pts_T,Marcelinho
+139,3,00:00,NaN.,62,60,fim_quarto, 
+140,3,00:00,FLA,62,60,,
+141,3,00:01,BAU,62,60,RD, Léo Meindl
+142,3,00:01,FLA,62,60,2_Pts_T,Marquinhos
+143,3,00:21,BAU,62,60,substituicao_sai,Alex Garcia 
+144,3,00:21,BAU,62,60,substituicao_entra,Léo 
+145,3,00:21,BAU,62,60,substituicao_sai,Jefferson W  
+146,3,00:21,BAU,62,60,substituicao_entra,Wesley  
+147,3,00:21,BAU,62,60,LL_Pts_C,Léo Meindl
+148,3,00:21,BAU,61,60,LL_Pts_T,Léo Meindl
+149,3,00:21,BAU,61,60,FR,Léo Meindl
+150,3,00:21,FLA,61,60,FC,Marcelinho
+151,3,00:35,FLA,61,60,3_Pts_C,Ronald Ramon
+152,3,00:35,FLA,61,57,,
+153,3,00:59,BAU,61,57,3_Pts_C,Jefferson W 
+154,3,00:59,BAU,58,57,,
+155,3,01:07,BAU,58,57,RD, Léo Meindl
+156,3,01:07,FLA,58,57,2_Pts_T,JP Batista
+157,3,01:21,BAU,58,57,2_Pts_C,Jefferson W 
+158,3,01:35,FLA,56,57,LL_Pts_C,JP Batista
+159,3,01:35,FLA,56,56,FR,JP Batista
+160,3,01:35,BAU,56,56,FC,Jefferson W 
+161,3,01:35,FLA,56,56,2_Pts_C,JP Batista
+162,3,01:44,FLA,56,54,RD, Ronald Ramon
+163,3,01:44,BAU,56,54,3_Pts_T,Alex Garcia
+164,3,02:01,FLA,56,54,substituicao_entra,Marquinhos 
+165,3,02:01,FLA,56,54,substituicao_sai,Rafa Luz 
+166,3,02:03,BAU,56,54,RD, Bauru
+167,3,02:03,FLA,56,54,3_Pts_T,Marcelinho
+168,3,02:25,BAU,56,54,3_Pts_C,Alex Garcia
+169,3,02:25,BAU,53,54,,
+170,3,02:49,FLA,53,54,LL_Pts_C,Marcelinho
+171,3,02:49,FLA,53,53,LL_Pts_C,Marcelinho
+172,3,02:49,BAU,53,52,substituicao_entra,Gui Santos 
+173,3,02:49,BAU,53,52,substituicao_sai,Robert Day 
+174,3,02:49,FLA,53,52,FR,Marcelinho
+175,3,02:49,BAU,53,52,FC,Robert Day
+176,3,03:00,BAU,53,52,LL_Pts_C,Murilo
+177,3,03:00,FLA,52,52,substituicao_entra,JP Batista 
+178,3,03:00,FLA,52,52,substituicao_sai,Meyinsse 
+179,3,03:00,BAU,52,52,FR,Murilo
+180,3,03:00,FLA,52,52,FC,Marcelinho
+181,3,03:00,BAU,52,52,2_Pts_C,Murilo
+182,3,03:00,BAU,50,52,RO, Murilo
+183,3,03:00,BAU,50,52,2_Pts_T,Léo Meindl
+184,3,03:09,BAU,50,52,RO, Bauru
+185,3,03:09,BAU,50,52,LL_Pts_T,Jefferson W 
+186,3,03:09,BAU,50,52,LL_Pts_T,Jefferson W 
+187,3,03:09,BAU,50,52,substituicao_sai,Hettsheimeir 
+188,3,03:09,BAU,50,52,substituicao_entra,Murilo 
+189,3,03:09,FLA,50,52,substituicao_entra,Marcelinho 
+190,3,03:09,FLA,50,52,substituicao_sai,Marquinhos 
+191,3,03:09,BAU,50,52,FR,Jefferson W 
+192,3,03:09,FLA,50,52,FC,Rafa Luz
+193,3,03:23,BAU,50,52,RD, Léo Meindl
+194,3,03:23,BAU,50,52,TO,Léo Meindl
+195,3,03:23,FLA,50,52,2_Pts_T,Ronald Ramon
+196,3,03:44,FLA,50,52,RD, Marquinhos
+197,3,03:44,BAU,50,52,3_Pts_T,Alex Garcia
+198,3,04:00,BAU,50,52,RD, Hettsheimeir
+199,3,04:00,FLA,50,52,3_Pts_T,Olivinha
+200,3,04:20,BAU,50,52,2_Pts_C,Hettsheimeir
+201,3,04:20,BAU,48,52,,
+202,3,04:39,FLA,48,52,LL_Pts_C,Olivinha
+203,3,04:39,FLA,48,51,LL_Pts_C,Olivinha
+204,3,04:39,FLA,48,50,FR,Olivinha
+205,3,04:39,BAU,48,50,FC,Jefferson W 
+206,3,04:43,FLA,48,50,RD, Olivinha
+207,3,04:43,BAU,48,50,2_Pts_T,Alex Garcia
+208,3,04:53,BAU,48,50,FR,Hettsheimeir
+209,3,04:53,FLA,48,50,FC,Marquinhos
+210,3,05:04,BAU,48,50,RD, Jefferson W 
+211,3,05:04,FLA,48,50,3_Pts_T,Marquinhos
+212,3,05:22,BAU,48,50,3_Pts_C,Jefferson W 
+213,3,05:22,BAU,45,50,,
+214,3,05:30,BAU,45,50,BR,Léo Meindl
+215,3,05:30,FLA,45,50,ER,Marquinhos
+216,3,05:48,BAU,45,50,2_Pts_C,Hettsheimeir
+217,3,06:13,FLA,43,50,RO, Meyinsse
+218,3,06:13,FLA,43,50,LL_Pts_T,Rafa Luz
+219,3,06:13,FLA,43,50,LL_Pts_C,Rafa Luz
+220,3,06:13,FLA,43,49,substituicao_entra,Meyinsse 
+221,3,06:13,FLA,43,49,substituicao_sai,Rafael Mineiro 
+222,3,06:13,BAU,43,49,substituicao_entra,Léo Meindl 
+223,3,06:13,BAU,43,49,substituicao_sai,Paulinho Boracini 
+224,3,06:13,FLA,43,49,FR,Rafa Luz
+225,3,06:13,BAU,43,49,FC,Paulinho Boracini
+226,3,06:18,FLA,43,49,RD, Rafa Luz
+227,3,06:18,BAU,43,49,2_Pts_T,Robert Day
+228,3,06:38,FLA,43,49,2_Pts_C,Marquinhos
+229,3,06:38,FLA,43,47,,
+230,3,06:50,BAU,43,47,ER,Paulinho Boracini
+231,3,06:55,FLA,43,47,2_Pts_C,Rafael Mineiro
+232,3,06:55,FLA,43,45,,
+233,3,07:18,BAU,43,45,LL_Pts_C,Hettsheimeir
+234,3,07:18,BAU,42,45,LL_Pts_C,Hettsheimeir
+235,3,07:18,BAU,41,45,FR,Hettsheimeir
+236,3,07:18,FLA,41,45,FC,Rafael Mineiro
+237,3,07:34,FLA,41,45,LL_Pts_C,Olivinha
+238,3,07:34,FLA,41,44,FR,Olivinha
+239,3,07:34,BAU,41,44,FC,Hettsheimeir
+240,3,07:34,FLA,41,44,2_Pts_C,Olivinha
+241,3,07:45,FLA,41,42,RD, Rafael Mineiro
+242,3,07:45,BAU,41,42,3_Pts_T,Hettsheimeir
+243,3,08:00,BAU,41,42,FR,Robert Day
+244,3,08:00,FLA,41,42,FC,Rafael Mineiro
+245,3,08:00,BAU,41,42,RD, Robert Day
+246,3,08:00,FLA,41,42,2_Pts_T,Olivinha
+247,3,08:25,BAU,41,42,2_Pts_C,Jefferson W 
+248,3,08:33,BAU,39,42,FR,Alex Garcia
+249,3,08:33,FLA,39,42,FC,Olivinha
+250,3,08:46,FLA,39,42,2_Pts_C,Rafael Mineiro
+251,3,08:46,FLA,39,40,,
+252,3,08:58,FLA,39,40,FR,Ronald Ramon
+253,3,08:58,BAU,39,40,FC,Alex Garcia
+254,3,09:11,FLA,39,40,RD, Ronald Ramon
+255,3,09:11,BAU,39,40,3_Pts_T,Robert Day
+256,3,09:31,FLA,39,40,2_Pts_C,Olivinha
+257,3,09:35,FLA,39,38,RO, Olivinha
+258,3,09:35,FLA,39,38,2_Pts_T,Olivinha
+259,3,09:43,FLA,39,38,FR,Ronald Ramon
+260,3,09:43,BAU,39,38,FC,Alex Garcia
+261,3,09:43,FLA,39,38,RO, Flamengo
+262,3,09:43,BAU,39,38,TO,Jefferson W 
+263,3,09:43,FLA,39,38,2_Pts_T,Rafael Mineiro
+264,3,09:48,FLA,39,38,FR,Olivinha
+265,3,09:48,BAU,39,38,FC,Paulinho Boracini
+266,2,00:00,NaN.,39,38,fim_quarto, 
+267,2,00:00,NaN.,39,38,fim_quarto, 
+268,2,00:01,FLA,39,38,3_Pts_T,Marquinhos
+269,2,00:02,FLA,39,38,tempo_tecnico, Flamengo
+270,2,00:02,BAU,39,38,2_Pts_C,Alex Garcia
+271,2,00:08,FLA,37,38,2_Pts_C,Rafa Luz
+272,2,00:28,BAU,37,36,2_Pts_C,Paulinho Boracini
+273,2,00:42,BAU,35,36,BR,Léo Meindl
+274,2,00:42,FLA,35,36,ER,Marcelinho
+275,2,01:00,BAU,35,36,3_Pts_C,Jefferson W 
+276,2,01:00,BAU,32,36,,
+277,2,01:10,BAU,32,36,substituicao_sai,Wesley  
+278,2,01:10,BAU,32,36,substituicao_entra,Jefferson W  
+279,2,01:11,BAU,32,36,tempo_tecnico, Bauru
+280,2,01:11,FLA,32,36,3_Pts_C,Marcelinho
+281,2,01:11,FLA,32,33,,
+282,2,01:17,FLA,32,33,RO, Rafael Mineiro
+283,2,01:17,FLA,32,33,3_Pts_T,Marcelinho
+284,2,01:36,FLA,32,33,RD, Rafa Luz
+285,2,01:36,BAU,32,33,LL_Pts_T,Hettsheimeir
+286,2,01:36,BAU,32,33,LL_Pts_C,Hettsheimeir
+287,2,01:36,BAU,31,33,substituicao_entra,Alex Garcia 
+288,2,01:36,BAU,31,33,substituicao_sai,Robert Day 
+289,2,01:36,BAU,31,33,FR,Hettsheimeir
+290,2,01:36,FLA,31,33,FC,Meyinsse
+291,2,01:48,BAU,31,33,RD, Hettsheimeir
+292,2,01:48,FLA,31,33,2_Pts_T,Meyinsse
+293,2,01:59,FLA,31,33,RD, Marcelinho
+294,2,01:59,BAU,31,33,3_Pts_T,Hettsheimeir
+295,2,02:21,FLA,31,33,2_Pts_C,Rafael Mineiro
+296,2,02:44,FLA,31,31,RO, Flamengo
+297,2,02:44,FLA,31,31,LL_Pts_T,Rafa Luz
+298,2,02:44,FLA,31,31,FR,Rafa Luz
+299,2,02:44,BAU,31,31,FC,Wesley 
+300,2,02:44,FLA,31,31,2_Pts_C,Rafa Luz
+301,2,02:53,FLA,31,29,RO, Rafael Mineiro
+302,2,02:53,FLA,31,29,3_Pts_T,Marcelinho
+303,2,03:00,BAU,31,29,substituicao_entra,Wesley  
+304,2,03:00,BAU,31,29,substituicao_sai,Jefferson W  
+305,2,03:00,BAU,31,29,LL_Pts_C,Jefferson W 
+306,2,03:00,BAU,30,29,LL_Pts_C,Jefferson W 
+307,2,03:00,BAU,29,29,FR,Jefferson W 
+308,2,03:00,FLA,29,29,FC,Rafa Luz
+309,2,03:13,FLA,29,29,LL_Pts_C,Marquinhos
+310,2,03:13,FLA,29,28,LL_Pts_C,Marquinhos
+311,2,03:13,FLA,29,27,substituicao_sai,Gegê 
+312,2,03:13,FLA,29,27,substituicao_entra,Rafa Luz 
+313,2,03:13,FLA,29,27,FR,Marquinhos
+314,2,03:13,BAU,29,27,FC,Robert Day
+315,2,03:25,BAU,29,27,3_Pts_C,Hettsheimeir
+316,2,03:25,BAU,26,27,,
+317,2,03:38,FLA,26,27,substituicao_entra,Meyinsse 
+318,2,03:38,FLA,26,27,substituicao_sai,JP Batista 
+319,2,03:40,BAU,26,27,RD, Bauru
+320,2,03:40,FLA,26,27,3_Pts_T,Gegê
+321,2,03:57,BAU,26,27,2_Pts_C,Hettsheimeir
+322,2,04:16,BAU,24,27,substituicao_entra,Robert Day 
+323,2,04:16,BAU,24,27,substituicao_sai,Alex Garcia 
+324,2,04:16,BAU,24,27,,
+325,2,04:16,FLA,24,27,ER,JP Batista
+326,2,04:29,FLA,24,27,BR,JP Batista
+327,2,04:29,BAU,24,27,ER,Alex Garcia
+328,2,04:38,FLA,24,27,ER,JP Batista
+329,2,04:39,FLA,24,27,RO, JP Batista
+330,2,04:39,FLA,24,27,2_Pts_T,Rafael Mineiro
+331,2,05:00,BAU,24,27,2_Pts_C,Hettsheimeir
+332,2,05:00,BAU,22,27,,
+333,2,05:09,BAU,22,27,FR,Alex Garcia
+334,2,05:09,FLA,22,27,FC,Gegê
+335,2,05:10,BAU,22,27,RO, Alex Garcia
+336,2,05:10,BAU,22,27,3_Pts_T,Alex Garcia
+337,2,05:33,FLA,22,27,2_Pts_C,JP Batista
+338,2,05:33,FLA,22,25,,
+339,2,06:03,BAU,22,25,LL_Pts_C,Alex Garcia
+340,2,06:03,BAU,21,25,LL_Pts_T,Alex Garcia
+341,2,06:03,BAU,21,25,FR,Alex Garcia
+342,2,06:03,FLA,21,25,FC,Rafael Mineiro
+343,2,06:29,BAU,21,25,tempo_tecnico, Bauru
+344,2,06:29,FLA,21,25,2_Pts_C,JP Batista
+345,2,06:29,FLA,21,23,,
+346,2,06:29,FLA,21,23,RD, Gegê
+347,2,06:29,BAU,21,23,3_Pts_T,Léo Meindl
+348,2,06:29,FLA,21,23,2_Pts_C,Rafael Mineiro
+349,2,06:29,FLA,21,21,,
+350,2,06:30,FLA,21,21,substituicao_entra,Marquinhos 
+351,2,06:30,FLA,21,21,substituicao_sai,Ronald Ramon 
+352,2,06:43,BAU,21,21,substituicao_entra,Paulinho Boracini 
+353,2,06:43,BAU,21,21,substituicao_sai,Robert Day 
+354,2,06:45,BAU,21,21,substituicao_entra,Hettsheimeir 
+355,2,06:45,BAU,21,21,substituicao_sai,Murilo 
+356,2,07:17,FLA,21,21,3_Pts_T,Ronald Ramon
+357,2,07:23,FLA,21,21,RO, Marcelinho
+358,2,07:23,FLA,21,21,2_Pts_T,Marcelinho
+359,2,07:35,FLA,21,21,RD, Marcelinho
+360,2,07:35,BAU,21,21,2_Pts_T,Murilo
+361,2,07:45,BAU,21,21,RD, Alex Garcia
+362,2,07:45,FLA,21,21,3_Pts_T,Gegê
+363,2,07:54,FLA,21,21,BR,Gegê
+364,2,07:54,BAU,21,21,ER,Murilo
+365,2,08:13,FLA,21,21,LL_Pts_C,Ronald Ramon
+366,2,08:13,FLA,21,20,FR,Ronald Ramon
+367,2,08:13,BAU,21,20,FC,Léo Meindl
+368,2,08:13,FLA,21,20,2_Pts_C,Ronald Ramon
+369,2,08:28,FLA,21,18,RD, Flamengo
+370,2,08:28,BAU,21,18,2_Pts_T,Jefferson W 
+371,2,09:01,FLA,21,18,2_Pts_C,JP Batista
+372,2,09:01,FLA,21,16,,
+373,2,09:01,FLA,21,16,FR,Ronald Ramon
+374,2,09:01,BAU,21,16,FC,Murilo
+375,2,09:11,FLA,21,16,RD, JP Batista
+376,2,09:11,BAU,21,16,LL_Pts_T,Léo Meindl
+377,2,09:11,BAU,21,16,LL_Pts_C,Léo Meindl
+378,2,09:11,BAU,20,16,FR,Léo Meindl
+379,2,09:11,FLA,20,16,FC,Ronald Ramon
+380,2,09:25,FLA,20,16,2_Pts_C,JP Batista
+381,2,09:25,FLA,20,14,,
+382,2,09:42,BAU,20,14,LL_Pts_C,Murilo
+383,2,09:42,BAU,19,14,LL_Pts_T,Murilo
+384,2,09:42,BAU,19,14,FR,Murilo
+385,2,09:42,FLA,19,14,FC,Ronald Ramon
+386,2,09:47,BAU,19,14,RO, Murilo
+387,2,09:47,BAU,19,14,2_Pts_T,Alex Garcia
+388,1,00:00,NaN.,19,14,fim_quarto, 
+389,1,00:00,NaN.,19,14,fim_quarto, 
+390,1,00:01,BAU,19,14,3_Pts_T,Alex Garcia
+391,1,00:07,FLA,19,14,2_Pts_C,Ronald Ramon
+392,1,00:32,BAU,19,12,2_Pts_C,Robert Day
+393,1,00:32,BAU,17,12,,
+394,1,00:40,BAU,17,12,BR,Robert Day
+395,1,00:40,FLA,17,12,ER,Marquinhos
+396,1,01:03,BAU,17,12,3_Pts_C,Alex Garcia
+397,1,01:03,BAU,14,12,,
+398,1,01:24,BAU,14,12,RD, Jefferson W 
+399,1,01:24,FLA,14,12,3_Pts_T,Ronald Ramon
+400,1,01:30,FLA,14,12,BR,Olivinha
+401,1,01:30,BAU,14,12,ER,Paulinho Boracini
+402,1,01:39,BAU,14,12,RD, Robert Day
+403,1,01:39,FLA,14,12,2_Pts_T,JP Batista
+404,1,01:53,FLA,14,12,RD, JP Batista
+405,1,01:53,BAU,14,12,LL_Pts_T,Hettsheimeir
+406,1,01:53,FLA,14,12,substituicao_entra,Gegê 
+407,1,01:53,FLA,14,12,substituicao_sai,Rafa Luz 
+408,1,01:53,BAU,14,12,FR,Hettsheimeir
+409,1,01:53,FLA,14,12,FC,Rafa Luz
+410,1,01:53,BAU,14,12,2_Pts_C,Hettsheimeir
+411,1,01:53,BAU,12,12,,
+412,1,02:02,BAU,12,12,FR,Alex Garcia
+413,1,02:02,FLA,12,12,FC,JP Batista
+414,1,02:11,FLA,12,12,LL_Pts_C,Ronald Ramon
+415,1,02:11,FLA,12,11,LL_Pts_C,Ronald Ramon
+416,1,02:11,FLA,12,10,FR,Ronald Ramon
+417,1,02:11,BAU,12,10,FC,Robert Day
+418,1,02:28,FLA,12,10,RD, Ronald Ramon
+419,1,02:28,BAU,12,10,3_Pts_T,Paulinho Boracini
+420,1,02:39,BAU,12,10,RD, Paulinho Boracini
+421,1,02:39,FLA,12,10,3_Pts_T,Rafa Luz
+422,1,03:01,FLA,12,10,substituicao_entra,JP Batista 
+423,1,03:01,FLA,12,10,substituicao_sai,Meyinsse 
+424,1,03:01,FLA,12,10,FR,Ronald Ramon
+425,1,03:01,BAU,12,10,FC_O,Hettsheimeir
+426,1,03:17,FLA,12,10,ER,
+427,1,03:44,BAU,12,10,3_Pts_C,Robert Day
+428,1,03:44,BAU,9,10,,
+429,1,03:51,BAU,9,10,FR,Alex Garcia
+430,1,03:51,FLA,9,10,FC,Meyinsse
+431,1,04:10,FLA,9,10,3_Pts_C,Marquinhos
+432,1,04:33,FLA,9,7,RD, Olivinha
+433,1,04:33,BAU,9,7,3_Pts_T,Jefferson W 
+434,1,04:52,BAU,9,7,RD, Bauru
+435,1,04:52,FLA,9,7,2_Pts_T,Rafa Luz
+436,1,05:14,BAU,9,7,3_Pts_C,Robert Day
+437,1,05:14,BAU,6,7,,
+438,1,05:35,FLA,6,7,3_Pts_C,Ronald Ramon
+439,1,05:35,FLA,6,4,,
+440,1,05:57,BAU,6,4,2_Pts_C,Paulinho Boracini
+441,1,06:09,BAU,4,4,RD, Jefferson W 
+442,1,06:09,FLA,4,4,2_Pts_T,Rafa Luz
+443,1,06:16,FLA,4,4,RD, Rafa Luz
+444,1,06:16,BAU,4,4,3_Pts_T,Jefferson W 
+445,1,06:22,BAU,4,4,BR,Alex Garcia
+446,1,06:22,FLA,4,4,ER,Marquinhos
+447,1,06:35,BAU,4,4,2_Pts_C,Jefferson W 
+448,1,06:35,BAU,2,4,,
+449,1,06:44,BAU,2,4,RD, Alex Garcia
+450,1,06:44,FLA,2,4,2_Pts_T,Meyinsse
+451,1,07:04,FLA,2,4,RD, Marquinhos
+452,1,07:04,BAU,2,4,3_Pts_T,Alex Garcia
+453,1,07:22,BAU,2,4,RD, Bauru
+454,1,07:22,FLA,2,4,2_Pts_T,Rafa Luz
+455,1,07:32,FLA,2,4,FR,Olivinha
+456,1,07:32,BAU,2,4,FC,Paulinho Boracini
+457,1,07:43,FLA,2,4,RO, Flamengo
+458,1,07:43,FLA,2,4,2_Pts_T,Meyinsse
+459,1,08:02,FLA,2,4,RD, Meyinsse
+460,1,08:02,BAU,2,4,2_Pts_T,Alex Garcia
+461,1,08:19,FLA,2,4,2_Pts_C,Olivinha
+462,1,08:34,FLA,2,2,RD, Rafa Luz
+463,1,08:34,BAU,2,2,3_Pts_T,Robert Day
+464,1,08:34,FLA,2,2,ER,Ronald Ramon
+465,1,09:09,BAU,2,2,2_Pts_C,Jefferson W 
+466,1,09:09,BAU,0,2,,
+467,1,09:25,FLA,0,2,2_Pts_C,Meyinsse
+468,1,09:38,FLA,0,0,RD, Olivinha
+469,1,09:38,BAU,0,0,2_Pts_T,Alex Garcia
+470,1,09:55,BAU,0,0,RD, Hettsheimeir
+471,1,09:55,FLA,0,0,2_Pts_T,Marquinhos
+472,1,10:00,FLA,0,0,substituicao_entra,Meyinsse 
+473,1,10:00,FLA,0,0,substituicao_entra,Olivinha 
+474,1,10:00,FLA,0,0,substituicao_entra,Marquinhos 
+475,1,10:00,FLA,0,0,substituicao_entra,Ronald Ramon 
+476,1,10:00,FLA,0,0,substituicao_entra,Rafa Luz 
+477,1,10:00,BAU,0,0,substituicao_entra,Robert Day 
+478,1,10:00,BAU,0,0,substituicao_entra,Hettsheimeir 
+479,1,10:00,BAU,0,0,substituicao_entra,Jefferson W  
+480,1,10:00,BAU,0,0,substituicao_entra,Alex Garcia 
+481,1,10:00,BAU,0,0,substituicao_entra,Paulinho Boracini 

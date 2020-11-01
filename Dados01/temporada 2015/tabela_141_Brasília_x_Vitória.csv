@@ -1,0 +1,528 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,81,67,fim_partida, 
+1,4,00:16,BRA,81,67,RD, Pilar
+2,4,00:16,VIT,81,67,3_Pts_T,Jairo
+3,4,00:33,BRA,81,67,2_Pts_C,J  Campos
+4,4,00:33,BRA,79,67,,
+5,4,00:40,BRA,79,67,RD, Arthur
+6,4,00:40,VIT,79,67,2_Pts_T,Calvo
+7,4,00:48,BRA,79,67,EN,Pilar
+8,4,00:52,BRA,77,67,BR,Pilar
+9,4,00:52,VIT,77,67,ER,Rafinha
+10,4,00:52,VIT,77,67,tempo_tecnico, Vitória
+11,4,00:52,BRA,77,67,2_Pts_C,Deryk
+12,4,00:53,BRA,75,67,substituicao_entra,J  Campos 
+13,4,00:53,BRA,75,67,substituicao_sai,Deryk 
+14,4,00:53,VIT,75,67,substituicao_entra,Jason Smith 
+15,4,00:53,VIT,75,67,substituicao_sai,Edu 
+16,4,01:13,BRA,75,67,RD, Arthur
+17,4,01:13,BRA,75,67,TO,Cipolini
+18,4,01:13,VIT,75,67,2_Pts_T,Calvo
+19,4,01:23,BRA,75,67,3_Pts_C,Arthur
+20,4,01:23,BRA,72,67,,
+21,4,01:39,VIT,72,67,LL_Pts_C,Rafinha
+22,4,01:39,VIT,72,66,LL_Pts_C,Rafinha
+23,4,01:39,BRA,72,65,substituicao_entra,Arthur 
+24,4,01:39,BRA,72,65,substituicao_sai,J  Campos 
+25,4,01:42,VIT,72,65,substituicao_entra,Renan 
+26,4,01:42,VIT,72,65,substituicao_sai,Pezão 
+27,4,01:42,VIT,72,65,FR,Rafinha
+28,4,01:42,BRA,72,65,FC,Pilar
+29,4,01:56,VIT,72,65,RD, Calvo
+30,4,01:56,BRA,72,65,LL_Pts_T,Pilar
+31,4,01:56,BRA,72,65,LL_Pts_C,Pilar
+32,4,01:56,VIT,71,65,substituicao_entra,Rafinha 
+33,4,01:56,VIT,71,65,substituicao_sai,Jason Smith 
+34,4,01:56,BRA,71,65,FR,Pilar
+35,4,01:56,VIT,71,65,FC,Jairo
+36,4,02:01,BRA,71,65,RO, Pilar
+37,4,02:01,BRA,71,65,3_Pts_T,Deryk
+38,4,02:18,VIT,71,65,3_Pts_C,Jairo
+39,4,02:18,VIT,71,62,,
+40,4,02:34,BRA,71,62,3_Pts_C,Fulvio
+41,4,02:34,BRA,68,62,,
+42,4,02:45,VIT,68,62,LL_Pts_C,Calvo
+43,4,02:45,VIT,68,61,LL_Pts_C,Calvo
+44,4,02:45,VIT,68,60,substituicao_entra,Pezão 
+45,4,02:45,VIT,68,60,substituicao_sai,Renan 
+46,4,02:45,BRA,68,60,substituicao_entra,J  Campos 
+47,4,02:45,BRA,68,60,substituicao_sai,Arthur 
+48,4,02:46,VIT,68,60,FR,Calvo
+49,4,02:46,BRA,68,60,FC,Pilar
+50,4,02:50,VIT,68,60,RD, Calvo
+51,4,02:50,BRA,68,60,3_Pts_T,Deryk
+52,4,02:59,BRA,68,60,FR,Fulvio
+53,4,02:59,VIT,68,60,FC,Taddei
+54,4,03:00,VIT,68,60,substituicao_entra,Jason Smith 
+55,4,03:00,VIT,68,60,substituicao_sai,Taddei 
+56,4,03:04,BRA,68,60,RD, Cipolini
+57,4,03:04,VIT,68,60,2_Pts_T,Calvo
+58,4,03:12,BRA,68,60,2_Pts_C,Deryk
+59,4,03:27,VIT,66,60,substituicao_entra,Jairo 
+60,4,03:27,VIT,66,60,substituicao_sai,Jason Smith 
+61,4,03:28,BRA,66,60,RO, Brasília
+62,4,03:28,VIT,66,60,TO,Edu
+63,4,03:28,BRA,66,60,2_Pts_T,Arthur
+64,4,03:31,BRA,66,60,BR,Arthur
+65,4,03:31,VIT,66,60,ER,Jason Smith
+66,4,03:32,VIT,66,60,substituicao_entra,Taddei 
+67,4,03:32,VIT,66,60,substituicao_sai,Rafinha 
+68,4,03:45,VIT,66,60,RD, Edu
+69,4,03:45,BRA,66,60,3_Pts_T,Deryk
+70,4,03:48,BRA,66,60,substituicao_entra,Cipolini 
+71,4,03:48,BRA,66,60,substituicao_sai,Coimbra 
+72,4,04:07,VIT,66,60,2_Pts_C,Rafinha
+73,4,04:22,VIT,66,58,RD, Renan
+74,4,04:22,BRA,66,58,2_Pts_T,Arthur
+75,4,04:39,BRA,66,58,BR,Pilar
+76,4,04:39,VIT,66,58,ER,Edu
+77,4,04:45,VIT,66,58,RO, Vitória
+78,4,04:45,VIT,66,58,2_Pts_T,Jason Smith
+79,4,04:54,VIT,66,58,FR,Jason Smith
+80,4,04:54,BRA,66,58,FC,Fulvio
+81,4,04:55,VIT,66,58,RD, Jason Smith
+82,4,04:55,BRA,66,58,3_Pts_T,Deryk
+83,4,05:18,VIT,66,58,substituicao_entra,Renan 
+84,4,05:18,VIT,66,58,substituicao_sai,Feliz 
+85,4,05:18,BRA,66,58,FR,Deryk
+86,4,05:18,VIT,66,58,FC_O,Feliz
+87,4,05:27,VIT,66,58,,
+88,4,05:27,BRA,66,58,ER,Arthur
+89,4,05:32,BRA,66,58,RD, Fulvio
+90,4,05:32,BRA,66,58,TO,Coimbra
+91,4,05:32,VIT,66,58,2_Pts_T,Feliz
+92,4,05:37,VIT,66,58,RO, Feliz
+93,4,05:37,VIT,66,58,2_Pts_T,Edu
+94,4,05:42,VIT,66,58,RD, Edu
+95,4,05:42,BRA,66,58,3_Pts_T,Pilar
+96,4,06:05,BRA,66,58,RO, Fulvio
+97,4,06:05,BRA,66,58,3_Pts_T,Pilar
+98,4,06:19,BRA,66,58,RO, Brasília
+99,4,06:19,VIT,66,58,TO,Edu
+100,4,06:19,BRA,66,58,2_Pts_T,Arthur
+101,4,06:25,BRA,66,58,RD, Arthur
+102,4,06:25,VIT,66,58,3_Pts_T,Edu
+103,4,06:32,VIT,66,58,FR,Feliz
+104,4,06:32,BRA,66,58,FC,Coimbra
+105,4,06:38,VIT,66,58,RD, Feliz
+106,4,06:38,BRA,66,58,3_Pts_T,Deryk
+107,4,06:42,VIT,66,58,substituicao_entra,Jason Smith 
+108,4,06:42,VIT,66,58,substituicao_sai,Taddei 
+109,4,06:42,VIT,66,58,substituicao_entra,Feliz 
+110,4,06:42,VIT,66,58,substituicao_sai,Renan 
+111,4,06:42,BRA,66,58,FR,Coimbra
+112,4,06:42,VIT,66,58,FC,Calvo
+113,4,06:58,VIT,66,58,2_Pts_C,Renan
+114,4,07:02,VIT,66,56,RO, Renan
+115,4,07:02,VIT,66,56,2_Pts_T,Renan
+116,4,07:19,BRA,66,56,substituicao_entra,Coimbra 
+117,4,07:19,BRA,66,56,substituicao_sai,Cipolini 
+118,4,07:34,VIT,66,56,RD, Calvo
+119,4,07:34,BRA,66,56,3_Pts_T,Deryk
+120,4,07:49,BRA,66,56,RD, Fulvio
+121,4,07:49,VIT,66,56,3_Pts_T,Calvo
+122,4,08:03,VIT,66,56,RO, Renan
+123,4,08:03,VIT,66,56,LL_Pts_T,Calvo
+124,4,08:03,VIT,66,56,LL_Pts_C,Calvo
+125,4,08:03,BRA,66,55,substituicao_entra,Pilar 
+126,4,08:03,BRA,66,55,substituicao_entra,Arthur 
+127,4,08:03,BRA,66,55,substituicao_sai,J  Campos 
+128,4,08:03,BRA,66,55,substituicao_sai,Diego 
+129,4,08:03,VIT,66,55,FR,Calvo
+130,4,08:03,BRA,66,55,FC,Diego
+131,4,08:07,VIT,66,55,BR,Edu
+132,4,08:07,BRA,66,55,ER,Deryk
+133,4,08:11,BRA,66,55,BR,Deryk
+134,4,08:11,VIT,66,55,ER,Rafinha
+135,4,08:13,VIT,66,55,FR,Calvo
+136,4,08:13,BRA,66,55,FC,Diego
+137,4,08:13,VIT,66,55,RO, Calvo
+138,4,08:13,VIT,66,55,2_Pts_T,Edu
+139,4,08:32,VIT,66,55,RD, Renan
+140,4,08:32,VIT,66,55,TO,Edu
+141,4,08:32,BRA,66,55,2_Pts_T,J  Campos
+142,4,08:54,BRA,66,55,RD, Deryk
+143,4,08:54,VIT,66,55,3_Pts_T,Calvo
+144,4,09:20,VIT,66,55,RD, Taddei
+145,4,09:20,BRA,66,55,3_Pts_T,Deryk
+146,4,09:45,VIT,66,55,2_Pts_C,Edu
+147,3,00:00,NaN.,66,53,fim_quarto, 
+148,3,00:04,BRA,66,53,3_Pts_C,Cipolini
+149,3,00:04,BRA,63,53,,
+150,3,00:22,BRA,63,53,RD, Diego
+151,3,00:22,VIT,63,53,3_Pts_T,Taddei
+152,3,00:40,VIT,63,53,RD, Renan
+153,3,00:40,BRA,63,53,LL_Pts_T,Cipolini
+154,3,00:40,BRA,63,53,,
+155,3,00:40,BRA,63,53,LL_Pts_C,Cipolini
+156,3,00:40,BRA,62,53,FR,Cipolini
+157,3,00:40,VIT,62,53,FC,Jairo
+158,3,00:55,VIT,62,53,substituicao_entra,Jairo 
+159,3,00:55,VIT,62,53,substituicao_sai,Calvo 
+160,3,00:57,VIT,62,53,2_Pts_C,Taddei
+161,3,00:57,VIT,62,51,,
+162,3,01:03,VIT,62,51,RD, Rafinha
+163,3,01:03,VIT,62,51,TO,Renan
+164,3,01:03,BRA,62,51,2_Pts_T,J  Campos
+165,3,01:09,BRA,62,51,RO, J  Campos
+166,3,01:09,BRA,62,51,3_Pts_T,Deryk
+167,3,01:22,VIT,62,51,substituicao_entra,Edu 
+168,3,01:22,VIT,62,51,substituicao_sai,Jason Smith 
+169,3,01:22,BRA,62,51,substituicao_entra,Diego 
+170,3,01:22,BRA,62,51,substituicao_sai,Pilar 
+171,3,01:22,BRA,62,51,RD, Cipolini
+172,3,01:22,VIT,62,51,2_Pts_T,Rafinha
+173,3,01:32,VIT,62,51,RO, Renan
+174,3,01:32,VIT,62,51,3_Pts_T,Jason Smith
+175,3,01:44,BRA,62,51,3_Pts_C,Deryk
+176,3,01:44,BRA,59,51,,
+177,3,01:56,BRA,59,51,LL_Pts_C,Fulvio
+178,3,01:59,VIT,58,51,FC_T,Jason Smith
+179,3,02:01,BRA,58,51,substituicao_entra,Deryk 
+180,3,02:01,BRA,58,51,substituicao_sai,Diego 
+181,3,02:01,VIT,58,51,,
+182,3,02:06,BRA,58,51,ER,Cipolini
+183,3,02:26,VIT,58,51,3_Pts_C,Rafinha
+184,3,02:26,VIT,58,48,,
+185,3,02:51,BRA,58,48,LL_Pts_C,Pilar
+186,3,02:51,BRA,57,48,,
+187,3,02:51,BRA,57,48,LL_Pts_C,Pilar
+188,3,02:51,VIT,56,48,substituicao_sai,Feliz 
+189,3,02:51,VIT,56,48,substituicao_entra,Renan 
+190,3,02:51,VIT,56,48,tempo_tecnico, Vitória
+191,3,02:51,BRA,56,48,FR,Pilar
+192,3,02:51,VIT,56,48,FC,Taddei
+193,3,02:56,BRA,56,48,RD, Fulvio
+194,3,02:56,VIT,56,48,3_Pts_T,Feliz
+195,3,03:23,BRA,56,48,3_Pts_C,Cipolini
+196,3,03:23,BRA,53,48,,
+197,3,03:36,VIT,53,48,substituicao_entra,Taddei 
+198,3,03:36,VIT,53,48,substituicao_sai,Edu 
+199,3,03:36,BRA,53,48,LL_Pts_C,Cipolini
+200,3,03:36,BRA,52,48,,
+201,3,03:36,BRA,52,48,LL_Pts_C,Cipolini
+202,3,03:36,BRA,51,48,FR,Cipolini
+203,3,03:36,VIT,51,48,FC_A,Feliz
+204,3,03:47,VIT,51,48,2_Pts_C,Feliz
+205,3,03:50,BRA,51,46,tempo_tecnico, Brasília
+206,3,04:07,BRA,51,46,2_Pts_C,Pilar
+207,3,04:12,BRA,49,46,RO, Pilar
+208,3,04:12,BRA,49,46,2_Pts_T,Pilar
+209,3,04:22,VIT,49,46,2_Pts_C,Jason Smith
+210,3,04:27,BRA,49,44,substituicao_entra,Cipolini 
+211,3,04:27,BRA,49,44,substituicao_sai,Coimbra 
+212,3,04:32,VIT,49,44,substituicao_entra,Feliz 
+213,3,04:32,VIT,49,44,substituicao_sai,Renan 
+214,3,04:36,BRA,49,44,substituicao_entra,Diego 
+215,3,04:36,BRA,49,44,substituicao_sai,Deryk 
+216,3,04:36,BRA,49,44,substituicao_entra,J  Campos 
+217,3,04:36,BRA,49,44,substituicao_sai,Arthur 
+218,3,04:36,VIT,49,44,,
+219,3,04:40,VIT,49,44,BR,Edu
+220,3,04:40,BRA,49,44,ER,Arthur
+221,3,05:01,VIT,49,44,EN,Renan
+222,3,05:01,VIT,49,42,,
+223,3,05:25,BRA,49,42,ER,Coimbra
+224,3,05:32,BRA,49,42,RO, Coimbra
+225,3,05:32,BRA,49,42,2_Pts_T,Arthur
+226,3,05:46,BRA,49,42,FR,Deryk
+227,3,05:46,VIT,49,42,FC_O,Renan
+228,3,05:54,VIT,49,42,LL_Pts_C,Calvo
+229,3,05:54,BRA,49,41,FC_T,Pilar
+230,3,05:57,VIT,49,41,RD, Renan
+231,3,05:57,BRA,49,41,2_Pts_T,Pilar
+232,3,06:09,BRA,49,41,RD, Arthur
+233,3,06:09,VIT,49,41,3_Pts_T,Rafinha
+234,3,06:20,VIT,49,41,LL_Pts_C,Edu
+235,3,06:20,VIT,49,40,LL_Pts_C,Edu
+236,3,06:20,VIT,49,39,FR,Edu
+237,3,06:20,BRA,49,39,FC_A,Coimbra
+238,3,06:20,VIT,49,39,BR,Edu
+239,3,06:20,BRA,49,39,ER,Deryk
+240,3,06:25,BRA,49,39,RD, Arthur
+241,3,06:25,VIT,49,39,3_Pts_T,Jason Smith
+242,3,06:42,VIT,49,39,FR,Rafinha
+243,3,06:42,BRA,49,39,FC,Deryk
+244,3,06:49,VIT,49,39,RD, Rafinha
+245,3,06:49,BRA,49,39,2_Pts_T,Deryk
+246,3,07:11,VIT,49,39,2_Pts_C,Renan
+247,3,07:11,VIT,49,37,,
+248,3,07:34,BRA,49,37,LL_Pts_C,Coimbra
+249,3,07:34,BRA,48,37,LL_Pts_C,Coimbra
+250,3,07:35,BRA,47,37,FR,Coimbra
+251,3,07:35,VIT,47,37,FC,Renan
+252,3,07:47,BRA,47,37,RD, Pilar
+253,3,07:47,VIT,47,37,3_Pts_T,Edu
+254,3,08:11,BRA,47,37,3_Pts_C,Arthur
+255,3,08:11,BRA,44,37,,
+256,3,08:28,VIT,44,37,2_Pts_C,Edu
+257,3,08:36,VIT,44,35,RD, Edu
+258,3,08:36,BRA,44,35,3_Pts_T,Deryk
+259,3,08:44,BRA,44,35,RD, Fulvio
+260,3,08:44,VIT,44,35,3_Pts_T,Calvo
+261,3,09:03,VIT,44,35,RD, Renan
+262,3,09:03,BRA,44,35,2_Pts_T,Pilar
+263,3,09:17,BRA,44,35,RD, Pilar
+264,3,09:17,VIT,44,35,2_Pts_T,Renan
+265,3,10:00,BRA,44,35,3_Pts_C,Deryk
+266,3,10:00,BRA,41,35,,
+267,2,00:00,NaN.,41,35,fim_quarto, 
+268,2,00:00,VIT,41,35,BR,Taddei
+269,2,00:00,BRA,41,35,ER,Diego
+270,2,00:01,VIT,41,35,LL_Pts_C,Renan
+271,2,00:01,VIT,41,34,LL_Pts_C,Renan
+272,2,00:03,VIT,41,33,FR,Renan
+273,2,00:03,BRA,41,33,FC,Diego
+274,2,00:14,BRA,41,33,ER,Coimbra
+275,2,00:31,BRA,41,33,FR,Coimbra
+276,2,00:31,VIT,41,33,FC_O,Taddei
+277,2,00:43,VIT,41,33,LL_Pts_C,Calvo
+278,2,00:43,BRA,41,32,FC_T,Fulvio
+279,2,00:45,VIT,41,32,,
+280,2,00:45,BRA,41,32,ER,Coimbra
+281,2,01:00,VIT,41,32,ER,Calvo
+282,2,01:10,BRA,41,32,substituicao_entra,Diego 
+283,2,01:10,BRA,41,32,substituicao_sai,Arthur 
+284,2,01:10,VIT,41,32,substituicao_entra,William 
+285,2,01:10,VIT,41,32,substituicao_sai,Feliz 
+286,2,01:10,BRA,41,32,LL_Pts_C,Fulvio
+287,2,01:10,BRA,40,32,FR,Fulvio
+288,2,01:10,VIT,40,32,FC,Feliz
+289,2,01:10,BRA,40,32,2_Pts_C,Fulvio
+290,2,01:10,BRA,38,32,,
+291,2,01:26,BRA,38,32,substituicao_entra,Coimbra 
+292,2,01:26,BRA,38,32,substituicao_sai,Cipolini 
+293,2,01:26,VIT,38,32,ER,Feliz
+294,2,01:51,BRA,38,32,3_Pts_C,J  Campos
+295,2,01:51,BRA,35,32,,
+296,2,01:58,VIT,35,32,LL_Pts_C,Renan
+297,2,01:58,VIT,35,31,LL_Pts_C,Renan
+298,2,01:58,VIT,35,30,FR,Renan
+299,2,01:58,BRA,35,30,FC,Cipolini
+300,2,02:28,BRA,35,30,3_Pts_C,Cipolini
+301,2,02:28,BRA,32,30,,
+302,2,02:34,BRA,32,30,FR,Fulvio
+303,2,02:34,VIT,32,30,FC,Taddei
+304,2,02:43,BRA,32,30,,
+305,2,02:43,VIT,32,30,ER,Feliz
+306,2,02:47,VIT,32,30,RD, Feliz
+307,2,02:47,BRA,32,30,3_Pts_T,Arthur
+308,2,03:11,BRA,32,30,substituicao_entra,Fulvio 
+309,2,03:11,BRA,32,30,substituicao_entra,Arthur 
+310,2,03:11,BRA,32,30,substituicao_sai,Deryk 
+311,2,03:11,BRA,32,30,substituicao_sai,Paulo 
+312,2,03:14,BRA,32,30,tempo_tecnico, Brasília
+313,2,03:14,VIT,32,30,3_Pts_C,Calvo
+314,2,03:14,VIT,32,27,,
+315,2,03:29,VIT,32,27,RD, Feliz
+316,2,03:29,BRA,32,27,2_Pts_T,Paulo
+317,2,03:47,BRA,32,27,RO, Pilar
+318,2,03:47,VIT,32,27,TO,Renan
+319,2,03:47,BRA,32,27,2_Pts_T,Deryk
+320,2,03:53,BRA,32,27,RD, Paulo
+321,2,03:53,VIT,32,27,2_Pts_T,Feliz
+322,2,04:00,VIT,32,27,BR,Rafinha
+323,2,04:00,BRA,32,27,ER,J  Campos
+324,2,04:07,VIT,32,27,LL_Pts_C,Feliz
+325,2,04:07,VIT,32,26,,
+326,2,04:07,VIT,32,26,LL_Pts_C,Feliz
+327,2,04:07,VIT,32,25,FR,Feliz
+328,2,04:07,BRA,32,25,FC,Paulo
+329,2,04:15,VIT,32,25,FR,Taddei
+330,2,04:15,BRA,32,25,FC,J  Campos
+331,2,04:52,BRA,32,25,3_Pts_C,Deryk
+332,2,04:54,VIT,29,25,substituicao_entra,Feliz 
+333,2,04:54,VIT,29,25,substituicao_sai,Jairo 
+334,2,04:54,BRA,29,25,substituicao_sai,Pureza 
+335,2,04:54,BRA,29,25,substituicao_entra,Paulo 
+336,2,04:54,BRA,29,25,,
+337,2,04:54,VIT,29,25,ER,Calvo
+338,2,05:02,VIT,29,25,substituicao_entra,Taddei 
+339,2,05:02,VIT,29,25,substituicao_sai,Edu 
+340,2,05:06,VIT,29,25,tempo_tecnico, Vitória
+341,2,05:06,BRA,29,25,3_Pts_C,Cipolini
+342,2,05:06,BRA,26,25,,
+343,2,05:25,BRA,26,25,RD, Cipolini
+344,2,05:25,VIT,26,25,2_Pts_T,Edu
+345,2,05:50,BRA,26,25,2_Pts_C,Pilar
+346,2,06:05,BRA,24,25,FR,Deryk
+347,2,06:05,VIT,24,25,FC,Rafinha
+348,2,06:06,BRA,24,25,substituicao_entra,J  Campos 
+349,2,06:06,BRA,24,25,substituicao_sai,Arthur 
+350,2,06:09,BRA,24,25,RD, Deryk
+351,2,06:09,VIT,24,25,3_Pts_T,Rafinha
+352,2,06:32,BRA,24,25,2_Pts_C,Arthur
+353,2,06:37,BRA,22,25,RO, Arthur
+354,2,06:37,BRA,22,25,2_Pts_T,Pilar
+355,2,06:49,VIT,22,25,substituicao_entra,Edu 
+356,2,06:49,VIT,22,25,substituicao_sai,Jason Smith 
+357,2,06:49,BRA,22,25,BR,Deryk
+358,2,06:49,VIT,22,25,ER,Jason Smith
+359,2,06:54,VIT,22,25,RD, Jason Smith
+360,2,06:54,BRA,22,25,2_Pts_T,Cipolini
+361,2,07:17,BRA,22,25,RD, Arthur
+362,2,07:17,VIT,22,25,LL_Pts_T,Jairo
+363,2,07:17,VIT,22,25,substituicao_entra,Rafinha 
+364,2,07:17,VIT,22,25,substituicao_sai,Taddei 
+365,2,07:17,VIT,22,25,2_Pts_C,Jairo
+366,2,07:17,VIT,22,23,FR,Jairo
+367,2,07:17,BRA,22,23,FC,Arthur
+368,2,07:22,VIT,22,23,tempo_tecnico, Vitória
+369,2,07:22,BRA,22,23,2_Pts_C,Deryk
+370,2,07:22,BRA,20,23,,
+371,2,07:26,BRA,20,23,BR,Arthur
+372,2,07:26,VIT,20,23,ER,Jason Smith
+373,2,07:40,VIT,20,23,FR,Calvo
+374,2,07:40,BRA,20,23,FC,Cipolini
+375,2,07:42,BRA,20,23,substituicao_entra,Deryk 
+376,2,07:42,BRA,20,23,substituicao_sai,J  Campos 
+377,2,07:44,VIT,20,23,RD, Calvo
+378,2,07:44,BRA,20,23,2_Pts_T,J  Campos
+379,2,07:53,BRA,20,23,RD, Arthur
+380,2,07:53,VIT,20,23,3_Pts_T,Taddei
+381,2,08:08,BRA,20,23,2_Pts_C,Cipolini
+382,2,08:08,BRA,18,23,,
+383,2,08:27,BRA,18,23,substituicao_entra,Pilar 
+384,2,08:27,BRA,18,23,substituicao_sai,Diego 
+385,2,08:27,VIT,18,23,2_Pts_C,Renan
+386,2,08:32,VIT,18,21,RO, Renan
+387,2,08:32,VIT,18,21,2_Pts_T,Calvo
+388,2,08:58,VIT,18,21,FR,Calvo
+389,2,08:58,BRA,18,21,FC,Pureza
+390,2,09:00,VIT,18,21,BR,Jairo
+391,2,09:00,BRA,18,21,ER,J  Campos
+392,2,09:24,VIT,18,21,3_Pts_C,Calvo
+393,2,09:39,BRA,18,18,3_Pts_C,Pureza
+394,2,09:39,BRA,15,18,,
+395,2,09:42,VIT,15,18,,
+396,2,09:50,VIT,15,18,RO, Jason Smith
+397,2,09:50,VIT,15,18,3_Pts_T,Jairo
+398,1,00:00,NaN.,15,18,fim_quarto, 
+399,1,00:00,VIT,15,18,3_Pts_T,Feliz
+400,1,00:02,VIT,15,18,BR,Feliz
+401,1,00:02,BRA,15,18,ER,Diego
+402,1,00:03,BRA,15,18,,
+403,1,00:03,VIT,15,18,ER,Rafinha
+404,1,00:04,VIT,15,18,FR,Rafinha
+405,1,00:04,BRA,15,18,FC,J  Campos
+406,1,00:20,VIT,15,18,RD, Pezão
+407,1,00:20,BRA,15,18,3_Pts_T,J  Campos
+408,1,00:27,BRA,15,18,BR,Arthur
+409,1,00:27,VIT,15,18,ER,Rafinha
+410,1,00:45,BRA,15,18,2_Pts_C,Diego
+411,1,00:54,BRA,13,18,RD, Cipolini
+412,1,00:54,VIT,13,18,2_Pts_T,Pezão
+413,1,01:08,BRA,13,18,,
+414,1,01:08,BRA,13,18,LL_Pts_C,Cipolini
+415,1,01:08,BRA,12,18,LL_Pts_T,Cipolini
+416,1,01:08,BRA,12,18,substituicao_entra,Pureza 
+417,1,01:08,BRA,12,18,substituicao_sai,Fulvio 
+418,1,01:08,BRA,12,18,FR,Cipolini
+419,1,01:08,VIT,12,18,FC,Jairo
+420,1,01:32,VIT,12,18,2_Pts_C,Jairo
+421,1,01:50,BRA,12,16,substituicao_entra,Diego 
+422,1,01:50,BRA,12,16,substituicao_sai,Coimbra 
+423,1,01:50,VIT,12,16,substituicao_entra,Jairo 
+424,1,01:50,VIT,12,16,substituicao_sai,Jason Smith 
+425,1,01:50,BRA,12,16,substituicao_sai,Deryk 
+426,1,01:50,BRA,12,16,substituicao_entra,Arthur 
+427,1,01:50,VIT,12,16,,
+428,1,01:50,BRA,12,16,ER,Deryk
+429,1,01:54,BRA,12,16,BR,Deryk
+430,1,01:54,VIT,12,16,ER,Feliz
+431,1,02:16,BRA,12,16,2_Pts_C,Coimbra
+432,1,02:16,BRA,10,16,,
+433,1,02:21,VIT,10,16,2_Pts_C,Pezão
+434,1,02:26,VIT,10,14,RO, Pezão
+435,1,02:26,VIT,10,14,2_Pts_T,Feliz
+436,1,02:42,VIT,10,14,RD, Taddei
+437,1,02:42,BRA,10,14,2_Pts_T,J  Campos
+438,1,02:55,VIT,10,14,substituicao_entra,Pezão 
+439,1,02:55,VIT,10,14,substituicao_sai,Calvo 
+440,1,02:55,BRA,10,14,substituicao_entra,Cipolini 
+441,1,02:55,BRA,10,14,substituicao_sai,Pilar 
+442,1,02:57,VIT,10,14,2_Pts_C,Taddei
+443,1,02:57,VIT,10,12,,
+444,1,03:16,VIT,10,12,RD, Feliz
+445,1,03:16,BRA,10,12,3_Pts_T,Pilar
+446,1,03:27,BRA,10,12,RD, Fulvio
+447,1,03:27,VIT,10,12,3_Pts_T,Jason Smith
+448,1,03:34,VIT,10,12,RD, Jason Smith
+449,1,03:34,BRA,10,12,2_Pts_T,Deryk
+450,1,03:41,BRA,10,12,BR,Coimbra
+451,1,03:41,VIT,10,12,ER,Rafinha
+452,1,04:01,VIT,10,12,substituicao_entra,Feliz 
+453,1,04:01,VIT,10,12,substituicao_sai,Renan 
+454,1,04:01,BRA,10,12,LL_Pts_C,Deryk
+455,1,04:01,BRA,9,12,LL_Pts_C,Deryk
+456,1,04:03,BRA,8,12,substituicao_sai,Arthur 
+457,1,04:03,BRA,8,12,substituicao_entra,J  Campos 
+458,1,04:03,BRA,8,12,FR,Deryk
+459,1,04:03,VIT,8,12,FC,Taddei
+460,1,04:10,VIT,8,12,2_Pts_C,Calvo
+461,1,04:36,BRA,8,10,2_Pts_C,Deryk
+462,1,04:41,BRA,6,10,BR,Deryk
+463,1,04:41,VIT,6,10,ER,Jason Smith
+464,1,04:59,VIT,6,10,,
+465,1,04:59,BRA,6,10,ER,Coimbra
+466,1,05:11,BRA,6,10,FR,Fulvio
+467,1,05:11,VIT,6,10,FC,Rafinha
+468,1,05:22,VIT,6,10,substituicao_entra,Taddei 
+469,1,05:22,VIT,6,10,substituicao_sai,Edu 
+470,1,05:22,BRA,6,10,FR,Arthur
+471,1,05:22,VIT,6,10,FC,Edu
+472,1,05:35,VIT,6,10,2_Pts_C,Renan
+473,1,05:35,VIT,6,8,,
+474,1,05:53,BRA,6,8,3_Pts_C,Arthur
+475,1,05:53,BRA,3,8,,
+476,1,05:58,BRA,3,8,RO, Pilar
+477,1,05:58,BRA,3,8,2_Pts_T,Pilar
+478,1,06:03,BRA,3,8,RO, Pilar
+479,1,06:03,BRA,3,8,2_Pts_T,Arthur
+480,1,06:16,VIT,3,8,2_Pts_C,Calvo
+481,1,06:16,VIT,3,6,,
+482,1,06:24,VIT,3,6,RD, Renan
+483,1,06:24,BRA,3,6,2_Pts_T,Deryk
+484,1,06:43,VIT,3,6,2_Pts_C,Renan
+485,1,06:43,VIT,3,4,,
+486,1,06:54,BRA,3,4,LL_Pts_C,Coimbra
+487,1,06:54,BRA,2,4,FR,Coimbra
+488,1,06:54,VIT,2,4,FC,Calvo
+489,1,06:54,BRA,2,4,2_Pts_C,Coimbra
+490,1,06:54,BRA,0,4,,
+491,1,07:21,BRA,0,4,RD, Deryk
+492,1,07:21,VIT,0,4,2_Pts_T,Calvo
+493,1,07:21,VIT,0,4,FR,Rafinha
+494,1,07:21,BRA,0,4,FC,Arthur
+495,1,07:23,VIT,0,4,BR,Rafinha
+496,1,07:23,BRA,0,4,ER,Arthur
+497,1,07:42,VIT,0,4,2_Pts_C,Renan
+498,1,07:42,VIT,0,2,,
+499,1,07:58,VIT,0,2,RD, Rafinha
+500,1,07:58,BRA,0,2,2_Pts_T,Pilar
+501,1,08:04,BRA,0,2,RO, Coimbra
+502,1,08:04,BRA,0,2,2_Pts_T,Pilar
+503,1,08:27,VIT,0,2,2_Pts_C,Renan
+504,1,08:27,VIT,0,0,,
+505,1,08:51,VIT,0,0,RD, Renan
+506,1,08:51,BRA,0,0,2_Pts_T,Coimbra
+507,1,09:01,BRA,0,0,RD, Arthur
+508,1,09:01,VIT,0,0,2_Pts_T,Renan
+509,1,09:11,VIT,0,0,RD, Edu
+510,1,09:11,BRA,0,0,2_Pts_T,Pilar
+511,1,09:29,BRA,0,0,FR,Arthur
+512,1,09:29,VIT,0,0,FC,Edu
+513,1,09:29,BRA,0,0,BR,Arthur
+514,1,09:29,VIT,0,0,ER,Edu
+515,1,09:50,VIT,0,0,RD, Calvo
+516,1,09:50,BRA,0,0,3_Pts_T,Deryk
+517,1,10:00,VIT,0,0,substituicao_entra,Renan 
+518,1,10:00,VIT,0,0,substituicao_entra,Edu 
+519,1,10:00,VIT,0,0,substituicao_entra,Calvo 
+520,1,10:00,VIT,0,0,substituicao_entra,Jason Smith 
+521,1,10:00,VIT,0,0,substituicao_entra,Rafinha 
+522,1,10:00,BRA,0,0,substituicao_entra,Coimbra 
+523,1,10:00,BRA,0,0,substituicao_entra,Fulvio 
+524,1,10:00,BRA,0,0,substituicao_entra,Deryk 
+525,1,10:00,BRA,0,0,substituicao_entra,Arthur 
+526,1,10:00,BRA,0,0,substituicao_entra,Pilar 

@@ -6,7 +6,7 @@ from selenium.webdriver.firefox.options import Options
 import requests
 from selenium.common.exceptions import NoSuchElementException
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=15&wherePlaying=-1&played=-1')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=27&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
@@ -18,11 +18,19 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
+
 ano = 15
+# erro em são jose_74x95_pinheiros
+del(list_inoutControl[15])
+# erro en são josé_71_x76_caxias do sul
+del(list_inoutControl[21])
+# erro em são josé_88x82_rio claro
+del(list_inoutControl[24])
+# erro em paulistano_88x100_brasilia 237
+del(list_inoutControl[233])
 
 
 '''
-
 ano = 12
 # erro em minas_77x70_tijuca
 del(list_inoutControl[0])
@@ -54,7 +62,6 @@ del (list_inoutControl[39])
 # erro em mogi_78x75_palmeiras
 del (list_inoutControl[42])
 
-del (list_inoutControl[:37])
 
 ano = 13
 # erro em pinheiros_53x91_limeira
@@ -77,20 +84,27 @@ del(list_inoutControl[24])
 # erro em paulistano_88x100_brasilia 237
 del(list_inoutControl[233])
 
-ano = 19
-# erro em mogi_91x84_Minas
-del(list_inoutControl[85])
-
-ano = 17
-# joinville _81x91_flamengo
-del(list_inoutControl[135])
-
 ano = 16
 # jogo do pinheiros_x_vitória não aparece as estatísticas do jogo
 del(list_inoutControl[1])
 # jogo do flamengo_75x78_pinheiros não aparece as estatísticas do jogo 244
 # alem disso a lista sai errado e tira mais dois jogos --> mogi_85x95_vitória e franca_67x80_paulistano
 del(list_inoutControl[243:246])
+# erro em paulistano_82x49_caxias o sul
+del(list_inoutControl[68])
+# erro paulistano_64x81_bauru
+del(list_inoutControl[253])
+
+
+ano = 17
+# joinville _81x91_flamengo
+del(list_inoutControl[135])
+
+ano = 18
+
+ano = 19
+# erro em mogi_91x84_Minas
+del(list_inoutControl[85])
 '''
 ######################################################################################################################
 
@@ -250,12 +264,12 @@ for i in list_inoutControl:
         # separar os convertidos e tentados
         divisao_RO = df_full["RD+RO RT"].str.split("+")
         # resultado dos convertidos
-        RO = divisao_RO.str.get(0)
+        RD = divisao_RO.str.get(0)
         # como os tentados ta no meio e eu não sei pegar ele sem toso esse processo eu separei ele e o resultado separei
         RO1 = divisao_RO.str.get(1)
         divisaoRD = RO1.str.split(" ")
         # resultado da separação
-        RD = divisaoRD.str.get(0)
+        RO = divisaoRD.str.get(0)
         # add nos dados
         df_full["RO"] = RO
         df_full["RD"] = RD
@@ -414,7 +428,7 @@ for i in list_inoutControl:
     df_full = df_full[['Temporada', 'time', 'adversário', 'casa/fora', 'Jogador', 'Min', 'Pts_C', 'Pts_T', '3_Pts_C',
                        '3_Pts_T', '2_Pts_C', '2_Pts_T', 'LL_Pts_C', 'LL_Pts_T', 'RO', 'RD', 'RT', 'AS', 'BR', 'TO',
                        'FC', 'FR', 'ER', 'EN']]
-    df_full.to_csv("./temporada 2013/" + "tabela_" + f"{ii}" + "_" + nome_casa + "_x_" + nome_fora + ".csv", index=None)
+    df_full.to_csv("./temporada 2015/" + "tabela_" + f"{ii}" + "_" + nome_casa + "_x_" + nome_fora + ".csv", index=None)
 
     nome_inf_coluna = nome_casa + "_x_" + nome_fora
     print(nome_inf_coluna)
@@ -423,4 +437,4 @@ for i in list_inoutControl:
     driver.quit()
 
 
-tabela_geral.to_csv("./temporada 2013/Tabela_geral_2013.csv")
+tabela_geral.to_csv("./temporada 2015/Tabela_geral_2015.csv")

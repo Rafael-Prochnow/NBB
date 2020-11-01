@@ -1,0 +1,409 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,60,68,fim_partida, 
+1,4,00:14,SJO,60,68,RD, Gustavo
+2,4,00:14,VIT,60,68,3_Pts_T,Edu
+3,4,00:22,VIT,60,68,RD, Feliz
+4,4,00:22,SJO,60,68,2_Pts_T,Jamaal
+5,4,00:26,SJO,60,68,tempo_tecnico, São José
+6,4,00:26,VIT,60,68,LL_Pts_C,Edu
+7,4,00:26,VIT,59,68,LL_Pts_C,Edu
+8,4,00:26,VIT,58,68,FR,Edu
+9,4,00:26,SJO,58,68,FC,Jamaal
+10,4,00:31,VIT,58,68,RD, Edu
+11,4,00:31,SJO,58,68,3_Pts_T,César
+12,4,00:44,VIT,58,68,2_Pts_C,Tiago
+13,4,00:44,VIT,56,68,,
+14,4,00:44,VIT,56,68,2_Pts_T,Tiago
+15,4,00:53,VIT,56,68,RD, Renan
+16,4,00:53,SJO,56,68,2_Pts_T,Jamaal
+17,4,01:06,VIT,56,68,ER,Tiago
+18,4,01:22,VIT,56,68,RD, Feliz
+19,4,01:22,SJO,56,68,2_Pts_T,Renato C 
+20,4,01:38,SJO,56,68,LL_Pts_C,Jamaal
+21,4,01:38,VIT,56,67,substituicao_entra,Tiago 
+22,4,01:38,VIT,56,67,substituicao_sai,Jason Smith 
+23,4,01:38,VIT,56,67,FC_T,Jason Smith
+24,4,01:43,SJO,56,67,RD, São José
+25,4,01:43,VIT,56,67,2_Pts_T,Jason Smith
+26,4,01:57,VIT,56,67,LL_Pts_C,Feliz
+27,4,01:57,VIT,55,67,LL_Pts_C,Feliz
+28,4,01:57,VIT,54,67,FR,Feliz
+29,4,01:57,SJO,54,67,FC_A,Jamaal
+30,4,02:09,SJO,54,67,substituicao_entra,Bruno Ferreira 
+31,4,02:09,SJO,54,67,substituicao_sai,Pedro 
+32,4,02:13,VIT,54,67,,
+33,4,02:13,SJO,54,67,ER,Jamaal
+34,4,02:34,VIT,54,67,2_Pts_C,Renan
+35,4,02:39,VIT,52,67,RO, Renan
+36,4,02:39,VIT,52,67,2_Pts_T,Edu
+37,4,02:57,SJO,52,67,LL_Pts_C,Pedro
+38,4,02:57,SJO,52,66,LL_Pts_C,Pedro
+39,4,02:57,SJO,52,65,FR,Pedro
+40,4,02:57,VIT,52,65,FC,Edu
+41,4,03:03,VIT,52,65,LL_Pts_C,Renan
+42,4,03:03,VIT,51,65,LL_Pts_C,Renan
+43,4,03:03,VIT,50,65,FR,Renan
+44,4,03:03,SJO,50,65,FC,César
+45,4,03:20,VIT,50,65,,
+46,4,03:20,SJO,50,65,,
+47,4,03:28,SJO,50,65,BR,Gustavo
+48,4,03:28,VIT,50,65,ER,Jairo
+49,4,03:39,SJO,50,65,LL_Pts_C,Jamaal
+50,4,03:39,SJO,50,64,LL_Pts_C,Jamaal
+51,4,03:39,VIT,50,63,substituicao_entra,Feliz 
+52,4,03:39,VIT,50,63,substituicao_sai,Nilson 
+53,4,03:39,SJO,50,63,FR,Jamaal
+54,4,03:39,VIT,50,63,FC,Jason Smith
+55,4,03:46,SJO,50,63,RD, São José
+56,4,03:46,VIT,50,63,3_Pts_T,Nilson
+57,4,04:07,VIT,50,63,BR,Jason Smith
+58,4,04:07,SJO,50,63,ER,Gustavo
+59,4,04:17,VIT,50,63,2_Pts_C,Jason Smith
+60,4,04:35,SJO,48,63,2_Pts_C,Jamaal
+61,4,04:35,SJO,48,61,,
+62,4,04:58,VIT,48,61,ER,Nilson
+63,4,05:13,VIT,48,61,substituicao_entra,Nilson 
+64,4,05:13,VIT,48,61,substituicao_sai,William 
+65,4,05:13,VIT,48,61,tempo_tecnico, Vitória
+66,4,05:13,SJO,48,61,3_Pts_C,Pedro
+67,4,05:24,SJO,48,58,BR,Gustavo
+68,4,05:24,VIT,48,58,ER,William
+69,4,05:32,VIT,48,58,RD, Jairo
+70,4,05:32,SJO,48,58,2_Pts_T,Renato C 
+71,4,05:43,SJO,48,58,RD, Renato C 
+72,4,05:43,VIT,48,58,3_Pts_T,William
+73,4,05:51,VIT,48,58,substituicao_entra,William 
+74,4,05:51,VIT,48,58,substituicao_sai,Feliz 
+75,4,05:51,SJO,48,58,LL_Pts_C,César
+76,4,05:51,SJO,48,57,LL_Pts_C,César
+77,4,05:54,SJO,48,56,FR,César
+78,4,05:54,VIT,48,56,FC,Feliz
+79,4,06:28,SJO,48,56,RD, Renato C 
+80,4,06:28,VIT,48,56,LL_Pts_T,Feliz
+81,4,06:28,VIT,48,56,LL_Pts_C,Feliz
+82,4,06:34,VIT,47,56,FR,Feliz
+83,4,06:34,SJO,47,56,FC,Renato C 
+84,4,06:52,VIT,47,56,FR,Jason Smith
+85,4,06:52,SJO,47,56,FC,Gustavo
+86,4,07:12,SJO,47,56,2_Pts_C,César
+87,4,07:28,SJO,47,54,substituicao_entra,César 
+88,4,07:28,SJO,47,54,substituicao_sai,Bruno Ferreira 
+89,4,07:28,SJO,47,54,FR,Renato C 
+90,4,07:28,VIT,47,54,FC_O,Feliz
+91,4,07:34,VIT,47,54,BR,Edu
+92,4,07:34,SJO,47,54,ER,Bruno Ferreira
+93,4,07:46,SJO,47,54,BR,Bruno Ferreira
+94,4,07:46,VIT,47,54,ER,Edu
+95,4,07:58,VIT,47,54,FR,Jason Smith
+96,4,07:58,SJO,47,54,FC,Gustavo
+97,4,08:11,VIT,47,54,RO, Feliz
+98,4,08:11,SJO,47,54,RD, São José
+99,4,08:11,VIT,47,54,2_Pts_T,Feliz
+100,4,08:30,VIT,47,54,RD, Renan
+101,4,08:30,SJO,47,54,LL_Pts_T,Jamaal
+102,4,08:30,SJO,47,54,LL_Pts_C,Jamaal
+103,4,08:34,SJO,47,53,FR,Jamaal
+104,4,08:34,VIT,47,53,FC,Jason Smith
+105,4,08:43,VIT,47,53,2_Pts_C,Edu
+106,4,08:56,SJO,45,53,3_Pts_C,Gustavo
+107,4,08:56,SJO,45,50,,
+108,4,09:15,VIT,45,50,3_Pts_C,Jason Smith
+109,4,09:32,VIT,42,50,RD, Feliz
+110,4,09:32,SJO,42,50,3_Pts_T,Pedro
+111,4,09:47,VIT,42,50,substituicao_entra,Edu 
+112,4,09:47,VIT,42,50,substituicao_sai,Tiago 
+113,4,09:47,SJO,42,50,FR,Pedro
+114,4,09:47,VIT,42,50,FC,Jason Smith
+115,4,09:51,SJO,42,50,BR,Pedro
+116,4,09:51,VIT,42,50,ER,Tiago
+117,3,00:00,NaN.,42,50,fim_quarto, 
+118,3,00:00,VIT,42,50,2_Pts_C,Jason Smith
+119,3,00:00,VIT,40,50,,
+120,3,00:02,VIT,40,50,BR,Tiago
+121,3,00:02,SJO,40,50,ER,Bruno Ferreira
+122,3,00:28,VIT,40,50,2_Pts_C,Jason Smith
+123,3,00:42,VIT,38,50,RD, Jairo
+124,3,00:42,SJO,38,50,2_Pts_T,Pedro
+125,3,00:55,SJO,38,50,LL_Pts_C,Jamaal
+126,3,00:55,SJO,38,49,LL_Pts_C,Jamaal
+127,3,00:55,VIT,38,48,tempo_tecnico, Vitória
+128,3,00:55,SJO,38,48,FR,Jamaal
+129,3,00:55,VIT,38,48,FC_A,Jairo
+130,3,01:00,SJO,38,48,RD, Jamaal
+131,3,01:00,VIT,38,48,2_Pts_T,Renan
+132,3,01:19,VIT,38,48,RD, Renan
+133,3,01:19,SJO,38,48,3_Pts_T,Jamaal
+134,3,01:30,SJO,38,48,RD, Renato C 
+135,3,01:30,VIT,38,48,3_Pts_T,Tiago
+136,3,01:40,SJO,38,48,3_Pts_C,Pedro
+137,3,01:40,SJO,38,45,,
+138,3,01:58,VIT,38,45,3_Pts_C,Jairo
+139,3,01:58,VIT,35,45,,
+140,3,02:10,SJO,35,45,ER,Jamaal
+141,3,02:18,VIT,35,45,2_Pts_C,Jason Smith
+142,3,02:18,VIT,33,45,,
+143,3,02:24,SJO,33,45,LL_Pts_C,Pedro
+144,3,02:24,SJO,33,44,LL_Pts_C,Pedro
+145,3,02:27,SJO,33,43,FR,Pedro
+146,3,02:27,VIT,33,43,FC,Feliz
+147,3,02:47,VIT,33,43,ER,Feliz
+148,3,03:05,SJO,33,43,3_Pts_C,Pedro
+149,3,03:17,SJO,33,40,tempo_tecnico, São José
+150,3,03:17,VIT,33,40,2_Pts_C,Tiago
+151,3,03:17,VIT,31,40,,
+152,3,03:24,VIT,31,40,BR,Feliz
+153,3,03:24,SJO,31,40,ER,Bruno Ferreira
+154,3,03:34,SJO,31,40,RD, Jamaal
+155,3,03:34,VIT,31,40,2_Pts_T,Tiago
+156,3,03:43,VIT,31,40,RO, Jairo
+157,3,03:43,VIT,31,40,2_Pts_T,Feliz
+158,3,03:52,SJO,31,40,substituicao_entra,Bruno Ferreira 
+159,3,03:52,SJO,31,40,substituicao_sai,César 
+160,3,04:04,VIT,31,40,RD, Feliz
+161,3,04:04,SJO,31,40,2_Pts_T,César
+162,3,04:15,VIT,31,40,LL_Pts_C,Jason Smith
+163,3,04:15,VIT,30,40,substituicao_entra,Feliz 
+164,3,04:15,VIT,30,40,substituicao_sai,Nilson 
+165,3,04:20,VIT,30,40,2_Pts_C,Jason Smith
+166,3,04:20,VIT,28,40,FR,Jason Smith
+167,3,04:20,SJO,28,40,FC,Pedro
+168,3,04:27,VIT,28,40,RD, Renan
+169,3,04:27,SJO,28,40,2_Pts_T,Pedro
+170,3,04:34,SJO,28,40,RD, Jamaal
+171,3,04:34,VIT,28,40,2_Pts_T,Nilson
+172,3,04:48,VIT,28,40,RD, Jairo
+173,3,04:48,SJO,28,40,3_Pts_T,Renato C 
+174,3,05:01,SJO,28,40,FR,Renato C 
+175,3,05:01,VIT,28,40,FC,Nilson
+176,3,05:12,SJO,28,40,RO, Gustavo
+177,3,05:12,SJO,28,40,2_Pts_T,Renato C 
+178,3,05:19,SJO,28,40,RD, Jamaal
+179,3,05:19,VIT,28,40,3_Pts_T,Nilson
+180,3,05:44,VIT,28,40,RD, Tiago
+181,3,05:44,SJO,28,40,3_Pts_T,César
+182,3,05:56,VIT,28,40,ER,Jairo
+183,3,06:11,VIT,28,40,LL_Pts_T,Renan
+184,3,06:11,VIT,28,40,LL_Pts_T,Renan
+185,3,06:11,SJO,28,40,substituicao_entra,Gustavo 
+186,3,06:11,SJO,28,40,substituicao_sai,Matheus Dalla 
+187,3,06:11,SJO,28,40,FC_T,Matheus Dalla
+188,3,06:11,SJO,28,40,FC_T,Matheus Dalla
+189,3,06:21,VIT,28,40,BR,Jairo
+190,3,06:21,SJO,28,40,ER,Matheus Dalla
+191,3,06:32,SJO,28,40,RD, Matheus Dalla
+192,3,06:32,VIT,28,40,3_Pts_T,Jairo
+193,3,06:36,VIT,28,40,FR,Nilson
+194,3,06:36,SJO,28,40,FC,César
+195,3,06:46,VIT,28,40,RO, Nilson
+196,3,06:46,VIT,28,40,LL_Pts_T,Tiago
+197,3,06:49,VIT,28,40,2_Pts_C,Tiago
+198,3,06:49,VIT,26,40,FR,Tiago
+199,3,06:49,SJO,26,40,FC,Renato C 
+200,3,07:14,SJO,26,40,2_Pts_C,Renato C 
+201,3,07:14,SJO,26,38,,
+202,3,07:21,VIT,26,38,ER,
+203,3,07:48,VIT,26,38,RD, Jairo
+204,3,07:48,SJO,26,38,2_Pts_T,Renato C 
+205,3,08:01,VIT,26,38,ER,
+206,3,08:27,SJO,26,38,2_Pts_C,Pedro
+207,3,08:38,VIT,26,36,substituicao_entra,Tiago 
+208,3,08:38,VIT,26,36,substituicao_sai,Edu 
+209,3,08:38,SJO,26,36,FR,Renato C 
+210,3,08:38,VIT,26,36,FC,Edu
+211,3,08:43,SJO,26,36,RD, Renato C 
+212,3,08:43,VIT,26,36,2_Pts_T,Edu
+213,3,08:57,SJO,26,36,3_Pts_C,Jamaal
+214,3,08:57,SJO,26,33,,
+215,3,09:15,VIT,26,33,2_Pts_C,Renan
+216,3,09:32,VIT,24,33,RO, Nilson
+217,3,09:32,VIT,24,33,2_Pts_T,Nilson
+218,3,09:47,VIT,24,33,RO, Nilson
+219,3,09:47,VIT,24,33,2_Pts_T,Renan
+220,2,00:00,NaN.,24,33,fim_quarto, 
+221,2,00:04,SJO,24,33,RD, Matheus Dalla
+222,2,00:04,VIT,24,33,3_Pts_T,Nilson
+223,2,00:21,SJO,24,33,2_Pts_C,Gustavo
+224,2,00:21,SJO,24,31,,
+225,2,00:37,SJO,24,31,RD, Pedro
+226,2,00:37,VIT,24,31,2_Pts_T,Feliz
+227,2,00:45,SJO,24,31,substituicao_entra,Gustavo 
+228,2,00:45,SJO,24,31,substituicao_sai,Jamaal 
+229,2,00:45,VIT,24,31,substituicao_entra,Tiago 
+230,2,00:45,VIT,24,31,substituicao_sai,Jairo 
+231,2,00:49,VIT,24,31,,
+232,2,00:49,SJO,24,31,ER,César
+233,2,01:05,SJO,24,31,RD, Matheus Dalla
+234,2,01:05,VIT,24,31,2_Pts_T,Jairo
+235,2,01:19,SJO,24,31,ER,
+236,2,01:43,SJO,24,31,RD, São José
+237,2,01:43,VIT,24,31,3_Pts_T,Jairo
+238,2,02:02,VIT,24,31,RD, Edu
+239,2,02:02,SJO,24,31,3_Pts_T,Matheus Dalla
+240,2,02:08,SJO,24,31,substituicao_entra,Pedro 
+241,2,02:08,SJO,24,31,substituicao_sai,Gustavo 
+242,2,02:08,SJO,24,31,FR,Aguirre
+243,2,02:08,VIT,24,31,FC,Feliz
+244,2,02:16,SJO,24,31,RD, São José
+245,2,02:16,VIT,24,31,2_Pts_T,Feliz
+246,2,02:34,VIT,24,31,RD, Edu
+247,2,02:34,SJO,24,31,3_Pts_T,Matheus Dalla
+248,2,02:38,SJO,24,31,FR,Gustavo
+249,2,02:38,VIT,24,31,FC,Edu
+250,2,02:45,SJO,24,31,FR,Jamaal
+251,2,02:45,VIT,24,31,FC,Edu
+252,2,02:55,SJO,24,31,RD, Jamaal
+253,2,02:55,VIT,24,31,2_Pts_T,Jairo
+254,2,03:19,SJO,24,31,2_Pts_C,Gustavo
+255,2,03:27,SJO,24,29,RD, Gustavo
+256,2,03:27,VIT,24,29,3_Pts_T,Jason Smith
+257,2,03:36,VIT,24,29,RD, Jason Smith
+258,2,03:36,SJO,24,29,3_Pts_T,César
+259,2,03:49,VIT,24,29,3_Pts_C,Jairo
+260,2,03:49,VIT,21,29,,
+261,2,04:14,VIT,21,29,RD, Edu
+262,2,04:14,SJO,21,29,2_Pts_T,César
+263,2,04:37,VIT,21,29,ER,Nilson
+264,2,04:54,VIT,21,29,substituicao_entra,Feliz 
+265,2,04:54,VIT,21,29,substituicao_sai,Renan 
+266,2,04:54,SJO,21,29,substituicao_entra,Jamaal 
+267,2,04:54,SJO,21,29,substituicao_sai,Pedro 
+268,2,04:54,VIT,21,29,FR,Edu
+269,2,04:54,SJO,21,29,FC_O,Aguirre
+270,2,05:00,SJO,21,29,FR,Matheus Dalla
+271,2,05:00,VIT,21,29,FC,Jason Smith
+272,2,05:06,SJO,21,29,RD, César
+273,2,05:06,VIT,21,29,3_Pts_T,Edu
+274,2,05:19,SJO,21,29,substituicao_entra,César 
+275,2,05:19,SJO,21,29,substituicao_sai,Bruno Ferreira 
+276,2,05:32,SJO,21,29,2_Pts_C,Pedro
+277,2,05:37,SJO,21,27,RO, Pedro
+278,2,05:37,SJO,21,27,2_Pts_T,Pedro
+279,2,05:53,SJO,21,27,RD, São José
+280,2,05:53,VIT,21,27,2_Pts_T,Jason Smith
+281,2,06:14,VIT,21,27,substituicao_entra,Nilson 
+282,2,06:14,VIT,21,27,substituicao_sai,Feliz 
+283,2,06:14,VIT,21,27,tempo_tecnico, Vitória
+284,2,06:14,VIT,21,27,FR,Renan
+285,2,06:14,SJO,21,27,FC_O,Gustavo
+286,2,06:20,SJO,21,27,RD, Bruno Ferreira
+287,2,06:20,VIT,21,27,2_Pts_T,Edu
+288,2,06:37,VIT,21,27,BR,Jairo
+289,2,06:37,SJO,21,27,ER,Bruno Ferreira
+290,2,06:45,SJO,21,27,substituicao_entra,Aguirre 
+291,2,06:45,SJO,21,27,substituicao_sai,Renato C  
+292,2,06:45,VIT,21,27,substituicao_entra,Jairo 
+293,2,06:45,VIT,21,27,substituicao_sai,William 
+294,2,06:51,VIT,21,27,ER,
+295,2,07:19,SJO,21,27,3_Pts_C,Pedro
+296,2,07:32,SJO,21,24,RO, Bruno Ferreira
+297,2,07:32,SJO,21,24,3_Pts_T,Matheus Dalla
+298,2,07:44,SJO,21,24,RD, Bruno Ferreira
+299,2,07:44,VIT,21,24,2_Pts_T,Feliz
+300,2,07:57,SJO,21,24,substituicao_entra,Matheus Dalla 
+301,2,07:57,SJO,21,24,substituicao_sai,Jamaal 
+302,2,07:57,VIT,21,24,FR,Edu
+303,2,07:57,SJO,21,24,FC_O,Jamaal
+304,2,08:16,VIT,21,24,2_Pts_C,Jason Smith
+305,2,08:24,SJO,19,24,2_Pts_C,Bruno Ferreira
+306,2,08:30,SJO,19,22,RO, Bruno Ferreira
+307,2,08:30,SJO,19,22,2_Pts_T,Jamaal
+308,2,08:40,SJO,19,22,BR,Gustavo
+309,2,08:40,VIT,19,22,ER,Edu
+310,2,08:45,VIT,19,22,RD, Edu
+311,2,08:45,SJO,19,22,3_Pts_T,Gustavo
+312,2,08:56,VIT,19,22,2_Pts_C,Edu
+313,2,08:57,VIT,17,22,FR,Renan
+314,2,08:57,SJO,17,22,FC,Bruno Ferreira
+315,2,09:11,VIT,17,22,RO, Feliz
+316,2,09:11,VIT,17,22,3_Pts_T,Renan
+317,2,09:27,VIT,17,22,RD, Renan
+318,2,09:27,SJO,17,22,3_Pts_T,Jamaal
+319,2,09:42,VIT,17,22,2_Pts_C,William
+320,2,09:42,VIT,15,22,,
+321,2,09:47,VIT,15,22,BR,Edu
+322,2,09:47,SJO,15,22,ER,Gustavo
+323,1,00:00,NaN.,15,22,fim_quarto, 
+324,1,00:16,VIT,15,22,RD, Jairo
+325,1,00:16,SJO,15,22,3_Pts_T,Pedro
+326,1,00:28,SJO,15,22,FR,Gustavo
+327,1,00:28,VIT,15,22,FC,Jairo
+328,1,00:42,VIT,15,22,ER,
+329,1,00:57,SJO,15,22,substituicao_entra,Gustavo 
+330,1,00:57,SJO,15,22,substituicao_sai,César 
+331,1,00:57,SJO,15,22,substituicao_entra,Bruno Ferreira 
+332,1,00:57,SJO,15,22,substituicao_sai,Matheus Dalla 
+333,1,01:06,VIT,15,22,RO, Jairo
+334,1,01:06,VIT,15,22,3_Pts_T,Jairo
+335,1,01:25,SJO,15,22,3_Pts_C,Renato C 
+336,1,01:25,SJO,15,19,,
+337,1,01:42,SJO,15,19,RD, Jamaal
+338,1,01:42,VIT,15,19,2_Pts_T,Renan
+339,1,01:47,VIT,15,19,substituicao_entra,William 
+340,1,01:47,VIT,15,19,substituicao_sai,Edu 
+341,1,01:57,VIT,15,19,RO, Feliz
+342,1,01:57,VIT,15,19,2_Pts_T,Jairo
+343,1,01:59,VIT,15,19,FR,Jason Smith
+344,1,01:59,SJO,15,19,FC,Jamaal
+345,1,02:18,VIT,15,19,RD, Feliz
+346,1,02:18,SJO,15,19,2_Pts_T,Renato C 
+347,1,02:41,VIT,15,19,2_Pts_C,Feliz
+348,1,02:41,VIT,13,19,,
+349,1,02:55,VIT,13,19,substituicao_entra,Feliz 
+350,1,02:55,VIT,13,19,substituicao_sai,Nilson 
+351,1,02:55,VIT,13,19,tempo_tecnico, Vitória
+352,1,02:55,SJO,13,19,EN,Renato C 
+353,1,02:55,SJO,13,17,,
+354,1,03:01,SJO,13,17,RD, César
+355,1,03:01,VIT,13,17,2_Pts_T,Edu
+356,1,03:19,SJO,13,17,3_Pts_C,Pedro
+357,1,03:40,VIT,13,14,2_Pts_C,Jason Smith
+358,1,03:54,VIT,11,14,RD, Renan
+359,1,03:54,SJO,11,14,3_Pts_T,Matheus Dalla
+360,1,04:14,VIT,11,14,2_Pts_C,Nilson
+361,1,04:14,VIT,9,14,,
+362,1,04:25,SJO,9,14,2_Pts_C,Jamaal
+363,1,04:25,SJO,9,12,,
+364,1,04:37,VIT,9,12,,
+365,1,04:58,SJO,9,12,3_Pts_C,César
+366,1,04:58,SJO,9,9,,
+367,1,05:16,VIT,9,9,3_Pts_C,Renan
+368,1,05:16,VIT,6,9,,
+369,1,05:26,SJO,6,9,2_Pts_C,César
+370,1,05:31,SJO,6,7,RO, César
+371,1,05:31,SJO,6,7,2_Pts_T,Renato C 
+372,1,05:44,SJO,6,7,RD, Renato C 
+373,1,05:44,VIT,6,7,3_Pts_T,Jason Smith
+374,1,05:46,VIT,6,7,FR,Renan
+375,1,05:46,SJO,6,7,FC,Renato C 
+376,1,06:09,VIT,6,7,RD, Renan
+377,1,06:09,SJO,6,7,3_Pts_T,Jamaal
+378,1,06:29,SJO,6,7,RD, Renato C 
+379,1,06:29,VIT,6,7,3_Pts_T,Jason Smith
+380,1,06:54,SJO,6,7,2_Pts_C,Pedro
+381,1,07:12,VIT,6,5,2_Pts_C,Renan
+382,1,07:12,VIT,4,5,,
+383,1,07:32,SJO,4,5,3_Pts_C,César
+384,1,07:32,SJO,4,2,,
+385,1,07:56,SJO,4,2,RD, São José
+386,1,07:56,VIT,4,2,3_Pts_T,Jason Smith
+387,1,08:23,SJO,4,2,2_Pts_C,Jamaal
+388,1,08:23,SJO,4,0,,
+389,1,08:35,VIT,4,0,2_Pts_C,Renan
+390,1,08:35,VIT,2,0,,
+391,1,08:53,VIT,2,0,RD, Edu
+392,1,08:53,SJO,2,0,3_Pts_T,Matheus Dalla
+393,1,09:16,SJO,2,0,RD, São José
+394,1,09:16,VIT,2,0,3_Pts_T,Renan
+395,1,09:29,VIT,2,0,RD, Jairo
+396,1,09:29,SJO,2,0,2_Pts_T,Matheus Dalla
+397,1,09:41,VIT,2,0,2_Pts_C,Nilson
+398,1,10:00,VIT,0,0,substituicao_entra,Renan 
+399,1,10:00,VIT,0,0,substituicao_entra,Edu 
+400,1,10:00,VIT,0,0,substituicao_entra,Jairo 
+401,1,10:00,VIT,0,0,substituicao_entra,Jason Smith 
+402,1,10:00,VIT,0,0,substituicao_entra,Nilson 
+403,1,10:00,SJO,0,0,substituicao_entra,Renato C  
+404,1,10:00,SJO,0,0,substituicao_entra,Pedro 
+405,1,10:00,SJO,0,0,substituicao_entra,Jamaal 
+406,1,10:00,SJO,0,0,substituicao_entra,Matheus Dalla 
+407,1,10:00,SJO,0,0,substituicao_entra,César 

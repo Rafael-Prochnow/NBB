@@ -1,0 +1,496 @@
+,Quarto,Tempo,Time,placar_casa,placar_visitante,Indicador,Nomes
+0,4,00:00,NaN.,65,81,fim_partida, 
+1,4,00:01,LSB,65,81,RD, Elivelton
+2,4,00:01,PAU,65,81,3_Pts_T,Victão
+3,4,00:16,PAU,65,81,RD, Arthur Pecos
+4,4,00:16,LSB,65,81,3_Pts_T,Elivelton
+5,4,00:33,PAU,65,81,LL_Pts_C,Victinho
+6,4,00:33,PAU,65,80,LL_Pts_C,Victinho
+7,4,00:33,PAU,65,79,FR,Victinho
+8,4,00:33,LSB,65,79,FC,Neto
+9,4,00:37,PAU,65,79,RD, Guilherme
+10,4,00:37,LSB,65,79,3_Pts_T,Neto
+11,4,00:44,LSB,65,79,RD, Fab Melo
+12,4,00:44,PAU,65,79,2_Pts_T,Arthur Pecos
+13,4,01:00,LSB,65,79,,
+14,4,01:00,LSB,65,79,LL_Pts_C,Fab Melo
+15,4,01:00,LSB,64,79,LL_Pts_T,Fab Melo
+16,4,01:00,PAU,64,79,substituicao_entra,Mogi 
+17,4,01:00,PAU,64,79,substituicao_entra,Victinho 
+18,4,01:00,PAU,64,79,substituicao_entra,Guilherme 
+19,4,01:00,PAU,64,79,substituicao_entra,Victão 
+20,4,01:00,PAU,64,79,substituicao_sai,Gemerson 
+21,4,01:00,PAU,64,79,substituicao_sai,Caio Torres 
+22,4,01:00,PAU,64,79,substituicao_sai,Dawkins 
+23,4,01:00,PAU,64,79,substituicao_sai,Jhonatan 
+24,4,01:00,LSB,64,79,FR,Fab Melo
+25,4,01:00,PAU,64,79,FC,Jhonatan
+26,4,01:13,PAU,64,79,3_Pts_C,Jhonatan
+27,4,01:13,PAU,64,76,,
+28,4,01:21,LSB,64,76,2_Pts_C,Neto
+29,4,01:35,LSB,62,76,RD, Neto
+30,4,01:35,LSB,62,76,TO,Fab Melo
+31,4,01:35,PAU,62,76,2_Pts_T,Jhonatan
+32,4,01:39,PAU,62,76,FR,Valtinho
+33,4,01:39,LSB,62,76,FC,Gradnigo
+34,4,01:43,PAU,62,76,RO, Caio Torres
+35,4,01:43,PAU,62,76,3_Pts_T,Arthur Pecos
+36,4,01:52,PAU,62,76,substituicao_entra,Jhonatan 
+37,4,01:52,PAU,62,76,substituicao_sai,Guilherme 
+38,4,01:52,LSB,62,76,substituicao_entra,Socas 
+39,4,01:52,LSB,62,76,substituicao_sai,A  Pinheiro 
+40,4,01:52,LSB,62,76,tempo_tecnico, Liga Sorocabana
+41,4,01:52,PAU,62,76,FR,Arthur Pecos
+42,4,01:52,LSB,62,76,FC,A  Pinheiro
+43,4,02:07,PAU,62,76,RD, Guilherme
+44,4,02:07,LSB,62,76,LL_Pts_T,Elivelton
+45,4,02:07,LSB,62,76,LL_Pts_C,Elivelton
+46,4,02:07,LSB,61,76,FR,Elivelton
+47,4,02:07,PAU,61,76,FC,Guilherme
+48,4,02:08,LSB,61,76,2_Pts_T,Fab Melo
+49,4,02:12,PAU,61,76,substituicao_entra,Guilherme 
+50,4,02:12,PAU,61,76,substituicao_sai,Valtinho 
+51,4,02:16,LSB,61,76,RO, Liga Sorocabana
+52,4,02:16,LSB,61,76,2_Pts_T,Gradnigo
+53,4,02:27,PAU,61,76,2_Pts_C,Valtinho
+54,4,02:50,LSB,61,74,substituicao_entra,A  Pinheiro 
+55,4,02:50,LSB,61,74,substituicao_sai,Socas 
+56,4,02:53,LSB,61,74,EN,Socas
+57,4,02:53,LSB,59,74,,
+58,4,03:10,PAU,59,74,2_Pts_C,Arthur Pecos
+59,4,03:10,PAU,59,72,,
+60,4,03:13,PAU,59,72,BR,Dawkins
+61,4,03:13,LSB,59,72,ER,Neto
+62,4,03:35,PAU,59,72,2_Pts_C,Dawkins
+63,4,03:50,LSB,59,70,substituicao_entra,Elivelton 
+64,4,03:50,LSB,59,70,substituicao_sai,Lupa 
+65,4,03:50,PAU,59,70,substituicao_entra,Dawkins 
+66,4,03:50,PAU,59,70,substituicao_sai,Gruber 
+67,4,03:54,PAU,59,70,RD, Caio Torres
+68,4,03:54,LSB,59,70,LL_Pts_T,Neto
+69,4,03:54,LSB,59,70,2_Pts_C,Neto
+70,4,03:54,LSB,57,70,FR,Neto
+71,4,03:54,PAU,57,70,FC,Caio Torres
+72,4,04:12,PAU,57,70,LL_Pts_C,Gruber
+73,4,04:12,PAU,57,69,LL_Pts_C,Gruber
+74,4,04:12,PAU,57,68,FR,Gruber
+75,4,04:12,LSB,57,68,FC,Lupa
+76,4,04:22,PAU,57,68,BR,Gruber
+77,4,04:22,LSB,57,68,ER,Lupa
+78,4,04:22,LSB,57,68,RO, Lupa
+79,4,04:22,LSB,57,68,2_Pts_T,Fab Melo
+80,4,04:27,LSB,57,68,BR,Socas
+81,4,04:27,PAU,57,68,ER,Gruber
+82,4,04:45,PAU,57,68,FR,Caio Torres
+83,4,04:45,LSB,57,68,FC,Fab Melo
+84,4,04:55,PAU,57,68,RD, Arthur Pecos
+85,4,04:55,LSB,57,68,2_Pts_T,Socas
+86,4,04:58,PAU,57,68,substituicao_entra,Caio Torres 
+87,4,04:58,PAU,57,68,substituicao_entra,Valtinho 
+88,4,04:58,PAU,57,68,substituicao_sai,Dawkins 
+89,4,04:58,PAU,57,68,substituicao_sai,Toyloy 
+90,4,04:58,LSB,57,68,FR,Neto
+91,4,04:58,PAU,57,68,FC,Dawkins
+92,4,05:10,LSB,57,68,FR,Gradnigo
+93,4,05:10,PAU,57,68,FC_O,Gemerson
+94,4,05:34,LSB,57,68,2_Pts_C,Socas
+95,4,05:46,PAU,55,68,2_Pts_C,Gemerson
+96,4,05:57,LSB,55,66,EN,Fab Melo
+97,4,06:11,LSB,53,66,,
+98,4,06:17,LSB,53,66,RD, Lupa
+99,4,06:17,PAU,53,66,3_Pts_T,Gemerson
+100,4,06:38,LSB,53,66,LL_Pts_C,Lupa
+101,4,06:38,PAU,52,66,substituicao_entra,Gruber 
+102,4,06:38,PAU,52,66,substituicao_sai,Guilherme 
+103,4,06:38,LSB,52,66,,
+104,4,06:38,LSB,52,66,2_Pts_C,Lupa
+105,4,06:38,LSB,50,66,FR,Lupa
+106,4,06:38,PAU,50,66,FC,Guilherme
+107,4,06:56,LSB,50,66,RD, Lupa
+108,4,06:56,PAU,50,66,3_Pts_T,Guilherme
+109,4,07:24,LSB,50,66,2_Pts_C,Gradnigo
+110,4,07:30,LSB,48,66,substituicao_entra,Lupa 
+111,4,07:30,LSB,48,66,substituicao_sai,Verson 
+112,4,07:30,LSB,48,66,substituicao_entra,Fab Melo 
+113,4,07:30,LSB,48,66,substituicao_sai,Lupa 
+114,4,07:45,PAU,48,66,EN,Toyloy
+115,4,07:45,PAU,48,64,,
+116,4,07:56,LSB,48,64,LL_Pts_C,Socas
+117,4,07:56,PAU,47,64,substituicao_entra,Gemerson 
+118,4,07:56,PAU,47,64,substituicao_entra,Toyloy 
+119,4,07:56,PAU,47,64,substituicao_sai,Jhonatan 
+120,4,07:56,PAU,47,64,substituicao_sai,Caio Torres 
+121,4,07:56,LSB,47,64,2_Pts_C,Socas
+122,4,07:56,LSB,45,64,FR,Socas
+123,4,07:56,PAU,45,64,FC,Dawkins
+124,4,08:18,PAU,45,64,2_Pts_C,Arthur Pecos
+125,4,08:18,PAU,45,62,,
+126,4,08:24,PAU,45,62,RD, Dawkins
+127,4,08:24,PAU,45,62,TO,Guilherme
+128,4,08:24,LSB,45,62,2_Pts_T,Gradnigo
+129,4,08:30,LSB,45,62,RD, Gradnigo
+130,4,08:30,PAU,45,62,3_Pts_T,Guilherme
+131,4,08:53,LSB,45,62,2_Pts_C,Gradnigo
+132,4,09:15,PAU,43,62,3_Pts_C,Guilherme
+133,4,09:15,PAU,43,59,,
+134,4,09:53,LSB,43,59,2_Pts_C,Neto
+135,4,09:57,LSB,41,59,BR,Neto
+136,4,09:57,PAU,41,59,ER,Dawkins
+137,3,00:00,NaN.,41,59,fim_quarto, 
+138,3,00:00,LSB,41,59,3_Pts_T,Elivelton
+139,3,00:02,LSB,41,59,RD, Socas
+140,3,00:02,PAU,41,59,2_Pts_T,Arthur Pecos
+141,3,00:19,PAU,41,59,substituicao_entra,Dawkins 
+142,3,00:19,PAU,41,59,substituicao_sai,Guilherme 
+143,3,00:19,PAU,41,59,substituicao_entra,Valtinho 
+144,3,00:19,PAU,41,59,substituicao_sai,Jhonatan 
+145,3,00:19,LSB,41,59,ER,Socas
+146,3,00:34,PAU,41,59,substituicao_entra,Jhonatan 
+147,3,00:34,PAU,41,59,substituicao_sai,Valtinho 
+148,3,00:34,LSB,41,59,FR,Neto
+149,3,00:34,PAU,41,59,FC,Victinho
+150,3,00:42,LSB,41,59,RD, Elivelton
+151,3,00:42,PAU,41,59,2_Pts_T,Caio Torres
+152,3,00:57,LSB,41,59,2_Pts_C,Neto
+153,3,01:08,PAU,39,59,EN,Guilherme
+154,3,01:08,PAU,39,57,,
+155,3,01:18,PAU,39,57,substituicao_entra,Valtinho 
+156,3,01:18,PAU,39,57,substituicao_sai,Jhonatan 
+157,3,01:21,PAU,39,57,substituicao_entra,Victinho 
+158,3,01:21,PAU,39,57,substituicao_sai,Valtinho 
+159,3,01:28,PAU,39,57,RD, Victinho
+160,3,01:28,LSB,39,57,3_Pts_T,Verson
+161,3,01:32,LSB,39,57,substituicao_entra,Verson 
+162,3,01:32,LSB,39,57,substituicao_sai,Gradnigo 
+163,3,01:35,LSB,39,57,tempo_tecnico, Liga Sorocabana
+164,3,01:35,PAU,39,57,EN,Jhonatan
+165,3,01:38,PAU,39,55,BR,Jhonatan
+166,3,01:38,LSB,39,55,ER,Neto
+167,3,02:00,PAU,39,55,3_Pts_C,Jhonatan
+168,3,02:15,LSB,39,52,EN,Socas
+169,3,02:15,LSB,37,52,RO, Socas
+170,3,02:15,LSB,37,52,3_Pts_T,Neto
+171,3,02:40,PAU,37,52,2_Pts_C,Arthur Pecos
+172,3,02:40,PAU,37,50,,
+173,3,02:44,PAU,37,50,BR,Valtinho
+174,3,02:44,LSB,37,50,ER,Elivelton
+175,3,03:07,PAU,37,50,2_Pts_C,Guilherme
+176,3,03:12,PAU,37,48,RO, Guilherme
+177,3,03:12,PAU,37,48,2_Pts_T,Arthur Pecos
+178,3,03:19,PAU,37,48,RD, Jhonatan
+179,3,03:19,LSB,37,48,3_Pts_T,Elivelton
+180,3,03:55,LSB,37,48,RD, Gradnigo
+181,3,03:55,PAU,37,48,3_Pts_T,Jhonatan
+182,3,03:55,LSB,37,48,LL_Pts_C,Elivelton
+183,3,03:55,LSB,36,48,LL_Pts_C,Elivelton
+184,3,03:55,PAU,35,48,substituicao_entra,Guilherme 
+185,3,03:55,PAU,35,48,substituicao_entra,Caio Torres 
+186,3,03:55,PAU,35,48,substituicao_sai,Toyloy 
+187,3,03:55,PAU,35,48,substituicao_sai,Gruber 
+188,3,03:55,LSB,35,48,FR,Elivelton
+189,3,03:55,PAU,35,48,FC,Toyloy
+190,3,04:00,LSB,35,48,RO, Neto
+191,3,04:00,PAU,35,48,TO,Gruber
+192,3,04:00,LSB,35,48,2_Pts_T,Neto
+193,3,04:17,LSB,35,48,RD, Gradnigo
+194,3,04:17,PAU,35,48,2_Pts_T,Toyloy
+195,3,04:34,LSB,35,48,LL_Pts_C,Gradnigo
+196,3,04:34,LSB,34,48,EN,Gradnigo
+197,3,04:34,LSB,32,48,FR,Gradnigo
+198,3,04:34,PAU,32,48,FC,Jhonatan
+199,3,05:09,LSB,32,48,RD, Neto
+200,3,05:09,PAU,32,48,3_Pts_T,Arthur Pecos
+201,3,05:11,LSB,32,48,substituicao_entra,Socas 
+202,3,05:11,LSB,32,48,substituicao_sai,Chupeta 
+203,3,05:11,LSB,32,48,substituicao_entra,Chupeta 
+204,3,05:11,LSB,32,48,substituicao_sai,Socas 
+205,3,05:11,PAU,32,48,substituicao_entra,Jhonatan 
+206,3,05:11,PAU,32,48,substituicao_sai,Gemerson 
+207,3,05:11,LSB,32,48,tempo_tecnico, Liga Sorocabana
+208,3,05:11,PAU,32,48,FR,Valtinho
+209,3,05:11,LSB,32,48,FC,Elivelton
+210,3,05:14,PAU,32,48,RD, Valtinho
+211,3,05:14,LSB,32,48,3_Pts_T,Neto
+212,3,05:23,LSB,32,48,RD, Socas
+213,3,05:23,PAU,32,48,3_Pts_T,Gemerson
+214,3,05:35,PAU,32,48,substituicao_entra,Toyloy 
+215,3,05:35,PAU,32,48,substituicao_sai,Caio Torres 
+216,3,05:53,LSB,32,48,3_Pts_C,Gradnigo
+217,3,06:10,PAU,29,48,3_Pts_C,Valtinho
+218,3,06:10,PAU,29,45,,
+219,3,06:28,LSB,29,45,2_Pts_C,Lupa
+220,3,06:28,LSB,27,45,,
+221,3,06:47,LSB,27,45,RD, Liga Sorocabana
+222,3,06:47,PAU,27,45,3_Pts_T,Dawkins
+223,3,06:49,LSB,27,45,substituicao_entra,Elivelton 
+224,3,06:49,LSB,27,45,substituicao_sai,Fab Melo 
+225,3,06:49,PAU,27,45,substituicao_entra,Arthur Pecos 
+226,3,06:49,PAU,27,45,substituicao_sai,Dawkins 
+227,3,06:57,PAU,27,45,BR,Valtinho
+228,3,06:57,LSB,27,45,ER,Fab Melo
+229,3,07:11,PAU,27,45,2_Pts_C,Gruber
+230,3,07:11,PAU,27,43,,
+231,3,07:18,PAU,27,43,RD, Gemerson
+232,3,07:18,LSB,27,43,2_Pts_T,Neto
+233,3,07:26,LSB,27,43,RD, Gradnigo
+234,3,07:26,PAU,27,43,2_Pts_T,Valtinho
+235,3,07:51,PAU,27,43,RD, Caio Torres
+236,3,07:51,LSB,27,43,2_Pts_T,Socas
+237,3,08:07,PAU,27,43,2_Pts_C,Caio Torres
+238,3,08:07,PAU,27,41,,
+239,3,08:25,PAU,27,41,RD, Caio Torres
+240,3,08:25,LSB,27,41,2_Pts_T,Fab Melo
+241,3,08:31,LSB,27,41,RD, Fab Melo
+242,3,08:31,PAU,27,41,3_Pts_T,Dawkins
+243,3,08:58,PAU,27,41,RD, Caio Torres
+244,3,08:58,LSB,27,41,2_Pts_T,Lupa
+245,3,09:17,LSB,27,41,RD, Neto
+246,3,09:17,PAU,27,41,3_Pts_T,Gemerson
+247,3,09:42,LSB,27,41,2_Pts_C,Gradnigo
+248,2,00:00,NaN.,25,41,fim_quarto, 
+249,2,00:16,PAU,25,41,BR,Victinho
+250,2,00:16,LSB,25,41,ER,Chupeta
+251,2,00:35,PAU,25,41,substituicao_entra,Victinho 
+252,2,00:35,PAU,25,41,substituicao_entra,Victão 
+253,2,00:35,PAU,25,41,substituicao_sai,Guilherme 
+254,2,00:35,PAU,25,41,substituicao_sai,Dawkins 
+255,2,00:35,PAU,25,41,LL_Pts_C,Arthur Pecos
+256,2,00:35,PAU,25,40,LL_Pts_C,Arthur Pecos
+257,2,00:35,LSB,25,39,substituicao_entra,Chupeta 
+258,2,00:35,LSB,25,39,substituicao_sai,Gradnigo 
+259,2,00:35,PAU,25,39,substituicao_entra,Caio Torres 
+260,2,00:35,PAU,25,39,substituicao_sai,Toyloy 
+261,2,00:35,PAU,25,39,FR,Arthur Pecos
+262,2,00:35,LSB,25,39,FC,Gradnigo
+263,2,00:42,PAU,25,39,RD, Guilherme
+264,2,00:42,LSB,25,39,2_Pts_T,Renato Scholz
+265,2,01:06,PAU,25,39,2_Pts_C,Arthur Pecos
+266,2,01:06,PAU,25,37,,
+267,2,01:09,PAU,25,37,BR,Jhonatan
+268,2,01:09,LSB,25,37,ER,Lacerda
+269,2,01:27,PAU,25,37,2_Pts_C,Toyloy
+270,2,01:49,LSB,25,35,2_Pts_C,Socas
+271,2,01:54,LSB,23,35,RD, Lacerda
+272,2,01:54,PAU,23,35,3_Pts_T,Guilherme
+273,2,02:11,LSB,23,35,substituicao_entra,Renato Scholz 
+274,2,02:11,LSB,23,35,substituicao_sai,Neto 
+275,2,02:15,PAU,23,35,RD, Paulistano
+276,2,02:15,LSB,23,35,2_Pts_T,Lupa
+277,2,02:38,PAU,23,35,2_Pts_C,Jhonatan
+278,2,02:38,PAU,23,33,,
+279,2,02:51,LSB,23,33,LL_Pts_C,Lacerda
+280,2,02:51,LSB,22,33,LL_Pts_C,Lacerda
+281,2,02:51,LSB,21,33,FR,Lacerda
+282,2,02:51,PAU,21,33,FC,Guilherme
+283,2,03:20,PAU,21,33,2_Pts_C,Arthur Pecos
+284,2,03:33,PAU,21,31,RD, Paulistano
+285,2,03:33,LSB,21,31,3_Pts_T,Neto
+286,2,03:44,PAU,21,31,substituicao_entra,Dawkins 
+287,2,03:44,PAU,21,31,substituicao_sai,Valtinho 
+288,2,03:44,LSB,21,31,FR,Neto
+289,2,03:44,PAU,21,31,FC,Guilherme
+290,2,04:07,PAU,21,31,EN,Jhonatan
+291,2,04:11,PAU,21,29,RO, Jhonatan
+292,2,04:11,PAU,21,29,2_Pts_T,Toyloy
+293,2,04:11,PAU,21,29,substituicao_entra,Guilherme 
+294,2,04:11,PAU,21,29,substituicao_sai,Caio Torres 
+295,2,04:15,LSB,21,29,substituicao_entra,Lacerda 
+296,2,04:15,LSB,21,29,substituicao_sai,Fab Melo 
+297,2,04:16,PAU,21,29,tempo_tecnico, Paulistano
+298,2,04:16,LSB,21,29,2_Pts_C,Neto
+299,2,04:39,LSB,19,29,RD, Gradnigo
+300,2,04:39,PAU,19,29,3_Pts_T,Jhonatan
+301,2,04:47,PAU,19,29,RD, Valtinho
+302,2,04:47,LSB,19,29,3_Pts_T,Fab Melo
+303,2,04:58,LSB,19,29,RD, Neto
+304,2,04:58,LSB,19,29,TO,Fab Melo
+305,2,04:58,PAU,19,29,2_Pts_T,Caio Torres
+306,2,05:13,LSB,19,29,2_Pts_C,Fab Melo
+307,2,05:13,LSB,17,29,,
+308,2,05:26,LSB,17,29,RD, Neto
+309,2,05:26,PAU,17,29,2_Pts_T,Caio Torres
+310,2,05:46,LSB,17,29,EN,Fab Melo
+311,2,05:46,LSB,15,29,,
+312,2,06:02,PAU,15,29,EN,Toyloy
+313,2,06:02,PAU,15,27,,
+314,2,06:14,PAU,15,27,RO, Arthur Pecos
+315,2,06:14,LSB,15,27,TO,Socas
+316,2,06:14,PAU,15,27,2_Pts_T,Toyloy
+317,2,06:28,PAU,15,27,,
+318,2,06:28,LSB,15,27,ER,Socas
+319,2,06:41,PAU,15,27,3_Pts_C,Jhonatan
+320,2,06:41,PAU,15,24,,
+321,2,06:49,LSB,15,24,LL_Pts_C,Socas
+322,2,06:49,LSB,14,24,LL_Pts_T,Socas
+323,2,06:49,LSB,14,24,FR,Socas
+324,2,06:49,PAU,14,24,FC,Caio Torres
+325,2,06:55,LSB,14,24,RD, Lupa
+326,2,06:55,PAU,14,24,2_Pts_T,Caio Torres
+327,2,07:15,PAU,14,24,RD, Caio Torres
+328,2,07:15,LSB,14,24,3_Pts_T,Neto
+329,2,07:30,PAU,14,24,ER,Jhonatan
+330,2,07:36,PAU,14,24,RO, Arthur Pecos
+331,2,07:36,PAU,14,24,2_Pts_T,Jhonatan
+332,2,07:59,LSB,14,24,3_Pts_C,Neto
+333,2,07:59,LSB,11,24,,
+334,2,08:18,PAU,11,24,ER,Caio Torres
+335,2,08:22,PAU,11,24,BR,Caio Torres
+336,2,08:22,LSB,11,24,ER,Gradnigo
+337,2,08:42,PAU,11,24,substituicao_entra,Caio Torres 
+338,2,08:42,PAU,11,24,substituicao_sai,Gemerson 
+339,2,08:42,PAU,11,24,ER,
+340,2,09:11,LSB,11,24,2_Pts_C,Fab Melo
+341,2,09:11,LSB,9,24,,
+342,2,09:21,LSB,9,24,RD, Neto
+343,2,09:21,PAU,9,24,2_Pts_T,Arthur Pecos
+344,2,09:32,PAU,9,24,FR,Toyloy
+345,2,09:32,LSB,9,24,FC,Socas
+346,2,09:41,PAU,9,24,substituicao_entra,Valtinho 
+347,2,09:41,PAU,9,24,substituicao_sai,Dawkins 
+348,2,09:41,PAU,9,24,substituicao_entra,Toyloy 
+349,2,09:41,PAU,9,24,substituicao_sai,Caio Torres 
+350,2,09:41,LSB,9,24,ER,Neto
+351,2,09:45,LSB,9,24,RD, Neto
+352,2,09:45,PAU,9,24,3_Pts_T,Dawkins
+353,1,00:00,NaN.,9,24,fim_quarto, 
+354,1,00:03,LSB,9,24,RO, A  Pinheiro
+355,1,00:03,LSB,9,24,2_Pts_T,A  Pinheiro
+356,1,00:07,LSB,9,24,BR,Socas
+357,1,00:07,PAU,9,24,ER,Valtinho
+358,1,00:21,PAU,9,24,substituicao_entra,Valtinho 
+359,1,00:21,PAU,9,24,substituicao_sai,Gemerson 
+360,1,00:21,LSB,9,24,ER,A  Pinheiro
+361,1,00:41,PAU,9,24,3_Pts_C,Jhonatan
+362,1,00:41,PAU,9,21,,
+363,1,01:05,LSB,9,21,2_Pts_C,Gradnigo
+364,1,01:24,PAU,7,21,LL_Pts_C,Jhonatan
+365,1,01:24,PAU,7,20,LL_Pts_C,Jhonatan
+366,1,01:24,PAU,7,19,substituicao_entra,Arthur Pecos 
+367,1,01:24,PAU,7,19,substituicao_entra,Gemerson 
+368,1,01:24,PAU,7,19,substituicao_sai,Guilherme 
+369,1,01:24,PAU,7,19,substituicao_sai,Valtinho 
+370,1,01:24,LSB,7,19,substituicao_entra,Verson 
+371,1,01:24,LSB,7,19,substituicao_entra,Socas 
+372,1,01:24,LSB,7,19,substituicao_sai,Neto 
+373,1,01:24,LSB,7,19,substituicao_sai,Avelino 
+374,1,01:24,PAU,7,19,FR,Jhonatan
+375,1,01:24,LSB,7,19,FC,Lupa
+376,1,01:35,LSB,7,19,2_Pts_C,Lupa
+377,1,01:35,LSB,5,19,,
+378,1,01:56,PAU,5,19,3_Pts_C,Jhonatan
+379,1,01:56,PAU,5,16,,
+380,1,02:13,PAU,5,16,RD, Jhonatan
+381,1,02:13,LSB,5,16,2_Pts_T,Avelino
+382,1,02:20,LSB,5,16,RD, Neto
+383,1,02:20,PAU,5,16,3_Pts_T,Caio Torres
+384,1,02:33,PAU,5,16,RO, Jhonatan
+385,1,02:33,PAU,5,16,2_Pts_T,Guilherme
+386,1,02:39,PAU,5,16,RD, Caio Torres
+387,1,02:39,LSB,5,16,2_Pts_T,Gradnigo
+388,1,03:01,LSB,5,16,substituicao_entra,Gradnigo 
+389,1,03:01,LSB,5,16,substituicao_sai,Renato Scholz 
+390,1,03:01,PAU,5,16,LL_Pts_C,Caio Torres
+391,1,03:01,PAU,5,15,LL_Pts_C,Caio Torres
+392,1,03:01,PAU,5,14,FR,Caio Torres
+393,1,03:01,LSB,5,14,FC,Renato Scholz
+394,1,03:21,PAU,5,14,,
+395,1,03:21,LSB,5,14,ER,Neto
+396,1,03:39,LSB,5,14,substituicao_entra,Lupa 
+397,1,03:39,LSB,5,14,substituicao_sai,Fab Melo 
+398,1,03:41,LSB,5,14,tempo_tecnico, Liga Sorocabana
+399,1,03:41,PAU,5,14,3_Pts_C,Jhonatan
+400,1,03:41,PAU,5,11,,
+401,1,03:50,PAU,5,11,RD, Caio Torres
+402,1,03:50,LSB,5,11,2_Pts_T,Renato Scholz
+403,1,03:57,LSB,5,11,RD, A  Pinheiro
+404,1,03:57,PAU,5,11,LL_Pts_T,Jhonatan
+405,1,03:57,PAU,5,11,LL_Pts_C,Jhonatan
+406,1,03:57,LSB,5,10,substituicao_entra,Renato Scholz 
+407,1,03:57,LSB,5,10,substituicao_sai,Elivelton 
+408,1,03:57,PAU,5,10,FR,Jhonatan
+409,1,03:57,LSB,5,10,FC,Elivelton
+410,1,04:00,PAU,5,10,3_Pts_T,Guilherme
+411,1,04:13,LSB,5,10,substituicao_entra,Avelino 
+412,1,04:13,LSB,5,10,substituicao_sai,Gradnigo 
+413,1,04:13,PAU,5,10,FR,Guilherme
+414,1,04:13,LSB,5,10,FC_O,Gradnigo
+415,1,04:14,LSB,5,10,3_Pts_T,Neto
+416,1,04:40,LSB,5,10,RD, A  Pinheiro
+417,1,04:40,PAU,5,10,2_Pts_T,Jhonatan
+418,1,04:46,PAU,5,10,RO, Jhonatan
+419,1,04:46,PAU,5,10,2_Pts_T,Guilherme
+420,1,04:55,LSB,5,10,substituicao_entra,A  Pinheiro 
+421,1,04:55,LSB,5,10,substituicao_sai,Socas 
+422,1,04:55,PAU,5,10,FR,Dawkins
+423,1,04:55,LSB,5,10,FC,Elivelton
+424,1,04:56,PAU,5,10,BR,Dawkins
+425,1,04:56,LSB,5,10,ER,Neto
+426,1,05:20,PAU,5,10,2_Pts_C,Dawkins
+427,1,05:29,PAU,5,8,RD, Valtinho
+428,1,05:29,LSB,5,8,2_Pts_T,Socas
+429,1,05:35,LSB,5,8,RO, Socas
+430,1,05:35,LSB,5,8,2_Pts_T,Socas
+431,1,05:47,PAU,5,8,substituicao_entra,Jhonatan 
+432,1,05:47,PAU,5,8,substituicao_sai,Gemerson 
+433,1,05:54,LSB,5,8,RD, Liga Sorocabana
+434,1,05:54,PAU,5,8,3_Pts_T,Gemerson
+435,1,05:59,PAU,5,8,RO, Gemerson
+436,1,05:59,PAU,5,8,3_Pts_T,Valtinho
+437,1,06:05,PAU,5,8,3_Pts_C,Guilherme
+438,1,06:05,PAU,5,5,FR,Guilherme
+439,1,06:05,LSB,5,5,FC,Gradnigo
+440,1,06:19,PAU,5,5,RD, Caio Torres
+441,1,06:19,LSB,5,5,2_Pts_T,Fab Melo
+442,1,06:25,LSB,5,5,RO, Socas
+443,1,06:25,LSB,5,5,2_Pts_T,Fab Melo
+444,1,06:29,LSB,5,5,RO, Fab Melo
+445,1,06:29,LSB,5,5,2_Pts_T,Gradnigo
+446,1,06:36,LSB,5,5,RD, Gradnigo
+447,1,06:36,PAU,5,5,2_Pts_T,Dawkins
+448,1,06:41,PAU,5,5,BR,Guilherme
+449,1,06:41,LSB,5,5,ER,Socas
+450,1,06:55,PAU,5,5,2_Pts_C,Guilherme
+451,1,06:55,PAU,5,3,,
+452,1,07:16,LSB,5,3,3_Pts_C,Elivelton
+453,1,07:16,LSB,2,3,,
+454,1,07:32,LSB,2,3,RD, Socas
+455,1,07:32,PAU,2,3,2_Pts_T,Caio Torres
+456,1,07:50,PAU,2,3,RD, Guilherme
+457,1,07:50,LSB,2,3,2_Pts_T,Gradnigo
+458,1,07:55,LSB,2,3,BR,Gradnigo
+459,1,07:55,PAU,2,3,ER,Valtinho
+460,1,08:06,PAU,2,3,RD, Gemerson
+461,1,08:06,LSB,2,3,LL_Pts_T,Fab Melo
+462,1,08:06,LSB,2,3,LL_Pts_C,Fab Melo
+463,1,08:06,PAU,1,3,substituicao_entra,Guilherme 
+464,1,08:06,PAU,1,3,substituicao_sai,Gruber 
+465,1,08:06,LSB,1,3,FR,Fab Melo
+466,1,08:06,PAU,1,3,FC,Gruber
+467,1,08:26,PAU,1,3,3_Pts_C,Gruber
+468,1,08:26,PAU,1,0,,
+469,1,08:34,PAU,1,0,RD, Dawkins
+470,1,08:34,LSB,1,0,2_Pts_T,Fab Melo
+471,1,08:43,LSB,1,0,BR,Neto
+472,1,08:43,PAU,1,0,ER,Gruber
+473,1,08:50,PAU,1,0,RO, Gruber
+474,1,08:50,PAU,1,0,3_Pts_T,Gemerson
+475,1,09:09,LSB,1,0,,
+476,1,09:09,LSB,1,0,LL_Pts_C,Elivelton
+477,1,09:09,LSB,0,0,LL_Pts_T,Elivelton
+478,1,09:09,LSB,0,0,FR,Elivelton
+479,1,09:09,PAU,0,0,FC,Gruber
+480,1,09:30,LSB,0,0,FR,Socas
+481,1,09:30,PAU,0,0,FC_O,Gemerson
+482,1,09:46,LSB,0,0,ER,Gradnigo
+483,1,09:52,LSB,0,0,RO, Fab Melo
+484,1,09:52,LSB,0,0,2_Pts_T,Gradnigo
+485,1,10:00,PAU,0,0,substituicao_entra,Dawkins 
+486,1,10:00,PAU,0,0,substituicao_entra,Gruber 
+487,1,10:00,PAU,0,0,substituicao_entra,Caio Torres 
+488,1,10:00,PAU,0,0,substituicao_entra,Valtinho 
+489,1,10:00,PAU,0,0,substituicao_entra,Gemerson 
+490,1,10:00,LSB,0,0,substituicao_entra,Socas 
+491,1,10:00,LSB,0,0,substituicao_entra,Fab Melo 
+492,1,10:00,LSB,0,0,substituicao_entra,Elivelton 
+493,1,10:00,LSB,0,0,substituicao_entra,Gradnigo 
+494,1,10:00,LSB,0,0,substituicao_entra,Neto 

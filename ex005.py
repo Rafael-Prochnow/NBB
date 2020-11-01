@@ -76,9 +76,6 @@ divisao1 = dados["inf_3"]
 
 divisao1_retirado = divisao1.str.translate({ord(c): " " for c in "!_+"})
 
-dados.to_csv("teste_06.csv", index=None)
-
-'''
 a11 = divisao1_retirado.str.replace('FIM DE PARTIDA Fim de partida', 'fim_partida;')
 a12 = a11.str.replace('nan', '')
 a13 = a12.str.replace("Tentativa para três pontos ", "3_Pts_T;")
@@ -154,7 +151,7 @@ dados.drop('mudados', axis=1, inplace=True)
 
 dados.to_csv("teste_06.csv", index=None)
 driver.quit()
-'''
+
 
 # str coloca para identificação de uma string assim não acontece erro na procura
 # tem nomes separados JOSE HENRIQUE ai da b.o na separação. Então eu estou identificando isso e juntando os nomes
