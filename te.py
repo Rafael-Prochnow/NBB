@@ -47,31 +47,31 @@ driver = webdriver.Firefox()
 driver.get(list_inoutControl[1])
 time.sleep(10)
 
-
+# primeio tipo de tabela
+# encontrar a table jogada-jogada no site da NBB
 driver.find_element_by_xpath(
     "//div[@class='row tabs_content']//ul//li//a[@id='movethemove-label']").click()
-
-
+# encontrar elementos do site com os dados das jogadas
 element = driver.find_element_by_xpath("//div[@class='move_action_scroll']")
-# move_action_scroll column
+# atribuir os dados do site em html
 html_content = element.get_attribute('outerHTML')
-
-# passear o conteúdo em HTML
+# passear o conteúdo em HTML e pegar o texto
 soup = BeautifulSoup(html_content, 'html.parser')
-
 acoes = soup.get_text()
 
-acoes = soup.get_text()
-
+# realizar a limpeza dos dados obtidos
 a = acoes.replace(' 1º', '\n1')
 a = a.replace(' 2º', '\n2')
 a = a.replace(' 3º', '\n3')
 a = a.replace(' 4º', '\n4')
+# precisa separar espaços criados no html e utilizar ; para juntar
 a = re.sub('(.			 |			 |			 )', ';', a)
 a = a.replace('    ', ';')
+# alguns nomes não são colocados por causa do scouter, ai causa uma lacuna. Para resolver fiz isso
 a = a.replace('  ', ';')
 a = a.replace(';;', ';')
 
+# depois de ajustar os espaços eu substititui os indicadores por nomes padronizados
 a = re.sub("(do quarto quarto|INÍCIO DE QUARTO Início do terceiro quarto|"
            "INÍCIO DE QUARTO Início do segundo quarto)", "", a)
 
@@ -82,7 +82,6 @@ a = re.sub('(FIM DE QUARTO Fim do quarto quarto|FIM DE QUARTO Fim do terceiro qu
             'FIM DE QUARTO Fim do segundo quarto|FIM DE QUARTO Fim do primeiro quarto)', '', a)
 a = a.replace('FIM DE PARTIDA Fim de partida', ';fim_partida;')
 a = a.replace('INÍCIO DE QUARTO Início de partida', ';inicio_partida;')
-
 
 # três pontos
 a = a.replace("Tentativa para três pontos ", "3_Pts_T;")
@@ -126,20 +125,25 @@ a = re.sub('( erra tentativa para três pontos| acerta arremesso de três pontos
            ' pede tempo| acerta enterrada | comete falta técnica| comete falta|Estouro dos 24s|'
            ' acerta enterrada)', '', a)
 
-
+# convertendo em um StringIO
 data = io.StringIO(a)
-
+# depois para DataFrame
 df = pd.read_csv(data, sep=';', index_col=False,
                  usecols=[0, 1, 2, 3, 4, 5], header=None)
 df.columns = ['Quarto', 'Tempo', 'Placar', 'Time', 'Indicador', 'Nome']
 
+# separando o placar em duas colunas (casa/visitante)
 divisao1_placar = df["Placar"].str.split(" x ")
 placar_casa = divisao1_placar.str.get(0)
 placar_visitante = divisao1_placar.str.get(1)
 df['placar_casa'] = placar_casa
 df['placar_visitante'] = placar_visitante
 df.drop('Placar', axis=1, inplace=True)
-
+# deixando o DataFrame nessa ordem de colunas
 df = df[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
 
+# realizar algumas modificações para as análises
+
+
+# colocar em csv
 df.to_csv('parte_3.csv')
