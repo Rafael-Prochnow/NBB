@@ -47,6 +47,7 @@ driver = webdriver.Firefox()
 driver.get(list_inoutControl[1])
 time.sleep(10)
 
+
 # primeio tipo de tabela
 # encontrar a table jogada-jogada no site da NBB
 driver.find_element_by_xpath(

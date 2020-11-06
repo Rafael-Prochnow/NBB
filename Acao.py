@@ -189,14 +189,14 @@ for i in list_inoutControl:
         ####################################################################################################
         # esses são os valores que estão os indicadores
         a11 = a10.str.replace('É de três  ', '')
-        a12 = a11.str.replace(' acerta arremesso de três pontos ', '/3_Pts_C;1')
-        a13 = a12.str.replace(' erra tentativa para três pontos ', '/3_Pts_T;1')
+        a12 = a11.str.replace(' acerta arremesso de três pontos', '/3_Pts_C;1')
+        a13 = a12.str.replace(' erra tentativa para três pontos', '/3_Pts_T;1')
         # lance livre
-        a14 = a13.str.replace(' acerta o lance livre ', '/LL_Pts_C;1')
-        a15 = a14.str.replace(' erra o lance livre ', '/LL_Pts_T;1')
+        a14 = a13.str.replace(' acerta o lance livre', '/LL_Pts_C;1')
+        a15 = a14.str.replace(' erra o lance livre', '/LL_Pts_T;1')
         # Dois pontos
-        a16 = a15.str.replace(' acerta arremesso de dois pontos ', '/2_Pts_C;1')
-        a17 = a16.str.replace(' erra tentativa para dois pontos ', '/2_Pts_T;1')
+        a16 = a15.str.replace(' acerta arremesso de dois pontos', '/2_Pts_C;1')
+        a17 = a16.str.replace(' erra tentativa para dois pontos', '/2_Pts_T;1')
         # rebotes
         a18 = a17.str.replace(' pega rebote defensivo', '/RD;1')
         a19 = a18.str.replace(' pega rebote ofensivo', '/RO;1')
