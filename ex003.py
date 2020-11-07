@@ -91,58 +91,58 @@ b = Indicador02.apply(lambda x: re.sub("(Fim de partida.|Fim  do quarto quarto.|
 dados['Time'] = b
 dados.drop('Time_01', axis=1, inplace=True)
 
-a = Indicador03.apply(lambda x: re.sub("(Fim  do quarto quarto.|Fim  do terceiro quarto.|"
+c = Indicador03.apply(lambda x: re.sub("(Fim  do quarto quarto.|Fim  do terceiro quarto.|"
                                        "Fim  do segundo quarto.|Fim  do primeiro quarto.|"
                                        "Fim  do período de prorragação.)", "1/fim_quarto;", x))
 
-a = a.apply(lambda x: re.sub("(Início do  quarto quarto.|Início do  terceiro quarto.|"
+c = c.apply(lambda x: re.sub("(Início do  quarto quarto.|Início do  terceiro quarto.|"
                              "Início do  segundo quarto.|Início do  de período de prorragação.)"
                              , "1/inicio_quarto;", x))
 
-a = a.str.replace('Fim de partida.', '1/fim_partida;')
-a = a.str.replace('Início de partida.', '1/inicio_partida;')
+c = c.str.replace('Fim de partida.', '1/fim_partida;')
+a = c.str.replace('Início de partida.', '1/inicio_partida;')
 
 # dados["Nome"] = a
 # dados.drop('Inf_2', axis=1, inplace=True)
 
 # esses são os valores que estão os indicadores
-a = a.str.replace('É de três! ', '')
-a = a.str.replace(' acerta arremesso de três pontos.', '/3_Pts_C;1')
-a = a.str.replace(' erra tentativa para três pontos.', '/3_Pts_T;1')
+c = c.str.replace('É de três! ', '')
+c = c.str.replace(' acerta arremesso de três pontos.', '/3_Pts_C;1')
+c = c.str.replace(' erra tentativa para três pontos.', '/3_Pts_T;1')
 # lance livre
-a = a.str.replace(' acerta o lance livre.', '/LL_Pts_C;1')
-a = a.str.replace(' erra o lance livre.', '/LL_Pts_T;1')
+c = c.str.replace(' acerta o lance livre.', '/LL_Pts_C;1')
+c = c.str.replace(' erra o lance livre.', '/LL_Pts_T;1')
 # Dois pontos
-a = a.str.replace(' acerta arremesso de dois pontos.', '/2_Pts_C;1')
-a = a.str.replace(' erra tentativa para dois pontos.', '/2_Pts_T;1')
+c = c.str.replace(' acerta arremesso de dois pontos.', '/2_Pts_C;1')
+c = c.str.replace(' erra tentativa para dois pontos.', '/2_Pts_T;1')
 # rebotes
-a = a.str.replace(' pega rebote defensivo.', '/RD;1')
-a = a.str.replace(' pega rebote ofensivo.', '/RO;1')
+c = c.str.replace(' pega rebote defensivo.', '/RD;1')
+c = c.str.replace(' pega rebote ofensivo.', '/RO;1')
 # recuperação de bola
-a = a.str.replace(' recupera a bola.', '/BR;1')
+c = c.str.replace(' recupera a bola.', '/BR;1')
 # assistencia
-a = a.str.replace('Assistência do ', '/AS;')
+c = c.str.replace('Assistência do ', '/AS;')
 # faltas recebidas
-a = a.str.replace(' sofre falta.', '/FR;1')
+c = c.str.replace(' sofre falta.', '/FR;1')
 # faltas cometidas
-a = a.str.replace(' comete falta técnica.', '/FC_T;1')
-a = a.str.replace(' comete falta antidesportiva.', '/FC_A;1')
-a = a.str.replace(' comete falta ofensiva.', '/FC_O;1')
-a = a.str.replace(' comete falta.', '/FC;1')
+c = c.str.replace(' comete falta técnica.', '/FC_T;1')
+c = c.str.replace(' comete falta antidesportiva.', '/FC_A;1')
+c = c.str.replace(' comete falta ofensiva.', '/FC_O;1')
+c = c.str.replace(' comete falta.', '/FC;1')
 # substituição
-a = a.str.replace('Entra ', '/substituicao_entra;')
-a = a.str.replace('Sai ', '/substituicao_sai;')
+c = c.str.replace('Entra ', '/substituicao_entra;')
+c = c.str.replace('Sai ', '/substituicao_sai;')
 # tocos
-a = a.str.replace(' dá um toco.', '/TO;1')
+c = c.str.replace(' dá um toco.', '/TO;1')
 # tempo técnico
-a = a.str.replace('Técnico da equipe ', '')
-a = a.str.replace(' pede tempo.', '/tempo_tecnico;')
+c = c.str.replace('Técnico da equipe ', '')
+c = c.str.replace(' pede tempo.', '/tempo_tecnico;')
 # erros
-a = a.apply(lambda x: re.sub("( perde posse de bola.|Estouro dos 24s.| andou com a bola.|"
+c = c.apply(lambda x: re.sub("( perde posse de bola.|Estouro dos 24s.| andou com a bola.|"
                              " comete violação de saída de quadra.| comete violação de volta de quadra.)", "/ER;1", x))
 # cravada
-a = a.str.replace('Cravada ', '')
-a = a.str.replace(' acerta enterrada.', '/EN;1')
+c = c.str.replace('Cravada ', '')
+c = c.str.replace(' acerta enterrada.', '/EN;1')
 
 divisao1_placar = dados["Placar"].str.split(" x ")
 placar_casa = divisao1_placar.str.get(0)
@@ -154,7 +154,7 @@ dados.drop('Placar', axis=1, inplace=True)
 # primeira separação é coloco na ordem dos nomes e depois indicadores
 # o ; é para fazer a primeira separação: obtem os nomes
 # 1 é para conter um valor apenas, pois quando separo e junto, caso não tenha um valor, o resultado retira os valores
-mudados_00 = a.str.split(';')
+mudados_00 = c.str.split(';')
 mudados_01 = mudados_00.str.get(1)
 mudados_02 = mudados_00.str.get(0)
 

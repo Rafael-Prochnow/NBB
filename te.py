@@ -129,19 +129,19 @@ a = re.sub('( erra tentativa para três pontos| acerta arremesso de três pontos
 # convertendo em um StringIO
 data = io.StringIO(a)
 # depois para DataFrame
-df = pd.read_csv(data, sep=';', index_col=False,
+dados = pd.read_csv(data, sep=';', index_col=False,
                  usecols=[0, 1, 2, 3, 4, 5], header=None)
-df.columns = ['Quarto', 'Tempo', 'Placar', 'Time', 'Indicador', 'Nome']
+dados.columns = ['Quarto', 'Tempo', 'Placar', 'Time', 'Indicador', 'Nome']
 
 # separando o placar em duas colunas (casa/visitante)
 divisao1_placar = df["Placar"].str.split(" x ")
 placar_casa = divisao1_placar.str.get(0)
 placar_visitante = divisao1_placar.str.get(1)
-df['placar_casa'] = placar_casa
-df['placar_visitante'] = placar_visitante
-df.drop('Placar', axis=1, inplace=True)
+dados['placar_casa'] = placar_casa
+dados['placar_visitante'] = placar_visitante
+dados.drop('Placar', axis=1, inplace=True)
 # deixando o DataFrame nessa ordem de colunas
-df = df[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
+dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
 
 # realizar algumas modificações para as análises
 

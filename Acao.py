@@ -6,6 +6,7 @@ from selenium.webdriver.firefox.options import Options
 import requests
 from selenium.common.exceptions import NoSuchElementException
 import io
+import re
 
 r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=27&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
@@ -21,61 +22,7 @@ def get_links_from(soup):
 list_inoutControl = get_links_from(soup)
 
 ano = 15
-# erro em são jose_74x95_pinheiros
-del(list_inoutControl[15])
-# erro en são josé_71_x76_caxias do sul
-del(list_inoutControl[21])
-# erro em são josé_88x82_rio claro
-del(list_inoutControl[24])
-# erro em paulistano_88x100_brasilia 237
-del(list_inoutControl[233])
 
-
-'''
-ano = 15
-# erro em são jose_74x95_pinheiros
-del(list_inoutControl[15])
-# erro en são josé_71_x76_caxias do sul
-del(list_inoutControl[21])
-# erro em são josé_88x82_rio claro
-del(list_inoutControl[24])
-# erro em paulistano_88x100_brasilia 237
-del(list_inoutControl[233])
-# erro em rio claro_63x72_bauru
-del(list_inoutControl[39])
-#  erro em brasilia_85x94_flamengo
-del(list_inoutControl[75])
-# erro em brasília_83x73_são josé
-del(list_inoutControl[114])
-# erro em franca_71x79_brasilia
-del(list_inoutControl[122])
-# erro em Minas_76x82_paulistano
-del(list_inoutControl[156])
-# erro me cearence_77x71_franca
-del(list_inoutControl[168])
-
-ano = 16
-# jogo do pinheiros_x_vitória não aparece as estatísticas do jogo
-del(list_inoutControl[1])
-# jogo do flamengo_75x78_pinheiros não aparece as estatísticas do jogo 244
-# alem disso a lista sai errado e tira mais dois jogos --> mogi_85x95_vitória e franca_67x80_paulistano
-del(list_inoutControl[243:246])
-# erro em paulistano_82x49_caxias o sul
-del(list_inoutControl[68])
-# erro paulistano_64x81_bauru
-del(list_inoutControl[253])
-
-del(list_inoutControl[:149])
-print(list_inoutControl)
-
-ano = 17
-# joinville _81x91_flamengo
-del(list_inoutControl[135])
-
-ano = 19
-# erro em mogi_91x84_Minas
-del(list_inoutControl[85])
-'''
 #######################################################################################################################
 
 ii = 1
@@ -135,32 +82,76 @@ for i in list_inoutControl:
              })
 
         # erro de espaços vindo de cima
-        Indicador01 = dados['Time_01'].str.replace(
-            '.                                                                    \n\n', '')
-        # limpeza dos dados tirando Fim de partida e dos quartos
-
-        erro02 = Indicador01.str.replace('Fim de partida', 'NaN')
-        erro03 = erro02.str.replace('Fim  do quarto quarto', 'NaN')
-        erro04 = erro03.str.replace('Início do  quarto quarto', 'NaN')
-        erro05 = erro04.str.replace('Fim  do terceiro quarto', 'NaN')
-        erro06 = erro05.str.replace('Início do  terceiro quarto', 'NaN')
-        erro07 = erro06.str.replace('Fim  do segundo quarto', 'NaN')
-        erro08 = erro07.str.replace('Início do  segundo quarto', 'NaN')
-        erro09 = erro08.str.replace('Fim  do primeiro quarto', 'NaN')
-        erro10 = erro09.str.replace('Início do  primeiro quarto', 'NaN')
-        Indicador_consertado = erro10.str.replace('Início de partida', 'NaN')
-        # deve ter prorrogação!!!!
-
-        dados['Time'] = Indicador_consertado
-        dados.drop('Time_01', axis=1, inplace=True)
-        # erro de espaços vinda de cima
-        Indicador02 = dados['Inf_2'].str.replace(
+        Indicador02 = dados['Time_01'].str.replace(
             '                                                                    \n\n', '')
 
-        divisao1_retirado = Indicador02.str.translate({ord(c): " " for c in ".!_+"})
-        dados['Indicador_01'] = divisao1_retirado
-        dados.drop('Inf_2', axis=1, inplace=True)
-        ################################################################################################################
+        Indicador03 = dados['Inf_2'].str.replace(
+            '                                                                    \n\n', '')
+
+        # esses valores estão invertidos ou seja
+        # Nome; Indicador
+        # Indicador ; Nome
+        # não posso separa-los diretamente então vou fazer uma gambiarra
+        # esses são os valores onde apresentam os nomes
+        b = Indicador02.apply(lambda x: re.sub(
+            "(Fim de partida.|Fim  do quarto quarto.|Início do  quarto quarto.|"
+            "Fim  do terceiro quarto.|Início do  terceiro quarto.|Fim  do segundo quarto.|"
+            "Início do  segundo quarto.|Fim  do primeiro quarto.|Início de partida.|"
+            "Fim  do período de prorragação.|Início do  de período de prorragação.)", "", x))
+        dados['Time'] = b
+        dados.drop('Time_01', axis=1, inplace=True)
+
+        c = Indicador03.apply(lambda x: re.sub("(Fim  do quarto quarto.|Fim  do terceiro quarto.|"
+                                               "Fim  do segundo quarto.|Fim  do primeiro quarto.|"
+                                               "Fim  do período de prorragação.)", "1/fim_quarto;", x))
+
+        c = c.apply(lambda x: re.sub("(Início do  quarto quarto.|Início do  terceiro quarto.|"
+                                     "Início do  segundo quarto.|Início do  de período de prorragação.)"
+                                     , "1/inicio_quarto;", x))
+
+        c = c.str.replace('Fim de partida.', '1/fim_partida;')
+        a = c.str.replace('Início de partida.', '1/inicio_partida;')
+
+        # esses são os valores que estão os indicadores
+        c = c.str.replace('É de três! ', '')
+        c = c.str.replace(' acerta arremesso de três pontos.', '/3_Pts_C;1')
+        c = c.str.replace(' erra tentativa para três pontos.', '/3_Pts_T;1')
+        # lance livre
+        c = c.str.replace(' acerta o lance livre.', '/LL_Pts_C;1')
+        c = c.str.replace(' erra o lance livre.', '/LL_Pts_T;1')
+        # Dois pontos
+        c = c.str.replace(' acerta arremesso de dois pontos.', '/2_Pts_C;1')
+        c = c.str.replace(' erra tentativa para dois pontos.', '/2_Pts_T;1')
+        # rebotes
+        c = c.str.replace(' pega rebote defensivo.', '/RD;1')
+        c = c.str.replace(' pega rebote ofensivo.', '/RO;1')
+        # recuperação de bola
+        c = c.str.replace(' recupera a bola.', '/BR;1')
+        # assistencia
+        c = c.str.replace('Assistência do ', '/AS;')
+        # faltas recebidas
+        c = c.str.replace(' sofre falta.', '/FR;1')
+        # faltas cometidas
+        c = c.str.replace(' comete falta técnica.', '/FC_T;1')
+        c = c.str.replace(' comete falta antidesportiva.', '/FC_A;1')
+        c = c.str.replace(' comete falta ofensiva.', '/FC_O;1')
+        c = c.str.replace(' comete falta.', '/FC;1')
+        # substituição
+        c = c.str.replace('Entra ', '/substituicao_entra;')
+        c = c.str.replace('Sai ', '/substituicao_sai;')
+        # tocos
+        c = c.str.replace(' dá um toco.', '/TO;1')
+        # tempo técnico
+        c = c.str.replace('Técnico da equipe ', '')
+        c = c.str.replace(' pede tempo.', '/tempo_tecnico;')
+        # erros
+        c = c.apply(lambda x: re.sub("( perde posse de bola.|Estouro dos 24s.| andou com a bola.|"
+                                     " comete violação de saída de quadra.| comete violação de volta de quadra.)",
+                                     "/ER;1", x))
+        # cravada
+        c = c.str.replace('Cravada ', '')
+        c = c.str.replace(' acerta enterrada.', '/EN;1')
+
         divisao1_placar = dados["Placar"].str.split(" x ")
         placar_casa = divisao1_placar.str.get(0)
         placar_visitante = divisao1_placar.str.get(1)
@@ -168,79 +159,15 @@ for i in list_inoutControl:
         dados['placar_visitante'] = placar_visitante
         dados.drop('Placar', axis=1, inplace=True)
 
-        # esses valores estão invertidos ou seja
-        # Nome; Indicador
-        # Indicador ; Nome
-        # não posso separa-los diretamente então vou fazer uma gambiarra
-        # esses são os valores onde apresentam os nomes
-        divisao1 = dados["Indicador_01"]
-
-        a1 = divisao1.str.replace('Fim de partida', '1/fim_partida;')
-        a2 = a1.str.replace('Início de partida', '1/inicio_partida;')
-        a3 = a2.str.replace('Início do  primeiro quarto', '1/inicio_quarto;')
-        a4 = a3.str.replace('Início do  segundo quarto', '1/inicio_quarto;')
-        a5 = a4.str.replace('Início do  terceiro quarto', '1/inicio_quarto;')
-        a6 = a5.str.replace('Início do  quarto quarto', '1/inicio_quarto;')
-        a7 = a6.str.replace('Fim  do quarto quarto', '/fim_quarto;')
-        a8 = a7.str.replace('Fim  do terceiro quarto', '1/fim_quarto;')
-        a9 = a8.str.replace('Fim  do segundo quarto', '1/fim_quarto;')
-        a10 = a9.str.replace('Fim  do primeiro quarto', '1/fim_quarto;')
-
-        ####################################################################################################
-        # esses são os valores que estão os indicadores
-        a11 = a10.str.replace('É de três  ', '')
-        a12 = a11.str.replace(' acerta arremesso de três pontos', '/3_Pts_C;1')
-        a13 = a12.str.replace(' erra tentativa para três pontos', '/3_Pts_T;1')
-        # lance livre
-        a14 = a13.str.replace(' acerta o lance livre', '/LL_Pts_C;1')
-        a15 = a14.str.replace(' erra o lance livre', '/LL_Pts_T;1')
-        # Dois pontos
-        a16 = a15.str.replace(' acerta arremesso de dois pontos', '/2_Pts_C;1')
-        a17 = a16.str.replace(' erra tentativa para dois pontos', '/2_Pts_T;1')
-        # rebotes
-        a18 = a17.str.replace(' pega rebote defensivo', '/RD;1')
-        a19 = a18.str.replace(' pega rebote ofensivo', '/RO;1')
-        # recuperação de bola
-        a20 = a19.str.replace(' recupera a bola ', '/BR;1')
-        # assistencia
-        a21 = a20.str.replace(' Assistência do ', '/AS;')
-        # faltas recebidas
-        a22 = a21.str.replace(' sofre falta ', '/FR;1')
-        # faltas cometidas
-        a23 = a22.str.replace(' comete falta técnica ', '/FC_T;1')
-        a24 = a23.str.replace(' comete falta antidesportiva ', '/FC_A;1')
-        a25 = a24.str.replace(' comete falta ofensiva ', '/FC_O;1')
-        a26 = a25.str.replace(' comete falta ', '/FC;1')
-        # substituição
-        a27 = a26.str.replace('Entra ', '/substituicao_entra;')
-        a28 = a27.str.replace('Sai ', '/substituicao_sai;')
-        # erros
-        a29 = a28.str.replace(' perde posse de bola ', '/ER;1')
-        a30 = a29.str.replace('Estouro dos 24s ', '/ER;1')
-        a31 = a30.str.replace(' andou com a bola ', '/ER;1')
-        a32 = a31.str.replace(' comete violação de saída de quadra ', '/ER;1')
-        # tocos
-        a33 = a32.str.replace(' dá um toco ', '/TO;1')
-        # tempo técnico
-        a34 = a33.str.replace('Técnico da equipe ', '')
-        a35 = a34.str.replace(' pede tempo ', '/tempo_tecnico;')
-        # cravada
-        a36 = a35.str.replace('Cravada ', '')
-        a37 = a36.str.replace(' acerta enterrada ', '/EN;1')
-
         # primeira separação é coloco na ordem dos nomes e depois indicadores
-        # o ; é para fazer a primeira separação
-        # 1 é para conter um valor apenas, pois quando separo e junto, caso não tenha um valor, o resultado retira
-        # os valores
-        mudados_00 = a37.str.split(';')
+        # o ; é para fazer a primeira separação: obtem os nomes
+        # 1 é para conter um valor apenas, pois quando separo e junto, caso não tenha um valor,
+        # o resultado retira os valores
+        mudados_00 = c.str.split(';')
         mudados_01 = mudados_00.str.get(1)
         mudados_02 = mudados_00.str.get(0)
 
-        # outra forma de tirar o (% de algo)
-        mudados_03 = mudados_01.str.split('(')
-        mudados_04 = mudados_03.str.get(0)
-
-        alinhados = mudados_04 + mudados_02
+        alinhados = mudados_01 + mudados_02
         # agora que juntou e alinhou os nomes
         # organizar novamente
         alinhados_01 = alinhados.str.split('/')
@@ -249,157 +176,103 @@ for i in list_inoutControl:
 
         # depois de separado vamos organizar por nomes e retirar os valores que ajudaram na primeira separação,
         # como 1 e espaço
-
         alinhados_04 = alinhados_02.str.replace('1 ', '')
-        alinhados_05 = alinhados_04.str.replace(' 1', '')
+        alinhados_05 = alinhados_04.str.replace('1', '')
 
         dados["Indicador"] = alinhados_03
-        dados["Nomes"] = alinhados_05
-        dados.drop('Indicador_01', axis=1, inplace=True)
+        dados["Nome"] = alinhados_05
+        dados.drop('Inf_2', axis=1, inplace=True)
+        dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
+        # se ER não tiver ninguém é pq foi estouro de 24s
 
     else:
         html_content = element.get_attribute('outerHTML')
-
-        r1 = requests.get(f'{i}')
-        soup01 = BeautifulSoup(r1.content, 'html.parser')
-
-        informacoes_1 = soup01.find_all("div", class_="score_header large-12 small-12 medium-12 columns")
-        informacoes_2 = soup01.find_all("div", class_="float-right text-left score_header_right")
-
-        nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
-        nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
-
-        # acontece erro por conta de nomes com siglas ai eu preciso substituir
-        nome_casa = nome_casa.replace('/', ' ')
-        nome_fora = nome_fora.replace('/', ' ')
-
-        # passear o conteúdo em HTML
+        # passear o conteúdo em HTML e pegar o texto
         soup = BeautifulSoup(html_content, 'html.parser')
-
         acoes = soup.get_text()
+
+        # realizar a limpeza dos dados obtidos
         a = acoes.replace(' 1º', '\n1')
-        a1 = a.replace(' 2º', '\n2')
-        a2 = a1.replace(' 3º', '\n3')
-        a3 = a2.replace(' 4º', '\n4')
+        a = a.replace(' 2º', '\n2')
+        a = a.replace(' 3º', '\n3')
+        a = a.replace(' 4º', '\n4')
+        # precisa separar espaços criados no html e utilizar ; para juntar
+        a = re.sub('(.			 |			 |			 )', ';', a)
+        a = a.replace('    ', ';')
+        # alguns nomes não são colocados por causa do scouter, ai causa uma lacuna. Para resolver fiz isso
+        a = a.replace('  ', ';')
+        a = a.replace(';;', ';')
 
-        a4 = a3.replace('.			 ', ';')
-        a5 = a4.replace('      ', ';')
-        a6 = a5.replace('  ', ';')
-        a7 = a6.replace('    ', ';')
-        a8 = a7.replace('			 ', ';')
-        a9 = a8.replace('			 ', ';')
-        a10 = a9.replace('			', '')
+        # depois de ajustar os espaços eu substititui os indicadores por nomes padronizados
+        a = re.sub("(do quarto quarto|INÍCIO DE QUARTO Início do terceiro quarto|"
+                   "INÍCIO DE QUARTO Início do segundo quarto)", "", a)
 
-        # fazer um if caso tenha prorrogação
+        a = a.replace("INÍCIO DE QUARTO Início do", ";inicio_quarto")
+        a = a.replace("FIM DE QUARTO Fim", ";fim_quarto")
 
-        data = io.StringIO(a10)
-        df = pd.read_csv(data, sep=';', index_col=False,
-                         usecols=[0, 1, 2, 3, 4, 5], header=None)
-        df.columns = ['Quarto', 'Tempo', 'Placar', 'Time', 'Inf_1', 'Inf_2']
+        a = re.sub('(FIM DE QUARTO Fim do quarto quarto|FIM DE QUARTO Fim do terceiro quarto|'
+                   'FIM DE QUARTO Fim do segundo quarto|FIM DE QUARTO Fim do primeiro quarto)', '', a)
+        a = a.replace('FIM DE PARTIDA Fim de partida', ';fim_partida;')
+        a = a.replace('INÍCIO DE QUARTO Início de partida', ';inicio_partida;')
 
-        divisao1_placar = df["Placar"].str.split(" x ")
+        # três pontos
+        a = a.replace("Tentativa para três pontos ", "3_Pts_T;")
+        a = a.replace('É DE TRÊS! É de três! ', '3_Pts_C;')
+        # lance livre
+        a = a.replace('+1 PONTO ', 'LL_Pts_C;')
+        a = a.replace('Lance Livre Errado ', 'LL_Pts_T;')
+        # dois pontos
+        a = a.replace('Tentativa para dois pontos ', '2_Pts_T;')
+        a = a.replace('+2 PONTOS ', '2_Pts_C;')
+        # rebotes
+        a = a.replace('REBOTE DEFENSIVO ', 'RD;')
+        a = a.replace('REBOTE OFENSIVO ', 'RO;')
+        # recuperação da bola
+        a = a.replace('Bola recuperada ', 'BR;')
+        # assistência
+        a = a.replace('ASSISTÊNCIA Assistência do ', 'AS;')
+        # faltas recebidas
+        a = a.replace('Falta sofrida ', 'FR;')
+        # faltas cometidas
+        a = a.replace('FALTA OFENSIVA', 'FC_O;')
+        a = a.replace('FALTA ANTIDESPORTIVA ', 'FC_A;')
+        a = a.replace('FALTA TÉCNICA ', 'FC_T;')
+        a = a.replace('FALTA ', 'FC;')
+        # substituições
+        a = a.replace('Substituição Entra ', 'substituicao_entra;')
+        a = a.replace('Substituição Sai ', 'substituicao_sai;')
+        # tocos
+        a = a.replace('TOCO  ', 'TO;')
+        # tempo técnico
+        a = a.replace('TEMPO TÉCNICO Técnico da equipe ', 'tempo_tecnico;')
+        # Erros
+        a = re.sub('( Violação Estouro dos 24s|Violação |Erro )', 'ER;', a)
+        # enterrada
+        a = a.replace('CRAVADA! Cravada!', 'EN;')
+        # retiradas de informações inúteis
+        a = re.sub('( erra tentativa para três pontos| acerta arremesso de três pontos| acerta o lance livre|'
+                   ' erra tentativa para dois pontos| acerta arremesso de dois pontos| pega rebote ofensivo|'
+                   ' erra o lance livre| pega rebote defensivo| recupera a bola| sofre falta| comete falta ofensiva|'
+                   ' antidesportiva| perde posse de bola| comete violação de saída de quadra|nan| dá um toco|'
+                   ' pede tempo| acerta enterrada | comete falta técnica| comete falta|Estouro dos 24s|'
+                   ' acerta enterrada)', '', a)
 
+        # convertendo em um StringIO
+        data = io.StringIO(a)
+        # depois para DataFrame
+        dados = pd.read_csv(data, sep=';', index_col=False,
+                            usecols=[0, 1, 2, 3, 4, 5], header=None)
+        dados.columns = ['Quarto', 'Tempo', 'Placar', 'Time', 'Indicador', 'Nome']
+
+        # separando o placar em duas colunas (casa/visitante)
+        divisao1_placar = dados["Placar"].str.split(" x ")
         placar_casa = divisao1_placar.str.get(0)
         placar_visitante = divisao1_placar.str.get(1)
-        df['placar_casa'] = placar_casa
-        df['placar_visitante'] = placar_visitante
-        df.drop('Placar', axis=1, inplace=True)
-
-        dados = df.assign(inf_3=df.Inf_1.astype(str) + ' ' + df.Inf_2.astype(str))
-        dados.drop('Inf_1', axis=1, inplace=True)
-        dados.drop('Inf_2', axis=1, inplace=True)
-
-        divisao1 = dados["inf_3"]
-
-        divisao1_retirado = divisao1.str.translate({ord(c): " " for c in "!_+"})
-        a1 = divisao1_retirado.str.replace('FIM DE PARTIDA Fim de partida', 'fim_partida;')
-        a2 = a1.str.replace('INÍCIO DE QUARTO Início de partida', 'inicio_partida;')
-        a3 = a2.str.replace('INÍCIO DE QUARTO Início do quarto quarto', 'inicio_quarto;')
-        a4 = a3.str.replace('INÍCIO DE QUARTO Início do terceiro quarto', 'inicio_quarto;')
-        a5 = a4.str.replace('INÍCIO DE QUARTO Início do segundo quarto', 'inicio_quarto;')
-        a6 = a5.str.replace('FIM DE QUARTO Fim do quarto quarto', 'fim_quarto;')
-        a7 = a6.str.replace('FIM DE QUARTO Fim do terceiro quarto', 'fim_quarto;')
-        a8 = a7.str.replace('FIM DE QUARTO Fim do segundo quarto', 'fim_quarto;')
-        a9 = a8.str.replace('FIM DE QUARTO Fim do primeiro quarto', 'fim_quarto;')
-
-        # fora revisados os dados na primeira planilha. eu sei que está certo uma olhada pq
-        # os dados apresentam padrão na escrita
-        ###########################################################################################################
-        # três pontos
-        a10 = a9.str.replace("Tentativa para três pontos ", "3_Pts_T;")
-        a11 = a10.str.replace('É DE TRÊS  É de três  ', '3_Pts_C;')
-        a12 = a11.str.replace(' erra tentativa para três pontos', '')
-        a13 = a12.str.replace(' acerta arremesso de três pontos', '')
-        # lance livre
-        a14 = a13.str.replace(' 1 PONTO ', 'LL_Pts_C;')
-        a15 = a14.str.replace('Lance Livre Errado ', 'LL_Pts_T;')
-        a16 = a15.str.replace(' acerta o lance livre', '')
-        a17 = a16.str.replace(' erra o lance livre', '')
-        # dois pontos
-        a18 = a17.str.replace('Tentativa para dois pontos ', '2_Pts_T;')
-        a19 = a18.str.replace(' 2 PONTOS ', '2_Pts_C;')
-        a20 = a19.str.replace(' erra tentativa para dois pontos', '')
-        a21 = a20.str.replace(' acerta arremesso de dois pontos', '')
-        # rebotes
-        a22 = a21.str.replace('REBOTE DEFENSIVO ', 'RD;')
-        a23 = a22.str.replace('REBOTE OFENSIVO ', 'RO;')
-        a24 = a23.str.replace(' pega rebote ofensivo', '')
-        a25 = a24.str.replace(' pega rebote defensivo', '')
-        # recuperação da bola
-        a26 = a25.str.replace('Bola recuperada ', 'BR;')
-        a27 = a26.str.replace(' recupera a bola', '')
-        # assistência
-        a28 = a27.str.replace('ASSISTÊNCIA Assistência do ', 'AS;')
-        # faltas recebidas
-        a29 = a28.str.replace('Falta sofrida ', 'FR;')
-        a30 = a29.str.replace(' sofre falta', '')
-        # faltas cometidas
-        a31 = a30.str.replace('FALTA OFENSIVA', 'FC_O;')
-        a32 = a31.str.replace(' comete falta ofensiva', '')
-        a34 = a32.str.replace('FALTA ANTIDESPORTIVA ', 'FC_A;')
-        a35 = a34.str.replace(' antidesportiva', '')
-        # substituições
-        a36 = a35.str.replace('Substituição Entra ', 'substituicao_entra;')
-        a37 = a36.str.replace('Substituição Sai ', 'substituicao_sai;')
-        # Erros
-        a38 = a37.str.replace(' Violação Estouro dos 24s', 'ER;')
-        a39 = a38.str.replace('Violação ', 'ER;')
-        a40 = a39.str.replace('Erro ', 'ER;')
-        a41 = a40.str.replace(' perde posse de bola', '')
-        a42 = a41.str.replace(' comete violação de saída de quadra', '')
-        a43 = a42.str.replace('nan', '')
-        # tocos
-        a44 = a43.str.replace('TOCO  ', 'TO;')
-        a45 = a44.str.replace(' dá um toco', '')
-        # tempo técnico
-        a46 = a45.str.replace(' TEMPO TÉCNICO Técnico da equipe ', 'tempo_tecnico;')
-        a47 = a46.str.replace(' pede tempo', '')
-        # enterrada
-        a48 = a47.str.replace('CRAVADA  Cravada ', 'EN;')
-        a49 = a48.str.replace(' acerta enterrada ', '')
-        #########################################################################################################
-        # outra revisão
-        a50 = a49.str.replace('FALTA TÉCNICA ', 'FC_T;')
-        a51 = a50.str.replace(' comete falta técnica', '')
-        a52 = a51.str.replace('FALTA ', 'FC;')
-        a53 = a52.str.replace(' comete falta', '')
-        # a = a.str.replace(' andou com a bola', '/ER;1')
-
-        # adicionar e tirar os dados
-        dados['mudados'] = a53
-        dados.drop('inf_3', axis=1, inplace=True)
-
-        separar_01 = dados['mudados'].str.split(";")
-        Indicador = separar_01.str.get(0)
-        dados['Indicador'] = Indicador
-        inf_02 = separar_01.str.get(1)
-        
-        teste = inf_02.str.translate({ord(c): "," for c in "("})
-
-        teste2 = teste.str.split(',')
-        teste3 = teste2.str.get(0)
-        dados['Nomes'] = teste3
-        dados.drop('mudados', axis=1, inplace=True)
+        dados['placar_casa'] = placar_casa
+        dados['placar_visitante'] = placar_visitante
+        dados.drop('Placar', axis=1, inplace=True)
+        # deixando o DataFrame nessa ordem de colunas
+        dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
 
     dados.to_csv("Dados01/temporada 2015/" + "tabela_" + f"{ii}" + "_" + nome_casa + "_x_" + nome_fora + ".csv")
     nome_inf_coluna = nome_casa + "_x_" + nome_fora
