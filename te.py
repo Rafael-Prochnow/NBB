@@ -8,25 +8,6 @@ import io
 import re
 import html5lib
 
-'''
-lista_de_temporadas = ['https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=54&wherePlaying=-1&played=-1',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=47',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=41&wherePlaying=-1&played=-1',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=34',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=27&wherePlaying=-1&played=-1',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=15',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=8&wherePlaying=-1&played=-1',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=4',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=3&wherePlaying=-1&played=-1',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=2',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=1&wherePlaying=-1&played=-1']
-t = 19
-
-for x in lista_de_temporadas:
-    r = requests.get(x)
-    f'soup{t}' = BeautifulSoup(r.content, 'html.parser')
-    t = t-1
-'''
 
 r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=54&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
