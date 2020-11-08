@@ -7,7 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
 # teste
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=54&wherePlaying=-1&played=-1')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=41&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
@@ -19,14 +19,16 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
-del(list_inoutControl[:40])
+# del(list_inoutControl[:40])
+del(list_inoutControl[:251])
+print(list_inoutControl)
 
 ########################################################################################################################
 option = Options()
 option.headless = True
 driver = webdriver.Firefox()
 # options=option
-driver.get(list_inoutControl[1])
+driver.get(list_inoutControl[0])
 time.sleep(10)
 
 driver.find_element_by_xpath(
@@ -50,19 +52,6 @@ placar = [nome_placar.find(class_='points').get_text() for nome_placar in items]
 items01 = soup.find_all(class_='move_action_content_text')
 acao_pessoa02 = [nome_acao_pessoa02.find("p", class_='').get_text() for nome_acao_pessoa02 in items01]
 
-r1 = requests.get(list_inoutControl[1])
-soup01 = BeautifulSoup(r1.content, 'html.parser')
-
-informacoes_1 = soup01.find_all("div", class_="float-left text-right")
-informacoes_2 = soup01.find_all("div", class_="float-right text-left")
-
-nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
-nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
-
-# acontece erro por conta de nomes com siglas ai eu preciso substituir
-nome_casa = nome_casa.replace('/', ' ')
-nome_fora = nome_fora.replace('/', ' ')
-
 dados = pd.DataFrame(
     {'Quarto': quarto,
      'Tempo': tempo,
@@ -70,7 +59,6 @@ dados = pd.DataFrame(
      'Placar': placar,
      'Inf_2': acao_pessoa02
      })
-
 
 # erro de espaços vindo de cima
 Indicador02 = dados['Time_01'].str.replace(
@@ -84,65 +72,71 @@ Indicador03 = dados['Inf_2'].str.replace(
 # Indicador ; Nome
 # não posso separa-los diretamente então vou fazer uma gambiarra
 # esses são os valores onde apresentam os nomes
-b = Indicador02.apply(lambda x: re.sub("(Fim de partida.|Fim  do quarto quarto.|Início do  quarto quarto.|"
-                                       "Fim  do terceiro quarto.|Início do  terceiro quarto.|Fim  do segundo quarto.|"
-                                       "Início do  segundo quarto.|Fim  do primeiro quarto.|Início de partida.|"
-                                       "Fim  do período de prorragação.|Início do  de período de prorragação.)", "", x))
+b = Indicador02.str.translate({ord(c): "" for c in ".!_+"})
+
+b = b.apply(lambda x: re.sub("(Fim de partida|Fim  do quarto quarto|Início do  quarto quarto|"
+                             "Fim  do terceiro quarto|Início do  terceiro quarto|Fim  do segundo quarto|"
+                             "Início do  segundo quarto|Fim  do primeiro quarto|Início de partida|"
+                             "Fim  do período de prorragação|Início do  de período de prorragação)", "", x))
 dados['Time'] = b
 dados.drop('Time_01', axis=1, inplace=True)
+c = Indicador03.str.translate({ord(c): "" for c in ".!_+"})
 
-c = Indicador03.apply(lambda x: re.sub("(Fim  do quarto quarto.|Fim  do terceiro quarto.|"
-                                       "Fim  do segundo quarto.|Fim  do primeiro quarto.|"
-                                       "Fim  do período de prorragação.)", "1/fim_quarto;", x))
+c = c.apply(lambda x: re.sub("(Fim  do quarto quarto|Fim  do terceiro quarto|"
+                             "Fim  do segundo quarto|Fim  do primeiro quarto|"
+                             "Fim  do período de prorragação)", "1/fim_quarto;", x))
 
-c = c.apply(lambda x: re.sub("(Início do  quarto quarto.|Início do  terceiro quarto.|"
-                             "Início do  segundo quarto.|Início do  de período de prorragação.)"
+c = c.apply(lambda x: re.sub("(Início do  quarto quarto|Início do  terceiro quarto|"
+                             "Início do  segundo quarto|Início do  de período de prorragação)"
                              , "1/inicio_quarto;", x))
 
-c = c.str.replace('Fim de partida.', '1/fim_partida;')
-a = c.str.replace('Início de partida.', '1/inicio_partida;')
+c = c.str.replace('Fim de partida', '1/fim_partida;')
+c = c.str.replace('Início de partida', '1/inicio_partida;')
 
 # dados["Nome"] = a
 # dados.drop('Inf_2', axis=1, inplace=True)
 
 # esses são os valores que estão os indicadores
-c = c.str.replace('É de três! ', '')
-c = c.str.replace(' acerta arremesso de três pontos.', '/3_Pts_C;1')
-c = c.str.replace(' erra tentativa para três pontos.', '/3_Pts_T;1')
+c = c.str.replace('É de três ', '')
+c = c.str.replace(' acerta arremesso de três pontos', '/3_Pts_C;1')
+c = c.str.replace(' erra tentativa para três pontos', '/3_Pts_T;1')
 # lance livre
-c = c.str.replace(' acerta o lance livre.', '/LL_Pts_C;1')
-c = c.str.replace(' erra o lance livre.', '/LL_Pts_T;1')
+c = c.str.replace(' acerta o lance livre', '/LL_Pts_C;1')
+c = c.str.replace(' erra o lance livre', '/LL_Pts_T;1')
 # Dois pontos
-c = c.str.replace(' acerta arremesso de dois pontos.', '/2_Pts_C;1')
-c = c.str.replace(' erra tentativa para dois pontos.', '/2_Pts_T;1')
+c = c.str.replace(' acerta arremesso de dois pontos', '/2_Pts_C;1')
+c = c.str.replace(' erra tentativa para dois pontos', '/2_Pts_T;1')
 # rebotes
-c = c.str.replace(' pega rebote defensivo.', '/RD;1')
-c = c.str.replace(' pega rebote ofensivo.', '/RO;1')
+c = c.str.replace(' pega rebote defensivo', '/RD;1')
+c = c.str.replace(' pega rebote ofensivo', '/RO;1')
 # recuperação de bola
-c = c.str.replace(' recupera a bola.', '/BR;1')
+c = c.str.replace(' recupera a bola', '/BR;1')
 # assistencia
 c = c.str.replace('Assistência do ', '/AS;')
 # faltas recebidas
-c = c.str.replace(' sofre falta.', '/FR;1')
+c = c.str.replace(' sofre falta', '/FR;1')
 # faltas cometidas
-c = c.str.replace(' comete falta técnica.', '/FC_T;1')
-c = c.str.replace(' comete falta antidesportiva.', '/FC_A;1')
-c = c.str.replace(' comete falta ofensiva.', '/FC_O;1')
-c = c.str.replace(' comete falta.', '/FC;1')
+c = c.str.replace(' comete falta técnica', '/FC_T;1')
+c = c.str.replace(' comete falta antidesportiva', '/FC_A;1')
+c = c.str.replace(' comete falta ofensiva', '/FC_O;1')
+c = c.str.replace(' comete falta', '/FC;1')
 # substituição
 c = c.str.replace('Entra ', '/substituicao_entra;')
 c = c.str.replace('Sai ', '/substituicao_sai;')
 # tocos
-c = c.str.replace(' dá um toco.', '/TO;1')
+c = c.str.replace(' dá um toco', '/TO;1')
 # tempo técnico
 c = c.str.replace('Técnico da equipe ', '')
-c = c.str.replace(' pede tempo.', '/tempo_tecnico;')
+c = c.str.replace(' pede tempo', '/tempo_tecnico;')
 # erros
-c = c.apply(lambda x: re.sub("( perde posse de bola.|Estouro dos 24s.| andou com a bola.|"
-                             " comete violação de saída de quadra.| comete violação de volta de quadra.)", "/ER;1", x))
+c = c.apply(lambda x: re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
+                             " comete violação de saída de quadra| comete violação de volta de quadra)", "/ER;1", x))
 # cravada
-c = c.str.replace('Cravada ', '')
-c = c.str.replace(' acerta enterrada.', '/EN;1')
+c = c.str.replace('Cravada', '')
+c = c.str.replace(' acerta enterrada', '/EN;1')
+
+# falta técnica para treinador
+c = c.str.replace('Técnico do ', '')
 
 divisao1_placar = dados["Placar"].str.split(" x ")
 placar_casa = divisao1_placar.str.get(0)
@@ -176,5 +170,18 @@ dados.drop('Inf_2', axis=1, inplace=True)
 dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
 
 # se ER não tiver ninguém é pq foi estouro de 24s
-dados.to_csv('parte_3.csv')
 
+r1 = requests.get(list_inoutControl[1])
+soup01 = BeautifulSoup(r1.content, 'html.parser')
+
+informacoes_1 = soup01.find_all("div", class_="float-left text-right")
+informacoes_2 = soup01.find_all("div", class_="float-right text-left")
+
+nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
+nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
+
+# acontece erro por conta de nomes com siglas ai eu preciso substituir
+nome_casa = nome_casa.replace('/', ' ')
+nome_fora = nome_fora.replace('/', ' ')
+
+dados.to_csv('parte_3.csv')
