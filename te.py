@@ -8,64 +8,16 @@ import io
 import re
 import html5lib
 
-
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=34')
-soup = BeautifulSoup(r.content, 'html.parser')
-
-def get_links_from(soup):
-    links = []
-    for a in soup.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
-        links.append((a.get('href')))
-    return links
-
-list_inoutControl = get_links_from(soup)
-del(list_inoutControl[:254])
-print(list_inoutControl)
-
-
-#######################################################################################################################
-option = Options()
-option.headless = True
-driver = webdriver.Firefox()
-# options=option
-driver.get(list_inoutControl[1])
-time.sleep(10)
-
-
-# primeio tipo de tabela
-# encontrar a table jogada-jogada no site da NBB
-driver.find_element_by_xpath(
-    "//div[@class='row tabs_content']//ul//li//a[@id='movethemove-label']").click()
-# encontrar elementos do site com os dados das jogadas
-element = driver.find_element_by_xpath("//div[@class='move_action_scroll']")
-# atribuir os dados do site em html
-html_content = element.get_attribute('outerHTML')
-# passear o conteúdo em HTML e pegar o texto
-soup = BeautifulSoup(html_content, 'html.parser')
-acoes = soup.get_text()
-
-# realizar a limpeza dos dados obtidos
-a = acoes.replace(' 1º', '\n1')
-a = a.replace(' 2º', '\n2')
-a = a.replace(' 3º', '\n3')
-a = a.replace(' 4º', '\n4')
-# precisa separar espaços criados no html e utilizar ; para juntar
-a = re.sub('(			 |			 |			 )', ';', a)
-a = a.replace('    ', ';')
-# alguns nomes não são colocados por causa do scouter, ai causa uma lacuna. Para resolver fiz isso
-a = a.replace('  ', ';')
-a = a.replace(';;', ';')
-
-a = a.translate({ord(c): "" for c in ".!_+"})
-
-# depois de ajustar os espaços eu substititui os indicadores por nomes padronizados
+'''
+# Odeio o site da NBB depois de mudar 4 vezes por causa do tipo da tabela 
+# eu tenho que mudar novamente pq tem a 5 tipo de tabela
 
 a = a.replace("INÍCIO DE QUARTO Início do", ";inicio_quarto")
 a = a.replace("FIM DE QUARTO Fim", ";fim_quarto")
 
 a = re.sub('(do terceiro quarto|terceiro quarto|do segundo quarto|segundo quarto|do primeiro quarto|'
            'quarto quarto)', '', a)
-            
+
 a = a.replace('FIM DE PARTIDA Fim de partida', ';fim_partida;')
 a = a.replace('INÍCIO DE QUARTO Início de partida', ';inicio_partida;')
 
@@ -112,12 +64,149 @@ a = re.sub('( erra tentativa para três pontos| acerta arremesso de três pontos
            ' acerta enterrada|Técnico do | andou com a bola| comete violação de volta de quadra|'
            ' comete violação de 5s com a posse de bola)', '', a)
 
-# convertendo em um StringIO
-data = io.StringIO(a)
+'''
+
+
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=34&wherePlaying=-1&played=-1')
+soup = BeautifulSoup(r.content, 'html.parser')
+
+def get_links_from(soup):
+    links = []
+    for a in soup.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
+        links.append((a.get('href')))
+    return links
+
+list_inoutControl = get_links_from(soup)
+print(list_inoutControl)
+
+#######################################################################################################################
+option = Options()
+option.headless = True
+driver = webdriver.Firefox()
+# options=option
+driver.get(list_inoutControl[0])
+time.sleep(10)
+
+
+# primeio tipo de tabela
+# encontrar a table jogada-jogada no site da NBB
+driver.find_element_by_xpath(
+    "//div[@class='row tabs_content']//ul//li//a[@id='movethemove-label']").click()
+# encontrar elementos do site com os dados das jogadas
+element = driver.find_element_by_xpath("//div[@class='move_action_scroll']")
+# atribuir os dados do site em html
+html_content = element.get_attribute('outerHTML')
+# passear o conteúdo em HTML e pegar o texto
+soup = BeautifulSoup(html_content, 'html.parser')
+acoes = soup.get_text()
+
+
+# realizar a limpeza dos dados obtidos
+c = acoes.replace(' 1º', '\n1')
+c = c.replace(' 2º', '\n2')
+c = c.replace(' 3º', '\n3')
+c = c.replace(' 4º', '\n4')
+c = c.replace(' 5º', '\n5')
+c = c.replace(' 6º', '\n6')
+c = c.replace(' 7º', '\n7')
+c = re.sub('(			 |			 |			 )', ';', c)
+c = c.replace('    ', ';')
+c = c.translate({ord(c): "" for c in ".!_+"})
+
+
+# depois de ajustar os espaços eu substititui os indicadores por nomes padronizados
+c = re.sub("(Fim  do quarto quarto|Fim  do terceiro quarto|"
+            "Fim  do segundo quarto|Fim  do primeiro quarto|"
+            "Fim  do período de prorragação)", ";1/fim_quarto;", c)
+
+c = re.sub("(Início do  quarto quarto|Início do  terceiro quarto|"
+            "Início do  segundo quarto|Início do  de período de prorragação)", ";1/inicio_quarto;", c)
+
+c = c.replace('Fim de partida', ';1/fim_partida;')
+c = c.replace('Início de partida', ';1/inicio_partida;')
+
+# esses são os valores que estão os indicadores
+c = c.replace('acerta arremesso de três pontos', '/3_Pts_C;1')
+c = c.replace('erra tentativa para três pontos', '/3_Pts_T;1')
+# lance livre
+c = c.replace('acerta o lance livre', '/LL_Pts_C;1')
+c = c.replace('erra o lance livre', '/LL_Pts_T;1')
+# Dois pontos
+c = c.replace('acerta arremesso de dois pontos', '/2_Pts_C;1')
+c = c.replace('erra tentativa para dois pontos', '/2_Pts_T;1')
+# rebotes
+c = c.replace('pega rebote defensivo', '/RD;1')
+c = c.replace('pega rebote ofensivo', '/RO;1')
+# recuperação de bola
+c = c.replace('recupera a bola', '/BR;1')
+# assistencia
+c = c.replace('Assistência do ', '/AS;')
+# faltas recebidas
+c = c.replace('sofre falta', '/FR;1')
+
+# faltas cometidas
+c = c.replace('comete falta técnica', '/FC_T;1')
+c = c.replace('comete falta antidesportiva', '/FC_A;1')
+c = c.replace('comete falta ofensiva', '/FC_O;1')
+c = c.replace('comete falta desqualificante', '/FC_D;1')
+c = c.replace('comete falta', '/FC;1')
+# substituição
+c = c.replace('Entra ', '1/substituicao_entra;')
+c = c.replace('Sai ', '1/substituicao_sai;')
+# tocos
+c = c.replace('dá um toco', '/TO;1')
+# tempo técnico
+c = c.replace('pede tempo', '/tempo_tecnico;')
+# erros
+c = re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
+           " comete violação de saída de quadra| comete violação de volta de quadra|  comete violação de condução)", "/ER;1", c)
+# cravada
+c = c.replace('acerta enterrada', '1/EN;1')
+
+# tirar os parenteses
+c = c.replace(' (', ';')
+
+
+# retiradas de informações inúteis
+c = re.sub('(INÍCIO DE QUARTO |FIM DE QUARTO |FIM DE PARTIDA |'
+           'Tentativa para três pontos |É DE TRÊS |1 PONTO |Lance Livre Errado |Tentativa para dois pontos |'
+           '2 PONTOS |REBOTE DEFENSIVO |REBOTE OFENSIVO |Bola recuperada |ASSISTÊNCIA |'
+           'Falta sofrida |FALTA OFENSIVA|FALTA ANTIDESPORTIVA |FALTA TÉCNICA |FALTA DESQUALIFICANTE |FALTA |'
+           'Substituição |Substituição Sai |TOCO |TEMPO TÉCNICO Técnico da equipe |'
+           ' Violação Estouro dos 24s|Violação |Erro |CRAVADA |TEMPO TÉCNICO |É de três |'
+           'Técnico da equipe |Cravada)', '', c)
+
+data = io.StringIO(c)
 # depois para DataFrame
 dados = pd.read_csv(data, sep=';', index_col=False,
-                 usecols=[0, 1, 2, 3, 4, 5], header=None)
-dados.columns = ['Quarto', 'Tempo', 'Placar', 'Time', 'Indicador', 'Nome']
+                 usecols=[0, 1, 2, 3], header=None)
+dados.columns = ['inf1', 'Time', 'inf2', 'inf3']
+
+separar = dados['inf1'].str.replace('  ', ',')
+separar_01 = separar.str.split(',')
+separar_02 = separar_01.str.get(0)
+separar_03 = separar_01.str.get(1)
+separar_04 = separar_01.str.get(2)
+dados['Quarto'] = separar_02
+dados['Tempo'] = separar_03
+dados['Placar'] = separar_04
+dados.drop('inf1', axis=1, inplace=True)
+
+alinhados = dados['inf2']
+alinhados_01 = alinhados.str.split('/')
+alinhados_02 = alinhados_01.str.get(0)
+alinhados_03 = alinhados_01.str.get(1)
+mudado = dados['inf3']
+juntar = mudado + alinhados_02
+juntar = juntar.str.replace('1', '')
+juntar = juntar.str.strip()
+
+dados['Nome'] = juntar
+dados['Indicador'] = alinhados_03
+dados.drop('inf2', axis=1, inplace=True)
+dados.drop('inf3', axis=1, inplace=True)
+
+dados['Time'] = dados['Time'].str.replace(' ', '')
 
 # separando o placar em duas colunas (casa/visitante)
 divisao1_placar = dados["Placar"].str.split(" x ")
@@ -129,7 +218,7 @@ dados.drop('Placar', axis=1, inplace=True)
 # deixando o DataFrame nessa ordem de colunas
 dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
 
-r1 = requests.get(list_inoutControl[1])
+r1 = requests.get(list_inoutControl[0])
 soup01 = BeautifulSoup(r1.content, 'html.parser')
 
 informacoes_1 = soup01.find_all("div", class_="float-left text-right score_header_left")
@@ -142,5 +231,4 @@ nome_fora_of = informacoes_2[0].find("span", class_="show-for-large").get_text()
 nome_casa_of = nome_casa_of.replace('/', ' ')
 nome_fora_of = nome_fora_of.replace('/', ' ')
 
-# realizar algumas modificações para as análises
 dados.to_csv('parte_3.csv')

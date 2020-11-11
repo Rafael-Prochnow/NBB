@@ -7,7 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
 # teste
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=41&wherePlaying=-1&played=-1')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=34&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
@@ -19,8 +19,6 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
-# del(list_inoutControl[:40])
-del(list_inoutControl[:251])
 print(list_inoutControl)
 
 ########################################################################################################################
@@ -28,7 +26,7 @@ option = Options()
 option.headless = True
 driver = webdriver.Firefox()
 # options=option
-driver.get(list_inoutControl[0])
+driver.get(list_inoutControl[2])
 time.sleep(10)
 
 driver.find_element_by_xpath(
@@ -60,6 +58,7 @@ dados = pd.DataFrame(
      'Inf_2': acao_pessoa02
      })
 
+
 # erro de espaços vindo de cima
 Indicador02 = dados['Time_01'].str.replace(
             '                                                                    \n\n', '')
@@ -80,6 +79,8 @@ b = b.apply(lambda x: re.sub("(Fim de partida|Fim  do quarto quarto|Início do  
                              "Fim  do período de prorragação|Início do  de período de prorragação)", "", x))
 dados['Time'] = b
 dados.drop('Time_01', axis=1, inplace=True)
+
+
 c = Indicador03.str.translate({ord(c): "" for c in ".!_+"})
 
 c = c.apply(lambda x: re.sub("(Fim  do quarto quarto|Fim  do terceiro quarto|"
@@ -92,9 +93,6 @@ c = c.apply(lambda x: re.sub("(Início do  quarto quarto|Início do  terceiro qu
 
 c = c.str.replace('Fim de partida', '1/fim_partida;')
 c = c.str.replace('Início de partida', '1/inicio_partida;')
-
-# dados["Nome"] = a
-# dados.drop('Inf_2', axis=1, inplace=True)
 
 # esses são os valores que estão os indicadores
 c = c.str.replace('É de três ', '')
@@ -109,6 +107,8 @@ c = c.str.replace(' erra tentativa para dois pontos', '/2_Pts_T;1')
 # rebotes
 c = c.str.replace(' pega rebote defensivo', '/RD;1')
 c = c.str.replace(' pega rebote ofensivo', '/RO;1')
+
+
 # recuperação de bola
 c = c.str.replace(' recupera a bola', '/BR;1')
 # assistencia
@@ -119,6 +119,7 @@ c = c.str.replace(' sofre falta', '/FR;1')
 c = c.str.replace(' comete falta técnica', '/FC_T;1')
 c = c.str.replace(' comete falta antidesportiva', '/FC_A;1')
 c = c.str.replace(' comete falta ofensiva', '/FC_O;1')
+c = c.str.replace(' comete falta desqualificante', '/FC_D;1')
 c = c.str.replace(' comete falta', '/FC;1')
 # substituição
 c = c.str.replace('Entra ', '/substituicao_entra;')
@@ -130,7 +131,8 @@ c = c.str.replace('Técnico da equipe ', '')
 c = c.str.replace(' pede tempo', '/tempo_tecnico;')
 # erros
 c = c.apply(lambda x: re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
-                             " comete violação de saída de quadra| comete violação de volta de quadra)", "/ER;1", x))
+                             " comete violação de saída de quadra| comete violação de volta de quadra|"
+                             " comete violação de condução)", "/ER;1", x))
 # cravada
 c = c.str.replace('Cravada', '')
 c = c.str.replace(' acerta enterrada', '/EN;1')
@@ -138,12 +140,8 @@ c = c.str.replace(' acerta enterrada', '/EN;1')
 # falta técnica para treinador
 c = c.str.replace('Técnico do ', '')
 
-divisao1_placar = dados["Placar"].str.split(" x ")
-placar_casa = divisao1_placar.str.get(0)
-placar_visitante = divisao1_placar.str.get(1)
-dados['placar_casa'] = placar_casa
-dados['placar_visitante'] = placar_visitante
-dados.drop('Placar', axis=1, inplace=True)
+# tirar os parenteses
+c = c.str.replace('(', ';')
 
 # primeira separação é coloco na ordem dos nomes e depois indicadores
 # o ; é para fazer a primeira separação: obtem os nomes
@@ -163,15 +161,25 @@ alinhados_03 = alinhados_01.str.get(1)
 # como 1 e espaço
 alinhados_04 = alinhados_02.str.replace('1 ', '')
 alinhados_05 = alinhados_04.str.replace('1', '')
+alinhados_05 = alinhados_05.str.strip()
 
 dados["Indicador"] = alinhados_03
 dados["Nome"] = alinhados_05
+
 dados.drop('Inf_2', axis=1, inplace=True)
+
+divisao1_placar = dados["Placar"].str.split(" x ")
+placar_casa = divisao1_placar.str.get(0)
+placar_visitante = divisao1_placar.str.get(1)
+dados['placar_casa'] = placar_casa
+dados['placar_visitante'] = placar_visitante
+dados.drop('Placar', axis=1, inplace=True)
+
 dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
 
 # se ER não tiver ninguém é pq foi estouro de 24s
 
-r1 = requests.get(list_inoutControl[1])
+r1 = requests.get(list_inoutControl[2])
 soup01 = BeautifulSoup(r1.content, 'html.parser')
 
 informacoes_1 = soup01.find_all("div", class_="float-left text-right")
@@ -183,5 +191,9 @@ nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
 # acontece erro por conta de nomes com siglas ai eu preciso substituir
 nome_casa = nome_casa.replace('/', ' ')
 nome_fora = nome_fora.replace('/', ' ')
+########################################################################################################################
+
+
+
 
 dados.to_csv('parte_3.csv')

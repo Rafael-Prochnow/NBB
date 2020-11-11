@@ -1,0 +1,575 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,96,80, ,fim_partida,
+1,4,00:04,96,80,PIN,FR,Mathias
+2,4,00:04,96,80,BRA,FC,D Alemão
+3,4,00:53,96,80,BRA,RD,D Alemão
+4,4,00:53,96,80,PIN,3_Pts_T,Sena
+5,4,00:53,96,80,BRA,EN,Fab Melo
+6,4,00:53,94,80,BRA,RO,Fab Melo
+7,4,00:53,94,80,BRA,2_Pts_T,D Alemão
+8,4,00:53,94,80,BRA,RO,Deryk
+9,4,00:53,94,80,BRA,2_Pts_T,D Alemão
+10,4,00:59,94,80,PIN,2_Pts_C,Neto
+11,4,01:06,94,78,PIN,RD,Neto
+12,4,01:09,94,78,PIN,TO,Mathias
+13,4,01:14,94,78,BRA,2_Pts_T,D Alemão
+14,4,01:19,94,78,PIN,AS,Mathias
+15,4,01:21,94,78,PIN,2_Pts_C,Ansaloni
+16,4,01:25,94,76,BRA,AS,Deryk
+17,4,01:27,94,76,BRA,2_Pts_C,D Alemão
+18,4,01:30,92,76,PIN,substituicao_entra,Neto
+19,4,01:30,92,76,PIN,substituicao_sai,Gemerson
+20,4,01:58,92,76,BRA,FR,Deryk
+21,4,01:58,92,76,PIN,FC,Ansaloni
+22,4,02:12,92,76,PIN,AS,Ruivo
+23,4,02:16,92,76,PIN,EN,Mathias
+24,4,02:18,92,74,PIN,substituicao_entra,Ruivo
+25,4,02:18,92,74,PIN,substituicao_sai,Bennett
+26,4,02:25,92,74,BRA,ER,Fab Melo
+27,4,02:31,92,74,PIN,2_Pts_C,Bennett
+28,4,02:31,92,72,BRA,substituicao_entra,Paulo
+29,4,02:31,92,72,BRA,substituicao_sai,Pilar
+30,4,02:31,92,72,PIN,substituicao_entra,Sena
+31,4,02:31,92,72,PIN,substituicao_sai,Holloway
+32,4,02:31,92,72,PIN,substituicao_entra,Mathias
+33,4,02:31,92,72,PIN,substituicao_sai,Renan
+34,4,02:34,92,72,PIN,RD,Pinheiros
+35,4,02:38,92,72,BRA,3_Pts_T,Fab Melo
+36,4,02:46,92,72,BRA,substituicao_entra,D Alemão
+37,4,02:46,92,72,BRA,substituicao_sai,Lucas Mariano
+38,4,02:46,92,72,BRA,substituicao_entra,Fab Melo
+39,4,02:46,92,72,BRA,substituicao_sai,Giovannoni
+40,4,02:46,92,72,PIN,LL_Pts_C,Bennett
+41,4,02:46,92,71,PIN,LL_Pts_C,Bennett
+42,4,02:46,92,70,PIN,FR,Bennett
+43,4,02:46,92,70,BRA,FC,Pedro
+44,4,02:46,92,70,BRA,substituicao_entra,Pedro
+45,4,02:46,92,70,BRA,substituicao_sai,Fulvio
+46,4,02:46,92,70,BRA,LL_Pts_C,Giovannoni
+47,4,02:46,91,70,BRA,FR,Giovannoni
+48,4,02:46,91,70,PIN,FC,Renan
+49,4,02:51,91,70,BRA,AS,Fulvio
+50,4,02:56,91,70,BRA,2_Pts_C,Giovannoni
+51,4,03:15,89,70,PIN,2_Pts_C,Bennett
+52,4,03:21,89,68,PIN,BR,Bennett
+53,4,03:26,89,68,BRA,ER,Giovannoni
+54,4,03:30,89,68,BRA,FR,Fulvio
+55,4,03:30,89,68,PIN,FC,Holloway
+56,4,03:34,89,68,PIN,AS,Renan
+57,4,03:37,89,68,PIN,3_Pts_C,Gemerson
+58,4,03:44,89,65,PIN,RD,Ansaloni
+59,4,03:49,89,65,BRA,2_Pts_T,Fulvio
+60,4,03:55,89,65,PIN,LL_Pts_C,Ansaloni
+61,4,03:55,89,64,PIN,LL_Pts_T,Ansaloni
+62,4,03:55,89,64,PIN,FR,Ansaloni
+63,4,03:55,89,64,BRA,FC,Fulvio
+64,4,04:09,89,64,BRA,LL_Pts_C,Lucas Mariano
+65,4,04:09,88,64,BRA,FR,Lucas Mariano
+66,4,04:09,88,64,PIN,FC,Bennett
+67,4,04:15,88,64,BRA,AS,Giovannoni
+68,4,04:22,88,64,BRA,EN,Lucas Mariano
+69,4,04:30,86,64,BRA,RD,Pilar
+70,4,04:32,86,64,PIN,2_Pts_T,Holloway
+71,4,04:37,86,64,BRA,AS,Deryk
+72,4,04:40,86,64,BRA,3_Pts_C,Giovannoni
+73,4,04:43,83,64,PIN,substituicao_entra,Gemerson
+74,4,04:43,83,64,PIN,substituicao_sai,Gustavo
+75,4,04:45,83,64,PIN,AS,Ansaloni
+76,4,04:49,83,64,PIN,2_Pts_C,Gustavo
+77,4,05:00,83,62,PIN,RD,Ansaloni
+78,4,05:03,83,62,BRA,2_Pts_T,Lucas Mariano
+79,4,05:08,83,62,PIN,AS,Holloway
+80,4,05:12,83,62,PIN,2_Pts_C,Ansaloni
+81,4,05:38,83,60,PIN,BR,Holloway
+82,4,05:44,83,60,BRA,ER,Lucas Mariano
+83,4,05:47,83,60,BRA,substituicao_entra,Pilar
+84,4,05:47,83,60,BRA,substituicao_sai,Jefferson
+85,4,05:47,83,60,PIN,substituicao_entra,Renan
+86,4,05:47,83,60,PIN,substituicao_sai,Gemerson
+87,4,05:49,83,60,BRA,tempo_tecnico,Brasília
+88,4,05:50,83,60,PIN,AS,Holloway
+89,4,05:50,83,60,PIN,2_Pts_C,Gustavo
+90,4,05:50,83,58,PIN,RD,Holloway
+91,4,05:50,83,58,BRA,3_Pts_T,Jefferson
+92,4,05:56,83,58,BRA,RD,Giovannoni
+93,4,06:04,83,58,PIN,LL_Pts_T,Gemerson
+94,4,06:04,83,58,PIN,LL_Pts_T,Gemerson
+95,4,06:04,83,58,PIN,FR,Gemerson
+96,4,06:04,83,58,BRA,FC,Lucas Mariano
+97,4,06:10,83,58,PIN,BR,Ansaloni
+98,4,06:15,83,58,BRA,ER,Fulvio
+99,4,06:21,83,58,BRA,substituicao_entra,Deryk
+100,4,06:21,83,58,BRA,substituicao_sai,Alex
+101,4,06:21,83,58,BRA,substituicao_entra,Giovannoni
+102,4,06:21,83,58,BRA,substituicao_sai,João
+103,4,06:54,83,58,PIN,LL_Pts_C,Holloway
+104,4,06:54,83,57,PIN,LL_Pts_C,Holloway
+105,4,06:54,83,56,PIN,FR,Holloway
+106,4,06:54,83,56,BRA,FC,Alex
+107,4,07:12,83,56,PIN,RD,Pinheiros
+108,4,07:12,83,56,BRA,2_Pts_T,Lucas Mariano
+109,4,07:12,83,56,PIN,ER,
+110,4,07:12,83,56,PIN,FR,Bennett
+111,4,07:12,83,56,BRA,FC,Fulvio
+112,4,07:15,83,56,PIN,substituicao_entra,Holloway
+113,4,07:15,83,56,PIN,substituicao_sai,Neto
+114,4,07:15,83,56,PIN,substituicao_entra,Ansaloni
+115,4,07:15,83,56,PIN,substituicao_sai,Arthur
+116,4,07:15,83,56,PIN,tempo_tecnico,Pinheiros
+117,4,08:55,83,56,BRA,AS,Fulvio
+118,4,08:58,83,56,BRA,3_Pts_C,Jefferson
+119,4,09:11,80,56,BRA,RD,João
+120,4,09:11,80,56,PIN,3_Pts_T,Neto
+121,4,09:11,80,56,BRA,EN,Jefferson
+122,4,09:11,78,56,BRA,BR,Jefferson
+123,4,09:11,78,56,PIN,ER,Neto
+124,4,09:11,78,56,PIN,RD,Neto
+125,4,09:11,78,56,BRA,3_Pts_T,Lucas Mariano
+126,4,09:11,78,56,PIN,AS,Gustavo
+127,4,09:11,78,56,PIN,3_Pts_C,Gemerson
+128,4,09:12,78,53,BRA,ER,Alex
+129,4,09:23,78,53,PIN,2_Pts_C,Neto
+130,4,09:29,78,51,BRA,AS,Fulvio
+131,4,09:32,78,51,BRA,3_Pts_C,João
+132,4,09:35,75,51,BRA,RD,Fulvio
+133,4,09:38,75,51,PIN,3_Pts_T,Gustavo
+134,4,09:41,75,51,PIN,FR,Arthur
+135,4,09:41,75,51,BRA,FC,Alex
+136,4,09:50,75,51,BRA,AS,Jefferson
+137,4,09:53,75,51,BRA,2_Pts_C,Alex
+138,4,10:00,73,51, ,inicio_quarto,
+139,4,10:00,73,51,BRA,RD,Pedro
+140,3,00:00,73,51, ,fim_quarto,
+141,3,00:47,73,51,PIN,3_Pts_T,Gemerson
+142,3,00:47,73,51,PIN,BR,Bennett
+143,3,00:47,73,51,BRA,ER,Jefferson
+144,3,00:47,73,51,PIN,AS,Arthur
+145,3,00:47,73,51,PIN,2_Pts_C,Gemerson
+146,3,00:47,73,49,PIN,BR,Arthur
+147,3,00:47,73,49,BRA,ER,Pedro
+148,3,00:50,73,49,PIN,AS,Gemerson
+149,3,00:50,73,49,PIN,2_Pts_C,Arthur
+150,3,00:50,73,47,PIN,substituicao_entra,Gustavo
+151,3,00:50,73,47,PIN,substituicao_sai,Teichmann
+152,3,00:50,73,47,BRA,ER,Jefferson
+153,3,00:50,73,47,BRA,RD,Jefferson
+154,3,00:50,73,47,PIN,3_Pts_T,Bennett
+155,3,00:50,73,47,BRA,AS,Pedro
+156,3,00:50,73,47,BRA,2_Pts_C,Alex
+157,3,00:50,71,47,BRA,BR,Alex
+158,3,00:50,71,47,PIN,ER,Teichmann
+159,3,00:50,71,47,PIN,RO,Teichmann
+160,3,00:50,71,47,PIN,2_Pts_T,Teichmann
+161,3,00:50,71,47,PIN,RO,Teichmann
+162,3,00:50,71,47,PIN,3_Pts_T,Gemerson
+163,3,00:56,71,47,PIN,RO,Neto
+164,3,00:59,71,47,PIN,2_Pts_T,Neto
+165,3,01:24,71,47,PIN,RD,Arthur
+166,3,01:27,71,47,BRA,2_Pts_T,Alex
+167,3,01:30,71,47,BRA,RO,Alex
+168,3,01:34,71,47,BRA,3_Pts_T,Jefferson
+169,3,01:36,71,47,BRA,substituicao_entra,Jefferson
+170,3,01:36,71,47,BRA,substituicao_sai,João
+171,3,01:36,71,47,BRA,substituicao_entra,Pedro
+172,3,01:36,71,47,BRA,substituicao_sai,Deryk
+173,3,01:37,71,47,PIN,RO,Gemerson
+174,3,01:41,71,47,PIN,2_Pts_T,Gemerson
+175,3,01:58,71,47,BRA,ER,Deryk
+176,3,02:05,71,47,PIN,AS,Teichmann
+177,3,02:08,71,47,PIN,2_Pts_C,Arthur
+178,3,02:32,71,45,BRA,AS,Jefferson
+179,3,02:43,71,45,BRA,2_Pts_C,D Alemão
+180,3,02:48,69,45,PIN,LL_Pts_C,Gemerson
+181,3,02:48,69,44,PIN,LL_Pts_C,Gemerson
+182,3,02:48,69,43,PIN,FR,Gemerson
+183,3,02:48,69,43,BRA,FC,D Alemão
+184,3,02:57,69,43,PIN,RO,Arthur
+185,3,02:57,69,43,PIN,2_Pts_T,Teichmann
+186,3,02:57,69,43,PIN,FR,Neto
+187,3,03:02,69,43,BRA,substituicao_entra,Alex
+188,3,03:02,69,43,BRA,substituicao_sai,Pilar
+189,3,03:02,69,43,BRA,substituicao_entra,João
+190,3,03:02,69,43,BRA,substituicao_sai,Giovannoni
+191,3,03:02,69,43,PIN,substituicao_entra,Arthur
+192,3,03:02,69,43,PIN,substituicao_sai,Renan
+193,3,03:02,69,43,PIN,FR,Bennett
+194,3,03:02,69,43,BRA,FC,Pilar
+195,3,03:05,69,43,PIN,RD,Teichmann
+196,3,03:11,69,43,BRA,2_Pts_T,Giovannoni
+197,3,03:36,69,43,BRA,RD,D Alemão
+198,3,03:39,69,43,PIN,2_Pts_T,Renan
+199,3,03:49,69,43,BRA,3_Pts_C,Deryk
+200,3,03:51,66,43,PIN,AS,Renan
+201,3,03:51,66,43,PIN,EN,Teichmann
+202,3,03:51,66,41,PIN,BR,Gemerson
+203,3,03:51,66,41,BRA,ER,Giovannoni
+204,3,03:51,66,41,BRA,RD,Pilar
+205,3,03:51,66,41,PIN,2_Pts_T,Renan
+206,3,03:51,66,41,BRA,substituicao_entra,D Alemão
+207,3,03:51,66,41,BRA,substituicao_sai,Lucas Mariano
+208,3,03:51,66,41,PIN,substituicao_entra,Gemerson
+209,3,03:51,66,41,PIN,substituicao_sai,Holloway
+210,3,03:51,66,41,BRA,AS,Giovannoni
+211,3,03:51,66,41,BRA,LL_Pts_C,Lucas Mariano
+212,3,03:51,65,41,BRA,LL_Pts_C,Lucas Mariano
+213,3,03:51,64,41,BRA,FR,Lucas Mariano
+214,3,03:51,64,41,PIN,FC,Neto
+215,3,04:47,64,41,PIN,AS,Teichmann
+216,3,04:50,64,41,PIN,2_Pts_C,Renan
+217,3,04:55,64,39,PIN,RO,Teichmann
+218,3,05:05,64,39,PIN,3_Pts_T,Neto
+219,3,05:10,64,39,PIN,BR,Neto
+220,3,05:14,64,39,BRA,ER,Lucas Mariano
+221,3,05:22,64,39,BRA,RD,Lucas Mariano
+222,3,05:23,64,39,BRA,TO,Fulvio
+223,3,05:28,64,39,PIN,3_Pts_T,Neto
+224,3,05:33,64,39,PIN,RD,Teichmann
+225,3,05:37,64,39,BRA,2_Pts_T,Deryk
+226,3,05:39,64,39,PIN,RO,Holloway
+227,3,05:39,64,39,BRA,TO,Giovannoni
+228,3,05:39,64,39,PIN,2_Pts_T,Holloway
+229,3,05:40,64,39,PIN,ER,Holloway
+230,3,06:16,64,39,BRA,AS,Giovannoni
+231,3,06:22,64,39,BRA,2_Pts_C,Fulvio
+232,3,06:27,62,39,BRA,BR,Fulvio
+233,3,06:29,62,39,PIN,ER,Renan
+234,3,06:35,62,39,PIN,RD,Renan
+235,3,06:37,62,39,BRA,2_Pts_T,Lucas Mariano
+236,3,06:52,62,39,PIN,LL_Pts_C,Renan
+237,3,06:53,62,38,PIN,LL_Pts_T,Renan
+238,3,07:00,62,38,PIN,FR,Renan
+239,3,07:00,62,38,BRA,FC,Giovannoni
+240,3,07:05,62,38,PIN,FR,Bennett
+241,3,07:05,62,38,BRA,FC,Giovannoni
+242,3,07:05,62,38,PIN,RD,Bennett
+243,3,07:05,62,38,BRA,3_Pts_T,Giovannoni
+244,3,07:05,62,38,BRA,RD,Lucas Mariano
+245,3,07:05,62,38,PIN,3_Pts_T,Holloway
+246,3,07:05,62,38,BRA,AS,Pilar
+247,3,07:05,62,38,BRA,LL_Pts_C,Deryk
+248,3,07:05,61,38,BRA,LL_Pts_C,Deryk
+249,3,07:05,60,38,BRA,LL_Pts_C,Deryk
+250,3,07:05,59,38,BRA,FR,Deryk
+251,3,07:05,59,38,PIN,FC,Renan
+252,3,07:43,59,38,PIN,AS,Neto
+253,3,07:50,59,38,PIN,EN,Teichmann
+254,3,08:04,59,36,BRA,AS,Fulvio
+255,3,08:04,59,36,BRA,LL_Pts_C,Lucas Mariano
+256,3,08:04,58,36,BRA,LL_Pts_C,Lucas Mariano
+257,3,08:04,57,36,BRA,FR,Lucas Mariano
+258,3,08:04,57,36,PIN,FC,Neto
+259,3,08:04,57,36,BRA,RD,Lucas Mariano
+260,3,08:04,57,36,PIN,2_Pts_T,Bennett
+261,3,08:04,57,36,BRA,AS,Deryk
+262,3,08:04,57,36,BRA,2_Pts_C,Giovannoni
+263,3,09:11,55,36,BRA,RD,Deryk
+264,3,09:15,55,36,PIN,3_Pts_T,Bennett
+265,3,09:32,55,36,BRA,2_Pts_C,Lucas Mariano
+266,3,09:39,53,36,BRA,RD,Deryk
+267,3,09:43,53,36,PIN,2_Pts_T,Renan
+268,3,10:00,53,36, ,inicio_quarto,
+269,2,00:00,53,36, ,fim_quarto,
+270,2,00:15,53,36,PIN,AS,Ruivo
+271,2,00:15,53,36,PIN,2_Pts_C,Ansaloni
+272,2,00:15,53,34,BRA,AS,Fulvio
+273,2,00:15,53,34,BRA,2_Pts_C,Deryk
+274,2,00:31,51,34,BRA,substituicao_entra,Lucas Mariano
+275,2,00:31,51,34,BRA,substituicao_entra,Jefferson
+276,2,00:31,51,34,BRA,substituicao_entra,Deryk
+277,2,00:31,51,34,BRA,substituicao_entra,Giovannoni
+278,2,00:31,51,34,BRA,substituicao_entra,Fulvio
+279,2,00:31,51,34,PIN,substituicao_entra,Holloway
+280,2,00:31,51,34,PIN,substituicao_entra,Ansaloni
+281,2,00:31,51,34,PIN,substituicao_entra,Teichmann
+282,2,00:31,51,34,PIN,substituicao_entra,Ruivo
+283,2,00:31,51,34,PIN,substituicao_entra,Gemerson
+284,2,00:31,51,34,PIN,substituicao_sai,Ruivo
+285,2,00:31,51,34,BRA,substituicao_sai,Lucas Mariano
+286,2,00:31,51,34,BRA,substituicao_sai,Giovannoni
+287,2,00:31,51,34,BRA,substituicao_sai,Fulvio
+288,2,00:31,51,34,BRA,substituicao_sai,Paulo
+289,2,00:31,51,34,BRA,substituicao_sai,Jefferson
+290,2,00:31,51,34,PIN,substituicao_sai,Holloway
+291,2,00:31,51,34,PIN,substituicao_sai,Gustavo
+292,2,00:31,51,34,PIN,substituicao_sai,Renan
+293,2,00:31,51,34,PIN,substituicao_sai,Ansaloni
+294,2,00:31,51,34,PIN,substituicao_entra,Ruivo
+295,2,00:31,51,34,PIN,substituicao_sai,Gemerson
+296,2,00:31,51,34,BRA,tempo_tecnico,Brasília
+297,2,00:31,51,34,PIN,ER,Ansaloni
+298,2,00:42,51,34,PIN,RO,Gustavo
+299,2,00:45,51,34,PIN,2_Pts_T,Gemerson
+300,2,00:59,51,34,BRA,substituicao_entra,Paulo
+301,2,00:59,51,34,BRA,substituicao_sai,Alex
+302,2,00:59,51,34,PIN,FR,Holloway
+303,2,00:59,51,34,BRA,FC,Alex
+304,2,01:00,51,34,PIN,RD,Gemerson
+305,2,01:01,51,34,BRA,2_Pts_T,Lucas Mariano
+306,2,01:22,51,34,BRA,LL_Pts_C,Lucas Mariano
+307,2,01:22,50,34,BRA,LL_Pts_T,Lucas Mariano
+308,2,01:22,50,34,BRA,FR,Lucas Mariano
+309,2,01:22,50,34,PIN,FC_A,Renan
+310,2,01:22,50,34,BRA,RO,Lucas Mariano
+311,2,01:23,50,34,BRA,2_Pts_T,Giovannoni
+312,2,01:28,50,34,BRA,RD,Lucas Mariano
+313,2,01:30,50,34,PIN,3_Pts_T,Renan
+314,2,01:42,50,34,BRA,AS,Jefferson
+315,2,01:43,50,34,BRA,3_Pts_C,Lucas Mariano
+316,2,01:54,47,34,BRA,substituicao_entra,Jefferson
+317,2,01:54,47,34,BRA,substituicao_sai,Pilar
+318,2,01:54,47,34,BRA,tempo_tecnico,Brasília
+319,2,01:54,47,34,PIN,2_Pts_C,Renan
+320,2,01:54,47,32,PIN,RO,Renan
+321,2,01:56,47,32,PIN,3_Pts_T,Gustavo
+322,2,01:59,47,32,PIN,RO,Ansaloni
+323,2,02:02,47,32,PIN,2_Pts_T,Holloway
+324,2,02:08,47,32,PIN,RD,Gemerson
+325,2,02:10,47,32,BRA,2_Pts_T,Giovannoni
+326,2,02:27,47,32,PIN,AS,Holloway
+327,2,02:29,47,32,PIN,3_Pts_C,Renan
+328,2,02:37,47,29,PIN,FR,Ansaloni
+329,2,02:37,47,29,BRA,FC,Lucas Mariano
+330,2,02:37,47,29,PIN,RO,Pinheiros
+331,2,02:38,47,29,PIN,2_Pts_T,Gustavo
+332,2,02:59,47,29,BRA,2_Pts_C,Lucas Mariano
+333,2,03:16,45,29,BRA,RD,Giovannoni
+334,2,03:18,45,29,PIN,2_Pts_T,Gemerson
+335,2,03:29,45,29,PIN,substituicao_entra,Holloway
+336,2,03:29,45,29,PIN,substituicao_sai,Neto
+337,2,03:29,45,29,BRA,substituicao_entra,Pilar
+338,2,03:29,45,29,BRA,substituicao_sai,João
+339,2,03:29,45,29,BRA,LL_Pts_C,Fulvio
+340,2,03:29,44,29,BRA,LL_Pts_C,Fulvio
+341,2,03:29,43,29,BRA,FR,Fulvio
+342,2,03:29,43,29,PIN,FC,Neto
+343,2,03:30,43,29,BRA,RD,Giovannoni
+344,2,03:34,43,29,PIN,3_Pts_T,Gemerson
+345,2,03:59,43,29,BRA,AS,Alex
+346,2,03:59,43,29,BRA,LL_Pts_C,Lucas Mariano
+347,2,03:59,42,29,BRA,LL_Pts_C,Lucas Mariano
+348,2,03:59,41,29,PIN,substituicao_entra,Gemerson
+349,2,03:59,41,29,PIN,substituicao_sai,Bennett
+350,2,03:59,41,29,PIN,substituicao_entra,Renan
+351,2,03:59,41,29,PIN,substituicao_sai,Teichmann
+352,2,03:59,41,29,BRA,FR,Lucas Mariano
+353,2,03:59,41,29,PIN,FC,Gustavo
+354,2,04:11,41,29,BRA,RD,Alex
+355,2,04:13,41,29,PIN,2_Pts_T,Gustavo
+356,2,04:17,41,29,PIN,RO,Ansaloni
+357,2,04:19,41,29,PIN,2_Pts_T,Ansaloni
+358,2,04:45,41,29,BRA,LL_Pts_C,Alex
+359,2,04:45,40,29,PIN,tempo_tecnico,Pinheiros
+360,2,04:45,40,29,BRA,FR,Alex
+361,2,04:45,40,29,PIN,FC,Teichmann
+362,2,04:45,40,29,BRA,AS,João
+363,2,04:45,40,29,BRA,2_Pts_C,Alex
+364,2,04:48,38,29,BRA,RD,Lucas Mariano
+365,2,04:51,38,29,PIN,3_Pts_T,Neto
+366,2,05:08,38,29,BRA,LL_Pts_C,Fulvio
+367,2,05:08,37,29,BRA,FR,Fulvio
+368,2,05:08,37,29,PIN,FC,Gustavo
+369,2,05:08,37,29,BRA,2_Pts_C,Fulvio
+370,2,05:15,35,29,PIN,substituicao_entra,Ansaloni
+371,2,05:15,35,29,PIN,substituicao_sai,Mathias
+372,2,05:25,35,29,BRA,RD,Alex
+373,2,05:28,35,29,PIN,3_Pts_T,Neto
+374,2,05:37,35,29,PIN,substituicao_entra,Gustavo
+375,2,05:37,35,29,PIN,substituicao_sai,Holloway
+376,2,05:45,35,29,PIN,RD,Mathias
+377,2,05:47,35,29,BRA,2_Pts_T,Lucas Mariano
+378,2,05:51,35,29,BRA,substituicao_entra,Alex
+379,2,05:51,35,29,BRA,substituicao_sai,Jefferson
+380,2,05:51,35,29,BRA,substituicao_entra,Lucas Mariano
+381,2,05:51,35,29,BRA,substituicao_sai,D Alemão
+382,2,05:55,35,29,BRA,BR,D Alemão
+383,2,05:57,35,29,PIN,ER,Mathias
+384,2,06:20,35,29,BRA,AS,D Alemão
+385,2,06:21,35,29,BRA,3_Pts_C,Fulvio
+386,2,06:39,32,29,PIN,EN,Neto
+387,2,06:59,32,27,BRA,substituicao_entra,Giovannoni
+388,2,06:59,32,27,BRA,substituicao_sai,Paulo
+389,2,06:59,32,27,BRA,LL_Pts_C,Paulo
+390,2,06:59,31,27,BRA,LL_Pts_C,Paulo
+391,2,06:59,30,27,BRA,substituicao_entra,Fulvio
+392,2,06:59,30,27,BRA,substituicao_sai,Deryk
+393,2,06:59,30,27,BRA,FR,Paulo
+394,2,06:59,30,27,PIN,FC,Holloway
+395,2,07:05,30,27,PIN,AS,Bennett
+396,2,07:07,30,27,PIN,2_Pts_C,Teichmann
+397,2,07:29,30,25,BRA,AS,Deryk
+398,2,07:31,30,25,BRA,3_Pts_C,João
+399,2,07:50,27,25,PIN,AS,Holloway
+400,2,07:54,27,25,PIN,2_Pts_C,Neto
+401,2,07:57,27,23,PIN,BR,Teichmann
+402,2,07:59,27,23,BRA,ER,Jefferson
+403,2,08:12,27,23,BRA,RD,D Alemão
+404,2,08:15,27,23,PIN,2_Pts_T,Bennett
+405,2,08:43,27,23,BRA,2_Pts_C,Jefferson
+406,2,09:03,25,23,PIN,2_Pts_C,Bennett
+407,2,09:07,25,21,PIN,BR,Mathias
+408,2,09:09,25,21,BRA,ER,Paulo
+409,2,09:12,25,21,BRA,BR,Deryk
+410,2,09:16,25,21,PIN,ER,Mathias
+411,2,09:38,25,21,BRA,AS,João
+412,2,09:39,25,21,BRA,3_Pts_C,Jefferson
+413,2,10:00,22,21, ,inicio_quarto,
+414,1,00:00,22,21,BRA,substituicao_entra,D Alemão
+415,1,00:00,22,21,BRA,substituicao_entra,João
+416,1,00:00,22,21,BRA,substituicao_entra,Deryk
+417,1,00:00,22,21,BRA,substituicao_entra,Paulo
+418,1,00:00,22,21,BRA,substituicao_entra,Jefferson
+419,1,00:00,22,21,PIN,substituicao_entra,Neto
+420,1,00:00,22,21,PIN,substituicao_entra,Teichmann
+421,1,00:00,22,21,PIN,substituicao_entra,Holloway
+422,1,00:00,22,21,PIN,substituicao_entra,Mathias
+423,1,00:00,22,21,PIN,substituicao_entra,Bennett
+424,1,00:00,22,21,PIN,substituicao_sai,Holloway
+425,1,00:00,22,21,PIN,substituicao_sai,Neto
+426,1,00:00,22,21,PIN,substituicao_sai,Teichmann
+427,1,00:00,22,21,PIN,substituicao_sai,Mathias
+428,1,00:00,22,21,PIN,substituicao_sai,Bennett
+429,1,00:00,22,21,BRA,substituicao_sai,D Alemão
+430,1,00:00,22,21,BRA,substituicao_sai,João
+431,1,00:00,22,21,BRA,substituicao_sai,Deryk
+432,1,00:00,22,21,BRA,substituicao_sai,Paulo
+433,1,00:00,22,21,BRA,substituicao_sai,Jefferson
+434,1,00:00,22,21, ,fim_quarto,
+435,1,00:34,22,21,PIN,EN,Teichmann
+436,1,00:34,22,19,PIN,BR,Teichmann
+437,1,00:34,22,19,BRA,ER,Jefferson
+438,1,00:34,22,19,PIN,LL_Pts_C,Bennett
+439,1,00:34,22,18,PIN,LL_Pts_C,Bennett
+440,1,00:34,22,17,PIN,substituicao_entra,Neto
+441,1,00:34,22,17,PIN,substituicao_sai,Gemerson
+442,1,00:34,22,17,PIN,FR,Bennett
+443,1,00:34,22,17,BRA,FC,Deryk
+444,1,00:45,22,17,BRA,2_Pts_C,Deryk
+445,1,00:51,20,17,BRA,RD,D Alemão
+446,1,00:53,20,17,PIN,3_Pts_T,Gemerson
+447,1,01:11,20,17,PIN,RD,Mathias
+448,1,01:12,20,17,BRA,3_Pts_T,João
+449,1,01:27,20,17,BRA,substituicao_entra,Deryk
+450,1,01:27,20,17,BRA,substituicao_sai,Lucas Mariano
+451,1,01:27,20,17,BRA,substituicao_entra,Paulo
+452,1,01:27,20,17,BRA,substituicao_sai,Deryk
+453,1,01:27,20,17,BRA,FR,Jefferson
+454,1,01:27,20,17,PIN,ER,Mathias
+455,1,01:27,20,17,PIN,FC_O,Mathias
+456,1,01:39,20,17,BRA,AS,D Alemão
+457,1,01:41,20,17,BRA,3_Pts_C,Deryk
+458,1,01:55,17,17,PIN,2_Pts_C,Holloway
+459,1,01:59,17,15,PIN,substituicao_entra,Holloway
+460,1,01:59,17,15,PIN,substituicao_entra,Teichmann
+461,1,01:59,17,15,PIN,substituicao_entra,Mathias
+462,1,01:59,17,15,PIN,substituicao_entra,Gemerson
+463,1,01:59,17,15,PIN,substituicao_entra,Bennett
+464,1,01:59,17,15,PIN,substituicao_sai,Holloway
+465,1,01:59,17,15,PIN,substituicao_sai,Renan
+466,1,01:59,17,15,PIN,substituicao_sai,Ansaloni
+467,1,01:59,17,15,PIN,substituicao_sai,Gemerson
+468,1,01:59,17,15,PIN,substituicao_sai,Bennett
+469,1,01:59,17,15,BRA,substituicao_entra,Lucas Mariano
+470,1,01:59,17,15,BRA,substituicao_entra,D Alemão
+471,1,01:59,17,15,BRA,substituicao_entra,Jefferson
+472,1,01:59,17,15,BRA,substituicao_entra,João
+473,1,01:59,17,15,BRA,substituicao_entra,Deryk
+474,1,01:59,17,15,BRA,substituicao_sai,Lucas Mariano
+475,1,01:59,17,15,BRA,substituicao_sai,João
+476,1,01:59,17,15,BRA,substituicao_sai,Alex
+477,1,01:59,17,15,BRA,substituicao_sai,Deryk
+478,1,01:59,17,15,BRA,substituicao_sai,Paulo
+479,1,01:59,17,15,BRA,substituicao_entra,Paulo
+480,1,01:59,17,15,BRA,substituicao_sai,Fulvio
+481,1,01:59,17,15,BRA,substituicao_entra,Alex
+482,1,01:59,17,15,BRA,substituicao_sai,Giovannoni
+483,1,02:00,17,15,BRA,RD,João
+484,1,02:00,17,15,BRA,TO,Lucas Mariano
+485,1,02:04,17,15,PIN,2_Pts_T,Bennett
+486,1,02:16,17,15,PIN,RD,Ansaloni
+487,1,02:18,17,15,BRA,3_Pts_T,Fulvio
+488,1,02:30,17,15,BRA,RD,João
+489,1,02:32,17,15,PIN,2_Pts_T,Gemerson
+490,1,02:51,17,15,PIN,RD,Ansaloni
+491,1,02:53,17,15,BRA,2_Pts_T,Giovannoni
+492,1,03:13,17,15,PIN,AS,Holloway
+493,1,03:13,17,15,PIN,LL_Pts_C,Ansaloni
+494,1,03:13,17,14,PIN,LL_Pts_T,Ansaloni
+495,1,03:13,17,14,PIN,FR,Ansaloni
+496,1,03:13,17,14,BRA,FC,João
+497,1,03:32,17,14,BRA,AS,Lucas Mariano
+498,1,03:33,17,14,BRA,3_Pts_C,Giovannoni
+499,1,03:51,14,14,BRA,RD,Brasília
+500,1,03:52,14,14,PIN,2_Pts_T,Ansaloni
+501,1,04:02,14,14,BRA,substituicao_entra,João
+502,1,04:02,14,14,BRA,substituicao_sai,Alex
+503,1,04:02,14,14,PIN,FR,Gemerson
+504,1,04:02,14,14,BRA,FC,Alex
+505,1,04:06,14,14,PIN,RO,Holloway
+506,1,04:09,14,14,PIN,3_Pts_T,Gemerson
+507,1,04:18,14,14,PIN,RD,Ansaloni
+508,1,04:19,14,14,BRA,3_Pts_T,Alex
+509,1,04:39,14,14,PIN,EN,Holloway
+510,1,04:43,14,12,PIN,BR,Holloway
+511,1,04:47,14,12,BRA,ER,Deryk
+512,1,04:54,14,12,PIN,ER,Gemerson
+513,1,04:58,14,12,PIN,RO,Renan
+514,1,05:00,14,12,PIN,2_Pts_T,Renan
+515,1,05:10,14,12,BRA,LL_Pts_C,Giovannoni
+516,1,05:10,13,12,BRA,LL_Pts_C,Giovannoni
+517,1,05:10,12,12,BRA,FR,Giovannoni
+518,1,05:10,12,12,PIN,FC,Renan
+519,1,05:26,12,12,PIN,LL_Pts_C,Bennett
+520,1,05:26,12,11,PIN,LL_Pts_C,Bennett
+521,1,05:26,12,10,PIN,FR,Bennett
+522,1,05:26,12,10,BRA,FC,Deryk
+523,1,05:30,12,10,PIN,RD,Renan
+524,1,05:31,12,10,BRA,3_Pts_T,Alex
+525,1,05:46,12,10,BRA,RD,Giovannoni
+526,1,05:48,12,10,PIN,3_Pts_T,Holloway
+527,1,06:08,12,10,BRA,AS,Fulvio
+528,1,06:11,12,10,BRA,3_Pts_C,Giovannoni
+529,1,06:21,9,10,PIN,3_Pts_C,Gemerson
+530,1,06:47,9,7,BRA,3_Pts_C,Deryk
+531,1,06:59,6,7,PIN,AS,Holloway
+532,1,07:02,6,7,PIN,EN,Renan
+533,1,07:11,6,5,PIN,RD,Ansaloni
+534,1,07:13,6,5,BRA,2_Pts_T,Alex
+535,1,07:33,6,5,BRA,FR,Alex
+536,1,07:33,6,5,PIN,FC,Gemerson
+537,1,07:50,6,5,BRA,substituicao_entra,Deryk
+538,1,07:50,6,5,BRA,substituicao_sai,Pilar
+539,1,07:50,6,5,PIN,FR,Gemerson
+540,1,07:50,6,5,BRA,ER,Pilar
+541,1,07:50,6,5,BRA,FC_O,Pilar
+542,1,08:00,6,5,BRA,RO,Brasília
+543,1,08:00,6,5,PIN,TO,Renan
+544,1,08:00,6,5,BRA,2_Pts_T,Fulvio
+545,1,08:03,6,5,BRA,RD,Fulvio
+546,1,08:06,6,5,PIN,2_Pts_T,Renan
+547,1,08:11,6,5,PIN,FR,Holloway
+548,1,08:11,6,5,BRA,FC,Pilar
+549,1,08:26,6,5,BRA,AS,Fulvio
+550,1,08:30,6,5,BRA,3_Pts_C,Giovannoni
+551,1,08:46,3,5,PIN,AS,Bennett
+552,1,08:48,3,5,PIN,3_Pts_C,Renan
+553,1,08:56,3,2,PIN,RD,Ansaloni
+554,1,08:57,3,2,BRA,FR,Lucas Mariano
+555,1,08:57,3,2,BRA,LL_Pts_T,Lucas Mariano
+556,1,08:57,3,2,BRA,LL_Pts_C,Lucas Mariano
+557,1,08:57,2,2,PIN,FC,Ansaloni
+558,1,08:58,2,2,BRA,RD,Fulvio
+559,1,09:00,2,2,PIN,2_Pts_T,Ansaloni
+560,1,09:21,2,2,BRA,AS,Pilar
+561,1,09:24,2,2,BRA,2_Pts_C,Lucas Mariano
+562,1,09:37,0,2,PIN,AS,Gemerson
+563,1,09:43,0,2,PIN,2_Pts_C,Bennett
+564,1,10:00,0,0,BRA,substituicao_entra,Lucas Mariano
+565,1,10:00,0,0,BRA,substituicao_entra,Giovannoni
+566,1,10:00,0,0,BRA,substituicao_entra,Fulvio
+567,1,10:00,0,0,BRA,substituicao_entra,Alex
+568,1,10:00,0,0,BRA,substituicao_entra,Pilar
+569,1,10:00,0,0,PIN,substituicao_entra,Holloway
+570,1,10:00,0,0,PIN,substituicao_entra,Renan
+571,1,10:00,0,0,PIN,substituicao_entra,Ansaloni
+572,1,10:00,0,0,PIN,substituicao_entra,Gemerson
+573,1,10:00,0,0,PIN,substituicao_entra,Bennett

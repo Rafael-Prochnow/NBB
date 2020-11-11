@@ -1,606 +1,1497 @@
-,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
-0,4,00:00,82,78,,fim_partida,
-1,4,00:02,82,78,CAP,RD,Lucas Dias
-2,4,00:03,82,78,BAU,2_Pts_T,Gui Deodato
-3,4,00:03,82,78,BAU,RO,Gui Deodato
-4,4,00:03,82,78,BAU,3_Pts_T,Alex
-5,4,00:04,82,78,BAU,RO,Alex
-6,4,00:06,82,78,BAU,3_Pts_T,Jefferson
-7,4,00:10,82,78,CAP,substituicao_entra,Lucas Dias
-8,4,00:10,82,78,CAP,substituicao_sai,Yago
-9,4,00:10,82,78,CAP,ER,Hure
-10,4,00:14,82,78,CAP,substituicao_entra,Eddy
-11,4,00:14,82,78,CAP,substituicao_sai,Lucas Dias
-12,4,00:20,82,78,BAU,AS,Gegê
-13,4,00:20,82,78,BAU,2_Pts_C,Alex
-14,4,00:20,82,76,CAP,ER,De Paula
-15,4,00:20,82,76,CAP,RD,De Paula
-16,4,00:23,82,76,BAU,3_Pts_T,Gegê
-17,4,00:26,82,76,BAU,BR,Gegê
-18,4,00:26,82,76,CAP,ER,Lucas Dias
-19,4,00:28,82,76,BAU,ER,Jaú
-20,4,00:34,82,76,BAU,RD,Alex
-21,4,00:36,82,76,CAP,2_Pts_T,Arthur Pecos
-22,4,00:56,82,76,BAU,LL_Pts_C,Alex
-23,4,00:56,82,75,BAU,LL_Pts_C,Alex
-24,4,00:56,82,74,CAP,substituicao_entra,Yago
-25,4,00:56,82,74,CAP,substituicao_sai,Eddy
-26,4,00:56,82,74,BAU,FR,Alex
-27,4,00:56,82,74,CAP,FC,Eddy
-28,4,01:01,82,74,BAU,RD,Jaú
-29,4,01:01,82,74,CAP,LL_Pts_T,Lucas Dias
-30,4,01:01,82,74,CAP,LL_Pts_C,Lucas Dias
-31,4,01:01,81,74,BAU,substituicao_entra,Jaú
-32,4,01:01,81,74,BAU,substituicao_sai,Léo Meindl
-33,4,01:01,81,74,CAP,substituicao_entra,Eddy
-34,4,01:01,81,74,CAP,substituicao_sai,Yago
-35,4,01:01,81,74,CAP,FR,Lucas Dias
-36,4,01:01,81,74,BAU,FC,Léo Meindl
-37,4,01:02,81,74,BAU,LL_Pts_C,Jefferson
-38,4,01:02,81,73,BAU,LL_Pts_C,Jefferson
-39,4,01:02,81,72,CAP,substituicao_entra,Yago
-40,4,01:02,81,72,CAP,substituicao_sai,Eddy
-41,4,01:02,81,72,BAU,FR,Jefferson
-42,4,01:02,81,72,CAP,FC,Arthur Pecos
-43,4,01:02,81,72,BAU,2_Pts_T,Jefferson
-44,4,01:11,81,72,BAU,RD,Gegê
-45,4,01:11,81,72,CAP,LL_Pts_T,Lucas Dias
-46,4,01:11,81,72,CAP,LL_Pts_T,Lucas Dias
-47,4,01:11,81,72,CAP,substituicao_entra,De Paula
-48,4,01:11,81,72,CAP,substituicao_sai,Yago
-49,4,01:11,81,72,CAP,FR,Lucas Dias
-50,4,01:11,81,72,BAU,FC,Jefferson
-51,4,01:26,81,72,CAP,BR,Yago
-52,4,01:26,81,72,BAU,ER,Alex
-53,4,01:33,81,72,BAU,BR,Gegê
-54,4,01:33,81,72,CAP,ER,Lucas Dias
-55,4,01:55,81,72,CAP,RD,Arthur Pecos
-56,4,01:57,81,72,BAU,3_Pts_T,Léo Meindl
-57,4,02:14,81,72,CAP,LL_Pts_C,Lucas Dias
-58,4,02:14,80,72,CAP,LL_Pts_C,Lucas Dias
-59,4,02:14,79,72,CAP,FR,Lucas Dias
-60,4,02:14,79,72,BAU,FC,Alex
-61,4,02:24,79,72,BAU,LL_Pts_C,Léo Meindl
-62,4,02:24,79,71,BAU,LL_Pts_T,Léo Meindl
-63,4,02:24,79,71,CAP,substituicao_entra,Hure
-64,4,02:24,79,71,CAP,substituicao_sai,Renato
-65,4,02:24,79,71,BAU,FR,Léo Meindl
-66,4,02:24,79,71,CAP,FC,Renato
-67,4,02:24,79,71,BAU,RO,Léo Meindl
-68,4,02:24,79,71,BAU,2_Pts_T,Gui Deodato
-69,4,02:29,79,71,BAU,RD,Léo Meindl
-70,4,02:31,79,71,CAP,3_Pts_T,Lucas Dias
-71,4,02:49,79,71,BAU,LL_Pts_C,Léo Meindl
-72,4,02:49,79,70,BAU,LL_Pts_C,Léo Meindl
-73,4,02:49,79,69,CAP,substituicao_entra,Eddy
-74,4,02:49,79,69,CAP,substituicao_sai,Jhonatan
-75,4,02:49,79,69,BAU,FR,Léo Meindl
-76,4,02:49,79,69,CAP,FC,Jhonatan
-77,4,02:49,79,69,BAU,2_Pts_T,Alex
-78,4,03:05,79,69,CAP,LL_Pts_C,Arthur Pecos
-79,4,03:05,78,69,CAP,LL_Pts_C,Arthur Pecos
-80,4,03:05,77,69,CAP,substituicao_entra,Jhonatan
-81,4,03:05,77,69,CAP,substituicao_sai,Hure
-82,4,03:05,77,69,CAP,FR,Arthur Pecos
-83,4,03:05,77,69,BAU,FC,Gegê
-84,4,03:15,77,69,CAP,RD,Lucas Dias
-85,4,03:19,77,69,BAU,2_Pts_T,Léo Meindl
-86,4,03:23,77,69,BAU,RO,Léo Meindl
-87,4,03:25,77,69,BAU,3_Pts_T,Gui Deodato
-88,4,03:33,77,69,BAU,BR,Gui Deodato
-89,4,03:33,77,69,CAP,ER,Yago
-90,4,03:53,77,69,BAU,LL_Pts_C,Léo Meindl
-91,4,03:53,77,68,CAP,substituicao_entra,Hure
-92,4,03:53,77,68,CAP,substituicao_sai,Jhonatan
-93,4,03:53,77,68,BAU,FR,Léo Meindl
-94,4,03:53,77,68,CAP,FC,Arthur Pecos
-95,4,03:53,77,68,BAU,2_Pts_C,Léo Meindl
-96,4,04:00,77,66,BAU,RD,Gegê
-97,4,04:02,77,66,CAP,2_Pts_T,Yago
-98,4,04:18,77,66,CAP,substituicao_entra,Arthur Pecos
-99,4,04:18,77,66,CAP,substituicao_sai,De Paula
-100,4,04:18,77,66,CAP,FR,Yago
-101,4,04:18,77,66,BAU,FC,Gegê
-102,4,04:26,77,66,BAU,AS,Léo Meindl
-103,4,04:26,77,66,BAU,3_Pts_C,Jefferson
-104,4,04:38,77,63,BAU,RD,Gegê
-105,4,04:40,77,63,CAP,3_Pts_T,Yago
-106,4,05:02,77,63,CAP,tempo_tecnico,Paulistano
-107,4,05:02,77,63,BAU,2_Pts_C,Alex
-108,4,05:06,77,61,BAU,RD,Alex
-109,4,05:08,77,61,CAP,2_Pts_T,Jhonatan
-110,4,05:31,77,61,BAU,LL_Pts_C,Alex
-111,4,05:31,77,60,CAP,substituicao_entra,Lucas Dias
-112,4,05:31,77,60,CAP,substituicao_sai,Hure
-113,4,05:31,77,60,BAU,FR,Alex
-114,4,05:31,77,60,CAP,FC,Renato
-115,4,05:31,77,60,BAU,AS,Gegê
-116,4,05:31,77,60,BAU,2_Pts_C,Alex
-117,4,05:36,77,58,BAU,RD,Gegê
-118,4,05:38,77,58,CAP,3_Pts_T,Hure
-119,4,05:51,77,58,CAP,RO,Renato
-120,4,05:53,77,58,CAP,3_Pts_T,Jhonatan
-121,4,06:20,77,58,BAU,AS,Alex
-122,4,06:20,77,58,BAU,3_Pts_C,Gegê
-123,4,06:32,77,55,CAP,LL_Pts_C,Yago
-124,4,06:32,76,55,CAP,substituicao_entra,De Paula
-125,4,06:32,76,55,CAP,substituicao_sai,Arthur Pecos
-126,4,06:32,76,55,CAP,substituicao_entra,Jhonatan
-127,4,06:32,76,55,CAP,substituicao_sai,Lucas Dias
-128,4,06:32,76,55,CAP,FR,Yago
-129,4,06:32,76,55,BAU,FC,Jefferson
-130,4,06:32,76,55,CAP,2_Pts_C,Yago
-131,4,06:57,74,55,BAU,AS,Alex
-132,4,06:57,74,55,BAU,3_Pts_C,Gegê
-133,4,07:17,74,52,BAU,tempo_tecnico,Bauru
-134,4,07:17,74,52,CAP,2_Pts_C,Renato
-135,4,07:17,72,52,CAP,RO,Renato
-136,4,07:18,72,52,CAP,3_Pts_T,Lucas Dias
-137,4,07:35,72,52,CAP,LL_Pts_C,Arthur Pecos
-138,4,07:35,71,52,CAP,LL_Pts_T,Arthur Pecos
-139,4,07:35,71,52,CAP,FR,Arthur Pecos
-140,4,07:35,71,52,BAU,FC_A,Alex
-141,4,07:37,71,52,CAP,RD,Arthur Pecos
-142,4,07:39,71,52,BAU,3_Pts_T,Léo Meindl
-143,4,07:44,71,52,BAU,2_Pts_T,Gui Deodato
-144,4,07:52,71,52,BAU,RD,Jefferson
-145,4,07:54,71,52,CAP,3_Pts_T,Hure
-146,4,08:10,71,52,CAP,RD,Lucas Dias
-147,4,08:13,71,52,BAU,2_Pts_T,Léo Meindl
-148,4,08:21,71,52,BAU,FR,Gui Deodato
-149,4,08:21,71,52,CAP,FC,Arthur Pecos
-150,4,08:21,71,52,BAU,3_Pts_T,Gegê
-151,4,08:30,71,52,CAP,substituicao_entra,Lucas Dias
-152,4,08:30,71,52,CAP,substituicao_sai,Jhonatan
-153,4,08:30,71,52,BAU,substituicao_entra,Léo Meindl
-154,4,08:30,71,52,BAU,substituicao_sai,Jaú
-155,4,08:30,71,52,BAU,FR,Jefferson
-156,4,08:30,71,52,CAP,FC,Jhonatan
-157,4,08:40,71,52,CAP,AS,Yago
-158,4,08:40,71,52,CAP,2_Pts_C,Arthur Pecos
-159,4,08:43,69,52,CAP,RO,Hure
-160,4,08:45,69,52,CAP,3_Pts_T,Yago
-161,4,09:03,69,52,BAU,2_Pts_C,Jefferson
-162,4,09:21,69,50,CAP,AS,Hure
-163,4,09:21,69,50,CAP,3_Pts_C,Jhonatan
-164,4,09:35,66,50,CAP,FR,Hure
-165,4,09:35,66,50,BAU,ER,Jaú
-166,4,09:35,66,50,BAU,FC_O, Jaú
-167,4,09:44,66,50,BAU,RD,Alex
-168,4,09:45,66,50,CAP,3_Pts_T,Hure
-169,4,10:00,66,50,,inicio_quarto,
-170,3,00:00,66,50,BAU,substituicao_sai,Jaú
-171,3,00:00,66,50,BAU,substituicao_sai,Gegê
-172,3,00:00,66,50,BAU,substituicao_sai,Jefferson
-173,3,00:00,66,50,BAU,substituicao_sai,Alex
-174,3,00:00,66,50,BAU,substituicao_sai,Gui Deodato
-175,3,00:00,66,50,CAP,substituicao_sai,Eddy
-176,3,00:00,66,50,CAP,substituicao_sai,Victor André
-177,3,00:00,66,50,CAP,substituicao_sai,Lucas Dias
-178,3,00:00,66,50,CAP,substituicao_sai,Jhonatan
-179,3,00:00,66,50,CAP,substituicao_sai,Luis Ferdo
-180,3,00:00,66,50,,fim_quarto,
-181,3,00:01,66,50,BAU,RD,Jaú
-182,3,00:02,66,50,CAP,3_Pts_T,Eddy
-183,3,00:08,66,50,BAU,AS,Alex
-184,3,00:08,66,50,BAU,3_Pts_C,Gegê
-185,3,00:12,66,47,BAU,RO,Jaú
-186,3,00:15,66,47,BAU,3_Pts_T,Jefferson
-187,3,00:29,66,47,BAU,LL_Pts_C,Jefferson
-188,3,00:29,66,46,BAU,LL_Pts_C,Jefferson
-189,3,00:29,66,45,BAU,LL_Pts_C,Jefferson
-190,3,00:29,66,44,CAP,substituicao_entra,Luis Ferdo
-191,3,00:29,66,44,CAP,substituicao_sai,Arthur Pecos
-192,3,00:29,66,44,CAP,substituicao_entra,Eddy
-193,3,00:29,66,44,CAP,substituicao_sai,Yago
-194,3,00:29,66,44,CAP,substituicao_entra,Victor André
-195,3,00:29,66,44,CAP,substituicao_sai,Guilherme
-196,3,00:29,66,44,CAP,FC_T,Guilherme
-197,3,00:29,66,44,BAU,FR,Jefferson
-198,3,00:29,66,44,CAP,FC,Guilherme
-199,3,00:29,66,44,BAU,RD,Jefferson
-200,3,00:29,66,44,CAP,3_Pts_T,Yago
-201,3,00:36,66,44,CAP,substituicao_entra,Arthur Pecos
-202,3,00:36,66,44,CAP,substituicao_sai,De Paula
-203,3,00:39,66,44,CAP,BR,Jhonatan
-204,3,00:39,66,44,BAU,ER,Alex
-205,3,00:43,66,44,BAU,RD,Gegê
-206,3,00:46,66,44,CAP,2_Pts_T,Yago
-207,3,01:09,66,44,CAP,RD,Guilherme
-208,3,01:12,66,44,BAU,3_Pts_T,Gegê
-209,3,01:30,66,44,CAP,AS,Jhonatan
-210,3,01:30,66,44,CAP,2_Pts_C,Guilherme
-211,3,01:48,64,44,CAP,substituicao_entra,Lucas Dias
-212,3,01:48,64,44,CAP,substituicao_sai,Renato
-213,3,01:48,64,44,BAU,LL_Pts_C,Alex
-214,3,01:48,64,43,BAU,LL_Pts_T,Alex
-215,3,01:48,64,43,BAU,FR,Alex
-216,3,01:48,64,43,CAP,FC,Renato
-217,3,01:58,64,43,BAU,FR,Jefferson
-218,3,01:58,64,43,CAP,FC,Jhonatan
-219,3,02:10,64,43,CAP,substituicao_entra,Jhonatan
-220,3,02:10,64,43,CAP,substituicao_sai,Lucas Dias
-221,3,02:10,64,43,BAU,tempo_tecnico,Bauru
-222,3,02:12,64,43,CAP,AS,De Paula
-223,3,02:12,64,43,CAP,2_Pts_C,Guilherme
-224,3,02:28,62,43,CAP,LL_Pts_C,Yago
-225,3,02:28,61,43,BAU,FC_T,Jefferson
-226,3,02:28,61,43,CAP,LL_Pts_C,Yago
-227,3,02:28,60,43,BAU,FC_T,Bauru
-228,3,02:28,60,43,BAU,AS,Jefferson
-229,3,02:28,60,43,BAU,2_Pts_C,Gui Deodato
-230,3,02:42,60,41,CAP,3_Pts_C,Yago
-231,3,03:01,57,41,CAP,RD,Renato
-232,3,03:03,57,41,BAU,3_Pts_T,Jefferson
-233,3,03:10,57,41,BAU,RD,Jefferson
-234,3,03:12,57,41,CAP,2_Pts_T,Lucas Dias
-235,3,03:32,57,41,CAP,FR,De Paula
-236,3,03:32,57,41,BAU,ER,Jaú
-237,3,03:32,57,41,BAU,FC_O, Jaú
-238,3,03:50,57,41,BAU,RD,Jaú
-239,3,03:51,57,41,CAP,LL_Pts_T,Renato
-240,3,03:51,57,41,CAP,LL_Pts_C,Renato
-241,3,03:51,56,41,CAP,FR,Renato
-242,3,03:51,56,41,BAU,FC,Jefferson
-243,3,03:55,56,41,CAP,RD,De Paula
-244,3,03:57,56,41,BAU,2_Pts_T,Alex
-245,3,04:10,56,41,CAP,substituicao_entra,Yago
-246,3,04:10,56,41,CAP,substituicao_sai,Arthur Pecos
-247,3,04:10,56,41,CAP,substituicao_entra,De Paula
-248,3,04:10,56,41,CAP,substituicao_sai,Eddy
-249,3,04:10,56,41,BAU,FR,Jaú
-250,3,04:10,56,41,CAP,ER,Eddy
-251,3,04:10,56,41,CAP,FC_O, Eddy
-252,3,04:11,56,41,CAP,RO,Arthur Pecos
-253,3,04:12,56,41,CAP,3_Pts_T,Eddy
-254,3,04:26,56,41,CAP,RD,Eddy
-255,3,04:28,56,41,BAU,3_Pts_T,Gegê
-256,3,04:38,56,41,BAU,RD,Jaú
-257,3,04:40,56,41,CAP,3_Pts_T,Arthur Pecos
-258,3,04:57,56,41,CAP,substituicao_entra,Guilherme
-259,3,04:57,56,41,CAP,substituicao_sai,Hure
-260,3,04:57,56,41,BAU,LL_Pts_C,Jefferson
-261,3,04:57,56,40,BAU,LL_Pts_C,Jefferson
-262,3,04:57,56,39,BAU,substituicao_entra,Jaú
-263,3,04:57,56,39,BAU,substituicao_sai,Shilton
-264,3,04:57,56,39,BAU,FR,Jefferson
-265,3,04:57,56,39,CAP,FC,Hure
-266,3,05:10,56,39,CAP,AS,Renato
-267,3,05:10,56,39,CAP,3_Pts_C,Hure
-268,3,05:19,53,39,CAP,RD,Renato
-269,3,05:23,53,39,CAP,TO,Lucas Dias
-270,3,05:23,53,39,BAU,2_Pts_T,Alex
-271,3,05:42,53,39,CAP,LL_Pts_C,Eddy
-272,3,05:42,52,39,CAP,LL_Pts_C,Eddy
-273,3,05:42,51,39,CAP,FR,Eddy
-274,3,05:42,51,39,BAU,FC,Gui Deodato
-275,3,05:45,51,39,BAU,substituicao_entra,Gui Deodato
-276,3,05:45,51,39,BAU,substituicao_sai,Léo Meindl
-277,3,05:45,51,39,CAP,FR,Lucas Dias
-278,3,05:45,51,39,BAU,FC,Léo Meindl
-279,3,05:58,51,39,BAU,2_Pts_C,Jefferson
-280,3,06:20,51,37,CAP,2_Pts_C,Arthur Pecos
-281,3,06:38,49,37,CAP,RD,Renato
-282,3,06:40,49,37,BAU,3_Pts_T,Alex
-283,3,06:47,49,37,BAU,FR,Jefferson
-284,3,06:47,49,37,CAP,FC,Hure
-285,3,06:52,49,37,BAU,BR,Shilton
-286,3,06:52,49,37,CAP,ER,Eddy
-287,3,07:10,49,37,CAP,RD,Eddy
-288,3,07:11,49,37,BAU,3_Pts_T,Alex
-289,3,07:14,49,37,BAU,RO,Léo Meindl
-290,3,07:16,49,37,BAU,3_Pts_T,Alex
-291,3,07:41,49,37,CAP,AS,Arthur Pecos
-292,3,07:41,49,37,CAP,3_Pts_C,Hure
-293,3,07:54,46,37,BAU,3_Pts_C,Alex
-294,3,08:08,46,34,BAU,tempo_tecnico,Bauru
-295,3,08:09,46,34,CAP,AS,Arthur Pecos
-296,3,08:09,46,34,CAP,3_Pts_C,Lucas Dias
-297,3,08:25,43,34,BAU,ER,Alex
-298,3,08:33,43,34,CAP,LL_Pts_C,Renato
-299,3,08:33,42,34,CAP,LL_Pts_C,Renato
-300,3,08:33,41,34,CAP,FR,Renato
-301,3,08:33,41,34,BAU,FC,Shilton
-302,3,08:40,41,34,CAP,RO,Arthur Pecos
-303,3,08:41,41,34,CAP,3_Pts_T,Eddy
-304,3,08:55,41,34,CAP,FR,Lucas Dias
-305,3,08:55,41,34,BAU,ER,Léo Meindl
-306,3,08:55,41,34,BAU,FC_O, Léo Meindl
-307,3,09:07,41,34,BAU,RD,Shilton
-308,3,09:09,41,34,CAP,2_Pts_T,Eddy
-309,3,09:19,41,34,CAP,RD,Hure
-310,3,09:24,41,34,CAP,TO,Hure
-311,3,09:24,41,34,BAU,2_Pts_T,Jefferson
-312,3,09:33,41,34,BAU,RD,Shilton
-313,3,09:38,41,34,BAU,TO,Jefferson
-314,3,09:38,41,34,CAP,2_Pts_T,Hure
-315,3,09:42,41,34,CAP,RD,Hure
-316,3,09:44,41,34,BAU,3_Pts_T,Alex
-317,3,10:00,41,34,,inicio_quarto,
-318,2,00:00,41,34,CAP,substituicao_sai,De Paula
-319,2,00:00,41,34,CAP,substituicao_sai,Arthur Pecos
-320,2,00:00,41,34,CAP,substituicao_sai,Hure
-321,2,00:00,41,34,CAP,substituicao_sai,Lucas Dias
-322,2,00:00,41,34,CAP,substituicao_sai,Yago
-323,2,00:00,41,34,BAU,substituicao_sai,Jaú
-324,2,00:00,41,34,BAU,substituicao_sai,Alex
-325,2,00:00,41,34,BAU,substituicao_sai,Stefano
-326,2,00:00,41,34,BAU,substituicao_sai,Shilton
-327,2,00:00,41,34,BAU,substituicao_sai,Gui Deodato
-328,2,00:00,41,34,,fim_quarto,
-329,2,00:01,41,34,BAU,RD,Alex
-330,2,00:02,41,34,CAP,3_Pts_T,Yago
-331,2,00:07,41,34,CAP,FR,Yago
-332,2,00:07,41,34,BAU,FC,Stefano
-333,2,00:09,41,34,CAP,substituicao_entra,Lucas Dias
-334,2,00:09,41,34,CAP,substituicao_sai,Victor André
-335,2,00:09,41,34,CAP,RD,Paulistano
-336,2,00:09,41,34,BAU,3_Pts_T,Gui Deodato
-337,2,00:30,41,34,CAP,AS,Arthur Pecos
-338,2,00:30,41,34,CAP,3_Pts_C,Yago
-339,2,00:39,38,34,BAU,substituicao_entra,Stefano
-340,2,00:39,38,34,BAU,substituicao_sai,Jefferson
-341,2,00:39,38,34,BAU,substituicao_entra,Jaú
-342,2,00:39,38,34,BAU,substituicao_sai,Léo Meindl
-343,2,00:39,38,34,CAP,substituicao_entra,Arthur Pecos
-344,2,00:39,38,34,CAP,substituicao_sai,Pedrão
-345,2,00:39,38,34,CAP,substituicao_entra,Hure
-346,2,00:39,38,34,CAP,substituicao_sai,Luis Ferdo
-347,2,00:39,38,34,CAP,tempo_tecnico,Paulistano
-348,2,00:39,38,34,CAP,FR,Pedrão
-349,2,00:39,38,34,BAU,ER,Léo Meindl
-350,2,00:39,38,34,BAU,FC_O, Léo Meindl
-351,2,00:45,38,34,CAP,substituicao_entra,Pedrão
-352,2,00:45,38,34,CAP,substituicao_sai,Arthur Pecos
-353,2,00:45,38,34,CAP,substituicao_entra,Luis Ferdo
-354,2,00:45,38,34,CAP,substituicao_sai,Hure
-355,2,00:45,38,34,BAU,substituicao_entra,Jefferson
-356,2,00:45,38,34,BAU,substituicao_sai,Jaú
-357,2,00:45,38,34,BAU,tempo_tecnico,Bauru
-358,2,00:45,38,34,CAP,AS,Arthur Pecos
-359,2,00:45,38,34,CAP,3_Pts_C,De Paula
-360,2,01:04,35,34,BAU,2_Pts_C,Léo Meindl
-361,2,01:34,35,32,CAP,3_Pts_C,Yago
-362,2,01:53,32,32,CAP,FR,Victor André
-363,2,01:53,32,32,BAU,ER,Gui Deodato
-364,2,01:53,32,32,BAU,FC_O, Gui Deodato
-365,2,02:01,32,32,BAU,RD,Jaú
-366,2,02:03,32,32,CAP,2_Pts_T,Arthur Pecos
-367,2,02:16,32,32,CAP,tempo_tecnico,Paulistano
-368,2,02:16,32,32,BAU,AS,Léo Meindl
-369,2,02:16,32,32,BAU,3_Pts_C,Alex
-370,2,02:22,32,29,BAU,BR,Léo Meindl
-371,2,02:22,32,29,CAP,ER,Yago
-372,2,02:24,32,29,CAP,substituicao_entra,Yago
-373,2,02:24,32,29,CAP,substituicao_sai,Eddy
-374,2,02:24,32,29,CAP,substituicao_entra,Victor André
-375,2,02:24,32,29,CAP,substituicao_sai,Guilherme
-376,2,02:24,32,29,CAP,RO,Paulistano
-377,2,02:24,32,29,CAP,2_Pts_T,Guilherme
-378,2,02:41,32,29,BAU,LL_Pts_C,Alex
-379,2,02:41,32,28,BAU,LL_Pts_C,Alex
-380,2,02:41,32,27,BAU,FR,Alex
-381,2,02:41,32,27,CAP,FC,Guilherme
-382,2,02:53,32,27,CAP,AS,De Paula
-383,2,02:53,32,27,CAP,2_Pts_C,Guilherme
-384,2,03:06,30,27,CAP,RD,Guilherme
-385,2,03:08,30,27,BAU,2_Pts_T,Gui Deodato
-386,2,03:24,30,27,CAP,substituicao_entra,Guilherme
-387,2,03:24,30,27,CAP,substituicao_sai,Renato
-388,2,03:24,30,27,BAU,substituicao_entra,Shilton
-389,2,03:24,30,27,BAU,substituicao_sai,Jefferson
-390,2,03:24,30,27,CAP,ER,Renato
-391,2,03:38,30,27,BAU,ER,Léo Meindl
-392,2,03:38,30,27,CAP,substituicao_entra,Hure
-393,2,03:38,30,27,CAP,substituicao_sai,Lucas Dias
-394,2,03:38,30,27,BAU,FR,Alex
-395,2,03:38,30,27,CAP,FC,Arthur Pecos
-396,2,03:54,30,27,BAU,RD,Gui Deodato
-397,2,03:56,30,27,CAP,3_Pts_T,Lucas Dias
-398,2,04:04,30,27,CAP,RD,Arthur Pecos
-399,2,04:06,30,27,BAU,2_Pts_T,Alex
-400,2,04:10,30,27,BAU,RD,Léo Meindl
-401,2,04:12,30,27,CAP,2_Pts_T,Renato
-402,2,04:28,30,27,BAU,LL_Pts_C,Léo Meindl
-403,2,04:28,30,26,BAU,FR,Léo Meindl
-404,2,04:28,30,26,CAP,FC,Eddy
-405,2,04:28,30,26,BAU,2_Pts_C,Léo Meindl
-406,2,04:53,30,24,CAP,3_Pts_C,Eddy
-407,2,05:14,27,24,BAU,AS,Alex
-408,2,05:14,27,24,BAU,3_Pts_C,Gui Deodato
-409,2,05:31,27,21,CAP,ER,Eddy
-410,2,05:39,27,21,BAU,substituicao_entra,Alex
-411,2,05:39,27,21,BAU,substituicao_sai,Stefano
-412,2,05:39,27,21,CAP,FR,Lucas Dias
-413,2,05:39,27,21,BAU,FC,Jaú
-414,2,05:48,27,21,BAU,2_Pts_C,Gui Deodato
-415,2,05:49,27,19,BAU,RO,Gui Deodato
-416,2,05:51,27,19,BAU,2_Pts_T,Jaú
-417,2,06:11,27,19,CAP,substituicao_entra,Arthur Pecos
-418,2,06:11,27,19,CAP,substituicao_sai,Yago
-419,2,06:11,27,19,BAU,tempo_tecnico,Bauru
-420,2,06:11,27,19,CAP,AS,Lucas Dias
-421,2,06:11,27,19,CAP,2_Pts_C,Renato
-422,2,06:25,25,19,CAP,RD,Lucas Dias
-423,2,06:27,25,19,BAU,2_Pts_T,Jefferson
-424,2,06:39,25,19,BAU,RO,Stefano
-425,2,06:41,25,19,BAU,2_Pts_T,Jefferson
-426,2,06:51,25,19,BAU,RO,Jaú
-427,2,06:53,25,19,BAU,2_Pts_T,Jaú
-428,2,06:57,25,19,CAP,substituicao_entra,De Paula
-429,2,06:57,25,19,CAP,substituicao_sai,Hure
-430,2,06:57,25,19,CAP,substituicao_entra,Lucas Dias
-431,2,06:57,25,19,CAP,substituicao_sai,Jhonatan
-432,2,06:57,25,19,BAU,FR,Jefferson
-433,2,06:57,25,19,CAP,FC,Jhonatan
-434,2,07:12,25,19,CAP,ER,Jhonatan
-435,2,07:21,25,19,CAP,RO,Renato
-436,2,07:22,25,19,CAP,2_Pts_T,Renato
-437,2,07:43,25,19,BAU,substituicao_entra,Léo Meindl
-438,2,07:43,25,19,BAU,substituicao_sai,Alex
-439,2,07:43,25,19,BAU,ER,Jefferson
-440,2,07:59,25,19,CAP,3_Pts_C,Eddy
-441,2,08:11,22,19,CAP,RD,Eddy
-442,2,08:13,22,19,BAU,3_Pts_T,Gui Deodato
-443,2,08:27,22,19,BAU,RD,Jefferson
-444,2,08:30,22,19,CAP,3_Pts_T,Jhonatan
-445,2,08:32,22,19,CAP,RO,Renato
-446,2,08:34,22,19,CAP,3_Pts_T,Yago
-447,2,08:51,22,19,CAP,RD,Paulistano
-448,2,08:51,22,19,BAU,3_Pts_T,Alex
-449,2,09:05,22,19,CAP,substituicao_entra,Renato
-450,2,09:05,22,19,CAP,substituicao_sai,Guilherme
-451,2,09:05,22,19,BAU,FR,Jaú
-452,2,09:05,22,19,CAP,FC,Jhonatan
-453,2,09:22,22,19,CAP,AS,Jhonatan
-454,2,09:22,22,19,CAP,2_Pts_C,Guilherme
-455,2,09:31,20,19,CAP,RD,Hure
-456,2,09:33,20,19,BAU,2_Pts_T,Alex
-457,2,09:48,20,19,BAU,BR,Jefferson
-458,2,09:48,20,19,CAP,ER,Jhonatan
-459,2,10:00,20,19,,inicio_quarto,
-460,1,00:00,20,19,CAP,substituicao_sai,Hure
-461,1,00:00,20,19,CAP,substituicao_sai,Victor André
-462,1,00:00,20,19,CAP,substituicao_sai,Jhonatan
-463,1,00:00,20,19,CAP,substituicao_sai,Luis Ferdo
-464,1,00:00,20,19,CAP,substituicao_sai,Yago
-465,1,00:00,20,19,BAU,substituicao_sai,Jaú
-466,1,00:00,20,19,BAU,substituicao_sai,Jefferson
-467,1,00:00,20,19,BAU,substituicao_sai,Alex
-468,1,00:00,20,19,BAU,substituicao_sai,Stefano
-469,1,00:00,20,19,BAU,substituicao_sai,Gui Deodato
-470,1,00:00,20,19,,fim_quarto,
-471,1,00:01,20,19,CAP,AS,Yago
-472,1,00:01,20,19,CAP,3_Pts_C,Hure
-473,1,00:08,17,19,BAU,AS,Alex
-474,1,00:08,17,19,BAU,2_Pts_C,Jaú
-475,1,00:26,17,17,CAP,substituicao_entra,Hure
-476,1,00:26,17,17,CAP,substituicao_sai,Lucas Dias
-477,1,00:26,17,17,CAP,substituicao_entra,Victor André
-478,1,00:26,17,17,CAP,substituicao_sai,Eddy
-479,1,00:26,17,17,CAP,substituicao_entra,Luis Ferdo
-480,1,00:26,17,17,CAP,substituicao_sai,Guilherme
-481,1,00:26,17,17,CAP,LL_Pts_C,Lucas Dias
-482,1,00:26,16,17,CAP,LL_Pts_T,Lucas Dias
-483,1,00:26,16,17,CAP,FR,Lucas Dias
-484,1,00:26,16,17,BAU,FC,Alex
-485,1,00:35,16,17,BAU,substituicao_entra,Jaú
-486,1,00:35,16,17,BAU,substituicao_sai,Shilton
-487,1,00:35,16,17,BAU,substituicao_entra,Gui Deodato
-488,1,00:35,16,17,BAU,substituicao_sai,Léo Meindl
-489,1,00:35,16,17,CAP,FR,Lucas Dias
-490,1,00:35,16,17,BAU,ER,Shilton
-491,1,00:35,16,17,BAU,FC_O, Shilton
-492,1,00:50,16,17,BAU,RD,Léo Meindl
-493,1,00:52,16,17,CAP,3_Pts_T,Guilherme
-494,1,01:05,16,17,CAP,RO,Jhonatan
-495,1,01:08,16,17,CAP,3_Pts_T,Lucas Dias
-496,1,01:11,16,17,CAP,RO,Jhonatan
-497,1,01:12,16,17,CAP,2_Pts_T,Yago
-498,1,01:19,16,17,CAP,RD,Guilherme
-499,1,01:21,16,17,BAU,3_Pts_T,Léo Meindl
-500,1,01:36,16,17,BAU,RD,Léo Meindl
-501,1,01:38,16,17,CAP,2_Pts_T,Eddy
-502,1,01:53,16,17,BAU,2_Pts_C,Léo Meindl
-503,1,02:10,16,15,CAP,LL_Pts_C,Lucas Dias
-504,1,02:10,15,15,CAP,LL_Pts_C,Lucas Dias
-505,1,02:10,14,15,CAP,FR,Lucas Dias
-506,1,02:10,14,15,BAU,FC,Stefano
-507,1,02:25,14,15,BAU,LL_Pts_C,Jefferson
-508,1,02:25,14,14,BAU,LL_Pts_C,Jefferson
-509,1,02:25,14,13,CAP,substituicao_entra,Yago
-510,1,02:25,14,13,CAP,substituicao_sai,Arthur Pecos
-511,1,02:25,14,13,BAU,FR,Jefferson
-512,1,02:25,14,13,CAP,FC,Eddy
-513,1,02:37,14,13,CAP,LL_Pts_C,Arthur Pecos
-514,1,02:37,13,13,CAP,LL_Pts_T,Arthur Pecos
-515,1,02:37,13,13,CAP,FR,Arthur Pecos
-516,1,02:37,13,13,BAU,FC,Léo Meindl
-517,1,02:39,13,13,CAP,RD,Jhonatan
-518,1,02:42,13,13,BAU,3_Pts_T,Stefano
-519,1,02:47,13,13,BAU,RD,Alex
-520,1,02:49,13,13,CAP,3_Pts_T,Arthur Pecos
-521,1,03:13,13,13,BAU,LL_Pts_C,Shilton
-522,1,03:13,13,12,BAU,LL_Pts_C,Shilton
-523,1,03:13,13,11,BAU,FR,Shilton
-524,1,03:13,13,11,CAP,FC,Guilherme
-525,1,03:28,13,11,CAP,substituicao_entra,Jhonatan
-526,1,03:28,13,11,CAP,substituicao_sai,Hure
-527,1,03:28,13,11,CAP,substituicao_entra,Eddy
-528,1,03:28,13,11,CAP,substituicao_sai,De Paula
-529,1,03:28,13,11,CAP,ER,Hure
-530,1,03:45,13,11,BAU,2_Pts_C,Jefferson
-531,1,04:04,13,9,CAP,2_Pts_C,Guilherme
-532,1,04:12,11,9,CAP,RO,Guilherme
-533,1,04:13,11,9,CAP,2_Pts_T,Guilherme
-534,1,04:14,11,9,CAP,RO,Guilherme
-535,1,04:17,11,9,CAP,3_Pts_T,De Paula
-536,1,04:33,11,9,BAU,LL_Pts_C,Léo Meindl
-537,1,04:33,11,8,CAP,substituicao_entra,Guilherme
-538,1,04:33,11,8,CAP,substituicao_sai,Renato
-539,1,04:33,11,8,BAU,FR,Léo Meindl
-540,1,04:33,11,8,CAP,FC,Renato
-541,1,04:33,11,8,BAU,2_Pts_C,Léo Meindl
-542,1,04:38,11,6,BAU,RD,Léo Meindl
-543,1,04:40,11,6,CAP,3_Pts_T,Arthur Pecos
-544,1,04:51,11,6,CAP,RD,De Paula
-545,1,04:54,11,6,BAU,3_Pts_T,Jefferson
-546,1,04:59,11,6,BAU,RD,Shilton
-547,1,05:01,11,6,CAP,3_Pts_T,Renato
-548,1,05:08,11,6,BAU,substituicao_entra,Stefano
-549,1,05:08,11,6,BAU,substituicao_sai,Gegê
-550,1,05:08,11,6,CAP,FR,Arthur Pecos
-551,1,05:08,11,6,BAU,FC,Gegê
-552,1,05:10,11,6,CAP,RD,Lucas Dias
-553,1,05:13,11,6,BAU,2_Pts_T,Alex
-554,1,05:22,11,6,BAU,FR,Shilton
-555,1,05:22,11,6,CAP,FC,Renato
-556,1,05:23,11,6,BAU,RO,Shilton
-557,1,05:25,11,6,BAU,3_Pts_T,Léo Meindl
-558,1,05:41,11,6,CAP,substituicao_entra,Renato
-559,1,05:41,11,6,CAP,substituicao_sai,Guilherme
-560,1,05:42,11,6,CAP,ER,Guilherme
-561,1,05:55,11,6,BAU,AS,Jefferson
-562,1,05:55,11,6,BAU,2_Pts_C,Shilton
-563,1,06:08,11,4,BAU,RD,Bauru
-564,1,06:08,11,4,CAP,3_Pts_T,Hure
-565,1,06:22,11,4,CAP,RD,Lucas Dias
-566,1,06:24,11,4,BAU,2_Pts_T,Léo Meindl
-567,1,06:38,11,4,BAU,FR,Jefferson
-568,1,06:38,11,4,CAP,FC,Hure
-569,1,06:51,11,4,CAP,LL_Pts_C,Arthur Pecos
-570,1,06:51,10,4,CAP,LL_Pts_T,Arthur Pecos
-571,1,06:51,10,4,CAP,FR,Arthur Pecos
-572,1,06:51,10,4,BAU,FC,Gegê
-573,1,07:10,10,4,BAU,2_Pts_C,Léo Meindl
-574,1,07:21,10,2,CAP,2_Pts_C,Hure
-575,1,07:24,8,2,CAP,BR,Hure
-576,1,07:24,8,2,BAU,ER,Jefferson
-577,1,07:26,8,2,BAU,RD,Jefferson
-578,1,07:29,8,2,CAP,2_Pts_T,Guilherme
-579,1,07:38,8,2,CAP,RD,De Paula
-580,1,07:40,8,2,BAU,3_Pts_T,Gegê
-581,1,08:00,8,2,CAP,3_Pts_C,Arthur Pecos
-582,1,08:20,5,2,BAU,AS,Gegê
-583,1,08:20,5,2,BAU,2_Pts_C,Shilton
-584,1,08:33,5,0,CAP,ER,Guilherme
-585,1,08:41,5,0,CAP,RD,Lucas Dias
-586,1,08:43,5,0,BAU,3_Pts_T,Alex
-587,1,08:58,5,0,CAP,AS,Arthur Pecos
-588,1,08:58,5,0,CAP,2_Pts_C,Hure
-589,1,09:16,3,0,CAP,RD,Paulistano
-590,1,09:16,3,0,BAU,3_Pts_T,Alex
-591,1,09:38,3,0,CAP,AS,Guilherme
-592,1,09:38,3,0,CAP,3_Pts_C,Lucas Dias
-593,1,09:47,0,0,CAP,BR,Lucas Dias
-594,1,09:47,0,0,BAU,ER,Léo Meindl
-595,1,10:00,0,0,BAU,substituicao_entra,Léo Meindl
-596,1,10:00,0,0,BAU,substituicao_entra,Gegê
-597,1,10:00,0,0,BAU,substituicao_entra,Jefferson
-598,1,10:00,0,0,BAU,substituicao_entra,Alex
-599,1,10:00,0,0,BAU,substituicao_entra,Shilton
-600,1,10:00,0,0,CAP,substituicao_entra,Guilherme
-601,1,10:00,0,0,CAP,substituicao_entra,De Paula
-602,1,10:00,0,0,CAP,substituicao_entra,Arthur Pecos
-603,1,10:00,0,0,CAP,substituicao_entra,Hure
-604,1,10:00,0,0,CAP,substituicao_entra,Lucas Dias
+,Quarto,Tempo,Time_01,Placar,Inf_2
+0,4,00:00,"Fim de partida.                                                                     
+
+",83 x 63,"Fim de partida.                                                                     
+
+"
+1,4,00:08,MIN,83 x 63,"Assistência do Xande (3 assist√™ncia(s) - Equipe: 21 assist√™ncia(s))                                                                    
+
+"
+2,4,00:08,MIN,83 x 63,"Rodgers acerta arremesso de dois pontos. (9/14 - 64.3% - Equipe: 31/50 - 62.0%)                                                                    
+
+"
+3,4,00:08,MIN,81 x 63,"Xande recupera a bola.                                                                     
+
+"
+4,4,00:11,CAX,81 x 63,"R. Stabile perde posse de bola.                                                                     
+
+"
+5,4,00:26,MIN,81 x 63,"Assistência do Rodgers (6 assist√™ncia(s) - Equipe: 20 assist√™ncia(s))                                                                    
+
+"
+6,4,00:31,MIN,81 x 63,"Cravada!Siqueira acerta enterrada. (7/11 - 63.6% - Equipe: 30/49 - 61.2%)                                                                    
+
+"
+7,4,00:35,MIN,79 x 63,"Xande pega rebote defensivo. (6 rebote(s) - Equipe: 43 rebote(s))                                                                    
+
+"
+8,4,00:37,CAX,79 x 63,"Buboltz  erra tentativa para dois pontos. (0/1 - 0.0% - Equipe: 16/41 - 39.0%)                                                                    
+
+"
+9,4,00:44,MIN,79 x 63,"Assistência do Siqueira (7 assist√™ncia(s) - Equipe: 19 assist√™ncia(s))                                                                    
+
+"
+10,4,00:44,MIN,79 x 63,"Wesley acerta arremesso de dois pontos. (6/8 - 75.0% - Equipe: 29/48 - 60.4%)                                                                    
+
+"
+11,4,00:52,CAX,77 x 63,"R. Stabile acerta o lance livre. (5/6 - 83.3% - Equipe: 10/11 - 90.9%)                                                                    
+
+"
+12,4,00:52,CAX,77 x 62,"R. Stabile acerta o lance livre. (4/5 - 80.0% - Equipe: 9/10 - 90.0%)                                                                    
+
+"
+13,4,00:52,CAX,77 x 61,"R. Stabile sofre falta.                                                                     
+
+"
+14,4,00:52,MIN,77 x 61,"Siqueira comete falta. (2 falta(s) - Equipe: 15 falta(s))                                                                    
+
+"
+15,4,00:54,MIN,77 x 61,"Assistência do Siqueira (6 assist√™ncia(s) - Equipe: 18 assist√™ncia(s))                                                                    
+
+"
+16,4,00:56,MIN,77 x 61,"Rodgers acerta arremesso de dois pontos. (8/13 - 61.5% - Equipe: 28/47 - 59.6%)                                                                    
+
+"
+17,4,00:57,MIN,75 x 61,"Rodgers recupera a bola.                                                                     
+
+"
+18,4,00:59,CAX,75 x 61,"Arthur comete violação de condução.                                                                     
+
+"
+19,4,01:14,CAX,75 x 61,"Arthur sofre falta.                                                                     
+
+"
+20,4,01:14,MIN,75 x 61,"Mosso comete falta. (1 falta(s) - Equipe: 14 falta(s))                                                                    
+
+"
+21,4,01:21,MIN,75 x 61,"Wesley acerta arremesso de dois pontos. (5/7 - 71.4% - Equipe: 27/46 - 58.7%)                                                                    
+
+"
+22,4,01:21,MIN,73 x 61,"Wesley pega rebote ofensivo. (3 rebote(s) - Equipe: 42 rebote(s))                                                                    
+
+"
+23,4,01:24,MIN,73 x 61,"Xande erra tentativa para dois pontos. (0/2 - 0.0% - Equipe: 26/45 - 57.8%)                                                                    
+
+"
+24,4,01:39,MIN,73 x 61,"Xande pega rebote ofensivo. (5 rebote(s) - Equipe: 41 rebote(s))                                                                    
+
+"
+25,4,01:40,MIN,73 x 61,"Siqueira erra tentativa para três pontos. (0/2 - 0.0% - Equipe: 3/18 - 16.7%)                                                                    
+
+"
+26,4,02:06,CAX,73 x 61,"Assistência do Buboltz  (2 assist√™ncia(s) - Equipe: 16 assist√™ncia(s))                                                                    
+
+"
+27,4,02:06,CAX,73 x 61,"R. Stabile acerta o lance livre. (3/4 - 75.0% - Equipe: 8/9 - 88.9%)                                                                    
+
+"
+28,4,02:06,CAX,73 x 60,"R. Stabile acerta o lance livre. (2/3 - 66.7% - Equipe: 7/8 - 87.5%)                                                                    
+
+"
+29,4,206,MIN,73 x 59,"Entra Wesley                                                                     
+
+"
+30,4,206,MIN,73 x 59,"Sai Maynard                                                                     
+
+"
+31,4,02:06,CAX,73 x 59,"R. Stabile sofre falta.                                                                     
+
+"
+32,4,02:06,MIN,73 x 59,"Maynard comete falta. (4 falta(s) - Equipe: 13 falta(s))                                                                    
+
+"
+33,4,02:15,MIN,73 x 59,"Rodgers comete violação de condução.                                                                     
+
+"
+34,4,02:34,MIN,73 x 59,"Mosso pega rebote defensivo. (6 rebote(s) - Equipe: 40 rebote(s))                                                                    
+
+"
+35,4,02:36,CAX,73 x 59,"Arthur erra tentativa para dois pontos. (6/15 - 40.0% - Equipe: 16/40 - 40.0%)                                                                    
+
+"
+36,4,02:42,CAX,73 x 59,"Buboltz  recupera a bola.                                                                     
+
+"
+37,4,02:45,MIN,73 x 59,"Rodgers perde posse de bola.                                                                     
+
+"
+38,4,02:54,MIN,73 x 59,"Rodgers pega rebote defensivo. (2 rebote(s) - Equipe: 39 rebote(s))                                                                    
+
+"
+39,4,02:56,CAX,73 x 59,"Guto erra tentativa para três pontos. (1/7 - 14.3% - Equipe: 7/22 - 31.8%)                                                                    
+
+"
+40,4,03:10,MIN,73 x 59,"Xande acerta o lance livre. (2/2 - 100.0% - Equipe: 12/16 - 75.0%)                                                                    
+
+"
+41,4,03:10,MIN,72 x 59,"Xande acerta o lance livre. (1/1 - 100.0% - Equipe: 11/15 - 73.3%)                                                                    
+
+"
+42,4,310,MIN,71 x 59,"Entra Mosso                                                                     
+
+"
+43,4,310,MIN,71 x 59,"Sai Big                                                                     
+
+"
+44,4,310,MIN,71 x 59,"Entra Rodgers                                                                     
+
+"
+45,4,310,MIN,71 x 59,"Sai Rafael                                                                     
+
+"
+46,4,03:10,MIN,71 x 59,"Xande sofre falta.                                                                     
+
+"
+47,4,03:10,CAX,71 x 59,"Buboltz  comete falta. (1 falta(s) - Equipe: 22 falta(s))                                                                    
+
+"
+48,4,03:17,CAX,71 x 59,"Arthur acerta arremesso de dois pontos. (6/14 - 42.9% - Equipe: 16/39 - 41.0%)(Duplo-Duplo)                                                                    
+
+"
+49,4,03:23,CAX,71 x 57,"Guto acerta o lance livre. (1/1 - 100.0% - Equipe: 6/7 - 85.7%)                                                                    
+
+"
+50,4,03:23,MIN,71 x 56,"Maynard perde posse de bola.                                                                     
+
+"
+51,4,03:23,CAX,71 x 56,"Entra Buboltz                                                                      
+
+"
+52,4,323,CAX,71 x 56,"Sai Vinícius                                                                     
+
+"
+53,4,03:23,MIN,71 x 56,"Maynard comete falta técnica. (3 falta(s) - Equipe: 12 falta(s))                                                                    
+
+"
+54,4,03:23,MIN,71 x 56,"Maynard sofre falta.                                                                     
+
+"
+55,4,03:23,CAX,71 x 56,"Vinícius comete falta. (5 falta(s) - Equipe: 21 falta(s))                                                                    
+
+"
+56,4,03:30,MIN,71 x 56,"Xande recupera a bola.                                                                     
+
+"
+57,4,03:32,CAX,71 x 56,"Douglas comete violação de condução.                                                                     
+
+"
+58,4,340,CAX,71 x 56,"Entra Douglas                                                                     
+
+"
+59,4,03:40,CAX,71 x 56,"Sai Marcão                                                                     
+
+"
+60,4,03:40,CAX,71 x 56,"Técnico da equipe Caxias do Sul pede tempo.                                                                     
+
+"
+61,4,03:40,MIN,71 x 56,"Assistência do Maynard (3 assist√™ncia(s) - Equipe: 17 assist√™ncia(s))                                                                    
+
+"
+62,4,03:40,MIN,71 x 56,"É de três! Rafael acerta arremesso de três pontos. (1/2 - 50.0% - Equipe: 3/17 - 17.6%)                                                                    
+
+"
+63,4,03:56,MIN,68 x 56,"Rafael sofre falta.                                                                     
+
+"
+64,4,03:56,CAX,68 x 56,"Arthur comete falta. (2 falta(s) - Equipe: 20 falta(s))                                                                    
+
+"
+65,4,03:56,MIN,68 x 56,"Minas pega rebote defensivo.                                                                     
+
+"
+66,4,03:57,CAX,68 x 56,"Marcão erra tentativa para três pontos. (1/2 - 50.0% - Equipe: 7/21 - 33.3%)                                                                    
+
+"
+67,4,04:17,MIN,68 x 56,"Estouro dos 24s.                                                                     
+
+"
+68,4,04:33,MIN,68 x 56,"Técnico da equipe Minas pede tempo.                                                                     
+
+"
+69,4,04:33,MIN,68 x 56,"Maynard sofre falta.                                                                     
+
+"
+70,4,04:33,CAX,68 x 56,"Vinícius comete falta. (4 falta(s) - Equipe: 19 falta(s))                                                                    
+
+"
+71,4,04:55,CAX,68 x 56,"Vinícius comete violação de condução.                                                                     
+
+"
+72,4,05:12,MIN,68 x 56,"Maynard acerta o lance livre. (5/8 - 62.5% - Equipe: 10/14 - 71.4%)                                                                    
+
+"
+73,4,05:12,MIN,67 x 56,"Maynard sofre falta.                                                                     
+
+"
+74,4,05:12,CAX,67 x 56,"Marcão comete falta. (4 falta(s) - Equipe: 18 falta(s))                                                                    
+
+"
+75,4,05:12,MIN,67 x 56,"Maynard acerta arremesso de dois pontos. (5/6 - 83.3% - Equipe: 26/44 - 59.1%)                                                                    
+
+"
+76,4,05:21,MIN,65 x 56,"Maynard pega rebote defensivo. (6 rebote(s) - Equipe: 37 rebote(s))                                                                    
+
+"
+77,4,05:23,CAX,65 x 56,"Marcão erra tentativa para dois pontos. (1/5 - 20.0% - Equipe: 15/38 - 39.5%)                                                                    
+
+"
+78,4,536,MIN,65 x 56,"Entra Xande                                                                     
+
+"
+79,4,536,MIN,65 x 56,"Sai Rodgers                                                                     
+
+"
+80,4,05:52,CAX,65 x 56,"Caxias do Sul pega rebote defensivo.                                                                     
+
+"
+81,4,05:52,MIN,65 x 56,"Rodgers erra tentativa para dois pontos. (7/12 - 58.3% - Equipe: 25/43 - 58.1%)                                                                    
+
+"
+82,4,05:56,MIN,65 x 56,"Big pega rebote defensivo. (10 rebote(s) - Equipe: 36 rebote(s))(Duplo-Duplo)                                                                    
+
+"
+83,4,05:58,CAX,65 x 56,"Vinícius erra tentativa para três pontos. (2/4 - 50.0% - Equipe: 7/20 - 35.0%)                                                                    
+
+"
+84,4,06:27,MIN,65 x 56,"Assistência do Siqueira (5 assist√™ncia(s) - Equipe: 16 assist√™ncia(s))                                                                    
+
+"
+85,4,06:29,MIN,65 x 56,"Maynard acerta arremesso de dois pontos. (4/5 - 80.0% - Equipe: 25/42 - 59.5%)                                                                    
+
+"
+86,4,06:54,CAX,63 x 56,"R. Stabile acerta arremesso de dois pontos. (3/3 - 100.0% - Equipe: 15/37 - 40.5%)                                                                    
+
+"
+87,4,07:13,CAX,63 x 54,"Técnico da equipe Caxias do Sul pede tempo.                                                                     
+
+"
+88,4,07:13,MIN,63 x 54,"Assistência do Siqueira (4 assist√™ncia(s) - Equipe: 15 assist√™ncia(s))                                                                    
+
+"
+89,4,07:13,MIN,63 x 54,"Cravada!Big acerta enterrada. (3/5 - 60.0% - Equipe: 24/41 - 58.5%)                                                                    
+
+"
+90,4,07:20,MIN,61 x 54,"Siqueira pega rebote ofensivo. (2 rebote(s) - Equipe: 35 rebote(s))                                                                    
+
+"
+91,4,07:21,CAX,61 x 54,"Marcão dá um toco.                                                                     
+
+"
+92,4,07:23,MIN,61 x 54,"Rodgers erra tentativa para dois pontos. (7/11 - 63.6% - Equipe: 23/40 - 57.5%)                                                                    
+
+"
+93,4,07:25,MIN,61 x 54,"Rafael pega rebote ofensivo. (2 rebote(s) - Equipe: 34 rebote(s))                                                                    
+
+"
+94,4,07:27,MIN,61 x 54,"Maynard erra tentativa para três pontos. (1/6 - 16.7% - Equipe: 2/16 - 12.5%)                                                                    
+
+"
+95,4,07:39,MIN,61 x 54,"Rafael pega rebote ofensivo. (1 rebote(s) - Equipe: 33 rebote(s))                                                                    
+
+"
+96,4,07:41,MIN,61 x 54,"Siqueira erra tentativa para dois pontos. (6/10 - 60.0% - Equipe: 23/39 - 59.0%)                                                                    
+
+"
+97,4,08:01,CAX,61 x 54,"Marcão comete violação de condução.                                                                     
+
+"
+98,4,812,MIN,61 x 54,"Entra Big                                                                     
+
+"
+99,4,812,MIN,61 x 54,"Sai Wesley                                                                     
+
+"
+100,4,812,MIN,61 x 54,"Entra Maynard                                                                     
+
+"
+101,4,812,MIN,61 x 54,"Sai Mosso                                                                     
+
+"
+102,4,08:12,CAX,61 x 54,"Guto sofre falta.                                                                     
+
+"
+103,4,08:12,MIN,61 x 54,"Rafael comete falta. (3 falta(s) - Equipe: 11 falta(s))                                                                    
+
+"
+104,4,08:12,CAX,61 x 54,"Guto pega rebote defensivo. (2 rebote(s) - Equipe: 32 rebote(s))                                                                    
+
+"
+105,4,08:13,MIN,61 x 54,"Mosso erra tentativa para três pontos. (0/4 - 0.0% - Equipe: 2/15 - 13.3%)                                                                    
+
+"
+106,4,08:23,CAX,61 x 54,"Assistência do Arthur (1 assist√™ncia(s) - Equipe: 15 assist√™ncia(s))(Duplo-Duplo)                                                                    
+
+"
+107,4,08:27,CAX,61 x 54,"Marcão acerta arremesso de dois pontos. (1/4 - 25.0% - Equipe: 14/36 - 38.9%)                                                                    
+
+"
+108,4,08:48,MIN,61 x 52,"Assistência do Rodgers (5 assist√™ncia(s) - Equipe: 14 assist√™ncia(s))                                                                    
+
+"
+109,4,08:50,MIN,61 x 52,"Siqueira acerta arremesso de dois pontos. (6/9 - 66.7% - Equipe: 23/38 - 60.5%)                                                                    
+
+"
+110,4,09:04,CAX,59 x 52,"Vinícius acerta arremesso de dois pontos. (3/6 - 50.0% - Equipe: 13/35 - 37.1%)                                                                    
+
+"
+111,4,09:09,CAX,59 x 50,"Marcão pega rebote defensivo. (4 rebote(s) - Equipe: 31 rebote(s))                                                                    
+
+"
+112,4,09:12,MIN,59 x 50,"Siqueira erra tentativa para dois pontos. (5/8 - 62.5% - Equipe: 22/37 - 59.5%)                                                                    
+
+"
+113,4,09:18,MIN,59 x 50,"Mosso pega rebote defensivo. (5 rebote(s) - Equipe: 32 rebote(s))                                                                    
+
+"
+114,4,09:20,CAX,59 x 50,"Guto erra tentativa para três pontos. (1/6 - 16.7% - Equipe: 7/19 - 36.8%)                                                                    
+
+"
+115,4,09:30,MIN,59 x 50,"Wesley acerta arremesso de dois pontos. (4/6 - 66.7% - Equipe: 22/36 - 61.1%)                                                                    
+
+"
+116,4,09:30,MIN,57 x 50,"Wesley pega rebote ofensivo. (2 rebote(s) - Equipe: 31 rebote(s))                                                                    
+
+"
+117,4,09:33,MIN,57 x 50,"Wesley erra tentativa para dois pontos. (3/5 - 60.0% - Equipe: 21/35 - 60.0%)                                                                    
+
+"
+118,4,09:41,MIN,57 x 50,"Wesley pega rebote ofensivo. (1 rebote(s) - Equipe: 30 rebote(s))                                                                    
+
+"
+119,4,09:43,MIN,57 x 50,"Mosso erra tentativa para dois pontos. (0/3 - 0.0% - Equipe: 21/34 - 61.8%)                                                                    
+
+"
+120,4,10:00,"Início do  quarto quarto.                                                                     
+
+",57 x 50,"Início do  quarto quarto.                                                                     
+
+"
+121,4,1000,CAX,57 x 50,"Entra Arthur                                                                     
+
+"
+122,4,1000,CAX,57 x 50,"Sai Rech                                                                     
+
+"
+123,4,1000,CAX,57 x 50,"Entra Marcão                                                                     
+
+"
+124,4,1000,CAX,57 x 50,"Sai Buboltz                                                                      
+
+"
+125,3,00:00,"Fim  do terceiro quarto.                                                                     
+
+",57 x 50,"Fim  do terceiro quarto.                                                                     
+
+"
+126,3,00:02,MIN,57 x 50,"Assistência do Rodgers (4 assist√™ncia(s) - Equipe: 13 assist√™ncia(s))                                                                    
+
+"
+127,3,00:02,MIN,57 x 50,"Siqueira acerta arremesso de dois pontos. (5/7 - 71.4% - Equipe: 21/33 - 63.6%)                                                                    
+
+"
+128,3,00:07,MIN,55 x 50,"Wesley recupera a bola.                                                                     
+
+"
+129,3,00:09,CAX,55 x 50,"Vinícius comete violação de condução.                                                                     
+
+"
+130,3,00:28,MIN,55 x 50,"Assistência do Rodgers (3 assist√™ncia(s) - Equipe: 12 assist√™ncia(s))                                                                    
+
+"
+131,3,00:31,MIN,55 x 50,"Wesley acerta arremesso de dois pontos. (3/4 - 75.0% - Equipe: 20/32 - 62.5%)                                                                    
+
+"
+132,3,00:47,CAX,53 x 50,"Assistência do R. Stabile (4 assist√™ncia(s) - Equipe: 14 assist√™ncia(s))                                                                    
+
+"
+133,3,00:48,CAX,53 x 50,"É de três! Vinícius acerta arremesso de três pontos. (2/3 - 66.7% - Equipe: 7/18 - 38.9%)                                                                    
+
+"
+134,3,01:01,CAX,53 x 47,"R. Stabile pega rebote defensivo. (4 rebote(s) - Equipe: 30 rebote(s))                                                                    
+
+"
+135,3,01:04,MIN,53 x 47,"Mosso erra tentativa para dois pontos. (0/2 - 0.0% - Equipe: 19/31 - 61.3%)                                                                    
+
+"
+136,3,112,CAX,53 x 47,"Entra Buboltz                                                                      
+
+"
+137,3,112,CAX,53 x 47,"Sai Arthur                                                                     
+
+"
+138,3,01:27,MIN,53 x 47,"Rafael sofre falta.                                                                     
+
+"
+139,3,01:27,CAX,53 x 47,"R. Stabile perde posse de bola.                                                                     
+
+"
+140,3,01:27,CAX,53 x 47,"R. Stabile comete falta ofensiva. (3 falta(s) - Equipe: 17 falta(s))                                                                    
+
+"
+141,3,146,MIN,53 x 47,"Entra Rafael                                                                     
+
+"
+142,3,146,MIN,53 x 47,"Sai Xande                                                                     
+
+"
+143,3,01:46,MIN,53 x 47,"Assistência do Xande (2 assist√™ncia(s) - Equipe: 11 assist√™ncia(s))                                                                    
+
+"
+144,3,01:46,MIN,53 x 47,"Rodgers acerta arremesso de dois pontos. (7/10 - 70.0% - Equipe: 19/30 - 63.3%)                                                                    
+
+"
+145,3,01:48,MIN,51 x 47,"Xande recupera a bola.                                                                     
+
+"
+146,3,01:52,CAX,51 x 47,"R. Stabile perde posse de bola.                                                                     
+
+"
+147,3,02:08,CAX,51 x 47,"Rech pega rebote defensivo. (5 rebote(s) - Equipe: 29 rebote(s))                                                                    
+
+"
+148,3,02:09,MIN,51 x 47,"Mosso erra tentativa para três pontos. (0/3 - 0.0% - Equipe: 2/14 - 14.3%)                                                                    
+
+"
+149,3,02:21,MIN,51 x 47,"Xande pega rebote defensivo. (4 rebote(s) - Equipe: 29 rebote(s))                                                                    
+
+"
+150,3,02:23,CAX,51 x 47,"Arthur erra tentativa para dois pontos. (5/13 - 38.5% - Equipe: 12/34 - 35.3%)                                                                    
+
+"
+151,3,02:24,CAX,51 x 47,"Rech pega rebote ofensivo. (4 rebote(s) - Equipe: 28 rebote(s))                                                                    
+
+"
+152,3,02:26,CAX,51 x 47,"Vinícius erra tentativa para dois pontos. (2/5 - 40.0% - Equipe: 12/33 - 36.4%)                                                                    
+
+"
+153,3,239,MIN,51 x 47,"Entra Mosso                                                                     
+
+"
+154,3,239,MIN,51 x 47,"Sai Maynard                                                                     
+
+"
+155,3,02:39,CAX,51 x 47,"Rech pega rebote ofensivo. (3 rebote(s) - Equipe: 27 rebote(s))                                                                    
+
+"
+156,3,02:40,CAX,51 x 47,"Arthur erra tentativa para dois pontos. (5/12 - 41.7% - Equipe: 12/32 - 37.5%)                                                                    
+
+"
+157,3,02:43,CAX,51 x 47,"Arthur pega rebote ofensivo. (11 rebote(s) - Equipe: 26 rebote(s))(Duplo-Duplo)                                                                    
+
+"
+158,3,02:45,CAX,51 x 47,"Guto erra tentativa para três pontos. (1/5 - 20.0% - Equipe: 6/17 - 35.3%)                                                                    
+
+"
+159,3,02:56,MIN,51 x 47,"Assistência do Rodgers (2 assist√™ncia(s) - Equipe: 10 assist√™ncia(s))                                                                    
+
+"
+160,3,03:00,MIN,51 x 47,"Wesley acerta arremesso de dois pontos. (2/3 - 66.7% - Equipe: 18/29 - 62.1%)                                                                    
+
+"
+161,3,03:11,CAX,49 x 47,"R. Stabile acerta o lance livre. (1/2 - 50.0% - Equipe: 5/6 - 83.3%)                                                                    
+
+"
+162,3,03:11,CAX,49 x 46,"R. Stabile erra o lance livre. (0/1 - 0.0% - Equipe: 4/5 - 80.0%)                                                                    
+
+"
+163,3,03:11,CAX,49 x 46,"R. Stabile sofre falta.                                                                     
+
+"
+164,3,03:11,MIN,49 x 46,"Siqueira comete falta. (1 falta(s) - Equipe: 10 falta(s))                                                                    
+
+"
+165,3,03:14,CAX,49 x 46,"R. Stabile pega rebote ofensivo. (3 rebote(s) - Equipe: 25 rebote(s))                                                                    
+
+"
+166,3,03:14,CAX,49 x 46,"R. Stabile erra tentativa para três pontos. (1/4 - 25.0% - Equipe: 6/16 - 37.5%)                                                                    
+
+"
+167,3,03:27,CAX,49 x 46,"Arthur recupera a bola. (Duplo-Duplo)                                                                    
+
+"
+168,3,03:29,MIN,49 x 46,"Rodgers comete violação de condução.                                                                     
+
+"
+169,3,334,CAX,49 x 46,"Entra Rech                                                                     
+
+"
+170,3,334,CAX,49 x 46,"Sai Marcão                                                                     
+
+"
+171,3,03:37,CAX,49 x 46,"Assistência do R. Stabile (3 assist√™ncia(s) - Equipe: 13 assist√™ncia(s))                                                                    
+
+"
+172,3,03:42,CAX,49 x 46,"Arthur acerta arremesso de dois pontos. (5/11 - 45.5% - Equipe: 12/31 - 38.7%)(Duplo-Duplo)                                                                    
+
+"
+173,3,03:45,MIN,49 x 44,"Rodgers comete violação de condução.                                                                     
+
+"
+174,3,03:53,MIN,49 x 44,"Xande pega rebote defensivo. (3 rebote(s) - Equipe: 28 rebote(s))                                                                    
+
+"
+175,3,03:55,CAX,49 x 44,"Arthur erra tentativa para dois pontos. (4/10 - 40.0% - Equipe: 11/30 - 36.7%)                                                                    
+
+"
+176,3,04:04,CAX,49 x 44,"R. Stabile pega rebote defensivo. (2 rebote(s) - Equipe: 24 rebote(s))                                                                    
+
+"
+177,3,04:04,MIN,49 x 44,"Maynard erra o lance livre. (4/7 - 57.1% - Equipe: 9/13 - 69.2%)                                                                    
+
+"
+178,3,04:04,MIN,49 x 44,"Maynard sofre falta.                                                                     
+
+"
+179,3,04:04,CAX,49 x 44,"Vinícius comete falta. (3 falta(s) - Equipe: 16 falta(s))                                                                    
+
+"
+180,3,04:04,MIN,49 x 44,"Assistência do Xande (1 assist√™ncia(s) - Equipe: 9 assist√™ncia(s))                                                                    
+
+"
+181,3,04:04,MIN,49 x 44,"Maynard acerta arremesso de dois pontos. (3/4 - 75.0% - Equipe: 17/28 - 60.7%)                                                                    
+
+"
+182,3,04:08,CAX,47 x 44,"Vinícius perde posse de bola.                                                                     
+
+"
+183,3,417,MIN,47 x 44,"Entra Wesley                                                                     
+
+"
+184,3,417,MIN,47 x 44,"Sai Mosso                                                                     
+
+"
+185,3,04:17,MIN,47 x 44,"Maynard acerta o lance livre. (4/6 - 66.7% - Equipe: 9/12 - 75.0%)                                                                    
+
+"
+186,3,04:17,MIN,46 x 44,"Maynard acerta o lance livre. (3/5 - 60.0% - Equipe: 8/11 - 72.7%)                                                                    
+
+"
+187,3,04:17,MIN,45 x 44,"Maynard sofre falta.                                                                     
+
+"
+188,3,04:17,CAX,45 x 44,"R. Stabile comete falta. (2 falta(s) - Equipe: 15 falta(s))                                                                    
+
+"
+189,3,04:20,CAX,45 x 44,"Assistência do Vinícius (4 assist√™ncia(s) - Equipe: 12 assist√™ncia(s))                                                                    
+
+"
+190,3,04:20,CAX,45 x 44,"Cravada!Arthur acerta enterrada. (4/9 - 44.4% - Equipe: 11/29 - 37.9%)(Duplo-Duplo)                                                                    
+
+"
+191,3,04:28,MIN,45 x 42,"Siqueira acerta arremesso de dois pontos. (4/6 - 66.7% - Equipe: 16/27 - 59.3%)                                                                    
+
+"
+192,3,04:35,MIN,43 x 42,"Mosso pega rebote defensivo. (4 rebote(s) - Equipe: 27 rebote(s))                                                                    
+
+"
+193,3,04:37,CAX,43 x 42,"Guto erra tentativa para três pontos. (1/4 - 25.0% - Equipe: 6/15 - 40.0%)                                                                    
+
+"
+194,3,04:50,CAX,43 x 42,"Arthur pega rebote defensivo. (10 rebote(s) - Equipe: 23 rebote(s))(Duplo-Duplo)                                                                    
+
+"
+195,3,04:50,MIN,43 x 42,"Rodgers erra o lance livre. (1/2 - 50.0% - Equipe: 7/10 - 70.0%)                                                                    
+
+"
+196,3,04:50,MIN,43 x 42,"Rodgers sofre falta.                                                                     
+
+"
+197,3,04:50,CAX,43 x 42,"Marcão comete falta. (3 falta(s) - Equipe: 14 falta(s))                                                                    
+
+"
+198,3,04:50,MIN,43 x 42,"Rodgers acerta arremesso de dois pontos. (6/9 - 66.7% - Equipe: 15/26 - 57.7%)                                                                    
+
+"
+199,3,04:58,CAX,41 x 42,"Arthur acerta arremesso de dois pontos. (3/8 - 37.5% - Equipe: 10/28 - 35.7%)                                                                    
+
+"
+200,3,04:58,CAX,41 x 40,"Arthur pega rebote ofensivo. (9 rebote(s) - Equipe: 22 rebote(s))                                                                    
+
+"
+201,3,05:02,CAX,41 x 40,"Arthur erra tentativa para dois pontos. (2/7 - 28.6% - Equipe: 9/27 - 33.3%)                                                                    
+
+"
+202,3,519,MIN,41 x 40,"Entra Siqueira                                                                     
+
+"
+203,3,519,MIN,41 x 40,"Sai Big                                                                     
+
+"
+204,3,05:19,CAX,41 x 40,"Marcão sofre falta.                                                                     
+
+"
+205,3,05:19,MIN,41 x 40,"Big perde posse de bola.                                                                     
+
+"
+206,3,05:19,MIN,41 x 40,"Big comete falta ofensiva. (3 falta(s) - Equipe: 9 falta(s))                                                                    
+
+"
+207,3,05:28,MIN,41 x 40,"Mosso pega rebote defensivo. (3 rebote(s) - Equipe: 26 rebote(s))                                                                    
+
+"
+208,3,05:30,CAX,41 x 40,"Marcão erra tentativa para dois pontos. (0/3 - 0.0% - Equipe: 9/26 - 34.6%)                                                                    
+
+"
+209,3,05:38,CAX,41 x 40,"Marcão pega rebote ofensivo. (3 rebote(s) - Equipe: 21 rebote(s))                                                                    
+
+"
+210,3,05:39,CAX,41 x 40,"Arthur erra tentativa para três pontos. (1/3 - 33.3% - Equipe: 6/14 - 42.9%)                                                                    
+
+"
+211,3,05:53,MIN,41 x 40,"Mosso perde posse de bola.                                                                     
+
+"
+212,3,05:57,MIN,41 x 40,"Mosso recupera a bola.                                                                     
+
+"
+213,3,05:59,CAX,41 x 40,"R. Stabile perde posse de bola.                                                                     
+
+"
+214,3,06:03,CAX,41 x 40,"Arthur pega rebote defensivo. (8 rebote(s) - Equipe: 20 rebote(s))                                                                    
+
+"
+215,3,06:05,MIN,41 x 40,"Rodgers erra tentativa para dois pontos. (5/8 - 62.5% - Equipe: 14/25 - 56.0%)                                                                    
+
+"
+216,3,06:22,MIN,41 x 40,"Big acerta o lance livre. (4/4 - 100.0% - Equipe: 7/9 - 77.8%)                                                                    
+
+"
+217,3,06:22,MIN,40 x 40,"Big acerta o lance livre. (3/3 - 100.0% - Equipe: 6/8 - 75.0%)                                                                    
+
+"
+218,3,06:22,MIN,39 x 40,"Big sofre falta.                                                                     
+
+"
+219,3,06:22,CAX,39 x 40,"Marcão comete falta antidesportiva. (2 falta(s) - Equipe: 13 falta(s))                                                                    
+
+"
+220,3,06:23,MIN,39 x 40,"Big pega rebote ofensivo. (9 rebote(s) - Equipe: 25 rebote(s))                                                                    
+
+"
+221,3,06:23,MIN,39 x 40,"Mosso erra tentativa para dois pontos. (0/1 - 0.0% - Equipe: 14/24 - 58.3%)                                                                    
+
+"
+222,3,06:30,MIN,39 x 40,"Xande sofre falta.                                                                     
+
+"
+223,3,06:30,CAX,39 x 40,"Vinícius comete falta. (2 falta(s) - Equipe: 12 falta(s))                                                                    
+
+"
+224,3,06:30,MIN,39 x 40,"Big pega rebote ofensivo. (8 rebote(s) - Equipe: 24 rebote(s))                                                                    
+
+"
+225,3,06:30,MIN,39 x 40,"Maynard erra tentativa para dois pontos. (2/3 - 66.7% - Equipe: 14/23 - 60.9%)                                                                    
+
+"
+226,3,06:38,MIN,39 x 40,"Big pega rebote ofensivo. (7 rebote(s) - Equipe: 23 rebote(s))                                                                    
+
+"
+227,3,06:38,MIN,39 x 40,"Rodgers erra tentativa para dois pontos. (5/7 - 71.4% - Equipe: 14/22 - 63.6%)                                                                    
+
+"
+228,3,649,MIN,39 x 40,"Entra Xande                                                                     
+
+"
+229,3,649,MIN,39 x 40,"Sai Siqueira                                                                     
+
+"
+230,3,649,CAX,39 x 40,"Entra R. Stabile                                                                     
+
+"
+231,3,649,CAX,39 x 40,"Sai Douglas                                                                     
+
+"
+232,3,06:49,MIN,39 x 40,"Rodgers sofre falta.                                                                     
+
+"
+233,3,06:49,CAX,39 x 40,"Douglas comete falta. (4 falta(s) - Equipe: 11 falta(s))                                                                    
+
+"
+234,3,07:02,CAX,39 x 40,"Assistência do Guto (3 assist√™ncia(s) - Equipe: 11 assist√™ncia(s))                                                                    
+
+"
+235,3,07:06,CAX,39 x 40,"Arthur acerta arremesso de dois pontos. (2/6 - 33.3% - Equipe: 9/25 - 36.0%)                                                                    
+
+"
+236,3,07:10,CAX,39 x 38,"Vinícius pega rebote defensivo. (1 rebote(s) - Equipe: 19 rebote(s))                                                                    
+
+"
+237,3,07:11,CAX,39 x 38,"Marcão dá um toco.                                                                     
+
+"
+238,3,07:14,MIN,39 x 38,"Big erra tentativa para dois pontos. (2/4 - 50.0% - Equipe: 14/21 - 66.7%)                                                                    
+
+"
+239,3,07:20,MIN,39 x 38,"Maynard pega rebote defensivo. (5 rebote(s) - Equipe: 22 rebote(s))                                                                    
+
+"
+240,3,07:22,CAX,39 x 38,"Guto erra tentativa para três pontos. (1/3 - 33.3% - Equipe: 6/13 - 46.2%)                                                                    
+
+"
+241,3,07:30,CAX,39 x 38,"Arthur pega rebote ofensivo. (7 rebote(s) - Equipe: 18 rebote(s))                                                                    
+
+"
+242,3,07:31,CAX,39 x 38,"Douglas erra tentativa para dois pontos. (0/2 - 0.0% - Equipe: 8/24 - 33.3%)                                                                    
+
+"
+243,3,07:48,CAX,39 x 38,"Marcão pega rebote defensivo. (2 rebote(s) - Equipe: 17 rebote(s))                                                                    
+
+"
+244,3,07:49,MIN,39 x 38,"Maynard erra tentativa para três pontos. (1/5 - 20.0% - Equipe: 2/13 - 15.4%)                                                                    
+
+"
+245,3,07:58,MIN,39 x 38,"Maynard sofre falta.                                                                     
+
+"
+246,3,07:58,CAX,39 x 38,"Douglas comete falta. (3 falta(s) - Equipe: 10 falta(s))                                                                    
+
+"
+247,3,08:08,MIN,39 x 38,"Mosso pega rebote defensivo. (2 rebote(s) - Equipe: 21 rebote(s))                                                                    
+
+"
+248,3,08:09,CAX,39 x 38,"Arthur erra tentativa para dois pontos. (1/5 - 20.0% - Equipe: 8/23 - 34.8%)                                                                    
+
+"
+249,3,08:09,CAX,39 x 38,"Arthur pega rebote ofensivo. (6 rebote(s) - Equipe: 16 rebote(s))                                                                    
+
+"
+250,3,08:12,CAX,39 x 38,"Vinícius erra tentativa para três pontos. (1/2 - 50.0% - Equipe: 6/12 - 50.0%)                                                                    
+
+"
+251,3,08:34,MIN,39 x 38,"Assistência do Siqueira (3 assist√™ncia(s) - Equipe: 8 assist√™ncia(s))                                                                    
+
+"
+252,3,08:37,MIN,39 x 38,"Cravada!Big acerta enterrada. (2/3 - 66.7% - Equipe: 14/20 - 70.0%)                                                                    
+
+"
+253,3,09:06,CAX,37 x 38,"Assistência do Vinícius (3 assist√™ncia(s) - Equipe: 10 assist√™ncia(s))                                                                    
+
+"
+254,3,09:08,CAX,37 x 38,"É de três! Douglas acerta arremesso de três pontos. (1/1 - 100.0% - Equipe: 6/11 - 54.5%)                                                                    
+
+"
+255,3,09:22,CAX,37 x 35,"Arthur pega rebote defensivo. (5 rebote(s) - Equipe: 15 rebote(s))                                                                    
+
+"
+256,3,09:24,MIN,37 x 35,"Mosso erra tentativa para três pontos. (0/2 - 0.0% - Equipe: 2/12 - 16.7%)                                                                    
+
+"
+257,3,09:29,MIN,37 x 35,"Siqueira pega rebote defensivo. (1 rebote(s) - Equipe: 20 rebote(s))                                                                    
+
+"
+258,3,09:30,MIN,37 x 35,"Big dá um toco.                                                                     
+
+"
+259,3,09:33,CAX,37 x 35,"Marcão erra tentativa para dois pontos. (0/2 - 0.0% - Equipe: 8/22 - 36.4%)                                                                    
+
+"
+260,3,09:47,CAX,37 x 35,"Marcão sofre falta.                                                                     
+
+"
+261,3,09:47,MIN,37 x 35,"Big comete falta. (2 falta(s) - Equipe: 8 falta(s))                                                                    
+
+"
+262,3,10:00,"Início do  terceiro quarto.                                                                     
+
+",37 x 35,"Início do  terceiro quarto.                                                                     
+
+"
+263,3,1000,CAX,37 x 35,"Entra Vinícius                                                                     
+
+"
+264,3,1000,CAX,37 x 35,"Sai Buboltz                                                                      
+
+"
+265,3,1000,MIN,37 x 35,"Entra Big                                                                     
+
+"
+266,3,1000,MIN,37 x 35,"Sai Wesley                                                                     
+
+"
+267,3,1000,MIN,37 x 35,"Entra Maynard                                                                     
+
+"
+268,3,1000,MIN,37 x 35,"Sai Xande                                                                     
+
+"
+269,3,10:00,MIN,37 x 35,"Xande pega rebote defensivo. (2 rebote(s) - Equipe: 19 rebote(s))                                                                    
+
+"
+270,2,00:00,"Fim  do segundo quarto.                                                                     
+
+",37 x 35,"Fim  do segundo quarto.                                                                     
+
+"
+271,2,00:01,MIN,37 x 35,"Siqueira erra tentativa para três pontos. (0/1 - 0.0% - Equipe: 2/11 - 18.2%)                                                                    
+
+"
+272,2,00:07,CAX,37 x 35,"Assistência do Buboltz  (1 assist√™ncia(s) - Equipe: 9 assist√™ncia(s))                                                                    
+
+"
+273,2,00:07,CAX,37 x 35,"É de três! Marcão acerta arremesso de três pontos. (1/1 - 100.0% - Equipe: 5/10 - 50.0%)                                                                    
+
+"
+274,2,00:12,CAX,37 x 32,"Buboltz  recupera a bola.                                                                     
+
+"
+275,2,00:15,MIN,37 x 32,"Wesley perde posse de bola.                                                                     
+
+"
+276,2,00:37,MIN,37 x 32,"Técnico da equipe Minas pede tempo.                                                                     
+
+"
+277,2,00:37,CAX,37 x 32,"Assistência do Marcão (2 assist√™ncia(s) - Equipe: 8 assist√™ncia(s))                                                                    
+
+"
+278,2,00:37,CAX,37 x 32,"Arthur acerta arremesso de dois pontos. (1/4 - 25.0% - Equipe: 8/21 - 38.1%)                                                                    
+
+"
+279,2,00:52,CAX,37 x 30,"Arthur pega rebote defensivo. (4 rebote(s) - Equipe: 14 rebote(s))                                                                    
+
+"
+280,2,00:53,MIN,37 x 30,"Wesley erra tentativa para dois pontos. (1/2 - 50.0% - Equipe: 13/19 - 68.4%)                                                                    
+
+"
+281,2,01:07,CAX,37 x 30,"Estouro dos 24s.                                                                     
+
+"
+282,2,01:07,CAX,37 x 30,"Marcão erra tentativa para dois pontos. (0/1 - 0.0% - Equipe: 7/20 - 35.0%)                                                                    
+
+"
+283,2,01:32,MIN,37 x 30,"Siqueira comete violação de condução.                                                                     
+
+"
+284,2,01:39,CAX,37 x 30,"Douglas acerta o lance livre. (2/2 - 100.0% - Equipe: 4/4 - 100.0%)                                                                    
+
+"
+285,2,01:39,CAX,37 x 29,"Douglas acerta o lance livre. (1/1 - 100.0% - Equipe: 3/3 - 100.0%)                                                                    
+
+"
+286,2,139,MIN,37 x 28,"Entra Xande                                                                     
+
+"
+287,2,139,MIN,37 x 28,"Sai Maynard                                                                     
+
+"
+288,2,01:39,CAX,37 x 28,"Douglas sofre falta.                                                                     
+
+"
+289,2,01:39,MIN,37 x 28,"Maynard comete falta. (2 falta(s) - Equipe: 7 falta(s))                                                                    
+
+"
+290,2,01:56,MIN,37 x 28,"Estouro dos 24s.                                                                     
+
+"
+291,2,02:21,MIN,37 x 28,"Maynard pega rebote defensivo. (4 rebote(s) - Equipe: 18 rebote(s))                                                                    
+
+"
+292,2,02:23,CAX,37 x 28,"Buboltz  erra tentativa para três pontos. (0/1 - 0.0% - Equipe: 4/9 - 44.4%)                                                                    
+
+"
+293,2,02:42,CAX,37 x 28,"Marcão pega rebote defensivo. (1 rebote(s) - Equipe: 13 rebote(s))                                                                    
+
+"
+294,2,02:43,CAX,37 x 28,"Douglas dá um toco.                                                                     
+
+"
+295,2,02:46,MIN,37 x 28,"Siqueira erra tentativa para dois pontos. (3/5 - 60.0% - Equipe: 13/18 - 72.2%)                                                                    
+
+"
+296,2,257,MIN,37 x 28,"Entra Rodgers                                                                     
+
+"
+297,2,257,MIN,37 x 28,"Sai Xande                                                                     
+
+"
+298,2,02:57,MIN,37 x 28,"Técnico da equipe Minas pede tempo.                                                                     
+
+"
+299,2,02:57,CAX,37 x 28,"Assistência do Marcão (1 assist√™ncia(s) - Equipe: 7 assist√™ncia(s))                                                                    
+
+"
+300,2,02:57,CAX,37 x 28,"É de três! Guto acerta arremesso de três pontos. (1/2 - 50.0% - Equipe: 4/8 - 50.0%)                                                                    
+
+"
+301,2,03:15,MIN,37 x 25,"Assistência do Big (1 assist√™ncia(s) - Equipe: 7 assist√™ncia(s))                                                                    
+
+"
+302,2,03:15,MIN,37 x 25,"Maynard acerta o lance livre. (2/4 - 50.0% - Equipe: 5/7 - 71.4%)                                                                    
+
+"
+303,2,03:15,MIN,36 x 25,"Maynard acerta o lance livre. (1/3 - 33.3% - Equipe: 4/6 - 66.7%)                                                                    
+
+"
+304,2,315,MIN,35 x 25,"Entra Wesley                                                                     
+
+"
+305,2,315,MIN,35 x 25,"Sai Big                                                                     
+
+"
+306,2,03:15,MIN,35 x 25,"Maynard sofre falta.                                                                     
+
+"
+307,2,03:15,CAX,35 x 25,"Marcão comete falta. (1 falta(s) - Equipe: 9 falta(s))                                                                    
+
+"
+308,2,331,CAX,35 x 25,"Entra Marcão                                                                     
+
+"
+309,2,331,CAX,35 x 25,"Sai R. Stabile                                                                     
+
+"
+310,2,331,CAX,35 x 25,"Entra Buboltz                                                                      
+
+"
+311,2,331,CAX,35 x 25,"Sai Dida                                                                     
+
+"
+312,2,331,CAX,35 x 25,"Entra Arthur                                                                     
+
+"
+313,2,331,CAX,35 x 25,"Sai Vinícius                                                                     
+
+"
+314,2,03:36,CAX,35 x 25,"Assistência do Vinícius (2 assist√™ncia(s) - Equipe: 6 assist√™ncia(s))                                                                    
+
+"
+315,2,03:38,CAX,35 x 25,"Dida acerta arremesso de dois pontos. (2/4 - 50.0% - Equipe: 7/19 - 36.8%)                                                                    
+
+"
+316,2,03:53,MIN,35 x 23,"Assistência do Mosso (1 assist√™ncia(s) - Equipe: 6 assist√™ncia(s))                                                                    
+
+"
+317,2,03:56,MIN,35 x 23,"Big acerta arremesso de dois pontos. (1/2 - 50.0% - Equipe: 13/17 - 76.5%)                                                                    
+
+"
+318,2,04:12,CAX,33 x 23,"Assistência do Vinícius (1 assist√™ncia(s) - Equipe: 5 assist√™ncia(s))                                                                    
+
+"
+319,2,04:15,CAX,33 x 23,"Dida acerta arremesso de dois pontos. (1/3 - 33.3% - Equipe: 6/18 - 33.3%)                                                                    
+
+"
+320,2,04:30,CAX,33 x 21,"Dida pega rebote defensivo. (3 rebote(s) - Equipe: 12 rebote(s))                                                                    
+
+"
+321,2,04:32,MIN,33 x 21,"Maynard erra tentativa para três pontos. (1/4 - 25.0% - Equipe: 2/10 - 20.0%)                                                                    
+
+"
+322,2,04:36,MIN,33 x 21,"Maynard recupera a bola.                                                                     
+
+"
+323,2,04:42,CAX,33 x 21,"R. Stabile comete violação de condução.                                                                     
+
+"
+324,2,04:51,MIN,33 x 21,"Cravada!Maynard acerta enterrada. (2/2 - 100.0% - Equipe: 12/16 - 75.0%)                                                                    
+
+"
+325,2,04:58,MIN,31 x 21,"Xande pega rebote ofensivo. (1 rebote(s) - Equipe: 17 rebote(s))                                                                    
+
+"
+326,2,04:58,MIN,31 x 21,"Maynard erra o lance livre. (0/2 - 0.0% - Equipe: 3/5 - 60.0%)                                                                    
+
+"
+327,2,04:58,MIN,31 x 21,"Maynard erra o lance livre. (0/1 - 0.0% - Equipe: 3/4 - 75.0%)                                                                    
+
+"
+328,2,04:58,MIN,31 x 21,"Maynard sofre falta.                                                                     
+
+"
+329,2,04:58,CAX,31 x 21,"Douglas comete falta. (2 falta(s) - Equipe: 8 falta(s))                                                                    
+
+"
+330,2,05:12,MIN,31 x 21,"Big pega rebote defensivo. (6 rebote(s) - Equipe: 16 rebote(s))                                                                    
+
+"
+331,2,05:13,CAX,31 x 21,"Douglas erra tentativa para dois pontos. (0/1 - 0.0% - Equipe: 5/17 - 29.4%)                                                                    
+
+"
+332,2,05:28,CAX,31 x 21,"Vinícius sofre falta.                                                                     
+
+"
+333,2,05:28,MIN,31 x 21,"Xande comete falta. (1 falta(s) - Equipe: 6 falta(s))                                                                    
+
+"
+334,2,05:31,MIN,31 x 21,"Assistência do Maynard (2 assist√™ncia(s) - Equipe: 5 assist√™ncia(s))                                                                    
+
+"
+335,2,05:33,MIN,31 x 21,"É de três! Xande acerta arremesso de três pontos. (1/1 - 100.0% - Equipe: 2/9 - 22.2%)                                                                    
+
+"
+336,2,05:37,MIN,28 x 21,"Maynard sofre falta.                                                                     
+
+"
+337,2,05:37,CAX,28 x 21,"Douglas comete falta. (1 falta(s) - Equipe: 7 falta(s))                                                                    
+
+"
+338,2,05:59,CAX,28 x 21,"Vinícius acerta arremesso de dois pontos. (2/4 - 50.0% - Equipe: 5/16 - 31.3%)                                                                    
+
+"
+339,2,06:01,CAX,28 x 19,"Vinícius recupera a bola.                                                                     
+
+"
+340,2,06:03,MIN,28 x 19,"Siqueira perde posse de bola.                                                                     
+
+"
+341,2,06:12,MIN,28 x 19,"Mosso sofre falta.                                                                     
+
+"
+342,2,06:12,CAX,28 x 19,"R. Stabile comete falta. (1 falta(s) - Equipe: 6 falta(s))                                                                    
+
+"
+343,2,622,CAX,28 x 19,"Entra Douglas                                                                     
+
+"
+344,2,622,CAX,28 x 19,"Sai Rech                                                                     
+
+"
+345,2,622,CAX,28 x 19,"Entra Dida                                                                     
+
+"
+346,2,622,CAX,28 x 19,"Sai Arthur                                                                     
+
+"
+347,2,06:22,CAX,28 x 19,"Técnico da equipe Caxias do Sul pede tempo.                                                                     
+
+"
+348,2,06:22,MIN,28 x 19,"Maynard sofre falta.                                                                     
+
+"
+349,2,06:22,CAX,28 x 19,"Arthur comete falta. (1 falta(s) - Equipe: 5 falta(s))                                                                    
+
+"
+350,2,06:24,MIN,28 x 19,"Maynard pega rebote defensivo. (3 rebote(s) - Equipe: 15 rebote(s))                                                                    
+
+"
+351,2,06:26,CAX,28 x 19,"Arthur erra tentativa para dois pontos. (0/3 - 0.0% - Equipe: 4/15 - 26.7%)                                                                    
+
+"
+352,2,06:47,MIN,28 x 19,"Siqueira acerta arremesso de dois pontos. (3/4 - 75.0% - Equipe: 11/15 - 73.3%)                                                                    
+
+"
+353,2,07:03,MIN,26 x 19,"Mosso pega rebote defensivo. (1 rebote(s) - Equipe: 14 rebote(s))                                                                    
+
+"
+354,2,07:05,CAX,26 x 19,"Arthur erra tentativa para dois pontos. (0/2 - 0.0% - Equipe: 4/14 - 28.6%)                                                                    
+
+"
+355,2,710,MIN,26 x 19,"Entra Siqueira                                                                     
+
+"
+356,2,710,MIN,26 x 19,"Sai Rodgers                                                                     
+
+"
+357,2,710,MIN,26 x 19,"Entra Maynard                                                                     
+
+"
+358,2,710,MIN,26 x 19,"Sai Rafael                                                                     
+
+"
+359,2,07:10,CAX,26 x 19,"R. Stabile sofre falta.                                                                     
+
+"
+360,2,07:10,MIN,26 x 19,"Rafael comete falta. (2 falta(s) - Equipe: 5 falta(s))                                                                    
+
+"
+361,2,07:29,CAX,26 x 19,"Arthur pega rebote defensivo. (3 rebote(s) - Equipe: 11 rebote(s))                                                                    
+
+"
+362,2,07:31,MIN,26 x 19,"Rodgers erra tentativa para três pontos. (0/2 - 0.0% - Equipe: 1/8 - 12.5%)                                                                    
+
+"
+363,2,07:48,MIN,26 x 19,"Big pega rebote defensivo. (5 rebote(s) - Equipe: 13 rebote(s))                                                                    
+
+"
+364,2,07:50,CAX,26 x 19,"R. Stabile erra tentativa para três pontos. (1/3 - 33.3% - Equipe: 3/7 - 42.9%)                                                                    
+
+"
+365,2,07:57,CAX,26 x 19,"Arthur pega rebote defensivo. (2 rebote(s) - Equipe: 10 rebote(s))                                                                    
+
+"
+366,2,07:58,MIN,26 x 19,"Rafael erra tentativa para três pontos. (0/1 - 0.0% - Equipe: 1/7 - 14.3%)                                                                    
+
+"
+367,2,08:16,CAX,26 x 19,"Assistência do Guto (2 assist√™ncia(s) - Equipe: 4 assist√™ncia(s))                                                                    
+
+"
+368,2,08:20,CAX,26 x 19,"Rech acerta arremesso de dois pontos. (1/2 - 50.0% - Equipe: 4/13 - 30.8%)                                                                    
+
+"
+369,2,08:31,MIN,26 x 17,"Rodgers acerta o lance livre. (1/1 - 100.0% - Equipe: 3/3 - 100.0%)                                                                    
+
+"
+370,2,08:31,MIN,25 x 17,"Rodgers sofre falta.                                                                     
+
+"
+371,2,08:31,CAX,25 x 17,"Rech comete falta. (2 falta(s) - Equipe: 4 falta(s))                                                                    
+
+"
+372,2,08:31,MIN,25 x 17,"Rodgers acerta arremesso de dois pontos. (5/6 - 83.3% - Equipe: 10/14 - 71.4%)                                                                    
+
+"
+373,2,08:33,MIN,23 x 17,"Rafael recupera a bola.                                                                     
+
+"
+374,2,08:35,CAX,23 x 17,"R. Stabile perde posse de bola.                                                                     
+
+"
+375,2,08:36,CAX,23 x 17,"R. Stabile sofre falta.                                                                     
+
+"
+376,2,08:36,MIN,23 x 17,"Rafael comete falta. (1 falta(s) - Equipe: 4 falta(s))                                                                    
+
+"
+377,2,08:36,CAX,23 x 17,"Caxias do Sul pega rebote ofensivo.                                                                     
+
+"
+378,2,08:36,CAX,23 x 17,"Rech erra tentativa para dois pontos. (0/1 - 0.0% - Equipe: 3/12 - 25.0%)                                                                    
+
+"
+379,2,08:53,MIN,23 x 17,"Rodgers acerta arremesso de dois pontos. (4/5 - 80.0% - Equipe: 9/13 - 69.2%)                                                                    
+
+"
+380,2,09:09,CAX,21 x 17,"Assistência do Guto (1 assist√™ncia(s) - Equipe: 3 assist√™ncia(s))                                                                    
+
+"
+381,2,09:10,CAX,21 x 17,"É de três! R. Stabile acerta arremesso de três pontos. (1/2 - 50.0% - Equipe: 3/6 - 50.0%)                                                                    
+
+"
+382,2,09:33,CAX,21 x 14,"R. Stabile pega rebote defensivo. (1 rebote(s) - Equipe: 8 rebote(s))                                                                    
+
+"
+383,2,09:35,MIN,21 x 14,"Xande erra tentativa para dois pontos. (0/1 - 0.0% - Equipe: 8/12 - 66.7%)                                                                    
+
+"
+384,2,10:00,"Início do  segundo quarto.                                                                     
+
+",21 x 14,"Início do  segundo quarto.                                                                     
+
+"
+385,2,1000,MIN,21 x 14,"Entra Xande                                                                     
+
+"
+386,2,1000,MIN,21 x 14,"Entra Rafael                                                                     
+
+"
+387,2,1000,MIN,21 x 14,"Entra Big                                                                     
+
+"
+388,2,1000,MIN,21 x 14,"Sai Maynard                                                                     
+
+"
+389,2,1000,MIN,21 x 14,"Sai Wesley                                                                     
+
+"
+390,2,1000,MIN,21 x 14,"Sai Panunzio                                                                     
+
+"
+391,1,00:00,"Fim  do primeiro quarto.                                                                     
+
+",21 x 14,"Fim  do primeiro quarto.                                                                     
+
+"
+392,1,00:01,CAX,21 x 14,"Arthur pega rebote defensivo. (1 rebote(s) - Equipe: 7 rebote(s))                                                                    
+
+"
+393,1,00:01,MIN,21 x 14,"Rodgers erra tentativa para três pontos. (0/1 - 0.0% - Equipe: 1/6 - 16.7%)                                                                    
+
+"
+394,1,00:17,MIN,21 x 14,"Panunzio pega rebote defensivo. (1 rebote(s) - Equipe: 12 rebote(s))                                                                    
+
+"
+395,1,00:19,CAX,21 x 14,"Guto erra tentativa para dois pontos. (0/3 - 0.0% - Equipe: 3/11 - 27.3%)                                                                    
+
+"
+396,1,00:22,CAX,21 x 14,"Vinícius recupera a bola.                                                                     
+
+"
+397,1,00:26,MIN,21 x 14,"Maynard comete violação de condução.                                                                     
+
+"
+398,1,00:29,MIN,21 x 14,"Maynard pega rebote defensivo. (2 rebote(s) - Equipe: 11 rebote(s))                                                                    
+
+"
+399,1,00:31,CAX,21 x 14,"Vinícius erra tentativa para dois pontos. (1/3 - 33.3% - Equipe: 3/10 - 30.0%)                                                                    
+
+"
+400,1,00:41,CAX,21 x 14,"Caxias do Sul pega rebote defensivo.                                                                     
+
+"
+401,1,00:43,MIN,21 x 14,"Mosso erra tentativa para três pontos. (0/1 - 0.0% - Equipe: 1/5 - 20.0%)                                                                    
+
+"
+402,1,01:00,CAX,21 x 14,"Arthur acerta o lance livre. (2/2 - 100.0% - Equipe: 2/2 - 100.0%)                                                                    
+
+"
+403,1,01:00,CAX,21 x 13,"Arthur acerta o lance livre. (1/1 - 100.0% - Equipe: 1/1 - 100.0%)                                                                    
+
+"
+404,1,01:00,CAX,21 x 12,"Arthur sofre falta.                                                                     
+
+"
+405,1,01:00,MIN,21 x 12,"Wesley comete falta. (1 falta(s) - Equipe: 3 falta(s))                                                                    
+
+"
+406,1,01:16,MIN,21 x 12,"Rodgers acerta arremesso de dois pontos. (3/4 - 75.0% - Equipe: 8/11 - 72.7%)                                                                    
+
+"
+407,1,139,MIN,19 x 12,"Entra Panunzio                                                                     
+
+"
+408,1,139,MIN,19 x 12,"Sai Siqueira                                                                     
+
+"
+409,1,01:39,MIN,19 x 12,"Maynard sofre falta.                                                                     
+
+"
+410,1,01:39,CAX,19 x 12,"Rech comete falta. (1 falta(s) - Equipe: 3 falta(s))                                                                    
+
+"
+411,1,01:39,MIN,19 x 12,"Maynard pega rebote defensivo. (1 rebote(s) - Equipe: 10 rebote(s))                                                                    
+
+"
+412,1,01:39,CAX,19 x 12,"Guto erra tentativa para dois pontos. (0/2 - 0.0% - Equipe: 3/9 - 33.3%)                                                                    
+
+"
+413,1,01:55,MIN,19 x 12,"Cravada!Siqueira acerta enterrada. (2/3 - 66.7% - Equipe: 7/10 - 70.0%)                                                                    
+
+"
+414,1,01:58,MIN,17 x 12,"Siqueira recupera a bola.                                                                     
+
+"
+415,1,02:01,CAX,17 x 12,"R. Stabile perde posse de bola.                                                                     
+
+"
+416,1,02:19,CAX,17 x 12,"Vinícius sofre falta.                                                                     
+
+"
+417,1,02:19,MIN,17 x 12,"Maynard perde posse de bola.                                                                     
+
+"
+418,1,02:19,MIN,17 x 12,"Maynard comete falta ofensiva. (1 falta(s) - Equipe: 2 falta(s))                                                                    
+
+"
+419,1,02:21,MIN,17 x 12,"Rodgers recupera a bola.                                                                     
+
+"
+420,1,02:22,CAX,17 x 12,"Vinícius perde posse de bola.                                                                     
+
+"
+421,1,02:36,MIN,17 x 12,"Rodgers acerta arremesso de dois pontos. (2/3 - 66.7% - Equipe: 6/9 - 66.7%)                                                                    
+
+"
+422,1,03:04,CAX,15 x 12,"R. Stabile acerta arremesso de dois pontos. (2/2 - 100.0% - Equipe: 3/8 - 37.5%)                                                                    
+
+"
+423,1,03:12,CAX,15 x 10,"Rech pega rebote defensivo. (2 rebote(s) - Equipe: 5 rebote(s))                                                                    
+
+"
+424,1,03:14,MIN,15 x 10,"Siqueira erra tentativa para dois pontos. (1/2 - 50.0% - Equipe: 5/8 - 62.5%)                                                                    
+
+"
+425,1,03:29,CAX,15 x 10,"Arthur andou com a bola.                                                                     
+
+"
+426,1,03:35,CAX,15 x 10,"Rech pega rebote defensivo. (1 rebote(s) - Equipe: 4 rebote(s))                                                                    
+
+"
+427,1,03:37,MIN,15 x 10,"Maynard erra tentativa para três pontos. (1/3 - 33.3% - Equipe: 1/4 - 25.0%)                                                                    
+
+"
+428,1,03:54,MIN,15 x 10,"Minas pega rebote defensivo.                                                                     
+
+"
+429,1,03:55,CAX,15 x 10,"Guto erra tentativa para dois pontos. (0/1 - 0.0% - Equipe: 2/7 - 28.6%)                                                                    
+
+"
+430,1,04:13,MIN,15 x 10,"Assistência do Maynard (1 assist√™ncia(s) - Equipe: 4 assist√™ncia(s))                                                                    
+
+"
+431,1,04:17,MIN,15 x 10,"Wesley acerta arremesso de dois pontos. (1/1 - 100.0% - Equipe: 5/7 - 71.4%)                                                                    
+
+"
+432,1,04:28,MIN,13 x 10,"Rodgers sofre falta.                                                                     
+
+"
+433,1,04:28,CAX,13 x 10,"Vinícius comete falta. (1 falta(s) - Equipe: 2 falta(s))                                                                    
+
+"
+434,1,430,MIN,13 x 10,"Entra Mosso                                                                     
+
+"
+435,1,430,MIN,13 x 10,"Sai P. Macedo                                                                     
+
+"
+436,1,430,MIN,13 x 10,"Entra Wesley                                                                     
+
+"
+437,1,430,MIN,13 x 10,"Sai Big                                                                     
+
+"
+438,1,430,CAX,13 x 10,"Entra Rech                                                                     
+
+"
+439,1,430,CAX,13 x 10,"Sai Dida                                                                     
+
+"
+440,1,04:30,MIN,13 x 10,"Minas pega rebote ofensivo.                                                                     
+
+"
+441,1,04:30,MIN,13 x 10,"Rodgers erra tentativa para dois pontos. (1/2 - 50.0% - Equipe: 4/6 - 66.7%)                                                                    
+
+"
+442,1,04:41,MIN,13 x 10,"Big pega rebote defensivo. (4 rebote(s) - Equipe: 7 rebote(s))                                                                    
+
+"
+443,1,04:43,CAX,13 x 10,"Vinícius erra tentativa para dois pontos. (1/2 - 50.0% - Equipe: 2/6 - 33.3%)                                                                    
+
+"
+444,1,05:02,MIN,13 x 10,"Big acerta o lance livre. (2/2 - 100.0% - Equipe: 2/2 - 100.0%)                                                                    
+
+"
+445,1,05:02,MIN,12 x 10,"Big acerta o lance livre. (1/1 - 100.0% - Equipe: 1/1 - 100.0%)                                                                    
+
+"
+446,1,05:02,MIN,11 x 10,"Big sofre falta.                                                                     
+
+"
+447,1,05:02,CAX,11 x 10,"Dida comete falta. (1 falta(s) - Equipe: 1 falta(s))                                                                    
+
+"
+448,1,05:02,MIN,11 x 10,"Big pega rebote ofensivo. (3 rebote(s) - Equipe: 6 rebote(s))                                                                    
+
+"
+449,1,05:05,MIN,11 x 10,"P. Macedo erra tentativa para três pontos. (0/1 - 0.0% - Equipe: 1/3 - 33.3%)                                                                    
+
+"
+450,1,05:13,MIN,11 x 10,"P. Macedo pega rebote defensivo. (2 rebote(s) - Equipe: 5 rebote(s))                                                                    
+
+"
+451,1,05:15,CAX,11 x 10,"Dida erra tentativa para dois pontos. (0/2 - 0.0% - Equipe: 2/5 - 40.0%)                                                                    
+
+"
+452,1,05:28,CAX,11 x 10,"Dida sofre falta.                                                                     
+
+"
+453,1,05:28,MIN,11 x 10,"Big comete falta. (1 falta(s) - Equipe: 1 falta(s))                                                                    
+
+"
+454,1,05:35,MIN,11 x 10,"Assistência do Siqueira (2 assist√™ncia(s) - Equipe: 3 assist√™ncia(s))                                                                    
+
+"
+455,1,05:37,MIN,11 x 10,"É de três! Maynard acerta arremesso de três pontos. (1/2 - 50.0% - Equipe: 1/2 - 50.0%)                                                                    
+
+"
+456,1,06:05,CAX,8 x 10,"Assistência do R. Stabile (2 assist√™ncia(s) - Equipe: 2 assist√™ncia(s))                                                                    
+
+"
+457,1,06:08,CAX,8 x 10,"É de três! Vinícius acerta arremesso de três pontos. (1/1 - 100.0% - Equipe: 2/5 - 40.0%)                                                                    
+
+"
+458,1,06:23,MIN,8 x 7,"Rodgers acerta arremesso de dois pontos. (1/1 - 100.0% - Equipe: 4/5 - 80.0%)                                                                    
+
+"
+459,1,06:28,MIN,6 x 7,"P. Macedo pega rebote defensivo. (1 rebote(s) - Equipe: 4 rebote(s))                                                                    
+
+"
+460,1,06:30,CAX,6 x 7,"R. Stabile erra tentativa para três pontos. (0/1 - 0.0% - Equipe: 1/4 - 25.0%)                                                                    
+
+"
+461,1,06:57,MIN,6 x 7,"Siqueira acerta arremesso de dois pontos. (1/1 - 100.0% - Equipe: 3/4 - 75.0%)                                                                    
+
+"
+462,1,07:16,CAX,4 x 7,"R. Stabile acerta arremesso de dois pontos. (1/1 - 100.0% - Equipe: 2/4 - 50.0%)                                                                    
+
+"
+463,1,07:18,CAX,4 x 5,"R. Stabile recupera a bola.                                                                     
+
+"
+464,1,07:21,MIN,4 x 5,"Rodgers comete violação de condução.                                                                     
+
+"
+465,1,07:32,CAX,4 x 5,"Vinícius acerta arremesso de dois pontos. (1/1 - 100.0% - Equipe: 1/3 - 33.3%)                                                                    
+
+"
+466,1,07:44,CAX,4 x 3,"Guto pega rebote defensivo. (1 rebote(s) - Equipe: 3 rebote(s))                                                                    
+
+"
+467,1,07:46,MIN,4 x 3,"Big erra tentativa para dois pontos. (0/1 - 0.0% - Equipe: 2/3 - 66.7%)                                                                    
+
+"
+468,1,07:57,MIN,4 x 3,"Big pega rebote defensivo. (2 rebote(s) - Equipe: 3 rebote(s))                                                                    
+
+"
+469,1,07:59,CAX,4 x 3,"Arthur erra tentativa para três pontos. (1/2 - 50.0% - Equipe: 1/3 - 33.3%)                                                                    
+
+"
+470,1,08:17,MIN,4 x 3,"Assistência do Rodgers (1 assist√™ncia(s) - Equipe: 2 assist√™ncia(s))                                                                    
+
+"
+471,1,08:20,MIN,4 x 3,"Maynard acerta arremesso de dois pontos. (1/1 - 100.0% - Equipe: 2/2 - 100.0%)                                                                    
+
+"
+472,1,08:26,MIN,2 x 3,"Big pega rebote defensivo. (1 rebote(s) - Equipe: 2 rebote(s))                                                                    
+
+"
+473,1,08:28,CAX,2 x 3,"Dida erra tentativa para dois pontos. (0/1 - 0.0% - Equipe: 0/2 - 0.0%)                                                                    
+
+"
+474,1,08:30,CAX,2 x 3,"Dida pega rebote ofensivo. (2 rebote(s) - Equipe: 2 rebote(s))                                                                    
+
+"
+475,1,08:32,CAX,2 x 3,"Arthur erra tentativa para dois pontos. (0/1 - 0.0% - Equipe: 0/1 - 0.0%)                                                                    
+
+"
+476,1,08:52,MIN,2 x 3,"Assistência do Siqueira (1 assist√™ncia(s) - Equipe: 1 assist√™ncia(s))                                                                    
+
+"
+477,1,08:54,MIN,2 x 3,"P. Macedo acerta arremesso de dois pontos. (1/1 - 100.0% - Equipe: 1/1 - 100.0%)                                                                    
+
+"
+478,1,09:10,MIN,0 x 3,"Rodgers pega rebote defensivo. (1 rebote(s) - Equipe: 1 rebote(s))                                                                    
+
+"
+479,1,09:12,CAX,0 x 3,"Guto erra tentativa para três pontos. (0/1 - 0.0% - Equipe: 1/2 - 50.0%)                                                                    
+
+"
+480,1,09:31,CAX,0 x 3,"Dida pega rebote defensivo. (1 rebote(s) - Equipe: 1 rebote(s))                                                                    
+
+"
+481,1,09:32,MIN,0 x 3,"Maynard erra tentativa para três pontos. (0/1 - 0.0% - Equipe: 0/1 - 0.0%)                                                                    
+
+"
+482,1,09:46,CAX,0 x 3,"Assistência do R. Stabile (1 assist√™ncia(s) - Equipe: 1 assist√™ncia(s))                                                                    
+
+"
+483,1,09:48,CAX,0 x 3,"É de três! Arthur acerta arremesso de três pontos. (1/1 - 100.0% - Equipe: 1/1 - 100.0%)                                                                    
+
+"
+484,1,1000,CAX,0 x 0,"Entra Arthur                                                                     
+
+"
+485,1,1000,CAX,0 x 0,"Entra R. Stabile                                                                     
+
+"
+486,1,1000,CAX,0 x 0,"Entra Dida                                                                     
+
+"
+487,1,1000,CAX,0 x 0,"Entra Guto                                                                     
+
+"
+488,1,1000,CAX,0 x 0,"Entra Vinícius                                                                     
+
+"
+489,1,1000,MIN,0 x 0,"Entra Maynard                                                                     
+
+"
+490,1,1000,MIN,0 x 0,"Entra Siqueira                                                                     
+
+"
+491,1,1000,MIN,0 x 0,"Entra P. Macedo                                                                     
+
+"
+492,1,1000,MIN,0 x 0,"Entra Rodgers                                                                     
+
+"
+493,1,1000,MIN,0 x 0,"Entra Big                                                                     
+
+"
