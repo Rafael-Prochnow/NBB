@@ -6,7 +6,7 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import io
 import re
-import html5lib
+import datetime as dt
 
 '''
 # Odeio o site da NBB depois de mudar 4 vezes por causa do tipo da tabela 
@@ -67,7 +67,7 @@ a = re.sub('( erra tentativa para três pontos| acerta arremesso de três pontos
 '''
 
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=34&wherePlaying=-1&played=-1')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=41&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 def get_links_from(soup):
@@ -174,7 +174,7 @@ c = re.sub('(INÍCIO DE QUARTO |FIM DE QUARTO |FIM DE PARTIDA |'
            'Falta sofrida |FALTA OFENSIVA|FALTA ANTIDESPORTIVA |FALTA TÉCNICA |FALTA DESQUALIFICANTE |FALTA |'
            'Substituição |Substituição Sai |TOCO |TEMPO TÉCNICO Técnico da equipe |'
            ' Violação Estouro dos 24s|Violação |Erro |CRAVADA |TEMPO TÉCNICO |É de três |'
-           'Técnico da equipe |Cravada)', '', c)
+           'Técnico da equipe |Cravada|Técnico do )', '', c)
 
 data = io.StringIO(c)
 # depois para DataFrame
@@ -188,7 +188,7 @@ separar_02 = separar_01.str.get(0)
 separar_03 = separar_01.str.get(1)
 separar_04 = separar_01.str.get(2)
 dados['Quarto'] = separar_02
-dados['Tempo'] = separar_03
+dados['Tempo_1'] = separar_03
 dados['Placar'] = separar_04
 dados.drop('inf1', axis=1, inplace=True)
 
@@ -215,8 +215,75 @@ placar_visitante = divisao1_placar.str.get(1)
 dados['placar_casa'] = placar_casa
 dados['placar_visitante'] = placar_visitante
 dados.drop('Placar', axis=1, inplace=True)
+
+# mudança do tempo
+# colocar todos em segundos para facilitar a vida
+# primeiro evitar NAN (acredite!!! tem isso no site)
+dados.dropna(subset=['Tempo_1'], inplace=True)
+
+# tem jogos que o site apresenta numeros inteiros (1, 12, 134, 1000)
+# para isso localizei o valores errados e concertei
+mudar_hora = []
+for x in dados['Tempo_1']:
+    if re.findall(r'..:..', x):
+        mudar_hora.append(x)
+    else:
+        if re.findall(r'....', x):
+            x = x[0:2] + ':' + x[2:4]
+            mudar_hora.append(x)
+        elif re.findall(r'...', x):
+            x = '0' + x[0] + ':' + x[1:3]
+            mudar_hora.append(x)
+        elif re.findall(r'..', x):
+            x = '00:' + x
+            mudar_hora.append(x)
+        elif re.findall(r'.', x):
+            x = '00:0' + x
+            mudar_hora.append(x)
+
+dados['Tempo_2'] = mudar_hora
+dados.drop('Tempo_1', axis=1, inplace=True)
+
+# transformado tudo em segundo
+dados['Tempo_2'] = dados['Tempo_2'].apply(lambda q: dt.datetime.strptime(q, '%M:%S'))
+dados['Tempo_2'] = dados['Tempo_2'].apply(lambda w: dt.time(w.hour, w.minute, w.second))
+dados['Tempo_2'] = dados['Tempo_2'].apply(lambda e: (e.hour * 60 + e.minute) * 60 + e.second)
+
+# transforma os dados para números inteiros
+dados['Quarto'] = dados['Quarto'].apply(lambda l: int(l))
+# modificar o tempo decrescente para crescente (* -1)
+# acrescentar o tempo de cada quarto (primeiro quarto termina em 600s, o segundo quarto 2*600 = 1200 ...)
+tempo_novo = []
+for x, y in zip(dados['Quarto'], dados['Tempo_2']):
+    if x == 1:
+        a = (y - (600 * 1)) * -1
+        tempo_novo.append(a)
+    elif x == 2:
+        a = (y - (600 * 2)) * -1
+        tempo_novo.append(a)
+    elif x == 3:
+        a = (y - (600 * 3)) * -1
+        tempo_novo.append(a)
+    elif x == 4:
+        a = (y - (600 * 4)) * -1
+        tempo_novo.append(a)
+    elif x == 5:
+        a = (y - (600 * 5)) * -1
+        tempo_novo.append(a)
+    elif x == 6:
+        a = (y - (600 * 6)) * -1
+        tempo_novo.append(a)
+    elif x == 7:
+        a = (y - (600 * 7)) * -1
+        tempo_novo.append(a)
+
+dados['Tempo'] = tempo_novo
+dados.drop('Tempo_2', axis=1, inplace=True)
+
 # deixando o DataFrame nessa ordem de colunas
 dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
+
+########################################################################################################################
 
 r1 = requests.get(list_inoutControl[0])
 soup01 = BeautifulSoup(r1.content, 'html.parser')

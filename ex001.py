@@ -7,6 +7,7 @@ import requests
 from selenium.common.exceptions import NoSuchElementException
 import io
 import re
+import datetime as dt
 
 r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=41&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
@@ -231,10 +232,11 @@ for x in lista_de_temporadas:
                     dados['placar_casa'] = placar_casa
                     dados['placar_visitante'] = placar_visitante
                     dados.drop('Placar', axis=1, inplace=True)
+                    #############################################################################################################
+                    # descobrir nome do time
+                    r1 = requests.get(f'{i}')
+                    soup01 = BeautifulSoup(r1.content, 'html.parser')
 
-                    dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
-
-                    # se ER não tiver ninguém é pq foi estouro de 24s
                     informacoes_1 = soup01.find_all("div", class_="float-left text-right")
                     informacoes_2 = soup01.find_all("div", class_="float-right text-left")
 
@@ -246,8 +248,8 @@ for x in lista_de_temporadas:
                     nome_fora_of = nome_fora_of.replace('/', ' ')
 
                 else:
+                    # atribuir os dados do site em html
                     html_content = element.get_attribute('outerHTML')
-
                     # passear o conteúdo em HTML e pegar o texto
                     soup = BeautifulSoup(html_content, 'html.parser')
                     acoes = soup.get_text()
@@ -310,7 +312,8 @@ for x in lista_de_temporadas:
                     c = c.replace('pede tempo', '/tempo_tecnico;')
                     # erros
                     c = re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
-                               " comete violação de saída de quadra| comete violação de volta de quadra| comete violação de condução)", "/ER;1", c)
+                               " comete violação de saída de quadra| comete violação de volta de quadra|  comete violação de condução)",
+                               "/ER;1", c)
                     # cravada
                     c = c.replace('acerta enterrada', '1/EN;1')
 
@@ -324,7 +327,7 @@ for x in lista_de_temporadas:
                                'Falta sofrida |FALTA OFENSIVA|FALTA ANTIDESPORTIVA |FALTA TÉCNICA |FALTA DESQUALIFICANTE |FALTA |'
                                'Substituição |Substituição Sai |TOCO |TEMPO TÉCNICO Técnico da equipe |'
                                ' Violação Estouro dos 24s|Violação |Erro |CRAVADA |TEMPO TÉCNICO |É de três |'
-                               'Técnico da equipe |Cravada)', '', c)
+                               'Técnico da equipe |Cravada|Técnico do )', '', c)
 
                     data = io.StringIO(c)
                     # depois para DataFrame
@@ -365,8 +368,11 @@ for x in lista_de_temporadas:
                     dados['placar_casa'] = placar_casa
                     dados['placar_visitante'] = placar_visitante
                     dados.drop('Placar', axis=1, inplace=True)
-                    # deixando o DataFrame nessa ordem de colunas
                     dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
+                    #############################################################################################################
+                    # descobrir nome do time
+                    r1 = requests.get(f'{i}')
+                    soup01 = BeautifulSoup(r1.content, 'html.parser')
 
                     informacoes_1 = soup01.find_all("div", class_="float-left text-right score_header_left")
                     informacoes_2 = soup01.find_all("div", class_="float-right text-left score_header_right")
@@ -377,7 +383,7 @@ for x in lista_de_temporadas:
                     # acontece erro por conta de nomes com siglas ai eu preciso substituir
                     nome_casa_of = nome_casa_of.replace('/', ' ')
                     nome_fora_of = nome_fora_of.replace('/', ' ')
-
+                ########################################################################################################
                 dados.to_csv(
                     "Dados01/temporada " + f"{temporada}""/" + "tabela_" + f"{numero_jogo}" + "_" + nome_casa_of + "_x_" + nome_fora_of + ".csv")
                 nome_inf_coluna = nome_casa_of + "_x_" + nome_fora_of

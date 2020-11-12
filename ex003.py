@@ -5,9 +5,10 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
+import datetime as dt
 
 # teste
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=34&wherePlaying=-1&played=-1')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=41&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
@@ -26,7 +27,7 @@ option = Options()
 option.headless = True
 driver = webdriver.Firefox()
 # options=option
-driver.get(list_inoutControl[2])
+driver.get(list_inoutControl[0])
 time.sleep(10)
 
 driver.find_element_by_xpath(
@@ -52,7 +53,7 @@ acao_pessoa02 = [nome_acao_pessoa02.find("p", class_='').get_text() for nome_aca
 
 dados = pd.DataFrame(
     {'Quarto': quarto,
-     'Tempo': tempo,
+     'Tempo_1': tempo,
      'Time_01': time_site,
      'Placar': placar,
      'Inf_2': acao_pessoa02
@@ -175,25 +176,87 @@ dados['placar_casa'] = placar_casa
 dados['placar_visitante'] = placar_visitante
 dados.drop('Placar', axis=1, inplace=True)
 
+# mudança do tempo
+# colocar todos em segundos para facilitar a vida
+# primeiro evitar NAN (acredite!!! tem isso no site)
+dados.dropna(subset=['Tempo_1'], inplace=True)
+
+# tem jogos que o site apresenta numeros inteiros (1, 12, 134, 1000)
+# para isso localizei o valores errados e concertei
+mudar_hora = []
+for x in dados['Tempo_1']:
+    if re.findall(r'..:..', x):
+        mudar_hora.append(x)
+    else:
+        if re.findall(r'....', x):
+            x = x[0:2] + ':' + x[2:4]
+            mudar_hora.append(x)
+        elif re.findall(r'...', x):
+            x = '0' + x[0] + ':' + x[1:3]
+            mudar_hora.append(x)
+        elif re.findall(r'..', x):
+            x = '00:' + x
+            mudar_hora.append(x)
+        elif re.findall(r'.', x):
+            x = '00:0' + x
+            mudar_hora.append(x)
+
+dados['Tempo_2'] = mudar_hora
+dados.drop('Tempo_1', axis=1, inplace=True)
+
+# transformado tudo em segundo
+dados['Tempo_2'] = dados['Tempo_2'].apply(lambda q: dt.datetime.strptime(q, '%M:%S'))
+dados['Tempo_2'] = dados['Tempo_2'].apply(lambda w: dt.time(w.hour, w.minute, w.second))
+dados['Tempo_2'] = dados['Tempo_2'].apply(lambda e: (e.hour * 60 + e.minute) * 60 + e.second)
+
+# transforma os dados para números inteiros
+dados['Quarto'] = dados['Quarto'].apply(lambda l: int(l))
+# modificar o tempo decrescente para crescente (* -1)
+# acrescentar o tempo de cada quarto (primeiro quarto termina em 600s, o segundo quarto 2*600 = 1200 ...)
+tempo_novo = []
+for x, y in zip(dados['Quarto'], dados['Tempo_2']):
+    if x == 1:
+        a = (y - (600 * 1)) * -1
+        tempo_novo.append(a)
+    elif x == 2:
+        a = (y - (600 * 2)) * -1
+        tempo_novo.append(a)
+    elif x == 3:
+        a = (y - (600 * 3)) * -1
+        tempo_novo.append(a)
+    elif x == 4:
+        a = (y - (600 * 4)) * -1
+        tempo_novo.append(a)
+    elif x == 5:
+        a = (y - (600 * 5)) * -1
+        tempo_novo.append(a)
+    elif x == 6:
+        a = (y - (600 * 6)) * -1
+        tempo_novo.append(a)
+    elif x == 7:
+        a = (y - (600 * 7)) * -1
+        tempo_novo.append(a)
+
+dados['Tempo'] = tempo_novo
+dados.drop('Tempo_2', axis=1, inplace=True)
+
+# deixando o DataFrame nessa ordem de colunas
 dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
 
-# se ER não tiver ninguém é pq foi estouro de 24s
+########################################################################################################################
 
-r1 = requests.get(list_inoutControl[2])
+r1 = requests.get(list_inoutControl[0])
 soup01 = BeautifulSoup(r1.content, 'html.parser')
 
 informacoes_1 = soup01.find_all("div", class_="float-left text-right")
 informacoes_2 = soup01.find_all("div", class_="float-right text-left")
 
-nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
-nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
+nome_casa_of = informacoes_1[0].find("span", class_="show-for-large").get_text()
+nome_fora_of = informacoes_2[0].find("span", class_="show-for-large").get_text()
 
 # acontece erro por conta de nomes com siglas ai eu preciso substituir
-nome_casa = nome_casa.replace('/', ' ')
-nome_fora = nome_fora.replace('/', ' ')
-########################################################################################################################
+nome_casa_of = nome_casa_of.replace('/', ' ')
+nome_fora_of = nome_fora_of.replace('/', ' ')
 
-
-
-
+# se ER não tiver ninguém é pq foi estouro de 24s
 dados.to_csv('parte_3.csv')

@@ -7,6 +7,7 @@ import requests
 from selenium.common.exceptions import NoSuchElementException
 import io
 import re
+import datetime as dt
 
 r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=54&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
@@ -64,7 +65,7 @@ for j in list_inoutControl:
 
         dados = pd.DataFrame(
             {'Quarto': quarto,
-             'Tempo': tempo,
+             'Tempo_1': tempo,
              'Time_01': time_site,
              'Placar': placar,
              'Inf_2': acao_pessoa02
@@ -183,27 +184,24 @@ for j in list_inoutControl:
         dados['placar_casa'] = placar_casa
         dados['placar_visitante'] = placar_visitante
         dados.drop('Placar', axis=1, inplace=True)
-
-        dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
-
-        # se ER não tiver ninguém é pq foi estouro de 24s
-
+        #############################################################################################################
+        # descobrir nome do time
         r1 = requests.get(f'{j}')
         soup01 = BeautifulSoup(r1.content, 'html.parser')
 
         informacoes_1 = soup01.find_all("div", class_="float-left text-right")
         informacoes_2 = soup01.find_all("div", class_="float-right text-left")
 
-        nome_casa = informacoes_1[0].find("span", class_="show-for-large").get_text()
-        nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
+        nome_casa_of = informacoes_1[0].find("span", class_="show-for-large").get_text()
+        nome_fora_of = informacoes_2[0].find("span", class_="show-for-large").get_text()
 
         # acontece erro por conta de nomes com siglas ai eu preciso substituir
-        nome_casa = nome_casa.replace('/', ' ')
-        nome_fora = nome_fora.replace('/', ' ')
+        nome_casa_of = nome_casa_of.replace('/', ' ')
+        nome_fora_of = nome_fora_of.replace('/', ' ')
 
     else:
+        # atribuir os dados do site em html
         html_content = element.get_attribute('outerHTML')
-
         # passear o conteúdo em HTML e pegar o texto
         soup = BeautifulSoup(html_content, 'html.parser')
         acoes = soup.get_text()
@@ -265,7 +263,8 @@ for j in list_inoutControl:
         c = c.replace('pede tempo', '/tempo_tecnico;')
         # erros
         c = re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
-                   " comete violação de saída de quadra| comete violação de volta de quadra| comete violação de condução)", "/ER;1", c)
+                   " comete violação de saída de quadra| comete violação de volta de quadra|  comete violação de condução)",
+                   "/ER;1", c)
         # cravada
         c = c.replace('acerta enterrada', '1/EN;1')
 
@@ -279,7 +278,7 @@ for j in list_inoutControl:
                    'Falta sofrida |FALTA OFENSIVA|FALTA ANTIDESPORTIVA |FALTA TÉCNICA |FALTA DESQUALIFICANTE |FALTA |'
                    'Substituição |Substituição Sai |TOCO |TEMPO TÉCNICO Técnico da equipe |'
                    ' Violação Estouro dos 24s|Violação |Erro |CRAVADA |TEMPO TÉCNICO |É de três |'
-                   'Técnico da equipe |Cravada)', '', c)
+                   'Técnico da equipe |Cravada|Técnico do )', '', c)
 
         data = io.StringIO(c)
         # depois para DataFrame
@@ -293,7 +292,7 @@ for j in list_inoutControl:
         separar_03 = separar_01.str.get(1)
         separar_04 = separar_01.str.get(2)
         dados['Quarto'] = separar_02
-        dados['Tempo'] = separar_03
+        dados['Tempo_1'] = separar_03
         dados['Placar'] = separar_04
         dados.drop('inf1', axis=1, inplace=True)
 
@@ -320,9 +319,8 @@ for j in list_inoutControl:
         dados['placar_casa'] = placar_casa
         dados['placar_visitante'] = placar_visitante
         dados.drop('Placar', axis=1, inplace=True)
-        # deixando o DataFrame nessa ordem de colunas
-        dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
-
+        #############################################################################################################
+        # descobrir nome do time
         r1 = requests.get(f'{j}')
         soup01 = BeautifulSoup(r1.content, 'html.parser')
 
@@ -336,6 +334,72 @@ for j in list_inoutControl:
         nome_casa_of = nome_casa_of.replace('/', ' ')
         nome_fora_of = nome_fora_of.replace('/', ' ')
 
+    # mudança do tempo
+    # colocar todos em segundos para facilitar a vida
+    # primeiro evitar NAN (acredite!!! tem isso no site)
+    dados.dropna(subset=['Tempo_1'], inplace=True)
+
+    # tem jogos que o site apresenta numeros inteiros (1, 12, 134, 1000)
+    # para isso localizei o valores errados e concertei
+    mudar_hora = []
+    for x in dados['Tempo_1']:
+        if re.findall(r'..:..', x):
+            mudar_hora.append(x)
+        else:
+            if re.findall(r'....', x):
+                x = x[0:2] + ':' + x[2:4]
+                mudar_hora.append(x)
+            elif re.findall(r'...', x):
+                x = '0' + x[0] + ':' + x[1:3]
+                mudar_hora.append(x)
+            elif re.findall(r'..', x):
+                x = '00:' + x
+                mudar_hora.append(x)
+            elif re.findall(r'.', x):
+                x = '00:0' + x
+                mudar_hora.append(x)
+
+    dados['Tempo_2'] = mudar_hora
+    dados.drop('Tempo_1', axis=1, inplace=True)
+
+    # transformado tudo em segundo
+    dados['Tempo_2'] = dados['Tempo_2'].apply(lambda q: dt.datetime.strptime(q, '%M:%S'))
+    dados['Tempo_2'] = dados['Tempo_2'].apply(lambda w: dt.time(w.hour, w.minute, w.second))
+    dados['Tempo_2'] = dados['Tempo_2'].apply(lambda e: (e.hour * 60 + e.minute) * 60 + e.second)
+
+    # transforma os dados para números inteiros
+    dados['Quarto'] = dados['Quarto'].apply(lambda l: int(l))
+    # modificar o tempo decrescente para crescente (* -1)
+    # acrescentar o tempo de cada quarto (primeiro quarto termina em 600s, o segundo quarto 2*600 = 1200 ...)
+    tempo_novo = []
+    for x, y in zip(dados['Quarto'], dados['Tempo_2']):
+        if x == 1:
+            a = (y - (600 * 1)) * -1
+            tempo_novo.append(a)
+        elif x == 2:
+            a = (y - (600 * 2)) * -1
+            tempo_novo.append(a)
+        elif x == 3:
+            a = (y - (600 * 3)) * -1
+            tempo_novo.append(a)
+        elif x == 4:
+            a = (y - (600 * 4)) * -1
+            tempo_novo.append(a)
+        elif x == 5:
+            a = (y - (600 * 5)) * -1
+            tempo_novo.append(a)
+        elif x == 6:
+            a = (y - (600 * 6)) * -1
+            tempo_novo.append(a)
+        elif x == 7:
+            a = (y - (600 * 7)) * -1
+            tempo_novo.append(a)
+
+    dados['Tempo'] = tempo_novo
+    dados.drop('Tempo_2', axis=1, inplace=True)
+
+    # deixando o DataFrame nessa ordem de colunas
+    dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
     dados.to_csv("Dados01/temporada " + f"{temporada}""/" + "tabela_" + f"{jj}" + "_" + nome_casa_of + "_x_" + nome_fora_of + ".csv")
     nome_inf_coluna = nome_casa_of + "_x_" + nome_fora_of
     tabela_geral = pd.concat([dados, tabela_geral], axis=0)
