@@ -7,6 +7,31 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import datetime as dt
 
+
+
+
+
+
+# print(len(l1))
+# print(len(l2))
+# retorna uma tabela geral
+
+#
+
+
+#list_sites_funciona = []
+#list_sites_falha = []
+#l1 = pd.DataFrame([])
+#l2 = pd.DataFrame([])
+
+# retorna uma tabela funciona/falha para cada temoporada
+l1_cada_temporada = pd.DataFrame([])
+l2_cada_temporada = pd.DataFrame([])
+l1_cada_temporada = l1
+l2_cada_temporada = l2
+l1_cada_temporada.to_csv('Dados01/temporada ' + f'{temporada}' + '/funcionado_' + f'{temporada}' + '.csv')
+l2_cada_temporada.to_csv('Dados01/temporada ' + f'{temporada}' + '/falha_' + f'{temporada}' + '.csv')
+'''
 # teste
 r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=41&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
@@ -260,3 +285,4 @@ nome_fora_of = nome_fora_of.replace('/', ' ')
 
 # se ER não tiver ninguém é pq foi estouro de 24s
 dados.to_csv('parte_3.csv')
+'''

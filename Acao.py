@@ -404,6 +404,5 @@ for j in list_inoutControl:
     nome_inf_coluna = nome_casa_of + "_x_" + nome_fora_of
     tabela_geral = pd.concat([dados, tabela_geral], axis=0)
     print(nome_inf_coluna)
-
     jj += 1
     driver.quit()

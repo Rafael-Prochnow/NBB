@@ -9,50 +9,35 @@ import io
 import re
 import datetime as dt
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=41&wherePlaying=-1&played=-1')
-soup = BeautifulSoup(r.content, 'html.parser')
-
-
 def get_links_from(teste):
     links = []
     for a in teste.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
         links.append((a.get('href')))
     return links
 
-'''
-lista_de_temporadas = ['https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=54&wherePlaying=-1&played=-1',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=47',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=41&wherePlaying=-1&played=-1',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=34',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=27&wherePlaying=-1&played=-1',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=15',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=8&wherePlaying=-1&played=-1',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=4',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=3&wherePlaying=-1&played=-1',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=2',
-                       'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=1&wherePlaying=-1&played=-1']
-                       
-'''
 
-lista_de_temporadas = ['https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=34&wherePlaying=-1&played=-1']
 
+tabela_geral = pd.DataFrame([])
+lista_cada_temporada = pd.DataFrame([])
 
 lista_funcionando = []
 lista_falha = []
-list_sites_funciona = []
 list_sites_falha = []
-temporada = 2019
-tabela_geral = pd.DataFrame([])
+list_sites_funciona = []
 l1 = pd.DataFrame([])
 l2 = pd.DataFrame([])
 
+# essa é a ordem das temporadas
+# , 41, 34, 27, 20, 15
+temporada = 2019
+lista_de_temporadas = [54, 47]
+
 for x in lista_de_temporadas:
     print(f'Temporada {temporada}')
-    r = requests.get(x)
+    r = requests.get(f'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D={x}')
     soup = BeautifulSoup(r.content, 'html.parser')
     list_inoutControl = get_links_from(soup)
-    # del(list_inoutControl[:160])
-    print(list_inoutControl)
+    del(list_inoutControl[:205])
     numero_jogo = 1
     for i in list_inoutControl:
         pagina = requests.get(f'{i}')
@@ -65,8 +50,7 @@ for x in lista_de_temporadas:
             erro_na_pagina01 = erro_na_pagina.find_all("b")
             erro_na_pagina02 = erro_na_pagina01[0].get_text()
             # por motivos de erro da página coloquei isso
-            if (i == 'https://lnb.com.br/partidas/nbb-20162017-paulistano-x-caxias-do-sul-20122016-1930/')|\
-                    (i == 'https://lnb.com.br/partidas/nbb-20162017-campo-mourao-x-mogi-06012017-2015/'):
+            if (i == 'https://lnb.com.br/partidas/nbb-20162017-paulistano-x-caxias-do-sul-20122016-1930/'):
                 print(f'SEM DADOS KKKKKKKKKKKKKK {i}')
                 lista_falha.append(i)
                 numero_jogo += 1
@@ -232,6 +216,7 @@ for x in lista_de_temporadas:
                     dados['placar_casa'] = placar_casa
                     dados['placar_visitante'] = placar_visitante
                     dados.drop('Placar', axis=1, inplace=True)
+                    dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
                     #############################################################################################################
                     # descobrir nome do time
                     r1 = requests.get(f'{i}')
@@ -246,7 +231,6 @@ for x in lista_de_temporadas:
                     # acontece erro por conta de nomes com siglas ai eu preciso substituir
                     nome_casa_of = nome_casa_of.replace('/', ' ')
                     nome_fora_of = nome_fora_of.replace('/', ' ')
-
                 else:
                     # atribuir os dados do site em html
                     html_content = element.get_attribute('outerHTML')
@@ -387,8 +371,8 @@ for x in lista_de_temporadas:
                 dados.to_csv(
                     "Dados01/temporada " + f"{temporada}""/" + "tabela_" + f"{numero_jogo}" + "_" + nome_casa_of + "_x_" + nome_fora_of + ".csv")
                 nome_inf_coluna = nome_casa_of + "_x_" + nome_fora_of
-                tabela_geral = pd.concat([dados, tabela_geral], axis=0)
                 print(nome_inf_coluna)
+                tabela_geral = pd.concat([dados, tabela_geral], axis=0)
                 driver.quit()
                 numero_jogo += 1
 ########################################################################################################################
@@ -396,14 +380,24 @@ for x in lista_de_temporadas:
                 print(f'Essa página {i} não está funcionando')
                 lista_falha.append(i)
                 numero_jogo += 1
-    temporada -= 1
-    tabela_geral.to_csv('Dados01/Total_de_acao_acao.csv')
+    # retorna uma tabela geral de cada temporada
+    lista_cada_temporada = pd.concat([tabela_geral, lista_cada_temporada], axis=0)
+    tabela_geral.to_csv('Dados01/temporada ' + f'{temporada}' + '/Total_de_acao_acao_' + f'{temporada}' + '.csv')
+    # retorna os sites que funcionam de cada temoporada
     list_sites_funciona = pd.DataFrame(lista_funcionando)
+    list_sites_funciona.to_csv('Dados01/temporada ' + f'{temporada}' + '/funcionando_' + f'{temporada}' + '.csv')
     l1 = pd.concat([list_sites_funciona, l1], axis=0)
+    # retorna os sites que NÃO funcionam de cada temoporada
     list_sites_falha = pd.DataFrame(lista_falha)
+    list_sites_falha.to_csv('Dados01/temporada ' + f'{temporada}' + '/falha_' + f'{temporada}' + '.csv')
     l2 = pd.concat([list_sites_falha, l2], axis=0)
 
-print(len(list_sites_funciona))
-print(len(list_sites_falha))
-l1.to_csv('Dados01/funcionado.csv')
+    # zera informações das temporadas
+    tabela_geral = pd.DataFrame([])
+    list_sites_funciona = []
+    list_sites_falha = []
+    temporada -= 1
+
+lista_cada_temporada.to_csv('Dados01/Total_de_acao_acao.csv')
+l1.to_csv('Dados01/funcionando.csv')
 l2.to_csv('Dados01/falha.csv')
