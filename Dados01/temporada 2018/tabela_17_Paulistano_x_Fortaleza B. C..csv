@@ -1,0 +1,503 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,72,60,,fim_partida,
+1,4,00:00,72,60,,fim_quarto,
+2,4,00:04,72,60,CEA,substituicao_entra,Gabriel
+3,4,00:04,72,60,CEA,substituicao_sai,Felipe
+4,4,00:04,72,60,CEA,substituicao_entra,Paulo
+5,4,00:04,72,60,CEA,substituicao_sai,Alex
+6,4,00:04,72,60,CEA,substituicao_entra,Lassance
+7,4,00:04,72,60,CEA,substituicao_sai,Cobb
+8,4,00:04,72,60,CEA,LL_Pts_C,Brite
+9,4,00:04,72,59,CEA,LL_Pts_C,Brite
+10,4,00:04,72,58,CEA,LL_Pts_C,Brite
+11,4,00:04,72,57,CEA,FR,Brite
+12,4,00:04,72,57,CAP,FC,Dikembe
+13,4,00:09,72,57,CEA,RD,Kurtz
+14,4,00:14,72,57,CAP,3_Pts_T,De Paula
+15,4,00:36,72,57,CEA,3_Pts_C,Cobb
+16,4,00:43,72,54,CEA,BR,Cobb
+17,4,00:43,72,54,CAP,ER,Léo Meindl
+18,4,00:48,72,54,CAP,BR,Léo Meindl
+19,4,00:48,72,54,CEA,ER,Felipe
+20,4,00:56,72,54,CEA,substituicao_entra,Kurtz
+21,4,00:56,72,54,CEA,substituicao_sai,Paulo
+22,4,00:56,72,54,CEA,substituicao_entra,Alex
+23,4,00:56,72,54,CEA,substituicao_sai,Feliciano
+24,4,00:56,72,54,CAP,substituicao_entra,Daniel
+25,4,00:56,72,54,CAP,substituicao_sai,Guilherme
+26,4,00:56,72,54,CAP,substituicao_entra,Dikembe
+27,4,00:56,72,54,CAP,substituicao_sai,Roquemore
+28,4,00:56,72,54,CEA,tempo_tecnico,Basq Cearense
+29,4,00:57,72,54,CAP,AS,De Paula
+30,4,00:57,72,54,CAP,EN,Léo Meindl
+31,4,01:08,70,54,CEA,substituicao_entra,Feliciano
+32,4,01:08,70,54,CEA,substituicao_sai,Kurtz
+33,4,01:08,70,54,CAP,substituicao_entra,Renan
+34,4,01:08,70,54,CAP,substituicao_sai,Du Sommer
+35,4,01:08,70,54,CEA,substituicao_entra,Felipe
+36,4,01:08,70,54,CEA,substituicao_sai,Alex
+37,4,01:08,70,54,CEA,ER,Alex
+38,4,01:11,70,54,CEA,RO,Basq Cearense
+39,4,01:11,70,54,CAP,TO,Du Sommer
+40,4,01:11,70,54,CEA,2_Pts_T,Paulo
+41,4,01:19,70,54,CEA,BR,Brite
+42,4,01:19,70,54,CAP,ER,Roquemore
+43,4,01:25,70,54,CAP,BR,De Paula
+44,4,01:25,70,54,CEA,ER,Cobb
+45,4,01:42,70,54,CAP,AS,De Paula
+46,4,01:42,70,54,CAP,3_Pts_C,Du Sommer
+47,4,01:46,67,54,CAP,substituicao_entra,Du Sommer
+48,4,01:46,67,54,CAP,substituicao_sai,Renan
+49,4,02:10,67,54,CEA,2_Pts_C,Brite
+50,4,02:18,67,52,CEA,RD,Alex
+51,4,02:22,67,52,CAP,3_Pts_T,De Paula
+52,4,02:43,67,52,CAP,RD,Renan
+53,4,02:47,67,52,CEA,2_Pts_T,Alex
+54,4,03:03,67,52,CEA,substituicao_entra,Kurtz
+55,4,03:03,67,52,CEA,substituicao_sai,Felipe
+56,4,03:03,67,52,CEA,substituicao_entra,Paulo
+57,4,03:03,67,52,CEA,substituicao_sai,Feliciano
+58,4,03:03,67,52,CAP,substituicao_entra,Roquemore
+59,4,03:03,67,52,CAP,substituicao_sai,Yago
+60,4,03:03,67,52,CEA,tempo_tecnico,Basq Cearense
+61,4,03:05,67,52,CAP,2_Pts_C,Yago
+62,4,03:21,65,52,CAP,RD,Guilherme
+63,4,03:26,65,52,CEA,2_Pts_T,Alex
+64,4,03:45,65,52,CAP,LL_Pts_C,De Paula
+65,4,03:45,64,52,CAP,LL_Pts_C,De Paula
+66,4,03:45,63,52,CAP,substituicao_entra,Léo Meindl
+67,4,03:45,63,52,CAP,substituicao_sai,Roquemore
+68,4,03:45,63,52,CAP,FR,De Paula
+69,4,03:45,63,52,CEA,FC,Alex
+70,4,03:45,63,52,CAP,RO,De Paula
+71,4,03:51,63,52,CEA,TO,Feliciano
+72,4,03:51,63,52,CAP,2_Pts_T,Guilherme
+73,4,04:06,63,52,CAP,BR,Yago
+74,4,04:06,63,52,CEA,ER,Feliciano
+75,4,04:11,63,52,CEA,RD,Alex
+76,4,04:17,63,52,CEA,TO,Alex
+77,4,04:17,63,52,CAP,2_Pts_T,Yago
+78,4,04:29,63,52,CAP,substituicao_entra,Guilherme
+79,4,04:29,63,52,CAP,substituicao_sai,Du Sommer
+80,4,04:30,63,52,CAP,RD,De Paula
+81,4,04:31,63,52,CEA,2_Pts_T,Alex
+82,4,04:31,63,52,CEA,RO,Alex
+83,4,04:38,63,52,CEA,2_Pts_T,Feliciano
+84,4,04:39,63,52,CEA,RO,Feliciano
+85,4,04:44,63,52,CEA,3_Pts_T,Brite
+86,4,04:54,63,52,CEA,substituicao_entra,Feliciano
+87,4,04:54,63,52,CEA,substituicao_sai,Kurtz
+88,4,04:54,63,52,CEA,substituicao_entra,Cobb
+89,4,04:54,63,52,CEA,substituicao_sai,Léo W
+90,4,04:54,63,52,CEA,FR,Kurtz
+91,4,04:54,63,52,CAP,FC,Renan
+92,4,05:05,63,52,CEA,RD,Alex
+93,4,05:10,63,52,CAP,3_Pts_T,De Paula
+94,4,05:26,63,52,CAP,RD,De Paula
+95,4,05:31,63,52,CEA,3_Pts_T,Alex
+96,4,05:53,63,52,CAP,AS,Roquemore
+97,4,05:53,63,52,CAP,3_Pts_C,Renan
+98,4,06:01,60,52,CAP,substituicao_entra,Renan
+99,4,06:01,60,52,CAP,substituicao_sai,Léo Meindl
+100,4,06:01,60,52,CAP,FR,Yago
+101,4,06:01,60,52,CEA,FC,Léo W
+102,4,06:16,60,52,CEA,substituicao_entra,Léo W
+103,4,06:16,60,52,CEA,substituicao_sai,Paulo
+104,4,06:16,60,52,CEA,substituicao_entra,Felipe
+105,4,06:16,60,52,CEA,substituicao_sai,Cobb
+106,4,06:16,60,52,CAP,RD,Paulistano
+107,4,06:17,60,52,CEA,3_Pts_T,Cobb
+108,4,06:25,60,52,CEA,RD,Alex
+109,4,06:32,60,52,CAP,2_Pts_T,Roquemore
+110,4,06:43,60,52,CAP,RD,De Paula
+111,4,06:48,60,52,CEA,2_Pts_T,Paulo
+112,4,06:49,60,52,CEA,RD,Paulo
+113,4,07:04,60,52,CEA,TO,Cobb
+114,4,07:04,60,52,CAP,2_Pts_T,Léo Meindl
+115,4,07:26,60,52,CAP,RD,De Paula
+116,4,07:30,60,52,CEA,2_Pts_T,Brite
+117,4,07:42,60,52,CAP,substituicao_entra,De Paula
+118,4,07:42,60,52,CAP,substituicao_sai,Renan
+119,4,07:42,60,52,CEA,FR,Alex
+120,4,07:42,60,52,CAP,FC,Renan
+121,4,07:46,60,52,CEA,RO,Cobb
+122,4,07:50,60,52,CEA,2_Pts_T,Alex
+123,4,08:09,60,52,CAP,2_Pts_C,Roquemore
+124,4,08:25,58,52,CAP,RO,Paulistano
+125,4,08:28,58,52,CAP,3_Pts_T,Léo Meindl
+126,4,08:49,58,52,CEA,EN,Brite
+127,4,08:49,58,50,CEA,RO,Brite
+128,4,08:55,58,50,CEA,3_Pts_T,Paulo
+129,4,08:59,58,50,CEA,RO,Paulo
+130,4,09:06,58,50,CEA,3_Pts_T,Alex
+131,4,09:10,58,50,CEA,RO,Basq Cearense
+132,4,09:10,58,50,CAP,TO,Du Sommer
+133,4,09:10,58,50,CEA,2_Pts_T,Kurtz
+134,4,09:10,58,50,CEA,RO,Kurtz
+135,4,09:10,58,50,CEA,2_Pts_T,Kurtz
+136,4,09:10,58,50,CEA,RO,Kurtz
+137,4,09:15,58,50,CEA,2_Pts_T,Cobb
+138,4,09:32,58,50,CAP,2_Pts_C,Renan
+139,4,09:49,56,50,CEA,2_Pts_C,Brite
+140,4,09:56,56,48,CEA,BR,Brite
+141,4,09:56,56,48,CAP,ER,Renan
+142,4,10:00,56,48,,inicio_quarto,
+143,3,00:00,56,48,,fim_quarto,
+144,3,00:00,56,48,CAP,2_Pts_T,Danilo
+145,3,00:01,56,48,CEA,LL_Pts_C,Alex
+146,3,00:01,56,47,CEA,LL_Pts_C,Alex
+147,3,00:01,56,46,CEA,LL_Pts_T,Alex
+148,3,00:01,56,46,CEA,FR,Alex
+149,3,00:01,56,46,CAP,FC,Victão
+150,3,00:08,56,46,CEA,FR,Brite
+151,3,00:08,56,46,CAP,FC,Daniel
+152,3,00:11,56,46,CAP,substituicao_entra,Daniel
+153,3,00:11,56,46,CAP,substituicao_sai,Léo Meindl
+154,3,00:11,56,46,CEA,substituicao_entra,Brite
+155,3,00:11,56,46,CEA,substituicao_sai,Felipe
+156,3,00:11,56,46,CEA,FR,Paulo
+157,3,00:11,56,46,CAP,FC,Victão
+158,3,00:32,56,46,CAP,ER,Léo Meindl
+159,3,00:50,56,46,CAP,RD,Léo Meindl
+160,3,00:54,56,46,CEA,3_Pts_T,Cobb
+161,3,01:00,56,46,CEA,RD,Cobb
+162,3,01:06,56,46,CAP,2_Pts_T,Danilo
+163,3,01:08,56,46,CAP,RD,Danilo
+164,3,01:16,56,46,CEA,3_Pts_T,Cobb
+165,3,01:25,56,46,CAP,substituicao_entra,Dikembe
+166,3,01:25,56,46,CAP,substituicao_sai,Guilherme
+167,3,01:25,56,46,CAP,substituicao_entra,Léo Meindl
+168,3,01:25,56,46,CAP,substituicao_sai,Renan
+169,3,01:25,56,46,CAP,substituicao_entra,Victão
+170,3,01:25,56,46,CAP,substituicao_sai,Yago
+171,3,01:31,56,46,CAP,LL_Pts_C,Yago
+172,3,01:31,55,46,CAP,FR,Yago
+173,3,01:31,55,46,CEA,FC,Felipe
+174,3,01:34,55,46,CAP,2_Pts_C,Yago
+175,3,01:58,53,46,CEA,EN,Paulo
+176,3,01:59,53,44,CEA,RO,Paulo
+177,3,02:04,53,44,CEA,3_Pts_T,Paulo
+178,3,02:09,53,44,CEA,RD,Paulo
+179,3,02:11,53,44,CAP,LL_Pts_T,Yago
+180,3,02:12,53,44,CAP,substituicao_entra,Danilo
+181,3,02:12,53,44,CAP,substituicao_sai,De Paula
+182,3,02:20,53,44,CAP,FR,Yago
+183,3,02:20,53,44,CEA,FC,Kurtz
+184,3,02:20,53,44,CAP,2_Pts_C,Yago
+185,3,02:27,51,44,CEA,2_Pts_C,Paulo
+186,3,02:27,51,42,CEA,RO,Felipe
+187,3,02:36,51,42,CEA,2_Pts_T,Felipe
+188,3,02:41,51,42,CEA,BR,Felipe
+189,3,02:41,51,42,CAP,ER,De Paula
+190,3,02:57,51,42,CEA,2_Pts_C,Cobb
+191,3,03:18,51,40,CEA,tempo_tecnico,Basq Cearense
+192,3,03:21,51,40,CAP,AS,Yago
+193,3,03:21,51,40,CAP,3_Pts_C,Guilherme
+194,3,03:43,48,40,CAP,RD,Roquemore
+195,3,03:47,48,40,CEA,2_Pts_T,Felipe
+196,3,03:55,48,40,CEA,RD,Felipe
+197,3,03:55,48,40,CAP,3_Pts_T,Yago
+198,3,03:55,48,40,CEA,substituicao_entra,Felipe
+199,3,03:55,48,40,CEA,substituicao_sai,Brite
+200,3,03:57,48,40,CAP,RD,De Paula
+201,3,04:00,48,40,CEA,3_Pts_T,Alex
+202,3,04:18,48,40,CAP,substituicao_entra,Renan
+203,3,04:18,48,40,CAP,substituicao_sai,Léo Meindl
+204,3,04:18,48,40,CAP,substituicao_entra,Roquemore
+205,3,04:18,48,40,CAP,substituicao_sai,Du Sommer
+206,3,04:18,48,40,CEA,RD,Basq Cearense
+207,3,04:23,48,40,CAP,3_Pts_T,De Paula
+208,3,04:26,48,40,CAP,RD,Léo Meindl
+209,3,04:33,48,40,CAP,TO,Du Sommer
+210,3,04:33,48,40,CEA,2_Pts_T,Kurtz
+211,3,04:56,48,40,CAP,3_Pts_C,Léo Meindl
+212,3,05:01,45,40,CAP,RD,Yago
+213,3,05:16,45,40,CAP,TO,Du Sommer
+214,3,05:16,45,40,CEA,2_Pts_T,Kurtz
+215,3,05:26,45,40,CEA,BR,Paulo
+216,3,05:26,45,40,CAP,ER,Guilherme
+217,3,05:34,45,40,CAP,RD,Guilherme
+218,3,05:36,45,40,CEA,LL_Pts_T,Paulo
+219,3,05:36,45,40,CEA,LL_Pts_C,Paulo
+220,3,05:36,45,39,CEA,FR,Paulo
+221,3,05:36,45,39,CAP,FC,Léo Meindl
+222,3,05:52,45,39,CAP,AS,Léo Meindl
+223,3,05:52,45,39,CAP,2_Pts_C,Du Sommer
+224,3,05:59,43,39,CAP,FR,Du Sommer
+225,3,05:59,43,39,CEA,FC,Alex
+226,3,06:13,43,39,CAP,FR,Yago
+227,3,06:13,43,39,CEA,FC,Brite
+228,3,06:24,43,39,CAP,tempo_tecnico,Paulistano
+229,3,06:24,43,39,CAP,substituicao_entra,Guilherme
+230,3,06:24,43,39,CAP,substituicao_sai,Renan
+231,3,06:24,43,39,CEA,AS,Brite
+232,3,06:24,43,39,CEA,2_Pts_C,Alex
+233,3,06:26,43,37,CEA,RD,Brite
+234,3,06:31,43,37,CAP,BR,De Paula
+235,3,06:31,43,37,CEA,ER,Paulo
+236,3,06:31,43,37,CAP,2_Pts_T,Léo Meindl
+237,3,06:44,43,37,CAP,substituicao_entra,De Paula
+238,3,06:44,43,37,CAP,substituicao_sai,Roquemore
+239,3,06:45,43,37,CAP,ER,Renan
+240,3,06:56,43,37,CEA,2_Pts_C,Cobb
+241,3,06:59,43,35,CEA,RO,Brite
+242,3,07:06,43,35,CEA,3_Pts_T,Cobb
+243,3,07:15,43,35,CEA,LL_Pts_C,Brite
+244,3,07:15,43,34,CEA,LL_Pts_C,Brite
+245,3,07:15,43,33,CEA,FR,Brite
+246,3,07:15,43,33,CAP,FC_A,Du Sommer
+247,3,07:16,43,33,CEA,RD,Brite
+248,3,07:20,43,33,CAP,3_Pts_T,Yago
+249,3,07:28,43,33,CAP,BR,Yago
+250,3,07:28,43,33,CEA,ER,Alex
+251,3,07:55,43,33,CAP,AS,Yago
+252,3,07:55,43,33,CAP,EN,Du Sommer
+253,3,08:20,41,33,CEA,2_Pts_C,Cobb
+254,3,08:25,41,31,CEA,BR,Cobb
+255,3,08:25,41,31,CAP,ER,Yago
+256,3,08:31,41,31,CEA,substituicao_entra,Alex
+257,3,08:31,41,31,CEA,substituicao_sai,Felipe
+258,3,08:34,41,31,CAP,FR,Léo Meindl
+259,3,08:34,41,31,CEA,FC,Felipe
+260,3,08:46,41,31,CAP,RD,Renan
+261,3,08:50,41,31,CEA,2_Pts_T,Kurtz
+262,3,08:52,41,31,CEA,RD,Brite
+263,3,08:59,41,31,CAP,3_Pts_T,Roquemore
+264,3,09:11,41,31,CAP,RO,Léo Meindl
+265,3,09:11,41,31,CAP,LL_Pts_T,Léo Meindl
+266,3,09:11,41,31,CAP,LL_Pts_C,Léo Meindl
+267,3,09:11,40,31,CAP,FR,Léo Meindl
+268,3,09:11,40,31,CEA,FC,Brite
+269,3,09:32,40,31,CEA,AS,Brite
+270,3,09:32,40,31,CEA,2_Pts_C,Kurtz
+271,3,09:36,40,29,CEA,RO,Basq Cearense
+272,3,09:36,40,29,CAP,TO,Renan
+273,3,09:36,40,29,CEA,2_Pts_T,Felipe
+274,3,09:38,40,29,CEA,RO,Basq Cearense
+275,3,09:40,40,29,CEA,2_Pts_T,Felipe
+276,3,10:00,40,29,,inicio_quarto,
+277,2,00:00,40,29,,fim_quarto,
+278,2,00:06,40,29,CAP,2_Pts_T,Renan
+279,2,00:22,40,29,CAP,FR,Yago
+280,2,00:22,40,29,CEA,ER,Léo W
+281,2,00:22,40,29,CEA,FC_O,Léo W
+282,2,00:22,40,29,CEA,substituicao_entra,Léo W
+283,2,00:22,40,29,CEA,substituicao_sai,Brite
+284,2,00:46,40,29,CAP,AS,Yago
+285,2,00:46,40,29,CAP,3_Pts_C,Renan
+286,2,01:03,37,29,CAP,BR,Yago
+287,2,01:03,37,29,CEA,ER,Felipe
+288,2,01:19,37,29,CEA,BR,Felipe
+289,2,01:19,37,29,CAP,ER,De Paula
+290,2,01:40,37,29,CEA,LL_Pts_C,Kurtz
+291,2,01:40,37,28,CEA,LL_Pts_C,Kurtz
+292,2,01:40,37,27,CEA,substituicao_entra,Paulo
+293,2,01:40,37,27,CEA,substituicao_sai,Feliciano
+294,2,01:40,37,27,CAP,substituicao_entra,Renan
+295,2,01:40,37,27,CAP,substituicao_sai,Guilherme
+296,2,01:40,37,27,CAP,substituicao_entra,Yago
+297,2,01:40,37,27,CAP,substituicao_sai,Léo Meindl
+298,2,01:40,37,27,CAP,substituicao_entra,Roquemore
+299,2,01:40,37,27,CAP,substituicao_sai,Daniel
+300,2,01:40,37,27,CEA,FR,Kurtz
+301,2,01:40,37,27,CAP,FC,Léo Meindl
+302,2,02:03,37,27,CEA,BR,Cobb
+303,2,02:03,37,27,CAP,ER,Léo Meindl
+304,2,02:07,37,27,CAP,RD,Daniel
+305,2,02:08,37,27,CEA,2_Pts_T,Brite
+306,2,02:15,37,27,CEA,BR,Cobb
+307,2,02:15,37,27,CAP,ER,De Paula
+308,2,02:18,37,27,CAP,substituicao_entra,Du Sommer
+309,2,02:18,37,27,CAP,substituicao_sai,Victão
+310,2,02:19,37,27,CAP,FR,Léo Meindl
+311,2,02:19,37,27,CEA,ER,Felipe
+312,2,02:19,37,27,CEA,FC_O,Felipe
+313,2,02:19,37,27,CEA,RD,Feliciano
+314,2,02:21,37,27,CAP,3_Pts_T,Guilherme
+315,2,02:29,37,27,CAP,RD,Léo Meindl
+316,2,02:33,37,27,CEA,2_Pts_T,Felipe
+317,2,02:36,37,27,CEA,FR,Cobb
+318,2,02:36,37,27,CAP,FC,De Paula
+319,2,02:40,37,27,CEA,substituicao_entra,Kurtz
+320,2,02:40,37,27,CEA,substituicao_sai,Paulo
+321,2,02:41,37,27,CEA,RD,Cobb
+322,2,02:45,37,27,CAP,3_Pts_T,Guilherme
+323,2,03:06,37,27,CEA,3_Pts_C,Brite
+324,2,03:23,37,24,CAP,ER,
+325,2,03:37,37,24,CAP,substituicao_entra,Léo Meindl
+326,2,03:37,37,24,CAP,substituicao_sai,Renan
+327,2,03:37,37,24,CAP,substituicao_entra,Daniel
+328,2,03:37,37,24,CAP,substituicao_sai,Yago
+329,2,03:37,37,24,CAP,substituicao_entra,Victão
+330,2,03:37,37,24,CAP,substituicao_sai,Roquemore
+331,2,03:37,37,24,CAP,tempo_tecnico,Paulistano
+332,2,03:37,37,24,CAP,FR,Guilherme
+333,2,03:37,37,24,CEA,FC,Felipe
+334,2,03:53,37,24,CEA,AS,Cobb
+335,2,03:53,37,24,CEA,2_Pts_C,Paulo
+336,2,03:57,37,22,CEA,RD,Cobb
+337,2,04:06,37,22,CAP,2_Pts_T,Renan
+338,2,04:18,37,22,CEA,2_Pts_C,Brite
+339,2,04:19,37,20,CEA,RO,Felipe
+340,2,04:22,37,20,CEA,2_Pts_T,Paulo
+341,2,04:22,37,20,CEA,RO,Paulo
+342,2,04:39,37,20,CEA,2_Pts_T,Cobb
+343,2,04:52,37,20,CEA,substituicao_entra,Felipe
+344,2,04:52,37,20,CEA,substituicao_sai,Kurtz
+345,2,04:52,37,20,CAP,substituicao_entra,De Paula
+346,2,04:52,37,20,CAP,substituicao_sai,Léo Meindl
+347,2,04:52,37,20,CAP,substituicao_entra,Guilherme
+348,2,04:52,37,20,CAP,substituicao_sai,Du Sommer
+349,2,04:52,37,20,CEA,FR,Kurtz
+350,2,04:52,37,20,CAP,FC,Du Sommer
+351,2,05:10,37,20,CAP,AS,Roquemore
+352,2,05:10,37,20,CAP,3_Pts_C,Yago
+353,2,05:32,34,20,CEA,AS,Kurtz
+354,2,05:32,34,20,CEA,3_Pts_C,Paulo
+355,2,05:50,34,17,CEA,RD,Kurtz
+356,2,05:55,34,17,CAP,3_Pts_T,Roquemore
+357,2,06:10,34,17,CEA,AS,Feliciano
+358,2,06:10,34,17,CEA,2_Pts_C,Kurtz
+359,2,06:30,34,15,CEA,substituicao_entra,Paulo
+360,2,06:30,34,15,CEA,substituicao_sai,Alex
+361,2,06:30,34,15,CAP,ER,Renan
+362,2,06:42,34,15,CAP,RD,Du Sommer
+363,2,06:46,34,15,CEA,3_Pts_T,Cobb
+364,2,07:02,34,15,CEA,tempo_tecnico,Basq Cearense
+365,2,07:04,34,15,CAP,AS,Léo Meindl
+366,2,07:04,34,15,CAP,3_Pts_C,Roquemore
+367,2,07:08,31,15,CAP,RD,Léo Meindl
+368,2,07:12,31,15,CEA,3_Pts_T,Feliciano
+369,2,07:40,31,15,CAP,AS,Roquemore
+370,2,07:40,31,15,CAP,3_Pts_C,Renan
+371,2,08:00,28,15,CAP,BR,Du Sommer
+372,2,08:00,28,15,CEA,ER,Feliciano
+373,2,08:11,28,15,CEA,RD,Cobb
+374,2,08:15,28,15,CAP,3_Pts_T,Léo Meindl
+375,2,08:27,28,15,CAP,RD,Renan
+376,2,08:32,28,15,CEA,3_Pts_T,Alex
+377,2,08:48,28,15,CEA,FR,Cobb
+378,2,08:48,28,15,CAP,FC,Léo Meindl
+379,2,09:00,28,15,CAP,LL_Pts_C,Léo Meindl
+380,2,09:00,27,15,CAP,LL_Pts_C,Léo Meindl
+381,2,09:00,26,15,CAP,FR,Léo Meindl
+382,2,09:00,26,15,CEA,FC,Cobb
+383,2,09:04,26,15,CAP,RD,Léo Meindl
+384,2,09:09,26,15,CEA,2_Pts_T,Kurtz
+385,2,09:12,26,15,CEA,RD,Brite
+386,2,09:21,26,15,CEA,TO,Kurtz
+387,2,09:21,26,15,CAP,2_Pts_T,Du Sommer
+388,2,09:39,26,15,CEA,AS,Brite
+389,2,09:39,26,15,CEA,3_Pts_C,Feliciano
+390,2,10:00,26,12,,inicio_quarto,
+391,1,00:00,26,12,,fim_quarto,
+392,1,00:00,26,12,CEA,2_Pts_T,Cobb
+393,1,00:02,26,12,CEA,RD,Cobb
+394,1,00:07,26,12,CAP,3_Pts_T,Danilo
+395,1,00:28,26,12,CEA,ER,Brite
+396,1,00:48,26,12,CAP,AS,Victão
+397,1,00:48,26,12,CAP,3_Pts_C,Daniel
+398,1,00:54,23,12,CAP,BR,De Paula
+399,1,00:54,23,12,CEA,ER,Alex
+400,1,00:57,23,12,CEA,FR,Alex
+401,1,00:57,23,12,CAP,FC,Danilo
+402,1,01:23,23,12,CAP,AS,Danilo
+403,1,01:23,23,12,CAP,3_Pts_C,De Paula
+404,1,01:41,20,12,CEA,AS,Feliciano
+405,1,01:41,20,12,CEA,2_Pts_C,Cobb
+406,1,01:53,20,10,CAP,AS,De Paula
+407,1,01:53,20,10,CAP,2_Pts_C,Guilherme
+408,1,01:56,18,10,CAP,RD,De Paula
+409,1,02:00,18,10,CEA,3_Pts_T,Alex
+410,1,02:08,18,10,CEA,RD,Brite
+411,1,02:12,18,10,CAP,3_Pts_T,Danilo
+412,1,02:16,18,10,CAP,RD,De Paula
+413,1,02:21,18,10,CEA,3_Pts_T,Alex
+414,1,02:26,18,10,CEA,RD,Brite
+415,1,02:30,18,10,CAP,3_Pts_T,Danilo
+416,1,02:45,18,10,CEA,LL_Pts_C,Alex
+417,1,02:45,18,9,CEA,LL_Pts_C,Alex
+418,1,02:45,18,8,CEA,FR,Alex
+419,1,02:45,18,8,CAP,FC,Danilo
+420,1,02:58,18,8,CEA,substituicao_entra,Feliciano
+421,1,02:58,18,8,CEA,substituicao_sai,Felipe
+422,1,02:58,18,8,CAP,substituicao_entra,Victão
+423,1,02:58,18,8,CAP,substituicao_sai,Renan
+424,1,02:58,18,8,CAP,substituicao_entra,Danilo
+425,1,02:58,18,8,CAP,substituicao_sai,Léo Meindl
+426,1,02:58,18,8,CEA,tempo_tecnico,Basq Cearense
+427,1,03:00,18,8,CAP,AS,Léo Meindl
+428,1,03:00,18,8,CAP,3_Pts_C,Renan
+429,1,03:04,15,8,CAP,RD,Léo Meindl
+430,1,03:10,15,8,CEA,3_Pts_T,Brite
+431,1,03:16,15,8,CAP,substituicao_entra,Daniel
+432,1,03:16,15,8,CAP,substituicao_sai,Yago
+433,1,03:16,15,8,CEA,FR,Kurtz
+434,1,03:16,15,8,CAP,FC,Guilherme
+435,1,03:27,15,8,CAP,2_Pts_C,Renan
+436,1,03:28,13,8,CAP,RO,Renan
+437,1,03:32,13,8,CAP,2_Pts_T,Renan
+438,1,03:44,13,8,CAP,RD,Renan
+439,1,03:49,13,8,CEA,3_Pts_T,Felipe
+440,1,04:01,13,8,CEA,BR,Felipe
+441,1,04:01,13,8,CAP,ER,Guilherme
+442,1,04:19,13,8,CAP,substituicao_entra,De Paula
+443,1,04:19,13,8,CAP,substituicao_sai,Roquemore
+444,1,04:19,13,8,CAP,RD,Paulistano
+445,1,04:21,13,8,CEA,3_Pts_T,Alex
+446,1,04:32,13,8,CAP,substituicao_entra,Guilherme
+447,1,04:32,13,8,CAP,substituicao_sai,Du Sommer
+448,1,04:45,13,8,CAP,2_Pts_C,Renan
+449,1,04:45,11,8,CAP,RO,Renan
+450,1,04:53,11,8,CAP,2_Pts_T,Du Sommer
+451,1,05:01,11,8,CEA,2_Pts_C,Kurtz
+452,1,05:01,11,6,CEA,RO,Kurtz
+453,1,05:10,11,6,CEA,2_Pts_T,Cobb
+454,1,05:37,11,6,CAP,3_Pts_C,Yago
+455,1,05:45,8,6,CEA,2_Pts_C,Kurtz
+456,1,06:03,8,4,CEA,RD,Basq Cearense
+457,1,06:05,8,4,CAP,3_Pts_T,Roquemore
+458,1,06:31,8,4,CAP,FR,Du Sommer
+459,1,06:31,8,4,CEA,ER,Kurtz
+460,1,06:31,8,4,CEA,FC_O,Kurtz
+461,1,06:48,8,4,CAP,2_Pts_C,Léo Meindl
+462,1,07:06,6,4,CEA,ER,Brite
+463,1,07:20,6,4,CEA,RD,Cobb
+464,1,07:24,6,4,CAP,3_Pts_T,Renan
+465,1,07:28,6,4,CEA,2_Pts_C,Felipe
+466,1,07:28,6,2,CEA,RO,Felipe
+467,1,07:38,6,2,CEA,2_Pts_T,Kurtz
+468,1,07:48,6,2,CAP,AS,Léo Meindl
+469,1,07:48,6,2,CAP,3_Pts_C,Renan
+470,1,08:18,3,2,CEA,ER,Felipe
+471,1,08:21,3,2,CEA,RD,Kurtz
+472,1,08:23,3,2,CAP,LL_Pts_T,Du Sommer
+473,1,08:23,3,2,CAP,LL_Pts_C,Du Sommer
+474,1,08:23,2,2,CAP,FR,Du Sommer
+475,1,08:23,2,2,CEA,FC,Brite
+476,1,08:36,2,2,CEA,substituicao_entra,Felipe
+477,1,08:36,2,2,CEA,substituicao_sai,Feliciano
+478,1,08:38,2,2,CAP,FR,Yago
+479,1,08:38,2,2,CEA,ER,Feliciano
+480,1,08:38,2,2,CEA,FC_O,Feliciano
+481,1,08:55,2,2,CAP,AS,Roquemore
+482,1,08:55,2,2,CAP,2_Pts_C,Du Sommer
+483,1,09:14,0,2,CEA,AS,Alex
+484,1,09:14,0,2,CEA,2_Pts_C,Kurtz
+485,1,09:29,0,0,CEA,BR,Kurtz
+486,1,09:29,0,0,CAP,ER,Yago
+487,1,09:32,0,0,CAP,RD,Du Sommer
+488,1,09:38,0,0,CEA,2_Pts_T,Alex
+489,1,09:52,0,0,CEA,RD,Feliciano
+490,1,09:56,0,0,CAP,2_Pts_T,Léo Meindl
+491,1,10:00,0,0,CEA,substituicao_entra,Kurtz
+492,1,10:00,0,0,CEA,substituicao_entra,Cobb
+493,1,10:00,0,0,CEA,substituicao_entra,Alex
+494,1,10:00,0,0,CEA,substituicao_entra,Brite
+495,1,10:00,0,0,CEA,substituicao_entra,Feliciano
+496,1,10:00,0,0,CAP,substituicao_entra,Renan
+497,1,10:00,0,0,CAP,substituicao_entra,Léo Meindl
+498,1,10:00,0,0,CAP,substituicao_entra,Du Sommer
+499,1,10:00,0,0,CAP,substituicao_entra,Yago
+500,1,10:00,0,0,CAP,substituicao_entra,Roquemore
+501,1,10:00,0,0,,inicio_partida,

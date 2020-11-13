@@ -1,0 +1,590 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,80,86,FRA,RD,Pedro
+1,5,00:00,80,86,,fim_partida,
+2,5,00:02,80,86,CAX,3_Pts_T,Cafferata
+3,5,00:07,80,86,FRA,LL_Pts_C,Cassiano
+4,5,00:07,80,85,FRA,LL_Pts_C,Cassiano
+5,5,00:07,80,84,FRA,FR,Cassiano
+6,5,00:07,80,84,CAX,FC,Cafferata
+7,5,00:07,80,84,FRA,RD,Cassiano
+8,5,00:08,80,84,CAX,3_Pts_T,Alex
+9,5,00:09,80,84,CAX,tempo_tecnico,Caxias do Sul
+10,5,00:09,80,84,FRA,LL_Pts_C,Antonio
+11,5,00:09,80,83,FRA,LL_Pts_C,Antonio
+12,5,00:09,80,82,FRA,FR,Antonio
+13,5,00:09,80,82,CAX,FC,Cafferata
+14,5,00:09,80,82,FRA,RD,Antonio
+15,5,00:09,80,82,CAX,2_Pts_T,Cauê B
+16,5,00:15,80,82,CAX,BR,Cauê B
+17,5,00:15,80,82,FRA,ER,Cassiano
+18,5,00:17,80,82,FRA,LL_Pts_C,Pedro
+19,5,00:17,80,81,FRA,LL_Pts_T,Pedro
+20,5,00:17,80,81,FRA,FR,Pedro
+21,5,00:17,80,81,CAX,FC_A,Alex
+22,5,00:19,80,81,FRA,RD,Cipolini
+23,5,00:22,80,81,CAX,3_Pts_T,Cafferata
+24,5,00:46,80,81,FRA,2_Pts_C,Cipolini
+25,5,00:50,80,79,FRA,RO,Cipolini
+26,5,00:50,80,79,FRA,2_Pts_T,Cassiano
+27,5,00:53,80,79,FRA,RD,Antonio
+28,5,01:00,80,79,CAX,3_Pts_T,Cauê V
+29,5,01:20,80,79,CAX,RD,Paranhos
+30,5,01:25,80,79,FRA,2_Pts_T,Cassiano
+31,5,01:42,80,79,CAX,3_Pts_C,Cauê V
+32,5,01:55,77,79,CAX,RO,Alex
+33,5,01:56,77,79,CAX,LL_Pts_T,Paranhos
+34,5,01:56,77,79,CAX,LL_Pts_C,Paranhos
+35,5,01:56,76,79,CAX,FR,Paranhos
+36,5,01:56,76,79,FRA,FC,Pedro
+37,5,02:10,76,79,FRA,LL_Pts_C,Cassiano
+38,5,02:10,76,78,FRA,LL_Pts_C,Cassiano
+39,5,02:10,76,77,CAX,substituicao_entra,Cafferata
+40,5,02:10,76,77,CAX,substituicao_sai,Marcão
+41,5,02:10,76,77,FRA,FR,Cassiano
+42,5,02:10,76,77,CAX,FC,Marcão
+43,5,02:21,76,77,CAX,2_Pts_C,Cauê B
+44,5,02:32,74,77,FRA,LL_Pts_C,Didi
+45,5,02:32,74,76,FRA,LL_Pts_T,Didi
+46,5,02:32,74,76,CAX,substituicao_entra,Cauê V
+47,5,02:32,74,76,CAX,substituicao_sai,Pedro
+48,5,02:32,74,76,FRA,FR,Didi
+49,5,02:32,74,76,CAX,FC,Pedro
+50,5,02:55,74,76,CAX,AS,Alex
+51,5,02:55,74,76,CAX,3_Pts_C,Cauê B
+52,5,03:11,71,76,FRA,LL_Pts_C,Cassiano
+53,5,03:11,71,75,FRA,LL_Pts_C,Cassiano
+54,5,03:11,71,74,FRA,FR,Cassiano
+55,5,03:11,71,74,CAX,FC,Cauê B
+56,5,03:18,71,74,FRA,RD,Antonio
+57,5,03:21,71,74,CAX,2_Pts_T,Marcão
+58,5,03:40,71,74,FRA,LL_Pts_C,Didi
+59,5,03:40,71,73,FRA,FR,Didi
+60,5,03:40,71,73,CAX,FC,Alex
+61,5,03:45,71,73,FRA,2_Pts_C,Didi
+62,5,03:55,71,71,FRA,RO,Cassiano
+63,5,03:59,71,71,FRA,3_Pts_T,Pedro
+64,5,04:05,71,71,CAX,substituicao_entra,Pedro
+65,5,04:05,71,71,CAX,substituicao_sai,Cauê V
+66,5,04:09,71,71,FRA,RO,Cassiano
+67,5,04:12,71,71,FRA,3_Pts_T,Antonio
+68,5,04:24,71,71,FRA,RD,Didi
+69,5,04:27,71,71,CAX,3_Pts_T,Alex
+70,5,04:43,71,71,CAX,RD,Caxias do Sul
+71,5,04:47,71,71,FRA,3_Pts_T,Pedro
+72,5,05:00,71,71,,inicio_quarto,
+73,4,00:00,71,71,FRA,RD,Cassiano
+74,4,00:00,71,71,CAX,3_Pts_T,Alex
+75,4,00:00,71,71,,fim_quarto,
+76,4,00:15,71,71,CAX,tempo_tecnico,Caxias do Sul
+77,4,00:21,71,71,FRA,AS,Cipolini
+78,4,00:21,71,71,FRA,2_Pts_C,Antonio
+79,4,00:24,71,69,FRA,RO,Cassiano
+80,4,00:28,71,69,FRA,3_Pts_T,Antonio
+81,4,00:46,71,69,FRA,RD,Pedro
+82,4,00:50,71,69,CAX,3_Pts_T,Cauê B
+83,4,01:02,71,69,CAX,substituicao_entra,Marcão
+84,4,01:02,71,69,CAX,substituicao_sai,Pedro
+85,4,01:02,71,69,CAX,substituicao_entra,Cauê V
+86,4,01:02,71,69,CAX,substituicao_sai,Cafferata
+87,4,01:04,71,69,FRA,2_Pts_C,Cipolini
+88,4,01:09,71,67,FRA,BR,Didi
+89,4,01:09,71,67,CAX,ER,Cafferata
+90,4,01:17,71,67,FRA,AS,Cassiano
+91,4,01:17,71,67,FRA,2_Pts_C,Cipolini
+92,4,01:24,71,65,CAX,substituicao_entra,Pedro
+93,4,01:24,71,65,CAX,substituicao_sai,Marcão
+94,4,01:24,71,65,FRA,FR,Pedro
+95,4,01:24,71,65,CAX,FC,Alex
+96,4,01:26,71,65,FRA,FR,Pedro
+97,4,01:26,71,65,CAX,FC,Marcão
+98,4,01:37,71,65,CAX,ER,
+99,4,02:01,71,65,CAX,substituicao_entra,Alex
+100,4,02:01,71,65,CAX,substituicao_sai,Cauê V
+101,4,02:01,71,65,CAX,substituicao_entra,Cafferata
+102,4,02:01,71,65,CAX,substituicao_sai,Pedro
+103,4,02:01,71,65,CAX,tempo_tecnico,Caxias do Sul
+104,4,02:06,71,65,FRA,2_Pts_C,Pedro
+105,4,02:28,71,63,CAX,ER,
+106,4,03:03,71,63,FRA,2_Pts_C,Cassiano
+107,4,03:15,71,61,FRA,RD,Franca
+108,4,03:15,71,61,CAX,LL_Pts_T,Cauê B
+109,4,03:15,71,61,CAX,LL_Pts_C,Cauê B
+110,4,03:15,70,61,CAX,FR,Cauê B
+111,4,03:15,70,61,FRA,FC,Didi
+112,4,03:29,70,61,CAX,RD,Marcão
+113,4,03:32,70,61,FRA,3_Pts_T,Antonio
+114,4,03:54,70,61,FRA,RD,Antonio
+115,4,03:55,70,61,CAX,LL_Pts_T,Paranhos
+116,4,03:55,70,61,FRA,tempo_tecnico,Franca
+117,4,03:55,70,61,CAX,FR,Paranhos
+118,4,03:55,70,61,FRA,FC,Antonio
+119,4,03:55,70,61,CAX,AS,Marcão
+120,4,03:55,70,61,CAX,2_Pts_C,Paranhos
+121,4,04:16,68,61,CAX,RD,Paranhos
+122,4,04:19,68,61,FRA,3_Pts_T,Pedro
+123,4,04:22,68,61,FRA,RO,Cassiano
+124,4,04:25,68,61,FRA,3_Pts_T,Antonio
+125,4,04:41,68,61,FRA,FR,Didi
+126,4,04:41,68,61,CAX,FC,Marcão
+127,4,04:41,68,61,FRA,RO,Didi
+128,4,04:44,68,61,FRA,3_Pts_T,Cipolini
+129,4,04:57,68,61,FRA,RD,Pedro
+130,4,04:58,68,61,CAX,LL_Pts_T,Paranhos
+131,4,04:58,68,61,CAX,LL_Pts_C,Paranhos
+132,4,04:58,67,61,FRA,substituicao_entra,Antonio
+133,4,04:58,67,61,FRA,substituicao_sai,Gruber
+134,4,04:58,67,61,CAX,FR,Paranhos
+135,4,04:58,67,61,FRA,FC,Gruber
+136,4,04:59,67,61,CAX,LL_Pts_T,Pedro
+137,4,04:59,67,61,CAX,LL_Pts_T,Pedro
+138,4,04:59,67,61,FRA,substituicao_entra,Pedro
+139,4,04:59,67,61,FRA,substituicao_sai,Léo
+140,4,04:59,67,61,CAX,FR,Pedro
+141,4,04:59,67,61,FRA,FC,Léo
+142,4,05:17,67,61,CAX,FR,Cauê B
+143,4,05:17,67,61,FRA,FC,Cassiano
+144,4,05:17,67,61,CAX,RD,Cauê B
+145,4,05:17,67,61,FRA,3_Pts_T,Didi
+146,4,05:36,67,61,FRA,RD,Gruber
+147,4,05:39,67,61,CAX,3_Pts_T,Cauê B
+148,4,05:48,67,61,CAX,FR,Cauê B
+149,4,05:48,67,61,FRA,FC,Cipolini
+150,4,06:03,67,61,FRA,AS,Léo
+151,4,06:03,67,61,FRA,3_Pts_C,Cassiano
+152,4,06:13,67,58,FRA,FR,Cipolini
+153,4,06:13,67,58,CAX,FC,Pedro
+154,4,06:28,67,58,FRA,RD,Franca
+155,4,06:28,67,58,CAX,2_Pts_T,Pedro
+156,4,06:53,67,58,FRA,substituicao_entra,Cipolini
+157,4,06:53,67,58,FRA,substituicao_sai,João Pedro
+158,4,06:53,67,58,CAX,FR,Pedro
+159,4,06:53,67,58,FRA,FC,Léo
+160,4,06:53,67,58,CAX,RD,Cauê V
+161,4,06:54,67,58,FRA,2_Pts_T,João Pedro
+162,4,07:15,67,58,CAX,AS,Cauê V
+163,4,07:15,67,58,CAX,2_Pts_C,Marcão
+164,4,07:35,65,58,CAX,BR,Pedro
+165,4,07:35,65,58,FRA,ER,João Pedro
+166,4,07:57,65,58,CAX,LL_Pts_C,Pedro
+167,4,07:57,64,58,CAX,LL_Pts_T,Pedro
+168,4,07:57,64,58,CAX,FR,Pedro
+169,4,07:57,64,58,FRA,FC,Didi
+170,4,08:04,64,58,CAX,substituicao_entra,Pedro
+171,4,08:04,64,58,CAX,substituicao_sai,Alex
+172,4,08:21,64,58,FRA,AS,Gruber
+173,4,08:21,64,58,FRA,2_Pts_C,Cassiano
+174,4,08:28,64,56,FRA,RD,João Pedro
+175,4,08:31,64,56,CAX,2_Pts_T,Paranhos
+176,4,08:45,64,56,CAX,RD,Marcão
+177,4,08:48,64,56,FRA,2_Pts_T,Léo
+178,4,08:55,64,56,FRA,RO,Franca
+179,4,08:58,64,56,FRA,3_Pts_T,Gruber
+180,4,09:19,64,56,FRA,RD,Gruber
+181,4,09:23,64,56,CAX,3_Pts_T,Marcão
+182,4,09:34,64,56,CAX,RO,Cauê B
+183,4,09:38,64,56,CAX,2_Pts_T,Marcão
+184,4,10:00,64,56,,inicio_quarto,
+185,3,00:00,64,56,,fim_quarto,
+186,3,00:00,64,56,FRA,AS,João Pedro
+187,3,00:00,64,56,FRA,2_Pts_C,Gruber
+188,3,00:02,64,54,FRA,BR,João Pedro
+189,3,00:02,64,54,CAX,ER,Cauê V
+190,3,00:33,64,54,FRA,AS,Cassiano
+191,3,00:33,64,54,FRA,3_Pts_C,Léo
+192,3,00:41,64,51,FRA,RD,Léo
+193,3,00:45,64,51,CAX,2_Pts_T,Cafferata
+194,3,01:04,64,51,CAX,substituicao_entra,Cafferata
+195,3,01:04,64,51,CAX,substituicao_sai,Marcão
+196,3,01:06,64,51,CAX,BR,Marcão
+197,3,01:06,64,51,FRA,ER,João Pedro
+198,3,01:18,64,51,CAX,LL_Pts_C,Marcão
+199,3,01:18,63,51,CAX,LL_Pts_C,Marcão
+200,3,01:18,62,51,FRA,substituicao_entra,Didi
+201,3,01:18,62,51,FRA,substituicao_sai,Antonio
+202,3,01:18,62,51,CAX,substituicao_entra,Pedro
+203,3,01:18,62,51,CAX,substituicao_sai,Cauê B
+204,3,01:18,62,51,CAX,FR,Marcão
+205,3,01:18,62,51,FRA,FC,João Pedro
+206,3,01:34,62,51,FRA,AS,Gruber
+207,3,01:34,62,51,FRA,3_Pts_C,Léo
+208,3,01:47,62,48,CAX,2_Pts_C,Cauê B
+209,3,01:49,60,48,CAX,RO,Cauê B
+210,3,01:52,60,48,CAX,2_Pts_T,Alex
+211,3,01:54,60,48,CAX,RD,Cauê V
+212,3,01:57,60,48,FRA,2_Pts_T,Gruber
+213,3,02:21,60,48,CAX,2_Pts_C,Cauê B
+214,3,02:46,58,48,FRA,AS,Léo
+215,3,02:46,58,48,FRA,2_Pts_C,Gruber
+216,3,02:59,58,46,FRA,substituicao_entra,Cassiano
+217,3,02:59,58,46,FRA,substituicao_sai,Coelho
+218,3,02:59,58,46,FRA,tempo_tecnico,Franca
+219,3,02:59,58,46,CAX,AS,Paranhos
+220,3,02:59,58,46,CAX,2_Pts_C,Alex
+221,3,03:04,56,46,CAX,BR,Paranhos
+222,3,03:04,56,46,FRA,ER,Léo
+223,3,03:09,56,46,FRA,RD,João Pedro
+224,3,03:14,56,46,FRA,TO,Léo
+225,3,03:14,56,46,CAX,2_Pts_T,Cauê B
+226,3,03:22,56,46,FRA,ER,Gruber
+227,3,03:40,56,46,CAX,LL_Pts_C,Paranhos
+228,3,03:40,55,46,CAX,LL_Pts_C,Paranhos
+229,3,03:40,54,46,CAX,FR,Paranhos
+230,3,03:40,54,46,FRA,FC,Gruber
+231,3,03:40,54,46,CAX,RO,Paranhos
+232,3,03:42,54,46,CAX,2_Pts_T,Marcão
+233,3,03:47,54,46,FRA,substituicao_entra,Antonio
+234,3,03:47,54,46,FRA,substituicao_sai,Cipolini
+235,3,03:47,54,46,CAX,LL_Pts_C,Marcão
+236,3,03:47,53,46,FRA,FC_T,Cipolini
+237,3,03:47,53,46,FRA,substituicao_entra,Coelho
+238,3,03:47,53,46,FRA,substituicao_sai,Pedro
+239,3,03:48,53,46,FRA,AS,Léo
+240,3,03:48,53,46,FRA,3_Pts_C,Cipolini
+241,3,04:06,53,43,CAX,AS,Cauê V
+242,3,04:06,53,43,CAX,2_Pts_C,Alex
+243,3,04:10,51,43,CAX,BR,Cauê V
+244,3,04:10,51,43,FRA,ER,Pedro
+245,3,04:21,51,43,CAX,ER,Paranhos
+246,3,04:29,51,43,CAX,RD,Cauê V
+247,3,04:32,51,43,FRA,2_Pts_T,Pedro
+248,3,04:48,51,43,FRA,tempo_tecnico,Franca
+249,3,04:49,51,43,CAX,AS,Cauê V
+250,3,04:49,51,43,CAX,2_Pts_C,Paranhos
+251,3,04:52,49,43,CAX,RD,Cauê V
+252,3,04:55,49,43,FRA,2_Pts_T,Léo
+253,3,05:14,49,43,CAX,3_Pts_C,Alex
+254,3,05:35,46,43,FRA,LL_Pts_C,Léo
+255,3,05:35,46,42,FRA,LL_Pts_C,Léo
+256,3,05:35,46,41,FRA,substituicao_entra,João Pedro
+257,3,05:35,46,41,FRA,substituicao_sai,Antonio
+258,3,05:35,46,41,FRA,FR,Léo
+259,3,05:35,46,41,CAX,FC,Marcão
+260,3,06:02,46,41,CAX,AS,Cauê V
+261,3,06:02,46,41,CAX,3_Pts_C,Cauê B
+262,3,06:06,43,41,CAX,RD,Cauê V
+263,3,06:10,43,41,FRA,3_Pts_T,Léo
+264,3,06:18,43,41,FRA,RD,Antonio
+265,3,06:23,43,41,CAX,3_Pts_T,Cauê V
+266,3,06:30,43,41,CAX,BR,Marcão
+267,3,06:30,43,41,FRA,ER,Léo
+268,3,06:37,43,41,FRA,RD,Cipolini
+269,3,06:41,43,41,CAX,2_Pts_T,Paranhos
+270,3,07:02,43,41,CAX,RD,Cauê B
+271,3,07:06,43,41,FRA,3_Pts_T,Gruber
+272,3,07:19,43,41,CAX,AS,Cauê B
+273,3,07:19,43,41,CAX,LL_Pts_C,Marcão
+274,3,07:19,42,41,CAX,LL_Pts_C,Marcão
+275,3,07:19,41,41,CAX,FR,Marcão
+276,3,07:19,41,41,FRA,FC,Léo
+277,3,07:30,41,41,FRA,LL_Pts_C,Pedro
+278,3,07:30,41,40,FRA,FR,Pedro
+279,3,07:30,41,40,CAX,FC,Cauê V
+280,3,07:32,41,40,FRA,AS,Léo
+281,3,07:32,41,40,FRA,2_Pts_C,Pedro
+282,3,07:34,41,38,FRA,FR,Antonio
+283,3,07:34,41,38,CAX,FC,Alex
+284,3,07:44,41,38,FRA,RD,Cipolini
+285,3,07:48,41,38,CAX,3_Pts_T,Alex
+286,3,08:02,41,38,FRA,AS,Cipolini
+287,3,08:02,41,38,FRA,3_Pts_C,Léo
+288,3,08:18,41,35,CAX,ER,Paranhos
+289,3,08:28,41,35,CAX,RD,Paranhos
+290,3,08:32,41,35,FRA,2_Pts_T,Pedro
+291,3,08:35,41,35,FRA,RD,Léo
+292,3,08:39,41,35,CAX,2_Pts_T,Alex
+293,3,08:46,41,35,FRA,substituicao_entra,Gruber
+294,3,08:46,41,35,FRA,substituicao_sai,Coelho
+295,3,08:46,41,35,CAX,substituicao_entra,Marcão
+296,3,08:46,41,35,FRA,FC,Coelho
+297,3,08:46,41,35,CAX,substituicao_sai,Marcão
+298,3,08:46,41,35,CAX,RO,Marcão
+299,3,08:47,41,35,CAX,2_Pts_T,Marcão
+300,3,09:08,41,35,FRA,AS,Antonio
+301,3,09:08,41,35,FRA,2_Pts_C,Léo
+302,3,09:12,41,33,FRA,BR,Antonio
+303,3,09:12,41,33,CAX,ER,Marcão
+304,3,09:25,41,33,CAX,BR,Cauê B
+305,3,09:25,41,33,FRA,ER,Pedro
+306,3,09:39,41,33,FRA,RO,Franca
+307,3,09:43,41,33,FRA,3_Pts_T,Antonio
+308,3,10:00,41,33,,inicio_quarto,
+309,2,00:00,41,33,FRA,RO,Léo
+310,2,00:00,41,33,FRA,3_Pts_T,Léo
+311,2,00:00,41,33,,fim_quarto,
+312,2,00:03,41,33,FRA,RD,Pedro
+313,2,00:07,41,33,CAX,2_Pts_T,Cauê B
+314,2,00:19,41,33,CAX,RD,Paranhos
+315,2,00:30,41,33,CAX,TO,Paranhos
+316,2,00:30,41,33,FRA,2_Pts_T,Léo
+317,2,00:52,41,33,FRA,RD,João Pedro
+318,2,00:53,41,33,CAX,LL_Pts_T,Cauê B
+319,2,00:53,41,33,CAX,LL_Pts_C,Cauê B
+320,2,00:53,40,33,FRA,substituicao_entra,João Pedro
+321,2,00:53,40,33,FRA,substituicao_sai,Coelho
+322,2,00:53,40,33,CAX,FR,Cauê B
+323,2,00:53,40,33,FRA,FC,Coelho
+324,2,00:53,40,33,CAX,RO,Cauê B
+325,2,00:55,40,33,CAX,3_Pts_T,Alex
+326,2,01:02,40,33,CAX,RD,Paranhos
+327,2,01:07,40,33,FRA,2_Pts_T,Antonio
+328,2,01:25,40,33,FRA,substituicao_entra,Coelho
+329,2,01:25,40,33,FRA,substituicao_sai,Cassiano
+330,2,01:25,40,33,CAX,LL_Pts_C,Cauê B
+331,2,01:25,39,33,CAX,LL_Pts_T,Cauê B
+332,2,01:25,39,33,CAX,FR,Cauê B
+333,2,01:25,39,33,FRA,FC,Gruber
+334,2,01:44,39,33,FRA,LL_Pts_C,Antonio
+335,2,01:44,39,32,FRA,LL_Pts_C,Antonio
+336,2,01:44,39,31,CAX,substituicao_entra,Cauê B
+337,2,01:44,39,31,CAX,substituicao_sai,Buboltz
+338,2,01:44,39,31,FRA,FR,Antonio
+339,2,01:44,39,31,CAX,FC,Cafferata
+340,2,01:46,39,31,FRA,RO,Antonio
+341,2,01:50,39,31,FRA,2_Pts_T,Pedro
+342,2,02:05,39,31,FRA,RD,Gruber
+343,2,02:08,39,31,CAX,3_Pts_T,Cafferata
+344,2,02:25,39,31,CAX,RD,Paranhos
+345,2,02:29,39,31,FRA,2_Pts_T,Antonio
+346,2,02:41,39,31,FRA,substituicao_entra,Léo
+347,2,02:41,39,31,FRA,substituicao_sai,João Pedro
+348,2,02:41,39,31,CAX,ER,Cafferata
+349,2,02:53,39,31,CAX,RD,Caxias do Sul
+350,2,02:54,39,31,FRA,3_Pts_T,Antonio
+351,2,03:13,39,31,FRA,substituicao_entra,João Pedro
+352,2,03:13,39,31,FRA,substituicao_sai,João Pedro
+353,2,03:13,39,31,FRA,FR,João Pedro
+354,2,03:13,39,31,CAX,ER,Cauê V
+355,2,03:13,39,31,CAX,FC_O,Cauê V
+356,2,03:26,39,31,FRA,LL_Pts_C,Antonio
+357,2,03:26,39,30,FRA,LL_Pts_C,Antonio
+358,2,03:26,39,29,FRA,LL_Pts_C,Antonio
+359,2,03:26,39,28,CAX,substituicao_entra,Buboltz
+360,2,03:26,39,28,CAX,substituicao_sai,Pedro
+361,2,03:26,39,28,CAX,substituicao_entra,Cauê V
+362,2,03:26,39,28,CAX,substituicao_sai,Cauê B
+363,2,03:26,39,28,FRA,substituicao_entra,Cassiano
+364,2,03:26,39,28,FRA,substituicao_sai,Coelho
+365,2,03:26,39,28,FRA,FR,Antonio
+366,2,03:26,39,28,CAX,FC,Pedro
+367,2,03:42,39,28,CAX,AS,Cafferata
+368,2,03:42,39,28,CAX,2_Pts_C,Alex
+369,2,03:51,37,28,FRA,substituicao_entra,Antonio
+370,2,03:51,37,28,FRA,substituicao_sai,Cipolini
+371,2,04:03,37,28,FRA,2_Pts_C,Pedro
+372,2,04:07,37,26,FRA,substituicao_entra,Gruber
+373,2,04:07,37,26,FRA,substituicao_sai,Gruber
+374,2,04:07,37,26,FRA,substituicao_entra,João Pedro
+375,2,04:07,37,26,FRA,substituicao_entra,Gruber
+376,2,04:07,37,26,FRA,substituicao_sai,Gruber
+377,2,04:07,37,26,FRA,substituicao_sai,João Pedro
+378,2,04:07,37,26,FRA,substituicao_entra,João Pedro
+379,2,04:07,37,26,FRA,substituicao_sai,Antonio
+380,2,04:07,37,26,FRA,FR,Coelho
+381,2,04:07,37,26,CAX,FC,Cafferata
+382,2,04:21,37,26,CAX,AS,Cauê B
+383,2,04:21,37,26,CAX,2_Pts_C,Paranhos
+384,2,04:38,35,26,FRA,AS,Coelho
+385,2,04:38,35,26,FRA,2_Pts_C,Cipolini
+386,2,04:56,35,24,CAX,LL_Pts_C,Cauê B
+387,2,04:56,34,24,FRA,substituicao_entra,Antonio
+388,2,04:56,34,24,FRA,substituicao_sai,Léo
+389,2,04:56,34,24,CAX,FR,Cauê B
+390,2,04:56,34,24,FRA,FC,Coelho
+391,2,04:56,34,24,CAX,2_Pts_C,Cauê B
+392,2,04:56,32,24,CAX,BR,Cauê B
+393,2,04:56,32,24,FRA,ER,Léo
+394,2,05:17,32,24,CAX,2_Pts_C,Pedro
+395,2,05:33,30,24,FRA,ER,Léo
+396,2,05:38,30,24,FRA,RD,Cipolini
+397,2,05:39,30,24,CAX,LL_Pts_T,Paranhos
+398,2,05:39,30,24,CAX,LL_Pts_C,Paranhos
+399,2,05:39,29,24,CAX,FR,Paranhos
+400,2,05:39,29,24,FRA,FC,Cipolini
+401,2,05:39,29,24,FRA,substituicao_entra,Cipolini
+402,2,05:39,29,24,FRA,substituicao_sai,João Pedro
+403,2,05:39,29,24,FRA,tempo_tecnico,Franca
+404,2,05:47,29,24,CAX,FR,Cafferata
+405,2,05:47,29,24,FRA,FC,Léo
+406,2,05:47,29,24,CAX,RD,Cafferata
+407,2,05:53,29,24,FRA,3_Pts_T,Cipolini
+408,2,06:07,29,24,CAX,LL_Pts_C,Cauê B
+409,2,06:07,28,24,CAX,FR,Cauê B
+410,2,06:07,28,24,FRA,FC,Pedro
+411,2,06:07,28,24,CAX,2_Pts_C,Cauê B
+412,2,06:07,26,24,CAX,BR,Cauê B
+413,2,06:07,26,24,FRA,ER,Pedro
+414,2,06:11,26,24,FRA,RD,Pedro
+415,2,06:14,26,24,CAX,3_Pts_T,Cafferata
+416,2,06:17,26,24,CAX,RD,Paranhos
+417,2,06:21,26,24,FRA,3_Pts_T,Coelho
+418,2,06:37,26,24,FRA,substituicao_entra,Gruber
+419,2,06:37,26,24,FRA,substituicao_sai,Antonio
+420,2,06:37,26,24,CAX,ER,Cafferata
+421,2,06:49,26,24,FRA,2_Pts_C,Léo
+422,2,06:57,26,22,CAX,LL_Pts_C,Paranhos
+423,2,06:57,25,22,CAX,FR,Paranhos
+424,2,06:57,25,22,FRA,FC,Coelho
+425,2,06:57,25,22,CAX,AS,Cauê B
+426,2,06:57,25,22,CAX,2_Pts_C,Paranhos
+427,2,07:08,23,22,CAX,RD,Alex
+428,2,07:11,23,22,FRA,2_Pts_T,Léo
+429,2,07:24,23,22,FRA,FR,Léo
+430,2,07:24,23,22,CAX,FC,Pedro
+431,2,07:44,23,22,CAX,2_Pts_C,Pedro
+432,2,07:51,21,22,FRA,substituicao_entra,Pedro
+433,2,07:51,21,22,FRA,substituicao_sai,Didi
+434,2,07:51,21,22,FRA,substituicao_entra,Coelho
+435,2,07:51,21,22,FRA,substituicao_sai,Cassiano
+436,2,07:51,21,22,CAX,RO,Caxias do Sul
+437,2,07:54,21,22,CAX,2_Pts_T,Cauê B
+438,2,07:57,21,22,CAX,RD,Cauê B
+439,2,08:01,21,22,FRA,3_Pts_T,Antonio
+440,2,08:13,21,22,CAX,2_Pts_C,Pedro
+441,2,08:16,19,22,CAX,BR,Pedro
+442,2,08:16,19,22,FRA,ER,Cassiano
+443,2,08:29,19,22,FRA,LL_Pts_C,Léo
+444,2,08:29,19,21,CAX,substituicao_entra,Paranhos
+445,2,08:29,19,21,CAX,substituicao_sai,Marcão
+446,2,08:29,19,21,CAX,FC_T,Marcão
+447,2,08:29,19,21,CAX,RD,Caxias do Sul
+448,2,08:33,19,21,FRA,3_Pts_T,Léo
+449,2,08:35,19,21,FRA,RD,Cassiano
+450,2,08:38,19,21,CAX,2_Pts_T,Marcão
+451,2,08:40,19,21,CAX,RO,Marcão
+452,2,08:43,19,21,CAX,2_Pts_T,Marcão
+453,2,08:49,19,21,CAX,RO,Caxias do Sul
+454,2,08:52,19,21,CAX,3_Pts_T,Pedro
+455,2,09:15,19,21,FRA,2_Pts_C,João Pedro
+456,2,09:21,19,19,FRA,RO,João Pedro
+457,2,09:21,19,19,FRA,3_Pts_T,Cassiano
+458,2,09:40,19,19,CAX,AS,Pedro
+459,2,09:40,19,19,CAX,2_Pts_C,Marcão
+460,2,10:00,17,19,,inicio_quarto,
+461,1,00:00,17,19,,fim_quarto,
+462,1,00:11,17,19,FRA,RD,Antonio
+463,1,00:15,17,19,CAX,3_Pts_T,Pedro
+464,1,00:24,17,19,CAX,FR,Cafferata
+465,1,00:24,17,19,FRA,FC,Léo
+466,1,00:37,17,19,FRA,substituicao_entra,Didi
+467,1,00:37,17,19,FRA,substituicao_sai,Pedro
+468,1,00:37,17,19,FRA,substituicao_entra,João Pedro
+469,1,00:37,17,19,FRA,substituicao_sai,Cipolini
+470,1,00:37,17,19,FRA,2_Pts_C,Cipolini
+471,1,00:38,17,17,FRA,RO,Cipolini
+472,1,00:38,17,17,FRA,2_Pts_T,Antonio
+473,1,00:41,17,17,FRA,BR,Cipolini
+474,1,00:41,17,17,CAX,ER,Cafferata
+475,1,01:01,17,17,FRA,2_Pts_C,Léo
+476,1,01:06,17,15,FRA,RO,Léo
+477,1,01:06,17,15,FRA,3_Pts_T,Cassiano
+478,1,01:20,17,15,FRA,RD,Léo
+479,1,01:24,17,15,CAX,2_Pts_T,Alex
+480,1,01:43,17,15,CAX,substituicao_entra,Marcão
+481,1,01:43,17,15,CAX,substituicao_sai,Paranhos
+482,1,01:43,17,15,CAX,substituicao_entra,Cafferata
+483,1,01:43,17,15,CAX,substituicao_sai,Cauê V
+484,1,01:43,17,15,FRA,substituicao_entra,Antonio
+485,1,01:43,17,15,FRA,substituicao_sai,Gruber
+486,1,01:43,17,15,CAX,FR,Cauê B
+487,1,01:43,17,15,FRA,ER,Cassiano
+488,1,01:43,17,15,FRA,FC_O,Cassiano
+489,1,01:52,17,15,CAX,AS,Cauê V
+490,1,01:52,17,15,CAX,3_Pts_C,Alex
+491,1,02:11,14,15,FRA,AS,Cassiano
+492,1,02:11,14,15,FRA,2_Pts_C,Gruber
+493,1,02:17,14,13,FRA,RD,Cipolini
+494,1,02:20,14,13,CAX,2_Pts_T,Alex
+495,1,02:33,14,13,CAX,RD,Pedro
+496,1,02:33,14,13,FRA,LL_Pts_T,Léo
+497,1,02:33,14,13,FRA,LL_Pts_C,Léo
+498,1,02:33,14,12,FRA,FR,Léo
+499,1,02:33,14,12,CAX,FC,Pedro
+500,1,02:49,14,12,FRA,FR,Cassiano
+501,1,02:49,14,12,CAX,ER,Paranhos
+502,1,02:49,14,12,CAX,FC_O,Paranhos
+503,1,02:57,14,12,CAX,BR,Pedro
+504,1,02:57,14,12,FRA,ER,Cipolini
+505,1,03:02,14,12,FRA,RD,Cipolini
+506,1,03:06,14,12,CAX,2_Pts_T,Paranhos
+507,1,03:07,14,12,CAX,RO,Paranhos
+508,1,03:11,14,12,CAX,3_Pts_T,Cauê B
+509,1,03:23,14,12,CAX,FR,Paranhos
+510,1,03:23,14,12,FRA,FC,Gruber
+511,1,03:32,14,12,FRA,LL_Pts_C,Cipolini
+512,1,03:32,14,11,FRA,substituicao_entra,Léo
+513,1,03:32,14,11,FRA,substituicao_sai,Antonio
+514,1,03:32,14,11,CAX,substituicao_entra,Pedro
+515,1,03:32,14,11,CAX,substituicao_sai,Jonathan
+516,1,03:32,14,11,FRA,FR,Cipolini
+517,1,03:32,14,11,CAX,FC,Jonathan
+518,1,03:32,14,11,FRA,AS,Pedro
+519,1,03:32,14,11,FRA,EN,Cipolini
+520,1,03:37,14,9,FRA,RD,Gruber
+521,1,03:41,14,9,CAX,3_Pts_T,Alex
+522,1,03:47,14,9,CAX,FR,Cauê B
+523,1,03:47,14,9,FRA,FC,Gruber
+524,1,03:48,14,9,CAX,BR,Cauê B
+525,1,03:48,14,9,FRA,ER,Pedro
+526,1,03:51,14,9,FRA,substituicao_entra,Antonio
+527,1,03:51,14,9,FRA,substituicao_sai,Coelho
+528,1,03:51,14,9,FRA,substituicao_entra,Cassiano
+529,1,03:51,14,9,FRA,substituicao_sai,Antonio
+530,1,03:51,14,9,FRA,substituicao_entra,Cipolini
+531,1,03:51,14,9,FRA,substituicao_sai,João Pedro
+532,1,03:51,14,9,FRA,RO,Franca
+533,1,03:52,14,9,CAX,TO,Cauê V
+534,1,03:52,14,9,FRA,2_Pts_T,Pedro
+535,1,03:58,14,9,FRA,BR,Antonio
+536,1,03:58,14,9,CAX,ER,Cauê V
+537,1,04:03,14,9,CAX,RD,Cauê V
+538,1,04:07,14,9,FRA,2_Pts_T,Gruber
+539,1,04:31,14,9,FRA,substituicao_entra,Pedro
+540,1,04:31,14,9,FRA,substituicao_sai,Léo
+541,1,04:31,14,9,CAX,substituicao_entra,Jonathan
+542,1,04:31,14,9,CAX,substituicao_sai,Marcão
+543,1,04:31,14,9,FRA,substituicao_entra,Gruber
+544,1,04:31,14,9,FRA,substituicao_sai,Cipolini
+545,1,04:42,14,9,CAX,3_Pts_C,Cauê V
+546,1,04:47,11,9,CAX,BR,Marcão
+547,1,04:47,11,9,FRA,ER,Léo
+548,1,05:10,11,9,FRA,RD,João Pedro
+549,1,05:14,11,9,CAX,2_Pts_T,Marcão
+550,1,05:21,11,9,CAX,RD,Caxias do Sul
+551,1,05:29,11,9,CAX,TO,Marcão
+552,1,05:29,11,9,FRA,2_Pts_T,João Pedro
+553,1,05:44,11,9,CAX,ER,Paranhos
+554,1,05:55,11,9,FRA,2_Pts_C,João Pedro
+555,1,06:02,11,7,FRA,RO,João Pedro
+556,1,06:02,11,7,FRA,2_Pts_T,João Pedro
+557,1,06:21,11,7,FRA,FR,Léo
+558,1,06:21,11,7,CAX,FC,Cauê V
+559,1,06:29,11,7,CAX,2_Pts_C,Cauê B
+560,1,06:37,9,7,CAX,RD,Paranhos
+561,1,06:38,9,7,FRA,LL_Pts_T,João Pedro
+562,1,06:38,9,7,FRA,LL_Pts_T,João Pedro
+563,1,06:38,9,7,FRA,FR,João Pedro
+564,1,06:38,9,7,CAX,FC,Paranhos
+565,1,07:06,9,7,CAX,2_Pts_C,Cauê B
+566,1,07:14,7,7,CAX,RD,Cauê B
+567,1,07:18,7,7,FRA,2_Pts_T,João Pedro
+568,1,07:39,7,7,CAX,2_Pts_C,Paranhos
+569,1,08:07,5,7,FRA,AS,Coelho
+570,1,08:07,5,7,FRA,3_Pts_C,Cipolini
+571,1,08:17,5,4,FRA,RO,Léo
+572,1,08:21,5,4,FRA,2_Pts_T,Cipolini
+573,1,08:44,5,4,CAX,AS,Cauê V
+574,1,08:44,5,4,CAX,3_Pts_C,Marcão
+575,1,08:55,2,4,FRA,2_Pts_C,Cipolini
+576,1,09:18,2,2,CAX,2_Pts_C,Paranhos
+577,1,09:36,0,2,FRA,AS,Coelho
+578,1,09:36,0,2,FRA,2_Pts_C,João Pedro
+579,1,10:00,0,0,FRA,substituicao_entra,Léo
+580,1,10:00,0,0,FRA,substituicao_entra,João Pedro
+581,1,10:00,0,0,FRA,substituicao_entra,Cipolini
+582,1,10:00,0,0,FRA,substituicao_entra,Antonio
+583,1,10:00,0,0,FRA,substituicao_entra,Coelho
+584,1,10:00,0,0,CAX,substituicao_entra,Paranhos
+585,1,10:00,0,0,CAX,substituicao_entra,Marcão
+586,1,10:00,0,0,CAX,substituicao_entra,Cauê V
+587,1,10:00,0,0,CAX,substituicao_entra,Cauê B
+588,1,10:00,0,0,CAX,substituicao_entra,Alex

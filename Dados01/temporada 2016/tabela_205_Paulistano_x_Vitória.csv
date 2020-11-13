@@ -1,0 +1,563 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,83,66,,fim_partida,
+1,4,00:05,83,66,VIT,LL_Pts_C,Arthur
+2,4,00:05,83,65,VIT,FR,Arthur
+3,4,00:05,83,65,CAP,FC,Renato
+4,4,00:05,83,65,VIT,2_Pts_C,Arthur
+5,4,00:17,83,63,CAP,LL_Pts_C,Lucas Dias
+6,4,00:17,82,63,CAP,LL_Pts_C,Lucas Dias
+7,4,00:17,81,63,CAP,substituicao_entra,Renato
+8,4,00:17,81,63,CAP,substituicao_sai,Yago
+9,4,00:17,81,63,CAP,FR,Lucas Dias
+10,4,00:17,81,63,VIT,FC,Renato
+11,4,00:21,81,63,VIT,substituicao_entra,Murilo
+12,4,00:21,81,63,VIT,substituicao_sai,Dawkins
+13,4,00:21,81,63,CAP,substituicao_entra,Yago
+14,4,00:21,81,63,CAP,substituicao_sai,Renato
+15,4,00:21,81,63,VIT,,
+16,4,00:21,81,63,VIT,RO,Vitória
+17,4,00:21,81,63,CAP,TO,De Paula
+18,4,00:21,81,63,VIT,3_Pts_T,Arthur
+19,4,00:27,81,63,CAP,2_Pts_C,Arthur Pecos
+20,4,00:29,79,63,CAP,RD,Arthur Pecos
+21,4,00:33,79,63,VIT,3_Pts_T,André
+22,4,00:37,79,63,VIT,FR,Coimbra
+23,4,00:37,79,63,CAP,FC,Jhonatan
+24,4,00:40,79,63,VIT,substituicao_entra,André
+25,4,00:40,79,63,VIT,substituicao_sai,Keyron
+26,4,00:40,79,63,CAP,substituicao_entra,Renato
+27,4,00:40,79,63,CAP,substituicao_sai,Guilherme
+28,4,00:40,79,63,VIT,tempo_tecnico,
+29,4,00:40,79,63,CAP,LL_Pts_C,De Paula
+30,4,00:40,78,63,CAP,LL_Pts_C,De Paula
+31,4,00:40,77,63,CAP,FR,De Paula
+32,4,00:40,77,63,VIT,FC,Renato
+33,4,00:43,77,63,CAP,BR,Lucas Dias
+34,4,00:43,77,63,VIT,ER,Keyron
+35,4,00:56,77,63,VIT,RD,Vitória
+36,4,00:56,77,63,CAP,3_Pts_T,De Paula
+37,4,01:19,77,63,VIT,ER,Dawkins
+38,4,01:20,77,63,VIT,RD,Arthur
+39,4,01:26,77,63,CAP,3_Pts_T,Jhonatan
+40,4,01:39,77,63,CAP,RD,Guilherme
+41,4,01:43,77,63,VIT,2_Pts_T,Dawkins
+42,4,01:59,77,63,CAP,AS,Arthur Pecos
+43,4,01:59,77,63,CAP,3_Pts_C,Lucas Dias
+44,4,02:18,74,63,CAP,RD,Guilherme
+45,4,02:23,74,63,VIT,3_Pts_T,Arthur
+46,4,02:37,74,63,VIT,RD,Vitória
+47,4,02:38,74,63,CAP,2_Pts_T,Lucas Dias
+48,4,02:43,74,63,CAP,RD,Arthur Pecos
+49,4,02:47,74,63,VIT,3_Pts_T,Dawkins
+50,4,02:57,74,63,VIT,RD,Vitória
+51,4,03:01,74,63,CAP,3_Pts_T,Jhonatan
+52,4,03:12,74,63,VIT,LL_Pts_C,Dawkins
+53,4,03:12,74,62,VIT,LL_Pts_C,Dawkins
+54,4,03:12,74,61,VIT,FR,Dawkins
+55,4,03:12,74,61,CAP,FC,Arthur Pecos
+56,4,03:34,74,61,CAP,LL_Pts_C,Jhonatan
+57,4,03:34,73,61,CAP,LL_Pts_C,Jhonatan
+58,4,03:34,72,61,CAP,FR,Jhonatan
+59,4,03:34,72,61,VIT,FC,Renato
+60,4,03:47,72,61,CAP,LL_Pts_C,Lucas Dias
+61,4,03:47,71,61,VIT,substituicao_entra,Keyron
+62,4,03:47,71,61,VIT,substituicao_sai,André
+63,4,03:47,71,61,VIT,tempo_tecnico,
+64,4,03:47,71,61,CAP,substituicao_entra,Jhonatan
+65,4,03:47,71,61,CAP,substituicao_sai,Hure
+66,4,03:47,71,61,VIT,FC_T,André
+67,4,03:47,71,61,CAP,RD,Paulistano
+68,4,03:47,71,61,VIT,2_Pts_T,André
+69,4,03:53,71,61,VIT,RD,André
+70,4,03:56,71,61,CAP,3_Pts_T,Arthur Pecos
+71,4,04:09,71,61,VIT,AS,André
+72,4,04:09,71,61,VIT,2_Pts_C,Renato
+73,4,04:27,71,59,VIT,RD,Coimbra
+74,4,04:32,71,59,CAP,3_Pts_T,Lucas Dias
+75,4,04:45,71,59,CAP,BR,Arthur Pecos
+76,4,04:45,71,59,VIT,ER,Arthur
+77,4,05:10,71,59,CAP,LL_Pts_C,De Paula
+78,4,05:10,70,59,CAP,LL_Pts_C,De Paula
+79,4,05:10,69,59,CAP,FR,De Paula
+80,4,05:10,69,59,VIT,FC,Coimbra
+81,4,05:24,69,59,CAP,RD,Guilherme
+82,4,05:29,69,59,VIT,3_Pts_T,André
+83,4,05:37,69,59,VIT,substituicao_entra,Coimbra
+84,4,05:37,69,59,VIT,substituicao_sai,Kurtz
+85,4,05:37,69,59,CAP,substituicao_entra,Guilherme
+86,4,05:37,69,59,CAP,substituicao_sai,Renato
+87,4,05:37,69,59,CAP,substituicao_entra,Hure
+88,4,05:37,69,59,CAP,substituicao_sai,Jhonatan
+89,4,05:37,69,59,VIT,FR,Dawkins
+90,4,05:37,69,59,CAP,FC,Renato
+91,4,05:46,69,59,CAP,2_Pts_C,Arthur Pecos
+92,4,06:07,67,59,VIT,AS,Dawkins
+93,4,06:07,67,59,VIT,3_Pts_C,Arthur
+94,4,06:20,67,56,VIT,RD,Renato
+95,4,06:23,67,56,CAP,2_Pts_T,Renato
+96,4,06:32,67,56,CAP,FR,Jhonatan
+97,4,06:32,67,56,VIT,FC,Renato
+98,4,06:34,67,56,CAP,FR,Renato
+99,4,06:34,67,56,VIT,FC,André
+100,4,06:39,67,56,CAP,tempo_tecnico,
+101,4,06:39,67,56,CAP,RO,Paulistano
+102,4,06:42,67,56,CAP,3_Pts_T,Jhonatan
+103,4,07:05,67,56,VIT,AS,André
+104,4,07:05,67,56,VIT,3_Pts_C,Arthur
+105,4,07:17,67,53,VIT,substituicao_entra,André
+106,4,07:17,67,53,VIT,substituicao_sai,Keyron
+107,4,07:17,67,53,CAP,LL_Pts_C,De Paula
+108,4,07:17,66,53,CAP,LL_Pts_T,De Paula
+109,4,07:17,66,53,CAP,FR,De Paula
+110,4,07:17,66,53,VIT,FC,Keyron
+111,4,07:23,66,53,CAP,substituicao_entra,Lucas Dias
+112,4,07:23,66,53,CAP,substituicao_sai,Guilherme
+113,4,07:23,66,53,CAP,substituicao_entra,Renato
+114,4,07:23,66,53,CAP,substituicao_sai,Hure
+115,4,07:23,66,53,CAP,RO,Paulistano
+116,4,07:25,66,53,CAP,3_Pts_T,Hure
+117,4,07:48,66,53,CAP,RD,Hure
+118,4,07:52,66,53,VIT,3_Pts_T,Renato
+119,4,08:07,66,53,CAP,2_Pts_C,Arthur Pecos
+120,4,08:11,64,53,CAP,BR,Jhonatan
+121,4,08:11,64,53,VIT,ER,Keyron
+122,4,08:14,64,53,VIT,RD,Keyron
+123,4,08:18,64,53,CAP,3_Pts_T,Arthur Pecos
+124,4,08:55,64,53,VIT,AS,Dawkins
+125,4,08:55,64,53,VIT,3_Pts_C,Renato
+126,4,09:04,64,50,CAP,ER,Guilherme
+127,4,09:28,64,50,VIT,AS,Dawkins
+128,4,09:28,64,50,VIT,3_Pts_C,Renato
+129,4,09:38,64,47,CAP,AS,De Paula
+130,4,09:38,64,47,CAP,3_Pts_C,Jhonatan
+131,4,10:00,61,47,,inicio_quarto,
+132,3,00:00,61,47,VIT,substituicao_sai,Coimbra
+133,3,00:00,61,47,VIT,substituicao_sai,André
+134,3,00:00,61,47,VIT,substituicao_sai,Dawkins
+135,3,00:00,61,47,VIT,substituicao_sai,Renato
+136,3,00:00,61,47,VIT,substituicao_sai,Keyron
+137,3,00:00,61,47,CAP,substituicao_sai,Renato
+138,3,00:00,61,47,CAP,substituicao_sai,Arthur Pecos
+139,3,00:00,61,47,CAP,substituicao_sai,Hure
+140,3,00:00,61,47,CAP,substituicao_sai,Victor André
+141,3,00:00,61,47,CAP,substituicao_sai,Jhonatan
+142,3,00:00,61,47,CAP,substituicao_entra,Victor André
+143,3,00:00,61,47,CAP,substituicao_sai,Mogi
+144,3,00:00,61,47,,fim_quarto,
+145,3,00:09,61,47,VIT,AS,Dawkins
+146,3,00:09,61,47,VIT,2_Pts_C,André
+147,3,00:11,61,45,VIT,RD,Dawkins
+148,3,00:15,61,45,CAP,3_Pts_T,Renato
+149,3,00:43,61,45,VIT,3_Pts_C,Dawkins
+150,3,00:51,61,42,VIT,RD,Renato
+151,3,00:54,61,42,CAP,3_Pts_T,Jhonatan
+152,3,01:13,61,42,VIT,AS,Renato
+153,3,01:13,61,42,VIT,2_Pts_C,Dawkins
+154,3,01:23,61,40,CAP,AS,Arthur Pecos
+155,3,01:23,61,40,CAP,3_Pts_C,Hure
+156,3,01:46,58,40,CAP,RD,Hure
+157,3,01:48,58,40,VIT,2_Pts_T,Renato
+158,3,02:08,58,40,VIT,substituicao_entra,Renato
+159,3,02:08,58,40,VIT,substituicao_sai,Arthur
+160,3,02:08,58,40,VIT,tempo_tecnico,
+161,3,02:13,58,40,CAP,AS,Arthur Pecos
+162,3,02:13,58,40,CAP,3_Pts_C,Hure
+163,3,02:17,55,40,CAP,RO,Renato
+164,3,02:19,55,40,CAP,2_Pts_T,Hure
+165,3,02:25,55,40,CAP,RO,Mogi
+166,3,02:27,55,40,VIT,TO,Coimbra
+167,3,02:27,55,40,CAP,2_Pts_T,Mogi
+168,3,02:41,55,40,CAP,RD,Hure
+169,3,02:42,55,40,VIT,LL_Pts_T,Coimbra
+170,3,02:42,55,40,VIT,LL_Pts_C,Coimbra
+171,3,02:42,55,39,CAP,substituicao_entra,Jhonatan
+172,3,02:42,55,39,CAP,substituicao_sai,De Paula
+173,3,02:42,55,39,CAP,substituicao_entra,Mogi
+174,3,02:42,55,39,CAP,substituicao_sai,Lucas Dias
+175,3,02:42,55,39,VIT,FR,Coimbra
+176,3,02:42,55,39,CAP,FC,Arthur Pecos
+177,3,02:42,55,39,VIT,RO,Coimbra
+178,3,02:43,55,39,VIT,2_Pts_T,André
+179,3,03:02,55,39,CAP,AS,Renato
+180,3,03:02,55,39,CAP,2_Pts_C,Hure
+181,3,03:20,53,39,CAP,RD,Renato
+182,3,03:23,53,39,VIT,2_Pts_T,Keyron
+183,3,03:29,53,39,VIT,RD,Keyron
+184,3,03:32,53,39,CAP,3_Pts_T,Hure
+185,3,03:36,53,39,CAP,RD,Lucas Dias
+186,3,03:41,53,39,CAP,TO,Lucas Dias
+187,3,03:41,53,39,VIT,2_Pts_T,Coimbra
+188,3,04:04,53,39,CAP,3_Pts_C,Arthur Pecos
+189,3,04:23,50,39,VIT,2_Pts_C,Dawkins
+190,3,04:38,50,37,VIT,RD,Vitória
+191,3,04:38,50,37,CAP,2_Pts_T,Arthur Pecos
+192,3,04:38,50,37,VIT,substituicao_entra,Arthur
+193,3,04:38,50,37,VIT,substituicao_sai,Renato
+194,3,04:41,50,37,CAP,BR,Arthur Pecos
+195,3,04:41,50,37,VIT,ER,Coimbra
+196,3,04:49,50,37,VIT,RD,Dawkins
+197,3,04:53,50,37,CAP,3_Pts_T,De Paula
+198,3,04:57,50,37,CAP,RD,De Paula
+199,3,05:00,50,37,VIT,3_Pts_T,Renato
+200,3,05:19,50,37,CAP,AS,Hure
+201,3,05:19,50,37,CAP,2_Pts_C,Renato
+202,3,05:46,48,37,VIT,AS,Renato
+203,3,05:46,48,37,VIT,2_Pts_C,Dawkins
+204,3,05:49,48,35,VIT,RO,Vitória
+205,3,05:49,48,35,CAP,TO,De Paula
+206,3,05:49,48,35,VIT,2_Pts_T,André
+207,3,05:51,48,35,VIT,RD,Dawkins
+208,3,05:54,48,35,CAP,3_Pts_T,Lucas Dias
+209,3,05:59,48,35,CAP,RD,Arthur Pecos
+210,3,06:02,48,35,VIT,3_Pts_T,Renato
+211,3,06:19,48,35,CAP,substituicao_entra,Renato
+212,3,06:19,48,35,CAP,substituicao_sai,Guilherme
+213,3,06:20,48,35,VIT,RD,Keyron
+214,3,06:25,48,35,CAP,3_Pts_T,Hure
+215,3,06:39,48,35,VIT,LL_Pts_C,Renato
+216,3,06:39,48,34,VIT,LL_Pts_T,Renato
+217,3,06:39,48,34,VIT,FR,Renato
+218,3,06:39,48,34,CAP,FC,Hure
+219,3,06:40,48,34,VIT,RO,Renato
+220,3,06:44,48,34,VIT,3_Pts_T,Renato
+221,3,07:06,48,34,CAP,AS,Arthur Pecos
+222,3,07:06,48,34,CAP,2_Pts_C,Guilherme
+223,3,07:10,46,34,CAP,RD,Hure
+224,3,07:13,46,34,VIT,3_Pts_T,Dawkins
+225,3,07:31,46,34,CAP,2_Pts_C,Arthur Pecos
+226,3,07:35,44,34,CAP,BR,Hure
+227,3,07:35,44,34,VIT,ER,André
+228,3,07:50,44,34,VIT,RD,André
+229,3,07:52,44,34,CAP,2_Pts_T,De Paula
+230,3,08:03,44,34,VIT,substituicao_entra,André
+231,3,08:03,44,34,VIT,substituicao_sai,Arthur
+232,3,08:03,44,34,CAP,FR,Arthur Pecos
+233,3,08:03,44,34,VIT,FC,Arthur
+234,3,08:04,44,34,CAP,RO,Arthur Pecos
+235,3,08:07,44,34,CAP,3_Pts_T,De Paula
+236,3,08:20,44,34,CAP,RO,Arthur Pecos
+237,3,08:22,44,34,CAP,2_Pts_T,Arthur Pecos
+238,3,08:27,44,34,CAP,BR,Arthur Pecos
+239,3,08:27,44,34,VIT,ER,Keyron
+240,3,08:38,44,34,VIT,RD,Coimbra
+241,3,08:42,44,34,CAP,2_Pts_T,De Paula
+242,3,08:44,44,34,CAP,RD,De Paula
+243,3,08:47,44,34,VIT,2_Pts_T,Arthur
+244,3,09:02,44,34,VIT,RD,Renato
+245,3,09:06,44,34,CAP,3_Pts_T,Guilherme
+246,3,09:21,44,34,VIT,2_Pts_C,Keyron
+247,3,09:39,44,32,CAP,AS,Guilherme
+248,3,09:39,44,32,CAP,2_Pts_C,Hure
+249,3,09:42,42,32,CAP,RO,Guilherme
+250,3,09:45,42,32,CAP,2_Pts_T,Guilherme
+251,3,10:00,42,32,,inicio_quarto,
+252,2,00:00,42,32,CAP,substituicao_sai,Eddy
+253,2,00:00,42,32,CAP,substituicao_sai,Victor André
+254,2,00:00,42,32,CAP,substituicao_sai,Lucas Dias
+255,2,00:00,42,32,CAP,substituicao_sai,Luis Fernando
+256,2,00:00,42,32,CAP,substituicao_sai,Yago
+257,2,00:00,42,32,VIT,substituicao_sai,André
+258,2,00:00,42,32,VIT,substituicao_sai,Braga
+259,2,00:00,42,32,VIT,substituicao_sai,Renato
+260,2,00:00,42,32,VIT,substituicao_sai,Murilo
+261,2,00:00,42,32,VIT,substituicao_sai,Keyron
+262,2,00:00,42,32,CAP,RO,Yago
+263,2,00:00,42,32,,fim_quarto,
+264,2,00:02,42,32,CAP,3_Pts_T,Lucas Dias
+265,2,00:11,42,32,CAP,substituicao_entra,Lucas Dias
+266,2,00:11,42,32,CAP,substituicao_sai,Renato
+267,2,00:11,42,32,VIT,substituicao_entra,Braga
+268,2,00:11,42,32,VIT,substituicao_sai,Kurtz
+269,2,00:11,42,32,VIT,substituicao_entra,Renato
+270,2,00:11,42,32,VIT,substituicao_sai,Arthur
+271,2,00:11,42,32,CAP,tempo_tecnico,
+272,2,00:11,42,32,CAP,FR,Yago
+273,2,00:11,42,32,VIT,ER,Kurtz
+274,2,00:11,42,32,VIT,FC_O,Kurtz
+275,2,00:22,42,32,CAP,substituicao_entra,Victor André
+276,2,00:22,42,32,CAP,substituicao_sai,Hure
+277,2,00:22,42,32,CAP,substituicao_entra,Yago
+278,2,00:22,42,32,CAP,substituicao_sai,Arthur Pecos
+279,2,00:22,42,32,CAP,substituicao_entra,Luis Fernando
+280,2,00:22,42,32,CAP,substituicao_sai,Lucas Dias
+281,2,00:22,42,32,VIT,RD,Vitória
+282,2,00:23,42,32,CAP,3_Pts_T,Hure
+283,2,00:30,42,32,CAP,RD,Lucas Dias
+284,2,00:33,42,32,VIT,2_Pts_T,Kurtz
+285,2,00:41,42,32,VIT,BR,Keyron
+286,2,00:41,42,32,CAP,ER,Lucas Dias
+287,2,00:50,42,32,VIT,LL_Pts_C,Kurtz
+288,2,00:50,42,31,VIT,LL_Pts_T,Kurtz
+289,2,00:50,42,31,CAP,tempo_tecnico,
+290,2,00:50,42,31,VIT,FR,Kurtz
+291,2,00:50,42,31,CAP,FC,Lucas Dias
+292,2,00:50,42,31,VIT,RO,Kurtz
+293,2,00:51,42,31,VIT,2_Pts_T,Arthur
+294,2,01:11,42,31,CAP,LL_Pts_C,Lucas Dias
+295,2,01:11,41,31,CAP,LL_Pts_C,Lucas Dias
+296,2,01:11,40,31,CAP,FR,Lucas Dias
+297,2,01:11,40,31,VIT,FC,André
+298,2,01:11,40,31,CAP,RO,Lucas Dias
+299,2,01:11,40,31,CAP,2_Pts_T,Lucas Dias
+300,2,01:14,40,31,CAP,BR,Arthur Pecos
+301,2,01:14,40,31,VIT,ER,André
+302,2,01:26,40,31,CAP,ER,Lucas Dias
+303,2,01:35,40,31,CAP,RD,Eddy
+304,2,01:39,40,31,VIT,3_Pts_T,André
+305,2,01:51,40,31,VIT,substituicao_entra,Murilo
+306,2,01:51,40,31,VIT,substituicao_sai,Dawkins
+307,2,01:51,40,31,VIT,substituicao_entra,Arthur
+308,2,01:51,40,31,VIT,substituicao_sai,Renato
+309,2,01:51,40,31,CAP,substituicao_entra,Eddy
+310,2,01:51,40,31,CAP,substituicao_sai,Mogi
+311,2,01:51,40,31,CAP,substituicao_entra,Hure
+312,2,01:51,40,31,CAP,substituicao_sai,Jhonatan
+313,2,01:51,40,31,CAP,substituicao_entra,Renato
+314,2,01:51,40,31,CAP,substituicao_sai,De Paula
+315,2,01:51,40,31,CAP,substituicao_entra,Arthur Pecos
+316,2,01:51,40,31,CAP,substituicao_sai,Guilherme
+317,2,01:51,40,31,VIT,FR,Keyron
+318,2,01:51,40,31,CAP,FC,Guilherme
+319,2,01:51,40,31,VIT,BR,Keyron
+320,2,01:51,40,31,CAP,ER,Jhonatan
+321,2,01:58,40,31,CAP,RD,Mogi
+322,2,02:01,40,31,VIT,3_Pts_T,Keyron
+323,2,02:18,40,31,VIT,RD,Renato
+324,2,02:23,40,31,CAP,2_Pts_T,Guilherme
+325,2,02:40,40,31,CAP,RD,Jhonatan
+326,2,02:43,40,31,VIT,2_Pts_T,Renato
+327,2,03:04,40,31,CAP,AS,De Paula
+328,2,03:04,40,31,CAP,2_Pts_C,Lucas Dias
+329,2,03:20,38,31,VIT,ER,Renato
+330,2,03:26,38,31,VIT,FR,André
+331,2,03:26,38,31,CAP,FC,Mogi
+332,2,03:39,38,31,VIT,substituicao_entra,Kurtz
+333,2,03:39,38,31,VIT,substituicao_sai,Coimbra
+334,2,03:39,38,31,VIT,LL_Pts_T,Dawkins
+335,2,03:39,38,31,VIT,LL_Pts_C,Dawkins
+336,2,03:39,38,30,VIT,FR,Dawkins
+337,2,03:39,38,30,CAP,FC_A,Jhonatan
+338,2,03:39,38,30,VIT,BR,Renato
+339,2,03:39,38,30,CAP,ER,Mogi
+340,2,04:00,38,30,VIT,AS,Keyron
+341,2,04:00,38,30,VIT,2_Pts_C,Dawkins
+342,2,04:03,38,28,VIT,BR,Keyron
+343,2,04:03,38,28,CAP,ER,Mogi
+344,2,04:18,38,28,VIT,AS,Dawkins
+345,2,04:18,38,28,VIT,2_Pts_C,Coimbra
+346,2,04:42,38,26,CAP,LL_Pts_C,Jhonatan
+347,2,04:42,37,26,CAP,LL_Pts_T,Jhonatan
+348,2,04:42,37,26,CAP,FR,Jhonatan
+349,2,04:42,37,26,VIT,FC,Coimbra
+350,2,04:52,37,26,CAP,substituicao_entra,Lucas Dias
+351,2,04:52,37,26,CAP,substituicao_sai,Arthur Pecos
+352,2,04:52,37,26,VIT,ER,Dawkins
+353,2,05:01,37,26,CAP,AS,Jhonatan
+354,2,05:01,37,26,CAP,3_Pts_C,De Paula
+355,2,05:28,34,26,VIT,2_Pts_C,Dawkins
+356,2,05:35,34,24,VIT,RD,André
+357,2,05:36,34,24,CAP,LL_Pts_T,De Paula
+358,2,05:36,34,24,CAP,FR,De Paula
+359,2,05:36,34,24,VIT,FC,Keyron
+360,2,05:36,34,24,CAP,2_Pts_C,De Paula
+361,2,05:43,32,24,VIT,substituicao_entra,André
+362,2,05:43,32,24,VIT,substituicao_sai,Arthur
+363,2,05:51,32,24,VIT,2_Pts_C,Dawkins
+364,2,06:12,32,22,CAP,AS,Arthur Pecos
+365,2,06:12,32,22,CAP,2_Pts_C,Guilherme
+366,2,06:15,30,22,CAP,RO,Jhonatan
+367,2,06:20,30,22,CAP,2_Pts_T,De Paula
+368,2,06:32,30,22,CAP,RD,Guilherme
+369,2,06:35,30,22,VIT,3_Pts_T,Arthur
+370,2,06:38,30,22,VIT,RO,Vitória
+371,2,06:42,30,22,VIT,3_Pts_T,Keyron
+372,2,06:51,30,22,VIT,LL_Pts_C,Arthur
+373,2,06:51,30,21,CAP,FC_T,Paulistano
+374,2,06:51,30,21,CAP,substituicao_entra,Guilherme
+375,2,06:51,30,21,CAP,substituicao_sai,Renato
+376,2,06:51,30,21,CAP,substituicao_entra,Mogi
+377,2,06:51,30,21,CAP,substituicao_sai,Lucas Dias
+378,2,06:51,30,21,CAP,EN,Renato
+379,2,06:53,28,21,CAP,RO,Renato
+380,2,06:53,28,21,CAP,2_Pts_T,Arthur Pecos
+381,2,07:17,28,21,VIT,3_Pts_C,Dawkins
+382,2,07:41,28,18,CAP,LL_Pts_C,De Paula
+383,2,07:41,27,18,CAP,LL_Pts_T,De Paula
+384,2,07:41,27,18,VIT,substituicao_entra,Keyron
+385,2,07:41,27,18,VIT,substituicao_sai,André
+386,2,07:42,27,18,CAP,FR,De Paula
+387,2,07:42,27,18,VIT,FC,André
+388,2,07:49,27,18,CAP,BR,De Paula
+389,2,07:49,27,18,VIT,ER,André
+390,2,08:07,27,18,VIT,substituicao_entra,Coimbra
+391,2,08:07,27,18,VIT,substituicao_sai,Braga
+392,2,08:07,27,18,VIT,tempo_tecnico,
+393,2,08:12,27,18,CAP,AS,Arthur Pecos
+394,2,08:12,27,18,CAP,3_Pts_C,Lucas Dias
+395,2,08:17,24,18,CAP,RD,Renato
+396,2,08:21,24,18,VIT,2_Pts_T,Renato
+397,2,08:30,24,18,VIT,RD,Arthur
+398,2,08:34,24,18,CAP,2_Pts_T,Lucas Dias
+399,2,08:44,24,18,CAP,RO,Renato
+400,2,08:47,24,18,CAP,2_Pts_T,Renato
+401,2,09:05,24,18,CAP,FR,Arthur Pecos
+402,2,09:05,24,18,VIT,ER,Arthur
+403,2,09:05,24,18,VIT,FC_O,Arthur
+404,2,09:13,24,18,VIT,substituicao_entra,Renato
+405,2,09:13,24,18,VIT,substituicao_sai,Murilo
+406,2,09:13,24,18,VIT,FR,André
+407,2,09:13,24,18,CAP,ER,Renato
+408,2,09:13,24,18,CAP,FC_O,Renato
+409,2,09:24,24,18,CAP,FR,De Paula
+410,2,09:24,24,18,VIT,ER,Braga
+411,2,09:24,24,18,VIT,FC_O,Braga
+412,2,09:35,24,18,CAP,AS,Arthur Pecos
+413,2,09:35,24,18,CAP,3_Pts_C,Lucas Dias
+414,2,09:49,21,18,VIT,ER,Dawkins
+415,2,10:00,21,18,,inicio_quarto,
+416,1,00:00,21,18,CAP,substituicao_sai,Guilherme
+417,1,00:00,21,18,CAP,substituicao_sai,De Paula
+418,1,00:00,21,18,CAP,substituicao_sai,Arthur Pecos
+419,1,00:00,21,18,CAP,substituicao_sai,Lucas Dias
+420,1,00:00,21,18,CAP,substituicao_sai,Jhonatan
+421,1,00:00,21,18,VIT,substituicao_sai,André
+422,1,00:00,21,18,VIT,substituicao_sai,Braga
+423,1,00:00,21,18,VIT,substituicao_sai,Murilo
+424,1,00:00,21,18,VIT,substituicao_sai,Arthur
+425,1,00:00,21,18,VIT,substituicao_sai,Keyron
+426,1,00:00,21,18,,fim_quarto,
+427,1,00:06,21,18,VIT,RD,André
+428,1,00:13,21,18,CAP,3_Pts_T,Jhonatan
+429,1,00:17,21,18,CAP,RD,Jhonatan
+430,1,00:20,21,18,VIT,2_Pts_T,Braga
+431,1,00:30,21,18,VIT,RO,Murilo
+432,1,00:36,21,18,VIT,3_Pts_T,André
+433,1,00:57,21,18,CAP,AS,Arthur Pecos
+434,1,00:57,21,18,CAP,3_Pts_C,Jhonatan
+435,1,01:12,18,18,CAP,BR,De Paula
+436,1,01:12,18,18,VIT,ER,Arthur
+437,1,01:22,18,18,VIT,substituicao_entra,Murilo
+438,1,01:22,18,18,VIT,substituicao_sai,Dawkins
+439,1,01:22,18,18,VIT,LL_Pts_C,Dawkins
+440,1,01:22,18,17,VIT,substituicao_entra,Arthur
+441,1,01:22,18,17,VIT,substituicao_sai,Renato
+442,1,01:22,18,17,VIT,LL_Pts_C,Dawkins
+443,1,01:22,18,16,CAP,substituicao_entra,De Paula
+444,1,01:22,18,16,CAP,substituicao_sai,Hure
+445,1,01:22,18,16,CAP,substituicao_entra,Jhonatan
+446,1,01:22,18,16,CAP,substituicao_sai,Mogi
+447,1,01:23,18,16,VIT,FR,Dawkins
+448,1,01:23,18,16,CAP,FC_A,Guilherme
+449,1,01:33,18,16,VIT,BR,Braga
+450,1,01:33,18,16,CAP,ER,Lucas Dias
+451,1,01:55,18,16,VIT,2_Pts_C,Dawkins
+452,1,02:06,18,14,VIT,RD,André
+453,1,02:10,18,14,CAP,3_Pts_T,Hure
+454,1,02:13,18,14,CAP,RD,Guilherme
+455,1,02:14,18,14,VIT,LL_Pts_T,Keyron
+456,1,02:14,18,14,VIT,LL_Pts_C,Keyron
+457,1,02:14,18,13,VIT,FR,Keyron
+458,1,02:14,18,13,CAP,FC,Arthur Pecos
+459,1,02:16,18,13,VIT,RD,Braga
+460,1,02:21,18,13,VIT,TO,Braga
+461,1,02:21,18,13,CAP,2_Pts_T,Lucas Dias
+462,1,02:25,18,13,VIT,substituicao_entra,Braga
+463,1,02:25,18,13,VIT,substituicao_sai,Kurtz
+464,1,02:26,18,13,CAP,RD,Guilherme
+465,1,02:29,18,13,VIT,2_Pts_T,André
+466,1,02:36,18,13,VIT,RO,Renato
+467,1,02:41,18,13,VIT,2_Pts_T,Renato
+468,1,02:43,18,13,CAP,LL_Pts_C,Lucas Dias
+469,1,02:43,17,13,CAP,FR,Lucas Dias
+470,1,02:43,17,13,VIT,FC,Keyron
+471,1,02:43,17,13,CAP,EN,Lucas Dias
+472,1,02:43,15,13,CAP,RD,Lucas Dias
+473,1,02:53,15,13,VIT,2_Pts_T,Kurtz
+474,1,03:10,15,13,VIT,RO,Kurtz
+475,1,03:10,15,13,VIT,2_Pts_T,Kurtz
+476,1,03:31,15,13,CAP,LL_Pts_C,Mogi
+477,1,03:31,14,13,CAP,FR,Mogi
+478,1,03:31,14,13,VIT,FC,Kurtz
+479,1,03:31,14,13,CAP,2_Pts_C,Mogi
+480,1,03:44,12,13,CAP,FR,Hure
+481,1,03:44,12,13,VIT,FC,Kurtz
+482,1,03:59,12,13,VIT,AS,Keyron
+483,1,03:59,12,13,VIT,EN,Kurtz
+484,1,04:13,12,11,VIT,LL_Pts_C,Dawkins
+485,1,04:13,12,10,VIT,substituicao_entra,Kurtz
+486,1,04:13,12,10,VIT,substituicao_sai,Coimbra
+487,1,04:13,12,10,CAP,FC_T,Paulistano
+488,1,04:13,12,10,VIT,AS,Dawkins
+489,1,04:13,12,10,VIT,LL_Pts_C,Coimbra
+490,1,04:13,12,9,VIT,LL_Pts_T,Coimbra
+491,1,04:13,12,9,VIT,FR,Coimbra
+492,1,04:13,12,9,CAP,FC,Hure
+493,1,04:28,12,9,VIT,substituicao_entra,André
+494,1,04:28,12,9,VIT,substituicao_sai,Arthur
+495,1,04:28,12,9,VIT,AS,Renato
+496,1,04:28,12,9,VIT,LL_Pts_C,Arthur
+497,1,04:28,12,8,VIT,LL_Pts_T,Arthur
+498,1,04:28,12,8,VIT,FR,Arthur
+499,1,04:28,12,8,CAP,FC_A,Mogi
+500,1,04:29,12,8,VIT,RD,Renato
+501,1,04:33,12,8,CAP,2_Pts_T,Guilherme
+502,1,04:40,12,8,VIT,AS,Renato
+503,1,04:40,12,8,VIT,3_Pts_C,Keyron
+504,1,04:49,12,5,CAP,AS,Lucas Dias
+505,1,04:49,12,5,CAP,2_Pts_C,Arthur Pecos
+506,1,05:12,10,5,CAP,RD,Hure
+507,1,05:15,10,5,VIT,3_Pts_T,Dawkins
+508,1,05:28,10,5,CAP,substituicao_entra,Arthur Pecos
+509,1,05:28,10,5,CAP,substituicao_sai,De Paula
+510,1,05:28,10,5,VIT,tempo_tecnico,
+511,1,05:36,10,5,CAP,AS,De Paula
+512,1,05:36,10,5,CAP,2_Pts_C,Mogi
+513,1,05:38,8,5,CAP,RD,De Paula
+514,1,05:42,8,5,VIT,2_Pts_T,Keyron
+515,1,05:45,8,5,VIT,BR,Renato
+516,1,05:45,8,5,CAP,ER,De Paula
+517,1,05:56,8,5,VIT,AS,Dawkins
+518,1,05:56,8,5,VIT,3_Pts_C,Renato
+519,1,06:01,8,2,VIT,RD,Dawkins
+520,1,06:04,8,2,CAP,3_Pts_T,Hure
+521,1,06:23,8,2,CAP,RO,Hure
+522,1,06:26,8,2,CAP,3_Pts_T,De Paula
+523,1,06:38,8,2,CAP,RD,Guilherme
+524,1,06:43,8,2,VIT,3_Pts_T,Arthur
+525,1,06:56,8,2,CAP,AS,Guilherme
+526,1,06:56,8,2,CAP,2_Pts_C,Hure
+527,1,07:11,6,2,CAP,FR,De Paula
+528,1,07:11,6,2,VIT,ER,Coimbra
+529,1,07:11,6,2,VIT,FC_O,Coimbra
+530,1,07:27,6,2,CAP,AS,De Paula
+531,1,07:27,6,2,CAP,2_Pts_C,Guilherme
+532,1,07:36,4,2,CAP,RD,Lucas Dias
+533,1,07:39,4,2,VIT,2_Pts_T,Renato
+534,1,07:44,4,2,VIT,RD,Coimbra
+535,1,07:48,4,2,CAP,2_Pts_T,Mogi
+536,1,08:09,4,2,VIT,2_Pts_C,Arthur
+537,1,08:17,4,0,VIT,RD,Renato
+538,1,08:20,4,0,CAP,2_Pts_T,Hure
+539,1,08:22,4,0,CAP,FR,Guilherme
+540,1,08:22,4,0,VIT,FC,Arthur
+541,1,08:37,4,0,CAP,RD,Mogi
+542,1,08:42,4,0,VIT,2_Pts_T,Renato
+543,1,08:47,4,0,VIT,BR,Keyron
+544,1,08:47,4,0,CAP,ER,Lucas Dias
+545,1,08:51,4,0,CAP,BR,Mogi
+546,1,08:51,4,0,VIT,ER,Keyron
+547,1,09:10,4,0,CAP,AS,De Paula
+548,1,09:10,4,0,CAP,2_Pts_C,Mogi
+549,1,09:15,2,0,CAP,BR,De Paula
+550,1,09:15,2,0,VIT,ER,Renato
+551,1,09:37,2,0,CAP,2_Pts_C,Lucas Dias
+552,1,10:00,0,0,VIT,substituicao_entra,Coimbra
+553,1,10:00,0,0,VIT,substituicao_entra,Dawkins
+554,1,10:00,0,0,VIT,substituicao_entra,Renato
+555,1,10:00,0,0,VIT,substituicao_entra,Arthur
+556,1,10:00,0,0,CAP,substituicao_entra,Guilherme
+557,1,10:00,0,0,CAP,substituicao_entra,De Paula
+558,1,10:00,0,0,CAP,substituicao_entra,Hure
+559,1,10:00,0,0,CAP,substituicao_entra,Lucas Dias
+560,1,10:00,0,0,CAP,substituicao_entra,Mogi
+561,1,10:00,0,0,VIT,substituicao_entra,Keyron

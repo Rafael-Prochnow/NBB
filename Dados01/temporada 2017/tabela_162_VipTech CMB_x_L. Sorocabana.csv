@@ -1,0 +1,562 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,72,76,,fim_partida,
+1,4,00:01,72,76,CMO,3_Pts_T,Brown
+2,4,00:05,72,76,LSB,LL_Pts_C,Crescenzi
+3,4,00:05,72,75,LSB,LL_Pts_C,Crescenzi
+4,4,00:05,72,74,LSB,FR,Crescenzi
+5,4,00:05,72,74,CMO,FC,Brown
+6,4,00:05,72,74,LSB,RD,Crescenzi
+7,4,00:05,72,74,CMO,3_Pts_T,Giano
+8,4,00:07,72,74,CMO,RO,Giano
+9,4,00:07,72,74,CMO,2_Pts_T,Wesley
+10,4,00:08,72,74,CMO,RO,Wesley
+11,4,00:09,72,74,CMO,LL_Pts_T,Brown
+12,4,00:09,72,74,CMO,LL_Pts_C,Brown
+13,4,00:09,71,74,CMO,substituicao_entra,Wesley
+14,4,00:09,71,74,CMO,substituicao_sai,Omar
+15,4,00:09,71,74,CMO,FR,Brown
+16,4,00:09,71,74,LSB,FC,Crescenzi
+17,4,00:11,71,74,CMO,RO,César
+18,4,00:12,71,74,CMO,3_Pts_T,Giano
+19,4,00:16,71,74,CMO,substituicao_entra,Omar
+20,4,00:16,71,74,CMO,substituicao_sai,Wesley
+21,4,00:16,71,74,LSB,substituicao_entra,Lucas Maciel
+22,4,00:16,71,74,LSB,substituicao_sai,Cook
+23,4,00:16,71,74,CMO,tempo_tecnico,Campo Mourão
+24,4,00:16,71,74,LSB,LL_Pts_C,Cook
+25,4,00:16,71,73,LSB,LL_Pts_C,Cook
+26,4,00:16,71,72,LSB,FR,Cook
+27,4,00:16,71,72,CMO,FC,César
+28,4,00:21,71,72,LSB,tempo_tecnico,L Sorocabana
+29,4,00:22,71,72,CMO,AS,Brown
+30,4,00:22,71,72,CMO,3_Pts_C,Jamail
+31,4,00:29,68,72,CMO,BR,Giano
+32,4,00:29,68,72,LSB,ER,Cook
+33,4,00:47,68,72,LSB,RD,Crescenzi
+34,4,00:53,68,72,CMO,2_Pts_T,Wesley
+35,4,00:58,68,72,LSB,ER,Brite
+36,4,01:06,68,72,CMO,2_Pts_C,Giano
+37,4,01:28,66,72,CMO,RD,Wesley
+38,4,01:29,66,72,LSB,LL_Pts_T,Mineiro
+39,4,01:29,66,72,LSB,LL_Pts_C,Mineiro
+40,4,01:29,66,71,CMO,substituicao_entra,Wesley
+41,4,01:29,66,71,CMO,substituicao_sai,Mathias
+42,4,01:29,66,71,LSB,FR,Mineiro
+43,4,01:29,66,71,CMO,FC,Mathias
+44,4,01:42,66,71,CMO,tempo_tecnico,Campo Mourão
+45,4,01:47,66,71,CMO,2_Pts_C,Brown
+46,4,02:07,64,71,LSB,2_Pts_C,Brite
+47,4,02:19,64,69,CMO,LL_Pts_C,César
+48,4,02:19,63,69,CMO,LL_Pts_T,César
+49,4,02:19,63,69,CMO,FR,César
+50,4,02:19,63,69,LSB,FC,Drudi
+51,4,02:43,63,69,CMO,RD,Mathias
+52,4,02:43,63,69,LSB,AS,Crescenzi
+53,4,02:43,63,69,LSB,LL_Pts_T,Mineiro
+54,4,02:43,63,69,LSB,LL_Pts_C,Mineiro
+55,4,02:43,63,68,LSB,FR,Mineiro
+56,4,02:43,63,68,CMO,FC,César
+57,4,03:06,63,68,LSB,RD,Mineiro
+58,4,03:09,63,68,CMO,2_Pts_T,Brown
+59,4,03:26,63,68,LSB,substituicao_entra,Drudi
+60,4,03:26,63,68,LSB,substituicao_sai,Andrezão
+61,4,03:26,63,68,LSB,substituicao_entra,Mineiro
+62,4,03:26,63,68,LSB,substituicao_sai,Lucão
+63,4,03:26,63,68,LSB,tempo_tecnico,L Sorocabana
+64,4,03:26,63,68,CMO,FR,Brown
+65,4,03:26,63,68,LSB,FC,Lucão
+66,4,03:26,63,68,CMO,RD,Brown
+67,4,03:29,63,68,LSB,2_Pts_T,Lucão
+68,4,03:46,63,68,LSB,RD,Lucão
+69,4,03:47,63,68,CMO,LL_Pts_T,Giano
+70,4,03:47,63,68,CMO,FR,Giano
+71,4,03:47,63,68,LSB,FC,Brite
+72,4,03:47,63,68,CMO,2_Pts_C,Giano
+73,4,03:50,61,68,CMO,RD,César
+74,4,03:52,61,68,LSB,2_Pts_T,Crescenzi
+75,4,04:15,61,68,CMO,substituicao_entra,César
+76,4,04:15,61,68,CMO,substituicao_sai,Lucas
+77,4,04:15,61,68,LSB,FR,Lucão
+78,4,04:15,61,68,CMO,ER,Jamail
+79,4,04:15,61,68,CMO,FC_O,Jamail
+80,4,04:21,61,68,CMO,RD,Mathias
+81,4,04:24,61,68,LSB,2_Pts_T,Cook
+82,4,04:40,61,68,CMO,AS,Brown
+83,4,04:40,61,68,CMO,3_Pts_C,Giano
+84,4,04:54,58,68,LSB,AS,Andrezão
+85,4,04:54,58,68,LSB,2_Pts_C,Crescenzi
+86,4,05:03,58,66,LSB,RD,Brite
+87,4,05:07,58,66,CMO,2_Pts_T,Brown
+88,4,05:17,58,66,CMO,substituicao_entra,Giano
+89,4,05:17,58,66,CMO,substituicao_sai,R Biro
+90,4,05:17,58,66,LSB,ER,Cook
+91,4,05:19,58,66,CMO,substituicao_entra,R Biro
+92,4,05:19,58,66,CMO,substituicao_sai,Giano
+93,4,05:19,58,66,CMO,substituicao_entra,Mathias
+94,4,05:19,58,66,CMO,substituicao_sai,Wesley
+95,4,05:19,58,66,LSB,substituicao_entra,Lucão
+96,4,05:19,58,66,LSB,substituicao_sai,Mineiro
+97,4,05:19,58,66,LSB,FR,Mineiro
+98,4,05:19,58,66,CMO,FC,Wesley
+99,4,05:32,58,66,LSB,RD,Brite
+100,4,05:37,58,66,CMO,3_Pts_T,Wesley
+101,4,05:57,58,66,LSB,ER,Andrezão
+102,4,06:17,58,66,CMO,AS,Giano
+103,4,06:17,58,66,CMO,3_Pts_C,Wesley
+104,4,06:27,55,66,CMO,RD,Giano
+105,4,06:30,55,66,LSB,3_Pts_T,Cook
+106,4,06:46,55,66,LSB,RD,Andrezão
+107,4,06:49,55,66,CMO,2_Pts_T,Lucas
+108,4,07:10,55,66,CMO,FR,Giano
+109,4,07:10,55,66,LSB,FC,Cook
+110,4,07:10,55,66,CMO,BR,Giano
+111,4,07:10,55,66,LSB,ER,Crescenzi
+112,4,07:29,55,66,LSB,RD,L Sorocabana
+113,4,07:32,55,66,CMO,3_Pts_T,Giano
+114,4,07:49,55,66,LSB,3_Pts_C,Cook
+115,4,08:00,55,63,LSB,RD,Andrezão
+116,4,08:03,55,63,CMO,2_Pts_T,Jamail
+117,4,08:04,55,63,CMO,RO,Jamail
+118,4,08:07,55,63,CMO,2_Pts_T,Brown
+119,4,08:24,55,63,CMO,AS,Brown
+120,4,08:24,55,63,CMO,LL_Pts_C,Wesley
+121,4,08:24,54,63,CMO,LL_Pts_C,Wesley
+122,4,08:24,53,63,CMO,FR,Wesley
+123,4,08:24,53,63,LSB,FC_A,Mineiro
+124,4,08:41,53,63,LSB,ER,Cook
+125,4,08:43,53,63,LSB,RO,Mineiro
+126,4,08:46,53,63,LSB,2_Pts_T,Crescenzi
+127,4,08:57,53,63,CMO,substituicao_entra,Lucas
+128,4,08:57,53,63,CMO,substituicao_sai,Pastor
+129,4,08:57,53,63,LSB,FR,Andrezão
+130,4,08:57,53,63,CMO,FC,Pastor
+131,4,09:11,53,63,LSB,substituicao_entra,Andrezão
+132,4,09:11,53,63,LSB,substituicao_sai,Drudi
+133,4,09:11,53,63,LSB,substituicao_entra,Cook
+134,4,09:11,53,63,LSB,substituicao_entra,Brite
+135,4,09:11,53,63,LSB,substituicao_sai,Luis Mendonça
+136,4,09:11,53,63,LSB,substituicao_sai,Lucas Maciel
+137,4,09:22,53,63,CMO,2_Pts_C,Brown
+138,4,09:28,51,63,CMO,BR,Brown
+139,4,09:28,51,63,LSB,ER,Lucas Maciel
+140,4,09:49,51,63,CMO,AS,Brown
+141,4,09:49,51,63,CMO,EN,Wesley
+142,4,10:00,49,63,,inicio_quarto,
+143,3,00:00,49,63,,fim_quarto,
+144,3,00:02,49,63,LSB,2_Pts_C,Mineiro
+145,3,00:03,49,61,LSB,RO,Mineiro
+146,3,00:03,49,61,LSB,2_Pts_T,Crescenzi
+147,3,00:21,49,61,CMO,substituicao_entra,Brown
+148,3,00:21,49,61,CMO,substituicao_sai,Giano
+149,3,00:21,49,61,CMO,ER,Lucas
+150,3,00:38,49,61,LSB,AS,Luis Mendonça
+151,3,00:38,49,61,LSB,2_Pts_C,Mineiro
+152,3,00:51,49,59,LSB,substituicao_entra,Lucas Maciel
+153,3,00:51,49,59,LSB,substituicao_sai,Ferros
+154,3,00:51,49,59,LSB,FR,Mineiro
+155,3,00:51,49,59,CMO,FC,Wesley
+156,3,00:51,49,59,LSB,RO,Mineiro
+157,3,00:56,49,59,LSB,3_Pts_T,Crescenzi
+158,3,01:19,49,59,CMO,AS,Giano
+159,3,01:19,49,59,CMO,3_Pts_C,Pastor
+160,3,01:39,46,59,LSB,2_Pts_C,Luis Mendonça
+161,3,02:00,46,57,CMO,AS,Pastor
+162,3,02:00,46,57,CMO,3_Pts_C,Jamail
+163,3,02:15,43,57,LSB,2_Pts_C,Crescenzi
+164,3,02:32,43,55,CMO,substituicao_entra,Giano
+165,3,02:32,43,55,CMO,substituicao_sai,Brown
+166,3,02:32,43,55,LSB,substituicao_entra,Mineiro
+167,3,02:32,43,55,LSB,substituicao_sai,Lucão
+168,3,02:32,43,55,CMO,ER,Jamail
+169,3,02:37,43,55,CMO,BR,Wesley
+170,3,02:37,43,55,LSB,ER,Lucão
+171,3,02:58,43,55,CMO,AS,Brown
+172,3,02:58,43,55,CMO,3_Pts_C,Jamail
+173,3,03:24,40,55,LSB,AS,Crescenzi
+174,3,03:24,40,55,LSB,2_Pts_C,Drudi
+175,3,03:30,40,53,LSB,substituicao_entra,Crescenzi
+176,3,03:30,40,53,LSB,substituicao_sai,Cook
+177,3,03:30,40,53,CMO,substituicao_entra,Pastor
+178,3,03:30,40,53,CMO,substituicao_sai,César
+179,3,03:30,40,53,CMO,substituicao_entra,Lucas
+180,3,03:30,40,53,CMO,substituicao_sai,Giano
+181,3,03:30,40,53,LSB,FR,Cook
+182,3,03:30,40,53,CMO,ER,Wesley
+183,3,03:30,40,53,CMO,FC_O,Wesley
+184,3,03:30,40,53,CMO,LL_Pts_C,Jamail
+185,3,03:30,39,53,CMO,LL_Pts_C,Jamail
+186,3,03:30,38,53,LSB,substituicao_entra,Ferros
+187,3,03:30,38,53,LSB,substituicao_sai,Raphael
+188,3,03:30,38,53,CMO,FR,Jamail
+189,3,03:30,38,53,LSB,FC,Raphael
+190,3,03:44,38,53,LSB,substituicao_entra,Drudi
+191,3,03:44,38,53,LSB,substituicao_sai,Andrezão
+192,3,03:44,38,53,CMO,FR,Giano
+193,3,03:44,38,53,LSB,FC,Lucão
+194,3,04:02,38,53,LSB,2_Pts_C,Luis Mendonça
+195,3,04:08,38,51,LSB,RD,Lucão
+196,3,04:11,38,51,CMO,2_Pts_T,Wesley
+197,3,04:15,38,51,LSB,substituicao_entra,Luis Mendonça
+198,3,04:15,38,51,LSB,substituicao_sai,Brite
+199,3,04:15,38,51,CMO,FR,Wesley
+200,3,04:15,38,51,LSB,FC,Brite
+201,3,04:36,38,51,LSB,2_Pts_C,Brite
+202,3,04:54,38,49,LSB,RD,Raphael
+203,3,04:56,38,49,CMO,LL_Pts_T,Brown
+204,3,04:56,38,49,CMO,FR,Brown
+205,3,04:56,38,49,LSB,FC,Raphael
+206,3,04:56,38,49,CMO,EN,Brown
+207,3,05:05,36,49,LSB,substituicao_entra,Raphael
+208,3,05:05,36,49,LSB,substituicao_sai,Luis Mendonça
+209,3,05:05,36,49,CMO,tempo_tecnico,Campo Mourão
+210,3,05:05,36,49,CMO,FR,Wesley
+211,3,05:05,36,49,LSB,FC,Andrezão
+212,3,05:05,36,49,CMO,RD,Wesley
+213,3,05:08,36,49,LSB,3_Pts_T,Cook
+214,3,05:16,36,49,LSB,RO,Cook
+215,3,05:19,36,49,LSB,2_Pts_T,Lucão
+216,3,05:33,36,49,CMO,substituicao_entra,Jamail
+217,3,05:33,36,49,CMO,substituicao_sai,Pastor
+218,3,05:33,36,49,LSB,substituicao_entra,Lucão
+219,3,05:33,36,49,LSB,substituicao_sai,Mineiro
+220,3,05:33,36,49,LSB,FR,Brite
+221,3,05:33,36,49,CMO,FC,Pastor
+222,3,05:33,36,49,LSB,RO,Brite
+223,3,05:36,36,49,LSB,2_Pts_T,Cook
+224,3,05:39,36,49,LSB,RD,Cook
+225,3,05:42,36,49,CMO,2_Pts_T,César
+226,3,06:01,36,49,LSB,2_Pts_C,Brite
+227,3,06:05,36,47,LSB,RO,Brite
+228,3,06:08,36,47,LSB,2_Pts_T,Cook
+229,3,06:16,36,47,CMO,substituicao_entra,Wesley
+230,3,06:16,36,47,CMO,substituicao_sai,Mathias
+231,3,06:16,36,47,LSB,substituicao_entra,Cook
+232,3,06:16,36,47,LSB,substituicao_sai,Crescenzi
+233,3,06:16,36,47,LSB,FR,Mineiro
+234,3,06:16,36,47,CMO,FC,Mathias
+235,3,06:16,36,47,LSB,RO,L Sorocabana
+236,3,06:18,36,47,LSB,3_Pts_T,Crescenzi
+237,3,06:20,36,47,LSB,RO,Mineiro
+238,3,06:24,36,47,LSB,3_Pts_T,Brite
+239,3,06:38,36,47,LSB,RD,Crescenzi
+240,3,06:41,36,47,CMO,2_Pts_T,Giano
+241,3,07:00,36,47,LSB,AS,Andrezão
+242,3,07:00,36,47,LSB,2_Pts_C,Mineiro
+243,3,07:10,36,45,LSB,RO,Mineiro
+244,3,07:12,36,45,LSB,2_Pts_T,Mineiro
+245,3,07:18,36,45,LSB,RD,Brite
+246,3,07:20,36,45,CMO,2_Pts_T,Brown
+247,3,07:45,36,45,LSB,AS,Andrezão
+248,3,07:45,36,45,LSB,2_Pts_C,Mineiro
+249,3,07:59,36,43,LSB,substituicao_entra,Brite
+250,3,07:59,36,43,LSB,substituicao_sai,Lucas Maciel
+251,3,08:05,36,43,CMO,AS,Brown
+252,3,08:05,36,43,CMO,3_Pts_C,César
+253,3,08:15,33,43,CMO,RO,Giano
+254,3,08:18,33,43,CMO,3_Pts_T,Pastor
+255,3,08:22,33,43,CMO,RO,Brown
+256,3,08:25,33,43,CMO,2_Pts_T,Brown
+257,3,08:33,33,43,CMO,RD,Pastor
+258,3,08:36,33,43,LSB,2_Pts_T,Crescenzi
+259,3,08:50,33,43,LSB,BR,Mineiro
+260,3,08:50,33,43,CMO,ER,Giano
+261,3,09:04,33,43,LSB,AS,Andrezão
+262,3,09:04,33,43,LSB,2_Pts_C,Crescenzi
+263,3,09:21,33,41,CMO,AS,Brown
+264,3,09:21,33,41,CMO,3_Pts_C,Giano
+265,3,09:45,30,41,LSB,AS,Luis Mendonça
+266,3,09:45,30,41,LSB,2_Pts_C,Andrezão
+267,3,10:00,30,39,,inicio_quarto,
+268,2,00:00,30,39,,fim_quarto,
+269,2,00:02,30,39,LSB,2_Pts_C,Crescenzi
+270,2,00:14,30,37,LSB,substituicao_entra,Brite
+271,2,00:14,30,37,LSB,substituicao_sai,Andrezão
+272,2,00:14,30,37,LSB,substituicao_entra,Drudi
+273,2,00:14,30,37,LSB,substituicao_sai,Luis Mendonça
+274,2,00:14,30,37,CMO,substituicao_entra,Lucas
+275,2,00:14,30,37,CMO,substituicao_sai,Omar
+276,2,00:14,30,37,CMO,substituicao_entra,Wesley
+277,2,00:14,30,37,CMO,substituicao_sai,Giano
+278,2,00:14,30,37,CMO,substituicao_entra,César
+279,2,00:14,30,37,CMO,substituicao_sai,Pastor
+280,2,00:14,30,37,LSB,tempo_tecnico,L Sorocabana
+281,2,00:16,30,37,CMO,AS,Giano
+282,2,00:16,30,37,CMO,3_Pts_C,Pastor
+283,2,00:32,27,37,LSB,LL_Pts_C,Mineiro
+284,2,00:32,27,36,LSB,LL_Pts_C,Mineiro
+285,2,00:32,27,35,LSB,substituicao_entra,Luis Mendonça
+286,2,00:32,27,35,LSB,substituicao_sai,Brite
+287,2,00:32,27,35,LSB,FR,Mineiro
+288,2,00:32,27,35,CMO,FC,Pastor
+289,2,00:32,27,35,LSB,RD,Mineiro
+290,2,00:34,27,35,CMO,3_Pts_T,Giano
+291,2,00:39,27,35,CMO,RD,Jamail
+292,2,00:42,27,35,LSB,2_Pts_T,Andrezão
+293,2,01:04,27,35,LSB,RD,Mineiro
+294,2,01:08,27,35,CMO,3_Pts_T,Omar
+295,2,01:25,27,35,LSB,ER,Crescenzi
+296,2,01:41,27,35,CMO,LL_Pts_C,Brown
+297,2,01:41,26,35,LSB,substituicao_entra,Brite
+298,2,01:41,26,35,LSB,substituicao_sai,Lucas Maciel
+299,2,01:41,26,35,LSB,substituicao_entra,Andrezão
+300,2,01:41,26,35,LSB,substituicao_sai,Lucão
+301,2,01:41,26,35,CMO,FR,Brown
+302,2,01:41,26,35,LSB,FC,Lucas Maciel
+303,2,01:41,26,35,CMO,2_Pts_C,Brown
+304,2,02:04,24,35,LSB,AS,Lucas Maciel
+305,2,02:04,24,35,LSB,LL_Pts_C,Lucão
+306,2,02:04,24,34,LSB,LL_Pts_C,Lucão
+307,2,02:04,24,33,LSB,FR,Lucão
+308,2,02:04,24,33,CMO,FC,Omar
+309,2,02:24,24,33,CMO,AS,Brown
+310,2,02:24,24,33,CMO,LL_Pts_C,Giano
+311,2,02:24,23,33,CMO,LL_Pts_C,Giano
+312,2,02:24,22,33,CMO,substituicao_entra,Jamail
+313,2,02:24,22,33,CMO,substituicao_sai,Mathias
+314,2,02:24,22,33,LSB,substituicao_entra,Cook
+315,2,02:24,22,33,LSB,substituicao_sai,Brite
+316,2,02:24,22,33,CMO,FR,Giano
+317,2,02:24,22,33,LSB,FC,Brite
+318,2,02:25,22,33,LSB,substituicao_entra,Lucão
+319,2,02:25,22,33,LSB,substituicao_sai,Cook
+320,2,02:25,22,33,CMO,FR,Omar
+321,2,02:25,22,33,LSB,FC,Cook
+322,2,02:25,22,33,LSB,FR,Cook
+323,2,02:25,22,33,CMO,FC,Omar
+324,2,02:33,22,33,CMO,substituicao_entra,Omar
+325,2,02:33,22,33,CMO,substituicao_sai,César
+326,2,02:33,22,33,LSB,substituicao_entra,Lucas Maciel
+327,2,02:33,22,33,LSB,substituicao_sai,Luis Mendonça
+328,2,02:33,22,33,LSB,tempo_tecnico,L Sorocabana
+329,2,02:33,22,33,CMO,FR,Brown
+330,2,02:33,22,33,LSB,FC,Brite
+331,2,02:37,22,33,CMO,RD,Mathias
+332,2,02:39,22,33,LSB,3_Pts_T,Crescenzi
+333,2,02:44,22,33,LSB,RD,Mineiro
+334,2,02:47,22,33,CMO,2_Pts_T,César
+335,2,02:48,22,33,CMO,RO,César
+336,2,02:51,22,33,CMO,3_Pts_T,Giano
+337,2,03:03,22,33,CMO,RD,Pastor
+338,2,03:06,22,33,LSB,2_Pts_T,Luis Mendonça
+339,2,03:27,22,33,LSB,RD,Mineiro
+340,2,03:30,22,33,CMO,3_Pts_T,Pastor
+341,2,03:43,22,33,LSB,substituicao_entra,Cook
+342,2,03:43,22,33,LSB,substituicao_sai,Ferros
+343,2,03:43,22,33,LSB,LL_Pts_C,Ferros
+344,2,03:43,22,32,LSB,LL_Pts_T,Ferros
+345,2,03:43,22,32,LSB,substituicao_entra,Luis Mendonça
+346,2,03:43,22,32,LSB,substituicao_sai,Lucas Maciel
+347,2,03:43,22,32,LSB,FR,Ferros
+348,2,03:43,22,32,CMO,FC,Pastor
+349,2,03:56,22,32,LSB,FR,Lucas Maciel
+350,2,03:56,22,32,CMO,FC,Pastor
+351,2,04:05,22,32,LSB,RD,Mineiro
+352,2,04:10,22,32,CMO,3_Pts_T,Giano
+353,2,04:18,22,32,CMO,RD,Pastor
+354,2,04:21,22,32,LSB,3_Pts_T,Crescenzi
+355,2,04:41,22,32,CMO,3_Pts_C,Mathias
+356,2,04:54,19,32,LSB,substituicao_entra,Mineiro
+357,2,04:54,19,32,LSB,substituicao_sai,Lucão
+358,2,04:54,19,32,LSB,AS,Brite
+359,2,04:54,19,32,LSB,LL_Pts_C,Lucão
+360,2,04:54,19,31,LSB,LL_Pts_C,Lucão
+361,2,04:54,19,30,LSB,substituicao_entra,Brite
+362,2,04:54,19,30,LSB,substituicao_sai,Andrezão
+363,2,04:54,19,30,LSB,substituicao_entra,Ferros
+364,2,04:54,19,30,LSB,substituicao_sai,Luis Mendonça
+365,2,04:54,19,30,LSB,FR,Lucão
+366,2,04:54,19,30,CMO,FC,Mathias
+367,2,04:59,19,30,LSB,BR,Lucão
+368,2,04:59,19,30,CMO,ER,Giano
+369,2,05:09,19,30,CMO,RO,Brown
+370,2,05:11,19,30,CMO,2_Pts_T,Mathias
+371,2,05:12,19,30,CMO,RO,Mathias
+372,2,05:13,19,30,CMO,LL_Pts_T,Brown
+373,2,05:13,19,30,CMO,FR,Brown
+374,2,05:13,19,30,LSB,FC,Lucão
+375,2,05:13,19,30,CMO,2_Pts_C,Brown
+376,2,05:13,17,30,CMO,RO,Brown
+377,2,05:15,17,30,CMO,2_Pts_T,César
+378,2,05:20,17,30,CMO,RO,Campo Mourão
+379,2,05:22,17,30,CMO,2_Pts_T,Brown
+380,2,05:34,17,30,CMO,tempo_tecnico,Campo Mourão
+381,2,05:53,17,30,LSB,2_Pts_C,Crescenzi
+382,2,05:56,17,28,LSB,BR,Luis Mendonça
+383,2,05:56,17,28,CMO,ER,Pastor
+384,2,06:13,17,28,LSB,substituicao_entra,Luis Mendonça
+385,2,06:13,17,28,LSB,substituicao_sai,Brite
+386,2,06:13,17,28,CMO,substituicao_entra,Pastor
+387,2,06:13,17,28,CMO,substituicao_sai,Jamail
+388,2,06:13,17,28,CMO,substituicao_entra,Mathias
+389,2,06:13,17,28,CMO,substituicao_sai,Wesley
+390,2,06:13,17,28,LSB,substituicao_entra,Lucão
+391,2,06:13,17,28,LSB,substituicao_sai,Drudi
+392,2,06:18,17,28,CMO,RD,Jamail
+393,2,06:21,17,28,LSB,2_Pts_T,Drudi
+394,2,06:33,17,28,CMO,3_Pts_C,Giano
+395,2,06:57,14,28,LSB,AS,Andrezão
+396,2,06:57,14,28,LSB,2_Pts_C,Drudi
+397,2,07:01,14,26,LSB,RD,Brite
+398,2,07:04,14,26,CMO,2_Pts_T,Brown
+399,2,07:22,14,26,LSB,3_Pts_C,Crescenzi
+400,2,07:28,14,23,LSB,RD,Crescenzi
+401,2,07:31,14,23,CMO,2_Pts_T,César
+402,2,07:33,14,23,CMO,RO,César
+403,2,07:35,14,23,CMO,2_Pts_T,Brown
+404,2,07:37,14,23,CMO,RD,Brown
+405,2,07:41,14,23,LSB,2_Pts_T,Brite
+406,2,07:44,14,23,LSB,BR,Crescenzi
+407,2,07:44,14,23,CMO,ER,Brown
+408,2,07:53,14,23,CMO,FR,Wesley
+409,2,07:53,14,23,LSB,FC,Drudi
+410,2,08:11,14,23,LSB,substituicao_entra,Drudi
+411,2,08:11,14,23,LSB,substituicao_sai,Mineiro
+412,2,08:11,14,23,CMO,tempo_tecnico,Campo Mourão
+413,2,08:11,14,23,LSB,AS,Crescenzi
+414,2,08:11,14,23,LSB,2_Pts_C,Brite
+415,2,08:15,14,21,LSB,BR,Crescenzi
+416,2,08:15,14,21,CMO,ER,Brown
+417,2,08:18,14,21,CMO,RO,Brown
+418,2,08:20,14,21,CMO,2_Pts_T,Brown
+419,2,08:27,14,21,CMO,RD,Wesley
+420,2,08:29,14,21,LSB,3_Pts_T,Crescenzi
+421,2,08:46,14,21,LSB,RD,Mineiro
+422,2,08:50,14,21,CMO,3_Pts_T,Jamail
+423,2,09:09,14,21,CMO,BR,Wesley
+424,2,09:09,14,21,LSB,ER,Mineiro
+425,2,09:21,14,21,LSB,BR,Andrezão
+426,2,09:21,14,21,CMO,ER,Giano
+427,2,09:46,14,21,LSB,AS,Lucas Maciel
+428,2,09:46,14,21,LSB,2_Pts_C,Crescenzi
+429,2,09:48,14,19,LSB,BR,Lucas Maciel
+430,2,09:48,14,19,CMO,ER,Brown
+431,2,10:00,14,19,,inicio_quarto,
+432,1,00:00,14,19,,fim_quarto,
+433,1,00:01,14,19,LSB,2_Pts_C,Brite
+434,1,00:20,14,17,CMO,2_Pts_C,Brown
+435,1,00:35,12,17,LSB,2_Pts_C,Brite
+436,1,00:42,12,15,CMO,substituicao_entra,César
+437,1,00:42,12,15,CMO,substituicao_sai,Pastor
+438,1,00:42,12,15,LSB,substituicao_entra,Brite
+439,1,00:42,12,15,LSB,substituicao_sai,Ferros
+440,1,00:42,12,15,LSB,substituicao_entra,Andrezão
+441,1,00:42,12,15,LSB,substituicao_sai,Luis Mendonça
+442,1,00:42,12,15,CMO,substituicao_entra,Brown
+443,1,00:42,12,15,CMO,substituicao_sai,Giano
+444,1,00:42,12,15,LSB,FR,Crescenzi
+445,1,00:42,12,15,CMO,FC,Lucas
+446,1,00:42,12,15,LSB,RD,Crescenzi
+447,1,00:47,12,15,CMO,3_Pts_T,Lucas
+448,1,00:54,12,15,CMO,BR,Lucas
+449,1,00:54,12,15,LSB,ER,Ferros
+450,1,00:56,12,15,LSB,substituicao_entra,Luis Mendonça
+451,1,00:56,12,15,LSB,substituicao_sai,Brite
+452,1,01:15,12,15,LSB,RD,Drudi
+453,1,01:20,12,15,CMO,3_Pts_T,Pastor
+454,1,01:28,12,15,CMO,FR,Wesley
+455,1,01:28,12,15,LSB,FC,Mineiro
+456,1,01:50,12,15,LSB,AS,Brite
+457,1,01:50,12,15,LSB,3_Pts_C,Crescenzi
+458,1,02:05,12,12,LSB,RD,L Sorocabana
+459,1,02:06,12,12,CMO,AS,Brown
+460,1,02:06,12,12,CMO,LL_Pts_T,Wesley
+461,1,02:06,12,12,CMO,LL_Pts_C,Wesley
+462,1,02:06,11,12,CMO,substituicao_entra,Lucas
+463,1,02:06,11,12,CMO,substituicao_sai,Brown
+464,1,02:06,11,12,CMO,FR,Wesley
+465,1,02:06,11,12,LSB,FC,Ferros
+466,1,02:17,11,12,CMO,BR,Pastor
+467,1,02:17,11,12,LSB,ER,Brite
+468,1,02:26,11,12,LSB,substituicao_entra,Drudi
+469,1,02:26,11,12,LSB,substituicao_sai,Lucas Maciel
+470,1,02:26,11,12,CMO,substituicao_entra,Wesley
+471,1,02:26,11,12,CMO,substituicao_sai,Mathias
+472,1,02:26,11,12,LSB,FR,Mineiro
+473,1,02:26,11,12,CMO,FC,Mathias
+474,1,02:44,11,12,CMO,AS,Brown
+475,1,02:44,11,12,CMO,3_Pts_C,Jamail
+476,1,02:49,8,12,CMO,RD,Giano
+477,1,02:56,8,12,LSB,3_Pts_T,Crescenzi
+478,1,03:02,8,12,LSB,RD,Mineiro
+479,1,03:06,8,12,CMO,3_Pts_T,Giano
+480,1,03:22,8,12,LSB,AS,Ferros
+481,1,03:22,8,12,LSB,LL_Pts_C,Mineiro
+482,1,03:22,8,11,LSB,LL_Pts_C,Mineiro
+483,1,03:22,8,10,CMO,substituicao_entra,Jamail
+484,1,03:22,8,10,CMO,substituicao_sai,César
+485,1,03:22,8,10,LSB,FR,Mineiro
+486,1,03:22,8,10,CMO,FC,Mathias
+487,1,03:42,8,10,LSB,RD,Mineiro
+488,1,03:43,8,10,CMO,AS,Brown
+489,1,03:43,8,10,CMO,LL_Pts_T,César
+490,1,03:43,8,10,CMO,LL_Pts_C,César
+491,1,03:43,7,10,LSB,substituicao_entra,Lucas Maciel
+492,1,03:43,7,10,LSB,substituicao_sai,Cook
+493,1,03:43,7,10,LSB,substituicao_entra,Mineiro
+494,1,03:43,7,10,LSB,substituicao_sai,Lucão
+495,1,03:43,7,10,LSB,substituicao_entra,Crescenzi
+496,1,03:43,7,10,LSB,substituicao_sai,Lucas Maciel
+497,1,03:43,7,10,LSB,substituicao_entra,Ferros
+498,1,03:43,7,10,LSB,substituicao_sai,Andrezão
+499,1,03:43,7,10,CMO,FR,César
+500,1,03:43,7,10,LSB,FC,Lucas Maciel
+501,1,03:45,7,10,CMO,BR,Brown
+502,1,03:45,7,10,LSB,ER,Lucas Maciel
+503,1,03:49,7,10,LSB,RO,Andrezão
+504,1,03:54,7,10,LSB,3_Pts_T,Cook
+505,1,04:07,7,10,CMO,2_Pts_C,Brown
+506,1,04:17,5,10,CMO,RO,Pastor
+507,1,04:21,5,10,CMO,3_Pts_T,César
+508,1,04:39,5,10,LSB,substituicao_entra,Brite
+509,1,04:39,5,10,LSB,substituicao_sai,Luis Mendonça
+510,1,04:39,5,10,CMO,RD,Campo Mourão
+511,1,04:42,5,10,LSB,3_Pts_T,Luis Mendonça
+512,1,04:57,5,10,LSB,RD,Lucão
+513,1,05:00,5,10,CMO,3_Pts_T,César
+514,1,05:12,5,10,LSB,AS,Lucão
+515,1,05:12,5,10,LSB,2_Pts_C,Luis Mendonça
+516,1,05:33,5,8,CMO,AS,Brown
+517,1,05:33,5,8,CMO,2_Pts_C,Mathias
+518,1,05:43,3,8,LSB,2_Pts_C,Lucão
+519,1,05:48,3,6,LSB,RO,Lucão
+520,1,05:53,3,6,LSB,3_Pts_T,Luis Mendonça
+521,1,05:55,3,6,LSB,RO,L Sorocabana
+522,1,05:57,3,6,LSB,2_Pts_T,Andrezão
+523,1,06:07,3,6,CMO,LL_Pts_C,Pastor
+524,1,06:07,2,6,CMO,LL_Pts_T,Pastor
+525,1,06:07,2,6,CMO,FR,Pastor
+526,1,06:07,2,6,LSB,FC,Andrezão
+527,1,06:31,2,6,LSB,2_Pts_C,Cook
+528,1,06:48,2,4,CMO,ER,Giano
+529,1,07:00,2,4,LSB,AS,Lucas Maciel
+530,1,07:00,2,4,LSB,2_Pts_C,Andrezão
+531,1,07:02,2,2,LSB,RD,Luis Mendonça
+532,1,07:08,2,2,LSB,TO,Lucão
+533,1,07:08,2,2,CMO,2_Pts_T,Mathias
+534,1,07:19,2,2,CMO,BR,Giano
+535,1,07:19,2,2,LSB,ER,Lucão
+536,1,07:41,2,2,CMO,AS,Giano
+537,1,07:41,2,2,CMO,2_Pts_C,César
+538,1,07:45,0,2,CMO,RO,Campo Mourão
+539,1,07:46,0,2,CMO,3_Pts_T,Pastor
+540,1,08:03,0,2,CMO,RD,Mathias
+541,1,08:07,0,2,LSB,3_Pts_T,Luis Mendonça
+542,1,08:31,0,2,LSB,RD,Andrezão
+543,1,08:36,0,2,CMO,3_Pts_T,Giano
+544,1,08:47,0,2,LSB,ER,
+545,1,09:11,0,2,LSB,RD,Andrezão
+546,1,09:14,0,2,CMO,2_Pts_T,César
+547,1,09:20,0,2,CMO,RO,César
+548,1,09:20,0,2,CMO,2_Pts_T,César
+549,1,09:40,0,2,LSB,AS,Cook
+550,1,09:40,0,2,LSB,2_Pts_C,Lucão
+551,1,10:00,0,0,LSB,substituicao_entra,Andrezão
+552,1,10:00,0,0,LSB,substituicao_entra,Lucas Maciel
+553,1,10:00,0,0,LSB,substituicao_entra,Cook
+554,1,10:00,0,0,LSB,substituicao_entra,Luis Mendonça
+555,1,10:00,0,0,LSB,substituicao_entra,Lucão
+556,1,10:00,0,0,CMO,substituicao_entra,César
+557,1,10:00,0,0,CMO,substituicao_entra,Mathias
+558,1,10:00,0,0,CMO,substituicao_entra,Giano
+559,1,10:00,0,0,CMO,substituicao_entra,Pastor
+560,1,10:00,0,0,CMO,substituicao_entra,Brown

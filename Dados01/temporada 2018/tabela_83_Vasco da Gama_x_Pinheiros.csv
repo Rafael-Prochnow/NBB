@@ -1,0 +1,494 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,65,71,,fim_partida,
+1,4,00:00,65,71,,fim_quarto,
+2,4,00:02,65,71,PIN,3_Pts_T,Betinho
+3,4,00:08,65,71,VAS,AS,Vithinho
+4,4,00:08,65,71,VAS,2_Pts_C,Duda
+5,4,00:13,63,71,PIN,substituicao_entra,Gabriel
+6,4,00:13,63,71,PIN,substituicao_sai,Dawkins
+7,4,00:13,63,71,PIN,LL_Pts_C,Dawkins
+8,4,00:13,63,70,PIN,LL_Pts_T,Dawkins
+9,4,00:13,63,70,VAS,substituicao_entra,Stocks
+10,4,00:13,63,70,VAS,substituicao_sai,C Torres
+11,4,00:13,63,70,VAS,substituicao_entra,Lucão
+12,4,00:13,63,70,VAS,substituicao_sai,Stocks
+13,4,00:13,63,70,PIN,FR,Dawkins
+14,4,00:13,63,70,VAS,FC,Stocks
+15,4,00:23,63,70,PIN,RD,Betinho
+16,4,00:26,63,70,VAS,3_Pts_T,C Torres
+17,4,00:34,63,70,PIN,substituicao_entra,Toledo
+18,4,00:34,63,70,PIN,substituicao_sai,Renato
+19,4,00:34,63,70,PIN,substituicao_entra,Bennett
+20,4,00:34,63,70,PIN,substituicao_sai,Isaac
+21,4,00:34,63,70,VAS,FR,Duda
+22,4,00:34,63,70,PIN,FC,Dawkins
+23,4,00:37,63,70,VAS,RD,Gemerson
+24,4,00:39,63,70,PIN,3_Pts_T,Dawkins
+25,4,00:56,63,70,PIN,RD,Renato
+26,4,00:59,63,70,VAS,2_Pts_T,C Torres
+27,4,01:10,63,70,PIN,2_Pts_C,Dawkins
+28,4,01:25,63,68,VAS,AS,Stocks
+29,4,01:25,63,68,VAS,2_Pts_C,C Torres
+30,4,01:36,61,68,VAS,RD,Stocks
+31,4,01:39,61,68,PIN,3_Pts_T,Dawkins
+32,4,01:59,61,68,PIN,RD,Isaac
+33,4,02:04,61,68,VAS,2_Pts_T,Stocks
+34,4,02:13,61,68,VAS,tempo_tecnico,Vasco da Gama
+35,4,02:13,61,68,PIN,2_Pts_C,Betinho
+36,4,02:18,61,66,PIN,BR,Betinho
+37,4,02:18,61,66,VAS,ER,Vithinho
+38,4,02:34,61,66,PIN,AS,Ruivo
+39,4,02:34,61,66,PIN,2_Pts_C,Renato
+40,4,02:54,61,64,VAS,AS,Vithinho
+41,4,02:54,61,64,VAS,2_Pts_C,C Torres
+42,4,03:09,59,64,PIN,2_Pts_C,Isaac
+43,4,03:28,59,62,PIN,RD,Isaac
+44,4,03:31,59,62,VAS,2_Pts_T,Duda
+45,4,03:40,59,62,VAS,FR,C Torres
+46,4,03:40,59,62,PIN,FC,Renato
+47,4,03:40,59,62,VAS,RD,Vasco da Gama
+48,4,03:42,59,62,PIN,3_Pts_T,Isaac
+49,4,03:54,59,62,PIN,RO,Ruivo
+50,4,03:56,59,62,PIN,3_Pts_T,Renato
+51,4,04:11,59,62,VAS,tempo_tecnico,Vasco da Gama
+52,4,04:11,59,62,PIN,FR,Renato
+53,4,04:11,59,62,VAS,FC,Duda
+54,4,04:23,59,62,PIN,RD,Renato
+55,4,04:25,59,62,VAS,3_Pts_T,Gemerson
+56,4,04:48,59,62,PIN,LL_Pts_C,Renato
+57,4,04:48,59,61,VAS,substituicao_entra,Gemerson
+58,4,04:48,59,61,VAS,substituicao_sai,Pilar
+59,4,04:48,59,61,PIN,FR,Renato
+60,4,04:48,59,61,VAS,FC,Stocks
+61,4,04:48,59,61,PIN,AS,Dawkins
+62,4,04:48,59,61,PIN,2_Pts_C,Renato
+63,4,04:56,59,59,PIN,RO,Ruivo
+64,4,05:00,59,59,PIN,3_Pts_T,Ruivo
+65,4,05:01,59,59,PIN,RD,Isaac
+66,4,05:05,59,59,VAS,2_Pts_T,Pilar
+67,4,05:07,59,59,VAS,RO,Pilar
+68,4,05:10,59,59,VAS,2_Pts_T,C Torres
+69,4,05:29,59,59,VAS,BR,Duda
+70,4,05:29,59,59,PIN,ER,Betinho
+71,4,05:31,59,59,PIN,RO,Betinho
+72,4,05:34,59,59,PIN,3_Pts_T,Renato
+73,4,05:38,59,59,PIN,FR,Isaac
+74,4,05:38,59,59,VAS,FC,Pilar
+75,4,05:39,59,59,PIN,AS,Dawkins
+76,4,05:39,59,59,PIN,3_Pts_C,Renato
+77,4,05:49,59,56,PIN,RD,Renato
+78,4,05:51,59,56,VAS,3_Pts_T,Duda
+79,4,06:04,59,56,VAS,RD,Vithinho
+80,4,06:08,59,56,PIN,3_Pts_T,Ruivo
+81,4,06:17,59,56,VAS,3_Pts_C,Duda
+82,4,06:21,56,56,PIN,3_Pts_C,Renato
+83,4,06:41,56,53,VAS,TO,C Torres
+84,4,06:41,56,53,VAS,RD,C Torres
+85,4,06:41,56,53,PIN,2_Pts_T,Betinho
+86,4,06:48,56,53,PIN,substituicao_entra,Betinho
+87,4,06:48,56,53,PIN,substituicao_sai,Bennett
+88,4,06:48,56,53,PIN,substituicao_entra,Ruivo
+89,4,06:48,56,53,PIN,substituicao_sai,Gabriel
+90,4,06:48,56,53,VAS,substituicao_entra,Pilar
+91,4,06:48,56,53,VAS,substituicao_sai,Gemerson
+92,4,06:48,56,53,PIN,FR,Isaac
+93,4,06:48,56,53,VAS,FC,Gemerson
+94,4,06:56,56,53,PIN,RD,Isaac
+95,4,06:58,56,53,VAS,2_Pts_T,C Torres
+96,4,07:16,56,53,VAS,RD,C Torres
+97,4,07:19,56,53,PIN,2_Pts_T,Dawkins
+98,4,07:26,56,53,PIN,RO,Bennett
+99,4,07:29,56,53,PIN,3_Pts_T,Renato
+100,4,07:35,56,53,PIN,RD,Dawkins
+101,4,07:38,56,53,VAS,2_Pts_T,Stocks
+102,4,07:59,56,53,PIN,ER,Gabriel
+103,4,08:02,56,53,PIN,RD,Bennett
+104,4,08:06,56,53,VAS,2_Pts_T,Vithinho
+105,4,08:15,56,53,VAS,FR,Gemerson
+106,4,08:15,56,53,PIN,FC,Bennett
+107,4,08:31,56,53,VAS,RD,Gemerson
+108,4,08:34,56,53,PIN,3_Pts_T,Isaac
+109,4,08:38,56,53,PIN,RO,Gabriel
+110,4,08:41,56,53,PIN,3_Pts_T,Dawkins
+111,4,08:46,56,53,PIN,RD,Gabriel
+112,4,08:49,56,53,VAS,3_Pts_T,Gemerson
+113,4,09:09,56,53,PIN,2_Pts_C,Dawkins
+114,4,09:13,56,51,PIN,RD,Dawkins
+115,4,09:17,56,51,VAS,2_Pts_T,C Torres
+116,4,09:22,56,51,VAS,FR,Duda
+117,4,09:22,56,51,PIN,FC,Gabriel
+118,4,09:30,56,51,VAS,RD,Stocks
+119,4,09:38,56,51,PIN,3_Pts_T,Isaac
+120,4,09:45,56,51,PIN,RD,Bennett
+121,4,09:48,56,51,VAS,2_Pts_T,Stocks
+122,4,10:00,56,51,,inicio_quarto,
+123,3,00:00,56,51,,fim_quarto,
+124,3,00:01,56,51,VAS,3_Pts_T,Vithinho
+125,3,00:21,56,51,VAS,substituicao_entra,Duda
+126,3,00:21,56,51,VAS,substituicao_sai,Okorie
+127,3,00:21,56,51,VAS,FR,Vithinho
+128,3,00:21,56,51,PIN,ER,Gabriel
+129,3,00:21,56,51,PIN,FC_O,Gabriel
+130,3,00:23,56,51,PIN,RD,Dawkins
+131,3,00:25,56,51,VAS,3_Pts_T,Vithinho
+132,3,00:52,56,51,PIN,AS,Dawkins
+133,3,00:52,56,51,PIN,3_Pts_C,Isaac
+134,3,01:04,56,48,VAS,LL_Pts_C,Okorie
+135,3,01:04,55,48,VAS,LL_Pts_C,Okorie
+136,3,01:04,54,48,VAS,FR,Okorie
+137,3,01:04,54,48,PIN,FC,Gabriel
+138,3,01:23,54,48,PIN,AS,Isaac
+139,3,01:23,54,48,PIN,3_Pts_C,Gabriel
+140,3,01:33,54,45,PIN,FR,Isaac
+141,3,01:33,54,45,VAS,FC,Vithinho
+142,3,01:37,54,45,PIN,RD,Gabriel
+143,3,01:40,54,45,VAS,2_Pts_T,Stocks
+144,3,02:06,54,45,VAS,RD,Vasco da Gama
+145,3,02:06,54,45,PIN,2_Pts_T,Bennett
+146,3,02:26,54,45,PIN,substituicao_entra,Gabriel
+147,3,02:26,54,45,PIN,substituicao_sai,Betinho
+148,3,02:26,54,45,VAS,ER,Okorie
+149,3,02:30,54,45,VAS,BR,Vithinho
+150,3,02:30,54,45,PIN,ER,Bennett
+151,3,02:45,54,45,VAS,3_Pts_C,Vithinho
+152,3,02:52,51,45,VAS,BR,Stocks
+153,3,02:52,51,45,PIN,ER,Betinho
+154,3,02:58,51,45,PIN,substituicao_entra,Dawkins
+155,3,02:58,51,45,PIN,substituicao_sai,Ruivo
+156,3,02:58,51,45,VAS,substituicao_entra,Okorie
+157,3,02:58,51,45,VAS,substituicao_sai,Gemerson
+158,3,02:58,51,45,PIN,FR,Bennett
+159,3,02:58,51,45,VAS,FC,Gemerson
+160,3,02:59,51,45,PIN,RD,Bennett
+161,3,03:02,51,45,VAS,3_Pts_T,Gemerson
+162,3,03:06,51,45,VAS,RO,Vasco da Gama
+163,3,03:09,51,45,VAS,2_Pts_T,Pilar
+164,3,03:28,51,45,PIN,AS,Renato
+165,3,03:28,51,45,PIN,3_Pts_C,Isaac
+166,3,03:40,51,42,VAS,LL_Pts_C,Pilar
+167,3,03:40,50,42,VAS,AS,Vithinho
+168,3,03:40,50,42,VAS,LL_Pts_C,Pilar
+169,3,03:40,49,42,PIN,substituicao_entra,Renato
+170,3,03:40,49,42,PIN,substituicao_sai,Toledo
+171,3,03:40,49,42,VAS,FR,Pilar
+172,3,03:40,49,42,PIN,FC,Betinho
+173,3,04:00,49,42,PIN,2_Pts_C,Ruivo
+174,3,04:16,49,40,PIN,RO,Pinheiros
+175,3,04:17,49,40,PIN,2_Pts_T,Betinho
+176,3,04:28,49,40,PIN,substituicao_entra,Isaac
+177,3,04:28,49,40,PIN,substituicao_sai,Ware
+178,3,04:28,49,40,PIN,FR,Bennett
+179,3,04:28,49,40,VAS,FC,Stocks
+180,3,04:36,49,40,VAS,AS,Pilar
+181,3,04:36,49,40,VAS,3_Pts_C,Gemerson
+182,3,04:42,46,40,VAS,RD,Vithinho
+183,3,04:45,46,40,PIN,2_Pts_T,Bennett
+184,3,05:03,46,40,VAS,AS,Vithinho
+185,3,05:03,46,40,VAS,3_Pts_C,Gemerson
+186,3,05:10,43,40,VAS,substituicao_entra,Pilar
+187,3,05:10,43,40,VAS,substituicao_sai,Duda
+188,3,05:10,43,40,VAS,RO,Vasco da Gama
+189,3,05:11,43,40,VAS,2_Pts_T,Vithinho
+190,3,05:26,43,40,VAS,RD,Gemerson
+191,3,05:29,43,40,PIN,3_Pts_T,Betinho
+192,3,05:44,43,40,PIN,RD,Ruivo
+193,3,05:49,43,40,VAS,3_Pts_T,Duda
+194,3,05:58,43,40,PIN,2_Pts_C,Betinho
+195,3,06:07,43,38,VAS,ER,Vithinho
+196,3,06:23,43,38,VAS,substituicao_entra,Lucão
+197,3,06:23,43,38,VAS,substituicao_sai,C Torres
+198,3,06:26,43,38,PIN,2_Pts_C,Bennett
+199,3,06:36,43,36,VAS,2_Pts_C,Gemerson
+200,3,06:57,41,36,VAS,BR,Stocks
+201,3,06:57,41,36,PIN,ER,Ruivo
+202,3,07:00,41,36,PIN,RD,Ruivo
+203,3,07:04,41,36,VAS,2_Pts_T,Vithinho
+204,3,07:22,41,36,PIN,3_Pts_C,Ruivo
+205,3,07:28,41,33,PIN,BR,Toledo
+206,3,07:28,41,33,VAS,ER,Gemerson
+207,3,07:46,41,33,PIN,2_Pts_C,Ruivo
+208,3,07:55,41,31,PIN,RO,Toledo
+209,3,07:58,41,31,PIN,2_Pts_T,Betinho
+210,3,08:13,41,31,VAS,AS,C Torres
+211,3,08:13,41,31,VAS,3_Pts_C,Gemerson
+212,3,08:28,38,31,VAS,RD,C Torres
+213,3,08:31,38,31,PIN,2_Pts_T,Ware
+214,3,08:48,38,31,PIN,RD,Ware
+215,3,08:50,38,31,VAS,3_Pts_T,Duda
+216,3,09:05,38,31,PIN,LL_Pts_C,Betinho
+217,3,09:05,38,30,PIN,AS,Bennett
+218,3,09:05,38,30,PIN,LL_Pts_C,Betinho
+219,3,09:05,38,29,PIN,FR,Betinho
+220,3,09:05,38,29,VAS,FC,Duda
+221,3,09:11,38,29,PIN,BR,Toledo
+222,3,09:11,38,29,VAS,ER,C Torres
+223,3,09:24,38,29,VAS,BR,Stocks
+224,3,09:24,38,29,PIN,ER,Ware
+225,3,09:27,38,29,PIN,RO,Ware
+226,3,09:30,38,29,PIN,2_Pts_T,Toledo
+227,3,09:40,38,29,PIN,RO,Toledo
+228,3,09:43,38,29,PIN,2_Pts_T,Bennett
+229,3,10:00,38,29,,inicio_quarto,
+230,2,00:00,38,29,,fim_quarto,
+231,2,00:02,38,29,VAS,AS,Gemerson
+232,2,00:02,38,29,VAS,3_Pts_C,Duda
+233,2,00:07,35,29,PIN,substituicao_entra,Mamedes
+234,2,00:07,35,29,PIN,substituicao_sai,Dawkins
+235,2,00:07,35,29,VAS,substituicao_entra,Okorie
+236,2,00:07,35,29,VAS,substituicao_sai,Lupa
+237,2,00:07,35,29,VAS,FR,Duda
+238,2,00:07,35,29,PIN,FC,Dawkins
+239,2,00:09,35,29,VAS,RD,Duda
+240,2,00:13,35,29,PIN,3_Pts_T,Isaac
+241,2,00:28,35,29,VAS,substituicao_entra,Lupa
+242,2,00:28,35,29,VAS,substituicao_sai,Okorie
+243,2,00:28,35,29,PIN,tempo_tecnico,Pinheiros
+244,2,00:28,35,29,VAS,3_Pts_C,Vithinho
+245,2,00:45,32,29,VAS,RD,Vithinho
+246,2,00:49,32,29,PIN,2_Pts_T,Isaac
+247,2,00:51,32,29,PIN,RO,Toledo
+248,2,00:55,32,29,PIN,3_Pts_T,Betinho
+249,2,01:13,32,29,PIN,tempo_tecnico,Pinheiros
+250,2,01:13,32,29,VAS,LL_Pts_C,Duda
+251,2,01:13,31,29,VAS,FR,Duda
+252,2,01:13,31,29,PIN,FC,Betinho
+253,2,01:13,31,29,VAS,AS,C Torres
+254,2,01:13,31,29,VAS,3_Pts_C,Duda
+255,2,01:18,28,29,VAS,BR,Vithinho
+256,2,01:18,28,29,PIN,ER,Dawkins
+257,2,01:25,28,29,PIN,RD,Betinho
+258,2,01:27,28,29,VAS,3_Pts_T,Okorie
+259,2,01:33,28,29,VAS,RO,C Torres
+260,2,01:36,28,29,VAS,2_Pts_T,C Torres
+261,2,01:43,28,29,VAS,substituicao_entra,Duda
+262,2,01:43,28,29,VAS,substituicao_sai,Pilar
+263,2,01:43,28,29,VAS,substituicao_entra,C Torres
+264,2,01:43,28,29,VAS,substituicao_sai,Lupa
+265,2,01:43,28,29,VAS,RO,Vasco da Gama
+266,2,01:46,28,29,VAS,3_Pts_T,Okorie
+267,2,01:55,28,29,VAS,RD,Gemerson
+268,2,01:58,28,29,PIN,3_Pts_T,Betinho
+269,2,02:03,28,29,PIN,RD,Isaac
+270,2,02:05,28,29,VAS,2_Pts_T,Lupa
+271,2,02:06,28,29,VAS,RO,Lupa
+272,2,02:09,28,29,VAS,2_Pts_T,Pilar
+273,2,02:28,28,29,VAS,RD,Lupa
+274,2,02:30,28,29,PIN,LL_Pts_T,Toledo
+275,2,02:30,28,29,PIN,LL_Pts_C,Toledo
+276,2,02:30,28,28,PIN,substituicao_entra,Betinho
+277,2,02:30,28,28,PIN,substituicao_sai,Gabriel
+278,2,02:30,28,28,PIN,FR,Toledo
+279,2,02:30,28,28,VAS,FC,Pilar
+280,2,02:30,28,28,PIN,RO,Pinheiros
+281,2,02:30,28,28,PIN,2_Pts_T,Gabriel
+282,2,02:37,28,28,PIN,RD,Bennett
+283,2,02:40,28,28,VAS,3_Pts_T,Gemerson
+284,2,03:08,28,28,VAS,tempo_tecnico,Vasco da Gama
+285,2,03:08,28,28,PIN,substituicao_entra,Isaac
+286,2,03:08,28,28,PIN,substituicao_sai,Ware
+287,2,03:08,28,28,PIN,ER,
+288,2,03:09,28,28,PIN,3_Pts_T,Bennett
+289,2,03:13,28,28,VAS,ER,Gemerson
+290,2,03:20,28,28,VAS,RD,Gemerson
+291,2,03:22,28,28,PIN,LL_Pts_T,Toledo
+292,2,03:22,28,28,VAS,substituicao_entra,Lupa
+293,2,03:22,28,28,VAS,substituicao_sai,Lucão
+294,2,03:22,28,28,VAS,substituicao_entra,Okorie
+295,2,03:22,28,28,VAS,substituicao_sai,Stocks
+296,2,03:22,28,28,PIN,FR,Toledo
+297,2,03:22,28,28,VAS,FC,Lucão
+298,2,03:22,28,28,PIN,2_Pts_C,Toledo
+299,2,03:23,28,26,PIN,RO,Toledo
+300,2,03:26,28,26,PIN,3_Pts_T,Ware
+301,2,03:40,28,26,PIN,BR,Dawkins
+302,2,03:40,28,26,VAS,ER,Pilar
+303,2,03:46,28,26,VAS,RD,Gemerson
+304,2,03:50,28,26,PIN,3_Pts_T,Gabriel
+305,2,03:52,28,26,VAS,substituicao_entra,Gemerson
+306,2,03:52,28,26,VAS,substituicao_sai,Okorie
+307,2,04:01,28,26,PIN,FR,Toledo
+308,2,04:01,28,26,VAS,FC,Lucão
+309,2,04:21,28,26,VAS,2_Pts_C,Pilar
+310,2,04:24,26,26,VAS,RD,Pilar
+311,2,04:27,26,26,PIN,3_Pts_T,Gabriel
+312,2,04:36,26,26,VAS,substituicao_entra,Vithinho
+313,2,04:36,26,26,VAS,substituicao_sai,C Torres
+314,2,04:36,26,26,PIN,substituicao_entra,Dawkins
+315,2,04:36,26,26,PIN,substituicao_sai,Ruivo
+316,2,04:36,26,26,VAS,substituicao_entra,Lucão
+317,2,04:36,26,26,VAS,substituicao_sai,Duda
+318,2,04:36,26,26,PIN,FR,Ruivo
+319,2,04:36,26,26,VAS,FC,Pilar
+320,2,04:46,26,26,PIN,RO,Bennett
+321,2,04:51,26,26,VAS,TO,Okorie
+322,2,04:51,26,26,PIN,2_Pts_T,Bennett
+323,2,05:04,26,26,VAS,2_Pts_C,C Torres
+324,2,05:31,24,26,PIN,2_Pts_C,Toledo
+325,2,05:32,24,24,PIN,RO,Toledo
+326,2,05:35,24,24,PIN,2_Pts_T,Ruivo
+327,2,05:41,24,24,PIN,RO,Gabriel
+328,2,05:44,24,24,PIN,3_Pts_T,Ruivo
+329,2,05:51,24,24,PIN,substituicao_entra,Bennett
+330,2,05:51,24,24,PIN,substituicao_sai,Betinho
+331,2,05:51,24,24,PIN,substituicao_entra,Gabriel
+332,2,05:51,24,24,PIN,substituicao_sai,Isaac
+333,2,05:51,24,24,VAS,ER,Pilar
+334,2,05:54,24,24,VAS,RO,Pilar
+335,2,05:58,24,24,VAS,2_Pts_T,Okorie
+336,2,06:10,24,24,PIN,substituicao_entra,Toledo
+337,2,06:10,24,24,PIN,substituicao_sai,Renato
+338,2,06:10,24,24,VAS,substituicao_entra,Okorie
+339,2,06:10,24,24,VAS,substituicao_sai,Gemerson
+340,2,06:26,24,24,PIN,2_Pts_C,Ruivo
+341,2,06:50,24,22,VAS,AS,C Torres
+342,2,06:50,24,22,VAS,3_Pts_C,Pilar
+343,2,06:59,21,22,VAS,RD,C Torres
+344,2,07:03,21,22,PIN,3_Pts_T,Ware
+345,2,07:17,21,22,VAS,AS,Pilar
+346,2,07:17,21,22,VAS,2_Pts_C,C Torres
+347,2,07:31,19,22,VAS,BR,Gemerson
+348,2,07:31,19,22,PIN,ER,Isaac
+349,2,07:52,19,22,VAS,ER,Stocks
+350,2,08:00,19,22,VAS,substituicao_entra,Stocks
+351,2,08:00,19,22,VAS,substituicao_sai,Vithinho
+352,2,08:00,19,22,VAS,substituicao_entra,C Torres
+353,2,08:00,19,22,VAS,substituicao_sai,Lucão
+354,2,08:00,19,22,VAS,FR,Vithinho
+355,2,08:00,19,22,PIN,FC,Renato
+356,2,08:00,19,22,VAS,RD,Duda
+357,2,08:00,19,22,PIN,2_Pts_T,Ware
+358,2,08:13,19,22,PIN,BR,Ware
+359,2,08:13,19,22,VAS,ER,Vithinho
+360,2,08:30,19,22,PIN,LL_Pts_C,Ware
+361,2,08:30,19,21,PIN,LL_Pts_C,Ware
+362,2,08:30,19,20,PIN,FR,Ware
+363,2,08:30,19,20,VAS,FC,Gemerson
+364,2,08:32,19,20,PIN,RO,Ware
+365,2,08:35,19,20,PIN,2_Pts_T,Isaac
+366,2,08:50,19,20,VAS,ER,Lucão
+367,2,09:00,19,20,VAS,substituicao_entra,Pilar
+368,2,09:00,19,20,VAS,substituicao_sai,Alexei
+369,2,09:00,19,20,VAS,FR,Gemerson
+370,2,09:00,19,20,PIN,FC,Ware
+371,2,09:00,19,20,VAS,RO,Vasco da Gama
+372,2,09:00,19,20,VAS,3_Pts_T,Duda
+373,2,09:05,19,20,VAS,RO,Gemerson
+374,2,09:09,19,20,VAS,2_Pts_T,Gemerson
+375,2,09:25,19,20,PIN,AS,Betinho
+376,2,09:25,19,20,PIN,2_Pts_C,Isaac
+377,2,09:35,19,18,PIN,RD,Isaac
+378,2,09:41,19,18,PIN,TO,Betinho
+379,2,09:41,19,18,VAS,2_Pts_T,Alexei
+380,2,10:00,19,18,,inicio_quarto,
+381,1,00:00,19,18,,fim_quarto,
+382,1,00:01,19,18,PIN,AS,Betinho
+383,1,00:01,19,18,PIN,2_Pts_C,Renato
+384,1,00:22,19,16,VAS,substituicao_entra,Alexei
+385,1,00:22,19,16,VAS,substituicao_sai,Stocks
+386,1,00:22,19,16,VAS,substituicao_entra,Lucão
+387,1,00:22,19,16,VAS,substituicao_sai,C Torres
+388,1,00:22,19,16,VAS,ER,Stocks
+389,1,00:42,19,16,PIN,AS,Betinho
+390,1,00:42,19,16,PIN,2_Pts_C,Isaac
+391,1,01:03,19,14,VAS,2_Pts_C,Vithinho
+392,1,01:25,17,14,PIN,AS,Isaac
+393,1,01:25,17,14,PIN,3_Pts_C,Betinho
+394,1,01:27,17,11,PIN,RO,Isaac
+395,1,01:30,17,11,PIN,2_Pts_T,Renato
+396,1,01:48,17,11,VAS,2_Pts_C,Stocks
+397,1,01:57,15,11,PIN,substituicao_entra,Renato
+398,1,01:57,15,11,PIN,substituicao_sai,Toledo
+399,1,01:57,15,11,PIN,substituicao_entra,Isaac
+400,1,01:57,15,11,PIN,substituicao_sai,Bennett
+401,1,02:01,15,11,PIN,AS,Betinho
+402,1,02:01,15,11,PIN,2_Pts_C,Ware
+403,1,02:20,15,9,VAS,3_Pts_C,Duda
+404,1,02:23,12,9,VAS,RO,Gemerson
+405,1,02:24,12,9,VAS,2_Pts_T,C Torres
+406,1,02:24,12,9,VAS,RO,C Torres
+407,1,02:32,12,9,VAS,2_Pts_T,Gemerson
+408,1,02:47,12,9,PIN,LL_Pts_C,Bennett
+409,1,02:47,12,8,PIN,FR,Bennett
+410,1,02:47,12,8,VAS,FC,Duda
+411,1,02:47,12,8,PIN,AS,Betinho
+412,1,02:47,12,8,PIN,2_Pts_C,Bennett
+413,1,03:01,12,6,PIN,substituicao_entra,Betinho
+414,1,03:01,12,6,PIN,substituicao_sai,Isaac
+415,1,03:01,12,6,VAS,LL_Pts_C,Stocks
+416,1,03:01,11,6,VAS,LL_Pts_C,Stocks
+417,1,03:01,10,6,VAS,FR,Stocks
+418,1,03:01,10,6,PIN,FC,Bennett
+419,1,03:06,10,6,VAS,BR,Stocks
+420,1,03:06,10,6,PIN,ER,Bennett
+421,1,03:09,10,6,PIN,RO,Isaac
+422,1,03:12,10,6,PIN,3_Pts_T,Ruivo
+423,1,03:24,10,6,VAS,LL_Pts_C,C Torres
+424,1,03:24,9,6,VAS,AS,Stocks
+425,1,03:24,9,6,VAS,LL_Pts_C,C Torres
+426,1,03:24,8,6,PIN,substituicao_entra,Ware
+427,1,03:24,8,6,PIN,substituicao_sai,Dawkins
+428,1,03:24,8,6,PIN,substituicao_entra,Ruivo
+429,1,03:24,8,6,PIN,substituicao_sai,Renato
+430,1,03:24,8,6,VAS,substituicao_entra,Duda
+431,1,03:24,8,6,VAS,substituicao_sai,Okorie
+432,1,03:24,8,6,VAS,FR,C Torres
+433,1,03:24,8,6,PIN,FC,Renato
+434,1,03:44,8,6,PIN,AS,Toledo
+435,1,03:44,8,6,PIN,2_Pts_C,Dawkins
+436,1,03:53,8,4,VAS,AS,C Torres
+437,1,03:53,8,4,VAS,2_Pts_C,Stocks
+438,1,04:12,6,4,VAS,RD,Okorie
+439,1,04:14,6,4,PIN,3_Pts_T,Renato
+440,1,04:28,6,4,VAS,ER,C Torres
+441,1,04:45,6,4,VAS,RD,Stocks
+442,1,04:48,6,4,PIN,2_Pts_T,Dawkins
+443,1,04:58,6,4,VAS,ER,Stocks
+444,1,05:00,6,4,VAS,RO,Stocks
+445,1,05:03,6,4,VAS,3_Pts_T,Okorie
+446,1,05:16,6,4,VAS,RD,Gemerson
+447,1,05:19,6,4,PIN,3_Pts_T,Bennett
+448,1,05:23,6,4,PIN,RD,Renato
+449,1,05:26,6,4,VAS,2_Pts_T,C Torres
+450,1,05:52,6,4,VAS,RD,Vasco da Gama
+451,1,05:54,6,4,PIN,2_Pts_T,Dawkins
+452,1,06:10,6,4,PIN,RD,Toledo
+453,1,06:16,6,4,VAS,2_Pts_T,Okorie
+454,1,06:33,6,4,PIN,2_Pts_C,Toledo
+455,1,06:46,6,2,VAS,AS,Vithinho
+456,1,06:46,6,2,VAS,3_Pts_C,Gemerson
+457,1,07:01,3,2,PIN,ER,Bennett
+458,1,07:14,3,2,PIN,RD,Dawkins
+459,1,07:17,3,2,VAS,3_Pts_T,Stocks
+460,1,07:31,3,2,PIN,AS,Isaac
+461,1,07:31,3,2,PIN,2_Pts_C,Toledo
+462,1,07:42,3,0,PIN,FR,Toledo
+463,1,07:42,3,0,VAS,ER,Gemerson
+464,1,07:42,3,0,VAS,FC_O,Gemerson
+465,1,07:57,3,0,VAS,RD,Stocks
+466,1,08:00,3,0,PIN,3_Pts_T,Renato
+467,1,08:06,3,0,PIN,FR,Toledo
+468,1,08:06,3,0,VAS,FC,Vithinho
+469,1,08:10,3,0,PIN,RD,Dawkins
+470,1,08:13,3,0,VAS,2_Pts_T,C Torres
+471,1,08:19,3,0,VAS,RD,Gemerson
+472,1,08:24,3,0,PIN,2_Pts_T,Toledo
+473,1,08:48,3,0,VAS,AS,Vithinho
+474,1,08:48,3,0,VAS,3_Pts_C,Gemerson
+475,1,08:55,0,0,VAS,RD,C Torres
+476,1,09:01,0,0,PIN,2_Pts_T,Toledo
+477,1,09:10,0,0,PIN,RO,Toledo
+478,1,09:14,0,0,PIN,2_Pts_T,Toledo
+479,1,09:27,0,0,VAS,ER,Stocks
+480,1,09:41,0,0,VAS,RD,C Torres
+481,1,09:45,0,0,PIN,2_Pts_T,Isaac
+482,1,10:00,0,0,PIN,substituicao_entra,Renato
+483,1,10:00,0,0,PIN,substituicao_entra,Dawkins
+484,1,10:00,0,0,PIN,substituicao_entra,Toledo
+485,1,10:00,0,0,PIN,substituicao_entra,Isaac
+486,1,10:00,0,0,PIN,substituicao_entra,Bennett
+487,1,10:00,0,0,VAS,substituicao_entra,C Torres
+488,1,10:00,0,0,VAS,substituicao_entra,Vithinho
+489,1,10:00,0,0,VAS,substituicao_entra,Gemerson
+490,1,10:00,0,0,VAS,substituicao_entra,Okorie
+491,1,10:00,0,0,VAS,substituicao_entra,Stocks
+492,1,10:00,0,0,,inicio_partida,

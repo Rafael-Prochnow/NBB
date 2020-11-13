@@ -1,0 +1,451 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,91,69, ,fim_partida,
+1,4,00:00,91,69,BAU,3_Pts_C,Hettsheimeir
+2,4,00:00,91,66,BAU,AS,Larry
+3,4,00:07,91,66,BAU,RD,Mathias
+4,4,00:07,91,66,FLA,3_Pts_T,Herrmann
+5,4,00:29,91,66,BAU,LL_Pts_C,R Fischer
+6,4,00:29,91,65,BAU,LL_Pts_C,R Fischer
+7,4,00:29,91,64,FLA,substituicao_entra,Danielzinho
+8,4,00:29,91,64,FLA,substituicao_sai,Benite
+9,4,00:29,91,64,BAU,FR,R Fischer
+10,4,00:29,91,64,FLA,FC,Marcelinho
+11,4,00:40,91,64,BAU,RD,Alex Garcia
+12,4,00:40,91,64,FLA,2_Pts_T,Benite
+13,4,00:49,91,64,FLA,FR,Marcelinho
+14,4,00:49,91,64,BAU,FC,Alex Garcia
+15,4,00:56,91,64,BAU,RO,Mathias
+16,4,00:56,91,64,BAU,3_Pts_T,Alex Garcia
+17,4,00:57,91,64,BAU,LL_Pts_T,Mathias
+18,4,00:57,91,64,BAU,LL_Pts_C,Mathias
+19,4,00:57,91,63,BAU,FR,Mathias
+20,4,00:57,91,63,FLA,FC,Meyinsse
+21,4,01:16,91,63,FLA,2_Pts_C,Herrmann
+22,4,01:16,89,63,FLA,AS,Marcelinho
+23,4,01:41,89,63,BAU,2_Pts_C,R Fischer
+24,4,01:48,89,61,BAU,substituicao_entra,Mathias
+25,4,01:49,89,61,BAU,substituicao_sai,Gui Deodato
+26,4,01:52,89,61,FLA,substituicao_entra,Meyinsse
+27,4,01:52,89,61,FLA,substituicao_sai,Felicio
+28,4,01:56,89,61,FLA,2_Pts_C,Benite
+29,4,02:15,87,61,BAU,2_Pts_C,Hettsheimeir
+30,4,02:15,87,59,BAU,AS,Larry
+31,4,02:29,87,59,FLA,3_Pts_C,Marcelinho
+32,4,02:29,84,59,FLA,AS,Herrmann
+33,4,02:41,84,59,BAU,2_Pts_C,Alex Garcia
+34,4,02:41,84,57,BAU,AS,Larry
+35,4,02:50,84,57,BAU,RO,Larry
+36,4,02:50,84,57,BAU,3_Pts_T,Hettsheimeir
+37,4,03:05,84,57,FLA,AS,Gegê
+38,4,03:08,84,57,FLA,2_Pts_C,Marcelinho
+39,4,03:28,82,57,BAU,2_Pts_C,R Fischer
+40,4,03:41,82,55,FLA,2_Pts_C,Herrmann
+41,4,04:00,80,55,BAU,LL_Pts_C,Hettsheimeir
+42,4,04:00,80,54,BAU,AS,R Fischer
+43,4,04:00,80,54,BAU,LL_Pts_C,Hettsheimeir
+44,4,04:00,80,53,BAU,FR,Hettsheimeir
+45,4,04:00,80,53,FLA,FC,Marcelinho
+46,4,04:06,80,53,BAU,FR,Gui Deodato
+47,4,04:06,80,53,FLA,FC,Marcelinho
+48,4,04:10,80,53,BAU,RD,Gui Deodato
+49,4,04:10,80,53,FLA,3_Pts_T,Herrmann
+50,4,04:17,80,53,FLA,RO,Felicio
+51,4,04:17,80,53,FLA,3_Pts_T,Benite
+52,4,04:38,80,53,FLA,RD,Benite
+53,4,04:38,80,53,BAU,3_Pts_T,Hettsheimeir
+54,4,04:53,80,53,FLA,ER,Felicio
+55,4,05:14,80,53,BAU,3_Pts_C,Alex Garcia
+56,4,05:32,80,50,FLA,ER,
+57,4,05:56,80,50,FLA,RD,Marcelinho
+58,4,05:56,80,50,BAU,2_Pts_T,R Fischer
+59,4,05:59,80,50,BAU,BR,R Fischer
+60,4,05:59,80,50,FLA,ER,Felicio
+61,4,06:05,80,50,FLA,RO,Felicio
+62,4,06:05,80,50,FLA,3_Pts_T,Gegê
+63,4,06:29,80,50,BAU,2_Pts_C,Alex Garcia
+64,4,06:29,80,48,BAU,AS,Larry
+65,4,06:44,80,48,BAU,tempo_tecnico,Bauru
+66,4,06:44,80,48,FLA,substituicao_entra,Felicio
+67,4,06:44,80,48,FLA,substituicao_sai,Meyinsse
+68,4,06:48,80,48,BAU,BR,Larry
+69,4,06:48,80,48,FLA,ER,Benite
+70,4,07:10,80,48,FLA,RD,Marcelinho
+71,4,07:10,80,48,BAU,3_Pts_T,Gui Deodato
+72,4,07:27,80,48,FLA,3_Pts_C,Marcelinho
+73,4,07:27,77,48,FLA,AS,Meyinsse
+74,4,07:42,77,48,FLA,RD,Gegê
+75,4,07:42,77,48,FLA,TO,Meyinsse
+76,4,07:42,77,48,BAU,2_Pts_T,R Fischer
+77,4,07:49,77,48,BAU,RD,R Fischer
+78,4,07:49,77,48,FLA,2_Pts_T,Meyinsse
+79,4,08:08,77,48,FLA,BR,Marcelinho
+80,4,08:08,77,48,BAU,ER,R Fischer
+81,4,08:24,77,48,FLA,3_Pts_C,Benite
+82,4,08:24,74,48,FLA,AS,Gegê
+83,4,08:43,74,48,BAU,2_Pts_C,Hettsheimeir
+84,4,08:43,74,46,BAU,AS,R Fischer
+85,4,09:04,74,46,FLA,2_Pts_C,Benite
+86,4,09:25,72,46,BAU,LL_Pts_C,Alex Garcia
+87,4,09:25,72,45,BAU,FR,Alex Garcia
+88,4,09:25,72,45,FLA,FC,Benite
+89,4,09:25,72,45,BAU,2_Pts_C,Alex Garcia
+90,4,09:45,72,43,FLA,2_Pts_C,Gegê
+91,3,00:00,70,43, ,fim_quarto,
+92,3,00:00,70,43,FLA,2_Pts_T,Benite
+93,3,00:07,70,43,FLA,BR,Gegê
+94,3,00:07,70,43,BAU,ER,Larry
+95,3,00:13,70,43,BAU,RD,Larry
+96,3,00:13,70,43,FLA,3_Pts_T,Olivinha
+97,3,00:25,70,43,BAU,3_Pts_C,Gui Deodato
+98,3,00:53,70,40,BAU,RO,Hettsheimeir
+99,3,00:53,70,40,FLA,TO,Meyinsse
+100,3,00:53,70,40,BAU,2_Pts_T,Hettsheimeir
+101,3,00:55,70,40,BAU,RO,Hettsheimeir
+102,3,00:55,70,40,BAU,LL_Pts_T,R Fischer
+103,3,00:55,70,40,BAU,LL_Pts_C,R Fischer
+104,3,00:55,70,39,BAU,FR,R Fischer
+105,3,00:55,70,39,FLA,FC,Gegê
+106,3,01:02,70,39,BAU,RD,Alex Garcia
+107,3,01:02,70,39,FLA,3_Pts_T,Gegê
+108,3,01:20,70,39,BAU,LL_Pts_C,R Fischer
+109,3,01:20,70,38,BAU,LL_Pts_C,R Fischer
+110,3,01:20,70,37,FLA,substituicao_entra,Marcelinho
+111,3,01:20,70,37,FLA,substituicao_sai,Marquinhos
+112,3,01:20,70,37,BAU,FR,R Fischer
+113,3,01:20,70,37,FLA,FC,Meyinsse
+114,3,01:32,70,37,FLA,2_Pts_C,Marquinhos
+115,3,01:32,68,37,FLA,AS,Gegê
+116,3,01:51,68,37,BAU,2_Pts_C,R Fischer
+117,3,01:59,68,35,BAU,RD,Alex Garcia
+118,3,01:59,68,35,FLA,2_Pts_T,Benite
+119,3,02:25,68,35,BAU,3_Pts_C,Gui Deodato
+120,3,02:25,68,32,BAU,AS,R Fischer
+121,3,02:38,68,32,FLA,2_Pts_C,Olivinha
+122,3,03:03,66,32,FLA,RD,Olivinha
+123,3,03:03,66,32,BAU,2_Pts_T,Alex Garcia
+124,3,03:20,66,32,FLA,2_Pts_C,Meyinsse
+125,3,03:20,64,32,FLA,AS,Gegê
+126,3,03:33,64,32,FLA,RO,Meyinsse
+127,3,03:33,64,32,FLA,3_Pts_T,Marquinhos
+128,3,03:44,64,32,BAU,substituicao_entra,Larry
+129,3,03:44,64,32,BAU,substituicao_sai,Robert Day
+130,3,03:44,64,32,FLA,LL_Pts_C,Marquinhos
+131,3,03:44,63,32,FLA,LL_Pts_C,Marquinhos
+132,3,03:44,62,32,FLA,substituicao_entra,Gegê
+133,3,03:44,62,32,FLA,substituicao_sai,Laprovittola
+134,3,03:44,62,32,FLA,FR,Marquinhos
+135,3,03:44,62,32,BAU,FC_A,R Fischer
+136,3,03:46,62,32,FLA,BR,Olivinha
+137,3,03:46,62,32,BAU,ER,R Fischer
+138,3,03:54,62,32,BAU,RD,Gui Deodato
+139,3,03:54,62,32,FLA,3_Pts_T,Benite
+140,3,04:03,62,32,FLA,RD,Laprovittola
+141,3,04:03,62,32,BAU,2_Pts_T,Hettsheimeir
+142,3,04:18,62,32,FLA,2_Pts_C,Meyinsse
+143,3,04:18,60,32,FLA,AS,Laprovittola
+144,3,04:25,60,32,FLA,FR,Marquinhos
+145,3,04:25,60,32,BAU,FC,R Fischer
+146,3,04:40,60,32,FLA,RD,Olivinha
+147,3,04:40,60,32,BAU,3_Pts_T,Robert Day
+148,3,04:55,60,32,FLA,2_Pts_C,Laprovittola
+149,3,05:18,58,32,BAU,2_Pts_C,R Fischer
+150,3,05:35,58,30,FLA,LL_Pts_C,Olivinha
+151,3,05:35,57,30,FLA,FR,Olivinha
+152,3,05:35,57,30,BAU,FC,Gui Deodato
+153,3,05:35,57,30,FLA,2_Pts_C,Olivinha
+154,3,05:35,55,30,FLA,AS,Laprovittola
+155,3,05:39,55,30,FLA,RD,Laprovittola
+156,3,05:39,55,30,BAU,2_Pts_T,Hettsheimeir
+157,3,06:00,55,30,BAU,FR,Alex Garcia
+158,3,06:00,55,30,FLA,FC,Olivinha
+159,3,06:08,55,30,FLA,2_Pts_C,Benite
+160,3,06:22,53,30,FLA,RD,Marquinhos
+161,3,06:22,53,30,BAU,3_Pts_T,Alex Garcia
+162,3,06:39,53,30,BAU,substituicao_entra,Gui Deodato
+163,3,06:39,53,30,BAU,substituicao_sai,Larry
+164,3,06:39,53,30,BAU,RD,Bauru
+165,3,06:39,53,30,FLA,3_Pts_T,Olivinha
+166,3,06:46,53,30,FLA,FR,Marquinhos
+167,3,06:46,53,30,BAU,FC,Robert Day
+168,3,06:46,53,30,BAU,FR,Robert Day
+169,3,06:46,53,30,FLA,FC,Marquinhos
+170,3,06:55,53,30,FLA,RD,Benite
+171,3,06:55,53,30,BAU,3_Pts_T,Robert Day
+172,3,07:00,53,30,BAU,RD,Bauru
+173,3,07:00,53,30,FLA,2_Pts_T,Laprovittola
+174,3,07:24,53,30,FLA,RD,Laprovittola
+175,3,07:24,53,30,FLA,TO,Benite
+176,3,07:24,53,30,BAU,2_Pts_T,Larry
+177,3,07:40,53,30,BAU,RD,Hettsheimeir
+178,3,07:40,53,30,FLA,LL_Pts_T,Olivinha
+179,3,07:40,53,30,FLA,FR,Olivinha
+180,3,07:40,53,30,BAU,FC,Larry
+181,3,07:40,53,30,FLA,2_Pts_C,Olivinha
+182,3,07:40,51,30,FLA,AS,Marquinhos
+183,3,07:46,51,30,FLA,BR,Marquinhos
+184,3,07:46,51,30,BAU,ER,Alex Garcia
+185,3,07:56,51,30,BAU,RD,Alex Garcia
+186,3,07:56,51,30,FLA,2_Pts_T,Benite
+187,3,08:13,51,30,BAU,substituicao_entra,Larry
+188,3,08:13,51,30,BAU,substituicao_sai,Murilo
+189,3,08:17,51,30,FLA,RD,Olivinha
+190,3,08:17,51,30,BAU,LL_Pts_T,Murilo
+191,3,08:17,51,30,BAU,LL_Pts_C,Murilo
+192,3,08:17,51,29,BAU,FR,Murilo
+193,3,08:17,51,29,FLA,FC,Laprovittola
+194,3,08:37,51,29,FLA,2_Pts_C,Laprovittola
+195,3,08:37,49,29,FLA,AS,Olivinha
+196,3,08:53,49,29,FLA,BR,Marquinhos
+197,3,08:53,49,29,BAU,ER,Murilo
+198,3,09:06,49,29,BAU,RO,Murilo
+199,3,09:06,49,29,BAU,LL_Pts_T,Alex Garcia
+200,3,09:06,49,29,BAU,LL_Pts_C,Alex Garcia
+201,3,09:06,49,28,BAU,FR,Alex Garcia
+202,3,09:06,49,28,FLA,FC,Benite
+203,3,09:14,49,28,BAU,RO,Robert Day
+204,3,09:14,49,28,FLA,TO,Meyinsse
+205,3,09:14,49,28,BAU,2_Pts_T,Murilo
+206,3,09:19,49,28,BAU,RO,R Fischer
+207,3,09:19,49,28,BAU,3_Pts_T,Robert Day
+208,3,09:34,49,28,FLA,2_Pts_C,Laprovittola
+209,3,09:40,47,28,FLA,RD,Olivinha
+210,3,09:40,47,28,BAU,2_Pts_T,Murilo
+211,2,00:00,47,28, ,fim_quarto,
+212,2,00:00,47,28,FLA,2_Pts_C,Marquinhos
+213,2,00:00,45,28,FLA,RO,Marquinhos
+214,2,00:00,45,28,FLA,3_Pts_T,Herrmann
+215,2,00:18,45,28,BAU,substituicao_entra,Gui Deodato
+216,2,00:18,45,28,BAU,substituicao_sai,Mathias
+217,2,00:18,45,28,FLA,substituicao_entra,Benite
+218,2,00:18,45,28,FLA,substituicao_sai,Felicio
+219,2,00:18,45,28,BAU,LL_Pts_C,R Fischer
+220,2,00:18,45,27,BAU,LL_Pts_C,R Fischer
+221,2,00:18,45,26,FLA,tempo_tecnico,Flamengo
+222,2,00:18,45,26,BAU,substituicao_entra,Mathias
+223,2,00:18,45,26,BAU,substituicao_sai,Alex Garcia
+224,2,00:18,45,26,BAU,FR,R Fischer
+225,2,00:18,45,26,FLA,FC,Felicio
+226,2,00:35,45,26,BAU,RD,Bauru
+227,2,00:35,45,26,FLA,3_Pts_T,Marquinhos
+228,2,00:46,45,26,FLA,FR,Marcelinho
+229,2,00:46,45,26,BAU,FC,Alex Garcia
+230,2,00:46,45,26,BAU,3_Pts_T,Larry
+231,2,01:00,45,26,FLA,3_Pts_C,Herrmann
+232,2,01:00,42,26,FLA,AS,Marcelinho
+233,2,01:05,42,26,FLA,RD,Herrmann
+234,2,01:05,42,26,BAU,3_Pts_T,Larry
+235,2,01:23,42,26,FLA,2_Pts_C,Felicio
+236,2,01:23,40,26,FLA,AS,Laprovittola
+237,2,01:33,40,26,FLA,FR,Marcelinho
+238,2,01:33,40,26,BAU,FC,Robert Day
+239,2,01:38,40,26,FLA,RD,Felicio
+240,2,01:38,40,26,BAU,2_Pts_T,Robert Day
+241,2,01:56,40,26,FLA,3_Pts_T,Marcelinho
+242,2,02:17,40,26,FLA,tempo_tecnico,Flamengo
+243,2,02:17,40,26,FLA,RD,Felicio
+244,2,02:17,40,26,BAU,LL_Pts_T,Murilo
+245,2,02:17,40,26,BAU,AS,Alex Garcia
+246,2,02:17,40,26,BAU,LL_Pts_C,Murilo
+247,2,02:17,40,25,BAU,substituicao_entra,Robert Day
+248,2,02:17,40,25,BAU,substituicao_sai,Gui Deodato
+249,2,02:17,40,25,BAU,FR,Murilo
+250,2,02:17,40,25,FLA,FC,Marquinhos
+251,2,02:36,40,25,BAU,BR,Gui Deodato
+252,2,02:36,40,25,FLA,ER,Herrmann
+253,2,02:52,40,25,FLA,RD,Marquinhos
+254,2,02:52,40,25,FLA,TO,Felicio
+255,2,02:52,40,25,BAU,2_Pts_T,Alex Garcia
+256,2,03:06,40,25,BAU,substituicao_entra,Murilo
+257,2,03:07,40,25,BAU,substituicao_sai,Hettsheimeir
+258,2,03:16,40,25,BAU,tempo_tecnico,Bauru
+259,2,03:16,40,25,FLA,LL_Pts_C,Marquinhos
+260,2,03:16,39,25,FLA,LL_Pts_C,Marquinhos
+261,2,03:16,38,25,FLA,FR,Marquinhos
+262,2,03:16,38,25,BAU,FC,Hettsheimeir
+263,2,03:30,38,25,FLA,RD,Marquinhos
+264,2,03:30,38,25,BAU,3_Pts_T,Gui Deodato
+265,2,03:33,38,25,FLA,substituicao_entra,Marquinhos
+266,2,03:34,38,25,FLA,substituicao_sai,Benite
+267,2,03:46,38,25,BAU,substituicao_entra,Alex Garcia
+268,2,03:46,38,25,BAU,substituicao_sai,Murilo
+269,2,03:46,38,25,BAU,FR,R Fischer
+270,2,03:46,38,25,FLA,FC,Laprovittola
+271,2,04:10,38,25,FLA,3_Pts_C,Laprovittola
+272,2,04:10,35,25,FLA,AS,Felicio
+273,2,04:14,35,25,FLA,RO,Felicio
+274,2,04:14,35,25,FLA,3_Pts_T,Benite
+275,2,04:37,35,25,BAU,2_Pts_C,Larry
+276,2,04:37,35,23,BAU,AS,R Fischer
+277,2,04:40,35,23,BAU,RD,R Fischer
+278,2,04:40,35,23,FLA,2_Pts_T,Marcelinho
+279,2,04:56,35,23,FLA,RD,Felicio
+280,2,04:56,35,23,BAU,2_Pts_T,Gui Deodato
+281,2,05:20,35,23,FLA,ER,Felicio
+282,2,05:33,35,23,BAU,substituicao_entra,Gui Deodato
+283,2,05:33,35,23,BAU,substituicao_sai,Robert Day
+284,2,05:33,35,23,BAU,LL_Pts_C,Murilo
+285,2,05:33,35,22,BAU,LL_Pts_C,Murilo
+286,2,05:33,35,21,BAU,FR,Murilo
+287,2,05:33,35,21,FLA,FC,Felicio
+288,2,05:49,35,21,BAU,RD,Robert Day
+289,2,05:49,35,21,FLA,3_Pts_T,Herrmann
+290,2,05:57,35,21,FLA,RD,Laprovittola
+291,2,05:57,35,21,BAU,3_Pts_T,Hettsheimeir
+292,2,06:16,35,21,FLA,3_Pts_C,Marcelinho
+293,2,06:16,32,21,FLA,AS,Benite
+294,2,06:23,32,21,FLA,RD,Laprovittola
+295,2,06:23,32,21,BAU,2_Pts_T,Hettsheimeir
+296,2,06:50,32,21,BAU,tempo_tecnico,Bauru
+297,2,06:50,32,21,FLA,2_Pts_C,Benite
+298,2,06:56,30,21,FLA,RO,Flamengo
+299,2,06:56,30,21,FLA,3_Pts_T,Laprovittola
+300,2,07:04,30,21,FLA,BR,Laprovittola
+301,2,07:04,30,21,BAU,ER,Murilo
+302,2,08:58,30,21,BAU,LL_Pts_C,Robert Day
+303,2,08:58,30,20,FLA,FC_T,Flamengo
+304,2,08:58,30,20,BAU,substituicao_entra,Larry
+305,2,08:58,30,20,BAU,substituicao_sai,Alex Garcia
+306,2,08:58,30,20,BAU,FR,Alex Garcia
+307,2,08:58,30,20,FLA,FC_O,Benite
+308,2,09:02,30,20,FLA,RD,Benite
+309,2,09:02,30,20,BAU,2_Pts_T,Murilo
+310,2,09:02,30,20,BAU,RD,Hettsheimeir
+311,2,09:02,30,20,FLA,2_Pts_T,Herrmann
+312,2,09:02,30,20,FLA,RD,Benite
+313,2,09:02,30,20,BAU,2_Pts_T,Alex Garcia
+314,2,09:02,30,20,FLA,2_Pts_C,Laprovittola
+315,2,09:02,28,20,FLA,AS,Herrmann
+316,2,09:02,28,20,FLA,RD,Felicio
+317,2,09:02,28,20,BAU,2_Pts_T,Hettsheimeir
+318,2,09:02,28,20,BAU,RD,Alex Garcia
+319,2,09:02,28,20,FLA,2_Pts_T,Laprovittola
+320,2,09:02,28,20,FLA,FR,Benite
+321,2,09:02,28,20,BAU,FC,Alex Garcia
+322,2,09:05,28,20,FLA,FR,Benite
+323,2,09:05,28,20,BAU,FC,Alex Garcia
+324,2,09:22,28,20,BAU,2_Pts_C,Alex Garcia
+325,2,09:22,28,18,BAU,AS,R Fischer
+326,2,09:26,28,18,BAU,BR,R Fischer
+327,2,09:26,28,18,FLA,ER,Felicio
+328,2,09:34,28,18,FLA,RD,Felicio
+329,2,09:34,28,18,BAU,3_Pts_T,R Fischer
+330,2,09:44,28,18,BAU,FR,Murilo
+331,2,09:44,28,18,FLA,FC,Herrmann
+332,2,09:44,28,18,BAU,RD,Murilo
+333,2,09:44,28,18,FLA,3_Pts_T,Herrmann
+334,2,09:44,28,18,BAU,substituicao_entra,Alex Garcia
+335,2,09:45,28,18,BAU,substituicao_entra,Robert Day
+336,2,09:48,28,18,BAU,substituicao_entra,Murilo
+337,2,09:53,28,18,BAU,substituicao_entra,Hettsheimeir
+338,2,09:57,28,18,BAU,substituicao_entra,R Fischer
+339,1,00:00,28,18, ,fim_quarto,
+340,1,00:00,28,18,BAU,3_Pts_C,Hettsheimeir
+341,1,00:00,28,15,BAU,AS,R Fischer
+342,1,00:18,28,15,FLA,3_Pts_T,Laprovittola
+343,1,00:53,28,15,FLA,RD,Olivinha
+344,1,00:53,28,15,BAU,3_Pts_T,Robert Day
+345,1,01:08,28,15,FLA,2_Pts_C,Benite
+346,1,01:08,26,15,FLA,AS,Laprovittola
+347,1,01:18,26,15,FLA,RD,Flamengo
+348,1,01:18,26,15,BAU,2_Pts_T,Alex Garcia
+349,1,01:29,26,15,BAU,BR,R Fischer
+350,1,01:29,26,15,FLA,ER,Meyinsse
+351,1,01:39,26,15,FLA,RD,Olivinha
+352,1,01:39,26,15,BAU,3_Pts_T,Alex Garcia
+353,1,01:56,26,15,BAU,substituicao_entra,R Fischer
+354,1,01:56,26,15,BAU,substituicao_sai,Murilo
+355,1,01:56,26,15,FLA,LL_Pts_C,Olivinha
+356,1,01:56,25,15,FLA,BR,Marquinhos
+357,1,01:56,25,15,BAU,ER,Murilo
+358,1,01:56,25,15,BAU,2_Pts_C,Murilo
+359,1,01:56,25,13,FLA,2_Pts_C,Olivinha
+360,1,01:56,23,13,FLA,AS,Marquinhos
+361,1,02:04,23,13,BAU,RD,Larry
+362,1,02:04,23,13,FLA,3_Pts_T,Olivinha
+363,1,02:18,23,13,FLA,RD,Meyinsse
+364,1,02:18,23,13,BAU,2_Pts_T,Larry
+365,1,02:40,23,13,FLA,2_Pts_C,Laprovittola
+366,1,02:47,21,13,BAU,RD,Murilo
+367,1,02:50,21,13,FLA,FR,Marquinhos
+368,1,02:50,21,13,BAU,FC,Murilo
+369,1,02:50,21,13,FLA,3_Pts_T,Olivinha
+370,1,03:16,21,13,BAU,LL_Pts_C,Alex Garcia
+371,1,03:16,21,12,BAU,LL_Pts_T,Alex Garcia
+372,1,03:16,21,12,BAU,FR,Alex Garcia
+373,1,03:16,21,12,FLA,FC,Meyinsse
+374,1,03:16,21,12,BAU,substituicao_entra,Robert Day
+375,1,03:16,21,12,BAU,substituicao_sai,R Fischer
+376,1,03:24,21,12,BAU,RD,Murilo
+377,1,03:24,21,12,FLA,2_Pts_T,Meyinsse
+378,1,03:44,21,12,BAU,3_Pts_C,R Fischer
+379,1,03:44,21,9,BAU,AS,Larry
+380,1,03:53,21,9,BAU,RD,Larry
+381,1,03:53,21,9,FLA,3_Pts_T,Laprovittola
+382,1,04:03,21,9,FLA,RD,Meyinsse
+383,1,04:03,21,9,BAU,2_Pts_T,Alex Garcia
+384,1,04:17,21,9,FLA,3_Pts_C,Olivinha
+385,1,04:17,18,9,FLA,AS,Benite
+386,1,04:34,18,9,BAU,LL_Pts_C,Murilo
+387,1,04:34,18,8,BAU,LL_Pts_T,Murilo
+388,1,04:34,18,8,BAU,FR,Murilo
+389,1,04:34,18,8,FLA,FC,Olivinha
+390,1,04:34,18,8,BAU,RO,Murilo
+391,1,04:34,18,8,BAU,3_Pts_T,R Fischer
+392,1,04:57,18,8,FLA,2_Pts_C,Marquinhos
+393,1,05:12,16,8,BAU,2_Pts_C,Alex Garcia
+394,1,05:27,16,6,FLA,2_Pts_C,Laprovittola
+395,1,05:32,14,6,FLA,BR,Marquinhos
+396,1,05:32,14,6,BAU,ER,R Fischer
+397,1,05:49,14,6,FLA,LL_Pts_C,Marquinhos
+398,1,05:49,13,6,FLA,LL_Pts_C,Marquinhos
+399,1,05:49,12,6,BAU,substituicao_entra,Larry
+400,1,05:49,12,6,BAU,substituicao_sai,Gui Deodato
+401,1,05:49,12,6,FLA,FR,Marquinhos
+402,1,05:49,12,6,BAU,FC,Hettsheimeir
+403,1,05:54,12,6,FLA,RD,Marquinhos
+404,1,05:54,12,6,BAU,2_Pts_T,Hettsheimeir
+405,1,06:15,12,6,BAU,BR,Hettsheimeir
+406,1,06:15,12,6,FLA,ER,Olivinha
+407,1,06:24,12,6,FLA,RO,Marquinhos
+408,1,06:24,12,6,FLA,3_Pts_T,Benite
+409,1,06:37,12,6,FLA,RD,Benite
+410,1,06:37,12,6,BAU,3_Pts_T,R Fischer
+411,1,06:59,12,6,FLA,3_Pts_C,Benite
+412,1,06:59,9,6,FLA,AS,Laprovittola
+413,1,07:08,9,6,BAU,2_Pts_C,Hettsheimeir
+414,1,07:08,9,4,BAU,AS,R Fischer
+415,1,07:37,9,4,FLA,2_Pts_C,Olivinha
+416,1,07:37,7,4,FLA,AS,Laprovittola
+417,1,07:43,7,4,FLA,BR,Laprovittola
+418,1,07:43,7,4,BAU,ER,Alex Garcia
+419,1,08:00,7,4,FLA,EN,Meyinsse
+420,1,08:00,5,4,FLA,AS,Marquinhos
+421,1,08:13,5,4,FLA,RD,Olivinha
+422,1,08:13,5,4,BAU,2_Pts_T,Gui Deodato
+423,1,08:22,5,4,FLA,LL_Pts_C,Meyinsse
+424,1,08:22,4,4,FLA,LL_Pts_C,Meyinsse
+425,1,08:22,3,4,FLA,FR,Meyinsse
+426,1,08:22,3,4,BAU,FC,Gui Deodato
+427,1,08:26,3,4,FLA,RO,Flamengo
+428,1,08:26,3,4,FLA,2_Pts_T,Meyinsse
+429,1,08:31,3,4,FLA,RO,Meyinsse
+430,1,08:31,3,4,FLA,2_Pts_T,Laprovittola
+431,1,08:56,3,4,BAU,2_Pts_C,Murilo
+432,1,08:56,3,2,BAU,AS,R Fischer
+433,1,09:04,3,2,BAU,RD,R Fischer
+434,1,09:04,3,2,FLA,2_Pts_T,Marquinhos
+435,1,09:20,3,2,BAU,2_Pts_C,R Fischer
+436,1,09:34,3,0,FLA,3_Pts_C,Marquinhos
+437,1,09:34,0,0,FLA,AS,Laprovittola
+438,1,09:47,0,0,FLA,RD,Meyinsse
+439,1,09:47,0,0,BAU,2_Pts_T,Hettsheimeir
+440,1,10:00,0,0,BAU,substituicao_entra,Hettsheimeir
+441,1,10:00,0,0,BAU,substituicao_entra,Murilo
+442,1,10:00,0,0,BAU,substituicao_entra,Alex Garcia
+443,1,10:00,0,0,BAU,substituicao_entra,Gui Deodato
+444,1,10:00,0,0,BAU,substituicao_entra,R Fischer
+445,1,10:00,0,0,FLA,substituicao_entra,Meyinsse
+446,1,10:00,0,0,FLA,substituicao_entra,Olivinha
+447,1,10:00,0,0,FLA,substituicao_entra,Marquinhos
+448,1,10:00,0,0,FLA,substituicao_entra,Benite
+449,1,10:00,0,0,FLA,substituicao_entra,Laprovittola

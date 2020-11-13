@@ -1,0 +1,499 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,94,81, ,fim_partida,
+1,4,00:00,94,81,MIN,substituicao_sai,Pedro Macedo
+2,4,00:00,94,81,MIN,substituicao_sai,Léo Demétrio
+3,4,00:00,94,81,MIN,substituicao_sai,Rafael
+4,4,00:00,94,81,MIN,substituicao_sai,Matheus P
+5,4,00:00,94,81,MIN,substituicao_sai,Carioca
+6,4,00:00,94,81,BAU,substituicao_sai,Labbate
+7,4,00:00,94,81,BAU,substituicao_sai,Robert Day
+8,4,00:00,94,81,BAU,substituicao_sai,Gui Santos
+9,4,00:00,94,81,BAU,substituicao_sai,Jefferson W
+10,4,00:00,94,81,BAU,substituicao_sai,R Fischer
+11,4,00:00,94,81,MIN,FC,Carioca
+12,4,00:02,94,81,MIN,RD,Léo Demétrio
+13,4,00:02,94,81,BAU,2_Pts_T,R Fischer
+14,4,00:22,94,81,MIN,substituicao_entra,Rafael
+15,4,00:22,94,81,MIN,substituicao_sai,Simmons
+16,4,00:22,94,81,MIN,2_Pts_C,Léo Demétrio
+17,4,00:29,94,79,MIN,RD,Pedro Macedo
+18,4,00:29,94,79,BAU,3_Pts_T,Jefferson W
+19,4,00:37,94,79,MIN,2_Pts_C,Simmons
+20,4,00:37,94,77,MIN,AS,Léo Demétrio
+21,4,00:55,94,77,BAU,substituicao_entra,Gui Santos
+22,4,00:55,94,77,BAU,substituicao_sai,Alex Garcia
+23,4,00:55,94,77,BAU,LL_Pts_C,Alex Garcia
+24,4,00:55,93,77,BAU,LL_Pts_C,Alex Garcia
+25,4,00:55,92,77,BAU,substituicao_entra,Labbate
+26,4,00:55,92,77,BAU,substituicao_sai,Hettsheimeir
+27,4,00:55,92,77,MIN,substituicao_entra,Matheus P
+28,4,00:55,92,77,MIN,substituicao_sai,Shilton
+29,4,00:55,92,77,BAU,FR,Alex Garcia
+30,4,00:55,92,77,MIN,FC,Simmons
+31,4,00:55,92,77,BAU,RD,Jefferson W
+32,4,00:55,92,77,MIN,3_Pts_T,Carioca
+33,4,01:18,92,77,BAU,3_Pts_C,Robert Day
+34,4,01:18,89,77,BAU,AS,R Fischer
+35,4,01:29,89,77,MIN,3_Pts_C,Pedro Macedo
+36,4,01:29,89,74,MIN,AS,Shilton
+37,4,01:35,89,74,BAU,3_Pts_C,Jefferson W
+38,4,01:35,86,74,BAU,AS,R Fischer
+39,4,01:51,86,74,MIN,2_Pts_C,Simmons
+40,4,02:19,86,72,BAU,2_Pts_C,Jefferson W
+41,4,02:28,84,72,BAU,RD,R Fischer
+42,4,02:28,84,72,BAU,TO,Jefferson W
+43,4,02:28,84,72,MIN,2_Pts_T,Carioca
+44,4,02:38,84,72,MIN,substituicao_entra,Carioca
+45,4,02:38,84,72,MIN,substituicao_sai,Ansaloni
+46,4,02:53,84,72,BAU,3_Pts_C,Alex Garcia
+47,4,02:53,81,72,BAU,AS,Robert Day
+48,4,03:09,81,72,MIN,3_Pts_C,Pedro Macedo
+49,4,03:15,81,69,MIN,RO,Pedro Macedo
+50,4,03:15,81,69,MIN,2_Pts_T,Pedro Macedo
+51,4,03:35,81,69,MIN,RD,Simmons
+52,4,03:35,81,69,BAU,2_Pts_T,R Fischer
+53,4,03:49,81,69,MIN,substituicao_entra,Léo Demétrio
+54,4,03:49,81,69,MIN,substituicao_sai,Carioca
+55,4,04:05,81,69,BAU,RD,Hettsheimeir
+56,4,04:05,81,69,MIN,2_Pts_T,Ansaloni
+57,4,04:26,81,69,MIN,FC,Carioca
+58,4,04:26,81,69,MIN,substituicao_entra,Carioca
+59,4,04:26,81,69,MIN,substituicao_sai,Léo Demétrio
+60,4,04:28,81,69,MIN,tempo_tecnico,Minas
+61,4,04:28,81,69,BAU,3_Pts_C,Robert Day
+62,4,04:28,78,69,BAU,AS,R Fischer
+63,4,04:48,78,69,MIN,LL_Pts_C,Simmons
+64,4,04:48,78,68,MIN,LL_Pts_T,Simmons
+65,4,04:48,78,68,MIN,FR,Simmons
+66,4,04:48,78,68,BAU,FC,R Fischer
+67,4,05:03,78,68,MIN,RD,Ansaloni
+68,4,05:03,78,68,BAU,3_Pts_T,Alex Garcia
+69,4,05:17,78,68,BAU,RD,R Fischer
+70,4,05:17,78,68,MIN,2_Pts_T,Shilton
+71,4,05:38,78,68,BAU,3_Pts_C,Alex Garcia
+72,4,05:44,75,68,MIN,substituicao_entra,Ansaloni
+73,4,05:44,75,68,MIN,substituicao_sai,Carioca
+74,4,05:54,75,68,BAU,RD,Jefferson W
+75,4,05:54,75,68,MIN,LL_Pts_T,Carioca
+76,4,05:54,75,68,MIN,LL_Pts_C,Carioca
+77,4,05:54,75,67,MIN,FR,Carioca
+78,4,05:54,75,67,BAU,FC,Robert Day
+79,4,05:59,75,67,MIN,RD,Carioca
+80,4,05:59,75,67,BAU,2_Pts_T,Alex Garcia
+81,4,06:00,75,67,BAU,substituicao_entra,Robert Day
+82,4,06:00,75,67,BAU,substituicao_sai,Léo Meindl
+83,4,06:11,75,67,BAU,substituicao_entra,R Fischer
+84,4,06:11,75,67,BAU,substituicao_sai,Paulinho Boracini
+85,4,06:17,75,67,BAU,RD,R Fischer
+86,4,06:17,75,67,MIN,3_Pts_T,Simmons
+87,4,06:37,75,67,BAU,LL_Pts_C,Alex Garcia
+88,4,06:37,74,67,MIN,substituicao_entra,Carioca
+89,4,06:37,74,67,MIN,substituicao_sai,Loroh
+90,4,06:37,74,67,BAU,2_Pts_C,Alex Garcia
+91,4,06:37,72,67,BAU,FR,Alex Garcia
+92,4,06:37,72,67,MIN,FC,Simmons
+93,4,06:50,72,67,BAU,RD,Alex Garcia
+94,4,06:50,72,67,MIN,LL_Pts_T,Léo Demétrio
+95,4,06:51,72,67,BAU,substituicao_entra,Jefferson W
+96,4,06:51,72,67,BAU,substituicao_sai,Robert Day
+97,4,06:51,72,67,BAU,substituicao_entra,Hettsheimeir
+98,4,06:51,72,67,BAU,substituicao_sai,Wesley
+99,4,06:51,72,67,MIN,substituicao_entra,Loroh
+100,4,06:51,72,67,MIN,substituicao_sai,Carioca
+101,4,06:51,72,67,MIN,2_Pts_C,Léo Demétrio
+102,4,06:51,72,65,MIN,FR,Léo Demétrio
+103,4,06:51,72,65,BAU,FC,Léo Meindl
+104,4,07:04,72,65,BAU,3_Pts_C,Léo Meindl
+105,4,07:04,69,65,BAU,AS,Alex Garcia
+106,4,07:24,69,65,MIN,3_Pts_C,Simmons
+107,4,07:37,69,62,MIN,substituicao_entra,Pedro Macedo
+108,4,07:37,69,62,MIN,substituicao_sai,Loroh
+109,4,07:37,69,62,BAU,LL_Pts_C,Alex Garcia
+110,4,07:37,68,62,BAU,LL_Pts_C,Alex Garcia
+111,4,07:37,67,62,MIN,substituicao_entra,Carioca
+112,4,07:37,67,62,MIN,substituicao_sai,Ansaloni
+113,4,07:37,67,62,BAU,FR,Alex Garcia
+114,4,07:37,67,62,MIN,FC,Ansaloni
+115,4,07:53,67,62,MIN,LL_Pts_C,Ansaloni
+116,4,07:53,67,61,MIN,LL_Pts_T,Ansaloni
+117,4,07:53,67,61,MIN,FR,Ansaloni
+118,4,07:53,67,61,BAU,FC,Léo Meindl
+119,4,08:09,67,61,BAU,3_Pts_C,Léo Meindl
+120,4,08:09,64,61,BAU,AS,Robert Day
+121,4,08:32,64,61,MIN,2_Pts_C,Ansaloni
+122,4,08:32,64,59,MIN,AS,Shilton
+123,4,08:51,64,59,BAU,3_Pts_C,Robert Day
+124,4,08:51,61,59,BAU,AS,Paulinho Boracini
+125,4,08:58,61,59,BAU,RO,Paulinho Boracini
+126,4,08:58,61,59,BAU,3_Pts_T,Robert Day
+127,4,09:20,61,59,MIN,2_Pts_C,Ansaloni
+128,4,09:36,61,57,BAU,2_Pts_C,Léo Meindl
+129,4,09:36,59,57,BAU,AS,Robert Day
+130,4,09:50,59,57,MIN,LL_Pts_C,Simmons
+131,4,09:50,59,56,MIN,substituicao_entra,Léo Demétrio
+132,4,09:50,59,56,MIN,substituicao_sai,Carioca
+133,4,09:50,59,56,MIN,2_Pts_C,Simmons
+134,4,09:50,59,54,MIN,FR,Simmons
+135,4,09:50,59,54,BAU,FC,Robert Day
+136,3,00:00,59,54, ,fim_quarto,
+137,3,00:01,59,54,MIN,3_Pts_C,Carioca
+138,3,00:03,59,51,MIN,substituicao_entra,Carioca
+139,3,00:03,59,51,MIN,substituicao_sai,Léo Demétrio
+140,3,00:04,59,51,MIN,RD,Minas
+141,3,00:04,59,51,BAU,3_Pts_T,Robert Day
+142,3,00:18,59,51,BAU,substituicao_entra,Robert Day
+143,3,00:18,59,51,BAU,substituicao_sai,Murilo
+144,3,00:18,59,51,BAU,,
+145,3,00:18,59,51,MIN,ER,Léo Demétrio
+146,3,00:23,59,51,MIN,RD,Léo Demétrio
+147,3,00:23,59,51,BAU,3_Pts_T,R Fischer
+148,3,00:41,59,51,MIN,2_Pts_C,Simmons
+149,3,00:45,59,49,MIN,RO,Simmons
+150,3,00:45,59,49,MIN,3_Pts_T,Loroh
+151,3,01:01,59,49,MIN,RD,Shilton
+152,3,01:01,59,49,BAU,LL_Pts_T,Hettsheimeir
+153,3,01:01,59,49,BAU,LL_Pts_C,Hettsheimeir
+154,3,01:01,58,49,BAU,FR,Hettsheimeir
+155,3,01:01,58,49,MIN,FC,Ansaloni
+156,3,01:02,58,49,BAU,RO,Hettsheimeir
+157,3,01:02,58,49,BAU,3_Pts_T,Léo Meindl
+158,3,01:20,58,49,MIN,substituicao_entra,Léo Demétrio
+159,3,01:20,58,49,MIN,substituicao_sai,Carioca
+160,3,01:20,58,49,MIN,LL_Pts_C,Simmons
+161,3,01:20,58,48,MIN,LL_Pts_C,Simmons
+162,3,01:20,58,47,MIN,FR,Simmons
+163,3,01:20,58,47,BAU,FC,Hettsheimeir
+164,3,01:32,58,47,BAU,FR,R Fischer
+165,3,01:32,58,47,MIN,FC,Ansaloni
+166,3,01:46,58,47,BAU,LL_Pts_C,R Fischer
+167,3,01:46,57,47,BAU,LL_Pts_C,R Fischer
+168,3,02:05,56,47,MIN,2_Pts_C,Ansaloni
+169,3,02:05,56,45,MIN,AS,Shilton
+170,3,02:19,56,45,MIN,LL_Pts_C,Simmons
+171,3,02:19,56,44,BAU,FC_T,R Fischer
+172,3,02:30,56,44,MIN,2_Pts_C,Carioca
+173,3,02:35,56,42,MIN,BR,Carioca
+174,3,02:35,56,42,BAU,ER,R Fischer
+175,3,02:46,56,42,BAU,RD,R Fischer
+176,3,02:46,56,42,MIN,2_Pts_T,Carioca
+177,3,03:03,56,42,MIN,RD,Shilton
+178,3,03:03,56,42,BAU,3_Pts_T,Alex Garcia
+179,3,03:14,56,42,BAU,FR,R Fischer
+180,3,03:15,56,42,MIN,substituicao_entra,Shilton
+181,3,03:15,56,42,MIN,substituicao_sai,Léo Demétrio
+182,3,03:17,56,42,BAU,,
+183,3,03:17,56,42,MIN,ER,Ansaloni
+184,3,03:23,56,42,MIN,RO,Ansaloni
+185,3,03:23,56,42,MIN,3_Pts_T,Loroh
+186,3,03:29,56,42,MIN,RO,Ansaloni
+187,3,03:29,56,42,MIN,2_Pts_T,Carioca
+188,3,03:40,56,42,BAU,2_Pts_C,Murilo
+189,3,03:40,54,42,BAU,AS,R Fischer
+190,3,03:49,54,42,BAU,RD,Alex Garcia
+191,3,03:49,54,42,MIN,LL_Pts_T,Carioca
+192,3,03:49,54,42,MIN,LL_Pts_T,Carioca
+193,3,03:49,54,42,MIN,FR,Carioca
+194,3,03:49,54,42,BAU,FC,Murilo
+195,3,03:57,54,42,MIN,RD,Minas
+196,3,03:57,54,42,BAU,2_Pts_T,R Fischer
+197,3,04:16,54,42,MIN,2_Pts_C,Carioca
+198,3,04:33,54,40,BAU,LL_Pts_C,Hettsheimeir
+199,3,04:33,53,40,BAU,LL_Pts_T,Hettsheimeir
+200,3,04:33,53,40,MIN,substituicao_entra,Ansaloni
+201,3,04:33,53,40,MIN,substituicao_sai,Shilton
+202,3,04:33,53,40,BAU,substituicao_entra,Murilo
+203,3,04:33,53,40,BAU,substituicao_sai,Jefferson W
+204,3,04:33,53,40,BAU,FR,Hettsheimeir
+205,3,04:33,53,40,MIN,FC,Simmons
+206,3,04:35,53,40,BAU,RO,Hettsheimeir
+207,3,04:35,53,40,BAU,3_Pts_T,Alex Garcia
+208,3,04:50,53,40,BAU,substituicao_entra,Léo Meindl
+209,3,04:50,53,40,BAU,substituicao_sai,Robert Day
+210,3,04:50,53,40,MIN,substituicao_entra,Loroh
+211,3,04:50,53,40,MIN,substituicao_sai,Pedro Macedo
+212,3,04:52,53,40,BAU,FR,Robert Day
+213,3,04:52,53,40,MIN,FC_O,Pedro Macedo
+214,3,05:14,53,40,MIN,RD,Shilton
+215,3,05:14,53,40,BAU,3_Pts_T,Jefferson W
+216,3,05:28,53,40,MIN,2_Pts_C,Simmons
+217,3,05:48,53,38,MIN,substituicao_entra,Carioca
+218,3,05:48,53,38,MIN,substituicao_sai,Panunzio
+219,3,05:48,53,38,BAU,3_Pts_C,Robert Day
+220,3,05:48,50,38,BAU,AS,R Fischer
+221,3,05:50,50,38,BAU,BR,R Fischer
+222,3,05:50,50,38,MIN,ER,Panunzio
+223,3,06:00,50,38,MIN,FR,Pedro Macedo
+224,3,06:00,50,38,BAU,FC,Robert Day
+225,3,06:08,50,38,MIN,substituicao_entra,Panunzio
+226,3,06:08,50,38,MIN,substituicao_sai,Carioca
+227,3,06:08,50,38,BAU,LL_Pts_C,R Fischer
+228,3,06:08,49,38,BAU,LL_Pts_T,R Fischer
+229,3,06:08,49,38,BAU,FR,R Fischer
+230,3,06:18,49,38,BAU,RD,Hettsheimeir
+231,3,06:18,49,38,MIN,2_Pts_T,Shilton
+232,3,06:42,49,38,BAU,3_Pts_C,Hettsheimeir
+233,3,06:42,46,38,BAU,AS,Jefferson W
+234,3,06:45,46,38,BAU,FR,Hettsheimeir
+235,3,06:45,46,38,MIN,FC,Pedro Macedo
+236,3,07:02,46,38,BAU,RD,Hettsheimeir
+237,3,07:02,46,38,MIN,2_Pts_T,Léo Demétrio
+238,3,07:12,46,38,MIN,RD,Léo Demétrio
+239,3,07:12,46,38,BAU,3_Pts_T,Jefferson W
+240,3,07:16,46,38,BAU,RD,Hettsheimeir
+241,3,07:16,46,38,MIN,2_Pts_T,Léo Demétrio
+242,3,07:48,46,38,BAU,2_Pts_C,Hettsheimeir
+243,3,07:48,44,38,BAU,AS,Alex Garcia
+244,3,08:02,44,38,MIN,3_Pts_C,Léo Demétrio
+245,3,08:40,44,35,BAU,3_Pts_C,Robert Day
+246,3,08:40,41,35,BAU,AS,Alex Garcia
+247,3,08:52,41,35,MIN,3_Pts_C,Simmons
+248,3,09:07,41,32,BAU,2_Pts_C,R Fischer
+249,3,09:14,39,32,MIN,2_Pts_C,Pedro Macedo
+250,3,09:18,39,30,MIN,RO,Pedro Macedo
+251,3,09:18,39,30,MIN,2_Pts_T,Léo Demétrio
+252,3,09:28,39,30,BAU,ER,Jefferson W
+253,3,09:50,39,30,BAU,FR,Hettsheimeir
+254,3,09:50,39,30,MIN,FC,Shilton
+255,2,00:00,39,30, ,fim_quarto,
+256,2,00:01,39,30,MIN,3_Pts_T,Panunzio
+257,2,00:19,39,30,MIN,tempo_tecnico,Minas
+258,2,00:19,39,30,MIN,,
+259,2,00:19,39,30,MIN,FR,Simmons
+260,2,00:19,39,30,BAU,FC,Paulinho Boracini
+261,2,00:20,39,30,BAU,substituicao_entra,Léo
+262,2,00:20,39,30,BAU,substituicao_sai,Léo Meindl
+263,2,00:20,39,30,MIN,substituicao_entra,Shilton
+264,2,00:20,39,30,MIN,substituicao_sai,Júnior
+265,2,00:25,39,30,BAU,RD,Léo Meindl
+266,2,00:40,39,30,BAU,2_Pts_C,Léo Meindl
+267,2,00:42,37,30,BAU,RO,Léo Meindl
+268,2,00:42,37,30,BAU,2_Pts_T,Alex Garcia
+269,2,00:48,37,30,BAU,RD,Jefferson W
+270,2,00:48,37,30,MIN,2_Pts_T,Simmons
+271,2,01:14,37,30,BAU,3_Pts_C,Paulinho Boracini
+272,2,01:14,34,30,BAU,AS,Léo Meindl
+273,2,01:37,34,30,BAU,RD,Wesley
+274,2,01:37,34,30,MIN,LL_Pts_T,Panunzio
+275,2,01:37,34,30,BAU,tempo_tecnico,Bauru
+276,2,01:37,34,30,MIN,substituicao_entra,Matheus P
+277,2,01:37,34,30,MIN,substituicao_sai,Ansaloni
+278,2,01:37,34,30,MIN,2_Pts_C,Panunzio
+279,2,01:37,34,28,MIN,FR,Panunzio
+280,2,01:37,34,28,BAU,FC,Léo Meindl
+281,2,01:40,34,28,MIN,BR,Panunzio
+282,2,01:40,34,28,BAU,ER,Paulinho Boracini
+283,2,01:58,34,28,MIN,2_Pts_C,Simmons
+284,2,02:13,34,26,BAU,ER,Jefferson W
+285,2,02:35,34,26,BAU,FR,Jefferson W
+286,2,02:47,34,26,MIN,tempo_tecnico,Minas
+287,2,02:47,34,26,BAU,LL_Pts_C,Léo Meindl
+288,2,02:47,33,26,BAU,2_Pts_C,Léo Meindl
+289,2,02:47,31,26,BAU,FR,Léo Meindl
+290,2,02:47,31,26,MIN,FC,Carioca
+291,2,02:53,31,26,BAU,RO,Léo Meindl
+292,2,02:53,31,26,BAU,3_Pts_T,Jefferson W
+293,2,03:06,31,26,BAU,RD,Jefferson W
+294,2,03:06,31,26,MIN,2_Pts_T,Júnior
+295,2,03:14,31,26,BAU,substituicao_entra,Jefferson W
+296,2,03:14,31,26,BAU,substituicao_sai,Murilo
+297,2,03:23,31,26,MIN,substituicao_entra,Simmons
+298,2,03:23,31,26,MIN,substituicao_sai,Loroh
+299,2,03:23,31,26,MIN,substituicao_entra,Júnior
+300,2,03:23,31,26,MIN,substituicao_sai,Léo Demétrio
+301,2,03:23,31,26,BAU,LL_Pts_C,Wesley
+302,2,03:23,30,26,BAU,LL_Pts_C,Wesley
+303,2,03:25,29,26,BAU,FR,Wesley
+304,2,03:25,29,26,MIN,FC,Léo Demétrio
+305,2,03:34,29,26,BAU,FR,Léo Meindl
+306,2,03:34,29,26,MIN,FC,Panunzio
+307,2,03:42,29,26,MIN,2_Pts_C,Léo Demétrio
+308,2,03:46,29,24,MIN,RO,Léo Demétrio
+309,2,03:46,29,24,MIN,2_Pts_T,Carioca
+310,2,04:05,29,24,BAU,LL_Pts_C,Léo Meindl
+311,2,04:05,28,24,BAU,AS,Robert Day
+312,2,04:05,28,24,BAU,LL_Pts_C,Léo Meindl
+313,2,04:05,27,24,MIN,substituicao_entra,Carioca
+314,2,04:05,27,24,MIN,substituicao_sai,Simmons
+315,2,04:05,27,24,BAU,substituicao_entra,Alex Garcia
+316,2,04:05,27,24,BAU,substituicao_sai,Robert Day
+317,2,04:05,27,24,BAU,FR,Léo Meindl
+318,2,04:05,27,24,MIN,FC,Panunzio
+319,2,04:12,27,24,BAU,RD,Wesley
+320,2,04:12,27,24,MIN,2_Pts_T,Simmons
+321,2,04:31,27,24,BAU,2_Pts_C,Wesley
+322,2,04:45,25,24,BAU,RO,Paulinho Boracini
+323,2,04:45,25,24,BAU,3_Pts_T,Léo Meindl
+324,2,05:04,25,24,MIN,substituicao_entra,Léo Demétrio
+325,2,05:04,25,24,MIN,substituicao_sai,Shilton
+326,2,05:04,25,24,MIN,LL_Pts_C,Shilton
+327,2,05:04,25,23,MIN,substituicao_entra,Panunzio
+328,2,05:04,25,23,MIN,substituicao_sai,Léo Demétrio
+329,2,05:04,25,23,MIN,substituicao_entra,Léo Demétrio
+330,2,05:04,25,23,MIN,substituicao_sai,Carioca
+331,2,05:04,25,23,MIN,substituicao_entra,Loroh
+332,2,05:04,25,23,MIN,substituicao_sai,Panunzio
+333,2,05:04,25,23,MIN,2_Pts_C,Shilton
+334,2,05:04,25,21,MIN,FR,Shilton
+335,2,05:04,25,21,BAU,FC,Wesley
+336,2,05:19,25,21,BAU,AS,Paulinho Boracini
+337,2,05:23,25,21,BAU,3_Pts_C,Léo Meindl
+338,2,05:47,22,21,MIN,2_Pts_C,Ansaloni
+339,2,05:49,22,19,MIN,RO,Ansaloni
+340,2,05:49,22,19,MIN,2_Pts_T,Carioca
+341,2,05:56,22,19,MIN,RD,Carioca
+342,2,05:56,22,19,BAU,3_Pts_T,Robert Day
+343,2,06:10,22,19,BAU,RD,Paulinho Boracini
+344,2,06:10,22,19,MIN,2_Pts_T,Shilton
+345,2,06:18,22,19,MIN,RO,Shilton
+346,2,06:18,22,19,MIN,2_Pts_T,Simmons
+347,2,06:37,22,19,BAU,2_Pts_C,Murilo
+348,2,06:37,20,19,BAU,AS,Léo Meindl
+349,2,06:54,20,19,BAU,RD,Wesley
+350,2,06:54,20,19,MIN,3_Pts_T,Simmons
+351,2,07:13,20,19,MIN,RD,Ansaloni
+352,2,07:13,20,19,BAU,3_Pts_T,Murilo
+353,2,07:31,20,19,BAU,RD,Paulinho Boracini
+354,2,07:31,20,19,MIN,3_Pts_T,Simmons
+355,2,07:54,20,19,BAU,2_Pts_C,Wesley
+356,2,07:54,18,19,BAU,AS,Paulinho Boracini
+357,2,08:04,18,19,BAU,RD,Paulinho Boracini
+358,2,08:04,18,19,MIN,3_Pts_T,Panunzio
+359,2,08:21,18,19,BAU,2_Pts_C,Paulinho Boracini
+360,2,08:28,16,19,MIN,substituicao_entra,Shilton
+361,2,08:28,16,19,MIN,substituicao_sai,Júnior
+362,2,08:38,16,19,MIN,2_Pts_C,Shilton
+363,2,09:07,16,17,BAU,substituicao_entra,Robert Day
+364,2,09:07,16,17,BAU,substituicao_sai,Hettsheimeir
+365,2,09:07,16,17,MIN,,
+366,2,09:07,16,17,BAU,ER,Robert Day
+367,2,09:26,16,17,BAU,RD,Wesley
+368,2,09:26,16,17,MIN,2_Pts_T,Panunzio
+369,2,09:34,16,17,MIN,BR,Panunzio
+370,2,09:34,16,17,BAU,ER,Murilo
+371,2,09:46,16,17,BAU,RD,Léo Meindl
+372,2,09:46,16,17,MIN,2_Pts_T,Simmons
+373,1,00:00,16,17, ,fim_quarto,
+374,1,00:01,16,17,MIN,RD,Ansaloni
+375,1,00:01,16,17,BAU,3_Pts_T,Hettsheimeir
+376,1,00:08,16,17,BAU,BR,Hettsheimeir
+377,1,00:08,16,17,MIN,ER,Rafael
+378,1,00:10,16,17,MIN,FR,Panunzio
+379,1,00:10,16,17,BAU,FC,Léo Meindl
+380,1,00:18,16,17,BAU,substituicao_entra,Léo
+381,1,00:18,16,17,BAU,substituicao_sai,Alex Garcia
+382,1,00:18,16,17,MIN,RD,Minas
+383,1,00:18,16,17,BAU,2_Pts_T,Murilo
+384,1,00:29,16,17,MIN,FC,Carioca
+385,1,00:29,16,17,BAU,substituicao_entra,Paulinho Boracini
+386,1,00:29,16,17,BAU,substituicao_sai,R Fischer
+387,1,00:29,16,17,MIN,substituicao_entra,Shilton
+388,1,00:29,16,17,MIN,substituicao_sai,Léo Demétrio
+389,1,00:29,16,17,MIN,substituicao_entra,Rafael
+390,1,00:29,16,17,MIN,substituicao_sai,Carioca
+391,1,00:29,16,17,BAU,FR,Alex Garcia
+392,1,00:39,16,17,MIN,2_Pts_C,Carioca
+393,1,01:01,16,15,BAU,2_Pts_C,Hettsheimeir
+394,1,01:01,14,15,BAU,AS,R Fischer
+395,1,01:11,14,15,BAU,RD,R Fischer
+396,1,01:11,14,15,MIN,2_Pts_T,Léo Demétrio
+397,1,01:35,14,15,BAU,2_Pts_C,Murilo
+398,1,01:35,12,15,BAU,AS,Hettsheimeir
+399,1,01:51,12,15,BAU,RD,Murilo
+400,1,01:51,12,15,MIN,2_Pts_T,Carioca
+401,1,01:55,12,15,MIN,RD,Carioca
+402,1,01:55,12,15,BAU,2_Pts_T,Léo Meindl
+403,1,01:57,12,15,BAU,substituicao_entra,Léo Meindl
+404,1,01:57,12,15,BAU,substituicao_sai,Robert Day
+405,1,01:57,12,15,BAU,FR,Hettsheimeir
+406,1,01:57,12,15,MIN,FC,Léo Demétrio
+407,1,02:42,12,15,BAU,RD,Murilo
+408,1,02:42,12,15,MIN,2_Pts_T,Ansaloni
+409,1,02:42,12,15,BAU,2_Pts_C,R Fischer
+410,1,02:59,10,15,BAU,RD,Murilo
+411,1,02:59,10,15,MIN,LL_Pts_T,Simmons
+412,1,02:59,10,15,MIN,LL_Pts_C,Simmons
+413,1,02:59,10,14,MIN,substituicao_entra,Ansaloni
+414,1,02:59,10,14,MIN,substituicao_sai,Shilton
+415,1,02:59,10,14,BAU,substituicao_entra,Murilo
+416,1,02:59,10,14,BAU,substituicao_sai,Jefferson W
+417,1,02:59,10,14,MIN,FR,Simmons
+418,1,02:59,10,14,BAU,FC,Alex Garcia
+419,1,03:13,10,14,MIN,RD,Shilton
+420,1,03:13,10,14,BAU,2_Pts_T,Alex Garcia
+421,1,03:24,10,14,BAU,RD,Hettsheimeir
+422,1,03:24,10,14,MIN,3_Pts_T,Simmons
+423,1,03:33,10,14,BAU,ER,R Fischer
+424,1,03:45,10,14,MIN,2_Pts_C,Léo Demétrio
+425,1,03:45,10,12,MIN,AS,Panunzio
+426,1,03:57,10,12,MIN,RD,Panunzio
+427,1,03:57,10,12,BAU,3_Pts_T,Jefferson W
+428,1,04:17,10,12,MIN,AS,Carioca
+429,1,04:21,10,12,MIN,2_Pts_C,Léo Demétrio
+430,1,04:26,10,10,MIN,BR,Panunzio
+431,1,04:26,10,10,BAU,ER,Alex Garcia
+432,1,04:38,10,10,BAU,RD,R Fischer
+433,1,04:38,10,10,MIN,3_Pts_T,Panunzio
+434,1,05:02,10,10,BAU,EN,Hettsheimeir
+435,1,05:02,8,10,BAU,AS,Robert Day
+436,1,05:22,8,10,MIN,2_Pts_C,Léo Demétrio
+437,1,05:28,8,8,MIN,RD,Carioca
+438,1,05:28,8,8,BAU,2_Pts_T,Alex Garcia
+439,1,05:36,8,8,BAU,RD,Alex Garcia
+440,1,05:36,8,8,MIN,2_Pts_T,Carioca
+441,1,05:47,8,8,MIN,RD,Shilton
+442,1,05:47,8,8,BAU,3_Pts_T,Jefferson W
+443,1,05:59,8,8,MIN,substituicao_entra,Panunzio
+444,1,05:59,8,8,MIN,substituicao_sai,Pedro Macedo
+445,1,05:59,8,8,BAU,FR,Robert Day
+446,1,05:59,8,8,MIN,FC,Pedro Macedo
+447,1,06:12,8,8,MIN,2_Pts_C,Pedro Macedo
+448,1,06:15,8,6,MIN,RO,Pedro Macedo
+449,1,06:15,8,6,MIN,2_Pts_T,Pedro Macedo
+450,1,06:39,8,6,MIN,RD,Léo Demétrio
+451,1,06:39,8,6,BAU,LL_Pts_T,Hettsheimeir
+452,1,06:39,8,6,BAU,LL_Pts_C,Hettsheimeir
+453,1,06:39,7,6,BAU,FR,Hettsheimeir
+454,1,06:39,7,6,MIN,FC,Pedro Macedo
+455,1,06:54,7,6,BAU,,
+456,1,06:54,7,6,MIN,ER,Simmons
+457,1,07:03,7,6,BAU,2_Pts_C,R Fischer
+458,1,07:12,5,6,BAU,BR,R Fischer
+459,1,07:12,5,6,MIN,ER,Pedro Macedo
+460,1,07:21,5,6,MIN,RD,Shilton
+461,1,07:21,5,6,BAU,2_Pts_T,Hettsheimeir
+462,1,07:30,5,6,BAU,RD,Alex Garcia
+463,1,07:30,5,6,MIN,3_Pts_T,Carioca
+464,1,07:35,5,6,MIN,FR,Carioca
+465,1,07:35,5,6,BAU,FC,R Fischer
+466,1,07:47,5,6,BAU,3_Pts_C,Hettsheimeir
+467,1,07:47,2,6,BAU,AS,R Fischer
+468,1,08:09,2,6,MIN,EN,Léo Demétrio
+469,1,08:15,2,4,MIN,RO,Pedro Macedo
+470,1,08:15,2,4,MIN,2_Pts_T,Simmons
+471,1,08:25,2,4,MIN,RD,Simmons
+472,1,08:25,2,4,BAU,3_Pts_T,Robert Day
+473,1,08:37,2,4,MIN,2_Pts_C,Shilton
+474,1,08:37,2,2,MIN,AS,Pedro Macedo
+475,1,08:59,2,2,BAU,2_Pts_C,Jefferson W
+476,1,08:59,0,2,BAU,AS,Alex Garcia
+477,1,09:05,0,2,BAU,RO,Hettsheimeir
+478,1,09:05,0,2,BAU,3_Pts_T,Jefferson W
+479,1,09:12,0,2,BAU,BR,Robert Day
+480,1,09:12,0,2,MIN,ER,Simmons
+481,1,09:18,0,2,MIN,RO,Simmons
+482,1,09:18,0,2,MIN,3_Pts_T,Carioca
+483,1,09:34,0,2,MIN,RD,Carioca
+484,1,09:34,0,2,BAU,3_Pts_T,Robert Day
+485,1,09:48,0,2,MIN,2_Pts_C,Carioca
+486,1,09:54,0,0,MIN,BR,Carioca
+487,1,09:54,0,0,BAU,ER,Hettsheimeir
+488,1,10:00,0,0,MIN,substituicao_entra,Pedro Macedo
+489,1,10:00,0,0,MIN,substituicao_entra,Léo Demétrio
+490,1,10:00,0,0,MIN,substituicao_entra,Shilton
+491,1,10:00,0,0,MIN,substituicao_entra,Carioca
+492,1,10:00,0,0,MIN,substituicao_entra,Simmons
+493,1,10:00,0,0,BAU,substituicao_entra,Robert Day
+494,1,10:00,0,0,BAU,substituicao_entra,Hettsheimeir
+495,1,10:00,0,0,BAU,substituicao_entra,Jefferson W
+496,1,10:00,0,0,BAU,substituicao_entra,Alex Garcia
+497,1,10:00,0,0,BAU,substituicao_entra,R Fischer

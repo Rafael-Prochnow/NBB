@@ -1,0 +1,582 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,92,94, ,fim_partida,
+1,5,00:01,92,94,MAC,RD,Diego
+2,5,00:01,92,94,RCB,LL_Pts_T,Mosso
+3,5,00:01,92,94,RCB,LL_Pts_C,Mosso
+4,5,00:01,92,93,RCB,FR,Mosso
+5,5,00:01,92,93,MAC,FC,João
+6,5,00:03,92,93,RCB,RD,Mosso
+7,5,00:03,92,93,MAC,LL_Pts_T,Eddy
+8,5,00:03,92,93,MAC,LL_Pts_T,Eddy
+9,5,00:03,92,93,MAC,substituicao_entra,João
+10,5,00:03,92,93,MAC,substituicao_sai,Atílio
+11,5,00:03,92,93,MAC,FR,Eddy
+12,5,00:03,92,93,RCB,FC,Caio
+13,5,00:13,92,93,MAC,RD,Diego
+14,5,00:13,92,93,RCB,2_Pts_T,Tatu
+15,5,00:34,92,93,RCB,RD,Caio
+16,5,00:34,92,93,MAC,3_Pts_T,Jamaal
+17,5,00:57,92,93,RCB,LL_Pts_C,Caio
+18,5,00:57,92,92,RCB,LL_Pts_C,Caio
+19,5,00:57,92,91,MAC,substituicao_entra,Diego
+20,5,00:57,92,91,MAC,substituicao_sai,George
+21,5,00:57,92,91,RCB,FR,Caio
+22,5,00:57,92,91,MAC,FC,George
+23,5,01:09,92,91,RCB,RO,Rio Claro
+24,5,01:09,92,91,MAC,TO,George
+25,5,01:09,92,91,RCB,2_Pts_T,Tatu
+26,5,01:26,92,91,MAC,3_Pts_C,Jamaal
+27,5,01:37,89,91,RCB,LL_Pts_C,Brown
+28,5,01:37,89,90,RCB,LL_Pts_C,Brown
+29,5,01:37,89,89,MAC,substituicao_sai,Fernando Mineiro
+30,5,01:37,89,89,MAC,substituicao_entra,Atílio
+31,5,01:37,89,89,RCB,FR,Brown
+32,5,01:37,89,89,MAC,FC,Fernando Mineiro
+33,5,02:03,89,89,RCB,RD,Brown
+34,5,02:03,89,89,MAC,2_Pts_T,Young
+35,5,02:16,89,89,RCB,LL_Pts_C,Brown
+36,5,02:16,89,88,RCB,AS,Mosso
+37,5,02:16,89,88,RCB,LL_Pts_C,Brown
+38,5,02:16,89,87,RCB,FR,Brown
+39,5,02:16,89,87,MAC,FC,George
+40,5,02:30,89,87,MAC,LL_Pts_C,Eddy
+41,5,02:30,88,87,MAC,LL_Pts_C,Eddy
+42,5,02:30,87,87,MAC,FR,Eddy
+43,5,02:30,87,87,RCB,FC,Caio
+44,5,02:34,87,87,MAC,RO,Eddy
+45,5,02:34,87,87,MAC,3_Pts_T,Young
+46,5,02:53,87,87,RCB,3_Pts_C,Mosso
+47,5,02:53,87,84,RCB,AS,Brown
+48,5,03:02,87,84,MAC,LL_Pts_T,Eddy
+49,5,03:02,87,84,MAC,LL_Pts_C,Eddy
+50,5,03:02,86,84,MAC,FR,Eddy
+51,5,03:02,86,84,RCB,FC,Mosso
+52,5,03:20,86,84,RCB,LL_Pts_C,Tatu
+53,5,03:20,86,83,RCB,LL_Pts_C,Tatu
+54,5,03:20,86,82,RCB,FR,Tatu
+55,5,03:20,86,82,MAC,FC,George
+56,5,03:25,86,82,RCB,BR,Tatu
+57,5,03:25,86,82,MAC,ER,Jamaal
+58,5,03:47,86,82,MAC,RD,George
+59,5,03:47,86,82,RCB,2_Pts_T,Brown
+60,5,04:01,86,82,RCB,tempo_tecnico,Rio Claro
+61,5,04:01,86,82,MAC,2_Pts_C,Eddy
+62,5,04:06,84,82,MAC,RO,Eddy
+63,5,04:06,84,82,MAC,3_Pts_T,Jamaal
+64,5,04:20,84,82,MAC,BR,Eddy
+65,5,04:20,84,82,RCB,ER,Mosso
+66,5,04:44,84,82,MAC,EN,George
+67,5,04:44,82,82,MAC,AS,Young
+68,5,05:00,82,82,RCB,substituicao_entra,Brown
+69,5,05:00,82,82,RCB,substituicao_entra,Mosso
+70,5,05:00,82,82,RCB,substituicao_entra,Estevam
+71,5,05:00,82,82,RCB,substituicao_entra,Caio
+72,5,05:00,82,82,RCB,substituicao_entra,Tatu
+73,5,05:00,82,82,MAC,substituicao_entra,Eddy
+74,5,05:00,82,82,MAC,substituicao_entra,George
+75,5,05:00,82,82,MAC,substituicao_entra,Jamaal
+76,5,05:00,82,82,MAC,substituicao_entra,Fernando Mineiro
+77,5,05:00,82,82,MAC,substituicao_entra,Young
+78,5,05:00,82,82,RCB,substituicao_sai,Brown
+79,5,05:00,82,82,RCB,substituicao_sai,Mosso
+80,5,05:00,82,82,RCB,substituicao_sai,Estevam
+81,5,05:00,82,82,RCB,substituicao_sai,Caio
+82,5,05:00,82,82,RCB,substituicao_sai,Tatu
+83,5,05:00,82,82,MAC,substituicao_sai,Eddy
+84,5,05:00,82,82,MAC,substituicao_sai,George
+85,5,05:00,82,82,MAC,substituicao_sai,Jamaal
+86,5,05:00,82,82,MAC,substituicao_sai,Fernando Mineiro
+87,5,05:00,82,82,MAC,substituicao_sai,Young
+88,4,00:00,82,82, ,fim_quarto,
+89,4,00:01,82,82,MAC,RD,George
+90,4,00:01,82,82,RCB,3_Pts_T,Tatu
+91,4,00:06,82,82,MAC,2_Pts_C,Fernando Mineiro
+92,4,00:06,80,82,MAC,AS,Jamaal
+93,4,00:13,80,82,MAC,tempo_tecnico,Macaé Basquete
+94,4,00:13,80,82,RCB,LL_Pts_C,Mosso
+95,4,00:13,80,81,RCB,LL_Pts_T,Mosso
+96,4,00:13,80,81,RCB,FR,Mosso
+97,4,00:13,80,81,MAC,FC,Fernando Mineiro
+98,4,00:14,80,81,MAC,substituicao_entra,Fernando Mineiro
+99,4,00:14,80,81,MAC,substituicao_sai,Atílio
+100,4,00:14,80,81,RCB,FR,Caio
+101,4,00:14,80,81,MAC,FC_O,Eddy
+102,4,00:30,80,81,MAC,tempo_tecnico,Macaé Basquete
+103,4,00:30,80,81,RCB,EN,Estevam
+104,4,00:30,80,79,RCB,AS,Tatu
+105,4,00:42,80,79,RCB,tempo_tecnico,Rio Claro
+106,4,00:42,80,79,MAC,2_Pts_C,Young
+107,4,00:51,78,79,MAC,RD,George
+108,4,00:51,78,79,MAC,TO,George
+109,4,00:51,78,79,RCB,2_Pts_T,Tatu
+110,4,01:03,78,79,MAC,2_Pts_C,George
+111,4,01:08,76,79,MAC,RO,Macaé Basquete
+112,4,01:08,76,79,MAC,2_Pts_T,Atílio
+113,4,01:26,76,79,RCB,LL_Pts_C,Tatu
+114,4,01:26,76,78,RCB,LL_Pts_T,Tatu
+115,4,01:26,76,78,RCB,FR,Tatu
+116,4,01:26,76,78,MAC,FC,Atílio
+117,4,01:39,76,78,MAC,substituicao_entra,Jamaal
+118,4,01:39,76,78,MAC,substituicao_sai,Pedrinho
+119,4,01:39,76,78,MAC,LL_Pts_C,Pedrinho
+120,4,01:39,75,78,MAC,LL_Pts_C,Pedrinho
+121,4,01:39,74,78,MAC,FR,Pedrinho
+122,4,01:39,74,78,RCB,FC,Estevam
+123,4,02:01,74,78,RCB,2_Pts_C,Caio
+124,4,02:05,74,76,RCB,BR,Brown
+125,4,02:05,74,76,MAC,ER,Pedrinho
+126,4,02:09,74,76,MAC,BR,Pedrinho
+127,4,02:09,74,76,RCB,ER,Caio
+128,4,02:10,74,76,MAC,substituicao_entra,Atílio
+129,4,02:10,74,76,MAC,substituicao_sai,De Bem
+130,4,02:10,74,76,RCB,FR,Brown
+131,4,02:10,74,76,MAC,FC,De Bem
+132,4,02:32,74,76,MAC,2_Pts_C,Eddy
+133,4,02:43,72,76,MAC,RO,Pedrinho
+134,4,02:43,72,76,MAC,3_Pts_T,Young
+135,4,03:03,72,76,RCB,LL_Pts_C,Brown
+136,4,03:03,72,75,RCB,FR,Brown
+137,4,03:03,72,75,MAC,FC,De Bem
+138,4,03:03,72,75,RCB,2_Pts_C,Brown
+139,4,03:25,72,73,MAC,3_Pts_C,Young
+140,4,03:31,69,73,RCB,2_Pts_C,Estevam
+141,4,03:36,69,71,RCB,RO,Estevam
+142,4,03:36,69,71,RCB,2_Pts_T,Mosso
+143,4,03:48,69,71,MAC,substituicao_entra,Pedrinho
+144,4,03:48,69,71,MAC,substituicao_sai,Jamaal
+145,4,03:52,69,71,MAC,2_Pts_C,Young
+146,4,04:08,67,71,RCB,2_Pts_C,Brown
+147,4,04:31,67,69,RCB,FR,Estevam
+148,4,04:31,67,69,MAC,FC,De Bem
+149,4,04:35,67,69,RCB,RD,Estevam
+150,4,04:35,67,69,MAC,2_Pts_T,Jamaal
+151,4,04:52,67,69,MAC,RD,Jamaal
+152,4,04:52,67,69,RCB,2_Pts_T,Caio
+153,4,05:11,67,69,RCB,substituicao_entra,Brown
+154,4,05:11,67,69,RCB,substituicao_sai,Pastor
+155,4,05:14,67,69,RCB,tempo_tecnico,Rio Claro
+156,4,05:14,67,69,MAC,2_Pts_C,Young
+157,4,05:14,65,69,MAC,AS,Jamaal
+158,4,05:20,65,69,MAC,RD,Jamaal
+159,4,05:20,65,69,RCB,3_Pts_T,Caio
+160,4,05:35,65,69,MAC,LL_Pts_C,Jamaal
+161,4,05:35,64,69,MAC,LL_Pts_T,Jamaal
+162,4,05:35,64,69,MAC,FR,Jamaal
+163,4,05:35,64,69,RCB,FC,Mosso
+164,4,05:43,64,69,MAC,RD,George
+165,4,05:43,64,69,RCB,3_Pts_T,Tatu
+166,4,05:55,64,69,MAC,LL_Pts_C,De Bem
+167,4,05:55,63,69,RCB,substituicao_entra,Estevam
+168,4,05:55,63,69,RCB,substituicao_sai,Tischer
+169,4,05:55,63,69,MAC,FR,De Bem
+170,4,05:55,63,69,RCB,FC,Pastor
+171,4,06:00,63,69,MAC,2_Pts_C,De Bem
+172,4,06:00,61,69,MAC,AS,Jamaal
+173,4,06:19,61,69,RCB,ER,
+174,4,06:45,61,69,RCB,RD,Mosso
+175,4,06:45,61,69,MAC,2_Pts_T,Eddy
+176,4,06:56,61,69,MAC,RD,Jamaal
+177,4,06:56,61,69,RCB,2_Pts_T,Tischer
+178,4,06:59,61,69,RCB,RO,Tischer
+179,4,06:59,61,69,RCB,2_Pts_T,Caio
+180,4,07:11,61,69,RCB,FR,Mosso
+181,4,07:11,61,69,MAC,FC,George
+182,4,07:34,61,69,MAC,2_Pts_C,George
+183,4,07:41,59,69,MAC,FR,Jamaal
+184,4,07:41,59,69,RCB,FC,Tatu
+185,4,08:00,59,69,RCB,3_Pts_C,Tatu
+186,4,08:23,59,66,RCB,RD,Tatu
+187,4,08:23,59,66,MAC,2_Pts_T,Young
+188,4,08:27,59,66,RCB,substituicao_entra,Pastor
+189,4,08:27,59,66,RCB,substituicao_sai,Brown
+190,4,08:27,59,66,RCB,tempo_tecnico,Rio Claro
+191,4,08:27,59,66,MAC,FR,Jamaal
+192,4,08:27,59,66,RCB,FC_O,Brown
+193,4,08:34,59,66,MAC,2_Pts_C,Jamaal
+194,4,08:37,57,66,MAC,BR,Jamaal
+195,4,08:37,57,66,RCB,ER,Tatu
+196,4,08:43,57,66,MAC,LL_Pts_C,Jamaal
+197,4,08:43,56,66,MAC,LL_Pts_C,Jamaal
+198,4,08:43,55,66,MAC,FR,Jamaal
+199,4,08:43,55,66,RCB,FC,Tischer
+200,4,09:01,55,66,MAC,RD,George
+201,4,09:01,55,66,RCB,3_Pts_T,Caio
+202,4,09:19,55,66,RCB,RD,Mosso
+203,4,09:19,55,66,MAC,3_Pts_T,Young
+204,4,09:38,55,66,RCB,2_Pts_C,Mosso
+205,3,00:00,55,64, ,fim_quarto,
+206,3,00:02,55,64,RCB,3_Pts_T,Vinicius
+207,3,00:04,55,64,RCB,substituicao_entra,Caio
+208,3,00:04,55,64,RCB,substituicao_sai,Duso
+209,3,00:05,55,64,MAC,ER,George
+210,3,00:08,55,64,RCB,substituicao_entra,Duso
+211,3,00:08,55,64,RCB,substituicao_sai,Brown
+212,3,00:08,55,64,MAC,FR,Young
+213,3,00:08,55,64,RCB,FC,Cicero
+214,3,00:38,55,64,RCB,2_Pts_C,Cicero
+215,3,00:46,55,62,RCB,RO,Cicero
+216,3,00:46,55,62,RCB,2_Pts_T,Tischer
+217,3,01:01,55,62,MAC,3_Pts_C,Young
+218,3,01:08,52,62,MAC,RD,Young
+219,3,01:08,52,62,RCB,3_Pts_T,Cicero
+220,3,01:15,52,62,RCB,substituicao_entra,Tatu
+221,3,01:15,52,62,RCB,substituicao_sai,Duso
+222,3,01:15,52,62,MAC,FR,George
+223,3,01:15,52,62,RCB,FC,Brown
+224,3,01:15,52,62,RCB,substituicao_sai,Pastor
+225,3,01:15,52,62,RCB,substituicao_entra,Vinicius
+226,3,01:15,52,62,RCB,substituicao_entra,Brown
+227,3,01:15,52,62,RCB,substituicao_sai,Vinicius
+228,3,01:15,52,62,RCB,,
+229,3,01:15,52,62,MAC,ER,George
+230,3,01:15,52,62,MAC,substituicao_entra,Young
+231,3,01:15,52,62,MAC,substituicao_sai,João
+232,3,01:15,52,62,RCB,substituicao_entra,Duso
+233,3,01:15,52,62,RCB,substituicao_sai,Brown
+234,3,01:15,52,62,MAC,substituicao_entra,Jamaal
+235,3,01:15,52,62,MAC,substituicao_sai,Pedrinho
+236,3,01:21,52,62,RCB,substituicao_entra,Pastor
+237,3,01:21,52,62,RCB,substituicao_entra,Vinicius
+238,3,01:21,52,62,RCB,substituicao_entra,Cicero
+239,3,01:21,52,62,RCB,substituicao_sai,Mosso
+240,3,01:21,52,62,RCB,substituicao_sai,Caio
+241,3,01:21,52,62,RCB,substituicao_sai,Tatu
+242,3,01:21,52,62,MAC,FR,Eddy
+243,3,01:21,52,62,RCB,FC,Brown
+244,3,01:40,52,62,RCB,2_Pts_C,Brown
+245,3,01:40,52,60,RCB,AS,Caio
+246,3,01:47,52,60,RCB,BR,Tatu
+247,3,01:47,52,60,MAC,ER,João
+248,3,02:03,52,60,RCB,EN,Tischer
+249,3,02:06,52,58,RCB,BR,Tischer
+250,3,02:06,52,58,MAC,ER,Pedrinho
+251,3,02:21,52,58,RCB,3_Pts_C,Caio
+252,3,02:21,52,55,RCB,AS,Brown
+253,3,02:44,52,55,MAC,3_Pts_C,Eddy
+254,3,02:44,49,55,MAC,AS,Pedrinho
+255,3,03:03,49,55,MAC,RD,George
+256,3,03:03,49,55,RCB,2_Pts_T,Mosso
+257,3,03:13,49,55,RCB,substituicao_entra,Tischer
+258,3,03:13,49,55,RCB,substituicao_sai,Estevam
+259,3,03:19,49,55,RCB,RD,Tatu
+260,3,03:19,49,55,MAC,2_Pts_T,Pedrinho
+261,3,03:39,49,55,RCB,2_Pts_C,Brown
+262,3,04:02,49,53,MAC,substituicao_entra,João
+263,3,04:02,49,53,MAC,substituicao_sai,Jamaal
+264,3,04:06,49,53,MAC,2_Pts_C,George
+265,3,04:06,47,53,MAC,AS,De Bem
+266,3,04:21,47,53,RCB,2_Pts_C,Brown
+267,3,04:21,47,51,RCB,AS,Tatu
+268,3,04:41,47,51,MAC,2_Pts_C,George
+269,3,04:41,45,51,MAC,AS,Jamaal
+270,3,04:47,45,51,MAC,FR,George
+271,3,04:47,45,51,RCB,FC,Tatu
+272,3,04:54,45,51,MAC,RD,George
+273,3,04:54,45,51,MAC,TO,De Bem
+274,3,04:54,45,51,RCB,2_Pts_T,Estevam
+275,3,04:57,45,51,RCB,RO,Estevam
+276,3,04:57,45,51,RCB,2_Pts_T,Tatu
+277,3,05:11,45,51,MAC,substituicao_entra,De Bem
+278,3,05:11,45,51,MAC,substituicao_sai,Fernando Mineiro
+279,3,05:11,45,51,RCB,FR,Tatu
+280,3,05:11,45,51,MAC,FC,Eddy
+281,3,05:17,45,51,RCB,RD,Rio Claro
+282,3,05:17,45,51,MAC,2_Pts_T,Fernando Mineiro
+283,3,05:33,45,51,MAC,RD,George
+284,3,05:33,45,51,RCB,2_Pts_T,Estevam
+285,3,05:52,45,51,RCB,RD,Brown
+286,3,05:52,45,51,MAC,3_Pts_T,George
+287,3,06:09,45,51,RCB,2_Pts_C,Brown
+288,3,06:34,45,49,MAC,2_Pts_C,George
+289,3,06:34,43,49,MAC,AS,Pedrinho
+290,3,06:50,43,49,RCB,2_Pts_C,Estevam
+291,3,06:50,43,47,RCB,RO,Estevam
+292,3,06:50,43,47,RCB,2_Pts_T,Caio
+293,3,06:52,43,47,RCB,FR,Caio
+294,3,06:52,43,47,MAC,FC,Fernando Mineiro
+295,3,07:05,43,47,RCB,BR,Caio
+296,3,07:05,43,47,MAC,ER,Fernando Mineiro
+297,3,07:24,43,47,MAC,substituicao_entra,Pedrinho
+298,3,07:24,43,47,MAC,substituicao_sai,Diego
+299,3,07:27,43,47,MAC,tempo_tecnico,Macaé Basquete
+300,3,07:27,43,47,RCB,2_Pts_C,Mosso
+301,3,07:36,43,45,RCB,RD,Tatu
+302,3,07:36,43,45,MAC,2_Pts_T,George
+303,3,07:48,43,45,RCB,LL_Pts_C,Estevam
+304,3,07:48,43,44,MAC,substituicao_entra,Fernando Mineiro
+305,3,07:48,43,44,MAC,substituicao_sai,Atílio
+306,3,07:49,43,44,RCB,FR,Estevam
+307,3,07:49,43,44,MAC,FC,Atílio
+308,3,07:49,43,44,RCB,2_Pts_C,Estevam
+309,3,07:52,43,42,RCB,RO,Estevam
+310,3,07:52,43,42,RCB,2_Pts_T,Tatu
+311,3,07:59,43,42,RCB,RD,Estevam
+312,3,07:59,43,42,MAC,2_Pts_T,Atílio
+313,3,08:22,43,42,RCB,2_Pts_C,Mosso
+314,3,08:33,43,40,RCB,RD,Tatu
+315,3,08:33,43,40,MAC,3_Pts_T,Jamaal
+316,3,09:00,43,40,RCB,2_Pts_C,Mosso
+317,3,09:00,43,38,RCB,AS,Tatu
+318,3,09:04,43,38,RCB,BR,Tatu
+319,3,09:04,43,38,MAC,ER,Jamaal
+320,3,09:25,43,38,MAC,RD,George
+321,3,09:25,43,38,RCB,LL_Pts_T,Mosso
+322,3,09:25,43,38,RCB,LL_Pts_T,Mosso
+323,3,09:25,43,38,RCB,FR,Mosso
+324,3,09:25,43,38,MAC,FC,George
+325,3,09:41,43,38,RCB,RD,Caio
+326,3,09:41,43,38,MAC,2_Pts_T,Atílio
+327,2,00:00,43,38, ,fim_quarto,
+328,2,00:01,43,38,RCB,2_Pts_T,Brown
+329,2,00:02,43,38,MAC,substituicao_entra,Pablo
+330,2,00:02,43,38,MAC,substituicao_entra,Diego
+331,2,00:02,43,38,MAC,substituicao_sai,De Bem
+332,2,00:02,43,38,MAC,substituicao_sai,Fernando Mineiro
+333,2,00:02,43,38,RCB,substituicao_entra,Tischer
+334,2,00:02,43,38,RCB,substituicao_entra,Caio
+335,2,00:02,43,38,RCB,substituicao_sai,Duso
+336,2,00:02,43,38,RCB,substituicao_sai,Pastor
+337,2,00:02,43,38,MAC,ER,Pedrinho
+338,2,00:03,43,38,RCB,substituicao_entra,Duso
+339,2,00:03,43,38,RCB,substituicao_entra,Vinicius
+340,2,00:03,43,38,RCB,substituicao_sai,Estevam
+341,2,00:03,43,38,RCB,substituicao_sai,Tatu
+342,2,00:03,43,38,RCB,LL_Pts_C,Tatu
+343,2,00:03,43,37,RCB,LL_Pts_C,Tatu
+344,2,00:03,43,36,RCB,FR,Tatu
+345,2,00:03,43,36,MAC,FC,Eddy
+346,2,00:23,43,36,MAC,LL_Pts_C,De Bem
+347,2,00:23,42,36,MAC,LL_Pts_C,De Bem
+348,2,00:23,41,36,RCB,substituicao_entra,Pastor
+349,2,00:23,41,36,RCB,substituicao_entra,Brown
+350,2,00:23,41,36,RCB,substituicao_sai,Mosso
+351,2,00:23,41,36,RCB,substituicao_sai,Caio
+352,2,00:23,41,36,MAC,FR,De Bem
+353,2,00:23,41,36,RCB,FC,Estevam
+354,2,00:28,41,36,MAC,RD,Macaé Basquete
+355,2,00:28,41,36,RCB,3_Pts_T,Mosso
+356,2,00:45,41,36,RCB,RD,Estevam
+357,2,00:45,41,36,MAC,2_Pts_T,Fernando Mineiro
+358,2,00:49,41,36,MAC,RO,Fernando Mineiro
+359,2,00:49,41,36,MAC,2_Pts_T,Fernando Mineiro
+360,2,01:17,41,36,RCB,3_Pts_C,Mosso
+361,2,01:17,41,33,RCB,AS,Tatu
+362,2,01:28,41,33,MAC,substituicao_entra,Pedrinho
+363,2,01:28,41,33,MAC,substituicao_sai,Jamaal
+364,2,01:28,41,33,MAC,LL_Pts_C,Jamaal
+365,2,01:28,40,33,MAC,LL_Pts_C,Jamaal
+366,2,01:32,39,33,MAC,substituicao_entra,De Bem
+367,2,01:32,39,33,MAC,substituicao_sai,Atílio
+368,2,01:32,39,33,MAC,FR,Jamaal
+369,2,01:32,39,33,RCB,FC,Cicero
+370,2,01:41,39,33,MAC,substituicao_entra,João
+371,2,01:41,39,33,MAC,substituicao_sai,Young
+372,2,01:41,39,33,MAC,tempo_tecnico,Macaé Basquete
+373,2,01:41,39,33,RCB,2_Pts_C,Mosso
+374,2,01:46,39,31,RCB,RO,Mosso
+375,2,01:46,39,31,RCB,2_Pts_T,Mosso
+376,2,01:54,39,31,RCB,RO,Estevam
+377,2,01:54,39,31,RCB,3_Pts_T,Mosso
+378,2,02:08,39,31,MAC,2_Pts_C,Fernando Mineiro
+379,2,02:08,37,31,MAC,AS,Jamaal
+380,2,02:12,37,31,MAC,RO,Jamaal
+381,2,02:12,37,31,MAC,2_Pts_T,Fernando Mineiro
+382,2,02:18,37,31,MAC,BR,Jamaal
+383,2,02:18,37,31,RCB,ER,Caio
+384,2,02:24,37,31,RCB,RD,Mosso
+385,2,02:24,37,31,MAC,2_Pts_T,Atílio
+386,2,02:43,37,31,RCB,3_Pts_C,Tatu
+387,2,03:17,37,28,MAC,2_Pts_C,Young
+388,2,03:29,35,28,RCB,LL_Pts_C,Estevam
+389,2,03:29,35,27,RCB,LL_Pts_C,Estevam
+390,2,03:29,35,26,MAC,substituicao_entra,Fernando Mineiro
+391,2,03:29,35,26,MAC,substituicao_sai,Diego
+392,2,03:29,35,26,RCB,FR,Estevam
+393,2,03:29,35,26,MAC,FC,Diego
+394,2,03:33,35,26,RCB,RO,Estevam
+395,2,03:33,35,26,RCB,2_Pts_T,Tatu
+396,2,03:53,35,26,RCB,RD,Estevam
+397,2,03:53,35,26,MAC,2_Pts_T,Diego
+398,2,04:04,35,26,RCB,2_Pts_C,Estevam
+399,2,04:04,35,24,RCB,AS,Tatu
+400,2,04:18,35,24,MAC,substituicao_entra,Eddy
+401,2,04:18,35,24,MAC,substituicao_entra,Jamaal
+402,2,04:18,35,24,MAC,substituicao_sai,George
+403,2,04:18,35,24,MAC,substituicao_sai,Pedrinho
+404,2,04:24,35,24,RCB,tempo_tecnico,Rio Claro
+405,2,04:24,35,24,MAC,2_Pts_C,Diego
+406,2,04:40,33,24,MAC,RD,Diego
+407,2,04:40,33,24,RCB,3_Pts_T,Caio
+408,2,05:02,33,24,RCB,RD,Mosso
+409,2,05:02,33,24,MAC,2_Pts_T,Diego
+410,2,05:17,33,24,MAC,FR,George
+411,2,05:17,33,24,RCB,FC,Caio
+412,2,05:31,33,24,RCB,LL_Pts_C,Mosso
+413,2,05:31,33,23,RCB,LL_Pts_C,Mosso
+414,2,05:31,33,22,RCB,FR,Mosso
+415,2,05:31,33,22,MAC,FC,Young
+416,2,05:35,33,22,RCB,RO,Mosso
+417,2,05:35,33,22,RCB,3_Pts_T,Cicero
+418,2,05:42,33,22,RCB,substituicao_entra,Mosso
+419,2,05:42,33,22,RCB,substituicao_sai,Pastor
+420,2,05:42,33,22,RCB,substituicao_entra,Caio
+421,2,05:42,33,22,RCB,substituicao_sai,Brown
+422,2,05:47,33,22,MAC,LL_Pts_C,George
+423,2,05:47,32,22,MAC,LL_Pts_T,George
+424,2,05:47,32,22,RCB,substituicao_entra,Cicero
+425,2,05:47,32,22,RCB,substituicao_sai,Mosso
+426,2,05:47,32,22,MAC,FR,George
+427,2,05:47,32,22,RCB,FC,Mosso
+428,2,05:59,32,22,MAC,RD,George
+429,2,05:59,32,22,RCB,2_Pts_T,Estevam
+430,2,06:23,32,22,MAC,3_Pts_C,Pedrinho
+431,2,06:28,29,22,MAC,FR,Young
+432,2,06:28,29,22,RCB,FC,Brown
+433,2,06:36,29,22,MAC,FR,George
+434,2,06:36,29,22,RCB,FC,Mosso
+435,2,06:47,29,22,MAC,RD,Pedrinho
+436,2,06:47,29,22,RCB,2_Pts_T,Brown
+437,2,07:01,29,22,RCB,RO,Estevam
+438,2,07:01,29,22,RCB,3_Pts_T,Pastor
+439,2,07:12,29,22,RCB,FR,Brown
+440,2,07:12,29,22,MAC,FC,Diego
+441,2,07:30,29,22,RCB,RO,Mosso
+442,2,07:30,29,22,RCB,3_Pts_T,Brown
+443,2,07:44,29,22,MAC,substituicao_entra,Atílio
+444,2,07:44,29,22,MAC,substituicao_sai,De Bem
+445,2,07:44,29,22,RCB,FR,Tatu
+446,2,07:44,29,22,MAC,FC,Pedrinho
+447,2,07:50,29,22,RCB,RD,Tatu
+448,2,07:50,29,22,MAC,2_Pts_T,De Bem
+449,2,08:02,29,22,RCB,substituicao_entra,Mosso
+450,2,08:02,29,22,RCB,substituicao_sai,Vinicius
+451,2,08:02,29,22,MAC,,
+452,2,08:02,29,22,RCB,ER,Vinicius
+453,2,08:08,29,22,RCB,FR,Estevam
+454,2,08:08,29,22,MAC,FC,De Bem
+455,2,08:17,29,22,RCB,3_Pts_T,Vinicius
+456,2,08:38,29,22,MAC,2_Pts_C,George
+457,2,08:38,27,22,MAC,AS,Diego
+458,2,08:58,27,22,MAC,RD,De Bem
+459,2,08:58,27,22,RCB,3_Pts_T,Pastor
+460,2,09:16,27,22,RCB,RD,Vinicius
+461,2,09:16,27,22,MAC,2_Pts_T,De Bem
+462,2,09:40,27,22,RCB,2_Pts_C,Estevam
+463,2,09:40,27,20,RCB,AS,Vinicius
+464,1,00:00,27,20, ,fim_quarto,
+465,1,00:05,27,20,MAC,3_Pts_C,Pedrinho
+466,1,00:05,24,20,MAC,AS,Young
+467,1,00:15,24,20,RCB,3_Pts_C,Pastor
+468,1,00:15,24,17,RCB,AS,Vinicius
+469,1,00:32,24,17,MAC,2_Pts_C,Diego
+470,1,00:32,22,17,MAC,AS,George
+471,1,00:41,22,17,MAC,BR,De Bem
+472,1,00:41,22,17,RCB,ER,Estevam
+473,1,00:57,22,17,MAC,3_Pts_C,George
+474,1,00:57,19,17,MAC,AS,Diego
+475,1,01:08,19,17,RCB,3_Pts_C,Tatu
+476,1,01:08,19,14,RCB,AS,Vinicius
+477,1,01:22,19,14,RCB,substituicao_entra,Vinicius
+478,1,01:22,19,14,RCB,substituicao_sai,Mosso
+479,1,01:22,19,14,MAC,substituicao_entra,Young
+480,1,01:22,19,14,MAC,substituicao_sai,Eddy
+481,1,01:22,19,14,RCB,tempo_tecnico,Rio Claro
+482,1,01:22,19,14,MAC,EN,Eddy
+483,1,01:24,17,14,MAC,BR,Eddy
+484,1,01:24,17,14,RCB,ER,Tatu
+485,1,01:42,17,14,MAC,2_Pts_C,George
+486,1,01:42,15,14,MAC,AS,Pedrinho
+487,1,01:57,15,14,MAC,RD,George
+488,1,01:57,15,14,RCB,3_Pts_T,Tatu
+489,1,02:09,15,14,RCB,substituicao_entra,Tatu
+490,1,02:09,15,14,RCB,substituicao_sai,Brown
+491,1,02:17,15,14,MAC,3_Pts_C,Diego
+492,1,02:17,12,14,MAC,AS,De Bem
+493,1,02:24,12,14,RCB,substituicao_entra,Pastor
+494,1,02:24,12,14,RCB,substituicao_sai,Tatu
+495,1,02:29,12,14,MAC,RO,Macaé Basquete
+496,1,02:29,12,14,MAC,2_Pts_T,Pedrinho
+497,1,02:44,12,14,RCB,2_Pts_C,Brown
+498,1,03:06,12,12,MAC,2_Pts_C,De Bem
+499,1,03:21,10,12,MAC,RD,Diego
+500,1,03:21,10,12,RCB,2_Pts_T,Estevam
+501,1,03:31,10,12,MAC,LL_Pts_C,De Bem
+502,1,03:31,9,12,MAC,AS,Diego
+503,1,03:31,9,12,MAC,LL_Pts_C,De Bem
+504,1,03:31,8,12,RCB,substituicao_entra,Estevam
+505,1,03:31,8,12,RCB,substituicao_entra,Tatu
+506,1,03:31,8,12,RCB,substituicao_sai,Tischer
+507,1,03:31,8,12,RCB,substituicao_sai,Pastor
+508,1,03:31,8,12,MAC,FR,De Bem
+509,1,03:31,8,12,RCB,FC,Tischer
+510,1,03:44,8,12,MAC,RD,Eddy
+511,1,03:44,8,12,RCB,2_Pts_T,Mosso
+512,1,04:09,8,12,MAC,2_Pts_C,De Bem
+513,1,04:09,6,12,MAC,AS,Diego
+514,1,04:20,6,12,RCB,substituicao_entra,Pastor
+515,1,04:20,6,12,RCB,substituicao_sai,Tatu
+516,1,04:20,6,12,RCB,AS,Brown
+517,1,04:20,6,12,RCB,LL_Pts_C,Caio
+518,1,04:20,6,11,RCB,LL_Pts_T,Caio
+519,1,04:20,6,11,MAC,substituicao_entra,George
+520,1,04:20,6,11,MAC,substituicao_entra,Diego
+521,1,04:20,6,11,MAC,substituicao_sai,Fernando Mineiro
+522,1,04:20,6,11,MAC,substituicao_sai,João
+523,1,04:20,6,11,RCB,FR,Caio
+524,1,04:20,6,11,MAC,FC,Fernando Mineiro
+525,1,04:33,6,11,RCB,RD,Brown
+526,1,04:33,6,11,MAC,2_Pts_T,Eddy
+527,1,04:40,6,11,RCB,ER,Tischer
+528,1,04:53,6,11,MAC,substituicao_entra,De Bem
+529,1,04:53,6,11,MAC,substituicao_sai,Atílio
+530,1,04:53,6,11,RCB,FR,Tischer
+531,1,04:53,6,11,MAC,FC_O,Atílio
+532,1,05:09,6,11,RCB,2_Pts_T,Caio
+533,1,05:14,6,11,MAC,substituicao_entra,Pedrinho
+534,1,05:14,6,11,MAC,substituicao_sai,Jamaal
+535,1,05:14,6,11,RCB,FR,Tatu
+536,1,05:14,6,11,MAC,FC,Jamaal
+537,1,05:22,6,11,RCB,FR,Brown
+538,1,05:22,6,11,MAC,FC,Atílio
+539,1,05:39,6,11,RCB,RD,Tischer
+540,1,05:39,6,11,MAC,2_Pts_T,Eddy
+541,1,05:50,6,11,MAC,FR,Jamaal
+542,1,05:50,6,11,RCB,FC,Caio
+543,1,05:55,6,11,MAC,RD,Eddy
+544,1,05:55,6,11,RCB,3_Pts_T,Caio
+545,1,06:05,6,11,RCB,RD,Tischer
+546,1,06:05,6,11,MAC,3_Pts_T,Eddy
+547,1,06:29,6,11,RCB,3_Pts_C,Caio
+548,1,06:41,6,8,MAC,2_Pts_C,Eddy
+549,1,06:41,4,8,MAC,AS,Atílio
+550,1,06:52,4,8,RCB,LL_Pts_C,Mosso
+551,1,06:52,4,7,RCB,LL_Pts_C,Mosso
+552,1,06:52,4,6,RCB,FR,Mosso
+553,1,06:52,4,6,MAC,FC,Fernando Mineiro
+554,1,07:01,4,6,RCB,FR,Tatu
+555,1,07:01,4,6,MAC,FC,Jamaal
+556,1,07:15,4,6,MAC,2_Pts_C,Fernando Mineiro
+557,1,07:34,2,6,RCB,2_Pts_C,Brown
+558,1,07:54,2,4,MAC,ER,
+559,1,08:25,2,4,RCB,2_Pts_C,Mosso
+560,1,08:40,2,2,MAC,ER,
+561,1,08:52,2,2,MAC,RO,Jamaal
+562,1,08:52,2,2,MAC,2_Pts_T,Eddy
+563,1,09:07,2,2,RCB,2_Pts_C,Mosso
+564,1,09:07,2,0,RCB,AS,Brown
+565,1,09:25,2,0,MAC,2_Pts_C,Fernando Mineiro
+566,1,09:25,0,0,MAC,AS,Eddy
+567,1,09:31,0,0,MAC,RO,João
+568,1,09:31,0,0,MAC,2_Pts_T,Eddy
+569,1,09:46,0,0,MAC,FR,Jamaal
+570,1,09:46,0,0,RCB,FC,Tatu
+571,1,10:00,0,0,RCB,substituicao_entra,Tischer
+572,1,10:00,0,0,RCB,substituicao_entra,Brown
+573,1,10:00,0,0,RCB,substituicao_entra,Mosso
+574,1,10:00,0,0,RCB,substituicao_entra,Caio
+575,1,10:00,0,0,RCB,substituicao_entra,Tatu
+576,1,10:00,0,0,MAC,substituicao_entra,Eddy
+577,1,10:00,0,0,MAC,substituicao_entra,Atílio
+578,1,10:00,0,0,MAC,substituicao_entra,Jamaal
+579,1,10:00,0,0,MAC,substituicao_entra,Fernando Mineiro
+580,1,10:00,0,0,MAC,substituicao_entra,João

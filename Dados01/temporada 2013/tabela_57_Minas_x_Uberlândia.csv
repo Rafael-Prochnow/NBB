@@ -1,0 +1,521 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,83,91, ,fim_partida,
+1,4,00:01,83,91,MIN,LL_Pts_C,Siqueira
+2,4,00:01,82,91,MIN,AS,Elinho
+3,4,00:01,82,91,MIN,LL_Pts_C,Siqueira
+4,4,00:01,81,91,MIN,FR,Siqueira
+5,4,00:01,81,91,UBE,FC,Léo Waszkiewicz
+6,4,00:05,81,91,UBE,LL_Pts_C,Helinho
+7,4,00:05,81,90,UBE,LL_Pts_C,Helinho
+8,4,00:05,81,89,MIN,substituicao_sai,Betinho
+9,4,00:05,81,89,MIN,substituicao_entra,Wilsinho
+10,4,00:05,81,89,UBE,FR,Helinho
+11,4,00:05,81,89,MIN,FC,Betinho
+12,4,00:07,81,89,UBE,RD,Helinho
+13,4,00:07,81,89,MIN,3_Pts_T,Wanderson
+14,4,00:13,81,89,UBE,LL_Pts_C,Valtinho
+15,4,00:13,81,88,UBE,LL_Pts_C,Valtinho
+16,4,00:13,81,87,UBE,FR,Valtinho
+17,4,00:13,81,87,MIN,FC,Elinho
+18,4,00:18,81,87,MIN,2_Pts_C,Betinho
+19,4,00:25,79,87,MIN,RD,Siqueira
+20,4,00:25,79,87,UBE,LL_Pts_T,Léo Waszkiewicz
+21,4,00:25,79,87,UBE,LL_Pts_C,Léo Waszkiewicz
+22,4,00:25,79,86,UBE,FR,Léo Waszkiewicz
+23,4,00:25,79,86,MIN,FC,Wanderson
+24,4,00:29,79,86,MIN,LL_Pts_C,Betinho
+25,4,00:29,78,86,MIN,2_Pts_C,Betinho
+26,4,00:29,76,86,MIN,FR,Betinho
+27,4,00:29,76,86,UBE,FC,Audrei
+28,4,00:35,76,86,MIN,substituicao_sai,Douglas Nunes
+29,4,00:35,76,86,MIN,substituicao_entra,Wanderson
+30,4,00:35,76,86,MIN,tempo_tecnico,Minas
+31,4,00:35,76,86,UBE,2_Pts_C,Léo Waszkiewicz
+32,4,00:58,76,84,UBE,RO,Audrei
+33,4,00:58,76,84,UBE,LL_Pts_T,Léo Waszkiewicz
+34,4,00:58,76,84,UBE,AS,Helinho
+35,4,00:58,76,84,UBE,LL_Pts_C,Léo Waszkiewicz
+36,4,00:58,76,83,UBE,FR,Léo Waszkiewicz
+37,4,00:58,76,83,MIN,FC,Douglas Nunes
+38,4,01:22,76,83,UBE,RD,Léo Waszkiewicz
+39,4,01:22,76,83,MIN,2_Pts_T,Laing
+40,4,01:24,76,83,MIN,RO,Laing
+41,4,01:24,76,83,MIN,LL_Pts_T,Laing
+42,4,01:24,76,83,UBE,substituicao_sai,Robert Day
+43,4,01:24,76,83,UBE,substituicao_entra,Léo Waszkiewicz
+44,4,01:24,76,83,MIN,AS,Elinho
+45,4,01:24,76,83,MIN,2_Pts_C,Laing
+46,4,01:24,74,83,MIN,FR,Laing
+47,4,01:24,74,83,UBE,FC,Robert Day
+48,4,01:30,74,83,MIN,BR,Siqueira
+49,4,01:30,74,83,UBE,ER,Valtinho
+50,4,01:52,74,83,MIN,substituicao_entra,Siqueira
+51,4,01:52,74,83,MIN,substituicao_sai,Wanderson
+52,4,01:52,74,83,MIN,LL_Pts_C,Douglas Nunes
+53,4,01:52,73,83,MIN,LL_Pts_C,Douglas Nunes
+54,4,01:52,72,83,UBE,substituicao_sai,Luis Gruber
+55,4,01:52,72,83,UBE,substituicao_entra,Helinho
+56,4,01:52,72,83,MIN,FR,Douglas Nunes
+57,4,01:52,72,83,UBE,FC,Luis Gruber
+58,4,01:59,72,83,MIN,tempo_tecnico,Minas
+59,4,01:59,72,83,UBE,LL_Pts_C,Audrei
+60,4,01:59,72,82,UBE,AS,Luis Gruber
+61,4,01:59,72,82,UBE,LL_Pts_C,Audrei
+62,4,01:59,72,81,UBE,FR,Audrei
+63,4,01:59,72,81,MIN,FC,Betinho
+64,4,02:18,72,81,MIN,LL_Pts_C,Wanderson
+65,4,02:18,71,81,MIN,LL_Pts_T,Wanderson
+66,4,02:18,71,81,MIN,FR,Wanderson
+67,4,02:18,71,81,UBE,FC,Luis Gruber
+68,4,02:18,71,81,MIN,RD,Minas
+69,4,02:18,71,81,UBE,2_Pts_T,Cipolini
+70,4,02:40,71,81,UBE,LL_Pts_C,Robert Day
+71,4,02:40,71,80,UBE,LL_Pts_C,Robert Day
+72,4,02:40,71,79,UBE,FR,Robert Day
+73,4,02:40,71,79,MIN,FC_A,Laing
+74,4,02:40,71,79,UBE,BR,Robert Day
+75,4,02:40,71,79,MIN,ER,Laing
+76,4,02:57,71,79,UBE,LL_Pts_C,Cipolini
+77,4,02:57,71,78,UBE,LL_Pts_T,Cipolini
+78,4,02:57,71,78,MIN,substituicao_entra,Betinho
+79,4,02:57,71,78,MIN,substituicao_sai,Ansaloni
+80,4,02:57,71,78,UBE,FR,Cipolini
+81,4,02:57,71,78,MIN,FC,Ansaloni
+82,4,03:03,71,78,MIN,LL_Pts_C,Wanderson
+83,4,03:03,70,78,MIN,LL_Pts_T,Wanderson
+84,4,03:03,70,78,MIN,FR,Wanderson
+85,4,03:03,70,78,UBE,FC,Audrei
+86,4,03:17,70,78,UBE,2_Pts_C,Luis Gruber
+87,4,03:37,70,76,MIN,ER,Douglas Nunes
+88,4,03:59,70,76,MIN,RD,Ansaloni
+89,4,03:59,70,76,UBE,LL_Pts_T,Cipolini
+90,4,03:59,70,76,UBE,LL_Pts_C,Cipolini
+91,4,03:59,70,75,MIN,substituicao_entra,Douglas Nunes
+92,4,03:59,70,75,MIN,substituicao_sai,Betinho
+93,4,03:59,70,75,UBE,FR,Cipolini
+94,4,03:59,70,75,MIN,FC,Elinho
+95,4,03:59,70,75,UBE,RO,Cipolini
+96,4,03:59,70,75,UBE,2_Pts_T,Cipolini
+97,4,04:16,70,75,UBE,RO,Uberlândia
+98,4,04:16,70,75,UBE,3_Pts_T,Robert Day
+99,4,04:24,70,75,MIN,substituicao_entra,Ansaloni
+100,4,04:24,70,75,MIN,substituicao_sai,Douglas Nunes
+101,4,04:24,70,75,UBE,AS,Valtinho
+102,4,04:24,70,75,UBE,3_Pts_C,Robert Day
+103,4,04:24,70,72,UBE,FR,Robert Day
+104,4,04:24,70,72,MIN,FC,Laing
+105,4,04:40,70,72,MIN,2_Pts_C,Douglas Nunes
+106,4,04:59,68,72,MIN,LL_Pts_T,Douglas Nunes
+107,4,04:59,68,72,MIN,LL_Pts_C,Douglas Nunes
+108,4,04:59,67,72,UBE,FC_T,Luis Gruber
+109,4,04:59,67,72,MIN,tempo_tecnico,Minas
+110,4,04:59,67,72,MIN,FR,Betinho
+111,4,04:59,67,72,UBE,FC_O,Luis Gruber
+112,4,05:10,67,72,UBE,RD,Robert Day
+113,4,05:10,67,72,MIN,3_Pts_T,Wanderson
+114,4,05:32,67,72,MIN,BR,Wanderson
+115,4,05:32,67,72,UBE,ER,Cipolini
+116,4,05:44,67,72,MIN,substituicao_entra,Wanderson
+117,4,05:44,67,72,MIN,substituicao_sai,Barbosa
+118,4,05:44,67,72,UBE,FR,Robert Day
+119,4,05:44,67,72,MIN,FC,Barbosa
+120,4,05:51,67,72,UBE,RD,Robert Day
+121,4,05:51,67,72,MIN,2_Pts_T,Elinho
+122,4,06:13,67,72,MIN,substituicao_entra,Barbosa
+123,4,06:13,67,72,MIN,substituicao_sai,Wanderson
+124,4,06:17,67,72,MIN,RO,Minas
+125,4,06:17,67,72,MIN,LL_Pts_T,Betinho
+126,4,06:17,67,72,MIN,LL_Pts_C,Betinho
+127,4,06:17,66,72,MIN,FR,Betinho
+128,4,06:17,66,72,UBE,FC,Robert Day
+129,4,06:26,66,72,MIN,RD,Laing
+130,4,06:26,66,72,UBE,2_Pts_T,Cipolini
+131,4,06:44,66,72,UBE,FR,Audrei
+132,4,06:44,66,72,MIN,FC_O,Douglas Nunes
+133,4,06:52,66,72,UBE,2_Pts_C,Luis Gruber
+134,4,06:58,66,70,UBE,RO,Luis Gruber
+135,4,06:58,66,70,UBE,2_Pts_T,Luis Gruber
+136,4,07:10,66,70,UBE,substituicao_entra,Robert Day
+137,4,07:10,66,70,UBE,substituicao_sai,Icaro
+138,4,07:10,66,70,UBE,FR,Audrei
+139,4,07:10,66,70,MIN,FC,Wanderson
+140,4,07:30,66,70,MIN,2_Pts_C,Wanderson
+141,4,07:30,64,70,MIN,AS,Betinho
+142,4,07:45,64,70,MIN,FR,Betinho
+143,4,07:45,64,70,UBE,FC,Valtinho
+144,4,07:45,64,70,MIN,RO,Betinho
+145,4,07:45,64,70,MIN,2_Pts_T,Betinho
+146,4,08:07,64,70,UBE,2_Pts_C,Audrei
+147,4,08:21,64,68,MIN,2_Pts_C,Betinho
+148,4,08:38,62,68,UBE,3_Pts_C,Valtinho
+149,4,08:38,62,65,UBE,AS,Audrei
+150,4,08:59,62,65,MIN,2_Pts_C,Douglas Nunes
+151,4,08:59,60,65,MIN,AS,Betinho
+152,4,09:18,60,65,MIN,RD,Minas
+153,4,09:18,60,65,UBE,2_Pts_T,Luis Gruber
+154,4,09:37,60,65,UBE,,
+155,4,09:37,60,65,MIN,ER,Elinho
+156,4,09:48,60,65,UBE,2_Pts_C,Valtinho
+157,3,00:00,60,63, ,fim_quarto,
+158,3,00:01,60,63,UBE,RD,Luis Gruber
+159,3,00:01,60,63,MIN,3_Pts_T,Douglas Nunes
+160,3,00:08,60,63,UBE,2_Pts_C,Icaro
+161,3,00:21,60,61,UBE,RD,Luis Gruber
+162,3,00:21,60,61,MIN,LL_Pts_T,Rafa Moreira
+163,3,00:21,60,61,MIN,LL_Pts_T,Rafa Moreira
+164,3,00:21,60,61,MIN,substituicao_sai,Laing
+165,3,00:21,60,61,MIN,substituicao_entra,Siqueira
+166,3,00:21,60,61,MIN,FR,Rafa Moreira
+167,3,00:21,60,61,UBE,FC,Icaro
+168,3,00:25,60,61,UBE,substituicao_entra,Kurtz
+169,3,00:25,60,61,UBE,substituicao_sai,Léo Waszkiewicz
+170,3,00:25,60,61,UBE,substituicao_entra,Icaro
+171,3,00:25,60,61,UBE,substituicao_sai,Robert Day
+172,3,00:25,60,61,UBE,LL_Pts_C,Luis Gruber
+173,3,00:25,60,60,UBE,AS,Valtinho
+174,3,00:25,60,60,UBE,LL_Pts_C,Luis Gruber
+175,3,00:25,60,59,MIN,substituicao_entra,Douglas Nunes
+176,3,00:25,60,59,MIN,substituicao_entra,Elinho
+177,3,00:25,60,59,MIN,substituicao_sai,Siqueira
+178,3,00:25,60,59,MIN,substituicao_sai,Barbosa
+179,3,00:25,60,59,UBE,FR,Luis Gruber
+180,3,00:25,60,59,MIN,FC,Rafa Moreira
+181,3,00:46,60,59,UBE,RD,Léo Waszkiewicz
+182,3,00:46,60,59,MIN,2_Pts_T,Barbosa
+183,3,00:59,60,59,UBE,LL_Pts_C,Léo Waszkiewicz
+184,3,00:59,60,58,UBE,LL_Pts_T,Léo Waszkiewicz
+185,3,00:59,60,58,UBE,FR,Léo Waszkiewicz
+186,3,00:59,60,58,MIN,FC,Barbosa
+187,3,01:16,60,58,MIN,substituicao_entra,Barbosa
+188,3,01:16,60,58,MIN,substituicao_sai,Elinho
+189,3,01:16,60,58,MIN,2_Pts_C,Rafa Moreira
+190,3,01:16,58,58,MIN,RO,Rafa Moreira
+191,3,01:16,58,58,MIN,2_Pts_T,Siqueira
+192,3,01:16,58,58,MIN,substituicao_entra,Elinho
+193,3,01:16,58,58,MIN,substituicao_sai,Barbosa
+194,3,01:34,58,58,MIN,FR,Siqueira
+195,3,01:34,58,58,UBE,FC_O,Luis Gruber
+196,3,01:49,58,58,MIN,substituicao_entra,Rafa Moreira
+197,3,01:49,58,58,MIN,substituicao_sai,Elinho
+198,3,01:49,58,58,UBE,RO,Uberlândia
+199,3,01:49,58,58,UBE,3_Pts_T,Robert Day
+200,3,02:02,58,58,UBE,RD,Luis Gruber
+201,3,02:02,58,58,MIN,LL_Pts_T,Elinho
+202,3,02:02,58,58,MIN,LL_Pts_C,Elinho
+203,3,02:02,57,58,MIN,FR,Elinho
+204,3,02:02,57,58,UBE,FC,Léo Waszkiewicz
+205,3,02:07,57,58,MIN,FR,Siqueira
+206,3,02:07,57,58,UBE,FC,Audrei
+207,3,02:21,57,58,MIN,substituicao_entra,Barbosa
+208,3,02:21,57,58,MIN,substituicao_sai,Ansaloni
+209,3,02:28,57,58,MIN,RO,Ansaloni
+210,3,02:28,57,58,MIN,3_Pts_T,Wanderson
+211,3,02:50,57,58,MIN,RD,Ansaloni
+212,3,02:50,57,58,UBE,LL_Pts_T,Léo Waszkiewicz
+213,3,02:50,57,58,UBE,AS,Valtinho
+214,3,02:50,57,58,UBE,2_Pts_C,Léo Waszkiewicz
+215,3,02:50,57,56,UBE,FR,Léo Waszkiewicz
+216,3,02:50,57,56,MIN,FC,Ansaloni
+217,3,03:03,57,56,MIN,2_Pts_C,Wanderson
+218,3,03:23,55,56,UBE,EN,Léo Waszkiewicz
+219,3,03:23,55,54,UBE,AS,Valtinho
+220,3,03:44,55,54,MIN,2_Pts_C,Elinho
+221,3,03:52,53,54,UBE,LL_Pts_C,Valtinho
+222,3,03:52,53,53,UBE,LL_Pts_C,Valtinho
+223,3,03:52,53,52,MIN,substituicao_entra,Siqueira
+224,3,03:52,53,52,MIN,substituicao_sai,Betinho
+225,3,03:52,53,52,MIN,substituicao_entra,Ansaloni
+226,3,03:52,53,52,MIN,substituicao_sai,Barbosa
+227,3,03:52,53,52,UBE,FR,Valtinho
+228,3,03:52,53,52,MIN,FC,Barbosa
+229,3,04:03,53,52,UBE,FR,Audrei
+230,3,04:03,53,52,MIN,FC_O,Betinho
+231,3,04:16,53,52,UBE,2_Pts_C,Léo Waszkiewicz
+232,3,04:16,53,50,UBE,AS,Audrei
+233,3,04:39,53,50,MIN,LL_Pts_C,Laing
+234,3,04:39,52,50,MIN,LL_Pts_C,Laing
+235,3,04:39,51,50,MIN,substituicao_entra,Wanderson
+236,3,04:39,51,50,MIN,substituicao_sai,Douglas Nunes
+237,3,04:39,51,50,UBE,substituicao_entra,Léo Waszkiewicz
+238,3,04:39,51,50,UBE,substituicao_sai,Helinho
+239,3,04:39,51,50,MIN,FR,Laing
+240,3,04:39,51,50,UBE,FC,Robert Day
+241,3,04:45,51,50,MIN,BR,Laing
+242,3,04:45,51,50,UBE,ER,Robert Day
+243,3,04:55,51,50,UBE,RD,Robert Day
+244,3,04:55,51,50,UBE,TO,Robert Day
+245,3,04:55,51,50,MIN,2_Pts_T,Douglas Nunes
+246,3,05:12,51,50,UBE,LL_Pts_C,Helinho
+247,3,05:12,51,49,UBE,substituicao_entra,Helinho
+248,3,05:12,51,49,UBE,substituicao_sai,Cipolini
+249,3,05:12,51,49,UBE,2_Pts_C,Cipolini
+250,3,05:12,51,47,UBE,FR,Cipolini
+251,3,05:12,51,47,MIN,FC,Douglas Nunes
+252,3,05:26,51,47,MIN,2_Pts_C,Betinho
+253,3,05:26,49,47,MIN,AS,Elinho
+254,3,05:45,49,47,UBE,3_Pts_C,Robert Day
+255,3,05:56,49,44,MIN,EN,Barbosa
+256,3,06:07,47,44,MIN,RO,Barbosa
+257,3,06:07,47,44,MIN,3_Pts_T,Laing
+258,3,06:17,47,44,MIN,RD,Douglas Nunes
+259,3,06:17,47,44,MIN,TO,Douglas Nunes
+260,3,06:17,47,44,UBE,2_Pts_T,Cipolini
+261,3,06:32,47,44,UBE,RD,Valtinho
+262,3,06:32,47,44,MIN,3_Pts_T,Douglas Nunes
+263,3,06:48,47,44,UBE,substituicao_entra,Audrei
+264,3,06:48,47,44,UBE,substituicao_sai,Helinho
+265,3,06:48,47,44,MIN,FR,Betinho
+266,3,06:48,47,44,UBE,FC,Helinho
+267,3,06:57,47,44,UBE,2_Pts_C,Robert Day
+268,3,07:03,47,42,UBE,RO,Robert Day
+269,3,07:03,47,42,UBE,2_Pts_T,Robert Day
+270,3,07:09,47,42,UBE,BR,Valtinho
+271,3,07:09,47,42,MIN,ER,Betinho
+272,3,07:29,47,42,MIN,RD,Barbosa
+273,3,07:29,47,42,UBE,2_Pts_T,Cipolini
+274,3,07:41,47,42,UBE,RD,Robert Day
+275,3,07:41,47,42,MIN,3_Pts_T,Douglas Nunes
+276,3,08:05,47,42,UBE,2_Pts_C,Cipolini
+277,3,08:05,47,40,UBE,AS,Valtinho
+278,3,08:33,47,40,UBE,RD,Uberlândia
+279,3,08:33,47,40,MIN,3_Pts_T,Betinho
+280,3,08:52,47,40,UBE,3_Pts_C,Robert Day
+281,3,09:17,47,37,MIN,2_Pts_C,Barbosa
+282,3,09:25,45,37,MIN,RO,Barbosa
+283,3,09:25,45,37,MIN,LL_Pts_T,Laing
+284,3,09:25,45,37,MIN,AS,Douglas Nunes
+285,3,09:25,45,37,MIN,2_Pts_C,Laing
+286,3,09:25,43,37,MIN,FR,Laing
+287,3,09:25,43,37,UBE,FC,Helinho
+288,3,09:41,43,37,UBE,,
+289,2,00:00,43,37, ,fim_quarto,
+290,2,00:02,43,37,MIN,3_Pts_C,Laing
+291,2,00:02,40,37,MIN,AS,Elinho
+292,2,00:08,40,37,MIN,FR,Elinho
+293,2,00:08,40,37,UBE,FC,Cipolini
+294,2,00:18,40,37,UBE,LL_Pts_C,Kurtz
+295,2,00:18,40,36,UBE,LL_Pts_C,Kurtz
+296,2,00:18,40,35,UBE,FR,Kurtz
+297,2,00:18,40,35,MIN,FC,Ansaloni
+298,2,00:18,40,35,UBE,RO,Kurtz
+299,2,00:18,40,35,UBE,2_Pts_T,Cipolini
+300,2,00:47,40,35,MIN,EN,Ansaloni
+301,2,00:47,38,35,MIN,AS,Douglas Nunes
+302,2,01:05,38,35,MIN,RD,Ansaloni
+303,2,01:05,38,35,UBE,2_Pts_T,Valtinho
+304,2,01:25,38,35,MIN,3_Pts_C,Wilsinho
+305,2,01:25,35,35,MIN,AS,Elinho
+306,2,01:45,35,35,UBE,substituicao_entra,Kurtz
+307,2,01:45,35,35,UBE,substituicao_sai,Léo Waszkiewicz
+308,2,01:45,35,35,MIN,tempo_tecnico,Minas
+309,2,01:45,35,35,MIN,,
+310,2,01:45,35,35,UBE,ER,Valtinho
+311,2,02:00,35,35,UBE,BR,Léo Waszkiewicz
+312,2,02:00,35,35,MIN,ER,Elinho
+313,2,02:12,35,35,MIN,RD,Douglas Nunes
+314,2,02:18,35,35,UBE,LL_Pts_T,Léo Waszkiewicz
+315,2,02:18,35,35,UBE,AS,Helinho
+316,2,02:18,35,35,UBE,2_Pts_C,Léo Waszkiewicz
+317,2,02:18,35,33,UBE,FR,Léo Waszkiewicz
+318,2,02:18,35,33,MIN,FC,Ansaloni
+319,2,02:41,35,33,MIN,3_Pts_C,Douglas Nunes
+320,2,02:41,32,33,MIN,AS,Elinho
+321,2,02:52,32,33,UBE,LL_Pts_C,Helinho
+322,2,02:52,32,32,UBE,LL_Pts_C,Helinho
+323,2,02:52,32,31,MIN,substituicao_entra,Wilsinho
+324,2,02:52,32,31,MIN,substituicao_sai,Rafa Moreira
+325,2,02:52,32,31,UBE,FR,Helinho
+326,2,02:52,32,31,MIN,FC,Rafa Moreira
+327,2,03:07,32,31,MIN,2_Pts_C,Ansaloni
+328,2,03:07,30,31,MIN,AS,Elinho
+329,2,03:19,30,31,UBE,substituicao_sai,Luis Gruber
+330,2,03:19,30,31,UBE,substituicao_entra,Cipolini
+331,2,03:19,30,31,MIN,substituicao_entra,Rafa Moreira
+332,2,03:19,30,31,MIN,substituicao_sai,Siqueira
+333,2,03:27,30,31,MIN,RD,Elinho
+334,2,03:27,30,31,UBE,3_Pts_T,Helinho
+335,2,03:37,30,31,UBE,RD,Helinho
+336,2,03:37,30,31,MIN,3_Pts_T,Laing
+337,2,04:16,30,31,UBE,3_Pts_C,Helinho
+338,2,04:23,30,28,MIN,substituicao_entra,Ansaloni
+339,2,04:23,30,28,MIN,substituicao_sai,Junior
+340,2,04:23,30,28,MIN,substituicao_entra,Elinho
+341,2,04:23,30,28,MIN,substituicao_sai,Wanderson
+342,2,04:23,30,28,UBE,FR,Valtinho
+343,2,04:23,30,28,MIN,FC,Laing
+344,2,04:35,30,28,MIN,,
+345,2,04:57,30,28,UBE,LL_Pts_C,Audrei
+346,2,04:57,30,27,UBE,LL_Pts_C,Audrei
+347,2,04:57,30,26,UBE,FR,Audrei
+348,2,04:57,30,26,MIN,FC,Wanderson
+349,2,05:11,30,26,MIN,substituicao_entra,Wanderson
+350,2,05:11,30,26,MIN,substituicao_sai,Elinho
+351,2,05:21,30,26,MIN,EN,Laing
+352,2,05:21,28,26,MIN,AS,Siqueira
+353,2,05:40,28,26,MIN,substituicao_entra,Douglas Nunes
+354,2,05:40,28,26,MIN,substituicao_entra,Laing
+355,2,05:40,28,26,MIN,substituicao_sai,Demétrio
+356,2,05:40,28,26,MIN,substituicao_sai,Wanderson
+357,2,05:40,28,26,UBE,tempo_tecnico,Uberlândia
+358,2,05:40,28,26,UBE,FR,Léo Waszkiewicz
+359,2,05:40,28,26,MIN,FC,Elinho
+360,2,05:56,28,26,MIN,2_Pts_C,Junior
+361,2,06:03,26,26,MIN,RO,Junior
+362,2,06:03,26,26,MIN,2_Pts_T,Wanderson
+363,2,06:26,26,26,UBE,2_Pts_C,Valtinho
+364,2,06:37,26,24,UBE,RD,Léo Waszkiewicz
+365,2,06:37,26,24,MIN,2_Pts_T,Demétrio
+366,2,06:56,26,24,UBE,EN,Léo Waszkiewicz
+367,2,06:56,26,22,UBE,AS,Audrei
+368,2,07:06,26,22,UBE,RD,Luis Gruber
+369,2,07:06,26,22,MIN,2_Pts_T,Wanderson
+370,2,07:11,26,22,MIN,BR,Elinho
+371,2,07:11,26,22,UBE,ER,Luis Gruber
+372,2,07:29,26,22,MIN,2_Pts_C,Wanderson
+373,2,07:29,24,22,MIN,AS,Elinho
+374,2,07:38,24,22,UBE,substituicao_sai,Cipolini
+375,2,07:38,24,22,UBE,substituicao_entra,Luis Gruber
+376,2,07:38,24,22,MIN,substituicao_sai,Barbosa
+377,2,07:38,24,22,MIN,substituicao_entra,Junior
+378,2,07:38,24,22,MIN,FR,Barbosa
+379,2,07:38,24,22,UBE,FC,Léo Waszkiewicz
+380,2,07:45,24,22,MIN,RO,Minas
+381,2,07:45,24,22,MIN,3_Pts_T,Siqueira
+382,2,08:05,24,22,MIN,RD,Wanderson
+383,2,08:05,24,22,UBE,3_Pts_T,Valtinho
+384,2,08:29,24,22,MIN,3_Pts_C,Wanderson
+385,2,08:29,21,22,MIN,AS,Elinho
+386,2,08:41,21,22,UBE,3_Pts_C,Helinho
+387,2,08:41,21,19,UBE,AS,Valtinho
+388,2,09:09,21,19,MIN,2_Pts_C,Elinho
+389,2,09:21,19,19,MIN,RD,Elinho
+390,2,09:21,19,19,UBE,2_Pts_T,Cipolini
+391,2,09:27,19,19,MIN,substituicao_entra,Siqueira
+392,2,09:27,19,19,MIN,substituicao_sai,Betinho
+393,2,09:27,19,19,UBE,FR,Helinho
+394,2,09:27,19,19,MIN,FC,Betinho
+395,2,09:44,19,19,MIN,LL_Pts_C,Demétrio
+396,2,09:44,18,19,MIN,AS,Elinho
+397,2,09:44,18,19,MIN,LL_Pts_C,Demétrio
+398,2,09:44,17,19,MIN,substituicao_entra,Betinho
+399,2,09:44,17,19,MIN,substituicao_sai,Laing
+400,2,09:44,17,19,MIN,FR,Demétrio
+401,2,09:44,17,19,UBE,FC,Audrei
+402,1,00:00,17,19, ,fim_quarto,
+403,1,00:13,17,19,UBE,RD,Audrei
+404,1,00:13,17,19,MIN,2_Pts_T,Elinho
+405,1,00:13,17,19,MIN,FR,Laing
+406,1,00:13,17,19,UBE,FC,Helinho
+407,1,00:25,17,19,UBE,3_Pts_C,Audrei
+408,1,00:25,17,16,UBE,AS,Léo Waszkiewicz
+409,1,00:42,17,16,MIN,AS,Elinho
+410,1,00:42,17,16,MIN,LL_Pts_C,Demétrio
+411,1,00:42,16,16,MIN,EN,Demétrio
+412,1,00:42,14,16,MIN,FR,Demétrio
+413,1,00:42,14,16,UBE,FC,Léo Waszkiewicz
+414,1,01:04,14,16,MIN,RD,Elinho
+415,1,01:04,14,16,UBE,2_Pts_T,Audrei
+416,1,01:23,14,16,MIN,EN,Laing
+417,1,01:44,12,16,MIN,RD,Demétrio
+418,1,01:44,12,16,UBE,2_Pts_T,Audrei
+419,1,02:15,12,16,MIN,2_Pts_C,Barbosa
+420,1,02:15,10,16,MIN,AS,Elinho
+421,1,02:32,10,16,MIN,RD,Barbosa
+422,1,02:32,10,16,UBE,LL_Pts_T,Cipolini
+423,1,02:32,10,16,UBE,LL_Pts_C,Cipolini
+424,1,02:32,10,15,UBE,FR,Cipolini
+425,1,02:32,10,15,MIN,FC,Demétrio
+426,1,02:45,10,15,MIN,substituicao_entra,Barbosa
+427,1,02:45,10,15,MIN,substituicao_sai,Ansaloni
+428,1,02:49,10,15,UBE,substituicao_entra,Léo Waszkiewicz
+429,1,02:49,10,15,UBE,substituicao_sai,Luis Gruber
+430,1,02:56,10,15,MIN,2_Pts_C,Elinho
+431,1,03:17,8,15,MIN,RD,Wanderson
+432,1,03:17,8,15,UBE,3_Pts_T,Audrei
+433,1,03:29,8,15,UBE,RO,Valtinho
+434,1,03:29,8,15,MIN,2_Pts_T,Laing
+435,1,03:47,8,15,UBE,2_Pts_C,Cipolini
+436,1,03:47,8,13,UBE,AS,Valtinho
+437,1,03:57,8,13,UBE,RD,Luis Gruber
+438,1,03:57,8,13,UBE,TO,Cipolini
+439,1,03:57,8,13,MIN,2_Pts_T,Ansaloni
+440,1,04:04,8,13,MIN,RD,Demétrio
+441,1,04:04,8,13,UBE,2_Pts_T,Cipolini
+442,1,04:09,8,13,UBE,RO,Cipolini
+443,1,04:09,8,13,UBE,2_Pts_T,Luis Gruber
+444,1,04:34,8,13,MIN,2_Pts_C,Laing
+445,1,04:47,6,13,MIN,substituicao_entra,Demétrio
+446,1,04:47,6,13,MIN,substituicao_sai,Douglas Nunes
+447,1,04:47,6,13,MIN,tempo_tecnico,Minas
+448,1,04:47,6,13,MIN,,
+449,1,04:47,6,13,UBE,ER,Valtinho
+450,1,04:53,6,13,UBE,BR,Audrei
+451,1,04:53,6,13,MIN,ER,Douglas Nunes
+452,1,05:13,6,13,UBE,2_Pts_C,Cipolini
+453,1,05:13,6,11,UBE,AS,Helinho
+454,1,05:20,6,11,UBE,RD,Helinho
+455,1,05:20,6,11,MIN,2_Pts_T,Laing
+456,1,05:38,6,11,UBE,LL_Pts_C,Valtinho
+457,1,05:38,6,10,UBE,2_Pts_C,Valtinho
+458,1,05:38,6,8,UBE,FR,Valtinho
+459,1,05:38,6,8,MIN,FC,Laing
+460,1,05:38,6,8,UBE,RO,Valtinho
+461,1,05:38,6,8,UBE,3_Pts_T,Luis Gruber
+462,1,05:57,6,8,MIN,substituicao_entra,Wanderson
+463,1,05:57,6,8,MIN,substituicao_sai,Betinho
+464,1,05:57,6,8,UBE,substituicao_entra,Helinho
+465,1,05:57,6,8,UBE,substituicao_sai,Robert Day
+466,1,05:57,6,8,UBE,FR,Robert Day
+467,1,05:57,6,8,MIN,FC_O,Ansaloni
+468,1,06:03,6,8,MIN,substituicao_entra,Ansaloni
+469,1,06:03,6,8,MIN,substituicao_sai,Barbosa
+470,1,06:03,6,8,MIN,FR,Douglas Nunes
+471,1,06:03,6,8,UBE,FC,Robert Day
+472,1,06:20,6,8,UBE,LL_Pts_C,Audrei
+473,1,06:20,6,7,UBE,LL_Pts_C,Audrei
+474,1,06:20,6,6,UBE,FR,Audrei
+475,1,06:20,6,6,MIN,FC,Betinho
+476,1,06:24,6,6,UBE,FR,Cipolini
+477,1,06:24,6,6,MIN,FC_O,Barbosa
+478,1,06:29,6,6,UBE,2_Pts_C,Luis Gruber
+479,1,06:44,6,4,MIN,2_Pts_C,Barbosa
+480,1,06:52,4,4,MIN,RO,Barbosa
+481,1,06:52,4,4,MIN,2_Pts_T,Elinho
+482,1,07:00,4,4,MIN,BR,Laing
+483,1,07:00,4,4,UBE,ER,Robert Day
+484,1,07:05,4,4,UBE,BR,Valtinho
+485,1,07:05,4,4,MIN,ER,Elinho
+486,1,07:18,4,4,MIN,RD,Betinho
+487,1,07:18,4,4,UBE,3_Pts_T,Audrei
+488,1,07:41,4,4,MIN,LL_Pts_C,Barbosa
+489,1,07:41,3,4,MIN,LL_Pts_C,Barbosa
+490,1,07:41,2,4,MIN,FR,Barbosa
+491,1,07:41,2,4,UBE,FC,Robert Day
+492,1,07:46,2,4,MIN,RO,Barbosa
+493,1,07:46,2,4,MIN,2_Pts_T,Betinho
+494,1,08:05,2,4,UBE,2_Pts_C,Robert Day
+495,1,08:24,2,2,MIN,ER,
+496,1,08:31,2,2,MIN,RO,Elinho
+497,1,08:31,2,2,UBE,TO,Cipolini
+498,1,08:31,2,2,MIN,2_Pts_T,Barbosa
+499,1,08:54,2,2,UBE,LL_Pts_C,Cipolini
+500,1,08:54,2,1,UBE,LL_Pts_C,Cipolini
+501,1,08:54,2,0,UBE,FR,Cipolini
+502,1,08:54,2,0,MIN,FC,Barbosa
+503,1,09:07,2,0,MIN,2_Pts_C,Douglas Nunes
+504,1,09:12,0,0,MIN,RO,Douglas Nunes
+505,1,09:12,0,0,MIN,2_Pts_T,Douglas Nunes
+506,1,09:37,0,0,MIN,RO,Barbosa
+507,1,09:37,0,0,MIN,2_Pts_T,Betinho
+508,1,09:43,0,0,MIN,RD,Betinho
+509,1,09:43,0,0,UBE,2_Pts_T,Cipolini
+510,1,10:00,0,0,MIN,substituicao_entra,Barbosa
+511,1,10:00,0,0,MIN,substituicao_entra,Betinho
+512,1,10:00,0,0,MIN,substituicao_entra,Douglas Nunes
+513,1,10:00,0,0,MIN,substituicao_entra,Laing
+514,1,10:00,0,0,MIN,substituicao_entra,Elinho
+515,1,10:00,0,0,UBE,substituicao_entra,Robert Day
+516,1,10:00,0,0,UBE,substituicao_entra,Audrei
+517,1,10:00,0,0,UBE,substituicao_entra,Luis Gruber
+518,1,10:00,0,0,UBE,substituicao_entra,Cipolini
+519,1,10:00,0,0,UBE,substituicao_entra,Valtinho

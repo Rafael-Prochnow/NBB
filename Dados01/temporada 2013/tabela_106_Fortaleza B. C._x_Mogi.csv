@@ -1,0 +1,509 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,71,69, ,fim_partida,
+1,4,00:00,71,69,MOG,2_Pts_T,Filipin
+2,4,00:01,71,69,CEA,2_Pts_C,Felipe
+3,4,00:04,69,69,CEA,tempo_tecnico,Basquete Cearense
+4,4,00:04,69,69,MOG,LL_Pts_C,Filipin
+5,4,00:04,69,68,MOG,LL_Pts_C,Filipin
+6,4,00:04,69,67,MOG,LL_Pts_C,Filipin
+7,4,00:04,69,66,MOG,FR,Filipin
+8,4,00:04,69,66,CEA,FC,André Góes
+9,4,00:06,69,66,MOG,tempo_tecnico,Mogi das Cruzes
+10,4,00:06,69,66,CEA,LL_Pts_C,André Góes
+11,4,00:06,68,66,CEA,LL_Pts_T,André Góes
+12,4,00:06,68,66,CEA,FR,André Góes
+13,4,00:06,68,66,MOG,FC,Filipin
+14,4,00:12,68,66,CEA,BR,Davi
+15,4,00:12,68,66,MOG,ER,Jefferson Campos
+16,4,00:35,68,66,MOG,substituicao_entra,Jefferson Campos
+17,4,00:35,68,66,MOG,substituicao_sai,Toledo
+18,4,00:38,68,66,MOG,substituicao_entra,Jason Smith
+19,4,00:39,68,66,MOG,substituicao_sai,Gustavinho
+20,4,00:51,68,66,MOG,tempo_tecnico,Mogi das Cruzes
+21,4,00:51,68,66,CEA,2_Pts_C,Jimmy
+22,4,00:51,66,66,CEA,AS,André Góes
+23,4,00:56,66,66,CEA,BR,André Góes
+24,4,00:56,66,66,MOG,ER,Gustavinho
+25,4,01:05,66,66,MOG,RD,Toledo
+26,4,01:05,66,66,CEA,LL_Pts_T,Devon
+27,4,01:05,66,66,CEA,LL_Pts_C,Devon
+28,4,01:05,65,66,CEA,FR,Devon
+29,4,01:05,65,66,MOG,FC,Gustavinho
+30,4,01:22,65,66,CEA,,
+31,4,01:22,65,66,MOG,ER,Thomas Gehrke
+32,4,01:22,65,66,MOG,RO,Thomas Gehrke
+33,4,01:22,65,66,MOG,2_Pts_T,Toledo
+34,4,01:40,65,66,MOG,RD,Toledo
+35,4,01:40,65,66,CEA,LL_Pts_T,Devon
+36,4,01:40,65,66,CEA,LL_Pts_C,Devon
+37,4,01:40,64,66,CEA,FR,Devon
+38,4,01:40,64,66,MOG,FC,Toledo
+39,4,01:52,64,66,MOG,substituicao_entra,Toledo
+40,4,01:52,64,66,MOG,substituicao_sai,Jefferson Campos
+41,4,01:52,64,66,MOG,LL_Pts_T,Thomas Gehrke
+42,4,01:52,64,66,MOG,LL_Pts_C,Thomas Gehrke
+43,4,01:52,64,65,MOG,FR,Thomas Gehrke
+44,4,01:52,64,65,CEA,FC,Jimmy
+45,4,01:53,64,65,MOG,FR,Thomas Gehrke
+46,4,01:53,64,65,CEA,FC,Felipe
+47,4,02:08,64,65,CEA,2_Pts_C,Jimmy
+48,4,02:08,62,65,CEA,AS,Davi
+49,4,02:29,62,65,CEA,RD,Felipe
+50,4,02:29,62,65,MOG,2_Pts_T,Jeff Agba
+51,4,02:40,62,65,CEA,2_Pts_C,Felipe
+52,4,02:53,60,65,CEA,RO,Jimmy
+53,4,02:53,60,65,CEA,LL_Pts_T,Felipe
+54,4,02:53,60,65,CEA,LL_Pts_C,Felipe
+55,4,02:53,59,65,CEA,FR,Felipe
+56,4,02:53,59,65,MOG,FC,Thomas Gehrke
+57,4,02:56,59,65,CEA,RO,Felipe
+58,4,02:56,59,65,CEA,LL_Pts_T,Devon
+59,4,02:56,59,65,CEA,LL_Pts_T,Devon
+60,4,02:56,59,65,MOG,tempo_tecnico,Mogi das Cruzes
+61,4,02:56,59,65,CEA,FR,Devon
+62,4,02:56,59,65,MOG,FC,Jeff Agba
+63,4,02:56,59,65,CEA,RD,Jimmy
+64,4,02:56,59,65,MOG,2_Pts_T,Gustavinho
+65,4,03:17,59,65,CEA,EN,Jimmy
+66,4,03:17,57,65,CEA,AS,André Góes
+67,4,03:23,57,65,CEA,BR,Felipe
+68,4,03:23,57,65,MOG,ER,Filipin
+69,4,03:42,57,65,CEA,substituicao_entra,Davi
+70,4,03:42,57,65,CEA,substituicao_sai,Brown
+71,4,03:42,57,65,MOG,FR,Thomas Gehrke
+72,4,03:42,57,65,CEA,FC,Felipe
+73,4,03:42,57,65,MOG,RD,Thomas Gehrke
+74,4,03:42,57,65,CEA,2_Pts_T,Felipe
+75,4,03:42,57,65,CEA,RO,Felipe
+76,4,03:42,57,65,CEA,2_Pts_T,Jimmy
+77,4,04:00,57,65,CEA,RD,Felipe
+78,4,04:00,57,65,MOG,3_Pts_T,Filipin
+79,4,04:04,57,65,MOG,FR,Gustavinho
+80,4,04:04,57,65,CEA,FC,Brown
+81,4,04:25,57,65,CEA,EN,Devon
+82,4,04:25,55,65,CEA,AS,André Góes
+83,4,04:38,55,65,MOG,2_Pts_C,Gustavinho
+84,4,04:43,55,63,CEA,AS,Jimmy
+85,4,04:52,55,63,CEA,2_Pts_C,Felipe
+86,4,05:09,53,63,CEA,tempo_tecnico,Basquete Cearense
+87,4,05:09,53,63,MOG,2_Pts_C,Jeff Agba
+88,4,05:09,53,61,MOG,AS,Gustavinho
+89,4,05:30,53,61,MOG,RD,Jeff Agba
+90,4,05:30,53,61,CEA,2_Pts_T,Jimmy
+91,4,05:54,53,61,MOG,2_Pts_C,Jeff Agba
+92,4,05:54,53,59,MOG,AS,Thomas Gehrke
+93,4,05:58,53,59,CEA,LL_Pts_C,Brown
+94,4,05:58,52,59,CEA,LL_Pts_T,Brown
+95,4,05:58,52,59,CEA,FR,Brown
+96,4,05:58,52,59,MOG,FC,Thomas Gehrke
+97,4,06:09,52,59,CEA,BR,André Góes
+98,4,06:09,52,59,MOG,ER,Jeff Agba
+99,4,06:20,52,59,MOG,RO,Mogi das Cruzes
+100,4,06:20,52,59,MOG,2_Pts_T,Jeff Agba
+101,4,06:30,52,59,MOG,BR,Jeff Agba
+102,4,06:30,52,59,CEA,ER,Devon
+103,4,06:49,52,59,CEA,FR,Jimmy
+104,4,06:49,52,59,MOG,FC,Gustavinho
+105,4,07:03,52,59,MOG,RD,Jefferson Campos
+106,4,07:03,52,59,CEA,3_Pts_T,Felipe
+107,4,07:27,52,59,MOG,substituicao_entra,Filipin
+108,4,07:27,52,59,MOG,substituicao_sai,Patekoski
+109,4,07:37,52,59,CEA,,
+110,4,07:37,52,59,MOG,ER,Jefferson Campos
+111,4,07:39,52,59,MOG,FR,Gustavinho
+112,4,07:39,52,59,CEA,FC_O,Devon
+113,4,07:46,52,59,CEA,RD,Jimmy
+114,4,07:46,52,59,MOG,3_Pts_T,Patekoski
+115,4,07:55,52,59,CEA,LL_Pts_C,Brown
+116,4,07:55,51,59,CEA,LL_Pts_C,Brown
+117,4,07:55,50,59,MOG,substituicao_entra,Gustavinho
+118,4,07:55,50,59,MOG,substituicao_sai,Jason Smith
+119,4,07:55,50,59,CEA,FR,Brown
+120,4,07:55,50,59,MOG,FC,Jason Smith
+121,4,08:23,50,59,MOG,2_Pts_C,Jefferson Campos
+122,4,08:49,50,57,CEA,LL_Pts_C,Felipe
+123,4,08:49,49,57,CEA,LL_Pts_T,Felipe
+124,4,08:49,49,57,CEA,FR,Felipe
+125,4,08:49,49,57,MOG,FC,Thomas Gehrke
+126,4,08:59,49,57,CEA,RD,André Góes
+127,4,08:59,49,57,MOG,3_Pts_T,Jeff Agba
+128,4,09:27,49,57,CEA,2_Pts_C,Devon
+129,4,09:27,47,57,CEA,AS,Brown
+130,4,09:44,47,57,MOG,2_Pts_C,Jefferson Campos
+131,4,10:00,47,55,MOG,substituicao_entra,Jeff Agba
+132,4,10:00,47,55,MOG,substituicao_entra,Patekoski
+133,4,10:00,47,55,MOG,substituicao_entra,Thomas Gehrke
+134,4,10:00,47,55,MOG,substituicao_entra,Jefferson Campos
+135,4,10:00,47,55,MOG,substituicao_entra,Jason Smith
+136,4,10:00,47,55,CEA,substituicao_entra,Felipe
+137,4,10:00,47,55,CEA,substituicao_entra,Devon
+138,4,10:00,47,55,CEA,substituicao_entra,Jimmy
+139,4,10:00,47,55,CEA,substituicao_entra,Brown
+140,4,10:00,47,55,CEA,substituicao_entra,André Góes
+141,3,00:00,47,55, ,fim_quarto,
+142,3,00:00,47,55,CEA,RD,André Góes
+143,3,00:00,47,55,MOG,3_Pts_T,Thomas Gehrke
+144,3,00:16,47,55,MOG,RD,Thomas Gehrke
+145,3,00:16,47,55,CEA,3_Pts_T,Matheus
+146,3,00:43,47,55,MOG,2_Pts_C,Jeff Agba
+147,3,00:46,47,53,MOG,RO,Jeff Agba
+148,3,00:46,47,53,MOG,2_Pts_T,Jason Smith
+149,3,01:01,47,53,CEA,LL_Pts_C,André Góes
+150,3,01:01,46,53,CEA,LL_Pts_C,André Góes
+151,3,01:01,45,53,CEA,FR,André Góes
+152,3,01:01,45,53,MOG,FC,Patekoski
+153,3,01:08,45,53,MOG,2_Pts_C,Jeff Agba
+154,3,01:13,45,51,MOG,RO,Jeff Agba
+155,3,01:13,45,51,MOG,2_Pts_T,Thomas Gehrke
+156,3,01:18,45,51,MOG,RO,Thomas Gehrke
+157,3,01:18,45,51,MOG,3_Pts_T,Patekoski
+158,3,01:21,45,51,CEA,substituicao_entra,Jimmy
+159,3,01:21,45,51,CEA,substituicao_sai,Brown
+160,3,01:21,45,51,CEA,substituicao_entra,Matheus
+161,3,01:21,45,51,CEA,substituicao_sai,Davi
+162,3,01:44,45,51,MOG,RD,Jefferson Campos
+163,3,01:44,45,51,CEA,3_Pts_T,Felipe
+164,3,01:58,45,51,MOG,2_Pts_C,Jason Smith
+165,3,02:10,45,49,MOG,RD,Jeff Agba
+166,3,02:10,45,49,CEA,3_Pts_T,André Góes
+167,3,02:31,45,49,MOG,2_Pts_C,Jeff Agba
+168,3,02:31,45,47,MOG,AS,Jason Smith
+169,3,02:40,45,47,CEA,2_Pts_C,Devon
+170,3,02:44,43,47,CEA,RO,Devon
+171,3,02:44,43,47,CEA,2_Pts_T,Devon
+172,3,03:05,43,47,MOG,2_Pts_C,Jefferson Campos
+173,3,03:14,43,45,MOG,RD,Thomas Gehrke
+174,3,03:14,43,45,CEA,2_Pts_T,Brown
+175,3,03:31,43,45,CEA,RD,Devon
+176,3,03:31,43,45,MOG,2_Pts_T,Jeff Agba
+177,3,03:44,43,45,MOG,FR,Thomas Gehrke
+178,3,03:44,43,45,CEA,FC,Devon
+179,3,03:56,43,45,MOG,RD,Jeff Agba
+180,3,03:56,43,45,CEA,2_Pts_T,Felipe
+181,3,04:01,43,45,CEA,RO,Felipe
+182,3,04:01,43,45,CEA,3_Pts_T,Brown
+183,3,04:12,43,45,CEA,RD,Basquete Cearense
+184,3,04:12,43,45,MOG,2_Pts_T,Patekoski
+185,3,04:44,43,45,MOG,BR,Jeff Agba
+186,3,04:44,43,45,CEA,ER,Davi
+187,3,05:18,43,45,MOG,LL_Pts_C,Jason Smith
+188,3,05:18,43,44,MOG,LL_Pts_C,Jason Smith
+189,3,05:18,43,43,MOG,FR,Jason Smith
+190,3,05:18,43,43,CEA,FC,Felipe
+191,3,06:01,43,43,CEA,LL_Pts_C,Davi
+192,3,06:01,42,43,CEA,LL_Pts_T,Davi
+193,3,06:01,42,43,MOG,substituicao_entra,Patekoski
+194,3,06:01,42,43,MOG,substituicao_sai,Toledo
+195,3,06:05,42,43,CEA,FR,Davi
+196,3,06:05,42,43,MOG,FC,Jefferson Campos
+197,3,06:09,42,43,CEA,BR,Davi
+198,3,06:09,42,43,MOG,ER,Jefferson Campos
+199,3,06:14,42,43,CEA,LL_Pts_C,Brown
+200,3,06:14,41,43,CEA,LL_Pts_C,Brown
+201,3,06:14,40,43,MOG,substituicao_entra,Thomas Gehrke
+202,3,06:14,40,43,MOG,substituicao_sai,Daniel Alemão
+203,3,06:14,40,43,CEA,FR,Brown
+204,3,06:14,40,43,MOG,FC,Jeff Agba
+205,3,06:15,40,43,CEA,RD,Felipe
+206,3,06:15,40,43,MOG,2_Pts_T,Jeff Agba
+207,3,06:15,40,43,MOG,RO,Jeff Agba
+208,3,06:15,40,43,MOG,2_Pts_T,Toledo
+209,3,06:15,40,43,MOG,RO,Toledo
+210,3,06:15,40,43,MOG,3_Pts_T,Jefferson Campos
+211,3,06:15,40,43,MOG,RO,Jeff Agba
+212,3,06:15,40,43,MOG,2_Pts_T,Toledo
+213,3,06:15,40,43,CEA,substituicao_entra,Davi
+214,3,06:15,40,43,CEA,substituicao_sai,Jimmy
+215,3,06:15,40,43,CEA,FR,Brown
+216,3,06:15,40,43,MOG,FC,Daniel Alemão
+217,3,06:24,40,43,CEA,RD,Devon
+218,3,06:24,40,43,MOG,2_Pts_T,Toledo
+219,3,06:28,40,43,MOG,RO,Toledo
+220,3,06:28,40,43,MOG,3_Pts_T,Jason Smith
+221,3,06:43,40,43,MOG,RD,Jeff Agba
+222,3,06:43,40,43,CEA,3_Pts_T,Brown
+223,3,06:51,40,43,MOG,AS,Jefferson Campos
+224,3,06:57,40,43,MOG,3_Pts_C,Jason Smith
+225,3,07:05,40,40,MOG,FR,Toledo
+226,3,07:05,40,40,CEA,FC,Jimmy
+227,3,07:09,40,40,MOG,RD,Toledo
+228,3,07:09,40,40,CEA,3_Pts_T,Jimmy
+229,3,07:15,40,40,CEA,BR,Felipe
+230,3,07:15,40,40,MOG,ER,Daniel Alemão
+231,3,07:19,40,40,MOG,RD,Daniel Alemão
+232,3,07:19,40,40,CEA,2_Pts_T,Jimmy
+233,3,07:37,40,40,MOG,2_Pts_C,Jeff Agba
+234,3,07:37,40,38,MOG,AS,Daniel Alemão
+235,3,07:47,40,38,CEA,LL_Pts_C,Brown
+236,3,07:47,39,38,CEA,LL_Pts_C,Brown
+237,3,07:50,38,38,CEA,FR,Brown
+238,3,07:50,38,38,MOG,FC,Daniel Alemão
+239,3,08:05,38,38,CEA,RD,Devon
+240,3,08:05,38,38,MOG,2_Pts_T,Jeff Agba
+241,3,08:29,38,38,MOG,RD,Jeff Agba
+242,3,08:29,38,38,CEA,LL_Pts_T,Brown
+243,3,08:29,38,38,CEA,LL_Pts_C,Brown
+244,3,08:29,37,38,CEA,FR,Brown
+245,3,08:29,37,38,MOG,FC,Jeff Agba
+246,3,08:32,37,38,CEA,BR,André Góes
+247,3,08:32,37,38,MOG,ER,Jason Smith
+248,3,08:36,37,38,MOG,BR,Jason Smith
+249,3,08:36,37,38,CEA,ER,Devon
+250,3,08:41,37,38,CEA,RO,Devon
+251,3,08:41,37,38,CEA,3_Pts_T,Felipe
+252,3,09:00,37,38,MOG,2_Pts_C,Jeff Agba
+253,3,09:15,37,36,MOG,RD,Daniel Alemão
+254,3,09:15,37,36,CEA,2_Pts_T,Jimmy
+255,3,09:34,37,36,MOG,2_Pts_C,Jason Smith
+256,3,09:36,37,34,MOG,BR,Jason Smith
+257,3,09:36,37,34,CEA,ER,Felipe
+258,3,10:00,37,34,CEA,substituicao_entra,Felipe
+259,3,10:00,37,34,CEA,substituicao_entra,Devon
+260,3,10:00,37,34,CEA,substituicao_entra,Jimmy
+261,3,10:00,37,34,CEA,substituicao_entra,Brown
+262,3,10:00,37,34,CEA,substituicao_entra,André Góes
+263,3,10:00,37,34,MOG,substituicao_entra,Jeff Agba
+264,3,10:00,37,34,MOG,substituicao_entra,Daniel Alemão
+265,3,10:00,37,34,MOG,substituicao_entra,Toledo
+266,3,10:00,37,34,MOG,substituicao_entra,Jefferson Campos
+267,3,10:00,37,34,MOG,substituicao_entra,Jason Smith
+268,2,00:00,37,34, ,fim_quarto,
+269,2,00:00,37,34,MOG,2_Pts_T,Jason Smith
+270,2,00:18,37,34,CEA,3_Pts_C,Erick Camilo
+271,2,00:18,34,34,CEA,AS,André Góes
+272,2,00:35,34,34,CEA,tempo_tecnico,Basquete Cearense
+273,2,00:35,34,34,MOG,2_Pts_C,Daniel Alemão
+274,2,00:50,34,32,MOG,RD,Daniel Alemão
+275,2,00:50,34,32,CEA,2_Pts_T,Jimmy
+276,2,01:14,34,32,MOG,LL_Pts_C,Jeff Agba
+277,2,01:14,34,31,MOG,LL_Pts_C,Jeff Agba
+278,2,01:14,34,30,MOG,FR,Jeff Agba
+279,2,01:14,34,30,CEA,FC,Erick Camilo
+280,2,01:21,34,30,MOG,RD,Daniel Alemão
+281,2,01:21,34,30,CEA,2_Pts_T,André Góes
+282,2,01:40,34,30,MOG,2_Pts_C,Jefferson Campos
+283,2,01:47,34,28,MOG,substituicao_entra,Jason Smith
+284,2,01:47,34,28,MOG,substituicao_sai,Gustavinho
+285,2,02:19,34,28,MOG,RO,Gustavinho
+286,2,02:19,34,28,MOG,2_Pts_T,Gustavinho
+287,2,02:29,34,28,MOG,BR,Gustavinho
+288,2,02:29,34,28,CEA,ER,Erick Camilo
+289,2,02:38,34,28,CEA,RD,Devon
+290,2,02:38,34,28,MOG,LL_Pts_T,Jeff Agba
+291,2,02:38,34,28,MOG,LL_Pts_C,Jeff Agba
+292,2,02:38,34,27,CEA,substituicao_entra,Jimmy
+293,2,02:38,34,27,CEA,substituicao_sai,Felipe
+294,2,02:38,34,27,MOG,FR,Jeff Agba
+295,2,02:38,34,27,CEA,FC,Felipe
+296,2,02:46,34,27,MOG,RD,Daniel Alemão
+297,2,02:46,34,27,CEA,2_Pts_T,Erick Camilo
+298,2,02:51,34,27,CEA,BR,Felipe
+299,2,02:51,34,27,MOG,ER,Jeff Agba
+300,2,03:14,34,27,MOG,,
+301,2,03:14,34,27,CEA,ER,André Góes
+302,2,03:19,34,27,CEA,FR,Erick Camilo
+303,2,03:19,34,27,MOG,FC_O,Daniel Alemão
+304,2,03:35,34,27,MOG,BR,Daniel Alemão
+305,2,03:35,34,27,CEA,ER,Devon
+306,2,03:52,34,27,CEA,substituicao_entra,Devon
+307,2,03:52,34,27,CEA,substituicao_sai,Jimmy
+308,2,03:52,34,27,MOG,substituicao_entra,Jeff Agba
+309,2,03:52,34,27,MOG,substituicao_sai,Toledo
+310,2,03:52,34,27,MOG,LL_Pts_C,Toledo
+311,2,03:52,34,26,MOG,LL_Pts_C,Toledo
+312,2,03:52,34,25,MOG,substituicao_entra,B Simões
+313,2,03:52,34,25,MOG,substituicao_entra,Daniel Alemão
+314,2,03:52,34,25,MOG,substituicao_sai,Filipin
+315,2,03:52,34,25,MOG,substituicao_sai,Thomas Gehrke
+316,2,03:52,34,25,MOG,FR,Toledo
+317,2,03:52,34,25,CEA,FC,Jimmy
+318,2,03:58,34,25,MOG,BR,Toledo
+319,2,03:58,34,25,CEA,ER,Jimmy
+320,2,04:11,34,25,MOG,2_Pts_C,Gustavinho
+321,2,04:30,34,23,CEA,AS,André Góes
+322,2,04:38,34,23,CEA,2_Pts_C,Erick Camilo
+323,2,04:52,32,23,CEA,RD,Brown
+324,2,04:52,32,23,MOG,3_Pts_T,Filipin
+325,2,05:19,32,23,CEA,2_Pts_C,André Góes
+326,2,05:19,30,23,CEA,substituicao_entra,Felipe
+327,2,05:19,30,23,CEA,substituicao_sai,Devon
+328,2,05:19,30,23,CEA,FR,Brown
+329,2,05:19,30,23,MOG,FC,Gustavinho
+330,2,05:31,30,23,MOG,2_Pts_C,Thomas Gehrke
+331,2,05:31,30,21,MOG,AS,Toledo
+332,2,05:53,30,21,MOG,tempo_tecnico,Mogi das Cruzes
+333,2,05:53,30,21,CEA,2_Pts_C,Brown
+334,2,05:53,28,21,CEA,AS,André Góes
+335,2,05:53,28,21,CEA,BR,André Góes
+336,2,05:53,28,21,MOG,ER,Toledo
+337,2,06:14,28,21,CEA,2_Pts_C,Erick Camilo
+338,2,06:14,26,21,CEA,AS,Jimmy
+339,2,06:22,26,21,MOG,LL_Pts_C,Thomas Gehrke
+340,2,06:22,26,20,MOG,LL_Pts_C,Thomas Gehrke
+341,2,06:22,26,19,MOG,substituicao_entra,Thomas Gehrke
+342,2,06:22,26,19,MOG,substituicao_sai,Daniel Alemão
+343,2,06:22,26,19,MOG,FR,Daniel Alemão
+344,2,06:22,26,19,CEA,FC,Jimmy
+345,2,06:24,26,19,MOG,RO,Mogi das Cruzes
+346,2,06:24,26,19,CEA,TO,Devon
+347,2,06:24,26,19,MOG,2_Pts_T,Toledo
+348,2,06:47,26,19,CEA,2_Pts_C,Devon
+349,2,06:54,24,19,CEA,substituicao_entra,André Góes
+350,2,06:54,24,19,CEA,substituicao_sai,Nick
+351,2,07:10,24,19,CEA,FR,Brown
+352,2,07:10,24,19,MOG,FC,Toledo
+353,2,07:19,24,19,CEA,RD,Devon
+354,2,07:19,24,19,MOG,LL_Pts_T,Toledo
+355,2,07:19,24,19,MOG,LL_Pts_C,Toledo
+356,2,07:23,24,18,MOG,FR,Toledo
+357,2,07:23,24,18,CEA,FC,Brown
+358,2,07:32,24,18,MOG,RD,Mogi das Cruzes
+359,2,07:32,24,18,CEA,3_Pts_T,Brown
+360,2,07:41,24,18,MOG,substituicao_entra,Jefferson Campos
+361,2,07:41,24,18,MOG,substituicao_sai,Thomas Gehrke
+362,2,07:41,24,18,CEA,LL_Pts_C,Jimmy
+363,2,07:41,23,18,CEA,LL_Pts_T,Jimmy
+364,2,07:41,23,18,CEA,substituicao_entra,Brown
+365,2,07:41,23,18,CEA,substituicao_sai,Davi
+366,2,07:41,23,18,MOG,substituicao_entra,Gustavinho
+367,2,07:41,23,18,MOG,substituicao_sai,Jason Smith
+368,2,07:41,23,18,CEA,FR,Jimmy
+369,2,07:41,23,18,MOG,FC_A,Filipin
+370,2,07:43,23,18,CEA,RD,Jimmy
+371,2,07:43,23,18,MOG,2_Pts_T,Jason Smith
+372,2,08:02,23,18,CEA,3_Pts_C,Jimmy
+373,2,08:24,20,18,MOG,2_Pts_C,Filipin
+374,2,08:24,20,16,MOG,AS,Toledo
+375,2,09:02,20,16,CEA,2_Pts_C,Davi
+376,2,09:02,18,16,CEA,AS,Jimmy
+377,2,09:02,18,16,CEA,BR,Devon
+378,2,09:02,18,16,MOG,ER,Daniel Alemão
+379,2,09:05,18,16,MOG,RD,Mogi das Cruzes
+380,2,09:05,18,16,CEA,2_Pts_T,Nick
+381,2,09:21,18,16,MOG,ER,Toledo
+382,2,09:43,18,16,MOG,RD,Thomas Gehrke
+383,2,09:43,18,16,CEA,3_Pts_T,Davi
+384,2,10:00,18,16,MOG,substituicao_entra,Daniel Alemão
+385,2,10:00,18,16,MOG,substituicao_entra,Thomas Gehrke
+386,2,10:00,18,16,MOG,substituicao_entra,Toledo
+387,2,10:00,18,16,MOG,substituicao_entra,Filipin
+388,2,10:00,18,16,MOG,substituicao_entra,Jason Smith
+389,2,10:00,18,16,CEA,substituicao_entra,Devon
+390,2,10:00,18,16,CEA,substituicao_entra,Erick Camilo
+391,2,10:00,18,16,CEA,substituicao_entra,Nick
+392,2,10:00,18,16,CEA,substituicao_entra,Jimmy
+393,2,10:00,18,16,CEA,substituicao_entra,Davi
+394,1,00:00,18,16, ,fim_quarto,
+395,1,00:01,18,16,CEA,3_Pts_T,Jimmy
+396,1,00:03,18,16,MOG,LL_Pts_C,Jason Smith
+397,1,00:03,18,15,MOG,LL_Pts_T,Jason Smith
+398,1,00:03,18,15,MOG,FR,Jason Smith
+399,1,00:03,18,15,CEA,FC,Devon
+400,1,00:18,18,15,MOG,RD,Mogi das Cruzes
+401,1,00:18,18,15,CEA,3_Pts_T,Devon
+402,1,00:43,18,15,CEA,FR,Nick
+403,1,00:43,18,15,MOG,FC,Toledo
+404,1,00:43,18,15,MOG,3_Pts_T,Filipin
+405,1,00:56,18,15,CEA,substituicao_entra,Erick Camilo
+406,1,00:56,18,15,CEA,substituicao_sai,Felipe
+407,1,00:56,18,15,MOG,LL_Pts_C,Thomas Gehrke
+408,1,00:56,18,14,MOG,LL_Pts_C,Thomas Gehrke
+409,1,00:56,18,13,MOG,FR,Toledo
+410,1,00:56,18,13,CEA,FC_A,Davi
+411,1,00:57,18,13,MOG,RD,Toledo
+412,1,00:57,18,13,CEA,3_Pts_T,Jimmy
+413,1,01:10,18,13,CEA,RD,Felipe
+414,1,01:10,18,13,MOG,3_Pts_T,Toledo
+415,1,01:21,18,13,CEA,ER,Nick
+416,1,01:39,18,13,CEA,RD,Basquete Cearense
+417,1,01:39,18,13,MOG,2_Pts_T,Thomas Gehrke
+418,1,01:40,18,13,MOG,substituicao_entra,Daniel Alemão
+419,1,01:40,18,13,MOG,substituicao_sai,Jeff Agba
+420,1,01:40,18,13,CEA,substituicao_entra,Davi
+421,1,01:40,18,13,CEA,substituicao_sai,Brown
+422,1,01:40,18,13,MOG,RO,Mogi das Cruzes
+423,1,01:40,18,13,CEA,TO,Devon
+424,1,01:40,18,13,MOG,2_Pts_T,Thomas Gehrke
+425,1,01:55,18,13,MOG,RD,Jeff Agba
+426,1,01:55,18,13,CEA,2_Pts_T,Devon
+427,1,02:06,18,13,CEA,RD,Felipe
+428,1,02:06,18,13,MOG,2_Pts_T,Jeff Agba
+429,1,02:18,18,13,MOG,RD,Jason Smith
+430,1,02:18,18,13,CEA,3_Pts_T,Felipe
+431,1,02:30,18,13,MOG,substituicao_entra,Filipin
+432,1,02:30,18,13,MOG,substituicao_sai,Patekoski
+433,1,02:30,18,13,MOG,LL_Pts_C,Patekoski
+434,1,02:30,18,12,MOG,LL_Pts_T,Patekoski
+435,1,02:30,18,12,CEA,substituicao_entra,Nick
+436,1,02:30,18,12,CEA,substituicao_sai,André Góes
+437,1,02:30,18,12,MOG,substituicao_entra,Toledo
+438,1,02:30,18,12,MOG,substituicao_sai,B Simões
+439,1,02:30,18,12,MOG,FR,Patekoski
+440,1,02:30,18,12,CEA,FC,André Góes
+441,1,02:47,18,12,CEA,3_Pts_C,André Góes
+442,1,03:06,15,12,CEA,RD,André Góes
+443,1,03:06,15,12,CEA,TO,Brown
+444,1,03:06,15,12,MOG,3_Pts_T,Jason Smith
+445,1,03:23,15,12,CEA,2_Pts_C,Devon
+446,1,03:40,13,12,CEA,RD,Devon
+447,1,03:40,13,12,MOG,2_Pts_T,Thomas Gehrke
+448,1,03:59,13,12,MOG,RD,B Simões
+449,1,03:59,13,12,CEA,3_Pts_T,Felipe
+450,1,04:12,13,12,CEA,RD,Felipe
+451,1,04:12,13,12,MOG,2_Pts_T,Jason Smith
+452,1,04:20,13,12,CEA,EN,Devon
+453,1,04:20,11,12,CEA,AS,Jimmy
+454,1,04:49,11,12,MOG,2_Pts_C,Patekoski
+455,1,04:49,11,10,MOG,AS,B Simões
+456,1,05:10,11,10,CEA,EN,Jimmy
+457,1,05:10,9,10,CEA,AS,Devon
+458,1,05:19,9,10,MOG,ER,
+459,1,05:25,9,10,MOG,RO,Jeff Agba
+460,1,05:25,9,10,CEA,TO,Devon
+461,1,05:25,9,10,MOG,2_Pts_T,Jeff Agba
+462,1,05:52,9,10,CEA,2_Pts_C,Jimmy
+463,1,05:58,7,10,CEA,RD,Jimmy
+464,1,05:58,7,10,CEA,TO,Devon
+465,1,05:58,7,10,MOG,2_Pts_T,Jeff Agba
+466,1,06:17,7,10,CEA,2_Pts_C,André Góes
+467,1,06:17,5,10,CEA,AS,Brown
+468,1,06:22,5,10,CEA,RD,Felipe
+469,1,06:22,5,10,MOG,2_Pts_T,Jeff Agba
+470,1,06:48,5,10,MOG,RD,Jeff Agba
+471,1,06:48,5,10,MOG,TO,Thomas Gehrke
+472,1,06:48,5,10,CEA,3_Pts_T,Felipe
+473,1,07:09,5,10,MOG,2_Pts_C,Jeff Agba
+474,1,07:09,5,8,MOG,AS,B Simões
+475,1,07:31,5,8,MOG,RD,Thomas Gehrke
+476,1,07:31,5,8,CEA,2_Pts_T,Brown
+477,1,07:40,5,8,MOG,2_Pts_C,Jeff Agba
+478,1,07:40,5,6,MOG,AS,Jason Smith
+479,1,07:57,5,6,CEA,3_Pts_C,Jimmy
+480,1,08:44,2,6,MOG,2_Pts_C,Thomas Gehrke
+481,1,08:44,2,4,MOG,AS,Jason Smith
+482,1,08:44,2,4,MOG,RD,Jeff Agba
+483,1,08:44,2,4,CEA,2_Pts_T,Brown
+484,1,08:44,2,4,MOG,LL_Pts_T,Jeff Agba
+485,1,08:44,2,4,MOG,2_Pts_C,Jeff Agba
+486,1,08:44,2,2,MOG,FR,Jeff Agba
+487,1,08:44,2,2,CEA,FC,André Góes
+488,1,08:44,2,2,MOG,RO,Jeff Agba
+489,1,08:48,2,2,MOG,RO,Patekoski
+490,1,08:48,2,2,MOG,3_Pts_T,Thomas Gehrke
+491,1,09:13,2,2,CEA,2_Pts_C,Brown
+492,1,09:24,0,2,CEA,FR,André Góes
+493,1,09:24,0,2,MOG,FC,Thomas Gehrke
+494,1,09:25,0,2,MOG,3_Pts_T,B Simões
+495,1,09:41,0,2,MOG,RD,Jeff Agba
+496,1,09:41,0,2,CEA,2_Pts_T,Felipe
+497,1,09:56,0,2,MOG,2_Pts_C,B Simões
+498,1,10:00,0,0,MOG,substituicao_entra,Jeff Agba
+499,1,10:00,0,0,MOG,substituicao_entra,B Simões
+500,1,10:00,0,0,MOG,substituicao_entra,Patekoski
+501,1,10:00,0,0,MOG,substituicao_entra,Thomas Gehrke
+502,1,10:00,0,0,MOG,substituicao_entra,Jason Smith
+503,1,10:00,0,0,CEA,substituicao_entra,Felipe
+504,1,10:00,0,0,CEA,substituicao_entra,Devon
+505,1,10:00,0,0,CEA,substituicao_entra,Jimmy
+506,1,10:00,0,0,CEA,substituicao_entra,Brown
+507,1,10:00,0,0,CEA,substituicao_entra,André Góes

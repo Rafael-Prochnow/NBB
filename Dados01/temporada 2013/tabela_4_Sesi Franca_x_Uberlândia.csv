@@ -1,0 +1,463 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,92,75, ,fim_partida,
+1,4,00:00,92,75,UBE,2_Pts_T,Icaro
+2,4,00:06,92,75,FRA,LL_Pts_C,Cauê Borges
+3,4,00:06,91,75,FRA,LL_Pts_T,Cauê Borges
+4,4,00:06,91,75,UBE,substituicao_entra,Icaro
+5,4,00:06,91,75,UBE,substituicao_sai,Helinho
+6,4,00:06,91,75,FRA,FR,Cauê Borges
+7,4,00:06,91,75,UBE,FC,Helinho
+8,4,00:13,91,75,UBE,2_Pts_C,Cipolini
+9,4,00:13,91,73,UBE,AS,Valtinho
+10,4,00:26,91,73,FRA,3_Pts_C,Cauê Borges
+11,4,00:26,88,73,FRA,AS,Basden
+12,4,00:43,88,73,UBE,2_Pts_C,Helinho
+13,4,00:56,88,71,UBE,RD,Salsicha
+14,4,00:56,88,71,FRA,LL_Pts_T,Paulão Prestes
+15,4,00:56,88,71,FRA,LL_Pts_T,Paulão Prestes
+16,4,00:56,88,71,FRA,FR,Paulão Prestes
+17,4,00:56,88,71,UBE,FC,Salsicha
+18,4,01:08,88,71,FRA,BR,Lucas Mariano
+19,4,01:08,88,71,UBE,ER,Valtinho
+20,4,01:30,88,71,FRA,3_Pts_C,Cauê Borges
+21,4,01:30,85,71,FRA,AS,Socas
+22,4,01:42,85,71,FRA,FR,Cauê Borges
+23,4,01:42,85,71,UBE,FC,Helinho
+24,4,01:59,85,71,UBE,2_Pts_C,Helinho
+25,4,01:59,85,69,UBE,AS,Valtinho
+26,4,02:22,85,69,UBE,RD,Helinho
+27,4,02:22,85,69,FRA,3_Pts_T,Basden
+28,4,02:35,85,69,UBE,tempo_tecnico,Uberlândia
+29,4,02:35,85,69,FRA,FR,Basden
+30,4,02:35,85,69,UBE,FC,Salsicha
+31,4,02:52,85,69,UBE,EN,Cipolini
+32,4,02:52,85,67,UBE,AS,Valtinho
+33,4,02:58,85,67,UBE,RD,Salsicha
+34,4,02:58,85,67,FRA,2_Pts_T,Cauê Borges
+35,4,03:05,85,67,FRA,RD,Cauê Borges
+36,4,03:05,85,67,UBE,2_Pts_T,Helinho
+37,4,03:17,85,67,UBE,RD,Valtinho
+38,4,03:17,85,67,FRA,3_Pts_T,Basden
+39,4,03:45,85,67,FRA,RD,Paulão Prestes
+40,4,03:45,85,67,UBE,3_Pts_T,Valtinho
+41,4,04:00,85,67,FRA,2_Pts_C,Paulão Prestes
+42,4,04:00,83,67,FRA,AS,Socas
+43,4,04:14,83,67,UBE,ER,Audrei
+44,4,04:38,83,67,FRA,2_Pts_C,Socas
+45,4,05:04,81,67,FRA,RD,Lucas Mariano
+46,4,05:04,81,67,UBE,2_Pts_T,Cipolini
+47,4,05:13,81,67,FRA,substituicao_entra,Socas
+48,4,05:13,81,67,FRA,substituicao_sai,Figueroa
+49,4,05:13,81,67,UBE,FR,Valtinho
+50,4,05:13,81,67,FRA,FC,Figueroa
+51,4,05:24,81,67,FRA,2_Pts_C,Paulão Prestes
+52,4,05:24,79,67,FRA,AS,Figueroa
+53,4,05:30,79,67,FRA,RO,Figueroa
+54,4,05:30,79,67,FRA,3_Pts_T,Cauê Borges
+55,4,05:42,79,67,UBE,substituicao_entra,Salsicha
+56,4,05:42,79,67,UBE,substituicao_sai,Robert Day
+57,4,05:42,79,67,FRA,FR,Lucas Mariano
+58,4,05:42,79,67,UBE,FC,Robert Day
+59,4,05:50,79,67,FRA,substituicao_entra,Figueroa
+60,4,05:50,79,67,FRA,substituicao_sai,Socas
+61,4,06:04,79,67,UBE,3_Pts_C,Valtinho
+62,4,06:04,79,64,UBE,AS,Helinho
+63,4,06:07,79,64,FRA,2_Pts_C,Paulão Prestes
+64,4,06:13,77,64,FRA,RO,Paulão Prestes
+65,4,06:13,77,64,FRA,2_Pts_T,Socas
+66,4,06:35,77,64,FRA,RD,Basden
+67,4,06:35,77,64,UBE,2_Pts_T,Audrei
+68,4,06:51,77,64,UBE,LL_Pts_C,Robert Day
+69,4,06:51,77,63,UBE,LL_Pts_C,Robert Day
+70,4,06:51,77,62,FRA,FC_T,Banco do Franca
+71,4,06:51,77,62,UBE,FR,Cipolini
+72,4,06:51,77,62,FRA,FC_O,Paulão Prestes
+73,4,06:58,77,62,FRA,RO,Basden
+74,4,06:58,77,62,FRA,2_Pts_T,Cauê Borges
+75,4,07:14,77,62,FRA,RD,Basden
+76,4,07:14,77,62,UBE,2_Pts_T,Robert Day
+77,4,07:22,77,62,UBE,RD,Audrei
+78,4,07:22,77,62,FRA,3_Pts_T,Basden
+79,4,07:40,77,62,UBE,substituicao_entra,Audrei
+80,4,07:40,77,62,UBE,substituicao_sai,Kurtz
+81,4,07:40,77,62,UBE,ER,Valtinho
+82,4,07:55,77,62,FRA,EN,Paulão Prestes
+83,4,07:55,75,62,FRA,AS,Cauê Borges
+84,4,08:10,75,62,FRA,RD,Franca
+85,4,08:10,75,62,UBE,3_Pts_T,Robert Day
+86,4,08:30,75,62,FRA,2_Pts_C,Paulão Prestes
+87,4,08:30,73,62,FRA,AS,Basden
+88,4,08:49,73,62,UBE,EN,Kurtz
+89,4,08:49,73,60,UBE,AS,Valtinho
+90,4,09:10,73,60,FRA,LL_Pts_C,Basden
+91,4,09:10,72,60,FRA,LL_Pts_C,Basden
+92,4,09:10,71,60,UBE,substituicao_entra,Helinho
+93,4,09:10,71,60,UBE,substituicao_sai,Audrei
+94,4,09:11,71,60,FRA,FR,Basden
+95,4,09:11,71,60,UBE,FC,Robert Day
+96,4,09:11,71,60,FRA,RO,Basden
+97,4,09:11,71,60,FRA,3_Pts_T,Cauê Borges
+98,4,09:26,71,60,UBE,2_Pts_C,Cipolini
+99,4,09:33,71,58,UBE,RO,Cipolini
+100,4,09:33,71,58,FRA,TO,Lucas Mariano
+101,4,09:33,71,58,UBE,2_Pts_T,Cipolini
+102,4,09:39,71,58,UBE,RD,Valtinho
+103,4,09:39,71,58,FRA,2_Pts_T,Socas
+104,3,00:00,71,58, ,fim_quarto,
+105,3,00:00,71,58,UBE,RD,Robert Day
+106,3,00:00,71,58,UBE,TO,Robert Day
+107,3,00:00,71,58,FRA,3_Pts_T,Basden
+108,3,00:02,71,58,FRA,RD,Basden
+109,3,00:02,71,58,UBE,3_Pts_T,Valtinho
+110,3,00:28,71,58,FRA,2_Pts_C,Lucas Mariano
+111,3,00:41,69,58,UBE,AS,Valtinho
+112,3,00:47,69,58,UBE,EN,Cipolini
+113,3,00:52,69,56,UBE,RD,Kurtz
+114,3,00:52,69,56,FRA,2_Pts_T,Socas
+115,3,01:16,69,56,FRA,RD,Lucas Mariano
+116,3,01:16,69,56,UBE,2_Pts_T,Audrei
+117,3,01:21,69,56,UBE,BR,Robert Day
+118,3,01:21,69,56,FRA,ER,Basden
+119,3,01:40,69,56,FRA,RD,Socas
+120,3,01:40,69,56,UBE,2_Pts_T,Cipolini
+121,3,01:57,69,56,UBE,RD,Cipolini
+122,3,01:57,69,56,FRA,2_Pts_T,Paulão Prestes
+123,3,02:01,69,56,FRA,RO,Paulão Prestes
+124,3,02:01,69,56,FRA,2_Pts_T,Cauê Borges
+125,3,02:31,69,56,UBE,2_Pts_C,Robert Day
+126,3,02:35,69,54,UBE,BR,Robert Day
+127,3,02:35,69,54,FRA,ER,Socas
+128,3,02:57,69,54,UBE,2_Pts_C,Cipolini
+129,3,02:57,69,52,UBE,AS,Robert Day
+130,3,03:08,69,52,FRA,LL_Pts_C,Lucas Mariano
+131,3,03:08,68,52,FRA,LL_Pts_T,Lucas Mariano
+132,3,03:08,68,52,UBE,substituicao_entra,Cipolini
+133,3,03:08,68,52,UBE,substituicao_sai,Zanini
+134,3,03:09,68,52,UBE,tempo_tecnico,Uberlândia
+135,3,03:09,68,52,FRA,FR,Lucas Mariano
+136,3,03:09,68,52,UBE,FC,Kurtz
+137,3,03:15,68,52,FRA,RD,Lucas Mariano
+138,3,03:15,68,52,UBE,2_Pts_T,Audrei
+139,3,03:24,68,52,FRA,EN,Basden
+140,3,03:34,66,52,FRA,BR,Basden
+141,3,03:34,66,52,UBE,ER,Audrei
+142,3,03:51,66,52,FRA,2_Pts_C,Socas
+143,3,03:53,64,52,FRA,RO,Socas
+144,3,03:53,64,52,FRA,LL_Pts_T,Socas
+145,3,03:53,64,52,FRA,LL_Pts_T,Socas
+146,3,03:53,64,52,FRA,FR,Socas
+147,3,03:53,64,52,UBE,FC,Zanini
+148,3,04:06,64,52,UBE,ER,
+149,3,04:17,64,52,FRA,substituicao_entra,Paulão Prestes
+150,3,04:17,64,52,FRA,substituicao_sai,Hayes
+151,3,04:17,64,52,UBE,RO,Uberlândia
+152,3,04:17,64,52,FRA,TO,Basden
+153,3,04:17,64,52,UBE,2_Pts_T,Audrei
+154,3,04:37,64,52,FRA,2_Pts_C,Lucas Mariano
+155,3,04:37,62,52,FRA,AS,Socas
+156,3,04:42,62,52,FRA,BR,Socas
+157,3,04:42,62,52,UBE,ER,Valtinho
+158,3,04:59,62,52,UBE,RD,Kurtz
+159,3,04:59,62,52,FRA,3_Pts_T,Cauê Borges
+160,3,05:12,62,52,UBE,2_Pts_C,Kurtz
+161,3,05:18,62,50,UBE,RO,Kurtz
+162,3,05:18,62,50,UBE,2_Pts_T,Valtinho
+163,3,05:33,62,50,UBE,RD,Uberlândia
+164,3,05:33,62,50,FRA,2_Pts_T,Cauê Borges
+165,3,05:38,62,50,FRA,BR,Cauê Borges
+166,3,05:38,62,50,UBE,ER,Audrei
+167,3,05:53,62,50,UBE,RD,Zanini
+168,3,05:53,62,50,FRA,2_Pts_T,Hayes
+169,3,06:02,62,50,FRA,FR,Hayes
+170,3,06:02,62,50,UBE,FC,Audrei
+171,3,06:18,62,50,UBE,LL_Pts_C,Robert Day
+172,3,06:18,62,49,UBE,LL_Pts_C,Robert Day
+173,3,06:18,62,48,UBE,LL_Pts_C,Robert Day
+174,3,06:18,62,47,UBE,FR,Robert Day
+175,3,06:18,62,47,FRA,FC,Lucas Mariano
+176,3,06:29,62,47,FRA,substituicao_entra,Socas
+177,3,06:29,62,47,FRA,substituicao_sai,Figueroa
+178,3,06:29,62,47,UBE,FR,Valtinho
+179,3,06:29,62,47,FRA,FC,Figueroa
+180,3,06:41,62,47,FRA,LL_Pts_C,Figueroa
+181,3,06:41,61,47,FRA,LL_Pts_T,Hayes
+182,3,06:41,61,47,UBE,substituicao_entra,Kurtz
+183,3,06:41,61,47,UBE,substituicao_sai,Cipolini
+184,3,06:41,61,47,FRA,FR,Hayes
+185,3,06:41,61,47,UBE,FC,Zanini
+186,3,06:54,61,47,FRA,RD,Lucas Mariano
+187,3,06:54,61,47,FRA,TO,Lucas Mariano
+188,3,06:54,61,47,UBE,2_Pts_T,Cipolini
+189,3,07:04,61,47,FRA,2_Pts_C,Lucas Mariano
+190,3,07:04,59,47,FRA,AS,Figueroa
+191,3,07:34,59,47,FRA,RD,Cauê Borges
+192,3,07:34,59,47,UBE,3_Pts_T,Audrei
+193,3,07:43,59,47,FRA,2_Pts_C,Lucas Mariano
+194,3,07:43,57,47,FRA,AS,Figueroa
+195,3,07:52,57,47,UBE,2_Pts_C,Audrei
+196,3,07:53,57,45,UBE,substituicao_entra,Zanini
+197,3,07:55,57,45,UBE,substituicao_sai,Icaro
+198,3,08:09,57,45,FRA,LL_Pts_T,Figueroa
+199,3,08:09,57,45,FRA,LL_Pts_C,Figueroa
+200,3,08:09,56,45,FRA,FR,Figueroa
+201,3,08:09,56,45,UBE,FC,Cipolini
+202,3,08:09,56,45,FRA,,
+203,3,08:09,56,45,FRA,BR,Basden
+204,3,08:09,56,45,UBE,ER,Icaro
+205,3,08:14,56,45,FRA,BR,Lucas Mariano
+206,3,08:14,56,45,UBE,ER,Icaro
+207,3,08:29,56,45,FRA,2_Pts_C,Lucas Mariano
+208,3,08:29,54,45,FRA,AS,Figueroa
+209,3,08:45,54,45,UBE,LL_Pts_C,Audrei
+210,3,08:45,54,44,UBE,LL_Pts_C,Audrei
+211,3,08:45,54,43,UBE,FR,Audrei
+212,3,08:45,54,43,FRA,FC,Figueroa
+213,3,08:52,54,43,UBE,RD,Valtinho
+214,3,08:52,54,43,FRA,2_Pts_T,Figueroa
+215,3,09:02,54,43,FRA,RO,Lucas Mariano
+216,3,09:02,54,43,FRA,2_Pts_T,Hayes
+217,3,09:15,54,43,FRA,RO,Lucas Mariano
+218,3,09:15,54,43,FRA,LL_Pts_T,Hayes
+219,3,09:15,54,43,FRA,LL_Pts_C,Hayes
+220,3,09:15,53,43,FRA,FR,Hayes
+221,3,09:15,53,43,UBE,FC,Robert Day
+222,3,09:15,53,43,UBE,2_Pts_C,Robert Day
+223,3,09:15,53,41,UBE,RO,Robert Day
+224,3,09:15,53,41,UBE,3_Pts_T,Icaro
+225,3,09:38,53,41,UBE,RO,Icaro
+226,3,09:38,53,41,FRA,TO,Lucas Mariano
+227,3,09:38,53,41,UBE,2_Pts_T,Cipolini
+228,2,00:00,53,41, ,fim_quarto,
+229,2,00:01,53,41,FRA,BR,Feliz
+230,2,00:01,53,41,UBE,ER,Robert Day
+231,2,00:01,53,41,UBE,substituicao_entra,Robert Day
+232,2,00:01,53,41,UBE,substituicao_sai,Helinho
+233,2,00:05,53,41,FRA,2_Pts_C,Lucas Mariano
+234,2,00:05,51,41,FRA,RO,Lucas Mariano
+235,2,00:05,51,41,FRA,3_Pts_T,Basden
+236,2,00:32,51,41,UBE,2_Pts_C,Cipolini
+237,2,00:32,51,39,UBE,AS,Icaro
+238,2,00:33,51,39,UBE,substituicao_entra,Cipolini
+239,2,00:35,51,39,UBE,substituicao_sai,Kurtz
+240,2,00:42,51,39,FRA,LL_Pts_C,Basden
+241,2,00:42,50,39,FRA,LL_Pts_T,Basden
+242,2,00:42,50,39,FRA,FR,Basden
+243,2,00:42,50,39,UBE,FC,Helinho
+244,2,00:42,50,39,FRA,RD,Socas
+245,2,00:42,50,39,UBE,3_Pts_T,Helinho
+246,2,01:08,50,39,FRA,substituicao_entra,Feliz
+247,2,01:08,50,39,FRA,substituicao_sai,Paulão Prestes
+248,2,01:08,50,39,FRA,LL_Pts_C,Basden
+249,2,01:08,49,39,FRA,AS,Paulão Prestes
+250,2,01:08,49,39,FRA,LL_Pts_C,Socas
+251,2,01:08,48,39,FRA,substituicao_entra,Paulão Prestes
+252,2,01:08,48,39,FRA,substituicao_sai,Feliz
+253,2,01:08,48,39,FRA,LL_Pts_C,Socas
+254,2,01:08,47,39,FRA,substituicao_entra,Feliz
+255,2,01:08,47,39,FRA,substituicao_sai,Paulão Prestes
+256,2,01:08,47,39,FRA,FR,Socas
+257,2,01:08,47,39,UBE,FC,Kurtz
+258,2,01:08,47,39,FRA,RO,Lucas Mariano
+259,2,01:08,47,39,FRA,2_Pts_T,Paulão Prestes
+260,2,01:26,47,39,FRA,RD,Socas
+261,2,01:26,47,39,UBE,2_Pts_T,Audrei
+262,2,01:41,47,39,UBE,RD,Valtinho
+263,2,01:41,47,39,FRA,2_Pts_T,Lucas Mariano
+264,2,02:01,47,39,UBE,2_Pts_C,Audrei
+265,2,02:19,47,37,UBE,RD,Kurtz
+266,2,02:19,47,37,FRA,3_Pts_T,Lucas Mariano
+267,2,02:32,47,37,UBE,2_Pts_C,Audrei
+268,2,02:50,47,35,FRA,2_Pts_C,Paulão Prestes
+269,2,02:50,45,35,FRA,AS,Figueroa
+270,2,02:58,45,35,FRA,RD,Lucas Mariano
+271,2,02:58,45,35,UBE,3_Pts_T,Helinho
+272,2,03:18,45,35,UBE,RO,Icaro
+273,2,03:18,45,35,UBE,2_Pts_T,Valtinho
+274,2,03:47,45,35,UBE,tempo_tecnico,Uberlândia
+275,2,03:47,45,35,FRA,2_Pts_C,Lucas Mariano
+276,2,03:47,43,35,FRA,AS,Socas
+277,2,03:57,43,35,FRA,RD,Basden
+278,2,03:57,43,35,UBE,2_Pts_T,Audrei
+279,2,04:16,43,35,FRA,2_Pts_C,Paulão Prestes
+280,2,04:16,41,35,FRA,AS,Figueroa
+281,2,04:26,41,35,FRA,substituicao_entra,Figueroa
+282,2,04:26,41,35,FRA,substituicao_sai,Antonio
+283,2,04:26,41,35,FRA,FR,Antonio
+284,2,04:26,41,35,UBE,FC,Icaro
+285,2,04:45,41,35,UBE,3_Pts_C,Helinho
+286,2,04:45,41,32,UBE,AS,Valtinho
+287,2,05:03,41,32,FRA,LL_Pts_C,Basden
+288,2,05:03,40,32,FRA,LL_Pts_T,Basden
+289,2,05:03,40,32,FRA,FR,Basden
+290,2,05:03,40,32,UBE,FC,Helinho
+291,2,05:23,40,32,UBE,2_Pts_C,Helinho
+292,2,05:43,40,30,FRA,2_Pts_C,Paulão Prestes
+293,2,05:44,38,30,UBE,substituicao_entra,Kurtz
+294,2,05:44,38,30,UBE,substituicao_sai,Cipolini
+295,2,05:44,38,30,FRA,substituicao_entra,Lucas Mariano
+296,2,05:44,38,30,FRA,substituicao_sai,Hayes
+297,2,05:49,38,30,FRA,RO,Paulão Prestes
+298,2,05:49,38,30,FRA,2_Pts_T,Socas
+299,2,06:15,38,30,UBE,3_Pts_C,Helinho
+300,2,06:24,38,27,UBE,BR,Cipolini
+301,2,06:24,38,27,FRA,ER,Antonio
+302,2,06:39,38,27,FRA,RD,Basden
+303,2,06:39,38,27,UBE,2_Pts_T,Cipolini
+304,2,06:53,38,27,FRA,3_Pts_C,Socas
+305,2,06:53,35,27,FRA,AS,Paulão Prestes
+306,2,07:09,35,27,UBE,2_Pts_C,Valtinho
+307,2,07:09,35,25,UBE,AS,Helinho
+308,2,07:20,35,25,UBE,RO,Helinho
+309,2,07:20,35,25,UBE,3_Pts_T,Icaro
+310,2,07:28,35,25,FRA,2_Pts_C,Paulão Prestes
+311,2,07:34,33,25,UBE,FR,Valtinho
+312,2,07:34,33,25,FRA,FC,Basden
+313,2,07:39,33,25,FRA,RO,Paulão Prestes
+314,2,07:39,33,25,FRA,3_Pts_T,Basden
+315,2,07:45,33,25,FRA,RO,Franca
+316,2,07:45,33,25,UBE,TO,Cipolini
+317,2,07:45,33,25,FRA,2_Pts_T,Paulão Prestes
+318,2,07:55,33,25,FRA,FR,Hayes
+319,2,07:55,33,25,UBE,FC,Cipolini
+320,2,08:12,33,25,UBE,2_Pts_C,Icaro
+321,2,08:27,33,23,UBE,RD,Icaro
+322,2,08:27,33,23,FRA,2_Pts_T,Hayes
+323,2,08:53,33,23,UBE,2_Pts_C,Valtinho
+324,2,08:53,33,21,UBE,AS,Icaro
+325,2,08:57,33,21,UBE,BR,Audrei
+326,2,08:57,33,21,FRA,ER,Hayes
+327,2,09:07,33,21,FRA,RD,Basden
+328,2,09:07,33,21,UBE,2_Pts_T,Cipolini
+329,2,09:28,33,21,FRA,2_Pts_C,Paulão Prestes
+330,2,09:38,31,21,FRA,RD,Socas
+331,2,09:38,31,21,UBE,3_Pts_T,Valtinho
+332,2,09:49,31,21,FRA,2_Pts_C,Hayes
+333,2,09:49,29,21,FRA,AS,Paulão Prestes
+334,1,00:00,29,21, ,fim_quarto,
+335,1,00:01,29,21,FRA,2_Pts_C,Paulão Prestes
+336,1,00:14,27,21,FRA,RD,Basden
+337,1,00:14,27,21,UBE,2_Pts_T,Cipolini
+338,1,00:22,27,21,UBE,RO,Uberlândia
+339,1,00:22,27,21,FRA,TO,Antonio
+340,1,00:22,27,21,UBE,2_Pts_T,Cipolini
+341,1,00:41,27,21,FRA,LL_Pts_C,Basden
+342,1,00:41,26,21,FRA,FR,Basden
+343,1,00:41,26,21,UBE,FC,Robert Day
+344,1,00:41,26,21,FRA,2_Pts_C,Basden
+345,1,00:41,24,21,UBE,2_Pts_C,Cipolini
+346,1,00:41,24,19,UBE,AS,Valtinho
+347,1,00:44,24,19,FRA,RO,Paulão Prestes
+348,1,00:44,24,19,FRA,2_Pts_C,Paulão Prestes
+349,1,01:00,22,19,UBE,TO,Cipolini
+350,1,01:00,22,19,FRA,2_Pts_T,Paulão Prestes
+351,1,01:12,22,19,FRA,,
+352,1,01:12,22,19,UBE,ER,Cipolini
+353,1,01:25,22,19,UBE,substituicao_entra,Cipolini
+354,1,01:25,22,19,UBE,substituicao_sai,Kurtz
+355,1,01:25,22,19,FRA,LL_Pts_C,Paulão Prestes
+356,1,01:25,21,19,FRA,LL_Pts_C,Paulão Prestes
+357,1,01:25,20,19,FRA,substituicao_entra,Socas
+358,1,01:25,20,19,FRA,substituicao_sai,Figueroa
+359,1,01:25,20,19,FRA,FR,Paulão Prestes
+360,1,01:25,20,19,UBE,FC,Kurtz
+361,1,01:31,20,19,UBE,LL_Pts_C,Valtinho
+362,1,01:31,20,18,UBE,LL_Pts_C,Valtinho
+363,1,01:31,20,17,UBE,FR,Valtinho
+364,1,01:31,20,17,FRA,FC,Figueroa
+365,1,01:37,20,17,FRA,LL_Pts_C,Basden
+366,1,01:38,19,17,FRA,2_Pts_C,Basden
+367,1,01:38,17,17,FRA,FR,Basden
+368,1,01:38,17,17,UBE,FC,Icaro
+369,1,01:55,17,17,UBE,2_Pts_C,Icaro
+370,1,02:08,17,15,FRA,LL_Pts_C,Basden
+371,1,02:08,16,15,FRA,LL_Pts_C,Basden
+372,1,02:09,15,15,FRA,FR,Basden
+373,1,02:09,15,15,UBE,FC,Kurtz
+374,1,02:20,15,15,FRA,RD,Paulão Prestes
+375,1,02:20,15,15,UBE,3_Pts_T,Helinho
+376,1,02:48,15,15,FRA,2_Pts_C,Figueroa
+377,1,03:06,13,15,UBE,3_Pts_C,Valtinho
+378,1,03:19,13,12,UBE,RD,Kurtz
+379,1,03:19,13,12,FRA,2_Pts_T,Basden
+380,1,03:34,13,12,UBE,LL_Pts_C,Robert Day
+381,1,03:34,13,11,UBE,LL_Pts_C,Robert Day
+382,1,03:34,13,10,UBE,LL_Pts_C,Robert Day
+383,1,03:34,13,9,UBE,substituicao_entra,Icaro
+384,1,03:34,13,9,UBE,substituicao_sai,Audrei
+385,1,03:34,13,9,UBE,FR,Robert Day
+386,1,03:34,13,9,FRA,FC,Antonio
+387,1,03:56,13,9,FRA,3_Pts_C,Antonio
+388,1,03:56,10,9,FRA,AS,Paulão Prestes
+389,1,04:14,10,9,UBE,2_Pts_C,Kurtz
+390,1,04:27,10,7,FRA,substituicao_entra,Antonio
+391,1,04:27,10,7,FRA,substituicao_sai,Jhonatan
+392,1,04:36,10,7,UBE,RD,Uberlândia
+393,1,04:36,10,7,FRA,3_Pts_T,Figueroa
+394,1,04:52,10,7,UBE,LL_Pts_C,Kurtz
+395,1,04:52,10,6,UBE,LL_Pts_C,Kurtz
+396,1,04:52,10,5,UBE,FR,Kurtz
+397,1,04:52,10,5,FRA,FC,Figueroa
+398,1,05:19,10,5,FRA,3_Pts_C,Hayes
+399,1,05:19,7,5,FRA,AS,Paulão Prestes
+400,1,05:26,7,5,FRA,substituicao_entra,Paulão Prestes
+401,1,05:26,7,5,FRA,substituicao_sai,Lucas Mariano
+402,1,05:26,7,5,FRA,FR,Jhonatan
+403,1,05:26,7,5,UBE,FC,Audrei
+404,1,05:32,7,5,FRA,BR,Jhonatan
+405,1,05:32,7,5,UBE,ER,Audrei
+406,1,05:37,7,5,UBE,BR,Audrei
+407,1,05:37,7,5,FRA,ER,Lucas Mariano
+408,1,05:51,7,5,UBE,,
+409,1,06:03,7,5,FRA,3_Pts_C,Figueroa
+410,1,06:13,4,5,UBE,3_Pts_C,Robert Day
+411,1,06:13,4,2,UBE,AS,Helinho
+412,1,06:28,4,2,UBE,FR,Valtinho
+413,1,06:28,4,2,FRA,FC,Cauê Borges
+414,1,06:29,4,2,FRA,substituicao_entra,Basden
+415,1,06:29,4,2,FRA,substituicao_sai,Cauê Borges
+416,1,06:34,4,2,UBE,RD,Audrei
+417,1,06:34,4,2,FRA,2_Pts_T,Lucas Mariano
+418,1,06:55,4,2,FRA,RD,Jhonatan
+419,1,06:55,4,2,UBE,LL_Pts_T,Valtinho
+420,1,06:55,4,2,UBE,LL_Pts_T,Valtinho
+421,1,06:55,4,2,UBE,FR,Valtinho
+422,1,06:55,4,2,FRA,FC,Cauê Borges
+423,1,07:13,4,2,FRA,LL_Pts_C,Hayes
+424,1,07:13,3,2,FRA,LL_Pts_C,Hayes
+425,1,07:13,2,2,FRA,FR,Hayes
+426,1,07:13,2,2,UBE,FC,Helinho
+427,1,07:18,2,2,UBE,substituicao_entra,Kurtz
+428,1,07:18,2,2,UBE,substituicao_sai,Cipolini
+429,1,07:18,2,2,FRA,TO,Lucas Mariano
+430,1,07:24,2,2,FRA,RD,Lucas Mariano
+431,1,07:24,2,2,UBE,2_Pts_T,Cipolini
+432,1,07:37,2,2,UBE,BR,Cipolini
+433,1,07:37,2,2,FRA,ER,Lucas Mariano
+434,1,07:46,2,2,FRA,RO,Cauê Borges
+435,1,07:46,2,2,FRA,2_Pts_T,Lucas Mariano
+436,1,07:59,2,2,FRA,LL_Pts_C,Jhonatan
+437,1,07:59,1,2,FRA,AS,Figueroa
+438,1,07:59,1,2,FRA,LL_Pts_C,Jhonatan
+439,1,07:59,0,2,FRA,FR,Jhonatan
+440,1,07:59,0,2,UBE,FC_A,Robert Day
+441,1,08:10,0,2,FRA,RD,Cauê Borges
+442,1,08:10,0,2,UBE,2_Pts_T,Audrei
+443,1,08:19,0,2,UBE,FR,Robert Day
+444,1,08:19,0,2,FRA,FC,Cauê Borges
+445,1,08:37,0,2,UBE,,
+446,1,08:37,0,2,FRA,ER,Hayes
+447,1,09:02,0,2,UBE,2_Pts_C,Audrei
+448,1,09:24,0,0,UBE,BR,Audrei
+449,1,09:24,0,0,FRA,ER,Hayes
+450,1,09:42,0,0,FRA,RD,Hayes
+451,1,09:42,0,0,UBE,2_Pts_T,Cipolini
+452,1,10:00,0,0,UBE,substituicao_entra,Robert Day
+453,1,10:00,0,0,UBE,substituicao_entra,Audrei
+454,1,10:00,0,0,UBE,substituicao_entra,Cipolini
+455,1,10:00,0,0,UBE,substituicao_entra,Helinho
+456,1,10:00,0,0,UBE,substituicao_entra,Valtinho
+457,1,10:00,0,0,FRA,substituicao_entra,Hayes
+458,1,10:00,0,0,FRA,substituicao_entra,Lucas Mariano
+459,1,10:00,0,0,FRA,substituicao_entra,Figueroa
+460,1,10:00,0,0,FRA,substituicao_entra,Jhonatan
+461,1,10:00,0,0,FRA,substituicao_entra,Cauê Borges

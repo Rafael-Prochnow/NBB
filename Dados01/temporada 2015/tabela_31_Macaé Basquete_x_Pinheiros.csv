@@ -1,0 +1,593 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,101,97, ,fim_partida,
+1,4,00:00,101,97,PIN,substituicao_entra,Morro
+2,4,00:00,101,97,PIN,substituicao_sai,Lucas Dias
+3,4,00:01,101,97,MAC,FR,Pedrinho Rava
+4,4,00:01,101,97,PIN,FC,Morro
+5,4,00:02,101,97,MAC,LL_Pts_C,Márcio
+6,4,00:02,100,97,MAC,LL_Pts_C,Márcio
+7,4,00:02,99,97,MAC,FR,Márcio
+8,4,00:02,99,97,PIN,FC,Humberto
+9,4,00:03,99,97,PIN,substituicao_sai,Mineiro
+10,4,00:03,99,97,PIN,substituicao_entra,Lucas Dias
+11,4,00:03,99,97,PIN,FC_T,Banco do Pinheiros
+12,4,00:03,99,97,MAC,FC_T,Banco do Macaé Basquete
+13,4,00:03,99,97,MAC,tempo_tecnico,Macaé Basquete
+14,4,00:03,99,97,MAC,RD,Macaé Basquete
+15,4,00:03,99,97,PIN,LL_Pts_T,Holloway
+16,4,00:03,99,97,PIN,LL_Pts_C,Holloway
+17,4,00:03,99,96,PIN,substituicao_entra,Mineiro
+18,4,00:03,99,96,PIN,substituicao_sai,Lucas Dias
+19,4,00:03,99,96,MAC,substituicao_sai,André Góes
+20,4,00:03,99,96,MAC,substituicao_entra,Maique
+21,4,00:03,99,96,PIN,FR,Holloway
+22,4,00:03,99,96,MAC,FC,André Góes
+23,4,00:05,99,96,MAC,LL_Pts_C,André Góes
+24,4,00:05,98,96,MAC,LL_Pts_C,André Góes
+25,4,00:05,97,96,MAC,FR,André Góes
+26,4,00:05,97,96,PIN,FC,Lucas Dias
+27,4,00:10,97,96,PIN,EN,Bennett
+28,4,00:18,97,94,MAC,LL_Pts_C,Pedrinho Rava
+29,4,00:18,96,94,MAC,LL_Pts_C,Pedrinho Rava
+30,4,00:18,95,94,PIN,substituicao_entra,Renan
+31,4,00:18,95,94,PIN,substituicao_sai,Andrezão
+32,4,00:18,95,94,MAC,FR,Pedrinho Rava
+33,4,00:18,95,94,PIN,FC,Andrezão
+34,4,00:27,95,94,PIN,2_Pts_C,Holloway
+35,4,00:35,95,92,PIN,LL_Pts_T,Lucas Dias
+36,4,00:35,95,92,PIN,LL_Pts_C,Lucas Dias
+37,4,00:35,95,91,PIN,FR,Lucas Dias
+38,4,00:35,95,91,MAC,FC_A,Eddy
+39,4,00:35,95,91,PIN,BR,Lucas Dias
+40,4,00:35,95,91,MAC,ER,Mosso
+41,4,00:39,95,91,PIN,LL_Pts_C,Lucas Dias
+42,4,00:39,95,90,PIN,LL_Pts_C,Lucas Dias
+43,4,00:39,95,89,MAC,substituicao_sai,Matheus Fontes
+44,4,00:39,95,89,MAC,substituicao_entra,Eddy
+45,4,00:39,95,89,PIN,FR,Lucas Dias
+46,4,00:39,95,89,MAC,FC,Matheus Fontes
+47,4,00:40,95,89,PIN,tempo_tecnico,Pinheiros
+48,4,00:40,95,89,MAC,LL_Pts_C,André Góes
+49,4,00:40,94,89,MAC,LL_Pts_C,André Góes
+50,4,00:40,93,89,MAC,FR,André Góes
+51,4,00:40,93,89,PIN,FC,Bennett
+52,4,00:49,93,89,PIN,2_Pts_C,Holloway
+53,4,00:51,93,87,PIN,RO,Holloway
+54,4,00:51,93,87,PIN,LL_Pts_T,Holloway
+55,4,00:51,93,87,PIN,LL_Pts_C,Holloway
+56,4,00:51,93,86,MAC,substituicao_sai,Caleb Brown
+57,4,00:51,93,86,MAC,substituicao_entra,André Góes
+58,4,00:51,93,86,PIN,FR,Holloway
+59,4,00:51,93,86,MAC,FC,Caleb Brown
+60,4,00:59,93,86,MAC,LL_Pts_C,Márcio
+61,4,00:59,92,86,MAC,LL_Pts_C,Márcio
+62,4,00:59,91,86,MAC,FR,Márcio
+63,4,00:59,91,86,PIN,FC,Andrezão
+64,4,00:59,91,86,MAC,RD,Márcio
+65,4,00:59,91,86,PIN,2_Pts_T,Bennett
+66,4,01:12,91,86,PIN,RO,Humberto
+67,4,01:12,91,86,PIN,LL_Pts_T,Lucas Dias
+68,4,01:12,91,86,PIN,LL_Pts_C,Lucas Dias
+69,4,01:12,91,85,PIN,FR,Lucas Dias
+70,4,01:12,91,85,MAC,FC,Matheus Fontes
+71,4,01:16,91,85,PIN,RO,Lucas Dias
+72,4,01:16,91,85,PIN,2_Pts_T,Andrezão
+73,4,01:32,91,85,PIN,tempo_tecnico,Pinheiros
+74,4,01:32,91,85,PIN,RD,Holloway
+75,4,01:32,91,85,MAC,2_Pts_T,Márcio
+76,4,01:57,91,85,PIN,ER,Bennett
+77,4,02:05,91,85,PIN,RD,Lucas Dias
+78,4,02:05,91,85,MAC,3_Pts_T,Pedrinho Rava
+79,4,02:30,91,85,PIN,2_Pts_C,Bennett
+80,4,02:35,91,83,MAC,LL_Pts_C,Matheus Fontes
+81,4,02:35,90,83,MAC,LL_Pts_C,Matheus Fontes
+82,4,02:35,89,83,MAC,FR,Matheus Fontes
+83,4,02:35,89,83,PIN,FC,Lucas Dias
+84,4,02:36,89,83,MAC,RO,Macaé Basquete
+85,4,02:36,89,83,PIN,TO,Holloway
+86,4,02:36,89,83,MAC,2_Pts_T,Márcio
+87,4,02:52,89,83,PIN,LL_Pts_C,Holloway
+88,4,02:52,89,82,PIN,LL_Pts_C,Holloway
+89,4,02:52,89,81,MAC,substituicao_entra,Pedrinho Rava
+90,4,02:52,89,81,MAC,substituicao_sai,André Góes
+91,4,02:52,89,81,PIN,FR,Holloway
+92,4,02:52,89,81,MAC,FC,Matheus Fontes
+93,4,02:56,89,81,PIN,RO,Holloway
+94,4,02:56,89,81,PIN,3_Pts_T,Humberto
+95,4,03:05,89,81,MAC,ER,Mosso
+96,4,03:09,89,81,MAC,substituicao_sai,Romario
+97,4,03:09,89,81,MAC,substituicao_entra,Mosso
+98,4,03:09,89,81,MAC,substituicao_entra,Caleb Brown
+99,4,03:09,89,81,MAC,substituicao_sai,Pedrinho Rava
+100,4,03:09,89,81,MAC,substituicao_entra,Matheus Fontes
+101,4,03:09,89,81,MAC,substituicao_sai,Eddy
+102,4,03:09,89,81,MAC,substituicao_entra,Romario
+103,4,03:09,89,81,MAC,substituicao_sai,Mosso
+104,4,03:09,89,81,PIN,substituicao_entra,Lucas Dias
+105,4,03:09,89,81,PIN,substituicao_sai,Morro
+106,4,03:09,89,81,MAC,FR,Mosso
+107,4,03:09,89,81,PIN,FC,Morro
+108,4,03:19,89,81,PIN,AS,Morro
+109,4,03:33,89,81,PIN,EN,Andrezão
+110,4,03:38,89,79,PIN,RO,Morro
+111,4,03:38,89,79,PIN,3_Pts_T,Bennett
+112,4,03:47,89,79,MAC,2_Pts_C,Eddy
+113,4,03:52,87,79,MAC,RO,Eddy
+114,4,03:52,87,79,MAC,3_Pts_T,Eddy
+115,4,04:13,87,79,PIN,3_Pts_C,Humberto
+116,4,04:21,87,76,PIN,,
+117,4,04:21,87,76,MAC,ER,Mosso
+118,4,04:37,87,76,PIN,LL_Pts_C,Bennett
+119,4,04:37,87,75,PIN,LL_Pts_C,Bennett
+120,4,04:37,87,74,PIN,FR,Bennett
+121,4,04:37,87,74,MAC,FC,André Góes
+122,4,04:44,87,74,PIN,RD,Andrezão
+123,4,04:44,87,74,MAC,2_Pts_T,André Góes
+124,4,05:04,87,74,MAC,tempo_tecnico,Macaé Basquete
+125,4,05:04,87,74,PIN,3_Pts_C,Holloway
+126,4,05:04,87,71,PIN,AS,Andrezão
+127,4,05:11,87,71,MAC,ER,Mosso
+128,4,05:27,87,71,PIN,2_Pts_C,Humberto
+129,4,05:34,87,69,PIN,RD,Andrezão
+130,4,05:34,87,69,MAC,2_Pts_T,Márcio
+131,4,05:43,87,69,MAC,FR,Márcio
+132,4,05:43,87,69,PIN,FC,Andrezão
+133,4,05:52,87,69,PIN,substituicao_entra,Bennett
+134,4,05:52,87,69,PIN,substituicao_sai,Mineiro
+135,4,05:52,87,69,PIN,LL_Pts_C,Mineiro
+136,4,05:52,87,68,PIN,LL_Pts_C,Mineiro
+137,4,05:52,87,67,PIN,FR,Mineiro
+138,4,05:52,87,67,MAC,FC,Mosso
+139,4,06:07,87,67,MAC,3_Pts_C,André Góes
+140,4,06:07,84,67,MAC,AS,Eddy
+141,4,06:17,84,67,MAC,RD,André Góes
+142,4,06:17,84,67,PIN,3_Pts_T,Andrezão
+143,4,06:25,84,67,MAC,substituicao_entra,Eddy
+144,4,06:25,84,67,MAC,substituicao_sai,Caleb Brown
+145,4,06:25,84,67,PIN,FR,Humberto
+146,4,06:25,84,67,MAC,FC_O,Caleb Brown
+147,4,06:33,84,67,MAC,LL_Pts_C,Pedrinho Rava
+148,4,06:33,83,67,MAC,LL_Pts_C,Pedrinho Rava
+149,4,06:33,82,67,MAC,substituicao_sai,Romario
+150,4,06:33,82,67,MAC,substituicao_entra,Márcio
+151,4,06:33,82,67,PIN,substituicao_sai,Renan
+152,4,06:33,82,67,PIN,substituicao_entra,Morro
+153,4,06:33,82,67,PIN,substituicao_sai,Lucas Dias
+154,4,06:33,82,67,PIN,substituicao_entra,Andrezão
+155,4,06:33,82,67,MAC,FR,Pedrinho Rava
+156,4,06:33,82,67,PIN,FC_A,Mineiro
+157,4,06:33,82,67,MAC,2_Pts_C,Mosso
+158,4,06:39,80,67,MAC,RO,Mosso
+159,4,06:39,80,67,MAC,2_Pts_T,Pedrinho Rava
+160,4,06:49,80,67,MAC,RD,André Góes
+161,4,06:49,80,67,PIN,2_Pts_T,Holloway
+162,4,06:57,80,67,PIN,RD,Holloway
+163,4,06:57,80,67,MAC,3_Pts_T,Mosso
+164,4,07:04,80,67,MAC,FR,Caleb Brown
+165,4,07:04,80,67,PIN,FC,Humberto
+166,4,07:25,80,67,MAC,RD,André Góes
+167,4,07:25,80,67,PIN,3_Pts_T,Lucas Dias
+168,4,07:34,80,67,PIN,RD,Mineiro
+169,4,07:34,80,67,MAC,2_Pts_T,Mosso
+170,4,07:56,80,67,PIN,LL_Pts_C,Humberto
+171,4,07:56,80,66,PIN,2_Pts_C,Humberto
+172,4,07:56,80,64,PIN,FR,Humberto
+173,4,07:56,80,64,MAC,FC,Romario
+174,4,08:02,80,64,MAC,substituicao_entra,Caleb Brown
+175,4,08:02,80,64,MAC,substituicao_sai,Márcio
+176,4,08:02,80,64,MAC,substituicao_entra,Mosso
+177,4,08:02,80,64,MAC,substituicao_sai,Matheus Fontes
+178,4,08:02,80,64,PIN,LL_Pts_C,Humberto
+179,4,08:02,80,63,PIN,LL_Pts_C,Humberto
+180,4,08:02,80,62,PIN,FR,Humberto
+181,4,08:02,80,62,MAC,FC_A,Márcio
+182,4,08:14,80,62,PIN,RD,Humberto
+183,4,08:14,80,62,PIN,TO,Mineiro
+184,4,08:14,80,62,MAC,2_Pts_T,Matheus Fontes
+185,4,08:33,80,62,MAC,RD,Márcio
+186,4,08:33,80,62,PIN,3_Pts_T,Holloway
+187,4,08:34,80,62,PIN,FR,Holloway
+188,4,08:34,80,62,MAC,FC,André Góes
+189,4,08:39,80,62,PIN,RD,Holloway
+190,4,08:39,80,62,MAC,2_Pts_T,Matheus Fontes
+191,4,08:46,80,62,PIN,LL_Pts_C,Holloway
+192,4,08:46,80,61,PIN,2_Pts_C,Holloway
+193,4,08:46,80,59,PIN,FR,Holloway
+194,4,08:46,80,59,MAC,FC,Pedrinho Rava
+195,4,09:08,80,59,MAC,2_Pts_C,Romario
+196,4,09:08,78,59,MAC,AS,Matheus Fontes
+197,4,09:22,78,59,MAC,,
+198,4,09:22,78,59,PIN,ER,Renan
+199,4,09:33,78,59,PIN,FR,Mineiro
+200,4,09:33,78,59,MAC,FC,André Góes
+201,4,09:49,78,59,MAC,2_Pts_C,Márcio
+202,3,00:00,76,59, ,fim_quarto,
+203,3,00:00,76,59,PIN,2_Pts_T,Mineiro
+204,3,00:23,76,59,MAC,3_Pts_C,André Góes
+205,3,00:23,73,59,MAC,AS,Pedrinho Rava
+206,3,00:28,73,59,MAC,BR,Matheus Fontes
+207,3,00:28,73,59,PIN,ER,Mineiro
+208,3,00:51,73,59,MAC,3_Pts_C,André Góes
+209,3,00:51,70,59,MAC,AS,Márcio
+210,3,00:52,70,59,MAC,RO,Macaé Basquete
+211,3,00:52,70,59,PIN,TO,Holloway
+212,3,00:52,70,59,MAC,2_Pts_T,Márcio
+213,3,01:13,70,59,MAC,BR,Márcio
+214,3,01:13,70,59,PIN,ER,Scaglia
+215,3,01:26,70,59,PIN,FR,Holloway
+216,3,01:26,70,59,MAC,FC_O,Matheus Fontes
+217,3,01:42,70,59,PIN,3_Pts_C,Renan
+218,3,01:55,70,56,MAC,2_Pts_C,André Góes
+219,3,02:13,68,56,MAC,RD,Macaé Basquete
+220,3,02:13,68,56,PIN,3_Pts_T,Lucas Dias
+221,3,02:20,68,56,MAC,substituicao_entra,Pedrinho Rava
+222,3,02:20,68,56,MAC,substituicao_sai,Caleb Brown
+223,3,02:20,68,56,PIN,FR,Holloway
+224,3,02:20,68,56,MAC,FC,Caleb Brown
+225,3,02:24,68,56,PIN,RD,Holloway
+226,3,02:24,68,56,MAC,2_Pts_T,Caleb Brown
+227,3,02:43,68,56,PIN,substituicao_entra,Holloway
+228,3,02:43,68,56,PIN,substituicao_sai,Bennett
+229,3,02:43,68,56,MAC,LL_Pts_C,Caleb Brown
+230,3,02:43,67,56,PIN,FC_T,Bennett
+231,3,02:50,67,56,MAC,2_Pts_C,Márcio
+232,3,02:53,65,56,MAC,BR,Matheus Fontes
+233,3,02:53,65,56,PIN,ER,Bennett
+234,3,03:16,65,56,MAC,2_Pts_C,Márcio
+235,3,03:21,63,56,MAC,RO,Márcio
+236,3,03:21,63,56,MAC,3_Pts_T,Márcio
+237,3,03:24,63,56,PIN,LL_Pts_C,Lucas Dias
+238,3,03:24,63,55,PIN,LL_Pts_C,Lucas Dias
+239,3,03:28,63,54,PIN,FR,Lucas Dias
+240,3,03:28,63,54,MAC,FC,Márcio
+241,3,03:49,63,54,PIN,RD,Lucas Dias
+242,3,03:49,63,54,MAC,2_Pts_T,Romario
+243,3,04:00,63,54,PIN,LL_Pts_C,Bennett
+244,3,04:00,63,53,PIN,LL_Pts_C,Bennett
+245,3,04:00,63,52,PIN,FR,Bennett
+246,3,04:00,63,52,MAC,FC,Romario
+247,3,04:07,63,52,PIN,RD,Bennett
+248,3,04:07,63,52,PIN,TO,Mineiro
+249,3,04:07,63,52,MAC,2_Pts_T,Romario
+250,3,04:12,63,52,MAC,substituicao_entra,André Góes
+251,3,04:12,63,52,MAC,substituicao_sai,Eddy
+252,3,04:22,63,52,PIN,substituicao_sai,Holloway
+253,3,04:22,63,52,PIN,substituicao_entra,Scaglia
+254,3,04:22,63,52,PIN,substituicao_entra,Mineiro
+255,3,04:22,63,52,PIN,substituicao_sai,Morro
+256,3,04:46,63,52,MAC,substituicao_entra,Romario
+257,3,04:46,63,52,MAC,substituicao_sai,Mosso
+258,3,04:59,63,52,MAC,RD,Caleb Brown
+259,3,04:59,63,52,PIN,3_Pts_T,Holloway
+260,3,05:21,63,52,MAC,2_Pts_C,Matheus Fontes
+261,3,05:21,61,52,MAC,AS,Caleb Brown
+262,3,05:27,61,52,MAC,BR,Caleb Brown
+263,3,05:27,61,52,PIN,ER,Renan
+264,3,05:43,61,52,MAC,2_Pts_C,Caleb Brown
+265,3,05:47,59,52,MAC,BR,Caleb Brown
+266,3,05:47,59,52,PIN,ER,Holloway
+267,3,06:09,59,52,MAC,2_Pts_C,Mosso
+268,3,06:24,57,52,MAC,FR,Caleb Brown
+269,3,06:24,57,52,PIN,FC,Lucas Dias
+270,3,06:33,57,52,PIN,2_Pts_C,Lucas Dias
+271,3,06:33,57,50,PIN,AS,Renan
+272,3,06:39,57,50,PIN,RO,Renan
+273,3,06:39,57,50,PIN,2_Pts_T,Lucas Dias
+274,3,06:49,57,50,PIN,RO,Morro
+275,3,06:49,57,50,PIN,3_Pts_T,Bennett
+276,3,06:52,57,50,MAC,ER,Caleb Brown
+277,3,06:53,57,50,PIN,LL_Pts_C,Bennett
+278,3,06:53,57,49,PIN,LL_Pts_C,Bennett
+279,3,06:53,57,48,PIN,FR,Bennett
+280,3,06:53,57,48,MAC,FC,Mosso
+281,3,06:53,57,48,PIN,BR,Renan
+282,3,06:53,57,48,MAC,ER,Matheus Fontes
+283,3,07:08,57,48,MAC,RO,Matheus Fontes
+284,3,07:08,57,48,PIN,TO,Renan
+285,3,07:08,57,48,MAC,3_Pts_T,Matheus Fontes
+286,3,07:24,57,48,PIN,2_Pts_C,Holloway
+287,3,07:24,57,46,PIN,AS,Lucas Dias
+288,3,07:33,57,46,PIN,tempo_tecnico,Pinheiros
+289,3,07:33,57,46,MAC,3_Pts_C,Mosso
+290,3,07:33,54,46,MAC,AS,Caleb Brown
+291,3,07:49,54,46,MAC,RD,Mosso
+292,3,07:49,54,46,PIN,2_Pts_T,Holloway
+293,3,08:06,54,46,MAC,3_Pts_C,Márcio
+294,3,08:06,51,46,MAC,AS,Mosso
+295,3,08:18,51,46,PIN,2_Pts_C,Lucas Dias
+296,3,08:18,51,44,PIN,AS,Renan
+297,3,08:31,51,44,MAC,LL_Pts_C,Márcio
+298,3,08:31,50,44,MAC,LL_Pts_C,Márcio
+299,3,08:31,49,44,MAC,FR,Márcio
+300,3,08:31,49,44,PIN,FC,Bennett
+301,3,08:35,49,44,MAC,RO,Márcio
+302,3,08:35,49,44,MAC,2_Pts_T,Márcio
+303,3,08:46,49,44,PIN,2_Pts_C,Bennett
+304,3,09:00,49,42,MAC,2_Pts_C,Mosso
+305,3,09:00,47,42,MAC,AS,Caleb Brown
+306,3,09:14,47,42,PIN,2_Pts_C,Lucas Dias
+307,3,09:14,47,40,PIN,AS,Renan
+308,3,09:34,47,40,MAC,3_Pts_C,Mosso
+309,3,09:34,44,40,MAC,AS,Eddy
+310,3,09:47,44,40,MAC,RD,Matheus Fontes
+311,3,09:47,44,40,PIN,3_Pts_T,Lucas Dias
+312,2,00:00,44,40, ,fim_quarto,
+313,2,00:07,44,40,MAC,,
+314,2,00:07,44,40,PIN,ER,Renan
+315,2,00:07,44,40,MAC,substituicao_entra,Diego
+316,2,00:07,44,40,MAC,substituicao_sai,Mosso
+317,2,00:11,44,40,MAC,substituicao_entra,Cintra
+318,2,00:11,44,40,MAC,substituicao_sai,Murilo
+319,2,00:11,44,40,PIN,substituicao_sai,Morro
+320,2,00:11,44,40,PIN,substituicao_entra,Bennett
+321,2,00:11,44,40,PIN,tempo_tecnico,Pinheiros
+322,2,00:11,44,40,MAC,ER,
+323,2,00:36,44,40,MAC,BR,Matheus Fontes
+324,2,00:36,44,40,PIN,ER,Lucas Dias
+325,2,00:45,44,40,PIN,RD,Georginho
+326,2,00:45,44,40,PIN,TO,Renan
+327,2,00:45,44,40,MAC,2_Pts_T,Mosso
+328,2,01:07,44,40,PIN,2_Pts_C,Lucas Dias
+329,2,01:07,44,38,PIN,AS,Georginho
+330,2,01:29,44,38,MAC,2_Pts_C,Murilo
+331,2,01:29,42,38,MAC,AS,Pedrinho Rava
+332,2,01:37,42,38,MAC,RD,Pedrinho Rava
+333,2,01:37,42,38,PIN,3_Pts_T,Georginho
+334,2,01:47,42,38,PIN,,
+335,2,01:47,42,38,MAC,ER,Mosso
+336,2,02:01,42,38,MAC,RD,Matheus Fontes
+337,2,02:01,42,38,PIN,2_Pts_T,Renan
+338,2,02:12,42,38,MAC,ER,Mosso
+339,2,02:27,42,38,MAC,substituicao_entra,Matheus Fontes
+340,2,02:27,42,38,MAC,substituicao_sai,Maique
+341,2,02:30,42,38,MAC,tempo_tecnico,Macaé Basquete
+342,2,02:30,42,38,PIN,2_Pts_C,Holloway
+343,2,02:35,42,36,PIN,BR,Holloway
+344,2,02:35,42,36,MAC,ER,Maique
+345,2,02:56,42,36,PIN,substituicao_entra,Georginho
+346,2,02:56,42,36,PIN,substituicao_sai,Bennett
+347,2,02:56,42,36,PIN,LL_Pts_C,Lucas Dias
+348,2,02:56,42,35,PIN,LL_Pts_C,Lucas Dias
+349,2,02:56,42,34,MAC,substituicao_entra,Eddy
+350,2,02:56,42,34,MAC,substituicao_sai,Caleb Brown
+351,2,02:56,42,34,MAC,substituicao_sai,André Góes
+352,2,02:56,42,34,MAC,substituicao_entra,Pedrinho Rava
+353,2,02:56,42,34,PIN,FR,Lucas Dias
+354,2,02:56,42,34,MAC,FC,Caleb Brown
+355,2,03:16,42,34,MAC,2_Pts_C,Caleb Brown
+356,2,03:22,40,34,MAC,RO,Caleb Brown
+357,2,03:22,40,34,MAC,3_Pts_T,André Góes
+358,2,03:42,40,34,PIN,LL_Pts_C,Holloway
+359,2,03:42,40,33,PIN,LL_Pts_C,Holloway
+360,2,03:42,40,32,PIN,FR,Holloway
+361,2,03:42,40,32,MAC,FC,Murilo
+362,2,03:51,40,32,PIN,RD,Morro
+363,2,03:51,40,32,MAC,2_Pts_T,Caleb Brown
+364,2,03:51,40,32,MAC,BR,Caleb Brown
+365,2,03:51,40,32,PIN,ER,Lucas Dias
+366,2,03:51,40,32,PIN,RD,Morro
+367,2,03:51,40,32,MAC,3_Pts_T,Mosso
+368,2,04:18,40,32,PIN,LL_Pts_C,Morro
+369,2,04:18,40,31,PIN,LL_Pts_C,Morro
+370,2,04:22,40,30,PIN,FR,Morro
+371,2,04:22,40,30,MAC,FC,André Góes
+372,2,04:33,40,30,PIN,RO,Morro
+373,2,04:33,40,30,PIN,3_Pts_T,Bennett
+374,2,04:51,40,30,MAC,LL_Pts_C,Murilo
+375,2,04:51,39,30,MAC,LL_Pts_C,Murilo
+376,2,04:51,38,30,MAC,FR,Murilo
+377,2,04:51,38,30,PIN,FC,Morro
+378,2,04:51,38,30,MAC,substituicao_entra,Mosso
+379,2,04:51,38,30,MAC,substituicao_sai,Matheus Fontes
+380,2,05:11,38,30,PIN,substituicao_entra,Morro
+381,2,05:11,38,30,PIN,substituicao_sai,Arthur
+382,2,05:11,38,30,PIN,substituicao_sai,Humberto
+383,2,05:11,38,30,PIN,substituicao_entra,Renan
+384,2,05:16,38,30,MAC,2_Pts_C,Murilo
+385,2,05:16,36,30,MAC,AS,Caleb Brown
+386,2,05:26,36,30,PIN,2_Pts_C,Lucas Dias
+387,2,05:38,36,28,MAC,2_Pts_C,Murilo
+388,2,05:55,34,28,MAC,RD,Macaé Basquete
+389,2,05:55,34,28,PIN,2_Pts_T,Lucas Dias
+390,2,06:18,34,28,PIN,RD,Lucas Dias
+391,2,06:18,34,28,MAC,3_Pts_T,Caleb Brown
+392,2,06:20,34,28,MAC,FR,Caleb Brown
+393,2,06:20,34,28,PIN,FC,Humberto
+394,2,06:26,34,28,MAC,RO,Caleb Brown
+395,2,06:26,34,28,PIN,TO,Arthur
+396,2,06:26,34,28,MAC,2_Pts_T,Maique
+397,2,06:35,34,28,MAC,substituicao_entra,Maique
+398,2,06:35,34,28,MAC,substituicao_sai,Romario
+399,2,06:43,34,28,PIN,2_Pts_C,Arthur
+400,2,06:49,34,26,PIN,RO,Arthur
+401,2,06:49,34,26,PIN,2_Pts_T,Humberto
+402,2,07:05,34,26,MAC,LL_Pts_C,Matheus Fontes
+403,2,07:05,33,26,PIN,substituicao_sai,Scaglia
+404,2,07:05,33,26,PIN,substituicao_entra,Bennett
+405,2,07:05,33,26,MAC,2_Pts_C,Matheus Fontes
+406,2,07:05,31,26,MAC,FR,Matheus Fontes
+407,2,07:05,31,26,PIN,FC,Scaglia
+408,2,07:16,31,26,MAC,RD,Caleb Brown
+409,2,07:16,31,26,PIN,3_Pts_T,Scaglia
+410,2,07:30,31,26,MAC,2_Pts_C,Romario
+411,2,07:38,29,26,MAC,RO,Romario
+412,2,07:38,29,26,MAC,2_Pts_T,Murilo
+413,2,07:46,29,26,MAC,FR,Murilo
+414,2,07:46,29,26,PIN,FC_O,Scaglia
+415,2,08:02,29,26,PIN,FR,Holloway
+416,2,08:02,29,26,MAC,FC,Murilo
+417,2,08:05,29,26,PIN,BR,Lucas Dias
+418,2,08:05,29,26,MAC,ER,Romario
+419,2,08:26,29,26,PIN,LL_Pts_C,Humberto
+420,2,08:26,29,25,PIN,LL_Pts_C,Humberto
+421,2,08:26,29,24,PIN,FR,Humberto
+422,2,08:26,29,24,MAC,FC,Caleb Brown
+423,2,08:31,29,24,MAC,substituicao_entra,Murilo
+424,2,08:31,29,24,MAC,substituicao_sai,Eddy
+425,2,08:31,29,24,PIN,FR,Humberto
+426,2,08:31,29,24,MAC,FC,Eddy
+427,2,08:48,29,24,MAC,AS,Romario
+428,2,08:48,29,24,MAC,LL_Pts_C,Matheus Fontes
+429,2,08:48,28,24,MAC,LL_Pts_T,Matheus Fontes
+430,2,08:48,28,24,MAC,substituicao_entra,Caleb Brown
+431,2,08:48,28,24,MAC,substituicao_sai,Pedrinho Rava
+432,2,08:53,28,24,MAC,FR,Matheus Fontes
+433,2,08:53,28,24,PIN,FC,Arthur
+434,2,09:04,28,24,MAC,RO,Macaé Basquete
+435,2,09:04,28,24,MAC,3_Pts_T,Eddy
+436,2,09:19,28,24,PIN,AS,Scaglia
+437,2,09:19,28,24,PIN,LL_Pts_C,Arthur
+438,2,09:19,28,23,PIN,LL_Pts_C,Arthur
+439,2,09:21,28,22,PIN,FR,Arthur
+440,2,09:21,28,22,MAC,FC,Matheus Fontes
+441,2,09:35,28,22,PIN,RD,Scaglia
+442,2,09:35,28,22,MAC,3_Pts_T,Pedrinho Rava
+443,2,09:54,28,22,PIN,2_Pts_C,Lucas Dias
+444,2,09:54,28,20,PIN,AS,Scaglia
+445,1,00:00,28,20, ,fim_quarto,
+446,1,00:01,28,20,PIN,3_Pts_T,Andrezão
+447,1,00:05,28,20,MAC,substituicao_sai,Eddy
+448,1,00:05,28,20,MAC,substituicao_entra,Cintra
+449,1,00:05,28,20,MAC,LL_Pts_C,Eddy
+450,1,00:05,27,20,MAC,LL_Pts_T,Eddy
+451,1,00:05,27,20,MAC,substituicao_entra,Maique
+452,1,00:05,27,20,MAC,substituicao_sai,Romario
+453,1,00:05,27,20,MAC,substituicao_entra,Diego
+454,1,00:05,27,20,MAC,substituicao_sai,Pedrinho Rava
+455,1,00:05,27,20,PIN,substituicao_entra,Humberto
+456,1,00:05,27,20,PIN,substituicao_sai,Bennett
+457,1,00:05,27,20,MAC,FR,Eddy
+458,1,00:05,27,20,PIN,FC,Arthur
+459,1,00:20,27,20,MAC,RD,Matheus Fontes
+460,1,00:20,27,20,PIN,LL_Pts_T,Bennett
+461,1,00:20,27,20,PIN,substituicao_entra,Arthur
+462,1,00:20,27,20,PIN,substituicao_sai,Mineiro
+463,1,00:23,27,20,PIN,2_Pts_C,Bennett
+464,1,00:23,27,18,PIN,FR,Bennett
+465,1,00:23,27,18,MAC,FC,Pedrinho Rava
+466,1,00:33,27,18,PIN,RD,Bennett
+467,1,00:33,27,18,MAC,2_Pts_T,Pedrinho Rava
+468,1,00:45,27,18,MAC,BR,André Góes
+469,1,00:45,27,18,PIN,ER,Scaglia
+470,1,00:50,27,18,PIN,RO,Scaglia
+471,1,00:50,27,18,PIN,LL_Pts_T,Bennett
+472,1,00:50,27,18,PIN,LL_Pts_C,Bennett
+473,1,00:50,27,17,MAC,substituicao_entra,Matheus Fontes
+474,1,00:50,27,17,MAC,substituicao_sai,Márcio
+475,1,00:50,27,17,PIN,FR,Bennett
+476,1,00:50,27,17,MAC,FC,Márcio
+477,1,00:57,27,17,PIN,RD,Andrezão
+478,1,00:57,27,17,MAC,3_Pts_T,Márcio
+479,1,01:02,27,17,MAC,RO,Pedrinho Rava
+480,1,01:02,27,17,MAC,2_Pts_T,Márcio
+481,1,01:12,27,17,MAC,RD,André Góes
+482,1,01:12,27,17,PIN,3_Pts_T,Scaglia
+483,1,01:33,27,17,MAC,3_Pts_C,Márcio
+484,1,01:49,24,17,PIN,ER,Bennett
+485,1,01:57,24,17,MAC,RD,Eddy
+486,1,01:57,24,17,PIN,2_Pts_T,Mineiro
+487,1,02:20,24,17,MAC,2_Pts_C,Romario
+488,1,02:20,22,17,MAC,AS,Márcio
+489,1,02:47,22,17,PIN,ER,Mineiro
+490,1,03:04,22,17,MAC,substituicao_entra,Romario
+491,1,03:04,22,17,MAC,substituicao_sai,Mosso
+492,1,03:04,22,17,PIN,FR,Andrezão
+493,1,03:04,22,17,MAC,FC,Mosso
+494,1,03:12,22,17,PIN,substituicao_entra,Lucas Dias
+495,1,03:12,22,17,PIN,substituicao_sai,Renan
+496,1,03:18,22,17,MAC,2_Pts_C,André Góes
+497,1,03:18,20,17,PIN,substituicao_entra,Scaglia
+498,1,03:18,20,17,PIN,substituicao_sai,Holloway
+499,1,03:18,20,17,PIN,LL_Pts_C,Bennett
+500,1,03:18,20,16,PIN,2_Pts_C,Bennett
+501,1,03:18,20,14,PIN,FR,Bennett
+502,1,03:18,20,14,MAC,FC,Mosso
+503,1,03:23,20,14,MAC,substituicao_entra,André Góes
+504,1,03:23,20,14,MAC,substituicao_sai,Matheus Fontes
+505,1,03:23,20,14,MAC,substituicao_entra,Pedrinho Rava
+506,1,03:23,20,14,MAC,substituicao_sai,Caleb Brown
+507,1,03:23,20,14,PIN,,
+508,1,03:23,20,14,MAC,ER,Matheus Fontes
+509,1,03:38,20,14,PIN,3_Pts_C,Bennett
+510,1,03:51,20,11,PIN,RD,Mineiro
+511,1,03:51,20,11,MAC,2_Pts_T,Caleb Brown
+512,1,03:59,20,11,MAC,BR,Mosso
+513,1,03:59,20,11,PIN,ER,Andrezão
+514,1,04:11,20,11,MAC,LL_Pts_C,Matheus Fontes
+515,1,04:11,19,11,MAC,LL_Pts_C,Matheus Fontes
+516,1,04:11,18,11,MAC,FR,Matheus Fontes
+517,1,04:11,18,11,PIN,FC,Holloway
+518,1,04:11,18,11,MAC,RO,Matheus Fontes
+519,1,04:11,18,11,MAC,3_Pts_T,Mosso
+520,1,04:14,18,11,MAC,FR,Matheus Fontes
+521,1,04:14,18,11,PIN,FC,Renan
+522,1,04:35,18,11,MAC,,
+523,1,04:35,18,11,PIN,ER,Holloway
+524,1,04:52,18,11,PIN,FR,Andrezão
+525,1,04:52,18,11,MAC,FC,Márcio
+526,1,04:55,18,11,PIN,BR,Andrezão
+527,1,04:55,18,11,MAC,ER,Caleb Brown
+528,1,05:02,18,11,MAC,RD,Caleb Brown
+529,1,05:02,18,11,PIN,2_Pts_T,Holloway
+530,1,05:09,18,11,MAC,LL_Pts_C,Matheus Fontes
+531,1,05:09,17,11,MAC,LL_Pts_T,Matheus Fontes
+532,1,05:09,17,11,MAC,FR,Matheus Fontes
+533,1,05:09,17,11,PIN,FC,Mineiro
+534,1,05:27,17,11,MAC,RO,Caleb Brown
+535,1,05:27,17,11,MAC,3_Pts_T,Mosso
+536,1,05:37,17,11,MAC,tempo_tecnico,Macaé Basquete
+537,1,05:37,17,11,PIN,2_Pts_C,Mineiro
+538,1,05:37,17,9,PIN,AS,Holloway
+539,1,05:46,17,9,PIN,RD,Holloway
+540,1,05:46,17,9,MAC,2_Pts_T,Eddy
+541,1,06:01,17,9,PIN,3_Pts_C,Holloway
+542,1,06:10,17,6,MAC,2_Pts_C,Mosso
+543,1,06:20,15,6,MAC,RO,Caleb Brown
+544,1,06:20,15,6,PIN,TO,Renan
+545,1,06:20,15,6,MAC,2_Pts_T,Eddy
+546,1,06:31,15,6,PIN,2_Pts_C,Renan
+547,1,06:43,15,4,PIN,RO,Andrezão
+548,1,06:43,15,4,MAC,TO,Mosso
+549,1,06:43,15,4,PIN,2_Pts_T,Mineiro
+550,1,06:47,15,4,PIN,FR,Holloway
+551,1,06:47,15,4,MAC,FC,Eddy
+552,1,06:55,15,4,PIN,tempo_tecnico,Pinheiros
+553,1,06:55,15,4,MAC,2_Pts_C,Caleb Brown
+554,1,07:03,13,4,MAC,RO,Mosso
+555,1,07:03,13,4,MAC,3_Pts_T,Eddy
+556,1,07:13,13,4,MAC,,
+557,1,07:13,13,4,PIN,ER,Andrezão
+558,1,07:16,13,4,MAC,LL_Pts_C,Márcio
+559,1,07:16,12,4,MAC,LL_Pts_C,Márcio
+560,1,07:16,11,4,MAC,FR,Márcio
+561,1,07:16,11,4,PIN,FC,Renan
+562,1,07:24,11,4,MAC,RD,Caleb Brown
+563,1,07:24,11,4,PIN,2_Pts_T,Bennett
+564,1,07:45,11,4,MAC,3_Pts_C,Eddy
+565,1,08:00,8,4,PIN,2_Pts_C,Mineiro
+566,1,08:00,8,2,PIN,AS,Andrezão
+567,1,08:06,8,2,MAC,LL_Pts_C,Matheus Fontes
+568,1,08:06,7,2,MAC,LL_Pts_C,Matheus Fontes
+569,1,08:06,6,2,MAC,FR,Matheus Fontes
+570,1,08:06,6,2,PIN,FC,Holloway
+571,1,08:16,6,2,MAC,RD,Matheus Fontes
+572,1,08:16,6,2,PIN,2_Pts_T,Andrezão
+573,1,08:34,6,2,PIN,RD,Mineiro
+574,1,08:34,6,2,MAC,2_Pts_T,Mosso
+575,1,08:53,6,2,PIN,2_Pts_C,Holloway
+576,1,09:12,6,0,MAC,3_Pts_C,Mosso
+577,1,09:12,3,0,MAC,AS,Caleb Brown
+578,1,09:28,3,0,MAC,RD,Matheus Fontes
+579,1,09:28,3,0,PIN,2_Pts_T,Mineiro
+580,1,09:47,3,0,MAC,3_Pts_C,Caleb Brown
+581,1,10:00,0,0,PIN,substituicao_entra,Andrezão
+582,1,10:00,0,0,PIN,substituicao_entra,Mineiro
+583,1,10:00,0,0,PIN,substituicao_entra,Renan
+584,1,10:00,0,0,PIN,substituicao_entra,Lucas Dias
+585,1,10:00,0,0,PIN,substituicao_entra,Bennett
+586,1,10:00,0,0,PIN,substituicao_entra,Holloway
+587,1,10:00,0,0,MAC,substituicao_entra,Eddy
+588,1,10:00,0,0,MAC,substituicao_entra,Márcio
+589,1,10:00,0,0,MAC,substituicao_entra,Caleb Brown
+590,1,10:00,0,0,MAC,substituicao_entra,Mosso
+591,1,10:00,0,0,MAC,substituicao_entra,Matheus Fontes

@@ -1,0 +1,456 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,73,77, ,fim_partida,
+1,4,00:02,73,77,LIM,RD,Limeira
+2,4,00:02,73,77,SJO,3_Pts_T,Valtinho
+3,4,00:04,73,77,LIM,RD,Deryk
+4,4,00:04,73,77,SJO,3_Pts_T,J Baxter
+5,4,00:08,73,77,SJO,substituicao_sai,Drudi
+6,4,00:08,73,77,SJO,substituicao_entra,Dedé
+7,4,00:08,73,77,SJO,tempo_tecnico,São José
+8,4,00:08,73,77,LIM,LL_Pts_C,Nezinho
+9,4,00:08,73,76,LIM,LL_Pts_C,Nezinho
+10,4,00:08,73,75,SJO,substituicao_sai,Renan
+11,4,00:08,73,75,SJO,substituicao_entra,Caio Torres
+12,4,00:08,73,75,LIM,FR,Nezinho
+13,4,00:08,73,75,SJO,FC,Laws
+14,4,00:10,73,75,SJO,substituicao_sai,Caio Torres
+15,4,00:10,73,75,SJO,substituicao_entra,Renan
+16,4,00:10,73,75,LIM,FR,Nezinho
+17,4,00:10,73,75,SJO,FC,Drudi
+18,4,00:29,73,75,LIM,RD,Deryk
+19,4,00:29,73,75,SJO,2_Pts_T,Drudi
+20,4,00:41,73,75,SJO,BR,Valtinho
+21,4,00:41,73,75,LIM,ER,Rafael Mineiro
+22,4,01:03,73,75,SJO,AS,Valtinho
+23,4,01:03,73,75,SJO,LL_Pts_C,Caio Torres
+24,4,01:03,72,75,SJO,LL_Pts_T,Caio Torres
+25,4,01:03,72,75,SJO,FR,Caio Torres
+26,4,01:03,72,75,LIM,FC,Hayes
+27,4,01:11,72,75,SJO,FR,Valtinho
+28,4,01:11,72,75,LIM,FC,Deryk
+29,4,01:12,72,75,SJO,RD,Valtinho
+30,4,01:12,72,75,LIM,3_Pts_T,Deryk
+31,4,01:34,72,75,SJO,2_Pts_C,Drudi
+32,4,01:34,70,75,SJO,AS,Laws
+33,4,01:49,70,75,SJO,FR,Laws
+34,4,01:49,70,75,LIM,FC,Nezinho
+35,4,02:04,70,75,LIM,3_Pts_C,Hayes
+36,4,02:04,70,72,LIM,AS,Deryk
+37,4,02:26,70,72,SJO,2_Pts_C,Drudi
+38,4,02:26,68,72,SJO,AS,Laws
+39,4,02:32,68,72,SJO,BR,Caio Torres
+40,4,02:32,68,72,LIM,ER,Nezinho
+41,4,02:39,68,72,LIM,BR,Nezinho
+42,4,02:39,68,72,SJO,ER,Caio Torres
+43,4,02:58,68,72,SJO,tempo_tecnico,São José
+44,4,02:58,68,72,LIM,2_Pts_C,Nezinho
+45,4,03:20,68,70,LIM,FR,Rafael Mineiro
+46,4,03:20,68,70,SJO,FC,Caio Torres
+47,4,03:20,68,70,LIM,RD,Limeira
+48,4,03:20,68,70,SJO,2_Pts_T,Caio Torres
+49,4,03:30,68,70,SJO,RD,Caio Torres
+50,4,03:30,68,70,LIM,2_Pts_T,Deryk
+51,4,03:53,68,70,LIM,RD,Limeira
+52,4,03:53,68,70,SJO,3_Pts_T,Laws
+53,4,04:17,68,70,LIM,2_Pts_C,Ronald Ramon
+54,4,04:23,68,68,LIM,BR,Hayes
+55,4,04:23,68,68,SJO,ER,Caio Torres
+56,4,04:40,68,68,LIM,2_Pts_C,Nezinho
+57,4,04:54,68,66,SJO,2_Pts_C,Drudi
+58,4,04:54,66,66,SJO,AS,Caio Torres
+59,4,05:06,66,66,LIM,2_Pts_C,Hayes
+60,4,05:06,66,64,LIM,AS,Ronald Ramon
+61,4,05:19,66,64,LIM,RD,Hayes
+62,4,05:19,66,64,SJO,2_Pts_T,J Baxter
+63,4,05:30,66,64,LIM,substituicao_sai,Matheus Dalla
+64,4,05:30,66,64,LIM,substituicao_entra,Nezinho
+65,4,05:30,66,64,SJO,substituicao_sai,Dedé
+66,4,05:30,66,64,SJO,substituicao_entra,Laws
+67,4,05:30,66,64,SJO,FR,Valtinho
+68,4,05:30,66,64,LIM,FC,Matheus Dalla
+69,4,05:30,66,64,SJO,BR,Valtinho
+70,4,05:30,66,64,LIM,ER,Ronald Ramon
+71,4,05:34,66,64,LIM,RD,Deryk
+72,4,05:34,66,64,LIM,TO,Rafael Mineiro
+73,4,05:34,66,64,SJO,2_Pts_T,Drudi
+74,4,05:35,66,64,LIM,substituicao_entra,Rafael Mineiro
+75,4,05:35,66,64,LIM,substituicao_sai,Teichmann
+76,4,05:59,66,64,LIM,LL_Pts_C,Ronald Ramon
+77,4,05:59,66,63,LIM,3_Pts_C,Ronald Ramon
+78,4,05:59,66,60,LIM,FR,Ronald Ramon
+79,4,05:59,66,60,SJO,FC,Dedé
+80,4,06:18,66,60,SJO,2_Pts_C,Drudi
+81,4,06:18,64,60,SJO,AS,Caio Torres
+82,4,06:37,64,60,LIM,2_Pts_C,Teichmann
+83,4,06:37,64,58,LIM,AS,Deryk
+84,4,07:00,64,58,SJO,2_Pts_C,J Baxter
+85,4,07:00,62,58,SJO,AS,Dedé
+86,4,07:07,62,58,SJO,RD,Caio Torres
+87,4,07:07,62,58,LIM,2_Pts_T,Hayes
+88,4,07:12,62,58,LIM,RO,Limeira
+89,4,07:12,62,58,SJO,TO,Dedé
+90,4,07:12,62,58,LIM,2_Pts_T,Matheus Dalla
+91,4,07:26,62,58,SJO,3_Pts_C,J Baxter
+92,4,07:26,59,58,SJO,AS,Valtinho
+93,4,07:45,59,58,SJO,RD,Caio Torres
+94,4,07:45,59,58,LIM,3_Pts_T,Ronald Ramon
+95,4,07:52,59,58,LIM,RD,Matheus Dalla
+96,4,07:52,59,58,SJO,3_Pts_T,Dedé
+97,4,08:12,59,58,LIM,3_Pts_C,Deryk
+98,4,08:25,59,55,SJO,substituicao_sai,Colimerio
+99,4,08:25,59,55,SJO,substituicao_entra,Drudi
+100,4,08:25,59,55,LIM,FR,Matheus Dalla
+101,4,08:25,59,55,SJO,FC,Dedé
+102,4,08:33,59,55,LIM,RD,Deryk
+103,4,08:33,59,55,LIM,TO,Teichmann
+104,4,08:33,59,55,SJO,2_Pts_T,Dedé
+105,4,08:59,59,55,SJO,substituicao_sai,Renan
+106,4,08:59,59,55,SJO,substituicao_entra,Caio Torres
+107,4,08:59,59,55,SJO,tempo_tecnico,São José
+108,4,08:59,59,55,LIM,2_Pts_C,Hayes
+109,4,09:08,59,53,LIM,RD,Ronald Ramon
+110,4,09:08,59,53,SJO,3_Pts_T,J Baxter
+111,4,09:30,59,53,LIM,2_Pts_C,Teichmann
+112,4,09:30,59,51,LIM,AS,Ronald Ramon
+113,4,09:43,59,51,LIM,RD,Teichmann
+114,4,09:43,59,51,SJO,2_Pts_T,Renan
+115,3,00:00,59,51, ,fim_quarto,
+116,3,00:03,59,51,SJO,3_Pts_T,J Baxter
+117,3,00:03,59,51,SJO,RD,J Baxter
+118,3,00:03,59,51,LIM,2_Pts_T,Deryk
+119,3,00:10,59,51,LIM,RD,Teichmann
+120,3,00:10,59,51,SJO,2_Pts_T,Dedé
+121,3,00:33,59,51,SJO,RD,J Baxter
+122,3,00:33,59,51,LIM,LL_Pts_T,Teichmann
+123,3,00:33,59,51,LIM,LL_Pts_T,Teichmann
+124,3,00:33,59,51,SJO,substituicao_sai,Laws
+125,3,00:33,59,51,SJO,substituicao_entra,Dedé
+126,3,00:33,59,51,LIM,FR,Teichmann
+127,3,00:33,59,51,SJO,FC,Renan
+128,3,00:33,59,51,LIM,RD,Limeira
+129,3,00:33,59,51,SJO,3_Pts_T,Rafinha
+130,3,00:45,59,51,SJO,RD,J Baxter
+131,3,00:45,59,51,LIM,LL_Pts_T,Ronald Ramon
+132,3,00:45,59,51,LIM,LL_Pts_C,Ronald Ramon
+133,3,00:45,59,50,LIM,FR,Ronald Ramon
+134,3,00:45,59,50,SJO,FC,Rafinha
+135,3,00:56,59,50,LIM,substituicao_sai,Nezinho
+136,3,00:56,59,50,LIM,substituicao_entra,Ronald Ramon
+137,3,00:56,59,50,SJO,substituicao_entra,Colimerio
+138,3,00:56,59,50,SJO,substituicao_entra,Renan
+139,3,00:56,59,50,SJO,substituicao_sai,Drudi
+140,3,00:56,59,50,SJO,substituicao_sai,Caio Torres
+141,3,00:56,59,50,LIM,FR,Teichmann
+142,3,00:56,59,50,SJO,FC,Laws
+143,3,01:07,59,50,SJO,2_Pts_C,Drudi
+144,3,01:07,57,50,SJO,AS,Laws
+145,3,01:26,57,50,LIM,2_Pts_C,Teichmann
+146,3,01:44,57,48,SJO,2_Pts_C,Laws
+147,3,01:44,55,48,SJO,AS,J Baxter
+148,3,01:59,55,48,LIM,2_Pts_C,Hayes
+149,3,02:07,55,46,LIM,RO,Teichmann
+150,3,02:07,55,46,LIM,2_Pts_T,Hayes
+151,3,02:26,55,46,SJO,LL_Pts_C,J Baxter
+152,3,02:26,54,46,LIM,substituicao_entra,Hayes
+153,3,02:26,54,46,LIM,substituicao_sai,Rafael Mineiro
+154,3,02:26,54,46,SJO,FR,J Baxter
+155,3,02:26,54,46,LIM,FC,Rafael Mineiro
+156,3,02:26,54,46,SJO,2_Pts_C,J Baxter
+157,3,02:26,52,46,SJO,AS,Rafinha
+158,3,02:30,52,46,SJO,substituicao_sai,Valtinho
+159,3,02:30,52,46,SJO,substituicao_entra,Rafinha
+160,3,02:40,52,46,SJO,RD,Valtinho
+161,3,02:40,52,46,LIM,3_Pts_T,Matheus Dalla
+162,3,02:55,52,46,SJO,3_Pts_C,Laws
+163,3,03:04,49,46,SJO,RD,Caio Torres
+164,3,03:04,49,46,LIM,2_Pts_T,Rafael Mineiro
+165,3,03:16,49,46,SJO,2_Pts_C,Drudi
+166,3,03:16,47,46,SJO,AS,Laws
+167,3,03:41,47,46,LIM,LL_Pts_C,Rafael Mineiro
+168,3,03:41,47,45,LIM,FR,Rafael Mineiro
+169,3,03:41,47,45,SJO,FC,Caio Torres
+170,3,03:41,47,45,LIM,2_Pts_C,Rafael Mineiro
+171,3,03:41,47,43,LIM,AS,Teichmann
+172,3,03:46,47,43,LIM,substituicao_sai,Bruno Fiorotto
+173,3,03:46,47,43,LIM,substituicao_entra,Teichmann
+174,3,03:46,47,43,LIM,substituicao_sai,Ronald Ramon
+175,3,03:46,47,43,LIM,substituicao_entra,Deryk
+176,3,03:46,47,43,LIM,FR,Rafael Mineiro
+177,3,03:46,47,43,SJO,FC,Valtinho
+178,3,03:57,47,43,LIM,RD,Rafael Mineiro
+179,3,03:57,47,43,SJO,2_Pts_T,Caio Torres
+180,3,04:23,47,43,LIM,2_Pts_C,Nezinho
+181,3,04:31,47,41,LIM,BR,Nezinho
+182,3,04:31,47,41,SJO,ER,J Baxter
+183,3,04:35,47,41,SJO,RO,J Baxter
+184,3,04:35,47,41,SJO,3_Pts_T,Caio Torres
+185,3,05:01,47,41,LIM,2_Pts_C,Matheus Dalla
+186,3,05:24,47,39,SJO,2_Pts_C,J Baxter
+187,3,05:24,45,39,SJO,AS,Laws
+188,3,05:31,45,39,SJO,RD,Valtinho
+189,3,05:31,45,39,LIM,3_Pts_T,Ronald Ramon
+190,3,05:48,45,39,SJO,3_Pts_C,Valtinho
+191,3,05:48,42,39,SJO,AS,Laws
+192,3,06:01,42,39,SJO,,
+193,3,06:01,42,39,LIM,ER,Rafael Mineiro
+194,3,06:11,42,39,LIM,RD,Limeira
+195,3,06:11,42,39,SJO,2_Pts_T,Drudi
+196,3,06:25,42,39,SJO,LL_Pts_T,Valtinho
+197,3,06:25,42,39,SJO,LL_Pts_C,Valtinho
+198,3,06:25,41,39,SJO,FR,Valtinho
+199,3,06:25,41,39,LIM,FC_A,Ronald Ramon
+200,3,06:28,41,39,SJO,RD,Caio Torres
+201,3,06:28,41,39,LIM,2_Pts_T,Nezinho
+202,3,06:39,41,39,LIM,FR,Ronald Ramon
+203,3,06:39,41,39,SJO,FC,Drudi
+204,3,07:01,41,39,SJO,2_Pts_C,Laws
+205,3,07:01,39,39,SJO,AS,Valtinho
+206,3,07:17,39,39,SJO,RO,Valtinho
+207,3,07:17,39,39,SJO,3_Pts_T,J Baxter
+208,3,07:46,39,39,SJO,,
+209,3,07:46,39,39,LIM,ER,Bruno Fiorotto
+210,3,08:06,39,39,LIM,tempo_tecnico,Limeira
+211,3,08:06,39,39,SJO,2_Pts_C,Caio Torres
+212,3,08:06,37,39,SJO,AS,J Baxter
+213,3,08:15,37,39,SJO,RD,J Baxter
+214,3,08:15,37,39,LIM,2_Pts_T,Ronald Ramon
+215,3,08:30,37,39,SJO,2_Pts_C,Valtinho
+216,3,08:30,35,39,SJO,AS,Laws
+217,3,08:33,35,39,SJO,FR,J Baxter
+218,3,08:33,35,39,LIM,FC,Matheus Dalla
+219,3,08:43,35,39,SJO,RD,Caio Torres
+220,3,08:43,35,39,LIM,3_Pts_T,Nezinho
+221,3,09:05,35,39,LIM,RO,Bruno Fiorotto
+222,3,09:05,35,39,LIM,3_Pts_T,Matheus Dalla
+223,3,09:28,35,39,SJO,2_Pts_C,Caio Torres
+224,3,09:28,33,39,SJO,AS,Valtinho
+225,3,09:40,33,39,SJO,RD,Drudi
+226,3,09:40,33,39,LIM,2_Pts_T,Bruno Fiorotto
+227,2,00:00,33,39, ,fim_quarto,
+228,2,00:00,33,39,SJO,LL_Pts_C,Dedé
+229,2,00:00,32,39,SJO,FR,Dedé
+230,2,00:00,32,39,LIM,FC,Ronald Ramon
+231,2,00:00,32,39,SJO,2_Pts_C,Dedé
+232,2,00:00,30,39,SJO,AS,Laws
+233,2,00:02,30,39,LIM,2_Pts_C,Deryk
+234,2,00:22,30,37,SJO,2_Pts_C,Laws
+235,2,00:22,28,37,SJO,AS,Caio Torres
+236,2,00:46,28,37,SJO,RD,Caio Torres
+237,2,00:46,28,37,LIM,LL_Pts_T,Hayes
+238,2,00:46,28,37,LIM,AS,Teichmann
+239,2,00:46,28,37,LIM,LL_Pts_C,Hayes
+240,2,00:46,28,36,SJO,substituicao_entra,J Baxter
+241,2,00:46,28,36,SJO,substituicao_sai,Drudi
+242,2,00:46,28,36,LIM,substituicao_sai,Nezinho
+243,2,00:46,28,36,LIM,substituicao_entra,Matheus Dalla
+244,2,00:46,28,36,LIM,FR,Hayes
+245,2,00:46,28,36,SJO,FC,Drudi
+246,2,01:04,28,36,SJO,ER,Dedé
+247,2,01:24,28,36,SJO,tempo_tecnico,São José
+248,2,01:24,28,36,SJO,RD,São José
+249,2,01:24,28,36,LIM,2_Pts_T,Deryk
+250,2,01:29,28,36,SJO,RO,Valtinho
+251,2,01:29,28,36,LIM,TO,Hayes
+252,2,01:29,28,36,SJO,2_Pts_T,Caio Torres
+253,2,01:49,28,36,LIM,substituicao_entra,Teichmann
+254,2,01:49,28,36,LIM,substituicao_sai,Rafael Mineiro
+255,2,01:49,28,36,LIM,LL_Pts_C,Rafael Mineiro
+256,2,01:49,28,35,LIM,AS,Nezinho
+257,2,01:49,28,35,LIM,LL_Pts_C,Rafael Mineiro
+258,2,01:49,28,34,LIM,FR,Rafael Mineiro
+259,2,01:49,28,34,SJO,FC,Drudi
+260,2,02:03,28,34,LIM,RD,Hayes
+261,2,02:03,28,34,SJO,2_Pts_T,Caio Torres
+262,2,02:20,28,34,LIM,substituicao_sai,Matheus Dalla
+263,2,02:20,28,34,LIM,substituicao_entra,Ronald Ramon
+264,2,02:20,28,34,SJO,FR,Valtinho
+265,2,02:20,28,34,LIM,FC,Deryk
+266,2,02:43,28,34,LIM,2_Pts_C,Rafael Mineiro
+267,2,02:43,28,32,LIM,AS,Hayes
+268,2,03:01,28,32,SJO,2_Pts_C,Caio Torres
+269,2,03:22,26,32,LIM,ER,Matheus Dalla
+270,2,03:41,26,32,SJO,tempo_tecnico,São José
+271,2,03:41,26,32,LIM,substituicao_sai,Teichmann
+272,2,03:41,26,32,LIM,substituicao_entra,Nezinho
+273,2,03:41,26,32,LIM,AS,Rafael Mineiro
+274,2,03:47,26,32,LIM,2_Pts_C,Hayes
+275,2,03:55,26,30,LIM,substituicao_sai,Nezinho
+276,2,03:55,26,30,LIM,substituicao_entra,Teichmann
+277,2,04:02,26,30,SJO,substituicao_sai,Colimerio
+278,2,04:02,26,30,SJO,substituicao_entra,Drudi
+279,2,04:02,26,30,LIM,FR,Hayes
+280,2,04:02,26,30,SJO,FC,Caio Torres
+281,2,04:02,26,30,LIM,RD,Limeira
+282,2,04:02,26,30,SJO,3_Pts_T,Colimerio
+283,2,04:16,26,30,SJO,RD,Dedé
+284,2,04:16,26,30,LIM,2_Pts_T,Rafael Mineiro
+285,2,04:36,26,30,SJO,ER,Colimerio
+286,2,04:44,26,30,LIM,2_Pts_C,Hayes
+287,2,04:49,26,28,LIM,RO,Hayes
+288,2,04:49,26,28,LIM,2_Pts_T,Rafael Mineiro
+289,2,05:09,26,28,LIM,RD,Hayes
+290,2,05:09,26,28,SJO,LL_Pts_T,Valtinho
+291,2,05:09,26,28,SJO,substituicao_sai,J Baxter
+292,2,05:09,26,28,SJO,substituicao_entra,Laws
+293,2,05:09,26,28,SJO,2_Pts_C,Valtinho
+294,2,05:09,24,28,SJO,FR,Valtinho
+295,2,05:09,24,28,LIM,FC,Nezinho
+296,2,05:17,24,28,SJO,RD,Valtinho
+297,2,05:17,24,28,LIM,2_Pts_T,Deryk
+298,2,05:36,24,28,SJO,2_Pts_C,Dedé
+299,2,05:36,22,28,SJO,AS,Valtinho
+300,2,05:57,22,28,LIM,3_Pts_C,Matheus Dalla
+301,2,05:57,22,25,LIM,AS,Nezinho
+302,2,06:05,22,25,LIM,RD,Nezinho
+303,2,06:05,22,25,SJO,2_Pts_T,J Baxter
+304,2,06:26,22,25,SJO,RD,Caio Torres
+305,2,06:26,22,25,LIM,2_Pts_T,Rafael Mineiro
+306,2,06:49,22,25,LIM,,
+307,2,06:49,22,25,SJO,ER,Valtinho
+308,2,06:54,22,25,SJO,RD,Colimerio
+309,2,06:54,22,25,LIM,LL_Pts_T,Hayes
+310,2,06:54,22,25,LIM,LL_Pts_C,Hayes
+311,2,06:54,22,24,SJO,substituicao_sai,Renan
+312,2,06:54,22,24,SJO,substituicao_entra,Caio Torres
+313,2,06:54,22,24,LIM,substituicao_sai,Bruno Fiorotto
+314,2,06:54,22,24,LIM,substituicao_entra,Rafael Mineiro
+315,2,06:54,22,24,LIM,substituicao_sai,Ronald Ramon
+316,2,06:54,22,24,LIM,substituicao_entra,Nezinho
+317,2,06:54,22,24,LIM,FR,Hayes
+318,2,06:54,22,24,SJO,FC,Renan
+319,2,07:05,22,24,LIM,RD,Deryk
+320,2,07:05,22,24,SJO,2_Pts_T,J Baxter
+321,2,07:23,22,24,SJO,RD,Colimerio
+322,2,07:23,22,24,LIM,3_Pts_T,Matheus Dalla
+323,2,07:41,22,24,LIM,RO,Deryk
+324,2,07:41,22,24,SJO,TO,Colimerio
+325,2,07:41,22,24,LIM,2_Pts_T,Matheus Dalla
+326,2,07:52,22,24,LIM,BR,Matheus Dalla
+327,2,07:52,22,24,SJO,ER,Colimerio
+328,2,08:04,22,24,LIM,ER,Hayes
+329,2,08:11,22,24,SJO,3_Pts_C,J Baxter
+330,2,08:11,19,24,SJO,AS,Valtinho
+331,2,08:11,19,24,SJO,substituicao_sai,Rafinha
+332,2,08:11,19,24,SJO,substituicao_entra,Valtinho
+333,2,08:30,19,24,SJO,FR,Renan
+334,2,08:30,19,24,LIM,FC,Hayes
+335,2,08:30,19,24,LIM,FR,Hayes
+336,2,08:30,19,24,SJO,FC,Renan
+337,2,08:32,19,24,SJO,RD,J Baxter
+338,2,08:32,19,24,LIM,2_Pts_T,Deryk
+339,2,08:58,19,24,SJO,2_Pts_C,Renan
+340,2,08:58,17,24,SJO,AS,J Baxter
+341,2,09:24,17,24,LIM,3_Pts_C,Ronald Ramon
+342,2,09:24,17,21,LIM,AS,Deryk
+343,2,09:46,17,21,LIM,RD,Bruno Fiorotto
+344,2,09:46,17,21,SJO,3_Pts_T,Colimerio
+345,1,00:00,17,21, ,fim_quarto,
+346,1,00:16,17,21,LIM,substituicao_sai,Matheus Dalla
+347,1,00:16,17,21,LIM,substituicao_entra,Deryk
+348,1,00:16,17,21,LIM,substituicao_sai,Rafael Mineiro
+349,1,00:16,17,21,LIM,substituicao_entra,Bruno Fiorotto
+350,1,00:16,17,21,LIM,substituicao_entra,Hayes
+351,1,00:16,17,21,LIM,substituicao_sai,Teichmann
+352,1,00:19,17,21,SJO,substituicao_entra,André
+353,1,00:19,17,21,SJO,substituicao_entra,Colimerio
+354,1,00:19,17,21,SJO,substituicao_entra,Renan
+355,1,00:19,17,21,SJO,substituicao_sai,Drudi
+356,1,00:19,17,21,SJO,substituicao_sai,Caio Torres
+357,1,00:19,17,21,SJO,substituicao_sai,Valtinho
+358,1,00:19,17,21,LIM,,
+359,1,00:19,17,21,SJO,ER,Drudi
+360,1,00:29,17,21,LIM,2_Pts_C,Teichmann
+361,1,00:34,17,19,LIM,BR,Teichmann
+362,1,00:34,17,19,SJO,ER,Rafinha
+363,1,00:51,17,19,LIM,3_Pts_C,Ronald Ramon
+364,1,00:51,17,16,LIM,AS,Rafael Mineiro
+365,1,01:01,17,16,SJO,2_Pts_C,Dedé
+366,1,01:01,15,16,SJO,AS,Caio Torres
+367,1,01:10,15,16,SJO,BR,Caio Torres
+368,1,01:10,15,16,LIM,ER,Nezinho
+369,1,01:23,15,16,SJO,3_Pts_C,Valtinho
+370,1,01:41,12,16,LIM,2_Pts_C,Rafael Mineiro
+371,1,01:41,12,14,LIM,AS,Teichmann
+372,1,01:53,12,14,LIM,RD,Matheus Dalla
+373,1,01:53,12,14,SJO,2_Pts_T,Drudi
+374,1,02:05,12,14,SJO,RD,Drudi
+375,1,02:05,12,14,LIM,3_Pts_T,Ronald Ramon
+376,1,02:09,12,14,SJO,substituicao_sai,Laws
+377,1,02:09,12,14,SJO,substituicao_entra,Rafinha
+378,1,02:33,12,14,SJO,2_Pts_C,Drudi
+379,1,02:33,10,14,SJO,AS,Valtinho
+380,1,02:42,10,14,LIM,3_Pts_C,Matheus Dalla
+381,1,02:42,10,11,LIM,AS,Nezinho
+382,1,03:04,10,11,SJO,2_Pts_C,Caio Torres
+383,1,03:04,8,11,SJO,AS,Valtinho
+384,1,03:10,8,11,SJO,RD,Valtinho
+385,1,03:10,8,11,LIM,2_Pts_T,Rafael Mineiro
+386,1,03:20,8,11,LIM,BR,Rafael Mineiro
+387,1,03:20,8,11,SJO,ER,Valtinho
+388,1,03:28,8,11,LIM,2_Pts_C,Ronald Ramon
+389,1,03:51,8,9,SJO,ER,Caio Torres
+390,1,04:14,8,9,LIM,LL_Pts_C,Rafael Mineiro
+391,1,04:14,8,8,SJO,substituicao_sai,J Baxter
+392,1,04:14,8,8,SJO,substituicao_entra,Dedé
+393,1,04:14,8,8,LIM,FR,Rafael Mineiro
+394,1,04:14,8,8,SJO,FC,Laws
+395,1,04:14,8,8,LIM,2_Pts_C,Rafael Mineiro
+396,1,04:14,8,6,LIM,AS,Teichmann
+397,1,04:29,8,6,SJO,ER,Caio Torres
+398,1,04:44,8,6,SJO,RO,São José
+399,1,04:44,8,6,LIM,TO,Rafael Mineiro
+400,1,04:44,8,6,SJO,2_Pts_T,Valtinho
+401,1,04:51,8,6,SJO,RD,Drudi
+402,1,04:51,8,6,LIM,3_Pts_T,Matheus Dalla
+403,1,05:09,8,6,SJO,LL_Pts_C,Caio Torres
+404,1,05:09,7,6,SJO,2_Pts_C,Caio Torres
+405,1,05:09,5,6,SJO,FR,Caio Torres
+406,1,05:09,5,6,LIM,FC,Teichmann
+407,1,05:16,5,6,LIM,substituicao_sai,Bruno Fiorotto
+408,1,05:16,5,6,LIM,substituicao_entra,Teichmann
+409,1,05:16,5,6,SJO,FR,Caio Torres
+410,1,05:16,5,6,LIM,FC,Bruno Fiorotto
+411,1,05:30,5,6,LIM,2_Pts_C,Rafael Mineiro
+412,1,05:30,5,4,LIM,AS,Ronald Ramon
+413,1,05:50,5,4,SJO,3_Pts_C,Laws
+414,1,06:12,2,4,SJO,RD,Drudi
+415,1,06:12,2,4,LIM,2_Pts_T,Matheus Dalla
+416,1,06:29,2,4,SJO,2_Pts_C,Caio Torres
+417,1,06:29,0,4,SJO,AS,J Baxter
+418,1,06:40,0,4,SJO,RD,Caio Torres
+419,1,06:40,0,4,LIM,2_Pts_T,Bruno Fiorotto
+420,1,06:51,0,4,LIM,FR,Ronald Ramon
+421,1,06:51,0,4,SJO,FC,Valtinho
+422,1,07:05,0,4,LIM,BR,Bruno Fiorotto
+423,1,07:05,0,4,SJO,ER,J Baxter
+424,1,07:21,0,4,LIM,2_Pts_C,Rafael Mineiro
+425,1,07:21,0,2,LIM,AS,Bruno Fiorotto
+426,1,07:43,0,2,LIM,BR,Ronald Ramon
+427,1,07:43,0,2,SJO,ER,Laws
+428,1,07:55,0,2,SJO,RO,Caio Torres
+429,1,07:55,0,2,SJO,2_Pts_T,Drudi
+430,1,08:10,0,2,SJO,FR,Caio Torres
+431,1,08:10,0,2,LIM,FC,Bruno Fiorotto
+432,1,08:10,0,2,SJO,RO,São José
+433,1,08:10,0,2,SJO,2_Pts_T,Valtinho
+434,1,08:20,0,2,SJO,RO,Drudi
+435,1,08:20,0,2,LIM,TO,Rafael Mineiro
+436,1,08:20,0,2,SJO,2_Pts_T,Valtinho
+437,1,08:33,0,2,LIM,ER,Bruno Fiorotto
+438,1,08:49,0,2,LIM,RD,Ronald Ramon
+439,1,08:49,0,2,SJO,3_Pts_T,J Baxter
+440,1,08:58,0,2,SJO,RD,Laws
+441,1,08:58,0,2,LIM,2_Pts_T,Rafael Mineiro
+442,1,09:17,0,2,SJO,ER,
+443,1,09:43,0,2,LIM,2_Pts_C,Rafael Mineiro
+444,1,09:43,0,0,LIM,AS,Ronald Ramon
+445,1,10:00,0,0,LIM,substituicao_entra,Nezinho
+446,1,10:00,0,0,LIM,substituicao_entra,Bruno Fiorotto
+447,1,10:00,0,0,LIM,substituicao_entra,Ronald Ramon
+448,1,10:00,0,0,LIM,substituicao_entra,Rafael Mineiro
+449,1,10:00,0,0,LIM,substituicao_entra,Matheus Dalla
+450,1,10:00,0,0,SJO,substituicao_entra,Drudi
+451,1,10:00,0,0,SJO,substituicao_entra,Caio Torres
+452,1,10:00,0,0,SJO,substituicao_entra,Valtinho
+453,1,10:00,0,0,SJO,substituicao_entra,Laws
+454,1,10:00,0,0,SJO,substituicao_entra,J Baxter

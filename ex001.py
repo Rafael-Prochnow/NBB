@@ -15,11 +15,8 @@ def get_links_from(teste):
         links.append((a.get('href')))
     return links
 
-
-
 tabela_geral = pd.DataFrame([])
 lista_cada_temporada = pd.DataFrame([])
-
 lista_funcionando = []
 lista_falha = []
 list_sites_falha = []
@@ -28,16 +25,15 @@ l1 = pd.DataFrame([])
 l2 = pd.DataFrame([])
 
 # essa é a ordem das temporadas
-# , 41, 34, 27, 20, 15
-temporada = 2019
-lista_de_temporadas = [54, 47]
+temporada = 2015
+lista_de_temporadas = [27, 20, 15]
 
 for x in lista_de_temporadas:
     print(f'Temporada {temporada}')
     r = requests.get(f'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D={x}')
     soup = BeautifulSoup(r.content, 'html.parser')
     list_inoutControl = get_links_from(soup)
-    del(list_inoutControl[:205])
+    del(list_inoutControl[:25])
     numero_jogo = 1
     for i in list_inoutControl:
         pagina = requests.get(f'{i}')
@@ -50,7 +46,10 @@ for x in lista_de_temporadas:
             erro_na_pagina01 = erro_na_pagina.find_all("b")
             erro_na_pagina02 = erro_na_pagina01[0].get_text()
             # por motivos de erro da página coloquei isso
-            if (i == 'https://lnb.com.br/partidas/nbb-20162017-paulistano-x-caxias-do-sul-20122016-1930/'):
+            if (i == 'https://lnb.com.br/partidas/nbb-20162017-paulistano-x-caxias-do-sul-20122016-1930/')|\
+                    (i == 'https://lnb.com.br/noticias/com_personalidade_/')|\
+                    (i == 'https://lnb.com.br/noticias/mais-do-que-especial-2/')|\
+                    (i == 'https://lnb.com.br/noticias/agora-sim-5/'):
                 print(f'SEM DADOS KKKKKKKKKKKKKK {i}')
                 lista_falha.append(i)
                 numero_jogo += 1
@@ -61,7 +60,6 @@ for x in lista_de_temporadas:
                 # pegar o nome dos times
                 r1 = requests.get(f'{i}')
                 soup01 = BeautifulSoup(r1.content, 'html.parser')
-
                 option = Options()
                 option.headless = True
                 driver = webdriver.Firefox(options=option)
@@ -76,10 +74,8 @@ for x in lista_de_temporadas:
                 except NoSuchElementException:
                     element = driver.find_element_by_xpath("//div[@class='move_action_scroll column']")
                     html_content = element.get_attribute('outerHTML')
-
                     # passear o conteúdo em HTML
                     soup = BeautifulSoup(html_content, 'html.parser')
-
                     # 3 encontra o time, está separado dos demais
                     items02 = soup.find_all(
                         class_='large-10 small-8 medium-10 columns move_action_content move_action_content_one')
@@ -128,56 +124,56 @@ for x in lista_de_temporadas:
 
                     c = c.apply(lambda x: re.sub("(Fim  do quarto quarto|Fim  do terceiro quarto|"
                                                  "Fim  do segundo quarto|Fim  do primeiro quarto|"
-                                                 "Fim  do período de prorragação)", "1/fim_quarto;", x))
+                                                 "Fim  do período de prorragação)", "1>fim_quarto;", x))
 
                     c = c.apply(lambda x: re.sub("(Início do  quarto quarto|Início do  terceiro quarto|"
                                                  "Início do  segundo quarto|Início do  de período de prorragação)"
-                                                 , "1/inicio_quarto;", x))
+                                                 , "1>inicio_quarto;", x))
 
-                    c = c.str.replace('Fim de partida', '1/fim_partida;')
-                    c = c.str.replace('Início de partida', '1/inicio_partida;')
+                    c = c.str.replace('Fim de partida', '1>fim_partida;')
+                    c = c.str.replace('Início de partida', '1>inicio_partida;')
 
                     # esses são os valores que estão os indicadores
                     c = c.str.replace('É de três ', '')
-                    c = c.str.replace(' acerta arremesso de três pontos', '/3_Pts_C;1')
-                    c = c.str.replace(' erra tentativa para três pontos', '/3_Pts_T;1')
+                    c = c.str.replace(' acerta arremesso de três pontos', '>3_Pts_C;1')
+                    c = c.str.replace(' erra tentativa para três pontos', '>3_Pts_T;1')
                     # lance livre
-                    c = c.str.replace(' acerta o lance livre', '/LL_Pts_C;1')
-                    c = c.str.replace(' erra o lance livre', '/LL_Pts_T;1')
+                    c = c.str.replace(' acerta o lance livre', '>LL_Pts_C;1')
+                    c = c.str.replace(' erra o lance livre', '>LL_Pts_T;1')
                     # Dois pontos
-                    c = c.str.replace(' acerta arremesso de dois pontos', '/2_Pts_C;1')
-                    c = c.str.replace(' erra tentativa para dois pontos', '/2_Pts_T;1')
+                    c = c.str.replace(' acerta arremesso de dois pontos', '>2_Pts_C;1')
+                    c = c.str.replace(' erra tentativa para dois pontos', '>2_Pts_T;1')
                     # rebotes
-                    c = c.str.replace(' pega rebote defensivo', '/RD;1')
-                    c = c.str.replace(' pega rebote ofensivo', '/RO;1')
+                    c = c.str.replace(' pega rebote defensivo', '>RD;1')
+                    c = c.str.replace(' pega rebote ofensivo', '>RO;1')
 
                     # recuperação de bola
-                    c = c.str.replace(' recupera a bola', '/BR;1')
+                    c = c.str.replace(' recupera a bola', '>BR;1')
                     # assistencia
-                    c = c.str.replace('Assistência do ', '/AS;')
+                    c = c.str.replace('Assistência do ', '>AS;')
                     # faltas recebidas
-                    c = c.str.replace(' sofre falta', '/FR;1')
+                    c = c.str.replace(' sofre falta', '>FR;1')
                     # faltas cometidas
-                    c = c.str.replace(' comete falta técnica', '/FC_T;1')
-                    c = c.str.replace(' comete falta antidesportiva', '/FC_A;1')
-                    c = c.str.replace(' comete falta ofensiva', '/FC_O;1')
-                    c = c.str.replace(' comete falta desqualificante', '/FC_D;1')
-                    c = c.str.replace(' comete falta', '/FC;1')
+                    c = c.str.replace(' comete falta técnica', '>FC_T;1')
+                    c = c.str.replace(' comete falta antidesportiva', '>FC_A;1')
+                    c = c.str.replace(' comete falta ofensiva', '>FC_O;1')
+                    c = c.str.replace(' comete falta desqualificante', '>FC_D;1')
+                    c = c.str.replace(' comete falta', '>FC;1')
                     # substituição
-                    c = c.str.replace('Entra ', '/substituicao_entra;')
-                    c = c.str.replace('Sai ', '/substituicao_sai;')
+                    c = c.str.replace('Entra ', '>substituicao_entra;')
+                    c = c.str.replace('Sai ', '>substituicao_sai;')
                     # tocos
-                    c = c.str.replace(' dá um toco', '/TO;1')
+                    c = c.str.replace(' dá um toco', '>TO;1')
                     # tempo técnico
                     c = c.str.replace('Técnico da equipe ', '')
-                    c = c.str.replace(' pede tempo', '/tempo_tecnico;')
+                    c = c.str.replace(' pede tempo', '>tempo_tecnico;')
                     # erros
                     c = c.apply(lambda x: re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
                                                  " comete violação de saída de quadra| comete violação de volta de quadra|"
-                                                 " comete violação de condução)", "/ER;1", x))
+                                                 " comete violação de condução| comete violação de 3s no garrafão)", ">ER;1", x))
                     # cravada
                     c = c.str.replace('Cravada', '')
-                    c = c.str.replace(' acerta enterrada', '/EN;1')
+                    c = c.str.replace(' acerta enterrada', '>EN;1')
 
                     # falta técnica para treinador
                     c = c.str.replace('Técnico do ', '')
@@ -195,7 +191,7 @@ for x in lista_de_temporadas:
                     alinhados = mudados_01 + mudados_02
                     # agora que juntou e alinhou os nomes
                     # organizar novamente
-                    alinhados_01 = alinhados.str.split('/')
+                    alinhados_01 = alinhados.str.split('>')
                     alinhados_02 = alinhados_01.str.get(0)
                     alinhados_03 = alinhados_01.str.get(1)
 
@@ -204,12 +200,9 @@ for x in lista_de_temporadas:
                     alinhados_04 = alinhados_02.str.replace('1 ', '')
                     alinhados_05 = alinhados_04.str.replace('1', '')
                     alinhados_05 = alinhados_05.str.strip()
-
                     dados["Indicador"] = alinhados_03
                     dados["Nome"] = alinhados_05
-
                     dados.drop('Inf_2', axis=1, inplace=True)
-
                     divisao1_placar = dados["Placar"].str.split(" x ")
                     placar_casa = divisao1_placar.str.get(0)
                     placar_visitante = divisao1_placar.str.get(1)
@@ -221,10 +214,8 @@ for x in lista_de_temporadas:
                     # descobrir nome do time
                     r1 = requests.get(f'{i}')
                     soup01 = BeautifulSoup(r1.content, 'html.parser')
-
                     informacoes_1 = soup01.find_all("div", class_="float-left text-right")
                     informacoes_2 = soup01.find_all("div", class_="float-right text-left")
-
                     nome_casa_of = informacoes_1[0].find("span", class_="show-for-large").get_text()
                     nome_fora_of = informacoes_2[0].find("span", class_="show-for-large").get_text()
 
@@ -253,53 +244,54 @@ for x in lista_de_temporadas:
                     # depois de ajustar os espaços eu substititui os indicadores por nomes padronizados
                     c = re.sub("(Fim  do quarto quarto|Fim  do terceiro quarto|"
                                "Fim  do segundo quarto|Fim  do primeiro quarto|"
-                               "Fim  do período de prorragação)", ";1/fim_quarto;", c)
+                               "Fim  do período de prorragação)", ";1>fim_quarto;", c)
 
                     c = re.sub("(Início do  quarto quarto|Início do  terceiro quarto|"
-                               "Início do  segundo quarto|Início do  de período de prorragação)", ";1/inicio_quarto;",
+                               "Início do  segundo quarto|Início do  de período de prorragação)", ";1>inicio_quarto;",
                                c)
 
-                    c = c.replace('Fim de partida', ';1/fim_partida;')
-                    c = c.replace('Início de partida', ';1/inicio_partida;')
+                    c = c.replace('Fim de partida', ';1>fim_partida;')
+                    c = c.replace('Início de partida', ';1>inicio_partida;')
 
                     # esses são os valores que estão os indicadores
-                    c = c.replace('acerta arremesso de três pontos', '/3_Pts_C;1')
-                    c = c.replace('erra tentativa para três pontos', '/3_Pts_T;1')
+                    c = c.replace('acerta arremesso de três pontos', '>3_Pts_C;1')
+                    c = c.replace('erra tentativa para três pontos', '>3_Pts_T;1')
                     # lance livre
-                    c = c.replace('acerta o lance livre', '/LL_Pts_C;1')
-                    c = c.replace('erra o lance livre', '/LL_Pts_T;1')
+                    c = c.replace('acerta o lance livre', '>LL_Pts_C;1')
+                    c = c.replace('erra o lance livre', '>LL_Pts_T;1')
                     # Dois pontos
-                    c = c.replace('acerta arremesso de dois pontos', '/2_Pts_C;1')
-                    c = c.replace('erra tentativa para dois pontos', '/2_Pts_T;1')
+                    c = c.replace('acerta arremesso de dois pontos', '>2_Pts_C;1')
+                    c = c.replace('erra tentativa para dois pontos', '>2_Pts_T;1')
                     # rebotes
-                    c = c.replace('pega rebote defensivo', '/RD;1')
-                    c = c.replace('pega rebote ofensivo', '/RO;1')
+                    c = c.replace('pega rebote defensivo', '>RD;1')
+                    c = c.replace('pega rebote ofensivo', '>RO;1')
                     # recuperação de bola
-                    c = c.replace('recupera a bola', '/BR;1')
+                    c = c.replace('recupera a bola', '>BR;1')
                     # assistencia
-                    c = c.replace('Assistência do ', '/AS;')
+                    c = c.replace('Assistência do ', '>AS;')
                     # faltas recebidas
-                    c = c.replace('sofre falta', '/FR;1')
+                    c = c.replace('sofre falta', '>FR;1')
 
                     # faltas cometidas
-                    c = c.replace('comete falta técnica', '/FC_T;1')
-                    c = c.replace('comete falta antidesportiva', '/FC_A;1')
-                    c = c.replace('comete falta ofensiva', '/FC_O;1')
-                    c = c.replace('comete falta desqualificante', '/FC_D;1')
-                    c = c.replace('comete falta', '/FC;1')
+                    c = c.replace('comete falta técnica', '>FC_T;1')
+                    c = c.replace('comete falta antidesportiva', '>FC_A;1')
+                    c = c.replace('comete falta ofensiva', '>FC_O;1')
+                    c = c.replace('comete falta desqualificante', '>FC_D;1')
+                    c = c.replace('comete falta', '>FC;1')
                     # substituição
-                    c = c.replace('Entra ', '1/substituicao_entra;')
-                    c = c.replace('Sai ', '1/substituicao_sai;')
+                    c = c.replace('Entra ', '1>substituicao_entra;')
+                    c = c.replace('Sai ', '1>substituicao_sai;')
                     # tocos
-                    c = c.replace('dá um toco', '/TO;1')
+                    c = c.replace('dá um toco', '>TO;1')
                     # tempo técnico
-                    c = c.replace('pede tempo', '/tempo_tecnico;')
+                    c = c.replace('pede tempo', '>tempo_tecnico;')
                     # erros
                     c = re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
-                               " comete violação de saída de quadra| comete violação de volta de quadra|  comete violação de condução)",
-                               "/ER;1", c)
+                               " comete violação de saída de quadra| comete violação de volta de quadra|"
+                               " comete violação de condução| comete violação de 3s no garrafão|"
+                               " comete violação de 3s no garrafão)", ">ER;1", c)
                     # cravada
-                    c = c.replace('acerta enterrada', '1/EN;1')
+                    c = c.replace('acerta enterrada', '1>EN;1')
 
                     # tirar os parenteses
                     c = c.replace(' (', ';')
@@ -330,7 +322,7 @@ for x in lista_de_temporadas:
                     dados.drop('inf1', axis=1, inplace=True)
 
                     alinhados = dados['inf2']
-                    alinhados_01 = alinhados.str.split('/')
+                    alinhados_01 = alinhados.str.split('>')
                     alinhados_02 = alinhados_01.str.get(0)
                     alinhados_03 = alinhados_01.str.get(1)
                     mudado = dados['inf3']
@@ -342,9 +334,7 @@ for x in lista_de_temporadas:
                     dados['Indicador'] = alinhados_03
                     dados.drop('inf2', axis=1, inplace=True)
                     dados.drop('inf3', axis=1, inplace=True)
-
                     dados['Time'] = dados['Time'].str.replace(' ', '')
-
                     # separando o placar em duas colunas (casa/visitante)
                     divisao1_placar = dados["Placar"].str.split(" x ")
                     placar_casa = divisao1_placar.str.get(0)
@@ -367,7 +357,6 @@ for x in lista_de_temporadas:
                     # acontece erro por conta de nomes com siglas ai eu preciso substituir
                     nome_casa_of = nome_casa_of.replace('/', ' ')
                     nome_fora_of = nome_fora_of.replace('/', ' ')
-                ########################################################################################################
                 dados.to_csv(
                     "Dados01/temporada " + f"{temporada}""/" + "tabela_" + f"{numero_jogo}" + "_" + nome_casa_of + "_x_" + nome_fora_of + ".csv")
                 nome_inf_coluna = nome_casa_of + "_x_" + nome_fora_of
@@ -375,7 +364,6 @@ for x in lista_de_temporadas:
                 tabela_geral = pd.concat([dados, tabela_geral], axis=0)
                 driver.quit()
                 numero_jogo += 1
-########################################################################################################################
             elif erro_na_pagina02 == 'Fatal error':
                 print(f'Essa página {i} não está funcionando')
                 lista_falha.append(i)
@@ -391,7 +379,6 @@ for x in lista_de_temporadas:
     list_sites_falha = pd.DataFrame(lista_falha)
     list_sites_falha.to_csv('Dados01/temporada ' + f'{temporada}' + '/falha_' + f'{temporada}' + '.csv')
     l2 = pd.concat([list_sites_falha, l2], axis=0)
-
     # zera informações das temporadas
     tabela_geral = pd.DataFrame([])
     list_sites_funciona = []

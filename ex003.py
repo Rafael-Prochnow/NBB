@@ -8,32 +8,7 @@ from selenium.webdriver.firefox.options import Options
 import datetime as dt
 
 
-
-
-
-
-# print(len(l1))
-# print(len(l2))
-# retorna uma tabela geral
-
-#
-
-
-#list_sites_funciona = []
-#list_sites_falha = []
-#l1 = pd.DataFrame([])
-#l2 = pd.DataFrame([])
-
-# retorna uma tabela funciona/falha para cada temoporada
-l1_cada_temporada = pd.DataFrame([])
-l2_cada_temporada = pd.DataFrame([])
-l1_cada_temporada = l1
-l2_cada_temporada = l2
-l1_cada_temporada.to_csv('Dados01/temporada ' + f'{temporada}' + '/funcionado_' + f'{temporada}' + '.csv')
-l2_cada_temporada.to_csv('Dados01/temporada ' + f'{temporada}' + '/falha_' + f'{temporada}' + '.csv')
-'''
-# teste
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=41&wherePlaying=-1&played=-1')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=54')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
@@ -45,6 +20,7 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
+del(list_inoutControl[:107])
 print(list_inoutControl)
 
 ########################################################################################################################
@@ -111,57 +87,57 @@ c = Indicador03.str.translate({ord(c): "" for c in ".!_+"})
 
 c = c.apply(lambda x: re.sub("(Fim  do quarto quarto|Fim  do terceiro quarto|"
                              "Fim  do segundo quarto|Fim  do primeiro quarto|"
-                             "Fim  do período de prorragação)", "1/fim_quarto;", x))
+                             "Fim  do período de prorragação)", "1>fim_quarto;", x))
 
 c = c.apply(lambda x: re.sub("(Início do  quarto quarto|Início do  terceiro quarto|"
                              "Início do  segundo quarto|Início do  de período de prorragação)"
-                             , "1/inicio_quarto;", x))
+                             , "1>inicio_quarto;", x))
 
-c = c.str.replace('Fim de partida', '1/fim_partida;')
-c = c.str.replace('Início de partida', '1/inicio_partida;')
+c = c.str.replace('Fim de partida', '1>fim_partida;')
+c = c.str.replace('Início de partida', '1>inicio_partida;')
 
 # esses são os valores que estão os indicadores
 c = c.str.replace('É de três ', '')
-c = c.str.replace(' acerta arremesso de três pontos', '/3_Pts_C;1')
-c = c.str.replace(' erra tentativa para três pontos', '/3_Pts_T;1')
+c = c.str.replace(' acerta arremesso de três pontos', '>3_Pts_C;1')
+c = c.str.replace(' erra tentativa para três pontos', '>3_Pts_T;1')
 # lance livre
-c = c.str.replace(' acerta o lance livre', '/LL_Pts_C;1')
-c = c.str.replace(' erra o lance livre', '/LL_Pts_T;1')
+c = c.str.replace(' acerta o lance livre', '>LL_Pts_C;1')
+c = c.str.replace(' erra o lance livre', '>LL_Pts_T;1')
 # Dois pontos
-c = c.str.replace(' acerta arremesso de dois pontos', '/2_Pts_C;1')
-c = c.str.replace(' erra tentativa para dois pontos', '/2_Pts_T;1')
+c = c.str.replace(' acerta arremesso de dois pontos', '>2_Pts_C;1')
+c = c.str.replace(' erra tentativa para dois pontos', '>2_Pts_T;1')
 # rebotes
-c = c.str.replace(' pega rebote defensivo', '/RD;1')
-c = c.str.replace(' pega rebote ofensivo', '/RO;1')
+c = c.str.replace(' pega rebote defensivo', '>RD;1')
+c = c.str.replace(' pega rebote ofensivo', '>RO;1')
 
 
 # recuperação de bola
-c = c.str.replace(' recupera a bola', '/BR;1')
+c = c.str.replace(' recupera a bola', '>BR;1')
 # assistencia
-c = c.str.replace('Assistência do ', '/AS;')
+c = c.str.replace('Assistência do ', '>AS;')
 # faltas recebidas
-c = c.str.replace(' sofre falta', '/FR;1')
+c = c.str.replace(' sofre falta', '>FR;1')
 # faltas cometidas
-c = c.str.replace(' comete falta técnica', '/FC_T;1')
-c = c.str.replace(' comete falta antidesportiva', '/FC_A;1')
-c = c.str.replace(' comete falta ofensiva', '/FC_O;1')
-c = c.str.replace(' comete falta desqualificante', '/FC_D;1')
-c = c.str.replace(' comete falta', '/FC;1')
+c = c.str.replace(' comete falta técnica', '>FC_T;1')
+c = c.str.replace(' comete falta antidesportiva', '>FC_A;1')
+c = c.str.replace(' comete falta ofensiva', '>FC_O;1')
+c = c.str.replace(' comete falta desqualificante', '>FC_D;1')
+c = c.str.replace(' comete falta', '>FC;1')
 # substituição
-c = c.str.replace('Entra ', '/substituicao_entra;')
-c = c.str.replace('Sai ', '/substituicao_sai;')
+c = c.str.replace('Entra ', '>substituicao_entra;')
+c = c.str.replace('Sai ', '>substituicao_sai;')
 # tocos
-c = c.str.replace(' dá um toco', '/TO;1')
+c = c.str.replace(' dá um toco', '>TO;1')
 # tempo técnico
 c = c.str.replace('Técnico da equipe ', '')
-c = c.str.replace(' pede tempo', '/tempo_tecnico;')
+c = c.str.replace(' pede tempo', '>tempo_tecnico;')
 # erros
 c = c.apply(lambda x: re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
                              " comete violação de saída de quadra| comete violação de volta de quadra|"
-                             " comete violação de condução)", "/ER;1", x))
+                             " comete violação de condução| comete violação de 3s no garrafão)", ">ER;1", x))
 # cravada
 c = c.str.replace('Cravada', '')
-c = c.str.replace(' acerta enterrada', '/EN;1')
+c = c.str.replace(' acerta enterrada', '>EN;1')
 
 # falta técnica para treinador
 c = c.str.replace('Técnico do ', '')
@@ -179,7 +155,7 @@ mudados_02 = mudados_00.str.get(0)
 alinhados = mudados_01 + mudados_02
 # agora que juntou e alinhou os nomes
 # organizar novamente
-alinhados_01 = alinhados.str.split('/')
+alinhados_01 = alinhados.str.split('>')
 alinhados_02 = alinhados_01.str.get(0)
 alinhados_03 = alinhados_01.str.get(1)
 
@@ -285,4 +261,3 @@ nome_fora_of = nome_fora_of.replace('/', ' ')
 
 # se ER não tiver ninguém é pq foi estouro de 24s
 dados.to_csv('parte_3.csv')
-'''

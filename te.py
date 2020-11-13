@@ -117,51 +117,52 @@ c = c.translate({ord(c): "" for c in ".!_+"})
 # depois de ajustar os espaços eu substititui os indicadores por nomes padronizados
 c = re.sub("(Fim  do quarto quarto|Fim  do terceiro quarto|"
             "Fim  do segundo quarto|Fim  do primeiro quarto|"
-            "Fim  do período de prorragação)", ";1/fim_quarto;", c)
+            "Fim  do período de prorragação)", ";1>fim_quarto;", c)
 
 c = re.sub("(Início do  quarto quarto|Início do  terceiro quarto|"
-            "Início do  segundo quarto|Início do  de período de prorragação)", ";1/inicio_quarto;", c)
+            "Início do  segundo quarto|Início do  de período de prorragação)", ";1>inicio_quarto;", c)
 
-c = c.replace('Fim de partida', ';1/fim_partida;')
-c = c.replace('Início de partida', ';1/inicio_partida;')
+c = c.replace('Fim de partida', ';1>fim_partida;')
+c = c.replace('Início de partida', ';1>inicio_partida;')
 
 # esses são os valores que estão os indicadores
-c = c.replace('acerta arremesso de três pontos', '/3_Pts_C;1')
-c = c.replace('erra tentativa para três pontos', '/3_Pts_T;1')
+c = c.replace('acerta arremesso de três pontos', '>3_Pts_C;1')
+c = c.replace('erra tentativa para três pontos', '>3_Pts_T;1')
 # lance livre
-c = c.replace('acerta o lance livre', '/LL_Pts_C;1')
-c = c.replace('erra o lance livre', '/LL_Pts_T;1')
+c = c.replace('acerta o lance livre', '>LL_Pts_C;1')
+c = c.replace('erra o lance livre', '>LL_Pts_T;1')
 # Dois pontos
-c = c.replace('acerta arremesso de dois pontos', '/2_Pts_C;1')
-c = c.replace('erra tentativa para dois pontos', '/2_Pts_T;1')
+c = c.replace('acerta arremesso de dois pontos', '>2_Pts_C;1')
+c = c.replace('erra tentativa para dois pontos', '>2_Pts_T;1')
 # rebotes
-c = c.replace('pega rebote defensivo', '/RD;1')
-c = c.replace('pega rebote ofensivo', '/RO;1')
+c = c.replace('pega rebote defensivo', '>RD;1')
+c = c.replace('pega rebote ofensivo', '>RO;1')
 # recuperação de bola
-c = c.replace('recupera a bola', '/BR;1')
+c = c.replace('recupera a bola', '>BR;1')
 # assistencia
-c = c.replace('Assistência do ', '/AS;')
+c = c.replace('Assistência do ', '>AS;')
 # faltas recebidas
-c = c.replace('sofre falta', '/FR;1')
+c = c.replace('sofre falta', '>FR;1')
 
 # faltas cometidas
-c = c.replace('comete falta técnica', '/FC_T;1')
-c = c.replace('comete falta antidesportiva', '/FC_A;1')
-c = c.replace('comete falta ofensiva', '/FC_O;1')
-c = c.replace('comete falta desqualificante', '/FC_D;1')
-c = c.replace('comete falta', '/FC;1')
+c = c.replace('comete falta técnica', '>FC_T;1')
+c = c.replace('comete falta antidesportiva', '>FC_A;1')
+c = c.replace('comete falta ofensiva', '>FC_O;1')
+c = c.replace('comete falta desqualificante', '>FC_D;1')
+c = c.replace('comete falta', '>FC;1')
 # substituição
-c = c.replace('Entra ', '1/substituicao_entra;')
-c = c.replace('Sai ', '1/substituicao_sai;')
+c = c.replace('Entra ', '1>substituicao_entra;')
+c = c.replace('Sai ', '1>substituicao_sai;')
 # tocos
-c = c.replace('dá um toco', '/TO;1')
+c = c.replace('dá um toco', '>TO;1')
 # tempo técnico
-c = c.replace('pede tempo', '/tempo_tecnico;')
+c = c.replace('pede tempo', '>tempo_tecnico;')
 # erros
 c = re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
-           " comete violação de saída de quadra| comete violação de volta de quadra|  comete violação de condução)", "/ER;1", c)
+           " comete violação de saída de quadra| comete violação de volta de quadra|"
+           " comete violação de condução)", ">ER;1", c)
 # cravada
-c = c.replace('acerta enterrada', '1/EN;1')
+c = c.replace('acerta enterrada', '1>EN;1')
 
 # tirar os parenteses
 c = c.replace(' (', ';')
@@ -193,7 +194,7 @@ dados['Placar'] = separar_04
 dados.drop('inf1', axis=1, inplace=True)
 
 alinhados = dados['inf2']
-alinhados_01 = alinhados.str.split('/')
+alinhados_01 = alinhados.str.split('>')
 alinhados_02 = alinhados_01.str.get(0)
 alinhados_03 = alinhados_01.str.get(1)
 mudado = dados['inf3']

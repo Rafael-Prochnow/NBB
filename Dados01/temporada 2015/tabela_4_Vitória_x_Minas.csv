@@ -1,0 +1,475 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,76,66, ,fim_partida,
+1,4,00:04,76,66,MIN,2_Pts_C,Pedro Macedo
+2,4,00:14,76,64,MIN,RO,Pedro Macedo
+3,4,00:14,76,64,MIN,3_Pts_T,Sosa
+4,4,00:29,76,64,VIT,LL_Pts_C,Kojo
+5,4,00:29,75,64,VIT,LL_Pts_T,Kojo
+6,4,00:29,75,64,VIT,substituicao_entra,Nilson
+7,4,00:29,75,64,VIT,substituicao_sai,Calvo
+8,4,00:29,75,64,MIN,substituicao_entra,Sosa
+9,4,00:29,75,64,MIN,substituicao_sai,Coelho
+10,4,00:29,75,64,VIT,FR,Kojo
+11,4,00:29,75,64,MIN,FC,Coelho
+12,4,00:34,75,64,MIN,2_Pts_C,Léo Demétrio
+13,4,00:34,75,62,MIN,AS,Coelho
+14,4,00:42,75,62,VIT,LL_Pts_C,Kojo
+15,4,00:42,74,62,VIT,LL_Pts_T,Kojo
+16,4,00:42,74,62,VIT,substituicao_entra,Tiago
+17,4,00:42,74,62,VIT,substituicao_sai,Edu
+18,4,00:42,74,62,VIT,FR,Kojo
+19,4,00:42,74,62,MIN,FC,Pitico
+20,4,00:55,74,62,VIT,BR,Jason Smith
+21,4,00:55,74,62,MIN,ER,Pitico
+22,4,01:13,74,62,VIT,2_Pts_C,Edu
+23,4,01:13,72,62,VIT,AS,Jason Smith
+24,4,01:29,72,62,MIN,3_Pts_C,Pedro Macedo
+25,4,01:29,72,59,MIN,AS,Pitico
+26,4,01:30,72,59,MIN,tempo_tecnico,Minas
+27,4,01:30,72,59,MIN,,
+28,4,01:30,72,59,VIT,ER,Kojo
+29,4,01:31,72,59,MIN,LL_Pts_C,Siqueira
+30,4,01:31,72,58,MIN,LL_Pts_C,Siqueira
+31,4,01:31,72,57,MIN,FR,Siqueira
+32,4,01:31,72,57,VIT,FC,Edu
+33,4,02:00,72,57,MIN,RD,Pitico
+34,4,02:00,72,57,MIN,TO,Siqueira
+35,4,02:00,72,57,VIT,2_Pts_T,Edu
+36,4,02:18,72,57,MIN,LL_Pts_C,Pedro Macedo
+37,4,02:18,72,56,MIN,LL_Pts_C,Pedro Macedo
+38,4,02:18,72,55,MIN,substituicao_sai,Sosa
+39,4,02:18,72,55,MIN,substituicao_entra,Coelho
+40,4,02:18,72,55,MIN,FR,Pedro Macedo
+41,4,02:18,72,55,VIT,FC,Calvo
+42,4,02:25,72,55,MIN,RO,Pedro Macedo
+43,4,02:25,72,55,MIN,3_Pts_T,Sosa
+44,4,02:34,72,55,MIN,RO,Pitico
+45,4,02:34,72,55,MIN,3_Pts_T,Sosa
+46,4,02:43,72,55,MIN,substituicao_sai,Coelho
+47,4,02:43,72,55,MIN,substituicao_entra,Sosa
+48,4,02:48,72,55,MIN,tempo_tecnico,Minas
+49,4,02:48,72,55,VIT,3_Pts_C,Jason Smith
+50,4,03:13,69,55,VIT,FR,Jason Smith
+51,4,03:13,69,55,MIN,FC,Coelho
+52,4,03:17,69,55,VIT,FR,Calvo
+53,4,03:17,69,55,MIN,FC,Pitico
+54,4,03:32,69,55,VIT,BR,Kojo
+55,4,03:32,69,55,MIN,ER,Coelho
+56,4,03:38,69,55,VIT,2_Pts_C,Edu
+57,4,03:38,67,55,MIN,LL_Pts_C,Siqueira
+58,4,03:38,67,54,MIN,LL_Pts_C,Siqueira
+59,4,03:38,67,53,MIN,substituicao_entra,Pitico
+60,4,03:38,67,53,MIN,substituicao_sai,Sosa
+61,4,03:40,67,53,MIN,FR,Siqueira
+62,4,03:40,67,53,VIT,FC,Calvo
+63,4,04:07,67,53,VIT,2_Pts_C,Renan
+64,4,04:07,65,53,VIT,AS,Edu
+65,4,04:27,65,53,MIN,2_Pts_C,Léo Demétrio
+66,4,04:32,65,51,MIN,RO,Léo Demétrio
+67,4,04:32,65,51,MIN,3_Pts_T,Pedro Macedo
+68,4,04:51,65,51,VIT,3_Pts_C,Jason Smith
+69,4,04:51,62,51,VIT,AS,Kojo
+70,4,04:52,62,51,VIT,FR,Renan
+71,4,04:52,62,51,MIN,FC,Siqueira
+72,4,05:05,62,51,MIN,AS,Sosa
+73,4,05:05,62,51,MIN,LL_Pts_C,Léo Demétrio
+74,4,05:08,62,50,MIN,2_Pts_C,Léo Demétrio
+75,4,05:08,62,48,MIN,FR,Léo Demétrio
+76,4,05:08,62,48,VIT,FC,Jason Smith
+77,4,05:15,62,48,MIN,RD,Pedro Macedo
+78,4,05:15,62,48,VIT,2_Pts_T,Jason Smith
+79,4,05:16,62,48,MIN,substituicao_sai,Shilton
+80,4,05:16,62,48,MIN,substituicao_entra,Léo Demétrio
+81,4,05:16,62,48,VIT,FR,Renan
+82,4,05:16,62,48,MIN,FC,Shilton
+83,4,05:31,62,48,VIT,RD,Renan
+84,4,05:31,62,48,MIN,LL_Pts_T,Shilton
+85,4,05:31,62,48,MIN,LL_Pts_C,Shilton
+86,4,05:31,62,47,VIT,substituicao_entra,Renan
+87,4,05:31,62,47,VIT,substituicao_sai,Feliz
+88,4,05:31,62,47,MIN,FR,Shilton
+89,4,05:31,62,47,VIT,FC,Feliz
+90,4,05:47,62,47,VIT,3_Pts_C,Jason Smith
+91,4,06:02,59,47,VIT,tempo_tecnico,Vitória
+92,4,06:02,59,47,MIN,substituicao_sai,Ansaloni
+93,4,06:02,59,47,MIN,substituicao_entra,Pedro Macedo
+94,4,06:08,59,47,MIN,2_Pts_C,Coelho
+95,4,06:14,59,45,MIN,RO,Coelho
+96,4,06:14,59,45,MIN,3_Pts_T,Coelho
+97,4,06:28,59,45,MIN,RD,Ansaloni
+98,4,06:28,59,45,VIT,2_Pts_T,Jason Smith
+99,4,06:53,59,45,MIN,2_Pts_C,Siqueira
+100,4,06:53,59,43,MIN,AS,Coelho
+101,4,07:02,59,43,MIN,RD,Coelho
+102,4,07:02,59,43,VIT,2_Pts_T,Calvo
+103,4,07:16,59,43,VIT,,
+104,4,07:16,59,43,MIN,ER,Ansaloni
+105,4,07:24,59,43,MIN,RO,Ansaloni
+106,4,07:24,59,43,MIN,3_Pts_T,Siqueira
+107,4,07:43,59,43,MIN,FR,Coelho
+108,4,07:43,59,43,VIT,FC_O,Kojo
+109,4,08:05,59,43,MIN,3_Pts_C,Coelho
+110,4,08:05,59,40,MIN,AS,Sosa
+111,4,08:27,59,40,VIT,3_Pts_C,Calvo
+112,4,08:27,56,40,VIT,AS,Jason Smith
+113,4,08:33,56,40,MIN,LL_Pts_C,Coelho
+114,4,08:33,56,39,MIN,LL_Pts_C,Coelho
+115,4,08:36,56,38,MIN,FR,Coelho
+116,4,08:36,56,38,VIT,FC,Feliz
+117,4,08:50,56,38,MIN,substituicao_sai,Léo Demétrio
+118,4,08:50,56,38,MIN,substituicao_entra,Shilton
+119,4,08:50,56,38,MIN,FR,Siqueira
+120,4,08:50,56,38,VIT,FC,Edu
+121,4,09:06,56,38,VIT,3_Pts_C,Jason Smith
+122,4,09:30,53,38,MIN,ER,Ansaloni
+123,4,09:33,53,38,VIT,,
+124,4,09:33,53,38,MIN,FR,Siqueira
+125,4,09:33,53,38,VIT,FC,Jason Smith
+126,4,09:45,53,38,VIT,2_Pts_C,Edu
+127,4,09:45,51,38,VIT,AS,Jason Smith
+128,3,00:00,51,38, ,fim_quarto,
+129,3,00:01,51,38,MIN,3_Pts_T,Siqueira
+130,3,00:03,51,38,MIN,FR,Siqueira
+131,3,00:03,51,38,VIT,FC,Edu
+132,3,00:25,51,38,MIN,RD,Ansaloni
+133,3,00:25,51,38,VIT,3_Pts_T,Calvo
+134,3,00:40,51,38,MIN,2_Pts_C,Coelho
+135,3,00:40,51,36,MIN,AS,Siqueira
+136,3,00:45,51,36,MIN,BR,Siqueira
+137,3,00:45,51,36,VIT,ER,Edu
+138,3,00:59,51,36,MIN,2_Pts_C,Ansaloni
+139,3,01:07,51,34,MIN,RO,Ansaloni
+140,3,01:07,51,34,MIN,3_Pts_T,Siqueira
+141,3,01:21,51,34,VIT,2_Pts_C,Edu
+142,3,01:32,49,34,MIN,ER,
+143,3,01:52,49,34,MIN,substituicao_entra,Ansaloni
+144,3,01:52,49,34,MIN,substituicao_sai,Shilton
+145,3,01:52,49,34,MIN,FR,Siqueira
+146,3,01:52,49,34,VIT,FC,Rafinha
+147,3,01:56,49,34,VIT,substituicao_entra,Taddei
+148,3,01:56,49,34,VIT,substituicao_sai,Jason Smith
+149,3,01:56,49,34,VIT,substituicao_entra,Renan
+150,3,01:56,49,34,VIT,substituicao_sai,Feliz
+151,3,01:56,49,34,VIT,substituicao_entra,Rafinha
+152,3,01:56,49,34,VIT,substituicao_sai,Kojo
+153,3,01:56,49,34,MIN,FR,Pitico
+154,3,01:56,49,34,VIT,FC,Kojo
+155,3,02:09,49,34,MIN,RD,Pitico
+156,3,02:09,49,34,VIT,3_Pts_T,Kojo
+157,3,02:36,49,34,VIT,RD,Edu
+158,3,02:36,49,34,MIN,2_Pts_T,Shilton
+159,3,03:02,49,34,VIT,3_Pts_C,Edu
+160,3,03:02,46,34,VIT,AS,Kojo
+161,3,03:25,46,34,VIT,BR,Calvo
+162,3,03:25,46,34,MIN,ER,Coelho
+163,3,03:27,46,34,MIN,FR,Coelho
+164,3,03:27,46,34,VIT,FC,Kojo
+165,3,03:29,46,34,MIN,substituicao_entra,Léo Demétrio
+166,3,03:29,46,34,MIN,substituicao_sai,Pedro Macedo
+167,3,03:37,46,34,VIT,2_Pts_C,Kojo
+168,3,03:37,44,34,VIT,AS,Edu
+169,3,03:41,44,34,VIT,RO,Edu
+170,3,03:41,44,34,VIT,LL_Pts_T,Kojo
+171,3,03:41,44,34,VIT,LL_Pts_C,Kojo
+172,3,03:45,43,34,VIT,FR,Kojo
+173,3,03:45,43,34,MIN,FC,Pedro Macedo
+174,3,03:55,43,34,VIT,RO,Kojo
+175,3,03:55,43,34,VIT,2_Pts_T,Jason Smith
+176,3,04:13,43,34,MIN,3_Pts_C,Coelho
+177,3,04:17,43,31,MIN,substituicao_sai,Sosa
+178,3,04:17,43,31,MIN,substituicao_entra,Shilton
+179,3,04:17,43,31,MIN,substituicao_sai,Ansaloni
+180,3,04:17,43,31,MIN,substituicao_entra,Pitico
+181,3,04:17,43,31,VIT,LL_Pts_C,Calvo
+182,3,04:17,42,31,VIT,FR,Calvo
+183,3,04:17,42,31,MIN,FC,Coelho
+184,3,04:17,42,31,VIT,2_Pts_C,Calvo
+185,3,04:17,40,31,VIT,AS,Edu
+186,3,04:31,40,31,VIT,RD,Edu
+187,3,04:31,40,31,MIN,2_Pts_T,Sosa
+188,3,04:45,40,31,MIN,RO,Minas
+189,3,04:45,40,31,MIN,2_Pts_T,Ansaloni
+190,3,04:54,40,31,MIN,RO,Minas
+191,3,04:54,40,31,MIN,3_Pts_T,Sosa
+192,3,05:14,40,31,VIT,2_Pts_C,Kojo
+193,3,05:14,38,31,VIT,AS,Edu
+194,3,05:26,38,31,VIT,RD,Vitória
+195,3,05:26,38,31,MIN,2_Pts_T,Ansaloni
+196,3,05:35,38,31,MIN,substituicao_sai,Shilton
+197,3,05:35,38,31,MIN,substituicao_entra,Pedro Macedo
+198,3,05:47,38,31,MIN,tempo_tecnico,Minas
+199,3,05:47,38,31,VIT,3_Pts_C,Edu
+200,3,05:47,35,31,VIT,AS,Jason Smith
+201,3,06:11,35,31,VIT,RD,Vitória
+202,3,06:11,35,31,MIN,2_Pts_T,Siqueira
+203,3,06:36,35,31,VIT,2_Pts_C,Jason Smith
+204,3,06:40,33,31,VIT,BR,Jason Smith
+205,3,06:40,33,31,MIN,ER,Coelho
+206,3,06:58,33,31,VIT,LL_Pts_C,Calvo
+207,3,07:10,32,31,VIT,2_Pts_C,Calvo
+208,3,07:10,30,31,VIT,FR,Calvo
+209,3,07:10,30,31,MIN,FC,Ansaloni
+210,3,07:17,30,31,MIN,AS,Shilton
+211,3,07:17,30,31,MIN,2_Pts_C,Ansaloni
+212,3,07:17,30,29,VIT,substituicao_entra,Edu
+213,3,07:17,30,29,VIT,substituicao_sai,Renan
+214,3,07:17,30,29,MIN,substituicao_sai,Léo Demétrio
+215,3,07:17,30,29,MIN,substituicao_entra,Ansaloni
+216,3,07:25,30,29,MIN,RD,Shilton
+217,3,07:25,30,29,VIT,2_Pts_T,Kojo
+218,3,07:48,30,29,MIN,2_Pts_C,Léo Demétrio
+219,3,07:48,30,27,MIN,AS,Coelho
+220,3,08:01,30,27,VIT,2_Pts_C,Jason Smith
+221,3,08:27,28,27,MIN,2_Pts_C,Shilton
+222,3,08:27,28,25,MIN,AS,Siqueira
+223,3,08:46,28,25,MIN,RD,Léo Demétrio
+224,3,08:46,28,25,VIT,LL_Pts_T,Feliz
+225,3,08:46,28,25,VIT,LL_Pts_T,Feliz
+226,3,08:46,28,25,MIN,substituicao_sai,Pitico
+227,3,08:46,28,25,MIN,substituicao_entra,Coelho
+228,3,08:49,28,25,VIT,FR,Feliz
+229,3,08:49,28,25,MIN,FC,Sosa
+230,3,08:55,28,25,VIT,RO,Feliz
+231,3,08:55,28,25,VIT,2_Pts_T,Calvo
+232,3,09:06,28,25,VIT,FR,Jason Smith
+233,3,09:06,28,25,MIN,FC,Pitico
+234,3,09:14,28,25,VIT,BR,Renan
+235,3,09:14,28,25,MIN,ER,Sosa
+236,3,09:19,28,25,MIN,RD,Léo Demétrio
+237,3,09:19,28,25,VIT,2_Pts_T,Renan
+238,3,09:33,28,25,VIT,RD,Feliz
+239,3,09:33,28,25,MIN,LL_Pts_T,Shilton
+240,3,09:33,28,25,MIN,AS,Coelho
+241,3,09:33,28,25,MIN,LL_Pts_C,Shilton
+242,3,09:33,28,24,MIN,substituicao_sai,Coelho
+243,3,09:33,28,24,MIN,substituicao_entra,Pitico
+244,3,09:43,28,24,MIN,FR,Shilton
+245,3,09:43,28,24,VIT,FC,Feliz
+246,2,00:00,28,24, ,fim_quarto,
+247,2,00:03,28,24,VIT,2_Pts_T,Rafinha
+248,2,00:10,28,24,MIN,2_Pts_C,Shilton
+249,2,00:10,28,22,MIN,AS,Sosa
+250,2,00:29,28,22,MIN,substituicao_sai,Panunzio
+251,2,00:29,28,22,MIN,substituicao_entra,Pedro Macedo
+252,2,00:29,28,22,VIT,substituicao_sai,Calvo
+253,2,00:29,28,22,VIT,substituicao_entra,Jairo
+254,2,00:35,28,22,MIN,tempo_tecnico,Minas
+255,2,00:35,28,22,VIT,2_Pts_C,Edu
+256,2,00:47,26,22,MIN,substituicao_sai,Coelho
+257,2,00:47,26,22,MIN,substituicao_entra,Sosa
+258,2,00:47,26,22,VIT,FR,Edu
+259,2,00:47,26,22,MIN,FC_O,Coelho
+260,2,01:05,26,22,MIN,RD,Shilton
+261,2,01:05,26,22,VIT,3_Pts_T,Calvo
+262,2,01:14,26,22,VIT,tempo_tecnico,Vitória
+263,2,01:14,26,22,VIT,FR,Jason Smith
+264,2,01:14,26,22,MIN,FC,Panunzio
+265,2,01:14,26,22,VIT,substituicao_entra,Rafinha
+266,2,01:14,26,22,VIT,substituicao_sai,Kojo
+267,2,01:14,26,22,VIT,substituicao_entra,Taddei
+268,2,01:14,26,22,VIT,substituicao_sai,Jason Smith
+269,2,01:29,26,22,VIT,RD,Kojo
+270,2,01:29,26,22,MIN,2_Pts_T,Shilton
+271,2,01:53,26,22,MIN,RD,Léo Demétrio
+272,2,01:53,26,22,VIT,3_Pts_T,Jason Smith
+273,2,01:57,26,22,MIN,LL_Pts_C,Siqueira
+274,2,01:57,26,21,MIN,LL_Pts_T,Siqueira
+275,2,01:57,26,21,MIN,FR,Siqueira
+276,2,01:57,26,21,VIT,FC,Jason Smith
+277,2,02:02,26,21,MIN,substituicao_entra,Léo Demétrio
+278,2,02:02,26,21,MIN,substituicao_sai,Ansaloni
+279,2,02:14,26,21,MIN,,
+280,2,02:14,26,21,VIT,ER,Jason Smith
+281,2,02:23,26,21,VIT,RD,Jason Smith
+282,2,02:23,26,21,MIN,2_Pts_T,Panunzio
+283,2,02:40,26,21,VIT,2_Pts_C,Kojo
+284,2,03:02,24,21,MIN,LL_Pts_C,Coelho
+285,2,03:02,24,20,MIN,LL_Pts_C,Coelho
+286,2,03:02,24,19,MIN,substituicao_sai,Sosa
+287,2,03:02,24,19,MIN,substituicao_entra,Panunzio
+288,2,03:06,24,19,MIN,FR,Coelho
+289,2,03:06,24,19,VIT,FC,Edu
+290,2,03:17,24,19,VIT,3_Pts_C,Jason Smith
+291,2,03:17,21,19,VIT,AS,Edu
+292,2,03:43,21,19,VIT,RD,Edu
+293,2,03:43,21,19,MIN,2_Pts_T,Sosa
+294,2,03:55,21,19,VIT,2_Pts_C,Calvo
+295,2,04:02,19,19,VIT,RD,Renan
+296,2,04:02,19,19,MIN,2_Pts_T,Siqueira
+297,2,04:10,19,19,MIN,BR,Coelho
+298,2,04:10,19,19,VIT,ER,Jason Smith
+299,2,04:23,19,19,VIT,RD,Vitória
+300,2,04:37,19,19,MIN,2_Pts_T,Ansaloni
+301,2,04:41,19,19,VIT,substituicao_entra,Edu
+302,2,04:41,19,19,VIT,substituicao_sai,Feliz
+303,2,04:41,19,19,VIT,substituicao_entra,Renan
+304,2,04:41,19,19,VIT,substituicao_sai,Jairo
+305,2,04:41,19,19,MIN,tempo_tecnico,Minas
+306,2,04:41,19,19,MIN,RO,Minas
+307,2,04:41,19,19,VIT,TO,Kojo
+308,2,04:41,19,19,MIN,2_Pts_T,Shilton
+309,2,04:53,19,19,MIN,RD,Minas
+310,2,04:53,19,19,VIT,3_Pts_T,Kojo
+311,2,05:09,19,19,VIT,RO,Jairo
+312,2,05:09,19,19,VIT,2_Pts_T,Jason Smith
+313,2,05:14,19,19,VIT,BR,Kojo
+314,2,05:14,19,19,MIN,ER,Shilton
+315,2,05:34,19,19,VIT,2_Pts_C,Calvo
+316,2,05:34,17,19,VIT,AS,Kojo
+317,2,05:35,17,19,VIT,RO,Vitória
+318,2,05:35,17,19,VIT,2_Pts_T,Calvo
+319,2,05:49,17,19,VIT,RD,Feliz
+320,2,05:49,17,19,MIN,2_Pts_T,Shilton
+321,2,06:06,17,19,VIT,ER,Jairo
+322,2,06:32,17,19,MIN,2_Pts_C,Ansaloni
+323,2,06:32,17,17,MIN,AS,Coelho
+324,2,06:38,17,17,VIT,substituicao_sai,Taddei
+325,2,06:38,17,17,VIT,substituicao_entra,Jason Smith
+326,2,06:38,17,17,VIT,substituicao_sai,Rafinha
+327,2,06:38,17,17,VIT,substituicao_entra,Kojo
+328,2,06:38,17,17,MIN,FR,Coelho
+329,2,06:38,17,17,VIT,FC,Rafinha
+330,2,06:45,17,17,MIN,RD,Coelho
+331,2,06:45,17,17,VIT,3_Pts_T,Rafinha
+332,2,07:06,17,17,VIT,RD,Taddei
+333,2,07:06,17,17,MIN,3_Pts_T,Sosa
+334,2,07:18,17,17,VIT,substituicao_entra,Feliz
+335,2,07:18,17,17,VIT,substituicao_sai,Jairo
+336,2,07:20,17,17,VIT,LL_Pts_C,Rafinha
+337,2,07:20,16,17,VIT,LL_Pts_C,Rafinha
+338,2,07:20,15,17,VIT,substituicao_sai,Renan
+339,2,07:20,15,17,VIT,substituicao_entra,Feliz
+340,2,07:20,15,17,VIT,substituicao_sai,Feliz
+341,2,07:20,15,17,VIT,substituicao_entra,Jairo
+342,2,07:21,15,17,VIT,FR,Rafinha
+343,2,07:21,15,17,MIN,FC,Ansaloni
+344,2,07:36,15,17,VIT,BR,Calvo
+345,2,07:36,15,17,MIN,ER,Shilton
+346,2,07:44,15,17,MIN,FR,Sosa
+347,2,07:44,15,17,VIT,FC,Taddei
+348,2,07:54,15,17,MIN,RD,Shilton
+349,2,07:54,15,17,VIT,2_Pts_T,Renan
+350,2,08:20,15,17,VIT,RD,Renan
+351,2,08:20,15,17,MIN,3_Pts_T,Siqueira
+352,2,08:46,15,17,VIT,2_Pts_C,Calvo
+353,2,09:04,13,17,VIT,RD,Jairo
+354,2,09:04,13,17,MIN,3_Pts_T,Coelho
+355,2,09:14,13,17,VIT,ER,Renan
+356,2,09:36,13,17,VIT,FR,Taddei
+357,2,09:36,13,17,MIN,FC,Coelho
+358,2,09:44,13,17,VIT,BR,Taddei
+359,2,09:44,13,17,MIN,ER,Siqueira
+360,2,09:53,13,17,MIN,RD,Siqueira
+361,2,09:53,13,17,VIT,3_Pts_T,Taddei
+362,1,00:00,13,17, ,fim_quarto,
+363,1,00:17,13,17,VIT,RD,Renan
+364,1,00:19,13,17,MIN,3_Pts_T,Siqueira
+365,1,00:23,13,17,MIN,substituicao_sai,Léo Demétrio
+366,1,00:23,13,17,MIN,substituicao_entra,Siqueira
+367,1,00:23,13,17,VIT,ER,Rafinha
+368,1,00:23,13,17,VIT,FR,Taddei
+369,1,00:23,13,17,MIN,FC,Rafael
+370,1,00:43,13,17,VIT,RD,Renan
+371,1,00:43,13,17,MIN,2_Pts_T,Léo Demétrio
+372,1,00:51,13,17,MIN,FR,Ansaloni
+373,1,00:51,13,17,VIT,FC,Rafinha
+374,1,01:02,13,17,MIN,,
+375,1,01:02,13,17,VIT,ER,Rafinha
+376,1,01:16,13,17,VIT,RO,Taddei
+377,1,01:16,13,17,VIT,2_Pts_T,Nilson
+378,1,01:34,13,17,MIN,2_Pts_C,Ansaloni
+379,1,01:34,13,15,MIN,AS,Coelho
+380,1,01:48,13,15,VIT,substituicao_entra,Renan
+381,1,01:48,13,15,VIT,substituicao_sai,Feliz
+382,1,01:59,13,15,MIN,RO,Minas
+383,1,02:17,13,15,MIN,3_Pts_T,Sosa
+384,1,02:29,13,15,VIT,3_Pts_C,Jairo
+385,1,02:29,10,15,VIT,AS,Taddei
+386,1,02:56,10,15,MIN,2_Pts_C,Coelho
+387,1,03:14,10,13,VIT,ER,Kojo
+388,1,03:20,10,13,VIT,BR,Kojo
+389,1,03:20,10,13,MIN,ER,Siqueira
+390,1,03:28,10,13,MIN,RD,Sosa
+391,1,03:29,10,13,VIT,3_Pts_T,Jairo
+392,1,03:39,10,13,MIN,ER,Pedro Macedo
+393,1,03:42,10,13,VIT,substituicao_entra,Rafinha
+394,1,03:42,10,13,VIT,substituicao_sai,Kojo
+395,1,03:42,10,13,MIN,substituicao_sai,Siqueira
+396,1,03:42,10,13,MIN,substituicao_entra,Coelho
+397,1,03:42,10,13,MIN,substituicao_sai,Pedro Macedo
+398,1,03:42,10,13,MIN,substituicao_entra,Rafael
+399,1,03:42,10,13,MIN,,
+400,1,03:42,10,13,VIT,substituicao_sai,Renan
+401,1,03:42,10,13,VIT,substituicao_entra,Nilson
+402,1,03:42,10,13,MIN,FR,Siqueira
+403,1,03:42,10,13,VIT,FC,Jairo
+404,1,03:44,10,13,VIT,2_Pts_C,Taddei
+405,1,03:45,8,13,VIT,AS,Kojo
+406,1,03:49,8,13,VIT,RD,Jairo
+407,1,03:50,8,13,MIN,3_Pts_T,Léo Demétrio
+408,1,03:55,8,13,VIT,ER,
+409,1,04:19,8,13,MIN,EN,Léo Demétrio
+410,1,04:20,8,11,MIN,AS,Pedro Macedo
+411,1,04:29,8,11,MIN,RD,Siqueira
+412,1,04:30,8,11,VIT,3_Pts_T,Calvo
+413,1,04:39,8,11,MIN,2_Pts_C,Siqueira
+414,1,04:40,8,9,MIN,AS,Coelho
+415,1,04:47,8,9,MIN,RD,Léo Demétrio
+416,1,04:48,8,9,VIT,3_Pts_T,Renan
+417,1,04:51,8,9,MIN,substituicao_sai,Shilton
+418,1,04:51,8,9,MIN,substituicao_entra,Ansaloni
+419,1,04:51,8,9,MIN,substituicao_sai,Coelho
+420,1,04:51,8,9,MIN,substituicao_entra,Sosa
+421,1,04:51,8,9,VIT,substituicao_sai,Calvo
+422,1,04:51,8,9,VIT,substituicao_entra,Taddei
+423,1,04:51,8,9,VIT,substituicao_sai,Jason Smith
+424,1,04:51,8,9,VIT,substituicao_entra,Jairo
+425,1,04:51,8,9,VIT,FR,Feliz
+426,1,04:51,8,9,MIN,FC,Léo Demétrio
+427,1,05:00,8,9,MIN,LL_Pts_T,Léo Demétrio
+428,1,05:00,8,9,MIN,LL_Pts_T,Léo Demétrio
+429,1,05:01,8,9,VIT,tempo_tecnico,Vitória
+430,1,05:01,8,9,MIN,FR,Léo Demétrio
+431,1,05:01,8,9,VIT,FC,Renan
+432,1,05:07,8,9,VIT,RD,Calvo
+433,1,05:13,8,9,MIN,BR,Siqueira
+434,1,05:13,8,9,VIT,ER,Calvo
+435,1,05:43,8,9,MIN,2_Pts_C,Siqueira
+436,1,05:43,8,7,MIN,AS,Coelho
+437,1,05:49,8,7,MIN,RD,Pedro Macedo
+438,1,05:49,8,7,VIT,3_Pts_T,Jason Smith
+439,1,06:12,8,7,MIN,2_Pts_C,Léo Demétrio
+440,1,06:12,8,5,MIN,AS,Coelho
+441,1,06:18,8,5,MIN,BR,Shilton
+442,1,06:18,8,5,VIT,ER,Calvo
+443,1,06:36,8,5,VIT,RD,Kojo
+444,1,06:36,8,5,MIN,3_Pts_T,Léo Demétrio
+445,1,07:20,8,5,MIN,,
+446,1,07:20,8,5,VIT,ER,Calvo
+447,1,08:28,8,5,MIN,2_Pts_C,Léo Demétrio
+448,1,08:46,8,3,VIT,2_Pts_C,Kojo
+449,1,08:46,6,3,VIT,AS,Feliz
+450,1,08:50,6,3,VIT,RD,Renan
+451,1,08:50,6,3,MIN,3_Pts_T,Siqueira
+452,1,08:58,6,3,VIT,EN,Feliz
+453,1,08:58,4,3,VIT,AS,Renan
+454,1,09:01,4,3,VIT,RO,Kojo
+455,1,09:02,4,3,VIT,3_Pts_T,Jason Smith
+456,1,09:04,4,3,VIT,RO,Feliz
+457,1,09:04,4,3,VIT,2_Pts_T,Kojo
+458,1,09:06,4,3,MIN,3_Pts_C,Pedro Macedo
+459,1,09:06,4,0,MIN,AS,Léo Demétrio
+460,1,09:08,4,0,VIT,2_Pts_C,Jason Smith
+461,1,09:08,2,0,VIT,AS,Calvo
+462,1,09:13,2,0,MIN,ER,Léo Demétrio
+463,1,09:40,2,0,VIT,2_Pts_C,Jason Smith
+464,1,10:00,0,0,MIN,substituicao_entra,Siqueira
+465,1,10:00,0,0,MIN,substituicao_entra,Pedro Macedo
+466,1,10:00,0,0,MIN,substituicao_entra,Léo Demétrio
+467,1,10:00,0,0,MIN,substituicao_entra,Coelho
+468,1,10:00,0,0,MIN,substituicao_entra,Shilton
+469,1,10:00,0,0,VIT,substituicao_entra,Renan
+470,1,10:00,0,0,VIT,substituicao_entra,Feliz
+471,1,10:00,0,0,VIT,substituicao_entra,Calvo
+472,1,10:00,0,0,VIT,substituicao_entra,Jason Smith
+473,1,10:00,0,0,VIT,substituicao_entra,Kojo

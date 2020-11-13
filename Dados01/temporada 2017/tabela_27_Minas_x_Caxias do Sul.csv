@@ -1,0 +1,559 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,86,84,,fim_partida,
+1,5,00:02,86,84,CAX,2_Pts_T,Alex
+2,5,00:03,86,84,MIN,substituicao_entra,Teichmann
+3,5,00:03,86,84,MIN,substituicao_sai,Gegê
+4,5,00:03,86,84,CAX,substituicao_entra,Pedro
+5,5,00:03,86,84,CAX,substituicao_sai,Paranhos
+6,5,00:03,86,84,CAX,tempo_tecnico,Caxias do Sul
+7,5,00:03,86,84,MIN,AS,Roquemore
+8,5,00:03,86,84,MIN,3_Pts_C,Gegê
+9,5,00:23,83,84,MIN,RD,Gegê
+10,5,00:26,83,84,CAX,3_Pts_T,Cauê V
+11,5,00:27,83,84,CAX,RO,Paranhos
+12,5,00:30,83,84,CAX,2_Pts_T,Cafferata
+13,5,00:51,83,84,MIN,AS,Gegê
+14,5,00:51,83,84,MIN,2_Pts_C,Wesley
+15,5,01:03,81,84,CAX,LL_Pts_C,Cauê B
+16,5,01:03,81,83,CAX,substituicao_entra,Paranhos
+17,5,01:03,81,83,CAX,substituicao_sai,Pedro
+18,5,01:03,81,83,CAX,FR,Cauê B
+19,5,01:03,81,83,MIN,FC,Wesley
+20,5,01:03,81,83,CAX,AS,Pedro
+21,5,01:03,81,83,CAX,EN,Cauê B
+22,5,01:07,81,81,CAX,BR,Pedro
+23,5,01:07,81,81,MIN,ER,Gegê
+24,5,01:19,81,81,MIN,RD,Roquemore
+25,5,01:24,81,81,MIN,TO,Roquemore
+26,5,01:24,81,81,CAX,2_Pts_T,Cauê B
+27,5,01:35,81,81,CAX,substituicao_entra,Pedro
+28,5,01:35,81,81,CAX,substituicao_sai,Paranhos
+29,5,01:35,81,81,MIN,ER,
+30,5,01:35,81,81,MIN,3_Pts_T,Gegê
+31,5,01:59,81,81,MIN,BR,Roquemore
+32,5,01:59,81,81,CAX,ER,Cauê V
+33,5,02:17,81,81,CAX,BR,Cauê B
+34,5,02:17,81,81,MIN,ER,Gegê
+35,5,02:35,81,81,CAX,substituicao_entra,Paranhos
+36,5,02:35,81,81,CAX,substituicao_sai,Marcão
+37,5,02:35,81,81,MIN,FR,Wesley
+38,5,02:35,81,81,CAX,ER,Marcão
+39,5,02:35,81,81,CAX,FC_O,Marcão
+40,5,02:46,81,81,CAX,RO,Alex
+41,5,02:48,81,81,CAX,3_Pts_T,Cauê B
+42,5,03:08,81,81,MIN,2_Pts_C,Wesley
+43,5,03:12,79,81,MIN,RO,Wesley
+44,5,03:12,79,81,MIN,2_Pts_T,Roquemore
+45,5,03:43,79,81,CAX,2_Pts_C,Cauê B
+46,5,03:52,79,79,CAX,RD,Marcão
+47,5,03:54,79,79,MIN,3_Pts_T,Roquemore
+48,5,04:08,79,79,CAX,LL_Pts_C,Marcão
+49,5,04:08,79,78,CAX,LL_Pts_C,Marcão
+50,5,04:08,79,77,CAX,FR,Marcão
+51,5,04:08,79,77,MIN,FC,Rush
+52,5,04:24,79,77,MIN,LL_Pts_C,Parisotto
+53,5,04:24,78,77,MIN,LL_Pts_C,Parisotto
+54,5,04:24,77,77,MIN,FR,Parisotto
+55,5,04:24,77,77,CAX,FC,Marcão
+56,5,04:39,77,77,MIN,RD,Rush
+57,5,04:41,77,77,CAX,3_Pts_T,Alex
+58,5,05:00,77,77,,inicio_quarto,
+59,4,00:00,77,77,,fim_quarto,
+60,4,00:01,77,77,MIN,3_Pts_T,Roquemore
+61,4,00:02,77,77,MIN,BR,Roquemore
+62,4,00:02,77,77,CAX,ER,Marcão
+63,4,00:02,77,77,MIN,LL_Pts_C,Gegê
+64,4,00:02,76,77,MIN,LL_Pts_C,Gegê
+65,4,00:02,75,77,MIN,LL_Pts_C,Gegê
+66,4,00:02,74,77,MIN,FR,Gegê
+67,4,00:02,74,77,CAX,FC,Alex
+68,4,00:06,74,77,CAX,LL_Pts_C,Cafferata
+69,4,00:06,74,76,CAX,LL_Pts_C,Cafferata
+70,4,00:06,74,75,CAX,FR,Cafferata
+71,4,00:06,74,75,MIN,FC,Rush
+72,4,00:07,74,75,MIN,ER,Roquemore
+73,4,00:11,74,75,MIN,substituicao_entra,Rush
+74,4,00:11,74,75,MIN,substituicao_sai,Teichmann
+75,4,00:11,74,75,CAX,,
+76,4,00:11,74,75,CAX,substituicao_entra,Marcão
+77,4,00:11,74,75,CAX,substituicao_sai,Paranhos
+78,4,00:11,74,75,CAX,tempo_tecnico,Caxias do Sul
+79,4,00:11,74,75,MIN,AS,Gegê
+80,4,00:11,74,75,MIN,3_Pts_C,Parisotto
+81,4,00:16,71,75,MIN,substituicao_entra,Gegê
+82,4,00:16,71,75,MIN,substituicao_sai,Rush
+83,4,00:16,71,75,CAX,substituicao_entra,Paranhos
+84,4,00:16,71,75,CAX,substituicao_sai,Marcão
+85,4,00:16,71,75,MIN,tempo_tecnico,Minas
+86,4,00:16,71,75,CAX,LL_Pts_C,Cauê B
+87,4,00:16,71,74,CAX,LL_Pts_C,Cauê B
+88,4,00:16,71,73,CAX,FR,Cauê B
+89,4,00:16,71,73,MIN,FC,Rush
+90,4,00:17,71,73,CAX,RO,Cauê B
+91,4,00:19,71,73,CAX,3_Pts_T,Alex
+92,4,00:35,71,73,MIN,substituicao_entra,Rush
+93,4,00:35,71,73,MIN,substituicao_sai,Gegê
+94,4,00:35,71,73,CAX,tempo_tecnico,Caxias do Sul
+95,4,00:35,71,73,MIN,AS,Teichmann
+96,4,00:35,71,73,MIN,3_Pts_C,Gegê
+97,4,00:38,68,73,MIN,substituicao_entra,Teichmann
+98,4,00:38,68,73,MIN,substituicao_sai,Rush
+99,4,00:38,68,73,MIN,tempo_tecnico,Minas
+100,4,00:38,68,73,CAX,AS,Alex
+101,4,00:38,68,73,CAX,2_Pts_C,Marcão
+102,4,00:51,68,71,MIN,ER,Roquemore
+103,4,00:59,68,71,MIN,RD,Gegê
+104,4,01:01,68,71,CAX,2_Pts_T,Marcão
+105,4,01:21,68,71,MIN,LL_Pts_C,Rush
+106,4,01:21,67,71,MIN,LL_Pts_C,Rush
+107,4,01:21,66,71,MIN,FR,Rush
+108,4,01:21,66,71,CAX,FC,Marcão
+109,4,01:22,66,71,MIN,RD,Minas
+110,4,01:22,66,71,CAX,2_Pts_T,Marcão
+111,4,01:42,66,71,MIN,LL_Pts_C,Wesley
+112,4,01:42,65,71,MIN,LL_Pts_T,Wesley
+113,4,01:42,65,71,MIN,FR,Wesley
+114,4,01:42,65,71,CAX,FC,Marcão
+115,4,01:48,65,71,MIN,RO,Rush
+116,4,01:50,65,71,MIN,3_Pts_T,Parisotto
+117,4,02:06,65,71,MIN,RD,Rush
+118,4,02:06,65,71,CAX,LL_Pts_T,Cauê B
+119,4,02:06,65,71,CAX,LL_Pts_C,Cauê B
+120,4,02:06,65,70,MIN,substituicao_entra,Roquemore
+121,4,02:06,65,70,MIN,substituicao_sai,Jefferson
+122,4,02:06,65,70,CAX,FR,Cauê B
+123,4,02:06,65,70,MIN,FC,Jefferson
+124,4,02:16,65,70,CAX,FR,Cauê V
+125,4,02:16,65,70,MIN,FC,Jefferson
+126,4,02:30,65,70,MIN,LL_Pts_C,Wesley
+127,4,02:30,64,70,MIN,LL_Pts_C,Wesley
+128,4,02:30,63,70,MIN,FR,Wesley
+129,4,02:30,63,70,CAX,FC,Alex
+130,4,02:31,63,70,MIN,RO,Wesley
+131,4,02:31,63,70,MIN,2_Pts_T,Wesley
+132,4,02:36,63,70,MIN,RD,Rush
+133,4,02:38,63,70,CAX,2_Pts_T,Alex
+134,4,03:01,63,70,MIN,substituicao_entra,Parisotto
+135,4,03:01,63,70,MIN,substituicao_sai,Teichmann
+136,4,03:01,63,70,MIN,substituicao_entra,Jefferson
+137,4,03:01,63,70,MIN,substituicao_sai,Roquemore
+138,4,03:01,63,70,CAX,substituicao_entra,Cauê B
+139,4,03:01,63,70,CAX,substituicao_sai,Pedro
+140,4,03:01,63,70,CAX,RD,Cafferata
+141,4,03:01,63,70,MIN,3_Pts_T,Roquemore
+142,4,03:26,63,70,CAX,AS,Alex
+143,4,03:26,63,70,CAX,2_Pts_C,Marcão
+144,4,03:34,63,68,CAX,RO,Cauê V
+145,4,03:35,63,68,CAX,3_Pts_T,Pedro
+146,4,03:55,63,68,CAX,RD,Alex
+147,4,03:58,63,68,MIN,2_Pts_T,Wesley
+148,4,04:11,63,68,CAX,substituicao_entra,Pedro
+149,4,04:11,63,68,CAX,substituicao_sai,Cauê B
+150,4,04:11,63,68,CAX,ER,Marcão
+151,4,04:22,63,68,CAX,FR,Marcão
+152,4,04:22,63,68,MIN,FC,Teichmann
+153,4,04:31,63,68,CAX,BR,Cauê B
+154,4,04:31,63,68,MIN,ER,Wesley
+155,4,04:49,63,68,CAX,AS,Alex
+156,4,04:49,63,68,CAX,3_Pts_C,Cauê B
+157,4,05:11,63,65,CAX,substituicao_entra,Marcão
+158,4,05:11,63,65,CAX,substituicao_sai,Nandão
+159,4,05:11,63,65,MIN,ER,Teichmann
+160,4,05:22,63,65,MIN,RD,Minas
+161,4,05:22,63,65,CAX,2_Pts_T,Nandão
+162,4,05:51,63,65,MIN,AS,Wesley
+163,4,05:51,63,65,MIN,EN,Teichmann
+164,4,06:08,61,65,MIN,substituicao_entra,Rush
+165,4,06:08,61,65,MIN,substituicao_sai,Jefferson
+166,4,06:08,61,65,MIN,tempo_tecnico,Minas
+167,4,06:08,61,65,CAX,AS,Cafferata
+168,4,06:08,61,65,CAX,3_Pts_C,Cauê V
+169,4,06:11,61,62,CAX,BR,Nandão
+170,4,06:11,61,62,MIN,ER,Roquemore
+171,4,06:28,61,62,MIN,RD,Teichmann
+172,4,06:30,61,62,CAX,2_Pts_T,Cauê B
+173,4,06:40,61,62,CAX,LL_Pts_C,Cauê B
+174,4,06:40,61,61,CAX,LL_Pts_C,Cauê B
+175,4,06:40,61,60,MIN,FC_T,Jefferson
+176,4,06:40,61,60,CAX,FR,Cauê B
+177,4,06:40,61,60,MIN,FC,Jefferson
+178,4,06:40,61,60,CAX,2_Pts_C,Cauê B
+179,4,06:43,61,58,CAX,BR,Cauê B
+180,4,06:43,61,58,MIN,ER,Jefferson
+181,4,06:56,61,58,CAX,substituicao_entra,Cauê V
+182,4,06:56,61,58,CAX,substituicao_sai,Pedro
+183,4,06:56,61,58,MIN,FR,Teichmann
+184,4,06:56,61,58,CAX,FC,Pedro
+185,4,07:00,61,58,MIN,RD,Teichmann
+186,4,07:02,61,58,CAX,3_Pts_T,Pedro
+187,4,07:17,61,58,CAX,BR,Cauê B
+188,4,07:17,61,58,MIN,ER,Gegê
+189,4,07:33,61,58,MIN,FR,Gegê
+190,4,07:33,61,58,CAX,FC,Nandão
+191,4,07:34,61,58,MIN,RD,Gegê
+192,4,07:35,61,58,CAX,3_Pts_T,Alex
+193,4,07:54,61,58,MIN,ER,Teichmann
+194,4,07:59,61,58,MIN,substituicao_entra,Gegê
+195,4,07:59,61,58,MIN,substituicao_sai,Parisotto
+196,4,07:59,61,58,MIN,FR,Teichmann
+197,4,07:59,61,58,CAX,FC,Cafferata
+198,4,08:18,61,58,CAX,AS,Pedro
+199,4,08:18,61,58,CAX,3_Pts_C,Alex
+200,4,08:23,61,55,CAX,RO,Cauê B
+201,4,08:26,61,55,CAX,2_Pts_T,Cauê B
+202,4,08:29,61,55,CAX,BR,Cafferata
+203,4,08:29,61,55,MIN,ER,Wesley
+204,4,08:50,61,55,MIN,RD,Roquemore
+205,4,08:52,61,55,CAX,2_Pts_T,Cauê B
+206,4,09:07,61,55,MIN,ER,Roquemore
+207,4,09:16,61,55,MIN,FR,Wesley
+208,4,09:16,61,55,CAX,FC,Alex
+209,4,09:28,61,55,MIN,RD,Roquemore
+210,4,09:30,61,55,CAX,3_Pts_T,Alex
+211,4,09:38,61,55,CAX,RD,Alex
+212,4,09:42,61,55,CAX,TO,Nandão
+213,4,09:42,61,55,MIN,2_Pts_T,Parisotto
+214,4,10:00,61,55,,inicio_quarto,
+215,3,00:00,61,55,,fim_quarto,
+216,3,00:01,61,55,MIN,3_Pts_T,Jefferson
+217,3,00:06,61,55,MIN,substituicao_entra,Gegê
+218,3,00:06,61,55,MIN,substituicao_sai,Mosso
+219,3,00:06,61,55,CAX,LL_Pts_C,Cauê B
+220,3,00:06,61,54,CAX,LL_Pts_C,Cauê B
+221,3,00:06,61,53,CAX,FR,Cauê B
+222,3,00:06,61,53,MIN,FC,Jefferson
+223,3,00:08,61,53,CAX,BR,Cauê B
+224,3,00:08,61,53,MIN,ER,Jefferson
+225,3,00:28,61,53,CAX,substituicao_entra,Buboltz
+226,3,00:28,61,53,CAX,substituicao_sai,Pedro
+227,3,00:28,61,53,CAX,LL_Pts_C,Cafferata
+228,3,00:28,61,52,CAX,LL_Pts_C,Cafferata
+229,3,00:28,61,51,CAX,FR,Cafferata
+230,3,00:28,61,51,MIN,FC,Big
+231,3,00:44,61,51,MIN,substituicao_entra,Big
+232,3,00:44,61,51,MIN,substituicao_sai,Teichmann
+233,3,00:44,61,51,MIN,LL_Pts_C,Teichmann
+234,3,00:44,60,51,MIN,LL_Pts_C,Teichmann
+235,3,00:44,59,51,MIN,substituicao_entra,Augusto
+236,3,00:44,59,51,MIN,substituicao_sai,Gegê
+237,3,00:44,59,51,MIN,substituicao_entra,Mosso
+238,3,00:44,59,51,MIN,substituicao_sai,Wesley
+239,3,00:44,59,51,MIN,FR,Teichmann
+240,3,00:44,59,51,CAX,FC,Nandão
+241,3,01:05,59,51,CAX,AS,Cafferata
+242,3,01:05,59,51,CAX,3_Pts_C,Alex
+243,3,01:32,59,48,MIN,AS,Teichmann
+244,3,01:32,59,48,MIN,3_Pts_C,Parisotto
+245,3,01:54,56,48,CAX,ER,
+246,3,02:10,56,48,CAX,FR,Pedro
+247,3,02:10,56,48,MIN,FC,Parisotto
+248,3,02:14,56,48,MIN,substituicao_entra,Parisotto
+249,3,02:14,56,48,MIN,substituicao_sai,Roquemore
+250,3,02:14,56,48,CAX,FR,Pedro
+251,3,02:14,56,48,MIN,FC,Wesley
+252,3,02:36,56,48,MIN,AS,Wesley
+253,3,02:36,56,48,MIN,2_Pts_C,Gegê
+254,3,02:51,54,48,CAX,3_Pts_C,Cauê B
+255,3,02:57,54,45,CAX,RD,Cauê B
+256,3,02:59,54,45,MIN,3_Pts_T,Gegê
+257,3,03:04,54,45,MIN,RD,Jefferson
+258,3,03:08,54,45,MIN,TO,Teichmann
+259,3,03:08,54,45,CAX,2_Pts_T,Cauê B
+260,3,03:18,54,45,MIN,substituicao_entra,Jefferson
+261,3,03:18,54,45,MIN,substituicao_sai,Rush
+262,3,03:18,54,45,CAX,FR,Cafferata
+263,3,03:18,54,45,MIN,FC,Gegê
+264,3,03:24,54,45,MIN,ER,Teichmann
+265,3,03:35,54,45,MIN,RD,Gegê
+266,3,03:37,54,45,CAX,2_Pts_T,Alex
+267,3,03:53,54,45,MIN,LL_Pts_C,Rush
+268,3,03:53,53,45,MIN,FR,Rush
+269,3,03:53,53,45,CAX,FC,Nandão
+270,3,03:53,53,45,MIN,AS,Gegê
+271,3,03:53,53,45,MIN,2_Pts_C,Rush
+272,3,04:19,51,45,CAX,AS,Cauê B
+273,3,04:19,51,45,CAX,3_Pts_C,Cafferata
+274,3,04:26,51,42,CAX,BR,Pedro
+275,3,04:26,51,42,MIN,ER,Rush
+276,3,04:33,51,42,MIN,RD,Teichmann
+277,3,04:36,51,42,CAX,3_Pts_T,Alex
+278,3,04:53,51,42,MIN,AS,Teichmann
+279,3,04:53,51,42,MIN,EN,Rush
+280,3,05:09,49,42,CAX,2_Pts_C,Alex
+281,3,05:29,49,40,MIN,LL_Pts_C,Roquemore
+282,3,05:29,48,40,MIN,LL_Pts_C,Roquemore
+283,3,05:29,47,40,CAX,substituicao_entra,Nandão
+284,3,05:29,47,40,CAX,substituicao_sai,Paranhos
+285,3,05:29,47,40,MIN,FR,Roquemore
+286,3,05:29,47,40,CAX,FC,Cauê B
+287,3,05:50,47,40,CAX,3_Pts_C,Cafferata
+288,3,06:13,47,37,MIN,AS,Roquemore
+289,3,06:13,47,37,MIN,3_Pts_C,Gegê
+290,3,06:38,44,37,CAX,AS,Cauê B
+291,3,06:38,44,37,CAX,2_Pts_C,Paranhos
+292,3,06:45,44,35,MIN,ER,
+293,3,06:46,44,35,MIN,RO,Rush
+294,3,06:46,44,35,MIN,2_Pts_T,Gegê
+295,3,07:01,44,35,MIN,FR,Roquemore
+296,3,07:01,44,35,CAX,FC,Cauê B
+297,3,07:06,44,35,CAX,substituicao_entra,Pedro
+298,3,07:06,44,35,CAX,substituicao_sai,Marcão
+299,3,07:06,44,35,CAX,substituicao_entra,Cafferata
+300,3,07:06,44,35,CAX,substituicao_sai,Cauê V
+301,3,07:06,44,35,MIN,FR,Teichmann
+302,3,07:06,44,35,CAX,FC,Cauê V
+303,3,07:19,44,35,MIN,BR,Wesley
+304,3,07:19,44,35,CAX,ER,Paranhos
+305,3,07:30,44,35,CAX,RD,Cauê V
+306,3,07:32,44,35,MIN,2_Pts_T,Teichmann
+307,3,07:55,44,35,CAX,ER,Marcão
+308,3,08:05,44,35,CAX,RD,Cauê B
+309,3,08:07,44,35,MIN,3_Pts_T,Gegê
+310,3,08:23,44,35,MIN,FR,Roquemore
+311,3,08:23,44,35,CAX,FC,Paranhos
+312,3,08:36,44,35,MIN,BR,Teichmann
+313,3,08:36,44,35,CAX,ER,Marcão
+314,3,08:38,44,35,CAX,RD,Marcão
+315,3,08:40,44,35,MIN,2_Pts_T,Gegê
+316,3,09:05,44,35,CAX,AS,Alex
+317,3,09:05,44,35,CAX,2_Pts_C,Cauê V
+318,3,09:21,44,33,CAX,RD,Paranhos
+319,3,09:23,44,33,MIN,3_Pts_T,Rush
+320,3,09:37,44,33,MIN,FR,Gegê
+321,3,09:37,44,33,CAX,FC,Cauê V
+322,3,09:40,44,33,MIN,RD,Rush
+323,3,09:43,44,33,CAX,2_Pts_T,Marcão
+324,3,10:00,44,33,,inicio_quarto,
+325,2,00:00,44,33,,fim_quarto,
+326,2,00:01,44,33,CAX,AS,Cauê B
+327,2,00:01,44,33,CAX,3_Pts_C,Alex
+328,2,00:06,44,30,MIN,3_Pts_C,Roquemore
+329,2,00:23,41,30,MIN,RD,Jefferson
+330,2,00:25,41,30,CAX,2_Pts_T,Cafferata
+331,2,00:34,41,30,CAX,BR,Alex
+332,2,00:34,41,30,MIN,ER,Jefferson
+333,2,00:47,41,30,CAX,substituicao_entra,Paranhos
+334,2,00:47,41,30,CAX,substituicao_sai,Pedro
+335,2,00:47,41,30,MIN,FR,Roquemore
+336,2,00:47,41,30,CAX,FC,Pedro
+337,2,00:57,41,30,MIN,RD,Parisotto
+338,2,01:00,41,30,CAX,3_Pts_T,Pedro
+339,2,01:21,41,30,CAX,RD,Caxias do Sul
+340,2,01:21,41,30,MIN,3_Pts_T,Parisotto
+341,2,01:32,41,30,MIN,RD,Big
+342,2,01:34,41,30,CAX,2_Pts_T,Cafferata
+343,2,01:48,41,30,MIN,ER,Roquemore
+344,2,01:50,41,30,MIN,RD,Roquemore
+345,2,01:52,41,30,CAX,2_Pts_T,Pedro
+346,2,02:19,41,30,MIN,AS,Jefferson
+347,2,02:19,41,30,MIN,EN,Big
+348,2,02:25,39,30,MIN,RD,Roquemore
+349,2,02:26,39,30,CAX,2_Pts_T,Cauê B
+350,2,02:29,39,30,CAX,RO,Cauê B
+351,2,02:29,39,30,CAX,3_Pts_T,Alex
+352,2,02:43,39,30,MIN,substituicao_entra,Parisotto
+353,2,02:43,39,30,MIN,substituicao_sai,Augusto
+354,2,02:43,39,30,CAX,substituicao_entra,Cauê B
+355,2,02:43,39,30,CAX,substituicao_sai,Cauê V
+356,2,02:45,39,30,CAX,RD,Cauê V
+357,2,02:47,39,30,MIN,3_Pts_T,Augusto
+358,2,03:03,39,30,MIN,RD,Big
+359,2,03:06,39,30,CAX,2_Pts_T,Marcão
+360,2,03:20,39,30,CAX,RD,Alex
+361,2,03:23,39,30,MIN,2_Pts_T,Jefferson
+362,2,03:36,39,30,CAX,2_Pts_C,Cafferata
+363,2,04:02,39,28,MIN,substituicao_entra,Big
+364,2,04:02,39,28,MIN,substituicao_sai,Wesley
+365,2,04:02,39,28,CAX,tempo_tecnico,Caxias do Sul
+366,2,04:02,39,28,MIN,AS,Jefferson
+367,2,04:02,39,28,MIN,3_Pts_C,Wesley
+368,2,04:14,36,28,CAX,substituicao_entra,Alex
+369,2,04:14,36,28,CAX,substituicao_sai,Nandão
+370,2,04:27,36,28,CAX,AS,Cafferata
+371,2,04:27,36,28,CAX,2_Pts_C,Cauê V
+372,2,04:44,36,26,MIN,3_Pts_C,Roquemore
+373,2,04:49,33,26,MIN,BR,Roquemore
+374,2,04:49,33,26,CAX,ER,Cafferata
+375,2,04:57,33,26,MIN,3_Pts_C,Jefferson
+376,2,05:08,30,26,MIN,substituicao_entra,Mosso
+377,2,05:08,30,26,MIN,substituicao_sai,Big
+378,2,05:08,30,26,MIN,FR,Roquemore
+379,2,05:08,30,26,CAX,FC,Pedro
+380,2,05:17,30,26,MIN,RD,Big
+381,2,05:20,30,26,CAX,2_Pts_T,Cafferata
+382,2,05:30,30,26,CAX,RO,Cafferata
+383,2,05:32,30,26,CAX,3_Pts_T,Marcão
+384,2,05:55,30,26,MIN,AS,Roquemore
+385,2,05:55,30,26,MIN,3_Pts_C,Wesley
+386,2,06:18,27,26,MIN,BR,Jefferson
+387,2,06:18,27,26,CAX,ER,Cafferata
+388,2,06:20,27,26,CAX,RO,Cafferata
+389,2,06:22,27,26,CAX,3_Pts_T,Pedro
+390,2,06:45,27,26,MIN,substituicao_entra,Roquemore
+391,2,06:45,27,26,MIN,substituicao_sai,Lelê
+392,2,06:49,27,26,MIN,3_Pts_C,Jefferson
+393,2,07:04,24,26,CAX,3_Pts_C,Marcão
+394,2,07:15,24,23,CAX,RO,Marcão
+395,2,07:17,24,23,CAX,3_Pts_T,Cafferata
+396,2,07:28,24,23,CAX,FR,Marcão
+397,2,07:28,24,23,MIN,FC,Big
+398,2,07:36,24,23,CAX,LL_Pts_C,Cauê V
+399,2,07:36,24,22,MIN,substituicao_entra,Augusto
+400,2,07:36,24,22,MIN,substituicao_sai,Gegê
+401,2,07:36,24,22,MIN,ER,Gegê
+402,2,07:36,24,22,MIN,FC_T,Gegê
+403,2,07:38,24,22,CAX,substituicao_entra,Nandão
+404,2,07:38,24,22,CAX,substituicao_sai,Alex
+405,2,07:38,24,22,CAX,substituicao_entra,Cafferata
+406,2,07:38,24,22,CAX,substituicao_sai,Cauê B
+407,2,07:38,24,22,CAX,AS,Cauê B
+408,2,07:38,24,22,CAX,2_Pts_C,Pedro
+409,2,07:42,24,20,CAX,BR,Pedro
+410,2,07:42,24,20,MIN,ER,Gegê
+411,2,07:49,24,20,MIN,RD,Wesley
+412,2,07:52,24,20,CAX,3_Pts_T,Cauê B
+413,2,07:54,24,20,CAX,RO,Alex
+414,2,07:57,24,20,CAX,3_Pts_T,Alex
+415,2,08:22,24,20,MIN,AS,Wesley
+416,2,08:22,24,20,MIN,EN,Lelê
+417,2,08:31,22,20,MIN,RD,Lelê
+418,2,08:33,22,20,CAX,2_Pts_T,Cauê V
+419,2,08:50,22,20,CAX,RD,Cauê B
+420,2,08:52,22,20,MIN,3_Pts_T,Lelê
+421,2,09:15,22,20,MIN,RD,Lelê
+422,2,09:18,22,20,CAX,2_Pts_T,Alex
+423,2,09:31,22,20,CAX,RD,Cauê B
+424,2,09:34,22,20,MIN,3_Pts_T,Gegê
+425,2,09:40,22,20,MIN,RD,Lelê
+426,2,09:41,22,20,CAX,2_Pts_T,Pedro
+427,2,09:44,22,20,CAX,RO,Pedro
+428,2,09:44,22,20,CAX,2_Pts_T,Cauê B
+429,2,10:00,22,20,,inicio_quarto,
+430,1,00:00,22,20,,fim_quarto,
+431,1,00:01,22,20,CAX,RD,Cauê V
+432,1,00:02,22,20,MIN,3_Pts_T,Jefferson
+433,1,00:06,22,20,CAX,AS,Cauê V
+434,1,00:06,22,20,CAX,2_Pts_C,Alex
+435,1,00:33,22,18,MIN,2_Pts_C,Rush
+436,1,00:53,20,18,MIN,RD,Rush
+437,1,00:55,20,18,CAX,2_Pts_T,Paranhos
+438,1,01:07,20,18,CAX,BR,Alex
+439,1,01:07,20,18,MIN,ER,Rush
+440,1,01:30,20,18,MIN,tempo_tecnico,Minas
+441,1,01:30,20,18,CAX,AS,Cauê V
+442,1,01:30,20,18,CAX,EN,Alex
+443,1,01:32,20,16,CAX,BR,Cauê V
+444,1,01:32,20,16,MIN,ER,Jefferson
+445,1,01:40,20,16,CAX,LL_Pts_C,Cauê V
+446,1,01:40,20,15,MIN,substituicao_entra,Wesley
+447,1,01:40,20,15,MIN,substituicao_sai,Teichmann
+448,1,01:40,20,15,CAX,FR,Cauê V
+449,1,01:40,20,15,MIN,FC,Rush
+450,1,01:40,20,15,CAX,2_Pts_C,Cauê V
+451,1,01:41,20,13,CAX,RO,Cauê V
+452,1,01:41,20,13,MIN,TO,Lelê
+453,1,01:41,20,13,CAX,2_Pts_T,Alex
+454,1,02:05,20,13,CAX,FR,Alex
+455,1,02:05,20,13,MIN,ER,Teichmann
+456,1,02:05,20,13,MIN,FC_O,Teichmann
+457,1,02:14,20,13,CAX,AS,Cauê V
+458,1,02:14,20,13,CAX,3_Pts_C,Alex
+459,1,02:24,20,10,CAX,BR,Alex
+460,1,02:24,20,10,MIN,ER,Teichmann
+461,1,02:36,20,10,MIN,substituicao_entra,Jefferson
+462,1,02:36,20,10,MIN,substituicao_sai,Gegê
+463,1,02:36,20,10,MIN,FR,Roquemore
+464,1,02:36,20,10,CAX,FC,Alex
+465,1,02:48,20,10,CAX,LL_Pts_C,Cauê B
+466,1,02:48,20,9,CAX,LL_Pts_T,Cauê B
+467,1,02:48,20,9,MIN,substituicao_entra,Lelê
+468,1,02:48,20,9,MIN,substituicao_sai,Wesley
+469,1,02:48,20,9,CAX,FR,Cauê B
+470,1,02:48,20,9,MIN,FC,Teichmann
+471,1,03:00,20,9,MIN,AS,Roquemore
+472,1,03:00,20,9,MIN,3_Pts_C,Wesley
+473,1,03:14,17,9,CAX,AS,Cauê B
+474,1,03:14,17,9,CAX,3_Pts_C,Cauê V
+475,1,03:31,17,6,CAX,RD,Paranhos
+476,1,03:31,17,6,MIN,AS,Teichmann
+477,1,03:31,17,6,MIN,LL_Pts_T,Rush
+478,1,03:31,17,6,MIN,LL_Pts_C,Rush
+479,1,03:31,16,6,MIN,FR,Rush
+480,1,03:31,16,6,CAX,FC,Pedro
+481,1,03:48,16,6,MIN,RD,Roquemore
+482,1,03:50,16,6,CAX,3_Pts_T,Pedro
+483,1,04:08,16,6,CAX,RD,Paranhos
+484,1,04:09,16,6,MIN,3_Pts_T,Roquemore
+485,1,04:17,16,6,CAX,substituicao_entra,Pedro
+486,1,04:17,16,6,CAX,substituicao_sai,Marcão
+487,1,04:17,16,6,MIN,FR,Wesley
+488,1,04:17,16,6,CAX,FC,Marcão
+489,1,04:27,16,6,CAX,2_Pts_C,Marcão
+490,1,04:32,16,4,CAX,RO,Marcão
+491,1,04:32,16,4,CAX,2_Pts_T,Marcão
+492,1,04:50,16,4,CAX,tempo_tecnico,Caxias do Sul
+493,1,04:50,16,4,MIN,AS,Gegê
+494,1,04:50,16,4,MIN,2_Pts_C,Roquemore
+495,1,04:54,14,4,MIN,RD,Rush
+496,1,04:58,14,4,MIN,TO,Teichmann
+497,1,04:58,14,4,CAX,2_Pts_T,Paranhos
+498,1,05:05,14,4,CAX,RO,Caxias do Sul
+499,1,05:05,14,4,CAX,2_Pts_T,Marcão
+500,1,05:25,14,4,MIN,AS,Roquemore
+501,1,05:25,14,4,MIN,2_Pts_C,Teichmann
+502,1,05:34,12,4,CAX,AS,Alex
+503,1,05:34,12,4,CAX,2_Pts_C,Paranhos
+504,1,05:50,12,2,MIN,AS,Teichmann
+505,1,05:50,12,2,MIN,EN,Wesley
+506,1,06:03,10,2,MIN,RO,Roquemore
+507,1,06:05,10,2,MIN,3_Pts_T,Roquemore
+508,1,06:06,10,2,MIN,RD,Gegê
+509,1,06:10,10,2,CAX,2_Pts_T,Cauê B
+510,1,06:19,10,2,CAX,FR,Cauê B
+511,1,06:19,10,2,MIN,FC,Roquemore
+512,1,06:25,10,2,CAX,RD,Cauê B
+513,1,06:27,10,2,MIN,3_Pts_T,Gegê
+514,1,06:33,10,2,MIN,RO,Rush
+515,1,06:35,10,2,MIN,2_Pts_T,Wesley
+516,1,06:49,10,2,MIN,RD,Minas
+517,1,06:49,10,2,CAX,2_Pts_T,Marcão
+518,1,06:51,10,2,CAX,RO,Alex
+519,1,06:51,10,2,MIN,TO,Wesley
+520,1,06:51,10,2,CAX,2_Pts_T,Alex
+521,1,07:14,10,2,MIN,AS,Gegê
+522,1,07:14,10,2,MIN,2_Pts_C,Wesley
+523,1,07:19,8,2,MIN,RD,Gegê
+524,1,07:22,8,2,CAX,2_Pts_T,Cauê B
+525,1,07:29,8,2,CAX,RD,Marcão
+526,1,07:32,8,2,MIN,2_Pts_T,Teichmann
+527,1,07:56,8,2,MIN,BR,Rush
+528,1,07:56,8,2,CAX,ER,Cauê B
+529,1,08:00,8,2,CAX,BR,Cauê B
+530,1,08:00,8,2,MIN,ER,Roquemore
+531,1,08:08,8,2,MIN,RD,Teichmann
+532,1,08:11,8,2,CAX,2_Pts_T,Paranhos
+533,1,08:17,8,2,MIN,AS,Gegê
+534,1,08:17,8,2,MIN,EN,Teichmann
+535,1,08:21,6,2,MIN,RD,Roquemore
+536,1,08:22,6,2,CAX,2_Pts_T,Paranhos
+537,1,08:28,6,2,CAX,RO,Paranhos
+538,1,08:28,6,2,CAX,3_Pts_T,Alex
+539,1,08:43,6,2,MIN,AS,Wesley
+540,1,08:43,6,2,MIN,3_Pts_C,Rush
+541,1,08:55,3,2,MIN,FR,Gegê
+542,1,08:55,3,2,CAX,FC,Cauê V
+543,1,09:03,3,2,CAX,2_Pts_C,Cauê V
+544,1,09:17,3,0,CAX,FR,Marcão
+545,1,09:17,3,0,MIN,FC,Wesley
+546,1,09:37,3,0,MIN,AS,Teichmann
+547,1,09:37,3,0,MIN,3_Pts_C,Rush
+548,1,10:00,0,0,CAX,substituicao_entra,Paranhos
+549,1,10:00,0,0,CAX,substituicao_entra,Marcão
+550,1,10:00,0,0,CAX,substituicao_entra,Cauê V
+551,1,10:00,0,0,CAX,substituicao_entra,Cauê B
+552,1,10:00,0,0,CAX,substituicao_entra,Alex
+553,1,10:00,0,0,MIN,substituicao_entra,Roquemore
+554,1,10:00,0,0,MIN,substituicao_entra,Wesley
+555,1,10:00,0,0,MIN,substituicao_entra,Gegê
+556,1,10:00,0,0,MIN,substituicao_entra,Teichmann
+557,1,10:00,0,0,MIN,substituicao_entra,Rush

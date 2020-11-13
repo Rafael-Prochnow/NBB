@@ -1,0 +1,441 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,84,82, ,fim_partida,
+1,4,00:01,84,82,PIN,RO,Pinheiros
+2,4,00:01,84,82,PIN,LL_Pts_T,Joe Smith
+3,4,00:01,84,82,PIN,LL_Pts_C,Joe Smith
+4,4,00:01,84,81,BRA,tempo_tecnico,Brasília
+5,4,00:01,84,81,BRA,substituicao_sai,Nezinho
+6,4,00:01,84,81,BRA,substituicao_entra,Ronald
+7,4,00:01,84,81,PIN,substituicao_entra,Bambu
+8,4,00:01,84,81,PIN,substituicao_entra,Morro
+9,4,00:01,84,81,PIN,substituicao_sai,Jonathan
+10,4,00:01,84,81,PIN,substituicao_sai,Leandrinho
+11,4,00:01,84,81,PIN,FR,Joe Smith
+12,4,00:01,84,81,BRA,FC,Nezinho
+13,4,00:02,84,81,PIN,substituicao_entra,Jonathan
+14,4,00:02,84,81,PIN,substituicao_sai,Morro
+15,4,00:03,84,81,PIN,tempo_tecnico,Pinheiros
+16,4,00:03,84,81,BRA,AS,Nezinho
+17,4,00:03,84,81,BRA,LL_Pts_C,G Giovannoni
+18,4,00:03,83,81,BRA,2_Pts_C,G Giovannoni
+19,4,00:03,81,81,BRA,FR,G Giovannoni
+20,4,00:03,81,81,PIN,FC,Shamell
+21,4,00:09,81,81,BRA,RD,Goree
+22,4,00:09,81,81,PIN,2_Pts_T,Leandrinho
+23,4,00:30,81,81,PIN,RD,Shamell
+24,4,00:30,81,81,BRA,LL_Pts_T,Nezinho
+25,4,00:30,81,81,BRA,LL_Pts_C,Nezinho
+26,4,00:30,80,81,BRA,FR,Nezinho
+27,4,00:30,80,81,PIN,FC,Leandrinho
+28,4,00:51,80,81,PIN,LL_Pts_C,Morro
+29,4,00:51,80,80,PIN,LL_Pts_C,Morro
+30,4,00:51,80,79,PIN,FR,Morro
+31,4,00:51,80,79,BRA,FC,Nezinho
+32,4,01:14,80,79,PIN,RD,Shamell
+33,4,01:14,80,79,BRA,3_Pts_T,Arthur
+34,4,01:34,80,79,BRA,substituicao_entra,Osimani
+35,4,01:34,80,79,BRA,substituicao_sai,Bruno Felipe
+36,4,01:36,80,79,BRA,tempo_tecnico,Brasília
+37,4,01:36,80,79,PIN,3_Pts_C,Joe Smith
+38,4,01:36,80,76,PIN,AS,Morro
+39,4,01:47,80,76,BRA,substituicao_entra,Bruno Felipe
+40,4,01:47,80,76,BRA,substituicao_sai,Osimani
+41,4,01:47,80,76,PIN,tempo_tecnico,Pinheiros
+42,4,01:47,80,76,BRA,2_Pts_C,Nezinho
+43,4,02:03,78,76,PIN,ER,Shamell
+44,4,02:21,78,76,BRA,2_Pts_C,Goree
+45,4,02:28,76,76,BRA,FR,G Giovannoni
+46,4,02:28,76,76,PIN,FC,Leandrinho
+47,4,02:48,76,76,PIN,2_Pts_C,Shamell
+48,4,02:56,76,74,PIN,RD,Shamell
+49,4,02:56,76,74,BRA,3_Pts_T,Goree
+50,4,03:09,76,74,BRA,FR,G Giovannoni
+51,4,03:09,76,74,PIN,FC,Rafael Mineiro
+52,4,03:16,76,74,BRA,RD,G Giovannoni
+53,4,03:16,76,74,BRA,TO,Goree
+54,4,03:16,76,74,PIN,2_Pts_T,Leandrinho
+55,4,03:20,76,74,PIN,RD,Leandrinho
+56,4,03:20,76,74,BRA,2_Pts_T,Arthur
+57,4,03:35,76,74,BRA,substituicao_sai,Bruno Felipe
+58,4,03:35,76,74,BRA,substituicao_entra,Osimani
+59,4,03:35,76,74,BRA,FR,Nezinho
+60,4,03:35,76,74,PIN,FC,Joe Smith
+61,4,03:48,76,74,BRA,RD,Nezinho
+62,4,03:48,76,74,PIN,3_Pts_T,Shamell
+63,4,04:03,76,74,PIN,FR,Leandrinho
+64,4,04:03,76,74,BRA,FC,Bruno Felipe
+65,4,04:03,76,74,BRA,substituicao_entra,Bruno Felipe
+66,4,04:03,76,74,BRA,substituicao_sai,Osimani
+67,4,04:12,76,74,PIN,RD,Shamell
+68,4,04:12,76,74,BRA,3_Pts_T,Arthur
+69,4,04:20,76,74,BRA,RO,Nezinho
+70,4,04:20,76,74,BRA,3_Pts_T,G Giovannoni
+71,4,04:45,76,74,PIN,EN,Rafael Mineiro
+72,4,04:45,76,72,PIN,AS,Leandrinho
+73,4,04:52,76,72,PIN,RD,Shamell
+74,4,04:52,76,72,BRA,3_Pts_T,G Giovannoni
+75,4,04:56,76,72,BRA,BR,Goree
+76,4,04:56,76,72,PIN,ER,Joe Smith
+77,4,04:58,76,72,PIN,LL_Pts_T,Leandrinho
+78,4,04:58,76,72,PIN,LL_Pts_C,Leandrinho
+79,4,04:58,76,71,PIN,FR,Leandrinho
+80,4,04:58,76,71,BRA,FC_A,Arthur
+81,4,05:00,76,71,PIN,BR,Leandrinho
+82,4,05:00,76,71,BRA,ER,Nezinho
+83,4,05:05,76,71,BRA,RD,Goree
+84,4,05:05,76,71,PIN,2_Pts_T,Shamell
+85,4,05:19,76,71,BRA,substituicao_sai,Bruno Felipe
+86,4,05:19,76,71,BRA,substituicao_entra,Osimani
+87,4,05:19,76,71,PIN,substituicao_sai,Bambu
+88,4,05:19,76,71,PIN,substituicao_entra,Morro
+89,4,05:35,76,71,BRA,2_Pts_C,G Giovannoni
+90,4,05:57,74,71,BRA,substituicao_entra,G Giovannoni
+91,4,05:57,74,71,BRA,substituicao_sai,Ronald
+92,4,06:03,74,71,PIN,3_Pts_C,Shamell
+93,4,06:03,74,68,PIN,AS,Leandrinho
+94,4,06:16,74,68,BRA,2_Pts_C,Bruno Felipe
+95,4,06:27,72,68,BRA,RD,Ronald
+96,4,06:27,72,68,PIN,2_Pts_T,Shamell
+97,4,06:31,72,68,BRA,substituicao_entra,Bruno Felipe
+98,4,06:31,72,68,BRA,substituicao_sai,Osimani
+99,4,06:42,72,68,PIN,FR,Joe Smith
+100,4,06:42,72,68,BRA,FC,Osimani
+101,4,06:59,72,68,PIN,substituicao_entra,Leandrinho
+102,4,06:59,72,68,PIN,substituicao_sai,Jonathan
+103,4,06:59,72,68,BRA,ER,Nezinho
+104,4,07:03,72,68,BRA,RD,Nezinho
+105,4,07:03,72,68,PIN,3_Pts_T,Jonathan
+106,4,07:21,72,68,BRA,LL_Pts_C,Goree
+107,4,07:21,71,68,BRA,LL_Pts_C,Goree
+108,4,07:21,70,68,PIN,substituicao_sai,Morro
+109,4,07:21,70,68,PIN,substituicao_entra,Bambu
+110,4,07:21,70,68,BRA,FR,Goree
+111,4,07:21,70,68,PIN,FC,Morro
+112,4,07:40,70,68,PIN,EN,Morro
+113,4,07:40,70,66,PIN,AS,Joe Smith
+114,4,07:47,70,66,PIN,RD,Rafael Mineiro
+115,4,07:47,70,66,BRA,2_Pts_T,Ronald
+116,4,07:49,70,66,BRA,RO,Brasília
+117,4,07:49,70,66,BRA,2_Pts_T,Ronald
+118,4,08:11,70,66,PIN,AS,Joe Smith
+119,4,08:11,70,66,PIN,LL_Pts_C,Shamell
+120,4,08:11,70,65,PIN,2_Pts_C,Shamell
+121,4,08:11,70,63,PIN,FR,Shamell
+122,4,08:11,70,63,BRA,FC,Arthur
+123,4,08:29,70,63,BRA,2_Pts_C,Nezinho
+124,4,08:46,68,63,BRA,RD,Brasília
+125,4,08:46,68,63,BRA,TO,Ronald
+126,4,08:46,68,63,PIN,2_Pts_T,Shamell
+127,4,09:03,68,63,PIN,RD,Rafael Mineiro
+128,4,09:03,68,63,BRA,3_Pts_T,Nezinho
+129,4,09:26,68,63,BRA,RD,Ronald
+130,4,09:26,68,63,PIN,2_Pts_T,Joe Smith
+131,4,09:43,68,63,PIN,BR,Joe Smith
+132,4,09:43,68,63,BRA,ER,Arthur
+133,3,00:00,68,63, ,fim_quarto,
+134,3,00:00,68,63,BRA,3_Pts_T,Isaac
+135,3,00:10,68,63,PIN,3_Pts_C,Joe Smith
+136,3,00:27,68,60,PIN,RD,Morro
+137,3,00:27,68,60,BRA,2_Pts_T,Nezinho
+138,3,00:49,68,60,PIN,3_Pts_C,Joe Smith
+139,3,00:49,68,57,PIN,AS,Rafael Mineiro
+140,3,00:56,68,57,PIN,FR,Joe Smith
+141,3,00:56,68,57,BRA,FC,Isaac
+142,3,01:11,68,57,BRA,3_Pts_C,Nezinho
+143,3,02:32,65,57,PIN,substituicao_sai,Leandrinho
+144,3,02:32,65,57,PIN,substituicao_entra,Shamell
+145,3,02:32,65,57,BRA,FR,Nezinho
+146,3,02:32,65,57,PIN,FC,Jonathan
+147,3,02:35,65,57,BRA,RD,G Giovannoni
+148,3,02:35,65,57,PIN,2_Pts_T,Morro
+149,3,02:35,65,57,PIN,RD,Leandrinho
+150,3,02:35,65,57,BRA,3_Pts_T,Arthur
+151,3,02:35,65,57,BRA,RD,Nezinho
+152,3,02:35,65,57,PIN,3_Pts_T,Leandrinho
+153,3,02:35,65,57,BRA,ER,Arthur
+154,3,02:47,65,57,BRA,RD,Ronald
+155,3,02:47,65,57,PIN,3_Pts_T,Jonathan
+156,3,02:54,65,57,PIN,BR,Rafael Mineiro
+157,3,02:54,65,57,BRA,ER,Nezinho
+158,3,03:01,65,57,BRA,RD,Arthur
+159,3,03:01,65,57,PIN,3_Pts_T,Rafael Mineiro
+160,3,03:15,65,57,BRA,substituicao_sai,Goree
+161,3,03:15,65,57,BRA,substituicao_entra,Ronald
+162,3,03:15,65,57,PIN,,
+163,3,03:15,65,57,BRA,ER,Nezinho
+164,3,03:21,65,57,PIN,2_Pts_C,Jonathan
+165,3,03:33,65,55,PIN,RD,Jonathan
+166,3,03:33,65,55,BRA,3_Pts_T,Goree
+167,3,03:51,65,55,PIN,2_Pts_C,Rafael Mineiro
+168,3,04:13,65,53,BRA,3_Pts_C,G Giovannoni
+169,3,04:21,62,53,BRA,FR,Nezinho
+170,3,04:21,62,53,PIN,FC,Leandrinho
+171,3,04:30,62,53,PIN,LL_Pts_C,Joe Smith
+172,3,04:30,62,52,PIN,2_Pts_C,Joe Smith
+173,3,04:30,62,50,PIN,FR,Joe Smith
+174,3,04:30,62,50,BRA,FC,G Giovannoni
+175,3,04:57,62,50,BRA,3_Pts_C,Nezinho
+176,3,04:57,59,50,BRA,AS,Goree
+177,3,05:06,59,50,PIN,substituicao_entra,Jonathan
+178,3,05:06,59,50,PIN,substituicao_sai,Shamell
+179,3,05:06,59,50,BRA,FR,Nezinho
+180,3,05:06,59,50,PIN,FC,Shamell
+181,3,05:10,59,50,BRA,RD,Arthur
+182,3,05:10,59,50,PIN,3_Pts_T,Shamell
+183,3,05:23,59,50,PIN,FR,Rafael Mineiro
+184,3,05:23,59,50,BRA,FC,Goree
+185,3,05:32,59,50,PIN,RD,Leandrinho
+186,3,05:32,59,50,BRA,3_Pts_T,Nezinho
+187,3,05:41,59,50,BRA,RO,Brasília
+188,3,05:41,59,50,PIN,TO,Leandrinho
+189,3,05:41,59,50,BRA,2_Pts_T,Goree
+190,3,06:02,59,50,PIN,3_Pts_C,Shamell
+191,3,06:20,59,47,BRA,AS,Nezinho
+192,3,06:20,59,47,BRA,LL_Pts_C,Arthur
+193,3,06:20,58,47,BRA,LL_Pts_T,Arthur
+194,3,06:20,58,47,BRA,FR,Arthur
+195,3,06:20,58,47,PIN,FC,Shamell
+196,3,06:28,58,47,PIN,2_Pts_C,Leandrinho
+197,3,06:33,58,45,PIN,RO,Leandrinho
+198,3,06:33,58,45,PIN,2_Pts_T,Shamell
+199,3,06:52,58,45,PIN,RO,Morro
+200,3,06:52,58,45,PIN,2_Pts_T,Rafael Mineiro
+201,3,07:14,58,45,BRA,3_Pts_C,Arthur
+202,3,07:14,55,45,BRA,AS,Nezinho
+203,3,07:35,55,45,PIN,3_Pts_C,Leandrinho
+204,3,07:35,55,42,PIN,AS,Joe Smith
+205,3,08:01,55,42,BRA,3_Pts_C,Nezinho
+206,3,08:01,52,42,BRA,AS,G Giovannoni
+207,3,08:29,52,42,BRA,tempo_tecnico,Brasília
+208,3,08:29,52,42,PIN,EN,Rafael Mineiro
+209,3,08:32,52,40,PIN,BR,Rafael Mineiro
+210,3,08:32,52,40,BRA,ER,Nezinho
+211,3,08:51,52,40,PIN,2_Pts_C,Leandrinho
+212,3,09:02,52,38,PIN,RD,Shamell
+213,3,09:02,52,38,BRA,3_Pts_T,G Giovannoni
+214,3,09:15,52,38,PIN,3_Pts_C,Shamell
+215,3,09:15,52,35,PIN,AS,Leandrinho
+216,3,09:22,52,35,PIN,RD,Rafael Mineiro
+217,3,09:22,52,35,BRA,3_Pts_T,Nezinho
+218,3,09:26,52,35,BRA,BR,Isaac
+219,3,09:26,52,35,PIN,ER,Shamell
+220,3,09:26,52,35,PIN,,
+221,3,09:26,52,35,BRA,ER,G Giovannoni
+222,3,09:39,52,35,BRA,RD,G Giovannoni
+223,3,09:39,52,35,PIN,2_Pts_T,Shamell
+224,2,00:00,52,35, ,fim_quarto,
+225,2,00:01,52,35,PIN,RD,Bambu
+226,2,00:01,52,35,BRA,2_Pts_T,G Giovannoni
+227,2,00:22,52,35,BRA,BR,G Giovannoni
+228,2,00:22,52,35,PIN,ER,Bambu
+229,2,00:33,52,35,BRA,LL_Pts_C,G Giovannoni
+230,2,00:33,51,35,BRA,LL_Pts_T,G Giovannoni
+231,2,00:33,51,35,PIN,substituicao_entra,Joe Smith
+232,2,00:33,51,35,PIN,substituicao_sai,Jonathan
+233,2,00:33,51,35,BRA,substituicao_sai,Osimani
+234,2,00:33,51,35,BRA,substituicao_entra,Rossi
+235,2,00:33,51,35,BRA,FR,G Giovannoni
+236,2,00:33,51,35,PIN,FC,Jonathan
+237,2,00:44,51,35,BRA,substituicao_entra,Nezinho
+238,2,00:44,51,35,BRA,substituicao_sai,Rossi
+239,2,00:44,51,35,BRA,FR,G Giovannoni
+240,2,00:44,51,35,PIN,FC,Bambu
+241,2,01:01,51,35,PIN,LL_Pts_C,Leandrinho
+242,2,01:01,51,34,PIN,AS,Rafael Mineiro
+243,2,01:01,51,34,PIN,2_Pts_C,Leandrinho
+244,2,01:01,51,32,PIN,FR,Leandrinho
+245,2,01:01,51,32,BRA,FC,Osimani
+246,2,01:01,51,32,PIN,BR,Rafael Mineiro
+247,2,01:01,51,32,BRA,ER,G Giovannoni
+248,2,01:09,51,32,PIN,RO,Rafael Mineiro
+249,2,01:09,51,32,PIN,2_Pts_T,Leandrinho
+250,2,01:21,51,32,PIN,RD,Rafael Mineiro
+251,2,01:21,51,32,BRA,3_Pts_T,Isaac
+252,2,01:29,51,32,PIN,substituicao_entra,Rafael Mineiro
+253,2,01:29,51,32,PIN,substituicao_sai,Morro
+254,2,01:29,51,32,BRA,substituicao_sai,Nezinho
+255,2,01:29,51,32,BRA,substituicao_entra,Osimani
+256,2,01:29,51,32,BRA,FR,Nezinho
+257,2,01:29,51,32,PIN,FC_O,Morro
+258,2,01:42,51,32,BRA,2_Pts_C,Rossi
+259,2,01:42,49,32,BRA,AS,Nezinho
+260,2,02:09,49,32,PIN,2_Pts_C,Shamell
+261,2,02:31,49,30,BRA,3_Pts_C,Isaac
+262,2,02:31,46,30,BRA,AS,G Giovannoni
+263,2,02:53,46,30,PIN,3_Pts_C,Leandrinho
+264,2,03:07,46,27,PIN,RO,Bambu
+265,2,03:07,46,27,PIN,2_Pts_T,Morro
+266,2,03:23,46,27,BRA,3_Pts_C,Goree
+267,2,03:36,43,27,BRA,tempo_tecnico,Brasília
+268,2,03:36,43,27,BRA,FR,Isaac
+269,2,03:36,43,27,PIN,FC_O,Jonathan
+270,2,03:36,43,27,BRA,RD,Brasília
+271,2,03:36,43,27,PIN,3_Pts_T,Shamell
+272,2,03:43,43,27,PIN,RD,Bambu
+273,2,03:43,43,27,BRA,2_Pts_T,Isaac
+274,2,03:49,43,27,BRA,RO,Isaac
+275,2,03:49,43,27,BRA,3_Pts_T,Rossi
+276,2,04:09,43,27,BRA,substituicao_sai,Arthur
+277,2,04:09,43,27,BRA,substituicao_entra,Rossi
+278,2,04:16,43,27,PIN,3_Pts_C,Bambu
+279,2,04:16,43,24,PIN,AS,Leandrinho
+280,2,04:32,43,24,PIN,RD,Morro
+281,2,04:32,43,24,BRA,2_Pts_T,Arthur
+282,2,04:41,43,24,BRA,RD,Isaac
+283,2,04:41,43,24,PIN,2_Pts_T,Jonathan
+284,2,04:58,43,24,PIN,RD,Bambu
+285,2,04:58,43,24,BRA,2_Pts_T,Arthur
+286,2,05:10,43,24,PIN,LL_Pts_C,Jonathan
+287,2,05:10,43,23,PIN,LL_Pts_C,Jonathan
+288,2,05:10,43,22,PIN,FR,Jonathan
+289,2,05:10,43,22,BRA,FC,Arthur
+290,2,05:10,43,22,PIN,RO,Jonathan
+291,2,05:10,43,22,PIN,2_Pts_T,Jonathan
+292,2,05:10,43,22,PIN,RO,Jonathan
+293,2,05:10,43,22,PIN,2_Pts_T,Shamell
+294,2,05:14,43,22,PIN,RO,Shamell
+295,2,05:14,43,22,PIN,2_Pts_T,Shamell
+296,2,05:42,43,22,BRA,2_Pts_C,G Giovannoni
+297,2,05:42,41,22,BRA,AS,Nezinho
+298,2,05:49,41,22,BRA,BR,Nezinho
+299,2,05:49,41,22,PIN,ER,Shamell
+300,2,06:12,41,22,PIN,RD,Morro
+301,2,06:12,41,22,BRA,3_Pts_T,G Giovannoni
+302,2,06:27,41,22,BRA,RD,Isaac
+303,2,06:27,41,22,PIN,3_Pts_T,Leandrinho
+304,2,06:49,41,22,PIN,substituicao_entra,Leandrinho
+305,2,06:49,41,22,PIN,substituicao_sai,Joe Smith
+306,2,06:49,41,22,PIN,substituicao_entra,Morro
+307,2,06:49,41,22,PIN,substituicao_sai,Rafael Mineiro
+308,2,06:50,41,22,PIN,tempo_tecnico,Pinheiros
+309,2,06:50,41,22,BRA,EN,Isaac
+310,2,06:50,39,22,BRA,AS,G Giovannoni
+311,2,06:53,39,22,BRA,BR,G Giovannoni
+312,2,06:53,39,22,PIN,ER,Rafael Mineiro
+313,2,07:07,39,22,PIN,RD,Rafael Mineiro
+314,2,07:07,39,22,BRA,3_Pts_T,Nezinho
+315,2,07:15,39,22,BRA,RD,Nezinho
+316,2,07:15,39,22,PIN,2_Pts_T,Rafael Mineiro
+317,2,07:35,39,22,BRA,EN,Arthur
+318,2,07:39,37,22,BRA,BR,Nezinho
+319,2,07:39,37,22,PIN,ER,Joe Smith
+320,2,07:59,37,22,BRA,3_Pts_C,Nezinho
+321,2,07:59,34,22,BRA,AS,Goree
+322,2,08:11,34,22,PIN,3_Pts_C,Bambu
+323,2,08:11,34,19,PIN,AS,Shamell
+324,2,08:16,34,19,BRA,substituicao_entra,Isaac
+325,2,08:16,34,19,BRA,substituicao_sai,Osimani
+326,2,08:16,34,19,PIN,FR,Joe Smith
+327,2,08:16,34,19,BRA,FC,Osimani
+328,2,08:29,34,19,BRA,3_Pts_C,Nezinho
+329,2,08:29,31,19,BRA,AS,Osimani
+330,2,08:38,31,19,BRA,substituicao_entra,G Giovannoni
+331,2,08:38,31,19,BRA,substituicao_sai,Ronald
+332,2,08:38,31,19,PIN,substituicao_entra,Jonathan
+333,2,08:38,31,19,PIN,substituicao_sai,Leandrinho
+334,2,08:52,31,19,BRA,RD,Goree
+335,2,08:52,31,19,PIN,3_Pts_T,Leandrinho
+336,2,08:58,31,19,PIN,RD,Rafael Mineiro
+337,2,08:58,31,19,BRA,3_Pts_T,Nezinho
+338,2,09:07,31,19,BRA,RD,Ronald
+339,2,09:07,31,19,PIN,3_Pts_T,Leandrinho
+340,2,09:18,31,19,PIN,RD,Shamell
+341,2,09:18,31,19,BRA,2_Pts_T,Arthur
+342,2,09:33,31,19,PIN,LL_Pts_C,Leandrinho
+343,2,09:33,31,18,PIN,LL_Pts_T,Leandrinho
+344,2,09:33,31,18,PIN,FR,Leandrinho
+345,2,09:33,31,18,BRA,FC,Ronald
+346,2,09:48,31,18,PIN,RD,Shamell
+347,2,09:48,31,18,BRA,2_Pts_T,Goree
+348,1,00:00,31,18, ,fim_quarto,
+349,1,00:01,31,18,BRA,3_Pts_C,Osimani
+350,1,00:01,28,18,BRA,AS,Nezinho
+351,1,00:12,28,18,BRA,RD,Ronald
+352,1,00:12,28,18,PIN,2_Pts_T,Shamell
+353,1,00:35,28,18,BRA,substituicao_sai,G Giovannoni
+354,1,00:35,28,18,BRA,substituicao_entra,Goree
+355,1,00:38,28,18,PIN,tempo_tecnico,Pinheiros
+356,1,00:38,28,18,BRA,3_Pts_C,Arthur
+357,1,00:38,25,18,BRA,AS,G Giovannoni
+358,1,00:56,25,18,BRA,FR,Nezinho
+359,1,00:56,25,18,PIN,FC_O,Leandrinho
+360,1,01:18,25,18,BRA,3_Pts_C,Nezinho
+361,1,01:29,22,18,PIN,substituicao_entra,Bambu
+362,1,01:29,22,18,PIN,substituicao_sai,Morro
+363,1,01:29,22,18,BRA,FR,Ronald
+364,1,01:29,22,18,PIN,FC,Shamell
+365,1,01:29,22,18,BRA,RD,Ronald
+366,1,01:29,22,18,PIN,2_Pts_T,Shamell
+367,1,01:55,22,18,BRA,3_Pts_C,Nezinho
+368,1,02:13,19,18,PIN,3_Pts_C,Shamell
+369,1,02:13,19,15,PIN,AS,Joe Smith
+370,1,02:26,19,15,PIN,RD,Shamell
+371,1,02:26,19,15,BRA,2_Pts_T,Nezinho
+372,1,02:44,19,15,BRA,FR,Osimani
+373,1,02:44,19,15,PIN,FC,Joe Smith
+374,1,02:46,19,15,BRA,RD,G Giovannoni
+375,1,02:46,19,15,BRA,TO,Ronald
+376,1,02:46,19,15,PIN,2_Pts_T,Morro
+377,1,02:58,19,15,BRA,substituicao_sai,Goree
+378,1,02:58,19,15,BRA,substituicao_entra,Ronald
+379,1,02:58,19,15,PIN,FR,Joe Smith
+380,1,02:58,19,15,BRA,FC,Osimani
+381,1,03:04,19,15,PIN,BR,Morro
+382,1,03:04,19,15,BRA,ER,Nezinho
+383,1,03:14,19,15,BRA,FR,Osimani
+384,1,03:14,19,15,PIN,FC,Morro
+385,1,03:17,19,15,BRA,BR,G Giovannoni
+386,1,03:17,19,15,PIN,ER,Rafael Mineiro
+387,1,03:28,19,15,PIN,RD,Rafael Mineiro
+388,1,03:28,19,15,BRA,3_Pts_T,G Giovannoni
+389,1,03:39,19,15,BRA,RD,G Giovannoni
+390,1,03:39,19,15,PIN,3_Pts_T,Rafael Mineiro
+391,1,03:57,19,15,BRA,2_Pts_C,Osimani
+392,1,04:03,17,15,BRA,RD,Osimani
+393,1,04:03,17,15,PIN,2_Pts_T,Rafael Mineiro
+394,1,04:18,17,15,BRA,EN,G Giovannoni
+395,1,04:18,15,15,BRA,AS,Goree
+396,1,04:38,15,15,PIN,3_Pts_C,Joe Smith
+397,1,04:38,15,12,PIN,AS,Shamell
+398,1,04:58,15,12,BRA,2_Pts_C,G Giovannoni
+399,1,04:58,13,12,BRA,AS,Goree
+400,1,05:06,13,12,PIN,2_Pts_C,Joe Smith
+401,1,05:20,13,10,PIN,,
+402,1,05:20,13,10,BRA,ER,Goree
+403,1,05:41,13,10,PIN,3_Pts_C,Shamell
+404,1,05:41,13,7,PIN,AS,Joe Smith
+405,1,05:47,13,7,PIN,FR,Shamell
+406,1,05:47,13,7,BRA,FC,G Giovannoni
+407,1,06:05,13,7,BRA,2_Pts_C,G Giovannoni
+408,1,06:19,11,7,PIN,3_Pts_C,Rafael Mineiro
+409,1,06:19,11,4,PIN,AS,Shamell
+410,1,06:35,11,4,PIN,RD,Shamell
+411,1,06:35,11,4,PIN,TO,Rafael Mineiro
+412,1,06:35,11,4,BRA,2_Pts_T,Goree
+413,1,06:52,11,4,BRA,RD,Brasília
+414,1,06:52,11,4,PIN,2_Pts_T,Leandrinho
+415,1,07:11,11,4,BRA,2_Pts_C,Goree
+416,1,07:31,9,4,PIN,2_Pts_C,Shamell
+417,1,07:56,9,2,BRA,2_Pts_C,G Giovannoni
+418,1,08:18,7,2,BRA,RD,Goree
+419,1,08:18,7,2,PIN,3_Pts_T,Rafael Mineiro
+420,1,08:34,7,2,BRA,3_Pts_C,Goree
+421,1,08:34,4,2,BRA,AS,Nezinho
+422,1,08:41,4,2,BRA,BR,G Giovannoni
+423,1,08:41,4,2,PIN,ER,Morro
+424,1,09:02,4,2,BRA,2_Pts_C,Goree
+425,1,09:20,2,2,PIN,EN,Morro
+426,1,09:20,2,0,PIN,AS,Joe Smith
+427,1,09:38,2,0,BRA,2_Pts_C,Goree
+428,1,09:49,0,0,BRA,RD,G Giovannoni
+429,1,09:49,0,0,PIN,2_Pts_T,Rafael Mineiro
+430,1,10:00,0,0,PIN,substituicao_entra,Joe Smith
+431,1,10:00,0,0,PIN,substituicao_entra,Leandrinho
+432,1,10:00,0,0,PIN,substituicao_entra,Shamell
+433,1,10:00,0,0,PIN,substituicao_entra,Rafael Mineiro
+434,1,10:00,0,0,PIN,substituicao_entra,Morro
+435,1,10:00,0,0,BRA,substituicao_entra,Goree
+436,1,10:00,0,0,BRA,substituicao_entra,Nezinho
+437,1,10:00,0,0,BRA,substituicao_entra,G Giovannoni
+438,1,10:00,0,0,BRA,substituicao_entra,Osimani
+439,1,10:00,0,0,BRA,substituicao_entra,Arthur

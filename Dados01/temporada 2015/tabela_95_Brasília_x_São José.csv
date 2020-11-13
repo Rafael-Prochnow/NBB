@@ -1,0 +1,519 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,83,73, ,fim_partida,
+1,4,00:03,83,73,SJO,RD,Renato C
+2,4,00:03,83,73,BRA,3_Pts_T,J Campos
+3,4,00:15,83,73,BRA,substituicao_sai,Coimbra
+4,4,00:15,83,73,BRA,substituicao_entra,Pureza
+5,4,00:15,83,73,BRA,tempo_tecnico,Brasília
+6,4,00:15,83,73,SJO,3_Pts_C,Jamaal
+7,4,00:15,83,70,SJO,AS,Gustavo
+8,4,00:20,83,70,SJO,RD,Gustavo
+9,4,00:20,83,70,BRA,2_Pts_T,Cipolini
+10,4,00:29,83,70,BRA,BR,Paulo
+11,4,00:29,83,70,SJO,ER,Jamaal
+12,4,00:39,83,70,SJO,RD,Renato C
+13,4,00:39,83,70,BRA,LL_Pts_T,Coimbra
+14,4,00:39,83,70,BRA,FR,Coimbra
+15,4,00:39,83,70,SJO,FC,Bruno Ferreira
+16,4,00:39,83,70,BRA,2_Pts_C,Coimbra
+17,4,00:39,81,70,BRA,AS,J Campos
+18,4,00:48,81,70,BRA,RO,J Campos
+19,4,00:48,81,70,BRA,3_Pts_T,Deryk
+20,4,01:05,81,70,BRA,substituicao_entra,Paulo
+21,4,01:05,81,70,BRA,substituicao_sai,Fulvio
+22,4,01:07,81,70,SJO,3_Pts_C,Gustavo
+23,4,01:07,81,67,SJO,AS,Jamaal
+24,4,01:14,81,67,SJO,RD,Pedro
+25,4,01:14,81,67,BRA,3_Pts_T,Fulvio
+26,4,01:25,81,67,BRA,LL_Pts_C,Fulvio
+27,4,01:25,80,67,SJO,substituicao_entra,Gustavo
+28,4,01:25,80,67,SJO,substituicao_sai,César
+29,4,01:25,80,67,BRA,substituicao_sai,G Giovannoni
+30,4,01:25,80,67,BRA,substituicao_entra,Cipolini
+31,4,01:25,80,67,SJO,FC_T,Bruno Ferreira
+32,4,01:29,80,67,BRA,RD,G Giovannoni
+33,4,01:29,80,67,SJO,2_Pts_T,César
+34,4,01:44,80,67,SJO,RD,César
+35,4,01:44,80,67,BRA,3_Pts_T,J Campos
+36,4,01:54,80,67,SJO,LL_Pts_C,Pedro
+37,4,01:54,80,66,SJO,LL_Pts_C,Pedro
+38,4,01:54,80,65,BRA,substituicao_sai,Pilar
+39,4,01:54,80,65,BRA,substituicao_entra,Deryk
+40,4,01:54,80,65,SJO,FR,Pedro
+41,4,01:54,80,65,BRA,FC,Coimbra
+42,4,02:04,80,65,SJO,RD,Renato C
+43,4,02:04,80,65,BRA,2_Pts_T,G Giovannoni
+44,4,02:26,80,65,BRA,RD,Pilar
+45,4,02:26,80,65,SJO,2_Pts_T,Jamaal
+46,4,02:35,80,65,BRA,LL_Pts_C,G Giovannoni
+47,4,02:35,79,65,BRA,LL_Pts_C,G Giovannoni
+48,4,02:35,78,65,BRA,FR,G Giovannoni
+49,4,02:35,78,65,SJO,FC,Bruno Ferreira
+50,4,02:38,78,65,BRA,RO,G Giovannoni
+51,4,02:38,78,65,BRA,3_Pts_T,J Campos
+52,4,02:53,78,65,SJO,LL_Pts_C,Jamaal
+53,4,02:53,78,64,SJO,LL_Pts_C,Jamaal
+54,4,02:53,78,63,SJO,FR,Jamaal
+55,4,02:53,78,63,BRA,FC,G Giovannoni
+56,4,03:10,78,63,SJO,RD,Pedro
+57,4,03:10,78,63,BRA,2_Pts_T,Pilar
+58,4,03:28,78,63,BRA,BR,J Campos
+59,4,03:28,78,63,SJO,ER,Pedro
+60,4,03:44,78,63,BRA,LL_Pts_C,G Giovannoni
+61,4,03:44,77,63,SJO,substituicao_sai,Gustavo
+62,4,03:44,77,63,SJO,substituicao_entra,Bruno Ferreira
+63,4,03:44,77,63,BRA,2_Pts_C,G Giovannoni
+64,4,03:44,75,63,BRA,FR,G Giovannoni
+65,4,03:44,75,63,SJO,FC,Gustavo
+66,4,03:44,75,63,BRA,RO,G Giovannoni
+67,4,03:44,75,63,BRA,2_Pts_T,G Giovannoni
+68,4,03:48,75,63,BRA,RO,G Giovannoni
+69,4,03:48,75,63,BRA,3_Pts_T,Fulvio
+70,4,04:06,75,63,SJO,LL_Pts_C,Jamaal
+71,4,04:06,75,62,SJO,LL_Pts_C,Jamaal
+72,4,04:06,75,61,BRA,substituicao_entra,Coimbra
+73,4,04:06,75,61,BRA,substituicao_sai,Ronald
+74,4,04:06,75,61,BRA,substituicao_entra,J Campos
+75,4,04:06,75,61,BRA,substituicao_sai,Deryk
+76,4,04:06,75,61,SJO,FR,Jamaal
+77,4,04:06,75,61,BRA,FC,Ronald
+78,4,04:19,75,61,BRA,3_Pts_C,G Giovannoni
+79,4,04:19,72,61,BRA,AS,Fulvio
+80,4,04:29,72,61,SJO,substituicao_entra,Renato C
+81,4,04:29,72,61,SJO,substituicao_sai,Aguirre
+82,4,04:29,72,61,SJO,LL_Pts_C,Jamaal
+83,4,04:29,72,60,SJO,LL_Pts_T,Jamaal
+84,4,04:29,72,60,SJO,FR,Jamaal
+85,4,04:29,72,60,BRA,FC,Deryk
+86,4,04:37,72,60,BRA,2_Pts_C,G Giovannoni
+87,4,04:37,70,60,BRA,AS,Fulvio
+88,4,04:57,70,60,SJO,2_Pts_C,Pedro
+89,4,04:59,70,58,SJO,RD,Aguirre
+90,4,04:59,70,58,BRA,2_Pts_T,G Giovannoni
+91,4,05:00,70,58,SJO,FR,Jamaal
+92,4,05:00,70,58,BRA,FC,Deryk
+93,4,05:13,70,58,SJO,substituicao_entra,Pedro
+94,4,05:13,70,58,SJO,substituicao_sai,Cauê
+95,4,05:28,70,58,BRA,RO,Fulvio
+96,4,05:28,70,58,BRA,3_Pts_T,Deryk
+97,4,05:28,70,58,BRA,BR,Fulvio
+98,4,05:28,70,58,SJO,ER,Cauê
+99,4,05:28,70,58,SJO,,
+100,4,05:28,70,58,BRA,ER,Fulvio
+101,4,05:48,70,58,BRA,FR,Pilar
+102,4,05:48,70,58,SJO,FC,Aguirre
+103,4,05:53,70,58,BRA,RD,Pilar
+104,4,05:53,70,58,SJO,2_Pts_T,Gustavo
+105,4,05:53,70,58,BRA,substituicao_entra,Ronald
+106,4,05:53,70,58,BRA,substituicao_sai,Cipolini
+107,4,05:53,70,58,SJO,FR,Jamaal
+108,4,05:53,70,58,BRA,FC,G Giovannoni
+109,4,06:09,70,58,BRA,2_Pts_C,G Giovannoni
+110,4,06:09,68,58,BRA,AS,Fulvio
+111,4,06:12,68,58,BRA,FR,Cipolini
+112,4,06:12,68,58,SJO,FC,César
+113,4,06:12,68,58,BRA,RO,Brasília
+114,4,06:12,68,58,BRA,3_Pts_T,Pilar
+115,4,06:37,68,58,BRA,RD,Pilar
+116,4,06:37,68,58,SJO,3_Pts_T,César
+117,4,06:39,68,58,SJO,RO,São José
+118,4,06:39,68,58,BRA,TO,G Giovannoni
+119,4,06:39,68,58,SJO,2_Pts_T,César
+120,4,06:47,68,58,BRA,substituicao_sai,J Campos
+121,4,06:47,68,58,BRA,substituicao_entra,Pilar
+122,4,06:47,68,58,SJO,FR,Jamaal
+123,4,06:47,68,58,BRA,FC,Deryk
+124,4,06:52,68,58,SJO,RD,Jamaal
+125,4,06:52,68,58,BRA,3_Pts_T,Deryk
+126,4,07:17,68,58,SJO,3_Pts_C,Gustavo
+127,4,07:17,68,55,SJO,AS,Jamaal
+128,4,07:32,68,55,BRA,ER,Deryk
+129,4,07:41,68,55,SJO,2_Pts_C,Gustavo
+130,4,07:45,68,53,SJO,RO,Gustavo
+131,4,07:45,68,53,SJO,2_Pts_T,Cauê
+132,4,08:08,68,53,BRA,LL_Pts_C,G Giovannoni
+133,4,08:08,67,53,BRA,substituicao_entra,Deryk
+134,4,08:08,67,53,BRA,substituicao_sai,Pilar
+135,4,08:08,67,53,BRA,2_Pts_C,G Giovannoni
+136,4,08:08,65,53,BRA,FR,G Giovannoni
+137,4,08:08,65,53,SJO,FC,Aguirre
+138,4,08:13,65,53,BRA,RO,Brasília
+139,4,08:13,65,53,BRA,2_Pts_T,Pilar
+140,4,08:27,65,53,SJO,LL_Pts_C,Aguirre
+141,4,08:27,65,52,SJO,2_Pts_C,Aguirre
+142,4,08:27,65,50,SJO,FR,Aguirre
+143,4,08:27,65,50,BRA,FC,Pilar
+144,4,08:51,65,50,BRA,3_Pts_C,Cipolini
+145,4,08:51,62,50,BRA,AS,Fulvio
+146,4,09:00,62,50,BRA,FR,Cipolini
+147,4,09:00,62,50,SJO,FC,Gustavo
+148,4,09:00,62,50,BRA,RD,Brasília
+149,4,09:00,62,50,SJO,3_Pts_T,Jamaal
+150,4,09:15,62,50,BRA,substituicao_entra,G Giovannoni
+151,4,09:15,62,50,BRA,substituicao_sai,Coimbra
+152,4,09:24,62,50,SJO,RD,César
+153,4,09:24,62,50,BRA,3_Pts_T,Pilar
+154,4,09:47,62,50,SJO,3_Pts_C,Jamaal
+155,3,00:00,62,47, ,fim_quarto,
+156,3,00:01,62,47,SJO,BR,Gustavo
+157,3,00:01,62,47,BRA,ER,J Campos
+158,3,00:01,62,47,BRA,FR,J Campos
+159,3,00:01,62,47,SJO,FC,Cauê
+160,3,00:23,62,47,SJO,2_Pts_C,Aguirre
+161,3,00:23,62,45,SJO,AS,Jamaal
+162,3,00:31,62,45,SJO,RD,Gustavo
+163,3,00:31,62,45,BRA,2_Pts_T,Deryk
+164,3,00:57,62,45,BRA,FR,Deryk
+165,3,00:57,62,45,SJO,FC,Cauê
+166,3,00:58,62,45,BRA,BR,J Campos
+167,3,00:58,62,45,SJO,ER,Cauê
+168,3,01:09,62,45,SJO,RD,Gustavo
+169,3,01:09,62,45,BRA,2_Pts_T,Deryk
+170,3,01:17,62,45,BRA,RD,Deryk
+171,3,01:17,62,45,SJO,LL_Pts_T,César
+172,3,01:17,62,45,SJO,LL_Pts_C,César
+173,3,01:17,62,44,SJO,substituicao_entra,Gustavo
+174,3,01:17,62,44,SJO,substituicao_entra,Cauê
+175,3,01:17,62,44,SJO,substituicao_sai,Pedro
+176,3,01:17,62,44,SJO,substituicao_sai,Matheus Dalla
+177,3,01:17,62,44,SJO,FR,César
+178,3,01:17,62,44,BRA,FC,Cipolini
+179,3,01:29,62,44,BRA,EN,J Campos
+180,3,01:29,60,44,BRA,AS,Coimbra
+181,3,01:32,60,44,BRA,RO,Coimbra
+182,3,01:32,60,44,BRA,2_Pts_T,Coimbra
+183,3,01:49,60,44,SJO,3_Pts_C,César
+184,3,01:49,60,41,SJO,AS,Jamaal
+185,3,02:01,60,41,BRA,3_Pts_C,Cipolini
+186,3,02:01,57,41,BRA,AS,Pilar
+187,3,02:23,57,41,SJO,3_Pts_C,Pedro
+188,3,02:23,57,38,SJO,AS,Jamaal
+189,3,02:27,57,38,SJO,RO,São José
+190,3,02:27,57,38,BRA,TO,Deryk
+191,3,02:27,57,38,SJO,2_Pts_T,Pedro
+192,3,02:33,57,38,SJO,RD,Jamaal
+193,3,02:33,57,38,BRA,3_Pts_T,J Campos
+194,3,02:51,57,38,SJO,LL_Pts_C,Pedro
+195,3,02:51,57,37,SJO,AS,César
+196,3,02:51,57,37,SJO,2_Pts_C,Pedro
+197,3,02:51,57,35,SJO,FR,Pedro
+198,3,02:51,57,35,BRA,FC,Coimbra
+199,3,03:03,57,35,SJO,FR,Jamaal
+200,3,03:03,57,35,BRA,FC,J Campos
+201,3,03:11,57,35,SJO,RD,Pedro
+202,3,03:11,57,35,BRA,3_Pts_T,Cipolini
+203,3,03:11,57,35,BRA,substituicao_entra,Pilar
+204,3,03:11,57,35,BRA,substituicao_sai,G Giovannoni
+205,3,03:11,57,35,SJO,substituicao_sai,Renato C
+206,3,03:11,57,35,SJO,substituicao_entra,Aguirre
+207,3,03:19,57,35,BRA,RO,Coimbra
+208,3,03:19,57,35,BRA,2_Pts_T,J Campos
+209,3,03:37,57,35,BRA,RD,Coimbra
+210,3,03:37,57,35,SJO,3_Pts_T,César
+211,3,03:52,57,35,BRA,3_Pts_C,J Campos
+212,3,03:52,54,35,BRA,AS,G Giovannoni
+213,3,03:59,54,35,BRA,RD,G Giovannoni
+214,3,03:59,54,35,SJO,2_Pts_T,Renato C
+215,3,04:11,54,35,BRA,2_Pts_C,Coimbra
+216,3,04:17,52,35,BRA,RO,Coimbra
+217,3,04:17,52,35,BRA,3_Pts_T,G Giovannoni
+218,3,04:23,52,35,BRA,FR,J Campos
+219,3,04:23,52,35,SJO,FC,Jamaal
+220,3,04:42,52,35,SJO,2_Pts_C,Matheus Dalla
+221,3,04:42,52,33,SJO,AS,Jamaal
+222,3,04:55,52,33,BRA,substituicao_entra,Cipolini
+223,3,04:55,52,33,BRA,substituicao_sai,Fulvio
+224,3,04:56,52,33,SJO,tempo_tecnico,São José
+225,3,04:56,52,33,BRA,2_Pts_C,J Campos
+226,3,04:56,50,33,BRA,AS,G Giovannoni
+227,3,05:01,50,33,BRA,RD,G Giovannoni
+228,3,05:01,50,33,BRA,TO,Coimbra
+229,3,05:01,50,33,SJO,2_Pts_T,Renato C
+230,3,05:29,50,33,BRA,2_Pts_C,J Campos
+231,3,05:29,48,33,BRA,AS,Deryk
+232,3,05:33,48,33,BRA,BR,Coimbra
+233,3,05:33,48,33,SJO,ER,César
+234,3,05:44,48,33,SJO,RD,Renato C
+235,3,05:44,48,33,BRA,2_Pts_T,G Giovannoni
+236,3,05:50,48,33,BRA,RD,G Giovannoni
+237,3,05:50,48,33,BRA,TO,G Giovannoni
+238,3,05:50,48,33,SJO,2_Pts_T,Pedro
+239,3,06:03,48,33,BRA,substituicao_entra,Deryk
+240,3,06:03,48,33,BRA,substituicao_sai,Pilar
+241,3,06:03,48,33,BRA,substituicao_entra,Coimbra
+242,3,06:03,48,33,BRA,substituicao_entra,J Campos
+243,3,06:03,48,33,BRA,substituicao_sai,Deryk
+244,3,06:03,48,33,BRA,substituicao_sai,Ronald
+245,3,06:03,48,33,SJO,FR,Pedro
+246,3,06:03,48,33,BRA,FC,Ronald
+247,3,06:03,48,33,SJO,BR,Pedro
+248,3,06:03,48,33,BRA,ER,Ronald
+249,3,06:17,48,33,BRA,RD,Pilar
+250,3,06:17,48,33,SJO,2_Pts_T,Pedro
+251,3,06:41,48,33,BRA,3_Pts_C,Pilar
+252,3,06:41,45,33,BRA,AS,Fulvio
+253,3,06:52,45,33,BRA,RO,Ronald
+254,3,06:52,45,33,BRA,2_Pts_T,Ronald
+255,3,07:09,45,33,BRA,RD,Deryk
+256,3,07:09,45,33,SJO,3_Pts_T,Matheus Dalla
+257,3,07:29,45,33,BRA,EN,Ronald
+258,3,07:29,43,33,BRA,AS,Fulvio
+259,3,07:44,43,33,SJO,3_Pts_C,César
+260,3,07:44,43,30,SJO,AS,Jamaal
+261,3,07:53,43,30,SJO,FR,Jamaal
+262,3,07:53,43,30,BRA,FC,Fulvio
+263,3,07:58,43,30,SJO,BR,César
+264,3,07:58,43,30,BRA,ER,Ronald
+265,3,08:19,43,30,SJO,AS,Pedro
+266,3,08:19,43,30,SJO,LL_Pts_C,Renato C
+267,3,08:19,43,29,SJO,LL_Pts_T,Renato C
+268,3,08:19,43,29,SJO,FR,Renato C
+269,3,08:19,43,29,BRA,FC,Ronald
+270,3,08:38,43,29,SJO,RD,Matheus Dalla
+271,3,08:38,43,29,BRA,3_Pts_T,Pilar
+272,3,08:56,43,29,SJO,2_Pts_C,Renato C
+273,3,08:56,43,27,SJO,AS,Pedro
+274,3,09:07,43,27,SJO,RD,Renato C
+275,3,09:07,43,27,BRA,2_Pts_T,G Giovannoni
+276,3,09:25,43,27,BRA,RD,Ronald
+277,3,09:25,43,27,SJO,2_Pts_T,César
+278,3,09:46,43,27,BRA,3_Pts_C,G Giovannoni
+279,2,00:00,40,27, ,fim_quarto,
+280,2,00:01,40,27,BRA,3_Pts_T,G Giovannoni
+281,2,00:03,40,27,BRA,substituicao_sai,Pureza
+282,2,00:03,40,27,BRA,substituicao_entra,Cipolini
+283,2,00:04,40,27,BRA,tempo_tecnico,Brasília
+284,2,00:04,40,27,BRA,FR,Deryk
+285,2,00:04,40,27,SJO,FC,Cauê
+286,2,00:05,40,27,BRA,substituicao_entra,Fulvio
+287,2,00:05,40,27,BRA,substituicao_entra,J Campos
+288,2,00:05,40,27,BRA,substituicao_sai,Coimbra
+289,2,00:05,40,27,BRA,substituicao_sai,Pilar
+290,2,00:05,40,27,SJO,substituicao_entra,Gustavo
+291,2,00:05,40,27,SJO,substituicao_sai,Aguirre
+292,2,00:05,40,27,SJO,substituicao_entra,Cauê
+293,2,00:05,40,27,SJO,substituicao_sai,Jamaal
+294,2,00:07,40,27,BRA,tempo_tecnico,Brasília
+295,2,00:07,40,27,BRA,FR,G Giovannoni
+296,2,00:07,40,27,SJO,FC,Pedro
+297,2,00:08,40,27,BRA,RD,G Giovannoni
+298,2,00:08,40,27,SJO,2_Pts_T,César
+299,2,00:31,40,27,BRA,substituicao_sai,Fulvio
+300,2,00:31,40,27,BRA,substituicao_entra,Pureza
+301,2,00:31,40,27,BRA,ER,
+302,2,00:56,40,27,SJO,LL_Pts_C,César
+303,2,00:56,40,26,SJO,LL_Pts_C,César
+304,2,00:56,40,25,SJO,FR,César
+305,2,00:56,40,25,BRA,FC,G Giovannoni
+306,2,01:06,40,25,SJO,RD,Jamaal
+307,2,01:06,40,25,BRA,3_Pts_T,Pilar
+308,2,01:25,40,25,SJO,2_Pts_C,César
+309,2,01:29,40,23,SJO,RO,César
+310,2,01:29,40,23,SJO,3_Pts_T,Jamaal
+311,2,01:49,40,23,BRA,2_Pts_C,Pilar
+312,2,01:53,38,23,BRA,BR,Pilar
+313,2,01:53,38,23,SJO,ER,Pedro
+314,2,02:04,38,23,SJO,tempo_tecnico,São José
+315,2,02:04,38,23,BRA,LL_Pts_C,Coimbra
+316,2,02:04,37,23,BRA,AS,Fulvio
+317,2,02:04,37,23,BRA,LL_Pts_C,Coimbra
+318,2,02:04,36,23,BRA,FR,Coimbra
+319,2,02:04,36,23,SJO,FC,Jamaal
+320,2,02:16,36,23,SJO,2_Pts_C,Jamaal
+321,2,02:31,36,21,BRA,2_Pts_C,Fulvio
+322,2,02:31,34,21,BRA,AS,Coimbra
+323,2,02:53,34,21,BRA,RD,Pilar
+324,2,02:53,34,21,SJO,3_Pts_T,César
+325,2,03:16,34,21,BRA,3_Pts_C,G Giovannoni
+326,2,03:16,31,21,BRA,AS,Fulvio
+327,2,03:31,31,21,SJO,2_Pts_C,Aguirre
+328,2,03:31,31,19,SJO,AS,Jamaal
+329,2,03:39,31,19,BRA,substituicao_entra,Coimbra
+330,2,03:39,31,19,BRA,substituicao_sai,Ronald
+331,2,03:39,31,19,SJO,substituicao_sai,Cauê
+332,2,03:39,31,19,SJO,substituicao_entra,César
+333,2,03:39,31,19,SJO,FR,Pedro
+334,2,03:39,31,19,BRA,FC,Ronald
+335,2,03:44,31,19,BRA,substituicao_entra,Deryk
+336,2,03:44,31,19,BRA,substituicao_sai,J Campos
+337,2,03:44,31,19,BRA,substituicao_entra,Pilar
+338,2,03:44,31,19,BRA,substituicao_sai,Cipolini
+339,2,03:44,31,19,SJO,FR,Cauê
+340,2,03:44,31,19,BRA,FC,J Campos
+341,2,03:51,31,19,SJO,RD,Aguirre
+342,2,03:51,31,19,BRA,3_Pts_T,J Campos
+343,2,03:57,31,19,BRA,RO,Ronald
+344,2,03:57,31,19,BRA,2_Pts_T,J Campos
+345,2,04:21,31,19,SJO,3_Pts_C,Pedro
+346,2,04:21,31,16,SJO,AS,Cauê
+347,2,04:27,31,16,SJO,RD,Cauê
+348,2,04:27,31,16,BRA,2_Pts_T,G Giovannoni
+349,2,04:33,31,16,BRA,RD,G Giovannoni
+350,2,04:33,31,16,SJO,3_Pts_T,Bruno Ferreira
+351,2,04:37,31,16,SJO,RO,São José
+352,2,04:37,31,16,SJO,2_Pts_T,Aguirre
+353,2,04:49,31,16,SJO,RD,Cauê
+354,2,04:49,31,16,BRA,3_Pts_T,Fulvio
+355,2,04:57,31,16,BRA,RD,G Giovannoni
+356,2,04:57,31,16,SJO,2_Pts_T,Jamaal
+357,2,05:09,31,16,BRA,3_Pts_C,J Campos
+358,2,05:09,28,16,BRA,AS,G Giovannoni
+359,2,05:22,28,16,BRA,substituicao_entra,G Giovannoni
+360,2,05:22,28,16,BRA,substituicao_sai,Pilar
+361,2,05:23,28,16,SJO,2_Pts_C,Jamaal
+362,2,05:27,28,14,SJO,BR,Bruno Ferreira
+363,2,05:27,28,14,BRA,ER,Ronald
+364,2,05:36,28,14,BRA,RO,Ronald
+365,2,05:36,28,14,BRA,3_Pts_T,J Campos
+366,2,05:46,28,14,SJO,LL_Pts_C,Cauê
+367,2,05:46,28,13,SJO,LL_Pts_T,Cauê
+368,2,05:46,28,13,SJO,AS,Jamaal
+369,2,05:46,28,13,SJO,LL_Pts_C,Cauê
+370,2,05:46,28,12,SJO,substituicao_entra,Aguirre
+371,2,05:46,28,12,SJO,substituicao_sai,Renato C
+372,2,05:46,28,12,SJO,FR,Cauê
+373,2,05:46,28,12,BRA,FC,Fulvio
+374,2,05:57,28,12,SJO,RD,Bruno Ferreira
+375,2,05:57,28,12,BRA,3_Pts_T,J Campos
+376,2,06:19,28,12,BRA,RD,Pilar
+377,2,06:19,28,12,SJO,3_Pts_T,Renato C
+378,2,06:43,28,12,BRA,3_Pts_C,Cipolini
+379,2,06:43,25,12,BRA,AS,Pilar
+380,2,07:03,25,12,SJO,2_Pts_C,Pedro
+381,2,07:03,25,10,SJO,AS,Bruno Ferreira
+382,2,07:20,25,10,SJO,FR,Pedro
+383,2,07:20,25,10,BRA,FC_O,Ronald
+384,2,07:38,25,10,BRA,RD,Pilar
+385,2,07:38,25,10,SJO,3_Pts_T,Jamaal
+386,2,07:49,25,10,BRA,substituicao_sai,Deryk
+387,2,07:49,25,10,BRA,substituicao_entra,Fulvio
+388,2,07:49,25,10,SJO,substituicao_entra,Jamaal
+389,2,07:49,25,10,SJO,substituicao_sai,Gustavo
+390,2,08:06,25,10,BRA,2_Pts_C,Ronald
+391,2,08:06,23,10,BRA,AS,J Campos
+392,2,08:15,23,10,BRA,BR,Pilar
+393,2,08:15,23,10,SJO,ER,Gustavo
+394,2,08:19,23,10,SJO,RO,Gustavo
+395,2,08:19,23,10,SJO,3_Pts_T,Pedro
+396,2,08:24,23,10,SJO,RO,Bruno Ferreira
+397,2,08:24,23,10,SJO,3_Pts_T,Gustavo
+398,2,08:42,23,10,BRA,ER,Cipolini
+399,2,08:49,23,10,BRA,RO,Pilar
+400,2,08:49,23,10,BRA,2_Pts_T,J Campos
+401,2,09:00,23,10,BRA,RD,Pilar
+402,2,09:00,23,10,SJO,2_Pts_T,Renato C
+403,2,09:16,23,10,SJO,RD,São José
+404,2,09:16,23,10,SJO,TO,Bruno Ferreira
+405,2,09:16,23,10,BRA,2_Pts_T,Ronald
+406,2,09:37,23,10,BRA,RD,Brasília
+407,2,09:37,23,10,SJO,2_Pts_T,Bruno Ferreira
+408,1,00:00,23,10, ,fim_quarto,
+409,1,00:02,23,10,BRA,3_Pts_C,Deryk
+410,1,00:25,20,10,SJO,2_Pts_C,Gustavo
+411,1,00:25,20,8,SJO,AS,Bruno Ferreira
+412,1,00:30,20,8,SJO,RD,Bruno Ferreira
+413,1,00:30,20,8,BRA,2_Pts_T,Pureza
+414,1,00:49,20,8,BRA,RD,Brasília
+415,1,00:49,20,8,SJO,3_Pts_T,Gustavo
+416,1,01:11,20,8,SJO,BR,Renato C
+417,1,01:11,20,8,BRA,ER,J Campos
+418,1,01:18,20,8,SJO,substituicao_entra,Pedro
+419,1,01:18,20,8,SJO,substituicao_sai,Matheus Dalla
+420,1,01:21,20,8,BRA,BR,Pureza
+421,1,01:21,20,8,SJO,ER,Matheus Dalla
+422,1,01:26,20,8,SJO,BR,Matheus Dalla
+423,1,01:26,20,8,BRA,ER,J Campos
+424,1,01:32,20,8,BRA,RO,J Campos
+425,1,01:32,20,8,BRA,3_Pts_T,Cipolini
+426,1,01:41,20,8,BRA,RD,Cipolini
+427,1,01:41,20,8,SJO,2_Pts_T,Gustavo
+428,1,02:01,20,8,SJO,FR,Matheus Dalla
+429,1,02:01,20,8,BRA,FC_O,Coimbra
+430,1,02:11,20,8,SJO,2_Pts_C,Cauê
+431,1,02:35,20,6,SJO,FR,Renato C
+432,1,02:35,20,6,BRA,FC_O,Coimbra
+433,1,02:49,20,6,BRA,BR,J Campos
+434,1,02:49,20,6,SJO,ER,Matheus Dalla
+435,1,03:00,20,6,BRA,LL_Pts_C,Deryk
+436,1,03:00,19,6,BRA,LL_Pts_C,Deryk
+437,1,03:00,18,6,BRA,substituicao_entra,Pureza
+438,1,03:00,18,6,BRA,substituicao_sai,Fulvio
+439,1,03:00,18,6,BRA,FR,Deryk
+440,1,03:00,18,6,SJO,FC,Gustavo
+441,1,03:33,18,6,BRA,FR,J Campos
+442,1,03:33,18,6,SJO,FC,Gustavo
+443,1,03:34,18,6,BRA,RD,Brasília
+444,1,03:34,18,6,SJO,3_Pts_T,Matheus Dalla
+445,1,03:50,18,6,SJO,RD,São José
+446,1,03:50,18,6,BRA,3_Pts_T,Cipolini
+447,1,04:07,18,6,SJO,substituicao_sai,Jamaal
+448,1,04:07,18,6,SJO,substituicao_entra,Cauê
+449,1,04:07,18,6,BRA,FR,Deryk
+450,1,04:07,18,6,SJO,FC,Bruno Ferreira
+451,1,04:07,18,6,BRA,BR,Deryk
+452,1,04:07,18,6,SJO,ER,Renato C
+453,1,04:07,18,6,SJO,substituicao_entra,Bruno Ferreira
+454,1,04:07,18,6,SJO,substituicao_sai,Pedro
+455,1,04:15,18,6,SJO,substituicao_entra,Gustavo
+456,1,04:15,18,6,SJO,substituicao_sai,César
+457,1,04:15,18,6,BRA,substituicao_entra,Coimbra
+458,1,04:15,18,6,BRA,substituicao_entra,Cipolini
+459,1,04:15,18,6,BRA,substituicao_entra,J Campos
+460,1,04:15,18,6,BRA,substituicao_sai,G Giovannoni
+461,1,04:15,18,6,BRA,substituicao_sai,Ronald
+462,1,04:15,18,6,BRA,substituicao_sai,Pilar
+463,1,04:33,18,6,BRA,3_Pts_C,G Giovannoni
+464,1,04:33,15,6,BRA,AS,Fulvio
+465,1,04:42,15,6,BRA,RD,G Giovannoni
+466,1,04:42,15,6,SJO,2_Pts_T,César
+467,1,05:06,15,6,BRA,2_Pts_C,Ronald
+468,1,05:06,13,6,BRA,AS,Fulvio
+469,1,05:39,13,6,SJO,2_Pts_C,César
+470,1,05:39,13,4,SJO,AS,Jamaal
+471,1,05:58,13,4,BRA,EN,G Giovannoni
+472,1,06:03,11,4,BRA,RO,G Giovannoni
+473,1,06:03,11,4,BRA,2_Pts_T,G Giovannoni
+474,1,06:11,11,4,SJO,2_Pts_C,César
+475,1,06:16,11,2,SJO,RO,César
+476,1,06:16,11,2,SJO,2_Pts_T,César
+477,1,06:20,11,2,SJO,RO,César
+478,1,06:20,11,2,SJO,2_Pts_T,César
+479,1,06:31,11,2,SJO,RD,César
+480,1,06:31,11,2,BRA,2_Pts_T,Pilar
+481,1,06:42,11,2,BRA,FR,Pilar
+482,1,06:42,11,2,SJO,FC,Matheus Dalla
+483,1,06:44,11,2,BRA,BR,Pilar
+484,1,06:44,11,2,SJO,ER,Renato C
+485,1,07:08,11,2,SJO,FR,Pedro
+486,1,07:08,11,2,BRA,FC,Fulvio
+487,1,07:12,11,2,SJO,RD,Pedro
+488,1,07:12,11,2,SJO,TO,César
+489,1,07:12,11,2,BRA,2_Pts_T,G Giovannoni
+490,1,07:18,11,2,BRA,RD,G Giovannoni
+491,1,07:18,11,2,SJO,2_Pts_T,Renato C
+492,1,07:38,11,2,BRA,2_Pts_C,G Giovannoni
+493,1,08:02,9,2,BRA,RD,Fulvio
+494,1,08:02,9,2,SJO,2_Pts_T,César
+495,1,08:04,9,2,SJO,FR,Matheus Dalla
+496,1,08:04,9,2,BRA,FC,Deryk
+497,1,08:14,9,2,SJO,tempo_tecnico,São José
+498,1,08:14,9,2,BRA,2_Pts_C,Deryk
+499,1,08:14,7,2,BRA,AS,G Giovannoni
+500,1,08:29,7,2,SJO,ER,Pedro
+501,1,08:40,7,2,BRA,2_Pts_C,Ronald
+502,1,08:40,5,2,BRA,AS,Deryk
+503,1,08:57,5,2,BRA,FR,Pilar
+504,1,08:57,5,2,SJO,FC_O,Renato C
+505,1,09:18,5,2,BRA,3_Pts_C,Deryk
+506,1,09:34,2,2,SJO,2_Pts_C,Matheus Dalla
+507,1,09:44,2,0,BRA,2_Pts_C,Ronald
+508,1,10:00,0,0,SJO,substituicao_entra,Renato C
+509,1,10:00,0,0,SJO,substituicao_entra,Pedro
+510,1,10:00,0,0,SJO,substituicao_entra,Jamaal
+511,1,10:00,0,0,SJO,substituicao_entra,Matheus Dalla
+512,1,10:00,0,0,SJO,substituicao_entra,César
+513,1,10:00,0,0,BRA,substituicao_entra,G Giovannoni
+514,1,10:00,0,0,BRA,substituicao_entra,Fulvio
+515,1,10:00,0,0,BRA,substituicao_entra,Deryk
+516,1,10:00,0,0,BRA,substituicao_entra,Ronald
+517,1,10:00,0,0,BRA,substituicao_entra,Pilar

@@ -1,0 +1,617 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,84,90,,fim_partida,
+1,5,00:00,84,90,,fim_quarto,
+2,5,00:21,84,90,MOG,RD,Deodato
+3,5,00:24,84,90,JLE,3_Pts_T,Starks
+4,5,00:36,84,90,MOG,LL_Pts_C,Cafferata
+5,5,00:36,84,89,MOG,LL_Pts_C,Cafferata
+6,5,00:36,84,88,MOG,FR,Cafferata
+7,5,00:36,84,88,JLE,FC,Starks
+8,5,00:41,84,88,JLE,ER,Rosniak
+9,5,00:50,84,88,JLE,substituicao_entra,Rosniak
+10,5,00:50,84,88,JLE,substituicao_sai,J Socas
+11,5,00:50,84,88,JLE,tempo_tecnico,Joinville / AABJ
+12,5,00:50,84,88,MOG,LL_Pts_C,Cafferata
+13,5,00:50,84,87,MOG,LL_Pts_C,Cafferata
+14,5,00:50,84,86,JLE,substituicao_entra,A Bambu
+15,5,00:50,84,86,JLE,substituicao_sai,Mathias
+16,5,00:50,84,86,MOG,FR,Cafferata
+17,5,00:50,84,86,JLE,FC,Mathias
+18,5,01:25,84,86,JLE,2_Pts_C,J Socas
+19,5,01:26,82,86,JLE,RO,J Socas
+20,5,01:30,82,86,JLE,3_Pts_T,Starks
+21,5,01:41,82,86,JLE,RD,F Vezaro
+22,5,01:43,82,86,MOG,2_Pts_T,Batista
+23,5,01:53,82,86,MOG,RD,Shamell
+24,5,01:53,82,86,JLE,3_Pts_T,F Vezaro
+25,5,01:53,82,86,JLE,RO,Mathias
+26,5,01:53,82,86,JLE,3_Pts_T,Starks
+27,5,01:53,82,86,MOG,AS,Cafferata
+28,5,01:53,82,86,MOG,2_Pts_C,Deodato
+29,5,02:19,82,84,JLE,3_Pts_C,J Socas
+30,5,02:22,79,84,MOG,LL_Pts_C,Gruber
+31,5,02:22,79,83,MOG,LL_Pts_T,Gruber
+32,5,02:22,79,83,JLE,substituicao_entra,Mathias
+33,5,02:22,79,83,JLE,substituicao_sai,A Bambu
+34,5,02:28,79,83,MOG,FR,Gruber
+35,5,02:28,79,83,JLE,FC,F Vezaro
+36,5,02:35,79,83,JLE,LL_Pts_C,Cook
+37,5,02:35,78,83,JLE,LL_Pts_C,Cook
+38,5,02:35,77,83,JLE,FR,Cook
+39,5,02:35,77,83,MOG,FC,Deodato
+40,5,02:46,77,83,JLE,RD,J Socas
+41,5,02:48,77,83,MOG,LL_Pts_T,Shamell
+42,5,02:48,77,83,MOG,LL_Pts_T,Shamell
+43,5,02:48,77,83,MOG,FR,Shamell
+44,5,02:48,77,83,JLE,FC,J Socas
+45,5,03:03,77,83,MOG,RD,Deodato
+46,5,03:06,77,83,JLE,3_Pts_T,F Vezaro
+47,5,03:26,77,83,MOG,2_Pts_C,Shamell
+48,5,03:45,77,81,JLE,substituicao_entra,A Bambu
+49,5,03:45,77,81,JLE,substituicao_sai,Rosniak
+50,5,03:45,77,81,MOG,FR,Gruber
+51,5,03:45,77,81,JLE,FC,Cook
+52,5,03:53,77,81,MOG,RD,Batista
+53,5,04:00,77,81,MOG,TO,Cafferata
+54,5,04:00,77,81,JLE,2_Pts_T,Rosniak
+55,5,04:06,77,81,MOG,AS,Cafferata
+56,5,04:06,77,81,MOG,2_Pts_C,Batista
+57,5,04:06,77,79,MOG,BR,Cafferata
+58,5,04:06,77,79,JLE,ER,F Vezaro
+59,5,04:10,77,79,MOG,ER,Deodato
+60,5,04:18,77,79,MOG,BR,Gruber
+61,5,04:18,77,79,JLE,ER,Cook
+62,5,04:37,77,79,MOG,2_Pts_C,Deodato
+63,5,05:00,77,77,,inicio_quarto,
+64,4,00:00,77,77,,fim_quarto,
+65,4,00:01,77,77,MOG,RD,Mogi
+66,4,00:01,77,77,JLE,3_Pts_T,Starks
+67,4,00:17,77,77,JLE,RD,Cook
+68,4,00:21,77,77,MOG,2_Pts_T,Gruber
+69,4,00:32,77,77,MOG,RD,Cafferata
+70,4,00:35,77,77,JLE,3_Pts_T,J Socas
+71,4,00:57,77,77,JLE,RD,F Vezaro
+72,4,01:03,77,77,MOG,3_Pts_T,Shamell
+73,4,01:23,77,77,JLE,LL_Pts_C,Cook
+74,4,01:23,76,77,JLE,FR,Cook
+75,4,01:23,76,77,MOG,FC,Shamell
+76,4,01:23,76,77,JLE,2_Pts_C,Cook
+77,4,01:33,74,77,MOG,AS,Deodato
+78,4,01:33,74,77,MOG,2_Pts_C,Batista
+79,4,01:56,74,75,MOG,FR,Shamell
+80,4,01:56,74,75,JLE,FC,F Vezaro
+81,4,02:05,74,75,JLE,AS,J Socas
+82,4,02:05,74,75,JLE,3_Pts_C,F Vezaro
+83,4,02:05,71,75,JLE,RD,F Vezaro
+84,4,02:05,71,75,MOG,2_Pts_T,Gruber
+85,4,02:18,71,75,JLE,substituicao_entra,Rosniak
+86,4,02:18,71,75,JLE,substituicao_sai,A Bambu
+87,4,02:20,71,75,MOG,RD,Shamell
+88,4,02:24,71,75,JLE,3_Pts_T,F Vezaro
+89,4,02:30,71,75,JLE,RD,Starks
+90,4,02:34,71,75,MOG,2_Pts_T,Deodato
+91,4,02:46,71,75,MOG,BR,Deodato
+92,4,02:46,71,75,JLE,ER,F Vezaro
+93,4,02:53,71,75,JLE,BR,F Vezaro
+94,4,02:53,71,75,MOG,ER,Shamell
+95,4,02:53,71,75,JLE,LL_Pts_C,Cook
+96,4,03:05,70,75,JLE,LL_Pts_C,Cook
+97,4,03:07,69,75,MOG,RD,Batista
+98,4,03:12,69,75,JLE,2_Pts_T,A Bambu
+99,4,03:12,69,75,JLE,LL_Pts_C,Cook
+100,4,03:21,68,75,JLE,substituicao_entra,Starks
+101,4,03:21,68,75,JLE,substituicao_sai,Maxwell
+102,4,03:21,68,75,JLE,substituicao_entra,A Bambu
+103,4,03:21,68,75,JLE,substituicao_sai,Rosniak
+104,4,03:21,68,75,JLE,FR,Cook
+105,4,03:21,68,75,MOG,FC,Shamell
+106,4,03:22,68,75,JLE,FR,Cook
+107,4,03:22,68,75,MOG,FC,Deodato
+108,4,03:23,68,75,JLE,RO,Joinville / AABJ
+109,4,03:35,68,75,MOG,AS,Batista
+110,4,03:35,68,75,MOG,2_Pts_C,Shamell
+111,4,03:37,68,73,JLE,3_Pts_T,Cook
+112,4,03:58,68,73,JLE,RD,J Socas
+113,4,04:01,68,73,MOG,3_Pts_T,Deodato
+114,4,04:02,68,73,MOG,RO,Gruber
+115,4,04:07,68,73,MOG,2_Pts_T,Gruber
+116,4,04:25,68,73,MOG,FR,Batista
+117,4,04:25,68,73,JLE,FC,Rosniak
+118,4,04:42,68,73,JLE,ER,
+119,4,04:58,68,73,JLE,FR,J Socas
+120,4,04:58,68,73,MOG,FC,Cafferata
+121,4,05:14,68,73,JLE,substituicao_entra,J Socas
+122,4,05:14,68,73,JLE,substituicao_sai,A Bambu
+123,4,05:14,68,73,JLE,substituicao_entra,Maxwell
+124,4,05:14,68,73,JLE,substituicao_sai,Starks
+125,4,05:14,68,73,JLE,tempo_tecnico,Joinville / AABJ
+126,4,05:54,68,73,MOG,AS,Shamell
+127,4,05:54,68,73,MOG,3_Pts_C,Cafferata
+128,4,06:06,68,70,MOG,RD,Gruber
+129,4,06:06,68,70,JLE,2_Pts_T,A Bambu
+130,4,06:06,68,70,MOG,AS,Gruber
+131,4,06:06,68,70,MOG,2_Pts_C,Batista
+132,4,06:06,68,68,MOG,RD,Shamell
+133,4,06:06,68,68,JLE,2_Pts_T,Rosniak
+134,4,06:06,68,68,JLE,substituicao_entra,A Bambu
+135,4,06:06,68,68,JLE,substituicao_sai,J Socas
+136,4,06:18,68,68,JLE,substituicao_entra,F Vezaro
+137,4,06:18,68,68,JLE,substituicao_sai,A Bambu
+138,4,06:18,68,68,JLE,substituicao_entra,Rosniak
+139,4,06:18,68,68,JLE,substituicao_sai,Maxwell
+140,4,06:18,68,68,JLE,tempo_tecnico,Joinville / AABJ
+141,4,06:18,68,68,MOG,2_Pts_C,Batista
+142,4,06:18,68,66,MOG,RO,Batista
+143,4,06:19,68,66,MOG,2_Pts_T,Shamell
+144,4,06:24,68,66,MOG,RD,Deodato
+145,4,06:27,68,66,JLE,2_Pts_T,Starks
+146,4,06:49,68,66,MOG,AS,Gruber
+147,4,06:49,68,66,MOG,2_Pts_C,Batista
+148,4,07:00,68,64,JLE,ER,
+149,4,07:22,68,64,MOG,AS,Shamell
+150,4,07:22,68,64,MOG,2_Pts_C,Batista
+151,4,07:22,68,62,MOG,RO,Cafferata
+152,4,07:22,68,62,MOG,3_Pts_T,Shamell
+153,4,07:22,68,62,MOG,LL_Pts_C,Batista
+154,4,07:22,68,61,MOG,LL_Pts_T,Batista
+155,4,07:22,68,61,JLE,substituicao_entra,Cook
+156,4,07:22,68,61,JLE,substituicao_sai,F Vezaro
+157,4,07:22,68,61,MOG,FR,Batista
+158,4,07:22,68,61,JLE,FC_A,Starks
+159,4,07:29,68,61,JLE,RO,Joinville / AABJ
+160,4,07:29,68,61,JLE,2_Pts_T,F Vezaro
+161,4,07:43,68,61,JLE,substituicao_entra,Maxwell
+162,4,07:43,68,61,JLE,substituicao_sai,Mathias
+163,4,07:58,68,61,JLE,RO,Starks
+164,4,08:02,68,61,JLE,3_Pts_T,F Vezaro
+165,4,08:07,68,61,JLE,BR,Starks
+166,4,08:07,68,61,MOG,ER,Gruber
+167,4,08:09,68,61,MOG,RO,Gruber
+168,4,08:11,68,61,MOG,2_Pts_T,Batista
+169,4,08:28,68,61,MOG,RD,Cafferata
+170,4,08:31,68,61,JLE,2_Pts_T,F Vezaro
+171,4,09:02,68,61,JLE,FR,Starks
+172,4,09:02,68,61,MOG,FC,Cafferata
+173,4,09:04,68,61,MOG,substituicao_entra,Cafferata
+174,4,09:04,68,61,MOG,substituicao_sai,Arthur Pecos
+175,4,09:04,68,61,MOG,substituicao_entra,Batista
+176,4,09:04,68,61,MOG,substituicao_sai,Lessa
+177,4,09:04,68,61,MOG,substituicao_entra,Shamell
+178,4,09:04,68,61,MOG,substituicao_sai,João Pedro
+179,4,09:04,68,61,MOG,ER,Lessa
+180,4,09:16,68,61,JLE,2_Pts_C,Starks
+181,4,09:23,66,61,JLE,BR,J Socas
+182,4,09:23,66,61,MOG,ER,Arthur Pecos
+183,4,09:33,66,61,JLE,3_Pts_C,Starks
+184,4,10:00,63,61,,inicio_quarto,
+185,3,00:00,63,61,,fim_quarto,
+186,3,00:07,63,61,JLE,3_Pts_C,Starks
+187,3,00:09,60,61,JLE,FR,Starks
+188,3,00:09,60,61,MOG,FC,Lucas
+189,3,00:09,60,61,MOG,LL_Pts_C,João Pedro
+190,3,00:09,60,60,MOG,LL_Pts_C,João Pedro
+191,3,00:09,60,59,MOG,substituicao_entra,Arthur Pecos
+192,3,00:09,60,59,MOG,substituicao_sai,Cafferata
+193,3,00:09,60,59,MOG,substituicao_entra,Lucas
+194,3,00:09,60,59,MOG,substituicao_sai,Deodato
+195,3,00:09,60,59,JLE,substituicao_entra,Starks
+196,3,00:09,60,59,JLE,substituicao_sai,J Socas
+197,3,00:09,60,59,MOG,FR,João Pedro
+198,3,00:09,60,59,JLE,FC,J Socas
+199,3,00:09,60,59,MOG,RO,João Pedro
+200,3,00:09,60,59,MOG,3_Pts_T,Gruber
+201,3,00:16,60,59,MOG,RD,João Pedro
+202,3,00:19,60,59,JLE,2_Pts_T,Weihermann
+203,3,00:28,60,59,JLE,RO,A Bambu
+204,3,00:31,60,59,JLE,3_Pts_T,A Bambu
+205,3,00:43,60,59,JLE,FR,J Socas
+206,3,00:43,60,59,MOG,FC,Cafferata
+207,3,00:51,60,59,JLE,RD,Maxwell
+208,3,00:53,60,59,MOG,LL_Pts_T,Cafferata
+209,3,00:53,60,59,MOG,LL_Pts_C,Cafferata
+210,3,00:53,60,58,JLE,substituicao_entra,Weihermann
+211,3,00:53,60,58,JLE,substituicao_sai,Cook
+212,3,00:53,60,58,MOG,FR,Cafferata
+213,3,00:53,60,58,JLE,FC,Cook
+214,3,00:53,60,58,JLE,substituicao_entra,Cook
+215,3,00:53,60,58,JLE,substituicao_sai,Starks
+216,3,01:05,60,58,JLE,ER,F Vezaro
+217,3,01:11,60,58,JLE,substituicao_entra,J Socas
+218,3,01:11,60,58,JLE,substituicao_sai,Cook
+219,3,01:11,60,58,JLE,substituicao_entra,A Bambu
+220,3,01:11,60,58,JLE,substituicao_sai,Mathias
+221,3,01:11,60,58,MOG,ER,Shamell
+222,3,01:12,60,58,MOG,RD,Shamell
+223,3,01:21,60,58,MOG,TO,Gruber
+224,3,01:21,60,58,JLE,3_Pts_T,Cook
+225,3,01:39,60,58,MOG,2_Pts_C,Deodato
+226,3,01:52,60,56,MOG,RD,João Pedro
+227,3,01:57,60,56,JLE,2_Pts_T,F Vezaro
+228,3,01:58,60,56,MOG,AS,Shamell
+229,3,01:58,60,56,MOG,LL_Pts_C,João Pedro
+230,3,01:58,60,55,MOG,LL_Pts_C,João Pedro
+231,3,01:58,60,54,MOG,substituicao_entra,Cafferata
+232,3,01:58,60,54,MOG,substituicao_sai,Arthur Pecos
+233,3,01:58,60,54,MOG,FR,João Pedro
+234,3,01:58,60,54,JLE,FC,Mathias
+235,3,02:15,60,54,JLE,2_Pts_C,Starks
+236,3,02:20,58,54,JLE,RD,Maxwell
+237,3,02:20,58,54,MOG,3_Pts_T,Deodato
+238,3,02:23,58,54,MOG,substituicao_entra,João Pedro
+239,3,02:23,58,54,MOG,substituicao_sai,Batista
+240,3,02:23,58,54,JLE,substituicao_entra,Mathias
+241,3,02:23,58,54,JLE,substituicao_sai,Rosniak
+242,3,02:23,58,54,JLE,substituicao_entra,Cook
+243,3,02:23,58,54,JLE,substituicao_sai,J Socas
+244,3,02:42,58,54,MOG,FR,Gruber
+245,3,02:42,58,54,JLE,FC,F Vezaro
+246,3,02:57,58,54,MOG,BR,Shamell
+247,3,02:57,58,54,JLE,ER,Rosniak
+248,3,03:03,58,54,JLE,BR,J Socas
+249,3,03:03,58,54,MOG,ER,Deodato
+250,3,03:09,58,54,JLE,2_Pts_C,Starks
+251,3,03:30,56,54,MOG,AS,Arthur Pecos
+252,3,03:30,56,54,MOG,EN,Deodato
+253,3,03:36,56,52,MOG,BR,Batista
+254,3,03:36,56,52,JLE,ER,F Vezaro
+255,3,03:54,56,52,JLE,RD,Starks
+256,3,04:01,56,52,JLE,TO,Rosniak
+257,3,04:01,56,52,MOG,2_Pts_T,Arthur Pecos
+258,3,04:07,56,52,JLE,substituicao_entra,Maxwell
+259,3,04:07,56,52,JLE,substituicao_sai,A Bambu
+260,3,04:07,56,52,JLE,substituicao_entra,Rosniak
+261,3,04:07,56,52,JLE,substituicao_sai,Cook
+262,3,04:07,56,52,JLE,substituicao_entra,F Vezaro
+263,3,04:07,56,52,JLE,substituicao_sai,Mathias
+264,3,04:07,56,52,MOG,FR,Batista
+265,3,04:07,56,52,JLE,FC,J Socas
+266,3,04:07,56,52,MOG,RD,Deodato
+267,3,04:08,56,52,JLE,3_Pts_T,A Bambu
+268,3,04:27,56,52,MOG,2_Pts_C,Arthur Pecos
+269,3,04:35,56,50,MOG,BR,Arthur Pecos
+270,3,04:35,56,50,JLE,ER,J Socas
+271,3,04:53,56,50,MOG,AS,Shamell
+272,3,04:53,56,50,MOG,2_Pts_C,Batista
+273,3,05:17,56,48,JLE,AS,J Socas
+274,3,05:17,56,48,JLE,2_Pts_C,Starks
+275,3,05:25,54,48,JLE,BR,J Socas
+276,3,05:25,54,48,MOG,ER,Arthur Pecos
+277,3,05:26,54,48,MOG,RD,Gruber
+278,3,05:34,54,48,MOG,TO,Gruber
+279,3,05:34,54,48,JLE,2_Pts_T,Cook
+280,3,05:52,54,48,MOG,AS,Deodato
+281,3,05:52,54,48,MOG,2_Pts_C,Batista
+282,3,06:00,54,46,JLE,AS,J Socas
+283,3,06:00,54,46,JLE,3_Pts_C,A Bambu
+284,3,06:03,51,46,JLE,RO,J Socas
+285,3,06:06,51,46,JLE,2_Pts_T,Cook
+286,3,06:14,51,46,JLE,BR,A Bambu
+287,3,06:14,51,46,MOG,ER,Arthur Pecos
+288,3,06:17,51,46,MOG,RD,Batista
+289,3,06:21,51,46,JLE,2_Pts_T,Cook
+290,3,06:53,51,46,JLE,FR,Cook
+291,3,06:53,51,46,MOG,FC,Shamell
+292,3,06:57,51,46,JLE,RD,Cook
+293,3,07:02,51,46,MOG,3_Pts_T,Deodato
+294,3,07:12,51,46,JLE,3_Pts_C,Cook
+295,3,07:19,48,46,MOG,2_Pts_C,Batista
+296,3,07:19,48,44,MOG,RO,Batista
+297,3,07:24,48,44,MOG,3_Pts_T,Shamell
+298,3,07:38,48,44,MOG,RD,Batista
+299,3,07:41,48,44,JLE,3_Pts_T,Starks
+300,3,07:49,48,44,JLE,BR,J Socas
+301,3,07:49,48,44,MOG,ER,Deodato
+302,3,08:00,48,44,JLE,3_Pts_C,Starks
+303,3,08:17,45,44,MOG,LL_Pts_C,Shamell
+304,3,08:17,45,43,MOG,LL_Pts_C,Shamell
+305,3,08:17,45,42,MOG,FR,Shamell
+306,3,08:17,45,42,JLE,FC,A Bambu
+307,3,08:24,45,42,MOG,RO,Deodato
+308,3,08:27,45,42,MOG,2_Pts_T,Batista
+309,3,08:42,45,42,JLE,2_Pts_C,Cook
+310,3,09:04,43,42,MOG,AS,Arthur Pecos
+311,3,09:04,43,42,MOG,3_Pts_C,Deodato
+312,3,09:23,43,39,MOG,RO,Batista
+313,3,09:26,43,39,MOG,3_Pts_T,Shamell
+314,3,09:36,43,39,MOG,BR,Gruber
+315,3,09:36,43,39,JLE,ER,Starks
+316,3,09:48,43,39,JLE,BR,Starks
+317,3,09:48,43,39,MOG,ER,Arthur Pecos
+318,3,10:00,43,39,,inicio_quarto,
+319,2,00:00,43,39,,fim_quarto,
+320,2,00:04,43,39,MOG,AS,Shamell
+321,2,00:04,43,39,MOG,2_Pts_C,Batista
+322,2,00:18,43,37,MOG,RD,Batista
+323,2,00:21,43,37,JLE,2_Pts_T,Cook
+324,2,00:41,43,37,JLE,substituicao_entra,Mathias
+325,2,00:41,43,37,JLE,substituicao_sai,Weihermann
+326,2,00:41,43,37,JLE,substituicao_entra,A Bambu
+327,2,00:41,43,37,JLE,substituicao_sai,Rosniak
+328,2,00:41,43,37,JLE,tempo_tecnico,Joinville / AABJ
+329,2,00:41,43,37,MOG,ER,Deodato
+330,2,00:41,43,37,MOG,RD,Batista
+331,2,00:41,43,37,JLE,2_Pts_T,Starks
+332,2,01:03,43,37,MOG,AS,Deodato
+333,2,01:03,43,37,MOG,2_Pts_C,Batista
+334,2,01:22,43,35,JLE,AS,Cook
+335,2,01:22,43,35,JLE,EN,Rosniak
+336,2,01:24,41,35,MOG,substituicao_entra,Lucas
+337,2,01:24,41,35,MOG,substituicao_sai,Cafferata
+338,2,01:24,41,35,MOG,substituicao_entra,Arthur Pecos
+339,2,01:24,41,35,MOG,substituicao_sai,Lessa
+340,2,01:24,41,35,JLE,substituicao_entra,Cook
+341,2,01:24,41,35,JLE,substituicao_sai,J Socas
+342,2,01:24,41,35,JLE,substituicao_entra,Rosniak
+343,2,01:24,41,35,JLE,substituicao_sai,Mathias
+344,2,01:24,41,35,JLE,substituicao_entra,F Vezaro
+345,2,01:24,41,35,JLE,substituicao_sai,Maxwell
+346,2,01:40,41,35,JLE,BR,J Socas
+347,2,01:40,41,35,MOG,ER,Lessa
+348,2,02:02,41,35,JLE,AS,J Socas
+349,2,02:02,41,35,JLE,2_Pts_C,Weihermann
+350,2,02:03,39,35,JLE,RD,J Socas
+351,2,02:07,39,35,MOG,2_Pts_T,Cafferata
+352,2,02:12,39,35,MOG,RD,Deodato
+353,2,02:17,39,35,JLE,2_Pts_T,Maxwell
+354,2,02:40,39,35,JLE,BR,Starks
+355,2,02:40,39,35,MOG,ER,Lessa
+356,2,02:46,39,35,MOG,BR,Lessa
+357,2,02:46,39,35,JLE,ER,J Socas
+358,2,03:07,39,35,MOG,LL_Pts_C,Cafferata
+359,2,03:07,39,34,MOG,LL_Pts_C,Cafferata
+360,2,03:07,39,33,MOG,FR,Cafferata
+361,2,03:07,39,33,JLE,FC,Maxwell
+362,2,03:26,39,33,MOG,RD,Mogi
+363,2,03:26,39,33,JLE,3_Pts_T,J Socas
+364,2,03:46,39,33,MOG,substituicao_entra,Batista
+365,2,03:46,39,33,MOG,substituicao_sai,João Pedro
+366,2,03:46,39,33,JLE,substituicao_entra,Starks
+367,2,03:46,39,33,JLE,substituicao_sai,Cook
+368,2,03:46,39,33,JLE,tempo_tecnico,Joinville / AABJ
+369,2,03:46,39,33,MOG,2_Pts_C,Shamell
+370,2,03:46,39,31,MOG,RD,João Pedro
+371,2,03:46,39,31,JLE,2_Pts_T,Mathias
+372,2,03:46,39,31,MOG,substituicao_entra,João Pedro
+373,2,03:46,39,31,MOG,substituicao_sai,Batista
+374,2,03:46,39,31,JLE,substituicao_entra,Mathias
+375,2,03:46,39,31,JLE,substituicao_sai,A Bambu
+376,2,03:46,39,31,JLE,substituicao_entra,Weihermann
+377,2,03:46,39,31,JLE,substituicao_sai,F Vezaro
+378,2,03:46,39,31,JLE,FR,Cook
+379,2,03:46,39,31,MOG,FC,Lessa
+380,2,03:46,39,31,MOG,LL_Pts_C,Batista
+381,2,03:46,39,30,MOG,LL_Pts_C,Batista
+382,2,03:46,39,29,MOG,FR,Batista
+383,2,03:46,39,29,JLE,FC,Maxwell
+384,2,03:46,39,29,JLE,substituicao_entra,Maxwell
+385,2,03:46,39,29,JLE,substituicao_sai,Colimerio
+386,2,03:50,39,29,MOG,substituicao_entra,Shamell
+387,2,03:50,39,29,MOG,substituicao_sai,João Pedro
+388,2,03:50,39,29,MOG,RD,João Pedro
+389,2,03:50,39,29,JLE,2_Pts_T,Cook
+390,2,03:50,39,29,JLE,substituicao_entra,J Socas
+391,2,03:50,39,29,JLE,substituicao_sai,Starks
+392,2,03:50,39,29,JLE,substituicao_entra,Colimerio
+393,2,03:50,39,29,JLE,substituicao_sai,Mathias
+394,2,04:24,39,29,MOG,FR,Batista
+395,2,04:24,39,29,JLE,FC,Mathias
+396,2,04:29,39,29,MOG,2_Pts_C,Batista
+397,2,04:35,39,27,MOG,RO,Batista
+398,2,04:38,39,27,MOG,2_Pts_T,Batista
+399,2,05:02,39,27,JLE,2_Pts_C,F Vezaro
+400,2,05:12,37,27,JLE,RD,A Bambu
+401,2,05:15,37,27,MOG,2_Pts_T,João Pedro
+402,2,05:25,37,27,MOG,RD,Deodato
+403,2,05:28,37,27,JLE,3_Pts_T,Mathias
+404,2,05:49,37,27,MOG,LL_Pts_C,João Pedro
+405,2,05:49,37,26,MOG,LL_Pts_C,João Pedro
+406,2,05:49,37,25,MOG,substituicao_entra,Cafferata
+407,2,05:49,37,25,MOG,substituicao_sai,Arthur Pecos
+408,2,05:49,37,25,MOG,FR,João Pedro
+409,2,05:49,37,25,JLE,FC,A Bambu
+410,2,05:51,37,25,MOG,RD,Deodato
+411,2,05:54,37,25,JLE,3_Pts_T,A Bambu
+412,2,06:15,37,25,MOG,AS,Arthur Pecos
+413,2,06:15,37,25,MOG,2_Pts_C,João Pedro
+414,2,06:28,37,23,JLE,AS,F Vezaro
+415,2,06:28,37,23,JLE,2_Pts_C,Starks
+416,2,06:34,35,23,MOG,substituicao_entra,Lessa
+417,2,06:34,35,23,MOG,substituicao_sai,Shamell
+418,2,06:34,35,23,JLE,substituicao_entra,A Bambu
+419,2,06:34,35,23,JLE,substituicao_sai,Rosniak
+420,2,06:34,35,23,JLE,substituicao_entra,Starks
+421,2,06:34,35,23,JLE,substituicao_sai,J Socas
+422,2,06:35,35,23,JLE,RO,Joinville / AABJ
+423,2,06:39,35,23,JLE,3_Pts_T,F Vezaro
+424,2,06:46,35,23,JLE,BR,Cook
+425,2,06:46,35,23,MOG,ER,Batista
+426,2,07:06,35,23,JLE,AS,J Socas
+427,2,07:06,35,23,JLE,3_Pts_C,F Vezaro
+428,2,07:18,32,23,MOG,AS,Batista
+429,2,07:18,32,23,MOG,EN,João Pedro
+430,2,07:33,32,21,MOG,RD,Batista
+431,2,07:35,32,21,JLE,LL_Pts_T,Cook
+432,2,07:35,32,21,JLE,FR,Cook
+433,2,07:35,32,21,MOG,FC,Arthur Pecos
+434,2,07:35,32,21,JLE,2_Pts_C,Cook
+435,2,07:52,30,21,JLE,RD,Mathias
+436,2,07:54,30,21,MOG,LL_Pts_T,João Pedro
+437,2,07:54,30,21,MOG,LL_Pts_T,João Pedro
+438,2,07:54,30,21,MOG,FR,João Pedro
+439,2,07:54,30,21,JLE,FC,Rosniak
+440,2,08:29,30,21,JLE,substituicao_entra,Rosniak
+441,2,08:29,30,21,JLE,substituicao_sai,A Bambu
+442,2,08:29,30,21,MOG,FR,Arthur Pecos
+443,2,08:29,30,21,JLE,ER,Mathias
+444,2,08:29,30,21,JLE,FC_O,Mathias
+445,2,08:35,30,21,JLE,RD,Mathias
+446,2,08:38,30,21,MOG,LL_Pts_T,Batista
+447,2,08:38,30,21,JLE,substituicao_entra,F Vezaro
+448,2,08:38,30,21,JLE,substituicao_sai,Starks
+449,2,08:38,30,21,JLE,substituicao_entra,Mathias
+450,2,08:38,30,21,JLE,substituicao_sai,Maxwell
+451,2,08:38,30,21,MOG,FR,Batista
+452,2,08:38,30,21,JLE,FC,A Bambu
+453,2,08:38,30,21,MOG,2_Pts_C,Batista
+454,2,08:45,30,19,MOG,RD,Shamell
+455,2,08:51,30,19,JLE,3_Pts_T,Starks
+456,2,09:00,30,19,MOG,EN,João Pedro
+457,2,09:17,30,17,JLE,AS,J Socas
+458,2,09:17,30,17,JLE,EN,Maxwell
+459,2,09:24,28,17,JLE,BR,J Socas
+460,2,09:24,28,17,MOG,ER,Arthur Pecos
+461,2,09:27,28,17,MOG,RD,Arthur Pecos
+462,2,09:34,28,17,MOG,TO,João Pedro
+463,2,09:34,28,17,JLE,2_Pts_T,Cook
+464,2,09:42,28,17,MOG,AS,Deodato
+465,2,09:42,28,17,MOG,2_Pts_C,Batista
+466,2,10:00,28,15,JLE,2_Pts_C,Cook
+467,2,10:00,26,15,,inicio_quarto,
+468,1,00:00,26,15,,fim_quarto,
+469,1,00:04,26,15,JLE,LL_Pts_C,Starks
+470,1,00:04,25,15,JLE,substituicao_entra,Dieguinho
+471,1,00:04,25,15,JLE,substituicao_sai,Cook
+472,1,00:04,25,15,JLE,substituicao_entra,Colimerio
+473,1,00:04,25,15,JLE,substituicao_sai,Mathias
+474,1,00:04,25,15,JLE,substituicao_entra,Rosniak
+475,1,00:04,25,15,JLE,substituicao_sai,A Bambu
+476,1,00:04,25,15,JLE,FR,Cook
+477,1,00:04,25,15,MOG,FC,João Pedro
+478,1,00:04,25,15,JLE,3_Pts_C,Starks
+479,1,00:05,22,15,JLE,substituicao_entra,Cook
+480,1,00:05,22,15,JLE,substituicao_sai,Dieguinho
+481,1,00:05,22,15,JLE,LL_Pts_T,Starks
+482,1,00:05,22,15,MOG,FC_T,Mogi
+483,1,00:05,22,15,JLE,FR,Starks
+484,1,00:05,22,15,MOG,FC,Lucas
+485,1,00:21,22,15,JLE,substituicao_entra,F Vezaro
+486,1,00:21,22,15,JLE,substituicao_sai,J Socas
+487,1,00:21,22,15,JLE,substituicao_entra,Mathias
+488,1,00:21,22,15,JLE,substituicao_sai,Maxwell
+489,1,00:21,22,15,JLE,substituicao_entra,Starks
+490,1,00:21,22,15,JLE,substituicao_sai,Weihermann
+491,1,00:21,22,15,JLE,substituicao_entra,A Bambu
+492,1,00:21,22,15,JLE,substituicao_sai,Rosniak
+493,1,00:21,22,15,MOG,LL_Pts_C,Shamell
+494,1,00:21,22,14,MOG,LL_Pts_C,Shamell
+495,1,00:21,22,13,MOG,FR,Shamell
+496,1,00:21,22,13,JLE,FC,Weihermann
+497,1,00:25,22,13,MOG,FR,Lucas
+498,1,00:25,22,13,JLE,FC,Dieguinho
+499,1,00:31,22,13,JLE,substituicao_entra,Dieguinho
+500,1,00:31,22,13,JLE,substituicao_sai,Starks
+501,1,00:31,22,13,JLE,substituicao_entra,Rosniak
+502,1,00:31,22,13,JLE,substituicao_sai,A Bambu
+503,1,00:31,22,13,MOG,FR,João Pedro
+504,1,00:31,22,13,JLE,FC,J Socas
+505,1,00:31,22,13,MOG,RD,João Pedro
+506,1,00:31,22,13,JLE,2_Pts_T,J Socas
+507,1,00:38,22,13,JLE,BR,J Socas
+508,1,00:38,22,13,MOG,ER,Shamell
+509,1,00:58,22,13,MOG,RD,Shamell
+510,1,01:02,22,13,JLE,3_Pts_T,A Bambu
+511,1,01:19,22,13,MOG,ER,João Pedro
+512,1,01:20,22,13,MOG,RD,Cafferata
+513,1,01:24,22,13,JLE,3_Pts_T,Starks
+514,1,01:37,22,13,MOG,ER,
+515,1,01:46,22,13,MOG,substituicao_entra,Shamell
+516,1,01:46,22,13,MOG,substituicao_sai,Deodato
+517,1,01:46,22,13,JLE,substituicao_entra,Weihermann
+518,1,01:46,22,13,JLE,substituicao_sai,Cook
+519,1,01:46,22,13,JLE,substituicao_entra,Maxwell
+520,1,01:46,22,13,JLE,substituicao_sai,Mathias
+521,1,01:46,22,13,JLE,substituicao_entra,J Socas
+522,1,01:46,22,13,JLE,substituicao_sai,F Vezaro
+523,1,01:47,22,13,MOG,RO,Lessa
+524,1,01:51,22,13,MOG,3_Pts_T,Cafferata
+525,1,01:57,22,13,MOG,RD,João Pedro
+526,1,02:00,22,13,JLE,2_Pts_T,A Bambu
+527,1,02:19,22,13,JLE,RD,Joinville / AABJ
+528,1,02:19,22,13,JLE,TO,Mathias
+529,1,02:19,22,13,MOG,2_Pts_T,Deodato
+530,1,02:29,22,13,MOG,substituicao_entra,Lucas
+531,1,02:29,22,13,MOG,substituicao_sai,Arthur Pecos
+532,1,02:47,22,13,JLE,3_Pts_C,Starks
+533,1,03:01,19,13,JLE,RD,Joinville / AABJ
+534,1,03:01,19,13,MOG,2_Pts_T,Arthur Pecos
+535,1,03:08,19,13,JLE,substituicao_entra,A Bambu
+536,1,03:08,19,13,JLE,substituicao_sai,Rosniak
+537,1,03:08,19,13,MOG,substituicao_entra,João Pedro
+538,1,03:08,19,13,MOG,substituicao_sai,Batista
+539,1,03:08,19,13,MOG,substituicao_entra,Cafferata
+540,1,03:08,19,13,MOG,substituicao_sai,Shamell
+541,1,03:08,19,13,MOG,FR,Batista
+542,1,03:08,19,13,JLE,FC,Mathias
+543,1,03:11,19,13,JLE,2_Pts_C,Rosniak
+544,1,03:11,17,13,JLE,RO,Rosniak
+545,1,03:22,17,13,JLE,2_Pts_T,Mathias
+546,1,03:36,17,13,MOG,2_Pts_C,Shamell
+547,1,03:42,17,11,MOG,BR,Shamell
+548,1,03:42,17,11,JLE,ER,Cook
+549,1,03:52,17,11,JLE,BR,Rosniak
+550,1,03:52,17,11,MOG,ER,Batista
+551,1,04:05,17,11,JLE,substituicao_entra,Cook
+552,1,04:05,17,11,JLE,substituicao_sai,J Socas
+553,1,04:05,17,11,JLE,substituicao_entra,Mathias
+554,1,04:05,17,11,JLE,substituicao_sai,Maxwell
+555,1,04:05,17,11,MOG,FR,Batista
+556,1,04:05,17,11,JLE,FC,Maxwell
+557,1,04:16,17,11,JLE,3_Pts_C,Starks
+558,1,04:31,14,11,MOG,substituicao_entra,Lessa
+559,1,04:31,14,11,MOG,substituicao_sai,Gruber
+560,1,04:31,14,11,JLE,FR,Maxwell
+561,1,04:31,14,11,MOG,ER,Gruber
+562,1,04:31,14,11,MOG,FC_O,Gruber
+563,1,04:33,14,11,MOG,RD,Deodato
+564,1,04:37,14,11,JLE,2_Pts_T,Maxwell
+565,1,04:52,14,11,JLE,FR,Maxwell
+566,1,04:52,14,11,MOG,FC,Gruber
+567,1,04:52,14,11,JLE,BR,Maxwell
+568,1,04:52,14,11,MOG,ER,Gruber
+569,1,05:07,14,11,JLE,substituicao_entra,Rosniak
+570,1,05:07,14,11,JLE,substituicao_sai,A Bambu
+571,1,05:07,14,11,JLE,substituicao_entra,F Vezaro
+572,1,05:07,14,11,JLE,substituicao_sai,Cook
+573,1,05:07,14,11,JLE,ER,Cook
+574,1,05:31,14,11,MOG,AS,Deodato
+575,1,05:31,14,11,MOG,3_Pts_C,Shamell
+576,1,05:36,14,8,MOG,RD,Deodato
+577,1,05:39,14,8,JLE,3_Pts_T,Cook
+578,1,05:54,14,8,MOG,AS,Shamell
+579,1,05:54,14,8,MOG,2_Pts_C,Gruber
+580,1,06:14,14,6,MOG,tempo_tecnico,Mogi
+581,1,06:14,14,6,JLE,AS,Cook
+582,1,06:14,14,6,JLE,2_Pts_C,J Socas
+583,1,06:17,12,6,JLE,RD,Starks
+584,1,06:21,12,6,MOG,2_Pts_T,Gruber
+585,1,06:37,12,6,JLE,2_Pts_C,Starks
+586,1,06:49,10,6,MOG,AS,Arthur Pecos
+587,1,06:49,10,6,MOG,2_Pts_C,Batista
+588,1,06:58,10,4,JLE,2_Pts_C,J Socas
+589,1,06:59,8,4,JLE,RO,J Socas
+590,1,07:03,8,4,JLE,2_Pts_T,Maxwell
+591,1,07:11,8,4,JLE,RD,Starks
+592,1,07:15,8,4,MOG,3_Pts_T,Shamell
+593,1,07:30,8,4,JLE,3_Pts_C,Starks
+594,1,07:35,5,4,MOG,2_Pts_C,Gruber
+595,1,07:39,5,2,MOG,RD,Deodato
+596,1,07:50,5,2,JLE,2_Pts_T,Cook
+597,1,08:36,5,2,JLE,3_Pts_C,Cook
+598,1,08:44,2,2,JLE,BR,J Socas
+599,1,08:44,2,2,MOG,ER,Batista
+600,1,09:04,2,2,JLE,RO,J Socas
+601,1,09:04,2,2,JLE,3_Pts_T,Cook
+602,1,09:04,2,2,JLE,2_Pts_C,Cook
+603,1,09:35,0,2,MOG,AS,Deodato
+604,1,09:35,0,2,MOG,2_Pts_C,Batista
+605,1,10:00,0,0,MOG,substituicao_entra,Arthur Pecos
+606,1,10:00,0,0,MOG,substituicao_entra,Gruber
+607,1,10:00,0,0,MOG,substituicao_entra,Batista
+608,1,10:00,0,0,MOG,substituicao_entra,Shamell
+609,1,10:00,0,0,MOG,substituicao_entra,Deodato
+610,1,10:00,0,0,JLE,substituicao_entra,J Socas
+611,1,10:00,0,0,JLE,substituicao_entra,Maxwell
+612,1,10:00,0,0,JLE,substituicao_entra,A Bambu
+613,1,10:00,0,0,JLE,substituicao_entra,Starks
+614,1,10:00,0,0,JLE,substituicao_entra,Cook
+615,1,10:00,0,0,,inicio_partida,

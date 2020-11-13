@@ -1,0 +1,517 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,85,75, ,fim_partida,
+1,4,00:00,85,75,MIN,FR,Betinho
+2,4,00:00,85,75,PAL,FC,Thyago Aleo
+3,4,00:00,85,75,PAL,2_Pts_C,Thyago Aleo
+4,4,00:00,85,73,PAL,BR,Thyago Aleo
+5,4,00:00,85,73,MIN,ER,George
+6,4,00:01,85,73,PAL,3_Pts_T,Thyago Aleo
+7,4,00:01,85,73,PAL,tempo_tecnico,Palmeiras
+8,4,00:01,85,73,MIN,LL_Pts_C,Betinho
+9,4,00:01,84,73,MIN,LL_Pts_C,Betinho
+10,4,00:07,83,73,PAL,2_Pts_C,Neto
+11,4,00:11,83,71,MIN,LL_Pts_C,Douglas Nunes
+12,4,00:11,82,71,MIN,LL_Pts_C,Douglas Nunes
+13,4,00:11,81,71,MIN,FR,Douglas Nunes
+14,4,00:11,81,71,PAL,FC,Wiggins
+15,4,00:17,81,71,MIN,RD,George
+16,4,00:17,81,71,PAL,2_Pts_T,Thyago Aleo
+17,4,00:24,81,71,MIN,LL_Pts_C,Douglas Nunes
+18,4,00:24,80,71,MIN,LL_Pts_C,Douglas Nunes
+19,4,00:24,79,71,MIN,substituicao_entra,Siqueira
+20,4,00:24,79,71,MIN,substituicao_sai,Elinho
+21,4,00:24,79,71,MIN,FR,Douglas Nunes
+22,4,00:24,79,71,PAL,FC,Neto
+23,4,00:26,79,71,MIN,substituicao_entra,Elinho
+24,4,00:26,79,71,MIN,substituicao_sai,Siqueira
+25,4,00:26,79,71,MIN,tempo_tecnico,Minas
+26,4,00:26,79,71,PAL,LL_Pts_C,Neto
+27,4,00:26,79,70,PAL,LL_Pts_C,Neto
+28,4,00:26,79,69,PAL,FR,Neto
+29,4,00:26,79,69,MIN,FC,Betinho
+30,4,00:29,79,69,MIN,LL_Pts_C,George
+31,4,00:29,78,69,MIN,LL_Pts_C,George
+32,4,00:29,77,69,MIN,FR,George
+33,4,00:29,77,69,PAL,FC,Wiggins
+34,4,00:34,77,69,MIN,RD,George
+35,4,00:34,77,69,PAL,2_Pts_T,Neto
+36,4,00:37,77,69,PAL,RD,Tiagão
+37,4,00:37,77,69,MIN,LL_Pts_T,Betinho
+38,4,00:37,77,69,MIN,LL_Pts_C,Betinho
+39,4,00:37,76,69,MIN,FR,Betinho
+40,4,00:37,76,69,PAL,FC,Thyago Aleo
+41,4,00:42,76,69,PAL,2_Pts_C,Neto
+42,4,00:44,76,67,MIN,substituicao_entra,Siqueira
+43,4,00:44,76,67,MIN,substituicao_sai,Elinho
+44,4,00:44,76,67,MIN,LL_Pts_C,Elinho
+45,4,00:44,75,67,MIN,LL_Pts_T,Elinho
+46,4,00:44,75,67,PAL,substituicao_entra,Thyago Aleo
+47,4,00:44,75,67,PAL,substituicao_sai,Caleb Brown
+48,4,00:44,75,67,MIN,FR,Elinho
+49,4,00:44,75,67,PAL,FC,Caleb Brown
+50,4,00:45,75,67,MIN,FR,Elinho
+51,4,00:45,75,67,PAL,FC,Caleb Brown
+52,4,00:54,75,67,MIN,tempo_tecnico,Minas
+53,4,00:54,75,67,PAL,2_Pts_C,Caleb Brown
+54,4,01:00,75,65,PAL,BR,Tiagão
+55,4,01:00,75,65,MIN,ER,Elinho
+56,4,01:19,75,65,PAL,LL_Pts_C,Neto
+57,4,01:19,75,64,PAL,LL_Pts_C,Neto
+58,4,01:19,75,63,PAL,substituicao_entra,Guto
+59,4,01:19,75,63,PAL,substituicao_sai,Átila Dos Santos
+60,4,01:19,75,63,PAL,FR,Átila Dos Santos
+61,4,01:19,75,63,MIN,FC,George
+62,4,01:33,75,63,MIN,3_Pts_C,Elinho
+63,4,01:33,72,63,MIN,AS,Betinho
+64,4,01:35,72,63,MIN,substituicao_entra,Elinho
+65,4,01:35,72,63,MIN,substituicao_sai,Siqueira
+66,4,01:53,72,63,PAL,2_Pts_C,Wiggins
+67,4,01:53,72,61,PAL,AS,Caleb Brown
+68,4,02:01,72,61,MIN,2_Pts_C,Betinho
+69,4,02:25,70,61,PAL,2_Pts_C,Wiggins
+70,4,02:35,70,59,MIN,substituicao_entra,Siqueira
+71,4,02:35,70,59,MIN,substituicao_sai,Elinho
+72,4,02:35,70,59,PAL,substituicao_entra,Neto
+73,4,02:35,70,59,PAL,substituicao_sai,Thyago Aleo
+74,4,02:35,70,59,PAL,FR,Caleb Brown
+75,4,02:35,70,59,MIN,FC_O,Elinho
+76,4,02:50,70,59,MIN,substituicao_entra,Betinho
+77,4,02:50,70,59,MIN,substituicao_sai,Siqueira
+78,4,02:50,70,59,PAL,ER,Thyago Aleo
+79,4,02:56,70,59,PAL,RD,Wiggins
+80,4,02:56,70,59,MIN,2_Pts_T,George
+81,4,03:16,70,59,MIN,RD,Douglas Nunes
+82,4,03:16,70,59,PAL,3_Pts_T,Thyago Aleo
+83,4,03:21,70,59,PAL,FR,Átila Dos Santos
+84,4,03:21,70,59,MIN,FC,Douglas Nunes
+85,4,03:35,70,59,MIN,2_Pts_C,Douglas Nunes
+86,4,03:53,68,59,PAL,substituicao_entra,Wiggins
+87,4,03:53,68,59,PAL,substituicao_sai,Neto
+88,4,03:54,68,59,PAL,tempo_tecnico,Palmeiras
+89,4,03:54,68,59,MIN,substituicao_sai,Betinho
+90,4,03:54,68,59,MIN,substituicao_entra,Siqueira
+91,4,03:54,68,59,PAL,substituicao_entra,Átila Dos Santos
+92,4,03:54,68,59,PAL,substituicao_sai,Guto
+93,4,03:54,68,59,PAL,ER,Tiagão
+94,4,04:11,68,59,MIN,2_Pts_C,George
+95,4,04:11,66,59,MIN,AS,Betinho
+96,4,04:29,66,59,PAL,,
+97,4,04:52,66,59,MIN,substituicao_entra,George
+98,4,04:52,66,59,MIN,substituicao_sai,Adriano
+99,4,04:52,66,59,PAL,substituicao_entra,Guto
+100,4,04:52,66,59,PAL,substituicao_sai,Átila Dos Santos
+101,4,04:52,66,59,MIN,ER,
+102,4,04:59,66,59,MIN,RO,Laing
+103,4,04:59,66,59,PAL,TO,Átila Dos Santos
+104,4,04:59,66,59,MIN,2_Pts_T,Adriano
+105,4,05:22,66,59,MIN,RD,Adriano
+106,4,05:22,66,59,PAL,2_Pts_T,Átila Dos Santos
+107,4,05:42,66,59,PAL,RD,Palmeiras
+108,4,05:42,66,59,MIN,2_Pts_T,George
+109,4,05:58,66,59,MIN,substituicao_entra,Adriano
+110,4,05:58,66,59,MIN,substituicao_sai,George
+111,4,05:58,66,59,PAL,substituicao_entra,Thyago Aleo
+112,4,05:58,66,59,PAL,substituicao_sai,Wiggins
+113,4,05:58,66,59,MIN,FR,George
+114,4,05:58,66,59,PAL,FC_O,Átila Dos Santos
+115,4,06:09,66,59,PAL,RD,Tiagão
+116,4,06:09,66,59,MIN,2_Pts_T,George
+117,4,06:30,66,59,MIN,RD,George
+118,4,06:30,66,59,PAL,2_Pts_T,Wiggins
+119,4,06:32,66,59,PAL,substituicao_entra,Tiagão
+120,4,06:32,66,59,PAL,substituicao_sai,Guto
+121,4,06:32,66,59,PAL,tempo_tecnico,Palmeiras
+122,4,06:32,66,59,MIN,2_Pts_C,Laing
+123,4,06:32,64,59,MIN,AS,Elinho
+124,4,06:42,64,59,MIN,RD,Douglas Nunes
+125,4,06:42,64,59,MIN,TO,Douglas Nunes
+126,4,06:42,64,59,PAL,2_Pts_T,Wiggins
+127,4,07:11,64,59,MIN,2_Pts_C,George
+128,4,07:11,62,59,MIN,AS,Elinho
+129,4,07:26,62,59,PAL,2_Pts_C,Caleb Brown
+130,4,07:54,62,57,MIN,3_Pts_C,Betinho
+131,4,07:54,59,57,MIN,AS,Laing
+132,4,08:11,59,57,PAL,3_Pts_C,Caleb Brown
+133,4,08:11,59,54,PAL,AS,Neto
+134,4,08:15,59,54,PAL,BR,Neto
+135,4,08:15,59,54,MIN,ER,Betinho
+136,4,08:31,59,54,PAL,ER,
+137,4,08:48,59,54,PAL,RO,Palmeiras
+138,4,08:48,59,54,MIN,TO,Douglas Nunes
+139,4,08:48,59,54,PAL,2_Pts_T,Wiggins
+140,4,09:01,59,54,MIN,2_Pts_C,Laing
+141,4,09:01,57,54,MIN,AS,Betinho
+142,4,09:12,57,54,MIN,LL_Pts_C,Laing
+143,4,09:12,56,54,MIN,LL_Pts_C,Laing
+144,4,09:12,55,54,MIN,FR,Laing
+145,4,09:12,55,54,PAL,FC_A,Caleb Brown
+146,4,09:21,55,54,MIN,BR,Laing
+147,4,09:21,55,54,PAL,ER,Caleb Brown
+148,4,09:23,55,54,MIN,LL_Pts_C,Betinho
+149,4,09:23,54,54,MIN,LL_Pts_C,Betinho
+150,4,09:23,53,54,PAL,substituicao_entra,Neto
+151,4,09:23,53,54,PAL,substituicao_sai,Thyago Aleo
+152,4,09:27,53,54,MIN,FR,Betinho
+153,4,09:27,53,54,PAL,FC,Caleb Brown
+154,4,09:36,53,54,MIN,RD,Betinho
+155,4,09:36,53,54,PAL,3_Pts_T,Thyago Aleo
+156,4,09:49,53,54,MIN,2_Pts_C,Laing
+157,4,09:49,51,54,MIN,AS,George
+158,4,10:00,51,54,PAL,substituicao_entra,Átila Dos Santos
+159,4,10:00,51,54,PAL,substituicao_entra,Guto
+160,4,10:00,51,54,PAL,substituicao_entra,Wiggins
+161,4,10:00,51,54,PAL,substituicao_entra,Caleb Brown
+162,4,10:00,51,54,PAL,substituicao_entra,Thyago Aleo
+163,4,10:00,51,54,MIN,substituicao_entra,Betinho
+164,4,10:00,51,54,MIN,substituicao_entra,Douglas Nunes
+165,4,10:00,51,54,MIN,substituicao_entra,George
+166,4,10:00,51,54,MIN,substituicao_entra,Laing
+167,4,10:00,51,54,MIN,substituicao_entra,Elinho
+168,3,00:04,51,54,MIN,RD,Douglas Nunes
+169,3,00:04,51,54,PAL,2_Pts_T,Guto
+170,3,00:11,51,54,MIN,ER,Siqueira
+171,3,00:29,51,54,PAL,2_Pts_C,Caleb Brown
+172,3,00:33,51,52,MIN,BR,Pitico
+173,3,00:33,51,52,PAL,ER,Caleb Brown
+174,3,00:47,51,52,PAL,2_Pts_C,Thyago Aleo
+175,3,00:59,51,50,MIN,LL_Pts_C,George
+176,3,00:59,50,50,MIN,AS,Laing
+177,3,00:59,50,50,MIN,LL_Pts_C,George
+178,3,00:59,49,50,PAL,substituicao_entra,Cadu
+179,3,00:59,49,50,PAL,substituicao_sai,Átila Dos Santos
+180,3,01:00,49,50,MIN,FR,George
+181,3,01:00,49,50,PAL,FC,Átila Dos Santos
+182,3,01:23,49,50,MIN,RD,George
+183,3,01:23,49,50,PAL,2_Pts_T,Átila Dos Santos
+184,3,01:34,49,50,PAL,RO,Thyago Aleo
+185,3,01:34,49,50,PAL,2_Pts_T,Wiggins
+186,3,01:39,49,50,PAL,RO,Wiggins
+187,3,01:39,49,50,PAL,2_Pts_T,Átila Dos Santos
+188,3,01:56,49,50,PAL,LL_Pts_C,Caleb Brown
+189,3,01:56,49,49,PAL,LL_Pts_T,Caleb Brown
+190,3,01:56,49,49,MIN,substituicao_sai,Elinho
+191,3,01:56,49,49,MIN,substituicao_entra,Pitico
+192,3,01:56,49,49,MIN,substituicao_entra,Douglas Nunes
+193,3,01:56,49,49,MIN,substituicao_sai,Wanderson
+194,3,01:56,49,49,PAL,FR,Caleb Brown
+195,3,01:56,49,49,MIN,FC_A,Elinho
+196,3,02:00,49,49,PAL,BR,Caleb Brown
+197,3,02:00,49,49,MIN,ER,Laing
+198,3,02:13,49,49,PAL,2_Pts_C,Thyago Aleo
+199,3,02:27,49,47,MIN,ER,Laing
+200,3,02:45,49,47,MIN,substituicao_entra,Laing
+201,3,02:45,49,47,MIN,substituicao_sai,Betinho
+202,3,02:46,49,47,PAL,,
+203,3,02:54,49,47,PAL,RD,Wiggins
+204,3,02:54,49,47,MIN,3_Pts_T,Betinho
+205,3,03:14,49,47,PAL,2_Pts_C,Caleb Brown
+206,3,03:26,49,45,MIN,BR,Elinho
+207,3,03:26,49,45,PAL,ER,Caleb Brown
+208,3,03:36,49,45,MIN,FR,Elinho
+209,3,03:36,49,45,PAL,FC,Caleb Brown
+210,3,03:44,49,45,PAL,2_Pts_C,Átila Dos Santos
+211,3,03:58,49,43,PAL,RD,Wiggins
+212,3,03:58,49,43,MIN,LL_Pts_T,Betinho
+213,3,03:58,49,43,MIN,LL_Pts_C,Betinho
+214,3,03:58,48,43,MIN,substituicao_entra,Siqueira
+215,3,03:58,48,43,MIN,substituicao_entra,Wanderson
+216,3,03:58,48,43,MIN,substituicao_sai,Adriano
+217,3,03:58,48,43,MIN,substituicao_sai,Laing
+218,3,03:58,48,43,MIN,FR,Betinho
+219,3,03:58,48,43,PAL,FC,Átila Dos Santos
+220,3,04:13,48,43,PAL,2_Pts_C,Caleb Brown
+221,3,04:17,48,41,PAL,BR,Wiggins
+222,3,04:17,48,41,MIN,ER,Laing
+223,3,04:28,48,41,MIN,RO,Adriano
+224,3,04:28,48,41,PAL,TO,Wiggins
+225,3,04:28,48,41,MIN,2_Pts_T,Adriano
+226,3,04:46,48,41,PAL,2_Pts_C,Átila Dos Santos
+227,3,04:46,48,39,PAL,AS,Caleb Brown
+228,3,05:11,48,39,MIN,2_Pts_C,Adriano
+229,3,05:11,46,39,MIN,AS,Laing
+230,3,05:41,46,39,MIN,tempo_tecnico,Minas
+231,3,05:41,46,39,PAL,2_Pts_C,Átila Dos Santos
+232,3,05:41,46,37,PAL,AS,Thyago Aleo
+233,3,05:42,46,37,PAL,FR,Caleb Brown
+234,3,05:42,46,37,MIN,FC,Elinho
+235,3,05:49,46,37,PAL,RD,Thyago Aleo
+236,3,05:49,46,37,MIN,2_Pts_T,George
+237,3,05:59,46,37,PAL,substituicao_entra,Guto
+238,3,05:59,46,37,PAL,substituicao_sai,Tiagão
+239,3,05:59,46,37,MIN,substituicao_entra,George
+240,3,05:59,46,37,MIN,substituicao_sai,Douglas Nunes
+241,3,05:59,46,37,MIN,FR,Laing
+242,3,05:59,46,37,PAL,FC,Tiagão
+243,3,06:15,46,37,PAL,2_Pts_C,Caleb Brown
+244,3,06:21,46,35,PAL,RO,Caleb Brown
+245,3,06:21,46,35,PAL,3_Pts_T,Tiagão
+246,3,06:44,46,35,MIN,2_Pts_C,Douglas Nunes
+247,3,06:44,44,35,MIN,AS,Elinho
+248,3,07:04,44,35,MIN,BR,Elinho
+249,3,07:04,44,35,PAL,ER,Tiagão
+250,3,07:10,44,35,PAL,RD,Tiagão
+251,3,07:10,44,35,MIN,2_Pts_T,Laing
+252,3,07:25,44,35,PAL,2_Pts_C,Tiagão
+253,3,07:42,44,33,MIN,LL_Pts_C,Douglas Nunes
+254,3,07:42,43,33,MIN,AS,Elinho
+255,3,07:42,43,33,MIN,substituicao_entra,Adriano
+256,3,07:42,43,33,MIN,substituicao_sai,George
+257,3,07:42,43,33,MIN,2_Pts_C,Douglas Nunes
+258,3,07:42,41,33,MIN,FR,Douglas Nunes
+259,3,07:42,41,33,PAL,FC,Tiagão
+260,3,07:45,41,33,MIN,BR,Douglas Nunes
+261,3,07:45,41,33,PAL,ER,Thyago Aleo
+262,3,07:53,41,33,MIN,substituicao_entra,Betinho
+263,3,07:53,41,33,MIN,substituicao_sai,Wanderson
+264,3,07:53,41,33,PAL,FR,Wiggins
+265,3,07:53,41,33,MIN,FC,Wanderson
+266,3,07:57,41,33,PAL,BR,Átila Dos Santos
+267,3,07:57,41,33,MIN,ER,George
+268,3,08:17,41,33,PAL,2_Pts_C,Wiggins
+269,3,08:27,41,31,PAL,RD,Átila Dos Santos
+270,3,08:27,41,31,MIN,2_Pts_T,Laing
+271,3,08:50,41,31,PAL,ER,Átila Dos Santos
+272,3,09:03,41,31,PAL,BR,Caleb Brown
+273,3,09:03,41,31,MIN,ER,Elinho
+274,3,09:12,41,31,PAL,2_Pts_C,Wiggins
+275,3,09:12,41,29,PAL,AS,Thyago Aleo
+276,3,09:17,41,29,PAL,FR,Caleb Brown
+277,3,09:17,41,29,MIN,FC,Elinho
+278,3,09:31,41,29,PAL,RD,Wiggins
+279,3,09:31,41,29,MIN,2_Pts_T,George
+280,3,09:54,41,29,MIN,RD,Minas
+281,3,09:54,41,29,PAL,2_Pts_T,Caleb Brown
+282,3,10:00,41,29,PAL,substituicao_entra,Átila Dos Santos
+283,3,10:00,41,29,PAL,substituicao_entra,Wiggins
+284,3,10:00,41,29,PAL,substituicao_entra,Tiagão
+285,3,10:00,41,29,PAL,substituicao_entra,Caleb Brown
+286,3,10:00,41,29,PAL,substituicao_entra,Thyago Aleo
+287,3,10:00,41,29,MIN,substituicao_entra,Douglas Nunes
+288,3,10:00,41,29,MIN,substituicao_entra,George
+289,3,10:00,41,29,MIN,substituicao_entra,Wanderson
+290,3,10:00,41,29,MIN,substituicao_entra,Laing
+291,3,10:00,41,29,MIN,substituicao_entra,Elinho
+292,2,00:00,41,29, ,fim_quarto,
+293,2,00:01,41,29,PAL,3_Pts_T,Thyago Aleo
+294,2,00:16,41,29,MIN,3_Pts_C,Elinho
+295,2,00:16,38,29,MIN,AS,Adriano
+296,2,00:41,38,29,MIN,RD,Minas
+297,2,00:41,38,29,PAL,2_Pts_T,Neto
+298,2,00:58,38,29,PAL,RD,Átila Dos Santos
+299,2,00:58,38,29,MIN,2_Pts_T,Adriano
+300,2,01:10,38,29,PAL,2_Pts_C,Neto
+301,2,01:24,38,27,MIN,tempo_tecnico,Minas
+302,2,01:24,38,27,PAL,FR,Thyago Aleo
+303,2,01:24,38,27,MIN,FC_O,Adriano
+304,2,01:42,38,27,PAL,2_Pts_C,Átila Dos Santos
+305,2,01:42,38,25,PAL,AS,Thyago Aleo
+306,2,01:51,38,25,PAL,RO,Igor
+307,2,01:51,38,25,PAL,2_Pts_T,Átila Dos Santos
+308,2,01:57,38,25,MIN,substituicao_entra,Laing
+309,2,01:57,38,25,MIN,substituicao_sai,Betinho
+310,2,01:57,38,25,PAL,FR,Neto
+311,2,01:57,38,25,MIN,FC_O,Betinho
+312,2,02:04,38,25,MIN,RO,Adriano
+313,2,02:04,38,25,MIN,2_Pts_T,Betinho
+314,2,02:12,38,25,MIN,substituicao_entra,Betinho
+315,2,02:12,38,25,MIN,substituicao_sai,Laing
+316,2,02:12,38,25,MIN,substituicao_sai,George
+317,2,02:12,38,25,MIN,substituicao_entra,Adriano
+318,2,02:12,38,25,PAL,substituicao_entra,Thyago Aleo
+319,2,02:12,38,25,PAL,substituicao_sai,Caleb Brown
+320,2,02:18,38,25,MIN,RO,Minas
+321,2,02:18,38,25,PAL,TO,Átila Dos Santos
+322,2,02:18,38,25,MIN,2_Pts_T,Laing
+323,2,02:26,38,25,PAL,substituicao_entra,Igor
+324,2,02:26,38,25,PAL,substituicao_sai,Guto
+325,2,02:28,38,25,MIN,FR,Elinho
+326,2,02:28,38,25,PAL,FC,Átila Dos Santos
+327,2,02:36,38,25,MIN,RD,Laing
+328,2,02:36,38,25,PAL,3_Pts_T,Guto
+329,2,02:49,38,25,MIN,2_Pts_C,Elinho
+330,2,03:05,36,25,PAL,LL_Pts_C,Tiagão
+331,2,03:05,36,24,PAL,LL_Pts_C,Tiagão
+332,2,03:05,36,23,PAL,substituicao_entra,Guto
+333,2,03:05,36,23,PAL,substituicao_sai,Wiggins
+334,2,03:05,36,23,PAL,substituicao_entra,Átila Dos Santos
+335,2,03:05,36,23,PAL,substituicao_sai,Cadu
+336,2,03:05,36,23,PAL,FR,Tiagão
+337,2,03:05,36,23,MIN,FC,George
+338,2,03:11,36,23,PAL,RO,Tiagão
+339,2,03:11,36,23,PAL,3_Pts_T,Caleb Brown
+340,2,03:30,36,23,MIN,2_Pts_C,Laing
+341,2,03:30,34,23,MIN,AS,Douglas Nunes
+342,2,03:55,34,23,MIN,RD,Laing
+343,2,03:55,34,23,PAL,3_Pts_T,Caleb Brown
+344,2,04:02,34,23,PAL,RO,Caleb Brown
+345,2,04:02,34,23,PAL,2_Pts_T,Cadu
+346,2,04:14,34,23,MIN,2_Pts_C,Laing
+347,2,04:19,32,23,MIN,RO,Laing
+348,2,04:19,32,23,MIN,2_Pts_T,Laing
+349,2,04:37,32,23,MIN,FR,Siqueira
+350,2,04:37,32,23,PAL,FC_O,Tiagão
+351,2,04:50,32,23,PAL,RD,Cadu
+352,2,04:50,32,23,MIN,2_Pts_T,George
+353,2,05:11,32,23,PAL,2_Pts_C,Caleb Brown
+354,2,05:27,32,21,PAL,substituicao_entra,Neto
+355,2,05:27,32,21,PAL,substituicao_sai,Thyago Aleo
+356,2,05:29,32,21,PAL,tempo_tecnico,Palmeiras
+357,2,05:29,32,21,MIN,2_Pts_C,Siqueira
+358,2,05:29,30,21,MIN,AS,Elinho
+359,2,05:34,30,21,MIN,BR,George
+360,2,05:34,30,21,PAL,ER,Wiggins
+361,2,05:49,30,21,MIN,3_Pts_C,Elinho
+362,2,05:49,27,21,MIN,AS,Laing
+363,2,06:05,27,21,PAL,2_Pts_C,Wiggins
+364,2,06:16,27,19,PAL,RD,Cadu
+365,2,06:16,27,19,MIN,2_Pts_T,Siqueira
+366,2,06:39,27,19,MIN,BR,Elinho
+367,2,06:39,27,19,PAL,ER,Tiagão
+368,2,06:52,27,19,MIN,2_Pts_C,George
+369,2,06:58,25,19,MIN,RO,George
+370,2,06:58,25,19,MIN,2_Pts_T,Siqueira
+371,2,07:14,25,19,PAL,2_Pts_C,Wiggins
+372,2,07:14,25,17,PAL,AS,Caleb Brown
+373,2,07:25,25,17,MIN,LL_Pts_C,George
+374,2,07:25,24,17,MIN,LL_Pts_T,George
+375,2,07:25,24,17,MIN,FR,George
+376,2,07:25,24,17,PAL,FC,Cadu
+377,2,07:45,24,17,MIN,substituicao_entra,Siqueira
+378,2,07:45,24,17,MIN,substituicao_sai,Betinho
+379,2,07:45,24,17,PAL,LL_Pts_C,Thyago Aleo
+380,2,07:45,24,16,PAL,LL_Pts_C,Thyago Aleo
+381,2,07:45,24,15,PAL,LL_Pts_T,Thyago Aleo
+382,2,07:45,24,15,PAL,FR,Thyago Aleo
+383,2,07:45,24,15,MIN,FC,Betinho
+384,2,08:00,24,15,MIN,substituicao_entra,George
+385,2,08:00,24,15,MIN,substituicao_sai,Adriano
+386,2,08:00,24,15,MIN,substituicao_entra,Douglas Nunes
+387,2,08:00,24,15,MIN,substituicao_sai,Demétrio
+388,2,08:03,24,15,MIN,tempo_tecnico,Minas
+389,2,08:03,24,15,PAL,FR,Caleb Brown
+390,2,08:03,24,15,MIN,FC,Betinho
+391,2,08:11,24,15,PAL,RD,Wiggins
+392,2,08:11,24,15,MIN,2_Pts_T,Adriano
+393,2,08:30,24,15,PAL,2_Pts_C,Thyago Aleo
+394,2,08:39,24,13,MIN,2_Pts_C,Adriano
+395,2,08:45,22,13,MIN,RO,Adriano
+396,2,08:45,22,13,MIN,2_Pts_T,Elinho
+397,2,09:07,22,13,PAL,3_Pts_C,Thyago Aleo
+398,2,09:16,22,10,MIN,substituicao_entra,Laing
+399,2,09:16,22,10,MIN,substituicao_sai,Siqueira
+400,2,09:16,22,10,PAL,,
+401,2,09:16,22,10,MIN,ER,Siqueira
+402,2,09:22,22,10,PAL,substituicao_entra,Tiagão
+403,2,09:22,22,10,PAL,substituicao_sai,Átila Dos Santos
+404,2,09:22,22,10,MIN,FR,Demétrio
+405,2,09:22,22,10,PAL,FC,Cadu
+406,2,09:27,22,10,MIN,RD,Demétrio
+407,2,09:27,22,10,PAL,LL_Pts_T,Átila Dos Santos
+408,2,09:27,22,10,PAL,LL_Pts_C,Átila Dos Santos
+409,2,09:27,22,9,PAL,FR,Átila Dos Santos
+410,2,09:27,22,9,MIN,FC,Demétrio
+411,2,09:51,22,9,MIN,2_Pts_C,Adriano
+412,2,09:51,20,9,MIN,AS,Elinho
+413,2,10:00,20,9,PAL,substituicao_entra,Átila Dos Santos
+414,2,10:00,20,9,PAL,substituicao_entra,Wiggins
+415,2,10:00,20,9,PAL,substituicao_entra,Cadu
+416,2,10:00,20,9,PAL,substituicao_entra,Caleb Brown
+417,2,10:00,20,9,PAL,substituicao_entra,Thyago Aleo
+418,2,10:00,20,9,MIN,substituicao_entra,Siqueira
+419,2,10:00,20,9,MIN,substituicao_entra,Adriano
+420,2,10:00,20,9,MIN,substituicao_entra,Betinho
+421,2,10:00,20,9,MIN,substituicao_entra,Demétrio
+422,2,10:00,20,9,MIN,substituicao_entra,Elinho
+423,1,00:00,20,9, ,fim_quarto,
+424,1,00:03,20,9,PAL,RD,Cadu
+425,1,00:03,20,9,MIN,3_Pts_T,Betinho
+426,1,00:12,20,9,PAL,2_Pts_C,Átila Dos Santos
+427,1,00:18,20,7,PAL,RO,Átila Dos Santos
+428,1,00:18,20,7,PAL,2_Pts_T,Thyago Aleo
+429,1,00:25,20,7,MIN,substituicao_entra,Pitico
+430,1,00:25,20,7,MIN,substituicao_entra,Demétrio
+431,1,00:25,20,7,MIN,substituicao_sai,Douglas Nunes
+432,1,00:25,20,7,MIN,substituicao_sai,Elinho
+433,1,00:25,20,7,PAL,FR,Cadu
+434,1,00:25,20,7,MIN,FC,Douglas Nunes
+435,1,00:32,20,7,PAL,RD,Átila Dos Santos
+436,1,00:32,20,7,MIN,2_Pts_T,Adriano
+437,1,00:39,20,7,MIN,FR,Elinho
+438,1,00:39,20,7,PAL,FC,Thyago Aleo
+439,1,00:39,20,7,MIN,RD,Douglas Nunes
+440,1,00:39,20,7,PAL,2_Pts_T,Wiggins
+441,1,00:45,20,7,PAL,RO,Wiggins
+442,1,00:45,20,7,PAL,3_Pts_T,Thyago Aleo
+443,1,00:50,20,7,PAL,substituicao_entra,Wiggins
+444,1,00:50,20,7,PAL,substituicao_entra,Cadu
+445,1,00:50,20,7,PAL,substituicao_entra,Caleb Brown
+446,1,00:51,20,7,PAL,substituicao_sai,Guto
+447,1,00:51,20,7,PAL,substituicao_sai,Tiagão
+448,1,00:51,20,7,PAL,substituicao_sai,Neto
+449,1,01:02,20,7,MIN,substituicao_entra,Adriano
+450,1,01:03,20,7,MIN,substituicao_sai,George
+451,1,01:03,20,7,MIN,substituicao_sai,Laing
+452,1,01:15,20,7,MIN,RO,Elinho
+453,1,01:26,20,7,MIN,RO,Elinho
+454,1,01:26,20,7,MIN,2_Pts_T,George
+455,1,01:51,20,7,MIN,RO,George
+456,1,01:51,20,7,MIN,3_Pts_T,Douglas Nunes
+457,1,02:13,20,7,MIN,RD,Laing
+458,1,02:13,20,7,PAL,3_Pts_T,Neto
+459,1,02:42,20,7,MIN,3_Pts_C,Betinho
+460,1,02:42,17,7,MIN,AS,Laing
+461,1,03:01,17,7,MIN,RO,George
+462,1,03:01,17,7,MIN,3_Pts_T,Laing
+463,1,03:22,17,7,PAL,3_Pts_C,Thyago Aleo
+464,1,03:44,17,4,MIN,EN,Douglas Nunes
+465,1,03:44,15,4,MIN,AS,Elinho
+466,1,03:49,15,4,MIN,BR,Douglas Nunes
+467,1,03:49,15,4,PAL,ER,Átila Dos Santos
+468,1,03:59,15,4,PAL,RO,Thyago Aleo
+469,1,03:59,15,4,PAL,2_Pts_T,Tiagão
+470,1,04:21,15,4,MIN,3_Pts_C,Laing
+471,1,04:34,12,4,MIN,RD,Elinho
+472,1,04:34,12,4,PAL,2_Pts_T,Neto
+473,1,04:53,12,4,PAL,RD,Thyago Aleo
+474,1,04:53,12,4,MIN,2_Pts_T,George
+475,1,05:14,12,4,MIN,RO,Douglas Nunes
+476,1,05:14,12,4,MIN,3_Pts_T,Elinho
+477,1,05:31,12,4,PAL,2_Pts_C,Átila Dos Santos
+478,1,05:31,12,2,PAL,AS,Guto
+479,1,06:01,12,2,MIN,2_Pts_C,Laing
+480,1,06:10,10,2,PAL,,
+481,1,06:15,10,2,PAL,RD,Átila Dos Santos
+482,1,06:15,10,2,MIN,2_Pts_T,Betinho
+483,1,06:36,10,2,MIN,RD,Douglas Nunes
+484,1,06:36,10,2,PAL,2_Pts_T,Neto
+485,1,06:49,10,2,PAL,tempo_tecnico,Palmeiras
+486,1,06:49,10,2,MIN,2_Pts_C,Betinho
+487,1,06:56,8,2,MIN,BR,Betinho
+488,1,06:56,8,2,PAL,ER,Neto
+489,1,07:10,8,2,PAL,RD,Átila Dos Santos
+490,1,07:10,8,2,MIN,3_Pts_T,Betinho
+491,1,07:21,8,2,MIN,RD,Laing
+492,1,07:21,8,2,PAL,3_Pts_T,Tiagão
+493,1,07:47,8,2,MIN,3_Pts_C,Elinho
+494,1,07:47,5,2,MIN,AS,Betinho
+495,1,08:09,5,2,MIN,RD,Douglas Nunes
+496,1,08:09,5,2,PAL,3_Pts_T,Guto
+497,1,08:22,5,2,MIN,3_Pts_C,Douglas Nunes
+498,1,08:22,2,2,MIN,AS,Elinho
+499,1,08:42,2,2,PAL,2_Pts_C,Átila Dos Santos
+500,1,08:58,2,0,MIN,2_Pts_C,Laing
+501,1,09:06,0,0,MIN,RD,Elinho
+502,1,09:06,0,0,PAL,2_Pts_T,Átila Dos Santos
+503,1,09:21,0,0,PAL,RD,Tiagão
+504,1,09:21,0,0,MIN,3_Pts_T,Betinho
+505,1,09:38,0,0,PAL,ER,Átila Dos Santos
+506,1,10:00,0,0,MIN,substituicao_entra,Betinho
+507,1,10:00,0,0,MIN,substituicao_entra,Douglas Nunes
+508,1,10:00,0,0,MIN,substituicao_entra,George
+509,1,10:00,0,0,MIN,substituicao_entra,Laing
+510,1,10:00,0,0,MIN,substituicao_entra,Elinho
+511,1,10:00,0,0,PAL,substituicao_entra,Átila Dos Santos
+512,1,10:00,0,0,PAL,substituicao_entra,Guto
+513,1,10:00,0,0,PAL,substituicao_entra,Tiagão
+514,1,10:00,0,0,PAL,substituicao_entra,Neto
+515,1,10:00,0,0,PAL,substituicao_entra,Thyago Aleo

@@ -1,0 +1,618 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,73,78, ,fim_partida,
+1,4,00:05,73,78,LSB,AS,Ted
+2,4,00:05,73,78,LSB,2_Pts_C,Castellon
+3,4,00:08,73,76,LSB,BR,Ted
+4,4,00:10,73,76,CMO,ER,Betinho
+5,4,00:24,73,76,CMO,substituicao_entra,Pastor
+6,4,00:24,73,76,CMO,substituicao_sai,Wesley
+7,4,00:24,73,76,LSB,substituicao_entra,Bruno
+8,4,00:24,73,76,LSB,substituicao_sai,Lucas
+9,4,00:24,73,76,CMO,substituicao_entra,Atílio
+10,4,00:24,73,76,CMO,substituicao_sai,Andrezão
+11,4,00:24,73,76,LSB,ER,
+12,4,00:48,73,76,CMO,LL_Pts_C,Betinho
+13,4,00:48,72,76,CMO,LL_Pts_C,Betinho
+14,4,00:48,71,76,CMO,substituicao_entra,Wesley
+15,4,00:48,71,76,CMO,substituicao_sai,Atílio
+16,4,00:48,71,76,CMO,substituicao_entra,Andrezão
+17,4,00:48,71,76,CMO,substituicao_sai,Taddei
+18,4,00:48,71,76,CMO,FR,Betinho
+19,4,00:48,71,76,LSB,FC,Lucas
+20,4,00:59,71,76,CMO,substituicao_entra,Taddei
+21,4,00:59,71,76,CMO,substituicao_sai,W César
+22,4,00:59,71,76,CMO,tempo_tecnico,Campo Mourão
+23,4,00:59,71,76,LSB,LL_Pts_C,Cafferata
+24,4,00:59,71,75,LSB,LL_Pts_C,Cafferata
+25,4,00:59,71,74,LSB,FR,Cafferata
+26,4,00:59,71,74,CMO,FC,Atílio
+27,4,00:59,71,74,LSB,BR,Cafferata
+28,4,00:59,71,74,CMO,ER,Atílio
+29,4,01:12,71,74,LSB,LL_Pts_C,Cafferata
+30,4,01:12,71,73,LSB,LL_Pts_C,Cafferata
+31,4,01:12,71,72,LSB,FR,Cafferata
+32,4,01:12,71,72,CMO,FC,Leandro
+33,4,01:18,71,72,LSB,RO,Lucas
+34,4,01:20,71,72,LSB,3_Pts_T,Ted
+35,4,01:39,71,72,CMO,2_Pts_C,Atílio
+36,4,01:41,69,72,CMO,RO,Atílio
+37,4,01:43,69,72,CMO,2_Pts_T,Betinho
+38,4,02:03,69,72,LSB,tempo_tecnico,L Sorocabana
+39,4,02:03,69,72,LSB,ER,
+40,4,02:29,69,72,CMO,AS,Cauê
+41,4,02:31,69,72,CMO,3_Pts_C,Betinho
+42,4,02:39,66,72,CMO,RD,Cauê
+43,4,02:39,66,72,LSB,2_Pts_T,Castellon
+44,4,02:39,66,72,LSB,substituicao_entra,Ted
+45,4,02:39,66,72,LSB,substituicao_sai,Bruno
+46,4,02:40,66,72,LSB,RO,L Sorocabana
+47,4,02:41,66,72,CMO,TO,Cauê
+48,4,02:47,66,72,LSB,2_Pts_T,Cafferata
+49,4,02:50,66,72,LSB,RD,Lucas
+50,4,02:53,66,72,CMO,2_Pts_T,Betinho
+51,4,03:08,66,72,CMO,RO,W César
+52,4,03:09,66,72,CMO,3_Pts_T,Cauê
+53,4,03:32,66,72,CMO,substituicao_entra,W César
+54,4,03:32,66,72,CMO,substituicao_sai,Taddei
+55,4,03:32,66,72,LSB,LL_Pts_C,Cafferata
+56,4,03:32,66,71,LSB,LL_Pts_C,Cafferata
+57,4,03:32,66,70,LSB,FR,Cafferata
+58,4,03:32,66,70,CMO,FC,Leandro
+59,4,04:01,66,70,LSB,RD,Castellon
+60,4,04:01,66,70,CMO,3_Pts_T,Taddei
+61,4,04:01,66,70,CMO,substituicao_entra,Taddei
+62,4,04:01,66,70,CMO,substituicao_sai,W César
+63,4,04:01,66,70,CMO,FR,Betinho
+64,4,04:01,66,70,LSB,ER,Castellon
+65,4,04:01,66,70,LSB,FC_O,Castellon
+66,4,04:01,66,70,CMO,3_Pts_C,Cauê
+67,4,04:25,63,70,CMO,RO,W César
+68,4,04:26,63,70,CMO,2_Pts_T,Betinho
+69,4,04:51,63,70,LSB,LL_Pts_C,Cafferata
+70,4,04:51,63,69,LSB,FR,Cafferata
+71,4,04:51,63,69,CMO,FC,Cauê
+72,4,04:51,63,69,LSB,2_Pts_C,Cafferata
+73,4,05:17,63,67,LSB,RD,Lucas
+74,4,05:19,63,67,CMO,3_Pts_T,W César
+75,4,05:29,63,67,LSB,substituicao_entra,Alexandre
+76,4,05:29,63,67,LSB,substituicao_sai,J Sobral
+77,4,05:29,63,67,CMO,LL_Pts_T,Atílio
+78,4,05:29,63,67,CMO,LL_Pts_C,Atílio
+79,4,05:29,62,67,CMO,FR,Atílio
+80,4,05:29,62,67,LSB,FC_A,Bruno
+81,4,05:31,62,67,CMO,RO,Atílio
+82,4,05:33,62,67,CMO,2_Pts_T,Atílio
+83,4,05:36,62,67,CMO,RO,Atílio
+84,4,05:38,62,67,CMO,2_Pts_T,Betinho
+85,4,05:57,62,67,LSB,substituicao_entra,J Sobral
+86,4,05:57,62,67,LSB,substituicao_sai,Alexandre
+87,4,05:57,62,67,CMO,substituicao_entra,Atílio
+88,4,05:57,62,67,CMO,substituicao_sai,Andrezão
+89,4,05:57,62,67,CMO,substituicao_entra,Cauê
+90,4,05:57,62,67,CMO,substituicao_sai,Taddei
+91,4,05:57,62,67,LSB,ER,
+92,4,06:06,62,67,CMO,substituicao_entra,Taddei
+93,4,06:06,62,67,CMO,substituicao_sai,Cauê
+94,4,06:18,62,67,LSB,RD,Bruno
+95,4,06:20,62,67,CMO,2_Pts_T,W César
+96,4,06:43,62,67,LSB,AS,Castellon
+97,4,06:45,62,67,LSB,2_Pts_C,Alexandre
+98,4,06:48,62,65,LSB,RO,L Sorocabana
+99,4,06:50,62,65,LSB,3_Pts_T,Castellon
+100,4,07:17,62,65,CMO,LL_Pts_C,Betinho
+101,4,07:17,61,65,CMO,LL_Pts_C,Betinho
+102,4,07:17,60,65,CMO,FR,Betinho
+103,4,07:17,60,65,LSB,FC,Alexandre
+104,4,07:21,60,65,LSB,substituicao_entra,Alexandre
+105,4,07:21,60,65,LSB,substituicao_sai,Luisinho
+106,4,07:27,60,65,CMO,FR,Leandro
+107,4,07:27,60,65,LSB,ER,Cafferata
+108,4,07:27,60,65,LSB,FC_O,Cafferata
+109,4,07:27,60,65,LSB,substituicao_entra,Cafferata
+110,4,07:27,60,65,LSB,substituicao_sai,Maique
+111,4,07:27,60,65,LSB,tempo_tecnico,L Sorocabana
+112,4,07:27,60,65,CMO,LL_Pts_C,Betinho
+113,4,07:27,59,65,CMO,FR,Betinho
+114,4,07:27,59,65,LSB,FC,Maique
+115,4,07:27,59,65,CMO,2_Pts_C,Betinho
+116,4,07:31,57,65,LSB,ER,
+117,4,07:33,57,65,LSB,substituicao_entra,Lucas
+118,4,07:33,57,65,LSB,substituicao_sai,Lucas
+119,4,07:33,57,65,LSB,ER,
+120,4,07:34,57,65,LSB,substituicao_entra,Luisinho
+121,4,07:34,57,65,LSB,substituicao_sai,Ted
+122,4,07:34,57,65,CMO,substituicao_entra,Betinho
+123,4,07:34,57,65,CMO,substituicao_sai,Brown
+124,4,07:34,57,65,LSB,FR,Lucas
+125,4,07:34,57,65,CMO,FC,Brown
+126,4,07:41,57,65,CMO,substituicao_entra,Cauê
+127,4,07:41,57,65,CMO,substituicao_sai,Betinho
+128,4,07:41,57,65,LSB,substituicao_entra,Lucas
+129,4,07:41,57,65,LSB,substituicao_sai,Cafferata
+130,4,07:41,57,65,CMO,ER,W César
+131,4,07:55,57,65,CMO,RD,W César
+132,4,07:57,57,65,LSB,3_Pts_T,Cafferata
+133,4,08:12,57,65,CMO,substituicao_entra,Brown
+134,4,08:12,57,65,CMO,substituicao_sai,Cauê
+135,4,08:12,57,65,LSB,FR,Cafferata
+136,4,08:12,57,65,CMO,FC,Cauê
+137,4,08:21,57,65,CMO,substituicao_entra,Cauê
+138,4,08:21,57,65,CMO,substituicao_sai,Brown
+139,4,08:21,57,65,LSB,FR,Cafferata
+140,4,08:21,57,65,CMO,FC,Brown
+141,4,08:25,57,65,CMO,2_Pts_C,W César
+142,4,08:27,55,65,CMO,BR,W César
+143,4,08:29,55,65,LSB,ER,Ted
+144,4,08:32,55,65,LSB,substituicao_entra,Ted
+145,4,08:32,55,65,LSB,substituicao_sai,Alexandre
+146,4,08:32,55,65,CMO,substituicao_entra,Brown
+147,4,08:32,55,65,CMO,substituicao_sai,Cauê
+148,4,08:32,55,65,LSB,FR,Cafferata
+149,4,08:32,55,65,CMO,FC,Cauê
+150,4,08:38,55,65,CMO,LL_Pts_C,Betinho
+151,4,08:38,54,65,CMO,LL_Pts_C,Betinho
+152,4,08:38,53,65,LSB,substituicao_entra,Maique
+153,4,08:38,53,65,LSB,substituicao_sai,Ted
+154,4,08:38,53,65,CMO,substituicao_entra,Andrezão
+155,4,08:38,53,65,CMO,substituicao_sai,Atílio
+156,4,08:38,53,65,CMO,FR,Betinho
+157,4,08:38,53,65,LSB,FC,Ted
+158,4,08:54,53,65,CMO,BR,W César
+159,4,08:57,53,65,LSB,ER,Cafferata
+160,4,09:19,53,65,CMO,AS,Cauê
+161,4,09:20,53,65,CMO,3_Pts_C,Betinho
+162,4,09:26,50,65,CMO,substituicao_entra,W César
+163,4,09:26,50,65,CMO,substituicao_sai,Taddei
+164,4,09:26,50,65,CMO,FR,Leandro
+165,4,09:26,50,65,LSB,FC,Ted
+166,4,09:33,50,65,CMO,RD,Cauê
+167,4,09:36,50,65,LSB,3_Pts_T,Ted
+168,4,10:00,50,65, ,inicio_quarto,
+169,3,00:00,50,65, ,fim_quarto,
+170,3,00:07,50,65,LSB,RD,Alexandre
+171,3,00:09,50,65,CMO,3_Pts_T,Pastor
+172,3,00:24,50,65,LSB,2_Pts_C,Lucas
+173,3,00:38,50,63,CMO,ER,Pastor
+174,3,00:59,50,63,LSB,LL_Pts_C,Alexandre
+175,3,00:59,50,62,LSB,LL_Pts_C,Alexandre
+176,3,00:59,50,61,LSB,FR,Alexandre
+177,3,00:59,50,61,CMO,FC,Atílio
+178,3,01:15,50,61,CMO,LL_Pts_C,Atílio
+179,3,01:15,49,61,CMO,LL_Pts_T,Atílio
+180,3,01:15,49,61,CMO,FR,Atílio
+181,3,01:15,49,61,LSB,FC,J Sobral
+182,3,01:15,49,61,CMO,RO,Atílio
+183,3,01:20,49,61,CMO,3_Pts_T,Cauê
+184,3,01:43,49,61,LSB,ER,
+185,3,02:09,49,61,CMO,AS,Cauê
+186,3,02:11,49,61,CMO,3_Pts_C,Pastor
+187,3,02:24,46,61,CMO,FR,Betinho
+188,3,02:24,46,61,LSB,FC,Branquinho
+189,3,02:33,46,61,CMO,substituicao_entra,Betinho
+190,3,02:33,46,61,CMO,substituicao_sai,Andrezão
+191,3,02:33,46,61,CMO,substituicao_entra,Atílio
+192,3,02:33,46,61,CMO,substituicao_sai,Brown
+193,3,02:33,46,61,LSB,substituicao_entra,Branquinho
+194,3,02:33,46,61,LSB,substituicao_sai,Luisinho
+195,3,02:33,46,61,LSB,substituicao_entra,Alexandre
+196,3,02:33,46,61,LSB,substituicao_sai,Castellon
+197,3,02:33,46,61,CMO,tempo_tecnico,Campo Mourão
+198,3,02:33,46,61,LSB,AS,J Sobral
+199,3,02:33,46,61,LSB,3_Pts_C,Castellon
+200,3,02:43,46,58,LSB,BR,Luisinho
+201,3,02:45,46,58,CMO,ER,Atílio
+202,3,03:01,46,58,CMO,RD,Andrezão
+203,3,03:02,46,58,LSB,LL_Pts_T,Castellon
+204,3,03:02,46,58,LSB,LL_Pts_C,Castellon
+205,3,03:02,46,57,LSB,substituicao_entra,J Sobral
+206,3,03:02,46,57,LSB,substituicao_sai,Bruno
+207,3,03:02,46,57,LSB,substituicao_entra,Lucas
+208,3,03:02,46,57,LSB,substituicao_sai,Cafferata
+209,3,03:02,46,57,LSB,FR,Castellon
+210,3,03:02,46,57,CMO,FC,Pastor
+211,3,03:03,46,57,LSB,BR,Ted
+212,3,03:06,46,57,CMO,ER,Brown
+213,3,03:10,46,57,CMO,RD,Leandro
+214,3,03:12,46,57,LSB,3_Pts_T,Castellon
+215,3,03:37,46,57,CMO,3_Pts_C,Leandro
+216,3,03:39,43,57,LSB,substituicao_entra,Bruno
+217,3,03:39,43,57,LSB,substituicao_sai,Bruno
+218,3,03:41,43,57,CMO,ER,Brown
+219,3,04:04,43,57,LSB,AS,Cafferata
+220,3,04:04,43,57,LSB,LL_Pts_C,Bruno
+221,3,04:04,43,56,LSB,LL_Pts_C,Bruno
+222,3,04:04,43,55,LSB,FR,Bruno
+223,3,04:04,43,55,CMO,FC,Pastor
+224,3,04:20,43,55,CMO,substituicao_entra,Cauê
+225,3,04:20,43,55,CMO,substituicao_sai,Betinho
+226,3,04:20,43,55,LSB,FR,Castellon
+227,3,04:20,43,55,CMO,FC,Andrezão
+228,3,04:20,43,55,LSB,RD,Bruno
+229,3,04:24,43,55,CMO,3_Pts_T,Brown
+230,3,04:29,43,55,CMO,FR,Brown
+231,3,04:29,43,55,LSB,FC,Luisinho
+232,3,04:29,43,55,CMO,substituicao_entra,Brown
+233,3,04:29,43,55,CMO,substituicao_sai,Brown
+234,3,04:29,43,55,LSB,ER,Luisinho
+235,3,04:36,43,55,LSB,substituicao_entra,Luisinho
+236,3,04:36,43,55,LSB,substituicao_sai,Lucas
+237,3,04:38,43,55,CMO,2_Pts_C,Betinho
+238,3,04:49,41,55,LSB,AS,Bruno
+239,3,04:50,41,55,LSB,3_Pts_C,Castellon
+240,3,05:07,41,52,CMO,2_Pts_C,Brown
+241,3,05:16,39,52,CMO,substituicao_entra,Leandro
+242,3,05:16,39,52,CMO,substituicao_sai,D Nunes
+243,3,05:33,39,52,CMO,RD,Betinho
+244,3,05:35,39,52,LSB,2_Pts_T,Lucas
+245,3,05:38,39,52,CMO,ER,Betinho
+246,3,05:47,39,52,CMO,substituicao_entra,Pastor
+247,3,05:47,39,52,CMO,substituicao_sai,Taddei
+248,3,05:47,39,52,CMO,tempo_tecnico,Campo Mourão
+249,3,05:47,39,52,LSB,2_Pts_C,Lucas
+250,3,06:03,39,50,CMO,substituicao_entra,Brown
+251,3,06:03,39,50,CMO,substituicao_sai,Cauê
+252,3,06:03,39,50,CMO,substituicao_entra,Andrezão
+253,3,06:03,39,50,CMO,substituicao_sai,Atílio
+254,3,06:03,39,50,LSB,substituicao_entra,Lucas
+255,3,06:03,39,50,LSB,substituicao_sai,Luisinho
+256,3,06:03,39,50,CMO,ER,Atílio
+257,3,06:14,39,50,LSB,AS,Castellon
+258,3,06:17,39,50,LSB,3_Pts_C,Bruno
+259,3,06:31,39,47,CMO,AS,Cauê
+260,3,06:33,39,47,CMO,2_Pts_C,Atílio
+261,3,06:50,37,47,LSB,AS,Luisinho
+262,3,06:51,37,47,LSB,3_Pts_C,Bruno
+263,3,07:02,37,44,CMO,2_Pts_C,Betinho
+264,3,07:26,35,44,LSB,AS,Luisinho
+265,3,07:28,35,44,LSB,3_Pts_C,Castellon
+266,3,07:32,35,41,LSB,RO,L Sorocabana
+267,3,07:32,35,41,CMO,TO,Betinho
+268,3,07:32,35,41,LSB,2_Pts_T,Bruno
+269,3,07:46,35,41,LSB,substituicao_entra,Ted
+270,3,07:46,35,41,LSB,substituicao_sai,Alexandre
+271,3,07:46,35,41,LSB,FR,Castellon
+272,3,07:46,35,41,CMO,FC,Betinho
+273,3,07:49,35,41,CMO,2_Pts_C,Atílio
+274,3,07:51,33,41,CMO,RO,Atílio
+275,3,07:53,33,41,CMO,2_Pts_T,Cauê
+276,3,07:55,33,41,CMO,FR,Atílio
+277,3,07:55,33,41,LSB,FC,Alexandre
+278,3,08:13,33,41,CMO,RD,Atílio
+279,3,08:14,33,41,LSB,3_Pts_T,Luisinho
+280,3,08:23,33,41,LSB,RD,Alexandre
+281,3,08:25,33,41,CMO,2_Pts_T,Betinho
+282,3,08:30,33,41,CMO,RD,D Nunes
+283,3,08:30,33,41,LSB,2_Pts_T,Castellon
+284,3,08:40,33,41,CMO,LL_Pts_C,Taddei
+285,3,08:40,32,41,CMO,LL_Pts_C,Taddei
+286,3,08:40,31,41,LSB,substituicao_entra,Bruno
+287,3,08:40,31,41,LSB,substituicao_sai,Maique
+288,3,08:40,31,41,CMO,FR,Taddei
+289,3,08:40,31,41,LSB,FC,Maique
+290,3,08:59,31,41,LSB,2_Pts_C,Maique
+291,3,09:02,31,39,LSB,RO,Maique
+292,3,09:04,31,39,LSB,3_Pts_T,Castellon
+293,3,09:18,31,39,CMO,2_Pts_C,Betinho
+294,3,09:31,29,39,LSB,ER,Luisinho
+295,3,09:31,29,39,LSB,FR,Cafferata
+296,3,09:31,29,39,CMO,FC,Cauê
+297,3,09:31,29,39,CMO,AS,Betinho
+298,3,09:36,29,39,CMO,2_Pts_C,Cauê
+299,3,09:40,27,39,CMO,RD,Betinho
+300,3,09:41,27,39,LSB,2_Pts_T,Maique
+301,3,09:45,27,39,LSB,BR,Alexandre
+302,3,09:48,27,39,CMO,ER,Betinho
+303,3,10:00,27,39, ,inicio_quarto,
+304,2,00:00,27,39, ,fim_quarto,
+305,2,00:02,27,39,LSB,3_Pts_T,J Sobral
+306,2,00:26,27,39,LSB,RD,Cafferata
+307,2,00:32,27,39,CMO,3_Pts_T,Betinho
+308,2,00:36,27,39,LSB,3_Pts_C,Lucas
+309,2,00:40,27,36,LSB,substituicao_entra,Maique
+310,2,00:40,27,36,LSB,substituicao_sai,Victor
+311,2,00:41,27,36,LSB,substituicao_entra,J Sobral
+312,2,00:41,27,36,LSB,substituicao_sai,Maique
+313,2,00:50,27,36,LSB,substituicao_entra,Lucas
+314,2,00:50,27,36,LSB,substituicao_sai,Bruno
+315,2,00:58,27,36,LSB,substituicao_entra,Maique
+316,2,00:58,27,36,LSB,substituicao_sai,Luisinho
+317,2,00:58,27,36,LSB,tempo_tecnico,L Sorocabana
+318,2,00:58,27,36,CMO,LL_Pts_C,Betinho
+319,2,00:58,26,36,CMO,LL_Pts_C,Betinho
+320,2,00:58,25,36,CMO,substituicao_entra,Brown
+321,2,00:58,25,36,CMO,substituicao_sai,Cauê
+322,2,00:58,25,36,LSB,FC,Bruno
+323,2,01:00,25,36,CMO,BR,Betinho
+324,2,01:04,25,36,LSB,ER,Victor
+325,2,01:07,25,36,LSB,RD,Victor
+326,2,01:09,25,36,CMO,2_Pts_T,Andrezão
+327,2,01:29,25,36,LSB,LL_Pts_C,Luisinho
+328,2,01:29,25,35,LSB,LL_Pts_T,Luisinho
+329,2,01:29,25,35,CMO,substituicao_entra,Pastor
+330,2,01:29,25,35,CMO,substituicao_sai,D Nunes
+331,2,01:29,25,35,LSB,FR,Luisinho
+332,2,01:29,25,35,CMO,FC,D Nunes
+333,2,01:48,25,35,LSB,FR,Luisinho
+334,2,01:48,25,35,CMO,ER,D Nunes
+335,2,01:48,25,35,CMO,FC_O,D Nunes
+336,2,01:53,25,35,LSB,AS,Luisinho
+337,2,01:56,25,35,LSB,3_Pts_C,Ted
+338,2,02:06,25,32,LSB,substituicao_entra,Luisinho
+339,2,02:06,25,32,LSB,substituicao_sai,Lucas
+340,2,02:06,25,32,LSB,tempo_tecnico,L Sorocabana
+341,2,02:06,25,32,CMO,AS,Andrezão
+342,2,02:06,25,32,CMO,3_Pts_C,Taddei
+343,2,02:20,22,32,LSB,substituicao_entra,Victor
+344,2,02:20,22,32,LSB,substituicao_sai,Branquinho
+345,2,02:20,22,32,LSB,ER,Ted
+346,2,02:21,22,32,LSB,RO,L Sorocabana
+347,2,02:24,22,32,LSB,2_Pts_T,Branquinho
+348,2,02:26,22,32,LSB,RO,Branquinho
+349,2,02:29,22,32,LSB,2_Pts_T,Cafferata
+350,2,02:45,22,32,LSB,BR,Lucas
+351,2,02:48,22,32,CMO,ER,Andrezão
+352,2,02:50,22,32,CMO,RD,Andrezão
+353,2,02:52,22,32,LSB,2_Pts_T,Lucas
+354,2,03:08,22,32,LSB,substituicao_entra,Branquinho
+355,2,03:08,22,32,LSB,substituicao_sai,Castellon
+356,2,03:08,22,32,CMO,LL_Pts_C,Andrezão
+357,2,03:08,21,32,CMO,LL_Pts_C,Andrezão
+358,2,03:08,20,32,LSB,substituicao_entra,Ted
+359,2,03:08,20,32,LSB,substituicao_sai,J Sobral
+360,2,03:08,20,32,CMO,FR,Andrezão
+361,2,03:08,20,32,LSB,FC,Castellon
+362,2,03:24,20,32,CMO,RD,Betinho
+363,2,03:26,20,32,LSB,2_Pts_T,Lucas
+364,2,03:45,20,32,LSB,substituicao_entra,Cafferata
+365,2,03:45,20,32,LSB,substituicao_sai,Luisinho
+366,2,03:45,20,32,CMO,substituicao_entra,D Nunes
+367,2,03:45,20,32,CMO,substituicao_entra,Cauê
+368,2,03:45,20,32,CMO,substituicao_sai,Atílio
+369,2,03:45,20,32,CMO,substituicao_sai,Brown
+370,2,03:45,20,32,LSB,FR,Castellon
+371,2,03:45,20,32,CMO,FC,Betinho
+372,2,03:52,20,32,CMO,ER,Betinho
+373,2,03:56,20,32,CMO,substituicao_entra,Andrezão
+374,2,03:56,20,32,CMO,substituicao_sai,Andrezão
+375,2,03:56,20,32,CMO,substituicao_entra,Andrezão
+376,2,04:01,20,32,CMO,substituicao_sai,Andrezão
+377,2,04:01,20,32,LSB,LL_Pts_T,J Sobral
+378,2,04:01,20,32,LSB,LL_Pts_T,J Sobral
+379,2,04:01,20,32,LSB,substituicao_entra,Lucas
+380,2,04:01,20,32,LSB,substituicao_sai,Cafferata
+381,2,04:01,20,32,LSB,substituicao_entra,Bruno
+382,2,04:01,20,32,LSB,substituicao_sai,Maique
+383,2,04:01,20,32,CMO,tempo_tecnico,Campo Mourão
+384,2,04:01,20,32,LSB,FR,J Sobral
+385,2,04:01,20,32,CMO,FC,Atílio
+386,2,04:01,20,32,LSB,3_Pts_T,Luisinho
+387,2,04:06,20,32,LSB,RD,Maique
+388,2,04:09,20,32,CMO,2_Pts_T,Betinho
+389,2,04:23,20,32,LSB,AS,Cafferata
+390,2,04:25,20,32,LSB,2_Pts_C,Castellon
+391,2,04:40,20,30,LSB,RD,Castellon
+392,2,04:40,20,30,CMO,LL_Pts_T,Atílio
+393,2,04:40,20,30,CMO,LL_Pts_T,Atílio
+394,2,04:40,20,30,CMO,FR,Atílio
+395,2,04:40,20,30,LSB,FC,Castellon
+396,2,04:40,20,30,LSB,RD,Castellon
+397,2,04:40,20,30,CMO,3_Pts_T,Betinho
+398,2,05:03,20,30,LSB,3_Pts_C,Castellon
+399,2,05:24,20,27,CMO,LL_Pts_C,Betinho
+400,2,05:24,19,27,CMO,LL_Pts_T,Betinho
+401,2,05:24,19,27,CMO,substituicao_entra,Brown
+402,2,05:24,19,27,CMO,substituicao_sai,Cauê
+403,2,05:24,19,27,CMO,FR,Betinho
+404,2,05:24,19,27,LSB,FC,J Sobral
+405,2,05:31,19,27,CMO,BR,Cauê
+406,2,05:34,19,27,LSB,ER,Cafferata
+407,2,05:45,19,27,LSB,RD,Maique
+408,2,05:48,19,27,CMO,3_Pts_T,Taddei
+409,2,05:53,19,27,CMO,substituicao_entra,Andrezão
+410,2,05:53,19,27,CMO,substituicao_sai,D Nunes
+411,2,06:07,19,27,CMO,substituicao_entra,Taddei
+412,2,06:07,19,27,CMO,substituicao_sai,Pastor
+413,2,06:07,19,27,LSB,substituicao_entra,J Sobral
+414,2,06:07,19,27,LSB,substituicao_sai,Ted
+415,2,06:07,19,27,LSB,ER,Ted
+416,2,06:07,19,27,LSB,FC_O,Ted
+417,2,06:22,19,27,LSB,RD,Ted
+418,2,06:24,19,27,CMO,2_Pts_T,Betinho
+419,2,06:35,19,27,LSB,AS,Cafferata
+420,2,06:49,19,27,LSB,2_Pts_C,Castellon
+421,2,06:54,19,25,LSB,substituicao_entra,Luisinho
+422,2,06:54,19,25,LSB,substituicao_sai,Lucas
+423,2,06:54,19,25,CMO,LL_Pts_C,D Nunes
+424,2,06:54,18,25,CMO,LL_Pts_T,D Nunes
+425,2,06:54,18,25,LSB,substituicao_entra,Maique
+426,2,06:54,18,25,LSB,substituicao_sai,Bruno
+427,2,06:54,18,25,CMO,FR,D Nunes
+428,2,06:54,18,25,LSB,FC,Ted
+429,2,06:54,18,25,CMO,RO,D Nunes
+430,2,06:56,18,25,CMO,3_Pts_T,Pastor
+431,2,07:03,18,25,CMO,RO,Pastor
+432,2,07:05,18,25,CMO,3_Pts_T,Cauê
+433,2,07:26,18,25,LSB,LL_Pts_C,Castellon
+434,2,07:26,18,24,CMO,tempo_tecnico,Campo Mourão
+435,2,07:26,18,24,LSB,FR,Castellon
+436,2,07:26,18,24,CMO,FC,D Nunes
+437,2,07:26,18,24,LSB,AS,Lucas
+438,2,07:26,18,24,LSB,2_Pts_C,Castellon
+439,2,07:28,18,22,LSB,RD,Lucas
+440,2,07:31,18,22,CMO,2_Pts_T,Betinho
+441,2,07:40,18,22,LSB,substituicao_entra,Bruno
+442,2,07:40,18,22,LSB,substituicao_sai,Alexandre
+443,2,07:40,18,22,CMO,FR,Pastor
+444,2,07:40,18,22,LSB,FC,Alexandre
+445,2,07:44,18,22,LSB,2_Pts_C,Alexandre
+446,2,07:47,18,20,LSB,RO,Alexandre
+447,2,07:50,18,20,LSB,2_Pts_T,Alexandre
+448,2,08:06,18,20,LSB,RD,Ted
+449,2,08:08,18,20,CMO,3_Pts_T,D Nunes
+450,2,08:19,18,20,CMO,FR,Cauê
+451,2,08:19,18,20,LSB,FC,Maique
+452,2,08:22,18,20,LSB,LL_Pts_C,Cafferata
+453,2,08:22,18,19,LSB,LL_Pts_C,Cafferata
+454,2,08:22,18,18,CMO,substituicao_entra,Betinho
+455,2,08:22,18,18,CMO,substituicao_sai,Brown
+456,2,08:22,18,18,LSB,FR,Cafferata
+457,2,08:22,18,18,CMO,FC,Brown
+458,2,08:28,18,18,CMO,ER,
+459,2,08:45,18,18,CMO,substituicao_entra,Atílio
+460,2,08:45,18,18,CMO,substituicao_sai,Andrezão
+461,2,08:45,18,18,LSB,substituicao_entra,Lucas
+462,2,08:45,18,18,LSB,substituicao_sai,Luisinho
+463,2,08:45,18,18,LSB,RD,Alexandre
+464,2,08:47,18,18,CMO,3_Pts_T,Cauê
+465,2,09:03,18,18,LSB,2_Pts_C,Alexandre
+466,2,09:06,18,16,LSB,RO,Alexandre
+467,2,09:08,18,16,LSB,2_Pts_T,Alexandre
+468,2,09:34,18,16,LSB,BR,Ted
+469,2,09:34,18,16,CMO,ER,D Nunes
+470,2,09:44,18,16,CMO,RO,Andrezão
+471,2,09:46,18,16,CMO,2_Pts_T,Andrezão
+472,2,10:00,18,16, ,inicio_quarto,
+473,1,00:00,18,16, ,fim_quarto,
+474,1,00:00,18,16,CMO,RD,Pastor
+475,1,00:01,18,16,LSB,2_Pts_T,Castellon
+476,1,00:31,18,16,LSB,RD,Ted
+477,1,00:33,18,16,CMO,2_Pts_T,Brown
+478,1,00:49,18,16,CMO,RD,Andrezão
+479,1,00:52,18,16,LSB,3_Pts_T,Luisinho
+480,1,01:09,18,16,CMO,substituicao_entra,Andrezão
+481,1,01:09,18,16,CMO,substituicao_sai,Atílio
+482,1,01:09,18,16,CMO,substituicao_entra,Brown
+483,1,01:09,18,16,CMO,substituicao_sai,Betinho
+484,1,01:09,18,16,LSB,substituicao_entra,Luisinho
+485,1,01:09,18,16,LSB,substituicao_sai,Lucas
+486,1,01:09,18,16,LSB,substituicao_entra,Cafferata
+487,1,01:09,18,16,LSB,substituicao_sai,Branquinho
+488,1,01:13,18,16,CMO,2_Pts_C,Atílio
+489,1,01:13,16,16,CMO,RO,Atílio
+490,1,01:18,16,16,CMO,3_Pts_T,D Nunes
+491,1,01:29,16,16,CMO,RO,D Nunes
+492,1,01:31,16,16,CMO,3_Pts_T,Betinho
+493,1,01:51,16,16,LSB,ER,Branquinho
+494,1,01:56,16,16,LSB,RD,Maique
+495,1,01:56,16,16,LSB,TO,Maique
+496,1,01:56,16,16,CMO,2_Pts_T,Atílio
+497,1,01:56,16,16,LSB,substituicao_entra,Ted
+498,1,01:56,16,16,LSB,substituicao_sai,Adriano
+499,1,01:56,16,16,CMO,FR,Cauê
+500,1,01:56,16,16,LSB,ER,Adriano
+501,1,01:56,16,16,LSB,FC_O,Adriano
+502,1,01:56,16,16,LSB,RD,Lucas
+503,1,01:58,16,16,CMO,2_Pts_T,Pastor
+504,1,02:02,16,16,CMO,RD,Cauê
+505,1,02:04,16,16,LSB,3_Pts_T,Castellon
+506,1,02:15,16,16,CMO,ER,Betinho
+507,1,02:20,16,16,LSB,LL_Pts_C,Lucas
+508,1,02:20,16,15,LSB,LL_Pts_C,Lucas
+509,1,02:20,16,14,LSB,substituicao_entra,Branquinho
+510,1,02:20,16,14,LSB,substituicao_sai,J Sobral
+511,1,02:20,16,14,CMO,substituicao_entra,Atílio
+512,1,02:20,16,14,CMO,substituicao_sai,Andrezão
+513,1,02:20,16,14,LSB,FR,Lucas
+514,1,02:20,16,14,CMO,FC,Andrezão
+515,1,02:30,16,14,LSB,RD,Castellon
+516,1,02:34,16,14,CMO,3_Pts_T,Betinho
+517,1,02:48,16,14,LSB,ER,J Sobral
+518,1,03:05,16,14,CMO,LL_Pts_C,Andrezão
+519,1,03:05,15,14,CMO,LL_Pts_C,Andrezão
+520,1,03:05,14,14,CMO,substituicao_entra,Cauê
+521,1,03:05,14,14,CMO,substituicao_sai,Brown
+522,1,03:05,14,14,CMO,FR,Andrezão
+523,1,03:05,14,14,LSB,FC,Adriano
+524,1,03:07,14,14,LSB,ER,J Sobral
+525,1,03:20,14,14,CMO,LL_Pts_C,Betinho
+526,1,03:20,13,14,CMO,LL_Pts_C,Betinho
+527,1,03:20,12,14,LSB,substituicao_entra,Lucas
+528,1,03:20,12,14,LSB,substituicao_sai,Cafferata
+529,1,03:20,12,14,CMO,substituicao_entra,D Nunes
+530,1,03:20,12,14,CMO,substituicao_sai,Atílio
+531,1,03:20,12,14,CMO,substituicao_entra,Brown
+532,1,03:20,12,14,CMO,substituicao_sai,Cauê
+533,1,03:20,12,14,LSB,substituicao_entra,J Sobral
+534,1,03:20,12,14,LSB,substituicao_sai,Alexandre
+535,1,03:20,12,14,LSB,substituicao_entra,Adriano
+536,1,03:20,12,14,LSB,substituicao_sai,Luisinho
+537,1,03:20,12,14,CMO,FR,Betinho
+538,1,03:20,12,14,LSB,FC,Maique
+539,1,03:36,12,14,LSB,AS,Castellon
+540,1,03:39,12,14,LSB,3_Pts_C,Cafferata
+541,1,03:47,12,11,LSB,RD,Alexandre
+542,1,03:50,12,11,CMO,3_Pts_T,Betinho
+543,1,03:55,12,11,CMO,RD,Cauê
+544,1,03:57,12,11,LSB,2_Pts_T,Castellon
+545,1,04:20,12,11,LSB,substituicao_entra,Maique
+546,1,04:20,12,11,LSB,substituicao_sai,Bruno
+547,1,04:20,12,11,LSB,FR,Luisinho
+548,1,04:20,12,11,CMO,FC,Betinho
+549,1,04:31,12,11,CMO,AS,Pastor
+550,1,04:37,12,11,CMO,EN,Atílio
+551,1,04:52,10,11,LSB,AS,Luisinho
+552,1,04:54,10,11,LSB,3_Pts_C,Cafferata
+553,1,05:08,10,8,CMO,AS,Andrezão
+554,1,05:10,10,8,CMO,2_Pts_C,Atílio
+555,1,05:23,8,8,LSB,3_Pts_C,Castellon
+556,1,05:23,8,5,CMO,ER,Andrezão
+557,1,05:35,8,5,LSB,substituicao_entra,Castellon
+558,1,05:35,8,5,LSB,substituicao_sai,Ted
+559,1,05:35,8,5,LSB,ER,Cafferata
+560,1,05:52,8,5,CMO,substituicao_entra,Pastor
+561,1,05:52,8,5,CMO,substituicao_sai,Taddei
+562,1,05:52,8,5,CMO,substituicao_entra,Andrezão
+563,1,05:52,8,5,CMO,substituicao_sai,D Nunes
+564,1,05:52,8,5,CMO,ER,Atílio
+565,1,06:06,8,5,LSB,ER,Cafferata
+566,1,06:12,8,5,CMO,substituicao_entra,Cauê
+567,1,06:12,8,5,CMO,substituicao_sai,Andrezão
+568,1,06:12,8,5,CMO,substituicao_entra,Betinho
+569,1,06:12,8,5,CMO,substituicao_entra,Atílio
+570,1,06:12,8,5,CMO,substituicao_entra,D Nunes
+571,1,06:12,8,5,CMO,substituicao_sai,D Nunes
+572,1,06:12,8,5,CMO,substituicao_sai,Brown
+573,1,06:12,8,5,CMO,substituicao_sai,Pastor
+574,1,06:12,8,5,LSB,RD,L Sorocabana
+575,1,06:15,8,5,CMO,3_Pts_T,Taddei
+576,1,06:33,8,5,LSB,AS,Cafferata
+577,1,06:35,8,5,LSB,3_Pts_C,Luisinho
+578,1,06:46,8,2,CMO,AS,Taddei
+579,1,06:50,8,2,CMO,2_Pts_C,D Nunes
+580,1,06:57,6,2,CMO,RD,Campo Mourão
+581,1,07:01,6,2,LSB,3_Pts_T,Bruno
+582,1,07:18,6,2,LSB,RD,Luisinho
+583,1,07:20,6,2,CMO,3_Pts_T,Andrezão
+584,1,07:49,6,2,LSB,2_Pts_C,Cafferata
+585,1,08:12,6,0,CMO,substituicao_entra,Andrezão
+586,1,08:12,6,0,CMO,substituicao_sai,Atílio
+587,1,08:12,6,0,CMO,AS,Betinho
+588,1,08:12,6,0,CMO,LL_Pts_C,Atílio
+589,1,08:12,5,0,CMO,LL_Pts_C,Atílio
+590,1,08:12,4,0,CMO,substituicao_entra,Brown
+591,1,08:12,4,0,CMO,substituicao_sai,Betinho
+592,1,08:12,4,0,CMO,substituicao_entra,Pastor
+593,1,08:12,4,0,CMO,substituicao_sai,Cauê
+594,1,08:12,4,0,CMO,FR,Atílio
+595,1,08:12,4,0,LSB,FC,Alexandre
+596,1,08:13,4,0,CMO,BR,Betinho
+597,1,08:16,4,0,LSB,ER,Cafferata
+598,1,08:36,4,0,CMO,2_Pts_C,Taddei
+599,1,08:50,2,0,CMO,FR,Atílio
+600,1,08:50,2,0,LSB,FC,Bruno
+601,1,08:51,2,0,LSB,RO,Alexandre
+602,1,08:55,2,0,LSB,2_Pts_T,Luisinho
+603,1,09:15,2,0,CMO,AS,Betinho
+604,1,09:18,2,0,CMO,2_Pts_C,Atílio
+605,1,09:40,0,0,CMO,RD,D Nunes
+606,1,09:43,0,0,LSB,2_Pts_T,Alexandre
+607,1,10:00,0,0,LSB,substituicao_entra,Cafferata
+608,1,10:00,0,0,LSB,substituicao_entra,Ted
+609,1,10:00,0,0,LSB,substituicao_entra,Luisinho
+610,1,10:00,0,0,LSB,substituicao_entra,Alexandre
+611,1,10:00,0,0,LSB,substituicao_entra,Bruno
+612,1,10:00,0,0,CMO,substituicao_entra,Betinho
+613,1,10:00,0,0,CMO,substituicao_entra,D Nunes
+614,1,10:00,0,0,CMO,substituicao_entra,Atílio
+615,1,10:00,0,0,CMO,substituicao_entra,Taddei
+616,1,10:00,0,0,CMO,substituicao_entra,Cauê

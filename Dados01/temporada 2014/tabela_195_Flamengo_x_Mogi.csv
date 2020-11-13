@@ -1,0 +1,518 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,87,83, ,fim_partida,
+1,4,00:01,87,83,FLA,substituicao_entra,Felicio
+2,4,00:01,87,83,FLA,substituicao_sai,Herrmann
+3,4,00:01,87,83,FLA,LL_Pts_C,Olivinha
+4,4,00:01,86,83,FLA,LL_Pts_C,Olivinha
+5,4,00:01,85,83,FLA,FR,Olivinha
+6,4,00:01,85,83,MOG,FC,Paulão Prestes
+7,4,00:02,85,83,FLA,RD,Olivinha
+8,4,00:02,85,83,MOG,LL_Pts_T,Shamell
+9,4,00:02,85,83,MOG,LL_Pts_C,Shamell
+10,4,00:02,85,82,MOG,FR,Shamell
+11,4,00:02,85,82,FLA,FC,Olivinha
+12,4,00:04,85,82,MOG,RD,Shamell
+13,4,00:04,85,82,FLA,LL_Pts_T,Meyinsse
+14,4,00:04,85,82,FLA,LL_Pts_C,Meyinsse
+15,4,00:04,84,82,MOG,substituicao_entra,Paulão Prestes
+16,4,00:04,84,82,MOG,substituicao_sai,Gerson
+17,4,00:04,84,82,FLA,FR,Meyinsse
+18,4,00:04,84,82,MOG,FC,Gerson
+19,4,00:05,84,82,FLA,tempo_tecnico,Flamengo
+20,4,00:05,84,82,FLA,,
+21,4,00:05,84,82,MOG,ER,Shamell
+22,4,00:17,84,82,MOG,tempo_tecnico,Mogi das Cruzes
+23,4,00:17,84,82,FLA,LL_Pts_C,Meyinsse
+24,4,00:17,83,82,FLA,LL_Pts_T,Meyinsse
+25,4,00:17,83,82,FLA,FR,Meyinsse
+26,4,00:17,83,82,MOG,FC,Wagner
+27,4,00:18,83,82,FLA,substituicao_entra,Meyinsse
+28,4,00:18,83,82,FLA,substituicao_sai,Felicio
+29,4,00:18,83,82,MOG,2_Pts_C,Filipin
+30,4,00:18,83,80,MOG,RD,Filipin
+31,4,00:18,83,80,MOG,3_Pts_T,Shamell
+32,4,00:35,83,80,FLA,LL_Pts_C,Olivinha
+33,4,00:35,82,80,FLA,LL_Pts_T,Olivinha
+34,4,00:35,82,80,FLA,FR,Olivinha
+35,4,00:35,82,80,MOG,FC,Wagner
+36,4,00:39,82,80,MOG,2_Pts_C,Filipin
+37,4,00:52,82,78,FLA,LL_Pts_C,Laprovittola
+38,4,00:52,81,78,FLA,LL_Pts_C,Laprovittola
+39,4,00:52,80,78,MOG,substituicao_entra,Gustavinho
+40,4,00:52,80,78,MOG,substituicao_sai,Elinho
+41,4,00:52,80,78,FLA,FR,Laprovittola
+42,4,00:52,80,78,MOG,FC,Elinho
+43,4,01:12,80,78,MOG,2_Pts_C,Shamell
+44,4,01:18,80,76,MOG,RD,Wagner
+45,4,01:18,80,76,FLA,3_Pts_T,Herrmann
+46,4,01:38,80,76,FLA,RD,Herrmann
+47,4,01:38,80,76,MOG,3_Pts_T,Shamell
+48,4,01:53,80,76,MOG,RD,Mogi das Cruzes
+49,4,01:53,80,76,FLA,3_Pts_T,Marquinhos
+50,4,02:17,80,76,FLA,,
+51,4,02:17,80,76,MOG,ER,Gerson
+52,4,02:37,80,76,FLA,substituicao_entra,Olivinha
+53,4,02:37,80,76,FLA,substituicao_sai,Benite
+54,4,02:37,80,76,MOG,FR,Elinho
+55,4,02:37,80,76,FLA,FC,Benite
+56,4,02:54,80,76,MOG,LL_Pts_C,Shamell
+57,4,02:54,80,75,MOG,LL_Pts_C,Shamell
+58,4,02:54,80,74,MOG,substituicao_entra,Filipin
+59,4,02:54,80,74,MOG,substituicao_sai,Jimmy
+60,4,02:54,80,74,MOG,FR,Shamell
+61,4,02:54,80,74,FLA,FC,Benite
+62,4,03:09,80,74,FLA,EN,Felicio
+63,4,03:09,78,74,FLA,AS,Benite
+64,4,03:25,78,74,FLA,BR,Felicio
+65,4,03:25,78,74,MOG,ER,Shamell
+66,4,03:35,78,74,MOG,RD,Wagner
+67,4,03:35,78,74,FLA,2_Pts_T,Laprovittola
+68,4,03:47,78,74,FLA,FR,Laprovittola
+69,4,03:47,78,74,MOG,FC,Elinho
+70,4,03:48,78,74,MOG,substituicao_entra,Gerson
+71,4,03:48,78,74,MOG,substituicao_sai,Paulão Prestes
+72,4,03:48,78,74,MOG,ER,Elinho
+73,4,03:54,78,74,FLA,RD,Laprovittola
+74,4,03:54,78,74,MOG,2_Pts_T,Shamell
+75,4,04:08,78,74,FLA,ER,Benite
+76,4,04:10,78,74,MOG,2_Pts_C,Paulão Prestes
+77,4,04:10,78,72,MOG,RO,Paulão Prestes
+78,4,04:10,78,72,MOG,2_Pts_T,Elinho
+79,4,04:11,78,72,FLA,substituicao_entra,Laprovittola
+80,4,04:11,78,72,FLA,substituicao_sai,Gegê
+81,4,04:31,78,72,MOG,BR,Jimmy
+82,4,04:31,78,72,FLA,ER,Gegê
+83,4,04:58,78,72,MOG,2_Pts_C,Elinho
+84,4,05:11,78,70,MOG,substituicao_entra,Shamell
+85,4,05:11,78,70,MOG,substituicao_sai,Filipin
+86,4,05:11,78,70,MOG,FR,Filipin
+87,4,05:11,78,70,FLA,FC_O,Marquinhos
+88,4,05:29,78,70,MOG,EN,Paulão Prestes
+89,4,05:29,78,68,MOG,AS,Elinho
+90,4,05:48,78,68,FLA,3_Pts_C,Herrmann
+91,4,05:48,75,68,FLA,AS,Marquinhos
+92,4,06:07,75,68,FLA,BR,Benite
+93,4,06:07,75,68,MOG,ER,Paulão Prestes
+94,4,06:22,75,68,MOG,RD,Wagner
+95,4,06:22,75,68,FLA,3_Pts_T,Benite
+96,4,06:33,75,68,MOG,substituicao_entra,Elinho
+97,4,06:33,75,68,MOG,substituicao_sai,Alexandre
+98,4,06:33,75,68,FLA,FR,Benite
+99,4,06:33,75,68,MOG,FC,Jimmy
+100,4,06:40,75,68,FLA,RD,Benite
+101,4,06:40,75,68,MOG,3_Pts_T,Jimmy
+102,4,06:55,75,68,FLA,2_Pts_C,Marquinhos
+103,4,07:12,73,68,MOG,2_Pts_C,Paulão Prestes
+104,4,07:12,73,66,MOG,AS,Alexandre
+105,4,07:32,73,66,FLA,3_Pts_C,Herrmann
+106,4,07:32,70,66,FLA,AS,Marquinhos
+107,4,07:42,70,66,FLA,RD,Felicio
+108,4,07:42,70,66,MOG,3_Pts_T,Alexandre
+109,4,07:59,70,66,FLA,3_Pts_C,Gegê
+110,4,08:06,67,66,MOG,substituicao_entra,Paulão Prestes
+111,4,08:06,67,66,MOG,substituicao_sai,Gerson
+112,4,08:06,67,66,FLA,FR,Marquinhos
+113,4,08:06,67,66,MOG,FC,Gerson
+114,4,08:13,67,66,MOG,3_Pts_C,Filipin
+115,4,08:13,67,63,MOG,AS,Gerson
+116,4,08:26,67,63,FLA,2_Pts_C,Herrmann
+117,4,08:26,65,63,FLA,AS,Felicio
+118,4,08:49,65,63,MOG,3_Pts_C,Filipin
+119,4,08:49,65,60,MOG,AS,Jimmy
+120,4,09:01,65,60,MOG,RD,Alexandre
+121,4,09:01,65,60,FLA,2_Pts_T,Benite
+122,4,09:40,65,60,MOG,LL_Pts_C,Gerson
+123,4,09:40,65,59,MOG,FR,Gerson
+124,4,09:40,65,59,FLA,FC,Felicio
+125,4,09:41,65,59,MOG,2_Pts_C,Gerson
+126,4,09:41,65,57,MOG,AS,Filipin
+127,4,09:43,65,57,MOG,RD,Gerson
+128,4,09:43,65,57,FLA,LL_Pts_T,Marquinhos
+129,4,09:43,65,57,FLA,LL_Pts_C,Marquinhos
+130,4,09:43,64,57,FLA,FR,Marquinhos
+131,4,09:43,64,57,MOG,FC,Gerson
+132,4,09:47,64,57,FLA,substituicao_entra,Gegê
+133,4,09:51,64,57,FLA,substituicao_entra,Felicio
+134,4,09:54,64,57,FLA,substituicao_entra,Benite
+135,4,09:55,64,57,FLA,substituicao_entra,Marquinhos
+136,4,09:58,64,57,FLA,substituicao_entra,Herrmann
+137,3,00:00,64,57, ,fim_quarto,
+138,3,00:03,64,57,MOG,LL_Pts_C,Filipin
+139,3,00:03,64,56,MOG,FR,Filipin
+140,3,00:03,64,56,FLA,FC,Marcelinho
+141,3,00:03,64,56,MOG,2_Pts_C,Filipin
+142,3,00:11,64,54,FLA,2_Pts_C,Herrmann
+143,3,00:33,62,54,MOG,2_Pts_C,Gerson
+144,3,00:43,62,52,MOG,RD,Filipin
+145,3,00:43,62,52,FLA,3_Pts_T,Marcelinho
+146,3,01:01,62,52,FLA,substituicao_entra,Gegê
+147,3,01:01,62,52,FLA,substituicao_sai,Laprovittola
+148,3,01:01,62,52,FLA,,
+149,3,01:01,62,52,MOG,ER,Alexandre
+150,3,01:09,62,52,MOG,RO,Jimmy
+151,3,01:09,62,52,MOG,2_Pts_T,Alexandre
+152,3,01:18,62,52,FLA,RD,Olivinha
+153,3,01:18,62,52,MOG,3_Pts_T,Filipin
+154,3,01:36,62,52,FLA,LL_Pts_C,Herrmann
+155,3,01:36,61,52,FLA,LL_Pts_T,Herrmann
+156,3,01:39,61,52,FLA,FR,Herrmann
+157,3,01:39,61,52,MOG,FC,Filipin
+158,3,01:56,61,52,MOG,3_Pts_C,Jimmy
+159,3,01:56,61,49,MOG,AS,Filipin
+160,3,02:15,61,49,FLA,2_Pts_C,Olivinha
+161,3,02:15,59,49,FLA,AS,Herrmann
+162,3,02:23,59,49,FLA,RD,Felicio
+163,3,02:23,59,49,MOG,2_Pts_T,Wagner
+164,3,02:41,59,49,MOG,substituicao_entra,Jimmy
+165,3,02:41,59,49,MOG,substituicao_sai,Shamell
+166,3,02:41,59,49,FLA,LL_Pts_C,Laprovittola
+167,3,02:41,58,49,FLA,LL_Pts_T,Laprovittola
+168,3,02:41,58,49,FLA,FR,Laprovittola
+169,3,02:41,58,49,MOG,FC,Shamell
+170,3,02:49,58,49,MOG,LL_Pts_C,Wagner
+171,3,02:49,58,48,MOG,LL_Pts_C,Wagner
+172,3,02:49,58,47,MOG,FR,Wagner
+173,3,02:49,58,47,FLA,FC,Marcelinho
+174,3,03:05,58,47,FLA,LL_Pts_C,Felicio
+175,3,03:05,57,47,FLA,LL_Pts_C,Felicio
+176,3,03:05,56,47,FLA,FR,Felicio
+177,3,03:05,56,47,MOG,FC,Filipin
+178,3,03:12,56,47,MOG,substituicao_entra,Alexandre
+179,3,03:12,56,47,MOG,substituicao_sai,Gustavinho
+180,3,03:12,56,47,FLA,FC_T,Laprovittola
+181,3,03:12,56,47,MOG,FC_T,Gustavinho
+182,3,03:25,56,47,FLA,substituicao_entra,Marcelinho
+183,3,03:25,56,47,FLA,substituicao_sai,Marquinhos
+184,3,03:25,56,47,MOG,LL_Pts_C,Shamell
+185,3,03:25,56,46,MOG,LL_Pts_C,Shamell
+186,3,03:25,56,45,MOG,FR,Shamell
+187,3,03:25,56,45,FLA,FC,Marquinhos
+188,3,03:36,56,45,MOG,substituicao_entra,Gerson
+189,3,03:36,56,45,MOG,substituicao_sai,Paulão Prestes
+190,3,03:37,56,45,FLA,2_Pts_C,Olivinha
+191,3,03:38,54,45,FLA,RO,Olivinha
+192,3,03:38,54,45,FLA,2_Pts_T,Marquinhos
+193,3,03:51,54,45,MOG,substituicao_entra,Wagner
+194,3,03:52,54,45,MOG,substituicao_sai,Tyrone Curnell
+195,3,04:06,54,45,MOG,3_Pts_C,Filipin
+196,3,04:06,54,42,MOG,AS,Shamell
+197,3,04:25,54,42,FLA,LL_Pts_C,Laprovittola
+198,3,04:25,53,42,FLA,LL_Pts_C,Laprovittola
+199,3,04:25,52,42,FLA,LL_Pts_C,Laprovittola
+200,3,04:25,51,42,MOG,tempo_tecnico,Mogi das Cruzes
+201,3,04:25,51,42,FLA,FR,Laprovittola
+202,3,04:25,51,42,MOG,FC,Tyrone Curnell
+203,3,04:31,51,42,FLA,RD,Marquinhos
+204,3,04:31,51,42,MOG,LL_Pts_T,Tyrone Curnell
+205,3,04:31,51,42,MOG,LL_Pts_T,Tyrone Curnell
+206,3,04:31,51,42,FLA,substituicao_entra,Herrmann
+207,3,04:31,51,42,FLA,substituicao_sai,Benite
+208,3,04:31,51,42,MOG,FR,Tyrone Curnell
+209,3,04:31,51,42,FLA,FC,Benite
+210,3,04:31,51,42,MOG,BR,Tyrone Curnell
+211,3,04:31,51,42,FLA,ER,Laprovittola
+212,3,04:36,51,42,FLA,RD,Felicio
+213,3,04:36,51,42,MOG,3_Pts_T,Gustavinho
+214,3,04:37,51,42,FLA,substituicao_entra,Felicio
+215,3,04:39,51,42,FLA,substituicao_sai,Meyinsse
+216,3,04:52,51,42,FLA,2_Pts_C,Olivinha
+217,3,04:55,49,42,FLA,BR,Olivinha
+218,3,04:55,49,42,MOG,ER,Tyrone Curnell
+219,3,04:59,49,42,FLA,3_Pts_C,Laprovittola
+220,3,04:59,46,42,FLA,AS,Benite
+221,3,05:14,46,42,MOG,2_Pts_C,Paulão Prestes
+222,3,05:18,46,40,MOG,RO,Paulão Prestes
+223,3,05:18,46,40,MOG,3_Pts_T,Filipin
+224,3,05:39,46,40,FLA,LL_Pts_C,Marquinhos
+225,3,05:39,45,40,FLA,FR,Marquinhos
+226,3,05:39,45,40,MOG,FC,Paulão Prestes
+227,3,05:39,45,40,FLA,EN,Marquinhos
+228,3,05:39,43,40,FLA,AS,Laprovittola
+229,3,05:42,43,40,FLA,BR,Olivinha
+230,3,05:42,43,40,MOG,ER,Tyrone Curnell
+231,3,05:42,43,40,FLA,FR,Laprovittola
+232,3,05:42,43,40,MOG,FC,Gustavinho
+233,3,05:48,43,40,MOG,FR,Gustavinho
+234,3,05:48,43,40,FLA,FC,Meyinsse
+235,3,05:48,43,40,MOG,substituicao_entra,Gustavinho
+236,3,05:48,43,40,MOG,substituicao_sai,Elinho
+237,3,05:59,43,40,MOG,2_Pts_C,Paulão Prestes
+238,3,06:13,43,38,FLA,3_Pts_C,Laprovittola
+239,3,06:32,40,38,MOG,LL_Pts_C,Shamell
+240,3,06:32,40,37,MOG,LL_Pts_C,Shamell
+241,3,06:32,40,36,MOG,FR,Shamell
+242,3,06:32,40,36,FLA,FC,Meyinsse
+243,3,06:46,40,36,MOG,substituicao_entra,Filipin
+244,3,06:46,40,36,MOG,substituicao_sai,Gehrke
+245,3,06:53,40,36,MOG,RO,Mogi das Cruzes
+246,3,06:53,40,36,MOG,2_Pts_T,Tyrone Curnell
+247,3,07:03,40,36,MOG,RO,Paulão Prestes
+248,3,07:03,40,36,MOG,3_Pts_T,Shamell
+249,3,07:13,40,36,MOG,RO,Gehrke
+250,3,07:13,40,36,MOG,2_Pts_T,Paulão Prestes
+251,3,07:26,40,36,FLA,2_Pts_C,Marquinhos
+252,3,07:36,38,36,FLA,FR,Meyinsse
+253,3,07:36,38,36,MOG,FC,Elinho
+254,3,07:50,38,36,FLA,FR,Olivinha
+255,3,07:50,38,36,MOG,FC,Gehrke
+256,3,07:50,38,36,MOG,3_Pts_T,Paulão Prestes
+257,3,08:08,38,36,FLA,RD,Marquinhos
+258,3,08:08,38,36,MOG,LL_Pts_T,Tyrone Curnell
+259,3,08:08,38,36,MOG,LL_Pts_C,Tyrone Curnell
+260,3,08:08,38,35,MOG,FR,Tyrone Curnell
+261,3,08:08,38,35,FLA,FC,Meyinsse
+262,3,08:13,38,35,MOG,BR,Elinho
+263,3,08:13,38,35,FLA,ER,Marquinhos
+264,3,08:21,38,35,FLA,RD,Marquinhos
+265,3,08:21,38,35,MOG,LL_Pts_T,Elinho
+266,3,08:21,38,35,MOG,LL_Pts_C,Elinho
+267,3,08:25,38,34,MOG,FR,Elinho
+268,3,08:25,38,34,FLA,FC,Olivinha
+269,3,08:39,38,34,MOG,RD,Paulão Prestes
+270,3,08:39,38,34,FLA,3_Pts_T,Marquinhos
+271,3,08:49,38,34,FLA,BR,Laprovittola
+272,3,08:49,38,34,MOG,ER,Paulão Prestes
+273,3,09:00,38,34,FLA,EN,Meyinsse
+274,3,09:08,36,34,FLA,FR,Olivinha
+275,3,09:08,36,34,MOG,FC,Gehrke
+276,3,09:12,36,34,FLA,RD,Olivinha
+277,3,09:12,36,34,MOG,3_Pts_T,Tyrone Curnell
+278,3,09:22,36,34,MOG,RO,Elinho
+279,3,09:22,36,34,MOG,3_Pts_T,Shamell
+280,3,09:42,36,34,MOG,FR,Paulão Prestes
+281,3,09:42,36,34,FLA,FC,Olivinha
+282,3,09:49,36,34,FLA,BR,Meyinsse
+283,3,09:49,36,34,MOG,ER,Elinho
+284,2,00:00,36,34, ,fim_quarto,
+285,2,00:05,36,34,FLA,substituicao_entra,Laprovittola
+286,2,00:05,36,34,FLA,substituicao_sai,Meyinsse
+287,2,00:05,36,34,FLA,substituicao_entra,Benite
+288,2,00:05,36,34,FLA,substituicao_sai,Felicio
+289,2,00:09,36,34,MOG,substituicao_entra,Gustavinho
+290,2,00:09,36,34,MOG,substituicao_sai,Gerson
+291,2,00:09,36,34,FLA,ER,Meyinsse
+292,2,00:13,36,34,FLA,RD,Felicio
+293,2,00:13,36,34,MOG,LL_Pts_T,Gerson
+294,2,00:13,36,34,MOG,LL_Pts_T,Gerson
+295,2,00:13,36,34,MOG,FR,Gerson
+296,2,00:13,36,34,FLA,FC,Marcelinho
+297,2,00:24,36,34,MOG,substituicao_entra,Elinho
+298,2,00:24,36,34,MOG,substituicao_sai,Wagner
+299,2,00:24,36,34,MOG,FR,Jimmy
+300,2,00:24,36,34,FLA,FC_O,Herrmann
+301,2,00:35,36,34,FLA,FR,Meyinsse
+302,2,00:35,36,34,MOG,FC_O,Gerson
+303,2,00:45,36,34,FLA,LL_Pts_C,Meyinsse
+304,2,00:45,35,34,FLA,LL_Pts_T,Meyinsse
+305,2,00:45,35,34,FLA,FR,Meyinsse
+306,2,00:45,35,34,MOG,FC,Wagner
+307,2,00:45,35,34,MOG,RD,Gerson
+308,2,00:45,35,34,FLA,3_Pts_T,Gegê
+309,2,01:02,35,34,MOG,substituicao_entra,Jimmy
+310,2,01:02,35,34,MOG,substituicao_sai,Tyrone Curnell
+311,2,01:02,35,34,MOG,ER,Tyrone Curnell
+312,2,01:09,35,34,FLA,substituicao_entra,Gegê
+313,2,01:11,35,34,FLA,substituicao_sai,Benite
+314,2,01:16,35,34,FLA,2_Pts_C,Herrmann
+315,2,01:23,33,34,FLA,substituicao_entra,Meyinsse
+316,2,01:24,33,34,FLA,substituicao_sai,Gegê
+317,2,01:37,33,34,MOG,2_Pts_C,Wagner
+318,2,02:08,33,32,MOG,tempo_tecnico,Mogi das Cruzes
+319,2,02:08,33,32,FLA,LL_Pts_C,Felicio
+320,2,02:08,32,32,FLA,LL_Pts_T,Felicio
+321,2,02:08,32,32,MOG,substituicao_entra,Shamell
+322,2,02:08,32,32,MOG,substituicao_sai,Elinho
+323,2,02:08,32,32,FLA,FR,Felicio
+324,2,02:08,32,32,MOG,FC,Tyrone Curnell
+325,2,02:08,32,32,FLA,RO,Felicio
+326,2,02:08,32,32,FLA,3_Pts_T,Benite
+327,2,02:22,32,32,MOG,2_Pts_C,Gerson
+328,2,02:22,32,30,MOG,AS,Elinho
+329,2,02:51,32,30,MOG,RD,Tyrone Curnell
+330,2,02:51,32,30,FLA,3_Pts_T,Herrmann
+331,2,03:12,32,30,MOG,2_Pts_C,Filipin
+332,2,03:12,32,28,MOG,AS,Elinho
+333,2,03:17,32,28,MOG,BR,Elinho
+334,2,03:17,32,28,FLA,ER,Benite
+335,2,03:26,32,28,FLA,2_Pts_T,Marcelinho
+336,2,03:42,32,28,FLA,substituicao_entra,Gegê
+337,2,03:42,32,28,FLA,substituicao_sai,Laprovittola
+338,2,03:44,32,28,MOG,tempo_tecnico,Mogi das Cruzes
+339,2,03:44,32,28,FLA,FR,Felicio
+340,2,03:44,32,28,MOG,FC,Filipin
+341,2,03:56,32,28,FLA,RD,Herrmann
+342,2,03:56,32,28,MOG,2_Pts_T,Gerson
+343,2,04:06,32,28,FLA,2_Pts_C,Felicio
+344,2,04:06,30,28,FLA,AS,Marcelinho
+345,2,04:12,30,28,MOG,substituicao_entra,Wagner
+346,2,04:12,30,28,MOG,substituicao_sai,Paulão Prestes
+347,2,04:12,30,28,MOG,substituicao_entra,Elinho
+348,2,04:12,30,28,MOG,substituicao_sai,Gustavinho
+349,2,04:20,30,28,MOG,2_Pts_C,Gustavinho
+350,2,04:20,30,26,MOG,AS,Filipin
+351,2,04:35,30,26,FLA,2_Pts_C,Laprovittola
+352,2,04:35,28,26,FLA,AS,Felicio
+353,2,04:41,28,26,FLA,RO,Felicio
+354,2,04:41,28,26,FLA,3_Pts_T,Herrmann
+355,2,04:59,28,26,FLA,RD,Laprovittola
+356,2,04:59,28,26,MOG,2_Pts_T,Gustavinho
+357,2,05:10,28,26,MOG,RO,Gerson
+358,2,05:10,28,26,MOG,3_Pts_T,Filipin
+359,2,05:33,28,26,FLA,2_Pts_C,Felicio
+360,2,05:33,26,26,FLA,AS,Marcelinho
+361,2,05:53,26,26,FLA,,
+362,2,05:53,26,26,MOG,ER,Paulão Prestes
+363,2,06:06,26,26,MOG,FR,Filipin
+364,2,06:06,26,26,FLA,FC,Benite
+365,2,06:12,26,26,MOG,RD,Paulão Prestes
+366,2,06:12,26,26,FLA,2_Pts_T,Benite
+367,2,06:29,26,26,FLA,FR,Laprovittola
+368,2,06:29,26,26,MOG,FC_O,Gustavinho
+369,2,06:34,26,26,FLA,FR,Laprovittola
+370,2,06:34,26,26,MOG,FC_A,Gustavinho
+371,2,06:34,26,26,FLA,RD,Laprovittola
+372,2,06:34,26,26,MOG,2_Pts_T,Gerson
+373,2,06:38,26,26,MOG,LL_Pts_C,Filipin
+374,2,06:38,26,25,FLA,RD,Felicio
+375,2,06:38,26,25,FLA,LL_Pts_T,Laprovittola
+376,2,06:38,26,25,FLA,LL_Pts_C,Laprovittola
+377,2,06:38,25,25,FLA,FC_T,Flamengo
+378,2,06:41,25,25,MOG,RO,Gerson
+379,2,06:41,25,25,MOG,2_Pts_T,Paulão Prestes
+380,2,07:05,25,25,FLA,2_Pts_C,Marcelinho
+381,2,07:19,23,25,MOG,ER,
+382,2,07:40,23,25,MOG,BR,Tyrone Curnell
+383,2,07:40,23,25,FLA,ER,Laprovittola
+384,2,08:08,23,25,FLA,substituicao_entra,Herrmann
+385,2,08:08,23,25,FLA,substituicao_sai,Olivinha
+386,2,08:08,23,25,FLA,substituicao_entra,Marcelinho
+387,2,08:08,23,25,FLA,substituicao_sai,Marquinhos
+388,2,08:08,23,25,MOG,LL_Pts_C,Gerson
+389,2,08:08,23,24,MOG,FR,Gerson
+390,2,08:08,23,24,FLA,FC,Felicio
+391,2,08:08,23,24,MOG,2_Pts_C,Gerson
+392,2,08:14,23,22,MOG,RD,Gerson
+393,2,08:14,23,22,FLA,3_Pts_T,Olivinha
+394,2,08:34,23,22,MOG,substituicao_entra,Tyrone Curnell
+395,2,08:34,23,22,MOG,substituicao_sai,Shamell
+396,2,08:34,23,22,MOG,LL_Pts_C,Shamell
+397,2,08:34,23,21,MOG,LL_Pts_C,Shamell
+398,2,08:34,23,20,MOG,substituicao_entra,Gustavinho
+399,2,08:34,23,20,MOG,substituicao_sai,Alexandre
+400,2,08:34,23,20,MOG,FR,Shamell
+401,2,08:34,23,20,FLA,FC,Olivinha
+402,2,08:56,23,20,MOG,RD,Gerson
+403,2,08:56,23,20,FLA,2_Pts_T,Olivinha
+404,2,09:09,23,20,FLA,RD,Olivinha
+405,2,09:09,23,20,MOG,3_Pts_T,Alexandre
+406,2,09:38,23,20,FLA,3_Pts_C,Olivinha
+407,2,09:38,20,20,FLA,AS,Benite
+408,2,09:48,20,20,FLA,LL_Pts_T,Olivinha
+409,2,09:48,20,20,FLA,LL_Pts_T,Olivinha
+410,2,09:48,20,20,FLA,FR,Olivinha
+411,2,09:48,20,20,MOG,FC,Gerson
+412,1,00:00,20,20, ,fim_quarto,
+413,1,00:00,20,20,MOG,3_Pts_T,Alexandre
+414,1,00:05,20,20,MOG,FR,Shamell
+415,1,00:05,20,20,FLA,FC,Benite
+416,1,00:13,20,20,MOG,substituicao_entra,Filipin
+417,1,00:13,20,20,MOG,substituicao_sai,Wagner
+418,1,00:14,20,20,MOG,,
+419,1,00:14,20,20,FLA,ER,Laprovittola
+420,1,00:34,20,20,MOG,ER,Wagner
+421,1,00:52,20,20,MOG,RD,Wagner
+422,1,00:52,20,20,FLA,LL_Pts_T,Olivinha
+423,1,00:52,20,20,FLA,LL_Pts_C,Olivinha
+424,1,00:56,19,20,FLA,substituicao_entra,Benite
+425,1,00:56,19,20,FLA,substituicao_sai,Herrmann
+426,1,00:56,19,20,MOG,substituicao_entra,Gerson
+427,1,00:56,19,20,MOG,substituicao_sai,Paulão Prestes
+428,1,00:56,19,20,FLA,FR,Olivinha
+429,1,00:56,19,20,MOG,FC,Wagner
+430,1,00:57,19,20,FLA,RD,Olivinha
+431,1,00:57,19,20,MOG,2_Pts_T,Shamell
+432,1,01:19,19,20,MOG,RD,Paulão Prestes
+433,1,01:19,19,20,FLA,2_Pts_T,Olivinha
+434,1,01:28,19,20,MOG,3_Pts_C,Shamell
+435,1,01:41,19,17,MOG,FR,Shamell
+436,1,01:41,19,17,FLA,FC,Meyinsse
+437,1,01:50,19,17,MOG,RD,Wagner
+438,1,01:50,19,17,FLA,2_Pts_T,Herrmann
+439,1,02:16,19,17,MOG,2_Pts_C,Paulão Prestes
+440,1,02:30,19,15,FLA,2_Pts_C,Marquinhos
+441,1,02:40,17,15,MOG,substituicao_entra,Wagner
+442,1,02:40,17,15,MOG,substituicao_sai,Gehrke
+443,1,02:40,17,15,MOG,ER,Gehrke
+444,1,02:52,17,15,MOG,RD,Shamell
+445,1,02:52,17,15,FLA,2_Pts_T,Meyinsse
+446,1,03:05,17,15,FLA,RO,Olivinha
+447,1,03:05,17,15,FLA,3_Pts_T,Laprovittola
+448,1,03:11,17,15,FLA,FR,Laprovittola
+449,1,03:11,17,15,MOG,FC,Alexandre
+450,1,03:23,17,15,FLA,FR,Herrmann
+451,1,03:23,17,15,MOG,FC_O,Shamell
+452,1,03:39,17,15,FLA,3_Pts_C,Laprovittola
+453,1,03:43,14,15,MOG,substituicao_entra,Jimmy
+454,1,03:43,14,15,MOG,substituicao_sai,Tyrone Curnell
+455,1,03:56,14,15,MOG,EN,Tyrone Curnell
+456,1,03:56,14,13,MOG,AS,Alexandre
+457,1,03:56,14,13,MOG,substituicao_entra,Alexandre
+458,1,03:56,14,13,MOG,substituicao_sai,Elinho
+459,1,04:11,14,13,FLA,3_Pts_C,Marquinhos
+460,1,04:33,11,13,MOG,2_Pts_C,Shamell
+461,1,04:40,11,11,MOG,RD,Tyrone Curnell
+462,1,04:40,11,11,MOG,TO,Paulão Prestes
+463,1,04:40,11,11,FLA,2_Pts_T,Meyinsse
+464,1,05:01,11,11,MOG,2_Pts_C,Paulão Prestes
+465,1,05:01,11,9,MOG,AS,Elinho
+466,1,05:09,11,9,MOG,RD,Tyrone Curnell
+467,1,05:09,11,9,FLA,3_Pts_T,Olivinha
+468,1,05:34,11,9,MOG,2_Pts_C,Tyrone Curnell
+469,1,05:54,11,7,FLA,2_Pts_C,Marquinhos
+470,1,06:03,9,7,FLA,RD,Olivinha
+471,1,06:03,9,7,MOG,3_Pts_T,Tyrone Curnell
+472,1,06:29,9,7,FLA,2_Pts_C,Olivinha
+473,1,06:29,7,7,FLA,AS,Laprovittola
+474,1,06:35,7,7,FLA,RD,Olivinha
+475,1,06:35,7,7,MOG,2_Pts_T,Paulão Prestes
+476,1,06:57,7,7,FLA,LL_Pts_C,Olivinha
+477,1,06:57,6,7,FLA,FR,Olivinha
+478,1,06:57,6,7,MOG,FC,Elinho
+479,1,06:57,6,7,FLA,2_Pts_C,Olivinha
+480,1,07:01,4,7,FLA,RD,Herrmann
+481,1,07:01,4,7,MOG,2_Pts_T,Tyrone Curnell
+482,1,07:22,4,7,MOG,RD,Tyrone Curnell
+483,1,07:22,4,7,FLA,2_Pts_T,Olivinha
+484,1,07:30,4,7,FLA,RD,Herrmann
+485,1,07:30,4,7,MOG,LL_Pts_T,Gehrke
+486,1,07:30,4,7,MOG,LL_Pts_C,Gehrke
+487,1,07:30,4,6,MOG,FR,Gehrke
+488,1,07:30,4,6,FLA,FC,Herrmann
+489,1,07:44,4,6,FLA,2_Pts_C,Olivinha
+490,1,07:44,2,6,FLA,AS,Laprovittola
+491,1,07:57,2,6,FLA,FR,Laprovittola
+492,1,07:57,2,6,MOG,FC,Elinho
+493,1,08:14,2,6,MOG,2_Pts_C,Paulão Prestes
+494,1,08:36,2,4,FLA,2_Pts_C,Olivinha
+495,1,08:36,0,4,FLA,AS,Laprovittola
+496,1,08:43,0,4,MOG,2_Pts_C,Tyrone Curnell
+497,1,08:48,0,2,MOG,RO,Tyrone Curnell
+498,1,08:48,0,2,MOG,3_Pts_T,Elinho
+499,1,09:02,0,2,MOG,RD,Gehrke
+500,1,09:02,0,2,FLA,3_Pts_T,Herrmann
+501,1,09:10,0,2,FLA,RD,Olivinha
+502,1,09:10,0,2,MOG,3_Pts_T,Shamell
+503,1,09:23,0,2,MOG,RD,Gehrke
+504,1,09:23,0,2,FLA,3_Pts_T,Marquinhos
+505,1,09:41,0,2,MOG,2_Pts_C,Paulão Prestes
+506,1,10:00,0,0,MOG,substituicao_entra,Tyrone Curnell
+507,1,10:00,0,0,MOG,substituicao_entra,Shamell
+508,1,10:00,0,0,MOG,substituicao_entra,Paulão Prestes
+509,1,10:00,0,0,MOG,substituicao_entra,Gehrke
+510,1,10:00,0,0,MOG,substituicao_entra,Elinho
+511,1,10:00,0,0,FLA,substituicao_entra,Meyinsse
+512,1,10:00,0,0,FLA,substituicao_entra,Olivinha
+513,1,10:00,0,0,FLA,substituicao_entra,Marquinhos
+514,1,10:00,0,0,FLA,substituicao_entra,Laprovittola
+515,1,10:00,0,0,FLA,substituicao_entra,Marcelinho
+516,1,10:00,0,0,FLA,substituicao_entra,Herrmann

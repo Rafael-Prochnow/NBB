@@ -1,0 +1,541 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,95,65, ,fim_partida,
+1,4,00:01,95,65,LSB,RD,Junior
+2,4,00:01,95,65,PIN,3_Pts_T,Paulinho
+3,4,00:07,95,65,PIN,RD,Humberto
+4,4,00:07,95,65,LSB,2_Pts_T,Thiaguinho
+5,4,00:14,95,65,LSB,RD,Thiaguinho
+6,4,00:14,95,65,PIN,2_Pts_T,Paulinho
+7,4,00:22,95,65,LSB,2_Pts_C,Diego Gomes
+8,4,00:32,95,63,PIN,3_Pts_C,Bruno Caboclo
+9,4,00:32,92,63,PIN,AS,Paulinho
+10,4,00:46,92,63,PIN,RD,Bruno Caboclo
+11,4,00:46,92,63,LSB,LL_Pts_T,Thiaguinho
+12,4,00:46,92,63,LSB,FR,Thiaguinho
+13,4,00:46,92,63,PIN,FC,Humberto
+14,4,00:46,92,63,LSB,2_Pts_C,Thiaguinho
+15,4,00:55,92,61,LSB,RD,Liga Sorocabana
+16,4,00:55,92,61,PIN,2_Pts_T,Bruno Caboclo
+17,4,00:55,92,61,PIN,RD,Lucas Dias
+18,4,00:55,92,61,LSB,3_Pts_T,Junior
+19,4,01:14,92,61,PIN,LL_Pts_C,Lucas Dias
+20,4,01:14,91,61,PIN,LL_Pts_C,Lucas Dias
+21,4,01:14,90,61,PIN,FR,Lucas Dias
+22,4,01:14,90,61,LSB,FC,Alfredo
+23,4,01:19,90,61,LSB,LL_Pts_C,De Bem
+24,4,01:19,90,60,LSB,LL_Pts_C,De Bem
+25,4,01:19,90,59,LSB,FR,De Bem
+26,4,01:19,90,59,PIN,FC,Bruno Caboclo
+27,4,01:24,90,59,LSB,,
+28,4,01:24,90,59,PIN,ER,Bruno Caboclo
+29,4,01:41,90,59,LSB,AS,Thiaguinho
+30,4,01:47,90,59,LSB,2_Pts_C,Junior
+31,4,01:51,90,57,LSB,BR,Thiaguinho
+32,4,01:51,90,57,PIN,ER,Bruno Caboclo
+33,4,02:04,90,57,LSB,substituicao_entra,Thiaguinho
+34,4,02:04,90,57,LSB,substituicao_sai,Schneider
+35,4,02:04,90,57,PIN,FR,Paulinho
+36,4,02:04,90,57,LSB,FC,Diego Gomes
+37,4,02:04,90,57,PIN,BR,Paulinho
+38,4,02:04,90,57,LSB,ER,De Bem
+39,4,02:11,90,57,LSB,BR,Diego Gomes
+40,4,02:11,90,57,PIN,ER,Lucas Dias
+41,4,02:19,90,57,LSB,LL_Pts_C,Schneider
+42,4,02:19,90,56,LSB,LL_Pts_C,Schneider
+43,4,02:19,90,55,LSB,FR,Schneider
+44,4,02:19,90,55,PIN,FC,Lucas Dias
+45,4,02:32,90,55,LSB,RD,Liga Sorocabana
+46,4,02:32,90,55,PIN,2_Pts_T,Humberto
+47,4,02:42,90,55,LSB,substituicao_sai,Cox
+48,4,02:42,90,55,LSB,substituicao_entra,Junior
+49,4,02:42,90,55,LSB,ER,Cox
+50,4,02:54,90,55,LSB,RD,Diego Gomes
+51,4,02:54,90,55,PIN,2_Pts_T,Paulinho
+52,4,03:18,90,55,LSB,2_Pts_C,De Bem
+53,4,03:40,90,53,LSB,tempo_tecnico,Liga Sorocabana
+54,4,03:40,90,53,PIN,LL_Pts_C,Bruno Caboclo
+55,4,03:40,89,53,PIN,LL_Pts_C,Bruno Caboclo
+56,4,03:40,88,53,PIN,FR,Bruno Caboclo
+57,4,03:40,88,53,LSB,FC,Alfredo
+58,4,03:57,88,53,LSB,substituicao_entra,Diego Gomes
+59,4,03:57,88,53,LSB,substituicao_sai,Thiaguinho
+60,4,03:57,88,53,PIN,RD,Pinheiros
+61,4,03:57,88,53,LSB,3_Pts_T,Thiaguinho
+62,4,04:15,88,53,PIN,3_Pts_C,Paulinho
+63,4,04:22,85,53,LSB,substituicao_entra,Alfredo
+64,4,04:22,85,53,LSB,substituicao_sai,Luiz Felipe
+65,4,04:22,85,53,PIN,substituicao_entra,Humberto
+66,4,04:22,85,53,PIN,substituicao_sai,Shamell
+67,4,04:22,85,53,PIN,FR,Bruno Caboclo
+68,4,04:22,85,53,LSB,FC,Thiaguinho
+69,4,04:37,85,53,LSB,3_Pts_C,Schneider
+70,4,04:37,85,50,LSB,AS,De Bem
+71,4,04:57,85,50,LSB,,
+72,4,04:57,85,50,PIN,ER,Bruno Caboclo
+73,4,05:06,85,50,PIN,BR,Lucas Dias
+74,4,05:06,85,50,LSB,ER,De Bem
+75,4,05:31,85,50,PIN,3_Pts_C,Paulinho
+76,4,05:47,82,50,LSB,LL_Pts_C,Thiaguinho
+77,4,05:47,82,49,LSB,FR,Thiaguinho
+78,4,05:47,82,49,PIN,FC,Bruno Caboclo
+79,4,05:47,82,49,LSB,2_Pts_C,Thiaguinho
+80,4,06:09,82,47,PIN,3_Pts_C,Shamell
+81,4,06:09,79,47,PIN,AS,Bruno Mortari
+82,4,06:22,79,47,PIN,substituicao_sai,Jonathan
+83,4,06:22,79,47,PIN,substituicao_entra,Bruno Mortari
+84,4,06:22,79,47,LSB,substituicao_sai,Guilherme
+85,4,06:22,79,47,LSB,substituicao_entra,De Bem
+86,4,06:22,79,47,PIN,,
+87,4,06:22,79,47,LSB,ER,Luiz Felipe
+88,4,06:43,79,47,PIN,2_Pts_C,Paulinho
+89,4,06:43,77,47,PIN,AS,Jonathan
+90,4,06:48,77,47,PIN,BR,Jonathan
+91,4,06:48,77,47,LSB,ER,Schneider
+92,4,07:07,77,47,PIN,2_Pts_C,Lucas Dias
+93,4,07:07,75,47,PIN,AS,Paulinho
+94,4,07:14,75,47,LSB,LL_Pts_C,Schneider
+95,4,07:14,75,46,LSB,LL_Pts_C,Schneider
+96,4,07:14,75,45,PIN,substituicao_sai,Bambu
+97,4,07:14,75,45,PIN,substituicao_entra,Lucas Dias
+98,4,07:14,75,45,LSB,FR,Schneider
+99,4,07:14,75,45,PIN,FC,Bambu
+100,4,07:23,75,45,LSB,FR,Luiz Felipe
+101,4,07:23,75,45,PIN,FC,Bambu
+102,4,07:37,75,45,LSB,substituicao_entra,Luiz Felipe
+103,4,07:37,75,45,LSB,substituicao_sai,Diego Gomes
+104,4,07:37,75,45,LSB,,
+105,4,07:37,75,45,PIN,ER,Jonathan
+106,4,07:45,75,45,PIN,RD,Bruno Caboclo
+107,4,07:45,75,45,LSB,2_Pts_T,Schneider
+108,4,08:04,75,45,PIN,2_Pts_C,Shamell
+109,4,08:04,73,45,PIN,AS,Jonathan
+110,4,08:10,73,45,PIN,BR,Jonathan
+111,4,08:10,73,45,LSB,ER,Diego Gomes
+112,4,08:21,73,45,LSB,,
+113,4,08:21,73,45,PIN,ER,Bambu
+114,4,08:32,73,45,PIN,FR,Jonathan
+115,4,08:32,73,45,LSB,FC,Cox
+116,4,08:34,73,45,PIN,RD,Jonathan
+117,4,08:34,73,45,LSB,2_Pts_T,Guilherme
+118,4,08:38,73,45,LSB,RO,Guilherme
+119,4,08:38,73,45,LSB,2_Pts_T,Cox
+120,4,08:47,73,45,LSB,RD,Diego Gomes
+121,4,08:47,73,45,PIN,3_Pts_T,Bambu
+122,4,09:06,73,45,LSB,LL_Pts_C,Schneider
+123,4,09:06,73,44,LSB,LL_Pts_C,Schneider
+124,4,09:06,73,43,LSB,FR,Schneider
+125,4,09:06,73,43,PIN,FC,Jonathan
+126,4,09:06,73,43,LSB,substituicao_sai,Smith
+127,4,09:06,73,43,LSB,substituicao_entra,Schneider
+128,4,09:29,73,43,LSB,RD,Thiaguinho
+129,4,09:29,73,43,PIN,3_Pts_T,Shamell
+130,4,09:43,73,43,PIN,RD,Jonathan
+131,4,09:43,73,43,LSB,3_Pts_T,Cox
+132,4,10:00,73,43,PIN,substituicao_entra,Shamell
+133,4,10:00,73,43,LSB,substituicao_entra,Guilherme
+134,4,10:00,73,43,LSB,substituicao_entra,Smith
+135,4,10:00,73,43,LSB,substituicao_entra,Cox
+136,4,10:00,73,43,LSB,substituicao_entra,Diego Gomes
+137,4,10:00,73,43,LSB,substituicao_entra,Thiaguinho
+138,4,10:00,73,43,PIN,substituicao_entra,Jonathan
+139,4,10:00,73,43,PIN,substituicao_entra,Bambu
+140,4,10:00,73,43,PIN,substituicao_entra,Bruno Caboclo
+141,4,10:00,73,43,PIN,substituicao_entra,Paulinho
+142,3,00:00,73,43, ,fim_quarto,
+143,3,00:01,73,43,PIN,2_Pts_C,Joe Smith
+144,3,00:09,71,43,LSB,substituicao_entra,Diego Gomes
+145,3,00:09,71,43,LSB,substituicao_sai,Alfredo
+146,3,00:09,71,43,PIN,,
+147,3,00:09,71,43,LSB,ER,Schneider
+148,3,00:28,71,43,LSB,RD,Schneider
+149,3,00:28,71,43,PIN,3_Pts_T,Joe Smith
+150,3,00:34,71,43,PIN,BR,Shamell
+151,3,00:34,71,43,LSB,ER,Alfredo
+152,3,00:43,71,43,PIN,3_Pts_C,Shamell
+153,3,00:48,68,43,PIN,RO,Shamell
+154,3,00:48,68,43,PIN,3_Pts_T,Shamell
+155,3,01:06,68,43,LSB,LL_Pts_C,Schneider
+156,3,01:06,68,42,LSB,AS,Thiaguinho
+157,3,01:06,68,42,LSB,LL_Pts_C,Schneider
+158,3,01:06,68,41,LSB,FR,Schneider
+159,3,01:06,68,41,PIN,FC,Bambu
+160,3,01:23,68,41,PIN,3_Pts_C,Shamell
+161,3,01:23,65,41,PIN,AS,Joe Smith
+162,3,01:53,65,41,LSB,2_Pts_C,De Bem
+163,3,02:12,65,39,PIN,3_Pts_C,Shamell
+164,3,02:12,62,39,PIN,AS,Bambu
+165,3,02:36,62,39,PIN,RD,Joe Smith
+166,3,02:36,62,39,LSB,2_Pts_T,Schneider
+167,3,02:53,62,39,LSB,tempo_tecnico,Liga Sorocabana
+168,3,02:53,62,39,PIN,LL_Pts_C,Bambu
+169,3,02:53,61,39,PIN,LL_Pts_C,Bambu
+170,3,02:53,60,39,LSB,substituicao_entra,Alfredo
+171,3,02:53,60,39,LSB,substituicao_sai,Smith
+172,3,03:01,60,39,PIN,FR,Bambu
+173,3,03:01,60,39,LSB,FC,Luiz Felipe
+174,3,03:03,60,39,PIN,RD,Bambu
+175,3,03:03,60,39,LSB,3_Pts_T,Smith
+176,3,03:11,60,39,LSB,FR,Schneider
+177,3,03:11,60,39,PIN,FC,Lucas Dias
+178,3,03:26,60,39,PIN,3_Pts_C,Joe Smith
+179,3,03:37,57,39,LSB,substituicao_entra,Thiaguinho
+180,3,03:37,57,39,LSB,substituicao_sai,Cox
+181,3,03:37,57,39,PIN,RD,Pinheiros
+182,3,03:37,57,39,LSB,3_Pts_T,Cox
+183,3,03:47,57,39,LSB,BR,De Bem
+184,3,03:47,57,39,PIN,ER,Lucas Dias
+185,3,03:59,57,39,PIN,substituicao_entra,Lucas Dias
+186,3,03:59,57,39,PIN,substituicao_sai,Morro
+187,3,03:59,57,39,LSB,LL_Pts_C,Smith
+188,3,03:59,57,38,LSB,LL_Pts_C,Smith
+189,3,03:59,57,37,LSB,FR,Smith
+190,3,03:59,57,37,PIN,FC,Morro
+191,3,04:06,57,37,LSB,RD,Luiz Felipe
+192,3,04:06,57,37,PIN,2_Pts_T,Bambu
+193,3,04:23,57,37,PIN,RD,Shamell
+194,3,04:23,57,37,LSB,2_Pts_T,Luiz Felipe
+195,3,04:36,57,37,LSB,,
+196,3,04:36,57,37,PIN,ER,Bambu
+197,3,04:46,57,37,PIN,RD,Jonathan
+198,3,04:46,57,37,LSB,3_Pts_T,Cox
+199,3,05:21,57,37,PIN,3_Pts_C,Shamell
+200,3,05:21,54,37,PIN,AS,Joe Smith
+201,3,05:43,54,37,LSB,LL_Pts_C,Schneider
+202,3,05:43,54,36,LSB,LL_Pts_C,Schneider
+203,3,05:43,54,35,LSB,FR,Schneider
+204,3,05:43,54,35,PIN,FC,Morro
+205,3,05:47,54,35,LSB,BR,Schneider
+206,3,05:47,54,35,PIN,ER,Joe Smith
+207,3,05:59,54,35,LSB,substituicao_entra,Luiz Felipe
+208,3,05:59,54,35,LSB,substituicao_sai,Guilherme
+209,3,05:59,54,35,PIN,FR,Morro
+210,3,05:59,54,35,LSB,FC,Smith
+211,3,05:59,54,35,PIN,RD,Morro
+212,3,05:59,54,35,LSB,2_Pts_T,Smith
+213,3,06:24,54,35,PIN,2_Pts_C,Shamell
+214,3,06:24,52,35,PIN,AS,Joe Smith
+215,3,06:51,52,35,PIN,FR,Morro
+216,3,06:51,52,35,LSB,FC,Guilherme
+217,3,06:53,52,35,PIN,RD,Morro
+218,3,06:53,52,35,LSB,3_Pts_T,Cox
+219,3,07:02,52,35,LSB,RD,Smith
+220,3,07:02,52,35,PIN,2_Pts_T,Morro
+221,3,07:18,52,35,PIN,RO,Joe Smith
+222,3,07:18,52,35,PIN,3_Pts_T,Jonathan
+223,3,07:26,52,35,PIN,BR,Bambu
+224,3,07:26,52,35,LSB,ER,Smith
+225,3,07:40,52,35,LSB,RD,De Bem
+226,3,07:40,52,35,PIN,3_Pts_T,Jonathan
+227,3,08:00,52,35,PIN,RD,Bambu
+228,3,08:00,52,35,LSB,3_Pts_T,Schneider
+229,3,08:18,52,35,PIN,LL_Pts_C,Morro
+230,3,08:18,51,35,PIN,AS,Joe Smith
+231,3,08:18,51,35,PIN,LL_Pts_C,Morro
+232,3,08:18,50,35,PIN,FR,Morro
+233,3,08:18,50,35,LSB,FC,Schneider
+234,3,08:28,50,35,PIN,RO,Bambu
+235,3,08:28,50,35,PIN,3_Pts_T,Joe Smith
+236,3,08:53,50,35,PIN,BR,Joe Smith
+237,3,08:53,50,35,LSB,ER,Guilherme
+238,3,09:08,50,35,LSB,RD,Smith
+239,3,09:08,50,35,PIN,2_Pts_T,Shamell
+240,3,09:29,50,35,LSB,2_Pts_C,Cox
+241,3,09:46,50,33,LSB,RD,Cox
+242,3,09:46,50,33,PIN,3_Pts_T,Shamell
+243,3,10:00,50,33,PIN,substituicao_entra,Morro
+244,3,10:00,50,33,LSB,FR,Cox
+245,3,10:00,50,33,PIN,FC_D,Rafael Mineiro
+246,3,10:00,50,33,PIN,substituicao_entra,Rafael Mineiro
+247,3,10:00,50,33,LSB,substituicao_entra,Guilherme
+248,3,10:00,50,33,PIN,FR,
+249,3,10:00,50,33,LSB,FC_D,Verson
+250,3,10:00,50,33,LSB,substituicao_entra,Verson
+251,3,10:00,50,33,LSB,FR,Cox
+252,3,10:00,50,33,LSB,substituicao_entra,Guilherme
+253,3,10:00,50,33,LSB,substituicao_entra,De Bem
+254,3,10:00,50,33,LSB,substituicao_entra,Smith
+255,3,10:00,50,33,LSB,substituicao_entra,Cox
+256,3,10:00,50,33,LSB,substituicao_entra,Schneider
+257,3,10:00,50,33,PIN,substituicao_entra,Jonathan
+258,3,10:00,50,33,PIN,substituicao_entra,Bambu
+259,3,10:00,50,33,PIN,substituicao_entra,Shamell
+260,3,10:00,50,33,PIN,substituicao_entra,Joe Smith
+261,3,10:00,50,33,PIN,substituicao_entra,Morro
+262,2,00:00,50,33, ,fim_quarto,
+263,2,00:00,50,33,PIN,3_Pts_C,Paulinho
+264,2,00:05,47,33,PIN,RO,Jonathan
+265,2,00:05,47,33,PIN,3_Pts_T,Paulinho
+266,2,00:30,47,33,LSB,3_Pts_C,Smith
+267,2,00:30,47,30,LSB,AS,Luiz Felipe
+268,2,00:45,47,30,LSB,LL_Pts_C,Schneider
+269,2,00:45,47,29,LSB,LL_Pts_C,Schneider
+270,2,00:45,47,28,LSB,substituicao_entra,Luiz Felipe
+271,2,00:45,47,28,LSB,substituicao_sai,Guilherme
+272,2,00:45,47,28,LSB,FR,Schneider
+273,2,00:45,47,28,PIN,FC_A,Paulinho
+274,2,00:45,47,28,LSB,BR,Schneider
+275,2,00:45,47,28,PIN,ER,Paulinho
+276,2,00:49,47,28,PIN,RD,Jonathan
+277,2,00:49,47,28,LSB,LL_Pts_T,Schneider
+278,2,00:49,47,28,LSB,LL_Pts_C,Schneider
+279,2,00:49,47,27,LSB,substituicao_entra,Smith
+280,2,00:49,47,27,LSB,substituicao_entra,Cox
+281,2,00:49,47,27,LSB,substituicao_sai,Alfredo
+282,2,00:49,47,27,LSB,substituicao_sai,Diego Gomes
+283,2,00:49,47,27,LSB,FR,Schneider
+284,2,00:49,47,27,PIN,FC,Lucas Dias
+285,2,01:08,47,27,PIN,3_Pts_C,Bruno Mortari
+286,2,01:08,44,27,PIN,AS,Jonathan
+287,2,01:25,44,27,PIN,RD,Jonathan
+288,2,01:25,44,27,LSB,2_Pts_T,De Bem
+289,2,01:41,44,27,LSB,RD,Liga Sorocabana
+290,2,01:41,44,27,PIN,3_Pts_T,Lucas Dias
+291,2,01:52,44,27,PIN,RD,Lucas Dias
+292,2,01:52,44,27,LSB,3_Pts_T,Alfredo
+293,2,02:02,44,27,LSB,substituicao_entra,Guilherme
+294,2,02:02,44,27,LSB,substituicao_sai,Verson
+295,2,02:02,44,27,PIN,LL_Pts_C,Paulinho
+296,2,02:02,43,27,PIN,FC_T,Pinheiros
+297,2,02:02,43,27,LSB,FC_T,Liga Sorocabana
+298,2,02:02,43,27,PIN,LL_Pts_C,Paulinho
+299,2,02:02,42,27,PIN,substituicao_entra,Morro
+300,2,02:02,42,27,PIN,substituicao_sai,Rafael Mineiro
+301,2,02:02,42,27,LSB,substituicao_entra,Diego Gomes
+302,2,02:02,42,27,LSB,substituicao_sai,Thiaguinho
+303,2,02:02,42,27,PIN,FR,Paulinho
+304,2,02:02,42,27,LSB,FC,Thiaguinho
+305,2,02:02,42,27,PIN,BR,Paulinho
+306,2,02:02,42,27,LSB,ER,Thiaguinho
+307,2,02:14,42,27,PIN,2_Pts_C,Paulinho
+308,2,02:26,40,27,LSB,substituicao_sai,Luiz Felipe
+309,2,02:26,40,27,LSB,substituicao_entra,Verson
+310,2,02:26,40,27,LSB,LL_Pts_C,Schneider
+311,2,02:26,40,26,LSB,AS,De Bem
+312,2,02:26,40,26,LSB,LL_Pts_C,Schneider
+313,2,02:26,40,25,PIN,FC_T,Rafael Mineiro
+314,2,02:26,40,25,LSB,FC_T,Liga Sorocabana
+315,2,02:26,40,25,LSB,FR,Schneider
+316,2,02:26,40,25,PIN,FC,Bruno Mortari
+317,2,02:45,40,25,PIN,2_Pts_C,Paulinho
+318,2,02:53,38,25,PIN,RD,Jonathan
+319,2,02:53,38,25,LSB,3_Pts_T,Schneider
+320,2,03:05,38,25,PIN,2_Pts_C,Lucas Dias
+321,2,03:19,36,25,PIN,RD,Jonathan
+322,2,03:19,36,25,LSB,2_Pts_T,Schneider
+323,2,03:27,36,25,LSB,RO,Luiz Felipe
+324,2,03:27,36,25,LSB,3_Pts_T,Thiaguinho
+325,2,03:33,36,25,LSB,RO,Thiaguinho
+326,2,03:33,36,25,PIN,TO,Lucas Dias
+327,2,03:33,36,25,LSB,2_Pts_T,Alfredo
+328,2,03:47,36,25,PIN,substituicao_entra,Rafael Mineiro
+329,2,03:47,36,25,PIN,substituicao_sai,Bambu
+330,2,03:47,36,25,PIN,substituicao_entra,Bruno Mortari
+331,2,03:47,36,25,PIN,substituicao_sai,Shamell
+332,2,03:47,36,25,LSB,FR,Luiz Felipe
+333,2,03:47,36,25,PIN,FC,Shamell
+334,2,04:10,36,25,LSB,substituicao_entra,Thiaguinho
+335,2,04:10,36,25,LSB,substituicao_sai,Cox
+336,2,04:10,36,25,PIN,LL_Pts_C,Lucas Dias
+337,2,04:10,35,25,PIN,AS,Bambu
+338,2,04:10,35,25,PIN,LL_Pts_C,Lucas Dias
+339,2,04:10,34,25,PIN,FR,Lucas Dias
+340,2,04:10,34,25,LSB,FC,Cox
+341,2,04:25,34,25,PIN,RD,Bambu
+342,2,04:25,34,25,LSB,3_Pts_T,Luiz Felipe
+343,2,04:33,34,25,LSB,RD,Luiz Felipe
+344,2,04:33,34,25,PIN,3_Pts_T,Shamell
+345,2,04:53,34,25,PIN,RD,Bambu
+346,2,04:53,34,25,LSB,3_Pts_T,Cox
+347,2,05:03,34,25,LSB,FR,Cox
+348,2,05:03,34,25,PIN,FC,Bambu
+349,2,05:22,34,25,PIN,AS,Paulinho
+350,2,05:22,34,25,PIN,LL_Pts_C,Bambu
+351,2,05:22,33,25,PIN,LL_Pts_T,Bambu
+352,2,05:22,33,25,PIN,FR,Bambu
+353,2,05:22,33,25,LSB,FC,De Bem
+354,2,05:33,33,25,LSB,3_Pts_C,Cox
+355,2,05:45,33,22,PIN,substituicao_entra,Jonathan
+356,2,05:45,33,22,PIN,substituicao_sai,Joe Smith
+357,2,05:45,33,22,LSB,substituicao_sai,Smith
+358,2,05:45,33,22,LSB,substituicao_entra,De Bem
+359,2,05:47,33,22,LSB,tempo_tecnico,Liga Sorocabana
+360,2,05:47,33,22,PIN,3_Pts_C,Shamell
+361,2,05:47,30,22,PIN,AS,Lucas Dias
+362,2,06:09,30,22,LSB,2_Pts_C,Alfredo
+363,2,06:20,30,20,LSB,substituicao_entra,Schneider
+364,2,06:20,30,20,LSB,substituicao_sai,Guilherme
+365,2,06:20,30,20,PIN,LL_Pts_C,Shamell
+366,2,06:20,29,20,PIN,LL_Pts_C,Shamell
+367,2,06:20,28,20,PIN,FR,Shamell
+368,2,06:20,28,20,LSB,FC,Guilherme
+369,2,06:42,28,20,LSB,substituicao_entra,Smith
+370,2,06:42,28,20,LSB,substituicao_sai,Thiaguinho
+371,2,06:42,28,20,PIN,,
+372,2,06:42,28,20,LSB,ER,Luiz Felipe
+373,2,06:49,28,20,LSB,RO,Liga Sorocabana
+374,2,06:49,28,20,LSB,2_Pts_T,Alfredo
+375,2,06:50,28,20,LSB,RO,Alfredo
+376,2,06:50,28,20,LSB,2_Pts_T,Guilherme
+377,2,06:56,28,20,LSB,FR,Guilherme
+378,2,06:56,28,20,PIN,FC,Lucas Dias
+379,2,07:13,28,20,PIN,3_Pts_C,Paulinho
+380,2,07:13,25,20,PIN,AS,Joe Smith
+381,2,07:31,25,20,LSB,3_Pts_C,Cox
+382,2,07:45,25,17,PIN,LL_Pts_C,Bambu
+383,2,07:45,24,17,PIN,AS,Paulinho
+384,2,07:45,24,17,PIN,LL_Pts_C,Bambu
+385,2,07:45,23,17,PIN,substituicao_entra,Lucas Dias
+386,2,07:45,23,17,PIN,substituicao_sai,Rafael Mineiro
+387,2,07:45,23,17,LSB,substituicao_entra,Cox
+388,2,07:45,23,17,LSB,substituicao_sai,Verson
+389,2,07:45,23,17,PIN,FR,Bambu
+390,2,07:45,23,17,LSB,FC,Verson
+391,2,07:51,23,17,PIN,RO,Paulinho
+392,2,07:51,23,17,PIN,3_Pts_T,Shamell
+393,2,08:16,23,17,LSB,2_Pts_C,Guilherme
+394,2,08:16,23,15,LSB,AS,Luiz Felipe
+395,2,08:43,23,15,PIN,3_Pts_C,Bambu
+396,2,08:43,20,15,PIN,AS,Shamell
+397,2,09:00,20,15,PIN,FR,Shamell
+398,2,09:00,20,15,LSB,FC,Luiz Felipe
+399,2,09:03,20,15,PIN,RD,Shamell
+400,2,09:03,20,15,LSB,3_Pts_T,Alfredo
+401,2,09:14,20,15,LSB,RD,Guilherme
+402,2,09:14,20,15,PIN,3_Pts_T,Paulinho
+403,2,09:36,20,15,LSB,2_Pts_C,Luiz Felipe
+404,2,09:36,20,13,LSB,AS,Thiaguinho
+405,2,09:46,20,13,LSB,RO,Guilherme
+406,2,09:46,20,13,LSB,3_Pts_T,Verson
+407,2,10:00,20,13,LSB,substituicao_entra,Guilherme
+408,2,10:00,20,13,LSB,substituicao_entra,Verson
+409,2,10:00,20,13,LSB,substituicao_entra,Alfredo
+410,2,10:00,20,13,LSB,substituicao_entra,Luiz Felipe
+411,2,10:00,20,13,LSB,substituicao_entra,Thiaguinho
+412,2,10:00,20,13,PIN,substituicao_entra,Bambu
+413,2,10:00,20,13,PIN,substituicao_entra,Shamell
+414,2,10:00,20,13,PIN,substituicao_entra,Rafael Mineiro
+415,2,10:00,20,13,PIN,substituicao_entra,Joe Smith
+416,2,10:00,20,13,PIN,substituicao_entra,Paulinho
+417,1,00:00,20,13, ,fim_quarto,
+418,1,00:19,20,13,LSB,3_Pts_C,Alfredo
+419,1,00:28,20,10,LSB,substituicao_entra,Alfredo
+420,1,00:28,20,10,LSB,substituicao_sai,Guilherme
+421,1,00:28,20,10,PIN,ER,Rafael Mineiro
+422,1,00:29,20,10,PIN,RD,Rafael Mineiro
+423,1,00:29,20,10,LSB,2_Pts_T,Guilherme
+424,1,00:46,20,10,LSB,RD,Liga Sorocabana
+425,1,00:46,20,10,PIN,3_Pts_T,Paulinho
+426,1,01:08,20,10,LSB,2_Pts_C,Diego Gomes
+427,1,01:08,20,8,LSB,AS,Thiaguinho
+428,1,01:15,20,8,LSB,RO,Guilherme
+429,1,01:15,20,8,PIN,TO,Rafael Mineiro
+430,1,01:15,20,8,LSB,2_Pts_T,Guilherme
+431,1,01:34,20,8,PIN,LL_Pts_C,Shamell
+432,1,01:34,19,8,PIN,LL_Pts_C,Shamell
+433,1,01:34,18,8,LSB,substituicao_entra,Diego Gomes
+434,1,01:34,18,8,LSB,substituicao_sai,Cox
+435,1,01:34,18,8,LSB,substituicao_entra,Luiz Felipe
+436,1,01:34,18,8,LSB,substituicao_sai,Schneider
+437,1,01:34,18,8,PIN,FR,Shamell
+438,1,01:34,18,8,LSB,FC,Thiaguinho
+439,1,01:35,18,8,PIN,RD,Rafael Mineiro
+440,1,01:35,18,8,LSB,2_Pts_T,Schneider
+441,1,01:46,18,8,LSB,RD,Schneider
+442,1,01:46,18,8,PIN,2_Pts_T,Shamell
+443,1,01:59,18,8,LSB,3_Pts_C,Cox
+444,1,01:59,18,5,LSB,AS,Thiaguinho
+445,1,02:11,18,5,PIN,2_Pts_C,Shamell
+446,1,02:11,16,5,PIN,AS,Paulinho
+447,1,02:25,16,5,PIN,RO,Shamell
+448,1,02:25,16,5,PIN,3_Pts_T,Shamell
+449,1,02:47,16,5,PIN,RD,Paulinho
+450,1,02:47,16,5,LSB,2_Pts_T,Thiaguinho
+451,1,03:01,16,5,LSB,substituicao_entra,Verson
+452,1,03:01,16,5,LSB,substituicao_sai,Smith
+453,1,03:01,16,5,PIN,substituicao_entra,Paulinho
+454,1,03:01,16,5,PIN,substituicao_sai,Jonathan
+455,1,03:01,16,5,LSB,FR,Thiaguinho
+456,1,03:01,16,5,PIN,FC,Jonathan
+457,1,03:10,16,5,PIN,2_Pts_C,Rafael Mineiro
+458,1,03:25,14,5,PIN,RD,Rafael Mineiro
+459,1,03:25,14,5,LSB,2_Pts_T,Thiaguinho
+460,1,03:47,14,5,LSB,FR,Thiaguinho
+461,1,03:47,14,5,PIN,FC,Jonathan
+462,1,03:50,14,5,LSB,RD,Guilherme
+463,1,03:50,14,5,PIN,3_Pts_T,Jonathan
+464,1,04:12,14,5,LSB,substituicao_entra,Guilherme
+465,1,04:12,14,5,LSB,substituicao_sai,De Bem
+466,1,04:12,14,5,LSB,ER,De Bem
+467,1,04:35,14,5,PIN,2_Pts_C,Bambu
+468,1,04:39,12,5,PIN,BR,Rafael Mineiro
+469,1,04:39,12,5,LSB,ER,De Bem
+470,1,04:46,12,5,LSB,RD,De Bem
+471,1,04:46,12,5,PIN,2_Pts_T,Shamell
+472,1,05:10,12,5,LSB,2_Pts_C,Smith
+473,1,05:10,12,3,LSB,AS,De Bem
+474,1,05:27,12,3,LSB,substituicao_sai,Guilherme
+475,1,05:27,12,3,LSB,substituicao_entra,Smith
+476,1,05:27,12,3,LSB,tempo_tecnico,Liga Sorocabana
+477,1,05:27,12,3,PIN,LL_Pts_C,Joe Smith
+478,1,05:27,11,3,PIN,FR,Joe Smith
+479,1,05:27,11,3,LSB,FC,Cox
+480,1,05:27,11,3,PIN,3_Pts_C,Joe Smith
+481,1,05:27,8,3,PIN,AS,Shamell
+482,1,05:39,8,3,LSB,substituicao_entra,Thiaguinho
+483,1,05:39,8,3,LSB,substituicao_sai,Smith
+484,1,05:39,8,3,PIN,FR,Shamell
+485,1,05:39,8,3,LSB,FC,Guilherme
+486,1,05:39,8,3,PIN,BR,Shamell
+487,1,05:39,8,3,LSB,ER,Smith
+488,1,06:01,8,3,PIN,2_Pts_C,Bambu
+489,1,06:01,6,3,PIN,AS,Shamell
+490,1,06:09,6,3,PIN,RD,Jonathan
+491,1,06:09,6,3,LSB,2_Pts_T,De Bem
+492,1,06:34,6,3,LSB,RO,Cox
+493,1,06:34,6,3,LSB,LL_Pts_T,Smith
+494,1,06:34,6,3,LSB,LL_Pts_C,Smith
+495,1,06:34,6,2,LSB,FR,Smith
+496,1,06:34,6,2,PIN,FC,Rafael Mineiro
+497,1,06:35,6,2,LSB,RO,Smith
+498,1,06:35,6,2,LSB,2_Pts_T,Smith
+499,1,06:40,6,2,LSB,RO,Smith
+500,1,06:40,6,2,LSB,3_Pts_T,Schneider
+501,1,06:45,6,2,LSB,RO,Guilherme
+502,1,06:45,6,2,LSB,2_Pts_T,Smith
+503,1,07:09,6,2,LSB,RD,Liga Sorocabana
+504,1,07:09,6,2,PIN,3_Pts_T,Shamell
+505,1,07:27,6,2,LSB,2_Pts_C,Smith
+506,1,07:52,6,0,PIN,3_Pts_C,Jonathan
+507,1,08:01,3,0,PIN,BR,Bambu
+508,1,08:01,3,0,LSB,ER,Guilherme
+509,1,08:14,3,0,LSB,RD,Smith
+510,1,08:14,3,0,PIN,3_Pts_T,Joe Smith
+511,1,08:18,3,0,PIN,FR,Joe Smith
+512,1,08:18,3,0,LSB,FC,Smith
+513,1,08:30,3,0,PIN,RD,Bambu
+514,1,08:30,3,0,LSB,3_Pts_T,Cox
+515,1,08:46,3,0,PIN,3_Pts_C,Joe Smith
+516,1,08:46,0,0,PIN,AS,Jonathan
+517,1,09:03,0,0,PIN,RD,Jonathan
+518,1,09:03,0,0,LSB,2_Pts_T,Schneider
+519,1,09:10,0,0,LSB,RD,De Bem
+520,1,09:10,0,0,PIN,3_Pts_T,Jonathan
+521,1,09:27,0,0,PIN,RO,Jonathan
+522,1,09:27,0,0,PIN,3_Pts_T,Shamell
+523,1,09:34,0,0,PIN,RD,Rafael Mineiro
+524,1,09:34,0,0,LSB,2_Pts_T,Smith
+525,1,09:39,0,0,LSB,RD,Smith
+526,1,09:39,0,0,PIN,3_Pts_T,Jonathan
+527,1,09:59,0,0,PIN,FR,Rafael Mineiro
+528,1,09:59,0,0,LSB,FC_O,De Bem
+529,1,10:00,0,0,PIN,substituicao_entra,Bambu
+530,1,10:00,0,0,LSB,substituicao_entra,Guilherme
+531,1,10:00,0,0,LSB,substituicao_entra,De Bem
+532,1,10:00,0,0,LSB,substituicao_entra,Smith
+533,1,10:00,0,0,LSB,substituicao_entra,Cox
+534,1,10:00,0,0,LSB,substituicao_entra,Schneider
+535,1,10:00,0,0,PIN,substituicao_entra,Jonathan
+536,1,10:00,0,0,PIN,substituicao_entra,Shamell
+537,1,10:00,0,0,PIN,substituicao_entra,Rafael Mineiro
+538,1,10:00,0,0,PIN,substituicao_entra,Joe Smith
+539,1,10:00,0,0,PIN,substituicao_entra,Morro

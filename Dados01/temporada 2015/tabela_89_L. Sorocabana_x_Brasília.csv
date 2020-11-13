@@ -1,0 +1,522 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,73,93, ,fim_partida,
+1,4,00:01,73,93,BRA,LL_Pts_C,Cipolini
+2,4,00:01,73,92,BRA,LL_Pts_T,Cipolini
+3,4,00:01,73,92,BRA,FR,Cipolini
+4,4,00:01,73,92,LSB,FC,Leandro
+5,4,00:04,73,92,BRA,RO,Cipolini
+6,4,00:04,73,92,BRA,2_Pts_T,Arthur
+7,4,00:07,73,92,BRA,RO,Arthur
+8,4,00:07,73,92,BRA,3_Pts_T,J Campos
+9,4,00:14,73,92,BRA,RD,Arthur
+10,4,00:14,73,92,LSB,3_Pts_T,Neto
+11,4,00:15,73,92,LSB,RO,Liga Sorocabana
+12,4,00:15,73,92,BRA,TO,Cipolini
+13,4,00:15,73,92,LSB,2_Pts_T,Neto
+14,4,00:28,73,92,LSB,RD,Liga Sorocabana
+15,4,00:28,73,92,BRA,3_Pts_T,Pureza
+16,4,00:48,73,92,LSB,LL_Pts_C,Neto
+17,4,00:48,72,92,LSB,LL_Pts_T,Neto
+18,4,00:48,72,92,LSB,FR,Neto
+19,4,00:48,72,92,BRA,FC,Pureza
+20,4,00:51,72,92,BRA,ER,J Campos
+21,4,01:29,72,92,LSB,2_Pts_C,Neto
+22,4,01:31,70,92,BRA,substituicao_entra,Paulo
+23,4,01:31,70,92,BRA,substituicao_sai,G Giovannoni
+24,4,01:39,70,92,LSB,BR,Lacerda
+25,4,01:39,70,92,BRA,ER,Pureza
+26,4,01:39,70,92,BRA,substituicao_entra,Pureza
+27,4,01:39,70,92,BRA,substituicao_sai,Pilar
+28,4,01:39,70,92,BRA,substituicao_entra,Cipolini
+29,4,01:39,70,92,BRA,substituicao_sai,Coimbra
+30,4,01:39,70,92,BRA,substituicao_entra,Arthur
+31,4,01:39,70,92,BRA,substituicao_sai,Deryk
+32,4,01:39,70,92,LSB,substituicao_entra,Lacerda
+33,4,01:39,70,92,LSB,substituicao_sai,Fab Melo
+34,4,01:39,70,92,LSB,substituicao_entra,Leandro
+35,4,01:39,70,92,LSB,substituicao_sai,Socas
+36,4,01:39,70,92,LSB,tempo_tecnico,Liga Sorocabana
+37,4,01:39,70,92,BRA,,
+38,4,01:39,70,92,LSB,ER,Socas
+39,4,01:51,70,92,LSB,RD,Neto
+40,4,01:51,70,92,BRA,3_Pts_T,J Campos
+41,4,02:01,70,92,BRA,RD,Pilar
+42,4,02:01,70,92,LSB,3_Pts_T,Verson
+43,4,02:06,70,92,LSB,RO,Victor
+44,4,02:06,70,92,LSB,3_Pts_T,Neto
+45,4,02:16,70,92,BRA,3_Pts_C,Pilar
+46,4,02:36,70,89,LSB,2_Pts_C,Neto
+47,4,02:36,68,89,LSB,AS,Fab Melo
+48,4,03:36,68,89,BRA,3_Pts_C,J Campos
+49,4,03:36,68,86,BRA,,
+50,4,03:36,68,86,LSB,ER,Socas
+51,4,03:37,68,86,LSB,substituicao_entra,Victor
+52,4,03:37,68,86,LSB,substituicao_sai,Chupeta
+53,4,03:37,68,86,BRA,substituicao_entra,J Campos
+54,4,03:37,68,86,BRA,substituicao_sai,Fulvio
+55,4,03:37,68,86,LSB,FR,Neto
+56,4,03:37,68,86,BRA,FC,Fulvio
+57,4,03:51,68,86,LSB,RD,Neto
+58,4,03:51,68,86,BRA,3_Pts_T,Deryk
+59,4,03:51,68,86,LSB,ER,Chupeta
+60,4,04:03,68,86,LSB,FR,Neto
+61,4,04:03,68,86,BRA,FC,Pilar
+62,4,04:18,68,86,BRA,EN,G Giovannoni
+63,4,04:18,68,84,BRA,AS,Deryk
+64,4,04:24,68,84,BRA,BR,Deryk
+65,4,04:24,68,84,LSB,ER,Neto
+66,4,04:37,68,84,LSB,RO,Verson
+67,4,04:37,68,84,LSB,3_Pts_T,Chupeta
+68,4,04:46,68,84,LSB,substituicao_entra,Fab Melo
+69,4,04:46,68,84,LSB,substituicao_sai,Lupa
+70,4,04:46,68,84,LSB,tempo_tecnico,Liga Sorocabana
+71,4,04:46,68,84,BRA,substituicao_entra,Coimbra
+72,4,04:46,68,84,BRA,substituicao_sai,Ronald
+73,4,04:46,68,84,LSB,FR,Chupeta
+74,4,04:46,68,84,BRA,FC,Ronald
+75,4,05:02,68,84,LSB,FR,Neto
+76,4,05:02,68,84,BRA,FC_O,Ronald
+77,4,05:14,68,84,BRA,RO,Brasília
+78,4,05:14,68,84,BRA,3_Pts_T,Deryk
+79,4,05:19,68,84,BRA,FR,Deryk
+80,4,05:19,68,84,LSB,FC,Chupeta
+81,4,05:33,68,84,BRA,RD,G Giovannoni
+82,4,05:33,68,84,LSB,3_Pts_T,Neto
+83,4,05:34,68,84,LSB,RO,Liga Sorocabana
+84,4,05:34,68,84,BRA,TO,Ronald
+85,4,05:34,68,84,LSB,2_Pts_T,Neto
+86,4,05:53,68,84,BRA,LL_Pts_C,Ronald
+87,4,05:53,68,83,BRA,LL_Pts_C,Ronald
+88,4,05:53,68,82,LSB,substituicao_entra,Verson
+89,4,05:53,68,82,LSB,substituicao_sai,Fab Melo
+90,4,05:53,68,82,BRA,FR,Ronald
+91,4,05:53,68,82,LSB,FC,Fab Melo
+92,4,06:00,68,82,BRA,RO,G Giovannoni
+93,4,06:00,68,82,BRA,2_Pts_T,Fulvio
+94,4,06:07,68,82,BRA,FR,Pilar
+95,4,06:07,68,82,LSB,FC,Fab Melo
+96,4,06:14,68,82,BRA,RD,Pilar
+97,4,06:14,68,82,LSB,2_Pts_T,Neto
+98,4,06:24,68,82,LSB,BR,Lupa
+99,4,06:24,68,82,BRA,ER,G Giovannoni
+100,4,06:33,68,82,BRA,substituicao_entra,Ronald
+101,4,06:33,68,82,BRA,substituicao_sai,Coimbra
+102,4,06:33,68,82,BRA,FR,Coimbra
+103,4,06:33,68,82,LSB,FC,Neto
+104,4,06:56,68,82,LSB,2_Pts_C,Fab Melo
+105,4,07:16,66,82,BRA,substituicao_entra,Pilar
+106,4,07:16,66,82,BRA,substituicao_sai,J Campos
+107,4,07:16,66,82,BRA,ER,
+108,4,07:42,66,82,LSB,2_Pts_C,Lupa
+109,4,07:47,64,82,LSB,RO,Lupa
+110,4,07:47,64,82,LSB,2_Pts_T,Lupa
+111,4,07:51,64,82,LSB,RO,Chupeta
+112,4,07:51,64,82,LSB,2_Pts_T,Fab Melo
+113,4,08:12,64,82,BRA,3_Pts_C,Fulvio
+114,4,08:12,64,79,BRA,AS,Deryk
+115,4,08:28,64,79,LSB,2_Pts_C,Fab Melo
+116,4,08:33,62,79,LSB,RO,Fab Melo
+117,4,08:33,62,79,LSB,2_Pts_T,Lupa
+118,4,08:37,62,79,LSB,RO,Lupa
+119,4,08:37,62,79,LSB,2_Pts_T,Fab Melo
+120,4,08:41,62,79,LSB,substituicao_entra,Chupeta
+121,4,08:41,62,79,LSB,substituicao_sai,Renato Scholz
+122,4,08:45,62,79,LSB,tempo_tecnico,Liga Sorocabana
+123,4,08:45,62,79,LSB,RO,Liga Sorocabana
+124,4,08:45,62,79,LSB,3_Pts_T,Renato Scholz
+125,4,09:03,62,79,BRA,2_Pts_C,Coimbra
+126,4,09:07,62,77,BRA,RO,Coimbra
+127,4,09:07,62,77,BRA,3_Pts_T,G Giovannoni
+128,4,09:20,62,77,BRA,RD,Coimbra
+129,4,09:20,62,77,BRA,TO,J Campos
+130,4,09:20,62,77,LSB,2_Pts_T,Renato Scholz
+131,4,09:44,62,77,BRA,,
+132,4,09:44,62,77,LSB,ER,Renato Scholz
+133,3,00:00,62,77, ,fim_quarto,
+134,3,00:00,62,77,BRA,3_Pts_T,Deryk
+135,3,00:07,62,77,BRA,RD,Ronald
+136,3,00:07,62,77,LSB,2_Pts_T,Lupa
+137,3,00:13,62,77,LSB,RO,Fab Melo
+138,3,00:13,62,77,LSB,3_Pts_T,Neto
+139,3,00:17,62,77,BRA,LL_Pts_C,Deryk
+140,3,00:17,62,76,BRA,LL_Pts_C,Deryk
+141,3,00:17,62,75,BRA,substituicao_entra,Pureza
+142,3,00:17,62,75,BRA,substituicao_sai,J Campos
+143,3,00:17,62,75,BRA,FR,Deryk
+144,3,00:17,62,75,LSB,FC,Leandro
+145,3,00:30,62,75,BRA,RD,J Campos
+146,3,00:30,62,75,LSB,3_Pts_T,Socas
+147,3,00:34,62,75,LSB,BR,Neto
+148,3,00:34,62,75,BRA,ER,Ronald
+149,3,00:38,62,75,BRA,BR,Deryk
+150,3,00:38,62,75,LSB,ER,Neto
+151,3,01:00,62,75,BRA,3_Pts_C,Deryk
+152,3,01:00,62,72,BRA,AS,Fulvio
+153,3,01:10,62,72,BRA,FR,Fulvio
+154,3,01:10,62,72,LSB,FC,Leandro
+155,3,01:11,62,72,LSB,LL_Pts_C,Lupa
+156,3,01:11,61,72,LSB,LL_Pts_C,Lupa
+157,3,01:11,60,72,LSB,FR,Lupa
+158,3,01:11,60,72,BRA,FC,Ronald
+159,3,01:17,60,72,LSB,RO,Fab Melo
+160,3,01:17,60,72,LSB,2_Pts_T,Socas
+161,3,01:36,60,72,BRA,3_Pts_C,Fulvio
+162,3,01:36,60,69,BRA,AS,Deryk
+163,3,01:58,60,69,LSB,2_Pts_C,Socas
+164,3,02:00,58,69,BRA,substituicao_entra,Deryk
+165,3,02:01,58,69,BRA,substituicao_sai,Arthur
+166,3,02:17,58,69,BRA,substituicao_entra,Coimbra
+167,3,02:17,58,69,BRA,substituicao_sai,G Giovannoni
+168,3,02:17,58,69,BRA,tempo_tecnico,Brasília
+169,3,02:17,58,69,LSB,,
+170,3,02:17,58,69,BRA,ER,Arthur
+171,3,02:21,58,69,LSB,2_Pts_C,Lupa
+172,3,02:27,56,69,LSB,BR,Lupa
+173,3,02:27,56,69,BRA,ER,Fulvio
+174,3,02:43,56,69,BRA,BR,G Giovannoni
+175,3,02:43,56,69,LSB,ER,Leandro
+176,3,02:52,56,69,LSB,RD,Socas
+177,3,02:52,56,69,BRA,3_Pts_T,J Campos
+178,3,03:00,56,69,LSB,substituicao_entra,Leandro
+179,3,03:00,56,69,LSB,substituicao_sai,Renato Scholz
+180,3,03:07,56,69,BRA,FR,J Campos
+181,3,03:07,56,69,LSB,FC,Renato Scholz
+182,3,03:19,56,69,BRA,RD,Ronald
+183,3,03:19,56,69,LSB,3_Pts_T,Neto
+184,3,03:31,56,69,BRA,substituicao_entra,J Campos
+185,3,03:31,56,69,BRA,substituicao_sai,Deryk
+186,3,03:31,56,69,LSB,FR,Fab Melo
+187,3,03:31,56,69,BRA,FC_O,G Giovannoni
+188,3,03:43,56,69,LSB,3_Pts_C,Neto
+189,3,04:05,53,69,BRA,EN,Ronald
+190,3,04:05,53,67,BRA,AS,Deryk
+191,3,04:21,53,67,LSB,LL_Pts_C,Neto
+192,3,04:21,52,67,LSB,LL_Pts_C,Neto
+193,3,04:21,51,67,BRA,substituicao_entra,Fulvio
+194,3,04:21,51,67,BRA,substituicao_sai,Pilar
+195,3,04:21,51,67,LSB,FR,Neto
+196,3,04:21,51,67,BRA,FC,Pilar
+197,3,04:37,51,67,LSB,RD,Socas
+198,3,04:37,51,67,BRA,3_Pts_T,Arthur
+199,3,04:46,51,67,BRA,RO,Arthur
+200,3,04:46,51,67,BRA,2_Pts_T,Deryk
+201,3,05:00,51,67,BRA,substituicao_entra,Arthur
+202,3,05:00,51,67,BRA,substituicao_sai,Cipolini
+203,3,05:13,51,67,BRA,RD,G Giovannoni
+204,3,05:13,51,67,LSB,2_Pts_T,Neto
+205,3,05:32,51,67,BRA,2_Pts_C,Ronald
+206,3,05:49,51,65,BRA,RD,Cipolini
+207,3,05:49,51,65,LSB,LL_Pts_T,Renato Scholz
+208,3,05:49,51,65,LSB,FR,Renato Scholz
+209,3,05:49,51,65,BRA,FC,Cipolini
+210,3,05:49,51,65,LSB,2_Pts_C,Renato Scholz
+211,3,05:49,49,65,LSB,AS,Fab Melo
+212,3,05:52,49,65,LSB,BR,Fab Melo
+213,3,05:52,49,65,BRA,ER,Cipolini
+214,3,05:58,49,65,BRA,RD,Cipolini
+215,3,05:58,49,65,LSB,2_Pts_T,Neto
+216,3,06:11,49,65,LSB,FR,Renato Scholz
+217,3,06:11,49,65,BRA,FC,G Giovannoni
+218,3,06:24,49,65,BRA,LL_Pts_C,Ronald
+219,3,06:24,49,64,BRA,LL_Pts_C,Ronald
+220,3,06:24,49,63,BRA,FR,Ronald
+221,3,06:24,49,63,LSB,FC,Fab Melo
+222,3,06:49,49,63,BRA,RD,G Giovannoni
+223,3,06:49,49,63,LSB,2_Pts_T,Lupa
+224,3,07:01,49,63,LSB,FR,Neto
+225,3,07:01,49,63,BRA,FC,Pilar
+226,3,07:07,49,63,LSB,FR,Socas
+227,3,07:07,49,63,BRA,FC,Deryk
+228,3,07:13,49,63,LSB,BR,Socas
+229,3,07:13,49,63,BRA,ER,Ronald
+230,3,07:25,49,63,LSB,2_Pts_C,Fab Melo
+231,3,07:41,47,63,LSB,RD,Socas
+232,3,07:41,47,63,BRA,3_Pts_T,Deryk
+233,3,07:52,47,63,BRA,BR,Pilar
+234,3,07:52,47,63,LSB,ER,Lupa
+235,3,08:06,47,63,LSB,RD,Fab Melo
+236,3,08:06,47,63,BRA,3_Pts_T,Cipolini
+237,3,08:15,47,63,BRA,FR,Ronald
+238,3,08:15,47,63,LSB,FC,Renato Scholz
+239,3,08:33,47,63,LSB,2_Pts_C,Renato Scholz
+240,3,08:51,45,63,BRA,3_Pts_C,G Giovannoni
+241,3,08:51,45,60,BRA,AS,Pilar
+242,3,09:01,45,60,LSB,2_Pts_C,Fab Melo
+243,3,09:08,43,60,LSB,RO,Fab Melo
+244,3,09:08,43,60,LSB,2_Pts_T,Fab Melo
+245,3,09:33,43,60,BRA,2_Pts_C,Ronald
+246,3,09:38,43,58,BRA,RO,Ronald
+247,3,09:38,43,58,BRA,2_Pts_T,G Giovannoni
+248,2,00:00,43,58, ,fim_quarto,
+249,2,00:01,43,58,LSB,3_Pts_T,Neto
+250,2,00:26,43,58,BRA,substituicao_entra,G Giovannoni
+251,2,00:26,43,58,BRA,substituicao_sai,Pilar
+252,2,00:26,43,58,LSB,RD,Fernando
+253,2,00:26,43,58,BRA,2_Pts_T,Cipolini
+254,2,00:26,43,58,BRA,substituicao_entra,Ronald
+255,2,00:26,43,58,BRA,substituicao_sai,Ronald
+256,2,00:26,43,58,BRA,tempo_tecnico,Brasília
+257,2,00:33,43,58,BRA,RO,Brasília
+258,2,00:33,43,58,BRA,3_Pts_T,Cipolini
+259,2,00:49,43,58,BRA,,
+260,2,00:49,43,58,LSB,ER,Lupa
+261,2,01:00,43,58,LSB,FR,Fernando
+262,2,01:00,43,58,BRA,FC_O,Ronald
+263,2,01:12,43,58,LSB,2_Pts_C,Renato Scholz
+264,2,01:24,41,58,LSB,FR,Neto
+265,2,01:24,41,58,BRA,FC,Fulvio
+266,2,01:34,41,58,BRA,LL_Pts_C,Arthur
+267,2,01:34,41,57,BRA,LL_Pts_C,Arthur
+268,2,01:34,41,56,BRA,substituicao_entra,Fulvio
+269,2,01:34,41,56,BRA,substituicao_sai,Deryk
+270,2,01:34,41,56,LSB,substituicao_entra,Lacerda
+271,2,01:34,41,56,LSB,substituicao_sai,Fab Melo
+272,2,01:34,41,56,BRA,FR,Arthur
+273,2,01:34,41,56,LSB,FC,Fernando
+274,2,01:56,41,56,LSB,2_Pts_C,Renato Scholz
+275,2,02:01,39,56,LSB,RO,Renato Scholz
+276,2,02:01,39,56,LSB,3_Pts_T,Fab Melo
+277,2,02:28,39,56,BRA,2_Pts_C,Ronald
+278,2,02:28,39,54,BRA,AS,Deryk
+279,2,02:38,39,54,LSB,2_Pts_C,Lupa
+280,2,02:38,37,54,LSB,AS,Fernando
+281,2,02:46,37,54,BRA,3_Pts_C,Deryk
+282,2,02:59,37,51,BRA,RD,Ronald
+283,2,02:59,37,51,LSB,2_Pts_T,Fernando
+284,2,03:16,37,51,BRA,substituicao_entra,Cipolini
+285,2,03:16,37,51,BRA,substituicao_sai,G Giovannoni
+286,2,03:20,37,51,LSB,RD,Liga Sorocabana
+287,2,03:20,37,51,BRA,3_Pts_T,Deryk
+288,2,03:42,37,51,LSB,2_Pts_C,Renato Scholz
+289,2,03:52,35,51,LSB,RD,Lupa
+290,2,03:52,35,51,BRA,3_Pts_T,G Giovannoni
+291,2,04:10,35,51,LSB,2_Pts_C,Neto
+292,2,04:30,33,51,BRA,LL_Pts_C,Ronald
+293,2,04:30,33,50,BRA,LL_Pts_C,Ronald
+294,2,04:30,33,49,BRA,substituicao_entra,Arthur
+295,2,04:30,33,49,BRA,substituicao_sai,Coimbra
+296,2,04:30,33,49,BRA,FR,Ronald
+297,2,04:30,33,49,LSB,FC,Renato Scholz
+298,2,04:34,33,49,BRA,RO,Ronald
+299,2,04:34,33,49,BRA,2_Pts_T,G Giovannoni
+300,2,04:45,33,49,BRA,substituicao_entra,Pilar
+301,2,04:45,33,49,BRA,substituicao_sai,Fulvio
+302,2,04:45,33,49,BRA,FR,Coimbra
+303,2,04:45,33,49,LSB,FC,Fernando
+304,2,04:57,33,49,BRA,RD,Coimbra
+305,2,04:57,33,49,LSB,3_Pts_T,Renato Scholz
+306,2,05:24,33,49,LSB,RD,Liga Sorocabana
+307,2,05:24,33,49,BRA,3_Pts_T,Deryk
+308,2,05:39,33,49,LSB,2_Pts_C,Lupa
+309,2,05:44,31,49,LSB,substituicao_entra,Fernando
+310,2,05:44,31,49,LSB,substituicao_sai,Socas
+311,2,06:03,31,49,LSB,substituicao_entra,Neto
+312,2,06:03,31,49,LSB,substituicao_sai,Victor
+313,2,06:03,31,49,BRA,LL_Pts_C,Coimbra
+314,2,06:03,31,48,BRA,AS,Deryk
+315,2,06:03,31,48,BRA,2_Pts_C,Coimbra
+316,2,06:03,31,46,BRA,FR,Coimbra
+317,2,06:03,31,46,LSB,FC,Lupa
+318,2,06:17,31,46,BRA,RD,G Giovannoni
+319,2,06:17,31,46,LSB,3_Pts_T,Victor
+320,2,06:40,31,46,BRA,3_Pts_C,Deryk
+321,2,06:54,31,43,LSB,3_Pts_C,Renato Scholz
+322,2,07:16,28,43,BRA,LL_Pts_C,G Giovannoni
+323,2,07:16,28,42,LSB,substituicao_entra,Fab Melo
+324,2,07:16,28,42,LSB,substituicao_sai,Neto
+325,2,07:16,28,42,BRA,substituicao_entra,Ronald
+326,2,07:16,28,42,BRA,substituicao_sai,Pilar
+327,2,07:16,28,42,LSB,substituicao_entra,Victor
+328,2,07:16,28,42,LSB,substituicao_sai,Chupeta
+329,2,07:16,28,42,BRA,2_Pts_C,G Giovannoni
+330,2,07:16,28,40,BRA,FR,G Giovannoni
+331,2,07:16,28,40,LSB,FC,Neto
+332,2,07:21,28,40,BRA,RD,Pilar
+333,2,07:21,28,40,LSB,2_Pts_T,Chupeta
+334,2,07:33,28,40,LSB,RD,Lupa
+335,2,07:33,28,40,BRA,3_Pts_T,Deryk
+336,2,07:44,28,40,BRA,RD,G Giovannoni
+337,2,07:44,28,40,LSB,2_Pts_T,Chupeta
+338,2,08:06,28,40,BRA,LL_Pts_C,Deryk
+339,2,08:06,28,39,BRA,LL_Pts_C,Deryk
+340,2,08:06,28,38,BRA,FR,Deryk
+341,2,08:06,28,38,LSB,FC,Socas
+342,2,08:28,28,38,LSB,substituicao_entra,Lupa
+343,2,08:28,28,38,LSB,substituicao_sai,Fab Melo
+344,2,08:28,28,38,BRA,RD,Coimbra
+345,2,08:28,28,38,LSB,2_Pts_T,Renato Scholz
+346,2,08:28,28,38,LSB,substituicao_entra,Neto
+347,2,08:28,28,38,LSB,substituicao_sai,Victor
+348,2,08:30,28,38,LSB,substituicao_entra,Chupeta
+349,2,08:30,28,38,LSB,substituicao_sai,Neto
+350,2,08:31,28,38,LSB,tempo_tecnico,Liga Sorocabana
+351,2,08:31,28,38,BRA,2_Pts_C,G Giovannoni
+352,2,08:31,28,36,BRA,AS,Fulvio
+353,2,08:39,28,36,BRA,RD,Pilar
+354,2,08:39,28,36,LSB,2_Pts_T,Neto
+355,2,08:58,28,36,BRA,3_Pts_C,Deryk
+356,2,09:16,28,33,LSB,LL_Pts_C,Neto
+357,2,09:16,27,33,LSB,LL_Pts_C,Neto
+358,2,09:16,26,33,LSB,LL_Pts_C,Neto
+359,2,09:16,25,33,BRA,substituicao_entra,G Giovannoni
+360,2,09:16,25,33,BRA,substituicao_sai,J Campos
+361,2,09:16,25,33,LSB,FR,Neto
+362,2,09:16,25,33,BRA,FC,J Campos
+363,2,09:35,25,33,LSB,,
+364,2,09:35,25,33,BRA,ER,Pilar
+365,2,09:44,25,33,LSB,LL_Pts_C,Neto
+366,2,09:44,24,33,LSB,LL_Pts_C,Neto
+367,2,09:44,23,33,LSB,FR,Neto
+368,2,09:44,23,33,BRA,FC,Coimbra
+369,1,00:00,23,33, ,fim_quarto,
+370,1,00:01,23,33,BRA,3_Pts_T,Deryk
+371,1,00:06,23,33,LSB,LL_Pts_C,Neto
+372,1,00:06,22,33,LSB,LL_Pts_C,Neto
+373,1,00:06,21,33,BRA,substituicao_entra,Deryk
+374,1,00:06,21,33,BRA,substituicao_sai,J Campos
+375,1,00:06,21,33,LSB,FR,Neto
+376,1,00:06,21,33,BRA,FC,J Campos
+377,1,00:19,21,33,BRA,3_Pts_C,Fulvio
+378,1,00:32,21,30,LSB,2_Pts_C,Fab Melo
+379,1,00:32,19,30,LSB,AS,Neto
+380,1,00:54,19,30,BRA,3_Pts_C,G Giovannoni
+381,1,00:54,19,27,BRA,AS,Fulvio
+382,1,01:02,19,27,BRA,RD,Coimbra
+383,1,01:02,19,27,LSB,3_Pts_T,Verson
+384,1,01:05,19,27,LSB,RO,Verson
+385,1,01:05,19,27,LSB,2_Pts_T,Neto
+386,1,01:19,19,27,LSB,RD,Neto
+387,1,01:19,19,27,LSB,TO,Fab Melo
+388,1,01:19,19,27,BRA,2_Pts_T,J Campos
+389,1,01:26,19,27,LSB,substituicao_entra,Verson
+390,1,01:26,19,27,LSB,substituicao_sai,Lacerda
+391,1,01:26,19,27,LSB,AS,Fab Melo
+392,1,01:26,19,27,LSB,LL_Pts_C,Neto
+393,1,01:26,18,27,LSB,LL_Pts_C,Neto
+394,1,01:26,17,27,LSB,FR,Neto
+395,1,01:26,17,27,BRA,FC,J Campos
+396,1,01:33,17,27,LSB,RD,Fab Melo
+397,1,01:33,17,27,BRA,3_Pts_T,G Giovannoni
+398,1,01:48,17,27,BRA,substituicao_entra,Coimbra
+399,1,01:48,17,27,BRA,substituicao_sai,Ronald
+400,1,01:48,17,27,LSB,substituicao_entra,Lacerda
+401,1,01:48,17,27,LSB,substituicao_sai,Lupa
+402,1,01:48,17,27,BRA,,
+403,1,01:48,17,27,LSB,ER,Lupa
+404,1,01:48,17,27,BRA,EN,J Campos
+405,1,02:04,17,25,BRA,AS,G Giovannoni
+406,1,02:09,17,25,BRA,BR,G Giovannoni
+407,1,02:09,17,25,LSB,ER,Lupa
+408,1,02:20,17,25,BRA,substituicao_entra,Fulvio
+409,1,02:20,17,25,BRA,substituicao_sai,Deryk
+410,1,02:20,17,25,LSB,FR,Lupa
+411,1,02:20,17,25,BRA,FC,G Giovannoni
+412,1,02:27,17,25,LSB,BR,Lupa
+413,1,02:27,17,25,BRA,ER,G Giovannoni
+414,1,02:43,17,25,LSB,2_Pts_C,Fab Melo
+415,1,02:43,15,25,LSB,AS,Neto
+416,1,03:08,15,25,BRA,3_Pts_C,G Giovannoni
+417,1,03:08,15,22,BRA,AS,Pilar
+418,1,03:12,15,22,LSB,2_Pts_C,Neto
+419,1,03:12,13,22,LSB,AS,Socas
+420,1,03:20,13,22,LSB,RD,Socas
+421,1,03:20,13,22,BRA,3_Pts_T,J Campos
+422,1,03:29,13,22,BRA,RD,G Giovannoni
+423,1,03:29,13,22,LSB,2_Pts_T,Renato Scholz
+424,1,03:34,13,22,LSB,substituicao_entra,Renato Scholz
+425,1,03:34,13,22,LSB,substituicao_sai,Chupeta
+426,1,03:34,13,22,LSB,substituicao_entra,Fab Melo
+427,1,03:34,13,22,LSB,substituicao_sai,Verson
+428,1,03:50,13,22,BRA,2_Pts_C,Deryk
+429,1,03:58,13,20,BRA,RD,G Giovannoni
+430,1,03:58,13,20,LSB,3_Pts_T,Verson
+431,1,04:05,13,20,BRA,2_Pts_C,Ronald
+432,1,04:05,13,18,BRA,AS,Deryk
+433,1,04:07,13,18,BRA,substituicao_entra,Ronald
+434,1,04:09,13,18,BRA,substituicao_sai,Cipolini
+435,1,04:37,13,18,BRA,RD,Deryk
+436,1,04:37,13,18,LSB,2_Pts_T,Neto
+437,1,04:39,13,18,BRA,substituicao_entra,Deryk
+438,1,04:41,13,18,BRA,substituicao_sai,Ronald
+439,1,05:01,13,18,BRA,substituicao_entra,J Campos
+440,1,05:01,13,18,BRA,substituicao_sai,Deryk
+441,1,05:01,13,18,LSB,substituicao_entra,Verson
+442,1,05:01,13,18,LSB,substituicao_sai,Fab Melo
+443,1,05:01,13,18,LSB,substituicao_entra,Chupeta
+444,1,05:01,13,18,LSB,substituicao_sai,Renato Scholz
+445,1,05:01,13,18,LSB,tempo_tecnico,Liga Sorocabana
+446,1,05:01,13,18,BRA,LL_Pts_C,Cipolini
+447,1,05:01,13,17,BRA,LL_Pts_C,Cipolini
+448,1,05:01,13,16,BRA,FR,Cipolini
+449,1,05:01,13,16,LSB,FC,Neto
+450,1,05:09,13,16,BRA,RD,G Giovannoni
+451,1,05:09,13,16,LSB,3_Pts_T,Neto
+452,1,05:25,13,16,BRA,LL_Pts_C,Ronald
+453,1,05:25,13,15,LSB,substituicao_entra,Lupa
+454,1,05:25,13,15,LSB,substituicao_sai,Chupeta
+455,1,05:25,13,15,BRA,FR,Ronald
+456,1,05:25,13,15,LSB,FC,Fab Melo
+457,1,05:32,13,15,BRA,2_Pts_C,Ronald
+458,1,05:32,13,13,BRA,AS,G Giovannoni
+459,1,05:45,13,13,BRA,RD,Pilar
+460,1,05:45,13,13,LSB,2_Pts_T,Fab Melo
+461,1,06:06,13,13,BRA,3_Pts_C,G Giovannoni
+462,1,06:06,13,10,BRA,AS,Ronald
+463,1,06:23,13,10,LSB,2_Pts_C,Socas
+464,1,06:23,11,10,LSB,AS,Neto
+465,1,06:36,11,10,BRA,3_Pts_C,G Giovannoni
+466,1,06:36,11,7,BRA,AS,Pilar
+467,1,06:48,11,7,BRA,RO,Pilar
+468,1,06:48,11,7,BRA,3_Pts_T,Cipolini
+469,1,06:56,11,7,LSB,LL_Pts_C,Fab Melo
+470,1,06:56,10,7,LSB,FR,Fab Melo
+471,1,06:56,10,7,BRA,FC,Cipolini
+472,1,06:56,10,7,LSB,2_Pts_C,Fab Melo
+473,1,06:56,8,7,LSB,AS,Socas
+474,1,07:03,8,7,BRA,2_Pts_C,Deryk
+475,1,07:07,8,5,BRA,BR,Deryk
+476,1,07:07,8,5,LSB,ER,Socas
+477,1,07:20,8,5,LSB,BR,Socas
+478,1,07:20,8,5,BRA,ER,Deryk
+479,1,07:26,8,5,BRA,RD,Cipolini
+480,1,07:26,8,5,LSB,3_Pts_T,Chupeta
+481,1,07:44,8,5,BRA,EN,Ronald
+482,1,07:44,8,3,BRA,AS,Cipolini
+483,1,07:50,8,3,BRA,RD,Pilar
+484,1,07:50,8,3,LSB,LL_Pts_T,Renato Scholz
+485,1,07:50,8,3,LSB,LL_Pts_C,Renato Scholz
+486,1,07:50,7,3,LSB,FR,Renato Scholz
+487,1,07:50,7,3,BRA,FC,Cipolini
+488,1,07:58,7,3,LSB,RD,Socas
+489,1,07:58,7,3,BRA,2_Pts_T,Ronald
+490,1,08:07,7,3,LSB,EN,Fab Melo
+491,1,08:14,5,3,LSB,RO,Fab Melo
+492,1,08:14,5,3,LSB,2_Pts_T,Neto
+493,1,08:37,5,3,BRA,3_Pts_C,Cipolini
+494,1,08:37,5,0,BRA,AS,Deryk
+495,1,08:57,5,0,LSB,3_Pts_C,Renato Scholz
+496,1,08:57,2,0,LSB,AS,Chupeta
+497,1,09:07,2,0,LSB,RD,Socas
+498,1,09:07,2,0,BRA,2_Pts_T,Ronald
+499,1,09:15,2,0,BRA,,
+500,1,09:15,2,0,LSB,ER,Neto
+501,1,09:23,2,0,LSB,RD,Neto
+502,1,09:23,2,0,BRA,2_Pts_T,G Giovannoni
+503,1,09:32,2,0,LSB,LL_Pts_C,Neto
+504,1,09:32,1,0,LSB,LL_Pts_C,Neto
+505,1,09:32,0,0,LSB,FR,Neto
+506,1,09:32,0,0,BRA,FC,Pilar
+507,1,09:40,0,0,LSB,RD,Neto
+508,1,09:40,0,0,BRA,2_Pts_T,Deryk
+509,1,09:44,0,0,BRA,FR,Ronald
+510,1,09:44,0,0,LSB,FC,Renato Scholz
+511,1,10:00,0,0,BRA,substituicao_entra,Cipolini
+512,1,10:00,0,0,BRA,substituicao_entra,G Giovannoni
+513,1,10:00,0,0,BRA,substituicao_entra,Deryk
+514,1,10:00,0,0,BRA,substituicao_entra,Ronald
+515,1,10:00,0,0,BRA,substituicao_entra,Pilar
+516,1,10:00,0,0,LSB,substituicao_entra,Socas
+517,1,10:00,0,0,LSB,substituicao_entra,Fab Melo
+518,1,10:00,0,0,LSB,substituicao_entra,Renato Scholz
+519,1,10:00,0,0,LSB,substituicao_entra,Neto
+520,1,10:00,0,0,LSB,substituicao_entra,Chupeta

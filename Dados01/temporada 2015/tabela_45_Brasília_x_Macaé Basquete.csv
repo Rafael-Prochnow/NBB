@@ -1,0 +1,668 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,107,104, ,fim_partida,
+1,5,00:07,107,104,MAC,substituicao_entra,Murilo
+2,5,00:07,107,104,MAC,substituicao_sai,Mosso
+3,5,00:07,107,104,MAC,substituicao_sai,Pedrinho Rava
+4,5,00:07,107,104,MAC,substituicao_entra,Maique
+5,5,00:07,107,104,MAC,substituicao_entra,Pedrinho Rava
+6,5,00:07,107,104,MAC,substituicao_sai,Maique
+7,5,00:07,107,104,BRA,RD,Brasília
+8,5,00:07,107,104,MAC,LL_Pts_T,André Góes
+9,5,00:07,107,104,MAC,LL_Pts_C,André Góes
+10,5,00:07,107,103,BRA,substituicao_entra,Pilar
+11,5,00:07,107,103,BRA,substituicao_sai,Arthur
+12,5,00:07,107,103,MAC,substituicao_entra,Maique
+13,5,00:07,107,103,MAC,substituicao_sai,Pedrinho Rava
+14,5,00:07,107,103,MAC,FR,André Góes
+15,5,00:07,107,103,BRA,FC,Arthur
+16,5,00:08,107,103,BRA,LL_Pts_C,G Giovannoni
+17,5,00:08,106,103,BRA,LL_Pts_C,G Giovannoni
+18,5,00:08,105,103,BRA,FR,G Giovannoni
+19,5,00:08,105,103,MAC,FC,Caleb Brown
+20,5,00:12,105,103,BRA,RO,Ronald
+21,5,00:12,105,103,BRA,LL_Pts_T,G Giovannoni
+22,5,00:12,105,103,BRA,LL_Pts_C,G Giovannoni
+23,5,00:12,104,103,BRA,FR,G Giovannoni
+24,5,00:12,104,103,MAC,FC,Eddy
+25,5,00:14,104,103,MAC,LL_Pts_C,Caleb Brown
+26,5,00:14,104,102,MAC,LL_Pts_C,Caleb Brown
+27,5,00:14,104,101,MAC,FR,Caleb Brown
+28,5,00:14,104,101,BRA,FC,J Campos
+29,5,00:17,104,101,BRA,LL_Pts_C,Deryk
+30,5,00:17,103,101,BRA,LL_Pts_C,Deryk
+31,5,00:17,102,101,BRA,FR,Deryk
+32,5,00:17,102,101,MAC,FC,Caleb Brown
+33,5,00:19,102,101,MAC,LL_Pts_C,André Góes
+34,5,00:19,102,100,MAC,LL_Pts_C,André Góes
+35,5,00:19,102,99,MAC,FR,André Góes
+36,5,00:19,102,99,BRA,FC,Deryk
+37,5,00:23,102,99,MAC,RD,Mosso
+38,5,00:23,102,99,BRA,LL_Pts_T,Deryk
+39,5,00:23,102,99,BRA,LL_Pts_C,Deryk
+40,5,00:23,101,99,BRA,FR,Deryk
+41,5,00:23,101,99,MAC,FC,Eddy
+42,5,00:28,101,99,BRA,substituicao_entra,G Giovannoni
+43,5,00:28,101,99,BRA,substituicao_sai,Pilar
+44,5,00:29,101,99,BRA,tempo_tecnico,Brasília
+45,5,00:29,101,99,MAC,2_Pts_C,Mosso
+46,5,00:33,101,97,BRA,substituicao_entra,Pilar
+47,5,00:33,101,97,BRA,substituicao_sai,G Giovannoni
+48,5,00:33,101,97,BRA,3_Pts_C,Arthur
+49,5,00:33,98,97,BRA,AS,G Giovannoni
+50,5,00:43,98,97,BRA,RD,J Campos
+51,5,00:43,98,97,MAC,3_Pts_T,Caleb Brown
+52,5,01:01,98,97,BRA,3_Pts_C,J Campos
+53,5,01:01,95,97,BRA,AS,Arthur
+54,5,01:12,95,97,MAC,LL_Pts_C,Caleb Brown
+55,5,01:12,95,96,MAC,LL_Pts_C,Caleb Brown
+56,5,01:12,95,95,MAC,FR,Caleb Brown
+57,5,01:12,95,95,BRA,FC,J Campos
+58,5,01:25,95,95,MAC,RD,Macaé Basquete
+59,5,01:25,95,95,BRA,3_Pts_T,Deryk
+60,5,01:48,95,95,BRA,RD,Arthur
+61,5,01:48,95,95,MAC,LL_Pts_T,Eddy
+62,5,01:48,95,95,MAC,LL_Pts_C,Eddy
+63,5,01:48,95,94,BRA,substituicao_entra,Arthur
+64,5,01:48,95,94,BRA,substituicao_sai,Pilar
+65,5,01:48,95,94,MAC,FR,Eddy
+66,5,01:48,95,94,BRA,FC,Pilar
+67,5,02:05,95,94,BRA,2_Pts_C,J Campos
+68,5,02:05,93,94,BRA,AS,G Giovannoni
+69,5,02:10,93,94,BRA,RD,Pilar
+70,5,02:10,93,94,MAC,2_Pts_T,André Góes
+71,5,02:39,93,94,BRA,EN,Ronald
+72,5,02:39,91,94,BRA,AS,Pilar
+73,5,02:49,91,94,BRA,RD,Pilar
+74,5,02:49,91,94,MAC,2_Pts_T,Caleb Brown
+75,5,03:15,91,94,MAC,RD,Mosso
+76,5,03:15,91,94,BRA,3_Pts_T,Pilar
+77,5,03:29,91,94,MAC,2_Pts_C,Caleb Brown
+78,5,03:42,91,92,MAC,RD,Eddy
+79,5,03:42,91,92,BRA,2_Pts_T,G Giovannoni
+80,5,03:46,91,92,BRA,RO,G Giovannoni
+81,5,03:46,91,92,BRA,2_Pts_T,G Giovannoni
+82,5,04:07,91,92,MAC,2_Pts_C,Eddy
+83,5,04:23,91,90,MAC,RD,Mosso
+84,5,04:23,91,90,BRA,LL_Pts_T,G Giovannoni
+85,5,04:23,91,90,BRA,LL_Pts_C,G Giovannoni
+86,5,04:23,90,90,MAC,substituicao_entra,Pedrinho Rava
+87,5,04:23,90,90,MAC,substituicao_sai,Matheus Fontes
+88,5,04:23,90,90,BRA,FR,G Giovannoni
+89,5,04:23,90,90,MAC,FC,Matheus Fontes
+90,5,04:32,90,90,BRA,RD,G Giovannoni
+91,5,04:32,90,90,MAC,3_Pts_T,Eddy
+92,5,04:48,90,90,MAC,RD,Mosso
+93,5,04:48,90,90,BRA,2_Pts_T,Pilar
+94,5,04:58,90,90,MAC,substituicao_entra,Mosso
+95,5,05:00,90,90,MAC,substituicao_entra,Eddy
+96,5,05:00,90,90,MAC,substituicao_entra,André Góes
+97,5,05:00,90,90,MAC,substituicao_entra,Caleb Brown
+98,5,05:00,90,90,MAC,substituicao_entra,Matheus Fontes
+99,5,05:00,90,90,BRA,substituicao_entra,G Giovannoni
+100,5,05:00,90,90,BRA,substituicao_entra,Deryk
+101,5,05:00,90,90,BRA,substituicao_entra,Ronald
+102,5,05:00,90,90,BRA,substituicao_entra,Pilar
+103,5,05:00,90,90,BRA,substituicao_entra,J Campos
+104,5,05:00,90,90,MAC,substituicao_sai,Eddy
+105,5,05:00,90,90,MAC,substituicao_sai,André Góes
+106,5,05:00,90,90,MAC,substituicao_sai,Caleb Brown
+107,5,05:00,90,90,MAC,substituicao_sai,Mosso
+108,5,05:00,90,90,MAC,substituicao_sai,Matheus Fontes
+109,5,05:00,90,90,BRA,substituicao_sai,G Giovannoni
+110,5,05:00,90,90,BRA,substituicao_sai,Deryk
+111,5,05:00,90,90,BRA,substituicao_sai,Ronald
+112,5,05:00,90,90,BRA,substituicao_sai,Pilar
+113,5,05:00,90,90,BRA,substituicao_sai,Arthur
+114,4,00:00,90,90, ,fim_quarto,
+115,4,00:00,90,90,BRA,RD,G Giovannoni
+116,4,00:00,90,90,MAC,2_Pts_T,Caleb Brown
+117,4,00:12,90,90,MAC,RD,André Góes
+118,4,00:12,90,90,BRA,3_Pts_T,G Giovannoni
+119,4,00:29,90,90,BRA,substituicao_sai,J Campos
+120,4,00:29,90,90,BRA,substituicao_entra,Pilar
+121,4,00:30,90,90,BRA,tempo_tecnico,Brasília
+122,4,00:30,90,90,MAC,3_Pts_C,Caleb Brown
+123,4,00:44,90,87,MAC,RD,Mosso
+124,4,00:44,90,87,BRA,2_Pts_T,G Giovannoni
+125,4,01:06,90,87,MAC,LL_Pts_C,Caleb Brown
+126,4,01:06,90,86,MAC,LL_Pts_C,Caleb Brown
+127,4,01:06,90,85,BRA,substituicao_entra,J Campos
+128,4,01:06,90,85,BRA,substituicao_sai,Pilar
+129,4,01:06,90,85,BRA,substituicao_sai,Fulvio
+130,4,01:06,90,85,BRA,substituicao_entra,Deryk
+131,4,01:06,90,85,MAC,FR,Caleb Brown
+132,4,01:06,90,85,BRA,FC,Fulvio
+133,4,01:10,90,85,BRA,2_Pts_C,G Giovannoni
+134,4,01:10,88,85,BRA,AS,Arthur
+135,4,01:13,88,85,BRA,substituicao_entra,Pilar
+136,4,01:13,88,85,BRA,substituicao_sai,Deryk
+137,4,01:16,88,85,BRA,RD,Arthur
+138,4,01:16,88,85,BRA,TO,Ronald
+139,4,01:16,88,85,MAC,2_Pts_T,Mosso
+140,4,01:29,88,85,BRA,2_Pts_C,Ronald
+141,4,01:42,86,85,MAC,3_Pts_C,Mosso
+142,4,01:54,86,82,BRA,2_Pts_C,Ronald
+143,4,01:57,84,82,BRA,RO,Ronald
+144,4,01:57,84,82,BRA,2_Pts_T,Ronald
+145,4,02:02,84,82,BRA,RO,Ronald
+146,4,02:02,84,82,BRA,2_Pts_T,G Giovannoni
+147,4,02:07,84,82,BRA,RO,G Giovannoni
+148,4,02:07,84,82,BRA,3_Pts_T,Deryk
+149,4,02:26,84,82,MAC,LL_Pts_C,Mosso
+150,4,02:26,84,81,MAC,LL_Pts_C,Mosso
+151,4,02:26,84,80,MAC,LL_Pts_C,Mosso
+152,4,02:26,84,79,BRA,substituicao_entra,G Giovannoni
+153,4,02:26,84,79,BRA,substituicao_sai,Cipolini
+154,4,02:26,84,79,MAC,FR,Mosso
+155,4,02:26,84,79,BRA,FC,Ronald
+156,4,02:46,84,79,MAC,,
+157,4,02:46,84,79,BRA,ER,Deryk
+158,4,02:50,84,79,MAC,2_Pts_C,Caleb Brown
+159,4,03:03,84,77,MAC,RD,Mosso
+160,4,03:03,84,77,BRA,3_Pts_T,Cipolini
+161,4,03:14,84,77,MAC,LL_Pts_C,Caleb Brown
+162,4,03:14,84,76,MAC,LL_Pts_C,Caleb Brown
+163,4,03:14,84,75,MAC,FR,Caleb Brown
+164,4,03:14,84,75,BRA,FC,Deryk
+165,4,03:24,84,75,BRA,2_Pts_C,Arthur
+166,4,03:24,82,75,BRA,AS,Fulvio
+167,4,03:40,82,75,MAC,LL_Pts_C,Matheus Fontes
+168,4,03:40,82,74,MAC,LL_Pts_C,Matheus Fontes
+169,4,03:40,82,73,BRA,substituicao_entra,Cipolini
+170,4,03:40,82,73,BRA,substituicao_entra,Arthur
+171,4,03:40,82,73,BRA,substituicao_sai,G Giovannoni
+172,4,03:40,82,73,BRA,substituicao_sai,Pilar
+173,4,03:40,82,73,MAC,FR,Matheus Fontes
+174,4,03:40,82,73,BRA,FC,Fulvio
+175,4,03:40,82,73,MAC,RD,Matheus Fontes
+176,4,03:40,82,73,BRA,2_Pts_T,Pilar
+177,4,03:52,82,73,BRA,substituicao_entra,Deryk
+178,4,03:52,82,73,BRA,substituicao_sai,J Campos
+179,4,03:52,82,73,MAC,LL_Pts_C,Matheus Fontes
+180,4,03:52,82,72,MAC,LL_Pts_C,Matheus Fontes
+181,4,03:52,82,71,MAC,FR,Matheus Fontes
+182,4,03:52,82,71,BRA,FC,G Giovannoni
+183,4,04:10,82,71,BRA,LL_Pts_C,Ronald
+184,4,04:10,81,71,BRA,2_Pts_C,Ronald
+185,4,04:10,79,71,BRA,FR,Ronald
+186,4,04:10,79,71,MAC,FC,André Góes
+187,4,04:11,79,71,BRA,RO,Ronald
+188,4,04:11,79,71,BRA,2_Pts_T,Pilar
+189,4,04:29,79,71,MAC,3_Pts_C,Mosso
+190,4,04:39,79,68,BRA,LL_Pts_C,G Giovannoni
+191,4,04:39,78,68,BRA,LL_Pts_C,G Giovannoni
+192,4,04:39,77,68,BRA,substituicao_entra,J Campos
+193,4,04:39,77,68,BRA,substituicao_sai,Arthur
+194,4,04:39,77,68,BRA,FR,G Giovannoni
+195,4,04:39,77,68,MAC,FC,Matheus Fontes
+196,4,04:52,77,68,MAC,3_Pts_C,Mosso
+197,4,04:52,77,65,MAC,AS,Eddy
+198,4,05:03,77,65,MAC,RO,Caleb Brown
+199,4,05:03,77,65,MAC,3_Pts_T,Caleb Brown
+200,4,05:15,77,65,MAC,RD,Macaé Basquete
+201,4,05:15,77,65,BRA,3_Pts_T,Arthur
+202,4,05:25,77,65,BRA,RD,Arthur
+203,4,05:25,77,65,MAC,2_Pts_T,Caleb Brown
+204,4,05:29,77,65,MAC,RD,Caleb Brown
+205,4,05:29,77,65,BRA,LL_Pts_T,Ronald
+206,4,05:29,77,65,BRA,AS,Fulvio
+207,4,05:29,77,65,BRA,LL_Pts_C,Ronald
+208,4,05:29,76,65,BRA,FR,Ronald
+209,4,05:29,76,65,MAC,FC,Eddy
+210,4,05:48,76,65,MAC,LL_Pts_C,Matheus Fontes
+211,4,05:48,76,64,MAC,LL_Pts_C,Matheus Fontes
+212,4,05:48,76,63,MAC,FR,Matheus Fontes
+213,4,05:48,76,63,BRA,FC,G Giovannoni
+214,4,05:59,76,63,MAC,RO,Matheus Fontes
+215,4,05:59,76,63,MAC,3_Pts_T,Eddy
+216,4,06:15,76,63,MAC,RD,Eddy
+217,4,06:15,76,63,BRA,2_Pts_T,Arthur
+218,4,06:21,76,63,MAC,substituicao_entra,André Góes
+219,4,06:21,76,63,MAC,substituicao_sai,Maique
+220,4,06:21,76,63,BRA,LL_Pts_C,Fulvio
+221,4,06:21,75,63,BRA,LL_Pts_C,Fulvio
+222,4,06:21,74,63,BRA,FR,Fulvio
+223,4,06:21,74,63,MAC,FC_A,Matheus Fontes
+224,4,06:25,74,63,BRA,RD,Ronald
+225,4,06:25,74,63,MAC,3_Pts_T,Matheus Fontes
+226,4,06:42,74,63,BRA,LL_Pts_C,Arthur
+227,4,06:42,73,63,BRA,AS,G Giovannoni
+228,4,06:42,73,63,BRA,LL_Pts_C,Arthur
+229,4,06:42,72,63,BRA,substituicao_entra,Pilar
+230,4,06:42,72,63,BRA,substituicao_sai,Deryk
+231,4,06:42,72,63,BRA,FR,Arthur
+232,4,06:42,72,63,MAC,FC,Maique
+233,4,06:56,72,63,MAC,2_Pts_C,Eddy
+234,4,06:56,72,61,MAC,AS,Caleb Brown
+235,4,07:06,72,61,MAC,RD,Mosso
+236,4,07:06,72,61,BRA,2_Pts_T,G Giovannoni
+237,4,07:14,72,61,MAC,2_Pts_C,Caleb Brown
+238,4,07:14,72,59,MAC,AS,Mosso
+239,4,07:32,72,59,BRA,EN,Ronald
+240,4,07:32,70,59,BRA,AS,Fulvio
+241,4,07:47,70,59,BRA,substituicao_entra,Arthur
+242,4,07:47,70,59,BRA,substituicao_sai,Pilar
+243,4,07:47,70,59,MAC,LL_Pts_C,Caleb Brown
+244,4,07:47,70,58,MAC,LL_Pts_C,Caleb Brown
+245,4,07:47,70,57,MAC,FR,Caleb Brown
+246,4,07:47,70,57,BRA,FC,Ronald
+247,4,07:51,70,57,MAC,FR,Maique
+248,4,07:51,70,57,BRA,FC,G Giovannoni
+249,4,07:51,70,57,MAC,substituicao_entra,Eddy
+250,4,07:51,70,57,MAC,substituicao_sai,Murilo
+251,4,07:54,70,57,MAC,RO,Maique
+252,4,07:54,70,57,MAC,2_Pts_T,Matheus Fontes
+253,4,08:01,70,57,MAC,BR,Mosso
+254,4,08:01,70,57,BRA,ER,Pilar
+255,4,08:15,70,57,BRA,RO,Pilar
+256,4,08:15,70,57,BRA,3_Pts_T,Deryk
+257,4,08:24,70,57,BRA,RD,G Giovannoni
+258,4,08:24,70,57,MAC,2_Pts_T,Murilo
+259,4,08:44,70,57,MAC,RO,Macaé Basquete
+260,4,08:44,70,57,MAC,2_Pts_T,Caleb Brown
+261,4,08:50,70,57,MAC,FR,Murilo
+262,4,08:50,70,57,BRA,FC,Deryk
+263,4,09:04,70,57,BRA,3_Pts_C,G Giovannoni
+264,4,09:04,67,57,BRA,AS,Fulvio
+265,4,09:15,67,57,BRA,RD,Pilar
+266,4,09:15,67,57,MAC,2_Pts_T,Murilo
+267,4,09:36,67,57,BRA,LL_Pts_C,Fulvio
+268,4,09:36,66,57,BRA,LL_Pts_C,Fulvio
+269,4,09:36,65,57,BRA,FR,Fulvio
+270,4,09:36,65,57,MAC,FC,Murilo
+271,4,09:49,65,57,MAC,2_Pts_C,Matheus Fontes
+272,4,09:49,65,55,MAC,AS,Murilo
+273,3,00:00,65,55, ,fim_quarto,
+274,3,00:13,65,55,BRA,substituicao_entra,J Campos
+275,3,00:13,65,55,BRA,substituicao_sai,Fulvio
+276,3,00:13,65,55,MAC,FR,Caleb Brown
+277,3,00:13,65,55,BRA,FC,Cipolini
+278,3,00:28,65,55,BRA,ER,Coimbra
+279,3,00:39,65,55,MAC,2_Pts_C,Maique
+280,3,00:53,65,53,BRA,2_Pts_C,Deryk
+281,3,01:02,63,53,BRA,RD,Pilar
+282,3,01:02,63,53,MAC,2_Pts_T,Mosso
+283,3,01:04,63,53,MAC,FR,Mosso
+284,3,01:04,63,53,BRA,FC,Coimbra
+285,3,01:16,63,53,BRA,ER,
+286,3,01:41,63,53,BRA,substituicao_entra,Coimbra
+287,3,01:41,63,53,BRA,substituicao_sai,Ronald
+288,3,01:41,63,53,BRA,substituicao_entra,Fulvio
+289,3,01:41,63,53,BRA,substituicao_sai,J Campos
+290,3,01:43,63,53,BRA,tempo_tecnico,Brasília
+291,3,01:43,63,53,MAC,2_Pts_C,Mosso
+292,3,01:43,63,51,MAC,AS,Caleb Brown
+293,3,02:07,63,51,MAC,RD,Macaé Basquete
+294,3,02:07,63,51,BRA,3_Pts_T,Deryk
+295,3,02:12,63,51,BRA,RO,Brasília
+296,3,02:12,63,51,BRA,2_Pts_T,Ronald
+297,3,02:12,63,51,BRA,substituicao_entra,Cipolini
+298,3,02:12,63,51,BRA,substituicao_sai,G Giovannoni
+299,3,02:15,63,51,BRA,substituicao_entra,Pilar
+300,3,02:15,63,51,BRA,substituicao_sai,Arthur
+301,3,02:21,63,51,MAC,substituicao_entra,Matheus Fontes
+302,3,02:21,63,51,MAC,substituicao_sai,Eddy
+303,3,02:30,63,51,MAC,2_Pts_C,Mosso
+304,3,02:37,63,49,MAC,FR,Murilo
+305,3,02:37,63,49,BRA,FC,J Campos
+306,3,02:42,63,49,MAC,RD,Maique
+307,3,02:42,63,49,BRA,2_Pts_T,Arthur
+308,3,03:07,63,49,MAC,2_Pts_C,Caleb Brown
+309,3,03:07,63,47,MAC,AS,Murilo
+310,3,03:11,63,47,MAC,BR,Murilo
+311,3,03:11,63,47,BRA,ER,J Campos
+312,3,03:21,63,47,MAC,2_Pts_C,Murilo
+313,3,03:31,63,45,MAC,RD,Mosso
+314,3,03:31,63,45,BRA,3_Pts_T,J Campos
+315,3,03:39,63,45,BRA,BR,Arthur
+316,3,03:39,63,45,MAC,ER,Eddy
+317,3,03:55,63,45,MAC,RD,Maique
+318,3,03:55,63,45,BRA,2_Pts_T,Ronald
+319,3,04:11,63,45,MAC,2_Pts_C,Murilo
+320,3,04:11,63,43,MAC,AS,Maique
+321,3,04:28,63,43,MAC,tempo_tecnico,Macaé Basquete
+322,3,04:28,63,43,BRA,2_Pts_C,G Giovannoni
+323,3,04:28,61,43,BRA,AS,J Campos
+324,3,04:33,61,43,BRA,RD,Ronald
+325,3,04:33,61,43,MAC,3_Pts_T,Caleb Brown
+326,3,04:43,61,43,BRA,2_Pts_C,Arthur
+327,3,04:43,59,43,BRA,AS,G Giovannoni
+328,3,04:50,59,43,BRA,RD,Ronald
+329,3,04:50,59,43,BRA,TO,Ronald
+330,3,04:50,59,43,MAC,2_Pts_T,Murilo
+331,3,05:02,59,43,MAC,substituicao_entra,Mosso
+332,3,05:02,59,43,MAC,substituicao_entra,Murilo
+333,3,05:02,59,43,MAC,substituicao_sai,André Góes
+334,3,05:02,59,43,MAC,substituicao_sai,Matheus Fontes
+335,3,05:02,59,43,MAC,,
+336,3,05:02,59,43,BRA,ER,J Campos
+337,3,05:20,59,43,BRA,,
+338,3,05:20,59,43,MAC,ER,André Góes
+339,3,05:36,59,43,MAC,RD,Matheus Fontes
+340,3,05:36,59,43,BRA,LL_Pts_T,G Giovannoni
+341,3,05:36,59,43,BRA,LL_Pts_T,G Giovannoni
+342,3,05:36,59,43,BRA,substituicao_entra,J Campos
+343,3,05:36,59,43,BRA,substituicao_sai,Pilar
+344,3,05:36,59,43,BRA,FR,G Giovannoni
+345,3,05:36,59,43,MAC,FC,Matheus Fontes
+346,3,05:44,59,43,BRA,FR,G Giovannoni
+347,3,05:44,59,43,MAC,FC,Matheus Fontes
+348,3,05:58,59,43,MAC,2_Pts_C,Maique
+349,3,06:02,59,41,MAC,RO,Maique
+350,3,06:02,59,41,MAC,2_Pts_T,Maique
+351,3,06:06,59,41,MAC,RO,Maique
+352,3,06:06,59,41,MAC,2_Pts_T,Caleb Brown
+353,3,06:18,59,41,BRA,substituicao_entra,Deryk
+354,3,06:18,59,41,BRA,substituicao_sai,Fulvio
+355,3,06:18,59,41,MAC,FR,Caleb Brown
+356,3,06:18,59,41,BRA,FC,Fulvio
+357,3,06:18,59,41,MAC,RD,Macaé Basquete
+358,3,06:18,59,41,BRA,3_Pts_T,G Giovannoni
+359,3,06:25,59,41,MAC,ER,
+360,3,06:25,59,41,MAC,2_Pts_T,Caleb Brown
+361,3,06:53,59,41,MAC,RD,Matheus Fontes
+362,3,06:53,59,41,BRA,2_Pts_T,Arthur
+363,3,07:02,59,41,BRA,RD,G Giovannoni
+364,3,07:02,59,41,BRA,TO,G Giovannoni
+365,3,07:02,59,41,MAC,2_Pts_T,André Góes
+366,3,07:21,59,41,BRA,LL_Pts_C,Fulvio
+367,3,07:21,58,41,BRA,LL_Pts_T,Fulvio
+368,3,07:21,58,41,BRA,FR,Fulvio
+369,3,07:21,58,41,MAC,FC,André Góes
+370,3,07:30,58,41,MAC,substituicao_entra,Maique
+371,3,07:30,58,41,MAC,substituicao_sai,Romario
+372,3,07:30,58,41,MAC,substituicao_entra,André Góes
+373,3,07:30,58,41,MAC,substituicao_sai,Mosso
+374,3,07:30,58,41,BRA,FR,Arthur
+375,3,07:30,58,41,MAC,FC,Eddy
+376,3,07:35,58,41,BRA,RD,Arthur
+377,3,07:35,58,41,MAC,2_Pts_T,Mosso
+378,3,08:05,58,41,BRA,3_Pts_C,Pilar
+379,3,08:05,55,41,BRA,AS,Ronald
+380,3,08:31,55,41,MAC,3_Pts_C,Caleb Brown
+381,3,08:48,55,38,BRA,2_Pts_C,Ronald
+382,3,08:52,53,38,BRA,RO,Ronald
+383,3,08:52,53,38,BRA,2_Pts_T,Ronald
+384,3,09:04,53,38,MAC,2_Pts_C,Romario
+385,3,09:14,53,36,BRA,FR,G Giovannoni
+386,3,09:14,53,36,MAC,FC,Romario
+387,3,09:14,53,36,BRA,2_Pts_C,G Giovannoni
+388,3,09:14,51,36,BRA,AS,Fulvio
+389,3,09:14,51,36,MAC,2_Pts_C,Matheus Fontes
+390,3,09:20,51,34,BRA,BR,Arthur
+391,3,09:20,51,34,MAC,ER,Romario
+392,3,09:26,51,34,BRA,3_Pts_C,Arthur
+393,3,09:49,48,34,MAC,RO,Matheus Fontes
+394,3,09:49,48,34,MAC,2_Pts_T,Eddy
+395,3,09:52,48,34,MAC,substituicao_entra,Eddy
+396,3,09:52,48,34,MAC,substituicao_entra,Romario
+397,3,09:52,48,34,MAC,substituicao_entra,Caleb Brown
+398,3,09:52,48,34,MAC,substituicao_entra,Mosso
+399,3,09:52,48,34,MAC,substituicao_entra,Matheus Fontes
+400,2,00:00,48,34, ,fim_quarto,
+401,2,00:01,48,34,BRA,2_Pts_C,Arthur
+402,2,00:24,46,34,MAC,2_Pts_C,Eddy
+403,2,00:45,46,32,MAC,RD,Mosso
+404,2,00:45,46,32,BRA,2_Pts_T,G Giovannoni
+405,2,01:03,46,32,BRA,RD,Pilar
+406,2,01:03,46,32,MAC,3_Pts_T,Mosso
+407,2,01:20,46,32,BRA,3_Pts_C,Deryk
+408,2,01:32,43,32,BRA,substituicao_sai,Fulvio
+409,2,01:32,43,32,BRA,substituicao_entra,Cipolini
+410,2,01:32,43,32,MAC,substituicao_entra,Pedrinho Rava
+411,2,01:32,43,32,MAC,substituicao_sai,Caleb Brown
+412,2,01:32,43,32,MAC,substituicao_entra,Eddy
+413,2,01:32,43,32,MAC,substituicao_sai,Matheus Fontes
+414,2,01:32,43,32,BRA,substituicao_entra,Deryk
+415,2,01:32,43,32,BRA,substituicao_entra,Arthur
+416,2,01:32,43,32,BRA,substituicao_sai,Ronald
+417,2,01:32,43,32,BRA,substituicao_sai,Diego
+418,2,01:32,43,32,MAC,ER,Matheus Fontes
+419,2,01:41,43,32,MAC,RD,Mosso
+420,2,01:41,43,32,BRA,2_Pts_T,Diego
+421,2,01:54,43,32,BRA,RD,Diego
+422,2,01:54,43,32,MAC,2_Pts_T,Romario
+423,2,02:06,43,32,BRA,2_Pts_C,Pilar
+424,2,02:24,41,32,BRA,substituicao_entra,G Giovannoni
+425,2,02:24,41,32,BRA,substituicao_sai,Cipolini
+426,2,02:27,41,32,BRA,tempo_tecnico,Brasília
+427,2,02:27,41,32,MAC,2_Pts_C,Matheus Fontes
+428,2,02:44,41,30,BRA,ER,Fulvio
+429,2,02:48,41,30,BRA,RD,Diego
+430,2,02:48,41,30,BRA,TO,Diego
+431,2,02:48,41,30,MAC,2_Pts_T,Matheus Fontes
+432,2,02:53,41,30,MAC,RO,Matheus Fontes
+433,2,02:53,41,30,MAC,3_Pts_T,Caleb Brown
+434,2,03:07,41,30,MAC,LL_Pts_T,Romario
+435,2,03:07,41,30,MAC,LL_Pts_C,Romario
+436,2,03:07,41,29,MAC,LL_Pts_T,Caleb Brown
+437,2,03:07,41,29,BRA,FC_T,Banco do Brasília
+438,2,03:07,41,29,MAC,FR,Romario
+439,2,03:07,41,29,BRA,FC,Ronald
+440,2,03:10,41,29,MAC,RD,André Góes
+441,2,03:10,41,29,BRA,2_Pts_T,Cipolini
+442,2,03:15,41,29,BRA,RO,Cipolini
+443,2,03:15,41,29,BRA,2_Pts_T,Diego
+444,2,03:23,41,29,BRA,RD,Ronald
+445,2,03:23,41,29,MAC,2_Pts_T,Mosso
+446,2,03:30,41,29,MAC,BR,André Góes
+447,2,03:30,41,29,BRA,ER,Fulvio
+448,2,03:44,41,29,MAC,2_Pts_C,Mosso
+449,2,03:44,41,27,MAC,AS,Caleb Brown
+450,2,04:06,41,27,BRA,EN,Cipolini
+451,2,04:24,39,27,MAC,LL_Pts_C,Caleb Brown
+452,2,04:24,39,26,MAC,LL_Pts_C,Caleb Brown
+453,2,04:24,39,25,MAC,FR,Caleb Brown
+454,2,04:24,39,25,BRA,FC,Fulvio
+455,2,04:34,39,25,MAC,FR,André Góes
+456,2,04:34,39,25,BRA,FC,Diego
+457,2,04:34,39,25,MAC,substituicao_entra,André Góes
+458,2,04:34,39,25,MAC,substituicao_entra,Matheus Fontes
+459,2,04:34,39,25,MAC,substituicao_sai,Eddy
+460,2,04:34,39,25,MAC,substituicao_sai,Murilo
+461,2,04:34,39,25,BRA,LL_Pts_C,Ronald
+462,2,04:34,38,25,BRA,AS,Fulvio
+463,2,04:34,38,25,BRA,LL_Pts_C,Ronald
+464,2,04:34,37,25,BRA,substituicao_entra,Cipolini
+465,2,04:34,37,25,BRA,substituicao_sai,G Giovannoni
+466,2,04:34,37,25,BRA,FR,Ronald
+467,2,04:34,37,25,MAC,FC,Romario
+468,2,04:34,37,25,BRA,FR,Pilar
+469,2,04:34,37,25,MAC,FC,Murilo
+470,2,04:44,37,25,BRA,RD,Ronald
+471,2,04:44,37,25,MAC,LL_Pts_T,Eddy
+472,2,04:44,37,25,MAC,LL_Pts_T,Eddy
+473,2,04:44,37,25,BRA,substituicao_entra,Pilar
+474,2,04:44,37,25,BRA,substituicao_sai,Deryk
+475,2,04:44,37,25,MAC,FR,Eddy
+476,2,04:44,37,25,BRA,FC,Fulvio
+477,2,05:01,37,25,MAC,RD,Mosso
+478,2,05:01,37,25,BRA,3_Pts_T,Deryk
+479,2,05:04,37,25,BRA,substituicao_entra,Ronald
+480,2,05:04,37,25,BRA,substituicao_sai,Coimbra
+481,2,05:24,37,25,MAC,2_Pts_C,Mosso
+482,2,05:49,37,23,BRA,3_Pts_C,Deryk
+483,2,05:49,34,23,BRA,AS,G Giovannoni
+484,2,05:55,34,23,BRA,RO,G Giovannoni
+485,2,05:55,34,23,BRA,3_Pts_T,Deryk
+486,2,06:01,34,23,MAC,2_Pts_C,Romario
+487,2,06:01,34,21,MAC,AS,Mosso
+488,2,06:12,34,21,MAC,RD,Mosso
+489,2,06:12,34,21,BRA,LL_Pts_T,G Giovannoni
+490,2,06:12,34,21,BRA,LL_Pts_C,G Giovannoni
+491,2,06:12,33,21,BRA,substituicao_entra,Fulvio
+492,2,06:12,33,21,BRA,substituicao_sai,Cipolini
+493,2,06:12,33,21,BRA,FR,G Giovannoni
+494,2,06:12,33,21,MAC,FC,Romario
+495,2,06:30,33,21,MAC,2_Pts_C,Romario
+496,2,06:30,33,19,MAC,AS,Caleb Brown
+497,2,06:43,33,19,MAC,RD,Romario
+498,2,06:43,33,19,BRA,3_Pts_T,Diego
+499,2,07:02,33,19,MAC,substituicao_entra,Romario
+500,2,07:02,33,19,MAC,substituicao_sai,Maique
+501,2,07:02,33,19,MAC,LL_Pts_C,Caleb Brown
+502,2,07:02,33,18,MAC,LL_Pts_C,Caleb Brown
+503,2,07:02,33,17,BRA,substituicao_entra,Diego
+504,2,07:02,33,17,BRA,substituicao_sai,J Campos
+505,2,07:02,33,17,MAC,FR,Caleb Brown
+506,2,07:02,33,17,BRA,FC,Deryk
+507,2,07:31,33,17,BRA,3_Pts_C,Deryk
+508,2,07:31,30,17,BRA,AS,G Giovannoni
+509,2,07:45,30,17,MAC,substituicao_entra,Eddy
+510,2,07:45,30,17,MAC,substituicao_entra,Caleb Brown
+511,2,07:45,30,17,MAC,substituicao_sai,Pedrinho Rava
+512,2,07:45,30,17,MAC,substituicao_sai,Matheus Fontes
+513,2,07:45,30,17,MAC,ER,Murilo
+514,2,07:56,30,17,BRA,2_Pts_C,Deryk
+515,2,07:56,28,17,BRA,AS,J Campos
+516,2,08:07,28,17,BRA,BR,J Campos
+517,2,08:07,28,17,MAC,ER,Pedrinho Rava
+518,2,08:20,28,17,MAC,,
+519,2,08:20,28,17,BRA,ER,J Campos
+520,2,08:39,28,17,MAC,ER,
+521,2,08:55,28,17,MAC,RO,Murilo
+522,2,08:55,28,17,MAC,3_Pts_T,Murilo
+523,2,09:20,28,17,MAC,FR,Matheus Fontes
+524,2,09:20,28,17,BRA,FC_O,Coimbra
+525,2,09:29,28,17,MAC,2_Pts_C,Matheus Fontes
+526,2,09:43,28,15,BRA,2_Pts_C,Cipolini
+527,2,09:43,26,15,BRA,AS,G Giovannoni
+528,1,00:00,26,15, ,fim_quarto,
+529,1,00:03,26,15,MAC,3_Pts_C,Pedrinho Rava
+530,1,00:16,26,12,BRA,2_Pts_C,J Campos
+531,1,00:20,24,12,BRA,BR,J Campos
+532,1,00:20,24,12,MAC,ER,Mosso
+533,1,00:34,24,12,MAC,RD,Mosso
+534,1,00:34,24,12,BRA,3_Pts_T,Deryk
+535,1,00:51,24,12,BRA,RD,Arthur
+536,1,00:51,24,12,MAC,LL_Pts_T,Murilo
+537,1,00:51,24,12,MAC,LL_Pts_C,Murilo
+538,1,00:51,24,11,MAC,FR,Murilo
+539,1,00:51,24,11,BRA,FC,Cipolini
+540,1,00:57,24,11,MAC,BR,Murilo
+541,1,00:57,24,11,BRA,ER,Arthur
+542,1,01:03,24,11,MAC,2_Pts_C,Matheus Fontes
+543,1,01:13,24,9,MAC,RD,Mosso
+544,1,01:13,24,9,BRA,3_Pts_T,Cipolini
+545,1,01:31,24,9,BRA,RD,Cipolini
+546,1,01:31,24,9,MAC,LL_Pts_T,Matheus Fontes
+547,1,01:31,24,9,MAC,LL_Pts_C,Matheus Fontes
+548,1,01:31,24,8,BRA,substituicao_entra,Arthur
+549,1,01:31,24,8,BRA,substituicao_sai,Ronald
+550,1,01:31,24,8,BRA,substituicao_entra,Coimbra
+551,1,01:31,24,8,BRA,substituicao_sai,Pilar
+552,1,01:31,24,8,MAC,substituicao_entra,Murilo
+553,1,01:31,24,8,MAC,substituicao_sai,André Góes
+554,1,01:31,24,8,MAC,FR,Matheus Fontes
+555,1,01:31,24,8,BRA,FC,Pilar
+556,1,01:47,24,8,BRA,2_Pts_C,J Campos
+557,1,01:47,22,8,BRA,AS,Deryk
+558,1,01:51,22,8,BRA,BR,Deryk
+559,1,01:51,22,8,MAC,ER,Maique
+560,1,02:12,22,8,BRA,3_Pts_C,Pilar
+561,1,02:12,19,8,BRA,AS,Cipolini
+562,1,02:32,19,8,MAC,tempo_tecnico,Macaé Basquete
+563,1,02:32,19,8,MAC,RO,Macaé Basquete
+564,1,02:32,19,8,MAC,2_Pts_T,Pedrinho Rava
+565,1,02:33,19,8,MAC,substituicao_entra,Mosso
+566,1,02:33,19,8,MAC,substituicao_sai,Eddy
+567,1,02:33,19,8,BRA,substituicao_entra,Cipolini
+568,1,02:33,19,8,BRA,substituicao_entra,Deryk
+569,1,02:33,19,8,BRA,substituicao_sai,G Giovannoni
+570,1,02:33,19,8,BRA,substituicao_sai,Fulvio
+571,1,02:52,19,8,BRA,2_Pts_C,Ronald
+572,1,03:08,17,8,BRA,RD,G Giovannoni
+573,1,03:08,17,8,MAC,3_Pts_T,Eddy
+574,1,03:26,17,8,BRA,2_Pts_C,G Giovannoni
+575,1,03:26,15,8,BRA,AS,Fulvio
+576,1,03:33,15,8,BRA,RD,Pilar
+577,1,03:33,15,8,MAC,2_Pts_T,Matheus Fontes
+578,1,03:36,15,8,MAC,FR,André Góes
+579,1,03:36,15,8,BRA,FC,G Giovannoni
+580,1,03:41,15,8,MAC,RD,Pedrinho Rava
+581,1,03:41,15,8,BRA,3_Pts_T,J Campos
+582,1,03:55,15,8,BRA,substituicao_entra,J Campos
+583,1,03:55,15,8,BRA,substituicao_sai,Arthur
+584,1,03:55,15,8,BRA,RD,Brasília
+585,1,03:55,15,8,MAC,2_Pts_T,Eddy
+586,1,04:01,15,8,MAC,RO,Eddy
+587,1,04:01,15,8,BRA,TO,G Giovannoni
+588,1,04:01,15,8,MAC,2_Pts_T,Matheus Fontes
+589,1,04:20,15,8,BRA,LL_Pts_C,Ronald
+590,1,04:20,14,8,BRA,LL_Pts_C,Ronald
+591,1,04:20,13,8,BRA,FR,Ronald
+592,1,04:20,13,8,MAC,FC,Maique
+593,1,04:26,13,8,MAC,3_Pts_C,André Góes
+594,1,04:26,13,5,MAC,AS,Maique
+595,1,04:34,13,5,MAC,substituicao_entra,Maique
+596,1,04:34,13,5,MAC,substituicao_sai,Mosso
+597,1,04:34,13,5,MAC,FR,Matheus Fontes
+598,1,04:34,13,5,BRA,FC,Pilar
+599,1,04:40,13,5,MAC,RD,Mosso
+600,1,04:40,13,5,MAC,TO,Mosso
+601,1,04:40,13,5,BRA,2_Pts_T,Ronald
+602,1,04:45,13,5,BRA,RO,Ronald
+603,1,04:45,13,5,BRA,2_Pts_T,Arthur
+604,1,05:03,13,5,MAC,LL_Pts_C,André Góes
+605,1,05:03,13,4,MAC,LL_Pts_T,André Góes
+606,1,05:03,13,4,MAC,FR,André Góes
+607,1,05:03,13,4,BRA,FC,Ronald
+608,1,05:15,13,4,MAC,RD,Matheus Fontes
+609,1,05:15,13,4,BRA,2_Pts_T,Ronald
+610,1,05:19,13,4,BRA,FR,Ronald
+611,1,05:19,13,4,MAC,FC,Mosso
+612,1,05:31,13,4,BRA,RD,Fulvio
+613,1,05:31,13,4,MAC,3_Pts_T,Mosso
+614,1,05:46,13,4,BRA,2_Pts_C,Pilar
+615,1,06:09,11,4,MAC,2_Pts_C,Mosso
+616,1,06:09,11,2,MAC,AS,Eddy
+617,1,06:30,11,2,BRA,LL_Pts_C,Ronald
+618,1,06:30,10,2,BRA,AS,Arthur
+619,1,06:30,10,2,BRA,LL_Pts_C,Ronald
+620,1,06:30,9,2,BRA,FR,Ronald
+621,1,06:30,9,2,MAC,FC,Pedrinho Rava
+622,1,06:35,9,2,BRA,RO,Arthur
+623,1,06:35,9,2,BRA,3_Pts_T,Arthur
+624,1,06:40,9,2,BRA,RO,Brasília
+625,1,06:40,9,2,BRA,2_Pts_T,G Giovannoni
+626,1,06:45,9,2,BRA,RO,Pilar
+627,1,06:45,9,2,BRA,2_Pts_T,Arthur
+628,1,06:58,9,2,BRA,RD,Fulvio
+629,1,06:58,9,2,MAC,3_Pts_T,Pedrinho Rava
+630,1,07:23,9,2,BRA,2_Pts_C,G Giovannoni
+631,1,07:23,7,2,BRA,AS,Fulvio
+632,1,07:26,7,2,MAC,substituicao_entra,Pedrinho Rava
+633,1,07:26,7,2,MAC,substituicao_sai,Caleb Brown
+634,1,07:26,7,2,BRA,FR,Ronald
+635,1,07:26,7,2,MAC,FC,Caleb Brown
+636,1,07:39,7,2,BRA,RD,Arthur
+637,1,07:39,7,2,MAC,3_Pts_T,Mosso
+638,1,07:57,7,2,BRA,3_Pts_C,Fulvio
+639,1,07:57,4,2,BRA,AS,G Giovannoni
+640,1,08:09,4,2,MAC,2_Pts_C,Caleb Brown
+641,1,08:27,4,0,BRA,EN,Pilar
+642,1,08:27,2,0,BRA,AS,G Giovannoni
+643,1,08:33,2,0,BRA,RO,G Giovannoni
+644,1,08:33,2,0,BRA,3_Pts_T,Pilar
+645,1,08:57,2,0,BRA,BR,Pilar
+646,1,08:57,2,0,MAC,ER,Eddy
+647,1,09:04,2,0,MAC,RD,Macaé Basquete
+648,1,09:04,2,0,BRA,2_Pts_T,Arthur
+649,1,09:13,2,0,BRA,FR,Fulvio
+650,1,09:13,2,0,MAC,FC,Caleb Brown
+651,1,09:16,2,0,BRA,RD,Arthur
+652,1,09:16,2,0,MAC,3_Pts_T,Eddy
+653,1,09:36,2,0,BRA,2_Pts_C,Ronald
+654,1,09:36,0,0,BRA,AS,Pilar
+655,1,09:46,0,0,BRA,RD,Pilar
+656,1,09:46,0,0,MAC,2_Pts_T,Mosso
+657,1,10:00,0,0,MAC,substituicao_entra,Eddy
+658,1,10:00,0,0,MAC,substituicao_entra,André Góes
+659,1,10:00,0,0,MAC,substituicao_entra,Caleb Brown
+660,1,10:00,0,0,MAC,substituicao_entra,Mosso
+661,1,10:00,0,0,MAC,substituicao_entra,Matheus Fontes
+662,1,10:00,0,0,BRA,substituicao_entra,G Giovannoni
+663,1,10:00,0,0,BRA,substituicao_entra,Fulvio
+664,1,10:00,0,0,BRA,substituicao_entra,Ronald
+665,1,10:00,0,0,BRA,substituicao_entra,Pilar
+666,1,10:00,0,0,BRA,substituicao_entra,Arthur

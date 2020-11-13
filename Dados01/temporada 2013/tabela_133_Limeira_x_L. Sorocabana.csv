@@ -1,0 +1,467 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,69,71, ,fim_partida,
+1,4,00:00,69,71,LSB,substituicao_sai,Smith
+2,4,00:00,69,71,LSB,substituicao_sai,Cipriano
+3,4,00:00,69,71,LSB,substituicao_sai,Cox
+4,4,00:00,69,71,LSB,substituicao_sai,Schneider
+5,4,00:00,69,71,LSB,substituicao_sai,Luiz Felipe
+6,4,00:00,69,71,LIM,substituicao_sai,David Jackson
+7,4,00:00,69,71,LIM,substituicao_sai,Bruno Fiorotto
+8,4,00:00,69,71,LIM,substituicao_sai,Matheus Dalla
+9,4,00:00,69,71,LIM,substituicao_sai,Hélio
+10,4,00:00,69,71,LIM,substituicao_sai,Ronald Ramon
+11,4,00:02,69,71,LIM,RD,Bruno Fiorotto
+12,4,00:02,69,71,LSB,LL_Pts_T,Cipriano
+13,4,00:02,69,71,LSB,LL_Pts_C,Cipriano
+14,4,00:02,69,70,LIM,substituicao_entra,Matheus Dalla
+15,4,00:02,69,70,LIM,substituicao_sai,Renato Lamas
+16,4,00:02,69,70,LSB,FR,Cipriano
+17,4,00:02,69,70,LIM,FC,Renato Lamas
+18,4,00:03,69,70,LSB,substituicao_entra,Luiz Felipe
+19,4,00:03,69,70,LSB,substituicao_entra,Cipriano
+20,4,00:03,69,70,LSB,substituicao_sai,Guilherme
+21,4,00:03,69,70,LSB,substituicao_sai,Muñoz
+22,4,00:03,69,70,LSB,tempo_tecnico,Liga Sorocabana
+23,4,00:03,69,70,LSB,,
+24,4,00:03,69,70,LIM,ER,David Jackson
+25,4,00:23,69,70,LSB,substituicao_entra,Muñoz
+26,4,00:23,69,70,LSB,substituicao_sai,Luiz Felipe
+27,4,00:23,69,70,LIM,tempo_tecnico,Limeira
+28,4,00:23,69,70,LSB,LL_Pts_C,Smith
+29,4,00:23,69,69,LSB,LL_Pts_C,Smith
+30,4,00:23,69,68,LSB,FR,Smith
+31,4,00:23,69,68,LIM,FC,Bruno Fiorotto
+32,4,00:38,69,68,LSB,substituicao_entra,Luiz Felipe
+33,4,00:38,69,68,LSB,substituicao_sai,Thiaguinho
+34,4,00:38,69,68,LSB,tempo_tecnico,Liga Sorocabana
+35,4,00:38,69,68,LIM,LL_Pts_C,Bruno Fiorotto
+36,4,00:38,68,68,LIM,LL_Pts_T,Bruno Fiorotto
+37,4,00:38,68,68,LIM,FR,Bruno Fiorotto
+38,4,00:38,68,68,LSB,FC,Guilherme
+39,4,00:40,68,68,LIM,tempo_tecnico,Limeira
+40,4,00:40,68,68,LIM,RD,Limeira
+41,4,00:40,68,68,LSB,2_Pts_T,Smith
+42,4,01:00,68,68,LIM,3_Pts_C,David Jackson
+43,4,01:00,65,68,LIM,AS,Ronald Ramon
+44,4,01:23,65,68,LSB,3_Pts_C,Cox
+45,4,01:45,65,65,LSB,RD,Cox
+46,4,01:45,65,65,LIM,3_Pts_T,Renato Lamas
+47,4,02:04,65,65,LIM,RD,Bruno Fiorotto
+48,4,02:04,65,65,LSB,3_Pts_T,Smith
+49,4,02:19,65,65,LSB,RD,Guilherme
+50,4,02:19,65,65,LIM,2_Pts_T,David Jackson
+51,4,02:34,65,65,LIM,RD,Bruno Fiorotto
+52,4,02:34,65,65,LSB,2_Pts_T,Guilherme
+53,4,02:38,65,65,LSB,RO,Guilherme
+54,4,02:38,65,65,LSB,2_Pts_T,Guilherme
+55,4,02:58,65,65,LIM,2_Pts_C,Ronald Ramon
+56,4,03:20,63,65,LSB,EN,Smith
+57,4,03:25,63,63,LSB,BR,Smith
+58,4,03:25,63,63,LIM,ER,Hélio
+59,4,03:38,63,63,LSB,LL_Pts_C,Thiaguinho
+60,4,03:38,63,62,LSB,LL_Pts_C,Thiaguinho
+61,4,03:38,63,61,LIM,tempo_tecnico,Limeira
+62,4,03:38,63,61,LSB,FR,Thiaguinho
+63,4,03:38,63,61,LIM,FC,Renato Lamas
+64,4,03:44,63,61,LSB,RD,Thiaguinho
+65,4,03:44,63,61,LIM,3_Pts_T,Hélio
+66,4,04:09,63,61,LSB,3_Pts_C,Cox
+67,4,04:19,63,58,LIM,substituicao_entra,Renato Lamas
+68,4,04:19,63,58,LIM,substituicao_sai,Wagner
+69,4,04:19,63,58,LSB,LL_Pts_C,Schneider
+70,4,04:19,63,57,LSB,LL_Pts_T,Schneider
+71,4,04:19,63,57,LSB,substituicao_entra,Guilherme
+72,4,04:19,63,57,LSB,substituicao_sai,Cipriano
+73,4,04:19,63,57,LIM,substituicao_entra,Bruno Fiorotto
+74,4,04:19,63,57,LIM,substituicao_sai,Renan
+75,4,04:19,63,57,LSB,substituicao_entra,Thiaguinho
+76,4,04:19,63,57,LSB,substituicao_sai,Muñoz
+77,4,04:19,63,57,LSB,FR,Muñoz
+78,4,04:19,63,57,LIM,FC_A,Renan
+79,4,04:24,63,57,LSB,RD,Smith
+80,4,04:24,63,57,LIM,2_Pts_T,David Jackson
+81,4,04:45,63,57,LSB,2_Pts_C,Smith
+82,4,05:04,63,55,LIM,3_Pts_C,Hélio
+83,4,05:04,60,55,LIM,AS,Wagner
+84,4,05:14,60,55,LSB,,
+85,4,05:28,60,55,LSB,FR,Cox
+86,4,05:28,60,55,LIM,FC,Ronald Ramon
+87,4,05:35,60,55,LIM,2_Pts_C,Ronald Ramon
+88,4,05:41,58,55,LIM,FR,Hélio
+89,4,05:41,58,55,LSB,FC,Muñoz
+90,4,05:57,58,55,LSB,LL_Pts_C,Smith
+91,4,05:57,58,54,LSB,LL_Pts_T,Smith
+92,4,05:57,58,54,LIM,substituicao_entra,David Jackson
+93,4,05:57,58,54,LIM,substituicao_sai,Matheus Dalla
+94,4,05:57,58,54,LSB,FR,Smith
+95,4,05:57,58,54,LIM,FC,Renan
+96,4,06:14,58,54,LIM,2_Pts_C,Renan
+97,4,06:14,56,54,LIM,AS,Wagner
+98,4,06:36,56,54,LSB,2_Pts_C,Muñoz
+99,4,07:02,56,52,LSB,substituicao_entra,Muñoz
+100,4,07:02,56,52,LSB,substituicao_sai,Luiz Felipe
+101,4,07:03,56,52,LSB,tempo_tecnico,Liga Sorocabana
+102,4,07:03,56,52,LSB,RD,Liga Sorocabana
+103,4,07:03,56,52,LIM,2_Pts_T,Renan
+104,4,07:22,56,52,LIM,RD,Wagner
+105,4,07:22,56,52,LSB,2_Pts_T,Smith
+106,4,07:41,56,52,LIM,2_Pts_C,Hélio
+107,4,07:41,54,52,LIM,AS,Renan
+108,4,07:50,54,52,LIM,RO,Wagner
+109,4,07:50,54,52,LIM,3_Pts_T,Ronald Ramon
+110,4,08:02,54,52,LSB,substituicao_entra,Schneider
+111,4,08:02,54,52,LSB,substituicao_sai,Guilherme
+112,4,08:02,54,52,LIM,FR,Hélio
+113,4,08:02,54,52,LSB,FC,Cipriano
+114,4,08:11,54,52,LIM,RO,Hélio
+115,4,08:11,54,52,LIM,2_Pts_T,Renan
+116,4,08:26,54,52,LIM,RO,Hélio
+117,4,08:26,54,52,LIM,2_Pts_T,Hélio
+118,4,08:47,54,52,LSB,ER,
+119,4,09:01,54,52,LSB,substituicao_entra,Guilherme
+120,4,09:01,54,52,LSB,substituicao_sai,Lupa
+121,4,09:01,54,52,LSB,FR,Lupa
+122,4,09:01,54,52,LIM,FC,Wagner
+123,4,09:31,54,52,LIM,2_Pts_C,Matheus Dalla
+124,4,09:31,52,52,LIM,AS,Wagner
+125,4,09:37,52,52,LIM,RD,Renan
+126,4,09:37,52,52,LSB,3_Pts_T,Smith
+127,3,00:00,52,52, ,fim_quarto,
+128,3,00:01,52,52,LSB,RO,Liga Sorocabana
+129,3,00:01,52,52,LSB,2_Pts_T,Schneider
+130,3,00:02,52,52,LSB,BR,Schneider
+131,3,00:02,52,52,LIM,ER,Matheus Dalla
+132,3,00:10,52,52,LSB,2_Pts_C,Cox
+133,3,00:17,52,50,LSB,RD,Cox
+134,3,00:17,52,50,LIM,3_Pts_T,Matheus Dalla
+135,3,00:35,52,50,LSB,LL_Pts_C,Cox
+136,3,00:35,52,49,LSB,LL_Pts_C,Cox
+137,3,00:35,52,48,LSB,FR,Cox
+138,3,00:35,52,48,LIM,FC,Ronald Ramon
+139,3,00:53,52,48,LIM,substituicao_entra,Matheus Dalla
+140,3,00:53,52,48,LIM,substituicao_sai,David Jackson
+141,3,00:53,52,48,LIM,LL_Pts_C,David Jackson
+142,3,00:53,51,48,LIM,LL_Pts_T,David Jackson
+143,3,00:53,51,48,LSB,substituicao_entra,Lupa
+144,3,00:53,51,48,LSB,substituicao_sai,Smith
+145,3,00:53,51,48,LSB,substituicao_entra,Diego Gomes
+146,3,00:53,51,48,LSB,substituicao_sai,Muñoz
+147,3,00:53,51,48,LIM,FR,David Jackson
+148,3,00:53,51,48,LSB,FC,Smith
+149,3,01:12,51,48,LSB,LL_Pts_C,Smith
+150,3,01:12,51,47,LSB,substituicao_entra,Schneider
+151,3,01:12,51,47,LSB,substituicao_sai,Alfredo
+152,3,01:12,51,47,LIM,substituicao_entra,Renan
+153,3,01:12,51,47,LIM,substituicao_sai,Bruno Fiorotto
+154,3,01:12,51,47,LSB,2_Pts_C,Smith
+155,3,01:12,51,45,LSB,FR,Smith
+156,3,01:12,51,45,LIM,FC,David Jackson
+157,3,01:15,51,45,LSB,BR,Smith
+158,3,01:15,51,45,LIM,ER,Hélio
+159,3,01:26,51,45,LIM,RD,Ronald Ramon
+160,3,01:26,51,45,LSB,2_Pts_T,Alfredo
+161,3,01:54,51,45,LIM,2_Pts_C,Bruno Fiorotto
+162,3,01:54,49,45,LIM,AS,Wagner
+163,3,02:20,49,45,LIM,FR,Bruno Fiorotto
+164,3,02:20,49,45,LSB,FC_O,Cipriano
+165,3,02:20,49,45,LSB,substituicao_entra,Smith
+166,3,02:20,49,45,LSB,substituicao_sai,Verson
+167,3,02:20,49,45,LIM,RD,Limeira
+168,3,02:20,49,45,LSB,3_Pts_T,Muñoz
+169,3,02:35,49,45,LIM,2_Pts_C,Wagner
+170,3,02:35,47,45,LIM,AS,David Jackson
+171,3,02:52,47,45,LSB,2_Pts_C,Cox
+172,3,03:08,47,43,LSB,,
+173,3,03:08,47,43,LIM,ER,Hélio
+174,3,03:18,47,43,LSB,2_Pts_C,Cox
+175,3,03:30,47,41,LSB,substituicao_entra,Verson
+176,3,03:30,47,41,LSB,substituicao_sai,Smith
+177,3,03:30,47,41,LIM,substituicao_entra,Wagner
+178,3,03:30,47,41,LIM,substituicao_sai,Renato Lamas
+179,3,03:30,47,41,LSB,FR,Alfredo
+180,3,03:30,47,41,LIM,FC,Hélio
+181,3,03:55,47,41,LIM,2_Pts_C,Hélio
+182,3,04:12,45,41,LSB,substituicao_entra,Muñoz
+183,3,04:12,45,41,LSB,substituicao_sai,Luiz Felipe
+184,3,04:12,45,41,LIM,FR,Bruno Fiorotto
+185,3,04:12,45,41,LSB,FC,Luiz Felipe
+186,3,04:30,45,41,LIM,RD,Bruno Fiorotto
+187,3,04:30,45,41,LSB,3_Pts_T,Cipriano
+188,3,04:44,45,41,LSB,substituicao_entra,Alfredo
+189,3,04:44,45,41,LSB,substituicao_sai,Schneider
+190,3,04:45,45,41,LSB,RO,Schneider
+191,3,04:45,45,41,LSB,3_Pts_T,Schneider
+192,3,05:12,45,41,LIM,2_Pts_C,Hélio
+193,3,05:12,43,41,LIM,AS,Renato Lamas
+194,3,05:22,43,41,LSB,substituicao_entra,Cipriano
+195,3,05:22,43,41,LSB,substituicao_sai,Guilherme
+196,3,05:22,43,41,LIM,FR,Ronald Ramon
+197,3,05:22,43,41,LSB,FC,Guilherme
+198,3,05:38,43,41,LIM,RD,Bruno Fiorotto
+199,3,05:38,43,41,LSB,2_Pts_T,Guilherme
+200,3,06:01,43,41,LSB,RD,Schneider
+201,3,06:01,43,41,LIM,3_Pts_T,Hélio
+202,3,06:15,43,41,LSB,EN,Guilherme
+203,3,06:15,43,39,LSB,AS,Cox
+204,3,06:26,43,39,LSB,RO,Cox
+205,3,06:26,43,39,LIM,TO,Bruno Fiorotto
+206,3,06:26,43,39,LSB,2_Pts_T,Cox
+207,3,06:36,43,39,LSB,FR,Smith
+208,3,06:36,43,39,LIM,FC,Bruno Fiorotto
+209,3,06:46,43,39,LIM,2_Pts_C,Hélio
+210,3,07:08,41,39,LSB,EN,Guilherme
+211,3,07:35,41,37,LSB,RD,Schneider
+212,3,07:35,41,37,LIM,LL_Pts_T,Bruno Fiorotto
+213,3,07:35,41,37,LIM,AS,Hélio
+214,3,07:36,41,37,LIM,2_Pts_C,Bruno Fiorotto
+215,3,07:36,39,37,LIM,FR,Bruno Fiorotto
+216,3,07:36,39,37,LSB,FC,Guilherme
+217,3,07:56,39,37,LSB,LL_Pts_C,Guilherme
+218,3,07:56,39,36,LSB,LL_Pts_C,Guilherme
+219,3,07:56,39,35,LSB,FR,Guilherme
+220,3,07:56,39,35,LIM,FC,Renato Lamas
+221,3,08:13,39,35,LSB,RO,Smith
+222,3,08:13,39,35,LSB,2_Pts_T,Smith
+223,3,08:19,39,35,LSB,RO,Smith
+224,3,08:19,39,35,LSB,3_Pts_T,Schneider
+225,3,08:41,39,35,LIM,3_Pts_C,David Jackson
+226,3,08:41,36,35,LIM,AS,Hélio
+227,3,09:02,36,35,LIM,,
+228,3,09:02,36,35,LSB,ER,Smith
+229,3,09:08,36,35,LSB,RD,Smith
+230,3,09:08,36,35,LIM,2_Pts_T,David Jackson
+231,3,09:40,36,35,LIM,RD,Limeira
+232,3,09:40,36,35,LSB,3_Pts_T,Schneider
+233,2,00:00,36,35, ,fim_quarto,
+234,2,00:27,36,35,LIM,substituicao_entra,Deryk
+235,2,00:27,36,35,LIM,substituicao_sai,Hélio
+236,2,00:27,36,35,LSB,substituicao_entra,Guilherme
+237,2,00:27,36,35,LSB,substituicao_sai,Cipriano
+238,2,00:27,36,35,LSB,substituicao_entra,Luiz Felipe
+239,2,00:27,36,35,LSB,substituicao_sai,Thiaguinho
+240,2,00:27,36,35,LSB,tempo_tecnico,Liga Sorocabana
+241,2,00:27,36,35,LIM,LL_Pts_C,Hélio
+242,2,00:27,35,35,LIM,LL_Pts_T,Hélio
+243,2,00:27,35,35,LIM,substituicao_entra,Dú Sommer
+244,2,00:27,35,35,LIM,substituicao_sai,Deryk
+245,2,00:27,35,35,LIM,substituicao_entra,Deryk
+246,2,00:27,35,35,LIM,substituicao_sai,Renato Lamas
+247,2,00:27,35,35,LIM,FR,Hélio
+248,2,00:27,35,35,LSB,FC,Smith
+249,2,00:39,35,35,LIM,RD,Renato Lamas
+250,2,00:39,35,35,LSB,2_Pts_T,Cipriano
+251,2,00:44,35,35,LIM,2_Pts_C,Matheus Dalla
+252,2,00:44,33,35,LIM,substituicao_entra,Matheus Dalla
+253,2,00:44,33,35,LIM,substituicao_sai,Deryk
+254,2,01:13,33,35,LSB,LL_Pts_C,Alfredo
+255,2,01:13,33,34,LSB,FR,Alfredo
+256,2,01:13,33,34,LIM,FC,Hélio
+257,2,01:13,33,34,LSB,2_Pts_C,Alfredo
+258,2,01:22,33,32,LSB,RD,Smith
+259,2,01:22,33,32,LIM,2_Pts_T,Ronald Ramon
+260,2,01:32,33,32,LIM,RD,Bruno Fiorotto
+261,2,01:32,33,32,LSB,2_Pts_T,Alfredo
+262,2,01:45,33,32,LIM,2_Pts_C,Deryk
+263,2,01:45,31,32,LIM,AS,Renato Lamas
+264,2,01:52,31,32,LIM,BR,Renato Lamas
+265,2,01:52,31,32,LSB,ER,Smith
+266,2,02:17,31,32,LSB,RD,Alfredo
+267,2,02:17,31,32,LIM,3_Pts_T,Ronald Ramon
+268,2,02:41,31,32,LSB,substituicao_entra,Muñoz
+269,2,02:41,31,32,LSB,substituicao_sai,Cox
+270,2,02:41,31,32,LSB,2_Pts_C,Cox
+271,2,02:41,31,30,LIM,tempo_tecnico,Limeira
+272,2,02:41,31,30,LSB,BR,Cox
+273,2,02:41,31,30,LIM,ER,Deryk
+274,2,02:53,31,30,LSB,LL_Pts_C,Thiaguinho
+275,2,02:53,31,29,LSB,LL_Pts_C,Thiaguinho
+276,2,02:53,31,28,LSB,substituicao_entra,Smith
+277,2,02:53,31,28,LSB,substituicao_sai,Luiz Felipe
+278,2,02:53,31,28,LSB,substituicao_entra,Cipriano
+279,2,02:53,31,28,LSB,substituicao_sai,Lupa
+280,2,02:58,31,28,LSB,tempo_tecnico,Liga Sorocabana
+281,2,02:58,31,28,LSB,FR,Thiaguinho
+282,2,02:58,31,28,LIM,FC,Deryk
+283,2,03:42,31,28,LIM,3_Pts_C,Deryk
+284,2,03:42,28,28,LIM,AS,Bruno Fiorotto
+285,2,04:00,28,28,LSB,3_Pts_C,Cox
+286,2,04:15,28,25,LIM,2_Pts_C,Bruno Fiorotto
+287,2,04:18,26,25,LIM,substituicao_entra,Ronald Ramon
+288,2,04:19,26,25,LIM,substituicao_sai,David Jackson
+289,2,04:28,26,25,LSB,substituicao_sai,Smith
+290,2,04:28,26,25,LSB,substituicao_entra,Lupa
+291,2,04:28,26,25,LSB,substituicao_entra,Alfredo
+292,2,04:28,26,25,LSB,substituicao_sai,Guilherme
+293,2,04:35,26,25,LIM,RD,Renato Lamas
+294,2,04:35,26,25,LSB,3_Pts_T,Luiz Felipe
+295,2,04:41,26,25,LSB,FR,Thiaguinho
+296,2,04:48,26,25,LSB,RD,Thiaguinho
+297,2,04:48,26,25,LIM,2_Pts_T,Bruno Fiorotto
+298,2,04:58,26,25,LIM,RD,Renato Lamas
+299,2,04:58,26,25,LSB,2_Pts_T,Guilherme
+300,2,05:11,26,25,LSB,RO,Guilherme
+301,2,05:11,26,25,LSB,3_Pts_T,Luiz Felipe
+302,2,06:09,26,25,LIM,FR,Renato Lamas
+303,2,06:09,26,25,LSB,FC,Luiz Felipe
+304,2,06:19,26,25,LIM,RD,Bruno Fiorotto
+305,2,06:19,26,25,LSB,2_Pts_T,Guilherme
+306,2,06:29,26,25,LSB,RD,Smith
+307,2,06:29,26,25,LIM,2_Pts_T,Deryk
+308,2,06:37,26,25,LSB,2_Pts_C,Smith
+309,2,06:37,26,23,LSB,AS,Luiz Felipe
+310,2,06:40,26,23,LIM,AS,David Jackson
+311,2,06:48,26,23,LIM,3_Pts_C,Renato Lamas
+312,2,06:48,23,23,LIM,AS,Hélio
+313,2,06:54,23,23,LSB,LL_Pts_T,Guilherme
+314,2,06:54,23,23,LSB,LL_Pts_C,Guilherme
+315,2,06:54,23,22,LSB,substituicao_entra,Guilherme
+316,2,06:54,23,22,LSB,substituicao_sai,Muñoz
+317,2,06:54,23,22,LSB,substituicao_entra,Muñoz
+318,2,06:54,23,22,LSB,substituicao_sai,Guilherme
+319,2,06:54,23,22,LSB,substituicao_entra,Cox
+320,2,06:54,23,22,LSB,substituicao_sai,Cipriano
+321,2,06:54,23,22,LSB,FR,Guilherme
+322,2,06:54,23,22,LIM,FC,Renato Lamas
+323,2,06:54,23,22,LSB,substituicao_entra,Guilherme
+324,2,06:54,23,22,LSB,substituicao_sai,Guilherme
+325,2,06:54,23,22,LSB,substituicao_entra,Smith
+326,2,06:54,23,22,LSB,substituicao_sai,Verson
+327,2,06:54,23,22,LSB,substituicao_entra,Guilherme
+328,2,06:54,23,22,LSB,substituicao_sai,Alfredo
+329,2,06:59,23,22,LIM,2_Pts_C,Renato Lamas
+330,2,07:12,21,22,LIM,RO,Renato Lamas
+331,2,07:12,21,22,LIM,3_Pts_T,Deryk
+332,2,07:30,21,22,LIM,RD,Hélio
+333,2,07:30,21,22,LSB,3_Pts_T,Alfredo
+334,2,07:38,21,22,LSB,RD,Thiaguinho
+335,2,07:38,21,22,LIM,2_Pts_T,Renato Lamas
+336,2,07:45,21,22,LIM,substituicao_sai,Wagner
+337,2,07:45,21,22,LIM,substituicao_entra,Deryk
+338,2,07:45,21,22,LSB,substituicao_sai,Cox
+339,2,07:45,21,22,LSB,substituicao_entra,Thiaguinho
+340,2,07:56,21,22,LSB,RD,Liga Sorocabana
+341,2,07:56,21,22,LIM,3_Pts_T,Renato Lamas
+342,2,08:09,21,22,LIM,RD,Renato Lamas
+343,2,08:09,21,22,LSB,3_Pts_T,Alfredo
+344,2,08:27,21,22,LSB,RD,Verson
+345,2,08:27,21,22,LIM,2_Pts_T,Wagner
+346,2,08:36,21,22,LIM,FR,David Jackson
+347,2,08:36,21,22,LSB,FC,Verson
+348,2,08:39,21,22,LSB,substituicao_sai,Guilherme
+349,2,08:39,21,22,LSB,substituicao_entra,Verson
+350,2,08:39,21,22,LIM,LL_Pts_C,David Jackson
+351,2,08:39,20,22,LIM,LL_Pts_C,David Jackson
+352,2,08:39,19,22,LIM,substituicao_sai,Renan
+353,2,08:39,19,22,LIM,substituicao_entra,Bruno Fiorotto
+354,2,08:39,19,22,LSB,FC_T,Guilherme
+355,2,08:39,19,22,LSB,FR,Guilherme
+356,2,08:39,19,22,LIM,FC,Renato Lamas
+357,2,08:48,19,22,LSB,RD,Guilherme
+358,2,08:48,19,22,LIM,3_Pts_T,Hélio
+359,2,08:56,19,22,LIM,RO,Hélio
+360,2,08:56,19,22,LIM,3_Pts_T,Renato Lamas
+361,2,09:00,19,22,LSB,FR,Alfredo
+362,2,09:00,19,22,LIM,FC,Bruno Fiorotto
+363,2,09:10,19,22,LIM,RD,Renan
+364,2,09:10,19,22,LSB,2_Pts_T,Guilherme
+365,2,09:26,19,22,LSB,RO,Liga Sorocabana
+366,2,09:26,19,22,LSB,3_Pts_T,Luiz Felipe
+367,2,10:00,19,22,LIM,LL_Pts_C,Renan
+368,2,10:00,18,22,LIM,LL_Pts_C,Renan
+369,2,10:00,17,22,LIM,FR,Renan
+370,2,10:00,17,22,LSB,FC,Cox
+371,2,10:00,17,22,LIM,RO,Renan
+372,2,10:00,17,22,LIM,2_Pts_T,David Jackson
+373,1,00:00,17,22, ,fim_quarto,
+374,1,00:01,17,22,LIM,RD,Limeira
+375,1,00:01,17,22,LSB,3_Pts_T,Cox
+376,1,00:08,17,22,LSB,LL_Pts_C,Alfredo
+377,1,00:08,17,21,LSB,LL_Pts_C,Alfredo
+378,1,00:08,17,20,LIM,FC_T,Wagner
+379,1,00:10,17,20,LIM,RO,Limeira
+380,1,00:10,17,20,LIM,2_Pts_T,Renan
+381,1,00:31,17,20,LSB,substituicao_entra,Alfredo
+382,1,00:31,17,20,LSB,substituicao_sai,Smith
+383,1,00:31,17,20,LSB,LL_Pts_C,Cipriano
+384,1,00:31,17,19,LSB,LL_Pts_C,Cipriano
+385,1,00:31,17,18,LIM,substituicao_entra,Renato Lamas
+386,1,00:31,17,18,LIM,substituicao_sai,Matheus Dalla
+387,1,00:31,17,18,LSB,FR,Cipriano
+388,1,00:31,17,18,LIM,FC,Wagner
+389,1,00:50,17,18,LIM,2_Pts_C,David Jackson
+390,1,01:03,15,18,LSB,3_Pts_C,Cox
+391,1,01:03,15,15,LSB,AS,Luiz Felipe
+392,1,01:18,15,15,LSB,RD,Cipriano
+393,1,01:18,15,15,LIM,3_Pts_T,Matheus Dalla
+394,1,01:35,15,15,LIM,FR,David Jackson
+395,1,01:35,15,15,LSB,FC,Cox
+396,1,01:51,15,15,LSB,substituicao_entra,Luiz Felipe
+397,1,01:51,15,15,LSB,substituicao_sai,Muñoz
+398,1,01:51,15,15,LIM,RO,Limeira
+399,1,01:51,15,15,LIM,2_Pts_T,Renan
+400,1,02:08,15,15,LIM,RD,Renan
+401,1,02:08,15,15,LSB,3_Pts_T,Muñoz
+402,1,02:32,15,15,LIM,3_Pts_C,Hélio
+403,1,02:42,12,15,LIM,FR,Wagner
+404,1,02:42,12,15,LSB,FC,Smith
+405,1,02:54,12,15,LIM,BR,David Jackson
+406,1,02:54,12,15,LSB,ER,Smith
+407,1,03:07,12,15,LSB,3_Pts_C,Smith
+408,1,03:37,12,12,LSB,RD,Cipriano
+409,1,03:37,12,12,LIM,LL_Pts_T,Wagner
+410,1,03:37,12,12,LIM,LL_Pts_C,Wagner
+411,1,03:37,11,12,LIM,substituicao_entra,Hélio
+412,1,03:37,11,12,LIM,substituicao_sai,Ronald Ramon
+413,1,03:37,11,12,LIM,FR,Wagner
+414,1,03:37,11,12,LSB,FC,Cipriano
+415,1,03:37,11,12,LIM,RO,Wagner
+416,1,03:37,11,12,LIM,2_Pts_T,Wagner
+417,1,04:00,11,12,LSB,2_Pts_C,Cipriano
+418,1,04:24,11,10,LIM,2_Pts_C,David Jackson
+419,1,04:48,9,10,LSB,3_Pts_C,Cox
+420,1,04:57,9,7,LSB,RD,Guilherme
+421,1,04:57,9,7,LIM,2_Pts_T,Renan
+422,1,05:09,9,7,LIM,RD,Ronald Ramon
+423,1,05:09,9,7,LSB,2_Pts_T,Smith
+424,1,05:27,9,7,LIM,AS,Matheus Dalla
+425,1,05:32,9,7,LIM,3_Pts_C,David Jackson
+426,1,05:55,6,7,LSB,2_Pts_C,Cipriano
+427,1,05:55,6,5,LSB,AS,Cox
+428,1,06:00,6,5,LSB,FR,Smith
+429,1,06:00,6,5,LIM,FC,Matheus Dalla
+430,1,06:19,6,5,LIM,2_Pts_C,David Jackson
+431,1,06:36,4,5,LSB,2_Pts_C,Muñoz
+432,1,06:55,4,3,LSB,,
+433,1,06:55,4,3,LIM,ER,Matheus Dalla
+434,1,06:58,4,3,LIM,BR,Matheus Dalla
+435,1,06:58,4,3,LSB,ER,Cox
+436,1,07:15,4,3,LSB,RD,Muñoz
+437,1,07:15,4,3,LIM,2_Pts_T,Wagner
+438,1,07:41,4,3,LIM,RD,Limeira
+439,1,07:41,4,3,LSB,2_Pts_T,Smith
+440,1,07:58,4,3,LIM,2_Pts_C,Renan
+441,1,07:58,2,3,LIM,AS,Ronald Ramon
+442,1,08:32,2,3,LSB,3_Pts_C,Guilherme
+443,1,08:32,2,0,LSB,AS,Cox
+444,1,08:50,2,0,LSB,RD,Cox
+445,1,08:50,2,0,LIM,2_Pts_T,Matheus Dalla
+446,1,09:13,2,0,LIM,RD,David Jackson
+447,1,09:13,2,0,LSB,3_Pts_T,Cipriano
+448,1,09:19,2,0,LSB,BR,Cipriano
+449,1,09:19,2,0,LIM,ER,Ronald Ramon
+450,1,09:23,2,0,LIM,BR,Ronald Ramon
+451,1,09:23,2,0,LSB,ER,Cipriano
+452,1,09:34,2,0,LIM,2_Pts_C,Renan
+453,1,09:34,0,0,LIM,AS,David Jackson
+454,1,09:50,0,0,LIM,RD,Wagner
+455,1,09:50,0,0,LSB,2_Pts_T,Cox
+456,1,10:00,0,0,LSB,substituicao_entra,Cox
+457,1,10:00,0,0,LSB,substituicao_entra,Cipriano
+458,1,10:00,0,0,LSB,substituicao_entra,Guilherme
+459,1,10:00,0,0,LSB,substituicao_entra,Smith
+460,1,10:00,0,0,LSB,substituicao_entra,Muñoz
+461,1,10:00,0,0,LIM,substituicao_entra,David Jackson
+462,1,10:00,0,0,LIM,substituicao_entra,Renan
+463,1,10:00,0,0,LIM,substituicao_entra,Wagner
+464,1,10:00,0,0,LIM,substituicao_entra,Matheus Dalla
+465,1,10:00,0,0,LIM,substituicao_entra,Ronald Ramon

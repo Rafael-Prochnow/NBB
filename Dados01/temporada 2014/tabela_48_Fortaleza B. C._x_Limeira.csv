@@ -1,0 +1,459 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,67,85, ,fim_partida,
+1,4,00:00,67,85,LIM,2_Pts_C,Hayes
+2,4,00:00,67,83,LIM,3_Pts_C,Nezinho
+3,4,00:06,67,80,LIM,3_Pts_C,Matheus Dalla
+4,4,00:35,67,77,CEA,2_Pts_C,Alexandre
+5,4,00:35,65,77,CEA,AS,Davi
+6,4,00:37,65,77,LIM,3_Pts_C,David Jackson
+7,4,00:57,65,74,CEA,2_Pts_C,Alexandre
+8,4,01:06,63,74,CEA,RD,Alexandre
+9,4,01:06,63,74,LIM,2_Pts_T,David Jackson
+10,4,01:29,63,74,CEA,2_Pts_C,Romulo
+11,4,01:29,61,74,CEA,AS,F Fischer
+12,4,01:40,61,74,CEA,substituicao_entra,Romulo
+13,4,01:40,61,74,CEA,substituicao_sai,Tiagão
+14,4,01:40,61,74,CEA,tempo_tecnico,Basquete Cearense
+15,4,01:40,61,74,LIM,2_Pts_C,David Jackson
+16,4,01:57,61,72,LIM,RO,Hayes
+17,4,01:57,61,72,LIM,3_Pts_T,Matheus Dalla
+18,4,02:19,61,72,LIM,RD,Hayes
+19,4,02:19,61,72,CEA,2_Pts_T,Tiagão
+20,4,02:35,61,72,LIM,substituicao_entra,Teichmann
+21,4,02:35,61,72,LIM,substituicao_sai,Nezinho
+22,4,02:35,61,72,LIM,substituicao_entra,Higor
+23,4,02:35,61,72,LIM,substituicao_sai,Deryk
+24,4,02:35,61,72,LIM,substituicao_entra,David Jackson
+25,4,02:35,61,72,LIM,substituicao_sai,Bruno Fiorotto
+26,4,02:35,61,72,LIM,LL_Pts_C,Nezinho
+27,4,02:35,61,71,LIM,LL_Pts_C,Nezinho
+28,4,02:35,61,70,LIM,FR,Nezinho
+29,4,02:35,61,70,CEA,FC,Alexandre
+30,4,02:42,61,70,LIM,RD,Limeira
+31,4,02:42,61,70,CEA,3_Pts_T,Alexandre
+32,4,02:57,61,70,CEA,,
+33,4,02:57,61,70,LIM,ER,Hayes
+34,4,03:09,61,70,LIM,RD,Hayes
+35,4,03:09,61,70,CEA,3_Pts_T,Rashaun
+36,4,03:19,61,70,CEA,RD,Davi
+37,4,03:19,61,70,LIM,3_Pts_T,Matheus Dalla
+38,4,03:33,61,70,LIM,substituicao_entra,Matheus Dalla
+39,4,03:33,61,70,LIM,substituicao_sai,Ronald Ramon
+40,4,03:33,61,70,CEA,substituicao_entra,F Fischer
+41,4,03:33,61,70,CEA,substituicao_sai,Socas
+42,4,03:33,61,70,CEA,LL_Pts_C,Socas
+43,4,03:33,60,70,CEA,LL_Pts_T,Socas
+44,4,03:33,60,70,CEA,FR,Socas
+45,4,03:33,60,70,LIM,FC,Bruno Fiorotto
+46,4,03:50,60,70,LIM,AS,Ronald Ramon
+47,4,04:05,60,70,LIM,,
+48,4,04:05,60,70,CEA,ER,Socas
+49,4,04:23,60,70,LIM,AS,Bruno Fiorotto
+50,4,04:35,60,70,LIM,FR,Ronald Ramon
+51,4,04:35,60,70,CEA,FC,Rashaun
+52,4,04:45,60,70,CEA,2_Pts_C,Rashaun
+53,4,05:02,58,70,LIM,ER,Bruno Fiorotto
+54,4,05:20,58,70,CEA,FC,Tiagão
+55,4,05:20,58,70,LIM,BR,Deryk
+56,4,05:20,58,70,CEA,ER,Socas
+57,4,05:20,58,70,CEA,RO,Alexandre
+58,4,05:20,58,70,CEA,3_Pts_T,Rashaun
+59,4,05:40,58,70,CEA,substituicao_entra,Tiagão
+60,4,05:40,58,70,CEA,substituicao_sai,Romulo
+61,4,05:40,58,70,CEA,FR,Rashaun
+62,4,05:40,58,70,LIM,FC_O,Hayes
+63,4,05:50,58,70,LIM,BR,Bruno Fiorotto
+64,4,05:50,58,70,CEA,ER,Davi
+65,4,05:56,58,70,CEA,RD,Alexandre
+66,4,05:56,58,70,LIM,3_Pts_T,Nezinho
+67,4,06:01,58,70,CEA,substituicao_entra,Davi
+68,4,06:01,58,70,CEA,substituicao_sai,F Fischer
+69,4,06:01,58,70,LIM,FR,Hayes
+70,4,06:01,58,70,CEA,FC,Socas
+71,4,06:16,58,70,LIM,RD,Bruno Fiorotto
+72,4,06:16,58,70,CEA,2_Pts_T,Alexandre
+73,4,06:37,58,70,LIM,2_Pts_C,Bruno Fiorotto
+74,4,06:37,58,68,LIM,AS,Deryk
+75,4,07:00,58,68,CEA,LL_Pts_C,Rashaun
+76,4,07:00,57,68,LIM,substituicao_entra,Hayes
+77,4,07:00,57,68,LIM,substituicao_sai,Teichmann
+78,4,07:00,57,68,CEA,2_Pts_C,Rashaun
+79,4,07:00,55,68,CEA,FR,Rashaun
+80,4,07:00,55,68,LIM,FC,Teichmann
+81,4,07:05,55,68,CEA,substituicao_entra,Socas
+82,4,07:05,55,68,CEA,substituicao_sai,Davi
+83,4,07:05,55,68,LIM,FC,Bruno Fiorotto
+84,4,07:26,55,68,LIM,LL_Pts_C,Teichmann
+85,4,07:26,55,67,CEA,substituicao_entra,Alexandre
+86,4,07:26,55,67,CEA,substituicao_entra,Romulo
+87,4,07:26,55,67,CEA,substituicao_sai,Andrezão
+88,4,07:26,55,67,CEA,substituicao_sai,Tiagão
+89,4,07:26,55,67,LIM,2_Pts_C,Teichmann
+90,4,07:26,55,65,LIM,FR,Teichmann
+91,4,07:26,55,65,CEA,FC,Tiagão
+92,4,07:26,55,65,LIM,RO,Teichmann
+93,4,07:26,55,65,LIM,3_Pts_T,Deryk
+94,4,07:34,55,65,CEA,2_Pts_C,F Fischer
+95,4,07:41,53,65,CEA,RO,F Fischer
+96,4,07:41,53,65,LIM,TO,Teichmann
+97,4,07:41,53,65,CEA,2_Pts_T,Andrezão
+98,4,07:55,53,65,LIM,2_Pts_C,Bruno Fiorotto
+99,4,07:59,53,63,LIM,RO,Bruno Fiorotto
+100,4,07:59,53,63,LIM,3_Pts_T,Nezinho
+101,4,08:08,53,63,LIM,RD,Deryk
+102,4,08:08,53,63,CEA,3_Pts_T,Tiagão
+103,4,08:19,53,63,CEA,FR,Davi
+104,4,08:19,53,63,LIM,FC,Nezinho
+105,4,08:21,53,63,CEA,RD,Andrezão
+106,4,08:21,53,63,LIM,2_Pts_T,Ronald Ramon
+107,4,08:37,53,63,CEA,3_Pts_T,F Fischer
+108,4,08:41,53,63,CEA,RD,Davi
+109,4,08:41,53,63,LIM,3_Pts_T,Ronald Ramon
+110,4,09:05,53,63,LIM,RD,Limeira
+111,4,09:05,53,63,CEA,3_Pts_T,Rashaun
+112,4,09:44,53,63,LIM,3_Pts_C,Deryk
+113,4,09:44,53,60,LIM,AS,Teichmann
+114,3,00:00,53,60, ,fim_quarto,
+115,3,00:01,53,60,LIM,2_Pts_C,Nezinho
+116,3,00:22,53,58,LIM,BR,Teichmann
+117,3,00:22,53,58,CEA,ER,F Fischer
+118,3,00:32,53,58,LIM,FC_O,Teichmann
+119,3,00:44,53,58,LIM,RD,Deryk
+120,3,00:44,53,58,CEA,2_Pts_T,Andrezão
+121,3,00:57,53,58,LIM,substituicao_entra,Teichmann
+122,3,00:57,53,58,LIM,substituicao_sai,Matheus Dalla
+123,3,00:57,53,58,LIM,substituicao_entra,Matheus Dalla
+124,3,00:57,53,58,LIM,substituicao_sai,Hayes
+125,3,01:13,53,58,CEA,LL_Pts_C,Davi
+126,3,01:13,52,58,CEA,LL_Pts_C,Davi
+127,3,01:13,51,58,CEA,FR,Davi
+128,3,01:13,51,58,LIM,FC_A,Bruno Fiorotto
+129,3,01:14,51,58,CEA,RD,Davi
+130,3,01:14,51,58,LIM,3_Pts_T,Nezinho
+131,3,01:27,51,58,LIM,RD,Bruno Fiorotto
+132,3,01:27,51,58,CEA,3_Pts_T,Rashaun
+133,3,01:54,51,58,CEA,RD,Rashaun
+134,3,01:54,51,58,LIM,LL_Pts_T,Nezinho
+135,3,01:54,51,58,LIM,LL_Pts_C,Nezinho
+136,3,01:54,51,57,CEA,substituicao_entra,Andrezão
+137,3,01:54,51,57,CEA,substituicao_sai,Socas
+138,3,01:54,51,57,CEA,substituicao_entra,Rashaun
+139,3,01:54,51,57,CEA,substituicao_sai,Victor
+140,3,01:54,51,57,CEA,tempo_tecnico,Basquete Cearense
+141,3,01:54,51,57,LIM,FR,Nezinho
+142,3,01:54,51,57,CEA,FC,Victor
+143,3,01:58,51,57,LIM,RD,Nezinho
+144,3,01:58,51,57,CEA,3_Pts_T,Victor
+145,3,02:23,51,57,LIM,3_Pts_C,Ronald Ramon
+146,3,02:40,51,54,LIM,BR,Hayes
+147,3,02:40,51,54,CEA,ER,Tiagão
+148,3,02:56,51,54,CEA,FR,Socas
+149,3,02:56,51,54,LIM,FC,Hayes
+150,3,02:56,51,54,CEA,RD,Tiagão
+151,3,02:56,51,54,LIM,2_Pts_T,Nezinho
+152,3,03:14,51,54,CEA,substituicao_entra,Victor
+153,3,03:14,51,54,CEA,substituicao_sai,Alexandre
+154,3,03:14,51,54,LIM,RD,Limeira
+155,3,03:14,51,54,CEA,3_Pts_T,Davi
+156,3,03:28,51,54,LIM,substituicao_entra,Deryk
+157,3,03:28,51,54,LIM,substituicao_sai,David Jackson
+158,3,03:28,51,54,CEA,FR,Socas
+159,3,03:28,51,54,LIM,FC,David Jackson
+160,3,03:41,51,54,LIM,3_Pts_C,Ronald Ramon
+161,3,03:41,51,51,LIM,AS,Nezinho
+162,3,03:49,51,51,LIM,RO,Bruno Fiorotto
+163,3,03:49,51,51,LIM,2_Pts_T,Hayes
+164,3,04:06,51,51,LIM,RO,Limeira
+165,3,04:06,51,51,LIM,3_Pts_T,Hayes
+166,3,04:33,51,51,CEA,2_Pts_C,Davi
+167,3,04:33,49,51,CEA,AS,Socas
+168,3,04:38,49,51,CEA,BR,Socas
+169,3,04:38,49,51,LIM,ER,Nezinho
+170,3,04:48,49,51,LIM,RD,Hayes
+171,3,04:48,49,51,CEA,2_Pts_T,Socas
+172,3,05:14,49,51,LIM,3_Pts_T,Hayes
+173,3,05:30,49,51,LIM,LL_Pts_C,Nezinho
+174,3,05:30,49,50,LIM,LL_Pts_C,Nezinho
+175,3,05:30,49,49,LIM,substituicao_entra,Hayes
+176,3,05:30,49,49,LIM,substituicao_entra,Bruno Fiorotto
+177,3,05:30,49,49,LIM,substituicao_sai,Teichmann
+178,3,05:30,49,49,LIM,substituicao_sai,Rafael Mineiro
+179,3,05:30,49,49,LIM,FR,Nezinho
+180,3,05:30,49,49,CEA,FC_A,Tiagão
+181,3,05:30,49,49,LIM,BR,Nezinho
+182,3,05:30,49,49,CEA,ER,F Fischer
+183,3,05:40,49,49,CEA,RD,F Fischer
+184,3,05:40,49,49,LIM,3_Pts_T,David Jackson
+185,3,05:45,49,49,LIM,BR,David Jackson
+186,3,05:45,49,49,CEA,ER,Socas
+187,3,05:55,49,49,CEA,RD,Alexandre
+188,3,05:55,49,49,LIM,3_Pts_T,Ronald Ramon
+189,3,06:04,49,49,LIM,FR,Nezinho
+190,3,06:04,49,49,CEA,FC,Alexandre
+191,3,06:19,49,49,CEA,ER,
+192,3,06:38,49,49,CEA,RO,Davi
+193,3,06:38,49,49,CEA,3_Pts_T,F Fischer
+194,3,06:44,49,49,CEA,BR,F Fischer
+195,3,06:44,49,49,LIM,ER,Rafael Mineiro
+196,3,06:52,49,49,LIM,RD,David Jackson
+197,3,06:52,49,49,CEA,LL_Pts_T,F Fischer
+198,3,06:52,49,49,CEA,2_Pts_C,F Fischer
+199,3,06:52,47,49,CEA,FR,F Fischer
+200,3,06:52,47,49,LIM,FC,Nezinho
+201,3,06:59,47,49,CEA,RD,Tiagão
+202,3,06:59,47,49,LIM,3_Pts_T,Ronald Ramon
+203,3,07:17,47,49,CEA,2_Pts_C,Socas
+204,3,07:28,45,49,CEA,RD,Tiagão
+205,3,07:28,45,49,LIM,2_Pts_T,Rafael Mineiro
+206,3,07:32,45,49,LIM,FR,Teichmann
+207,3,07:32,45,49,CEA,FC,Alexandre
+208,3,07:40,45,49,CEA,LL_Pts_C,Davi
+209,3,07:40,44,49,CEA,LL_Pts_C,Davi
+210,3,07:40,43,49,CEA,FR,Davi
+211,3,07:40,43,49,LIM,FC,Teichmann
+212,3,07:52,43,49,LIM,2_Pts_C,Teichmann
+213,3,07:52,43,47,LIM,AS,Rafael Mineiro
+214,3,08:11,43,47,CEA,3_Pts_C,Tiagão
+215,3,08:11,40,47,CEA,AS,F Fischer
+216,3,08:27,40,47,CEA,RD,Tiagão
+217,3,08:27,40,47,LIM,2_Pts_T,Teichmann
+218,3,08:48,40,47,CEA,substituicao_entra,Tiagão
+219,3,08:48,40,47,CEA,substituicao_sai,Romulo
+220,3,08:48,40,47,LIM,,
+221,3,08:48,40,47,CEA,ER,Socas
+222,3,09:03,40,47,CEA,RD,F Fischer
+223,3,09:03,40,47,LIM,3_Pts_T,Nezinho
+224,3,09:15,40,47,LIM,RD,Teichmann
+225,3,09:15,40,47,CEA,2_Pts_T,Romulo
+226,3,09:40,40,47,CEA,RD,Romulo
+227,3,09:40,40,47,LIM,LL_Pts_T,Teichmann
+228,3,09:40,40,47,LIM,LL_Pts_C,Teichmann
+229,3,09:40,40,46,LIM,FR,Teichmann
+230,3,09:40,40,46,CEA,FC,Romulo
+231,3,09:48,40,46,CEA,3_Pts_C,F Fischer
+232,3,09:48,37,46,CEA,AS,Socas
+233,2,00:00,37,46, ,fim_quarto,
+234,2,00:02,37,46,LIM,3_Pts_C,Ronald Ramon
+235,2,00:02,37,43,LIM,AS,Teichmann
+236,2,00:19,37,43,LIM,RD,Teichmann
+237,2,00:19,37,43,CEA,2_Pts_T,Rashaun
+238,2,00:34,37,43,LIM,substituicao_entra,Matheus Dalla
+239,2,00:34,37,43,LIM,substituicao_sai,David Jackson
+240,2,00:34,37,43,CEA,FR,Rashaun
+241,2,00:34,37,43,LIM,FC,David Jackson
+242,2,00:34,37,43,CEA,RD,Rashaun
+243,2,00:34,37,43,LIM,2_Pts_T,Rafael Mineiro
+244,2,00:47,37,43,LIM,RD,David Jackson
+245,2,00:47,37,43,CEA,2_Pts_T,F Fischer
+246,2,00:51,37,43,LIM,substituicao_entra,Teichmann
+247,2,00:51,37,43,LIM,substituicao_sai,Hayes
+248,2,00:51,37,43,CEA,FR,F Fischer
+249,2,00:51,37,43,LIM,FC,Hayes
+250,2,01:02,37,43,CEA,RD,F Fischer
+251,2,01:02,37,43,LIM,2_Pts_T,Hayes
+252,2,01:17,37,43,LIM,RD,David Jackson
+253,2,01:17,37,43,CEA,3_Pts_T,Andrezão
+254,2,01:29,37,43,LIM,2_Pts_C,Rafael Mineiro
+255,2,01:42,37,41,CEA,2_Pts_C,Davi
+256,2,02:06,35,41,LIM,ER,Hayes
+257,2,02:17,35,41,CEA,substituicao_entra,Andrezão
+258,2,02:17,35,41,CEA,substituicao_sai,Alexandre
+259,2,02:17,35,41,LIM,FR,Nezinho
+260,2,02:17,35,41,CEA,FC,Alexandre
+261,2,02:35,35,41,CEA,3_Pts_C,F Fischer
+262,2,02:35,32,41,CEA,AS,Davi
+263,2,02:50,32,41,LIM,2_Pts_C,Ronald Ramon
+264,2,03:14,32,39,LIM,RD,Rafael Mineiro
+265,2,03:14,32,39,CEA,3_Pts_T,Davi
+266,2,03:28,32,39,CEA,,
+267,2,03:28,32,39,LIM,ER,Nezinho
+268,2,03:34,32,39,CEA,substituicao_entra,Romulo
+269,2,03:34,32,39,CEA,substituicao_sai,Tiagão
+270,2,03:34,32,39,LIM,FR,Hayes
+271,2,03:34,32,39,CEA,FC_O,Tiagão
+272,2,03:42,32,39,CEA,RO,Tiagão
+273,2,03:42,32,39,CEA,2_Pts_T,Alexandre
+274,2,03:58,32,39,LIM,substituicao_entra,Ronald Ramon
+275,2,03:58,32,39,LIM,substituicao_sai,Matheus Dalla
+276,2,03:58,32,39,LIM,substituicao_entra,Rafael Mineiro
+277,2,03:58,32,39,LIM,substituicao_sai,Bruno Fiorotto
+278,2,03:58,32,39,LIM,substituicao_entra,David Jackson
+279,2,03:58,32,39,LIM,substituicao_sai,Deryk
+280,2,03:58,32,39,CEA,FR,Alexandre
+281,2,03:58,32,39,LIM,FC,Hayes
+282,2,03:58,32,39,CEA,BR,Alexandre
+283,2,03:58,32,39,LIM,ER,Nezinho
+284,2,04:10,32,39,LIM,RD,Matheus Dalla
+285,2,04:10,32,39,CEA,3_Pts_T,Tiagão
+286,2,04:19,32,39,CEA,RD,Alexandre
+287,2,04:19,32,39,LIM,2_Pts_T,Bruno Fiorotto
+288,2,04:42,32,39,CEA,2_Pts_C,Davi
+289,2,04:56,30,39,LIM,3_Pts_C,Hayes
+290,2,04:56,30,36,LIM,AS,Nezinho
+291,2,05:09,30,36,LIM,,
+292,2,05:09,30,36,CEA,ER,Tiagão
+293,2,05:20,30,36,CEA,RD,Tiagão
+294,2,05:20,30,36,LIM,3_Pts_T,Matheus Dalla
+295,2,05:39,30,36,CEA,3_Pts_C,Rashaun
+296,2,05:39,27,36,CEA,AS,Davi
+297,2,05:47,27,36,CEA,FR,F Fischer
+298,2,05:47,27,36,LIM,FC,Matheus Dalla
+299,2,05:59,27,36,LIM,2_Pts_C,Matheus Dalla
+300,2,05:59,27,34,LIM,AS,Nezinho
+301,2,06:13,27,34,LIM,FR,Bruno Fiorotto
+302,2,06:13,27,34,CEA,FC,Rashaun
+303,2,06:30,27,34,CEA,3_Pts_C,F Fischer
+304,2,06:30,24,34,CEA,AS,Davi
+305,2,06:48,24,34,LIM,LL_Pts_C,Hayes
+306,2,06:48,24,33,CEA,substituicao_entra,Alexandre
+307,2,06:48,24,33,CEA,substituicao_sai,Andrezão
+308,2,06:48,24,33,LIM,2_Pts_C,Hayes
+309,2,06:48,24,31,LIM,FR,Hayes
+310,2,06:48,24,31,CEA,FC,Andrezão
+311,2,06:51,24,31,LIM,RO,Bruno Fiorotto
+312,2,06:51,24,31,LIM,3_Pts_T,Nezinho
+313,2,07:05,24,31,LIM,substituicao_entra,Bruno Fiorotto
+314,2,07:05,24,31,LIM,substituicao_sai,Teichmann
+315,2,07:05,24,31,CEA,substituicao_entra,F Fischer
+316,2,07:05,24,31,CEA,substituicao_sai,Victor
+317,2,07:05,24,31,CEA,ER,Andrezão
+318,2,07:24,24,31,CEA,RD,Basquete Cearense
+319,2,07:24,24,31,LIM,3_Pts_T,Hayes
+320,2,07:40,24,31,CEA,3_Pts_C,Andrezão
+321,2,07:40,21,31,CEA,AS,Rashaun
+322,2,07:51,21,31,LIM,2_Pts_C,Deryk
+323,2,07:59,21,29,LIM,RD,Hayes
+324,2,07:59,21,29,LIM,TO,Teichmann
+325,2,07:59,21,29,CEA,2_Pts_T,Tiagão
+326,2,08:06,21,29,CEA,RO,Tiagão
+327,2,08:06,21,29,LIM,TO,Teichmann
+328,2,08:06,21,29,CEA,2_Pts_T,Tiagão
+329,2,08:32,21,29,LIM,3_Pts_C,Deryk
+330,2,08:32,21,26,LIM,AS,Teichmann
+331,2,08:45,21,26,CEA,substituicao_entra,Rashaun
+332,2,08:45,21,26,CEA,substituicao_sai,F Fischer
+333,2,08:45,21,26,CEA,tempo_tecnico,Basquete Cearense
+334,2,08:45,21,26,LIM,RD,Limeira
+335,2,08:45,21,26,CEA,2_Pts_T,Andrezão
+336,2,09:08,21,26,LIM,2_Pts_C,Hayes
+337,2,09:26,21,24,LIM,RD,Teichmann
+338,2,09:26,21,24,CEA,3_Pts_T,F Fischer
+339,2,09:49,21,24,LIM,2_Pts_C,Matheus Dalla
+340,2,09:49,21,22,LIM,AS,Teichmann
+341,1,00:00,21,22, ,fim_quarto,
+342,1,00:01,21,22,CEA,3_Pts_T,Victor
+343,1,00:01,21,22,LIM,ER,Deryk
+344,1,00:01,21,22,LIM,RD,Nezinho
+345,1,00:01,21,22,CEA,2_Pts_T,Andrezão
+346,1,00:06,21,22,CEA,RO,Andrezão
+347,1,00:06,21,22,CEA,2_Pts_T,Victor
+348,1,00:30,21,22,LIM,substituicao_entra,Nezinho
+349,1,00:30,21,22,LIM,substituicao_sai,Ronald Ramon
+350,1,00:30,21,22,LIM,LL_Pts_C,Ronald Ramon
+351,1,00:30,21,21,LIM,LL_Pts_C,Ronald Ramon
+352,1,00:30,21,20,LIM,FR,Ronald Ramon
+353,1,00:30,21,20,CEA,FC,F Fischer
+354,1,00:43,21,20,LIM,RD,Teichmann
+355,1,00:43,21,20,CEA,3_Pts_T,Andrezão
+356,1,00:57,21,20,CEA,RD,Andrezão
+357,1,00:57,21,20,LIM,2_Pts_T,Teichmann
+358,1,01:11,21,20,LIM,RD,Hayes
+359,1,01:11,21,20,CEA,LL_Pts_T,Andrezão
+360,1,01:11,21,20,CEA,LL_Pts_T,Andrezão
+361,1,01:11,21,20,LIM,substituicao_entra,Matheus Dalla
+362,1,01:11,21,20,LIM,substituicao_sai,David Jackson
+363,1,01:11,21,20,CEA,FR,Andrezão
+364,1,01:11,21,20,LIM,FC,Ronald Ramon
+365,1,01:17,21,20,CEA,RD,Tiagão
+366,1,01:17,21,20,LIM,2_Pts_T,Hayes
+367,1,01:21,21,20,LIM,substituicao_entra,Hayes
+368,1,01:21,21,20,LIM,substituicao_entra,Teichmann
+369,1,01:21,21,20,LIM,substituicao_sai,Bruno Fiorotto
+370,1,01:21,21,20,LIM,substituicao_sai,Rafael Mineiro
+371,1,01:21,21,20,LIM,FR,David Jackson
+372,1,01:21,21,20,CEA,FC,Victor
+373,1,01:22,21,20,CEA,substituicao_entra,Victor
+374,1,01:24,21,20,CEA,substituicao_sai,Rashaun
+375,1,01:31,21,20,LIM,,
+376,1,01:31,21,20,CEA,ER,Andrezão
+377,1,01:34,21,20,CEA,BR,Andrezão
+378,1,01:34,21,20,LIM,ER,Bruno Fiorotto
+379,1,01:44,21,20,LIM,RD,Bruno Fiorotto
+380,1,01:44,21,20,CEA,2_Pts_T,Andrezão
+381,1,02:10,21,20,CEA,RD,Tiagão
+382,1,02:10,21,20,LIM,LL_Pts_T,Bruno Fiorotto
+383,1,02:10,21,20,LIM,AS,Rafael Mineiro
+384,1,02:10,21,20,LIM,LL_Pts_C,Bruno Fiorotto
+385,1,02:10,21,19,CEA,substituicao_entra,F Fischer
+386,1,02:10,21,19,CEA,substituicao_sai,Socas
+387,1,02:10,21,19,CEA,substituicao_entra,Andrezão
+388,1,02:10,21,19,CEA,substituicao_sai,Erick Camilo
+389,1,02:10,21,19,LIM,FR,Bruno Fiorotto
+390,1,02:10,21,19,CEA,FC,Socas
+391,1,02:25,21,19,LIM,RD,David Jackson
+392,1,02:25,21,19,CEA,3_Pts_T,Davi
+393,1,02:46,21,19,LIM,2_Pts_C,Bruno Fiorotto
+394,1,03:06,21,17,CEA,2_Pts_C,Socas
+395,1,03:23,19,17,LIM,3_Pts_C,Deryk
+396,1,03:23,19,14,LIM,AS,David Jackson
+397,1,03:50,19,14,CEA,substituicao_entra,Erick Camilo
+398,1,03:50,19,14,CEA,substituicao_sai,Andrezão
+399,1,03:50,19,14,LIM,FR,Deryk
+400,1,03:50,19,14,CEA,FC,Andrezão
+401,1,03:51,19,14,LIM,RD,Rafael Mineiro
+402,1,03:51,19,14,CEA,3_Pts_T,Tiagão
+403,1,04:05,19,14,LIM,2_Pts_C,David Jackson
+404,1,04:10,19,12,LIM,BR,David Jackson
+405,1,04:10,19,12,CEA,ER,Socas
+406,1,04:32,19,12,LIM,3_Pts_C,David Jackson
+407,1,04:32,19,9,LIM,AS,Deryk
+408,1,04:50,19,9,CEA,3_Pts_C,Andrezão
+409,1,04:50,16,9,CEA,AS,Tiagão
+410,1,05:03,16,9,CEA,RD,Tiagão
+411,1,05:03,16,9,LIM,2_Pts_T,Ronald Ramon
+412,1,05:15,16,9,LIM,tempo_tecnico,Limeira
+413,1,05:15,16,9,CEA,2_Pts_C,Andrezão
+414,1,05:23,14,9,CEA,BR,Socas
+415,1,05:23,14,9,LIM,ER,Bruno Fiorotto
+416,1,05:29,14,9,LIM,substituicao_entra,Deryk
+417,1,05:29,14,9,LIM,substituicao_sai,Nezinho
+418,1,05:46,14,9,CEA,2_Pts_C,Socas
+419,1,06:08,12,9,LIM,ER,
+420,1,06:08,12,9,LIM,RO,David Jackson
+421,1,06:08,12,9,LIM,2_Pts_T,Nezinho
+422,1,06:35,12,9,CEA,3_Pts_C,Davi
+423,1,06:35,9,9,CEA,AS,Socas
+424,1,06:41,9,9,CEA,RO,Basquete Cearense
+425,1,06:41,9,9,CEA,2_Pts_T,Davi
+426,1,07:00,9,9,CEA,FR,Socas
+427,1,07:00,9,9,LIM,FC_O,Nezinho
+428,1,07:10,9,9,LIM,RD,Bruno Fiorotto
+429,1,07:10,9,9,CEA,2_Pts_T,Rashaun
+430,1,07:19,9,9,LIM,ER,Bruno Fiorotto
+431,1,07:31,9,9,CEA,2_Pts_C,Davi
+432,1,07:48,7,9,LIM,2_Pts_C,Bruno Fiorotto
+433,1,08:00,7,7,CEA,3_Pts_C,Rashaun
+434,1,08:00,4,7,CEA,AS,Socas
+435,1,08:13,4,7,LIM,3_Pts_C,David Jackson
+436,1,08:13,4,4,LIM,AS,Nezinho
+437,1,08:20,4,4,LIM,BR,Rafael Mineiro
+438,1,08:20,4,4,CEA,ER,Andrezão
+439,1,08:41,4,4,LIM,2_Pts_C,David Jackson
+440,1,08:41,4,2,LIM,AS,Rafael Mineiro
+441,1,09:01,4,2,CEA,2_Pts_C,Rashaun
+442,1,09:01,2,2,CEA,AS,Davi
+443,1,09:09,2,2,CEA,FR,Socas
+444,1,09:09,2,2,LIM,FC,David Jackson
+445,1,09:23,2,2,LIM,2_Pts_C,Bruno Fiorotto
+446,1,09:23,2,0,LIM,AS,David Jackson
+447,1,09:44,2,0,CEA,2_Pts_C,Tiagão
+448,1,10:00,0,0,LIM,substituicao_entra,David Jackson
+449,1,10:00,0,0,LIM,substituicao_entra,Nezinho
+450,1,10:00,0,0,LIM,substituicao_entra,Bruno Fiorotto
+451,1,10:00,0,0,LIM,substituicao_entra,Ronald Ramon
+452,1,10:00,0,0,LIM,substituicao_entra,Rafael Mineiro
+453,1,10:00,0,0,CEA,substituicao_entra,Rashaun
+454,1,10:00,0,0,CEA,substituicao_entra,Andrezão
+455,1,10:00,0,0,CEA,substituicao_entra,Tiagão
+456,1,10:00,0,0,CEA,substituicao_entra,Socas
+457,1,10:00,0,0,CEA,substituicao_entra,Davi

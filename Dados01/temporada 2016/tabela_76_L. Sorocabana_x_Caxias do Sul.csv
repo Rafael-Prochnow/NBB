@@ -1,0 +1,515 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,83,70,,fim_partida,
+1,4,00:04,83,70,LSB,tempo_tecnico,
+2,4,00:04,83,70,CAX,ER,
+3,4,00:16,83,70,CAX,FR,Diego
+4,4,00:16,83,70,LSB,FC,Bruno
+5,4,00:18,83,70,LSB,AS,Cafferata
+6,4,00:24,83,70,LSB,EN,Alexandre
+7,4,00:28,81,70,LSB,BR,Lucas
+8,4,00:28,81,70,CAX,ER,Vinícius
+9,4,00:41,81,70,CAX,tempo_tecnico,
+10,4,00:41,81,70,LSB,ER,
+11,4,01:02,81,70,LSB,BR,Ted
+12,4,01:04,81,70,CAX,ER,Marcão
+13,4,01:07,81,70,CAX,BR,Marcão
+14,4,01:08,81,70,LSB,ER,Cafferata
+15,4,01:26,81,70,LSB,RD,Ted
+16,4,01:28,81,70,CAX,3_Pts_T,Vinícius
+17,4,01:38,81,70,CAX,substituicao_entra,Douglas
+18,4,01:38,81,70,CAX,substituicao_sai,Carioca
+19,4,01:38,81,70,CAX,tempo_tecnico,
+20,4,01:38,81,70,LSB,2_Pts_C,Alexandre
+21,4,01:38,79,70,LSB,RO,Alexandre
+22,4,01:38,79,70,LSB,2_Pts_T,Alexandre
+23,4,01:38,79,70,LSB,RO,Alexandre
+24,4,01:38,79,70,LSB,2_Pts_T,Ted
+25,4,02:07,79,70,CAX,2_Pts_C,Vinícius
+26,4,02:31,79,68,LSB,substituicao_entra,Lucas
+27,4,02:31,79,68,LSB,substituicao_sai,J Sobral
+28,4,02:31,79,68,LSB,LL_Pts_C,Cafferata
+29,4,02:31,78,68,LSB,LL_Pts_C,Cafferata
+30,4,02:31,77,68,LSB,FR,Cafferata
+31,4,02:31,77,68,CAX,ER,Vinícius
+32,4,02:31,77,68,CAX,FC_O,Vinícius
+33,4,02:34,77,68,CAX,FC_T,Carioca
+34,4,02:34,77,68,LSB,FC_T,J Sobral
+35,4,02:34,77,68,LSB,FR,Alexandre
+36,4,02:34,77,68,CAX,ER,Marcão
+37,4,02:34,77,68,CAX,FC_O,Marcão
+38,4,02:47,77,68,CAX,substituicao_entra,Carioca
+39,4,02:47,77,68,CAX,substituicao_sai,Arthur
+40,4,02:47,77,68,LSB,ER,
+41,4,03:05,77,68,LSB,RD,Alexandre
+42,4,03:07,77,68,LSB,TO,Alexandre
+43,4,03:11,77,68,CAX,2_Pts_T,Arthur
+44,4,03:27,77,68,LSB,LL_Pts_C,J Sobral
+45,4,03:27,76,68,LSB,LL_Pts_T,J Sobral
+46,4,03:27,76,68,LSB,FR,J Sobral
+47,4,03:27,76,68,CAX,FC,Arthur
+48,4,03:27,76,68,LSB,RD,J Sobral
+49,4,03:31,76,68,CAX,3_Pts_T,Vinícius
+50,4,03:45,76,68,CAX,FR,Vinícius
+51,4,03:45,76,68,LSB,FC,Cafferata
+52,4,03:57,76,68,CAX,substituicao_entra,Diego
+53,4,03:57,76,68,CAX,substituicao_sai,Douglas
+54,4,03:57,76,68,CAX,tempo_tecnico,
+55,4,03:57,76,68,LSB,AS,Bruno
+56,4,03:58,76,68,LSB,3_Pts_C,J Sobral
+57,4,04:12,73,68,LSB,RD,J Sobral
+58,4,04:14,73,68,CAX,2_Pts_T,Marcão
+59,4,04:35,73,68,CAX,RD,Vinícius
+60,4,04:39,73,68,LSB,3_Pts_T,Ted
+61,4,04:44,73,68,LSB,RO,Bruno
+62,4,04:46,73,68,LSB,2_Pts_T,Alexandre
+63,4,05:03,73,68,CAX,2_Pts_C,Arthur
+64,4,05:20,73,66,CAX,RD,R Stabile
+65,4,05:22,73,66,LSB,2_Pts_T,Alexandre
+66,4,05:37,73,66,CAX,AS,Arthur
+67,4,05:43,73,66,CAX,2_Pts_C,Vinícius
+68,4,06:06,73,64,LSB,AS,Cafferata
+69,4,06:06,73,64,LSB,LL_Pts_C,Alexandre
+70,4,06:06,72,64,LSB,LL_Pts_C,Alexandre
+71,4,06:06,71,64,LSB,FR,Alexandre
+72,4,06:06,71,64,CAX,FC,Vinícius
+73,4,06:19,71,64,CAX,LL_Pts_C,R Stabile
+74,4,06:19,71,63,CAX,LL_Pts_T,R Stabile
+75,4,06:19,71,63,LSB,substituicao_entra,Ted
+76,4,06:19,71,63,LSB,substituicao_sai,Castellon
+77,4,06:19,71,63,CAX,FR,R Stabile
+78,4,06:19,71,63,LSB,FC,Castellon
+79,4,06:19,71,63,CAX,2_Pts_T,Marcão
+80,4,06:31,71,63,LSB,AS,Castellon
+81,4,06:31,71,63,LSB,2_Pts_C,Cafferata
+82,4,06:34,69,63,CAX,ER,Vinícius
+83,4,06:37,69,63,LSB,substituicao_entra,Castellon
+84,4,06:37,69,63,LSB,substituicao_sai,Castellon
+85,4,06:37,69,63,CAX,ER,Vinícius
+86,4,06:48,69,63,LSB,ER,
+87,4,06:50,69,63,LSB,RO,L Sorocabana
+88,4,06:51,69,63,LSB,2_Pts_T,J Sobral
+89,4,07:16,69,63,CAX,AS,Douglas
+90,4,07:18,69,63,CAX,3_Pts_C,R Stabile
+91,4,07:32,69,60,LSB,ER,Cafferata
+92,4,07:40,69,60,CAX,ER,Douglas
+93,4,07:41,69,60,CAX,RO,Caxias do Sul
+94,4,07:41,69,60,CAX,2_Pts_T,R Stabile
+95,4,07:44,69,60,CAX,RO,R Stabile
+96,4,07:46,69,60,CAX,3_Pts_T,Vinícius
+97,4,08:02,69,60,CAX,RD,R Stabile
+98,4,08:04,69,60,LSB,3_Pts_T,Castellon
+99,4,08:10,69,60,LSB,RD,Alexandre
+100,4,08:12,69,60,CAX,2_Pts_T,Arthur
+101,4,08:36,69,60,LSB,2_Pts_C,Castellon
+102,4,08:40,67,60,LSB,FR,Cafferata
+103,4,08:40,67,60,CAX,FC,Vinícius
+104,4,08:42,67,60,LSB,FR,Alexandre
+105,4,08:42,67,60,CAX,FC,R Stabile
+106,4,08:48,67,60,LSB,RD,J Sobral
+107,4,08:50,67,60,CAX,3_Pts_T,Douglas
+108,4,09:00,67,60,LSB,AS,Bruno
+109,4,09:00,67,60,LSB,3_Pts_C,Cafferata
+110,4,09:08,64,60,CAX,2_Pts_C,Douglas
+111,4,09:46,64,58,LSB,LL_Pts_C,Cafferata
+112,4,09:46,63,58,LSB,LL_Pts_C,Cafferata
+113,4,09:46,62,58,LSB,FR,Cafferata
+114,4,09:46,62,58,CAX,FC,Douglas
+115,4,10:00,62,58,,inicio_quarto,
+116,4,10:00,62,58,LSB,RD,J Sobral
+117,3,00:00,62,58,,fim_quarto,
+118,3,00:01,62,58,CAX,3_Pts_T,R Stabile
+119,3,00:02,62,58,CAX,RD,R Stabile
+120,3,00:02,62,58,LSB,3_Pts_T,Bruno
+121,3,00:05,62,58,LSB,RD,Castellon
+122,3,00:07,62,58,CAX,2_Pts_T,Douglas
+123,3,00:36,62,58,LSB,3_Pts_C,Cafferata
+124,3,00:51,59,58,CAX,2_Pts_C,R Stabile
+125,3,00:51,59,56,CAX,RO,R Stabile
+126,3,00:51,59,56,CAX,3_Pts_T,Arthur
+127,3,01:15,59,56,CAX,substituicao_entra,Douglas
+128,3,01:15,59,56,CAX,substituicao_sai,Diego
+129,3,01:16,59,56,CAX,RD,Caxias do Sul
+130,3,01:17,59,56,LSB,LL_Pts_T,Alexandre
+131,3,01:17,59,56,LSB,LL_Pts_C,Alexandre
+132,3,01:17,58,56,LSB,FR,Alexandre
+133,3,01:17,58,56,CAX,FC,Diego
+134,3,01:37,58,56,CAX,2_Pts_C,Marcão
+135,3,02:02,58,54,LSB,AS,Cafferata
+136,3,02:07,58,54,LSB,3_Pts_C,Castellon
+137,3,02:18,55,54,CAX,ER,Vinícius
+138,3,02:30,55,54,LSB,ER,Castellon
+139,3,02:52,55,54,CAX,2_Pts_C,Vinícius
+140,3,03:18,55,52,LSB,LL_Pts_C,J Sobral
+141,3,03:18,54,52,LSB,LL_Pts_C,J Sobral
+142,3,03:18,53,52,LSB,FR,J Sobral
+143,3,03:18,53,52,CAX,FC,Arthur
+144,3,03:29,53,52,LSB,substituicao_entra,Cafferata
+145,3,03:29,53,52,LSB,substituicao_sai,Lucas
+146,3,03:31,53,52,LSB,RO,Alexandre
+147,3,03:33,53,52,LSB,2_Pts_T,Lucas
+148,3,03:53,53,52,CAX,LL_Pts_C,Diego
+149,3,03:53,53,51,CAX,LL_Pts_C,Diego
+150,3,03:53,53,50,CAX,FR,Diego
+151,3,03:53,53,50,LSB,FC,J Sobral
+152,3,04:03,53,50,CAX,RD,Marcão
+153,3,04:04,53,50,LSB,LL_Pts_T,Bruno
+154,3,04:04,53,50,LSB,LL_Pts_C,Bruno
+155,3,04:04,52,50,LSB,FR,Bruno
+156,3,04:04,52,50,CAX,FC,Diego
+157,3,04:04,52,50,LSB,RO,Bruno
+158,3,04:04,52,50,CAX,TO,Marcão
+159,3,04:04,52,50,LSB,2_Pts_T,J Sobral
+160,3,04:20,52,50,LSB,substituicao_entra,J Sobral
+161,3,04:20,52,50,LSB,substituicao_sai,Luisinho
+162,3,04:20,52,50,LSB,tempo_tecnico,
+163,3,04:24,52,50,CAX,3_Pts_C,Vinícius
+164,3,04:34,52,47,CAX,RD,R Stabile
+165,3,04:35,52,47,LSB,3_Pts_T,Luisinho
+166,3,04:51,52,47,CAX,AS,Marcão
+167,3,04:53,52,47,CAX,3_Pts_C,Diego
+168,3,05:13,52,44,LSB,ER,
+169,3,05:22,52,44,LSB,substituicao_entra,Castellon
+170,3,05:22,52,44,LSB,substituicao_sai,Cafferata
+171,3,05:58,52,44,CAX,AS,Diego
+172,3,06:07,52,44,CAX,3_Pts_C,Vinícius
+173,3,06:28,52,41,LSB,2_Pts_C,Bruno
+174,3,06:28,50,41,LSB,RO,Luisinho
+175,3,06:28,50,41,LSB,2_Pts_T,Cafferata
+176,3,06:41,50,41,CAX,FC_T,Marcão
+177,3,06:41,50,41,LSB,FC_T,Alexandre
+178,3,06:41,50,41,LSB,substituicao_entra,Alexandre
+179,3,06:41,50,41,LSB,substituicao_sai,Alexandre
+180,3,06:41,50,41,CAX,ER,Marcão
+181,3,06:49,50,41,LSB,substituicao_entra,Alexandre
+182,3,06:49,50,41,LSB,substituicao_sai,Adriano
+183,3,06:49,50,41,LSB,substituicao_entra,Luisinho
+184,3,06:49,50,41,LSB,substituicao_sai,Ted
+185,3,06:49,50,41,CAX,LL_Pts_T,Arthur
+186,3,06:49,50,41,CAX,LL_Pts_T,Arthur
+187,3,06:49,50,41,CAX,FR,Arthur
+188,3,06:49,50,41,LSB,FC_A,Ted
+189,3,06:49,50,41,CAX,FR,Arthur
+190,3,06:49,50,41,LSB,FC,Ted
+191,3,06:54,50,41,CAX,FR,Arthur
+192,3,06:54,50,41,LSB,FC,Ted
+193,3,06:54,50,41,LSB,FR,Ted
+194,3,06:54,50,41,CAX,FC,Arthur
+195,3,07:01,50,41,CAX,RD,Marcão
+196,3,07:02,50,41,LSB,2_Pts_T,Adriano
+197,3,07:12,50,41,LSB,FR,Bruno
+198,3,07:12,50,41,CAX,FC,R Stabile
+199,3,07:17,50,41,CAX,2_Pts_C,R Stabile
+200,3,07:17,50,39,CAX,RO,R Stabile
+201,3,07:20,50,39,CAX,2_Pts_T,Vinícius
+202,3,07:41,50,39,LSB,substituicao_entra,Adriano
+203,3,07:41,50,39,LSB,substituicao_sai,Maique
+204,3,07:41,50,39,CAX,FR,Marcão
+205,3,07:41,50,39,LSB,FC,Maique
+206,3,07:59,50,39,CAX,RD,Diego
+207,3,08:01,50,39,LSB,3_Pts_T,Ted
+208,3,08:14,50,39,CAX,2_Pts_C,Vinícius
+209,3,08:21,50,37,CAX,RD,Arthur
+210,3,08:23,50,37,LSB,2_Pts_T,Lucas
+211,3,08:42,50,37,CAX,LL_Pts_C,Diego
+212,3,08:42,50,36,LSB,substituicao_entra,Bruno
+213,3,08:42,50,36,LSB,substituicao_sai,Alexandre
+214,3,08:42,50,36,CAX,FR,Diego
+215,3,08:42,50,36,LSB,FC,Ted
+216,3,08:42,50,36,CAX,2_Pts_C,Diego
+217,3,08:42,50,34,CAX,RO,Diego
+218,3,08:42,50,34,CAX,2_Pts_T,Arthur
+219,3,09:07,50,34,CAX,RD,Caxias do Sul
+220,3,09:10,50,34,LSB,3_Pts_T,Alexandre
+221,3,09:26,50,34,LSB,BR,Ted
+222,3,09:29,50,34,CAX,ER,Arthur
+223,3,09:36,50,34,CAX,RO,Caxias do Sul
+224,3,09:36,50,34,CAX,2_Pts_T,Marcão
+225,3,10:00,50,34,,inicio_quarto,
+226,2,00:00,50,34,,fim_quarto,
+227,2,00:01,50,34,LSB,2_Pts_T,Ted
+228,2,00:02,50,34,LSB,FR,Cafferata
+229,2,00:02,50,34,CAX,FC,Diego
+230,2,00:13,50,34,CAX,substituicao_entra,Buboltz
+231,2,00:13,50,34,CAX,substituicao_sai,Carioca
+232,2,00:13,50,34,LSB,substituicao_entra,Adriano
+233,2,00:13,50,34,LSB,substituicao_sai,Maique
+234,2,00:13,50,34,CAX,LL_Pts_C,Marcão
+235,2,00:13,50,33,CAX,LL_Pts_C,Marcão
+236,2,00:13,50,32,CAX,FR,Marcão
+237,2,00:13,50,32,LSB,FC,Maique
+238,2,00:15,50,32,LSB,substituicao_entra,J Sobral
+239,2,00:15,50,32,LSB,substituicao_sai,Bruno
+240,2,00:26,50,32,CAX,FR,Diego
+241,2,00:26,50,32,LSB,FC,Bruno
+242,2,00:26,50,32,LSB,substituicao_entra,Cafferata
+243,2,00:26,50,32,LSB,substituicao_sai,J Sobral
+244,2,00:34,50,32,CAX,FR,Vinícius
+245,2,00:34,50,32,LSB,ER,J Sobral
+246,2,00:34,50,32,LSB,FC_O,J Sobral
+247,2,00:38,50,32,CAX,2_Pts_C,Marcão
+248,2,00:38,50,30,CAX,RO,Marcão
+249,2,00:43,50,30,CAX,2_Pts_T,Vinícius
+250,2,00:56,50,30,CAX,BR,Vinícius
+251,2,01:05,50,30,LSB,ER,Lucas
+252,2,01:16,50,30,CAX,substituicao_entra,R Stabile
+253,2,01:16,50,30,CAX,substituicao_sai,Arthur
+254,2,01:16,50,30,LSB,substituicao_entra,J Sobral
+255,2,01:16,50,30,LSB,substituicao_sai,Castellon
+256,2,01:16,50,30,LSB,RD,L Sorocabana
+257,2,01:19,50,30,CAX,3_Pts_T,Vinícius
+258,2,01:32,50,30,CAX,RD,Arthur
+259,2,01:35,50,30,LSB,2_Pts_T,Castellon
+260,2,02:02,50,30,LSB,substituicao_entra,Castellon
+261,2,02:02,50,30,LSB,substituicao_sai,Luisinho
+262,2,02:02,50,30,LSB,tempo_tecnico,
+263,2,02:02,50,30,CAX,ER,Marcão
+264,2,02:04,50,30,CAX,RD,Vinícius
+265,2,02:07,50,30,LSB,2_Pts_T,Luisinho
+266,2,02:17,50,30,LSB,BR,Ted
+267,2,02:20,50,30,CAX,ER,Diego
+268,2,02:37,50,30,LSB,substituicao_entra,Bruno
+269,2,02:37,50,30,LSB,substituicao_sai,Castellon
+270,2,02:37,50,30,LSB,ER,Lucas
+271,2,02:55,50,30,CAX,EN,Marcão
+272,2,03:00,50,28,CAX,RO,Marcão
+273,2,03:02,50,28,CAX,2_Pts_T,Arthur
+274,2,03:04,50,28,CAX,RO,Arthur
+275,2,03:06,50,28,LSB,TO,Maique
+276,2,03:09,50,28,CAX,2_Pts_T,Diego
+277,2,03:23,50,28,LSB,AS,Cafferata
+278,2,03:23,50,28,LSB,LL_Pts_C,Maique
+279,2,03:23,49,28,LSB,LL_Pts_T,Maique
+280,2,03:23,49,28,LSB,substituicao_entra,Lucas
+281,2,03:23,49,28,LSB,substituicao_sai,Cafferata
+282,2,03:23,49,28,LSB,FR,Maique
+283,2,03:23,49,28,CAX,FC,Diego
+284,2,03:38,49,28,CAX,2_Pts_C,Vinícius
+285,2,03:55,49,26,LSB,substituicao_entra,Castellon
+286,2,03:55,49,26,LSB,substituicao_sai,Alexandre
+287,2,03:55,49,26,CAX,FR,Diego
+288,2,03:55,49,26,LSB,FC,Alexandre
+289,2,04:07,49,26,LSB,EN,Luisinho
+290,2,04:19,47,26,CAX,2_Pts_C,Arthur
+291,2,04:42,47,24,CAX,substituicao_entra,Diego
+292,2,04:42,47,24,CAX,substituicao_sai,Douglas
+293,2,04:48,47,24,LSB,3_Pts_C,Cafferata
+294,2,05:03,44,24,LSB,RD,Maique
+295,2,05:05,44,24,CAX,2_Pts_T,Arthur
+296,2,05:38,44,24,LSB,2_Pts_C,Alexandre
+297,2,05:49,42,24,LSB,RD,Maique
+298,2,05:51,42,24,CAX,2_Pts_T,Marcão
+299,2,05:58,42,24,LSB,AS,Alexandre
+300,2,06:05,42,24,LSB,3_Pts_C,Luisinho
+301,2,06:08,39,24,LSB,RD,Maique
+302,2,06:10,39,24,LSB,TO,Maique
+303,2,06:15,39,24,CAX,3_Pts_T,Carioca
+304,2,06:30,39,24,LSB,AS,Cafferata
+305,2,06:32,39,24,CAX,tempo_tecnico,
+306,2,06:33,39,24,LSB,3_Pts_C,Ted
+307,2,06:38,36,24,LSB,RD,Alexandre
+308,2,06:41,36,24,CAX,2_Pts_T,Douglas
+309,2,06:49,36,24,CAX,substituicao_entra,Vinícius
+310,2,06:49,36,24,CAX,substituicao_sai,Fred
+311,2,06:49,36,24,CAX,RO,Caxias do Sul
+312,2,06:49,36,24,LSB,TO,Alexandre
+313,2,06:49,36,24,CAX,2_Pts_T,Fred
+314,2,07:01,36,24,CAX,RD,Douglas
+315,2,07:04,36,24,LSB,3_Pts_T,Luisinho
+316,2,07:18,36,24,LSB,FR,Luisinho
+317,2,07:18,36,24,CAX,FC,Carioca
+318,2,07:26,36,24,LSB,substituicao_entra,Alexandre
+319,2,07:26,36,24,LSB,substituicao_sai,Leandro
+320,2,07:26,36,24,CAX,2_Pts_C,Carioca
+321,2,07:28,36,22,CAX,BR,Carioca
+322,2,07:31,36,22,LSB,ER,Leandro
+323,2,07:41,36,22,CAX,substituicao_entra,Arthur
+324,2,07:41,36,22,CAX,substituicao_sai,R Stabile
+325,2,07:41,36,22,CAX,ER,Fred
+326,2,07:56,36,22,LSB,AS,Cafferata
+327,2,07:58,36,22,LSB,3_Pts_C,Ted
+328,2,08:02,33,22,LSB,BR,Cafferata
+329,2,08:05,33,22,CAX,ER,R Stabile
+330,2,08:16,33,22,LSB,substituicao_entra,Leandro
+331,2,08:16,33,22,LSB,substituicao_sai,Alexandre
+332,2,08:16,33,22,CAX,FR,Douglas
+333,2,08:16,33,22,LSB,FC,Alexandre
+334,2,08:17,33,22,CAX,RD,Douglas
+335,2,08:18,33,22,LSB,2_Pts_T,Alexandre
+336,2,08:27,33,22,LSB,RD,Alexandre
+337,2,08:29,33,22,CAX,3_Pts_T,R Stabile
+338,2,08:56,33,22,LSB,AS,Maique
+339,2,08:57,33,22,LSB,3_Pts_C,Ted
+340,2,09:23,30,22,CAX,2_Pts_C,R Stabile
+341,2,09:43,30,20,LSB,AS,Alexandre
+342,2,09:45,30,20,LSB,2_Pts_C,Maique
+343,2,10:00,28,20,,inicio_quarto,
+344,1,00:00,28,20,,fim_quarto,
+345,1,00:02,28,20,LSB,RD,Leandro
+346,1,00:02,28,20,CAX,3_Pts_T,Carioca
+347,1,00:11,28,20,LSB,LL_Pts_C,Maique
+348,1,00:11,27,20,LSB,LL_Pts_C,Maique
+349,1,00:11,26,20,LSB,FR,Maique
+350,1,00:11,26,20,CAX,FC,Dida
+351,1,00:13,26,20,CAX,LL_Pts_T,Carioca
+352,1,00:13,26,20,CAX,LL_Pts_C,Carioca
+353,1,00:13,26,19,CAX,FR,Carioca
+354,1,00:13,26,19,LSB,FC,Maique
+355,1,00:13,26,19,CAX,BR,Carioca
+356,1,00:13,26,19,LSB,ER,Luisinho
+357,1,00:19,26,19,LSB,substituicao_entra,Maique
+358,1,00:19,26,19,LSB,substituicao_sai,Lucão
+359,1,00:26,26,19,LSB,RD,Leandro
+360,1,00:28,26,19,CAX,3_Pts_T,R Stabile
+361,1,00:41,26,19,CAX,RO,R Stabile
+362,1,00:43,26,19,CAX,3_Pts_T,Douglas
+363,1,00:56,26,19,LSB,LL_Pts_C,Lucas
+364,1,00:56,25,19,LSB,LL_Pts_T,Lucas
+365,1,00:56,25,19,LSB,FR,Lucas
+366,1,00:56,25,19,CAX,FC,Fred
+367,1,01:00,25,19,LSB,substituicao_entra,Leandro
+368,1,01:00,25,19,LSB,substituicao_sai,Adriano
+369,1,01:00,25,19,CAX,LL_Pts_C,Carioca
+370,1,01:00,25,18,CAX,LL_Pts_C,Carioca
+371,1,01:00,25,17,CAX,FR,Carioca
+372,1,01:00,25,17,LSB,FC,Luisinho
+373,1,01:01,25,17,LSB,AS,Lucas
+374,1,01:03,25,17,LSB,2_Pts_C,Maique
+375,1,01:20,23,17,CAX,LL_Pts_C,Carioca
+376,1,01:20,23,16,CAX,LL_Pts_C,Carioca
+377,1,01:20,23,15,CAX,FR,Carioca
+378,1,01:20,23,15,LSB,FC,Lucas
+379,1,01:21,23,15,LSB,AS,Lucas
+380,1,01:23,23,15,LSB,2_Pts_C,Luisinho
+381,1,01:32,21,15,LSB,RO,Lucas
+382,1,01:34,21,15,LSB,2_Pts_T,Lucas
+383,1,01:57,21,15,LSB,RD,L Sorocabana
+384,1,01:57,21,15,CAX,LL_Pts_T,Dida
+385,1,01:57,21,15,CAX,LL_Pts_T,Dida
+386,1,01:57,21,15,CAX,FR,Dida
+387,1,01:57,21,15,LSB,FC,Lucão
+388,1,02:11,21,15,LSB,substituicao_entra,Lucão
+389,1,02:11,21,15,LSB,substituicao_sai,Castellon
+390,1,02:11,21,15,LSB,substituicao_entra,Luisinho
+391,1,02:11,21,15,LSB,substituicao_sai,J Sobral
+392,1,02:11,21,15,CAX,substituicao_entra,Douglas
+393,1,02:11,21,15,CAX,substituicao_sai,Arthur
+394,1,02:11,21,15,CAX,tempo_tecnico,
+395,1,02:11,21,15,LSB,ER,J Sobral
+396,1,02:13,21,15,LSB,BR,Lucas
+397,1,02:17,21,15,CAX,ER,Dida
+398,1,02:20,21,15,LSB,AS,J Sobral
+399,1,02:22,21,15,LSB,2_Pts_C,Lucas
+400,1,02:35,19,15,CAX,LL_Pts_C,Fred
+401,1,02:35,19,14,CAX,LL_Pts_T,Fred
+402,1,02:35,19,14,CAX,FR,Fred
+403,1,02:35,19,14,LSB,FC,Castellon
+404,1,02:49,19,14,CAX,BR,R Stabile
+405,1,02:52,19,14,LSB,ER,J Sobral
+406,1,03:15,19,14,CAX,3_Pts_C,Fred
+407,1,03:20,19,11,CAX,RD,Arthur
+408,1,03:21,19,11,CAX,substituicao_entra,Arthur
+409,1,03:21,19,11,CAX,substituicao_sai,Arthur
+410,1,03:21,19,11,LSB,LL_Pts_T,J Sobral
+411,1,03:21,19,11,LSB,LL_Pts_C,J Sobral
+412,1,03:21,18,11,CAX,substituicao_entra,Dida
+413,1,03:21,18,11,CAX,substituicao_sai,Marcão
+414,1,03:21,18,11,LSB,FR,J Sobral
+415,1,03:21,18,11,CAX,FC,Arthur
+416,1,03:25,18,11,CAX,2_Pts_C,Fred
+417,1,03:32,18,9,LSB,2_Pts_C,Lucas
+418,1,03:48,16,9,LSB,AS,Lucas
+419,1,03:48,16,9,LSB,LL_Pts_T,J Sobral
+420,1,03:48,16,9,LSB,LL_Pts_C,J Sobral
+421,1,03:48,15,9,LSB,FR,J Sobral
+422,1,03:48,15,9,CAX,FC_A,Marcão
+423,1,03:50,15,9,LSB,RD,Adriano
+424,1,03:52,15,9,CAX,3_Pts_T,Marcão
+425,1,03:54,15,9,LSB,substituicao_entra,J Sobral
+426,1,03:54,15,9,LSB,substituicao_sai,Alexandre
+427,1,03:54,15,9,CAX,RO,Caxias do Sul
+428,1,03:58,15,9,CAX,3_Pts_T,Arthur
+429,1,04:07,15,9,CAX,RD,Caxias do Sul
+430,1,04:10,15,9,LSB,3_Pts_T,Adriano
+431,1,04:28,15,9,CAX,substituicao_entra,Fred
+432,1,04:28,15,9,CAX,substituicao_sai,Vinícius
+433,1,04:28,15,9,LSB,substituicao_entra,Ted
+434,1,04:28,15,9,LSB,substituicao_sai,Cafferata
+435,1,04:28,15,9,LSB,BR,Lucas
+436,1,04:28,15,9,CAX,ER,Vinícius
+437,1,04:36,15,9,LSB,AS,Castellon
+438,1,04:39,15,9,LSB,3_Pts_C,Lucas
+439,1,04:53,12,9,CAX,AS,Vinícius
+440,1,04:57,12,9,CAX,2_Pts_C,Carioca
+441,1,05:03,12,7,CAX,RD,Vinícius
+442,1,05:04,12,7,LSB,LL_Pts_T,Alexandre
+443,1,05:04,12,7,LSB,LL_Pts_T,Alexandre
+444,1,05:04,12,7,LSB,FR,Alexandre
+445,1,05:04,12,7,CAX,FC,R Stabile
+446,1,05:24,12,7,CAX,ER,Arthur
+447,1,05:30,12,7,LSB,LL_Pts_C,Lucas
+448,1,05:30,11,7,LSB,FR,Lucas
+449,1,05:30,11,7,CAX,FC,Vinícius
+450,1,05:30,11,7,LSB,2_Pts_C,Lucas
+451,1,05:44,9,7,CAX,AS,Carioca
+452,1,05:46,9,7,CAX,3_Pts_C,Marcão
+453,1,05:51,9,4,CAX,RD,R Stabile
+454,1,05:53,9,4,LSB,2_Pts_T,Alexandre
+455,1,05:57,9,4,LSB,RO,Alexandre
+456,1,05:59,9,4,LSB,3_Pts_T,Castellon
+457,1,06:18,9,4,CAX,LL_Pts_C,Marcão
+458,1,06:18,9,3,CAX,LL_Pts_C,Marcão
+459,1,06:18,9,2,CAX,FR,Marcão
+460,1,06:18,9,2,LSB,FC,Adriano
+461,1,06:18,9,2,LSB,substituicao_entra,Adriano
+462,1,06:18,9,2,LSB,substituicao_sai,Bruno
+463,1,06:19,9,2,CAX,FR,Marcão
+464,1,06:19,9,2,LSB,FC,Bruno
+465,1,06:20,9,2,CAX,RD,Marcão
+466,1,06:22,9,2,LSB,2_Pts_T,Bruno
+467,1,06:23,9,2,LSB,RO,Bruno
+468,1,06:34,9,2,LSB,2_Pts_T,Lucas
+469,1,06:55,9,2,CAX,LL_Pts_C,Carioca
+470,1,06:55,9,1,CAX,LL_Pts_C,Carioca
+471,1,06:55,9,0,CAX,FR,Carioca
+472,1,06:55,9,0,LSB,FC,Castellon
+473,1,07:16,9,0,LSB,3_Pts_C,Bruno
+474,1,07:27,6,0,LSB,RD,Cafferata
+475,1,07:30,6,0,CAX,2_Pts_T,Marcão
+476,1,07:41,6,0,CAX,RO,Marcão
+477,1,07:44,6,0,CAX,2_Pts_T,Vinícius
+478,1,07:54,6,0,CAX,FR,Arthur
+479,1,07:54,6,0,LSB,FC,Bruno
+480,1,08:02,6,0,LSB,AS,Cafferata
+481,1,08:04,6,0,LSB,3_Pts_C,Castellon
+482,1,08:07,3,0,CAX,ER,Arthur
+483,1,08:10,3,0,CAX,BR,Arthur
+484,1,08:13,3,0,LSB,ER,Bruno
+485,1,08:27,3,0,LSB,RD,Bruno
+486,1,08:29,3,0,CAX,2_Pts_T,Marcão
+487,1,08:34,3,0,CAX,RO,Caxias do Sul
+488,1,08:37,3,0,CAX,2_Pts_T,Vinícius
+489,1,08:42,3,0,CAX,FR,Carioca
+490,1,08:42,3,0,LSB,FC,Cafferata
+491,1,08:43,3,0,CAX,RO,Carioca
+492,1,08:45,3,0,CAX,2_Pts_T,Marcão
+493,1,08:48,3,0,CAX,RO,Marcão
+494,1,08:49,3,0,CAX,2_Pts_T,Carioca
+495,1,09:06,3,0,LSB,AS,Lucas
+496,1,09:07,3,0,LSB,3_Pts_C,Cafferata
+497,1,09:13,0,0,LSB,RD,Lucas
+498,1,09:16,0,0,CAX,2_Pts_T,Marcão
+499,1,09:31,0,0,CAX,BR,R Stabile
+500,1,09:35,0,0,LSB,ER,Cafferata
+501,1,09:46,0,0,LSB,FR,Lucas
+502,1,09:46,0,0,CAX,ER,Carioca
+503,1,09:46,0,0,CAX,FC_O,Carioca
+504,1,10:00,0,0,LSB,substituicao_entra,Cafferata
+505,1,10:00,0,0,LSB,substituicao_entra,Alexandre
+506,1,10:00,0,0,LSB,substituicao_entra,Bruno
+507,1,10:00,0,0,LSB,substituicao_entra,Castellon
+508,1,10:00,0,0,LSB,substituicao_entra,Lucas
+509,1,10:00,0,0,CAX,substituicao_entra,Arthur
+510,1,10:00,0,0,CAX,substituicao_entra,R Stabile
+511,1,10:00,0,0,CAX,substituicao_entra,Marcão
+512,1,10:00,0,0,CAX,substituicao_entra,Vinícius
+513,1,10:00,0,0,CAX,substituicao_entra,Carioca

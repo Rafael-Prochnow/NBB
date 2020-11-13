@@ -1,0 +1,473 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,71,77, ,fim_partida,
+1,4,00:05,71,77,PAL,tempo_tecnico,Palmeiras
+2,4,00:05,71,77,PAL,,
+3,4,00:05,71,77,BRA,ER,Osimani
+4,4,00:08,71,77,BRA,3_Pts_T,Osimani
+5,4,00:08,71,77,BRA,RD,Osimani
+6,4,00:08,71,77,PAL,2_Pts_T,Wiggins
+7,4,00:08,71,77,PAL,RO,Wiggins
+8,4,00:08,71,77,PAL,2_Pts_T,Tiagão
+9,4,00:08,71,77,BRA,tempo_tecnico,Brasília
+10,4,00:08,71,77,PAL,LL_Pts_C,Neto
+11,4,00:08,71,76,PAL,LL_Pts_C,Neto
+12,4,00:11,71,75,PAL,FR,Neto
+13,4,00:11,71,75,BRA,FC,Isaac
+14,4,00:17,71,75,PAL,RO,Marcão
+15,4,00:17,71,75,PAL,LL_Pts_T,Neto
+16,4,00:17,71,75,PAL,LL_Pts_C,Neto
+17,4,00:17,71,74,PAL,FR,Neto
+18,4,00:17,71,74,BRA,FC,Arthur
+19,4,00:24,71,74,PAL,RD,Marcão
+20,4,00:24,71,74,BRA,2_Pts_T,Arthur
+21,4,00:30,71,74,BRA,RD,Isaac
+22,4,00:30,71,74,PAL,LL_Pts_T,Caleb Brown
+23,4,00:30,71,74,PAL,LL_Pts_C,Caleb Brown
+24,4,00:32,71,73,PAL,FR,Caleb Brown
+25,4,00:32,71,73,BRA,FC,Arthur
+26,4,00:50,71,73,BRA,2_Pts_C,Goree
+27,4,00:55,69,73,BRA,RO,Goree
+28,4,00:55,69,73,BRA,2_Pts_T,Arthur
+29,4,01:02,69,73,BRA,substituicao_entra,Isaac
+30,4,01:02,69,73,BRA,substituicao_sai,Nezinho
+31,4,01:02,69,73,PAL,substituicao_entra,Neto
+32,4,01:02,69,73,PAL,substituicao_sai,Guto
+33,4,01:02,69,73,PAL,FR,Caleb Brown
+34,4,01:02,69,73,BRA,FC,Nezinho
+35,4,01:05,69,73,BRA,RD,Goree
+36,4,01:05,69,73,PAL,LL_Pts_T,Caleb Brown
+37,4,01:05,69,73,PAL,LL_Pts_T,Caleb Brown
+38,4,01:30,69,73,BRA,3_Pts_C,Nezinho
+39,4,01:35,66,73,BRA,substituicao_sai,Ronald
+40,4,01:35,66,73,BRA,substituicao_entra,Goree
+41,4,01:37,66,73,BRA,tempo_tecnico,Brasília
+42,4,01:37,66,73,BRA,FR,Nezinho
+43,4,01:37,66,73,PAL,FC_O,Caleb Brown
+44,4,01:57,66,73,PAL,RD,Guto
+45,4,01:57,66,73,BRA,3_Pts_T,G Giovannoni
+46,4,02:11,66,73,PAL,LL_Pts_C,Caleb Brown
+47,4,02:11,66,72,BRA,substituicao_entra,Ronald
+48,4,02:11,66,72,BRA,substituicao_sai,Goree
+49,4,02:11,66,72,PAL,2_Pts_C,Caleb Brown
+50,4,02:11,66,70,PAL,FR,Caleb Brown
+51,4,02:11,66,70,BRA,FC,Nezinho
+52,4,02:36,66,70,PAL,RD,Tiagão
+53,4,02:36,66,70,BRA,3_Pts_T,Goree
+54,4,02:50,66,70,PAL,ER,Tiagão
+55,4,03:07,66,70,PAL,RD,Guto
+56,4,03:07,66,70,BRA,2_Pts_T,Goree
+57,4,03:25,66,70,PAL,2_Pts_C,Wiggins
+58,4,03:41,66,68,BRA,2_Pts_C,G Giovannoni
+59,4,03:41,64,68,BRA,AS,Nezinho
+60,4,03:59,64,68,PAL,3_Pts_C,Tiagão
+61,4,03:59,64,65,PAL,AS,Guto
+62,4,04:18,64,65,BRA,3_Pts_C,G Giovannoni
+63,4,04:18,61,65,BRA,AS,Osimani
+64,4,04:25,61,65,BRA,FR,Osimani
+65,4,04:25,61,65,PAL,FC,Marcão
+66,4,04:28,61,65,BRA,RD,Osimani
+67,4,04:28,61,65,PAL,3_Pts_T,Marcão
+68,4,04:41,61,65,BRA,2_Pts_C,G Giovannoni
+69,4,04:47,59,65,BRA,RO,G Giovannoni
+70,4,04:47,59,65,BRA,3_Pts_T,Arthur
+71,4,05:00,59,65,BRA,FR,Nezinho
+72,4,05:00,59,65,PAL,FC,Caleb Brown
+73,4,05:13,59,65,PAL,substituicao_entra,Caleb Brown
+74,4,05:13,59,65,PAL,substituicao_sai,Thyago Aleo
+75,4,05:13,59,65,PAL,substituicao_sai,Dos Santos
+76,4,05:13,59,65,PAL,substituicao_entra,Marcão
+77,4,05:13,59,65,BRA,substituicao_entra,G Giovannoni
+78,4,05:13,59,65,BRA,substituicao_sai,Ronald
+79,4,05:13,59,65,PAL,ER,
+80,4,05:14,59,65,PAL,2_Pts_T,Dos Santos
+81,4,05:38,59,65,PAL,FR,Thyago Aleo
+82,4,05:38,59,65,BRA,FC,Arthur
+83,4,05:41,59,65,PAL,BR,Thyago Aleo
+84,4,05:41,59,65,BRA,ER,Osimani
+85,4,05:58,59,65,PAL,2_Pts_C,Thyago Aleo
+86,4,06:03,59,63,PAL,RO,Thyago Aleo
+87,4,06:03,59,63,PAL,2_Pts_T,Dos Santos
+88,4,06:15,59,63,BRA,substituicao_sai,G Giovannoni
+89,4,06:15,59,63,BRA,substituicao_entra,Ronald
+90,4,06:15,59,63,PAL,FR,Wiggins
+91,4,06:15,59,63,BRA,FC,Nezinho
+92,4,06:28,59,63,PAL,RD,Dos Santos
+93,4,06:28,59,63,BRA,3_Pts_T,G Giovannoni
+94,4,06:39,59,63,BRA,RD,Goree
+95,4,06:39,59,63,PAL,2_Pts_T,Dos Santos
+96,4,06:58,59,63,PAL,RD,Dos Santos
+97,4,06:58,59,63,BRA,3_Pts_T,Arthur
+98,4,07:14,59,63,PAL,2_Pts_C,Tiagão
+99,4,07:14,59,61,PAL,AS,Thyago Aleo
+100,4,07:23,59,61,PAL,RD,Dos Santos
+101,4,07:23,59,61,BRA,2_Pts_T,Osimani
+102,4,07:31,59,61,BRA,FR,Goree
+103,4,07:31,59,61,PAL,FC,Thyago Aleo
+104,4,07:38,59,61,BRA,RO,Osimani
+105,4,07:38,59,61,PAL,TO,Wiggins
+106,4,07:38,59,61,BRA,3_Pts_T,Arthur
+107,4,07:52,59,61,BRA,,
+108,4,07:52,59,61,PAL,ER,Dos Santos
+109,4,08:12,59,61,BRA,2_Pts_C,Goree
+110,4,08:31,57,61,PAL,2_Pts_C,Wiggins
+111,4,08:48,57,59,BRA,2_Pts_C,G Giovannoni
+112,4,08:54,55,59,BRA,RO,G Giovannoni
+113,4,08:54,55,59,BRA,3_Pts_T,Nezinho
+114,4,09:05,55,59,BRA,RD,Brasília
+115,4,09:05,55,59,PAL,2_Pts_T,Guto
+116,4,09:11,55,59,PAL,FR,Dos Santos
+117,4,09:11,55,59,BRA,FC,Goree
+118,4,09:29,55,59,PAL,RD,Guto
+119,4,09:29,55,59,BRA,2_Pts_T,Osimani
+120,4,09:51,55,59,BRA,RD,Goree
+121,4,09:51,55,59,PAL,3_Pts_T,Guto
+122,3,00:00,55,59, ,fim_quarto,
+123,3,00:00,55,59,PAL,3_Pts_T,Thyago Aleo
+124,3,00:03,55,59,PAL,RD,Dos Santos
+125,3,00:03,55,59,BRA,3_Pts_T,Nezinho
+126,3,00:10,55,59,PAL,substituicao_sai,Caleb Brown
+127,3,00:10,55,59,PAL,substituicao_entra,Thyago Aleo
+128,3,00:10,55,59,BRA,substituicao_sai,Ronald
+129,3,00:10,55,59,BRA,substituicao_entra,G Giovannoni
+130,3,00:11,55,59,BRA,tempo_tecnico,Brasília
+131,3,00:11,55,59,PAL,ER,
+132,3,00:36,55,59,PAL,,
+133,3,00:36,55,59,BRA,ER,Nezinho
+134,3,00:40,55,59,BRA,RD,Ronald
+135,3,00:40,55,59,PAL,2_Pts_T,Caleb Brown
+136,3,00:52,55,59,BRA,substituicao_sai,G Giovannoni
+137,3,00:52,55,59,BRA,substituicao_entra,Ronald
+138,3,01:11,55,59,PAL,RD,Guto
+139,3,01:11,55,59,BRA,3_Pts_T,Goree
+140,3,01:16,55,59,BRA,FR,Nezinho
+141,3,01:16,55,59,PAL,FC,Tiagão
+142,3,01:27,55,59,PAL,2_Pts_C,Wiggins
+143,3,01:47,55,57,BRA,2_Pts_C,Goree
+144,3,02:05,53,57,PAL,2_Pts_C,Tiagão
+145,3,02:07,53,55,PAL,RO,Tiagão
+146,3,02:07,53,55,PAL,LL_Pts_T,Tiagão
+147,3,02:07,53,55,PAL,LL_Pts_C,Tiagão
+148,3,02:07,53,54,PAL,FR,Tiagão
+149,3,02:07,53,54,BRA,FC,G Giovannoni
+150,3,02:17,53,54,PAL,RD,Palmeiras
+151,3,02:17,53,54,BRA,3_Pts_T,Nezinho
+152,3,02:31,53,54,PAL,2_Pts_C,Tiagão
+153,3,02:37,53,52,PAL,RO,Tiagão
+154,3,02:37,53,52,PAL,3_Pts_T,Caleb Brown
+155,3,02:53,53,52,PAL,substituicao_entra,Guto
+156,3,02:53,53,52,PAL,substituicao_sai,Neto
+157,3,02:53,53,52,PAL,FR,Caleb Brown
+158,3,02:53,53,52,BRA,FC,Nezinho
+159,3,03:14,53,52,PAL,BR,Dos Santos
+160,3,03:14,53,52,BRA,ER,Osimani
+161,3,03:22,53,52,BRA,RD,Goree
+162,3,03:22,53,52,PAL,2_Pts_T,Neto
+163,3,03:44,53,52,BRA,2_Pts_C,Goree
+164,3,04:00,51,52,BRA,substituicao_entra,Nezinho
+165,3,04:00,51,52,BRA,substituicao_entra,Arthur
+166,3,04:00,51,52,BRA,substituicao_sai,Bruno Felipe
+167,3,04:00,51,52,BRA,substituicao_sai,Maxwell
+168,3,04:00,51,52,PAL,ER,Wiggins
+169,3,04:03,51,52,PAL,BR,Wiggins
+170,3,04:03,51,52,BRA,ER,Bruno Felipe
+171,3,04:17,51,52,PAL,3_Pts_C,Caleb Brown
+172,3,04:25,51,49,PAL,FR,Caleb Brown
+173,3,04:25,51,49,BRA,FC,Bruno Felipe
+174,3,04:28,51,49,PAL,substituicao_entra,Dos Santos
+175,3,04:28,51,49,PAL,substituicao_sai,Marcão
+176,3,04:33,51,49,PAL,RD,Palmeiras
+177,3,04:33,51,49,BRA,3_Pts_T,Osimani
+178,3,04:51,51,49,PAL,2_Pts_C,Caleb Brown
+179,3,05:03,51,47,BRA,EN,Goree
+180,3,05:03,49,47,BRA,AS,Bruno Felipe
+181,3,05:17,49,47,BRA,BR,Bruno Felipe
+182,3,05:17,49,47,PAL,ER,Marcão
+183,3,05:41,49,47,BRA,substituicao_entra,Bruno Felipe
+184,3,05:41,49,47,BRA,substituicao_entra,Maxwell
+185,3,05:41,49,47,BRA,substituicao_sai,Nezinho
+186,3,05:41,49,47,BRA,substituicao_sai,Arthur
+187,3,05:41,49,47,BRA,LL_Pts_C,Goree
+188,3,05:41,48,47,BRA,FR,Goree
+189,3,05:41,48,47,PAL,FC,Neto
+190,3,05:41,48,47,BRA,2_Pts_C,Goree
+191,3,05:57,46,47,PAL,2_Pts_C,Tiagão
+192,3,06:03,46,45,PAL,RO,Tiagão
+193,3,06:03,46,45,PAL,2_Pts_T,Tiagão
+194,3,06:13,46,45,PAL,RD,Caleb Brown
+195,3,06:13,46,45,BRA,3_Pts_T,Nezinho
+196,3,06:16,46,45,BRA,FR,Nezinho
+197,3,06:16,46,45,PAL,FC,Marcão
+198,3,06:19,46,45,PAL,2_Pts_C,Wiggins
+199,3,06:26,46,43,PAL,RO,Wiggins
+200,3,06:26,46,43,PAL,2_Pts_T,Caleb Brown
+201,3,06:48,46,43,BRA,3_Pts_C,Osimani
+202,3,06:48,43,43,BRA,AS,Nezinho
+203,3,07:00,43,43,BRA,RD,G Giovannoni
+204,3,07:00,43,43,PAL,2_Pts_T,Tiagão
+205,3,07:10,43,43,PAL,substituicao_sai,Curnell
+206,3,07:10,43,43,PAL,substituicao_entra,Wiggins
+207,3,07:10,43,43,PAL,FR,Marcão
+208,3,07:10,43,43,BRA,FC,G Giovannoni
+209,3,07:11,43,43,PAL,2_Pts_T,Caleb Brown
+210,3,07:17,43,43,PAL,RD,Marcão
+211,3,07:17,43,43,BRA,2_Pts_T,Osimani
+212,3,07:22,43,43,BRA,BR,Osimani
+213,3,07:22,43,43,PAL,ER,Curnell
+214,3,07:27,43,43,PAL,RD,Curnell
+215,3,07:27,43,43,BRA,2_Pts_T,Goree
+216,3,07:46,43,43,PAL,3_Pts_C,Neto
+217,3,08:07,43,40,PAL,tempo_tecnico,Palmeiras
+218,3,08:07,43,40,BRA,2_Pts_C,G Giovannoni
+219,3,08:07,41,40,BRA,AS,Osimani
+220,3,08:14,41,40,BRA,RD,Osimani
+221,3,08:14,41,40,PAL,3_Pts_T,Caleb Brown
+222,3,08:31,41,40,PAL,FR,Neto
+223,3,08:31,41,40,BRA,FC,Osimani
+224,3,08:42,41,40,BRA,2_Pts_C,Arthur
+225,3,08:42,39,40,BRA,AS,Osimani
+226,3,08:50,39,40,BRA,RD,Osimani
+227,3,08:50,39,40,BRA,TO,Goree
+228,3,08:50,39,40,PAL,2_Pts_T,Curnell
+229,3,08:55,39,40,PAL,RO,Palmeiras
+230,3,08:55,39,40,BRA,TO,Goree
+231,3,08:55,39,40,PAL,2_Pts_T,Caleb Brown
+232,3,09:09,39,40,BRA,3_Pts_C,Nezinho
+233,3,09:16,36,40,BRA,FR,Nezinho
+234,3,09:16,36,40,PAL,FC,Neto
+235,3,09:20,36,40,BRA,BR,Nezinho
+236,3,09:20,36,40,PAL,ER,Tiagão
+237,3,09:44,36,40,BRA,2_Pts_C,G Giovannoni
+238,3,09:44,34,40,BRA,AS,Osimani
+239,2,00:00,34,40, ,fim_quarto,
+240,2,00:00,34,40,BRA,substituicao_entra,Bruno Felipe
+241,2,00:02,34,40,PAL,RD,Wiggins
+242,2,00:02,34,40,BRA,2_Pts_T,Goree
+243,2,00:04,34,40,BRA,RO,Goree
+244,2,00:04,34,40,BRA,3_Pts_T,G Giovannoni
+245,2,00:04,34,40,BRA,substituicao_entra,Maxwell
+246,2,00:05,34,40,BRA,substituicao_sai,Nezinho
+247,2,00:05,34,40,BRA,substituicao_sai,Arthur
+248,2,00:17,34,40,PAL,RD,Palmeiras
+249,2,00:17,34,40,BRA,2_Pts_T,G Giovannoni
+250,2,00:20,34,40,BRA,,
+251,2,00:20,34,40,PAL,ER,Wiggins
+252,2,00:28,34,40,BRA,RO,G Giovannoni
+253,2,00:28,34,40,BRA,2_Pts_T,G Giovannoni
+254,2,00:34,34,40,BRA,RO,G Giovannoni
+255,2,00:34,34,40,BRA,2_Pts_T,G Giovannoni
+256,2,00:51,34,40,BRA,RD,Nezinho
+257,2,00:51,34,40,PAL,3_Pts_T,Guto
+258,2,01:15,34,40,PAL,RD,Dos Santos
+259,2,01:15,34,40,BRA,2_Pts_T,Nezinho
+260,2,01:24,34,40,BRA,substituicao_entra,Nezinho
+261,2,01:24,34,40,BRA,substituicao_entra,Arthur
+262,2,01:24,34,40,BRA,substituicao_sai,Bruno Felipe
+263,2,01:24,34,40,BRA,substituicao_sai,Maxwell
+264,2,01:24,34,40,PAL,substituicao_entra,Caleb Brown
+265,2,01:24,34,40,PAL,substituicao_sai,Thyago Aleo
+266,2,01:35,34,40,BRA,RO,Osimani
+267,2,01:35,34,40,BRA,3_Pts_T,Goree
+268,2,01:44,34,40,BRA,RD,Maxwell
+269,2,01:44,34,40,PAL,2_Pts_T,Thyago Aleo
+270,2,01:52,34,40,PAL,FR,Thyago Aleo
+271,2,01:52,34,40,BRA,FC,Bruno Felipe
+272,2,01:52,34,40,PAL,substituicao_sai,Marcão
+273,2,01:52,34,40,PAL,substituicao_entra,Wiggins
+274,2,01:52,34,40,BRA,substituicao_entra,Bruno Felipe
+275,2,01:52,34,40,BRA,substituicao_entra,Maxwell
+276,2,01:52,34,40,BRA,substituicao_sai,Nezinho
+277,2,01:52,34,40,BRA,substituicao_sai,Arthur
+278,2,01:52,34,40,PAL,tempo_tecnico,Palmeiras
+279,2,01:52,34,40,BRA,3_Pts_C,Arthur
+280,2,02:01,31,40,PAL,RO,Guto
+281,2,02:01,31,40,PAL,2_Pts_T,Marcão
+282,2,02:10,31,40,PAL,BR,Guto
+283,2,02:10,31,40,BRA,ER,Nezinho
+284,2,02:17,31,40,BRA,RD,G Giovannoni
+285,2,02:17,31,40,BRA,TO,Nezinho
+286,2,02:17,31,40,PAL,2_Pts_T,Thyago Aleo
+287,2,02:44,31,40,PAL,RD,Dos Santos
+288,2,02:44,31,40,BRA,2_Pts_T,G Giovannoni
+289,2,02:54,31,40,BRA,,
+290,2,02:54,31,40,PAL,ER,Thyago Aleo
+291,2,03:22,31,40,BRA,3_Pts_C,Arthur
+292,2,03:32,28,40,BRA,FR,Nezinho
+293,2,03:32,28,40,PAL,FC,Thyago Aleo
+294,2,03:36,28,40,BRA,RD,Arthur
+295,2,03:36,28,40,PAL,2_Pts_T,Thyago Aleo
+296,2,03:55,28,40,BRA,LL_Pts_C,G Giovannoni
+297,2,03:55,27,40,BRA,LL_Pts_C,G Giovannoni
+298,2,03:55,26,40,BRA,FR,G Giovannoni
+299,2,03:55,26,40,PAL,FC,Marcão
+300,2,04:11,26,40,PAL,substituicao_sai,Caleb Brown
+301,2,04:11,26,40,PAL,substituicao_entra,Thyago Aleo
+302,2,04:13,26,40,BRA,tempo_tecnico,Brasília
+303,2,04:13,26,40,PAL,2_Pts_C,Marcão
+304,2,04:13,26,38,PAL,AS,Caleb Brown
+305,2,04:27,26,38,PAL,RD,Neto
+306,2,04:27,26,38,BRA,2_Pts_T,Nezinho
+307,2,04:31,26,38,BRA,RO,Brasília
+308,2,04:31,26,38,PAL,TO,Caleb Brown
+309,2,04:31,26,38,BRA,2_Pts_T,Nezinho
+310,2,04:39,26,38,BRA,RD,Osimani
+311,2,04:39,26,38,PAL,3_Pts_T,Guto
+312,2,04:47,26,38,PAL,RD,Palmeiras
+313,2,04:47,26,38,BRA,3_Pts_T,Arthur
+314,2,05:01,26,38,PAL,2_Pts_C,Dos Santos
+315,2,05:09,26,36,PAL,RD,Caleb Brown
+316,2,05:09,26,36,BRA,2_Pts_T,Goree
+317,2,05:24,26,36,PAL,2_Pts_C,Neto
+318,2,05:46,26,34,PAL,RD,Dos Santos
+319,2,05:46,26,34,BRA,3_Pts_T,Arthur
+320,2,06:03,26,34,PAL,substituicao_entra,Guto
+321,2,06:03,26,34,PAL,substituicao_sai,Wiggins
+322,2,06:09,26,34,PAL,3_Pts_C,Wiggins
+323,2,06:09,26,31,PAL,AS,Caleb Brown
+324,2,06:34,26,31,BRA,3_Pts_C,G Giovannoni
+325,2,06:34,23,31,BRA,AS,Arthur
+326,2,06:47,23,31,PAL,2_Pts_C,Caleb Brown
+327,2,06:47,23,29,PAL,AS,Dos Santos
+328,2,07:12,23,29,PAL,,
+329,2,07:12,23,29,BRA,ER,Goree
+330,2,07:21,23,29,BRA,FR,G Giovannoni
+331,2,07:21,23,29,PAL,FC,Marcão
+332,2,07:25,23,29,PAL,tempo_tecnico,Palmeiras
+333,2,07:25,23,29,BRA,,
+334,2,07:25,23,29,PAL,ER,Neto
+335,2,07:27,23,29,PAL,substituicao_sai,Tiagão
+336,2,07:27,23,29,PAL,substituicao_entra,Marcão
+337,2,07:44,23,29,PAL,RD,Wiggins
+338,2,07:44,23,29,BRA,3_Pts_T,G Giovannoni
+339,2,07:53,23,29,BRA,RD,Goree
+340,2,07:53,23,29,PAL,2_Pts_T,Dos Santos
+341,2,08:15,23,29,BRA,3_Pts_C,Nezinho
+342,2,08:26,20,29,PAL,2_Pts_C,Dos Santos
+343,2,08:47,20,27,BRA,3_Pts_C,Nezinho
+344,2,09:05,17,27,BRA,RD,Arthur
+345,2,09:05,17,27,PAL,2_Pts_T,Neto
+346,2,09:17,17,27,PAL,RD,Tiagão
+347,2,09:17,17,27,BRA,2_Pts_T,Goree
+348,2,10:00,17,27,BRA,RD,Arthur
+349,2,10:00,17,27,PAL,2_Pts_T,Tiagão
+350,1,00:00,17,27, ,fim_quarto,
+351,1,00:05,17,27,BRA,RO,Ronald
+352,1,00:05,17,27,BRA,3_Pts_T,Nezinho
+353,1,00:08,17,27,BRA,RO,Brasília
+354,1,00:08,17,27,PAL,TO,Wiggins
+355,1,00:08,17,27,BRA,2_Pts_T,Arthur
+356,1,00:17,17,27,BRA,RO,Brasília
+357,1,00:17,17,27,BRA,3_Pts_T,Nezinho
+358,1,00:38,17,27,BRA,RD,Brasília
+359,1,00:38,17,27,PAL,3_Pts_T,Neto
+360,1,01:01,17,27,BRA,3_Pts_C,Nezinho
+361,1,01:03,14,27,PAL,,
+362,1,01:03,14,27,PAL,LL_Pts_T,Dos Santos
+363,1,01:03,14,27,PAL,LL_Pts_C,Dos Santos
+364,1,01:03,14,26,PAL,FR,Dos Santos
+365,1,01:03,14,26,BRA,FC,Ronald
+366,1,01:14,14,26,PAL,RO,Dos Santos
+367,1,01:14,14,26,PAL,2_Pts_T,Dos Santos
+368,1,01:19,14,26,PAL,RO,Dos Santos
+369,1,01:19,14,26,PAL,2_Pts_T,Caleb Brown
+370,1,01:27,14,26,PAL,FR,Wiggins
+371,1,01:27,14,26,BRA,FC,Arthur
+372,1,01:37,14,26,PAL,RD,Wiggins
+373,1,01:37,14,26,PAL,TO,Wiggins
+374,1,01:37,14,26,BRA,2_Pts_T,Ronald
+375,1,01:53,14,26,PAL,2_Pts_C,Tiagão
+376,1,02:14,14,24,PAL,substituicao_sai,Marcão
+377,1,02:14,14,24,PAL,substituicao_entra,Dos Santos
+378,1,02:14,14,24,PAL,FR,Neto
+379,1,02:14,14,24,BRA,FC,G Giovannoni
+380,1,02:42,14,24,BRA,tempo_tecnico,Brasília
+381,1,02:42,14,24,PAL,,
+382,1,02:42,14,24,BRA,ER,Nezinho
+383,1,02:42,14,24,PAL,2_Pts_C,Neto
+384,1,02:42,14,22,PAL,3_Pts_C,Neto
+385,1,02:42,14,19,PAL,RO,Neto
+386,1,02:42,14,19,PAL,3_Pts_T,Tiagão
+387,1,02:42,14,19,BRA,3_Pts_C,Arthur
+388,1,02:42,11,19,BRA,AS,Nezinho
+389,1,03:44,11,19,PAL,RD,Tiagão
+390,1,03:44,11,19,BRA,3_Pts_T,Nezinho
+391,1,03:52,11,19,BRA,RD,Ronald
+392,1,03:52,11,19,PAL,2_Pts_T,Tiagão
+393,1,04:06,11,19,BRA,LL_Pts_C,Ronald
+394,1,04:06,10,19,BRA,AS,Isaac
+395,1,04:06,10,19,BRA,LL_Pts_C,Ronald
+396,1,04:06,9,19,BRA,FR,Ronald
+397,1,04:06,9,19,PAL,FC,Tiagão
+398,1,04:31,9,19,PAL,3_Pts_C,Caleb Brown
+399,1,04:31,9,16,PAL,AS,Neto
+400,1,04:45,9,16,PAL,RD,Wiggins
+401,1,04:45,9,16,BRA,3_Pts_T,G Giovannoni
+402,1,04:57,9,16,PAL,2_Pts_C,Wiggins
+403,1,05:02,9,14,PAL,RO,Wiggins
+404,1,05:02,9,14,PAL,3_Pts_T,Tiagão
+405,1,05:16,9,14,BRA,2_Pts_C,G Giovannoni
+406,1,05:41,7,14,BRA,RD,Isaac
+407,1,05:41,7,14,PAL,LL_Pts_T,Neto
+408,1,05:41,7,14,PAL,2_Pts_C,Neto
+409,1,05:41,7,12,PAL,FR,Neto
+410,1,05:41,7,12,BRA,FC,Isaac
+411,1,05:43,7,12,PAL,,
+412,1,05:43,7,12,BRA,ER,Nezinho
+413,1,05:50,7,12,BRA,RD,Ronald
+414,1,05:50,7,12,PAL,2_Pts_T,Caleb Brown
+415,1,06:10,7,12,BRA,3_Pts_C,Isaac
+416,1,06:10,4,12,BRA,AS,G Giovannoni
+417,1,06:19,4,12,BRA,RO,G Giovannoni
+418,1,06:19,4,12,BRA,2_Pts_T,G Giovannoni
+419,1,06:35,4,12,PAL,ER,Tiagão
+420,1,06:57,4,12,PAL,substituicao_entra,Tiagão
+421,1,06:57,4,12,PAL,substituicao_sai,Curnell
+422,1,06:57,4,12,PAL,FR,Curnell
+423,1,06:57,4,12,BRA,FC_O,G Giovannoni
+424,1,07:00,4,12,BRA,FR,Arthur
+425,1,07:00,4,12,PAL,FC,Curnell
+426,1,07:23,4,12,PAL,2_Pts_C,Neto
+427,1,07:23,4,10,PAL,AS,Marcão
+428,1,07:28,4,10,PAL,BR,Marcão
+429,1,07:28,4,10,BRA,ER,Ronald
+430,1,07:39,4,10,BRA,RD,Arthur
+431,1,07:39,4,10,PAL,2_Pts_T,Caleb Brown
+432,1,07:48,4,10,PAL,RD,Curnell
+433,1,07:48,4,10,BRA,2_Pts_T,Arthur
+434,1,08:02,4,10,PAL,2_Pts_C,Curnell
+435,1,08:10,4,8,PAL,RD,Curnell
+436,1,08:10,4,8,BRA,2_Pts_T,Isaac
+437,1,08:19,4,8,PAL,RO,Palmeiras
+438,1,08:19,4,8,BRA,TO,Ronald
+439,1,08:28,4,8,PAL,3_Pts_C,Curnell
+440,1,08:28,4,5,PAL,AS,Caleb Brown
+441,1,08:45,4,5,BRA,2_Pts_C,Ronald
+442,1,08:45,2,5,BRA,AS,Nezinho
+443,1,09:01,2,5,PAL,2_Pts_C,Wiggins
+444,1,09:07,2,3,PAL,RO,Wiggins
+445,1,09:07,2,3,PAL,2_Pts_T,Curnell
+446,1,09:23,2,3,PAL,,
+447,1,09:23,2,3,BRA,ER,Ronald
+448,1,09:29,2,3,BRA,RD,G Giovannoni
+449,1,09:29,2,3,PAL,2_Pts_T,Wiggins
+450,1,09:51,2,3,BRA,AS,Nezinho
+451,1,09:51,2,3,BRA,LL_Pts_C,Ronald
+452,1,09:51,1,3,BRA,LL_Pts_C,Ronald
+453,1,09:51,0,3,BRA,FR,Ronald
+454,1,09:51,0,3,PAL,FC,Curnell
+455,1,10:00,0,3,BRA,FR,G Giovannoni
+456,1,10:00,0,3,PAL,FC,Tiagão
+457,1,10:00,0,3,PAL,LL_Pts_C,Neto
+458,1,10:00,0,2,PAL,FR,Neto
+459,1,10:00,0,2,BRA,FC,Nezinho
+460,1,10:00,0,2,PAL,2_Pts_C,Neto
+461,1,10:00,0,0,PAL,AS,Tiagão
+462,1,10:00,0,0,PAL,substituicao_entra,Curnell
+463,1,10:00,0,0,PAL,substituicao_entra,Wiggins
+464,1,10:00,0,0,PAL,substituicao_entra,Neto
+465,1,10:00,0,0,PAL,substituicao_entra,Marcão
+466,1,10:00,0,0,PAL,substituicao_entra,Caleb Brown
+467,1,10:00,0,0,BRA,substituicao_entra,Nezinho
+468,1,10:00,0,0,BRA,substituicao_entra,G Giovannoni
+469,1,10:00,0,0,BRA,substituicao_entra,Isaac
+470,1,10:00,0,0,BRA,substituicao_entra,Ronald
+471,1,10:00,0,0,BRA,substituicao_entra,Arthur

@@ -1,0 +1,522 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,67,74, ,fim_partida,
+1,4,00:12,67,74,PIN,RD,Felipe
+2,4,00:12,67,74,PAL,3_Pts_T,Jhonatan
+3,4,00:17,67,74,PIN,LL_Pts_C,Joe Smith
+4,4,00:17,67,73,PIN,LL_Pts_C,Joe Smith
+5,4,00:17,67,72,PIN,FR,Joe Smith
+6,4,00:17,67,72,PAL,FC,Neto
+7,4,00:23,67,72,PIN,tempo_tecnico,Pinheiros
+8,4,00:23,67,72,PIN,RD,Pinheiros
+9,4,00:23,67,72,PAL,3_Pts_T,Jhonatan
+10,4,00:26,67,72,PAL,tempo_tecnico,Palmeiras
+11,4,00:26,67,72,PIN,LL_Pts_C,Felipe
+12,4,00:26,67,71,PIN,LL_Pts_T,Felipe
+13,4,00:26,67,71,PAL,substituicao_entra,Locke
+14,4,00:26,67,71,PAL,substituicao_sai,Maxi Stanic
+15,4,00:26,67,71,PIN,FR,Felipe
+16,4,00:26,67,71,PAL,FC,Maxi Stanic
+17,4,00:30,67,71,PAL,3_Pts_T,Jhonatan
+18,4,00:40,67,71,PIN,2_Pts_C,Toledo
+19,4,00:40,67,69,PIN,AS,Joe Smith
+20,4,00:48,67,69,PIN,RD,Toledo
+21,4,00:48,67,69,PAL,2_Pts_T,Jhonatan
+22,4,00:55,67,69,PAL,RD,Neto
+23,4,00:55,67,69,PIN,2_Pts_T,Jason Smith
+24,4,01:10,67,69,PIN,tempo_tecnico,Pinheiros
+25,4,01:10,67,69,PAL,LL_Pts_C,Maxi Stanic
+26,4,01:10,66,69,PAL,LL_Pts_C,Maxi Stanic
+27,4,01:10,65,69,PAL,FR,Maxi Stanic
+28,4,01:10,65,69,PIN,FC,Toledo
+29,4,01:12,65,69,PAL,RD,Maxi Stanic
+30,4,01:12,65,69,PIN,3_Pts_T,Felipe
+31,4,01:37,65,69,PIN,RD,Felipe
+32,4,01:37,65,69,PAL,LL_Pts_T,Toyloy
+33,4,01:37,65,69,PAL,LL_Pts_T,Toyloy
+34,4,01:37,65,69,PIN,TO,Joe Smith
+35,4,01:37,65,69,PAL,FR,Toyloy
+36,4,01:37,65,69,PIN,FC,Felipe
+37,4,01:43,65,69,PAL,RO,Toyloy
+38,4,01:43,65,69,PAL,2_Pts_T,Maxi Stanic
+39,4,01:54,65,69,PIN,2_Pts_T,Joe Smith
+40,4,02:28,65,69,PAL,2_Pts_C,Neto
+41,4,02:33,63,69,PAL,,
+42,4,02:33,63,69,PIN,ER,Jason Smith
+43,4,02:33,63,69,PAL,3_Pts_T,Maxi Stanic
+44,4,02:41,63,69,PIN,LL_Pts_C,Jason Smith
+45,4,02:41,63,68,PIN,FR,Jason Smith
+46,4,02:41,63,68,PAL,FC,Neto
+47,4,02:41,63,68,PIN,2_Pts_C,Jason Smith
+48,4,02:41,63,66,PIN,AS,Joe Smith
+49,4,02:46,63,66,PIN,RD,Jason Smith
+50,4,02:46,63,66,PAL,3_Pts_T,Neto
+51,4,02:52,63,66,PAL,RO,Maxi Stanic
+52,4,02:52,63,66,PAL,3_Pts_T,Neto
+53,4,03:07,63,66,PIN,2_Pts_C,André Bambu
+54,4,03:07,63,64,PIN,AS,Joe Smith
+55,4,03:14,63,64,PIN,FR,Felipe
+56,4,03:14,63,64,PAL,FC,Fabricio
+57,4,03:28,63,64,PAL,2_Pts_C,Toyloy
+58,4,03:28,61,64,PAL,AS,Neto
+59,4,03:43,61,64,PAL,,
+60,4,03:43,61,64,PIN,ER,Felipe
+61,4,03:56,61,64,PAL,2_Pts_C,Toyloy
+62,4,03:58,59,64,PAL,RO,Toyloy
+63,4,03:58,59,64,PAL,LL_Pts_T,Toyloy
+64,4,03:58,59,64,PAL,AS,Neto
+65,4,03:58,59,64,PAL,LL_Pts_C,Toyloy
+66,4,03:58,58,64,PAL,FR,Toyloy
+67,4,03:58,58,64,PIN,FC,Toledo
+68,4,04:12,58,64,PAL,RD,Palmeiras
+69,4,04:12,58,64,PIN,3_Pts_T,Jason Smith
+70,4,04:27,58,64,PIN,FR,André Bambu
+71,4,04:27,58,64,PAL,FC,Fabricio
+72,4,04:45,58,64,PIN,RD,Toledo
+73,4,04:45,58,64,PAL,2_Pts_T,Maxi Stanic
+74,4,04:50,58,64,PAL,RO,Toyloy
+75,4,04:50,58,64,PAL,3_Pts_T,Fabricio
+76,4,05:07,58,64,PAL,substituicao_sai,Marone
+77,4,05:07,58,64,PAL,substituicao_entra,Jhonatan
+78,4,05:07,58,64,PAL,tempo_tecnico,Palmeiras
+79,4,05:07,58,64,PIN,3_Pts_C,Joe Smith
+80,4,05:07,58,61,PIN,AS,Toledo
+81,4,05:19,58,61,PIN,BR,Toledo
+82,4,05:19,58,61,PAL,ER,Maxi Stanic
+83,4,05:32,58,61,PIN,2_Pts_C,Felipe
+84,4,05:47,58,59,PIN,RD,André Bambu
+85,4,05:47,58,59,PAL,LL_Pts_T,Neto
+86,4,05:47,58,59,PAL,LL_Pts_T,Neto
+87,4,05:47,58,59,PAL,FR,Neto
+88,4,05:47,58,59,PIN,FC,Jason Smith
+89,4,05:59,58,59,PIN,2_Pts_C,Jason Smith
+90,4,06:08,58,57,PIN,FR,Joe Smith
+91,4,06:08,58,57,PAL,FC,Maxi Stanic
+92,4,06:17,58,57,PAL,2_Pts_C,Neto
+93,4,06:17,56,57,PAL,AS,Toyloy
+94,4,06:21,56,57,PAL,BR,Toyloy
+95,4,06:21,56,57,PIN,ER,Jason Smith
+96,4,06:31,56,57,PIN,tempo_tecnico,Pinheiros
+97,4,06:31,56,57,PAL,LL_Pts_C,Maxi Stanic
+98,4,06:31,55,57,PAL,LL_Pts_C,Maxi Stanic
+99,4,06:31,54,57,PAL,FR,Maxi Stanic
+100,4,06:31,54,57,PIN,FC,Felipe
+101,4,06:47,54,57,PAL,RO,Marone
+102,4,06:47,54,57,PAL,2_Pts_T,Marone
+103,4,06:58,54,57,PAL,RD,Toyloy
+104,4,06:58,54,57,PIN,3_Pts_T,Joe Smith
+105,4,07:15,54,57,PAL,LL_Pts_C,Maxi Stanic
+106,4,07:15,53,57,PAL,LL_Pts_T,Maxi Stanic
+107,4,07:15,53,57,PAL,FR,Maxi Stanic
+108,4,07:15,53,57,PIN,FC,Joe Smith
+109,4,07:32,53,57,PIN,2_Pts_C,André Bambu
+110,4,07:32,53,55,PIN,AS,Jason Smith
+111,4,07:49,53,55,PAL,LL_Pts_C,Toyloy
+112,4,07:49,52,55,PIN,substituicao_entra,André Bambu
+113,4,07:49,52,55,PIN,substituicao_entra,Jason Smith
+114,4,07:49,52,55,PIN,substituicao_entra,Joe Smith
+115,4,07:49,52,55,PIN,substituicao_sai,Ted Simões
+116,4,07:49,52,55,PIN,substituicao_sai,Humberto
+117,4,07:49,52,55,PIN,substituicao_sai,J Campos
+118,4,07:49,52,55,PAL,FR,Toyloy
+119,4,07:49,52,55,PIN,FC,Toledo
+120,4,07:49,52,55,PAL,EN,Toyloy
+121,4,07:49,50,55,PAL,AS,Maxi Stanic
+122,4,07:56,50,55,PAL,FR,Maxi Stanic
+123,4,07:56,50,55,PIN,FC,Humberto
+124,4,08:02,50,55,PAL,substituicao_sai,Jhonatan
+125,4,08:02,50,55,PAL,substituicao_entra,Marone
+126,4,08:02,50,55,PAL,FR,Maxi Stanic
+127,4,08:02,50,55,PIN,FC,Humberto
+128,4,08:02,50,55,PIN,2_Pts_C,Felipe
+129,4,08:08,50,53,PIN,RO,Felipe
+130,4,08:08,50,53,PIN,2_Pts_T,Ted Simões
+131,4,08:13,50,53,PIN,RD,Humberto
+132,4,08:13,50,53,PAL,2_Pts_T,Fabricio
+133,4,08:19,50,53,PAL,RO,Fabricio
+134,4,08:19,50,53,PAL,3_Pts_T,Jhonatan
+135,4,08:34,50,53,PIN,ER,Ted Simões
+136,4,08:46,50,53,PAL,2_Pts_C,Maxi Stanic
+137,4,08:58,48,53,PAL,FR,Toyloy
+138,4,08:58,48,53,PIN,FC,Toledo
+139,4,09:00,48,53,PAL,RO,Toyloy
+140,4,09:00,48,53,PAL,2_Pts_T,Neto
+141,4,09:21,48,53,PIN,LL_Pts_C,Felipe
+142,4,09:21,48,52,PIN,LL_Pts_C,Felipe
+143,4,09:21,48,51,PAL,substituicao_sai,Átila Dos Santos
+144,4,09:21,48,51,PAL,substituicao_entra,Toyloy
+145,4,09:21,48,51,PIN,FR,Felipe
+146,4,09:21,48,51,PAL,FC,Jhonatan
+147,4,09:27,48,51,PIN,RO,Pinheiros
+148,4,09:27,48,51,PIN,3_Pts_T,Humberto
+149,4,09:42,48,51,PIN,RO,Ted Simões
+150,4,09:42,48,51,PIN,2_Pts_T,J Campos
+151,3,00:00,48,51, ,fim_quarto,
+152,3,00:03,48,51,PIN,3_Pts_T,Joe Smith
+153,3,00:08,48,51,PIN,substituicao_entra,Joe Smith
+154,3,00:08,48,51,PIN,substituicao_sai,André Bambu
+155,3,00:08,48,51,PIN,,
+156,3,00:08,48,51,PAL,ER,Neto
+157,3,00:29,48,51,PAL,RD,Átila Dos Santos
+158,3,00:29,48,51,PIN,3_Pts_T,J Campos
+159,3,00:50,48,51,PAL,LL_Pts_C,Neto
+160,3,00:50,47,51,PAL,LL_Pts_C,Neto
+161,3,00:50,46,51,PAL,substituicao_entra,Átila Dos Santos
+162,3,00:50,46,51,PAL,substituicao_sai,Toyloy
+163,3,00:50,46,51,PAL,substituicao_entra,Marone
+164,3,00:50,46,51,PAL,substituicao_sai,Jhonatan
+165,3,00:50,46,51,PIN,substituicao_sai,Felipe
+166,3,00:50,46,51,PIN,substituicao_entra,Toledo
+167,3,00:50,46,51,PAL,FR,Neto
+168,3,00:50,46,51,PIN,FC,Felipe
+169,3,00:50,46,51,PAL,BR,Neto
+170,3,00:50,46,51,PIN,ER,Felipe
+171,3,01:17,46,51,PIN,RD,Humberto
+172,3,01:17,46,51,PAL,2_Pts_T,Neto
+173,3,01:25,46,51,PAL,RD,Toyloy
+174,3,01:25,46,51,PIN,3_Pts_T,J Campos
+175,3,01:29,46,51,PAL,substituicao_entra,Neto
+176,3,01:29,46,51,PAL,substituicao_sai,Maxi Stanic
+177,3,01:49,46,51,PIN,BR,André Bambu
+178,3,01:49,46,51,PAL,ER,Jhonatan
+179,3,01:57,46,51,PAL,RO,Jhonatan
+180,3,01:57,46,51,PAL,3_Pts_T,Fabricio
+181,3,02:14,46,51,PIN,2_Pts_C,Felipe
+182,3,02:24,46,49,PAL,LL_Pts_C,Maxi Stanic
+183,3,02:24,45,49,PAL,substituicao_entra,Locke
+184,3,02:24,45,49,PAL,substituicao_sai,Neto
+185,3,02:24,45,49,PIN,substituicao_entra,Ted Simões
+186,3,02:24,45,49,PIN,substituicao_entra,Humberto
+187,3,02:24,45,49,PIN,substituicao_entra,J Campos
+188,3,02:24,45,49,PIN,substituicao_sai,Toledo
+189,3,02:24,45,49,PIN,substituicao_sai,Jason Smith
+190,3,02:24,45,49,PIN,substituicao_sai,Joe Smith
+191,3,02:24,45,49,PAL,2_Pts_C,Maxi Stanic
+192,3,02:24,43,49,PAL,FR,Maxi Stanic
+193,3,02:24,43,49,PIN,FC,Joe Smith
+194,3,02:33,43,49,PAL,RD,Toyloy
+195,3,02:33,43,49,PIN,3_Pts_T,Joe Smith
+196,3,02:40,43,49,PIN,RO,Jason Smith
+197,3,02:40,43,49,PIN,2_Pts_T,Jason Smith
+198,3,03:05,43,49,PAL,substituicao_sai,Douglas Nunes
+199,3,03:05,43,49,PAL,substituicao_entra,Jhonatan
+200,3,03:05,43,49,PIN,FR,Jason Smith
+201,3,03:05,43,49,PAL,FC_O,Douglas Nunes
+202,3,03:09,43,49,PAL,RD,Toyloy
+203,3,03:09,43,49,PIN,2_Pts_T,Toledo
+204,3,03:16,43,49,PIN,RO,Toledo
+205,3,03:16,43,49,PIN,2_Pts_T,Joe Smith
+206,3,03:37,43,49,PIN,RD,Toledo
+207,3,03:37,43,49,PAL,2_Pts_T,Maxi Stanic
+208,3,03:57,43,49,PIN,2_Pts_C,André Bambu
+209,3,03:57,43,47,PIN,AS,Jason Smith
+210,3,04:10,43,47,PAL,2_Pts_C,Maxi Stanic
+211,3,04:26,41,47,PIN,2_Pts_C,Felipe
+212,3,04:41,41,45,PIN,RD,André Bambu
+213,3,04:41,41,45,PAL,3_Pts_T,Neto
+214,3,04:55,41,45,PAL,RD,Toyloy
+215,3,04:55,41,45,PIN,LL_Pts_T,Toledo
+216,3,04:55,41,45,PAL,substituicao_sai,Átila Dos Santos
+217,3,04:55,41,45,PAL,substituicao_entra,Toyloy
+218,3,04:55,41,45,PIN,FR,Toledo
+219,3,04:55,41,45,PAL,FC,Átila Dos Santos
+220,3,04:55,41,45,PIN,2_Pts_C,Toledo
+221,3,04:55,41,43,PIN,AS,Jason Smith
+222,3,05:12,41,43,PIN,RD,Toledo
+223,3,05:12,41,43,PAL,LL_Pts_T,Neto
+224,3,05:12,41,43,PAL,LL_Pts_C,Neto
+225,3,05:12,40,43,PAL,FR,Neto
+226,3,05:12,40,43,PIN,FC,Jason Smith
+227,3,05:20,40,43,PAL,FR,Maxi Stanic
+228,3,05:20,40,43,PIN,FC,Jason Smith
+229,3,05:29,40,43,PAL,RD,Maxi Stanic
+230,3,05:29,40,43,PIN,3_Pts_T,Jason Smith
+231,3,05:46,40,43,PIN,,
+232,3,05:46,40,43,PAL,ER,Maxi Stanic
+233,3,05:52,40,43,PAL,RD,Átila Dos Santos
+234,3,05:52,40,43,PIN,2_Pts_T,André Bambu
+235,3,06:08,40,43,PIN,RD,Toledo
+236,3,06:08,40,43,PAL,2_Pts_T,Átila Dos Santos
+237,3,06:13,40,43,PAL,RO,Átila Dos Santos
+238,3,06:13,40,43,PAL,2_Pts_T,Maxi Stanic
+239,3,06:22,40,43,PIN,3_Pts_C,Joe Smith
+240,3,06:34,40,40,PAL,substituicao_entra,Douglas Nunes
+241,3,06:34,40,40,PAL,substituicao_sai,Jhonatan
+242,3,06:43,40,40,PIN,RD,Felipe
+243,3,06:43,40,40,PAL,2_Pts_T,Átila Dos Santos
+244,3,06:50,40,40,PAL,FR,Maxi Stanic
+245,3,06:50,40,40,PIN,FC,Joe Smith
+246,3,07:04,40,40,PIN,3_Pts_C,Joe Smith
+247,3,07:29,40,37,PAL,2_Pts_C,Fabricio
+248,3,07:29,38,37,PAL,AS,Jhonatan
+249,3,07:41,38,37,PAL,tempo_tecnico,Palmeiras
+250,3,07:41,38,37,PIN,LL_Pts_C,Toledo
+251,3,07:41,38,36,PIN,AS,Joe Smith
+252,3,07:41,38,36,PIN,LL_Pts_C,Toledo
+253,3,07:41,38,35,PIN,FR,Toledo
+254,3,07:41,38,35,PAL,FC,Átila Dos Santos
+255,3,07:52,38,35,PIN,RD,Toledo
+256,3,07:52,38,35,PAL,2_Pts_T,Jhonatan
+257,3,08:02,38,35,PIN,ER,Joe Smith
+258,3,08:14,38,35,PAL,substituicao_entra,Átila Dos Santos
+259,3,08:14,38,35,PAL,substituicao_sai,Toyloy
+260,3,08:14,38,35,PIN,FR,André Bambu
+261,3,08:14,38,35,PAL,FC_O,Toyloy
+262,3,08:31,38,35,PIN,2_Pts_C,Joe Smith
+263,3,08:31,38,33,PIN,AS,André Bambu
+264,3,08:36,38,33,PIN,FR,Jason Smith
+265,3,08:36,38,33,PAL,FC,Fabricio
+266,3,08:36,38,33,PIN,BR,Toledo
+267,3,08:36,38,33,PAL,ER,Fabricio
+268,3,08:42,38,33,PAL,RO,Fabricio
+269,3,08:42,38,33,PAL,2_Pts_T,Toyloy
+270,3,08:49,38,33,PAL,BR,Neto
+271,3,08:49,38,33,PIN,ER,Joe Smith
+272,3,08:54,38,33,PIN,FR,Felipe
+273,3,08:54,38,33,PAL,FC,Toyloy
+274,3,09:04,38,33,PIN,BR,Toledo
+275,3,09:04,38,33,PAL,ER,Neto
+276,3,09:12,38,33,PAL,RD,Fabricio
+277,3,09:12,38,33,PIN,3_Pts_T,Jason Smith
+278,3,09:25,38,33,PIN,BR,André Bambu
+279,3,09:25,38,33,PAL,ER,Maxi Stanic
+280,3,09:46,38,33,PIN,LL_Pts_C,Toledo
+281,3,09:46,38,32,PIN,EN,Toledo
+282,3,09:46,38,30,PIN,FR,Toledo
+283,3,09:46,38,30,PAL,FC,Jhonatan
+284,3,09:50,38,30,PIN,BR,Toledo
+285,3,09:50,38,30,PAL,ER,Fabricio
+286,2,00:00,38,30, ,fim_quarto,
+287,2,00:00,38,30,PIN,FR,Felipe
+288,2,00:00,38,30,PAL,FC,Jhonatan
+289,2,00:00,38,30,PAL,substituicao_entra,Jhonatan
+290,2,00:00,38,30,PAL,substituicao_sai,Fabricio
+291,2,00:00,38,30,PAL,FR,Fabricio
+292,2,00:00,38,30,PIN,FC,Felipe
+293,2,00:00,38,30,PAL,3_Pts_T,Neto
+294,2,00:08,38,30,PIN,3_Pts_C,Jason Smith
+295,2,00:14,38,27,PIN,RO,Felipe
+296,2,00:14,38,27,PIN,2_Pts_T,Toledo
+297,2,00:33,38,27,PIN,RO,Toledo
+298,2,00:33,38,27,PIN,3_Pts_T,Jason Smith
+299,2,00:44,38,27,PIN,substituicao_sai,J Campos
+300,2,00:44,38,27,PIN,substituicao_entra,Joe Smith
+301,2,00:44,38,27,PAL,substituicao_sai,Maxi Stanic
+302,2,00:44,38,27,PAL,substituicao_entra,Locke
+303,2,00:44,38,27,PAL,substituicao_entra,Fabricio
+304,2,00:44,38,27,PAL,substituicao_sai,Jhonatan
+305,2,00:44,38,27,PAL,substituicao_entra,Jhonatan
+306,2,00:44,38,27,PAL,substituicao_sai,Fabricio
+307,2,00:44,38,27,PIN,FR,Felipe
+308,2,00:44,38,27,PAL,FC,Douglas Nunes
+309,2,00:57,38,27,PAL,3_Pts_C,Maxi Stanic
+310,2,00:57,35,27,PAL,AS,Douglas Nunes
+311,2,01:07,35,27,PIN,EN,Felipe
+312,2,01:07,35,25,PIN,AS,Lucas Dias
+313,2,01:39,35,25,PAL,3_Pts_C,Maxi Stanic
+314,2,01:39,32,25,PAL,AS,Átila Dos Santos
+315,2,01:49,32,25,PAL,RO,Átila Dos Santos
+316,2,01:49,32,25,PAL,3_Pts_T,Neto
+317,2,01:54,32,25,PAL,FR,Neto
+318,2,01:54,32,25,PIN,FC,Lucas Dias
+319,2,01:59,32,25,PAL,RD,Neto
+320,2,01:59,32,25,PIN,3_Pts_T,Lucas Dias
+321,2,02:19,32,25,PIN,RD,Toledo
+322,2,02:19,32,25,PAL,3_Pts_T,Maxi Stanic
+323,2,02:30,32,25,PIN,substituicao_entra,Jason Smith
+324,2,02:30,32,25,PIN,substituicao_sai,André Bambu
+325,2,02:30,32,25,PAL,substituicao_entra,Átila Dos Santos
+326,2,02:30,32,25,PAL,substituicao_sai,Toyloy
+327,2,02:30,32,25,PAL,BR,Maxi Stanic
+328,2,02:30,32,25,PIN,ER,Felipe
+329,2,02:30,32,25,PAL,BR,Maxi Stanic
+330,2,02:30,32,25,PIN,ER,J Campos
+331,2,02:54,32,25,PAL,3_Pts_C,Fabricio
+332,2,02:54,29,25,PAL,AS,Neto
+333,2,03:12,29,25,PIN,3_Pts_C,Felipe
+334,2,03:43,29,22,PIN,RD,Felipe
+335,2,03:43,29,22,PAL,3_Pts_T,Neto
+336,2,03:55,29,22,PAL,BR,Neto
+337,2,03:55,29,22,PIN,ER,Lucas Dias
+338,2,04:10,29,22,PAL,2_Pts_C,Toyloy
+339,2,04:17,27,22,PAL,FR,Neto
+340,2,04:17,27,22,PIN,FC,Lucas Dias
+341,2,04:20,27,22,PAL,BR,Toyloy
+342,2,04:20,27,22,PIN,ER,André Bambu
+343,2,04:36,27,22,PIN,substituicao_entra,Lucas Dias
+344,2,04:36,27,22,PIN,substituicao_sai,Ted Simões
+345,2,04:36,27,22,PIN,,
+346,2,04:36,27,22,PAL,ER,Neto
+347,2,04:50,27,22,PIN,3_Pts_C,J Campos
+348,2,05:18,27,19,PAL,3_Pts_C,Douglas Nunes
+349,2,05:18,24,19,PAL,AS,Maxi Stanic
+350,2,05:27,24,19,PAL,RD,Toyloy
+351,2,05:27,24,19,PIN,3_Pts_T,Ted Simões
+352,2,05:43,24,19,PIN,RD,Toledo
+353,2,05:43,24,19,PAL,2_Pts_T,Neto
+354,2,05:55,24,19,PAL,substituicao_sai,Locke
+355,2,05:55,24,19,PAL,substituicao_entra,Douglas Nunes
+356,2,05:58,24,19,PAL,tempo_tecnico,Palmeiras
+357,2,05:58,24,19,PIN,3_Pts_C,Ted Simões
+358,2,05:58,24,16,PIN,AS,André Bambu
+359,2,06:15,24,16,PIN,RO,Felipe
+360,2,06:15,24,16,PIN,3_Pts_T,Ted Simões
+361,2,06:28,24,16,PIN,BR,J Campos
+362,2,06:28,24,16,PAL,ER,Neto
+363,2,06:49,24,16,PAL,BR,Maxi Stanic
+364,2,06:49,24,16,PIN,ER,J Campos
+365,2,07:02,24,16,PAL,substituicao_entra,Locke
+366,2,07:02,24,16,PAL,substituicao_sai,Jhonatan
+367,2,07:02,24,16,PAL,tempo_tecnico,Palmeiras
+368,2,07:02,24,16,PIN,,
+369,2,07:02,24,16,PAL,ER,Jhonatan
+370,2,07:22,24,16,PIN,2_Pts_C,Felipe
+371,2,07:38,24,14,PIN,RD,Felipe
+372,2,07:38,24,14,PAL,2_Pts_T,Toyloy
+373,2,07:48,24,14,PIN,AS,J Campos
+374,2,07:48,24,14,PIN,LL_Pts_C,Toledo
+375,2,07:48,24,13,PIN,LL_Pts_T,Toledo
+376,2,07:48,24,13,PIN,FR,Toledo
+377,2,07:48,24,13,PAL,FC,Jhonatan
+378,2,07:55,24,13,PAL,substituicao_entra,Neto
+379,2,07:55,24,13,PAL,substituicao_sai,Locke
+380,2,07:55,24,13,PIN,FR,Felipe
+381,2,07:55,24,13,PAL,FC,Toyloy
+382,2,07:58,24,13,PIN,RO,Felipe
+383,2,07:58,24,13,PIN,2_Pts_T,André Bambu
+384,2,08:14,24,13,PIN,RD,Pinheiros
+385,2,08:14,24,13,PAL,3_Pts_T,Fabricio
+386,2,08:25,24,13,PAL,substituicao_entra,Jhonatan
+387,2,08:25,24,13,PAL,substituicao_sai,Douglas Nunes
+388,2,08:25,24,13,PIN,substituicao_entra,Toledo
+389,2,08:25,24,13,PIN,substituicao_sai,Humberto
+390,2,08:40,24,13,PIN,2_Pts_C,Ted Simões
+391,2,08:57,24,11,PAL,3_Pts_C,Maxi Stanic
+392,2,09:13,21,11,PAL,BR,Locke
+393,2,09:13,21,11,PIN,ER,Felipe
+394,2,09:35,21,11,PAL,2_Pts_C,Maxi Stanic
+395,2,09:45,19,11,PAL,RO,Toyloy
+396,2,09:45,19,11,PAL,2_Pts_T,Toyloy
+397,1,00:00,19,11, ,fim_quarto,
+398,1,00:12,19,11,PAL,FR,Marone
+399,1,00:12,19,11,PIN,FC,Ted Simões
+400,1,00:14,19,11,PAL,FR,Locke
+401,1,00:14,19,11,PIN,FC,Ted Simões
+402,1,00:32,19,11,PIN,2_Pts_C,J Campos
+403,1,00:51,19,9,PIN,substituicao_entra,Felipe
+404,1,00:51,19,9,PIN,substituicao_sai,Morro
+405,1,00:51,19,9,PAL,ER,Douglas Nunes
+406,1,00:54,19,9,PAL,RO,Locke
+407,1,00:54,19,9,PAL,3_Pts_T,Murilo
+408,1,01:33,19,9,PAL,RD,Átila Dos Santos
+409,1,01:33,19,9,PIN,2_Pts_T,J Campos
+410,1,01:36,19,9,PIN,substituicao_entra,Humberto
+411,1,01:36,19,9,PIN,substituicao_entra,J Campos
+412,1,01:36,19,9,PAL,substituicao_entra,Locke
+413,1,01:36,19,9,PAL,substituicao_entra,Murilo
+414,1,01:36,19,9,PAL,substituicao_entra,Marone
+415,1,01:36,19,9,PIN,substituicao_sai,Jason Smith
+416,1,01:36,19,9,PIN,substituicao_sai,Joe Smith
+417,1,01:36,19,9,PAL,substituicao_sai,Maxi Stanic
+418,1,01:36,19,9,PAL,substituicao_sai,Neto
+419,1,01:36,19,9,PAL,substituicao_sai,Jhonatan
+420,1,01:46,19,9,PAL,2_Pts_C,Neto
+421,1,01:52,17,9,PAL,BR,Neto
+422,1,01:52,17,9,PIN,ER,Joe Smith
+423,1,01:57,17,9,PAL,2_Pts_C,Jhonatan
+424,1,02:00,15,9,PAL,substituicao_sai,Fabricio
+425,1,02:00,15,9,PAL,substituicao_entra,Douglas Nunes
+426,1,02:48,15,9,PAL,EN,Átila Dos Santos
+427,1,02:48,13,9,PAL,AS,Maxi Stanic
+428,1,02:50,13,9,PAL,BR,Neto
+429,1,02:50,13,9,PIN,ER,Joe Smith
+430,1,03:10,13,9,PIN,,
+431,1,03:10,13,9,PAL,ER,Jhonatan
+432,1,03:29,13,9,PAL,RD,Átila Dos Santos
+433,1,03:29,13,9,PIN,2_Pts_T,Jason Smith
+434,1,03:40,13,9,PIN,RD,Morro
+435,1,03:40,13,9,PAL,3_Pts_T,Neto
+436,1,03:41,13,9,PAL,substituicao_entra,Átila Dos Santos
+437,1,03:41,13,9,PAL,substituicao_entra,Fabricio
+438,1,03:41,13,9,PAL,substituicao_sai,Toyloy
+439,1,03:41,13,9,PAL,substituicao_sai,Fabricio
+440,1,03:41,13,9,PIN,substituicao_entra,André Bambu
+441,1,03:41,13,9,PIN,substituicao_entra,Ted Simões
+442,1,03:41,13,9,PIN,substituicao_sai,Felipe
+443,1,03:41,13,9,PIN,substituicao_sai,Toledo
+444,1,03:51,13,9,PAL,RD,Jhonatan
+445,1,03:51,13,9,PIN,2_Pts_T,Toledo
+446,1,04:11,13,9,PIN,RD,Morro
+447,1,04:11,13,9,PAL,2_Pts_T,Jhonatan
+448,1,04:29,13,9,PIN,2_Pts_C,Felipe
+449,1,04:29,13,7,PIN,AS,Toledo
+450,1,04:44,13,7,PIN,tempo_tecnico,Pinheiros
+451,1,04:44,13,7,PIN,RD,Pinheiros
+452,1,04:44,13,7,PAL,2_Pts_T,Jhonatan
+453,1,04:48,13,7,PAL,RD,Neto
+454,1,04:48,13,7,PIN,2_Pts_T,Toledo
+455,1,04:53,13,7,PIN,RO,Toledo
+456,1,04:53,13,7,PIN,2_Pts_T,Felipe
+457,1,05:16,13,7,PAL,2_Pts_C,Neto
+458,1,05:20,11,7,PIN,ER,Felipe
+459,1,05:20,11,7,PIN,RO,Felipe
+460,1,05:20,11,7,PIN,3_Pts_T,Joe Smith
+461,1,05:36,11,7,PAL,2_Pts_C,Toyloy
+462,1,05:36,9,7,PAL,AS,Maxi Stanic
+463,1,05:45,9,7,PIN,2_Pts_C,Felipe
+464,1,05:48,9,5,PIN,RO,Felipe
+465,1,05:48,9,5,PIN,2_Pts_T,Morro
+466,1,05:54,9,5,PIN,RO,Morro
+467,1,05:54,9,5,PIN,2_Pts_T,Felipe
+468,1,05:59,9,5,PIN,RO,Felipe
+469,1,05:59,9,5,PIN,2_Pts_T,Felipe
+470,1,06:17,9,5,PIN,substituicao_entra,Morro
+471,1,06:17,9,5,PIN,substituicao_sai,Kurtz
+472,1,06:23,9,5,PAL,2_Pts_C,Neto
+473,1,06:23,7,5,PAL,AS,Jhonatan
+474,1,06:30,7,5,PAL,RD,Maxi Stanic
+475,1,06:30,7,5,PIN,2_Pts_T,Felipe
+476,1,06:55,7,5,PAL,EN,Jhonatan
+477,1,06:55,5,5,PAL,AS,Neto
+478,1,07:02,5,5,PAL,BR,Maxi Stanic
+479,1,07:02,5,5,PIN,ER,Toledo
+480,1,07:24,5,5,PIN,RD,Toledo
+481,1,07:24,5,5,PAL,3_Pts_T,Fabricio
+482,1,07:35,5,5,PAL,RD,Fabricio
+483,1,07:35,5,5,PIN,2_Pts_T,Toledo
+484,1,07:43,5,5,PIN,RD,Jason Smith
+485,1,07:43,5,5,PIN,TO,Felipe
+486,1,07:43,5,5,PAL,2_Pts_T,Maxi Stanic
+487,1,07:47,5,5,PAL,BR,Maxi Stanic
+488,1,07:47,5,5,PIN,ER,Jason Smith
+489,1,07:57,5,5,PIN,RD,Pinheiros
+490,1,07:57,5,5,PAL,2_Pts_T,Neto
+491,1,08:04,5,5,PAL,RD,Toyloy
+492,1,08:04,5,5,PIN,2_Pts_T,Joe Smith
+493,1,08:19,5,5,PIN,RD,Toledo
+494,1,08:19,5,5,PAL,2_Pts_T,Toyloy
+495,1,08:36,5,5,PIN,2_Pts_C,Toledo
+496,1,08:36,5,3,PIN,AS,Kurtz
+497,1,08:43,5,3,PIN,FR,Jason Smith
+498,1,08:43,5,3,PAL,FC,Maxi Stanic
+499,1,08:50,5,3,PAL,3_Pts_C,Neto
+500,1,08:50,2,3,PAL,AS,Maxi Stanic
+501,1,09:05,2,3,PIN,3_Pts_C,Jason Smith
+502,1,09:13,2,0,PAL,2_Pts_C,Toyloy
+503,1,09:13,0,0,PAL,AS,Neto
+504,1,09:28,0,0,PAL,RD,Toyloy
+505,1,09:28,0,0,PIN,2_Pts_T,Kurtz
+506,1,09:40,0,0,PIN,RD,Jason Smith
+507,1,09:40,0,0,PIN,TO,Felipe
+508,1,09:40,0,0,PAL,2_Pts_T,Jhonatan
+509,1,09:48,0,0,PAL,RD,Toyloy
+510,1,09:48,0,0,PIN,2_Pts_T,Toledo
+511,1,10:00,0,0,PIN,substituicao_entra,Kurtz
+512,1,10:00,0,0,PIN,substituicao_entra,Felipe
+513,1,10:00,0,0,PIN,substituicao_entra,Toledo
+514,1,10:00,0,0,PIN,substituicao_entra,Jason Smith
+515,1,10:00,0,0,PIN,substituicao_entra,Joe Smith
+516,1,10:00,0,0,PAL,substituicao_entra,Toyloy
+517,1,10:00,0,0,PAL,substituicao_entra,Maxi Stanic
+518,1,10:00,0,0,PAL,substituicao_entra,Neto
+519,1,10:00,0,0,PAL,substituicao_entra,Fabricio
+520,1,10:00,0,0,PAL,substituicao_entra,Jhonatan

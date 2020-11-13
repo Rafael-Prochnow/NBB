@@ -1,0 +1,514 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,56,75, ,fim_partida,
+1,4,00:07,56,75,UBE,2_Pts_C,Audrei
+2,4,00:12,54,75,UBE,BR,Audrei
+3,4,00:12,54,75,MIN,ER,Moisés
+4,4,00:18,54,75,MIN,BR,Coelho
+5,4,00:18,54,75,UBE,ER,Hélio
+6,4,00:32,54,75,UBE,RD,Dida
+7,4,00:32,54,75,MIN,3_Pts_T,Cafferata
+8,4,00:54,54,75,UBE,2_Pts_C,Audrei
+9,4,00:54,52,75,UBE,AS,Zanini
+10,4,01:02,52,75,UBE,BR,Hélio
+11,4,01:02,52,75,MIN,ER,Coelho
+12,4,01:17,52,75,MIN,,
+13,4,01:17,52,75,UBE,ER,Renan
+14,4,01:28,52,75,UBE,RD,Uberlândia
+15,4,01:28,52,75,MIN,2_Pts_T,Coelho
+16,4,01:45,52,75,UBE,2_Pts_C,Renan
+17,4,02:01,50,75,MIN,substituicao_sai,Demétrio
+18,4,02:01,50,75,MIN,substituicao_entra,Adyb
+19,4,02:01,50,75,MIN,LL_Pts_C,Demétrio
+20,4,02:01,50,74,MIN,LL_Pts_T,Demétrio
+21,4,02:01,50,74,UBE,substituicao_sai,Luis Gruber
+22,4,02:01,50,74,UBE,substituicao_entra,Renan
+23,4,02:01,50,74,MIN,FR,Demétrio
+24,4,02:01,50,74,UBE,FC,Luis Gruber
+25,4,02:03,50,74,MIN,RD,Demétrio
+26,4,02:03,50,74,UBE,2_Pts_T,Audrei
+27,4,02:26,50,74,UBE,RD,Uberlândia
+28,4,02:26,50,74,MIN,LL_Pts_T,Coelho
+29,4,02:26,50,74,MIN,LL_Pts_C,Coelho
+30,4,02:26,50,73,MIN,FR,Coelho
+31,4,02:26,50,73,UBE,FC,Zanini
+32,4,02:40,50,73,MIN,substituicao_sai,Siqueira
+33,4,02:40,50,73,MIN,substituicao_entra,Coelho
+34,4,02:40,50,73,UBE,LL_Pts_C,Audrei
+35,4,02:40,49,73,UBE,substituicao_sai,Icaro
+36,4,02:40,49,73,UBE,substituicao_entra,Hélio
+37,4,02:40,49,73,UBE,FR,Audrei
+38,4,02:40,49,73,MIN,FC,Siqueira
+39,4,02:40,49,73,UBE,2_Pts_C,Audrei
+40,4,02:40,47,73,UBE,AS,Icaro
+41,4,02:44,47,73,UBE,RD,Icaro
+42,4,02:44,47,73,MIN,2_Pts_T,Moisés
+43,4,02:49,47,73,MIN,RO,Moisés
+44,4,02:49,47,73,MIN,2_Pts_T,Moisés
+45,4,02:59,47,73,MIN,RD,Demétrio
+46,4,02:59,47,73,UBE,3_Pts_T,Icaro
+47,4,03:18,47,73,MIN,ER,Cafferata
+48,4,03:32,47,73,MIN,FR,Demétrio
+49,4,03:32,47,73,UBE,FC,Zanini
+50,4,03:46,47,73,MIN,RD,Demétrio
+51,4,03:46,47,73,UBE,LL_Pts_T,Icaro
+52,4,03:46,47,73,UBE,2_Pts_C,Icaro
+53,4,03:46,45,73,UBE,FR,Icaro
+54,4,03:46,45,73,MIN,FC,Moisés
+55,4,03:57,45,73,UBE,RO,Luis Gruber
+56,4,03:57,45,73,UBE,3_Pts_T,Audrei
+57,4,04:12,45,73,MIN,substituicao_sai,Ansaloni
+58,4,04:12,45,73,MIN,substituicao_entra,Moisés
+59,4,04:12,45,73,UBE,FR,Icaro
+60,4,04:12,45,73,MIN,FC,Ansaloni
+61,4,04:30,45,73,UBE,RD,Zanini
+62,4,04:30,45,73,MIN,3_Pts_T,Ansaloni
+63,4,04:48,45,73,MIN,RD,Ansaloni
+64,4,04:48,45,73,UBE,2_Pts_T,Dida
+65,4,05:00,45,73,UBE,BR,Audrei
+66,4,05:00,45,73,MIN,ER,Ansaloni
+67,4,05:10,45,73,UBE,substituicao_sai,Taboada
+68,4,05:10,45,73,UBE,substituicao_entra,Zanini
+69,4,05:10,45,73,MIN,FR,Demétrio
+70,4,05:10,45,73,UBE,FC,Taboada
+71,4,05:12,45,73,MIN,RO,Demétrio
+72,4,05:12,45,73,MIN,2_Pts_T,Ansaloni
+73,4,05:33,45,73,UBE,LL_Pts_C,Dida
+74,4,05:33,44,73,UBE,LL_Pts_C,Dida
+75,4,05:37,43,73,UBE,FR,Dida
+76,4,05:37,43,73,MIN,FC,Siqueira
+77,4,05:56,43,73,UBE,substituicao_sai,Rodrigo Silva
+78,4,05:56,43,73,UBE,substituicao_entra,Luis Gruber
+79,4,05:59,43,73,UBE,tempo_tecnico,Uberlândia
+80,4,05:59,43,73,MIN,EN,Demétrio
+81,4,05:59,43,71,MIN,AS,Cafferata
+82,4,06:04,43,71,MIN,RD,Cafferata
+83,4,06:04,43,71,UBE,3_Pts_T,Icaro
+84,4,06:16,43,71,MIN,2_Pts_C,Irigoyen
+85,4,06:22,43,69,MIN,RO,Irigoyen
+86,4,06:22,43,69,MIN,3_Pts_T,Demétrio
+87,4,06:33,43,69,MIN,RD,Cafferata
+88,4,06:33,43,69,UBE,3_Pts_T,Rodrigo Silva
+89,4,06:50,43,69,UBE,RD,Icaro
+90,4,06:50,43,69,MIN,LL_Pts_T,Ansaloni
+91,4,06:50,43,69,MIN,AS,Cafferata
+92,4,06:50,43,69,MIN,LL_Pts_C,Ansaloni
+93,4,06:51,43,68,MIN,FR,Ansaloni
+94,4,06:51,43,68,UBE,FC,Dida
+95,4,07:03,43,68,MIN,RD,Ansaloni
+96,4,07:03,43,68,UBE,2_Pts_T,Taboada
+97,4,07:17,43,68,UBE,RO,Uberlândia
+98,4,07:17,43,68,UBE,2_Pts_T,Dida
+99,4,07:29,43,68,UBE,RD,Rodrigo Silva
+100,4,07:29,43,68,MIN,2_Pts_T,Siqueira
+101,4,07:46,43,68,MIN,substituicao_sai,Adyb
+102,4,07:46,43,68,MIN,substituicao_entra,Demétrio
+103,4,07:46,43,68,MIN,,
+104,4,07:46,43,68,UBE,ER,Dida
+105,4,07:58,43,68,UBE,substituicao_sai,Zanini
+106,4,07:58,43,68,UBE,substituicao_entra,Taboada
+107,4,07:58,43,68,UBE,FR,Rodrigo Silva
+108,4,07:58,43,68,MIN,FC,Siqueira
+109,4,08:00,43,68,UBE,RO,Rodrigo Silva
+110,4,08:00,43,68,UBE,2_Pts_T,Zanini
+111,4,08:07,43,68,UBE,BR,Dida
+112,4,08:07,43,68,MIN,ER,Ansaloni
+113,4,08:19,43,68,UBE,substituicao_entra,Rodrigo Silva
+114,4,08:19,43,68,UBE,substituicao_sai,Renan
+115,4,08:19,43,68,MIN,substituicao_entra,Siqueira
+116,4,08:19,43,68,MIN,substituicao_sai,Coelho
+117,4,08:19,43,68,MIN,FR,Coelho
+118,4,08:19,43,68,UBE,FC,Icaro
+119,4,08:23,43,68,MIN,RD,Cafferata
+120,4,08:23,43,68,UBE,2_Pts_T,Zanini
+121,4,08:29,43,68,UBE,BR,Zanini
+122,4,08:29,43,68,MIN,ER,Adyb
+123,4,08:51,43,68,UBE,2_Pts_C,Audrei
+124,4,09:12,41,68,MIN,2_Pts_C,Ansaloni
+125,4,09:12,41,66,MIN,AS,Irigoyen
+126,4,09:38,41,66,UBE,2_Pts_C,Audrei
+127,4,09:38,39,66,UBE,AS,Icaro
+128,4,09:42,39,66,UBE,BR,Zanini
+129,4,09:42,39,66,MIN,ER,Adyb
+130,4,09:53,39,66,MIN,RD,Ansaloni
+131,4,09:53,39,66,UBE,3_Pts_T,Audrei
+132,3,00:00,39,66, ,fim_quarto,
+133,3,00:00,39,66,UBE,RD,Icaro
+134,3,00:00,39,66,MIN,2_Pts_T,Coelho
+135,3,00:06,39,66,UBE,LL_Pts_C,Zanini
+136,3,00:06,38,66,UBE,LL_Pts_T,Zanini
+137,3,00:06,38,66,MIN,substituicao_sai,Siqueira
+138,3,00:06,38,66,MIN,substituicao_entra,Cafferata
+139,3,00:06,38,66,UBE,substituicao_entra,Dida
+140,3,00:06,38,66,UBE,substituicao_sai,Rodrigo Silva
+141,3,00:08,38,66,UBE,FR,Zanini
+142,3,00:08,38,66,MIN,FC,Ansaloni
+143,3,00:26,38,66,UBE,RD,Icaro
+144,3,00:26,38,66,MIN,2_Pts_T,Ansaloni
+145,3,00:42,38,66,MIN,RD,Ansaloni
+146,3,00:42,38,66,UBE,2_Pts_T,Renan
+147,3,00:55,38,66,MIN,2_Pts_C,Adyb
+148,3,01:13,38,64,MIN,RD,Coelho
+149,3,01:13,38,64,UBE,3_Pts_T,Zanini
+150,3,01:27,38,64,UBE,RD,Rodrigo Silva
+151,3,01:27,38,64,MIN,LL_Pts_T,Siqueira
+152,3,01:27,38,64,MIN,LL_Pts_C,Siqueira
+153,3,01:29,38,63,UBE,substituicao_entra,Zanini
+154,3,01:29,38,63,UBE,substituicao_sai,Hélio
+155,3,01:29,38,63,MIN,FR,Siqueira
+156,3,01:29,38,63,UBE,FC,Renan
+157,3,01:44,38,63,UBE,2_Pts_C,Renan
+158,3,01:44,36,63,UBE,AS,Rodrigo Silva
+159,3,01:53,36,63,UBE,RD,Rodrigo Silva
+160,3,01:53,36,63,MIN,2_Pts_T,Siqueira
+161,3,02:03,36,63,UBE,LL_Pts_C,Audrei
+162,3,02:03,35,63,UBE,LL_Pts_C,Audrei
+163,3,02:03,34,63,UBE,FR,Audrei
+164,3,02:03,34,63,MIN,FC,Coelho
+165,3,02:13,34,63,MIN,substituicao_sai,Alex
+166,3,02:13,34,63,MIN,substituicao_entra,Adyb
+167,3,02:13,34,63,MIN,LL_Pts_C,Irigoyen
+168,3,02:13,34,62,MIN,LL_Pts_T,Irigoyen
+169,3,02:13,34,62,UBE,substituicao_sai,Zanini
+170,3,02:13,34,62,UBE,substituicao_entra,Audrei
+171,3,02:13,34,62,MIN,FR,Irigoyen
+172,3,02:13,34,62,UBE,FC,Zanini
+173,3,02:29,34,62,UBE,2_Pts_C,Renan
+174,3,02:29,32,62,UBE,AS,Zanini
+175,3,02:33,32,62,UBE,RO,Uberlândia
+176,3,02:33,32,62,MIN,TO,Ansaloni
+177,3,02:33,32,62,UBE,2_Pts_T,Icaro
+178,3,02:56,32,62,MIN,LL_Pts_C,Ansaloni
+179,3,02:56,32,61,MIN,LL_Pts_C,Ansaloni
+180,3,02:56,32,60,MIN,FR,Ansaloni
+181,3,02:56,32,60,UBE,FC,Zanini
+182,3,02:57,32,60,MIN,RO,Ansaloni
+183,3,02:57,32,60,MIN,2_Pts_T,Coelho
+184,3,03:19,32,60,UBE,2_Pts_C,Renan
+185,3,03:19,30,60,UBE,AS,Hélio
+186,3,03:28,30,60,UBE,RD,Rodrigo Silva
+187,3,03:28,30,60,MIN,3_Pts_T,Alex
+188,3,03:51,30,60,MIN,substituicao_entra,Siqueira
+189,3,03:51,30,60,MIN,substituicao_sai,Demétrio
+190,3,03:51,30,60,UBE,LL_Pts_C,Rodrigo Silva
+191,3,03:51,29,60,UBE,LL_Pts_C,Rodrigo Silva
+192,3,03:51,28,60,UBE,FR,Rodrigo Silva
+193,3,03:51,28,60,MIN,FC,Ansaloni
+194,3,04:05,28,60,UBE,RD,Renan
+195,3,04:05,28,60,MIN,3_Pts_T,Demétrio
+196,3,04:25,28,60,UBE,substituicao_sai,Audrei
+197,3,04:25,28,60,UBE,substituicao_entra,Icaro
+198,3,04:26,28,60,MIN,,
+199,3,04:26,28,60,UBE,ER,Rodrigo Silva
+200,3,04:39,28,60,UBE,RO,Zanini
+201,3,04:39,28,60,UBE,3_Pts_T,Hélio
+202,3,04:46,28,60,MIN,substituicao_entra,Ansaloni
+203,3,04:46,28,60,MIN,substituicao_sai,Shilton
+204,3,04:56,28,60,MIN,3_Pts_C,Alex
+205,3,04:56,28,57,MIN,AS,Irigoyen
+206,3,05:14,28,57,UBE,LL_Pts_C,Zanini
+207,3,05:14,27,57,UBE,LL_Pts_C,Zanini
+208,3,05:14,26,57,UBE,FR,Zanini
+209,3,05:14,26,57,MIN,FC,Demétrio
+210,3,05:27,26,57,UBE,substituicao_sai,Mims
+211,3,05:27,26,57,UBE,substituicao_entra,Renan
+212,3,05:30,26,57,MIN,substituicao_sai,Siqueira
+213,3,05:30,26,57,MIN,substituicao_entra,Irigoyen
+214,3,05:34,26,57,UBE,tempo_tecnico,Uberlândia
+215,3,05:34,26,57,MIN,3_Pts_C,Alex
+216,3,05:34,26,54,MIN,AS,Coelho
+217,3,05:44,26,54,MIN,RD,Shilton
+218,3,05:44,26,54,UBE,3_Pts_T,Audrei
+219,3,06:06,26,54,MIN,EN,Demétrio
+220,3,06:06,26,52,MIN,AS,Siqueira
+221,3,06:10,26,52,MIN,BR,Siqueira
+222,3,06:10,26,52,UBE,ER,Audrei
+223,3,06:16,26,52,UBE,RO,Rodrigo Silva
+224,3,06:16,26,52,UBE,2_Pts_T,Mims
+225,3,06:29,26,52,MIN,LL_Pts_C,Demétrio
+226,3,06:29,26,51,MIN,LL_Pts_C,Demétrio
+227,3,06:29,26,50,UBE,substituicao_sai,Luis Gruber
+228,3,06:29,26,50,UBE,substituicao_entra,Rodrigo Silva
+229,3,06:31,26,50,MIN,FR,Demétrio
+230,3,06:31,26,50,UBE,FC,Luis Gruber
+231,3,06:37,26,50,MIN,FR,Alex
+232,3,06:37,26,50,UBE,FC,Luis Gruber
+233,3,06:51,26,50,MIN,,
+234,3,06:51,26,50,UBE,ER,Luis Gruber
+235,3,06:58,26,50,UBE,substituicao_entra,Hélio
+236,3,06:58,26,50,UBE,substituicao_sai,Icaro
+237,3,07:01,26,50,UBE,FR,Zanini
+238,3,07:01,26,50,MIN,FC,Siqueira
+239,3,07:04,26,50,UBE,RD,Zanini
+240,3,07:04,26,50,MIN,2_Pts_T,Alex
+241,3,07:17,26,50,MIN,RD,Alex
+242,3,07:17,26,50,UBE,2_Pts_T,Luis Gruber
+243,3,07:21,26,50,UBE,FR,Luis Gruber
+244,3,07:21,26,50,MIN,FC,Siqueira
+245,3,07:32,26,50,UBE,RD,Zanini
+246,3,07:32,26,50,MIN,3_Pts_T,Coelho
+247,3,07:47,26,50,MIN,LL_Pts_C,Siqueira
+248,3,07:47,26,49,MIN,LL_Pts_C,Siqueira
+249,3,07:47,26,48,MIN,LL_Pts_C,Siqueira
+250,3,07:48,26,47,UBE,substituicao_sai,Taboada
+251,3,07:48,26,47,UBE,substituicao_entra,Zanini
+252,3,07:48,26,47,UBE,FC_T,Taboada
+253,3,07:48,26,47,MIN,FR,Siqueira
+254,3,07:48,26,47,UBE,FC,Taboada
+255,3,08:12,26,47,MIN,RD,Demétrio
+256,3,08:12,26,47,UBE,3_Pts_T,Icaro
+257,3,08:22,26,47,UBE,RD,Luis Gruber
+258,3,08:22,26,47,MIN,3_Pts_T,Siqueira
+259,3,08:40,26,47,UBE,3_Pts_C,Audrei
+260,3,08:40,23,47,UBE,AS,Icaro
+261,3,08:57,23,47,MIN,LL_Pts_C,Coelho
+262,3,08:57,23,46,MIN,LL_Pts_C,Coelho
+263,3,08:58,23,45,MIN,FR,Coelho
+264,3,08:58,23,45,UBE,FC,Taboada
+265,3,09:13,23,45,MIN,RD,Demétrio
+266,3,09:13,23,45,UBE,2_Pts_T,Mims
+267,3,09:23,23,45,UBE,RD,Mims
+268,3,09:23,23,45,MIN,3_Pts_T,Alex
+269,3,09:29,23,45,MIN,RD,Shilton
+270,3,09:29,23,45,UBE,2_Pts_T,Taboada
+271,3,09:44,23,45,MIN,2_Pts_C,Siqueira
+272,3,09:44,23,43,MIN,AS,Coelho
+273,2,00:00,23,43, ,fim_quarto,
+274,2,00:00,23,43,MIN,3_Pts_T,Alex
+275,2,00:00,23,43,MIN,FR,Coelho
+276,2,00:00,23,43,UBE,FC,Mims
+277,2,00:07,23,43,MIN,FR,Demétrio
+278,2,00:07,23,43,UBE,FC,Taboada
+279,2,00:08,23,43,MIN,substituicao_sai,Adyb
+280,2,00:08,23,43,MIN,substituicao_entra,Demétrio
+281,2,00:08,23,43,MIN,substituicao_sai,Cafferata
+282,2,00:08,23,43,MIN,substituicao_entra,Coelho
+283,2,00:08,23,43,MIN,tempo_tecnico,Minas
+284,2,00:08,23,43,UBE,LL_Pts_C,Taboada
+285,2,00:08,22,43,UBE,LL_Pts_C,Taboada
+286,2,00:08,21,43,MIN,substituicao_sai,Irigoyen
+287,2,00:08,21,43,MIN,substituicao_entra,Shilton
+288,2,00:08,21,43,UBE,substituicao_entra,Dida
+289,2,00:08,21,43,UBE,substituicao_sai,Hélio
+290,2,00:08,21,43,UBE,substituicao_sai,Luis Gruber
+291,2,00:08,21,43,UBE,substituicao_entra,Rodrigo Silva
+292,2,00:09,21,43,UBE,FR,Taboada
+293,2,00:09,21,43,MIN,FC,Alex
+294,2,00:17,21,43,MIN,substituicao_sai,Coelho
+295,2,00:17,21,43,MIN,substituicao_entra,Irigoyen
+296,2,00:17,21,43,UBE,substituicao_sai,Icaro
+297,2,00:17,21,43,UBE,substituicao_entra,Taboada
+298,2,00:17,21,43,MIN,substituicao_sai,Shilton
+299,2,00:17,21,43,MIN,substituicao_entra,Adyb
+300,2,00:22,21,43,MIN,EN,Siqueira
+301,2,00:22,21,41,MIN,AS,Coelho
+302,2,00:26,21,41,MIN,BR,Cafferata
+303,2,00:26,21,41,UBE,ER,Icaro
+304,2,00:48,21,41,MIN,2_Pts_C,Coelho
+305,2,01:09,21,39,MIN,tempo_tecnico,Minas
+306,2,01:09,21,39,UBE,3_Pts_C,Luis Gruber
+307,2,01:09,18,39,UBE,AS,Audrei
+308,2,01:30,18,39,UBE,RD,Mims
+309,2,01:30,18,39,MIN,2_Pts_T,Alex
+310,2,01:49,18,39,UBE,substituicao_sai,Zanini
+311,2,01:49,18,39,UBE,substituicao_entra,Mims
+312,2,01:49,18,39,MIN,FR,Siqueira
+313,2,01:49,18,39,UBE,FC,Icaro
+314,2,01:56,18,39,MIN,RD,Shilton
+315,2,01:56,18,39,UBE,3_Pts_T,Luis Gruber
+316,2,02:06,18,39,UBE,FR,Zanini
+317,2,02:06,18,39,MIN,FC,Cafferata
+318,2,02:09,18,39,UBE,RD,Hélio
+319,2,02:09,18,39,MIN,2_Pts_T,Coelho
+320,2,02:30,18,39,UBE,2_Pts_C,Audrei
+321,2,02:33,16,39,UBE,RO,Audrei
+322,2,02:33,16,39,UBE,3_Pts_T,Zanini
+323,2,02:43,16,39,UBE,substituicao_sai,Taboada
+324,2,02:43,16,39,UBE,substituicao_entra,Icaro
+325,2,02:43,16,39,MIN,ER,Alex
+326,2,03:06,16,39,UBE,2_Pts_C,Audrei
+327,2,03:25,14,39,MIN,2_Pts_C,Siqueira
+328,2,03:39,14,37,MIN,LL_Pts_C,Cafferata
+329,2,03:39,14,36,UBE,substituicao_sai,Icaro
+330,2,03:39,14,36,UBE,substituicao_entra,Hélio
+331,2,03:39,14,36,MIN,substituicao_sai,Adyb
+332,2,03:39,14,36,MIN,substituicao_entra,Coelho
+333,2,03:39,14,36,UBE,FC_T,Luis Gruber
+334,2,03:42,14,36,MIN,BR,Adyb
+335,2,03:42,14,36,UBE,ER,Luis Gruber
+336,2,03:55,14,36,MIN,3_Pts_C,Alex
+337,2,04:13,14,33,MIN,RO,Shilton
+338,2,04:13,14,33,MIN,3_Pts_T,Alex
+339,2,04:39,14,33,MIN,RD,Siqueira
+340,2,04:39,14,33,UBE,3_Pts_T,Luis Gruber
+341,2,04:59,14,33,MIN,2_Pts_C,Shilton
+342,2,04:59,14,31,MIN,AS,Cafferata
+343,2,05:08,14,31,MIN,RD,Alex
+344,2,05:08,14,31,UBE,2_Pts_T,Icaro
+345,2,05:21,14,31,UBE,RD,Audrei
+346,2,05:21,14,31,MIN,2_Pts_T,Shilton
+347,2,05:45,14,31,UBE,2_Pts_C,Taboada
+348,2,05:53,12,31,UBE,substituicao_sai,Renan
+349,2,05:53,12,31,UBE,substituicao_entra,Zanini
+350,2,05:53,12,31,UBE,substituicao_sai,Hélio
+351,2,05:53,12,31,UBE,substituicao_entra,Renan
+352,2,05:53,12,31,UBE,FR,Luis Gruber
+353,2,05:53,12,31,MIN,FC,Adyb
+354,2,06:04,12,31,UBE,RD,Taboada
+355,2,06:04,12,31,MIN,2_Pts_T,Alex
+356,2,06:23,12,31,MIN,RD,Shilton
+357,2,06:23,12,31,UBE,2_Pts_T,Taboada
+358,2,06:38,12,31,UBE,tempo_tecnico,Uberlândia
+359,2,06:38,12,31,MIN,2_Pts_C,Siqueira
+360,2,06:47,12,29,MIN,RD,Shilton
+361,2,06:47,12,29,UBE,2_Pts_T,Audrei
+362,2,07:04,12,29,MIN,2_Pts_C,Shilton
+363,2,07:04,12,27,MIN,AS,Cafferata
+364,2,07:21,12,27,UBE,substituicao_entra,Audrei
+365,2,07:21,12,27,UBE,substituicao_sai,Leandro
+366,2,07:21,12,27,MIN,substituicao_sai,Collum
+367,2,07:21,12,27,MIN,substituicao_entra,Alex
+368,2,07:21,12,27,MIN,substituicao_sai,Irigoyen
+369,2,07:21,12,27,MIN,substituicao_entra,Siqueira
+370,2,07:21,12,27,MIN,substituicao_sai,Ansaloni
+371,2,07:21,12,27,MIN,substituicao_entra,Shilton
+372,2,07:22,12,27,MIN,RD,Minas
+373,2,07:22,12,27,UBE,2_Pts_T,Leandro
+374,2,07:37,12,27,UBE,BR,Leandro
+375,2,07:37,12,27,MIN,ER,Irigoyen
+376,2,07:55,12,27,MIN,RD,Collum
+377,2,07:55,12,27,UBE,2_Pts_T,Icaro
+378,2,08:09,12,27,UBE,RD,Icaro
+379,2,08:09,12,27,MIN,3_Pts_T,Irigoyen
+380,2,08:26,12,27,MIN,RD,Irigoyen
+381,2,08:26,12,27,UBE,3_Pts_T,Taboada
+382,2,08:46,12,27,MIN,2_Pts_C,Ansaloni
+383,2,08:46,12,25,MIN,AS,Collum
+384,2,09:06,12,25,MIN,RD,Collum
+385,2,09:06,12,25,UBE,3_Pts_T,Leandro
+386,2,09:17,12,25,UBE,RD,Luis Gruber
+387,2,09:17,12,25,MIN,2_Pts_T,Collum
+388,2,09:38,12,25,MIN,RD,Ansaloni
+389,2,09:38,12,25,UBE,2_Pts_T,Luis Gruber
+390,1,00:00,12,25, ,fim_quarto,
+391,1,00:00,12,25,MIN,2_Pts_C,Ansaloni
+392,1,00:00,12,23,MIN,AS,Collum
+393,1,00:13,12,23,MIN,RD,Ansaloni
+394,1,00:13,12,23,UBE,2_Pts_T,Luis Gruber
+395,1,00:30,12,23,UBE,RD,Luis Gruber
+396,1,00:30,12,23,MIN,2_Pts_T,Ansaloni
+397,1,00:57,12,23,MIN,RD,Ansaloni
+398,1,00:57,12,23,UBE,3_Pts_T,Icaro
+399,1,01:13,12,23,MIN,2_Pts_C,Adyb
+400,1,01:13,12,21,MIN,AS,Irigoyen
+401,1,01:24,12,21,MIN,RD,Ansaloni
+402,1,01:24,12,21,UBE,2_Pts_T,Audrei
+403,1,01:36,12,21,MIN,substituicao_sai,Demétrio
+404,1,01:36,12,21,MIN,substituicao_entra,Adyb
+405,1,01:36,12,21,UBE,substituicao_sai,Rodrigo Silva
+406,1,01:36,12,21,UBE,substituicao_entra,Leandro
+407,1,01:41,12,21,UBE,RO,Audrei
+408,1,01:41,12,21,UBE,2_Pts_T,Audrei
+409,1,01:57,12,21,UBE,substituicao_sai,Dida
+410,1,01:57,12,21,UBE,substituicao_entra,Hélio
+411,1,02:00,12,21,UBE,,
+412,1,02:00,12,21,MIN,ER,Coelho
+413,1,02:30,12,21,MIN,RD,Minas
+414,1,02:30,12,21,UBE,2_Pts_T,Luis Gruber
+415,1,02:45,12,21,MIN,3_Pts_C,Collum
+416,1,02:45,12,18,MIN,AS,Coelho
+417,1,02:59,12,18,UBE,2_Pts_C,Audrei
+418,1,02:59,10,18,UBE,FR,Audrei
+419,1,02:59,10,18,MIN,FC,Irigoyen
+420,1,03:00,10,18,UBE,LL_Pts_C,Audrei
+421,1,03:02,9,18,UBE,RO,Audrei
+422,1,03:02,9,18,UBE,2_Pts_T,Audrei
+423,1,03:27,9,18,MIN,EN,Ansaloni
+424,1,03:27,9,16,MIN,AS,Demétrio
+425,1,03:40,9,16,UBE,substituicao_sai,Renan
+426,1,03:40,9,16,UBE,substituicao_entra,Rodrigo Silva
+427,1,03:40,9,16,MIN,FR,Ansaloni
+428,1,03:40,9,16,UBE,FC_O,Renan
+429,1,03:46,9,16,MIN,LL_Pts_C,Ansaloni
+430,1,03:46,9,15,MIN,AS,Coelho
+431,1,03:46,9,15,MIN,LL_Pts_C,Ansaloni
+432,1,03:46,9,14,MIN,FR,Ansaloni
+433,1,03:46,9,14,UBE,FC,Renan
+434,1,04:00,9,14,UBE,substituicao_sai,Mims
+435,1,04:00,9,14,UBE,substituicao_entra,Luis Gruber
+436,1,04:00,9,14,MIN,substituicao_sai,Siqueira
+437,1,04:00,9,14,MIN,substituicao_entra,Irigoyen
+438,1,04:00,9,14,UBE,BR,Mims
+439,1,04:00,9,14,MIN,ER,Siqueira
+440,1,04:04,9,14,MIN,,
+441,1,04:04,9,14,UBE,ER,Mims
+442,1,04:25,9,14,MIN,substituicao_sai,Shilton
+443,1,04:25,9,14,MIN,substituicao_entra,Ansaloni
+444,1,04:25,9,14,UBE,substituicao_sai,Taboada
+445,1,04:25,9,14,UBE,substituicao_entra,Dida
+446,1,04:27,9,14,UBE,tempo_tecnico,Uberlândia
+447,1,04:27,9,14,MIN,RD,Minas
+448,1,04:27,9,14,UBE,3_Pts_T,Audrei
+449,1,04:47,9,14,MIN,2_Pts_C,Siqueira
+450,1,04:53,9,12,MIN,RD,Siqueira
+451,1,04:53,9,12,UBE,2_Pts_T,Taboada
+452,1,05:08,9,12,UBE,RD,Renan
+453,1,05:08,9,12,MIN,LL_Pts_T,Demétrio
+454,1,05:08,9,12,MIN,LL_Pts_T,Demétrio
+455,1,05:08,9,12,MIN,FR,Demétrio
+456,1,05:08,9,12,UBE,FC,Mims
+457,1,05:25,9,12,UBE,2_Pts_C,Icaro
+458,1,05:38,7,12,UBE,RD,Mims
+459,1,05:38,7,12,MIN,3_Pts_T,Demétrio
+460,1,05:57,7,12,MIN,FR,Coelho
+461,1,05:57,7,12,UBE,FC_O,Renan
+462,1,05:58,7,12,UBE,FR,Audrei
+463,1,05:58,7,12,MIN,FC,Coelho
+464,1,05:59,7,12,UBE,RO,Audrei
+465,1,05:59,7,12,UBE,2_Pts_T,Renan
+466,1,06:11,7,12,MIN,substituicao_sai,Alex
+467,1,06:11,7,12,MIN,substituicao_entra,Siqueira
+468,1,06:11,7,12,MIN,LL_Pts_C,Alex
+469,1,06:11,7,11,MIN,LL_Pts_C,Alex
+470,1,06:12,7,10,UBE,substituicao_sai,Luis Gruber
+471,1,06:12,7,10,UBE,substituicao_entra,Renan
+472,1,06:12,7,10,MIN,FR,Alex
+473,1,06:12,7,10,UBE,FC,Luis Gruber
+474,1,06:16,7,10,MIN,BR,Collum
+475,1,06:16,7,10,UBE,ER,Audrei
+476,1,06:27,7,10,UBE,RD,Icaro
+477,1,06:27,7,10,MIN,2_Pts_T,Alex
+478,1,06:47,7,10,UBE,2_Pts_C,Mims
+479,1,06:47,5,10,UBE,AS,Icaro
+480,1,07:10,5,10,MIN,2_Pts_C,Demétrio
+481,1,07:10,5,8,MIN,AS,Collum
+482,1,07:21,5,8,MIN,RD,Shilton
+483,1,07:21,5,8,UBE,2_Pts_T,Luis Gruber
+484,1,07:38,5,8,UBE,FR,Luis Gruber
+485,1,07:38,5,8,MIN,FC,Alex
+486,1,08:00,5,8,MIN,3_Pts_C,Demétrio
+487,1,08:00,5,5,MIN,AS,Collum
+488,1,08:16,5,5,UBE,3_Pts_C,Taboada
+489,1,08:16,2,5,UBE,AS,Icaro
+490,1,08:28,2,5,MIN,2_Pts_C,Demétrio
+491,1,08:36,2,3,MIN,BR,Collum
+492,1,08:36,2,3,UBE,ER,Taboada
+493,1,08:56,2,3,MIN,3_Pts_C,Alex
+494,1,08:56,2,0,MIN,AS,Demétrio
+495,1,09:02,2,0,MIN,RO,Demétrio
+496,1,09:02,2,0,MIN,3_Pts_T,Collum
+497,1,09:21,2,0,UBE,ER,Audrei
+498,1,09:33,2,0,UBE,FR,Taboada
+499,1,09:33,2,0,MIN,FC_O,Shilton
+500,1,09:46,2,0,UBE,2_Pts_C,Mims
+501,1,09:52,0,0,UBE,BR,Mims
+502,1,09:52,0,0,MIN,ER,Shilton
+503,1,10:00,0,0,MIN,substituicao_entra,Demétrio
+504,1,10:00,0,0,MIN,substituicao_entra,Collum
+505,1,10:00,0,0,MIN,substituicao_entra,Coelho
+506,1,10:00,0,0,MIN,substituicao_entra,Shilton
+507,1,10:00,0,0,MIN,substituicao_entra,Alex
+508,1,10:00,0,0,UBE,substituicao_entra,Taboada
+509,1,10:00,0,0,UBE,substituicao_entra,Icaro
+510,1,10:00,0,0,UBE,substituicao_entra,Mims
+511,1,10:00,0,0,UBE,substituicao_entra,Audrei
+512,1,10:00,0,0,UBE,substituicao_entra,Luis Gruber
