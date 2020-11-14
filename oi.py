@@ -6,7 +6,7 @@ from selenium.webdriver.firefox.options import Options
 import requests
 from selenium.common.exceptions import NoSuchElementException
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=27&wherePlaying=-1&played=-1')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=54')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
@@ -19,17 +19,7 @@ def get_links_from(soup):
 
 list_inoutControl = get_links_from(soup)
 
-ano = 15
-# erro em são jose_74x95_pinheiros
-del(list_inoutControl[15])
-# erro en são josé_71_x76_caxias do sul
-del(list_inoutControl[21])
-# erro em são josé_88x82_rio claro
-del(list_inoutControl[24])
-# erro em paulistano_88x100_brasilia 237
-del(list_inoutControl[233])
-
-
+ano = 19
 ######################################################################################################################
 
 tabela_geral = pd.DataFrame([])
@@ -352,7 +342,7 @@ for i in list_inoutControl:
     df_full = df_full[['Temporada', 'time', 'adversário', 'casa/fora', 'Jogador', 'Min', 'Pts_C', 'Pts_T', '3_Pts_C',
                        '3_Pts_T', '2_Pts_C', '2_Pts_T', 'LL_Pts_C', 'LL_Pts_T', 'RO', 'RD', 'RT', 'AS', 'BR', 'TO',
                        'FC', 'FR', 'ER', 'EN']]
-    df_full.to_csv("./temporada 2015/" + "tabela_" + f"{ii}" + "_" + nome_casa + "_x_" + nome_fora + ".csv", index=None)
+    df_full.to_csv("Dados/" + "tabela_" + f"{ii}" + "_" + nome_casa + "_x_" + nome_fora + ".csv", index=None)
 
     nome_inf_coluna = nome_casa + "_x_" + nome_fora
     print(nome_inf_coluna)
@@ -361,4 +351,4 @@ for i in list_inoutControl:
     driver.quit()
 
 
-tabela_geral.to_csv("./temporada 2015/Tabela_geral_2015.csv")
+tabela_geral.to_csv("Dados/Tabela_geral_2015.csv")

@@ -41,9 +41,10 @@ for x in lista_de_temporadas:
             erro_na_pagina01 = erro_na_pagina.find_all("b")
             erro_na_pagina02 = erro_na_pagina01[0].get_text()
             # por motivos de erro da página coloquei isso
-            if (i == 'https://lnb.com.br/partidas/nbb-20162017-paulistano-x-caxias-do-sul-20122016-1930/')|\
-                    (i == 'https://lnb.com.br/noticias/com_personalidade_/')|\
-                    (i == 'https://lnb.com.br/noticias/mais-do-que-especial-2/'):
+            if (i == 'https://lnb.com.br/partidas/nbb-20162017-paulistano-x-caxias-do-sul-20122016-1930/') | \
+                    (i == 'https://lnb.com.br/noticias/com_personalidade_/') | \
+                    (i == 'https://lnb.com.br/noticias/mais-do-que-especial-2/') | \
+                    (i == 'https://lnb.com.br/noticias/agora-sim-5/'):
                 print(f'SEM DADOS KKKKKKKKKKKKKK {i}')
                 lista_falha.append(i)
                 numero_jogo += 1

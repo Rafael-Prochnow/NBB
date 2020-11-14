@@ -20,7 +20,6 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
-del(list_inoutControl[:107])
 print(list_inoutControl)
 
 ########################################################################################################################
@@ -28,7 +27,7 @@ option = Options()
 option.headless = True
 driver = webdriver.Firefox()
 # options=option
-driver.get(list_inoutControl[0])
+driver.get(list_inoutControl[2])
 time.sleep(10)
 
 driver.find_element_by_xpath(
@@ -59,6 +58,7 @@ dados = pd.DataFrame(
      'Placar': placar,
      'Inf_2': acao_pessoa02
      })
+
 
 
 # erro de espaços vindo de cima
@@ -110,9 +110,9 @@ c = c.str.replace(' erra tentativa para dois pontos', '>2_Pts_T;1')
 c = c.str.replace(' pega rebote defensivo', '>RD;1')
 c = c.str.replace(' pega rebote ofensivo', '>RO;1')
 
-
 # recuperação de bola
 c = c.str.replace(' recupera a bola', '>BR;1')
+c = c.str.replace(' recupera posse de bola', '>BR;1')
 # assistencia
 c = c.str.replace('Assistência do ', '>AS;')
 # faltas recebidas
@@ -246,7 +246,7 @@ dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'In
 
 ########################################################################################################################
 
-r1 = requests.get(list_inoutControl[0])
+r1 = requests.get(list_inoutControl[2])
 soup01 = BeautifulSoup(r1.content, 'html.parser')
 
 informacoes_1 = soup01.find_all("div", class_="float-left text-right")

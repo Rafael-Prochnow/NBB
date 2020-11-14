@@ -33,7 +33,6 @@ for x in lista_de_temporadas:
     r = requests.get(f'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D={x}')
     soup = BeautifulSoup(r.content, 'html.parser')
     list_inoutControl = get_links_from(soup)
-    del(list_inoutControl[:25])
     numero_jogo = 1
     for i in list_inoutControl:
         pagina = requests.get(f'{i}')
@@ -149,6 +148,7 @@ for x in lista_de_temporadas:
 
                     # recuperação de bola
                     c = c.str.replace(' recupera a bola', '>BR;1')
+                    c = c.str.replace(' recupera posse de bola', '>BR;1')
                     # assistencia
                     c = c.str.replace('Assistência do ', '>AS;')
                     # faltas recebidas
@@ -267,6 +267,7 @@ for x in lista_de_temporadas:
                     c = c.replace('pega rebote ofensivo', '>RO;1')
                     # recuperação de bola
                     c = c.replace('recupera a bola', '>BR;1')
+                    c = c.replace(' recupera posse de bola', '>BR;1')
                     # assistencia
                     c = c.replace('Assistência do ', '>AS;')
                     # faltas recebidas
