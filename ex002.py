@@ -51,12 +51,12 @@ for x in lista_de_temporadas:
     r = requests.get(f'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D={x}')
     soup = BeautifulSoup(r.content, 'html.parser')
     list_inoutControl = get_links_from(soup)
-    del(list_inoutControl[:200])
+    print(list_inoutControl)
     numero_jogo = 1
     table_inf = soup.find(name='table')
     # estruturar conteúdo em uma Data Frame - Pandas
     informacoes = pd.read_html(str(table_inf))[0]
-    ii = 200
+    ii = 0
     for i in list_inoutControl:
         pagina = requests.get(f'{i}')
         erro_na_pagina = BeautifulSoup(pagina.content, 'html.parser')
@@ -505,6 +505,7 @@ for x in lista_de_temporadas:
                 print(f'Essa página {i} não está funcionando')
                 lista_falha.append(i)
                 numero_jogo += 1
+            ii += 1
     # retorna uma tabela geral de cada temporada
     lista_cada_temporada = pd.concat([tabela_geral, lista_cada_temporada], axis=0)
     tabela_geral.to_csv('Dados/temporada ' + f'{temporada}' + '/Total_de_acao_acao_' + f'{temporada}' + '.csv')
@@ -521,7 +522,7 @@ for x in lista_de_temporadas:
     list_sites_funciona = []
     list_sites_falha = []
     temporada -= 1
-    ii += 1
+
 lista_cada_temporada.to_csv('Dados/Total_de_acao_acao.csv')
 l1.to_csv('Dados/funcionando.csv')
 l2.to_csv('Dados/falha.csv')
