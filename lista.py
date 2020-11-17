@@ -4,8 +4,6 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import requests
-import datetime as dt
-import re
 
 
 def get_links_from(soup):
@@ -123,13 +121,22 @@ time_fora['Temporada'] = ano_fora
 time_fora['Data'] = Data_fora
 time_fora['Semana'] = Fase_fora
 time_fora['Classificatoria/Playoffs'] = Turno_fora
-
 ################################################################################################################
 df_full = pd.concat([time_casa, time_fora], axis=0)
-df_full.drop(index=df_full[df_full['Jogador'] == 'Ações coletivas'].index, inplace=True)
+
 df_full.drop('+-', axis=1, inplace=True)
 df_full.drop('EF', axis=1, inplace=True)
+# precisa colocar tirar a marcação (T) pois atapalha os nomes e não tem em todas as tabelas
+nome_com_T = df_full['Jogador'].str.translate({ord(c): "," for c in "()"})
+nome_sem_T = nome_com_T.str.replace(' ,T,', '')
+df_full['Jogador'] = nome_sem_T
 
+# substituir os nomes de Equipes e Total. Deixar padrão.
+df_full['Jogador'] = df_full['Jogador'].str.replace('Total', 'Equipe')
+# substitui os valores nulos por 0
+# df_full.fillna(0, inplace=True)
+
+########################################################################################
 # divisão 1 separa da porcentagem
 divisao1 = df_full["Pts C/T %"].str.split(" ")
 # separar os convertidos e tentados
@@ -220,32 +227,32 @@ df_full["RD"] = RD
 df_full["RT"] = RT
 # tirei a coluna "RO+RD RT"
 df_full.drop("RO+RD RT", axis=1, inplace=True)
-
 ########################################################################################################################
-# precisa colocar tirar a marcação (T) pois atapalha os nomes e não tem em todas as tabelas
-nome_com_T = df_full['Jogador'].str.translate({ord(c): "," for c in "()"})
-nome_sem_T = nome_com_T.str.replace(' ,T,', '')
-df_full['Jogador'] = nome_sem_T
-
-# substituir os nomes de Equipes e Total. Deixar padrão.
-df_full['Jogador'] = df_full['Jogador'].str.replace('Total', 'Equipe')
-# substitui os valores nulos por 0
 df_full.fillna(0, inplace=True)
-# converter os dados de float para int
 
-#######################################################################################################
-# ACRESCENTAR OS ARREMESSOS
-df_full['Ar_Pts_C'] = int(df_full['Pts_3_C']) + int(df_full['Pts_2_C'])
-df_full['Ar_Pts_T'] = int(df_full['Pts_3_T']) + int(df_full['Pts_2_T'])
-df_full['posse_de_bola'] = round(int(df_full['Ar_Pts_T']) - int(df_full['RO']) + int(df_full['ER']) + (0.4 * int(df_full['LL_T'])), 0)
-df_full['posse_de_bola'] = df_full.posse_de_bola.astype(int)
+df_full['RO'] = df_full['RO'].astype(int)
+df_full['RD'] = df_full['RD'].astype(int)
+df_full['RT'] = df_full['RT'].astype(int)
+df_full['AS'] = df_full['AS'].astype(int)
+df_full['BR'] = df_full['BR'].astype(int)
+df_full['TO'] = df_full['TO'].astype(int)
+df_full['FR'] = df_full['FR'].astype(int)
+df_full['EN'] = df_full['EN'].astype(int)
+df_full['Pts_C'] = df_full['Pts_C'].astype(int)
+df_full['Pts_T'] = df_full['Pts_T'].astype(int)
+df_full['Pts_3_C'] = df_full['Pts_3_C'].astype(int)
+df_full['Pts_3_T'] = df_full['Pts_3_T'].astype(int)
+df_full['Pts_2_C'] = df_full['Pts_2_C'].astype(int)
+df_full['Pts_2_T'] = df_full['Pts_2_T'].astype(int)
+df_full['LL_C'] = df_full['LL_C'].astype(int)
+df_full['LL_T'] = df_full['LL_T'].astype(int)
+df_full['ER'] = df_full['ER'].astype(int)
 
-########################################################################################################
+#########################################################################################################
 placar_do_jogo = df_full[df_full['Jogador'] == 'Equipe']['Pts_C'].diff(periods=-1)
 placar = list(placar_do_jogo)
 dif = int(placar[0])
 # valores positivos e negatovos
-
 resultado_jogo = ['vitória' if ((x == 'casa') & (dif >= 0)) | ((x == 'fora') & (dif <= 0)) else 'derrota' for x
                   in df_full['Casa/Fora']]
 
@@ -254,6 +261,12 @@ dif_placar = [f'{int(positivo(dif))}' if ((x == 'casa') & (dif >= 0)) | ((x == '
 
 df_full['Vitoria/Derrota'] = resultado_jogo
 df_full['Diferenca_Placar'] = dif_placar
+df_full['Ar_Pts_C'] = df_full['Pts_3_C'] + df_full['Pts_2_C']
+df_full['Ar_Pts_T'] = df_full['Pts_3_T'] + df_full['Pts_2_T']
+df_full['Ar_Pts_C'] = df_full['Ar_Pts_C'].astype(int)
+df_full['Ar_Pts_T'] = df_full['Ar_Pts_T'].astype(int)
+df_full['posse_de_bola'] = round(df_full['Ar_Pts_T'] - df_full['RO'] + df_full['ER'] + (0.4 * df_full['LL_T']), 0)
+df_full['posse_de_bola'] = df_full.posse_de_bola.astype(int)
 
 
 df_full = df_full[['Temporada', 'Time', 'Oponente', 'Data', 'Semana', 'Classificatoria/Playoffs', 'Casa/Fora',
@@ -261,7 +274,4 @@ df_full = df_full[['Temporada', 'Time', 'Oponente', 'Data', 'Semana', 'Classific
                    'Ar_Pts_T', 'Pts_3_C', 'Pts_3_T', 'Pts_2_C', 'Pts_2_T', 'LL_C', 'LL_T', 'RO',
                    'RD', 'RT', 'AS', 'BR', 'TO', 'FC', 'FR', 'ER', 'EN', 'posse_de_bola']]
 
-####################################################################################################################
-
 df_full.to_csv('parte_3.csv')
-

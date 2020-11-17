@@ -129,7 +129,7 @@ time_fora['Classificatoria/Playoffs'] = Turno_fora
 
 #########################################################################################
 df_full = pd.concat([time_casa, time_fora], axis=0)
-df_full.drop(index=df_full[df_full['Jogador'] == 'Ações coletivas'].index, inplace=True)
+# df_full.drop(index=df_full[df_full['Jogador'] == 'Ações coletivas'].index, inplace=True)
 df_full.drop('JO', axis=1, inplace=True)
 df_full.drop('+/-', axis=1, inplace=True)
 df_full.drop('EF', axis=1, inplace=True)
@@ -230,13 +230,6 @@ nome_com_T = df_full['Jogador'].str.translate({ord(c): "," for c in "()"})
 nome_sem_T = nome_com_T.str.replace(' ,T,', '')
 df_full['Jogador'] = nome_sem_T
 
-# deixando os minutos normais (deixado com :)
-df_full['Min'] = df_full.Min.astype(str)
-df_full['Min'] = df_full['Min'].str.replace('.', ':')
-df_full['Min'] = df_full['Min'].apply(lambda x: dt.datetime.strptime(x, '%M:%S'))
-df_full['Min'] = df_full['Min'].apply(lambda x: dt.time(x.hour, x.minute, x.second))
-df_full['Min'] = df_full['Min'].apply(lambda x: (x.hour * 60 + x.minute) * 60 + x.second)
-
 # ACRESCENTAR OS ARREMESSOS
 df_full['Ar_Pts_C'] = df_full['Pts_3_C'] + df_full['Pts_2_C']
 df_full['Ar_Pts_T'] = df_full['Pts_3_T'] + df_full['Pts_2_T']
@@ -248,29 +241,7 @@ df_full['posse_de_bola'] = df_full.posse_de_bola.astype(int)
 df_full['Jogador'] = df_full['Jogador'].str.replace('Total', 'Equipe')
 
 
-# substitui os valores nulos por 0
-df_full.fillna(0, inplace=True)
-# para verificar só aplicar linha abaixo
-# enulo = dados.isnull().sum()
-# converter os dados de float para int
-df_full['AS'] = df_full.AS.astype(int)
-df_full['BR'] = df_full.BR.astype(int)
-df_full['TO'] = df_full.TO.astype(int)
-df_full['FC'] = df_full.FC.astype(int)
-df_full['FR'] = df_full.FR.astype(int)
-df_full['ER'] = df_full.ER.astype(int)
-df_full['EN'] = df_full.EN.astype(int)
-df_full['Pts_C'] = df_full.Pts_C.astype(int)
-df_full['Pts_T'] = df_full.Pts_T.astype(int)
-df_full[''] = df_full..astype(int)
-df_full[''] = df_full..astype(int)
-df_full[''] = df_full..astype(int)
-df_full[''] = df_full..astype(int)
-df_full[''] = df_full..astype(int)
-df_full[''] = df_full..astype(int)
-df_full[''] = df_full..astype(int)
 #########################################################################################################
-
 placar_do_jogo = df_full[df_full['Jogador'] == 'Equipe']['Pts_C'].diff(periods=-1)
 placar = list(placar_do_jogo)
 dif = int(placar[0])
@@ -292,8 +263,6 @@ df_full = df_full[['Temporada', 'Time', 'Oponente', 'Data', 'Semana', 'Classific
                    'RD', 'RT', 'AS', 'BR', 'TO', 'FC', 'FR', 'ER', 'EN', 'posse_de_bola']]
 
 
-'''porcentagem frequencia relativa dos indicadores de cada atleta de acordo com o resultado final da partida
-
-precisa fazer a coluna de vitória ou derrota do time e a diferença de placar '''
+'''porcentagem frequencia relativa dos indicadores de cada atleta de acordo com o resultado final da partida'''
 
 df_full.to_csv('parte_3.csv')
