@@ -1,0 +1,559 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,89,97,,fim_partida,
+1,5,00:00,89,97,,fim_quarto,
+2,5,00:01,89,97,FRA,LL_Pts_C,David Jackson
+3,5,00:01,89,96,FRA,LL_Pts_C,David Jackson
+4,5,00:01,89,95,FRA,FR,David Jackson
+5,5,00:01,89,95,MIN,FC,Jackson Jr
+6,5,00:07,89,95,FRA,RD,Elinho
+7,5,00:10,89,95,MIN,3_Pts_T,Jackson Jr
+8,5,00:15,89,95,FRA,LL_Pts_C,David Jackson
+9,5,00:15,89,94,FRA,LL_Pts_C,David Jackson
+10,5,00:15,89,93,FRA,FR,David Jackson
+11,5,00:15,89,93,MIN,FC,Jackson Jr
+12,5,00:21,89,93,FRA,RD,Franca
+13,5,00:21,89,93,MIN,3_Pts_T,Leandrinho
+14,5,00:37,89,93,FRA,2_Pts_C,David Jackson
+15,5,00:53,89,91,MIN,AS,Tyrone
+16,5,00:53,89,91,MIN,2_Pts_C,Deodato
+17,5,00:56,87,91,MIN,BR,Tyrone
+18,5,00:56,87,91,FRA,ER,Elinho
+19,5,01:19,87,91,MIN,AS,Leandrinho
+20,5,01:19,87,91,MIN,2_Pts_C,Scott
+21,5,01:32,85,91,FRA,LL_Pts_C,David Jackson
+22,5,01:32,85,90,FRA,LL_Pts_C,David Jackson
+23,5,01:32,85,89,MIN,substituicao_entra,Jackson Jr
+24,5,01:32,85,89,MIN,substituicao_sai,Davi
+25,5,01:33,85,89,FRA,FR,David Jackson
+26,5,01:33,85,89,MIN,FC,Davi
+27,5,01:48,85,89,MIN,AS,Scott
+28,5,01:48,85,89,MIN,LL_Pts_C,Tyrone
+29,5,01:48,84,89,MIN,LL_Pts_T,Tyrone
+30,5,01:48,84,89,MIN,FR,Tyrone
+31,5,01:48,84,89,FRA,FC,Jimmy
+32,5,01:48,84,89,MIN,RO,Scott
+33,5,01:51,84,89,MIN,3_Pts_T,Tyrone
+34,5,02:17,84,89,FRA,2_Pts_C,Lucas Dias
+35,5,02:42,84,87,FRA,RD,Lucas Dias
+36,5,02:43,84,87,MIN,3_Pts_T,Leandrinho
+37,5,02:55,84,87,MIN,RD,Scott
+38,5,02:58,84,87,FRA,2_Pts_T,David Jackson
+39,5,03:17,84,87,MIN,AS,Davi
+40,5,03:17,84,87,MIN,3_Pts_C,Leandrinho
+41,5,03:40,81,87,MIN,tempo_tecnico,Minas
+42,5,03:40,81,87,FRA,2_Pts_C,David Jackson
+43,5,03:50,81,85,FRA,RD,Elinho
+44,5,03:53,81,85,MIN,3_Pts_T,Tyrone
+45,5,04:10,81,85,FRA,LL_Pts_C,Lucas Dias
+46,5,04:10,81,84,FRA,FR,Lucas Dias
+47,5,04:10,81,84,MIN,FC,Deodato
+48,5,04:10,81,84,FRA,AS,David Jackson
+49,5,04:10,81,84,FRA,2_Pts_C,Lucas Dias
+50,5,04:33,81,82,FRA,RD,Elinho
+51,5,04:33,81,82,MIN,LL_Pts_T,Leandrinho
+52,5,04:33,81,82,MIN,LL_Pts_C,Leandrinho
+53,5,04:33,80,82,MIN,FR,Leandrinho
+54,5,04:33,80,82,FRA,FC,Hettsheimeir
+55,5,04:52,80,82,FRA,AS,Elinho
+56,5,04:52,80,82,FRA,EN,Lucas Dias
+57,5,05:00,80,80,,inicio_quarto,
+58,5,05:00,80,80,MIN,substituicao_entra,Davi
+59,5,05:00,80,80,MIN,substituicao_sai,Shilton
+60,4,00:00,80,80,,fim_quarto,
+61,4,00:00,80,80,FRA,2_Pts_T,Lucas Dias
+62,4,00:01,80,80,FRA,substituicao_entra,David Jackson
+63,4,00:01,80,80,FRA,substituicao_sai,Schattmann
+64,4,00:01,80,80,MIN,substituicao_entra,Shilton
+65,4,00:01,80,80,MIN,substituicao_sai,Davi
+66,4,00:01,80,80,FRA,tempo_tecnico,Franca
+67,4,00:01,80,80,MIN,AS,Tyrone
+68,4,00:01,80,80,MIN,2_Pts_C,Davi
+69,4,00:11,78,80,FRA,substituicao_entra,Schattmann
+70,4,00:11,78,80,FRA,substituicao_sai,David Jackson
+71,4,00:11,78,80,MIN,tempo_tecnico,Minas
+72,4,00:11,78,80,FRA,LL_Pts_C,David Jackson
+73,4,00:11,78,79,FRA,LL_Pts_T,David Jackson
+74,4,00:11,78,79,MIN,substituicao_entra,Deodato
+75,4,00:11,78,79,MIN,substituicao_sai,Alex
+76,4,00:13,78,79,FRA,FR,David Jackson
+77,4,00:13,78,79,MIN,FC,Alex
+78,4,00:27,78,79,FRA,RD,Lucas Dias
+79,4,00:30,78,79,MIN,2_Pts_T,Leandrinho
+80,4,00:44,78,79,FRA,AS,Elinho
+81,4,00:44,78,79,FRA,3_Pts_C,Lucas Dias
+82,4,00:47,78,76,FRA,FR,David Jackson
+83,4,00:47,78,76,MIN,FC,Scott
+84,4,01:10,78,76,MIN,2_Pts_C,Leandrinho
+85,4,01:19,76,76,FRA,2_Pts_C,David Jackson
+86,4,01:33,76,74,MIN,2_Pts_C,Leandrinho
+87,4,01:49,74,74,MIN,BR,Leandrinho
+88,4,01:49,74,74,FRA,ER,Jimmy
+89,4,01:57,74,74,FRA,FR,Hettsheimeir
+90,4,01:57,74,74,MIN,FC,Alex
+91,4,02:07,74,74,FRA,RD,Jimmy
+92,4,02:10,74,74,MIN,3_Pts_T,Davi
+93,4,02:30,74,74,MIN,RO,Minas
+94,4,02:31,74,74,MIN,3_Pts_T,Leandrinho
+95,4,02:46,74,74,MIN,RD,Tyrone
+96,4,02:50,74,74,FRA,2_Pts_T,Elinho
+97,4,03:11,74,74,MIN,2_Pts_C,Leandrinho
+98,4,03:27,72,74,MIN,RD,Minas
+99,4,03:27,72,74,FRA,2_Pts_T,Elinho
+100,4,03:51,72,74,FRA,tempo_tecnico,Franca
+101,4,03:51,72,74,MIN,3_Pts_C,Leandrinho
+102,4,03:51,69,74,MIN,RD,Leandrinho
+103,4,03:51,69,74,FRA,2_Pts_T,Jimmy
+104,4,03:52,69,74,FRA,RO,Jimmy
+105,4,04:00,69,74,MIN,TO,Alex
+106,4,04:00,69,74,FRA,2_Pts_T,David Jackson
+107,4,04:24,69,74,MIN,AS,Tyrone
+108,4,04:24,69,74,MIN,3_Pts_C,Davi
+109,4,04:43,66,74,FRA,ER,Lucas Dias
+110,4,04:44,66,74,FRA,RD,Lucas Dias
+111,4,04:44,66,74,MIN,LL_Pts_T,Davi
+112,4,04:44,66,74,MIN,LL_Pts_C,Davi
+113,4,04:44,65,74,MIN,FR,Davi
+114,4,04:44,65,74,FRA,FC,Jimmy
+115,4,04:44,65,74,MIN,RD,Minas
+116,4,04:44,65,74,FRA,3_Pts_T,Lucas Dias
+117,4,05:03,65,74,FRA,RD,David Jackson
+118,4,05:07,65,74,MIN,2_Pts_T,Alex
+119,4,05:24,65,74,FRA,AS,Elinho
+120,4,05:24,65,74,FRA,3_Pts_C,Hettsheimeir
+121,4,05:34,65,71,FRA,RD,Elinho
+122,4,05:40,65,71,MIN,2_Pts_T,Alex
+123,4,05:48,65,71,MIN,FR,Tyrone
+124,4,05:48,65,71,FRA,FC,Elinho
+125,4,06:02,65,71,FRA,LL_Pts_C,Elinho
+126,4,06:02,65,70,FRA,LL_Pts_T,Elinho
+127,4,06:02,65,70,FRA,FR,Elinho
+128,4,06:02,65,70,MIN,FC,Davi
+129,4,06:16,65,70,MIN,2_Pts_C,Alex
+130,4,06:16,63,70,MIN,RO,Alex
+131,4,06:22,63,70,MIN,2_Pts_T,Leandrinho
+132,4,06:30,63,70,FRA,EN,Jimmy
+133,4,06:30,63,68,FRA,RO,Jimmy
+134,4,06:38,63,68,FRA,2_Pts_T,Lucas Dias
+135,4,06:59,63,68,FRA,substituicao_entra,Hettsheimeir
+136,4,06:59,63,68,FRA,substituicao_sai,Guilherme
+137,4,06:59,63,68,MIN,ER,Alex
+138,4,07:05,63,68,MIN,RD,Alex
+139,4,07:08,63,68,FRA,3_Pts_T,Guilherme
+140,4,07:25,63,68,MIN,LL_Pts_C,Scott
+141,4,07:25,62,68,MIN,LL_Pts_T,Scott
+142,4,07:25,62,68,FRA,substituicao_entra,David Jackson
+143,4,07:25,62,68,FRA,substituicao_sai,Schattmann
+144,4,07:25,62,68,MIN,FR,Scott
+145,4,07:25,62,68,FRA,FC,Guilherme
+146,4,07:26,62,68,MIN,RO,Scott
+147,4,07:26,62,68,MIN,2_Pts_T,Alex
+148,4,07:26,62,68,MIN,RD,Scott
+149,4,07:31,62,68,MIN,TO,Tyrone
+150,4,07:31,62,68,FRA,2_Pts_T,Guilherme
+151,4,07:50,62,68,MIN,AS,Alex
+152,4,07:50,62,68,MIN,EN,Scott
+153,4,07:57,60,68,MIN,FR,Alex
+154,4,07:57,60,68,FRA,FC,Elinho
+155,4,08:08,60,68,MIN,tempo_tecnico,Minas
+156,4,08:10,60,68,FRA,AS,Guilherme
+157,4,08:10,60,68,FRA,EN,Jimmy
+158,4,08:18,60,66,FRA,RD,Elinho
+159,4,08:21,60,66,MIN,3_Pts_T,Alex
+160,4,08:35,60,66,MIN,substituicao_entra,Leandrinho
+161,4,08:35,60,66,MIN,substituicao_sai,Jackson Jr
+162,4,08:35,60,66,MIN,substituicao_entra,Tyrone
+163,4,08:35,60,66,MIN,substituicao_sai,Queirós
+164,4,08:35,60,66,MIN,FR,Scott
+165,4,08:35,60,66,FRA,FC,Jimmy
+166,4,08:35,60,66,MIN,RD,Scott
+167,4,08:38,60,66,FRA,2_Pts_T,Elinho
+168,4,08:40,60,66,FRA,RD,Guilherme
+169,4,08:44,60,66,MIN,2_Pts_T,Jackson Jr
+170,4,09:05,60,66,FRA,AS,Schattmann
+171,4,09:05,60,66,FRA,2_Pts_C,Guilherme
+172,4,09:16,60,64,FRA,RD,Lucas Dias
+173,4,09:19,60,64,MIN,3_Pts_T,Alex
+174,4,09:31,60,64,FRA,LL_Pts_C,Lucas Dias
+175,4,09:31,60,63,FRA,LL_Pts_C,Lucas Dias
+176,4,09:31,60,62,FRA,FR,Lucas Dias
+177,4,09:31,60,62,MIN,FC,Queirós
+178,4,09:47,60,62,MIN,AS,Davi
+179,4,09:47,60,62,MIN,EN,Scott
+180,4,10:00,58,62,,inicio_quarto,
+181,3,00:00,58,62,,fim_quarto,
+182,3,00:00,58,62,MIN,3_Pts_T,Queirós
+183,3,00:01,58,62,MIN,RD,Queirós
+184,3,00:01,58,62,FRA,LL_Pts_T,Lucas Dias
+185,3,00:01,58,62,FRA,AS,Elinho
+186,3,00:01,58,62,FRA,LL_Pts_C,Lucas Dias
+187,3,00:01,58,61,FRA,FR,Lucas Dias
+188,3,00:01,58,61,MIN,FC,Tyrone
+189,3,00:04,58,61,FRA,LL_Pts_C,Guilherme
+190,3,00:04,58,60,FRA,LL_Pts_T,Guilherme
+191,3,00:04,58,60,MIN,substituicao_entra,Alexei
+192,3,00:04,58,60,MIN,substituicao_sai,Shilton
+193,3,00:04,58,60,MIN,substituicao_entra,Queirós
+194,3,00:04,58,60,MIN,substituicao_sai,Leandrinho
+195,3,00:04,58,60,FRA,FR,Guilherme
+196,3,00:04,58,60,MIN,FC_A,Shilton
+197,3,00:04,58,60,FRA,RO,Franca
+198,3,00:04,58,60,FRA,2_Pts_T,Lucas Dias
+199,3,00:04,58,60,FRA,RO,Lucas Dias
+200,3,00:07,58,60,FRA,2_Pts_T,Jimmy
+201,3,00:27,58,60,FRA,RD,Franca
+202,3,00:27,58,60,MIN,2_Pts_T,Jackson Jr
+203,3,00:45,58,60,FRA,AS,Schattmann
+204,3,00:45,58,60,FRA,3_Pts_C,Lucas Dias
+205,3,00:57,58,57,FRA,RD,Franca
+206,3,00:59,58,57,MIN,3_Pts_T,Deodato
+207,3,01:07,58,57,MIN,RO,Shilton
+208,3,01:10,58,57,MIN,3_Pts_T,Tyrone
+209,3,01:32,58,57,MIN,FR,Jackson Jr
+210,3,01:32,58,57,FRA,ER,Guilherme
+211,3,01:32,58,57,FRA,FC_O,Guilherme
+212,3,01:42,58,57,FRA,substituicao_entra,Jimmy
+213,3,01:42,58,57,FRA,substituicao_sai,David Jackson
+214,3,01:42,58,57,FRA,RO,Franca
+215,3,01:44,58,57,FRA,3_Pts_T,Elinho
+216,3,01:59,58,57,MIN,2_Pts_C,Leandrinho
+217,3,02:06,56,57,MIN,RD,Deodato
+218,3,02:11,56,57,FRA,3_Pts_T,Lucas Dias
+219,3,02:17,56,57,MIN,2_Pts_C,Deodato
+220,3,02:17,54,57,MIN,RO,Deodato
+221,3,02:23,54,57,MIN,3_Pts_T,Jackson Jr
+222,3,02:35,54,57,FRA,LL_Pts_C,Guilherme
+223,3,02:35,54,56,FRA,AS,Lucas Dias
+224,3,02:35,54,56,FRA,LL_Pts_C,Guilherme
+225,3,02:35,54,55,FRA,FR,Guilherme
+226,3,02:35,54,55,MIN,FC,Shilton
+227,3,02:52,54,55,FRA,substituicao_entra,Schattmann
+228,3,02:52,54,55,FRA,substituicao_sai,Jimmy
+229,3,02:52,54,55,FRA,tempo_tecnico,Franca
+230,3,02:52,54,55,MIN,AS,Tyrone
+231,3,02:52,54,55,MIN,3_Pts_C,Jackson Jr
+232,3,02:55,51,55,MIN,RO,Tyrone
+233,3,02:59,51,55,MIN,3_Pts_T,Deodato
+234,3,03:03,51,55,MIN,RD,Jackson Jr
+235,3,03:08,51,55,FRA,3_Pts_T,Elinho
+236,3,03:31,51,55,MIN,LL_Pts_C,Leandrinho
+237,3,03:31,50,55,MIN,LL_Pts_C,Leandrinho
+238,3,03:31,49,55,MIN,FR,Leandrinho
+239,3,03:31,49,55,FRA,FC,Jimmy
+240,3,03:43,49,55,MIN,RD,Deodato
+241,3,03:47,49,55,FRA,3_Pts_T,Lucas Dias
+242,3,03:59,49,55,MIN,2_Pts_C,Leandrinho
+243,3,04:12,47,55,MIN,tempo_tecnico,Minas
+244,3,04:12,47,55,FRA,3_Pts_C,David Jackson
+245,3,04:20,47,52,FRA,RD,Lucas Dias
+246,3,04:23,47,52,MIN,3_Pts_T,Jackson Jr
+247,3,04:34,47,52,MIN,FR,Shilton
+248,3,04:34,47,52,FRA,FC,David Jackson
+249,3,04:47,47,52,FRA,LL_Pts_C,Guilherme
+250,3,04:47,47,51,FRA,LL_Pts_C,Guilherme
+251,3,04:47,47,50,MIN,substituicao_entra,Deodato
+252,3,04:47,47,50,MIN,substituicao_sai,Alex
+253,3,04:47,47,50,FRA,FR,Guilherme
+254,3,04:47,47,50,MIN,FC,Alex
+255,3,04:59,47,50,FRA,RD,David Jackson
+256,3,05:03,47,50,MIN,3_Pts_T,Leandrinho
+257,3,05:10,47,50,MIN,RD,Shilton
+258,3,05:14,47,50,FRA,2_Pts_T,Elinho
+259,3,05:22,47,50,FRA,RD,David Jackson
+260,3,05:25,47,50,MIN,3_Pts_T,Tyrone
+261,3,05:42,47,50,FRA,AS,Guilherme
+262,3,05:42,47,50,FRA,3_Pts_C,Lucas Dias
+263,3,06:00,47,47,MIN,substituicao_entra,Shilton
+264,3,06:00,47,47,MIN,substituicao_sai,Scott
+265,3,06:00,47,47,FRA,FR,Jimmy
+266,3,06:00,47,47,MIN,ER,Jackson Jr
+267,3,06:00,47,47,MIN,FC_O,Jackson Jr
+268,3,06:10,47,47,FRA,2_Pts_C,Elinho
+269,3,06:39,47,45,MIN,AS,Alex
+270,3,06:39,47,45,MIN,3_Pts_C,Tyrone
+271,3,06:59,44,45,FRA,LL_Pts_C,David Jackson
+272,3,06:59,44,44,FRA,LL_Pts_C,David Jackson
+273,3,06:59,44,43,FRA,FR,David Jackson
+274,3,06:59,44,43,MIN,FC,Scott
+275,3,07:13,44,43,MIN,substituicao_entra,Jackson Jr
+276,3,07:13,44,43,MIN,substituicao_sai,Davi
+277,3,07:13,44,43,MIN,LL_Pts_C,Alex
+278,3,07:13,43,43,FRA,ER,
+279,3,07:13,43,43,FRA,FC_T,Franca
+280,3,07:13,43,43,FRA,substituicao_entra,Guilherme
+281,3,07:13,43,43,FRA,substituicao_sai,Hettsheimeir
+282,3,07:13,43,43,FRA,FR,Elinho
+283,3,07:13,43,43,MIN,FC,Davi
+284,3,07:22,43,43,FRA,RD,Hettsheimeir
+285,3,07:25,43,43,MIN,3_Pts_T,Alex
+286,3,07:39,43,43,MIN,FR,Scott
+287,3,07:39,43,43,FRA,ER,Hettsheimeir
+288,3,07:39,43,43,FRA,FC_O,Hettsheimeir
+289,3,07:45,43,43,FRA,FR,Lucas Dias
+290,3,07:45,43,43,MIN,FC,Tyrone
+291,3,07:57,43,43,MIN,AS,Davi
+292,3,07:57,43,43,MIN,2_Pts_C,Tyrone
+293,3,07:59,41,43,MIN,RD,Davi
+294,3,08:03,41,43,FRA,3_Pts_T,Hettsheimeir
+295,3,08:14,41,43,MIN,2_Pts_C,Davi
+296,3,08:28,39,43,MIN,RD,Minas
+297,3,08:28,39,43,FRA,2_Pts_T,Hettsheimeir
+298,3,08:43,39,43,FRA,FR,Hettsheimeir
+299,3,08:43,39,43,MIN,FC,Davi
+300,3,08:54,39,43,MIN,LL_Pts_C,Alex
+301,3,08:54,38,43,MIN,LL_Pts_C,Alex
+302,3,08:54,37,43,MIN,FR,Alex
+303,3,08:54,37,43,FRA,FC,Elinho
+304,3,09:03,37,43,MIN,FR,Scott
+305,3,09:03,37,43,FRA,FC,Hettsheimeir
+306,3,09:03,37,43,MIN,RO,Scott
+307,3,09:06,37,43,MIN,3_Pts_T,Tyrone
+308,3,09:20,37,43,MIN,RD,Scott
+309,3,09:24,37,43,FRA,3_Pts_T,Lucas Dias
+310,3,09:37,37,43,MIN,ER,Tyrone
+311,3,09:41,37,43,MIN,RD,Alex
+312,3,09:44,37,43,FRA,3_Pts_T,Hettsheimeir
+313,3,10:00,37,43,,inicio_quarto,
+314,2,00:00,37,43,,fim_quarto,
+315,2,00:01,37,43,MIN,3_Pts_T,Leandrinho
+316,2,00:04,37,43,MIN,RD,Tyrone
+317,2,00:04,37,43,FRA,2_Pts_T,Jimmy
+318,2,00:04,37,43,FRA,RO,Jimmy
+319,2,00:04,37,43,FRA,2_Pts_T,Hettsheimeir
+320,2,00:04,37,43,FRA,RO,Hettsheimeir
+321,2,00:08,37,43,FRA,2_Pts_T,Hettsheimeir
+322,2,00:31,37,43,MIN,ER,Tyrone
+323,2,00:38,37,43,MIN,RO,Davi
+324,2,00:42,37,43,MIN,2_Pts_T,Leandrinho
+325,2,01:07,37,43,FRA,AS,Elinho
+326,2,01:07,37,43,FRA,3_Pts_C,Lucas Dias
+327,2,01:09,37,40,FRA,RD,Hettsheimeir
+328,2,01:10,37,40,MIN,2_Pts_T,Tyrone
+329,2,01:10,37,40,MIN,RO,Tyrone
+330,2,01:14,37,40,MIN,2_Pts_T,Leandrinho
+331,2,01:32,37,40,FRA,AS,Elinho
+332,2,01:32,37,40,FRA,EN,Lucas Dias
+333,2,01:34,37,38,FRA,RD,Lucas Dias
+334,2,01:37,37,38,MIN,2_Pts_T,Leandrinho
+335,2,01:37,37,38,MIN,RO,Leandrinho
+336,2,01:45,37,38,FRA,TO,David Jackson
+337,2,01:45,37,38,MIN,3_Pts_T,Deodato
+338,2,02:01,37,38,MIN,substituicao_entra,Davi
+339,2,02:01,37,38,MIN,substituicao_sai,Alex
+340,2,02:11,37,38,FRA,2_Pts_C,David Jackson
+341,2,02:31,37,36,MIN,AS,Leandrinho
+342,2,02:31,37,36,MIN,3_Pts_C,Tyrone
+343,2,02:52,34,36,MIN,tempo_tecnico,Minas
+344,2,02:52,34,36,FRA,2_Pts_C,Elinho
+345,2,03:01,34,34,FRA,RD,Elinho
+346,2,03:05,34,34,MIN,3_Pts_T,Leandrinho
+347,2,03:10,34,34,MIN,RD,Shilton
+348,2,03:14,34,34,FRA,2_Pts_T,Lucas Dias
+349,2,03:20,34,34,FRA,RD,David Jackson
+350,2,03:23,34,34,MIN,3_Pts_T,Tyrone
+351,2,03:51,34,34,FRA,3_Pts_C,Elinho
+352,2,04:10,34,31,FRA,substituicao_entra,Lucas Dias
+353,2,04:10,34,31,FRA,substituicao_sai,Cipolini
+354,2,04:10,34,31,FRA,substituicao_entra,Elinho
+355,2,04:10,34,31,FRA,substituicao_sai,Jean
+356,2,04:10,34,31,FRA,tempo_tecnico,Franca
+357,2,04:12,34,31,MIN,AS,Deodato
+358,2,04:12,34,31,MIN,2_Pts_C,Shilton
+359,2,04:18,32,31,MIN,RD,Shilton
+360,2,04:21,32,31,FRA,3_Pts_T,Jimmy
+361,2,04:40,32,31,MIN,2_Pts_C,Leandrinho
+362,2,05:01,30,31,FRA,3_Pts_C,David Jackson
+363,2,05:16,30,28,FRA,FR,Hettsheimeir
+364,2,05:16,30,28,MIN,FC,Alex
+365,2,05:29,30,28,MIN,2_Pts_C,Alex
+366,2,05:29,28,28,MIN,RO,Alex
+367,2,05:33,28,28,MIN,3_Pts_T,Deodato
+368,2,05:37,28,28,FRA,substituicao_entra,David Jackson
+369,2,05:37,28,28,FRA,substituicao_sai,Schattmann
+370,2,05:37,28,28,MIN,FR,Alex
+371,2,05:37,28,28,FRA,FC,Schattmann
+372,2,05:51,28,28,FRA,substituicao_entra,Hettsheimeir
+373,2,05:51,28,28,FRA,substituicao_sai,Guilherme
+374,2,05:52,28,28,MIN,FR,Deodato
+375,2,05:52,28,28,FRA,ER,Guilherme
+376,2,05:52,28,28,FRA,FC_O,Guilherme
+377,2,06:05,28,28,MIN,2_Pts_C,Tyrone
+378,2,06:05,26,28,MIN,RO,Tyrone
+379,2,06:09,26,28,MIN,2_Pts_T,Leandrinho
+380,2,06:14,26,28,MIN,BR,Deodato
+381,2,06:14,26,28,FRA,ER,Schattmann
+382,2,06:22,26,28,MIN,substituicao_entra,Alex
+383,2,06:22,26,28,MIN,substituicao_sai,Jackson Jr
+384,2,06:22,26,28,MIN,substituicao_entra,Tyrone
+385,2,06:22,26,28,MIN,substituicao_sai,Scott
+386,2,06:22,26,28,FRA,FR,Schattmann
+387,2,06:22,26,28,MIN,FC,Scott
+388,2,06:30,26,28,FRA,RD,Jean
+389,2,06:35,26,28,MIN,3_Pts_T,Jackson Jr
+390,2,06:51,26,28,FRA,AS,Jean
+391,2,06:51,26,28,FRA,3_Pts_C,Schattmann
+392,2,06:58,26,25,FRA,FR,Jimmy
+393,2,06:58,26,25,MIN,FC,Deodato
+394,2,07:06,26,25,MIN,AS,Deodato
+395,2,07:06,26,25,MIN,2_Pts_C,Leandrinho
+396,2,07:11,24,25,MIN,BR,Shilton
+397,2,07:11,24,25,FRA,ER,Jimmy
+398,2,07:22,24,25,FRA,RD,Cipolini
+399,2,07:26,24,25,MIN,3_Pts_T,Deodato
+400,2,07:29,24,25,FRA,substituicao_entra,Jimmy
+401,2,07:29,24,25,FRA,substituicao_sai,Elinho
+402,2,07:29,24,25,FRA,substituicao_entra,Jean
+403,2,07:29,24,25,FRA,substituicao_sai,David Jackson
+404,2,07:30,24,25,MIN,RO,Scott
+405,2,07:31,24,25,MIN,2_Pts_T,Shilton
+406,2,07:31,24,25,MIN,RO,Shilton
+407,2,07:36,24,25,MIN,2_Pts_T,Shilton
+408,2,07:59,24,25,FRA,AS,Schattmann
+409,2,07:59,24,25,FRA,EN,Guilherme
+410,2,08:07,24,23,FRA,BR,Elinho
+411,2,08:07,24,23,MIN,ER,Deodato
+412,2,08:07,24,23,MIN,BR,Deodato
+413,2,08:07,24,23,FRA,ER,Elinho
+414,2,08:34,24,23,MIN,LL_Pts_C,Leandrinho
+415,2,08:34,23,23,MIN,LL_Pts_C,Leandrinho
+416,2,08:34,22,23,MIN,FR,Leandrinho
+417,2,08:34,22,23,FRA,FC,Schattmann
+418,2,08:34,22,23,MIN,RD,Shilton
+419,2,08:38,22,23,FRA,2_Pts_T,David Jackson
+420,2,08:46,22,23,MIN,,
+421,2,08:48,22,23,FRA,TO,Elinho
+422,2,08:48,22,23,MIN,RO,Minas
+423,2,08:48,22,23,MIN,2_Pts_T,Shilton
+424,2,09:11,22,23,MIN,FR,Scott
+425,2,09:11,22,23,FRA,ER,Cipolini
+426,2,09:11,22,23,FRA,FC_O,Cipolini
+427,2,09:15,22,23,FRA,RD,David Jackson
+428,2,09:21,22,23,FRA,TO,Cipolini
+429,2,09:21,22,23,MIN,2_Pts_T,Scott
+430,2,09:32,22,23,MIN,RD,Leandrinho
+431,2,09:36,22,23,FRA,3_Pts_T,Cipolini
+432,2,09:42,22,23,FRA,BR,Cipolini
+433,2,09:42,22,23,MIN,ER,Scott
+434,2,09:43,22,23,MIN,RO,Scott
+435,2,09:47,22,23,MIN,3_Pts_T,Jackson Jr
+436,2,10:00,22,23,,inicio_quarto,
+437,1,00:00,22,23,,fim_quarto,
+438,1,00:01,22,23,MIN,RD,Tyrone
+439,1,00:02,22,23,FRA,3_Pts_T,Elinho
+440,1,00:09,22,23,MIN,ER,Deodato
+441,1,00:14,22,23,MIN,BR,Tyrone
+442,1,00:14,22,23,FRA,ER,Elinho
+443,1,00:25,22,23,FRA,FR,David Jackson
+444,1,00:25,22,23,MIN,FC,Shilton
+445,1,00:38,22,23,MIN,AS,Alex
+446,1,00:38,22,23,MIN,LL_Pts_C,Shilton
+447,1,00:38,21,23,MIN,LL_Pts_T,Shilton
+448,1,00:38,21,23,MIN,substituicao_entra,Alexei
+449,1,00:38,21,23,MIN,substituicao_sai,Alex
+450,1,00:38,21,23,MIN,substituicao_entra,Jackson Jr
+451,1,00:38,21,23,MIN,substituicao_sai,Davi
+452,1,00:38,21,23,MIN,FR,Shilton
+453,1,00:38,21,23,FRA,FC,Schattmann
+454,1,00:40,21,23,MIN,RO,Shilton
+455,1,00:44,21,23,MIN,3_Pts_T,Davi
+456,1,01:05,21,23,FRA,AS,Guilherme
+457,1,01:05,21,23,FRA,3_Pts_C,Elinho
+458,1,01:20,21,20,FRA,RD,Guilherme
+459,1,01:23,21,20,MIN,2_Pts_T,Davi
+460,1,01:39,21,20,FRA,3_Pts_C,Schattmann
+461,1,01:43,21,17,FRA,RD,Guilherme
+462,1,01:48,21,17,MIN,2_Pts_T,Alex
+463,1,02:12,21,17,FRA,substituicao_entra,Guilherme
+464,1,02:12,21,17,FRA,substituicao_sai,Hettsheimeir
+465,1,02:12,21,17,MIN,substituicao_entra,Shilton
+466,1,02:12,21,17,MIN,substituicao_sai,Scott
+467,1,02:12,21,17,MIN,substituicao_entra,Deodato
+468,1,02:12,21,17,MIN,substituicao_sai,Leandrinho
+469,1,02:12,21,17,MIN,tempo_tecnico,Minas
+470,1,02:12,21,17,FRA,AS,David Jackson
+471,1,02:12,21,17,FRA,3_Pts_C,Elinho
+472,1,02:25,21,14,FRA,RD,Cipolini
+473,1,02:29,21,14,MIN,2_Pts_T,Scott
+474,1,02:33,21,14,MIN,RD,Leandrinho
+475,1,02:36,21,14,FRA,3_Pts_T,Elinho
+476,1,02:48,21,14,FRA,RD,Cipolini
+477,1,02:52,21,14,MIN,3_Pts_T,Tyrone
+478,1,03:11,21,14,FRA,AS,Elinho
+479,1,03:11,21,14,FRA,3_Pts_C,Hettsheimeir
+480,1,03:24,21,11,FRA,FR,Schattmann
+481,1,03:24,21,11,MIN,FC,Davi
+482,1,03:32,21,11,FRA,BR,Cipolini
+483,1,03:32,21,11,MIN,ER,Leandrinho
+484,1,03:45,21,11,FRA,substituicao_entra,Schattmann
+485,1,03:45,21,11,FRA,substituicao_sai,Jimmy
+486,1,03:45,21,11,FRA,ER,Jimmy
+487,1,04:01,21,11,FRA,substituicao_entra,Cipolini
+488,1,04:01,21,11,FRA,substituicao_sai,Lucas Dias
+489,1,04:01,21,11,FRA,tempo_tecnico,Franca
+490,1,04:01,21,11,MIN,EN,Tyrone
+491,1,04:05,19,11,MIN,BR,Tyrone
+492,1,04:05,19,11,FRA,ER,Elinho
+493,1,04:16,19,11,MIN,2_Pts_C,Leandrinho
+494,1,04:27,17,11,MIN,FR,Scott
+495,1,04:27,17,11,FRA,FC,Hettsheimeir
+496,1,04:27,17,11,MIN,RO,Scott
+497,1,04:27,17,11,MIN,3_Pts_T,Leandrinho
+498,1,04:35,17,11,MIN,RD,Alex
+499,1,04:35,17,11,FRA,LL_Pts_T,Hettsheimeir
+500,1,04:35,17,11,FRA,FR,Hettsheimeir
+501,1,04:35,17,11,MIN,FC,Alex
+502,1,04:35,17,11,FRA,AS,Lucas Dias
+503,1,04:35,17,11,FRA,2_Pts_C,Hettsheimeir
+504,1,04:54,17,9,MIN,2_Pts_C,Alex
+505,1,05:16,15,9,FRA,AS,Jimmy
+506,1,05:16,15,9,FRA,2_Pts_C,Hettsheimeir
+507,1,05:36,15,7,MIN,AS,Tyrone
+508,1,05:36,15,7,MIN,3_Pts_C,Davi
+509,1,05:50,12,7,MIN,RD,Scott
+510,1,05:54,12,7,FRA,2_Pts_T,Hettsheimeir
+511,1,06:02,12,7,FRA,RD,Lucas Dias
+512,1,06:05,12,7,MIN,3_Pts_T,Alex
+513,1,06:11,12,7,MIN,RD,Alex
+514,1,06:16,12,7,FRA,3_Pts_T,David Jackson
+515,1,06:24,12,7,MIN,2_Pts_C,Alex
+516,1,06:34,10,7,FRA,2_Pts_C,Hettsheimeir
+517,1,06:56,10,5,MIN,AS,Leandrinho
+518,1,06:56,10,5,MIN,2_Pts_C,Scott
+519,1,07:19,8,5,FRA,AS,David Jackson
+520,1,07:19,8,5,FRA,2_Pts_C,Hettsheimeir
+521,1,07:36,8,3,MIN,AS,Davi
+522,1,07:36,8,3,MIN,3_Pts_C,Leandrinho
+523,1,07:59,5,3,FRA,AS,David Jackson
+524,1,07:59,5,3,FRA,3_Pts_C,Jimmy
+525,1,08:11,5,0,FRA,RD,Jimmy
+526,1,08:14,5,0,MIN,2_Pts_T,Leandrinho
+527,1,08:21,5,0,MIN,RD,Leandrinho
+528,1,08:25,5,0,FRA,2_Pts_T,Jimmy
+529,1,08:36,5,0,MIN,AS,Scott
+530,1,08:36,5,0,MIN,2_Pts_C,Alex
+531,1,08:52,3,0,MIN,substituicao_entra,Leandrinho
+532,1,08:52,3,0,MIN,substituicao_sai,Deodato
+533,1,08:52,3,0,FRA,ER,Elinho
+534,1,08:52,3,0,FRA,FR,Elinho
+535,1,08:52,3,0,MIN,FC,Scott
+536,1,09:04,3,0,MIN,substituicao_entra,Deodato
+537,1,09:04,3,0,MIN,substituicao_sai,Leandrinho
+538,1,09:04,3,0,MIN,ER,Leandrinho
+539,1,09:20,3,0,MIN,RD,Alex
+540,1,09:23,3,0,FRA,3_Pts_T,Lucas Dias
+541,1,09:31,3,0,MIN,AS,Scott
+542,1,09:31,3,0,MIN,3_Pts_C,Davi
+543,1,09:32,0,0,MIN,RO,Scott
+544,1,09:38,0,0,MIN,2_Pts_T,Alex
+545,1,09:41,0,0,MIN,RD,Scott
+546,1,09:45,0,0,FRA,2_Pts_T,Hettsheimeir
+547,1,10:00,0,0,FRA,substituicao_entra,David Jackson
+548,1,10:00,0,0,FRA,substituicao_entra,Hettsheimeir
+549,1,10:00,0,0,FRA,substituicao_entra,Jimmy
+550,1,10:00,0,0,FRA,substituicao_entra,Lucas Dias
+551,1,10:00,0,0,FRA,substituicao_entra,Elinho
+552,1,10:00,0,0,MIN,substituicao_entra,Scott
+553,1,10:00,0,0,MIN,substituicao_entra,Leandrinho
+554,1,10:00,0,0,MIN,substituicao_entra,Alex
+555,1,10:00,0,0,MIN,substituicao_entra,Davi
+556,1,10:00,0,0,MIN,substituicao_entra,Tyrone
+557,1,10:00,0,0,,inicio_partida,

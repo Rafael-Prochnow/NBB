@@ -1,0 +1,502 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,66,60,,fim_partida,
+1,4,00:11,66,60,PIN,3_Pts_C,Holloway
+2,4,00:24,66,57,BAU,substituicao_entra,Gegê
+3,4,00:24,66,57,BAU,substituicao_sai,Valtinho
+4,4,00:24,66,57,BAU,LL_Pts_C,Léo Meindl
+5,4,00:24,65,57,BAU,LL_Pts_T,Léo Meindl
+6,4,00:24,65,57,BAU,FR,Léo Meindl
+7,4,00:24,65,57,PIN,FC,Teichmann
+8,4,00:28,65,57,PIN,substituicao_entra,Teichmann
+9,4,00:28,65,57,PIN,substituicao_sai,Gemerson
+10,4,00:28,65,57,BAU,substituicao_entra,Valtinho
+11,4,00:28,65,57,BAU,substituicao_sai,Shilton
+12,4,00:28,65,57,BAU,RD,Bauru
+13,4,00:28,65,57,PIN,3_Pts_T,Neto
+14,4,00:33,65,57,BAU,ER,Jefferson
+15,4,00:34,65,57,BAU,RD,Jefferson
+16,4,00:36,65,57,PIN,3_Pts_T,Neto
+17,4,00:40,65,57,PIN,substituicao_entra,Neto
+18,4,00:40,65,57,PIN,substituicao_sai,Teichmann
+19,4,00:40,65,57,PIN,tempo_tecnico,
+20,4,00:40,65,57,BAU,substituicao_entra,Shilton
+21,4,00:40,65,57,BAU,substituicao_sai,Valtinho
+22,4,00:40,65,57,BAU,LL_Pts_C,Valtinho
+23,4,00:40,64,57,BAU,LL_Pts_C,Valtinho
+24,4,00:40,63,57,BAU,FR,Valtinho
+25,4,00:40,63,57,PIN,FC,Bennett
+26,4,00:51,63,57,BAU,FR,Alex
+27,4,00:51,63,57,PIN,FC,Teichmann
+28,4,00:53,63,57,BAU,FR,Léo Meindl
+29,4,00:53,63,57,PIN,FC,Renan
+30,4,00:56,63,57,BAU,substituicao_entra,Léo Meindl
+31,4,00:56,63,57,BAU,substituicao_sai,Shilton
+32,4,00:56,63,57,PIN,substituicao_entra,Gemerson
+33,4,00:56,63,57,PIN,substituicao_sai,Neto
+34,4,00:56,63,57,PIN,LL_Pts_C,Neto
+35,4,00:56,63,56,PIN,LL_Pts_C,Neto
+36,4,00:56,63,55,PIN,FR,Neto
+37,4,00:56,63,55,BAU,FC,Shilton
+38,4,01:01,63,55,BAU,substituicao_entra,Shilton
+39,4,01:01,63,55,BAU,substituicao_sai,Jaú
+40,4,01:01,63,55,PIN,tempo_tecnico,
+41,4,01:05,63,55,BAU,AS,Alex
+42,4,01:05,63,55,BAU,3_Pts_C,Valtinho
+43,4,01:28,60,55,BAU,RD,Gui Deodato
+44,4,01:31,60,55,PIN,3_Pts_T,Renan
+45,4,01:43,60,55,PIN,substituicao_entra,Neto
+46,4,01:43,60,55,PIN,substituicao_sai,Gemerson
+47,4,01:43,60,55,PIN,RO,Pinheiros
+48,4,01:43,60,55,PIN,3_Pts_T,Gemerson
+49,4,01:46,60,55,PIN,RO,Renan
+50,4,01:47,60,55,PIN,LL_Pts_T,Gemerson
+51,4,01:47,60,55,PIN,LL_Pts_C,Gemerson
+52,4,01:47,60,54,PIN,FR,Gemerson
+53,4,01:47,60,54,BAU,FC,Valtinho
+54,4,01:47,60,54,PIN,RD,Gemerson
+55,4,01:48,60,54,BAU,3_Pts_T,Jaú
+56,4,02:07,60,54,BAU,FR,Valtinho
+57,4,02:07,60,54,PIN,FC,Gemerson
+58,4,02:08,60,54,BAU,RD,Valtinho
+59,4,02:14,60,54,PIN,3_Pts_T,Holloway
+60,4,02:35,60,54,PIN,RD,Pinheiros
+61,4,02:38,60,54,BAU,3_Pts_T,Gui Deodato
+62,4,02:40,60,54,BAU,RO,Gui Deodato
+63,4,02:44,60,54,PIN,TO,Holloway
+64,4,02:44,60,54,BAU,3_Pts_T,Gui Deodato
+65,4,02:54,60,54,PIN,substituicao_entra,Gemerson
+66,4,02:54,60,54,PIN,substituicao_sai,Neto
+67,4,02:54,60,54,BAU,RO,Bauru
+68,4,02:56,60,54,BAU,2_Pts_T,Valtinho
+69,4,03:05,60,54,BAU,RO,Bauru
+70,4,03:05,60,54,BAU,2_Pts_T,Jaú
+71,4,03:06,60,54,BAU,RO,Jaú
+72,4,03:08,60,54,BAU,2_Pts_T,Valtinho
+73,4,03:20,60,54,PIN,ER,Holloway
+74,4,03:34,60,54,PIN,BR,Bennett
+75,4,03:34,60,54,BAU,ER,Alex
+76,4,03:51,60,54,PIN,substituicao_entra,Teichmann
+77,4,03:51,60,54,PIN,substituicao_sai,Gemerson
+78,4,03:51,60,54,BAU,RO,Bauru
+79,4,03:51,60,54,BAU,3_Pts_T,Jefferson
+80,4,03:59,60,54,BAU,RD,Jefferson
+81,4,04:01,60,54,PIN,2_Pts_T,Neto
+82,4,04:22,60,54,BAU,AS,Jefferson
+83,4,04:22,60,54,BAU,2_Pts_C,Jaú
+84,4,04:31,58,54,PIN,LL_Pts_C,Neto
+85,4,04:31,58,53,PIN,LL_Pts_T,Neto
+86,4,04:31,58,53,PIN,FR,Neto
+87,4,04:31,58,53,BAU,FC,Gui Deodato
+88,4,04:35,58,53,PIN,FR,Neto
+89,4,04:35,58,53,BAU,FC,Valtinho
+90,4,05:04,58,53,BAU,AS,Valtinho
+91,4,05:04,58,53,BAU,3_Pts_C,Gui Deodato
+92,4,05:15,55,53,BAU,RO,Gui Deodato
+93,4,05:17,55,53,BAU,3_Pts_T,Gui Deodato
+94,4,05:28,55,53,BAU,RD,Valtinho
+95,4,05:30,55,53,PIN,2_Pts_T,Renan
+96,4,05:34,55,53,PIN,RD,Bennett
+97,4,05:37,55,53,BAU,2_Pts_T,Alex
+98,4,05:52,55,53,BAU,substituicao_entra,Valtinho
+99,4,05:52,55,53,BAU,substituicao_sai,Gegê
+100,4,05:52,55,53,BAU,substituicao_entra,Alex
+101,4,05:52,55,53,BAU,substituicao_sai,Léo Meindl
+102,4,05:52,55,53,BAU,tempo_tecnico,
+103,4,06:03,55,53,PIN,AS,Holloway
+104,4,06:03,55,53,PIN,3_Pts_C,Neto
+105,4,06:06,55,50,PIN,RO,Holloway
+106,4,06:09,55,50,PIN,3_Pts_T,Neto
+107,4,06:22,55,50,PIN,RD,Pinheiros
+108,4,06:23,55,50,BAU,2_Pts_T,Jefferson
+109,4,06:51,55,50,PIN,2_Pts_C,Holloway
+110,4,06:54,55,48,PIN,FR,Gemerson
+111,4,06:54,55,48,BAU,FC,Gegê
+112,4,06:54,55,48,PIN,RO,Gemerson
+113,4,06:56,55,48,PIN,2_Pts_T,Gemerson
+114,4,07:14,55,48,BAU,2_Pts_C,Jefferson
+115,4,07:34,53,48,PIN,2_Pts_C,Neto
+116,4,07:45,53,46,BAU,LL_Pts_C,Jefferson
+117,4,07:45,52,46,BAU,LL_Pts_C,Jefferson
+118,4,07:46,51,46,BAU,FR,Jefferson
+119,4,07:46,51,46,PIN,FC,Gemerson
+120,4,07:58,51,46,BAU,BR,Jaú
+121,4,07:58,51,46,PIN,ER,Renan
+122,4,07:59,51,46,PIN,RD,Neto
+123,4,08:04,51,46,PIN,TO,Gemerson
+124,4,08:04,51,46,BAU,2_Pts_T,Léo Meindl
+125,4,08:28,51,46,PIN,2_Pts_C,Bennett
+126,4,08:40,51,44,BAU,substituicao_entra,Léo Meindl
+127,4,08:40,51,44,BAU,substituicao_sai,Alex
+128,4,08:40,51,44,PIN,substituicao_entra,Holloway
+129,4,08:40,51,44,PIN,substituicao_sai,Ansaloni
+130,4,08:40,51,44,BAU,ER,Jefferson
+131,4,09:00,51,44,BAU,BR,Jefferson
+132,4,09:00,51,44,PIN,ER,Bennett
+133,4,09:19,51,44,PIN,FR,Ansaloni
+134,4,09:19,51,44,BAU,ER,Alex
+135,4,09:19,51,44,BAU,FC_O,Alex
+136,4,09:19,51,44,PIN,2_Pts_C,Bennett
+137,4,09:31,51,42,BAU,AS,Jefferson
+138,4,09:31,51,42,BAU,EN,Gui Deodato
+139,4,09:35,49,42,BAU,RD,Alex
+140,4,09:37,49,42,PIN,2_Pts_T,Ansaloni
+141,4,09:51,49,42,PIN,FR,Ansaloni
+142,4,09:51,49,42,BAU,FC,Gui Deodato
+143,4,10:00,49,42,,inicio_quarto,
+144,3,00:00,49,42,,fim_quarto,
+145,3,00:06,49,42,PIN,RD,Gemerson
+146,3,00:08,49,42,BAU,2_Pts_T,Alex
+147,3,00:19,49,42,BAU,BR,Alex
+148,3,00:19,49,42,PIN,ER,Ansaloni
+149,3,00:21,49,42,PIN,RD,Ansaloni
+150,3,00:24,49,42,BAU,3_Pts_T,Gegê
+151,3,00:43,49,42,BAU,RD,Gegê
+152,3,00:46,49,42,PIN,3_Pts_T,Gemerson
+153,3,01:08,49,42,PIN,RD,Neto
+154,3,01:10,49,42,BAU,3_Pts_T,Alex
+155,3,01:25,49,42,BAU,RD,Alex
+156,3,01:27,49,42,PIN,2_Pts_T,Renan
+157,3,01:41,49,42,BAU,2_Pts_C,Gui Deodato
+158,3,02:02,47,42,PIN,AS,Neto
+159,3,02:02,47,42,PIN,2_Pts_C,Ansaloni
+160,3,02:18,47,40,BAU,substituicao_entra,Gegê
+161,3,02:18,47,40,BAU,substituicao_sai,Valtinho
+162,3,02:18,47,40,BAU,ER,Jefferson
+163,3,02:19,47,40,PIN,FR,Renan
+164,3,02:19,47,40,BAU,FC_O,Jefferson
+165,3,02:39,47,40,PIN,LL_Pts_C,Renan
+166,3,02:39,47,39,PIN,LL_Pts_C,Renan
+167,3,02:39,47,38,PIN,FR,Renan
+168,3,02:39,47,38,BAU,FC,Jaú
+169,3,02:52,47,38,PIN,substituicao_entra,Renan
+170,3,02:52,47,38,PIN,substituicao_sai,Teichmann
+171,3,02:52,47,38,PIN,RD,Pinheiros
+172,3,02:53,47,38,BAU,3_Pts_T,Jefferson
+173,3,03:04,47,38,BAU,FR,Jefferson
+174,3,03:04,47,38,PIN,FC,Ansaloni
+175,3,03:04,47,38,BAU,RD,Jefferson
+176,3,03:04,47,38,PIN,2_Pts_T,Teichmann
+177,3,03:10,47,38,PIN,FR,Gemerson
+178,3,03:10,47,38,BAU,FC,Valtinho
+179,3,03:35,47,38,BAU,AS,Jefferson
+180,3,03:35,47,38,BAU,EN,Gui Deodato
+181,3,03:54,45,38,PIN,ER,
+182,3,04:07,45,38,BAU,substituicao_entra,Gui Deodato
+183,3,04:07,45,38,BAU,substituicao_sai,Léo Meindl
+184,3,04:26,45,38,BAU,AS,Alex
+185,3,04:26,45,38,BAU,3_Pts_C,Jaú
+186,3,04:41,42,38,BAU,RD,Alex
+187,3,04:41,42,38,PIN,LL_Pts_T,Ansaloni
+188,3,04:41,42,38,PIN,FR,Ansaloni
+189,3,04:41,42,38,BAU,FC,Jefferson
+190,3,04:41,42,38,PIN,AS,Neto
+191,3,04:41,42,38,PIN,2_Pts_C,Ansaloni
+192,3,04:58,42,36,BAU,ER,Léo Meindl
+193,3,05:11,42,36,BAU,FR,Valtinho
+194,3,05:11,42,36,PIN,FC,Neto
+195,3,05:23,42,36,BAU,RD,Bauru
+196,3,05:25,42,36,PIN,2_Pts_T,Ansaloni
+197,3,05:38,42,36,PIN,substituicao_entra,Neto
+198,3,05:38,42,36,PIN,substituicao_sai,Holloway
+199,3,05:38,42,36,PIN,RO,Pinheiros
+200,3,05:40,42,36,PIN,2_Pts_T,Ansaloni
+201,3,05:56,42,36,BAU,AS,Valtinho
+202,3,05:56,42,36,BAU,2_Pts_C,Jaú
+203,3,06:14,40,36,BAU,RD,Alex
+204,3,06:14,40,36,PIN,LL_Pts_T,Teichmann
+205,3,06:14,40,36,PIN,FR,Teichmann
+206,3,06:14,40,36,BAU,FC,Léo Meindl
+207,3,06:20,40,36,PIN,2_Pts_C,Teichmann
+208,3,06:24,40,34,PIN,BR,Teichmann
+209,3,06:24,40,34,BAU,ER,Alex
+210,3,06:32,40,34,BAU,RD,Alex
+211,3,06:34,40,34,PIN,2_Pts_T,Holloway
+212,3,06:55,40,34,PIN,RD,Gemerson
+213,3,06:56,40,34,BAU,LL_Pts_T,Jaú
+214,3,06:56,40,34,BAU,FR,Jaú
+215,3,06:56,40,34,PIN,FC,Holloway
+216,3,06:56,40,34,BAU,AS,Léo Meindl
+217,3,06:56,40,34,BAU,2_Pts_C,Jaú
+218,3,07:15,38,34,PIN,AS,Gemerson
+219,3,07:15,38,34,PIN,2_Pts_C,Ansaloni
+220,3,07:38,38,32,PIN,RD,Pinheiros
+221,3,07:39,38,32,BAU,3_Pts_T,Valtinho
+222,3,07:57,38,32,PIN,AS,Teichmann
+223,3,07:57,38,32,PIN,3_Pts_C,Gemerson
+224,3,08:13,38,29,BAU,2_Pts_C,Jefferson
+225,3,08:30,36,29,BAU,RD,Jefferson
+226,3,08:32,36,29,PIN,2_Pts_T,Bennett
+227,3,08:40,36,29,BAU,2_Pts_C,Valtinho
+228,3,09:04,34,29,PIN,AS,Teichmann
+229,3,09:04,34,29,PIN,3_Pts_C,Holloway
+230,3,09:10,34,26,PIN,FR,Holloway
+231,3,09:10,34,26,BAU,FC,Valtinho
+232,3,09:18,34,26,PIN,RD,Gemerson
+233,3,09:22,34,26,BAU,2_Pts_T,Jefferson
+234,3,09:28,34,26,BAU,RD,Léo Meindl
+235,3,09:31,34,26,PIN,2_Pts_T,Teichmann
+236,3,09:47,34,26,PIN,RD,Gemerson
+237,3,09:48,34,26,BAU,2_Pts_T,Jaú
+238,3,10:00,34,26,,inicio_quarto,
+239,2,00:00,34,26,,fim_quarto,
+240,2,00:02,34,26,PIN,2_Pts_T,Ruivo
+241,2,00:26,34,26,BAU,3_Pts_C,Jefferson
+242,2,00:40,31,26,PIN,substituicao_entra,Ansaloni
+243,2,00:40,31,26,PIN,substituicao_sai,Teichmann
+244,2,00:40,31,26,BAU,tempo_tecnico,
+245,2,00:43,31,26,PIN,ER,Bennett
+246,2,00:44,31,26,PIN,RO,Bennett
+247,2,00:46,31,26,PIN,3_Pts_T,Gemerson
+248,2,01:03,31,26,BAU,substituicao_entra,Jaú
+249,2,01:03,31,26,BAU,substituicao_sai,Léo Meindl
+250,2,01:03,31,26,BAU,AS,Jefferson
+251,2,01:03,31,26,BAU,LL_Pts_C,Léo Meindl
+252,2,01:03,30,26,BAU,LL_Pts_C,Léo Meindl
+253,2,01:03,29,26,BAU,substituicao_entra,Gui Deodato
+254,2,01:03,29,26,BAU,substituicao_sai,Jaú
+255,2,01:03,29,26,PIN,substituicao_entra,Ruivo
+256,2,01:03,29,26,PIN,substituicao_sai,Renan
+257,2,01:03,29,26,BAU,FR,Léo Meindl
+258,2,01:03,29,26,PIN,FC,Renan
+259,2,01:05,29,26,BAU,BR,Jefferson
+260,2,01:05,29,26,PIN,ER,Teichmann
+261,2,01:07,29,26,PIN,RD,Teichmann
+262,2,01:11,29,26,BAU,2_Pts_T,Léo Meindl
+263,2,01:23,29,26,PIN,AS,Teichmann
+264,2,01:23,29,26,PIN,2_Pts_C,Gemerson
+265,2,01:36,29,24,BAU,AS,Jefferson
+266,2,01:36,29,24,BAU,3_Pts_C,Valtinho
+267,2,01:40,26,24,BAU,RO,Jefferson
+268,2,01:42,26,24,BAU,3_Pts_T,Jaú
+269,2,02:05,26,24,PIN,LL_Pts_C,Gemerson
+270,2,02:05,26,23,PIN,LL_Pts_C,Gemerson
+271,2,02:05,26,22,BAU,substituicao_entra,Gegê
+272,2,02:05,26,22,BAU,substituicao_sai,Alex
+273,2,02:05,26,22,PIN,FR,Gemerson
+274,2,02:05,26,22,BAU,FC,Léo Meindl
+275,2,02:16,26,22,PIN,RD,Teichmann
+276,2,02:18,26,22,BAU,2_Pts_T,Alex
+277,2,02:35,26,22,PIN,substituicao_entra,Renan
+278,2,02:35,26,22,PIN,substituicao_sai,Ansaloni
+279,2,02:35,26,22,BAU,FR,Léo Meindl
+280,2,02:35,26,22,PIN,ER,Holloway
+281,2,02:35,26,22,PIN,FC_O,Holloway
+282,2,02:47,26,22,BAU,2_Pts_C,Léo Meindl
+283,2,02:56,24,22,BAU,BR,Alex
+284,2,02:56,24,22,PIN,ER,Holloway
+285,2,03:12,24,22,PIN,substituicao_entra,Gemerson
+286,2,03:12,24,22,PIN,substituicao_sai,Neto
+287,2,03:12,24,22,PIN,tempo_tecnico,
+288,2,03:16,24,22,BAU,2_Pts_C,Jefferson
+289,2,03:22,22,22,BAU,RO,Bauru
+290,2,03:22,22,22,PIN,TO,Holloway
+291,2,03:22,22,22,BAU,3_Pts_T,Léo Meindl
+292,2,03:24,22,22,BAU,RD,Léo Meindl
+293,2,03:30,22,22,BAU,TO,Jefferson
+294,2,03:30,22,22,PIN,2_Pts_T,Holloway
+295,2,03:43,22,22,PIN,BR,Bennett
+296,2,03:43,22,22,BAU,ER,Jefferson
+297,2,03:46,22,22,BAU,RD,Jefferson
+298,2,03:50,22,22,PIN,3_Pts_T,Bennett
+299,2,04:01,22,22,BAU,2_Pts_C,Alex
+300,2,04:04,20,22,BAU,RD,Jaú
+301,2,04:07,20,22,PIN,2_Pts_T,Teichmann
+302,2,04:20,20,22,BAU,substituicao_entra,Léo Meindl
+303,2,04:20,20,22,BAU,substituicao_sai,Gui Deodato
+304,2,04:20,20,22,PIN,FR,Holloway
+305,2,04:20,20,22,BAU,ER,Gui Deodato
+306,2,04:20,20,22,BAU,FC_O,Gui Deodato
+307,2,04:36,20,22,BAU,RD,Jefferson
+308,2,04:39,20,22,PIN,3_Pts_T,Neto
+309,2,04:47,20,22,PIN,FR,Teichmann
+310,2,04:47,20,22,BAU,FC,Jaú
+311,2,04:59,20,22,BAU,AS,Alex
+312,2,04:59,20,22,BAU,2_Pts_C,Jaú
+313,2,05:20,18,22,BAU,RD,Jaú
+314,2,05:20,18,22,PIN,AS,Neto
+315,2,05:20,18,22,PIN,LL_Pts_T,Ansaloni
+316,2,05:20,18,22,PIN,LL_Pts_C,Ansaloni
+317,2,05:20,18,21,PIN,FR,Ansaloni
+318,2,05:20,18,21,BAU,FC,Jaú
+319,2,05:28,18,21,PIN,RO,Teichmann
+320,2,05:30,18,21,PIN,2_Pts_T,Ansaloni
+321,2,05:55,18,21,PIN,tempo_tecnico,
+322,2,06:00,18,21,BAU,2_Pts_C,Alex
+323,2,06:07,16,21,BAU,RD,Valtinho
+324,2,06:11,16,21,PIN,3_Pts_T,Bennett
+325,2,06:30,16,21,BAU,AS,Valtinho
+326,2,06:30,16,21,BAU,2_Pts_C,Alex
+327,2,06:42,14,21,BAU,RD,Jefferson
+328,2,06:45,14,21,PIN,2_Pts_T,Holloway
+329,2,06:53,14,21,PIN,RD,Bennett
+330,2,06:55,14,21,BAU,3_Pts_T,Valtinho
+331,2,07:02,14,21,BAU,RD,Jaú
+332,2,07:05,14,21,PIN,2_Pts_T,Neto
+333,2,07:28,14,21,BAU,LL_Pts_C,Jefferson
+334,2,07:28,13,21,BAU,LL_Pts_C,Jefferson
+335,2,07:28,12,21,BAU,substituicao_entra,Valtinho
+336,2,07:28,12,21,BAU,substituicao_sai,Léo Meindl
+337,2,07:28,12,21,BAU,FR,Jefferson
+338,2,07:28,12,21,PIN,FC,Teichmann
+339,2,07:41,12,21,BAU,RO,Bauru
+340,2,07:43,12,21,BAU,2_Pts_T,Léo Meindl
+341,2,07:50,12,21,BAU,substituicao_entra,Jaú
+342,2,07:50,12,21,BAU,substituicao_sai,Shilton
+343,2,07:50,12,21,PIN,substituicao_entra,Teichmann
+344,2,07:50,12,21,PIN,substituicao_sai,Renan
+345,2,07:50,12,21,BAU,FR,Shilton
+346,2,07:50,12,21,PIN,FC,Ansaloni
+347,2,08:04,12,21,PIN,AS,Bennett
+348,2,08:04,12,21,PIN,2_Pts_C,Ansaloni
+349,2,08:18,12,19,PIN,FR,Ansaloni
+350,2,08:18,12,19,BAU,FC,Alex
+351,2,08:27,12,19,BAU,AS,Jefferson
+352,2,08:27,12,19,BAU,LL_Pts_C,Shilton
+353,2,08:27,11,19,BAU,LL_Pts_T,Shilton
+354,2,08:27,11,19,BAU,substituicao_entra,Alex
+355,2,08:27,11,19,BAU,substituicao_sai,Valtinho
+356,2,08:27,11,19,BAU,FR,Shilton
+357,2,08:27,11,19,PIN,FC,Renan
+358,2,08:49,11,19,PIN,AS,Ansaloni
+359,2,08:49,11,19,PIN,EN,Renan
+360,2,09:02,11,17,PIN,RD,Holloway
+361,2,09:04,11,17,BAU,3_Pts_T,Gui Deodato
+362,2,09:12,11,17,BAU,BR,Valtinho
+363,2,09:12,11,17,PIN,ER,Holloway
+364,2,09:21,11,17,PIN,RD,Renan
+365,2,09:24,11,17,BAU,3_Pts_T,Gui Deodato
+366,2,09:33,11,17,BAU,RD,Valtinho
+367,2,09:36,11,17,PIN,2_Pts_T,Neto
+368,2,10:00,11,17,,inicio_quarto,
+369,1,00:00,11,17,,fim_quarto,
+370,1,00:13,11,17,BAU,RD,Gui Deodato
+371,1,00:17,11,17,PIN,2_Pts_T,Neto
+372,1,00:31,11,17,BAU,2_Pts_C,Jefferson
+373,1,00:33,9,17,BAU,RO,Jefferson
+374,1,00:36,9,17,BAU,2_Pts_T,Jefferson
+375,1,00:46,9,17,PIN,ER,Gustavo
+376,1,01:03,9,17,PIN,RD,Ruivo
+377,1,01:06,9,17,BAU,3_Pts_T,Gui Deodato
+378,1,01:06,9,17,BAU,FR,Jefferson
+379,1,01:06,9,17,PIN,FC,Gemerson
+380,1,01:06,9,17,BAU,substituicao_entra,Jefferson
+381,1,01:06,9,17,BAU,substituicao_sai,Alex
+382,1,01:14,9,17,BAU,substituicao_entra,Valtinho
+383,1,01:14,9,17,BAU,substituicao_entra,Léo Meindl
+384,1,01:14,9,17,BAU,substituicao_sai,Valtinho
+385,1,01:14,9,17,BAU,substituicao_sai,Jefferson
+386,1,01:14,9,17,PIN,substituicao_entra,Gustavo
+387,1,01:14,9,17,PIN,substituicao_sai,Holloway
+388,1,01:14,9,17,BAU,substituicao_entra,Alex
+389,1,01:14,9,17,BAU,substituicao_sai,Léo Meindl
+390,1,01:14,9,17,PIN,substituicao_entra,Gemerson
+391,1,01:14,9,17,PIN,substituicao_sai,Renan
+392,1,01:14,9,17,BAU,tempo_tecnico,
+393,1,01:24,9,17,PIN,3_Pts_C,Ruivo
+394,1,01:41,9,14,PIN,substituicao_entra,Ruivo
+395,1,01:41,9,14,PIN,substituicao_sai,Gemerson
+396,1,01:44,9,14,PIN,substituicao_entra,Neto
+397,1,01:44,9,14,PIN,substituicao_sai,Bennett
+398,1,01:44,9,14,BAU,substituicao_entra,Jefferson
+399,1,01:44,9,14,BAU,substituicao_sai,Gegê
+400,1,01:44,9,14,BAU,substituicao_entra,Gui Deodato
+401,1,01:44,9,14,BAU,substituicao_sai,Alex
+402,1,01:44,9,14,PIN,substituicao_entra,Ansaloni
+403,1,01:44,9,14,PIN,substituicao_sai,Teichmann
+404,1,01:44,9,14,BAU,substituicao_entra,Valtinho
+405,1,01:44,9,14,BAU,substituicao_sai,Jefferson
+406,1,01:44,9,14,BAU,ER,Léo Meindl
+407,1,02:01,9,14,BAU,RD,Shilton
+408,1,02:03,9,14,PIN,3_Pts_T,Renan
+409,1,02:19,9,14,PIN,RD,Holloway
+410,1,02:22,9,14,BAU,2_Pts_T,Alex
+411,1,02:36,9,14,BAU,RD,Léo Meindl
+412,1,02:39,9,14,PIN,2_Pts_T,Holloway
+413,1,02:44,9,14,PIN,RD,Renan
+414,1,02:47,9,14,BAU,3_Pts_T,Léo Meindl
+415,1,02:50,9,14,BAU,BR,Gegê
+416,1,02:50,9,14,PIN,ER,Bennett
+417,1,02:54,9,14,PIN,BR,Bennett
+418,1,02:54,9,14,BAU,ER,Alex
+419,1,03:00,9,14,BAU,BR,Gegê
+420,1,03:00,9,14,PIN,ER,Holloway
+421,1,03:02,9,14,PIN,RD,Teichmann
+422,1,03:06,9,14,PIN,TO,Teichmann
+423,1,03:06,9,14,BAU,2_Pts_T,Léo Meindl
+424,1,03:18,9,14,BAU,RO,Shilton
+425,1,03:20,9,14,BAU,2_Pts_T,Alex
+426,1,03:36,9,14,PIN,2_Pts_C,Bennett
+427,1,03:48,9,12,BAU,ER,Shilton
+428,1,03:50,9,12,BAU,FR,Jefferson
+429,1,03:50,9,12,PIN,FC,Teichmann
+430,1,04:08,9,12,PIN,AS,Teichmann
+431,1,04:08,9,12,PIN,LL_Pts_C,Holloway
+432,1,04:08,9,11,PIN,LL_Pts_C,Holloway
+433,1,04:09,9,10,PIN,FR,Holloway
+434,1,04:09,9,10,BAU,FC,Gegê
+435,1,04:25,9,10,PIN,BR,Holloway
+436,1,04:25,9,10,BAU,ER,Léo Meindl
+437,1,04:30,9,10,BAU,RD,Léo Meindl
+438,1,04:34,9,10,PIN,3_Pts_T,Holloway
+439,1,04:38,9,10,PIN,RD,Teichmann
+440,1,04:41,9,10,BAU,3_Pts_T,Gegê
+441,1,05:04,9,10,PIN,AS,Holloway
+442,1,05:04,9,10,PIN,2_Pts_C,Renan
+443,1,05:12,9,8,PIN,RD,Teichmann
+444,1,05:15,9,8,BAU,3_Pts_T,Alex
+445,1,05:36,9,8,PIN,3_Pts_C,Holloway
+446,1,05:57,9,5,BAU,AS,Jefferson
+447,1,05:57,9,5,BAU,2_Pts_C,Shilton
+448,1,06:10,7,5,BAU,FR,Alex
+449,1,06:10,7,5,PIN,FC,Renan
+450,1,06:11,7,5,BAU,RD,Alex
+451,1,06:13,7,5,PIN,3_Pts_T,Gemerson
+452,1,06:22,7,5,BAU,2_Pts_C,Jefferson
+453,1,06:23,5,5,BAU,RO,Jefferson
+454,1,06:26,5,5,BAU,3_Pts_T,Alex
+455,1,06:48,5,5,PIN,LL_Pts_C,Holloway
+456,1,06:48,5,4,PIN,LL_Pts_T,Holloway
+457,1,06:48,5,4,PIN,LL_Pts_C,Holloway
+458,1,06:48,5,3,PIN,FR,Holloway
+459,1,06:48,5,3,BAU,FC,Alex
+460,1,07:05,5,3,BAU,2_Pts_C,Alex
+461,1,07:28,3,3,BAU,BR,Shilton
+462,1,07:28,3,3,PIN,ER,Gemerson
+463,1,07:41,3,3,PIN,RD,Holloway
+464,1,07:44,3,3,BAU,3_Pts_T,Léo Meindl
+465,1,07:56,3,3,PIN,AS,Teichmann
+466,1,07:56,3,3,PIN,LL_Pts_C,Gemerson
+467,1,07:56,3,2,PIN,LL_Pts_T,Gemerson
+468,1,07:56,3,2,PIN,FR,Gemerson
+469,1,07:56,3,2,BAU,FC,Léo Meindl
+470,1,08:07,3,2,BAU,LL_Pts_C,Shilton
+471,1,08:07,2,2,BAU,FR,Shilton
+472,1,08:07,2,2,PIN,FC,Holloway
+473,1,08:07,2,2,BAU,AS,Léo Meindl
+474,1,08:07,2,2,BAU,2_Pts_C,Shilton
+475,1,08:12,0,2,BAU,RO,Shilton
+476,1,08:14,0,2,BAU,3_Pts_T,Gegê
+477,1,08:33,0,2,PIN,ER,Holloway
+478,1,08:36,0,2,PIN,BR,Teichmann
+479,1,08:36,0,2,BAU,ER,Jefferson
+480,1,08:38,0,2,BAU,RD,Jefferson
+481,1,08:41,0,2,PIN,2_Pts_T,Holloway
+482,1,08:47,0,2,PIN,RO,Bennett
+483,1,08:50,0,2,PIN,3_Pts_T,Renan
+484,1,09:07,0,2,PIN,RD,Pinheiros
+485,1,09:07,0,2,BAU,3_Pts_T,Jefferson
+486,1,09:22,0,2,PIN,2_Pts_C,Gemerson
+487,1,09:23,0,0,PIN,RO,Gemerson
+488,1,09:26,0,0,PIN,2_Pts_T,Teichmann
+489,1,09:47,0,0,PIN,RD,Teichmann
+490,1,09:48,0,0,BAU,2_Pts_T,Alex
+491,1,10:00,0,0,PIN,substituicao_entra,Holloway
+492,1,10:00,0,0,PIN,substituicao_entra,Renan
+493,1,10:00,0,0,PIN,substituicao_entra,Teichmann
+494,1,10:00,0,0,PIN,substituicao_entra,Gemerson
+495,1,10:00,0,0,PIN,substituicao_entra,Bennett
+496,1,10:00,0,0,BAU,substituicao_entra,Léo Meindl
+497,1,10:00,0,0,BAU,substituicao_entra,Gegê
+498,1,10:00,0,0,BAU,substituicao_entra,Jefferson
+499,1,10:00,0,0,BAU,substituicao_entra,Alex
+500,1,10:00,0,0,BAU,substituicao_entra,Shilton

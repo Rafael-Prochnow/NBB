@@ -1,0 +1,539 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,85,91, ,fim_partida,
+1,4,00:01,85,91,PIN,RD,J Campos
+2,4,00:01,85,91,CEA,2_Pts_T,F Fischer
+3,4,00:02,85,91,PIN,LL_Pts_C,Ted Simões
+4,4,00:02,85,90,PIN,LL_Pts_T,Ted Simões
+5,4,00:02,85,90,PIN,FR,Ted Simões
+6,4,00:02,85,90,CEA,FC,F Fischer
+7,4,00:03,85,90,CEA,2_Pts_C,Victor
+8,4,00:03,83,90,CEA,AS,Davi
+9,4,00:10,83,90,PIN,LL_Pts_C,André Bambu
+10,4,00:10,83,89,PIN,LL_Pts_C,André Bambu
+11,4,00:10,83,88,PIN,FR,André Bambu
+12,4,00:10,83,88,CEA,FC,Davi
+13,4,00:11,83,88,CEA,3_Pts_C,Davi
+14,4,00:17,80,88,CEA,RO,Davi
+15,4,00:17,80,88,CEA,3_Pts_T,F Fischer
+16,4,00:26,80,88,PIN,substituicao_entra,J Campos
+17,4,00:26,80,88,PIN,substituicao_sai,Jason Smith
+18,4,00:26,80,88,PIN,LL_Pts_C,Jason Smith
+19,4,00:26,80,87,PIN,LL_Pts_C,Jason Smith
+20,4,00:26,80,86,CEA,substituicao_entra,Victor
+21,4,00:26,80,86,CEA,substituicao_sai,Andrezão
+22,4,00:26,80,86,PIN,substituicao_entra,Ted Simões
+23,4,00:26,80,86,PIN,substituicao_sai,Joe Smith
+24,4,00:26,80,86,PIN,FR,Jason Smith
+25,4,00:26,80,86,CEA,FC,Andrezão
+26,4,00:28,80,86,CEA,substituicao_entra,Socas
+27,4,00:28,80,86,CEA,substituicao_sai,Tiagão
+28,4,00:28,80,86,PIN,substituicao_entra,Jason Smith
+29,4,00:28,80,86,PIN,substituicao_entra,Joe Smith
+30,4,00:28,80,86,PIN,substituicao_sai,Ted Simões
+31,4,00:28,80,86,PIN,substituicao_sai,J Campos
+32,4,00:28,80,86,PIN,tempo_tecnico,Pinheiros
+33,4,00:28,80,86,CEA,3_Pts_C,Davi
+34,4,00:37,77,86,PIN,substituicao_entra,J Campos
+35,4,00:37,77,86,PIN,substituicao_sai,Jason Smith
+36,4,00:37,77,86,PIN,LL_Pts_C,Jason Smith
+37,4,00:37,77,85,PIN,LL_Pts_C,Jason Smith
+38,4,00:37,77,84,PIN,substituicao_entra,Ted Simões
+39,4,00:37,77,84,PIN,substituicao_sai,Joe Smith
+40,4,00:37,77,84,PIN,FR,Jason Smith
+41,4,00:37,77,84,CEA,FC,F Fischer
+42,4,00:40,77,84,PIN,substituicao_entra,Jason Smith
+43,4,00:40,77,84,PIN,substituicao_entra,Joe Smith
+44,4,00:40,77,84,PIN,substituicao_sai,Ted Simões
+45,4,00:40,77,84,PIN,substituicao_sai,J Campos
+46,4,00:40,77,84,CEA,,
+47,4,00:40,77,84,CEA,substituicao_entra,F Fischer
+48,4,00:40,77,84,CEA,substituicao_sai,Socas
+49,4,00:40,77,84,CEA,tempo_tecnico,Basquete Cearense
+50,4,00:40,77,84,PIN,LL_Pts_C,Toledo
+51,4,00:40,77,83,PIN,LL_Pts_C,Toledo
+52,4,00:40,77,82,PIN,substituicao_entra,Ted Simões
+53,4,00:40,77,82,PIN,substituicao_sai,Joe Smith
+54,4,00:42,77,82,PIN,FR,Toledo
+55,4,00:42,77,82,CEA,FC,Andrezão
+56,4,00:44,77,82,PIN,substituicao_entra,Felipe
+57,4,00:44,77,82,PIN,substituicao_sai,Morro
+58,4,00:44,77,82,PIN,substituicao_entra,Joe Smith
+59,4,00:44,77,82,PIN,substituicao_entra,J Campos
+60,4,00:44,77,82,PIN,substituicao_sai,Jason Smith
+61,4,00:44,77,82,PIN,substituicao_sai,Joe Smith
+62,4,00:44,77,82,CEA,substituicao_entra,Socas
+63,4,00:44,77,82,CEA,substituicao_sai,F Fischer
+64,4,00:44,77,82,PIN,tempo_tecnico,Pinheiros
+65,4,00:44,77,82,CEA,LL_Pts_C,F Fischer
+66,4,00:44,76,82,CEA,LL_Pts_C,F Fischer
+67,4,00:44,75,82,CEA,AS,Davi
+68,4,00:44,75,82,CEA,LL_Pts_C,F Fischer
+69,4,00:44,74,82,PIN,substituicao_entra,Jason Smith
+70,4,00:44,74,82,PIN,substituicao_entra,Joe Smith
+71,4,00:44,74,82,PIN,substituicao_sai,J Campos
+72,4,00:44,74,82,PIN,substituicao_sai,Ted Simões
+73,4,00:44,74,82,CEA,FR,F Fischer
+74,4,00:44,74,82,PIN,FC,Ted Simões
+75,4,00:49,74,82,CEA,RD,Alexandre
+76,4,00:49,74,82,PIN,LL_Pts_T,Morro
+77,4,00:49,74,82,PIN,LL_Pts_T,Morro
+78,4,00:49,74,82,CEA,substituicao_entra,Alexandre
+79,4,00:49,74,82,CEA,substituicao_sai,Araujo
+80,4,00:49,74,82,PIN,FR,Morro
+81,4,00:49,74,82,CEA,FC,Araujo
+82,4,01:00,74,82,CEA,2_Pts_C,F Fischer
+83,4,01:08,72,82,CEA,substituicao_entra,F Fischer
+84,4,01:08,72,82,CEA,substituicao_sai,Socas
+85,4,01:08,72,82,CEA,substituicao_entra,Tiagão
+86,4,01:08,72,82,CEA,substituicao_sai,Alexandre
+87,4,01:08,72,82,PIN,substituicao_entra,Ted Simões
+88,4,01:08,72,82,PIN,substituicao_entra,J Campos
+89,4,01:08,72,82,PIN,substituicao_sai,Jason Smith
+90,4,01:08,72,82,PIN,substituicao_sai,Joe Smith
+91,4,01:08,72,82,CEA,tempo_tecnico,Basquete Cearense
+92,4,01:08,72,82,CEA,RD,Basquete Cearense
+93,4,01:08,72,82,PIN,2_Pts_T,Joe Smith
+94,4,01:30,72,82,CEA,substituicao_entra,Socas
+95,4,01:30,72,82,CEA,substituicao_sai,F Fischer
+96,4,01:36,72,82,PIN,RD,Pinheiros
+97,4,01:36,72,82,CEA,LL_Pts_T,Andrezão
+98,4,01:36,72,82,CEA,LL_Pts_T,Andrezão
+99,4,01:36,72,82,CEA,substituicao_entra,Alexandre
+100,4,01:36,72,82,CEA,substituicao_sai,Tiagão
+101,4,01:36,72,82,PIN,substituicao_entra,Jason Smith
+102,4,01:36,72,82,PIN,substituicao_entra,Joe Smith
+103,4,01:36,72,82,PIN,substituicao_sai,Ted Simões
+104,4,01:36,72,82,PIN,substituicao_sai,J Campos
+105,4,01:36,72,82,CEA,FR,Andrezão
+106,4,01:36,72,82,PIN,FC,Toledo
+107,4,01:43,72,82,PIN,substituicao_entra,Ted Simões
+108,4,01:43,72,82,PIN,substituicao_sai,Joe Smith
+109,4,01:43,72,82,PIN,substituicao_entra,J Campos
+110,4,01:43,72,82,PIN,substituicao_sai,Jason Smith
+111,4,01:43,72,82,CEA,RD,Basquete Cearense
+112,4,01:43,72,82,PIN,2_Pts_T,André Bambu
+113,4,02:12,72,82,PIN,FR,Jason Smith
+114,4,02:12,72,82,CEA,FC_O,Tiagão
+115,4,02:30,72,82,PIN,3_Pts_C,Jason Smith
+116,4,02:30,72,79,PIN,AS,Joe Smith
+117,4,02:52,72,79,CEA,substituicao_entra,Araujo
+118,4,02:52,72,79,CEA,substituicao_sai,Socas
+119,4,02:53,72,79,CEA,tempo_tecnico,Basquete Cearense
+120,4,02:53,72,79,CEA,2_Pts_C,F Fischer
+121,4,03:10,70,79,PIN,2_Pts_C,Jason Smith
+122,4,03:10,70,77,PIN,AS,Joe Smith
+123,4,03:32,70,77,PIN,RD,André Bambu
+124,4,03:32,70,77,CEA,3_Pts_T,Davi
+125,4,03:44,70,77,CEA,RO,Socas
+126,4,03:44,70,77,CEA,3_Pts_T,F Fischer
+127,4,04:08,70,77,PIN,2_Pts_C,André Bambu
+128,4,04:33,70,75,CEA,3_Pts_C,Tiagão
+129,4,04:33,67,75,CEA,AS,Davi
+130,4,04:46,67,75,PIN,2_Pts_C,Jason Smith
+131,4,04:46,67,73,PIN,AS,Joe Smith
+132,4,05:04,67,73,CEA,3_Pts_C,Andrezão
+133,4,05:04,64,73,CEA,AS,Socas
+134,4,05:21,64,73,PIN,EN,André Bambu
+135,4,05:21,64,71,PIN,AS,Jason Smith
+136,4,05:37,64,71,PIN,FR,Toledo
+137,4,05:37,64,71,CEA,FC,Andrezão
+138,4,05:51,64,71,PIN,3_Pts_C,Jason Smith
+139,4,05:51,64,68,PIN,AS,Joe Smith
+140,4,06:03,64,68,CEA,2_Pts_C,Davi
+141,4,06:09,62,68,CEA,RD,Tiagão
+142,4,06:09,62,68,PIN,2_Pts_T,Joe Smith
+143,4,06:12,62,68,CEA,substituicao_entra,Tiagão
+144,4,06:12,62,68,CEA,substituicao_sai,Araujo
+145,4,06:12,62,68,PIN,FR,Morro
+146,4,06:12,62,68,CEA,FC,Araujo
+147,4,06:20,62,68,CEA,LL_Pts_C,Davi
+148,4,06:20,61,68,CEA,LL_Pts_C,Davi
+149,4,06:24,60,68,CEA,FR,Davi
+150,4,06:24,60,68,PIN,FC,Jason Smith
+151,4,06:36,60,68,PIN,2_Pts_C,Toledo
+152,4,06:36,60,66,PIN,AS,Jason Smith
+153,4,06:49,60,66,CEA,LL_Pts_C,Davi
+154,4,06:49,59,66,CEA,LL_Pts_C,Davi
+155,4,06:49,58,66,CEA,FR,Davi
+156,4,06:49,58,66,PIN,FC,André Bambu
+157,4,06:55,58,66,PIN,substituicao_entra,André Bambu
+158,4,06:55,58,66,PIN,substituicao_sai,Felipe
+159,4,06:55,58,66,CEA,FR,Davi
+160,4,06:55,58,66,PIN,FC,Joe Smith
+161,4,06:57,58,66,CEA,RD,Davi
+162,4,06:57,58,66,PIN,2_Pts_T,Joe Smith
+163,4,07:15,58,66,PIN,RD,Morro
+164,4,07:15,58,66,PIN,TO,Felipe
+165,4,07:15,58,66,CEA,2_Pts_T,Davi
+166,4,07:22,58,66,CEA,RD,Davi
+167,4,07:22,58,66,PIN,2_Pts_T,Morro
+168,4,07:42,58,66,PIN,RD,Felipe
+169,4,07:42,58,66,CEA,2_Pts_T,Andrezão
+170,4,08:01,58,66,CEA,FR,Davi
+171,4,08:01,58,66,PIN,FC_O,Felipe
+172,4,08:12,58,66,PIN,RD,Felipe
+173,4,08:12,58,66,CEA,2_Pts_T,F Fischer
+174,4,08:23,58,66,PIN,RO,Jason Smith
+175,4,08:23,58,66,PIN,2_Pts_T,Felipe
+176,4,08:27,58,66,PIN,RO,Felipe
+177,4,08:27,58,66,PIN,2_Pts_T,Toledo
+178,4,08:47,58,66,PIN,tempo_tecnico,Pinheiros
+179,4,08:47,58,66,CEA,3_Pts_C,Araujo
+180,4,08:47,55,66,CEA,AS,Davi
+181,4,08:58,55,66,CEA,RD,Andrezão
+182,4,08:58,55,66,PIN,3_Pts_T,Jason Smith
+183,4,09:04,55,66,PIN,substituicao_entra,Morro
+184,4,09:04,55,66,PIN,substituicao_sai,Kurtz
+185,4,09:04,55,66,PIN,FR,Toledo
+186,4,09:04,55,66,CEA,FC,Andrezão
+187,4,09:20,55,66,CEA,RO,Andrezão
+188,4,09:20,55,66,PIN,TO,Felipe
+189,4,09:20,55,66,CEA,2_Pts_T,Socas
+190,4,09:29,55,66,CEA,RD,Davi
+191,4,09:29,55,66,CEA,TO,Andrezão
+192,4,09:29,55,66,PIN,2_Pts_T,Kurtz
+193,4,09:47,55,66,CEA,3_Pts_C,Araujo
+194,4,09:47,52,66,CEA,AS,Socas
+195,3,00:00,52,66, ,fim_quarto,
+196,3,00:01,52,66,PIN,3_Pts_T,Felipe
+197,3,00:09,52,66,CEA,3_Pts_C,Araujo
+198,3,00:09,49,66,CEA,AS,Andrezão
+199,3,00:32,49,66,PIN,substituicao_entra,J Campos
+200,3,00:32,49,66,PIN,substituicao_entra,Kurtz
+201,3,00:32,49,66,PIN,substituicao_sai,Ted Simões
+202,3,00:32,49,66,PIN,substituicao_sai,Morro
+203,3,00:32,49,66,PIN,ER,
+204,3,00:57,49,66,CEA,2_Pts_C,Andrezão
+205,3,01:02,47,66,CEA,RO,Andrezão
+206,3,01:02,47,66,CEA,2_Pts_T,Davi
+207,3,01:18,47,66,CEA,RD,Socas
+208,3,01:18,47,66,PIN,2_Pts_T,Felipe
+209,3,01:32,47,66,CEA,2_Pts_C,Andrezão
+210,3,01:41,45,66,CEA,RD,Araujo
+211,3,01:41,45,66,PIN,3_Pts_T,Ted Simões
+212,3,01:50,45,66,PIN,RO,Morro
+213,3,01:50,45,66,PIN,3_Pts_T,Toledo
+214,3,02:12,45,66,CEA,LL_Pts_C,Davi
+215,3,02:12,44,66,CEA,2_Pts_C,Davi
+216,3,02:12,42,66,CEA,FR,Davi
+217,3,02:12,42,66,PIN,FC,Jason Smith
+218,3,02:17,42,66,CEA,FR,F Fischer
+219,3,02:17,42,66,PIN,FC,Ted Simões
+220,3,02:27,42,66,PIN,3_Pts_C,Ted Simões
+221,3,02:28,42,63,PIN,BR,Ted Simões
+222,3,02:28,42,63,CEA,ER,Araujo
+223,3,02:36,42,63,PIN,RO,Jason Smith
+224,3,02:36,42,63,PIN,2_Pts_T,Ted Simões
+225,3,02:52,42,63,PIN,RD,Felipe
+226,3,02:52,42,63,CEA,2_Pts_T,Davi
+227,3,03:10,42,63,PIN,substituicao_entra,Jason Smith
+228,3,03:10,42,63,PIN,substituicao_sai,Joe Smith
+229,3,03:10,42,63,PIN,LL_Pts_C,Joe Smith
+230,3,03:10,42,62,PIN,LL_Pts_C,Joe Smith
+231,3,03:12,42,61,CEA,substituicao_entra,Davi
+232,3,03:12,42,61,CEA,substituicao_sai,Sualisson
+233,3,03:12,42,61,PIN,FR,Joe Smith
+234,3,03:12,42,61,CEA,FC,Andrezão
+235,3,03:21,42,61,PIN,BR,Toledo
+236,3,03:21,42,61,CEA,ER,Araujo
+237,3,03:35,42,61,PIN,3_Pts_C,Toledo
+238,3,03:35,42,58,PIN,AS,Joe Smith
+239,3,03:51,42,58,PIN,RD,Toledo
+240,3,03:51,42,58,CEA,2_Pts_T,Sualisson
+241,3,04:06,42,58,CEA,FR,Araujo
+242,3,04:06,42,58,PIN,FC,Morro
+243,3,04:15,42,58,CEA,RD,Araujo
+244,3,04:15,42,58,PIN,3_Pts_T,Felipe
+245,3,04:28,42,58,CEA,substituicao_entra,Araujo
+246,3,04:28,42,58,CEA,substituicao_entra,Sualisson
+247,3,04:28,42,58,CEA,substituicao_sai,Romulo
+248,3,04:28,42,58,CEA,substituicao_sai,Tiagão
+249,3,04:28,42,58,PIN,FR,Felipe
+250,3,04:28,42,58,CEA,FC,Romulo
+251,3,04:47,42,58,CEA,3_Pts_C,F Fischer
+252,3,04:47,39,58,CEA,AS,Tiagão
+253,3,05:01,39,58,PIN,2_Pts_C,Felipe
+254,3,05:01,39,56,PIN,AS,Toledo
+255,3,05:20,39,56,CEA,2_Pts_C,F Fischer
+256,3,05:41,37,56,PIN,3_Pts_C,Felipe
+257,3,05:41,37,53,PIN,AS,Ted Simões
+258,3,05:58,37,53,CEA,2_Pts_C,Romulo
+259,3,06:24,35,53,PIN,3_Pts_C,Joe Smith
+260,3,06:24,35,50,PIN,AS,Ted Simões
+261,3,06:35,35,50,PIN,FR,Felipe
+262,3,06:35,35,50,CEA,FC,Romulo
+263,3,06:35,35,50,PIN,RD,Felipe
+264,3,06:35,35,50,CEA,2_Pts_T,Tiagão
+265,3,06:48,35,50,CEA,substituicao_entra,Romulo
+266,3,06:48,35,50,CEA,substituicao_sai,Erick Camilo
+267,3,06:54,35,50,CEA,RD,Socas
+268,3,06:54,35,50,CEA,TO,Socas
+269,3,06:54,35,50,PIN,2_Pts_T,Joe Smith
+270,3,07:08,35,50,PIN,FR,Ted Simões
+271,3,07:08,35,50,CEA,FC,Tiagão
+272,3,07:28,35,50,CEA,2_Pts_C,F Fischer
+273,3,07:28,33,50,CEA,AS,Socas
+274,3,07:39,33,50,PIN,LL_Pts_C,Felipe
+275,3,07:39,33,49,PIN,AS,Morro
+276,3,07:39,33,49,PIN,LL_Pts_C,Felipe
+277,3,07:39,33,48,CEA,substituicao_entra,Socas
+278,3,07:39,33,48,CEA,substituicao_sai,Davi
+279,3,07:39,33,48,PIN,FR,Felipe
+280,3,07:39,33,48,CEA,FC,Davi
+281,3,07:56,33,48,PIN,RD,Toledo
+282,3,07:56,33,48,CEA,2_Pts_T,Tiagão
+283,3,08:18,33,48,PIN,ER,Ted Simões
+284,3,08:32,33,48,CEA,LL_Pts_C,Andrezão
+285,3,08:32,32,48,CEA,LL_Pts_C,Andrezão
+286,3,08:32,31,48,CEA,FR,Andrezão
+287,3,08:32,31,48,PIN,FC,Joe Smith
+288,3,08:36,31,48,CEA,BR,Andrezão
+289,3,08:36,31,48,PIN,ER,Joe Smith
+290,3,09:00,31,48,CEA,2_Pts_C,Davi
+291,3,09:17,29,48,CEA,substituicao_entra,Erick Camilo
+292,3,09:17,29,48,CEA,substituicao_sai,Alexandre
+293,3,09:17,29,48,CEA,FR,Alexandre
+294,3,09:17,29,48,PIN,FC,Felipe
+295,3,09:17,29,48,CEA,3_Pts_C,Tiagão
+296,3,09:17,26,48,CEA,AS,Davi
+297,3,09:32,26,48,PIN,3_Pts_C,Joe Smith
+298,3,09:32,26,45,PIN,AS,Toledo
+299,3,09:43,26,45,PIN,RO,Felipe
+300,3,09:43,26,45,PIN,2_Pts_T,Morro
+301,2,00:00,26,45, ,fim_quarto,
+302,2,00:01,26,45,PIN,ER,J Campos
+303,2,00:08,26,45,PIN,substituicao_entra,J Campos
+304,2,00:08,26,45,PIN,substituicao_sai,Felipe
+305,2,00:08,26,45,PIN,substituicao_entra,Lucas Dias
+306,2,00:08,26,45,PIN,substituicao_entra,Jason Smith
+307,2,00:08,26,45,PIN,substituicao_sai,André Bambu
+308,2,00:08,26,45,PIN,substituicao_sai,Ted Simões
+309,2,00:10,26,45,PIN,tempo_tecnico,Pinheiros
+310,2,00:10,26,45,CEA,2_Pts_C,Andrezão
+311,2,00:27,24,45,CEA,FR,Davi
+312,2,00:27,24,45,PIN,FC,André Bambu
+313,2,00:44,24,45,CEA,substituicao_entra,Socas
+314,2,00:44,24,45,CEA,substituicao_sai,Taddei
+315,2,00:44,24,45,CEA,substituicao_entra,Sualisson
+316,2,00:44,24,45,CEA,substituicao_sai,Victor
+317,2,00:44,24,45,CEA,ER,Victor
+318,2,01:01,24,45,PIN,2_Pts_C,Felipe
+319,2,01:26,24,43,PIN,RD,Toledo
+320,2,01:26,24,43,CEA,2_Pts_T,Erick Camilo
+321,2,01:42,24,43,PIN,2_Pts_C,André Bambu
+322,2,01:42,24,41,PIN,AS,Joe Smith
+323,2,01:58,24,41,CEA,substituicao_entra,Victor
+324,2,01:58,24,41,CEA,substituicao_sai,F Fischer
+325,2,01:58,24,41,PIN,substituicao_entra,Toledo
+326,2,01:58,24,41,PIN,substituicao_sai,Jason Smith
+327,2,01:58,24,41,CEA,substituicao_entra,Davi
+328,2,01:58,24,41,CEA,substituicao_sai,Socas
+329,2,01:58,24,41,PIN,FR,Jason Smith
+330,2,01:58,24,41,CEA,FC,Erick Camilo
+331,2,02:07,24,41,PIN,2_Pts_C,Jason Smith
+332,2,02:07,24,39,PIN,AS,Joe Smith
+333,2,02:27,24,39,CEA,2_Pts_C,Andrezão
+334,2,02:27,22,39,CEA,AS,F Fischer
+335,2,02:37,22,39,PIN,3_Pts_C,Jason Smith
+336,2,02:37,22,36,PIN,AS,Joe Smith
+337,2,02:45,22,36,PIN,RD,Ted Simões
+338,2,02:45,22,36,CEA,3_Pts_T,F Fischer
+339,2,02:56,22,36,PIN,LL_Pts_C,Ted Simões
+340,2,02:56,22,35,PIN,LL_Pts_C,Ted Simões
+341,2,02:56,22,34,CEA,substituicao_entra,Andrezão
+342,2,02:56,22,34,CEA,substituicao_sai,Tiagão
+343,2,02:56,22,34,PIN,substituicao_entra,André Bambu
+344,2,02:56,22,34,PIN,substituicao_sai,Kurtz
+345,2,02:56,22,34,PIN,FR,Ted Simões
+346,2,02:56,22,34,CEA,FC,Tiagão
+347,2,02:56,22,34,PIN,RO,Ted Simões
+348,2,02:56,22,34,PIN,3_Pts_T,Joe Smith
+349,2,03:13,22,34,PIN,tempo_tecnico,Pinheiros
+350,2,03:13,22,34,CEA,ER,Tiagão
+351,2,03:13,22,34,CEA,RO,Tiagão
+352,2,03:13,22,34,CEA,2_Pts_T,Socas
+353,2,03:29,22,34,CEA,RD,F Fischer
+354,2,03:29,22,34,PIN,3_Pts_T,Ted Simões
+355,2,03:47,22,34,PIN,RD,Felipe
+356,2,03:47,22,34,CEA,3_Pts_T,Tiagão
+357,2,03:57,22,34,PIN,substituicao_entra,Ted Simões
+358,2,03:57,22,34,PIN,substituicao_entra,Felipe
+359,2,03:57,22,34,PIN,substituicao_sai,Lucas Dias
+360,2,03:57,22,34,PIN,substituicao_sai,J Campos
+361,2,03:57,22,34,PIN,ER,J Campos
+362,2,03:57,22,34,PIN,BR,J Campos
+363,2,03:57,22,34,CEA,ER,Socas
+364,2,04:02,22,34,CEA,BR,Socas
+365,2,04:02,22,34,PIN,ER,J Campos
+366,2,04:19,22,34,CEA,2_Pts_C,Taddei
+367,2,04:23,20,34,CEA,RO,Taddei
+368,2,04:23,20,34,CEA,2_Pts_T,Taddei
+369,2,04:33,20,34,CEA,RD,Socas
+370,2,04:33,20,34,PIN,3_Pts_T,Lucas Dias
+371,2,04:53,20,34,CEA,LL_Pts_C,F Fischer
+372,2,04:53,19,34,CEA,LL_Pts_C,F Fischer
+373,2,04:53,18,34,CEA,substituicao_entra,Tiagão
+374,2,04:53,18,34,CEA,substituicao_sai,Araujo
+375,2,04:53,18,34,CEA,substituicao_entra,Socas
+376,2,04:53,18,34,CEA,substituicao_sai,Davi
+377,2,04:53,18,34,CEA,FR,F Fischer
+378,2,04:53,18,34,PIN,FC,J Campos
+379,2,04:56,18,34,CEA,RD,Davi
+380,2,04:56,18,34,PIN,3_Pts_T,J Campos
+381,2,05:02,18,34,PIN,AS,Jason Smith
+382,2,05:02,18,34,PIN,LL_Pts_C,Joe Smith
+383,2,05:02,18,33,PIN,LL_Pts_C,Joe Smith
+384,2,05:02,18,32,PIN,LL_Pts_C,Joe Smith
+385,2,05:02,18,31,CEA,FC_T,F Fischer
+386,2,05:09,18,31,PIN,FR,Joe Smith
+387,2,05:09,18,31,CEA,FC,Araujo
+388,2,05:17,18,31,PIN,FR,Joe Smith
+389,2,05:17,18,31,CEA,FC,Davi
+390,2,05:30,18,31,CEA,2_Pts_C,F Fischer
+391,2,05:46,16,31,PIN,3_Pts_C,Lucas Dias
+392,2,05:46,16,28,PIN,AS,Joe Smith
+393,2,05:56,16,28,CEA,2_Pts_C,Davi
+394,2,06:09,14,28,PIN,ER,Lucas Dias
+395,2,06:22,14,28,PIN,LL_Pts_C,Joe Smith
+396,2,06:22,14,27,PIN,LL_Pts_C,Joe Smith
+397,2,06:22,14,26,CEA,FC_T,Basquete Cearense
+398,2,06:22,14,26,CEA,FC_T,Araujo
+399,2,06:22,14,26,PIN,FR,Kurtz
+400,2,06:22,14,26,CEA,FC,Araujo
+401,2,06:35,14,26,PIN,RD,Lucas Dias
+402,2,06:35,14,26,CEA,3_Pts_T,F Fischer
+403,2,06:42,14,26,CEA,RD,Araujo
+404,2,06:42,14,26,PIN,3_Pts_T,Jason Smith
+405,2,07:04,14,26,CEA,LL_Pts_C,F Fischer
+406,2,07:04,13,26,CEA,substituicao_entra,Taddei
+407,2,07:04,13,26,CEA,substituicao_sai,Sualisson
+408,2,07:04,13,26,CEA,2_Pts_C,F Fischer
+409,2,07:04,11,26,CEA,FR,F Fischer
+410,2,07:04,11,26,PIN,FC,Jason Smith
+411,2,07:10,11,26,CEA,FR,F Fischer
+412,2,07:10,11,26,PIN,FC,Joe Smith
+413,2,07:16,11,26,CEA,LL_Pts_C,F Fischer
+414,2,07:16,10,26,PIN,substituicao_entra,Joe Smith
+415,2,07:16,10,26,PIN,substituicao_sai,Toledo
+416,2,07:16,10,26,PIN,FC_T,Jason Smith
+417,2,07:25,10,26,CEA,RD,Sualisson
+418,2,07:25,10,26,PIN,2_Pts_T,Jason Smith
+419,2,07:50,10,26,PIN,RD,Jason Smith
+420,2,07:50,10,26,CEA,2_Pts_T,Araujo
+421,2,08:02,10,26,CEA,substituicao_entra,Sualisson
+422,2,08:02,10,26,CEA,substituicao_sai,Victor
+423,2,08:02,10,26,CEA,FR,Erick Camilo
+424,2,08:02,10,26,PIN,FC,Kurtz
+425,2,08:02,10,26,CEA,RD,Erick Camilo
+426,2,08:02,10,26,PIN,2_Pts_T,Toledo
+427,2,08:21,10,26,PIN,FR,Toledo
+428,2,08:21,10,26,CEA,FC,Erick Camilo
+429,2,08:21,10,26,CEA,3_Pts_T,Araujo
+430,2,08:34,10,26,PIN,2_Pts_C,Jason Smith
+431,2,08:49,10,24,PIN,substituicao_entra,Lucas Dias
+432,2,08:49,10,24,PIN,substituicao_sai,Felipe
+433,2,08:58,10,24,PIN,RD,Toledo
+434,2,08:58,10,24,CEA,2_Pts_T,Victor
+435,2,09:14,10,24,PIN,ER,
+436,2,09:40,10,24,CEA,LL_Pts_C,Araujo
+437,2,09:40,9,24,CEA,LL_Pts_C,Araujo
+438,2,09:40,8,24,CEA,FR,Araujo
+439,2,09:40,8,24,PIN,FC,Kurtz
+440,1,00:00,8,24, ,fim_quarto,
+441,1,00:22,8,24,PIN,RD,Felipe
+442,1,00:22,8,24,CEA,2_Pts_T,Tiagão
+443,1,00:32,8,24,PIN,2_Pts_C,Toledo
+444,1,00:36,8,22,PIN,RO,Toledo
+445,1,00:36,8,22,PIN,3_Pts_T,Jason Smith
+446,1,00:49,8,22,PIN,BR,Jason Smith
+447,1,00:49,8,22,CEA,ER,Andrezão
+448,1,01:02,8,22,PIN,2_Pts_C,Jason Smith
+449,1,01:08,8,20,PIN,RO,Jason Smith
+450,1,01:08,8,20,PIN,3_Pts_T,Joe Smith
+451,1,01:37,8,20,CEA,LL_Pts_C,Tiagão
+452,1,01:37,7,20,CEA,LL_Pts_C,Tiagão
+453,1,01:37,6,20,PIN,substituicao_entra,Kurtz
+454,1,01:37,6,20,PIN,substituicao_entra,Jason Smith
+455,1,01:37,6,20,PIN,substituicao_sai,Morro
+456,1,01:37,6,20,PIN,substituicao_sai,Ted Simões
+457,1,01:37,6,20,CEA,FR,Tiagão
+458,1,01:37,6,20,PIN,FC,Morro
+459,1,01:51,6,20,PIN,2_Pts_C,Toledo
+460,1,01:59,6,18,PIN,RO,Toledo
+461,1,01:59,6,18,PIN,3_Pts_T,Felipe
+462,1,02:14,6,18,CEA,2_Pts_C,Erick Camilo
+463,1,02:22,4,18,CEA,RO,Erick Camilo
+464,1,02:22,4,18,CEA,3_Pts_T,F Fischer
+465,1,02:36,4,18,CEA,RD,Andrezão
+466,1,02:36,4,18,PIN,2_Pts_T,Ted Simões
+467,1,02:49,4,18,CEA,2_Pts_C,Erick Camilo
+468,1,03:03,2,18,CEA,BR,Basquete Cearense
+469,1,03:03,2,18,PIN,ER,Toledo
+470,1,03:16,2,18,CEA,substituicao_entra,Tiagão
+471,1,03:16,2,18,CEA,substituicao_sai,Araujo
+472,1,03:16,2,18,CEA,substituicao_entra,Erick Camilo
+473,1,03:16,2,18,CEA,substituicao_sai,Alexandre
+474,1,03:16,2,18,CEA,tempo_tecnico,Basquete Cearense
+475,1,03:16,2,18,CEA,ER,Alexandre
+476,1,03:27,2,18,CEA,RO,Alexandre
+477,1,03:27,2,18,CEA,3_Pts_T,F Fischer
+478,1,03:39,2,18,PIN,2_Pts_C,Joe Smith
+479,1,03:57,2,16,PIN,RD,Morro
+480,1,03:57,2,16,CEA,2_Pts_T,Alexandre
+481,1,04:13,2,16,CEA,substituicao_entra,F Fischer
+482,1,04:13,2,16,CEA,substituicao_sai,Socas
+483,1,04:13,2,16,CEA,FR,Araujo
+484,1,04:13,2,16,PIN,FC,Morro
+485,1,04:13,2,16,CEA,RD,Araujo
+486,1,04:13,2,16,PIN,2_Pts_T,Toledo
+487,1,04:35,2,16,PIN,RD,Ted Simões
+488,1,04:35,2,16,CEA,3_Pts_T,Andrezão
+489,1,04:54,2,16,PIN,2_Pts_C,Ted Simões
+490,1,05:08,2,14,PIN,RD,Toledo
+491,1,05:08,2,14,CEA,3_Pts_T,Alexandre
+492,1,05:19,2,14,CEA,substituicao_entra,Alexandre
+493,1,05:19,2,14,CEA,substituicao_sai,Romulo
+494,1,05:24,2,14,CEA,tempo_tecnico,Basquete Cearense
+495,1,05:24,2,14,PIN,2_Pts_C,Toledo
+496,1,05:24,2,12,PIN,AS,Morro
+497,1,05:34,2,12,PIN,RD,Joe Smith
+498,1,05:34,2,12,CEA,2_Pts_T,Davi
+499,1,05:53,2,12,PIN,2_Pts_C,Ted Simões
+500,1,06:05,2,10,CEA,2_Pts_C,Romulo
+501,1,06:16,0,10,CEA,RD,Araujo
+502,1,06:16,0,10,PIN,2_Pts_T,Ted Simões
+503,1,06:34,0,10,PIN,RD,Toledo
+504,1,06:34,0,10,CEA,2_Pts_T,Davi
+505,1,06:52,0,10,PIN,3_Pts_C,Joe Smith
+506,1,06:52,0,7,PIN,AS,Morro
+507,1,07:11,0,7,PIN,BR,Pinheiros
+508,1,07:11,0,7,CEA,ER,Romulo
+509,1,07:26,0,7,CEA,RD,Araujo
+510,1,07:26,0,7,PIN,3_Pts_T,Toledo
+511,1,07:39,0,7,PIN,RD,Joe Smith
+512,1,07:39,0,7,CEA,2_Pts_T,Davi
+513,1,07:54,0,7,PIN,EN,Toledo
+514,1,07:54,0,5,PIN,AS,Ted Simões
+515,1,08:01,0,5,PIN,BR,Ted Simões
+516,1,08:01,0,5,CEA,ER,Araujo
+517,1,08:24,0,5,PIN,2_Pts_C,Joe Smith
+518,1,08:36,0,3,PIN,FR,Joe Smith
+519,1,08:36,0,3,CEA,FC,Davi
+520,1,08:48,0,3,PIN,RD,Felipe
+521,1,08:48,0,3,CEA,3_Pts_T,Socas
+522,1,09:10,0,3,PIN,3_Pts_C,Felipe
+523,1,09:10,0,0,PIN,AS,Joe Smith
+524,1,09:36,0,0,PIN,RD,Felipe
+525,1,09:36,0,0,CEA,3_Pts_T,Davi
+526,1,09:45,0,0,CEA,RD,Socas
+527,1,09:45,0,0,PIN,3_Pts_T,Ted Simões
+528,1,10:00,0,0,PIN,substituicao_entra,Ted Simões
+529,1,10:00,0,0,PIN,substituicao_entra,Felipe
+530,1,10:00,0,0,PIN,substituicao_entra,Toledo
+531,1,10:00,0,0,PIN,substituicao_entra,Joe Smith
+532,1,10:00,0,0,PIN,substituicao_entra,Morro
+533,1,10:00,0,0,CEA,substituicao_entra,Romulo
+534,1,10:00,0,0,CEA,substituicao_entra,Andrezão
+535,1,10:00,0,0,CEA,substituicao_entra,Araujo
+536,1,10:00,0,0,CEA,substituicao_entra,Socas
+537,1,10:00,0,0,CEA,substituicao_entra,Davi

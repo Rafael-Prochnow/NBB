@@ -1,0 +1,490 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,56,72, ,fim_partida,
+1,4,00:00,56,72,PAU,2_Pts_C,Arthur Pecos
+2,4,00:12,54,72,LIM,RD,Higor
+3,4,00:12,54,72,PAU,2_Pts_T,Pedro
+4,4,00:17,54,72,PAU,BR,Duso
+5,4,00:17,54,72,LIM,ER,Higor
+6,4,00:24,54,72,LIM,RD,Higor
+7,4,00:24,54,72,PAU,3_Pts_T,Pedro
+8,4,00:30,54,72,PAU,LL_Pts_T,Arthur Pecos
+9,4,00:30,54,72,PAU,FR,Arthur Pecos
+10,4,00:30,54,72,LIM,FC_A,Hélio
+11,4,00:32,54,72,PAU,BR,Pedro
+12,4,00:32,54,72,LIM,ER,Renato Lamas
+13,4,00:53,54,72,PAU,2_Pts_C,Gemerson
+14,4,00:56,52,72,PAU,RO,Gemerson
+15,4,00:56,52,72,PAU,LL_Pts_T,Duso
+16,4,00:56,52,72,PAU,LL_Pts_C,Duso
+17,4,00:56,51,72,LIM,substituicao_entra,Matheus P
+18,4,00:56,51,72,LIM,substituicao_sai,Bruno Fiorotto
+19,4,00:56,51,72,PAU,FR,Duso
+20,4,00:56,51,72,LIM,FC,Higor
+21,4,01:05,51,72,LIM,2_Pts_C,Matheus Dalla
+22,4,01:17,51,70,PAU,substituicao_entra,Duso
+23,4,01:17,51,70,PAU,substituicao_sai,César
+24,4,01:17,51,70,PAU,LL_Pts_C,César
+25,4,01:17,50,70,PAU,LL_Pts_T,César
+26,4,01:17,50,70,LIM,substituicao_entra,Higor
+27,4,01:17,50,70,LIM,substituicao_sai,David Jackson
+28,4,01:17,50,70,PAU,tempo_tecnico,Paulistano
+29,4,01:17,50,70,PAU,FR,César
+30,4,01:17,50,70,LIM,FC,Matheus Dalla
+31,4,01:21,50,70,PAU,BR,César
+32,4,01:21,50,70,LIM,ER,David Jackson
+33,4,01:39,50,70,LIM,RO,David Jackson
+34,4,01:39,50,70,LIM,3_Pts_T,Matheus Dalla
+35,4,02:05,50,70,LIM,RD,Hélio
+36,4,02:05,50,70,PAU,3_Pts_T,César
+37,4,02:26,50,70,LIM,3_Pts_C,Renato Lamas
+38,4,02:26,50,67,LIM,AS,Hélio
+39,4,02:56,50,67,LIM,RD,Limeira
+40,4,02:56,50,67,PAU,3_Pts_T,César
+41,4,03:04,50,67,LIM,substituicao_entra,Matheus Dalla
+42,4,03:04,50,67,LIM,substituicao_sai,Teichmann
+43,4,03:07,50,67,PAU,tempo_tecnico,Paulistano
+44,4,03:07,50,67,LIM,AS,Renato Lamas
+45,4,03:07,50,67,LIM,LL_Pts_C,Teichmann
+46,4,03:07,50,66,LIM,LL_Pts_T,Teichmann
+47,4,03:07,50,66,PAU,substituicao_entra,Arthur
+48,4,03:07,50,66,PAU,substituicao_sai,Renato C
+49,4,03:07,50,66,LIM,FR,Teichmann
+50,4,03:07,50,66,PAU,FC,Renato C
+51,4,03:22,50,66,LIM,RD,Renato Lamas
+52,4,03:22,50,66,PAU,3_Pts_T,Gemerson
+53,4,03:39,50,66,PAU,RO,Pedro
+54,4,03:39,50,66,PAU,3_Pts_T,Renato C
+55,4,04:03,50,66,PAU,RD,Arthur Pecos
+56,4,04:03,50,66,LIM,2_Pts_T,Bruno Fiorotto
+57,4,04:28,50,66,LIM,RD,David Jackson
+58,4,04:28,50,66,PAU,3_Pts_T,Arthur Pecos
+59,4,04:52,50,66,PAU,FR,César
+60,4,04:52,50,66,LIM,FC_O,Renato Lamas
+61,4,04:54,50,66,LIM,FR,Teichmann
+62,4,04:54,50,66,PAU,FC,César
+63,4,04:57,50,66,PAU,substituicao_entra,Pedro
+64,4,04:57,50,66,PAU,substituicao_sai,Holloway
+65,4,04:57,50,66,LIM,FR,David Jackson
+66,4,04:57,50,66,PAU,FC,Holloway
+67,4,05:12,50,66,LIM,substituicao_entra,David Jackson
+68,4,05:12,50,66,LIM,substituicao_sai,Deryk
+69,4,05:12,50,66,LIM,tempo_tecnico,Limeira
+70,4,05:12,50,66,PAU,2_Pts_C,Gemerson
+71,4,05:17,48,66,PAU,RD,César
+72,4,05:17,48,66,LIM,2_Pts_T,Bruno Fiorotto
+73,4,05:37,48,66,PAU,substituicao_entra,Gemerson
+74,4,05:37,48,66,PAU,substituicao_sai,Pilar
+75,4,05:42,48,66,PAU,2_Pts_C,Arthur Pecos
+76,4,05:42,46,66,PAU,AS,Pilar
+77,4,06:07,46,66,LIM,ER,Hélio
+78,4,06:31,46,66,PAU,LL_Pts_C,Holloway
+79,4,06:31,45,66,PAU,FR,Holloway
+80,4,06:31,45,66,LIM,FC,Deryk
+81,4,06:31,45,66,PAU,2_Pts_C,Holloway
+82,4,06:38,43,66,PAU,FR,César
+83,4,06:38,43,66,LIM,FC,Teichmann
+84,4,06:52,43,66,LIM,substituicao_entra,Bruno Fiorotto
+85,4,06:52,43,66,LIM,substituicao_sai,Renan
+86,4,06:52,43,66,LIM,RD,Teichmann
+87,4,07:33,43,66,PAU,tempo_tecnico,Paulistano
+88,4,07:33,43,66,LIM,3_Pts_C,Hélio
+89,4,07:33,43,63,LIM,AS,Deryk
+90,4,07:34,43,63,PAU,substituicao_entra,Pilar
+91,4,07:34,43,63,PAU,substituicao_sai,Pedro
+92,4,07:34,43,63,LIM,RO,Deryk
+93,4,07:34,43,63,LIM,3_Pts_T,Renato Lamas
+94,4,07:34,43,63,PAU,substituicao_entra,Holloway
+95,4,07:34,43,63,PAU,substituicao_sai,Gemerson
+96,4,07:34,43,63,LIM,FR,Deryk
+97,4,07:34,43,63,PAU,FC,Arthur Pecos
+98,4,07:34,43,63,LIM,substituicao_entra,Teichmann
+99,4,07:34,43,63,LIM,substituicao_sai,Wagner
+100,4,08:07,43,63,PAU,RD,Paulistano
+101,4,08:07,43,63,LIM,3_Pts_T,Renato Lamas
+102,4,08:32,43,63,LIM,RD,Renan
+103,4,08:32,43,63,PAU,2_Pts_T,Pedro
+104,4,08:38,43,63,PAU,RO,Renato C
+105,4,08:38,43,63,PAU,3_Pts_T,Pedro
+106,4,08:45,43,63,PAU,RD,Arthur Pecos
+107,4,08:45,43,63,LIM,2_Pts_T,Hélio
+108,4,09:01,43,63,LIM,RD,Renan
+109,4,09:01,43,63,PAU,3_Pts_T,César
+110,4,09:22,43,63,LIM,2_Pts_C,Renan
+111,4,09:22,43,61,LIM,AS,Renato Lamas
+112,4,09:46,43,61,PAU,3_Pts_C,Gemerson
+113,4,09:46,40,61,PAU,AS,Arthur Pecos
+114,4,09:53,40,61,PAU,FR,Renato C
+115,4,09:53,40,61,LIM,FC,Renan
+116,3,00:00,40,61, ,fim_quarto,
+117,3,00:01,40,61,LIM,2_Pts_T,Matheus Dalla
+118,3,00:16,40,61,PAU,2_Pts_C,Gemerson
+119,3,00:22,38,61,PAU,RO,Gemerson
+120,3,00:22,38,61,PAU,2_Pts_T,Arthur Pecos
+121,3,00:44,38,61,LIM,2_Pts_C,Wagner
+122,3,00:44,38,59,LIM,AS,Matheus Dalla
+123,3,01:09,38,59,PAU,3_Pts_C,Pedro
+124,3,01:09,35,59,PAU,AS,César
+125,3,01:30,35,59,LIM,ER,Wagner
+126,3,01:46,35,59,LIM,substituicao_entra,Matheus Dalla
+127,3,01:46,35,59,LIM,substituicao_sai,David Jackson
+128,3,01:46,35,59,LIM,substituicao_sai,Matheus Dalla
+129,3,01:46,35,59,LIM,substituicao_entra,Renato Lamas
+130,3,01:46,35,59,LIM,substituicao_entra,Renan
+131,3,01:46,35,59,LIM,substituicao_sai,Bruno Fiorotto
+132,3,01:46,35,59,PAU,substituicao_sai,Pilar
+133,3,01:46,35,59,PAU,substituicao_entra,Renato C
+134,3,01:46,35,59,PAU,substituicao_sai,Arthur
+135,3,01:46,35,59,PAU,substituicao_entra,César
+136,3,01:47,35,59,PAU,2_Pts_C,Arthur Pecos
+137,3,01:54,33,59,PAU,BR,Arthur Pecos
+138,3,01:54,33,59,LIM,ER,Bruno Fiorotto
+139,3,01:59,33,59,LIM,RD,Bruno Fiorotto
+140,3,01:59,33,59,PAU,2_Pts_T,Pilar
+141,3,02:24,33,59,LIM,2_Pts_C,Wagner
+142,3,02:44,33,57,LIM,RD,Wagner
+143,3,02:44,33,57,PAU,2_Pts_T,Pedro
+144,3,03:08,33,57,LIM,2_Pts_C,Matheus Dalla
+145,3,03:08,33,55,LIM,AS,Deryk
+146,3,03:15,33,55,LIM,RD,Wagner
+147,3,03:15,33,55,PAU,2_Pts_T,Arthur
+148,3,03:30,33,55,PAU,RO,Arthur Pecos
+149,3,03:30,33,55,PAU,2_Pts_T,Arthur
+150,3,03:56,33,55,LIM,3_Pts_C,David Jackson
+151,3,04:16,33,52,PAU,3_Pts_C,Pilar
+152,3,04:16,30,52,PAU,AS,Gemerson
+153,3,04:36,30,52,LIM,2_Pts_C,Bruno Fiorotto
+154,3,04:42,30,50,LIM,RO,Bruno Fiorotto
+155,3,04:42,30,50,LIM,3_Pts_T,Matheus Dalla
+156,3,05:04,30,50,PAU,3_Pts_C,Pedro
+157,3,05:04,27,50,PAU,AS,Arthur
+158,3,05:20,27,50,PAU,substituicao_entra,Pilar
+159,3,05:20,27,50,PAU,substituicao_sai,Renato C
+160,3,05:20,27,50,PAU,substituicao_entra,Arthur Pecos
+161,3,05:20,27,50,PAU,substituicao_sai,Dawkins
+162,3,05:20,27,50,PAU,substituicao_entra,Pedro
+163,3,05:20,27,50,PAU,substituicao_sai,Holloway
+164,3,05:21,27,50,LIM,LL_Pts_C,Bruno Fiorotto
+165,3,05:21,27,49,LIM,LL_Pts_C,Bruno Fiorotto
+166,3,05:21,27,48,LIM,FR,Bruno Fiorotto
+167,3,05:21,27,48,PAU,FC,Gemerson
+168,3,05:22,27,48,LIM,RD,Bruno Fiorotto
+169,3,05:22,27,48,PAU,3_Pts_T,Holloway
+170,3,05:39,27,48,PAU,RO,Renato C
+171,3,05:39,27,48,PAU,3_Pts_T,Dawkins
+172,3,05:43,27,48,PAU,RO,Paulistano
+173,3,05:43,27,48,LIM,TO,Bruno Fiorotto
+174,3,05:43,27,48,PAU,2_Pts_T,Holloway
+175,3,06:03,27,48,LIM,LL_Pts_C,Bruno Fiorotto
+176,3,06:03,27,47,LIM,AS,Matheus Dalla
+177,3,06:03,27,47,LIM,LL_Pts_C,Bruno Fiorotto
+178,3,06:03,27,46,LIM,substituicao_entra,Wagner
+179,3,06:03,27,46,LIM,substituicao_sai,Teichmann
+180,3,06:03,27,46,LIM,FR,Bruno Fiorotto
+181,3,06:03,27,46,PAU,FC,Renato C
+182,3,06:32,27,46,PAU,2_Pts_C,Holloway
+183,3,06:51,25,46,LIM,,
+184,3,06:52,25,46,LIM,FR,Teichmann
+185,3,06:52,25,46,PAU,FC,Gemerson
+186,3,06:52,25,46,LIM,RD,Teichmann
+187,3,06:52,25,46,PAU,3_Pts_T,Dawkins
+188,3,07:09,25,46,LIM,substituicao_entra,Deryk
+189,3,07:09,25,46,LIM,substituicao_sai,Hélio
+190,3,07:09,25,46,LIM,LL_Pts_C,Hélio
+191,3,07:09,25,45,LIM,LL_Pts_C,Hélio
+192,3,07:11,25,44,LIM,FR,Hélio
+193,3,07:11,25,44,PAU,FC,Dawkins
+194,3,07:16,25,44,PAU,substituicao_entra,Gemerson
+195,3,07:16,25,44,PAU,substituicao_sai,Pilar
+196,3,07:16,25,44,PAU,substituicao_entra,Arthur
+197,3,07:16,25,44,PAU,substituicao_sai,César
+198,3,07:16,25,44,LIM,RO,Limeira
+199,3,07:16,25,44,PAU,TO,Holloway
+200,3,07:16,25,44,LIM,2_Pts_T,David Jackson
+201,3,07:24,25,44,LIM,RO,Hélio
+202,3,07:24,25,44,LIM,2_Pts_T,Teichmann
+203,3,07:30,25,44,LIM,RO,Teichmann
+204,3,07:30,25,44,LIM,3_Pts_T,Hélio
+205,3,07:38,25,44,LIM,RD,Teichmann
+206,3,07:38,25,44,PAU,3_Pts_T,Renato C
+207,3,07:58,25,44,LIM,2_Pts_C,Bruno Fiorotto
+208,3,08:15,25,42,LIM,RD,Matheus Dalla
+209,3,08:15,25,42,PAU,2_Pts_T,César
+210,3,08:27,25,42,PAU,FR,Dawkins
+211,3,08:27,25,42,LIM,FC,Bruno Fiorotto
+212,3,08:38,25,42,LIM,ER,Bruno Fiorotto
+213,3,08:53,25,42,LIM,FR,Bruno Fiorotto
+214,3,08:53,25,42,PAU,FC,Renato C
+215,3,09:13,25,42,PAU,3_Pts_C,César
+216,3,09:13,22,42,PAU,AS,Holloway
+217,3,09:22,22,42,PAU,RO,Paulistano
+218,3,09:22,22,42,LIM,TO,Teichmann
+219,3,09:22,22,42,PAU,2_Pts_T,Pilar
+220,3,09:32,22,42,PAU,FR,Pilar
+221,3,09:32,22,42,LIM,FC,Teichmann
+222,3,09:35,22,42,PAU,FR,Pilar
+223,3,09:35,22,42,LIM,FC,Matheus Dalla
+224,3,09:40,22,42,PAU,FR,Pilar
+225,3,09:40,22,42,LIM,FC,Hélio
+226,3,09:40,22,42,PAU,BR,Pilar
+227,3,09:40,22,42,LIM,ER,Matheus Dalla
+228,3,09:44,22,42,LIM,FR,David Jackson
+229,3,09:44,22,42,PAU,FC,Holloway
+230,2,00:00,22,42, ,fim_quarto,
+231,2,00:05,22,42,LIM,2_Pts_C,David Jackson
+232,2,00:05,22,40,LIM,AS,Deryk
+233,2,00:05,22,40,LIM,substituicao_entra,Matheus Dalla
+234,2,00:05,22,40,LIM,substituicao_sai,Wagner
+235,2,00:05,22,40,LIM,FR,Deryk
+236,2,00:05,22,40,PAU,FC,Duso
+237,2,00:10,22,40,LIM,tempo_tecnico,Limeira
+238,2,00:10,22,40,PAU,2_Pts_C,Holloway
+239,2,00:11,20,40,LIM,substituicao_entra,Deryk
+240,2,00:11,20,40,LIM,substituicao_sai,Higor
+241,2,00:11,20,40,LIM,substituicao_entra,David Jackson
+242,2,00:11,20,40,LIM,substituicao_sai,Matheus Dalla
+243,2,00:11,20,40,PAU,substituicao_entra,Duso
+244,2,00:11,20,40,PAU,substituicao_sai,Holloway
+245,2,00:11,20,40,PAU,substituicao_entra,Gemerson
+246,2,00:11,20,40,PAU,substituicao_sai,Pilar
+247,2,00:14,20,40,PAU,RD,Renato C
+248,2,00:14,20,40,LIM,2_Pts_T,Wagner
+249,2,00:22,20,40,LIM,RO,Wagner
+250,2,00:22,20,40,PAU,TO,Pilar
+251,2,00:22,20,40,LIM,2_Pts_T,Higor
+252,2,00:47,20,40,PAU,EN,Holloway
+253,2,00:47,18,40,PAU,AS,Dawkins
+254,2,01:08,18,40,LIM,2_Pts_C,Hélio
+255,2,01:26,18,38,PAU,,
+256,2,01:42,18,38,PAU,RO,Paulistano
+257,2,01:42,18,38,LIM,TO,Wagner
+258,2,01:42,18,38,PAU,2_Pts_T,Holloway
+259,2,01:47,18,38,PAU,RD,Pilar
+260,2,01:47,18,38,LIM,2_Pts_T,Hélio
+261,2,01:57,18,38,LIM,FR,Higor
+262,2,01:57,18,38,PAU,FC,Pilar
+263,2,02:11,18,38,LIM,tempo_tecnico,Limeira
+264,2,02:11,18,38,PAU,LL_Pts_C,Arthur Pecos
+265,2,02:11,17,38,PAU,LL_Pts_C,Arthur Pecos
+266,2,02:11,16,38,PAU,substituicao_entra,Renato C
+267,2,02:11,16,38,PAU,substituicao_sai,César
+268,2,02:11,16,38,LIM,substituicao_entra,Teichmann
+269,2,02:11,16,38,LIM,substituicao_sai,Renan
+270,2,02:11,16,38,PAU,FR,Holloway
+271,2,02:11,16,38,LIM,FC,Hélio
+272,2,02:18,16,38,LIM,2_Pts_C,Wagner
+273,2,02:18,16,36,LIM,AS,Matheus Dalla
+274,2,02:32,16,36,LIM,RD,Wagner
+275,2,02:32,16,36,PAU,2_Pts_T,César
+276,2,02:44,16,36,LIM,substituicao_entra,Higor
+277,2,02:44,16,36,LIM,substituicao_sai,Deryk
+278,2,02:44,16,36,PAU,FR,Arthur Pecos
+279,2,02:44,16,36,LIM,FC,Deryk
+280,2,02:48,16,36,PAU,RD,Arthur Pecos
+281,2,02:48,16,36,LIM,3_Pts_T,Deryk
+282,2,03:10,16,36,LIM,RD,Renan
+283,2,03:10,16,36,PAU,3_Pts_T,Pilar
+284,2,03:30,16,36,PAU,RD,César
+285,2,03:30,16,36,LIM,2_Pts_T,Renan
+286,2,03:50,16,36,PAU,substituicao_entra,Pilar
+287,2,03:50,16,36,PAU,substituicao_sai,Gemerson
+288,2,03:52,16,36,LIM,RD,Renan
+289,2,03:52,16,36,PAU,2_Pts_T,Dawkins
+290,2,04:09,16,36,PAU,RO,Holloway
+291,2,04:09,16,36,PAU,3_Pts_T,César
+292,2,04:21,16,36,LIM,ER,
+293,2,04:39,16,36,PAU,substituicao_entra,Arthur Pecos
+294,2,04:39,16,36,PAU,substituicao_sai,Arthur
+295,2,04:39,16,36,LIM,FR,Renan
+296,2,04:39,16,36,PAU,FC,Arthur
+297,2,04:59,16,36,LIM,LL_Pts_C,Hélio
+298,2,04:59,16,35,LIM,LL_Pts_C,Hélio
+299,2,04:59,16,34,LIM,LL_Pts_C,Hélio
+300,2,04:59,16,33,LIM,LL_Pts_C,Hélio
+301,2,04:59,16,32,PAU,substituicao_entra,Arthur
+302,2,04:59,16,32,PAU,substituicao_sai,Arthur Pecos
+303,2,04:59,16,32,PAU,substituicao_entra,Gemerson
+304,2,04:59,16,32,PAU,substituicao_sai,Renato C
+305,2,04:59,16,32,PAU,FC_T,Paulistano
+306,2,04:59,16,32,PAU,FC_T,Banco do Paulistano
+307,2,04:59,16,32,LIM,FR,Hélio
+308,2,04:59,16,32,PAU,FC,Arthur Pecos
+309,2,05:17,16,32,LIM,substituicao_entra,Matheus Dalla
+310,2,05:17,16,32,LIM,substituicao_sai,David Jackson
+311,2,05:20,16,32,PAU,2_Pts_C,Dawkins
+312,2,05:31,14,32,PAU,RD,César
+313,2,05:31,14,32,LIM,2_Pts_T,Renan
+314,2,05:46,14,32,LIM,RD,Deryk
+315,2,05:46,14,32,PAU,2_Pts_T,Holloway
+316,2,06:02,14,32,LIM,2_Pts_C,Renan
+317,2,06:15,14,30,LIM,RD,Deryk
+318,2,06:15,14,30,PAU,3_Pts_T,Renato C
+319,2,06:32,14,30,PAU,substituicao_entra,César
+320,2,06:32,14,30,PAU,substituicao_sai,Pilar
+321,2,06:32,14,30,PAU,substituicao_entra,Holloway
+322,2,06:32,14,30,PAU,substituicao_sai,Gemerson
+323,2,06:32,14,30,PAU,FR,Dawkins
+324,2,06:32,14,30,LIM,FC,Deryk
+325,2,06:33,14,30,PAU,RD,Dawkins
+326,2,06:33,14,30,LIM,3_Pts_T,Hélio
+327,2,06:47,14,30,PAU,3_Pts_C,Arthur Pecos
+328,2,06:47,11,30,PAU,AS,Dawkins
+329,2,07:05,11,30,LIM,3_Pts_C,David Jackson
+330,2,07:35,11,27,LIM,BR,Wagner
+331,2,07:35,11,27,PAU,ER,Pilar
+332,2,07:42,11,27,LIM,substituicao_entra,Hélio
+333,2,07:42,11,27,LIM,substituicao_sai,Renato Lamas
+334,2,07:47,11,27,PAU,FR,Gemerson
+335,2,07:47,11,27,LIM,FC,Renato Lamas
+336,2,07:47,11,27,PAU,RO,Gemerson
+337,2,07:47,11,27,PAU,3_Pts_T,Arthur Pecos
+338,2,08:05,11,27,PAU,substituicao_entra,Dawkins
+339,2,08:05,11,27,PAU,substituicao_sai,Pedro
+340,2,08:05,11,27,PAU,tempo_tecnico,Paulistano
+341,2,08:05,11,27,LIM,3_Pts_C,David Jackson
+342,2,08:26,11,24,LIM,RD,Wagner
+343,2,08:26,11,24,PAU,3_Pts_T,Pilar
+344,2,08:48,11,24,LIM,2_Pts_C,David Jackson
+345,2,08:48,11,22,LIM,AS,Renan
+346,2,08:57,11,22,LIM,RD,Wagner
+347,2,08:57,11,22,PAU,3_Pts_T,Gemerson
+348,2,09:19,11,22,PAU,RD,Pilar
+349,2,09:19,11,22,LIM,2_Pts_T,Renan
+350,2,09:35,11,22,PAU,2_Pts_C,Gemerson
+351,2,09:49,9,22,PAU,FR,Pedro
+352,2,09:49,9,22,LIM,FC,Renato Lamas
+353,1,00:00,9,22, ,fim_quarto,
+354,1,00:01,9,22,PAU,3_Pts_T,Arthur Pecos
+355,1,00:06,9,22,LIM,3_Pts_C,David Jackson
+356,1,00:06,9,19,LIM,AS,Renato Lamas
+357,1,00:14,9,19,PAU,substituicao_entra,Arthur
+358,1,00:14,9,19,PAU,substituicao_sai,Pilar
+359,1,00:14,9,19,LIM,substituicao_entra,Hélio
+360,1,00:14,9,19,LIM,substituicao_sai,Wagner
+361,1,00:14,9,19,LIM,substituicao_entra,Matheus Dalla
+362,1,00:14,9,19,LIM,substituicao_sai,Higor
+363,1,00:14,9,19,PAU,LL_Pts_C,Pedro
+364,1,00:14,8,19,PAU,LL_Pts_C,Pedro
+365,1,00:14,7,19,PAU,substituicao_sai,Holloway
+366,1,00:14,7,19,PAU,substituicao_entra,Duso
+367,1,00:14,7,19,PAU,FR,Pedro
+368,1,00:14,7,19,LIM,FC,Higor
+369,1,00:14,7,19,PAU,RO,Pilar
+370,1,00:14,7,19,PAU,2_Pts_T,Holloway
+371,1,00:14,7,19,PAU,RO,Holloway
+372,1,00:14,7,19,PAU,2_Pts_T,Arthur Pecos
+373,1,00:19,7,19,PAU,RO,Arthur Pecos
+374,1,00:19,7,19,PAU,2_Pts_T,Holloway
+375,1,00:25,7,19,PAU,RO,Holloway
+376,1,00:25,7,19,PAU,2_Pts_T,Pedro
+377,1,00:42,7,19,LIM,substituicao_entra,Higor
+378,1,00:42,7,19,LIM,substituicao_sai,Bruno Fiorotto
+379,1,00:42,7,19,PAU,substituicao_sai,Arthur
+380,1,00:42,7,19,PAU,substituicao_entra,Holloway
+381,1,00:42,7,19,PAU,RO,Paulistano
+382,1,00:42,7,19,LIM,TO,David Jackson
+383,1,00:42,7,19,PAU,2_Pts_T,Pedro
+384,1,00:45,7,19,PAU,substituicao_entra,Arthur Pecos
+385,1,00:45,7,19,PAU,substituicao_sai,Dawkins
+386,1,00:45,7,19,PAU,RO,Paulistano
+387,1,00:45,7,19,PAU,2_Pts_T,Pilar
+388,1,00:50,7,19,PAU,RD,Gemerson
+389,1,00:50,7,19,LIM,2_Pts_T,Deryk
+390,1,01:03,7,19,LIM,RD,Deryk
+391,1,01:03,7,19,PAU,2_Pts_T,Pilar
+392,1,01:30,7,19,LIM,2_Pts_C,Bruno Fiorotto
+393,1,01:30,7,17,LIM,AS,Renato Lamas
+394,1,01:32,7,17,PAU,substituicao_entra,Pilar
+395,1,01:32,7,17,PAU,substituicao_sai,César
+396,1,01:32,7,17,LIM,FR,Wagner
+397,1,01:32,7,17,PAU,FC,César
+398,1,01:39,7,17,PAU,LL_Pts_C,Arthur
+399,1,01:39,6,17,PAU,LL_Pts_C,Arthur
+400,1,01:39,5,17,PAU,FR,Arthur
+401,1,01:39,5,17,LIM,FC,Wagner
+402,1,01:48,5,17,PAU,FR,Dawkins
+403,1,01:48,5,17,LIM,FC,Deryk
+404,1,01:53,5,17,PAU,RD,Pedro
+405,1,01:53,5,17,LIM,3_Pts_T,Renato Lamas
+406,1,02:02,5,17,LIM,substituicao_sai,Teichmann
+407,1,02:02,5,17,LIM,substituicao_entra,Wagner
+408,1,02:02,5,17,PAU,substituicao_entra,Arthur
+409,1,02:02,5,17,PAU,substituicao_sai,Renato C
+410,1,02:04,5,17,LIM,RO,Limeira
+411,1,02:04,5,17,LIM,3_Pts_T,David Jackson
+412,1,02:21,5,17,PAU,2_Pts_C,Gemerson
+413,1,02:28,3,17,PAU,RO,Gemerson
+414,1,02:28,3,17,PAU,3_Pts_T,Pedro
+415,1,02:35,3,17,PAU,RD,Gemerson
+416,1,02:35,3,17,LIM,2_Pts_T,Teichmann
+417,1,02:40,3,17,LIM,BR,Teichmann
+418,1,02:40,3,17,PAU,ER,Pedro
+419,1,03:01,3,17,LIM,2_Pts_C,Bruno Fiorotto
+420,1,03:23,3,15,LIM,RD,Bruno Fiorotto
+421,1,03:23,3,15,PAU,2_Pts_T,Dawkins
+422,1,03:43,3,15,LIM,2_Pts_C,David Jackson
+423,1,03:52,3,13,LIM,FR,Teichmann
+424,1,03:52,3,13,PAU,FC,César
+425,1,04:13,3,13,PAU,substituicao_sai,Pilar
+426,1,04:13,3,13,PAU,substituicao_entra,Gemerson
+427,1,04:13,3,13,PAU,LL_Pts_C,Pilar
+428,1,04:13,2,13,PAU,LL_Pts_T,Pilar
+429,1,04:13,2,13,LIM,substituicao_entra,Deryk
+430,1,04:13,2,13,LIM,substituicao_sai,Hélio
+431,1,04:13,2,13,PAU,FR,Pilar
+432,1,04:13,2,13,LIM,FC,Renato Lamas
+433,1,04:32,2,13,LIM,,
+434,1,04:44,2,13,LIM,RO,Bruno Fiorotto
+435,1,04:44,2,13,LIM,2_Pts_T,Teichmann
+436,1,05:07,2,13,PAU,substituicao_entra,César
+437,1,05:07,2,13,PAU,substituicao_sai,Arthur
+438,1,05:07,2,13,PAU,substituicao_entra,Pedro
+439,1,05:07,2,13,PAU,substituicao_sai,Holloway
+440,1,05:08,2,13,LIM,RD,Limeira
+441,1,05:08,2,13,PAU,2_Pts_T,Dawkins
+442,1,05:19,2,13,PAU,RD,Dawkins
+443,1,05:19,2,13,LIM,2_Pts_T,Bruno Fiorotto
+444,1,05:34,2,13,LIM,RD,Teichmann
+445,1,05:34,2,13,PAU,3_Pts_T,Holloway
+446,1,05:50,2,13,LIM,substituicao_entra,Renato Lamas
+447,1,05:50,2,13,LIM,substituicao_sai,Matheus Dalla
+448,1,05:50,2,13,PAU,FR,Arthur
+449,1,05:50,2,13,LIM,FC,Matheus Dalla
+450,1,06:06,2,13,LIM,2_Pts_C,David Jackson
+451,1,06:24,2,11,LIM,RD,Matheus Dalla
+452,1,06:24,2,11,PAU,2_Pts_T,Pilar
+453,1,06:40,2,11,PAU,tempo_tecnico,Paulistano
+454,1,06:40,2,11,LIM,2_Pts_C,Teichmann
+455,1,06:47,2,9,PAU,ER,
+456,1,07:03,2,9,PAU,FR,Pilar
+457,1,07:03,2,9,LIM,FC,Matheus Dalla
+458,1,07:22,2,9,LIM,2_Pts_C,Hélio
+459,1,07:22,2,7,LIM,AS,Matheus Dalla
+460,1,07:29,2,7,LIM,BR,Matheus Dalla
+461,1,07:29,2,7,PAU,ER,Renato C
+462,1,07:47,2,7,LIM,2_Pts_C,Teichmann
+463,1,07:47,2,5,LIM,AS,Bruno Fiorotto
+464,1,07:55,2,5,LIM,FR,Teichmann
+465,1,07:55,2,5,PAU,FC_O,Renato C
+466,1,08:00,2,5,PAU,BR,Renato C
+467,1,08:00,2,5,LIM,ER,Bruno Fiorotto
+468,1,08:12,2,5,LIM,RD,Hélio
+469,1,08:12,2,5,LIM,TO,Teichmann
+470,1,08:12,2,5,PAU,3_Pts_T,Dawkins
+471,1,08:46,2,5,LIM,2_Pts_C,Teichmann
+472,1,08:57,2,3,LIM,RD,Teichmann
+473,1,08:57,2,3,PAU,2_Pts_T,Pilar
+474,1,09:20,2,3,LIM,3_Pts_C,Matheus Dalla
+475,1,09:20,2,0,LIM,AS,Teichmann
+476,1,09:32,2,0,PAU,2_Pts_C,Holloway
+477,1,09:44,0,0,PAU,RD,Holloway
+478,1,09:44,0,0,LIM,3_Pts_T,Hélio
+479,1,10:00,0,0,LIM,substituicao_entra,David Jackson
+480,1,10:00,0,0,LIM,substituicao_entra,Bruno Fiorotto
+481,1,10:00,0,0,LIM,substituicao_entra,Teichmann
+482,1,10:00,0,0,LIM,substituicao_entra,Matheus Dalla
+483,1,10:00,0,0,LIM,substituicao_entra,Hélio
+484,1,10:00,0,0,PAU,substituicao_entra,Dawkins
+485,1,10:00,0,0,PAU,substituicao_entra,Holloway
+486,1,10:00,0,0,PAU,substituicao_entra,Arthur
+487,1,10:00,0,0,PAU,substituicao_entra,Renato C
+488,1,10:00,0,0,PAU,substituicao_entra,Pilar

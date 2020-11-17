@@ -1,0 +1,549 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,72,85,,fim_partida,
+1,4,00:00,72,85,,fim_quarto,
+2,4,00:01,72,85,FRA,AS,Elinho
+3,4,00:01,72,85,FRA,2_Pts_C,Jimmy
+4,4,00:07,72,83,FRA,RD,Elinho
+5,4,00:07,72,83,CAP,2_Pts_T,Yago
+6,4,00:13,72,83,FRA,LL_Pts_C,Schattmann
+7,4,00:13,72,82,FRA,LL_Pts_C,Schattmann
+8,4,00:13,72,81,FRA,FR,Schattmann
+9,4,00:13,72,81,CAP,FC,Yago
+10,4,00:17,72,81,CAP,3_Pts_C,Yago
+11,4,00:21,69,81,CAP,RD,Yago
+12,4,00:24,69,81,FRA,2_Pts_T,Guilherme
+13,4,00:48,69,81,CAP,AS,Ruivo
+14,4,00:48,69,81,CAP,3_Pts_C,Maique
+15,4,00:50,66,81,CAP,tempo_tecnico,Paulistano
+16,4,00:50,66,81,FRA,substituicao_entra,Jimmy
+17,4,00:50,66,81,FRA,substituicao_sai,David Jackson
+18,4,00:50,66,81,FRA,LL_Pts_C,David Jackson
+19,4,00:50,66,80,FRA,substituicao_entra,Guilherme
+20,4,00:50,66,80,FRA,substituicao_sai,Hettsheimeir
+21,4,00:50,66,80,CAP,substituicao_entra,Eddy
+22,4,00:50,66,80,CAP,substituicao_sai,D Coleman
+23,4,00:50,66,80,FRA,FR,David Jackson
+24,4,00:50,66,80,CAP,FC,D Coleman
+25,4,00:50,66,80,FRA,AS,Lucas Dias
+26,4,00:50,66,80,FRA,2_Pts_C,David Jackson
+27,4,00:53,66,78,CAP,2_Pts_C,Yago
+28,4,00:57,64,78,CAP,FR,Yago
+29,4,00:57,64,78,FRA,FC,Lucas Dias
+30,4,00:59,64,78,CAP,RD,Yago
+31,4,01:03,64,78,FRA,2_Pts_T,Lucas Dias
+32,4,01:23,64,78,CAP,ER,Dikembe
+33,4,01:29,64,78,CAP,BR,Yago
+34,4,01:29,64,78,FRA,ER,Elinho
+35,4,01:31,64,78,FRA,RD,Elinho
+36,4,01:33,64,78,CAP,3_Pts_T,Ruivo
+37,4,01:37,64,78,CAP,tempo_tecnico,Paulistano
+38,4,01:37,64,78,FRA,LL_Pts_C,Elinho
+39,4,01:37,64,77,FRA,LL_Pts_C,Elinho
+40,4,01:37,64,76,CAP,substituicao_entra,Dikembe
+41,4,01:37,64,76,CAP,substituicao_entra,D Coleman
+42,4,01:37,64,76,CAP,substituicao_sai,Eddy
+43,4,01:37,64,76,CAP,substituicao_sai,Victão
+44,4,01:37,64,76,FRA,FR,Elinho
+45,4,01:37,64,76,CAP,FC,Yago
+46,4,01:39,64,76,FRA,RO,Elinho
+47,4,01:42,64,76,FRA,3_Pts_T,Hettsheimeir
+48,4,02:03,64,76,FRA,RD,Schattmann
+49,4,02:06,64,76,CAP,3_Pts_T,Victão
+50,4,02:21,64,76,FRA,LL_Pts_C,David Jackson
+51,4,02:21,64,75,FRA,LL_Pts_C,David Jackson
+52,4,02:21,64,74,FRA,FR,David Jackson
+53,4,02:21,64,74,CAP,FC,Eddy
+54,4,02:29,64,74,CAP,AS,Yago
+55,4,02:29,64,74,CAP,2_Pts_C,Maique
+56,4,02:45,62,74,FRA,AS,Lucas Dias
+57,4,02:45,62,74,FRA,3_Pts_C,Schattmann
+58,4,03:03,62,71,FRA,substituicao_entra,Elinho
+59,4,03:03,62,71,FRA,substituicao_sai,Parodi
+60,4,03:03,62,71,CAP,substituicao_entra,Maique
+61,4,03:03,62,71,CAP,substituicao_sai,Dikembe
+62,4,03:03,62,71,FRA,tempo_tecnico,Franca
+63,4,03:08,62,71,CAP,AS,Victão
+64,4,03:08,62,71,CAP,3_Pts_C,Yago
+65,4,03:12,59,71,CAP,RD,Yago
+66,4,03:15,59,71,FRA,2_Pts_T,Hettsheimeir
+67,4,03:39,59,71,FRA,BR,Schattmann
+68,4,03:39,59,71,CAP,ER,Dikembe
+69,4,03:43,59,71,CAP,RO,Dikembe
+70,4,03:46,59,71,CAP,3_Pts_T,Yago
+71,4,03:52,59,71,CAP,RD,Dikembe
+72,4,03:56,59,71,FRA,2_Pts_T,Schattmann
+73,4,04:07,59,71,CAP,AS,Yago
+74,4,04:07,59,71,CAP,EN,Dikembe
+75,4,04:12,57,71,CAP,BR,Victão
+76,4,04:12,57,71,FRA,ER,Parodi
+77,4,04:29,57,71,FRA,RD,Lucas Dias
+78,4,04:29,57,71,CAP,LL_Pts_T,Yago
+79,4,04:29,57,71,CAP,LL_Pts_C,Yago
+80,4,04:29,56,71,CAP,substituicao_entra,Victão
+81,4,04:29,56,71,CAP,substituicao_sai,Maique
+82,4,04:29,56,71,CAP,FR,Yago
+83,4,04:29,56,71,FRA,FC,Schattmann
+84,4,04:30,56,71,CAP,RO,Yago
+85,4,04:32,56,71,CAP,3_Pts_T,Maique
+86,4,04:57,56,71,FRA,2_Pts_C,Hettsheimeir
+87,4,05:14,56,69,FRA,RD,Hettsheimeir
+88,4,05:19,56,69,CAP,3_Pts_T,Yago
+89,4,05:21,56,69,CAP,RO,Dikembe
+90,4,05:24,56,69,CAP,3_Pts_T,Maique
+91,4,05:43,56,69,FRA,3_Pts_C,Schattmann
+92,4,06:05,56,66,CAP,AS,Yago
+93,4,06:05,56,66,CAP,3_Pts_C,Maique
+94,4,06:21,53,66,FRA,LL_Pts_C,Hettsheimeir
+95,4,06:21,53,65,FRA,LL_Pts_C,Hettsheimeir
+96,4,06:21,53,64,FRA,FR,Hettsheimeir
+97,4,06:21,53,64,CAP,FC,Dikembe
+98,4,06:23,53,64,FRA,RO,Hettsheimeir
+99,4,06:26,53,64,FRA,3_Pts_T,Lucas Dias
+100,4,06:40,53,64,CAP,substituicao_entra,Eddy
+101,4,06:40,53,64,CAP,substituicao_sai,Solano
+102,4,06:40,53,64,FRA,FR,Schattmann
+103,4,06:40,53,64,CAP,FC,Solano
+104,4,06:46,53,64,FRA,RO,Franca
+105,4,06:46,53,64,CAP,TO,Maique
+106,4,06:46,53,64,FRA,2_Pts_T,Parodi
+107,4,06:56,53,64,FRA,tempo_tecnico,Franca
+108,4,06:59,53,64,CAP,2_Pts_C,Ruivo
+109,4,07:03,51,64,CAP,BR,Ruivo
+110,4,07:03,51,64,FRA,ER,Hettsheimeir
+111,4,07:06,51,64,FRA,FR,David Jackson
+112,4,07:06,51,64,CAP,FC,Ruivo
+113,4,07:17,51,64,CAP,LL_Pts_C,Yago
+114,4,07:17,50,64,CAP,LL_Pts_C,Yago
+115,4,07:17,49,64,CAP,substituicao_entra,Dikembe
+116,4,07:17,49,64,CAP,substituicao_sai,Victão
+117,4,07:17,49,64,FRA,substituicao_entra,David Jackson
+118,4,07:17,49,64,FRA,substituicao_entra,Hettsheimeir
+119,4,07:17,49,64,FRA,substituicao_sai,Guilherme
+120,4,07:17,49,64,FRA,substituicao_sai,Elinho
+121,4,07:17,49,64,CAP,FR,Yago
+122,4,07:17,49,64,FRA,FC,Guilherme
+123,4,07:24,49,64,CAP,RD,Solano
+124,4,07:27,49,64,FRA,3_Pts_T,Elinho
+125,4,07:46,49,64,CAP,3_Pts_C,Yago
+126,4,08:04,46,64,CAP,BR,Yago
+127,4,08:04,46,64,FRA,ER,Elinho
+128,4,08:22,46,64,FRA,RD,Franca
+129,4,08:24,46,64,CAP,3_Pts_T,Yago
+130,4,08:29,46,64,CAP,RO,Paulistano
+131,4,08:33,46,64,CAP,3_Pts_T,Ruivo
+132,4,08:49,46,64,CAP,substituicao_entra,Solano
+133,4,08:49,46,64,CAP,substituicao_sai,D Coleman
+134,4,08:49,46,64,CAP,FR,Ruivo
+135,4,08:49,46,64,FRA,ER,Schattmann
+136,4,08:49,46,64,FRA,FC_O,Schattmann
+137,4,09:00,46,64,FRA,RD,Guilherme
+138,4,09:02,46,64,CAP,3_Pts_T,D Coleman
+139,4,09:15,46,64,FRA,LL_Pts_C,Guilherme
+140,4,09:15,46,63,FRA,LL_Pts_T,Guilherme
+141,4,09:15,46,63,FRA,FR,Guilherme
+142,4,09:15,46,63,CAP,FC,D Coleman
+143,4,09:34,46,63,FRA,RD,Parodi
+144,4,09:38,46,63,CAP,2_Pts_T,Victão
+145,4,10:00,46,63,,inicio_quarto,
+146,3,00:00,46,63,,fim_quarto,
+147,3,00:04,46,63,CAP,RD,Maique
+148,3,00:04,46,63,FRA,2_Pts_T,Elinho
+149,3,00:17,46,63,CAP,substituicao_entra,Jonatan
+150,3,00:17,46,63,CAP,substituicao_sai,Victão
+151,3,00:17,46,63,CAP,LL_Pts_C,Victão
+152,3,00:17,45,63,CAP,LL_Pts_C,Victão
+153,3,00:17,44,63,CAP,substituicao_entra,Barbosa
+154,3,00:17,44,63,CAP,substituicao_sai,D Coleman
+155,3,00:17,44,63,CAP,FR,Victão
+156,3,00:17,44,63,FRA,FC,Guilherme
+157,3,00:17,44,63,CAP,RD,Paulistano
+158,3,00:18,44,63,FRA,3_Pts_T,Parodi
+159,3,00:35,44,63,FRA,LL_Pts_C,Schattmann
+160,3,00:35,44,62,FRA,substituicao_entra,Parodi
+161,3,00:35,44,62,FRA,substituicao_sai,Márcio
+162,3,00:35,44,62,CAP,substituicao_entra,Victão
+163,3,00:35,44,62,CAP,substituicao_entra,Yago
+164,3,00:35,44,62,CAP,substituicao_sai,Dikembe
+165,3,00:35,44,62,CAP,substituicao_sai,Solano
+166,3,00:35,44,62,CAP,FC_T,Solano
+167,3,00:42,44,62,FRA,RD,Guilherme
+168,3,00:44,44,62,CAP,3_Pts_T,Maique
+169,3,00:58,44,62,FRA,substituicao_entra,Márcio
+170,3,00:58,44,62,FRA,substituicao_sai,David Jackson
+171,3,00:58,44,62,CAP,FR,Dikembe
+172,3,00:58,44,62,FRA,FC,Guilherme
+173,3,01:06,44,62,FRA,substituicao_entra,Guilherme
+174,3,01:06,44,62,FRA,substituicao_sai,Lucas Dias
+175,3,01:06,44,62,CAP,substituicao_entra,D Coleman
+176,3,01:06,44,62,CAP,substituicao_entra,Ruivo
+177,3,01:06,44,62,CAP,substituicao_sai,Jonatan
+178,3,01:06,44,62,CAP,substituicao_sai,Eddy
+179,3,01:06,44,62,CAP,FR,Dikembe
+180,3,01:06,44,62,FRA,FC,Lucas Dias
+181,3,01:17,44,62,FRA,EN,Lucas Dias
+182,3,01:22,44,60,FRA,BR,Lucas Dias
+183,3,01:22,44,60,CAP,ER,Jonatan
+184,3,01:45,44,60,FRA,AS,Schattmann
+185,3,01:45,44,60,FRA,2_Pts_C,Guilherme
+186,3,02:04,44,58,CAP,3_Pts_C,Solano
+187,3,02:23,41,58,CAP,FR,Dikembe
+188,3,02:23,41,58,FRA,FC,Guilherme
+189,3,02:23,41,58,CAP,RD,Paulistano
+190,3,02:23,41,58,FRA,3_Pts_T,Lucas Dias
+191,3,02:37,41,58,CAP,substituicao_entra,Jonatan
+192,3,02:37,41,58,CAP,substituicao_sai,Yago
+193,3,02:37,41,58,FRA,substituicao_entra,Schattmann
+194,3,02:37,41,58,FRA,substituicao_sai,Jimmy
+195,3,02:37,41,58,CAP,ER,Yago
+196,3,02:53,41,58,CAP,tempo_tecnico,Paulistano
+197,3,02:55,41,58,FRA,AS,Elinho
+198,3,02:55,41,58,FRA,3_Pts_C,David Jackson
+199,3,03:10,41,55,FRA,BR,Lucas Dias
+200,3,03:10,41,55,CAP,ER,Solano
+201,3,03:28,41,55,FRA,substituicao_entra,Guilherme
+202,3,03:28,41,55,FRA,substituicao_sai,Hettsheimeir
+203,3,03:28,41,55,CAP,substituicao_entra,Maique
+204,3,03:28,41,55,CAP,substituicao_entra,Yago
+205,3,03:28,41,55,CAP,substituicao_sai,Barbosa
+206,3,03:28,41,55,CAP,substituicao_sai,Victão
+207,3,03:28,41,55,FRA,AS,Elinho
+208,3,03:28,41,55,FRA,LL_Pts_C,Hettsheimeir
+209,3,03:28,41,54,FRA,LL_Pts_T,Hettsheimeir
+210,3,03:28,41,54,FRA,FR,Hettsheimeir
+211,3,03:28,41,54,CAP,FC,Victão
+212,3,03:52,41,54,CAP,2_Pts_C,Dikembe
+213,3,03:53,39,54,CAP,RO,Dikembe
+214,3,03:57,39,54,CAP,,
+215,3,04:06,39,54,CAP,RO,Dikembe
+216,3,04:10,39,54,CAP,3_Pts_T,Solano
+217,3,04:24,39,54,CAP,RD,Dikembe
+218,3,04:26,39,54,FRA,3_Pts_T,Hettsheimeir
+219,3,04:38,39,54,CAP,ER,Dikembe
+220,3,04:55,39,54,FRA,2_Pts_C,Hettsheimeir
+221,3,05:08,39,52,CAP,substituicao_entra,Barbosa
+222,3,05:08,39,52,CAP,substituicao_sai,D Coleman
+223,3,05:08,39,52,FRA,FR,David Jackson
+224,3,05:08,39,52,CAP,FC,D Coleman
+225,3,05:19,39,52,CAP,2_Pts_C,Solano
+226,3,05:27,37,52,FRA,2_Pts_C,Jimmy
+227,3,05:27,37,50,FRA,RO,Jimmy
+228,3,05:31,37,50,FRA,3_Pts_T,Hettsheimeir
+229,3,05:48,37,50,FRA,RD,Hettsheimeir
+230,3,05:51,37,50,CAP,3_Pts_T,Eddy
+231,3,06:02,37,50,CAP,LL_Pts_T,Eddy
+232,3,06:02,37,50,FRA,FC_T,Franca
+233,3,06:02,37,50,FRA,substituicao_entra,Elinho
+234,3,06:02,37,50,FRA,substituicao_sai,Parodi
+235,3,06:02,37,50,CAP,FR,D Coleman
+236,3,06:02,37,50,FRA,ER,Hettsheimeir
+237,3,06:02,37,50,FRA,FC_O,Hettsheimeir
+238,3,06:21,37,50,CAP,AS,Solano
+239,3,06:21,37,50,CAP,EN,Dikembe
+240,3,06:25,35,50,CAP,BR,Victão
+241,3,06:25,35,50,FRA,ER,Parodi
+242,3,06:32,35,50,FRA,FR,Parodi
+243,3,06:32,35,50,CAP,FC,Solano
+244,3,06:52,35,50,CAP,AS,Eddy
+245,3,06:52,35,50,CAP,3_Pts_C,Solano
+246,3,06:57,32,50,CAP,RD,Dikembe
+247,3,07:01,32,50,FRA,2_Pts_T,Jimmy
+248,3,07:07,32,50,FRA,BR,David Jackson
+249,3,07:07,32,50,CAP,ER,Solano
+250,3,07:19,32,50,CAP,RD,Paulistano
+251,3,07:22,32,50,FRA,,
+252,3,07:29,32,50,CAP,2_Pts_C,Solano
+253,3,07:30,30,50,CAP,RO,Solano
+254,3,07:32,30,50,CAP,2_Pts_T,Dikembe
+255,3,07:32,30,50,CAP,RO,Dikembe
+256,3,07:36,30,50,CAP,2_Pts_T,Solano
+257,3,07:41,30,50,CAP,RD,Eddy
+258,3,07:44,30,50,FRA,2_Pts_T,Hettsheimeir
+259,3,07:56,30,50,CAP,substituicao_entra,Eddy
+260,3,07:56,30,50,CAP,substituicao_sai,Yago
+261,3,07:56,30,50,CAP,ER,Yago
+262,3,08:13,30,50,FRA,AS,Lucas Dias
+263,3,08:13,30,50,FRA,3_Pts_C,Jimmy
+264,3,08:19,30,47,CAP,ER,Victão
+265,3,08:19,30,47,CAP,BR,Victão
+266,3,08:19,30,47,FRA,ER,Lucas Dias
+267,3,08:32,30,47,FRA,RD,Jimmy
+268,3,08:35,30,47,CAP,3_Pts_T,D Coleman
+269,3,08:57,30,47,FRA,LL_Pts_C,Lucas Dias
+270,3,08:57,30,46,FRA,AS,Parodi
+271,3,08:57,30,46,FRA,LL_Pts_C,Lucas Dias
+272,3,08:57,30,45,FRA,FR,Lucas Dias
+273,3,08:57,30,45,CAP,FC,Solano
+274,3,09:03,30,45,FRA,BR,Hettsheimeir
+275,3,09:03,30,45,CAP,ER,Yago
+276,3,09:12,30,45,CAP,RD,Yago
+277,3,09:16,30,45,FRA,3_Pts_T,Lucas Dias
+278,3,09:20,30,45,FRA,RD,David Jackson
+279,3,09:23,30,45,CAP,3_Pts_T,Solano
+280,3,09:41,30,45,FRA,AS,Parodi
+281,3,09:41,30,45,FRA,2_Pts_C,David Jackson
+282,3,10:00,30,43,,inicio_quarto,
+283,3,10:00,30,43,FRA,ER,
+284,3,10:00,30,43,FRA,FC_T,Franca
+285,3,10:00,30,43,CAP,FC_T,Yago
+286,2,00:00,30,43,,fim_quarto,
+287,2,00:04,30,43,CAP,3_Pts_T,D Coleman
+288,2,00:14,30,43,CAP,substituicao_entra,Victão
+289,2,00:14,30,43,CAP,substituicao_sai,Dikembe
+290,2,00:14,30,43,FRA,substituicao_entra,Guilherme
+291,2,00:14,30,43,FRA,substituicao_sai,Lucas Dias
+292,2,00:14,30,43,FRA,substituicao_entra,Jimmy
+293,2,00:14,30,43,FRA,substituicao_sai,Elinho
+294,2,00:14,30,43,CAP,substituicao_entra,Yago
+295,2,00:14,30,43,CAP,substituicao_sai,Ruivo
+296,2,00:14,30,43,CAP,FR,Eddy
+297,2,00:14,30,43,FRA,ER,Elinho
+298,2,00:14,30,43,FRA,FC_O,Elinho
+299,2,00:31,30,43,CAP,2_Pts_C,Dikembe
+300,2,00:42,28,43,CAP,BR,Dikembe
+301,2,00:42,28,43,FRA,ER,Lucas Dias
+302,2,00:59,28,43,FRA,RD,Parodi
+303,2,01:03,28,43,CAP,3_Pts_T,Ruivo
+304,2,01:25,28,43,FRA,ER,Parodi
+305,2,01:34,28,43,CAP,substituicao_entra,Eddy
+306,2,01:34,28,43,CAP,substituicao_sai,Victão
+307,2,01:34,28,43,FRA,RD,Franca
+308,2,01:36,28,43,CAP,3_Pts_T,Ruivo
+309,2,01:41,28,43,CAP,RD,Ruivo
+310,2,01:45,28,43,FRA,3_Pts_T,Hettsheimeir
+311,2,01:56,28,43,FRA,RD,Lucas Dias
+312,2,01:59,28,43,CAP,2_Pts_T,D Coleman
+313,2,02:22,28,43,FRA,AS,Elinho
+314,2,02:22,28,43,FRA,3_Pts_C,Lucas Dias
+315,2,02:26,28,40,FRA,FR,Elinho
+316,2,02:26,28,40,CAP,FC,Victão
+317,2,02:26,28,40,FRA,substituicao_entra,Parodi
+318,2,02:26,28,40,FRA,substituicao_sai,Schattmann
+319,2,02:26,28,40,FRA,ER,Schattmann
+320,2,02:41,28,40,CAP,AS,Ruivo
+321,2,02:41,28,40,CAP,3_Pts_C,Victão
+322,2,02:49,25,40,CAP,FR,Victão
+323,2,02:49,25,40,FRA,FC,Schattmann
+324,2,03:01,25,40,FRA,2_Pts_C,Schattmann
+325,2,03:05,25,38,FRA,BR,Schattmann
+326,2,03:05,25,38,CAP,ER,Dikembe
+327,2,03:06,25,38,CAP,RD,Dikembe
+328,2,03:10,25,38,FRA,3_Pts_T,David Jackson
+329,2,03:18,25,38,CAP,substituicao_entra,Ruivo
+330,2,03:18,25,38,CAP,substituicao_sai,Yago
+331,2,03:18,25,38,FRA,tempo_tecnico,Franca
+332,2,03:18,25,38,CAP,2_Pts_C,Dikembe
+333,2,03:18,23,38,CAP,RO,Dikembe
+334,2,03:21,23,38,CAP,2_Pts_T,D Coleman
+335,2,03:23,23,38,CAP,RD,Dikembe
+336,2,03:26,23,38,FRA,2_Pts_T,Hettsheimeir
+337,2,03:49,23,38,CAP,AS,Solano
+338,2,03:49,23,38,CAP,3_Pts_C,Victão
+339,2,04:03,20,38,FRA,AS,David Jackson
+340,2,04:03,20,38,FRA,2_Pts_C,Schattmann
+341,2,04:08,20,36,FRA,BR,Lucas Dias
+342,2,04:08,20,36,CAP,ER,Yago
+343,2,04:14,20,36,FRA,substituicao_entra,Elinho
+344,2,04:14,20,36,FRA,substituicao_sai,Parodi
+345,2,04:34,20,36,FRA,AS,Hettsheimeir
+346,2,04:34,20,36,FRA,2_Pts_C,Schattmann
+347,2,04:56,20,34,FRA,RD,David Jackson
+348,2,04:59,20,34,CAP,3_Pts_T,Yago
+349,2,05:05,20,34,CAP,LL_Pts_C,Solano
+350,2,05:05,19,34,CAP,LL_Pts_T,Solano
+351,2,05:05,19,34,FRA,substituicao_entra,Schattmann
+352,2,05:05,19,34,FRA,substituicao_sai,Jimmy
+353,2,05:05,19,34,CAP,FR,Solano
+354,2,05:05,19,34,FRA,FC_A,Jimmy
+355,2,05:07,19,34,CAP,BR,Solano
+356,2,05:07,19,34,FRA,ER,Jimmy
+357,2,05:10,19,34,FRA,RD,Jimmy
+358,2,05:13,19,34,CAP,3_Pts_T,D Coleman
+359,2,05:35,19,34,FRA,AS,Hettsheimeir
+360,2,05:35,19,34,FRA,3_Pts_C,Lucas Dias
+361,2,05:54,19,31,FRA,substituicao_entra,Hettsheimeir
+362,2,05:54,19,31,FRA,substituicao_entra,Lucas Dias
+363,2,05:54,19,31,FRA,substituicao_sai,Guilherme
+364,2,05:54,19,31,FRA,substituicao_sai,Guilherme
+365,2,05:54,19,31,FRA,tempo_tecnico,Franca
+366,2,05:54,19,31,CAP,EN,Dikembe
+367,2,05:59,17,31,CAP,BR,D Coleman
+368,2,05:59,17,31,FRA,ER,David Jackson
+369,2,06:13,17,31,CAP,AS,Solano
+370,2,06:13,17,31,CAP,2_Pts_C,Dikembe
+371,2,06:26,15,31,FRA,AS,Jimmy
+372,2,06:26,15,31,FRA,3_Pts_C,Guilherme
+373,2,06:42,15,28,FRA,RD,David Jackson
+374,2,06:42,15,28,CAP,LL_Pts_T,Victão
+375,2,06:42,15,28,CAP,LL_Pts_T,Victão
+376,2,06:42,15,28,CAP,FR,Victão
+377,2,06:42,15,28,FRA,FC,Parodi
+378,2,06:45,15,28,CAP,RD,Dikembe
+379,2,06:48,15,28,FRA,2_Pts_T,Guilherme
+380,2,07:01,15,28,FRA,RD,Guilherme
+381,2,07:04,15,28,CAP,3_Pts_T,D Coleman
+382,2,07:20,15,28,CAP,substituicao_entra,Victão
+383,2,07:20,15,28,CAP,substituicao_entra,D Coleman
+384,2,07:20,15,28,CAP,substituicao_sai,Maique
+385,2,07:20,15,28,CAP,substituicao_sai,Eddy
+386,2,07:20,15,28,CAP,tempo_tecnico,Paulistano
+387,2,07:22,15,28,FRA,AS,Jimmy
+388,2,07:22,15,28,FRA,3_Pts_C,Parodi
+389,2,07:34,15,25,FRA,RD,Guilherme
+390,2,07:38,15,25,CAP,3_Pts_T,Yago
+391,2,08:05,15,25,FRA,AS,Parodi
+392,2,08:05,15,25,FRA,3_Pts_C,David Jackson
+393,2,08:23,15,22,CAP,AS,Eddy
+394,2,08:23,15,22,CAP,3_Pts_C,Yago
+395,2,08:32,12,22,CAP,RD,Maique
+396,2,08:35,12,22,FRA,3_Pts_T,Parodi
+397,2,08:42,12,22,FRA,BR,David Jackson
+398,2,08:42,12,22,CAP,ER,Yago
+399,2,08:46,12,22,CAP,RD,Dikembe
+400,2,08:49,12,22,FRA,3_Pts_T,Jimmy
+401,2,09:05,12,22,FRA,RD,Franca
+402,2,09:07,12,22,CAP,2_Pts_T,Maique
+403,2,09:12,12,22,CAP,BR,Solano
+404,2,09:12,12,22,FRA,ER,Parodi
+405,2,09:24,12,22,FRA,RD,Guilherme
+406,2,09:27,12,22,CAP,2_Pts_T,Dikembe
+407,2,09:40,12,22,CAP,RO,Paulistano
+408,2,09:41,12,22,FRA,TO,David Jackson
+409,2,09:41,12,22,CAP,2_Pts_T,Eddy
+410,2,09:45,12,22,CAP,FR,Dikembe
+411,2,09:45,12,22,FRA,FC,Guilherme
+412,2,10:00,12,22,,inicio_quarto,
+413,1,00:00,12,22,,fim_quarto,
+414,1,00:01,12,22,CAP,3_Pts_T,Ruivo
+415,1,00:03,12,22,FRA,ER,Parodi
+416,1,00:05,12,22,FRA,RD,David Jackson
+417,1,00:05,12,22,CAP,3_Pts_T,Barbosa
+418,1,00:27,12,22,FRA,AS,Parodi
+419,1,00:27,12,22,FRA,3_Pts_C,David Jackson
+420,1,00:36,12,19,FRA,substituicao_entra,David Jackson
+421,1,00:36,12,19,FRA,substituicao_sai,Schattmann
+422,1,00:36,12,19,FRA,RD,Franca
+423,1,00:38,12,19,CAP,3_Pts_T,Solano
+424,1,00:53,12,19,FRA,substituicao_entra,Guilherme
+425,1,00:53,12,19,FRA,substituicao_sai,Lucas Dias
+426,1,00:53,12,19,FRA,LL_Pts_C,Lucas Dias
+427,1,00:53,12,18,FRA,LL_Pts_C,Lucas Dias
+428,1,00:53,12,17,FRA,FR,Lucas Dias
+429,1,00:53,12,17,CAP,FC,Eddy
+430,1,01:10,12,17,CAP,AS,Solano
+431,1,01:10,12,17,CAP,2_Pts_C,Ruivo
+432,1,01:14,10,17,CAP,RD,Eddy
+433,1,01:17,10,17,FRA,3_Pts_T,Schattmann
+434,1,01:31,10,17,FRA,RD,Guilherme
+435,1,01:31,10,17,CAP,LL_Pts_T,Barbosa
+436,1,01:31,10,17,CAP,LL_Pts_T,Barbosa
+437,1,01:31,10,17,FRA,substituicao_entra,Jimmy
+438,1,01:31,10,17,FRA,substituicao_sai,David Jackson
+439,1,01:31,10,17,CAP,substituicao_entra,Ruivo
+440,1,01:31,10,17,CAP,substituicao_sai,Victão
+441,1,01:31,10,17,CAP,FR,Barbosa
+442,1,01:31,10,17,FRA,FC,Guilherme
+443,1,01:49,10,17,CAP,RD,Eddy
+444,1,01:52,10,17,FRA,3_Pts_T,Guilherme
+445,1,02:11,10,17,FRA,RD,Guilherme
+446,1,02:14,10,17,CAP,3_Pts_T,Barbosa
+447,1,02:24,10,17,FRA,substituicao_entra,Parodi
+448,1,02:24,10,17,FRA,substituicao_sai,Elinho
+449,1,02:24,10,17,CAP,substituicao_entra,Barbosa
+450,1,02:24,10,17,CAP,substituicao_entra,Solano
+451,1,02:24,10,17,CAP,substituicao_sai,Ruivo
+452,1,02:24,10,17,CAP,substituicao_sai,Yago
+453,1,02:24,10,17,CAP,tempo_tecnico,Paulistano
+454,1,02:27,10,17,FRA,AS,Elinho
+455,1,02:27,10,17,FRA,3_Pts_C,Schattmann
+456,1,02:39,10,14,FRA,RD,Guilherme
+457,1,02:43,10,14,CAP,2_Pts_T,Yago
+458,1,02:44,10,14,CAP,RO,Yago
+459,1,02:48,10,14,CAP,2_Pts_T,Eddy
+460,1,02:50,10,14,CAP,RO,Eddy
+461,1,02:53,10,14,CAP,3_Pts_T,Eddy
+462,1,03:18,10,14,CAP,RD,Maique
+463,1,03:18,10,14,FRA,LL_Pts_T,Schattmann
+464,1,03:18,10,14,FRA,substituicao_entra,Guilherme
+465,1,03:18,10,14,FRA,substituicao_sai,Hettsheimeir
+466,1,03:18,10,14,FRA,FR,Schattmann
+467,1,03:18,10,14,CAP,FC,Ruivo
+468,1,03:18,10,14,FRA,AS,Elinho
+469,1,03:18,10,14,FRA,3_Pts_C,Schattmann
+470,1,03:35,10,11,CAP,ER,
+471,1,03:59,10,11,CAP,substituicao_entra,Ruivo
+472,1,03:59,10,11,CAP,substituicao_sai,Solano
+473,1,03:59,10,11,CAP,FR,Victão
+474,1,03:59,10,11,FRA,ER,Lucas Dias
+475,1,03:59,10,11,FRA,FC_O,Lucas Dias
+476,1,04:05,10,11,FRA,RD,David Jackson
+477,1,04:08,10,11,CAP,3_Pts_T,Victão
+478,1,04:17,10,11,CAP,substituicao_entra,Maique
+479,1,04:17,10,11,CAP,substituicao_sai,Dikembe
+480,1,04:17,10,11,CAP,FR,Victão
+481,1,04:17,10,11,FRA,FC,Elinho
+482,1,04:17,10,11,CAP,RO,Paulistano
+483,1,04:18,10,11,CAP,2_Pts_T,Yago
+484,1,04:24,10,11,CAP,RD,Victão
+485,1,04:28,10,11,FRA,2_Pts_T,Elinho
+486,1,04:41,10,11,FRA,RD,Lucas Dias
+487,1,04:44,10,11,CAP,3_Pts_T,Solano
+488,1,04:50,10,11,CAP,RD,Yago
+489,1,04:53,10,11,FRA,3_Pts_T,Schattmann
+490,1,05:07,10,11,CAP,AS,Yago
+491,1,05:07,10,11,CAP,EN,Dikembe
+492,1,05:10,8,11,CAP,RD,Yago
+493,1,05:15,8,11,FRA,2_Pts_T,Hettsheimeir
+494,1,05:36,8,11,CAP,AS,Yago
+495,1,05:36,8,11,CAP,3_Pts_C,Victão
+496,1,05:58,5,11,FRA,2_Pts_C,Elinho
+497,1,06:15,5,9,CAP,AS,Yago
+498,1,06:15,5,9,CAP,3_Pts_C,Victão
+499,1,06:42,2,9,FRA,AS,Elinho
+500,1,06:42,2,9,FRA,2_Pts_C,David Jackson
+501,1,06:52,2,7,CAP,ER,
+502,1,07:17,2,7,FRA,LL_Pts_C,David Jackson
+503,1,07:17,2,6,FRA,FR,David Jackson
+504,1,07:17,2,6,CAP,FC,Solano
+505,1,07:17,2,6,FRA,AS,Schattmann
+506,1,07:17,2,6,FRA,2_Pts_C,David Jackson
+507,1,07:24,2,4,CAP,substituicao_entra,Eddy
+508,1,07:24,2,4,CAP,substituicao_sai,D Coleman
+509,1,07:24,2,4,FRA,FR,David Jackson
+510,1,07:24,2,4,CAP,FC,D Coleman
+511,1,07:37,2,4,CAP,ER,Victão
+512,1,07:39,2,4,CAP,FR,Yago
+513,1,07:39,2,4,FRA,FC,Schattmann
+514,1,07:45,2,4,CAP,RO,Paulistano
+515,1,07:47,2,4,CAP,2_Pts_T,Solano
+516,1,08:02,2,4,CAP,FR,Dikembe
+517,1,08:02,2,4,FRA,FC,Hettsheimeir
+518,1,08:02,2,4,CAP,RD,Paulistano
+519,1,08:03,2,4,FRA,3_Pts_T,Lucas Dias
+520,1,08:20,2,4,CAP,2_Pts_C,Dikembe
+521,1,08:22,0,4,CAP,RO,Dikembe
+522,1,08:24,0,4,CAP,2_Pts_T,D Coleman
+523,1,08:31,0,4,CAP,BR,Solano
+524,1,08:31,0,4,FRA,ER,Elinho
+525,1,08:46,0,4,FRA,RD,Franca
+526,1,08:47,0,4,CAP,3_Pts_T,Yago
+527,1,08:56,0,4,FRA,LL_Pts_C,Hettsheimeir
+528,1,08:56,0,3,FRA,LL_Pts_C,Hettsheimeir
+529,1,08:56,0,2,FRA,FR,Hettsheimeir
+530,1,08:56,0,2,CAP,FC,Victão
+531,1,09:22,0,2,FRA,FR,Hettsheimeir
+532,1,09:22,0,2,CAP,FC,D Coleman
+533,1,09:22,0,2,FRA,RD,Hettsheimeir
+534,1,09:24,0,2,CAP,3_Pts_T,Victão
+535,1,09:45,0,2,FRA,AS,Elinho
+536,1,09:45,0,2,FRA,2_Pts_C,Hettsheimeir
+537,1,10:00,0,0,FRA,substituicao_entra,David Jackson
+538,1,10:00,0,0,FRA,substituicao_entra,Hettsheimeir
+539,1,10:00,0,0,FRA,substituicao_entra,Schattmann
+540,1,10:00,0,0,FRA,substituicao_entra,Lucas Dias
+541,1,10:00,0,0,FRA,substituicao_entra,Elinho
+542,1,10:00,0,0,CAP,substituicao_entra,Dikembe
+543,1,10:00,0,0,CAP,substituicao_entra,Victão
+544,1,10:00,0,0,CAP,substituicao_entra,D Coleman
+545,1,10:00,0,0,CAP,substituicao_entra,Yago
+546,1,10:00,0,0,CAP,substituicao_entra,Solano
+547,1,10:00,0,0,,inicio_partida,

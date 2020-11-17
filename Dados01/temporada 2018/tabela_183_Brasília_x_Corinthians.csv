@@ -1,0 +1,533 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,87,78,,fim_partida,
+1,4,00:00,87,78,,fim_quarto,
+2,4,00:03,87,78,UBR,RD,Nezinho
+3,4,00:03,87,78,COR,3_Pts_T,Humberto
+4,4,00:08,87,78,COR,RD,Teichmann
+5,4,00:09,87,78,UBR,LL_Pts_T,Nezinho
+6,4,00:09,87,78,UBR,LL_Pts_C,Nezinho
+7,4,00:09,86,78,UBR,FR,Nezinho
+8,4,00:09,86,78,COR,FC,Teichmann
+9,4,00:09,86,78,UBR,RD,Nezinho
+10,4,00:13,86,78,COR,2_Pts_T,Giovannoni
+11,4,00:24,86,78,UBR,AS,Nezinho
+12,4,00:24,86,78,UBR,EN,Ronald
+13,4,00:28,84,78,UBR,RD,Nezinho
+14,4,00:32,84,78,COR,3_Pts_T,Giovannoni
+15,4,00:35,84,78,COR,tempo_tecnico,Corinthians
+16,4,00:35,84,78,UBR,LL_Pts_C,Nezinho
+17,4,00:35,83,78,UBR,LL_Pts_C,Nezinho
+18,4,00:35,82,78,UBR,FR,Nezinho
+19,4,00:35,82,78,COR,FC,Fuller
+20,4,00:43,82,78,UBR,RD,Graterol
+21,4,00:43,82,78,COR,LL_Pts_T,Humberto
+22,4,00:43,82,78,COR,LL_Pts_C,Humberto
+23,4,00:43,82,77,COR,FR,Humberto
+24,4,00:43,82,77,UBR,FC,Ronald
+25,4,00:43,82,77,COR,RO,Humberto
+26,4,00:46,82,77,COR,2_Pts_T,Giovannoni
+27,4,00:57,82,77,UBR,substituicao_entra,Ronald
+28,4,00:57,82,77,UBR,substituicao_sai,Arthur
+29,4,00:57,82,77,COR,tempo_tecnico,Corinthians
+30,4,00:58,82,77,UBR,2_Pts_C,Zach Graham
+31,4,01:02,80,77,UBR,RO,Universo/Caixa/Brasília
+32,4,01:05,80,77,UBR,2_Pts_T,Zach Graham
+33,4,01:18,80,77,COR,LL_Pts_C,Teichmann
+34,4,01:18,80,76,COR,FR,Teichmann
+35,4,01:18,80,76,UBR,FC,Arthur
+36,4,01:18,80,76,COR,AS,Parodi
+37,4,01:18,80,76,COR,2_Pts_C,Teichmann
+38,4,01:35,80,74,UBR,AS,Nezinho
+39,4,01:35,80,74,UBR,2_Pts_C,Graterol
+40,4,01:53,78,74,COR,substituicao_entra,Humberto
+41,4,01:53,78,74,COR,substituicao_sai,Gui Bento
+42,4,01:53,78,74,UBR,substituicao_entra,P Rava
+43,4,01:53,78,74,UBR,substituicao_sai,Ronald
+44,4,01:53,78,74,UBR,tempo_tecnico,Universo/Caixa/Brasília
+45,4,01:53,78,74,COR,3_Pts_C,Giovannoni
+46,4,02:00,78,71,UBR,LL_Pts_C,Zach Graham
+47,4,02:00,77,71,UBR,LL_Pts_T,Zach Graham
+48,4,02:00,77,71,UBR,FR,Zach Graham
+49,4,02:00,77,71,COR,FC,Gui Bento
+50,4,02:16,77,71,COR,3_Pts_C,Fuller
+51,4,02:18,77,68,COR,RD,Teichmann
+52,4,02:24,77,68,UBR,3_Pts_T,Arthur
+53,4,02:41,77,68,UBR,RD,Graterol
+54,4,02:47,77,68,UBR,TO,Ronald
+55,4,02:47,77,68,COR,2_Pts_T,Giovannoni
+56,4,02:59,77,68,UBR,ER,Nezinho
+57,4,03:03,77,68,UBR,LL_Pts_C,Ronald
+58,4,03:03,76,68,UBR,FR,Ronald
+59,4,03:03,76,68,COR,FC_A,Giovannoni
+60,4,03:03,76,68,UBR,AS,Nezinho
+61,4,03:03,76,68,UBR,2_Pts_C,Ronald
+62,4,03:04,74,68,UBR,RD,Arthur
+63,4,03:09,74,68,COR,3_Pts_T,Giovannoni
+64,4,03:26,74,68,COR,tempo_tecnico,Corinthians
+65,4,03:27,74,68,UBR,2_Pts_C,Graterol
+66,4,03:47,72,68,UBR,RD,Graterol
+67,4,03:50,72,68,COR,LL_Pts_T,Giovannoni
+68,4,03:50,72,68,COR,LL_Pts_C,Giovannoni
+69,4,03:50,72,67,COR,FR,Giovannoni
+70,4,03:50,72,67,UBR,FC,Arthur
+71,4,03:53,72,67,COR,RO,Giovannoni
+72,4,03:57,72,67,COR,2_Pts_T,Gui Bento
+73,4,03:58,72,67,COR,RO,Teichmann
+74,4,04:04,72,67,COR,2_Pts_T,Giovannoni
+75,4,04:16,72,67,UBR,LL_Pts_C,Ronald
+76,4,04:16,71,67,UBR,LL_Pts_C,Ronald
+77,4,04:16,70,67,UBR,FR,Ronald
+78,4,04:16,70,67,COR,FC,Giovannoni
+79,4,04:28,70,67,UBR,BR,Ronald
+80,4,04:28,70,67,COR,ER,Parodi
+81,4,04:34,70,67,COR,FR,Gui Bento
+82,4,04:34,70,67,UBR,FC,Arthur
+83,4,04:50,70,67,UBR,2_Pts_C,Ronald
+84,4,05:00,68,67,COR,substituicao_entra,Parodi
+85,4,05:00,68,67,COR,substituicao_sai,Gustavinho
+86,4,05:00,68,67,UBR,FR,Arthur
+87,4,05:00,68,67,COR,FC,Gustavinho
+88,4,05:05,68,67,UBR,RD,Arthur
+89,4,05:10,68,67,COR,2_Pts_T,Fuller
+90,4,05:17,68,67,COR,RD,Teichmann
+91,4,05:23,68,67,UBR,3_Pts_T,Nezinho
+92,4,05:33,68,67,UBR,RD,Graterol
+93,4,05:37,68,67,COR,3_Pts_T,Giovannoni
+94,4,05:52,68,67,COR,RD,Giovannoni
+95,4,05:58,68,67,UBR,2_Pts_T,Arthur
+96,4,06:20,68,67,UBR,FR,Ronald
+97,4,06:20,68,67,COR,FC,Gui Bento
+98,4,06:30,68,67,COR,substituicao_entra,Teichmann
+99,4,06:30,68,67,COR,substituicao_sai,Abner
+100,4,06:30,68,67,UBR,substituicao_entra,Ronald
+101,4,06:30,68,67,UBR,substituicao_sai,Pedro
+102,4,06:30,68,67,UBR,substituicao_entra,Arthur
+103,4,06:30,68,67,UBR,substituicao_sai,Rafa Moreira
+104,4,06:30,68,67,UBR,FR,Nezinho
+105,4,06:30,68,67,COR,FC,Gustavinho
+106,4,06:31,68,67,UBR,RD,Graterol
+107,4,06:35,68,67,COR,3_Pts_T,Fuller
+108,4,06:39,68,67,COR,RD,Giovannoni
+109,4,06:43,68,67,UBR,2_Pts_T,Rafa Moreira
+110,4,06:49,68,67,UBR,RO,Graterol
+111,4,06:53,68,67,UBR,3_Pts_T,Rafa Moreira
+112,4,07:13,68,67,COR,AS,Gustavinho
+113,4,07:13,68,67,COR,2_Pts_C,Abner
+114,4,07:31,68,65,UBR,3_Pts_C,Nezinho
+115,4,07:45,65,65,COR,2_Pts_C,Giovannoni
+116,4,08:09,65,63,UBR,AS,Nezinho
+117,4,08:09,65,63,UBR,2_Pts_C,Graterol
+118,4,08:23,63,63,COR,2_Pts_C,Gui Bento
+119,4,08:41,63,61,COR,RD,Giovannoni
+120,4,08:41,63,61,UBR,3_Pts_T,Nezinho
+121,4,08:54,63,61,UBR,FR,Nezinho
+122,4,08:54,63,61,COR,FC,Gustavinho
+123,4,08:54,63,61,COR,2_Pts_C,Gustavinho
+124,4,08:54,63,59,COR,BR,Gustavinho
+125,4,08:54,63,59,UBR,ER,Nezinho
+126,4,08:54,63,59,COR,ER,Gui Bento
+127,4,08:58,63,59,UBR,substituicao_entra,Zach Graham
+128,4,08:58,63,59,UBR,substituicao_sai,P Rava
+129,4,08:58,63,59,COR,FR,Giovannoni
+130,4,08:58,63,59,UBR,FC,Graterol
+131,4,09:20,63,59,UBR,AS,Graterol
+132,4,09:20,63,59,UBR,3_Pts_C,Rafa Moreira
+133,4,09:32,60,59,COR,2_Pts_C,Gui Bento
+134,4,09:33,60,57,COR,RO,Gui Bento
+135,4,09:41,60,57,COR,3_Pts_T,Gustavinho
+136,4,09:56,60,57,COR,FR,Fuller
+137,4,09:56,60,57,UBR,FC,P Rava
+138,4,10:00,60,57,,inicio_quarto,
+139,3,00:00,60,57,,fim_quarto,
+140,3,00:10,60,57,UBR,LL_Pts_T,Nezinho
+141,3,00:10,60,57,COR,FC_T,Corinthians
+142,3,00:10,60,57,COR,2_Pts_C,Gui Bento
+143,3,00:10,60,55,COR,RO,Gui Bento
+144,3,00:10,60,55,COR,2_Pts_T,Abner
+145,3,00:10,60,55,COR,RO,Abner
+146,3,00:10,60,55,COR,2_Pts_T,Giovannoni
+147,3,00:27,60,55,UBR,AS,Nezinho
+148,3,00:27,60,55,UBR,3_Pts_C,Rafa Moreira
+149,3,00:36,57,55,UBR,substituicao_entra,Nezinho
+150,3,00:36,57,55,UBR,substituicao_sai,Gui Santos
+151,3,00:36,57,55,UBR,FR,Pedro
+152,3,00:36,57,55,COR,ER,Abner
+153,3,00:36,57,55,COR,FC_O,Abner
+154,3,00:40,57,55,COR,RD,Abner
+155,3,00:44,57,55,UBR,2_Pts_T,Graterol
+156,3,00:53,57,55,UBR,substituicao_entra,Gui Santos
+157,3,00:53,57,55,UBR,substituicao_sai,Zach Graham
+158,3,00:55,57,55,COR,2_Pts_C,Fuller
+159,3,00:58,57,53,COR,LL_Pts_C,Fuller
+160,3,00:58,57,52,UBR,FC_T,Universo/Caixa/Brasília
+161,3,00:58,57,52,UBR,substituicao_entra,P Rava
+162,3,00:58,57,52,UBR,substituicao_sai,Nezinho
+163,3,00:58,57,52,COR,RD,Corinthians
+164,3,00:59,57,52,UBR,LL_Pts_T,Nezinho
+165,3,00:59,57,52,UBR,LL_Pts_C,Nezinho
+166,3,01:28,56,52,UBR,FR,Nezinho
+167,3,01:28,56,52,COR,FC,Gustavinho
+168,3,01:31,56,52,COR,substituicao_entra,Gustavinho
+169,3,01:31,56,52,COR,substituicao_sai,Parodi
+170,3,01:31,56,52,COR,LL_Pts_C,Parodi
+171,3,01:31,56,51,COR,LL_Pts_C,Parodi
+172,3,01:31,56,50,COR,FR,Parodi
+173,3,01:31,56,50,UBR,FC,Nezinho
+174,3,01:57,56,50,UBR,AS,Nezinho
+175,3,01:57,56,50,UBR,2_Pts_C,Graterol
+176,3,02:04,54,50,COR,LL_Pts_C,Giovannoni
+177,3,02:04,54,49,COR,LL_Pts_C,Giovannoni
+178,3,02:04,54,48,COR,FR,Giovannoni
+179,3,02:04,54,48,UBR,FC,Rafa Moreira
+180,3,02:04,54,48,COR,RO,Giovannoni
+181,3,02:08,54,48,COR,3_Pts_T,Parodi
+182,3,02:13,54,48,UBR,LL_Pts_C,Pedro
+183,3,02:13,53,48,UBR,LL_Pts_C,Pedro
+184,3,02:13,52,48,UBR,FR,Pedro
+185,3,02:13,52,48,COR,FC,Fuller
+186,3,02:14,52,48,UBR,RO,Universo/Caixa/Brasília
+187,3,02:23,52,48,UBR,2_Pts_T,Rafa Moreira
+188,3,02:47,52,48,COR,2_Pts_C,Giovannoni
+189,3,02:59,52,46,COR,RD,Abner
+190,3,03:05,52,46,UBR,3_Pts_T,Pedro
+191,3,03:18,52,46,UBR,RD,Graterol
+192,3,03:24,52,46,COR,LL_Pts_T,Abner
+193,3,03:24,52,46,UBR,substituicao_entra,Graterol
+194,3,03:24,52,46,UBR,substituicao_sai,Ronald
+195,3,03:24,52,46,UBR,substituicao_entra,Pedro
+196,3,03:24,52,46,UBR,substituicao_sai,Arthur
+197,3,03:24,52,46,COR,FR,Abner
+198,3,03:24,52,46,UBR,FC,Ronald
+199,3,03:24,52,46,COR,AS,Parodi
+200,3,03:24,52,46,COR,EN,Abner
+201,3,03:32,52,44,COR,RD,Abner
+202,3,03:36,52,44,UBR,3_Pts_T,Rafa Moreira
+203,3,03:45,52,44,UBR,RD,Arthur
+204,3,03:50,52,44,COR,2_Pts_T,Giovannoni
+205,3,04:10,52,44,UBR,AS,Arthur
+206,3,04:10,52,44,UBR,3_Pts_C,Rafa Moreira
+207,3,04:24,49,44,UBR,substituicao_entra,Rafa Moreira
+208,3,04:24,49,44,UBR,substituicao_sai,Graterol
+209,3,04:24,49,44,UBR,tempo_tecnico,Universo/Caixa/Brasília
+210,3,04:30,49,44,COR,AS,Parodi
+211,3,04:30,49,44,COR,3_Pts_C,Giovannoni
+212,3,04:32,49,41,COR,RD,Abner
+213,3,04:36,49,41,UBR,2_Pts_T,Zach Graham
+214,3,04:39,49,41,UBR,RD,Graterol
+215,3,04:49,49,41,UBR,TO,Ronald
+216,3,04:49,49,41,COR,3_Pts_T,Parodi
+217,3,05:12,49,41,COR,RD,Gui Bento
+218,3,05:15,49,41,UBR,LL_Pts_T,Zach Graham
+219,3,05:27,49,41,UBR,LL_Pts_C,Zach Graham
+220,3,05:36,48,41,COR,substituicao_entra,Gui Bento
+221,3,05:36,48,41,COR,substituicao_sai,Humberto
+222,3,06:04,48,41,UBR,FR,Zach Graham
+223,3,06:04,48,41,COR,FC,Humberto
+224,3,06:05,48,41,UBR,FR,Zach Graham
+225,3,06:05,48,41,COR,FC,Humberto
+226,3,06:13,48,41,UBR,FR,Nezinho
+227,3,06:13,48,41,COR,FC,Humberto
+228,3,06:29,48,41,COR,AS,Parodi
+229,3,06:29,48,41,COR,2_Pts_C,Fuller
+230,3,06:32,48,39,COR,RD,Abner
+231,3,06:37,48,39,UBR,2_Pts_T,Graterol
+232,3,06:49,48,39,UBR,RD,Graterol
+233,3,06:55,48,39,COR,2_Pts_T,Giovannoni
+234,3,07:19,48,39,UBR,ER,Zach Graham
+235,3,07:33,48,39,COR,LL_Pts_C,Giovannoni
+236,3,07:33,48,38,COR,LL_Pts_C,Giovannoni
+237,3,07:33,48,37,COR,LL_Pts_C,Giovannoni
+238,3,07:33,48,36,COR,FR,Giovannoni
+239,3,07:33,48,36,UBR,FC,Ronald
+240,3,08:34,48,36,UBR,LL_Pts_C,Ronald
+241,3,08:34,47,36,UBR,LL_Pts_T,Ronald
+242,3,08:34,47,36,COR,substituicao_entra,Giovannoni
+243,3,08:34,47,36,COR,substituicao_sai,Douglas Santos
+244,3,08:52,47,36,UBR,FR,Ronald
+245,3,08:52,47,36,COR,FC,Douglas Santos
+246,3,08:53,47,36,UBR,RD,Graterol
+247,3,08:53,47,36,COR,3_Pts_T,Fuller
+248,3,08:53,47,36,COR,FR,Parodi
+249,3,08:53,47,36,UBR,ER,Nezinho
+250,3,08:53,47,36,UBR,FC_O,Nezinho
+251,3,09:04,47,36,COR,2_Pts_C,Fuller
+252,3,09:19,47,34,UBR,LL_Pts_C,Zach Graham
+253,3,09:19,46,34,UBR,LL_Pts_T,Zach Graham
+254,3,09:19,46,34,UBR,2_Pts_C,Arthur
+255,3,09:19,44,34,UBR,FR,Graterol
+256,3,09:19,44,34,COR,FC_A,Douglas Santos
+257,3,09:24,44,34,UBR,RD,Graterol
+258,3,09:31,44,34,COR,3_Pts_T,Douglas Santos
+259,3,09:40,44,34,COR,RO,Abner
+260,3,09:45,44,34,COR,2_Pts_T,Parodi
+261,3,10:00,44,34,,inicio_quarto,
+262,2,00:00,44,34,,fim_quarto,
+263,2,00:09,44,34,COR,RD,Corinthians
+264,2,00:09,44,34,UBR,3_Pts_T,Andrezão
+265,2,00:09,44,34,COR,2_Pts_C,Giovannoni
+266,2,00:29,44,32,COR,substituicao_entra,Giovannoni
+267,2,00:29,44,32,COR,substituicao_sai,Abner
+268,2,00:29,44,32,UBR,substituicao_entra,Andrezão
+269,2,00:29,44,32,UBR,substituicao_sai,Nezinho
+270,2,00:29,44,32,UBR,substituicao_entra,Gui Santos
+271,2,00:29,44,32,UBR,substituicao_sai,Arthur
+272,2,00:29,44,32,UBR,substituicao_entra,P Rava
+273,2,00:29,44,32,UBR,substituicao_sai,Zach Graham
+274,2,00:29,44,32,COR,tempo_tecnico,Corinthians
+275,2,00:29,44,32,UBR,AS,Arthur
+276,2,00:29,44,32,UBR,3_Pts_C,Zach Graham
+277,2,00:31,41,32,UBR,RO,Arthur
+278,2,00:36,41,32,UBR,3_Pts_T,Nezinho
+279,2,00:46,41,32,UBR,substituicao_entra,Pedro
+280,2,00:46,41,32,UBR,substituicao_sai,Graterol
+281,2,00:47,41,32,COR,LL_Pts_C,Parodi
+282,2,00:47,41,31,COR,LL_Pts_T,Parodi
+283,2,00:47,41,31,COR,FR,Parodi
+284,2,00:47,41,31,UBR,FC,Graterol
+285,2,01:02,41,31,UBR,2_Pts_C,Nezinho
+286,2,01:14,39,31,COR,LL_Pts_C,Fuller
+287,2,01:14,39,30,COR,LL_Pts_C,Fuller
+288,2,01:14,39,29,COR,LL_Pts_C,Fuller
+289,2,01:16,39,28,COR,FR,Fuller
+290,2,01:16,39,28,UBR,FC,Arthur
+291,2,01:34,39,28,COR,RD,Humberto
+292,2,01:39,39,28,UBR,2_Pts_T,Zach Graham
+293,2,01:52,39,28,UBR,substituicao_entra,Graterol
+294,2,01:52,39,28,UBR,substituicao_sai,Gui Santos
+295,2,01:52,39,28,UBR,tempo_tecnico,Universo/Caixa/Brasília
+296,2,01:52,39,28,COR,AS,Abner
+297,2,01:52,39,28,COR,3_Pts_C,Parodi
+298,2,01:59,39,25,COR,BR,Abner
+299,2,01:59,39,25,UBR,ER,Zach Graham
+300,2,02:15,39,25,COR,AS,Parodi
+301,2,02:15,39,25,COR,2_Pts_C,Humberto
+302,2,02:18,39,23,COR,RO,Corinthians
+303,2,02:18,39,23,UBR,TO,Ronald
+304,2,02:18,39,23,COR,2_Pts_T,Humberto
+305,2,02:29,39,23,COR,substituicao_entra,Abner
+306,2,02:29,39,23,COR,substituicao_sai,Teichmann
+307,2,02:37,39,23,UBR,2_Pts_C,Nezinho
+308,2,02:40,37,23,UBR,FR,Nezinho
+309,2,02:40,37,23,COR,FC,Teichmann
+310,2,02:53,37,23,COR,AS,Teichmann
+311,2,02:53,37,23,COR,EN,Douglas Santos
+312,2,02:59,37,21,UBR,ER,Nezinho
+313,2,03:14,37,21,COR,AS,Parodi
+314,2,03:14,37,21,COR,2_Pts_C,Douglas Santos
+315,2,03:19,37,19,COR,RD,Teichmann
+316,2,03:26,37,19,COR,TO,Humberto
+317,2,03:26,37,19,UBR,2_Pts_T,Zach Graham
+318,2,03:31,37,19,COR,substituicao_entra,Douglas Santos
+319,2,03:31,37,19,COR,substituicao_sai,Aguiar
+320,2,03:31,37,19,UBR,FR,Nezinho
+321,2,03:31,37,19,COR,FC,Teichmann
+322,2,03:41,37,19,COR,ER,
+323,2,04:06,37,19,UBR,AS,Arthur
+324,2,04:06,37,19,UBR,2_Pts_C,Ronald
+325,2,04:17,35,19,UBR,substituicao_entra,Gui Santos
+326,2,04:17,35,19,UBR,substituicao_sai,P Rava
+327,2,04:17,35,19,UBR,FR,Zach Graham
+328,2,04:17,35,19,COR,FC,Aguiar
+329,2,04:25,35,19,UBR,substituicao_entra,Ronald
+330,2,04:25,35,19,UBR,substituicao_sai,Graterol
+331,2,04:42,35,19,COR,AS,Parodi
+332,2,04:42,35,19,COR,2_Pts_C,Teichmann
+333,2,05:01,35,17,UBR,ER,Graterol
+334,2,05:07,35,17,UBR,substituicao_entra,Zach Graham
+335,2,05:07,35,17,UBR,substituicao_sai,Pedro
+336,2,05:16,35,17,UBR,BR,Graterol
+337,2,05:16,35,17,COR,ER,Humberto
+338,2,05:31,35,17,UBR,AS,Nezinho
+339,2,05:31,35,17,UBR,2_Pts_C,Graterol
+340,2,05:41,33,17,COR,ER,Teichmann
+341,2,05:46,33,17,COR,substituicao_entra,Fuller
+342,2,05:46,33,17,COR,substituicao_sai,Shilton
+343,2,05:46,33,17,UBR,substituicao_entra,Arthur
+344,2,05:46,33,17,UBR,substituicao_sai,Zach Graham
+345,2,05:46,33,17,COR,FR,Aguiar
+346,2,05:46,33,17,UBR,FC,Zach Graham
+347,2,06:09,33,17,UBR,AS,Pedro
+348,2,06:09,33,17,UBR,3_Pts_C,Zach Graham
+349,2,06:23,30,17,COR,substituicao_entra,Teichmann
+350,2,06:23,30,17,COR,substituicao_sai,Giovannoni
+351,2,06:24,30,17,UBR,RD,Universo/Caixa/Brasília
+352,2,06:25,30,17,COR,2_Pts_T,Humberto
+353,2,06:46,30,17,UBR,AS,Nezinho
+354,2,06:46,30,17,UBR,2_Pts_C,Pedro
+355,2,06:52,28,17,UBR,BR,P Rava
+356,2,06:52,28,17,COR,ER,Parodi
+357,2,07:02,28,17,COR,FR,Parodi
+358,2,07:02,28,17,UBR,FC,P Rava
+359,2,07:04,28,17,COR,substituicao_entra,Parodi
+360,2,07:04,28,17,COR,substituicao_sai,Gustavinho
+361,2,07:04,28,17,UBR,ER,P Rava
+362,2,07:22,28,17,COR,LL_Pts_C,Aguiar
+363,2,07:22,28,16,COR,LL_Pts_T,Aguiar
+364,2,07:22,28,16,UBR,substituicao_entra,Zach Graham
+365,2,07:22,28,16,UBR,substituicao_sai,Gui Santos
+366,2,07:22,28,16,COR,FR,Aguiar
+367,2,07:22,28,16,UBR,FC,Gui Santos
+368,2,07:38,28,16,COR,substituicao_entra,Humberto
+369,2,07:38,28,16,COR,substituicao_sai,Fuller
+370,2,07:38,28,16,COR,tempo_tecnico,Corinthians
+371,2,07:42,28,16,UBR,AS,Nezinho
+372,2,07:42,28,16,UBR,3_Pts_C,Gui Santos
+373,2,07:50,25,16,UBR,RO,Gui Santos
+374,2,07:56,25,16,UBR,2_Pts_T,P Rava
+375,2,08:21,25,16,COR,AS,Fuller
+376,2,08:21,25,16,COR,2_Pts_C,Giovannoni
+377,2,08:30,25,14,COR,RD,Shilton
+378,2,08:34,25,14,UBR,3_Pts_T,Nezinho
+379,2,08:42,25,14,UBR,RD,P Rava
+380,2,08:47,25,14,COR,3_Pts_T,Fuller
+381,2,09:04,25,14,UBR,3_Pts_C,P Rava
+382,2,09:15,22,14,UBR,RD,Graterol
+383,2,09:18,22,14,COR,2_Pts_T,Giovannoni
+384,2,09:30,22,14,UBR,substituicao_entra,Nezinho
+385,2,09:30,22,14,UBR,substituicao_sai,Zach Graham
+386,2,09:47,22,14,COR,RD,Shilton
+387,2,09:53,22,14,UBR,3_Pts_T,Pedro
+388,2,10:00,22,14,,inicio_quarto,
+389,1,00:00,22,14,,fim_quarto,
+390,1,00:00,22,14,UBR,RD,Zach Graham
+391,1,00:04,22,14,COR,3_Pts_T,Gustavinho
+392,1,00:13,22,14,UBR,2_Pts_C,Pedro
+393,1,00:22,20,14,COR,substituicao_entra,Gui Bento
+394,1,00:22,20,14,COR,substituicao_sai,Fuller
+395,1,00:22,20,14,UBR,substituicao_entra,Zach Graham
+396,1,00:22,20,14,UBR,substituicao_sai,Andrezão
+397,1,00:22,20,14,UBR,RO,Gui Santos
+398,1,00:22,20,14,UBR,2_Pts_T,Rafa Moreira
+399,1,00:22,20,14,UBR,RO,Rafa Moreira
+400,1,00:28,20,14,COR,TO,Giovannoni
+401,1,00:28,20,14,UBR,2_Pts_T,Rafa Moreira
+402,1,00:34,20,14,UBR,RD,Pedro
+403,1,00:36,20,14,COR,LL_Pts_T,Shilton
+404,1,00:36,20,14,COR,LL_Pts_T,Shilton
+405,1,00:36,20,14,COR,FR,Shilton
+406,1,00:36,20,14,UBR,FC,Rafa Moreira
+407,1,00:38,20,14,COR,FR,Giovannoni
+408,1,00:38,20,14,UBR,FC,Rafa Moreira
+409,1,00:48,20,14,UBR,substituicao_entra,Gui Santos
+410,1,00:48,20,14,UBR,substituicao_sai,Zach Graham
+411,1,00:48,20,14,UBR,substituicao_entra,Andrezão
+412,1,00:48,20,14,UBR,substituicao_sai,Ronald
+413,1,00:48,20,14,UBR,LL_Pts_C,Ronald
+414,1,00:48,19,14,UBR,LL_Pts_C,Ronald
+415,1,00:48,18,14,UBR,FR,Ronald
+416,1,00:48,18,14,COR,FC,Shilton
+417,1,00:48,18,14,UBR,RD,Universo/Caixa/Brasília
+418,1,00:49,18,14,COR,2_Pts_T,Giovannoni
+419,1,00:58,18,14,COR,substituicao_entra,Aguiar
+420,1,00:58,18,14,COR,substituicao_sai,Humberto
+421,1,00:58,18,14,UBR,substituicao_entra,P Rava
+422,1,00:58,18,14,UBR,substituicao_sai,Nezinho
+423,1,01:10,18,14,COR,substituicao_entra,Gustavinho
+424,1,01:10,18,14,COR,substituicao_sai,Parodi
+425,1,01:10,18,14,UBR,substituicao_entra,Rafa Moreira
+426,1,01:10,18,14,UBR,substituicao_sai,Graterol
+427,1,01:31,18,14,UBR,AS,Pedro
+428,1,01:31,18,14,UBR,2_Pts_C,Graterol
+429,1,01:33,16,14,UBR,BR,Pedro
+430,1,01:33,16,14,COR,ER,Parodi
+431,1,01:33,16,14,UBR,2_Pts_C,Ronald
+432,1,01:47,14,14,UBR,RO,Graterol
+433,1,01:52,14,14,UBR,2_Pts_T,Zach Graham
+434,1,02:09,14,14,COR,2_Pts_C,Giovannoni
+435,1,02:23,14,12,UBR,ER,Graterol
+436,1,02:24,14,12,UBR,RO,Graterol
+437,1,02:27,14,12,UBR,2_Pts_T,Graterol
+438,1,02:33,14,12,UBR,RO,Pedro
+439,1,02:38,14,12,UBR,3_Pts_T,Zach Graham
+440,1,02:42,14,12,UBR,RD,Ronald
+441,1,02:48,14,12,COR,3_Pts_T,Giovannoni
+442,1,03:00,14,12,UBR,LL_Pts_C,Nezinho
+443,1,03:00,13,12,UBR,LL_Pts_C,Nezinho
+444,1,03:00,12,12,COR,substituicao_entra,Shilton
+445,1,03:00,12,12,COR,substituicao_sai,Teichmann
+446,1,03:00,12,12,UBR,substituicao_entra,Pedro
+447,1,03:00,12,12,UBR,substituicao_sai,Arthur
+448,1,03:00,12,12,UBR,FR,Nezinho
+449,1,03:00,12,12,COR,FC,Parodi
+450,1,03:15,12,12,COR,AS,Teichmann
+451,1,03:15,12,12,COR,2_Pts_C,Fuller
+452,1,03:21,12,10,COR,BR,Teichmann
+453,1,03:21,12,10,UBR,ER,Nezinho
+454,1,03:29,12,10,UBR,BR,Graterol
+455,1,03:29,12,10,COR,ER,Parodi
+456,1,03:34,12,10,COR,RD,Giovannoni
+457,1,03:39,12,10,UBR,2_Pts_T,Graterol
+458,1,03:40,12,10,UBR,RD,Ronald
+459,1,03:47,12,10,COR,2_Pts_T,Giovannoni
+460,1,04:11,12,10,UBR,2_Pts_C,Graterol
+461,1,04:28,10,10,COR,substituicao_entra,Giovannoni
+462,1,04:28,10,10,COR,substituicao_sai,Douglas Santos
+463,1,04:28,10,10,UBR,FR,Nezinho
+464,1,04:28,10,10,COR,ER,Douglas Santos
+465,1,04:28,10,10,COR,FC_O,Douglas Santos
+466,1,04:34,10,10,COR,RO,Corinthians
+467,1,04:35,10,10,COR,3_Pts_T,Humberto
+468,1,04:44,10,10,COR,RD,Humberto
+469,1,04:49,10,10,UBR,3_Pts_T,Nezinho
+470,1,04:54,10,10,UBR,RD,Arthur
+471,1,05:00,10,10,COR,3_Pts_T,Fuller
+472,1,05:13,10,10,UBR,AS,Nezinho
+473,1,05:13,10,10,UBR,EN,Ronald
+474,1,05:32,8,10,COR,AS,Teichmann
+475,1,05:32,8,10,COR,3_Pts_C,Humberto
+476,1,05:51,8,7,UBR,2_Pts_C,Graterol
+477,1,06:12,6,7,COR,LL_Pts_C,Teichmann
+478,1,06:12,6,6,COR,FR,Teichmann
+479,1,06:12,6,6,UBR,FC,Graterol
+480,1,06:12,6,6,COR,AS,Douglas Santos
+481,1,06:12,6,6,COR,2_Pts_C,Teichmann
+482,1,06:17,6,4,COR,RD,Douglas Santos
+483,1,06:22,6,4,UBR,3_Pts_T,Zach Graham
+484,1,06:24,6,4,UBR,FR,Zach Graham
+485,1,06:24,6,4,COR,FC,Humberto
+486,1,06:41,6,4,COR,AS,Teichmann
+487,1,06:41,6,4,COR,2_Pts_C,Douglas Santos
+488,1,06:58,6,2,UBR,ER,Nezinho
+489,1,06:59,6,2,UBR,RD,Graterol
+490,1,07:05,6,2,COR,2_Pts_T,Teichmann
+491,1,07:29,6,2,UBR,2_Pts_C,Zach Graham
+492,1,07:36,4,2,UBR,RO,Graterol
+493,1,07:42,4,2,UBR,2_Pts_T,Graterol
+494,1,07:47,4,2,UBR,FR,Ronald
+495,1,07:47,4,2,COR,FC,Teichmann
+496,1,07:54,4,2,UBR,FR,Ronald
+497,1,07:54,4,2,COR,FC,Douglas Santos
+498,1,07:54,4,2,UBR,RD,Graterol
+499,1,07:59,4,2,COR,3_Pts_T,Parodi
+500,1,08:03,4,2,COR,FR,Parodi
+501,1,08:03,4,2,UBR,FC,Ronald
+502,1,08:03,4,2,COR,RO,Humberto
+503,1,08:05,4,2,COR,2_Pts_T,Douglas Santos
+504,1,08:06,4,2,COR,RO,Douglas Santos
+505,1,08:12,4,2,COR,2_Pts_T,Humberto
+506,1,08:13,4,2,COR,RO,Humberto
+507,1,08:18,4,2,COR,3_Pts_T,Fuller
+508,1,08:36,4,2,UBR,AS,Zach Graham
+509,1,08:36,4,2,UBR,2_Pts_C,Arthur
+510,1,08:44,2,2,COR,LL_Pts_C,Parodi
+511,1,08:44,2,1,COR,LL_Pts_C,Parodi
+512,1,08:44,2,0,COR,FR,Parodi
+513,1,08:44,2,0,UBR,FC,Nezinho
+514,1,08:48,2,0,COR,RD,Teichmann
+515,1,08:54,2,0,UBR,2_Pts_T,Ronald
+516,1,09:10,2,0,UBR,RD,Graterol
+517,1,09:17,2,0,COR,3_Pts_T,Fuller
+518,1,09:35,2,0,UBR,2_Pts_C,Arthur
+519,1,09:44,0,0,UBR,BR,Arthur
+520,1,09:44,0,0,COR,ER,Parodi
+521,1,10:00,0,0,COR,substituicao_entra,Parodi
+522,1,10:00,0,0,COR,substituicao_entra,Humberto
+523,1,10:00,0,0,COR,substituicao_entra,Teichmann
+524,1,10:00,0,0,COR,substituicao_entra,Fuller
+525,1,10:00,0,0,COR,substituicao_entra,Douglas Santos
+526,1,10:00,0,0,UBR,substituicao_entra,Ronald
+527,1,10:00,0,0,UBR,substituicao_entra,Nezinho
+528,1,10:00,0,0,UBR,substituicao_entra,Graterol
+529,1,10:00,0,0,UBR,substituicao_entra,Arthur
+530,1,10:00,0,0,UBR,substituicao_entra,Zach Graham
+531,1,10:00,0,0,,inicio_partida,

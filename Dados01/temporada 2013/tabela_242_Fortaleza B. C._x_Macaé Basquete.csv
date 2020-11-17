@@ -1,0 +1,544 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,78,75, ,fim_partida,
+1,4,00:01,78,75,CEA,BR,Davi
+2,4,00:01,78,75,MAC,ER,Atilio
+3,4,00:04,78,75,MAC,RD,Atilio
+4,4,00:04,78,75,CEA,LL_Pts_T,Devon
+5,4,00:04,78,75,CEA,LL_Pts_T,Devon
+6,4,00:04,78,75,MAC,substituicao_entra,Jamaal
+7,4,00:04,78,75,MAC,substituicao_sai,Espinoza
+8,4,00:04,78,75,CEA,FR,Devon
+9,4,00:04,78,75,MAC,FC,Atilio
+10,4,00:05,78,75,CEA,RO,Devon
+11,4,00:05,78,75,MAC,LL_Pts_T,Márcio
+12,4,00:05,78,75,MAC,LL_Pts_T,Márcio
+13,4,00:05,78,75,MAC,substituicao_entra,Espinoza
+14,4,00:05,78,75,MAC,substituicao_sai,Jamaal
+15,4,00:05,78,75,CEA,substituicao_entra,Matheus
+16,4,00:05,78,75,CEA,substituicao_sai,Jimmy
+17,4,00:05,78,75,MAC,FR,Márcio
+18,4,00:05,78,75,CEA,FC,Jimmy
+19,4,00:06,78,75,MAC,substituicao_entra,Márcio
+20,4,00:06,78,75,MAC,substituicao_sai,Espinoza
+21,4,00:06,78,75,MAC,tempo_tecnico,Macaé
+22,4,00:06,78,75,CEA,LL_Pts_C,Davi
+23,4,00:06,77,75,CEA,LL_Pts_T,Davi
+24,4,00:06,77,75,MAC,substituicao_entra,Jamaal
+25,4,00:06,77,75,MAC,substituicao_sai,Will
+26,4,00:06,77,75,CEA,FR,Davi
+27,4,00:06,77,75,MAC,FC,Will
+28,4,00:06,77,75,MAC,substituicao_entra,Will
+29,4,00:06,77,75,MAC,substituicao_sai,Jamaal
+30,4,00:07,77,75,MAC,substituicao_entra,Jamaal
+31,4,00:07,77,75,MAC,substituicao_sai,Márcio
+32,4,00:07,77,75,MAC,substituicao_entra,Atilio
+33,4,00:07,77,75,MAC,substituicao_sai,João
+34,4,00:07,77,75,MAC,substituicao_entra,Duda Machado
+35,4,00:07,77,75,MAC,substituicao_sai,Will
+36,4,00:07,77,75,CEA,substituicao_entra,Brown
+37,4,00:08,77,75,CEA,substituicao_sai,Matheus
+38,4,00:08,77,75,MAC,substituicao_entra,Márcio
+39,4,00:08,77,75,MAC,substituicao_sai,Atilio
+40,4,00:08,77,75,MAC,substituicao_entra,João
+41,4,00:08,77,75,MAC,substituicao_sai,Jamaal
+42,4,00:08,77,75,MAC,substituicao_entra,Will
+43,4,00:08,77,75,MAC,substituicao_sai,Duda Machado
+44,4,00:08,77,75,MAC,EN,Espinoza
+45,4,00:08,77,73,MAC,AS,Duda Machado
+46,4,00:10,77,73,CEA,substituicao_entra,Matheus
+47,4,00:10,77,73,CEA,substituicao_sai,Brown
+48,4,00:10,77,73,MAC,tempo_tecnico,Macaé
+49,4,00:10,77,73,CEA,LL_Pts_C,Jimmy
+50,4,00:10,76,73,CEA,LL_Pts_C,Jimmy
+51,4,00:10,75,73,CEA,FR,Jimmy
+52,4,00:10,75,73,MAC,FC,Duda Machado
+53,4,00:11,75,73,CEA,RO,Jimmy
+54,4,00:11,75,73,CEA,2_Pts_T,Devon
+55,4,00:40,75,73,CEA,RD,Brown
+56,4,00:40,75,73,MAC,3_Pts_T,Espinoza
+57,4,01:03,75,73,CEA,LL_Pts_C,Drudi
+58,4,01:03,74,73,CEA,LL_Pts_C,Drudi
+59,4,01:03,73,73,CEA,FR,Drudi
+60,4,01:03,73,73,MAC,FC,Espinoza
+61,4,01:03,73,73,CEA,RO,Drudi
+62,4,01:03,73,73,CEA,2_Pts_T,Brown
+63,4,01:16,73,73,CEA,FR,Davi
+64,4,01:16,73,73,MAC,FC,Duda Machado
+65,4,01:36,73,73,MAC,2_Pts_C,Duda Machado
+66,4,01:56,73,71,CEA,substituicao_entra,Davi
+67,4,01:56,73,71,CEA,substituicao_sai,Matheus
+68,4,01:56,73,71,MAC,FR,Duda Machado
+69,4,01:56,73,71,CEA,FC_O,Drudi
+70,4,01:56,73,71,CEA,RO,Drudi
+71,4,01:56,73,71,CEA,2_Pts_T,Devon
+72,4,01:58,73,71,CEA,RO,Devon
+73,4,01:58,73,71,CEA,3_Pts_T,Jimmy
+74,4,02:13,73,71,MAC,EN,Espinoza
+75,4,02:18,73,69,MAC,BR,Espinoza
+76,4,02:18,73,69,CEA,ER,Jimmy
+77,4,02:42,73,69,MAC,2_Pts_C,Atilio
+78,4,02:42,73,67,MAC,AS,Duda Machado
+79,4,02:59,73,67,CEA,2_Pts_C,Devon
+80,4,03:22,71,67,CEA,RO,Devon
+81,4,03:22,71,67,MAC,LL_Pts_T,Espinoza
+82,4,03:22,71,67,MAC,substituicao_entra,Jamaal
+83,4,03:22,71,67,MAC,substituicao_sai,Márcio
+84,4,03:22,71,67,CEA,substituicao_entra,Jimmy
+85,4,03:22,71,67,CEA,substituicao_sai,Nick
+86,4,03:22,71,67,CEA,substituicao_entra,Devon
+87,4,03:22,71,67,CEA,substituicao_sai,Felipe
+88,4,03:22,71,67,MAC,2_Pts_C,Espinoza
+89,4,03:22,71,65,MAC,FR,Espinoza
+90,4,03:22,71,65,CEA,FC,Felipe
+91,4,03:22,71,65,MAC,RO,Espinoza
+92,4,03:22,71,65,MAC,3_Pts_T,Duda Machado
+93,4,03:41,71,65,CEA,2_Pts_C,Brown
+94,4,03:53,69,65,CEA,RD,Nick
+95,4,03:53,69,65,MAC,3_Pts_T,Márcio
+96,4,04:18,69,65,MAC,RD,Márcio
+97,4,04:18,69,65,CEA,3_Pts_T,Matheus
+98,4,04:40,69,65,CEA,RD,Nick
+99,4,04:40,69,65,MAC,LL_Pts_T,Atilio
+100,4,04:40,69,65,MAC,LL_Pts_C,Atilio
+101,4,04:40,69,64,MAC,FR,Atilio
+102,4,04:40,69,64,CEA,FC,Nick
+103,4,04:40,69,64,MAC,RO,Atilio
+104,4,04:40,69,64,MAC,2_Pts_T,Espinoza
+105,4,04:58,69,64,MAC,RD,Márcio
+106,4,04:58,69,64,CEA,3_Pts_T,Matheus
+107,4,05:04,69,64,CEA,RD,Felipe
+108,4,05:04,69,64,MAC,2_Pts_T,Fred
+109,4,05:09,69,64,CEA,2_Pts_C,Drudi
+110,4,05:19,67,64,CEA,RO,Drudi
+111,4,05:19,67,64,MAC,TO,Duda Machado
+112,4,05:19,67,64,CEA,2_Pts_T,Brown
+113,4,05:30,67,64,MAC,2_Pts_C,Atilio
+114,4,05:30,67,62,MAC,AS,Duda Machado
+115,4,05:39,67,62,CEA,LL_Pts_C,Brown
+116,4,05:39,66,62,CEA,LL_Pts_C,Brown
+117,4,05:39,65,62,CEA,FR,Brown
+118,4,05:39,65,62,MAC,FC,Espinoza
+119,4,05:57,65,62,CEA,BR,Basquete Cearense
+120,4,05:57,65,62,MAC,ER,Fred
+121,4,06:06,65,62,CEA,substituicao_entra,Felipe
+122,4,06:06,65,62,CEA,substituicao_sai,Devon
+123,4,06:06,65,62,MAC,BR,Macaé
+124,4,06:06,65,62,CEA,ER,Drudi
+125,4,06:06,65,62,CEA,RO,Drudi
+126,4,06:06,65,62,CEA,2_Pts_T,Drudi
+127,4,06:06,65,62,CEA,RO,Drudi
+128,4,06:06,65,62,CEA,2_Pts_T,Devon
+129,4,06:25,65,62,CEA,BR,Devon
+130,4,06:25,65,62,MAC,ER,Fred
+131,4,06:41,65,62,MAC,RD,Duda Machado
+132,4,06:41,65,62,CEA,2_Pts_T,Nick
+133,4,07:06,65,62,MAC,2_Pts_C,Atilio
+134,4,07:06,65,60,MAC,AS,Duda Machado
+135,4,07:30,65,60,MAC,BR,Márcio
+136,4,07:30,65,60,CEA,ER,Devon
+137,4,07:35,65,60,CEA,FR,Nick
+138,4,07:35,65,60,MAC,FC,Duda Machado
+139,4,07:40,65,60,CEA,RD,Nick
+140,4,07:40,65,60,MAC,3_Pts_T,Fred
+141,4,08:02,65,60,MAC,RD,Espinoza
+142,4,08:02,65,60,CEA,2_Pts_T,Brown
+143,4,08:19,65,60,CEA,BR,Basquete Cearense
+144,4,08:19,65,60,MAC,ER,Duda Machado
+145,4,08:47,65,60,CEA,2_Pts_C,Drudi
+146,4,08:47,63,60,CEA,AS,Matheus
+147,4,08:50,63,60,MAC,substituicao_entra,Fred
+148,4,08:50,63,60,MAC,substituicao_sai,Jamaal
+149,4,08:50,63,60,CEA,FR,Brown
+150,4,08:50,63,60,MAC,FC,Jamaal
+151,4,08:57,63,60,MAC,2_Pts_C,Márcio
+152,4,09:09,63,58,MAC,RD,Espinoza
+153,4,09:09,63,58,CEA,3_Pts_T,Nick
+154,4,09:26,63,58,MAC,LL_Pts_C,Atilio
+155,4,09:26,63,57,MAC,LL_Pts_C,Atilio
+156,4,09:26,63,56,MAC,FR,Atilio
+157,4,09:26,63,56,CEA,FC,Matheus
+158,4,09:26,63,56,MAC,RO,Atilio
+159,4,09:26,63,56,MAC,3_Pts_T,Espinoza
+160,4,09:42,63,56,MAC,FR,Jamaal
+161,4,09:42,63,56,CEA,FC,Devon
+162,3,00:00,63,56, ,fim_quarto,
+163,3,00:01,63,56,CEA,RD,Drudi
+164,3,00:01,63,56,MAC,3_Pts_T,Jamaal
+165,3,00:12,63,56,CEA,substituicao_entra,Davi
+166,3,00:12,63,56,CEA,substituicao_sai,Brown
+167,3,00:12,63,56,CEA,LL_Pts_C,Brown
+168,3,00:12,62,56,CEA,LL_Pts_C,Brown
+169,3,00:12,61,56,CEA,FR,Brown
+170,3,00:12,61,56,MAC,FC,Will
+171,3,00:15,61,56,CEA,RD,Matheus
+172,3,00:15,61,56,MAC,2_Pts_T,Will
+173,3,00:26,61,56,MAC,RD,Atilio
+174,3,00:26,61,56,CEA,3_Pts_T,Brown
+175,3,00:49,61,56,MAC,LL_Pts_C,Jamaal
+176,3,00:49,61,55,MAC,LL_Pts_C,Jamaal
+177,3,00:49,61,54,CEA,substituicao_entra,Nick
+178,3,00:49,61,54,CEA,substituicao_sai,Jimmy
+179,3,00:49,61,54,MAC,FR,Jamaal
+180,3,00:49,61,54,CEA,FC,Jimmy
+181,3,00:56,61,54,MAC,RD,Will
+182,3,00:56,61,54,CEA,3_Pts_T,Matheus
+183,3,01:21,61,54,CEA,BR,Basquete Cearense
+184,3,01:21,61,54,MAC,ER,Atilio
+185,3,01:29,61,54,CEA,2_Pts_C,Devon
+186,3,01:36,59,54,CEA,RO,Devon
+187,3,01:36,59,54,CEA,2_Pts_T,Jimmy
+188,3,01:54,59,54,CEA,RD,Matheus
+189,3,01:54,59,54,MAC,2_Pts_T,Atilio
+190,3,02:15,59,54,CEA,LL_Pts_C,Matheus
+191,3,02:15,58,54,CEA,LL_Pts_T,Matheus
+192,3,02:15,58,54,MAC,substituicao_entra,João
+193,3,02:15,58,54,MAC,substituicao_sai,Fred
+194,3,02:15,58,54,MAC,substituicao_entra,Jamaal
+195,3,02:15,58,54,MAC,substituicao_sai,Duda Machado
+196,3,02:15,58,54,MAC,substituicao_entra,Will
+197,3,02:15,58,54,MAC,substituicao_sai,Espinoza
+198,3,02:15,58,54,MAC,tempo_tecnico,Macaé
+199,3,02:15,58,54,CEA,FR,Matheus
+200,3,02:15,58,54,MAC,FC,Fred
+201,3,02:16,58,54,CEA,RD,Matheus
+202,3,02:16,58,54,MAC,3_Pts_T,Espinoza
+203,3,02:35,58,54,CEA,3_Pts_C,Matheus
+204,3,02:35,55,54,CEA,AS,Devon
+205,3,02:50,55,54,CEA,RD,Devon
+206,3,02:50,55,54,MAC,LL_Pts_T,Espinoza
+207,3,02:50,55,54,MAC,LL_Pts_T,Espinoza
+208,3,02:50,55,54,MAC,FR,Espinoza
+209,3,02:50,55,54,CEA,FC,Drudi
+210,3,03:00,55,54,CEA,2_Pts_C,Drudi
+211,3,03:00,53,54,CEA,AS,Devon
+212,3,03:20,53,54,MAC,,
+213,3,03:32,53,54,CEA,substituicao_entra,Brown
+214,3,03:32,53,54,CEA,substituicao_sai,Davi
+215,3,03:32,53,54,MAC,BR,Macaé
+216,3,03:32,53,54,CEA,ER,Jimmy
+217,3,03:37,53,54,CEA,RD,Devon
+218,3,03:37,53,54,MAC,2_Pts_T,Duda Machado
+219,3,03:43,53,54,MAC,RD,Duda Machado
+220,3,03:43,53,54,CEA,3_Pts_T,Davi
+221,3,04:04,53,54,MAC,RO,Espinoza
+222,3,04:04,53,54,MAC,LL_Pts_T,Atilio
+223,3,04:04,53,54,MAC,2_Pts_C,Atilio
+224,3,04:04,53,52,MAC,FR,Atilio
+225,3,04:04,53,52,CEA,FC,Jimmy
+226,3,04:04,53,52,MAC,RO,Atilio
+227,3,04:04,53,52,MAC,2_Pts_T,Atilio
+228,3,04:25,53,52,MAC,RD,Fred
+229,3,04:25,53,52,CEA,3_Pts_T,Jimmy
+230,3,04:39,53,52,CEA,RD,Devon
+231,3,04:39,53,52,MAC,2_Pts_T,Fred
+232,3,04:52,53,52,CEA,2_Pts_C,Davi
+233,3,05:01,51,52,MAC,substituicao_entra,Márcio
+234,3,05:01,51,52,MAC,substituicao_sai,Jamaal
+235,3,05:01,51,52,CEA,FR,Davi
+236,3,05:01,51,52,MAC,FC,Jamaal
+237,3,05:02,51,52,CEA,RD,Davi
+238,3,05:02,51,52,MAC,3_Pts_T,Duda Machado
+239,3,05:20,51,52,CEA,substituicao_entra,Devon
+240,3,05:20,51,52,CEA,substituicao_sai,Felipe
+241,3,05:20,51,52,MAC,FR,Duda Machado
+242,3,05:20,51,52,CEA,FC,Felipe
+243,3,05:34,51,52,CEA,LL_Pts_C,Jimmy
+244,3,05:34,50,52,CEA,LL_Pts_C,Jimmy
+245,3,05:34,49,52,CEA,FR,Jimmy
+246,3,05:34,49,52,MAC,FC,Espinoza
+247,3,05:34,49,52,CEA,RD,Jimmy
+248,3,05:34,49,52,CEA,TO,Felipe
+249,3,05:34,49,52,MAC,2_Pts_T,Jamaal
+250,3,05:41,49,52,CEA,2_Pts_C,Drudi
+251,3,05:46,47,52,CEA,RO,Drudi
+252,3,05:46,47,52,CEA,2_Pts_T,Davi
+253,3,05:54,47,52,CEA,FR,Felipe
+254,3,05:54,47,52,MAC,FC,Atilio
+255,3,06:06,47,52,MAC,2_Pts_C,Atilio
+256,3,06:06,47,50,MAC,AS,Espinoza
+257,3,06:18,47,50,CEA,substituicao_entra,Matheus
+258,3,06:18,47,50,CEA,substituicao_sai,Brown
+259,3,06:18,47,50,MAC,FR,Fred
+260,3,06:18,47,50,CEA,FC,Brown
+261,3,06:27,47,50,CEA,2_Pts_C,Drudi
+262,3,06:27,45,50,CEA,AS,Davi
+263,3,06:40,45,50,MAC,2_Pts_C,Atilio
+264,3,06:40,45,48,MAC,RO,Atilio
+265,3,06:40,45,48,CEA,TO,Felipe
+266,3,06:40,45,48,MAC,2_Pts_T,Atilio
+267,3,07:01,45,48,MAC,FR,Espinoza
+268,3,07:01,45,48,CEA,FC,Jimmy
+269,3,07:01,45,48,MAC,RD,Espinoza
+270,3,07:01,45,48,CEA,2_Pts_T,Felipe
+271,3,07:13,45,48,MAC,2_Pts_C,Fred
+272,3,07:25,45,46,MAC,RD,Atilio
+273,3,07:25,45,46,CEA,2_Pts_T,Brown
+274,3,07:41,45,46,CEA,RD,Felipe
+275,3,07:41,45,46,MAC,LL_Pts_T,Fred
+276,3,07:41,45,46,MAC,2_Pts_C,Fred
+277,3,07:41,45,44,MAC,FR,Fred
+278,3,07:41,45,44,CEA,FC,Brown
+279,3,07:48,45,44,MAC,RD,Espinoza
+280,3,07:48,45,44,CEA,2_Pts_T,Felipe
+281,3,07:59,45,44,MAC,ER,
+282,3,08:26,45,44,CEA,3_Pts_C,Felipe
+283,3,08:45,42,44,MAC,2_Pts_C,Atilio
+284,3,08:56,42,42,MAC,RD,Atilio
+285,3,08:56,42,42,CEA,2_Pts_T,Drudi
+286,3,09:08,42,42,CEA,RD,Felipe
+287,3,09:08,42,42,MAC,3_Pts_T,Duda Machado
+288,3,09:22,42,42,CEA,LL_Pts_C,Brown
+289,3,09:22,41,42,CEA,2_Pts_C,Brown
+290,3,09:22,39,42,CEA,FR,Brown
+291,3,09:22,39,42,MAC,FC,Duda Machado
+292,3,09:22,39,42,CEA,RD,Felipe
+293,3,09:22,39,42,MAC,2_Pts_T,Fred
+294,3,09:28,39,42,MAC,RD,Fred
+295,3,09:28,39,42,CEA,2_Pts_T,Felipe
+296,3,09:44,39,42,CEA,BR,Felipe
+297,3,09:44,39,42,MAC,ER,Fred
+298,2,00:00,39,42, ,fim_quarto,
+299,2,00:01,39,42,MAC,3_Pts_C,Jamaal
+300,2,00:03,39,39,MAC,substituicao_entra,Jamaal
+301,2,00:04,39,39,MAC,substituicao_sai,Atilio
+302,2,00:14,39,39,CEA,substituicao_entra,Nick
+303,2,00:14,39,39,CEA,substituicao_sai,Erick Camilo
+304,2,00:14,39,39,CEA,substituicao_entra,Matheus
+305,2,00:14,39,39,CEA,substituicao_sai,Davi
+306,2,00:14,39,39,CEA,substituicao_entra,Devon
+307,2,00:14,39,39,CEA,substituicao_sai,Felipe
+308,2,00:14,39,39,CEA,substituicao_entra,Erick Camilo
+309,2,00:14,39,39,CEA,substituicao_sai,Drudi
+310,2,00:14,39,39,MAC,tempo_tecnico,Macaé
+311,2,00:14,39,39,CEA,3_Pts_C,Jimmy
+312,2,00:14,36,39,CEA,AS,Davi
+313,2,00:38,36,39,MAC,,
+314,2,00:52,36,39,MAC,RD,Espinoza
+315,2,00:52,36,39,CEA,2_Pts_T,Drudi
+316,2,01:04,36,39,CEA,substituicao_entra,Brown
+317,2,01:04,36,39,CEA,substituicao_sai,Erick Camilo
+318,2,01:04,36,39,CEA,substituicao_entra,Drudi
+319,2,01:04,36,39,CEA,substituicao_sai,Nick
+320,2,01:04,36,39,CEA,tempo_tecnico,Basquete Cearense
+321,2,01:04,36,39,CEA,RD,Basquete Cearense
+322,2,01:04,36,39,MAC,3_Pts_T,Márcio
+323,2,01:22,36,39,MAC,BR,Espinoza
+324,2,01:22,36,39,CEA,ER,Davi
+325,2,01:29,36,39,CEA,substituicao_entra,Jimmy
+326,2,01:29,36,39,CEA,substituicao_sai,Brown
+327,2,01:29,36,39,MAC,substituicao_entra,Duda Machado
+328,2,01:29,36,39,MAC,substituicao_sai,Jamaal
+329,2,01:29,36,39,MAC,LL_Pts_C,Jamaal
+330,2,01:29,36,38,MAC,LL_Pts_C,Jamaal
+331,2,01:29,36,37,MAC,FR,Jamaal
+332,2,01:29,36,37,CEA,FC,Davi
+333,2,01:39,36,37,CEA,3_Pts_C,Felipe
+334,2,01:39,33,37,CEA,AS,Davi
+335,2,01:53,33,37,CEA,RD,Felipe
+336,2,01:53,33,37,MAC,LL_Pts_T,Espinoza
+337,2,01:53,33,37,MAC,LL_Pts_T,Espinoza
+338,2,01:53,33,37,MAC,FR,Espinoza
+339,2,01:53,33,37,CEA,FC,Felipe
+340,2,02:12,33,37,CEA,3_Pts_C,Felipe
+341,2,02:12,30,37,CEA,AS,Brown
+342,2,02:29,30,37,MAC,2_Pts_C,Atilio
+343,2,02:29,30,35,MAC,AS,Fred
+344,2,02:39,30,35,MAC,BR,Espinoza
+345,2,02:39,30,35,CEA,ER,Felipe
+346,2,03:00,30,35,MAC,3_Pts_C,Márcio
+347,2,03:00,30,32,MAC,AS,Jamaal
+348,2,03:14,30,32,MAC,RD,Espinoza
+349,2,03:14,30,32,CEA,2_Pts_T,Erick Camilo
+350,2,03:30,30,32,CEA,tempo_tecnico,Basquete Cearense
+351,2,03:30,30,32,CEA,FR,Brown
+352,2,03:30,30,32,MAC,FC,Jamaal
+353,2,03:37,30,32,CEA,RD,Felipe
+354,2,03:37,30,32,MAC,3_Pts_T,Márcio
+355,2,03:56,30,32,CEA,substituicao_entra,Erick Camilo
+356,2,03:56,30,32,CEA,substituicao_sai,Drudi
+357,2,03:56,30,32,MAC,substituicao_entra,Fred
+358,2,03:56,30,32,MAC,substituicao_sai,Will
+359,2,03:56,30,32,MAC,FR,Jamaal
+360,2,03:56,30,32,CEA,FC,Nick
+361,2,03:56,30,32,MAC,RD,Márcio
+362,2,03:56,30,32,CEA,2_Pts_T,Brown
+363,2,04:16,30,32,MAC,3_Pts_C,Jamaal
+364,2,04:24,30,29,MAC,RD,Will
+365,2,04:24,30,29,CEA,2_Pts_T,Felipe
+366,2,04:27,30,29,CEA,RO,Basquete Cearense
+367,2,04:27,30,29,CEA,3_Pts_T,Nick
+368,2,04:34,30,29,CEA,RD,Felipe
+369,2,04:34,30,29,MAC,2_Pts_T,Espinoza
+370,2,04:55,30,29,MAC,BR,Espinoza
+371,2,04:55,30,29,CEA,ER,Davi
+372,2,05:06,30,29,CEA,RO,Felipe
+373,2,05:06,30,29,CEA,2_Pts_T,Drudi
+374,2,05:22,30,29,CEA,BR,Basquete Cearense
+375,2,05:22,30,29,MAC,ER,Márcio
+376,2,05:44,30,29,CEA,2_Pts_C,Nick
+377,2,06:03,28,29,MAC,3_Pts_C,Espinoza
+378,2,06:07,28,26,MAC,substituicao_entra,Márcio
+379,2,06:07,28,26,MAC,substituicao_sai,Duda Machado
+380,2,06:07,28,26,MAC,substituicao_entra,Espinoza
+381,2,06:07,28,26,MAC,substituicao_sai,Romario
+382,2,06:07,28,26,MAC,substituicao_entra,Atilio
+383,2,06:07,28,26,MAC,substituicao_sai,João
+384,2,06:07,28,26,MAC,tempo_tecnico,Macaé
+385,2,06:07,28,26,CEA,2_Pts_C,Davi
+386,2,06:12,26,26,CEA,BR,Felipe
+387,2,06:12,26,26,MAC,ER,Romario
+388,2,06:28,26,26,CEA,2_Pts_C,Nick
+389,2,06:39,24,26,CEA,FR,Brown
+390,2,06:39,24,26,MAC,FC,Will
+391,2,06:44,24,26,CEA,RD,Drudi
+392,2,06:44,24,26,MAC,3_Pts_T,João
+393,2,06:59,24,26,MAC,FR,Duda Machado
+394,2,06:59,24,26,CEA,FC,Davi
+395,2,07:15,24,26,MAC,RD,Will
+396,2,07:15,24,26,CEA,2_Pts_T,Drudi
+397,2,07:33,24,26,MAC,LL_Pts_C,João
+398,2,07:33,24,25,MAC,AS,Duda Machado
+399,2,07:33,24,25,MAC,LL_Pts_C,João
+400,2,07:33,24,24,MAC,FR,João
+401,2,07:33,24,24,CEA,FC,Felipe
+402,2,07:38,24,24,CEA,3_Pts_C,Davi
+403,2,07:38,21,24,CEA,AS,Brown
+404,2,07:54,21,24,MAC,LL_Pts_C,Duda Machado
+405,2,07:54,21,23,MAC,LL_Pts_C,Duda Machado
+406,2,07:54,21,22,MAC,FR,Duda Machado
+407,2,07:54,21,22,CEA,FC,Brown
+408,2,08:09,21,22,CEA,2_Pts_C,Brown
+409,2,08:09,19,22,CEA,AS,Davi
+410,2,08:11,19,22,CEA,BR,Davi
+411,2,08:11,19,22,MAC,ER,Duda Machado
+412,2,08:30,19,22,CEA,3_Pts_C,Brown
+413,2,08:30,16,22,CEA,AS,Davi
+414,2,08:45,16,22,CEA,RO,Basquete Cearense
+415,2,08:45,16,22,CEA,2_Pts_T,Davi
+416,2,08:49,16,22,CEA,FR,Felipe
+417,2,08:49,16,22,MAC,FC,João
+418,2,08:59,16,22,MAC,3_Pts_C,Will
+419,2,09:12,16,19,CEA,2_Pts_C,Drudi
+420,2,09:12,14,19,CEA,AS,Felipe
+421,2,09:31,14,19,CEA,FR,Nick
+422,2,09:31,14,19,MAC,FC,Jamaal
+423,2,09:35,14,19,CEA,RD,Nick
+424,2,09:35,14,19,CEA,TO,Nick
+425,2,09:35,14,19,MAC,2_Pts_T,João
+426,2,09:44,14,19,MAC,RD,Will
+427,2,09:44,14,19,CEA,2_Pts_T,Drudi
+428,1,00:00,14,19, ,fim_quarto,
+429,1,00:01,14,19,MAC,RO,Romario
+430,1,00:01,14,19,MAC,3_Pts_T,Duda Machado
+431,1,00:07,14,19,MAC,RD,Romario
+432,1,00:07,14,19,CEA,LL_Pts_T,Felipe
+433,1,00:07,14,19,CEA,LL_Pts_C,Felipe
+434,1,00:07,13,19,MAC,substituicao_entra,Will
+435,1,00:07,13,19,MAC,substituicao_sai,Espinoza
+436,1,00:13,13,19,CEA,FR,Felipe
+437,1,00:13,13,19,MAC,FC,Romario
+438,1,00:30,13,19,CEA,RD,Nick
+439,1,00:30,13,19,MAC,2_Pts_T,Márcio
+440,1,00:42,13,19,CEA,2_Pts_C,Felipe
+441,1,00:57,11,19,MAC,EN,Espinoza
+442,1,00:57,11,17,MAC,AS,Jamaal
+443,1,01:17,11,17,CEA,substituicao_entra,Nick
+444,1,01:17,11,17,CEA,substituicao_sai,Romulo
+445,1,01:17,11,17,CEA,ER,Drudi
+446,1,01:33,11,17,MAC,3_Pts_C,Duda Machado
+447,1,01:33,11,14,MAC,AS,Espinoza
+448,1,01:41,11,14,CEA,2_Pts_C,Brown
+449,1,01:41,9,14,CEA,AS,Davi
+450,1,01:50,9,14,MAC,substituicao_entra,Jamaal
+451,1,01:50,9,14,MAC,substituicao_sai,Fred
+452,1,01:50,9,14,MAC,substituicao_entra,Romario
+453,1,01:50,9,14,MAC,substituicao_sai,Atilio
+454,1,01:50,9,14,CEA,substituicao_entra,Davi
+455,1,01:50,9,14,CEA,substituicao_sai,Jimmy
+456,1,01:50,9,14,CEA,FR,Brown
+457,1,01:50,9,14,MAC,FC,Fred
+458,1,01:51,9,14,CEA,RD,Drudi
+459,1,01:51,9,14,MAC,2_Pts_T,Atilio
+460,1,01:55,9,14,MAC,RO,Atilio
+461,1,01:55,9,14,MAC,3_Pts_T,Espinoza
+462,1,02:14,9,14,CEA,substituicao_entra,Romulo
+463,1,02:14,9,14,CEA,substituicao_sai,Erick Camilo
+464,1,02:14,9,14,MAC,FR,Atilio
+465,1,02:14,9,14,CEA,FC,Jimmy
+466,1,02:14,9,14,MAC,RD,Atilio
+467,1,02:14,9,14,MAC,TO,Espinoza
+468,1,02:14,9,14,CEA,2_Pts_T,Jimmy
+469,1,02:23,9,14,MAC,3_Pts_C,Duda Machado
+470,1,02:23,9,11,MAC,AS,Fred
+471,1,02:40,9,11,CEA,2_Pts_C,Drudi
+472,1,02:40,7,11,CEA,AS,Brown
+473,1,02:50,7,11,MAC,2_Pts_C,Atilio
+474,1,02:50,7,9,MAC,AS,Fred
+475,1,03:06,7,9,MAC,RD,Márcio
+476,1,03:06,7,9,CEA,3_Pts_T,Erick Camilo
+477,1,03:19,7,9,MAC,2_Pts_C,Espinoza
+478,1,03:19,7,7,MAC,AS,Fred
+479,1,03:31,7,7,CEA,2_Pts_C,Drudi
+480,1,03:31,5,7,CEA,AS,Erick Camilo
+481,1,03:47,5,7,CEA,RD,Erick Camilo
+482,1,03:47,5,7,MAC,2_Pts_T,Márcio
+483,1,04:03,5,7,CEA,2_Pts_C,Drudi
+484,1,04:03,3,7,CEA,AS,Erick Camilo
+485,1,04:15,3,7,CEA,RD,Basquete Cearense
+486,1,04:15,3,7,MAC,2_Pts_T,Fred
+487,1,04:21,3,7,MAC,BR,Duda Machado
+488,1,04:21,3,7,CEA,ER,Jimmy
+489,1,04:30,3,7,MAC,EN,Espinoza
+490,1,04:34,3,5,MAC,BR,Espinoza
+491,1,04:34,3,5,CEA,ER,Felipe
+492,1,04:50,3,5,CEA,RD,Drudi
+493,1,04:50,3,5,MAC,3_Pts_T,Duda Machado
+494,1,05:02,3,5,MAC,RD,Espinoza
+495,1,05:02,3,5,CEA,2_Pts_T,Brown
+496,1,05:21,3,5,MAC,3_Pts_C,Espinoza
+497,1,05:21,3,2,MAC,AS,Fred
+498,1,05:44,3,2,CEA,LL_Pts_C,Erick Camilo
+499,1,05:44,2,2,CEA,LL_Pts_T,Erick Camilo
+500,1,05:44,2,2,CEA,FR,Erick Camilo
+501,1,05:44,2,2,MAC,FC,Atilio
+502,1,05:49,2,2,CEA,RD,Erick Camilo
+503,1,05:49,2,2,MAC,3_Pts_T,Duda Machado
+504,1,06:03,2,2,MAC,RD,Espinoza
+505,1,06:03,2,2,CEA,3_Pts_T,Jimmy
+506,1,06:21,2,2,CEA,RD,Basquete Cearense
+507,1,06:21,2,2,MAC,2_Pts_T,Fred
+508,1,06:34,2,2,MAC,FR,Atilio
+509,1,06:34,2,2,CEA,FC,Felipe
+510,1,06:47,2,2,MAC,RD,Duda Machado
+511,1,06:47,2,2,CEA,2_Pts_T,Brown
+512,1,07:10,2,2,MAC,ER,Atilio
+513,1,07:25,2,2,MAC,RD,Espinoza
+514,1,07:25,2,2,CEA,3_Pts_T,Brown
+515,1,07:35,2,2,CEA,BR,Basquete Cearense
+516,1,07:35,2,2,MAC,ER,Márcio
+517,1,07:37,2,2,MAC,BR,Márcio
+518,1,07:37,2,2,CEA,ER,Jimmy
+519,1,07:58,2,2,CEA,RD,Felipe
+520,1,07:58,2,2,MAC,3_Pts_T,Fred
+521,1,08:13,2,2,MAC,RD,Espinoza
+522,1,08:13,2,2,CEA,2_Pts_T,Brown
+523,1,08:22,2,2,CEA,RD,Felipe
+524,1,08:22,2,2,MAC,3_Pts_T,Espinoza
+525,1,08:48,2,2,CEA,2_Pts_C,Erick Camilo
+526,1,09:04,0,2,CEA,RD,Felipe
+527,1,09:04,0,2,MAC,2_Pts_T,Atilio
+528,1,09:16,0,2,MAC,RD,Espinoza
+529,1,09:16,0,2,CEA,3_Pts_T,Felipe
+530,1,09:26,0,2,MAC,2_Pts_C,Atilio
+531,1,09:34,0,0,MAC,RO,Atilio
+532,1,09:34,0,0,MAC,2_Pts_T,Márcio
+533,1,10:00,0,0,CEA,substituicao_entra,Felipe
+534,1,10:00,0,0,CEA,substituicao_entra,Erick Camilo
+535,1,10:00,0,0,CEA,substituicao_entra,Drudi
+536,1,10:00,0,0,CEA,substituicao_entra,Jimmy
+537,1,10:00,0,0,CEA,substituicao_entra,Brown
+538,1,10:00,0,0,MAC,substituicao_entra,Espinoza
+539,1,10:00,0,0,MAC,substituicao_entra,Márcio
+540,1,10:00,0,0,MAC,substituicao_entra,Atilio
+541,1,10:00,0,0,MAC,substituicao_entra,Duda Machado
+542,1,10:00,0,0,MAC,substituicao_entra,Fred

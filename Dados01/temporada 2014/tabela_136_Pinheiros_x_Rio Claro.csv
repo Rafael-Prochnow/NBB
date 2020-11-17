@@ -1,0 +1,540 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,67,71, ,fim_partida,
+1,4,00:01,67,71,PIN,substituicao_sai,Jason Smith
+2,4,00:01,67,71,PIN,substituicao_entra,Lucas Dias
+3,4,00:01,67,71,RCB,LL_Pts_C,Tatu
+4,4,00:01,67,70,RCB,LL_Pts_C,Tatu
+5,4,00:01,67,69,RCB,FR,Tatu
+6,4,00:01,67,69,PIN,FC,Jason Smith
+7,4,00:03,67,69,RCB,BR,Tatu
+8,4,00:03,67,69,PIN,ER,Jason Smith
+9,4,00:06,67,69,RCB,2_Pts_C,Caio
+10,4,00:11,67,67,PIN,substituicao_sai,Lucas Dias
+11,4,00:11,67,67,PIN,substituicao_entra,Morro
+12,4,00:11,67,67,PIN,substituicao_entra,Humberto
+13,4,00:11,67,67,PIN,substituicao_sai,Joe Smith
+14,4,00:11,67,67,RCB,tempo_tecnico,Rio Claro
+15,4,00:11,67,67,PIN,LL_Pts_C,Jason Smith
+16,4,00:11,66,67,PIN,LL_Pts_C,Jason Smith
+17,4,00:11,65,67,PIN,LL_Pts_C,Jason Smith
+18,4,00:11,64,67,RCB,substituicao_entra,Tischer
+19,4,00:11,64,67,RCB,substituicao_sai,Pastor
+20,4,00:11,64,67,PIN,FR,Jason Smith
+21,4,00:11,64,67,RCB,FC,Pastor
+22,4,00:23,64,67,RCB,substituicao_entra,Pastor
+23,4,00:23,64,67,RCB,substituicao_sai,Tischer
+24,4,00:23,64,67,PIN,substituicao_sai,Morro
+25,4,00:23,64,67,PIN,substituicao_entra,Lucas Dias
+26,4,00:28,64,67,PIN,tempo_tecnico,Pinheiros
+27,4,00:28,64,67,PIN,RD,Pinheiros
+28,4,00:28,64,67,RCB,2_Pts_T,Duda Machado
+29,4,00:47,64,67,PIN,LL_Pts_C,Jason Smith
+30,4,00:47,63,67,PIN,LL_Pts_T,Jason Smith
+31,4,00:47,63,67,PIN,FR,Jason Smith
+32,4,00:47,63,67,RCB,FC,Tischer
+33,4,00:49,63,67,PIN,RO,Jason Smith
+34,4,00:49,63,67,PIN,3_Pts_T,Joe Smith
+35,4,00:55,63,67,PIN,RO,Morro
+36,4,00:55,63,67,PIN,3_Pts_T,Ted Simões
+37,4,01:01,63,67,PIN,RD,Joe Smith
+38,4,01:01,63,67,RCB,2_Pts_T,Tischer
+39,4,01:05,63,67,RCB,RO,Tischer
+40,4,01:05,63,67,RCB,2_Pts_T,Tatu
+41,4,01:27,63,67,RCB,RD,Duda Machado
+42,4,01:27,63,67,PIN,LL_Pts_T,Toledo
+43,4,01:27,63,67,PIN,2_Pts_C,Toledo
+44,4,01:27,61,67,PIN,FR,Toledo
+45,4,01:27,61,67,RCB,FC,Caio
+46,4,01:29,61,67,PIN,RO,Toledo
+47,4,01:29,61,67,PIN,3_Pts_T,Joe Smith
+48,4,01:52,61,67,PIN,RD,Ted Simões
+49,4,01:52,61,67,RCB,2_Pts_T,Tatu
+50,4,02:14,61,67,PIN,LL_Pts_C,Joe Smith
+51,4,02:14,60,67,PIN,LL_Pts_C,Joe Smith
+52,4,02:14,59,67,PIN,FR,Joe Smith
+53,4,02:14,59,67,RCB,FC,Tischer
+54,4,02:28,59,67,RCB,2_Pts_C,Tischer
+55,4,02:46,59,65,PIN,LL_Pts_C,Joe Smith
+56,4,02:46,58,65,PIN,LL_Pts_T,Joe Smith
+57,4,02:46,58,65,PIN,FR,Joe Smith
+58,4,02:46,58,65,RCB,FC,Tatu
+59,4,02:51,58,65,PIN,BR,Joe Smith
+60,4,02:51,58,65,RCB,ER,Duda Machado
+61,4,03:09,58,65,RCB,RD,Caio
+62,4,03:09,58,65,PIN,3_Pts_T,Ted Simões
+63,4,03:24,58,65,RCB,3_Pts_C,Vinicius
+64,4,03:24,58,62,RCB,AS,Duda Machado
+65,4,03:32,58,62,PIN,2_Pts_C,Joe Smith
+66,4,03:39,56,62,PIN,FR,Jason Smith
+67,4,03:39,56,62,RCB,FC,Vinicius
+68,4,03:39,56,62,PIN,RO,Jason Smith
+69,4,03:39,56,62,PIN,2_Pts_T,Morro
+70,4,03:46,56,62,PIN,FR,Joe Smith
+71,4,03:46,56,62,RCB,FC_O,Tischer
+72,4,03:51,56,62,PIN,3_Pts_C,Morro
+73,4,04:14,53,62,RCB,tempo_tecnico,Rio Claro
+74,4,04:14,53,62,RCB,TO,Caio
+75,4,04:14,53,62,PIN,RO,Toledo
+76,4,04:14,53,62,PIN,2_Pts_T,Jason Smith
+77,4,04:24,53,62,PIN,FR,Toledo
+78,4,04:24,53,62,RCB,FC,Tischer
+79,4,04:39,53,62,RCB,LL_Pts_C,Tischer
+80,4,04:39,53,61,RCB,LL_Pts_C,Tischer
+81,4,04:39,53,60,PIN,substituicao_sai,André Bambu
+82,4,04:39,53,60,PIN,substituicao_entra,Toledo
+83,4,04:39,53,60,RCB,FR,Tischer
+84,4,04:39,53,60,PIN,FC,Morro
+85,4,04:58,53,60,RCB,RD,Tischer
+86,4,04:58,53,60,PIN,2_Pts_T,André Bambu
+87,4,05:08,53,60,RCB,LL_Pts_C,Tatu
+88,4,05:08,53,59,RCB,LL_Pts_C,Tatu
+89,4,05:08,53,58,PIN,substituicao_entra,Jason Smith
+90,4,05:08,53,58,PIN,substituicao_sai,Humberto
+91,4,05:08,53,58,RCB,FR,Tatu
+92,4,05:08,53,58,PIN,FC,Humberto
+93,4,05:14,53,58,RCB,BR,Tatu
+94,4,05:14,53,58,PIN,ER,Ted Simões
+95,4,05:33,53,58,RCB,2_Pts_C,Tischer
+96,4,05:52,53,56,RCB,RD,Vinicius
+97,4,05:52,53,56,PIN,3_Pts_T,Humberto
+98,4,06:06,53,56,RCB,2_Pts_C,Tatu
+99,4,06:20,53,54,RCB,RD,Caio
+100,4,06:20,53,54,PIN,3_Pts_T,Humberto
+101,4,06:31,53,54,RCB,LL_Pts_C,Tatu
+102,4,06:31,53,53,RCB,LL_Pts_C,Tatu
+103,4,06:31,53,52,PIN,substituicao_sai,Kurtz
+104,4,06:31,53,52,PIN,substituicao_entra,Morro
+105,4,06:31,53,52,RCB,FR,Tatu
+106,4,06:31,53,52,PIN,FC,Kurtz
+107,4,06:56,53,52,PIN,3_Pts_C,Ted Simões
+108,4,07:04,50,52,PIN,RD,André Bambu
+109,4,07:04,50,52,PIN,TO,Ted Simões
+110,4,07:04,50,52,RCB,2_Pts_T,Tischer
+111,4,07:07,50,52,RCB,RO,Tischer
+112,4,07:07,50,52,RCB,2_Pts_T,Tatu
+113,4,07:25,50,52,RCB,BR,Tatu
+114,4,07:25,50,52,PIN,ER,Kurtz
+115,4,07:35,50,52,PIN,substituicao_sai,Lucas Dias
+116,4,07:35,50,52,PIN,substituicao_entra,Joe Smith
+117,4,07:35,50,52,PIN,FR,Lucas Dias
+118,4,07:35,50,52,RCB,FC,Tatu
+119,4,07:53,50,52,PIN,RD,Lucas Dias
+120,4,07:53,50,52,RCB,LL_Pts_T,Caio
+121,4,07:53,50,52,RCB,LL_Pts_C,Caio
+122,4,07:53,50,51,RCB,FR,Caio
+123,4,07:53,50,51,PIN,FC,Lucas Dias
+124,4,08:14,50,51,PIN,2_Pts_C,Lucas Dias
+125,4,08:14,48,51,PIN,AS,Ted Simões
+126,4,08:17,48,51,PIN,BR,André Bambu
+127,4,08:17,48,51,RCB,ER,Tatu
+128,4,08:21,48,51,RCB,FR,Tatu
+129,4,08:21,48,51,PIN,FC,Lucas Dias
+130,4,08:32,48,51,RCB,substituicao_entra,Tatu
+131,4,08:32,48,51,RCB,substituicao_sai,Brown
+132,4,08:33,48,51,RCB,tempo_tecnico,Rio Claro
+133,4,08:33,48,51,PIN,EN,Kurtz
+134,4,08:33,46,51,PIN,AS,Humberto
+135,4,08:44,46,51,PIN,RD,André Bambu
+136,4,08:44,46,51,PIN,TO,Humberto
+137,4,08:44,46,51,RCB,2_Pts_T,Duda Machado
+138,4,08:57,46,51,RCB,RD,Tischer
+139,4,08:57,46,51,PIN,3_Pts_T,Lucas Dias
+140,4,09:04,46,51,RCB,AS,Brown
+141,4,09:04,46,51,RCB,LL_Pts_C,Tischer
+142,4,09:04,46,50,RCB,LL_Pts_T,Tischer
+143,4,09:04,46,50,RCB,FR,Tischer
+144,4,09:04,46,50,PIN,FC,Kurtz
+145,4,09:19,46,50,RCB,FR,Duda Machado
+146,4,09:19,46,50,PIN,FC,Kurtz
+147,4,09:52,46,50,PIN,3_Pts_C,Ted Simões
+148,4,09:52,43,50,PIN,AS,Lucas Dias
+149,3,00:00,43,50, ,fim_quarto,
+150,3,00:03,43,50,PIN,3_Pts_T,Lucas Dias
+151,3,00:06,43,50,RCB,substituicao_sai,Tischer
+152,3,00:06,43,50,RCB,substituicao_entra,Brown
+153,3,00:06,43,50,PIN,FR,Joe Smith
+154,3,00:06,43,50,RCB,FC,Duso
+155,3,00:06,43,50,PIN,substituicao_entra,Joe Smith
+156,3,00:06,43,50,PIN,substituicao_sai,André Bambu
+157,3,00:10,43,50,PIN,substituicao_entra,Jason Smith
+158,3,00:10,43,50,PIN,substituicao_sai,Kurtz
+159,3,00:10,43,50,RCB,substituicao_entra,Mosso
+160,3,00:10,43,50,RCB,substituicao_sai,Vinicius
+161,3,00:10,43,50,RCB,substituicao_entra,Duso
+162,3,00:10,43,50,RCB,substituicao_sai,Caio
+163,3,00:10,43,50,RCB,substituicao_entra,Pastor
+164,3,00:10,43,50,RCB,substituicao_sai,Duda Machado
+165,3,00:10,43,50,RCB,ER,Duda Machado
+166,3,00:32,43,50,PIN,3_Pts_C,Ted Simões
+167,3,00:32,40,50,PIN,AS,Humberto
+168,3,00:41,40,50,PIN,RD,Humberto
+169,3,00:41,40,50,RCB,2_Pts_T,Caio
+170,3,00:42,40,50,RCB,FR,Vinicius
+171,3,00:42,40,50,PIN,FC,André Bambu
+172,3,00:47,40,50,RCB,RO,Vinicius
+173,3,00:47,40,50,RCB,3_Pts_T,Tatu
+174,3,00:59,40,50,PIN,substituicao_sai,J Campos
+175,3,00:59,40,50,PIN,substituicao_entra,Humberto
+176,3,01:13,40,50,RCB,substituicao_entra,Vinicius
+177,3,01:13,40,50,RCB,substituicao_sai,Pastor
+178,3,01:13,40,50,RCB,BR,Rio Claro
+179,3,01:13,40,50,PIN,ER,J Campos
+180,3,01:17,40,50,RCB,ER,Duda Machado
+181,3,01:25,40,50,RCB,FR,Tischer
+182,3,01:25,40,50,PIN,FC,Kurtz
+183,3,01:25,40,50,PIN,2_Pts_C,Lucas Dias
+184,3,01:43,38,50,PIN,substituicao_entra,Ted Simões
+185,3,01:43,38,50,PIN,substituicao_entra,Kurtz
+186,3,01:43,38,50,PIN,substituicao_entra,Lucas Dias
+187,3,01:43,38,50,PIN,substituicao_sai,Toledo
+188,3,01:43,38,50,PIN,substituicao_sai,Joe Smith
+189,3,01:43,38,50,PIN,substituicao_sai,Morro
+190,3,01:43,38,50,PIN,FR,Joe Smith
+191,3,01:43,38,50,RCB,FC,Caio
+192,3,01:46,38,50,PIN,BR,Morro
+193,3,01:46,38,50,RCB,ER,Tischer
+194,3,02:11,38,50,RCB,BR,Tatu
+195,3,02:11,38,50,PIN,ER,André Bambu
+196,3,02:29,38,50,RCB,3_Pts_C,Tatu
+197,3,02:56,38,47,PIN,2_Pts_C,Toledo
+198,3,02:56,36,47,PIN,AS,J Campos
+199,3,03:18,36,47,PIN,RD,Joe Smith
+200,3,03:18,36,47,RCB,3_Pts_T,Caio
+201,3,03:23,36,47,RCB,RD,Tatu
+202,3,03:23,36,47,PIN,2_Pts_T,Morro
+203,3,03:30,36,47,PIN,RO,Morro
+204,3,03:30,36,47,PIN,2_Pts_T,André Bambu
+205,3,03:38,36,47,PIN,FR,Joe Smith
+206,3,03:38,36,47,RCB,FC,Caio
+207,3,03:44,36,47,PIN,RD,Morro
+208,3,03:44,36,47,RCB,2_Pts_T,Duda Machado
+209,3,04:01,36,47,RCB,substituicao_sai,Vinicius
+210,3,04:01,36,47,RCB,substituicao_entra,Caio
+211,3,04:07,36,47,RCB,RD,Rio Claro
+212,3,04:07,36,47,PIN,2_Pts_T,Joe Smith
+213,3,04:13,36,47,PIN,RO,Joe Smith
+214,3,04:13,36,47,RCB,TO,Vinicius
+215,3,04:13,36,47,PIN,2_Pts_T,J Campos
+216,3,04:18,36,47,PIN,RD,J Campos
+217,3,04:18,36,47,RCB,2_Pts_T,Pastor
+218,3,04:30,36,47,PIN,ER,Toledo
+219,3,04:49,36,47,PIN,tempo_tecnico,Pinheiros
+220,3,04:49,36,47,RCB,2_Pts_C,Tischer
+221,3,04:49,36,45,RCB,AS,Pastor
+222,3,05:11,36,45,RCB,RD,Vinicius
+223,3,05:11,36,45,PIN,3_Pts_T,André Bambu
+224,3,05:20,36,45,PIN,RD,André Bambu
+225,3,05:20,36,45,RCB,2_Pts_T,Tischer
+226,3,05:42,36,45,RCB,BR,Pastor
+227,3,05:42,36,45,PIN,ER,Joe Smith
+228,3,05:55,36,45,PIN,RD,Pinheiros
+229,3,05:55,36,45,PIN,TO,André Bambu
+230,3,05:55,36,45,RCB,2_Pts_T,Tischer
+231,3,05:59,36,45,RCB,substituicao_sai,Estevam
+232,3,05:59,36,45,RCB,substituicao_entra,Tischer
+233,3,05:59,36,45,PIN,substituicao_entra,J Campos
+234,3,05:59,36,45,PIN,substituicao_sai,Jason Smith
+235,3,05:59,36,45,PIN,substituicao_entra,André Bambu
+236,3,05:59,36,45,PIN,substituicao_sai,Felipe
+237,3,05:59,36,45,RCB,FR,Duda Machado
+238,3,05:59,36,45,PIN,FC,Jason Smith
+239,3,06:17,36,45,PIN,2_Pts_C,Joe Smith
+240,3,06:44,34,45,RCB,EN,Pastor
+241,3,06:44,34,43,RCB,AS,Estevam
+242,3,07:01,34,43,RCB,RD,Estevam
+243,3,07:01,34,43,PIN,3_Pts_T,Joe Smith
+244,3,07:12,34,43,RCB,3_Pts_C,Vinicius
+245,3,07:12,34,40,RCB,AS,Tatu
+246,3,07:17,34,40,RCB,RO,Pastor
+247,3,07:17,34,40,RCB,2_Pts_T,Estevam
+248,3,07:43,34,40,RCB,RD,Estevam
+249,3,07:43,34,40,PIN,3_Pts_T,Jason Smith
+250,3,07:56,34,40,PIN,substituicao_sai,Ted Simões
+251,3,07:56,34,40,PIN,substituicao_entra,Jason Smith
+252,3,07:56,34,40,PIN,substituicao_sai,J Campos
+253,3,07:56,34,40,PIN,substituicao_entra,Joe Smith
+254,3,07:56,34,40,RCB,ER,Duda Machado
+255,3,08:01,34,40,RCB,BR,Vinicius
+256,3,08:01,34,40,PIN,ER,Ted Simões
+257,3,08:16,34,40,PIN,tempo_tecnico,Pinheiros
+258,3,08:16,34,40,RCB,2_Pts_C,Tatu
+259,3,08:29,34,38,RCB,BR,Rio Claro
+260,3,08:29,34,38,PIN,ER,Felipe
+261,3,08:40,34,38,RCB,3_Pts_C,Duda Machado
+262,3,08:46,34,35,RCB,BR,Duda Machado
+263,3,08:46,34,35,PIN,ER,J Campos
+264,3,08:54,34,35,PIN,FR,Ted Simões
+265,3,08:54,34,35,RCB,FC,Vinicius
+266,3,09:05,34,35,RCB,2_Pts_C,Estevam
+267,3,09:10,34,33,RCB,RO,Estevam
+268,3,09:10,34,33,RCB,2_Pts_T,Tatu
+269,3,09:29,34,33,RCB,RD,Pastor
+270,3,09:29,34,33,PIN,2_Pts_T,J Campos
+271,3,09:38,34,33,PIN,BR,Toledo
+272,3,09:38,34,33,RCB,ER,Pastor
+273,2,00:00,34,33, ,fim_quarto,
+274,2,00:02,34,33,RCB,BR,Tatu
+275,2,00:02,34,33,PIN,ER,Felipe
+276,2,00:07,34,33,PIN,RD,Felipe
+277,2,00:07,34,33,RCB,3_Pts_T,Pastor
+278,2,00:26,34,33,PIN,2_Pts_C,Lucas Dias
+279,2,00:34,32,33,PIN,RO,Lucas Dias
+280,2,00:34,32,33,PIN,3_Pts_T,Felipe
+281,2,00:45,32,33,RCB,LL_Pts_C,Tatu
+282,2,00:45,32,32,RCB,substituicao_sai,Duda Machado
+283,2,00:45,32,32,RCB,substituicao_entra,Caio
+284,2,00:45,32,32,RCB,2_Pts_C,Tatu
+285,2,00:45,32,30,RCB,FR,Tatu
+286,2,00:45,32,30,PIN,FC,Toledo
+287,2,01:03,32,30,RCB,RD,Rio Claro
+288,2,01:03,32,30,PIN,2_Pts_T,Lucas Dias
+289,2,01:17,32,30,PIN,FR,J Campos
+290,2,01:17,32,30,RCB,FC,Estevam
+291,2,01:27,32,30,PIN,RO,Felipe
+292,2,01:27,32,30,PIN,3_Pts_T,Lucas Dias
+293,2,01:46,32,30,RCB,2_Pts_C,Duda Machado
+294,2,01:46,32,28,RCB,AS,Pastor
+295,2,01:48,32,28,PIN,substituicao_entra,Lucas Dias
+296,2,01:48,32,28,PIN,substituicao_sai,Joe Smith
+297,2,01:53,32,28,RCB,RO,Rio Claro
+298,2,01:53,32,28,RCB,3_Pts_T,Duda Machado
+299,2,02:00,32,28,RCB,RD,Vinicius
+300,2,02:00,32,28,PIN,3_Pts_T,J Campos
+301,2,02:23,32,28,RCB,2_Pts_C,Tatu
+302,2,02:40,32,26,RCB,tempo_tecnico,Rio Claro
+303,2,02:40,32,26,RCB,BR,Rio Claro
+304,2,02:40,32,26,PIN,ER,Joe Smith
+305,2,02:43,32,26,PIN,FR,Joe Smith
+306,2,02:43,32,26,RCB,FC,Vinicius
+307,2,02:54,32,26,PIN,RD,J Campos
+308,2,02:54,32,26,PIN,TO,Felipe
+309,2,02:54,32,26,RCB,2_Pts_T,Pastor
+310,2,02:58,32,26,RCB,BR,Duda Machado
+311,2,02:58,32,26,PIN,ER,Toledo
+312,2,03:20,32,26,RCB,2_Pts_C,Pastor
+313,2,03:20,32,24,RCB,AS,Duda Machado
+314,2,03:26,32,24,RCB,RD,Estevam
+315,2,03:26,32,24,PIN,2_Pts_T,Morro
+316,2,03:45,32,24,PIN,substituicao_entra,J Campos
+317,2,03:45,32,24,PIN,substituicao_sai,Jason Smith
+318,2,03:45,32,24,RCB,substituicao_entra,Duda Machado
+319,2,03:45,32,24,RCB,substituicao_sai,Caio
+320,2,03:45,32,24,PIN,BR,Toledo
+321,2,03:45,32,24,RCB,ER,Caio
+322,2,03:56,32,24,RCB,LL_Pts_C,Caio
+323,2,03:56,32,23,RCB,substituicao_sai,Brown
+324,2,03:56,32,23,RCB,substituicao_entra,Tatu
+325,2,03:56,32,23,PIN,FC_T,Jason Smith
+326,2,04:03,32,23,PIN,2_Pts_C,Jason Smith
+327,2,04:17,30,23,PIN,RD,Morro
+328,2,04:17,30,23,RCB,2_Pts_T,Brown
+329,2,04:30,30,23,RCB,RD,Pastor
+330,2,04:30,30,23,PIN,2_Pts_T,Felipe
+331,2,04:36,30,23,PIN,BR,Toledo
+332,2,04:36,30,23,RCB,ER,Brown
+333,2,04:40,30,23,RCB,BR,Brown
+334,2,04:40,30,23,PIN,ER,Jason Smith
+335,2,04:54,30,23,PIN,FR,Toledo
+336,2,04:54,30,23,RCB,FC,Pastor
+337,2,04:57,30,23,PIN,RO,Toledo
+338,2,04:57,30,23,PIN,3_Pts_T,Joe Smith
+339,2,05:02,30,23,PIN,RD,Toledo
+340,2,05:02,30,23,RCB,3_Pts_T,Caio
+341,2,05:07,30,23,RCB,RD,Caio
+342,2,05:07,30,23,PIN,2_Pts_T,Toledo
+343,2,05:11,30,23,PIN,RO,Toledo
+344,2,05:11,30,23,PIN,2_Pts_T,Joe Smith
+345,2,05:16,30,23,PIN,BR,Joe Smith
+346,2,05:16,30,23,RCB,ER,Pastor
+347,2,05:42,30,23,PIN,2_Pts_C,Joe Smith
+348,2,06:05,28,23,PIN,RD,Felipe
+349,2,06:05,28,23,RCB,LL_Pts_T,Brown
+350,2,06:05,28,23,RCB,LL_Pts_C,Brown
+351,2,06:05,28,22,PIN,substituicao_sai,Lucas Dias
+352,2,06:05,28,22,PIN,substituicao_entra,Morro
+353,2,06:05,28,22,PIN,substituicao_sai,Ted Simões
+354,2,06:05,28,22,PIN,substituicao_entra,Felipe
+355,2,06:05,28,22,PIN,substituicao_sai,Kurtz
+356,2,06:05,28,22,PIN,substituicao_entra,Toledo
+357,2,06:05,28,22,RCB,FR,Brown
+358,2,06:05,28,22,PIN,FC,Lucas Dias
+359,2,06:14,28,22,RCB,RD,Estevam
+360,2,06:14,28,22,PIN,3_Pts_T,Lucas Dias
+361,2,06:31,28,22,RCB,2_Pts_C,Caio
+362,2,06:51,28,20,RCB,RD,Pastor
+363,2,06:51,28,20,PIN,2_Pts_T,Kurtz
+364,2,07:07,28,20,PIN,tempo_tecnico,Pinheiros
+365,2,07:07,28,20,RCB,2_Pts_C,Brown
+366,2,07:11,28,18,RCB,BR,Brown
+367,2,07:11,28,18,PIN,ER,Kurtz
+368,2,07:29,28,18,RCB,LL_Pts_C,Brown
+369,2,07:29,28,17,RCB,LL_Pts_C,Brown
+370,2,07:29,28,16,RCB,FR,Brown
+371,2,07:29,28,16,PIN,FC,Jason Smith
+372,2,07:42,28,16,PIN,2_Pts_C,Ted Simões
+373,2,07:42,26,16,PIN,AS,Joe Smith
+374,2,08:03,26,16,RCB,2_Pts_C,Estevam
+375,2,08:03,26,14,RCB,AS,Brown
+376,2,08:13,26,14,RCB,RD,Pastor
+377,2,08:13,26,14,PIN,2_Pts_T,Jason Smith
+378,2,08:30,26,14,RCB,2_Pts_C,Estevam
+379,2,08:34,26,12,RCB,RO,Estevam
+380,2,08:34,26,12,RCB,2_Pts_T,Estevam
+381,2,08:49,26,12,RCB,BR,Rio Claro
+382,2,08:49,26,12,PIN,ER,Lucas Dias
+383,2,09:07,26,12,RCB,substituicao_sai,Duso
+384,2,09:07,26,12,RCB,substituicao_entra,Brown
+385,2,09:07,26,12,PIN,RD,Pinheiros
+386,2,09:07,26,12,RCB,3_Pts_T,Duso
+387,2,09:15,26,12,RCB,substituicao_sai,Tatu
+388,2,09:15,26,12,RCB,substituicao_entra,Duso
+389,2,09:19,26,12,RCB,RO,Rio Claro
+390,2,09:19,26,12,PIN,TO,Kurtz
+391,2,09:19,26,12,RCB,2_Pts_T,Tatu
+392,2,09:36,26,12,PIN,3_Pts_C,Joe Smith
+393,2,09:36,23,12,PIN,AS,Lucas Dias
+394,2,09:46,23,12,PIN,RD,Lucas Dias
+395,2,09:46,23,12,RCB,3_Pts_T,Caio
+396,1,00:00,23,12, ,fim_quarto,
+397,1,00:07,23,12,PIN,3_Pts_T,Jason Smith
+398,1,00:15,23,12,PIN,RD,Ted Simões
+399,1,00:15,23,12,RCB,3_Pts_T,Vinicius
+400,1,00:17,23,12,PIN,EN,Kurtz
+401,1,00:17,21,12,PIN,AS,Joe Smith
+402,1,00:33,21,12,RCB,2_Pts_C,Pastor
+403,1,00:36,21,10,RCB,RO,Pastor
+404,1,00:36,21,10,PIN,TO,Joe Smith
+405,1,00:44,21,10,RCB,BR,Duso
+406,1,00:44,21,10,PIN,ER,Joe Smith
+407,1,00:52,21,10,RCB,LL_Pts_C,Caio
+408,1,00:52,21,9,RCB,substituicao_entra,Duso
+409,1,00:52,21,9,RCB,substituicao_entra,Estevam
+410,1,00:52,21,9,RCB,substituicao_sai,Mosso
+411,1,00:52,21,9,RCB,substituicao_sai,Tatu
+412,1,00:52,21,9,PIN,substituicao_entra,Kurtz
+413,1,00:52,21,9,PIN,substituicao_sai,Felipe
+414,1,00:52,21,9,RCB,FR,Caio
+415,1,00:52,21,9,PIN,FC,Joe Smith
+416,1,00:52,21,9,RCB,2_Pts_C,Caio
+417,1,00:52,21,7,RCB,AS,Vinicius
+418,1,01:05,21,7,PIN,2_Pts_C,Joe Smith
+419,1,01:05,19,7,PIN,AS,Ted Simões
+420,1,01:27,19,7,RCB,LL_Pts_C,Vinicius
+421,1,01:27,19,6,RCB,LL_Pts_T,Vinicius
+422,1,01:27,19,6,RCB,FR,Vinicius
+423,1,01:27,19,6,PIN,FC,Lucas Dias
+424,1,01:36,19,6,PIN,substituicao_entra,Ted Simões
+425,1,01:36,19,6,PIN,substituicao_entra,Lucas Dias
+426,1,01:36,19,6,PIN,substituicao_sai,Toledo
+427,1,01:36,19,6,PIN,substituicao_sai,Morro
+428,1,01:46,19,6,RCB,RD,Rio Claro
+429,1,01:46,19,6,PIN,3_Pts_T,Jason Smith
+430,1,01:54,19,6,PIN,RD,Morro
+431,1,01:54,19,6,RCB,2_Pts_T,Caio
+432,1,02:10,19,6,RCB,substituicao_sai,Tischer
+433,1,02:10,19,6,RCB,substituicao_entra,Vinicius
+434,1,02:10,19,6,RCB,substituicao_entra,Pastor
+435,1,02:10,19,6,RCB,substituicao_sai,Brown
+436,1,02:10,19,6,RCB,FR,Tatu
+437,1,02:10,19,6,PIN,FC,Jason Smith
+438,1,02:10,19,6,RCB,BR,Tatu
+439,1,02:10,19,6,PIN,ER,Jason Smith
+440,1,02:22,19,6,PIN,BR,Jason Smith
+441,1,02:22,19,6,RCB,ER,Brown
+442,1,02:45,19,6,PIN,3_Pts_C,Jason Smith
+443,1,02:45,16,6,PIN,AS,Joe Smith
+444,1,02:49,16,6,PIN,RO,Morro
+445,1,02:49,16,6,PIN,3_Pts_T,Toledo
+446,1,03:05,16,6,PIN,RD,Morro
+447,1,03:05,16,6,PIN,TO,Morro
+448,1,03:05,16,6,RCB,2_Pts_T,Mosso
+449,1,03:27,16,6,PIN,2_Pts_C,Joe Smith
+450,1,03:37,14,6,PIN,LL_Pts_C,Joe Smith
+451,1,03:37,13,6,RCB,FC_T,Rio Claro
+452,1,03:37,13,6,RCB,ER,Brown
+453,1,03:50,13,6,RCB,tempo_tecnico,Rio Claro
+454,1,03:50,13,6,PIN,2_Pts_C,Felipe
+455,1,03:50,11,6,PIN,AS,Joe Smith
+456,1,03:53,11,6,PIN,BR,Joe Smith
+457,1,03:53,11,6,RCB,ER,Brown
+458,1,03:57,11,6,RCB,RD,Brown
+459,1,03:57,11,6,PIN,3_Pts_T,Jason Smith
+460,1,04:07,11,6,PIN,FR,Joe Smith
+461,1,04:07,11,6,RCB,FC,Brown
+462,1,04:19,11,6,PIN,RD,Joe Smith
+463,1,04:19,11,6,RCB,3_Pts_T,Caio
+464,1,04:23,11,6,RCB,BR,Brown
+465,1,04:23,11,6,PIN,ER,Jason Smith
+466,1,04:39,11,6,PIN,RD,Morro
+467,1,04:39,11,6,RCB,3_Pts_T,Mosso
+468,1,04:47,11,6,RCB,RO,Rio Claro
+469,1,04:47,11,6,RCB,2_Pts_T,Caio
+470,1,04:48,11,6,PIN,substituicao_entra,Jason Smith
+471,1,04:48,11,6,PIN,substituicao_entra,Joe Smith
+472,1,04:48,11,6,PIN,substituicao_sai,Ted Simões
+473,1,04:48,11,6,PIN,substituicao_sai,J Campos
+474,1,04:48,11,6,RCB,FR,Brown
+475,1,04:48,11,6,PIN,FC,Morro
+476,1,05:01,11,6,PIN,2_Pts_C,Ted Simões
+477,1,05:01,9,6,PIN,AS,Morro
+478,1,05:11,9,6,PIN,RD,Felipe
+479,1,05:11,9,6,RCB,2_Pts_T,Brown
+480,1,05:27,9,6,PIN,2_Pts_C,Toledo
+481,1,05:27,7,6,PIN,AS,Felipe
+482,1,05:33,7,6,PIN,RD,Morro
+483,1,05:33,7,6,PIN,TO,Morro
+484,1,05:33,7,6,RCB,3_Pts_T,Tatu
+485,1,05:55,7,6,PIN,3_Pts_C,Felipe
+486,1,05:55,4,6,PIN,AS,Ted Simões
+487,1,06:16,4,6,RCB,ER,Caio
+488,1,06:23,4,6,RCB,RD,Tischer
+489,1,06:23,4,6,PIN,2_Pts_T,Ted Simões
+490,1,06:42,4,6,RCB,2_Pts_C,Brown
+491,1,06:42,4,4,RCB,AS,Tatu
+492,1,06:48,4,4,RCB,RD,Tatu
+493,1,06:48,4,4,PIN,2_Pts_T,Toledo
+494,1,06:52,4,4,PIN,BR,Toledo
+495,1,06:52,4,4,RCB,ER,Brown
+496,1,06:53,4,4,RCB,FR,Brown
+497,1,06:53,4,4,PIN,FC,J Campos
+498,1,07:10,4,4,RCB,RD,Rio Claro
+499,1,07:10,4,4,PIN,3_Pts_T,J Campos
+500,1,07:37,4,4,RCB,2_Pts_C,Brown
+501,1,07:51,4,2,PIN,LL_Pts_C,Felipe
+502,1,07:51,3,2,PIN,LL_Pts_T,Felipe
+503,1,07:51,3,2,RCB,substituicao_entra,Caio
+504,1,07:51,3,2,RCB,substituicao_sai,Duda Machado
+505,1,07:54,3,2,PIN,FR,Felipe
+506,1,07:54,3,2,RCB,FC,Duda Machado
+507,1,07:58,3,2,PIN,BR,Morro
+508,1,07:58,3,2,RCB,ER,Duda Machado
+509,1,08:03,3,2,RCB,RD,Duda Machado
+510,1,08:03,3,2,PIN,2_Pts_T,Felipe
+511,1,08:12,3,2,PIN,FR,Toledo
+512,1,08:12,3,2,RCB,FC,Duda Machado
+513,1,08:38,3,2,RCB,2_Pts_C,Tatu
+514,1,08:42,3,0,RCB,FR,Tischer
+515,1,08:42,3,0,PIN,FC,Felipe
+516,1,08:42,3,0,PIN,2_Pts_T,Felipe
+517,1,08:47,3,0,PIN,RO,Felipe
+518,1,08:47,3,0,PIN,2_Pts_T,Felipe
+519,1,09:05,3,0,PIN,RD,Morro
+520,1,09:05,3,0,RCB,2_Pts_T,Mosso
+521,1,09:12,3,0,RCB,RO,Tischer
+522,1,09:12,3,0,RCB,2_Pts_T,Brown
+523,1,09:20,3,0,RCB,RD,Tatu
+524,1,09:20,3,0,PIN,2_Pts_T,Toledo
+525,1,09:32,3,0,PIN,RD,Morro
+526,1,09:32,3,0,RCB,2_Pts_T,Tischer
+527,1,09:48,3,0,PIN,3_Pts_C,Felipe
+528,1,09:48,0,0,PIN,AS,J Campos
+529,1,10:00,0,0,RCB,substituicao_entra,Tischer
+530,1,10:00,0,0,RCB,substituicao_entra,Brown
+531,1,10:00,0,0,RCB,substituicao_entra,Mosso
+532,1,10:00,0,0,RCB,substituicao_entra,Tatu
+533,1,10:00,0,0,RCB,substituicao_entra,Duda Machado
+534,1,10:00,0,0,PIN,substituicao_entra,Ted Simões
+535,1,10:00,0,0,PIN,substituicao_entra,Felipe
+536,1,10:00,0,0,PIN,substituicao_entra,Toledo
+537,1,10:00,0,0,PIN,substituicao_entra,Morro
+538,1,10:00,0,0,PIN,substituicao_entra,J Campos

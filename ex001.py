@@ -7,7 +7,6 @@ import requests
 from selenium.common.exceptions import NoSuchElementException
 import io
 import re
-import datetime as dt
 
 def get_links_from(teste):
     links = []
@@ -25,8 +24,8 @@ l1 = pd.DataFrame([])
 l2 = pd.DataFrame([])
 
 # essa é a ordem das temporadas
-temporada = 2015
-lista_de_temporadas = [27, 20, 15]
+temporada = 2019
+lista_de_temporadas = [54, 47, 41, 34, 27, 20, 15]
 
 for x in lista_de_temporadas:
     print(f'Temporada {temporada}')

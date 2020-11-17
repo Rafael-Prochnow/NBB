@@ -1,0 +1,528 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,82,78, ,fim_partida,
+1,4,00:00,82,78,MAC,3_Pts_T,Jamaal
+2,4,00:04,82,78,MAC,RD,Torres
+3,4,00:04,82,78,PIN,LL_Pts_T,Rafael Mineiro
+4,4,00:04,82,78,PIN,LL_Pts_T,Rafael Mineiro
+5,4,00:04,82,78,PIN,FR,Rafael Mineiro
+6,4,00:04,82,78,MAC,FC,Fred
+7,4,00:08,82,78,PIN,RD,Rafael Mineiro
+8,4,00:08,82,78,MAC,3_Pts_T,Espinoza
+9,4,00:19,82,78,PIN,LL_Pts_C,Shamell
+10,4,00:19,81,78,PIN,LL_Pts_T,Shamell
+11,4,00:19,81,78,PIN,FR,Shamell
+12,4,00:19,81,78,MAC,FC,Espinoza
+13,4,00:37,81,78,PIN,RD,Morro
+14,4,00:37,81,78,MAC,2_Pts_T,Torres
+15,4,00:37,81,78,MAC,RO,Torres
+16,4,00:37,81,78,PIN,TO,Rafael Mineiro
+17,4,00:37,81,78,MAC,2_Pts_T,Torres
+18,4,00:37,81,78,MAC,RO,Torres
+19,4,00:37,81,78,MAC,2_Pts_T,Torres
+20,4,00:55,81,78,MAC,RD,Torres
+21,4,00:55,81,78,PIN,LL_Pts_T,Joe Smith
+22,4,00:55,81,78,PIN,LL_Pts_T,Joe Smith
+23,4,00:55,81,78,PIN,FR,Joe Smith
+24,4,00:55,81,78,MAC,FC,Jamaal
+25,4,01:14,81,78,PIN,BR,Pinheiros
+26,4,01:14,81,78,MAC,ER,Jamaal
+27,4,01:31,81,78,MAC,substituicao_entra,Fred
+28,4,01:31,81,78,MAC,substituicao_sai,Márcio
+29,4,01:31,81,78,MAC,tempo_tecnico,Macaé
+30,4,01:31,81,78,PIN,ER,Joe Smith
+31,4,01:50,81,78,PIN,BR,Jonathan
+32,4,01:50,81,78,MAC,ER,Duda Machado
+33,4,02:04,81,78,MAC,RD,Espinoza
+34,4,02:04,81,78,PIN,2_Pts_T,Jonathan
+35,4,02:22,81,78,PIN,RD,Morro
+36,4,02:22,81,78,MAC,3_Pts_T,Márcio
+37,4,02:37,81,78,PIN,LL_Pts_C,Morro
+38,4,02:37,80,78,MAC,substituicao_sai,Atilio
+39,4,02:37,80,78,MAC,substituicao_entra,Torres
+40,4,02:37,80,78,PIN,FR,Morro
+41,4,02:37,80,78,MAC,FC,Espinoza
+42,4,02:37,80,78,PIN,2_Pts_C,Morro
+43,4,02:47,78,78,PIN,RO,Pinheiros
+44,4,02:47,78,78,PIN,2_Pts_T,Shamell
+45,4,03:14,78,78,MAC,3_Pts_C,Márcio
+46,4,03:14,78,75,MAC,AS,Jamaal
+47,4,03:33,78,75,PIN,LL_Pts_C,Shamell
+48,4,03:33,77,75,PIN,FR,Shamell
+49,4,03:33,77,75,MAC,FC,Márcio
+50,4,03:33,77,75,PIN,2_Pts_C,Shamell
+51,4,03:50,75,75,PIN,RD,Pinheiros
+52,4,03:50,75,75,MAC,3_Pts_T,Duda Machado
+53,4,04:03,75,75,MAC,RD,Márcio
+54,4,04:03,75,75,PIN,3_Pts_T,Joe Smith
+55,4,04:22,75,75,MAC,2_Pts_C,Duda Machado
+56,4,04:22,75,73,MAC,AS,Jamaal
+57,4,04:35,75,73,MAC,substituicao_entra,Márcio
+58,4,04:35,75,73,MAC,substituicao_sai,Crucillo
+59,4,04:35,75,73,MAC,FR,Jamaal
+60,4,04:35,75,73,PIN,FC,Shamell
+61,4,04:35,75,73,MAC,RD,Jamaal
+62,4,04:35,75,73,PIN,2_Pts_T,Shamell
+63,4,04:43,75,73,PIN,RD,Joe Smith
+64,4,04:43,75,73,PIN,TO,Shamell
+65,4,04:43,75,73,MAC,2_Pts_T,Crucillo
+66,4,05:07,75,73,MAC,FR,Duda Machado
+67,4,05:07,75,73,PIN,FC,Jonathan
+68,4,05:08,75,73,PIN,LL_Pts_C,Shamell
+69,4,05:08,74,73,MAC,substituicao_sai,Romario
+70,4,05:08,74,73,MAC,substituicao_entra,Espinoza
+71,4,05:08,74,73,PIN,FR,Shamell
+72,4,05:08,74,73,MAC,FC,Jamaal
+73,4,05:08,74,73,PIN,2_Pts_C,Shamell
+74,4,05:08,72,73,PIN,RO,Shamell
+75,4,05:08,72,73,PIN,2_Pts_T,Rafael Mineiro
+76,4,05:30,72,73,MAC,3_Pts_C,Jamaal
+77,4,05:46,72,70,PIN,2_Pts_C,Shamell
+78,4,06:02,70,70,MAC,2_Pts_C,Romario
+79,4,06:02,70,68,MAC,AS,Duda Machado
+80,4,06:12,70,68,PIN,3_Pts_C,Joe Smith
+81,4,06:27,67,68,PIN,RD,Pinheiros
+82,4,06:27,67,68,MAC,2_Pts_T,Romario
+83,4,06:29,67,68,MAC,RD,Atilio
+84,4,06:29,67,68,PIN,2_Pts_T,Morro
+85,4,06:48,67,68,PIN,RO,Jonathan
+86,4,06:48,67,68,MAC,TO,Romario
+87,4,06:48,67,68,PIN,2_Pts_T,Jonathan
+88,4,06:54,67,68,PIN,RO,Jonathan
+89,4,06:54,67,68,PIN,3_Pts_T,Rafael Mineiro
+90,4,07:06,67,68,PIN,FR,Shamell
+91,4,07:06,67,68,MAC,FC,Atilio
+92,4,07:06,67,68,PIN,substituicao_sai,Bambu
+93,4,07:06,67,68,PIN,substituicao_entra,Morro
+94,4,07:19,67,68,MAC,2_Pts_C,Jamaal
+95,4,07:24,67,66,MAC,BR,Romario
+96,4,07:24,67,66,PIN,ER,Jonathan
+97,4,07:31,67,66,PIN,RO,Jonathan
+98,4,07:31,67,66,PIN,3_Pts_T,Rafael Mineiro
+99,4,07:49,67,66,MAC,2_Pts_C,Romario
+100,4,07:49,67,64,MAC,AS,Duda Machado
+101,4,08:00,67,64,MAC,BR,Macaé
+102,4,08:00,67,64,PIN,ER,Bambu
+103,4,08:13,67,64,PIN,tempo_tecnico,Pinheiros
+104,4,08:13,67,64,PIN,FR,Rafael Mineiro
+105,4,08:13,67,64,MAC,FC,Atilio
+106,4,08:13,67,64,PIN,3_Pts_T,Shamell
+107,4,08:25,67,64,PIN,FR,Shamell
+108,4,08:25,67,64,MAC,FC,Crucillo
+109,4,08:38,67,64,MAC,LL_Pts_C,Jamaal
+110,4,08:38,67,63,MAC,2_Pts_C,Jamaal
+111,4,08:38,67,61,MAC,FR,Jamaal
+112,4,08:38,67,61,PIN,FC,Joe Smith
+113,4,08:42,67,61,MAC,BR,Romario
+114,4,08:42,67,61,PIN,ER,Joe Smith
+115,4,08:58,67,61,MAC,2_Pts_C,Jamaal
+116,4,09:08,67,59,MAC,RO,Jamaal
+117,4,09:08,67,59,MAC,3_Pts_T,Crucillo
+118,4,09:17,67,59,PIN,substituicao_sai,Humberto
+119,4,09:17,67,59,PIN,substituicao_entra,Joe Smith
+120,4,09:17,67,59,MAC,FR,Jamaal
+121,4,09:17,67,59,PIN,FC,Humberto
+122,4,09:17,67,59,MAC,BR,Jamaal
+123,4,09:17,67,59,PIN,ER,Humberto
+124,4,09:21,67,59,PIN,BR,Humberto
+125,4,09:21,67,59,MAC,ER,Romario
+126,4,09:31,67,59,MAC,BR,Duda Machado
+127,4,09:31,67,59,PIN,ER,Humberto
+128,4,09:47,67,59,MAC,2_Pts_C,Jamaal
+129,3,00:00,67,57, ,fim_quarto,
+130,3,00:00,67,57, ,fim_quarto,
+131,3,00:18,67,57,PIN,2_Pts_C,Shamell
+132,3,00:21,65,57,MAC,substituicao_sai,Duda Machado
+133,3,00:21,65,57,MAC,substituicao_entra,João
+134,3,00:26,65,57,MAC,substituicao_sai,Atilio
+135,3,00:26,65,57,MAC,substituicao_entra,Crucillo
+136,3,00:26,65,57,MAC,substituicao_sai,Márcio
+137,3,00:26,65,57,MAC,substituicao_entra,Will
+138,3,00:26,65,57,PIN,substituicao_entra,Joe Smith
+139,3,00:26,65,57,PIN,substituicao_sai,Humberto
+140,3,00:26,65,57,MAC,LL_Pts_C,Atilio
+141,3,00:26,65,56,MAC,LL_Pts_T,Atilio
+142,3,00:26,65,56,MAC,FR,Atilio
+143,3,00:26,65,56,PIN,FC,Bambu
+144,3,00:28,65,56,MAC,RD,Atilio
+145,3,00:28,65,56,PIN,2_Pts_T,Shamell
+146,3,00:50,65,56,MAC,LL_Pts_C,Jamaal
+147,3,00:50,65,55,MAC,LL_Pts_C,Jamaal
+148,3,00:50,65,54,PIN,substituicao_sai,Morro
+149,3,00:50,65,54,PIN,substituicao_entra,Bambu
+150,3,00:50,65,54,MAC,FR,Jamaal
+151,3,00:50,65,54,PIN,FC,Jonathan
+152,3,01:03,65,54,MAC,RD,Atilio
+153,3,01:03,65,54,PIN,2_Pts_T,Jonathan
+154,3,01:16,65,54,PIN,RD,Shamell
+155,3,01:16,65,54,MAC,2_Pts_T,Romario
+156,3,01:39,65,54,MAC,RO,Márcio
+157,3,01:39,65,54,MAC,2_Pts_T,Atilio
+158,3,01:58,65,54,MAC,BR,Márcio
+159,3,01:58,65,54,PIN,ER,Humberto
+160,3,02:05,65,54,MAC,2_Pts_C,Atilio
+161,3,02:16,65,52,MAC,RO,Atilio
+162,3,02:16,65,52,PIN,TO,Rafael Mineiro
+163,3,02:16,65,52,MAC,2_Pts_T,Romario
+164,3,02:35,65,52,PIN,2_Pts_C,Shamell
+165,3,02:53,63,52,PIN,BR,Jonathan
+166,3,02:53,63,52,MAC,ER,Jamaal
+167,3,03:00,63,52,MAC,RD,Duda Machado
+168,3,03:00,63,52,PIN,2_Pts_T,Morro
+169,3,03:21,63,52,MAC,2_Pts_C,Atilio
+170,3,03:23,63,50,MAC,RD,Atilio
+171,3,03:23,63,50,PIN,LL_Pts_T,Shamell
+172,3,03:23,63,50,PIN,LL_Pts_C,Shamell
+173,3,03:23,62,50,MAC,substituicao_entra,Márcio
+174,3,03:23,62,50,MAC,substituicao_entra,Jamaal
+175,3,03:23,62,50,MAC,substituicao_sai,João
+176,3,03:23,62,50,MAC,substituicao_sai,Fred
+177,3,03:23,62,50,PIN,substituicao_sai,Joe Smith
+178,3,03:23,62,50,PIN,substituicao_entra,Humberto
+179,3,03:23,62,50,PIN,FR,Shamell
+180,3,03:23,62,50,MAC,FC,Romario
+181,3,03:32,62,50,PIN,BR,Pinheiros
+182,3,03:32,62,50,MAC,ER,Fred
+183,3,03:49,62,50,MAC,RD,Atilio
+184,3,03:49,62,50,PIN,LL_Pts_T,Rafael Mineiro
+185,3,03:49,62,50,MAC,substituicao_entra,Romario
+186,3,03:49,62,50,MAC,substituicao_sai,Espinoza
+187,3,03:49,62,50,MAC,tempo_tecnico,Macaé
+188,3,03:49,62,50,PIN,FR,Rafael Mineiro
+189,3,03:49,62,50,MAC,FC,João
+190,3,03:49,62,50,PIN,2_Pts_C,Rafael Mineiro
+191,3,03:49,60,50,PIN,AS,Morro
+192,3,04:03,60,50,PIN,RD,Joe Smith
+193,3,04:03,60,50,MAC,2_Pts_T,Atilio
+194,3,04:10,60,50,PIN,LL_Pts_C,Morro
+195,3,04:10,59,50,PIN,AS,Jonathan
+196,3,04:10,59,50,PIN,LL_Pts_C,Morro
+197,3,04:10,58,50,MAC,substituicao_sai,Márcio
+198,3,04:10,58,50,MAC,substituicao_entra,João
+199,3,04:10,58,50,PIN,FR,Morro
+200,3,04:10,58,50,MAC,FC,Espinoza
+201,3,04:26,58,50,MAC,3_Pts_C,Duda Machado
+202,3,04:48,58,47,PIN,3_Pts_C,Joe Smith
+203,3,04:48,55,47,PIN,AS,Shamell
+204,3,04:53,55,47,PIN,RD,Shamell
+205,3,04:53,55,47,MAC,3_Pts_T,Márcio
+206,3,05:07,55,47,MAC,FR,Atilio
+207,3,05:07,55,47,PIN,FC,Shamell
+208,3,05:09,55,47,MAC,RD,Atilio
+209,3,05:09,55,47,PIN,2_Pts_T,Shamell
+210,3,05:26,55,47,PIN,RD,Morro
+211,3,05:26,55,47,MAC,3_Pts_T,Duda Machado
+212,3,05:35,55,47,MAC,substituicao_sai,Torres
+213,3,05:35,55,47,MAC,substituicao_entra,Atilio
+214,3,05:35,55,47,PIN,ER,Morro
+215,3,05:56,55,47,MAC,3_Pts_C,Duda Machado
+216,3,05:56,55,44,MAC,AS,Fred
+217,3,06:03,55,44,PIN,,
+218,3,06:08,55,44,PIN,RD,Rafael Mineiro
+219,3,06:08,55,44,PIN,TO,Morro
+220,3,06:08,55,44,MAC,2_Pts_T,Duda Machado
+221,3,06:33,55,44,PIN,3_Pts_C,Joe Smith
+222,3,06:37,52,44,PIN,BR,Morro
+223,3,06:37,52,44,MAC,ER,Duda Machado
+224,3,06:39,52,44,MAC,FR,Fred
+225,3,06:39,52,44,PIN,FC,Joe Smith
+226,3,06:54,52,44,MAC,RD,Espinoza
+227,3,06:54,52,44,PIN,3_Pts_T,Shamell
+228,3,07:12,52,44,PIN,RD,Jonathan
+229,3,07:12,52,44,MAC,3_Pts_T,Duda Machado
+230,3,07:22,52,44,MAC,FR,Duda Machado
+231,3,07:22,52,44,PIN,FC,Joe Smith
+232,3,07:28,52,44,MAC,RD,Espinoza
+233,3,07:28,52,44,PIN,3_Pts_T,Rafael Mineiro
+234,3,07:43,52,44,MAC,AS,Fred
+235,3,07:43,52,44,MAC,LL_Pts_C,Torres
+236,3,07:43,52,43,MAC,LL_Pts_T,Torres
+237,3,07:43,52,43,MAC,FR,Torres
+238,3,07:43,52,43,PIN,FC,Joe Smith
+239,3,07:55,52,43,PIN,2_Pts_C,Joe Smith
+240,3,08:09,50,43,MAC,2_Pts_C,Torres
+241,3,08:14,50,41,MAC,RO,Torres
+242,3,08:14,50,41,MAC,2_Pts_T,Fred
+243,3,08:38,50,41,PIN,2_Pts_C,Shamell
+244,3,08:52,48,41,PIN,FR,Jonathan
+245,3,08:52,48,41,MAC,FC_O,Márcio
+246,3,09:08,48,41,PIN,3_Pts_C,Jonathan
+247,3,09:08,45,41,PIN,AS,Joe Smith
+248,3,09:18,45,41,PIN,BR,Shamell
+249,3,09:18,45,41,MAC,ER,Espinoza
+250,3,09:23,45,41,MAC,BR,Espinoza
+251,3,09:23,45,41,PIN,ER,Rafael Mineiro
+252,3,09:35,45,41,MAC,2_Pts_C,Márcio
+253,3,09:52,45,39,MAC,RD,Espinoza
+254,3,09:52,45,39,PIN,LL_Pts_T,Morro
+255,3,09:52,45,39,PIN,FR,Morro
+256,3,09:52,45,39,MAC,FC,Torres
+257,3,09:52,45,39,PIN,2_Pts_C,Morro
+258,2,00:00,43,39, ,fim_quarto,
+259,2,00:00,43,39, ,fim_quarto,
+260,2,00:01,43,39,PIN,2_Pts_T,Joe Smith
+261,2,00:05,43,39,MAC,substituicao_entra,Crucillo
+262,2,00:05,43,39,MAC,substituicao_sai,Duda Machado
+263,2,00:05,43,39,PIN,tempo_tecnico,Pinheiros
+264,2,00:05,43,39,MAC,LL_Pts_C,Duda Machado
+265,2,00:05,43,38,MAC,LL_Pts_C,Duda Machado
+266,2,00:05,43,37,MAC,substituicao_sai,Márcio
+267,2,00:05,43,37,MAC,substituicao_entra,Will
+268,2,00:05,43,37,MAC,substituicao_sai,Torres
+269,2,00:05,43,37,MAC,substituicao_entra,João
+270,2,00:05,43,37,PIN,substituicao_sai,Lucas Dias
+271,2,00:05,43,37,PIN,substituicao_entra,Morro
+272,2,00:05,43,37,PIN,substituicao_sai,Humberto
+273,2,00:05,43,37,PIN,substituicao_entra,Joe Smith
+274,2,00:05,43,37,MAC,FR,Duda Machado
+275,2,00:05,43,37,PIN,FC,Lucas Dias
+276,2,00:13,43,37,MAC,substituicao_entra,Torres
+277,2,00:13,43,37,MAC,substituicao_sai,Atilio
+278,2,00:13,43,37,PIN,substituicao_entra,Humberto
+279,2,00:13,43,37,PIN,substituicao_sai,Morro
+280,2,00:13,43,37,PIN,substituicao_entra,Lucas Dias
+281,2,00:13,43,37,PIN,substituicao_sai,Joe Smith
+282,2,00:13,43,37,MAC,tempo_tecnico,Macaé
+283,2,00:13,43,37,PIN,3_Pts_C,Shamell
+284,2,00:13,40,37,PIN,AS,Joe Smith
+285,2,00:33,40,37,PIN,substituicao_sai,Bambu
+286,2,00:33,40,37,PIN,substituicao_entra,Rafael Mineiro
+287,2,00:33,40,37,PIN,substituicao_entra,Shamell
+288,2,00:33,40,37,PIN,substituicao_sai,Lucas Dias
+289,2,00:33,40,37,PIN,substituicao_entra,Jonathan
+290,2,00:33,40,37,PIN,substituicao_sai,Humberto
+291,2,00:33,40,37,PIN,tempo_tecnico,Pinheiros
+292,2,00:33,40,37,MAC,2_Pts_C,Duda Machado
+293,2,00:39,40,35,MAC,RD,Espinoza
+294,2,00:39,40,35,PIN,3_Pts_T,Humberto
+295,2,00:45,40,35,PIN,RO,Lucas Dias
+296,2,00:45,40,35,PIN,3_Pts_T,Lucas Dias
+297,2,01:00,40,35,MAC,LL_Pts_C,Fred
+298,2,01:00,40,34,MAC,LL_Pts_C,Fred
+299,2,01:00,40,33,MAC,FR,Fred
+300,2,01:00,40,33,PIN,FC,Lucas Dias
+301,2,01:12,40,33,PIN,LL_Pts_C,Bambu
+302,2,01:12,39,33,PIN,LL_Pts_T,Bambu
+303,2,01:12,39,33,MAC,substituicao_entra,Espinoza
+304,2,01:12,39,33,MAC,substituicao_sai,João
+305,2,01:12,39,33,PIN,substituicao_sai,Wesley
+306,2,01:12,39,33,PIN,substituicao_entra,Morro
+307,2,01:12,39,33,MAC,substituicao_sai,Torres
+308,2,01:12,39,33,MAC,substituicao_entra,Atilio
+309,2,01:12,39,33,PIN,FR,Bambu
+310,2,01:12,39,33,MAC,FC,Torres
+311,2,01:33,39,33,MAC,2_Pts_C,Torres
+312,2,01:44,39,31,PIN,2_Pts_C,Bambu
+313,2,01:44,37,31,PIN,AS,Humberto
+314,2,01:59,37,31,MAC,3_Pts_C,Márcio
+315,2,01:59,37,28,MAC,AS,João
+316,2,02:14,37,28,MAC,RD,Márcio
+317,2,02:14,37,28,PIN,3_Pts_T,Joe Smith
+318,2,02:28,37,28,PIN,substituicao_sai,Shamell
+319,2,02:28,37,28,PIN,substituicao_entra,Joe Smith
+320,2,02:28,37,28,PIN,BR,Pinheiros
+321,2,02:28,37,28,MAC,ER,Torres
+322,2,02:41,37,28,PIN,substituicao_sai,Rafael Mineiro
+323,2,02:41,37,28,PIN,substituicao_entra,Wesley
+324,2,02:41,37,28,MAC,RD,Márcio
+325,2,02:41,37,28,PIN,2_Pts_T,Bambu
+326,2,02:57,37,28,PIN,RD,Humberto
+327,2,02:57,37,28,MAC,3_Pts_T,João
+328,2,03:14,37,28,PIN,3_Pts_C,Humberto
+329,2,03:14,34,28,PIN,AS,Shamell
+330,2,03:40,34,28,MAC,EN,Torres
+331,2,03:40,34,26,MAC,AS,Duda Machado
+332,2,03:52,34,26,MAC,RD,Torres
+333,2,03:52,34,26,PIN,LL_Pts_T,Rafael Mineiro
+334,2,03:52,34,26,PIN,LL_Pts_T,Rafael Mineiro
+335,2,03:52,34,26,PIN,FR,Rafael Mineiro
+336,2,03:52,34,26,MAC,FC,Torres
+337,2,04:13,34,26,MAC,2_Pts_C,Fred
+338,2,04:32,34,24,MAC,RD,Duda Machado
+339,2,04:32,34,24,PIN,2_Pts_T,Humberto
+340,2,04:53,34,24,MAC,LL_Pts_C,Torres
+341,2,04:53,34,23,MAC,LL_Pts_T,Torres
+342,2,04:53,34,23,PIN,substituicao_sai,Morro
+343,2,04:53,34,23,PIN,substituicao_entra,Bambu
+344,2,04:53,34,23,MAC,FR,Torres
+345,2,04:53,34,23,PIN,FC,Morro
+346,2,04:56,34,23,MAC,RO,Torres
+347,2,04:56,34,23,MAC,2_Pts_T,Márcio
+348,2,05:05,34,23,MAC,RD,Fred
+349,2,05:05,34,23,PIN,2_Pts_T,Morro
+350,2,05:26,34,23,PIN,RD,Morro
+351,2,05:26,34,23,MAC,3_Pts_T,João
+352,2,05:45,34,23,MAC,FR,Fred
+353,2,05:45,34,23,PIN,FC,Humberto
+354,2,05:53,34,23,PIN,2_Pts_C,Rafael Mineiro
+355,2,06:05,32,23,MAC,substituicao_sai,Will
+356,2,06:05,32,23,MAC,substituicao_entra,Duda Machado
+357,2,06:05,32,23,MAC,substituicao_sai,Espinoza
+358,2,06:05,32,23,MAC,substituicao_entra,Márcio
+359,2,06:05,32,23,MAC,2_Pts_C,Torres
+360,2,06:05,32,21,MAC,RO,Torres
+361,2,06:05,32,21,MAC,3_Pts_T,Fred
+362,2,06:20,32,21,PIN,substituicao_sai,Joe Smith
+363,2,06:20,32,21,PIN,substituicao_entra,Humberto
+364,2,06:20,32,21,MAC,FR,Torres
+365,2,06:20,32,21,PIN,FC,Morro
+366,2,06:34,32,21,PIN,2_Pts_C,Rafael Mineiro
+367,2,06:53,30,21,PIN,RD,Shamell
+368,2,06:53,30,21,MAC,2_Pts_T,Fred
+369,2,07:14,30,21,MAC,RD,Espinoza
+370,2,07:14,30,21,PIN,LL_Pts_T,Shamell
+371,2,07:14,30,21,PIN,LL_Pts_T,Shamell
+372,2,07:14,30,21,PIN,FR,Shamell
+373,2,07:14,30,21,MAC,FC,Will
+374,2,07:27,30,21,MAC,LL_Pts_C,Fred
+375,2,07:27,30,20,MAC,LL_Pts_C,Fred
+376,2,07:27,30,19,PIN,substituicao_entra,Morro
+377,2,07:27,30,19,PIN,substituicao_sai,Jonathan
+378,2,07:27,30,19,MAC,FR,Fred
+379,2,07:27,30,19,PIN,FC,Lucas Dias
+380,2,07:34,30,19,MAC,RO,Macaé
+381,2,07:34,30,19,MAC,2_Pts_T,Torres
+382,2,07:48,30,19,PIN,2_Pts_C,Jonathan
+383,2,07:54,28,19,PIN,FR,Lucas Dias
+384,2,07:54,28,19,MAC,FC,Will
+385,2,08:09,28,19,MAC,substituicao_sai,Márcio
+386,2,08:09,28,19,MAC,substituicao_entra,Espinoza
+387,2,08:09,28,19,MAC,LL_Pts_C,Márcio
+388,2,08:09,28,18,MAC,LL_Pts_T,Márcio
+389,2,08:09,28,18,MAC,substituicao_sai,Romario
+390,2,08:09,28,18,MAC,substituicao_entra,Torres
+391,2,08:09,28,18,PIN,substituicao_entra,Lucas Dias
+392,2,08:09,28,18,PIN,substituicao_sai,Bambu
+393,2,08:09,28,18,MAC,FR,Márcio
+394,2,08:09,28,18,PIN,FC,Jonathan
+395,2,08:32,28,18,PIN,2_Pts_C,Rafael Mineiro
+396,2,08:32,26,18,PIN,AS,Bambu
+397,2,08:44,26,18,MAC,2_Pts_C,Romario
+398,2,08:44,26,16,MAC,AS,Fred
+399,2,08:56,26,16,MAC,RD,João
+400,2,08:56,26,16,PIN,3_Pts_T,Joe Smith
+401,2,09:12,26,16,PIN,BR,Jonathan
+402,2,09:12,26,16,MAC,ER,Romario
+403,2,09:24,26,16,MAC,RO,Fred
+404,2,09:24,26,16,MAC,2_Pts_T,João
+405,2,09:34,26,16,PIN,2_Pts_C,Jonathan
+406,2,09:50,24,16,PIN,BR,Bambu
+407,2,09:50,24,16,MAC,ER,Fred
+408,1,00:00,24,16, ,fim_quarto,
+409,1,00:00,24,16, ,fim_quarto,
+410,1,00:07,24,16,MAC,3_Pts_C,João
+411,1,00:07,24,13,MAC,AS,Fred
+412,1,00:27,24,13,MAC,RD,Fred
+413,1,00:27,24,13,PIN,2_Pts_T,Bambu
+414,1,00:42,24,13,MAC,substituicao_sai,Duda Machado
+415,1,00:42,24,13,MAC,substituicao_entra,Will
+416,1,00:42,24,13,PIN,FR,Joe Smith
+417,1,00:42,24,13,MAC,FC,Fred
+418,1,00:52,24,13,PIN,RD,Rafael Mineiro
+419,1,00:52,24,13,MAC,2_Pts_T,Duda Machado
+420,1,01:02,24,13,PIN,3_Pts_C,Joe Smith
+421,1,01:02,21,13,PIN,AS,Shamell
+422,1,01:08,21,13,PIN,RO,Shamell
+423,1,01:08,21,13,PIN,3_Pts_T,Jonathan
+424,1,01:26,21,13,MAC,2_Pts_C,Romario
+425,1,01:35,21,11,MAC,substituicao_sai,Jamaal
+426,1,01:35,21,11,MAC,substituicao_entra,Fred
+427,1,01:35,21,11,MAC,substituicao_sai,Torres
+428,1,01:35,21,11,MAC,substituicao_entra,João
+429,1,01:35,21,11,MAC,FR,Romario
+430,1,01:35,21,11,PIN,FC,Bambu
+431,1,01:56,21,11,PIN,3_Pts_C,Rafael Mineiro
+432,1,01:56,18,11,PIN,AS,Joe Smith
+433,1,01:57,18,11,PIN,RO,Joe Smith
+434,1,01:57,18,11,PIN,2_Pts_T,Bambu
+435,1,02:18,18,11,PIN,RD,Shamell
+436,1,02:18,18,11,MAC,3_Pts_T,Duda Machado
+437,1,02:36,18,11,MAC,RD,Jamaal
+438,1,02:36,18,11,PIN,3_Pts_T,Shamell
+439,1,02:44,18,11,PIN,RO,Pinheiros
+440,1,02:44,18,11,MAC,TO,Torres
+441,1,02:44,18,11,PIN,2_Pts_T,Rafael Mineiro
+442,1,03:01,18,11,MAC,2_Pts_C,Romario
+443,1,03:01,18,9,MAC,AS,Torres
+444,1,03:16,18,9,PIN,substituicao_sai,Morro
+445,1,03:16,18,9,PIN,substituicao_entra,Bambu
+446,1,03:16,18,9,PIN,substituicao_sai,Bruno Mortari
+447,1,03:16,18,9,PIN,substituicao_entra,Morro
+448,1,03:16,18,9,PIN,substituicao_entra,Bruno Mortari
+449,1,03:16,18,9,PIN,substituicao_sai,Morro
+450,1,03:16,18,9,MAC,tempo_tecnico,Macaé
+451,1,03:16,18,9,PIN,2_Pts_C,Jonathan
+452,1,03:16,16,9,PIN,AS,Joe Smith
+453,1,03:20,16,9,PIN,BR,Jonathan
+454,1,03:20,16,9,MAC,ER,Romario
+455,1,03:42,16,9,PIN,3_Pts_C,Shamell
+456,1,03:42,13,9,PIN,AS,Joe Smith
+457,1,03:49,13,9,MAC,substituicao_sai,Espinoza
+458,1,03:49,13,9,MAC,substituicao_entra,Romario
+459,1,03:49,13,9,PIN,FR,Shamell
+460,1,03:49,13,9,MAC,FC,Márcio
+461,1,03:54,13,9,PIN,BR,Jonathan
+462,1,03:54,13,9,MAC,ER,Espinoza
+463,1,04:10,13,9,MAC,RD,Macaé
+464,1,04:10,13,9,PIN,2_Pts_T,Joe Smith
+465,1,04:26,13,9,MAC,2_Pts_C,Torres
+466,1,04:26,13,7,MAC,AS,Jamaal
+467,1,04:39,13,7,PIN,3_Pts_C,Jonathan
+468,1,04:39,10,7,PIN,AS,Shamell
+469,1,04:46,10,7,PIN,BR,Joe Smith
+470,1,04:46,10,7,MAC,ER,Duda Machado
+471,1,05:04,10,7,MAC,RD,Torres
+472,1,05:04,10,7,PIN,2_Pts_T,Rafael Mineiro
+473,1,05:23,10,7,PIN,RO,Morro
+474,1,05:23,10,7,PIN,2_Pts_T,Rafael Mineiro
+475,1,05:38,10,7,MAC,2_Pts_C,Duda Machado
+476,1,05:51,10,5,MAC,FR,Jamaal
+477,1,05:51,10,5,PIN,FC,Rafael Mineiro
+478,1,05:58,10,5,MAC,RD,Espinoza
+479,1,05:58,10,5,PIN,3_Pts_T,Shamell
+480,1,06:07,10,5,PIN,RD,Shamell
+481,1,06:07,10,5,PIN,TO,Morro
+482,1,06:07,10,5,MAC,2_Pts_T,Espinoza
+483,1,06:23,10,5,MAC,FR,Torres
+484,1,06:23,10,5,PIN,FC,Jonathan
+485,1,06:37,10,5,PIN,LL_Pts_C,Rafael Mineiro
+486,1,06:37,9,5,PIN,FR,Rafael Mineiro
+487,1,06:37,9,5,MAC,FC,Espinoza
+488,1,06:37,9,5,PIN,2_Pts_C,Rafael Mineiro
+489,1,06:51,7,5,PIN,RD,Pinheiros
+490,1,06:51,7,5,MAC,3_Pts_T,Espinoza
+491,1,06:56,7,5,MAC,BR,Espinoza
+492,1,06:56,7,5,PIN,ER,Morro
+493,1,07:17,7,5,PIN,RD,Jonathan
+494,1,07:17,7,5,MAC,2_Pts_T,Márcio
+495,1,07:26,7,5,MAC,RD,Jamaal
+496,1,07:26,7,5,PIN,2_Pts_T,Joe Smith
+497,1,07:51,7,5,PIN,RD,Rafael Mineiro
+498,1,07:51,7,5,MAC,2_Pts_T,Jamaal
+499,1,07:57,7,5,MAC,RD,Torres
+500,1,07:57,7,5,PIN,3_Pts_T,Rafael Mineiro
+501,1,08:18,7,5,MAC,2_Pts_C,Torres
+502,1,08:18,7,3,MAC,AS,Duda Machado
+503,1,08:36,7,3,PIN,2_Pts_C,Joe Smith
+504,1,08:36,5,3,PIN,AS,Rafael Mineiro
+505,1,08:39,5,3,PIN,FR,Rafael Mineiro
+506,1,08:39,5,3,MAC,FC,Jamaal
+507,1,08:41,5,3,PIN,RO,Rafael Mineiro
+508,1,08:41,5,3,PIN,2_Pts_T,Morro
+509,1,09:02,5,3,MAC,3_Pts_C,Espinoza
+510,1,09:02,5,0,MAC,AS,Márcio
+511,1,09:13,5,0,PIN,3_Pts_C,Jonathan
+512,1,09:13,2,0,PIN,AS,Joe Smith
+513,1,09:17,2,0,PIN,BR,Morro
+514,1,09:17,2,0,MAC,ER,Márcio
+515,1,09:42,2,0,PIN,2_Pts_C,Jonathan
+516,1,09:42,0,0,PIN,AS,Morro
+517,1,10:00,0,0,MAC,substituicao_entra,Espinoza
+518,1,10:00,0,0,MAC,substituicao_entra,Torres
+519,1,10:00,0,0,MAC,substituicao_entra,Márcio
+520,1,10:00,0,0,MAC,substituicao_entra,Jamaal
+521,1,10:00,0,0,MAC,substituicao_entra,Duda Machado
+522,1,10:00,0,0,PIN,substituicao_entra,Jonathan
+523,1,10:00,0,0,PIN,substituicao_entra,Shamell
+524,1,10:00,0,0,PIN,substituicao_entra,Rafael Mineiro
+525,1,10:00,0,0,PIN,substituicao_entra,Joe Smith
+526,1,10:00,0,0,PIN,substituicao_entra,Morro

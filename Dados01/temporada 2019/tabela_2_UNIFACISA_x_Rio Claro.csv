@@ -1,0 +1,576 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,101,86,,fim_partida,
+1,4,00:00,101,86,,fim_quarto,
+2,4,00:01,101,86,UFC,RD,Gemerson
+3,4,00:03,101,86,RCB,2_Pts_T,Thiaguinho
+4,4,00:08,101,86,RCB,RD,Ansaloni
+5,4,00:13,101,86,UFC,2_Pts_T,Antonio
+6,4,00:36,101,86,UFC,RD,Gabriel
+7,4,00:36,101,86,RCB,LL_Pts_T,Ansaloni
+8,4,00:36,101,86,RCB,LL_Pts_C,Ansaloni
+9,4,00:36,101,85,RCB,substituicao_entra,Lelê
+10,4,00:36,101,85,RCB,substituicao_sai,Pedro
+11,4,00:36,101,85,UFC,substituicao_entra,Pepo Vidal
+12,4,00:36,101,85,UFC,substituicao_sai,Gemadinha
+13,4,00:36,101,85,RCB,FR,Ansaloni
+14,4,00:36,101,85,UFC,FC,Spencer
+15,4,00:48,101,85,UFC,substituicao_entra,Gemerson
+16,4,00:48,101,85,UFC,substituicao_sai,João Vitor
+17,4,00:48,101,85,UFC,LL_Pts_C,João Vitor
+18,4,00:48,100,85,UFC,substituicao_entra,Gabriel
+19,4,00:48,100,85,UFC,substituicao_sai,Barnes
+20,4,00:48,100,85,UFC,FR,João Vitor
+21,4,00:48,100,85,RCB,FC,Ansaloni
+22,4,00:48,100,85,UFC,2_Pts_C,João Vitor
+23,4,01:01,98,85,UFC,RD,Gemadinha
+24,4,01:05,98,85,RCB,3_Pts_T,Lucious
+25,4,01:10,98,85,RCB,RD,Ansaloni
+26,4,01:14,98,85,UFC,3_Pts_T,Spencer
+27,4,01:25,98,85,RCB,AS,Ansaloni
+28,4,01:25,98,85,RCB,2_Pts_C,Pedro
+29,4,01:48,98,83,UFC,LL_Pts_C,Spencer
+30,4,01:48,97,83,UFC,LL_Pts_T,Spencer
+31,4,01:48,97,83,UFC,tempo_tecnico,
+32,4,01:48,97,83,UFC,FR,Spencer
+33,4,01:48,97,83,RCB,FC,Thiaguinho
+34,4,01:48,97,83,UFC,RD,João Vitor
+35,4,01:50,97,83,RCB,3_Pts_T,Thiaguinho
+36,4,01:57,97,83,RCB,BR,Lucious
+37,4,01:57,97,83,UFC,ER,Antonio
+38,4,02:14,97,83,RCB,AS,Pedro
+39,4,02:14,97,83,RCB,3_Pts_C,Ansaloni
+40,4,02:30,97,80,UFC,substituicao_entra,Antonio
+41,4,02:30,97,80,UFC,substituicao_sai,Gemerson
+42,4,02:30,97,80,UFC,LL_Pts_C,Barnes
+43,4,02:30,96,80,UFC,LL_Pts_T,Barnes
+44,4,02:30,96,80,UFC,FR,Barnes
+45,4,02:30,96,80,RCB,FC,Pedro
+46,4,02:34,96,80,RCB,2_Pts_C,Thiaguinho
+47,4,02:43,96,78,RCB,FR,Ansaloni
+48,4,02:43,96,78,UFC,FC,Gemerson
+49,4,02:51,96,78,UFC,substituicao_entra,Spencer
+50,4,02:51,96,78,UFC,substituicao_sai,Gabriel
+51,4,03:01,96,78,RCB,RD,Pastor
+52,4,03:01,96,78,UFC,LL_Pts_T,João Vitor
+53,4,03:01,96,78,UFC,LL_Pts_C,João Vitor
+54,4,03:01,95,78,RCB,substituicao_entra,Thiaguinho
+55,4,03:01,95,78,RCB,substituicao_sai,Baxley
+56,4,03:01,95,78,UFC,FR,João Vitor
+57,4,03:01,95,78,RCB,FC,Baxley
+58,4,03:08,95,78,UFC,LL_Pts_T,Barnes
+59,4,03:08,95,78,UFC,LL_Pts_C,Barnes
+60,4,03:08,94,78,UFC,FR,Barnes
+61,4,03:08,94,78,RCB,FC_A,Pastor
+62,4,03:34,94,78,RCB,AS,Lucious
+63,4,03:34,94,78,RCB,3_Pts_C,Ansaloni
+64,4,03:37,94,75,UFC,ER,Gabriel
+65,4,03:38,94,75,UFC,LL_Pts_T,Barnes
+66,4,03:38,94,75,RCB,FC_T,Lucious
+67,4,03:38,94,75,UFC,RD,Gemadinha
+68,4,03:39,94,75,RCB,3_Pts_T,Lucious
+69,4,03:45,94,75,RCB,substituicao_entra,Ansaloni
+70,4,03:45,94,75,RCB,substituicao_sai,Gerson
+71,4,03:45,94,75,RCB,RD,Rio Claro
+72,4,03:46,94,75,UFC,2_Pts_T,João Vitor
+73,4,04:11,94,75,RCB,2_Pts_C,Pedro
+74,4,04:28,94,73,UFC,2_Pts_C,Barnes
+75,4,04:42,92,73,RCB,3_Pts_C,Lucious
+76,4,04:57,92,70,UFC,AS,Barnes
+77,4,04:57,92,70,UFC,2_Pts_C,João Vitor
+78,4,05:11,90,70,UFC,RD,João Vitor
+79,4,05:14,90,70,RCB,2_Pts_T,Gerson
+80,4,05:23,90,70,UFC,substituicao_entra,João Vitor
+81,4,05:23,90,70,UFC,substituicao_sai,D Nunes
+82,4,05:23,90,70,UFC,substituicao_entra,Gemadinha
+83,4,05:23,90,70,UFC,substituicao_sai,Pepo Vidal
+84,4,05:23,90,70,RCB,FR,Lucious
+85,4,05:23,90,70,UFC,ER,D Nunes
+86,4,05:23,90,70,UFC,FC_O,D Nunes
+87,4,05:38,90,70,RCB,AS,Gerson
+88,4,05:38,90,70,RCB,3_Pts_C,Baxley
+89,4,05:50,90,67,UFC,2_Pts_C,Gabriel
+90,4,05:52,88,67,RCB,AS,Pedro
+91,4,05:52,88,67,RCB,2_Pts_C,Gerson
+92,4,06:06,88,65,RCB,tempo_tecnico,
+93,4,06:07,88,65,UFC,AS,Barnes
+94,4,06:07,88,65,UFC,3_Pts_C,Gemerson
+95,4,06:21,85,65,UFC,RD,Gemerson
+96,4,06:25,85,65,RCB,2_Pts_T,Lucious
+97,4,06:46,85,65,UFC,AS,Pepo Vidal
+98,4,06:46,85,65,UFC,3_Pts_C,Gabriel
+99,4,07:01,82,65,RCB,AS,Lucious
+100,4,07:01,82,65,RCB,2_Pts_C,Gerson
+101,4,07:11,82,63,UFC,LL_Pts_C,Gemerson
+102,4,07:11,81,63,RCB,substituicao_entra,Pedro
+103,4,07:11,81,63,RCB,substituicao_sai,Thiaguinho
+104,4,07:11,81,63,UFC,FR,Gemerson
+105,4,07:11,81,63,RCB,FC,Pastor
+106,4,07:11,81,63,UFC,AS,Pepo Vidal
+107,4,07:11,81,63,UFC,2_Pts_C,Gemerson
+108,4,07:18,79,63,UFC,BR,D Nunes
+109,4,07:18,79,63,RCB,ER,Baxley
+110,4,07:27,79,63,RCB,RD,Baxley
+111,4,07:31,79,63,UFC,2_Pts_T,Barnes
+112,4,07:58,79,63,RCB,AS,Lucious
+113,4,07:58,79,63,RCB,2_Pts_C,Pastor
+114,4,08:08,79,61,UFC,ER,D Nunes
+115,4,08:26,79,61,RCB,substituicao_entra,Thiaguinho
+116,4,08:26,79,61,RCB,substituicao_sai,Sahdi
+117,4,08:26,79,61,UFC,substituicao_entra,Gabriel
+118,4,08:26,79,61,UFC,substituicao_sai,Gemadinha
+119,4,08:26,79,61,UFC,substituicao_entra,Barnes
+120,4,08:26,79,61,UFC,substituicao_sai,Antonio
+121,4,08:26,79,61,UFC,tempo_tecnico,
+122,4,08:26,79,61,RCB,3_Pts_C,Lucious
+123,4,08:34,79,58,RCB,BR,Lucious
+124,4,08:34,79,58,UFC,ER,Pepo Vidal
+125,4,08:53,79,58,RCB,AS,Sahdi
+126,4,08:53,79,58,RCB,3_Pts_C,Lucious
+127,4,09:05,79,55,RCB,substituicao_entra,Lucious
+128,4,09:05,79,55,RCB,substituicao_sai,Thiaguinho
+129,4,09:05,79,55,RCB,FR,Thiaguinho
+130,4,09:05,79,55,UFC,FC,Antonio
+131,4,09:05,79,55,RCB,RD,Rio Claro
+132,4,09:08,79,55,UFC,3_Pts_T,Gemadinha
+133,4,09:18,79,55,UFC,BR,D Nunes
+134,4,09:18,79,55,RCB,ER,Sahdi
+135,4,09:29,79,55,UFC,AS,Pepo Vidal
+136,4,09:29,79,55,UFC,2_Pts_C,D Nunes
+137,4,09:47,77,55,UFC,RD,Antonio
+138,4,09:50,77,55,RCB,2_Pts_T,Gerson
+139,4,10:00,77,55,,inicio_quarto,
+140,3,00:00,77,55,,fim_quarto,
+141,3,00:01,77,55,UFC,3_Pts_T,Gemadinha
+142,3,00:03,77,55,UFC,BR,Gemerson
+143,3,00:03,77,55,RCB,ER,Pedro
+144,3,00:29,77,55,UFC,3_Pts_C,Pepo Vidal
+145,3,00:46,74,55,RCB,substituicao_entra,Lelê
+146,3,00:46,74,55,RCB,substituicao_sai,Gerson
+147,3,00:46,74,55,RCB,LL_Pts_C,Sahdi
+148,3,00:46,74,54,RCB,LL_Pts_C,Sahdi
+149,3,00:46,74,53,RCB,substituicao_entra,Thiaguinho
+150,3,00:46,74,53,RCB,substituicao_sai,Baxley
+151,3,00:46,74,53,RCB,FR,Sahdi
+152,3,00:46,74,53,UFC,FC,Spencer
+153,3,00:46,74,53,UFC,LL_Pts_C,Gemadinha
+154,3,00:46,73,53,UFC,LL_Pts_C,Gemadinha
+155,3,00:46,72,53,UFC,FR,Gemadinha
+156,3,00:46,72,53,RCB,FC,Baxley
+157,3,00:57,72,53,UFC,BR,Gemerson
+158,3,00:57,72,53,RCB,ER,Sahdi
+159,3,01:02,72,53,RCB,RD,Gerson
+160,3,01:05,72,53,UFC,3_Pts_T,Pepo Vidal
+161,3,01:24,72,53,UFC,substituicao_entra,Pezão
+162,3,01:24,72,53,UFC,substituicao_sai,João Vitor
+163,3,01:24,72,53,RCB,LL_Pts_C,Pedro
+164,3,01:24,72,52,RCB,LL_Pts_C,Pedro
+165,3,01:24,72,51,UFC,substituicao_entra,Spencer
+166,3,01:24,72,51,UFC,substituicao_sai,Gabriel
+167,3,01:24,72,51,RCB,FR,Pedro
+168,3,01:24,72,51,UFC,FC,Gemadinha
+169,3,01:47,72,51,UFC,2_Pts_C,Pepo Vidal
+170,3,01:58,70,51,UFC,RD,João Vitor
+171,3,01:58,70,51,RCB,LL_Pts_T,Baxley
+172,3,01:58,70,51,RCB,LL_Pts_T,Baxley
+173,3,01:58,70,51,RCB,FR,Baxley
+174,3,01:58,70,51,UFC,FC,Gabriel
+175,3,02:11,70,51,RCB,substituicao_entra,Gerson
+176,3,02:11,70,51,RCB,substituicao_sai,Lucious
+177,3,02:11,70,51,RCB,substituicao_entra,Pastor
+178,3,02:11,70,51,RCB,substituicao_sai,Ansaloni
+179,3,02:11,70,51,RCB,tempo_tecnico,
+180,3,02:12,70,51,UFC,AS,Gemerson
+181,3,02:12,70,51,UFC,EN,João Vitor
+182,3,02:29,68,51,UFC,BR,Gemerson
+183,3,02:29,68,51,RCB,ER,Lucious
+184,3,02:42,68,51,UFC,2_Pts_C,João Vitor
+185,3,02:43,66,51,UFC,RO,João Vitor
+186,3,02:48,66,51,UFC,2_Pts_T,João Vitor
+187,3,02:59,66,51,UFC,RD,Pepo Vidal
+188,3,03:02,66,51,RCB,3_Pts_T,Ansaloni
+189,3,03:16,66,51,UFC,LL_Pts_C,Gemadinha
+190,3,03:16,65,51,RCB,substituicao_entra,Sahdi
+191,3,03:16,65,51,RCB,substituicao_sai,Gerson
+192,3,03:16,65,51,RCB,substituicao_entra,Ansaloni
+193,3,03:16,65,51,RCB,substituicao_sai,Thiaguinho
+194,3,03:16,65,51,UFC,FR,Gemadinha
+195,3,03:16,65,51,RCB,FC,Baxley
+196,3,03:18,65,51,UFC,AS,Gemerson
+197,3,03:18,65,51,UFC,3_Pts_C,Gemadinha
+198,3,03:35,62,51,RCB,LL_Pts_C,Pedro
+199,3,03:35,62,50,RCB,LL_Pts_C,Pedro
+200,3,03:35,62,49,RCB,FR,Pedro
+201,3,03:35,62,49,UFC,FC,Gemerson
+202,3,03:44,62,49,UFC,substituicao_entra,Gemerson
+203,3,03:44,62,49,UFC,substituicao_sai,D Nunes
+204,3,03:44,62,49,UFC,LL_Pts_C,D Nunes
+205,3,03:44,61,49,RCB,substituicao_entra,Lucious
+206,3,03:44,61,49,RCB,substituicao_sai,Lelê
+207,3,03:44,61,49,UFC,substituicao_entra,Gemadinha
+208,3,03:44,61,49,UFC,substituicao_sai,Barnes
+209,3,03:44,61,49,UFC,FR,D Nunes
+210,3,03:44,61,49,RCB,FC,Gerson
+211,3,03:44,61,49,UFC,AS,Pepo Vidal
+212,3,03:44,61,49,UFC,2_Pts_C,D Nunes
+213,3,04:01,59,49,RCB,2_Pts_C,Pedro
+214,3,04:03,59,47,RCB,RD,Thiaguinho
+215,3,04:07,59,47,UFC,2_Pts_T,Pepo Vidal
+216,3,04:09,59,47,UFC,RO,Pepo Vidal
+217,3,04:12,59,47,UFC,3_Pts_T,D Nunes
+218,3,04:35,59,47,UFC,RD,Pepo Vidal
+219,3,04:39,59,47,RCB,2_Pts_T,Gerson
+220,3,04:58,59,47,UFC,AS,D Nunes
+221,3,04:58,59,47,UFC,2_Pts_C,João Vitor
+222,3,05:04,57,47,UFC,RD,D Nunes
+223,3,05:08,57,47,RCB,3_Pts_T,Baxley
+224,3,05:12,57,47,RCB,FR,Baxley
+225,3,05:12,57,47,UFC,FC,D Nunes
+226,3,05:28,57,47,RCB,RD,Rio Claro
+227,3,05:30,57,47,UFC,3_Pts_T,Barnes
+228,3,05:34,57,47,UFC,RD,Pepo Vidal
+229,3,05:38,57,47,RCB,2_Pts_T,Thiaguinho
+230,3,05:41,57,47,RCB,FR,Baxley
+231,3,05:41,57,47,UFC,FC,Gabriel
+232,3,05:56,57,47,RCB,RD,Baxley
+233,3,05:56,57,47,UFC,LL_Pts_T,Gabriel
+234,3,05:56,57,47,UFC,LL_Pts_C,Gabriel
+235,3,05:56,56,47,RCB,substituicao_entra,Pedro
+236,3,05:56,56,47,RCB,substituicao_sai,Lucious
+237,3,05:56,56,47,RCB,substituicao_entra,Lelê
+238,3,05:56,56,47,RCB,substituicao_sai,Pastor
+239,3,05:56,56,47,RCB,tempo_tecnico,
+240,3,05:56,56,47,UFC,FR,Gabriel
+241,3,05:56,56,47,RCB,FC,Pastor
+242,3,06:02,56,47,UFC,BR,Gabriel
+243,3,06:02,56,47,RCB,ER,Lucious
+244,3,06:10,56,47,UFC,substituicao_entra,João Vitor
+245,3,06:10,56,47,UFC,substituicao_sai,Antonio
+246,3,06:10,56,47,RCB,FR,Lucious
+247,3,06:10,56,47,UFC,FC,Antonio
+248,3,06:18,56,47,UFC,2_Pts_C,Pepo Vidal
+249,3,06:30,54,47,UFC,RD,D Nunes
+250,3,06:35,54,47,RCB,3_Pts_T,Pastor
+251,3,06:57,54,47,RCB,RD,Pastor
+252,3,06:57,54,47,UFC,LL_Pts_T,Gabriel
+253,3,06:57,54,47,UFC,FR,Gabriel
+254,3,06:57,54,47,RCB,FC,Gerson
+255,3,06:57,54,47,UFC,2_Pts_C,Gabriel
+256,3,07:08,52,47,RCB,substituicao_entra,Thiaguinho
+257,3,07:08,52,47,RCB,substituicao_sai,Sahdi
+258,3,07:08,52,47,UFC,substituicao_entra,Pepo Vidal
+259,3,07:08,52,47,UFC,substituicao_sai,Gemadinha
+260,3,07:08,52,47,UFC,FR,Barnes
+261,3,07:08,52,47,RCB,FC,Sahdi
+262,3,07:17,52,47,RCB,AS,Sahdi
+263,3,07:17,52,47,RCB,2_Pts_C,Pastor
+264,3,07:27,52,45,RCB,BR,Sahdi
+265,3,07:27,52,45,UFC,ER,Gemadinha
+266,3,07:30,52,45,UFC,RD,Gemadinha
+267,3,07:35,52,45,RCB,2_Pts_T,Baxley
+268,3,07:42,52,45,RCB,RD,Gerson
+269,3,07:45,52,45,UFC,3_Pts_T,Gabriel
+270,3,07:49,52,45,UFC,RD,Gemadinha
+271,3,07:53,52,45,RCB,2_Pts_T,Baxley
+272,3,08:06,52,45,RCB,RD,Pastor
+273,3,08:10,52,45,UFC,2_Pts_T,Barnes
+274,3,08:21,52,45,UFC,RD,Antonio
+275,3,08:25,52,45,RCB,2_Pts_T,Gerson
+276,3,08:29,52,45,RCB,RD,Sahdi
+277,3,08:34,52,45,UFC,2_Pts_T,Gemadinha
+278,3,08:42,52,45,UFC,LL_Pts_C,Antonio
+279,3,08:42,51,45,UFC,LL_Pts_C,Antonio
+280,3,08:42,50,45,RCB,substituicao_entra,Gerson
+281,3,08:42,50,45,RCB,substituicao_sai,Ansaloni
+282,3,08:42,50,45,UFC,FR,Antonio
+283,3,08:42,50,45,RCB,FC_A,Ansaloni
+284,3,09:01,50,45,RCB,AS,Sahdi
+285,3,09:01,50,45,RCB,2_Pts_C,Ansaloni
+286,3,09:12,50,43,RCB,RD,Pastor
+287,3,09:16,50,43,UFC,2_Pts_T,Barnes
+288,3,09:24,50,43,UFC,FR,Gemadinha
+289,3,09:24,50,43,RCB,FC,Sahdi
+290,3,09:34,50,43,RCB,2_Pts_C,Baxley
+291,3,09:46,50,41,RCB,FR,Sahdi
+292,3,09:46,50,41,UFC,FC,Gabriel
+293,3,09:46,50,41,RCB,RD,Sahdi
+294,3,09:49,50,41,UFC,3_Pts_T,Gemadinha
+295,3,10:00,50,41,,inicio_quarto,
+296,2,00:00,50,41,,fim_quarto,
+297,2,00:02,50,41,UFC,3_Pts_T,Barnes
+298,2,00:19,50,41,UFC,RD,João Vitor
+299,2,00:22,50,41,RCB,3_Pts_T,Pedro
+300,2,00:25,50,41,RCB,RD,Pastor
+301,2,00:30,50,41,UFC,3_Pts_T,Barnes
+302,2,00:31,50,41,UFC,RD,Barnes
+303,2,00:39,50,41,RCB,3_Pts_T,Thiaguinho
+304,2,00:53,50,41,UFC,2_Pts_C,Barnes
+305,2,01:09,48,41,RCB,2_Pts_C,Thiaguinho
+306,2,01:30,48,39,UFC,2_Pts_C,Barnes
+307,2,01:44,46,39,RCB,substituicao_entra,Thiaguinho
+308,2,01:44,46,39,RCB,substituicao_sai,Lucious
+309,2,01:44,46,39,RCB,substituicao_entra,Gerson
+310,2,01:44,46,39,RCB,substituicao_sai,Ansaloni
+311,2,01:44,46,39,RCB,LL_Pts_C,Ansaloni
+312,2,01:44,46,38,RCB,LL_Pts_C,Ansaloni
+313,2,01:44,46,37,RCB,substituicao_entra,Pedro
+314,2,01:44,46,37,RCB,substituicao_sai,Gerson
+315,2,01:44,46,37,RCB,substituicao_entra,Gerson
+316,2,01:44,46,37,RCB,substituicao_sai,Baxley
+317,2,01:44,46,37,RCB,FR,Ansaloni
+318,2,01:44,46,37,UFC,FC,João Vitor
+319,2,02:03,46,37,UFC,EN,João Vitor
+320,2,02:04,44,37,UFC,RO,João Vitor
+321,2,02:08,44,37,UFC,2_Pts_T,Barnes
+322,2,02:23,44,37,UFC,RD,UNIFACISA
+323,2,02:25,44,37,RCB,3_Pts_T,Pastor
+324,2,02:39,44,37,UFC,AS,Antonio
+325,2,02:39,44,37,UFC,2_Pts_C,Barnes
+326,2,02:45,42,37,UFC,BR,Antonio
+327,2,02:45,42,37,RCB,ER,Lucious
+328,2,03:04,42,37,UFC,AS,Barnes
+329,2,03:04,42,37,UFC,2_Pts_C,João Vitor
+330,2,03:06,40,37,UFC,FR,João Vitor
+331,2,03:06,40,37,RCB,FC,Ansaloni
+332,2,03:06,40,37,UFC,AS,Barnes
+333,2,03:06,40,37,UFC,3_Pts_C,Gemadinha
+334,2,03:12,37,37,UFC,BR,Antonio
+335,2,03:12,37,37,RCB,ER,Sahdi
+336,2,03:27,37,37,UFC,LL_Pts_C,João Vitor
+337,2,03:27,36,37,UFC,LL_Pts_C,João Vitor
+338,2,03:27,35,37,UFC,substituicao_entra,Gemadinha
+339,2,03:27,35,37,UFC,substituicao_sai,Spencer
+340,2,03:27,35,37,UFC,FR,João Vitor
+341,2,03:27,35,37,RCB,FC,Lucious
+342,2,03:31,35,37,UFC,RD,Spencer
+343,2,03:35,35,37,RCB,2_Pts_T,Baxley
+344,2,03:53,35,37,RCB,RD,Rio Claro
+345,2,03:54,35,37,UFC,LL_Pts_T,Spencer
+346,2,03:54,35,37,UFC,LL_Pts_T,Spencer
+347,2,03:54,35,37,UFC,substituicao_entra,João Vitor
+348,2,03:54,35,37,UFC,substituicao_sai,Gabriel
+349,2,03:54,35,37,UFC,FR,Spencer
+350,2,03:54,35,37,RCB,FC,Ansaloni
+351,2,04:13,35,37,RCB,AS,Baxley
+352,2,04:13,35,37,RCB,3_Pts_C,Pastor
+353,2,04:23,35,34,RCB,RO,Rio Claro
+354,2,04:25,35,34,RCB,2_Pts_T,Ansaloni
+355,2,04:27,35,34,RCB,RO,Ansaloni
+356,2,04:28,35,34,RCB,2_Pts_T,Ansaloni
+357,2,04:30,35,34,RCB,RO,Ansaloni
+358,2,04:34,35,34,RCB,2_Pts_T,Baxley
+359,2,04:43,35,34,RCB,substituicao_entra,Ansaloni
+360,2,04:43,35,34,RCB,substituicao_sai,Thiaguinho
+361,2,04:43,35,34,RCB,substituicao_entra,Baxley
+362,2,04:43,35,34,RCB,substituicao_sai,Lelê
+363,2,04:44,35,34,RCB,FR,Sahdi
+364,2,04:44,35,34,UFC,FC,Barnes
+365,2,04:58,35,34,UFC,AS,Barnes
+366,2,04:58,35,34,UFC,2_Pts_C,Antonio
+367,2,05:15,33,34,RCB,substituicao_entra,Thiaguinho
+368,2,05:15,33,34,RCB,substituicao_sai,Baxley
+369,2,05:15,33,34,RCB,substituicao_entra,Lelê
+370,2,05:15,33,34,RCB,substituicao_sai,Ansaloni
+371,2,05:15,33,34,UFC,tempo_tecnico,
+372,2,05:16,33,34,RCB,AS,Baxley
+373,2,05:16,33,34,RCB,3_Pts_C,Pastor
+374,2,05:22,33,31,RCB,FR,Ansaloni
+375,2,05:22,33,31,UFC,ER,D Nunes
+376,2,05:22,33,31,UFC,FC_O,D Nunes
+377,2,05:26,33,31,RCB,2_Pts_C,Ansaloni
+378,2,05:27,33,29,RCB,RO,Ansaloni
+379,2,05:33,33,29,RCB,2_Pts_T,Ansaloni
+380,2,05:44,33,29,UFC,substituicao_entra,Spencer
+381,2,05:44,33,29,UFC,substituicao_sai,Pepo Vidal
+382,2,05:44,33,29,UFC,substituicao_entra,D Nunes
+383,2,05:44,33,29,UFC,substituicao_sai,João Vitor
+384,2,05:44,33,29,RCB,FR,Ansaloni
+385,2,05:44,33,29,UFC,FC,João Vitor
+386,2,05:46,33,29,RCB,RD,Ansaloni
+387,2,05:52,33,29,UFC,3_Pts_T,Antonio
+388,2,06:17,33,29,RCB,2_Pts_C,Lucious
+389,2,06:20,33,27,RCB,RD,Lucious
+390,2,06:26,33,27,UFC,2_Pts_T,Gabriel
+391,2,06:28,33,27,UFC,RD,Antonio
+392,2,06:33,33,27,RCB,2_Pts_T,Baxley
+393,2,06:47,33,27,RCB,substituicao_entra,Ansaloni
+394,2,06:47,33,27,RCB,substituicao_sai,Thiaguinho
+395,2,06:47,33,27,RCB,substituicao_entra,Baxley
+396,2,06:47,33,27,RCB,substituicao_sai,Gerson
+397,2,06:47,33,27,UFC,substituicao_entra,Barnes
+398,2,06:47,33,27,UFC,substituicao_sai,Gemadinha
+399,2,06:47,33,27,RCB,tempo_tecnico,
+400,2,06:49,33,27,UFC,AS,Pepo Vidal
+401,2,06:49,33,27,UFC,3_Pts_C,Gabriel
+402,2,06:52,30,27,UFC,RD,João Vitor
+403,2,06:55,30,27,RCB,3_Pts_T,Sahdi
+404,2,07:07,30,27,UFC,AS,Gabriel
+405,2,07:07,30,27,UFC,3_Pts_C,Antonio
+406,2,07:14,27,27,UFC,RD,Gabriel
+407,2,07:19,27,27,RCB,3_Pts_T,Lucious
+408,2,07:36,27,27,RCB,RD,Gerson
+409,2,07:40,27,27,UFC,2_Pts_T,Antonio
+410,2,07:53,27,27,RCB,ER,Lucious
+411,2,08:11,27,27,RCB,tempo_tecnico,
+412,2,08:11,27,27,UFC,AS,Gemadinha
+413,2,08:11,27,27,UFC,3_Pts_C,Antonio
+414,2,08:18,24,27,UFC,BR,Gemadinha
+415,2,08:18,24,27,RCB,ER,Lucious
+416,2,08:26,24,27,UFC,LL_Pts_C,Antonio
+417,2,08:26,23,27,RCB,substituicao_entra,Pastor
+418,2,08:26,23,27,RCB,substituicao_sai,Lelê
+419,2,08:26,23,27,RCB,substituicao_entra,Lucious
+420,2,08:26,23,27,RCB,substituicao_sai,Baxley
+421,2,08:26,23,27,UFC,FR,Antonio
+422,2,08:26,23,27,RCB,FC,Baxley
+423,2,08:26,23,27,UFC,2_Pts_C,Antonio
+424,2,08:44,21,27,RCB,ER,Baxley
+425,2,08:47,21,27,RCB,RO,Baxley
+426,2,08:51,21,27,RCB,3_Pts_T,Sahdi
+427,2,09:06,21,27,UFC,EN,João Vitor
+428,2,09:07,19,27,UFC,RO,João Vitor
+429,2,09:12,19,27,UFC,3_Pts_T,Gabriel
+430,2,09:26,19,27,RCB,2_Pts_C,Baxley
+431,2,09:39,19,25,RCB,BR,Lelê
+432,2,09:39,19,25,UFC,ER,Antonio
+433,2,09:41,19,25,UFC,RD,Pepo Vidal
+434,2,09:45,19,25,RCB,2_Pts_T,Sahdi
+435,2,09:51,19,25,RCB,FR,Sahdi
+436,2,09:51,19,25,UFC,FC,Antonio
+437,2,10:00,19,25,,inicio_quarto,
+438,1,00:00,19,25,,fim_quarto,
+439,1,00:01,19,25,RCB,3_Pts_T,Sahdi
+440,1,00:01,19,25,UFC,ER,
+441,1,00:26,19,25,UFC,FR,Gemerson
+442,1,00:26,19,25,RCB,FC,Gerson
+443,1,00:33,19,25,UFC,FR,Gabriel
+444,1,00:33,19,25,RCB,FC,Lelê
+445,1,00:41,19,25,RCB,LL_Pts_C,Gerson
+446,1,00:41,19,24,RCB,LL_Pts_T,Gerson
+447,1,00:41,19,24,RCB,FR,Gerson
+448,1,00:41,19,24,UFC,FC,Pepo Vidal
+449,1,00:43,19,24,RCB,RD,Gerson
+450,1,00:44,19,24,UFC,2_Pts_T,João Vitor
+451,1,01:03,19,24,RCB,LL_Pts_C,Sahdi
+452,1,01:03,19,23,RCB,LL_Pts_C,Sahdi
+453,1,01:03,19,22,RCB,FR,Sahdi
+454,1,01:03,19,22,UFC,FC,Pepo Vidal
+455,1,01:12,19,22,RCB,RD,Gerson
+456,1,01:16,19,22,UFC,2_Pts_T,João Vitor
+457,1,01:18,19,22,UFC,RO,João Vitor
+458,1,01:21,19,22,UFC,3_Pts_T,Gemerson
+459,1,01:33,19,22,RCB,LL_Pts_C,Thiaguinho
+460,1,01:33,19,21,RCB,substituicao_entra,Lelê
+461,1,01:33,19,21,RCB,substituicao_sai,Ansaloni
+462,1,01:33,19,21,RCB,substituicao_entra,Sahdi
+463,1,01:33,19,21,RCB,substituicao_sai,Lucious
+464,1,01:33,19,21,UFC,substituicao_entra,Gabriel
+465,1,01:33,19,21,UFC,substituicao_sai,D Nunes
+466,1,01:33,19,21,UFC,substituicao_entra,Pepo Vidal
+467,1,01:33,19,21,UFC,substituicao_sai,Antonio
+468,1,01:33,19,21,UFC,substituicao_entra,João Vitor
+469,1,01:33,19,21,UFC,substituicao_sai,Barnes
+470,1,01:33,19,21,RCB,FR,Thiaguinho
+471,1,01:33,19,21,UFC,FC,Gemadinha
+472,1,01:33,19,21,RCB,2_Pts_C,Thiaguinho
+473,1,02:01,19,19,UFC,AS,Barnes
+474,1,02:01,19,19,UFC,3_Pts_C,Gemadinha
+475,1,02:06,16,19,UFC,RD,D Nunes
+476,1,02:11,16,19,RCB,2_Pts_T,Lucious
+477,1,02:30,16,19,UFC,2_Pts_C,Gemadinha
+478,1,02:40,14,19,UFC,RO,Antonio
+479,1,02:44,14,19,UFC,3_Pts_T,Barnes
+480,1,02:50,14,19,UFC,RD,Gemerson
+481,1,02:54,14,19,RCB,2_Pts_T,Gerson
+482,1,03:11,14,19,RCB,RD,Thiaguinho
+483,1,03:14,14,19,UFC,3_Pts_T,Gemerson
+484,1,03:23,14,19,RCB,2_Pts_C,Ansaloni
+485,1,03:25,14,17,RCB,RO,Gerson
+486,1,03:29,14,17,RCB,2_Pts_T,Pedro
+487,1,03:32,14,17,RCB,substituicao_entra,Thiaguinho
+488,1,03:32,14,17,RCB,substituicao_sai,Lelê
+489,1,03:42,14,17,RCB,substituicao_entra,Ansaloni
+490,1,03:42,14,17,RCB,substituicao_sai,Pastor
+491,1,03:42,14,17,RCB,substituicao_entra,Lelê
+492,1,03:42,14,17,RCB,substituicao_sai,Baxley
+493,1,03:42,14,17,UFC,substituicao_entra,Gemerson
+494,1,03:42,14,17,UFC,substituicao_sai,Gabriel
+495,1,04:04,14,17,RCB,RD,Rio Claro
+496,1,04:06,14,17,UFC,3_Pts_T,D Nunes
+497,1,04:23,14,17,RCB,2_Pts_C,Lucious
+498,1,04:34,14,15,UFC,AS,Gabriel
+499,1,04:34,14,15,UFC,2_Pts_C,Barnes
+500,1,04:46,12,15,UFC,RO,Barnes
+501,1,04:51,12,15,UFC,2_Pts_T,Barnes
+502,1,04:57,12,15,UFC,BR,Gemadinha
+503,1,04:57,12,15,RCB,ER,Lucious
+504,1,05:06,12,15,RCB,RD,Gerson
+505,1,05:10,12,15,UFC,3_Pts_T,Gabriel
+506,1,05:17,12,15,UFC,BR,Antonio
+507,1,05:17,12,15,RCB,ER,Lucious
+508,1,05:28,12,15,UFC,AS,Barnes
+509,1,05:28,12,15,UFC,3_Pts_C,Gemadinha
+510,1,05:40,9,15,UFC,FR,Gabriel
+511,1,05:40,9,15,RCB,FC,Baxley
+512,1,05:44,9,15,RCB,substituicao_entra,Pedro
+513,1,05:44,9,15,RCB,substituicao_sai,Sahdi
+514,1,05:44,9,15,RCB,LL_Pts_C,Sahdi
+515,1,05:44,9,14,RCB,LL_Pts_C,Sahdi
+516,1,05:44,9,13,UFC,substituicao_entra,Gemadinha
+517,1,05:44,9,13,UFC,substituicao_sai,Spencer
+518,1,05:44,9,13,RCB,FR,Sahdi
+519,1,05:44,9,13,UFC,FC,Antonio
+520,1,06:05,9,13,UFC,2_Pts_C,Barnes
+521,1,06:26,7,13,RCB,AS,Sahdi
+522,1,06:26,7,13,RCB,2_Pts_C,Pastor
+523,1,06:29,7,11,RCB,RD,Sahdi
+524,1,06:35,7,11,UFC,2_Pts_T,Spencer
+525,1,06:52,7,11,RCB,AS,Sahdi
+526,1,06:52,7,11,RCB,3_Pts_C,Lucious
+527,1,06:56,7,8,RCB,RD,Sahdi
+528,1,06:59,7,8,UFC,2_Pts_T,Antonio
+529,1,07:03,7,8,UFC,FR,Barnes
+530,1,07:03,7,8,RCB,FC,Pastor
+531,1,07:04,7,8,UFC,RD,Gabriel
+532,1,07:08,7,8,RCB,3_Pts_T,Baxley
+533,1,07:29,7,8,UFC,2_Pts_C,Antonio
+534,1,07:44,5,8,RCB,2_Pts_C,Lucious
+535,1,07:56,5,6,RCB,RD,Sahdi
+536,1,08:00,5,6,UFC,3_Pts_T,Antonio
+537,1,08:12,5,6,RCB,AS,Sahdi
+538,1,08:12,5,6,RCB,2_Pts_C,Gerson
+539,1,08:19,5,4,RCB,RD,Gerson
+540,1,08:22,5,4,UFC,2_Pts_T,Barnes
+541,1,08:27,5,4,UFC,RD,D Nunes
+542,1,08:27,5,4,RCB,LL_Pts_T,Lucious
+543,1,08:27,5,4,RCB,LL_Pts_C,Lucious
+544,1,08:27,5,3,RCB,FR,Lucious
+545,1,08:27,5,3,UFC,FC,Spencer
+546,1,08:36,5,3,RCB,substituicao_entra,Gerson
+547,1,08:36,5,3,RCB,substituicao_sai,Ansaloni
+548,1,08:38,5,3,UFC,EN,D Nunes
+549,1,08:46,3,3,RCB,3_Pts_C,Sahdi
+550,1,08:48,3,0,RCB,RD,Ansaloni
+551,1,08:52,3,0,UFC,2_Pts_T,Spencer
+552,1,08:54,3,0,UFC,RD,Spencer
+553,1,08:57,3,0,RCB,3_Pts_T,Pastor
+554,1,09:03,3,0,RCB,FR,Sahdi
+555,1,09:03,3,0,UFC,FC,D Nunes
+556,1,09:03,3,0,RCB,RO,Baxley
+557,1,09:05,3,0,RCB,3_Pts_T,Ansaloni
+558,1,09:08,3,0,RCB,RD,Sahdi
+559,1,09:13,3,0,UFC,2_Pts_T,Barnes
+560,1,09:18,3,0,UFC,RD,Barnes
+561,1,09:21,3,0,RCB,3_Pts_T,Ansaloni
+562,1,09:45,3,0,UFC,AS,Spencer
+563,1,09:45,3,0,UFC,3_Pts_C,D Nunes
+564,1,10:00,0,0,RCB,substituicao_entra,Sahdi
+565,1,10:00,0,0,RCB,substituicao_entra,Baxley
+566,1,10:00,0,0,RCB,substituicao_entra,Lucious
+567,1,10:00,0,0,RCB,substituicao_entra,Ansaloni
+568,1,10:00,0,0,RCB,substituicao_entra,Pastor
+569,1,10:00,0,0,UFC,substituicao_entra,Barnes
+570,1,10:00,0,0,UFC,substituicao_entra,D Nunes
+571,1,10:00,0,0,UFC,substituicao_entra,Antonio
+572,1,10:00,0,0,UFC,substituicao_entra,Gabriel
+573,1,10:00,0,0,UFC,substituicao_entra,Spencer
+574,1,10:00,0,0,,inicio_partida,

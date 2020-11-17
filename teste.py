@@ -16,6 +16,7 @@ ranking = {
     'Blocks': {'field': 'BLK', 'label': 'BLK'}
 }
 
+
 def buildrank(type):
     field = ranking[type]['field']
     label = ranking[type]['label']

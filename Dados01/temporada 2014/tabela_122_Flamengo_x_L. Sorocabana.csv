@@ -1,0 +1,522 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,98,73, ,fim_partida,
+1,4,00:00,98,73,LSB,RO,Thiaguinho
+2,4,00:01,98,73,FLA,2_Pts_T,Mingau
+3,4,00:11,98,73,LSB,LL_Pts_T,Lupa
+4,4,00:11,98,73,LSB,LL_Pts_C,Lupa
+5,4,00:11,98,72,LSB,FR,Lupa
+6,4,00:11,98,72,FLA,FC,Mingau
+7,4,00:14,98,72,LSB,RD,Lupa
+8,4,00:14,98,72,FLA,LL_Pts_T,Gigante
+9,4,00:14,98,72,FLA,FR,Gigante
+10,4,00:14,98,72,LSB,FC,Elivelton
+11,4,00:16,98,72,FLA,2_Pts_C,Gigante
+12,4,00:16,96,72,FLA,AS,Danielzinho
+13,4,00:19,96,72,FLA,RO,Chupeta
+14,4,00:19,96,72,FLA,LL_Pts_T,Chupeta
+15,4,00:19,96,72,FLA,LL_Pts_T,Chupeta
+16,4,00:19,96,72,FLA,FR,Chupeta
+17,4,00:19,96,72,LSB,FC,Elivelton
+18,4,00:23,96,72,FLA,RD,Chupeta
+19,4,00:23,96,72,LSB,3_Pts_T,Mafra
+20,4,00:32,96,72,LSB,RO,Mafra
+21,4,00:32,96,72,LSB,2_Pts_T,Thiaguinho
+22,4,00:44,96,72,LSB,RD,Elivelton
+23,4,00:44,96,72,FLA,LL_Pts_T,Chupeta
+24,4,00:44,96,72,FLA,AS,Mingau
+25,4,00:44,96,72,FLA,LL_Pts_C,Chupeta
+26,4,00:44,95,72,FLA,FR,Chupeta
+27,4,00:44,95,72,LSB,FC,Lupa
+28,4,00:44,95,72,LSB,substituicao_entra,Elivelton
+29,4,00:44,95,72,LSB,substituicao_sai,Guilherme
+30,4,00:48,95,72,FLA,BR,Mingau
+31,4,00:48,95,72,LSB,ER,Lupa
+32,4,00:54,95,72,FLA,substituicao_entra,Gigante
+33,4,00:54,95,72,FLA,substituicao_sai,Meyinsse
+34,4,00:54,95,72,LSB,RO,Liga Sorocabana
+35,4,00:54,95,72,LSB,3_Pts_T,Guilherme
+36,4,01:15,95,72,LSB,RD,Guilherme
+37,4,01:15,95,72,FLA,3_Pts_T,Danielzinho
+38,4,01:34,95,72,FLA,BR,Flamengo
+39,4,01:34,95,72,LSB,ER,Lupa
+40,4,01:57,95,72,LSB,RD,Lupa
+41,4,01:57,95,72,FLA,2_Pts_T,Chupeta
+42,4,02:20,95,72,LSB,LL_Pts_C,Guilherme
+43,4,02:20,95,71,LSB,LL_Pts_C,Guilherme
+44,4,02:20,95,70,LSB,FR,Guilherme
+45,4,02:20,95,70,FLA,FC,Chupeta
+46,4,02:31,95,70,LSB,RD,Fernando
+47,4,02:31,95,70,FLA,2_Pts_T,Mingau
+48,4,02:43,95,70,LSB,LL_Pts_C,Guilherme
+49,4,02:43,95,69,LSB,LL_Pts_C,Guilherme
+50,4,02:43,95,68,LSB,substituicao_entra,Mafra
+51,4,02:43,95,68,LSB,substituicao_sai,Matheus
+52,4,02:43,95,68,LSB,substituicao_entra,Lupa
+53,4,02:43,95,68,LSB,substituicao_sai,Daniel Gaúcho
+54,4,02:43,95,68,LSB,FR,Guilherme
+55,4,02:43,95,68,FLA,FC,Mingau
+56,4,02:43,95,68,LSB,2_Pts_C,Thiaguinho
+57,4,02:53,95,66,LSB,RD,Thiaguinho
+58,4,02:53,95,66,FLA,2_Pts_T,Mingau
+59,4,03:18,95,66,LSB,3_Pts_C,Daniel Gaúcho
+60,4,03:29,95,63,FLA,2_Pts_C,Mingau
+61,4,03:34,93,63,FLA,RO,Mingau
+62,4,03:34,93,63,FLA,3_Pts_T,Chupeta
+63,4,03:58,93,63,LSB,LL_Pts_C,Guilherme
+64,4,03:58,93,62,LSB,LL_Pts_T,Guilherme
+65,4,03:58,93,62,FLA,substituicao_entra,Mingau
+66,4,03:58,93,62,FLA,substituicao_sai,Herrmann
+67,4,03:58,93,62,LSB,FR,Guilherme
+68,4,03:58,93,62,FLA,FC,Meyinsse
+69,4,04:12,93,62,FLA,substituicao_entra,Gegê
+70,4,04:12,93,62,FLA,substituicao_sai,Laprovittola
+71,4,04:12,93,62,LSB,BR,Liga Sorocabana
+72,4,04:12,93,62,FLA,ER,Laprovittola
+73,4,04:19,93,62,LSB,substituicao_entra,Guilherme
+74,4,04:19,93,62,LSB,substituicao_sai,Elivelton
+75,4,04:19,93,62,FLA,FR,Laprovittola
+76,4,04:19,93,62,LSB,FC,Elivelton
+77,4,04:26,93,62,FLA,RD,Laprovittola
+78,4,04:26,93,62,LSB,3_Pts_T,Matheus
+79,4,04:41,93,62,FLA,2_Pts_C,Meyinsse
+80,4,04:41,91,62,FLA,AS,Laprovittola
+81,4,04:48,91,62,FLA,RD,Herrmann
+82,4,04:48,91,62,FLA,TO,Meyinsse
+83,4,04:48,91,62,LSB,3_Pts_T,Thiaguinho
+84,4,04:58,91,62,LSB,BR,Elivelton
+85,4,04:58,91,62,FLA,ER,Laprovittola
+86,4,05:40,91,62,LSB,tempo_tecnico,Liga Sorocabana
+87,4,05:40,91,62,LSB,3_Pts_T,Daniel Gaúcho
+88,4,05:41,91,62,FLA,substituicao_entra,Danielzinho
+89,4,05:41,91,62,FLA,substituicao_sai,Gegê
+90,4,05:41,91,62,LSB,BR,Liga Sorocabana
+91,4,05:41,91,62,FLA,ER,Gegê
+92,4,05:54,91,62,LSB,3_Pts_C,Matheus
+93,4,05:54,91,59,LSB,AS,Daniel Gaúcho
+94,4,05:57,91,59,LSB,FR,Elivelton
+95,4,05:57,91,59,FLA,FC,Gegê
+96,4,06:02,91,59,LSB,FR,Daniel Gaúcho
+97,4,06:02,91,59,FLA,FC,Chupeta
+98,4,06:15,91,59,LSB,substituicao_entra,Elivelton
+99,4,06:15,91,59,LSB,substituicao_sai,L Vinícius
+100,4,06:15,91,59,FLA,LL_Pts_C,Laprovittola
+101,4,06:15,90,59,FLA,FR,Laprovittola
+102,4,06:15,90,59,LSB,FC,Thiaguinho
+103,4,06:15,90,59,FLA,2_Pts_C,Laprovittola
+104,4,06:15,88,59,FLA,AS,Gegê
+105,4,06:22,88,59,LSB,2_Pts_C,L Vinícius
+106,4,06:40,88,57,FLA,2_Pts_C,Meyinsse
+107,4,06:40,86,57,FLA,AS,Laprovittola
+108,4,06:56,86,57,LSB,3_Pts_C,Daniel Gaúcho
+109,4,06:56,86,54,LSB,AS,Thiaguinho
+110,4,07:08,86,54,FLA,3_Pts_C,Herrmann
+111,4,07:08,83,54,FLA,AS,Gegê
+112,4,07:24,83,54,FLA,RD,Chupeta
+113,4,07:24,83,54,LSB,2_Pts_T,Thiaguinho
+114,4,07:47,83,54,FLA,substituicao_entra,Meyinsse
+115,4,07:47,83,54,FLA,substituicao_sai,Felicio
+116,4,07:47,83,54,LSB,FR,Daniel Gaúcho
+117,4,07:47,83,54,FLA,FC_O,Felicio
+118,4,08:06,83,54,LSB,2_Pts_C,Daniel Gaúcho
+119,4,08:22,83,52,FLA,3_Pts_C,Herrmann
+120,4,08:22,80,52,FLA,AS,Gegê
+121,4,08:41,80,52,LSB,2_Pts_C,Thiaguinho
+122,4,08:44,80,50,LSB,BR,Thiaguinho
+123,4,08:44,80,50,FLA,ER,Laprovittola
+124,4,08:50,80,50,FLA,FR,Herrmann
+125,4,08:50,80,50,LSB,FC,Fernando
+126,4,09:01,80,50,FLA,RD,Herrmann
+127,4,09:01,80,50,LSB,2_Pts_T,Matheus
+128,4,09:09,80,50,FLA,2_Pts_C,Chupeta
+129,4,09:41,78,50,LSB,3_Pts_C,Thiaguinho
+130,4,09:41,78,47,LSB,AS,Daniel Gaúcho
+131,3,00:00,78,47, ,fim_quarto,
+132,3,00:00,78,47,FLA,3_Pts_C,Chupeta
+133,3,00:00,75,47,FLA,substituicao_entra,Chupeta
+134,3,00:00,75,47,FLA,substituicao_sai,Meyinsse
+135,3,00:10,75,47,FLA,RD,Felicio
+136,3,00:10,75,47,LSB,2_Pts_T,Daniel Gaúcho
+137,3,00:17,75,47,LSB,FR,L Vinícius
+138,3,00:17,75,47,FLA,FC,Felicio
+139,3,00:34,75,47,LSB,RD,Matheus
+140,3,00:34,75,47,FLA,LL_Pts_T,Gegê
+141,3,00:34,75,47,FLA,LL_Pts_C,Gegê
+142,3,00:34,74,47,LSB,substituicao_entra,Fernando
+143,3,00:34,74,47,LSB,substituicao_sai,Edu
+144,3,00:34,74,47,FLA,FR,Gegê
+145,3,00:34,74,47,LSB,FC,Edu
+146,3,00:42,74,47,FLA,RD,Herrmann
+147,3,00:42,74,47,LSB,3_Pts_T,Thiaguinho
+148,3,01:04,74,47,FLA,AS,Gegê
+149,3,01:09,74,47,FLA,EN,Herrmann
+150,3,01:13,72,47,FLA,BR,Gegê
+151,3,01:13,72,47,LSB,ER,Edu
+152,3,01:23,72,47,FLA,EN,Meyinsse
+153,3,01:46,70,47,LSB,2_Pts_C,Edu
+154,3,02:02,70,45,FLA,3_Pts_C,Laprovittola
+155,3,02:02,67,45,FLA,AS,Gegê
+156,3,02:08,67,45,FLA,BR,Gegê
+157,3,02:08,67,45,LSB,ER,L Vinícius
+158,3,02:34,67,45,FLA,2_Pts_C,Felicio
+159,3,02:34,65,45,FLA,AS,Herrmann
+160,3,02:50,65,45,FLA,RD,Meyinsse
+161,3,02:50,65,45,LSB,3_Pts_T,Thiaguinho
+162,3,02:53,65,45,FLA,substituicao_entra,Laprovittola
+163,3,02:54,65,45,FLA,substituicao_sai,Marcelinho
+164,3,03:06,65,45,LSB,RD,L Vinícius
+165,3,03:06,65,45,FLA,LL_Pts_T,Meyinsse
+166,3,03:06,65,45,FLA,LL_Pts_C,Meyinsse
+167,3,03:06,64,45,FLA,substituicao_entra,Felicio
+168,3,03:06,64,45,FLA,substituicao_sai,Olivinha
+169,3,03:06,64,45,FLA,substituicao_entra,Gegê
+170,3,03:06,64,45,FLA,substituicao_sai,Laprovittola
+171,3,03:06,64,45,LSB,substituicao_entra,L Vinícius
+172,3,03:06,64,45,LSB,substituicao_sai,Lupa
+173,3,03:06,64,45,FLA,FR,Meyinsse
+174,3,03:06,64,45,LSB,FC,Edu
+175,3,03:19,64,45,FLA,RD,Olivinha
+176,3,03:19,64,45,LSB,2_Pts_T,Lupa
+177,3,03:44,64,45,FLA,EN,Meyinsse
+178,3,03:44,62,45,FLA,AS,Laprovittola
+179,3,03:52,62,45,LSB,3_Pts_C,Matheus
+180,3,04:12,62,42,FLA,LL_Pts_C,Laprovittola
+181,3,04:12,61,42,FLA,LL_Pts_C,Laprovittola
+182,3,04:12,60,42,FLA,FR,Laprovittola
+183,3,04:12,60,42,LSB,FC,Edu
+184,3,04:18,60,42,LSB,2_Pts_C,Matheus
+185,3,04:18,60,40,LSB,AS,Edu
+186,3,04:25,60,40,LSB,BR,Lupa
+187,3,04:25,60,40,FLA,ER,Laprovittola
+188,3,04:44,60,40,LSB,substituicao_entra,Edu
+189,3,04:44,60,40,LSB,substituicao_sai,Clahar
+190,3,04:44,60,40,FLA,FR,Laprovittola
+191,3,04:44,60,40,LSB,FC,Clahar
+192,3,04:48,60,40,LSB,2_Pts_C,Clahar
+193,3,04:52,60,38,LSB,RO,Clahar
+194,3,04:52,60,38,LSB,2_Pts_T,Clahar
+195,3,05:14,60,38,FLA,2_Pts_C,Meyinsse
+196,3,05:14,58,38,FLA,AS,Laprovittola
+197,3,05:21,58,38,LSB,substituicao_entra,Thiaguinho
+198,3,05:22,58,38,LSB,substituicao_sai,L Vinícius
+199,3,05:25,58,38,FLA,LL_Pts_C,Marcelinho
+200,3,05:25,57,38,FLA,FR,Marcelinho
+201,3,05:25,57,38,LSB,FC,L Vinícius
+202,3,05:26,57,38,LSB,RD,Lupa
+203,3,05:26,57,38,FLA,2_Pts_T,Herrmann
+204,3,05:30,57,38,FLA,RO,Herrmann
+205,3,05:30,57,38,FLA,3_Pts_T,Marcelinho
+206,3,05:37,57,38,FLA,RD,Olivinha
+207,3,05:37,57,38,LSB,2_Pts_T,Clahar
+208,3,05:58,57,38,FLA,2_Pts_C,Meyinsse
+209,3,06:07,55,38,FLA,FR,Herrmann
+210,3,06:07,55,38,LSB,FC,Clahar
+211,3,06:13,55,38,LSB,FR,Lupa
+212,3,06:13,55,38,FLA,FC,Olivinha
+213,3,06:13,55,38,LSB,LL_Pts_C,Lupa
+214,3,06:13,55,37,LSB,LL_Pts_T,Lupa
+215,3,06:13,55,37,LSB,substituicao_entra,Lupa
+216,3,06:13,55,37,LSB,substituicao_sai,Thiaguinho
+217,3,06:13,55,37,LSB,substituicao_entra,Clahar
+218,3,06:13,55,37,LSB,substituicao_sai,Clahar
+219,3,06:34,55,37,LSB,substituicao_entra,Matheus
+220,3,06:34,55,37,LSB,substituicao_sai,Guilherme
+221,3,06:34,55,37,LSB,tempo_tecnico,Liga Sorocabana
+222,3,06:34,55,37,LSB,FR,Clahar
+223,3,06:34,55,37,FLA,FC,Olivinha
+224,3,06:36,55,37,LSB,RD,Clahar
+225,3,06:36,55,37,FLA,2_Pts_T,Meyinsse
+226,3,06:47,55,37,FLA,RD,Meyinsse
+227,3,06:47,55,37,LSB,3_Pts_T,Guilherme
+228,3,07:08,55,37,FLA,EN,Herrmann
+229,3,07:08,53,37,FLA,AS,Laprovittola
+230,3,07:13,53,37,LSB,2_Pts_C,Daniel Gaúcho
+231,3,07:18,53,35,LSB,RO,Daniel Gaúcho
+232,3,07:18,53,35,LSB,2_Pts_T,Daniel Gaúcho
+233,3,07:28,53,35,FLA,3_Pts_C,Herrmann
+234,3,07:28,50,35,FLA,AS,Meyinsse
+235,3,07:36,50,35,FLA,RO,Meyinsse
+236,3,07:36,50,35,FLA,2_Pts_T,Herrmann
+237,3,07:46,50,35,LSB,2_Pts_C,Guilherme
+238,3,07:50,50,33,LSB,RO,Guilherme
+239,3,07:50,50,33,LSB,2_Pts_T,Clahar
+240,3,07:57,50,33,LSB,RD,Daniel Gaúcho
+241,3,07:57,50,33,FLA,2_Pts_T,Olivinha
+242,3,08:09,50,33,FLA,FR,Herrmann
+243,3,08:09,50,33,LSB,FC,Daniel Gaúcho
+244,3,08:18,50,33,FLA,RD,Olivinha
+245,3,08:18,50,33,LSB,2_Pts_T,Clahar
+246,3,08:24,50,33,LSB,BR,Daniel Gaúcho
+247,3,08:24,50,33,FLA,ER,Marcelinho
+248,3,08:30,50,33,FLA,RO,Marcelinho
+249,3,08:30,50,33,FLA,2_Pts_T,Olivinha
+250,3,08:50,50,33,FLA,RD,Flamengo
+251,3,08:50,50,33,LSB,2_Pts_T,Thiaguinho
+252,3,09:14,50,33,LSB,RD,Liga Sorocabana
+253,3,09:14,50,33,FLA,3_Pts_T,Marcelinho
+254,3,09:19,50,33,FLA,RO,Olivinha
+255,3,09:19,50,33,FLA,3_Pts_T,Herrmann
+256,3,09:41,50,33,LSB,2_Pts_C,Daniel Gaúcho
+257,2,00:00,50,31, ,fim_quarto,
+258,2,00:00,50,31,FLA,ER,
+259,2,00:04,50,31,FLA,tempo_tecnico,Flamengo
+260,2,00:04,50,31,FLA,FR,Meyinsse
+261,2,00:04,50,31,LSB,FC,Guilherme
+262,2,00:22,50,31,FLA,2_Pts_C,Herrmann
+263,2,00:22,48,31,FLA,AS,Marcelinho
+264,2,00:33,48,31,LSB,3_Pts_C,Fernando
+265,2,00:38,48,28,LSB,BR,Edu
+266,2,00:38,48,28,FLA,ER,Marcelinho
+267,2,00:42,48,28,FLA,BR,Marcelinho
+268,2,00:42,48,28,LSB,ER,Guilherme
+269,2,01:07,48,28,LSB,BR,Liga Sorocabana
+270,2,01:07,48,28,FLA,ER,Meyinsse
+271,2,01:18,48,28,FLA,RD,Olivinha
+272,2,01:18,48,28,LSB,2_Pts_T,Guilherme
+273,2,01:36,48,28,FLA,EN,Meyinsse
+274,2,01:36,46,28,FLA,AS,Gegê
+275,2,01:54,46,28,LSB,LL_Pts_C,Thiaguinho
+276,2,01:54,46,27,LSB,LL_Pts_C,Thiaguinho
+277,2,01:54,46,26,LSB,FR,Thiaguinho
+278,2,01:54,46,26,FLA,FC,Olivinha
+279,2,01:58,46,26,LSB,RD,Thiaguinho
+280,2,01:58,46,26,FLA,2_Pts_T,Meyinsse
+281,2,02:16,46,26,LSB,substituicao_entra,Guilherme
+282,2,02:16,46,26,LSB,substituicao_sai,Lupa
+283,2,02:16,46,26,FLA,BR,Flamengo
+284,2,02:16,46,26,LSB,ER,Edu
+285,2,02:23,46,26,LSB,BR,Lupa
+286,2,02:23,46,26,FLA,ER,Marcelinho
+287,2,02:37,46,26,LSB,substituicao_entra,Matheus
+288,2,02:37,46,26,LSB,substituicao_sai,Clahar
+289,2,02:37,46,26,LSB,substituicao_entra,Edu
+290,2,02:37,46,26,LSB,substituicao_sai,Daniel Gaúcho
+291,2,02:37,46,26,FLA,BR,Flamengo
+292,2,02:37,46,26,LSB,ER,Thiaguinho
+293,2,02:40,46,26,LSB,BR,Thiaguinho
+294,2,02:40,46,26,FLA,ER,Gegê
+295,2,02:52,46,26,LSB,2_Pts_C,Clahar
+296,2,03:10,46,24,FLA,2_Pts_C,Herrmann
+297,2,03:10,44,24,FLA,AS,Marcelinho
+298,2,03:29,44,24,LSB,2_Pts_C,Clahar
+299,2,03:43,44,22,LSB,RD,Lupa
+300,2,03:43,44,22,FLA,2_Pts_T,Olivinha
+301,2,03:51,44,22,FLA,RD,Olivinha
+302,2,03:51,44,22,LSB,3_Pts_T,Daniel Gaúcho
+303,2,04:03,44,22,FLA,2_Pts_C,Olivinha
+304,2,04:03,42,22,FLA,AS,Marcelinho
+305,2,04:21,42,22,LSB,2_Pts_C,Thiaguinho
+306,2,04:29,42,20,LSB,BR,Fernando
+307,2,04:29,42,20,FLA,ER,Gegê
+308,2,04:39,42,20,FLA,RD,Marcelinho
+309,2,04:39,42,20,FLA,TO,Olivinha
+310,2,04:39,42,20,LSB,2_Pts_T,Thiaguinho
+311,2,04:47,42,20,LSB,RD,Thiaguinho
+312,2,04:47,42,20,FLA,3_Pts_T,Herrmann
+313,2,05:06,42,20,FLA,RD,Flamengo
+314,2,05:06,42,20,LSB,2_Pts_T,Clahar
+315,2,05:21,42,20,FLA,substituicao_entra,Meyinsse
+316,2,05:21,42,20,FLA,substituicao_sai,Felicio
+317,2,05:21,42,20,LSB,FR,Clahar
+318,2,05:21,42,20,FLA,FC,Felicio
+319,2,05:23,42,20,LSB,BR,Clahar
+320,2,05:23,42,20,FLA,ER,Olivinha
+321,2,05:46,42,20,FLA,LL_Pts_C,Marcelinho
+322,2,05:46,41,20,LSB,FC_T,Liga Sorocabana
+323,2,05:46,41,20,LSB,substituicao_entra,Fernando
+324,2,05:46,41,20,LSB,substituicao_sai,Matheus
+325,2,05:52,41,20,FLA,2_Pts_C,Felicio
+326,2,05:52,39,20,FLA,AS,Marcelinho
+327,2,06:08,39,20,FLA,RD,Felicio
+328,2,06:08,39,20,LSB,LL_Pts_T,Thiaguinho
+329,2,06:08,39,20,LSB,LL_Pts_C,Thiaguinho
+330,2,06:08,39,19,LSB,FR,Thiaguinho
+331,2,06:08,39,19,FLA,FC,Felicio
+332,2,06:14,39,19,LSB,substituicao_entra,Daniel Gaúcho
+333,2,06:14,39,19,LSB,substituicao_sai,L Vinícius
+334,2,06:14,39,19,LSB,FR,L Vinícius
+335,2,06:14,39,19,FLA,FC,Herrmann
+336,2,06:14,39,19,FLA,FR,Herrmann
+337,2,06:14,39,19,LSB,FC,L Vinícius
+338,2,06:23,39,19,FLA,LL_Pts_C,Felicio
+339,2,06:23,38,19,FLA,FR,Felicio
+340,2,06:23,38,19,LSB,FC,Thiaguinho
+341,2,06:23,38,19,FLA,2_Pts_C,Felicio
+342,2,06:23,36,19,FLA,RO,Felicio
+343,2,06:23,36,19,FLA,2_Pts_T,Gegê
+344,2,06:49,36,19,LSB,tempo_tecnico,Liga Sorocabana
+345,2,06:49,36,19,FLA,FR,Felicio
+346,2,06:49,36,19,LSB,FC_O,L Vinícius
+347,2,06:53,36,19,LSB,substituicao_entra,L Vinícius
+348,2,06:53,36,19,LSB,substituicao_sai,Fernando
+349,2,06:53,36,19,LSB,FR,Clahar
+350,2,06:53,36,19,FLA,FC,Felicio
+351,2,07:05,36,19,FLA,2_Pts_C,Herrmann
+352,2,07:05,34,19,FLA,AS,Marcelinho
+353,2,07:15,34,19,LSB,FC_T,Banco do Liga Sorocabana
+354,2,07:15,34,19,FLA,LL_Pts_C,Marcelinho
+355,2,07:15,33,19,FLA,LL_Pts_T,Felicio
+356,2,07:15,33,19,FLA,AS,Olivinha
+357,2,07:15,33,19,FLA,LL_Pts_C,Felicio
+358,2,07:15,32,19,FLA,FR,Felicio
+359,2,07:15,32,19,LSB,FC,Lupa
+360,2,07:15,32,19,FLA,RD,Olivinha
+361,2,07:15,32,19,LSB,2_Pts_T,Clahar
+362,2,07:15,32,19,FLA,substituicao_entra,Herrmann
+363,2,07:15,32,19,FLA,substituicao_sai,Laprovittola
+364,2,07:15,32,19,FLA,substituicao_entra,Olivinha
+365,2,07:15,32,19,FLA,substituicao_sai,Meyinsse
+366,2,07:43,32,19,FLA,3_Pts_C,Marcelinho
+367,2,07:43,29,19,FLA,AS,Laprovittola
+368,2,07:50,29,19,LSB,3_Pts_C,Matheus
+369,2,07:50,29,16,LSB,AS,Clahar
+370,2,07:59,29,16,LSB,RD,Lupa
+371,2,07:59,29,16,FLA,LL_Pts_T,Laprovittola
+372,2,07:59,29,16,FLA,LL_Pts_C,Laprovittola
+373,2,07:59,28,16,FLA,FR,Laprovittola
+374,2,07:59,28,16,LSB,FC,Clahar
+375,2,08:16,28,16,LSB,substituicao_entra,Thiaguinho
+376,2,08:16,28,16,LSB,substituicao_sai,Edu
+377,2,08:17,28,16,LSB,ER,
+378,2,08:43,28,16,LSB,RD,Fernando
+379,2,08:43,28,16,FLA,LL_Pts_T,Felicio
+380,2,08:43,28,16,LSB,substituicao_entra,Lupa
+381,2,08:43,28,16,LSB,substituicao_sai,L Vinícius
+382,2,08:43,28,16,FLA,FR,Felicio
+383,2,08:43,28,16,LSB,FC,Edu
+384,2,08:43,28,16,FLA,2_Pts_C,Felicio
+385,2,08:43,26,16,FLA,AS,Marcelinho
+386,2,08:50,26,16,FLA,RD,Marcelinho
+387,2,08:50,26,16,LSB,3_Pts_T,Clahar
+388,2,09:13,26,16,FLA,3_Pts_C,Gegê
+389,2,09:13,23,16,FLA,AS,Meyinsse
+390,2,09:33,23,16,LSB,2_Pts_C,L Vinícius
+391,2,09:33,23,14,LSB,AS,Edu
+392,2,09:49,23,14,FLA,2_Pts_C,Felicio
+393,2,09:49,21,14,FLA,AS,Gegê
+394,1,00:00,21,14, ,fim_quarto,
+395,1,00:00,21,14,LSB,2_Pts_T,Matheus
+396,1,00:05,21,14,FLA,2_Pts_C,Herrmann
+397,1,00:21,19,14,LSB,2_Pts_C,Clahar
+398,1,00:30,19,12,LSB,BR,Clahar
+399,1,00:30,19,12,FLA,ER,Gegê
+400,1,00:42,19,12,LSB,substituicao_entra,Edu
+401,1,00:42,19,12,LSB,substituicao_sai,Daniel Gaúcho
+402,1,00:42,19,12,FLA,BR,Flamengo
+403,1,00:42,19,12,LSB,ER,Daniel Gaúcho
+404,1,00:51,19,12,LSB,substituicao_entra,Clahar
+405,1,00:51,19,12,LSB,substituicao_sai,Thiaguinho
+406,1,00:51,19,12,LSB,RO,Liga Sorocabana
+407,1,00:51,19,12,LSB,3_Pts_T,Matheus
+408,1,01:01,19,12,LSB,substituicao_entra,Thiaguinho
+409,1,01:02,19,12,LSB,substituicao_sai,Clahar
+410,1,01:14,19,12,LSB,substituicao_entra,Fernando
+411,1,01:14,19,12,LSB,substituicao_sai,Lupa
+412,1,01:17,19,12,FLA,ER,
+413,1,01:28,19,12,FLA,RO,Meyinsse
+414,1,01:28,19,12,FLA,2_Pts_T,Felicio
+415,1,01:46,19,12,FLA,substituicao_entra,Gegê
+416,1,01:46,19,12,FLA,substituicao_sai,Marcelinho
+417,1,01:46,19,12,FLA,substituicao_entra,Felicio
+418,1,01:46,19,12,FLA,substituicao_sai,Olivinha
+419,1,01:46,19,12,LSB,ER,Clahar
+420,1,01:57,19,12,FLA,2_Pts_C,Laprovittola
+421,1,01:57,17,12,FLA,AS,Olivinha
+422,1,02:11,17,12,LSB,2_Pts_C,Clahar
+423,1,02:32,17,10,FLA,2_Pts_C,Meyinsse
+424,1,02:40,15,10,LSB,substituicao_entra,Daniel Gaúcho
+425,1,02:40,15,10,LSB,substituicao_sai,Edu
+426,1,02:45,15,10,FLA,RD,Meyinsse
+427,1,02:45,15,10,LSB,2_Pts_T,Lupa
+428,1,02:50,15,10,LSB,RO,Lupa
+429,1,02:50,15,10,LSB,2_Pts_T,Lupa
+430,1,03:06,15,10,LSB,RD,Edu
+431,1,03:06,15,10,FLA,2_Pts_T,Meyinsse
+432,1,03:10,15,10,FLA,RO,Meyinsse
+433,1,03:10,15,10,FLA,LL_Pts_T,Olivinha
+434,1,03:10,15,10,FLA,LL_Pts_T,Olivinha
+435,1,03:10,15,10,FLA,FR,Olivinha
+436,1,03:10,15,10,LSB,FC,L Vinícius
+437,1,03:14,15,10,FLA,RD,Marcelinho
+438,1,03:14,15,10,LSB,3_Pts_T,Edu
+439,1,03:38,15,10,LSB,RD,Matheus
+440,1,03:38,15,10,FLA,3_Pts_T,Marcelinho
+441,1,03:45,15,10,LSB,2_Pts_C,Lupa
+442,1,03:49,15,8,LSB,RO,Lupa
+443,1,03:49,15,8,LSB,2_Pts_T,L Vinícius
+444,1,04:07,15,8,FLA,3_Pts_C,Laprovittola
+445,1,04:26,12,8,LSB,substituicao_entra,Matheus
+446,1,04:26,12,8,LSB,substituicao_sai,Thiaguinho
+447,1,04:26,12,8,FLA,BR,Flamengo
+448,1,04:26,12,8,LSB,ER,Thiaguinho
+449,1,04:48,12,8,FLA,LL_Pts_C,Meyinsse
+450,1,04:48,11,8,FLA,LL_Pts_C,Meyinsse
+451,1,04:48,10,8,FLA,FR,Meyinsse
+452,1,04:48,10,8,LSB,FC,Clahar
+453,1,05:02,10,8,LSB,2_Pts_C,Lupa
+454,1,05:07,10,6,LSB,RO,Lupa
+455,1,05:07,10,6,LSB,3_Pts_T,Thiaguinho
+456,1,05:27,10,6,LSB,RD,Edu
+457,1,05:27,10,6,FLA,2_Pts_T,Marcelinho
+458,1,05:36,10,6,FLA,RO,Herrmann
+459,1,05:36,10,6,FLA,3_Pts_T,Marcelinho
+460,1,05:51,10,6,LSB,2_Pts_C,Edu
+461,1,05:57,10,4,LSB,RO,Edu
+462,1,05:57,10,4,LSB,2_Pts_T,Clahar
+463,1,06:12,10,4,FLA,LL_Pts_C,Herrmann
+464,1,06:12,9,4,FLA,LL_Pts_C,Herrmann
+465,1,06:12,8,4,FLA,FR,Herrmann
+466,1,06:12,8,4,LSB,FC,Lupa
+467,1,06:13,8,4,FLA,BR,Flamengo
+468,1,06:13,8,4,LSB,ER,L Vinícius
+469,1,06:37,8,4,LSB,BR,Liga Sorocabana
+470,1,06:37,8,4,FLA,ER,Herrmann
+471,1,06:55,8,4,LSB,2_Pts_C,Thiaguinho
+472,1,06:55,8,2,LSB,AS,L Vinícius
+473,1,07:05,8,2,LSB,substituicao_entra,Lupa
+474,1,07:05,8,2,LSB,substituicao_sai,Guilherme
+475,1,07:05,8,2,LSB,tempo_tecnico,Liga Sorocabana
+476,1,07:05,8,2,LSB,RO,Liga Sorocabana
+477,1,07:05,8,2,LSB,3_Pts_T,Edu
+478,1,07:16,8,2,LSB,RD,L Vinícius
+479,1,07:16,8,2,FLA,2_Pts_T,Olivinha
+480,1,07:24,8,2,FLA,FR,Olivinha
+481,1,07:24,8,2,LSB,FC,Guilherme
+482,1,07:24,8,2,LSB,substituicao_entra,Edu
+483,1,07:24,8,2,LSB,substituicao_sai,Daniel Gaúcho
+484,1,07:24,8,2,FLA,FR,Laprovittola
+485,1,07:24,8,2,LSB,FC,Daniel Gaúcho
+486,1,07:27,8,2,FLA,RO,Meyinsse
+487,1,07:27,8,2,FLA,3_Pts_T,Herrmann
+488,1,07:34,8,2,FLA,RD,Olivinha
+489,1,07:34,8,2,LSB,2_Pts_T,Guilherme
+490,1,07:39,8,2,FLA,2_Pts_C,Olivinha
+491,1,07:46,6,2,FLA,RO,Olivinha
+492,1,07:46,6,2,FLA,2_Pts_T,Herrmann
+493,1,07:51,6,2,FLA,RD,Olivinha
+494,1,07:51,6,2,LSB,2_Pts_T,Guilherme
+495,1,07:55,6,2,LSB,RO,Guilherme
+496,1,07:55,6,2,LSB,2_Pts_T,Daniel Gaúcho
+497,1,08:17,6,2,FLA,3_Pts_C,Laprovittola
+498,1,08:35,3,2,FLA,FR,Olivinha
+499,1,08:35,3,2,LSB,FC,Guilherme
+500,1,08:38,3,2,FLA,BR,Olivinha
+501,1,08:38,3,2,LSB,ER,L Vinícius
+502,1,08:52,3,2,FLA,3_Pts_C,Marcelinho
+503,1,08:52,0,2,FLA,AS,Laprovittola
+504,1,09:14,0,2,LSB,2_Pts_C,Thiaguinho
+505,1,09:20,0,0,LSB,RD,Guilherme
+506,1,09:20,0,0,FLA,2_Pts_T,Laprovittola
+507,1,09:28,0,0,FLA,RD,Herrmann
+508,1,09:28,0,0,LSB,2_Pts_T,Guilherme
+509,1,09:43,0,0,FLA,RD,Herrmann
+510,1,09:43,0,0,LSB,2_Pts_T,L Vinícius
+511,1,10:00,0,0,LSB,substituicao_entra,Guilherme
+512,1,10:00,0,0,LSB,substituicao_entra,L Vinícius
+513,1,10:00,0,0,LSB,substituicao_entra,Daniel Gaúcho
+514,1,10:00,0,0,LSB,substituicao_entra,Thiaguinho
+515,1,10:00,0,0,LSB,substituicao_entra,Clahar
+516,1,10:00,0,0,FLA,substituicao_entra,Meyinsse
+517,1,10:00,0,0,FLA,substituicao_entra,Olivinha
+518,1,10:00,0,0,FLA,substituicao_entra,Laprovittola
+519,1,10:00,0,0,FLA,substituicao_entra,Marcelinho
+520,1,10:00,0,0,FLA,substituicao_entra,Herrmann

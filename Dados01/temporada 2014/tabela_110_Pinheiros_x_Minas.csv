@@ -1,0 +1,540 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,89,78, ,fim_partida,
+1,4,00:02,89,78,PIN,RD,Toledo
+2,4,00:02,89,78,MIN,3_Pts_T,Irigoyen
+3,4,00:08,89,78,MIN,substituicao_entra,Irigoyen
+4,4,00:08,89,78,MIN,substituicao_sai,Demétrio
+5,4,00:08,89,78,PIN,ER,Jason Smith
+6,4,00:15,89,78,MIN,substituicao_entra,Demétrio
+7,4,00:15,89,78,MIN,substituicao_sai,Ansaloni
+8,4,00:17,89,78,PIN,RD,Pinheiros
+9,4,00:17,89,78,MIN,3_Pts_T,Collum
+10,4,00:23,89,78,PIN,ER,
+11,4,00:50,89,78,MIN,3_Pts_C,Collum
+12,4,00:53,89,75,MIN,RO,Minas
+13,4,00:53,89,75,PIN,TO,Lucas Dias
+14,4,00:53,89,75,MIN,2_Pts_T,Cafferata
+15,4,01:02,89,75,PIN,3_Pts_C,Joe Smith
+16,4,01:29,86,75,PIN,RD,Toledo
+17,4,01:29,86,75,MIN,2_Pts_T,Coelho
+18,4,01:35,86,75,PIN,substituicao_entra,Lucas Dias
+19,4,01:35,86,75,PIN,substituicao_sai,Kurtz
+20,4,01:36,86,75,MIN,tempo_tecnico,Minas
+21,4,01:36,86,75,PIN,2_Pts_C,Joe Smith
+22,4,01:58,84,75,MIN,2_Pts_C,Ansaloni
+23,4,02:01,84,73,MIN,RO,Ansaloni
+24,4,02:01,84,73,MIN,2_Pts_T,Cafferata
+25,4,02:12,84,73,MIN,RD,Ansaloni
+26,4,02:12,84,73,PIN,3_Pts_T,Jason Smith
+27,4,02:32,84,73,MIN,LL_Pts_C,Cafferata
+28,4,02:32,84,72,MIN,LL_Pts_C,Cafferata
+29,4,02:32,84,71,MIN,FR,Cafferata
+30,4,02:32,84,71,PIN,FC,Kurtz
+31,4,02:42,84,71,PIN,2_Pts_C,Jason Smith
+32,4,02:56,82,71,PIN,RO,Pinheiros
+33,4,02:56,82,71,PIN,LL_Pts_T,Toledo
+34,4,02:56,82,71,PIN,LL_Pts_C,Toledo
+35,4,02:56,81,71,PIN,FR,Toledo
+36,4,02:56,81,71,MIN,FC,Collum
+37,4,03:04,81,71,MIN,2_Pts_C,Coelho
+38,4,03:14,81,69,PIN,2_Pts_C,Jason Smith
+39,4,03:26,79,69,MIN,substituicao_sai,Siqueira
+40,4,03:26,79,69,MIN,substituicao_entra,Coelho
+41,4,03:26,79,69,PIN,FR,Toledo
+42,4,03:26,79,69,MIN,FC,Siqueira
+43,4,03:28,79,69,PIN,RO,Toledo
+44,4,03:28,79,69,PIN,3_Pts_T,J Campos
+45,4,03:41,79,69,MIN,LL_Pts_C,Ansaloni
+46,4,03:41,79,68,MIN,LL_Pts_C,Ansaloni
+47,4,03:41,79,67,MIN,FR,Ansaloni
+48,4,03:41,79,67,PIN,FC,Joe Smith
+49,4,03:51,79,67,PIN,substituicao_entra,Toledo
+50,4,03:51,79,67,PIN,substituicao_sai,Lucas Dias
+51,4,03:51,79,67,MIN,substituicao_entra,Alex
+52,4,03:51,79,67,MIN,substituicao_sai,Demétrio
+53,4,03:51,79,67,PIN,LL_Pts_C,J Campos
+54,4,03:51,78,67,PIN,LL_Pts_C,J Campos
+55,4,03:51,77,67,PIN,FR,J Campos
+56,4,03:51,77,67,MIN,FC,Siqueira
+57,4,03:59,77,67,MIN,LL_Pts_C,Collum
+58,4,03:59,77,66,MIN,LL_Pts_C,Collum
+59,4,03:59,77,65,MIN,AS,Cafferata
+60,4,03:59,77,65,MIN,LL_Pts_C,Collum
+61,4,03:59,77,64,MIN,FR,Collum
+62,4,03:59,77,64,PIN,FC,Jason Smith
+63,4,04:13,77,64,PIN,substituicao_entra,Jason Smith
+64,4,04:13,77,64,PIN,substituicao_sai,Toledo
+65,4,04:13,77,64,MIN,tempo_tecnico,Minas
+66,4,04:13,77,64,PIN,2_Pts_C,J Campos
+67,4,04:26,75,64,MIN,substituicao_sai,Irigoyen
+68,4,04:26,75,64,MIN,substituicao_entra,Siqueira
+69,4,04:27,75,64,PIN,RD,Pinheiros
+70,4,04:27,75,64,MIN,3_Pts_T,Irigoyen
+71,4,04:43,75,64,PIN,EN,Toledo
+72,4,04:43,73,64,PIN,AS,Joe Smith
+73,4,04:58,73,64,PIN,RD,Lucas Dias
+74,4,04:58,73,64,MIN,LL_Pts_T,Demétrio
+75,4,04:58,73,64,MIN,FR,Demétrio
+76,4,04:58,73,64,PIN,FC,Lucas Dias
+77,4,04:58,73,64,MIN,2_Pts_C,Demétrio
+78,4,04:58,73,62,MIN,AS,Collum
+79,4,05:04,73,62,MIN,RD,Ansaloni
+80,4,05:04,73,62,PIN,2_Pts_T,Joe Smith
+81,4,05:18,73,62,PIN,RD,Lucas Dias
+82,4,05:18,73,62,MIN,2_Pts_T,Irigoyen
+83,4,05:31,73,62,MIN,RD,Ansaloni
+84,4,05:31,73,62,PIN,LL_Pts_T,Kurtz
+85,4,05:31,73,62,MIN,substituicao_entra,Demétrio
+86,4,05:31,73,62,MIN,substituicao_sai,Alex
+87,4,05:31,73,62,PIN,FR,Kurtz
+88,4,05:31,73,62,MIN,FC,Cafferata
+89,4,05:31,73,62,PIN,EN,Kurtz
+90,4,05:31,71,62,PIN,AS,Joe Smith
+91,4,05:47,71,62,MIN,2_Pts_C,Cafferata
+92,4,05:52,71,60,MIN,BR,Cafferata
+93,4,05:52,71,60,PIN,ER,J Campos
+94,4,05:57,71,60,MIN,2_Pts_C,Cafferata
+95,4,06:07,71,58,PIN,2_Pts_C,J Campos
+96,4,06:29,69,58,MIN,LL_Pts_C,Cafferata
+97,4,06:29,69,57,MIN,LL_Pts_C,Cafferata
+98,4,06:29,69,56,MIN,FR,Cafferata
+99,4,06:29,69,56,PIN,FC,Kurtz
+100,4,06:34,69,56,PIN,substituicao_entra,Joe Smith
+101,4,06:34,69,56,PIN,substituicao_entra,J Campos
+102,4,06:34,69,56,PIN,substituicao_sai,Ted Simões
+103,4,06:34,69,56,PIN,substituicao_sai,Jason Smith
+104,4,06:34,69,56,MIN,RO,Minas
+105,4,06:34,69,56,PIN,TO,Toledo
+106,4,06:34,69,56,MIN,2_Pts_T,Ansaloni
+107,4,06:39,69,56,MIN,BR,Collum
+108,4,06:39,69,56,PIN,ER,Jason Smith
+109,4,06:55,69,56,PIN,RD,Lucas Dias
+110,4,06:55,69,56,MIN,3_Pts_T,Alex
+111,4,07:13,69,56,MIN,substituicao_entra,Collum
+112,4,07:13,69,56,MIN,substituicao_entra,Cafferata
+113,4,07:13,69,56,MIN,substituicao_sai,Siqueira
+114,4,07:13,69,56,MIN,substituicao_sai,Coelho
+115,4,07:13,69,56,PIN,ER,Kurtz
+116,4,07:35,69,56,PIN,RD,Lucas Dias
+117,4,07:35,69,56,MIN,2_Pts_T,Coelho
+118,4,07:57,69,56,PIN,2_Pts_C,Jason Smith
+119,4,07:57,67,56,PIN,AS,Toledo
+120,4,08:11,67,56,PIN,RD,Pinheiros
+121,4,08:11,67,56,MIN,2_Pts_T,Siqueira
+122,4,08:28,67,56,MIN,RD,Ansaloni
+123,4,08:28,67,56,PIN,2_Pts_T,Ted Simões
+124,4,08:43,67,56,MIN,2_Pts_C,Ansaloni
+125,4,08:43,67,54,MIN,AS,Coelho
+126,4,08:50,67,54,MIN,FR,Ansaloni
+127,4,08:50,67,54,PIN,FC,Jason Smith
+128,4,08:58,67,54,MIN,RD,Ansaloni
+129,4,08:58,67,54,PIN,3_Pts_T,Jason Smith
+130,4,09:03,67,54,PIN,RO,Pinheiros
+131,4,09:03,67,54,PIN,3_Pts_T,Toledo
+132,4,09:12,67,54,PIN,RD,Jason Smith
+133,4,09:12,67,54,MIN,2_Pts_T,Ansaloni
+134,4,09:19,67,54,MIN,RD,Siqueira
+135,4,09:19,67,54,MIN,TO,Alex
+136,4,09:19,67,54,PIN,2_Pts_T,Toledo
+137,4,09:23,67,54,PIN,BR,Jason Smith
+138,4,09:23,67,54,MIN,ER,Siqueira
+139,4,09:43,67,54,PIN,LL_Pts_C,Kurtz
+140,4,09:43,66,54,MIN,substituicao_sai,Shilton
+141,4,09:43,66,54,MIN,substituicao_entra,Ansaloni
+142,4,09:43,66,54,PIN,FR,Kurtz
+143,4,09:43,66,54,MIN,FC,Shilton
+144,4,09:43,66,54,PIN,2_Pts_C,Kurtz
+145,4,09:43,64,54,PIN,AS,Toledo
+146,3,00:00,64,54, ,fim_quarto,
+147,3,00:01,64,54,PIN,3_Pts_T,Ted Simões
+148,3,00:06,64,54,PIN,RD,Toledo
+149,3,00:06,64,54,MIN,2_Pts_T,Coelho
+150,3,00:16,64,54,MIN,RO,Coelho
+151,3,00:16,64,54,MIN,2_Pts_T,Coelho
+152,3,00:32,64,54,PIN,LL_Pts_C,Kurtz
+153,3,00:32,63,54,PIN,LL_Pts_C,Kurtz
+154,3,00:32,62,54,PIN,substituicao_entra,Toledo
+155,3,00:32,62,54,PIN,substituicao_sai,Joe Smith
+156,3,00:32,62,54,PIN,FR,Kurtz
+157,3,00:32,62,54,MIN,FC,Shilton
+158,3,00:41,62,54,MIN,2_Pts_C,Siqueira
+159,3,00:50,62,52,MIN,RD,Siqueira
+160,3,00:50,62,52,PIN,3_Pts_T,Lucas Dias
+161,3,01:08,62,52,PIN,substituicao_sai,J Campos
+162,3,01:08,62,52,PIN,substituicao_entra,Ted Simões
+163,3,01:08,62,52,MIN,substituicao_entra,Irigoyen
+164,3,01:08,62,52,MIN,substituicao_sai,Cafferata
+165,3,01:12,62,52,PIN,RD,Pinheiros
+166,3,01:12,62,52,MIN,3_Pts_T,Alex
+167,3,01:25,62,52,PIN,2_Pts_C,J Campos
+168,3,01:33,60,52,MIN,2_Pts_C,Alex
+169,3,01:53,60,50,MIN,substituicao_entra,Coelho
+170,3,01:53,60,50,MIN,substituicao_sai,Collum
+171,3,01:59,60,50,MIN,tempo_tecnico,Minas
+172,3,01:59,60,50,PIN,3_Pts_C,J Campos
+173,3,02:11,57,50,MIN,LL_Pts_C,Alex
+174,3,02:11,57,49,MIN,LL_Pts_C,Alex
+175,3,02:11,57,48,MIN,FR,Alex
+176,3,02:11,57,48,PIN,FC,Kurtz
+177,3,02:26,57,48,PIN,LL_Pts_C,Lucas Dias
+178,3,02:26,56,48,PIN,AS,Jason Smith
+179,3,02:26,56,48,PIN,LL_Pts_C,Lucas Dias
+180,3,02:26,55,48,PIN,FR,Lucas Dias
+181,3,02:26,55,48,MIN,FC,Siqueira
+182,3,02:42,55,48,MIN,substituicao_sai,Demétrio
+183,3,02:42,55,48,MIN,substituicao_entra,Alex
+184,3,02:42,55,48,PIN,BR,Pinheiros
+185,3,02:42,55,48,MIN,ER,Siqueira
+186,3,02:52,55,48,MIN,RD,Siqueira
+187,3,02:52,55,48,PIN,2_Pts_T,Jason Smith
+188,3,03:20,55,48,PIN,RD,Pinheiros
+189,3,03:20,55,48,MIN,3_Pts_T,Collum
+190,3,03:25,55,48,MIN,RO,Collum
+191,3,03:25,55,48,MIN,3_Pts_T,Demétrio
+192,3,03:44,55,48,PIN,LL_Pts_C,J Campos
+193,3,03:44,54,48,MIN,substituicao_entra,Shilton
+194,3,03:44,54,48,MIN,substituicao_entra,Cafferata
+195,3,03:44,54,48,MIN,substituicao_sai,Ansaloni
+196,3,03:44,54,48,MIN,substituicao_sai,Coelho
+197,3,03:44,54,48,PIN,FR,J Campos
+198,3,03:44,54,48,MIN,FC,Coelho
+199,3,03:44,54,48,PIN,2_Pts_C,J Campos
+200,3,04:00,52,48,PIN,RD,Kurtz
+201,3,04:00,52,48,MIN,2_Pts_T,Siqueira
+202,3,04:17,52,48,MIN,substituicao_sai,Alex
+203,3,04:17,52,48,MIN,substituicao_entra,Siqueira
+204,3,04:17,52,48,PIN,3_Pts_C,Jason Smith
+205,3,04:17,49,48,PIN,AS,Joe Smith
+206,3,04:24,49,48,PIN,RD,J Campos
+207,3,04:24,49,48,PIN,TO,Kurtz
+208,3,04:24,49,48,MIN,2_Pts_T,Alex
+209,3,04:40,49,48,PIN,substituicao_entra,Kurtz
+210,3,04:40,49,48,PIN,substituicao_entra,Jason Smith
+211,3,04:40,49,48,PIN,substituicao_sai,Toledo
+212,3,04:40,49,48,PIN,substituicao_sai,Morro
+213,3,04:40,49,48,MIN,BR,Minas
+214,3,04:40,49,48,PIN,ER,Toledo
+215,3,04:49,49,48,PIN,FR,Joe Smith
+216,3,04:49,49,48,MIN,FC,Coelho
+217,3,04:49,49,48,PIN,RD,Joe Smith
+218,3,04:55,49,48,PIN,3_Pts_T,Joe Smith
+219,3,05:11,49,48,PIN,2_Pts_C,Joe Smith
+220,3,05:34,47,48,MIN,ER,Demétrio
+221,3,05:37,47,48,MIN,BR,Coelho
+222,3,05:37,47,48,PIN,ER,Lucas Dias
+223,3,05:48,47,48,MIN,3_Pts_C,Alex
+224,3,05:48,47,45,MIN,AS,Collum
+225,3,05:58,47,45,MIN,RD,Ansaloni
+226,3,05:58,47,45,PIN,3_Pts_T,Lucas Dias
+227,3,06:20,47,45,PIN,substituicao_entra,Lucas Dias
+228,3,06:20,47,45,PIN,substituicao_entra,Joe Smith
+229,3,06:20,47,45,PIN,substituicao_sai,Ted Simões
+230,3,06:20,47,45,PIN,substituicao_sai,Felipe
+231,3,06:20,47,45,PIN,BR,Pinheiros
+232,3,06:20,47,45,MIN,ER,Alex
+233,3,06:27,47,45,MIN,RD,Collum
+234,3,06:27,47,45,PIN,3_Pts_T,Toledo
+235,3,06:47,47,45,MIN,2_Pts_C,Ansaloni
+236,3,07:06,47,43,MIN,RD,Demétrio
+237,3,07:06,47,43,PIN,LL_Pts_T,Toledo
+238,3,07:06,47,43,PIN,LL_Pts_C,Toledo
+239,3,07:06,46,43,PIN,FR,Toledo
+240,3,07:06,46,43,MIN,FC,Collum
+241,3,07:07,46,43,PIN,RO,Toledo
+242,3,07:07,46,43,PIN,2_Pts_T,Toledo
+243,3,07:19,46,43,PIN,RD,Ted Simões
+244,3,07:19,46,43,MIN,2_Pts_T,Alex
+245,3,07:32,46,43,PIN,2_Pts_C,J Campos
+246,3,07:50,44,43,MIN,2_Pts_C,Coelho
+247,3,07:50,44,41,MIN,AS,Collum
+248,3,07:56,44,41,MIN,BR,Collum
+249,3,07:56,44,41,PIN,ER,Felipe
+250,3,08:10,44,41,MIN,ER,Coelho
+251,3,08:29,44,41,PIN,2_Pts_C,Toledo
+252,3,08:33,42,41,PIN,BR,Toledo
+253,3,08:33,42,41,MIN,ER,Ansaloni
+254,3,08:44,42,41,MIN,LL_Pts_T,Collum
+255,3,08:44,42,41,PIN,FC_T,Toledo
+256,3,08:57,42,41,MIN,FR,Coelho
+257,3,08:57,42,41,PIN,FC,J Campos
+258,3,09:10,42,41,PIN,ER,
+259,3,09:27,42,41,PIN,FR,Morro
+260,3,09:27,42,41,MIN,FC,Ansaloni
+261,3,09:40,42,41,MIN,2_Pts_C,Demétrio
+262,3,09:40,42,39,MIN,AS,Alex
+263,3,10:00,42,39,MIN,LL_Pts_C,Collum
+264,2,00:00,42,38, ,fim_quarto,
+265,2,00:00,42,38,PIN,FC_T,J Campos
+266,2,00:01,42,38,PIN,2_Pts_C,J Campos
+267,2,00:08,40,38,MIN,substituicao_entra,Siqueira
+268,2,00:08,40,38,MIN,substituicao_sai,Demétrio
+269,2,00:08,40,38,PIN,substituicao_entra,J Campos
+270,2,00:08,40,38,PIN,substituicao_sai,Toledo
+271,2,00:08,40,38,PIN,tempo_tecnico,Pinheiros
+272,2,00:08,40,38,MIN,2_Pts_C,Coelho
+273,2,00:08,40,36,MIN,AS,Cafferata
+274,2,00:12,40,36,MIN,BR,Cafferata
+275,2,00:12,40,36,PIN,ER,Toledo
+276,2,00:20,40,36,MIN,substituicao_entra,Irigoyen
+277,2,00:20,40,36,MIN,substituicao_sai,Ansaloni
+278,2,00:20,40,36,MIN,substituicao_entra,Coelho
+279,2,00:20,40,36,MIN,substituicao_sai,Collum
+280,2,00:20,40,36,PIN,tempo_tecnico,Pinheiros
+281,2,00:20,40,36,MIN,2_Pts_C,Cafferata
+282,2,00:35,40,34,MIN,RD,Demétrio
+283,2,00:35,40,34,PIN,LL_Pts_T,Felipe
+284,2,00:35,40,34,PIN,AS,Joe Smith
+285,2,00:35,40,34,PIN,LL_Pts_C,Felipe
+286,2,00:35,39,34,PIN,FR,Felipe
+287,2,00:35,39,34,MIN,FC,Cafferata
+288,2,00:52,39,34,MIN,2_Pts_C,Ansaloni
+289,2,01:08,39,32,MIN,RD,Demétrio
+290,2,01:08,39,32,PIN,LL_Pts_T,Toledo
+291,2,01:08,39,32,PIN,FR,Toledo
+292,2,01:08,39,32,MIN,FC,Alex
+293,2,01:08,39,32,PIN,2_Pts_C,Toledo
+294,2,01:26,37,32,PIN,substituicao_entra,Lucas Dias
+295,2,01:26,37,32,PIN,substituicao_entra,Jason Smith
+296,2,01:26,37,32,PIN,substituicao_entra,Joe Smith
+297,2,01:26,37,32,PIN,substituicao_sai,Ted Simões
+298,2,01:26,37,32,PIN,substituicao_sai,Morro
+299,2,01:26,37,32,PIN,substituicao_sai,J Campos
+300,2,01:26,37,32,MIN,LL_Pts_C,Ansaloni
+301,2,01:26,37,31,MIN,LL_Pts_C,Ansaloni
+302,2,01:26,37,30,MIN,FR,Ansaloni
+303,2,01:26,37,30,PIN,FC,Toledo
+304,2,01:42,37,30,MIN,RD,Minas
+305,2,01:42,37,30,PIN,2_Pts_T,Felipe
+306,2,01:48,37,30,MIN,ER,Ansaloni
+307,2,01:50,37,30,MIN,RD,Ansaloni
+308,2,01:50,37,30,PIN,2_Pts_T,Ted Simões
+309,2,02:11,37,30,MIN,LL_Pts_C,Collum
+310,2,02:11,37,29,MIN,LL_Pts_C,Collum
+311,2,02:11,37,28,MIN,FR,Collum
+312,2,02:11,37,28,PIN,FC,Morro
+313,2,02:30,37,28,MIN,BR,Collum
+314,2,02:30,37,28,PIN,ER,Morro
+315,2,02:46,37,28,MIN,3_Pts_C,Alex
+316,2,02:46,37,25,MIN,AS,Cafferata
+317,2,03:00,37,25,MIN,substituicao_entra,Collum
+318,2,03:00,37,25,MIN,substituicao_sai,Siqueira
+319,2,03:00,37,25,PIN,substituicao_entra,Felipe
+320,2,03:00,37,25,PIN,substituicao_sai,Jason Smith
+321,2,03:00,37,25,MIN,tempo_tecnico,Minas
+322,2,03:00,37,25,PIN,LL_Pts_C,Jason Smith
+323,2,03:00,36,25,PIN,LL_Pts_C,Jason Smith
+324,2,03:00,35,25,PIN,FR,Jason Smith
+325,2,03:00,35,25,MIN,FC,Siqueira
+326,2,03:19,35,25,PIN,RD,Morro
+327,2,03:19,35,25,MIN,2_Pts_T,Cafferata
+328,2,03:22,35,25,MIN,RO,Minas
+329,2,03:22,35,25,MIN,2_Pts_T,Cafferata
+330,2,03:26,35,25,MIN,FR,Cafferata
+331,2,03:26,35,25,PIN,FC,J Campos
+332,2,03:31,35,25,MIN,FR,Ansaloni
+333,2,03:31,35,25,PIN,FC,Morro
+334,2,03:31,35,25,MIN,RO,Ansaloni
+335,2,03:31,35,25,MIN,2_Pts_T,Siqueira
+336,2,03:38,35,25,PIN,substituicao_entra,Ted Simões
+337,2,03:38,35,25,PIN,substituicao_sai,Joe Smith
+338,2,03:41,35,25,MIN,RD,Demétrio
+339,2,03:41,35,25,PIN,LL_Pts_T,Joe Smith
+340,2,03:41,35,25,PIN,LL_Pts_C,Joe Smith
+341,2,03:41,34,25,MIN,substituicao_entra,Cafferata
+342,2,03:41,34,25,MIN,substituicao_sai,Coelho
+343,2,03:41,34,25,PIN,FR,Joe Smith
+344,2,03:41,34,25,MIN,FC,Coelho
+345,2,03:58,34,25,PIN,BR,Toledo
+346,2,03:58,34,25,MIN,ER,Coelho
+347,2,04:07,34,25,PIN,LL_Pts_C,Toledo
+348,2,04:07,33,25,PIN,LL_Pts_T,Toledo
+349,2,04:07,33,25,PIN,FR,Toledo
+350,2,04:07,33,25,MIN,FC,Ansaloni
+351,2,04:11,33,25,PIN,RO,Toledo
+352,2,04:11,33,25,PIN,3_Pts_T,Jason Smith
+353,2,04:25,33,25,PIN,FR,Jason Smith
+354,2,04:25,33,25,MIN,FC,Demétrio
+355,2,04:37,33,25,MIN,LL_Pts_C,Ansaloni
+356,2,04:37,33,24,MIN,FR,Ansaloni
+357,2,04:37,33,24,PIN,FC,Joe Smith
+358,2,04:37,33,24,MIN,2_Pts_C,Ansaloni
+359,2,04:37,33,22,MIN,AS,Alex
+360,2,04:56,33,22,MIN,substituicao_sai,Shilton
+361,2,04:56,33,22,MIN,substituicao_entra,Demétrio
+362,2,04:56,33,22,PIN,substituicao_sai,Kurtz
+363,2,04:56,33,22,PIN,substituicao_entra,Morro
+364,2,04:56,33,22,PIN,LL_Pts_C,Kurtz
+365,2,04:56,32,22,PIN,substituicao_sai,Lucas Dias
+366,2,04:56,32,22,PIN,substituicao_entra,J Campos
+367,2,04:56,32,22,PIN,FR,Kurtz
+368,2,04:56,32,22,MIN,FC,Shilton
+369,2,04:56,32,22,PIN,2_Pts_C,Kurtz
+370,2,04:56,30,22,PIN,AS,Joe Smith
+371,2,05:01,30,22,PIN,BR,Toledo
+372,2,05:01,30,22,MIN,ER,Coelho
+373,2,05:11,30,22,MIN,RD,Alex
+374,2,05:11,30,22,PIN,3_Pts_T,Toledo
+375,2,05:21,30,22,PIN,RD,Pinheiros
+376,2,05:21,30,22,MIN,2_Pts_T,Ansaloni
+377,2,05:38,30,22,MIN,substituicao_sai,Cafferata
+378,2,05:38,30,22,MIN,substituicao_entra,Coelho
+379,2,05:38,30,22,MIN,FR,Shilton
+380,2,05:38,30,22,PIN,FC,Toledo
+381,2,05:40,30,22,MIN,RD,Shilton
+382,2,05:40,30,22,PIN,2_Pts_T,Kurtz
+383,2,06:04,30,22,MIN,ER,Cafferata
+384,2,06:21,30,22,MIN,BR,Minas
+385,2,06:21,30,22,PIN,ER,Lucas Dias
+386,2,06:26,30,22,PIN,FR,Toledo
+387,2,06:26,30,22,MIN,FC,Siqueira
+388,2,06:35,30,22,PIN,RD,Joe Smith
+389,2,06:35,30,22,MIN,3_Pts_T,Alex
+390,2,06:40,30,22,PIN,substituicao_sai,André Bambu
+391,2,06:40,30,22,PIN,substituicao_entra,Toledo
+392,2,06:40,30,22,MIN,substituicao_sai,Collum
+393,2,06:40,30,22,MIN,substituicao_entra,Shilton
+394,2,06:44,30,22,PIN,2_Pts_C,Kurtz
+395,2,06:44,28,22,PIN,AS,Jason Smith
+396,2,06:57,28,22,MIN,3_Pts_C,Alex
+397,2,06:57,28,19,MIN,AS,Siqueira
+398,2,07:14,28,19,PIN,2_Pts_C,Kurtz
+399,2,07:26,26,19,PIN,RD,Lucas Dias
+400,2,07:26,26,19,MIN,3_Pts_T,Collum
+401,2,07:40,26,19,PIN,2_Pts_C,Lucas Dias
+402,2,07:43,24,19,PIN,RO,Lucas Dias
+403,2,07:43,24,19,PIN,2_Pts_T,Joe Smith
+404,2,07:59,24,19,MIN,3_Pts_C,Cafferata
+405,2,07:59,24,16,MIN,AS,Collum
+406,2,08:14,24,16,MIN,substituicao_sai,Irigoyen
+407,2,08:14,24,16,MIN,substituicao_entra,Siqueira
+408,2,08:14,24,16,MIN,tempo_tecnico,Minas
+409,2,08:14,24,16,PIN,3_Pts_C,Jason Smith
+410,2,08:14,21,16,PIN,AS,Joe Smith
+411,2,08:31,21,16,MIN,2_Pts_C,Collum
+412,2,08:49,21,14,MIN,RD,Irigoyen
+413,2,08:49,21,14,PIN,3_Pts_T,Jason Smith
+414,2,08:56,21,14,PIN,RD,Lucas Dias
+415,2,08:56,21,14,MIN,2_Pts_T,Ansaloni
+416,2,09:14,21,14,PIN,2_Pts_C,Joe Smith
+417,2,09:23,19,14,PIN,RD,Lucas Dias
+418,2,09:23,19,14,MIN,3_Pts_T,Alex
+419,2,09:45,19,14,MIN,RD,Minas
+420,2,09:45,19,14,PIN,3_Pts_T,Jason Smith
+421,1,00:00,19,14, ,fim_quarto,
+422,1,00:01,19,14,PIN,3_Pts_C,Joe Smith
+423,1,00:01,16,14,PIN,AS,Kurtz
+424,1,00:21,16,14,PIN,RD,Lucas Dias
+425,1,00:21,16,14,MIN,3_Pts_T,Collum
+426,1,00:31,16,14,MIN,RD,Minas
+427,1,00:31,16,14,PIN,3_Pts_T,Joe Smith
+428,1,01:01,16,14,MIN,3_Pts_C,Alex
+429,1,01:01,16,11,MIN,AS,Cafferata
+430,1,01:06,16,11,MIN,RO,Cafferata
+431,1,01:06,16,11,MIN,2_Pts_T,Cafferata
+432,1,01:10,16,11,MIN,RO,Alex
+433,1,01:10,16,11,MIN,2_Pts_T,Ansaloni
+434,1,01:21,16,11,MIN,BR,Minas
+435,1,01:21,16,11,PIN,ER,Joe Smith
+436,1,01:44,16,11,PIN,LL_Pts_C,Kurtz
+437,1,01:44,15,11,PIN,LL_Pts_T,Kurtz
+438,1,01:44,15,11,MIN,substituicao_sai,Adyb
+439,1,01:44,15,11,MIN,substituicao_entra,Alex
+440,1,01:44,15,11,PIN,substituicao_entra,André Bambu
+441,1,01:44,15,11,PIN,substituicao_entra,Jason Smith
+442,1,01:44,15,11,PIN,substituicao_sai,Toledo
+443,1,01:44,15,11,PIN,substituicao_sai,J Campos
+444,1,01:44,15,11,PIN,FR,Kurtz
+445,1,01:44,15,11,MIN,FC,Adyb
+446,1,02:08,15,11,MIN,2_Pts_C,Collum
+447,1,02:08,15,9,MIN,AS,Adyb
+448,1,02:22,15,9,PIN,2_Pts_C,Lucas Dias
+449,1,02:42,13,9,PIN,RD,Kurtz
+450,1,02:42,13,9,MIN,2_Pts_T,Ansaloni
+451,1,02:59,13,9,MIN,RD,Irigoyen
+452,1,02:59,13,9,PIN,LL_Pts_T,Toledo
+453,1,02:59,13,9,PIN,LL_Pts_C,Toledo
+454,1,02:59,12,9,MIN,substituicao_sai,Shilton
+455,1,02:59,12,9,MIN,substituicao_entra,Ansaloni
+456,1,02:59,12,9,PIN,substituicao_sai,Morro
+457,1,02:59,12,9,PIN,substituicao_entra,Kurtz
+458,1,03:01,12,9,PIN,FR,Toledo
+459,1,03:01,12,9,MIN,FC,Shilton
+460,1,03:02,12,9,PIN,RO,Toledo
+461,1,03:02,12,9,PIN,2_Pts_T,Toledo
+462,1,03:13,12,9,PIN,RD,Joe Smith
+463,1,03:13,12,9,MIN,3_Pts_T,Collum
+464,1,03:30,12,9,MIN,RD,Shilton
+465,1,03:30,12,9,PIN,2_Pts_T,Joe Smith
+466,1,03:40,12,9,MIN,substituicao_sai,Coelho
+467,1,03:40,12,9,MIN,substituicao_entra,Cafferata
+468,1,03:40,12,9,MIN,AS,Coelho
+469,1,03:40,12,9,MIN,LL_Pts_C,Adyb
+470,1,03:40,12,8,MIN,LL_Pts_T,Adyb
+471,1,03:40,12,8,MIN,FR,Adyb
+472,1,03:40,12,8,PIN,FC,Lucas Dias
+473,1,03:49,12,8,MIN,RD,Shilton
+474,1,03:49,12,8,MIN,TO,Adyb
+475,1,03:49,12,8,PIN,2_Pts_T,J Campos
+476,1,04:06,12,8,PIN,RD,Lucas Dias
+477,1,04:06,12,8,MIN,2_Pts_T,Irigoyen
+478,1,04:20,12,8,PIN,3_Pts_C,J Campos
+479,1,04:36,9,8,PIN,BR,Pinheiros
+480,1,04:36,9,8,MIN,ER,Coelho
+481,1,04:57,9,8,PIN,2_Pts_C,Joe Smith
+482,1,05:12,7,8,MIN,2_Pts_C,Collum
+483,1,05:26,7,6,PIN,substituicao_entra,Lucas Dias
+484,1,05:26,7,6,PIN,substituicao_entra,Joe Smith
+485,1,05:26,7,6,PIN,substituicao_sai,Ted Simões
+486,1,05:26,7,6,PIN,substituicao_sai,Felipe
+487,1,05:26,7,6,PIN,ER,Ted Simões
+488,1,05:41,7,6,PIN,RD,Felipe
+489,1,05:41,7,6,MIN,3_Pts_T,Coelho
+490,1,05:55,7,6,PIN,2_Pts_C,Morro
+491,1,05:55,5,6,PIN,AS,Ted Simões
+492,1,06:03,5,6,MIN,3_Pts_C,Collum
+493,1,06:03,5,3,MIN,AS,Irigoyen
+494,1,06:18,5,3,MIN,RO,Irigoyen
+495,1,06:18,5,3,PIN,TO,Toledo
+496,1,06:18,5,3,MIN,3_Pts_T,Irigoyen
+497,1,06:30,5,3,MIN,RD,Shilton
+498,1,06:30,5,3,PIN,3_Pts_T,Toledo
+499,1,06:54,5,3,PIN,RD,Toledo
+500,1,06:54,5,3,MIN,2_Pts_T,Collum
+501,1,06:59,5,3,MIN,RO,Collum
+502,1,06:59,5,3,MIN,2_Pts_T,Collum
+503,1,07:13,5,3,PIN,LL_Pts_C,Toledo
+504,1,07:13,4,3,PIN,FR,Toledo
+505,1,07:13,4,3,MIN,FC,Collum
+506,1,07:13,4,3,PIN,2_Pts_C,Toledo
+507,1,07:13,2,3,PIN,AS,J Campos
+508,1,07:23,2,3,PIN,RD,Morro
+509,1,07:23,2,3,MIN,2_Pts_T,Coelho
+510,1,07:47,2,3,PIN,2_Pts_C,J Campos
+511,1,07:47,0,3,PIN,AS,Morro
+512,1,08:08,0,3,MIN,3_Pts_C,Collum
+513,1,08:12,0,0,MIN,RD,Collum
+514,1,08:12,0,0,PIN,2_Pts_T,Toledo
+515,1,08:19,0,0,PIN,RO,Toledo
+516,1,08:19,0,0,PIN,2_Pts_T,Toledo
+517,1,08:35,0,0,PIN,RD,Morro
+518,1,08:35,0,0,MIN,3_Pts_T,Coelho
+519,1,08:49,0,0,MIN,RD,Shilton
+520,1,08:49,0,0,PIN,3_Pts_T,Ted Simões
+521,1,09:00,0,0,PIN,RO,Pinheiros
+522,1,09:00,0,0,PIN,2_Pts_T,J Campos
+523,1,09:26,0,0,PIN,RD,J Campos
+524,1,09:26,0,0,MIN,2_Pts_T,Adyb
+525,1,09:34,0,0,MIN,BR,Coelho
+526,1,09:34,0,0,PIN,ER,J Campos
+527,1,09:38,0,0,PIN,BR,Ted Simões
+528,1,09:38,0,0,MIN,ER,Collum
+529,1,10:00,0,0,MIN,substituicao_entra,Collum
+530,1,10:00,0,0,MIN,substituicao_entra,Coelho
+531,1,10:00,0,0,MIN,substituicao_entra,Adyb
+532,1,10:00,0,0,MIN,substituicao_entra,Irigoyen
+533,1,10:00,0,0,MIN,substituicao_entra,Shilton
+534,1,10:00,0,0,PIN,substituicao_entra,Ted Simões
+535,1,10:00,0,0,PIN,substituicao_entra,Felipe
+536,1,10:00,0,0,PIN,substituicao_entra,Toledo
+537,1,10:00,0,0,PIN,substituicao_entra,Morro
+538,1,10:00,0,0,PIN,substituicao_entra,J Campos

@@ -1,0 +1,526 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,91,80, ,fim_partida,
+1,4,00:07,91,80,ESB,3_Pts_C,Rashaun
+2,4,00:13,91,77,ESB,RD,Rashaun
+3,4,00:13,91,77,UBE,3_Pts_T,Helinho
+4,4,00:34,91,77,UBE,LL_Pts_C,Robert Day
+5,4,00:34,90,77,UBE,LL_Pts_C,Robert Day
+6,4,00:34,89,77,UBE,substituicao_sai,Cipolini
+7,4,00:34,89,77,UBE,substituicao_entra,Helinho
+8,4,00:34,89,77,ESB,FC_T,Daniel Filé
+9,4,00:34,89,77,UBE,BR,Uberlândia
+10,4,00:34,89,77,UBE,ER,Daniel Filé
+11,4,00:44,89,77,UBE,3_Pts_C,Leandro
+12,4,00:44,86,77,UBE,AS,Valtinho
+13,4,01:00,86,77,UBE,RD,Cipolini
+14,4,01:00,86,77,ESB,LL_Pts_T,Cicero
+15,4,01:00,86,77,ESB,LL_Pts_C,Cicero
+16,4,01:00,86,76,ESB,FR,Cicero
+17,4,01:00,86,76,UBE,FC,Leandro
+18,4,01:11,86,76,UBE,LL_Pts_C,Valtinho
+19,4,01:11,85,76,UBE,LL_Pts_C,Valtinho
+20,4,01:11,84,76,ESB,substituicao_sai,Robson
+21,4,01:11,84,76,ESB,substituicao_entra,Arnaldinho
+22,4,01:11,84,76,UBE,FR,Valtinho
+23,4,01:11,84,76,ESB,FC,Robson
+24,4,01:31,84,76,ESB,substituicao_sai,Arnaldinho
+25,4,01:31,84,76,ESB,substituicao_entra,Robson
+26,4,01:31,84,76,ESB,LL_Pts_C,Daniel Filé
+27,4,01:31,84,75,ESB,LL_Pts_C,Daniel Filé
+28,4,01:31,84,74,UBE,substituicao_sai,Léo Waszkiewicz
+29,4,01:31,84,74,UBE,substituicao_entra,Leandro
+30,4,01:31,84,74,ESB,FR,Daniel Filé
+31,4,01:31,84,74,UBE,FC,Léo Waszkiewicz
+32,4,01:43,84,74,ESB,RD,Daniel Filé
+33,4,01:43,84,74,UBE,LL_Pts_T,Valtinho
+34,4,01:43,84,74,UBE,LL_Pts_C,Valtinho
+35,4,01:43,83,74,UBE,FR,Valtinho
+36,4,01:43,83,74,ESB,FC,Daniel Filé
+37,4,01:59,83,74,UBE,RD,Léo Waszkiewicz
+38,4,01:59,83,74,ESB,2_Pts_T,Cicero
+39,4,02:15,83,74,UBE,LL_Pts_C,Cipolini
+40,4,02:15,82,74,UBE,LL_Pts_C,Cipolini
+41,4,02:15,81,74,UBE,FR,Cipolini
+42,4,02:15,81,74,ESB,FC,Gaspar
+43,4,02:15,81,74,UBE,RD,Valtinho
+44,4,02:15,81,74,UBE,TO,Léo Waszkiewicz
+45,4,02:15,81,74,ESB,2_Pts_T,Rashaun
+46,4,02:19,81,74,ESB,BR,Rashaun
+47,4,02:19,81,74,ESB,ER,Robert Day
+48,4,02:34,81,74,UBE,RO,Robert Day
+49,4,02:34,81,74,UBE,3_Pts_T,Robert Day
+50,4,02:52,81,74,ESB,tempo_tecnico,Espírito Santo Basquetebol
+51,4,02:52,81,74,ESB,LL_Pts_C,Rashaun
+52,4,02:52,81,73,ESB,LL_Pts_C,Rashaun
+53,4,02:52,81,72,ESB,FR,Rashaun
+54,4,02:52,81,72,UBE,FC,Audrei
+55,4,03:07,81,72,UBE,3_Pts_C,Valtinho
+56,4,03:21,78,72,ESB,LL_Pts_C,Arnaldinho
+57,4,03:21,78,71,ESB,2_Pts_C,Arnaldinho
+58,4,03:21,78,69,ESB,FR,Arnaldinho
+59,4,03:21,78,69,UBE,FC,Léo Waszkiewicz
+60,4,03:33,78,69,UBE,LL_Pts_C,Audrei
+61,4,03:33,77,69,UBE,LL_Pts_C,Audrei
+62,4,03:33,76,69,UBE,FR,Audrei
+63,4,03:33,76,69,ESB,FC,Rashaun
+64,4,03:33,76,69,UBE,RO,Audrei
+65,4,03:33,76,69,UBE,2_Pts_T,Valtinho
+66,4,03:33,76,69,UBE,RO,Valtinho
+67,4,03:33,76,69,UBE,3_Pts_T,Audrei
+68,4,03:59,76,69,ESB,LL_Pts_C,Arnaldinho
+69,4,03:59,76,68,UBE,tempo_tecnico,Uberlândia
+70,4,03:59,76,68,ESB,AS,Rashaun
+71,4,03:59,76,68,ESB,2_Pts_C,Arnaldinho
+72,4,03:59,76,66,ESB,FR,Arnaldinho
+73,4,03:59,76,66,UBE,FC,Audrei
+74,4,04:03,76,66,ESB,BR,Rashaun
+75,4,04:03,76,66,ESB,ER,Robert Day
+76,4,04:22,76,66,UBE,RD,Léo Waszkiewicz
+77,4,04:22,76,66,ESB,3_Pts_T,Arnaldinho
+78,4,04:30,76,66,ESB,RD,Daniel Filé
+79,4,04:30,76,66,UBE,3_Pts_T,Robert Day
+80,4,04:40,76,66,UBE,RO,Léo Waszkiewicz
+81,4,04:40,76,66,UBE,2_Pts_T,Cipolini
+82,4,04:49,76,66,UBE,RO,Robert Day
+83,4,04:49,76,66,UBE,3_Pts_T,Audrei
+84,4,05:12,76,66,UBE,RD,Cipolini
+85,4,05:12,76,66,ESB,LL_Pts_T,Daniel Filé
+86,4,05:12,76,66,ESB,LL_Pts_C,Daniel Filé
+87,4,05:12,76,65,ESB,FR,Daniel Filé
+88,4,05:12,76,65,UBE,FC,Cipolini
+89,4,05:29,76,65,UBE,LL_Pts_C,Robert Day
+90,4,05:29,75,65,UBE,LL_Pts_C,Robert Day
+91,4,05:29,74,65,UBE,FR,Robert Day
+92,4,05:29,74,65,ESB,FC,Gaspar
+93,4,05:33,74,65,UBE,RD,Cipolini
+94,4,05:33,74,65,UBE,TO,Léo Waszkiewicz
+95,4,05:33,74,65,ESB,2_Pts_T,Rashaun
+96,4,05:45,74,65,UBE,2_Pts_C,Audrei
+97,4,05:45,72,65,UBE,AS,Valtinho
+98,4,06:10,72,65,ESB,2_Pts_C,Daniel Filé
+99,4,06:14,72,63,ESB,FR,Daniel Filé
+100,4,06:14,72,63,UBE,FC,Cipolini
+101,4,06:14,72,63,ESB,3_Pts_T,Arnaldinho
+102,4,06:34,72,63,UBE,EN,Cipolini
+103,4,06:39,70,63,UBE,RO,Cipolini
+104,4,06:39,70,63,UBE,2_Pts_T,Audrei
+105,4,06:53,70,63,ESB,2_Pts_C,Cicero
+106,4,06:57,70,61,ESB,RO,Cicero
+107,4,06:57,70,61,ESB,3_Pts_T,Arnaldinho
+108,4,07:28,70,61,UBE,LL_Pts_C,Léo Waszkiewicz
+109,4,07:28,69,61,UBE,LL_Pts_C,Léo Waszkiewicz
+110,4,07:28,68,61,ESB,substituicao_entra,Gaspar
+111,4,07:28,68,61,ESB,substituicao_sai,Gorauskas
+112,4,07:28,68,61,UBE,FR,Léo Waszkiewicz
+113,4,07:28,68,61,ESB,FC,Gorauskas
+114,4,07:34,68,61,UBE,RO,Audrei
+115,4,07:34,68,61,UBE,3_Pts_T,Cipolini
+116,4,07:51,68,61,ESB,2_Pts_C,Daniel Filé
+117,4,07:51,68,59,ESB,AS,Arnaldinho
+118,4,08:16,68,59,UBE,LL_Pts_C,Léo Waszkiewicz
+119,4,08:16,67,59,UBE,LL_Pts_T,Léo Waszkiewicz
+120,4,08:16,67,59,ESB,substituicao_sai,Gaspar
+121,4,08:16,67,59,ESB,substituicao_entra,Rashaun
+122,4,08:16,67,59,ESB,substituicao_sai,Robson
+123,4,08:16,67,59,ESB,substituicao_entra,Daniel Filé
+124,4,08:16,67,59,ESB,tempo_tecnico,Espírito Santo Basquetebol
+125,4,08:16,67,59,UBE,FR,Léo Waszkiewicz
+126,4,08:16,67,59,ESB,FC,Gaspar
+127,4,08:16,67,59,UBE,RO,Léo Waszkiewicz
+128,4,08:16,67,59,UBE,2_Pts_T,Cipolini
+129,4,08:31,67,59,UBE,RD,Valtinho
+130,4,08:31,67,59,ESB,2_Pts_T,Gaspar
+131,4,08:48,67,59,UBE,LL_Pts_C,Audrei
+132,4,08:48,66,59,UBE,LL_Pts_C,Audrei
+133,4,08:48,65,59,UBE,FR,Audrei
+134,4,08:48,65,59,ESB,FC,Gorauskas
+135,4,08:48,65,59,UBE,RO,Audrei
+136,4,08:48,65,59,UBE,3_Pts_T,Robert Day
+137,4,09:02,65,59,ESB,EN,Cicero
+138,4,09:08,65,57,ESB,FR,Arnaldinho
+139,4,09:08,65,57,UBE,FC,Robert Day
+140,4,09:11,65,57,ESB,RO,Robson
+141,4,09:11,65,57,ESB,3_Pts_T,Cicero
+142,4,09:31,65,57,UBE,ER,Valtinho
+143,4,09:50,65,57,UBE,LL_Pts_C,Audrei
+144,4,09:50,64,57,UBE,LL_Pts_T,Audrei
+145,4,09:50,64,57,UBE,FR,Audrei
+146,4,09:50,64,57,ESB,FC_A,Cicero
+147,3,00:00,64,57, ,fim_quarto,
+148,3,00:00,64,57,ESB,3_Pts_T,Gorauskas
+149,3,00:05,64,57,UBE,LL_Pts_C,Helinho
+150,3,00:05,63,57,UBE,LL_Pts_T,Helinho
+151,3,00:08,63,57,ESB,substituicao_sai,Arnaldinho
+152,3,00:08,63,57,ESB,substituicao_entra,Rafael
+153,3,00:08,63,57,UBE,FR,Helinho
+154,3,00:08,63,57,ESB,FC,Gorauskas
+155,3,00:12,63,57,UBE,RD,Leandro
+156,3,00:12,63,57,ESB,LL_Pts_T,Arnaldinho
+157,3,00:12,63,57,ESB,LL_Pts_C,Arnaldinho
+158,3,00:12,63,56,ESB,FR,Arnaldinho
+159,3,00:12,63,56,UBE,FC,Leandro
+160,3,00:26,63,56,ESB,RO,Gorauskas
+161,3,00:26,63,56,ESB,LL_Pts_T,Gaspar
+162,3,00:26,63,56,ESB,LL_Pts_C,Gaspar
+163,3,00:26,63,55,ESB,FR,Gaspar
+164,3,00:26,63,55,UBE,FC,Zanini
+165,3,00:26,63,55,ESB,RD,Gaspar
+166,3,00:26,63,55,UBE,3_Pts_T,Leandro
+167,3,00:50,63,55,ESB,substituicao_sai,Edu
+168,3,00:50,63,55,ESB,substituicao_entra,Arnaldinho
+169,3,00:50,63,55,ESB,ER,Edu
+170,3,00:50,63,55,ESB,RD,Edu
+171,3,00:50,63,55,UBE,2_Pts_T,Zanini
+172,3,00:53,63,55,UBE,RO,Zanini
+173,3,00:53,63,55,UBE,3_Pts_T,Zanini
+174,3,01:11,63,55,UBE,BR,Audrei
+175,3,01:11,63,55,UBE,ER,Gaspar
+176,3,01:19,63,55,ESB,RD,Gaspar
+177,3,01:19,63,55,UBE,2_Pts_T,Zanini
+178,3,01:34,63,55,UBE,BR,Zanini
+179,3,01:34,63,55,UBE,ER,Gaspar
+180,3,01:53,63,55,UBE,LL_Pts_C,Helinho
+181,3,01:53,62,55,UBE,LL_Pts_C,Helinho
+182,3,01:53,61,55,UBE,FR,Helinho
+183,3,01:53,61,55,ESB,FC,Robson
+184,3,02:06,61,55,ESB,3_Pts_C,Gaspar
+185,3,02:06,61,52,ESB,AS,Edu
+186,3,02:16,61,52,ESB,substituicao_sai,Rashaun
+187,3,02:16,61,52,ESB,substituicao_entra,Gorauskas
+188,3,02:16,61,52,UBE,LL_Pts_C,Zanini
+189,3,02:16,60,52,UBE,LL_Pts_C,Zanini
+190,3,02:16,59,52,UBE,FR,Zanini
+191,3,02:16,59,52,ESB,FC,Rashaun
+192,3,02:16,59,52,UBE,RD,Zanini
+193,3,02:16,59,52,ESB,3_Pts_T,Rashaun
+194,3,02:33,59,52,ESB,LL_Pts_C,Gaspar
+195,3,02:33,59,51,ESB,LL_Pts_C,Gaspar
+196,3,02:33,59,50,UBE,FC_T,Helinho
+197,3,02:33,59,50,ESB,LL_Pts_C,Gaspar
+198,3,02:33,59,49,ESB,LL_Pts_C,Gaspar
+199,3,02:33,59,48,ESB,FR,Gaspar
+200,3,02:33,59,48,UBE,FC,Audrei
+201,3,02:33,59,48,UBE,substituicao_sai,Valtinho
+202,3,02:33,59,48,UBE,substituicao_entra,Audrei
+203,3,02:34,59,48,ESB,RD,Rashaun
+204,3,02:34,59,48,ESB,TO,Rashaun
+205,3,02:34,59,48,UBE,2_Pts_T,Valtinho
+206,3,02:43,59,48,UBE,RD,Helinho
+207,3,02:43,59,48,ESB,2_Pts_T,Gaspar
+208,3,03:06,59,48,UBE,3_Pts_C,Helinho
+209,3,03:06,56,48,UBE,AS,Cipolini
+210,3,03:22,56,48,UBE,substituicao_sai,Robert Day
+211,3,03:22,56,48,UBE,substituicao_entra,Zanini
+212,3,03:22,56,48,ESB,LL_Pts_C,Edu
+213,3,03:22,56,47,ESB,LL_Pts_C,Edu
+214,3,03:22,56,46,ESB,FR,Edu
+215,3,03:22,56,46,UBE,FC,Robert Day
+216,3,03:34,56,46,ESB,substituicao_sai,Arnaldinho
+217,3,03:34,56,46,ESB,substituicao_entra,Robson
+218,3,03:34,56,46,ESB,RD,Espírito Santo Basquetebol
+219,3,03:34,56,46,UBE,2_Pts_T,Cipolini
+220,3,03:56,56,46,ESB,2_Pts_C,Gaspar
+221,3,03:56,56,44,ESB,AS,Arnaldinho
+222,3,04:05,56,44,ESB,RD,Cicero
+223,3,04:05,56,44,UBE,2_Pts_T,Valtinho
+224,3,04:17,56,44,UBE,FR,Helinho
+225,3,04:17,56,44,ESB,FC,Arnaldinho
+226,3,04:33,56,44,UBE,FR,Valtinho
+227,3,04:33,56,44,ESB,FC,Gaspar
+228,3,04:34,56,44,UBE,RD,Valtinho
+229,3,04:34,56,44,ESB,3_Pts_T,Arnaldinho
+230,3,05:02,56,44,ESB,substituicao_sai,Gorauskas
+231,3,05:02,56,44,ESB,substituicao_entra,Edu
+232,3,05:02,56,44,UBE,AS,Valtinho
+233,3,05:02,56,44,UBE,LL_Pts_C,Cipolini
+234,3,05:02,55,44,UBE,LL_Pts_T,Cipolini
+235,3,05:02,55,44,UBE,FR,Cipolini
+236,3,05:02,55,44,ESB,FC,Gorauskas
+237,3,05:12,55,44,UBE,RD,Valtinho
+238,3,05:12,55,44,ESB,2_Pts_T,Gaspar
+239,3,05:33,55,44,UBE,3_Pts_C,Robert Day
+240,3,05:33,52,44,UBE,AS,Valtinho
+241,3,05:42,52,44,UBE,RD,Helinho
+242,3,05:42,52,44,ESB,2_Pts_T,Gorauskas
+243,3,06:09,52,44,ESB,RD,Gaspar
+244,3,06:09,52,44,UBE,3_Pts_T,Robert Day
+245,3,06:26,52,44,ESB,substituicao_sai,Daniel Filé
+246,3,06:26,52,44,ESB,substituicao_entra,Gaspar
+247,3,06:26,52,44,UBE,substituicao_sai,Léo Waszkiewicz
+248,3,06:26,52,44,UBE,substituicao_entra,Leandro
+249,3,06:26,52,44,ESB,LL_Pts_C,Cicero
+250,3,06:26,52,43,ESB,LL_Pts_T,Cicero
+251,3,06:26,52,43,ESB,FR,Cicero
+252,3,06:26,52,43,UBE,FC,Léo Waszkiewicz
+253,3,06:26,52,43,ESB,RO,Cicero
+254,3,06:26,52,43,ESB,2_Pts_T,Daniel Filé
+255,3,06:30,52,43,ESB,RO,Daniel Filé
+256,3,06:30,52,43,ESB,3_Pts_T,Arnaldinho
+257,3,06:35,52,43,ESB,RO,Arnaldinho
+258,3,06:35,52,43,ESB,2_Pts_T,Arnaldinho
+259,3,06:50,52,43,ESB,FR,Cicero
+260,3,06:50,52,43,UBE,FC,Léo Waszkiewicz
+261,3,06:50,52,43,ESB,RD,Cicero
+262,3,06:50,52,43,UBE,2_Pts_T,Cipolini
+263,3,07:02,52,43,UBE,FR,Valtinho
+264,3,07:02,52,43,ESB,FC,Rashaun
+265,3,07:09,52,43,UBE,RD,Léo Waszkiewicz
+266,3,07:09,52,43,ESB,3_Pts_T,Rashaun
+267,3,07:20,52,43,ESB,RO,Gorauskas
+268,3,07:20,52,43,ESB,2_Pts_T,Daniel Filé
+269,3,07:35,52,43,UBE,3_Pts_C,Helinho
+270,3,07:48,49,43,ESB,3_Pts_C,Arnaldinho
+271,3,08:03,49,40,UBE,substituicao_sai,Kurtz
+272,3,08:03,49,40,UBE,substituicao_entra,Léo Waszkiewicz
+273,3,08:03,49,40,ESB,FR,Rashaun
+274,3,08:03,49,40,UBE,FC,Helinho
+275,3,08:18,49,40,UBE,ER,
+276,3,08:44,49,40,ESB,2_Pts_C,Gorauskas
+277,3,08:44,49,38,ESB,AS,Arnaldinho
+278,3,08:49,49,38,ESB,RD,Arnaldinho
+279,3,08:49,49,38,UBE,3_Pts_T,Cipolini
+280,3,09:24,49,38,ESB,2_Pts_C,Rashaun
+281,3,09:44,49,36,UBE,2_Pts_C,Cipolini
+282,3,09:44,47,36,UBE,AS,Robert Day
+283,2,00:00,47,36, ,fim_quarto,
+284,2,00:00,47,36,ESB,3_Pts_T,Robson
+285,2,00:01,47,36,UBE,LL_Pts_C,Audrei
+286,2,00:01,46,36,UBE,LL_Pts_C,Audrei
+287,2,00:01,45,36,UBE,LL_Pts_C,Audrei
+288,2,00:01,44,36,UBE,FR,Audrei
+289,2,00:01,44,36,ESB,FC,Robson
+290,2,00:03,44,36,UBE,tempo_tecnico,Uberlândia
+291,2,00:03,44,36,ESB,substituicao_entra,Rafael
+292,2,00:03,44,36,ESB,substituicao_sai,Edu
+293,2,00:03,44,36,UBE,FR,Valtinho
+294,2,00:03,44,36,ESB,FC,Edu
+295,2,00:13,44,36,UBE,RD,Kurtz
+296,2,00:13,44,36,ESB,LL_Pts_T,Cicero
+297,2,00:13,44,36,ESB,LL_Pts_C,Cicero
+298,2,00:13,44,35,ESB,substituicao_entra,Gaspar
+299,2,00:13,44,35,ESB,substituicao_sai,Gorauskas
+300,2,00:13,44,35,ESB,substituicao_sai,Arnaldinho
+301,2,00:13,44,35,ESB,substituicao_entra,Robson
+302,2,00:13,44,35,ESB,FR,Cicero
+303,2,00:13,44,35,UBE,FC,Kurtz
+304,2,00:13,44,35,ESB,RO,Cicero
+305,2,00:13,44,35,ESB,2_Pts_T,Gorauskas
+306,2,00:13,44,35,ESB,RO,Gorauskas
+307,2,00:13,44,35,ESB,2_Pts_T,Cicero
+308,2,00:39,44,35,UBE,2_Pts_C,Helinho
+309,2,00:48,42,35,UBE,substituicao_sai,Robert Day
+310,2,00:48,42,35,UBE,substituicao_entra,Audrei
+311,2,00:52,42,35,UBE,RO,Robert Day
+312,2,00:52,42,35,UBE,3_Pts_T,Leandro
+313,2,01:02,42,35,UBE,RO,Leandro
+314,2,01:02,42,35,UBE,3_Pts_T,Robert Day
+315,2,01:28,42,35,ESB,LL_Pts_C,Rashaun
+316,2,01:28,42,34,ESB,2_Pts_C,Rashaun
+317,2,01:28,42,32,ESB,FR,Rashaun
+318,2,01:28,42,32,UBE,FC,Robert Day
+319,2,01:39,42,32,ESB,FR,Edu
+320,2,01:39,42,32,UBE,FC,Helinho
+321,2,01:51,42,32,UBE,substituicao_sai,Cipolini
+322,2,01:51,42,32,UBE,substituicao_entra,Leandro
+323,2,01:52,42,32,ESB,substituicao_sai,Robson
+324,2,01:52,42,32,ESB,substituicao_entra,Arnaldinho
+325,2,01:52,42,32,UBE,ER,Valtinho
+326,2,01:56,42,32,ESB,BR,Cicero
+327,2,01:56,42,32,ESB,ER,Kurtz
+328,2,02:20,42,32,ESB,3_Pts_C,Gorauskas
+329,2,02:20,42,29,ESB,AS,Rashaun
+330,2,02:39,42,29,UBE,EN,Cipolini
+331,2,02:39,40,29,UBE,AS,Robert Day
+332,2,02:46,40,29,UBE,RD,Kurtz
+333,2,02:46,40,29,ESB,3_Pts_T,Cicero
+334,2,02:52,40,29,UBE,substituicao_entra,Robert Day
+335,2,02:52,40,29,UBE,substituicao_sai,Audrei
+336,2,02:52,40,29,UBE,substituicao_sai,Léo Waszkiewicz
+337,2,02:52,40,29,UBE,substituicao_entra,Kurtz
+338,2,02:56,40,29,ESB,RD,Edu
+339,2,02:56,40,29,UBE,3_Pts_T,Valtinho
+340,2,03:11,40,29,UBE,RD,Audrei
+341,2,03:11,40,29,ESB,2_Pts_T,Edu
+342,2,03:17,40,29,ESB,RD,Cicero
+343,2,03:17,40,29,UBE,3_Pts_T,Audrei
+344,2,03:41,40,29,ESB,3_Pts_C,Gorauskas
+345,2,03:41,40,26,ESB,AS,Edu
+346,2,03:58,40,26,UBE,3_Pts_C,Helinho
+347,2,03:58,37,26,UBE,AS,Valtinho
+348,2,04:11,37,26,UBE,RD,Cipolini
+349,2,04:11,37,26,ESB,2_Pts_T,Cicero
+350,2,04:32,37,26,UBE,2_Pts_C,Audrei
+351,2,04:41,35,26,UBE,RD,Léo Waszkiewicz
+352,2,04:41,35,26,ESB,2_Pts_T,Cicero
+353,2,05:06,35,26,UBE,LL_Pts_C,Cipolini
+354,2,05:06,34,26,UBE,LL_Pts_C,Cipolini
+355,2,05:06,33,26,UBE,FR,Cipolini
+356,2,05:06,33,26,ESB,FC,Cicero
+357,2,05:22,33,26,UBE,RD,Cipolini
+358,2,05:22,33,26,ESB,LL_Pts_T,Edu
+359,2,05:22,33,26,ESB,LL_Pts_T,Edu
+360,2,05:22,33,26,ESB,FR,Edu
+361,2,05:22,33,26,UBE,FC,Léo Waszkiewicz
+362,2,05:22,33,26,ESB,RD,Gorauskas
+363,2,05:22,33,26,UBE,3_Pts_T,Audrei
+364,2,05:33,33,26,UBE,RO,Uberlândia
+365,2,05:33,33,26,UBE,2_Pts_T,Cipolini
+366,2,05:38,33,26,ESB,substituicao_sai,Daniel Filé
+367,2,05:38,33,26,ESB,substituicao_entra,Cicero
+368,2,05:39,33,26,UBE,RO,Léo Waszkiewicz
+369,2,05:39,33,26,UBE,3_Pts_T,Helinho
+370,2,06:10,33,26,ESB,2_Pts_C,Robson
+371,2,06:10,33,24,ESB,AS,Gorauskas
+372,2,06:16,33,24,ESB,BR,Edu
+373,2,06:16,33,24,ESB,ER,Valtinho
+374,2,06:26,33,24,UBE,RD,Helinho
+375,2,06:26,33,24,ESB,3_Pts_T,Rashaun
+376,2,06:44,33,24,ESB,substituicao_sai,Arnaldinho
+377,2,06:44,33,24,ESB,substituicao_entra,Edu
+378,2,06:44,33,24,ESB,tempo_tecnico,Espírito Santo Basquetebol
+379,2,06:44,33,24,UBE,2_Pts_C,Helinho
+380,2,06:44,31,24,UBE,BR,Helinho
+381,2,06:44,31,24,UBE,ER,Gorauskas
+382,2,07:10,31,24,UBE,2_Pts_C,Cipolini
+383,2,07:10,29,24,UBE,AS,Helinho
+384,2,07:18,29,24,UBE,RD,Audrei
+385,2,07:18,29,24,ESB,2_Pts_T,Rashaun
+386,2,07:41,29,24,UBE,EN,Cipolini
+387,2,07:41,27,24,UBE,AS,Valtinho
+388,2,07:49,27,24,UBE,RD,Valtinho
+389,2,07:49,27,24,UBE,TO,Léo Waszkiewicz
+390,2,07:49,27,24,ESB,2_Pts_T,Arnaldinho
+391,2,08:02,27,24,ESB,RD,Daniel Filé
+392,2,08:02,27,24,UBE,2_Pts_T,Cipolini
+393,2,08:24,27,24,UBE,RD,Léo Waszkiewicz
+394,2,08:24,27,24,ESB,2_Pts_T,Gorauskas
+395,2,08:51,27,24,UBE,3_Pts_C,Valtinho
+396,2,08:51,24,24,UBE,AS,Helinho
+397,2,09:09,24,24,ESB,2_Pts_C,Daniel Filé
+398,2,09:26,24,22,UBE,LL_Pts_C,Léo Waszkiewicz
+399,2,09:26,23,22,UBE,AS,Cipolini
+400,2,09:26,23,22,UBE,2_Pts_C,Léo Waszkiewicz
+401,2,09:26,21,22,UBE,FR,Léo Waszkiewicz
+402,2,09:26,21,22,ESB,FC,Rashaun
+403,2,09:49,21,22,ESB,2_Pts_C,Rashaun
+404,1,00:00,21,20, ,fim_quarto,
+405,1,00:00,21,20,ESB,2_Pts_C,Rashaun
+406,1,00:08,21,18,ESB,BR,Arnaldinho
+407,1,00:08,21,18,ESB,ER,Robert Day
+408,1,00:20,21,18,ESB,BR,Rashaun
+409,1,00:20,21,18,ESB,ER,Helinho
+410,1,00:20,21,18,UBE,RD,Helinho
+411,1,00:20,21,18,ESB,LL_Pts_T,Rashaun
+412,1,00:20,21,18,ESB,LL_Pts_C,Rashaun
+413,1,00:20,21,17,ESB,substituicao_sai,Gorauskas
+414,1,00:20,21,17,ESB,substituicao_entra,Gaspar
+415,1,00:30,21,17,ESB,FR,Rashaun
+416,1,00:30,21,17,UBE,FC,Audrei
+417,1,00:30,21,17,ESB,BR,Rashaun
+418,1,00:30,21,17,ESB,ER,Audrei
+419,1,00:34,21,17,ESB,substituicao_entra,Daniel Filé
+420,1,00:34,21,17,ESB,substituicao_entra,Robson
+421,1,00:34,21,17,ESB,substituicao_sai,Edu
+422,1,00:34,21,17,ESB,substituicao_sai,Gaspar
+423,1,00:34,21,17,UBE,FR,Robert Day
+424,1,00:34,21,17,ESB,FC,Arnaldinho
+425,1,00:35,21,17,UBE,RD,Robert Day
+426,1,00:35,21,17,UBE,TO,Léo Waszkiewicz
+427,1,00:35,21,17,ESB,2_Pts_T,Gorauskas
+428,1,00:49,21,17,UBE,2_Pts_C,Léo Waszkiewicz
+429,1,00:54,19,17,UBE,RO,Léo Waszkiewicz
+430,1,00:54,19,17,UBE,2_Pts_T,Audrei
+431,1,01:16,19,17,ESB,3_Pts_C,Gorauskas
+432,1,01:16,19,14,ESB,AS,Edu
+433,1,01:31,19,14,UBE,2_Pts_C,Léo Waszkiewicz
+434,1,01:31,17,14,UBE,AS,Helinho
+435,1,01:37,17,14,ESB,2_Pts_C,Edu
+436,1,01:45,17,12,ESB,RO,Edu
+437,1,01:45,17,12,UBE,TO,Léo Waszkiewicz
+438,1,01:45,17,12,ESB,2_Pts_T,Arnaldinho
+439,1,01:53,17,12,ESB,BR,Edu
+440,1,01:53,17,12,ESB,ER,Cipolini
+441,1,02:06,17,12,UBE,RD,Uberlândia
+442,1,02:06,17,12,ESB,3_Pts_T,Arnaldinho
+443,1,02:28,17,12,UBE,3_Pts_C,Audrei
+444,1,02:28,14,12,UBE,AS,Robert Day
+445,1,02:50,14,12,UBE,BR,Audrei
+446,1,02:50,14,12,UBE,ER,Edu
+447,1,03:10,14,12,ESB,RD,Gorauskas
+448,1,03:10,14,12,UBE,3_Pts_T,Robert Day
+449,1,03:25,14,12,ESB,LL_Pts_C,Gorauskas
+450,1,03:25,14,11,UBE,substituicao_entra,Léo Waszkiewicz
+451,1,03:25,14,11,UBE,substituicao_sai,Leandro
+452,1,03:25,14,11,UBE,substituicao_sai,Valtinho
+453,1,03:25,14,11,UBE,substituicao_entra,Helinho
+454,1,03:25,14,11,ESB,2_Pts_C,Gorauskas
+455,1,03:25,14,9,ESB,FR,Gorauskas
+456,1,03:25,14,9,UBE,FC,Leandro
+457,1,03:33,14,9,ESB,substituicao_sai,Cicero
+458,1,03:33,14,9,ESB,substituicao_entra,Rashaun
+459,1,03:39,14,9,ESB,RD,Gorauskas
+460,1,03:39,14,9,UBE,2_Pts_T,Audrei
+461,1,03:52,14,9,UBE,RD,Leandro
+462,1,03:52,14,9,ESB,2_Pts_T,Edu
+463,1,04:20,14,9,ESB,tempo_tecnico,Espírito Santo Basquetebol
+464,1,04:20,14,9,UBE,2_Pts_C,Audrei
+465,1,04:20,12,9,UBE,AS,Robert Day
+466,1,04:25,12,9,UBE,RD,Valtinho
+467,1,04:25,12,9,ESB,3_Pts_T,Cicero
+468,1,04:45,12,9,ESB,RD,Espírito Santo Basquetebol
+469,1,04:45,12,9,UBE,2_Pts_T,Audrei
+470,1,05:06,12,9,ESB,ER,
+471,1,05:06,12,9,ESB,substituicao_sai,Daniel Filé
+472,1,05:06,12,9,ESB,substituicao_entra,Gaspar
+473,1,05:33,12,9,UBE,3_Pts_C,Cipolini
+474,1,05:33,9,9,UBE,AS,Valtinho
+475,1,05:44,9,9,ESB,3_Pts_C,Edu
+476,1,05:44,9,6,ESB,AS,Gorauskas
+477,1,05:51,9,6,ESB,RO,Gorauskas
+478,1,05:51,9,6,ESB,2_Pts_T,Daniel Filé
+479,1,06:16,9,6,UBE,LL_Pts_C,Robert Day
+480,1,06:16,8,6,UBE,LL_Pts_C,Robert Day
+481,1,06:16,7,6,UBE,FR,Robert Day
+482,1,06:16,7,6,ESB,FC,Gorauskas
+483,1,06:30,7,6,ESB,LL_Pts_C,Daniel Filé
+484,1,06:30,7,5,ESB,LL_Pts_C,Daniel Filé
+485,1,06:30,7,4,ESB,FR,Daniel Filé
+486,1,06:30,7,4,UBE,FC,Robert Day
+487,1,06:39,7,4,UBE,2_Pts_C,Cipolini
+488,1,06:39,5,4,UBE,AS,Robert Day
+489,1,06:59,5,4,ESB,2_Pts_C,Daniel Filé
+490,1,07:07,5,2,ESB,BR,Arnaldinho
+491,1,07:07,5,2,ESB,ER,Valtinho
+492,1,07:13,5,2,UBE,BR,Valtinho
+493,1,07:13,5,2,UBE,ER,Arnaldinho
+494,1,07:37,5,2,UBE,2_Pts_C,Audrei
+495,1,07:47,3,2,ESB,2_Pts_C,Gorauskas
+496,1,08:07,3,0,ESB,RD,Gorauskas
+497,1,08:07,3,0,UBE,LL_Pts_T,Valtinho
+498,1,08:07,3,0,UBE,LL_Pts_C,Valtinho
+499,1,08:07,2,0,UBE,FR,Valtinho
+500,1,08:07,2,0,ESB,FC,Arnaldinho
+501,1,08:10,2,0,UBE,RD,Valtinho
+502,1,08:10,2,0,ESB,3_Pts_T,Edu
+503,1,08:28,2,0,UBE,EN,Cipolini
+504,1,08:28,0,0,UBE,AS,Robert Day
+505,1,08:35,0,0,UBE,RO,Valtinho
+506,1,08:35,0,0,UBE,3_Pts_T,Cipolini
+507,1,08:50,0,0,UBE,RD,Robert Day
+508,1,08:50,0,0,ESB,2_Pts_T,Daniel Filé
+509,1,09:04,0,0,ESB,RD,Edu
+510,1,09:04,0,0,UBE,3_Pts_T,Robert Day
+511,1,09:14,0,0,UBE,RD,Valtinho
+512,1,09:14,0,0,ESB,3_Pts_T,Arnaldinho
+513,1,09:34,0,0,ESB,RD,Gorauskas
+514,1,09:34,0,0,UBE,3_Pts_T,Robert Day
+515,1,10:00,0,0,ESB,substituicao_entra,Arnaldinho
+516,1,10:00,0,0,ESB,substituicao_entra,Cicero
+517,1,10:00,0,0,ESB,substituicao_entra,Gorauskas
+518,1,10:00,0,0,ESB,substituicao_entra,Daniel Filé
+519,1,10:00,0,0,ESB,substituicao_entra,Edu
+520,1,10:00,0,0,UBE,substituicao_entra,Leandro
+521,1,10:00,0,0,UBE,substituicao_entra,Robert Day
+522,1,10:00,0,0,UBE,substituicao_entra,Audrei
+523,1,10:00,0,0,UBE,substituicao_entra,Cipolini
+524,1,10:00,0,0,UBE,substituicao_entra,Valtinho

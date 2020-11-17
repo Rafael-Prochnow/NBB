@@ -1,0 +1,494 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,82,65,,fim_partida,
+1,4,00:00,82,65,,fim_quarto,
+2,4,00:02,82,65,FRA,RD,Adriano Big
+3,4,00:03,82,65,MOG,3_Pts_T,Lessa
+4,4,00:12,82,65,MOG,RD,JP Batista
+5,4,00:13,82,65,FRA,LL_Pts_T,Guilherme
+6,4,00:13,82,65,FRA,LL_Pts_T,Guilherme
+7,4,00:13,82,65,FRA,FR,Guilherme
+8,4,00:13,82,65,MOG,FC,Shamell
+9,4,00:14,82,65,FRA,RD,Augusto
+10,4,00:17,82,65,MOG,3_Pts_T,Lessa
+11,4,00:32,82,65,FRA,2_Pts_C,Guilherme
+12,4,00:42,80,65,FRA,RD,Márcio
+13,4,00:44,80,65,MOG,3_Pts_T,Shamell
+14,4,00:51,80,65,MOG,RD,JP Batista
+15,4,00:52,80,65,FRA,LL_Pts_T,Augusto
+16,4,00:52,80,65,FRA,LL_Pts_C,Augusto
+17,4,00:52,79,65,FRA,FR,Augusto
+18,4,00:52,79,65,MOG,FC,Filipin
+19,4,01:00,79,65,MOG,substituicao_entra,Lessa
+20,4,01:00,79,65,MOG,substituicao_sai,Gruber
+21,4,01:00,79,65,FRA,FR,Guilherme
+22,4,01:00,79,65,MOG,FC,Gruber
+23,4,01:08,79,65,MOG,AS,JP Batista
+24,4,01:08,79,65,MOG,3_Pts_C,Shamell
+25,4,01:26,79,62,MOG,substituicao_entra,JP Batista
+26,4,01:26,79,62,MOG,substituicao_sai,Lucas
+27,4,01:26,79,62,MOG,substituicao_entra,Shamell
+28,4,01:26,79,62,MOG,substituicao_sai,Lessa
+29,4,01:26,79,62,FRA,ER,Augusto
+30,4,01:32,79,62,MOG,substituicao_entra,Lessa
+31,4,01:32,79,62,MOG,substituicao_sai,JP Batista
+32,4,01:32,79,62,MOG,LL_Pts_C,JP Batista
+33,4,01:32,79,61,MOG,LL_Pts_T,JP Batista
+34,4,01:32,79,61,MOG,substituicao_entra,Lucas
+35,4,01:32,79,61,MOG,substituicao_sai,Shamell
+36,4,01:32,79,61,MOG,FR,JP Batista
+37,4,01:32,79,61,FRA,FC,Márcio
+38,4,01:44,79,61,MOG,substituicao_entra,JP Batista
+39,4,01:44,79,61,MOG,substituicao_sai,Lessa
+40,4,01:44,79,61,FRA,,
+41,4,01:52,79,61,MOG,substituicao_entra,Arthur Pecos
+42,4,01:52,79,61,MOG,substituicao_sai,JP Batista
+43,4,01:52,79,61,FRA,substituicao_entra,Augusto
+44,4,01:52,79,61,FRA,substituicao_sai,Jimmy
+45,4,01:52,79,61,MOG,LL_Pts_C,Shamell
+46,4,01:52,79,60,MOG,LL_Pts_C,Shamell
+47,4,01:52,79,59,MOG,FR,Shamell
+48,4,01:52,79,59,FRA,FC,Adriano Big
+49,4,01:52,79,59,MOG,RO,Shamell
+50,4,01:52,79,59,MOG,3_Pts_T,Gruber
+51,4,02:00,79,59,MOG,RD,Gruber
+52,4,02:03,79,59,FRA,2_Pts_T,Guilherme
+53,4,02:10,79,59,FRA,RO,Alexey
+54,4,02:14,79,59,FRA,2_Pts_T,Alexey
+55,4,02:32,79,59,FRA,substituicao_entra,Adriano Big
+56,4,02:32,79,59,FRA,substituicao_sai,Cipolini
+57,4,02:32,79,59,FRA,substituicao_entra,Márcio
+58,4,02:32,79,59,FRA,substituicao_sai,Didi
+59,4,02:32,79,59,FRA,substituicao_entra,Alexey
+60,4,02:32,79,59,FRA,substituicao_sai,Elinho
+61,4,02:32,79,59,FRA,tempo_tecnico,Franca
+62,4,02:37,79,59,MOG,AS,Lessa
+63,4,02:37,79,59,MOG,2_Pts_C,Shamell
+64,4,02:39,79,57,MOG,RD,Lessa
+65,4,02:42,79,57,FRA,3_Pts_T,Didi
+66,4,02:44,79,57,FRA,RO,Elinho
+67,4,02:47,79,57,FRA,3_Pts_T,Guilherme
+68,4,02:55,79,57,FRA,RD,Jimmy
+69,4,02:58,79,57,MOG,2_Pts_T,JP Batista
+70,4,03:21,79,57,FRA,AS,Elinho
+71,4,03:21,79,57,FRA,3_Pts_C,Cipolini
+72,4,03:38,76,57,MOG,AS,Lessa
+73,4,03:38,76,57,MOG,2_Pts_C,Filipin
+74,4,03:41,76,55,MOG,RD,Lessa
+75,4,03:44,76,55,FRA,2_Pts_T,Jimmy
+76,4,04:03,76,55,FRA,RD,Didi
+77,4,04:07,76,55,MOG,3_Pts_T,Filipin
+78,4,04:13,76,55,MOG,RD,Shamell
+79,4,04:16,76,55,FRA,3_Pts_T,Elinho
+80,4,04:43,76,55,MOG,LL_Pts_C,Filipin
+81,4,04:43,76,54,MOG,LL_Pts_C,Filipin
+82,4,04:43,76,53,MOG,FR,Filipin
+83,4,04:43,76,53,FRA,FC,Didi
+84,4,04:54,76,53,FRA,AS,Elinho
+85,4,04:54,76,53,FRA,2_Pts_C,Jimmy
+86,4,04:58,74,53,FRA,FR,Didi
+87,4,04:58,74,53,MOG,FC,Shamell
+88,4,05:17,74,53,MOG,AS,Shamell
+89,4,05:17,74,53,MOG,3_Pts_C,Lessa
+90,4,05:40,74,50,MOG,RD,JP Batista
+91,4,05:43,74,50,FRA,2_Pts_T,Didi
+92,4,06:03,74,50,MOG,LL_Pts_C,Shamell
+93,4,06:03,74,49,MOG,FR,Shamell
+94,4,06:03,74,49,FRA,FC,Cipolini
+95,4,06:03,74,49,MOG,2_Pts_C,Shamell
+96,4,06:07,74,47,MOG,tempo_tecnico,Mogi
+97,4,06:32,74,47,MOG,FR,Gruber
+98,4,06:32,74,47,FRA,ER,Guilherme
+99,4,06:32,74,47,FRA,FC_O,Guilherme
+100,4,06:52,74,47,MOG,2_Pts_C,JP Batista
+101,4,06:58,74,45,FRA,substituicao_entra,Elinho
+102,4,06:58,74,45,FRA,substituicao_sai,Alexey
+103,4,06:58,74,45,MOG,LL_Pts_T,Gruber
+104,4,06:58,74,45,MOG,LL_Pts_T,Gruber
+105,4,06:58,74,45,MOG,FR,Gruber
+106,4,06:58,74,45,FRA,FC_A,Alexey
+107,4,07:12,74,45,FRA,2_Pts_C,Alexey
+108,4,07:33,72,45,MOG,2_Pts_C,JP Batista
+109,4,07:37,72,43,FRA,substituicao_entra,Guilherme
+110,4,07:37,72,43,FRA,substituicao_sai,André Goes
+111,4,07:56,72,43,FRA,AS,Cipolini
+112,4,07:56,72,43,FRA,3_Pts_C,Didi
+113,4,08:02,69,43,MOG,substituicao_entra,Lessa
+114,4,08:02,69,43,MOG,substituicao_sai,Lucas
+115,4,08:02,69,43,FRA,substituicao_entra,Cipolini
+116,4,08:02,69,43,FRA,substituicao_sai,Lucas Dias
+117,4,08:02,69,43,FRA,FR,Didi
+118,4,08:02,69,43,MOG,FC,Gruber
+119,4,08:10,69,43,FRA,BR,Lucas Dias
+120,4,08:10,69,43,MOG,ER,Lucas
+121,4,08:20,69,43,FRA,2_Pts_C,Lucas Dias
+122,4,08:36,67,43,FRA,RD,Didi
+123,4,08:38,67,43,MOG,3_Pts_T,Gruber
+124,4,08:39,67,43,MOG,RO,Gruber
+125,4,08:43,67,43,MOG,3_Pts_T,Shamell
+126,4,09:01,67,43,MOG,FR,Shamell
+127,4,09:01,67,43,FRA,FC,Jimmy
+128,4,09:04,67,43,MOG,RD,JP Batista
+129,4,09:07,67,43,FRA,3_Pts_T,Jimmy
+130,4,09:10,67,43,FRA,RD,Alexey
+131,4,09:14,67,43,MOG,2_Pts_T,Lucas
+132,4,09:36,67,43,MOG,BR,Gruber
+133,4,09:36,67,43,FRA,ER,Lucas Dias
+134,4,10:00,67,43,,inicio_quarto,
+135,3,00:00,67,43,,fim_quarto,
+136,3,00:09,67,43,FRA,AS,Jimmy
+137,3,00:09,67,43,FRA,3_Pts_C,Didi
+138,3,00:17,64,43,MOG,AS,Arthur Pecos
+139,3,00:17,64,43,MOG,3_Pts_C,Filipin
+140,3,00:35,64,40,MOG,substituicao_entra,Lucas
+141,3,00:35,64,40,MOG,substituicao_sai,Cafferata
+142,3,00:35,64,40,MOG,FR,Cafferata
+143,3,00:35,64,40,FRA,FC,André Goes
+144,3,00:35,64,40,MOG,RD,Arthur Pecos
+145,3,00:35,64,40,FRA,3_Pts_T,Didi
+146,3,00:46,64,40,FRA,RD,Didi
+147,3,00:49,64,40,MOG,2_Pts_T,Gruber
+148,3,00:58,64,40,MOG,RD,Gruber
+149,3,01:02,64,40,FRA,3_Pts_T,André Goes
+150,3,01:18,64,40,FRA,RD,Lucas Dias
+151,3,01:21,64,40,MOG,2_Pts_T,Cafferata
+152,3,01:24,64,40,MOG,substituicao_entra,Arthur Pecos
+153,3,01:24,64,40,MOG,substituicao_sai,Shamell
+154,3,01:24,64,40,MOG,substituicao_entra,Gruber
+155,3,01:24,64,40,MOG,substituicao_sai,Lessa
+156,3,01:24,64,40,FRA,substituicao_entra,Jimmy
+157,3,01:24,64,40,FRA,substituicao_sai,Elinho
+158,3,01:24,64,40,MOG,FR,Cafferata
+159,3,01:24,64,40,FRA,FC,Alexey
+160,3,01:44,64,40,FRA,AS,Alexey
+161,3,01:44,64,40,FRA,2_Pts_C,Elinho
+162,3,01:46,62,40,FRA,RD,Alexey
+163,3,01:49,62,40,MOG,2_Pts_T,Shamell
+164,3,02:08,62,40,FRA,3_Pts_C,Elinho
+165,3,02:30,59,40,MOG,2_Pts_C,João Pedro
+166,3,02:53,59,38,FRA,AS,Elinho
+167,3,02:53,59,38,FRA,EN,Didi
+168,3,02:57,57,38,FRA,RD,Lucas Dias
+169,3,03:00,57,38,MOG,3_Pts_T,Shamell
+170,3,03:18,57,38,MOG,RD,Shamell
+171,3,03:22,57,38,FRA,2_Pts_T,Elinho
+172,3,03:37,57,38,FRA,FR,Lucas Dias
+173,3,03:37,57,38,MOG,FC,João Pedro
+174,3,03:44,57,38,MOG,substituicao_entra,João Pedro
+175,3,03:44,57,38,MOG,substituicao_sai,JP Batista
+176,3,03:44,57,38,MOG,ER,
+177,3,03:58,57,38,MOG,RO,JP Batista
+178,3,04:00,57,38,MOG,3_Pts_T,Cafferata
+179,3,04:14,57,38,MOG,substituicao_entra,Filipin
+180,3,04:14,57,38,MOG,substituicao_sai,Gruber
+181,3,04:14,57,38,MOG,substituicao_entra,Cafferata
+182,3,04:14,57,38,MOG,substituicao_sai,Arthur Pecos
+183,3,04:14,57,38,MOG,RO,Mogi
+184,3,04:15,57,38,MOG,3_Pts_T,Lessa
+185,3,04:29,57,38,FRA,AS,Elinho
+186,3,04:29,57,38,FRA,2_Pts_C,André Goes
+187,3,04:42,55,38,FRA,RD,Elinho
+188,3,04:45,55,38,MOG,2_Pts_T,Gruber
+189,3,05:05,55,38,MOG,tempo_tecnico,Mogi
+190,3,05:12,55,38,FRA,2_Pts_C,Elinho
+191,3,05:24,53,38,FRA,RD,Lucas Dias
+192,3,05:29,53,38,MOG,2_Pts_T,Arthur Pecos
+193,3,05:41,53,38,FRA,AS,André Goes
+194,3,05:41,53,38,FRA,3_Pts_C,Elinho
+195,3,05:45,50,38,FRA,substituicao_entra,André Goes
+196,3,05:45,50,38,FRA,substituicao_sai,Cipolini
+197,3,05:45,50,38,FRA,FR,Lucas Dias
+198,3,05:45,50,38,MOG,FC,Gruber
+199,3,05:54,50,38,MOG,AS,Shamell
+200,3,05:54,50,38,MOG,2_Pts_C,Gruber
+201,3,06:00,50,36,MOG,RD,Lessa
+202,3,06:06,50,36,FRA,2_Pts_T,Lucas Dias
+203,3,06:19,50,36,FRA,FR,Alexey
+204,3,06:19,50,36,MOG,FC,Lessa
+205,3,06:22,50,36,FRA,BR,Alexey
+206,3,06:22,50,36,MOG,ER,Gruber
+207,3,06:43,50,36,FRA,AS,Lucas Dias
+208,3,06:43,50,36,FRA,3_Pts_C,Didi
+209,3,06:56,47,36,MOG,2_Pts_C,JP Batista
+210,3,06:56,47,34,MOG,RO,JP Batista
+211,3,07:02,47,34,MOG,2_Pts_T,JP Batista
+212,3,07:23,47,34,FRA,2_Pts_C,Didi
+213,3,07:49,45,34,MOG,LL_Pts_C,Lessa
+214,3,07:49,45,33,MOG,FR,Lessa
+215,3,07:49,45,33,FRA,FC,Didi
+216,3,07:49,45,33,MOG,2_Pts_C,Lessa
+217,3,08:02,45,31,FRA,LL_Pts_C,Didi
+218,3,08:02,44,31,FRA,AS,Elinho
+219,3,08:02,44,31,FRA,LL_Pts_C,Didi
+220,3,08:02,43,31,FRA,FR,Didi
+221,3,08:02,43,31,MOG,FC,Gruber
+222,3,08:08,43,31,FRA,RD,Elinho
+223,3,08:11,43,31,MOG,2_Pts_T,Lessa
+224,3,08:15,43,31,MOG,RD,Shamell
+225,3,08:17,43,31,FRA,3_Pts_T,Didi
+226,3,08:31,43,31,MOG,AS,Shamell
+227,3,08:31,43,31,MOG,EN,Gruber
+228,3,08:40,43,29,MOG,BR,Arthur Pecos
+229,3,08:40,43,29,FRA,ER,Alexey
+230,3,08:59,43,29,MOG,2_Pts_C,JP Batista
+231,3,09:09,43,27,MOG,RD,Arthur Pecos
+232,3,09:11,43,27,FRA,3_Pts_T,Alexey
+233,3,09:18,43,27,FRA,RD,Cipolini
+234,3,09:20,43,27,MOG,3_Pts_T,Gruber
+235,3,09:28,43,27,MOG,RD,JP Batista
+236,3,09:30,43,27,FRA,3_Pts_T,Cipolini
+237,3,09:45,43,27,MOG,2_Pts_C,Gruber
+238,3,10:00,43,25,,inicio_quarto,
+239,2,00:00,43,25,,fim_quarto,
+240,2,00:01,43,25,MOG,2_Pts_C,JP Batista
+241,2,00:09,43,23,FRA,2_Pts_C,Elinho
+242,2,00:09,41,23,FRA,RO,Elinho
+243,2,00:18,41,23,FRA,3_Pts_T,Jimmy
+244,2,00:40,41,23,FRA,RD,Guilherme
+245,2,00:43,41,23,MOG,2_Pts_T,Arthur Pecos
+246,2,00:56,41,23,FRA,2_Pts_C,Elinho
+247,2,01:19,39,23,MOG,AS,Shamell
+248,2,01:19,39,23,MOG,3_Pts_C,Filipin
+249,2,01:37,39,20,FRA,AS,Elinho
+250,2,01:37,39,20,FRA,2_Pts_C,Augusto
+251,2,01:40,37,20,FRA,RD,Elinho
+252,2,01:43,37,20,MOG,2_Pts_T,Shamell
+253,2,01:52,37,20,MOG,FR,JP Batista
+254,2,01:52,37,20,FRA,FC,Augusto
+255,2,02:06,37,20,FRA,3_Pts_C,Elinho
+256,2,02:26,34,20,MOG,ER,
+257,2,02:26,34,20,MOG,RO,Lessa
+258,2,02:26,34,20,MOG,3_Pts_T,Filipin
+259,2,02:51,34,20,FRA,LL_Pts_C,David Jackson
+260,2,02:51,33,20,FRA,LL_Pts_T,David Jackson
+261,2,02:51,33,20,FRA,substituicao_entra,Augusto
+262,2,02:51,33,20,FRA,substituicao_sai,Cipolini
+263,2,02:51,33,20,MOG,substituicao_entra,Arthur Pecos
+264,2,02:51,33,20,MOG,substituicao_sai,Cafferata
+265,2,02:51,33,20,FRA,FR,David Jackson
+266,2,02:51,33,20,MOG,FC,Cafferata
+267,2,02:57,33,20,FRA,RD,Cipolini
+268,2,03:02,33,20,MOG,2_Pts_T,Cafferata
+269,2,03:06,33,20,MOG,RD,JP Batista
+270,2,03:09,33,20,FRA,3_Pts_T,Guilherme
+271,2,03:18,33,20,MOG,2_Pts_C,JP Batista
+272,2,03:18,33,18,MOG,RO,JP Batista
+273,2,03:27,33,18,MOG,2_Pts_T,JP Batista
+274,2,03:37,33,18,MOG,substituicao_entra,Filipin
+275,2,03:37,33,18,MOG,substituicao_sai,Lucas
+276,2,03:37,33,18,MOG,FR,Shamell
+277,2,03:37,33,18,FRA,FC,Jimmy
+278,2,03:57,33,18,FRA,LL_Pts_C,Jimmy
+279,2,03:57,32,18,FRA,LL_Pts_C,Jimmy
+280,2,03:57,31,18,MOG,substituicao_entra,Cafferata
+281,2,03:57,31,18,MOG,substituicao_sai,José Carlos
+282,2,03:57,31,18,FRA,substituicao_entra,Guilherme
+283,2,03:57,31,18,FRA,substituicao_sai,André Goes
+284,2,03:57,31,18,FRA,FR,Jimmy
+285,2,03:57,31,18,MOG,FC,Shamell
+286,2,04:12,31,18,FRA,BR,André Goes
+287,2,04:12,31,18,MOG,ER,JP Batista
+288,2,04:14,31,18,MOG,RD,Lucas
+289,2,04:19,31,18,FRA,2_Pts_T,Jimmy
+290,2,04:45,31,18,MOG,substituicao_entra,José Carlos
+291,2,04:45,31,18,MOG,substituicao_sai,Arthur Pecos
+292,2,04:45,31,18,FRA,substituicao_entra,David Jackson
+293,2,04:45,31,18,FRA,substituicao_sai,Alexey
+294,2,04:45,31,18,FRA,tempo_tecnico,Franca
+295,2,04:45,31,18,MOG,AS,JP Batista
+296,2,04:45,31,18,MOG,2_Pts_C,Arthur Pecos
+297,2,04:56,31,16,MOG,RD,Shamell
+298,2,04:58,31,16,FRA,3_Pts_T,Alexey
+299,2,05:16,31,16,MOG,AS,Shamell
+300,2,05:16,31,16,MOG,2_Pts_C,Lessa
+301,2,05:27,31,14,MOG,RD,Arthur Pecos
+302,2,05:28,31,14,FRA,2_Pts_T,Jimmy
+303,2,05:28,31,14,FRA,RO,Jimmy
+304,2,05:32,31,14,FRA,3_Pts_T,Cipolini
+305,2,05:41,31,14,FRA,RD,Cipolini
+306,2,05:44,31,14,MOG,2_Pts_T,Arthur Pecos
+307,2,05:45,31,14,MOG,RO,Arthur Pecos
+308,2,05:48,31,14,MOG,2_Pts_T,Shamell
+309,2,06:07,31,14,MOG,substituicao_entra,Lucas
+310,2,06:07,31,14,MOG,substituicao_sai,Filipin
+311,2,06:07,31,14,MOG,substituicao_entra,Shamell
+312,2,06:07,31,14,MOG,substituicao_sai,Gruber
+313,2,06:07,31,14,FRA,substituicao_entra,Elinho
+314,2,06:07,31,14,FRA,substituicao_sai,Didi
+315,2,06:07,31,14,FRA,ER,Jimmy
+316,2,06:13,31,14,FRA,BR,Cipolini
+317,2,06:13,31,14,MOG,ER,Gruber
+318,2,06:28,31,14,FRA,LL_Pts_C,Cipolini
+319,2,06:28,30,14,FRA,LL_Pts_T,Cipolini
+320,2,06:28,30,14,FRA,FR,Cipolini
+321,2,06:28,30,14,MOG,FC,Filipin
+322,2,06:45,30,14,MOG,ER,JP Batista
+323,2,06:50,30,14,MOG,RO,Mogi
+324,2,06:54,30,14,MOG,3_Pts_T,Lessa
+325,2,07:07,30,14,MOG,RD,Arthur Pecos
+326,2,07:10,30,14,FRA,3_Pts_T,Cipolini
+327,2,07:20,30,14,MOG,substituicao_entra,Lessa
+328,2,07:20,30,14,MOG,substituicao_sai,Shamell
+329,2,07:20,30,14,FRA,FR,Didi
+330,2,07:20,30,14,MOG,FC,Filipin
+331,2,07:20,30,14,FRA,RD,Didi
+332,2,07:22,30,14,MOG,3_Pts_T,JP Batista
+333,2,07:23,30,14,MOG,RO,JP Batista
+334,2,07:28,30,14,FRA,TO,Cipolini
+335,2,07:28,30,14,MOG,2_Pts_T,Shamell
+336,2,07:38,30,14,MOG,RD,Gruber
+337,2,07:40,30,14,FRA,3_Pts_T,Didi
+338,2,07:46,30,14,FRA,RD,Cipolini
+339,2,07:49,30,14,MOG,2_Pts_T,Gruber
+340,2,07:57,30,14,FRA,substituicao_entra,Jimmy
+341,2,07:57,30,14,FRA,substituicao_sai,David Jackson
+342,2,07:57,30,14,MOG,RO,Mogi
+343,2,07:57,30,14,FRA,TO,André Goes
+344,2,07:57,30,14,MOG,2_Pts_T,Shamell
+345,2,08:14,30,14,MOG,substituicao_entra,JP Batista
+346,2,08:14,30,14,MOG,substituicao_sai,Lucas
+347,2,08:14,30,14,FRA,substituicao_entra,Cipolini
+348,2,08:14,30,14,FRA,substituicao_sai,Lucas Dias
+349,2,08:14,30,14,MOG,FR,Gruber
+350,2,08:14,30,14,FRA,ER,Lucas Dias
+351,2,08:14,30,14,FRA,FC_O,Lucas Dias
+352,2,08:15,30,14,FRA,RO,David Jackson
+353,2,08:19,30,14,FRA,3_Pts_T,André Goes
+354,2,08:32,30,14,FRA,FR,Lucas Dias
+355,2,08:32,30,14,MOG,FC,Gruber
+356,2,08:36,30,14,FRA,RD,Alexey
+357,2,08:39,30,14,MOG,2_Pts_T,Gruber
+358,2,08:45,30,14,MOG,substituicao_entra,Arthur Pecos
+359,2,08:45,30,14,MOG,substituicao_sai,João Pedro
+360,2,08:45,30,14,MOG,FR,Gruber
+361,2,08:45,30,14,FRA,FC,André Goes
+362,2,08:51,30,14,FRA,AS,David Jackson
+363,2,08:51,30,14,FRA,2_Pts_C,André Goes
+364,2,08:56,28,14,FRA,BR,Alexey
+365,2,08:56,28,14,MOG,ER,Gruber
+366,2,09:01,28,14,MOG,BR,Gruber
+367,2,09:01,28,14,FRA,ER,Alexey
+368,2,09:15,28,14,FRA,FR,Lucas Dias
+369,2,09:15,28,14,MOG,FC,João Pedro
+370,2,09:25,28,14,FRA,FR,Alexey
+371,2,09:25,28,14,MOG,FC,Lucas
+372,2,09:25,28,14,FRA,RD,Alexey
+373,2,09:25,28,14,MOG,3_Pts_T,Shamell
+374,2,09:50,28,14,FRA,2_Pts_C,Lucas Dias
+375,2,10:00,26,14,,inicio_quarto,
+376,1,00:00,26,14,,fim_quarto,
+377,1,00:04,26,14,FRA,RD,Cipolini
+378,1,00:07,26,14,MOG,2_Pts_T,Cafferata
+379,1,00:30,26,14,MOG,RD,João Pedro
+380,1,00:33,26,14,FRA,3_Pts_T,Elinho
+381,1,00:46,26,14,FRA,BR,Elinho
+382,1,00:46,26,14,MOG,ER,Filipin
+383,1,00:51,26,14,MOG,RD,Shamell
+384,1,00:54,26,14,FRA,3_Pts_T,David Jackson
+385,1,01:05,26,14,FRA,BR,Didi
+386,1,01:05,26,14,MOG,ER,Cafferata
+387,1,01:18,26,14,MOG,RD,Cafferata
+388,1,01:21,26,14,FRA,3_Pts_T,Didi
+389,1,01:27,26,14,FRA,BR,David Jackson
+390,1,01:27,26,14,MOG,ER,José Carlos
+391,1,01:33,26,14,MOG,RD,Shamell
+392,1,01:36,26,14,FRA,3_Pts_T,André Goes
+393,1,01:56,26,14,MOG,2_Pts_C,Shamell
+394,1,02:07,26,12,MOG,substituicao_entra,Filipin
+395,1,02:07,26,12,MOG,substituicao_sai,Gruber
+396,1,02:07,26,12,MOG,substituicao_entra,José Carlos
+397,1,02:07,26,12,MOG,substituicao_sai,JP Batista
+398,1,02:07,26,12,FRA,substituicao_entra,André Goes
+399,1,02:07,26,12,FRA,substituicao_sai,Lucas Dias
+400,1,02:07,26,12,FRA,substituicao_entra,Didi
+401,1,02:07,26,12,FRA,substituicao_sai,Jimmy
+402,1,02:07,26,12,MOG,FR,João Pedro
+403,1,02:07,26,12,FRA,FC,Lucas Dias
+404,1,02:21,26,12,FRA,3_Pts_C,Elinho
+405,1,02:38,23,12,MOG,AS,Cafferata
+406,1,02:38,23,12,MOG,2_Pts_C,JP Batista
+407,1,02:49,23,10,FRA,AS,Elinho
+408,1,02:49,23,10,FRA,3_Pts_C,Lucas Dias
+409,1,02:59,20,10,FRA,RD,Cipolini
+410,1,03:02,20,10,MOG,2_Pts_T,Shamell
+411,1,03:08,20,10,MOG,substituicao_entra,João Pedro
+412,1,03:08,20,10,MOG,substituicao_sai,Arthur Pecos
+413,1,03:08,20,10,MOG,substituicao_entra,Cafferata
+414,1,03:08,20,10,MOG,substituicao_sai,Lessa
+415,1,03:15,20,10,MOG,tempo_tecnico,Mogi
+416,1,03:16,20,10,FRA,AS,Elinho
+417,1,03:16,20,10,FRA,2_Pts_C,David Jackson
+418,1,03:23,18,10,MOG,2_Pts_C,Lessa
+419,1,03:32,18,8,MOG,RO,Shamell
+420,1,03:34,18,8,MOG,2_Pts_T,Shamell
+421,1,03:49,18,8,FRA,2_Pts_C,Cipolini
+422,1,03:49,16,8,FRA,RO,Cipolini
+423,1,03:56,16,8,FRA,3_Pts_T,Elinho
+424,1,04:06,16,8,FRA,RD,David Jackson
+425,1,04:09,16,8,MOG,3_Pts_T,Lessa
+426,1,04:12,16,8,MOG,RO,JP Batista
+427,1,04:15,16,8,MOG,3_Pts_T,Arthur Pecos
+428,1,04:30,16,8,FRA,2_Pts_C,Jimmy
+429,1,04:33,14,8,FRA,RD,David Jackson
+430,1,04:42,14,8,FRA,TO,Jimmy
+431,1,04:42,14,8,MOG,2_Pts_T,Arthur Pecos
+432,1,04:46,14,8,MOG,RD,Shamell
+433,1,04:49,14,8,FRA,3_Pts_T,David Jackson
+434,1,05:02,14,8,MOG,2_Pts_C,Shamell
+435,1,05:16,14,6,MOG,RD,Shamell
+436,1,05:19,14,6,FRA,3_Pts_T,Cipolini
+437,1,05:37,14,6,MOG,AS,Arthur Pecos
+438,1,05:37,14,6,MOG,3_Pts_C,Shamell
+439,1,05:41,14,3,MOG,FR,Lessa
+440,1,05:41,14,3,FRA,FC,Lucas Dias
+441,1,05:42,14,3,MOG,RO,Lessa
+442,1,05:43,14,3,MOG,2_Pts_T,Arthur Pecos
+443,1,05:43,14,3,MOG,RO,Arthur Pecos
+444,1,05:50,14,3,MOG,3_Pts_T,Gruber
+445,1,05:55,14,3,MOG,RO,Lessa
+446,1,05:58,14,3,MOG,2_Pts_T,JP Batista
+447,1,06:08,14,3,FRA,AS,Elinho
+448,1,06:08,14,3,FRA,2_Pts_C,David Jackson
+449,1,06:32,12,3,MOG,LL_Pts_C,Lessa
+450,1,06:32,12,2,MOG,LL_Pts_T,Lessa
+451,1,06:32,12,2,MOG,FR,Lessa
+452,1,06:32,12,2,FRA,FC,Elinho
+453,1,06:36,12,2,MOG,RD,Lessa
+454,1,06:39,12,2,FRA,3_Pts_T,Elinho
+455,1,06:53,12,2,FRA,RD,Jimmy
+456,1,06:56,12,2,MOG,3_Pts_T,Arthur Pecos
+457,1,07:24,12,2,FRA,AS,Elinho
+458,1,07:24,12,2,FRA,EN,Lucas Dias
+459,1,07:33,10,2,MOG,LL_Pts_C,JP Batista
+460,1,07:33,10,1,MOG,LL_Pts_C,JP Batista
+461,1,07:33,10,0,MOG,FR,JP Batista
+462,1,07:33,10,0,FRA,FC,David Jackson
+463,1,07:46,10,0,FRA,2_Pts_C,David Jackson
+464,1,07:53,8,0,FRA,RD,David Jackson
+465,1,08:03,8,0,MOG,3_Pts_T,Lessa
+466,1,08:20,8,0,MOG,tempo_tecnico,Mogi
+467,1,08:21,8,0,FRA,3_Pts_C,Elinho
+468,1,08:24,5,0,FRA,RD,Elinho
+469,1,08:29,5,0,MOG,2_Pts_T,Arthur Pecos
+470,1,08:43,5,0,FRA,2_Pts_C,Elinho
+471,1,08:44,3,0,FRA,RO,Elinho
+472,1,08:48,3,0,FRA,2_Pts_T,Jimmy
+473,1,08:55,3,0,FRA,BR,Elinho
+474,1,08:55,3,0,MOG,ER,Lessa
+475,1,08:57,3,0,MOG,RD,Lessa
+476,1,09:00,3,0,FRA,2_Pts_T,Lucas Dias
+477,1,09:10,3,0,FRA,RD,Jimmy
+478,1,09:13,3,0,MOG,3_Pts_T,Gruber
+479,1,09:29,3,0,FRA,3_Pts_C,Elinho
+480,1,09:41,0,0,FRA,RD,Cipolini
+481,1,09:45,0,0,MOG,2_Pts_T,JP Batista
+482,1,10:00,0,0,MOG,substituicao_entra,Lessa
+483,1,10:00,0,0,MOG,substituicao_entra,Arthur Pecos
+484,1,10:00,0,0,MOG,substituicao_entra,Gruber
+485,1,10:00,0,0,MOG,substituicao_entra,JP Batista
+486,1,10:00,0,0,MOG,substituicao_entra,Shamell
+487,1,10:00,0,0,FRA,substituicao_entra,David Jackson
+488,1,10:00,0,0,FRA,substituicao_entra,Jimmy
+489,1,10:00,0,0,FRA,substituicao_entra,Cipolini
+490,1,10:00,0,0,FRA,substituicao_entra,Lucas Dias
+491,1,10:00,0,0,FRA,substituicao_entra,Elinho
+492,1,10:00,0,0,,inicio_partida,
