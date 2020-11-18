@@ -30,16 +30,15 @@ def negativo(numero):
     return numero
 
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=54')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=8')
 soup = BeautifulSoup(r.content, 'html.parser')
 list_inoutControl = get_links_from(soup)
+del(list_inoutControl[0])
 
 # nome dos times
 table_inf = soup.find(name='table')
 # estruturar conteúdo em uma Data Frame - Pandas
 informacoes = pd.read_html(str(table_inf))[0]
-
-print(informacoes)
 ano = 19
 ######################################################################################################################
 
@@ -71,7 +70,6 @@ for i in list_inoutControl:
         html_content = element.get_attribute('outerHTML')
         driver.find_element_by_xpath(
             "//a[@id='team_away_stats-label']").click()
-
         element_2 = driver.find_element_by_xpath("//table[@class='team_two_table tablesorter tablesorter-default']")
         html_content_2 = element_2.get_attribute('outerHTML')
 
@@ -137,6 +135,18 @@ for i in list_inoutControl:
         df_full.drop('JO', axis=1, inplace=True)
         df_full.drop('+/-', axis=1, inplace=True)
         df_full.drop('EF', axis=1, inplace=True)
+
+        # precisa colocar tirar a marcação (T) pois atapalha os nomes e não tem em todas as tabelas
+        nome_com_T = df_full['Jogador'].str.translate({ord(c): "," for c in "()"})
+        nome_sem_T = nome_com_T.str.replace(' ,T,', '')
+        df_full['Jogador'] = nome_sem_T
+
+        # substituir os nomes de Equipes e Total. Deixar padrão.
+        df_full['Jogador'] = df_full['Jogador'].str.replace('Total', 'Equipe')
+        # substitui os valores nulos por 0
+        # df_full.fillna(0, inplace=True)
+
+        ################################################################################################
         # divisão 1 separa da porcentagem
         divisao1 = df_full["Pts"].str.split(" ")
         # separar os convertidos e tentados
@@ -149,8 +159,8 @@ for i in list_inoutControl:
         # resultado da separação
         Pts_T = divisao3.str.get(0)
         # add nos dados
-        df_full["Pts_C"] = Pts_C.astype(int)
-        df_full["Pts_T"] = Pts_T.astype(int)
+        df_full["Pts_C"] = Pts_C
+        df_full["Pts_T"] = Pts_T
 
         # tirei a coluna "Pts C/T %"
         df_full.drop('Pts', axis=1, inplace=True)
@@ -167,8 +177,8 @@ for i in list_inoutControl:
         # resultado da separação
         Pts_T_3 = divisao3_3.str.get(0)
         # add nos dados
-        df_full["Pts_3_C"] = Pts_C_3.astype(int)
-        df_full["Pts_3_T"] = Pts_T_3.astype(int)
+        df_full["Pts_3_C"] = Pts_C_3
+        df_full["Pts_3_T"] = Pts_T_3
         # tirei a coluna "Pts C/T %"
         df_full.drop('3P%', axis=1, inplace=True)
         ################################################################################################################
@@ -185,8 +195,8 @@ for i in list_inoutControl:
         # resultado da separação
         Pts_T_2 = divisao3_2.str.get(0)
         # add nos dados
-        df_full["Pts_2_C"] = Pts_C_2.astype(int)
-        df_full["Pts_2_T"] = Pts_T_2.astype(int)
+        df_full["Pts_2_C"] = Pts_C_2
+        df_full["Pts_2_T"] = Pts_T_2
         # tirei a coluna "Pts C/T %"
         df_full.drop('2P%', axis=1, inplace=True)
         ################################################################################################################
@@ -203,8 +213,8 @@ for i in list_inoutControl:
         # resultado da separação
         Pts_T_LL = divisao3_LL.str.get(0)
         # add nos dados
-        df_full["LL_C"] = Pts_C_LL.astype(int)
-        df_full["LL_T"] = Pts_T_LL.astype(int)
+        df_full["LL_C"] = Pts_C_LL
+        df_full["LL_T"] = Pts_T_LL
         # tirei a coluna "Pts C/T %"
         df_full.drop('LL%', axis=1, inplace=True)
         ################################################################################################################
@@ -223,33 +233,37 @@ for i in list_inoutControl:
         # resultado da separação
         RO = divisaoRD.str.get(0)
         # add nos dados
-        df_full["RO"] = RO.astype(int)
-        df_full["RD"] = RD.astype(int)
-        df_full["RT"] = RT.astype(int)
+        df_full["RO"] = RO
+        df_full["RD"] = RD
+        df_full["RT"] = RT
         # tirei a coluna "Pts C/T %"
         df_full.drop("RD+RO RT", axis=1, inplace=True)
         ####################################################################################################
-        # precisa colocar tirar a marcação (T) pois atapalha os nomes e não tem em todas as tabelas
-        nome_com_T = df_full['Jogador'].str.translate({ord(c): "," for c in "()"})
-        nome_sem_T = nome_com_T.str.replace(' ,T,', '')
-        df_full['Jogador'] = nome_sem_T
+        df_full.fillna(0, inplace=True)
 
-        # ACRESCENTAR OS ARREMESSOS
-        df_full['Ar_Pts_C'] = df_full['Pts_3_C'] + df_full['Pts_2_C']
-        df_full['Ar_Pts_T'] = df_full['Pts_3_T'] + df_full['Pts_2_T']
-        df_full['posse_de_bola'] = round(df_full['Ar_Pts_T'] - df_full['RO'] + df_full['ER'] + (0.4 * df_full['LL_T']),
-                                         0)
-        df_full['posse_de_bola'] = df_full.posse_de_bola.astype(int)
+        df_full['RO'] = df_full['RO'].astype(int)
+        df_full['RD'] = df_full['RD'].astype(int)
+        df_full['RT'] = df_full['RT'].astype(int)
+        df_full['AS'] = df_full['AS'].astype(int)
+        df_full['BR'] = df_full['BR'].astype(int)
+        df_full['TO'] = df_full['TO'].astype(int)
+        df_full['FR'] = df_full['FR'].astype(int)
+        df_full['EN'] = df_full['EN'].astype(int)
+        df_full['Pts_C'] = df_full['Pts_C'].astype(int)
+        df_full['Pts_T'] = df_full['Pts_T'].astype(int)
+        df_full['Pts_3_C'] = df_full['Pts_3_C'].astype(int)
+        df_full['Pts_3_T'] = df_full['Pts_3_T'].astype(int)
+        df_full['Pts_2_C'] = df_full['Pts_2_C'].astype(int)
+        df_full['Pts_2_T'] = df_full['Pts_2_T'].astype(int)
+        df_full['LL_C'] = df_full['LL_C'].astype(int)
+        df_full['LL_T'] = df_full['LL_T'].astype(int)
+        df_full['ER'] = df_full['ER'].astype(int)
 
-        # substituir os nomes de Equipes e Total. Deixar padrão.
-        df_full['Jogador'] = df_full['Jogador'].str.replace('Total', 'Equipe')
-
-        #########################################################################################################
+        #######################################################################################
         placar_do_jogo = df_full[df_full['Jogador'] == 'Equipe']['Pts_C'].diff(periods=-1)
         placar = list(placar_do_jogo)
         dif = int(placar[0])
         # valores positivos e negatovos
-
         resultado_jogo = ['vitória' if ((x == 'casa') & (dif >= 0)) | ((x == 'fora') & (dif <= 0)) else 'derrota' for x
                           in df_full['Casa/Fora']]
 
@@ -258,9 +272,20 @@ for i in list_inoutControl:
 
         df_full['Vitoria/Derrota'] = resultado_jogo
         df_full['Diferenca_Placar'] = dif_placar
+        df_full['Ar_Pts_C'] = df_full['Pts_3_C'] + df_full['Pts_2_C']
+        df_full['Ar_Pts_T'] = df_full['Pts_3_T'] + df_full['Pts_2_T']
+        df_full['Ar_Pts_C'] = df_full['Ar_Pts_C'].astype(int)
+        df_full['Ar_Pts_T'] = df_full['Ar_Pts_T'].astype(int)
+        df_full['posse_de_bola'] = round(df_full['Ar_Pts_T'] - df_full['RO'] + df_full['ER'] + (0.4 * df_full['LL_T']),
+                                         0)
+        df_full['posse_de_bola'] = df_full.posse_de_bola.astype(int)
+
+        df_full = df_full[['Temporada', 'Time', 'Oponente', 'Data', 'Semana', 'Classificatoria/Playoffs', 'Casa/Fora',
+                           'Vitoria/Derrota', 'Diferenca_Placar', 'Jogador', 'Min', 'Pts_C', 'Ar_Pts_C', 'Pts_T',
+                           'Ar_Pts_T', 'Pts_3_C', 'Pts_3_T', 'Pts_2_C', 'Pts_2_T', 'LL_C', 'LL_T', 'RO',
+                           'RD', 'RT', 'AS', 'BR', 'TO', 'FC', 'FR', 'ER', 'EN', 'posse_de_bola']]
     else:
         html_content = element.get_attribute('outerHTML')
-
         elementaway = driver.find_element_by_xpath(
             "//div[@class='stats_real_time_table_away table-wrapper float-left']//table")
         html_content_2 = elementaway.get_attribute('outerHTML')
