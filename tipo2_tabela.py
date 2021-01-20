@@ -105,7 +105,11 @@ time_casa['Temporada'] = ano_casa
 time_casa['Data'] = Data_casa
 time_casa['Semana'] = Fase_casa
 time_casa['Classificatoria/Playoffs'] = Turno_casa
-
+time_casa['Min'] = time_casa['Min'].astype(str)
+time_casa['Min'] = time_casa['Min'].str.replace(':', '.')
+time_casa['Min'] = time_casa['Min'].astype(float)
+soma1 = round(time_casa['Min'].sum(), 0)
+time_casa.loc[(time_casa['Jogador'] == 'Equipe') | (time_casa['Jogador'] == 'Total'), 'Min'] = soma1
 
 time_fora = pd.read_html(str(table_2))[0]
 linhas_fora = len(time_fora)
@@ -124,7 +128,11 @@ time_fora['Temporada'] = ano_fora
 time_fora['Data'] = Data_fora
 time_fora['Semana'] = Fase_fora
 time_fora['Classificatoria/Playoffs'] = Turno_fora
-
+time_fora['Min'] = time_fora['Min'].astype(str)
+time_fora['Min'] = time_fora['Min'].str.replace(':', '.')
+time_fora['Min'] = time_fora['Min'].astype(float)
+soma2 = round(time_fora['Min'].sum(), 0)
+time_fora.loc[(time_fora['Jogador'] == 'Equipe') | (time_fora['Jogador'] == 'Total'), 'Min'] = soma2
 
 #########################################################################################
 df_full = pd.concat([time_casa, time_fora], axis=0)
@@ -275,7 +283,6 @@ df_full['Ar_Pts_C'] = df_full['Ar_Pts_C'].astype(int)
 df_full['Ar_Pts_T'] = df_full['Ar_Pts_T'].astype(int)
 df_full['posse_de_bola'] = round(df_full['Ar_Pts_T'] - df_full['RO'] + df_full['ER'] + (0.4 * df_full['LL_T']), 0)
 df_full['posse_de_bola'] = df_full.posse_de_bola.astype(int)
-
 
 df_full = df_full[['Temporada', 'Time', 'Oponente', 'Data', 'Semana', 'Classificatoria/Playoffs', 'Casa/Fora',
                    'Vitoria/Derrota', 'Diferenca_Placar', 'Jogador', 'Min', 'Pts_C', 'Ar_Pts_C', 'Pts_T',

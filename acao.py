@@ -9,6 +9,7 @@ import io
 import re
 import datetime as dt
 
+
 def get_links_from(soup):
     links = []
     for a in soup.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
@@ -57,5 +58,3 @@ for x in lista_de_temporadas:
                 lista_falha.append(i)
                 numero_jogo += 1
     temporada -= 1
-
-
