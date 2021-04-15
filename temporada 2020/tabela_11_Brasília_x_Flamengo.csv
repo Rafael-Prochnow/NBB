@@ -1,0 +1,508 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,74,103,,fim_partida,
+1,4,00:00,74,103,,fim_quarto,
+2,4,00:04,74,103,BSB,2_Pts_T,P Costa
+3,4,00:10,74,103,FLA,AS,Demétrio
+4,4,00:10,74,103,FLA,3_Pts_C,Balbi
+5,4,00:16,74,100,FLA,BR,Demétrio
+6,4,00:16,74,100,BSB,ER,Laster
+7,4,00:30,74,100,BSB,FR,Jefferson
+8,4,00:30,74,100,FLA,FC,Demétrio
+9,4,00:39,74,100,FLA,AS,Pedro Nunes
+10,4,00:39,74,100,FLA,3_Pts_C,Balbi
+11,4,00:52,74,97,FLA,RD,Flamengo
+12,4,00:52,74,97,FLA,TO,Jhonatan
+13,4,00:52,74,97,BSB,2_Pts_T,P Carvalho
+14,4,01:07,74,97,FLA,substituicao_entra,Demétrio
+15,4,01:07,74,97,FLA,substituicao_sai,Olivinha
+16,4,01:07,74,97,BSB,substituicao_entra,P Carvalho
+17,4,01:07,74,97,BSB,substituicao_entra,P Costa
+18,4,01:07,74,97,BSB,substituicao_sai,Caio Torres
+19,4,01:07,74,97,BSB,substituicao_sai,Samuel
+20,4,01:07,74,97,BSB,tempo_tecnico,Brasília
+21,4,01:07,74,97,FLA,AS,Pedro Nunes
+22,4,01:07,74,97,FLA,3_Pts_C,Olivinha
+23,4,01:19,74,94,FLA,RD,R Rachel
+24,4,01:22,74,94,BSB,3_Pts_T,Laster
+25,4,01:26,74,94,BSB,RO,Jefferson
+26,4,01:30,74,94,BSB,3_Pts_T,Samuel
+27,4,01:32,74,94,BSB,RD,Laster
+28,4,01:36,74,94,FLA,3_Pts_T,Pedro Nunes
+29,4,01:47,74,94,BSB,AS,Caio Torres
+30,4,01:47,74,94,BSB,2_Pts_C,Marcelão
+31,4,02:06,72,94,FLA,AS,Balbi
+32,4,02:06,72,94,FLA,3_Pts_C,Olivinha
+33,4,02:14,72,91,FLA,RD,Olivinha
+34,4,02:21,72,91,FLA,TO,Balbi
+35,4,02:21,72,91,BSB,3_Pts_T,Laster
+36,4,02:33,72,91,FLA,2_Pts_C,Olivinha
+37,4,02:53,72,89,BSB,AS,Jefferson
+38,4,02:53,72,89,BSB,3_Pts_C,Laster
+39,4,02:59,69,89,BSB,RD,Laster
+40,4,03:03,69,89,FLA,3_Pts_T,R Rachel
+41,4,03:06,69,89,FLA,RO,R Rachel
+42,4,03:09,69,89,FLA,3_Pts_T,Jhonatan
+43,4,03:20,69,89,FLA,RD,Jhonatan
+44,4,03:25,69,89,BSB,2_Pts_T,Laster
+45,4,03:29,69,89,FLA,substituicao_entra,R Rachel
+46,4,03:29,69,89,FLA,substituicao_sai,Demétrio
+47,4,03:29,69,89,BSB,RO,Brasília
+48,4,03:31,69,89,BSB,3_Pts_T,Laster
+49,4,03:48,69,89,FLA,substituicao_entra,Olivinha
+50,4,03:48,69,89,FLA,substituicao_entra,Balbi
+51,4,03:48,69,89,FLA,substituicao_sai,R Rachel
+52,4,03:48,69,89,FLA,substituicao_sai,Yago
+53,4,03:48,69,89,BSB,substituicao_entra,Marcelão
+54,4,03:48,69,89,BSB,substituicao_sai,Diego
+55,4,03:58,69,89,FLA,2_Pts_C,Jhonatan
+56,4,03:59,69,87,FLA,RO,Jhonatan
+57,4,04:03,69,87,FLA,3_Pts_T,Pedro Nunes
+58,4,04:15,69,87,BSB,2_Pts_C,Samuel
+59,4,04:36,67,87,FLA,AS,Demétrio
+60,4,04:36,67,87,FLA,2_Pts_C,R Rachel
+61,4,04:47,67,85,BSB,2_Pts_C,Diego
+62,4,04:53,65,85,BSB,BR,Diego
+63,4,04:53,65,85,FLA,ER,R Rachel
+64,4,05:18,65,85,BSB,AS,Samuel
+65,4,05:18,65,85,BSB,3_Pts_C,Diego
+66,4,05:29,62,85,FLA,LL_Pts_C,Demétrio
+67,4,05:29,62,84,FLA,LL_Pts_C,Demétrio
+68,4,05:29,62,83,FLA,substituicao_entra,R Rachel
+69,4,05:29,62,83,FLA,substituicao_sai,Balbi
+70,4,05:29,62,83,FLA,substituicao_entra,Pedro Nunes
+71,4,05:29,62,83,FLA,substituicao_sai,Hettsheimeir
+72,4,05:29,62,83,BSB,substituicao_entra,Laster
+73,4,05:29,62,83,BSB,substituicao_sai,J Socas
+74,4,05:29,62,83,FLA,FR,Demétrio
+75,4,05:29,62,83,BSB,FC,Diego
+76,4,05:29,62,83,FLA,RO,Flamengo
+77,4,05:31,62,83,FLA,3_Pts_T,Jhonatan
+78,4,05:46,62,83,BSB,2_Pts_C,Samuel
+79,4,05:51,60,83,BSB,RD,Caio Torres
+80,4,05:55,60,83,FLA,3_Pts_T,Demétrio
+81,4,06:11,60,83,BSB,AS,Diego
+82,4,06:11,60,83,BSB,2_Pts_C,Samuel
+83,4,06:17,58,83,BSB,RD,Diego
+84,4,06:21,58,83,FLA,3_Pts_T,Hettsheimeir
+85,4,06:31,58,83,FLA,RD,Yago
+86,4,06:34,58,83,BSB,3_Pts_T,Diego
+87,4,06:55,58,83,FLA,2_Pts_C,Yago
+88,4,06:59,58,81,FLA,BR,Yago
+89,4,06:59,58,81,BSB,ER,Samuel
+90,4,07:19,58,81,FLA,AS,Yago
+91,4,07:19,58,81,FLA,2_Pts_C,Demétrio
+92,4,07:27,58,79,BSB,substituicao_entra,Samuel
+93,4,07:27,58,79,BSB,substituicao_sai,Marcelão
+94,4,07:27,58,79,FLA,substituicao_entra,Demétrio
+95,4,07:27,58,79,FLA,substituicao_entra,Hettsheimeir
+96,4,07:27,58,79,FLA,substituicao_sai,R Rachel
+97,4,07:27,58,79,FLA,substituicao_sai,Olivinha
+98,4,07:27,58,79,BSB,ER,Jefferson
+99,4,07:46,58,79,BSB,RD,Brasília
+100,4,07:50,58,79,FLA,3_Pts_T,Balbi
+101,4,08:16,58,79,BSB,AS,J Socas
+102,4,08:16,58,79,BSB,3_Pts_C,Caio Torres
+103,4,08:24,55,79,BSB,RD,Diego
+104,4,08:28,55,79,FLA,3_Pts_T,Jhonatan
+105,4,08:40,55,79,BSB,AS,Jefferson
+106,4,08:40,55,79,BSB,2_Pts_C,Caio Torres
+107,4,08:59,53,79,FLA,AS,Balbi
+108,4,08:59,53,79,FLA,2_Pts_C,R Rachel
+109,4,09:05,53,77,FLA,FR,Yago
+110,4,09:05,53,77,BSB,FC,Jefferson
+111,4,09:06,53,77,FLA,RD,Olivinha
+112,4,09:10,53,77,BSB,2_Pts_T,Marcelão
+113,4,09:24,53,77,FLA,AS,Balbi
+114,4,09:24,53,77,FLA,2_Pts_C,R Rachel
+115,4,09:39,53,75,BSB,AS,J Socas
+116,4,09:39,53,75,BSB,3_Pts_C,Jefferson
+117,4,10:00,50,75,,inicio_quarto,
+118,3,00:00,50,75,,fim_quarto,
+119,3,00:03,50,75,BSB,RD,Marcelão
+120,3,00:03,50,75,FLA,3_Pts_T,Pedro Nunes
+121,3,00:06,50,75,FLA,substituicao_entra,Balbi
+122,3,00:06,50,75,FLA,substituicao_entra,Yago
+123,3,00:06,50,75,FLA,substituicao_sai,Demétrio
+124,3,00:06,50,75,FLA,substituicao_sai,R Rachel
+125,3,00:08,50,75,BSB,ER,Caio Torres
+126,3,00:23,50,75,BSB,RD,Caio Torres
+127,3,00:27,50,75,FLA,2_Pts_T,Demétrio
+128,3,00:44,50,75,FLA,RD,R Rachel
+129,3,00:47,50,75,BSB,2_Pts_T,J Socas
+130,3,01:02,50,75,BSB,substituicao_entra,Caio Torres
+131,3,01:02,50,75,BSB,substituicao_sai,Laster
+132,3,01:17,50,75,FLA,substituicao_entra,R Rachel
+133,3,01:17,50,75,FLA,substituicao_sai,Mineiro
+134,3,01:17,50,75,BSB,RD,Brasília
+135,3,01:19,50,75,FLA,3_Pts_T,Mineiro
+136,3,01:30,50,75,FLA,RD,Jhonatan
+137,3,01:34,50,75,BSB,3_Pts_T,Laster
+138,3,01:50,50,75,FLA,AS,Chuzito
+139,3,01:50,50,75,FLA,3_Pts_C,Jhonatan
+140,3,02:01,50,72,BSB,LL_Pts_C,Laster
+141,3,02:01,49,72,BSB,LL_Pts_C,Laster
+142,3,02:01,48,72,BSB,substituicao_entra,J Socas
+143,3,02:01,48,72,BSB,substituicao_sai,Samuel
+144,3,02:01,48,72,BSB,FR,Laster
+145,3,02:01,48,72,FLA,FC,Chuzito
+146,3,02:08,48,72,BSB,RD,Marcelão
+147,3,02:12,48,72,FLA,2_Pts_T,Mineiro
+148,3,02:27,48,72,BSB,2_Pts_C,Samuel
+149,3,02:41,46,72,FLA,LL_Pts_C,Mineiro
+150,3,02:41,46,71,FLA,AS,Yago
+151,3,02:41,46,71,FLA,LL_Pts_C,Mineiro
+152,3,02:41,46,70,FLA,substituicao_entra,Jhonatan
+153,3,02:41,46,70,FLA,substituicao_sai,Yago
+154,3,02:41,46,70,BSB,substituicao_entra,Diego
+155,3,02:41,46,70,BSB,substituicao_sai,J Socas
+156,3,02:41,46,70,FLA,FR,Mineiro
+157,3,02:41,46,70,BSB,FC,Marcelão
+158,3,02:54,46,70,FLA,RD,Flamengo
+159,3,02:58,46,70,BSB,2_Pts_T,Samuel
+160,3,03:01,46,70,BSB,RD,Samuel
+161,3,03:04,46,70,FLA,2_Pts_T,Demétrio
+162,3,03:18,46,70,BSB,AS,Samuel
+163,3,03:18,46,70,BSB,3_Pts_C,Laster
+164,3,03:35,43,70,FLA,AS,Yago
+165,3,03:35,43,70,FLA,LL_Pts_C,Mineiro
+166,3,03:35,43,69,FLA,LL_Pts_T,Mineiro
+167,3,03:35,43,69,FLA,FR,Mineiro
+168,3,03:35,43,69,BSB,FC,Marcelão
+169,3,03:40,43,69,FLA,RO,Chuzito
+170,3,03:43,43,69,FLA,3_Pts_T,Yago
+171,3,03:52,43,69,BSB,AS,J Socas
+172,3,03:52,43,69,BSB,2_Pts_C,Samuel
+173,3,03:55,41,69,BSB,RO,J Socas
+174,3,04:00,41,69,BSB,3_Pts_T,Laster
+175,3,04:11,41,69,FLA,ER,Yago
+176,3,04:12,41,69,FLA,RD,Mineiro
+177,3,04:16,41,69,BSB,2_Pts_T,Samuel
+178,3,04:34,41,69,FLA,AS,Yago
+179,3,04:34,41,69,FLA,3_Pts_C,Pedro Nunes
+180,3,04:36,41,66,FLA,substituicao_entra,Chuzito
+181,3,04:36,41,66,FLA,substituicao_sai,Jhonatan
+182,3,04:36,41,66,FLA,RO,Flamengo
+183,3,04:38,41,66,FLA,3_Pts_T,Yago
+184,3,04:51,41,66,BSB,2_Pts_C,Samuel
+185,3,05:05,39,66,FLA,AS,Mineiro
+186,3,05:05,39,66,FLA,3_Pts_C,Demétrio
+187,3,05:11,39,63,FLA,substituicao_entra,Mineiro
+188,3,05:11,39,63,FLA,substituicao_sai,Olivinha
+189,3,05:11,39,63,BSB,substituicao_entra,Laster
+190,3,05:11,39,63,BSB,substituicao_entra,Marcelão
+191,3,05:11,39,63,BSB,substituicao_sai,Diego
+192,3,05:11,39,63,BSB,substituicao_sai,Caio Torres
+193,3,05:31,39,63,BSB,AS,Samuel
+194,3,05:31,39,63,BSB,3_Pts_C,Jefferson
+195,3,05:50,36,63,FLA,AS,Yago
+196,3,05:50,36,63,FLA,2_Pts_C,Demétrio
+197,3,06:07,36,61,BSB,AS,Samuel
+198,3,06:07,36,61,BSB,3_Pts_C,Diego
+199,3,06:23,33,61,BSB,RD,Brasília
+200,3,06:24,33,61,FLA,3_Pts_T,Jhonatan
+201,3,06:36,33,61,FLA,RD,Olivinha
+202,3,06:39,33,61,BSB,2_Pts_T,Samuel
+203,3,06:57,33,61,FLA,substituicao_entra,Pedro Nunes
+204,3,06:57,33,61,FLA,substituicao_sai,Balbi
+205,3,06:57,33,61,BSB,tempo_tecnico,Brasília
+206,3,06:58,33,61,FLA,AS,Balbi
+207,3,06:58,33,61,FLA,2_Pts_C,Olivinha
+208,3,07:04,33,59,FLA,BR,Jhonatan
+209,3,07:04,33,59,BSB,ER,Caio Torres
+210,3,07:26,33,59,FLA,substituicao_entra,Demétrio
+211,3,07:26,33,59,FLA,substituicao_sai,Hettsheimeir
+212,3,07:26,33,59,BSB,FR,Diego
+213,3,07:26,33,59,FLA,FC,Yago
+214,3,07:40,33,59,FLA,AS,Balbi
+215,3,07:40,33,59,FLA,EN,Jhonatan
+216,3,07:45,33,57,FLA,BR,Balbi
+217,3,07:45,33,57,BSB,ER,J Socas
+218,3,07:50,33,57,BSB,RD,Diego
+219,3,07:55,33,57,BSB,TO,Diego
+220,3,07:55,33,57,FLA,2_Pts_T,Hettsheimeir
+221,3,08:12,33,57,FLA,BR,Balbi
+222,3,08:12,33,57,BSB,ER,Caio Torres
+223,3,08:23,33,57,FLA,2_Pts_C,Olivinha
+224,3,08:24,33,55,FLA,RO,Olivinha
+225,3,08:29,33,55,FLA,3_Pts_T,Yago
+226,3,08:35,33,55,FLA,RD,Olivinha
+227,3,08:39,33,55,BSB,3_Pts_T,J Socas
+228,3,08:53,33,55,BSB,RD,Caio Torres
+229,3,08:53,33,55,FLA,LL_Pts_T,Olivinha
+230,3,08:53,33,55,FLA,AS,Balbi
+231,3,08:53,33,55,FLA,LL_Pts_C,Olivinha
+232,3,08:53,33,54,FLA,FR,Olivinha
+233,3,08:53,33,54,BSB,FC,Diego
+234,3,08:54,33,54,FLA,RD,Balbi
+235,3,08:58,33,54,BSB,3_Pts_T,Samuel
+236,3,09:09,33,54,FLA,2_Pts_C,Olivinha
+237,3,09:09,33,52,FLA,RO,Olivinha
+238,3,09:16,33,52,FLA,3_Pts_T,Jhonatan
+239,3,09:24,33,52,FLA,BR,Yago
+240,3,09:24,33,52,BSB,ER,J Socas
+241,3,09:42,33,52,FLA,AS,Olivinha
+242,3,09:42,33,52,FLA,2_Pts_C,Hettsheimeir
+243,3,10:00,33,50,,inicio_quarto,
+244,2,00:00,33,50,,fim_quarto,
+245,2,00:00,33,50,BSB,RD,Samuel
+246,2,00:00,33,50,FLA,3_Pts_T,Olivinha
+247,2,00:24,33,50,BSB,2_Pts_C,Samuel
+248,2,00:40,31,50,FLA,AS,Mineiro
+249,2,00:40,31,50,FLA,3_Pts_C,Balbi
+250,2,00:45,31,47,FLA,RD,Olivinha
+251,2,00:51,31,47,BSB,2_Pts_T,Samuel
+252,2,00:57,31,47,FLA,substituicao_entra,Mineiro
+253,2,00:57,31,47,FLA,substituicao_entra,Yago
+254,2,00:57,31,47,FLA,substituicao_sai,Hettsheimeir
+255,2,00:57,31,47,FLA,substituicao_sai,Chuzito
+256,2,00:57,31,47,FLA,ER,Hettsheimeir
+257,2,00:58,31,47,FLA,BR,Hettsheimeir
+258,2,00:58,31,47,BSB,ER,Caio Torres
+259,2,01:25,31,47,FLA,AS,Chuzito
+260,2,01:25,31,47,FLA,2_Pts_C,Olivinha
+261,2,01:30,31,45,FLA,BR,Chuzito
+262,2,01:30,31,45,BSB,ER,Jefferson
+263,2,01:37,31,45,BSB,RD,Laster
+264,2,01:41,31,45,FLA,3_Pts_T,Chuzito
+265,2,01:46,31,45,FLA,BR,Hettsheimeir
+266,2,01:46,31,45,BSB,ER,Laster
+267,2,02:04,31,45,FLA,3_Pts_C,Balbi
+268,2,02:17,31,42,FLA,substituicao_entra,Balbi
+269,2,02:17,31,42,FLA,substituicao_sai,Yago
+270,2,02:17,31,42,FLA,RD,Flamengo
+271,2,02:17,31,42,BSB,2_Pts_T,Marcelão
+272,2,02:17,31,42,BSB,RO,Marcelão
+273,2,02:19,31,42,BSB,2_Pts_T,Laster
+274,2,02:23,31,42,BSB,BR,Laster
+275,2,02:23,31,42,FLA,ER,Hettsheimeir
+276,2,02:33,31,42,FLA,RD,Olivinha
+277,2,02:36,31,42,BSB,3_Pts_T,Caio Torres
+278,2,03:01,31,42,FLA,AS,Yago
+279,2,03:01,31,42,FLA,2_Pts_C,Olivinha
+280,2,03:12,31,40,BSB,tempo_tecnico,Brasília
+281,2,03:16,31,40,BSB,ER,Laster
+282,2,03:18,31,40,BSB,RD,Samuel
+283,2,03:22,31,40,FLA,3_Pts_T,Chuzito
+284,2,03:27,31,40,FLA,BR,Chuzito
+285,2,03:27,31,40,BSB,ER,Caio Torres
+286,2,03:43,31,40,FLA,LL_Pts_C,Yago
+287,2,03:43,31,39,FLA,LL_Pts_C,Yago
+288,2,03:43,31,38,FLA,substituicao_entra,Chuzito
+289,2,03:43,31,38,FLA,substituicao_entra,Jhonatan
+290,2,03:43,31,38,FLA,substituicao_sai,Balbi
+291,2,03:43,31,38,FLA,substituicao_sai,Pedro Nunes
+292,2,03:43,31,38,BSB,substituicao_entra,Laster
+293,2,03:43,31,38,BSB,substituicao_sai,J Socas
+294,2,03:43,31,38,FLA,FR,Yago
+295,2,03:43,31,38,BSB,FC,Jefferson
+296,2,03:45,31,38,FLA,RD,Balbi
+297,2,03:49,31,38,BSB,3_Pts_T,Jefferson
+298,2,04:04,31,38,FLA,ER,Balbi
+299,2,04:08,31,38,FLA,RD,Hettsheimeir
+300,2,04:12,31,38,BSB,2_Pts_T,Marcelão
+301,2,04:25,31,38,FLA,substituicao_entra,Olivinha
+302,2,04:25,31,38,FLA,substituicao_sai,Mineiro
+303,2,04:25,31,38,BSB,substituicao_entra,Caio Torres
+304,2,04:25,31,38,BSB,substituicao_sai,Laster
+305,2,04:25,31,38,FLA,ER,Balbi
+306,2,04:32,31,38,FLA,substituicao_entra,Yago
+307,2,04:32,31,38,FLA,substituicao_sai,Chuzito
+308,2,04:32,31,38,BSB,ER,Marcelão
+309,2,04:47,31,38,FLA,AS,Pedro Nunes
+310,2,04:47,31,38,FLA,3_Pts_C,Hettsheimeir
+311,2,04:51,31,35,FLA,RD,Hettsheimeir
+312,2,04:55,31,35,BSB,3_Pts_T,J Socas
+313,2,05:12,31,35,FLA,AS,Balbi
+314,2,05:12,31,35,FLA,2_Pts_C,Mineiro
+315,2,05:22,31,33,FLA,FR,Pedro Nunes
+316,2,05:22,31,33,BSB,ER,Samuel
+317,2,05:22,31,33,BSB,FC_O,Samuel
+318,2,05:29,31,33,BSB,tempo_tecnico,Brasília
+319,2,05:32,31,33,FLA,AS,Balbi
+320,2,05:32,31,33,FLA,2_Pts_C,Hettsheimeir
+321,2,05:38,31,31,FLA,RD,Flamengo
+322,2,05:40,31,31,BSB,3_Pts_T,Samuel
+323,2,06:04,31,31,FLA,LL_Pts_C,Hettsheimeir
+324,2,06:04,31,30,FLA,FR,Hettsheimeir
+325,2,06:04,31,30,BSB,FC,J Socas
+326,2,06:04,31,30,FLA,AS,Balbi
+327,2,06:04,31,30,FLA,2_Pts_C,Hettsheimeir
+328,2,06:11,31,28,FLA,RO,Pedro Nunes
+329,2,06:15,31,28,FLA,2_Pts_T,Hettsheimeir
+330,2,06:26,31,28,FLA,RD,Balbi
+331,2,06:30,31,28,BSB,2_Pts_T,J Socas
+332,2,06:44,31,28,FLA,ER,Mineiro
+333,2,06:49,31,28,BSB,substituicao_entra,Laster
+334,2,06:49,31,28,BSB,substituicao_sai,Diego
+335,2,07:01,31,28,FLA,substituicao_entra,Hettsheimeir
+336,2,07:01,31,28,FLA,substituicao_sai,Jhonatan
+337,2,07:01,31,28,BSB,LL_Pts_C,J Socas
+338,2,07:01,30,28,BSB,LL_Pts_C,J Socas
+339,2,07:01,29,28,BSB,FR,J Socas
+340,2,07:01,29,28,FLA,FC,Pedro Nunes
+341,2,07:03,29,28,BSB,RD,Marcelão
+342,2,07:04,29,28,FLA,2_Pts_T,Mineiro
+343,2,07:04,29,28,FLA,RO,Mineiro
+344,2,07:13,29,28,FLA,3_Pts_T,Balbi
+345,2,07:18,29,28,BSB,substituicao_entra,Samuel
+346,2,07:18,29,28,BSB,substituicao_sai,Laster
+347,2,07:27,29,28,FLA,substituicao_entra,Pedro Nunes
+348,2,07:27,29,28,FLA,substituicao_sai,Olivinha
+349,2,07:27,29,28,FLA,FR,Jhonatan
+350,2,07:27,29,28,BSB,FC,Diego
+351,2,07:27,29,28,FLA,RD,Jhonatan
+352,2,07:27,29,28,BSB,3_Pts_T,Jefferson
+353,2,07:30,29,28,BSB,RO,Marcelão
+354,2,07:35,29,28,BSB,3_Pts_T,Diego
+355,2,07:53,29,28,FLA,AS,Jhonatan
+356,2,07:53,29,28,FLA,3_Pts_C,Chuzito
+357,2,07:57,29,25,BSB,substituicao_entra,J Socas
+358,2,07:57,29,25,BSB,substituicao_sai,Samuel
+359,2,07:57,29,25,FLA,FR,Olivinha
+360,2,07:57,29,25,BSB,FC,Diego
+361,2,07:59,29,25,FLA,RD,Balbi
+362,2,08:03,29,25,BSB,3_Pts_T,Samuel
+363,2,08:09,29,25,BSB,RD,Marcelão
+364,2,08:12,29,25,FLA,3_Pts_T,Olivinha
+365,2,08:27,29,25,FLA,FR,Balbi
+366,2,08:27,29,25,BSB,FC,Laster
+367,2,08:29,29,25,FLA,BR,Balbi
+368,2,08:29,29,25,BSB,ER,Jefferson
+369,2,08:36,29,25,FLA,substituicao_entra,Olivinha
+370,2,08:36,29,25,FLA,substituicao_entra,Chuzito
+371,2,08:36,29,25,FLA,substituicao_entra,Balbi
+372,2,08:36,29,25,FLA,substituicao_sai,Demétrio
+373,2,08:36,29,25,FLA,substituicao_sai,Hettsheimeir
+374,2,08:36,29,25,FLA,substituicao_sai,Yago
+375,2,08:36,29,25,FLA,ER,Demétrio
+376,2,08:36,29,25,FLA,RO,Demétrio
+377,2,08:39,29,25,FLA,3_Pts_T,Hettsheimeir
+378,2,08:55,29,25,BSB,2_Pts_C,Marcelão
+379,2,09:15,27,25,FLA,AS,Yago
+380,2,09:15,27,25,FLA,3_Pts_C,Hettsheimeir
+381,2,09:29,27,22,BSB,AS,Jefferson
+382,2,09:29,27,22,BSB,2_Pts_C,Marcelão
+383,2,09:40,25,22,BSB,LL_Pts_T,Marcelão
+384,2,09:40,25,22,BSB,AS,Diego
+385,2,09:40,25,22,BSB,LL_Pts_C,Marcelão
+386,2,09:40,24,22,BSB,FR,Marcelão
+387,2,09:40,24,22,FLA,FC_A,Demétrio
+388,2,10:00,24,22,,inicio_quarto,
+389,1,00:00,24,22,,fim_quarto,
+390,1,00:04,24,22,FLA,3_Pts_T,Mineiro
+391,1,00:04,24,22,FLA,RD,Mineiro
+392,1,00:04,24,22,BSB,2_Pts_T,Marcelão
+393,1,00:08,24,22,FLA,substituicao_entra,Pedro Nunes
+394,1,00:08,24,22,FLA,substituicao_sai,Chuzito
+395,1,00:09,24,22,BSB,FR,Jefferson
+396,1,00:09,24,22,FLA,FC,Yago
+397,1,00:27,24,22,FLA,AS,Yago
+398,1,00:27,24,22,FLA,3_Pts_C,Chuzito
+399,1,00:39,24,19,BSB,AS,Jefferson
+400,1,00:39,24,19,BSB,2_Pts_C,Marcelão
+401,1,01:02,22,19,FLA,AS,Yago
+402,1,01:02,22,19,FLA,3_Pts_C,Chuzito
+403,1,01:16,22,16,BSB,3_Pts_C,Laster
+404,1,01:32,19,16,FLA,2_Pts_C,Mineiro
+405,1,01:49,19,14,BSB,AS,Jefferson
+406,1,01:49,19,14,BSB,2_Pts_C,Diego
+407,1,01:52,17,14,BSB,RD,Jefferson
+408,1,01:56,17,14,FLA,3_Pts_T,Mineiro
+409,1,02:11,17,14,FLA,RD,Jhonatan
+410,1,02:15,17,14,BSB,3_Pts_T,Diego
+411,1,02:23,17,14,FLA,2_Pts_C,Yago
+412,1,02:32,17,12,BSB,AS,Samuel
+413,1,02:32,17,12,BSB,2_Pts_C,Diego
+414,1,02:54,15,12,FLA,substituicao_entra,Mineiro
+415,1,02:54,15,12,FLA,substituicao_sai,Hettsheimeir
+416,1,02:54,15,12,BSB,substituicao_entra,Marcelão
+417,1,02:54,15,12,BSB,substituicao_sai,Caio Torres
+418,1,02:54,15,12,BSB,FR,Caio Torres
+419,1,02:54,15,12,FLA,ER,Hettsheimeir
+420,1,02:54,15,12,FLA,FC_O,Hettsheimeir
+421,1,03:06,15,12,BSB,AS,Samuel
+422,1,03:06,15,12,BSB,3_Pts_C,Laster
+423,1,03:08,12,12,BSB,RO,Samuel
+424,1,03:12,12,12,BSB,2_Pts_T,Jefferson
+425,1,03:18,12,12,BSB,RD,Jefferson
+426,1,03:23,12,12,FLA,3_Pts_T,Demétrio
+427,1,03:31,12,12,FLA,FR,Hettsheimeir
+428,1,03:31,12,12,BSB,FC,Caio Torres
+429,1,03:38,12,12,FLA,RD,Flamengo
+430,1,03:41,12,12,BSB,3_Pts_T,Caio Torres
+431,1,03:44,12,12,FLA,substituicao_entra,Jhonatan
+432,1,03:44,12,12,FLA,substituicao_sai,Balbi
+433,1,03:44,12,12,FLA,substituicao_entra,Yago
+434,1,03:44,12,12,FLA,substituicao_sai,Mineiro
+435,1,03:44,12,12,BSB,substituicao_entra,Jefferson
+436,1,03:44,12,12,BSB,substituicao_sai,J Socas
+437,1,03:44,12,12,BSB,FR,Diego
+438,1,03:44,12,12,FLA,FC,Demétrio
+439,1,04:03,12,12,FLA,AS,Mineiro
+440,1,04:03,12,12,FLA,3_Pts_C,Chuzito
+441,1,04:14,12,9,BSB,AS,Diego
+442,1,04:14,12,9,BSB,2_Pts_C,J Socas
+443,1,04:24,10,9,FLA,EN,Demétrio
+444,1,04:30,10,7,FLA,BR,Demétrio
+445,1,04:30,10,7,BSB,ER,Laster
+446,1,04:41,10,7,BSB,RD,Brasília
+447,1,04:44,10,7,FLA,3_Pts_T,Hettsheimeir
+448,1,04:52,10,7,BSB,AS,Diego
+449,1,04:52,10,7,BSB,2_Pts_C,Samuel
+450,1,05:09,8,7,FLA,AS,Balbi
+451,1,05:09,8,7,FLA,3_Pts_C,Chuzito
+452,1,05:13,8,4,FLA,RD,Balbi
+453,1,05:19,8,4,BSB,3_Pts_T,Caio Torres
+454,1,05:24,8,4,BSB,RO,Diego
+455,1,05:29,8,4,BSB,3_Pts_T,Laster
+456,1,05:44,8,4,BSB,RD,Laster
+457,1,05:47,8,4,FLA,3_Pts_T,Hettsheimeir
+458,1,05:51,8,4,FLA,RD,Balbi
+459,1,05:55,8,4,BSB,3_Pts_T,Diego
+460,1,06:07,8,4,FLA,LL_Pts_C,Hettsheimeir
+461,1,06:07,8,3,FLA,LL_Pts_C,Hettsheimeir
+462,1,06:07,8,2,FLA,substituicao_entra,Demétrio
+463,1,06:07,8,2,FLA,substituicao_sai,Olivinha
+464,1,06:07,8,2,BSB,substituicao_entra,Samuel
+465,1,06:07,8,2,BSB,substituicao_sai,Jefferson
+466,1,06:07,8,2,FLA,FR,Hettsheimeir
+467,1,06:07,8,2,BSB,FC,Caio Torres
+468,1,06:07,8,2,FLA,RO,Hettsheimeir
+469,1,06:09,8,2,FLA,2_Pts_T,Olivinha
+470,1,06:21,8,2,FLA,RD,Hettsheimeir
+471,1,06:26,8,2,BSB,3_Pts_T,Jefferson
+472,1,06:35,8,2,FLA,ER,Olivinha
+473,1,06:40,8,2,FLA,BR,Olivinha
+474,1,06:40,8,2,BSB,ER,J Socas
+475,1,06:47,8,2,BSB,BR,Caio Torres
+476,1,06:47,8,2,FLA,ER,Chuzito
+477,1,07:10,8,2,BSB,3_Pts_C,Diego
+478,1,07:27,5,2,BSB,RD,Laster
+479,1,07:30,5,2,FLA,2_Pts_T,Chuzito
+480,1,07:46,5,2,BSB,AS,J Socas
+481,1,07:46,5,2,BSB,2_Pts_C,Jefferson
+482,1,07:53,3,2,BSB,BR,J Socas
+483,1,07:53,3,2,FLA,ER,Olivinha
+484,1,08:08,3,2,FLA,RD,Balbi
+485,1,08:12,3,2,BSB,3_Pts_T,Caio Torres
+486,1,08:31,3,2,FLA,AS,Balbi
+487,1,08:31,3,2,FLA,2_Pts_C,Hettsheimeir
+488,1,08:39,3,0,FLA,RO,Mineiro
+489,1,08:43,3,0,FLA,2_Pts_T,Chuzito
+490,1,09:05,3,0,BSB,AS,Caio Torres
+491,1,09:05,3,0,BSB,3_Pts_C,J Socas
+492,1,09:24,0,0,BSB,RD,Brasília
+493,1,09:27,0,0,FLA,3_Pts_T,Hettsheimeir
+494,1,09:41,0,0,FLA,RD,Olivinha
+495,1,09:45,0,0,BSB,2_Pts_T,Laster
+496,1,10:00,0,0,FLA,substituicao_entra,Hettsheimeir
+497,1,10:00,0,0,FLA,substituicao_entra,Olivinha
+498,1,10:00,0,0,FLA,substituicao_entra,Mineiro
+499,1,10:00,0,0,FLA,substituicao_entra,Chuzito
+500,1,10:00,0,0,FLA,substituicao_entra,Balbi
+501,1,10:00,0,0,BSB,substituicao_entra,J Socas
+502,1,10:00,0,0,BSB,substituicao_entra,Diego
+503,1,10:00,0,0,BSB,substituicao_entra,Laster
+504,1,10:00,0,0,BSB,substituicao_entra,Caio Torres
+505,1,10:00,0,0,BSB,substituicao_entra,Jefferson
+506,1,10:00,0,0,,inicio_partida,

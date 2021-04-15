@@ -1,0 +1,514 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,54,90,,fim_partida,
+1,4,00:00,54,90,,fim_quarto,
+2,4,00:03,54,90,CMO,2_Pts_T,Rapha
+3,4,00:07,54,90,MIN,LL_Pts_C,Ribeiro
+4,4,00:07,54,89,MIN,LL_Pts_C,Ribeiro
+5,4,00:07,54,88,MIN,FR,Ribeiro
+6,4,00:07,54,88,CMO,FC,Tom
+7,4,00:08,54,88,MIN,BR,Nesbitt
+8,4,00:08,54,88,CMO,ER,Pezão
+9,4,00:11,54,88,CMO,RD,Pezão
+10,4,00:14,54,88,MIN,2_Pts_T,Gui Santos
+11,4,00:28,54,88,MIN,LL_Pts_T,Nesbitt
+12,4,00:28,54,88,MIN,LL_Pts_C,Nesbitt
+13,4,00:28,54,87,MIN,FR,Nesbitt
+14,4,00:28,54,87,CMO,FC_A,Castellon
+15,4,00:42,54,87,MIN,RD,Gui Santos
+16,4,00:45,54,87,CMO,3_Pts_T,Frierson
+17,4,00:55,54,87,CMO,RD,Pezão
+18,4,00:55,54,87,MIN,LL_Pts_T,Gui Santos
+19,4,00:55,54,87,MIN,FR,Gui Santos
+20,4,00:55,54,87,CMO,FC,Rapha
+21,4,00:55,54,87,MIN,2_Pts_C,Gui Santos
+22,4,01:01,54,85,MIN,BR,Gui Santos
+23,4,01:01,54,85,CMO,ER,Castellon
+24,4,01:14,54,85,CMO,RD,Tom
+25,4,01:14,54,85,MIN,LL_Pts_T,Gui Santos
+26,4,01:14,54,85,MIN,LL_Pts_C,Gui Santos
+27,4,01:14,54,84,CMO,substituicao_entra,Pezão
+28,4,01:14,54,84,CMO,substituicao_sai,Magna
+29,4,01:14,54,84,CMO,substituicao_entra,Frierson
+30,4,01:14,54,84,CMO,substituicao_entra,Rapha
+31,4,01:14,54,84,CMO,substituicao_sai,Luizinho
+32,4,01:14,54,84,CMO,substituicao_sai,Pierotti
+33,4,01:14,54,84,MIN,FR,Gui Santos
+34,4,01:14,54,84,CMO,FC,Luizinho
+35,4,01:14,54,84,MIN,RD,Gui Santos
+36,4,01:16,54,84,CMO,2_Pts_T,Magna
+37,4,01:17,54,84,CMO,RO,Magna
+38,4,01:20,54,84,CMO,2_Pts_T,Magna
+39,4,01:29,54,84,CMO,RO,Pierotti
+40,4,01:32,54,84,CMO,3_Pts_T,Magna
+41,4,01:39,54,84,CMO,RD,Pierotti
+42,4,01:44,54,84,MIN,3_Pts_T,Queiros
+43,4,01:49,54,84,MIN,RD,Gui Santos
+44,4,01:52,54,84,CMO,2_Pts_T,Luizinho
+45,4,02:10,54,84,MIN,LL_Pts_C,Gui Santos
+46,4,02:10,54,83,CMO,substituicao_entra,Tom
+47,4,02:10,54,83,CMO,substituicao_sai,Lucão
+48,4,02:10,54,83,MIN,FR,Gui Santos
+49,4,02:10,54,83,CMO,FC,Lucão
+50,4,02:10,54,83,MIN,2_Pts_C,Gui Santos
+51,4,02:23,54,81,MIN,FR,Davi
+52,4,02:23,54,81,CMO,FC,Pierotti
+53,4,02:46,54,81,CMO,AS,Luizinho
+54,4,02:46,54,81,CMO,2_Pts_C,Lucão
+55,4,02:50,52,81,CMO,RD,Luizinho
+56,4,02:53,52,81,MIN,3_Pts_T,Queiros
+57,4,03:09,52,81,MIN,RD,Queiros
+58,4,03:09,52,81,CMO,LL_Pts_T,Luizinho
+59,4,03:09,52,81,CMO,LL_Pts_C,Luizinho
+60,4,03:09,51,81,CMO,FR,Luizinho
+61,4,03:09,51,81,MIN,FC,Gui Santos
+62,4,03:29,51,81,MIN,2_Pts_C,Davi
+63,4,03:36,51,79,MIN,BR,Davi
+64,4,03:36,51,79,CMO,ER,Magna
+65,4,03:39,51,79,CMO,RD,Magna
+66,4,03:41,51,79,MIN,2_Pts_T,Gui Santos
+67,4,04:03,51,79,CMO,LL_Pts_C,Lucão
+68,4,04:03,50,79,CMO,FR,Lucão
+69,4,04:03,50,79,MIN,FC,Gui Santos
+70,4,04:03,50,79,CMO,2_Pts_C,Lucão
+71,4,04:03,48,79,CMO,RO,Lucão
+72,4,04:04,48,79,CMO,2_Pts_T,Lucão
+73,4,04:16,48,79,MIN,LL_Pts_T,Davi
+74,4,04:16,48,79,CMO,ER,
+75,4,04:16,48,79,CMO,FC_T,Campo Mourão
+76,4,04:29,48,79,MIN,substituicao_entra,Ribeiro
+77,4,04:29,48,79,MIN,substituicao_sai,Johnson Jr
+78,4,04:29,48,79,MIN,LL_Pts_C,Johnson Jr
+79,4,04:29,48,78,MIN,LL_Pts_C,Johnson Jr
+80,4,04:29,48,77,MIN,substituicao_entra,Queiros
+81,4,04:29,48,77,MIN,substituicao_sai,Rafa Moreira
+82,4,04:29,48,77,CMO,substituicao_entra,Lucão
+83,4,04:29,48,77,CMO,substituicao_sai,Pezão
+84,4,04:29,48,77,CMO,tempo_tecnico,Campo Mourão
+85,4,04:29,48,77,MIN,FR,Johnson Jr
+86,4,04:29,48,77,CMO,FC,Pezão
+87,4,04:48,48,77,MIN,RD,Johnson Jr
+88,4,04:51,48,77,CMO,2_Pts_T,Luizinho
+89,4,05:01,48,77,CMO,substituicao_entra,Magna
+90,4,05:01,48,77,CMO,substituicao_entra,Luizinho
+91,4,05:01,48,77,CMO,substituicao_sai,M Pajé
+92,4,05:01,48,77,CMO,substituicao_sai,Rapha
+93,4,05:01,48,77,CMO,RO,Campo Mourão
+94,4,05:01,48,77,CMO,3_Pts_T,Pierotti
+95,4,05:22,48,77,MIN,AS,Davi
+96,4,05:22,48,77,MIN,3_Pts_C,Johnson Jr
+97,4,05:38,48,74,MIN,RD,Minas
+98,4,05:38,48,74,CMO,3_Pts_T,M Pajé
+99,4,05:51,48,74,MIN,substituicao_entra,Gui Santos
+100,4,05:51,48,74,MIN,substituicao_sai,Parodi
+101,4,05:51,48,74,CMO,substituicao_entra,Pierotti
+102,4,05:51,48,74,CMO,substituicao_sai,Frierson
+103,4,05:51,48,74,CMO,FR,M Pajé
+104,4,05:51,48,74,MIN,FC,Rafa Moreira
+105,4,06:14,48,74,MIN,AS,Nesbitt
+106,4,06:14,48,74,MIN,EN,Johnson Jr
+107,4,06:19,48,72,MIN,BR,Nesbitt
+108,4,06:19,48,72,CMO,ER,Frierson
+109,4,06:30,48,72,CMO,RO,Pezão
+110,4,06:31,48,72,CMO,3_Pts_T,Frierson
+111,4,06:45,48,72,CMO,RD,Frierson
+112,4,06:47,48,72,MIN,3_Pts_T,Rafa Moreira
+113,4,06:54,48,72,MIN,BR,Davi
+114,4,06:54,48,72,CMO,ER,Castellon
+115,4,07:06,48,72,CMO,RD,Castellon
+116,4,07:09,48,72,MIN,3_Pts_T,Davi
+117,4,07:30,48,72,CMO,substituicao_entra,Rapha
+118,4,07:30,48,72,CMO,substituicao_sai,Pierotti
+119,4,07:30,48,72,CMO,ER,Pierotti
+120,4,07:54,48,72,MIN,AS,Rafa Moreira
+121,4,07:54,48,72,MIN,2_Pts_C,Davi
+122,4,07:57,48,70,MIN,RD,Rafa Moreira
+123,4,08:01,48,70,CMO,2_Pts_T,Frierson
+124,4,08:12,48,70,CMO,RD,M Pajé
+125,4,08:16,48,70,MIN,3_Pts_T,Rafa Moreira
+126,4,08:26,48,70,MIN,RO,Nesbitt
+127,4,08:26,48,70,MIN,LL_Pts_T,Davi
+128,4,08:26,48,70,MIN,LL_Pts_C,Davi
+129,4,08:26,48,69,MIN,FR,Davi
+130,4,08:26,48,69,CMO,FC,Frierson
+131,4,08:47,48,69,CMO,2_Pts_C,Pezão
+132,4,08:50,46,69,CMO,FR,Pierotti
+133,4,08:50,46,69,MIN,FC,Nesbitt
+134,4,09:03,46,69,MIN,TO,Parodi
+135,4,09:03,46,69,MIN,RD,Parodi
+136,4,09:03,46,69,CMO,2_Pts_T,Castellon
+137,4,09:09,46,69,CMO,BR,Frierson
+138,4,09:09,46,69,MIN,ER,Davi
+139,4,09:28,46,69,MIN,BR,Nesbitt
+140,4,09:28,46,69,CMO,ER,Pierotti
+141,4,09:35,46,69,CMO,FR,Pezão
+142,4,09:35,46,69,MIN,FC,Rafa Moreira
+143,4,09:35,46,69,CMO,RO,Campo Mourão
+144,4,09:35,46,69,CMO,3_Pts_T,M Pajé
+145,4,09:41,46,69,CMO,RD,M Pajé
+146,4,09:43,46,69,MIN,2_Pts_T,Nesbitt
+147,4,10:00,46,69,,inicio_quarto,
+148,3,00:00,46,69,,fim_quarto,
+149,3,00:05,46,69,MIN,2_Pts_C,Davi
+150,3,00:05,46,67,MIN,BR,Davi
+151,3,00:05,46,67,CMO,ER,L Muller
+152,3,00:09,46,67,MIN,2_Pts_C,Johnson Jr
+153,3,00:28,46,65,MIN,RD,Johnson Jr
+154,3,00:28,46,65,CMO,LL_Pts_T,L Muller
+155,3,00:28,46,65,CMO,LL_Pts_T,L Muller
+156,3,00:28,46,65,CMO,FR,L Muller
+157,3,00:28,46,65,MIN,FC,Davi
+158,3,00:29,46,65,CMO,RD,L Muller
+159,3,00:33,46,65,MIN,3_Pts_T,Parodi
+160,3,00:44,46,65,MIN,substituicao_entra,Nesbitt
+161,3,00:44,46,65,MIN,substituicao_entra,Johnson Jr
+162,3,00:44,46,65,MIN,substituicao_sai,Batista
+163,3,00:44,46,65,MIN,substituicao_sai,Queiros
+164,3,00:44,46,65,MIN,RD,Minas
+165,3,00:44,46,65,CMO,LL_Pts_T,L Muller
+166,3,00:44,46,65,CMO,LL_Pts_T,L Muller
+167,3,00:44,46,65,CMO,substituicao_entra,Luizinho
+168,3,00:44,46,65,CMO,substituicao_sai,Frierson
+169,3,00:44,46,65,CMO,FR,L Muller
+170,3,00:44,46,65,MIN,FC,Batista
+171,3,00:52,46,65,MIN,2_Pts_C,Batista
+172,3,00:59,46,63,CMO,substituicao_entra,L Muller
+173,3,00:59,46,63,CMO,substituicao_sai,Pierotti
+174,3,00:59,46,63,MIN,ER,Davi
+175,3,01:07,46,63,CMO,FR,Castellon
+176,3,01:07,46,63,MIN,FC,Queiros
+177,3,01:07,46,63,CMO,3_Pts_C,Pierotti
+178,3,01:14,43,63,CMO,RD,Tom
+179,3,01:16,43,63,MIN,3_Pts_T,Davi
+180,3,01:35,43,63,CMO,AS,Pierotti
+181,3,01:35,43,63,CMO,2_Pts_C,Castellon
+182,3,01:42,41,63,CMO,RD,M Pajé
+183,3,01:47,41,63,MIN,2_Pts_T,Batista
+184,3,01:59,41,63,MIN,RD,Batista
+185,3,02:01,41,63,CMO,3_Pts_T,Frierson
+186,3,02:04,41,63,CMO,FR,Castellon
+187,3,02:04,41,63,MIN,FC,Parodi
+188,3,02:16,41,63,CMO,substituicao_entra,Castellon
+189,3,02:16,41,63,CMO,substituicao_sai,Luizinho
+190,3,02:16,41,63,CMO,RO,Campo Mourão
+191,3,02:17,41,63,CMO,3_Pts_T,Pierotti
+192,3,02:40,41,63,MIN,3_Pts_C,Davi
+193,3,03:00,41,60,MIN,BR,Rafa Moreira
+194,3,03:00,41,60,CMO,ER,Luizinho
+195,3,03:17,41,60,MIN,substituicao_entra,Parodi
+196,3,03:17,41,60,MIN,substituicao_entra,Batista
+197,3,03:17,41,60,MIN,substituicao_entra,Rafa Moreira
+198,3,03:17,41,60,MIN,substituicao_sai,Nesbitt
+199,3,03:17,41,60,MIN,substituicao_sai,Johnson Jr
+200,3,03:17,41,60,MIN,substituicao_sai,Gui Santos
+201,3,03:17,41,60,CMO,substituicao_entra,M Pajé
+202,3,03:17,41,60,CMO,substituicao_sai,Magna
+203,3,03:17,41,60,CMO,tempo_tecnico,Campo Mourão
+204,3,03:20,41,60,MIN,AS,Johnson Jr
+205,3,03:20,41,60,MIN,3_Pts_C,Queiros
+206,3,03:22,41,57,MIN,RO,Johnson Jr
+207,3,03:26,41,57,MIN,2_Pts_T,Gui Santos
+208,3,03:30,41,57,MIN,RD,Nesbitt
+209,3,03:33,41,57,CMO,3_Pts_T,Magna
+210,3,03:53,41,57,CMO,RD,Campo Mourão
+211,3,03:53,41,57,MIN,3_Pts_T,Johnson Jr
+212,3,04:20,41,57,CMO,AS,Magna
+213,3,04:20,41,57,CMO,2_Pts_C,Luizinho
+214,3,04:33,39,57,CMO,FR,Tom
+215,3,04:33,39,57,MIN,FC,Gui Santos
+216,3,04:49,39,57,MIN,AS,Queiros
+217,3,04:49,39,57,MIN,3_Pts_C,Gui Santos
+218,3,04:57,39,54,MIN,substituicao_entra,Davi
+219,3,04:57,39,54,MIN,substituicao_sai,Parodi
+220,3,04:57,39,54,MIN,substituicao_entra,Queiros
+221,3,04:57,39,54,MIN,substituicao_sai,Batista
+222,3,04:57,39,54,CMO,substituicao_entra,Pierotti
+223,3,04:57,39,54,CMO,substituicao_sai,L Muller
+224,3,04:57,39,54,MIN,FR,Parodi
+225,3,04:57,39,54,CMO,FC,L Muller
+226,3,05:13,39,54,CMO,2_Pts_C,Frierson
+227,3,05:34,37,54,MIN,AS,Parodi
+228,3,05:34,37,54,MIN,3_Pts_C,Gui Santos
+229,3,05:49,37,51,MIN,RD,Gui Santos
+230,3,05:53,37,51,CMO,3_Pts_T,Magna
+231,3,06:14,37,51,MIN,AS,Parodi
+232,3,06:14,37,51,MIN,2_Pts_C,Batista
+233,3,06:34,37,49,CMO,substituicao_entra,L Muller
+234,3,06:34,37,49,CMO,substituicao_sai,Pierotti
+235,3,06:34,37,49,MIN,FR,Gui Santos
+236,3,06:34,37,49,CMO,ER,Tom
+237,3,06:34,37,49,CMO,FC_O,Tom
+238,3,06:45,37,49,CMO,FR,Magna
+239,3,06:45,37,49,MIN,ER,Nesbitt
+240,3,06:45,37,49,MIN,FC_O,Nesbitt
+241,3,06:54,37,49,CMO,2_Pts_C,Pierotti
+242,3,06:56,35,49,CMO,RD,Pierotti
+243,3,06:59,35,49,MIN,3_Pts_T,Nesbitt
+244,3,07:27,35,49,CMO,AS,Pierotti
+245,3,07:27,35,49,CMO,2_Pts_C,Frierson
+246,3,07:30,33,49,CMO,RD,Pierotti
+247,3,07:33,33,49,MIN,3_Pts_T,Parodi
+248,3,07:58,33,49,CMO,AS,Luizinho
+249,3,07:58,33,49,CMO,3_Pts_C,Frierson
+250,3,08:12,30,49,CMO,substituicao_entra,Tom
+251,3,08:12,30,49,CMO,substituicao_sai,Lucão
+252,3,08:12,30,49,MIN,ER,Johnson Jr
+253,3,08:15,30,49,MIN,RD,Nesbitt
+254,3,08:17,30,49,CMO,2_Pts_T,Pierotti
+255,3,08:31,30,49,MIN,AS,Batista
+256,3,08:31,30,49,MIN,3_Pts_C,Nesbitt
+257,3,08:34,30,46,MIN,RO,Batista
+258,3,08:37,30,46,MIN,2_Pts_T,Parodi
+259,3,08:42,30,46,MIN,RO,Parodi
+260,3,08:46,30,46,MIN,2_Pts_T,Gui Santos
+261,3,08:55,30,46,MIN,FR,Batista
+262,3,08:55,30,46,CMO,FC,Luizinho
+263,3,08:55,30,46,MIN,RD,Batista
+264,3,08:55,30,46,CMO,2_Pts_T,Luizinho
+265,3,09:16,30,46,MIN,AS,Batista
+266,3,09:16,30,46,MIN,EN,Nesbitt
+267,3,09:18,30,44,MIN,RO,Batista
+268,3,09:21,30,44,MIN,2_Pts_T,Batista
+269,3,09:22,30,44,MIN,RO,Batista
+270,3,09:25,30,44,MIN,3_Pts_T,Gui Santos
+271,3,09:44,30,44,CMO,2_Pts_C,Pierotti
+272,3,10:00,28,44,,inicio_quarto,
+273,2,00:00,28,44,,fim_quarto,
+274,2,00:02,28,44,CMO,RD,Magna
+275,2,00:05,28,44,MIN,2_Pts_T,Batista
+276,2,00:18,28,44,MIN,RD,Nesbitt
+277,2,00:20,28,44,CMO,3_Pts_T,Frierson
+278,2,00:29,28,44,CMO,RD,Magna
+279,2,00:32,28,44,MIN,3_Pts_T,Nesbitt
+280,2,00:37,28,44,MIN,RD,Nesbitt
+281,2,00:40,28,44,CMO,3_Pts_T,Pierotti
+282,2,01:01,28,44,MIN,LL_Pts_C,Batista
+283,2,01:01,28,43,MIN,LL_Pts_C,Batista
+284,2,01:01,28,42,MIN,FR,Rafa Moreira
+285,2,01:01,28,42,CMO,FC,Tom
+286,2,01:13,28,42,MIN,FR,Batista
+287,2,01:13,28,42,CMO,FC,Tom
+288,2,01:16,28,42,MIN,RD,Gui Santos
+289,2,01:19,28,42,CMO,3_Pts_T,Frierson
+290,2,01:32,28,42,CMO,RD,Pierotti
+291,2,01:32,28,42,MIN,LL_Pts_T,Batista
+292,2,01:32,28,42,MIN,LL_Pts_C,Batista
+293,2,01:32,28,41,CMO,substituicao_entra,Tom
+294,2,01:32,28,41,CMO,substituicao_entra,Frierson
+295,2,01:32,28,41,CMO,substituicao_sai,Lucão
+296,2,01:32,28,41,CMO,substituicao_sai,Castellon
+297,2,01:32,28,41,CMO,tempo_tecnico,Campo Mourão
+298,2,01:32,28,41,MIN,substituicao_entra,Parodi
+299,2,01:32,28,41,MIN,substituicao_entra,Rafa Moreira
+300,2,01:32,28,41,MIN,substituicao_sai,Johnson Jr
+301,2,01:32,28,41,MIN,substituicao_sai,Davi
+302,2,01:32,28,41,MIN,FR,Batista
+303,2,01:32,28,41,CMO,FC,Lucão
+304,2,01:42,28,41,MIN,BR,Nesbitt
+305,2,01:42,28,41,CMO,ER,Castellon
+306,2,02:09,28,41,MIN,AS,Batista
+307,2,02:09,28,41,MIN,EN,Nesbitt
+308,2,02:17,28,39,MIN,RD,Nesbitt
+309,2,02:20,28,39,CMO,2_Pts_T,Lucão
+310,2,02:21,28,39,CMO,RO,Pierotti
+311,2,02:24,28,39,CMO,2_Pts_T,Pierotti
+312,2,02:44,28,39,CMO,BR,Magna
+313,2,02:44,28,39,MIN,ER,Davi
+314,2,03:07,28,39,CMO,AS,Pierotti
+315,2,03:07,28,39,CMO,2_Pts_C,Castellon
+316,2,03:11,26,39,CMO,RO,Pierotti
+317,2,03:14,26,39,CMO,3_Pts_T,Pierotti
+318,2,03:33,26,39,CMO,RO,Pierotti
+319,2,03:37,26,39,CMO,3_Pts_T,Magna
+320,2,03:55,26,39,MIN,2_Pts_C,Johnson Jr
+321,2,04:10,26,37,CMO,LL_Pts_C,Pierotti
+322,2,04:10,25,37,MIN,tempo_tecnico,Minas
+323,2,04:10,25,37,CMO,FR,Pierotti
+324,2,04:10,25,37,MIN,FC,Davi
+325,2,04:10,25,37,CMO,2_Pts_C,Pierotti
+326,2,04:29,23,37,CMO,BR,Magna
+327,2,04:29,23,37,MIN,ER,Davi
+328,2,04:44,23,37,CMO,2_Pts_C,Magna
+329,2,05:02,21,37,MIN,substituicao_entra,Nesbitt
+330,2,05:02,21,37,MIN,substituicao_entra,Gui Santos
+331,2,05:02,21,37,MIN,substituicao_entra,Davi
+332,2,05:02,21,37,MIN,substituicao_sai,Parodi
+333,2,05:02,21,37,MIN,substituicao_sai,Rafa Moreira
+334,2,05:02,21,37,MIN,substituicao_sai,Queiros
+335,2,05:02,21,37,MIN,ER,Parodi
+336,2,05:09,21,37,MIN,RD,Rafa Moreira
+337,2,05:12,21,37,CMO,2_Pts_T,Luizinho
+338,2,05:23,21,37,MIN,2_Pts_C,Parodi
+339,2,05:45,21,35,CMO,AS,Magna
+340,2,05:45,21,35,CMO,3_Pts_C,Pierotti
+341,2,05:57,18,35,CMO,RD,Castellon
+342,2,06:00,18,35,MIN,3_Pts_T,Johnson Jr
+343,2,06:03,18,35,MIN,RD,Rafa Moreira
+344,2,06:06,18,35,CMO,2_Pts_T,Luizinho
+345,2,06:07,18,35,CMO,RO,Luizinho
+346,2,06:12,18,35,CMO,2_Pts_T,Pierotti
+347,2,06:31,18,35,MIN,AS,Parodi
+348,2,06:31,18,35,MIN,LL_Pts_C,Batista
+349,2,06:31,18,34,MIN,LL_Pts_T,Batista
+350,2,06:31,18,34,CMO,substituicao_entra,Magna
+351,2,06:31,18,34,CMO,substituicao_entra,Luizinho
+352,2,06:31,18,34,CMO,substituicao_sai,M Pajé
+353,2,06:31,18,34,CMO,substituicao_sai,Frierson
+354,2,06:31,18,34,MIN,FR,Batista
+355,2,06:31,18,34,CMO,FC,Pierotti
+356,2,06:37,18,34,MIN,RD,Batista
+357,2,06:39,18,34,CMO,2_Pts_T,Pierotti
+358,2,06:51,18,34,MIN,2_Pts_C,Parodi
+359,2,06:59,18,32,MIN,RD,Rafa Moreira
+360,2,07:02,18,32,CMO,3_Pts_T,Frierson
+361,2,07:04,18,32,CMO,RO,M Pajé
+362,2,07:10,18,32,CMO,3_Pts_T,Castellon
+363,2,07:17,18,32,MIN,2_Pts_C,Queiros
+364,2,07:17,18,30,MIN,RO,Queiros
+365,2,07:22,18,30,MIN,2_Pts_T,Queiros
+366,2,07:38,18,30,CMO,AS,Frierson
+367,2,07:38,18,30,CMO,2_Pts_C,Lucão
+368,2,07:58,16,30,CMO,substituicao_entra,Lucão
+369,2,07:58,16,30,CMO,substituicao_sai,Pezão
+370,2,07:58,16,30,CMO,tempo_tecnico,Campo Mourão
+371,2,08:00,16,30,MIN,AS,Parodi
+372,2,08:00,16,30,MIN,2_Pts_C,Batista
+373,2,08:12,16,28,MIN,substituicao_entra,Batista
+374,2,08:12,16,28,MIN,substituicao_sai,Davi
+375,2,08:12,16,28,MIN,FR,Rafa Moreira
+376,2,08:12,16,28,CMO,FC,M Pajé
+377,2,08:15,16,28,MIN,RD,Davi
+378,2,08:19,16,28,CMO,2_Pts_T,M Pajé
+379,2,08:36,16,28,MIN,2_Pts_C,Johnson Jr
+380,2,08:59,16,26,CMO,AS,Pierotti
+381,2,08:59,16,26,CMO,2_Pts_C,M Pajé
+382,2,09:10,14,26,MIN,2_Pts_C,Parodi
+383,2,09:29,14,24,CMO,LL_Pts_C,Frierson
+384,2,09:29,13,24,CMO,LL_Pts_T,Frierson
+385,2,09:29,13,24,CMO,AS,Pierotti
+386,2,09:29,13,24,CMO,LL_Pts_C,Frierson
+387,2,09:29,12,24,CMO,FR,Frierson
+388,2,09:29,12,24,MIN,FC,Davi
+389,2,09:45,12,24,MIN,3_Pts_C,Johnson Jr
+390,2,10:00,12,21,,inicio_quarto,
+391,1,00:00,12,21,,fim_quarto,
+392,1,00:03,12,21,MIN,AS,Davi
+393,1,00:03,12,21,MIN,2_Pts_C,Gui Santos
+394,1,00:21,12,19,MIN,BR,Rafa Moreira
+395,1,00:21,12,19,CMO,ER,Castellon
+396,1,00:34,12,19,MIN,ER,
+397,1,00:50,12,19,MIN,RO,Gui Santos
+398,1,00:54,12,19,MIN,2_Pts_T,Johnson Jr
+399,1,00:58,12,19,MIN,RD,Rafa Moreira
+400,1,01:02,12,19,CMO,3_Pts_T,Castellon
+401,1,01:12,12,19,MIN,3_Pts_C,Johnson Jr
+402,1,01:24,12,16,CMO,2_Pts_C,M Pajé
+403,1,01:25,10,16,CMO,RO,M Pajé
+404,1,01:29,10,16,CMO,2_Pts_T,Frierson
+405,1,01:44,10,16,CMO,FR,L Muller
+406,1,01:44,10,16,MIN,FC,Gui Santos
+407,1,01:55,10,16,MIN,2_Pts_C,Davi
+408,1,02:15,10,14,CMO,AS,L Muller
+409,1,02:15,10,14,CMO,2_Pts_C,Pezão
+410,1,02:28,8,14,MIN,AS,Gui Santos
+411,1,02:28,8,14,MIN,3_Pts_C,Queiros
+412,1,02:41,8,11,MIN,FR,Davi
+413,1,02:41,8,11,CMO,FC,L Muller
+414,1,02:50,8,11,CMO,substituicao_entra,L Muller
+415,1,02:50,8,11,CMO,substituicao_sai,Pierotti
+416,1,02:50,8,11,CMO,ER,
+417,1,03:06,8,11,MIN,substituicao_entra,Rafa Moreira
+418,1,03:06,8,11,MIN,substituicao_sai,Batista
+419,1,03:06,8,11,CMO,substituicao_entra,Frierson
+420,1,03:06,8,11,CMO,substituicao_sai,L Muller
+421,1,03:06,8,11,CMO,RO,Campo Mourão
+422,1,03:08,8,11,CMO,3_Pts_T,M Pajé
+423,1,03:34,8,11,MIN,AS,Davi
+424,1,03:34,8,11,MIN,3_Pts_C,Queiros
+425,1,03:54,8,8,CMO,substituicao_entra,L Muller
+426,1,03:54,8,8,CMO,substituicao_sai,Frierson
+427,1,03:57,8,8,CMO,2_Pts_C,Pierotti
+428,1,04:08,6,8,CMO,substituicao_entra,Pierotti
+429,1,04:08,6,8,CMO,substituicao_sai,L Muller
+430,1,04:28,6,8,MIN,2_Pts_C,Davi
+431,1,04:35,6,6,MIN,RO,Queiros
+432,1,04:39,6,6,MIN,2_Pts_T,Batista
+433,1,05:03,6,6,MIN,substituicao_entra,Johnson Jr
+434,1,05:03,6,6,MIN,substituicao_entra,Davi
+435,1,05:03,6,6,MIN,substituicao_entra,Queiros
+436,1,05:03,6,6,MIN,substituicao_sai,Nesbitt
+437,1,05:03,6,6,MIN,substituicao_sai,Parodi
+438,1,05:03,6,6,MIN,substituicao_sai,Rafa Moreira
+439,1,05:03,6,6,CMO,LL_Pts_C,Pezão
+440,1,05:03,5,6,CMO,AS,Luizinho
+441,1,05:03,5,6,CMO,LL_Pts_C,Pezão
+442,1,05:03,4,6,CMO,substituicao_entra,L Muller
+443,1,05:03,4,6,CMO,substituicao_entra,Castellon
+444,1,05:03,4,6,CMO,substituicao_sai,Luizinho
+445,1,05:03,4,6,CMO,substituicao_sai,Pierotti
+446,1,05:03,4,6,CMO,FR,Pezão
+447,1,05:03,4,6,MIN,FC,Nesbitt
+448,1,05:15,4,6,CMO,RD,Campo Mourão
+449,1,05:16,4,6,MIN,2_Pts_T,Nesbitt
+450,1,05:37,4,6,MIN,RD,Nesbitt
+451,1,05:40,4,6,CMO,2_Pts_T,Frierson
+452,1,05:54,4,6,MIN,ER,
+453,1,06:09,4,6,CMO,substituicao_entra,M Pajé
+454,1,06:09,4,6,CMO,substituicao_entra,Frierson
+455,1,06:09,4,6,CMO,substituicao_sai,Lucão
+456,1,06:09,4,6,CMO,substituicao_sai,L Muller
+457,1,06:09,4,6,MIN,FR,Batista
+458,1,06:09,4,6,CMO,FC,Lucão
+459,1,06:19,4,6,MIN,FR,Rafa Moreira
+460,1,06:19,4,6,CMO,FC,Luizinho
+461,1,06:19,4,6,CMO,AS,Pierotti
+462,1,06:19,4,6,CMO,2_Pts_C,Luizinho
+463,1,06:35,2,6,CMO,RD,Lucão
+464,1,06:38,2,6,MIN,2_Pts_T,Rafa Moreira
+465,1,06:49,2,6,CMO,substituicao_entra,Pezão
+466,1,06:49,2,6,CMO,substituicao_sai,M Pajé
+467,1,06:49,2,6,CMO,substituicao_entra,L Muller
+468,1,06:49,2,6,CMO,substituicao_sai,Frierson
+469,1,06:49,2,6,CMO,ER,Luizinho
+470,1,06:58,2,6,CMO,RD,Luizinho
+471,1,07:00,2,6,MIN,2_Pts_T,Gui Santos
+472,1,07:19,2,6,CMO,substituicao_entra,Pierotti
+473,1,07:19,2,6,CMO,substituicao_sai,L Muller
+474,1,07:19,2,6,MIN,RD,Minas
+475,1,07:20,2,6,CMO,3_Pts_T,L Muller
+476,1,07:29,2,6,MIN,2_Pts_C,Rafa Moreira
+477,1,07:30,2,4,MIN,RO,Rafa Moreira
+478,1,07:32,2,4,MIN,2_Pts_T,Rafa Moreira
+479,1,07:54,2,4,CMO,substituicao_entra,L Muller
+480,1,07:54,2,4,CMO,substituicao_sai,Pierotti
+481,1,07:54,2,4,CMO,,
+482,1,07:54,2,4,CMO,FR,Lucão
+483,1,07:54,2,4,MIN,FC,Nesbitt
+484,1,07:54,2,4,CMO,RO,Campo Mourão
+485,1,07:54,2,4,CMO,2_Pts_T,Frierson
+486,1,08:00,2,4,CMO,RD,Pierotti
+487,1,08:03,2,4,MIN,3_Pts_T,Rafa Moreira
+488,1,08:17,2,4,MIN,FR,Batista
+489,1,08:17,2,4,CMO,FC,Lucão
+490,1,08:20,2,4,MIN,RD,Gui Santos
+491,1,08:23,2,4,CMO,3_Pts_T,Luizinho
+492,1,08:46,2,4,MIN,AS,Parodi
+493,1,08:46,2,4,MIN,2_Pts_C,Batista
+494,1,09:02,2,2,CMO,AS,Lucão
+495,1,09:02,2,2,CMO,2_Pts_C,Luizinho
+496,1,09:17,0,2,MIN,AS,Rafa Moreira
+497,1,09:17,0,2,MIN,2_Pts_C,Gui Santos
+498,1,09:19,0,0,MIN,RO,Rafa Moreira
+499,1,09:23,0,0,MIN,2_Pts_T,Parodi
+500,1,09:33,0,0,MIN,RD,Parodi
+501,1,09:43,0,0,CMO,3_Pts_T,Pierotti
+502,1,10:00,0,0,MIN,substituicao_entra,Nesbitt
+503,1,10:00,0,0,MIN,substituicao_entra,Parodi
+504,1,10:00,0,0,MIN,substituicao_entra,Batista
+505,1,10:00,0,0,MIN,substituicao_entra,Gui Santos
+506,1,10:00,0,0,MIN,substituicao_entra,Rafa Moreira
+507,1,10:00,0,0,CMO,substituicao_entra,Lucão
+508,1,10:00,0,0,CMO,substituicao_entra,M Pajé
+509,1,10:00,0,0,CMO,substituicao_entra,Luizinho
+510,1,10:00,0,0,CMO,substituicao_entra,Pierotti
+511,1,10:00,0,0,CMO,substituicao_entra,Frierson
+512,1,10:00,0,0,,inicio_partida,

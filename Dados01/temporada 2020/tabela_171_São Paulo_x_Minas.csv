@@ -1,0 +1,471 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,90,92,,fim_partida,
+1,4,00:00,90,92,,fim_quarto,
+2,4,00:01,90,92,MIN,2_Pts_C,Queiros
+3,4,00:16,90,90,MIN,tempo_tecnico,Minas
+4,4,00:16,90,90,SPF,LL_Pts_C,Georginho
+5,4,00:16,89,90,MIN,substituicao_entra,Batista
+6,4,00:16,89,90,MIN,substituicao_sai,Ronald
+7,4,00:16,89,90,SPF,FR,Georginho
+8,4,00:16,89,90,MIN,FC,Ronald
+9,4,00:16,89,90,SPF,2_Pts_C,Georginho
+10,4,00:23,87,90,SPF,RD,Georginho
+11,4,00:23,87,90,MIN,LL_Pts_T,Davi
+12,4,00:23,87,90,MIN,LL_Pts_C,Davi
+13,4,00:23,87,89,MIN,FR,Davi
+14,4,00:23,87,89,SPF,FC,Dawkins
+15,4,00:26,87,89,SPF,LL_Pts_C,Dawkins
+16,4,00:26,86,89,SPF,LL_Pts_C,Dawkins
+17,4,00:26,85,89,MIN,substituicao_entra,Queiros
+18,4,00:26,85,89,MIN,substituicao_sai,Johnson Jr
+19,4,00:26,85,89,SPF,FR,Dawkins
+20,4,00:26,85,89,MIN,FC,Davi
+21,4,00:28,85,89,MIN,ER,Johnson Jr
+22,4,00:29,85,89,MIN,FR,Johnson Jr
+23,4,00:29,85,89,SPF,FC,Georginho
+24,4,00:38,85,89,MIN,substituicao_entra,Johnson Jr
+25,4,00:38,85,89,MIN,substituicao_sai,Queiros
+26,4,00:38,85,89,SPF,substituicao_entra,Dawkins
+27,4,00:38,85,89,SPF,substituicao_sai,Jefferson
+28,4,00:38,85,89,MIN,FR,Queiros
+29,4,00:38,85,89,SPF,FC,Jefferson
+30,4,00:40,85,89,MIN,RD,Davi
+31,4,00:40,85,89,SPF,3_Pts_T,Lucas Mariano
+32,4,00:46,85,89,SPF,substituicao_entra,Shamell
+33,4,00:46,85,89,SPF,substituicao_sai,Dawkins
+34,4,00:46,85,89,SPF,tempo_tecnico,São Paulo
+35,4,00:47,85,89,MIN,AS,Davi
+36,4,00:47,85,89,MIN,3_Pts_C,David Jackson
+37,4,01:14,85,86,SPF,AS,Dawkins
+38,4,01:14,85,86,SPF,3_Pts_C,Lucas Mariano
+39,4,01:30,82,86,MIN,AS,Gui Santos
+40,4,01:30,82,86,MIN,EN,Ronald
+41,4,01:39,82,84,MIN,substituicao_entra,David Jackson
+42,4,01:39,82,84,MIN,substituicao_sai,Johnson Jr
+43,4,01:42,82,84,SPF,2_Pts_C,Georginho
+44,4,01:57,80,84,SPF,BR,Bennett
+45,4,01:57,80,84,MIN,ER,Davi
+46,4,02:20,80,84,SPF,2_Pts_C,Bennett
+47,4,02:28,78,84,MIN,2_Pts_C,Gui Santos
+48,4,02:29,78,82,MIN,RO,Gui Santos
+49,4,02:32,78,82,MIN,3_Pts_T,Queiros
+50,4,02:48,78,82,SPF,LL_Pts_C,Lucas Mariano
+51,4,02:48,77,82,SPF,LL_Pts_C,Lucas Mariano
+52,4,02:48,76,82,MIN,substituicao_entra,Queiros
+53,4,02:48,76,82,MIN,substituicao_sai,David Jackson
+54,4,02:48,76,82,MIN,substituicao_entra,Johnson Jr
+55,4,02:48,76,82,MIN,substituicao_sai,Rafa Moreira
+56,4,02:48,76,82,SPF,FR,Lucas Mariano
+57,4,02:48,76,82,MIN,FC,Rafa Moreira
+58,4,03:09,76,82,MIN,2_Pts_C,David Jackson
+59,4,03:22,76,80,MIN,FR,David Jackson
+60,4,03:22,76,80,SPF,FC,Jefferson
+61,4,03:36,76,80,SPF,AS,Bennett
+62,4,03:36,76,80,SPF,3_Pts_C,Lucas Mariano
+63,4,03:47,73,80,MIN,substituicao_entra,Rafa Moreira
+64,4,03:47,73,80,MIN,substituicao_sai,Queiros
+65,4,03:47,73,80,SPF,FR,Jefferson
+66,4,03:47,73,80,MIN,FC,David Jackson
+67,4,04:06,73,80,MIN,3_Pts_C,David Jackson
+68,4,04:15,73,77,MIN,RO,David Jackson
+69,4,04:16,73,77,MIN,2_Pts_T,Gui Santos
+70,4,04:16,73,77,MIN,RO,Gui Santos
+71,4,04:20,73,77,MIN,2_Pts_T,Davi
+72,4,04:30,73,77,MIN,BR,Ronald
+73,4,04:30,73,77,SPF,ER,Jefferson
+74,4,04:42,73,77,SPF,RD,Lucas Mariano
+75,4,04:45,73,77,MIN,3_Pts_T,David Jackson
+76,4,05:01,73,77,MIN,RD,David Jackson
+77,4,05:04,73,77,SPF,2_Pts_T,Georginho
+78,4,05:11,73,77,SPF,RD,Georginho
+79,4,05:14,73,77,MIN,2_Pts_T,David Jackson
+80,4,05:27,73,77,SPF,AS,Jefferson
+81,4,05:27,73,77,SPF,3_Pts_C,Georginho
+82,4,05:33,70,77,SPF,RD,Dawkins
+83,4,05:36,70,77,MIN,2_Pts_T,Davi
+84,4,05:58,70,77,SPF,substituicao_entra,Dawkins
+85,4,05:58,70,77,SPF,substituicao_sai,Shamell
+86,4,05:58,70,77,MIN,RD,Minas
+87,4,05:58,70,77,SPF,3_Pts_T,Shamell
+88,4,06:15,70,77,MIN,AS,David Jackson
+89,4,06:15,70,77,MIN,2_Pts_C,Ronald
+90,4,06:18,70,75,MIN,RD,David Jackson
+91,4,06:22,70,75,SPF,2_Pts_T,Bennett
+92,4,06:45,70,75,MIN,AS,David Jackson
+93,4,06:45,70,75,MIN,3_Pts_C,Queiros
+94,4,07:04,70,72,SPF,LL_Pts_C,Bennett
+95,4,07:04,69,72,SPF,LL_Pts_C,Bennett
+96,4,07:04,68,72,SPF,FR,Bennett
+97,4,07:04,68,72,MIN,FC,Ronald
+98,4,07:15,68,72,SPF,substituicao_entra,Jefferson
+99,4,07:15,68,72,SPF,substituicao_sai,Dawkins
+100,4,07:15,68,72,SPF,FR,Lucas Mariano
+101,4,07:15,68,72,MIN,FC,Ronald
+102,4,07:15,68,72,SPF,RD,Bennett
+103,4,07:15,68,72,MIN,2_Pts_T,Gui Santos
+104,4,07:30,68,72,SPF,ER,Bennett
+105,4,07:51,68,72,SPF,tempo_tecnico,São Paulo
+106,4,07:52,68,72,MIN,AS,Ronald
+107,4,07:52,68,72,MIN,3_Pts_C,Davi
+108,4,07:58,68,69,MIN,RO,Ronald
+109,4,08:01,68,69,MIN,3_Pts_T,Gui Santos
+110,4,08:14,68,69,SPF,ER,Shamell
+111,4,08:31,68,69,MIN,LL_Pts_C,Ronald
+112,4,08:31,68,68,MIN,FR,Ronald
+113,4,08:31,68,68,SPF,FC,Lucas Mariano
+114,4,08:31,68,68,MIN,AS,Gui Santos
+115,4,08:31,68,68,MIN,2_Pts_C,Ronald
+116,4,08:39,68,66,MIN,RD,David Jackson
+117,4,08:42,68,66,SPF,3_Pts_T,Shamell
+118,4,08:56,68,66,SPF,FR,Lucas Mariano
+119,4,08:56,68,66,MIN,FC,Ronald
+120,4,09:18,68,66,MIN,3_Pts_C,Gui Santos
+121,4,09:43,68,63,SPF,2_Pts_C,Shamell
+122,4,10:00,66,63,,inicio_quarto,
+123,3,00:00,66,63,,fim_quarto,
+124,3,00:04,66,63,MIN,3_Pts_C,Davi
+125,3,00:12,66,60,MIN,RD,Queiros
+126,3,00:12,66,60,SPF,LL_Pts_T,Bennett
+127,3,00:12,66,60,SPF,FR,Bennett
+128,3,00:12,66,60,MIN,FC,Gui Santos
+129,3,00:12,66,60,SPF,AS,Georginho
+130,3,00:12,66,60,SPF,2_Pts_C,Bennett
+131,3,00:33,64,60,MIN,AS,David Jackson
+132,3,00:33,64,60,MIN,LL_Pts_C,Ronald
+133,3,00:33,64,59,MIN,LL_Pts_T,Ronald
+134,3,00:33,64,59,MIN,substituicao_entra,Gui Santos
+135,3,00:33,64,59,MIN,substituicao_sai,Johnson Jr
+136,3,00:33,64,59,SPF,substituicao_entra,Georginho
+137,3,00:33,64,59,SPF,substituicao_sai,Jefferson
+138,3,00:33,64,59,MIN,FR,Ronald
+139,3,00:33,64,59,SPF,FC,Lucas Mariano
+140,3,00:46,64,59,SPF,AS,Bennett
+141,3,00:46,64,59,SPF,LL_Pts_C,Lucas Mariano
+142,3,00:46,63,59,SPF,LL_Pts_T,Lucas Mariano
+143,3,00:46,63,59,SPF,FR,Lucas Mariano
+144,3,00:46,63,59,MIN,FC,Ronald
+145,3,01:07,63,59,MIN,AS,Johnson Jr
+146,3,01:07,63,59,MIN,LL_Pts_C,Ronald
+147,3,01:07,63,58,MIN,LL_Pts_T,Ronald
+148,3,01:07,63,58,MIN,FR,Ronald
+149,3,01:07,63,58,SPF,FC,Bennett
+150,3,01:15,63,58,MIN,BR,Ronald
+151,3,01:15,63,58,SPF,ER,Jefferson
+152,3,01:22,63,58,SPF,FR,Jefferson
+153,3,01:22,63,58,MIN,FC,Queiros
+154,3,01:50,63,58,MIN,AS,Davi
+155,3,01:50,63,58,MIN,3_Pts_C,David Jackson
+156,3,01:59,63,55,SPF,substituicao_entra,Dawkins
+157,3,01:59,63,55,SPF,substituicao_sai,Georginho
+158,3,01:59,63,55,SPF,LL_Pts_C,Georginho
+159,3,01:59,62,55,SPF,LL_Pts_C,Georginho
+160,3,01:59,61,55,SPF,FR,Georginho
+161,3,01:59,61,55,MIN,FC,Johnson Jr
+162,3,02:15,61,55,SPF,RD,Lucas Mariano
+163,3,02:18,61,55,MIN,2_Pts_T,Johnson Jr
+164,3,02:39,61,55,SPF,2_Pts_C,Shamell
+165,3,02:58,59,55,MIN,AS,Johnson Jr
+166,3,02:58,59,55,MIN,3_Pts_C,Queiros
+167,3,03:09,59,52,MIN,substituicao_entra,Ronald
+168,3,03:09,59,52,MIN,substituicao_sai,Batista
+169,3,03:09,59,52,SPF,LL_Pts_C,Shamell
+170,3,03:09,58,52,SPF,LL_Pts_C,Shamell
+171,3,03:09,57,52,SPF,FR,Shamell
+172,3,03:09,57,52,MIN,FC,Johnson Jr
+173,3,03:17,57,52,SPF,RD,Georginho
+174,3,03:20,57,52,MIN,2_Pts_T,Johnson Jr
+175,3,03:24,57,52,MIN,RD,Johnson Jr
+176,3,03:27,57,52,SPF,3_Pts_T,Lucas Mariano
+177,3,03:31,57,52,MIN,substituicao_entra,Johnson Jr
+178,3,03:31,57,52,MIN,substituicao_sai,Gui Santos
+179,3,03:31,57,52,SPF,RO,São Paulo
+180,3,03:31,57,52,MIN,TO,Batista
+181,3,03:31,57,52,SPF,2_Pts_T,Georginho
+182,3,03:52,57,52,MIN,AS,Davi
+183,3,03:52,57,52,MIN,2_Pts_C,Batista
+184,3,04:14,57,50,SPF,AS,Georginho
+185,3,04:14,57,50,SPF,3_Pts_C,Jefferson
+186,3,04:22,54,50,SPF,RD,Georginho
+187,3,04:25,54,50,MIN,2_Pts_T,David Jackson
+188,3,04:41,54,50,SPF,AS,Bennett
+189,3,04:41,54,50,SPF,3_Pts_C,Lucas Mariano
+190,3,04:58,51,50,MIN,3_Pts_C,Davi
+191,3,05:07,51,47,MIN,RO,Davi
+192,3,05:10,51,47,MIN,2_Pts_T,Batista
+193,3,05:13,51,47,SPF,substituicao_entra,Jefferson
+194,3,05:13,51,47,SPF,substituicao_sai,Gerson
+195,3,05:13,51,47,MIN,RO,Minas
+196,3,05:13,51,47,SPF,TO,Gerson
+197,3,05:13,51,47,MIN,2_Pts_T,Batista
+198,3,05:24,51,47,SPF,AS,Bennett
+199,3,05:24,51,47,SPF,2_Pts_C,Lucas Mariano
+200,3,05:50,49,47,MIN,2_Pts_C,David Jackson
+201,3,06:09,49,45,SPF,ER,Bennett
+202,3,06:29,49,45,SPF,RD,São Paulo
+203,3,06:29,49,45,MIN,3_Pts_T,Gui Santos
+204,3,06:58,49,45,SPF,2_Pts_C,Georginho
+205,3,07:20,47,45,SPF,tempo_tecnico,São Paulo
+206,3,07:22,47,45,MIN,3_Pts_C,Davi
+207,3,07:27,47,42,MIN,RD,Davi
+208,3,07:30,47,42,SPF,3_Pts_T,Shamell
+209,3,08:01,47,42,MIN,AS,Gui Santos
+210,3,08:01,47,42,MIN,2_Pts_C,David Jackson
+211,3,08:05,47,40,MIN,FR,Batista
+212,3,08:05,47,40,SPF,FC,Lucas Mariano
+213,3,08:11,47,40,MIN,RD,Davi
+214,3,08:14,47,40,SPF,2_Pts_T,Bennett
+215,3,08:31,47,40,MIN,ER,Davi
+216,3,08:35,47,40,MIN,RD,Batista
+217,3,08:40,47,40,MIN,TO,Gui Santos
+218,3,08:40,47,40,SPF,2_Pts_T,Gerson
+219,3,09:00,47,40,MIN,2_Pts_C,David Jackson
+220,3,09:26,47,38,MIN,RD,Gui Santos
+221,3,09:29,47,38,SPF,3_Pts_T,Lucas Mariano
+222,3,09:39,47,38,SPF,FR,Shamell
+223,3,09:39,47,38,MIN,FC,Queiros
+224,3,09:56,47,38,MIN,2_Pts_C,Davi
+225,3,10:00,47,36,,inicio_quarto,
+226,2,00:00,47,36,,fim_quarto,
+227,2,00:00,47,36,SPF,2_Pts_T,Georginho
+228,2,00:04,47,36,SPF,BR,Georginho
+229,2,00:04,47,36,MIN,ER,Johnson Jr
+230,2,00:14,47,36,SPF,2_Pts_C,Bennett
+231,2,00:32,45,36,SPF,RD,Georginho
+232,2,00:35,45,36,MIN,2_Pts_T,Batista
+233,2,00:47,45,36,SPF,2_Pts_C,Bennett
+234,2,01:00,43,36,MIN,substituicao_entra,Gui Santos
+235,2,01:00,43,36,MIN,substituicao_sai,Queiros
+236,2,01:00,43,36,SPF,substituicao_entra,Bennett
+237,2,01:00,43,36,SPF,substituicao_sai,D Penteado
+238,2,01:00,43,36,MIN,LL_Pts_C,Davi
+239,2,01:00,43,35,MIN,LL_Pts_C,Davi
+240,2,01:00,43,34,MIN,FR,Davi
+241,2,01:00,43,34,SPF,FC,Dawkins
+242,2,01:06,43,34,MIN,RD,David Jackson
+243,2,01:09,43,34,SPF,3_Pts_T,Dawkins
+244,2,01:14,43,34,SPF,RD,Shamell
+245,2,01:14,43,34,MIN,LL_Pts_T,Queiros
+246,2,01:14,43,34,MIN,LL_Pts_C,Queiros
+247,2,01:14,43,33,MIN,FR,Queiros
+248,2,01:14,43,33,SPF,FC,Georginho
+249,2,01:14,43,33,MIN,RD,Queiros
+250,2,01:14,43,33,SPF,2_Pts_T,Georginho
+251,2,01:15,43,33,SPF,RO,Georginho
+252,2,01:18,43,33,SPF,3_Pts_T,Lucas Mariano
+253,2,01:34,43,33,MIN,ER,Batista
+254,2,01:51,43,33,MIN,tempo_tecnico,Minas
+255,2,01:52,43,33,SPF,AS,Dawkins
+256,2,01:52,43,33,SPF,3_Pts_C,Georginho
+257,2,02:08,40,33,MIN,ER,Queiros
+258,2,02:31,40,33,MIN,FR,David Jackson
+259,2,02:31,40,33,SPF,ER,Shamell
+260,2,02:31,40,33,SPF,FC_O,Shamell
+261,2,02:44,40,33,SPF,RD,Shamell
+262,2,02:47,40,33,MIN,2_Pts_T,Johnson Jr
+263,2,02:58,40,33,SPF,LL_Pts_C,Georginho
+264,2,02:58,39,33,SPF,LL_Pts_C,Georginho
+265,2,02:58,38,33,SPF,substituicao_entra,D Penteado
+266,2,02:58,38,33,SPF,substituicao_sai,Bennett
+267,2,02:58,38,33,SPF,FR,Georginho
+268,2,02:58,38,33,MIN,FC,Johnson Jr
+269,2,03:10,38,33,MIN,LL_Pts_C,Davi
+270,2,03:10,38,32,MIN,LL_Pts_T,Davi
+271,2,03:10,38,32,SPF,substituicao_entra,Shamell
+272,2,03:10,38,32,SPF,substituicao_sai,D Penteado
+273,2,03:10,38,32,MIN,FR,Davi
+274,2,03:10,38,32,SPF,FC,Dawkins
+275,2,03:19,38,32,SPF,substituicao_entra,D Penteado
+276,2,03:19,38,32,SPF,substituicao_sai,Gerson
+277,2,03:24,38,32,MIN,RD,Batista
+278,2,03:27,38,32,SPF,3_Pts_T,Bennett
+279,2,03:46,38,32,MIN,AS,Davi
+280,2,03:46,38,32,MIN,2_Pts_C,Batista
+281,2,03:54,38,30,MIN,RD,Davi
+282,2,03:57,38,30,SPF,3_Pts_T,Lucas Mariano
+283,2,04:17,38,30,SPF,RD,Georginho
+284,2,04:20,38,30,MIN,2_Pts_T,Batista
+285,2,04:35,38,30,MIN,substituicao_entra,David Jackson
+286,2,04:35,38,30,MIN,substituicao_sai,Gui Santos
+287,2,04:35,38,30,MIN,FR,Queiros
+288,2,04:35,38,30,SPF,ER,Gerson
+289,2,04:35,38,30,SPF,FC_O,Gerson
+290,2,04:39,38,30,SPF,FR,Gerson
+291,2,04:39,38,30,MIN,FC,Gui Santos
+292,2,04:56,38,30,SPF,RD,Lucas Mariano
+293,2,04:56,38,30,MIN,LL_Pts_T,Gui Santos
+294,2,04:56,38,30,MIN,LL_Pts_C,Gui Santos
+295,2,04:56,38,29,MIN,FR,Gui Santos
+296,2,04:56,38,29,SPF,FC,Bennett
+297,2,05:10,38,29,SPF,AS,Georginho
+298,2,05:10,38,29,SPF,2_Pts_C,Lucas Mariano
+299,2,05:23,36,29,MIN,tempo_tecnico,Minas
+300,2,05:23,36,29,MIN,ER,Batista
+301,2,05:40,36,29,SPF,substituicao_entra,Gerson
+302,2,05:40,36,29,SPF,substituicao_sai,Jefferson
+303,2,05:40,36,29,SPF,LL_Pts_C,Jefferson
+304,2,05:40,35,29,MIN,substituicao_entra,Queiros
+305,2,05:40,35,29,MIN,substituicao_sai,Rafa Moreira
+306,2,05:40,35,29,SPF,FR,Jefferson
+307,2,05:40,35,29,MIN,FC,Rafa Moreira
+308,2,05:40,35,29,SPF,AS,Dawkins
+309,2,05:40,35,29,SPF,2_Pts_C,Jefferson
+310,2,05:43,33,29,MIN,ER,Rafa Moreira
+311,2,05:43,33,29,MIN,FC_T,Rafa Moreira
+312,2,05:43,33,29,SPF,ER,Jefferson
+313,2,05:43,33,29,SPF,FC_T,Jefferson
+314,2,05:54,33,29,SPF,RD,São Paulo
+315,2,05:54,33,29,MIN,3_Pts_T,Gui Santos
+316,2,06:03,33,29,MIN,RD,Gui Santos
+317,2,06:06,33,29,SPF,2_Pts_T,Jefferson
+318,2,06:18,33,29,MIN,substituicao_entra,Gui Santos
+319,2,06:18,33,29,MIN,substituicao_sai,David Jackson
+320,2,06:18,33,29,SPF,RD,São Paulo
+321,2,06:21,33,29,MIN,2_Pts_T,Johnson Jr
+322,2,06:33,33,29,MIN,RD,David Jackson
+323,2,06:36,33,29,SPF,3_Pts_T,Dawkins
+324,2,06:41,33,29,SPF,RD,Georginho
+325,2,06:45,33,29,MIN,2_Pts_T,David Jackson
+326,2,07:05,33,29,SPF,AS,Bennett
+327,2,07:05,33,29,SPF,3_Pts_C,Lucas Mariano
+328,2,07:20,30,29,MIN,AS,Rafa Moreira
+329,2,07:20,30,29,MIN,3_Pts_C,Batista
+330,2,07:30,30,26,MIN,FR,Rafa Moreira
+331,2,07:30,30,26,SPF,ER,Jefferson
+332,2,07:30,30,26,SPF,FC_O,Jefferson
+333,2,07:50,30,26,MIN,AS,Batista
+334,2,07:50,30,26,MIN,2_Pts_C,David Jackson
+335,2,08:02,30,24,SPF,LL_Pts_C,Lucas Mariano
+336,2,08:02,29,24,SPF,LL_Pts_C,Lucas Mariano
+337,2,08:02,28,24,MIN,substituicao_entra,Batista
+338,2,08:02,28,24,MIN,substituicao_sai,Ronald
+339,2,08:02,28,24,SPF,FR,Lucas Mariano
+340,2,08:02,28,24,MIN,FC,Rafa Moreira
+341,2,08:28,28,24,SPF,RD,Jefferson
+342,2,08:28,28,24,MIN,LL_Pts_T,Ronald
+343,2,08:28,28,24,MIN,LL_Pts_C,Ronald
+344,2,08:28,28,23,MIN,FR,Ronald
+345,2,08:28,28,23,SPF,FC,Jefferson
+346,2,08:39,28,23,MIN,RO,Johnson Jr
+347,2,08:42,28,23,MIN,3_Pts_T,David Jackson
+348,2,08:59,28,23,SPF,2_Pts_C,Lucas Mariano
+349,2,09:15,26,23,SPF,RD,Lucas Mariano
+350,2,09:15,26,23,MIN,LL_Pts_T,Ronald
+351,2,09:15,26,23,MIN,LL_Pts_T,Ronald
+352,2,09:15,26,23,SPF,substituicao_entra,Jefferson
+353,2,09:15,26,23,SPF,substituicao_entra,Dawkins
+354,2,09:15,26,23,SPF,substituicao_sai,Shamell
+355,2,09:15,26,23,SPF,substituicao_sai,Gerson
+356,2,09:15,26,23,MIN,FR,Ronald
+357,2,09:15,26,23,SPF,FC,Gerson
+358,2,09:16,26,23,MIN,RO,Ronald
+359,2,09:19,26,23,MIN,2_Pts_T,Johnson Jr
+360,2,09:41,26,23,SPF,2_Pts_C,Bennett
+361,2,10:00,24,23,,inicio_quarto,
+362,1,00:00,24,23,,fim_quarto,
+363,1,00:04,24,23,SPF,2_Pts_C,Georginho
+364,1,00:28,22,23,MIN,2_Pts_C,Gui Santos
+365,1,00:29,22,21,MIN,RO,Gui Santos
+366,1,00:33,22,21,MIN,3_Pts_T,Johnson Jr
+367,1,00:44,22,21,SPF,AS,Georginho
+368,1,00:44,22,21,SPF,3_Pts_C,Lucas Mariano
+369,1,00:59,19,21,SPF,RD,Shamell
+370,1,01:03,19,21,MIN,3_Pts_T,Gui Santos
+371,1,01:13,19,21,MIN,FR,David Jackson
+372,1,01:13,19,21,SPF,FC,Shamell
+373,1,01:22,19,21,MIN,BR,Rafa Moreira
+374,1,01:22,19,21,SPF,ER,Gerson
+375,1,01:35,19,21,SPF,RD,Lucas Mariano
+376,1,01:37,19,21,MIN,3_Pts_T,David Jackson
+377,1,01:47,19,21,SPF,AS,Georginho
+378,1,01:47,19,21,SPF,3_Pts_C,Lucas Mariano
+379,1,01:53,16,21,MIN,substituicao_entra,Johnson Jr
+380,1,01:53,16,21,MIN,substituicao_sai,Davi
+381,1,01:53,16,21,SPF,substituicao_entra,Georginho
+382,1,01:53,16,21,SPF,substituicao_sai,D Penteado
+383,1,01:53,16,21,SPF,FR,Bennett
+384,1,01:53,16,21,MIN,FC,Rafa Moreira
+385,1,02:02,16,21,SPF,RD,D Penteado
+386,1,02:04,16,21,MIN,3_Pts_T,Rafa Moreira
+387,1,02:09,16,21,MIN,RD,Gui Santos
+388,1,02:13,16,21,SPF,2_Pts_T,Gerson
+389,1,02:34,16,21,MIN,2_Pts_C,Ronald
+390,1,02:50,16,19,MIN,RD,Gui Santos
+391,1,02:53,16,19,SPF,2_Pts_T,Gerson
+392,1,03:11,16,19,MIN,AS,Gui Santos
+393,1,03:11,16,19,MIN,3_Pts_C,Rafa Moreira
+394,1,03:28,16,16,MIN,RD,Gui Santos
+395,1,03:30,16,16,SPF,3_Pts_T,Lucas Mariano
+396,1,03:34,16,16,MIN,substituicao_entra,Rafa Moreira
+397,1,03:34,16,16,MIN,substituicao_entra,Ronald
+398,1,03:34,16,16,MIN,substituicao_sai,Batista
+399,1,03:34,16,16,MIN,substituicao_sai,Queiros
+400,1,03:53,16,16,SPF,RD,Bennett
+401,1,03:56,16,16,MIN,2_Pts_T,Queiros
+402,1,04:08,16,16,SPF,AS,Lucas Mariano
+403,1,04:08,16,16,SPF,2_Pts_C,Bennett
+404,1,04:20,14,16,SPF,RD,D Penteado
+405,1,04:23,14,16,MIN,2_Pts_T,Queiros
+406,1,04:31,14,16,SPF,2_Pts_C,Lucas Mariano
+407,1,04:44,12,16,SPF,FR,Gerson
+408,1,04:44,12,16,MIN,FC,Queiros
+409,1,04:44,12,16,SPF,RO,São Paulo
+410,1,04:44,12,16,SPF,3_Pts_T,Lucas Mariano
+411,1,05:10,12,16,MIN,AS,Queiros
+412,1,05:10,12,16,MIN,3_Pts_C,Davi
+413,1,05:13,12,13,MIN,RO,Gui Santos
+414,1,05:16,12,13,MIN,2_Pts_T,Queiros
+415,1,05:31,12,13,SPF,AS,Shamell
+416,1,05:31,12,13,SPF,2_Pts_C,Lucas Mariano
+417,1,05:46,10,13,SPF,RD,Shamell
+418,1,05:49,10,13,MIN,3_Pts_T,Gui Santos
+419,1,06:06,10,13,SPF,AS,Bennett
+420,1,06:06,10,13,SPF,3_Pts_C,Shamell
+421,1,06:11,7,13,SPF,BR,Bennett
+422,1,06:11,7,13,MIN,ER,Batista
+423,1,06:12,7,13,MIN,RO,Batista
+424,1,06:15,7,13,MIN,3_Pts_T,Queiros
+425,1,06:33,7,13,SPF,AS,Shamell
+426,1,06:33,7,13,SPF,2_Pts_C,Gerson
+427,1,06:35,5,13,SPF,FR,D Penteado
+428,1,06:35,5,13,MIN,FC,Gui Santos
+429,1,06:54,5,13,MIN,3_Pts_C,Gui Santos
+430,1,07:00,5,10,MIN,RD,Queiros
+431,1,07:03,5,10,SPF,3_Pts_T,Lucas Mariano
+432,1,07:18,5,10,MIN,AS,David Jackson
+433,1,07:18,5,10,MIN,3_Pts_C,Queiros
+434,1,07:28,5,7,MIN,RO,Gui Santos
+435,1,07:28,5,7,MIN,LL_Pts_T,Batista
+436,1,07:28,5,7,MIN,LL_Pts_C,Batista
+437,1,07:28,5,6,MIN,FR,Batista
+438,1,07:28,5,6,SPF,FC,Gerson
+439,1,07:32,5,6,MIN,RO,Batista
+440,1,07:35,5,6,MIN,3_Pts_T,Davi
+441,1,07:51,5,6,MIN,RD,Batista
+442,1,07:54,5,6,SPF,3_Pts_T,Shamell
+443,1,08:02,5,6,SPF,RD,D Penteado
+444,1,08:06,5,6,MIN,3_Pts_T,Davi
+445,1,08:18,5,6,SPF,2_Pts_C,Lucas Mariano
+446,1,08:18,3,6,SPF,RO,Lucas Mariano
+447,1,08:20,3,6,SPF,2_Pts_T,Lucas Mariano
+448,1,08:20,3,6,SPF,RO,Lucas Mariano
+449,1,08:23,3,6,SPF,2_Pts_T,Gerson
+450,1,08:23,3,6,SPF,RO,Gerson
+451,1,08:27,3,6,SPF,2_Pts_T,Lucas Mariano
+452,1,08:50,3,6,MIN,AS,Davi
+453,1,08:50,3,6,MIN,3_Pts_C,Gui Santos
+454,1,09:13,3,3,SPF,AS,Lucas Mariano
+455,1,09:13,3,3,SPF,3_Pts_C,Shamell
+456,1,09:36,0,3,MIN,3_Pts_C,Gui Santos
+457,1,09:40,0,0,MIN,RD,Gui Santos
+458,1,09:43,0,0,SPF,2_Pts_T,Gerson
+459,1,10:00,0,0,MIN,substituicao_entra,David Jackson
+460,1,10:00,0,0,MIN,substituicao_entra,Batista
+461,1,10:00,0,0,MIN,substituicao_entra,Gui Santos
+462,1,10:00,0,0,MIN,substituicao_entra,Davi
+463,1,10:00,0,0,MIN,substituicao_entra,Queiros
+464,1,10:00,0,0,SPF,substituicao_entra,Lucas Mariano
+465,1,10:00,0,0,SPF,substituicao_entra,D Penteado
+466,1,10:00,0,0,SPF,substituicao_entra,Shamell
+467,1,10:00,0,0,SPF,substituicao_entra,Bennett
+468,1,10:00,0,0,SPF,substituicao_entra,Gerson
+469,1,10:00,0,0,,inicio_partida,

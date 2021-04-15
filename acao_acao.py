@@ -24,8 +24,9 @@ l1 = pd.DataFrame([])
 l2 = pd.DataFrame([])
 
 # essa é a ordem das temporadas
-temporada = 2019
-lista_de_temporadas = [54, 47, 41, 34, 27, 20, 15]
+temporada = 2020
+
+lista_de_temporadas = [59]
 
 for x in lista_de_temporadas:
     print(f'Temporada {temporada}')
@@ -47,7 +48,9 @@ for x in lista_de_temporadas:
             if (i == 'https://lnb.com.br/partidas/nbb-20162017-paulistano-x-caxias-do-sul-20122016-1930/')|\
                     (i == 'https://lnb.com.br/noticias/com_personalidade_/')|\
                     (i == 'https://lnb.com.br/noticias/mais-do-que-especial-2/')|\
-                    (i == 'https://lnb.com.br/noticias/agora-sim-5/'):
+                    (i == 'https://lnb.com.br/noticias/agora-sim-5/')|\
+                    (i == 'https://lnb.com.br/partidas/nbb-2020-2021-corinthians-x-fortaleza-b-c-16122020-2000/')|\
+                    (i == 'https://lnb.com.br/partidas/nbb-2020-2021-minas-x-corinthians-14122020-2000/'):
                 print(f'SEM DADOS KKKKKKKKKKKKKK {i}')
                 lista_falha.append(i)
                 numero_jogo += 1

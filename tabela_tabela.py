@@ -43,9 +43,9 @@ list_sites_funciona = []
 l1 = pd.DataFrame([])
 l2 = pd.DataFrame([])
 # essa é a ordem das temporadas
-temporada = 2012
+temporada = 2019
 
-lista_de_temporadas = [8, 4, 3, 2, 1]
+lista_de_temporadas = [54]
 for x in lista_de_temporadas:
     print(f'Temporada {temporada}')
     r = requests.get(f'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D={x}')
