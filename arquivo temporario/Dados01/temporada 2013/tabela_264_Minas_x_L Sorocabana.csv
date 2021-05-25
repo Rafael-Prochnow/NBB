@@ -1,0 +1,524 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,75,77, ,fim_partida,
+1,4,00:02,75,77,LSB,RD,Cipriano
+2,4,00:02,75,77,MIN,2_Pts_T,Elinho
+3,4,00:04,75,77,LSB,2_Pts_C,Schneider
+4,4,00:04,75,75,LSB,AS,Luiz Felipe
+5,4,00:10,75,75,LSB,substituicao_entra,Guilherme
+6,4,00:10,75,75,LSB,substituicao_sai,Thiaguinho
+7,4,00:10,75,75,LSB,tempo_tecnico,Liga Sorocabana
+8,4,00:10,75,75,MIN,2_Pts_C,Coelho
+9,4,00:16,73,75,LSB,LL_Pts_C,Cox
+10,4,00:16,73,74,LSB,LL_Pts_T,Cox
+11,4,00:16,73,74,LSB,substituicao_entra,Thiaguinho
+12,4,00:16,73,74,LSB,substituicao_sai,Alfredo
+13,4,00:16,73,74,LSB,FR,Cox
+14,4,00:16,73,74,MIN,FC,Douglas Nunes
+15,4,00:19,73,74,LSB,substituicao_entra,Alfredo
+16,4,00:19,73,74,LSB,substituicao_sai,Guilherme
+17,4,00:19,73,74,MIN,substituicao_entra,Rafa Moreira
+18,4,00:19,73,74,MIN,substituicao_sai,George
+19,4,00:19,73,74,LSB,tempo_tecnico,Liga Sorocabana
+20,4,00:19,73,74,MIN,3_Pts_C,Coelho
+21,4,00:26,70,74,LSB,LL_Pts_C,Schneider
+22,4,00:26,70,73,LSB,LL_Pts_T,Schneider
+23,4,00:26,70,73,LSB,FR,Schneider
+24,4,00:26,70,73,MIN,FC,Coelho
+25,4,00:28,70,73,LSB,RD,Schneider
+26,4,00:28,70,73,MIN,2_Pts_T,Elinho
+27,4,00:34,70,73,MIN,tempo_tecnico,Minas
+28,4,00:34,70,73,MIN,FR,Coelho
+29,4,00:34,70,73,LSB,FC,Cox
+30,4,00:35,70,73,MIN,RO,Coelho
+31,4,00:35,70,73,MIN,2_Pts_T,Elinho
+32,4,00:48,70,73,MIN,tempo_tecnico,Minas
+33,4,00:48,70,73,LSB,3_Pts_C,Luiz Felipe
+34,4,01:10,70,70,LSB,RD,Guilherme
+35,4,01:10,70,70,MIN,3_Pts_T,George
+36,4,01:30,70,70,LSB,2_Pts_C,Cipriano
+37,4,01:48,70,68,MIN,2_Pts_C,George
+38,4,02:07,68,68,LSB,LL_Pts_C,Cipriano
+39,4,02:07,68,67,LSB,LL_Pts_C,Cipriano
+40,4,02:07,68,66,LSB,FR,Cipriano
+41,4,02:07,68,66,MIN,FC,Elinho
+42,4,02:09,68,66,LSB,RD,Guilherme
+43,4,02:09,68,66,MIN,2_Pts_T,Douglas Nunes
+44,4,02:40,68,66,LSB,LL_Pts_C,Luiz Felipe
+45,4,02:40,68,65,LSB,AS,Cipriano
+46,4,02:40,68,65,LSB,LL_Pts_C,Luiz Felipe
+47,4,02:40,68,64,LSB,substituicao_entra,Guilherme
+48,4,02:40,68,64,LSB,substituicao_sai,Thiaguinho
+49,4,02:40,68,64,MIN,substituicao_sai,Laing
+50,4,02:40,68,64,MIN,substituicao_entra,Siqueira
+51,4,02:40,68,64,LSB,FR,Luiz Felipe
+52,4,02:40,68,64,MIN,FC,Laing
+53,4,02:53,68,64,LSB,substituicao_entra,Schneider
+54,4,02:53,68,64,LSB,substituicao_sai,Guilherme
+55,4,02:53,68,64,LSB,FR,Cipriano
+56,4,02:53,68,64,MIN,FC,George
+57,4,03:13,68,64,MIN,AS,Coelho
+58,4,03:19,68,64,MIN,substituicao_entra,Laing
+59,4,03:19,68,64,MIN,substituicao_sai,Siqueira
+60,4,03:19,68,64,MIN,FR,Elinho
+61,4,03:19,68,64,LSB,FC,Cipriano
+62,4,03:28,68,64,LSB,2_Pts_C,Cipriano
+63,4,03:35,68,62,LSB,RO,Cipriano
+64,4,03:35,68,62,LSB,2_Pts_T,Cox
+65,4,04:02,68,62,LSB,RD,Guilherme
+66,4,04:02,68,62,MIN,3_Pts_T,Douglas Nunes
+67,4,04:07,68,62,MIN,2_Pts_C,Laing
+68,4,04:20,66,62,MIN,BR,Minas
+69,4,04:20,66,62,LSB,ER,Luiz Felipe
+70,4,04:32,66,62,LSB,RD,Thiaguinho
+71,4,04:32,66,62,MIN,2_Pts_T,Elinho
+72,4,04:56,66,62,LSB,2_Pts_C,Guilherme
+73,4,05:01,66,60,LSB,RO,Guilherme
+74,4,05:01,66,60,LSB,2_Pts_T,Cox
+75,4,05:17,66,60,MIN,LL_Pts_C,Coelho
+76,4,05:17,65,60,MIN,AS,Siqueira
+77,4,05:17,65,60,MIN,LL_Pts_C,Coelho
+78,4,05:17,64,60,MIN,FR,Coelho
+79,4,05:17,64,60,LSB,FC,Thiaguinho
+80,4,05:21,64,60,MIN,BR,Siqueira
+81,4,05:21,64,60,LSB,ER,Cox
+82,4,05:26,64,60,MIN,tempo_tecnico,Minas
+83,4,05:26,64,60,MIN,substituicao_entra,George
+84,4,05:26,64,60,MIN,substituicao_sai,Ansaloni
+85,4,05:26,64,60,LSB,RO,Liga Sorocabana
+86,4,05:26,64,60,LSB,2_Pts_T,Thiaguinho
+87,4,05:40,64,60,LSB,BR,Cipriano
+88,4,05:40,64,60,MIN,ER,Siqueira
+89,4,06:01,64,60,LSB,3_Pts_C,Thiaguinho
+90,4,06:01,64,57,LSB,AS,Luiz Felipe
+91,4,06:14,64,57,LSB,RD,Luiz Felipe
+92,4,06:14,64,57,MIN,2_Pts_T,Douglas Nunes
+93,4,06:36,64,57,LSB,ER,
+94,4,06:51,64,57,LSB,substituicao_entra,Thiaguinho
+95,4,06:51,64,57,LSB,substituicao_sai,Schneider
+96,4,06:51,64,57,MIN,substituicao_entra,Coelho
+97,4,06:51,64,57,MIN,substituicao_sai,Laing
+98,4,06:51,64,57,LSB,FR,Schneider
+99,4,06:51,64,57,MIN,FC,Laing
+100,4,07:06,64,57,LSB,tempo_tecnico,Liga Sorocabana
+101,4,07:06,64,57,MIN,EN,Laing
+102,4,07:06,62,57,MIN,AS,Elinho
+103,4,07:07,62,57,MIN,BR,Douglas Nunes
+104,4,07:07,62,57,LSB,ER,Guilherme
+105,4,07:21,62,57,LSB,RD,Schneider
+106,4,07:21,62,57,MIN,2_Pts_T,Ansaloni
+107,4,07:27,62,57,MIN,RO,Ansaloni
+108,4,07:27,62,57,MIN,2_Pts_T,Elinho
+109,4,07:43,62,57,LSB,2_Pts_C,Luiz Felipe
+110,4,07:43,62,55,LSB,AS,Cox
+111,4,07:57,62,55,LSB,FR,Cox
+112,4,07:57,62,55,MIN,FC,Siqueira
+113,4,08:16,62,55,LSB,RD,Schneider
+114,4,08:16,62,55,MIN,LL_Pts_T,Laing
+115,4,08:16,62,55,MIN,LL_Pts_C,Laing
+116,4,08:16,61,55,MIN,FR,Laing
+117,4,08:16,61,55,LSB,FC,Schneider
+118,4,08:21,61,55,MIN,RD,Ansaloni
+119,4,08:21,61,55,LSB,2_Pts_T,Guilherme
+120,4,08:34,61,55,LSB,RD,Luiz Felipe
+121,4,08:34,61,55,MIN,3_Pts_T,Elinho
+122,4,08:55,61,55,MIN,RD,Siqueira
+123,4,08:55,61,55,LSB,2_Pts_T,Cox
+124,4,09:11,61,55,MIN,2_Pts_C,Ansaloni
+125,4,09:11,59,55,MIN,AS,Elinho
+126,4,09:28,59,55,LSB,LL_Pts_C,Cipriano
+127,4,09:28,59,54,LSB,LL_Pts_C,Cipriano
+128,4,09:28,59,53,LSB,FR,Cipriano
+129,4,09:28,59,53,MIN,FC,Ansaloni
+130,4,09:30,59,53,LSB,RO,Cipriano
+131,4,09:30,59,53,LSB,3_Pts_T,Cox
+132,4,09:48,59,53,MIN,2_Pts_C,Douglas Nunes
+133,4,09:48,57,53,MIN,AS,Elinho
+134,3,00:00,57,53, ,fim_quarto,
+135,3,00:00,57,53,LSB,LL_Pts_C,Guilherme
+136,3,00:00,57,52,LSB,LL_Pts_T,Guilherme
+137,3,00:00,57,52,LSB,FR,Guilherme
+138,3,00:00,57,52,MIN,FC,Laing
+139,3,00:01,57,52,LSB,RO,Guilherme
+140,3,00:01,57,52,LSB,3_Pts_T,Cox
+141,3,00:21,57,52,LSB,substituicao_entra,Guilherme
+142,3,00:21,57,52,LSB,substituicao_entra,Cipriano
+143,3,00:21,57,52,LSB,substituicao_entra,Cox
+144,3,00:21,57,52,LSB,substituicao_entra,Schneider
+145,3,00:21,57,52,LSB,substituicao_sai,Verson
+146,3,00:21,57,52,LSB,substituicao_sai,Lupa
+147,3,00:21,57,52,LSB,substituicao_sai,Diego Gomes
+148,3,00:21,57,52,LSB,substituicao_sai,Thiaguinho
+149,3,00:21,57,52,MIN,ER,
+150,3,00:46,57,52,LSB,substituicao_entra,Lupa
+151,3,00:46,57,52,LSB,substituicao_entra,Diego Gomes
+152,3,00:46,57,52,LSB,substituicao_sai,Cipriano
+153,3,00:46,57,52,LSB,substituicao_sai,Cox
+154,3,00:46,57,52,LSB,LL_Pts_C,Cox
+155,3,00:46,57,51,LSB,LL_Pts_C,Cox
+156,3,00:46,57,50,MIN,substituicao_entra,Siqueira
+157,3,00:46,57,50,MIN,substituicao_sai,Coelho
+158,3,00:46,57,50,LSB,substituicao_entra,Thiaguinho
+159,3,00:46,57,50,LSB,substituicao_sai,Luiz Felipe
+160,3,00:46,57,50,LSB,substituicao_entra,Verson
+161,3,00:46,57,50,LSB,substituicao_sai,Guilherme
+162,3,00:46,57,50,LSB,FR,Cox
+163,3,00:46,57,50,MIN,FC,Coelho
+164,3,01:07,57,50,MIN,3_Pts_C,Elinho
+165,3,01:07,54,50,MIN,AS,Laing
+166,3,01:24,54,50,MIN,RD,Laing
+167,3,01:24,54,50,LSB,LL_Pts_T,Cipriano
+168,3,01:24,54,50,LSB,2_Pts_C,Cipriano
+169,3,01:24,54,48,LSB,FR,Cipriano
+170,3,01:24,54,48,MIN,FC,Ansaloni
+171,3,01:49,54,48,MIN,3_Pts_C,Laing
+172,3,01:49,51,48,MIN,AS,Elinho
+173,3,02:09,51,48,LSB,2_Pts_C,Cox
+174,3,02:09,51,46,LSB,AS,Luiz Felipe
+175,3,02:36,51,46,MIN,LL_Pts_C,Douglas Nunes
+176,3,02:36,50,46,MIN,LL_Pts_C,Douglas Nunes
+177,3,02:36,49,46,LSB,substituicao_entra,Cipriano
+178,3,02:36,49,46,LSB,substituicao_sai,De Bem
+179,3,02:36,49,46,MIN,FR,Douglas Nunes
+180,3,02:36,49,46,LSB,FC,De Bem
+181,3,02:37,49,46,MIN,RO,Douglas Nunes
+182,3,02:37,49,46,MIN,LL_Pts_T,Elinho
+183,3,02:37,49,46,MIN,LL_Pts_T,Elinho
+184,3,02:37,49,46,LSB,substituicao_entra,Alfredo
+185,3,02:37,49,46,LSB,substituicao_sai,Schneider
+186,3,02:37,49,46,MIN,FR,Elinho
+187,3,02:37,49,46,LSB,FC,Schneider
+188,3,02:51,49,46,MIN,BR,Minas
+189,3,02:51,49,46,LSB,ER,Guilherme
+190,3,02:51,49,46,MIN,substituicao_sai,Betinho
+191,3,02:51,49,46,MIN,substituicao_entra,Laing
+192,3,02:51,49,46,MIN,LL_Pts_C,Betinho
+193,3,02:51,48,46,MIN,LL_Pts_C,Betinho
+194,3,02:51,47,46,MIN,substituicao_sai,Laing
+195,3,02:51,47,46,MIN,substituicao_entra,Betinho
+196,3,02:51,47,46,LSB,FC_T,Banco do Liga Sorocabana
+197,3,02:51,47,46,MIN,substituicao_entra,Laing
+198,3,02:51,47,46,MIN,substituicao_sai,Betinho
+199,3,02:51,47,46,MIN,FC_T,Betinho
+200,3,02:51,47,46,MIN,substituicao_sai,Laing
+201,3,02:51,47,46,MIN,substituicao_entra,Betinho
+202,3,02:51,47,46,MIN,substituicao_entra,Laing
+203,3,02:51,47,46,MIN,substituicao_sai,Betinho
+204,3,02:51,47,46,MIN,FR,Betinho
+205,3,02:51,47,46,LSB,FC_A,Guilherme
+206,3,02:55,47,46,MIN,3_Pts_C,Betinho
+207,3,02:55,44,46,MIN,AS,Douglas Nunes
+208,3,03:05,44,46,MIN,substituicao_entra,Ansaloni
+209,3,03:05,44,46,MIN,substituicao_sai,George
+210,3,03:05,44,46,LSB,substituicao_entra,De Bem
+211,3,03:05,44,46,LSB,substituicao_sai,Verson
+212,3,03:05,44,46,LSB,ER,Schneider
+213,3,03:27,44,46,MIN,2_Pts_C,George
+214,3,03:27,42,46,MIN,AS,Coelho
+215,3,03:44,42,46,LSB,2_Pts_C,Cox
+216,3,04:06,42,44,MIN,2_Pts_C,George
+217,3,04:20,40,44,LSB,2_Pts_C,Schneider
+218,3,04:35,40,42,MIN,2_Pts_C,Coelho
+219,3,04:59,38,42,MIN,RD,Elinho
+220,3,04:59,38,42,LSB,3_Pts_T,Guilherme
+221,3,05:21,38,42,MIN,2_Pts_C,George
+222,3,05:29,36,42,MIN,RO,George
+223,3,05:29,36,42,MIN,3_Pts_T,Elinho
+224,3,05:42,36,42,MIN,RD,George
+225,3,05:42,36,42,LSB,3_Pts_T,Luiz Felipe
+226,3,06:04,36,42,LSB,RD,Guilherme
+227,3,06:04,36,42,MIN,LL_Pts_T,George
+228,3,06:04,36,42,MIN,LL_Pts_T,George
+229,3,06:04,36,42,MIN,FR,George
+230,3,06:04,36,42,LSB,FC,Guilherme
+231,3,06:12,36,42,LSB,substituicao_entra,Verson
+232,3,06:12,36,42,LSB,substituicao_sai,Cipriano
+233,3,06:12,36,42,MIN,FR,George
+234,3,06:12,36,42,LSB,FC,Cipriano
+235,3,06:31,36,42,LSB,EN,Guilherme
+236,3,06:31,36,40,LSB,AS,Luiz Felipe
+237,3,06:46,36,40,LSB,LL_Pts_C,Cox
+238,3,06:46,36,39,LSB,LL_Pts_C,Cox
+239,3,06:46,36,38,MIN,substituicao_entra,Betinho
+240,3,06:46,36,38,MIN,substituicao_sai,Siqueira
+241,3,06:46,36,38,LSB,BR,Liga Sorocabana
+242,3,06:46,36,38,MIN,ER,Siqueira
+243,3,06:46,36,38,MIN,FC_T,Siqueira
+244,3,06:46,36,38,LSB,3_Pts_C,Luiz Felipe
+245,3,06:46,36,35,LSB,AS,Schneider
+246,3,07:04,36,35,MIN,2_Pts_C,Siqueira
+247,3,07:10,34,35,MIN,RO,Siqueira
+248,3,07:10,34,35,MIN,3_Pts_T,Coelho
+249,3,07:18,34,35,MIN,FR,Siqueira
+250,3,07:18,34,35,LSB,FC,Schneider
+251,3,07:36,34,35,MIN,RD,George
+252,3,07:36,34,35,LSB,2_Pts_T,Cox
+253,3,07:45,34,35,LSB,RD,Guilherme
+254,3,07:45,34,35,MIN,2_Pts_T,George
+255,3,08:06,34,35,LSB,2_Pts_C,Cipriano
+256,3,08:06,34,33,LSB,AS,Luiz Felipe
+257,3,08:11,34,33,LSB,FR,Cipriano
+258,3,08:11,34,33,MIN,FC,Douglas Nunes
+259,3,08:16,34,33,LSB,FR,Cox
+260,3,08:16,34,33,MIN,FC,Coelho
+261,3,08:30,34,33,MIN,ER,Siqueira
+262,3,08:48,34,33,LSB,2_Pts_C,Cipriano
+263,3,09:05,34,31,LSB,FR,Guilherme
+264,3,09:05,34,31,MIN,FC,George
+265,3,09:08,34,31,LSB,RO,Liga Sorocabana
+266,3,09:08,34,31,LSB,3_Pts_T,Schneider
+267,3,09:14,34,31,LSB,RO,Guilherme
+268,3,09:14,34,31,LSB,2_Pts_T,Guilherme
+269,3,09:27,34,31,LSB,RD,Guilherme
+270,3,09:27,34,31,MIN,2_Pts_T,George
+271,3,09:51,34,31,LSB,3_Pts_C,Cox
+272,3,09:51,34,28,LSB,AS,Cipriano
+273,2,00:00,34,28, ,fim_quarto,
+274,2,00:00,34,28,LSB,3_Pts_T,Schneider
+275,2,00:02,34,28,LSB,substituicao_entra,Cox
+276,2,00:02,34,28,LSB,substituicao_entra,Alfredo
+277,2,00:02,34,28,LSB,substituicao_sai,De Bem
+278,2,00:02,34,28,LSB,substituicao_sai,Cipriano
+279,2,00:02,34,28,LSB,tempo_tecnico,Liga Sorocabana
+280,2,00:02,34,28,MIN,LL_Pts_C,Douglas Nunes
+281,2,00:02,33,28,MIN,LL_Pts_C,Douglas Nunes
+282,2,00:02,32,28,MIN,FR,Douglas Nunes
+283,2,00:02,32,28,LSB,FC,Thiaguinho
+284,2,00:05,32,28,LSB,substituicao_entra,Cipriano
+285,2,00:05,32,28,LSB,substituicao_sai,Guilherme
+286,2,00:07,32,28,MIN,RO,George
+287,2,00:07,32,28,MIN,2_Pts_T,Elinho
+288,2,00:32,32,28,MIN,RD,George
+289,2,00:32,32,28,LSB,3_Pts_T,Schneider
+290,2,00:40,32,28,MIN,2_Pts_C,Douglas Nunes
+291,2,00:44,30,28,MIN,RO,Douglas Nunes
+292,2,00:44,30,28,MIN,2_Pts_T,Betinho
+293,2,01:12,30,28,LSB,substituicao_entra,Guilherme
+294,2,01:12,30,28,LSB,substituicao_sai,Verson
+295,2,01:12,30,28,LSB,AS,Luiz Felipe
+296,2,01:12,30,28,LSB,LL_Pts_C,Schneider
+297,2,01:12,30,27,LSB,LL_Pts_C,Schneider
+298,2,01:12,30,26,LSB,substituicao_entra,Thiaguinho
+299,2,01:12,30,26,LSB,substituicao_sai,Cox
+300,2,01:12,30,26,LSB,FR,Schneider
+301,2,01:12,30,26,MIN,FC,Coelho
+302,2,01:22,30,26,LSB,substituicao_entra,Cox
+303,2,01:22,30,26,LSB,substituicao_sai,Alfredo
+304,2,01:22,30,26,MIN,LL_Pts_C,Douglas Nunes
+305,2,01:22,29,26,MIN,LL_Pts_C,Douglas Nunes
+306,2,01:22,28,26,MIN,FR,Douglas Nunes
+307,2,01:22,28,26,LSB,FC,Alfredo
+308,2,01:44,28,26,MIN,RD,Minas
+309,2,01:44,28,26,LSB,2_Pts_T,Verson
+310,2,02:10,28,26,LSB,FR,Schneider
+311,2,02:10,28,26,MIN,FC_O,Douglas Nunes
+312,2,02:20,28,26,MIN,substituicao_entra,Elinho
+313,2,02:20,28,26,MIN,substituicao_sai,Siqueira
+314,2,02:20,28,26,MIN,FR,Coelho
+315,2,02:20,28,26,LSB,FC_O,Luiz Felipe
+316,2,02:35,28,26,LSB,RD,Luiz Felipe
+317,2,02:35,28,26,MIN,2_Pts_T,George
+318,2,02:44,28,26,LSB,substituicao_entra,Alfredo
+319,2,02:44,28,26,LSB,substituicao_sai,Cox
+320,2,02:44,28,26,MIN,FR,Betinho
+321,2,02:44,28,26,LSB,FC,Cox
+322,2,02:56,28,26,LSB,2_Pts_C,Cox
+323,2,03:17,28,24,MIN,3_Pts_C,Siqueira
+324,2,03:17,25,24,MIN,AS,Betinho
+325,2,03:37,25,24,LSB,LL_Pts_C,Cox
+326,2,03:37,25,23,LSB,LL_Pts_C,Cox
+327,2,03:37,25,22,MIN,substituicao_entra,Betinho
+328,2,03:37,25,22,MIN,substituicao_entra,Coelho
+329,2,03:37,25,22,MIN,substituicao_sai,Rafa Moreira
+330,2,03:37,25,22,MIN,substituicao_sai,Elinho
+331,2,03:37,25,22,MIN,tempo_tecnico,Minas
+332,2,03:37,25,22,LSB,FR,Cox
+333,2,03:37,25,22,MIN,FC,Douglas Nunes
+334,2,03:45,25,22,LSB,RD,Schneider
+335,2,03:45,25,22,MIN,3_Pts_T,Rafa Moreira
+336,2,04:07,25,22,LSB,2_Pts_C,Cox
+337,2,04:31,25,20,MIN,,
+338,2,04:33,25,20,MIN,FR,Siqueira
+339,2,04:33,25,20,LSB,FC,Cox
+340,2,04:48,25,20,LSB,LL_Pts_C,Schneider
+341,2,04:48,25,19,LSB,LL_Pts_C,Schneider
+342,2,04:48,25,18,LSB,FR,Schneider
+343,2,04:48,25,18,MIN,FC,Rafa Moreira
+344,2,05:15,25,18,LSB,RD,Liga Sorocabana
+345,2,05:15,25,18,MIN,3_Pts_T,Rafa Moreira
+346,2,05:28,25,18,LSB,substituicao_entra,Verson
+347,2,05:28,25,18,LSB,substituicao_sai,Cipriano
+348,2,05:28,25,18,LSB,tempo_tecnico,Liga Sorocabana
+349,2,05:28,25,18,MIN,FR,Elinho
+350,2,05:28,25,18,LSB,FC,Cipriano
+351,2,05:42,25,18,MIN,BR,Siqueira
+352,2,05:42,25,18,LSB,ER,Schneider
+353,2,05:51,25,18,LSB,RO,Schneider
+354,2,05:51,25,18,MIN,TO,Douglas Nunes
+355,2,05:51,25,18,LSB,2_Pts_T,Cipriano
+356,2,06:06,25,18,LSB,substituicao_entra,De Bem
+357,2,06:06,25,18,LSB,substituicao_sai,Guilherme
+358,2,06:06,25,18,MIN,substituicao_entra,Douglas Nunes
+359,2,06:06,25,18,MIN,substituicao_sai,Ansaloni
+360,2,06:06,25,18,LSB,FR,Schneider
+361,2,06:06,25,18,MIN,FC,Rafa Moreira
+362,2,06:22,25,18,MIN,2_Pts_C,George
+363,2,06:22,23,18,MIN,AS,Elinho
+364,2,06:35,23,18,LSB,2_Pts_C,Cipriano
+365,2,06:48,23,16,LSB,substituicao_entra,Cox
+366,2,06:48,23,16,LSB,substituicao_sai,Diego Gomes
+367,2,06:48,23,16,MIN,substituicao_entra,Rafa Moreira
+368,2,06:48,23,16,MIN,substituicao_sai,Laing
+369,2,06:48,23,16,MIN,tempo_tecnico,Minas
+370,2,06:48,23,16,LSB,FR,Schneider
+371,2,06:48,23,16,MIN,FC,Laing
+372,2,07:01,23,16,LSB,RD,Guilherme
+373,2,07:01,23,16,MIN,2_Pts_T,Laing
+374,2,07:19,23,16,MIN,LL_Pts_C,George
+375,2,07:19,22,16,MIN,LL_Pts_C,George
+376,2,07:19,21,16,LSB,substituicao_entra,Diego Gomes
+377,2,07:19,21,16,LSB,substituicao_sai,Thiaguinho
+378,2,07:19,21,16,MIN,substituicao_entra,Siqueira
+379,2,07:19,21,16,MIN,substituicao_sai,Betinho
+380,2,07:19,21,16,MIN,FR,George
+381,2,07:19,21,16,LSB,FC_A,Cipriano
+382,2,07:21,21,16,MIN,BR,George
+383,2,07:21,21,16,LSB,ER,Thiaguinho
+384,2,07:40,21,16,MIN,ER,Betinho
+385,2,07:58,21,16,LSB,2_Pts_C,Guilherme
+386,2,07:58,21,14,LSB,AS,Cipriano
+387,2,08:12,21,14,MIN,3_Pts_C,Betinho
+388,2,08:12,18,14,MIN,AS,Elinho
+389,2,08:29,18,14,LSB,substituicao_entra,Thiaguinho
+390,2,08:29,18,14,LSB,substituicao_sai,Cox
+391,2,08:29,18,14,LSB,LL_Pts_C,Cipriano
+392,2,08:29,18,13,LSB,LL_Pts_C,Cipriano
+393,2,08:29,18,12,MIN,substituicao_entra,George
+394,2,08:29,18,12,MIN,substituicao_sai,Douglas Nunes
+395,2,08:29,18,12,LSB,FR,Cipriano
+396,2,08:29,18,12,MIN,FC,Ansaloni
+397,2,08:40,18,12,LSB,RD,Guilherme
+398,2,08:40,18,12,MIN,2_Pts_T,Douglas Nunes
+399,2,09:00,18,12,LSB,2_Pts_C,Cipriano
+400,2,09:03,18,10,MIN,substituicao_sai,Coelho
+401,2,09:03,18,10,MIN,substituicao_entra,Elinho
+402,2,09:04,18,10,LSB,RO,Liga Sorocabana
+403,2,09:04,18,10,MIN,TO,Ansaloni
+404,2,09:04,18,10,LSB,2_Pts_T,Cipriano
+405,2,09:22,18,10,LSB,RD,Schneider
+406,2,09:22,18,10,MIN,2_Pts_T,Laing
+407,2,09:40,18,10,LSB,substituicao_entra,Luiz Felipe
+408,2,09:40,18,10,LSB,substituicao_sai,Thiaguinho
+409,2,09:40,18,10,MIN,BR,Minas
+410,2,09:40,18,10,LSB,ER,Guilherme
+411,2,09:45,18,10,LSB,RD,Thiaguinho
+412,2,09:45,18,10,LSB,TO,Guilherme
+413,2,09:45,18,10,MIN,3_Pts_T,Laing
+414,1,00:00,18,10, ,fim_quarto,
+415,1,00:01,18,10,LSB,FR,Guilherme
+416,1,00:01,18,10,MIN,FC,Ansaloni
+417,1,00:02,18,10,LSB,RD,Guilherme
+418,1,00:02,18,10,MIN,2_Pts_T,Coelho
+419,1,00:05,18,10,MIN,RO,Coelho
+420,1,00:05,18,10,MIN,3_Pts_T,Betinho
+421,1,00:25,18,10,MIN,RD,Ansaloni
+422,1,00:25,18,10,LSB,3_Pts_T,Thiaguinho
+423,1,00:43,18,10,MIN,substituicao_entra,Laing
+424,1,00:43,18,10,MIN,substituicao_sai,Elinho
+425,1,00:51,18,10,LSB,RD,Alfredo
+426,1,00:51,18,10,MIN,2_Pts_T,Ansaloni
+427,1,01:23,18,10,MIN,RD,Minas
+428,1,01:23,18,10,LSB,3_Pts_T,Thiaguinho
+429,1,01:40,18,10,MIN,3_Pts_C,Elinho
+430,1,01:40,15,10,MIN,AS,Douglas Nunes
+431,1,01:53,15,10,MIN,substituicao_entra,Betinho
+432,1,01:53,15,10,MIN,substituicao_sai,Laing
+433,1,01:53,15,10,LSB,substituicao_entra,Alfredo
+434,1,01:53,15,10,LSB,substituicao_sai,Luiz Felipe
+435,1,01:53,15,10,MIN,FR,Coelho
+436,1,01:53,15,10,LSB,FC_O,Guilherme
+437,1,02:08,15,10,MIN,2_Pts_C,Douglas Nunes
+438,1,02:08,13,10,MIN,AS,Laing
+439,1,02:21,13,10,LSB,2_Pts_C,Thiaguinho
+440,1,02:44,13,8,MIN,2_Pts_C,Ansaloni
+441,1,02:44,11,8,MIN,AS,Coelho
+442,1,03:07,11,8,LSB,2_Pts_C,Guilherme
+443,1,03:07,11,6,LSB,AS,Thiaguinho
+444,1,03:24,11,6,MIN,2_Pts_C,Douglas Nunes
+445,1,03:24,9,6,MIN,AS,Coelho
+446,1,03:41,9,6,LSB,ER,
+447,1,04:00,9,6,LSB,substituicao_entra,Cipriano
+448,1,04:00,9,6,LSB,substituicao_sai,Verson
+449,1,04:00,9,6,LSB,FR,Cox
+450,1,04:00,9,6,MIN,FC,Laing
+451,1,04:09,9,6,LSB,RD,Cox
+452,1,04:09,9,6,MIN,2_Pts_T,Elinho
+453,1,04:26,9,6,MIN,BR,Douglas Nunes
+454,1,04:26,9,6,LSB,ER,Guilherme
+455,1,04:42,9,6,LSB,RO,Luiz Felipe
+456,1,04:42,9,6,LSB,2_Pts_T,Luiz Felipe
+457,1,04:50,9,6,LSB,RD,Luiz Felipe
+458,1,04:50,9,6,MIN,2_Pts_T,Laing
+459,1,04:58,9,6,MIN,RD,Elinho
+460,1,04:58,9,6,LSB,3_Pts_T,Verson
+461,1,05:18,9,6,MIN,LL_Pts_C,Coelho
+462,1,05:18,8,6,MIN,substituicao_entra,Ansaloni
+463,1,05:18,8,6,MIN,substituicao_sai,George
+464,1,05:18,8,6,LSB,substituicao_entra,Thiaguinho
+465,1,05:18,8,6,LSB,substituicao_sai,Schneider
+466,1,05:18,8,6,MIN,2_Pts_C,Coelho
+467,1,05:18,6,6,MIN,FR,Coelho
+468,1,05:18,6,6,LSB,FC,Luiz Felipe
+469,1,05:21,6,6,MIN,BR,Coelho
+470,1,05:21,6,6,LSB,ER,Schneider
+471,1,05:25,6,6,LSB,BR,Schneider
+472,1,05:25,6,6,MIN,ER,Coelho
+473,1,05:43,6,6,MIN,BR,George
+474,1,05:43,6,6,LSB,ER,Luiz Felipe
+475,1,05:51,6,6,MIN,substituicao_entra,Coelho
+476,1,05:51,6,6,MIN,substituicao_sai,Siqueira
+477,1,05:51,6,6,LSB,FR,Luiz Felipe
+478,1,05:51,6,6,MIN,FC,Siqueira
+479,1,05:56,6,6,LSB,BR,Luiz Felipe
+480,1,05:56,6,6,MIN,ER,Elinho
+481,1,06:02,6,6,MIN,RD,Elinho
+482,1,06:02,6,6,LSB,2_Pts_T,Guilherme
+483,1,06:25,6,6,MIN,ER,Siqueira
+484,1,06:49,6,6,LSB,2_Pts_C,Schneider
+485,1,07:05,6,4,MIN,,
+486,1,07:16,6,4,MIN,RD,Elinho
+487,1,07:16,6,4,LSB,3_Pts_T,Verson
+488,1,07:25,6,4,LSB,RO,Verson
+489,1,07:25,6,4,LSB,3_Pts_T,Cox
+490,1,07:37,6,4,MIN,ER,Douglas Nunes
+491,1,07:51,6,4,MIN,RD,George
+492,1,07:51,6,4,LSB,2_Pts_T,Schneider
+493,1,08:02,6,4,LSB,RD,Schneider
+494,1,08:02,6,4,MIN,3_Pts_T,George
+495,1,08:13,6,4,LSB,2_Pts_C,Verson
+496,1,08:13,6,2,LSB,AS,Luiz Felipe
+497,1,08:32,6,2,MIN,AS,Elinho
+498,1,08:32,6,2,MIN,LL_Pts_C,George
+499,1,08:32,5,2,MIN,LL_Pts_T,George
+500,1,08:32,5,2,MIN,FR,George
+501,1,08:32,5,2,LSB,FC,Schneider
+502,1,08:39,5,2,MIN,RD,Douglas Nunes
+503,1,08:39,5,2,MIN,TO,Douglas Nunes
+504,1,08:39,5,2,LSB,2_Pts_T,Cox
+505,1,09:01,5,2,MIN,2_Pts_C,Douglas Nunes
+506,1,09:01,3,2,MIN,AS,Elinho
+507,1,09:06,3,2,MIN,BR,George
+508,1,09:06,3,2,LSB,ER,Guilherme
+509,1,09:22,3,2,MIN,3_Pts_C,Douglas Nunes
+510,1,09:22,0,2,MIN,AS,Elinho
+511,1,09:41,0,2,LSB,2_Pts_C,Guilherme
+512,1,09:41,0,0,LSB,AS,Luiz Felipe
+513,1,10:00,0,0,LSB,substituicao_entra,Guilherme
+514,1,10:00,0,0,LSB,substituicao_entra,Verson
+515,1,10:00,0,0,LSB,substituicao_entra,Cox
+516,1,10:00,0,0,LSB,substituicao_entra,Schneider
+517,1,10:00,0,0,LSB,substituicao_entra,Luiz Felipe
+518,1,10:00,0,0,MIN,substituicao_entra,Siqueira
+519,1,10:00,0,0,MIN,substituicao_entra,Douglas Nunes
+520,1,10:00,0,0,MIN,substituicao_entra,George
+521,1,10:00,0,0,MIN,substituicao_entra,Laing
+522,1,10:00,0,0,MIN,substituicao_entra,Elinho

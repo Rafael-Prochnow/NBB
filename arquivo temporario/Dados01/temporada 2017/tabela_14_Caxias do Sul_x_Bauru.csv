@@ -1,0 +1,499 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,70,69,,fim_partida,
+1,4,00:02,70,69,BAU,tempo_tecnico,Bauru
+2,4,00:03,70,69,BAU,substituicao_entra,Duda
+3,4,00:03,70,69,BAU,substituicao_sai,Isaac
+4,4,00:03,70,69,BAU,substituicao_entra,Anthony
+5,4,00:03,70,69,BAU,substituicao_sai,Shilton
+6,4,00:03,70,69,BAU,substituicao_entra,Hettsheimeir
+7,4,00:03,70,69,BAU,substituicao_sai,Gui
+8,4,00:03,70,69,CAX,substituicao_entra,Paranhos
+9,4,00:03,70,69,CAX,substituicao_sai,Pedro
+10,4,00:03,70,69,BAU,tempo_tecnico,Bauru
+11,4,00:04,70,69,CAX,AS,Cauê B
+12,4,00:04,70,69,CAX,3_Pts_C,Cauê V
+13,4,00:17,67,69,BAU,substituicao_entra,Renan
+14,4,00:17,67,69,BAU,substituicao_sai,Duda
+15,4,00:17,67,69,BAU,substituicao_entra,Shilton
+16,4,00:17,67,69,BAU,substituicao_sai,Hettsheimeir
+17,4,00:17,67,69,BAU,substituicao_entra,Gui
+18,4,00:17,67,69,BAU,substituicao_sai,Anthony
+19,4,00:17,67,69,CAX,tempo_tecnico,Caxias do Sul
+20,4,00:17,67,69,BAU,LL_Pts_C,Isaac
+21,4,00:17,67,68,BAU,LL_Pts_C,Isaac
+22,4,00:17,67,67,BAU,FR,Isaac
+23,4,00:17,67,67,CAX,FC,Pedro
+24,4,00:32,67,67,CAX,2_Pts_C,Cauê B
+25,4,00:44,65,67,CAX,RD,Cauê V
+26,4,00:47,65,67,BAU,3_Pts_T,Isaac
+27,4,00:48,65,67,BAU,FR,Duda
+28,4,00:48,65,67,CAX,FC,Cauê B
+29,4,00:57,65,67,CAX,2_Pts_C,Cauê V
+30,4,01:24,63,67,BAU,AS,Alex
+31,4,01:24,63,67,BAU,2_Pts_C,Hettsheimeir
+32,4,01:49,63,65,CAX,AS,Pedro
+33,4,01:49,63,65,CAX,2_Pts_C,Marcão
+34,4,02:12,61,65,CAX,BR,Cauê V
+35,4,02:12,61,65,BAU,ER,Alex
+36,4,02:21,61,65,BAU,RO,Alex
+37,4,02:24,61,65,BAU,3_Pts_T,Isaac
+38,4,02:37,61,65,BAU,RD,Bauru
+39,4,02:37,61,65,CAX,2_Pts_T,Marcão
+40,4,02:53,61,65,BAU,3_Pts_C,Duda
+41,4,03:01,61,62,BAU,FR,Anthony
+42,4,03:01,61,62,CAX,FC,Pedro
+43,4,03:24,61,62,CAX,LL_Pts_C,Cauê B
+44,4,03:24,60,62,CAX,LL_Pts_C,Cauê B
+45,4,03:24,59,62,CAX,substituicao_entra,Alex
+46,4,03:24,59,62,CAX,substituicao_sai,Paranhos
+47,4,03:24,59,62,BAU,substituicao_entra,Alex
+48,4,03:24,59,62,BAU,substituicao_sai,Renan
+49,4,03:24,59,62,CAX,FR,Cauê B
+50,4,03:24,59,62,BAU,FC,Renan
+51,4,03:27,59,62,CAX,RD,Paranhos
+52,4,03:30,59,62,BAU,3_Pts_T,Anthony
+53,4,03:49,59,62,BAU,RD,Isaac
+54,4,03:51,59,62,CAX,2_Pts_T,Pedro
+55,4,04:07,59,62,CAX,RD,Cauê V
+56,4,04:10,59,62,BAU,2_Pts_T,Duda
+57,4,04:34,59,62,BAU,RD,Bauru
+58,4,04:34,59,62,CAX,LL_Pts_T,Paranhos
+59,4,04:34,59,62,CAX,LL_Pts_T,Paranhos
+60,4,04:34,59,62,BAU,substituicao_entra,Hettsheimeir
+61,4,04:34,59,62,BAU,substituicao_sai,Shilton
+62,4,04:34,59,62,CAX,FR,Paranhos
+63,4,04:34,59,62,BAU,FC,Renan
+64,4,04:39,59,62,CAX,RD,Cauê V
+65,4,04:42,59,62,BAU,2_Pts_T,Anthony
+66,4,04:49,59,62,BAU,RD,Isaac
+67,4,04:53,59,62,CAX,3_Pts_T,Cauê V
+68,4,05:18,59,62,BAU,2_Pts_C,Duda
+69,4,05:24,59,60,BAU,RO,Isaac
+70,4,05:27,59,60,BAU,3_Pts_T,Duda
+71,4,05:41,59,60,BAU,substituicao_entra,Anthony
+72,4,05:41,59,60,BAU,substituicao_sai,Stefano
+73,4,05:41,59,60,BAU,substituicao_entra,Duda
+74,4,05:41,59,60,BAU,substituicao_sai,Alex
+75,4,05:41,59,60,CAX,LL_Pts_C,Pedro
+76,4,05:41,58,60,CAX,LL_Pts_T,Pedro
+77,4,05:41,58,60,CAX,FR,Pedro
+78,4,05:41,58,60,BAU,FC,Alex
+79,4,05:41,58,60,CAX,substituicao_entra,Paranhos
+80,4,05:41,58,60,CAX,substituicao_sai,Alex
+81,4,05:45,58,60,BAU,ER,Alex
+82,4,05:45,58,60,CAX,BR,Pedro
+83,4,05:50,58,60,BAU,RD,Alex
+84,4,05:52,58,60,CAX,2_Pts_T,Alex
+85,4,06:19,58,60,BAU,2_Pts_C,Alex
+86,4,06:42,58,58,BAU,BR,Stefano
+87,4,06:42,58,58,CAX,ER,Cauê B
+88,4,07:12,58,58,BAU,3_Pts_C,Isaac
+89,4,07:14,58,55,BAU,RO,Shilton
+90,4,07:16,58,55,BAU,2_Pts_T,Shilton
+91,4,07:21,58,55,BAU,RD,Isaac
+92,4,07:24,58,55,CAX,2_Pts_T,Cauê B
+93,4,07:32,58,55,CAX,FR,Cauê B
+94,4,07:32,58,55,BAU,FC,Alex
+95,4,07:34,58,55,CAX,RO,Cauê B
+96,4,07:40,58,55,CAX,3_Pts_T,Alex
+97,4,07:48,58,55,BAU,ER,Alex
+98,4,07:56,58,55,CAX,substituicao_entra,Cauê V
+99,4,07:56,58,55,CAX,substituicao_sai,Cafferata
+100,4,07:56,58,55,BAU,FR,Shilton
+101,4,07:56,58,55,CAX,FC,Cafferata
+102,4,08:01,58,55,BAU,FR,Shilton
+103,4,08:01,58,55,CAX,FC,Cafferata
+104,4,08:09,58,55,BAU,RD,Isaac
+105,4,08:11,58,55,CAX,2_Pts_T,Marcão
+106,4,08:32,58,55,CAX,RD,Cafferata
+107,4,08:36,58,55,BAU,3_Pts_T,Renan
+108,4,08:46,58,55,BAU,BR,Stefano
+109,4,08:46,58,55,CAX,ER,Cafferata
+110,4,09:09,58,55,BAU,2_Pts_C,Alex
+111,4,09:24,58,53,CAX,AS,Pedro
+112,4,09:24,58,53,CAX,LL_Pts_C,Marcão
+113,4,09:24,57,53,CAX,LL_Pts_C,Marcão
+114,4,09:24,56,53,CAX,FR,Marcão
+115,4,09:24,56,53,BAU,FC,Shilton
+116,4,09:41,56,53,CAX,RD,Alex
+117,4,09:44,56,53,BAU,3_Pts_T,Alex
+118,4,10:00,56,53,,inicio_quarto,
+119,3,00:00,56,53,,fim_quarto,
+120,3,00:05,56,53,CAX,2_Pts_T,Cauê V
+121,3,00:12,56,53,CAX,RD,Alex
+122,3,00:14,56,53,BAU,2_Pts_T,Hettsheimeir
+123,3,00:25,56,53,BAU,BR,Stefano
+124,3,00:25,56,53,CAX,ER,Cauê V
+125,3,00:48,56,53,CAX,RD,Cauê V
+126,3,00:48,56,53,BAU,LL_Pts_T,Stefano
+127,3,00:48,56,53,BAU,LL_Pts_C,Stefano
+128,3,00:48,56,52,BAU,FR,Stefano
+129,3,00:48,56,52,CAX,FC,Jonathan
+130,3,01:03,56,52,BAU,RD,Hettsheimeir
+131,3,01:04,56,52,CAX,LL_Pts_T,Jonathan
+132,3,01:04,56,52,CAX,LL_Pts_T,Jonathan
+133,3,01:04,56,52,CAX,FR,Jonathan
+134,3,01:04,56,52,BAU,FC,Isaac
+135,3,01:10,56,52,CAX,BR,Cauê V
+136,3,01:10,56,52,BAU,ER,Alex
+137,3,01:14,56,52,BAU,RD,Isaac
+138,3,01:18,56,52,BAU,TO,Hettsheimeir
+139,3,01:18,56,52,CAX,2_Pts_T,Alex
+140,3,01:41,56,52,CAX,tempo_tecnico,Caxias do Sul
+141,3,01:42,56,52,BAU,AS,Alex
+142,3,01:42,56,52,BAU,3_Pts_C,Isaac
+143,3,01:48,56,49,BAU,RD,Alex
+144,3,01:50,56,49,CAX,3_Pts_T,Cauê V
+145,3,01:59,56,49,CAX,RO,Pedro
+146,3,02:02,56,49,CAX,3_Pts_T,Cafferata
+147,3,02:03,56,49,BAU,substituicao_entra,Stefano
+148,3,02:03,56,49,BAU,substituicao_sai,Anthony
+149,3,02:13,56,49,CAX,RD,Alex
+150,3,02:16,56,49,BAU,3_Pts_T,Isaac
+151,3,02:23,56,49,BAU,RD,Isaac
+152,3,02:30,56,49,CAX,2_Pts_T,Pedro
+153,3,02:49,56,49,BAU,LL_Pts_C,Alex
+154,3,02:49,56,48,BAU,FR,Alex
+155,3,02:49,56,48,CAX,FC,Cauê V
+156,3,02:49,56,48,BAU,2_Pts_C,Alex
+157,3,02:56,56,46,BAU,RD,Renan
+158,3,02:59,56,46,CAX,3_Pts_T,Alex
+159,3,03:13,56,46,CAX,LL_Pts_C,Pedro
+160,3,03:13,55,46,BAU,FC_T,Anthony
+161,3,03:13,55,46,BAU,ER,Anthony
+162,3,03:14,55,46,BAU,substituicao_entra,Isaac
+163,3,03:14,55,46,BAU,substituicao_sai,Duda
+164,3,03:14,55,46,CAX,substituicao_entra,Cafferata
+165,3,03:14,55,46,CAX,substituicao_sai,Cauê B
+166,3,03:14,55,46,BAU,tempo_tecnico,Bauru
+167,3,03:16,55,46,CAX,2_Pts_C,Cauê V
+168,3,03:26,53,46,CAX,RD,Alex
+169,3,03:28,53,46,BAU,2_Pts_T,Alex
+170,3,03:48,53,46,CAX,2_Pts_C,Cauê B
+171,3,04:02,51,46,BAU,2_Pts_C,Hettsheimeir
+172,3,04:24,51,44,CAX,3_Pts_C,Cauê V
+173,3,04:33,48,44,BAU,2_Pts_C,Anthony
+174,3,04:44,48,42,CAX,2_Pts_C,Cauê B
+175,3,04:48,46,42,CAX,BR,Cauê B
+176,3,04:48,46,42,BAU,ER,Alex
+177,3,05:00,46,42,BAU,RD,Duda
+178,3,05:03,46,42,CAX,2_Pts_T,Cauê V
+179,3,05:16,46,42,CAX,LL_Pts_C,Cauê B
+180,3,05:16,45,42,CAX,LL_Pts_C,Cauê B
+181,3,05:16,44,42,CAX,FR,Cauê B
+182,3,05:16,44,42,BAU,FC_A,Duda
+183,3,05:24,44,42,CAX,FR,Cauê B
+184,3,05:24,44,42,BAU,FC,Anthony
+185,3,05:28,44,42,CAX,RD,Cauê B
+186,3,05:30,44,42,BAU,2_Pts_T,Hettsheimeir
+187,3,05:42,44,42,BAU,LL_Pts_C,Alex
+188,3,05:42,44,41,CAX,substituicao_entra,Jonathan
+189,3,05:42,44,41,CAX,substituicao_sai,Paranhos
+190,3,05:42,44,41,CAX,FC_T,Paranhos
+191,3,06:01,44,41,BAU,RD,Hettsheimeir
+192,3,06:04,44,41,CAX,2_Pts_T,Alex
+193,3,06:19,44,41,BAU,2_Pts_C,Hettsheimeir
+194,3,06:26,44,39,BAU,substituicao_entra,Renan
+195,3,06:26,44,39,BAU,substituicao_sai,Shilton
+196,3,06:26,44,39,CAX,substituicao_entra,Paranhos
+197,3,06:26,44,39,CAX,substituicao_sai,Marcão
+198,3,06:26,44,39,BAU,FR,Anthony
+199,3,06:26,44,39,CAX,FC,Marcão
+200,3,06:37,44,39,CAX,3_Pts_C,Cauê B
+201,3,06:45,41,39,CAX,BR,Cauê V
+202,3,06:45,41,39,BAU,ER,Hettsheimeir
+203,3,06:53,41,39,BAU,RD,Alex
+204,3,06:56,41,39,CAX,2_Pts_T,Cauê V
+205,3,07:00,41,39,CAX,RO,Cauê B
+206,3,07:03,41,39,CAX,2_Pts_T,Cauê B
+207,3,07:09,41,39,BAU,substituicao_entra,Duda
+208,3,07:09,41,39,BAU,substituicao_sai,Gui
+209,3,07:09,41,39,CAX,FR,Cauê B
+210,3,07:09,41,39,BAU,FC,Gui
+211,3,07:11,41,39,CAX,RO,Cauê V
+212,3,07:15,41,39,CAX,2_Pts_T,Marcão
+213,3,07:30,41,39,BAU,AS,Anthony
+214,3,07:30,41,39,BAU,3_Pts_C,Hettsheimeir
+215,3,07:45,41,36,CAX,2_Pts_C,Cauê B
+216,3,07:58,39,36,CAX,RD,Cauê B
+217,3,08:01,39,36,BAU,3_Pts_T,Alex
+218,3,08:04,39,36,BAU,FR,Shilton
+219,3,08:04,39,36,CAX,FC,Cauê V
+220,3,08:17,39,36,BAU,RD,Shilton
+221,3,08:20,39,36,CAX,3_Pts_T,Marcão
+222,3,08:21,39,36,CAX,FR,Cauê B
+223,3,08:21,39,36,BAU,FC,Gui
+224,3,08:48,39,36,BAU,ER,Shilton
+225,3,08:51,39,36,CAX,2_Pts_C,Pedro
+226,3,08:56,37,36,BAU,ER,Gui
+227,3,08:56,37,36,CAX,BR,Pedro
+228,3,09:16,37,36,BAU,RD,Hettsheimeir
+229,3,09:16,37,36,CAX,3_Pts_T,Pedro
+230,3,09:42,37,36,BAU,RD,Gui
+231,3,09:45,37,36,CAX,3_Pts_T,Cauê V
+232,3,10:00,37,36,,inicio_quarto,
+233,2,00:00,37,36,BAU,substituicao_sai,Hettsheimeir
+234,2,00:00,37,36,BAU,substituicao_sai,Renan
+235,2,00:00,37,36,BAU,substituicao_sai,Alex
+236,2,00:00,37,36,BAU,substituicao_sai,Gui
+237,2,00:00,37,36,BAU,substituicao_sai,Duda
+238,2,00:00,37,36,CAX,substituicao_sai,Nandão
+239,2,00:00,37,36,CAX,substituicao_sai,Cafferata
+240,2,00:00,37,36,CAX,substituicao_sai,Cauê V
+241,2,00:00,37,36,CAX,substituicao_sai,Pedro
+242,2,00:00,37,36,CAX,substituicao_sai,Cauê B
+243,2,00:00,37,36,CAX,RD,Cauê B
+244,2,00:00,37,36,,fim_quarto,
+245,2,00:01,37,36,BAU,3_Pts_T,Alex
+246,2,00:16,37,36,CAX,substituicao_entra,Pedro
+247,2,00:16,37,36,CAX,substituicao_sai,Marcão
+248,2,00:16,37,36,BAU,substituicao_entra,Hettsheimeir
+249,2,00:16,37,36,BAU,substituicao_sai,Shilton
+250,2,00:16,37,36,BAU,substituicao_entra,Alex
+251,2,00:16,37,36,BAU,substituicao_sai,Anthony
+252,2,00:16,37,36,BAU,tempo_tecnico,Bauru
+253,2,00:16,37,36,CAX,LL_Pts_C,Marcão
+254,2,00:16,36,36,CAX,LL_Pts_C,Marcão
+255,2,00:17,35,36,CAX,FR,Marcão
+256,2,00:17,35,36,BAU,FC,Gui
+257,2,01:06,35,36,BAU,2_Pts_C,Anthony
+258,2,01:06,35,34,CAX,2_Pts_C,Cafferata
+259,2,01:06,33,34,CAX,RO,Cafferata
+260,2,01:06,33,34,CAX,2_Pts_T,Cafferata
+261,2,01:23,33,34,BAU,substituicao_entra,Duda
+262,2,01:23,33,34,BAU,substituicao_sai,Alex
+263,2,01:23,33,34,CAX,FR,Cafferata
+264,2,01:23,33,34,BAU,ER,Alex
+265,2,01:23,33,34,BAU,FC_O,Alex
+266,2,01:29,33,34,BAU,RD,Renan
+267,2,01:30,33,34,CAX,LL_Pts_T,Cafferata
+268,2,01:30,33,34,CAX,LL_Pts_T,Cafferata
+269,2,01:30,33,34,CAX,LL_Pts_T,Cafferata
+270,2,01:30,33,34,BAU,substituicao_entra,Shilton
+271,2,01:30,33,34,BAU,substituicao_sai,Hettsheimeir
+272,2,01:30,33,34,CAX,FR,Cafferata
+273,2,01:30,33,34,BAU,FC,Anthony
+274,2,01:52,33,34,BAU,2_Pts_C,Gui
+275,2,01:57,33,32,BAU,RD,Gui
+276,2,02:00,33,32,CAX,3_Pts_T,Cafferata
+277,2,02:08,33,32,CAX,RD,Cauê V
+278,2,02:11,33,32,BAU,2_Pts_T,Hettsheimeir
+279,2,02:29,33,32,BAU,RD,Bauru
+280,2,02:32,33,32,CAX,2_Pts_T,Marcão
+281,2,02:53,33,32,BAU,LL_Pts_C,Hettsheimeir
+282,2,02:53,33,31,CAX,substituicao_entra,Cauê B
+283,2,02:53,33,31,CAX,substituicao_sai,Pedro
+284,2,02:53,33,31,BAU,FR,Hettsheimeir
+285,2,02:53,33,31,CAX,FC,Cafferata
+286,2,02:53,33,31,BAU,AS,Alex
+287,2,02:53,33,31,BAU,2_Pts_C,Hettsheimeir
+288,2,03:03,33,29,BAU,RD,Renan
+289,2,03:06,33,29,CAX,2_Pts_T,Marcão
+290,2,03:21,33,29,CAX,tempo_tecnico,Caxias do Sul
+291,2,03:21,33,29,BAU,AS,Alex
+292,2,03:21,33,29,BAU,2_Pts_C,Gui
+293,2,03:25,33,27,BAU,RD,Renan
+294,2,03:27,33,27,CAX,2_Pts_T,Marcão
+295,2,03:53,33,27,BAU,LL_Pts_C,Hettsheimeir
+296,2,03:53,33,26,BAU,LL_Pts_C,Hettsheimeir
+297,2,03:53,33,25,BAU,FR,Hettsheimeir
+298,2,03:53,33,25,CAX,FC,Marcão
+299,2,04:06,33,25,CAX,substituicao_entra,Nandão
+300,2,04:06,33,25,CAX,substituicao_sai,Paranhos
+301,2,04:06,33,25,BAU,FR,Renan
+302,2,04:06,33,25,CAX,ER,Paranhos
+303,2,04:06,33,25,CAX,FC_O,Paranhos
+304,2,04:14,33,25,CAX,RO,Cauê V
+305,2,04:18,33,25,BAU,TO,Alex
+306,2,04:18,33,25,CAX,2_Pts_T,Pedro
+307,2,04:21,33,25,CAX,BR,Paranhos
+308,2,04:21,33,25,BAU,ER,Alex
+309,2,04:27,33,25,BAU,RO,Gui
+310,2,04:30,33,25,BAU,2_Pts_T,Gui
+311,2,04:34,33,25,BAU,RD,Gui
+312,2,04:37,33,25,CAX,3_Pts_T,Cauê V
+313,2,04:54,33,25,BAU,2_Pts_C,Hettsheimeir
+314,2,05:02,33,23,BAU,FR,Gui
+315,2,05:02,33,23,CAX,FC,Cauê V
+316,2,05:15,33,23,CAX,substituicao_entra,Paranhos
+317,2,05:15,33,23,CAX,substituicao_sai,Nandão
+318,2,05:15,33,23,CAX,LL_Pts_C,Marcão
+319,2,05:15,32,23,CAX,LL_Pts_C,Marcão
+320,2,05:15,31,23,BAU,substituicao_entra,Alex
+321,2,05:15,31,23,BAU,substituicao_sai,Duda
+322,2,05:15,31,23,CAX,substituicao_entra,Cauê V
+323,2,05:15,31,23,CAX,substituicao_sai,Cauê B
+324,2,05:15,31,23,CAX,FR,Marcão
+325,2,05:15,31,23,BAU,FC,Hettsheimeir
+326,2,05:29,31,23,BAU,AS,Anthony
+327,2,05:29,31,23,BAU,3_Pts_C,Gui
+328,2,05:47,31,20,CAX,2_Pts_C,Cafferata
+329,2,05:59,29,20,CAX,RO,Cauê B
+330,2,06:03,29,20,CAX,3_Pts_T,Marcão
+331,2,06:09,29,20,CAX,RD,Pedro
+332,2,06:12,29,20,BAU,3_Pts_T,Renan
+333,2,06:30,29,20,CAX,2_Pts_C,Pedro
+334,2,06:45,27,20,CAX,RD,Marcão
+335,2,06:48,27,20,BAU,3_Pts_T,Anthony
+336,2,06:56,27,20,BAU,tempo_tecnico,Bauru
+337,2,06:57,27,20,CAX,AS,Cafferata
+338,2,06:57,27,20,CAX,EN,Marcão
+339,2,07:11,25,20,BAU,LL_Pts_C,Hettsheimeir
+340,2,07:11,25,19,BAU,substituicao_entra,Anthony
+341,2,07:11,25,19,BAU,substituicao_sai,Jaú
+342,2,07:11,25,19,BAU,substituicao_entra,Gui
+343,2,07:11,25,19,BAU,substituicao_sai,Alex
+344,2,07:11,25,19,BAU,substituicao_entra,Renan
+345,2,07:11,25,19,BAU,substituicao_sai,Stefano
+346,2,07:11,25,19,BAU,LL_Pts_C,Hettsheimeir
+347,2,07:11,25,18,BAU,FR,Hettsheimeir
+348,2,07:11,25,18,CAX,FC,Marcão
+349,2,07:13,25,18,BAU,RO,Hettsheimeir
+350,2,07:15,25,18,BAU,3_Pts_T,Jaú
+351,2,07:34,25,18,BAU,RD,Jaú
+352,2,07:38,25,18,CAX,3_Pts_T,Cauê B
+353,2,07:53,25,18,CAX,RD,Pedro
+354,2,07:57,25,18,BAU,3_Pts_T,Jaú
+355,2,08:02,25,18,BAU,RD,Hettsheimeir
+356,2,08:05,25,18,CAX,3_Pts_T,Marcão
+357,2,08:13,25,18,CAX,FR,Pedro
+358,2,08:13,25,18,BAU,FC,Jaú
+359,2,08:23,25,18,CAX,RD,Nandão
+360,2,08:27,25,18,BAU,3_Pts_T,Duda
+361,2,08:32,25,18,BAU,RD,Stefano
+362,2,08:36,25,18,CAX,3_Pts_T,Nandão
+363,2,08:49,25,18,CAX,RD,Cauê B
+364,2,08:53,25,18,BAU,3_Pts_T,Hettsheimeir
+365,2,09:12,25,18,BAU,FR,Jaú
+366,2,09:12,25,18,CAX,FC,Nandão
+367,2,09:27,25,18,CAX,AS,Pedro
+368,2,09:27,25,18,CAX,EN,Marcão
+369,2,09:40,23,18,CAX,RD,Marcão
+370,2,09:40,23,18,BAU,AS,Duda
+371,2,09:40,23,18,BAU,LL_Pts_T,Jaú
+372,2,09:40,23,18,BAU,LL_Pts_C,Jaú
+373,2,09:40,23,17,BAU,FR,Jaú
+374,2,09:40,23,17,CAX,FC,Pedro
+375,2,09:56,23,17,CAX,substituicao_entra,Marcão
+376,2,09:56,23,17,CAX,substituicao_sai,Jonathan
+377,2,10:00,23,17,,inicio_quarto,
+378,1,00:00,23,17,,fim_quarto,
+379,1,00:06,23,17,BAU,RO,Duda
+380,1,00:06,23,17,BAU,3_Pts_T,Hettsheimeir
+381,1,00:25,23,17,CAX,AS,Cafferata
+382,1,00:25,23,17,CAX,2_Pts_C,Paranhos
+383,1,00:36,21,17,CAX,BR,Pedro
+384,1,00:36,21,17,BAU,ER,Duda
+385,1,00:44,21,17,CAX,2_Pts_C,Pedro
+386,1,01:07,19,17,BAU,3_Pts_C,Duda
+387,1,01:26,19,14,CAX,2_Pts_C,Cafferata
+388,1,01:36,17,14,CAX,RD,Paranhos
+389,1,01:37,17,14,BAU,AS,Alex
+390,1,01:37,17,14,BAU,LL_Pts_T,Jaú
+391,1,01:37,17,14,BAU,LL_Pts_C,Jaú
+392,1,01:37,17,13,BAU,substituicao_entra,Stefano
+393,1,01:37,17,13,BAU,substituicao_sai,Anthony
+394,1,01:37,17,13,BAU,FR,Jaú
+395,1,01:37,17,13,CAX,FC,Jonathan
+396,1,02:03,17,13,CAX,AS,Pedro
+397,1,02:03,17,13,CAX,2_Pts_C,Jonathan
+398,1,02:12,15,13,CAX,RD,Paranhos
+399,1,02:14,15,13,BAU,3_Pts_T,Anthony
+400,1,02:20,15,13,CAX,2_Pts_C,Paranhos
+401,1,02:21,13,13,CAX,RO,Paranhos
+402,1,02:27,13,13,CAX,2_Pts_T,Jonathan
+403,1,02:43,13,13,CAX,RD,Paranhos
+404,1,02:45,13,13,BAU,LL_Pts_T,Jaú
+405,1,02:45,13,13,BAU,LL_Pts_C,Jaú
+406,1,02:45,13,12,BAU,FR,Jaú
+407,1,02:45,13,12,CAX,FC,Paranhos
+408,1,03:03,13,12,BAU,RD,Bauru
+409,1,03:07,13,12,CAX,2_Pts_T,Pedro
+410,1,03:25,13,12,BAU,substituicao_entra,Jaú
+411,1,03:25,13,12,BAU,substituicao_sai,Renan
+412,1,03:29,13,12,CAX,FR,Jonathan
+413,1,03:29,13,12,BAU,ER,Anthony
+414,1,03:29,13,12,BAU,FC_O,Hettsheimeir
+415,1,03:46,13,12,CAX,2_Pts_C,Cauê B
+416,1,03:54,11,12,CAX,substituicao_entra,Pedro
+417,1,03:54,11,12,CAX,substituicao_sai,Alex
+418,1,03:59,11,12,CAX,substituicao_entra,Cafferata
+419,1,03:59,11,12,CAX,substituicao_sai,Cauê V
+420,1,03:59,11,12,BAU,LL_Pts_C,Renan
+421,1,03:59,11,11,BAU,substituicao_entra,Hettsheimeir
+422,1,03:59,11,11,BAU,substituicao_sai,Shilton
+423,1,03:59,11,11,BAU,FR,Renan
+424,1,03:59,11,11,CAX,FC,Jonathan
+425,1,03:59,11,11,BAU,AS,Shilton
+426,1,03:59,11,11,BAU,2_Pts_C,Renan
+427,1,04:06,11,9,BAU,RD,Anthony
+428,1,04:09,11,9,CAX,3_Pts_T,Cauê B
+429,1,04:22,11,9,CAX,RD,Paranhos
+430,1,04:26,11,9,BAU,3_Pts_T,Duda
+431,1,04:38,11,9,BAU,RD,Alex
+432,1,04:42,11,9,CAX,3_Pts_T,Alex
+433,1,04:56,11,9,CAX,FR,Cauê V
+434,1,04:56,11,9,BAU,ER,Alex
+435,1,04:56,11,9,BAU,FC_O,Alex
+436,1,05:02,11,9,CAX,substituicao_entra,Jonathan
+437,1,05:02,11,9,CAX,substituicao_sai,Marcão
+438,1,05:02,11,9,BAU,FR,Renan
+439,1,05:02,11,9,CAX,FC,Cauê B
+440,1,05:12,11,9,BAU,BR,Alex
+441,1,05:12,11,9,CAX,ER,Cauê V
+442,1,05:28,11,9,CAX,RD,Marcão
+443,1,05:30,11,9,BAU,2_Pts_T,Anthony
+444,1,05:48,11,9,CAX,2_Pts_C,Marcão
+445,1,06:04,9,9,CAX,RD,Paranhos
+446,1,06:08,9,9,BAU,3_Pts_T,Renan
+447,1,06:20,9,9,CAX,AS,Cauê B
+448,1,06:20,9,9,CAX,EN,Marcão
+449,1,06:28,7,9,CAX,RO,Cauê B
+450,1,06:32,7,9,CAX,3_Pts_T,Cauê V
+451,1,06:54,7,9,BAU,AS,Alex
+452,1,06:54,7,9,BAU,3_Pts_C,Renan
+453,1,07:12,7,6,CAX,AS,Cauê B
+454,1,07:12,7,6,CAX,LL_Pts_C,Marcão
+455,1,07:12,6,6,CAX,LL_Pts_C,Marcão
+456,1,07:12,5,6,BAU,substituicao_entra,Duda
+457,1,07:12,5,6,BAU,substituicao_sai,Isaac
+458,1,07:12,5,6,CAX,FR,Marcão
+459,1,07:12,5,6,BAU,FC,Isaac
+460,1,07:24,5,6,CAX,RD,Marcão
+461,1,07:27,5,6,BAU,3_Pts_T,Renan
+462,1,07:38,5,6,CAX,ER,Cauê B
+463,1,07:47,5,6,BAU,ER,Anthony
+464,1,08:04,5,6,CAX,LL_Pts_C,Cauê B
+465,1,08:04,4,6,CAX,LL_Pts_C,Cauê B
+466,1,08:04,3,6,CAX,FR,Cauê B
+467,1,08:04,3,6,BAU,FC,Isaac
+468,1,08:12,3,6,BAU,2_Pts_C,Anthony
+469,1,08:18,3,4,BAU,FR,Alex
+470,1,08:18,3,4,CAX,FC,Alex
+471,1,08:28,3,4,CAX,LL_Pts_C,Cauê B
+472,1,08:28,2,4,CAX,FR,Cauê B
+473,1,08:28,2,4,BAU,FC,Shilton
+474,1,08:28,2,4,CAX,2_Pts_C,Cauê B
+475,1,08:50,0,4,BAU,AS,Anthony
+476,1,08:50,0,4,BAU,EN,Shilton
+477,1,08:56,0,2,BAU,FR,Shilton
+478,1,08:56,0,2,CAX,FC,Alex
+479,1,09:02,0,2,BAU,RD,Alex
+480,1,09:05,0,2,CAX,2_Pts_T,Paranhos
+481,1,09:17,0,2,BAU,AS,Alex
+482,1,09:17,0,2,BAU,2_Pts_C,Isaac
+483,1,09:35,0,0,BAU,FR,Renan
+484,1,09:35,0,0,CAX,FC,Paranhos
+485,1,09:39,0,0,CAX,3_Pts_T,Alex
+486,1,09:44,0,0,CAX,FR,Paranhos
+487,1,09:44,0,0,BAU,FC,Renan
+488,1,10:00,0,0,BAU,substituicao_entra,Renan
+489,1,10:00,0,0,BAU,substituicao_entra,Alex
+490,1,10:00,0,0,BAU,substituicao_entra,Isaac
+491,1,10:00,0,0,BAU,substituicao_entra,Shilton
+492,1,10:00,0,0,BAU,substituicao_entra,Anthony
+493,1,10:00,0,0,CAX,substituicao_entra,Paranhos
+494,1,10:00,0,0,CAX,substituicao_entra,Marcão
+495,1,10:00,0,0,CAX,substituicao_entra,Cauê V
+496,1,10:00,0,0,CAX,substituicao_entra,Cauê B
+497,1,10:00,0,0,CAX,substituicao_entra,Alex

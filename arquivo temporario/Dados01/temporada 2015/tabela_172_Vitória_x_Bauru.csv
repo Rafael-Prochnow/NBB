@@ -1,0 +1,557 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,96,94, ,fim_partida,
+1,5,00:02,96,94,VIT,3_Pts_C,Edu
+2,5,00:07,93,94,VIT,BR,Edu
+3,5,00:07,93,94,BAU,ER,Léo Meindl
+4,5,00:16,93,94,VIT,ER,Calvo
+5,5,00:22,93,94,BAU,LL_Pts_C,R Fischer
+6,5,00:22,93,93,BAU,LL_Pts_C,R Fischer
+7,5,00:22,93,92,BAU,FR,R Fischer
+8,5,00:22,93,92,VIT,FC,Edu
+9,5,00:42,93,92,BAU,BR,Bauru
+10,5,00:42,93,92,VIT,ER,Jason Smith
+11,5,01:01,93,92,VIT,BR,Kojo
+12,5,01:01,93,92,BAU,ER,R Fischer
+13,5,01:25,93,92,BAU,tempo_tecnico,Bauru
+14,5,01:25,93,92,VIT,LL_Pts_C,Calvo
+15,5,01:25,92,92,VIT,LL_Pts_C,Calvo
+16,5,01:25,91,92,VIT,FR,Calvo
+17,5,01:25,91,92,BAU,FC,R Fischer
+18,5,01:42,91,92,VIT,tempo_tecnico,Vitória
+19,5,01:42,91,92,BAU,3_Pts_C,Robert Day
+20,5,01:59,91,89,BAU,RD,Jefferson W
+21,5,01:59,91,89,VIT,2_Pts_T,Feliz
+22,5,02:16,91,89,VIT,RD,Kojo
+23,5,02:16,91,89,BAU,3_Pts_T,Léo Meindl
+24,5,02:48,91,89,VIT,LL_Pts_C,Edu
+25,5,02:48,90,89,VIT,2_Pts_C,Edu
+26,5,02:48,88,89,VIT,FR,Edu
+27,5,02:48,88,89,BAU,FC,Léo Meindl
+28,5,02:56,88,89,BAU,3_Pts_C,Jefferson W
+29,5,02:56,88,86,BAU,AS,R Fischer
+30,5,03:09,88,86,VIT,2_Pts_C,Kojo
+31,5,03:22,86,86,VIT,substituicao_entra,Kojo
+32,5,03:22,86,86,VIT,substituicao_sai,Rafinha
+33,5,03:22,86,86,BAU,LL_Pts_C,Robert Day
+34,5,03:22,86,85,BAU,LL_Pts_C,Robert Day
+35,5,03:22,86,84,BAU,FR,Robert Day
+36,5,03:22,86,84,VIT,FC,Rafinha
+37,5,03:25,86,84,VIT,substituicao_entra,Rafinha
+38,5,03:25,86,84,VIT,substituicao_sai,Kojo
+39,5,03:36,86,84,VIT,3_Pts_C,Jason Smith
+40,5,03:51,83,84,BAU,3_Pts_C,Jefferson W
+41,5,03:51,83,81,BAU,AS,R Fischer
+42,5,04:00,83,81,VIT,2_Pts_C,Feliz
+43,5,04:08,81,81,VIT,RD,Calvo
+44,5,04:08,81,81,BAU,3_Pts_T,Léo Meindl
+45,5,04:18,81,81,BAU,RD,Alex Garcia
+46,5,04:18,81,81,VIT,2_Pts_T,Kojo
+47,5,04:33,81,81,VIT,RD,Vitória
+48,5,04:33,81,81,BAU,3_Pts_T,Robert Day
+49,5,04:49,81,81,BAU,RD,Jefferson W
+50,5,04:49,81,81,VIT,3_Pts_T,Jason Smith
+51,5,05:00,81,81,BAU,substituicao_entra,Robert Day
+52,5,05:00,81,81,BAU,substituicao_entra,Léo Meindl
+53,5,05:00,81,81,BAU,substituicao_entra,Alex Garcia
+54,4,00:01,81,81,BAU,3_Pts_T,Jefferson W
+55,4,00:02,81,81,VIT,ER,
+56,4,00:04,81,81,VIT,RO,Vitória
+57,4,00:04,81,81,BAU,TO,Jefferson W
+58,4,00:04,81,81,VIT,2_Pts_T,Calvo
+59,4,00:25,81,81,VIT,substituicao_entra,Jason Smith
+60,4,00:25,81,81,VIT,substituicao_sai,Edu
+61,4,00:28,81,81,VIT,tempo_tecnico,Vitória
+62,4,00:28,81,81,BAU,3_Pts_C,Robert Day
+63,4,00:28,81,78,BAU,AS,R Fischer
+64,4,00:29,81,78,VIT,substituicao_entra,Edu
+65,4,00:29,81,78,VIT,substituicao_sai,Jason Smith
+66,4,00:36,81,78,BAU,RO,Bauru
+67,4,00:36,81,78,VIT,TO,Feliz
+68,4,00:36,81,78,BAU,3_Pts_T,R Fischer
+69,4,00:39,81,78,BAU,tempo_tecnico,Bauru
+70,4,00:39,81,78,VIT,2_Pts_C,Calvo
+71,4,00:39,79,78,VIT,AS,Jason Smith
+72,4,00:44,79,78,VIT,substituicao_entra,Kojo
+73,4,00:44,79,78,VIT,substituicao_sai,Edu
+74,4,00:44,79,78,VIT,tempo_tecnico,Vitória
+75,4,00:44,79,78,BAU,LL_Pts_C,Léo Meindl
+76,4,00:44,79,77,BAU,LL_Pts_C,Léo Meindl
+77,4,00:44,79,76,BAU,FR,Léo Meindl
+78,4,00:44,79,76,VIT,FC,Calvo
+79,4,00:54,79,76,VIT,RD,Feliz
+80,4,00:54,79,76,BAU,2_Pts_T,Jefferson W
+81,4,01:06,79,76,VIT,ER,Calvo
+82,4,01:14,79,76,BAU,LL_Pts_C,Jefferson W
+83,4,01:16,79,75,BAU,2_Pts_C,Jefferson W
+84,4,01:16,79,73,BAU,FR,Jefferson W
+85,4,01:16,79,73,VIT,FC,Jason Smith
+86,4,01:28,79,73,BAU,RD,Alex Garcia
+87,4,01:28,79,73,VIT,LL_Pts_T,Feliz
+88,4,01:32,79,73,VIT,2_Pts_C,Feliz
+89,4,01:32,77,73,VIT,FR,Feliz
+90,4,01:32,77,73,BAU,FC,Alex Garcia
+91,4,01:55,77,73,VIT,RD,Vitória
+92,4,01:55,77,73,BAU,3_Pts_T,R Fischer
+93,4,02:06,77,73,BAU,RD,Robert Day
+94,4,02:06,77,73,VIT,3_Pts_T,Jason Smith
+95,4,02:23,77,73,BAU,3_Pts_C,Robert Day
+96,4,02:23,77,70,BAU,AS,Jefferson W
+97,4,02:36,77,70,VIT,LL_Pts_C,Jason Smith
+98,4,02:36,76,70,VIT,LL_Pts_C,Jason Smith
+99,4,02:36,75,70,VIT,FR,Jason Smith
+100,4,02:36,75,70,BAU,FC,R Fischer
+101,4,02:47,75,70,VIT,BR,Rafinha
+102,4,02:47,75,70,BAU,ER,R Fischer
+103,4,02:58,75,70,VIT,2_Pts_C,Edu
+104,4,02:58,73,70,VIT,AS,Jason Smith
+105,4,03:18,73,70,BAU,substituicao_entra,Robert Day
+106,4,03:18,73,70,BAU,substituicao_sai,Murilo
+107,4,03:18,73,70,VIT,FR,Rafinha
+108,4,03:18,73,70,BAU,FC,Murilo
+109,4,03:19,73,70,BAU,2_Pts_C,Léo Meindl
+110,4,03:33,73,68,BAU,tempo_tecnico,Bauru
+111,4,03:33,73,68,VIT,2_Pts_C,Edu
+112,4,03:38,71,68,VIT,BR,Rafinha
+113,4,03:38,71,68,BAU,ER,Léo Meindl
+114,4,03:54,71,68,VIT,2_Pts_C,Jason Smith
+115,4,04:08,69,68,VIT,RD,Calvo
+116,4,04:08,69,68,VIT,TO,Calvo
+117,4,04:08,69,68,BAU,2_Pts_T,Murilo
+118,4,04:20,69,68,BAU,BR,Jefferson W
+119,4,04:20,69,68,VIT,ER,Rafinha
+120,4,04:27,69,68,VIT,BR,Vitória
+121,4,04:27,69,68,BAU,ER,R Fischer
+122,4,04:36,69,68,VIT,ER,Calvo
+123,4,05:10,69,68,BAU,3_Pts_C,R Fischer
+124,4,05:30,69,65,VIT,3_Pts_C,Feliz
+125,4,05:30,66,65,VIT,AS,Edu
+126,4,05:45,66,65,VIT,FR,Jason Smith
+127,4,05:45,66,65,BAU,FC,Murilo
+128,4,05:54,66,65,VIT,RD,Feliz
+129,4,05:54,66,65,BAU,2_Pts_T,Jefferson W
+130,4,06:12,66,65,BAU,RD,Léo Meindl
+131,4,06:12,66,65,VIT,2_Pts_T,Calvo
+132,4,06:26,66,65,BAU,LL_Pts_C,Léo Meindl
+133,4,06:26,66,64,BAU,LL_Pts_C,Léo Meindl
+134,4,06:29,66,63,BAU,FR,Léo Meindl
+135,4,06:29,66,63,VIT,FC,Calvo
+136,4,06:35,66,63,BAU,substituicao_entra,Jefferson W
+137,4,06:35,66,63,BAU,substituicao_sai,Robert Day
+138,4,06:35,66,63,VIT,substituicao_entra,Rafinha
+139,4,06:35,66,63,VIT,substituicao_sai,Kojo
+140,4,06:35,66,63,BAU,FR,R Fischer
+141,4,06:35,66,63,VIT,FC,Kojo
+142,4,06:47,66,63,VIT,2_Pts_C,Kojo
+143,4,07:16,64,63,BAU,BR,Bauru
+144,4,07:16,64,63,VIT,ER,Calvo
+145,4,07:19,64,63,BAU,substituicao_entra,Murilo
+146,4,07:19,64,63,BAU,substituicao_sai,Wesley
+147,4,07:26,64,63,VIT,RO,Vitória
+148,4,07:26,64,63,VIT,3_Pts_T,Jason Smith
+149,4,07:35,64,63,VIT,RD,Kojo
+150,4,07:35,64,63,BAU,3_Pts_T,Robert Day
+151,4,07:54,64,63,VIT,2_Pts_C,Edu
+152,4,08:18,62,63,BAU,ER,
+153,4,08:39,62,63,BAU,RD,Léo Meindl
+154,4,08:39,62,63,VIT,LL_Pts_T,Edu
+155,4,08:39,62,63,VIT,LL_Pts_C,Edu
+156,4,08:42,61,63,VIT,FR,Edu
+157,4,08:42,61,63,BAU,FC,Robert Day
+158,4,08:57,61,63,BAU,LL_Pts_C,Robert Day
+159,4,08:57,61,62,BAU,LL_Pts_C,Robert Day
+160,4,08:57,61,61,VIT,substituicao_entra,Feliz
+161,4,08:57,61,61,VIT,substituicao_sai,Renan
+162,4,09:01,61,61,VIT,tempo_tecnico,Vitória
+163,4,09:01,61,61,BAU,FR,Robert Day
+164,4,09:01,61,61,VIT,FC,Edu
+165,4,09:06,61,61,BAU,BR,Robert Day
+166,4,09:06,61,61,VIT,ER,Jason Smith
+167,4,09:20,61,61,VIT,RD,Renan
+168,4,09:20,61,61,BAU,3_Pts_T,Robert Day
+169,4,09:28,61,61,BAU,RD,Alex Garcia
+170,4,09:28,61,61,VIT,3_Pts_T,Jason Smith
+171,4,09:43,61,61,BAU,3_Pts_C,Robert Day
+172,4,09:43,61,58,BAU,AS,R Fischer
+173,3,00:00,61,58, ,fim_quarto,
+174,3,00:01,61,58,BAU,RD,Robert Day
+175,3,00:01,61,58,VIT,3_Pts_T,Calvo
+176,3,00:10,61,58,VIT,RD,Renan
+177,3,00:10,61,58,BAU,LL_Pts_T,Wesley
+178,3,00:10,61,58,BAU,LL_Pts_C,Wesley
+179,3,00:14,61,57,BAU,FR,Wesley
+180,3,00:14,61,57,VIT,FC,Renan
+181,3,00:33,61,57,VIT,2_Pts_C,Edu
+182,3,00:49,59,57,VIT,RD,Kojo
+183,3,00:49,59,57,BAU,3_Pts_T,Léo Meindl
+184,3,01:04,59,57,VIT,2_Pts_C,Renan
+185,3,01:04,57,57,VIT,AS,Calvo
+186,3,01:23,57,57,BAU,LL_Pts_C,R Fischer
+187,3,01:23,57,56,BAU,LL_Pts_C,R Fischer
+188,3,01:23,57,55,VIT,substituicao_entra,Calvo
+189,3,01:23,57,55,VIT,substituicao_sai,Nilson
+190,3,01:23,57,55,BAU,FR,R Fischer
+191,3,01:23,57,55,VIT,FC,Renan
+192,3,01:27,57,55,BAU,BR,R Fischer
+193,3,01:27,57,55,VIT,ER,Nilson
+194,3,01:40,57,55,BAU,LL_Pts_C,Robert Day
+195,3,01:40,57,54,BAU,LL_Pts_C,Robert Day
+196,3,01:43,57,53,BAU,FR,Robert Day
+197,3,01:43,57,53,VIT,FC,Renan
+198,3,01:52,57,53,VIT,substituicao_entra,Jason Smith
+199,3,01:52,57,53,VIT,substituicao_sai,Rafinha
+200,3,02:02,57,53,BAU,tempo_tecnico,Bauru
+201,3,02:02,57,53,VIT,2_Pts_C,Kojo
+202,3,02:02,55,53,VIT,AS,Edu
+203,3,02:07,55,53,VIT,RD,Edu
+204,3,02:07,55,53,BAU,2_Pts_T,Wesley
+205,3,02:17,55,53,BAU,FR,R Fischer
+206,3,02:17,55,53,VIT,FC,Edu
+207,3,02:21,55,53,VIT,LL_Pts_C,Edu
+208,3,02:21,54,53,VIT,LL_Pts_C,Edu
+209,3,02:21,53,53,VIT,FR,Edu
+210,3,02:21,53,53,BAU,FC,R Fischer
+211,3,02:32,53,53,VIT,BR,Edu
+212,3,02:32,53,53,BAU,ER,R Fischer
+213,3,02:34,53,53,VIT,AS,Nilson
+214,3,02:34,53,53,VIT,LL_Pts_C,Renan
+215,3,02:34,52,53,VIT,2_Pts_C,Renan
+216,3,02:34,50,53,VIT,FR,Renan
+217,3,02:34,50,53,BAU,FC,Alex Garcia
+218,3,02:41,50,53,VIT,AS,Nilson
+219,3,02:48,50,53,VIT,RO,Kojo
+220,3,02:48,50,53,VIT,3_Pts_T,Edu
+221,3,02:57,50,53,BAU,EN,Wesley
+222,3,02:57,50,51,BAU,AS,Léo Meindl
+223,3,03:06,50,51,VIT,substituicao_entra,Rafinha
+224,3,03:06,50,51,VIT,substituicao_sai,Calvo
+225,3,03:11,50,51,VIT,ER,
+226,3,03:33,50,51,BAU,substituicao_entra,Léo Meindl
+227,3,03:33,50,51,BAU,substituicao_sai,Jefferson W
+228,3,03:33,50,51,VIT,FR,Calvo
+229,3,03:33,50,51,BAU,FC,Jefferson W
+230,3,03:40,50,51,VIT,BR,Calvo
+231,3,03:40,50,51,BAU,ER,Jefferson W
+232,3,03:59,50,51,BAU,RD,R Fischer
+233,3,03:59,50,51,VIT,3_Pts_T,Calvo
+234,3,04:08,50,51,VIT,RD,Edu
+235,3,04:08,50,51,BAU,3_Pts_T,Jefferson W
+236,3,04:26,50,51,BAU,RD,Jefferson W
+237,3,04:26,50,51,VIT,2_Pts_T,Kojo
+238,3,04:41,50,51,VIT,RO,Vitória
+239,3,04:41,50,51,BAU,TO,Wesley
+240,3,04:41,50,51,VIT,2_Pts_T,Calvo
+241,3,04:47,50,51,VIT,RD,Renan
+242,3,04:47,50,51,BAU,2_Pts_T,Wesley
+243,3,04:50,50,51,BAU,FR,Wesley
+244,3,04:50,50,51,VIT,FC,Nilson
+245,3,05:01,50,51,VIT,2_Pts_T,Calvo
+246,3,05:04,50,51,VIT,substituicao_entra,Nilson
+247,3,05:04,50,51,VIT,substituicao_sai,Jairo
+248,3,05:04,50,51,VIT,substituicao_entra,Edu
+249,3,05:04,50,51,VIT,substituicao_entra,Renan
+250,3,05:04,50,51,VIT,substituicao_sai,Feliz
+251,3,05:04,50,51,VIT,substituicao_sai,Jason Smith
+252,3,05:18,50,51,BAU,2_Pts_C,Alex Garcia
+253,3,05:30,50,49,BAU,RD,Alex Garcia
+254,3,05:30,50,49,BAU,TO,Alex Garcia
+255,3,05:30,50,49,VIT,2_Pts_T,Jason Smith
+256,3,05:52,50,49,BAU,2_Pts_C,R Fischer
+257,3,06:06,50,47,BAU,RD,Wesley
+258,3,06:06,50,47,VIT,3_Pts_T,Jason Smith
+259,3,06:28,50,47,BAU,substituicao_entra,Wesley
+260,3,06:28,50,47,BAU,substituicao_sai,Murilo
+261,3,06:28,50,47,BAU,ER,Robert Day
+262,3,06:35,50,47,VIT,2_Pts_C,Jason Smith
+263,3,06:46,48,47,VIT,RD,Feliz
+264,3,06:46,48,47,BAU,3_Pts_T,Robert Day
+265,3,07:02,48,47,VIT,2_Pts_C,Kojo
+266,3,07:02,46,47,VIT,AS,Feliz
+267,3,07:07,46,47,VIT,BR,Kojo
+268,3,07:07,46,47,BAU,ER,Murilo
+269,3,07:15,46,47,VIT,2_Pts_C,Calvo
+270,3,07:15,44,47,VIT,AS,Kojo
+271,3,07:25,44,47,VIT,RD,Jason Smith
+272,3,07:25,44,47,BAU,3_Pts_T,Jefferson W
+273,3,07:32,44,47,BAU,RD,R Fischer
+274,3,07:32,44,47,VIT,3_Pts_T,Jason Smith
+275,3,08:03,44,47,BAU,2_Pts_C,Murilo
+276,3,08:15,44,45,BAU,BR,Bauru
+277,3,08:15,44,45,VIT,ER,Feliz
+278,3,08:32,44,45,BAU,2_Pts_C,Murilo
+279,3,08:32,44,43,BAU,AS,R Fischer
+280,3,08:38,44,43,VIT,substituicao_entra,Kojo
+281,3,08:38,44,43,VIT,substituicao_sai,Rafinha
+282,3,08:38,44,43,BAU,FR,R Fischer
+283,3,08:38,44,43,VIT,FC,Rafinha
+284,3,08:51,44,43,VIT,3_Pts_C,Calvo
+285,3,08:51,41,43,VIT,AS,Rafinha
+286,3,08:52,41,43,VIT,FR,Rafinha
+287,3,08:52,41,43,BAU,FC,Murilo
+288,3,09:03,41,43,VIT,RO,Jairo
+289,3,09:03,41,43,VIT,3_Pts_T,Jason Smith
+290,3,09:11,41,43,BAU,ER,Jefferson W
+291,3,09:22,41,43,BAU,RO,Jefferson W
+292,3,09:22,41,43,BAU,2_Pts_T,Murilo
+293,3,09:29,41,43,BAU,RO,Jefferson W
+294,3,09:29,41,43,BAU,2_Pts_T,R Fischer
+295,3,09:35,41,43,BAU,FR,R Fischer
+296,3,09:35,41,43,VIT,FC,Rafinha
+297,3,09:49,41,43,BAU,BR,Bauru
+298,3,09:49,41,43,VIT,ER,Jason Smith
+299,2,00:00,41,43, ,fim_quarto,
+300,2,00:02,41,43,VIT,RD,Vitória
+301,2,00:02,41,43,BAU,3_Pts_T,Jefferson W
+302,2,00:05,41,43,BAU,substituicao_entra,Labbate
+303,2,00:05,41,43,BAU,substituicao_sai,Léo Meindl
+304,2,00:05,41,43,BAU,substituicao_entra,Robert Day
+305,2,00:05,41,43,BAU,substituicao_sai,Wesley
+306,2,00:05,41,43,VIT,substituicao_entra,Diego
+307,2,00:05,41,43,VIT,substituicao_sai,Calvo
+308,2,00:06,41,43,BAU,tempo_tecnico,Bauru
+309,2,00:06,41,43,VIT,3_Pts_C,Calvo
+310,2,00:23,38,43,BAU,LL_Pts_C,Léo Meindl
+311,2,00:23,38,42,BAU,LL_Pts_C,Léo Meindl
+312,2,00:23,38,41,BAU,substituicao_entra,Wesley
+313,2,00:23,38,41,BAU,substituicao_sai,Murilo
+314,2,00:25,38,41,BAU,FR,Léo Meindl
+315,2,00:25,38,41,VIT,FC,Calvo
+316,2,00:34,38,41,BAU,RD,R Fischer
+317,2,00:34,38,41,VIT,2_Pts_T,Rafinha
+318,2,00:47,38,41,BAU,LL_Pts_T,Léo Meindl
+319,2,00:47,38,41,BAU,LL_Pts_C,Léo Meindl
+320,2,00:48,38,40,BAU,FR,Léo Meindl
+321,2,00:48,38,40,VIT,FC,Jairo
+322,2,01:18,38,40,VIT,3_Pts_C,Rafinha
+323,2,01:32,35,40,VIT,BR,Vitória
+324,2,01:32,35,40,BAU,ER,Gui Santos
+325,2,01:38,35,40,BAU,substituicao_entra,R Fischer
+326,2,01:38,35,40,BAU,substituicao_sai,Léo
+327,2,01:38,35,40,BAU,substituicao_entra,Jefferson W
+328,2,01:38,35,40,BAU,substituicao_sai,Wesley
+329,2,01:46,35,40,BAU,tempo_tecnico,Bauru
+330,2,01:46,35,40,VIT,3_Pts_C,Jairo
+331,2,01:46,32,40,VIT,AS,Jason Smith
+332,2,01:55,32,40,VIT,RD,Jason Smith
+333,2,01:55,32,40,BAU,2_Pts_T,Wesley
+334,2,02:04,32,40,VIT,LL_Pts_C,Calvo
+335,2,02:04,31,40,VIT,LL_Pts_T,Calvo
+336,2,02:04,31,40,VIT,FR,Calvo
+337,2,02:04,31,40,BAU,FC,Murilo
+338,2,02:16,31,40,VIT,RD,Calvo
+339,2,02:16,31,40,BAU,2_Pts_T,Murilo
+340,2,02:35,31,40,BAU,BR,Bauru
+341,2,02:35,31,40,VIT,ER,Jairo
+342,2,02:46,31,40,BAU,LL_Pts_C,Murilo
+343,2,02:46,31,39,BAU,LL_Pts_T,Murilo
+344,2,02:49,31,39,BAU,FR,Murilo
+345,2,02:49,31,39,VIT,FC,Rafinha
+346,2,03:02,31,39,VIT,3_Pts_C,Jason Smith
+347,2,03:02,28,39,VIT,AS,Rafinha
+348,2,03:09,28,39,VIT,RO,Calvo
+349,2,03:09,28,39,VIT,3_Pts_T,Rafinha
+350,2,03:13,28,39,BAU,substituicao_entra,Léo
+351,2,03:13,28,39,BAU,substituicao_sai,Robert Day
+352,2,03:13,28,39,VIT,LL_Pts_T,Calvo
+353,2,03:13,28,39,BAU,FC_T,Robert Day
+354,2,03:13,28,39,VIT,substituicao_entra,Jairo
+355,2,03:13,28,39,VIT,substituicao_sai,Nilson
+356,2,03:13,28,39,VIT,FR,Jason Smith
+357,2,03:13,28,39,BAU,FC_O,Robert Day
+358,2,03:26,28,39,BAU,LL_Pts_C,Robert Day
+359,2,03:26,28,38,VIT,substituicao_entra,Rafinha
+360,2,03:26,28,38,VIT,substituicao_sai,Kojo
+361,2,03:26,28,38,VIT,FC_T,Kojo
+362,2,03:26,28,38,BAU,FR,Wesley
+363,2,03:26,28,38,VIT,FC,Kojo
+364,2,03:36,28,38,BAU,RD,Wesley
+365,2,03:36,28,38,VIT,2_Pts_T,Kojo
+366,2,03:44,28,38,VIT,substituicao_entra,Feliz
+367,2,03:44,28,38,VIT,substituicao_sai,Renan
+368,2,03:44,28,38,VIT,tempo_tecnico,Vitória
+369,2,03:44,28,38,VIT,FR,Calvo
+370,2,03:44,28,38,BAU,FC,Léo Meindl
+371,2,03:50,28,38,VIT,BR,Calvo
+372,2,03:50,28,38,BAU,ER,Léo Meindl
+373,2,04:05,28,38,BAU,BR,Bauru
+374,2,04:05,28,38,VIT,ER,Renan
+375,2,04:14,28,38,BAU,substituicao_entra,Gui Santos
+376,2,04:14,28,38,BAU,substituicao_sai,Alex Garcia
+377,2,04:20,28,38,BAU,3_Pts_C,Alex Garcia
+378,2,04:20,28,35,BAU,AS,Murilo
+379,2,04:38,28,35,VIT,2_Pts_C,Calvo
+380,2,04:50,26,35,VIT,RD,Renan
+381,2,04:50,26,35,BAU,2_Pts_T,Murilo
+382,2,05:03,26,35,BAU,RD,Murilo
+383,2,05:03,26,35,VIT,2_Pts_T,Calvo
+384,2,05:12,26,35,BAU,2_Pts_C,Léo Meindl
+385,2,05:16,26,33,BAU,substituicao_entra,Murilo
+386,2,05:16,26,33,BAU,substituicao_sai,Labbate
+387,2,05:16,26,33,BAU,FR,Léo Meindl
+388,2,05:16,26,33,VIT,FC,Jason Smith
+389,2,05:33,26,33,BAU,RD,Alex Garcia
+390,2,05:33,26,33,VIT,3_Pts_T,Jason Smith
+391,2,05:47,26,33,VIT,RD,Nilson
+392,2,05:47,26,33,BAU,3_Pts_T,Léo Meindl
+393,2,05:53,26,33,VIT,LL_Pts_C,Kojo
+394,2,05:53,25,33,VIT,AS,Nilson
+395,2,05:53,25,33,VIT,LL_Pts_C,Kojo
+396,2,05:53,24,33,VIT,substituicao_entra,Jason Smith
+397,2,05:53,24,33,VIT,substituicao_sai,Edu
+398,2,05:56,24,33,VIT,FR,Kojo
+399,2,05:56,24,33,BAU,FC,Wesley
+400,2,06:13,24,33,BAU,3_Pts_C,Robert Day
+401,2,06:13,24,30,BAU,AS,Alex Garcia
+402,2,06:21,24,30,BAU,RD,Wesley
+403,2,06:21,24,30,VIT,2_Pts_T,Calvo
+404,2,06:29,24,30,BAU,LL_Pts_C,Alex Garcia
+405,2,06:29,24,29,BAU,LL_Pts_C,Alex Garcia
+406,2,06:29,24,28,VIT,substituicao_entra,Renan
+407,2,06:29,24,28,VIT,substituicao_sai,Pezão
+408,2,06:34,24,28,BAU,FR,Alex Garcia
+409,2,06:34,24,28,VIT,FC,Kojo
+410,2,06:42,24,28,BAU,RD,Labbate
+411,2,06:42,24,28,VIT,2_Pts_T,Pezão
+412,2,06:47,24,28,VIT,substituicao_entra,Calvo
+413,2,06:47,24,28,VIT,substituicao_sai,Rafinha
+414,2,06:50,24,28,BAU,ER,Alex Garcia
+415,2,06:55,24,28,VIT,BR,Vitória
+416,2,06:55,24,28,BAU,ER,Alex Garcia
+417,2,07:04,24,28,BAU,BR,Bauru
+418,2,07:04,24,28,VIT,ER,Edu
+419,2,07:20,24,28,BAU,substituicao_entra,Robert Day
+420,2,07:20,24,28,BAU,substituicao_sai,Jefferson W
+421,2,07:20,24,28,BAU,substituicao_entra,Wesley
+422,2,07:20,24,28,BAU,substituicao_sai,R Fischer
+423,2,07:27,24,28,BAU,3_Pts_T,R Fischer
+424,2,07:57,24,28,VIT,2_Pts_C,Kojo
+425,2,08:02,22,28,VIT,RD,Nilson
+426,2,08:02,22,28,BAU,3_Pts_T,Alex Garcia
+427,2,08:08,22,28,BAU,RD,Labbate
+428,2,08:08,22,28,VIT,2_Pts_T,Pezão
+429,2,08:13,22,28,VIT,RO,Pezão
+430,2,08:13,22,28,VIT,2_Pts_T,Kojo
+431,2,08:24,22,28,BAU,2_Pts_C,Alex Garcia
+432,2,08:24,22,26,BAU,AS,Léo Meindl
+433,2,08:30,22,26,BAU,RD,Jefferson W
+434,2,08:30,22,26,VIT,2_Pts_T,Nilson
+435,2,08:44,22,26,VIT,RD,Nilson
+436,2,08:44,22,26,BAU,2_Pts_T,R Fischer
+437,2,09:19,22,26,VIT,2_Pts_C,Nilson
+438,2,09:24,20,26,VIT,FR,Nilson
+439,2,09:24,20,26,BAU,FC,Labbate
+440,2,09:43,20,26,BAU,3_Pts_C,Léo Meindl
+441,2,09:43,20,23,BAU,AS,Labbate
+442,1,00:00,20,23, ,fim_quarto,
+443,1,00:01,20,23,BAU,3_Pts_T,Jefferson W
+444,1,00:01,20,23,BAU,LL_Pts_C,R Fischer
+445,1,00:01,20,22,BAU,LL_Pts_C,R Fischer
+446,1,00:01,20,21,BAU,FR,R Fischer
+447,1,00:01,20,21,VIT,FC_A,Rafinha
+448,1,00:09,20,21,VIT,EN,Nilson
+449,1,00:09,18,21,VIT,AS,Edu
+450,1,00:13,18,21,VIT,BR,Edu
+451,1,00:13,18,21,BAU,ER,Jefferson W
+452,1,00:36,18,21,VIT,2_Pts_C,Nilson
+453,1,00:36,16,21,VIT,AS,Pezão
+454,1,00:47,16,21,VIT,RD,Nilson
+455,1,00:47,16,21,BAU,3_Pts_T,Alex Garcia
+456,1,01:08,16,21,VIT,2_Pts_C,Nilson
+457,1,01:08,14,21,VIT,AS,Rafinha
+458,1,01:13,14,21,BAU,substituicao_entra,Léo Meindl
+459,1,01:13,14,21,BAU,substituicao_entra,Labbate
+460,1,01:13,14,21,BAU,substituicao_sai,Murilo
+461,1,01:13,14,21,BAU,substituicao_sai,Robert Day
+462,1,01:13,14,21,VIT,substituicao_entra,Pezão
+463,1,01:13,14,21,VIT,substituicao_entra,Edu
+464,1,01:13,14,21,VIT,substituicao_sai,Calvo
+465,1,01:13,14,21,VIT,substituicao_sai,Feliz
+466,1,01:16,14,21,BAU,ER,R Fischer
+467,1,01:32,14,21,VIT,2_Pts_C,Feliz
+468,1,01:37,12,21,VIT,RO,Feliz
+469,1,01:37,12,21,VIT,2_Pts_T,Feliz
+470,1,02:03,12,21,BAU,2_Pts_C,Jefferson W
+471,1,02:03,12,19,BAU,AS,Alex Garcia
+472,1,02:18,12,19,BAU,RD,Bauru
+473,1,02:18,12,19,VIT,2_Pts_T,Feliz
+474,1,02:31,12,19,VIT,RD,Rafinha
+475,1,02:31,12,19,BAU,3_Pts_T,R Fischer
+476,1,02:39,12,19,BAU,BR,Alex Garcia
+477,1,02:39,12,19,VIT,ER,Feliz
+478,1,02:52,12,19,VIT,BR,Vitória
+479,1,02:52,12,19,BAU,ER,Jefferson W
+480,1,02:53,12,19,VIT,substituicao_entra,Nilson
+481,1,02:53,12,19,VIT,substituicao_sai,Renan
+482,1,02:53,12,19,VIT,substituicao_entra,Rafinha
+483,1,02:53,12,19,VIT,substituicao_sai,Kojo
+484,1,03:01,12,19,BAU,RO,Jefferson W
+485,1,03:01,12,19,BAU,3_Pts_T,Robert Day
+486,1,03:06,12,19,BAU,RD,Murilo
+487,1,03:06,12,19,VIT,2_Pts_T,Feliz
+488,1,03:12,12,19,VIT,RO,Feliz
+489,1,03:12,12,19,VIT,2_Pts_T,Calvo
+490,1,03:34,12,19,BAU,LL_Pts_C,Robert Day
+491,1,03:38,12,18,VIT,tempo_tecnico,Vitória
+492,1,03:38,12,18,BAU,3_Pts_C,Robert Day
+493,1,03:38,12,15,BAU,FR,Robert Day
+494,1,03:38,12,15,VIT,FC,Jason Smith
+495,1,03:51,12,15,BAU,RD,Bauru
+496,1,03:51,12,15,VIT,3_Pts_T,Jason Smith
+497,1,04:15,12,15,VIT,RD,Kojo
+498,1,04:15,12,15,BAU,2_Pts_T,Murilo
+499,1,04:26,12,15,BAU,BR,Bauru
+500,1,04:26,12,15,VIT,ER,Calvo
+501,1,04:44,12,15,VIT,RD,Calvo
+502,1,04:44,12,15,BAU,3_Pts_T,Jefferson W
+503,1,04:53,12,15,BAU,RD,Murilo
+504,1,04:53,12,15,VIT,3_Pts_T,Calvo
+505,1,05:08,12,15,BAU,2_Pts_C,Murilo
+506,1,05:28,12,13,BAU,RD,Jefferson W
+507,1,05:28,12,13,VIT,3_Pts_T,Jason Smith
+508,1,05:34,12,13,BAU,2_Pts_C,Jefferson W
+509,1,05:51,12,11,BAU,RD,Jefferson W
+510,1,05:51,12,11,VIT,2_Pts_T,Renan
+511,1,06:14,12,11,BAU,3_Pts_C,Alex Garcia
+512,1,06:14,12,8,BAU,AS,Jefferson W
+513,1,06:22,12,8,VIT,LL_Pts_C,Feliz
+514,1,06:26,11,8,VIT,2_Pts_C,Feliz
+515,1,06:26,9,8,VIT,FR,Feliz
+516,1,06:26,9,8,BAU,FC,Murilo
+517,1,06:37,9,8,BAU,2_Pts_C,Alex Garcia
+518,1,06:46,9,6,BAU,RD,Murilo
+519,1,06:46,9,6,VIT,2_Pts_T,Kojo
+520,1,06:56,9,6,BAU,2_Pts_C,Murilo
+521,1,07:08,9,4,VIT,RD,Jason Smith
+522,1,07:08,9,4,VIT,TO,Feliz
+523,1,07:08,9,4,BAU,2_Pts_T,Murilo
+524,1,07:25,9,4,VIT,2_Pts_C,Feliz
+525,1,07:25,7,4,VIT,AS,Kojo
+526,1,07:39,7,4,VIT,RD,Renan
+527,1,07:39,7,4,BAU,3_Pts_T,Robert Day
+528,1,07:57,7,4,VIT,2_Pts_C,Kojo
+529,1,08:02,5,4,VIT,BR,Calvo
+530,1,08:02,5,4,BAU,ER,Robert Day
+531,1,08:15,5,4,BAU,BR,Bauru
+532,1,08:15,5,4,VIT,ER,Calvo
+533,1,08:27,5,4,VIT,RD,Calvo
+534,1,08:27,5,4,BAU,2_Pts_T,Jefferson W
+535,1,08:40,5,4,VIT,3_Pts_C,Calvo
+536,1,08:40,2,4,VIT,AS,Jason Smith
+537,1,08:56,2,4,BAU,2_Pts_C,Jefferson W
+538,1,09:16,2,2,VIT,2_Pts_C,Feliz
+539,1,09:16,0,2,VIT,AS,Calvo
+540,1,09:28,0,2,BAU,LL_Pts_C,Murilo
+541,1,09:28,0,1,BAU,LL_Pts_C,Murilo
+542,1,09:31,0,0,BAU,FR,Murilo
+543,1,09:31,0,0,VIT,FC,Feliz
+544,1,09:50,0,0,BAU,RD,Jefferson W
+545,1,09:50,0,0,VIT,2_Pts_T,Feliz
+546,1,10:00,0,0,VIT,substituicao_entra,Renan
+547,1,10:00,0,0,VIT,substituicao_entra,Feliz
+548,1,10:00,0,0,VIT,substituicao_entra,Calvo
+549,1,10:00,0,0,VIT,substituicao_entra,Jason Smith
+550,1,10:00,0,0,VIT,substituicao_entra,Kojo
+551,1,10:00,0,0,BAU,substituicao_entra,Robert Day
+552,1,10:00,0,0,BAU,substituicao_entra,Murilo
+553,1,10:00,0,0,BAU,substituicao_entra,Jefferson W
+554,1,10:00,0,0,BAU,substituicao_entra,Alex Garcia
+555,1,10:00,0,0,BAU,substituicao_entra,R Fischer

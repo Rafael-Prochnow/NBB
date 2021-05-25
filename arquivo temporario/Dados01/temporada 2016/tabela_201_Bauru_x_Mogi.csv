@@ -1,0 +1,637 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,80,87,,fim_partida,
+1,5,00:08,80,87,MOG,RD,Filipin
+2,5,00:08,80,87,BAU,3_Pts_T,Jefferson
+3,5,00:15,80,87,BAU,RD,Léo Meindl
+4,5,00:16,80,87,MOG,LL_Pts_T,Gerson
+5,5,00:16,80,87,MOG,LL_Pts_C,Gerson
+6,5,00:16,80,86,MOG,FR,Gerson
+7,5,00:16,80,86,BAU,FC,Valtinho
+8,5,00:16,80,86,MOG,RO,Gerson
+9,5,00:17,80,86,MOG,2_Pts_T,Shamell
+10,5,00:28,80,86,BAU,LL_Pts_C,Jefferson
+11,5,00:28,79,86,BAU,LL_Pts_C,Jefferson
+12,5,00:28,78,86,BAU,FR,Jefferson
+13,5,00:28,78,86,MOG,FC,Gerson
+14,5,00:31,78,86,BAU,RD,Léo Meindl
+15,5,00:36,78,86,MOG,3_Pts_T,Jimmy
+16,5,00:55,78,86,MOG,RD,Shamell
+17,5,00:58,78,86,BAU,2_Pts_T,Jefferson
+18,5,01:04,78,86,MOG,2_Pts_C,Filipin
+19,5,01:07,78,84,MOG,BR,Gerson
+20,5,01:07,78,84,BAU,ER,Valtinho
+21,5,01:21,78,84,MOG,AS,Gerson
+22,5,01:21,78,84,MOG,2_Pts_C,Shamell
+23,5,01:45,78,82,BAU,LL_Pts_C,Jefferson
+24,5,01:45,77,82,BAU,LL_Pts_C,Jefferson
+25,5,01:45,76,82,BAU,FR,Jefferson
+26,5,01:45,76,82,MOG,FC,Gerson
+27,5,01:54,76,82,BAU,tempo_tecnico,
+28,5,01:54,76,82,MOG,LL_Pts_C,Larry
+29,5,01:54,76,81,MOG,LL_Pts_C,Larry
+30,5,01:54,76,80,MOG,FR,Larry
+31,5,01:54,76,80,BAU,FC,Léo Meindl
+32,5,01:59,76,80,MOG,RO,Larry
+33,5,02:01,76,80,MOG,2_Pts_T,Shamell
+34,5,02:22,76,80,MOG,RD,Shamell
+35,5,02:25,76,80,BAU,3_Pts_T,Gui Deodato
+36,5,02:49,76,80,MOG,2_Pts_C,Shamell
+37,5,02:54,76,78,MOG,RD,Larry
+38,5,02:58,76,78,BAU,3_Pts_T,Gegê
+39,5,03:20,76,78,MOG,AS,Shamell
+40,5,03:20,76,78,MOG,2_Pts_C,Gerson
+41,5,03:30,76,76,MOG,RO,Gerson
+42,5,03:35,76,76,MOG,3_Pts_T,Larry
+43,5,03:55,76,76,MOG,RD,Jimmy
+44,5,03:57,76,76,BAU,2_Pts_T,Jefferson
+45,5,04:12,76,76,MOG,2_Pts_C,Gerson
+46,5,04:12,76,74,MOG,RO,Gerson
+47,5,04:18,76,74,BAU,TO,Gui Deodato
+48,5,04:18,76,74,MOG,2_Pts_T,Shamell
+49,5,04:46,76,74,BAU,AS,Léo Meindl
+50,5,04:46,76,74,BAU,2_Pts_C,Jefferson
+51,5,05:00,74,74,,inicio_quarto,
+52,5,05:00,74,74,MOG,substituicao_entra,Larry
+53,5,05:00,74,74,BAU,substituicao_entra,Léo Meindl
+54,5,05:00,74,74,BAU,substituicao_entra,Gegê
+55,5,05:00,74,74,BAU,substituicao_entra,Jefferson
+56,5,05:00,74,74,BAU,substituicao_entra,Gui Deodato
+57,5,05:00,74,74,BAU,substituicao_entra,Valtinho
+58,5,05:00,74,74,MOG,substituicao_entra,Gerson
+59,5,05:00,74,74,MOG,substituicao_entra,Filipin
+60,5,05:00,74,74,MOG,substituicao_entra,Shamell
+61,5,05:00,74,74,MOG,substituicao_entra,Jimmy
+62,4,00:00,74,74,MOG,substituicao_sai,Shamell
+63,4,00:00,74,74,MOG,substituicao_sai,Jimmy
+64,4,00:00,74,74,MOG,substituicao_sai,Filipin
+65,4,00:00,74,74,MOG,substituicao_sai,Gerson
+66,4,00:00,74,74,MOG,substituicao_sai,Larry
+67,4,00:00,74,74,BAU,substituicao_sai,Léo Meindl
+68,4,00:00,74,74,BAU,substituicao_sai,Gegê
+69,4,00:00,74,74,BAU,substituicao_sai,Jefferson
+70,4,00:00,74,74,BAU,substituicao_sai,Valtinho
+71,4,00:00,74,74,BAU,substituicao_sai,Gui Deodato
+72,4,00:00,74,74,,fim_quarto,
+73,4,00:00,74,74,BAU,AS,Gegê
+74,4,00:00,74,74,BAU,3_Pts_C,Léo Meindl
+75,4,00:00,71,74,MOG,LL_Pts_C,Filipin
+76,4,00:00,71,73,MOG,LL_Pts_C,Filipin
+77,4,00:00,71,72,MOG,substituicao_entra,Gerson
+78,4,00:00,71,72,MOG,substituicao_sai,Vithinho
+79,4,00:00,71,72,MOG,FR,Filipin
+80,4,00:00,71,72,BAU,FC,Gegê
+81,4,00:00,71,72,MOG,substituicao_entra,Vithinho
+82,4,00:00,71,72,MOG,substituicao_sai,Gerson
+83,4,00:00,71,72,MOG,tempo_tecnico,
+84,4,00:00,71,72,BAU,LL_Pts_C,Gegê
+85,4,00:00,70,72,BAU,LL_Pts_C,Gegê
+86,4,00:00,69,72,BAU,FR,Gegê
+87,4,00:00,69,72,MOG,FC,Larry
+88,4,00:06,69,72,MOG,LL_Pts_C,Filipin
+89,4,00:06,69,71,MOG,LL_Pts_C,Filipin
+90,4,00:06,69,70,MOG,FR,Filipin
+91,4,00:06,69,70,BAU,FC,Gui Deodato
+92,4,00:14,69,70,BAU,AS,Léo Meindl
+93,4,00:14,69,70,BAU,3_Pts_C,Gegê
+94,4,00:21,66,70,MOG,LL_Pts_C,Gerson
+95,4,00:21,66,69,MOG,LL_Pts_T,Gerson
+96,4,00:21,66,69,BAU,substituicao_entra,Gegê
+97,4,00:21,66,69,BAU,substituicao_sai,Shilton
+98,4,00:21,66,69,MOG,FR,Gerson
+99,4,00:21,66,69,BAU,FC,Shilton
+100,4,00:21,66,69,MOG,RD,Gerson
+101,4,00:21,66,69,BAU,3_Pts_T,Gui Deodato
+102,4,00:31,66,69,BAU,substituicao_entra,Shilton
+103,4,00:31,66,69,BAU,substituicao_sai,Gegê
+104,4,00:31,66,69,BAU,tempo_tecnico,
+105,4,00:31,66,69,BAU,RD,Bauru
+106,4,00:31,66,69,MOG,3_Pts_T,Jimmy
+107,4,00:50,66,69,MOG,RD,Larry
+108,4,00:53,66,69,BAU,3_Pts_T,Gui Deodato
+109,4,01:02,66,69,MOG,substituicao_entra,Gerson
+110,4,01:02,66,69,MOG,substituicao_sai,Tyrone
+111,4,01:02,66,69,BAU,FR,Jefferson
+112,4,01:02,66,69,MOG,FC,Tyrone
+113,4,01:04,66,69,BAU,RO,Gegê
+114,4,01:07,66,69,BAU,3_Pts_T,Valtinho
+115,4,01:15,66,69,BAU,RD,Léo Meindl
+116,4,01:16,66,69,MOG,LL_Pts_T,Jimmy
+117,4,01:30,66,69,MOG,LL_Pts_T,Jimmy
+118,4,01:30,66,69,MOG,LL_Pts_C,Jimmy
+119,4,01:30,66,68,MOG,FR,Jimmy
+120,4,01:30,66,68,BAU,FC,Valtinho
+121,4,01:31,66,68,MOG,RO,Jimmy
+122,4,01:33,66,68,MOG,3_Pts_T,Shamell
+123,4,01:56,66,68,BAU,LL_Pts_C,Jefferson
+124,4,01:56,65,68,BAU,LL_Pts_C,Jefferson
+125,4,01:56,64,68,BAU,FR,Jefferson
+126,4,01:56,64,68,MOG,FC,Jimmy
+127,4,01:57,64,68,BAU,RO,Jefferson
+128,4,02:01,64,68,BAU,3_Pts_T,Gui Deodato
+129,4,02:04,64,68,BAU,RD,Gui Deodato
+130,4,02:07,64,68,MOG,2_Pts_T,Filipin
+131,4,02:16,64,68,MOG,RO,Filipin
+132,4,02:16,64,68,MOG,2_Pts_T,Jimmy
+133,4,02:36,64,68,BAU,2_Pts_C,Gegê
+134,4,03:03,62,68,MOG,LL_Pts_C,Larry
+135,4,03:05,62,67,MOG,FR,Larry
+136,4,03:05,62,67,BAU,FC,Jefferson
+137,4,03:18,62,67,MOG,2_Pts_C,Larry
+138,4,03:19,62,65,BAU,2_Pts_C,Gui Deodato
+139,4,03:19,60,65,BAU,RD,Léo Meindl
+140,4,03:19,60,65,MOG,3_Pts_T,Tyrone
+141,4,03:19,60,65,MOG,RD,Larry
+142,4,03:19,60,65,BAU,3_Pts_T,Gegê
+143,4,03:26,60,65,BAU,RD,Jefferson
+144,4,03:28,60,65,MOG,3_Pts_T,Tyrone
+145,4,03:52,60,65,MOG,substituicao_entra,Filipin
+146,4,03:52,60,65,MOG,substituicao_sai,Gerson
+147,4,03:52,60,65,MOG,tempo_tecnico,
+148,4,03:54,60,65,BAU,AS,Gegê
+149,4,03:54,60,65,BAU,3_Pts_C,Léo Meindl
+150,4,04:01,57,65,BAU,BR,Valtinho
+151,4,04:01,57,65,MOG,ER,Tyrone
+152,4,04:11,57,65,BAU,2_Pts_C,Léo Meindl
+153,4,04:26,55,65,MOG,substituicao_entra,Shamell
+154,4,04:26,55,65,MOG,substituicao_sai,Filipin
+155,4,04:26,55,65,BAU,tempo_tecnico,
+156,4,04:31,55,65,MOG,2_Pts_C,Tyrone
+157,4,04:35,55,63,MOG,BR,Larry
+158,4,04:35,55,63,BAU,ER,Jefferson
+159,4,04:51,55,63,MOG,substituicao_entra,Tyrone
+160,4,04:51,55,63,MOG,substituicao_sai,Fabricio
+161,4,04:51,55,63,BAU,LL_Pts_T,Léo Meindl
+162,4,04:51,55,63,BAU,LL_Pts_T,Léo Meindl
+163,4,04:51,55,63,MOG,substituicao_entra,Filipin
+164,4,04:51,55,63,MOG,substituicao_sai,Shamell
+165,4,04:51,55,63,BAU,FR,Léo Meindl
+166,4,04:51,55,63,MOG,FC_A,Shamell
+167,4,04:52,55,63,BAU,BR,Léo Meindl
+168,4,04:52,55,63,MOG,ER,Shamell
+169,4,05:01,55,63,MOG,RO,Gerson
+170,4,05:04,55,63,MOG,2_Pts_T,Shamell
+171,4,05:21,55,63,MOG,RD,Fabricio
+172,4,05:24,55,63,BAU,2_Pts_T,Valtinho
+173,4,05:47,55,63,MOG,AS,Shamell
+174,4,05:47,55,63,MOG,2_Pts_C,Gerson
+175,4,06:07,55,61,BAU,AS,Valtinho
+176,4,06:07,55,61,BAU,3_Pts_C,Gegê
+177,4,06:24,52,61,MOG,2_Pts_C,Shamell
+178,4,06:32,52,59,MOG,FR,Shamell
+179,4,06:32,52,59,BAU,FC,Gui Deodato
+180,4,06:48,52,59,MOG,substituicao_entra,Fabricio
+181,4,06:48,52,59,MOG,substituicao_sai,Filipin
+182,4,06:48,52,59,BAU,ER,Gui Deodato
+183,4,07:06,52,59,BAU,RD,Bauru
+184,4,07:07,52,59,MOG,3_Pts_T,Filipin
+185,4,07:27,52,59,BAU,LL_Pts_C,Léo Meindl
+186,4,07:27,51,59,BAU,LL_Pts_T,Léo Meindl
+187,4,07:27,51,59,MOG,substituicao_entra,Gerson
+188,4,07:27,51,59,MOG,substituicao_sai,Tyrone
+189,4,07:27,51,59,BAU,FR,Léo Meindl
+190,4,07:27,51,59,MOG,FC,Tyrone
+191,4,07:31,51,59,BAU,RD,Jefferson
+192,4,07:35,51,59,MOG,3_Pts_T,Larry
+193,4,07:53,51,59,MOG,LL_Pts_C,Jimmy
+194,4,07:53,51,58,MOG,LL_Pts_C,Jimmy
+195,4,07:53,51,57,MOG,LL_Pts_C,Jimmy
+196,4,07:53,51,56,BAU,substituicao_entra,Gegê
+197,4,07:53,51,56,BAU,substituicao_sai,Alex
+198,4,07:53,51,56,BAU,FC_T,Alex
+199,4,07:53,51,56,MOG,FR,Jimmy
+200,4,07:53,51,56,BAU,FC,Alex
+201,4,08:06,51,56,BAU,AS,Alex
+202,4,08:06,51,56,BAU,3_Pts_C,Gui Deodato
+203,4,08:19,48,56,MOG,2_Pts_C,Tyrone
+204,4,08:37,48,54,BAU,2_Pts_C,Jefferson
+205,4,08:39,46,54,BAU,RO,Jefferson
+206,4,08:42,46,54,BAU,2_Pts_T,Alex
+207,4,08:43,46,54,BAU,RD,Valtinho
+208,4,08:50,46,54,BAU,TO,Valtinho
+209,4,08:50,46,54,MOG,2_Pts_T,Larry
+210,4,08:59,46,54,MOG,RO,Filipin
+211,4,09:03,46,54,MOG,3_Pts_T,Shamell
+212,4,09:21,46,54,MOG,RD,Jimmy
+213,4,09:25,46,54,BAU,3_Pts_T,Gui Deodato
+214,4,09:26,46,54,BAU,RD,Alex
+215,4,09:34,46,54,MOG,2_Pts_T,Shamell
+216,4,09:35,46,54,MOG,RO,Shamell
+217,4,09:40,46,54,BAU,TO,Gui Deodato
+218,4,09:40,46,54,MOG,2_Pts_T,Shamell
+219,4,10:00,46,54,,inicio_quarto,
+220,3,00:00,46,54,MOG,substituicao_sai,Shamell
+221,3,00:00,46,54,MOG,substituicao_sai,Jimmy
+222,3,00:00,46,54,MOG,substituicao_sai,Filipin
+223,3,00:00,46,54,MOG,substituicao_sai,Gerson
+224,3,00:00,46,54,MOG,substituicao_sai,Larry
+225,3,00:00,46,54,BAU,substituicao_sai,Jaú
+226,3,00:00,46,54,BAU,substituicao_sai,Léo Meindl
+227,3,00:00,46,54,BAU,substituicao_sai,Valtinho
+228,3,00:00,46,54,BAU,substituicao_sai,Shilton
+229,3,00:00,46,54,BAU,substituicao_sai,Gui Deodato
+230,3,00:00,46,54,BAU,3_Pts_T,Gui Deodato
+231,3,00:00,46,54,,fim_quarto,
+232,3,00:01,46,54,MOG,LL_Pts_C,Filipin
+233,3,00:01,46,53,MOG,LL_Pts_C,Filipin
+234,3,00:01,46,52,MOG,LL_Pts_T,Filipin
+235,3,00:01,46,52,MOG,FR,Filipin
+236,3,00:01,46,52,BAU,FC,Jaú
+237,3,00:01,46,52,BAU,RD,Bauru
+238,3,00:01,46,52,MOG,3_Pts_T,Filipin
+239,3,00:20,46,52,MOG,RD,Larry
+240,3,00:24,46,52,BAU,3_Pts_T,Gui Deodato
+241,3,00:32,46,52,MOG,2_Pts_C,Shamell
+242,3,00:43,46,50,BAU,substituicao_entra,Shilton
+243,3,00:43,46,50,BAU,substituicao_sai,Jefferson
+244,3,00:43,46,50,BAU,LL_Pts_C,Jefferson
+245,3,00:43,45,50,BAU,LL_Pts_C,Jefferson
+246,3,00:43,44,50,BAU,FR,Jefferson
+247,3,00:43,44,50,MOG,FC,Shamell
+248,3,01:06,44,50,MOG,substituicao_entra,Gerson
+249,3,01:06,44,50,MOG,substituicao_sai,Tyrone
+250,3,01:06,44,50,MOG,LL_Pts_C,Filipin
+251,3,01:06,44,49,MOG,LL_Pts_C,Filipin
+252,3,01:06,44,48,BAU,substituicao_entra,Jefferson
+253,3,01:06,44,48,BAU,substituicao_sai,Shilton
+254,3,01:06,44,48,MOG,FR,Filipin
+255,3,01:06,44,48,BAU,FC,Jaú
+256,3,01:22,44,48,BAU,substituicao_entra,Shilton
+257,3,01:22,44,48,BAU,substituicao_sai,Jefferson
+258,3,01:22,44,48,BAU,LL_Pts_C,Léo Meindl
+259,3,01:22,43,48,BAU,substituicao_entra,Gui Deodato
+260,3,01:22,43,48,BAU,substituicao_sai,Alex
+261,3,01:22,43,48,BAU,FR,Léo Meindl
+262,3,01:22,43,48,MOG,FC,Shamell
+263,3,01:22,43,48,BAU,2_Pts_C,Léo Meindl
+264,3,01:35,41,48,MOG,LL_Pts_C,Shamell
+265,3,01:35,41,47,MOG,LL_Pts_C,Shamell
+266,3,01:35,41,46,MOG,substituicao_entra,Filipin
+267,3,01:35,41,46,MOG,substituicao_sai,Gerson
+268,3,01:35,41,46,MOG,substituicao_entra,Tyrone
+269,3,01:35,41,46,MOG,substituicao_sai,Fabricio
+270,3,01:35,41,46,MOG,FR,Shamell
+271,3,01:35,41,46,BAU,FC,Alex
+272,3,01:55,41,46,BAU,AS,Léo Meindl
+273,3,01:55,41,46,BAU,3_Pts_C,Alex
+274,3,01:57,38,46,BAU,RO,Léo Meindl
+275,3,01:59,38,46,BAU,3_Pts_T,Jefferson
+276,3,02:05,38,46,BAU,RD,Valtinho
+277,3,02:08,38,46,MOG,2_Pts_T,Larry
+278,3,02:27,38,46,MOG,tempo_tecnico,
+279,3,02:27,38,46,BAU,AS,Jaú
+280,3,02:27,38,46,BAU,3_Pts_C,Jefferson
+281,3,02:31,35,46,BAU,RO,Jaú
+282,3,02:33,35,46,BAU,3_Pts_T,Valtinho
+283,3,02:42,35,46,BAU,LL_Pts_C,Alex
+284,3,02:42,34,46,MOG,substituicao_entra,Gerson
+285,3,02:42,34,46,MOG,substituicao_sai,Tyrone
+286,3,02:42,34,46,MOG,FC_T,Tyrone
+287,3,02:47,34,46,BAU,2_Pts_C,Jefferson
+288,3,02:48,32,46,BAU,RO,Jefferson
+289,3,02:50,32,46,BAU,2_Pts_T,Jaú
+290,3,02:51,32,46,BAU,RO,Jaú
+291,3,02:53,32,46,BAU,2_Pts_T,Jefferson
+292,3,03:10,32,46,MOG,ER,Tyrone
+293,3,03:22,32,46,BAU,ER,Jefferson
+294,3,03:23,32,46,MOG,FR,Fabricio
+295,3,03:23,32,46,BAU,FC_O,Jefferson
+296,3,03:38,32,46,MOG,LL_Pts_C,Larry
+297,3,03:39,32,45,MOG,FR,Larry
+298,3,03:39,32,45,BAU,FC,Valtinho
+299,3,03:46,32,45,MOG,2_Pts_C,Larry
+300,3,04:00,32,43,BAU,LL_Pts_C,Jefferson
+301,3,04:00,31,43,BAU,LL_Pts_C,Jefferson
+302,3,04:00,30,43,BAU,FR,Jefferson
+303,3,04:00,30,43,MOG,FC,Tyrone
+304,3,04:23,30,43,MOG,3_Pts_C,Shamell
+305,3,04:38,30,40,BAU,AS,Léo Meindl
+306,3,04:38,30,40,BAU,2_Pts_C,Jefferson
+307,3,04:50,28,40,MOG,AS,Fabricio
+308,3,04:50,28,40,MOG,2_Pts_C,Shamell
+309,3,04:53,28,38,MOG,RO,Fabricio
+310,3,04:55,28,38,MOG,3_Pts_T,Shamell
+311,3,05:02,28,38,BAU,2_Pts_C,Jefferson
+312,3,05:02,26,38,MOG,substituicao_entra,Fabricio
+313,3,05:02,26,38,MOG,substituicao_sai,Gerson
+314,3,05:02,26,38,MOG,substituicao_entra,Jimmy
+315,3,05:02,26,38,MOG,substituicao_sai,Filipin
+316,3,05:02,26,38,BAU,substituicao_entra,Valtinho
+317,3,05:02,26,38,BAU,substituicao_sai,Gegê
+318,3,05:02,26,38,BAU,FR,Jaú
+319,3,05:02,26,38,MOG,FC,Filipin
+320,3,05:04,26,38,BAU,RO,Jaú
+321,3,05:07,26,38,BAU,3_Pts_T,Alex
+322,3,05:19,26,38,BAU,RD,Gegê
+323,3,05:21,26,38,MOG,3_Pts_T,Filipin
+324,3,05:34,26,38,MOG,RD,Shamell
+325,3,05:37,26,38,BAU,3_Pts_T,Jefferson
+326,3,05:41,26,38,BAU,RO,Jaú
+327,3,05:44,26,38,BAU,3_Pts_T,Jefferson
+328,3,05:56,26,38,BAU,RD,Jaú
+329,3,05:59,26,38,MOG,2_Pts_T,Gerson
+330,3,06:13,26,38,BAU,substituicao_entra,Jaú
+331,3,06:13,26,38,BAU,substituicao_sai,Shilton
+332,3,06:13,26,38,MOG,FR,Larry
+333,3,06:13,26,38,BAU,FC,Shilton
+334,3,06:24,26,38,MOG,BR,Filipin
+335,3,06:24,26,38,BAU,ER,Shilton
+336,3,06:35,26,38,BAU,FR,Léo Meindl
+337,3,06:35,26,38,MOG,FC,Tyrone
+338,3,06:35,26,38,MOG,RD,Larry
+339,3,06:37,26,38,BAU,3_Pts_T,Léo Meindl
+340,3,06:50,26,38,MOG,AS,Larry
+341,3,06:50,26,38,MOG,EN,Gerson
+342,3,07:01,26,36,BAU,LL_Pts_C,Gegê
+343,3,07:01,25,36,BAU,LL_Pts_C,Gegê
+344,3,07:01,24,36,BAU,FR,Gegê
+345,3,07:01,24,36,MOG,FC,Larry
+346,3,07:03,24,36,BAU,BR,Gegê
+347,3,07:03,24,36,MOG,ER,Larry
+348,3,07:10,24,36,MOG,FR,Tyrone
+349,3,07:10,24,36,BAU,ER,Jefferson
+350,3,07:10,24,36,BAU,FC_O,Jefferson
+351,3,07:18,24,36,BAU,tempo_tecnico,
+352,3,07:18,24,36,MOG,AS,Filipin
+353,3,07:18,24,36,MOG,2_Pts_C,Tyrone
+354,3,07:26,24,34,MOG,BR,Larry
+355,3,07:26,24,34,BAU,ER,Shilton
+356,3,07:44,24,34,BAU,FR,Alex
+357,3,07:44,24,34,MOG,ER,Gerson
+358,3,07:44,24,34,MOG,FC_O,Gerson
+359,3,07:51,24,34,MOG,BR,Filipin
+360,3,07:51,24,34,BAU,ER,Léo Meindl
+361,3,08:02,24,34,MOG,2_Pts_C,Larry
+362,3,08:07,24,32,MOG,BR,Larry
+363,3,08:07,24,32,BAU,ER,Alex
+364,3,08:19,24,32,MOG,2_Pts_C,Shamell
+365,3,08:44,24,30,BAU,2_Pts_C,Jefferson
+366,3,08:51,22,30,BAU,RD,Léo Meindl
+367,3,08:55,22,30,MOG,3_Pts_T,Tyrone
+368,3,09:14,22,30,MOG,FR,Shamell
+369,3,09:14,22,30,BAU,FC,Shilton
+370,3,09:28,22,30,MOG,FR,Larry
+371,3,09:28,22,30,BAU,FC,Gegê
+372,3,09:28,22,30,MOG,BR,Larry
+373,3,09:28,22,30,BAU,ER,Gegê
+374,3,09:39,22,30,BAU,RD,Bauru
+375,3,09:39,22,30,MOG,3_Pts_T,Tyrone
+376,3,10:00,22,30,,inicio_quarto,
+377,2,00:00,22,30,,fim_quarto,
+378,2,00:04,22,30,MOG,2_Pts_T,Larry
+379,2,00:18,22,30,MOG,RD,Shamell
+380,2,00:19,22,30,BAU,LL_Pts_T,Shilton
+381,2,00:19,22,30,BAU,LL_Pts_T,Shilton
+382,2,00:19,22,30,BAU,substituicao_entra,Shilton
+383,2,00:19,22,30,BAU,substituicao_sai,Valtinho
+384,2,00:19,22,30,MOG,substituicao_entra,Elinho
+385,2,00:19,22,30,MOG,substituicao_sai,Jimmy
+386,2,00:19,22,30,BAU,FR,Valtinho
+387,2,00:19,22,30,MOG,FC,Jimmy
+388,2,00:29,22,30,MOG,LL_Pts_C,Shamell
+389,2,00:30,22,29,MOG,FR,Shamell
+390,2,00:30,22,29,BAU,FC,Gegê
+391,2,00:33,22,29,MOG,2_Pts_C,Shamell
+392,2,00:46,22,27,MOG,RO,Larry
+393,2,00:49,22,27,MOG,3_Pts_T,Filipin
+394,2,00:54,22,27,MOG,substituicao_entra,Jimmy
+395,2,00:54,22,27,MOG,substituicao_sai,Fabricio
+396,2,00:56,22,27,MOG,RD,Larry
+397,2,01:03,22,27,BAU,LL_Pts_T,Jefferson
+398,2,01:03,22,27,BAU,LL_Pts_C,Jefferson
+399,2,01:03,21,27,BAU,substituicao_entra,Jaú
+400,2,01:03,21,27,BAU,substituicao_sai,Shilton
+401,2,01:03,21,27,BAU,substituicao_entra,Shilton
+402,2,01:03,21,27,BAU,substituicao_sai,Léo Meindl
+403,2,01:07,21,27,BAU,RD,Valtinho
+404,2,01:18,21,27,MOG,3_Pts_T,Larry
+405,2,01:34,21,27,MOG,RD,Shamell
+406,2,01:37,21,27,BAU,2_Pts_T,Valtinho
+407,2,01:44,21,27,BAU,RD,Alex
+408,2,01:47,21,27,MOG,3_Pts_T,Filipin
+409,2,02:00,21,27,MOG,FC,Fabricio
+410,2,02:10,21,27,BAU,AS,Gui Deodato
+411,2,02:10,21,27,BAU,2_Pts_C,Valtinho
+412,2,02:21,19,27,MOG,2_Pts_C,Shamell
+413,2,02:44,19,25,MOG,RD,Fabricio
+414,2,02:47,19,25,BAU,2_Pts_T,Gui Deodato
+415,2,02:51,19,25,BAU,RD,Gui Deodato
+416,2,02:54,19,25,MOG,3_Pts_T,Fabricio
+417,2,02:56,19,25,MOG,FR,Shamell
+418,2,02:56,19,25,BAU,FC,Jefferson
+419,2,03:05,19,25,MOG,BR,Filipin
+420,2,03:05,19,25,BAU,ER,Alex
+421,2,03:15,19,25,BAU,LL_Pts_C,Alex
+422,2,03:15,18,25,MOG,substituicao_entra,Fabricio
+423,2,03:15,18,25,MOG,substituicao_sai,Jimmy
+424,2,03:15,18,25,BAU,LL_Pts_C,Alex
+425,2,03:15,17,25,BAU,substituicao_entra,Jefferson
+426,2,03:15,17,25,BAU,substituicao_sai,Shilton
+427,2,03:15,17,25,MOG,substituicao_entra,Filipin
+428,2,03:15,17,25,MOG,substituicao_sai,Fabricio
+429,2,03:15,17,25,MOG,substituicao_entra,Larry
+430,2,03:15,17,25,MOG,substituicao_sai,Elinho
+431,2,03:15,17,25,MOG,tempo_tecnico,
+432,2,03:16,17,25,BAU,FR,Alex
+433,2,03:16,17,25,MOG,FC_A,Elinho
+434,2,03:23,17,25,BAU,BR,Alex
+435,2,03:23,17,25,MOG,ER,Tyrone
+436,2,03:30,17,25,MOG,RD,Elinho
+437,2,03:31,17,25,BAU,LL_Pts_T,Alex
+438,2,03:32,17,25,BAU,FR,Alex
+439,2,03:32,17,25,MOG,FC,Elinho
+440,2,03:40,17,25,BAU,2_Pts_C,Alex
+441,2,04:01,15,25,BAU,RD,Alex
+442,2,04:02,15,25,MOG,LL_Pts_T,Shamell
+443,2,04:02,15,25,MOG,LL_Pts_T,Shamell
+444,2,04:02,15,25,MOG,substituicao_entra,Fabricio
+445,2,04:02,15,25,MOG,substituicao_sai,Vithinho
+446,2,04:02,15,25,MOG,substituicao_entra,Vithinho
+447,2,04:02,15,25,MOG,substituicao_sai,Gerson
+448,2,04:02,15,25,BAU,substituicao_entra,Shilton
+449,2,04:02,15,25,BAU,substituicao_sai,Jaú
+450,2,04:02,15,25,MOG,FR,Shamell
+451,2,04:02,15,25,BAU,FC,Léo Meindl
+452,2,04:08,15,25,BAU,AS,Léo Meindl
+453,2,04:08,15,25,BAU,2_Pts_C,Jaú
+454,2,04:29,13,25,MOG,2_Pts_C,Shamell
+455,2,04:40,13,23,MOG,BR,Jimmy
+456,2,04:40,13,23,BAU,ER,Jaú
+457,2,04:47,13,23,BAU,RD,Jaú
+458,2,04:49,13,23,MOG,3_Pts_T,Shamell
+459,2,05:02,13,23,MOG,RD,Tyrone
+460,2,05:04,13,23,BAU,3_Pts_T,Gui Deodato
+461,2,05:07,13,23,MOG,substituicao_entra,Gerson
+462,2,05:07,13,23,MOG,substituicao_sai,Vithinho
+463,2,05:07,13,23,MOG,substituicao_entra,Vithinho
+464,2,05:07,13,23,MOG,substituicao_sai,Larry
+465,2,05:07,13,23,BAU,tempo_tecnico,
+466,2,05:07,13,23,MOG,LL_Pts_C,Jimmy
+467,2,05:07,13,22,MOG,LL_Pts_C,Jimmy
+468,2,05:07,13,21,MOG,FR,Jimmy
+469,2,05:07,13,21,BAU,FC,Alex
+470,2,05:07,13,21,MOG,RO,Larry
+471,2,05:15,13,21,MOG,3_Pts_T,Jimmy
+472,2,05:35,13,21,MOG,RD,Larry
+473,2,05:38,13,21,BAU,2_Pts_T,Léo Meindl
+474,2,05:49,13,21,BAU,substituicao_entra,Jaú
+475,2,05:49,13,21,BAU,substituicao_sai,Jefferson
+476,2,05:49,13,21,BAU,FR,Alex
+477,2,05:49,13,21,MOG,FC,Jimmy
+478,2,06:00,13,21,MOG,2_Pts_C,Shamell
+479,2,06:15,13,19,MOG,substituicao_entra,Elinho
+480,2,06:15,13,19,MOG,substituicao_sai,Filipin
+481,2,06:15,13,19,MOG,RD,Mogi
+482,2,06:15,13,19,BAU,3_Pts_T,Jefferson
+483,2,06:20,13,19,BAU,BR,Gui Deodato
+484,2,06:20,13,19,MOG,ER,Shamell
+485,2,06:25,13,19,MOG,RD,Shamell
+486,2,06:27,13,19,BAU,2_Pts_T,Valtinho
+487,2,06:43,13,19,MOG,AS,Filipin
+488,2,06:43,13,19,MOG,2_Pts_C,Tyrone
+489,2,07:07,13,17,BAU,LL_Pts_C,Jefferson
+490,2,07:07,12,17,BAU,LL_Pts_C,Jefferson
+491,2,07:07,11,17,MOG,substituicao_entra,Jimmy
+492,2,07:07,11,17,MOG,substituicao_sai,Gerson
+493,2,07:07,11,17,BAU,FR,Jefferson
+494,2,07:07,11,17,MOG,FC,Filipin
+495,2,07:19,11,17,MOG,ER,Shamell
+496,2,07:26,11,17,MOG,RO,Filipin
+497,2,07:31,11,17,MOG,3_Pts_T,Filipin
+498,2,07:52,11,17,MOG,substituicao_entra,Shamell
+499,2,07:52,11,17,MOG,substituicao_sai,Vithinho
+500,2,07:52,11,17,MOG,substituicao_entra,Gerson
+501,2,07:52,11,17,MOG,substituicao_sai,Fabricio
+502,2,07:52,11,17,BAU,ER,Valtinho
+503,2,08:06,11,17,BAU,RD,Léo Meindl
+504,2,08:10,11,17,MOG,3_Pts_T,Vithinho
+505,2,08:35,11,17,BAU,AS,Gui Deodato
+506,2,08:35,11,17,BAU,2_Pts_C,Jefferson
+507,2,08:46,9,17,BAU,substituicao_entra,Léo Meindl
+508,2,08:46,9,17,BAU,substituicao_sai,Jaú
+509,2,08:46,9,17,BAU,FR,Jefferson
+510,2,08:46,9,17,MOG,FC,Fabricio
+511,2,08:50,9,17,BAU,RD,Alex
+512,2,08:53,9,17,MOG,3_Pts_T,Fabricio
+513,2,09:02,9,17,MOG,RD,Larry
+514,2,09:05,9,17,BAU,3_Pts_T,Valtinho
+515,2,09:27,9,17,MOG,ER,Tyrone
+516,2,09:43,9,17,MOG,RD,Vithinho
+517,2,09:45,9,17,BAU,3_Pts_T,Alex
+518,2,10:00,9,17,,inicio_quarto,
+519,1,00:00,9,17,BAU,substituicao_sai,Jaú
+520,1,00:00,9,17,BAU,substituicao_sai,Jefferson
+521,1,00:00,9,17,BAU,substituicao_sai,Alex
+522,1,00:00,9,17,BAU,substituicao_sai,Valtinho
+523,1,00:00,9,17,BAU,substituicao_sai,Stefano
+524,1,00:00,9,17,MOG,substituicao_sai,Shamell
+525,1,00:00,9,17,MOG,substituicao_sai,Filipin
+526,1,00:00,9,17,MOG,substituicao_sai,Fabricio
+527,1,00:00,9,17,MOG,substituicao_sai,Vithinho
+528,1,00:00,9,17,MOG,substituicao_sai,Larry
+529,1,00:00,9,17,,fim_quarto,
+530,1,00:00,9,17,MOG,2_Pts_T,Shamell
+531,1,00:01,9,17,MOG,RO,Mogi
+532,1,00:01,9,17,BAU,TO,Jaú
+533,1,00:01,9,17,MOG,2_Pts_T,Larry
+534,1,00:09,9,17,BAU,substituicao_entra,Jaú
+535,1,00:09,9,17,BAU,substituicao_sai,Shilton
+536,1,00:09,9,17,BAU,substituicao_entra,Stefano
+537,1,00:09,9,17,BAU,substituicao_sai,Léo Meindl
+538,1,00:09,9,17,MOG,substituicao_entra,Larry
+539,1,00:09,9,17,MOG,substituicao_sai,Gerson
+540,1,00:20,9,17,MOG,BR,Vithinho
+541,1,00:20,9,17,BAU,ER,Léo Meindl
+542,1,00:30,9,17,MOG,2_Pts_C,Shamell
+543,1,00:57,9,15,BAU,AS,Valtinho
+544,1,00:57,9,15,BAU,2_Pts_C,Shilton
+545,1,01:20,7,15,MOG,substituicao_entra,Gerson
+546,1,01:20,7,15,MOG,substituicao_sai,Tyrone
+547,1,01:20,7,15,BAU,tempo_tecnico,
+548,1,01:20,7,15,MOG,2_Pts_C,Tyrone
+549,1,01:25,7,13,MOG,BR,Tyrone
+550,1,01:25,7,13,BAU,ER,Jefferson
+551,1,01:29,7,13,BAU,BR,Jefferson
+552,1,01:29,7,13,MOG,ER,Tyrone
+553,1,01:50,7,13,MOG,RD,Mogi
+554,1,01:52,7,13,BAU,3_Pts_T,Léo Meindl
+555,1,02:07,7,13,MOG,AS,Shamell
+556,1,02:07,7,13,MOG,3_Pts_C,Vithinho
+557,1,02:28,7,10,BAU,substituicao_entra,Valtinho
+558,1,02:28,7,10,BAU,substituicao_sai,Gegê
+559,1,02:28,7,10,MOG,substituicao_entra,Vithinho
+560,1,02:28,7,10,MOG,substituicao_sai,Larry
+561,1,02:28,7,10,MOG,FR,Larry
+562,1,02:28,7,10,BAU,FC,Gegê
+563,1,02:30,7,10,MOG,RD,Larry
+564,1,02:33,7,10,BAU,3_Pts_T,Gegê
+565,1,02:40,7,10,BAU,RD,Jefferson
+566,1,02:44,7,10,MOG,3_Pts_T,Filipin
+567,1,02:57,7,10,MOG,RD,Fabricio
+568,1,03:00,7,10,BAU,2_Pts_T,Jefferson
+569,1,03:11,7,10,MOG,substituicao_entra,Filipin
+570,1,03:11,7,10,MOG,substituicao_sai,Jimmy
+571,1,03:11,7,10,BAU,FR,Shilton
+572,1,03:11,7,10,MOG,FC,Fabricio
+573,1,03:32,7,10,MOG,ER,Tyrone
+574,1,03:50,7,10,MOG,substituicao_entra,Fabricio
+575,1,03:50,7,10,MOG,substituicao_sai,Gerson
+576,1,03:50,7,10,BAU,substituicao_entra,Shilton
+577,1,03:50,7,10,BAU,substituicao_sai,Shilton
+578,1,03:50,7,10,BAU,ER,Shilton
+579,1,04:12,7,10,MOG,AS,Shamell
+580,1,04:12,7,10,MOG,3_Pts_C,Tyrone
+581,1,04:30,7,7,BAU,AS,Léo Meindl
+582,1,04:30,7,7,BAU,2_Pts_C,Jefferson
+583,1,04:32,5,7,BAU,RD,Léo Meindl
+584,1,04:39,5,7,MOG,3_Pts_T,Larry
+585,1,04:54,5,7,BAU,AS,Alex
+586,1,04:54,5,7,BAU,2_Pts_C,Shilton
+587,1,05:15,3,7,MOG,2_Pts_C,Larry
+588,1,05:32,3,5,MOG,RD,Mogi
+589,1,05:35,3,5,BAU,3_Pts_T,Jefferson
+590,1,05:36,3,5,BAU,RD,Shilton
+591,1,05:40,3,5,MOG,2_Pts_T,Tyrone
+592,1,05:57,3,5,BAU,ER,Alex
+593,1,06:07,3,5,MOG,2_Pts_C,Larry
+594,1,06:16,3,3,MOG,RD,Mogi
+595,1,06:27,3,3,BAU,3_Pts_T,Gegê
+596,1,06:32,3,3,BAU,RD,Léo Meindl
+597,1,06:35,3,3,MOG,3_Pts_T,Shamell
+598,1,06:50,3,3,MOG,FR,Tyrone
+599,1,06:50,3,3,BAU,FC,Alex
+600,1,07:02,3,3,MOG,RD,Shamell
+601,1,07:04,3,3,BAU,2_Pts_T,Jefferson
+602,1,07:18,3,3,BAU,FR,Gegê
+603,1,07:18,3,3,MOG,FC,Larry
+604,1,07:29,3,3,MOG,FR,Shamell
+605,1,07:29,3,3,BAU,FC,Léo Meindl
+606,1,07:35,3,3,MOG,BR,Gerson
+607,1,07:35,3,3,BAU,ER,Alex
+608,1,07:51,3,3,BAU,FR,Léo Meindl
+609,1,07:51,3,3,MOG,FC,Shamell
+610,1,08:13,3,3,MOG,ER,Gerson
+611,1,08:18,3,3,MOG,RO,Gerson
+612,1,08:24,3,3,MOG,3_Pts_T,Tyrone
+613,1,08:43,3,3,BAU,ER,Shilton
+614,1,08:45,3,3,MOG,FR,Shamell
+615,1,08:45,3,3,BAU,FC_O,Shilton
+616,1,08:56,3,3,MOG,AS,Shamell
+617,1,08:56,3,3,MOG,3_Pts_C,Jimmy
+618,1,09:09,3,0,BAU,AS,Alex
+619,1,09:09,3,0,BAU,3_Pts_C,Léo Meindl
+620,1,09:26,0,0,BAU,BR,Alex
+621,1,09:26,0,0,MOG,ER,Larry
+622,1,09:42,0,0,BAU,ER,Shilton
+623,1,09:43,0,0,BAU,FR,Jefferson
+624,1,09:43,0,0,MOG,ER,Gerson
+625,1,09:43,0,0,MOG,FC_O,Gerson
+626,1,10:00,0,0,MOG,substituicao_entra,Shamell
+627,1,10:00,0,0,MOG,substituicao_entra,Jimmy
+628,1,10:00,0,0,MOG,substituicao_entra,Gerson
+629,1,10:00,0,0,MOG,substituicao_entra,Larry
+630,1,10:00,0,0,MOG,substituicao_entra,Tyrone
+631,1,10:00,0,0,BAU,substituicao_entra,Léo Meindl
+632,1,10:00,0,0,BAU,substituicao_entra,Gegê
+633,1,10:00,0,0,BAU,substituicao_entra,Jefferson
+634,1,10:00,0,0,BAU,substituicao_entra,Alex
+635,1,10:00,0,0,BAU,substituicao_entra,Shilton

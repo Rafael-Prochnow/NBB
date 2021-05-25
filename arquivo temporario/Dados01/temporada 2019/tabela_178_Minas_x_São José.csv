@@ -1,0 +1,627 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,124,119,,fim_partida,
+1,5,00:00,124,119,,fim_quarto,
+2,5,00:02,124,119,SJO,3_Pts_T,Figueredo
+3,5,00:09,124,119,SJO,RD,Lupa
+4,5,00:09,124,119,MIN,LL_Pts_T,Alex
+5,5,00:09,124,119,MIN,LL_Pts_T,Alex
+6,5,00:09,124,119,MIN,FR,Alex
+7,5,00:09,124,119,SJO,FC,Mariani
+8,5,00:11,124,119,SJO,3_Pts_C,Figueredo
+9,5,00:21,124,116,MIN,LL_Pts_C,Scott
+10,5,00:21,123,116,MIN,AS,Tyrone
+11,5,00:21,123,116,MIN,LL_Pts_C,Scott
+12,5,00:21,122,116,MIN,FR,Scott
+13,5,00:21,122,116,SJO,FC,Morillo
+14,5,00:30,122,116,MIN,RD,Minas
+15,5,00:30,122,116,SJO,3_Pts_T,Duda
+16,5,00:38,122,116,MIN,LL_Pts_C,Leandrinho
+17,5,00:38,121,116,MIN,LL_Pts_C,Leandrinho
+18,5,00:38,120,116,MIN,FR,Leandrinho
+19,5,00:38,120,116,SJO,FC,Duda
+20,5,00:47,120,116,SJO,LL_Pts_C,Figueredo
+21,5,00:47,120,115,SJO,LL_Pts_T,Figueredo
+22,5,00:47,120,115,MIN,substituicao_entra,Alexei
+23,5,00:47,120,115,MIN,substituicao_sai,Jackson Jr
+24,5,00:47,120,115,SJO,FR,Figueredo
+25,5,00:47,120,115,MIN,FC,Jackson Jr
+26,5,00:53,120,115,SJO,substituicao_entra,Mariani
+27,5,00:53,120,115,SJO,substituicao_sai,L Eltink
+28,5,00:53,120,115,SJO,tempo_tecnico,São José
+29,5,00:53,120,115,MIN,AS,Scott
+30,5,00:53,120,115,MIN,2_Pts_C,Alex
+31,5,01:12,118,115,MIN,RD,Leandrinho
+32,5,01:16,118,115,SJO,3_Pts_T,Figueredo
+33,5,01:38,118,115,MIN,LL_Pts_C,Scott
+34,5,01:38,117,115,MIN,AS,Leandrinho
+35,5,01:38,117,115,MIN,LL_Pts_C,Scott
+36,5,01:38,116,115,MIN,FR,Scott
+37,5,01:38,116,115,SJO,FC,L Eltink
+38,5,01:57,116,115,SJO,LL_Pts_C,Morillo
+39,5,01:57,116,114,SJO,LL_Pts_T,Morillo
+40,5,01:57,116,114,SJO,FR,Morillo
+41,5,01:57,116,114,MIN,FC,Jackson Jr
+42,5,02:13,116,114,MIN,2_Pts_C,Scott
+43,5,02:13,114,114,MIN,RO,Scott
+44,5,02:17,114,114,MIN,2_Pts_T,Leandrinho
+45,5,02:36,114,114,SJO,AS,Duda
+46,5,02:36,114,114,SJO,3_Pts_C,Morillo
+47,5,02:53,114,111,SJO,BR,Lupa
+48,5,02:53,114,111,MIN,ER,Alex
+49,5,03:15,114,111,MIN,RD,Minas
+50,5,03:16,114,111,SJO,3_Pts_T,Morillo
+51,5,03:36,114,111,MIN,AS,Leandrinho
+52,5,03:36,114,111,MIN,3_Pts_C,Jackson Jr
+53,5,03:54,111,111,SJO,AS,Figueredo
+54,5,03:54,111,111,SJO,2_Pts_C,Morillo
+55,5,03:56,111,109,SJO,RD,Duda
+56,5,03:59,111,109,MIN,2_Pts_T,Leandrinho
+57,5,04:04,111,109,MIN,RD,Leandrinho
+58,5,04:08,111,109,SJO,2_Pts_T,Morillo
+59,5,04:29,111,109,MIN,LL_Pts_C,Tyrone
+60,5,04:29,110,109,MIN,LL_Pts_C,Tyrone
+61,5,04:29,109,109,SJO,substituicao_entra,L Eltink
+62,5,04:29,109,109,SJO,substituicao_sai,Rafael
+63,5,04:29,109,109,MIN,FR,Tyrone
+64,5,04:29,109,109,SJO,FC,Rafael
+65,5,04:41,109,109,SJO,LL_Pts_C,Lupa
+66,5,04:41,109,108,SJO,LL_Pts_C,Lupa
+67,5,04:41,109,107,MIN,substituicao_entra,Jackson Jr
+68,5,04:41,109,107,MIN,substituicao_sai,Deodato
+69,5,04:41,109,107,SJO,FR,Lupa
+70,5,04:41,109,107,MIN,FC,Deodato
+71,5,04:50,109,107,MIN,2_Pts_C,Tyrone
+72,5,05:00,107,107,,inicio_quarto,
+73,5,05:00,107,107,MIN,substituicao_entra,Deodato
+74,5,05:00,107,107,MIN,substituicao_sai,Jackson Jr
+75,4,00:00,107,107,,fim_quarto,
+76,4,00:01,107,107,MIN,3_Pts_T,Leandrinho
+77,4,00:02,107,107,SJO,2_Pts_C,Figueredo
+78,4,00:11,107,105,SJO,tempo_tecnico,São José
+79,4,00:11,107,105,MIN,LL_Pts_C,Alex
+80,4,00:11,106,105,MIN,LL_Pts_T,Alex
+81,4,00:11,106,105,MIN,FR,Alex
+82,4,00:11,106,105,SJO,FC,Figueredo
+83,4,00:17,106,105,SJO,AS,Figueredo
+84,4,00:17,106,105,SJO,2_Pts_C,Rafael
+85,4,00:18,106,103,SJO,RD,Duda
+86,4,00:22,106,103,MIN,3_Pts_T,Jackson Jr
+87,4,00:38,106,103,SJO,AS,Morillo
+88,4,00:38,106,103,SJO,2_Pts_C,Lupa
+89,4,00:44,106,101,MIN,ER,Jackson Jr
+90,4,00:45,106,101,SJO,2_Pts_C,Morillo
+91,4,01:00,106,99,MIN,LL_Pts_C,Jackson Jr
+92,4,01:00,105,99,MIN,LL_Pts_C,Jackson Jr
+93,4,01:00,104,99,MIN,FR,Jackson Jr
+94,4,01:00,104,99,SJO,FC,Duda
+95,4,01:06,104,99,SJO,LL_Pts_C,Rafael
+96,4,01:06,104,98,SJO,LL_Pts_C,Rafael
+97,4,01:06,104,97,SJO,FR,Rafael
+98,4,01:06,104,97,MIN,FC,Tyrone
+99,4,01:10,104,97,SJO,BR,Duda
+100,4,01:10,104,97,MIN,ER,Tyrone
+101,4,01:21,104,97,MIN,tempo_tecnico,Minas
+102,4,01:21,104,97,SJO,AS,Morillo
+103,4,01:21,104,97,SJO,3_Pts_C,Figueredo
+104,4,01:29,104,94,SJO,BR,Morillo
+105,4,01:29,104,94,MIN,ER,Jackson Jr
+106,4,01:35,104,94,SJO,LL_Pts_C,Duda
+107,4,01:35,104,93,SJO,LL_Pts_C,Duda
+108,4,01:35,104,92,SJO,FR,Duda
+109,4,01:35,104,92,MIN,FC,Alex
+110,4,01:39,104,92,SJO,RO,Rafael
+111,4,01:43,104,92,SJO,3_Pts_T,Duda
+112,4,01:48,104,92,SJO,RD,Rafael
+113,4,01:48,104,92,MIN,LL_Pts_T,Tyrone
+114,4,01:48,104,92,MIN,LL_Pts_C,Tyrone
+115,4,01:48,103,92,MIN,FR,Tyrone
+116,4,01:48,103,92,SJO,FC,Rafael
+117,4,01:50,103,92,SJO,LL_Pts_C,Morillo
+118,4,01:50,103,91,SJO,LL_Pts_T,Morillo
+119,4,01:50,103,91,SJO,FR,Morillo
+120,4,01:50,103,91,MIN,FC,Tyrone
+121,4,02:02,103,91,MIN,LL_Pts_C,Scott
+122,4,02:02,102,91,MIN,LL_Pts_T,Scott
+123,4,02:02,102,91,MIN,FR,Scott
+124,4,02:02,102,91,SJO,FC,Rafael
+125,4,02:07,102,91,MIN,BR,Tyrone
+126,4,02:07,102,91,SJO,ER,Figueredo
+127,4,02:21,102,91,MIN,2_Pts_C,Leandrinho
+128,4,02:43,100,91,SJO,AS,Morillo
+129,4,02:43,100,91,SJO,3_Pts_C,Duda
+130,4,02:45,100,88,SJO,RO,São José
+131,4,02:45,100,88,MIN,TO,Scott
+132,4,02:45,100,88,SJO,2_Pts_T,Morillo
+133,4,02:59,100,88,MIN,AS,Leandrinho
+134,4,02:59,100,88,MIN,2_Pts_C,Jackson Jr
+135,4,03:16,98,88,SJO,substituicao_entra,Duda
+136,4,03:16,98,88,SJO,substituicao_sai,Mariani
+137,4,03:16,98,88,MIN,tempo_tecnico,Minas
+138,4,03:17,98,88,SJO,2_Pts_C,Lupa
+139,4,03:22,98,86,SJO,BR,Lupa
+140,4,03:22,98,86,MIN,ER,Tyrone
+141,4,03:34,98,86,SJO,AS,Figueredo
+142,4,03:34,98,86,SJO,2_Pts_C,Lupa
+143,4,03:49,98,84,MIN,AS,Alex
+144,4,03:49,98,84,MIN,2_Pts_C,Jackson Jr
+145,4,04:00,96,84,SJO,3_Pts_C,Figueredo
+146,4,04:11,96,81,SJO,tempo_tecnico,São José
+147,4,04:11,96,81,MIN,AS,Alex
+148,4,04:11,96,81,MIN,2_Pts_C,Scott
+149,4,04:31,94,81,SJO,LL_Pts_C,Morillo
+150,4,04:31,94,80,SJO,LL_Pts_C,Morillo
+151,4,04:31,94,79,SJO,FR,Morillo
+152,4,04:31,94,79,MIN,FC,Alex
+153,4,04:31,94,79,SJO,RO,Lupa
+154,4,04:35,94,79,SJO,3_Pts_T,Morillo
+155,4,04:37,94,79,SJO,RO,Rafael
+156,4,04:41,94,79,SJO,3_Pts_T,Mariani
+157,4,04:58,94,79,MIN,AS,Tyrone
+158,4,04:58,94,79,MIN,2_Pts_C,Alex
+159,4,05:17,92,79,SJO,3_Pts_C,Mariani
+160,4,05:22,92,76,SJO,BR,Mariani
+161,4,05:22,92,76,MIN,ER,Tyrone
+162,4,05:23,92,76,MIN,RO,Tyrone
+163,4,05:26,92,76,MIN,2_Pts_T,Tyrone
+164,4,05:40,92,76,SJO,AS,Lupa
+165,4,05:40,92,76,SJO,2_Pts_C,Rafael
+166,4,05:52,92,74,MIN,LL_Pts_C,Leandrinho
+167,4,05:52,91,74,MIN,AS,Alex
+168,4,05:52,91,74,MIN,LL_Pts_C,Leandrinho
+169,4,05:52,90,74,MIN,FR,Leandrinho
+170,4,05:52,90,74,SJO,FC,Lupa
+171,4,06:00,90,74,MIN,FR,Jackson Jr
+172,4,06:00,90,74,SJO,ER,Rafael
+173,4,06:00,90,74,SJO,FC_O,Rafael
+174,4,06:11,90,74,MIN,AS,Jackson Jr
+175,4,06:11,90,74,MIN,2_Pts_C,Alex
+176,4,06:13,88,74,MIN,RD,Jackson Jr
+177,4,06:16,88,74,SJO,2_Pts_T,Morillo
+178,4,06:21,88,74,SJO,RD,Morillo
+179,4,06:24,88,74,MIN,3_Pts_T,Alex
+180,4,06:34,88,74,SJO,substituicao_entra,Rafael
+181,4,06:34,88,74,SJO,substituicao_sai,L Eltink
+182,4,06:34,88,74,MIN,FR,Leandrinho
+183,4,06:34,88,74,SJO,FC,Figueredo
+184,4,06:39,88,74,MIN,FR,Leandrinho
+185,4,06:39,88,74,SJO,FC,L Eltink
+186,4,06:41,88,74,MIN,BR,Alex
+187,4,06:41,88,74,SJO,ER,Morillo
+188,4,07:03,88,74,MIN,LL_Pts_C,Scott
+189,4,07:03,87,74,MIN,LL_Pts_C,Scott
+190,4,07:03,86,74,MIN,FR,Scott
+191,4,07:03,86,74,SJO,FC,Lupa
+192,4,07:04,86,74,MIN,RO,Scott
+193,4,07:06,86,74,MIN,3_Pts_T,Jackson Jr
+194,4,07:13,86,74,MIN,substituicao_entra,Alex
+195,4,07:13,86,74,MIN,substituicao_entra,Tyrone
+196,4,07:13,86,74,MIN,substituicao_sai,Gui Carvalho
+197,4,07:13,86,74,MIN,substituicao_sai,Black
+198,4,07:13,86,74,MIN,tempo_tecnico,Minas
+199,4,07:13,86,74,SJO,AS,Figueredo
+200,4,07:13,86,74,SJO,3_Pts_C,Mariani
+201,4,07:25,86,71,SJO,RO,L Eltink
+202,4,07:30,86,71,SJO,3_Pts_T,Morillo
+203,4,07:35,86,71,SJO,BR,Mariani
+204,4,07:35,86,71,MIN,ER,Leandrinho
+205,4,07:50,86,71,SJO,3_Pts_C,Figueredo
+206,4,08:00,86,68,SJO,FR,Figueredo
+207,4,08:00,86,68,MIN,FC,Gui Carvalho
+208,4,08:05,86,68,SJO,FR,L Eltink
+209,4,08:05,86,68,MIN,FC,Leandrinho
+210,4,08:26,86,68,MIN,AS,Leandrinho
+211,4,08:26,86,68,MIN,3_Pts_C,Jackson Jr
+212,4,08:44,83,68,SJO,AS,Morillo
+213,4,08:44,83,68,SJO,3_Pts_C,Figueredo
+214,4,08:57,83,65,MIN,LL_Pts_C,Gui Carvalho
+215,4,08:57,82,65,MIN,LL_Pts_C,Gui Carvalho
+216,4,08:57,81,65,MIN,FR,Gui Carvalho
+217,4,08:57,81,65,SJO,FC,Morillo
+218,4,08:57,81,65,MIN,RO,Gui Carvalho
+219,4,08:59,81,65,MIN,2_Pts_T,Jackson Jr
+220,4,09:15,81,65,SJO,2_Pts_C,Figueredo
+221,4,09:35,81,63,SJO,FR,Figueredo
+222,4,09:35,81,63,MIN,ER,Jackson Jr
+223,4,09:35,81,63,MIN,FC_O,Jackson Jr
+224,4,09:40,81,63,MIN,RD,Minas
+225,4,09:42,81,63,SJO,3_Pts_T,Mariani
+226,4,10:00,81,63,,inicio_quarto,
+227,3,00:00,81,63,,fim_quarto,
+228,3,00:07,81,63,MIN,2_Pts_C,Jackson Jr
+229,3,00:13,79,63,SJO,AS,Sérgio
+230,3,00:13,79,63,SJO,2_Pts_C,Figueredo
+231,3,00:14,79,61,SJO,RO,Sérgio
+232,3,00:17,79,61,SJO,3_Pts_T,L Eltink
+233,3,00:30,79,61,MIN,ER,Black
+234,3,00:30,79,61,MIN,RO,Black
+235,3,00:32,79,61,MIN,3_Pts_T,Alex
+236,3,00:50,79,61,MIN,BR,Alex
+237,3,00:50,79,61,SJO,ER,L Eltink
+238,3,00:52,79,61,SJO,RD,L Eltink
+239,3,00:55,79,61,MIN,3_Pts_T,Queirós
+240,3,01:15,79,61,MIN,RD,Black
+241,3,01:19,79,61,SJO,2_Pts_T,Mariani
+242,3,01:33,79,61,SJO,substituicao_entra,L Eltink
+243,3,01:33,79,61,SJO,substituicao_sai,Ambrosino
+244,3,01:33,79,61,MIN,LL_Pts_C,Jackson Jr
+245,3,01:33,78,61,MIN,LL_Pts_C,Jackson Jr
+246,3,01:33,77,61,MIN,substituicao_entra,Black
+247,3,01:33,77,61,MIN,substituicao_sai,Tyrone
+248,3,01:33,77,61,MIN,FR,Jackson Jr
+249,3,01:33,77,61,SJO,FC,Sérgio
+250,3,01:51,77,61,MIN,RD,Minas
+251,3,01:53,77,61,SJO,LL_Pts_T,Eugeniusz
+252,3,01:53,77,61,SJO,LL_Pts_C,Eugeniusz
+253,3,01:53,77,60,SJO,substituicao_entra,Figueredo
+254,3,01:53,77,60,SJO,substituicao_sai,Morillo
+255,3,01:53,77,60,MIN,substituicao_entra,Gui Carvalho
+256,3,01:53,77,60,MIN,substituicao_sai,Leandrinho
+257,3,01:53,77,60,SJO,FR,Eugeniusz
+258,3,01:53,77,60,MIN,FC,Queirós
+259,3,01:56,77,60,MIN,2_Pts_C,Alex
+260,3,01:56,75,60,MIN,RO,Alex
+261,3,02:02,75,60,MIN,3_Pts_T,Queirós
+262,3,02:15,75,60,MIN,BR,Leandrinho
+263,3,02:15,75,60,SJO,ER,Sérgio
+264,3,02:20,75,60,MIN,LL_Pts_C,Leandrinho
+265,3,02:20,74,60,MIN,LL_Pts_C,Leandrinho
+266,3,02:20,73,60,SJO,substituicao_entra,Sérgio
+267,3,02:20,73,60,SJO,substituicao_entra,Eugeniusz
+268,3,02:20,73,60,SJO,substituicao_sai,Lupa
+269,3,02:20,73,60,SJO,substituicao_sai,Duda
+270,3,02:20,73,60,MIN,FR,Leandrinho
+271,3,02:20,73,60,SJO,FC,Lupa
+272,3,02:29,73,60,MIN,RD,Leandrinho
+273,3,02:33,73,60,SJO,3_Pts_T,Duda
+274,3,02:49,73,60,MIN,2_Pts_C,Leandrinho
+275,3,02:54,71,60,SJO,ER,Lupa
+276,3,02:54,71,60,SJO,FC_T,Lupa
+277,3,02:54,71,60,MIN,ER,Leandrinho
+278,3,02:54,71,60,MIN,FC_T,Leandrinho
+279,3,03:02,71,60,MIN,RD,Tyrone
+280,3,03:06,71,60,SJO,2_Pts_T,Morillo
+281,3,03:13,71,60,SJO,substituicao_entra,Mariani
+282,3,03:13,71,60,SJO,substituicao_sai,Figueredo
+283,3,03:13,71,60,MIN,substituicao_entra,Queirós
+284,3,03:13,71,60,MIN,substituicao_sai,Scott
+285,3,03:13,71,60,SJO,tempo_tecnico,São José
+286,3,03:16,71,60,MIN,AS,Tyrone
+287,3,03:16,71,60,MIN,2_Pts_C,Leandrinho
+288,3,03:28,69,60,MIN,RD,Tyrone
+289,3,03:32,69,60,SJO,3_Pts_T,Duda
+290,3,03:37,69,60,SJO,RD,Morillo
+291,3,03:41,69,60,MIN,2_Pts_T,Tyrone
+292,3,03:52,69,60,SJO,AS,Figueredo
+293,3,03:52,69,60,SJO,2_Pts_C,Lupa
+294,3,04:18,69,58,MIN,AS,Scott
+295,3,04:18,69,58,MIN,2_Pts_C,Alex
+296,3,04:26,67,58,MIN,BR,Scott
+297,3,04:26,67,58,SJO,ER,Figueredo
+298,3,04:41,67,58,SJO,substituicao_entra,Ambrosino
+299,3,04:41,67,58,SJO,substituicao_sai,Rafael
+300,3,04:41,67,58,SJO,FR,Lupa
+301,3,04:41,67,58,MIN,ER,Scott
+302,3,04:41,67,58,MIN,FC_O,Scott
+303,3,04:46,67,58,MIN,RD,Scott
+304,3,04:50,67,58,SJO,2_Pts_T,Rafael
+305,3,05:00,67,58,MIN,3_Pts_C,Leandrinho
+306,3,05:16,64,58,MIN,RD,Minas
+307,3,05:17,64,58,SJO,3_Pts_T,Morillo
+308,3,05:39,64,58,MIN,LL_Pts_C,Leandrinho
+309,3,05:39,63,58,MIN,FR,Leandrinho
+310,3,05:39,63,58,SJO,FC,Morillo
+311,3,05:39,63,58,MIN,AS,Scott
+312,3,05:39,63,58,MIN,3_Pts_C,Leandrinho
+313,3,05:48,60,58,SJO,LL_Pts_C,Morillo
+314,3,05:48,60,57,SJO,LL_Pts_C,Morillo
+315,3,05:48,60,56,MIN,substituicao_entra,Jackson Jr
+316,3,05:48,60,56,MIN,substituicao_sai,Deodato
+317,3,05:48,60,56,SJO,FR,Morillo
+318,3,05:48,60,56,MIN,FC,Deodato
+319,3,05:57,60,56,SJO,RO,São José
+320,3,05:57,60,56,SJO,2_Pts_T,Figueredo
+321,3,06:21,60,56,MIN,2_Pts_C,Leandrinho
+322,3,06:22,58,56,MIN,RD,Leandrinho
+323,3,06:23,58,56,SJO,2_Pts_T,Lupa
+324,3,06:23,58,56,SJO,RO,Lupa
+325,3,06:31,58,56,SJO,2_Pts_T,Duda
+326,3,06:43,58,56,SJO,FR,Morillo
+327,3,06:43,58,56,MIN,FC,Deodato
+328,3,06:43,58,56,MIN,RD,Deodato
+329,3,06:45,58,56,SJO,3_Pts_T,Duda
+330,3,06:48,58,56,SJO,RD,Figueredo
+331,3,06:50,58,56,MIN,3_Pts_T,Tyrone
+332,3,07:00,58,56,SJO,2_Pts_C,Figueredo
+333,3,07:23,58,54,MIN,LL_Pts_C,Leandrinho
+334,3,07:23,57,54,MIN,LL_Pts_T,Leandrinho
+335,3,07:23,57,54,MIN,FR,Leandrinho
+336,3,07:23,57,54,SJO,FC,Figueredo
+337,3,07:28,57,54,MIN,FR,Alex
+338,3,07:28,57,54,SJO,FC,Duda
+339,3,07:44,57,54,SJO,AS,Morillo
+340,3,07:44,57,54,SJO,2_Pts_C,Lupa
+341,3,07:45,57,52,SJO,RD,Rafael
+342,3,07:51,57,52,MIN,2_Pts_T,Tyrone
+343,3,07:56,57,52,MIN,RD,Deodato
+344,3,07:59,57,52,SJO,3_Pts_T,Morillo
+345,3,08:17,57,52,MIN,AS,Alex
+346,3,08:17,57,52,MIN,2_Pts_C,Tyrone
+347,3,08:24,55,52,SJO,AS,Duda
+348,3,08:24,55,52,SJO,2_Pts_C,Lupa
+349,3,08:46,55,50,MIN,AS,Alex
+350,3,08:46,55,50,MIN,2_Pts_C,Tyrone
+351,3,08:52,53,50,SJO,2_Pts_C,Rafael
+352,3,09:13,53,48,MIN,AS,Scott
+353,3,09:13,53,48,MIN,3_Pts_C,Deodato
+354,3,09:32,50,48,SJO,AS,Morillo
+355,3,09:32,50,48,SJO,2_Pts_C,Lupa
+356,3,09:37,50,46,SJO,RD,Morillo
+357,3,09:41,50,46,MIN,2_Pts_T,Leandrinho
+358,3,10:00,50,46,,inicio_quarto,
+359,2,00:00,50,46,,fim_quarto,
+360,2,00:00,50,46,MIN,3_Pts_T,Black
+361,2,00:01,50,46,MIN,RD,Black
+362,2,00:01,50,46,SJO,LL_Pts_T,Mariani
+363,2,00:01,50,46,SJO,substituicao_entra,Eugeniusz
+364,2,00:01,50,46,SJO,substituicao_sai,Figueredo
+365,2,00:01,50,46,SJO,FR,Mariani
+366,2,00:01,50,46,MIN,FC,Tyrone
+367,2,00:01,50,46,SJO,3_Pts_C,Mariani
+368,2,00:12,50,43,MIN,AS,Leandrinho
+369,2,00:12,50,43,MIN,2_Pts_C,Deodato
+370,2,00:17,48,43,MIN,BR,Leandrinho
+371,2,00:17,48,43,SJO,ER,Mariani
+372,2,00:28,48,43,SJO,RO,Morillo
+373,2,00:31,48,43,SJO,3_Pts_T,Rafael
+374,2,00:41,48,43,SJO,BR,Rafael
+375,2,00:41,48,43,MIN,ER,Gui Carvalho
+376,2,00:47,48,43,MIN,BR,Gui Carvalho
+377,2,00:47,48,43,SJO,ER,Rafael
+378,2,00:58,48,43,MIN,substituicao_entra,Black
+379,2,00:58,48,43,MIN,substituicao_entra,Deodato
+380,2,00:58,48,43,MIN,substituicao_sai,Scott
+381,2,00:58,48,43,MIN,substituicao_sai,Alex
+382,2,00:58,48,43,SJO,tempo_tecnico,São José
+383,2,00:58,48,43,MIN,ER,Gui Carvalho
+384,2,01:08,48,43,SJO,LL_Pts_C,Lupa
+385,2,01:08,48,42,SJO,LL_Pts_C,Lupa
+386,2,01:08,48,41,SJO,FR,Lupa
+387,2,01:08,48,41,MIN,FC,Leandrinho
+388,2,01:18,48,41,MIN,2_Pts_C,Alex
+389,2,01:27,46,41,MIN,substituicao_entra,Gui Carvalho
+390,2,01:27,46,41,MIN,substituicao_sai,Jackson Jr
+391,2,01:27,46,41,MIN,FR,Leandrinho
+392,2,01:27,46,41,SJO,FC,Rafael
+393,2,01:30,46,41,MIN,RD,Leandrinho
+394,2,01:34,46,41,SJO,3_Pts_T,Figueredo
+395,2,01:37,46,41,SJO,RO,São José
+396,2,01:37,46,41,MIN,TO,Scott
+397,2,01:37,46,41,SJO,2_Pts_T,Mariani
+398,2,01:48,46,41,SJO,BR,Morillo
+399,2,01:48,46,41,MIN,ER,Alex
+400,2,02:05,46,41,MIN,tempo_tecnico,Minas
+401,2,02:05,46,41,SJO,AS,Mariani
+402,2,02:05,46,41,SJO,3_Pts_C,Morillo
+403,2,02:24,46,38,SJO,RD,Rafael
+404,2,02:27,46,38,MIN,3_Pts_T,Jackson Jr
+405,2,02:45,46,38,SJO,LL_Pts_C,Rafael
+406,2,02:45,46,37,SJO,LL_Pts_C,Rafael
+407,2,02:48,46,36,SJO,FR,Rafael
+408,2,02:48,46,36,MIN,FC,Tyrone
+409,2,02:50,46,36,SJO,RD,Mariani
+410,2,02:53,46,36,MIN,2_Pts_T,Alex
+411,2,03:05,46,36,MIN,RD,Scott
+412,2,03:05,46,36,SJO,LL_Pts_T,Morillo
+413,2,03:05,46,36,SJO,LL_Pts_C,Morillo
+414,2,03:05,46,35,SJO,FR,Morillo
+415,2,03:05,46,35,MIN,FC,Alex
+416,2,03:21,46,35,MIN,AS,Scott
+417,2,03:21,46,35,MIN,3_Pts_C,Jackson Jr
+418,2,03:38,43,35,SJO,substituicao_entra,Rafael
+419,2,03:38,43,35,SJO,substituicao_sai,Ambrosino
+420,2,03:38,43,35,SJO,LL_Pts_C,Mariani
+421,2,03:38,43,34,SJO,LL_Pts_C,Mariani
+422,2,03:38,43,33,SJO,FR,Mariani
+423,2,03:38,43,33,MIN,FC,Jackson Jr
+424,2,03:51,43,33,MIN,2_Pts_C,Scott
+425,2,03:51,41,33,MIN,RO,Scott
+426,2,03:56,41,33,MIN,2_Pts_T,Alex
+427,2,04:12,41,33,SJO,LL_Pts_C,Morillo
+428,2,04:12,41,32,SJO,LL_Pts_C,Morillo
+429,2,04:12,41,31,MIN,substituicao_entra,Alex
+430,2,04:12,41,31,MIN,substituicao_sai,Deodato
+431,2,04:12,41,31,SJO,FR,Morillo
+432,2,04:12,41,31,MIN,FC,Deodato
+433,2,04:28,41,31,MIN,ER,Tyrone
+434,2,04:35,41,31,SJO,LL_Pts_C,Ambrosino
+435,2,04:35,41,30,SJO,LL_Pts_C,Ambrosino
+436,2,04:35,41,29,SJO,substituicao_entra,Lupa
+437,2,04:35,41,29,SJO,substituicao_sai,Sérgio
+438,2,04:35,41,29,SJO,FR,Ambrosino
+439,2,04:35,41,29,MIN,FC,Scott
+440,2,04:51,41,29,MIN,AS,Jackson Jr
+441,2,04:51,41,29,MIN,EN,Tyrone
+442,2,04:58,39,29,MIN,BR,Tyrone
+443,2,04:58,39,29,SJO,ER,Morillo
+444,2,05:07,39,29,SJO,substituicao_entra,Figueredo
+445,2,05:07,39,29,SJO,substituicao_entra,Morillo
+446,2,05:07,39,29,SJO,substituicao_sai,Duda
+447,2,05:07,39,29,SJO,substituicao_sai,Eugeniusz
+448,2,05:07,39,29,SJO,FR,Eugeniusz
+449,2,05:07,39,29,MIN,FC,Jackson Jr
+450,2,05:12,39,29,MIN,2_Pts_C,Jackson Jr
+451,2,05:24,37,29,SJO,2_Pts_C,Ambrosino
+452,2,05:24,37,27,SJO,RO,Ambrosino
+453,2,05:26,37,27,SJO,3_Pts_T,Duda
+454,2,05:51,37,27,MIN,3_Pts_C,Tyrone
+455,2,06:02,34,27,SJO,2_Pts_C,Eugeniusz
+456,2,06:07,34,25,SJO,BR,Eugeniusz
+457,2,06:07,34,25,MIN,ER,Tyrone
+458,2,06:08,34,25,MIN,RO,Tyrone
+459,2,06:12,34,25,MIN,3_Pts_T,Tyrone
+460,2,06:18,34,25,MIN,RD,Leandrinho
+461,2,06:23,34,25,SJO,3_Pts_T,Mariani
+462,2,06:34,34,25,MIN,2_Pts_C,Scott
+463,2,06:46,32,25,MIN,substituicao_entra,Leandrinho
+464,2,06:46,32,25,MIN,substituicao_entra,Tyrone
+465,2,06:46,32,25,MIN,substituicao_sai,Alexei
+466,2,06:46,32,25,MIN,substituicao_sai,Black
+467,2,06:46,32,25,MIN,FR,Deodato
+468,2,06:46,32,25,SJO,FC,Sérgio
+469,2,06:47,32,25,MIN,RD,Deodato
+470,2,06:50,32,25,SJO,2_Pts_T,Eugeniusz
+471,2,06:54,32,25,SJO,BR,Eugeniusz
+472,2,06:54,32,25,MIN,ER,Deodato
+473,2,07:11,32,25,MIN,BR,Deodato
+474,2,07:11,32,25,SJO,ER,Duda
+475,2,07:26,32,25,SJO,FR,Ambrosino
+476,2,07:26,32,25,MIN,FC,Alexei
+477,2,07:26,32,25,SJO,RD,Ambrosino
+478,2,07:29,32,25,MIN,3_Pts_T,Jackson Jr
+479,2,07:38,32,25,MIN,FR,Deodato
+480,2,07:38,32,25,SJO,FC,Eugeniusz
+481,2,07:59,32,25,MIN,substituicao_entra,Scott
+482,2,07:59,32,25,MIN,substituicao_sai,Shilton
+483,2,08:01,32,25,SJO,AS,Eugeniusz
+484,2,08:01,32,25,SJO,2_Pts_C,Ambrosino
+485,2,08:03,32,23,SJO,RD,Eugeniusz
+486,2,08:06,32,23,MIN,3_Pts_T,Deodato
+487,2,08:27,32,23,SJO,LL_Pts_C,Eugeniusz
+488,2,08:27,32,22,SJO,LL_Pts_C,Eugeniusz
+489,2,08:27,32,21,SJO,FR,Eugeniusz
+490,2,08:27,32,21,MIN,FC,Alexei
+491,2,08:43,32,21,MIN,2_Pts_C,Shilton
+492,2,08:53,30,21,MIN,RO,Black
+493,2,08:58,30,21,MIN,2_Pts_T,Black
+494,2,09:09,30,21,MIN,RD,Shilton
+495,2,09:13,30,21,SJO,3_Pts_T,Duda
+496,2,09:19,30,21,SJO,RD,Sérgio
+497,2,09:22,30,21,MIN,3_Pts_T,Jackson Jr
+498,2,09:33,30,21,MIN,RD,Black
+499,2,09:36,30,21,SJO,2_Pts_T,Sérgio
+500,2,09:36,30,21,SJO,RO,Sérgio
+501,2,09:37,30,21,SJO,2_Pts_T,Ambrosino
+502,2,09:37,30,21,SJO,RO,Ambrosino
+503,2,09:43,30,21,SJO,2_Pts_T,Ambrosino
+504,2,10:00,30,21,,inicio_quarto,
+505,1,00:00,30,21,,fim_quarto,
+506,1,00:01,30,21,SJO,3_Pts_T,Duda
+507,1,00:07,30,21,MIN,AS,Scott
+508,1,00:07,30,21,MIN,2_Pts_C,Black
+509,1,00:13,28,21,MIN,RD,Alex
+510,1,00:17,28,21,SJO,3_Pts_T,Mariani
+511,1,00:37,28,21,MIN,AS,Alexei
+512,1,00:37,28,21,MIN,2_Pts_C,Scott
+513,1,00:52,26,21,SJO,substituicao_entra,Duda
+514,1,00:52,26,21,SJO,substituicao_sai,Morillo
+515,1,00:52,26,21,MIN,RD,Minas
+516,1,00:54,26,21,SJO,3_Pts_T,Morillo
+517,1,01:03,26,21,MIN,substituicao_entra,Alexei
+518,1,01:03,26,21,MIN,substituicao_sai,Leandrinho
+519,1,01:03,26,21,SJO,FR,Morillo
+520,1,01:03,26,21,MIN,FC,Alex
+521,1,01:20,26,21,MIN,AS,Alex
+522,1,01:20,26,21,MIN,LL_Pts_C,Scott
+523,1,01:20,25,21,MIN,LL_Pts_T,Scott
+524,1,01:20,25,21,SJO,substituicao_entra,Ambrosino
+525,1,01:20,25,21,SJO,substituicao_entra,Eugeniusz
+526,1,01:20,25,21,SJO,substituicao_sai,Rafael
+527,1,01:20,25,21,SJO,substituicao_sai,Figueredo
+528,1,01:20,25,21,MIN,substituicao_entra,Jackson Jr
+529,1,01:20,25,21,MIN,substituicao_entra,Black
+530,1,01:20,25,21,MIN,substituicao_sai,Deodato
+531,1,01:20,25,21,MIN,substituicao_sai,Tyrone
+532,1,01:20,25,21,MIN,FR,Scott
+533,1,01:20,25,21,SJO,FC,Mariani
+534,1,01:48,25,21,SJO,3_Pts_C,Morillo
+535,1,01:49,25,18,MIN,2_Pts_C,Deodato
+536,1,01:54,23,18,MIN,BR,Deodato
+537,1,01:54,23,18,SJO,ER,Morillo
+538,1,02:24,23,18,MIN,AS,Leandrinho
+539,1,02:24,23,18,MIN,2_Pts_C,Deodato
+540,1,02:31,21,18,MIN,BR,Scott
+541,1,02:31,21,18,SJO,ER,Figueredo
+542,1,02:45,21,18,MIN,AS,Leandrinho
+543,1,02:45,21,18,MIN,2_Pts_C,Tyrone
+544,1,02:57,19,18,SJO,AS,Morillo
+545,1,02:57,19,18,SJO,2_Pts_C,Rafael
+546,1,03:03,19,16,SJO,BR,Figueredo
+547,1,03:03,19,16,MIN,ER,Leandrinho
+548,1,03:05,19,16,MIN,RO,Alex
+549,1,03:09,19,16,MIN,2_Pts_T,Tyrone
+550,1,03:15,19,16,MIN,BR,Scott
+551,1,03:15,19,16,SJO,ER,Morillo
+552,1,03:27,19,16,SJO,RO,São José
+553,1,03:28,19,16,SJO,2_Pts_T,Lupa
+554,1,03:47,19,16,MIN,ER,Deodato
+555,1,03:59,19,16,SJO,substituicao_entra,Mariani
+556,1,03:59,19,16,SJO,substituicao_sai,Duda
+557,1,03:59,19,16,MIN,tempo_tecnico,Minas
+558,1,04:00,19,16,SJO,AS,Duda
+559,1,04:00,19,16,SJO,3_Pts_C,Morillo
+560,1,04:04,19,13,SJO,RD,Rafael
+561,1,04:07,19,13,MIN,3_Pts_T,Alex
+562,1,04:09,19,13,MIN,RO,Leandrinho
+563,1,04:15,19,13,MIN,3_Pts_T,Deodato
+564,1,04:31,19,13,SJO,3_Pts_C,Morillo
+565,1,04:41,19,10,SJO,RD,Rafael
+566,1,04:48,19,10,MIN,3_Pts_T,Leandrinho
+567,1,04:54,19,10,MIN,RD,Tyrone
+568,1,04:58,19,10,SJO,3_Pts_T,Figueredo
+569,1,05:13,19,10,MIN,AS,Tyrone
+570,1,05:13,19,10,MIN,3_Pts_C,Deodato
+571,1,05:27,16,10,SJO,AS,Duda
+572,1,05:27,16,10,SJO,3_Pts_C,Morillo
+573,1,05:44,16,7,SJO,tempo_tecnico,São José
+574,1,05:44,16,7,MIN,EN,Tyrone
+575,1,05:49,14,7,MIN,BR,Tyrone
+576,1,05:49,14,7,SJO,ER,Figueredo
+577,1,06:06,14,7,MIN,AS,Leandrinho
+578,1,06:06,14,7,MIN,EN,Scott
+579,1,06:14,12,7,MIN,BR,Deodato
+580,1,06:14,12,7,SJO,ER,Duda
+581,1,06:26,12,7,MIN,AS,Leandrinho
+582,1,06:26,12,7,MIN,3_Pts_C,Tyrone
+583,1,06:33,9,7,MIN,BR,Leandrinho
+584,1,06:33,9,7,SJO,ER,Rafael
+585,1,06:44,9,7,SJO,RD,Morillo
+586,1,06:49,9,7,MIN,2_Pts_T,Deodato
+587,1,07:07,9,7,SJO,AS,Figueredo
+588,1,07:07,9,7,SJO,2_Pts_C,Lupa
+589,1,07:16,9,5,MIN,AS,Leandrinho
+590,1,07:16,9,5,MIN,2_Pts_C,Scott
+591,1,07:40,7,5,MIN,RD,Tyrone
+592,1,07:40,7,5,SJO,LL_Pts_T,Lupa
+593,1,07:40,7,5,SJO,LL_Pts_C,Lupa
+594,1,07:40,7,4,SJO,FR,Lupa
+595,1,07:40,7,4,MIN,FC,Deodato
+596,1,07:57,7,4,MIN,AS,Leandrinho
+597,1,07:57,7,4,MIN,3_Pts_C,Tyrone
+598,1,08:12,4,4,SJO,2_Pts_C,Lupa
+599,1,08:14,4,2,SJO,RD,Duda
+600,1,08:25,4,2,SJO,TO,Duda
+601,1,08:25,4,2,MIN,2_Pts_T,Alex
+602,1,08:28,4,2,MIN,RD,Alex
+603,1,08:34,4,2,SJO,3_Pts_T,Figueredo
+604,1,08:53,4,2,MIN,AS,Alex
+605,1,08:53,4,2,MIN,2_Pts_C,Tyrone
+606,1,08:56,2,2,MIN,RD,Deodato
+607,1,09:03,2,2,SJO,3_Pts_T,Duda
+608,1,09:07,2,2,SJO,FR,Rafael
+609,1,09:07,2,2,MIN,ER,Scott
+610,1,09:07,2,2,MIN,FC_O,Scott
+611,1,09:23,2,2,SJO,AS,Lupa
+612,1,09:23,2,2,SJO,2_Pts_C,Figueredo
+613,1,09:43,2,0,MIN,2_Pts_C,Alex
+614,1,10:00,0,0,SJO,substituicao_entra,Lupa
+615,1,10:00,0,0,SJO,substituicao_entra,Rafael
+616,1,10:00,0,0,SJO,substituicao_entra,Duda
+617,1,10:00,0,0,SJO,substituicao_entra,Figueredo
+618,1,10:00,0,0,SJO,substituicao_entra,Morillo
+619,1,10:00,0,0,MIN,substituicao_entra,Scott
+620,1,10:00,0,0,MIN,substituicao_entra,Ribeiro
+621,1,10:00,0,0,MIN,substituicao_entra,Alex
+622,1,10:00,0,0,MIN,substituicao_entra,Deodato
+623,1,10:00,0,0,MIN,substituicao_entra,Tyrone
+624,1,10:00,0,0,MIN,substituicao_entra,Leandrinho
+625,1,10:00,0,0,,inicio_partida,

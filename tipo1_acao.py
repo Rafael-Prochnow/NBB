@@ -67,7 +67,7 @@ a = re.sub('( erra tentativa para três pontos| acerta arremesso de três pontos
 '''
 
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=15')
+r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=54')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 def get_links_from(soup):
@@ -77,7 +77,7 @@ def get_links_from(soup):
     return links
 
 list_inoutControl = get_links_from(soup)
-del(list_inoutControl[:25])
+# del(list_inoutControl[:25])
 print(list_inoutControl)
 
 #######################################################################################################################
@@ -100,9 +100,63 @@ html_content = element.get_attribute('outerHTML')
 # passear o conteúdo em HTML e pegar o texto
 soup = BeautifulSoup(html_content, 'html.parser')
 acoes = soup.get_text()
+print(acoes)
 
 
-# realizar a limpeza dos dados obtidos
+def limpeza_tabela_um(acoes):
+    lista = [' 1º', ' 2º', ' 3º', ' 4º', ' 5º', ' 6º', ' 7º']
+    lista1 = ['\n1', '\n2', '\n3', '\n4', '\n5', '\n6', '\n7']
+    for n in range(len(lista)):
+        acoes = acoes.replace(lista[n], lista1[n])
+
+    c = re.sub('(			 |			 |			 )', ';', acoes)
+    c = c.replace('    ', ';')
+    c = c.translate({ord(c): "" for c in ".!_+"})
+
+    c = re.sub("(Fim  do quarto quarto|Fim  do terceiro quarto|"
+               "Fim  do segundo quarto|Fim  do primeiro quarto|"
+               "Fim  do período de prorragação)", ";1>fim_quarto;", c)
+
+    c = re.sub("(Início do  quarto quarto|Início do  terceiro quarto|"
+               "Início do  segundo quarto|Início do  de período de prorragação)", ";1>inicio_quarto;", c)
+
+    lista2 = ['Fim de partida', 'Início de partida', 'acerta arremesso de três pontos',
+              'erra tentativa para três pontos',
+              'acerta o lance livre', 'erra o lance livre', 'acerta arremesso de dois pontos',
+              'erra tentativa para dois pontos', 'pega rebote defensivo', 'pega rebote ofensivo', 'recupera a bola',
+              ' recupera posse de bola', 'Assistência do ', 'sofre falta', 'comete falta técnica',
+              'comete falta antidesportiva', 'comete falta ofensiva', 'comete falta desqualificante',
+              'comete falta', 'Entra ', 'Sai ', 'dá um toco', 'pede tempo', 'acerta enterrada']
+
+    lista3 = [';1>fim_partida;', ';1>inicio_partida;', '>3_Pts_C;1', '>3_Pts_T;1', '>LL_Pts_C;1', '>LL_Pts_T;1',
+              '>2_Pts_C;1', '>2_Pts_T;1', '>RD;1', '>RO;1', '>BR;1', '>BR;1', '>AS;', '>FR;1', '>FC_T;1', '>FC_A;1',
+              '>FC_O;1', '>FC_D;1', '>FC;1', '1>substituicao_entra;', '1>substituicao_sai;', '>TO;1', '>tempo_tecnico;',
+              '1>EN;1']
+
+    for n in range(len(lista2)):
+        c = c.replace(lista2[n], lista3[n])
+
+    # erros
+    c = re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
+               " comete violação de saída de quadra| comete violação de volta de quadra|"
+               " comete violação de condução)", ">ER;1", c)
+
+    # tirar os parenteses
+    c = c.replace(' (', ';')
+
+    # retiradas de informações inúteis
+    c = re.sub('(INÍCIO DE QUARTO |FIM DE QUARTO |FIM DE PARTIDA |'
+               'Tentativa para três pontos |É DE TRÊS |1 PONTO |Lance Livre Errado |Tentativa para dois pontos |'
+               '2 PONTOS |REBOTE DEFENSIVO |REBOTE OFENSIVO |Bola recuperada |ASSISTÊNCIA |'
+               'Falta sofrida |FALTA OFENSIVA|FALTA ANTIDESPORTIVA |FALTA TÉCNICA |FALTA DESQUALIFICANTE |FALTA |'
+               'Substituição |Substituição Sai |TOCO |TEMPO TÉCNICO Técnico da equipe |'
+               ' Violação Estouro dos 24s|Violação |Erro |CRAVADA |TEMPO TÉCNICO |É de três |'
+               'Técnico da equipe |Cravada|Técnico do )', '', c)
+
+    return c
+
+c = limpeza_tabela_um(acoes)
+'''# realizar a limpeza dos dados obtidos
 c = acoes.replace(' 1º', '\n1')
 c = c.replace(' 2º', '\n2')
 c = c.replace(' 3º', '\n3')
@@ -114,14 +168,12 @@ c = re.sub('(			 |			 |			 )', ';', c)
 c = c.replace('    ', ';')
 c = c.translate({ord(c): "" for c in ".!_+"})
 
-
-# depois de ajustar os espaços eu substititui os indicadores por nomes padronizados
 c = re.sub("(Fim  do quarto quarto|Fim  do terceiro quarto|"
-            "Fim  do segundo quarto|Fim  do primeiro quarto|"
-            "Fim  do período de prorragação)", ";1>fim_quarto;", c)
+           "Fim  do segundo quarto|Fim  do primeiro quarto|"
+           "Fim  do período de prorragação)", ";1>fim_quarto;", c)
 
 c = re.sub("(Início do  quarto quarto|Início do  terceiro quarto|"
-            "Início do  segundo quarto|Início do  de período de prorragação)", ";1>inicio_quarto;", c)
+           "Início do  segundo quarto|Início do  de período de prorragação)", ";1>inicio_quarto;", c)
 
 c = c.replace('Fim de partida', ';1>fim_partida;')
 c = c.replace('Início de partida', ';1>inicio_partida;')
@@ -178,6 +230,12 @@ c = re.sub('(INÍCIO DE QUARTO |FIM DE QUARTO |FIM DE PARTIDA |'
            'Substituição |Substituição Sai |TOCO |TEMPO TÉCNICO Técnico da equipe |'
            ' Violação Estouro dos 24s|Violação |Erro |CRAVADA |TEMPO TÉCNICO |É de três |'
            'Técnico da equipe |Cravada|Técnico do )', '', c)
+'''
+
+print(c)
+# depois de ajustar os espaços eu substititui os indicadores por nomes padronizados
+
+
 
 data = io.StringIO(c)
 # depois para DataFrame

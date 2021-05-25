@@ -1,0 +1,606 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,88,86,,fim_partida,
+1,5,00:00,88,86,,fim_quarto,
+2,5,00:02,88,86,BOT,BR,Diego
+3,5,00:02,88,86,PIN,ER,Bennett
+4,5,00:03,88,86,PIN,RO,Bennett
+5,5,00:04,88,86,PIN,LL_Pts_T,Bennett
+6,5,00:04,88,86,BOT,substituicao_entra,Lucas
+7,5,00:04,88,86,BOT,substituicao_sai,Mogi
+8,5,00:04,88,86,PIN,FR,Bennett
+9,5,00:04,88,86,BOT,FC,Cauê
+10,5,00:04,88,86,PIN,2_Pts_C,Bennett
+11,5,00:10,88,84,BOT,LL_Pts_C,Mogi
+12,5,00:10,87,84,BOT,LL_Pts_T,Mogi
+13,5,00:10,87,84,BOT,FR,Mogi
+14,5,00:10,87,84,PIN,FC,Dawkins
+15,5,00:11,87,84,BOT,RD,Botafogo
+16,5,00:11,87,84,PIN,3_Pts_T,Betinho
+17,5,00:17,87,84,PIN,substituicao_entra,Ware
+18,5,00:17,87,84,PIN,substituicao_sai,Buffat
+19,5,00:17,87,84,BOT,substituicao_entra,Diego
+20,5,00:17,87,84,BOT,substituicao_sai,Lucas
+21,5,00:17,87,84,PIN,tempo_tecnico,Pinheiros
+22,5,00:17,87,84,BOT,LL_Pts_C,Cauê
+23,5,00:17,86,84,BOT,LL_Pts_T,Cauê
+24,5,00:17,86,84,BOT,FR,Cauê
+25,5,00:17,86,84,PIN,FC,Bennett
+26,5,00:21,86,84,BOT,RD,Mogi
+27,5,00:23,86,84,PIN,3_Pts_T,Bennett
+28,5,00:28,86,84,PIN,BR,Dawkins
+29,5,00:28,86,84,BOT,ER,Jamaal
+30,5,00:35,86,84,PIN,LL_Pts_C,Betinho
+31,5,00:35,86,83,PIN,LL_Pts_T,Betinho
+32,5,00:35,86,83,BOT,substituicao_entra,Lucas
+33,5,00:35,86,83,BOT,substituicao_sai,Du Sommer
+34,5,00:35,86,83,PIN,FR,Betinho
+35,5,00:35,86,83,BOT,FC,Du Sommer
+36,5,00:50,86,83,BOT,3_Pts_C,Jamaal
+37,5,01:14,83,83,BOT,RD,Mogi
+38,5,01:14,83,83,PIN,LL_Pts_T,Betinho
+39,5,01:14,83,83,PIN,LL_Pts_T,Betinho
+40,5,01:14,83,83,PIN,FR,Betinho
+41,5,01:14,83,83,BOT,FC,Jamaal
+42,5,01:28,83,83,PIN,BR,Betinho
+43,5,01:28,83,83,BOT,ER,Jamaal
+44,5,01:39,83,83,BOT,RD,Freddie
+45,5,01:42,83,83,PIN,3_Pts_T,Dawkins
+46,5,01:55,83,83,BOT,ER,Freddie
+47,5,02:19,83,83,PIN,2_Pts_C,Betinho
+48,5,02:29,83,81,BOT,LL_Pts_C,Freddie
+49,5,02:29,82,81,BOT,LL_Pts_T,Freddie
+50,5,02:29,82,81,BOT,FR,Freddie
+51,5,02:29,82,81,PIN,FC,Betinho
+52,5,02:30,82,81,BOT,RO,Freddie
+53,5,02:30,82,81,BOT,2_Pts_T,Du Sommer
+54,5,02:56,82,81,PIN,2_Pts_C,Bennett
+55,5,03:10,82,79,BOT,LL_Pts_C,Jamaal
+56,5,03:10,81,79,BOT,LL_Pts_T,Jamaal
+57,5,03:10,81,79,BOT,substituicao_entra,Mogi
+58,5,03:10,81,79,BOT,substituicao_sai,Diego
+59,5,03:10,81,79,BOT,FR,Jamaal
+60,5,03:10,81,79,PIN,FC,Buffat
+61,5,03:27,81,79,PIN,2_Pts_C,Bennett
+62,5,03:41,81,77,PIN,substituicao_entra,Buffat
+63,5,03:41,81,77,PIN,substituicao_sai,Ware
+64,5,03:48,81,77,BOT,2_Pts_C,Diego
+65,5,03:48,79,77,BOT,RO,Diego
+66,5,03:51,79,77,BOT,2_Pts_T,Diego
+67,5,04:10,79,77,BOT,RD,Diego
+68,5,04:13,79,77,PIN,2_Pts_T,Dawkins
+69,5,04:38,79,77,BOT,2_Pts_C,Du Sommer
+70,5,04:38,77,77,BOT,RO,Du Sommer
+71,5,04:41,77,77,BOT,2_Pts_T,Cauê
+72,5,04:50,77,77,BOT,BR,Jamaal
+73,5,04:50,77,77,PIN,ER,Bennett
+74,5,05:00,77,77,,inicio_quarto,
+75,5,05:00,77,77,BOT,substituicao_entra,Freddie
+76,5,05:00,77,77,BOT,substituicao_entra,Diego
+77,5,05:00,77,77,BOT,substituicao_sai,Lucas
+78,5,05:00,77,77,BOT,substituicao_sai,Paulinho
+79,4,00:00,77,77,,fim_quarto,
+80,4,00:01,77,77,BOT,substituicao_entra,Lucas
+81,4,00:01,77,77,BOT,substituicao_entra,Paulinho
+82,4,00:01,77,77,BOT,substituicao_sai,Diego
+83,4,00:01,77,77,BOT,substituicao_sai,Mogi
+84,4,00:01,77,77,BOT,tempo_tecnico,Botafogo
+85,4,00:01,77,77,PIN,2_Pts_C,Betinho
+86,4,00:07,77,75,PIN,substituicao_entra,Dawkins
+87,4,00:07,77,75,PIN,substituicao_sai,Cauê
+88,4,00:07,77,75,BOT,substituicao_entra,Diego
+89,4,00:07,77,75,BOT,substituicao_entra,Mogi
+90,4,00:07,77,75,BOT,substituicao_sai,Lucas
+91,4,00:07,77,75,BOT,substituicao_sai,Paulinho
+92,4,00:07,77,75,PIN,RO,Pinheiros
+93,4,00:10,77,75,PIN,LL_Pts_T,Toledo
+94,4,00:10,77,75,PIN,LL_Pts_C,Toledo
+95,4,00:10,77,74,PIN,substituicao_entra,Cauê
+96,4,00:10,77,74,PIN,substituicao_sai,Dawkins
+97,4,00:10,77,74,PIN,FR,Toledo
+98,4,00:10,77,74,BOT,FC,Du Sommer
+99,4,00:11,77,74,PIN,RO,Pinheiros
+100,4,00:11,77,74,PIN,LL_Pts_T,Dawkins
+101,4,00:11,77,74,PIN,LL_Pts_C,Dawkins
+102,4,00:11,77,73,PIN,substituicao_entra,Ware
+103,4,00:11,77,73,PIN,substituicao_sai,Buffat
+104,4,00:11,77,73,BOT,substituicao_entra,Lucas
+105,4,00:11,77,73,BOT,substituicao_sai,Diego
+106,4,00:11,77,73,PIN,FR,Dawkins
+107,4,00:11,77,73,BOT,FC,Du Sommer
+108,4,00:12,77,73,PIN,BR,Dawkins
+109,4,00:12,77,73,BOT,ER,Cauê
+110,4,00:13,77,73,PIN,substituicao_entra,Buffat
+111,4,00:13,77,73,PIN,substituicao_sai,Ware
+112,4,00:13,77,73,BOT,substituicao_entra,Paulinho
+113,4,00:13,77,73,BOT,substituicao_sai,Freddie
+114,4,00:13,77,73,PIN,ER,Betinho
+115,4,00:19,77,73,BOT,LL_Pts_C,Jamaal
+116,4,00:19,76,73,BOT,LL_Pts_C,Jamaal
+117,4,00:19,75,73,PIN,substituicao_entra,Ware
+118,4,00:19,75,73,PIN,substituicao_sai,Buffat
+119,4,00:19,75,73,BOT,substituicao_entra,Diego
+120,4,00:19,75,73,BOT,substituicao_sai,Lucas
+121,4,00:19,75,73,BOT,FR,Jamaal
+122,4,00:19,75,73,PIN,FC,Toledo
+123,4,00:34,75,73,PIN,LL_Pts_C,Betinho
+124,4,00:34,75,72,PIN,LL_Pts_C,Betinho
+125,4,00:34,75,71,PIN,FR,Betinho
+126,4,00:34,75,71,BOT,FC,Lucas
+127,4,00:40,75,71,BOT,AS,Cauê
+128,4,00:40,75,71,BOT,2_Pts_C,Lucas
+129,4,00:44,73,71,BOT,substituicao_entra,Freddie
+130,4,00:44,73,71,BOT,substituicao_sai,Paulinho
+131,4,00:44,73,71,BOT,tempo_tecnico,Botafogo
+132,4,00:54,73,71,PIN,AS,Betinho
+133,4,00:54,73,71,PIN,3_Pts_C,Buffat
+134,4,01:01,73,68,BOT,AS,Jamaal
+135,4,01:01,73,68,BOT,EN,Lucas
+136,4,01:25,71,68,PIN,LL_Pts_C,Bennett
+137,4,01:25,71,67,BOT,substituicao_entra,Lucas
+138,4,01:25,71,67,BOT,substituicao_sai,Freddie
+139,4,01:25,71,67,PIN,FR,Bennett
+140,4,01:25,71,67,BOT,FC,Cauê
+141,4,01:25,71,67,PIN,2_Pts_C,Bennett
+142,4,01:30,71,65,PIN,FR,Betinho
+143,4,01:30,71,65,BOT,ER,Paulinho
+144,4,01:30,71,65,BOT,FC_O,Paulinho
+145,4,01:30,71,65,PIN,LL_Pts_C,Bennett
+146,4,01:30,71,64,PIN,LL_Pts_C,Bennett
+147,4,01:30,71,63,PIN,substituicao_entra,Dawkins
+148,4,01:30,71,63,PIN,substituicao_sai,Ware
+149,4,01:30,71,63,BOT,substituicao_entra,Paulinho
+150,4,01:30,71,63,BOT,substituicao_sai,Lucas
+151,4,01:30,71,63,BOT,LL_Pts_T,Jamaal
+152,4,01:30,71,63,PIN,ER,
+153,4,01:30,71,63,PIN,FC_T,Pinheiros
+154,4,01:30,71,63,PIN,FR,Bennett
+155,4,01:30,71,63,BOT,FC,Cauê
+156,4,01:34,71,63,BOT,LL_Pts_C,Jamaal
+157,4,01:34,70,63,PIN,ER,
+158,4,01:34,70,63,PIN,FC_T,Pinheiros
+159,4,01:37,70,63,BOT,AS,Cauê
+160,4,01:37,70,63,BOT,3_Pts_C,Jamaal
+161,4,02:05,67,63,PIN,AS,Bennett
+162,4,02:05,67,63,PIN,3_Pts_C,Betinho
+163,4,02:17,67,60,PIN,substituicao_entra,Buffat
+164,4,02:17,67,60,PIN,substituicao_sai,Dawkins
+165,4,02:17,67,60,PIN,tempo_tecnico,Pinheiros
+166,4,02:17,67,60,BOT,AS,Jamaal
+167,4,02:17,67,60,BOT,EN,Freddie
+168,4,02:21,65,60,BOT,BR,Jamaal
+169,4,02:21,65,60,PIN,ER,Toledo
+170,4,02:22,65,60,PIN,RO,Toledo
+171,4,02:25,65,60,PIN,2_Pts_T,Bennett
+172,4,02:39,65,60,PIN,substituicao_entra,Ware
+173,4,02:39,65,60,PIN,substituicao_sai,C Torres
+174,4,02:39,65,60,BOT,AS,Jamaal
+175,4,02:39,65,60,BOT,EN,Freddie
+176,4,02:44,63,60,BOT,RO,Jamaal
+177,4,02:47,63,60,BOT,3_Pts_T,Lucas
+178,4,03:15,63,60,PIN,2_Pts_C,Betinho
+179,4,03:35,63,58,PIN,substituicao_entra,Betinho
+180,4,03:35,63,58,PIN,substituicao_sai,Buffat
+181,4,03:35,63,58,PIN,tempo_tecnico,Pinheiros
+182,4,03:36,63,58,BOT,2_Pts_C,Jamaal
+183,4,03:45,61,58,BOT,RO,Lucas
+184,4,03:47,61,58,BOT,3_Pts_T,Du Sommer
+185,4,04:10,61,58,BOT,RD,Jamaal
+186,4,04:12,61,58,PIN,3_Pts_T,Bennett
+187,4,04:34,61,58,BOT,LL_Pts_C,Jamaal
+188,4,04:34,60,58,BOT,LL_Pts_C,Jamaal
+189,4,04:34,59,58,PIN,LL_Pts_C,Dawkins
+190,4,04:34,59,57,BOT,ER,Jamaal
+191,4,04:34,59,57,BOT,FC_T,Jamaal
+192,4,04:34,59,57,BOT,FR,Jamaal
+193,4,04:34,59,57,PIN,FC,Dawkins
+194,4,04:38,59,57,PIN,ER,Dawkins
+195,4,04:52,59,57,BOT,2_Pts_C,Jamaal
+196,4,05:09,57,57,BOT,RD,Cauê
+197,4,05:12,57,57,PIN,2_Pts_T,Bennett
+198,4,05:23,57,57,PIN,substituicao_entra,C Torres
+199,4,05:23,57,57,PIN,substituicao_entra,Buffat
+200,4,05:23,57,57,PIN,substituicao_sai,Ware
+201,4,05:23,57,57,PIN,substituicao_sai,Betinho
+202,4,05:34,57,57,BOT,LL_Pts_C,Cauê
+203,4,05:34,56,57,BOT,LL_Pts_T,Cauê
+204,4,05:34,56,57,BOT,FR,Cauê
+205,4,05:34,56,57,PIN,FC,Bennett
+206,4,05:41,56,57,BOT,RD,Cauê
+207,4,05:45,56,57,PIN,3_Pts_T,Betinho
+208,4,06:01,56,57,PIN,RD,Toledo
+209,4,06:04,56,57,BOT,3_Pts_T,Jamaal
+210,4,06:31,56,57,PIN,substituicao_entra,Bennett
+211,4,06:31,56,57,PIN,substituicao_sai,Buffat
+212,4,06:31,56,57,BOT,substituicao_entra,Jamaal
+213,4,06:31,56,57,BOT,substituicao_sai,Coelho
+214,4,06:31,56,57,BOT,tempo_tecnico,Botafogo
+215,4,06:31,56,57,PIN,substituicao_entra,Toledo
+216,4,06:31,56,57,PIN,substituicao_sai,Cauê
+217,4,06:31,56,57,PIN,ER,Ware
+218,4,06:45,56,57,BOT,LL_Pts_C,Du Sommer
+219,4,06:45,55,57,BOT,AS,Coelho
+220,4,06:45,55,57,BOT,LL_Pts_C,Du Sommer
+221,4,06:45,54,57,BOT,FR,Du Sommer
+222,4,06:45,54,57,PIN,FC,Cauê
+223,4,06:53,54,57,BOT,RD,Freddie
+224,4,06:56,54,57,PIN,3_Pts_T,Ware
+225,4,07:06,54,57,PIN,substituicao_entra,Buffat
+226,4,07:06,54,57,PIN,substituicao_sai,Bennett
+227,4,07:06,54,57,PIN,FR,Dawkins
+228,4,07:06,54,57,BOT,ER,Lucas
+229,4,07:06,54,57,BOT,FC_O,Lucas
+230,4,07:14,54,57,BOT,RD,Coelho
+231,4,07:17,54,57,PIN,2_Pts_T,Bennett
+232,4,07:27,54,57,BOT,substituicao_entra,Freddie
+233,4,07:27,54,57,BOT,substituicao_sai,Jamaal
+234,4,07:27,54,57,BOT,substituicao_entra,Lucas
+235,4,07:27,54,57,BOT,substituicao_sai,Diego
+236,4,07:27,54,57,PIN,FR,Bennett
+237,4,07:27,54,57,BOT,ER,Diego
+238,4,07:27,54,57,BOT,FC_O,Diego
+239,4,07:44,54,57,PIN,AS,Bennett
+240,4,07:44,54,57,PIN,2_Pts_C,Cauê
+241,4,07:47,54,55,PIN,RD,Cauê
+242,4,07:51,54,55,BOT,2_Pts_T,Jamaal
+243,4,08:05,54,55,BOT,LL_Pts_T,Diego
+244,4,08:05,54,55,BOT,LL_Pts_C,Diego
+245,4,08:05,53,55,PIN,substituicao_entra,Ware
+246,4,08:05,53,55,PIN,substituicao_entra,Dawkins
+247,4,08:05,53,55,PIN,substituicao_sai,C Torres
+248,4,08:05,53,55,PIN,substituicao_sai,Buffat
+249,4,08:05,53,55,BOT,FR,Diego
+250,4,08:05,53,55,PIN,FC_A,C Torres
+251,4,08:05,53,55,BOT,RD,Diego
+252,4,08:06,53,55,PIN,2_Pts_T,Betinho
+253,4,08:21,53,55,PIN,FR,Bennett
+254,4,08:21,53,55,BOT,FC,Diego
+255,4,08:21,53,55,PIN,RD,Bennett
+256,4,08:24,53,55,BOT,3_Pts_T,Cauê
+257,4,08:30,53,55,BOT,BR,Coelho
+258,4,08:30,53,55,PIN,ER,Betinho
+259,4,08:36,53,55,PIN,BR,Betinho
+260,4,08:36,53,55,BOT,ER,Coelho
+261,4,08:53,53,55,BOT,RD,Du Sommer
+262,4,08:55,53,55,PIN,2_Pts_T,C Torres
+263,4,09:14,53,55,BOT,LL_Pts_C,Cauê
+264,4,09:14,52,55,BOT,LL_Pts_C,Cauê
+265,4,09:14,51,55,BOT,FR,Cauê
+266,4,09:14,51,55,PIN,FC,C Torres
+267,4,09:19,51,55,BOT,BR,Cauê
+268,4,09:19,51,55,PIN,ER,Bennett
+269,4,09:35,51,55,PIN,FR,Betinho
+270,4,09:35,51,55,BOT,FC,Du Sommer
+271,4,09:37,51,55,PIN,RD,Cauê
+272,4,09:37,51,55,BOT,LL_Pts_T,Coelho
+273,4,09:37,51,55,BOT,LL_Pts_T,Coelho
+274,4,09:37,51,55,BOT,FR,Coelho
+275,4,09:37,51,55,PIN,FC,Cauê
+276,4,10:00,51,55,,inicio_quarto,
+277,3,00:00,51,55,,fim_quarto,
+278,3,00:01,51,55,PIN,RD,Buffat
+279,3,00:01,51,55,BOT,3_Pts_T,Jamaal
+280,3,00:03,51,55,BOT,RO,Coelho
+281,3,00:05,51,55,BOT,2_Pts_T,Jamaal
+282,3,00:17,51,55,BOT,RD,Lucas
+283,3,00:17,51,55,PIN,LL_Pts_T,Dawkins
+284,3,00:17,51,55,PIN,LL_Pts_C,Dawkins
+285,3,00:17,51,54,PIN,substituicao_entra,Buffat
+286,3,00:17,51,54,PIN,substituicao_sai,C Torres
+287,3,00:17,51,54,PIN,FR,Dawkins
+288,3,00:17,51,54,BOT,FC,Jamaal
+289,3,00:31,51,54,BOT,AS,Cauê
+290,3,00:31,51,54,BOT,3_Pts_C,Coelho
+291,3,00:33,48,54,PIN,substituicao_entra,Cauê
+292,3,00:33,48,54,PIN,substituicao_sai,Toledo
+293,3,00:33,48,54,BOT,FR,Diego
+294,3,00:33,48,54,PIN,FC,Scaglia
+295,3,00:49,48,54,BOT,RD,Lucas
+296,3,00:49,48,54,PIN,LL_Pts_T,Toledo
+297,3,00:49,48,54,PIN,LL_Pts_C,Toledo
+298,3,00:49,48,53,PIN,FR,Toledo
+299,3,00:49,48,53,BOT,FC,Diego
+300,3,01:09,48,53,PIN,RD,C Torres
+301,3,01:12,48,53,BOT,3_Pts_T,Jamaal
+302,3,01:34,48,53,PIN,LL_Pts_C,C Torres
+303,3,01:34,48,52,BOT,substituicao_entra,Diego
+304,3,01:34,48,52,BOT,substituicao_sai,Du Sommer
+305,3,01:34,48,52,PIN,FR,C Torres
+306,3,01:34,48,52,BOT,FC,Lucas
+307,3,01:35,48,52,PIN,AS,Toledo
+308,3,01:35,48,52,PIN,2_Pts_C,C Torres
+309,3,01:38,48,50,PIN,RO,Toledo
+310,3,01:41,48,50,PIN,3_Pts_T,Scaglia
+311,3,02:03,48,50,PIN,substituicao_entra,Scaglia
+312,3,02:03,48,50,PIN,substituicao_sai,Bennett
+313,3,02:03,48,50,BOT,ER,Jamaal
+314,3,02:06,48,50,BOT,RO,Coelho
+315,3,02:09,48,50,BOT,2_Pts_T,Jamaal
+316,3,02:24,48,50,BOT,RD,Lucas
+317,3,02:27,48,50,PIN,2_Pts_T,Dawkins
+318,3,02:45,48,50,BOT,substituicao_entra,Coelho
+319,3,02:45,48,50,BOT,substituicao_sai,Paulinho
+320,3,02:45,48,50,BOT,LL_Pts_C,Du Sommer
+321,3,02:45,47,50,BOT,LL_Pts_T,Du Sommer
+322,3,02:45,47,50,PIN,substituicao_entra,Betinho
+323,3,02:45,47,50,PIN,substituicao_sai,Buffat
+324,3,02:45,47,50,BOT,FR,Du Sommer
+325,3,02:45,47,50,PIN,FC,C Torres
+326,3,02:46,47,50,BOT,RO,Du Sommer
+327,3,02:49,47,50,BOT,2_Pts_T,Du Sommer
+328,3,02:51,47,50,BOT,RO,Jamaal
+329,3,02:53,47,50,BOT,3_Pts_T,Jamaal
+330,3,02:59,47,50,BOT,BR,Du Sommer
+331,3,02:59,47,50,PIN,ER,C Torres
+332,3,03:03,47,50,PIN,RO,Toledo
+333,3,03:06,47,50,PIN,3_Pts_T,C Torres
+334,3,03:20,47,50,PIN,LL_Pts_C,Dawkins
+335,3,03:20,47,49,BOT,FC_T,Botafogo
+336,3,03:30,47,49,BOT,ER,Lucas
+337,3,03:38,47,49,BOT,RD,Jamaal
+338,3,03:40,47,49,PIN,3_Pts_T,Buffat
+339,3,03:54,47,49,PIN,RD,Toledo
+340,3,03:57,47,49,BOT,3_Pts_T,Jamaal
+341,3,04:15,47,49,PIN,ER,Dawkins
+342,3,04:33,47,49,PIN,BR,Dawkins
+343,3,04:33,47,49,BOT,ER,Lucas
+344,3,04:49,47,49,BOT,substituicao_entra,Jamaal
+345,3,04:49,47,49,BOT,substituicao_sai,Coelho
+346,3,04:49,47,49,PIN,LL_Pts_C,Dawkins
+347,3,04:49,47,48,PIN,LL_Pts_C,Dawkins
+348,3,04:49,47,47,PIN,LL_Pts_T,Dawkins
+349,3,04:49,47,47,PIN,FR,Dawkins
+350,3,04:49,47,47,BOT,FC,Coelho
+351,3,04:55,47,47,PIN,RD,Bennett
+352,3,04:58,47,47,BOT,3_Pts_T,Lucas
+353,3,05:11,47,47,PIN,ER,Bennett
+354,3,05:25,47,47,PIN,tempo_tecnico,Pinheiros
+355,3,05:27,47,47,BOT,AS,Paulinho
+356,3,05:27,47,47,BOT,3_Pts_C,Coelho
+357,3,05:47,44,47,PIN,2_Pts_C,Bennett
+358,3,05:59,44,45,PIN,substituicao_entra,C Torres
+359,3,05:59,44,45,PIN,substituicao_entra,Dawkins
+360,3,05:59,44,45,PIN,substituicao_sai,Ware
+361,3,05:59,44,45,PIN,substituicao_sai,Betinho
+362,3,05:59,44,45,BOT,substituicao_entra,Paulinho
+363,3,05:59,44,45,BOT,substituicao_sai,Jamaal
+364,3,05:59,44,45,BOT,ER,Lucas
+365,3,06:07,44,45,BOT,RD,Du Sommer
+366,3,06:10,44,45,PIN,3_Pts_T,Betinho
+367,3,06:26,44,45,BOT,AS,Coelho
+368,3,06:26,44,45,BOT,3_Pts_C,Lucas
+369,3,06:50,41,45,PIN,2_Pts_C,Bennett
+370,3,07:03,41,43,BOT,AS,Coelho
+371,3,07:03,41,43,BOT,2_Pts_C,Lucas
+372,3,07:24,39,43,PIN,2_Pts_C,Toledo
+373,3,07:31,39,41,PIN,RD,Betinho
+374,3,07:33,39,41,BOT,3_Pts_T,Lucas
+375,3,07:46,39,41,BOT,FR,Jamaal
+376,3,07:46,39,41,PIN,ER,Buffat
+377,3,07:46,39,41,PIN,FC_O,Buffat
+378,3,07:57,39,41,BOT,AS,Lucas
+379,3,07:57,39,41,BOT,3_Pts_C,Cauê
+380,3,08:14,36,41,PIN,ER,Bennett
+381,3,08:25,36,41,BOT,AS,Coelho
+382,3,08:25,36,41,BOT,2_Pts_C,Du Sommer
+383,3,08:43,34,41,PIN,2_Pts_C,Toledo
+384,3,08:43,34,39,PIN,RO,Toledo
+385,3,08:47,34,39,PIN,2_Pts_T,Betinho
+386,3,09:00,34,39,PIN,FR,Buffat
+387,3,09:00,34,39,BOT,FC,Jamaal
+388,3,09:09,34,39,PIN,BR,Buffat
+389,3,09:09,34,39,BOT,ER,Jamaal
+390,3,09:22,34,39,BOT,BR,Du Sommer
+391,3,09:22,34,39,PIN,ER,Betinho
+392,3,09:42,34,39,BOT,2_Pts_C,Jamaal
+393,3,09:53,32,39,BOT,FR,Coelho
+394,3,09:53,32,39,PIN,FC,Betinho
+395,3,10:00,32,39,,inicio_quarto,
+396,2,00:00,32,39,,fim_quarto,
+397,2,00:01,32,39,BOT,BR,Diego
+398,2,00:01,32,39,PIN,ER,Buffat
+399,2,00:02,32,39,BOT,substituicao_entra,Du Sommer
+400,2,00:02,32,39,BOT,substituicao_entra,Jackson
+401,2,00:02,32,39,BOT,substituicao_entra,Mogi
+402,2,00:02,32,39,BOT,substituicao_sai,Lucas
+403,2,00:02,32,39,BOT,substituicao_sai,Coelho
+404,2,00:02,32,39,BOT,substituicao_sai,Jamaal
+405,2,00:02,32,39,PIN,tempo_tecnico,Pinheiros
+406,2,00:02,32,39,BOT,ER,
+407,2,00:31,32,39,PIN,AS,Toledo
+408,2,00:31,32,39,PIN,2_Pts_C,Cauê
+409,2,00:42,32,37,PIN,RD,Cauê
+410,2,00:44,32,37,BOT,2_Pts_T,Lucas
+411,2,00:52,32,37,PIN,substituicao_entra,Buffat
+412,2,00:52,32,37,PIN,substituicao_sai,Dawkins
+413,2,00:52,32,37,BOT,FR,Jamaal
+414,2,00:52,32,37,PIN,FC,Dawkins
+415,2,00:53,32,37,BOT,RO,Botafogo
+416,2,00:54,32,37,BOT,3_Pts_T,Coelho
+417,2,01:11,32,37,PIN,substituicao_entra,Cauê
+418,2,01:11,32,37,PIN,substituicao_sai,Ware
+419,2,01:11,32,37,BOT,tempo_tecnico,Botafogo
+420,2,01:11,32,37,PIN,AS,Betinho
+421,2,01:11,32,37,PIN,2_Pts_C,Toledo
+422,2,01:17,32,35,PIN,RD,Ware
+423,2,01:20,32,35,BOT,3_Pts_T,Diego
+424,2,01:31,32,35,BOT,substituicao_entra,Lucas
+425,2,01:31,32,35,BOT,substituicao_sai,Du Sommer
+426,2,01:31,32,35,BOT,FR,Coelho
+427,2,01:31,32,35,PIN,FC,Dawkins
+428,2,01:32,32,35,BOT,RO,Coelho
+429,2,01:34,32,35,BOT,2_Pts_T,Du Sommer
+430,2,01:56,32,35,PIN,AS,Ware
+431,2,01:56,32,35,PIN,3_Pts_C,Bennett
+432,2,02:24,32,32,BOT,AS,Cauê
+433,2,02:24,32,32,BOT,3_Pts_C,Jamaal
+434,2,02:46,29,32,PIN,2_Pts_C,Bennett
+435,2,03:01,29,30,PIN,RD,Ware
+436,2,03:04,29,30,BOT,3_Pts_T,Cauê
+437,2,03:19,29,30,PIN,ER,Betinho
+438,2,03:24,29,30,PIN,FR,Betinho
+439,2,03:24,29,30,BOT,FC,Coelho
+440,2,03:30,29,30,BOT,substituicao_entra,Diego
+441,2,03:30,29,30,BOT,substituicao_sai,Lucas
+442,2,03:30,29,30,PIN,FR,Bennett
+443,2,03:30,29,30,BOT,FC,Cauê
+444,2,03:49,29,30,BOT,2_Pts_C,Cauê
+445,2,04:16,27,30,PIN,AS,Dawkins
+446,2,04:16,27,30,PIN,EN,Toledo
+447,2,04:27,27,28,PIN,substituicao_entra,Ware
+448,2,04:27,27,28,PIN,substituicao_sai,C Torres
+449,2,04:27,27,28,BOT,substituicao_entra,Jamaal
+450,2,04:27,27,28,BOT,substituicao_sai,Mogi
+451,2,04:28,27,28,PIN,RO,Toledo
+452,2,04:30,27,28,PIN,3_Pts_T,Dawkins
+453,2,04:39,27,28,PIN,RO,C Torres
+454,2,04:42,27,28,PIN,3_Pts_T,Betinho
+455,2,04:46,27,28,PIN,RO,Toledo
+456,2,04:49,27,28,PIN,3_Pts_T,Betinho
+457,2,05:11,27,28,PIN,RD,C Torres
+458,2,05:14,27,28,BOT,3_Pts_T,Mogi
+459,2,05:36,27,28,BOT,RD,Mogi
+460,2,05:39,27,28,PIN,3_Pts_T,C Torres
+461,2,05:55,27,28,BOT,3_Pts_C,Coelho
+462,2,06:21,24,28,PIN,3_Pts_C,Dawkins
+463,2,06:34,24,25,BOT,2_Pts_C,Lucas
+464,2,06:52,22,25,PIN,2_Pts_C,Bennett
+465,2,06:57,22,23,PIN,substituicao_entra,Toledo
+466,2,06:57,22,23,PIN,substituicao_sai,Ware
+467,2,06:57,22,23,BOT,substituicao_entra,Cauê
+468,2,06:57,22,23,BOT,substituicao_sai,Freddie
+469,2,06:57,22,23,PIN,FR,Betinho
+470,2,06:57,22,23,BOT,FC,Freddie
+471,2,07:11,22,23,PIN,BR,C Torres
+472,2,07:11,22,23,BOT,ER,Du Sommer
+473,2,07:28,22,23,PIN,3_Pts_C,Dawkins
+474,2,07:45,22,20,BOT,AS,Mogi
+475,2,07:45,22,20,BOT,3_Pts_C,Lucas
+476,2,07:52,19,20,BOT,RD,Freddie
+477,2,07:56,19,20,PIN,2_Pts_T,Ware
+478,2,08:06,19,20,PIN,RD,Betinho
+479,2,08:09,19,20,BOT,2_Pts_T,Du Sommer
+480,2,08:22,19,20,BOT,RD,Du Sommer
+481,2,08:25,19,20,PIN,3_Pts_T,Betinho
+482,2,08:32,19,20,PIN,FR,Ware
+483,2,08:32,19,20,BOT,FC,Du Sommer
+484,2,08:46,19,20,BOT,2_Pts_C,Du Sommer
+485,2,08:46,17,20,BOT,RO,Du Sommer
+486,2,08:51,17,20,BOT,3_Pts_T,Mogi
+487,2,09:01,17,20,BOT,RD,Du Sommer
+488,2,09:04,17,20,PIN,2_Pts_T,Bennett
+489,2,09:13,17,20,PIN,RD,Ware
+490,2,09:16,17,20,BOT,3_Pts_T,Freddie
+491,2,09:40,17,20,PIN,AS,Ware
+492,2,09:40,17,20,PIN,3_Pts_C,Dawkins
+493,2,10:00,17,17,,inicio_quarto,
+494,1,00:00,17,17,,fim_quarto,
+495,1,00:02,17,17,PIN,RD,C Torres
+496,1,00:03,17,17,BOT,2_Pts_T,Du Sommer
+497,1,00:03,17,17,BOT,RO,Du Sommer
+498,1,00:03,17,17,BOT,2_Pts_T,Coelho
+499,1,00:12,17,17,PIN,2_Pts_C,Ware
+500,1,00:28,17,15,PIN,substituicao_entra,Betinho
+501,1,00:28,17,15,PIN,substituicao_sai,Scaglia
+502,1,00:28,17,15,BOT,LL_Pts_C,Du Sommer
+503,1,00:28,16,15,BOT,LL_Pts_C,Du Sommer
+504,1,00:28,15,15,BOT,FR,Du Sommer
+505,1,00:28,15,15,PIN,FC,Scaglia
+506,1,00:46,15,15,BOT,RD,Freddie
+507,1,00:49,15,15,PIN,3_Pts_T,Scaglia
+508,1,01:01,15,15,BOT,substituicao_entra,Coelho
+509,1,01:01,15,15,BOT,substituicao_sai,Jamaal
+510,1,01:01,15,15,PIN,FR,Bennett
+511,1,01:01,15,15,BOT,FC,Freddie
+512,1,01:13,15,15,BOT,2_Pts_C,Jamaal
+513,1,01:22,13,15,PIN,substituicao_entra,Bennett
+514,1,01:22,13,15,PIN,substituicao_sai,Buffat
+515,1,01:35,13,15,PIN,2_Pts_C,C Torres
+516,1,01:35,13,13,PIN,RO,C Torres
+517,1,01:40,13,13,PIN,2_Pts_T,Buffat
+518,1,02:04,13,13,BOT,3_Pts_C,Jamaal
+519,1,02:21,10,13,BOT,substituicao_entra,Freddie
+520,1,02:21,10,13,BOT,substituicao_sai,Cauê
+521,1,02:21,10,13,PIN,ER,Buffat
+522,1,02:35,10,13,PIN,RD,Dawkins
+523,1,02:38,10,13,BOT,3_Pts_T,Cauê
+524,1,02:51,10,13,PIN,substituicao_entra,Scaglia
+525,1,02:51,10,13,PIN,substituicao_sai,Betinho
+526,1,02:51,10,13,BOT,FR,Jamaal
+527,1,02:51,10,13,PIN,FC,Ware
+528,1,02:56,10,13,BOT,RD,Mogi
+529,1,02:59,10,13,PIN,2_Pts_T,Ware
+530,1,03:11,10,13,PIN,RD,Dawkins
+531,1,03:13,10,13,BOT,3_Pts_T,Diego
+532,1,03:22,10,13,BOT,substituicao_entra,Du Sommer
+533,1,03:22,10,13,BOT,substituicao_entra,Mogi
+534,1,03:22,10,13,BOT,substituicao_sai,Lucas
+535,1,03:22,10,13,BOT,substituicao_sai,Coelho
+536,1,03:22,10,13,BOT,RO,Botafogo
+537,1,03:23,10,13,BOT,2_Pts_T,Coelho
+538,1,03:46,10,13,PIN,substituicao_entra,Ware
+539,1,03:46,10,13,PIN,substituicao_sai,Toledo
+540,1,03:46,10,13,PIN,LL_Pts_C,Toledo
+541,1,03:46,10,12,PIN,FR,Toledo
+542,1,03:46,10,12,BOT,FC,Diego
+543,1,03:46,10,12,PIN,2_Pts_C,Toledo
+544,1,03:47,10,10,PIN,RO,Toledo
+545,1,03:48,10,10,PIN,2_Pts_T,Dawkins
+546,1,04:01,10,10,BOT,AS,Lucas
+547,1,04:01,10,10,BOT,2_Pts_C,Diego
+548,1,04:18,8,10,BOT,substituicao_entra,Diego
+549,1,04:18,8,10,BOT,substituicao_sai,Du Sommer
+550,1,04:18,8,10,PIN,substituicao_entra,C Torres
+551,1,04:18,8,10,PIN,substituicao_entra,Dawkins
+552,1,04:18,8,10,PIN,substituicao_sai,Ware
+553,1,04:18,8,10,PIN,substituicao_sai,Bennett
+554,1,04:18,8,10,BOT,FR,Coelho
+555,1,04:18,8,10,PIN,ER,Toledo
+556,1,04:18,8,10,PIN,FC_O,Toledo
+557,1,04:26,8,10,PIN,RD,Ware
+558,1,04:28,8,10,BOT,2_Pts_T,Lucas
+559,1,04:37,8,10,BOT,RD,Du Sommer
+560,1,04:40,8,10,PIN,2_Pts_T,Ware
+561,1,05:01,8,10,BOT,AS,Cauê
+562,1,05:01,8,10,BOT,3_Pts_C,Coelho
+563,1,05:16,5,10,BOT,FR,Jamaal
+564,1,05:16,5,10,PIN,FC,Bennett
+565,1,05:41,5,10,PIN,2_Pts_C,Betinho
+566,1,05:47,5,8,PIN,BR,Bennett
+567,1,05:47,5,8,BOT,ER,Coelho
+568,1,05:52,5,8,BOT,BR,Coelho
+569,1,05:52,5,8,PIN,ER,Bennett
+570,1,06:05,5,8,BOT,ER,Lucas
+571,1,06:24,5,8,PIN,2_Pts_C,Buffat
+572,1,06:24,5,6,PIN,RO,Buffat
+573,1,06:27,5,6,PIN,3_Pts_T,Ware
+574,1,06:45,5,6,PIN,BR,Toledo
+575,1,06:45,5,6,BOT,ER,Cauê
+576,1,07:07,5,6,PIN,AS,Ware
+577,1,07:07,5,6,PIN,3_Pts_C,Buffat
+578,1,07:24,5,3,BOT,2_Pts_C,Coelho
+579,1,07:48,3,3,BOT,RD,Botafogo
+580,1,07:48,3,3,PIN,2_Pts_T,Bennett
+581,1,08:13,3,3,PIN,RD,Betinho
+582,1,08:15,3,3,BOT,2_Pts_T,Lucas
+583,1,08:46,3,3,PIN,AS,Bennett
+584,1,08:46,3,3,PIN,3_Pts_C,Ware
+585,1,08:56,3,0,PIN,RD,Betinho
+586,1,08:59,3,0,BOT,3_Pts_T,Lucas
+587,1,09:15,3,0,BOT,RD,Du Sommer
+588,1,09:18,3,0,PIN,2_Pts_T,Ware
+589,1,09:45,3,0,BOT,LL_Pts_C,Lucas
+590,1,09:45,2,0,BOT,FR,Lucas
+591,1,09:45,2,0,PIN,FC,Ware
+592,1,09:45,2,0,BOT,AS,Jamaal
+593,1,09:45,2,0,BOT,2_Pts_C,Lucas
+594,1,10:00,0,0,PIN,substituicao_entra,Ware
+595,1,10:00,0,0,PIN,substituicao_entra,Betinho
+596,1,10:00,0,0,PIN,substituicao_entra,Toledo
+597,1,10:00,0,0,PIN,substituicao_entra,Buffat
+598,1,10:00,0,0,PIN,substituicao_entra,Bennett
+599,1,10:00,0,0,BOT,substituicao_entra,Lucas
+600,1,10:00,0,0,BOT,substituicao_entra,Du Sommer
+601,1,10:00,0,0,BOT,substituicao_entra,Coelho
+602,1,10:00,0,0,BOT,substituicao_entra,Jamaal
+603,1,10:00,0,0,BOT,substituicao_entra,Cauê
+604,1,10:00,0,0,,inicio_partida,

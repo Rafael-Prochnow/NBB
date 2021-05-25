@@ -1,0 +1,552 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,96,98, ,fim_partida,
+1,4,00:00,96,98,LSB,3_Pts_T,Guilherme
+2,4,00:00,96,98,LSB,RD,Guilherme
+3,4,00:00,96,98,GOI,LL_Pts_T,Taboada
+4,4,00:00,96,98,GOI,LL_Pts_C,Taboada
+5,4,00:00,96,97,GOI,FR,Taboada
+6,4,00:00,96,97,LSB,FC,Thiaguinho
+7,4,00:00,96,97,LSB,3_Pts_C,Verson
+8,4,00:00,93,97,LSB,AS,Thiaguinho
+9,4,00:06,93,97,GOI,LL_Pts_C,Diego
+10,4,00:06,93,96,GOI,LL_Pts_C,Diego
+11,4,00:06,93,95,GOI,FR,Diego
+12,4,00:06,93,95,LSB,FC,Junior
+13,4,00:11,93,95,LSB,3_Pts_C,Junior
+14,4,00:11,90,95,LSB,AS,Thiaguinho
+15,4,00:17,90,95,GOI,LL_Pts_C,Taboada
+16,4,00:17,90,94,GOI,LL_Pts_C,Taboada
+17,4,00:17,90,93,LSB,substituicao_entra,Junior
+18,4,00:17,90,93,LSB,substituicao_sai,Smith
+19,4,00:17,90,93,GOI,FR,Taboada
+20,4,00:17,90,93,LSB,FC,Smith
+21,4,00:17,90,93,LSB,LL_Pts_C,Smith
+22,4,00:17,89,93,LSB,LL_Pts_C,Smith
+23,4,00:17,88,93,LSB,FR,Smith
+24,4,00:17,88,93,GOI,FC,Taboada
+25,4,00:17,88,93,LSB,RO,Liga Sorocabana
+26,4,00:17,88,93,LSB,3_Pts_T,Diego Gomes
+27,4,00:26,88,93,GOI,LL_Pts_C,Fernando Mineiro
+28,4,00:26,88,92,GOI,LL_Pts_T,Fernando Mineiro
+29,4,00:26,88,92,GOI,FR,Fernando Mineiro
+30,4,00:26,88,92,LSB,FC,Thiaguinho
+31,4,00:30,88,92,LSB,LL_Pts_C,Thiaguinho
+32,4,00:30,87,92,GOI,substituicao_entra,Diego
+33,4,00:30,87,92,GOI,substituicao_sai,Rafinha
+34,4,00:30,87,92,LSB,FR,Thiaguinho
+35,4,00:30,87,92,GOI,FC,F Penna
+36,4,00:30,87,92,LSB,2_Pts_C,Thiaguinho
+37,4,00:36,85,92,GOI,LL_Pts_C,Taboada
+38,4,00:36,85,91,GOI,LL_Pts_C,Taboada
+39,4,00:36,85,90,LSB,substituicao_entra,Verson
+40,4,00:36,85,90,LSB,substituicao_sai,Schneider
+41,4,00:36,85,90,GOI,FR,Taboada
+42,4,00:36,85,90,LSB,FC,Schneider
+43,4,00:45,85,90,LSB,2_Pts_C,Thiaguinho
+44,4,00:53,83,90,GOI,2_Pts_C,Fernando Mineiro
+45,4,00:53,83,88,GOI,AS,Rafinha
+46,4,01:11,83,88,GOI,RD,Fábio
+47,4,01:11,83,88,LSB,3_Pts_T,Thiaguinho
+48,4,01:25,83,88,GOI,LL_Pts_C,Taboada
+49,4,01:25,83,87,GOI,LL_Pts_C,Taboada
+50,4,01:25,83,86,LSB,substituicao_entra,Diego Gomes
+51,4,01:25,83,86,LSB,substituicao_sai,Alfredo
+52,4,01:25,83,86,GOI,substituicao_entra,Rafinha
+53,4,01:25,83,86,GOI,substituicao_sai,Diego
+54,4,01:25,83,86,GOI,FR,Taboada
+55,4,01:25,83,86,LSB,FC,Alfredo
+56,4,01:31,83,86,GOI,substituicao_entra,Diego
+57,4,01:31,83,86,GOI,substituicao_sai,Rafinha
+58,4,01:31,83,86,LSB,substituicao_entra,Alfredo
+59,4,01:31,83,86,LSB,substituicao_sai,Cipriano
+60,4,01:31,83,86,LSB,ER,Cipriano
+61,4,01:54,83,86,GOI,LL_Pts_C,Taboada
+62,4,01:54,83,85,GOI,LL_Pts_C,Taboada
+63,4,01:54,83,84,LSB,substituicao_entra,Guilherme
+64,4,01:54,83,84,LSB,substituicao_sai,Cox
+65,4,01:54,83,84,GOI,FR,Taboada
+66,4,01:54,83,84,LSB,FC,Cox
+67,4,01:59,83,84,GOI,RD,Taboada
+68,4,01:59,83,84,LSB,2_Pts_T,Smith
+69,4,02:19,83,84,GOI,LL_Pts_C,Fábio
+70,4,02:19,83,83,GOI,LL_Pts_T,Fábio
+71,4,02:19,83,83,GOI,substituicao_entra,Rafinha
+72,4,02:19,83,83,GOI,substituicao_sai,Diego
+73,4,02:19,83,83,GOI,FR,Fábio
+74,4,02:19,83,83,LSB,FC,Cipriano
+75,4,02:19,83,83,GOI,BR,Fábio
+76,4,02:19,83,83,LSB,ER,Smith
+77,4,02:38,83,83,GOI,2_Pts_C,Fernando Mineiro
+78,4,02:38,83,81,GOI,AS,Diego
+79,4,02:54,83,81,LSB,LL_Pts_C,Smith
+80,4,02:54,82,81,LSB,LL_Pts_C,Smith
+81,4,02:54,81,81,GOI,substituicao_entra,Diego
+82,4,02:54,81,81,GOI,substituicao_sai,Rafinha
+83,4,02:54,81,81,LSB,FR,Smith
+84,4,02:54,81,81,GOI,FC,Taboada
+85,4,03:08,81,81,GOI,substituicao_entra,Rafinha
+86,4,03:08,81,81,GOI,substituicao_sai,Diego
+87,4,03:13,81,81,LSB,RD,Smith
+88,4,03:13,81,81,GOI,LL_Pts_T,Taboada
+89,4,03:13,81,81,GOI,LL_Pts_C,Taboada
+90,4,03:13,81,80,GOI,FR,Taboada
+91,4,03:13,81,80,LSB,FC,Cox
+92,4,03:27,81,80,LSB,LL_Pts_C,Schneider
+93,4,03:27,80,80,LSB,LL_Pts_C,Schneider
+94,4,03:27,79,80,GOI,substituicao_entra,Fábio
+95,4,03:27,79,80,GOI,substituicao_sai,André Luiz
+96,4,03:27,79,80,LSB,FR,Schneider
+97,4,03:27,79,80,GOI,FC,Diego
+98,4,03:42,79,80,LSB,FR,Cipriano
+99,4,03:42,79,80,GOI,FC,André Luiz
+100,4,03:42,79,80,LSB,RD,Cipriano
+101,4,03:42,79,80,GOI,2_Pts_T,Fernando Mineiro
+102,4,03:58,79,80,LSB,2_Pts_C,Cox
+103,4,04:03,77,80,LSB,BR,Cipriano
+104,4,04:03,77,80,GOI,ER,André Luiz
+105,4,04:19,77,80,LSB,2_Pts_C,Schneider
+106,4,04:27,75,80,GOI,BR,F Penna
+107,4,04:27,75,80,LSB,ER,Smith
+108,4,04:32,75,80,LSB,FR,Cipriano
+109,4,04:32,75,80,GOI,FC,F Penna
+110,4,04:32,75,80,LSB,substituicao_entra,Cipriano
+111,4,04:32,75,80,LSB,substituicao_sai,Guilherme
+112,4,04:42,75,80,GOI,3_Pts_C,F Penna
+113,4,04:50,75,77,GOI,RO,Taboada
+114,4,04:50,75,77,GOI,3_Pts_T,Fernando Mineiro
+115,4,05:12,75,77,LSB,BR,Smith
+116,4,05:12,75,77,GOI,ER,F Penna
+117,4,05:34,75,77,LSB,3_Pts_C,Smith
+118,4,05:34,72,77,LSB,AS,Schneider
+119,4,05:46,72,77,LSB,substituicao_entra,Schneider
+120,4,05:46,72,77,LSB,substituicao_sai,Diego Gomes
+121,4,05:48,72,77,LSB,tempo_tecnico,Liga Sorocabana
+122,4,05:48,72,77,GOI,LL_Pts_C,Taboada
+123,4,05:48,72,76,GOI,LL_Pts_C,Taboada
+124,4,05:48,72,75,GOI,FR,Taboada
+125,4,05:48,72,75,LSB,FC,Guilherme
+126,4,05:53,72,75,GOI,RD,Diego
+127,4,05:53,72,75,LSB,2_Pts_T,Thiaguinho
+128,4,06:11,72,75,GOI,2_Pts_C,Fernando Mineiro
+129,4,06:11,72,73,GOI,AS,F Penna
+130,4,06:29,72,73,GOI,RD,Diego
+131,4,06:29,72,73,LSB,3_Pts_T,Cox
+132,4,06:42,72,73,GOI,ER,André Luiz
+133,4,06:53,72,73,GOI,substituicao_entra,André Luiz
+134,4,06:53,72,73,GOI,substituicao_sai,Lacerda
+135,4,06:53,72,73,LSB,substituicao_entra,Diego Gomes
+136,4,06:53,72,73,LSB,substituicao_sai,Schneider
+137,4,06:53,72,73,LSB,ER,Schneider
+138,4,07:04,72,73,LSB,BR,Guilherme
+139,4,07:04,72,73,GOI,ER,Taboada
+140,4,07:14,72,73,GOI,FR,Diego
+141,4,07:14,72,73,LSB,FC,Schneider
+142,4,07:25,72,73,LSB,3_Pts_C,Smith
+143,4,07:25,69,73,LSB,AS,Cox
+144,4,07:41,69,73,LSB,RD,Guilherme
+145,4,07:41,69,73,GOI,3_Pts_T,Fernando Mineiro
+146,4,07:54,69,73,LSB,2_Pts_C,Schneider
+147,4,08:01,67,73,LSB,RD,Schneider
+148,4,08:01,67,73,LSB,TO,Guilherme
+149,4,08:01,67,73,GOI,2_Pts_T,Fernando Mineiro
+150,4,08:09,67,73,GOI,substituicao_entra,F Penna
+151,4,08:09,67,73,GOI,substituicao_entra,Fernando Mineiro
+152,4,08:09,67,73,GOI,substituicao_sai,Fábio
+153,4,08:09,67,73,GOI,substituicao_sai,Rafinha
+154,4,08:09,67,73,GOI,FR,Diego
+155,4,08:09,67,73,LSB,FC,Smith
+156,4,08:19,67,73,LSB,3_Pts_C,Cox
+157,4,08:27,64,73,LSB,RD,Smith
+158,4,08:27,64,73,GOI,3_Pts_T,Fábio
+159,4,09:48,64,73,LSB,3_Pts_C,Cox
+160,4,09:48,61,73,LSB,AS,Schneider
+161,4,09:51,61,73,LSB,substituicao_entra,Guilherme
+162,4,09:54,61,73,LSB,substituicao_sai,Cipriano
+163,4,09:56,61,73,GOI,LL_Pts_C,Taboada
+164,4,09:56,61,72,GOI,LL_Pts_C,Taboada
+165,4,09:56,61,71,GOI,FR,Taboada
+166,4,09:56,61,71,LSB,FC,Cipriano
+167,4,09:56,61,71,GOI,RD,Fábio
+168,4,09:56,61,71,LSB,2_Pts_T,Cipriano
+169,4,09:56,61,71,LSB,RD,Smith
+170,4,09:56,61,71,GOI,3_Pts_T,Diego
+171,4,09:56,61,71,GOI,RD,Fábio
+172,4,09:56,61,71,LSB,3_Pts_T,Smith
+173,3,00:00,61,71, ,fim_quarto,
+174,3,00:09,61,71,LSB,2_Pts_C,Cipriano
+175,3,00:31,59,71,GOI,2_Pts_C,Diego
+176,3,00:40,59,69,LSB,substituicao_entra,Smith
+177,3,00:40,59,69,LSB,substituicao_sai,Guilherme
+178,3,00:40,59,69,LSB,LL_Pts_C,Cipriano
+179,3,00:40,58,69,LSB,LL_Pts_C,Cipriano
+180,3,00:40,57,69,GOI,substituicao_entra,Diego
+181,3,00:40,57,69,GOI,substituicao_sai,Fernando Mineiro
+182,3,00:40,57,69,LSB,FR,Cipriano
+183,3,00:40,57,69,GOI,FC,Fernando Mineiro
+184,3,00:54,57,69,GOI,ER,Fernando Mineiro
+185,3,00:55,57,69,LSB,substituicao_entra,Diego Gomes
+186,3,00:55,57,69,LSB,substituicao_sai,Cox
+187,3,01:11,57,69,LSB,2_Pts_C,Cipriano
+188,3,01:25,55,69,GOI,FR,Rafinha
+189,3,01:25,55,69,LSB,FC,Cox
+190,3,01:27,55,69,GOI,LL_Pts_C,Rafinha
+191,3,01:27,55,68,GOI,LL_Pts_C,Rafinha
+192,3,01:46,55,67,LSB,2_Pts_C,Cipriano
+193,3,01:46,53,67,LSB,AS,Thiaguinho
+194,3,01:53,53,67,LSB,3_Pts_C,Cox
+195,3,01:53,50,67,LSB,AS,Thiaguinho
+196,3,01:55,50,67,GOI,substituicao_entra,Fábio
+197,3,01:55,50,67,GOI,substituicao_entra,Rafinha
+198,3,01:55,50,67,GOI,substituicao_sai,F Penna
+199,3,01:55,50,67,GOI,substituicao_sai,Diego
+200,3,01:55,50,67,GOI,LL_Pts_C,Taboada
+201,3,01:55,50,66,GOI,LL_Pts_C,Taboada
+202,3,01:55,50,65,GOI,FR,Taboada
+203,3,01:55,50,65,LSB,FC,Guilherme
+204,3,02:18,50,65,GOI,3_Pts_C,Taboada
+205,3,02:18,50,62,GOI,AS,F Penna
+206,3,02:26,50,62,GOI,RD,Diego
+207,3,02:26,50,62,LSB,3_Pts_T,Schneider
+208,3,02:41,50,62,GOI,2_Pts_C,Fernando Mineiro
+209,3,02:41,50,60,GOI,AS,Diego
+210,3,02:45,50,60,GOI,BR,Diego
+211,3,02:45,50,60,LSB,ER,Schneider
+212,3,03:15,50,60,LSB,substituicao_entra,Cox
+213,3,03:15,50,60,LSB,substituicao_sai,Diego Gomes
+214,3,03:15,50,60,LSB,tempo_tecnico,Liga Sorocabana
+215,3,03:15,50,60,GOI,2_Pts_C,Taboada
+216,3,03:38,50,58,LSB,LL_Pts_C,Schneider
+217,3,03:38,49,58,LSB,LL_Pts_T,Schneider
+218,3,03:38,49,58,LSB,FR,Schneider
+219,3,03:38,49,58,GOI,FC,Diego
+220,3,03:38,49,58,LSB,substituicao_entra,Schneider
+221,3,03:38,49,58,LSB,substituicao_sai,Cox
+222,3,03:55,49,58,LSB,substituicao_entra,Cipriano
+223,3,03:57,49,58,LSB,substituicao_sai,Smith
+224,3,03:57,49,58,GOI,,
+225,3,04:06,49,58,LSB,substituicao_sai,Schneider
+226,3,04:06,49,58,LSB,substituicao_entra,Cox
+227,3,04:06,49,58,LSB,substituicao_entra,Schneider
+228,3,04:06,49,58,LSB,substituicao_sai,Alfredo
+229,3,04:06,49,58,GOI,FR,Lacerda
+230,3,04:06,49,58,LSB,FC,Smith
+231,3,04:13,49,58,GOI,RD,Goiânia
+232,3,04:13,49,58,LSB,2_Pts_T,Smith
+233,3,04:33,49,58,GOI,3_Pts_C,Taboada
+234,3,04:33,49,55,GOI,AS,F Penna
+235,3,04:49,49,55,GOI,LL_Pts_C,F Penna
+236,3,04:49,49,54,GOI,LL_Pts_C,F Penna
+237,3,04:49,49,53,GOI,substituicao_entra,Lacerda
+238,3,04:49,49,53,GOI,substituicao_sai,Adyb
+239,3,04:49,49,53,LSB,substituicao_entra,Diego Gomes
+240,3,04:49,49,53,LSB,substituicao_sai,Cox
+241,3,04:49,49,53,GOI,FR,F Penna
+242,3,04:49,49,53,LSB,FC_A,Cox
+243,3,05:03,49,53,GOI,RD,Diego
+244,3,05:03,49,53,LSB,3_Pts_T,Alfredo
+245,3,05:10,49,53,LSB,RD,Guilherme
+246,3,05:10,49,53,GOI,3_Pts_T,Adyb
+247,3,05:27,49,53,GOI,FR,Adyb
+248,3,05:27,49,53,LSB,FC,Guilherme
+249,3,05:32,49,53,GOI,RD,Adyb
+250,3,05:32,49,53,LSB,2_Pts_T,Cox
+251,3,05:41,49,53,LSB,RD,Cox
+252,3,05:41,49,53,GOI,3_Pts_T,Diego
+253,3,05:57,49,53,LSB,substituicao_entra,Alfredo
+254,3,05:57,49,53,LSB,substituicao_sai,Schneider
+255,3,06:02,49,53,LSB,2_Pts_C,Cox
+256,3,06:09,47,53,LSB,RD,Smith
+257,3,06:09,47,53,LSB,TO,Smith
+258,3,06:09,47,53,GOI,2_Pts_T,Taboada
+259,3,06:24,47,53,LSB,2_Pts_C,Cox
+260,3,06:35,45,53,GOI,substituicao_entra,Adyb
+261,3,06:36,45,53,GOI,substituicao_sai,André Luiz
+262,3,06:48,45,53,GOI,2_Pts_C,Diego
+263,3,06:50,45,51,LSB,2_Pts_C,Cox
+264,3,06:54,43,51,GOI,FR,Taboada
+265,3,06:54,43,51,LSB,FC,Schneider
+266,3,07:22,43,51,GOI,2_Pts_C,Diego
+267,3,07:27,43,49,GOI,RD,Taboada
+268,3,07:27,43,49,LSB,2_Pts_T,Schneider
+269,3,07:33,43,49,LSB,FR,Cox
+270,3,07:33,43,49,GOI,FC,André Luiz
+271,3,07:34,43,49,LSB,RO,Cox
+272,3,07:34,43,49,LSB,2_Pts_T,Guilherme
+273,3,07:39,43,49,LSB,RO,Guilherme
+274,3,07:39,43,49,LSB,2_Pts_T,Cox
+275,3,07:48,43,49,LSB,FR,Guilherme
+276,3,07:48,43,49,GOI,FC,Fernando Mineiro
+277,3,07:55,43,49,LSB,RD,Guilherme
+278,3,07:55,43,49,GOI,3_Pts_T,Taboada
+279,3,08:11,43,49,LSB,3_Pts_C,Schneider
+280,3,08:19,40,49,LSB,RD,Thiaguinho
+281,3,08:19,40,49,GOI,3_Pts_T,Fernando Mineiro
+282,3,08:48,40,49,GOI,BR,Goiânia
+283,3,08:48,40,49,LSB,ER,Guilherme
+284,3,09:04,40,49,GOI,2_Pts_C,Diego
+285,3,09:04,40,47,GOI,AS,Fernando Mineiro
+286,3,09:11,40,47,LSB,RO,Guilherme
+287,3,09:11,40,47,LSB,2_Pts_T,Smith
+288,3,09:14,40,47,LSB,LL_Pts_C,Guilherme
+289,3,09:14,39,47,LSB,LL_Pts_T,Guilherme
+290,3,09:14,39,47,LSB,FR,Guilherme
+291,3,09:14,39,47,GOI,FC,André Luiz
+292,3,09:16,39,47,LSB,RO,Smith
+293,3,09:16,39,47,LSB,2_Pts_T,Cox
+294,3,09:26,39,47,LSB,RO,Guilherme
+295,3,09:26,39,47,LSB,2_Pts_T,Schneider
+296,3,09:39,39,47,LSB,BR,Liga Sorocabana
+297,3,09:39,39,47,GOI,ER,Diego
+298,2,00:00,39,47, ,fim_quarto,
+299,2,00:00,39,47,GOI,2_Pts_T,Diego
+300,2,00:13,39,47,GOI,RD,F Penna
+301,2,00:13,39,47,LSB,LL_Pts_T,Cipriano
+302,2,00:13,39,47,LSB,LL_Pts_T,Cipriano
+303,2,00:13,39,47,GOI,substituicao_entra,Fábio
+304,2,00:13,39,47,GOI,substituicao_sai,Adyb
+305,2,00:13,39,47,LSB,FR,Cipriano
+306,2,00:13,39,47,GOI,FC,Adyb
+307,2,00:18,39,47,LSB,RO,Thiaguinho
+308,2,00:18,39,47,LSB,3_Pts_T,Cox
+309,2,00:32,39,47,GOI,2_Pts_C,Taboada
+310,2,00:49,39,45,LSB,3_Pts_C,Cipriano
+311,2,01:09,36,45,GOI,2_Pts_C,Adyb
+312,2,01:09,36,43,GOI,AS,Fernando Mineiro
+313,2,01:20,36,43,LSB,EN,Smith
+314,2,01:20,34,43,LSB,AS,Cipriano
+315,2,01:37,34,43,GOI,2_Pts_C,F Penna
+316,2,01:55,34,41,GOI,RD,Fernando Mineiro
+317,2,01:55,34,41,LSB,LL_Pts_T,Cipriano
+318,2,01:55,34,41,LSB,LL_Pts_C,Cipriano
+319,2,01:55,33,41,LSB,FR,Cipriano
+320,2,01:55,33,41,GOI,FC,Diego
+321,2,02:16,33,41,GOI,3_Pts_C,Taboada
+322,2,02:16,33,38,GOI,AS,Diego
+323,2,02:23,33,38,GOI,RD,Fernando Mineiro
+324,2,02:23,33,38,LSB,2_Pts_T,Smith
+325,2,02:28,33,38,LSB,BR,Diego Gomes
+326,2,02:28,33,38,GOI,ER,F Penna
+327,2,02:30,33,38,GOI,substituicao_entra,F Penna
+328,2,02:30,33,38,GOI,substituicao_sai,Rafinha
+329,2,02:34,33,38,LSB,3_Pts_C,Thiaguinho
+330,2,02:34,30,38,LSB,AS,Cipriano
+331,2,02:50,30,38,GOI,LL_Pts_C,Taboada
+332,2,02:50,30,37,GOI,LL_Pts_T,Taboada
+333,2,02:50,30,37,GOI,FR,Taboada
+334,2,02:50,30,37,LSB,FC,Cox
+335,2,02:54,30,37,GOI,BR,Taboada
+336,2,02:54,30,37,LSB,ER,Diego Gomes
+337,2,03:07,30,37,LSB,BR,Smith
+338,2,03:07,30,37,GOI,ER,Diego
+339,2,03:29,30,37,GOI,BR,Goiânia
+340,2,03:29,30,37,LSB,ER,Thiaguinho
+341,2,03:35,30,37,LSB,RD,Thiaguinho
+342,2,03:35,30,37,GOI,3_Pts_T,Diego
+343,2,03:44,30,37,GOI,FR,Taboada
+344,2,03:44,30,37,LSB,FC,Smith
+345,2,03:52,30,37,LSB,2_Pts_C,Diego Gomes
+346,2,04:16,28,37,GOI,3_Pts_C,Taboada
+347,2,04:16,28,34,GOI,AS,Diego
+348,2,04:26,28,34,GOI,substituicao_entra,Diego
+349,2,04:26,28,34,LSB,2_Pts_C,Smith
+350,2,04:27,26,34,GOI,substituicao_entra,Adyb
+351,2,04:30,26,34,GOI,substituicao_sai,Lacerda
+352,2,04:31,26,34,GOI,substituicao_sai,Fábio
+353,2,04:36,26,34,LSB,BR,Smith
+354,2,04:36,26,34,GOI,ER,Rafinha
+355,2,04:46,26,34,GOI,RD,Rafinha
+356,2,04:46,26,34,LSB,TO,Diego Gomes
+357,2,04:46,26,34,GOI,2_Pts_T,Rafinha
+358,2,05:05,26,34,GOI,RD,Fábio
+359,2,05:05,26,34,LSB,2_Pts_T,Thiaguinho
+360,2,05:18,26,34,LSB,BR,Cipriano
+361,2,05:18,26,34,GOI,ER,Taboada
+362,2,05:23,26,34,GOI,substituicao_entra,Lacerda
+363,2,05:23,26,34,GOI,substituicao_entra,Rafinha
+364,2,05:23,26,34,GOI,substituicao_sai,F Penna
+365,2,05:23,26,34,GOI,substituicao_sai,André Luiz
+366,2,05:23,26,34,LSB,substituicao_entra,Diego Gomes
+367,2,05:23,26,34,LSB,substituicao_sai,Schneider
+368,2,05:23,26,34,GOI,FR,Taboada
+369,2,05:23,26,34,LSB,FC,Schneider
+370,2,05:39,26,34,LSB,2_Pts_C,Schneider
+371,2,05:45,24,34,LSB,BR,Schneider
+372,2,05:45,24,34,GOI,ER,André Luiz
+373,2,06:00,24,34,GOI,RD,F Penna
+374,2,06:00,24,34,GOI,TO,André Luiz
+375,2,06:00,24,34,LSB,2_Pts_T,Cox
+376,2,06:08,24,34,LSB,RD,Cipriano
+377,2,06:08,24,34,GOI,2_Pts_T,Taboada
+378,2,06:14,24,34,LSB,2_Pts_C,Smith
+379,2,06:19,22,34,LSB,RO,Smith
+380,2,06:19,22,34,LSB,2_Pts_T,Cipriano
+381,2,06:24,22,34,LSB,RO,Cipriano
+382,2,06:24,22,34,LSB,2_Pts_T,Cipriano
+383,2,06:33,22,34,LSB,substituicao_entra,Smith
+384,2,06:33,22,34,LSB,substituicao_entra,Cox
+385,2,06:33,22,34,LSB,substituicao_sai,Diego Gomes
+386,2,06:33,22,34,LSB,substituicao_sai,Verson
+387,2,06:33,22,34,LSB,FR,Cipriano
+388,2,06:33,22,34,GOI,FC,André Luiz
+389,2,06:36,22,34,LSB,RO,Schneider
+390,2,06:36,22,34,LSB,3_Pts_T,Verson
+391,2,06:47,22,34,LSB,FR,Cipriano
+392,2,06:47,22,34,GOI,FC,Fábio
+393,2,06:48,22,34,LSB,FR,Diego Gomes
+394,2,06:48,22,34,GOI,FC,Fábio
+395,2,06:49,22,34,GOI,substituicao_entra,André Luiz
+396,2,06:49,22,34,GOI,substituicao_sai,Adyb
+397,2,06:49,22,34,LSB,substituicao_entra,Thiaguinho
+398,2,06:49,22,34,LSB,substituicao_sai,Cox
+399,2,07:03,22,34,LSB,RD,Liga Sorocabana
+400,2,07:03,22,34,GOI,3_Pts_T,Fábio
+401,2,07:16,22,34,GOI,BR,Fábio
+402,2,07:16,22,34,LSB,ER,Verson
+403,2,07:42,22,34,LSB,RD,Cipriano
+404,2,07:42,22,34,GOI,2_Pts_T,Adyb
+405,2,07:51,22,34,GOI,substituicao_entra,Taboada
+406,2,07:51,22,34,GOI,substituicao_sai,Diego
+407,2,07:51,22,34,LSB,substituicao_entra,Cipriano
+408,2,07:51,22,34,LSB,substituicao_sai,Guilherme
+409,2,07:51,22,34,LSB,substituicao_entra,Diego Gomes
+410,2,07:51,22,34,LSB,substituicao_sai,Thiaguinho
+411,2,07:51,22,34,GOI,FR,Diego
+412,2,07:51,22,34,LSB,FC,Thiaguinho
+413,2,08:00,22,34,GOI,RD,F Penna
+414,2,08:00,22,34,LSB,3_Pts_T,Thiaguinho
+415,2,08:13,22,34,LSB,FR,Cox
+416,2,08:13,22,34,GOI,FC,F Penna
+417,2,08:25,22,34,GOI,3_Pts_C,Fábio
+418,2,08:25,22,31,GOI,AS,F Penna
+419,2,08:45,22,31,GOI,RD,F Penna
+420,2,08:45,22,31,LSB,2_Pts_T,Guilherme
+421,2,09:15,22,31,LSB,substituicao_entra,Verson
+422,2,09:15,22,31,LSB,substituicao_sai,Cipriano
+423,2,09:34,22,31,GOI,2_Pts_C,Fernando Mineiro
+424,2,09:34,22,29,GOI,BR,Fábio
+425,2,09:34,22,29,LSB,ER,Guilherme
+426,2,10:00,22,29,GOI,EN,Adyb
+427,2,10:00,22,27,GOI,AS,F Penna
+428,2,10:00,22,27,GOI,BR,Adyb
+429,2,10:00,22,27,LSB,ER,Thiaguinho
+430,1,00:00,22,27, ,fim_quarto,
+431,1,00:04,22,27,GOI,RD,F Penna
+432,1,00:04,22,27,LSB,3_Pts_T,Schneider
+433,1,00:21,22,27,GOI,2_Pts_C,Adyb
+434,1,00:21,22,25,GOI,AS,Fernando Mineiro
+435,1,00:38,22,25,GOI,RD,F Penna
+436,1,00:38,22,25,LSB,3_Pts_T,Smith
+437,1,00:55,22,25,GOI,3_Pts_C,Diego
+438,1,00:55,22,22,GOI,AS,F Penna
+439,1,00:59,22,22,LSB,substituicao_entra,Cox
+440,1,00:59,22,22,LSB,substituicao_sai,Lupa
+441,1,00:59,22,22,GOI,FR,Taboada
+442,1,00:59,22,22,LSB,FC,Smith
+443,1,01:12,22,22,LSB,3_Pts_C,Schneider
+444,1,01:12,19,22,LSB,AS,Smith
+445,1,01:26,19,22,LSB,tempo_tecnico,Liga Sorocabana
+446,1,01:26,19,22,GOI,3_Pts_C,Fernando Mineiro
+447,1,01:26,19,19,GOI,AS,Taboada
+448,1,01:37,19,19,GOI,RD,Adyb
+449,1,01:37,19,19,LSB,2_Pts_T,Smith
+450,1,02:01,19,19,GOI,2_Pts_C,Diego
+451,1,02:03,19,17,GOI,FR,F Penna
+452,1,02:03,19,17,LSB,FC,Thiaguinho
+453,1,02:09,19,17,GOI,BR,F Penna
+454,1,02:09,19,17,LSB,ER,Schneider
+455,1,02:33,19,17,LSB,substituicao_entra,Smith
+456,1,02:33,19,17,LSB,substituicao_sai,Cox
+457,1,02:33,19,17,GOI,substituicao_entra,Adyb
+458,1,02:33,19,17,GOI,substituicao_sai,André Luiz
+459,1,02:33,19,17,LSB,substituicao_entra,De Bem
+460,1,02:33,19,17,LSB,substituicao_sai,Guilherme
+461,1,02:33,19,17,GOI,ER,André Luiz
+462,1,02:45,19,17,LSB,2_Pts_C,Cox
+463,1,02:50,17,17,LSB,RO,Cox
+464,1,02:50,17,17,LSB,2_Pts_T,Cox
+465,1,03:10,17,17,LSB,RD,Guilherme
+466,1,03:10,17,17,GOI,3_Pts_T,Taboada
+467,1,03:19,17,17,GOI,RD,André Luiz
+468,1,03:19,17,17,LSB,2_Pts_T,Lupa
+469,1,03:43,17,17,GOI,,
+470,1,03:53,17,17,GOI,RD,F Penna
+471,1,03:53,17,17,LSB,3_Pts_T,Cox
+472,1,04:09,17,17,LSB,FR,Thiaguinho
+473,1,04:09,17,17,GOI,FC,Diego
+474,1,04:10,17,17,LSB,RD,Lupa
+475,1,04:10,17,17,GOI,2_Pts_T,André Luiz
+476,1,04:12,17,17,LSB,substituicao_entra,Thiaguinho
+477,1,04:13,17,17,LSB,substituicao_sai,Alfredo
+478,1,04:20,17,17,LSB,LL_Pts_C,Schneider
+479,1,04:20,16,17,LSB,LL_Pts_C,Schneider
+480,1,04:20,15,17,GOI,substituicao_entra,André Luiz
+481,1,04:20,15,17,GOI,substituicao_entra,F Penna
+482,1,04:20,15,17,GOI,substituicao_sai,Rafinha
+483,1,04:20,15,17,GOI,substituicao_sai,Lacerda
+484,1,04:20,15,17,LSB,substituicao_entra,Lupa
+485,1,04:20,15,17,LSB,substituicao_sai,Cipriano
+486,1,04:20,15,17,LSB,FR,Schneider
+487,1,04:20,15,17,GOI,FC,Taboada
+488,1,04:20,15,17,GOI,2_Pts_C,Taboada
+489,1,04:20,15,15,GOI,AS,Diego
+490,1,04:42,15,15,GOI,RO,Goiânia
+491,1,04:42,15,15,LSB,TO,Guilherme
+492,1,04:42,15,15,GOI,2_Pts_T,Fernando Mineiro
+493,1,05:01,15,15,LSB,EN,Cox
+494,1,05:05,13,15,LSB,BR,Cox
+495,1,05:05,13,15,GOI,ER,Lacerda
+496,1,05:23,13,15,LSB,3_Pts_C,Schneider
+497,1,05:33,10,15,GOI,2_Pts_C,Lacerda
+498,1,05:41,10,13,GOI,BR,Diego
+499,1,05:41,10,13,LSB,ER,Cox
+500,1,05:59,10,13,LSB,BR,Cox
+501,1,05:59,10,13,GOI,ER,Lacerda
+502,1,06:24,10,13,LSB,2_Pts_C,Schneider
+503,1,06:36,8,13,GOI,2_Pts_C,Lacerda
+504,1,06:44,8,11,GOI,RD,Fernando Mineiro
+505,1,06:44,8,11,GOI,TO,Fernando Mineiro
+506,1,06:44,8,11,LSB,2_Pts_T,Cipriano
+507,1,07:06,8,11,GOI,3_Pts_C,Fernando Mineiro
+508,1,07:06,8,8,GOI,AS,Diego
+509,1,07:23,8,8,GOI,FR,Rafinha
+510,1,07:23,8,8,LSB,FC,Schneider
+511,1,07:28,8,8,LSB,LL_Pts_C,Cipriano
+512,1,07:28,7,8,LSB,LL_Pts_C,Cipriano
+513,1,07:28,6,8,LSB,substituicao_entra,Schneider
+514,1,07:28,6,8,LSB,substituicao_sai,Smith
+515,1,07:28,6,8,LSB,FR,Cipriano
+516,1,07:28,6,8,GOI,FC,Lacerda
+517,1,07:40,6,8,GOI,2_Pts_C,Fernando Mineiro
+518,1,07:40,6,6,GOI,AS,Lacerda
+519,1,07:48,6,6,LSB,2_Pts_C,Guilherme
+520,1,07:48,4,6,LSB,AS,Smith
+521,1,08:09,4,6,GOI,EN,Lacerda
+522,1,08:09,4,4,GOI,AS,Diego
+523,1,08:13,4,4,LSB,substituicao_entra,Smith
+524,1,08:13,4,4,LSB,substituicao_sai,Smith
+525,1,08:13,4,4,LSB,LL_Pts_C,Cox
+526,1,08:13,3,4,LSB,LL_Pts_C,Cox
+527,1,08:13,2,4,LSB,FR,Cox
+528,1,08:13,2,4,GOI,FC,Lacerda
+529,1,08:26,2,4,LSB,RD,Guilherme
+530,1,08:26,2,4,GOI,2_Pts_T,Lacerda
+531,1,08:33,2,4,LSB,2_Pts_T,Guilherme
+532,1,08:37,2,4,LSB,2_Pts_C,Cox
+533,1,08:46,0,4,LSB,BR,Cox
+534,1,08:46,0,4,GOI,ER,Diego
+535,1,09:09,0,4,GOI,RO,Diego
+536,1,09:29,0,4,GOI,2_Pts_C,Diego
+537,1,09:35,0,2,GOI,RD,Rafinha
+538,1,09:35,0,2,LSB,3_Pts_T,Smith
+539,1,09:51,0,2,GOI,2_Pts_C,Diego
+540,1,09:51,0,0,GOI,AS,Fernando Mineiro
+541,1,10:00,0,0,LSB,substituicao_entra,Guilherme
+542,1,10:00,0,0,GOI,substituicao_entra,Fernando Mineiro
+543,1,10:00,0,0,LSB,substituicao_entra,Smith
+544,1,10:00,0,0,LSB,substituicao_entra,Cox
+545,1,10:00,0,0,GOI,substituicao_entra,Rafinha
+546,1,10:00,0,0,GOI,substituicao_entra,Taboada
+547,1,10:00,0,0,LSB,substituicao_entra,Alfredo
+548,1,10:00,0,0,LSB,substituicao_entra,Cipriano
+549,1,10:00,0,0,GOI,substituicao_entra,Diego
+550,1,10:00,0,0,GOI,substituicao_entra,Lacerda

@@ -1,0 +1,536 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,100,81, ,fim_partida,
+1,4,00:00,100,81,PIN,EN,Toyloy
+2,4,00:00,100,79,PIN,BR,Toyloy
+3,4,00:00,100,79,PAU,ER,César
+4,4,00:04,100,79,PIN,3_Pts_T,Lucas Dias
+5,4,00:04,100,79,PAU,EN,César
+6,4,00:04,98,79,PAU,AS,Duso
+7,4,00:07,98,79,PIN,LL_Pts_C,Humberto
+8,4,00:07,98,78,PIN,FR,Humberto
+9,4,00:07,98,78,PAU,FC,Duso
+10,4,00:07,98,78,PIN,2_Pts_C,Humberto
+11,4,00:12,98,76,PAU,LL_Pts_C,Duso
+12,4,00:12,97,76,PAU,LL_Pts_C,Duso
+13,4,00:12,96,76,PAU,FR,Duso
+14,4,00:12,96,76,PIN,FC,Joe Smith
+15,4,00:12,96,76,PAU,RD,Duso
+16,4,00:12,96,76,PIN,3_Pts_T,Lucas Dias
+17,4,00:15,96,76,PAU,2_Pts_C,César
+18,4,00:22,94,76,PAU,RO,César
+19,4,00:22,94,76,PAU,2_Pts_T,Duso
+20,4,00:28,94,76,PAU,BR,Duso
+21,4,00:28,94,76,PIN,ER,Joe Smith
+22,4,00:40,94,76,PAU,3_Pts_C,André
+23,4,00:40,91,76,PAU,AS,Duso
+24,4,01:00,91,76,PIN,substituicao_sai,Shamell
+25,4,01:00,91,76,PIN,substituicao_entra,Humberto
+26,4,01:00,91,76,PIN,EN,Toyloy
+27,4,01:02,91,74,PIN,RO,Toyloy
+28,4,01:02,91,74,PIN,3_Pts_T,Joe Smith
+29,4,01:13,91,74,PAU,substituicao_sai,Gemerson
+30,4,01:13,91,74,PAU,substituicao_entra,Arthur
+31,4,01:13,91,74,PAU,LL_Pts_C,Gemerson
+32,4,01:13,90,74,PAU,LL_Pts_T,Gemerson
+33,4,01:13,90,74,PAU,substituicao_sai,Dawkins
+34,4,01:13,90,74,PAU,substituicao_entra,Duso
+35,4,01:13,90,74,PAU,FR,Gemerson
+36,4,01:13,90,74,PIN,FC,Lucas Dias
+37,4,01:28,90,74,PIN,2_Pts_C,Lucas Dias
+38,4,01:39,90,72,PAU,2_Pts_C,Arthur Pecos
+39,4,01:39,88,72,PAU,AS,Gemerson
+40,4,01:52,88,72,PIN,LL_Pts_C,Lucas Dias
+41,4,01:52,88,71,PIN,LL_Pts_C,Lucas Dias
+42,4,01:52,88,70,PIN,FR,Lucas Dias
+43,4,01:52,88,70,PAU,FC,César
+44,4,02:00,88,70,PAU,substituicao_entra,Arthur Pecos
+45,4,02:00,88,70,PAU,substituicao_entra,Gemerson
+46,4,02:00,88,70,PAU,substituicao_sai,Labbate
+47,4,02:00,88,70,PAU,substituicao_sai,Pedro
+48,4,02:00,88,70,PIN,tempo_tecnico,Pinheiros
+49,4,02:00,88,70,PAU,3_Pts_C,César
+50,4,02:00,85,70,PAU,AS,Dawkins
+51,4,02:34,85,70,PIN,2_Pts_C,Shamell
+52,4,02:34,85,68,PIN,AS,Lucas Dias
+53,4,02:38,85,68,PIN,BR,Lucas Dias
+54,4,02:38,85,68,PAU,ER,Pedro
+55,4,02:57,85,68,PAU,RO,Labbate
+56,4,02:57,85,68,PAU,2_Pts_T,Dawkins
+57,4,03:17,85,68,PAU,RD,Labbate
+58,4,03:17,85,68,PIN,2_Pts_T,Shamell
+59,4,03:20,85,68,PIN,FR,Joe Smith
+60,4,03:20,85,68,PAU,FC,Labbate
+61,4,03:21,85,68,PAU,substituicao_entra,César
+62,4,03:21,85,68,PAU,substituicao_entra,Pedro
+63,4,03:21,85,68,PAU,substituicao_sai,Holloway
+64,4,03:21,85,68,PAU,substituicao_sai,Pilar
+65,4,03:21,85,68,PIN,substituicao_sai,Bambu
+66,4,03:21,85,68,PIN,substituicao_entra,Toyloy
+67,4,03:21,85,68,PIN,substituicao_sai,Humberto
+68,4,03:21,85,68,PIN,substituicao_entra,Bruno Mortari
+69,4,03:21,85,68,PIN,BR,Pinheiros
+70,4,03:21,85,68,PAU,ER,Dawkins
+71,4,03:22,85,68,PAU,RO,Dawkins
+72,4,03:22,85,68,PAU,2_Pts_T,Dawkins
+73,4,03:47,85,68,PIN,3_Pts_C,Lucas Dias
+74,4,03:54,85,65,PIN,RO,Lucas Dias
+75,4,03:54,85,65,PIN,3_Pts_T,Lucas Dias
+76,4,04:09,85,65,PAU,3_Pts_C,André
+77,4,04:31,82,65,PAU,RD,Pilar
+78,4,04:31,82,65,PIN,2_Pts_T,Joe Smith
+79,4,04:43,82,65,PIN,substituicao_sai,Morro
+80,4,04:43,82,65,PIN,substituicao_entra,Bambu
+81,4,04:43,82,65,PAU,substituicao_sai,Mineiro
+82,4,04:43,82,65,PAU,substituicao_entra,Labbate
+83,4,04:43,82,65,PIN,FR,Joe Smith
+84,4,04:43,82,65,PAU,FC,André
+85,4,04:50,82,65,PIN,RD,Lucas Dias
+86,4,04:50,82,65,PAU,3_Pts_T,André
+87,4,05:16,82,65,PAU,RD,Mineiro
+88,4,05:16,82,65,PIN,3_Pts_T,Humberto
+89,4,05:31,82,65,PIN,RD,Humberto
+90,4,05:31,82,65,PAU,2_Pts_T,Holloway
+91,4,05:46,82,65,PAU,FR,Dawkins
+92,4,05:46,82,65,PIN,FC,Lucas Dias
+93,4,05:51,82,65,PIN,LL_Pts_C,Shamell
+94,4,05:51,82,64,PIN,FR,Shamell
+95,4,05:51,82,64,PAU,FC,Holloway
+96,4,05:51,82,64,PIN,2_Pts_C,Shamell
+97,4,06:04,82,62,PAU,LL_Pts_C,Holloway
+98,4,06:04,81,62,PAU,FR,Holloway
+99,4,06:04,81,62,PIN,FC,Humberto
+100,4,06:04,81,62,PAU,3_Pts_C,Holloway
+101,4,06:04,78,62,PAU,AS,André
+102,4,06:23,78,62,PIN,substituicao_entra,Joe Smith
+103,4,06:23,78,62,PIN,substituicao_sai,Bambu
+104,4,06:23,78,62,PIN,2_Pts_C,Shamell
+105,4,06:23,78,60,PIN,RO,Shamell
+106,4,06:23,78,60,PIN,2_Pts_T,Shamell
+107,4,06:36,78,60,PAU,substituicao_sai,Pedro
+108,4,06:36,78,60,PAU,substituicao_entra,André
+109,4,06:36,78,60,PAU,ER,
+110,4,07:01,78,60,PAU,substituicao_entra,Mineiro
+111,4,07:01,78,60,PAU,substituicao_entra,Holloway
+112,4,07:01,78,60,PAU,substituicao_sai,César
+113,4,07:01,78,60,PAU,substituicao_sai,André
+114,4,07:01,78,60,PAU,RD,Paulistano
+115,4,07:01,78,60,PIN,3_Pts_T,Bambu
+116,4,07:19,78,60,PAU,ER,
+117,4,07:45,78,60,PIN,2_Pts_C,Shamell
+118,4,07:49,78,58,PIN,BR,Shamell
+119,4,07:49,78,58,PAU,ER,César
+120,4,07:55,78,58,PAU,FR,Dawkins
+121,4,07:55,78,58,PIN,FC,Lucas Dias
+122,4,08:08,78,58,PAU,RD,Pedro
+123,4,08:08,78,58,PIN,2_Pts_T,Morro
+124,4,08:20,78,58,PIN,RD,Lucas Dias
+125,4,08:20,78,58,PAU,3_Pts_T,Pilar
+126,4,08:35,78,58,PAU,BR,Pilar
+127,4,08:35,78,58,PIN,ER,Shamell
+128,4,08:39,78,58,PIN,BR,Shamell
+129,4,08:39,78,58,PAU,ER,Pedro
+130,4,08:49,78,58,PIN,2_Pts_C,Shamell
+131,4,09:00,78,56,PIN,RD,Shamell
+132,4,09:00,78,56,PAU,3_Pts_T,César
+133,4,09:03,78,56,PAU,substituicao_sai,Holloway
+134,4,09:03,78,56,PAU,substituicao_entra,Pedro
+135,4,09:03,78,56,PAU,FR,Dawkins
+136,4,09:03,78,56,PIN,FC,Humberto
+137,4,09:18,78,56,PIN,LL_Pts_C,Morro
+138,4,09:18,78,55,PIN,LL_Pts_C,Morro
+139,4,09:18,78,54,PAU,substituicao_sai,Mineiro
+140,4,09:18,78,54,PAU,substituicao_entra,Pilar
+141,4,09:18,78,54,PIN,FR,Morro
+142,4,09:18,78,54,PAU,FC,Mineiro
+143,4,09:27,78,54,PIN,BR,Pinheiros
+144,4,09:27,78,54,PAU,ER,César
+145,4,09:48,78,54,PIN,EN,Morro
+146,3,00:00,78,52, ,fim_quarto,
+147,3,00:08,78,52,PIN,3_Pts_T,Morro
+148,3,00:16,78,52,PAU,3_Pts_C,César
+149,3,00:16,75,52,PAU,AS,André
+150,3,00:25,75,52,PAU,RD,Labbate
+151,3,00:25,75,52,PIN,LL_Pts_T,Humberto
+152,3,00:25,75,52,PIN,LL_Pts_C,Humberto
+153,3,00:25,75,51,PIN,FR,Humberto
+154,3,00:25,75,51,PAU,FC,César
+155,3,00:42,75,51,PIN,substituicao_sai,Joe Smith
+156,3,00:42,75,51,PIN,substituicao_entra,Humberto
+157,3,00:52,75,51,PIN,RD,Shamell
+158,3,00:52,75,51,PIN,TO,Rafael Mineiro
+159,3,00:52,75,51,PAU,2_Pts_T,César
+160,3,01:20,75,51,PAU,BR,André
+161,3,01:20,75,51,PIN,ER,Joe Smith
+162,3,01:24,75,51,PIN,BR,Joe Smith
+163,3,01:24,75,51,PAU,ER,Arthur Pecos
+164,3,01:29,75,51,PIN,LL_Pts_C,Bruno Caboclo
+165,3,01:29,75,50,PIN,LL_Pts_C,Bruno Caboclo
+166,3,01:29,75,49,PIN,FR,Bruno Caboclo
+167,3,01:29,75,49,PAU,FC,André
+168,3,01:39,75,49,PAU,LL_Pts_C,Labbate
+169,3,01:39,74,49,PAU,LL_Pts_T,Labbate
+170,3,01:39,74,49,PAU,FR,Labbate
+171,3,01:39,74,49,PIN,FC,Morro
+172,3,01:39,74,49,PAU,RO,Labbate
+173,3,01:39,74,49,PAU,3_Pts_T,César
+174,3,01:52,74,49,PIN,substituicao_sai,Babby
+175,3,01:52,74,49,PIN,substituicao_entra,Morro
+176,3,01:52,74,49,PIN,LL_Pts_C,Shamell
+177,3,01:52,74,48,PIN,LL_Pts_C,Shamell
+178,3,01:52,74,47,PIN,FR,Shamell
+179,3,01:52,74,47,PAU,FC,Labbate
+180,3,02:10,74,47,PAU,LL_Pts_C,Pedro
+181,3,02:10,73,47,PAU,substituicao_entra,Arthur Pecos
+182,3,02:10,73,47,PAU,substituicao_sai,Dawkins
+183,3,02:10,73,47,PAU,substituicao_sai,Pilar
+184,3,02:10,73,47,PAU,substituicao_entra,André
+185,3,02:10,73,47,PAU,FR,Pedro
+186,3,02:10,73,47,PIN,FC,Babby
+187,3,02:10,73,47,PAU,2_Pts_C,Pedro
+188,3,02:12,71,47,PAU,BR,Pilar
+189,3,02:12,71,47,PIN,ER,Bruno Caboclo
+190,3,02:20,71,47,PIN,RD,Bruno Caboclo
+191,3,02:20,71,47,PAU,3_Pts_T,Pedro
+192,3,02:44,71,47,PIN,3_Pts_C,Joe Smith
+193,3,02:52,71,44,PIN,RD,Bruno Caboclo
+194,3,02:52,71,44,PAU,3_Pts_T,Pedro
+195,3,03:06,71,44,PIN,2_Pts_C,Shamell
+196,3,03:22,71,42,PAU,3_Pts_C,Pilar
+197,3,03:45,68,42,PAU,RD,Paulistano
+198,3,03:45,68,42,PIN,2_Pts_T,Bruno Caboclo
+199,3,03:45,68,42,PIN,FR,Joe Smith
+200,3,03:45,68,42,PAU,FC,Pilar
+201,3,03:45,68,42,PAU,2_Pts_C,Dawkins
+202,3,03:57,66,42,PAU,BR,Pilar
+203,3,03:57,66,42,PIN,ER,Bruno Caboclo
+204,3,04:19,66,42,PAU,substituicao_sai,Holloway
+205,3,04:19,66,42,PAU,substituicao_entra,Pilar
+206,3,04:19,66,42,PIN,substituicao_sai,Jonathan
+207,3,04:19,66,42,PIN,substituicao_entra,Bruno Caboclo
+208,3,04:19,66,42,PAU,substituicao_sai,Mineiro
+209,3,04:19,66,42,PAU,substituicao_entra,Labbate
+210,3,04:19,66,42,PIN,BR,Pinheiros
+211,3,04:19,66,42,PAU,ER,Holloway
+212,3,04:26,66,42,PAU,RD,Holloway
+213,3,04:26,66,42,PIN,3_Pts_T,Rafael Mineiro
+214,3,04:40,66,42,PIN,RO,Jonathan
+215,3,04:40,66,42,PIN,2_Pts_T,Jonathan
+216,3,05:01,66,42,PAU,2_Pts_C,César
+217,3,05:22,64,42,PIN,substituicao_sai,Bambu
+218,3,05:22,64,42,PIN,substituicao_entra,Babby
+219,3,05:22,64,42,PAU,substituicao_sai,Gemerson
+220,3,05:22,64,42,PAU,substituicao_entra,Pedro
+221,3,05:22,64,42,PAU,substituicao_sai,Pilar
+222,3,05:22,64,42,PAU,substituicao_entra,Mineiro
+223,3,05:22,64,42,PAU,BR,Paulistano
+224,3,05:22,64,42,PIN,ER,Rafael Mineiro
+225,3,05:30,64,42,PIN,BR,Bambu
+226,3,05:30,64,42,PAU,ER,Pilar
+227,3,05:52,64,42,PIN,2_Pts_C,Rafael Mineiro
+228,3,05:52,64,40,PIN,AS,Bambu
+229,3,06:01,64,40,PIN,RD,Bambu
+230,3,06:01,64,40,PAU,3_Pts_T,Holloway
+231,3,06:10,64,40,PAU,FR,Dawkins
+232,3,06:10,64,40,PIN,FC,Jonathan
+233,3,06:13,64,40,PAU,BR,Holloway
+234,3,06:13,64,40,PIN,ER,Joe Smith
+235,3,06:18,64,40,PIN,FR,Joe Smith
+236,3,06:18,64,40,PAU,FC,Dawkins
+237,3,06:18,64,40,PAU,substituicao_sai,Mineiro
+238,3,06:18,64,40,PAU,substituicao_entra,César
+239,3,06:18,64,40,PIN,FR,Rafael Mineiro
+240,3,06:18,64,40,PAU,FC,Gemerson
+241,3,06:31,64,40,PIN,FR,Rafael Mineiro
+242,3,06:31,64,40,PAU,FC,Mineiro
+243,3,06:31,64,40,PIN,RD,Joe Smith
+244,3,06:31,64,40,PAU,3_Pts_T,Dawkins
+245,3,06:54,64,40,PAU,RD,Paulistano
+246,3,06:54,64,40,PIN,3_Pts_T,Bambu
+247,3,07:10,64,40,PAU,3_Pts_C,Pilar
+248,3,07:10,61,40,PAU,AS,Holloway
+249,3,07:35,61,40,PAU,RO,Pilar
+250,3,07:35,61,40,PAU,3_Pts_T,Holloway
+251,3,08:03,61,40,PAU,FR,Holloway
+252,3,08:03,61,40,PIN,FC,Jonathan
+253,3,08:03,61,40,PAU,RD,Holloway
+254,3,08:03,61,40,PIN,3_Pts_T,Joe Smith
+255,3,08:06,61,40,PIN,BR,Shamell
+256,3,08:06,61,40,PAU,ER,Holloway
+257,3,08:31,61,40,PIN,3_Pts_C,Joe Smith
+258,3,08:31,61,37,PIN,AS,Shamell
+259,3,08:48,61,37,PAU,2_Pts_C,Holloway
+260,3,08:52,59,37,PAU,RO,Holloway
+261,3,08:52,59,37,PAU,3_Pts_T,Dawkins
+262,3,09:13,59,37,PAU,RD,Mineiro
+263,3,09:13,59,37,PIN,2_Pts_T,Shamell
+264,3,09:23,59,37,PIN,RO,Jonathan
+265,3,09:23,59,37,PIN,2_Pts_T,Rafael Mineiro
+266,3,09:49,59,37,PAU,2_Pts_C,Mineiro
+267,3,09:49,57,37,PAU,AS,Pilar
+268,2,00:00,57,37, ,fim_quarto,
+269,2,00:08,57,37,PAU,substituicao_entra,Dawkins
+270,2,00:08,57,37,PAU,substituicao_entra,Holloway
+271,2,00:08,57,37,PAU,substituicao_sai,César
+272,2,00:08,57,37,PAU,substituicao_sai,Arthur
+273,2,00:08,57,37,PIN,LL_Pts_C,Humberto
+274,2,00:08,57,36,PIN,LL_Pts_C,Humberto
+275,2,00:08,57,35,PAU,tempo_tecnico,Paulistano
+276,2,00:08,57,35,PIN,FR,Humberto
+277,2,00:08,57,35,PAU,FC,Arthur Pecos
+278,2,00:23,57,35,PAU,substituicao_sai,Gemerson
+279,2,00:23,57,35,PAU,substituicao_entra,Arthur
+280,2,00:23,57,35,PAU,AS,Pedro
+281,2,00:23,57,35,PAU,LL_Pts_C,Arthur Pecos
+282,2,00:23,56,35,PAU,LL_Pts_T,Arthur Pecos
+283,2,00:23,56,35,PAU,FR,Arthur Pecos
+284,2,00:23,56,35,PIN,FC,Bruno Mortari
+285,2,00:26,56,35,PAU,RD,Gemerson
+286,2,00:26,56,35,PIN,3_Pts_T,Humberto
+287,2,00:44,56,35,PIN,RD,Bruno Mortari
+288,2,00:44,56,35,PAU,3_Pts_T,César
+289,2,00:53,56,35,PAU,RD,César
+290,2,00:53,56,35,PIN,2_Pts_T,Lucas Dias
+291,2,01:03,56,35,PAU,substituicao_entra,Arthur Pecos
+292,2,01:03,56,35,PAU,substituicao_entra,André
+293,2,01:03,56,35,PAU,substituicao_sai,Dawkins
+294,2,01:03,56,35,PAU,substituicao_sai,Pilar
+295,2,01:03,56,35,PIN,RO,Pinheiros
+296,2,01:03,56,35,PIN,3_Pts_T,Bruno Mortari
+297,2,01:24,56,35,PIN,RD,Bruno Mortari
+298,2,01:24,56,35,PAU,2_Pts_T,Pedro
+299,2,01:29,56,35,PAU,RD,Dawkins
+300,2,01:29,56,35,PIN,2_Pts_T,Shamell
+301,2,01:52,56,35,PAU,2_Pts_C,Pedro
+302,2,02:00,54,35,PAU,RD,Dawkins
+303,2,02:00,54,35,PIN,2_Pts_T,Morro
+304,2,02:21,54,35,PAU,2_Pts_C,Pilar
+305,2,02:38,52,35,PAU,AS,Dawkins
+306,2,02:38,52,35,PAU,substituicao_sai,Holloway
+307,2,02:38,52,35,PAU,substituicao_entra,Pedro
+308,2,02:38,52,35,PIN,LL_Pts_C,Lucas Dias
+309,2,02:38,52,34,PIN,LL_Pts_T,Lucas Dias
+310,2,02:38,52,34,PIN,FR,Lucas Dias
+311,2,02:38,52,34,PAU,FC,César
+312,2,02:38,52,34,PIN,substituicao_entra,Bruno Mortari
+313,2,02:38,52,34,PIN,substituicao_entra,Morro
+314,2,02:38,52,34,PIN,substituicao_sai,Toyloy
+315,2,02:38,52,34,PIN,substituicao_sai,Joe Smith
+316,2,02:45,52,34,PIN,BR,Pinheiros
+317,2,02:45,52,34,PAU,ER,Holloway
+318,2,02:53,52,34,PAU,RD,César
+319,2,02:53,52,34,PIN,2_Pts_T,Humberto
+320,2,03:05,52,34,PIN,RD,Pinheiros
+321,2,03:05,52,34,PAU,LL_Pts_T,Holloway
+322,2,03:05,52,34,PAU,LL_Pts_C,Holloway
+323,2,03:05,51,34,PAU,LL_Pts_C,Dawkins
+324,2,03:05,50,34,PAU,LL_Pts_C,Dawkins
+325,2,03:05,49,34,PAU,substituicao_sai,Labbate
+326,2,03:05,49,34,PAU,substituicao_entra,Pilar
+327,2,03:05,49,34,PAU,FR,Holloway
+328,2,03:05,49,34,PIN,FC,Humberto
+329,2,03:10,49,34,PAU,RD,Dawkins
+330,2,03:10,49,34,PAU,TO,César
+331,2,03:10,49,34,PIN,2_Pts_T,Joe Smith
+332,2,03:26,49,34,PAU,LL_Pts_C,Dawkins
+333,2,03:26,48,34,PAU,LL_Pts_C,Dawkins
+334,2,03:26,47,34,PAU,substituicao_sai,Pilar
+335,2,03:26,47,34,PAU,substituicao_entra,César
+336,2,03:26,47,34,PAU,FR,Dawkins
+337,2,03:26,47,34,PIN,FC,Joe Smith
+338,2,03:40,47,34,PAU,BR,Dawkins
+339,2,03:40,47,34,PIN,ER,Lucas Dias
+340,2,04:04,47,34,PAU,LL_Pts_C,Pilar
+341,2,04:04,46,34,PAU,AS,Gemerson
+342,2,04:04,46,34,PAU,LL_Pts_C,Pilar
+343,2,04:04,45,34,PAU,FR,Pilar
+344,2,04:04,45,34,PIN,FC,Lucas Dias
+345,2,04:04,45,34,PAU,FR,Gemerson
+346,2,04:04,45,34,PIN,FC,Joe Smith
+347,2,04:22,45,34,PIN,LL_Pts_C,Shamell
+348,2,04:22,45,33,PIN,LL_Pts_T,Shamell
+349,2,04:22,45,33,PIN,FR,Shamell
+350,2,04:22,45,33,PAU,FC,Gemerson
+351,2,04:38,45,33,PIN,substituicao_entra,Shamell
+352,2,04:38,45,33,PIN,substituicao_entra,Lucas Dias
+353,2,04:38,45,33,PIN,substituicao_entra,Joe Smith
+354,2,04:38,45,33,PIN,substituicao_sai,Jonathan
+355,2,04:38,45,33,PIN,substituicao_sai,Bambu
+356,2,04:38,45,33,PIN,substituicao_sai,Bruno Mortari
+357,2,04:38,45,33,PIN,tempo_tecnico,Pinheiros
+358,2,04:38,45,33,PAU,2_Pts_C,Pilar
+359,2,04:38,43,33,PAU,AS,Holloway
+360,2,04:42,43,33,PAU,RD,Holloway
+361,2,04:42,43,33,PIN,2_Pts_T,Humberto
+362,2,05:10,43,33,PAU,3_Pts_C,Holloway
+363,2,05:16,40,33,PAU,substituicao_entra,Labbate
+364,2,05:16,40,33,PAU,substituicao_entra,Holloway
+365,2,05:16,40,33,PAU,substituicao_sai,Mineiro
+366,2,05:16,40,33,PAU,substituicao_sai,Pedro
+367,2,05:16,40,33,PAU,FR,Pedro
+368,2,05:16,40,33,PIN,FC,Humberto
+369,2,05:21,40,33,PAU,RD,Pedro
+370,2,05:21,40,33,PIN,2_Pts_T,Toyloy
+371,2,05:42,40,33,PAU,2_Pts_C,Dawkins
+372,2,05:50,38,33,PAU,RD,Mineiro
+373,2,05:50,38,33,PIN,2_Pts_T,Jonathan
+374,2,06:14,38,33,PAU,3_Pts_C,Pilar
+375,2,06:39,35,33,PIN,2_Pts_C,Bambu
+376,2,06:48,35,31,PIN,FR,Humberto
+377,2,06:48,35,31,PAU,FC,Pilar
+378,2,06:52,35,31,PIN,RO,Bruno Mortari
+379,2,06:52,35,31,PIN,3_Pts_T,Jonathan
+380,2,06:56,35,31,PAU,substituicao_sai,Arthur Pecos
+381,2,06:56,35,31,PAU,substituicao_entra,Mineiro
+382,2,07:10,35,31,PIN,substituicao_sai,Babby
+383,2,07:10,35,31,PIN,substituicao_entra,Toyloy
+384,2,07:10,35,31,PAU,substituicao_entra,Dawkins
+385,2,07:10,35,31,PAU,substituicao_entra,Gemerson
+386,2,07:10,35,31,PAU,substituicao_sai,César
+387,2,07:10,35,31,PAU,substituicao_sai,Labbate
+388,2,07:10,35,31,PIN,FR,Humberto
+389,2,07:10,35,31,PAU,FC,Arthur Pecos
+390,2,07:13,35,31,PIN,RD,Humberto
+391,2,07:13,35,31,PAU,2_Pts_T,Arthur Pecos
+392,2,07:27,35,31,PIN,2_Pts_C,Jonathan
+393,2,07:27,35,29,PIN,AS,Babby
+394,2,07:57,35,29,PIN,RD,Bambu
+395,2,07:57,35,29,PAU,2_Pts_T,Pedro
+396,2,08:05,35,29,PAU,RD,Labbate
+397,2,08:05,35,29,PIN,2_Pts_T,Babby
+398,2,08:28,35,29,PAU,LL_Pts_C,Arthur Pecos
+399,2,08:28,34,29,PAU,LL_Pts_C,Arthur Pecos
+400,2,08:28,33,29,PIN,substituicao_sai,Shamell
+401,2,08:28,33,29,PIN,substituicao_entra,Bruno Mortari
+402,2,08:28,33,29,PAU,substituicao_sai,Holloway
+403,2,08:28,33,29,PAU,substituicao_entra,Pilar
+404,2,08:28,33,29,PAU,FR,Arthur Pecos
+405,2,08:28,33,29,PIN,FC,Bambu
+406,2,08:34,33,29,PIN,3_Pts_C,Jonathan
+407,2,08:34,33,26,PIN,AS,Shamell
+408,2,08:58,33,26,PIN,RD,Bambu
+409,2,08:58,33,26,PAU,2_Pts_T,Arthur Pecos
+410,2,09:18,33,26,PAU,RD,Holloway
+411,2,09:18,33,26,PIN,2_Pts_T,Babby
+412,2,09:36,33,26,PAU,LL_Pts_C,Holloway
+413,2,09:36,32,26,PAU,LL_Pts_C,Holloway
+414,2,09:36,31,26,PAU,LL_Pts_C,Holloway
+415,2,09:36,30,26,PAU,FR,Holloway
+416,2,09:36,30,26,PIN,FC,Shamell
+417,2,09:53,30,26,PIN,LL_Pts_C,Babby
+418,2,09:53,30,25,PIN,LL_Pts_C,Babby
+419,2,09:53,30,24,PIN,FR,Babby
+420,2,09:53,30,24,PAU,FC,Labbate
+421,1,00:00,30,24, ,fim_quarto,
+422,1,00:07,30,24,PAU,2_Pts_T,Arthur Pecos
+423,1,00:12,30,24,PIN,substituicao_sai,Babby
+424,1,00:12,30,24,PIN,substituicao_entra,Lucas Dias
+425,1,00:12,30,24,PAU,substituicao_entra,Dawkins
+426,1,00:12,30,24,PAU,substituicao_entra,Holloway
+427,1,00:12,30,24,PAU,substituicao_entra,André
+428,1,00:12,30,24,PAU,substituicao_sai,César
+429,1,00:12,30,24,PAU,substituicao_sai,Labbate
+430,1,00:12,30,24,PAU,substituicao_sai,Duso
+431,1,00:29,30,24,PIN,3_Pts_C,Shamell
+432,1,00:52,30,21,PAU,substituicao_entra,Duso
+433,1,00:52,30,21,PAU,substituicao_entra,Pedro
+434,1,00:52,30,21,PAU,substituicao_sai,Holloway
+435,1,00:52,30,21,PAU,substituicao_sai,Pilar
+436,1,00:55,30,21,PIN,RD,Pinheiros
+437,1,00:55,30,21,PAU,3_Pts_T,César
+438,1,01:11,30,21,PIN,2_Pts_C,Shamell
+439,1,01:23,30,19,PAU,3_Pts_C,Holloway
+440,1,01:33,27,19,PIN,LL_Pts_C,Shamell
+441,1,01:37,27,18,PAU,substituicao_sai,Dawkins
+442,1,01:37,27,18,PAU,substituicao_entra,Arthur Pecos
+443,1,01:37,27,18,PAU,substituicao_sai,Mineiro
+444,1,01:37,27,18,PAU,substituicao_entra,Labbate
+445,1,01:37,27,18,PAU,substituicao_sai,Gemerson
+446,1,01:37,27,18,PAU,substituicao_entra,César
+447,1,01:37,27,18,PIN,substituicao_entra,Babby
+448,1,01:37,27,18,PIN,substituicao_entra,Humberto
+449,1,01:37,27,18,PIN,substituicao_sai,Joe Smith
+450,1,01:37,27,18,PIN,substituicao_sai,Morro
+451,1,01:37,27,18,PIN,FR,Shamell
+452,1,01:37,27,18,PAU,FC,Mineiro
+453,1,01:37,27,18,PIN,2_Pts_C,Shamell
+454,1,01:53,27,16,PAU,2_Pts_C,Holloway
+455,1,01:53,25,16,PAU,AS,Dawkins
+456,1,02:08,25,16,PAU,RD,Mineiro
+457,1,02:08,25,16,PIN,3_Pts_T,Joe Smith
+458,1,02:16,25,16,PIN,RD,Bambu
+459,1,02:16,25,16,PAU,2_Pts_T,Dawkins
+460,1,02:28,25,16,PAU,RD,Mineiro
+461,1,02:28,25,16,PIN,3_Pts_T,Joe Smith
+462,1,02:43,25,16,PAU,2_Pts_C,Gemerson
+463,1,02:59,23,16,PIN,3_Pts_C,Bambu
+464,1,02:59,23,13,PIN,AS,Joe Smith
+465,1,03:15,23,13,PAU,2_Pts_C,Mineiro
+466,1,03:34,21,13,PAU,FR,Mineiro
+467,1,03:34,21,13,PIN,FC,Morro
+468,1,03:34,21,13,PAU,RD,Mineiro
+469,1,03:34,21,13,PIN,3_Pts_T,Jonathan
+470,1,03:53,21,13,PAU,2_Pts_C,Holloway
+471,1,03:53,19,13,PAU,AS,Dawkins
+472,1,04:11,19,13,PIN,2_Pts_C,Shamell
+473,1,04:11,19,11,PIN,AS,Joe Smith
+474,1,04:17,19,11,PIN,BR,Jonathan
+475,1,04:17,19,11,PAU,ER,Holloway
+476,1,04:24,19,11,PIN,2_Pts_C,Morro
+477,1,04:24,19,9,PIN,AS,Joe Smith
+478,1,04:51,19,9,PAU,LL_Pts_C,Pilar
+479,1,04:51,18,9,PAU,FR,Pilar
+480,1,04:51,18,9,PIN,FC,Bambu
+481,1,04:51,18,9,PAU,2_Pts_C,Pilar
+482,1,05:16,16,9,PAU,RD,Mineiro
+483,1,05:16,16,9,PIN,3_Pts_T,Jonathan
+484,1,05:31,16,9,PAU,2_Pts_C,Mineiro
+485,1,05:31,14,9,PAU,AS,Dawkins
+486,1,05:39,14,9,PAU,RD,Mineiro
+487,1,05:39,14,9,PIN,2_Pts_T,Joe Smith
+488,1,05:50,14,9,PAU,LL_Pts_C,Mineiro
+489,1,05:50,13,9,PAU,FR,Mineiro
+490,1,05:50,13,9,PIN,FC,Joe Smith
+491,1,05:50,13,9,PIN,2_Pts_C,Bambu
+492,1,05:50,13,7,PAU,AS,Holloway
+493,1,05:59,13,7,PAU,EN,Mineiro
+494,1,06:04,11,7,PIN,RO,Bambu
+495,1,06:04,11,7,PIN,2_Pts_T,Joe Smith
+496,1,06:15,11,7,PIN,FR,Morro
+497,1,06:15,11,7,PAU,FC,Mineiro
+498,1,06:34,11,7,PAU,3_Pts_C,Holloway
+499,1,06:58,8,7,PIN,2_Pts_C,Morro
+500,1,06:58,8,5,PIN,AS,Shamell
+501,1,07:20,8,5,PAU,2_Pts_C,Holloway
+502,1,07:25,6,5,PAU,BR,Pilar
+503,1,07:25,6,5,PIN,ER,Jonathan
+504,1,07:29,6,5,PIN,FR,Shamell
+505,1,07:29,6,5,PAU,FC,Gemerson
+506,1,07:37,6,5,PAU,2_Pts_C,Mineiro
+507,1,07:37,4,5,PAU,AS,Gemerson
+508,1,07:52,4,5,PIN,3_Pts_C,Joe Smith
+509,1,08:08,4,2,PAU,2_Pts_C,Mineiro
+510,1,08:23,2,2,PAU,BR,Paulistano
+511,1,08:23,2,2,PIN,ER,Joe Smith
+512,1,08:35,2,2,PIN,BR,Pinheiros
+513,1,08:35,2,2,PAU,ER,Holloway
+514,1,08:41,2,2,PAU,BR,Pilar
+515,1,08:41,2,2,PIN,ER,Shamell
+516,1,08:47,2,2,PIN,RD,Shamell
+517,1,08:47,2,2,PAU,2_Pts_T,Pilar
+518,1,09:09,2,2,PIN,2_Pts_C,Shamell
+519,1,09:22,2,0,PAU,2_Pts_C,Holloway
+520,1,09:22,0,0,PAU,AS,Dawkins
+521,1,09:26,0,0,PAU,BR,Dawkins
+522,1,09:26,0,0,PIN,ER,Jonathan
+523,1,09:38,0,0,PIN,RD,Jonathan
+524,1,09:38,0,0,PAU,3_Pts_T,Pilar
+525,1,10:00,0,0,PIN,substituicao_entra,Jonathan
+526,1,10:00,0,0,PIN,substituicao_entra,Bambu
+527,1,10:00,0,0,PIN,substituicao_entra,Shamell
+528,1,10:00,0,0,PIN,substituicao_entra,Joe Smith
+529,1,10:00,0,0,PIN,substituicao_entra,Morro
+530,1,10:00,0,0,PAU,substituicao_entra,Mineiro
+531,1,10:00,0,0,PAU,substituicao_entra,Dawkins
+532,1,10:00,0,0,PAU,substituicao_entra,Holloway
+533,1,10:00,0,0,PAU,substituicao_entra,Pilar
+534,1,10:00,0,0,PAU,substituicao_entra,Gemerson

@@ -1,0 +1,527 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,87,67,,fim_partida,
+1,4,00:00,87,67,,fim_quarto,
+2,4,00:20,87,67,FOR,substituicao_entra,Brite
+3,4,00:20,87,67,FOR,substituicao_sai,Mathias
+4,4,00:20,87,67,FOR,tempo_tecnico,Fortaleza Basquete Cearense
+5,4,00:20,87,67,FOR,tempo_tecnico,Fortaleza Basquete Cearense
+6,4,00:21,87,67,BSB,ER,Jefferson
+7,4,00:28,87,67,BSB,RD,Jefferson
+8,4,00:31,87,67,FOR,3_Pts_T,Mathias
+9,4,00:42,87,67,FOR,RD,Mathias
+10,4,00:45,87,67,BSB,2_Pts_T,Gabriel
+11,4,00:50,87,67,FOR,LL_Pts_C,Mathias
+12,4,00:50,87,66,FOR,LL_Pts_T,Mathias
+13,4,00:50,87,66,FOR,FR,Mathias
+14,4,00:50,87,66,BSB,FC,Marcelão
+15,4,00:53,87,66,BSB,substituicao_entra,Felipe
+16,4,00:53,87,66,BSB,substituicao_entra,Jefferson
+17,4,00:53,87,66,BSB,substituicao_sai,Gemerson
+18,4,00:53,87,66,BSB,substituicao_sai,Samuel
+19,4,00:53,87,66,BSB,ER,Danilo
+20,4,00:54,87,66,BSB,RD,Danilo
+21,4,00:57,87,66,FOR,3_Pts_T,Lobo
+22,4,01:00,87,66,FOR,substituicao_entra,Schneider
+23,4,01:00,87,66,FOR,substituicao_sai,Rashaun
+24,4,01:00,87,66,BSB,substituicao_entra,Danilo
+25,4,01:00,87,66,BSB,substituicao_entra,Gabriel
+26,4,01:00,87,66,BSB,substituicao_entra,Marcelão
+27,4,01:00,87,66,BSB,substituicao_sai,Nezinho
+28,4,01:00,87,66,BSB,substituicao_sai,Laster
+29,4,01:00,87,66,BSB,substituicao_sai,Caio Torres
+30,4,01:00,87,66,FOR,FR,Alex
+31,4,01:00,87,66,BSB,FC,Gemerson
+32,4,01:14,87,66,BSB,AS,Nezinho
+33,4,01:14,87,66,BSB,3_Pts_C,Caio Torres
+34,4,01:29,84,66,BSB,RD,Samuel
+35,4,01:32,84,66,FOR,3_Pts_T,Alex
+36,4,01:35,84,66,FOR,substituicao_entra,Lobo
+37,4,01:35,84,66,FOR,substituicao_sai,Gabriel
+38,4,01:35,84,66,FOR,substituicao_entra,Lassance
+39,4,01:35,84,66,FOR,substituicao_sai,Brite
+40,4,01:35,84,66,FOR,FR,Brite
+41,4,01:35,84,66,BSB,FC,Nezinho
+42,4,01:50,84,66,BSB,AS,Nezinho
+43,4,01:50,84,66,BSB,2_Pts_C,Laster
+44,4,02:02,82,66,BSB,RD,Gemerson
+45,4,02:06,82,66,FOR,3_Pts_T,Rashaun
+46,4,02:22,82,66,BSB,2_Pts_C,Samuel
+47,4,02:30,80,66,BSB,RD,Caio Torres
+48,4,02:34,80,66,FOR,3_Pts_T,Brite
+49,4,02:41,80,66,FOR,RD,Mathias
+50,4,02:41,80,66,BSB,LL_Pts_T,Gemerson
+51,4,02:41,80,66,BSB,LL_Pts_T,Gemerson
+52,4,02:41,80,66,BSB,substituicao_entra,Nezinho
+53,4,02:41,80,66,BSB,substituicao_sai,P Rava
+54,4,02:41,80,66,BSB,FR,Gemerson
+55,4,02:41,80,66,FOR,FC,Alex
+56,4,02:58,80,66,BSB,RD,Samuel
+57,4,03:01,80,66,FOR,3_Pts_T,Alex
+58,4,03:23,80,66,FOR,RD,Brite
+59,4,03:26,80,66,BSB,3_Pts_T,Gemerson
+60,4,03:53,80,66,FOR,2_Pts_C,Brite
+61,4,04:05,80,64,BSB,LL_Pts_C,P Rava
+62,4,04:05,79,64,BSB,LL_Pts_T,P Rava
+63,4,04:05,79,64,FOR,substituicao_entra,Gabriel
+64,4,04:05,79,64,FOR,substituicao_sai,Sualisson
+65,4,04:05,79,64,BSB,FR,P Rava
+66,4,04:05,79,64,FOR,FC,Sualisson
+67,4,04:11,79,64,BSB,RO,Laster
+68,4,04:14,79,64,BSB,3_Pts_T,Samuel
+69,4,04:37,79,64,FOR,AS,Brite
+70,4,04:37,79,64,FOR,3_Pts_C,Rashaun
+71,4,04:57,79,61,FOR,RD,Fortaleza Basquete Cearense
+72,4,05:01,79,61,BSB,3_Pts_T,Samuel
+73,4,05:14,79,61,BSB,RD,P Rava
+74,4,05:19,79,61,FOR,2_Pts_T,Brite
+75,4,05:23,79,61,FOR,RD,Mathias
+76,4,05:27,79,61,BSB,2_Pts_T,Laster
+77,4,05:37,79,61,BSB,RD,Laster
+78,4,05:40,79,61,FOR,3_Pts_T,Sualisson
+79,4,05:53,79,61,BSB,LL_Pts_C,P Rava
+80,4,05:53,78,61,FOR,substituicao_entra,Sualisson
+81,4,05:53,78,61,FOR,substituicao_sai,Holloway
+82,4,05:53,78,61,BSB,FR,P Rava
+83,4,05:53,78,61,FOR,FC,Holloway
+84,4,05:53,78,61,BSB,2_Pts_C,P Rava
+85,4,06:14,76,61,BSB,RD,Caio Torres
+86,4,06:16,76,61,FOR,3_Pts_T,Brite
+87,4,06:34,76,61,FOR,tempo_tecnico,Fortaleza Basquete Cearense
+88,4,06:34,76,61,BSB,2_Pts_C,Samuel
+89,4,06:42,74,61,BSB,BR,P Rava
+90,4,06:42,74,61,FOR,ER,Holloway
+91,4,06:57,74,61,BSB,2_Pts_C,Laster
+92,4,07:16,72,61,BSB,tempo_tecnico,Brasília
+93,4,07:18,72,61,FOR,2_Pts_C,Brite
+94,4,07:21,72,59,FOR,RD,Brite
+95,4,07:25,72,59,BSB,3_Pts_T,Caio Torres
+96,4,07:36,72,59,FOR,2_Pts_C,Brite
+97,4,07:50,72,57,FOR,FR,Alex
+98,4,07:50,72,57,BSB,ER,Caio Torres
+99,4,07:50,72,57,BSB,FC_O,Caio Torres
+100,4,08:01,72,57,BSB,substituicao_entra,Caio Torres
+101,4,08:01,72,57,BSB,substituicao_entra,Gemerson
+102,4,08:01,72,57,BSB,substituicao_sai,Nezinho
+103,4,08:01,72,57,BSB,substituicao_sai,Marcelão
+104,4,08:01,72,57,BSB,FR,Nezinho
+105,4,08:01,72,57,FOR,FC,Brite
+106,4,08:08,72,57,BSB,RO,Marcelão
+107,4,08:11,72,57,BSB,3_Pts_T,Samuel
+108,4,08:23,72,57,BSB,BR,P Rava
+109,4,08:23,72,57,FOR,ER,Brite
+110,4,08:39,72,57,FOR,RD,Brite
+111,4,08:42,72,57,BSB,2_Pts_T,P Rava
+112,4,09:01,72,57,FOR,2_Pts_C,Holloway
+113,4,09:09,72,55,FOR,RD,Rashaun
+114,4,09:14,72,55,BSB,3_Pts_T,Nezinho
+115,4,09:29,72,55,FOR,AS,Alex
+116,4,09:29,72,55,FOR,2_Pts_C,Brite
+117,4,09:39,72,53,BSB,LL_Pts_C,Samuel
+118,4,09:39,71,53,BSB,LL_Pts_C,Samuel
+119,4,09:39,70,53,BSB,FR,Samuel
+120,4,09:39,70,53,FOR,FC,Brite
+121,4,09:52,70,53,FOR,AS,Brite
+122,4,09:52,70,53,FOR,EN,Mathias
+123,4,10:00,70,51,,inicio_quarto,
+124,3,00:00,70,51,,fim_quarto,
+125,3,00:04,70,51,BSB,3_Pts_T,Laster
+126,3,00:18,70,51,FOR,LL_Pts_C,Holloway
+127,3,00:18,70,50,FOR,LL_Pts_C,Holloway
+128,3,00:18,70,49,FOR,ER,
+129,3,00:18,70,49,FOR,FC_T,Fortaleza Basquete Cearense
+130,3,00:18,70,49,BSB,ER,Laster
+131,3,00:18,70,49,BSB,FC_T,Laster
+132,3,00:18,70,49,BSB,substituicao_entra,P Rava
+133,3,00:18,70,49,BSB,substituicao_sai,Arthur
+134,3,00:18,70,49,FOR,ER,Holloway
+135,3,00:18,70,49,FOR,FC_T,Holloway
+136,3,00:18,70,49,BSB,FC_T,Arthur
+137,3,00:18,70,49,FOR,FR,Holloway
+138,3,00:18,70,49,BSB,FC,Arthur
+139,3,00:24,70,49,BSB,,
+140,3,00:24,70,49,FOR,2_Pts_C,Sualisson
+141,3,00:26,70,47,FOR,RO,Sualisson
+142,3,00:29,70,47,FOR,2_Pts_T,Brite
+143,3,00:38,70,47,BSB,LL_Pts_C,Arthur
+144,3,00:38,69,47,BSB,LL_Pts_C,Arthur
+145,3,00:38,68,47,BSB,FR,Arthur
+146,3,00:38,68,47,FOR,FC,Sualisson
+147,3,00:38,68,47,BSB,RD,Arthur
+148,3,00:39,68,47,FOR,3_Pts_T,Alex
+149,3,00:55,68,47,FOR,substituicao_entra,Rashaun
+150,3,00:55,68,47,FOR,substituicao_sai,Lobo
+151,3,00:55,68,47,BSB,AS,Nezinho
+152,3,00:55,68,47,BSB,LL_Pts_C,Arthur
+153,3,00:55,67,47,BSB,LL_Pts_T,Arthur
+154,3,00:55,67,47,BSB,FR,Arthur
+155,3,00:55,67,47,FOR,FC,Lobo
+156,3,00:59,67,47,BSB,RD,Samuel
+157,3,01:03,67,47,FOR,3_Pts_T,Brite
+158,3,01:13,67,47,FOR,RD,Alex
+159,3,01:17,67,47,BSB,3_Pts_T,Samuel
+160,3,01:26,67,47,BSB,RD,Marcelão
+161,3,01:29,67,47,FOR,3_Pts_T,Holloway
+162,3,01:39,67,47,BSB,AS,Nezinho
+163,3,01:39,67,47,BSB,2_Pts_C,Marcelão
+164,3,01:45,65,47,BSB,RD,Samuel
+165,3,01:45,65,47,FOR,LL_Pts_T,Sualisson
+166,3,01:45,65,47,FOR,LL_Pts_T,Sualisson
+167,3,01:45,65,47,FOR,FR,Sualisson
+168,3,01:45,65,47,BSB,FC,Marcelão
+169,3,01:45,65,47,FOR,RD,Fortaleza Basquete Cearense
+170,3,01:45,65,47,BSB,2_Pts_T,Nezinho
+171,3,02:01,65,47,FOR,2_Pts_C,Holloway
+172,3,02:12,65,45,FOR,FR,Lobo
+173,3,02:12,65,45,BSB,ER,Arthur
+174,3,02:12,65,45,BSB,FC_O,Arthur
+175,3,02:23,65,45,BSB,BR,Marcelão
+176,3,02:23,65,45,FOR,ER,Sualisson
+177,3,02:35,65,45,BSB,substituicao_entra,Marcelão
+178,3,02:35,65,45,BSB,substituicao_sai,Caio Torres
+179,3,02:35,65,45,FOR,substituicao_entra,Lobo
+180,3,02:35,65,45,FOR,substituicao_sai,Mathias
+181,3,02:37,65,45,BSB,substituicao_entra,Nezinho
+182,3,02:37,65,45,BSB,substituicao_sai,P Rava
+183,3,02:37,65,45,FOR,FR,Brite
+184,3,02:37,65,45,BSB,FC,P Rava
+185,3,02:57,65,45,BSB,2_Pts_C,P Rava
+186,3,03:23,63,45,FOR,AS,Brite
+187,3,03:23,63,45,FOR,2_Pts_C,Holloway
+188,3,03:27,63,43,FOR,RD,Brite
+189,3,03:33,63,43,BSB,3_Pts_T,Laster
+190,3,03:36,63,43,BSB,RD,Caio Torres
+191,3,03:40,63,43,FOR,2_Pts_T,Mathias
+192,3,03:49,63,43,BSB,LL_Pts_C,Caio Torres
+193,3,03:49,62,43,BSB,FR,Caio Torres
+194,3,03:49,62,43,FOR,FC,Mathias
+195,3,03:52,62,43,BSB,AS,Laster
+196,3,03:52,62,43,BSB,2_Pts_C,Caio Torres
+197,3,04:03,60,43,BSB,RD,P Rava
+198,3,04:08,60,43,FOR,2_Pts_T,Brite
+199,3,04:23,60,43,FOR,FR,Holloway
+200,3,04:23,60,43,BSB,FC,P Rava
+201,3,04:33,60,43,BSB,LL_Pts_C,P Rava
+202,3,04:33,59,43,BSB,LL_Pts_C,P Rava
+203,3,04:33,58,43,BSB,substituicao_entra,Laster
+204,3,04:33,58,43,BSB,substituicao_sai,Gemerson
+205,3,04:33,58,43,BSB,FR,P Rava
+206,3,04:33,58,43,FOR,FC,Mathias
+207,3,04:49,58,43,BSB,RD,P Rava
+208,3,04:53,58,43,FOR,3_Pts_T,Alex
+209,3,05:04,58,43,BSB,LL_Pts_C,Samuel
+210,3,05:04,57,43,BSB,LL_Pts_T,Samuel
+211,3,05:04,57,43,BSB,FR,Samuel
+212,3,05:04,57,43,FOR,FC,Brite
+213,3,05:16,57,43,BSB,tempo_tecnico,Brasília
+214,3,05:18,57,43,FOR,2_Pts_C,Sualisson
+215,3,05:23,57,41,FOR,BR,Sualisson
+216,3,05:23,57,41,BSB,ER,Gemerson
+217,3,05:33,57,41,BSB,BR,P Rava
+218,3,05:33,57,41,FOR,ER,Sualisson
+219,3,05:54,57,41,BSB,LL_Pts_C,Arthur
+220,3,05:54,56,41,BSB,FR,Arthur
+221,3,05:54,56,41,FOR,FC,Holloway
+222,3,05:54,56,41,BSB,AS,P Rava
+223,3,05:54,56,41,BSB,2_Pts_C,Arthur
+224,3,05:56,54,41,BSB,RO,Brasília
+225,3,05:56,54,41,FOR,TO,Brite
+226,3,05:56,54,41,BSB,2_Pts_T,Arthur
+227,3,06:08,54,41,FOR,2_Pts_C,Sualisson
+228,3,06:08,54,39,FOR,RO,Sualisson
+229,3,06:13,54,39,FOR,2_Pts_T,Holloway
+230,3,06:21,54,39,BSB,substituicao_entra,Arthur
+231,3,06:21,54,39,BSB,substituicao_sai,Nezinho
+232,3,06:21,54,39,FOR,FR,Sualisson
+233,3,06:21,54,39,BSB,FC,Gemerson
+234,3,06:21,54,39,FOR,RD,Sualisson
+235,3,06:21,54,39,BSB,3_Pts_T,Samuel
+236,3,06:22,54,39,BSB,RO,Caio Torres
+237,3,06:26,54,39,BSB,3_Pts_T,Gemerson
+238,3,06:32,54,39,BSB,BR,Samuel
+239,3,06:32,54,39,FOR,ER,Brite
+240,3,06:37,54,39,FOR,BR,Brite
+241,3,06:37,54,39,BSB,ER,Caio Torres
+242,3,06:53,54,39,FOR,substituicao_entra,Sualisson
+243,3,06:53,54,39,FOR,substituicao_sai,Rashaun
+244,3,06:53,54,39,BSB,FR,Caio Torres
+245,3,06:53,54,39,FOR,FC,Rashaun
+246,3,06:53,54,39,BSB,RD,Caio Torres
+247,3,06:54,54,39,FOR,2_Pts_T,Rashaun
+248,3,06:59,54,39,FOR,BR,Holloway
+249,3,06:59,54,39,BSB,ER,Caio Torres
+250,3,07:12,54,39,FOR,AS,Rashaun
+251,3,07:12,54,39,FOR,3_Pts_C,Brite
+252,3,07:25,54,36,FOR,RD,Mathias
+253,3,07:30,54,36,BSB,2_Pts_T,Gemerson
+254,3,07:50,54,36,FOR,2_Pts_C,Brite
+255,3,07:59,54,34,FOR,RD,Fortaleza Basquete Cearense
+256,3,08:02,54,34,BSB,3_Pts_T,Nezinho
+257,3,08:19,54,34,FOR,AS,Alex
+258,3,08:19,54,34,FOR,3_Pts_C,Brite
+259,3,08:26,54,31,FOR,FR,Holloway
+260,3,08:26,54,31,BSB,FC,Gemerson
+261,3,08:45,54,31,BSB,AS,Samuel
+262,3,08:45,54,31,BSB,3_Pts_C,Nezinho
+263,3,09:00,51,31,FOR,AS,Brite
+264,3,09:00,51,31,FOR,3_Pts_C,Alex
+265,3,09:16,51,28,BSB,LL_Pts_C,Samuel
+266,3,09:16,50,28,BSB,LL_Pts_C,Samuel
+267,3,09:16,49,28,BSB,FR,Samuel
+268,3,09:16,49,28,FOR,FC,Rashaun
+269,3,09:23,49,28,BSB,FR,P Rava
+270,3,09:23,49,28,FOR,FC,Holloway
+271,3,09:33,49,28,BSB,RD,Caio Torres
+272,3,09:37,49,28,FOR,2_Pts_T,Holloway
+273,3,09:38,49,28,FOR,RO,Holloway
+274,3,09:41,49,28,FOR,3_Pts_T,Brite
+275,3,10:00,49,28,,inicio_quarto,
+276,2,00:00,49,28,,fim_quarto,
+277,2,00:03,49,28,BSB,2_Pts_C,Samuel
+278,2,00:03,47,28,BSB,RO,Samuel
+279,2,00:03,47,28,BSB,LL_Pts_T,Nezinho
+280,2,00:03,47,28,BSB,LL_Pts_C,Nezinho
+281,2,00:08,46,28,BSB,FR,Nezinho
+282,2,00:08,46,28,FOR,FC,Rashaun
+283,2,00:08,46,28,BSB,RD,Nezinho
+284,2,00:10,46,28,FOR,3_Pts_T,Rashaun
+285,2,00:15,46,28,FOR,RD,Holloway
+286,2,00:18,46,28,BSB,3_Pts_T,Samuel
+287,2,00:20,46,28,BSB,RO,Laster
+288,2,00:24,46,28,BSB,3_Pts_T,Nezinho
+289,2,00:37,46,28,BSB,RD,Gemerson
+290,2,00:40,46,28,FOR,3_Pts_T,Gabriel
+291,2,00:45,46,28,FOR,RD,Lassance
+292,2,00:49,46,28,BSB,2_Pts_T,Samuel
+293,2,00:50,46,28,BSB,BR,Samuel
+294,2,00:50,46,28,FOR,ER,Rashaun
+295,2,01:14,46,28,BSB,LL_Pts_C,Gemerson
+296,2,01:14,45,28,BSB,LL_Pts_C,Gemerson
+297,2,01:14,44,28,BSB,FR,Gemerson
+298,2,01:14,44,28,FOR,FC,Alex
+299,2,01:20,44,28,FOR,substituicao_entra,Gabriel
+300,2,01:20,44,28,FOR,substituicao_sai,Schneider
+301,2,01:20,44,28,BSB,substituicao_entra,Samuel
+302,2,01:20,44,28,BSB,substituicao_sai,Caio Torres
+303,2,01:27,44,28,BSB,RD,Gemerson
+304,2,01:32,44,28,FOR,3_Pts_T,Alex
+305,2,01:44,44,28,BSB,2_Pts_C,Nezinho
+306,2,01:54,42,28,FOR,substituicao_entra,Alex
+307,2,01:54,42,28,FOR,substituicao_sai,Brite
+308,2,01:54,42,28,BSB,FR,Gemerson
+309,2,01:54,42,28,FOR,FC,Schneider
+310,2,02:03,42,28,BSB,RD,P Rava
+311,2,02:06,42,28,FOR,3_Pts_T,Schneider
+312,2,02:15,42,28,FOR,LL_Pts_C,Holloway
+313,2,02:15,42,27,FOR,LL_Pts_T,Holloway
+314,2,02:15,42,27,FOR,FR,Holloway
+315,2,02:15,42,27,BSB,FC_A,Nezinho
+316,2,02:16,42,27,FOR,BR,Lassance
+317,2,02:16,42,27,BSB,ER,Caio Torres
+318,2,02:20,42,27,FOR,substituicao_entra,Lassance
+319,2,02:20,42,27,FOR,substituicao_sai,Mathias
+320,2,02:20,42,27,BSB,FR,Gemerson
+321,2,02:20,42,27,FOR,FC,Schneider
+322,2,02:22,42,27,BSB,FR,Nezinho
+323,2,02:22,42,27,FOR,FC,Brite
+324,2,02:31,42,27,BSB,RD,P Rava
+325,2,02:34,42,27,FOR,3_Pts_T,Rashaun
+326,2,02:56,42,27,BSB,AS,P Rava
+327,2,02:56,42,27,BSB,3_Pts_C,Caio Torres
+328,2,03:17,39,27,FOR,AS,Schneider
+329,2,03:17,39,27,FOR,2_Pts_C,Rashaun
+330,2,03:22,39,25,FOR,BR,Schneider
+331,2,03:22,39,25,BSB,ER,Nezinho
+332,2,03:28,39,25,FOR,substituicao_entra,Schneider
+333,2,03:28,39,25,FOR,substituicao_sai,Sualisson
+334,2,03:28,39,25,BSB,FR,Gemerson
+335,2,03:28,39,25,FOR,FC,Sualisson
+336,2,03:45,39,25,BSB,BR,Gemerson
+337,2,03:45,39,25,FOR,ER,Mathias
+338,2,03:54,39,25,BSB,AS,Nezinho
+339,2,03:54,39,25,BSB,3_Pts_C,Caio Torres
+340,2,04:09,36,25,BSB,RD,Brasília
+341,2,04:12,36,25,FOR,2_Pts_T,Rashaun
+342,2,04:27,36,25,FOR,FR,Brite
+343,2,04:27,36,25,BSB,FC,Laster
+344,2,04:45,36,25,BSB,AS,Nezinho
+345,2,04:45,36,25,BSB,3_Pts_C,Gemerson
+346,2,05:00,33,25,BSB,RD,Brasília
+347,2,05:02,33,25,FOR,2_Pts_T,Mathias
+348,2,05:21,33,25,BSB,substituicao_entra,Nezinho
+349,2,05:21,33,25,BSB,substituicao_entra,Gemerson
+350,2,05:21,33,25,BSB,substituicao_sai,Arthur
+351,2,05:21,33,25,BSB,substituicao_sai,Samuel
+352,2,05:21,33,25,FOR,tempo_tecnico,Fortaleza Basquete Cearense
+353,2,05:22,33,25,BSB,AS,P Rava
+354,2,05:22,33,25,BSB,3_Pts_C,Samuel
+355,2,05:31,30,25,BSB,RD,Samuel
+356,2,05:34,30,25,FOR,3_Pts_T,Mathias
+357,2,05:40,30,25,FOR,RD,Mathias
+358,2,05:44,30,25,BSB,3_Pts_T,Arthur
+359,2,05:47,30,25,BSB,RD,Caio Torres
+360,2,05:50,30,25,FOR,2_Pts_T,Sualisson
+361,2,05:56,30,25,FOR,BR,Brite
+362,2,05:56,30,25,BSB,ER,Samuel
+363,2,06:20,30,25,FOR,2_Pts_C,Holloway
+364,2,06:21,30,23,FOR,RO,Holloway
+365,2,06:25,30,23,FOR,2_Pts_T,Holloway
+366,2,06:47,30,23,BSB,3_Pts_C,Laster
+367,2,07:04,27,23,FOR,LL_Pts_C,Mathias
+368,2,07:04,27,22,FOR,AS,Rashaun
+369,2,07:04,27,22,FOR,LL_Pts_C,Mathias
+370,2,07:04,27,21,FOR,FR,Mathias
+371,2,07:04,27,21,BSB,FC,P Rava
+372,2,07:18,27,21,FOR,BR,Brite
+373,2,07:18,27,21,BSB,ER,Caio Torres
+374,2,07:34,27,21,FOR,2_Pts_C,Brite
+375,2,07:49,27,19,FOR,substituicao_entra,Rashaun
+376,2,07:49,27,19,FOR,substituicao_entra,Sualisson
+377,2,07:49,27,19,FOR,substituicao_sai,Schneider
+378,2,07:49,27,19,FOR,substituicao_sai,Alex
+379,2,07:49,27,19,FOR,tempo_tecnico,Fortaleza Basquete Cearense
+380,2,07:51,27,19,BSB,2_Pts_C,Arthur
+381,2,07:52,25,19,BSB,RO,Arthur
+382,2,07:56,25,19,BSB,3_Pts_T,Caio Torres
+383,2,08:07,25,19,BSB,RD,Caio Torres
+384,2,08:13,25,19,FOR,3_Pts_T,Schneider
+385,2,08:29,25,19,BSB,AS,Arthur
+386,2,08:29,25,19,BSB,2_Pts_C,Caio Torres
+387,2,08:42,23,19,FOR,2_Pts_C,Holloway
+388,2,08:42,23,17,FOR,RO,Holloway
+389,2,08:47,23,17,FOR,2_Pts_T,Holloway
+390,2,09:05,23,17,BSB,2_Pts_C,Samuel
+391,2,09:08,21,17,BSB,RO,Samuel
+392,2,09:11,21,17,BSB,3_Pts_T,Laster
+393,2,09:15,21,17,BSB,RD,Laster
+394,2,09:19,21,17,FOR,2_Pts_T,Brite
+395,2,09:34,21,17,BSB,2_Pts_C,Laster
+396,2,09:34,19,17,BSB,RO,Laster
+397,2,09:42,19,17,BSB,3_Pts_T,Samuel
+398,2,10:00,19,17,,inicio_quarto,
+399,1,00:00,19,17,,fim_quarto,
+400,1,00:04,19,17,BSB,3_Pts_T,Arthur
+401,1,00:13,19,17,FOR,substituicao_entra,Sualisson
+402,1,00:13,19,17,FOR,substituicao_sai,Mathias
+403,1,00:13,19,17,BSB,substituicao_entra,Nezinho
+404,1,00:13,19,17,BSB,substituicao_sai,Caio Torres
+405,1,00:13,19,17,BSB,FR,P Rava
+406,1,00:13,19,17,FOR,ER,Mathias
+407,1,00:13,19,17,FOR,FC_O,Mathias
+408,1,00:33,19,17,BSB,substituicao_entra,Caio Torres
+409,1,00:33,19,17,BSB,substituicao_sai,Marcelão
+410,1,00:33,19,17,FOR,FR,Holloway
+411,1,00:33,19,17,BSB,ER,Marcelão
+412,1,00:33,19,17,BSB,FC_O,Marcelão
+413,1,00:36,19,17,BSB,RD,Samuel
+414,1,00:39,19,17,FOR,2_Pts_T,Mathias
+415,1,00:42,19,17,FOR,RD,Schneider
+416,1,00:43,19,17,BSB,2_Pts_T,Samuel
+417,1,00:43,19,17,BSB,RO,Samuel
+418,1,00:49,19,17,BSB,2_Pts_T,Arthur
+419,1,00:55,19,17,BSB,RD,Laster
+420,1,00:59,19,17,FOR,2_Pts_T,Holloway
+421,1,01:21,19,17,BSB,substituicao_entra,Arthur
+422,1,01:21,19,17,BSB,substituicao_sai,Gemerson
+423,1,01:21,19,17,BSB,LL_Pts_C,Gemerson
+424,1,01:21,18,17,BSB,LL_Pts_T,Gemerson
+425,1,01:21,18,17,BSB,FR,Gemerson
+426,1,01:21,18,17,FOR,FC,Alex
+427,1,01:42,18,17,FOR,2_Pts_C,Mathias
+428,1,02:09,18,15,BSB,3_Pts_C,Samuel
+429,1,02:16,15,15,FOR,substituicao_entra,Alex
+430,1,02:16,15,15,FOR,substituicao_sai,Rashaun
+431,1,02:16,15,15,BSB,RO,Brasília
+432,1,02:16,15,15,FOR,TO,Mathias
+433,1,02:16,15,15,BSB,2_Pts_T,Samuel
+434,1,02:26,15,15,FOR,2_Pts_C,Rashaun
+435,1,02:48,15,13,FOR,substituicao_entra,Schneider
+436,1,02:48,15,13,FOR,substituicao_sai,Sualisson
+437,1,02:48,15,13,FOR,RD,Mathias
+438,1,02:49,15,13,BSB,LL_Pts_T,Samuel
+439,1,02:49,15,13,BSB,substituicao_entra,P Rava
+440,1,02:49,15,13,BSB,substituicao_sai,Nezinho
+441,1,02:49,15,13,BSB,FR,Samuel
+442,1,02:49,15,13,FOR,FC,Sualisson
+443,1,02:49,15,13,BSB,2_Pts_C,Samuel
+444,1,02:57,13,13,BSB,RO,Laster
+445,1,03:01,13,13,BSB,3_Pts_T,Laster
+446,1,03:09,13,13,BSB,BR,Samuel
+447,1,03:09,13,13,FOR,ER,Holloway
+448,1,03:13,13,13,FOR,FR,Holloway
+449,1,03:13,13,13,BSB,FC,Laster
+450,1,03:28,13,13,BSB,LL_Pts_C,Laster
+451,1,03:28,12,13,BSB,LL_Pts_C,Laster
+452,1,03:28,11,13,BSB,FR,Laster
+453,1,03:28,11,13,FOR,FC,Sualisson
+454,1,03:28,11,13,BSB,RO,Laster
+455,1,03:28,11,13,BSB,2_Pts_T,Laster
+456,1,03:37,11,13,BSB,RD,Marcelão
+457,1,03:41,11,13,FOR,3_Pts_T,Sualisson
+458,1,03:55,11,13,FOR,FR,Sualisson
+459,1,03:55,11,13,BSB,ER,Marcelão
+460,1,03:55,11,13,BSB,FC_O,Marcelão
+461,1,04:02,11,13,BSB,substituicao_entra,Laster
+462,1,04:02,11,13,BSB,substituicao_entra,Marcelão
+463,1,04:02,11,13,BSB,substituicao_sai,Caio Torres
+464,1,04:02,11,13,BSB,substituicao_sai,Arthur
+465,1,04:02,11,13,BSB,RO,Brasília
+466,1,04:06,11,13,BSB,2_Pts_T,Caio Torres
+467,1,04:14,11,13,BSB,RD,Arthur
+468,1,04:17,11,13,FOR,3_Pts_T,Rashaun
+469,1,04:32,11,13,BSB,2_Pts_C,Samuel
+470,1,04:32,9,13,BSB,RO,Samuel
+471,1,04:39,9,13,BSB,2_Pts_T,Caio Torres
+472,1,04:54,9,13,FOR,AS,Brite
+473,1,04:54,9,13,FOR,3_Pts_C,Holloway
+474,1,05:12,9,10,FOR,RD,Rashaun
+475,1,05:15,9,10,BSB,3_Pts_T,Nezinho
+476,1,05:28,9,10,FOR,LL_Pts_C,Holloway
+477,1,05:28,9,9,FOR,FR,Holloway
+478,1,05:28,9,9,BSB,FC,Arthur
+479,1,05:28,9,9,FOR,2_Pts_C,Holloway
+480,1,05:38,9,7,FOR,BR,Sualisson
+481,1,05:38,9,7,BSB,ER,Gemerson
+482,1,05:47,9,7,BSB,FR,Arthur
+483,1,05:47,9,7,FOR,ER,Holloway
+484,1,05:47,9,7,FOR,FC_O,Holloway
+485,1,05:58,9,7,BSB,AS,Arthur
+486,1,05:58,9,7,BSB,3_Pts_C,Nezinho
+487,1,06:18,6,7,FOR,AS,Rashaun
+488,1,06:18,6,7,FOR,2_Pts_C,Mathias
+489,1,06:24,6,5,FOR,RD,Mathias
+490,1,06:27,6,5,BSB,2_Pts_T,Samuel
+491,1,06:36,6,5,BSB,RD,Caio Torres
+492,1,06:40,6,5,FOR,2_Pts_T,Rashaun
+493,1,06:46,6,5,FOR,FR,Brite
+494,1,06:46,6,5,BSB,FC,Caio Torres
+495,1,06:50,6,5,FOR,RD,Mathias
+496,1,06:54,6,5,BSB,2_Pts_T,Nezinho
+497,1,07:03,6,5,BSB,RD,Gemerson
+498,1,07:06,6,5,FOR,3_Pts_T,Holloway
+499,1,07:26,6,5,BSB,AS,Nezinho
+500,1,07:26,6,5,BSB,2_Pts_C,Caio Torres
+501,1,07:45,4,5,FOR,AS,Mathias
+502,1,07:45,4,5,FOR,3_Pts_C,Rashaun
+503,1,07:58,4,2,BSB,2_Pts_C,Samuel
+504,1,08:09,2,2,BSB,RD,Caio Torres
+505,1,08:13,2,2,FOR,2_Pts_T,Sualisson
+506,1,08:38,2,2,BSB,2_Pts_C,Nezinho
+507,1,08:46,0,2,BSB,RO,Brasília
+508,1,08:48,0,2,BSB,2_Pts_T,Caio Torres
+509,1,09:04,0,2,BSB,RD,Caio Torres
+510,1,09:08,0,2,FOR,3_Pts_T,Brite
+511,1,09:25,0,2,FOR,BR,Mathias
+512,1,09:25,0,2,BSB,ER,Gemerson
+513,1,09:43,0,2,FOR,AS,Brite
+514,1,09:43,0,2,FOR,2_Pts_C,Mathias
+515,1,10:00,0,0,FOR,substituicao_entra,Rashaun
+516,1,10:00,0,0,FOR,substituicao_entra,Sualisson
+517,1,10:00,0,0,FOR,substituicao_entra,Mathias
+518,1,10:00,0,0,FOR,substituicao_entra,Brite
+519,1,10:00,0,0,FOR,substituicao_entra,Holloway
+520,1,10:00,0,0,BSB,substituicao_entra,Nezinho
+521,1,10:00,0,0,BSB,substituicao_entra,Caio Torres
+522,1,10:00,0,0,BSB,substituicao_entra,Gemerson
+523,1,10:00,0,0,BSB,substituicao_entra,Arthur
+524,1,10:00,0,0,BSB,substituicao_entra,Samuel
+525,1,10:00,0,0,,inicio_partida,

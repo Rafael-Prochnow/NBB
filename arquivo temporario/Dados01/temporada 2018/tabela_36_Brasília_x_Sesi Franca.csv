@@ -1,0 +1,526 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,73,101,,fim_partida,
+1,4,00:00,73,101,,fim_quarto,
+2,4,00:13,73,101,FRA,ER,Cassiano
+3,4,00:26,73,101,FRA,RD,Alexey
+4,4,00:31,73,101,BRA,3_Pts_T,Zach Graham
+5,4,00:40,73,101,BRA,substituicao_entra,Luis
+6,4,00:40,73,101,BRA,substituicao_sai,Nezinho
+7,4,00:40,73,101,BRA,RD,Universo/Caixa/Brasília
+8,4,00:40,73,101,FRA,2_Pts_T,Cassiano
+9,4,00:51,73,101,BRA,LL_Pts_C,Nezinho
+10,4,00:51,72,101,BRA,LL_Pts_T,Nezinho
+11,4,00:51,72,101,BRA,FR,Nezinho
+12,4,00:51,72,101,FRA,FC,Cassiano
+13,4,00:57,72,101,FRA,AS,Cassiano
+14,4,00:57,72,101,FRA,2_Pts_C,Adriano Big
+15,4,01:05,72,99,FRA,RD,Alexey
+16,4,01:11,72,99,BRA,3_Pts_T,Nezinho
+17,4,01:16,72,99,BRA,tempo_tecnico,Universo/Caixa/Brasília
+18,4,01:18,72,99,FRA,2_Pts_C,Lucas Dias
+19,4,01:25,72,97,FRA,RD,Adriano Big
+20,4,01:30,72,97,BRA,2_Pts_T,Zach Graham
+21,4,01:48,72,97,FRA,ER,Adriano Big
+22,4,02:06,72,97,BRA,3_Pts_C,Nezinho
+23,4,02:17,69,97,FRA,LL_Pts_C,Alexey
+24,4,02:17,69,96,FRA,LL_Pts_C,Alexey
+25,4,02:17,69,95,FRA,FR,Alexey
+26,4,02:17,69,95,BRA,FC,Nezinho
+27,4,02:25,69,95,FRA,substituicao_entra,Adriano Big
+28,4,02:25,69,95,FRA,substituicao_sai,André Goes
+29,4,02:40,69,95,BRA,2_Pts_C,Zach Graham
+30,4,02:54,67,95,FRA,AS,Cassiano
+31,4,02:54,67,95,FRA,3_Pts_C,Lucas Dias
+32,4,03:00,67,92,FRA,BR,Cassiano
+33,4,03:00,67,92,BRA,ER,Rodrigo
+34,4,03:12,67,92,BRA,RO,Universo/Caixa/Brasília
+35,4,03:13,67,92,BRA,3_Pts_T,Zach Graham
+36,4,03:20,67,92,BRA,substituicao_entra,Graterol
+37,4,03:20,67,92,BRA,substituicao_sai,Andrezão
+38,4,03:20,67,92,BRA,FR,Zach Graham
+39,4,03:20,67,92,FRA,FC,Cassiano
+40,4,03:33,67,92,FRA,LL_Pts_C,Guilherme
+41,4,03:33,67,91,FRA,AS,Alexey
+42,4,03:33,67,91,FRA,LL_Pts_C,Guilherme
+43,4,03:33,67,90,FRA,FR,Guilherme
+44,4,03:33,67,90,BRA,FC,P Rava
+45,4,03:37,67,90,FRA,BR,Alexey
+46,4,03:37,67,90,BRA,ER,Rodrigo
+47,4,03:43,67,90,FRA,substituicao_entra,Lucas Dias
+48,4,03:43,67,90,FRA,substituicao_sai,Cipolini
+49,4,03:43,67,90,BRA,substituicao_entra,P Rava
+50,4,03:43,67,90,BRA,substituicao_sai,Pedro
+51,4,03:56,67,90,FRA,2_Pts_C,Cipolini
+52,4,03:56,67,88,FRA,RO,Cipolini
+53,4,04:06,67,88,FRA,3_Pts_T,André Goes
+54,4,04:27,67,88,BRA,2_Pts_C,Nezinho
+55,4,04:31,65,88,BRA,RO,Rodrigo
+56,4,04:35,65,88,BRA,3_Pts_T,Nezinho
+57,4,04:44,65,88,FRA,LL_Pts_C,Cassiano
+58,4,04:44,65,87,FRA,LL_Pts_T,Cassiano
+59,4,04:44,65,87,FRA,FR,Cassiano
+60,4,04:44,65,87,BRA,FC,Zach Graham
+61,4,04:51,65,87,BRA,2_Pts_C,Zach Graham
+62,4,05:02,63,87,FRA,substituicao_entra,Guilherme
+63,4,05:02,63,87,FRA,substituicao_sai,Didi
+64,4,05:02,63,87,BRA,FR,Zach Graham
+65,4,05:02,63,87,FRA,FC,Cassiano
+66,4,05:10,63,87,FRA,2_Pts_C,Alexey
+67,4,05:35,63,85,BRA,AS,Nezinho
+68,4,05:35,63,85,BRA,2_Pts_C,Rodrigo
+69,4,05:46,61,85,BRA,BR,Pedro
+70,4,05:46,61,85,FRA,ER,Didi
+71,4,05:51,61,85,FRA,LL_Pts_C,Didi
+72,4,05:51,61,84,BRA,substituicao_entra,Rodrigo
+73,4,05:51,61,84,BRA,substituicao_sai,Marcelão
+74,4,05:51,61,84,FRA,FR,Didi
+75,4,05:51,61,84,BRA,FC_A,Pedro
+76,4,05:51,61,84,FRA,2_Pts_C,Didi
+77,4,05:51,61,82,FRA,RO,Didi
+78,4,05:55,61,82,FRA,3_Pts_T,Cassiano
+79,4,06:08,61,82,BRA,3_Pts_C,Nezinho
+80,4,06:25,58,82,FRA,2_Pts_C,Cassiano
+81,4,06:36,58,80,BRA,AS,Nezinho
+82,4,06:36,58,80,BRA,2_Pts_C,Andrezão
+83,4,06:41,56,80,BRA,RD,Zach Graham
+84,4,06:44,56,80,FRA,3_Pts_T,André Goes
+85,4,06:54,56,80,FRA,RD,Cipolini
+86,4,07:00,56,80,BRA,2_Pts_T,Marcelão
+87,4,07:10,56,80,BRA,FR,Marcelão
+88,4,07:10,56,80,FRA,FC,Cipolini
+89,4,07:22,56,80,FRA,LL_Pts_C,Didi
+90,4,07:22,56,79,FRA,LL_Pts_C,Didi
+91,4,07:22,56,78,FRA,FR,Didi
+92,4,07:22,56,78,BRA,FC,Pedro
+93,4,07:29,56,78,BRA,substituicao_entra,Andrezão
+94,4,07:29,56,78,BRA,substituicao_sai,Ricky Sánchez
+95,4,07:29,56,78,FRA,FR,Alexey
+96,4,07:29,56,78,BRA,FC,Ricky Sánchez
+97,4,07:48,56,78,BRA,3_Pts_C,Nezinho
+98,4,08:00,53,78,FRA,AS,André Goes
+99,4,08:00,53,78,FRA,2_Pts_C,Didi
+100,4,08:08,53,76,BRA,substituicao_entra,Nezinho
+101,4,08:08,53,76,BRA,substituicao_sai,Luis
+102,4,08:08,53,76,FRA,FR,Cipolini
+103,4,08:08,53,76,BRA,FC,Marcelão
+104,4,08:28,53,76,BRA,ER,Marcelão
+105,4,08:28,53,76,FRA,EN,Cipolini
+106,4,08:37,53,74,FRA,RO,Cipolini
+107,4,08:50,53,74,FRA,2_Pts_T,Alexey
+108,4,08:55,53,74,FRA,FR,Cipolini
+109,4,08:55,53,74,BRA,FC,Marcelão
+110,4,09:03,53,74,FRA,FR,Alexey
+111,4,09:03,53,74,BRA,FC,Ricky Sánchez
+112,4,09:21,53,74,BRA,3_Pts_C,Zach Graham
+113,4,09:39,50,74,BRA,FR,Ricky Sánchez
+114,4,09:39,50,74,FRA,FC,Cipolini
+115,4,09:39,50,74,BRA,RD,Ricky Sánchez
+116,4,09:41,50,74,FRA,3_Pts_T,Cassiano
+117,4,10:00,50,74,,inicio_quarto,
+118,3,00:00,50,74,,fim_quarto,
+119,3,00:03,50,74,FRA,AS,Cassiano
+120,3,00:03,50,74,FRA,3_Pts_C,Cipolini
+121,3,00:08,50,71,BRA,2_Pts_C,Zach Graham
+122,3,00:28,48,71,FRA,LL_Pts_C,Alexey
+123,3,00:28,48,70,FRA,LL_Pts_T,Alexey
+124,3,00:28,48,70,FRA,FR,Alexey
+125,3,00:28,48,70,BRA,FC,Luis
+126,3,00:45,48,70,BRA,AS,Rafa Moreira
+127,3,00:45,48,70,BRA,EN,Zach Graham
+128,3,00:46,46,70,BRA,RD,Rafa Moreira
+129,3,00:49,46,70,FRA,2_Pts_T,Cassiano
+130,3,01:02,46,70,FRA,substituicao_entra,Cipolini
+131,3,01:02,46,70,FRA,substituicao_sai,Lucas Dias
+132,3,01:02,46,70,BRA,LL_Pts_C,Ricky Sánchez
+133,3,01:02,45,70,BRA,FR,Ricky Sánchez
+134,3,01:02,45,70,FRA,FC,Lucas Dias
+135,3,01:02,45,70,BRA,2_Pts_C,Ricky Sánchez
+136,3,01:10,43,70,BRA,RD,Universo/Caixa/Brasília
+137,3,01:13,43,70,FRA,2_Pts_T,Cassiano
+138,3,01:26,43,70,BRA,substituicao_entra,Luis
+139,3,01:26,43,70,BRA,substituicao_sai,Nezinho
+140,3,01:30,43,70,BRA,AS,Nezinho
+141,3,01:30,43,70,BRA,2_Pts_C,Zach Graham
+142,3,01:30,41,70,BRA,RO,Universo/Caixa/Brasília
+143,3,01:32,41,70,BRA,3_Pts_T,Ricky Sánchez
+144,3,01:47,41,70,FRA,ER,Cassiano
+145,3,02:06,41,70,BRA,3_Pts_C,Nezinho
+146,3,02:18,38,70,FRA,AS,Alexey
+147,3,02:18,38,70,FRA,3_Pts_C,André Goes
+148,3,02:34,38,67,BRA,LL_Pts_C,Zach Graham
+149,3,02:34,37,67,BRA,LL_Pts_C,Zach Graham
+150,3,02:34,36,67,BRA,FR,Zach Graham
+151,3,02:34,36,67,FRA,FC,Cassiano
+152,3,02:43,36,67,BRA,substituicao_entra,Zach Graham
+153,3,02:43,36,67,BRA,substituicao_sai,Pedro
+154,3,02:43,36,67,BRA,substituicao_entra,Ricky Sánchez
+155,3,02:43,36,67,BRA,substituicao_sai,Andrezão
+156,3,02:43,36,67,BRA,RD,Universo/Caixa/Brasília
+157,3,02:44,36,67,FRA,3_Pts_T,Didi
+158,3,02:56,36,67,FRA,substituicao_entra,Cassiano
+159,3,02:56,36,67,FRA,substituicao_sai,Jimmy
+160,3,02:56,36,67,FRA,substituicao_entra,André Goes
+161,3,02:56,36,67,FRA,substituicao_sai,Cipolini
+162,3,02:56,36,67,FRA,FR,Alexey
+163,3,02:56,36,67,BRA,ER,Marcelão
+164,3,02:56,36,67,BRA,FC_O,Marcelão
+165,3,02:56,36,67,FRA,2_Pts_C,Lucas Dias
+166,3,02:56,36,65,FRA,RO,Lucas Dias
+167,3,03:02,36,65,FRA,2_Pts_T,Lucas Dias
+168,3,03:04,36,65,FRA,RO,Lucas Dias
+169,3,03:11,36,65,BRA,TO,Nezinho
+170,3,03:11,36,65,FRA,2_Pts_T,Alexey
+171,3,03:18,36,65,FRA,BR,Alexey
+172,3,03:18,36,65,BRA,ER,Nezinho
+173,3,03:21,36,65,FRA,EN,Cipolini
+174,3,03:21,36,63,FRA,RO,Cipolini
+175,3,03:27,36,63,FRA,3_Pts_T,Alexey
+176,3,03:39,36,63,FRA,RD,Cipolini
+177,3,03:43,36,63,BRA,3_Pts_T,Rafa Moreira
+178,3,03:56,36,63,BRA,RD,Marcelão
+179,3,04:01,36,63,FRA,3_Pts_T,Cipolini
+180,3,04:10,36,63,FRA,FR,Didi
+181,3,04:10,36,63,BRA,FC,Andrezão
+182,3,04:12,36,63,FRA,RD,Didi
+183,3,04:15,36,63,BRA,2_Pts_T,Marcelão
+184,3,04:17,36,63,BRA,RO,Marcelão
+185,3,04:25,36,63,BRA,3_Pts_T,Nezinho
+186,3,04:37,36,63,BRA,FR,Pedro
+187,3,04:37,36,63,FRA,FC,Didi
+188,3,04:44,36,63,FRA,substituicao_entra,Alexey
+189,3,04:44,36,63,FRA,substituicao_sai,Elinho
+190,3,04:44,36,63,BRA,FR,Nezinho
+191,3,04:44,36,63,FRA,FC,Didi
+192,3,05:00,36,63,FRA,AS,Lucas Dias
+193,3,05:00,36,63,FRA,2_Pts_C,Didi
+194,3,05:03,36,61,FRA,RD,Elinho
+195,3,05:07,36,61,BRA,3_Pts_T,Rafa Moreira
+196,3,05:15,36,61,BRA,substituicao_entra,Andrezão
+197,3,05:15,36,61,BRA,substituicao_sai,Zach Graham
+198,3,05:16,36,61,BRA,FR,Zach Graham
+199,3,05:16,36,61,FRA,ER,Lucas Dias
+200,3,05:16,36,61,FRA,FC_O,Lucas Dias
+201,3,05:25,36,61,FRA,RD,Jimmy
+202,3,05:33,36,61,FRA,TO,Jimmy
+203,3,05:33,36,61,BRA,2_Pts_T,Zach Graham
+204,3,05:50,36,61,FRA,substituicao_entra,Didi
+205,3,05:50,36,61,FRA,substituicao_sai,David Jackson
+206,3,05:50,36,61,BRA,substituicao_entra,Marcelão
+207,3,05:50,36,61,BRA,substituicao_sai,Graterol
+208,3,05:50,36,61,BRA,tempo_tecnico,Universo/Caixa/Brasília
+209,3,05:51,36,61,FRA,AS,Elinho
+210,3,05:51,36,61,FRA,3_Pts_C,Lucas Dias
+211,3,06:02,36,58,FRA,BR,Cipolini
+212,3,06:02,36,58,BRA,ER,Rafa Moreira
+213,3,06:15,36,58,FRA,EN,Cipolini
+214,3,06:15,36,56,FRA,RO,Cipolini
+215,3,06:23,36,56,FRA,3_Pts_T,Lucas Dias
+216,3,06:36,36,56,BRA,2_Pts_C,Nezinho
+217,3,06:39,34,56,BRA,RD,Nezinho
+218,3,06:43,34,56,FRA,3_Pts_T,Jimmy
+219,3,07:04,34,56,BRA,substituicao_entra,Rafa Moreira
+220,3,07:04,34,56,BRA,substituicao_sai,Ricky Sánchez
+221,3,07:04,34,56,FRA,RD,Franca
+222,3,07:07,34,56,BRA,3_Pts_T,Pedro
+223,3,07:25,34,56,FRA,AS,Elinho
+224,3,07:25,34,56,FRA,2_Pts_C,Cipolini
+225,3,07:39,34,54,FRA,FR,Cipolini
+226,3,07:39,34,54,BRA,FC,Pedro
+227,3,07:54,34,54,FRA,RD,Elinho
+228,3,07:58,34,54,BRA,3_Pts_T,Ricky Sánchez
+229,3,08:04,34,54,BRA,RD,Pedro
+230,3,08:08,34,54,FRA,3_Pts_T,Elinho
+231,3,08:34,34,54,BRA,AS,Nezinho
+232,3,08:34,34,54,BRA,2_Pts_C,Pedro
+233,3,08:48,32,54,FRA,3_Pts_C,David Jackson
+234,3,08:54,32,51,FRA,RD,Cipolini
+235,3,08:58,32,51,BRA,2_Pts_T,Ricky Sánchez
+236,3,09:16,32,51,FRA,LL_Pts_C,David Jackson
+237,3,09:16,32,50,FRA,LL_Pts_C,David Jackson
+238,3,09:16,32,49,FRA,FR,David Jackson
+239,3,09:16,32,49,BRA,FC,Graterol
+240,3,09:42,32,49,BRA,ER,Zach Graham
+241,3,09:44,32,49,BRA,FR,Graterol
+242,3,09:44,32,49,FRA,FC,Cipolini
+243,3,10:00,32,49,,inicio_quarto,
+244,2,00:00,32,49,,fim_quarto,
+245,2,00:04,32,49,BRA,3_Pts_T,Pedro
+246,2,00:07,32,49,BRA,BR,Marcelão
+247,2,00:07,32,49,FRA,ER,Jimmy
+248,2,00:23,32,49,BRA,LL_Pts_C,Andrezão
+249,2,00:23,31,49,BRA,LL_Pts_T,Andrezão
+250,2,00:23,31,49,BRA,substituicao_entra,Luis
+251,2,00:23,31,49,BRA,substituicao_sai,Zach Graham
+252,2,00:23,31,49,BRA,FR,Andrezão
+253,2,00:23,31,49,FRA,FC,Guilherme
+254,2,00:23,31,49,BRA,RO,Andrezão
+255,2,00:25,31,49,BRA,LL_Pts_T,Zach Graham
+256,2,00:25,31,49,BRA,LL_Pts_C,Zach Graham
+257,2,00:25,30,49,FRA,tempo_tecnico,Franca
+258,2,00:25,30,49,BRA,substituicao_entra,Marcelão
+259,2,00:25,30,49,BRA,substituicao_sai,Graterol
+260,2,00:25,30,49,BRA,substituicao_entra,Pedro
+261,2,00:25,30,49,BRA,substituicao_sai,Nezinho
+262,2,00:25,30,49,BRA,substituicao_entra,Andrezão
+263,2,00:25,30,49,BRA,substituicao_sai,Rodrigo
+264,2,00:25,30,49,BRA,FR,Zach Graham
+265,2,00:25,30,49,FRA,FC,Cipolini
+266,2,00:46,30,49,FRA,AS,David Jackson
+267,2,00:46,30,49,FRA,3_Pts_C,Jimmy
+268,2,00:57,30,46,FRA,RD,David Jackson
+269,2,00:59,30,46,BRA,2_Pts_T,Graterol
+270,2,00:59,30,46,BRA,RO,Graterol
+271,2,01:06,30,46,BRA,2_Pts_T,Graterol
+272,2,01:30,30,46,FRA,AS,Alexey
+273,2,01:30,30,46,FRA,2_Pts_C,Jimmy
+274,2,01:35,30,44,FRA,RD,Cipolini
+275,2,01:40,30,44,BRA,3_Pts_T,Rafa Moreira
+276,2,01:54,30,44,FRA,AS,David Jackson
+277,2,01:54,30,44,FRA,3_Pts_C,Guilherme
+278,2,02:03,30,41,BRA,2_Pts_C,Rodrigo
+279,2,02:03,28,41,BRA,RO,Rodrigo
+280,2,02:18,28,41,BRA,3_Pts_T,Nezinho
+281,2,02:31,28,41,BRA,substituicao_entra,Nezinho
+282,2,02:31,28,41,BRA,substituicao_sai,Pedro
+283,2,02:31,28,41,FRA,ER,Cipolini
+284,2,02:48,28,41,FRA,RD,Cipolini
+285,2,02:50,28,41,BRA,LL_Pts_T,Pedro
+286,2,02:50,28,41,BRA,LL_Pts_C,Pedro
+287,2,02:50,27,41,FRA,substituicao_entra,Alexey
+288,2,02:50,27,41,FRA,substituicao_sai,Elinho
+289,2,02:50,27,41,BRA,FR,Pedro
+290,2,02:50,27,41,FRA,FC,Elinho
+291,2,02:57,27,41,BRA,RD,Graterol
+292,2,03:00,27,41,FRA,2_Pts_T,Elinho
+293,2,03:03,27,41,FRA,substituicao_entra,Guilherme
+294,2,03:03,27,41,FRA,substituicao_sai,Lucas Dias
+295,2,03:20,27,41,FRA,RD,Lucas Dias
+296,2,03:27,27,41,BRA,3_Pts_T,Rafa Moreira
+297,2,03:41,27,41,BRA,FR,Rodrigo
+298,2,03:41,27,41,FRA,FC,Lucas Dias
+299,2,03:52,27,41,BRA,substituicao_entra,Rodrigo
+300,2,03:52,27,41,BRA,substituicao_sai,Andrezão
+301,2,03:52,27,41,BRA,tempo_tecnico,Universo/Caixa/Brasília
+302,2,03:55,27,41,FRA,2_Pts_C,Lucas Dias
+303,2,04:19,27,39,FRA,substituicao_entra,Cipolini
+304,2,04:19,27,39,FRA,substituicao_sai,André Goes
+305,2,04:31,27,39,FRA,TO,Lucas Dias
+306,2,04:31,27,39,FRA,RD,Franca
+307,2,04:31,27,39,BRA,2_Pts_T,Graterol
+308,2,04:32,27,39,BRA,RD,Zach Graham
+309,2,04:32,27,39,FRA,3_Pts_T,Lucas Dias
+310,2,04:43,27,39,FRA,RO,Franca
+311,2,04:53,27,39,BRA,TO,Pedro
+312,2,04:53,27,39,FRA,2_Pts_T,André Goes
+313,2,04:55,27,39,FRA,RD,André Goes
+314,2,04:55,27,39,BRA,2_Pts_T,Pedro
+315,2,04:55,27,39,BRA,FR,Pedro
+316,2,04:55,27,39,FRA,FC,Jimmy
+317,2,05:04,27,39,FRA,2_Pts_C,Lucas Dias
+318,2,05:21,27,37,FRA,FR,Elinho
+319,2,05:21,27,37,BRA,FC,Pedro
+320,2,05:25,27,37,BRA,2_Pts_C,Graterol
+321,2,05:25,25,37,BRA,RO,Graterol
+322,2,05:34,25,37,BRA,2_Pts_T,Zach Graham
+323,2,05:48,25,37,FRA,LL_Pts_C,Lucas Dias
+324,2,05:48,25,36,FRA,AS,Elinho
+325,2,05:48,25,36,FRA,LL_Pts_C,Lucas Dias
+326,2,05:48,25,35,FRA,substituicao_entra,Jimmy
+327,2,05:48,25,35,FRA,substituicao_sai,Didi
+328,2,05:48,25,35,FRA,FR,Lucas Dias
+329,2,05:48,25,35,BRA,FC,Andrezão
+330,2,05:52,25,35,FRA,RD,Didi
+331,2,05:57,25,35,BRA,3_Pts_T,Rafa Moreira
+332,2,06:03,25,35,BRA,RD,Zach Graham
+333,2,06:08,25,35,FRA,3_Pts_T,Didi
+334,2,06:24,25,35,BRA,substituicao_entra,Pedro
+335,2,06:24,25,35,BRA,substituicao_sai,Nezinho
+336,2,06:24,25,35,FRA,LL_Pts_C,David Jackson
+337,2,06:24,25,34,BRA,FC_T,Nezinho
+338,2,06:24,25,34,FRA,FR,André Goes
+339,2,06:24,25,34,BRA,FC,Nezinho
+340,2,06:39,25,34,FRA,RD,Elinho
+341,2,06:44,25,34,BRA,2_Pts_T,Graterol
+342,2,07:08,25,34,FRA,AS,André Goes
+343,2,07:08,25,34,FRA,2_Pts_C,Lucas Dias
+344,2,07:26,25,32,BRA,3_Pts_C,Nezinho
+345,2,07:29,22,32,BRA,RD,Nezinho
+346,2,07:34,22,32,FRA,3_Pts_T,Lucas Dias
+347,2,07:49,22,32,BRA,LL_Pts_C,Graterol
+348,2,07:49,21,32,FRA,substituicao_entra,Elinho
+349,2,07:49,21,32,FRA,substituicao_sai,Alexey
+350,2,07:49,21,32,FRA,tempo_tecnico,Franca
+351,2,07:49,21,32,FRA,substituicao_entra,Lucas Dias
+352,2,07:49,21,32,FRA,substituicao_sai,Cipolini
+353,2,07:49,21,32,BRA,FR,Graterol
+354,2,07:49,21,32,FRA,FC,Didi
+355,2,07:49,21,32,BRA,AS,Nezinho
+356,2,07:49,21,32,BRA,2_Pts_C,Graterol
+357,2,07:58,19,32,BRA,RD,Zach Graham
+358,2,08:02,19,32,FRA,3_Pts_T,Alexey
+359,2,08:19,19,32,BRA,AS,Rafa Moreira
+360,2,08:19,19,32,BRA,3_Pts_C,Nezinho
+361,2,08:23,16,32,BRA,RO,Rafa Moreira
+362,2,08:27,16,32,BRA,2_Pts_T,Rafa Moreira
+363,2,08:32,16,32,BRA,FR,Nezinho
+364,2,08:32,16,32,FRA,FC,Didi
+365,2,08:35,16,32,BRA,RD,Graterol
+366,2,08:40,16,32,FRA,2_Pts_T,Didi
+367,2,08:48,16,32,FRA,RD,André Goes
+368,2,08:53,16,32,BRA,3_Pts_T,Zach Graham
+369,2,09:11,16,32,FRA,AS,André Goes
+370,2,09:11,16,32,FRA,EN,Cipolini
+371,2,09:26,16,30,BRA,2_Pts_C,Andrezão
+372,2,09:26,14,30,BRA,RO,Andrezão
+373,2,09:29,14,30,BRA,2_Pts_T,Andrezão
+374,2,09:29,14,30,BRA,RO,Andrezão
+375,2,09:37,14,30,BRA,3_Pts_T,Graterol
+376,2,09:43,14,30,BRA,RD,Zach Graham
+377,2,09:47,14,30,FRA,3_Pts_T,André Goes
+378,2,10:00,14,30,,inicio_quarto,
+379,1,00:00,14,30,,fim_quarto,
+380,1,00:05,14,30,BRA,3_Pts_C,Nezinho
+381,1,00:05,11,30,BRA,RD,Andrezão
+382,1,00:07,11,30,FRA,LL_Pts_T,Cipolini
+383,1,00:07,11,30,FRA,LL_Pts_C,Cipolini
+384,1,00:07,11,29,FRA,substituicao_entra,Guilherme
+385,1,00:07,11,29,FRA,substituicao_sai,David Jackson
+386,1,00:07,11,29,FRA,FR,Cipolini
+387,1,00:07,11,29,BRA,FC,Graterol
+388,1,00:12,11,29,FRA,substituicao_entra,David Jackson
+389,1,00:12,11,29,FRA,substituicao_sai,Guilherme
+390,1,00:12,11,29,BRA,substituicao_entra,Andrezão
+391,1,00:12,11,29,BRA,substituicao_sai,Ricky Sánchez
+392,1,00:12,11,29,BRA,ER,
+393,1,00:21,11,29,FRA,substituicao_entra,Guilherme
+394,1,00:21,11,29,FRA,substituicao_sai,David Jackson
+395,1,00:21,11,29,BRA,substituicao_entra,Ricky Sánchez
+396,1,00:21,11,29,BRA,substituicao_sai,Pedro
+397,1,00:21,11,29,BRA,substituicao_entra,Rafa Moreira
+398,1,00:21,11,29,BRA,substituicao_sai,P Rava
+399,1,00:24,11,29,BRA,RO,Zach Graham
+400,1,00:29,11,29,BRA,3_Pts_T,Nezinho
+401,1,00:46,11,29,FRA,AS,Alexey
+402,1,00:46,11,29,FRA,EN,Cipolini
+403,1,00:54,11,27,FRA,RD,Alexey
+404,1,01:01,11,27,BRA,3_Pts_T,Zach Graham
+405,1,01:20,11,27,FRA,substituicao_entra,Cipolini
+406,1,01:20,11,27,FRA,substituicao_sai,Lucas Dias
+407,1,01:20,11,27,FRA,LL_Pts_C,David Jackson
+408,1,01:20,11,26,FRA,LL_Pts_C,David Jackson
+409,1,01:20,11,25,FRA,AS,Didi
+410,1,01:20,11,25,FRA,LL_Pts_C,David Jackson
+411,1,01:20,11,24,FRA,FR,David Jackson
+412,1,01:20,11,24,BRA,FC,Nezinho
+413,1,01:20,11,24,BRA,substituicao_entra,Nezinho
+414,1,01:20,11,24,BRA,substituicao_sai,Andrezão
+415,1,01:33,11,24,FRA,LL_Pts_C,Didi
+416,1,01:33,11,23,FRA,FR,Didi
+417,1,01:33,11,23,BRA,ER,P Rava
+418,1,01:33,11,23,BRA,FC_A,P Rava
+419,1,01:33,11,23,FRA,AS,David Jackson
+420,1,01:33,11,23,FRA,2_Pts_C,Didi
+421,1,01:33,11,21,FRA,RD,David Jackson
+422,1,01:38,11,21,BRA,2_Pts_T,Zach Graham
+423,1,01:42,11,21,BRA,FR,Graterol
+424,1,01:42,11,21,FRA,FC,Lucas Dias
+425,1,02:05,11,21,FRA,AS,Lucas Dias
+426,1,02:05,11,21,FRA,3_Pts_C,Didi
+427,1,02:20,11,18,FRA,substituicao_entra,Didi
+428,1,02:20,11,18,FRA,substituicao_sai,Jimmy
+429,1,02:20,11,18,BRA,substituicao_entra,Graterol
+430,1,02:20,11,18,BRA,substituicao_sai,Ricky Sánchez
+431,1,02:20,11,18,FRA,FR,David Jackson
+432,1,02:20,11,18,BRA,FC,Ricky Sánchez
+433,1,02:20,11,18,FRA,RD,David Jackson
+434,1,02:24,11,18,BRA,3_Pts_T,P Rava
+435,1,02:37,11,18,BRA,RD,Ricky Sánchez
+436,1,02:41,11,18,FRA,2_Pts_T,Jimmy
+437,1,03:03,11,18,BRA,LL_Pts_C,Zach Graham
+438,1,03:03,10,18,BRA,LL_Pts_T,Zach Graham
+439,1,03:03,10,18,BRA,FR,Zach Graham
+440,1,03:03,10,18,FRA,FC,David Jackson
+441,1,03:14,10,18,BRA,tempo_tecnico,Universo/Caixa/Brasília
+442,1,03:17,10,18,FRA,LL_Pts_C,Alexey
+443,1,03:17,10,17,BRA,substituicao_entra,Ricky Sánchez
+444,1,03:17,10,17,BRA,substituicao_sai,Nezinho
+445,1,03:17,10,17,BRA,substituicao_entra,P Rava
+446,1,03:17,10,17,BRA,substituicao_sai,Graterol
+447,1,03:17,10,17,FRA,FR,Alexey
+448,1,03:17,10,17,BRA,FC,Andrezão
+449,1,03:17,10,17,FRA,2_Pts_C,Alexey
+450,1,03:26,10,15,BRA,ER,Nezinho
+451,1,03:38,10,15,FRA,2_Pts_C,Jimmy
+452,1,04:02,10,13,BRA,ER,Nezinho
+453,1,04:08,10,13,BRA,RO,Nezinho
+454,1,04:13,10,13,BRA,3_Pts_T,Andrezão
+455,1,04:16,10,13,FRA,substituicao_entra,Alexey
+456,1,04:16,10,13,FRA,substituicao_sai,Elinho
+457,1,04:29,10,13,BRA,LL_Pts_T,Graterol
+458,1,04:29,10,13,BRA,LL_Pts_T,Graterol
+459,1,04:29,10,13,FRA,substituicao_entra,André Goes
+460,1,04:29,10,13,FRA,substituicao_sai,Cipolini
+461,1,04:29,10,13,BRA,substituicao_entra,Andrezão
+462,1,04:29,10,13,BRA,substituicao_sai,Rafa Moreira
+463,1,04:29,10,13,BRA,substituicao_entra,Pedro
+464,1,04:29,10,13,BRA,substituicao_sai,Ricky Sánchez
+465,1,04:29,10,13,BRA,FR,Graterol
+466,1,04:29,10,13,FRA,FC_A,Jimmy
+467,1,04:39,10,13,FRA,AS,Jimmy
+468,1,04:39,10,13,FRA,3_Pts_C,David Jackson
+469,1,04:51,10,10,FRA,BR,David Jackson
+470,1,04:51,10,10,BRA,ER,Nezinho
+471,1,04:58,10,10,BRA,BR,Nezinho
+472,1,04:58,10,10,FRA,ER,Lucas Dias
+473,1,05:20,10,10,FRA,RD,David Jackson
+474,1,05:23,10,10,BRA,3_Pts_T,Rafa Moreira
+475,1,05:36,10,10,FRA,AS,David Jackson
+476,1,05:36,10,10,FRA,3_Pts_C,Cipolini
+477,1,05:40,10,7,FRA,RD,Jimmy
+478,1,05:44,10,7,BRA,3_Pts_T,Nezinho
+479,1,05:51,10,7,BRA,BR,Ricky Sánchez
+480,1,05:51,10,7,FRA,ER,Cipolini
+481,1,05:53,10,7,FRA,RO,Elinho
+482,1,05:58,10,7,FRA,3_Pts_T,Lucas Dias
+483,1,06:09,10,7,BRA,3_Pts_C,Nezinho
+484,1,06:12,7,7,BRA,RO,Graterol
+485,1,06:17,7,7,BRA,2_Pts_T,Rafa Moreira
+486,1,06:34,7,7,FRA,LL_Pts_C,Jimmy
+487,1,06:34,7,6,FRA,LL_Pts_C,Jimmy
+488,1,06:34,7,5,FRA,FR,Jimmy
+489,1,06:34,7,5,BRA,FC,Ricky Sánchez
+490,1,06:39,7,5,FRA,RD,Jimmy
+491,1,06:40,7,5,BRA,3_Pts_T,Zach Graham
+492,1,06:59,7,5,FRA,3_Pts_C,David Jackson
+493,1,07:16,7,2,BRA,AS,Nezinho
+494,1,07:16,7,2,BRA,2_Pts_C,Graterol
+495,1,07:28,5,2,FRA,2_Pts_C,Elinho
+496,1,07:51,5,0,FRA,RD,Cipolini
+497,1,07:58,5,0,BRA,2_Pts_T,Rafa Moreira
+498,1,08:16,5,0,FRA,ER,Cipolini
+499,1,08:28,5,0,BRA,AS,Nezinho
+500,1,08:28,5,0,BRA,2_Pts_C,Graterol
+501,1,08:42,3,0,FRA,ER,Elinho
+502,1,08:58,3,0,BRA,LL_Pts_C,Nezinho
+503,1,08:58,2,0,BRA,LL_Pts_T,Nezinho
+504,1,08:58,2,0,BRA,FR,Nezinho
+505,1,08:58,2,0,FRA,FC,Elinho
+506,1,09:02,2,0,BRA,RD,Rafa Moreira
+507,1,09:07,2,0,FRA,3_Pts_T,Lucas Dias
+508,1,09:19,2,0,BRA,AS,Nezinho
+509,1,09:19,2,0,BRA,2_Pts_C,Graterol
+510,1,09:24,0,0,BRA,RD,Rafa Moreira
+511,1,09:29,0,0,FRA,2_Pts_T,David Jackson
+512,1,09:31,0,0,FRA,RD,David Jackson
+513,1,09:37,0,0,BRA,2_Pts_T,Zach Graham
+514,1,10:00,0,0,FRA,substituicao_entra,David Jackson
+515,1,10:00,0,0,FRA,substituicao_entra,Jimmy
+516,1,10:00,0,0,FRA,substituicao_entra,Cipolini
+517,1,10:00,0,0,FRA,substituicao_entra,Lucas Dias
+518,1,10:00,0,0,FRA,substituicao_entra,Elinho
+519,1,10:00,0,0,BRA,substituicao_entra,Ricky Sánchez
+520,1,10:00,0,0,BRA,substituicao_entra,Nezinho
+521,1,10:00,0,0,BRA,substituicao_entra,Rafa Moreira
+522,1,10:00,0,0,BRA,substituicao_entra,Graterol
+523,1,10:00,0,0,BRA,substituicao_entra,Zach Graham
+524,1,10:00,0,0,,inicio_partida,

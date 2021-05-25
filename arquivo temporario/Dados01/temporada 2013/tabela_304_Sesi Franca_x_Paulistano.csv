@@ -1,0 +1,521 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,97,87, ,fim_partida,
+1,4,00:01,97,87,PAU,RD,Dawkins
+2,4,00:01,97,87,FRA,3_Pts_T,Léo Meindl
+3,4,00:10,97,87,FRA,FR,Basden
+4,4,00:10,97,87,PAU,FC,André
+5,4,00:12,97,87,FRA,RD,Antonio
+6,4,00:12,97,87,FRA,TO,Basden
+7,4,00:12,97,87,PAU,2_Pts_T,Dawkins
+8,4,00:17,97,87,FRA,LL_Pts_C,Basden
+9,4,00:17,96,87,FRA,LL_Pts_C,Basden
+10,4,00:19,95,87,FRA,RD,Figueroa
+11,4,00:19,95,87,FRA,TO,Léo Meindl
+12,4,00:19,95,87,PAU,3_Pts_T,César
+13,4,00:28,95,87,FRA,LL_Pts_C,Jhonatan
+14,4,00:28,94,87,FRA,LL_Pts_T,Jhonatan
+15,4,00:28,94,87,PAU,substituicao_entra,Mineiro
+16,4,00:28,94,87,PAU,substituicao_sai,Holloway
+17,4,00:28,94,87,FRA,FR,Jhonatan
+18,4,00:28,94,87,PAU,FC,Pedro
+19,4,00:41,94,87,PAU,substituicao_sai,Mineiro
+20,4,00:41,94,87,PAU,substituicao_entra,Pedro
+21,4,00:41,94,87,PAU,LL_Pts_C,Mineiro
+22,4,00:41,94,86,PAU,LL_Pts_C,Mineiro
+23,4,00:41,94,85,PAU,FR,Mineiro
+24,4,00:41,94,85,FRA,FC,Antonio
+25,4,00:46,94,85,FRA,FR,Figueroa
+26,4,00:46,94,85,PAU,FC,César
+27,4,00:49,94,85,PAU,tempo_tecnico,Paulistano
+28,4,00:49,94,85,FRA,LL_Pts_C,Figueroa
+29,4,00:49,93,85,FRA,LL_Pts_C,Figueroa
+30,4,00:49,92,85,FRA,substituicao_sai,Paulão Prestes
+31,4,00:49,92,85,FRA,substituicao_entra,Antonio
+32,4,00:49,92,85,PAU,substituicao_entra,André
+33,4,00:49,92,85,PAU,substituicao_sai,Pedro
+34,4,00:55,92,85,PAU,3_Pts_C,Dawkins
+35,4,01:02,92,82,FRA,3_Pts_C,Léo Meindl
+36,4,01:02,89,82,FRA,AS,Basden
+37,4,01:14,89,82,PAU,2_Pts_C,Holloway
+38,4,01:24,89,80,PAU,RD,César
+39,4,01:24,89,80,FRA,3_Pts_T,Basden
+40,4,01:48,89,80,PAU,substituicao_sai,André
+41,4,01:48,89,80,PAU,substituicao_entra,Pedro
+42,4,01:48,89,80,FRA,BR,Franca
+43,4,01:48,89,80,PAU,ER,André
+44,4,01:59,89,80,PAU,tempo_tecnico,Paulistano
+45,4,01:59,89,80,FRA,3_Pts_C,Basden
+46,4,01:59,86,80,FRA,AS,Jhonatan
+47,4,02:21,86,80,PAU,LL_Pts_C,Holloway
+48,4,02:21,86,79,PAU,LL_Pts_C,Holloway
+49,4,02:21,86,78,PAU,FR,Holloway
+50,4,02:21,86,78,FRA,FC,Basden
+51,4,02:31,86,78,PAU,RD,Dawkins
+52,4,02:31,86,78,FRA,2_Pts_T,Paulão Prestes
+53,4,02:52,86,78,FRA,RD,Léo Meindl
+54,4,02:52,86,78,PAU,3_Pts_T,André
+55,4,03:01,86,78,FRA,substituicao_sai,Socas
+56,4,03:01,86,78,FRA,substituicao_entra,Léo Meindl
+57,4,03:01,86,78,FRA,substituicao_sai,Lucas Mariano
+58,4,03:01,86,78,FRA,substituicao_entra,Figueroa
+59,4,03:01,86,78,FRA,FR,Paulão Prestes
+60,4,03:01,86,78,PAU,FC,César
+61,4,03:04,86,78,FRA,LL_Pts_C,Paulão Prestes
+62,4,03:04,85,78,FRA,LL_Pts_C,Paulão Prestes
+63,4,03:20,84,78,PAU,2_Pts_C,Holloway
+64,4,03:38,84,76,FRA,3_Pts_C,Jhonatan
+65,4,03:38,81,76,FRA,AS,Basden
+66,4,04:02,81,76,PAU,2_Pts_C,Mineiro
+67,4,04:02,81,74,PAU,AS,Holloway
+68,4,04:15,81,74,FRA,2_Pts_C,Socas
+69,4,04:33,79,74,FRA,RO,Socas
+70,4,04:33,79,74,FRA,2_Pts_T,Lucas Mariano
+71,4,04:53,79,74,PAU,3_Pts_C,César
+72,4,04:53,79,71,PAU,AS,André
+73,4,05:12,79,71,PAU,RD,Mineiro
+74,4,05:12,79,71,FRA,3_Pts_T,Socas
+75,4,05:29,79,71,PAU,substituicao_entra,Holloway
+76,4,05:29,79,71,PAU,substituicao_sai,Pilar
+77,4,05:29,79,71,FRA,FR,Paulão Prestes
+78,4,05:29,79,71,PAU,FC,Pilar
+79,4,05:36,79,71,FRA,RD,Paulão Prestes
+80,4,05:36,79,71,PAU,3_Pts_T,Dawkins
+81,4,06:01,79,71,PAU,substituicao_entra,Pilar
+82,4,06:01,79,71,PAU,substituicao_sai,Gemerson
+83,4,06:01,79,71,PAU,tempo_tecnico,Paulistano
+84,4,06:01,79,71,FRA,2_Pts_C,Paulão Prestes
+85,4,06:01,77,71,FRA,AS,Jhonatan
+86,4,06:24,77,71,PAU,2_Pts_C,Dawkins
+87,4,06:34,77,69,FRA,2_Pts_C,Basden
+88,4,06:40,75,69,FRA,RD,Basden
+89,4,06:40,75,69,PAU,3_Pts_T,André
+90,4,07:01,75,69,PAU,RD,Paulistano
+91,4,07:01,75,69,FRA,2_Pts_T,Socas
+92,4,07:19,75,69,PAU,LL_Pts_C,César
+93,4,07:19,75,68,PAU,LL_Pts_C,César
+94,4,07:19,75,67,PAU,AS,Dawkins
+95,4,07:19,75,67,PAU,LL_Pts_C,César
+96,4,07:19,75,66,PAU,FR,César
+97,4,07:19,75,66,FRA,FC,Lucas Mariano
+98,4,07:35,75,66,FRA,3_Pts_C,Basden
+99,4,07:48,72,66,FRA,FR,Socas
+100,4,07:48,72,66,PAU,FC,Dawkins
+101,4,07:57,72,66,PAU,substituicao_sai,Pilar
+102,4,07:57,72,66,PAU,substituicao_entra,Gemerson
+103,4,07:57,72,66,PAU,substituicao_sai,Renato C
+104,4,07:57,72,66,PAU,substituicao_entra,Mineiro
+105,4,07:57,72,66,FRA,substituicao_sai,Figueroa
+106,4,07:57,72,66,FRA,substituicao_entra,Paulão Prestes
+107,4,07:57,72,66,FRA,FR,Socas
+108,4,07:57,72,66,PAU,FC,Pilar
+109,4,07:57,72,66,FRA,RD,Socas
+110,4,07:57,72,66,PAU,2_Pts_T,César
+111,4,08:08,72,66,PAU,LL_Pts_C,André
+112,4,08:08,72,65,PAU,FR,André
+113,4,08:08,72,65,FRA,FC,Figueroa
+114,4,08:12,72,65,FRA,2_Pts_C,Lucas Mariano
+115,4,08:18,70,65,PAU,2_Pts_C,André
+116,4,08:41,70,63,FRA,3_Pts_C,Figueroa
+117,4,08:41,67,63,FRA,AS,Basden
+118,4,08:58,67,63,FRA,FR,Figueroa
+119,4,08:58,67,63,PAU,FC_O,Renato C
+120,4,09:16,67,63,PAU,FR,Dawkins
+121,4,09:16,67,63,FRA,FC,Léo Meindl
+122,4,09:22,67,63,FRA,substituicao_entra,Socas
+123,4,09:22,67,63,FRA,substituicao_sai,Léo Meindl
+124,4,09:22,67,63,PAU,FR,Dawkins
+125,4,09:22,67,63,FRA,FC,Léo Meindl
+126,4,09:22,67,63,PAU,BR,Dawkins
+127,4,09:22,67,63,FRA,ER,Jhonatan
+128,4,09:27,67,63,FRA,2_Pts_C,Léo Meindl
+129,4,09:27,65,63,FRA,BR,Léo Meindl
+130,4,09:27,65,63,PAU,ER,Renato C
+131,4,09:44,65,63,PAU,2_Pts_C,André
+132,3,00:00,65,61, ,fim_quarto,
+133,3,00:00,65,61,PAU,2_Pts_C,Dawkins
+134,3,00:19,65,59,FRA,FR,Paulão Prestes
+135,3,00:19,65,59,PAU,FC,César
+136,3,00:21,65,59,FRA,substituicao_entra,Antonio
+137,3,00:21,65,59,FRA,substituicao_sai,Paulão Prestes
+138,3,00:21,65,59,PAU,substituicao_entra,Pilar
+139,3,00:21,65,59,PAU,substituicao_sai,Mineiro
+140,3,00:21,65,59,FRA,LL_Pts_C,Paulão Prestes
+141,3,00:21,64,59,FRA,LL_Pts_C,Paulão Prestes
+142,3,00:21,63,59,FRA,substituicao_entra,Socas
+143,3,00:21,63,59,FRA,substituicao_sai,Figueroa
+144,3,00:24,63,59,FRA,BR,Léo Meindl
+145,3,00:24,63,59,PAU,ER,Dawkins
+146,3,00:31,63,59,PAU,RD,Dawkins
+147,3,00:31,63,59,FRA,3_Pts_T,Jhonatan
+148,3,00:57,63,59,FRA,RD,Paulão Prestes
+149,3,00:57,63,59,PAU,2_Pts_T,Pedro
+150,3,01:15,63,59,FRA,LL_Pts_C,Paulão Prestes
+151,3,01:15,62,59,FRA,LL_Pts_C,Paulão Prestes
+152,3,01:15,61,59,FRA,FR,Paulão Prestes
+153,3,01:15,61,59,PAU,FC,Mineiro
+154,3,01:22,61,59,FRA,RD,Léo Meindl
+155,3,01:22,61,59,PAU,2_Pts_T,Mineiro
+156,3,01:39,61,59,PAU,RO,Paulistano
+157,3,01:39,61,59,PAU,2_Pts_T,César
+158,3,02:07,61,59,PAU,substituicao_entra,Mineiro
+159,3,02:07,61,59,PAU,substituicao_sai,Labbate
+160,3,02:07,61,59,FRA,LL_Pts_C,Basden
+161,3,02:07,60,59,FRA,LL_Pts_C,Basden
+162,3,02:07,59,59,FRA,LL_Pts_C,Basden
+163,3,02:07,58,59,PAU,substituicao_entra,André
+164,3,02:07,58,59,PAU,substituicao_sai,Gemerson
+165,3,02:07,58,59,FRA,substituicao_sai,Socas
+166,3,02:07,58,59,FRA,substituicao_entra,Figueroa
+167,3,02:14,58,59,FRA,FR,Basden
+168,3,02:14,58,59,PAU,FC,Pedro
+169,3,02:17,58,59,FRA,RD,Franca
+170,3,02:17,58,59,PAU,2_Pts_T,Labbate
+171,3,02:39,58,59,FRA,LL_Pts_C,Basden
+172,3,02:39,57,59,FRA,LL_Pts_C,Basden
+173,3,02:39,56,59,PAU,substituicao_sai,Holloway
+174,3,02:39,56,59,PAU,substituicao_entra,Pedro
+175,3,02:39,56,59,PAU,substituicao_entra,Labbate
+176,3,02:39,56,59,PAU,substituicao_sai,Mineiro
+177,3,02:39,56,59,FRA,FR,Basden
+178,3,02:39,56,59,PAU,FC,Holloway
+179,3,02:52,56,59,PAU,2_Pts_C,Dawkins
+180,3,03:09,56,57,PAU,RD,Paulistano
+181,3,03:09,56,57,FRA,3_Pts_T,Léo Meindl
+182,3,03:32,56,57,PAU,3_Pts_C,Dawkins
+183,3,03:50,56,54,PAU,RD,Gemerson
+184,3,03:50,56,54,FRA,2_Pts_T,Basden
+185,3,04:01,56,54,PAU,LL_Pts_C,Mineiro
+186,3,04:01,56,53,PAU,LL_Pts_T,Mineiro
+187,3,04:01,56,53,PAU,FR,Mineiro
+188,3,04:01,56,53,FRA,FC,Paulão Prestes
+189,3,04:16,56,53,FRA,ER,Paulão Prestes
+190,3,04:35,56,53,FRA,LL_Pts_C,Léo Meindl
+191,3,04:35,55,53,FRA,LL_Pts_T,Léo Meindl
+192,3,04:35,55,53,PAU,substituicao_sai,Pilar
+193,3,04:35,55,53,PAU,substituicao_entra,Gemerson
+194,3,04:35,55,53,FRA,FR,Léo Meindl
+195,3,04:35,55,53,PAU,FC_A,Pilar
+196,3,04:44,55,53,FRA,tempo_tecnico,Franca
+197,3,04:44,55,53,PAU,3_Pts_C,Pilar
+198,3,04:44,55,50,PAU,AS,Holloway
+199,3,04:52,55,50,PAU,RO,Holloway
+200,3,04:52,55,50,PAU,3_Pts_T,César
+201,3,05:09,55,50,PAU,RD,Mineiro
+202,3,05:09,55,50,FRA,3_Pts_T,Léo Meindl
+203,3,05:24,55,50,PAU,2_Pts_C,Dawkins
+204,3,05:33,55,48,PAU,FR,Dawkins
+205,3,05:33,55,48,FRA,FC,Léo Meindl
+206,3,05:39,55,48,PAU,RD,Dawkins
+207,3,05:39,55,48,FRA,2_Pts_T,Jhonatan
+208,3,06:03,55,48,FRA,RO,Socas
+209,3,06:03,55,48,FRA,LL_Pts_T,Socas
+210,3,06:03,55,48,FRA,substituicao_sai,Lucas Mariano
+211,3,06:03,55,48,FRA,substituicao_entra,Basden
+212,3,06:03,55,48,FRA,FR,Socas
+213,3,06:03,55,48,PAU,FC,Dawkins
+214,3,06:03,55,48,FRA,2_Pts_C,Socas
+215,3,06:03,53,48,FRA,AS,Paulão Prestes
+216,3,06:13,53,48,FRA,FR,Paulão Prestes
+217,3,06:13,53,48,PAU,FC,Pilar
+218,3,06:26,53,48,PAU,2_Pts_C,Holloway
+219,3,06:34,53,46,FRA,substituicao_entra,Socas
+220,3,06:34,53,46,FRA,substituicao_sai,Figueroa
+221,3,06:34,53,46,PAU,FR,Dawkins
+222,3,06:34,53,46,FRA,FC,Figueroa
+223,3,06:41,53,46,PAU,RD,Holloway
+224,3,06:41,53,46,FRA,2_Pts_T,Paulão Prestes
+225,3,06:59,53,46,PAU,3_Pts_C,César
+226,3,06:59,53,43,PAU,AS,Pilar
+227,3,07:07,53,43,PAU,RD,Pilar
+228,3,07:07,53,43,FRA,2_Pts_T,Lucas Mariano
+229,3,07:27,53,43,PAU,LL_Pts_C,Holloway
+230,3,07:27,53,42,PAU,LL_Pts_T,Holloway
+231,3,07:27,53,42,PAU,FR,Holloway
+232,3,07:27,53,42,FRA,FC,Léo Meindl
+233,3,07:36,53,42,FRA,2_Pts_C,Jhonatan
+234,3,07:58,51,42,PAU,3_Pts_C,Pilar
+235,3,07:58,51,39,PAU,AS,Dawkins
+236,3,08:03,51,39,PAU,RO,Paulistano
+237,3,08:03,51,39,PAU,2_Pts_T,Dawkins
+238,3,08:23,51,39,FRA,2_Pts_C,Jhonatan
+239,3,08:23,49,39,FRA,AS,Léo Meindl
+240,3,08:27,49,39,FRA,BR,Léo Meindl
+241,3,08:27,49,39,PAU,ER,Mineiro
+242,3,08:51,49,39,PAU,substituicao_sai,Renato C
+243,3,08:51,49,39,PAU,substituicao_entra,César
+244,3,08:51,49,39,FRA,LL_Pts_C,Lucas Mariano
+245,3,08:51,48,39,FRA,LL_Pts_T,Lucas Mariano
+246,3,08:51,48,39,FRA,FR,Lucas Mariano
+247,3,08:51,48,39,PAU,FC,Renato C
+248,3,09:08,48,39,FRA,FR,Jhonatan
+249,3,09:08,48,39,PAU,FC,Holloway
+250,3,09:08,48,39,PAU,2_Pts_T,Mineiro
+251,3,09:23,48,39,FRA,2_Pts_C,Jhonatan
+252,3,09:28,46,39,FRA,RO,Jhonatan
+253,3,09:28,46,39,FRA,2_Pts_T,Jhonatan
+254,3,10:00,46,39,PAU,LL_Pts_C,Renato C
+255,3,10:00,46,38,PAU,FR,Renato C
+256,3,10:00,46,38,FRA,FC,Lucas Mariano
+257,3,10:00,46,38,PAU,2_Pts_C,Renato C
+258,3,10:00,46,36,PAU,AS,Dawkins
+259,3,10:00,46,36,PAU,BR,Renato C
+260,3,10:00,46,36,FRA,ER,Figueroa
+261,2,00:00,46,36, ,fim_quarto,
+262,2,00:00,46,36,PAU,3_Pts_T,Dawkins
+263,2,00:20,46,36,FRA,3_Pts_C,Basden
+264,2,00:47,43,36,PAU,2_Pts_C,André
+265,2,00:53,43,34,PAU,tempo_tecnico,Paulistano
+266,2,00:53,43,34,FRA,2_Pts_C,Paulão Prestes
+267,2,00:55,41,34,PAU,substituicao_entra,Holloway
+268,2,00:55,41,34,PAU,substituicao_sai,Gemerson
+269,2,00:55,41,34,PAU,substituicao_entra,Mineiro
+270,2,00:55,41,34,PAU,substituicao_sai,Labbate
+271,2,00:55,41,34,FRA,substituicao_entra,Socas
+272,2,00:55,41,34,FRA,substituicao_sai,Figueroa
+273,2,01:12,41,34,PAU,substituicao_entra,Gemerson
+274,2,01:12,41,34,PAU,substituicao_sai,Pedro
+275,2,01:12,41,34,PAU,substituicao_entra,Labbate
+276,2,01:12,41,34,PAU,substituicao_sai,Renato C
+277,2,01:12,41,34,FRA,BR,Franca
+278,2,01:12,41,34,PAU,ER,Dawkins
+279,2,01:29,41,34,FRA,2_Pts_C,Léo Meindl
+280,2,01:29,39,34,FRA,AS,Figueroa
+281,2,01:43,39,34,PAU,3_Pts_C,Dawkins
+282,2,01:52,39,31,PAU,substituicao_entra,Dawkins
+283,2,01:52,39,31,PAU,substituicao_sai,Holloway
+284,2,01:58,39,31,FRA,2_Pts_C,Lucas Mariano
+285,2,01:58,37,31,FRA,AS,Figueroa
+286,2,02:28,37,31,PAU,2_Pts_C,Holloway
+287,2,02:35,37,29,FRA,FR,Léo Meindl
+288,2,02:35,37,29,PAU,FC,Renato C
+289,2,02:43,37,29,FRA,LL_Pts_C,Léo Meindl
+290,2,02:43,36,29,FRA,LL_Pts_C,Léo Meindl
+291,2,02:44,35,29,FRA,RD,Basden
+292,2,02:44,35,29,PAU,2_Pts_T,Holloway
+293,2,02:50,35,29,PAU,RO,Holloway
+294,2,02:50,35,29,PAU,3_Pts_T,Renato C
+295,2,03:04,35,29,FRA,2_Pts_C,Figueroa
+296,2,03:21,33,29,PAU,LL_Pts_C,Pedro
+297,2,03:21,33,28,PAU,LL_Pts_C,Pedro
+298,2,03:21,33,27,PAU,substituicao_entra,César
+299,2,03:21,33,27,PAU,substituicao_sai,Labbate
+300,2,03:21,33,27,PAU,substituicao_entra,Renato C
+301,2,03:21,33,27,PAU,substituicao_sai,Pilar
+302,2,03:21,33,27,FRA,substituicao_sai,Cauê Borges
+303,2,03:21,33,27,FRA,substituicao_entra,Lucas Mariano
+304,2,03:21,33,27,PAU,FR,Pedro
+305,2,03:21,33,27,FRA,FC,Figueroa
+306,2,03:21,33,27,PAU,RO,Pedro
+307,2,03:21,33,27,PAU,3_Pts_T,Pilar
+308,2,03:37,33,27,PAU,RD,Holloway
+309,2,03:37,33,27,FRA,3_Pts_T,Basden
+310,2,03:51,33,27,FRA,RD,Paulão Prestes
+311,2,03:51,33,27,PAU,2_Pts_T,Pilar
+312,2,04:00,33,27,FRA,2_Pts_C,Basden
+313,2,04:00,31,27,FRA,AS,Figueroa
+314,2,04:17,31,27,PAU,2_Pts_C,Holloway
+315,2,04:24,31,25,PAU,RD,Labbate
+316,2,04:24,31,25,FRA,3_Pts_T,Basden
+317,2,04:29,31,25,PAU,substituicao_entra,André
+318,2,04:29,31,25,PAU,substituicao_sai,Dawkins
+319,2,04:45,31,25,PAU,substituicao_sai,Mineiro
+320,2,04:45,31,25,PAU,substituicao_entra,Labbate
+321,2,04:45,31,25,FRA,substituicao_entra,Léo Meindl
+322,2,04:45,31,25,FRA,substituicao_sai,Socas
+323,2,04:45,31,25,FRA,substituicao_sai,Jhonatan
+324,2,04:45,31,25,FRA,substituicao_entra,Basden
+325,2,04:45,31,25,FRA,FR,Cauê Borges
+326,2,04:45,31,25,PAU,FC,Pilar
+327,2,04:45,31,25,FRA,RD,Cauê Borges
+328,2,04:45,31,25,PAU,2_Pts_T,Pilar
+329,2,05:00,31,25,PAU,BR,Mineiro
+330,2,05:00,31,25,FRA,ER,Figueroa
+331,2,05:19,31,25,FRA,RD,Paulão Prestes
+332,2,05:19,31,25,PAU,3_Pts_T,Holloway
+333,2,05:31,31,25,PAU,RD,Holloway
+334,2,05:31,31,25,FRA,2_Pts_T,Cauê Borges
+335,2,05:48,31,25,PAU,2_Pts_C,Mineiro
+336,2,05:48,31,23,PAU,AS,Holloway
+337,2,06:04,31,23,PAU,RD,Dawkins
+338,2,06:04,31,23,FRA,LL_Pts_T,Paulão Prestes
+339,2,06:04,31,23,FRA,LL_Pts_T,Paulão Prestes
+340,2,06:04,31,23,FRA,FR,Paulão Prestes
+341,2,06:04,31,23,PAU,FC,Pedro
+342,2,06:11,31,23,PAU,substituicao_entra,Pilar
+343,2,06:11,31,23,PAU,substituicao_sai,César
+344,2,06:11,31,23,PAU,substituicao_sai,Gemerson
+345,2,06:11,31,23,PAU,substituicao_entra,Pedro
+346,2,06:11,31,23,FRA,FR,Paulão Prestes
+347,2,06:11,31,23,PAU,FC,Holloway
+348,2,06:14,31,23,FRA,RD,Paulão Prestes
+349,2,06:14,31,23,FRA,TO,Paulão Prestes
+350,2,06:14,31,23,PAU,2_Pts_T,Holloway
+351,2,06:35,31,23,FRA,2_Pts_C,Paulão Prestes
+352,2,06:35,29,23,FRA,AS,Figueroa
+353,2,06:49,29,23,PAU,2_Pts_C,Dawkins
+354,2,06:55,29,21,PAU,BR,Holloway
+355,2,06:55,29,21,FRA,ER,Socas
+356,2,07:10,29,21,FRA,RD,Paulão Prestes
+357,2,07:10,29,21,PAU,3_Pts_T,Dawkins
+358,2,07:16,29,21,PAU,FR,Dawkins
+359,2,07:16,29,21,FRA,FC,Jhonatan
+360,2,07:19,29,21,FRA,substituicao_sai,Léo Meindl
+361,2,07:19,29,21,FRA,substituicao_entra,Cauê Borges
+362,2,07:22,29,21,PAU,BR,Dawkins
+363,2,07:22,29,21,FRA,ER,Paulão Prestes
+364,2,07:45,29,21,PAU,2_Pts_C,César
+365,2,08:14,29,19,FRA,2_Pts_C,Paulão Prestes
+366,2,08:14,27,19,FRA,AS,Jhonatan
+367,2,08:34,27,19,FRA,BR,Franca
+368,2,08:34,27,19,PAU,ER,Dawkins
+369,2,08:34,27,19,PAU,RD,Mineiro
+370,2,08:34,27,19,FRA,substituicao_sai,Lucas Mariano
+371,2,08:34,27,19,FRA,substituicao_entra,Paulão Prestes
+372,2,08:51,27,19,FRA,3_Pts_T,Jhonatan
+373,2,08:54,27,19,PAU,FR,Mineiro
+374,2,08:54,27,19,FRA,FC,Jhonatan
+375,2,08:54,27,19,PAU,LL_Pts_C,Mineiro
+376,2,08:54,27,18,PAU,LL_Pts_T,Mineiro
+377,2,08:54,27,18,PAU,substituicao_sai,Pilar
+378,2,08:54,27,18,PAU,substituicao_entra,Gemerson
+379,2,08:54,27,18,PAU,substituicao_sai,André
+380,2,08:54,27,18,PAU,substituicao_entra,Holloway
+381,2,08:54,27,18,PAU,substituicao_sai,Renato C
+382,2,08:54,27,18,PAU,substituicao_entra,Mineiro
+383,2,09:21,27,18,FRA,2_Pts_C,Léo Meindl
+384,2,09:21,25,18,FRA,AS,Figueroa
+385,2,09:21,25,18,FRA,RD,Jhonatan
+386,2,09:21,25,18,PAU,3_Pts_T,André
+387,2,09:21,25,18,PAU,substituicao_sai,Mineiro
+388,2,09:21,25,18,PAU,substituicao_entra,Renato C
+389,2,09:21,25,18,PAU,substituicao_entra,Mineiro
+390,2,09:21,25,18,PAU,substituicao_sai,Pedro
+391,2,09:21,25,18,PAU,substituicao_sai,Renato C
+392,2,09:21,25,18,PAU,substituicao_entra,Dawkins
+393,2,09:42,25,18,FRA,EN,Jhonatan
+394,2,09:46,23,18,PAU,ER,Pedro
+395,1,00:00,23,18, ,fim_quarto,
+396,1,00:00,23,18,PAU,3_Pts_T,Labbate
+397,1,00:00,23,18,PAU,RD,Labbate
+398,1,00:00,23,18,FRA,2_Pts_T,Socas
+399,1,00:16,23,18,FRA,RD,Lucas Mariano
+400,1,00:16,23,18,PAU,2_Pts_T,Pedro
+401,1,00:24,23,18,FRA,3_Pts_C,Jhonatan
+402,1,00:24,20,18,FRA,AS,Socas
+403,1,00:45,20,18,PAU,3_Pts_C,César
+404,1,00:45,20,15,PAU,AS,Pilar
+405,1,00:59,20,15,FRA,2_Pts_C,Socas
+406,1,01:19,18,15,PAU,substituicao_entra,Labbate
+407,1,01:19,18,15,PAU,substituicao_sai,Dawkins
+408,1,01:19,18,15,FRA,BR,Franca
+409,1,01:19,18,15,PAU,ER,Pedro
+410,1,01:20,18,15,PAU,substituicao_entra,Dawkins
+411,1,01:20,18,15,PAU,substituicao_sai,Renato C
+412,1,01:35,18,15,PAU,substituicao_entra,André
+413,1,01:35,18,15,PAU,substituicao_sai,Holloway
+414,1,01:35,18,15,PAU,substituicao_entra,Pedro
+415,1,01:35,18,15,PAU,substituicao_sai,Dawkins
+416,1,01:35,18,15,PAU,LL_Pts_C,Holloway
+417,1,01:35,18,14,PAU,LL_Pts_T,Holloway
+418,1,01:35,18,14,FRA,substituicao_entra,Jhonatan
+419,1,01:35,18,14,FRA,substituicao_sai,Paulão Prestes
+420,1,01:35,18,14,FRA,substituicao_sai,Figueroa
+421,1,01:35,18,14,FRA,substituicao_entra,Socas
+422,1,01:35,18,14,PAU,substituicao_entra,Pilar
+423,1,01:35,18,14,PAU,substituicao_sai,Gemerson
+424,1,01:35,18,14,PAU,FR,Holloway
+425,1,01:35,18,14,FRA,FC_A,Paulão Prestes
+426,1,01:57,18,14,FRA,2_Pts_C,Basden
+427,1,01:57,16,14,FRA,AS,Figueroa
+428,1,02:12,16,14,PAU,2_Pts_C,Holloway
+429,1,02:12,16,12,PAU,AS,Dawkins
+430,1,02:16,16,12,PAU,BR,Dawkins
+431,1,02:16,16,12,FRA,ER,Basden
+432,1,02:30,16,12,PAU,2_Pts_C,Dawkins
+433,1,02:45,16,10,PAU,RD,Holloway
+434,1,02:45,16,10,FRA,3_Pts_T,Léo Meindl
+435,1,02:51,16,10,FRA,RO,Paulão Prestes
+436,1,02:51,16,10,FRA,3_Pts_T,Basden
+437,1,03:10,16,10,FRA,BR,Léo Meindl
+438,1,03:10,16,10,PAU,ER,Gemerson
+439,1,03:22,16,10,FRA,3_Pts_C,Léo Meindl
+440,1,03:22,13,10,FRA,AS,Basden
+441,1,03:33,13,10,FRA,RD,Franca
+442,1,03:33,13,10,PAU,3_Pts_T,Holloway
+443,1,03:48,13,10,PAU,BR,Paulistano
+444,1,03:48,13,10,FRA,ER,Basden
+445,1,04:01,13,10,PAU,3_Pts_C,Holloway
+446,1,04:14,13,7,PAU,substituicao_entra,Gemerson
+447,1,04:14,13,7,PAU,substituicao_sai,Pilar
+448,1,04:14,13,7,PAU,BR,Paulistano
+449,1,04:14,13,7,FRA,ER,Lucas Mariano
+450,1,04:22,13,7,FRA,RD,Basden
+451,1,04:22,13,7,PAU,3_Pts_T,César
+452,1,04:32,13,7,PAU,RD,César
+453,1,04:32,13,7,FRA,3_Pts_T,Figueroa
+454,1,04:52,13,7,PAU,3_Pts_C,César
+455,1,04:52,13,4,PAU,AS,Holloway
+456,1,05:00,13,4,PAU,RD,Holloway
+457,1,05:00,13,4,FRA,3_Pts_T,Léo Meindl
+458,1,05:10,13,4,FRA,RD,Lucas Mariano
+459,1,05:10,13,4,PAU,2_Pts_T,Dawkins
+460,1,05:28,13,4,PAU,tempo_tecnico,Paulistano
+461,1,05:28,13,4,FRA,2_Pts_C,Lucas Mariano
+462,1,05:28,11,4,FRA,AS,Figueroa
+463,1,05:37,11,4,FRA,RD,Basden
+464,1,05:37,11,4,PAU,3_Pts_T,Dawkins
+465,1,05:46,11,4,FRA,FR,Paulão Prestes
+466,1,05:46,11,4,PAU,FC,Mineiro
+467,1,05:49,11,4,PAU,substituicao_entra,César
+468,1,05:49,11,4,PAU,substituicao_sai,Mineiro
+469,1,05:49,11,4,FRA,LL_Pts_C,Paulão Prestes
+470,1,05:49,10,4,FRA,AS,Basden
+471,1,05:49,10,4,FRA,LL_Pts_C,Paulão Prestes
+472,1,06:24,9,4,FRA,FR,Figueroa
+473,1,06:24,9,4,PAU,FC_O,Mineiro
+474,1,06:24,9,4,PAU,RD,Dawkins
+475,1,06:24,9,4,FRA,2_Pts_T,Lucas Mariano
+476,1,06:24,9,4,PAU,2_Pts_C,Mineiro
+477,1,06:24,9,2,PAU,RO,Mineiro
+478,1,06:24,9,2,FRA,TO,Basden
+479,1,06:24,9,2,PAU,2_Pts_T,Holloway
+480,1,06:24,9,2,PAU,FR,Dawkins
+481,1,06:24,9,2,FRA,FC,Figueroa
+482,1,06:41,9,2,FRA,2_Pts_C,Paulão Prestes
+483,1,06:52,7,2,FRA,FR,Figueroa
+484,1,06:52,7,2,PAU,FC,Holloway
+485,1,07:03,7,2,FRA,BR,Paulão Prestes
+486,1,07:03,7,2,PAU,ER,Pilar
+487,1,07:21,7,2,FRA,EN,Lucas Mariano
+488,1,07:21,5,2,FRA,AS,Basden
+489,1,07:38,5,2,PAU,2_Pts_C,Mineiro
+490,1,07:38,5,0,PAU,AS,Holloway
+491,1,07:40,5,0,FRA,substituicao_sai,Jhonatan
+492,1,07:40,5,0,FRA,substituicao_entra,Basden
+493,1,07:45,5,0,PAU,RD,Holloway
+494,1,07:45,5,0,FRA,2_Pts_T,Jhonatan
+495,1,07:59,5,0,FRA,RD,Léo Meindl
+496,1,07:59,5,0,PAU,3_Pts_T,Pilar
+497,1,08:08,5,0,PAU,RD,Holloway
+498,1,08:08,5,0,FRA,3_Pts_T,Jhonatan
+499,1,08:24,5,0,FRA,BR,Franca
+500,1,08:24,5,0,PAU,ER,Pilar
+501,1,08:49,5,0,FRA,3_Pts_C,Lucas Mariano
+502,1,08:49,2,0,FRA,AS,Paulão Prestes
+503,1,09:00,2,0,FRA,FR,Figueroa
+504,1,09:00,2,0,PAU,FC,Renato C
+505,1,09:14,2,0,FRA,RD,Franca
+506,1,09:14,2,0,PAU,3_Pts_T,Holloway
+507,1,09:22,2,0,PAU,RO,Renato C
+508,1,09:22,2,0,PAU,2_Pts_T,Mineiro
+509,1,09:44,2,0,FRA,2_Pts_C,Léo Meindl
+510,1,10:00,0,0,PAU,substituicao_entra,Mineiro
+511,1,10:00,0,0,PAU,substituicao_entra,Dawkins
+512,1,10:00,0,0,PAU,substituicao_entra,Holloway
+513,1,10:00,0,0,PAU,substituicao_entra,Renato C
+514,1,10:00,0,0,PAU,substituicao_entra,Pilar
+515,1,10:00,0,0,FRA,substituicao_entra,Léo Meindl
+516,1,10:00,0,0,FRA,substituicao_entra,Lucas Mariano
+517,1,10:00,0,0,FRA,substituicao_entra,Paulão Prestes
+518,1,10:00,0,0,FRA,substituicao_entra,Figueroa
+519,1,10:00,0,0,FRA,substituicao_entra,Jhonatan

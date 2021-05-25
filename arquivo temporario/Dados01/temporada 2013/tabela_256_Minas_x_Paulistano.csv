@@ -1,0 +1,500 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,75,65, ,fim_partida,
+1,4,00:09,75,65,MIN,substituicao_entra,Bruno Irigoyen
+2,4,00:09,75,65,MIN,substituicao_sai,George
+3,4,00:12,75,65,PAU,2_Pts_C,Holloway
+4,4,00:14,75,63,PAU,RO,Holloway
+5,4,00:14,75,63,PAU,LL_Pts_T,Holloway
+6,4,00:14,75,63,PAU,LL_Pts_C,Holloway
+7,4,00:14,75,62,MIN,substituicao_entra,Rafa Moreira
+8,4,00:14,75,62,MIN,substituicao_sai,Betinho
+9,4,00:14,75,62,MIN,substituicao_entra,Barbosa
+10,4,00:14,75,62,MIN,substituicao_sai,Douglas Nunes
+11,4,00:14,75,62,PAU,FR,Holloway
+12,4,00:14,75,62,MIN,FC,George
+13,4,00:17,75,62,MIN,3_Pts_C,Coelho
+14,4,00:17,72,62,MIN,AS,Elinho
+15,4,00:40,72,62,PAU,2_Pts_C,Holloway
+16,4,00:45,72,60,PAU,RO,Holloway
+17,4,00:45,72,60,PAU,2_Pts_T,Arthur Pecos
+18,4,00:54,72,60,MIN,2_Pts_C,Coelho
+19,4,01:05,70,60,MIN,FR,Elinho
+20,4,01:05,70,60,PAU,FC,César
+21,4,01:23,70,60,PAU,substituicao_entra,Labbate
+22,4,01:23,70,60,PAU,substituicao_sai,Renato C
+23,4,01:23,70,60,PAU,ER,Arthur Pecos
+24,4,01:38,70,60,PAU,RD,César
+25,4,01:38,70,60,MIN,2_Pts_T,George
+26,4,01:57,70,60,PAU,substituicao_entra,César
+27,4,01:57,70,60,PAU,substituicao_sai,Pilar
+28,4,01:57,70,60,PAU,substituicao_entra,Arthur Pecos
+29,4,01:57,70,60,PAU,substituicao_sai,Dawkins
+30,4,02:03,70,60,MIN,RD,Betinho
+31,4,02:03,70,60,PAU,3_Pts_T,Pilar
+32,4,02:20,70,60,PAU,tempo_tecnico,Paulistano
+33,4,02:20,70,60,MIN,2_Pts_C,Betinho
+34,4,02:20,68,60,MIN,RO,Betinho
+35,4,02:20,68,60,MIN,2_Pts_T,Coelho
+36,4,02:20,68,60,MIN,FR,Betinho
+37,4,02:20,68,60,PAU,FC,Holloway
+38,4,02:29,68,60,MIN,FR,Elinho
+39,4,02:29,68,60,PAU,FC,Dawkins
+40,4,02:46,68,60,MIN,RD,Minas
+41,4,02:46,68,60,PAU,3_Pts_T,Pedro
+42,4,03:06,68,60,MIN,2_Pts_C,Coelho
+43,4,03:28,66,60,PAU,LL_Pts_C,Pilar
+44,4,03:28,66,59,PAU,LL_Pts_C,Pilar
+45,4,03:28,66,58,PAU,FR,Pilar
+46,4,03:28,66,58,MIN,FC,Douglas Nunes
+47,4,03:49,66,58,MIN,3_Pts_C,George
+48,4,03:49,63,58,MIN,AS,Elinho
+49,4,04:11,63,58,MIN,BR,George
+50,4,04:11,63,58,PAU,ER,Holloway
+51,4,04:32,63,58,PAU,tempo_tecnico,Paulistano
+52,4,04:32,63,58,MIN,2_Pts_C,Elinho
+53,4,04:32,61,58,MIN,AS,George
+54,4,04:38,61,58,MIN,FR,Coelho
+55,4,04:38,61,58,PAU,FC,Pedro
+56,4,04:42,61,58,PAU,LL_Pts_C,Pilar
+57,4,04:42,61,57,PAU,LL_Pts_T,Pilar
+58,4,04:42,61,57,MIN,substituicao_entra,Coelho
+59,4,04:42,61,57,MIN,substituicao_sai,Laing
+60,4,04:42,61,57,PAU,FR,Pilar
+61,4,04:42,61,57,MIN,FC,Douglas Nunes
+62,4,04:51,61,57,PAU,RD,Renato C
+63,4,04:51,61,57,MIN,2_Pts_T,Elinho
+64,4,04:58,61,57,MIN,RD,George
+65,4,04:58,61,57,PAU,3_Pts_T,Dawkins
+66,4,05:08,61,57,PAU,RD,Pilar
+67,4,05:08,61,57,MIN,2_Pts_T,Betinho
+68,4,05:26,61,57,PAU,3_Pts_C,Pedro
+69,4,05:42,61,54,MIN,2_Pts_C,George
+70,4,05:42,59,54,MIN,AS,Betinho
+71,4,06:03,59,54,PAU,LL_Pts_C,Pilar
+72,4,06:03,59,53,PAU,AS,Dawkins
+73,4,06:03,59,53,PAU,LL_Pts_C,Pilar
+74,4,06:03,59,52,MIN,tempo_tecnico,Minas
+75,4,06:03,59,52,PAU,FR,Pilar
+76,4,06:03,59,52,MIN,FC,Elinho
+77,4,06:10,59,52,PAU,RD,Pedro
+78,4,06:10,59,52,MIN,3_Pts_T,Douglas Nunes
+79,4,06:18,59,52,MIN,RD,George
+80,4,06:36,59,52,PAU,LL_Pts_T,Renato C
+81,4,06:36,59,52,MIN,substituicao_entra,Betinho
+82,4,06:36,59,52,MIN,substituicao_sai,Siqueira
+83,4,06:36,59,52,PAU,2_Pts_C,Renato C
+84,4,06:36,59,50,PAU,FR,Renato C
+85,4,06:36,59,50,MIN,FC,Siqueira
+86,4,06:53,59,50,MIN,2_Pts_C,George
+87,4,06:53,57,50,MIN,AS,Elinho
+88,4,07:14,57,50,PAU,LL_Pts_C,Dawkins
+89,4,07:14,57,49,PAU,LL_Pts_C,Dawkins
+90,4,07:14,57,48,PAU,FR,Dawkins
+91,4,07:14,57,48,MIN,FC,Elinho
+92,4,07:19,57,48,PAU,RD,Dawkins
+93,4,07:19,57,48,MIN,2_Pts_T,Douglas Nunes
+94,4,07:38,57,48,MIN,RD,Laing
+95,4,07:38,57,48,PAU,3_Pts_T,Pilar
+96,4,07:51,57,48,MIN,substituicao_entra,George
+97,4,07:51,57,48,MIN,substituicao_sai,Ansaloni
+98,4,07:51,57,48,MIN,substituicao_entra,Siqueira
+99,4,07:51,57,48,MIN,substituicao_sai,Coelho
+100,4,07:51,57,48,PAU,substituicao_entra,Pedro
+101,4,07:51,57,48,PAU,substituicao_sai,Gemerson
+102,4,07:53,57,48,MIN,ER,
+103,4,08:23,57,48,PAU,2_Pts_C,Holloway
+104,4,08:23,57,46,PAU,AS,Dawkins
+105,4,08:30,57,46,PAU,BR,Dawkins
+106,4,08:30,57,46,MIN,ER,Elinho
+107,4,08:50,57,46,MIN,RD,Coelho
+108,4,08:50,57,46,PAU,3_Pts_T,Holloway
+109,4,09:14,57,46,MIN,2_Pts_C,Elinho
+110,4,09:14,55,46,MIN,AS,Douglas Nunes
+111,4,09:36,55,46,MIN,RD,Ansaloni
+112,4,09:36,55,46,PAU,3_Pts_T,Pilar
+113,3,00:00,55,46, ,fim_quarto,
+114,3,00:02,55,46,MIN,3_Pts_C,Laing
+115,3,00:02,52,46,MIN,AS,Elinho
+116,3,00:16,52,46,PAU,2_Pts_C,Dawkins
+117,3,00:31,52,44,MIN,substituicao_entra,Siqueira
+118,3,00:31,52,44,MIN,substituicao_sai,Betinho
+119,3,00:31,52,44,MIN,ER,Betinho
+120,3,00:41,52,44,MIN,substituicao_sai,George
+121,3,00:41,52,44,MIN,substituicao_entra,Ansaloni
+122,3,00:47,52,44,MIN,substituicao_entra,Elinho
+123,3,00:47,52,44,MIN,substituicao_sai,Coelho
+124,3,00:51,52,44,MIN,BR,Minas
+125,3,00:51,52,44,PAU,ER,Pilar
+126,3,01:04,52,44,PAU,RD,Pilar
+127,3,01:04,52,44,MIN,LL_Pts_T,George
+128,3,01:04,52,44,MIN,LL_Pts_T,George
+129,3,01:04,52,44,PAU,substituicao_sai,César
+130,3,01:04,52,44,PAU,substituicao_entra,Gemerson
+131,3,01:04,52,44,PAU,substituicao_entra,Mineiro
+132,3,01:04,52,44,PAU,substituicao_sai,Renato C
+133,3,01:04,52,44,MIN,FR,George
+134,3,01:04,52,44,PAU,FC,Pilar
+135,3,01:12,52,44,MIN,RO,George
+136,3,01:12,52,44,MIN,3_Pts_T,Betinho
+137,3,01:37,52,44,MIN,RD,Laing
+138,3,01:37,52,44,MIN,TO,Laing
+139,3,01:37,52,44,PAU,2_Pts_T,Dawkins
+140,3,01:54,52,44,MIN,2_Pts_C,Douglas Nunes
+141,3,02:16,50,44,PAU,LL_Pts_C,Dawkins
+142,3,02:16,50,43,PAU,LL_Pts_C,Dawkins
+143,3,02:16,50,42,PAU,substituicao_entra,Pilar
+144,3,02:16,50,42,PAU,substituicao_entra,André
+145,3,02:16,50,42,PAU,substituicao_sai,Pedro
+146,3,02:16,50,42,PAU,substituicao_sai,Gemerson
+147,3,02:16,50,42,PAU,FR,Dawkins
+148,3,02:16,50,42,MIN,FC,Coelho
+149,3,02:27,50,42,MIN,2_Pts_C,Laing
+150,3,02:27,48,42,MIN,AS,Betinho
+151,3,02:49,48,42,PAU,3_Pts_C,Dawkins
+152,3,03:01,48,39,MIN,2_Pts_C,Coelho
+153,3,03:24,46,39,MIN,RD,Douglas Nunes
+154,3,03:24,46,39,PAU,LL_Pts_T,Pedro
+155,3,03:24,46,39,PAU,LL_Pts_C,Pedro
+156,3,03:24,46,38,PAU,FR,Pedro
+157,3,03:24,46,38,MIN,FC,Laing
+158,3,03:32,46,38,MIN,substituicao_entra,George
+159,3,03:32,46,38,MIN,substituicao_sai,Ansaloni
+160,3,03:32,46,38,MIN,substituicao_entra,Laing
+161,3,03:32,46,38,MIN,substituicao_sai,Siqueira
+162,3,03:32,46,38,PAU,FR,Dawkins
+163,3,03:32,46,38,MIN,FC,Siqueira
+164,3,03:36,46,38,PAU,RD,Pedro
+165,3,03:36,46,38,MIN,3_Pts_T,Siqueira
+166,3,03:54,46,38,MIN,RD,Coelho
+167,3,03:54,46,38,PAU,2_Pts_T,Renato C
+168,3,03:58,46,38,PAU,RO,Renato C
+169,3,03:58,46,38,PAU,2_Pts_T,Pedro
+170,3,04:11,46,38,MIN,LL_Pts_C,Coelho
+171,3,04:11,45,38,MIN,LL_Pts_C,Coelho
+172,3,04:11,44,38,PAU,substituicao_entra,Gemerson
+173,3,04:11,44,38,PAU,substituicao_sai,Pilar
+174,3,04:11,44,38,MIN,substituicao_entra,Betinho
+175,3,04:11,44,38,MIN,substituicao_sai,Elinho
+176,3,04:11,44,38,MIN,FR,Coelho
+177,3,04:11,44,38,PAU,FC,Renato C
+178,3,04:35,44,38,PAU,2_Pts_C,César
+179,3,04:35,44,36,PAU,AS,Pedro
+180,3,04:38,44,36,PAU,FR,Pilar
+181,3,04:38,44,36,MIN,FC,Siqueira
+182,3,04:54,44,36,MIN,3_Pts_C,Elinho
+183,3,04:54,41,36,MIN,AS,Douglas Nunes
+184,3,05:14,41,36,MIN,RD,Douglas Nunes
+185,3,05:14,41,36,PAU,3_Pts_T,César
+186,3,05:31,41,36,MIN,2_Pts_C,Coelho
+187,3,05:59,39,36,PAU,3_Pts_C,Dawkins
+188,3,05:59,39,33,PAU,AS,Pedro
+189,3,06:07,39,33,PAU,RD,Renato C
+190,3,06:07,39,33,MIN,3_Pts_T,Douglas Nunes
+191,3,06:27,39,33,PAU,LL_Pts_C,Pilar
+192,3,06:27,39,32,PAU,2_Pts_C,Pilar
+193,3,06:27,39,30,PAU,FR,Pilar
+194,3,06:27,39,30,MIN,FC,Ansaloni
+195,3,06:46,39,30,MIN,LL_Pts_C,Coelho
+196,3,06:46,38,30,MIN,LL_Pts_C,Coelho
+197,3,06:46,37,30,MIN,FR,Coelho
+198,3,06:46,37,30,PAU,FC,Dawkins
+199,3,06:49,37,30,PAU,substituicao_entra,Pedro
+200,3,06:49,37,30,PAU,substituicao_sai,Holloway
+201,3,06:49,37,30,MIN,FR,Elinho
+202,3,06:49,37,30,PAU,FC,Holloway
+203,3,07:06,37,30,PAU,EN,Renato C
+204,3,07:06,37,28,PAU,AS,Dawkins
+205,3,07:11,37,28,PAU,BR,Dawkins
+206,3,07:11,37,28,MIN,ER,Coelho
+207,3,07:23,37,28,MIN,RD,Siqueira
+208,3,07:23,37,28,PAU,2_Pts_T,Holloway
+209,3,07:30,37,28,MIN,EN,Coelho
+210,3,07:38,35,28,MIN,RD,Coelho
+211,3,07:38,35,28,MIN,TO,Douglas Nunes
+212,3,07:38,35,28,PAU,2_Pts_T,Dawkins
+213,3,07:41,35,28,PAU,BR,Dawkins
+214,3,07:41,35,28,MIN,ER,Elinho
+215,3,07:52,35,28,MIN,FR,Elinho
+216,3,07:52,35,28,PAU,FC,Dawkins
+217,3,08:11,35,28,PAU,substituicao_sai,Mineiro
+218,3,08:11,35,28,PAU,substituicao_entra,Renato C
+219,3,08:11,35,28,MIN,substituicao_entra,Siqueira
+220,3,08:11,35,28,MIN,substituicao_sai,Laing
+221,3,08:11,35,28,MIN,FR,Ansaloni
+222,3,08:11,35,28,PAU,FC,Mineiro
+223,3,08:11,35,28,MIN,RO,Ansaloni
+224,3,08:11,35,28,MIN,2_Pts_T,Laing
+225,3,08:25,35,28,PAU,substituicao_entra,César
+226,3,08:25,35,28,PAU,substituicao_sai,Gemerson
+227,3,08:25,35,28,MIN,BR,Minas
+228,3,08:25,35,28,PAU,ER,Gemerson
+229,3,08:30,35,28,PAU,RD,Mineiro
+230,3,08:30,35,28,MIN,2_Pts_T,Ansaloni
+231,3,08:39,35,28,MIN,RD,Ansaloni
+232,3,08:39,35,28,PAU,2_Pts_T,Dawkins
+233,3,08:44,35,28,PAU,FR,Holloway
+234,3,08:44,35,28,MIN,FC,Coelho
+235,3,08:49,35,28,MIN,LL_Pts_C,Ansaloni
+236,3,08:49,34,28,MIN,LL_Pts_C,Ansaloni
+237,3,08:49,33,28,MIN,FR,Ansaloni
+238,3,08:49,33,28,PAU,FC,Gemerson
+239,3,08:54,33,28,MIN,RO,Ansaloni
+240,3,08:54,33,28,MIN,2_Pts_T,Coelho
+241,3,09:00,33,28,MIN,BR,Douglas Nunes
+242,3,09:00,33,28,PAU,ER,Mineiro
+243,3,09:05,33,28,PAU,RD,Mineiro
+244,3,09:05,33,28,MIN,3_Pts_T,Laing
+245,3,09:24,33,28,PAU,ER,Gemerson
+246,3,09:34,33,28,PAU,BR,Dawkins
+247,3,09:34,33,28,MIN,ER,Laing
+248,3,09:47,33,28,MIN,BR,Ansaloni
+249,3,09:47,33,28,PAU,ER,Holloway
+250,2,00:00,33,28, ,fim_quarto,
+251,2,00:09,33,28,MIN,LL_Pts_C,Douglas Nunes
+252,2,00:09,32,28,MIN,LL_Pts_T,Douglas Nunes
+253,2,00:09,32,28,MIN,LL_Pts_T,Douglas Nunes
+254,2,00:09,32,28,MIN,FR,Douglas Nunes
+255,2,00:09,32,28,PAU,FC,Renato C
+256,2,00:13,32,28,PAU,substituicao_entra,Renato C
+257,2,00:13,32,28,PAU,substituicao_sai,Lucão
+258,2,00:13,32,28,MIN,RD,Douglas Nunes
+259,2,00:13,32,28,PAU,LL_Pts_T,Gemerson
+260,2,00:13,32,28,PAU,LL_Pts_C,Gemerson
+261,2,00:13,32,27,PAU,substituicao_sai,Pilar
+262,2,00:13,32,27,PAU,substituicao_entra,Lucão
+263,2,00:13,32,27,MIN,substituicao_entra,Betinho
+264,2,00:13,32,27,MIN,substituicao_sai,George
+265,2,00:13,32,27,PAU,FR,Gemerson
+266,2,00:13,32,27,MIN,FC,George
+267,2,00:13,32,27,MIN,substituicao_sai,Betinho
+268,2,00:13,32,27,MIN,substituicao_entra,Elinho
+269,2,00:31,32,27,PAU,substituicao_entra,Pedro
+270,2,00:31,32,27,PAU,substituicao_sai,Mineiro
+271,2,00:38,32,27,MIN,tempo_tecnico,Minas
+272,2,00:38,32,27,PAU,2_Pts_C,Gemerson
+273,2,00:38,32,25,PAU,AS,Arthur Pecos
+274,2,00:48,32,25,PAU,RD,Pilar
+275,2,00:48,32,25,MIN,2_Pts_T,Laing
+276,2,01:10,32,25,PAU,2_Pts_C,Mineiro
+277,2,01:14,32,23,PAU,RO,Mineiro
+278,2,01:14,32,23,PAU,2_Pts_T,Pilar
+279,2,01:21,32,23,PAU,RD,Mineiro
+280,2,01:21,32,23,MIN,2_Pts_T,Betinho
+281,2,01:21,32,23,PAU,substituicao_entra,Mineiro
+282,2,01:21,32,23,PAU,substituicao_entra,Gemerson
+283,2,01:21,32,23,PAU,substituicao_sai,Holloway
+284,2,01:21,32,23,PAU,substituicao_sai,Pedro
+285,2,01:21,32,23,PAU,ER,Pilar
+286,2,01:31,32,23,PAU,substituicao_entra,Holloway
+287,2,01:31,32,23,PAU,substituicao_sai,Gemerson
+288,2,01:31,32,23,PAU,substituicao_entra,Pedro
+289,2,01:31,32,23,PAU,substituicao_sai,Mineiro
+290,2,01:43,32,23,PAU,tempo_tecnico,Paulistano
+291,2,01:43,32,23,MIN,2_Pts_C,George
+292,2,01:56,30,23,MIN,BR,Coelho
+293,2,01:56,30,23,PAU,ER,Arthur Pecos
+294,2,02:05,30,23,PAU,substituicao_entra,Mineiro
+295,2,02:05,30,23,PAU,substituicao_sai,Labbate
+296,2,02:11,30,23,PAU,2_Pts_T,Arthur Pecos
+297,2,02:18,30,23,MIN,LL_Pts_C,Coelho
+298,2,02:18,29,23,MIN,substituicao_entra,Laing
+299,2,02:18,29,23,MIN,substituicao_sai,Elinho
+300,2,02:18,29,23,PAU,substituicao_entra,Arthur Pecos
+301,2,02:18,29,23,PAU,substituicao_sai,Holloway
+302,2,02:18,29,23,MIN,2_Pts_C,Coelho
+303,2,02:18,27,23,MIN,FR,Coelho
+304,2,02:18,27,23,PAU,FC,Labbate
+305,2,02:36,27,23,PAU,2_Pts_C,Pilar
+306,2,02:41,27,21,PAU,BR,André
+307,2,02:41,27,21,MIN,ER,Elinho
+308,2,03:03,27,21,MIN,RD,Minas
+309,2,03:03,27,21,PAU,3_Pts_T,Pilar
+310,2,03:21,27,21,PAU,RD,Gemerson
+311,2,03:21,27,21,MIN,3_Pts_T,Elinho
+312,2,03:30,27,21,PAU,substituicao_entra,Pilar
+313,2,03:30,27,21,PAU,substituicao_entra,Gemerson
+314,2,03:30,27,21,PAU,substituicao_sai,Renato C
+315,2,03:30,27,21,PAU,substituicao_sai,Pedro
+316,2,03:30,27,21,MIN,FR,Coelho
+317,2,03:30,27,21,PAU,FC,Holloway
+318,2,03:33,27,21,MIN,BR,Coelho
+319,2,03:33,27,21,PAU,ER,Holloway
+320,2,03:36,27,21,PAU,FR,Labbate
+321,2,03:36,27,21,MIN,FC,Betinho
+322,2,03:44,27,21,PAU,FR,Pedro
+323,2,03:44,27,21,MIN,FC,Betinho
+324,2,03:53,27,21,MIN,3_Pts_C,Elinho
+325,2,03:53,24,21,MIN,AS,Douglas Nunes
+326,2,04:05,24,21,MIN,RD,Betinho
+327,2,04:05,24,21,MIN,TO,George
+328,2,04:05,24,21,PAU,2_Pts_T,Labbate
+329,2,04:15,24,21,PAU,substituicao_sai,Mineiro
+330,2,04:15,24,21,PAU,substituicao_entra,Labbate
+331,2,04:18,24,21,MIN,,
+332,2,04:29,24,21,MIN,RO,George
+333,2,04:29,24,21,MIN,3_Pts_T,Coelho
+334,2,04:46,24,21,MIN,RD,George
+335,2,04:46,24,21,PAU,3_Pts_T,André
+336,2,05:06,24,21,MIN,2_Pts_C,Douglas Nunes
+337,2,05:06,22,21,MIN,AS,Elinho
+338,2,05:37,22,21,PAU,2_Pts_C,Pedro
+339,2,06:06,22,19,PAU,RD,Paulistano
+340,2,06:06,22,19,MIN,3_Pts_T,Elinho
+341,2,06:28,22,19,PAU,LL_Pts_C,Mineiro
+342,2,06:28,22,18,PAU,AS,André
+343,2,06:28,22,18,PAU,2_Pts_C,Mineiro
+344,2,06:28,22,16,PAU,FR,Mineiro
+345,2,06:28,22,16,MIN,FC,George
+346,2,06:48,22,16,MIN,,
+347,2,06:50,22,16,MIN,substituicao_entra,Betinho
+348,2,06:50,22,16,MIN,substituicao_sai,Rafa Moreira
+349,2,06:59,22,16,MIN,substituicao_entra,George
+350,2,06:59,22,16,MIN,substituicao_sai,Ansaloni
+351,2,07:00,22,16,MIN,tempo_tecnico,Minas
+352,2,07:00,22,16,PAU,2_Pts_C,Holloway
+353,2,07:00,22,14,PAU,AS,André
+354,2,07:05,22,14,PAU,BR,André
+355,2,07:05,22,14,MIN,ER,Coelho
+356,2,07:24,22,14,PAU,3_Pts_C,Holloway
+357,2,07:24,22,11,PAU,AS,André
+358,2,07:33,22,11,PAU,substituicao_entra,Holloway
+359,2,07:33,22,11,PAU,substituicao_entra,André
+360,2,07:33,22,11,PAU,substituicao_sai,Arthur Pecos
+361,2,07:33,22,11,PAU,substituicao_sai,Pilar
+362,2,07:41,22,11,PAU,RD,Renato C
+363,2,07:41,22,11,MIN,2_Pts_T,Ansaloni
+364,2,07:55,22,11,PAU,2_Pts_C,Mineiro
+365,2,07:55,22,9,PAU,AS,Renato C
+366,2,08:07,22,9,PAU,FR,Pilar
+367,2,08:07,22,9,MIN,FC,Coelho
+368,2,08:33,22,9,MIN,2_Pts_C,Coelho
+369,2,08:38,20,9,MIN,BR,Rafa Moreira
+370,2,08:38,20,9,PAU,ER,Mineiro
+371,2,08:58,20,9,PAU,BR,Paulistano
+372,2,08:58,20,9,MIN,ER,Elinho
+373,2,09:18,20,9,MIN,LL_Pts_C,Douglas Nunes
+374,2,09:18,19,9,MIN,LL_Pts_T,Douglas Nunes
+375,2,09:18,19,9,MIN,LL_Pts_C,Rafa Moreira
+376,2,09:18,18,9,PAU,FC_T,Paulistano
+377,2,09:18,18,9,MIN,2_Pts_C,Rafa Moreira
+378,2,09:18,16,9,MIN,FR,Rafa Moreira
+379,2,09:18,16,9,PAU,FC,Renato C
+380,2,09:38,16,9,PAU,,
+381,2,09:45,16,9,PAU,RO,Mineiro
+382,2,09:45,16,9,MIN,TO,Ansaloni
+383,2,09:45,16,9,PAU,2_Pts_T,Mineiro
+384,1,00:00,16,9, ,fim_quarto,
+385,1,00:00,16,9,MIN,2_Pts_T,Betinho
+386,1,00:13,16,9,PAU,3_Pts_C,Pedro
+387,1,00:13,16,6,PAU,AS,Arthur Pecos
+388,1,00:25,16,6,PAU,substituicao_entra,Pedro
+389,1,00:25,16,6,PAU,substituicao_sai,Holloway
+390,1,00:25,16,6,MIN,substituicao_entra,Ansaloni
+391,1,00:25,16,6,MIN,substituicao_sai,George
+392,1,00:25,16,6,MIN,substituicao_sai,Siqueira
+393,1,00:25,16,6,MIN,substituicao_entra,Rafa Moreira
+394,1,00:28,16,6,MIN,ER,
+395,1,00:54,16,6,MIN,RD,Douglas Nunes
+396,1,00:54,16,6,PAU,2_Pts_T,Pilar
+397,1,01:01,16,6,PAU,RD,Pilar
+398,1,01:01,16,6,MIN,3_Pts_T,Siqueira
+399,1,01:23,16,6,MIN,RD,George
+400,1,01:23,16,6,PAU,2_Pts_T,Renato C
+401,1,01:43,16,6,PAU,RO,Arthur Pecos
+402,1,01:43,16,6,PAU,2_Pts_T,Pilar
+403,1,02:04,16,6,MIN,substituicao_entra,Coelho
+404,1,02:04,16,6,MIN,substituicao_sai,Elinho
+405,1,02:05,16,6,PAU,tempo_tecnico,Paulistano
+406,1,02:05,16,6,MIN,2_Pts_C,Betinho
+407,1,02:05,14,6,MIN,AS,George
+408,1,02:25,14,6,MIN,RD,Betinho
+409,1,02:25,14,6,PAU,3_Pts_T,Arthur Pecos
+410,1,02:38,14,6,MIN,2_Pts_C,Siqueira
+411,1,02:38,12,6,MIN,AS,Douglas Nunes
+412,1,03:00,12,6,PAU,substituicao_entra,Arthur Pecos
+413,1,03:00,12,6,PAU,substituicao_sai,André
+414,1,03:00,12,6,PAU,substituicao_sai,Mineiro
+415,1,03:00,12,6,PAU,substituicao_entra,Renato C
+416,1,03:03,12,6,PAU,ER,Holloway
+417,1,03:07,12,6,PAU,RD,Pilar
+418,1,03:07,12,6,MIN,3_Pts_T,Betinho
+419,1,03:26,12,6,MIN,RD,Betinho
+420,1,03:26,12,6,PAU,2_Pts_T,Holloway
+421,1,03:52,12,6,MIN,3_Pts_C,Betinho
+422,1,03:52,9,6,MIN,AS,Elinho
+423,1,03:57,9,6,MIN,BR,George
+424,1,03:57,9,6,PAU,ER,André
+425,1,04:02,9,6,MIN,substituicao_sai,Laing
+426,1,04:02,9,6,MIN,substituicao_entra,Siqueira
+427,1,04:09,9,6,PAU,RD,César
+428,1,04:09,9,6,MIN,3_Pts_T,Douglas Nunes
+429,1,04:31,9,6,MIN,RD,George
+430,1,04:31,9,6,PAU,3_Pts_T,César
+431,1,04:39,9,6,PAU,FR,Mineiro
+432,1,04:39,9,6,MIN,FC,George
+433,1,04:44,9,6,MIN,substituicao_entra,Betinho
+434,1,04:44,9,6,MIN,substituicao_sai,Siqueira
+435,1,04:44,9,6,PAU,FR,Holloway
+436,1,04:44,9,6,MIN,FC,Siqueira
+437,1,04:54,9,6,PAU,RD,Mineiro
+438,1,04:54,9,6,MIN,2_Pts_T,Laing
+439,1,05:07,9,6,MIN,RD,Douglas Nunes
+440,1,05:07,9,6,MIN,TO,Laing
+441,1,05:07,9,6,PAU,2_Pts_T,Mineiro
+442,1,05:19,9,6,PAU,RD,Pilar
+443,1,05:19,9,6,MIN,3_Pts_T,Siqueira
+444,1,05:42,9,6,PAU,2_Pts_C,Holloway
+445,1,05:52,9,4,PAU,RD,Pilar
+446,1,05:52,9,4,MIN,3_Pts_T,Douglas Nunes
+447,1,06:02,9,4,MIN,FR,Siqueira
+448,1,06:02,9,4,PAU,FC,Holloway
+449,1,06:02,9,4,MIN,RO,Minas
+450,1,06:02,9,4,PAU,TO,Mineiro
+451,1,06:02,9,4,MIN,2_Pts_T,Siqueira
+452,1,06:20,9,4,PAU,2_Pts_C,Mineiro
+453,1,06:33,9,2,MIN,2_Pts_C,Siqueira
+454,1,06:33,7,2,MIN,AS,Elinho
+455,1,06:42,7,2,MIN,RD,Elinho
+456,1,06:42,7,2,MIN,TO,Douglas Nunes
+457,1,06:42,7,2,PAU,2_Pts_T,Mineiro
+458,1,06:49,7,2,PAU,RO,Mineiro
+459,1,06:49,7,2,MIN,TO,Douglas Nunes
+460,1,06:49,7,2,PAU,2_Pts_T,Mineiro
+461,1,07:06,7,2,PAU,RD,Pilar
+462,1,07:06,7,2,MIN,2_Pts_T,Elinho
+463,1,07:20,7,2,MIN,FR,Douglas Nunes
+464,1,07:20,7,2,PAU,FC_O,Pilar
+465,1,07:30,7,2,MIN,2_Pts_C,Laing
+466,1,07:30,5,2,MIN,AS,Elinho
+467,1,07:40,5,2,MIN,RD,George
+468,1,07:40,5,2,PAU,3_Pts_T,Holloway
+469,1,07:57,5,2,MIN,2_Pts_C,Siqueira
+470,1,07:57,3,2,MIN,AS,Elinho
+471,1,08:03,3,2,MIN,RD,Elinho
+472,1,08:03,3,2,MIN,TO,George
+473,1,08:03,3,2,PAU,3_Pts_T,Mineiro
+474,1,08:10,3,2,PAU,RO,Paulistano
+475,1,08:10,3,2,MIN,TO,Siqueira
+476,1,08:10,3,2,PAU,2_Pts_T,Mineiro
+477,1,08:31,3,2,MIN,3_Pts_C,Douglas Nunes
+478,1,08:31,0,2,MIN,AS,Elinho
+479,1,08:52,0,2,PAU,2_Pts_C,Mineiro
+480,1,09:05,0,0,PAU,RD,César
+481,1,09:05,0,0,MIN,2_Pts_T,George
+482,1,09:28,0,0,MIN,RD,Elinho
+483,1,09:28,0,0,PAU,2_Pts_T,Holloway
+484,1,09:34,0,0,PAU,RO,Holloway
+485,1,09:34,0,0,MIN,TO,Douglas Nunes
+486,1,09:34,0,0,PAU,2_Pts_T,César
+487,1,09:41,0,0,PAU,BR,César
+488,1,09:41,0,0,MIN,ER,George
+489,1,10:00,0,0,MIN,substituicao_entra,Siqueira
+490,1,10:00,0,0,MIN,substituicao_entra,Douglas Nunes
+491,1,10:00,0,0,MIN,substituicao_entra,George
+492,1,10:00,0,0,MIN,substituicao_entra,Laing
+493,1,10:00,0,0,MIN,substituicao_entra,Elinho
+494,1,10:00,0,0,PAU,substituicao_entra,César
+495,1,10:00,0,0,PAU,substituicao_entra,Mineiro
+496,1,10:00,0,0,PAU,substituicao_entra,Holloway
+497,1,10:00,0,0,PAU,substituicao_entra,Pilar
+498,1,10:00,0,0,PAU,substituicao_entra,André

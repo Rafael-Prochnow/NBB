@@ -1,0 +1,490 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,67,75,,fim_partida,
+1,4,00:00,67,75,,fim_quarto,
+2,4,00:07,67,75,CAP,RD,Paulistano
+3,4,00:07,67,75,CER,2_Pts_T,Alex
+4,4,00:07,67,75,CER,RO,Alex
+5,4,00:07,67,75,CER,3_Pts_T,Paulo
+6,4,00:08,67,75,CAP,AS,Barbosa
+7,4,00:08,67,75,CAP,2_Pts_C,Beto
+8,4,00:12,67,73,CAP,RD,Barbosa
+9,4,00:13,67,73,CER,3_Pts_T,Crescenzi
+10,4,00:19,67,73,CER,tempo_tecnico,Cerrado Basquete
+11,4,00:19,67,73,CAP,LL_Pts_C,Cauê
+12,4,00:19,67,72,CAP,LL_Pts_C,Cauê
+13,4,00:19,67,71,CAP,substituicao_entra,Vitão
+14,4,00:19,67,71,CAP,substituicao_sai,Du Sommer
+15,4,00:19,67,71,CAP,FR,Cauê
+16,4,00:19,67,71,CER,FC,Von Haydin
+17,4,00:25,67,71,CAP,RO,Barbosa
+18,4,00:25,67,71,CAP,3_Pts_T,Deryk
+19,4,00:49,67,71,CER,AS,Crescenzi
+20,4,00:49,67,71,CER,3_Pts_C,Lucas Lima
+21,4,00:58,64,71,CAP,substituicao_entra,Cauê
+22,4,00:58,64,71,CAP,substituicao_sai,Jimmy
+23,4,00:58,64,71,CER,tempo_tecnico,Cerrado Basquete
+24,4,01:01,64,71,CAP,,
+25,4,01:07,64,71,CAP,RD,Barbosa
+26,4,01:10,64,71,CER,3_Pts_T,Crescenzi
+27,4,01:14,64,71,CER,RO,Von Haydin
+28,4,01:16,64,71,CER,3_Pts_T,Crescenzi
+29,4,01:30,64,71,CER,RD,Crescenzi
+30,4,01:33,64,71,CAP,3_Pts_T,Barbosa
+31,4,01:42,64,71,CER,ER,Paulo
+32,4,01:45,64,71,CER,RD,Paulo
+33,4,01:49,64,71,CAP,3_Pts_T,Deryk
+34,4,01:55,64,71,CAP,RO,Jimmy
+35,4,01:58,64,71,CAP,3_Pts_T,Du Sommer
+36,4,02:23,64,71,CER,AS,Lucas Lima
+37,4,02:23,64,71,CER,3_Pts_C,Von Haydin
+38,4,02:37,61,71,CAP,AS,Deryk
+39,4,02:37,61,71,CAP,2_Pts_C,Du Sommer
+40,4,03:03,61,69,CER,2_Pts_C,Crescenzi
+41,4,03:12,59,69,CER,RD,Crescenzi
+42,4,03:12,59,69,CAP,LL_Pts_T,Beto
+43,4,03:12,59,69,CAP,LL_Pts_T,Beto
+44,4,03:12,59,69,CAP,FR,Beto
+45,4,03:12,59,69,CER,FC,Crescenzi
+46,4,03:29,59,69,CER,2_Pts_C,Paulo
+47,4,03:35,57,69,CER,BR,Alex
+48,4,03:35,57,69,CAP,ER,Deryk
+49,4,03:52,57,69,CAP,RD,Beto
+50,4,03:56,57,69,CER,3_Pts_T,Paulo
+51,4,04:16,57,69,CAP,AS,Ruivo
+52,4,04:16,57,69,CAP,LL_Pts_C,Du Sommer
+53,4,04:16,57,68,CAP,LL_Pts_T,Du Sommer
+54,4,04:16,57,68,CAP,substituicao_entra,Jimmy
+55,4,04:16,57,68,CAP,substituicao_entra,Beto
+56,4,04:16,57,68,CAP,substituicao_sai,Cauê
+57,4,04:16,57,68,CAP,substituicao_sai,Ruivo
+58,4,04:16,57,68,CAP,FR,Du Sommer
+59,4,04:16,57,68,CER,FC,Alex
+60,4,04:27,57,68,CAP,FR,Cauê
+61,4,04:27,57,68,CER,FC,Lucas Lima
+62,4,04:47,57,68,CER,AS,Alex
+63,4,04:47,57,68,CER,2_Pts_C,Lucas Lima
+64,4,04:54,55,68,CER,RD,Crescenzi
+65,4,04:59,55,68,CAP,2_Pts_T,Barbosa
+66,4,05:19,55,68,CAP,RD,Deryk
+67,4,05:22,55,68,CER,3_Pts_T,Paulo
+68,4,05:45,55,68,CER,RD,Paulo
+69,4,05:45,55,68,CAP,LL_Pts_T,Du Sommer
+70,4,05:45,55,68,CAP,LL_Pts_C,Du Sommer
+71,4,05:45,55,67,CAP,FR,Du Sommer
+72,4,05:45,55,67,CER,FC,Paulo
+73,4,05:51,55,67,CAP,RO,Cauê
+74,4,05:56,55,67,CER,TO,Alex
+75,4,05:56,55,67,CAP,2_Pts_T,Cauê
+76,4,06:06,55,67,CER,AS,Lucas Lima
+77,4,06:06,55,67,CER,LL_Pts_C,Alex
+78,4,06:06,54,67,CER,LL_Pts_T,Alex
+79,4,06:06,54,67,CAP,substituicao_entra,Du Sommer
+80,4,06:06,54,67,CAP,substituicao_sai,Maique
+81,4,06:06,54,67,CER,FR,Alex
+82,4,06:06,54,67,CAP,FC,Maique
+83,4,06:23,54,67,CAP,2_Pts_C,Cauê
+84,4,06:34,54,65,CAP,substituicao_entra,Barbosa
+85,4,06:34,54,65,CAP,substituicao_sai,Doria
+86,4,06:34,54,65,CAP,tempo_tecnico,Paulistano
+87,4,06:37,54,65,CER,2_Pts_C,Crescenzi
+88,4,06:45,52,65,CER,RO,Lucas Lima
+89,4,06:47,52,65,CER,3_Pts_T,Paulo
+90,4,06:59,52,65,CER,RO,Crescenzi
+91,4,06:59,52,65,CER,LL_Pts_T,Alex
+92,4,06:59,52,65,CAP,substituicao_entra,Deryk
+93,4,06:59,52,65,CAP,substituicao_sai,Thomas
+94,4,06:59,52,65,CER,substituicao_entra,Lucas Lima
+95,4,06:59,52,65,CER,substituicao_sai,Luis
+96,4,06:59,52,65,CER,FR,Alex
+97,4,06:59,52,65,CAP,FC,Maique
+98,4,06:59,52,65,CER,2_Pts_C,Alex
+99,4,06:59,50,65,CER,RO,Alex
+100,4,07:02,50,65,CER,3_Pts_T,Von Haydin
+101,4,07:13,50,65,CER,substituicao_entra,Crescenzi
+102,4,07:13,50,65,CER,substituicao_sai,Wiggins
+103,4,07:13,50,65,CER,FR,Paulo
+104,4,07:13,50,65,CAP,FC,Doria
+105,4,07:29,50,65,CAP,AS,Cauê
+106,4,07:29,50,65,CAP,2_Pts_C,Doria
+107,4,07:48,50,63,CER,substituicao_entra,Alex
+108,4,07:48,50,63,CER,substituicao_entra,Paulo
+109,4,07:48,50,63,CER,substituicao_sai,D Nunes
+110,4,07:48,50,63,CER,substituicao_sai,Sérgio
+111,4,07:48,50,63,CAP,RD,Thomas
+112,4,07:50,50,63,CER,2_Pts_T,Wiggins
+113,4,08:15,50,63,CAP,2_Pts_C,Cauê
+114,4,08:29,50,61,CER,3_Pts_C,Wiggins
+115,4,08:48,47,61,CAP,AS,Ruivo
+116,4,08:48,47,61,CAP,2_Pts_C,Maique
+117,4,09:05,47,59,CAP,FR,Cauê
+118,4,09:05,47,59,CER,FC,Von Haydin
+119,4,09:10,47,59,CAP,RD,Thomas
+120,4,09:13,47,59,CER,3_Pts_T,Luis
+121,4,09:18,47,59,CER,FR,Sérgio
+122,4,09:18,47,59,CAP,FC,Maique
+123,4,09:18,47,59,CER,RO,Sérgio
+124,4,09:20,47,59,CER,2_Pts_T,Wiggins
+125,4,09:36,47,59,CER,RD,Wiggins
+126,4,09:36,47,59,CAP,LL_Pts_T,Doria
+127,4,09:36,47,59,CAP,FR,Doria
+128,4,09:36,47,59,CER,FC,Sérgio
+129,4,09:36,47,59,CAP,AS,Ruivo
+130,4,09:36,47,59,CAP,2_Pts_C,Doria
+131,4,09:38,47,57,CAP,RO,Maique
+132,4,09:42,47,57,CAP,3_Pts_T,Cauê
+133,4,10:00,47,57,,inicio_quarto,
+134,3,00:00,47,57,,fim_quarto,
+135,3,00:00,47,57,CER,3_Pts_T,Luis
+136,3,00:05,47,57,CER,RD,Von Haydin
+137,3,00:08,47,57,CAP,3_Pts_T,Ruivo
+138,3,00:33,47,57,CER,2_Pts_C,Von Haydin
+139,3,00:56,45,57,CAP,AS,Thomas
+140,3,00:56,45,57,CAP,3_Pts_C,Ruivo
+141,3,01:24,45,54,CER,AS,Luis
+142,3,01:24,45,54,CER,EN,Sérgio
+143,3,01:26,43,54,CAP,substituicao_entra,Doria
+144,3,01:26,43,54,CAP,substituicao_sai,Maique
+145,3,01:27,43,54,CER,RO,Cerrado Basquete
+146,3,01:29,43,54,CER,2_Pts_T,Luis
+147,3,01:41,43,54,CER,RD,Wiggins
+148,3,01:44,43,54,CAP,3_Pts_T,Jonatan
+149,3,01:56,43,54,CAP,RD,Ruivo
+150,3,02:00,43,54,CER,2_Pts_T,Von Haydin
+151,3,02:05,43,54,CER,BR,Von Haydin
+152,3,02:05,43,54,CAP,ER,Thomas
+153,3,02:21,43,54,CER,AS,D Nunes
+154,3,02:21,43,54,CER,3_Pts_C,Von Haydin
+155,3,02:53,40,54,CAP,substituicao_entra,Jonatan
+156,3,02:53,40,54,CAP,substituicao_sai,Barbosa
+157,3,02:53,40,54,CER,BR,Wiggins
+158,3,02:53,40,54,CAP,ER,Maique
+159,3,03:08,40,54,CAP,tempo_tecnico,Paulistano
+160,3,03:08,40,54,CER,2_Pts_C,Von Haydin
+161,3,03:09,38,54,CER,RD,D Nunes
+162,3,03:14,38,54,CAP,3_Pts_T,Thomas
+163,3,03:21,38,54,CAP,substituicao_entra,Maique
+164,3,03:21,38,54,CAP,substituicao_sai,Du Sommer
+165,3,03:21,38,54,CAP,RO,Paulistano
+166,3,03:21,38,54,CER,TO,Wiggins
+167,3,03:21,38,54,CAP,2_Pts_T,Vitão
+168,3,03:39,38,54,CER,2_Pts_C,Von Haydin
+169,3,03:43,36,54,CER,BR,Von Haydin
+170,3,03:43,36,54,CAP,ER,Ruivo
+171,3,04:02,36,54,CAP,RD,Barbosa
+172,3,04:05,36,54,CER,3_Pts_T,Wiggins
+173,3,04:29,36,54,CAP,substituicao_entra,Thomas
+174,3,04:29,36,54,CAP,substituicao_entra,Vitão
+175,3,04:29,36,54,CAP,substituicao_entra,Ruivo
+176,3,04:29,36,54,CAP,substituicao_sai,Jimmy
+177,3,04:29,36,54,CAP,substituicao_sai,Deryk
+178,3,04:29,36,54,CAP,substituicao_sai,Cauê
+179,3,04:29,36,54,CER,RD,Cerrado Basquete
+180,3,04:31,36,54,CAP,3_Pts_T,Barbosa
+181,3,04:40,36,54,CAP,RO,Jimmy
+182,3,04:42,36,54,CAP,3_Pts_T,Deryk
+183,3,05:04,36,54,CAP,RD,Barbosa
+184,3,05:07,36,54,CER,3_Pts_T,Luis
+185,3,05:23,36,54,CER,substituicao_entra,Von Haydin
+186,3,05:23,36,54,CER,substituicao_entra,D Nunes
+187,3,05:23,36,54,CER,substituicao_entra,Wiggins
+188,3,05:23,36,54,CER,substituicao_entra,Sérgio
+189,3,05:23,36,54,CER,substituicao_sai,Ambrosino
+190,3,05:23,36,54,CER,substituicao_sai,Alex
+191,3,05:23,36,54,CER,substituicao_sai,Crescenzi
+192,3,05:23,36,54,CER,substituicao_sai,Paulo
+193,3,05:23,36,54,CER,tempo_tecnico,Cerrado Basquete
+194,3,05:33,36,54,CAP,AS,Deryk
+195,3,05:33,36,54,CAP,3_Pts_C,Cauê
+196,3,05:40,36,51,CAP,RD,Barbosa
+197,3,05:44,36,51,CER,3_Pts_T,Ambrosino
+198,3,06:04,36,51,CAP,AS,Du Sommer
+199,3,06:04,36,51,CAP,EN,Barbosa
+200,3,06:08,36,49,CAP,BR,Barbosa
+201,3,06:08,36,49,CER,ER,Alex
+202,3,06:20,36,49,CAP,AS,Cauê
+203,3,06:20,36,49,CAP,2_Pts_C,Du Sommer
+204,3,06:43,36,47,CER,AS,Ambrosino
+205,3,06:43,36,47,CER,3_Pts_C,Crescenzi
+206,3,06:50,33,47,CER,FR,Luis
+207,3,06:50,33,47,CAP,FC,Deryk
+208,3,06:53,33,47,CER,BR,Luis
+209,3,06:53,33,47,CAP,ER,Cauê
+210,3,07:09,33,47,CER,LL_Pts_C,Alex
+211,3,07:09,32,47,CER,FR,Alex
+212,3,07:09,32,47,CAP,FC,Du Sommer
+213,3,07:09,32,47,CER,AS,Luis
+214,3,07:09,32,47,CER,2_Pts_C,Alex
+215,3,07:28,30,47,CER,FR,Crescenzi
+216,3,07:28,30,47,CAP,FC,Jimmy
+217,3,07:28,30,47,CER,RD,Crescenzi
+218,3,07:29,30,47,CAP,3_Pts_T,Cauê
+219,3,07:38,30,47,CER,substituicao_entra,Luis
+220,3,07:38,30,47,CER,substituicao_sai,Lucas Lima
+221,3,07:38,30,47,CAP,FR,Deryk
+222,3,07:38,30,47,CER,FC,Lucas Lima
+223,3,07:39,30,47,CAP,RD,Barbosa
+224,3,07:41,30,47,CER,3_Pts_T,Crescenzi
+225,3,07:56,30,47,CAP,AS,Deryk
+226,3,07:56,30,47,CAP,2_Pts_C,Du Sommer
+227,3,08:06,30,45,CAP,RD,Paulistano
+228,3,08:08,30,45,CER,3_Pts_T,Lucas Lima
+229,3,08:22,30,45,CER,BR,Lucas Lima
+230,3,08:22,30,45,CAP,ER,Deryk
+231,3,08:36,30,45,CAP,RD,Jimmy
+232,3,08:40,30,45,CER,2_Pts_T,Alex
+233,3,08:48,30,45,CAP,AS,Cauê
+234,3,08:48,30,45,CAP,2_Pts_C,Barbosa
+235,3,09:05,30,43,CER,AS,Ambrosino
+236,3,09:05,30,43,CER,2_Pts_C,Alex
+237,3,09:22,28,43,CAP,2_Pts_C,Jimmy
+238,3,09:49,28,41,CER,AS,Lucas Lima
+239,3,09:49,28,41,CER,2_Pts_C,Alex
+240,3,10:00,26,41,,inicio_quarto,
+241,2,00:00,26,41,,fim_quarto,
+242,2,00:15,26,41,CER,RD,Cerrado Basquete
+243,2,00:18,26,41,CAP,3_Pts_T,Beto
+244,2,00:26,26,41,CER,AS,Alex
+245,2,00:26,26,41,CER,2_Pts_C,Wiggins
+246,2,00:36,24,41,CAP,2_Pts_C,Maique
+247,2,00:36,24,39,CAP,RO,Maique
+248,2,00:37,24,39,CAP,2_Pts_T,Jonatan
+249,2,00:57,24,39,CAP,RD,Beto
+250,2,01:00,24,39,CER,3_Pts_T,Von Haydin
+251,2,01:05,24,39,CER,substituicao_entra,Sérgio
+252,2,01:05,24,39,CER,substituicao_sai,Ambrosino
+253,2,01:06,24,39,CAP,ER,
+254,2,01:06,24,39,CAP,2_Pts_T,Doria
+255,2,01:06,24,39,CAP,RO,Doria
+256,2,01:08,24,39,CAP,3_Pts_T,Jonatan
+257,2,01:22,24,39,CER,ER,Lucas Lima
+258,2,01:24,24,39,CAP,LL_Pts_C,Doria
+259,2,01:24,24,38,CAP,LL_Pts_C,Doria
+260,2,01:24,24,37,CAP,FR,Doria
+261,2,01:24,24,37,CER,FC,Ambrosino
+262,2,01:38,24,37,CER,LL_Pts_C,Von Haydin
+263,2,01:38,23,37,CER,LL_Pts_T,Von Haydin
+264,2,01:38,23,37,CER,FR,Von Haydin
+265,2,01:38,23,37,CAP,FC,Doria
+266,2,01:48,23,37,CAP,2_Pts_C,Jimmy
+267,2,02:08,23,35,CER,ER,Lucas Lima
+268,2,02:14,23,35,CAP,substituicao_entra,Beto
+269,2,02:14,23,35,CAP,substituicao_sai,Ruivo
+270,2,02:14,23,35,CAP,ER,Jimmy
+271,2,02:16,23,35,CAP,RD,Maique
+272,2,02:19,23,35,CER,3_Pts_T,Ambrosino
+273,2,02:32,23,35,CER,FR,Lucas Lima
+274,2,02:32,23,35,CAP,FC,Maique
+275,2,02:32,23,35,CER,RD,Lucas Lima
+276,2,02:33,23,35,CAP,2_Pts_T,Jimmy
+277,2,02:58,23,35,CER,substituicao_entra,Von Haydin
+278,2,02:58,23,35,CER,substituicao_entra,Wiggins
+279,2,02:58,23,35,CER,substituicao_sai,Crescenzi
+280,2,02:58,23,35,CER,substituicao_sai,Paulo
+281,2,02:58,23,35,CAP,RD,Paulistano
+282,2,02:59,23,35,CER,3_Pts_T,Alex
+283,2,03:11,23,35,CAP,3_Pts_C,Ruivo
+284,2,03:23,23,32,CAP,RD,Maique
+285,2,03:27,23,32,CER,2_Pts_T,Crescenzi
+286,2,03:35,23,32,CER,FR,Ambrosino
+287,2,03:35,23,32,CAP,FC,Doria
+288,2,03:46,23,32,CAP,substituicao_entra,Doria
+289,2,03:46,23,32,CAP,substituicao_sai,Vitão
+290,2,03:46,23,32,CER,tempo_tecnico,Cerrado Basquete
+291,2,03:47,23,32,CAP,AS,Ruivo
+292,2,03:47,23,32,CAP,3_Pts_C,Jonatan
+293,2,04:05,23,29,CAP,RD,Vitão
+294,2,04:11,23,29,CER,2_Pts_T,Paulo
+295,2,04:14,23,29,CER,RD,Alex
+296,2,04:17,23,29,CAP,2_Pts_T,Jimmy
+297,2,04:36,23,29,CER,ER,Ambrosino
+298,2,04:44,23,29,CAP,LL_Pts_C,Ruivo
+299,2,04:44,23,28,CAP,LL_Pts_C,Ruivo
+300,2,04:44,23,27,CAP,FR,Ruivo
+301,2,04:44,23,27,CER,FC,Lucas Lima
+302,2,04:51,23,27,CAP,tempo_tecnico,Paulistano
+303,2,04:55,23,27,CAP,substituicao_entra,Jimmy
+304,2,04:55,23,27,CAP,substituicao_sai,Thomas
+305,2,04:55,23,27,CAP,FR,Maique
+306,2,04:55,23,27,CER,FC,Alex
+307,2,04:55,23,27,CAP,RO,Maique
+308,2,04:55,23,27,CAP,2_Pts_T,Vitão
+309,2,05:15,23,27,CAP,RD,Vitão
+310,2,05:18,23,27,CER,2_Pts_T,Alex
+311,2,05:23,23,27,CER,RD,Alex
+312,2,05:26,23,27,CAP,2_Pts_T,Thomas
+313,2,05:29,23,27,CAP,RD,Vitão
+314,2,05:33,23,27,CER,2_Pts_T,Lucas Lima
+315,2,05:38,23,27,CER,BR,Lucas Lima
+316,2,05:38,23,27,CAP,ER,Thomas
+317,2,05:40,23,27,CAP,RO,Vitão
+318,2,05:43,23,27,CAP,3_Pts_T,Thomas
+319,2,05:49,23,27,CAP,RO,Paulistano
+320,2,05:49,23,27,CER,TO,Alex
+321,2,05:49,23,27,CAP,2_Pts_T,Maique
+322,2,05:59,23,27,CAP,FR,Thomas
+323,2,05:59,23,27,CER,FC,Lucas Lima
+324,2,06:04,23,27,CAP,RD,Jonatan
+325,2,06:08,23,27,CER,3_Pts_T,Crescenzi
+326,2,06:10,23,27,CER,RO,Lucas Lima
+327,2,06:15,23,27,CER,3_Pts_T,Paulo
+328,2,06:37,23,27,CAP,substituicao_entra,Jonatan
+329,2,06:37,23,27,CAP,substituicao_sai,Cauê
+330,2,06:37,23,27,CER,substituicao_entra,Ambrosino
+331,2,06:37,23,27,CER,substituicao_entra,Alex
+332,2,06:37,23,27,CER,substituicao_entra,Lucas Lima
+333,2,06:37,23,27,CER,substituicao_sai,D Nunes
+334,2,06:37,23,27,CER,substituicao_sai,Luis
+335,2,06:37,23,27,CER,substituicao_sai,Sérgio
+336,2,06:37,23,27,CAP,ER,Vitão
+337,2,06:41,23,27,CAP,BR,Thomas
+338,2,06:41,23,27,CER,ER,Crescenzi
+339,2,06:55,23,27,CAP,AS,Thomas
+340,2,06:55,23,27,CAP,3_Pts_C,Vitão
+341,2,06:59,23,24,CAP,FR,Cauê
+342,2,06:59,23,24,CER,FC,Sérgio
+343,2,07:06,23,24,CAP,FR,Thomas
+344,2,07:06,23,24,CER,FC,Sérgio
+345,2,07:12,23,24,CAP,RD,Maique
+346,2,07:14,23,24,CER,2_Pts_T,D Nunes
+347,2,07:23,23,24,CAP,substituicao_entra,Maique
+348,2,07:23,23,24,CAP,substituicao_entra,Ruivo
+349,2,07:23,23,24,CAP,substituicao_sai,Du Sommer
+350,2,07:23,23,24,CAP,substituicao_sai,Deryk
+351,2,07:23,23,24,CER,FR,Sérgio
+352,2,07:23,23,24,CAP,FC,Du Sommer
+353,2,07:30,23,24,CER,RD,Cerrado Basquete
+354,2,07:32,23,24,CAP,3_Pts_T,Vitão
+355,2,07:43,23,24,CAP,substituicao_entra,Thomas
+356,2,07:43,23,24,CAP,substituicao_sai,Barbosa
+357,2,07:58,23,24,CER,2_Pts_C,Sérgio
+358,2,08:14,21,24,CAP,substituicao_entra,Du Sommer
+359,2,08:14,21,24,CAP,substituicao_sai,Doria
+360,2,08:16,21,24,CAP,AS,Cauê
+361,2,08:16,21,24,CAP,3_Pts_C,Vitão
+362,2,08:30,21,21,CER,2_Pts_C,Crescenzi
+363,2,08:34,19,21,CER,BR,Crescenzi
+364,2,08:34,19,21,CAP,ER,Cauê
+365,2,08:45,19,21,CER,AS,Sérgio
+366,2,08:45,19,21,CER,3_Pts_C,D Nunes
+367,2,08:50,16,21,CAP,tempo_tecnico,Paulistano
+368,2,08:51,16,21,CER,RO,Cerrado Basquete
+369,2,08:51,16,21,CER,2_Pts_T,Luis
+370,2,09:14,16,21,CAP,ER,
+371,2,09:39,16,21,CER,ER,Sérgio
+372,2,09:53,16,21,CAP,ER,Barbosa
+373,2,10:00,16,21,,inicio_quarto,
+374,1,00:00,16,21,,fim_quarto,
+375,1,00:01,16,21,CAP,2_Pts_C,Deryk
+376,1,00:05,16,19,CAP,RD,Vitão
+377,1,00:08,16,19,CER,2_Pts_T,Alex
+378,1,00:09,16,19,CER,RO,Alex
+379,1,00:11,16,19,CER,3_Pts_T,Wiggins
+380,1,00:34,16,19,CAP,AS,Vitão
+381,1,00:34,16,19,CAP,2_Pts_C,Doria
+382,1,00:41,16,17,CAP,BR,Deryk
+383,1,00:41,16,17,CER,ER,Alex
+384,1,00:46,16,17,CAP,ER,Vitão
+385,1,01:03,16,17,CER,AS,Luis
+386,1,01:03,16,17,CER,3_Pts_C,Alex
+387,1,01:08,13,17,CER,FR,Von Haydin
+388,1,01:08,13,17,CAP,FC,Barbosa
+389,1,01:19,13,17,CAP,AS,Deryk
+390,1,01:19,13,17,CAP,2_Pts_C,Barbosa
+391,1,01:22,13,15,CAP,RD,Barbosa
+392,1,01:25,13,15,CER,3_Pts_T,Alex
+393,1,01:28,13,15,CER,RO,Cerrado Basquete
+394,1,01:29,13,15,CER,2_Pts_T,Alex
+395,1,01:39,13,15,CER,RD,Von Haydin
+396,1,01:41,13,15,CAP,3_Pts_T,Cauê
+397,1,01:57,13,15,CER,2_Pts_C,Von Haydin
+398,1,02:00,11,15,CER,RD,Von Haydin
+399,1,02:04,11,15,CAP,2_Pts_T,Doria
+400,1,02:10,11,15,CER,substituicao_entra,Luis
+401,1,02:10,11,15,CER,substituicao_sai,Lucas Lima
+402,1,02:10,11,15,CAP,RO,Paulistano
+403,1,02:13,11,15,CAP,3_Pts_T,Barbosa
+404,1,02:24,11,15,CAP,RO,Doria
+405,1,02:27,11,15,CAP,2_Pts_T,Vitão
+406,1,02:34,11,15,CAP,RD,Barbosa
+407,1,02:37,11,15,CER,2_Pts_T,Lucas Lima
+408,1,02:52,11,15,CER,RD,Von Haydin
+409,1,02:55,11,15,CAP,3_Pts_T,Cauê
+410,1,02:58,11,15,CAP,RO,Deryk
+411,1,03:01,11,15,CAP,2_Pts_T,Vitão
+412,1,03:21,11,15,CAP,substituicao_entra,Barbosa
+413,1,03:21,11,15,CAP,substituicao_entra,Doria
+414,1,03:21,11,15,CAP,substituicao_sai,Maique
+415,1,03:21,11,15,CAP,substituicao_sai,Thomas
+416,1,03:21,11,15,CER,substituicao_entra,Von Haydin
+417,1,03:21,11,15,CER,substituicao_sai,Paulo
+418,1,03:22,11,15,CER,AS,D Nunes
+419,1,03:22,11,15,CER,EN,Alex
+420,1,03:42,9,15,CAP,2_Pts_C,Cauê
+421,1,03:57,9,13,CAP,RD,Deryk
+422,1,04:01,9,13,CER,3_Pts_T,D Nunes
+423,1,04:17,9,13,CAP,LL_Pts_C,Thomas
+424,1,04:17,9,12,CER,substituicao_entra,D Nunes
+425,1,04:17,9,12,CER,substituicao_entra,Wiggins
+426,1,04:17,9,12,CER,substituicao_sai,Ambrosino
+427,1,04:17,9,12,CER,substituicao_sai,Crescenzi
+428,1,04:17,9,12,CAP,FR,Thomas
+429,1,04:17,9,12,CER,FC,Paulo
+430,1,04:17,9,12,CAP,2_Pts_C,Thomas
+431,1,04:24,9,10,CAP,RD,Cauê
+432,1,04:26,9,10,CER,2_Pts_T,Ambrosino
+433,1,04:46,9,10,CAP,EN,Thomas
+434,1,04:58,9,8,CAP,substituicao_entra,Vitão
+435,1,04:58,9,8,CAP,substituicao_entra,Deryk
+436,1,04:58,9,8,CAP,substituicao_entra,Cauê
+437,1,04:58,9,8,CAP,substituicao_sai,Jimmy
+438,1,04:58,9,8,CAP,substituicao_sai,Du Sommer
+439,1,04:58,9,8,CAP,substituicao_sai,Ruivo
+440,1,04:58,9,8,CAP,FR,Ruivo
+441,1,04:58,9,8,CER,FC,Alex
+442,1,04:59,9,8,CAP,RD,Ruivo
+443,1,05:02,9,8,CER,2_Pts_T,Paulo
+444,1,05:15,9,8,CER,BR,Ambrosino
+445,1,05:15,9,8,CAP,ER,Jimmy
+446,1,05:32,9,8,CER,AS,Crescenzi
+447,1,05:32,9,8,CER,3_Pts_C,Ambrosino
+448,1,05:44,6,8,CER,FR,Ambrosino
+449,1,05:44,6,8,CAP,FC,Du Sommer
+450,1,05:44,6,8,CER,RD,Ambrosino
+451,1,05:47,6,8,CAP,3_Pts_T,Jimmy
+452,1,06:04,6,8,CER,2_Pts_C,Paulo
+453,1,06:21,4,8,CAP,2_Pts_C,Thomas
+454,1,06:27,4,6,CAP,RD,Ruivo
+455,1,06:30,4,6,CER,3_Pts_T,Ambrosino
+456,1,06:48,4,6,CAP,AS,Thomas
+457,1,06:48,4,6,CAP,2_Pts_C,Maique
+458,1,06:55,4,4,CAP,RD,Thomas
+459,1,06:58,4,4,CER,3_Pts_T,Crescenzi
+460,1,07:05,4,4,CER,RO,Cerrado Basquete
+461,1,07:08,4,4,CER,3_Pts_T,Paulo
+462,1,07:27,4,4,CER,substituicao_entra,Alex
+463,1,07:27,4,4,CER,substituicao_sai,Sérgio
+464,1,07:36,4,4,CAP,AS,Thomas
+465,1,07:36,4,4,CAP,2_Pts_C,Du Sommer
+466,1,07:56,4,2,CER,2_Pts_C,Ambrosino
+467,1,08:12,2,2,CAP,2_Pts_C,Jimmy
+468,1,08:18,2,0,CAP,RO,Jimmy
+469,1,08:21,2,0,CAP,3_Pts_T,Thomas
+470,1,08:47,2,0,CER,2_Pts_C,Paulo
+471,1,08:58,0,0,CAP,ER,Thomas
+472,1,09:07,0,0,CAP,RD,Maique
+473,1,09:10,0,0,CER,3_Pts_T,Ambrosino
+474,1,09:28,0,0,CER,BR,Crescenzi
+475,1,09:28,0,0,CAP,ER,Jimmy
+476,1,09:44,0,0,CAP,RD,Thomas
+477,1,09:48,0,0,CER,3_Pts_T,Lucas Lima
+478,1,10:00,0,0,CAP,substituicao_entra,Maique
+479,1,10:00,0,0,CAP,substituicao_entra,Thomas
+480,1,10:00,0,0,CAP,substituicao_entra,Jimmy
+481,1,10:00,0,0,CAP,substituicao_entra,Du Sommer
+482,1,10:00,0,0,CAP,substituicao_entra,Ruivo
+483,1,10:00,0,0,CER,substituicao_entra,Ambrosino
+484,1,10:00,0,0,CER,substituicao_entra,Crescenzi
+485,1,10:00,0,0,CER,substituicao_entra,Paulo
+486,1,10:00,0,0,CER,substituicao_entra,Lucas Lima
+487,1,10:00,0,0,CER,substituicao_entra,Sérgio
+488,1,10:00,0,0,,inicio_partida,

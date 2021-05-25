@@ -1,0 +1,478 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,83,77, ,fim_partida,
+1,4,00:01,83,77,CEA,2_Pts_T,Nick
+2,4,00:01,83,77,CEA,substituicao_entra,Nick
+3,4,00:01,83,77,CEA,substituicao_sai,Davi
+4,4,00:01,83,77,BAU,substituicao_entra,Gui Deodato
+5,4,00:01,83,77,BAU,substituicao_sai,R Fischer
+6,4,00:06,83,77,BAU,substituicao_entra,R Fischer
+7,4,00:06,83,77,BAU,substituicao_sai,Gui Deodato
+8,4,00:08,83,77,BAU,tempo_tecnico,Bauru
+9,4,00:08,83,77,CEA,LL_Pts_C,Drudi
+10,4,00:08,83,76,CEA,2_Pts_C,Drudi
+11,4,00:08,83,74,CEA,FR,Drudi
+12,4,00:08,83,74,BAU,FC,Andrezão
+13,4,00:09,83,74,CEA,RO,Drudi
+14,4,00:09,83,74,CEA,2_Pts_T,Drudi
+15,4,00:16,83,74,BAU,LL_Pts_C,Larry
+16,4,00:16,82,74,BAU,LL_Pts_C,Larry
+17,4,00:16,81,74,BAU,substituicao_entra,Gui Deodato
+18,4,00:16,81,74,BAU,substituicao_sai,R Fischer
+19,4,00:16,81,74,BAU,FR,Larry
+20,4,00:16,81,74,CEA,FC,Jimmy
+21,4,00:18,81,74,BAU,BR,Larry
+22,4,00:18,81,74,CEA,ER,Davi
+23,4,00:31,81,74,CEA,tempo_tecnico,Basquete Cearense
+24,4,00:31,81,74,CEA,RO,Basquete Cearense
+25,4,00:31,81,74,CEA,3_Pts_T,Davi
+26,4,00:36,81,74,CEA,RD,Felipe
+27,4,00:36,81,74,BAU,LL_Pts_T,Murilo
+28,4,00:36,81,74,BAU,LL_Pts_C,Murilo
+29,4,00:36,80,74,BAU,FR,Murilo
+30,4,00:36,80,74,CEA,FC,Davi
+31,4,00:39,80,74,BAU,FR,Larry
+32,4,00:39,80,74,CEA,FC,Matheus
+33,4,00:40,80,74,BAU,FR,R Fischer
+34,4,00:40,80,74,CEA,FC,Jimmy
+35,4,00:47,80,74,BAU,FR,R Fischer
+36,4,00:47,80,74,CEA,FC,Drudi
+37,4,00:52,80,74,BAU,RD,Larry
+38,4,00:52,80,74,CEA,3_Pts_T,Jimmy
+39,4,00:55,80,74,CEA,substituicao_entra,Jimmy
+40,4,00:55,80,74,CEA,substituicao_sai,Nick
+41,4,00:58,80,74,CEA,tempo_tecnico,Basquete Cearense
+42,4,00:58,80,74,CEA,RO,Basquete Cearense
+43,4,00:58,80,74,CEA,3_Pts_T,Nick
+44,4,01:21,80,74,CEA,RD,Basquete Cearense
+45,4,01:21,80,74,BAU,2_Pts_T,Larry
+46,4,01:42,80,74,BAU,BR,Larry
+47,4,01:42,80,74,CEA,ER,Matheus
+48,4,02:06,80,74,CEA,FR,Nick
+49,4,02:06,80,74,BAU,FC_O,Barrios
+50,4,02:13,80,74,BAU,substituicao_entra,Murilo
+51,4,02:13,80,74,BAU,substituicao_sai,Gui Deodato
+52,4,02:17,80,74,CEA,2_Pts_C,Drudi
+53,4,02:17,80,72,CEA,AS,Davi
+54,4,02:25,80,72,BAU,2_Pts_C,Barrios
+55,4,02:41,78,72,CEA,2_Pts_C,Felipe
+56,4,02:54,78,70,BAU,ER,
+57,4,02:59,78,70,BAU,RO,Larry
+58,4,02:59,78,70,BAU,2_Pts_T,Larry
+59,4,03:18,78,70,CEA,substituicao_entra,Nick
+60,4,03:18,78,70,CEA,substituicao_sai,Jimmy
+61,4,03:18,78,70,BAU,substituicao_entra,Andrezão
+62,4,03:18,78,70,BAU,substituicao_sai,Murilo
+63,4,03:25,78,70,BAU,RO,Murilo
+64,4,03:25,78,70,BAU,2_Pts_T,Murilo
+65,4,03:34,78,70,BAU,BR,Gui Deodato
+66,4,03:34,78,70,CEA,ER,Davi
+67,4,03:49,78,70,CEA,RO,Basquete Cearense
+68,4,03:49,78,70,CEA,2_Pts_T,Drudi
+69,4,03:52,78,70,CEA,RD,Drudi
+70,4,03:52,78,70,BAU,3_Pts_T,Barrios
+71,4,04:03,78,70,CEA,substituicao_entra,Felipe
+72,4,04:03,78,70,CEA,substituicao_sai,Erick Camilo
+73,4,04:15,78,70,BAU,substituicao_entra,R Fischer
+74,4,04:15,78,70,BAU,substituicao_sai,Andrezão
+75,4,04:15,78,70,BAU,BR,Bauru
+76,4,04:15,78,70,CEA,ER,Jimmy
+77,4,04:34,78,70,BAU,2_Pts_C,Barrios
+78,4,04:59,76,70,CEA,3_Pts_C,Matheus
+79,4,04:59,76,67,CEA,AS,Drudi
+80,4,05:19,76,67,BAU,2_Pts_C,Larry
+81,4,05:36,74,67,BAU,RO,Andrezão
+82,4,05:36,74,67,BAU,2_Pts_T,Andrezão
+83,4,05:39,74,67,BAU,RO,Andrezão
+84,4,05:39,74,67,BAU,2_Pts_T,Murilo
+85,4,05:46,74,67,BAU,RO,Murilo
+86,4,05:46,74,67,BAU,3_Pts_T,Gui Deodato
+87,4,06:00,74,67,CEA,LL_Pts_C,Davi
+88,4,06:00,74,66,CEA,LL_Pts_T,Davi
+89,4,06:00,74,66,CEA,FR,Davi
+90,4,06:00,74,66,BAU,FC,Gui Deodato
+91,4,06:15,74,66,BAU,tempo_tecnico,Bauru
+92,4,06:15,74,66,CEA,FR,Drudi
+93,4,06:15,74,66,BAU,FC,Andrezão
+94,4,06:37,74,66,CEA,RD,Drudi
+95,4,06:37,74,66,BAU,2_Pts_T,Murilo
+96,4,07:02,74,66,CEA,3_Pts_C,Erick Camilo
+97,4,07:02,74,63,CEA,AS,Davi
+98,4,07:17,74,63,BAU,substituicao_entra,Gui Deodato
+99,4,07:17,74,63,BAU,substituicao_sai,R Fischer
+100,4,07:17,74,63,CEA,FR,Drudi
+101,4,07:17,74,63,BAU,FC,Andrezão
+102,4,07:21,74,63,CEA,RD,Drudi
+103,4,07:21,74,63,BAU,3_Pts_T,Larry
+104,4,07:30,74,63,CEA,substituicao_entra,Davi
+105,4,07:30,74,63,CEA,substituicao_sai,Brown
+106,4,07:30,74,63,BAU,FR,Larry
+107,4,07:30,74,63,CEA,FC,Brown
+108,4,07:40,74,63,CEA,FC_T,Basquete Cearense
+109,4,07:40,74,63,BAU,LL_Pts_C,Larry
+110,4,07:40,73,63,BAU,LL_Pts_C,Larry
+111,4,07:45,72,63,BAU,RD,Andrezão
+112,4,07:45,72,63,CEA,2_Pts_T,Matheus
+113,4,07:56,72,63,BAU,3_Pts_C,Larry
+114,4,08:08,69,63,CEA,2_Pts_C,Erick Camilo
+115,4,08:24,69,61,BAU,3_Pts_C,Andrezão
+116,4,08:46,66,61,CEA,2_Pts_C,Drudi
+117,4,08:46,66,59,CEA,AS,Matheus
+118,4,09:09,66,59,CEA,RD,Basquete Cearense
+119,4,09:09,66,59,BAU,3_Pts_T,Andrezão
+120,4,09:31,66,59,CEA,3_Pts_C,Brown
+121,4,09:48,66,56,BAU,2_Pts_C,Larry
+122,3,00:00,64,56, ,fim_quarto,
+123,3,00:01,64,56,BAU,3_Pts_C,Andrezão
+124,3,00:01,61,56,BAU,AS,R Fischer
+125,3,00:06,61,56,BAU,substituicao_entra,Gui Deodato
+126,3,00:06,61,56,BAU,substituicao_sai,Larry
+127,3,00:23,61,56,CEA,substituicao_entra,Erick Camilo
+128,3,00:23,61,56,CEA,substituicao_sai,Felipe
+129,3,00:23,61,56,BAU,LL_Pts_C,Murilo
+130,3,00:23,60,56,BAU,LL_Pts_T,Murilo
+131,3,00:24,60,56,BAU,FR,Murilo
+132,3,00:24,60,56,CEA,FC_A,Felipe
+133,3,00:41,60,56,CEA,3_Pts_C,Davi
+134,3,00:53,60,53,CEA,LL_Pts_C,Felipe
+135,3,00:53,60,52,CEA,LL_Pts_T,Felipe
+136,3,00:56,60,52,CEA,FR,Felipe
+137,3,00:56,60,52,BAU,FC_A,Murilo
+138,3,01:00,60,52,CEA,RD,Matheus
+139,3,01:00,60,52,BAU,2_Pts_T,Murilo
+140,3,01:04,60,52,BAU,RO,Murilo
+141,3,01:04,60,52,BAU,3_Pts_T,Larry
+142,3,01:11,60,52,BAU,BR,Andrezão
+143,3,01:11,60,52,CEA,ER,Drudi
+144,3,01:17,60,52,BAU,AS,Andrezão
+145,3,01:25,60,52,BAU,3_Pts_C,Larry
+146,3,01:46,57,52,BAU,tempo_tecnico,Bauru
+147,3,01:46,57,52,BAU,RD,Barrios
+148,3,01:46,57,52,CEA,2_Pts_T,Drudi
+149,3,01:55,57,52,CEA,LL_Pts_C,Davi
+150,3,01:55,57,51,CEA,LL_Pts_C,Davi
+151,3,01:55,57,50,CEA,FR,Davi
+152,3,01:55,57,50,BAU,FC_A,Barrios
+153,3,02:01,57,50,CEA,RD,Drudi
+154,3,02:01,57,50,BAU,2_Pts_T,Andrezão
+155,3,02:14,57,50,CEA,3_Pts_C,Matheus
+156,3,02:14,57,47,CEA,AS,Jimmy
+157,3,02:32,57,47,BAU,2_Pts_C,Murilo
+158,3,02:35,55,47,BAU,RO,Murilo
+159,3,02:35,55,47,BAU,2_Pts_T,Barrios
+160,3,02:49,55,47,CEA,2_Pts_C,Jimmy
+161,3,02:56,55,45,BAU,LL_Pts_C,Larry
+162,3,02:56,54,45,BAU,LL_Pts_C,Larry
+163,3,03:00,53,45,BAU,FR,Larry
+164,3,03:00,53,45,CEA,FC,Felipe
+165,3,03:07,53,45,CEA,substituicao_entra,Davi
+166,3,03:07,53,45,CEA,substituicao_sai,Brown
+167,3,03:07,53,45,BAU,FR,Larry
+168,3,03:07,53,45,CEA,FC,Brown
+169,3,03:18,53,45,CEA,2_Pts_C,Matheus
+170,3,03:18,53,43,CEA,AS,Drudi
+171,3,03:26,53,43,CEA,RD,Drudi
+172,3,03:26,53,43,BAU,2_Pts_T,Murilo
+173,3,03:41,53,43,CEA,substituicao_entra,Drudi
+174,3,03:41,53,43,CEA,substituicao_sai,Erick Camilo
+175,3,03:45,53,43,BAU,FR,R Fischer
+176,3,03:45,53,43,CEA,FC,Matheus
+177,3,03:53,53,43,BAU,RD,Murilo
+178,3,03:53,53,43,CEA,3_Pts_T,Jimmy
+179,3,04:23,53,43,BAU,LL_Pts_C,R Fischer
+180,3,04:23,52,43,BAU,LL_Pts_C,R Fischer
+181,3,04:23,51,43,BAU,substituicao_entra,Andrezão
+182,3,04:23,51,43,BAU,substituicao_sai,Tischer
+183,3,04:23,51,43,BAU,FR,R Fischer
+184,3,04:23,51,43,CEA,FC,Brown
+185,3,04:37,51,43,CEA,3_Pts_C,Brown
+186,3,04:37,51,40,CEA,AS,Matheus
+187,3,04:44,51,40,CEA,RD,Matheus
+188,3,04:44,51,40,BAU,3_Pts_T,R Fischer
+189,3,04:51,51,40,BAU,RD,Tischer
+190,3,04:51,51,40,CEA,2_Pts_T,Matheus
+191,3,05:11,51,40,CEA,FR,Matheus
+192,3,05:11,51,40,BAU,FC,Tischer
+193,3,05:29,51,40,BAU,2_Pts_C,R Fischer
+194,3,05:46,49,40,BAU,RD,R Fischer
+195,3,05:46,49,40,CEA,2_Pts_T,Brown
+196,3,05:56,49,40,CEA,RD,Felipe
+197,3,05:56,49,40,BAU,3_Pts_T,R Fischer
+198,3,06:22,49,40,BAU,RD,Tischer
+199,3,06:22,49,40,CEA,3_Pts_T,Felipe
+200,3,06:34,49,40,CEA,FR,Jimmy
+201,3,06:34,49,40,BAU,FC_O,Barrios
+202,3,06:44,49,40,CEA,2_Pts_C,Jimmy
+203,3,06:48,49,38,CEA,FR,Erick Camilo
+204,3,06:48,49,38,BAU,FC,Barrios
+205,3,07:04,49,38,BAU,ER,Murilo
+206,3,07:16,49,38,BAU,RD,Tischer
+207,3,07:16,49,38,CEA,3_Pts_T,Matheus
+208,3,07:23,49,38,CEA,RD,Brown
+209,3,07:23,49,38,BAU,3_Pts_T,Barrios
+210,3,07:31,49,38,BAU,RD,R Fischer
+211,3,07:31,49,38,CEA,2_Pts_T,Erick Camilo
+212,3,07:38,49,38,CEA,RO,Felipe
+213,3,07:38,49,38,CEA,3_Pts_T,Erick Camilo
+214,3,07:40,49,38,CEA,substituicao_entra,Erick Camilo
+215,3,07:40,49,38,CEA,substituicao_sai,Nick
+216,3,07:48,49,38,CEA,substituicao_entra,Jimmy
+217,3,07:48,49,38,CEA,substituicao_sai,Devon
+218,3,07:56,49,38,CEA,substituicao_entra,Matheus
+219,3,07:56,49,38,CEA,substituicao_sai,Davi
+220,3,08:03,49,38,CEA,tempo_tecnico,Basquete Cearense
+221,3,08:03,49,38,BAU,2_Pts_C,Larry
+222,3,08:03,47,38,BAU,AS,Tischer
+223,3,08:16,47,38,BAU,RD,Tischer
+224,3,08:16,47,38,CEA,2_Pts_T,Devon
+225,3,08:35,47,38,BAU,3_Pts_C,Larry
+226,3,08:35,44,38,BAU,AS,R Fischer
+227,3,08:43,44,38,BAU,FR,Tischer
+228,3,08:43,44,38,CEA,FC,Brown
+229,3,08:50,44,38,BAU,RD,Tischer
+230,3,08:50,44,38,CEA,2_Pts_T,Davi
+231,3,08:58,44,38,CEA,RD,Felipe
+232,3,08:58,44,38,CEA,TO,Felipe
+233,3,08:58,44,38,BAU,2_Pts_T,Murilo
+234,3,09:15,44,38,BAU,RD,Tischer
+235,3,09:15,44,38,CEA,2_Pts_T,Devon
+236,3,09:31,44,38,BAU,2_Pts_C,Murilo
+237,3,09:31,42,38,BAU,AS,Tischer
+238,3,09:48,42,38,CEA,2_Pts_C,Devon
+239,2,00:00,42,36, ,fim_quarto,
+240,2,00:03,42,36,BAU,3_Pts_T,Ayarza
+241,2,00:17,42,36,BAU,RD,R Fischer
+242,2,00:17,42,36,CEA,2_Pts_T,Jimmy
+243,2,00:36,42,36,BAU,3_Pts_C,Andrezão
+244,2,00:36,39,36,BAU,AS,R Fischer
+245,2,01:01,39,36,BAU,RD,Andrezão
+246,2,01:01,39,36,CEA,2_Pts_T,Brown
+247,2,01:23,39,36,CEA,tempo_tecnico,Basquete Cearense
+248,2,01:23,39,36,BAU,ER,R Fischer
+249,2,01:28,39,36,BAU,BR,Murilo
+250,2,01:28,39,36,CEA,ER,Felipe
+251,2,01:50,39,36,CEA,substituicao_entra,Jimmy
+252,2,01:50,39,36,CEA,substituicao_sai,Nick
+253,2,01:51,39,36,CEA,RD,Basquete Cearense
+254,2,01:51,39,36,BAU,3_Pts_T,Larry
+255,2,02:13,39,36,BAU,RD,Ayarza
+256,2,02:13,39,36,CEA,LL_Pts_T,Erick Camilo
+257,2,02:13,39,36,CEA,LL_Pts_C,Erick Camilo
+258,2,02:13,39,35,CEA,FR,Erick Camilo
+259,2,02:13,39,35,BAU,FC,Ayarza
+260,2,02:13,39,35,CEA,RO,Erick Camilo
+261,2,02:13,39,35,CEA,2_Pts_T,Erick Camilo
+262,2,02:15,39,35,CEA,RO,Erick Camilo
+263,2,02:15,39,35,CEA,2_Pts_T,Brown
+264,2,02:31,39,35,BAU,2_Pts_C,R Fischer
+265,2,02:58,37,35,CEA,substituicao_entra,Felipe
+266,2,02:58,37,35,CEA,substituicao_sai,Drudi
+267,2,02:58,37,35,BAU,substituicao_entra,R Fischer
+268,2,02:58,37,35,BAU,substituicao_sai,Gui Deodato
+269,2,02:58,37,35,BAU,substituicao_entra,Andrezão
+270,2,02:58,37,35,BAU,substituicao_sai,Barrios
+271,2,02:58,37,35,BAU,substituicao_entra,Murilo
+272,2,02:58,37,35,BAU,substituicao_sai,Tischer
+273,2,03:01,37,35,BAU,RD,Bauru
+274,2,03:01,37,35,CEA,3_Pts_T,Nick
+275,2,03:05,37,35,CEA,BR,Erick Camilo
+276,2,03:05,37,35,BAU,ER,Larry
+277,2,03:17,37,35,CEA,AS,Davi
+278,2,03:21,37,35,CEA,2_Pts_C,Nick
+279,2,03:26,37,33,CEA,RD,Davi
+280,2,03:26,37,33,BAU,3_Pts_T,Gui Deodato
+281,2,03:48,37,33,CEA,2_Pts_C,Drudi
+282,2,03:55,37,31,CEA,RO,Drudi
+283,2,03:55,37,31,BAU,TO,Tischer
+284,2,03:55,37,31,CEA,2_Pts_T,Brown
+285,2,04:10,37,31,BAU,LL_Pts_C,Gui Deodato
+286,2,04:10,36,31,BAU,LL_Pts_T,Gui Deodato
+287,2,04:10,36,31,BAU,AS,Barrios
+288,2,04:12,36,31,CEA,substituicao_entra,Erick Camilo
+289,2,04:12,36,31,CEA,substituicao_sai,Devon
+290,2,04:12,36,31,BAU,FR,Gui Deodato
+291,2,04:12,36,31,CEA,FC,Brown
+292,2,04:14,36,31,BAU,BR,Barrios
+293,2,04:14,36,31,CEA,ER,Davi
+294,2,04:21,36,31,CEA,RD,Davi
+295,2,04:21,36,31,BAU,2_Pts_T,Gui Deodato
+296,2,04:40,36,31,CEA,ER,Devon
+297,2,04:55,36,31,BAU,EN,Tischer
+298,2,04:55,34,31,BAU,AS,Larry
+299,2,05:09,34,31,CEA,2_Pts_C,Brown
+300,2,05:27,34,29,CEA,RD,Drudi
+301,2,05:27,34,29,BAU,LL_Pts_T,Tischer
+302,2,05:27,34,29,BAU,AS,Larry
+303,2,05:27,34,29,BAU,LL_Pts_C,Tischer
+304,2,05:27,33,29,BAU,FR,Tischer
+305,2,05:27,33,29,CEA,FC,Nick
+306,2,05:47,33,29,BAU,substituicao_entra,Ayarza
+307,2,05:47,33,29,BAU,substituicao_sai,R Fischer
+308,2,05:47,33,29,CEA,substituicao_entra,Drudi
+309,2,05:47,33,29,CEA,substituicao_sai,Felipe
+310,2,05:47,33,29,BAU,FR,Barrios
+311,2,05:47,33,29,CEA,FC,Felipe
+312,2,06:03,33,29,BAU,RO,Tischer
+313,2,06:03,33,29,BAU,2_Pts_T,Barrios
+314,2,06:18,33,29,CEA,2_Pts_C,Brown
+315,2,06:33,33,27,CEA,FR,Devon
+316,2,06:33,33,27,BAU,FC,Tischer
+317,2,06:44,33,27,BAU,substituicao_entra,Gui Deodato
+318,2,06:44,33,27,BAU,substituicao_sai,Andrezão
+319,2,06:45,33,27,BAU,substituicao_entra,Larry
+320,2,06:45,33,27,BAU,substituicao_sai,Murilo
+321,2,06:47,33,27,CEA,substituicao_entra,Nick
+322,2,06:47,33,27,CEA,substituicao_sai,Jimmy
+323,2,06:50,33,27,BAU,3_Pts_C,Barrios
+324,2,06:52,30,27,BAU,RO,Bauru
+325,2,06:52,30,27,CEA,TO,Devon
+326,2,06:52,30,27,BAU,2_Pts_T,R Fischer
+327,2,07:12,30,27,BAU,RD,Tischer
+328,2,07:12,30,27,CEA,2_Pts_T,Jimmy
+329,2,07:17,30,27,CEA,BR,Jimmy
+330,2,07:17,30,27,BAU,ER,R Fischer
+331,2,07:26,30,27,CEA,2_Pts_C,Brown
+332,2,07:44,30,25,BAU,ER,
+333,2,08:01,30,25,BAU,RO,Bauru
+334,2,08:01,30,25,CEA,TO,Felipe
+335,2,08:01,30,25,BAU,2_Pts_T,Murilo
+336,2,08:07,30,25,BAU,FR,Barrios
+337,2,08:07,30,25,CEA,FC,Jimmy
+338,2,08:15,30,25,BAU,RD,Murilo
+339,2,08:15,30,25,CEA,LL_Pts_T,Devon
+340,2,08:15,30,25,CEA,FR,Devon
+341,2,08:15,30,25,BAU,FC,Tischer
+342,2,08:15,30,25,CEA,EN,Devon
+343,2,08:15,30,23,CEA,AS,Brown
+344,2,08:30,30,23,CEA,substituicao_entra,Devon
+345,2,08:30,30,23,CEA,substituicao_sai,Erick Camilo
+346,2,08:34,30,23,CEA,BR,Basquete Cearense
+347,2,08:34,30,23,BAU,ER,Tischer
+348,2,08:48,30,23,BAU,RD,Murilo
+349,2,08:48,30,23,CEA,3_Pts_T,Davi
+350,2,09:07,30,23,CEA,substituicao_entra,Davi
+351,2,09:07,30,23,CEA,substituicao_sai,Nick
+352,2,09:07,30,23,BAU,LL_Pts_C,Tischer
+353,2,09:11,29,23,BAU,2_Pts_C,Tischer
+354,2,09:11,27,23,BAU,FR,Tischer
+355,2,09:11,27,23,CEA,FC,Erick Camilo
+356,2,09:33,27,23,BAU,RD,Murilo
+357,2,09:33,27,23,CEA,2_Pts_T,Brown
+358,2,09:59,27,23,BAU,2_Pts_C,Andrezão
+359,2,09:59,25,23,BAU,AS,Tischer
+360,1,00:00,25,23, ,fim_quarto,
+361,1,00:05,25,23,BAU,EN,Tischer
+362,1,00:05,23,23,BAU,RO,Tischer
+363,1,00:05,23,23,BAU,2_Pts_T,R Fischer
+364,1,00:16,23,23,BAU,RD,Andrezão
+365,1,00:16,23,23,CEA,3_Pts_T,Jimmy
+366,1,00:35,23,23,BAU,2_Pts_C,Murilo
+367,1,00:35,21,23,BAU,AS,R Fischer
+368,1,00:43,21,23,BAU,RD,Barrios
+369,1,00:43,21,23,CEA,3_Pts_T,Jimmy
+370,1,01:01,21,23,CEA,BR,Basquete Cearense
+371,1,01:01,21,23,BAU,ER,R Fischer
+372,1,01:11,21,23,CEA,2_Pts_C,Felipe
+373,1,01:24,21,21,CEA,BR,Nick
+374,1,01:24,21,21,BAU,ER,Tischer
+375,1,01:38,21,21,CEA,3_Pts_C,Brown
+376,1,01:38,21,18,CEA,AS,Jimmy
+377,1,01:56,21,18,CEA,RD,Felipe
+378,1,01:56,21,18,BAU,LL_Pts_T,R Fischer
+379,1,02:03,21,18,BAU,2_Pts_C,R Fischer
+380,1,02:03,19,18,BAU,FR,R Fischer
+381,1,02:03,19,18,CEA,FC,Erick Camilo
+382,1,02:09,19,18,BAU,BR,Murilo
+383,1,02:09,19,18,CEA,ER,Brown
+384,1,02:19,19,18,CEA,RD,Nick
+385,1,02:19,19,18,BAU,3_Pts_T,R Fischer
+386,1,02:24,19,18,BAU,substituicao_entra,Barrios
+387,1,02:24,19,18,BAU,substituicao_sai,Larry
+388,1,02:35,19,18,CEA,substituicao_entra,Brown
+389,1,02:35,19,18,CEA,substituicao_sai,Davi
+390,1,02:39,19,18,BAU,FR,R Fischer
+391,1,02:39,19,18,CEA,FC,Davi
+392,1,02:43,19,18,CEA,substituicao_entra,Erick Camilo
+393,1,02:43,19,18,CEA,substituicao_sai,Devon
+394,1,03:03,19,18,CEA,3_Pts_C,Felipe
+395,1,03:03,19,15,CEA,AS,Davi
+396,1,03:26,19,15,BAU,3_Pts_C,R Fischer
+397,1,03:37,16,15,BAU,RD,Andrezão
+398,1,03:37,16,15,CEA,2_Pts_T,Felipe
+399,1,03:53,16,15,CEA,RD,Davi
+400,1,03:53,16,15,BAU,2_Pts_T,Tischer
+401,1,04:04,16,15,BAU,substituicao_entra,Tischer
+402,1,04:04,16,15,BAU,substituicao_sai,Mathias
+403,1,04:04,16,15,BAU,substituicao_entra,Andrezão
+404,1,04:04,16,15,BAU,substituicao_sai,Gui Deodato
+405,1,04:04,16,15,CEA,LL_Pts_C,Devon
+406,1,04:04,16,14,CEA,AS,Davi
+407,1,04:04,16,14,CEA,2_Pts_C,Devon
+408,1,04:04,16,12,CEA,FR,Devon
+409,1,04:04,16,12,BAU,FC,Mathias
+410,1,04:21,16,12,BAU,3_Pts_C,R Fischer
+411,1,04:21,13,12,BAU,AS,Gui Deodato
+412,1,04:32,13,12,BAU,RD,Gui Deodato
+413,1,04:32,13,12,CEA,2_Pts_T,Davi
+414,1,04:39,13,12,CEA,RD,Felipe
+415,1,04:39,13,12,BAU,3_Pts_T,Gui Deodato
+416,1,05:02,13,12,CEA,ER,
+417,1,05:31,13,12,CEA,BR,Davi
+418,1,05:31,13,12,BAU,ER,Larry
+419,1,05:45,13,12,CEA,EN,Devon
+420,1,05:45,13,10,CEA,AS,Felipe
+421,1,06:05,13,10,CEA,FR,Davi
+422,1,06:05,13,10,BAU,FC,R Fischer
+423,1,06:07,13,10,CEA,BR,Davi
+424,1,06:07,13,10,BAU,ER,Gui Deodato
+425,1,06:18,13,10,CEA,3_Pts_C,Nick
+426,1,06:18,13,7,CEA,AS,Davi
+427,1,06:21,13,7,CEA,FR,Davi
+428,1,06:21,13,7,BAU,FC,Mathias
+429,1,06:38,13,7,BAU,LL_Pts_C,Larry
+430,1,06:38,12,7,BAU,LL_Pts_T,Larry
+431,1,06:38,12,7,BAU,FR,Larry
+432,1,06:38,12,7,CEA,FC,Jimmy
+433,1,06:45,12,7,CEA,2_Pts_C,Felipe
+434,1,06:48,12,5,CEA,RO,Felipe
+435,1,06:48,12,5,CEA,2_Pts_T,Nick
+436,1,07:07,12,5,BAU,2_Pts_C,Murilo
+437,1,07:40,10,5,CEA,2_Pts_C,Nick
+438,1,07:40,10,3,CEA,AS,Devon
+439,1,07:46,10,3,CEA,RO,Devon
+440,1,07:46,10,3,BAU,TO,Gui Deodato
+441,1,07:46,10,3,CEA,3_Pts_T,Nick
+442,1,08:01,10,3,BAU,AS,R Fischer
+443,1,08:04,10,3,BAU,2_Pts_C,Murilo
+444,1,08:10,8,3,BAU,BR,R Fischer
+445,1,08:10,8,3,CEA,ER,Jimmy
+446,1,08:32,8,3,BAU,2_Pts_C,R Fischer
+447,1,08:40,6,3,CEA,LL_Pts_C,Felipe
+448,1,08:40,6,2,CEA,LL_Pts_C,Felipe
+449,1,08:40,6,1,CEA,FR,Felipe
+450,1,08:40,6,1,BAU,FC,Murilo
+451,1,09:03,6,1,BAU,2_Pts_C,Murilo
+452,1,09:03,4,1,BAU,AS,R Fischer
+453,1,09:09,4,1,BAU,RO,Bauru
+454,1,09:09,4,1,BAU,LL_Pts_T,Mathias
+455,1,09:09,4,1,BAU,LL_Pts_C,Mathias
+456,1,09:09,3,1,BAU,FR,Mathias
+457,1,09:09,3,1,CEA,FC,Felipe
+458,1,09:23,3,1,BAU,RD,Bauru
+459,1,09:23,3,1,CEA,3_Pts_T,Jimmy
+460,1,09:38,3,1,BAU,AS,Larry
+461,1,09:42,3,1,BAU,3_Pts_C,Murilo
+462,1,09:52,0,1,CEA,LL_Pts_T,Devon
+463,1,09:52,0,1,CEA,AS,Felipe
+464,1,09:52,0,1,CEA,LL_Pts_C,Devon
+465,1,09:54,0,0,CEA,FR,Devon
+466,1,09:54,0,0,BAU,FC,Larry
+467,1,10:00,0,0,CEA,substituicao_entra,Felipe
+468,1,10:00,0,0,CEA,substituicao_entra,Devon
+469,1,10:00,0,0,CEA,substituicao_entra,Nick
+470,1,10:00,0,0,CEA,substituicao_entra,Jimmy
+471,1,10:00,0,0,CEA,substituicao_entra,Davi
+472,1,10:00,0,0,BAU,substituicao_entra,Murilo
+473,1,10:00,0,0,BAU,substituicao_entra,Mathias
+474,1,10:00,0,0,BAU,substituicao_entra,Gui Deodato
+475,1,10:00,0,0,BAU,substituicao_entra,R Fischer
+476,1,10:00,0,0,BAU,substituicao_entra,Larry

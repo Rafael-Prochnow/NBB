@@ -1,0 +1,470 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,80,83, ,fim_partida,
+1,4,00:02,80,83,PIN,BR,Ted Simões
+2,4,00:02,80,83,UBE,ER,Taboada
+3,4,00:03,80,83,PIN,LL_Pts_C,Felipe
+4,4,00:03,80,82,PIN,LL_Pts_T,Felipe
+5,4,00:03,80,82,PIN,tempo_tecnico,Pinheiros
+6,4,00:03,80,82,UBE,substituicao_entra,Zanini
+7,4,00:03,80,82,UBE,substituicao_sai,Icaro
+8,4,00:03,80,82,PIN,FR,Felipe
+9,4,00:03,80,82,UBE,FC,Icaro
+10,4,00:04,80,82,PIN,BR,Felipe
+11,4,00:04,80,82,UBE,ER,Hélio
+12,4,00:16,80,82,UBE,substituicao_entra,Icaro
+13,4,00:16,80,82,UBE,substituicao_sai,Zanini
+14,4,00:16,80,82,PIN,ER,
+15,4,00:32,80,82,PIN,RO,Felipe
+16,4,00:32,80,82,PIN,3_Pts_T,Ted Simões
+17,4,00:48,80,82,PIN,RD,Jason Smith
+18,4,00:48,80,82,UBE,2_Pts_T,Luis Gruber
+19,4,00:54,80,82,PIN,substituicao_sai,Joe Smith
+20,4,00:54,80,82,PIN,substituicao_entra,Ted Simões
+21,4,01:00,80,82,UBE,tempo_tecnico,Uberlândia
+22,4,01:00,80,82,PIN,3_Pts_C,Jason Smith
+23,4,01:00,80,79,PIN,AS,J Campos
+24,4,01:03,80,79,PIN,tempo_tecnico,Pinheiros
+25,4,01:03,80,79,PIN,substituicao_entra,Joe Smith
+26,4,01:03,80,79,PIN,substituicao_sai,Ted Simões
+27,4,01:03,80,79,UBE,2_Pts_C,Taboada
+28,4,01:08,78,79,UBE,tempo_tecnico,Uberlândia
+29,4,01:08,78,79,PIN,3_Pts_C,Jason Smith
+30,4,01:11,78,76,PIN,substituicao_entra,Ted Simões
+31,4,01:11,78,76,PIN,substituicao_sai,Joe Smith
+32,4,01:23,78,76,PIN,RD,Felipe
+33,4,01:23,78,76,UBE,3_Pts_T,Taboada
+34,4,01:47,78,76,PIN,3_Pts_C,Jason Smith
+35,4,01:47,78,73,PIN,AS,Joe Smith
+36,4,02:01,78,73,UBE,LL_Pts_C,Hélio
+37,4,02:01,77,73,UBE,LL_Pts_C,Hélio
+38,4,02:01,76,73,PIN,substituicao_entra,J Campos
+39,4,02:01,76,73,PIN,substituicao_sai,Ted Simões
+40,4,02:02,76,73,UBE,FR,Hélio
+41,4,02:02,76,73,PIN,FC,Joe Smith
+42,4,02:30,76,73,PIN,2_Pts_C,Joe Smith
+43,4,02:30,76,71,PIN,AS,Felipe
+44,4,02:37,76,71,UBE,2_Pts_C,Audrei
+45,4,02:56,74,71,PIN,tempo_tecnico,Pinheiros
+46,4,02:56,74,71,PIN,ER,
+47,4,03:20,74,71,PIN,RD,Pinheiros
+48,4,03:20,74,71,UBE,3_Pts_T,Hélio
+49,4,03:36,74,71,UBE,FR,Audrei
+50,4,03:36,74,71,PIN,FC,Felipe
+51,4,03:58,74,71,PIN,2_Pts_C,Felipe
+52,4,03:58,74,69,PIN,AS,Joe Smith
+53,4,04:17,74,69,UBE,3_Pts_C,Zanini
+54,4,04:17,71,69,UBE,AS,Hélio
+55,4,04:25,71,69,UBE,RD,Taboada
+56,4,04:25,71,69,PIN,3_Pts_T,Joe Smith
+57,4,04:46,71,69,PIN,RD,Pinheiros
+58,4,04:46,71,69,UBE,3_Pts_T,Luis Gruber
+59,4,04:50,71,69,UBE,RO,Taboada
+60,4,04:50,71,69,UBE,3_Pts_T,Audrei
+61,4,05:02,71,69,UBE,FR,Zanini
+62,4,05:02,71,69,PIN,FC,Ted Simões
+63,4,05:13,71,69,PIN,2_Pts_C,Felipe
+64,4,05:13,71,67,PIN,AS,Joe Smith
+65,4,05:26,71,67,UBE,2_Pts_C,Audrei
+66,4,05:26,69,67,UBE,AS,Hélio
+67,4,05:43,69,67,PIN,2_Pts_C,Felipe
+68,4,06:02,69,65,UBE,substituicao_entra,Taboada
+69,4,06:02,69,65,UBE,substituicao_sai,Mims
+70,4,06:02,69,65,PIN,LL_Pts_C,Felipe
+71,4,06:02,69,64,PIN,LL_Pts_T,Felipe
+72,4,06:02,69,64,PIN,FR,Toledo
+73,4,06:02,69,64,UBE,FC_A,Mims
+74,4,06:23,69,64,PIN,FR,Toledo
+75,4,06:23,69,64,UBE,FC_O,Mims
+76,4,06:34,69,64,UBE,BR,Zanini
+77,4,06:34,69,64,PIN,ER,Joe Smith
+78,4,06:52,69,64,PIN,RD,Toledo
+79,4,06:52,69,64,UBE,2_Pts_T,Zanini
+80,4,07:06,69,64,UBE,RO,Zanini
+81,4,07:06,69,64,UBE,3_Pts_T,Luis Gruber
+82,4,07:23,69,64,UBE,RD,Mims
+83,4,07:23,69,64,PIN,3_Pts_T,Ted Simões
+84,4,07:33,69,64,UBE,substituicao_entra,Hélio
+85,4,07:33,69,64,UBE,substituicao_sai,Icaro
+86,4,07:33,69,64,PIN,FR,Jason Smith
+87,4,07:33,69,64,UBE,FC,Icaro
+88,4,07:41,69,64,PIN,FR,Felipe
+89,4,07:41,69,64,UBE,FC,Luis Gruber
+90,4,07:46,69,64,PIN,BR,Jason Smith
+91,4,07:46,69,64,UBE,ER,Icaro
+92,4,07:59,69,64,PIN,substituicao_sai,J Campos
+93,4,07:59,69,64,PIN,substituicao_entra,Jason Smith
+94,4,08:07,69,64,PIN,RD,J Campos
+95,4,08:07,69,64,UBE,2_Pts_T,Luis Gruber
+96,4,08:26,69,64,UBE,BR,Luis Gruber
+97,4,08:26,69,64,PIN,ER,Ted Simões
+98,4,08:35,69,64,UBE,AS,Mims
+99,4,08:40,69,64,UBE,2_Pts_C,Zanini
+100,4,09:01,67,64,UBE,FR,Audrei
+101,4,09:01,67,64,PIN,FC,Toledo
+102,4,09:02,67,64,UBE,RD,Audrei
+103,4,09:02,67,64,PIN,2_Pts_T,Felipe
+104,4,09:18,67,64,UBE,substituicao_entra,Zanini
+105,4,09:18,67,64,UBE,substituicao_sai,Taboada
+106,4,09:18,67,64,UBE,LL_Pts_C,Taboada
+107,4,09:18,66,64,UBE,LL_Pts_C,Taboada
+108,4,09:18,65,64,UBE,FR,Taboada
+109,4,09:18,65,64,PIN,FC,Joe Smith
+110,4,09:46,65,64,PIN,2_Pts_C,Ted Simões
+111,3,00:00,65,62, ,fim_quarto,
+112,3,00:22,65,62,UBE,RD,Mims
+113,3,00:22,65,62,PIN,2_Pts_T,Ted Simões
+114,3,00:46,65,62,UBE,3_Pts_C,Taboada
+115,3,00:46,62,62,UBE,AS,Mims
+116,3,00:59,62,62,PIN,LL_Pts_C,Joe Smith
+117,3,00:59,62,61,PIN,LL_Pts_C,Joe Smith
+118,3,00:59,62,60,PIN,FR,Joe Smith
+119,3,00:59,62,60,UBE,FC,Audrei
+120,3,01:14,62,60,UBE,LL_Pts_C,Icaro
+121,3,01:14,61,60,UBE,LL_Pts_C,Icaro
+122,3,01:14,60,60,PIN,substituicao_entra,Felipe
+123,3,01:14,60,60,PIN,substituicao_sai,Toledo
+124,3,01:14,60,60,UBE,FR,Icaro
+125,3,01:14,60,60,PIN,FC,J Campos
+126,3,01:28,60,60,UBE,RD,Luis Gruber
+127,3,01:28,60,60,PIN,LL_Pts_T,Toledo
+128,3,01:28,60,60,PIN,LL_Pts_C,Toledo
+129,3,01:28,60,59,UBE,substituicao_entra,Audrei
+130,3,01:28,60,59,UBE,substituicao_sai,Zanini
+131,3,01:28,60,59,PIN,substituicao_entra,Joe Smith
+132,3,01:28,60,59,PIN,substituicao_sai,Jason Smith
+133,3,01:28,60,59,PIN,FR,Toledo
+134,3,01:28,60,59,UBE,FC,Luis Gruber
+135,3,01:37,60,59,PIN,RD,Ted Simões
+136,3,01:37,60,59,UBE,2_Pts_T,Taboada
+137,3,01:54,60,59,UBE,RD,Uberlândia
+138,3,01:54,60,59,PIN,3_Pts_T,J Campos
+139,3,02:16,60,59,PIN,RD,André Bambu
+140,3,02:16,60,59,UBE,LL_Pts_T,Mims
+141,3,02:16,60,59,UBE,AS,Icaro
+142,3,02:16,60,59,UBE,2_Pts_C,Mims
+143,3,02:16,58,59,UBE,FR,Mims
+144,3,02:16,58,59,PIN,FC,André Bambu
+145,3,02:35,58,59,PIN,2_Pts_C,Toledo
+146,3,03:03,58,57,UBE,2_Pts_C,Zanini
+147,3,03:06,56,57,UBE,BR,Zanini
+148,3,03:06,56,57,PIN,ER,J Campos
+149,3,03:06,56,57,PIN,substituicao_entra,J Campos
+150,3,03:06,56,57,PIN,substituicao_sai,Joe Smith
+151,3,03:06,56,57,PIN,substituicao_entra,Ted Simões
+152,3,03:06,56,57,PIN,substituicao_sai,Morro
+153,3,03:06,56,57,PIN,substituicao_entra,André Bambu
+154,3,03:06,56,57,PIN,substituicao_sai,Felipe
+155,3,03:13,56,57,PIN,tempo_tecnico,Pinheiros
+156,3,03:13,56,57,UBE,EN,Luis Gruber
+157,3,03:13,54,57,UBE,AS,Icaro
+158,3,03:13,54,57,UBE,RD,Icaro
+159,3,03:13,54,57,PIN,3_Pts_T,Jason Smith
+160,3,03:30,54,57,UBE,2_Pts_C,Mims
+161,3,03:30,52,57,UBE,AS,Taboada
+162,3,03:35,52,57,UBE,BR,Zanini
+163,3,03:35,52,57,PIN,ER,Toledo
+164,3,03:38,52,57,PIN,FR,Joe Smith
+165,3,03:38,52,57,UBE,FC,Zanini
+166,3,03:53,52,57,UBE,3_Pts_C,Luis Gruber
+167,3,03:53,49,57,UBE,AS,Zanini
+168,3,04:03,49,57,UBE,RD,Mims
+169,3,04:03,49,57,PIN,3_Pts_T,Jason Smith
+170,3,04:12,49,57,PIN,FR,Toledo
+171,3,04:12,49,57,UBE,FC,Icaro
+172,3,04:27,49,57,PIN,BR,Jason Smith
+173,3,04:27,49,57,UBE,ER,Luis Gruber
+174,3,04:35,49,57,UBE,RD,Zanini
+175,3,04:35,49,57,PIN,2_Pts_T,Joe Smith
+176,3,05:05,49,57,UBE,2_Pts_C,Zanini
+177,3,05:05,47,57,UBE,RO,Zanini
+178,3,05:05,47,57,UBE,3_Pts_T,Taboada
+179,3,05:05,47,57,UBE,FR,Zanini
+180,3,05:05,47,57,PIN,FC,Joe Smith
+181,3,05:13,47,57,UBE,substituicao_entra,Icaro
+182,3,05:13,47,57,UBE,substituicao_sai,Hélio
+183,3,05:14,47,57,UBE,FR,Zanini
+184,3,05:14,47,57,PIN,FC,Felipe
+185,3,05:28,47,57,PIN,2_Pts_C,Jason Smith
+186,3,05:28,47,55,PIN,AS,Toledo
+187,3,05:46,47,55,PIN,RO,Toledo
+188,3,05:46,47,55,PIN,3_Pts_T,Felipe
+189,3,05:56,47,55,PIN,RD,Jason Smith
+190,3,05:56,47,55,UBE,3_Pts_T,Zanini
+191,3,06:27,47,55,PIN,3_Pts_C,Joe Smith
+192,3,06:27,47,52,PIN,AS,Jason Smith
+193,3,06:41,47,52,UBE,2_Pts_C,Hélio
+194,3,06:56,45,52,UBE,RO,Zanini
+195,3,06:56,45,52,UBE,3_Pts_T,Mims
+196,3,07:01,45,52,UBE,RO,Mims
+197,3,07:01,45,52,UBE,3_Pts_T,Luis Gruber
+198,3,07:17,45,52,PIN,LL_Pts_C,Toledo
+199,3,07:17,45,51,UBE,substituicao_entra,Taboada
+200,3,07:17,45,51,UBE,substituicao_sai,Audrei
+201,3,07:17,45,51,PIN,FR,Toledo
+202,3,07:17,45,51,UBE,FC,Mims
+203,3,07:17,45,51,PIN,2_Pts_C,Toledo
+204,3,07:38,45,49,PIN,RD,Morro
+205,3,07:38,45,49,UBE,3_Pts_T,Audrei
+206,3,07:47,45,49,UBE,RD,Mims
+207,3,07:47,45,49,PIN,3_Pts_T,Jason Smith
+208,3,08:07,45,49,UBE,2_Pts_C,Zanini
+209,3,08:07,43,49,UBE,AS,Mims
+210,3,08:11,43,49,UBE,RD,Mims
+211,3,08:11,43,49,UBE,TO,Mims
+212,3,08:11,43,49,PIN,2_Pts_T,Toledo
+213,3,08:46,43,49,UBE,3_Pts_C,Zanini
+214,3,08:46,40,49,UBE,AS,Audrei
+215,3,08:46,40,49,UBE,FR,Hélio
+216,3,08:46,40,49,PIN,FC,Jason Smith
+217,3,08:50,40,49,UBE,RD,Audrei
+218,3,08:50,40,49,PIN,2_Pts_T,Toledo
+219,3,08:57,40,49,PIN,RD,Morro
+220,3,08:57,40,49,UBE,2_Pts_T,Audrei
+221,3,09:17,40,49,PIN,3_Pts_C,Joe Smith
+222,3,09:43,40,46,PIN,RD,Felipe
+223,3,09:43,40,46,UBE,LL_Pts_T,Mims
+224,3,09:43,40,46,UBE,FR,Mims
+225,3,09:43,40,46,PIN,FC,Morro
+226,3,09:43,40,46,UBE,2_Pts_C,Mims
+227,3,09:43,38,46,UBE,AS,Hélio
+228,2,00:00,38,46, ,fim_quarto,
+229,2,00:00,38,46,UBE,BR,Dida
+230,2,00:00,38,46,PIN,ER,Joe Smith
+231,2,00:03,38,46,PIN,tempo_tecnico,Pinheiros
+232,2,00:03,38,46,PIN,FR,Ted Simões
+233,2,00:03,38,46,UBE,FC,Renan
+234,2,00:11,38,46,PIN,tempo_tecnico,Pinheiros
+235,2,00:11,38,46,UBE,2_Pts_C,Mims
+236,2,00:11,36,46,UBE,AS,Hélio
+237,2,00:13,36,46,UBE,substituicao_entra,Renan
+238,2,00:13,36,46,UBE,substituicao_entra,Rodrigo Silva
+239,2,00:13,36,46,UBE,substituicao_entra,Dida
+240,2,00:13,36,46,UBE,substituicao_entra,Icaro
+241,2,00:13,36,46,UBE,substituicao_sai,Mims
+242,2,00:13,36,46,UBE,substituicao_sai,Hélio
+243,2,00:13,36,46,UBE,substituicao_sai,Taboada
+244,2,00:13,36,46,UBE,substituicao_sai,Luis Gruber
+245,2,00:13,36,46,PIN,substituicao_entra,Ted Simões
+246,2,00:13,36,46,PIN,substituicao_sai,Felipe
+247,2,00:16,36,46,UBE,RO,Uberlândia
+248,2,00:16,36,46,UBE,3_Pts_T,Zanini
+249,2,00:41,36,46,PIN,2_Pts_C,Jason Smith
+250,2,01:05,36,44,UBE,3_Pts_C,Hélio
+251,2,01:05,33,44,UBE,AS,Mims
+252,2,01:15,33,44,UBE,substituicao_entra,Luis Gruber
+253,2,01:15,33,44,UBE,substituicao_sai,Rodrigo Silva
+254,2,01:15,33,44,UBE,FR,Taboada
+255,2,01:15,33,44,PIN,FC,J Campos
+256,2,01:35,33,44,PIN,2_Pts_C,J Campos
+257,2,01:50,33,42,PIN,BR,Pinheiros
+258,2,01:50,33,42,UBE,ER,Taboada
+259,2,01:56,33,42,UBE,RD,Hélio
+260,2,01:56,33,42,PIN,2_Pts_T,Jason Smith
+261,2,02:02,33,42,UBE,substituicao_entra,Taboada
+262,2,02:02,33,42,UBE,substituicao_sai,Audrei
+263,2,02:05,33,42,PIN,FR,Jason Smith
+264,2,02:05,33,42,UBE,FC,Audrei
+265,2,02:12,33,42,PIN,BR,Felipe
+266,2,02:12,33,42,UBE,ER,Audrei
+267,2,02:23,33,42,PIN,2_Pts_C,Felipe
+268,2,02:23,33,40,PIN,AS,Toledo
+269,2,02:43,33,40,PIN,BR,Pinheiros
+270,2,02:43,33,40,UBE,ER,Zanini
+271,2,02:46,33,40,UBE,BR,Zanini
+272,2,02:46,33,40,PIN,ER,J Campos
+273,2,02:56,33,40,UBE,substituicao_entra,Mims
+274,2,02:56,33,40,UBE,substituicao_sai,Luis Gruber
+275,2,03:09,33,40,UBE,LL_Pts_C,Audrei
+276,2,03:09,32,40,UBE,LL_Pts_C,Audrei
+277,2,03:09,31,40,UBE,substituicao_entra,Hélio
+278,2,03:09,31,40,UBE,substituicao_sai,Icaro
+279,2,03:09,31,40,UBE,FR,Audrei
+280,2,03:09,31,40,PIN,FC,Jason Smith
+281,2,03:24,31,40,PIN,2_Pts_C,Joe Smith
+282,2,03:24,31,38,PIN,AS,J Campos
+283,2,03:35,31,38,PIN,RD,Felipe
+284,2,03:35,31,38,UBE,2_Pts_T,Zanini
+285,2,03:53,31,38,UBE,RO,Icaro
+286,2,03:53,31,38,PIN,TO,Toledo
+287,2,03:53,31,38,UBE,2_Pts_T,Luis Gruber
+288,2,04:04,31,38,UBE,substituicao_entra,Rodrigo Silva
+289,2,04:04,31,38,UBE,substituicao_sai,Mims
+290,2,04:04,31,38,PIN,substituicao_entra,Toledo
+291,2,04:04,31,38,PIN,substituicao_entra,Jason Smith
+292,2,04:04,31,38,PIN,substituicao_sai,Ted Simões
+293,2,04:04,31,38,PIN,substituicao_sai,Toledo
+294,2,04:07,31,38,UBE,tempo_tecnico,Uberlândia
+295,2,04:07,31,38,PIN,3_Pts_C,J Campos
+296,2,04:16,31,35,PIN,BR,Felipe
+297,2,04:16,31,35,UBE,ER,Luis Gruber
+298,2,04:39,31,35,UBE,RD,Mims
+299,2,04:39,31,35,PIN,2_Pts_T,Ted Simões
+300,2,04:50,31,35,PIN,RD,Toledo
+301,2,04:50,31,35,UBE,3_Pts_T,Mims
+302,2,05:14,31,35,PIN,2_Pts_C,Toledo
+303,2,05:17,31,33,PIN,RO,Toledo
+304,2,05:17,31,33,PIN,2_Pts_T,Toledo
+305,2,05:22,31,33,PIN,RO,Toledo
+306,2,05:22,31,33,PIN,3_Pts_T,Joe Smith
+307,2,05:40,31,33,UBE,3_Pts_C,Zanini
+308,2,06:00,28,33,PIN,EN,Toledo
+309,2,06:00,28,31,PIN,AS,Felipe
+310,2,06:08,28,31,UBE,EN,Mims
+311,2,06:12,26,31,UBE,RO,Mims
+312,2,06:12,26,31,UBE,2_Pts_T,Audrei
+313,2,06:33,26,31,UBE,RD,Audrei
+314,2,06:33,26,31,UBE,TO,Mims
+315,2,06:33,26,31,PIN,2_Pts_T,Joe Smith
+316,2,06:47,26,31,UBE,substituicao_entra,Audrei
+317,2,06:47,26,31,UBE,substituicao_sai,Hélio
+318,2,06:47,26,31,PIN,substituicao_entra,Toledo
+319,2,06:47,26,31,PIN,substituicao_sai,André Bambu
+320,2,06:47,26,31,UBE,ER,
+321,2,07:12,26,31,PIN,2_Pts_C,Joe Smith
+322,2,07:32,26,29,UBE,3_Pts_C,Zanini
+323,2,07:32,23,29,UBE,substituicao_entra,Zanini
+324,2,07:32,23,29,UBE,substituicao_sai,Audrei
+325,2,07:50,23,29,PIN,LL_Pts_C,Joe Smith
+326,2,07:50,23,28,PIN,LL_Pts_C,Joe Smith
+327,2,07:50,23,27,PIN,LL_Pts_C,Joe Smith
+328,2,07:50,23,26,PIN,FR,Joe Smith
+329,2,07:50,23,26,UBE,FC,Icaro
+330,2,08:06,23,26,PIN,RD,André Bambu
+331,2,08:06,23,26,UBE,2_Pts_T,Audrei
+332,2,08:31,23,26,PIN,2_Pts_C,Ted Simões
+333,2,08:31,23,24,PIN,AS,J Campos
+334,2,08:49,23,24,UBE,2_Pts_C,Audrei
+335,2,08:49,21,24,UBE,AS,Icaro
+336,2,09:05,21,24,UBE,BR,Audrei
+337,2,09:05,21,24,PIN,ER,J Campos
+338,2,09:17,21,24,PIN,RD,André Bambu
+339,2,09:17,21,24,UBE,3_Pts_T,Audrei
+340,2,09:33,21,24,UBE,substituicao_sai,Taboada
+341,2,09:33,21,24,UBE,substituicao_entra,Icaro
+342,2,09:33,21,24,PIN,LL_Pts_C,Felipe
+343,2,09:33,21,23,PIN,LL_Pts_C,Felipe
+344,2,09:33,21,22,PIN,FR,Felipe
+345,2,09:33,21,22,UBE,FC,Taboada
+346,2,09:43,21,22,PIN,RD,J Campos
+347,2,09:43,21,22,UBE,2_Pts_T,Hélio
+348,2,09:48,21,22,UBE,BR,Taboada
+349,2,09:48,21,22,PIN,ER,Joe Smith
+350,1,00:00,21,22, ,fim_quarto,
+351,1,00:00,21,22,PIN,3_Pts_T,Jason Smith
+352,1,00:03,21,22,PIN,RD,Ted Simões
+353,1,00:03,21,22,UBE,2_Pts_T,Audrei
+354,1,00:28,21,22,PIN,2_Pts_C,Toledo
+355,1,00:31,21,20,PIN,RO,Toledo
+356,1,00:31,21,20,PIN,2_Pts_T,Toledo
+357,1,00:35,21,20,PIN,RO,Toledo
+358,1,00:35,21,20,PIN,2_Pts_T,André Bambu
+359,1,00:39,21,20,PIN,RO,André Bambu
+360,1,00:39,21,20,PIN,2_Pts_T,Jason Smith
+361,1,00:51,21,20,PIN,RO,Ted Simões
+362,1,00:51,21,20,PIN,2_Pts_T,Ted Simões
+363,1,01:16,21,20,UBE,2_Pts_C,Hélio
+364,1,01:35,19,20,PIN,3_Pts_C,J Campos
+365,1,01:35,19,17,PIN,AS,Toledo
+366,1,01:57,19,17,PIN,RD,Jason Smith
+367,1,01:57,19,17,UBE,3_Pts_T,Taboada
+368,1,02:04,19,17,UBE,RD,Mims
+369,1,02:04,19,17,PIN,2_Pts_T,André Bambu
+370,1,02:21,19,17,UBE,LL_Pts_C,Taboada
+371,1,02:21,18,17,UBE,AS,Mims
+372,1,02:21,18,17,UBE,LL_Pts_C,Taboada
+373,1,02:21,17,17,UBE,FR,Taboada
+374,1,02:21,17,17,PIN,FC,Toledo
+375,1,02:37,17,17,PIN,substituicao_entra,Ted Simões
+376,1,02:37,17,17,PIN,substituicao_entra,J Campos
+377,1,02:37,17,17,PIN,substituicao_sai,Morro
+378,1,02:37,17,17,PIN,substituicao_sai,Joe Smith
+379,1,02:37,17,17,PIN,substituicao_entra,André Bambu
+380,1,02:37,17,17,PIN,substituicao_sai,Felipe
+381,1,02:37,17,17,UBE,BR,Uberlândia
+382,1,02:37,17,17,PIN,ER,Morro
+383,1,02:40,17,17,UBE,2_Pts_C,Audrei
+384,1,02:44,15,17,UBE,RD,Hélio
+385,1,02:44,15,17,PIN,LL_Pts_T,Felipe
+386,1,02:44,15,17,PIN,LL_Pts_C,Felipe
+387,1,02:44,15,16,PIN,FR,Felipe
+388,1,02:44,15,16,UBE,FC,Mims
+389,1,02:47,15,16,PIN,RO,Felipe
+390,1,02:47,15,16,PIN,3_Pts_T,Joe Smith
+391,1,03:03,15,16,PIN,RO,Toledo
+392,1,03:03,15,16,PIN,3_Pts_T,Felipe
+393,1,03:26,15,16,UBE,3_Pts_C,Luis Gruber
+394,1,03:26,12,16,UBE,AS,Hélio
+395,1,03:48,12,16,UBE,substituicao_entra,Mims
+396,1,03:48,12,16,UBE,substituicao_sai,Renan
+397,1,03:49,12,16,PIN,ER,
+398,1,03:49,12,16,PIN,2_Pts_T,Felipe
+399,1,04:16,12,16,UBE,2_Pts_C,Audrei
+400,1,04:26,10,16,UBE,FR,Audrei
+401,1,04:26,10,16,PIN,FC,Toledo
+402,1,04:41,10,16,PIN,2_Pts_C,Felipe
+403,1,04:41,10,14,PIN,AS,Joe Smith
+404,1,04:56,10,14,UBE,2_Pts_C,Taboada
+405,1,04:56,8,14,UBE,AS,Hélio
+406,1,05:04,8,14,PIN,2_Pts_C,Felipe
+407,1,05:18,8,12,PIN,FR,Joe Smith
+408,1,05:18,8,12,UBE,FC,Taboada
+409,1,05:37,8,12,UBE,2_Pts_C,Hélio
+410,1,05:49,6,12,UBE,RD,Luis Gruber
+411,1,05:49,6,12,PIN,2_Pts_T,Morro
+412,1,06:07,6,12,UBE,LL_Pts_C,Renan
+413,1,06:07,5,12,UBE,FR,Renan
+414,1,06:07,5,12,PIN,FC,Morro
+415,1,06:07,5,12,UBE,2_Pts_C,Renan
+416,1,06:07,3,12,UBE,AS,Taboada
+417,1,06:26,3,12,UBE,RD,Uberlândia
+418,1,06:26,3,12,PIN,3_Pts_T,Joe Smith
+419,1,06:33,3,12,PIN,BR,Felipe
+420,1,06:33,3,12,UBE,ER,Renan
+421,1,06:48,3,12,PIN,3_Pts_C,Jason Smith
+422,1,06:48,3,9,PIN,AS,Joe Smith
+423,1,07:03,3,9,UBE,tempo_tecnico,Uberlândia
+424,1,07:03,3,9,PIN,RD,Toledo
+425,1,07:03,3,9,UBE,2_Pts_T,Luis Gruber
+426,1,07:16,3,9,PIN,2_Pts_C,Joe Smith
+427,1,07:16,3,7,PIN,AS,Jason Smith
+428,1,07:22,3,7,PIN,RD,Jason Smith
+429,1,07:22,3,7,UBE,3_Pts_T,Luis Gruber
+430,1,07:31,3,7,UBE,RD,Taboada
+431,1,07:31,3,7,PIN,2_Pts_T,Joe Smith
+432,1,07:35,3,7,UBE,substituicao_sai,Icaro
+433,1,07:35,3,7,UBE,substituicao_entra,Hélio
+434,1,07:35,3,7,PIN,FR,Jason Smith
+435,1,07:35,3,7,UBE,FC,Taboada
+436,1,07:41,3,7,PIN,RD,Morro
+437,1,07:41,3,7,PIN,TO,Morro
+438,1,07:41,3,7,UBE,2_Pts_T,Icaro
+439,1,07:44,3,7,PIN,2_Pts_T,Joe Smith
+440,1,08:03,3,7,UBE,RD,Renan
+441,1,08:10,3,7,PIN,RO,Joe Smith
+442,1,08:10,3,7,PIN,2_Pts_T,Joe Smith
+443,1,08:18,3,7,PIN,RD,Felipe
+444,1,08:18,3,7,UBE,3_Pts_T,Icaro
+445,1,08:43,3,7,PIN,2_Pts_C,Felipe
+446,1,08:47,3,5,PIN,RO,Felipe
+447,1,08:47,3,5,PIN,3_Pts_T,Toledo
+448,1,09:00,3,5,PIN,RD,Felipe
+449,1,09:00,3,5,UBE,3_Pts_T,Luis Gruber
+450,1,09:17,3,5,PIN,EN,Felipe
+451,1,09:17,3,3,PIN,AS,Morro
+452,1,09:38,3,3,UBE,3_Pts_C,Luis Gruber
+453,1,09:38,0,3,UBE,AS,Audrei
+454,1,09:52,0,3,PIN,LL_Pts_C,Jason Smith
+455,1,09:52,0,2,PIN,FR,Jason Smith
+456,1,09:52,0,2,UBE,FC,Icaro
+457,1,09:52,0,2,PIN,2_Pts_C,Jason Smith
+458,1,09:52,0,0,PIN,AS,Felipe
+459,1,10:00,0,0,UBE,substituicao_entra,Renan
+460,1,10:00,0,0,UBE,substituicao_entra,Audrei
+461,1,10:00,0,0,UBE,substituicao_entra,Luis Gruber
+462,1,10:00,0,0,UBE,substituicao_entra,Taboada
+463,1,10:00,0,0,UBE,substituicao_entra,Icaro
+464,1,10:00,0,0,PIN,substituicao_entra,Felipe
+465,1,10:00,0,0,PIN,substituicao_entra,Toledo
+466,1,10:00,0,0,PIN,substituicao_entra,Jason Smith
+467,1,10:00,0,0,PIN,substituicao_entra,Joe Smith
+468,1,10:00,0,0,PIN,substituicao_entra,Morro

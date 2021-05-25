@@ -1,0 +1,493 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,79,96,,fim_partida,
+1,4,00:00,79,96,,fim_quarto,
+2,4,00:17,79,96,FRA,substituicao_entra,Reynan
+3,4,00:17,79,96,FRA,substituicao_sai,Fuzaro
+4,4,00:17,79,96,BSB,substituicao_entra,Felipe
+5,4,00:17,79,96,BSB,substituicao_sai,Caio Torres
+6,4,00:19,79,96,BSB,AS,Gabriel
+7,4,00:19,79,96,BSB,3_Pts_C,Laster
+8,4,00:31,76,96,FRA,3_Pts_C,Elinho
+9,4,00:48,76,93,BSB,AS,P Rava
+10,4,00:48,76,93,BSB,2_Pts_C,Caio Torres
+11,4,01:04,74,93,FRA,LL_Pts_C,Gui Abreu
+12,4,01:04,74,92,FRA,LL_Pts_C,Gui Abreu
+13,4,01:04,74,91,FRA,substituicao_entra,Edu Marília
+14,4,01:04,74,91,FRA,substituicao_entra,Adyel
+15,4,01:04,74,91,FRA,substituicao_sai,Jamaal
+16,4,01:04,74,91,FRA,substituicao_sai,Lucas Dias
+17,4,01:04,74,91,BSB,substituicao_entra,Gabriel
+18,4,01:04,74,91,BSB,substituicao_entra,P Rava
+19,4,01:04,74,91,BSB,substituicao_sai,Nezinho
+20,4,01:04,74,91,BSB,substituicao_sai,Samuel
+21,4,01:04,74,91,FRA,LL_Pts_C,Lucas Dias
+22,4,01:04,74,90,BSB,FC_T,Samuel
+23,4,01:04,74,90,BSB,tempo_tecnico,Brasília
+24,4,01:04,74,90,FRA,FR,Gui Abreu
+25,4,01:04,74,90,BSB,FC,Nezinho
+26,4,01:11,74,90,FRA,RD,Gui Abreu
+27,4,01:13,74,90,BSB,2_Pts_T,Samuel
+28,4,01:17,74,90,BSB,RD,Samuel
+29,4,01:21,74,90,FRA,3_Pts_T,Lucas Dias
+30,4,01:30,74,90,FRA,RD,Elinho
+31,4,01:32,74,90,BSB,2_Pts_T,Samuel
+32,4,01:36,74,90,BSB,RD,Laster
+33,4,01:39,74,90,FRA,2_Pts_T,Gui Abreu
+34,4,01:42,74,90,FRA,RD,Lucas Dias
+35,4,01:45,74,90,BSB,3_Pts_T,Laster
+36,4,01:59,74,90,FRA,AS,Elinho
+37,4,01:59,74,90,FRA,EN,Gui Abreu
+38,4,02:11,74,88,BSB,LL_Pts_C,Arthur
+39,4,02:11,73,88,BSB,LL_Pts_C,Arthur
+40,4,02:11,72,88,BSB,FR,Arthur
+41,4,02:11,72,88,FRA,FC,Gui Abreu
+42,4,02:21,72,88,FRA,LL_Pts_C,Gui Abreu
+43,4,02:21,72,87,FRA,FR,Gui Abreu
+44,4,02:21,72,87,BSB,FC,Arthur
+45,4,02:21,72,87,FRA,AS,Lucas Dias
+46,4,02:21,72,87,FRA,2_Pts_C,Gui Abreu
+47,4,02:42,72,85,FRA,RD,Gui Abreu
+48,4,02:46,72,85,BSB,3_Pts_T,Laster
+49,4,03:04,72,85,BSB,tempo_tecnico,Brasília
+50,4,03:08,72,85,FRA,AS,Jamaal
+51,4,03:08,72,85,FRA,2_Pts_C,Fuzaro
+52,4,03:12,72,83,FRA,RD,Jamaal
+53,4,03:17,72,83,FRA,TO,Lucas Dias
+54,4,03:17,72,83,BSB,2_Pts_T,Nezinho
+55,4,03:34,72,83,FRA,3_Pts_C,Jamaal
+56,4,03:46,72,80,FRA,RD,Lucas Dias
+57,4,03:51,72,80,FRA,TO,Fuzaro
+58,4,03:51,72,80,BSB,2_Pts_T,Samuel
+59,4,04:05,72,80,FRA,2_Pts_C,Elinho
+60,4,04:19,72,78,FRA,RD,Gui Abreu
+61,4,04:19,72,78,BSB,LL_Pts_T,Caio Torres
+62,4,04:19,72,78,BSB,LL_Pts_C,Caio Torres
+63,4,04:19,71,78,BSB,FR,Caio Torres
+64,4,04:19,71,78,FRA,FC,Lucas Dias
+65,4,04:36,71,78,BSB,tempo_tecnico,Brasília
+66,4,04:36,71,78,FRA,LL_Pts_C,Jamaal
+67,4,04:36,71,77,FRA,LL_Pts_C,Jamaal
+68,4,04:36,71,76,FRA,FR,Jamaal
+69,4,04:36,71,76,BSB,FC,Samuel
+70,4,04:39,71,76,FRA,BR,Jamaal
+71,4,04:39,71,76,BSB,ER,Samuel
+72,4,05:03,71,76,FRA,AS,Gui Abreu
+73,4,05:03,71,76,FRA,2_Pts_C,Elinho
+74,4,05:25,71,74,FRA,RD,Lucas Dias
+75,4,05:28,71,74,BSB,2_Pts_T,Arthur
+76,4,05:43,71,74,FRA,2_Pts_C,Gui Abreu
+77,4,05:57,71,72,BSB,LL_Pts_C,Nezinho
+78,4,05:57,70,72,BSB,LL_Pts_C,Nezinho
+79,4,05:57,69,72,BSB,FR,Nezinho
+80,4,05:57,69,72,FRA,FC,Lucas Dias
+81,4,06:15,69,72,BSB,RD,Caio Torres
+82,4,06:18,69,72,FRA,3_Pts_T,Jamaal
+83,4,06:24,69,72,FRA,RD,Gui Abreu
+84,4,06:29,69,72,BSB,3_Pts_T,Nezinho
+85,4,06:39,69,72,BSB,FR,Nezinho
+86,4,06:39,69,72,FRA,FC,Lucas Dias
+87,4,07:03,69,72,FRA,2_Pts_C,Elinho
+88,4,07:17,69,70,BSB,2_Pts_C,Nezinho
+89,4,07:17,67,70,BSB,RD,Laster
+90,4,07:23,67,70,FRA,2_Pts_T,Fuzaro
+91,4,07:27,67,70,FRA,BR,Jamaal
+92,4,07:27,67,70,BSB,ER,Nezinho
+93,4,07:41,67,70,FRA,LL_Pts_C,Lucas Dias
+94,4,07:41,67,69,BSB,substituicao_entra,Caio Torres
+95,4,07:41,67,69,BSB,substituicao_entra,Arthur
+96,4,07:41,67,69,BSB,substituicao_sai,P Rava
+97,4,07:41,67,69,BSB,substituicao_sai,Marcelão
+98,4,07:41,67,69,FRA,FR,Lucas Dias
+99,4,07:41,67,69,BSB,FC,Marcelão
+100,4,07:41,67,69,FRA,AS,Elinho
+101,4,07:41,67,69,FRA,2_Pts_C,Lucas Dias
+102,4,07:54,67,67,FRA,BR,Lucas Dias
+103,4,07:54,67,67,BSB,ER,Marcelão
+104,4,08:06,67,67,FRA,LL_Pts_C,Elinho
+105,4,08:06,67,66,FRA,LL_Pts_T,Elinho
+106,4,08:06,67,66,BSB,substituicao_entra,Marcelão
+107,4,08:06,67,66,BSB,substituicao_sai,Caio Torres
+108,4,08:06,67,66,FRA,FR,Elinho
+109,4,08:06,67,66,BSB,FC,Caio Torres
+110,4,08:12,67,66,FRA,RD,Gui Abreu
+111,4,08:16,67,66,BSB,2_Pts_T,Caio Torres
+112,4,08:34,67,66,FRA,AS,Jamaal
+113,4,08:34,67,66,FRA,3_Pts_C,Gui Abreu
+114,4,08:39,67,63,FRA,RD,Elinho
+115,4,08:42,67,63,BSB,2_Pts_T,Laster
+116,4,08:47,67,63,BSB,FR,Caio Torres
+117,4,08:47,67,63,FRA,FC,Lucas Dias
+118,4,09:02,67,63,FRA,LL_Pts_C,Lucas Dias
+119,4,09:02,67,62,FRA,AS,Elinho
+120,4,09:02,67,62,FRA,LL_Pts_C,Lucas Dias
+121,4,09:02,67,61,FRA,FR,Lucas Dias
+122,4,09:02,67,61,BSB,FC,Caio Torres
+123,4,09:02,67,61,FRA,RO,Elinho
+124,4,09:06,67,61,FRA,2_Pts_T,Jamaal
+125,4,09:15,67,61,BSB,substituicao_entra,Caio Torres
+126,4,09:15,67,61,BSB,substituicao_sai,Marcelão
+127,4,09:15,67,61,FRA,FR,Lucas Dias
+128,4,09:15,67,61,BSB,FC,Marcelão
+129,4,09:35,67,61,BSB,AS,Nezinho
+130,4,09:35,67,61,BSB,2_Pts_C,Marcelão
+131,4,10:00,65,61,BSB,LL_Pts_C,Samuel
+132,4,10:00,64,61,FRA,FC_T,Jamaal
+133,4,10:00,64,61,,inicio_quarto,
+134,3,00:00,64,61,,fim_quarto,
+135,3,00:00,64,61,FRA,AS,Elinho
+136,3,00:00,64,61,FRA,3_Pts_C,Jamaal
+137,3,00:01,64,58,FRA,substituicao_entra,Gui Abreu
+138,3,00:01,64,58,FRA,substituicao_sai,Hubner
+139,3,00:01,64,58,FRA,FR,Jamaal
+140,3,00:01,64,58,BSB,FC,Arthur
+141,3,00:08,64,58,BSB,AS,Nezinho
+142,3,00:08,64,58,BSB,3_Pts_C,Laster
+143,3,00:26,61,58,BSB,RD,Marcelão
+144,3,00:30,61,58,FRA,3_Pts_T,Jamaal
+145,3,00:36,61,58,FRA,RD,Lucas Dias
+146,3,00:39,61,58,BSB,3_Pts_T,Nezinho
+147,3,00:43,61,58,BSB,RD,Marcelão
+148,3,00:46,61,58,FRA,2_Pts_T,Hubner
+149,3,00:47,61,58,FRA,RO,Hubner
+150,3,00:51,61,58,FRA,2_Pts_T,Hubner
+151,3,00:52,61,58,FRA,RO,Hubner
+152,3,00:55,61,58,FRA,3_Pts_T,Jamaal
+153,3,01:13,61,58,FRA,substituicao_entra,Fuzaro
+154,3,01:13,61,58,FRA,substituicao_sai,Green
+155,3,01:13,61,58,BSB,substituicao_entra,Nezinho
+156,3,01:13,61,58,BSB,substituicao_sai,Samuel
+157,3,01:13,61,58,BSB,AS,Samuel
+158,3,01:13,61,58,BSB,2_Pts_C,Marcelão
+159,3,01:19,59,58,BSB,RD,Arthur
+160,3,01:23,59,58,FRA,3_Pts_T,Elinho
+161,3,01:42,59,58,BSB,3_Pts_C,Samuel
+162,3,01:58,56,58,FRA,AS,Elinho
+163,3,01:58,56,58,FRA,3_Pts_C,Hubner
+164,3,02:06,56,55,FRA,RD,Hubner
+165,3,02:09,56,55,BSB,3_Pts_T,Arthur
+166,3,02:15,56,55,BSB,FR,P Rava
+167,3,02:15,56,55,FRA,FC,Jamaal
+168,3,02:21,56,55,FRA,substituicao_entra,Elinho
+169,3,02:21,56,55,FRA,substituicao_sai,Fuzaro
+170,3,02:21,56,55,FRA,ER,Jamaal
+171,3,02:22,56,55,FRA,RD,Lucas Dias
+172,3,02:24,56,55,BSB,2_Pts_T,Marcelão
+173,3,02:31,56,55,BSB,RD,Samuel
+174,3,02:35,56,55,FRA,3_Pts_T,Lucas Dias
+175,3,02:55,56,55,BSB,2_Pts_C,Laster
+176,3,03:17,54,55,BSB,substituicao_entra,P Rava
+177,3,03:17,54,55,BSB,substituicao_entra,Marcelão
+178,3,03:17,54,55,BSB,substituicao_sai,Nezinho
+179,3,03:17,54,55,BSB,substituicao_sai,Caio Torres
+180,3,03:17,54,55,FRA,ER,Green
+181,3,03:24,54,55,FRA,FR,Green
+182,3,03:24,54,55,BSB,FC,Caio Torres
+183,3,03:30,54,55,FRA,RD,Green
+184,3,03:34,54,55,BSB,3_Pts_T,Laster
+185,3,03:56,54,55,FRA,AS,Jamaal
+186,3,03:56,54,55,FRA,3_Pts_C,Green
+187,3,04:06,54,52,FRA,RD,Lucas Dias
+188,3,04:12,54,52,BSB,3_Pts_T,Caio Torres
+189,3,04:23,54,52,BSB,RD,Nezinho
+190,3,04:26,54,52,FRA,2_Pts_T,Hubner
+191,3,04:32,54,52,FRA,RD,Lucas Dias
+192,3,04:35,54,52,BSB,3_Pts_T,Nezinho
+193,3,04:45,54,52,BSB,RD,Caio Torres
+194,3,04:48,54,52,FRA,2_Pts_T,Lucas Dias
+195,3,05:03,54,52,FRA,LL_Pts_T,Lucas Dias
+196,3,05:03,54,52,BSB,substituicao_entra,Laster
+197,3,05:03,54,52,BSB,substituicao_sai,Gemerson
+198,3,05:03,54,52,BSB,FC_T,Gemerson
+199,3,05:03,54,52,BSB,ER,Samuel
+200,3,05:30,54,52,FRA,AS,Jamaal
+201,3,05:30,54,52,FRA,3_Pts_C,Hubner
+202,3,05:47,54,49,BSB,AS,Nezinho
+203,3,05:47,54,49,BSB,3_Pts_C,Samuel
+204,3,06:08,51,49,FRA,substituicao_entra,Jamaal
+205,3,06:08,51,49,FRA,substituicao_sai,Elinho
+206,3,06:11,51,49,FRA,ER,Elinho
+207,3,06:13,51,49,FRA,RD,Lucas Dias
+208,3,06:16,51,49,BSB,3_Pts_T,Samuel
+209,3,06:19,51,49,BSB,FR,Samuel
+210,3,06:19,51,49,FRA,FC,Hubner
+211,3,06:24,51,49,BSB,BR,Arthur
+212,3,06:24,51,49,FRA,ER,Elinho
+213,3,06:27,51,49,FRA,RD,Hubner
+214,3,06:30,51,49,BSB,2_Pts_T,Samuel
+215,3,06:36,51,49,BSB,BR,Caio Torres
+216,3,06:36,51,49,FRA,ER,Elinho
+217,3,06:51,51,49,BSB,3_Pts_C,Nezinho
+218,3,07:02,48,49,BSB,RD,Gemerson
+219,3,07:05,48,49,FRA,2_Pts_T,Fuzaro
+220,3,07:09,48,49,FRA,RD,Hubner
+221,3,07:12,48,49,BSB,2_Pts_T,Gemerson
+222,3,07:26,48,49,FRA,AS,Elinho
+223,3,07:26,48,49,FRA,2_Pts_C,Green
+224,3,07:29,48,47,FRA,RO,Green
+225,3,07:34,48,47,BSB,TO,Caio Torres
+226,3,07:34,48,47,FRA,2_Pts_T,Hubner
+227,3,07:45,48,47,BSB,AS,Nezinho
+228,3,07:45,48,47,BSB,2_Pts_C,Arthur
+229,3,08:11,46,47,FRA,AS,Elinho
+230,3,08:11,46,47,FRA,2_Pts_C,Fuzaro
+231,3,08:25,46,45,BSB,3_Pts_C,Nezinho
+232,3,08:42,43,45,FRA,2_Pts_C,Elinho
+233,3,08:56,43,43,FRA,RD,Hubner
+234,3,08:59,43,43,BSB,2_Pts_T,Arthur
+235,3,09:16,43,43,FRA,AS,Elinho
+236,3,09:16,43,43,FRA,2_Pts_C,Green
+237,3,09:17,43,41,FRA,RO,Fuzaro
+238,3,09:21,43,41,FRA,3_Pts_T,Lucas Dias
+239,3,09:26,43,41,FRA,BR,Hubner
+240,3,09:26,43,41,BSB,ER,Samuel
+241,3,09:39,43,41,BSB,RD,Nezinho
+242,3,09:42,43,41,FRA,3_Pts_T,Green
+243,3,10:00,43,41,,inicio_quarto,
+244,2,00:00,43,41,,fim_quarto,
+245,2,00:01,43,41,FRA,2_Pts_T,Lucas Dias
+246,2,00:02,43,41,FRA,substituicao_entra,Lucas Dias
+247,2,00:02,43,41,FRA,substituicao_sai,Edu Marília
+248,2,00:02,43,41,BSB,substituicao_entra,P Rava
+249,2,00:02,43,41,BSB,substituicao_sai,Nezinho
+250,2,00:02,43,41,FRA,tempo_tecnico,Franca
+251,2,00:02,43,41,FRA,FR,Adyel
+252,2,00:02,43,41,BSB,FC,Nezinho
+253,2,00:08,43,41,BSB,3_Pts_C,Nezinho
+254,2,00:27,40,41,FRA,substituicao_entra,Hubner
+255,2,00:27,40,41,FRA,substituicao_entra,Jamaal
+256,2,00:27,40,41,FRA,substituicao_entra,Adyel
+257,2,00:27,40,41,FRA,substituicao_sai,Green
+258,2,00:27,40,41,FRA,substituicao_sai,Fuzaro
+259,2,00:27,40,41,FRA,substituicao_sai,Márcio
+260,2,00:27,40,41,BSB,tempo_tecnico,Brasília
+261,2,00:27,40,41,FRA,AS,Fuzaro
+262,2,00:27,40,41,FRA,2_Pts_C,Green
+263,2,00:30,40,39,FRA,BR,Fuzaro
+264,2,00:30,40,39,BSB,ER,Caio Torres
+265,2,00:31,40,39,BSB,RD,Caio Torres
+266,2,00:35,40,39,FRA,3_Pts_T,Green
+267,2,00:55,40,39,BSB,2_Pts_C,Laster
+268,2,01:00,38,39,BSB,BR,Laster
+269,2,01:00,38,39,FRA,ER,Márcio
+270,2,01:02,38,39,FRA,RD,Edu Marília
+271,2,01:05,38,39,BSB,2_Pts_T,Laster
+272,2,01:25,38,39,FRA,AS,Green
+273,2,01:25,38,39,FRA,EN,Edu Marília
+274,2,01:43,38,37,BSB,AS,P Rava
+275,2,01:43,38,37,BSB,LL_Pts_C,Samuel
+276,2,01:43,37,37,BSB,substituicao_entra,Nezinho
+277,2,01:43,37,37,BSB,substituicao_sai,P Rava
+278,2,01:43,37,37,FRA,substituicao_entra,Edu Marília
+279,2,01:43,37,37,FRA,substituicao_sai,Lucas Dias
+280,2,01:43,37,37,BSB,FR,Samuel
+281,2,01:43,37,37,FRA,FC,Márcio
+282,2,01:43,37,37,BSB,2_Pts_C,Samuel
+283,2,01:54,35,37,BSB,BR,P Rava
+284,2,01:54,35,37,FRA,ER,Lucas Dias
+285,2,02:04,35,37,FRA,RD,Elinho
+286,2,02:08,35,37,BSB,3_Pts_T,P Rava
+287,2,02:10,35,37,BSB,RO,Samuel
+288,2,02:13,35,37,BSB,2_Pts_T,Caio Torres
+289,2,02:33,35,37,FRA,AS,Green
+290,2,02:33,35,37,FRA,2_Pts_C,Lucas Dias
+291,2,02:46,35,35,FRA,substituicao_entra,Márcio
+292,2,02:46,35,35,FRA,substituicao_sai,Gui Abreu
+293,2,02:46,35,35,FRA,tempo_tecnico,Franca
+294,2,02:46,35,35,FRA,RD,Elinho
+295,2,02:48,35,35,BSB,3_Pts_T,Caio Torres
+296,2,02:59,35,35,BSB,BR,Caio Torres
+297,2,02:59,35,35,FRA,ER,Green
+298,2,03:04,35,35,FRA,RD,Green
+299,2,03:07,35,35,BSB,3_Pts_T,Arthur
+300,2,03:17,35,35,BSB,RD,Arthur
+301,2,03:20,35,35,FRA,2_Pts_T,Fuzaro
+302,2,03:25,35,35,FRA,BR,Green
+303,2,03:25,35,35,BSB,ER,Caio Torres
+304,2,03:46,35,35,FRA,2_Pts_C,Green
+305,2,03:52,35,33,FRA,FR,Lucas Dias
+306,2,03:52,35,33,BSB,FC,Caio Torres
+307,2,03:55,35,33,FRA,RO,Gui Abreu
+308,2,03:59,35,33,FRA,3_Pts_T,Elinho
+309,2,04:10,35,33,BSB,2_Pts_C,Samuel
+310,2,04:15,33,33,FRA,substituicao_entra,Green
+311,2,04:15,33,33,FRA,substituicao_sai,Jamaal
+312,2,04:20,33,33,BSB,RD,Caio Torres
+313,2,04:24,33,33,FRA,3_Pts_T,Lucas Dias
+314,2,04:38,33,33,FRA,RD,Fuzaro
+315,2,04:38,33,33,BSB,LL_Pts_T,Arthur
+316,2,04:38,33,33,BSB,LL_Pts_C,Arthur
+317,2,04:38,32,33,BSB,FR,Arthur
+318,2,04:38,32,33,FRA,FC,Elinho
+319,2,04:56,32,33,FRA,2_Pts_C,Elinho
+320,2,05:03,32,31,BSB,2_Pts_C,Samuel
+321,2,05:06,30,31,BSB,substituicao_entra,Arthur
+322,2,05:06,30,31,BSB,substituicao_sai,Nezinho
+323,2,05:29,30,31,FRA,2_Pts_C,Elinho
+324,2,05:44,30,29,FRA,RD,Elinho
+325,2,05:48,30,29,BSB,3_Pts_T,Nezinho
+326,2,06:07,30,29,BSB,RD,P Rava
+327,2,06:11,30,29,FRA,3_Pts_T,Gui Abreu
+328,2,06:31,30,29,FRA,RD,Franca
+329,2,06:32,30,29,BSB,3_Pts_T,Samuel
+330,2,06:58,30,29,FRA,LL_Pts_C,Fuzaro
+331,2,06:58,30,28,FRA,AS,Jamaal
+332,2,06:58,30,28,FRA,LL_Pts_C,Fuzaro
+333,2,06:58,30,27,FRA,FR,Fuzaro
+334,2,06:58,30,27,BSB,FC,Laster
+335,2,07:06,30,27,FRA,BR,Lucas Dias
+336,2,07:06,30,27,BSB,ER,Samuel
+337,2,07:10,30,27,BSB,RD,Nezinho
+338,2,07:13,30,27,FRA,2_Pts_T,Gui Abreu
+339,2,07:18,30,27,FRA,BR,Elinho
+340,2,07:18,30,27,BSB,ER,P Rava
+341,2,07:29,30,27,FRA,substituicao_entra,Fuzaro
+342,2,07:29,30,27,FRA,substituicao_entra,Elinho
+343,2,07:29,30,27,FRA,substituicao_sai,Hubner
+344,2,07:29,30,27,FRA,substituicao_sai,Green
+345,2,07:29,30,27,BSB,FR,P Rava
+346,2,07:29,30,27,FRA,FC,Green
+347,2,07:44,30,27,FRA,2_Pts_C,Green
+348,2,07:58,30,25,BSB,2_Pts_C,P Rava
+349,2,08:11,28,25,BSB,RD,Nezinho
+350,2,08:15,28,25,FRA,3_Pts_T,Lucas Dias
+351,2,08:30,28,25,FRA,RD,Hubner
+352,2,08:33,28,25,BSB,3_Pts_T,Laster
+353,2,08:44,28,25,BSB,RO,Samuel
+354,2,08:46,28,25,BSB,3_Pts_T,Laster
+355,2,08:55,28,25,BSB,BR,Caio Torres
+356,2,08:55,28,25,FRA,ER,Green
+357,2,09:12,28,25,FRA,RD,Gui Abreu
+358,2,09:15,28,25,BSB,2_Pts_T,Caio Torres
+359,2,09:33,28,25,FRA,LL_Pts_C,Green
+360,2,09:33,28,24,FRA,LL_Pts_C,Green
+361,2,09:33,28,23,FRA,FR,Green
+362,2,09:33,28,23,BSB,FC,P Rava
+363,2,09:45,28,23,FRA,RD,Gui Abreu
+364,2,09:48,28,23,BSB,3_Pts_T,Laster
+365,2,10:00,28,23,,inicio_quarto,
+366,1,00:00,28,23,,fim_quarto,
+367,1,00:02,28,23,BSB,3_Pts_C,Samuel
+368,1,00:06,25,23,FRA,2_Pts_C,Green
+369,1,00:22,25,21,BSB,AS,Nezinho
+370,1,00:22,25,21,BSB,3_Pts_C,P Rava
+371,1,00:39,22,21,FRA,AS,Green
+372,1,00:39,22,21,FRA,3_Pts_C,Gui Abreu
+373,1,01:14,22,18,BSB,RD,Nezinho
+374,1,01:18,22,18,FRA,3_Pts_T,Hubner
+375,1,01:27,22,18,BSB,AS,Nezinho
+376,1,01:27,22,18,BSB,2_Pts_C,Caio Torres
+377,1,01:34,20,18,BSB,FR,Nezinho
+378,1,01:34,20,18,FRA,FC,Jamaal
+379,1,01:41,20,18,BSB,RO,Caio Torres
+380,1,01:46,20,18,BSB,3_Pts_T,P Rava
+381,1,01:53,20,18,BSB,RO,P Rava
+382,1,01:56,20,18,BSB,3_Pts_T,Nezinho
+383,1,02:15,20,18,FRA,substituicao_entra,Jamaal
+384,1,02:15,20,18,FRA,substituicao_sai,Elinho
+385,1,02:15,20,18,BSB,substituicao_entra,Samuel
+386,1,02:15,20,18,BSB,substituicao_sai,Arthur
+387,1,02:15,20,18,FRA,ER,Green
+388,1,02:34,20,18,BSB,LL_Pts_C,Caio Torres
+389,1,02:34,19,18,FRA,substituicao_entra,Hubner
+390,1,02:34,19,18,FRA,substituicao_sai,Márcio
+391,1,02:34,19,18,BSB,FR,Caio Torres
+392,1,02:34,19,18,FRA,FC,Márcio
+393,1,02:34,19,18,BSB,AS,Nezinho
+394,1,02:34,19,18,BSB,2_Pts_C,Caio Torres
+395,1,02:44,17,18,FRA,substituicao_entra,Gui Abreu
+396,1,02:44,17,18,FRA,substituicao_sai,Fuzaro
+397,1,02:45,17,18,FRA,ER,Elinho
+398,1,02:52,17,18,FRA,RD,Márcio
+399,1,02:55,17,18,BSB,2_Pts_T,Caio Torres
+400,1,03:07,17,18,BSB,BR,Nezinho
+401,1,03:07,17,18,FRA,ER,Elinho
+402,1,03:15,17,18,BSB,substituicao_entra,Caio Torres
+403,1,03:15,17,18,BSB,substituicao_sai,Marcelão
+404,1,03:15,17,18,FRA,FR,Márcio
+405,1,03:15,17,18,BSB,ER,Marcelão
+406,1,03:15,17,18,BSB,FC_O,Marcelão
+407,1,03:28,17,18,BSB,substituicao_entra,P Rava
+408,1,03:28,17,18,BSB,substituicao_sai,Samuel
+409,1,03:28,17,18,FRA,LL_Pts_C,Lucas Dias
+410,1,03:28,17,17,FRA,LL_Pts_C,Lucas Dias
+411,1,03:28,17,16,FRA,FR,Lucas Dias
+412,1,03:28,17,16,BSB,FC,Marcelão
+413,1,03:34,17,16,FRA,RD,Lucas Dias
+414,1,03:38,17,16,BSB,3_Pts_T,Arthur
+415,1,03:49,17,16,FRA,AS,Fuzaro
+416,1,03:49,17,16,FRA,3_Pts_C,Márcio
+417,1,04:03,17,13,BSB,3_Pts_C,Nezinho
+418,1,04:17,14,13,FRA,ER,Fuzaro
+419,1,04:17,14,13,BSB,LL_Pts_C,Arthur
+420,1,04:17,13,13,FRA,FC_T,Fuzaro
+421,1,04:17,13,13,FRA,RD,Fuzaro
+422,1,04:22,13,13,FRA,TO,Márcio
+423,1,04:22,13,13,BSB,2_Pts_T,Arthur
+424,1,04:30,13,13,BSB,RD,Marcelão
+425,1,04:33,13,13,FRA,2_Pts_T,Lucas Dias
+426,1,04:44,13,13,BSB,substituicao_entra,Laster
+427,1,04:44,13,13,BSB,substituicao_sai,Gemerson
+428,1,04:52,13,13,BSB,AS,Nezinho
+429,1,04:52,13,13,BSB,2_Pts_C,Marcelão
+430,1,04:56,11,13,BSB,RD,Arthur
+431,1,04:58,11,13,FRA,2_Pts_T,Elinho
+432,1,05:14,11,13,FRA,FR,Fuzaro
+433,1,05:14,11,13,BSB,ER,Gemerson
+434,1,05:14,11,13,BSB,FC_O,Gemerson
+435,1,05:37,11,13,FRA,AS,Green
+436,1,05:37,11,13,FRA,EN,Márcio
+437,1,05:47,11,11,FRA,LL_Pts_C,Márcio
+438,1,05:47,11,10,FRA,LL_Pts_C,Márcio
+439,1,05:47,11,9,FRA,FR,Márcio
+440,1,05:47,11,9,BSB,FC_A,Gemerson
+441,1,06:02,11,9,BSB,2_Pts_C,Samuel
+442,1,06:08,9,9,BSB,RD,Arthur
+443,1,06:12,9,9,FRA,,
+444,1,06:14,9,9,BSB,LL_Pts_C,Arthur
+445,1,06:14,8,9,BSB,FR,Arthur
+446,1,06:14,8,9,FRA,FC,Green
+447,1,06:14,8,9,BSB,AS,Nezinho
+448,1,06:14,8,9,BSB,2_Pts_C,Arthur
+449,1,06:23,6,9,FRA,ER,Elinho
+450,1,06:25,6,9,FRA,RD,Lucas Dias
+451,1,06:29,6,9,BSB,3_Pts_T,Nezinho
+452,1,06:43,6,9,FRA,AS,Márcio
+453,1,06:43,6,9,FRA,2_Pts_C,Fuzaro
+454,1,06:57,6,7,BSB,AS,Marcelão
+455,1,06:57,6,7,BSB,2_Pts_C,Samuel
+456,1,07:14,4,7,FRA,AS,Green
+457,1,07:14,4,7,FRA,2_Pts_C,Lucas Dias
+458,1,07:17,4,5,FRA,RD,Márcio
+459,1,07:21,4,5,BSB,2_Pts_T,Samuel
+460,1,07:37,4,5,FRA,AS,Elinho
+461,1,07:37,4,5,FRA,2_Pts_C,Lucas Dias
+462,1,07:54,4,3,BSB,AS,Marcelão
+463,1,07:54,4,3,BSB,2_Pts_C,Gemerson
+464,1,08:17,2,3,FRA,2_Pts_C,Green
+465,1,08:28,2,1,BSB,ER,Samuel
+466,1,08:44,2,1,FRA,AS,Fuzaro
+467,1,08:44,2,1,FRA,LL_Pts_C,Lucas Dias
+468,1,08:44,2,0,FRA,LL_Pts_T,Lucas Dias
+469,1,08:44,2,0,FRA,FR,Lucas Dias
+470,1,08:44,2,0,BSB,FC,Marcelão
+471,1,09:02,2,0,BSB,AS,Samuel
+472,1,09:02,2,0,BSB,2_Pts_C,Arthur
+473,1,09:15,0,0,BSB,RD,Marcelão
+474,1,09:19,0,0,FRA,3_Pts_T,Lucas Dias
+475,1,09:22,0,0,FRA,FR,Green
+476,1,09:22,0,0,BSB,FC,Arthur
+477,1,09:29,0,0,FRA,RD,Green
+478,1,09:31,0,0,BSB,3_Pts_T,Gemerson
+479,1,09:44,0,0,BSB,RD,Marcelão
+480,1,09:47,0,0,FRA,2_Pts_T,Lucas Dias
+481,1,10:00,0,0,FRA,substituicao_entra,Green
+482,1,10:00,0,0,FRA,substituicao_entra,Lucas Dias
+483,1,10:00,0,0,FRA,substituicao_entra,Fuzaro
+484,1,10:00,0,0,FRA,substituicao_entra,Elinho
+485,1,10:00,0,0,FRA,substituicao_entra,Márcio
+486,1,10:00,0,0,BSB,substituicao_entra,Nezinho
+487,1,10:00,0,0,BSB,substituicao_entra,Gemerson
+488,1,10:00,0,0,BSB,substituicao_entra,Marcelão
+489,1,10:00,0,0,BSB,substituicao_entra,Arthur
+490,1,10:00,0,0,BSB,substituicao_entra,Samuel
+491,1,10:00,0,0,,inicio_partida,

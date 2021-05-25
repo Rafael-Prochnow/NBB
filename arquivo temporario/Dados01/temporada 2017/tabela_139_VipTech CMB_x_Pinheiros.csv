@@ -1,0 +1,475 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,60,64,,fim_partida,
+1,4,00:01,60,64,PIN,RD,Toledo
+2,4,00:03,60,64,CMO,3_Pts_T,Giano
+3,4,00:05,60,64,PIN,LL_Pts_C,Arthur
+4,4,00:05,60,63,PIN,LL_Pts_C,Arthur
+5,4,00:05,60,62,PIN,FR,Arthur
+6,4,00:05,60,62,CMO,FC,Brown
+7,4,00:07,60,62,PIN,RD,Arthur
+8,4,00:10,60,62,CMO,2_Pts_T,Daniel Alemão
+9,4,00:18,60,62,CMO,tempo_tecnico,Campo Mourão
+10,4,00:18,60,62,CMO,FR,Giano
+11,4,00:18,60,62,PIN,FC,Holloway
+12,4,00:23,60,62,CMO,BR,Giano
+13,4,00:23,60,62,PIN,ER,Holloway
+14,4,00:28,60,62,PIN,RO,Arthur
+15,4,00:30,60,62,PIN,2_Pts_T,Ruivo
+16,4,00:52,60,62,PIN,RD,Pinheiros
+17,4,00:57,60,62,CMO,3_Pts_T,César
+18,4,01:34,60,62,PIN,AS,Toledo
+19,4,01:34,60,62,PIN,2_Pts_C,Arthur
+20,4,01:35,60,60,PIN,RO,Toledo
+21,4,01:37,60,60,PIN,2_Pts_T,Bennett
+22,4,01:55,60,60,CMO,2_Pts_C,César
+23,4,01:55,58,60,CMO,FR,Giano
+24,4,01:55,58,60,PIN,FC,Toledo
+25,4,02:15,58,60,CMO,tempo_tecnico,Campo Mourão
+26,4,02:15,58,60,PIN,2_Pts_C,Bennett
+27,4,02:22,58,58,PIN,RD,Holloway
+28,4,02:24,58,58,CMO,2_Pts_T,Daniel Alemão
+29,4,02:53,58,58,PIN,2_Pts_C,Bennett
+30,4,03:06,58,56,PIN,BR,Toledo
+31,4,03:06,58,56,CMO,ER,Giano
+32,4,03:17,58,56,PIN,substituicao_entra,Toledo
+33,4,03:17,58,56,PIN,substituicao_sai,Ansaloni
+34,4,03:23,58,56,CMO,RD,César
+35,4,03:26,58,56,PIN,3_Pts_T,Ruivo
+36,4,03:43,58,56,CMO,2_Pts_C,Giano
+37,4,03:54,56,56,CMO,RD,Daniel Alemão
+38,4,04:00,56,56,PIN,2_Pts_T,Ansaloni
+39,4,04:05,56,56,PIN,RO,Ansaloni
+40,4,04:07,56,56,PIN,2_Pts_T,Bennett
+41,4,04:16,56,56,PIN,RD,Ansaloni
+42,4,04:19,56,56,CMO,3_Pts_T,César
+43,4,04:23,56,56,CMO,BR,Brown
+44,4,04:23,56,56,PIN,ER,Ruivo
+45,4,04:30,56,56,PIN,BR,Holloway
+46,4,04:30,56,56,CMO,ER,César
+47,4,04:51,56,56,PIN,AS,Ansaloni
+48,4,04:51,56,56,PIN,LL_Pts_C,Arthur
+49,4,04:51,56,55,PIN,LL_Pts_T,Arthur
+50,4,04:51,56,55,CMO,substituicao_entra,César
+51,4,04:51,56,55,CMO,substituicao_sai,Mathias
+52,4,04:51,56,55,PIN,FR,Arthur
+53,4,04:51,56,55,CMO,FC,Mathias
+54,4,05:12,56,55,CMO,substituicao_entra,Daniel Alemão
+55,4,05:12,56,55,CMO,substituicao_sai,César
+56,4,05:12,56,55,CMO,AS,Giano
+57,4,05:12,56,55,CMO,LL_Pts_C,César
+58,4,05:12,55,55,CMO,LL_Pts_T,César
+59,4,05:12,55,55,CMO,FR,César
+60,4,05:12,55,55,PIN,FC,Arthur
+61,4,05:35,55,55,CMO,RD,Campo Mourão
+62,4,05:36,55,55,PIN,LL_Pts_T,Holloway
+63,4,05:36,55,55,CMO,substituicao_entra,Giano
+64,4,05:36,55,55,CMO,substituicao_sai,Jamail
+65,4,05:36,55,55,PIN,substituicao_entra,Bennett
+66,4,05:36,55,55,PIN,substituicao_sai,Vitor
+67,4,05:36,55,55,PIN,FR,Holloway
+68,4,05:36,55,55,CMO,FC,Pastor
+69,4,05:36,55,55,PIN,AS,Ansaloni
+70,4,05:36,55,55,PIN,2_Pts_C,Holloway
+71,4,05:51,55,53,PIN,RD,Ansaloni
+72,4,05:53,55,53,CMO,2_Pts_T,Jamail
+73,4,06:08,55,53,PIN,AS,Ruivo
+74,4,06:08,55,53,PIN,2_Pts_C,Ansaloni
+75,4,06:19,55,51,PIN,RD,Ansaloni
+76,4,06:21,55,51,CMO,2_Pts_T,Brown
+77,4,06:37,55,51,CMO,RO,Brown
+78,4,06:41,55,51,CMO,3_Pts_T,Pastor
+79,4,07:11,55,51,PIN,ER,
+80,4,07:24,55,51,CMO,substituicao_entra,Jamail
+81,4,07:24,55,51,CMO,substituicao_sai,Giano
+82,4,07:24,55,51,PIN,FR,Ansaloni
+83,4,07:24,55,51,CMO,FC,César
+84,4,07:33,55,51,CMO,AS,Giano
+85,4,07:33,55,51,CMO,EN,Mathias
+86,4,07:57,53,51,PIN,ER,
+87,4,08:23,53,51,PIN,substituicao_entra,Arthur
+88,4,08:23,53,51,PIN,substituicao_sai,Toledo
+89,4,08:23,53,51,PIN,FR,Ansaloni
+90,4,08:23,53,51,CMO,FC,Mathias
+91,4,08:23,53,51,PIN,RD,Ansaloni
+92,4,08:25,53,51,CMO,3_Pts_T,Giano
+93,4,08:53,53,51,PIN,AS,Ruivo
+94,4,08:53,53,51,PIN,3_Pts_C,Holloway
+95,4,09:11,53,48,CMO,AS,Giano
+96,4,09:11,53,48,CMO,3_Pts_C,Pastor
+97,4,09:29,50,48,CMO,FR,Brown
+98,4,09:29,50,48,PIN,FC,Holloway
+99,4,09:33,50,48,CMO,RD,Brown
+100,4,09:35,50,48,PIN,3_Pts_T,Vitor
+101,4,09:39,50,48,PIN,FR,Ansaloni
+102,4,09:39,50,48,CMO,FC,Pastor
+103,4,09:39,50,48,PIN,RO,Ansaloni
+104,4,09:39,50,48,PIN,2_Pts_T,Toledo
+105,4,10:00,50,48,,inicio_quarto,
+106,3,00:00,50,48,,fim_quarto,
+107,3,00:01,50,48,CMO,AS,Brown
+108,3,00:01,50,48,CMO,3_Pts_C,Pastor
+109,3,00:19,47,48,PIN,2_Pts_C,Toledo
+110,3,00:22,47,46,PIN,BR,Toledo
+111,3,00:22,47,46,CMO,ER,Mathias
+112,3,00:54,47,46,CMO,RD,Campo Mourão
+113,3,01:00,47,46,PIN,3_Pts_T,Ansaloni
+114,3,01:15,47,46,CMO,2_Pts_C,Pastor
+115,3,01:23,45,46,CMO,substituicao_entra,Giano
+116,3,01:23,45,46,CMO,substituicao_sai,R Biro
+117,3,01:23,45,46,PIN,substituicao_entra,Ansaloni
+118,3,01:23,45,46,PIN,substituicao_sai,Ware
+119,3,01:23,45,46,CMO,FR,César
+120,3,01:23,45,46,PIN,FC,Ware
+121,3,01:47,45,46,PIN,AS,Vitor
+122,3,01:47,45,46,PIN,3_Pts_C,Holloway
+123,3,02:05,45,43,PIN,RD,Toledo
+124,3,02:08,45,43,CMO,3_Pts_T,Brown
+125,3,02:36,45,43,PIN,AS,Vitor
+126,3,02:36,45,43,PIN,2_Pts_C,Holloway
+127,3,02:39,45,41,PIN,BR,Vitor
+128,3,02:39,45,41,CMO,ER,R Biro
+129,3,03:02,45,41,PIN,2_Pts_C,Toledo
+130,3,03:03,45,39,PIN,RO,Toledo
+131,3,03:10,45,39,CMO,TO,Mathias
+132,3,03:10,45,39,PIN,2_Pts_T,Toledo
+133,3,03:20,45,39,CMO,substituicao_entra,R Biro
+134,3,03:20,45,39,CMO,substituicao_sai,Giano
+135,3,03:20,45,39,CMO,substituicao_entra,Mathias
+136,3,03:20,45,39,CMO,substituicao_sai,Daniel Alemão
+137,3,03:20,45,39,PIN,substituicao_entra,Toledo
+138,3,03:20,45,39,PIN,substituicao_sai,Arthur
+139,3,03:20,45,39,PIN,substituicao_entra,Vitor
+140,3,03:20,45,39,PIN,substituicao_sai,Lupa
+141,3,03:28,45,39,CMO,2_Pts_C,Brown
+142,3,03:47,43,39,CMO,RD,Pastor
+143,3,03:50,43,39,PIN,2_Pts_T,Lupa
+144,3,03:52,43,39,PIN,RD,Ware
+145,3,03:55,43,39,CMO,2_Pts_T,Brown
+146,3,04:21,43,39,PIN,AS,Ware
+147,3,04:21,43,39,PIN,3_Pts_C,Ruivo
+148,3,04:35,43,36,CMO,AS,Daniel Alemão
+149,3,04:35,43,36,CMO,3_Pts_C,Giano
+150,3,04:53,40,36,CMO,RD,Daniel Alemão
+151,3,04:56,40,36,PIN,3_Pts_T,Arthur
+152,3,05:02,40,36,CMO,ER,
+153,3,05:25,40,36,CMO,tempo_tecnico,Campo Mourão
+154,3,05:25,40,36,PIN,AS,Ruivo
+155,3,05:25,40,36,PIN,2_Pts_C,Lupa
+156,3,05:30,40,34,PIN,BR,Ruivo
+157,3,05:30,40,34,CMO,ER,César
+158,3,05:53,40,34,PIN,AS,Lupa
+159,3,05:53,40,34,PIN,2_Pts_C,Ware
+160,3,06:10,40,32,PIN,RD,Ware
+161,3,06:13,40,32,CMO,3_Pts_T,Pastor
+162,3,06:24,40,32,CMO,FR,Giano
+163,3,06:24,40,32,PIN,FC,Arthur
+164,3,06:43,40,32,CMO,BR,Brown
+165,3,06:43,40,32,PIN,ER,Holloway
+166,3,06:58,40,32,CMO,substituicao_entra,Giano
+167,3,06:58,40,32,CMO,substituicao_sai,R Biro
+168,3,06:58,40,32,CMO,ER,R Biro
+169,3,07:17,40,32,CMO,RD,Pastor
+170,3,07:17,40,32,PIN,2_Pts_T,Arthur
+171,3,07:17,40,32,CMO,substituicao_entra,R Biro
+172,3,07:17,40,32,CMO,substituicao_sai,Giano
+173,3,07:17,40,32,CMO,LL_Pts_C,Brown
+174,3,07:17,39,32,CMO,LL_Pts_T,Brown
+175,3,07:17,39,32,CMO,FR,Brown
+176,3,07:17,39,32,PIN,FC,Lupa
+177,3,07:38,39,32,PIN,2_Pts_C,Arthur
+178,3,07:40,39,30,PIN,RO,Arthur
+179,3,07:41,39,30,PIN,LL_Pts_T,Lupa
+180,3,07:41,39,30,PIN,LL_Pts_T,Lupa
+181,3,07:41,39,30,PIN,FR,Lupa
+182,3,07:41,39,30,CMO,FC,Daniel Alemão
+183,3,07:44,39,30,PIN,BR,Ware
+184,3,07:44,39,30,CMO,ER,Pastor
+185,3,08:00,39,30,PIN,AS,Lupa
+186,3,08:00,39,30,PIN,3_Pts_C,Arthur
+187,3,08:11,39,27,PIN,RD,Ware
+188,3,08:14,39,27,CMO,2_Pts_T,César
+189,3,08:22,39,27,CMO,RD,Daniel Alemão
+190,3,08:25,39,27,PIN,3_Pts_T,Arthur
+191,3,08:30,39,27,PIN,RD,Holloway
+192,3,08:33,39,27,CMO,2_Pts_T,César
+193,3,08:46,39,27,PIN,substituicao_entra,Ruivo
+194,3,08:46,39,27,PIN,substituicao_sai,Bennett
+195,3,08:48,39,27,CMO,BR,Giano
+196,3,08:48,39,27,PIN,ER,Arthur
+197,3,08:54,39,27,PIN,RD,Bennett
+198,3,08:56,39,27,CMO,2_Pts_T,Brown
+199,3,09:15,39,27,PIN,BR,Lupa
+200,3,09:15,39,27,CMO,ER,Daniel Alemão
+201,3,09:27,39,27,CMO,LL_Pts_C,Brown
+202,3,09:27,38,27,CMO,FR,Brown
+203,3,09:27,38,27,PIN,FC,Bennett
+204,3,09:27,38,27,CMO,2_Pts_C,Brown
+205,3,09:28,36,27,CMO,RD,Brown
+206,3,09:30,36,27,PIN,2_Pts_T,Lupa
+207,3,09:33,36,27,PIN,RO,Lupa
+208,3,09:37,36,27,PIN,2_Pts_T,Holloway
+209,3,09:46,36,27,PIN,RO,Ware
+210,3,09:50,36,27,PIN,3_Pts_T,Arthur
+211,3,10:00,36,27,,inicio_quarto,
+212,2,00:00,36,27,,fim_quarto,
+213,2,00:05,36,27,CMO,3_Pts_T,César
+214,2,00:30,36,27,CMO,RD,Brown
+215,2,00:34,36,27,PIN,3_Pts_T,Ware
+216,2,00:47,36,27,PIN,substituicao_entra,Vitor
+217,2,00:47,36,27,PIN,substituicao_sai,Arthur
+218,2,00:47,36,27,PIN,substituicao_entra,Ruivo
+219,2,00:47,36,27,PIN,substituicao_sai,Sena
+220,2,00:47,36,27,PIN,substituicao_entra,Ware
+221,2,00:47,36,27,PIN,substituicao_sai,Bennett
+222,2,00:47,36,27,PIN,tempo_tecnico,Pinheiros
+223,2,00:47,36,27,PIN,FR,Toledo
+224,2,00:47,36,27,CMO,FC,César
+225,2,00:47,36,27,PIN,RD,Pinheiros
+226,2,00:47,36,27,CMO,3_Pts_T,Pastor
+227,2,00:47,36,27,CMO,RD,Daniel Alemão
+228,2,00:51,36,27,PIN,2_Pts_T,Sena
+229,2,00:52,36,27,PIN,RO,Sena
+230,2,01:03,36,27,PIN,2_Pts_T,Arthur
+231,2,01:12,36,27,CMO,2_Pts_C,Pastor
+232,2,01:39,34,27,PIN,AS,Bennett
+233,2,01:39,34,27,PIN,2_Pts_C,Toledo
+234,2,01:51,34,25,CMO,AS,Daniel Alemão
+235,2,01:51,34,25,CMO,2_Pts_C,Pastor
+236,2,02:06,32,25,PIN,AS,Bennett
+237,2,02:06,32,25,PIN,2_Pts_C,Holloway
+238,2,02:10,32,23,PIN,BR,Bennett
+239,2,02:10,32,23,CMO,ER,R Biro
+240,2,02:32,32,23,CMO,BR,Daniel Alemão
+241,2,02:32,32,23,PIN,ER,Arthur
+242,2,02:35,32,23,PIN,RO,Arthur
+243,2,02:38,32,23,PIN,3_Pts_T,Sena
+244,2,02:50,32,23,PIN,substituicao_entra,Holloway
+245,2,02:50,32,23,PIN,substituicao_sai,Ware
+246,2,02:50,32,23,CMO,substituicao_entra,R Biro
+247,2,02:50,32,23,CMO,substituicao_sai,Giano
+248,2,03:11,32,23,PIN,RD,Toledo
+249,2,03:15,32,23,CMO,3_Pts_T,César
+250,2,03:22,32,23,CMO,RO,César
+251,2,03:22,32,23,CMO,2_Pts_T,Giano
+252,2,03:22,32,23,CMO,RD,Giano
+253,2,03:22,32,23,PIN,2_Pts_T,Ware
+254,2,03:22,32,23,PIN,substituicao_entra,Toledo
+255,2,03:22,32,23,PIN,substituicao_sai,Lupa
+256,2,03:31,32,23,CMO,2_Pts_C,César
+257,2,03:47,30,23,CMO,RD,Brown
+258,2,03:50,30,23,PIN,3_Pts_T,Ware
+259,2,03:55,30,23,PIN,RD,Ware
+260,2,03:58,30,23,CMO,2_Pts_T,Daniel Alemão
+261,2,04:09,30,23,CMO,RD,Daniel Alemão
+262,2,04:12,30,23,PIN,2_Pts_T,Lupa
+263,2,04:31,30,23,CMO,substituicao_entra,César
+264,2,04:31,30,23,CMO,substituicao_sai,Jamail
+265,2,04:31,30,23,PIN,RD,Pinheiros
+266,2,04:34,30,23,CMO,3_Pts_T,Pastor
+267,2,04:52,30,23,PIN,substituicao_entra,Sena
+268,2,04:52,30,23,PIN,substituicao_sai,Holloway
+269,2,04:52,30,23,PIN,LL_Pts_C,Holloway
+270,2,04:52,30,22,CMO,tempo_tecnico,Campo Mourão
+271,2,04:52,30,22,PIN,FR,Holloway
+272,2,04:52,30,22,CMO,FC,Giano
+273,2,04:52,30,22,PIN,AS,Ware
+274,2,04:52,30,22,PIN,2_Pts_C,Holloway
+275,2,04:53,30,20,PIN,RD,Ware
+276,2,04:57,30,20,CMO,3_Pts_T,Giano
+277,2,05:15,30,20,CMO,substituicao_entra,Pastor
+278,2,05:15,30,20,CMO,substituicao_sai,César
+279,2,05:15,30,20,CMO,RD,Campo Mourão
+280,2,05:17,30,20,PIN,2_Pts_T,Holloway
+281,2,05:24,30,20,CMO,ER,Daniel Alemão
+282,2,05:27,30,20,CMO,BR,Jamail
+283,2,05:27,30,20,PIN,ER,Bennett
+284,2,05:34,30,20,PIN,RD,Lupa
+285,2,05:36,30,20,CMO,2_Pts_T,Brown
+286,2,05:44,30,20,CMO,RO,Brown
+287,2,05:50,30,20,CMO,3_Pts_T,Jamail
+288,2,06:14,30,20,CMO,RD,Campo Mourão
+289,2,06:17,30,20,PIN,AS,Ware
+290,2,06:17,30,20,PIN,LL_Pts_T,Holloway
+291,2,06:17,30,20,PIN,LL_Pts_C,Holloway
+292,2,06:17,30,19,CMO,substituicao_entra,Daniel Alemão
+293,2,06:17,30,19,CMO,substituicao_sai,Mathias
+294,2,06:17,30,19,PIN,FR,Holloway
+295,2,06:17,30,19,CMO,FC,Giano
+296,2,06:30,30,19,CMO,substituicao_entra,Giano
+297,2,06:30,30,19,CMO,substituicao_sai,R Biro
+298,2,06:30,30,19,PIN,RO,Pinheiros
+299,2,06:30,30,19,PIN,2_Pts_T,Holloway
+300,2,06:35,30,19,PIN,BR,Bennett
+301,2,06:35,30,19,CMO,ER,Mathias
+302,2,06:52,30,19,PIN,AS,Lupa
+303,2,06:52,30,19,PIN,2_Pts_C,Ware
+304,2,07:05,30,17,CMO,substituicao_entra,R Biro
+305,2,07:05,30,17,CMO,substituicao_sai,Giano
+306,2,07:09,30,17,PIN,RD,Pinheiros
+307,2,07:10,30,17,CMO,AS,Mathias
+308,2,07:10,30,17,CMO,LL_Pts_T,Giano
+309,2,07:10,30,17,CMO,LL_Pts_C,Giano
+310,2,07:10,29,17,CMO,LL_Pts_T,Giano
+311,2,07:10,29,17,CMO,FR,Giano
+312,2,07:10,29,17,PIN,FC,Holloway
+313,2,07:26,29,17,PIN,substituicao_entra,Lupa
+314,2,07:26,29,17,PIN,substituicao_sai,Ansaloni
+315,2,07:26,29,17,PIN,substituicao_entra,Arthur
+316,2,07:26,29,17,PIN,substituicao_sai,Ruivo
+317,2,07:26,29,17,PIN,substituicao_entra,Bennett
+318,2,07:26,29,17,PIN,substituicao_sai,Gui Bento
+319,2,07:26,29,17,CMO,FR,Jamail
+320,2,07:26,29,17,PIN,FC,Ware
+321,2,07:26,29,17,CMO,RD,Campo Mourão
+322,2,07:27,29,17,PIN,3_Pts_T,Ruivo
+323,2,07:40,29,17,PIN,RD,Ruivo
+324,2,07:43,29,17,CMO,3_Pts_T,César
+325,2,07:54,29,17,CMO,RD,Campo Mourão
+326,2,07:57,29,17,PIN,3_Pts_T,Ruivo
+327,2,08:06,29,17,PIN,RD,Ansaloni
+328,2,08:09,29,17,CMO,2_Pts_T,Jamail
+329,2,08:25,29,17,CMO,RD,Mathias
+330,2,08:28,29,17,PIN,2_Pts_T,Ansaloni
+331,2,08:43,29,17,CMO,2_Pts_C,Giano
+332,2,08:47,27,17,CMO,BR,Giano
+333,2,08:47,27,17,PIN,ER,Ware
+334,2,09:03,27,17,CMO,AS,Brown
+335,2,09:03,27,17,CMO,3_Pts_C,Jamail
+336,2,09:24,24,17,PIN,2_Pts_C,Ware
+337,2,09:26,24,15,PIN,RO,Ware
+338,2,09:31,24,15,PIN,2_Pts_T,Ansaloni
+339,2,09:41,24,15,CMO,2_Pts_C,Brown
+340,2,10:00,22,15,,inicio_quarto,
+341,1,00:00,22,15,,fim_quarto,
+342,1,00:01,22,15,CMO,RD,Brown
+343,1,00:01,22,15,PIN,2_Pts_T,Ansaloni
+344,1,00:03,22,15,PIN,RD,Toledo
+345,1,00:07,22,15,CMO,AS,Brown
+346,1,00:07,22,15,CMO,LL_Pts_T,Mathias
+347,1,00:07,22,15,CMO,LL_Pts_C,Mathias
+348,1,00:07,21,15,CMO,FR,Mathias
+349,1,00:07,21,15,PIN,FC,Toledo
+350,1,00:26,21,15,CMO,substituicao_entra,Brown
+351,1,00:26,21,15,CMO,substituicao_sai,R Biro
+352,1,00:26,21,15,PIN,AS,Holloway
+353,1,00:26,21,15,PIN,LL_Pts_C,Ansaloni
+354,1,00:26,21,14,PIN,LL_Pts_C,Ansaloni
+355,1,00:26,21,13,PIN,FR,Ansaloni
+356,1,00:26,21,13,CMO,FC,Mathias
+357,1,00:40,21,13,PIN,FR,Holloway
+358,1,00:40,21,13,CMO,FC,R Biro
+359,1,00:40,21,13,PIN,RD,Holloway
+360,1,00:41,21,13,CMO,3_Pts_T,Jamail
+361,1,00:55,21,13,PIN,substituicao_entra,Holloway
+362,1,00:55,21,13,PIN,substituicao_sai,Bennett
+363,1,00:55,21,13,CMO,FR,Giano
+364,1,00:55,21,13,PIN,FC,Bennett
+365,1,00:55,21,13,CMO,RD,Giano
+366,1,00:58,21,13,PIN,3_Pts_T,Gui Bento
+367,1,01:11,21,13,PIN,substituicao_entra,Gui Bento
+368,1,01:11,21,13,PIN,substituicao_sai,Arthur
+369,1,01:11,21,13,PIN,FR,Toledo
+370,1,01:11,21,13,CMO,FC,Mathias
+371,1,01:11,21,13,PIN,BR,Ansaloni
+372,1,01:11,21,13,CMO,ER,Jamail
+373,1,01:16,21,13,CMO,RD,César
+374,1,01:21,21,13,PIN,3_Pts_T,Bennett
+375,1,01:39,21,13,PIN,tempo_tecnico,Pinheiros
+376,1,01:39,21,13,CMO,2_Pts_C,Giano
+377,1,01:42,19,13,CMO,BR,Mathias
+378,1,01:42,19,13,PIN,ER,Ansaloni
+379,1,01:55,19,13,CMO,substituicao_entra,Giano
+380,1,01:55,19,13,CMO,substituicao_sai,Brown
+381,1,01:55,19,13,CMO,substituicao_entra,César
+382,1,01:55,19,13,CMO,substituicao_sai,Pastor
+383,1,01:55,19,13,PIN,RO,Pinheiros
+384,1,02:00,19,13,PIN,3_Pts_T,Ansaloni
+385,1,02:05,19,13,PIN,RD,Ansaloni
+386,1,02:09,19,13,CMO,2_Pts_T,R Biro
+387,1,02:27,19,13,CMO,substituicao_entra,Mathias
+388,1,02:27,19,13,CMO,substituicao_sai,Daniel Alemão
+389,1,02:27,19,13,PIN,substituicao_entra,Toledo
+390,1,02:27,19,13,PIN,substituicao_sai,Lupa
+391,1,02:29,19,13,CMO,RD,Brown
+392,1,02:33,19,13,PIN,3_Pts_T,Arthur
+393,1,02:51,19,13,CMO,2_Pts_C,Daniel Alemão
+394,1,03:19,17,13,PIN,2_Pts_C,Arthur
+395,1,03:23,17,11,CMO,substituicao_entra,R Biro
+396,1,03:23,17,11,CMO,substituicao_sai,Giano
+397,1,03:23,17,11,PIN,FR,Bennett
+398,1,03:23,17,11,CMO,FC,Pastor
+399,1,03:39,17,11,CMO,AS,Giano
+400,1,03:39,17,11,CMO,3_Pts_C,Pastor
+401,1,04:05,14,11,PIN,AS,Lupa
+402,1,04:05,14,11,PIN,2_Pts_C,Ansaloni
+403,1,04:12,14,9,PIN,BR,Ruivo
+404,1,04:12,14,9,CMO,ER,Giano
+405,1,04:17,14,9,CMO,BR,Giano
+406,1,04:17,14,9,PIN,ER,Arthur
+407,1,04:34,14,9,CMO,AS,Brown
+408,1,04:34,14,9,CMO,2_Pts_C,Giano
+409,1,04:53,12,9,PIN,AS,Ansaloni
+410,1,04:53,12,9,PIN,3_Pts_C,Ruivo
+411,1,05:03,12,6,CMO,LL_Pts_C,Brown
+412,1,05:03,11,6,CMO,substituicao_entra,Jamail
+413,1,05:03,11,6,CMO,substituicao_sai,César
+414,1,05:03,11,6,PIN,substituicao_entra,Ruivo
+415,1,05:03,11,6,PIN,substituicao_sai,Holloway
+416,1,05:03,11,6,PIN,substituicao_entra,Ansaloni
+417,1,05:03,11,6,PIN,substituicao_sai,Ware
+418,1,05:03,11,6,CMO,FR,Brown
+419,1,05:03,11,6,PIN,FC,Bennett
+420,1,05:03,11,6,CMO,2_Pts_C,Brown
+421,1,05:04,9,6,CMO,RD,Brown
+422,1,05:08,9,6,PIN,3_Pts_T,Holloway
+423,1,05:20,9,6,CMO,AS,Pastor
+424,1,05:20,9,6,CMO,2_Pts_C,Daniel Alemão
+425,1,05:40,7,6,PIN,AS,Lupa
+426,1,05:40,7,6,PIN,2_Pts_C,Ware
+427,1,05:44,7,4,PIN,BR,Holloway
+428,1,05:44,7,4,CMO,ER,Giano
+429,1,05:47,7,4,CMO,RD,Giano
+430,1,05:51,7,4,PIN,3_Pts_T,Arthur
+431,1,06:09,7,4,CMO,2_Pts_C,Giano
+432,1,06:27,5,4,PIN,2_Pts_C,Arthur
+433,1,06:49,5,2,CMO,ER,Brown
+434,1,07:00,5,2,CMO,RD,César
+435,1,07:04,5,2,PIN,2_Pts_T,Ware
+436,1,07:09,5,2,PIN,RD,Bennett
+437,1,07:13,5,2,CMO,2_Pts_T,César
+438,1,07:15,5,2,CMO,RD,Pastor
+439,1,07:20,5,2,PIN,2_Pts_T,Ware
+440,1,07:21,5,2,PIN,RO,Ware
+441,1,07:24,5,2,PIN,2_Pts_T,Holloway
+442,1,07:36,5,2,CMO,2_Pts_C,César
+443,1,07:43,3,2,CMO,BR,Daniel Alemão
+444,1,07:43,3,2,PIN,ER,Arthur
+445,1,08:05,3,2,PIN,RD,Lupa
+446,1,08:06,3,2,CMO,LL_Pts_T,César
+447,1,08:06,3,2,CMO,LL_Pts_C,César
+448,1,08:06,2,2,CMO,FR,César
+449,1,08:06,2,2,PIN,FC,Ware
+450,1,08:31,2,2,CMO,FR,Daniel Alemão
+451,1,08:31,2,2,PIN,FC,Holloway
+452,1,08:31,2,2,CMO,RD,Campo Mourão
+453,1,08:31,2,2,PIN,2_Pts_T,Holloway
+454,1,08:47,2,2,PIN,RD,Lupa
+455,1,08:50,2,2,CMO,2_Pts_T,Daniel Alemão
+456,1,09:12,2,2,PIN,AS,Holloway
+457,1,09:12,2,2,PIN,2_Pts_C,Lupa
+458,1,09:23,2,0,CMO,2_Pts_C,Pastor
+459,1,09:24,0,0,CMO,RO,Pastor
+460,1,09:31,0,0,PIN,TO,Holloway
+461,1,09:31,0,0,CMO,3_Pts_T,Giano
+462,1,09:43,0,0,CMO,RD,Daniel Alemão
+463,1,09:47,0,0,PIN,2_Pts_T,Ware
+464,1,10:00,0,0,PIN,substituicao_entra,Arthur
+465,1,10:00,0,0,PIN,substituicao_entra,Holloway
+466,1,10:00,0,0,PIN,substituicao_entra,Lupa
+467,1,10:00,0,0,PIN,substituicao_entra,Ware
+468,1,10:00,0,0,PIN,substituicao_entra,Bennett
+469,1,10:00,0,0,CMO,substituicao_entra,César
+470,1,10:00,0,0,CMO,substituicao_entra,Daniel Alemão
+471,1,10:00,0,0,CMO,substituicao_entra,Giano
+472,1,10:00,0,0,CMO,substituicao_entra,Pastor
+473,1,10:00,0,0,CMO,substituicao_entra,Brown

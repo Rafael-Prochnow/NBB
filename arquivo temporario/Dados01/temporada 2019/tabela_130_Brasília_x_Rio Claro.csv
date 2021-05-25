@@ -1,0 +1,545 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,87,92,,fim_partida,
+1,4,00:00,87,92,,fim_quarto,
+2,4,00:04,87,92,BSB,3_Pts_T,Nezinho
+3,4,00:07,87,92,BSB,BR,Arthur
+4,4,00:07,87,92,RCB,ER,Sahdi
+5,4,00:15,87,92,BSB,2_Pts_C,Arthur
+6,4,00:16,85,92,BSB,RO,Arthur
+7,4,00:19,85,92,BSB,3_Pts_T,Nezinho
+8,4,00:23,85,92,BSB,RO,Ronald
+9,4,00:23,85,92,BSB,LL_Pts_T,Nezinho
+10,4,00:23,85,92,BSB,LL_Pts_C,Nezinho
+11,4,00:23,84,92,RCB,substituicao_entra,Sahdi
+12,4,00:23,84,92,RCB,substituicao_sai,Figueroa
+13,4,00:23,84,92,BSB,FR,Nezinho
+14,4,00:23,84,92,RCB,FC,Baxley
+15,4,00:27,84,92,RCB,LL_Pts_C,Baxley
+16,4,00:27,84,91,RCB,LL_Pts_C,Baxley
+17,4,00:27,84,90,BSB,substituicao_entra,B Fiorotto
+18,4,00:27,84,90,BSB,substituicao_sai,José Carlos
+19,4,00:27,84,90,RCB,FR,Baxley
+20,4,00:27,84,90,BSB,FC,Rafa Moreira
+21,4,00:29,84,90,BSB,AS,Arthur
+22,4,00:29,84,90,BSB,2_Pts_C,Ronald
+23,4,00:34,82,90,RCB,substituicao_entra,Figueroa
+24,4,00:34,82,90,RCB,substituicao_sai,Sahdi
+25,4,00:34,82,90,BSB,substituicao_entra,José Carlos
+26,4,00:34,82,90,BSB,substituicao_entra,Arthur
+27,4,00:34,82,90,BSB,substituicao_sai,B Fiorotto
+28,4,00:34,82,90,BSB,substituicao_sai,P Rava
+29,4,00:34,82,90,BSB,tempo_tecnico,Universo/Brasília
+30,4,00:34,82,90,RCB,LL_Pts_C,Sahdi
+31,4,00:34,82,89,RCB,LL_Pts_C,Sahdi
+32,4,00:34,82,88,RCB,FR,Sahdi
+33,4,00:34,82,88,BSB,FC,Nezinho
+34,4,00:34,82,88,RCB,tempo_tecnico,Rio Claro
+35,4,00:34,82,88,RCB,substituicao_entra,Sahdi
+36,4,00:34,82,88,RCB,substituicao_sai,Figueroa
+37,4,00:34,82,88,BSB,substituicao_entra,P Rava
+38,4,00:34,82,88,BSB,substituicao_sai,Arthur
+39,4,00:34,82,88,BSB,AS,Arthur
+40,4,00:34,82,88,BSB,2_Pts_C,B Fiorotto
+41,4,00:47,80,88,RCB,2_Pts_C,Baxley
+42,4,01:06,80,86,RCB,RD,Figueroa
+43,4,01:09,80,86,BSB,3_Pts_T,Arthur
+44,4,01:13,80,86,BSB,tempo_tecnico,Universo/Brasília
+45,4,01:16,80,86,RCB,2_Pts_C,Baxley
+46,4,01:21,80,84,RCB,RO,Figueroa
+47,4,01:25,80,84,RCB,3_Pts_T,Baxley
+48,4,01:42,80,84,BSB,2_Pts_C,B Fiorotto
+49,4,01:43,78,84,BSB,RO,B Fiorotto
+50,4,01:48,78,84,BSB,2_Pts_T,Nezinho
+51,4,02:01,78,84,RCB,LL_Pts_C,Baxley
+52,4,02:01,78,83,RCB,LL_Pts_C,Baxley
+53,4,02:01,78,82,RCB,substituicao_entra,Figueroa
+54,4,02:01,78,82,RCB,substituicao_sai,Sahdi
+55,4,02:01,78,82,RCB,FR,Baxley
+56,4,02:01,78,82,BSB,FC,B Fiorotto
+57,4,02:18,78,82,BSB,LL_Pts_C,B Fiorotto
+58,4,02:18,77,82,BSB,LL_Pts_C,B Fiorotto
+59,4,02:18,76,82,RCB,substituicao_entra,Sahdi
+60,4,02:18,76,82,RCB,substituicao_sai,Figueroa
+61,4,02:18,76,82,BSB,FR,B Fiorotto
+62,4,02:18,76,82,RCB,FC,Pastor
+63,4,03:31,76,82,RCB,2_Pts_C,Baxley
+64,4,03:37,76,80,RCB,BR,Ruiz
+65,4,03:37,76,80,BSB,ER,B Fiorotto
+66,4,03:44,76,80,BSB,FR,Nezinho
+67,4,03:44,76,80,RCB,FC,Figueroa
+68,4,03:44,76,80,RCB,substituicao_entra,Figueroa
+69,4,03:44,76,80,RCB,substituicao_entra,Gerson
+70,4,03:44,76,80,RCB,substituicao_sai,Sahdi
+71,4,03:44,76,80,RCB,substituicao_sai,Ansaloni
+72,4,03:44,76,80,BSB,substituicao_entra,Arthur
+73,4,03:44,76,80,BSB,substituicao_sai,P Rava
+74,4,03:52,76,80,RCB,2_Pts_C,Baxley
+75,4,03:59,76,78,BSB,2_Pts_C,B Fiorotto
+76,4,03:59,74,78,BSB,FR,Rafa Moreira
+77,4,03:59,74,78,RCB,FC,Ansaloni
+78,4,04:02,74,78,BSB,BR,Nezinho
+79,4,04:02,74,78,RCB,ER,Sahdi
+80,4,04:19,74,78,BSB,AS,B Fiorotto
+81,4,04:19,74,78,BSB,2_Pts_C,Ronald
+82,4,04:40,72,78,RCB,3_Pts_C,Baxley
+83,4,04:49,72,75,BSB,AS,Nezinho
+84,4,04:49,72,75,BSB,3_Pts_C,Rafa Moreira
+85,4,05:03,69,75,RCB,AS,Sahdi
+86,4,05:03,69,75,RCB,3_Pts_C,Ruiz
+87,4,05:15,69,72,RCB,LL_Pts_C,Sahdi
+88,4,05:15,69,71,RCB,substituicao_entra,Baxley
+89,4,05:15,69,71,RCB,substituicao_sai,Figueroa
+90,4,05:15,69,71,BSB,FC_T,B Fiorotto
+91,4,05:19,69,71,BSB,2_Pts_C,Nezinho
+92,4,05:36,67,71,BSB,RD,Nezinho
+93,4,05:39,67,71,RCB,3_Pts_T,Figueroa
+94,4,05:48,67,71,RCB,FR,Sahdi
+95,4,05:48,67,71,BSB,FC,Rafa Moreira
+96,4,06:00,67,71,BSB,2_Pts_C,B Fiorotto
+97,4,06:01,65,71,BSB,RO,B Fiorotto
+98,4,06:05,65,71,BSB,3_Pts_T,Nezinho
+99,4,06:15,65,71,BSB,RD,B Fiorotto
+100,4,06:18,65,71,RCB,2_Pts_T,Figueroa
+101,4,06:40,65,71,BSB,AS,P Rava
+102,4,06:40,65,71,BSB,2_Pts_C,Rafa Moreira
+103,4,06:58,63,71,BSB,tempo_tecnico,Universo/Brasília
+104,4,07:03,63,71,RCB,2_Pts_C,Sahdi
+105,4,07:05,63,69,RCB,RD,Sahdi
+106,4,07:09,63,69,BSB,,
+107,4,07:21,63,69,RCB,substituicao_entra,Figueroa
+108,4,07:21,63,69,RCB,substituicao_entra,Ansaloni
+109,4,07:21,63,69,RCB,substituicao_sai,Pedro
+110,4,07:21,63,69,RCB,substituicao_sai,Gerson
+111,4,07:21,63,69,BSB,FR,B Fiorotto
+112,4,07:21,63,69,RCB,ER,Gerson
+113,4,07:21,63,69,RCB,FC_O,Gerson
+114,4,07:40,63,69,BSB,2_Pts_C,Rafa Moreira
+115,4,07:47,61,69,RCB,AS,Pedro
+116,4,07:47,61,69,RCB,3_Pts_C,Sahdi
+117,4,07:50,61,66,RCB,RD,Pedro
+118,4,07:53,61,66,BSB,2_Pts_T,B Fiorotto
+119,4,07:53,61,66,BSB,RO,B Fiorotto
+120,4,08:00,61,66,BSB,2_Pts_T,B Fiorotto
+121,4,08:01,61,66,BSB,RO,B Fiorotto
+122,4,08:04,61,66,BSB,2_Pts_T,Nezinho
+123,4,08:12,61,66,BSB,RO,Ronald
+124,4,08:13,61,66,BSB,2_Pts_T,Nezinho
+125,4,08:20,61,66,BSB,RD,Nezinho
+126,4,08:23,61,66,RCB,3_Pts_T,Sahdi
+127,4,08:36,61,66,BSB,substituicao_entra,P Rava
+128,4,08:36,61,66,BSB,substituicao_sai,Arthur
+129,4,08:36,61,66,RCB,FR,Sahdi
+130,4,08:36,61,66,BSB,FC,Arthur
+131,4,08:45,61,66,RCB,RD,Pastor
+132,4,08:45,61,66,BSB,LL_Pts_T,Nezinho
+133,4,08:45,61,66,BSB,LL_Pts_T,Nezinho
+134,4,08:45,61,66,RCB,tempo_tecnico,Rio Claro
+135,4,08:45,61,66,BSB,FR,Nezinho
+136,4,08:45,61,66,RCB,FC,Sahdi
+137,4,08:56,61,66,BSB,BR,B Fiorotto
+138,4,08:56,61,66,RCB,ER,Sahdi
+139,4,09:02,61,66,BSB,AS,Nezinho
+140,4,09:02,61,66,BSB,2_Pts_C,Ronald
+141,4,09:22,59,66,RCB,2_Pts_C,Sahdi
+142,4,09:27,59,64,RCB,BR,Sahdi
+143,4,09:27,59,64,BSB,ER,Nezinho
+144,4,09:29,59,64,BSB,RD,Ronald
+145,4,09:31,59,64,RCB,3_Pts_T,Ruiz
+146,4,09:47,59,64,RCB,RO,Rio Claro
+147,4,09:47,59,64,RCB,2_Pts_T,Pastor
+148,4,10:00,59,64,,inicio_quarto,
+149,3,00:00,59,64,,fim_quarto,
+150,3,00:03,59,64,BSB,3_Pts_T,Nezinho
+151,3,00:14,59,64,BSB,RD,Nezinho
+152,3,00:14,59,64,RCB,3_Pts_T,Baxley
+153,3,00:14,59,64,RCB,RO,Figueroa
+154,3,00:14,59,64,RCB,2_Pts_T,Gerson
+155,3,00:14,59,64,RCB,RO,Gerson
+156,3,00:14,59,64,RCB,2_Pts_T,Baxley
+157,3,00:38,59,64,BSB,AS,Nezinho
+158,3,00:38,59,64,BSB,2_Pts_C,Rafa Moreira
+159,3,00:44,57,64,BSB,BR,Rafa Moreira
+160,3,00:44,57,64,RCB,ER,Pedro
+161,3,01:01,57,64,BSB,LL_Pts_C,Nezinho
+162,3,01:01,56,64,BSB,LL_Pts_C,Nezinho
+163,3,01:01,55,64,BSB,FR,Nezinho
+164,3,01:01,55,64,RCB,FC,Figueroa
+165,3,01:17,55,64,RCB,AS,Pastor
+166,3,01:17,55,64,RCB,3_Pts_C,Pedro
+167,3,01:29,55,61,RCB,RD,Rio Claro
+168,3,01:29,55,61,BSB,,
+169,3,01:29,55,61,BSB,RO,Ronald
+170,3,01:31,55,61,BSB,2_Pts_T,Gui Bento
+171,3,01:32,55,61,BSB,RO,Gui Bento
+172,3,01:36,55,61,BSB,3_Pts_T,Rafa Moreira
+173,3,01:46,55,61,RCB,substituicao_entra,Gerson
+174,3,01:46,55,61,RCB,substituicao_sai,Ansaloni
+175,3,01:46,55,61,BSB,FR,Gui Bento
+176,3,01:46,55,61,RCB,ER,Ansaloni
+177,3,01:46,55,61,RCB,FC_O,Ansaloni
+178,3,01:58,55,61,BSB,2_Pts_C,B Fiorotto
+179,3,02:17,53,61,BSB,substituicao_entra,Nezinho
+180,3,02:17,53,61,BSB,substituicao_sai,P Rava
+181,3,02:17,53,61,RCB,LL_Pts_C,Baxley
+182,3,02:17,53,60,RCB,LL_Pts_T,Baxley
+183,3,02:17,53,60,RCB,FR,Baxley
+184,3,02:17,53,60,BSB,FC,Rafa Moreira
+185,3,02:35,53,60,RCB,FR,Pastor
+186,3,02:35,53,60,BSB,ER,Gui Bento
+187,3,02:35,53,60,BSB,FC_O,Gui Bento
+188,3,02:38,53,60,BSB,RO,B Fiorotto
+189,3,02:42,53,60,BSB,3_Pts_T,Rafa Moreira
+190,3,03:00,53,60,RCB,2_Pts_C,Baxley
+191,3,03:12,53,58,RCB,LL_Pts_T,Pedro
+192,3,03:12,53,58,BSB,FC_T,Universo/Brasília
+193,3,03:12,53,58,RCB,RD,Baxley
+194,3,03:13,53,58,BSB,2_Pts_T,Ronald
+195,3,03:20,53,58,BSB,RD,B Fiorotto
+196,3,03:23,53,58,RCB,2_Pts_T,Baxley
+197,3,03:41,53,58,RCB,FR,Pastor
+198,3,03:41,53,58,BSB,ER,Ronald
+199,3,03:41,53,58,BSB,FC_O,Ronald
+200,3,04:04,53,58,BSB,RD,Ronald
+201,3,04:07,53,58,RCB,3_Pts_T,Ansaloni
+202,3,04:12,53,58,BSB,LL_Pts_C,Ronald
+203,3,04:13,52,58,BSB,LL_Pts_C,Ronald
+204,3,04:13,51,58,BSB,FR,Ronald
+205,3,04:13,51,58,RCB,FC,Baxley
+206,3,04:13,51,58,RCB,LL_Pts_T,Baxley
+207,3,04:13,51,58,BSB,ER,
+208,3,04:13,51,58,BSB,FC_T,Universo/Brasília
+209,3,04:26,51,58,RCB,LL_Pts_C,Baxley
+210,3,04:26,51,57,RCB,LL_Pts_C,Baxley
+211,3,04:26,51,56,BSB,substituicao_entra,Rafa Moreira
+212,3,04:26,51,56,BSB,substituicao_sai,Arthur
+213,3,04:26,51,56,RCB,FR,Baxley
+214,3,04:26,51,56,BSB,FC,Arthur
+215,3,04:49,51,56,BSB,2_Pts_C,Arthur
+216,3,04:53,49,56,BSB,BR,P Rava
+217,3,04:53,49,56,RCB,ER,Ansaloni
+218,3,04:54,49,56,RCB,RD,Ansaloni
+219,3,04:58,49,56,BSB,2_Pts_T,Ronald
+220,3,05:14,49,56,RCB,AS,Figueroa
+221,3,05:14,49,56,RCB,3_Pts_C,Pastor
+222,3,05:29,49,53,BSB,substituicao_entra,Gui Bento
+223,3,05:29,49,53,BSB,substituicao_sai,Nezinho
+224,3,05:29,49,53,BSB,LL_Pts_C,B Fiorotto
+225,3,05:29,48,53,BSB,LL_Pts_C,B Fiorotto
+226,3,05:29,47,53,BSB,FR,B Fiorotto
+227,3,05:29,47,53,RCB,FC,Pastor
+228,3,05:42,47,53,RCB,AS,Ansaloni
+229,3,05:42,47,53,RCB,3_Pts_C,Pedro
+230,3,05:53,47,50,RCB,FR,Pedro
+231,3,05:53,47,50,BSB,FC,Arthur
+232,3,06:03,47,50,RCB,substituicao_entra,Baxley
+233,3,06:03,47,50,RCB,substituicao_entra,Ansaloni
+234,3,06:03,47,50,RCB,substituicao_sai,Ruiz
+235,3,06:03,47,50,RCB,substituicao_sai,Lucão
+236,3,06:03,47,50,BSB,substituicao_entra,B Fiorotto
+237,3,06:03,47,50,BSB,substituicao_sai,Rafa Moreira
+238,3,06:13,47,50,BSB,3_Pts_C,Arthur
+239,3,06:31,44,50,BSB,RD,Universo/Brasília
+240,3,06:31,44,50,RCB,3_Pts_T,Ruiz
+241,3,06:48,44,50,RCB,FR,Figueroa
+242,3,06:48,44,50,BSB,FC,Nezinho
+243,3,07:09,44,50,BSB,LL_Pts_C,Ronald
+244,3,07:09,43,50,BSB,AS,Nezinho
+245,3,07:09,43,50,BSB,LL_Pts_C,Ronald
+246,3,07:09,42,50,BSB,FR,Ronald
+247,3,07:09,42,50,RCB,FC,Lucão
+248,3,07:19,42,50,BSB,FR,Nezinho
+249,3,07:19,42,50,RCB,FC,Figueroa
+250,3,07:24,42,50,RCB,substituicao_entra,Lucão
+251,3,07:24,42,50,RCB,substituicao_sai,Gerson
+252,3,07:24,42,50,BSB,FR,Ronald
+253,3,07:24,42,50,RCB,FC,Gerson
+254,3,07:31,42,50,BSB,RO,Universo/Brasília
+255,3,07:31,42,50,BSB,2_Pts_T,Arthur
+256,3,07:45,42,50,RCB,substituicao_entra,Pedro
+257,3,07:45,42,50,RCB,substituicao_sai,Sahdi
+258,3,07:45,42,50,BSB,FR,Rafa Moreira
+259,3,07:45,42,50,RCB,FC,Sahdi
+260,3,08:03,42,50,RCB,AS,Sahdi
+261,3,08:03,42,50,RCB,EN,Gerson
+262,3,08:07,42,48,RCB,RD,Pastor
+263,3,08:12,42,48,BSB,3_Pts_T,Rafa Moreira
+264,3,08:18,42,48,BSB,RD,Ronald
+265,3,08:22,42,48,RCB,3_Pts_T,Sahdi
+266,3,08:30,42,48,RCB,BR,Sahdi
+267,3,08:30,42,48,BSB,ER,Rafa Moreira
+268,3,08:37,42,48,BSB,RD,Nezinho
+269,3,08:42,42,48,RCB,3_Pts_T,Ruiz
+270,3,08:56,42,48,BSB,AS,Arthur
+271,3,08:56,42,48,BSB,LL_Pts_C,Ronald
+272,3,08:56,41,48,BSB,LL_Pts_T,Ronald
+273,3,08:56,41,48,BSB,FR,Ronald
+274,3,08:56,41,48,RCB,FC,Sahdi
+275,3,09:05,41,48,BSB,RD,Nezinho
+276,3,09:08,41,48,RCB,3_Pts_T,Pastor
+277,3,09:27,41,48,RCB,FR,Gerson
+278,3,09:27,41,48,BSB,FC,Ronald
+279,3,09:27,41,48,BSB,RO,Ronald
+280,3,09:27,41,48,BSB,2_Pts_T,Nezinho
+281,3,09:32,41,48,BSB,RD,Rafa Moreira
+282,3,09:37,41,48,RCB,2_Pts_T,Gerson
+283,3,09:42,41,48,RCB,RD,Figueroa
+284,3,09:46,41,48,BSB,3_Pts_T,Nezinho
+285,3,10:00,41,48,,inicio_quarto,
+286,2,00:00,41,48,,fim_quarto,
+287,2,00:03,41,48,RCB,3_Pts_T,Ruiz
+288,2,00:07,41,48,RCB,BR,Ruiz
+289,2,00:07,41,48,BSB,ER,Nezinho
+290,2,00:10,41,48,BSB,RD,Ronald
+291,2,00:10,41,48,RCB,2_Pts_T,Gerson
+292,2,00:28,41,48,RCB,substituicao_entra,Gerson
+293,2,00:28,41,48,RCB,substituicao_sai,Lucão
+294,2,00:28,41,48,BSB,ER,Arthur
+295,2,00:36,41,48,RCB,substituicao_entra,Lucão
+296,2,00:36,41,48,RCB,substituicao_sai,Ansaloni
+297,2,00:36,41,48,RCB,ER,Ansaloni
+298,2,00:48,41,48,RCB,RD,Pastor
+299,2,00:51,41,48,BSB,3_Pts_T,Nezinho
+300,2,01:11,41,48,RCB,AS,Sahdi
+301,2,01:11,41,48,RCB,2_Pts_C,Ruiz
+302,2,01:23,41,46,BSB,LL_Pts_C,Ronald
+303,2,01:23,40,46,BSB,LL_Pts_C,Ronald
+304,2,01:23,39,46,RCB,tempo_tecnico,Rio Claro
+305,2,01:23,39,46,BSB,FR,Ronald
+306,2,01:23,39,46,RCB,FC,Ansaloni
+307,2,01:23,39,46,BSB,AS,Nezinho
+308,2,01:23,39,46,BSB,3_Pts_C,Rafa Moreira
+309,2,01:30,36,46,BSB,RD,Ronald
+310,2,01:35,36,46,RCB,2_Pts_T,Baxley
+311,2,01:51,36,46,BSB,AS,P Rava
+312,2,01:51,36,46,BSB,3_Pts_C,Arthur
+313,2,02:01,33,46,BSB,RD,Arthur
+314,2,02:05,33,46,RCB,3_Pts_T,Ruiz
+315,2,02:20,33,46,RCB,FR,Sahdi
+316,2,02:20,33,46,BSB,FC,P Rava
+317,2,02:20,33,46,RCB,RD,Pastor
+318,2,02:23,33,46,BSB,3_Pts_T,Ronald
+319,2,02:45,33,46,RCB,AS,Sahdi
+320,2,02:45,33,46,RCB,2_Pts_C,Pastor
+321,2,02:58,33,44,BSB,ER,
+322,2,03:24,33,44,RCB,2_Pts_C,Sahdi
+323,2,03:41,33,42,BSB,AS,Nezinho
+324,2,03:41,33,42,BSB,3_Pts_C,Arthur
+325,2,03:56,30,42,RCB,2_Pts_C,Ansaloni
+326,2,03:57,30,40,RCB,RO,Ansaloni
+327,2,04:00,30,40,RCB,2_Pts_T,Ansaloni
+328,2,04:15,30,40,BSB,LL_Pts_C,Nezinho
+329,2,04:15,29,40,BSB,LL_Pts_C,Nezinho
+330,2,04:15,28,40,BSB,FR,Nezinho
+331,2,04:15,28,40,RCB,FC,Baxley
+332,2,04:30,28,40,BSB,tempo_tecnico,Universo/Brasília
+333,2,04:36,28,40,RCB,3_Pts_C,Sahdi
+334,2,04:40,28,37,RCB,RD,Ansaloni
+335,2,04:43,28,37,BSB,2_Pts_T,Ronald
+336,2,05:00,28,37,RCB,AS,Sahdi
+337,2,05:00,28,37,RCB,2_Pts_C,Pastor
+338,2,05:03,28,35,RCB,RD,Sahdi
+339,2,05:06,28,35,BSB,3_Pts_T,Arthur
+340,2,05:21,28,35,RCB,3_Pts_C,Sahdi
+341,2,05:28,28,32,RCB,RD,Pastor
+342,2,05:28,28,32,BSB,LL_Pts_T,Rafa Moreira
+343,2,05:28,28,32,BSB,AS,P Rava
+344,2,05:28,28,32,BSB,LL_Pts_C,Rafa Moreira
+345,2,05:28,27,32,BSB,FR,Rafa Moreira
+346,2,05:28,27,32,RCB,FC,Ansaloni
+347,2,05:29,27,32,BSB,RD,P Rava
+348,2,05:32,27,32,RCB,3_Pts_T,Ansaloni
+349,2,05:44,27,32,BSB,AS,Nezinho
+350,2,05:44,27,32,BSB,2_Pts_C,Arthur
+351,2,06:00,25,32,BSB,substituicao_entra,P Rava
+352,2,06:00,25,32,BSB,substituicao_sai,Gui Bento
+353,2,06:00,25,32,BSB,tempo_tecnico,Universo/Brasília
+354,2,06:00,25,32,RCB,3_Pts_C,Sahdi
+355,2,06:20,25,29,RCB,RD,Ansaloni
+356,2,06:20,25,29,BSB,2_Pts_T,Gui Bento
+357,2,06:31,25,29,RCB,2_Pts_C,Pastor
+358,2,06:37,25,27,RCB,RD,Pastor
+359,2,06:42,25,27,BSB,2_Pts_T,Ronald
+360,2,07:06,25,27,RCB,ER,Ansaloni
+361,2,07:20,25,27,BSB,LL_Pts_C,Ronald
+362,2,07:20,24,27,BSB,LL_Pts_T,Ronald
+363,2,07:20,24,27,BSB,FR,Ronald
+364,2,07:20,24,27,RCB,FC,Ansaloni
+365,2,07:41,24,27,RCB,AS,Sahdi
+366,2,07:41,24,27,RCB,3_Pts_C,Ruiz
+367,2,07:53,24,24,BSB,substituicao_entra,Rafa Moreira
+368,2,07:53,24,24,BSB,substituicao_sai,B Fiorotto
+369,2,07:53,24,24,BSB,substituicao_entra,Arthur
+370,2,07:53,24,24,BSB,substituicao_sai,P Rava
+371,2,07:53,24,24,RCB,FR,Sahdi
+372,2,07:53,24,24,BSB,ER,B Fiorotto
+373,2,07:53,24,24,BSB,FC_O,B Fiorotto
+374,2,08:07,24,24,RCB,AS,Sahdi
+375,2,08:07,24,24,RCB,3_Pts_C,Ruiz
+376,2,08:15,24,21,RCB,FR,Ruiz
+377,2,08:15,24,21,BSB,FC,Nezinho
+378,2,08:19,24,21,RCB,substituicao_entra,Ansaloni
+379,2,08:19,24,21,RCB,substituicao_sai,Gerson
+380,2,08:42,24,21,BSB,AS,P Rava
+381,2,08:42,24,21,BSB,2_Pts_C,B Fiorotto
+382,2,08:55,22,21,BSB,FR,Ronald
+383,2,08:55,22,21,RCB,FC,Gerson
+384,2,08:55,22,21,BSB,RO,Universo/Brasília
+385,2,08:55,22,21,BSB,2_Pts_T,B Fiorotto
+386,2,09:08,22,21,RCB,ER,Gerson
+387,2,09:21,22,21,RCB,FR,Gerson
+388,2,09:21,22,21,BSB,FC,Gui Bento
+389,2,09:21,22,21,RCB,RD,Gerson
+390,2,09:21,22,21,BSB,2_Pts_T,Ronald
+391,2,09:31,22,21,BSB,FR,B Fiorotto
+392,2,09:31,22,21,RCB,FC,Pastor
+393,2,09:43,22,21,BSB,RD,B Fiorotto
+394,2,09:46,22,21,RCB,2_Pts_T,Gerson
+395,2,10:00,22,21,,inicio_quarto,
+396,1,00:00,22,21,,fim_quarto,
+397,1,00:03,22,21,BSB,3_Pts_T,P Rava
+398,1,00:05,22,21,RCB,LL_Pts_C,Figueroa
+399,1,00:05,22,20,RCB,LL_Pts_T,Figueroa
+400,1,00:05,22,20,RCB,substituicao_entra,Pastor
+401,1,00:05,22,20,RCB,substituicao_sai,Ansaloni
+402,1,00:05,22,20,RCB,FR,Figueroa
+403,1,00:05,22,20,BSB,FC,Gabriel
+404,1,00:13,22,20,RCB,FR,Baxley
+405,1,00:13,22,20,BSB,FC,B Fiorotto
+406,1,00:37,22,20,BSB,LL_Pts_C,Gui Bento
+407,1,00:37,21,20,RCB,substituicao_entra,Ruiz
+408,1,00:37,21,20,RCB,substituicao_sai,Pastor
+409,1,00:37,21,20,BSB,substituicao_entra,Gabriel
+410,1,00:37,21,20,BSB,substituicao_sai,Nezinho
+411,1,00:37,21,20,BSB,FR,Gui Bento
+412,1,00:37,21,20,RCB,FC,Pastor
+413,1,00:37,21,20,BSB,2_Pts_C,Gui Bento
+414,1,00:37,19,20,RCB,substituicao_entra,Pastor
+415,1,00:37,19,20,RCB,substituicao_sai,Lucão
+416,1,00:38,19,20,BSB,RD,Gui Bento
+417,1,00:41,19,20,RCB,3_Pts_T,Figueroa
+418,1,00:45,19,20,RCB,RO,Ansaloni
+419,1,00:54,19,20,RCB,2_Pts_T,Baxley
+420,1,01:06,19,20,RCB,substituicao_entra,Ansaloni
+421,1,01:06,19,20,RCB,substituicao_sai,Gerson
+422,1,01:06,19,20,BSB,substituicao_entra,Gui Bento
+423,1,01:06,19,20,BSB,substituicao_entra,José Carlos
+424,1,01:06,19,20,BSB,substituicao_sai,Rafa Moreira
+425,1,01:06,19,20,BSB,substituicao_sai,Arthur
+426,1,01:06,19,20,BSB,2_Pts_C,Arthur
+427,1,01:14,17,20,BSB,BR,Nezinho
+428,1,01:14,17,20,RCB,ER,Lucão
+429,1,01:17,17,20,RCB,RD,Figueroa
+430,1,01:22,17,20,BSB,3_Pts_T,Rafa Moreira
+431,1,01:39,17,20,BSB,FR,Nezinho
+432,1,01:39,17,20,RCB,ER,Pedro
+433,1,01:39,17,20,RCB,FC_O,Pedro
+434,1,02:05,17,20,RCB,RD,Lucão
+435,1,02:10,17,20,BSB,3_Pts_T,Arthur
+436,1,02:28,17,20,RCB,LL_Pts_C,Baxley
+437,1,02:28,17,19,RCB,LL_Pts_C,Baxley
+438,1,02:28,17,18,BSB,substituicao_entra,B Fiorotto
+439,1,02:28,17,18,BSB,substituicao_sai,Ronald
+440,1,02:28,17,18,RCB,FR,Baxley
+441,1,02:28,17,18,BSB,FC,P Rava
+442,1,02:46,17,18,RCB,RD,Lucão
+443,1,02:46,17,18,BSB,LL_Pts_T,Ronald
+444,1,02:46,17,18,BSB,LL_Pts_C,Ronald
+445,1,02:46,16,18,BSB,FR,Ronald
+446,1,02:46,16,18,RCB,FC,Lucão
+447,1,02:50,16,18,BSB,RD,P Rava
+448,1,02:55,16,18,RCB,2_Pts_T,Lucão
+449,1,03:01,16,18,BSB,AS,Nezinho
+450,1,03:01,16,18,BSB,2_Pts_C,Arthur
+451,1,03:01,14,18,RCB,substituicao_entra,Figueroa
+452,1,03:01,14,18,RCB,substituicao_sai,Sahdi
+453,1,03:01,14,18,BSB,FR,Nezinho
+454,1,03:01,14,18,RCB,FC,Gerson
+455,1,03:19,14,18,RCB,ER,Lucão
+456,1,03:21,14,18,BSB,substituicao_entra,P Rava
+457,1,03:21,14,18,BSB,substituicao_sai,Gui Bento
+458,1,03:21,14,18,RCB,substituicao_entra,Baxley
+459,1,03:21,14,18,RCB,substituicao_entra,Pedro
+460,1,03:21,14,18,RCB,substituicao_entra,Lucão
+461,1,03:21,14,18,RCB,substituicao_sai,Ruiz
+462,1,03:21,14,18,RCB,substituicao_sai,Ansaloni
+463,1,03:21,14,18,RCB,substituicao_sai,Pastor
+464,1,03:21,14,18,BSB,ER,Ronald
+465,1,03:28,14,18,RCB,2_Pts_C,Sahdi
+466,1,03:46,14,16,BSB,AS,Nezinho
+467,1,03:46,14,16,BSB,2_Pts_C,Ronald
+468,1,04:09,12,16,RCB,AS,Sahdi
+469,1,04:09,12,16,RCB,2_Pts_C,Gerson
+470,1,04:29,12,14,BSB,ER,Gui Bento
+471,1,04:31,12,14,BSB,BR,Arthur
+472,1,04:31,12,14,RCB,ER,Ruiz
+473,1,04:54,12,14,BSB,AS,Rafa Moreira
+474,1,04:54,12,14,BSB,3_Pts_C,Ronald
+475,1,05:16,9,14,RCB,AS,Sahdi
+476,1,05:16,9,14,RCB,3_Pts_C,Ruiz
+477,1,05:21,9,11,RCB,RD,Ansaloni
+478,1,05:24,9,11,BSB,2_Pts_T,Rafa Moreira
+479,1,05:40,9,11,BSB,RD,Arthur
+480,1,05:43,9,11,RCB,3_Pts_T,Sahdi
+481,1,05:51,9,11,RCB,RD,Ansaloni
+482,1,05:55,9,11,BSB,3_Pts_T,Nezinho
+483,1,06:06,9,11,RCB,AS,Ansaloni
+484,1,06:06,9,11,RCB,3_Pts_C,Sahdi
+485,1,06:08,9,8,RCB,RO,Ansaloni
+486,1,06:11,9,8,RCB,3_Pts_T,Sahdi
+487,1,06:23,9,8,RCB,FR,Pastor
+488,1,06:23,9,8,BSB,FC,Arthur
+489,1,06:29,9,8,BSB,ER,Nezinho
+490,1,06:32,9,8,BSB,RD,Ronald
+491,1,06:41,9,8,RCB,3_Pts_T,Ruiz
+492,1,06:45,9,8,BSB,ER,Arthur
+493,1,06:45,9,8,BSB,RD,Arthur
+494,1,06:47,9,8,RCB,3_Pts_T,Sahdi
+495,1,07:07,9,8,RCB,BR,Sahdi
+496,1,07:07,9,8,BSB,ER,Gui Bento
+497,1,07:17,9,8,BSB,RD,Arthur
+498,1,07:21,9,8,RCB,3_Pts_T,Ansaloni
+499,1,07:31,9,8,BSB,AS,Nezinho
+500,1,07:31,9,8,BSB,3_Pts_C,Rafa Moreira
+501,1,07:40,6,8,BSB,FR,Nezinho
+502,1,07:40,6,8,RCB,FC,Sahdi
+503,1,07:52,6,8,RCB,AS,Ansaloni
+504,1,07:52,6,8,RCB,3_Pts_C,Ruiz
+505,1,08:10,6,5,RCB,FR,Ansaloni
+506,1,08:10,6,5,BSB,FC,Rafa Moreira
+507,1,08:17,6,5,BSB,3_Pts_C,Rafa Moreira
+508,1,08:25,3,5,RCB,2_Pts_C,Pastor
+509,1,08:28,3,3,RCB,RO,Rio Claro
+510,1,08:28,3,3,BSB,TO,Nezinho
+511,1,08:28,3,3,RCB,2_Pts_T,Sahdi
+512,1,08:32,3,3,RCB,BR,Sahdi
+513,1,08:32,3,3,BSB,ER,Gui Bento
+514,1,08:41,3,3,BSB,LL_Pts_C,Gui Bento
+515,1,08:41,2,3,BSB,LL_Pts_T,Gui Bento
+516,1,08:41,2,3,BSB,substituicao_entra,Gui Bento
+517,1,08:41,2,3,BSB,substituicao_sai,Gui Santos
+518,1,08:41,2,3,BSB,FR,Gui Santos
+519,1,08:41,2,3,RCB,FC_A,Ruiz
+520,1,08:52,2,3,RCB,3_Pts_C,Ruiz
+521,1,09:07,2,0,RCB,RD,Rio Claro
+522,1,09:07,2,0,BSB,3_Pts_T,Arthur
+523,1,09:21,2,0,RCB,ER,Sahdi
+524,1,09:21,2,0,RCB,RD,Pastor
+525,1,09:21,2,0,BSB,3_Pts_T,Nezinho
+526,1,09:21,2,0,BSB,RD,Nezinho
+527,1,09:27,2,0,RCB,2_Pts_T,Gerson
+528,1,09:28,2,0,RCB,RO,Gerson
+529,1,09:31,2,0,RCB,2_Pts_T,Ansaloni
+530,1,09:32,2,0,RCB,RO,Ansaloni
+531,1,09:36,2,0,RCB,2_Pts_T,Ansaloni
+532,1,09:56,2,0,BSB,2_Pts_C,Arthur
+533,1,10:00,0,0,RCB,substituicao_entra,Sahdi
+534,1,10:00,0,0,RCB,substituicao_entra,Ruiz
+535,1,10:00,0,0,RCB,substituicao_entra,Ansaloni
+536,1,10:00,0,0,RCB,substituicao_entra,Pastor
+537,1,10:00,0,0,RCB,substituicao_entra,Gerson
+538,1,10:00,0,0,BSB,substituicao_entra,Nezinho
+539,1,10:00,0,0,BSB,substituicao_entra,Rafa Moreira
+540,1,10:00,0,0,BSB,substituicao_entra,Ronald
+541,1,10:00,0,0,BSB,substituicao_entra,Arthur
+542,1,10:00,0,0,BSB,substituicao_entra,Gui Santos
+543,1,10:00,0,0,,inicio_partida,

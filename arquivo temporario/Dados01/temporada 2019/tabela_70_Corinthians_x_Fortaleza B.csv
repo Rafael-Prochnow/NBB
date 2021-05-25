@@ -1,0 +1,481 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,80,69,,fim_partida,
+1,4,00:00,80,69,,fim_quarto,
+2,4,00:13,80,69,CEA,EN,Marcão
+3,4,00:24,80,67,COR,AS,Fuller
+4,4,00:24,80,67,COR,2_Pts_C,Wesley
+5,4,00:38,78,67,CEA,AS,Mathias
+6,4,00:38,78,67,CEA,3_Pts_C,Gabriel
+7,4,00:46,78,64,CEA,RD,Armani
+8,4,00:49,78,64,COR,3_Pts_T,Fuller
+9,4,00:51,78,64,CEA,substituicao_entra,Gabriel
+10,4,00:51,78,64,CEA,substituicao_sai,Brandon
+11,4,00:51,78,64,CEA,substituicao_entra,Armani
+12,4,00:51,78,64,CEA,substituicao_sai,Cauê
+13,4,01:02,78,64,COR,BR,Robinson
+14,4,01:02,78,64,CEA,ER,Brandon
+15,4,01:15,78,64,CEA,substituicao_entra,Brite
+16,4,01:15,78,64,CEA,substituicao_sai,Rashaun
+17,4,01:15,78,64,COR,substituicao_entra,Nesbitt
+18,4,01:15,78,64,COR,substituicao_sai,Johnson
+19,4,01:16,78,64,COR,AS,Johnson
+20,4,01:16,78,64,COR,3_Pts_C,Fuller
+21,4,01:32,75,64,CEA,AS,Rashaun
+22,4,01:32,75,64,CEA,3_Pts_C,Brandon
+23,4,01:50,75,61,COR,AS,Robinson
+24,4,01:50,75,61,COR,2_Pts_C,Humberto
+25,4,02:12,73,61,CEA,2_Pts_C,Cauê
+26,4,02:21,73,59,CEA,RO,Basq Cearense
+27,4,02:22,73,59,CEA,2_Pts_T,Rashaun
+28,4,02:28,73,59,CEA,FR,Rashaun
+29,4,02:28,73,59,COR,FC,Humberto
+30,4,02:28,73,59,CEA,RD,Rashaun
+31,4,02:32,73,59,COR,3_Pts_T,Wesley
+32,4,02:44,73,59,CEA,AS,Cauê
+33,4,02:44,73,59,CEA,3_Pts_C,Rashaun
+34,4,02:59,73,56,COR,EN,Robinson
+35,4,03:12,71,56,COR,RD,Corinthians
+36,4,03:15,71,56,CEA,3_Pts_T,Cauê
+37,4,03:30,71,56,CEA,RD,Mathias
+38,4,03:34,71,56,COR,2_Pts_T,Johnson
+39,4,03:47,71,56,CEA,tempo_tecnico,Basq Cearense
+40,4,03:47,71,56,CEA,ER,Mathias
+41,4,03:49,71,56,CEA,RD,Mathias
+42,4,03:52,71,56,COR,2_Pts_T,Fuller
+43,4,04:02,71,56,COR,RD,Wesley
+44,4,04:05,71,56,CEA,3_Pts_T,Brandon
+45,4,04:26,71,56,COR,substituicao_entra,Fuller
+46,4,04:26,71,56,COR,substituicao_sai,F Vezaro
+47,4,04:26,71,56,COR,LL_Pts_C,Robinson
+48,4,04:26,70,56,COR,LL_Pts_C,Robinson
+49,4,04:26,69,56,CEA,substituicao_entra,Marcão
+50,4,04:26,69,56,CEA,substituicao_sai,Sualisson
+51,4,04:26,69,56,COR,FR,Robinson
+52,4,04:26,69,56,CEA,FC,Sualisson
+53,4,04:42,69,56,CEA,AS,Rashaun
+54,4,04:42,69,56,CEA,3_Pts_C,Brandon
+55,4,04:45,69,53,CEA,RD,Rashaun
+56,4,04:49,69,53,COR,3_Pts_T,Robinson
+57,4,05:05,69,53,CEA,3_Pts_C,Brandon
+58,4,05:24,69,50,CEA,substituicao_entra,Mathias
+59,4,05:24,69,50,CEA,substituicao_sai,Marcão
+60,4,05:24,69,50,COR,LL_Pts_C,Johnson
+61,4,05:24,68,50,COR,FR,Johnson
+62,4,05:24,68,50,CEA,FC,Marcão
+63,4,05:24,68,50,COR,AS,Robinson
+64,4,05:24,68,50,COR,2_Pts_C,Johnson
+65,4,05:29,66,50,COR,BR,Humberto
+66,4,05:29,66,50,CEA,ER,Cauê
+67,4,05:36,66,50,CEA,substituicao_entra,Rashaun
+68,4,05:36,66,50,CEA,substituicao_sai,Gabriel
+69,4,06:02,66,50,COR,AS,Robinson
+70,4,06:02,66,50,COR,2_Pts_C,Johnson
+71,4,06:19,64,50,CEA,substituicao_entra,Cauê
+72,4,06:19,64,50,CEA,substituicao_sai,Brite
+73,4,06:19,64,50,CEA,LL_Pts_C,Brite
+74,4,06:19,64,49,CEA,LL_Pts_T,Brite
+75,4,06:19,64,49,CEA,FR,Brite
+76,4,06:19,64,49,COR,FC,Humberto
+77,4,06:19,64,49,CEA,RD,Marcão
+78,4,06:19,64,49,COR,2_Pts_T,Johnson
+79,4,06:36,64,49,COR,RD,Robinson
+80,4,06:41,64,49,CEA,3_Pts_T,Brite
+81,4,06:53,64,49,CEA,RD,Brite
+82,4,06:56,64,49,COR,3_Pts_T,F Vezaro
+83,4,07:15,64,49,CEA,AS,Brite
+84,4,07:15,64,49,CEA,3_Pts_C,Brandon
+85,4,07:33,64,46,CEA,substituicao_entra,Gabriel
+86,4,07:33,64,46,CEA,substituicao_sai,Rashaun
+87,4,07:33,64,46,CEA,tempo_tecnico,Basq Cearense
+88,4,07:35,64,46,COR,AS,Humberto
+89,4,07:35,64,46,COR,3_Pts_C,Robinson
+90,4,07:54,61,46,COR,FR,Humberto
+91,4,07:54,61,46,CEA,FC,Sualisson
+92,4,07:54,61,46,COR,RD,Humberto
+93,4,07:57,61,46,CEA,3_Pts_T,Rashaun
+94,4,08:02,61,46,CEA,BR,Brite
+95,4,08:02,61,46,COR,ER,Wesley
+96,4,08:04,61,46,COR,RD,Wesley
+97,4,08:07,61,46,CEA,3_Pts_T,Sualisson
+98,4,08:27,61,46,COR,AS,Wesley
+99,4,08:27,61,46,COR,2_Pts_C,Robinson
+100,4,08:43,59,46,CEA,2_Pts_C,Brite
+101,4,08:51,59,44,COR,2_Pts_C,Johnson
+102,4,08:51,57,44,COR,RO,Johnson
+103,4,08:58,57,44,COR,2_Pts_T,Johnson
+104,4,09:16,57,44,COR,RD,Wesley
+105,4,09:20,57,44,CEA,2_Pts_T,Brandon
+106,4,09:38,57,44,COR,AS,Robinson
+107,4,09:38,57,44,COR,2_Pts_C,Wesley
+108,4,09:44,55,44,COR,RD,Wesley
+109,4,09:47,55,44,CEA,2_Pts_T,Rashaun
+110,4,10:00,55,44,,inicio_quarto,
+111,3,00:00,55,44,,fim_quarto,
+112,3,00:01,55,44,CEA,3_Pts_T,Brite
+113,3,00:03,55,44,CEA,RD,Basq Cearense
+114,3,00:03,55,44,COR,2_Pts_T,Robinson
+115,3,00:11,55,44,COR,RD,Johnson
+116,3,00:14,55,44,CEA,2_Pts_T,Gabriel
+117,3,00:32,55,44,CEA,substituicao_entra,Rashaun
+118,3,00:32,55,44,CEA,substituicao_sai,Mathias
+119,3,00:32,55,44,COR,substituicao_entra,Humberto
+120,3,00:32,55,44,COR,substituicao_sai,Arthur Pecos
+121,3,00:32,55,44,CEA,RD,Basq Cearense
+122,3,00:33,55,44,COR,3_Pts_T,Robinson
+123,3,00:47,55,44,COR,RD,Johnson
+124,3,00:50,55,44,CEA,2_Pts_T,Mathias
+125,3,01:19,55,44,COR,AS,Arthur Pecos
+126,3,01:19,55,44,COR,3_Pts_C,Robinson
+127,3,01:32,52,44,CEA,LL_Pts_C,Brandon
+128,3,01:32,52,43,CEA,LL_Pts_T,Brandon
+129,3,01:32,52,43,COR,substituicao_entra,Johnson
+130,3,01:32,52,43,COR,substituicao_sai,Nesbitt
+131,3,01:32,52,43,CEA,FR,Brandon
+132,3,01:32,52,43,COR,FC,F Vezaro
+133,3,01:42,52,43,COR,AS,Arthur Pecos
+134,3,01:42,52,43,COR,3_Pts_C,F Vezaro
+135,3,02:01,49,43,CEA,AS,Brite
+136,3,02:01,49,43,CEA,2_Pts_C,Brandon
+137,3,02:17,49,41,COR,2_Pts_C,Robinson
+138,3,02:27,47,41,CEA,substituicao_entra,Gabriel
+139,3,02:27,47,41,CEA,substituicao_sai,Rashaun
+140,3,02:27,47,41,COR,substituicao_entra,F Vezaro
+141,3,02:27,47,41,COR,substituicao_sai,Fuller
+142,3,02:27,47,41,COR,FR,Robinson
+143,3,02:27,47,41,CEA,FC,Marcão
+144,3,02:34,47,41,COR,BR,Wesley
+145,3,02:34,47,41,CEA,ER,Rashaun
+146,3,02:45,47,41,CEA,LL_Pts_C,Brandon
+147,3,02:45,47,40,COR,FC_T,Robinson
+148,3,02:45,47,40,CEA,FR,Marcão
+149,3,02:45,47,40,COR,FC,Robinson
+150,3,02:46,47,40,CEA,RD,Marcão
+151,3,02:50,47,40,COR,2_Pts_T,Nesbitt
+152,3,03:19,47,40,CEA,AS,Brite
+153,3,03:19,47,40,CEA,3_Pts_C,Rashaun
+154,3,03:32,47,37,CEA,substituicao_entra,Brite
+155,3,03:32,47,37,CEA,substituicao_sai,Cauê
+156,3,03:32,47,37,COR,substituicao_entra,Wesley
+157,3,03:32,47,37,COR,substituicao_sai,Johnson
+158,3,03:32,47,37,CEA,RD,Marcão
+159,3,03:39,47,37,CEA,TO,Mathias
+160,3,03:39,47,37,COR,2_Pts_T,Johnson
+161,3,03:48,47,37,COR,RO,Corinthians
+162,3,03:52,47,37,CEA,TO,Cauê
+163,3,03:52,47,37,COR,2_Pts_T,Arthur Pecos
+164,3,03:54,47,37,COR,RD,Nesbitt
+165,3,03:57,47,37,CEA,2_Pts_T,Mathias
+166,3,04:19,47,37,COR,substituicao_entra,Johnson
+167,3,04:19,47,37,COR,substituicao_sai,Teichmann
+168,3,04:19,47,37,CEA,RD,Basq Cearense
+169,3,04:20,47,37,COR,3_Pts_T,Fuller
+170,3,04:39,47,37,COR,FR,Nesbitt
+171,3,04:39,47,37,CEA,FC,Marcão
+172,3,04:41,47,37,COR,RD,Nesbitt
+173,3,04:45,47,37,CEA,3_Pts_T,Rashaun
+174,3,05:03,47,37,COR,AS,Robinson
+175,3,05:03,47,37,COR,2_Pts_C,Nesbitt
+176,3,05:21,45,37,CEA,LL_Pts_C,Marcão
+177,3,05:21,45,36,CEA,AS,Brandon
+178,3,05:21,45,36,CEA,LL_Pts_C,Marcão
+179,3,05:21,45,35,CEA,FR,Marcão
+180,3,05:21,45,35,COR,FC,Teichmann
+181,3,05:34,45,35,CEA,substituicao_entra,Marcão
+182,3,05:34,45,35,CEA,substituicao_sai,Sualisson
+183,3,05:34,45,35,CEA,FR,Mathias
+184,3,05:34,45,35,COR,FC,Nesbitt
+185,3,05:50,45,35,COR,LL_Pts_C,Nesbitt
+186,3,05:50,44,35,CEA,substituicao_entra,Mathias
+187,3,05:50,44,35,CEA,substituicao_sai,Marcão
+188,3,05:50,44,35,COR,substituicao_entra,Robinson
+189,3,05:50,44,35,COR,substituicao_sai,Humberto
+190,3,05:50,44,35,COR,FR,Nesbitt
+191,3,05:50,44,35,CEA,FC,Sualisson
+192,3,05:50,44,35,COR,AS,Teichmann
+193,3,05:50,44,35,COR,2_Pts_C,Nesbitt
+194,3,06:00,42,35,COR,RD,Teichmann
+195,3,06:03,42,35,CEA,3_Pts_T,Marcão
+196,3,06:11,42,35,CEA,RD,Sualisson
+197,3,06:16,42,35,CEA,TO,Sualisson
+198,3,06:16,42,35,COR,3_Pts_T,Humberto
+199,3,06:38,42,35,CEA,2_Pts_C,Sualisson
+200,3,06:39,42,33,CEA,RO,Sualisson
+201,3,06:43,42,33,CEA,2_Pts_T,Cauê
+202,3,06:52,42,33,CEA,BR,Cauê
+203,3,06:52,42,33,COR,ER,Arthur Pecos
+204,3,06:55,42,33,COR,RO,Teichmann
+205,3,06:58,42,33,COR,3_Pts_T,Fuller
+206,3,07:14,42,33,CEA,ER,Rashaun
+207,3,07:31,42,33,COR,AS,Teichmann
+208,3,07:31,42,33,COR,2_Pts_C,Arthur Pecos
+209,3,07:47,40,33,CEA,AS,Marcão
+210,3,07:47,40,33,CEA,2_Pts_C,Cauê
+211,3,08:02,40,31,CEA,RD,Sualisson
+212,3,08:02,40,31,COR,LL_Pts_T,Teichmann
+213,3,08:02,40,31,COR,LL_Pts_C,Teichmann
+214,3,08:02,39,31,COR,FR,Teichmann
+215,3,08:02,39,31,CEA,FC,Cauê
+216,3,08:10,39,31,COR,BR,Teichmann
+217,3,08:10,39,31,CEA,ER,Marcão
+218,3,08:20,39,31,CEA,RD,Sualisson
+219,3,08:24,39,31,COR,2_Pts_T,Nesbitt
+220,3,08:33,39,31,COR,RO,Nesbitt
+221,3,08:37,39,31,COR,3_Pts_T,Fuller
+222,3,08:53,39,31,CEA,ER,Marcão
+223,3,09:17,39,31,COR,AS,Arthur Pecos
+224,3,09:17,39,31,COR,EN,Teichmann
+225,3,09:27,37,31,COR,RD,Corinthians
+226,3,09:31,37,31,CEA,3_Pts_T,Brandon
+227,3,09:45,37,31,CEA,BR,Sualisson
+228,3,09:45,37,31,COR,ER,Humberto
+229,3,10:00,37,31,,inicio_quarto,
+230,2,00:00,37,31,,fim_quarto,
+231,2,00:00,37,31,CEA,AS,Brite
+232,2,00:00,37,31,CEA,2_Pts_C,Mathias
+233,2,00:22,37,29,COR,AS,Nesbitt
+234,2,00:22,37,29,COR,3_Pts_C,F Vezaro
+235,2,00:41,34,29,COR,tempo_tecnico,Corinthians
+236,2,00:41,34,29,CEA,AS,Brite
+237,2,00:41,34,29,CEA,3_Pts_C,Brandon
+238,2,00:47,34,26,CEA,BR,Brite
+239,2,00:47,34,26,COR,ER,F Vezaro
+240,2,00:52,34,26,COR,RD,Nesbitt
+241,2,00:58,34,26,COR,TO,Douglas Santos
+242,2,00:58,34,26,CEA,2_Pts_T,Sualisson
+243,2,01:01,34,26,CEA,RD,Sualisson
+244,2,01:05,34,26,COR,2_Pts_T,Arthur Pecos
+245,2,01:19,34,26,CEA,LL_Pts_C,Brandon
+246,2,01:19,34,25,CEA,LL_Pts_C,Brandon
+247,2,01:19,34,24,CEA,FR,Brandon
+248,2,01:19,34,24,COR,FC,Robinson
+249,2,01:36,34,24,CEA,substituicao_entra,Gabriel
+250,2,01:36,34,24,CEA,substituicao_sai,Rashaun
+251,2,01:36,34,24,CEA,RD,Sualisson
+252,2,01:40,34,24,COR,2_Pts_T,Robinson
+253,2,01:55,34,24,COR,RD,Nesbitt
+254,2,01:55,34,24,CEA,LL_Pts_T,Rashaun
+255,2,01:55,34,24,CEA,LL_Pts_C,Rashaun
+256,2,01:55,34,23,COR,substituicao_entra,Robinson
+257,2,01:55,34,23,COR,substituicao_sai,Fuller
+258,2,01:55,34,23,COR,substituicao_entra,F Vezaro
+259,2,01:55,34,23,COR,substituicao_sai,Humberto
+260,2,01:55,34,23,CEA,FR,Rashaun
+261,2,01:55,34,23,COR,FC,Humberto
+262,2,02:04,34,23,CEA,RD,Mathias
+263,2,02:08,34,23,COR,2_Pts_T,Arthur Pecos
+264,2,02:23,34,23,COR,FR,Humberto
+265,2,02:23,34,23,CEA,ER,Mathias
+266,2,02:23,34,23,CEA,FC_O,Mathias
+267,2,02:31,34,23,COR,substituicao_entra,Douglas Santos
+268,2,02:31,34,23,COR,substituicao_sai,Teichmann
+269,2,02:31,34,23,CEA,RD,Basq Cearense
+270,2,02:35,34,23,COR,3_Pts_T,Humberto
+271,2,02:56,34,23,CEA,ER,Rashaun
+272,2,03:04,34,23,CEA,substituicao_entra,Mathias
+273,2,03:04,34,23,CEA,substituicao_sai,Marcão
+274,2,03:04,34,23,CEA,substituicao_entra,Brandon
+275,2,03:04,34,23,CEA,substituicao_sai,Gabriel
+276,2,03:04,34,23,CEA,FR,Gabriel
+277,2,03:04,34,23,COR,FC,Arthur Pecos
+278,2,03:20,34,23,COR,2_Pts_C,Humberto
+279,2,03:24,32,23,COR,BR,Humberto
+280,2,03:24,32,23,CEA,ER,Brite
+281,2,03:34,32,23,COR,2_Pts_C,Nesbitt
+282,2,03:54,30,23,COR,BR,Teichmann
+283,2,03:54,30,23,CEA,ER,Brite
+284,2,04:05,30,23,COR,LL_Pts_C,Humberto
+285,2,04:05,29,23,COR,FR,Humberto
+286,2,04:05,29,23,CEA,FC,Gabriel
+287,2,04:06,29,23,COR,AS,Fuller
+288,2,04:06,29,23,COR,2_Pts_C,Humberto
+289,2,04:12,27,23,COR,BR,Humberto
+290,2,04:12,27,23,CEA,ER,Marcão
+291,2,04:24,27,23,CEA,BR,Gabriel
+292,2,04:24,27,23,COR,ER,Humberto
+293,2,04:43,27,23,COR,LL_Pts_T,Fuller
+294,2,04:43,27,23,CEA,FC_T,Basq Cearense
+295,2,04:47,27,23,CEA,2_Pts_C,Rashaun
+296,2,04:55,27,21,CEA,substituicao_entra,Brite
+297,2,04:55,27,21,CEA,substituicao_sai,Armani
+298,2,04:55,27,21,CEA,FR,Gabriel
+299,2,04:55,27,21,COR,FC,Nesbitt
+300,2,05:05,27,21,COR,AS,Humberto
+301,2,05:05,27,21,COR,2_Pts_C,Teichmann
+302,2,05:09,25,21,COR,BR,Humberto
+303,2,05:09,25,21,CEA,ER,Armani
+304,2,05:18,25,21,CEA,substituicao_entra,Gabriel
+305,2,05:18,25,21,CEA,substituicao_sai,Cauê
+306,2,05:18,25,21,CEA,tempo_tecnico,Basq Cearense
+307,2,05:19,25,21,COR,2_Pts_C,Arthur Pecos
+308,2,05:23,23,21,COR,BR,Arthur Pecos
+309,2,05:23,23,21,CEA,ER,Cauê
+310,2,05:41,23,21,COR,AS,Fuller
+311,2,05:41,23,21,COR,3_Pts_C,Arthur Pecos
+312,2,05:44,20,21,COR,RD,Nesbitt
+313,2,05:48,20,21,CEA,2_Pts_T,Marcão
+314,2,06:02,20,21,CEA,RD,Sualisson
+315,2,06:06,20,21,COR,2_Pts_T,Humberto
+316,2,06:13,20,21,CEA,2_Pts_C,Rashaun
+317,2,06:37,20,19,COR,2_Pts_C,Fuller
+318,2,06:46,18,19,COR,substituicao_entra,Nesbitt
+319,2,06:46,18,19,COR,substituicao_sai,Wesley
+320,2,06:46,18,19,COR,FR,Fuller
+321,2,06:46,18,19,CEA,FC,Cauê
+322,2,07:00,18,19,CEA,AS,Armani
+323,2,07:00,18,19,CEA,3_Pts_C,Cauê
+324,2,07:17,18,16,COR,AS,Teichmann
+325,2,07:17,18,16,COR,2_Pts_C,Arthur Pecos
+326,2,07:29,16,16,CEA,3_Pts_C,Rashaun
+327,2,07:52,16,13,CEA,substituicao_entra,Armani
+328,2,07:52,16,13,CEA,substituicao_sai,Brite
+329,2,07:52,16,13,CEA,BR,Cauê
+330,2,07:52,16,13,COR,ER,Fuller
+331,2,07:55,16,13,COR,RO,Fuller
+332,2,07:58,16,13,COR,2_Pts_T,Arthur Pecos
+333,2,08:03,16,13,COR,BR,Arthur Pecos
+334,2,08:03,16,13,CEA,ER,Cauê
+335,2,08:14,16,13,CEA,RO,Sualisson
+336,2,08:19,16,13,COR,TO,Humberto
+337,2,08:19,16,13,CEA,2_Pts_T,Rashaun
+338,2,08:46,16,13,COR,AS,Fuller
+339,2,08:46,16,13,COR,2_Pts_C,Teichmann
+340,2,08:51,14,13,COR,RD,Arthur Pecos
+341,2,08:55,14,13,CEA,2_Pts_T,Cauê
+342,2,09:09,14,13,CEA,RD,Marcão
+343,2,09:13,14,13,COR,2_Pts_T,Arthur Pecos
+344,2,09:28,14,13,COR,FR,Teichmann
+345,2,09:28,14,13,CEA,FC,Marcão
+346,2,09:28,14,13,COR,RD,Corinthians
+347,2,09:31,14,13,CEA,2_Pts_T,Rashaun
+348,2,09:46,14,13,CEA,RD,Cauê
+349,2,09:50,14,13,COR,3_Pts_T,Wesley
+350,2,10:00,14,13,,inicio_quarto,
+351,1,00:00,14,13,,fim_quarto,
+352,1,00:03,14,13,CEA,RD,Mathias
+353,1,00:04,14,13,COR,2_Pts_T,Fuller
+354,1,00:12,14,13,COR,RD,Robinson
+355,1,00:15,14,13,CEA,3_Pts_T,Mathias
+356,1,00:35,14,13,COR,2_Pts_C,Fuller
+357,1,00:48,12,13,COR,BR,Wesley
+358,1,00:48,12,13,CEA,ER,Brandon
+359,1,01:06,12,13,CEA,RD,Mathias
+360,1,01:09,12,13,COR,3_Pts_T,Robinson
+361,1,01:14,12,13,COR,BR,Humberto
+362,1,01:14,12,13,CEA,ER,Mathias
+363,1,01:19,12,13,CEA,RD,Gabriel
+364,1,01:19,12,13,COR,LL_Pts_T,Teichmann
+365,1,01:19,12,13,COR,FR,Teichmann
+366,1,01:19,12,13,CEA,FC,Brite
+367,1,01:24,12,13,COR,2_Pts_C,Teichmann
+368,1,01:29,10,13,COR,BR,Teichmann
+369,1,01:29,10,13,CEA,ER,Brite
+370,1,01:39,10,13,CEA,RD,Mathias
+371,1,01:39,10,13,COR,LL_Pts_T,Humberto
+372,1,01:39,10,13,COR,LL_Pts_T,Humberto
+373,1,01:39,10,13,CEA,substituicao_entra,Marcão
+374,1,01:39,10,13,CEA,substituicao_sai,Sualisson
+375,1,01:39,10,13,CEA,substituicao_entra,Gabriel
+376,1,01:39,10,13,CEA,substituicao_sai,Rashaun
+377,1,01:45,10,13,COR,FR,Humberto
+378,1,01:45,10,13,CEA,FC,Sualisson
+379,1,01:57,10,13,CEA,AS,Rashaun
+380,1,01:57,10,13,CEA,2_Pts_C,Sualisson
+381,1,02:22,10,11,COR,AS,Teichmann
+382,1,02:22,10,11,COR,EN,Robinson
+383,1,02:27,8,11,COR,BR,Teichmann
+384,1,02:27,8,11,CEA,ER,Mathias
+385,1,02:39,8,11,CEA,BR,Sualisson
+386,1,02:39,8,11,COR,ER,Wesley
+387,1,02:56,8,11,COR,RD,Teichmann
+388,1,03:00,8,11,CEA,3_Pts_T,Brandon
+389,1,03:12,8,11,COR,substituicao_entra,Wesley
+390,1,03:12,8,11,COR,substituicao_sai,Nesbitt
+391,1,03:12,8,11,COR,ER,Teichmann
+392,1,03:22,8,11,CEA,AS,Mathias
+393,1,03:22,8,11,CEA,2_Pts_C,Sualisson
+394,1,03:36,8,9,COR,ER,Robinson
+395,1,03:53,8,9,CEA,ER,Rashaun
+396,1,04:05,8,9,COR,ER,Humberto
+397,1,04:06,8,9,COR,substituicao_entra,Humberto
+398,1,04:06,8,9,COR,substituicao_sai,Arthur Pecos
+399,1,04:06,8,9,COR,substituicao_entra,Fuller
+400,1,04:06,8,9,COR,substituicao_sai,F Vezaro
+401,1,04:06,8,9,COR,tempo_tecnico,Corinthians
+402,1,04:06,8,9,CEA,2_Pts_C,Mathias
+403,1,04:26,8,7,CEA,RD,Mathias
+404,1,04:29,8,7,COR,3_Pts_T,F Vezaro
+405,1,04:45,8,7,COR,RD,Nesbitt
+406,1,04:49,8,7,CEA,2_Pts_T,Brandon
+407,1,04:59,8,7,CEA,substituicao_entra,Mathias
+408,1,04:59,8,7,CEA,substituicao_sai,Marcão
+409,1,04:59,8,7,COR,substituicao_entra,Teichmann
+410,1,04:59,8,7,COR,substituicao_sai,Johnson
+411,1,04:59,8,7,CEA,FR,Brite
+412,1,04:59,8,7,COR,FC,F Vezaro
+413,1,04:59,8,7,CEA,RD,Brite
+414,1,05:03,8,7,COR,2_Pts_T,Nesbitt
+415,1,05:17,8,7,CEA,substituicao_entra,Brite
+416,1,05:17,8,7,CEA,substituicao_sai,Cauê
+417,1,05:17,8,7,COR,FR,Nesbitt
+418,1,05:17,8,7,CEA,FC,Sualisson
+419,1,05:27,8,7,CEA,LL_Pts_C,Cauê
+420,1,05:27,8,6,CEA,FR,Cauê
+421,1,05:27,8,6,COR,FC,Johnson
+422,1,05:27,8,6,CEA,2_Pts_C,Cauê
+423,1,05:35,8,4,CEA,RD,Marcão
+424,1,05:39,8,4,COR,2_Pts_T,Arthur Pecos
+425,1,06:02,8,4,CEA,AS,Cauê
+426,1,06:02,8,4,CEA,2_Pts_C,Brandon
+427,1,06:07,8,2,CEA,FR,Marcão
+428,1,06:07,8,2,COR,FC,F Vezaro
+429,1,06:21,8,2,CEA,RD,Rashaun
+430,1,06:26,8,2,COR,2_Pts_T,Johnson
+431,1,06:45,8,2,CEA,AS,Brandon
+432,1,06:45,8,2,CEA,2_Pts_C,Sualisson
+433,1,06:56,8,0,CEA,BR,Sualisson
+434,1,06:56,8,0,COR,ER,Arthur Pecos
+435,1,06:59,8,0,COR,RD,F Vezaro
+436,1,07:04,8,0,CEA,3_Pts_T,Cauê
+437,1,07:09,8,0,CEA,RD,Marcão
+438,1,07:13,8,0,COR,2_Pts_T,Robinson
+439,1,07:15,8,0,COR,RO,Robinson
+440,1,07:20,8,0,CEA,TO,Cauê
+441,1,07:20,8,0,COR,3_Pts_T,Robinson
+442,1,07:22,8,0,COR,RD,Arthur Pecos
+443,1,07:27,8,0,COR,TO,Nesbitt
+444,1,07:27,8,0,CEA,2_Pts_T,Sualisson
+445,1,07:32,8,0,CEA,RO,Sualisson
+446,1,07:35,8,0,CEA,2_Pts_T,Marcão
+447,1,07:56,8,0,CEA,tempo_tecnico,Basq Cearense
+448,1,07:57,8,0,COR,2_Pts_C,Nesbitt
+449,1,07:57,6,0,COR,RO,Nesbitt
+450,1,07:59,6,0,COR,2_Pts_T,Nesbitt
+451,1,07:59,6,0,COR,RO,Nesbitt
+452,1,08:05,6,0,COR,2_Pts_T,Arthur Pecos
+453,1,08:09,6,0,COR,RD,Johnson
+454,1,08:12,6,0,CEA,2_Pts_T,Sualisson
+455,1,08:27,6,0,COR,2_Pts_C,Johnson
+456,1,08:36,4,0,COR,RD,Arthur Pecos
+457,1,08:39,4,0,CEA,2_Pts_T,Marcão
+458,1,08:46,4,0,CEA,FR,Marcão
+459,1,08:46,4,0,COR,FC,Johnson
+460,1,08:57,4,0,COR,AS,F Vezaro
+461,1,08:57,4,0,COR,2_Pts_C,Nesbitt
+462,1,09:09,2,0,COR,RD,Corinthians
+463,1,09:13,2,0,CEA,2_Pts_T,Marcão
+464,1,09:19,2,0,COR,2_Pts_C,Johnson
+465,1,09:19,0,0,COR,RO,Johnson
+466,1,09:25,0,0,COR,2_Pts_T,Robinson
+467,1,09:42,0,0,COR,RD,Johnson
+468,1,09:45,0,0,CEA,2_Pts_T,Marcão
+469,1,10:00,0,0,CEA,substituicao_entra,Brandon
+470,1,10:00,0,0,CEA,substituicao_entra,Rashaun
+471,1,10:00,0,0,CEA,substituicao_entra,Sualisson
+472,1,10:00,0,0,CEA,substituicao_entra,Marcão
+473,1,10:00,0,0,CEA,substituicao_entra,Cauê
+474,1,10:00,0,0,COR,substituicao_entra,Johnson
+475,1,10:00,0,0,COR,substituicao_entra,Robinson
+476,1,10:00,0,0,COR,substituicao_entra,Nesbitt
+477,1,10:00,0,0,COR,substituicao_entra,Arthur Pecos
+478,1,10:00,0,0,COR,substituicao_entra,F Vezaro
+479,1,10:00,0,0,,inicio_partida,

@@ -1,0 +1,489 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,79,84, ,fim_partida,
+1,4,00:01,79,84,PAU,3_Pts_T,Caio Torres
+2,4,00:01,79,84,FRA,LL_Pts_C,Isaac
+3,4,00:01,79,83,FRA,LL_Pts_C,Isaac
+4,4,00:01,79,82,FRA,substituicao_sai,Kurtz
+5,4,00:01,79,82,FRA,substituicao_entra,Schneider
+6,4,00:01,79,82,FRA,FR,Isaac
+7,4,00:01,79,82,PAU,FC,Dawkins
+8,4,00:02,79,82,FRA,RD,Kurtz
+9,4,00:02,79,82,PAU,3_Pts_T,Valtinho
+10,4,00:09,79,82,PAU,RD,Gruber
+11,4,00:09,79,82,FRA,LL_Pts_T,Kurtz
+12,4,00:09,79,82,FRA,LL_Pts_T,Kurtz
+13,4,00:09,79,82,PAU,substituicao_sai,Jhonatan
+14,4,00:09,79,82,PAU,substituicao_entra,Caio Torres
+15,4,00:09,79,82,FRA,FR,Kurtz
+16,4,00:09,79,82,PAU,FC,Jhonatan
+17,4,00:11,79,82,PAU,substituicao_sai,Caio Torres
+18,4,00:11,79,82,PAU,substituicao_entra,Arthur Pecos
+19,4,00:11,79,82,FRA,tempo_tecnico,Franca
+20,4,00:11,79,82,PAU,LL_Pts_C,Gruber
+21,4,00:11,78,82,PAU,LL_Pts_C,Gruber
+22,4,00:11,77,82,FRA,substituicao_sai,Schneider
+23,4,00:11,77,82,FRA,substituicao_entra,Kurtz
+24,4,00:11,77,82,PAU,FR,Gruber
+25,4,00:11,77,82,FRA,FC,Isaac
+26,4,00:15,77,82,FRA,substituicao_sai,Kurtz
+27,4,00:15,77,82,FRA,substituicao_entra,Isaac
+28,4,00:15,77,82,PAU,tempo_tecnico,Paulistano
+29,4,00:15,77,82,FRA,LL_Pts_C,Antonio
+30,4,00:15,77,81,FRA,LL_Pts_C,Antonio
+31,4,00:15,77,80,FRA,FR,Antonio
+32,4,00:15,77,80,PAU,FC,Gruber
+33,4,00:15,77,80,PAU,3_Pts_T,Caio Torres
+34,4,00:28,77,80,PAU,substituicao_entra,Caio Torres
+35,4,00:28,77,80,PAU,substituicao_entra,Valtinho
+36,4,00:28,77,80,PAU,substituicao_sai,Toyloy
+37,4,00:28,77,80,PAU,substituicao_sai,Arthur Pecos
+38,4,00:28,77,80,FRA,ER,Bruno
+39,4,00:44,77,80,FRA,RD,Kurtz
+40,4,00:44,77,80,PAU,3_Pts_T,Dawkins
+41,4,00:49,77,80,PAU,RO,Arthur Pecos
+42,4,00:49,77,80,PAU,2_Pts_T,Dawkins
+43,4,01:01,77,80,PAU,RO,Toyloy
+44,4,01:01,77,80,PAU,LL_Pts_T,Jhonatan
+45,4,01:01,77,80,PAU,LL_Pts_C,Jhonatan
+46,4,01:01,76,80,PAU,substituicao_sai,Valtinho
+47,4,01:01,76,80,PAU,substituicao_entra,Arthur Pecos
+48,4,01:01,76,80,PAU,substituicao_sai,Caio Torres
+49,4,01:01,76,80,PAU,substituicao_entra,Toyloy
+50,4,01:01,76,80,PAU,FR,Jhonatan
+51,4,01:01,76,80,FRA,FC,Bruno
+52,4,01:01,76,80,PAU,RO,Jhonatan
+53,4,01:01,76,80,PAU,2_Pts_T,Caio Torres
+54,4,01:12,76,80,PAU,tempo_tecnico,Paulistano
+55,4,01:12,76,80,FRA,LL_Pts_C,Bruno
+56,4,01:12,76,79,FRA,LL_Pts_C,Bruno
+57,4,01:12,76,78,FRA,FR,Bruno
+58,4,01:12,76,78,PAU,FC,Jhonatan
+59,4,01:30,76,78,FRA,RD,Kurtz
+60,4,01:30,76,78,PAU,2_Pts_T,Caio Torres
+61,4,01:41,76,78,PAU,BR,Jhonatan
+62,4,01:41,76,78,FRA,ER,Antonio
+63,4,01:52,76,78,FRA,RD,Matheus
+64,4,01:52,76,78,PAU,3_Pts_T,Dawkins
+65,4,02:12,76,78,FRA,LL_Pts_C,Kurtz
+66,4,02:12,76,77,PAU,substituicao_sai,Gemerson
+67,4,02:12,76,77,PAU,substituicao_entra,Jhonatan
+68,4,02:12,76,77,FRA,FR,Kurtz
+69,4,02:12,76,77,PAU,FC,Gemerson
+70,4,02:12,76,77,FRA,2_Pts_C,Kurtz
+71,4,02:12,76,75,FRA,AS,Antonio
+72,4,02:34,76,75,FRA,RD,Franca
+73,4,02:34,76,75,PAU,2_Pts_T,Caio Torres
+74,4,02:36,76,75,PAU,FR,Gemerson
+75,4,02:36,76,75,FRA,FC,Antonio
+76,4,02:50,76,75,FRA,LL_Pts_C,Bruno
+77,4,02:50,76,74,FRA,LL_Pts_C,Bruno
+78,4,02:50,76,73,FRA,substituicao_sai,Isaac
+79,4,02:50,76,73,FRA,substituicao_entra,Antonio
+80,4,02:50,76,73,FRA,FR,Bruno
+81,4,02:50,76,73,PAU,FC,Gemerson
+82,4,03:06,76,73,FRA,RD,Kurtz
+83,4,03:06,76,73,PAU,2_Pts_T,Gruber
+84,4,03:25,76,73,PAU,RD,Valtinho
+85,4,03:25,76,73,FRA,3_Pts_T,Matheus
+86,4,03:49,76,73,PAU,2_Pts_C,Gruber
+87,4,04:04,74,73,PAU,RD,Caio Torres
+88,4,04:04,74,73,FRA,2_Pts_T,Kurtz
+89,4,04:07,74,73,FRA,RO,Kurtz
+90,4,04:07,74,73,FRA,2_Pts_T,Schneider
+91,4,04:30,74,73,PAU,2_Pts_C,Caio Torres
+92,4,04:30,72,73,PAU,AS,Gruber
+93,4,04:54,72,73,PAU,tempo_tecnico,Paulistano
+94,4,04:54,72,73,FRA,2_Pts_C,Bruno
+95,4,05:13,72,71,PAU,substituicao_sai,Arthur Pecos
+96,4,05:13,72,71,PAU,substituicao_entra,Dawkins
+97,4,05:13,72,71,FRA,FR,Schneider
+98,4,05:13,72,71,PAU,FC_O,Caio Torres
+99,4,05:31,72,71,PAU,RD,Gemerson
+100,4,05:31,72,71,FRA,2_Pts_T,Schneider
+101,4,05:38,72,71,FRA,RD,Schneider
+102,4,05:38,72,71,PAU,2_Pts_T,Arthur Pecos
+103,4,05:44,72,71,PAU,RD,Arthur Pecos
+104,4,05:44,72,71,FRA,3_Pts_T,Matheus
+105,4,06:02,72,71,FRA,RD,Kurtz
+106,4,06:02,72,71,PAU,2_Pts_T,Gruber
+107,4,06:13,72,71,PAU,RD,Gemerson
+108,4,06:13,72,71,FRA,3_Pts_T,Schneider
+109,4,06:26,72,71,FRA,RD,Kurtz
+110,4,06:26,72,71,FRA,TO,Kurtz
+111,4,06:26,72,71,PAU,2_Pts_T,Valtinho
+112,4,06:42,72,71,FRA,2_Pts_C,Matheus
+113,4,06:42,72,69,FRA,AS,Bruno
+114,4,06:58,72,69,FRA,FR,Kurtz
+115,4,06:58,72,69,PAU,FC,Caio Torres
+116,4,06:58,72,69,PAU,3_Pts_T,Gemerson
+117,4,07:10,72,69,FRA,substituicao_sai,João Pedro
+118,4,07:10,72,69,FRA,substituicao_entra,Kurtz
+119,4,07:10,72,69,PAU,substituicao_sai,Jhonatan
+120,4,07:10,72,69,PAU,substituicao_entra,Gruber
+121,4,07:12,72,69,PAU,FR,Valtinho
+122,4,07:12,72,69,FRA,FC,Bruno
+123,4,07:15,72,69,PAU,RD,Gemerson
+124,4,07:15,72,69,FRA,2_Pts_T,Matheus
+125,4,07:26,72,69,PAU,3_Pts_C,Gemerson
+126,4,07:26,69,69,PAU,AS,Caio Torres
+127,4,07:45,69,69,FRA,2_Pts_C,Bruno
+128,4,08:06,69,67,PAU,2_Pts_C,Caio Torres
+129,4,08:06,67,67,PAU,AS,Valtinho
+130,4,08:16,67,67,PAU,RD,Jhonatan
+131,4,08:16,67,67,FRA,LL_Pts_T,João Pedro
+132,4,08:16,67,67,PAU,substituicao_entra,Caio Torres
+133,4,08:16,67,67,PAU,substituicao_entra,Valtinho
+134,4,08:16,67,67,PAU,substituicao_sai,Toyloy
+135,4,08:16,67,67,PAU,substituicao_sai,Dawkins
+136,4,08:16,67,67,FRA,FR,João Pedro
+137,4,08:16,67,67,PAU,FC,Toyloy
+138,4,08:16,67,67,FRA,2_Pts_C,João Pedro
+139,4,08:16,67,65,FRA,AS,Isaac
+140,4,08:25,67,65,FRA,BR,Franca
+141,4,08:25,67,65,PAU,ER,Toyloy
+142,4,08:32,67,65,PAU,RD,Dawkins
+143,4,08:32,67,65,FRA,3_Pts_T,Schneider
+144,4,08:38,67,65,FRA,FR,Bruno
+145,4,08:38,67,65,PAU,FC,Gemerson
+146,4,08:55,67,65,PAU,LL_Pts_C,Dawkins
+147,4,08:55,66,65,PAU,LL_Pts_C,Dawkins
+148,4,08:55,65,65,PAU,FR,Dawkins
+149,4,08:55,65,65,FRA,FC,Isaac
+150,4,08:58,65,65,PAU,BR,Dawkins
+151,4,08:58,65,65,FRA,ER,Isaac
+152,4,09:15,65,65,PAU,3_Pts_C,Gemerson
+153,4,09:15,62,65,PAU,AS,Arthur Pecos
+154,4,09:29,62,65,FRA,2_Pts_C,Bruno
+155,4,09:49,62,63,PAU,2_Pts_C,Arthur Pecos
+156,3,00:00,60,63, ,fim_quarto,
+157,3,00:03,60,63,FRA,RD,Kurtz
+158,3,00:03,60,63,PAU,2_Pts_T,Arthur Pecos
+159,3,00:10,60,63,FRA,2_Pts_C,Kurtz
+160,3,00:15,60,61,FRA,RO,Kurtz
+161,3,00:15,60,61,FRA,3_Pts_T,Schneider
+162,3,00:35,60,61,PAU,2_Pts_C,Arthur Pecos
+163,3,00:49,58,61,PAU,RO,Paulistano
+164,3,00:49,58,61,PAU,3_Pts_T,Dawkins
+165,3,01:01,58,61,PAU,RO,Toyloy
+166,3,01:01,58,61,PAU,3_Pts_T,Dawkins
+167,3,01:20,58,61,FRA,3_Pts_C,Schneider
+168,3,01:20,58,58,FRA,AS,Cassiano
+169,3,01:42,58,58,FRA,substituicao_entra,Bruno
+170,3,01:42,58,58,FRA,substituicao_sai,Isaac
+171,3,01:42,58,58,FRA,tempo_tecnico,Franca
+172,3,01:42,58,58,PAU,3_Pts_C,Jhonatan
+173,3,01:42,55,58,PAU,AS,Arthur Pecos
+174,3,01:54,55,58,PAU,RD,Jhonatan
+175,3,01:54,55,58,FRA,2_Pts_T,Kurtz
+176,3,02:09,55,58,PAU,LL_Pts_C,Arthur Pecos
+177,3,02:09,54,58,PAU,LL_Pts_C,Arthur Pecos
+178,3,02:09,53,58,PAU,FR,Arthur Pecos
+179,3,02:09,53,58,FRA,FC,Isaac
+180,3,02:23,53,58,FRA,EN,Schneider
+181,3,02:23,53,56,FRA,AS,Isaac
+182,3,02:44,53,56,PAU,3_Pts_C,Gemerson
+183,3,02:44,50,56,PAU,AS,Jhonatan
+184,3,02:55,50,56,PAU,RO,Arthur Pecos
+185,3,02:55,50,56,PAU,3_Pts_T,Jhonatan
+186,3,03:08,50,56,FRA,ER,Schneider
+187,3,03:29,50,56,PAU,ER,Dawkins
+188,3,03:34,50,56,PAU,substituicao_sai,Valtinho
+189,3,03:34,50,56,PAU,substituicao_entra,Arthur Pecos
+190,3,03:34,50,56,FRA,substituicao_sai,Antonio
+191,3,03:34,50,56,FRA,substituicao_entra,Cassiano
+192,3,03:43,50,56,PAU,RD,Gemerson
+193,3,03:43,50,56,PAU,TO,Gemerson
+194,3,03:43,50,56,FRA,3_Pts_T,Schneider
+195,3,04:07,50,56,PAU,LL_Pts_C,Valtinho
+196,3,04:07,49,56,PAU,LL_Pts_T,Valtinho
+197,3,04:07,49,56,PAU,substituicao_entra,Toyloy
+198,3,04:07,49,56,PAU,substituicao_entra,Jhonatan
+199,3,04:07,49,56,PAU,substituicao_sai,Gruber
+200,3,04:07,49,56,PAU,substituicao_sai,Caio Torres
+201,3,04:07,49,56,FRA,substituicao_sai,Bruno
+202,3,04:07,49,56,FRA,substituicao_entra,Schneider
+203,3,04:07,49,56,PAU,FR,Valtinho
+204,3,04:07,49,56,FRA,FC,Matheus
+205,3,04:17,49,56,PAU,RO,Dawkins
+206,3,04:17,49,56,PAU,2_Pts_T,Dawkins
+207,3,04:38,49,56,FRA,2_Pts_C,Bruno
+208,3,04:43,49,54,FRA,BR,Bruno
+209,3,04:43,49,54,PAU,ER,Dawkins
+210,3,04:58,49,54,FRA,2_Pts_C,Matheus
+211,3,04:58,49,52,FRA,AS,Kurtz
+212,3,05:15,49,52,PAU,EN,Gruber
+213,3,05:15,47,52,PAU,AS,Valtinho
+214,3,05:20,47,52,PAU,BR,Dawkins
+215,3,05:20,47,52,FRA,ER,Bruno
+216,3,05:34,47,52,PAU,3_Pts_C,Gemerson
+217,3,05:58,44,52,FRA,LL_Pts_C,Isaac
+218,3,05:58,44,51,FRA,LL_Pts_T,Isaac
+219,3,05:58,44,51,FRA,FR,Isaac
+220,3,05:58,44,51,PAU,FC,Gemerson
+221,3,06:08,44,51,FRA,RD,Kurtz
+222,3,06:08,44,51,PAU,LL_Pts_T,Caio Torres
+223,3,06:08,44,51,PAU,LL_Pts_T,Caio Torres
+224,3,06:08,44,51,PAU,FR,Caio Torres
+225,3,06:08,44,51,FRA,FC,Isaac
+226,3,06:19,44,51,PAU,FR,Gruber
+227,3,06:19,44,51,FRA,FC,Antonio
+228,3,06:29,44,51,FRA,LL_Pts_C,Antonio
+229,3,06:29,44,50,FRA,LL_Pts_T,Antonio
+230,3,06:29,44,50,FRA,FR,Antonio
+231,3,06:29,44,50,PAU,FC,Caio Torres
+232,3,06:36,44,50,FRA,RD,Franca
+233,3,06:36,44,50,PAU,2_Pts_T,Valtinho
+234,3,06:51,44,50,PAU,substituicao_sai,Jhonatan
+235,3,06:51,44,50,PAU,substituicao_entra,Gemerson
+236,3,06:51,44,50,PAU,RD,Paulistano
+237,3,06:51,44,50,FRA,2_Pts_T,Kurtz
+238,3,07:05,44,50,FRA,RO,Matheus
+239,3,07:05,44,50,FRA,3_Pts_T,Isaac
+240,3,07:19,44,50,FRA,FR,Antonio
+241,3,07:19,44,50,PAU,FC,Dawkins
+242,3,07:22,44,50,FRA,RD,Antonio
+243,3,07:22,44,50,PAU,3_Pts_T,Dawkins
+244,3,07:32,44,50,PAU,LL_Pts_C,Dawkins
+245,3,07:32,43,50,PAU,LL_Pts_C,Dawkins
+246,3,07:32,42,50,FRA,substituicao_sai,Thiaguinho
+247,3,07:32,42,50,FRA,substituicao_entra,Matheus
+248,3,07:32,42,50,PAU,FR,Dawkins
+249,3,07:32,42,50,FRA,FC_A,Thiaguinho
+250,3,07:32,42,50,PAU,BR,Dawkins
+251,3,07:32,42,50,FRA,ER,Thiaguinho
+252,3,07:43,42,50,PAU,2_Pts_C,Gruber
+253,3,07:43,40,50,PAU,AS,Valtinho
+254,3,07:56,40,50,FRA,2_Pts_C,Isaac
+255,3,08:22,40,48,FRA,RD,Kurtz
+256,3,08:22,40,48,PAU,2_Pts_T,Dawkins
+257,3,08:28,40,48,FRA,,
+258,3,08:42,40,48,PAU,2_Pts_C,Dawkins
+259,3,08:46,38,48,PAU,BR,Dawkins
+260,3,08:46,38,48,FRA,ER,Thiaguinho
+261,3,08:48,38,48,FRA,RD,Kurtz
+262,3,08:48,38,48,PAU,3_Pts_T,Valtinho
+263,3,09:07,38,48,FRA,2_Pts_C,Thiaguinho
+264,3,09:07,38,46,FRA,AS,Bruno
+265,3,09:25,38,46,PAU,3_Pts_C,Jhonatan
+266,3,09:25,35,46,PAU,AS,Valtinho
+267,3,09:37,35,46,PAU,RD,Gruber
+268,3,09:37,35,46,FRA,2_Pts_T,Isaac
+269,3,09:46,35,46,FRA,FR,Thiaguinho
+270,3,09:46,35,46,PAU,FC,Jhonatan
+271,2,00:00,35,46, ,fim_quarto,
+272,2,00:01,35,46,PAU,3_Pts_T,Caio Torres
+273,2,00:14,35,46,PAU,RD,Jhonatan
+274,2,00:14,35,46,FRA,3_Pts_T,Matheus
+275,2,00:37,35,46,FRA,BR,Matheus
+276,2,00:37,35,46,PAU,ER,Valtinho
+277,2,00:47,35,46,PAU,BR,Paulistano
+278,2,00:47,35,46,FRA,ER,Bruno
+279,2,01:03,35,46,PAU,LL_Pts_C,Caio Torres
+280,2,01:03,34,46,PAU,LL_Pts_C,Caio Torres
+281,2,01:03,33,46,PAU,FR,Caio Torres
+282,2,01:03,33,46,FRA,FC,João Pedro
+283,2,01:03,33,46,PAU,RO,Caio Torres
+284,2,01:03,33,46,PAU,2_Pts_T,Dawkins
+285,2,01:21,33,46,FRA,2_Pts_C,João Pedro
+286,2,01:21,33,44,FRA,AS,Matheus
+287,2,01:39,33,44,PAU,ER,Gemerson
+288,2,01:55,33,44,PAU,substituicao_entra,Valtinho
+289,2,01:55,33,44,PAU,substituicao_sai,Arthur Pecos
+290,2,01:55,33,44,FRA,substituicao_entra,João Pedro
+291,2,01:55,33,44,FRA,substituicao_sai,Kurtz
+292,2,01:55,33,44,PAU,tempo_tecnico,Paulistano
+293,2,01:55,33,44,FRA,2_Pts_C,Cauê
+294,2,01:55,33,42,FRA,RO,Cauê
+295,2,01:55,33,42,FRA,2_Pts_T,Kurtz
+296,2,02:16,33,42,FRA,RD,Bruno
+297,2,02:16,33,42,PAU,2_Pts_T,Arthur Pecos
+298,2,02:34,33,42,FRA,3_Pts_C,Bruno
+299,2,02:34,33,39,FRA,AS,Cauê
+300,2,02:39,33,39,FRA,FR,Bruno
+301,2,02:39,33,39,PAU,FC,Gemerson
+302,2,02:41,33,39,PAU,substituicao_entra,Gemerson
+303,2,02:41,33,39,PAU,substituicao_sai,Gruber
+304,2,02:49,33,39,PAU,2_Pts_C,Caio Torres
+305,2,02:52,31,39,PAU,RO,Caio Torres
+306,2,02:52,31,39,PAU,2_Pts_T,Caio Torres
+307,2,03:11,31,39,PAU,FR,Arthur Pecos
+308,2,03:11,31,39,FRA,FC_O,Kurtz
+309,2,03:22,31,39,PAU,substituicao_entra,Dawkins
+310,2,03:22,31,39,PAU,substituicao_sai,Valtinho
+311,2,03:22,31,39,FRA,BR,Franca
+312,2,03:22,31,39,PAU,ER,Jhonatan
+313,2,03:34,31,39,PAU,RD,Jhonatan
+314,2,03:34,31,39,FRA,3_Pts_T,Schneider
+315,2,03:58,31,39,FRA,RD,Kurtz
+316,2,03:58,31,39,PAU,2_Pts_T,Gruber
+317,2,04:19,31,39,FRA,2_Pts_C,Kurtz
+318,2,04:19,31,37,FRA,AS,Matheus
+319,2,04:41,31,37,PAU,LL_Pts_C,Arthur Pecos
+320,2,04:41,30,37,PAU,LL_Pts_T,Arthur Pecos
+321,2,04:41,30,37,FRA,substituicao_sai,Antonio
+322,2,04:41,30,37,FRA,substituicao_entra,Cauê
+323,2,04:41,30,37,PAU,substituicao_entra,Caio Torres
+324,2,04:41,30,37,PAU,substituicao_sai,Toyloy
+325,2,04:41,30,37,PAU,FR,Arthur Pecos
+326,2,04:41,30,37,FRA,FC,Matheus
+327,2,04:54,30,37,FRA,2_Pts_C,Bruno
+328,2,05:12,30,35,PAU,ER,Valtinho
+329,2,05:22,30,35,PAU,BR,Gruber
+330,2,05:22,30,35,FRA,ER,Antonio
+331,2,05:34,30,35,PAU,LL_Pts_C,Toyloy
+332,2,05:34,29,35,PAU,LL_Pts_T,Toyloy
+333,2,05:34,29,35,PAU,substituicao_sai,Guilherme
+334,2,05:34,29,35,PAU,substituicao_entra,Gruber
+335,2,05:34,29,35,FRA,substituicao_entra,Bruno
+336,2,05:34,29,35,FRA,substituicao_sai,Isaac
+337,2,05:34,29,35,PAU,FR,Toyloy
+338,2,05:34,29,35,FRA,FC,Kurtz
+339,2,05:57,29,35,FRA,3_Pts_C,Matheus
+340,2,05:57,29,32,FRA,AS,Kurtz
+341,2,06:07,29,32,FRA,RD,Matheus
+342,2,06:07,29,32,PAU,2_Pts_T,Toyloy
+343,2,06:18,29,32,PAU,RD,Guilherme
+344,2,06:18,29,32,FRA,2_Pts_T,Kurtz
+345,2,06:40,29,32,PAU,substituicao_entra,Valtinho
+346,2,06:40,29,32,PAU,substituicao_sai,Dawkins
+347,2,06:40,29,32,FRA,substituicao_entra,Kurtz
+348,2,06:40,29,32,FRA,substituicao_sai,João Pedro
+349,2,06:42,29,32,FRA,tempo_tecnico,Franca
+350,2,06:42,29,32,PAU,3_Pts_C,Jhonatan
+351,2,06:42,26,32,PAU,AS,Arthur Pecos
+352,2,06:48,26,32,PAU,RO,Toyloy
+353,2,06:48,26,32,PAU,3_Pts_T,Guilherme
+354,2,07:03,26,32,PAU,FR,Dawkins
+355,2,07:03,26,32,FRA,FC_O,Antonio
+356,2,07:21,26,32,PAU,3_Pts_C,Jhonatan
+357,2,07:21,23,32,PAU,AS,Arthur Pecos
+358,2,07:32,23,32,FRA,2_Pts_C,João Pedro
+359,2,07:59,23,30,PAU,2_Pts_C,Toyloy
+360,2,08:09,21,30,FRA,2_Pts_C,Antonio
+361,2,08:23,21,28,FRA,RD,Isaac
+362,2,08:23,21,28,PAU,3_Pts_T,Arthur Pecos
+363,2,08:28,21,28,PAU,BR,Toyloy
+364,2,08:28,21,28,FRA,ER,Matheus
+365,2,08:37,21,28,FRA,RD,Matheus
+366,2,08:37,21,28,PAU,3_Pts_T,Guilherme
+367,2,08:48,21,28,PAU,RO,Arthur Pecos
+368,2,08:48,21,28,PAU,2_Pts_T,Toyloy
+369,2,09:06,21,28,FRA,3_Pts_C,Matheus
+370,2,09:06,21,25,FRA,AS,Antonio
+371,2,09:17,21,25,FRA,FR,Matheus
+372,2,09:17,21,25,PAU,FC,Arthur Pecos
+373,2,09:36,21,25,PAU,3_Pts_C,Guilherme
+374,2,09:45,18,25,PAU,RO,Arthur Pecos
+375,2,09:45,18,25,PAU,2_Pts_T,Jhonatan
+376,2,09:51,18,25,PAU,RO,Jhonatan
+377,2,09:51,18,25,PAU,3_Pts_T,Guilherme
+378,1,00:00,18,25, ,fim_quarto,
+379,1,00:02,18,25,PAU,2_Pts_T,Caio Torres
+380,1,00:13,18,25,FRA,LL_Pts_C,Bruno
+381,1,00:13,18,24,FRA,LL_Pts_C,Bruno
+382,1,00:13,18,23,FRA,substituicao_entra,Cassiano
+383,1,00:13,18,23,FRA,substituicao_sai,Thiaguinho
+384,1,00:13,18,23,FRA,substituicao_sai,Antonio
+385,1,00:13,18,23,FRA,substituicao_entra,João Pedro
+386,1,00:13,18,23,FRA,FR,Bruno
+387,1,00:13,18,23,PAU,FC,Guilherme
+388,1,00:15,18,23,FRA,RO,Bruno
+389,1,00:15,18,23,FRA,2_Pts_T,Bruno
+390,1,00:34,18,23,FRA,RD,Thiaguinho
+391,1,00:34,18,23,PAU,2_Pts_T,Caio Torres
+392,1,00:51,18,23,FRA,ER,Schneider
+393,1,00:55,18,23,FRA,RD,Thiaguinho
+394,1,00:55,18,23,FRA,TO,Kurtz
+395,1,00:55,18,23,PAU,2_Pts_T,Caio Torres
+396,1,01:14,18,23,FRA,2_Pts_C,Antonio
+397,1,01:25,18,21,PAU,2_Pts_C,Jhonatan
+398,1,01:28,16,21,PAU,RO,Jhonatan
+399,1,01:28,16,21,PAU,2_Pts_T,Jhonatan
+400,1,01:32,16,21,PAU,RO,Jhonatan
+401,1,01:32,16,21,PAU,2_Pts_T,Caio Torres
+402,1,01:49,16,21,PAU,substituicao_entra,Guilherme
+403,1,01:49,16,21,PAU,substituicao_entra,Jhonatan
+404,1,01:49,16,21,PAU,substituicao_sai,Gruber
+405,1,01:49,16,21,PAU,substituicao_sai,Gemerson
+406,1,01:49,16,21,FRA,substituicao_sai,Isaac
+407,1,01:49,16,21,FRA,substituicao_entra,Schneider
+408,1,01:49,16,21,PAU,BR,Paulistano
+409,1,01:49,16,21,FRA,ER,Isaac
+410,1,01:53,16,21,FRA,BR,Antonio
+411,1,01:53,16,21,PAU,ER,Gemerson
+412,1,02:01,16,21,PAU,RD,Gruber
+413,1,02:01,16,21,FRA,3_Pts_T,Bruno
+414,1,02:10,16,21,FRA,RO,Bruno
+415,1,02:10,16,21,FRA,2_Pts_T,Antonio
+416,1,02:27,16,21,PAU,2_Pts_C,Gruber
+417,1,02:47,14,21,FRA,3_Pts_C,Isaac
+418,1,02:47,14,18,FRA,AS,Thiaguinho
+419,1,02:59,14,18,FRA,RD,Kurtz
+420,1,02:59,14,18,PAU,2_Pts_T,Caio Torres
+421,1,03:16,14,18,PAU,RD,Gruber
+422,1,03:16,14,18,FRA,2_Pts_T,Thiaguinho
+423,1,03:41,14,18,FRA,RD,Franca
+424,1,03:41,14,18,PAU,2_Pts_T,Gemerson
+425,1,03:43,14,18,PAU,RO,Gemerson
+426,1,03:43,14,18,PAU,3_Pts_T,Gruber
+427,1,03:58,14,18,FRA,ER,Antonio
+428,1,04:08,14,18,PAU,3_Pts_C,Gemerson
+429,1,04:29,11,18,FRA,2_Pts_C,Bruno
+430,1,04:44,11,16,PAU,ER,Gemerson
+431,1,04:56,11,16,PAU,RO,Caio Torres
+432,1,04:56,11,16,PAU,3_Pts_T,Gemerson
+433,1,05:15,11,16,FRA,3_Pts_C,Thiaguinho
+434,1,05:15,11,13,FRA,AS,Kurtz
+435,1,05:28,11,13,PAU,2_Pts_C,Caio Torres
+436,1,05:28,9,13,PAU,AS,Valtinho
+437,1,05:36,9,13,FRA,,
+438,1,05:47,9,13,PAU,LL_Pts_C,Gruber
+439,1,05:47,8,13,PAU,LL_Pts_C,Gruber
+440,1,05:47,7,13,PAU,FR,Gruber
+441,1,05:47,7,13,FRA,FC,Thiaguinho
+442,1,06:01,7,13,PAU,tempo_tecnico,Paulistano
+443,1,06:01,7,13,FRA,2_Pts_C,Thiaguinho
+444,1,06:15,7,11,FRA,RD,Bruno
+445,1,06:15,7,11,PAU,2_Pts_T,Caio Torres
+446,1,06:24,7,11,FRA,3_Pts_C,Isaac
+447,1,06:24,7,8,FRA,AS,Antonio
+448,1,06:44,7,8,PAU,3_Pts_C,Gemerson
+449,1,06:44,4,8,PAU,AS,Valtinho
+450,1,07:02,4,8,PAU,RD,Caio Torres
+451,1,07:02,4,8,PAU,TO,Gruber
+452,1,07:02,4,8,FRA,2_Pts_T,Isaac
+453,1,07:19,4,8,PAU,2_Pts_C,Caio Torres
+454,1,07:19,2,8,PAU,AS,Valtinho
+455,1,07:30,2,8,FRA,3_Pts_C,Isaac
+456,1,07:30,2,5,FRA,AS,Bruno
+457,1,07:42,2,5,PAU,2_Pts_C,Valtinho
+458,1,07:49,0,5,PAU,RD,Caio Torres
+459,1,07:49,0,5,FRA,2_Pts_T,Kurtz
+460,1,07:54,0,5,FRA,BR,Kurtz
+461,1,07:54,0,5,PAU,ER,Gemerson
+462,1,08:19,0,5,FRA,3_Pts_C,Antonio
+463,1,08:19,0,2,FRA,AS,Thiaguinho
+464,1,08:28,0,2,FRA,RD,Antonio
+465,1,08:28,0,2,PAU,3_Pts_T,Gemerson
+466,1,08:51,0,2,FRA,2_Pts_C,Kurtz
+467,1,08:51,0,0,FRA,AS,Bruno
+468,1,09:04,0,0,FRA,RD,Thiaguinho
+469,1,09:04,0,0,PAU,3_Pts_T,Gemerson
+470,1,09:15,0,0,PAU,RD,Caio Torres
+471,1,09:15,0,0,FRA,2_Pts_T,Isaac
+472,1,09:25,0,0,FRA,RO,Franca
+473,1,09:26,0,0,FRA,2_Pts_T,Kurtz
+474,1,09:38,0,0,FRA,BR,Kurtz
+475,1,09:38,0,0,PAU,ER,Gruber
+476,1,09:45,0,0,PAU,BR,Gruber
+477,1,09:45,0,0,FRA,ER,Kurtz
+478,1,10:00,0,0,FRA,substituicao_entra,Antonio
+479,1,10:00,0,0,FRA,substituicao_entra,Kurtz
+480,1,10:00,0,0,FRA,substituicao_entra,Isaac
+481,1,10:00,0,0,FRA,substituicao_entra,Bruno
+482,1,10:00,0,0,FRA,substituicao_entra,Thiaguinho
+483,1,10:00,0,0,PAU,substituicao_entra,Dawkins
+484,1,10:00,0,0,PAU,substituicao_entra,Gruber
+485,1,10:00,0,0,PAU,substituicao_entra,Caio Torres
+486,1,10:00,0,0,PAU,substituicao_entra,Valtinho
+487,1,10:00,0,0,PAU,substituicao_entra,Gemerson

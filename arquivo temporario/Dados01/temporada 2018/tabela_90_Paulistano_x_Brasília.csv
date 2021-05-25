@@ -1,0 +1,593 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,83,82,,fim_partida,
+1,4,00:00,83,82,,fim_quarto,
+2,4,00:05,83,82,BRA,RD,Graterol
+3,4,00:08,83,82,CAP,LL_Pts_T,Guilherme
+4,4,00:08,83,82,CAP,LL_Pts_T,Guilherme
+5,4,00:08,83,82,BRA,substituicao_entra,Graterol
+6,4,00:08,83,82,BRA,substituicao_sai,Rafa Moreira
+7,4,00:08,83,82,BRA,substituicao_entra,Ricky Sánchez
+8,4,00:08,83,82,BRA,substituicao_sai,Andrezão
+9,4,00:08,83,82,BRA,substituicao_entra,Nezinho
+10,4,00:08,83,82,BRA,substituicao_sai,P Rava
+11,4,00:08,83,82,CAP,substituicao_entra,De Paula
+12,4,00:08,83,82,CAP,substituicao_sai,Antonio
+13,4,00:08,83,82,CAP,FR,Guilherme
+14,4,00:08,83,82,BRA,FC,P Rava
+15,4,00:09,83,82,BRA,substituicao_entra,Andrezão
+16,4,00:09,83,82,BRA,substituicao_sai,Ricky Sánchez
+17,4,00:09,83,82,BRA,substituicao_entra,P Rava
+18,4,00:09,83,82,BRA,substituicao_sai,Nezinho
+19,4,00:09,83,82,CAP,substituicao_entra,Antonio
+20,4,00:09,83,82,CAP,substituicao_sai,Du Sommer
+21,4,00:09,83,82,CAP,tempo_tecnico,Paulistano
+22,4,00:09,83,82,BRA,LL_Pts_C,Nezinho
+23,4,00:09,83,81,BRA,LL_Pts_C,Nezinho
+24,4,00:09,83,80,CAP,substituicao_entra,Guilherme
+25,4,00:09,83,80,CAP,substituicao_sai,De Paula
+26,4,00:09,83,80,BRA,FR,Nezinho
+27,4,00:09,83,80,CAP,FC,Du Sommer
+28,4,00:11,83,80,BRA,substituicao_entra,Ricky Sánchez
+29,4,00:11,83,80,BRA,substituicao_sai,Graterol
+30,4,00:11,83,80,BRA,tempo_tecnico,Universo/Caixa/Brasília
+31,4,00:11,83,80,CAP,LL_Pts_C,Yago
+32,4,00:11,82,80,CAP,LL_Pts_T,Yago
+33,4,00:11,82,80,CAP,substituicao_entra,Du Sommer
+34,4,00:11,82,80,CAP,substituicao_sai,Guilherme
+35,4,00:11,82,80,CAP,FR,Yago
+36,4,00:11,82,80,BRA,FC,Graterol
+37,4,00:33,82,80,BRA,AS,Nezinho
+38,4,00:33,82,80,BRA,2_Pts_C,Graterol
+39,4,00:36,82,78,BRA,RD,Nezinho
+40,4,00:36,82,78,BRA,TO,Graterol
+41,4,00:36,82,78,CAP,2_Pts_T,Guilherme
+42,4,00:52,82,78,CAP,substituicao_entra,Guilherme
+43,4,00:52,82,78,CAP,substituicao_sai,Du Sommer
+44,4,00:55,82,78,BRA,AS,Nezinho
+45,4,00:55,82,78,BRA,2_Pts_C,Graterol
+46,4,01:09,82,76,BRA,RD,Graterol
+47,4,01:13,82,76,CAP,2_Pts_T,Du Sommer
+48,4,01:31,82,76,CAP,substituicao_entra,De Paula
+49,4,01:31,82,76,CAP,substituicao_sai,Victão
+50,4,01:31,82,76,CAP,RD,Du Sommer
+51,4,01:33,82,76,BRA,3_Pts_T,Zach Graham
+52,4,01:36,82,76,BRA,RD,Graterol
+53,4,01:41,82,76,CAP,2_Pts_T,Yago
+54,4,01:59,82,76,BRA,AS,Zach Graham
+55,4,01:59,82,76,BRA,2_Pts_C,Graterol
+56,4,02:05,82,74,BRA,BR,Arthur
+57,4,02:05,82,74,CAP,ER,Léo Meindl
+58,4,02:19,82,74,BRA,substituicao_entra,Rafa Moreira
+59,4,02:19,82,74,BRA,substituicao_sai,Ricky Sánchez
+60,4,02:19,82,74,BRA,LL_Pts_C,Zach Graham
+61,4,02:19,82,73,BRA,LL_Pts_C,Zach Graham
+62,4,02:19,82,72,BRA,FR,Zach Graham
+63,4,02:19,82,72,CAP,FC,Roquemore
+64,4,02:35,82,72,BRA,RD,Universo/Caixa/Brasília
+65,4,02:37,82,72,CAP,3_Pts_T,Léo Meindl
+66,4,02:42,82,72,CAP,RD,Roquemore
+67,4,02:46,82,72,BRA,3_Pts_T,Nezinho
+68,4,03:02,82,72,CAP,AS,Du Sommer
+69,4,03:02,82,72,CAP,3_Pts_C,Yago
+70,4,03:13,79,72,CAP,RD,Du Sommer
+71,4,03:17,79,72,BRA,3_Pts_T,Arthur
+72,4,03:33,79,72,BRA,substituicao_entra,Nezinho
+73,4,03:33,79,72,BRA,substituicao_sai,Rafa Moreira
+74,4,03:33,79,72,BRA,substituicao_entra,Ricky Sánchez
+75,4,03:33,79,72,BRA,substituicao_sai,P Rava
+76,4,03:33,79,72,BRA,tempo_tecnico,Universo/Caixa/Brasília
+77,4,03:33,79,72,CAP,AS,Roquemore
+78,4,03:33,79,72,CAP,3_Pts_C,Yago
+79,4,03:46,76,72,CAP,RD,Léo Meindl
+80,4,03:49,76,72,BRA,3_Pts_T,Rafa Moreira
+81,4,03:52,76,72,CAP,2_Pts_C,Léo Meindl
+82,4,03:53,74,72,CAP,RO,Du Sommer
+83,4,04:03,74,72,CAP,3_Pts_T,Léo Meindl
+84,4,04:07,74,72,BRA,substituicao_entra,P Rava
+85,4,04:07,74,72,BRA,substituicao_sai,Nezinho
+86,4,04:07,74,72,CAP,RO,Victão
+87,4,04:10,74,72,CAP,2_Pts_T,Victão
+88,4,04:16,74,72,CAP,RD,Léo Meindl
+89,4,04:18,74,72,BRA,LL_Pts_T,Nezinho
+90,4,04:18,74,72,BRA,LL_Pts_T,Nezinho
+91,4,04:18,74,72,CAP,substituicao_entra,Yago
+92,4,04:18,74,72,CAP,substituicao_sai,De Paula
+93,4,04:18,74,72,CAP,substituicao_entra,Du Sommer
+94,4,04:18,74,72,CAP,substituicao_sai,Guilherme
+95,4,04:18,74,72,BRA,FR,Nezinho
+96,4,04:18,74,72,CAP,FC,Guilherme
+97,4,04:22,74,72,BRA,RD,Graterol
+98,4,04:26,74,72,CAP,3_Pts_T,Roquemore
+99,4,04:35,74,72,CAP,FR,Roquemore
+100,4,04:35,74,72,BRA,FC,Nezinho
+101,4,04:42,74,72,CAP,RD,Paulistano
+102,4,04:44,74,72,BRA,3_Pts_T,Arthur
+103,4,04:56,74,72,BRA,RD,Rafa Moreira
+104,4,05:01,74,72,CAP,3_Pts_T,Guilherme
+105,4,05:14,74,72,CAP,RD,Victão
+106,4,05:18,74,72,BRA,2_Pts_T,Graterol
+107,4,05:30,74,72,BRA,FR,Rafa Moreira
+108,4,05:30,74,72,CAP,FC,Guilherme
+109,4,05:35,74,72,BRA,BR,Graterol
+110,4,05:35,74,72,CAP,ER,Léo Meindl
+111,4,05:43,74,72,BRA,substituicao_entra,Rafa Moreira
+112,4,05:43,74,72,BRA,substituicao_sai,Ricky Sánchez
+113,4,05:43,74,72,CAP,FR,Roquemore
+114,4,05:43,74,72,BRA,FC,Ricky Sánchez
+115,4,05:49,74,72,CAP,RO,Léo Meindl
+116,4,05:54,74,72,CAP,3_Pts_T,De Paula
+117,4,06:12,74,72,CAP,RD,Léo Meindl
+118,4,06:16,74,72,BRA,2_Pts_T,Nezinho
+119,4,06:45,74,72,CAP,AS,Léo Meindl
+120,4,06:45,74,72,CAP,EN,Guilherme
+121,4,07:02,72,72,BRA,AS,Nezinho
+122,4,07:02,72,72,BRA,2_Pts_C,Graterol
+123,4,07:05,72,70,BRA,RO,Universo/Caixa/Brasília
+124,4,07:05,72,70,CAP,TO,Roquemore
+125,4,07:05,72,70,BRA,2_Pts_T,Nezinho
+126,4,07:07,72,70,BRA,RD,Ricky Sánchez
+127,4,07:13,72,70,BRA,TO,Ricky Sánchez
+128,4,07:13,72,70,CAP,2_Pts_T,Victão
+129,4,07:36,72,70,BRA,LL_Pts_C,Nezinho
+130,4,07:36,72,69,CAP,substituicao_entra,De Paula
+131,4,07:36,72,69,CAP,substituicao_sai,Yago
+132,4,07:36,72,69,CAP,substituicao_entra,Guilherme
+133,4,07:36,72,69,CAP,substituicao_sai,Du Sommer
+134,4,07:36,72,69,BRA,FR,Nezinho
+135,4,07:36,72,69,CAP,FC,Du Sommer
+136,4,07:36,72,69,BRA,2_Pts_C,Nezinho
+137,4,07:44,72,67,BRA,RD,Graterol
+138,4,07:49,72,67,CAP,2_Pts_T,Léo Meindl
+139,4,08:07,72,67,CAP,RD,Roquemore
+140,4,08:11,72,67,BRA,2_Pts_T,Graterol
+141,4,08:11,72,67,BRA,RO,Graterol
+142,4,08:17,72,67,BRA,2_Pts_T,Graterol
+143,4,08:34,72,67,CAP,2_Pts_C,Léo Meindl
+144,4,08:49,70,67,BRA,LL_Pts_C,Arthur
+145,4,08:49,70,66,CAP,substituicao_entra,Victão
+146,4,08:49,70,66,CAP,substituicao_sai,Renan
+147,4,08:49,70,66,CAP,substituicao_entra,Roquemore
+148,4,08:49,70,66,CAP,substituicao_sai,De Paula
+149,4,08:49,70,66,BRA,FR,Arthur
+150,4,08:49,70,66,CAP,FC,De Paula
+151,4,08:49,70,66,BRA,AS,Graterol
+152,4,08:49,70,66,BRA,2_Pts_C,Arthur
+153,4,08:55,70,64,CAP,LL_Pts_C,De Paula
+154,4,08:55,69,64,CAP,LL_Pts_T,De Paula
+155,4,08:55,69,64,CAP,FR,De Paula
+156,4,08:55,69,64,BRA,FC,Nezinho
+157,4,09:07,69,64,CAP,RD,De Paula
+158,4,09:12,69,64,BRA,2_Pts_T,Zach Graham
+159,4,09:14,69,64,CAP,substituicao_entra,Du Sommer
+160,4,09:14,69,64,CAP,substituicao_sai,Dikembe
+161,4,09:14,69,64,BRA,FR,Nezinho
+162,4,09:14,69,64,CAP,ER,Dikembe
+163,4,09:14,69,64,CAP,FC_O,Dikembe
+164,4,09:25,69,64,BRA,AS,Ricky Sánchez
+165,4,09:25,69,64,BRA,3_Pts_C,Zach Graham
+166,4,09:42,69,61,BRA,BR,Graterol
+167,4,09:42,69,61,CAP,ER,Yago
+168,4,10:00,69,61,,inicio_quarto,
+169,3,00:00,69,61,,fim_quarto,
+170,3,00:02,69,61,CAP,3_Pts_T,Yago
+171,3,00:07,69,61,BRA,AS,Nezinho
+172,3,00:07,69,61,BRA,2_Pts_C,Arthur
+173,3,00:26,69,59,BRA,substituicao_entra,Ricky Sánchez
+174,3,00:26,69,59,BRA,substituicao_sai,Rafa Moreira
+175,3,00:26,69,59,CAP,substituicao_entra,Beto
+176,3,00:26,69,59,CAP,substituicao_sai,Roquemore
+177,3,00:26,69,59,CAP,substituicao_entra,Dikembe
+178,3,00:26,69,59,CAP,substituicao_sai,Du Sommer
+179,3,00:26,69,59,BRA,substituicao_entra,Arthur
+180,3,00:26,69,59,BRA,substituicao_sai,Andrezão
+181,3,00:26,69,59,BRA,substituicao_entra,Nezinho
+182,3,00:26,69,59,BRA,substituicao_sai,P Rava
+183,3,00:26,69,59,CAP,LL_Pts_C,Du Sommer
+184,3,00:26,68,59,CAP,LL_Pts_C,Du Sommer
+185,3,00:26,67,59,CAP,substituicao_entra,Antonio
+186,3,00:26,67,59,CAP,substituicao_sai,De Paula
+187,3,00:26,67,59,CAP,FR,Du Sommer
+188,3,00:26,67,59,BRA,FC,P Rava
+189,3,00:38,67,59,CAP,RD,Renan
+190,3,00:44,67,59,BRA,2_Pts_T,Zach Graham
+191,3,00:57,67,59,BRA,BR,P Rava
+192,3,00:57,67,59,CAP,ER,Du Sommer
+193,3,00:59,67,59,CAP,RO,Du Sommer
+194,3,01:03,67,59,CAP,2_Pts_T,Renan
+195,3,01:15,67,59,BRA,substituicao_entra,P Rava
+196,3,01:15,67,59,BRA,substituicao_sai,Nezinho
+197,3,01:15,67,59,CAP,substituicao_entra,Yago
+198,3,01:15,67,59,CAP,substituicao_sai,Victão
+199,3,01:15,67,59,CAP,substituicao_entra,Renan
+200,3,01:15,67,59,CAP,substituicao_sai,Antonio
+201,3,01:15,67,59,BRA,ER,
+202,3,01:15,67,59,BRA,RO,Rafa Moreira
+203,3,01:16,67,59,BRA,3_Pts_T,Graterol
+204,3,01:36,67,59,CAP,ER,
+205,3,01:53,67,59,BRA,substituicao_entra,Andrezão
+206,3,01:53,67,59,BRA,substituicao_sai,Arthur
+207,3,01:53,67,59,CAP,LL_Pts_T,Du Sommer
+208,3,01:53,67,59,CAP,LL_Pts_T,Du Sommer
+209,3,01:53,67,59,CAP,FR,Du Sommer
+210,3,01:53,67,59,BRA,FC_A,Nezinho
+211,3,02:00,67,59,BRA,LL_Pts_C,Rafa Moreira
+212,3,02:00,67,58,BRA,FR,Rafa Moreira
+213,3,02:00,67,58,CAP,FC,Antonio
+214,3,02:00,67,58,BRA,AS,Nezinho
+215,3,02:00,67,58,BRA,2_Pts_C,Rafa Moreira
+216,3,02:22,67,56,CAP,AS,Roquemore
+217,3,02:22,67,56,CAP,3_Pts_C,Victão
+218,3,02:37,64,56,CAP,substituicao_entra,Antonio
+219,3,02:37,64,56,CAP,substituicao_sai,Eddy
+220,3,02:37,64,56,CAP,FR,Victão
+221,3,02:37,64,56,BRA,ER,Graterol
+222,3,02:37,64,56,BRA,FC_O,Graterol
+223,3,02:40,64,56,BRA,RO,Graterol
+224,3,02:45,64,56,BRA,3_Pts_T,Rafa Moreira
+225,3,02:53,64,56,BRA,BR,Zach Graham
+226,3,02:53,64,56,CAP,ER,De Paula
+227,3,02:59,64,56,CAP,BR,De Paula
+228,3,02:59,64,56,BRA,ER,Nezinho
+229,3,03:15,64,56,CAP,AS,De Paula
+230,3,03:15,64,56,CAP,2_Pts_C,Du Sommer
+231,3,03:31,62,56,BRA,2_Pts_C,Graterol
+232,3,03:48,62,54,CAP,tempo_tecnico,Paulistano
+233,3,03:48,62,54,CAP,substituicao_entra,Roquemore
+234,3,03:48,62,54,CAP,substituicao_sai,Yago
+235,3,03:48,62,54,BRA,RD,Universo/Caixa/Brasília
+236,3,03:49,62,54,CAP,3_Pts_T,Yago
+237,3,03:57,62,54,CAP,FR,Yago
+238,3,03:57,62,54,BRA,FC,Rafa Moreira
+239,3,04:08,62,54,BRA,AS,Zach Graham
+240,3,04:08,62,54,BRA,3_Pts_C,Graterol
+241,3,04:13,62,51,BRA,RO,Universo/Caixa/Brasília
+242,3,04:17,62,51,BRA,3_Pts_T,Nezinho
+243,3,04:42,62,51,CAP,AS,Yago
+244,3,04:42,62,51,CAP,EN,De Paula
+245,3,04:44,60,51,CAP,RD,Yago
+246,3,04:48,60,51,BRA,3_Pts_T,Arthur
+247,3,05:02,60,51,CAP,ER,Yago
+248,3,05:18,60,51,BRA,LL_Pts_C,Zach Graham
+249,3,05:18,60,50,BRA,LL_Pts_C,Zach Graham
+250,3,05:18,60,49,BRA,substituicao_entra,Rafa Moreira
+251,3,05:18,60,49,BRA,substituicao_sai,Ricky Sánchez
+252,3,05:18,60,49,CAP,substituicao_entra,Victão
+253,3,05:18,60,49,CAP,substituicao_sai,Guilherme
+254,3,05:18,60,49,CAP,substituicao_entra,Du Sommer
+255,3,05:18,60,49,CAP,substituicao_sai,Renan
+256,3,05:18,60,49,CAP,substituicao_entra,Eddy
+257,3,05:18,60,49,CAP,substituicao_sai,Léo Meindl
+258,3,05:18,60,49,BRA,FR,Zach Graham
+259,3,05:18,60,49,CAP,FC,Léo Meindl
+260,3,05:24,60,49,BRA,RD,Ricky Sánchez
+261,3,05:28,60,49,CAP,3_Pts_T,Renan
+262,3,05:45,60,49,BRA,LL_Pts_C,Graterol
+263,3,05:45,60,48,BRA,AS,Ricky Sánchez
+264,3,05:45,60,48,BRA,LL_Pts_C,Graterol
+265,3,05:45,60,47,BRA,FR,Graterol
+266,3,05:45,60,47,CAP,FC,Guilherme
+267,3,05:48,60,47,BRA,RO,Ricky Sánchez
+268,3,05:52,60,47,BRA,2_Pts_T,Nezinho
+269,3,06:07,60,47,CAP,AS,Yago
+270,3,06:07,60,47,CAP,2_Pts_C,Guilherme
+271,3,06:22,58,47,CAP,RD,Renan
+272,3,06:26,58,47,BRA,2_Pts_T,Zach Graham
+273,3,06:45,58,47,CAP,AS,Léo Meindl
+274,3,06:45,58,47,CAP,EN,Guilherme
+275,3,06:52,56,47,CAP,RD,Guilherme
+276,3,06:57,56,47,BRA,3_Pts_T,Ricky Sánchez
+277,3,07:04,56,47,BRA,FR,Nezinho
+278,3,07:04,56,47,CAP,FC,Guilherme
+279,3,07:12,56,47,BRA,RD,Ricky Sánchez
+280,3,07:16,56,47,CAP,2_Pts_T,Renan
+281,3,07:42,56,47,BRA,3_Pts_C,Nezinho
+282,3,07:46,56,44,CAP,substituicao_entra,Yago
+283,3,07:46,56,44,CAP,substituicao_sai,Roquemore
+284,3,07:49,56,44,BRA,LL_Pts_C,Nezinho
+285,3,07:49,56,43,CAP,FC_T,Roquemore
+286,3,07:49,56,43,BRA,FR,Nezinho
+287,3,07:49,56,43,CAP,FC,Roquemore
+288,3,07:54,56,43,BRA,RD,Universo/Caixa/Brasília
+289,3,07:58,56,43,CAP,2_Pts_T,Léo Meindl
+290,3,08:17,56,43,CAP,FR,Roquemore
+291,3,08:17,56,43,BRA,FC,Ricky Sánchez
+292,3,08:18,56,43,CAP,RD,De Paula
+293,3,08:23,56,43,BRA,3_Pts_T,Arthur
+294,3,08:35,56,43,BRA,RD,Graterol
+295,3,08:39,56,43,CAP,2_Pts_T,Roquemore
+296,3,08:56,56,43,BRA,AS,Graterol
+297,3,08:56,56,43,BRA,3_Pts_C,Zach Graham
+298,3,08:57,56,40,BRA,RO,Graterol
+299,3,09:01,56,40,BRA,2_Pts_T,Nezinho
+300,3,09:26,56,40,CAP,AS,Roquemore
+301,3,09:26,56,40,CAP,3_Pts_C,Renan
+302,3,09:43,53,40,BRA,AS,Nezinho
+303,3,09:43,53,40,BRA,3_Pts_C,Ricky Sánchez
+304,3,10:00,53,37,,inicio_quarto,
+305,2,00:00,53,37,,fim_quarto,
+306,2,00:01,53,37,CAP,EN,De Paula
+307,2,00:05,51,37,BRA,substituicao_entra,Andrezão
+308,2,00:05,51,37,BRA,substituicao_sai,Rafa Moreira
+309,2,00:05,51,37,BRA,substituicao_entra,Marcelão
+310,2,00:05,51,37,BRA,substituicao_sai,Arthur
+311,2,00:05,51,37,BRA,AS,Rafa Moreira
+312,2,00:05,51,37,BRA,LL_Pts_C,Arthur
+313,2,00:05,51,36,BRA,LL_Pts_T,Arthur
+314,2,00:05,51,36,BRA,substituicao_entra,P Rava
+315,2,00:05,51,36,BRA,substituicao_sai,Zach Graham
+316,2,00:05,51,36,BRA,substituicao_entra,Luis
+317,2,00:05,51,36,BRA,substituicao_sai,Nezinho
+318,2,00:05,51,36,BRA,FR,Arthur
+319,2,00:05,51,36,CAP,FC,De Paula
+320,2,00:14,51,36,CAP,AS,De Paula
+321,2,00:14,51,36,CAP,EN,Renan
+322,2,00:17,49,36,CAP,RD,De Paula
+323,2,00:21,49,36,BRA,3_Pts_T,Nezinho
+324,2,00:30,49,36,CAP,EN,Guilherme
+325,2,00:30,47,36,CAP,RO,Guilherme
+326,2,00:38,47,36,CAP,2_Pts_T,De Paula
+327,2,00:42,47,36,CAP,RD,De Paula
+328,2,00:46,47,36,BRA,3_Pts_T,Rafa Moreira
+329,2,01:01,47,36,BRA,substituicao_entra,Nezinho
+330,2,01:01,47,36,BRA,substituicao_sai,Ricky Sánchez
+331,2,01:01,47,36,BRA,substituicao_entra,Arthur
+332,2,01:01,47,36,BRA,substituicao_sai,P Rava
+333,2,01:01,47,36,CAP,substituicao_entra,Guilherme
+334,2,01:01,47,36,CAP,substituicao_sai,Antonio
+335,2,01:01,47,36,BRA,tempo_tecnico,Universo/Caixa/Brasília
+336,2,01:01,47,36,CAP,2_Pts_C,Roquemore
+337,2,01:12,45,36,CAP,RD,De Paula
+338,2,01:17,45,36,BRA,2_Pts_T,P Rava
+339,2,01:23,45,36,BRA,BR,Ricky Sánchez
+340,2,01:23,45,36,CAP,ER,Yago
+341,2,01:27,45,36,CAP,RD,Renan
+342,2,01:32,45,36,BRA,3_Pts_T,Zach Graham
+343,2,01:49,45,36,CAP,3_Pts_C,De Paula
+344,2,02:08,42,36,CAP,RD,Renan
+345,2,02:10,42,36,BRA,LL_Pts_T,Zach Graham
+346,2,02:10,42,36,BRA,LL_Pts_T,Zach Graham
+347,2,02:10,42,36,CAP,substituicao_entra,Roquemore
+348,2,02:10,42,36,CAP,substituicao_sai,Beto
+349,2,02:10,42,36,CAP,substituicao_entra,Yago
+350,2,02:10,42,36,CAP,substituicao_sai,Léo Meindl
+351,2,02:10,42,36,BRA,FR,Zach Graham
+352,2,02:10,42,36,CAP,FC,Léo Meindl
+353,2,02:13,42,36,BRA,FR,Ricky Sánchez
+354,2,02:13,42,36,CAP,FC,De Paula
+355,2,02:32,42,36,CAP,LL_Pts_C,De Paula
+356,2,02:32,41,36,CAP,LL_Pts_C,De Paula
+357,2,02:32,40,36,CAP,tempo_tecnico,Paulistano
+358,2,02:32,40,36,CAP,FR,De Paula
+359,2,02:32,40,36,BRA,FC,P Rava
+360,2,02:50,40,36,CAP,RD,Renan
+361,2,02:54,40,36,BRA,2_Pts_T,Zach Graham
+362,2,02:55,40,36,BRA,RD,Rafa Moreira
+363,2,03:01,40,36,CAP,2_Pts_T,De Paula
+364,2,03:18,40,36,CAP,RD,Beto
+365,2,03:23,40,36,BRA,3_Pts_T,Rafa Moreira
+366,2,03:30,40,36,BRA,BR,Ricky Sánchez
+367,2,03:30,40,36,CAP,ER,Renan
+368,2,03:43,40,36,CAP,RD,Beto
+369,2,03:48,40,36,BRA,3_Pts_T,P Rava
+370,2,03:56,40,36,BRA,BR,Ricky Sánchez
+371,2,03:56,40,36,CAP,ER,Beto
+372,2,03:59,40,36,CAP,RD,Léo Meindl
+373,2,04:03,40,36,BRA,2_Pts_T,Ricky Sánchez
+374,2,04:22,40,36,BRA,substituicao_entra,Rafa Moreira
+375,2,04:22,40,36,BRA,substituicao_sai,Nezinho
+376,2,04:22,40,36,CAP,LL_Pts_C,De Paula
+377,2,04:22,39,36,CAP,LL_Pts_T,De Paula
+378,2,04:22,39,36,CAP,substituicao_entra,Beto
+379,2,04:22,39,36,CAP,substituicao_sai,Yago
+380,2,04:22,39,36,CAP,FR,De Paula
+381,2,04:22,39,36,BRA,FC,Nezinho
+382,2,04:23,39,36,CAP,RD,Renan
+383,2,04:27,39,36,BRA,3_Pts_T,Graterol
+384,2,04:28,39,36,BRA,RO,Graterol
+385,2,04:34,39,36,CAP,TO,Léo Meindl
+386,2,04:34,39,36,BRA,2_Pts_T,Zach Graham
+387,2,04:54,39,36,CAP,LL_Pts_C,Yago
+388,2,04:54,38,36,CAP,LL_Pts_T,Yago
+389,2,04:54,38,36,CAP,FR,Yago
+390,2,04:54,38,36,BRA,FC,P Rava
+391,2,05:00,38,36,CAP,RD,De Paula
+392,2,05:03,38,36,BRA,3_Pts_T,Nezinho
+393,2,05:23,38,36,BRA,substituicao_entra,P Rava
+394,2,05:23,38,36,BRA,substituicao_sai,Arthur
+395,2,05:23,38,36,CAP,LL_Pts_C,Renan
+396,2,05:23,37,36,CAP,AS,Léo Meindl
+397,2,05:23,37,36,CAP,LL_Pts_C,Renan
+398,2,05:23,36,36,CAP,substituicao_entra,De Paula
+399,2,05:23,36,36,CAP,substituicao_sai,Victão
+400,2,05:23,36,36,CAP,FR,Renan
+401,2,05:23,36,36,BRA,FC,Arthur
+402,2,05:34,36,36,BRA,2_Pts_C,Ricky Sánchez
+403,2,05:41,36,34,BRA,FR,Graterol
+404,2,05:41,36,34,CAP,FC,Victão
+405,2,05:57,36,34,CAP,2_Pts_C,Léo Meindl
+406,2,06:03,34,34,CAP,BR,Léo Meindl
+407,2,06:03,34,34,BRA,ER,Nezinho
+408,2,06:15,34,34,CAP,substituicao_entra,Renan
+409,2,06:15,34,34,CAP,substituicao_sai,Guilherme
+410,2,06:15,34,34,CAP,substituicao_entra,Léo Meindl
+411,2,06:15,34,34,CAP,substituicao_sai,Roquemore
+412,2,06:15,34,34,BRA,tempo_tecnico,Universo/Caixa/Brasília
+413,2,06:16,34,34,CAP,AS,Yago
+414,2,06:16,34,34,CAP,2_Pts_C,Roquemore
+415,2,06:19,32,34,CAP,RD,Yago
+416,2,06:23,32,34,BRA,3_Pts_T,Nezinho
+417,2,06:34,32,34,BRA,RD,Nezinho
+418,2,06:39,32,34,CAP,3_Pts_T,Roquemore
+419,2,06:53,32,34,BRA,AS,Ricky Sánchez
+420,2,06:53,32,34,BRA,3_Pts_C,Nezinho
+421,2,07:12,32,31,CAP,AS,Roquemore
+422,2,07:12,32,31,CAP,EN,Guilherme
+423,2,07:27,30,31,BRA,AS,Nezinho
+424,2,07:27,30,31,BRA,3_Pts_C,Arthur
+425,2,07:28,30,28,BRA,RD,Nezinho
+426,2,07:37,30,28,BRA,TO,Graterol
+427,2,07:37,30,28,CAP,2_Pts_T,Guilherme
+428,2,07:41,30,28,CAP,RD,Yago
+429,2,07:45,30,28,BRA,2_Pts_T,Graterol
+430,2,07:46,30,28,BRA,RO,Graterol
+431,2,07:51,30,28,BRA,3_Pts_T,Nezinho
+432,2,08:01,30,28,CAP,3_Pts_C,Victão
+433,2,08:06,27,28,BRA,substituicao_entra,Graterol
+434,2,08:06,27,28,BRA,substituicao_sai,Rafa Moreira
+435,2,08:06,27,28,CAP,FR,Victão
+436,2,08:06,27,28,BRA,ER,Rafa Moreira
+437,2,08:06,27,28,BRA,FC_O,Rafa Moreira
+438,2,08:08,27,28,BRA,RD,Nezinho
+439,2,08:08,27,28,CAP,3_Pts_T,Yago
+440,2,08:10,27,28,CAP,RO,Antonio
+441,2,08:15,27,28,CAP,2_Pts_T,Yago
+442,2,08:22,27,28,CAP,BR,Yago
+443,2,08:22,27,28,BRA,ER,Ricky Sánchez
+444,2,08:35,27,28,BRA,RD,Rafa Moreira
+445,2,08:38,27,28,CAP,LL_Pts_T,Victão
+446,2,08:38,27,28,CAP,FR,Victão
+447,2,08:38,27,28,BRA,FC,Ricky Sánchez
+448,2,08:38,27,28,CAP,2_Pts_C,Victão
+449,2,08:42,25,28,CAP,RO,Victão
+450,2,08:47,25,28,CAP,3_Pts_T,Roquemore
+451,2,08:58,25,28,BRA,2_Pts_C,Ricky Sánchez
+452,2,08:58,25,26,BRA,RO,Ricky Sánchez
+453,2,09:06,25,26,BRA,2_Pts_T,Zach Graham
+454,2,09:24,25,26,CAP,AS,Roquemore
+455,2,09:24,25,26,CAP,EN,Guilherme
+456,2,09:27,23,26,CAP,RD,Antonio
+457,2,09:31,23,26,BRA,2_Pts_T,Arthur
+458,2,09:45,23,26,BRA,RD,Universo/Caixa/Brasília
+459,2,09:48,23,26,CAP,3_Pts_T,Yago
+460,2,10:00,23,26,,inicio_quarto,
+461,1,00:00,23,26,,fim_quarto,
+462,1,00:01,23,26,BRA,3_Pts_T,Nezinho
+463,1,00:03,23,26,BRA,substituicao_entra,Arthur
+464,1,00:03,23,26,BRA,substituicao_sai,P Rava
+465,1,00:03,23,26,BRA,substituicao_entra,Nezinho
+466,1,00:03,23,26,BRA,substituicao_sai,Andrezão
+467,1,00:03,23,26,CAP,ER,Guilherme
+468,1,00:22,23,26,CAP,FR,Yago
+469,1,00:22,23,26,BRA,ER,Andrezão
+470,1,00:22,23,26,BRA,FC_O,Andrezão
+471,1,00:36,23,26,CAP,AS,Victão
+472,1,00:36,23,26,CAP,3_Pts_C,Yago
+473,1,00:42,20,26,BRA,substituicao_entra,Rafa Moreira
+474,1,00:42,20,26,BRA,substituicao_sai,Arthur
+475,1,00:42,20,26,CAP,substituicao_entra,Roquemore
+476,1,00:42,20,26,CAP,substituicao_sai,Léo Meindl
+477,1,00:42,20,26,CAP,substituicao_entra,Antonio
+478,1,00:42,20,26,CAP,substituicao_sai,Eddy
+479,1,00:42,20,26,CAP,RO,Paulistano
+480,1,00:43,20,26,CAP,3_Pts_T,Guilherme
+481,1,00:47,20,26,CAP,RD,Léo Meindl
+482,1,00:51,20,26,BRA,2_Pts_T,Zach Graham
+483,1,01:05,20,26,CAP,AS,Guilherme
+484,1,01:05,20,26,CAP,3_Pts_C,Léo Meindl
+485,1,01:24,17,26,BRA,AS,P Rava
+486,1,01:24,17,26,BRA,2_Pts_C,Andrezão
+487,1,01:39,17,24,CAP,AS,Yago
+488,1,01:39,17,24,CAP,3_Pts_C,Léo Meindl
+489,1,01:43,14,24,CAP,RD,Eddy
+490,1,01:46,14,24,BRA,3_Pts_T,Ricky Sánchez
+491,1,01:52,14,24,BRA,BR,Ricky Sánchez
+492,1,01:52,14,24,CAP,ER,Guilherme
+493,1,02:02,14,24,BRA,AS,P Rava
+494,1,02:02,14,24,BRA,3_Pts_C,Zach Graham
+495,1,02:18,14,21,BRA,RD,Arthur
+496,1,02:21,14,21,CAP,LL_Pts_T,Léo Meindl
+497,1,02:21,14,21,CAP,LL_Pts_T,Léo Meindl
+498,1,02:21,14,21,BRA,substituicao_entra,Andrezão
+499,1,02:21,14,21,BRA,substituicao_sai,Graterol
+500,1,02:21,14,21,BRA,substituicao_entra,P Rava
+501,1,02:21,14,21,BRA,substituicao_sai,Nezinho
+502,1,02:21,14,21,CAP,FR,Léo Meindl
+503,1,02:21,14,21,BRA,FC,Arthur
+504,1,02:42,14,21,BRA,3_Pts_C,Arthur
+505,1,03:02,14,18,BRA,BR,Arthur
+506,1,03:02,14,18,CAP,ER,Yago
+507,1,03:04,14,18,CAP,RD,Yago
+508,1,03:10,14,18,BRA,3_Pts_T,Nezinho
+509,1,03:21,14,18,CAP,2_Pts_C,Léo Meindl
+510,1,03:28,12,18,BRA,AS,Nezinho
+511,1,03:28,12,18,BRA,2_Pts_C,Arthur
+512,1,03:46,12,16,CAP,AS,Léo Meindl
+513,1,03:46,12,16,CAP,2_Pts_C,Guilherme
+514,1,03:57,10,16,CAP,substituicao_entra,Victão
+515,1,03:57,10,16,CAP,substituicao_sai,Du Sommer
+516,1,03:57,10,16,BRA,AS,Nezinho
+517,1,03:57,10,16,BRA,LL_Pts_C,Zach Graham
+518,1,03:57,10,15,BRA,LL_Pts_T,Zach Graham
+519,1,03:57,10,15,BRA,FR,Zach Graham
+520,1,03:57,10,15,CAP,FC,Du Sommer
+521,1,04:08,10,15,CAP,substituicao_entra,Guilherme
+522,1,04:08,10,15,CAP,substituicao_sai,Roquemore
+523,1,04:08,10,15,CAP,tempo_tecnico,Paulistano
+524,1,04:08,10,15,BRA,FR,Zach Graham
+525,1,04:08,10,15,CAP,FC,Léo Meindl
+526,1,04:14,10,15,BRA,RD,Graterol
+527,1,04:18,10,15,CAP,3_Pts_T,Eddy
+528,1,04:22,10,15,CAP,substituicao_entra,Yago
+529,1,04:22,10,15,CAP,substituicao_sai,De Paula
+530,1,04:22,10,15,BRA,substituicao_entra,Ricky Sánchez
+531,1,04:22,10,15,BRA,substituicao_sai,Rafa Moreira
+532,1,04:22,10,15,CAP,substituicao_entra,Eddy
+533,1,04:22,10,15,CAP,substituicao_sai,Renan
+534,1,04:22,10,15,BRA,ER,Graterol
+535,1,04:25,10,15,BRA,RD,Graterol
+536,1,04:29,10,15,CAP,2_Pts_T,Renan
+537,1,04:48,10,15,BRA,AS,Nezinho
+538,1,04:48,10,15,BRA,2_Pts_C,Arthur
+539,1,05:03,10,13,CAP,AS,De Paula
+540,1,05:03,10,13,CAP,2_Pts_C,Renan
+541,1,05:21,8,13,BRA,AS,Nezinho
+542,1,05:21,8,13,BRA,2_Pts_C,Rafa Moreira
+543,1,05:26,8,11,BRA,RD,Arthur
+544,1,05:31,8,11,CAP,2_Pts_T,Léo Meindl
+545,1,05:48,8,11,BRA,AS,Graterol
+546,1,05:48,8,11,BRA,3_Pts_C,Zach Graham
+547,1,05:57,8,8,CAP,LL_Pts_C,Léo Meindl
+548,1,05:57,7,8,CAP,LL_Pts_C,Léo Meindl
+549,1,05:57,6,8,CAP,FR,Léo Meindl
+550,1,05:57,6,8,BRA,FC,Graterol
+551,1,06:25,6,8,BRA,3_Pts_C,Nezinho
+552,1,06:27,6,5,BRA,RD,Zach Graham
+553,1,06:31,6,5,CAP,2_Pts_T,Roquemore
+554,1,06:44,6,5,BRA,AS,Nezinho
+555,1,06:44,6,5,BRA,3_Pts_C,Arthur
+556,1,06:59,6,2,CAP,ER,Renan
+557,1,07:06,6,2,CAP,RO,De Paula
+558,1,07:09,6,2,CAP,3_Pts_T,Du Sommer
+559,1,07:30,6,2,CAP,FR,Roquemore
+560,1,07:30,6,2,BRA,ER,Rafa Moreira
+561,1,07:30,6,2,BRA,FC_O,Rafa Moreira
+562,1,07:41,6,2,CAP,AS,Léo Meindl
+563,1,07:41,6,2,CAP,2_Pts_C,Renan
+564,1,07:47,4,2,CAP,BR,De Paula
+565,1,07:47,4,2,BRA,ER,Nezinho
+566,1,08:13,4,2,BRA,FR,Rafa Moreira
+567,1,08:13,4,2,CAP,ER,Du Sommer
+568,1,08:13,4,2,CAP,FC_O,Du Sommer
+569,1,08:31,4,2,CAP,RD,De Paula
+570,1,08:35,4,2,BRA,3_Pts_T,Nezinho
+571,1,08:44,4,2,BRA,RD,Zach Graham
+572,1,08:48,4,2,CAP,3_Pts_T,Renan
+573,1,08:50,4,2,CAP,RD,De Paula
+574,1,08:53,4,2,BRA,2_Pts_T,Arthur
+575,1,09:01,4,2,CAP,2_Pts_C,De Paula
+576,1,09:02,2,2,CAP,RD,De Paula
+577,1,09:07,2,2,BRA,3_Pts_T,Rafa Moreira
+578,1,09:26,2,2,CAP,AS,Roquemore
+579,1,09:26,2,2,CAP,2_Pts_C,Renan
+580,1,09:42,0,2,BRA,2_Pts_C,Rafa Moreira
+581,1,10:00,0,0,BRA,substituicao_entra,Nezinho
+582,1,10:00,0,0,BRA,substituicao_entra,Rafa Moreira
+583,1,10:00,0,0,BRA,substituicao_entra,Graterol
+584,1,10:00,0,0,BRA,substituicao_entra,Arthur
+585,1,10:00,0,0,BRA,substituicao_entra,Zach Graham
+586,1,10:00,0,0,CAP,substituicao_entra,Renan
+587,1,10:00,0,0,CAP,substituicao_entra,Léo Meindl
+588,1,10:00,0,0,CAP,substituicao_entra,Du Sommer
+589,1,10:00,0,0,CAP,substituicao_entra,De Paula
+590,1,10:00,0,0,CAP,substituicao_entra,Roquemore
+591,1,10:00,0,0,,inicio_partida,

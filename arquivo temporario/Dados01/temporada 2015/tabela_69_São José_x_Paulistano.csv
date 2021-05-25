@@ -1,0 +1,528 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,83,77, ,fim_partida,
+1,4,00:07,83,77,PAU,LL_Pts_C,Arthur Pecos
+2,4,00:07,83,76,PAU,LL_Pts_C,Arthur Pecos
+3,4,00:07,83,75,PAU,FR,Arthur Pecos
+4,4,00:07,83,75,SJO,FC,Arthur
+5,4,00:14,83,75,SJO,LL_Pts_C,César
+6,4,00:14,82,75,SJO,LL_Pts_C,César
+7,4,00:14,81,75,SJO,FR,César
+8,4,00:14,81,75,PAU,FC,Gruber
+9,4,00:16,81,75,SJO,substituicao_sai,Gustavo
+10,4,00:16,81,75,SJO,substituicao_entra,Jamaal
+11,4,00:16,81,75,PAU,substituicao_sai,Caio Torres
+12,4,00:16,81,75,PAU,substituicao_entra,Mogi
+13,4,00:16,81,75,SJO,tempo_tecnico,São José
+14,4,00:16,81,75,SJO,RD,São José
+15,4,00:16,81,75,PAU,3_Pts_T,Caio Torres
+16,4,00:20,81,75,PAU,RO,Caio Torres
+17,4,00:20,81,75,PAU,3_Pts_T,Gemerson
+18,4,00:28,81,75,SJO,LL_Pts_C,Renato C
+19,4,00:28,80,75,SJO,LL_Pts_C,Renato C
+20,4,00:28,79,75,SJO,FR,Renato C
+21,4,00:28,79,75,PAU,FC,Gruber
+22,4,00:34,79,75,SJO,RD,Renato C
+23,4,00:34,79,75,SJO,TO,Arthur
+24,4,00:34,79,75,PAU,2_Pts_T,Arthur Pecos
+25,4,00:40,79,75,SJO,substituicao_sai,Jamaal
+26,4,00:40,79,75,SJO,substituicao_entra,Gustavo
+27,4,00:40,79,75,SJO,LL_Pts_C,Jamaal
+28,4,00:40,78,75,SJO,LL_Pts_C,Jamaal
+29,4,00:40,77,75,SJO,FR,Jamaal
+30,4,00:40,77,75,PAU,FC,Caio Torres
+31,4,00:43,77,75,PAU,3_Pts_C,Caio Torres
+32,4,00:43,77,72,PAU,AS,Gemerson
+33,4,00:49,77,72,PAU,tempo_tecnico,Paulistano
+34,4,00:49,77,72,SJO,substituicao_sai,Cauê
+35,4,00:49,77,72,SJO,substituicao_entra,Pedro
+36,4,00:49,77,72,SJO,LL_Pts_C,Renato C
+37,4,00:49,76,72,SJO,LL_Pts_C,Renato C
+38,4,00:49,75,72,SJO,FR,Renato C
+39,4,00:49,75,72,PAU,FC,Dawkins
+40,4,00:50,75,72,SJO,RD,Renato C
+41,4,00:50,75,72,PAU,2_Pts_T,Arthur Pecos
+42,4,00:55,75,72,PAU,RD,Arthur Pecos
+43,4,00:55,75,72,SJO,3_Pts_T,Cauê
+44,4,01:10,75,72,SJO,RD,Arthur
+45,4,01:10,75,72,PAU,2_Pts_T,Caio Torres
+46,4,01:26,75,72,PAU,RD,Gruber
+47,4,01:26,75,72,SJO,3_Pts_T,Jamaal
+48,4,01:47,75,72,PAU,2_Pts_C,Dawkins
+49,4,01:55,75,70,PAU,tempo_tecnico,Paulistano
+50,4,01:55,75,70,SJO,2_Pts_C,Jamaal
+51,4,02:12,73,70,SJO,RD,Cauê
+52,4,02:12,73,70,PAU,2_Pts_T,Caio Torres
+53,4,02:27,73,70,SJO,3_Pts_C,César
+54,4,02:27,70,70,SJO,AS,Cauê
+55,4,02:41,70,70,PAU,2_Pts_C,Caio Torres
+56,4,02:45,70,68,PAU,RO,Caio Torres
+57,4,02:45,70,68,PAU,2_Pts_T,Gemerson
+58,4,03:09,70,68,PAU,RD,Gruber
+59,4,03:09,70,68,SJO,2_Pts_T,César
+60,4,03:23,70,68,PAU,substituicao_sai,Valtinho
+61,4,03:23,70,68,PAU,substituicao_entra,Gruber
+62,4,03:30,70,68,SJO,RO,César
+63,4,03:30,70,68,SJO,2_Pts_T,Jamaal
+64,4,03:41,70,68,SJO,RD,Renato C
+65,4,03:41,70,68,PAU,2_Pts_T,Dawkins
+66,4,03:51,70,68,SJO,ER,Arthur
+67,4,04:00,70,68,PAU,LL_Pts_T,Gemerson
+68,4,04:00,70,68,SJO,FC_T,Arthur
+69,4,04:01,70,68,SJO,RO,Arthur
+70,4,04:01,70,68,SJO,3_Pts_T,Renato C
+71,4,04:22,70,68,SJO,substituicao_sai,Gustavo
+72,4,04:22,70,68,SJO,substituicao_entra,Arthur
+73,4,04:22,70,68,SJO,substituicao_sai,Arthur
+74,4,04:22,70,68,SJO,substituicao_entra,César
+75,4,04:22,70,68,PAU,ER,Caio Torres
+76,4,04:43,70,68,SJO,EN,Arthur
+77,4,04:43,68,68,SJO,AS,Gustavo
+78,4,04:51,68,68,PAU,2_Pts_C,Caio Torres
+79,4,04:56,68,66,PAU,RO,Caio Torres
+80,4,04:56,68,66,SJO,TO,Cauê
+81,4,04:56,68,66,PAU,2_Pts_T,Caio Torres
+82,4,04:59,68,66,PAU,substituicao_sai,Toyloy
+83,4,04:59,68,66,PAU,substituicao_entra,Caio Torres
+84,4,05:11,68,66,SJO,2_Pts_C,Gustavo
+85,4,05:11,66,66,SJO,AS,Arthur
+86,4,05:17,66,66,SJO,RO,Arthur
+87,4,05:17,66,66,SJO,3_Pts_T,Renato C
+88,4,05:29,66,66,SJO,RO,Gustavo
+89,4,05:29,66,66,SJO,3_Pts_T,Gustavo
+90,4,05:55,66,66,PAU,2_Pts_C,Gemerson
+91,4,06:08,66,64,PAU,LL_Pts_C,Gemerson
+92,4,06:08,66,63,PAU,LL_Pts_C,Gemerson
+93,4,06:08,66,62,SJO,substituicao_sai,Pedro
+94,4,06:08,66,62,SJO,substituicao_entra,Cauê
+95,4,06:08,66,62,PAU,FR,Gemerson
+96,4,06:08,66,62,SJO,FC_A,Pedro
+97,4,06:28,66,62,SJO,RD,Pedro
+98,4,06:28,66,62,PAU,LL_Pts_T,Gemerson
+99,4,06:28,66,62,PAU,LL_Pts_C,Gemerson
+100,4,06:28,66,61,PAU,FR,Gemerson
+101,4,06:28,66,61,SJO,FC,Arthur
+102,4,06:38,66,61,PAU,RO,Paulistano
+103,4,06:38,66,61,PAU,2_Pts_T,Dawkins
+104,4,06:49,66,61,SJO,substituicao_sai,Daniel Filé
+105,4,06:49,66,61,SJO,substituicao_entra,Renato C
+106,4,06:51,66,61,PAU,FR,Dawkins
+107,4,06:51,66,61,SJO,FC,Gustavo
+108,4,07:06,66,61,PAU,BR,Paulistano
+109,4,07:06,66,61,SJO,ER,Daniel Filé
+110,4,07:19,66,61,PAU,substituicao_sai,Jhonatan
+111,4,07:19,66,61,PAU,substituicao_entra,Valtinho
+112,4,07:19,66,61,SJO,FR,Daniel Filé
+113,4,07:19,66,61,PAU,FC,Jhonatan
+114,4,07:29,66,61,SJO,FR,Jamaal
+115,4,07:29,66,61,PAU,FC,Jhonatan
+116,4,07:29,66,61,SJO,RD,Jamaal
+117,4,07:29,66,61,PAU,2_Pts_T,Gemerson
+118,4,07:39,66,61,PAU,FR,Dawkins
+119,4,07:39,66,61,SJO,FC,Gustavo
+120,4,07:59,66,61,SJO,substituicao_sai,Matheus Dalla
+121,4,07:59,66,61,SJO,substituicao_entra,Pedro
+122,4,08:00,66,61,SJO,LL_Pts_C,Gustavo
+123,4,08:00,65,61,SJO,LL_Pts_C,Gustavo
+124,4,08:00,64,61,SJO,FR,Gustavo
+125,4,08:00,64,61,PAU,FC,Jhonatan
+126,4,08:19,64,61,PAU,LL_Pts_C,Toyloy
+127,4,08:19,64,60,PAU,LL_Pts_T,Toyloy
+128,4,08:19,64,60,PAU,FR,Toyloy
+129,4,08:19,64,60,SJO,FC,Arthur
+130,4,08:34,64,60,PAU,BR,Toyloy
+131,4,08:34,64,60,SJO,ER,Matheus Dalla
+132,4,09:08,64,60,PAU,3_Pts_C,Jhonatan
+133,4,09:08,64,57,PAU,AS,Dawkins
+134,4,09:15,64,57,PAU,FR,Toyloy
+135,4,09:15,64,57,SJO,FC,Daniel Filé
+136,4,09:15,64,57,PAU,RO,Paulistano
+137,4,09:15,64,57,PAU,2_Pts_T,Toyloy
+138,4,09:35,64,57,SJO,LL_Pts_C,Gustavo
+139,4,09:35,63,57,SJO,LL_Pts_T,Gustavo
+140,4,09:35,63,57,SJO,FR,Gustavo
+141,4,09:35,63,57,PAU,FC,Gemerson
+142,4,09:40,63,57,SJO,RD,Matheus Dalla
+143,4,09:40,63,57,PAU,2_Pts_T,Arthur Pecos
+144,4,09:42,63,57,PAU,substituicao_entra,Jhonatan
+145,3,00:00,63,57, ,fim_quarto,
+146,3,00:04,63,57,SJO,2_Pts_C,Arthur
+147,3,00:05,61,57,SJO,BR,São José
+148,3,00:05,61,57,PAU,ER,Dawkins
+149,3,00:13,61,57,SJO,2_Pts_C,Gustavo
+150,3,00:13,59,57,SJO,AS,Arthur
+151,3,00:29,59,57,SJO,RD,Matheus Dalla
+152,3,00:33,59,57,SJO,substituicao_sai,Pedro
+153,3,00:33,59,57,SJO,substituicao_entra,Matheus Dalla
+154,3,00:40,59,57,PAU,LL_Pts_T,Dawkins
+155,3,00:40,59,57,PAU,LL_Pts_C,Dawkins
+156,3,00:40,59,56,PAU,FR,Dawkins
+157,3,00:40,59,56,SJO,FC,Daniel Filé
+158,3,00:51,59,56,SJO,ER,Daniel Filé
+159,3,00:56,59,56,SJO,RO,Daniel Filé
+160,3,00:56,59,56,SJO,3_Pts_T,Arthur
+161,3,01:00,59,56,SJO,RO,São José
+162,3,01:00,59,56,SJO,2_Pts_T,Arthur
+163,3,01:21,59,56,SJO,substituicao_entra,Gustavo
+164,3,01:21,59,56,SJO,substituicao_entra,Arthur
+165,3,01:21,59,56,SJO,substituicao_sai,Matheus Dalla
+166,3,01:21,59,56,SJO,substituicao_sai,César
+167,3,01:21,59,56,SJO,RD,Jamaal
+168,3,01:21,59,56,PAU,2_Pts_T,Arthur Pecos
+169,3,01:42,59,56,PAU,RD,Jhonatan
+170,3,01:42,59,56,SJO,2_Pts_T,César
+171,3,01:59,59,56,PAU,substituicao_sai,Caio Torres
+172,3,01:59,59,56,PAU,substituicao_entra,Toyloy
+173,3,01:59,59,56,PAU,LL_Pts_C,Arthur Pecos
+174,3,01:59,59,55,PAU,LL_Pts_C,Arthur Pecos
+175,3,01:59,59,54,SJO,substituicao_sai,Renato C
+176,3,01:59,59,54,SJO,substituicao_entra,Daniel Filé
+177,3,01:59,59,54,PAU,FR,Arthur Pecos
+178,3,01:59,59,54,SJO,FC,Pedro
+179,3,02:11,59,54,SJO,3_Pts_C,Matheus Dalla
+180,3,02:11,56,54,SJO,AS,Pedro
+181,3,02:33,56,54,PAU,2_Pts_C,Caio Torres
+182,3,02:33,56,52,PAU,AS,Dawkins
+183,3,02:45,56,52,SJO,LL_Pts_C,Jamaal
+184,3,02:45,55,52,SJO,LL_Pts_C,Jamaal
+185,3,02:45,54,52,SJO,FR,Jamaal
+186,3,02:45,54,52,PAU,FC,Caio Torres
+187,3,02:54,54,52,PAU,2_Pts_C,Dawkins
+188,3,02:54,54,50,PAU,AS,Gruber
+189,3,03:07,54,50,PAU,substituicao_sai,Valtinho
+190,3,03:07,54,50,PAU,substituicao_entra,Arthur Pecos
+191,3,03:14,54,50,PAU,tempo_tecnico,Paulistano
+192,3,03:14,54,50,SJO,3_Pts_C,César
+193,3,03:14,51,50,SJO,AS,Renato C
+194,3,03:27,51,50,SJO,substituicao_sai,Cauê
+195,3,03:27,51,50,SJO,substituicao_entra,Jamaal
+196,3,03:27,51,50,SJO,FR,César
+197,3,03:27,51,50,PAU,FC_O,Gruber
+198,3,03:39,51,50,PAU,BR,Paulistano
+199,3,03:39,51,50,SJO,ER,Cauê
+200,3,03:39,51,50,SJO,FR,Renato C
+201,3,03:39,51,50,PAU,FC,Gruber
+202,3,03:59,51,50,SJO,FR,Renato C
+203,3,03:59,51,50,PAU,FC,Jhonatan
+204,3,03:59,51,50,SJO,BR,Renato C
+205,3,03:59,51,50,PAU,ER,Jhonatan
+206,3,04:05,51,50,PAU,substituicao_sai,Toyloy
+207,3,04:05,51,50,PAU,substituicao_entra,Gruber
+208,3,04:18,51,50,PAU,LL_Pts_T,Dawkins
+209,3,04:18,51,50,SJO,FC_T,São José
+210,3,04:18,51,50,PAU,FR,Toyloy
+211,3,04:18,51,50,SJO,FC,Renato C
+212,3,04:18,51,50,PAU,RO,Paulistano
+213,3,04:18,51,50,PAU,2_Pts_T,Caio Torres
+214,3,04:29,51,50,PAU,RO,Jhonatan
+215,3,04:29,51,50,PAU,3_Pts_T,Valtinho
+216,3,04:51,51,50,SJO,3_Pts_C,Renato C
+217,3,04:51,48,50,SJO,AS,Cauê
+218,3,05:00,48,50,SJO,RD,Pedro
+219,3,05:00,48,50,PAU,3_Pts_T,Dawkins
+220,3,05:15,48,50,SJO,3_Pts_C,Matheus Dalla
+221,3,05:15,45,50,SJO,AS,César
+222,3,05:27,45,50,PAU,2_Pts_C,Toyloy
+223,3,05:42,45,48,PAU,BR,Paulistano
+224,3,05:42,45,48,SJO,ER,César
+225,3,05:58,45,48,SJO,BR,Cauê
+226,3,05:58,45,48,PAU,ER,Toyloy
+227,3,06:17,45,48,SJO,3_Pts_C,Pedro
+228,3,06:17,42,48,SJO,AS,Cauê
+229,3,06:33,42,48,PAU,2_Pts_C,Caio Torres
+230,3,06:33,42,46,PAU,AS,Valtinho
+231,3,06:45,42,46,SJO,LL_Pts_C,Matheus Dalla
+232,3,06:45,41,46,SJO,AS,Cauê
+233,3,06:45,41,46,SJO,LL_Pts_C,Matheus Dalla
+234,3,06:45,40,46,PAU,substituicao_entra,Jhonatan
+235,3,06:45,40,46,PAU,substituicao_sai,Gemerson
+236,3,06:45,40,46,SJO,FR,Matheus Dalla
+237,3,06:45,40,46,PAU,FC,Toyloy
+238,3,06:59,40,46,SJO,RD,Cauê
+239,3,06:59,40,46,SJO,TO,Renato C
+240,3,06:59,40,46,PAU,2_Pts_T,Dawkins
+241,3,07:13,40,46,PAU,FR,Dawkins
+242,3,07:13,40,46,SJO,FC,César
+243,3,07:29,40,46,PAU,BR,Paulistano
+244,3,07:29,40,46,SJO,ER,Matheus Dalla
+245,3,07:33,40,46,PAU,AS,Dawkins
+246,3,07:33,40,46,PAU,LL_Pts_C,Valtinho
+247,3,07:33,40,45,PAU,LL_Pts_T,Valtinho
+248,3,07:33,40,45,PAU,FR,Valtinho
+249,3,07:33,40,45,SJO,FC,Matheus Dalla
+250,3,07:39,40,45,PAU,RD,Dawkins
+251,3,07:39,40,45,SJO,3_Pts_T,Renato C
+252,3,08:01,40,45,PAU,2_Pts_C,Caio Torres
+253,3,08:05,40,43,PAU,RO,Caio Torres
+254,3,08:05,40,43,PAU,3_Pts_T,Gemerson
+255,3,08:26,40,43,SJO,3_Pts_C,Matheus Dalla
+256,3,08:26,37,43,SJO,AS,Cauê
+257,3,08:44,37,43,PAU,LL_Pts_C,Gemerson
+258,3,08:44,37,42,PAU,2_Pts_C,Gemerson
+259,3,08:44,37,40,PAU,FR,Gemerson
+260,3,08:44,37,40,SJO,FC,César
+261,3,09:03,37,40,PAU,BR,Paulistano
+262,3,09:03,37,40,SJO,ER,Pedro
+263,3,09:17,37,40,SJO,FR,César
+264,3,09:17,37,40,PAU,FC,Gemerson
+265,3,09:34,37,40,SJO,RD,Cauê
+266,3,09:34,37,40,PAU,2_Pts_T,Toyloy
+267,2,00:00,37,40, ,fim_quarto,
+268,2,00:01,37,40,SJO,substituicao_sai,Daniel Filé
+269,2,00:01,37,40,SJO,substituicao_entra,César
+270,2,00:01,37,40,PAU,substituicao_sai,Jhonatan
+271,2,00:01,37,40,PAU,substituicao_entra,Dawkins
+272,2,00:02,37,40,SJO,3_Pts_T,Bruno Ferreira
+273,2,00:02,37,40,SJO,BR,Bruno Ferreira
+274,2,00:02,37,40,PAU,ER,Caio Torres
+275,2,00:03,37,40,SJO,substituicao_sai,Pedro
+276,2,00:03,37,40,SJO,substituicao_entra,Pedrinho
+277,2,00:03,37,40,SJO,LL_Pts_C,Pedro
+278,2,00:03,36,40,SJO,LL_Pts_C,Pedro
+279,2,00:03,35,40,PAU,substituicao_sai,Mogi
+280,2,00:03,35,40,PAU,substituicao_entra,Caio Torres
+281,2,00:03,35,40,SJO,substituicao_entra,Gustavo
+282,2,00:03,35,40,SJO,substituicao_entra,Bruno Ferreira
+283,2,00:03,35,40,SJO,substituicao_sai,Jamaal
+284,2,00:03,35,40,SJO,substituicao_sai,Cauê
+285,2,00:03,35,40,SJO,FR,Pedro
+286,2,00:03,35,40,PAU,FC,Mogi
+287,2,00:07,35,40,SJO,substituicao_sai,Bruno Ferreira
+288,2,00:07,35,40,SJO,substituicao_entra,Pedro
+289,2,00:07,35,40,PAU,LL_Pts_C,Valtinho
+290,2,00:07,35,39,PAU,LL_Pts_C,Valtinho
+291,2,00:07,35,38,SJO,substituicao_sai,Gustavo
+292,2,00:07,35,38,SJO,substituicao_entra,Jamaal
+293,2,00:07,35,38,PAU,substituicao_sai,Caio Torres
+294,2,00:07,35,38,PAU,substituicao_entra,Gemerson
+295,2,00:07,35,38,PAU,substituicao_sai,Dawkins
+296,2,00:07,35,38,PAU,substituicao_entra,Mogi
+297,2,00:07,35,38,PAU,FR,Valtinho
+298,2,00:07,35,38,SJO,FC,Gustavo
+299,2,00:24,35,38,SJO,substituicao_sai,Pedro
+300,2,00:24,35,38,SJO,substituicao_entra,Cauê
+301,2,00:24,35,38,SJO,substituicao_sai,Renato C
+302,2,00:24,35,38,SJO,substituicao_entra,Bruno Ferreira
+303,2,00:24,35,38,PAU,substituicao_sai,Gemerson
+304,2,00:24,35,38,PAU,substituicao_entra,Dawkins
+305,2,00:24,35,38,SJO,substituicao_sai,Jamaal
+306,2,00:24,35,38,SJO,substituicao_entra,Gustavo
+307,2,00:24,35,38,PAU,BR,Paulistano
+308,2,00:24,35,38,SJO,ER,Renato C
+309,2,00:40,35,38,PAU,2_Pts_C,Caio Torres
+310,2,00:43,35,36,PAU,RO,Caio Torres
+311,2,00:43,35,36,PAU,3_Pts_T,Gemerson
+312,2,00:55,35,36,PAU,RD,Arthur Pecos
+313,2,00:55,35,36,SJO,3_Pts_T,Jamaal
+314,2,01:11,35,36,SJO,substituicao_sai,Bruno Ferreira
+315,2,01:11,35,36,SJO,substituicao_entra,Daniel Filé
+316,2,01:11,35,36,SJO,BR,São José
+317,2,01:11,35,36,PAU,ER,Caio Torres
+318,2,01:24,35,36,SJO,LL_Pts_C,Jamaal
+319,2,01:24,34,36,SJO,LL_Pts_C,Jamaal
+320,2,01:24,33,36,PAU,substituicao_sai,Dawkins
+321,2,01:24,33,36,PAU,substituicao_entra,Arthur Pecos
+322,2,01:24,33,36,SJO,FR,Jamaal
+323,2,01:24,33,36,PAU,FC,Dawkins
+324,2,01:44,33,36,PAU,2_Pts_C,Gemerson
+325,2,01:44,33,34,PAU,AS,Valtinho
+326,2,01:50,33,34,PAU,RD,Caio Torres
+327,2,01:50,33,34,SJO,3_Pts_T,Arthur
+328,2,02:16,33,34,PAU,2_Pts_C,Caio Torres
+329,2,02:39,33,32,PAU,tempo_tecnico,Paulistano
+330,2,02:39,33,32,SJO,EN,Arthur
+331,2,02:39,31,32,SJO,AS,Pedro
+332,2,03:01,31,32,SJO,LL_Pts_C,Pedro
+333,2,03:01,30,32,SJO,LL_Pts_C,Pedro
+334,2,03:01,29,32,SJO,FR,Pedro
+335,2,03:01,29,32,PAU,FC_A,Valtinho
+336,2,03:04,29,32,SJO,BR,Pedro
+337,2,03:04,29,32,PAU,ER,Valtinho
+338,2,03:33,29,32,PAU,RD,Gemerson
+339,2,03:33,29,32,SJO,2_Pts_T,Renato C
+340,2,03:33,29,32,SJO,FR,Jamaal
+341,2,03:33,29,32,PAU,FC,Jhonatan
+342,2,03:48,29,32,PAU,substituicao_sai,Gruber
+343,2,03:48,29,32,PAU,substituicao_entra,Gemerson
+344,2,03:48,29,32,PAU,LL_Pts_C,Gruber
+345,2,03:48,29,31,PAU,LL_Pts_C,Gruber
+346,2,03:48,29,30,PAU,substituicao_sai,Arthur Pecos
+347,2,03:48,29,30,PAU,substituicao_entra,Dawkins
+348,2,03:48,29,30,PAU,substituicao_sai,Toyloy
+349,2,03:48,29,30,PAU,substituicao_entra,Caio Torres
+350,2,03:48,29,30,SJO,substituicao_sai,Aguirre
+351,2,03:48,29,30,SJO,substituicao_entra,Renato C
+352,2,03:48,29,30,PAU,FR,Gruber
+353,2,03:48,29,30,SJO,FC,Bruno Ferreira
+354,2,04:08,29,30,SJO,3_Pts_C,Jamaal
+355,2,04:18,26,30,SJO,RD,Bruno Ferreira
+356,2,04:18,26,30,PAU,2_Pts_T,Toyloy
+357,2,04:45,26,30,PAU,RD,Toyloy
+358,2,04:45,26,30,SJO,3_Pts_T,Pedro
+359,2,04:56,26,30,SJO,RD,Jamaal
+360,2,04:56,26,30,PAU,3_Pts_T,Valtinho
+361,2,05:11,26,30,SJO,2_Pts_C,Arthur
+362,2,05:27,24,30,SJO,RD,Arthur
+363,2,05:27,24,30,PAU,2_Pts_T,Arthur Pecos
+364,2,05:54,24,30,SJO,2_Pts_C,Jamaal
+365,2,05:59,22,30,SJO,BR,Jamaal
+366,2,05:59,22,30,PAU,ER,Arthur Pecos
+367,2,06:18,22,30,PAU,BR,Toyloy
+368,2,06:18,22,30,SJO,ER,Aguirre
+369,2,06:38,22,30,SJO,tempo_tecnico,São José
+370,2,06:38,22,30,PAU,3_Pts_C,Jhonatan
+371,2,06:38,22,27,PAU,AS,Arthur Pecos
+372,2,06:54,22,27,PAU,BR,Paulistano
+373,2,06:54,22,27,SJO,ER,Bruno Ferreira
+374,2,07:17,22,27,SJO,FR,Aguirre
+375,2,07:17,22,27,PAU,FC_O,Toyloy
+376,2,07:26,22,27,SJO,substituicao_sai,Cauê
+377,2,07:26,22,27,SJO,substituicao_entra,Pedro
+378,2,07:26,22,27,SJO,substituicao_sai,César
+379,2,07:26,22,27,SJO,substituicao_entra,Bruno Ferreira
+380,2,07:27,22,27,PAU,FR,Jhonatan
+381,2,07:27,22,27,SJO,FC,César
+382,2,07:27,22,27,PAU,LL_Pts_T,Toyloy
+383,2,07:27,22,27,PAU,FR,Toyloy
+384,2,07:27,22,27,SJO,FC,Aguirre
+385,2,07:27,22,27,PAU,EN,Toyloy
+386,2,07:27,22,25,PAU,AS,Arthur Pecos
+387,2,07:46,22,25,PAU,substituicao_sai,Dawkins
+388,2,07:46,22,25,PAU,substituicao_entra,Valtinho
+389,2,07:55,22,25,SJO,ER,Arthur
+390,2,08:07,22,25,PAU,3_Pts_C,Jhonatan
+391,2,08:25,22,22,SJO,ER,
+392,2,08:58,22,22,PAU,2_Pts_C,Toyloy
+393,2,09:18,22,20,SJO,3_Pts_C,Cauê
+394,2,09:33,19,20,SJO,FR,Cauê
+395,2,09:33,19,20,PAU,FC_O,Dawkins
+396,2,09:45,19,20,PAU,RD,Toyloy
+397,2,09:45,19,20,SJO,3_Pts_T,Arthur
+398,1,00:00,19,20, ,fim_quarto,
+399,1,00:00,19,20,SJO,3_Pts_T,Arthur
+400,1,00:03,19,20,SJO,BR,Cauê
+401,1,00:03,19,20,PAU,ER,Arthur Pecos
+402,1,00:08,19,20,PAU,BR,Jhonatan
+403,1,00:08,19,20,SJO,ER,Cauê
+404,1,00:28,19,20,PAU,substituicao_sai,Dawkins
+405,1,00:28,19,20,PAU,substituicao_entra,Mogi
+406,1,00:28,19,20,PAU,substituicao_sai,Gruber
+407,1,00:28,19,20,PAU,substituicao_entra,Guilherme
+408,1,00:28,19,20,PAU,LL_Pts_C,Gruber
+409,1,00:28,19,19,SJO,substituicao_sai,Pedro
+410,1,00:28,19,19,SJO,substituicao_entra,Jamaal
+411,1,00:28,19,19,SJO,substituicao_sai,Matheus Dalla
+412,1,00:28,19,19,SJO,substituicao_entra,Arthur
+413,1,00:28,19,19,SJO,substituicao_sai,Renato C
+414,1,00:28,19,19,SJO,substituicao_entra,Aguirre
+415,1,00:28,19,19,PAU,substituicao_sai,Caio Torres
+416,1,00:28,19,19,PAU,substituicao_entra,Toyloy
+417,1,00:28,19,19,PAU,2_Pts_C,Gruber
+418,1,00:28,19,17,PAU,FR,Gruber
+419,1,00:28,19,17,SJO,FC,Renato C
+420,1,00:29,19,17,PAU,RO,Gruber
+421,1,00:29,19,17,PAU,3_Pts_T,Jhonatan
+422,1,00:33,19,17,PAU,BR,Dawkins
+423,1,00:33,19,17,SJO,ER,Matheus Dalla
+424,1,00:38,19,17,SJO,RD,Matheus Dalla
+425,1,00:38,19,17,PAU,3_Pts_T,Jhonatan
+426,1,01:00,19,17,SJO,3_Pts_C,Cauê
+427,1,01:00,16,17,SJO,AS,Renato C
+428,1,01:19,16,17,PAU,2_Pts_C,Jhonatan
+429,1,01:24,16,15,PAU,RO,Jhonatan
+430,1,01:24,16,15,SJO,TO,Cauê
+431,1,01:24,16,15,PAU,2_Pts_T,Dawkins
+432,1,01:29,16,15,PAU,BR,Arthur Pecos
+433,1,01:29,16,15,SJO,ER,Matheus Dalla
+434,1,01:41,16,15,PAU,2_Pts_C,Arthur Pecos
+435,1,01:57,16,13,SJO,2_Pts_C,Matheus Dalla
+436,1,01:57,14,13,SJO,AS,Cauê
+437,1,02:13,14,13,PAU,substituicao_sai,Gemerson
+438,1,02:13,14,13,PAU,substituicao_entra,Jhonatan
+439,1,02:13,14,13,PAU,substituicao_sai,Valtinho
+440,1,02:13,14,13,PAU,substituicao_entra,Arthur Pecos
+441,1,02:13,14,13,PAU,ER,Caio Torres
+442,1,02:23,14,13,PAU,RD,Gemerson
+443,1,02:23,14,13,SJO,2_Pts_T,César
+444,1,02:26,14,13,SJO,RO,César
+445,1,02:26,14,13,SJO,3_Pts_T,Renato C
+446,1,02:44,14,13,PAU,LL_Pts_C,Valtinho
+447,1,02:44,14,12,PAU,LL_Pts_T,Valtinho
+448,1,02:44,14,12,PAU,FR,Valtinho
+449,1,02:44,14,12,SJO,FC,Renato C
+450,1,02:55,14,12,PAU,RD,Gemerson
+451,1,02:55,14,12,SJO,2_Pts_T,Cauê
+452,1,03:16,14,12,PAU,2_Pts_C,Caio Torres
+453,1,03:16,14,10,PAU,AS,Dawkins
+454,1,03:31,14,10,PAU,tempo_tecnico,Paulistano
+455,1,03:31,14,10,SJO,2_Pts_C,Renato C
+456,1,03:31,12,10,SJO,AS,Cauê
+457,1,03:37,12,10,SJO,RD,Cauê
+458,1,03:37,12,10,PAU,2_Pts_T,Gemerson
+459,1,03:40,12,10,PAU,RO,Gemerson
+460,1,03:40,12,10,PAU,2_Pts_T,Gruber
+461,1,03:44,12,10,PAU,RO,Gruber
+462,1,03:44,12,10,PAU,2_Pts_T,Gemerson
+463,1,03:47,12,10,PAU,RO,Gemerson
+464,1,03:47,12,10,PAU,3_Pts_T,Valtinho
+465,1,04:11,12,10,PAU,RD,Valtinho
+466,1,04:11,12,10,SJO,3_Pts_T,César
+467,1,04:17,12,10,SJO,RO,Renato C
+468,1,04:17,12,10,SJO,2_Pts_T,Matheus Dalla
+469,1,04:23,12,10,SJO,RD,Pedro
+470,1,04:23,12,10,PAU,2_Pts_T,Gemerson
+471,1,04:35,12,10,PAU,FR,Valtinho
+472,1,04:35,12,10,SJO,FC,Pedro
+473,1,04:38,12,10,SJO,FC_T,Matheus Dalla
+474,1,04:38,12,10,PAU,FC_T,Gemerson
+475,1,04:42,12,10,PAU,BR,Paulistano
+476,1,04:42,12,10,SJO,ER,Pedro
+477,1,04:48,12,10,SJO,RD,César
+478,1,04:48,12,10,SJO,TO,Renato C
+479,1,04:48,12,10,PAU,2_Pts_T,Caio Torres
+480,1,04:58,12,10,SJO,3_Pts_C,César
+481,1,04:58,9,10,SJO,AS,Cauê
+482,1,05:16,9,10,SJO,FR,Cauê
+483,1,05:16,9,10,PAU,FC,Caio Torres
+484,1,05:16,9,10,SJO,RD,São José
+485,1,05:16,9,10,PAU,3_Pts_T,Gemerson
+486,1,05:40,9,10,SJO,2_Pts_C,Pedro
+487,1,05:40,7,10,SJO,AS,Cauê
+488,1,05:47,7,10,SJO,RD,César
+489,1,05:47,7,10,PAU,2_Pts_T,Gruber
+490,1,05:51,7,10,PAU,FR,Caio Torres
+491,1,05:51,7,10,SJO,FC,Pedro
+492,1,06:06,7,10,PAU,RD,Gruber
+493,1,06:06,7,10,SJO,3_Pts_T,Matheus Dalla
+494,1,06:31,7,10,SJO,RD,César
+495,1,06:31,7,10,PAU,3_Pts_T,Gemerson
+496,1,06:45,7,10,PAU,BR,Valtinho
+497,1,06:45,7,10,SJO,ER,César
+498,1,07:02,7,10,PAU,2_Pts_C,Dawkins
+499,1,07:19,7,8,SJO,3_Pts_C,César
+500,1,07:19,4,8,SJO,AS,Cauê
+501,1,07:32,4,8,PAU,ER,Gruber
+502,1,07:52,4,8,SJO,2_Pts_C,César
+503,1,08:10,2,8,PAU,3_Pts_C,Gemerson
+504,1,08:10,2,5,PAU,AS,Valtinho
+505,1,08:28,2,5,PAU,FR,Valtinho
+506,1,08:28,2,5,SJO,FC,Cauê
+507,1,08:40,2,5,PAU,RD,Caio Torres
+508,1,08:40,2,5,SJO,2_Pts_T,Renato C
+509,1,09:03,2,5,PAU,3_Pts_C,Dawkins
+510,1,09:12,2,2,PAU,RD,Caio Torres
+511,1,09:12,2,2,SJO,2_Pts_T,Renato C
+512,1,09:18,2,2,SJO,RD,Renato C
+513,1,09:18,2,2,PAU,3_Pts_T,Valtinho
+514,1,09:40,2,2,SJO,2_Pts_C,Pedro
+515,1,09:55,0,2,PAU,2_Pts_C,Gemerson
+516,1,09:55,0,0,PAU,AS,Valtinho
+517,1,10:00,0,0,PAU,substituicao_entra,Dawkins
+518,1,10:00,0,0,PAU,substituicao_entra,Gruber
+519,1,10:00,0,0,PAU,substituicao_entra,Caio Torres
+520,1,10:00,0,0,PAU,substituicao_entra,Valtinho
+521,1,10:00,0,0,PAU,substituicao_entra,Gemerson
+522,1,10:00,0,0,SJO,substituicao_entra,Renato C
+523,1,10:00,0,0,SJO,substituicao_entra,Pedro
+524,1,10:00,0,0,SJO,substituicao_entra,Cauê
+525,1,10:00,0,0,SJO,substituicao_entra,Matheus Dalla
+526,1,10:00,0,0,SJO,substituicao_entra,César

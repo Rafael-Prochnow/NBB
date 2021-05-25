@@ -1,0 +1,517 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,60,71, ,fim_partida,
+1,4,00:00,60,71,MIN,RD,Minas
+2,4,00:09,60,71,CEA,3_Pts_T,André Góes
+3,4,00:17,60,71,CEA,RD,Nick
+4,4,00:17,60,71,MIN,LL_Pts_T,Elinho
+5,4,00:17,60,71,MIN,LL_Pts_T,Elinho
+6,4,00:17,60,71,MIN,FR,Elinho
+7,4,00:17,60,71,CEA,FC,Victor
+8,4,00:25,60,71,CEA,,
+9,4,00:34,60,71,CEA,RD,André Góes
+10,4,00:34,60,71,MIN,LL_Pts_T,Elinho
+11,4,00:34,60,71,MIN,LL_Pts_T,Elinho
+12,4,00:34,60,71,MIN,FR,Elinho
+13,4,00:34,60,71,CEA,FC,Victor
+14,4,00:37,60,71,MIN,RO,Siqueira
+15,4,00:37,60,71,MIN,LL_Pts_T,Siqueira
+16,4,00:37,60,71,MIN,LL_Pts_C,Siqueira
+17,4,00:37,60,70,MIN,FR,Siqueira
+18,4,00:37,60,70,CEA,FC,André Góes
+19,4,00:38,60,70,MIN,substituicao_entra,Rafa Moreira
+20,4,00:38,60,70,MIN,substituicao_sai,Coelho
+21,4,00:38,60,70,CEA,2_Pts_C,Victor
+22,4,00:41,58,70,MIN,LL_Pts_C,Siqueira
+23,4,00:41,58,69,MIN,LL_Pts_C,Siqueira
+24,4,00:41,58,68,MIN,FR,Siqueira
+25,4,00:41,58,68,CEA,FC,André Góes
+26,4,00:42,58,68,MIN,tempo_tecnico,Minas
+27,4,00:42,58,68,CEA,LL_Pts_C,André Góes
+28,4,00:42,57,68,CEA,LL_Pts_C,André Góes
+29,4,00:42,56,68,CEA,LL_Pts_C,André Góes
+30,4,00:42,55,68,CEA,FR,André Góes
+31,4,00:42,55,68,MIN,FC,Douglas Nunes
+32,4,00:44,55,68,CEA,tempo_tecnico,Basquete Cearense
+33,4,00:44,55,68,MIN,LL_Pts_C,Douglas Nunes
+34,4,00:44,55,67,MIN,LL_Pts_C,Douglas Nunes
+35,4,00:44,55,66,MIN,FR,Douglas Nunes
+36,4,00:44,55,66,CEA,FC,Davi
+37,4,00:50,55,66,MIN,RD,Douglas Nunes
+38,4,00:50,55,66,CEA,3_Pts_T,Nick
+39,4,00:54,55,66,CEA,tempo_tecnico,Basquete Cearense
+40,4,00:54,55,66,MIN,LL_Pts_C,Coelho
+41,4,00:54,55,65,MIN,LL_Pts_C,Coelho
+42,4,00:54,55,64,CEA,substituicao_entra,Drudi
+43,4,00:54,55,64,CEA,substituicao_sai,Jimmy
+44,4,00:54,55,64,MIN,FR,Coelho
+45,4,00:54,55,64,CEA,FC,Jimmy
+46,4,00:56,55,64,CEA,LL_Pts_C,Jimmy
+47,4,00:56,54,64,CEA,LL_Pts_C,Jimmy
+48,4,00:56,53,64,CEA,substituicao_entra,André Góes
+49,4,00:56,53,64,CEA,substituicao_sai,Drudi
+50,4,00:56,53,64,MIN,substituicao_entra,Coelho
+51,4,00:56,53,64,MIN,substituicao_sai,Betinho
+52,4,00:56,53,64,CEA,FR,Jimmy
+53,4,00:56,53,64,MIN,FC,Betinho
+54,4,01:02,53,64,CEA,RD,Nick
+55,4,01:02,53,64,MIN,2_Pts_T,Wanderson
+56,4,01:27,53,64,CEA,2_Pts_C,Drudi
+57,4,01:38,51,64,MIN,2_Pts_C,Betinho
+58,4,02:05,51,62,MIN,RO,Betinho
+59,4,02:05,51,62,MIN,2_Pts_T,Betinho
+60,4,02:20,51,62,MIN,LL_Pts_C,Betinho
+61,4,02:20,51,61,MIN,LL_Pts_C,Betinho
+62,4,02:20,51,60,MIN,FR,Betinho
+63,4,02:20,51,60,CEA,FC_A,Drudi
+64,4,02:35,51,60,CEA,2_Pts_C,Drudi
+65,4,02:35,49,60,CEA,AS,Jimmy
+66,4,02:44,49,60,CEA,RD,Drudi
+67,4,02:44,49,60,MIN,LL_Pts_T,Douglas Nunes
+68,4,02:44,49,60,MIN,LL_Pts_C,Douglas Nunes
+69,4,02:44,49,59,MIN,FR,Douglas Nunes
+70,4,02:44,49,59,CEA,FC,Jimmy
+71,4,03:10,49,59,CEA,LL_Pts_C,Victor
+72,4,03:10,48,59,CEA,LL_Pts_T,Victor
+73,4,03:10,48,59,CEA,FR,Victor
+74,4,03:10,48,59,MIN,FC,Betinho
+75,4,03:10,48,59,CEA,RD,Davi
+76,4,03:10,48,59,MIN,3_Pts_T,Betinho
+77,4,03:19,48,59,CEA,ER,Drudi
+78,4,03:25,48,59,MIN,substituicao_entra,Siqueira
+79,4,03:25,48,59,MIN,substituicao_sai,Coelho
+80,4,03:31,48,59,MIN,ER,
+81,4,03:37,48,59,MIN,2_Pts_T,Coelho
+82,4,03:52,48,59,CEA,LL_Pts_C,Jimmy
+83,4,03:52,47,59,CEA,2_Pts_C,Jimmy
+84,4,03:52,45,59,CEA,FR,Jimmy
+85,4,03:52,45,59,MIN,FC,Coelho
+86,4,03:58,45,59,CEA,RD,Jimmy
+87,4,03:58,45,59,MIN,2_Pts_T,Wanderson
+88,4,04:21,45,59,MIN,RD,Douglas Nunes
+89,4,04:21,45,59,CEA,2_Pts_T,Nick
+90,4,04:30,45,59,MIN,RO,Elinho
+91,4,04:30,45,59,MIN,2_Pts_T,Douglas Nunes
+92,4,04:54,45,59,CEA,LL_Pts_C,Nick
+93,4,04:54,44,59,CEA,LL_Pts_C,Nick
+94,4,04:54,43,59,CEA,FR,Nick
+95,4,04:54,43,59,MIN,FC,Betinho
+96,4,05:02,43,59,MIN,EN,Douglas Nunes
+97,4,05:10,43,57,MIN,RO,Betinho
+98,4,05:10,43,57,MIN,2_Pts_T,Betinho
+99,4,05:28,43,57,MIN,LL_Pts_T,Elinho
+100,4,05:28,43,57,MIN,LL_Pts_C,Elinho
+101,4,05:28,43,56,MIN,FR,Elinho
+102,4,05:28,43,56,CEA,FC_A,Davi
+103,4,05:33,43,56,MIN,ER,Wanderson
+104,4,05:54,43,56,MIN,RD,Wanderson
+105,4,05:54,43,56,CEA,LL_Pts_T,Jimmy
+106,4,05:54,43,56,CEA,LL_Pts_C,Jimmy
+107,4,05:54,42,56,CEA,FR,Jimmy
+108,4,05:54,42,56,MIN,FC,Coelho
+109,4,06:03,42,56,MIN,2_Pts_T,Douglas Nunes
+110,4,06:28,42,56,MIN,RD,Betinho
+111,4,06:28,42,56,MIN,TO,Douglas Nunes
+112,4,06:28,42,56,CEA,2_Pts_T,Nick
+113,4,06:33,42,56,CEA,substituicao_entra,Nick
+114,4,06:33,42,56,CEA,substituicao_sai,Matheus
+115,4,06:33,42,56,MIN,tempo_tecnico,Minas
+116,4,06:33,42,56,CEA,FR,Davi
+117,4,06:33,42,56,MIN,FC,Elinho
+118,4,06:39,42,56,CEA,3_Pts_T,Matheus
+119,4,06:47,42,56,CEA,BR,Davi
+120,4,06:47,42,56,MIN,ER,Douglas Nunes
+121,4,07:01,42,56,CEA,substituicao_entra,Victor
+122,4,07:01,42,56,CEA,substituicao_sai,Brown
+123,4,07:01,42,56,MIN,FR,Betinho
+124,4,07:01,42,56,CEA,FC_O,Drudi
+125,4,07:06,42,56,CEA,RO,Drudi
+126,4,07:06,42,56,CEA,2_Pts_T,Matheus
+127,4,07:21,42,56,MIN,substituicao_entra,Elinho
+128,4,07:21,42,56,MIN,substituicao_sai,Siqueira
+129,4,07:21,42,56,CEA,FR,Davi
+130,4,07:21,42,56,MIN,FC,Siqueira
+131,4,07:37,42,56,MIN,EN,Siqueira
+132,4,08:00,42,54,CEA,ER,Brown
+133,4,08:05,42,54,CEA,substituicao_entra,Matheus
+134,4,08:05,42,54,CEA,substituicao_sai,Devon
+135,4,08:05,42,54,CEA,substituicao_entra,Davi
+136,4,08:05,42,54,CEA,substituicao_sai,André Góes
+137,4,08:05,42,54,CEA,FR,André Góes
+138,4,08:05,42,54,MIN,FC,Betinho
+139,4,08:20,42,54,MIN,2_Pts_C,Douglas Nunes
+140,4,08:35,42,52,MIN,RD,Betinho
+141,4,08:35,42,52,CEA,2_Pts_T,Jimmy
+142,4,08:37,42,52,CEA,FR,Drudi
+143,4,08:37,42,52,MIN,FC,Siqueira
+144,4,08:44,42,52,CEA,2_Pts_T,Devon
+145,4,09:01,42,52,MIN,2_Pts_C,Wanderson
+146,4,09:01,42,50,MIN,AS,Douglas Nunes
+147,4,09:24,42,50,CEA,2_Pts_C,Devon
+148,4,09:36,40,50,MIN,2_Pts_C,Douglas Nunes
+149,3,00:00,40,48, ,fim_quarto,
+150,3,00:00,40,48,MIN,LL_Pts_C,Siqueira
+151,3,00:00,40,47,MIN,LL_Pts_T,Siqueira
+152,3,00:01,40,47,MIN,FR,Siqueira
+153,3,00:01,40,47,CEA,FC,Nick
+154,3,00:01,40,47,MIN,RO,Siqueira
+155,3,00:03,40,47,MIN,2_Pts_T,Douglas Nunes
+156,3,00:04,40,47,CEA,substituicao_entra,André Góes
+157,3,00:04,40,47,CEA,substituicao_sai,Jimmy
+158,3,00:04,40,47,CEA,substituicao_entra,Erick Camilo
+159,3,00:04,40,47,CEA,substituicao_sai,Devon
+160,3,00:04,40,47,MIN,substituicao_entra,Douglas Nunes
+161,3,00:04,40,47,MIN,substituicao_sai,Wanderson
+162,3,00:06,40,47,MIN,FR,Elinho
+163,3,00:06,40,47,CEA,FC,Jimmy
+164,3,00:12,40,47,CEA,LL_Pts_C,Brown
+165,3,00:12,39,47,CEA,LL_Pts_T,Brown
+166,3,00:12,39,47,CEA,substituicao_entra,Davi
+167,3,00:12,39,47,CEA,substituicao_sai,Drudi
+168,3,00:12,39,47,MIN,substituicao_entra,Betinho
+169,3,00:12,39,47,MIN,substituicao_sai,Bruno Irigoyen
+170,3,00:12,39,47,CEA,FR,Brown
+171,3,00:12,39,47,MIN,FC,Coelho
+172,3,00:21,39,47,MIN,substituicao_entra,Bruno Irigoyen
+173,3,00:21,39,47,MIN,substituicao_sai,Douglas Nunes
+174,3,00:21,39,47,CEA,RD,Basquete Cearense
+175,3,00:21,39,47,MIN,2_Pts_T,Elinho
+176,3,00:30,39,47,MIN,RD,Douglas Nunes
+177,3,00:30,39,47,CEA,LL_Pts_T,Drudi
+178,3,00:30,39,47,CEA,LL_Pts_C,Drudi
+179,3,00:30,38,47,CEA,FR,Drudi
+180,3,00:30,38,47,MIN,FC,Siqueira
+181,3,00:33,38,47,CEA,substituicao_entra,Nick
+182,3,00:33,38,47,CEA,substituicao_sai,Davi
+183,3,00:33,38,47,CEA,RO,Drudi
+184,3,00:33,38,47,CEA,2_Pts_T,Davi
+185,3,00:55,38,47,MIN,substituicao_entra,Elinho
+186,3,00:55,38,47,MIN,substituicao_sai,Betinho
+187,3,00:55,38,47,CEA,FR,Brown
+188,3,00:55,38,47,MIN,FC_O,Siqueira
+189,3,00:58,38,47,MIN,BR,Siqueira
+190,3,00:58,38,47,CEA,ER,Devon
+191,3,01:10,38,47,MIN,2_Pts_C,Wanderson
+192,3,01:10,38,45,MIN,AS,Coelho
+193,3,01:32,38,45,MIN,RD,Betinho
+194,3,01:32,38,45,CEA,2_Pts_T,Brown
+195,3,01:44,38,45,CEA,RD,Devon
+196,3,01:44,38,45,MIN,2_Pts_T,Betinho
+197,3,02:08,38,45,MIN,RD,Douglas Nunes
+198,3,02:08,38,45,CEA,2_Pts_T,Devon
+199,3,02:21,38,45,CEA,FR,Davi
+200,3,02:21,38,45,MIN,FC_O,Douglas Nunes
+201,3,02:34,38,45,MIN,RD,Coelho
+202,3,02:34,38,45,MIN,TO,Douglas Nunes
+203,3,02:34,38,45,CEA,2_Pts_T,Jimmy
+204,3,02:40,38,45,CEA,RD,Devon
+205,3,02:40,38,45,MIN,LL_Pts_T,Betinho
+206,3,02:40,38,45,MIN,LL_Pts_C,Betinho
+207,3,02:40,38,44,CEA,substituicao_entra,Davi
+208,3,02:40,38,44,CEA,substituicao_sai,Matheus
+209,3,02:44,38,44,MIN,FR,Betinho
+210,3,02:44,38,44,CEA,FC,Matheus
+211,3,03:08,38,44,CEA,3_Pts_C,Drudi
+212,3,03:08,35,44,CEA,AS,Drudi
+213,3,03:20,35,44,MIN,LL_Pts_C,Douglas Nunes
+214,3,03:20,35,43,MIN,LL_Pts_C,Douglas Nunes
+215,3,03:20,35,42,MIN,substituicao_entra,Siqueira
+216,3,03:20,35,42,MIN,substituicao_sai,Elinho
+217,3,03:20,35,42,MIN,FR,Douglas Nunes
+218,3,03:20,35,42,CEA,FC,Drudi
+219,3,03:40,35,42,CEA,EN,Devon
+220,3,04:02,33,42,MIN,3_Pts_C,Douglas Nunes
+221,3,04:02,33,39,MIN,AS,Elinho
+222,3,04:20,33,39,MIN,substituicao_entra,Wanderson
+223,3,04:20,33,39,MIN,substituicao_sai,Barbosa
+224,3,04:20,33,39,CEA,LL_Pts_C,Jimmy
+225,3,04:23,32,39,CEA,2_Pts_C,Jimmy
+226,3,04:23,30,39,CEA,FR,Jimmy
+227,3,04:23,30,39,MIN,FC,Elinho
+228,3,04:30,30,39,CEA,BR,Jimmy
+229,3,04:30,30,39,MIN,ER,Coelho
+230,3,04:46,30,39,CEA,2_Pts_C,Drudi
+231,3,04:46,28,39,CEA,AS,Matheus
+232,3,05:01,28,39,MIN,2_Pts_C,Coelho
+233,3,05:15,28,37,CEA,2_Pts_C,Drudi
+234,3,05:15,26,37,CEA,AS,Devon
+235,3,05:29,26,37,CEA,substituicao_entra,Brown
+236,3,05:29,26,37,CEA,substituicao_sai,André Góes
+237,3,05:29,26,37,CEA,FR,Drudi
+238,3,05:29,26,37,MIN,FC,Betinho
+239,3,05:34,26,37,CEA,RD,Drudi
+240,3,05:34,26,37,MIN,3_Pts_T,Coelho
+241,3,05:54,26,37,MIN,RD,Douglas Nunes
+242,3,05:54,26,37,CEA,3_Pts_T,Jimmy
+243,3,06:14,26,37,MIN,2_Pts_C,Coelho
+244,3,06:26,26,35,CEA,2_Pts_C,Devon
+245,3,06:53,24,35,MIN,2_Pts_C,Douglas Nunes
+246,3,07:13,24,33,MIN,RD,Douglas Nunes
+247,3,07:13,24,33,CEA,2_Pts_T,Devon
+248,3,07:17,24,33,CEA,RO,Devon
+249,3,07:17,24,33,CEA,2_Pts_T,Drudi
+250,3,07:25,24,33,CEA,FR,Drudi
+251,3,07:25,24,33,MIN,FC,Elinho
+252,3,07:33,24,33,CEA,RO,Drudi
+253,3,07:33,24,33,CEA,2_Pts_T,Jimmy
+254,3,08:07,24,33,MIN,3_Pts_C,Coelho
+255,3,08:07,24,30,MIN,AS,Betinho
+256,3,08:22,24,30,MIN,RD,Douglas Nunes
+257,3,08:22,24,30,CEA,2_Pts_T,André Góes
+258,3,08:32,24,30,CEA,FR,Matheus
+259,3,08:32,24,30,MIN,FC,Coelho
+260,3,08:39,24,30,MIN,3_Pts_T,Elinho
+261,3,09:04,24,30,MIN,BR,Minas
+262,3,09:04,24,30,CEA,ER,Matheus
+263,3,09:21,24,30,MIN,ER,
+264,3,09:47,24,30,MIN,RD,Minas
+265,3,09:47,24,30,CEA,2_Pts_T,André Góes
+266,2,00:00,24,30, ,fim_quarto,
+267,2,00:01,24,30,MIN,RD,Elinho
+268,2,00:02,24,30,CEA,2_Pts_T,Nick
+269,2,00:08,24,30,CEA,RD,Jimmy
+270,2,00:08,24,30,MIN,3_Pts_T,Douglas Nunes
+271,2,00:32,24,30,MIN,substituicao_entra,Coelho
+272,2,00:32,24,30,MIN,substituicao_sai,Siqueira
+273,2,00:32,24,30,MIN,tempo_tecnico,Minas
+274,2,00:32,24,30,CEA,3_Pts_C,André Góes
+275,2,00:32,21,30,CEA,AS,Jimmy
+276,2,00:39,21,30,CEA,RD,Jimmy
+277,2,00:39,21,30,MIN,2_Pts_T,Siqueira
+278,2,01:38,21,30,MIN,RD,Elinho
+279,2,01:38,21,30,CEA,2_Pts_T,Davi
+280,2,01:38,21,30,CEA,RD,Nick
+281,2,01:38,21,30,MIN,3_Pts_T,Elinho
+282,2,01:38,21,30,MIN,FR,Betinho
+283,2,01:38,21,30,CEA,FC_O,Drudi
+284,2,01:53,21,30,CEA,substituicao_entra,Jimmy
+285,2,01:53,21,30,CEA,substituicao_sai,Erick Camilo
+286,2,01:53,21,30,MIN,substituicao_entra,Elinho
+287,2,01:53,21,30,MIN,substituicao_sai,Coelho
+288,2,01:53,21,30,MIN,LL_Pts_C,Coelho
+289,2,01:53,21,29,MIN,LL_Pts_T,Coelho
+290,2,01:56,21,29,MIN,FR,Coelho
+291,2,01:56,21,29,CEA,FC,André Góes
+292,2,02:05,21,29,MIN,RO,Douglas Nunes
+293,2,02:05,21,29,MIN,3_Pts_T,Betinho
+294,2,02:30,21,29,MIN,RD,Betinho
+295,2,02:30,21,29,CEA,LL_Pts_T,Erick Camilo
+296,2,02:30,21,29,CEA,LL_Pts_T,Erick Camilo
+297,2,02:30,21,29,MIN,substituicao_entra,Douglas Nunes
+298,2,02:30,21,29,MIN,substituicao_sai,Barbosa
+299,2,02:30,21,29,CEA,FR,Erick Camilo
+300,2,02:30,21,29,MIN,FC,Barbosa
+301,2,02:34,21,29,CEA,3_Pts_T,Davi
+302,2,03:03,21,29,MIN,,
+303,2,03:15,21,29,MIN,RD,Coelho
+304,2,03:15,21,29,CEA,2_Pts_T,Nick
+305,2,03:30,21,29,MIN,AS,Coelho
+306,2,03:36,21,29,MIN,2_Pts_C,Betinho
+307,2,03:54,21,27,CEA,3_Pts_C,Nick
+308,2,03:54,18,27,CEA,AS,Davi
+309,2,03:58,18,27,CEA,FR,Erick Camilo
+310,2,03:58,18,27,MIN,FC,Barbosa
+311,2,04:04,18,27,CEA,2_Pts_T,Drudi
+312,2,04:18,18,27,MIN,2_Pts_C,Demétrio
+313,2,04:18,18,25,MIN,AS,Siqueira
+314,2,04:34,18,25,MIN,RD,Barbosa
+315,2,04:34,18,25,CEA,2_Pts_T,Davi
+316,2,04:46,18,25,MIN,substituicao_entra,Barbosa
+317,2,04:46,18,25,MIN,substituicao_sai,Wanderson
+318,2,04:46,18,25,CEA,substituicao_entra,Nick
+319,2,04:46,18,25,CEA,substituicao_sai,Jimmy
+320,2,04:46,18,25,MIN,tempo_tecnico,Minas
+321,2,04:46,18,25,CEA,FR,Drudi
+322,2,04:46,18,25,MIN,FC,Wanderson
+323,2,04:50,18,25,CEA,RO,Drudi
+324,2,04:50,18,25,CEA,2_Pts_T,Jimmy
+325,2,04:57,18,25,CEA,RD,Basquete Cearense
+326,2,04:57,18,25,MIN,LL_Pts_T,Betinho
+327,2,04:57,18,25,CEA,substituicao_entra,Erick Camilo
+328,2,04:57,18,25,CEA,substituicao_sai,Devon
+329,2,04:57,18,25,MIN,substituicao_entra,Wanderson
+330,2,04:57,18,25,MIN,substituicao_sai,Ansaloni
+331,2,05:00,18,25,MIN,2_Pts_C,Betinho
+332,2,05:00,18,23,MIN,FR,Betinho
+333,2,05:00,18,23,CEA,FC,André Góes
+334,2,05:08,18,23,MIN,BR,Betinho
+335,2,05:08,18,23,CEA,ER,Devon
+336,2,05:16,18,23,CEA,RD,Davi
+337,2,05:16,18,23,MIN,3_Pts_T,Siqueira
+338,2,05:37,18,23,CEA,2_Pts_C,Drudi
+339,2,05:37,16,23,CEA,AS,André Góes
+340,2,05:38,16,23,CEA,substituicao_entra,André Góes
+341,2,05:38,16,23,CEA,substituicao_entra,Davi
+342,2,05:38,16,23,CEA,substituicao_sai,Brown
+343,2,05:38,16,23,CEA,substituicao_sai,Matheus
+344,2,05:38,16,23,CEA,FR,Devon
+345,2,05:38,16,23,MIN,FC,Ansaloni
+346,2,05:43,16,23,CEA,3_Pts_T,Matheus
+347,2,05:55,16,23,MIN,2_Pts_C,Betinho
+348,2,06:02,16,21,MIN,RO,Coelho
+349,2,06:02,16,21,MIN,2_Pts_T,Betinho
+350,2,06:08,16,21,MIN,BR,Coelho
+351,2,06:08,16,21,CEA,ER,Matheus
+352,2,06:14,16,21,MIN,2_Pts_C,Siqueira
+353,2,06:14,16,19,MIN,AS,Betinho
+354,2,06:19,16,19,MIN,BR,Coelho
+355,2,06:19,16,19,CEA,ER,Brown
+356,2,06:28,16,19,MIN,substituicao_entra,Demétrio
+357,2,06:28,16,19,MIN,substituicao_sai,Douglas Nunes
+358,2,06:28,16,19,CEA,RO,Basquete Cearense
+359,2,06:28,16,19,CEA,2_Pts_T,Drudi
+360,2,06:36,16,19,CEA,RD,Basquete Cearense
+361,2,06:36,16,19,MIN,2_Pts_T,Douglas Nunes
+362,2,07:01,16,19,CEA,2_Pts_C,Drudi
+363,2,07:01,14,19,CEA,AS,Jimmy
+364,2,07:10,14,19,CEA,tempo_tecnico,Basquete Cearense
+365,2,07:10,14,19,MIN,2_Pts_C,Coelho
+366,2,07:10,14,17,MIN,AS,Siqueira
+367,2,07:31,14,17,MIN,RD,Douglas Nunes
+368,2,07:31,14,17,CEA,3_Pts_T,Matheus
+369,2,07:44,14,17,MIN,LL_Pts_C,Ansaloni
+370,2,07:44,14,16,MIN,LL_Pts_C,Ansaloni
+371,2,07:51,14,15,MIN,FR,Ansaloni
+372,2,07:51,14,15,CEA,FC,Jimmy
+373,2,08:12,14,15,CEA,2_Pts_C,Drudi
+374,2,08:23,12,15,MIN,substituicao_entra,Douglas Nunes
+375,2,08:23,12,15,MIN,substituicao_sai,Wanderson
+376,2,08:23,12,15,CEA,FR,Jimmy
+377,2,08:23,12,15,MIN,FC,Wanderson
+378,2,08:39,12,15,MIN,2_Pts_C,Ansaloni
+379,2,08:39,12,13,MIN,AS,Coelho
+380,2,09:00,12,13,MIN,RD,Ansaloni
+381,2,09:00,12,13,CEA,2_Pts_T,Brown
+382,2,09:12,12,13,MIN,LL_Pts_C,Coelho
+383,2,09:12,12,12,MIN,LL_Pts_C,Coelho
+384,2,09:12,12,11,MIN,FR,Coelho
+385,2,09:12,12,11,CEA,FC,Brown
+386,2,09:16,12,11,CEA,EN,Drudi
+387,2,09:22,10,11,CEA,RO,Drudi
+388,2,09:22,10,11,CEA,2_Pts_T,Brown
+389,2,09:49,10,11,MIN,2_Pts_C,Ansaloni
+390,2,09:49,10,9,MIN,AS,Siqueira
+391,1,00:00,10,9, ,fim_quarto,
+392,1,00:04,10,9,CEA,RD,Basquete Cearense
+393,1,00:04,10,9,MIN,2_Pts_T,Ansaloni
+394,1,00:05,10,9,CEA,substituicao_entra,Romulo
+395,1,00:05,10,9,CEA,substituicao_sai,Erick Camilo
+396,1,00:05,10,9,MIN,FR,Coelho
+397,1,00:05,10,9,CEA,FC,Jimmy
+398,1,00:09,10,9,MIN,BR,Coelho
+399,1,00:09,10,9,CEA,ER,Drudi
+400,1,00:29,10,9,MIN,substituicao_entra,Siqueira
+401,1,00:29,10,9,MIN,substituicao_sai,Elinho
+402,1,00:29,10,9,MIN,substituicao_entra,Ansaloni
+403,1,00:29,10,9,MIN,substituicao_sai,Douglas Nunes
+404,1,00:29,10,9,CEA,substituicao_entra,Jimmy
+405,1,00:29,10,9,CEA,substituicao_sai,Nick
+406,1,00:29,10,9,CEA,substituicao_entra,Matheus
+407,1,00:29,10,9,CEA,substituicao_sai,Davi
+408,1,00:29,10,9,MIN,ER,Coelho
+409,1,00:46,10,9,CEA,2_Pts_C,Drudi
+410,1,00:51,8,9,CEA,RO,Drudi
+411,1,00:51,8,9,CEA,2_Pts_T,Davi
+412,1,01:09,8,9,MIN,2_Pts_C,Coelho
+413,1,01:09,8,7,MIN,AS,Elinho
+414,1,01:12,8,7,MIN,BR,Coelho
+415,1,01:12,8,7,CEA,ER,Brown
+416,1,01:27,8,7,CEA,RD,Davi
+417,1,01:27,8,7,MIN,2_Pts_T,Elinho
+418,1,01:34,8,7,MIN,BR,Wanderson
+419,1,01:34,8,7,CEA,ER,Nick
+420,1,01:52,8,7,CEA,RD,Erick Camilo
+421,1,01:52,8,7,MIN,2_Pts_T,Coelho
+422,1,02:06,8,7,CEA,substituicao_entra,Drudi
+423,1,02:06,8,7,CEA,substituicao_sai,Devon
+424,1,02:06,8,7,CEA,substituicao_entra,Brown
+425,1,02:06,8,7,CEA,substituicao_sai,André Góes
+426,1,02:06,8,7,MIN,FR,Betinho
+427,1,02:06,8,7,CEA,FC,Davi
+428,1,02:22,8,7,MIN,RD,Douglas Nunes
+429,1,02:22,8,7,CEA,2_Pts_T,Devon
+430,1,02:31,8,7,CEA,RD,Davi
+431,1,02:31,8,7,CEA,TO,Devon
+432,1,02:31,8,7,MIN,3_Pts_T,Elinho
+433,1,02:50,8,7,MIN,BR,Minas
+434,1,02:50,8,7,CEA,ER,Erick Camilo
+435,1,03:06,8,7,MIN,2_Pts_C,Coelho
+436,1,03:15,8,5,MIN,RD,Douglas Nunes
+437,1,03:15,8,5,CEA,2_Pts_T,Erick Camilo
+438,1,03:34,8,5,MIN,substituicao_entra,Elinho
+439,1,03:34,8,5,MIN,substituicao_sai,Siqueira
+440,1,03:34,8,5,MIN,substituicao_entra,Wanderson
+441,1,03:34,8,5,MIN,substituicao_sai,Ansaloni
+442,1,03:40,8,5,CEA,RD,Basquete Cearense
+443,1,03:40,8,5,MIN,2_Pts_T,Betinho
+444,1,04:00,8,5,MIN,RD,Betinho
+445,1,04:00,8,5,CEA,2_Pts_T,Devon
+446,1,04:17,8,5,CEA,RD,Devon
+447,1,04:17,8,5,MIN,LL_Pts_T,Ansaloni
+448,1,04:17,8,5,MIN,LL_Pts_C,Ansaloni
+449,1,04:17,8,4,MIN,substituicao_entra,Coelho
+450,1,04:17,8,4,MIN,substituicao_sai,Elinho
+451,1,04:17,8,4,MIN,FR,Ansaloni
+452,1,04:43,8,4,CEA,2_Pts_C,André Góes
+453,1,04:43,6,4,CEA,AS,Nick
+454,1,04:49,6,4,CEA,BR,Nick
+455,1,04:49,6,4,MIN,ER,Siqueira
+456,1,05:04,6,4,CEA,2_Pts_C,Nick
+457,1,05:04,4,4,CEA,AS,André Góes
+458,1,05:23,4,4,CEA,BR,Basquete Cearense
+459,1,05:23,4,4,MIN,ER,Elinho
+460,1,05:29,4,4,CEA,FC,Devon
+461,1,05:29,4,4,CEA,LL_Pts_C,Devon
+462,1,05:29,3,4,MIN,RD,Douglas Nunes
+463,1,05:29,3,4,CEA,LL_Pts_T,Devon
+464,1,05:29,3,4,MIN,substituicao_entra,Siqueira
+465,1,05:29,3,4,MIN,substituicao_sai,Wanderson
+466,1,05:32,3,4,CEA,FR,Devon
+467,1,05:32,3,4,MIN,FC,Douglas Nunes
+468,1,05:41,3,4,CEA,BR,Nick
+469,1,05:41,3,4,MIN,ER,Ansaloni
+470,1,06:08,3,4,MIN,BR,Douglas Nunes
+471,1,06:08,3,4,CEA,ER,Devon
+472,1,06:25,3,4,CEA,RD,André Góes
+473,1,06:25,3,4,MIN,3_Pts_T,Elinho
+474,1,06:54,3,4,CEA,LL_Pts_C,Davi
+475,1,06:54,2,4,CEA,LL_Pts_C,Davi
+476,1,07:17,1,4,CEA,FR,Davi
+477,1,07:17,1,4,MIN,FC,Ansaloni
+478,1,07:25,1,4,CEA,FR,Davi
+479,1,07:25,1,4,MIN,FC,Wanderson
+480,1,07:25,1,4,CEA,RD,Davi
+481,1,07:25,1,4,CEA,TO,Devon
+482,1,07:25,1,4,MIN,2_Pts_T,Elinho
+483,1,07:25,1,4,MIN,FR,Betinho
+484,1,07:25,1,4,CEA,FC,Nick
+485,1,07:47,1,4,MIN,RD,Ansaloni
+486,1,07:47,1,4,CEA,2_Pts_T,André Góes
+487,1,07:58,1,4,CEA,RD,Devon
+488,1,07:58,1,4,MIN,3_Pts_T,Betinho
+489,1,08:10,1,4,MIN,BR,Elinho
+490,1,08:10,1,4,CEA,ER,Erick Camilo
+491,1,08:14,1,4,CEA,BR,Devon
+492,1,08:14,1,4,MIN,ER,Betinho
+493,1,08:23,1,4,CEA,LL_Pts_C,Davi
+494,1,08:23,0,4,CEA,LL_Pts_T,Davi
+495,1,08:26,0,4,CEA,FR,Davi
+496,1,08:26,0,4,MIN,FC,Douglas Nunes
+497,1,08:42,0,4,MIN,EN,Ansaloni
+498,1,08:42,0,2,MIN,AS,Elinho
+499,1,08:55,0,2,MIN,BR,Betinho
+500,1,08:55,0,2,CEA,ER,André Góes
+501,1,09:15,0,2,MIN,2_Pts_C,Ansaloni
+502,1,09:35,0,0,MIN,RO,Wanderson
+503,1,09:35,0,0,MIN,2_Pts_T,Wanderson
+504,1,09:42,0,0,MIN,BR,Elinho
+505,1,09:42,0,0,CEA,ER,Davi
+506,1,10:00,0,0,CEA,substituicao_entra,Devon
+507,1,10:00,0,0,CEA,substituicao_entra,Erick Camilo
+508,1,10:00,0,0,CEA,substituicao_entra,Nick
+509,1,10:00,0,0,CEA,substituicao_entra,Davi
+510,1,10:00,0,0,CEA,substituicao_entra,André Góes
+511,1,10:00,0,0,MIN,substituicao_entra,Betinho
+512,1,10:00,0,0,MIN,substituicao_entra,Douglas Nunes
+513,1,10:00,0,0,MIN,substituicao_entra,Wanderson
+514,1,10:00,0,0,MIN,substituicao_entra,Ansaloni
+515,1,10:00,0,0,MIN,substituicao_entra,Elinho
