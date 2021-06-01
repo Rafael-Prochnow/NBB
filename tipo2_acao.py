@@ -61,9 +61,6 @@ dados = pd.DataFrame(
      })
 
 
-
-
-# erro de espaços vindo de cima
 Indicador02 = dados['Time_01'].str.replace(
             '                                                                    \n\n', '')
 
@@ -95,59 +92,28 @@ c = c.apply(lambda x: re.sub("(Início do  quarto quarto|Início do  terceiro qu
                              "Início do  segundo quarto|Início do  de período de prorragação)"
                              , "1>inicio_quarto;", x))
 
-c = c.str.replace('Fim de partida', '1>fim_partida;')
-c = c.str.replace('Início de partida', '1>inicio_partida;')
 
-# esses são os valores que estão os indicadores
-c = c.str.replace('É de três ', '')
-c = c.str.replace(' acerta arremesso de três pontos', '>3_Pts_C;1')
-c = c.str.replace(' erra tentativa para três pontos', '>3_Pts_T;1')
-# lance livre
-c = c.str.replace(' acerta o lance livre', '>LL_Pts_C;1')
-c = c.str.replace(' erra o lance livre', '>LL_Pts_T;1')
-# Dois pontos
-c = c.str.replace(' acerta arremesso de dois pontos', '>2_Pts_C;1')
-c = c.str.replace(' erra tentativa para dois pontos', '>2_Pts_T;1')
-# rebotes
-c = c.str.replace(' pega rebote defensivo', '>RD;1')
-c = c.str.replace(' pega rebote ofensivo', '>RO;1')
+lista_dois = ['Fim de partida', 'Início de partida', 'É de três ', ' acerta arremesso de três pontos',
+              ' erra tentativa para três pontos', ' acerta o lance livre', ' erra o lance livre',
+              ' acerta arremesso de dois pontos', ' erra tentativa para dois pontos', ' pega rebote defensivo',
+              ' pega rebote ofensivo', ' recupera a bola', ' recupera posse de bola', 'Assistência do ',
+              ' sofre falta', ' comete falta técnica', ' comete falta antidesportiva', ' comete falta ofensiva',
+              ' comete falta desqualificante', ' comete falta', 'Entra ', 'Sai ', ' dá um toco', 'Técnico da equipe ',
+              ' pede tempo', 'Cravada', ' acerta enterrada', ' erra tentativa de enterrada', 'Técnico do ', '(']
 
-# recuperação de bola
-c = c.str.replace(' recupera a bola', '>BR;1')
-c = c.str.replace(' recupera posse de bola', '>BR;1')
-# assistencia
-c = c.str.replace('Assistência do ', '>AS;')
-# faltas recebidas
-c = c.str.replace(' sofre falta', '>FR;1')
-# faltas cometidas
-c = c.str.replace(' comete falta técnica', '>FC_T;1')
-c = c.str.replace(' comete falta antidesportiva', '>FC_A;1')
-c = c.str.replace(' comete falta ofensiva', '>FC_O;1')
-c = c.str.replace(' comete falta desqualificante', '>FC_D;1')
-c = c.str.replace(' comete falta', '>FC;1')
-# substituição
-c = c.str.replace('Entra ', '>substituicao_entra;')
-c = c.str.replace('Sai ', '>substituicao_sai;')
-# tocos
-c = c.str.replace(' dá um toco', '>TO;1')
-# tempo técnico
-c = c.str.replace('Técnico da equipe ', '')
-c = c.str.replace(' pede tempo', '>tempo_tecnico;')
+lista_dois_ver = ['1>fim_partida;', '1>inicio_partida;', '', '>3_Pts_C;1', '>3_Pts_T;1', '>LL_Pts_C;1', '>LL_Pts_T;1',
+                  '>2_Pts_C;1', '>2_Pts_T;1', '>RD;1', '>RO;1', '>BR;1', '>BR;1', '>AS;', '>FR;1', '>FC_T;1',
+                  '>FC_A;1', '>FC_O;1', '>FC_D;1', '>FC;1', '>substituicao_entra;', '>substituicao_sai;', '>TO;1',
+                  '', '>tempo_tecnico;', '', '>EN;1', '>2_Pts_T;1', '', ';']
+
+for n in range(len(lista_dois)):
+    c = c.str.replace(lista_dois[n], lista_dois_ver[n])
+
 # erros
 c = c.apply(lambda x: re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
                              " comete violação de saída de quadra| comete violação de volta de quadra|"
                              " comete violação de condução| comete violação de 3s no garrafão)", ">ER;1", x))
-# cravada
-c = c.str.replace('Cravada', '')
-c = c.str.replace(' acerta enterrada', '>EN;1')
-c = c.str.replace(' erra tentativa de enterrada', '>2_Pts_T;1')
-# falta técnica para treinador
-c = c.str.replace('Técnico do ', '')
 
-# tirar os parenteses
-c = c.str.replace('(', ';')
-
-print(c[606])
 # primeira separação é coloco na ordem dos nomes e depois indicadores
 # o ; é para fazer a primeira separação: obtem os nomes
 # 1 é para conter um valor apenas, pois quando separo e junto, caso não tenha um valor, o resultado retira os valores

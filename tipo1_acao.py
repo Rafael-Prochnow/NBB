@@ -100,8 +100,6 @@ html_content = element.get_attribute('outerHTML')
 # passear o conteúdo em HTML e pegar o texto
 soup = BeautifulSoup(html_content, 'html.parser')
 acoes = soup.get_text()
-print(acoes)
-
 
 def limpeza_tabela_um(acoes):
     lista = [' 1º', ' 2º', ' 3º', ' 4º', ' 5º', ' 6º', ' 7º']
@@ -157,88 +155,8 @@ def limpeza_tabela_um(acoes):
     return c
 
 c = limpeza_tabela_um(acoes)
-'''# realizar a limpeza dos dados obtidos
-c = acoes.replace(' 1º', '\n1')
-c = c.replace(' 2º', '\n2')
-c = c.replace(' 3º', '\n3')
-c = c.replace(' 4º', '\n4')
-c = c.replace(' 5º', '\n5')
-c = c.replace(' 6º', '\n6')
-c = c.replace(' 7º', '\n7')
-c = re.sub('(			 |			 |			 )', ';', c)
-c = c.replace('    ', ';')
-c = c.translate({ord(c): "" for c in ".!_+"})
 
-c = re.sub("(Fim  do quarto quarto|Fim  do terceiro quarto|"
-           "Fim  do segundo quarto|Fim  do primeiro quarto|"
-           "Fim  do período de prorragação)", ";1>fim_quarto;", c)
-
-c = re.sub("(Início do  quarto quarto|Início do  terceiro quarto|"
-           "Início do  segundo quarto|Início do  de período de prorragação)", ";1>inicio_quarto;", c)
-
-c = c.replace('Fim de partida', ';1>fim_partida;')
-c = c.replace('Início de partida', ';1>inicio_partida;')
-
-# esses são os valores que estão os indicadores
-c = c.replace('acerta arremesso de três pontos', '>3_Pts_C;1')
-c = c.replace('erra tentativa para três pontos', '>3_Pts_T;1')
-# lance livre
-c = c.replace('acerta o lance livre', '>LL_Pts_C;1')
-c = c.replace('erra o lance livre', '>LL_Pts_T;1')
-# Dois pontos
-c = c.replace('acerta arremesso de dois pontos', '>2_Pts_C;1')
-c = c.replace('erra tentativa para dois pontos', '>2_Pts_T;1')
-# rebotes
-c = c.replace('pega rebote defensivo', '>RD;1')
-c = c.replace('pega rebote ofensivo', '>RO;1')
-# recuperação de bola
-c = c.replace('recupera a bola', '>BR;1')
-c = c.replace(' recupera posse de bola', '>BR;1')
-# assistencia
-c = c.replace('Assistência do ', '>AS;')
-# faltas recebidas
-c = c.replace('sofre falta', '>FR;1')
-
-# faltas cometidas
-c = c.replace('comete falta técnica', '>FC_T;1')
-c = c.replace('comete falta antidesportiva', '>FC_A;1')
-c = c.replace('comete falta ofensiva', '>FC_O;1')
-c = c.replace('comete falta desqualificante', '>FC_D;1')
-c = c.replace('comete falta', '>FC;1')
-# substituição
-c = c.replace('Entra ', '1>substituicao_entra;')
-c = c.replace('Sai ', '1>substituicao_sai;')
-# tocos
-c = c.replace('dá um toco', '>TO;1')
-# tempo técnico
-c = c.replace('pede tempo', '>tempo_tecnico;')
-# erros
-c = re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
-           " comete violação de saída de quadra| comete violação de volta de quadra|"
-           " comete violação de condução)", ">ER;1", c)
-# cravada
-c = c.replace('acerta enterrada', '1>EN;1')
-c = c.replace('erra tentativa de enterrada', '1>2_Pts_T;1')
-
-# tirar os parenteses
-c = c.replace(' (', ';')
-
-
-# retiradas de informações inúteis
-c = re.sub('(INÍCIO DE QUARTO |FIM DE QUARTO |FIM DE PARTIDA |'
-           'Tentativa para três pontos |É DE TRÊS |1 PONTO |Lance Livre Errado |Tentativa para dois pontos |'
-           '2 PONTOS |REBOTE DEFENSIVO |REBOTE OFENSIVO |Bola recuperada |ASSISTÊNCIA |'
-           'Falta sofrida |FALTA OFENSIVA|FALTA ANTIDESPORTIVA |FALTA TÉCNICA |FALTA DESQUALIFICANTE |FALTA |'
-           'Substituição |Substituição Sai |TOCO |TEMPO TÉCNICO Técnico da equipe |'
-           ' Violação Estouro dos 24s|Violação |Erro |CRAVADA |TEMPO TÉCNICO |É de três |'
-           'Técnico da equipe |Cravada|Técnico do )', '', c)
-'''
-
-print(c)
 # depois de ajustar os espaços eu substititui os indicadores por nomes padronizados
-
-
-
 data = io.StringIO(c)
 # depois para DataFrame
 dados = pd.read_csv(data, sep=';', index_col=False,
