@@ -126,12 +126,13 @@ def limpeza_tabela_um(acoes):
               'erra tentativa para dois pontos', 'pega rebote defensivo', 'pega rebote ofensivo', 'recupera a bola',
               ' recupera posse de bola', 'Assistência do ', 'sofre falta', 'comete falta técnica',
               'comete falta antidesportiva', 'comete falta ofensiva', 'comete falta desqualificante',
-              'comete falta', 'Entra ', 'Sai ', 'dá um toco', 'pede tempo', 'acerta enterrada']
+              'comete falta', 'Entra ', 'Sai ', 'dá um toco', 'pede tempo', 'acerta enterrada',
+              'erra tentativa de enterrada']
 
     lista3 = [';1>fim_partida;', ';1>inicio_partida;', '>3_Pts_C;1', '>3_Pts_T;1', '>LL_Pts_C;1', '>LL_Pts_T;1',
               '>2_Pts_C;1', '>2_Pts_T;1', '>RD;1', '>RO;1', '>BR;1', '>BR;1', '>AS;', '>FR;1', '>FC_T;1', '>FC_A;1',
               '>FC_O;1', '>FC_D;1', '>FC;1', '1>substituicao_entra;', '1>substituicao_sai;', '>TO;1', '>tempo_tecnico;',
-              '1>EN;1']
+              '1>EN;1', '1>2_Pts_T;1']
 
     for n in range(len(lista2)):
         c = c.replace(lista2[n], lista3[n])
@@ -151,7 +152,7 @@ def limpeza_tabela_um(acoes):
                'Falta sofrida |FALTA OFENSIVA|FALTA ANTIDESPORTIVA |FALTA TÉCNICA |FALTA DESQUALIFICANTE |FALTA |'
                'Substituição |Substituição Sai |TOCO |TEMPO TÉCNICO Técnico da equipe |'
                ' Violação Estouro dos 24s|Violação |Erro |CRAVADA |TEMPO TÉCNICO |É de três |'
-               'Técnico da equipe |Cravada|Técnico do )', '', c)
+               'Técnico da equipe |Cravada|Técnico do |Tentativa de Enterrada)', '', c)
 
     return c
 
@@ -217,6 +218,7 @@ c = re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
            " comete violação de condução)", ">ER;1", c)
 # cravada
 c = c.replace('acerta enterrada', '1>EN;1')
+c = c.replace('erra tentativa de enterrada', '1>2_Pts_T;1')
 
 # tirar os parenteses
 c = c.replace(' (', ';')

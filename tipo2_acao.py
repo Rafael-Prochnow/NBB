@@ -20,7 +20,7 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
-del(list_inoutControl[:156])
+del(list_inoutControl[:140])
 print(list_inoutControl)
 
 ########################################################################################################################
@@ -59,6 +59,7 @@ dados = pd.DataFrame(
      'Placar': placar,
      'Inf_2': acao_pessoa02
      })
+
 
 
 
@@ -139,13 +140,14 @@ c = c.apply(lambda x: re.sub("( perde posse de bola|Estouro dos 24s| andou com a
 # cravada
 c = c.str.replace('Cravada', '')
 c = c.str.replace(' acerta enterrada', '>EN;1')
-
+c = c.str.replace(' erra tentativa de enterrada', '>2_Pts_T;1')
 # falta técnica para treinador
 c = c.str.replace('Técnico do ', '')
 
 # tirar os parenteses
 c = c.str.replace('(', ';')
 
+print(c[606])
 # primeira separação é coloco na ordem dos nomes e depois indicadores
 # o ; é para fazer a primeira separação: obtem os nomes
 # 1 é para conter um valor apenas, pois quando separo e junto, caso não tenha um valor, o resultado retira os valores
