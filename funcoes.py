@@ -1,12 +1,24 @@
-import time
 from bs4 import BeautifulSoup
 import pandas as pd
-from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
 import requests
-from selenium.common.exceptions import NoSuchElementException
 import io
 import re
+
+
+def arquivos_acao_df():
+    tabela_geral_acao = pd.DataFrame([])
+    lista_cada_temporada_acao = pd.DataFrame([])
+    l1_acao = pd.DataFrame([])
+    l2_acao = pd.DataFrame([])
+    return tabela_geral_acao, lista_cada_temporada_acao, l1_acao, l2_acao
+
+
+def arquivos_acao_lista():
+    lista_funcionando_acao = []
+    lista_falha_acao = []
+    list_sites_falha_acao = []
+    list_sites_funciona_acao = []
+    return lista_funcionando_acao, lista_falha_acao, list_sites_falha_acao, list_sites_funciona_acao
 
 
 def get_links_from(teste):
@@ -265,3 +277,21 @@ def tabela_tipo_2(i, element):
     nome_fora_of = nome_fora_of.replace('/', ' ')
 
     return dados, nome_casa_of, nome_fora_of
+
+
+def salvar_dados_acao(tabela_geral, lista_cada_temporada, temporada, lista_funcionando, l1, l2, lista_falha):
+    # retorna uma tabela geral de cada temporada
+    lista_cada_temporada = pd.concat([tabela_geral, lista_cada_temporada], axis=0)
+    tabela_geral.to_csv('Dados01/temporada ' + f'{temporada}' + '/Total_de_acao_acao_' + f'{temporada}' + '.csv')
+    # retorna os sites que funcionam de cada temoporada
+    list_sites_funciona = pd.DataFrame(lista_funcionando)
+    list_sites_funciona.to_csv('Dados01/temporada ' + f'{temporada}' + '/funcionando_' + f'{temporada}' + '.csv')
+    l1 = pd.concat([list_sites_funciona, l1], axis=0)
+    # retorna os sites que NÃO funcionam de cada temoporada
+    list_sites_falha = pd.DataFrame(lista_falha)
+    list_sites_falha.to_csv('Dados01/temporada ' + f'{temporada}' + '/falha_' + f'{temporada}' + '.csv')
+    l2 = pd.concat([list_sites_falha, l2], axis=0)
+    # zera informações das temporadas
+    return l1, l2
+
+
