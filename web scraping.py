@@ -18,6 +18,11 @@ for x in lista_de_temporadas:
     soup = BeautifulSoup(r.content, 'html.parser')
     list_inoutControl = get_links_from(soup)
     numero_jogo = 1
+    '''# informações para a tabela tabela
+    table_inf = soup.find(name='table')
+    # estruturar conteúdo em uma Data Frame - Pandas
+    informacoes = pd.read_html(str(table_inf))[0]
+    ii = 0'''
     for i in list_inoutControl:
         pagina = requests.get(f'{i}')
         erro_na_pagina = BeautifulSoup(pagina.content, 'html.parser')
@@ -36,11 +41,17 @@ for x in lista_de_temporadas:
                     (i == 'https://lnb.com.br/partidas/nbb-2020-2021-corinthians-x-fortaleza-b-c-16122020-2000/') | \
                     (i == 'https://lnb.com.br/partidas/nbb-2020-2021-minas-x-corinthians-14122020-2000/'):
                 print(f'SEM DADOS KKKKKKKKKKKKKK {i}')
+                # ação ação
                 lista_falha_acao.append(i)
+                '''# Tabela 
+                lista_falha.append(i)'''
                 numero_jogo += 1
             elif erro_na_pagina02 != 'Fatal error':
                 print(f'Jogo {numero_jogo}')
+                # ação ação
                 lista_funcionando_acao.append(i)
+                '''# Tabela
+                lista_funcionando.append(i)'''
                 ########################################################################################################
                 # pegar o nome dos times
                 r1 = requests.get(f'{i}')
@@ -50,28 +61,19 @@ for x in lista_de_temporadas:
                 driver = webdriver.Firefox(options=option)
                 driver.get(f'{i}')
                 time.sleep(10)
-                driver.find_element_by_xpath(
-                    "//div[@class='row tabs_content']//ul//li//a[@id='movethemove-label']").click()
-                try:
-                    element = driver.find_element_by_xpath("//div[@class='move_action_scroll']")
-                except NoSuchElementException:
-                    element = driver.find_element_by_xpath("//div[@class='move_action_scroll column']")
-                    dados, nome_casa_of, nome_fora_of = tabela_tipo_2(i, element)
-                else:
-                    dados, nome_casa_of, nome_fora_of = tabela_tipo_1(i, element)
+                '''# Pegar os dados Tabela Tabela
+                Data = informacoes['DATA'][ii]
+                Fase = informacoes['FASE'][ii]
+                Campeonato = informacoes['CAMPEONATO'][ii]'''
 
-                dados.to_csv(
-                    "Dados01/temporada " + f"{temporada}""/" + "tabela_" + f"{numero_jogo}" + "_" + nome_casa_of + "_x_" + nome_fora_of + ".csv")
-                nome_inf_coluna = nome_casa_of + "_x_" + nome_fora_of
-                print(nome_inf_coluna)
-                tabela_geral = pd.concat([dados, tabela_geral_acao], axis=0)
-                driver.quit()
-                numero_jogo += 1
+                # Pegar os dados Jogada Jogada
+                tabela_geral = localizar_acao(driver, i, temporada, numero_jogo, tabela_geral_acao)
+
             elif erro_na_pagina02 == 'Fatal error':
                 print(f'Essa página {i} não está funcionando')
                 lista_falha_acao.append(i)
                 numero_jogo += 1
-    l1, l2 = salvar_dados_acao(tabela_geral_acao, lista_cada_temporada_acao, temporada, lista_funcionando_acao, l1_acao, l2_acao, lista_falha_acao)
+    l1_acao, l2_acao = salvar_dados_acao(tabela_geral_acao, lista_cada_temporada_acao, temporada, lista_funcionando_acao, l1_acao, l2_acao, lista_falha_acao)
     tabela_geral = pd.DataFrame([])
     list_sites_funciona = []
     list_sites_falha = []

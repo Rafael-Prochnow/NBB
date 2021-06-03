@@ -239,29 +239,35 @@ df_full["RT"] = RT
 df_full.drop("RO+RD RT", axis=1, inplace=True)
 ########################################################################################################################
 df_full.fillna(0, inplace=True)
-
-df_full['RO'] = df_full['RO'].astype(int)
-df_full['RD'] = df_full['RD'].astype(int)
-df_full['RT'] = df_full['RT'].astype(int)
-df_full['AS'] = df_full['AS'].astype(int)
-df_full['BR'] = df_full['BR'].astype(int)
-df_full['TO'] = df_full['TO'].astype(int)
-df_full['FR'] = df_full['FR'].astype(int)
-df_full['EN'] = df_full['EN'].astype(int)
-df_full['Pts_C'] = df_full['Pts_C'].astype(int)
-df_full['Pts_T'] = df_full['Pts_T'].astype(int)
-df_full['Pts_3_C'] = df_full['Pts_3_C'].astype(int)
-df_full['Pts_3_T'] = df_full['Pts_3_T'].astype(int)
-df_full['Pts_2_C'] = df_full['Pts_2_C'].astype(int)
-df_full['Pts_2_T'] = df_full['Pts_2_T'].astype(int)
-df_full['LL_C'] = df_full['LL_C'].astype(int)
-df_full['LL_T'] = df_full['LL_T'].astype(int)
-df_full['ER'] = df_full['ER'].astype(int)
+df_full = df_full.astype({'RO': 'int64', 'RD': 'int64', 'RT': 'int64', 'AS': 'int64', 'BR': 'int64', 'TO': 'int64',
+                          'FR': 'int64', 'EN': 'int64', 'Pts_C': 'int64', 'Pts_T': 'int64', 'Pts_3_C': 'int64',
+                          'Pts_3_T': 'int64', 'Pts_2_C': 'int64', 'Pts_2_T': 'int64', 'LL_C': 'int64',
+                          'LL_T': 'int64', 'ER': 'int64', 'FC': 'int64'})
 
 #########################################################################################################
-placar_do_jogo = df_full[df_full['Jogador'] == 'Equipe']['Pts_C'].diff(periods=-1)
-placar = list(placar_do_jogo)
-dif = int(placar[0])
+dif = list(df_full[df_full['Jogador'] == 'Equipe']['Pts_C'].diff(periods=-1))[0]
+dif = int(dif)
+print(dif)
+if dif == 0:
+    # encontrar a soma da diferença do placar
+    resutado_casa = df_full[df_full['Casa/Fora'] == 'casa']['Pts_C'].sum()
+    resutado_fora = df_full[df_full['Casa/Fora'] == 'fora']['Pts_C'].sum()
+    #  encontrar os valores da dos times
+    casa_pre = list(df_full[(df_full['Jogador'] == 'Equipe') & (df_full['Casa/Fora'] == 'casa')].values)
+    pre_fora = list(df_full[(df_full['Jogador'] == 'Equipe') & (df_full['Casa/Fora'] == 'fora')].values)
+    # somar os valores apenas de cada equipe
+    sub_casa = list(df_full[df_full['Casa/Fora'] == 'casa'].sum())
+    sub_fora = list(df_full[df_full['Casa/Fora'] == 'fora'].sum())
+    # substituir valores de informações do jogo
+    sub_casa[0:3] = casa_pre[0][0:3]
+    sub_fora[0:3] = pre_fora[0][0:3]
+    sub_casa[10:17] = casa_pre[0][10:17]
+    sub_fora[10:17] = pre_fora[0][10:17]
+    # localizar cada time e realizar a substituição dos valores somados anteriormente
+    df_full.loc[(df_full['Jogador'] == 'Equipe') & (df_full['Casa/Fora'] == 'casa')] = sub_casa
+    df_full.loc[(df_full['Jogador'] == 'Equipe') & (df_full['Casa/Fora'] == 'fora')] = sub_fora
+    # valor da diferença do placar
+    dif = resutado_casa - resutado_fora
 # valores positivos e negatovos
 resultado_jogo = ['vitória' if ((x == 'casa') & (dif >= 0)) | ((x == 'fora') & (dif <= 0)) else 'derrota' for x
                   in df_full['Casa/Fora']]

@@ -3,6 +3,7 @@ import pandas as pd
 import requests
 import io
 import re
+from selenium.common.exceptions import NoSuchElementException
 
 
 def arquivos_acao_df():
@@ -295,3 +296,22 @@ def salvar_dados_acao(tabela_geral, lista_cada_temporada, temporada, lista_funci
     return l1, l2
 
 
+def localizar_acao(driver, i, temporada, numero_jogo, tabela_geral_acao):
+    driver.find_element_by_xpath(
+        "//div[@class='row tabs_content']//ul//li//a[@id='movethemove-label']").click()
+    try:
+        element = driver.find_element_by_xpath("//div[@class='move_action_scroll']")
+    except NoSuchElementException:
+        element = driver.find_element_by_xpath("//div[@class='move_action_scroll column']")
+        dados, nome_casa_of, nome_fora_of = tabela_tipo_2(i, element)
+    else:
+        dados, nome_casa_of, nome_fora_of = tabela_tipo_1(i, element)
+
+    dados.to_csv(
+        "Dados01/temporada " + f"{temporada}""/" + "tabela_" + f"{numero_jogo}" + "_" + nome_casa_of + "_x_" + nome_fora_of + ".csv")
+    nome_inf_coluna = nome_casa_of + "_x_" + nome_fora_of
+    print(nome_inf_coluna)
+    tabela_geral = pd.concat([dados, tabela_geral_acao], axis=0)
+    driver.quit()
+    numero_jogo += 1
+    return tabela_geral

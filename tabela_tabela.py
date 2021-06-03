@@ -72,6 +72,8 @@ for x in lista_de_temporadas:
                     (i == 'https://lnb.com.br/noticias/mais-do-que-especial-2/') | \
                     (i == 'https://lnb.com.br/noticias/agora-sim-5/') | \
                     (i == 'https://lnb.com.br/noticias/de-virada/') | \
+                    (i == 'https://lnb.com.br/partidas/nbb-2020-2021-corinthians-x-fortaleza-b-c-16122020-2000/') | \
+                    (i == 'https://lnb.com.br/partidas/nbb-2020-2021-minas-x-corinthians-14122020-2000/') | \
                     (i == 'https://lnb.com.br/noticias/com-a-mao-direita/') | \
                     (i == 'https://lnb.com.br/noticias/triunfo/') | \
                     (i == 'https://lnb.com.br/noticias/na-raca-3/') | \
@@ -466,6 +468,8 @@ for x in lista_de_temporadas:
                     # tirei a coluna "RO+RD RT"
                     df_full.drop("RO+RD RT", axis=1, inplace=True)
                 ###################################################################################################
+                # sai do for
+
                 df_full.fillna(0, inplace=True)
                 df_full['RO'] = df_full['RO'].astype(int)
                 df_full['RD'] = df_full['RD'].astype(int)
