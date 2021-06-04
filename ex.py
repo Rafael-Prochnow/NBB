@@ -4,37 +4,8 @@ from selenium.webdriver.firefox.options import Options
 from funcoes_tabela import *
 
 
-def get_links_from(teste):
-    links = []
-    for a in teste.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
-        links.append((a.get('href')))
-    return links
-
-
-def positivo(numero):
-    if numero >= 0:
-        pass
-    else:
-        numero *= -1
-    return numero
-
-
-def negativo(numero):
-    if numero <= 0:
-        pass
-    else:
-        numero *= -1
-    return numero
-
-
-tabela_geral_tabela = pd.DataFrame([])
-lista_cada_temporada_tabela = pd.DataFrame([])
-lista_funcionando = []
-lista_falha = []
-list_sites_falha = []
-list_sites_funciona = []
-l1 = pd.DataFrame([])
-l2 = pd.DataFrame([])
+lista_funcionando, lista_falha, list_sites_falha, list_sites_funciona = arquivos_tabela_lista()
+tabela_geral_tabela, lista_cada_temporada_tabela, l1, l2 = arquivos_tabela_df()
 # essa é a ordem das temporadas
 temporada = 2012
 
@@ -109,10 +80,6 @@ for x in lista_de_temporadas:
                 Fase = informacoes['FASE'][ii]
                 Campeonato = informacoes['CAMPEONATO'][ii]
                 nome_casa, nome_fora, tabela_geral_tabela = localizar_tabela(driver, i, temporada, Data, Fase, Campeonato, tabela_geral_tabela, numero_jogo)
-                if temporada > 2013:
-                    print('sim')
-                else:
-                    print('não')
                 driver.quit()
                 numero_jogo += 1
             elif erro_na_pagina02 == 'Fatal error':

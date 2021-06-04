@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 from selenium.common.exceptions import NoSuchElementException
 
+
 def get_links_from(soup):
     links = []
     for a in soup.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
@@ -24,6 +25,22 @@ def negativo(numero):
     else:
         numero *= -1
     return numero
+
+
+def arquivos_tabela_df():
+    tabela_geral_tabela = pd.DataFrame([])
+    lista_cada_temporada_tabela = pd.DataFrame([])
+    l1 = pd.DataFrame([])
+    l2 = pd.DataFrame([])
+    return tabela_geral_tabela, lista_cada_temporada_tabela, l1, l2
+
+
+def arquivos_tabela_lista():
+    lista_funcionando = []
+    lista_falha = []
+    list_sites_falha = []
+    list_sites_funciona = []
+    return lista_funcionando, lista_falha, list_sites_falha, list_sites_funciona
 
 
 def tipo_2_tabela(element, driver, i, temporada, Data, Fase, Campeonato):

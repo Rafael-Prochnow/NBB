@@ -293,7 +293,7 @@ def salvar_dados_acao(tabela_geral, lista_cada_temporada, temporada, lista_funci
     list_sites_falha.to_csv('Dados01/temporada ' + f'{temporada}' + '/falha_' + f'{temporada}' + '.csv')
     l2 = pd.concat([list_sites_falha, l2], axis=0)
     # zera informações das temporadas
-    return l1, l2
+    return l1, l2, lista_cada_temporada
 
 
 def localizar_acao(driver, i, temporada, numero_jogo, tabela_geral_acao):
@@ -314,3 +314,4 @@ def localizar_acao(driver, i, temporada, numero_jogo, tabela_geral_acao):
     tabela_geral = pd.concat([dados, tabela_geral_acao], axis=0)
 
     return tabela_geral
+
