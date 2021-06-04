@@ -106,7 +106,8 @@ for x in lista_de_temporadas:
                                                                              numero_jogo)
                 if temporada >= 2013:
                     # Pegar os dados Jogada Jogada
-                    tabela_geral_acao = localizar_acao(driver, temporada, numero_jogo, tabela_geral_acao, nome_casa, nome_fora)
+                    tabela_geral_acao = localizar_acao(driver, temporada, numero_jogo, tabela_geral_acao, nome_casa,
+                                                       nome_fora)
                 else:
                     print('não')
                     pass

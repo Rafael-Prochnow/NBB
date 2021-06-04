@@ -45,19 +45,15 @@ def arquivos_tabela_lista():
 
 def verificacao_nomes(nome_time):
     if nome_time == 'L. Sorocabana':
-        nome_time = 'Liga Sorocabana'
-        return nome_time
+        return 'Liga Sorocabana'
     elif nome_time == 'Mogi':
-        nome_time = 'Mogi das Cruzes'
-        return nome_time
+        return 'Mogi das Cruzes'
     elif nome_time == 'Fortaleza B. C.':
-        nome_time = 'Fortaleza Basquete'
-        return nome_time
+        return 'Fortaleza Basquete'
     elif nome_time == 'BRB Brasília':
-        nome_time = 'Brasília'
-        return nome_time
+        return 'Brasília'
     else:
-        pass
+        return nome_time
 
 
 def tipo_2_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
@@ -80,9 +76,9 @@ def tipo_2_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
     # acontece erro por conta de nomes com siglas ai eu preciso substituir
     nome_casa = nome_casa.replace('/', ' ')
-    # nome_casa = verificacao_nomes(nome_casa)
+    nome_casa = verificacao_nomes(nome_casa)
     nome_fora = nome_fora.replace('/', ' ')
-    # nome_fora = verificacao_nomes(nome_fora)
+    nome_fora = verificacao_nomes(nome_fora)
     ###############################################################################################
     time_casa = pd.read_html(str(table))[0]
     linhas = len(time_casa)
@@ -262,9 +258,9 @@ def tipo_1_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     nome_fora = informacoes_2[0].find("span", class_="show-for-large").get_text()
     # acontece erro por conta de nomes com siglas ai eu preciso substituir
     nome_casa = nome_casa.replace('/', ' ')
-    ######################### nome_casa = verificacao_nomes(nome_casa)
+    nome_casa = verificacao_nomes(nome_casa)
     nome_fora = nome_fora.replace('/', ' ')
-    ########################## nome_fora = verificacao_nomes(nome_fora)
+    nome_fora = verificacao_nomes(nome_fora)
     ###########################################################################################
     # Estruturar conteúdos em uma Data Frame
     time_casa = pd.read_html(str(table))[0]

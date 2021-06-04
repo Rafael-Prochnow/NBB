@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import pandas as pd
-import requests
 import io
 import re
 from selenium.common.exceptions import NoSuchElementException
@@ -22,11 +21,16 @@ def arquivos_acao_lista():
     return lista_funcionando_acao, lista_falha_acao, list_sites_falha_acao, list_sites_funciona_acao
 
 
-def get_links_from(teste):
-    links = []
-    for a in teste.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
-        links.append((a.get('href')))
-    return links
+def conferir_siglas_acao(descobir, dados):
+    for i in descobir:
+        if i == '':
+            pass
+        elif i == 'BSB':
+            dados['Time'] = dados['Time'].replace(i, 'BRA')
+        elif i == 'FOR':
+            dados['Time'] = dados['Time'].replace(i, 'CEA')
+        elif i == 'PAU':
+            dados['Time'] = dados['Time'].replace(i, 'CAP')
 
 
 def tabela_tipo_1(element):
@@ -280,11 +284,11 @@ def localizar_acao(driver, temporada, numero_jogo, tabela_geral_acao, nome_casa_
         dados = tabela_tipo_2(element)
     else:
         dados = tabela_tipo_1(element)
-
+    descobir = list(dados['Time'].drop_duplicates())
+    conferir_siglas_acao(descobir, dados)
     dados.to_csv(
         "Dados01/temporada " + f"{temporada}""/" + "tabela_" + f"{numero_jogo}" + "_" + nome_casa_of + "_x_" + nome_fora_of + ".csv")
     nome_inf_coluna = nome_casa_of + "_x_" + nome_fora_of
-    print(nome_inf_coluna)
     tabela_geral = pd.concat([dados, tabela_geral_acao], axis=0)
 
     return tabela_geral
