@@ -100,20 +100,16 @@ for x in lista_de_temporadas:
                 Data = informacoes['DATA'][ii]
                 Fase = informacoes['FASE'][ii]
                 Campeonato = informacoes['CAMPEONATO'][ii]
+                # Pegar os dados Tabelas
+                nome_casa, nome_fora, tabela_geral_tabela = localizar_tabela(driver, i, temporada, Data, Fase,
+                                                                             Campeonato, tabela_geral_tabela,
+                                                                             numero_jogo)
                 if temporada >= 2013:
-                    print('sim')
-                    # Pegar os dados Tabelas
-                    nome_casa, nome_fora, tabela_geral_tabela = localizar_tabela(driver, i, temporada, Data, Fase,
-                                                                                 Campeonato, tabela_geral_tabela,
-                                                                                 numero_jogo)
                     # Pegar os dados Jogada Jogada
-                    tabela_geral_acao = localizar_acao(driver, i, temporada, numero_jogo, tabela_geral_acao)
+                    tabela_geral_acao = localizar_acao(driver, temporada, numero_jogo, tabela_geral_acao, nome_casa, nome_fora)
                 else:
                     print('não')
-                    # Pegar os dados Tabelas
-                    nome_casa, nome_fora, tabela_geral_tabela = localizar_tabela(driver, i, temporada, Data, Fase,
-                                                                                 Campeonato, tabela_geral_tabela,
-                                                                                 numero_jogo)
+                    pass
                 driver.quit()
                 numero_jogo += 1
             elif erro_na_pagina02 == 'Fatal error':

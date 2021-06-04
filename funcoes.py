@@ -22,23 +22,6 @@ def arquivos_acao_lista():
     return lista_funcionando_acao, lista_falha_acao, list_sites_falha_acao, list_sites_funciona_acao
 
 
-def verificacao_nomes(nome_time):
-    if nome_time == 'L. Sorocabana':
-        nome_time = 'Liga Sorocabana'
-        return nome_time
-
-    elif nome_time == 'Mogi':
-        nome_time = 'Mogi das Cruzes'
-        return nome_time
-
-    elif nome_time == 'Fortaleza B. C.':
-        nome_time = 'Fortaleza Basquete'
-        return nome_time
-    elif nome_time == 'BRB Brasília':
-        nome_time = 'Brasília'
-        return nome_time
-
-
 def get_links_from(teste):
     links = []
     for a in teste.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
@@ -46,7 +29,7 @@ def get_links_from(teste):
     return links
 
 
-def tabela_tipo_1(i, element):
+def tabela_tipo_1(element):
     # Tabela tipo um apresenta uma estrutura de dados em que os times apresentam abas um do lado do outro
     # atribuir os dados do site em html
     html_content = element.get_attribute('outerHTML')
@@ -144,26 +127,10 @@ def tabela_tipo_1(i, element):
     dados.drop('Placar', axis=1, inplace=True)
     dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
     ####################################################################################################
-    # descobrir nome do time
-    r1 = requests.get(f'{i}')
-    soup01 = BeautifulSoup(r1.content, 'html.parser')
-
-    informacoes_1 = soup01.find_all("div", class_="float-left text-right score_header_left")
-    informacoes_2 = soup01.find_all("div", class_="float-right text-left score_header_right")
-
-    nome_casa_of = informacoes_1[0].find("span", class_="show-for-large").get_text()
-    nome_fora_of = informacoes_2[0].find("span", class_="show-for-large").get_text()
-
-    # acontece erro por conta de nomes com siglas ai eu preciso substituir
-    nome_casa_of = nome_casa_of.replace('/', ' ')
-    nome_casa_of = verificacao_nomes(nome_casa_of)
-    nome_fora_of = nome_fora_of.replace('/', ' ')
-    nome_fora_of = verificacao_nomes(nome_fora_of)
-
-    return dados, nome_casa_of, nome_fora_of
+    return dados
 
 
-def tabela_tipo_2(i, element):
+def tabela_tipo_2(element):
     # Tabela tipo dois apresenta uma estrutura de dados em que os times estão em sequência (Tabela 1 em cima da 2)
     html_content = element.get_attribute('outerHTML')
     # passear o conteúdo em HTML
@@ -284,21 +251,7 @@ def tabela_tipo_2(i, element):
     dados.drop('Placar', axis=1, inplace=True)
     dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'Indicador', 'Nome']]
     ####################################################################################################
-    # descobrir nome do time
-    r1 = requests.get(f'{i}')
-    soup01 = BeautifulSoup(r1.content, 'html.parser')
-    informacoes_1 = soup01.find_all("div", class_="float-left text-right")
-    informacoes_2 = soup01.find_all("div", class_="float-right text-left")
-    nome_casa_of = informacoes_1[0].find("span", class_="show-for-large").get_text()
-    nome_fora_of = informacoes_2[0].find("span", class_="show-for-large").get_text()
-
-    # acontece erro por conta de nomes com siglas ai eu preciso substituir
-    nome_casa_of = nome_casa_of.replace('/', ' ')
-    nome_casa_of = verificacao_nomes(nome_casa_of)
-    nome_fora_of = nome_fora_of.replace('/', ' ')
-    nome_fora_of = verificacao_nomes(nome_fora_of)
-
-    return dados, nome_casa_of, nome_fora_of
+    return dados
 
 
 def salvar_dados_acao(tabela_geral, lista_cada_temporada, temporada, lista_funcionando, l1, l2, lista_falha):
@@ -317,16 +270,16 @@ def salvar_dados_acao(tabela_geral, lista_cada_temporada, temporada, lista_funci
     return l1, l2, lista_cada_temporada
 
 
-def localizar_acao(driver, i, temporada, numero_jogo, tabela_geral_acao):
+def localizar_acao(driver, temporada, numero_jogo, tabela_geral_acao, nome_casa_of, nome_fora_of):
     driver.find_element_by_xpath(
         "//div[@class='row tabs_content']//ul//li//a[@id='movethemove-label']").click()
     try:
         element = driver.find_element_by_xpath("//div[@class='move_action_scroll']")
     except NoSuchElementException:
         element = driver.find_element_by_xpath("//div[@class='move_action_scroll column']")
-        dados, nome_casa_of, nome_fora_of = tabela_tipo_2(i, element)
+        dados = tabela_tipo_2(element)
     else:
-        dados, nome_casa_of, nome_fora_of = tabela_tipo_1(i, element)
+        dados = tabela_tipo_1(element)
 
     dados.to_csv(
         "Dados01/temporada " + f"{temporada}""/" + "tabela_" + f"{numero_jogo}" + "_" + nome_casa_of + "_x_" + nome_fora_of + ".csv")
