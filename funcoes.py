@@ -22,6 +22,23 @@ def arquivos_acao_lista():
     return lista_funcionando_acao, lista_falha_acao, list_sites_falha_acao, list_sites_funciona_acao
 
 
+def verificacao_nomes(nome_time):
+    if nome_time == 'L. Sorocabana':
+        nome_time = 'Liga Sorocabana'
+        return nome_time
+
+    elif nome_time == 'Mogi':
+        nome_time = 'Mogi das Cruzes'
+        return nome_time
+
+    elif nome_time == 'Fortaleza B. C.':
+        nome_time = 'Fortaleza Basquete'
+        return nome_time
+    elif nome_time == 'BRB Brasília':
+        nome_time = 'Brasília'
+        return nome_time
+
+
 def get_links_from(teste):
     links = []
     for a in teste.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
@@ -139,7 +156,9 @@ def tabela_tipo_1(i, element):
 
     # acontece erro por conta de nomes com siglas ai eu preciso substituir
     nome_casa_of = nome_casa_of.replace('/', ' ')
+    nome_casa_of = verificacao_nomes(nome_casa_of)
     nome_fora_of = nome_fora_of.replace('/', ' ')
+    nome_fora_of = verificacao_nomes(nome_fora_of)
 
     return dados, nome_casa_of, nome_fora_of
 
@@ -275,7 +294,9 @@ def tabela_tipo_2(i, element):
 
     # acontece erro por conta de nomes com siglas ai eu preciso substituir
     nome_casa_of = nome_casa_of.replace('/', ' ')
+    nome_casa_of = verificacao_nomes(nome_casa_of)
     nome_fora_of = nome_fora_of.replace('/', ' ')
+    nome_fora_of = verificacao_nomes(nome_fora_of)
 
     return dados, nome_casa_of, nome_fora_of
 

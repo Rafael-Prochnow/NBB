@@ -13,15 +13,18 @@ lista_funcionando, lista_falha, list_sites_falha, list_sites_funciona = arquivos
 tabela_geral_tabela, lista_cada_temporada_tabela, l1, l2 = arquivos_tabela_df()
 
 # essa é a ordem das temporadas
-temporada = 2020
-lista_de_temporadas = [59, 54, 47, 41, 34, 27, 20, 15, 8, 4, 3, 2, 1]
+temporada = 2013
+# lista_de_temporadas = [59, 54, 47, 41, 34, 27, 20, 15, 8, 4, 3, 2, 1]
+lista_de_temporadas = [15, 8]
 
+inicio = time.time()
 for x in lista_de_temporadas:
     print(f'Temporada {temporada}')
+    inicio_temporada = time.time()
     r = requests.get(f'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D={x}')
     soup = BeautifulSoup(r.content, 'html.parser')
     list_inoutControl = get_links_from(soup)
-    del (list_inoutControl[:265])
+    del (list_inoutControl[:314])
     print(list_inoutControl)
     numero_jogo = 1
     # informações para a tabela tabela
@@ -90,8 +93,7 @@ for x in lista_de_temporadas:
                 soup01 = BeautifulSoup(r1.content, 'html.parser')
                 option = Options()
                 option.headless = True
-                driver = webdriver.Firefox()
-                # options=option
+                driver = webdriver.Firefox(options=option)
                 driver.get(f'{i}')
                 time.sleep(5)
                 # Pegar os dados Tabela Tabela
@@ -105,7 +107,7 @@ for x in lista_de_temporadas:
                                                                                  Campeonato, tabela_geral_tabela,
                                                                                  numero_jogo)
                     # Pegar os dados Jogada Jogada
-                    tabela_geral = localizar_acao(driver, i, temporada, numero_jogo, tabela_geral_acao)
+                    tabela_geral_acao = localizar_acao(driver, i, temporada, numero_jogo, tabela_geral_acao)
                 else:
                     print('não')
                     # Pegar os dados Tabelas
@@ -124,17 +126,20 @@ for x in lista_de_temporadas:
         l1, l2, lista_cada_temporada_tabela = salvar_dados_tabela(tabela_geral_tabela, lista_cada_temporada_tabela,
                                                                   temporada, lista_funcionando, l1, l2, lista_falha)
         # Salvar os dados  Jogada Jogada
-        l1_acao, l2_acao, lista_cada_temporada = salvar_dados_acao(tabela_geral_acao, lista_cada_temporada_acao,
-                                                                   temporada, lista_funcionando_acao, l1_acao, l2_acao,
-                                                                   lista_falha_acao)
+        l1_acao, l2_acao, lista_cada_temporada_acao = salvar_dados_acao(tabela_geral_acao, lista_cada_temporada_acao,
+                                                                        temporada, lista_funcionando_acao, l1_acao,
+                                                                        l2_acao, lista_falha_acao)
     else:
         # Salvar os dados Tabelas
         l1, l2, lista_cada_temporada_tabela = salvar_dados_tabela(tabela_geral_tabela, lista_cada_temporada_tabela,
                                                                   temporada, lista_funcionando, l1, l2, lista_falha)
     tabela_geral = pd.DataFrame([])
+    tabela_geral_tabela = pd.DataFrame([])
     list_sites_funciona = []
     list_sites_falha = []
     temporada -= 1
+    fim_temporada = time.time()
+    print("Tempo de execução (s) da temporada: ", fim_temporada - inicio_temporada)
 
 # Salvar os dados  Jogada Jogada
 lista_cada_temporada_acao.to_csv('Dados01/Total_de_acao_acao.csv')
@@ -144,3 +149,5 @@ l2_acao.to_csv('Dados01/falha.csv')
 lista_cada_temporada_tabela.to_csv('Dados/Total_de_tabelas.csv')
 l1.to_csv('Dados/funcionando.csv')
 l2.to_csv('Dados/falha.csv')
+fim = time.time()
+print("Tempo de execução (s): ", fim - inicio)
