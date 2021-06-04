@@ -545,6 +545,6 @@ for x in lista_de_temporadas:
     list_sites_falha = []
     temporada -= 1
 
-lista_cada_temporada.to_csv('Dados/Total_de_acao_acao.csv')
+lista_cada_temporada.to_csv('Dados/Total_de_tabelas.csv')
 l1.to_csv('Dados/funcionando.csv')
 l2.to_csv('Dados/falha.csv')

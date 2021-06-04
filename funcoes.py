@@ -312,6 +312,5 @@ def localizar_acao(driver, i, temporada, numero_jogo, tabela_geral_acao):
     nome_inf_coluna = nome_casa_of + "_x_" + nome_fora_of
     print(nome_inf_coluna)
     tabela_geral = pd.concat([dados, tabela_geral_acao], axis=0)
-    driver.quit()
-    numero_jogo += 1
+
     return tabela_geral

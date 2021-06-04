@@ -68,7 +68,8 @@ for x in lista_de_temporadas:
 
                 # Pegar os dados Jogada Jogada
                 tabela_geral = localizar_acao(driver, i, temporada, numero_jogo, tabela_geral_acao)
-
+                driver.quit()
+                numero_jogo += 1
             elif erro_na_pagina02 == 'Fatal error':
                 print(f'Essa página {i} não está funcionando')
                 lista_falha_acao.append(i)

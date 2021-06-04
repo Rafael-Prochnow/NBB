@@ -1,7 +1,7 @@
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
-
+from selenium.common.exceptions import NoSuchElementException
 
 def get_links_from(soup):
     links = []
@@ -446,3 +446,38 @@ def organizacao_tabelas(df_full, temporada, numero_jogo, nome_casa, nome_fora, t
     print(nome_inf_coluna)
     tabela_geral = pd.concat([df_full, tabela_geral], axis=0)
     return tabela_geral
+
+
+def salvar_dados_tabela(tabela_geral_tabela, lista_cada_temporada_tabela, temporada, lista_funcionando, l1, l2, lista_falha):
+    # retorna uma tabela geral de cada temporada
+    lista_cada_temporada_tabela = pd.concat([tabela_geral_tabela, lista_cada_temporada_tabela], axis=0)
+    tabela_geral_tabela.to_csv('Dados/temporada ' + f'{temporada}' + '/Total_de_Tabela_' + f'{temporada}' + '.csv')
+    # retorna os sites que funcionam de cada temoporada
+    list_sites_funciona = pd.DataFrame(lista_funcionando)
+    list_sites_funciona.to_csv('Dados/temporada ' + f'{temporada}' + '/funcionando_' + f'{temporada}' + '.csv')
+    l1 = pd.concat([list_sites_funciona, l1], axis=0)
+    # retorna os sites que NÃO funcionam de cada temoporada
+    list_sites_falha = pd.DataFrame(lista_falha)
+    list_sites_falha.to_csv('Dados/temporada ' + f'{temporada}' + '/falha_' + f'{temporada}' + '.csv')
+    l2 = pd.concat([list_sites_falha, l2], axis=0)
+    return l1, l2, lista_cada_temporada_tabela
+
+
+def localizar_tabela(driver, i, temporada, Data, Fase, Campeonato, tabela_geral, numero_jogo):
+    driver.find_element_by_xpath(
+        "//div[@class='row tabs_content']//ul//li//a[@id='stats-label']").click()
+    try:
+        element = driver.find_element_by_xpath(
+            "//div[@class='stats_real_time_table_home table-wrapper float-left']//table")
+    except NoSuchElementException:
+        element = driver.find_element_by_xpath(
+            "//table[@class='team_general_table tablesorter tablesorter-default']")
+        df_full, nome_casa, nome_fora = tipo_2_tabela(element, driver, i, temporada, Data, Fase, Campeonato)
+    else:
+        df_full, nome_casa, nome_fora = tipo_1_tabela(element, driver, i, temporada, Data, Fase, Campeonato)
+    ###################################################################################################
+    # sai do for
+    tabela_geral = organizacao_tabelas(df_full, temporada, numero_jogo, nome_casa, nome_fora, tabela_geral)
+
+    return nome_casa, nome_fora, tabela_geral
+

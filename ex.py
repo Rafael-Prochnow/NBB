@@ -1,7 +1,6 @@
 import time
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from selenium.common.exceptions import NoSuchElementException
 from funcoes_tabela import *
 
 
@@ -28,8 +27,8 @@ def negativo(numero):
     return numero
 
 
-tabela_geral = pd.DataFrame([])
-lista_cada_temporada = pd.DataFrame([])
+tabela_geral_tabela = pd.DataFrame([])
+lista_cada_temporada_tabela = pd.DataFrame([])
 lista_funcionando = []
 lista_falha = []
 list_sites_falha = []
@@ -45,7 +44,7 @@ for x in lista_de_temporadas:
     r = requests.get(f'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D={x}')
     soup = BeautifulSoup(r.content, 'html.parser')
     list_inoutControl = get_links_from(soup)
-    del(list_inoutControl[:15])
+    del(list_inoutControl[:347])
     print(list_inoutControl)
     numero_jogo = 1
     table_inf = soup.find(name='table')
@@ -90,7 +89,8 @@ for x in lista_de_temporadas:
                     (i == 'https://lnb.com.br/noticias/reagiu/') | \
                     (i == 'https://lnb.com.br/noticias/dramatico/') | \
                     (i == 'https://lnb.com.br/noticias/the-man/') | \
-                    (i == 'https://lnb.com.br/noticias/lider-isolado-e-100/'):
+                    (i == 'https://lnb.com.br/noticias/lider-isolado-e-100/') | \
+                    (i == 'https://lnb.com.br/noticias/noite-de-gala/'):
                 print(f'SEM DADOS KKKKKKKKKKKKKK {i}')
                 lista_falha.append(i)
                 numero_jogo += 1
@@ -104,24 +104,15 @@ for x in lista_de_temporadas:
                 option.headless = True
                 driver = webdriver.Firefox(options=option)
                 driver.get(f'{i}')
-                time.sleep(10)
+                time.sleep(5)
                 Data = informacoes['DATA'][ii]
                 Fase = informacoes['FASE'][ii]
                 Campeonato = informacoes['CAMPEONATO'][ii]
-                driver.find_element_by_xpath(
-                    "//div[@class='row tabs_content']//ul//li//a[@id='stats-label']").click()
-                try:
-                    element = driver.find_element_by_xpath(
-                        "//div[@class='stats_real_time_table_home table-wrapper float-left']//table")
-                except NoSuchElementException:
-                    element = driver.find_element_by_xpath(
-                        "//table[@class='team_general_table tablesorter tablesorter-default']")
-                    df_full, nome_casa, nome_fora = tipo_2_tabela(element, driver, i, temporada, Data, Fase, Campeonato)
+                nome_casa, nome_fora, tabela_geral_tabela = localizar_tabela(driver, i, temporada, Data, Fase, Campeonato, tabela_geral_tabela, numero_jogo)
+                if temporada > 2013:
+                    print('sim')
                 else:
-                    df_full, nome_casa, nome_fora = tipo_1_tabela(element, driver, i, temporada, Data, Fase, Campeonato)
-                ###################################################################################################
-                # sai do for
-
+                    print('não')
                 driver.quit()
                 numero_jogo += 1
             elif erro_na_pagina02 == 'Fatal error':
@@ -129,23 +120,13 @@ for x in lista_de_temporadas:
                 lista_falha.append(i)
                 numero_jogo += 1
             ii += 1
-    # retorna uma tabela geral de cada temporada
-    lista_cada_temporada = pd.concat([tabela_geral, lista_cada_temporada], axis=0)
-    tabela_geral.to_csv('Dados/temporada ' + f'{temporada}' + '/Total_de_Tabela_' + f'{temporada}' + '.csv')
-    # retorna os sites que funcionam de cada temoporada
-    list_sites_funciona = pd.DataFrame(lista_funcionando)
-    list_sites_funciona.to_csv('Dados/temporada ' + f'{temporada}' + '/funcionando_' + f'{temporada}' + '.csv')
-    l1 = pd.concat([list_sites_funciona, l1], axis=0)
-    # retorna os sites que NÃO funcionam de cada temoporada
-    list_sites_falha = pd.DataFrame(lista_falha)
-    list_sites_falha.to_csv('Dados/temporada ' + f'{temporada}' + '/falha_' + f'{temporada}' + '.csv')
-    l2 = pd.concat([list_sites_falha, l2], axis=0)
+    l1, l2, lista_cada_temporada_tabela = salvar_dados_tabela(tabela_geral_tabela, lista_cada_temporada_tabela, temporada, lista_funcionando, l1, l2, lista_falha)
     # zera informações das temporadas
-    tabela_geral = pd.DataFrame([])
+    tabela_geral_tabela = pd.DataFrame([])
     list_sites_funciona = []
     list_sites_falha = []
     temporada -= 1
 
-lista_cada_temporada.to_csv('Dados/Total_de_acao_acao.csv')
+lista_cada_temporada_tabela.to_csv('Dados/Total_de_tabelas.csv')
 l1.to_csv('Dados/funcionando.csv')
 l2.to_csv('Dados/falha.csv')
