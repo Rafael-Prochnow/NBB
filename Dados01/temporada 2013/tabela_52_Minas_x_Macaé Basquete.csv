@@ -1,0 +1,500 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,67,65, ,fim_partida,
+1,4,00:02,67,65,MIN,BR,Elinho
+2,4,00:02,67,65,MAC,ER,Duda Machado
+3,4,00:06,67,65,MAC,RD,Espinoza
+4,4,00:06,67,65,MIN,LL_Pts_T,Elinho
+5,4,00:06,67,65,MIN,LL_Pts_C,Elinho
+6,4,00:06,66,65,MAC,substituicao_entra,Jamaal
+7,4,00:06,66,65,MAC,substituicao_entra,Duda Machado
+8,4,00:06,66,65,MAC,substituicao_entra,Fred
+9,4,00:06,66,65,MAC,substituicao_sai,Thiaguinho
+10,4,00:06,66,65,MAC,substituicao_sai,Pablo
+11,4,00:06,66,65,MAC,substituicao_sai,Will
+12,4,00:06,66,65,MIN,FR,Elinho
+13,4,00:06,66,65,MAC,FC,Thiaguinho
+14,4,00:07,66,65,MAC,substituicao_entra,Thiaguinho
+15,4,00:07,66,65,MAC,substituicao_entra,Pablo
+16,4,00:07,66,65,MAC,substituicao_entra,Espinoza
+17,4,00:07,66,65,MAC,substituicao_entra,Márcio
+18,4,00:07,66,65,MAC,substituicao_entra,Will
+19,4,00:07,66,65,MAC,substituicao_sai,Espinoza
+20,4,00:07,66,65,MAC,substituicao_sai,Jamaal
+21,4,00:07,66,65,MAC,substituicao_sai,Duda Machado
+22,4,00:07,66,65,MAC,substituicao_sai,Fred
+23,4,00:07,66,65,MAC,substituicao_sai,Will
+24,4,00:07,66,65,MAC,substituicao_entra,Will
+25,4,00:07,66,65,MAC,substituicao_sai,Márcio
+26,4,00:07,66,65,MAC,substituicao_sai,Torres
+27,4,00:07,66,65,MAC,substituicao_entra,Fred
+28,4,00:08,66,65,MIN,tempo_tecnico,Minas
+29,4,00:08,66,65,MIN,RD,Minas
+30,4,00:08,66,65,MAC,LL_Pts_T,Espinoza
+31,4,00:08,66,65,MAC,LL_Pts_C,Espinoza
+32,4,00:08,66,64,MAC,FR,Espinoza
+33,4,00:08,66,64,MIN,FC,Betinho
+34,4,00:09,66,64,MAC,substituicao_entra,Torres
+35,4,00:09,66,64,MAC,substituicao_sai,Fred
+36,4,00:09,66,64,MAC,tempo_tecnico,Macaé
+37,4,00:09,66,64,MIN,2_Pts_C,Douglas Nunes
+38,4,00:09,64,64,MIN,AS,Betinho
+39,4,00:16,64,64,MIN,RD,Elinho
+40,4,00:16,64,64,MAC,3_Pts_T,Duda Machado
+41,4,00:39,64,64,MAC,RD,Espinoza
+42,4,00:39,64,64,MIN,2_Pts_T,Wanderson
+43,4,01:00,64,64,MIN,tempo_tecnico,Minas
+44,4,01:00,64,64,MAC,LL_Pts_C,Jamaal
+45,4,01:00,64,63,MAC,LL_Pts_C,Jamaal
+46,4,01:00,64,62,MAC,FR,Jamaal
+47,4,01:00,64,62,MIN,FC,Coelho
+48,4,01:01,64,62,MAC,RO,Jamaal
+49,4,01:01,64,62,MAC,3_Pts_T,Márcio
+50,4,01:20,64,62,MIN,ER,
+51,4,01:44,64,62,MIN,RD,Elinho
+52,4,01:44,64,62,MAC,LL_Pts_T,Duda Machado
+53,4,01:44,64,62,MAC,LL_Pts_C,Duda Machado
+54,4,01:44,64,61,MAC,FR,Duda Machado
+55,4,01:44,64,61,MIN,FC,Betinho
+56,4,01:54,64,61,MIN,LL_Pts_C,Betinho
+57,4,01:54,63,61,MIN,LL_Pts_C,Betinho
+58,4,01:54,62,61,MAC,substituicao_entra,Espinoza
+59,4,01:54,62,61,MAC,substituicao_sai,Romario
+60,4,01:54,62,61,MIN,FR,Betinho
+61,4,01:54,62,61,MAC,FC,Romario
+62,4,02:09,62,61,MIN,FR,Betinho
+63,4,02:09,62,61,MAC,FC_O,Romario
+64,4,02:24,62,61,MAC,LL_Pts_T,Duda Machado
+65,4,02:24,62,61,MAC,LL_Pts_C,Duda Machado
+66,4,02:24,62,60,MAC,substituicao_entra,Jamaal
+67,4,02:24,62,60,MAC,substituicao_sai,Espinoza
+68,4,02:24,62,60,MIN,FC_T,Douglas Nunes
+69,4,02:24,62,60,MAC,BR,Macaé
+70,4,02:24,62,60,MIN,ER,Betinho
+71,4,02:43,62,60,MAC,ER,Romario
+72,4,02:51,62,60,MIN,substituicao_entra,Elinho
+73,4,02:51,62,60,MIN,substituicao_sai,Siqueira
+74,4,02:51,62,60,MAC,FR,Márcio
+75,4,02:51,62,60,MIN,FC,Wanderson
+76,4,03:06,62,60,MIN,2_Pts_C,Wanderson
+77,4,03:27,60,60,MIN,RD,Betinho
+78,4,03:27,60,60,MIN,TO,Douglas Nunes
+79,4,03:27,60,60,MAC,2_Pts_T,Fred
+80,4,03:38,60,60,MIN,substituicao_entra,Betinho
+81,4,03:38,60,60,MIN,substituicao_sai,Ansaloni
+82,4,03:38,60,60,MAC,FR,Espinoza
+83,4,03:38,60,60,MIN,FC,Ansaloni
+84,4,03:50,60,60,MAC,RD,Márcio
+85,4,03:50,60,60,MIN,3_Pts_T,Coelho
+86,4,04:14,60,60,MIN,RD,Douglas Nunes
+87,4,04:14,60,60,MAC,3_Pts_T,Espinoza
+88,4,04:25,60,60,MAC,RD,Espinoza
+89,4,04:25,60,60,MIN,3_Pts_T,Siqueira
+90,4,04:48,60,60,MAC,3_Pts_C,Márcio
+91,4,04:48,60,57,MAC,AS,Fred
+92,4,04:57,60,57,MAC,RD,Romario
+93,4,04:57,60,57,MAC,TO,Duda Machado
+94,4,04:57,60,57,MIN,2_Pts_T,Wanderson
+95,4,05:24,60,57,MAC,RO,Duda Machado
+96,4,05:24,60,57,MAC,2_Pts_T,Fred
+97,4,05:37,60,57,MAC,substituicao_entra,Romario
+98,4,05:37,60,57,MAC,substituicao_entra,Duda Machado
+99,4,05:37,60,57,MAC,substituicao_sai,Torres
+100,4,05:37,60,57,MAC,substituicao_sai,Jamaal
+101,4,05:37,60,57,MIN,LL_Pts_C,Douglas Nunes
+102,4,05:37,59,57,MIN,LL_Pts_C,Douglas Nunes
+103,4,05:37,58,57,MIN,FR,Douglas Nunes
+104,4,05:37,58,57,MAC,FC,Fred
+105,4,05:42,58,57,MIN,RO,Douglas Nunes
+106,4,05:42,58,57,MIN,2_Pts_T,Ansaloni
+107,4,06:07,58,57,MIN,RD,Douglas Nunes
+108,4,06:07,58,57,MAC,2_Pts_T,Torres
+109,4,06:16,58,57,MAC,RD,Espinoza
+110,4,06:16,58,57,MIN,2_Pts_T,Siqueira
+111,4,06:26,58,57,MIN,RD,Coelho
+112,4,06:26,58,57,MAC,2_Pts_T,Márcio
+113,4,06:49,58,57,MIN,2_Pts_C,Siqueira
+114,4,06:52,56,57,MIN,BR,Siqueira
+115,4,06:52,56,57,MAC,ER,Fred
+116,4,06:53,56,57,MAC,BR,Macaé
+117,4,06:53,56,57,MIN,ER,Ansaloni
+118,4,07:26,56,57,MIN,FR,Siqueira
+119,4,07:26,56,57,MAC,FC_O,Jamaal
+120,4,07:30,56,57,MAC,RD,Torres
+121,4,07:30,56,57,MIN,2_Pts_T,Wanderson
+122,4,07:49,56,57,MIN,RD,Ansaloni
+123,4,07:49,56,57,MAC,2_Pts_T,Torres
+124,4,08:05,56,57,MAC,substituicao_entra,Márcio
+125,4,08:05,56,57,MAC,substituicao_entra,Jamaal
+126,4,08:05,56,57,MAC,substituicao_sai,Duda Machado
+127,4,08:05,56,57,MAC,substituicao_sai,Will
+128,4,08:08,56,57,MAC,tempo_tecnico,Macaé
+129,4,08:08,56,57,MIN,2_Pts_C,Ansaloni
+130,4,08:08,54,57,MIN,AS,Siqueira
+131,4,08:25,54,57,MIN,RD,Ansaloni
+132,4,08:25,54,57,MAC,3_Pts_T,Espinoza
+133,4,08:51,54,57,MIN,2_Pts_C,Wanderson
+134,4,08:51,52,57,MIN,AS,Douglas Nunes
+135,4,09:13,52,57,MIN,FR,Siqueira
+136,4,09:13,52,57,MAC,FC_O,Duda Machado
+137,4,09:26,52,57,MIN,2_Pts_C,Douglas Nunes
+138,4,09:46,50,57,MAC,LL_Pts_C,Fred
+139,4,09:46,50,56,MAC,LL_Pts_C,Fred
+140,4,09:46,50,55,MIN,substituicao_entra,Coelho
+141,4,09:46,50,55,MIN,substituicao_sai,Elinho
+142,4,09:46,50,55,MAC,FR,Fred
+143,4,09:46,50,55,MIN,FC,Elinho
+144,3,00:00,50,55, ,fim_quarto,
+145,3,00:04,50,55,MIN,2_Pts_C,Siqueira
+146,3,00:19,48,55,MAC,2_Pts_C,Torres
+147,3,00:19,48,53,MAC,AS,Will
+148,3,00:35,48,53,MIN,substituicao_entra,Siqueira
+149,3,00:35,48,53,MIN,substituicao_sai,Betinho
+150,3,00:35,48,53,MAC,substituicao_entra,Fred
+151,3,00:35,48,53,MAC,substituicao_sai,Jamaal
+152,3,00:47,48,53,MIN,2_Pts_C,Betinho
+153,3,00:58,46,53,MAC,2_Pts_C,Will
+154,3,01:12,46,51,MAC,FR,Jamaal
+155,3,01:12,46,51,MIN,FC_O,Ansaloni
+156,3,01:22,46,51,MAC,2_Pts_C,Jamaal
+157,3,01:43,46,49,MIN,LL_Pts_C,Ansaloni
+158,3,01:43,45,49,MIN,AS,Elinho
+159,3,01:43,45,49,MIN,LL_Pts_C,Ansaloni
+160,3,01:43,44,49,MIN,substituicao_entra,Douglas Nunes
+161,3,01:43,44,49,MIN,substituicao_sai,Coelho
+162,3,01:43,44,49,MAC,substituicao_entra,Will
+163,3,01:43,44,49,MAC,substituicao_sai,Márcio
+164,3,01:43,44,49,MIN,FR,Ansaloni
+165,3,01:43,44,49,MAC,FC,Espinoza
+166,3,02:08,44,49,MAC,2_Pts_C,Márcio
+167,3,02:08,44,47,MAC,AS,Jamaal
+168,3,02:18,44,47,MAC,RD,Espinoza
+169,3,02:18,44,47,MIN,2_Pts_T,Elinho
+170,3,02:41,44,47,MAC,2_Pts_C,Espinoza
+171,3,02:41,44,45,MAC,AS,Jamaal
+172,3,02:52,44,45,MAC,BR,Torres
+173,3,02:52,44,45,MIN,ER,Betinho
+174,3,03:04,44,45,MIN,FR,Wanderson
+175,3,03:04,44,45,MAC,FC,Duda Machado
+176,3,03:04,44,45,MIN,RD,Wanderson
+177,3,03:04,44,45,MAC,3_Pts_T,Espinoza
+178,3,03:19,44,45,MIN,LL_Pts_C,Betinho
+179,3,03:19,43,45,MIN,LL_Pts_C,Betinho
+180,3,03:19,42,45,MIN,FR,Betinho
+181,3,03:19,42,45,MAC,FC,Márcio
+182,3,03:24,42,45,MIN,RD,Betinho
+183,3,03:24,42,45,MAC,3_Pts_T,Márcio
+184,3,03:48,42,45,MIN,LL_Pts_C,Betinho
+185,3,03:48,41,45,MIN,LL_Pts_C,Betinho
+186,3,03:48,40,45,MIN,substituicao_entra,Wanderson
+187,3,03:48,40,45,MIN,substituicao_sai,Douglas Nunes
+188,3,03:48,40,45,MIN,FR,Betinho
+189,3,03:48,40,45,MAC,FC,Duda Machado
+190,3,04:09,40,45,MAC,2_Pts_C,Márcio
+191,3,04:30,40,43,MIN,2_Pts_C,Betinho
+192,3,04:40,38,43,MAC,3_Pts_C,Espinoza
+193,3,04:40,38,40,MAC,AS,Duda Machado
+194,3,05:00,38,40,MIN,substituicao_entra,Coelho
+195,3,05:00,38,40,MIN,substituicao_sai,Siqueira
+196,3,05:00,38,40,MAC,FR,Jamaal
+197,3,05:00,38,40,MIN,FC_O,Douglas Nunes
+198,3,05:09,38,40,MIN,BR,Elinho
+199,3,05:09,38,40,MAC,ER,Jamaal
+200,3,05:15,38,40,MAC,RD,Torres
+201,3,05:15,38,40,MIN,3_Pts_T,Betinho
+202,3,05:28,38,40,MIN,RD,Douglas Nunes
+203,3,05:28,38,40,MAC,2_Pts_T,Márcio
+204,3,05:49,38,40,MIN,2_Pts_C,Ansaloni
+205,3,05:49,36,40,MIN,AS,Betinho
+206,3,06:01,36,40,MAC,LL_Pts_C,Torres
+207,3,06:01,36,39,MAC,AS,Espinoza
+208,3,06:01,36,39,MAC,LL_Pts_C,Torres
+209,3,06:01,36,38,MIN,substituicao_entra,Ansaloni
+210,3,06:01,36,38,MIN,substituicao_sai,Demétrio
+211,3,06:01,36,38,MIN,tempo_tecnico,Minas
+212,3,06:01,36,38,MAC,FR,Torres
+213,3,06:01,36,38,MIN,FC,Demétrio
+214,3,06:19,36,38,MAC,RD,Duda Machado
+215,3,06:19,36,38,MIN,3_Pts_T,Betinho
+216,3,06:46,36,38,MAC,LL_Pts_C,Márcio
+217,3,06:46,36,37,MAC,LL_Pts_C,Márcio
+218,3,06:46,36,36,MIN,substituicao_entra,Elinho
+219,3,06:46,36,36,MIN,substituicao_sai,Coelho
+220,3,06:46,36,36,MAC,FR,Márcio
+221,3,06:46,36,36,MIN,FC,Betinho
+222,3,06:55,36,36,MAC,RD,Duda Machado
+223,3,06:55,36,36,MIN,2_Pts_T,Betinho
+224,3,07:18,36,36,MAC,3_Pts_C,Espinoza
+225,3,07:18,36,33,MAC,AS,Duda Machado
+226,3,07:23,36,33,MAC,FR,Jamaal
+227,3,07:23,36,33,MIN,FC,Demétrio
+228,3,07:32,36,33,MIN,2_Pts_C,Coelho
+229,3,07:40,34,33,MIN,BR,Coelho
+230,3,07:40,34,33,MAC,ER,Duda Machado
+231,3,07:55,34,33,MAC,RD,Duda Machado
+232,3,07:55,34,33,MIN,3_Pts_T,Siqueira
+233,3,08:08,34,33,MAC,substituicao_entra,Duda Machado
+234,3,08:08,34,33,MAC,substituicao_sai,Fred
+235,3,08:08,34,33,MIN,FR,Siqueira
+236,3,08:08,34,33,MAC,FC_O,Fred
+237,3,08:18,34,33,MIN,2_Pts_C,Demétrio
+238,3,08:18,32,33,MIN,AS,Betinho
+239,3,08:37,32,33,MIN,RD,Douglas Nunes
+240,3,08:37,32,33,MAC,LL_Pts_T,Márcio
+241,3,08:37,32,33,MAC,LL_Pts_C,Márcio
+242,3,08:37,32,32,MAC,AS,Jamaal
+243,3,08:37,32,32,MAC,LL_Pts_C,Márcio
+244,3,08:37,32,31,MIN,substituicao_entra,Demétrio
+245,3,08:37,32,31,MIN,substituicao_sai,Wanderson
+246,3,08:37,32,31,MAC,FR,Márcio
+247,3,08:37,32,31,MIN,FC,Wanderson
+248,3,08:49,32,31,MIN,substituicao_entra,Douglas Nunes
+249,3,08:49,32,31,MIN,substituicao_sai,Elinho
+250,3,08:49,32,31,MAC,FR,Torres
+251,3,08:49,32,31,MIN,FC,Wanderson
+252,3,09:00,32,31,MAC,RD,Márcio
+253,3,09:00,32,31,MIN,3_Pts_T,Wanderson
+254,3,09:00,32,31,MIN,substituicao_entra,Elinho
+255,3,09:00,32,31,MIN,substituicao_sai,Douglas Nunes
+256,3,09:21,32,31,MAC,LL_Pts_C,Torres
+257,3,09:21,32,30,MAC,LL_Pts_C,Torres
+258,3,09:21,32,29,MAC,FR,Torres
+259,3,09:21,32,29,MIN,FC,Douglas Nunes
+260,3,09:36,32,29,MIN,3_Pts_C,Coelho
+261,3,09:36,29,29,MIN,AS,Wanderson
+262,2,00:00,29,29, ,fim_quarto,
+263,2,00:05,29,29,MIN,RD,Douglas Nunes
+264,2,00:05,29,29,MAC,3_Pts_T,Duda Machado
+265,2,00:20,29,29,MIN,2_Pts_C,Wanderson
+266,2,00:20,27,29,MIN,AS,Betinho
+267,2,00:43,27,29,MAC,substituicao_entra,Romario
+268,2,00:43,27,29,MAC,substituicao_sai,Torres
+269,2,00:43,27,29,MIN,FR,Wanderson
+270,2,00:43,27,29,MAC,FC_O,Torres
+271,2,01:01,27,29,MIN,LL_Pts_C,Elinho
+272,2,01:01,26,29,MIN,LL_Pts_C,Elinho
+273,2,01:01,25,29,MAC,substituicao_entra,Márcio
+274,2,01:01,25,29,MAC,substituicao_sai,Will
+275,2,01:01,25,29,MIN,FR,Elinho
+276,2,01:01,25,29,MAC,FC,Will
+277,2,01:18,25,29,MAC,3_Pts_C,Duda Machado
+278,2,01:24,25,26,MAC,RD,Torres
+279,2,01:24,25,26,MIN,2_Pts_T,Elinho
+280,2,01:43,25,26,MIN,RD,Douglas Nunes
+281,2,01:43,25,26,MAC,LL_Pts_T,Torres
+282,2,01:43,25,26,MAC,LL_Pts_T,Torres
+283,2,01:43,25,26,MAC,substituicao_entra,Thiaguinho
+284,2,01:43,25,26,MAC,substituicao_sai,Jamaal
+285,2,01:43,25,26,MIN,substituicao_entra,Coelho
+286,2,01:43,25,26,MIN,substituicao_sai,Rafa Moreira
+287,2,01:43,25,26,MAC,FC_T,Jamaal
+288,2,01:43,25,26,MIN,FC_T,Rafa Moreira
+289,2,01:43,25,26,MAC,FR,Torres
+290,2,01:43,25,26,MIN,FC,Wanderson
+291,2,01:51,25,26,MAC,RD,Duda Machado
+292,2,01:51,25,26,MIN,3_Pts_T,Betinho
+293,2,02:15,25,26,MAC,ER,Espinoza
+294,2,02:30,25,26,MIN,2_Pts_C,Douglas Nunes
+295,2,02:55,23,26,MIN,RD,Wanderson
+296,2,02:55,23,26,MAC,3_Pts_T,Espinoza
+297,2,03:07,23,26,MIN,LL_Pts_C,Wanderson
+298,2,03:07,22,26,MIN,AS,Betinho
+299,2,03:07,22,26,MIN,2_Pts_C,Wanderson
+300,2,03:07,20,26,MIN,FR,Wanderson
+301,2,03:07,20,26,MAC,FC,Jamaal
+302,2,03:21,20,26,MAC,LL_Pts_C,Torres
+303,2,03:21,20,25,MAC,AS,Will
+304,2,03:21,20,25,MAC,2_Pts_C,Torres
+305,2,03:21,20,23,MAC,FR,Torres
+306,2,03:21,20,23,MIN,FC,Douglas Nunes
+307,2,03:42,20,23,MAC,RD,Espinoza
+308,2,03:42,20,23,MIN,2_Pts_T,Douglas Nunes
+309,2,03:56,20,23,MIN,substituicao_entra,Douglas Nunes
+310,2,03:56,20,23,MIN,substituicao_entra,Elinho
+311,2,03:56,20,23,MIN,substituicao_sai,Barbosa
+312,2,03:56,20,23,MIN,substituicao_sai,Coelho
+313,2,03:56,20,23,MIN,tempo_tecnico,Minas
+314,2,03:56,20,23,MIN,FR,Coelho
+315,2,03:56,20,23,MAC,FC_O,Jamaal
+316,2,04:02,20,23,MAC,RD,Torres
+317,2,04:02,20,23,MIN,2_Pts_T,Coelho
+318,2,04:25,20,23,MAC,3_Pts_C,Espinoza
+319,2,04:25,20,20,MAC,AS,Torres
+320,2,04:42,20,20,MIN,2_Pts_C,Wanderson
+321,2,04:42,18,20,MIN,AS,Coelho
+322,2,04:59,18,20,MIN,RD,Wanderson
+323,2,04:59,18,20,MAC,2_Pts_T,Torres
+324,2,05:14,18,20,MAC,RD,Espinoza
+325,2,05:14,18,20,MIN,3_Pts_T,Rafa Moreira
+326,2,05:32,18,20,MAC,LL_Pts_C,Espinoza
+327,2,05:32,18,19,MAC,AS,Duda Machado
+328,2,05:32,18,19,MAC,LL_Pts_C,Espinoza
+329,2,05:32,18,18,MIN,substituicao_entra,Betinho
+330,2,05:32,18,18,MIN,substituicao_sai,Ansaloni
+331,2,05:32,18,18,MIN,substituicao_sai,Siqueira
+332,2,05:32,18,18,MIN,substituicao_entra,Barbosa
+333,2,05:32,18,18,MAC,FR,Espinoza
+334,2,05:32,18,18,MIN,FC,Ansaloni
+335,2,05:49,18,18,MAC,substituicao_entra,Torres
+336,2,05:49,18,18,MAC,substituicao_sai,Atilio
+337,2,05:49,18,18,MAC,FR,Jamaal
+338,2,05:49,18,18,MIN,FC_O,Coelho
+339,2,06:00,18,18,MAC,ER,Jamaal
+340,2,06:15,18,18,MAC,BR,Macaé
+341,2,06:15,18,18,MIN,ER,Ansaloni
+342,2,06:31,18,18,MIN,FR,Siqueira
+343,2,06:31,18,18,MAC,FC_O,Duda Machado
+344,2,06:40,18,18,MIN,substituicao_entra,Ansaloni
+345,2,06:40,18,18,MIN,substituicao_sai,Douglas Nunes
+346,2,06:49,18,18,MAC,RD,Duda Machado
+347,2,06:49,18,18,MIN,3_Pts_T,Rafa Moreira
+348,2,07:11,18,18,MIN,BR,Wanderson
+349,2,07:11,18,18,MAC,ER,Duda Machado
+350,2,07:22,18,18,MIN,LL_Pts_C,Wanderson
+351,2,07:22,17,18,MAC,substituicao_entra,Espinoza
+352,2,07:22,17,18,MAC,substituicao_sai,Márcio
+353,2,07:22,17,18,MIN,substituicao_entra,Rafa Moreira
+354,2,07:22,17,18,MIN,substituicao_sai,Betinho
+355,2,07:22,17,18,MIN,2_Pts_C,Wanderson
+356,2,07:22,15,18,MIN,FR,Wanderson
+357,2,07:22,15,18,MAC,FC,Will
+358,2,07:45,15,18,MAC,2_Pts_C,Will
+359,2,07:45,15,16,MAC,AS,Atilio
+360,2,08:03,15,16,MAC,FR,Jamaal
+361,2,08:03,15,16,MIN,FC,Coelho
+362,2,08:10,15,16,MAC,RD,Jamaal
+363,2,08:10,15,16,MIN,2_Pts_T,Siqueira
+364,2,08:28,15,16,MIN,tempo_tecnico,Minas
+365,2,08:28,15,16,MAC,2_Pts_C,Jamaal
+366,2,08:44,15,14,MAC,RD,Márcio
+367,2,08:44,15,14,MIN,2_Pts_T,Betinho
+368,2,08:50,15,14,MIN,BR,Betinho
+369,2,08:50,15,14,MAC,ER,Duda Machado
+370,2,08:58,15,14,MAC,RD,Duda Machado
+371,2,08:58,15,14,MIN,LL_Pts_T,Betinho
+372,2,08:58,15,14,MIN,LL_Pts_C,Betinho
+373,2,08:58,14,14,MAC,substituicao_entra,Will
+374,2,08:58,14,14,MAC,substituicao_sai,Fred
+375,2,08:58,14,14,MIN,FR,Betinho
+376,2,08:58,14,14,MAC,FC,Fred
+377,2,09:22,14,14,MAC,AS,Duda Machado
+378,2,09:22,14,14,MAC,LL_Pts_C,Atilio
+379,2,09:22,14,13,MAC,LL_Pts_T,Atilio
+380,2,09:22,14,13,MIN,substituicao_entra,Coelho
+381,2,09:22,14,13,MIN,substituicao_sai,Elinho
+382,2,09:22,14,13,MAC,FR,Atilio
+383,2,09:22,14,13,MIN,FC,Elinho
+384,2,09:31,14,13,MAC,FR,Jamaal
+385,2,09:31,14,13,MIN,FC_O,Elinho
+386,2,09:51,14,13,MAC,2_Pts_C,Duda Machado
+387,1,00:00,14,11, ,fim_quarto,
+388,1,00:00,14,11,MIN,3_Pts_T,Betinho
+389,1,00:01,14,11,MIN,RD,Betinho
+390,1,00:01,14,11,MAC,3_Pts_T,Duda Machado
+391,1,00:10,14,11,MIN,substituicao_entra,Douglas Nunes
+392,1,00:10,14,11,MIN,substituicao_sai,Ansaloni
+393,1,00:10,14,11,MAC,FR,Jamaal
+394,1,00:10,14,11,MIN,FC,Elinho
+395,1,00:38,14,11,MIN,EN,Ansaloni
+396,1,00:46,12,11,MIN,RO,Ansaloni
+397,1,00:46,12,11,MIN,2_Pts_T,Elinho
+398,1,00:57,12,11,MAC,3_Pts_C,Jamaal
+399,1,00:57,12,8,MAC,AS,Atilio
+400,1,01:17,12,8,MIN,ER,
+401,1,01:31,12,8,MIN,FR,Betinho
+402,1,01:31,12,8,MAC,FC,Fred
+403,1,01:51,12,8,MAC,2_Pts_C,Jamaal
+404,1,02:01,12,6,MIN,substituicao_entra,Betinho
+405,1,02:01,12,6,MIN,substituicao_entra,Elinho
+406,1,02:01,12,6,MIN,substituicao_sai,Douglas Nunes
+407,1,02:01,12,6,MIN,substituicao_sai,Coelho
+408,1,02:01,12,6,MAC,RD,Macaé
+409,1,02:01,12,6,MIN,3_Pts_T,Coelho
+410,1,02:29,12,6,MAC,2_Pts_C,Jamaal
+411,1,02:34,12,4,MAC,BR,Márcio
+412,1,02:34,12,4,MIN,ER,Coelho
+413,1,02:51,12,4,MIN,RD,Douglas Nunes
+414,1,02:51,12,4,MIN,TO,Ansaloni
+415,1,02:51,12,4,MAC,2_Pts_T,Atilio
+416,1,02:56,12,4,MAC,RO,Atilio
+417,1,02:56,12,4,MAC,2_Pts_T,Fred
+418,1,03:15,12,4,MAC,substituicao_entra,Duda Machado
+419,1,03:15,12,4,MAC,substituicao_sai,Espinoza
+420,1,03:15,12,4,MIN,AS,Coelho
+421,1,03:15,12,4,MAC,tempo_tecnico,Macaé
+422,1,03:15,12,4,MIN,EN,Siqueira
+423,1,03:21,10,4,MIN,RD,Wanderson
+424,1,03:21,10,4,MAC,3_Pts_T,Espinoza
+425,1,03:32,10,4,MIN,2_Pts_C,Douglas Nunes
+426,1,03:37,8,4,MIN,RO,Douglas Nunes
+427,1,03:37,8,4,MIN,2_Pts_T,Douglas Nunes
+428,1,03:47,8,4,MIN,substituicao_entra,Wanderson
+429,1,03:47,8,4,MIN,substituicao_entra,Coelho
+430,1,03:47,8,4,MIN,substituicao_sai,Betinho
+431,1,03:47,8,4,MIN,substituicao_sai,Elinho
+432,1,03:47,8,4,MAC,substituicao_entra,Atilio
+433,1,03:47,8,4,MAC,substituicao_sai,Torres
+434,1,04:00,8,4,MIN,RD,Elinho
+435,1,04:00,8,4,MAC,2_Pts_T,Torres
+436,1,04:12,8,4,MAC,RD,Torres
+437,1,04:12,8,4,MIN,2_Pts_T,Siqueira
+438,1,04:21,8,4,MIN,RD,Douglas Nunes
+439,1,04:21,8,4,MAC,2_Pts_T,Torres
+440,1,04:33,8,4,MAC,BR,Márcio
+441,1,04:33,8,4,MIN,ER,Ansaloni
+442,1,04:52,8,4,MIN,RO,Douglas Nunes
+443,1,04:52,8,4,MIN,2_Pts_T,Betinho
+444,1,05:09,8,4,MIN,substituicao_entra,Ansaloni
+445,1,05:09,8,4,MIN,substituicao_sai,Barbosa
+446,1,05:09,8,4,MIN,FR,Barbosa
+447,1,05:09,8,4,MAC,FC_O,Torres
+448,1,05:23,8,4,MIN,,
+449,1,05:42,8,4,MAC,2_Pts_C,Torres
+450,1,05:51,8,2,MAC,BR,Márcio
+451,1,05:51,8,2,MIN,ER,Elinho
+452,1,06:11,8,2,MIN,RD,Elinho
+453,1,06:11,8,2,MAC,2_Pts_T,Fred
+454,1,06:22,8,2,MIN,LL_Pts_C,Siqueira
+455,1,06:22,7,2,MIN,LL_Pts_C,Siqueira
+456,1,06:22,6,2,MIN,substituicao_entra,Barbosa
+457,1,06:22,6,2,MIN,substituicao_sai,Ansaloni
+458,1,06:22,6,2,MIN,FR,Siqueira
+459,1,06:22,6,2,MAC,FC,Espinoza
+460,1,06:41,6,2,MIN,FR,Douglas Nunes
+461,1,06:41,6,2,MAC,FC,Márcio
+462,1,06:42,6,2,MIN,RD,Douglas Nunes
+463,1,06:42,6,2,MAC,2_Pts_T,Márcio
+464,1,06:50,6,2,MIN,substituicao_entra,Siqueira
+465,1,06:50,6,2,MIN,substituicao_sai,Wanderson
+466,1,06:50,6,2,MAC,FR,Fred
+467,1,06:50,6,2,MIN,FC,Ansaloni
+468,1,06:58,6,2,MIN,EN,Betinho
+469,1,07:07,4,2,MIN,RD,Douglas Nunes
+470,1,07:07,4,2,MAC,2_Pts_T,Espinoza
+471,1,07:13,4,2,MAC,BR,Espinoza
+472,1,07:13,4,2,MIN,ER,Elinho
+473,1,07:33,4,2,MAC,2_Pts_C,Torres
+474,1,07:49,4,0,MIN,2_Pts_C,Ansaloni
+475,1,07:49,2,0,MIN,AS,Douglas Nunes
+476,1,08:07,2,0,MIN,RD,Betinho
+477,1,08:07,2,0,MAC,3_Pts_T,Márcio
+478,1,08:28,2,0,MAC,RD,Macaé
+479,1,08:28,2,0,MIN,3_Pts_T,Douglas Nunes
+480,1,08:50,2,0,MIN,RD,Ansaloni
+481,1,08:50,2,0,MAC,2_Pts_T,Márcio
+482,1,09:03,2,0,MAC,BR,Macaé
+483,1,09:03,2,0,MIN,ER,Wanderson
+484,1,09:14,2,0,MIN,RD,Betinho
+485,1,09:14,2,0,MAC,3_Pts_T,Espinoza
+486,1,09:29,2,0,MAC,FR,Jamaal
+487,1,09:29,2,0,MIN,FC,Betinho
+488,1,09:40,2,0,MIN,2_Pts_C,Betinho
+489,1,10:00,0,0,MAC,substituicao_entra,Espinoza
+490,1,10:00,0,0,MAC,substituicao_entra,Torres
+491,1,10:00,0,0,MAC,substituicao_entra,Márcio
+492,1,10:00,0,0,MAC,substituicao_entra,Jamaal
+493,1,10:00,0,0,MAC,substituicao_entra,Fred
+494,1,10:00,0,0,MIN,substituicao_entra,Betinho
+495,1,10:00,0,0,MIN,substituicao_entra,Douglas Nunes
+496,1,10:00,0,0,MIN,substituicao_entra,Wanderson
+497,1,10:00,0,0,MIN,substituicao_entra,Ansaloni
+498,1,10:00,0,0,MIN,substituicao_entra,Elinho

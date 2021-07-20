@@ -1,0 +1,474 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,65,82, ,fim_partida,
+1,4,00:26,65,82,BAU,RD,Murilo
+2,4,00:26,65,82,RCB,LL_Pts_T,Brown
+3,4,00:26,65,82,RCB,LL_Pts_C,Brown
+4,4,00:26,64,82,RCB,FR,Brown
+5,4,00:26,64,82,BAU,FC,Mathias
+6,4,00:42,64,82,RCB,BR,Rio Claro
+7,4,00:42,64,82,BAU,ER,R Fischer
+8,4,01:01,64,82,BAU,RD,Bauru
+9,4,01:01,64,82,RCB,3_Pts_T,Duda Machado
+10,4,01:03,64,82,RCB,BR,Rio Claro
+11,4,01:03,64,82,BAU,ER,R Fischer
+12,4,01:18,64,82,RCB,2_Pts_C,Pastor
+13,4,01:18,62,82,RCB,AS,Duda Machado
+14,4,01:33,62,82,BAU,substituicao_sai,Larry
+15,4,01:33,62,82,BAU,substituicao_entra,Henrique
+16,4,01:37,62,82,RCB,RD,Rio Claro
+17,4,01:37,62,82,BAU,3_Pts_T,Gui Deodato
+18,4,01:59,62,82,BAU,RD,Larry
+19,4,01:59,62,82,RCB,LL_Pts_T,Pastor
+20,4,01:59,62,82,RCB,LL_Pts_C,Pastor
+21,4,01:59,61,82,BAU,substituicao_sai,Alex Garcia
+22,4,01:59,61,82,BAU,substituicao_entra,R Fischer
+23,4,01:59,61,82,RCB,FR,Pastor
+24,4,01:59,61,82,BAU,FC,Mathias
+25,4,02:08,61,82,RCB,RO,Pastor
+26,4,02:08,61,82,RCB,3_Pts_T,Duda Machado
+27,4,02:16,61,82,RCB,FR,Duda Machado
+28,4,02:16,61,82,BAU,FC,Murilo
+29,4,02:23,61,82,BAU,substituicao_sai,Jefferson W
+30,4,02:23,61,82,BAU,substituicao_entra,Mathias
+31,4,02:23,61,82,BAU,LL_Pts_C,Murilo
+32,4,02:23,61,81,BAU,LL_Pts_C,Murilo
+33,4,02:23,61,80,BAU,FR,Murilo
+34,4,02:23,61,80,RCB,FC,Brown
+35,4,02:34,61,80,BAU,RD,Alex Garcia
+36,4,02:34,61,80,RCB,2_Pts_T,Tatu
+37,4,02:39,61,80,RCB,BR,Rio Claro
+38,4,02:39,61,80,BAU,ER,Gui Deodato
+39,4,02:47,61,80,BAU,substituicao_sai,R Fischer
+40,4,02:47,61,80,BAU,substituicao_entra,Gui Deodato
+41,4,02:47,61,80,BAU,substituicao_sai,Hettsheimeir
+42,4,02:47,61,80,BAU,substituicao_entra,Murilo
+43,4,02:47,61,80,RCB,substituicao_sai,Caio
+44,4,02:47,61,80,RCB,substituicao_entra,Brown
+45,4,02:47,61,80,RCB,substituicao_sai,Mosso
+46,4,02:47,61,80,RCB,substituicao_entra,Vinicius
+47,4,02:53,61,80,RCB,3_Pts_C,Duda Machado
+48,4,02:53,58,80,RCB,AS,Pastor
+49,4,03:01,58,80,RCB,RD,Tatu
+50,4,03:01,58,80,BAU,2_Pts_T,Alex Garcia
+51,4,03:17,58,80,BAU,RD,Hettsheimeir
+52,4,03:17,58,80,RCB,3_Pts_T,Mosso
+53,4,03:32,58,80,BAU,2_Pts_C,Larry
+54,4,03:32,58,78,BAU,AS,Alex Garcia
+55,4,03:36,58,78,BAU,BR,R Fischer
+56,4,03:36,58,78,RCB,ER,Mosso
+57,4,03:42,58,78,RCB,RD,Mosso
+58,4,03:42,58,78,BAU,3_Pts_T,R Fischer
+59,4,04:06,58,78,BAU,RD,Jefferson W
+60,4,04:06,58,78,RCB,2_Pts_T,Duda Machado
+61,4,04:30,58,78,BAU,2_Pts_C,R Fischer
+62,4,04:40,58,76,BAU,BR,Hettsheimeir
+63,4,04:40,58,76,RCB,ER,Tatu
+64,4,05:01,58,76,BAU,ER,Hettsheimeir
+65,4,05:19,58,76,BAU,RD,Hettsheimeir
+66,4,05:19,58,76,RCB,3_Pts_T,Caio
+67,4,05:37,58,76,RCB,substituicao_sai,Tischer
+68,4,05:37,58,76,RCB,substituicao_entra,Mosso
+69,4,05:44,58,76,RCB,tempo_tecnico,Rio Claro
+70,4,05:44,58,76,BAU,3_Pts_C,R Fischer
+71,4,05:44,58,73,BAU,AS,Larry
+72,4,05:52,58,73,BAU,RD,Larry
+73,4,05:52,58,73,RCB,3_Pts_T,Tatu
+74,4,06:03,58,73,BAU,2_Pts_C,R Fischer
+75,4,06:14,58,71,BAU,RD,R Fischer
+76,4,06:14,58,71,RCB,2_Pts_T,Tischer
+77,4,06:29,58,71,BAU,LL_Pts_C,Hettsheimeir
+78,4,06:29,58,70,BAU,LL_Pts_T,Hettsheimeir
+79,4,06:29,58,70,BAU,FR,Hettsheimeir
+80,4,06:29,58,70,RCB,FC,Tatu
+81,4,06:39,58,70,BAU,FR,Larry
+82,4,06:39,58,70,RCB,FC,Duda Machado
+83,4,06:48,58,70,RCB,substituicao_sai,Mosso
+84,4,06:48,58,70,RCB,substituicao_entra,Pastor
+85,4,06:48,58,70,BAU,FR,R Fischer
+86,4,06:48,58,70,RCB,FC,Tatu
+87,4,07:03,58,70,BAU,RD,Alex Garcia
+88,4,07:03,58,70,RCB,2_Pts_T,Tischer
+89,4,07:17,58,70,RCB,RD,Mosso
+90,4,07:17,58,70,BAU,2_Pts_T,Jefferson W
+91,4,07:22,58,70,BAU,BR,Jefferson W
+92,4,07:22,58,70,RCB,ER,Caio
+93,4,07:35,58,70,BAU,substituicao_sai,Gui Deodato
+94,4,07:35,58,70,BAU,substituicao_entra,Larry
+95,4,07:35,58,70,BAU,ER,Alex Garcia
+96,4,08:01,58,70,BAU,RD,Jefferson W
+97,4,08:01,58,70,RCB,2_Pts_T,Tischer
+98,4,08:15,58,70,BAU,2_Pts_C,Jefferson W
+99,4,08:15,58,68,BAU,AS,Gui Deodato
+100,4,08:26,58,68,RCB,AS,Tatu
+101,4,08:26,58,68,RCB,LL_Pts_C,Mosso
+102,4,08:26,57,68,RCB,LL_Pts_C,Mosso
+103,4,08:26,56,68,RCB,FR,Mosso
+104,4,08:26,56,68,BAU,FC,Hettsheimeir
+105,4,08:37,56,68,RCB,BR,Tischer
+106,4,08:37,56,68,BAU,ER,Alex Garcia
+107,4,08:46,56,68,BAU,BR,Jefferson W
+108,4,08:46,56,68,RCB,ER,Tischer
+109,4,09:03,56,68,RCB,RD,Mosso
+110,4,09:03,56,68,BAU,3_Pts_T,Hettsheimeir
+111,4,09:06,56,68,RCB,substituicao_sai,Pastor
+112,4,09:06,56,68,RCB,substituicao_entra,Duda Machado
+113,4,09:06,56,68,RCB,substituicao_entra,Tischer
+114,4,09:06,56,68,RCB,substituicao_sai,Brown
+115,4,09:06,56,68,RCB,tempo_tecnico,Rio Claro
+116,4,09:06,56,68,RCB,ER,Pastor
+117,4,09:31,56,68,BAU,LL_Pts_C,Alex Garcia
+118,4,09:31,56,67,BAU,LL_Pts_C,Alex Garcia
+119,4,09:31,56,66,BAU,FR,Alex Garcia
+120,4,09:31,56,66,RCB,FC,Pastor
+121,4,09:43,56,66,BAU,RD,Gui Deodato
+122,4,09:43,56,66,RCB,3_Pts_T,Caio
+123,4,09:56,56,66,BAU,LL_Pts_C,Alex Garcia
+124,4,09:56,56,65,BAU,2_Pts_C,Alex Garcia
+125,4,09:56,56,63,BAU,FR,Alex Garcia
+126,4,09:56,56,63,RCB,FC,Caio
+127,3,00:00,56,63, ,fim_quarto,
+128,3,00:06,56,63,BAU,2_Pts_C,R Fischer
+129,3,00:19,56,61,RCB,3_Pts_C,Mosso
+130,3,00:19,53,61,RCB,AS,Caio
+131,3,00:40,53,61,BAU,3_Pts_C,Gui Deodato
+132,3,00:54,53,58,RCB,LL_Pts_C,Pastor
+133,3,00:54,52,58,RCB,LL_Pts_C,Pastor
+134,3,00:54,51,58,RCB,FR,Pastor
+135,3,00:54,51,58,BAU,FC,Murilo
+136,3,01:22,51,58,BAU,2_Pts_C,R Fischer
+137,3,01:28,51,56,BAU,BR,Murilo
+138,3,01:28,51,56,RCB,ER,Brown
+139,3,01:50,51,56,BAU,2_Pts_C,Gui Deodato
+140,3,01:55,51,54,BAU,substituicao_sai,Larry
+141,3,01:55,51,54,BAU,substituicao_entra,Gui Deodato
+142,3,01:55,51,54,RCB,LL_Pts_C,Brown
+143,3,01:55,50,54,RCB,LL_Pts_C,Brown
+144,3,01:55,49,54,RCB,substituicao_sai,Tischer
+145,3,01:55,49,54,RCB,substituicao_entra,Mosso
+146,3,01:55,49,54,RCB,FR,Brown
+147,3,01:55,49,54,BAU,FC,R Fischer
+148,3,02:06,49,54,BAU,RD,R Fischer
+149,3,02:06,49,54,RCB,3_Pts_T,Pastor
+150,3,02:20,49,54,BAU,2_Pts_C,Murilo
+151,3,02:20,49,52,BAU,AS,Larry
+152,3,02:33,49,52,RCB,LL_Pts_C,Brown
+153,3,02:33,48,52,RCB,LL_Pts_C,Brown
+154,3,02:33,47,52,BAU,substituicao_sai,Gui Deodato
+155,3,02:33,47,52,BAU,substituicao_entra,Hettsheimeir
+156,3,02:33,47,52,RCB,FR,Brown
+157,3,02:33,47,52,BAU,FC,Larry
+158,3,02:50,47,52,RCB,RD,Tischer
+159,3,02:50,47,52,BAU,3_Pts_T,Alex Garcia
+160,3,03:08,47,52,RCB,3_Pts_C,Pastor
+161,3,03:08,44,52,RCB,AS,Brown
+162,3,03:19,44,52,BAU,2_Pts_C,Murilo
+163,3,03:19,44,50,BAU,AS,Larry
+164,3,03:29,44,50,RCB,LL_Pts_C,Tischer
+165,3,03:35,43,50,BAU,substituicao_sai,Jefferson W
+166,3,03:35,43,50,BAU,substituicao_entra,R Fischer
+167,3,03:38,43,50,RCB,2_Pts_C,Tischer
+168,3,03:38,41,50,RCB,FR,Tischer
+169,3,03:38,41,50,BAU,FC,Gui Deodato
+170,3,03:49,41,50,RCB,substituicao_sai,Mosso
+171,3,03:49,41,50,RCB,substituicao_entra,Pastor
+172,3,03:49,41,50,RCB,substituicao_sai,Duda Machado
+173,3,03:49,41,50,RCB,substituicao_entra,Tatu
+174,3,03:49,41,50,BAU,RO,Larry
+175,3,03:49,41,50,RCB,TO,Duda Machado
+176,3,03:49,41,50,BAU,2_Pts_T,Larry
+177,3,03:55,41,50,RCB,tempo_tecnico,Rio Claro
+178,3,03:55,41,50,BAU,2_Pts_C,Alex Garcia
+179,3,03:55,41,48,BAU,AS,Larry
+180,3,04:01,41,48,BAU,RD,Murilo
+181,3,04:01,41,48,RCB,2_Pts_T,Tischer
+182,3,04:12,41,48,RCB,RD,Mosso
+183,3,04:12,41,48,BAU,3_Pts_T,Alex Garcia
+184,3,04:26,41,48,BAU,RD,Jefferson W
+185,3,04:26,41,48,RCB,3_Pts_T,Mosso
+186,3,04:45,41,48,BAU,2_Pts_C,Gui Deodato
+187,3,04:55,41,46,BAU,RD,Larry
+188,3,04:55,41,46,RCB,3_Pts_T,Duda Machado
+189,3,05:18,41,46,BAU,2_Pts_C,Alex Garcia
+190,3,05:28,41,44,RCB,LL_Pts_C,Mosso
+191,3,05:28,40,44,RCB,LL_Pts_C,Mosso
+192,3,05:28,39,44,BAU,substituicao_sai,Hettsheimeir
+193,3,05:28,39,44,BAU,substituicao_entra,Murilo
+194,3,05:28,39,44,RCB,FR,Mosso
+195,3,05:28,39,44,BAU,FC,Jefferson W
+196,3,05:48,39,44,BAU,2_Pts_C,Larry
+197,3,06:09,39,42,RCB,2_Pts_C,Brown
+198,3,06:09,37,42,RCB,AS,Duda Machado
+199,3,06:21,37,42,RCB,RD,Mosso
+200,3,06:21,37,42,BAU,3_Pts_T,Gui Deodato
+201,3,06:30,37,42,BAU,RD,Larry
+202,3,06:30,37,42,RCB,3_Pts_T,Duda Machado
+203,3,06:36,37,42,RCB,RD,Tischer
+204,3,06:36,37,42,BAU,3_Pts_T,Jefferson W
+205,3,06:41,37,42,BAU,FR,Alex Garcia
+206,3,06:41,37,42,RCB,FC,Caio
+207,3,06:54,37,42,RCB,ER,
+208,3,07:05,37,42,BAU,ER,Larry
+209,3,07:11,37,42,BAU,BR,Larry
+210,3,07:11,37,42,RCB,ER,Mosso
+211,3,07:16,37,42,BAU,substituicao_sai,R Fischer
+212,3,07:16,37,42,BAU,substituicao_entra,Gui Deodato
+213,3,07:22,37,42,RCB,RD,Brown
+214,3,07:22,37,42,BAU,3_Pts_T,Hettsheimeir
+215,3,07:37,37,42,BAU,RD,Hettsheimeir
+216,3,07:37,37,42,RCB,LL_Pts_T,Caio
+217,3,07:37,37,42,RCB,AS,Brown
+218,3,07:37,37,42,RCB,LL_Pts_C,Caio
+219,3,07:37,36,42,RCB,FR,Caio
+220,3,07:37,36,42,BAU,FC,Alex Garcia
+221,3,07:44,36,42,RCB,BR,Brown
+222,3,07:44,36,42,BAU,ER,R Fischer
+223,3,07:59,36,42,RCB,2_Pts_C,Mosso
+224,3,07:59,34,42,RCB,AS,Brown
+225,3,08:12,34,42,BAU,LL_Pts_C,Hettsheimeir
+226,3,08:12,34,41,BAU,LL_Pts_C,Hettsheimeir
+227,3,08:12,34,40,BAU,FR,Hettsheimeir
+228,3,08:12,34,40,RCB,FC,Brown
+229,3,08:32,34,40,RCB,2_Pts_C,Tischer
+230,3,08:32,32,40,RCB,AS,Brown
+231,3,08:48,32,40,RCB,FR,Tischer
+232,3,08:48,32,40,BAU,FC,Hettsheimeir
+233,3,09:15,32,40,BAU,RD,Hettsheimeir
+234,3,09:15,32,40,RCB,3_Pts_T,Brown
+235,3,09:22,32,40,RCB,RD,Duda Machado
+236,3,09:22,32,40,BAU,2_Pts_T,Hettsheimeir
+237,3,09:46,32,40,BAU,RD,Jefferson W
+238,3,09:46,32,40,RCB,2_Pts_T,Tischer
+239,2,00:00,32,40, ,fim_quarto,
+240,2,00:04,32,40,BAU,RD,Alex Garcia
+241,2,00:04,32,40,BAU,TO,Alex Garcia
+242,2,00:04,32,40,RCB,2_Pts_T,Brown
+243,2,00:29,32,40,BAU,2_Pts_C,Gui Deodato
+244,2,00:29,32,38,BAU,AS,Alex Garcia
+245,2,00:33,32,38,BAU,FR,R Fischer
+246,2,00:33,32,38,RCB,FC,Tischer
+247,2,00:50,32,38,RCB,2_Pts_C,Tischer
+248,2,00:50,30,38,RCB,AS,Brown
+249,2,01:21,30,38,BAU,2_Pts_C,Hettsheimeir
+250,2,01:47,30,36,BAU,RD,Hettsheimeir
+251,2,01:47,30,36,RCB,3_Pts_T,Duda Machado
+252,2,01:57,30,36,RCB,BR,Tischer
+253,2,01:57,30,36,BAU,ER,Hettsheimeir
+254,2,02:09,30,36,BAU,RD,Gui Deodato
+255,2,02:09,30,36,RCB,2_Pts_T,Duda Machado
+256,2,02:14,30,36,RCB,BR,Duda Machado
+257,2,02:14,30,36,BAU,ER,Alex Garcia
+258,2,02:24,30,36,RCB,LL_Pts_C,Tatu
+259,2,02:24,29,36,RCB,LL_Pts_C,Tatu
+260,2,02:24,28,36,RCB,substituicao_sai,Caio
+261,2,02:24,28,36,RCB,substituicao_entra,Duda Machado
+262,2,02:24,28,36,RCB,substituicao_sai,Pastor
+263,2,02:24,28,36,RCB,substituicao_entra,Tischer
+264,2,02:24,28,36,RCB,FR,Tatu
+265,2,02:24,28,36,BAU,FC,Gui Deodato
+266,2,02:32,28,36,BAU,2_Pts_C,Gui Deodato
+267,2,02:49,28,34,BAU,substituicao_sai,Larry
+268,2,02:49,28,34,BAU,substituicao_entra,Gui Deodato
+269,2,02:49,28,34,BAU,substituicao_sai,Mathias
+270,2,02:49,28,34,BAU,substituicao_entra,Murilo
+271,2,02:49,28,34,RCB,ER,
+272,2,03:19,28,34,RCB,RD,Rio Claro
+273,2,03:19,28,34,BAU,3_Pts_T,R Fischer
+274,2,03:32,28,34,BAU,RD,Hettsheimeir
+275,2,03:32,28,34,RCB,2_Pts_T,Pastor
+276,2,03:50,28,34,RCB,RD,Caio
+277,2,03:50,28,34,BAU,3_Pts_T,Larry
+278,2,04:03,28,34,BAU,tempo_tecnico,Bauru
+279,2,04:03,28,34,RCB,EN,Brown
+280,2,04:08,26,34,RCB,BR,Brown
+281,2,04:08,26,34,BAU,ER,Alex Garcia
+282,2,04:22,26,34,BAU,RD,Mathias
+283,2,04:22,26,34,RCB,3_Pts_T,Caio
+284,2,04:27,26,34,BAU,substituicao_sai,Jefferson W
+285,2,04:27,26,34,BAU,substituicao_entra,Hettsheimeir
+286,2,04:27,26,34,BAU,substituicao_sai,Gui Deodato
+287,2,04:27,26,34,BAU,substituicao_entra,Alex Garcia
+288,2,04:27,26,34,RCB,FR,Caio
+289,2,04:27,26,34,BAU,FC,Gui Deodato
+290,2,04:52,26,34,RCB,RD,Tatu
+291,2,04:52,26,34,BAU,2_Pts_T,Mathias
+292,2,05:20,26,34,BAU,RD,Bauru
+293,2,05:20,26,34,RCB,3_Pts_T,Pastor
+294,2,05:33,26,34,RCB,BR,Caio
+295,2,05:33,26,34,BAU,ER,Jefferson W
+296,2,05:42,26,34,RCB,2_Pts_C,Brown
+297,2,05:50,24,34,RCB,RO,Brown
+298,2,05:50,24,34,RCB,2_Pts_T,Brown
+299,2,05:56,24,34,RCB,BR,Tatu
+300,2,05:56,24,34,BAU,ER,Mathias
+301,2,06:06,24,34,BAU,RO,Jefferson W
+302,2,06:06,24,34,BAU,2_Pts_T,Larry
+303,2,06:14,24,34,BAU,RD,Mathias
+304,2,06:14,24,34,RCB,3_Pts_T,Caio
+305,2,06:19,24,34,RCB,substituicao_entra,Brown
+306,2,06:19,24,34,RCB,substituicao_entra,Mosso
+307,2,06:19,24,34,RCB,substituicao_sai,Tischer
+308,2,06:19,24,34,RCB,substituicao_sai,Duda Machado
+309,2,06:19,24,34,RCB,FR,Tischer
+310,2,06:19,24,34,BAU,FC,Mathias
+311,2,06:42,24,34,BAU,3_Pts_C,Jefferson W
+312,2,06:42,24,31,BAU,AS,Larry
+313,2,06:52,24,31,BAU,RD,Mathias
+314,2,06:52,24,31,RCB,2_Pts_T,Pastor
+315,2,06:55,24,31,RCB,BR,Tatu
+316,2,06:55,24,31,BAU,ER,R Fischer
+317,2,07:10,24,31,RCB,LL_Pts_T,Tischer
+318,2,07:10,24,31,BAU,substituicao_entra,Mathias
+319,2,07:10,24,31,BAU,substituicao_entra,R Fischer
+320,2,07:10,24,31,BAU,substituicao_sai,Murilo
+321,2,07:10,24,31,BAU,substituicao_sai,Alex Garcia
+322,2,07:10,24,31,RCB,EN,Tischer
+323,2,07:10,22,31,RCB,FR,Tischer
+324,2,07:10,22,31,BAU,FC,Jefferson W
+325,2,07:24,22,31,BAU,2_Pts_C,Murilo
+326,2,07:31,22,29,BAU,RO,Murilo
+327,2,07:31,22,29,BAU,2_Pts_T,Jefferson W
+328,2,07:50,22,29,RCB,3_Pts_C,Duda Machado
+329,2,07:50,19,29,RCB,AS,Caio
+330,2,07:59,19,29,RCB,RD,Caio
+331,2,07:59,19,29,RCB,TO,Caio
+332,2,07:59,19,29,BAU,2_Pts_T,Murilo
+333,2,08:11,19,29,BAU,RO,Gui Deodato
+334,2,08:11,19,29,BAU,2_Pts_T,Larry
+335,2,08:32,19,29,RCB,2_Pts_C,Tischer
+336,2,08:32,17,29,RCB,AS,Pastor
+337,2,08:53,17,29,RCB,RD,Pastor
+338,2,08:53,17,29,BAU,LL_Pts_T,Gui Deodato
+339,2,08:53,17,29,BAU,2_Pts_C,Gui Deodato
+340,2,08:53,17,27,BAU,FR,Gui Deodato
+341,2,08:53,17,27,RCB,FC,Caio
+342,2,08:56,17,27,BAU,BR,Gui Deodato
+343,2,08:56,17,27,RCB,ER,Duda Machado
+344,2,09:10,17,27,RCB,FR,Caio
+345,2,09:10,17,27,BAU,FC_O,Alex Garcia
+346,2,09:34,17,27,RCB,3_Pts_C,Caio
+347,2,09:34,14,27,RCB,AS,Tatu
+348,2,09:44,14,27,RCB,BR,Tatu
+349,2,09:44,14,27,BAU,ER,Gui Deodato
+350,1,00:00,14,27, ,fim_quarto,
+351,1,00:04,14,27,BAU,2_Pts_C,Hettsheimeir
+352,1,00:04,14,25,BAU,AS,Alex Garcia
+353,1,00:21,14,25,RCB,2_Pts_C,Duda Machado
+354,1,00:21,12,25,RCB,AS,Tatu
+355,1,00:26,12,25,RCB,RD,Tatu
+356,1,00:26,12,25,BAU,2_Pts_T,Gui Deodato
+357,1,00:30,12,25,BAU,BR,Gui Deodato
+358,1,00:30,12,25,RCB,ER,Tatu
+359,1,00:40,12,25,BAU,2_Pts_C,Alex Garcia
+360,1,00:40,12,23,BAU,AS,Hettsheimeir
+361,1,00:49,12,23,RCB,2_Pts_C,Duda Machado
+362,1,00:55,10,23,RCB,RO,Duda Machado
+363,1,00:55,10,23,RCB,3_Pts_T,Caio
+364,1,01:09,10,23,RCB,RD,Mosso
+365,1,01:09,10,23,BAU,3_Pts_T,R Fischer
+366,1,01:22,10,23,BAU,RD,Gui Deodato
+367,1,01:22,10,23,RCB,2_Pts_T,Tischer
+368,1,01:39,10,23,BAU,2_Pts_C,Murilo
+369,1,01:47,10,21,BAU,FR,R Fischer
+370,1,01:47,10,21,RCB,FC,Tatu
+371,1,01:57,10,21,BAU,RO,R Fischer
+372,1,01:57,10,21,BAU,3_Pts_T,Hettsheimeir
+373,1,02:00,10,21,BAU,RO,Bauru
+374,1,02:00,10,21,RCB,TO,Mosso
+375,1,02:00,10,21,BAU,2_Pts_T,Murilo
+376,1,02:21,10,21,RCB,substituicao_sai,Brown
+377,1,02:21,10,21,RCB,substituicao_entra,Tatu
+378,1,02:21,10,21,RCB,LL_Pts_C,Brown
+379,1,02:21,9,21,RCB,LL_Pts_C,Brown
+380,1,02:21,8,21,BAU,substituicao_entra,Murilo
+381,1,02:21,8,21,BAU,substituicao_entra,Gui Deodato
+382,1,02:21,8,21,BAU,substituicao_sai,Larry
+383,1,02:21,8,21,BAU,substituicao_sai,Jefferson W
+384,1,02:21,8,21,RCB,FR,Brown
+385,1,02:21,8,21,BAU,FC,R Fischer
+386,1,02:41,8,21,BAU,3_Pts_C,Hettsheimeir
+387,1,02:57,8,18,BAU,RD,Bauru
+388,1,02:57,8,18,RCB,2_Pts_T,Brown
+389,1,03:10,8,18,BAU,LL_Pts_C,Larry
+390,1,03:10,8,17,BAU,LL_Pts_T,Larry
+391,1,03:10,8,17,BAU,LL_Pts_T,Larry
+392,1,03:10,8,17,BAU,FR,Larry
+393,1,03:10,8,17,RCB,FC,Duda Machado
+394,1,03:24,8,17,BAU,RD,Jefferson W
+395,1,03:24,8,17,RCB,2_Pts_T,Mosso
+396,1,03:33,8,17,RCB,RD,Tischer
+397,1,03:33,8,17,BAU,2_Pts_T,Hettsheimeir
+398,1,03:46,8,17,BAU,BR,Bauru
+399,1,03:46,8,17,RCB,ER,Brown
+400,1,04:03,8,17,RCB,RO,Rio Claro
+401,1,04:03,8,17,RCB,3_Pts_T,Brown
+402,1,04:27,8,17,BAU,EN,Hettsheimeir
+403,1,04:27,8,15,BAU,AS,Alex Garcia
+404,1,04:34,8,15,BAU,RD,Alex Garcia
+405,1,04:34,8,15,RCB,2_Pts_T,Tischer
+406,1,04:42,8,15,RCB,RD,Mosso
+407,1,04:42,8,15,BAU,3_Pts_T,Hettsheimeir
+408,1,04:56,8,15,BAU,RD,R Fischer
+409,1,04:56,8,15,RCB,3_Pts_T,Mosso
+410,1,05:16,8,15,RCB,RD,Rio Claro
+411,1,05:16,8,15,BAU,3_Pts_T,Jefferson W
+412,1,05:32,8,15,RCB,2_Pts_C,Tischer
+413,1,05:55,6,15,BAU,2_Pts_C,Larry
+414,1,06:06,6,13,BAU,RO,Hettsheimeir
+415,1,06:06,6,13,BAU,3_Pts_T,R Fischer
+416,1,06:25,6,13,BAU,RD,Alex Garcia
+417,1,06:25,6,13,RCB,2_Pts_T,Brown
+418,1,06:30,6,13,RCB,RO,Tischer
+419,1,06:30,6,13,RCB,3_Pts_T,Brown
+420,1,06:36,6,13,RCB,BR,Mosso
+421,1,06:36,6,13,BAU,ER,R Fischer
+422,1,06:50,6,13,BAU,RD,Larry
+423,1,06:50,6,13,RCB,2_Pts_T,Mosso
+424,1,06:59,6,13,RCB,BR,Duda Machado
+425,1,06:59,6,13,BAU,ER,Alex Garcia
+426,1,07:16,6,13,BAU,BR,Bauru
+427,1,07:16,6,13,RCB,ER,Duda Machado
+428,1,07:19,6,13,BAU,3_Pts_C,R Fischer
+429,1,07:19,6,10,BAU,AS,Larry
+430,1,07:19,6,10,RCB,LL_Pts_C,Mosso
+431,1,07:19,5,10,RCB,AS,Duda Machado
+432,1,07:19,5,10,RCB,2_Pts_C,Mosso
+433,1,07:19,3,10,RCB,FR,Mosso
+434,1,07:19,3,10,BAU,FC,Jefferson W
+435,1,07:26,3,10,RCB,BR,Brown
+436,1,07:26,3,10,BAU,ER,R Fischer
+437,1,07:30,3,10,RCB,ER,Duda Machado
+438,1,07:37,3,10,RCB,RD,Duda Machado
+439,1,07:37,3,10,BAU,3_Pts_T,Hettsheimeir
+440,1,07:44,3,10,BAU,RD,Hettsheimeir
+441,1,07:44,3,10,RCB,2_Pts_T,Caio
+442,1,07:50,3,10,RCB,RO,Caio
+443,1,07:50,3,10,RCB,3_Pts_T,Mosso
+444,1,08:03,3,10,BAU,3_Pts_C,Jefferson W
+445,1,08:03,3,7,BAU,AS,Alex Garcia
+446,1,08:31,3,7,RCB,3_Pts_C,Caio
+447,1,08:31,0,7,RCB,AS,Brown
+448,1,08:42,0,7,BAU,2_Pts_C,Jefferson W
+449,1,09:02,0,5,BAU,RD,Jefferson W
+450,1,09:02,0,5,RCB,3_Pts_T,Duda Machado
+451,1,09:09,0,5,BAU,3_Pts_C,Jefferson W
+452,1,09:14,0,2,BAU,RO,Larry
+453,1,09:14,0,2,BAU,3_Pts_T,Alex Garcia
+454,1,09:23,0,2,BAU,BR,Larry
+455,1,09:23,0,2,RCB,ER,Tischer
+456,1,09:38,0,2,RCB,RD,Mosso
+457,1,09:38,0,2,BAU,LL_Pts_T,Alex Garcia
+458,1,09:38,0,2,BAU,2_Pts_C,Alex Garcia
+459,1,09:38,0,0,BAU,FR,Alex Garcia
+460,1,09:38,0,0,RCB,FC,Tischer
+461,1,09:45,0,0,BAU,BR,Hettsheimeir
+462,1,09:45,0,0,RCB,ER,Brown
+463,1,10:00,0,0,BAU,substituicao_entra,Hettsheimeir
+464,1,10:00,0,0,BAU,substituicao_entra,Alex Garcia
+465,1,10:00,0,0,BAU,substituicao_entra,R Fischer
+466,1,10:00,0,0,BAU,substituicao_entra,Larry
+467,1,10:00,0,0,BAU,substituicao_entra,Jefferson W
+468,1,10:00,0,0,RCB,substituicao_entra,Tischer
+469,1,10:00,0,0,RCB,substituicao_entra,Brown
+470,1,10:00,0,0,RCB,substituicao_entra,Mosso
+471,1,10:00,0,0,RCB,substituicao_entra,Caio
+472,1,10:00,0,0,RCB,substituicao_entra,Duda Machado

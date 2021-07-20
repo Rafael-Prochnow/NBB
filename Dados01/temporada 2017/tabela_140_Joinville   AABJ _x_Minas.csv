@@ -1,0 +1,587 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,66,73,,fim_partida,
+1,5,00:11,66,73,MIN,LL_Pts_C,Rush
+2,5,00:11,66,72,MIN,LL_Pts_C,Rush
+3,5,00:11,66,71,MIN,LL_Pts_C,Rush
+4,5,00:11,66,70,JLE,substituicao_entra,Biloca
+5,5,00:11,66,70,JLE,substituicao_sai,F Vezaro
+6,5,00:11,66,70,JLE,FC_T,F Vezaro
+7,5,00:11,66,70,MIN,FR,Rush
+8,5,00:11,66,70,JLE,FC,Tiagão
+9,5,00:11,66,70,MIN,BR,Roquemore
+10,5,00:11,66,70,JLE,ER,F Vezaro
+11,5,00:11,66,70,MIN,LL_Pts_C,Roquemore
+12,5,00:11,66,69,MIN,LL_Pts_T,Roquemore
+13,5,00:11,66,69,JLE,substituicao_entra,Weihermann
+14,5,00:11,66,69,JLE,substituicao_sai,Johnson
+15,5,00:11,66,69,MIN,FR,Roquemore
+16,5,00:11,66,69,JLE,FC,Johnson
+17,5,00:25,66,69,JLE,2_Pts_C,Johnson
+18,5,00:35,64,69,JLE,RD,F Vezaro
+19,5,00:37,64,69,MIN,3_Pts_T,Jefferson
+20,5,00:46,64,69,MIN,RD,Teichmann
+21,5,00:49,64,69,JLE,2_Pts_T,Johnson
+22,5,00:56,64,69,JLE,RD,Tiagão
+23,5,00:57,64,69,MIN,LL_Pts_T,Teichmann
+24,5,00:57,64,69,MIN,LL_Pts_C,Teichmann
+25,5,00:57,64,68,JLE,substituicao_entra,Tiagão
+26,5,00:57,64,68,JLE,substituicao_sai,Colimerio
+27,5,00:57,64,68,MIN,FR,Teichmann
+28,5,00:57,64,68,JLE,FC,Colimerio
+29,5,00:57,64,68,MIN,RO,Teichmann
+30,5,00:57,64,68,MIN,3_Pts_T,Rush
+31,5,01:17,64,68,MIN,BR,Roquemore
+32,5,01:17,64,68,JLE,ER,Colimerio
+33,5,01:43,64,68,MIN,2_Pts_C,Rush
+34,5,01:44,64,66,MIN,RO,Rush
+35,5,01:46,64,66,MIN,3_Pts_T,Jefferson
+36,5,02:04,64,66,MIN,RO,Roquemore
+37,5,02:05,64,66,MIN,LL_Pts_T,Roquemore
+38,5,02:05,64,66,MIN,LL_Pts_T,Roquemore
+39,5,02:05,64,66,MIN,FR,Roquemore
+40,5,02:05,64,66,JLE,FC,Johnson
+41,5,02:26,64,66,JLE,LL_Pts_C,Johnson
+42,5,02:26,63,66,JLE,LL_Pts_C,Johnson
+43,5,02:26,62,66,JLE,FR,Johnson
+44,5,02:26,62,66,MIN,FC,Roquemore
+45,5,02:29,62,66,JLE,BR,Stocks
+46,5,02:29,62,66,MIN,ER,Gegê
+47,5,02:39,62,66,MIN,FR,Roquemore
+48,5,02:39,62,66,JLE,FC,Johnson
+49,5,02:39,62,66,MIN,BR,Roquemore
+50,5,02:39,62,66,JLE,ER,Stocks
+51,5,02:58,62,66,JLE,substituicao_entra,Johnson
+52,5,02:58,62,66,JLE,substituicao_sai,Weihermann
+53,5,02:58,62,66,JLE,tempo_tecnico,Joinville / AABJ
+54,5,02:58,62,66,MIN,AS,Roquemore
+55,5,02:58,62,66,MIN,EN,Jefferson
+56,5,02:58,62,64,MIN,BR,Roquemore
+57,5,02:58,62,64,JLE,ER,F Vezaro
+58,5,03:20,62,64,JLE,RD,Joinville / AABJ
+59,5,03:20,62,64,MIN,3_Pts_T,Gegê
+60,5,03:33,62,64,MIN,RD,Jefferson
+61,5,03:35,62,64,JLE,3_Pts_T,Weihermann
+62,5,03:58,62,64,MIN,2_Pts_C,Jefferson
+63,5,04:08,62,62,MIN,RD,Teichmann
+64,5,04:11,62,62,JLE,2_Pts_T,F Vezaro
+65,5,04:22,62,62,MIN,RD,Minas
+66,5,04:22,62,62,JLE,2_Pts_T,Colimerio
+67,5,04:44,62,62,JLE,RD,A Bambu
+68,5,04:46,62,62,MIN,2_Pts_T,Jefferson
+69,5,05:00,62,62,,inicio_quarto,
+70,5,05:00,62,62,JLE,substituicao_entra,Weihermann
+71,5,05:00,62,62,JLE,substituicao_entra,A Bambu
+72,5,05:00,62,62,JLE,substituicao_entra,F Vezaro
+73,5,05:00,62,62,JLE,substituicao_entra,Colimerio
+74,5,05:00,62,62,JLE,substituicao_entra,Stocks
+75,5,05:00,62,62,MIN,substituicao_entra,Jefferson
+76,5,05:00,62,62,MIN,substituicao_entra,Rush
+77,5,05:00,62,62,MIN,substituicao_entra,Teichmann
+78,5,05:00,62,62,MIN,substituicao_entra,Gegê
+79,5,05:00,62,62,MIN,substituicao_entra,Roquemore
+80,4,00:00,62,62,JLE,substituicao_sai,Stocks
+81,4,00:00,62,62,JLE,substituicao_sai,Colimerio
+82,4,00:00,62,62,JLE,substituicao_sai,F Vezaro
+83,4,00:00,62,62,JLE,substituicao_sai,A Bambu
+84,4,00:00,62,62,JLE,substituicao_sai,Weihermann
+85,4,00:00,62,62,MIN,substituicao_sai,Rush
+86,4,00:00,62,62,MIN,substituicao_sai,Jefferson
+87,4,00:00,62,62,MIN,substituicao_sai,Teichmann
+88,4,00:00,62,62,MIN,substituicao_sai,Gegê
+89,4,00:00,62,62,MIN,substituicao_sai,Roquemore
+90,4,00:00,62,62,,fim_quarto,
+91,4,00:08,62,62,MIN,substituicao_entra,Gegê
+92,4,00:08,62,62,MIN,3_Pts_T,Jefferson
+93,4,00:08,62,62,MIN,substituicao_sai,Gegê
+94,4,00:08,62,62,JLE,RD,A Bambu
+95,4,00:08,62,62,MIN,2_Pts_T,Roquemore
+96,4,00:19,62,62,MIN,RD,Rush
+97,4,00:22,62,62,JLE,2_Pts_T,Stocks
+98,4,00:33,62,62,JLE,RD,F Vezaro
+99,4,00:36,62,62,MIN,3_Pts_T,Rush
+100,4,00:51,62,62,MIN,RD,Rush
+101,4,00:53,62,62,JLE,2_Pts_T,Colimerio
+102,4,00:54,62,62,JLE,RO,Colimerio
+103,4,00:57,62,62,JLE,2_Pts_T,Stocks
+104,4,01:10,62,62,JLE,RD,A Bambu
+105,4,01:12,62,62,MIN,3_Pts_T,Roquemore
+106,4,01:35,62,62,MIN,RD,Teichmann
+107,4,01:38,62,62,JLE,3_Pts_T,Weihermann
+108,4,02:03,62,62,MIN,AS,Jefferson
+109,4,02:03,62,62,MIN,2_Pts_C,Teichmann
+110,4,02:11,62,60,MIN,substituicao_entra,Jefferson
+111,4,02:11,62,60,MIN,substituicao_entra,Teichmann
+112,4,02:11,62,60,MIN,substituicao_sai,Mosso
+113,4,02:11,62,60,MIN,substituicao_sai,Parisotto
+114,4,02:21,62,60,JLE,2_Pts_C,Stocks
+115,4,02:37,60,60,JLE,BR,F Vezaro
+116,4,02:37,60,60,MIN,ER,Roquemore
+117,4,03:03,60,60,JLE,2_Pts_C,Stocks
+118,4,03:14,58,60,JLE,RD,Stocks
+119,4,03:16,58,60,MIN,2_Pts_T,Parisotto
+120,4,03:41,58,60,MIN,BR,Parisotto
+121,4,03:41,58,60,JLE,ER,A Bambu
+122,4,04:02,58,60,MIN,substituicao_entra,Roquemore
+123,4,04:02,58,60,MIN,substituicao_sai,Jefferson
+124,4,04:02,58,60,MIN,ER,Rush
+125,4,04:17,58,60,MIN,substituicao_entra,Rush
+126,4,04:17,58,60,MIN,substituicao_sai,Teichmann
+127,4,04:17,58,60,MIN,RD,Minas
+128,4,04:17,58,60,JLE,3_Pts_T,Weihermann
+129,4,04:38,58,60,MIN,3_Pts_C,Parisotto
+130,4,05:02,58,57,JLE,AS,Stocks
+131,4,05:02,58,57,JLE,3_Pts_C,Weihermann
+132,4,05:10,55,57,JLE,RD,Colimerio
+133,4,05:12,55,57,MIN,3_Pts_T,Parisotto
+134,4,05:30,55,57,MIN,RD,Jefferson
+135,4,05:31,55,57,JLE,LL_Pts_T,A Bambu
+136,4,05:31,55,57,JLE,LL_Pts_C,A Bambu
+137,4,05:31,54,57,MIN,substituicao_entra,Mosso
+138,4,05:31,54,57,MIN,substituicao_sai,Wesley
+139,4,05:31,54,57,JLE,FR,A Bambu
+140,4,05:31,54,57,MIN,FC,Wesley
+141,4,05:34,54,57,JLE,RD,F Vezaro
+142,4,05:38,54,57,MIN,2_Pts_T,Teichmann
+143,4,05:52,54,57,MIN,LL_Pts_C,Gegê
+144,4,05:52,54,56,MIN,LL_Pts_C,Gegê
+145,4,05:52,54,55,MIN,FR,Gegê
+146,4,05:52,54,55,JLE,FC_A,Stocks
+147,4,05:52,54,55,MIN,BR,Gegê
+148,4,05:52,54,55,JLE,ER,Stocks
+149,4,06:07,54,55,MIN,AS,Wesley
+150,4,06:07,54,55,MIN,3_Pts_C,Jefferson
+151,4,06:26,54,52,JLE,AS,Stocks
+152,4,06:26,54,52,JLE,2_Pts_C,F Vezaro
+153,4,06:34,52,52,JLE,FR,Stocks
+154,4,06:34,52,52,MIN,FC,Jefferson
+155,4,06:44,52,52,MIN,substituicao_entra,Wesley
+156,4,06:44,52,52,MIN,substituicao_sai,Rush
+157,4,06:44,52,52,JLE,FR,F Vezaro
+158,4,06:44,52,52,MIN,ER,Rush
+159,4,06:44,52,52,MIN,FC_O,Rush
+160,4,06:56,52,52,JLE,AS,F Vezaro
+161,4,06:56,52,52,JLE,3_Pts_C,A Bambu
+162,4,07:07,49,52,JLE,RO,A Bambu
+163,4,07:09,49,52,JLE,2_Pts_T,A Bambu
+164,4,07:22,49,52,MIN,LL_Pts_C,Teichmann
+165,4,07:22,49,51,MIN,FR,Teichmann
+166,4,07:22,49,51,JLE,FC,A Bambu
+167,4,07:22,49,51,MIN,AS,Gegê
+168,4,07:22,49,51,MIN,2_Pts_C,Teichmann
+169,4,07:39,49,49,MIN,tempo_tecnico,Minas
+170,4,07:42,49,49,JLE,AS,Stocks
+171,4,07:42,49,49,JLE,2_Pts_C,A Bambu
+172,4,07:46,47,49,JLE,RO,Stocks
+173,4,07:48,47,49,JLE,2_Pts_T,Colimerio
+174,4,07:58,47,49,MIN,RD,Minas
+175,4,07:58,47,49,JLE,3_Pts_T,Stocks
+176,4,08:22,47,49,JLE,LL_Pts_C,Weihermann
+177,4,08:22,46,49,MIN,substituicao_entra,Jefferson
+178,4,08:22,46,49,MIN,substituicao_sai,Roquemore
+179,4,08:22,46,49,MIN,FC_T,Roquemore
+180,4,08:23,46,49,JLE,RD,Weihermann
+181,4,08:29,46,49,JLE,TO,A Bambu
+182,4,08:29,46,49,MIN,2_Pts_T,Roquemore
+183,4,08:42,46,49,MIN,FR,Rush
+184,4,08:42,46,49,JLE,ER,A Bambu
+185,4,08:42,46,49,JLE,FC_O,A Bambu
+186,4,08:50,46,49,JLE,FR,F Vezaro
+187,4,08:50,46,49,MIN,ER,Teichmann
+188,4,08:50,46,49,MIN,FC_O,Teichmann
+189,4,09:07,46,49,JLE,3_Pts_C,F Vezaro
+190,4,09:11,43,49,JLE,RD,A Bambu
+191,4,09:13,43,49,MIN,3_Pts_T,Parisotto
+192,4,09:40,43,49,JLE,AS,Stocks
+193,4,09:40,43,49,JLE,2_Pts_C,Colimerio
+194,4,10:00,41,49,,inicio_quarto,
+195,3,00:00,41,49,MIN,substituicao_sai,Mosso
+196,3,00:00,41,49,MIN,substituicao_sai,Teichmann
+197,3,00:00,41,49,MIN,substituicao_sai,Parisotto
+198,3,00:00,41,49,MIN,substituicao_sai,Gegê
+199,3,00:00,41,49,MIN,substituicao_sai,Roquemore
+200,3,00:00,41,49,JLE,substituicao_sai,Stocks
+201,3,00:00,41,49,JLE,substituicao_sai,Colimerio
+202,3,00:00,41,49,JLE,substituicao_sai,F Vezaro
+203,3,00:00,41,49,JLE,substituicao_sai,A Bambu
+204,3,00:00,41,49,JLE,substituicao_sai,Weihermann
+205,3,00:00,41,49,,fim_quarto,
+206,3,00:10,41,49,JLE,BR,Stocks
+207,3,00:10,41,49,MIN,ER,Roquemore
+208,3,00:15,41,49,JLE,AS,Stocks
+209,3,00:15,41,49,JLE,2_Pts_C,A Bambu
+210,3,00:24,39,49,JLE,FR,F Vezaro
+211,3,00:24,39,49,MIN,FC,Mosso
+212,3,00:39,39,49,MIN,AS,Gegê
+213,3,00:39,39,49,MIN,3_Pts_C,Mosso
+214,3,01:13,39,46,JLE,AS,Stocks
+215,3,01:13,39,46,JLE,3_Pts_C,F Vezaro
+216,3,01:26,36,46,JLE,RO,Stocks
+217,3,01:28,36,46,JLE,3_Pts_T,Weihermann
+218,3,01:36,36,46,JLE,substituicao_entra,Weihermann
+219,3,01:36,36,46,JLE,substituicao_sai,Johnson
+220,3,01:36,36,46,JLE,substituicao_entra,Stocks
+221,3,01:36,36,46,JLE,substituicao_sai,Biloca
+222,3,01:55,36,46,JLE,RD,Colimerio
+223,3,01:57,36,46,MIN,3_Pts_T,Mosso
+224,3,02:06,36,46,MIN,RD,Gegê
+225,3,02:09,36,46,JLE,2_Pts_T,Johnson
+226,3,02:20,36,46,JLE,RD,A Bambu
+227,3,02:23,36,46,MIN,2_Pts_T,Gegê
+228,3,02:36,36,46,MIN,RD,Parisotto
+229,3,02:38,36,46,JLE,3_Pts_T,Biloca
+230,3,02:48,36,46,JLE,tempo_tecnico,Joinville / AABJ
+231,3,02:48,36,46,MIN,substituicao_entra,Teichmann
+232,3,02:48,36,46,MIN,substituicao_sai,Wesley
+233,3,02:48,36,46,JLE,substituicao_entra,A Bambu
+234,3,02:48,36,46,JLE,substituicao_sai,Tiagão
+235,3,02:48,36,46,JLE,FR,Colimerio
+236,3,02:48,36,46,MIN,ER,Wesley
+237,3,02:48,36,46,MIN,FC_O,Wesley
+238,3,02:49,36,46,MIN,BR,Wesley
+239,3,02:49,36,46,JLE,ER,Tiagão
+240,3,02:52,36,46,JLE,RD,Tiagão
+241,3,02:53,36,46,MIN,LL_Pts_T,Roquemore
+242,3,02:53,36,46,MIN,LL_Pts_C,Roquemore
+243,3,02:53,36,45,MIN,FR,Roquemore
+244,3,02:53,36,45,JLE,FC,Tiagão
+245,3,03:05,36,45,MIN,RD,Parisotto
+246,3,03:07,36,45,JLE,2_Pts_T,Tiagão
+247,3,03:25,36,45,MIN,ER,Wesley
+248,3,03:36,36,45,JLE,LL_Pts_C,Colimerio
+249,3,03:36,35,45,JLE,LL_Pts_C,Colimerio
+250,3,03:36,34,45,MIN,substituicao_entra,Wesley
+251,3,03:36,34,45,MIN,substituicao_entra,Gegê
+252,3,03:36,34,45,MIN,substituicao_entra,Mosso
+253,3,03:36,34,45,MIN,substituicao_sai,Teichmann
+254,3,03:36,34,45,MIN,substituicao_sai,Rush
+255,3,03:36,34,45,MIN,substituicao_sai,Jefferson
+256,3,03:36,34,45,JLE,FR,Colimerio
+257,3,03:36,34,45,MIN,FC,Rush
+258,3,03:46,34,45,JLE,RD,Colimerio
+259,3,03:48,34,45,MIN,2_Pts_T,Jefferson
+260,3,04:05,34,45,JLE,2_Pts_C,Johnson
+261,3,04:19,32,45,MIN,AS,Roquemore
+262,3,04:19,32,45,MIN,3_Pts_C,Rush
+263,3,04:49,32,42,JLE,AS,Tiagão
+264,3,04:49,32,42,JLE,2_Pts_C,Biloca
+265,3,05:04,30,42,JLE,BR,Tiagão
+266,3,05:04,30,42,MIN,ER,Roquemore
+267,3,05:27,30,42,JLE,AS,Tiagão
+268,3,05:27,30,42,JLE,3_Pts_C,Biloca
+269,3,05:41,27,42,MIN,3_Pts_C,Roquemore
+270,3,05:52,27,39,JLE,substituicao_entra,Johnson
+271,3,05:52,27,39,JLE,substituicao_sai,Weihermann
+272,3,05:52,27,39,MIN,FR,Parisotto
+273,3,05:52,27,39,JLE,FC,Weihermann
+274,3,06:03,27,39,MIN,FR,Roquemore
+275,3,06:03,27,39,JLE,FC,Biloca
+276,3,06:18,27,39,JLE,substituicao_entra,Biloca
+277,3,06:18,27,39,JLE,substituicao_sai,Stocks
+278,3,06:18,27,39,MIN,FR,Jefferson
+279,3,06:18,27,39,JLE,FC,Stocks
+280,3,06:18,27,39,MIN,RO,Roquemore
+281,3,06:18,27,39,MIN,2_Pts_T,Rush
+282,3,06:18,27,39,MIN,RO,Rush
+283,3,06:20,27,39,MIN,2_Pts_T,Jefferson
+284,3,06:24,27,39,MIN,BR,Jefferson
+285,3,06:24,27,39,JLE,ER,F Vezaro
+286,3,06:24,27,39,JLE,FR,Colimerio
+287,3,06:24,27,39,MIN,ER,Teichmann
+288,3,06:24,27,39,MIN,FC_O,Teichmann
+289,3,06:35,27,39,MIN,BR,Roquemore
+290,3,06:35,27,39,JLE,ER,Stocks
+291,3,06:39,27,39,JLE,RD,Stocks
+292,3,06:41,27,39,MIN,3_Pts_T,Roquemore
+293,3,07:08,27,39,JLE,EN,Colimerio
+294,3,07:09,25,39,JLE,RO,Colimerio
+295,3,07:13,25,39,JLE,2_Pts_T,Stocks
+296,3,07:18,25,39,JLE,RD,Colimerio
+297,3,07:28,25,39,MIN,2_Pts_T,Roquemore
+298,3,07:55,25,39,JLE,AS,Weihermann
+299,3,07:55,25,39,JLE,3_Pts_C,Tiagão
+300,3,08:15,22,39,JLE,RD,Weihermann
+301,3,08:15,22,39,MIN,LL_Pts_T,Parisotto
+302,3,08:15,22,39,MIN,LL_Pts_C,Parisotto
+303,3,08:15,22,38,MIN,FR,Parisotto
+304,3,08:15,22,38,JLE,FC,Tiagão
+305,3,08:37,22,38,JLE,AS,Stocks
+306,3,08:37,22,38,JLE,EN,Colimerio
+307,3,08:42,20,38,JLE,RD,Tiagão
+308,3,08:45,20,38,MIN,3_Pts_T,Jefferson
+309,3,09:01,20,38,MIN,RO,Jefferson
+310,3,09:04,20,38,MIN,2_Pts_T,Parisotto
+311,3,09:09,20,38,MIN,BR,Teichmann
+312,3,09:09,20,38,JLE,ER,F Vezaro
+313,3,09:41,20,38,MIN,AS,Teichmann
+314,3,09:41,20,38,MIN,3_Pts_C,Jefferson
+315,3,10:00,20,35,,inicio_quarto,
+316,2,00:00,20,35,,fim_quarto,
+317,2,00:12,20,35,MIN,RD,Lelê
+318,2,00:12,20,35,JLE,3_Pts_T,Johnson
+319,2,00:12,20,35,JLE,substituicao_entra,Weihermann
+320,2,00:12,20,35,JLE,substituicao_sai,A Bambu
+321,2,00:12,20,35,JLE,FR,Stocks
+322,2,00:12,20,35,MIN,FC,Teichmann
+323,2,00:29,20,35,MIN,2_Pts_C,Lelê
+324,2,00:48,20,33,MIN,substituicao_entra,Gegê
+325,2,00:48,20,33,MIN,substituicao_sai,Roquemore
+326,2,00:48,20,33,MIN,BR,Roquemore
+327,2,00:48,20,33,JLE,ER,Stocks
+328,2,00:49,20,33,JLE,RD,Tiagão
+329,2,00:54,20,33,JLE,TO,Johnson
+330,2,00:54,20,33,MIN,2_Pts_T,Roquemore
+331,2,01:02,20,33,MIN,RD,Teichmann
+332,2,01:04,20,33,JLE,2_Pts_T,F Vezaro
+333,2,01:05,20,33,JLE,FR,Tiagão
+334,2,01:05,20,33,MIN,FC,Jefferson
+335,2,01:16,20,33,JLE,RO,Joinville / AABJ
+336,2,01:16,20,33,JLE,3_Pts_T,F Vezaro
+337,2,01:23,20,33,JLE,RD,Tiagão
+338,2,01:26,20,33,MIN,3_Pts_T,Mosso
+339,2,01:40,20,33,JLE,substituicao_entra,F Vezaro
+340,2,01:40,20,33,JLE,substituicao_sai,Weihermann
+341,2,01:40,20,33,MIN,FR,Roquemore
+342,2,01:40,20,33,JLE,FC,Weihermann
+343,2,01:58,20,33,MIN,RD,Teichmann
+344,2,02:00,20,33,JLE,3_Pts_T,Weihermann
+345,2,02:18,20,33,MIN,LL_Pts_C,Lelê
+346,2,02:18,20,32,MIN,LL_Pts_C,Lelê
+347,2,02:18,20,31,MIN,substituicao_entra,Jefferson
+348,2,02:18,20,31,MIN,substituicao_sai,Gegê
+349,2,02:18,20,31,MIN,FR,Lelê
+350,2,02:18,20,31,JLE,FC,Johnson
+351,2,02:40,20,31,JLE,AS,Johnson
+352,2,02:40,20,31,JLE,3_Pts_C,Weihermann
+353,2,02:59,17,31,JLE,RD,Joinville / AABJ
+354,2,02:59,17,31,MIN,3_Pts_T,Gegê
+355,2,03:17,17,31,MIN,RD,Teichmann
+356,2,03:19,17,31,JLE,2_Pts_T,Johnson
+357,2,03:33,17,31,JLE,RD,Stocks
+358,2,03:35,17,31,MIN,3_Pts_T,Lelê
+359,2,03:46,17,31,MIN,FR,Roquemore
+360,2,03:46,17,31,JLE,FC,Weihermann
+361,2,04:05,17,31,MIN,substituicao_entra,Lelê
+362,2,04:05,17,31,MIN,substituicao_sai,Parisotto
+363,2,04:05,17,31,MIN,tempo_tecnico,Minas
+364,2,04:05,17,31,JLE,AS,Stocks
+365,2,04:05,17,31,JLE,2_Pts_C,Tiagão
+366,2,04:15,15,31,JLE,RD,Johnson
+367,2,04:17,15,31,MIN,2_Pts_T,Roquemore
+368,2,04:37,15,31,JLE,2_Pts_C,Stocks
+369,2,04:57,13,31,MIN,AS,Roquemore
+370,2,04:57,13,31,MIN,EN,Teichmann
+371,2,05:08,13,29,MIN,BR,Teichmann
+372,2,05:08,13,29,JLE,ER,A Bambu
+373,2,05:29,13,29,JLE,tempo_tecnico,Joinville / AABJ
+374,2,05:29,13,29,MIN,ER,Parisotto
+375,2,05:34,13,29,MIN,RO,Teichmann
+376,2,05:34,13,29,MIN,substituicao_entra,Teichmann
+377,2,05:34,13,29,MIN,substituicao_sai,Teichmann
+378,2,05:34,13,29,JLE,LL_Pts_T,Stocks
+379,2,05:34,13,29,MIN,substituicao_entra,Teichmann
+380,2,05:34,13,29,MIN,substituicao_sai,Wesley
+381,2,05:34,13,29,JLE,FR,Stocks
+382,2,05:34,13,29,MIN,FC,Wesley
+383,2,05:34,13,29,JLE,2_Pts_C,Stocks
+384,2,05:46,11,29,JLE,RD,Stocks
+385,2,05:48,11,29,MIN,2_Pts_T,Gegê
+386,2,05:56,11,29,MIN,RD,Gegê
+387,2,06:00,11,29,JLE,3_Pts_T,A Bambu
+388,2,06:14,11,29,MIN,3_Pts_C,Parisotto
+389,2,06:30,11,26,MIN,substituicao_entra,Roquemore
+390,2,06:30,11,26,MIN,substituicao_entra,Wesley
+391,2,06:30,11,26,MIN,substituicao_sai,Teichmann
+392,2,06:30,11,26,MIN,substituicao_sai,Jefferson
+393,2,06:30,11,26,JLE,substituicao_entra,A Bambu
+394,2,06:30,11,26,JLE,substituicao_sai,Colimerio
+395,2,06:30,11,26,MIN,FR,Teichmann
+396,2,06:30,11,26,JLE,FC,Stocks
+397,2,06:36,11,26,MIN,RO,Mosso
+398,2,06:39,11,26,MIN,2_Pts_T,Mosso
+399,2,06:50,11,26,JLE,substituicao_entra,Tiagão
+400,2,06:50,11,26,JLE,substituicao_entra,Weihermann
+401,2,06:50,11,26,JLE,substituicao_sai,Jerônimo
+402,2,06:50,11,26,JLE,substituicao_sai,F Vezaro
+403,2,06:50,11,26,JLE,ER,Stocks
+404,2,06:50,11,26,JLE,BR,Stocks
+405,2,06:50,11,26,MIN,ER,Gegê
+406,2,06:53,11,26,MIN,RD,Gegê
+407,2,06:55,11,26,JLE,2_Pts_T,Jerônimo
+408,2,07:16,11,26,MIN,AS,Gegê
+409,2,07:16,11,26,MIN,EN,Teichmann
+410,2,07:21,11,24,MIN,BR,Teichmann
+411,2,07:21,11,24,JLE,ER,Stocks
+412,2,07:29,11,24,JLE,RD,Stocks
+413,2,07:32,11,24,MIN,3_Pts_T,Mosso
+414,2,07:46,11,24,MIN,RD,Jefferson
+415,2,07:49,11,24,JLE,3_Pts_T,F Vezaro
+416,2,07:52,11,24,JLE,RO,Joinville / AABJ
+417,2,07:52,11,24,MIN,TO,Mosso
+418,2,07:52,11,24,JLE,2_Pts_T,Jerônimo
+419,2,08:12,11,24,MIN,ER,Teichmann
+420,2,08:19,11,24,JLE,RO,F Vezaro
+421,2,08:21,11,24,JLE,3_Pts_T,Johnson
+422,2,08:38,11,24,MIN,2_Pts_C,Teichmann
+423,2,08:41,11,22,MIN,RO,Teichmann
+424,2,08:44,11,22,MIN,2_Pts_T,Parisotto
+425,2,08:55,11,22,MIN,RD,Mosso
+426,2,08:58,11,22,JLE,3_Pts_T,Stocks
+427,2,09:13,11,22,JLE,RD,Colimerio
+428,2,09:16,11,22,MIN,2_Pts_T,Teichmann
+429,2,09:36,11,22,JLE,2_Pts_C,Stocks
+430,2,09:47,9,22,JLE,FR,Colimerio
+431,2,09:47,9,22,MIN,FC,Mosso
+432,2,10:00,9,22,,inicio_quarto,
+433,1,00:00,9,22,JLE,substituicao_sai,Stocks
+434,1,00:00,9,22,JLE,substituicao_sai,Jerônimo
+435,1,00:00,9,22,JLE,substituicao_sai,Colimerio
+436,1,00:00,9,22,JLE,substituicao_sai,F Vezaro
+437,1,00:00,9,22,JLE,substituicao_sai,Johnson
+438,1,00:00,9,22,MIN,substituicao_sai,Big
+439,1,00:00,9,22,MIN,substituicao_sai,Augusto
+440,1,00:00,9,22,MIN,substituicao_sai,Jefferson
+441,1,00:00,9,22,MIN,substituicao_sai,Mosso
+442,1,00:00,9,22,MIN,substituicao_sai,Parisotto
+443,1,00:00,9,22,,fim_quarto,
+444,1,00:22,9,22,MIN,substituicao_entra,Augusto
+445,1,00:22,9,22,MIN,substituicao_sai,Gegê
+446,1,00:22,9,22,MIN,LL_Pts_C,Gegê
+447,1,00:22,9,21,MIN,LL_Pts_T,Gegê
+448,1,00:32,9,21,JLE,substituicao_entra,Johnson
+449,1,00:32,9,21,JLE,substituicao_sai,Weihermann
+450,1,00:35,9,21,MIN,substituicao_entra,Parisotto
+451,1,00:35,9,21,MIN,substituicao_sai,Roquemore
+452,1,00:37,9,21,MIN,FR,Gegê
+453,1,00:37,9,21,JLE,FC,Stocks
+454,1,00:40,9,21,MIN,RD,Gegê
+455,1,00:42,9,21,JLE,3_Pts_T,Weihermann
+456,1,00:50,9,21,JLE,RD,Colimerio
+457,1,00:50,9,21,MIN,2_Pts_T,Roquemore
+458,1,00:50,9,21,MIN,RD,Minas
+459,1,00:50,9,21,JLE,2_Pts_T,Jerônimo
+460,1,00:50,9,21,JLE,RO,Jerônimo
+461,1,00:50,9,21,JLE,2_Pts_T,Weihermann
+462,1,01:06,9,21,MIN,AS,Gegê
+463,1,01:06,9,21,MIN,3_Pts_C,Jefferson
+464,1,01:31,9,18,JLE,AS,Stocks
+465,1,01:31,9,18,JLE,EN,Jerônimo
+466,1,01:44,7,18,JLE,LL_Pts_C,Weihermann
+467,1,01:44,6,18,JLE,LL_Pts_C,Weihermann
+468,1,01:44,5,18,MIN,substituicao_entra,Big
+469,1,01:44,5,18,MIN,substituicao_sai,Teichmann
+470,1,01:44,5,18,JLE,substituicao_entra,Jerônimo
+471,1,01:44,5,18,JLE,substituicao_sai,A Bambu
+472,1,01:44,5,18,JLE,FR,Weihermann
+473,1,01:44,5,18,MIN,FC_A,Gegê
+474,1,01:44,5,18,JLE,BR,Stocks
+475,1,01:44,5,18,MIN,ER,Gegê
+476,1,01:56,5,18,JLE,ER,A Bambu
+477,1,02:06,5,18,MIN,LL_Pts_C,Roquemore
+478,1,02:06,5,17,JLE,substituicao_entra,Stocks
+479,1,02:06,5,17,JLE,substituicao_sai,Dieguinho
+480,1,02:06,5,17,MIN,FR,Roquemore
+481,1,02:06,5,17,JLE,FC,Dieguinho
+482,1,02:06,5,17,MIN,AS,Gegê
+483,1,02:06,5,17,MIN,3_Pts_C,Roquemore
+484,1,02:11,5,14,MIN,RD,Roquemore
+485,1,02:13,5,14,JLE,3_Pts_T,Weihermann
+486,1,02:35,5,14,MIN,substituicao_entra,Mosso
+487,1,02:35,5,14,MIN,substituicao_sai,Rush
+488,1,02:35,5,14,JLE,tempo_tecnico,Joinville / AABJ
+489,1,02:38,5,14,MIN,AS,Jefferson
+490,1,02:38,5,14,MIN,3_Pts_C,Rush
+491,1,02:54,5,11,MIN,substituicao_entra,Jefferson
+492,1,02:54,5,11,MIN,substituicao_sai,Parisotto
+493,1,02:54,5,11,MIN,RD,Minas
+494,1,02:54,5,11,JLE,2_Pts_T,Dieguinho
+495,1,03:08,5,11,JLE,RO,A Bambu
+496,1,03:10,5,11,JLE,3_Pts_T,Colimerio
+497,1,03:18,5,11,JLE,BR,Dieguinho
+498,1,03:18,5,11,MIN,ER,Roquemore
+499,1,03:31,5,11,MIN,FR,Roquemore
+500,1,03:31,5,11,JLE,FC,Dieguinho
+501,1,03:52,5,11,JLE,substituicao_entra,Dieguinho
+502,1,03:52,5,11,JLE,substituicao_sai,Stocks
+503,1,03:52,5,11,JLE,LL_Pts_C,Stocks
+504,1,03:52,4,11,JLE,LL_Pts_T,Stocks
+505,1,03:52,4,11,JLE,FR,Stocks
+506,1,03:52,4,11,MIN,FC,Rush
+507,1,04:20,4,11,MIN,AS,Gegê
+508,1,04:20,4,11,MIN,EN,Teichmann
+509,1,04:24,4,9,MIN,RD,Parisotto
+510,1,04:27,4,9,JLE,3_Pts_T,Stocks
+511,1,04:43,4,9,JLE,substituicao_entra,Weihermann
+512,1,04:43,4,9,JLE,substituicao_sai,Johnson
+513,1,04:43,4,9,JLE,substituicao_entra,Colimerio
+514,1,04:43,4,9,JLE,substituicao_sai,Jerônimo
+515,1,04:43,4,9,JLE,FR,Stocks
+516,1,04:43,4,9,MIN,FC,Rush
+517,1,04:58,4,9,MIN,LL_Pts_C,Parisotto
+518,1,04:58,4,8,MIN,LL_Pts_C,Parisotto
+519,1,04:58,4,7,MIN,substituicao_entra,Rush
+520,1,04:58,4,7,MIN,substituicao_sai,Wesley
+521,1,04:58,4,7,MIN,FR,Parisotto
+522,1,04:58,4,7,JLE,FC,Johnson
+523,1,05:15,4,7,MIN,LL_Pts_C,Teichmann
+524,1,05:15,4,6,MIN,LL_Pts_T,Teichmann
+525,1,05:15,4,6,MIN,FR,Teichmann
+526,1,05:15,4,6,JLE,FC_A,F Vezaro
+527,1,05:15,4,6,MIN,BR,Teichmann
+528,1,05:15,4,6,JLE,ER,F Vezaro
+529,1,05:15,4,6,MIN,substituicao_entra,Gegê
+530,1,05:15,4,6,MIN,substituicao_sai,Jefferson
+531,1,05:15,4,6,JLE,substituicao_entra,Jerônimo
+532,1,05:15,4,6,JLE,substituicao_sai,Jerônimo
+533,1,05:15,4,6,JLE,FR,Stocks
+534,1,05:15,4,6,MIN,FC,Wesley
+535,1,05:29,4,6,JLE,RD,Jerônimo
+536,1,05:32,4,6,MIN,2_Pts_T,Jefferson
+537,1,05:47,4,6,MIN,RD,Teichmann
+538,1,05:49,4,6,JLE,2_Pts_T,Johnson
+539,1,05:52,4,6,JLE,RO,A Bambu
+540,1,05:54,4,6,JLE,2_Pts_T,A Bambu
+541,1,06:15,4,6,MIN,AS,Teichmann
+542,1,06:15,4,6,MIN,2_Pts_C,Wesley
+543,1,06:31,4,4,MIN,RD,Wesley
+544,1,06:31,4,4,JLE,LL_Pts_T,Jerônimo
+545,1,06:31,4,4,JLE,LL_Pts_T,Jerônimo
+546,1,06:31,4,4,JLE,FR,Jerônimo
+547,1,06:31,4,4,MIN,FC,Wesley
+548,1,06:31,4,4,JLE,RO,Jerônimo
+549,1,06:31,4,4,JLE,2_Pts_T,Stocks
+550,1,06:31,4,4,JLE,BR,Stocks
+551,1,06:31,4,4,MIN,ER,Jefferson
+552,1,06:38,4,4,MIN,RD,Roquemore
+553,1,06:42,4,4,JLE,2_Pts_T,F Vezaro
+554,1,06:46,4,4,JLE,FR,Jerônimo
+555,1,06:46,4,4,MIN,FC,Parisotto
+556,1,07:10,4,4,MIN,2_Pts_C,Parisotto
+557,1,07:14,4,2,MIN,RD,Roquemore
+558,1,07:17,4,2,JLE,3_Pts_T,Johnson
+559,1,07:42,4,2,MIN,2_Pts_C,Teichmann
+560,1,07:43,4,0,MIN,RO,Teichmann
+561,1,07:45,4,0,MIN,2_Pts_T,Roquemore
+562,1,07:56,4,0,MIN,FR,Wesley
+563,1,07:56,4,0,JLE,FC,A Bambu
+564,1,08:20,4,0,JLE,AS,F Vezaro
+565,1,08:20,4,0,JLE,2_Pts_C,Jerônimo
+566,1,08:42,2,0,JLE,RD,Joinville / AABJ
+567,1,08:42,2,0,JLE,TO,Johnson
+568,1,08:42,2,0,MIN,2_Pts_T,Roquemore
+569,1,08:44,2,0,MIN,RD,Jefferson
+570,1,08:47,2,0,JLE,3_Pts_T,F Vezaro
+571,1,09:02,2,0,JLE,RD,Jerônimo
+572,1,09:05,2,0,MIN,2_Pts_T,Parisotto
+573,1,09:27,2,0,JLE,2_Pts_C,Stocks
+574,1,09:30,0,0,JLE,BR,Stocks
+575,1,09:30,0,0,MIN,ER,Parisotto
+576,1,10:00,0,0,MIN,substituicao_entra,Roquemore
+577,1,10:00,0,0,MIN,substituicao_entra,Wesley
+578,1,10:00,0,0,MIN,substituicao_entra,Parisotto
+579,1,10:00,0,0,MIN,substituicao_entra,Teichmann
+580,1,10:00,0,0,MIN,substituicao_entra,Jefferson
+581,1,10:00,0,0,JLE,substituicao_entra,Johnson
+582,1,10:00,0,0,JLE,substituicao_entra,A Bambu
+583,1,10:00,0,0,JLE,substituicao_entra,F Vezaro
+584,1,10:00,0,0,JLE,substituicao_entra,Jerônimo
+585,1,10:00,0,0,JLE,substituicao_entra,Stocks

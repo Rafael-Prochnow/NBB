@@ -1,0 +1,522 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,92,87, ,fim_partida,
+1,5,00:03,92,87,CEA,RD,Felipe
+2,5,00:03,92,87,LSB,3_Pts_T,Cox
+3,5,00:13,92,87,LSB,RD,Thiaguinho
+4,5,00:13,92,87,CEA,LL_Pts_T,Devon
+5,5,00:13,92,87,CEA,LL_Pts_C,Devon
+6,5,00:13,91,87,CEA,FR,Devon
+7,5,00:13,91,87,LSB,FC,Verson
+8,5,00:16,91,87,CEA,tempo_tecnico,Basquete Cearense
+9,5,00:16,91,87,LSB,2_Pts_C,Cox
+10,5,00:21,91,85,LSB,tempo_tecnico,Liga Sorocabana
+11,5,00:21,91,85,CEA,3_Pts_C,Felipe
+12,5,00:37,88,85,LSB,3_Pts_C,Cox
+13,5,00:53,88,82,LSB,RD,Smith
+14,5,00:53,88,82,CEA,LL_Pts_T,Jimmy
+15,5,00:53,88,82,CEA,FR,Jimmy
+16,5,00:53,88,82,LSB,FC,Thiaguinho
+17,5,01:01,88,82,CEA,2_Pts_C,Jimmy
+18,5,01:01,86,82,CEA,AS,André Góes
+19,5,01:12,86,82,CEA,RD,Jimmy
+20,5,01:12,86,82,LSB,3_Pts_T,Luiz Felipe
+21,5,01:23,86,82,CEA,EN,Felipe
+22,5,01:46,84,82,CEA,RD,Felipe
+23,5,01:46,84,82,LSB,3_Pts_T,Verson
+24,5,02:03,84,82,LSB,RD,Smith
+25,5,02:03,84,82,CEA,3_Pts_T,Jimmy
+26,5,02:16,84,82,LSB,LL_Pts_C,Smith
+27,5,02:16,84,81,LSB,LL_Pts_C,Smith
+28,5,02:16,84,80,LSB,FR,Smith
+29,5,02:16,84,80,CEA,FC,André Góes
+30,5,02:28,84,80,CEA,2_Pts_C,Jimmy
+31,5,02:28,82,80,CEA,AS,André Góes
+32,5,02:46,82,80,CEA,RO,Brown
+33,5,02:46,82,80,CEA,3_Pts_T,Jimmy
+34,5,03:02,82,80,LSB,substituicao_entra,Verson
+35,5,03:02,82,80,LSB,substituicao_sai,De Bem
+36,5,03:02,82,80,LSB,ER,Luiz Felipe
+37,5,03:16,82,80,LSB,RD,Thiaguinho
+38,5,03:16,82,80,CEA,2_Pts_T,André Góes
+39,5,03:30,82,80,CEA,RD,Devon
+40,5,03:30,82,80,LSB,2_Pts_T,De Bem
+41,5,03:49,82,80,CEA,3_Pts_C,Felipe
+42,5,03:53,79,80,CEA,RO,Basquete Cearense
+43,5,03:53,79,80,CEA,2_Pts_T,Devon
+44,5,04:07,79,80,CEA,LL_Pts_C,Felipe
+45,5,04:07,78,80,CEA,LL_Pts_T,Felipe
+46,5,04:07,78,80,CEA,FR,Felipe
+47,5,04:07,78,80,LSB,FC_A,De Bem
+48,5,04:21,78,80,CEA,RD,Felipe
+49,5,04:21,78,80,LSB,2_Pts_T,Smith
+50,5,04:39,78,80,LSB,RD,Smith
+51,5,04:39,78,80,CEA,2_Pts_T,Devon
+52,5,04:51,78,80,LSB,LL_Pts_C,De Bem
+53,5,04:51,78,79,LSB,LL_Pts_C,De Bem
+54,5,04:51,78,78,LSB,FR,De Bem
+55,5,04:51,78,78,CEA,FC,Felipe
+56,5,04:51,78,78,LSB,substituicao_entra,Cox
+57,5,04:51,78,78,LSB,substituicao_sai,Cox
+58,5,04:52,78,78,LSB,substituicao_entra,De Bem
+59,5,04:53,78,78,LSB,substituicao_sai,Verson
+60,4,00:01,78,78,LSB,LL_Pts_C,Cox
+61,4,00:01,78,77,LSB,LL_Pts_C,Cox
+62,4,00:01,78,76,LSB,LL_Pts_C,Cox
+63,4,00:01,78,75,LSB,FR,Cox
+64,4,00:01,78,75,CEA,FC,Brown
+65,4,00:03,78,75,LSB,substituicao_entra,Verson
+66,4,00:03,78,75,LSB,substituicao_sai,De Bem
+67,4,00:03,78,75,LSB,tempo_tecnico,Liga Sorocabana
+68,4,00:03,78,75,CEA,3_Pts_C,Brown
+69,4,00:08,75,75,CEA,RD,Brown
+70,4,00:08,75,75,LSB,3_Pts_T,Cox
+71,4,00:36,75,75,CEA,3_Pts_C,Brown
+72,4,00:40,72,75,CEA,tempo_tecnico,Basquete Cearense
+73,4,00:40,72,75,LSB,LL_Pts_C,Smith
+74,4,00:40,72,74,LSB,LL_Pts_C,Smith
+75,4,00:40,72,73,LSB,FR,Smith
+76,4,00:40,72,73,CEA,FC,André Góes
+77,4,00:40,72,73,LSB,RD,Smith
+78,4,00:40,72,73,CEA,3_Pts_T,André Góes
+79,4,00:51,72,73,CEA,RO,Basquete Cearense
+80,4,00:51,72,73,CEA,2_Pts_T,Jimmy
+81,4,00:51,72,73,CEA,BR,Jimmy
+82,4,00:51,72,73,LSB,ER,Thiaguinho
+83,4,00:58,72,73,CEA,LL_Pts_C,André Góes
+84,4,00:58,71,73,CEA,LL_Pts_C,André Góes
+85,4,00:58,70,73,CEA,LL_Pts_C,André Góes
+86,4,01:02,69,73,CEA,FR,André Góes
+87,4,01:02,69,73,LSB,FC,Cox
+88,4,01:05,69,73,CEA,tempo_tecnico,Basquete Cearense
+89,4,01:05,69,73,LSB,LL_Pts_C,Cox
+90,4,01:05,69,72,LSB,LL_Pts_C,Cox
+91,4,01:05,69,71,LSB,FR,Cox
+92,4,01:05,69,71,CEA,FC,Felipe
+93,4,01:22,69,71,CEA,3_Pts_C,Jimmy
+94,4,01:33,66,71,CEA,RD,Brown
+95,4,01:33,66,71,LSB,2_Pts_T,Thiaguinho
+96,4,01:41,66,71,LSB,substituicao_entra,De Bem
+97,4,01:41,66,71,LSB,substituicao_sai,Cipriano
+98,4,01:41,66,71,LSB,FR,Cipriano
+99,4,01:41,66,71,CEA,FC,Devon
+100,4,01:41,66,71,CEA,FR,Devon
+101,4,01:41,66,71,LSB,FC,Cipriano
+102,4,01:53,66,71,CEA,3_Pts_C,Felipe
+103,4,01:53,63,71,CEA,AS,André Góes
+104,4,02:11,63,71,CEA,RD,Basquete Cearense
+105,4,02:11,63,71,LSB,3_Pts_T,Cox
+106,4,02:34,63,71,LSB,RD,Cipriano
+107,4,02:34,63,71,CEA,LL_Pts_T,Devon
+108,4,02:34,63,71,CEA,LL_Pts_T,Devon
+109,4,02:34,63,71,LSB,substituicao_entra,Cipriano
+110,4,02:34,63,71,LSB,substituicao_sai,Guilherme
+111,4,02:34,63,71,CEA,FR,Devon
+112,4,02:34,63,71,LSB,FC,Guilherme
+113,4,02:46,63,71,LSB,RD,Guilherme
+114,4,02:46,63,71,CEA,3_Pts_T,André Góes
+115,4,03:03,63,71,CEA,tempo_tecnico,Basquete Cearense
+116,4,03:03,63,71,CEA,substituicao_entra,Brown
+117,4,03:03,63,71,CEA,substituicao_sai,Davi
+118,4,03:05,63,71,LSB,2_Pts_C,Thiaguinho
+119,4,03:12,63,69,LSB,LL_Pts_C,Smith
+120,4,03:12,63,68,LSB,LL_Pts_C,Smith
+121,4,03:12,63,67,LSB,FR,Smith
+122,4,03:12,63,67,CEA,FC_A,Felipe
+123,4,03:35,63,67,LSB,RD,Cox
+124,4,03:35,63,67,CEA,3_Pts_T,Jimmy
+125,4,03:56,63,67,CEA,RD,Devon
+126,4,03:56,63,67,LSB,2_Pts_T,Cox
+127,4,03:59,63,67,LSB,FR,Cox
+128,4,03:59,63,67,CEA,FC,Davi
+129,4,04:06,63,67,LSB,BR,Liga Sorocabana
+130,4,04:06,63,67,CEA,ER,André Góes
+131,4,04:12,63,67,CEA,BR,Devon
+132,4,04:12,63,67,LSB,ER,Guilherme
+133,4,04:35,63,67,LSB,RD,Smith
+134,4,04:35,63,67,CEA,2_Pts_T,André Góes
+135,4,04:50,63,67,CEA,RD,Davi
+136,4,04:50,63,67,LSB,3_Pts_T,Thiaguinho
+137,4,05:10,63,67,CEA,substituicao_entra,André Góes
+138,4,05:10,63,67,CEA,substituicao_sai,Brown
+139,4,05:13,63,67,LSB,BR,Liga Sorocabana
+140,4,05:13,63,67,CEA,ER,Davi
+141,4,05:23,63,67,LSB,LL_Pts_C,Smith
+142,4,05:23,63,66,LSB,2_Pts_C,Smith
+143,4,05:23,63,64,LSB,FR,Smith
+144,4,05:23,63,64,CEA,FC,Davi
+145,4,05:40,63,64,LSB,substituicao_entra,Luiz Felipe
+146,4,05:40,63,64,LSB,substituicao_sai,Cipriano
+147,4,05:40,63,64,LSB,FR,Smith
+148,4,05:40,63,64,CEA,FC,Davi
+149,4,05:47,63,64,LSB,BR,Cipriano
+150,4,05:47,63,64,CEA,ER,Brown
+151,4,06:03,63,64,LSB,2_Pts_C,Thiaguinho
+152,4,06:24,63,62,CEA,3_Pts_C,Jimmy
+153,4,06:24,60,62,CEA,AS,Brown
+154,4,06:41,60,62,CEA,substituicao_entra,Davi
+155,4,06:41,60,62,CEA,substituicao_sai,Matheus
+156,4,06:41,60,62,CEA,FR,Felipe
+157,4,06:41,60,62,LSB,FC,Cipriano
+158,4,06:47,60,62,CEA,RD,Felipe
+159,4,06:47,60,62,LSB,3_Pts_T,Cox
+160,4,07:04,60,62,LSB,RD,Cox
+161,4,07:04,60,62,CEA,2_Pts_T,Brown
+162,4,07:20,60,62,LSB,3_Pts_C,Cox
+163,4,07:29,60,59,LSB,BR,Smith
+164,4,07:29,60,59,CEA,ER,Felipe
+165,4,07:42,60,59,LSB,3_Pts_C,Cox
+166,4,07:52,60,56,CEA,LL_Pts_T,Devon
+167,4,07:56,60,56,CEA,2_Pts_C,Devon
+168,4,07:56,58,56,CEA,FR,Devon
+169,4,07:56,58,56,LSB,FC,Guilherme
+170,4,08:10,58,56,LSB,substituicao_entra,Cipriano
+171,4,08:10,58,56,LSB,substituicao_sai,Verson
+172,4,08:10,58,56,CEA,FR,Devon
+173,4,08:10,58,56,LSB,FC,Verson
+174,4,08:22,58,56,LSB,3_Pts_C,Guilherme
+175,4,08:22,58,53,LSB,AS,Smith
+176,4,08:38,58,53,CEA,3_Pts_C,Matheus
+177,4,08:38,55,53,CEA,AS,Felipe
+178,4,08:39,55,53,CEA,FR,Devon
+179,4,08:39,55,53,LSB,FC,Verson
+180,4,08:49,55,53,CEA,RD,Brown
+181,4,08:49,55,53,LSB,3_Pts_T,Smith
+182,4,09:10,55,53,LSB,BR,Liga Sorocabana
+183,4,09:10,55,53,CEA,ER,Matheus
+184,4,09:17,55,53,LSB,2_Pts_C,Smith
+185,4,09:26,55,51,LSB,RO,Smith
+186,4,09:26,55,51,LSB,3_Pts_T,Verson
+187,4,09:31,55,51,LSB,RO,Liga Sorocabana
+188,4,09:31,55,51,CEA,TO,Felipe
+189,4,09:31,55,51,LSB,2_Pts_T,Verson
+190,4,09:46,55,51,LSB,FR,Verson
+191,4,09:46,55,51,CEA,FC_O,Devon
+192,4,09:50,55,51,CEA,RO,Jimmy
+193,4,09:50,55,51,CEA,2_Pts_T,Felipe
+194,3,00:00,55,51, ,fim_quarto,
+195,3,00:01,55,51,LSB,3_Pts_T,De Bem
+196,3,00:08,55,51,CEA,LL_Pts_C,Jimmy
+197,3,00:08,54,51,CEA,LL_Pts_T,Jimmy
+198,3,00:08,54,51,CEA,FR,Jimmy
+199,3,00:08,54,51,LSB,FC,De Bem
+200,3,00:14,54,51,LSB,substituicao_entra,De Bem
+201,3,00:14,54,51,LSB,substituicao_sai,Smith
+202,3,00:14,54,51,CEA,FR,Devon
+203,3,00:14,54,51,LSB,FC,Cipriano
+204,3,00:29,54,51,LSB,ER,
+205,3,00:29,54,51,LSB,RO,Cipriano
+206,3,00:29,54,51,LSB,3_Pts_T,Thiaguinho
+207,3,00:56,54,51,CEA,2_Pts_C,Devon
+208,3,00:56,52,51,CEA,AS,Brown
+209,3,01:06,52,51,CEA,RD,Felipe
+210,3,01:06,52,51,CEA,TO,Devon
+211,3,01:06,52,51,LSB,2_Pts_T,Cipriano
+212,3,01:31,52,51,LSB,RD,Liga Sorocabana
+213,3,01:31,52,51,CEA,2_Pts_T,Devon
+214,3,01:42,52,51,CEA,RD,Felipe
+215,3,01:42,52,51,LSB,2_Pts_T,Cipriano
+216,3,01:52,52,51,LSB,FR,Luiz Felipe
+217,3,01:52,52,51,CEA,FC,Matheus
+218,3,02:02,52,51,LSB,BR,Cox
+219,3,02:02,52,51,CEA,ER,Brown
+220,3,02:10,52,51,LSB,3_Pts_C,Cox
+221,3,02:21,52,48,LSB,FR,Smith
+222,3,02:21,52,48,CEA,FC,Felipe
+223,3,02:27,52,48,LSB,RD,Smith
+224,3,02:27,52,48,CEA,2_Pts_T,Jimmy
+225,3,02:43,52,48,CEA,RD,Felipe
+226,3,02:43,52,48,LSB,2_Pts_T,Smith
+227,3,03:08,52,48,LSB,substituicao_entra,Cipriano
+228,3,03:08,52,48,LSB,substituicao_sai,Guilherme
+229,3,03:08,52,48,CEA,2_Pts_C,Felipe
+230,3,03:08,50,48,CEA,AS,Matheus
+231,3,03:09,50,48,CEA,RO,Felipe
+232,3,03:11,50,48,CEA,2_Pts_T,Felipe
+233,3,03:18,50,48,LSB,tempo_tecnico,Liga Sorocabana
+234,3,03:25,50,48,CEA,RD,Devon
+235,3,03:25,50,48,LSB,2_Pts_T,Smith
+236,3,03:35,50,48,LSB,BR,Liga Sorocabana
+237,3,03:35,50,48,CEA,ER,Brown
+238,3,03:40,50,48,CEA,BR,Brown
+239,3,03:40,50,48,LSB,ER,Luiz Felipe
+240,3,03:50,50,48,CEA,2_Pts_C,Brown
+241,3,03:50,48,48,CEA,AS,Jimmy
+242,3,04:05,48,48,CEA,RO,Jimmy
+243,3,04:05,48,48,CEA,3_Pts_T,Matheus
+244,3,04:10,48,48,CEA,RO,Brown
+245,3,04:10,48,48,CEA,3_Pts_T,Jimmy
+246,3,04:39,48,48,LSB,3_Pts_C,Cox
+247,3,04:53,48,45,CEA,substituicao_entra,Matheus
+248,3,04:53,48,45,CEA,substituicao_sai,Sualisson
+249,3,04:53,48,45,LSB,FR,Luiz Felipe
+250,3,04:53,48,45,CEA,FC,Sualisson
+251,3,05:08,48,45,LSB,RD,Guilherme
+252,3,05:08,48,45,LSB,TO,Guilherme
+253,3,05:08,48,45,CEA,2_Pts_T,Sualisson
+254,3,05:22,48,45,LSB,2_Pts_C,Guilherme
+255,3,05:22,48,43,LSB,AS,Luiz Felipe
+256,3,05:38,48,43,CEA,3_Pts_C,Brown
+257,3,05:38,45,43,CEA,AS,Devon
+258,3,05:52,45,43,LSB,3_Pts_C,Luiz Felipe
+259,3,05:52,45,40,LSB,AS,Thiaguinho
+260,3,06:18,45,40,CEA,2_Pts_C,Sualisson
+261,3,06:18,43,40,CEA,AS,Devon
+262,3,06:33,43,40,LSB,2_Pts_C,Guilherme
+263,3,06:33,43,38,LSB,AS,Thiaguinho
+264,3,06:53,43,38,LSB,RD,Cox
+265,3,06:53,43,38,LSB,TO,Smith
+266,3,06:53,43,38,CEA,2_Pts_T,Felipe
+267,3,06:56,43,38,CEA,RO,Felipe
+268,3,06:56,43,38,CEA,LL_Pts_T,Felipe
+269,3,06:59,43,38,CEA,2_Pts_C,Felipe
+270,3,06:59,41,38,CEA,FR,Felipe
+271,3,06:59,41,38,LSB,FC,Cox
+272,3,07:03,41,38,CEA,RO,Felipe
+273,3,07:03,41,38,CEA,3_Pts_T,Brown
+274,3,07:19,41,38,LSB,2_Pts_C,Luiz Felipe
+275,3,07:41,41,36,CEA,2_Pts_C,Sualisson
+276,3,07:41,39,36,CEA,AS,Jimmy
+277,3,07:48,39,36,CEA,BR,Jimmy
+278,3,07:48,39,36,LSB,ER,Smith
+279,3,08:00,39,36,LSB,RD,Luiz Felipe
+280,3,08:00,39,36,CEA,2_Pts_T,Felipe
+281,3,08:08,39,36,CEA,FR,Devon
+282,3,08:08,39,36,LSB,FC,Guilherme
+283,3,08:29,39,36,LSB,3_Pts_C,Smith
+284,3,08:29,39,33,LSB,AS,Cox
+285,3,08:47,39,33,CEA,EN,Devon
+286,3,08:47,37,33,CEA,AS,Jimmy
+287,3,09:02,37,33,CEA,RD,Felipe
+288,3,09:02,37,33,LSB,2_Pts_T,Cox
+289,3,09:15,37,33,LSB,RD,Smith
+290,3,09:15,37,33,CEA,2_Pts_T,Sualisson
+291,3,09:35,37,33,CEA,RD,Felipe
+292,3,09:35,37,33,LSB,2_Pts_T,Luiz Felipe
+293,2,00:00,37,33, ,fim_quarto,
+294,2,00:03,37,33,CEA,RD,Brown
+295,2,00:03,37,33,LSB,3_Pts_T,Diego Gomes
+296,2,00:10,37,33,CEA,2_Pts_C,Felipe
+297,2,00:13,35,33,CEA,BR,Brown
+298,2,00:13,35,33,LSB,ER,Smith
+299,2,00:14,35,33,LSB,substituicao_entra,Diego Gomes
+300,2,00:14,35,33,LSB,substituicao_sai,De Bem
+301,2,00:14,35,33,LSB,substituicao_entra,Cox
+302,2,00:14,35,33,LSB,substituicao_sai,Luiz Felipe
+303,2,00:14,35,33,LSB,tempo_tecnico,Liga Sorocabana
+304,2,00:14,35,33,CEA,LL_Pts_C,Matheus
+305,2,00:14,34,33,CEA,LL_Pts_C,Matheus
+306,2,00:14,33,33,CEA,FR,Matheus
+307,2,00:14,33,33,LSB,FC,De Bem
+308,2,00:15,33,33,CEA,RD,Basquete Cearense
+309,2,00:15,33,33,LSB,2_Pts_T,Smith
+310,2,00:36,33,33,LSB,RD,Smith
+311,2,00:36,33,33,CEA,2_Pts_T,Devon
+312,2,00:48,33,33,LSB,LL_Pts_C,Smith
+313,2,00:48,33,32,LSB,LL_Pts_C,Smith
+314,2,00:48,33,31,LSB,FR,Smith
+315,2,00:48,33,31,CEA,FC,Sualisson
+316,2,01:07,33,31,CEA,2_Pts_C,Sualisson
+317,2,01:10,31,31,CEA,RO,Sualisson
+318,2,01:10,31,31,CEA,2_Pts_T,Felipe
+319,2,01:24,31,31,CEA,substituicao_entra,Devon
+320,2,01:24,31,31,CEA,substituicao_sai,Erick Camilo
+321,2,01:24,31,31,LSB,substituicao_entra,Smith
+322,2,01:24,31,31,LSB,substituicao_sai,Cox
+323,2,01:24,31,31,LSB,tempo_tecnico,Liga Sorocabana
+324,2,01:24,31,31,CEA,RD,Basquete Cearense
+325,2,01:24,31,31,LSB,3_Pts_T,Verson
+326,2,01:43,31,31,LSB,RD,De Bem
+327,2,01:43,31,31,CEA,3_Pts_T,Brown
+328,2,01:48,31,31,CEA,BR,Basquete Cearense
+329,2,01:48,31,31,LSB,ER,Thiaguinho
+330,2,02:03,31,31,CEA,LL_Pts_C,Brown
+331,2,02:03,30,31,CEA,LL_Pts_C,Brown
+332,2,02:03,29,31,LSB,substituicao_entra,Luiz Felipe
+333,2,02:03,29,31,LSB,substituicao_sai,Smith
+334,2,02:03,29,31,LSB,substituicao_entra,De Bem
+335,2,02:03,29,31,LSB,substituicao_sai,Lupa
+336,2,02:03,29,31,CEA,FR,Brown
+337,2,02:03,29,31,LSB,FC,Lupa
+338,2,02:15,29,31,LSB,2_Pts_C,Smith
+339,2,02:20,29,29,LSB,RO,Smith
+340,2,02:20,29,29,LSB,2_Pts_T,Cox
+341,2,02:36,29,29,LSB,BR,Smith
+342,2,02:36,29,29,CEA,ER,Sualisson
+343,2,02:42,29,29,CEA,RO,Sualisson
+344,2,02:42,29,29,CEA,3_Pts_T,Matheus
+345,2,02:56,29,29,CEA,2_Pts_T,Felipe
+346,2,03:10,29,29,LSB,substituicao_entra,Verson
+347,2,03:10,29,29,LSB,substituicao_sai,Cipriano
+348,2,03:10,29,29,CEA,FR,Felipe
+349,2,03:10,29,29,LSB,FC,Cipriano
+350,2,03:15,29,29,CEA,BR,Felipe
+351,2,03:15,29,29,LSB,ER,Cipriano
+352,2,03:25,29,29,CEA,ER,Brown
+353,2,03:43,29,29,CEA,RD,Felipe
+354,2,03:43,29,29,LSB,2_Pts_T,Cipriano
+355,2,03:55,29,29,CEA,substituicao_entra,Brown
+356,2,03:55,29,29,CEA,substituicao_sai,Victor
+357,2,03:55,29,29,CEA,LL_Pts_C,Victor
+358,2,03:55,28,29,CEA,LL_Pts_T,Victor
+359,2,03:55,28,29,CEA,substituicao_entra,Erick Camilo
+360,2,03:55,28,29,CEA,substituicao_sai,Devon
+361,2,03:55,28,29,LSB,substituicao_entra,Lupa
+362,2,03:55,28,29,LSB,substituicao_sai,Guilherme
+363,2,03:55,28,29,CEA,FR,Victor
+364,2,03:55,28,29,LSB,FC,Guilherme
+365,2,04:11,28,29,LSB,2_Pts_C,Cox
+366,2,04:17,28,27,LSB,RD,Smith
+367,2,04:17,28,27,CEA,2_Pts_T,Devon
+368,2,04:35,28,27,CEA,BR,Basquete Cearense
+369,2,04:35,28,27,LSB,ER,Cox
+370,2,04:55,28,27,LSB,BR,Liga Sorocabana
+371,2,04:55,28,27,CEA,ER,Victor
+372,2,05:27,28,27,CEA,tempo_tecnico,Basquete Cearense
+373,2,05:27,28,27,CEA,RD,Devon
+374,2,05:27,28,27,LSB,2_Pts_T,Guilherme
+375,2,05:33,28,27,CEA,substituicao_entra,Sualisson
+376,2,05:33,28,27,CEA,substituicao_sai,Nick
+377,2,05:33,28,27,LSB,substituicao_entra,Guilherme
+378,2,05:33,28,27,LSB,substituicao_sai,De Bem
+379,2,05:33,28,27,LSB,substituicao_entra,Thiaguinho
+380,2,05:33,28,27,LSB,substituicao_sai,Luiz Felipe
+381,2,05:33,28,27,CEA,substituicao_entra,Felipe
+382,2,05:33,28,27,CEA,substituicao_sai,Drudi
+383,2,05:48,28,27,LSB,RD,Cox
+384,2,05:48,28,27,CEA,2_Pts_T,Victor
+385,2,05:55,28,27,CEA,RD,Nick
+386,2,05:55,28,27,LSB,2_Pts_T,Luiz Felipe
+387,2,06:15,28,27,CEA,2_Pts_C,Drudi
+388,2,06:15,26,27,CEA,AS,Victor
+389,2,06:23,26,27,CEA,RD,Devon
+390,2,06:23,26,27,LSB,2_Pts_T,Smith
+391,2,06:29,26,27,LSB,RD,Cipriano
+392,2,06:29,26,27,CEA,2_Pts_T,Nick
+393,2,06:38,26,27,LSB,LL_Pts_C,Cipriano
+394,2,06:38,26,26,LSB,AS,Smith
+395,2,06:42,26,26,LSB,2_Pts_C,Cipriano
+396,2,06:42,26,24,LSB,FR,Cipriano
+397,2,06:42,26,24,CEA,FC,Nick
+398,2,07:01,26,24,CEA,2_Pts_C,Drudi
+399,2,07:01,24,24,CEA,AS,Matheus
+400,2,07:05,24,24,LSB,LL_Pts_C,Smith
+401,2,07:05,24,23,LSB,LL_Pts_C,Smith
+402,2,07:08,24,22,LSB,FR,Smith
+403,2,07:08,24,22,CEA,FC,Drudi
+404,2,07:14,24,22,LSB,RO,Cipriano
+405,2,07:14,24,22,LSB,3_Pts_T,De Bem
+406,2,07:20,24,22,CEA,substituicao_entra,Victor
+407,2,07:20,24,22,CEA,substituicao_sai,Brown
+408,2,07:20,24,22,CEA,FR,Brown
+409,2,07:20,24,22,LSB,FC,Luiz Felipe
+410,2,07:20,24,22,LSB,FR,Luiz Felipe
+411,2,07:20,24,22,CEA,FC,Brown
+412,2,07:44,24,22,CEA,2_Pts_C,Devon
+413,2,07:46,22,22,CEA,BR,Basquete Cearense
+414,2,07:46,22,22,LSB,ER,Luiz Felipe
+415,2,08:04,22,22,LSB,RD,Cipriano
+416,2,08:04,22,22,CEA,2_Pts_T,Drudi
+417,2,08:20,22,22,CEA,RD,Drudi
+418,2,08:20,22,22,LSB,2_Pts_T,Cipriano
+419,2,08:43,22,22,CEA,2_Pts_C,Brown
+420,2,08:52,20,22,LSB,2_Pts_C,Luiz Felipe
+421,2,09:11,20,20,CEA,LL_Pts_C,Drudi
+422,2,09:11,19,20,CEA,FR,Drudi
+423,2,09:11,19,20,LSB,FC,Cipriano
+424,2,09:22,19,20,CEA,2_Pts_C,Drudi
+425,2,09:22,17,20,CEA,AS,Brown
+426,2,09:30,17,20,CEA,RD,Devon
+427,2,09:30,17,20,LSB,3_Pts_T,Luiz Felipe
+428,2,09:40,17,20,LSB,RO,Liga Sorocabana
+429,2,09:40,17,20,CEA,TO,Devon
+430,2,09:40,17,20,LSB,2_Pts_T,Cipriano
+431,1,00:00,17,20, ,fim_quarto,
+432,1,00:02,17,20,CEA,2_Pts_T,Drudi
+433,1,00:04,17,20,CEA,FR,Matheus
+434,1,00:04,17,20,LSB,FC,Guilherme
+435,1,00:10,17,20,CEA,FR,Brown
+436,1,00:10,17,20,LSB,FC,Thiaguinho
+437,1,00:18,17,20,CEA,RD,Brown
+438,1,00:18,17,20,LSB,3_Pts_T,Cox
+439,1,00:46,17,20,CEA,2_Pts_C,Brown
+440,1,01:05,15,20,LSB,2_Pts_C,Guilherme
+441,1,01:25,15,18,CEA,LL_Pts_C,Brown
+442,1,01:25,14,18,CEA,LL_Pts_C,Brown
+443,1,01:25,13,18,CEA,LL_Pts_C,Brown
+444,1,01:25,12,18,CEA,substituicao_entra,Nick
+445,1,01:25,12,18,CEA,substituicao_sai,Jimmy
+446,1,01:25,12,18,CEA,substituicao_entra,Matheus
+447,1,01:25,12,18,CEA,substituicao_sai,Davi
+448,1,01:29,12,18,CEA,FR,Brown
+449,1,01:29,12,18,LSB,FC,Verson
+450,1,01:46,12,18,LSB,3_Pts_C,Verson
+451,1,01:46,12,15,LSB,AS,Cox
+452,1,01:54,12,15,LSB,BR,Liga Sorocabana
+453,1,01:54,12,15,CEA,ER,Jimmy
+454,1,02:36,12,15,LSB,3_Pts_C,Cox
+455,1,02:36,12,12,LSB,AS,Smith
+456,1,02:38,12,12,CEA,ER,
+457,1,03:02,12,12,LSB,2_Pts_C,Smith
+458,1,03:16,12,10,CEA,2_Pts_C,Drudi
+459,1,03:16,10,10,CEA,AS,Davi
+460,1,03:32,10,10,LSB,3_Pts_C,Thiaguinho
+461,1,03:32,10,7,LSB,AS,Verson
+462,1,03:58,10,7,LSB,substituicao_entra,Verson
+463,1,04:00,10,7,LSB,substituicao_sai,Alfredo
+464,1,04:10,10,7,LSB,RD,Liga Sorocabana
+465,1,04:10,10,7,CEA,2_Pts_T,Drudi
+466,1,04:15,10,7,CEA,RO,Brown
+467,1,04:15,10,7,LSB,TO,Thiaguinho
+468,1,04:15,10,7,CEA,2_Pts_T,Brown
+469,1,04:36,10,7,LSB,3_Pts_C,Thiaguinho
+470,1,04:36,10,4,LSB,AS,Smith
+471,1,04:59,10,4,CEA,2_Pts_C,Brown
+472,1,05:03,8,4,LSB,FC,Smith
+473,1,05:10,8,4,CEA,RD,Basquete Cearense
+474,1,05:10,8,4,LSB,2_Pts_T,Thiaguinho
+475,1,05:16,8,4,CEA,substituicao_entra,Drudi
+476,1,05:16,8,4,CEA,substituicao_sai,Felipe
+477,1,05:22,8,4,LSB,RD,Liga Sorocabana
+478,1,05:22,8,4,CEA,2_Pts_T,Felipe
+479,1,06:03,8,4,CEA,FR,Felipe
+480,1,06:39,8,4,CEA,RO,Felipe
+481,1,06:39,8,4,CEA,3_Pts_T,Felipe
+482,1,06:39,8,4,CEA,RD,Brown
+483,1,06:39,8,4,LSB,2_Pts_T,Guilherme
+484,1,06:39,8,4,CEA,2_Pts_C,Jimmy
+485,1,06:39,6,4,CEA,RD,Brown
+486,1,06:39,6,4,LSB,2_Pts_T,Thiaguinho
+487,1,06:39,6,4,LSB,RD,Thiaguinho
+488,1,06:39,6,4,CEA,3_Pts_T,Brown
+489,1,06:51,6,4,CEA,RD,Davi
+490,1,06:51,6,4,LSB,3_Pts_T,Alfredo
+491,1,07:02,6,4,LSB,RD,Thiaguinho
+492,1,07:02,6,4,CEA,3_Pts_T,Jimmy
+493,1,07:22,6,4,LSB,2_Pts_C,Cox
+494,1,07:35,6,2,LSB,RO,Guilherme
+495,1,07:35,6,2,LSB,3_Pts_T,Alfredo
+496,1,07:54,6,2,CEA,2_Pts_C,Brown
+497,1,07:54,4,2,CEA,AS,Davi
+498,1,08:11,4,2,CEA,RO,Basquete Cearense
+499,1,08:11,4,2,LSB,TO,Guilherme
+500,1,08:11,4,2,CEA,2_Pts_T,Davi
+501,1,08:30,4,2,LSB,EN,Guilherme
+502,1,08:47,4,0,CEA,2_Pts_C,Brown
+503,1,08:57,2,0,CEA,RD,Jimmy
+504,1,08:57,2,0,LSB,2_Pts_T,Smith
+505,1,09:19,2,0,CEA,EN,Devon
+506,1,09:19,0,0,CEA,AS,Davi
+507,1,09:28,0,0,CEA,RD,Felipe
+508,1,09:28,0,0,LSB,2_Pts_T,Guilherme
+509,1,09:45,0,0,LSB,BR,Cox
+510,1,09:45,0,0,CEA,ER,Felipe
+511,1,10:00,0,0,CEA,substituicao_entra,Felipe
+512,1,10:00,0,0,CEA,substituicao_entra,Devon
+513,1,10:00,0,0,CEA,substituicao_entra,Jimmy
+514,1,10:00,0,0,CEA,substituicao_entra,Brown
+515,1,10:00,0,0,CEA,substituicao_entra,Davi
+516,1,10:00,0,0,LSB,substituicao_entra,Guilherme
+517,1,10:00,0,0,LSB,substituicao_entra,Smith
+518,1,10:00,0,0,LSB,substituicao_entra,Cox
+519,1,10:00,0,0,LSB,substituicao_entra,Alfredo
+520,1,10:00,0,0,LSB,substituicao_entra,Thiaguinho

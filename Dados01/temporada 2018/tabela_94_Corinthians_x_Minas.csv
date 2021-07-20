@@ -1,0 +1,565 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,97,82,,fim_partida,
+1,4,00:00,97,82,,fim_quarto,
+2,4,00:00,97,82,COR,RD,Gui Bento
+3,4,00:02,97,82,MIN,3_Pts_T,Wesley
+4,4,00:04,97,82,MIN,RD,Jefferson
+5,4,00:04,97,82,COR,3_Pts_T,Fuller
+6,4,00:10,97,82,COR,RO,Shilton
+7,4,00:13,97,82,COR,3_Pts_T,Gui Bento
+8,4,00:33,97,82,MIN,AS,Jefferson
+9,4,00:33,97,82,MIN,2_Pts_C,Wesley
+10,4,00:36,97,80,MIN,RD,Wesley
+11,4,00:37,97,80,COR,LL_Pts_T,Shilton
+12,4,00:37,97,80,COR,LL_Pts_T,Shilton
+13,4,00:37,97,80,MIN,substituicao_entra,Augusto
+14,4,00:37,97,80,MIN,substituicao_sai,Leandrinho
+15,4,00:37,97,80,COR,substituicao_entra,Douglas Santos
+16,4,00:37,97,80,COR,substituicao_sai,Giovannoni
+17,4,00:37,97,80,COR,FR,Shilton
+18,4,00:37,97,80,MIN,FC,Wesley
+19,4,00:37,97,80,COR,RD,Shilton
+20,4,00:38,97,80,MIN,3_Pts_T,D Coleman
+21,4,00:55,97,80,COR,AS,Parodi
+22,4,00:55,97,80,COR,3_Pts_C,Fuller
+23,4,01:18,94,80,MIN,substituicao_entra,Jefferson
+24,4,01:18,94,80,MIN,substituicao_sai,Gegê
+25,4,01:18,94,80,MIN,ER,Leandrinho
+26,4,01:20,94,80,MIN,RO,Minas
+27,4,01:20,94,80,MIN,2_Pts_T,Leandrinho
+28,4,01:31,94,80,COR,AS,Gui Bento
+29,4,01:31,94,80,COR,3_Pts_C,Giovannoni
+30,4,01:58,91,80,MIN,AS,Leandrinho
+31,4,01:58,91,80,MIN,3_Pts_C,Wesley
+32,4,02:13,91,77,COR,LL_Pts_C,Shilton
+33,4,02:13,90,77,COR,LL_Pts_C,Shilton
+34,4,02:13,89,77,MIN,substituicao_entra,Gegê
+35,4,02:13,89,77,MIN,substituicao_sai,Jefferson
+36,4,02:13,89,77,MIN,substituicao_entra,Paranhos
+37,4,02:13,89,77,MIN,substituicao_sai,Bob
+38,4,02:13,89,77,COR,FR,Shilton
+39,4,02:13,89,77,MIN,FC,Bob
+40,4,02:24,89,77,MIN,LL_Pts_C,Leandrinho
+41,4,02:24,89,76,MIN,LL_Pts_C,Leandrinho
+42,4,02:24,89,75,MIN,FR,Leandrinho
+43,4,02:24,89,75,COR,FC,Fuller
+44,4,02:43,89,75,COR,AS,Fuller
+45,4,02:43,89,75,COR,2_Pts_C,Giovannoni
+46,4,02:51,87,75,COR,BR,Shilton
+47,4,02:51,87,75,MIN,ER,Jefferson
+48,4,03:06,87,75,MIN,tempo_tecnico,Minas
+49,4,03:09,87,75,COR,AS,Parodi
+50,4,03:09,87,75,COR,EN,Gui Bento
+51,4,03:30,85,75,COR,RD,Giovannoni
+52,4,03:32,85,75,MIN,LL_Pts_T,Leandrinho
+53,4,03:32,85,75,MIN,LL_Pts_C,Leandrinho
+54,4,03:32,85,74,MIN,FR,Leandrinho
+55,4,03:32,85,74,COR,FC,Giovannoni
+56,4,03:32,85,74,MIN,RD,Leandrinho
+57,4,03:36,85,74,COR,3_Pts_T,Fuller
+58,4,03:44,85,74,COR,RO,Shilton
+59,4,03:47,85,74,COR,3_Pts_T,Gui Bento
+60,4,03:58,85,74,COR,RD,Shilton
+61,4,04:01,85,74,MIN,3_Pts_T,D Coleman
+62,4,04:04,85,74,MIN,RD,Wesley
+63,4,04:09,85,74,COR,2_Pts_T,Giovannoni
+64,4,04:30,85,74,MIN,LL_Pts_C,Jefferson
+65,4,04:30,85,73,MIN,LL_Pts_C,Jefferson
+66,4,04:30,85,72,MIN,FR,Jefferson
+67,4,04:30,85,72,COR,FC,Giovannoni
+68,4,04:47,85,72,COR,LL_Pts_C,Fuller
+69,4,04:47,84,72,COR,LL_Pts_C,Fuller
+70,4,04:47,83,72,COR,FR,Fuller
+71,4,04:47,83,72,MIN,FC,Leandrinho
+72,4,04:47,83,72,COR,BR,Fuller
+73,4,04:47,83,72,MIN,ER,Leandrinho
+74,4,05:01,83,72,COR,LL_Pts_C,Giovannoni
+75,4,05:01,82,72,COR,LL_Pts_C,Giovannoni
+76,4,05:01,81,72,COR,FR,Giovannoni
+77,4,05:01,81,72,MIN,FC,D Coleman
+78,4,05:24,81,72,MIN,AS,Jefferson
+79,4,05:24,81,72,MIN,3_Pts_C,Bob
+80,4,05:27,81,69,MIN,RD,D Coleman
+81,4,05:30,81,69,COR,3_Pts_T,Gui Bento
+82,4,05:33,81,69,COR,RO,Shilton
+83,4,05:37,81,69,COR,2_Pts_T,Fuller
+84,4,06:02,81,69,MIN,AS,Jefferson
+85,4,06:02,81,69,MIN,3_Pts_C,Wesley
+86,4,06:07,81,66,COR,substituicao_entra,Gui Bento
+87,4,06:07,81,66,COR,substituicao_sai,Humberto
+88,4,06:16,81,66,MIN,FR,Jefferson
+89,4,06:16,81,66,COR,FC,Humberto
+90,4,06:24,81,66,MIN,BR,Leandrinho
+91,4,06:24,81,66,COR,ER,Fuller
+92,4,06:31,81,66,COR,RD,Shilton
+93,4,06:31,81,66,MIN,2_Pts_T,D Coleman
+94,4,06:36,81,66,COR,LL_Pts_C,Fuller
+95,4,06:36,80,66,COR,LL_Pts_C,Fuller
+96,4,06:36,79,66,COR,FR,Fuller
+97,4,06:36,79,66,MIN,FC,Wesley
+98,4,06:36,79,66,COR,RD,Fuller
+99,4,06:38,79,66,MIN,3_Pts_T,D Coleman
+100,4,06:49,79,66,MIN,LL_Pts_C,Leandrinho
+101,4,06:49,79,65,COR,substituicao_entra,Shilton
+102,4,06:49,79,65,COR,substituicao_sai,Teichmann
+103,4,06:49,79,65,COR,FC_T,Teichmann
+104,4,06:49,79,65,MIN,FR,Leandrinho
+105,4,06:49,79,65,COR,FC,Teichmann
+106,4,06:55,79,65,COR,AS,Giovannoni
+107,4,06:55,79,65,COR,EN,Teichmann
+108,4,06:58,77,65,COR,RD,Giovannoni
+109,4,07:04,77,65,COR,TO,Teichmann
+110,4,07:04,77,65,MIN,2_Pts_T,Wesley
+111,4,07:16,77,65,COR,substituicao_entra,Humberto
+112,4,07:16,77,65,COR,substituicao_sai,Gustavinho
+113,4,07:16,77,65,MIN,FR,Jefferson
+114,4,07:16,77,65,COR,FC,Gustavinho
+115,4,07:27,77,65,MIN,RD,Wesley
+116,4,07:33,77,65,COR,2_Pts_T,Gustavinho
+117,4,07:42,77,65,COR,BR,Parodi
+118,4,07:42,77,65,MIN,ER,Leandrinho
+119,4,07:58,77,65,COR,AS,Parodi
+120,4,07:58,77,65,COR,3_Pts_C,Fuller
+121,4,08:05,74,65,COR,FR,Fuller
+122,4,08:05,74,65,MIN,FC,D Coleman
+123,4,08:22,74,65,MIN,EN,Bob
+124,4,08:27,74,63,MIN,BR,Bob
+125,4,08:27,74,63,COR,ER,Parodi
+126,4,08:28,74,63,COR,FR,Parodi
+127,4,08:28,74,63,MIN,FC,Bob
+128,4,08:35,74,63,MIN,AS,Leandrinho
+129,4,08:35,74,63,MIN,2_Pts_C,Bob
+130,4,08:53,74,61,COR,2_Pts_C,Giovannoni
+131,4,09:15,72,61,MIN,AS,D Coleman
+132,4,09:15,72,61,MIN,3_Pts_C,Wesley
+133,4,09:31,72,58,COR,LL_Pts_C,Giovannoni
+134,4,09:31,71,58,COR,LL_Pts_C,Giovannoni
+135,4,09:31,70,58,COR,FR,Giovannoni
+136,4,09:31,70,58,MIN,FC,Bob
+137,4,09:44,70,58,COR,FR,Gustavinho
+138,4,09:44,70,58,MIN,FC,Leandrinho
+139,4,10:00,70,58,,inicio_quarto,
+140,3,00:00,70,58,,fim_quarto,
+141,3,00:01,70,58,MIN,RD,Leandrinho
+142,3,00:04,70,58,COR,2_Pts_T,Parodi
+143,3,00:22,70,58,MIN,LL_Pts_C,D Coleman
+144,3,00:22,70,57,MIN,LL_Pts_C,D Coleman
+145,3,00:22,70,56,COR,substituicao_entra,Parodi
+146,3,00:22,70,56,COR,substituicao_sai,Gui Bento
+147,3,00:22,70,56,COR,substituicao_entra,Giovannoni
+148,3,00:22,70,56,COR,substituicao_sai,Douglas Santos
+149,3,00:22,70,56,MIN,FR,D Coleman
+150,3,00:22,70,56,COR,FC,Douglas Santos
+151,3,00:30,70,56,COR,ER,Douglas Santos
+152,3,00:43,70,56,MIN,LL_Pts_C,Jefferson
+153,3,00:43,70,55,MIN,FR,Jefferson
+154,3,00:43,70,55,COR,FC,Gustavinho
+155,3,00:43,70,55,MIN,2_Pts_C,Jefferson
+156,3,00:53,70,53,COR,LL_Pts_C,Fuller
+157,3,00:53,69,53,COR,LL_Pts_C,Fuller
+158,3,00:53,68,53,COR,FR,Fuller
+159,3,00:53,68,53,MIN,FC,Jefferson
+160,3,01:04,68,53,MIN,substituicao_entra,D Coleman
+161,3,01:04,68,53,MIN,substituicao_sai,Leonardo
+162,3,01:10,68,53,MIN,ER,Bob
+163,3,01:14,68,53,MIN,RD,Wesley
+164,3,01:19,68,53,COR,2_Pts_T,Douglas Santos
+165,3,01:21,68,53,COR,RO,Teichmann
+166,3,01:25,68,53,COR,3_Pts_T,Gustavinho
+167,3,01:47,68,53,MIN,2_Pts_C,Wesley
+168,3,01:48,68,51,MIN,RO,Wesley
+169,3,01:52,68,51,MIN,3_Pts_T,Bob
+170,3,02:15,68,51,MIN,BR,Jefferson
+171,3,02:15,68,51,COR,ER,Douglas Santos
+172,3,02:31,68,51,MIN,3_Pts_C,Jefferson
+173,3,02:44,68,48,COR,AS,Gustavinho
+174,3,02:44,68,48,COR,EN,Teichmann
+175,3,02:50,66,48,COR,FR,Gui Bento
+176,3,02:50,66,48,MIN,FC,Bob
+177,3,03:02,66,48,MIN,ER,Wesley
+178,3,03:07,66,48,MIN,substituicao_entra,Leandrinho
+179,3,03:07,66,48,MIN,substituicao_sai,Lucas
+180,3,03:07,66,48,MIN,LL_Pts_C,Lucas
+181,3,03:07,66,47,MIN,LL_Pts_T,Lucas
+182,3,03:07,66,47,MIN,FR,Lucas
+183,3,03:07,66,47,COR,FC_A,Douglas Santos
+184,3,03:07,66,47,MIN,RD,Lucas
+185,3,03:07,66,47,COR,2_Pts_T,Douglas Santos
+186,3,03:10,66,47,COR,RD,Gustavinho
+187,3,03:15,66,47,COR,TO,Teichmann
+188,3,03:15,66,47,MIN,2_Pts_T,Lucas
+189,3,03:18,66,47,MIN,RO,Lucas
+190,3,03:21,66,47,MIN,2_Pts_T,Lucas
+191,3,03:36,66,47,COR,substituicao_entra,Douglas Santos
+192,3,03:36,66,47,COR,substituicao_sai,Giovannoni
+193,3,03:36,66,47,MIN,RD,Minas
+194,3,03:36,66,47,COR,3_Pts_T,Fuller
+195,3,04:01,66,47,MIN,LL_Pts_C,Jefferson
+196,3,04:01,66,46,COR,substituicao_entra,Gustavinho
+197,3,04:01,66,46,COR,substituicao_sai,Parodi
+198,3,04:01,66,46,MIN,FR,Jefferson
+199,3,04:01,66,46,COR,FC,Parodi
+200,3,04:01,66,46,MIN,2_Pts_C,Jefferson
+201,3,04:08,66,44,MIN,BR,Wesley
+202,3,04:08,66,44,COR,ER,Parodi
+203,3,04:13,66,44,COR,BR,Gui Bento
+204,3,04:13,66,44,MIN,ER,Lucas
+205,3,04:23,66,44,MIN,LL_Pts_T,Wesley
+206,3,04:23,66,44,MIN,LL_Pts_C,Wesley
+207,3,04:23,66,43,MIN,FR,Wesley
+208,3,04:23,66,43,COR,FC_A,Teichmann
+209,3,04:31,66,43,MIN,RD,Wesley
+210,3,04:35,66,43,COR,2_Pts_T,Teichmann
+211,3,04:40,66,43,COR,substituicao_entra,Teichmann
+212,3,04:40,66,43,COR,substituicao_sai,Shilton
+213,3,04:40,66,43,COR,RO,Corinthians
+214,3,04:41,66,43,COR,2_Pts_T,Parodi
+215,3,05:06,66,43,MIN,2_Pts_C,Leonardo
+216,3,05:20,66,41,MIN,RD,Leonardo
+217,3,05:24,66,41,COR,2_Pts_T,Fuller
+218,3,05:27,66,41,COR,RO,Corinthians
+219,3,05:28,66,41,MIN,TO,Wesley
+220,3,05:28,66,41,COR,2_Pts_T,Shilton
+221,3,05:37,66,41,MIN,ER,
+222,3,05:37,66,41,MIN,RO,Bob
+223,3,05:40,66,41,MIN,2_Pts_T,Leonardo
+224,3,06:03,66,41,COR,ER,
+225,3,06:10,66,41,COR,RO,Corinthians
+226,3,06:10,66,41,MIN,TO,Leonardo
+227,3,06:10,66,41,COR,2_Pts_T,Shilton
+228,3,06:29,66,41,COR,FR,Gui Bento
+229,3,06:29,66,41,MIN,ER,Bob
+230,3,06:29,66,41,MIN,FC_O,Bob
+231,3,06:44,66,41,MIN,substituicao_entra,Lucas
+232,3,06:44,66,41,MIN,substituicao_sai,Leandrinho
+233,3,06:44,66,41,MIN,substituicao_entra,Jefferson
+234,3,06:44,66,41,MIN,substituicao_sai,Gegê
+235,3,06:44,66,41,MIN,substituicao_entra,Leonardo
+236,3,06:44,66,41,MIN,substituicao_sai,D Coleman
+237,3,06:44,66,41,COR,AS,Parodi
+238,3,06:44,66,41,COR,2_Pts_C,Giovannoni
+239,3,06:46,64,41,COR,RD,Parodi
+240,3,06:50,64,41,MIN,2_Pts_T,Leandrinho
+241,3,06:55,64,41,COR,EN,Shilton
+242,3,06:55,62,41,COR,RO,Shilton
+243,3,07:04,62,41,COR,2_Pts_T,Fuller
+244,3,07:17,62,41,COR,RD,Giovannoni
+245,3,07:20,62,41,MIN,3_Pts_T,Leandrinho
+246,3,07:36,62,41,COR,AS,Parodi
+247,3,07:36,62,41,COR,3_Pts_C,Giovannoni
+248,3,07:51,59,41,COR,FR,Shilton
+249,3,07:51,59,41,MIN,FC,D Coleman
+250,3,08:08,59,41,COR,RD,Giovannoni
+251,3,08:12,59,41,MIN,2_Pts_T,Wesley
+252,3,08:14,59,41,MIN,substituicao_entra,Bob
+253,3,08:14,59,41,MIN,substituicao_sai,Paranhos
+254,3,08:14,59,41,COR,LL_Pts_C,Fuller
+255,3,08:14,58,41,COR,FR,Fuller
+256,3,08:14,58,41,MIN,FC,Paranhos
+257,3,08:14,58,41,COR,2_Pts_C,Fuller
+258,3,08:35,56,41,MIN,AS,Gegê
+259,3,08:35,56,41,MIN,3_Pts_C,Leandrinho
+260,3,08:47,56,38,MIN,FR,Paranhos
+261,3,08:47,56,38,COR,FC,Shilton
+262,3,08:47,56,38,MIN,RO,Paranhos
+263,3,08:50,56,38,MIN,3_Pts_T,Wesley
+264,3,09:11,56,38,COR,AS,Parodi
+265,3,09:11,56,38,COR,2_Pts_C,Shilton
+266,3,09:25,54,38,COR,RD,Shilton
+267,3,09:27,54,38,MIN,LL_Pts_T,Leandrinho
+268,3,09:27,54,38,MIN,LL_Pts_T,Leandrinho
+269,3,09:27,54,38,COR,substituicao_entra,Gui Bento
+270,3,09:27,54,38,COR,substituicao_sai,Humberto
+271,3,09:27,54,38,MIN,FR,Leandrinho
+272,3,09:27,54,38,COR,FC,Humberto
+273,3,09:40,54,38,MIN,FR,Leandrinho
+274,3,09:40,54,38,COR,FC,Humberto
+275,3,10:00,54,38,,inicio_quarto,
+276,2,00:00,54,38,,fim_quarto,
+277,2,00:00,54,38,COR,RO,Gustavinho
+278,2,00:02,54,38,COR,3_Pts_T,Fuller
+279,2,00:20,54,38,COR,RD,Fuller
+280,2,00:24,54,38,MIN,3_Pts_T,Gegê
+281,2,00:39,54,38,COR,substituicao_entra,Gustavinho
+282,2,00:39,54,38,COR,substituicao_sai,Parodi
+283,2,00:39,54,38,COR,LL_Pts_C,Parodi
+284,2,00:39,53,38,COR,substituicao_entra,Douglas Santos
+285,2,00:39,53,38,COR,substituicao_sai,Giovannoni
+286,2,00:39,53,38,COR,FR,Parodi
+287,2,00:39,53,38,MIN,FC,Paranhos
+288,2,00:39,53,38,COR,2_Pts_C,Parodi
+289,2,00:49,51,38,COR,RD,Abner
+290,2,00:52,51,38,MIN,2_Pts_T,Jefferson
+291,2,00:57,51,38,MIN,RD,Paranhos
+292,2,00:58,51,38,COR,LL_Pts_T,Fuller
+293,2,00:58,51,38,COR,LL_Pts_C,Fuller
+294,2,00:58,50,38,COR,substituicao_entra,Humberto
+295,2,00:58,50,38,COR,substituicao_sai,Aguiar
+296,2,00:58,50,38,COR,FR,Fuller
+297,2,00:58,50,38,MIN,FC,Jefferson
+298,2,01:15,50,38,MIN,AS,Gegê
+299,2,01:15,50,38,MIN,3_Pts_C,Leandrinho
+300,2,01:25,50,35,MIN,RD,Gegê
+301,2,01:29,50,35,COR,3_Pts_T,Giovannoni
+302,2,01:47,50,35,COR,substituicao_entra,Abner
+303,2,01:47,50,35,COR,substituicao_sai,Humberto
+304,2,01:47,50,35,COR,substituicao_entra,Aguiar
+305,2,01:47,50,35,COR,substituicao_sai,Teichmann
+306,2,01:47,50,35,COR,tempo_tecnico,Corinthians
+307,2,01:48,50,35,MIN,AS,Gegê
+308,2,01:48,50,35,MIN,EN,Paranhos
+309,2,01:58,50,33,MIN,BR,D Coleman
+310,2,01:58,50,33,COR,ER,Parodi
+311,2,02:20,50,33,COR,RD,Parodi
+312,2,02:22,50,33,MIN,LL_Pts_T,Paranhos
+313,2,02:22,50,33,MIN,LL_Pts_C,Paranhos
+314,2,02:22,50,32,MIN,FR,Paranhos
+315,2,02:22,50,32,COR,FC,Humberto
+316,2,02:33,50,32,COR,ER,Fuller
+317,2,02:51,50,32,COR,substituicao_entra,Fuller
+318,2,02:51,50,32,COR,substituicao_sai,Gustavinho
+319,2,02:51,50,32,COR,RD,Corinthians
+320,2,02:51,50,32,MIN,2_Pts_T,Leandrinho
+321,2,02:57,50,32,MIN,BR,Leandrinho
+322,2,02:57,50,32,COR,ER,Humberto
+323,2,03:04,50,32,COR,RD,Parodi
+324,2,03:08,50,32,MIN,3_Pts_T,D Coleman
+325,2,03:10,50,32,MIN,substituicao_entra,Gegê
+326,2,03:10,50,32,MIN,substituicao_sai,Leonardo
+327,2,03:10,50,32,MIN,substituicao_entra,Paranhos
+328,2,03:10,50,32,MIN,substituicao_sai,Bob
+329,2,03:10,50,32,MIN,tempo_tecnico,Minas
+330,2,03:10,50,32,COR,AS,Teichmann
+331,2,03:10,50,32,COR,2_Pts_C,Giovannoni
+332,2,03:29,48,32,MIN,ER,Jefferson
+333,2,03:47,48,32,COR,AS,Gustavinho
+334,2,03:47,48,32,COR,3_Pts_C,Parodi
+335,2,04:00,45,32,MIN,LL_Pts_C,Leandrinho
+336,2,04:00,45,31,MIN,LL_Pts_T,Leandrinho
+337,2,04:00,45,31,MIN,FR,Leandrinho
+338,2,04:00,45,31,COR,FC,Gustavinho
+339,2,04:06,45,31,MIN,RD,Leonardo
+340,2,04:06,45,31,COR,3_Pts_T,Parodi
+341,2,04:16,45,31,COR,LL_Pts_C,Giovannoni
+342,2,04:16,44,31,MIN,FC_T,Leandrinho
+343,2,04:16,44,31,COR,RD,Giovannoni
+344,2,04:16,44,31,MIN,2_Pts_T,Leandrinho
+345,2,04:30,44,31,COR,ER,Humberto
+346,2,04:54,44,31,COR,substituicao_entra,Parodi
+347,2,04:54,44,31,COR,substituicao_sai,Fuller
+348,2,04:54,44,31,MIN,ER,Bob
+349,2,04:58,44,31,MIN,RD,Bob
+350,2,05:04,44,31,MIN,TO,Leandrinho
+351,2,05:04,44,31,COR,2_Pts_T,Humberto
+352,2,05:06,44,31,COR,RD,Teichmann
+353,2,05:10,44,31,MIN,2_Pts_T,Bob
+354,2,05:22,44,31,MIN,BR,Leandrinho
+355,2,05:22,44,31,COR,ER,Teichmann
+356,2,05:36,44,31,MIN,LL_Pts_C,Leonardo
+357,2,05:36,44,30,MIN,AS,Bob
+358,2,05:36,44,30,MIN,LL_Pts_C,Leonardo
+359,2,05:36,44,29,COR,substituicao_entra,Giovannoni
+360,2,05:36,44,29,COR,substituicao_sai,Douglas Santos
+361,2,05:36,44,29,MIN,FR,Leonardo
+362,2,05:36,44,29,COR,FC,Douglas Santos
+363,2,05:47,44,29,COR,ER,Gustavinho
+364,2,05:53,44,29,COR,RD,Douglas Santos
+365,2,05:57,44,29,MIN,3_Pts_T,Jefferson
+366,2,06:02,44,29,COR,substituicao_entra,Humberto
+367,2,06:02,44,29,COR,substituicao_sai,Gui Bento
+368,2,06:02,44,29,MIN,FR,Jefferson
+369,2,06:02,44,29,COR,FC,Gustavinho
+370,2,06:02,44,29,MIN,substituicao_entra,Jefferson
+371,2,06:02,44,29,MIN,substituicao_sai,Lucas
+372,2,06:02,44,29,MIN,FR,Leonardo
+373,2,06:02,44,29,COR,FC,Gui Bento
+374,2,06:02,44,29,MIN,RO,Bob
+375,2,06:04,44,29,MIN,3_Pts_T,Leandrinho
+376,2,06:14,44,29,MIN,RD,Leandrinho
+377,2,06:17,44,29,COR,2_Pts_T,Fuller
+378,2,06:32,44,29,COR,FR,Gustavinho
+379,2,06:32,44,29,MIN,ER,Leandrinho
+380,2,06:32,44,29,MIN,FC_O,Leandrinho
+381,2,06:45,44,29,COR,AS,Teichmann
+382,2,06:45,44,29,COR,3_Pts_C,Fuller
+383,2,06:58,41,29,COR,RD,Teichmann
+384,2,07:00,41,29,MIN,LL_Pts_T,Bob
+385,2,07:00,41,29,MIN,LL_Pts_C,Bob
+386,2,07:00,41,28,MIN,FR,Bob
+387,2,07:00,41,28,COR,FC,Gui Bento
+388,2,07:18,41,28,COR,2_Pts_C,Gustavinho
+389,2,07:32,39,28,MIN,AS,Leonardo
+390,2,07:32,39,28,MIN,3_Pts_C,D Coleman
+391,2,07:37,39,25,COR,EN,Gui Bento
+392,2,07:37,37,25,COR,RO,Gui Bento
+393,2,07:49,37,25,COR,2_Pts_T,Fuller
+394,2,07:50,37,25,COR,RD,Teichmann
+395,2,07:56,37,25,MIN,2_Pts_T,D Coleman
+396,2,08:04,37,25,COR,LL_Pts_C,Douglas Santos
+397,2,08:04,36,25,MIN,substituicao_entra,Leonardo
+398,2,08:04,36,25,MIN,substituicao_sai,Daniel
+399,2,08:04,36,25,MIN,substituicao_entra,Lucas
+400,2,08:04,36,25,MIN,substituicao_sai,Wesley
+401,2,08:04,36,25,MIN,substituicao_entra,Leandrinho
+402,2,08:04,36,25,MIN,substituicao_sai,Gegê
+403,2,08:04,36,25,MIN,substituicao_entra,D Coleman
+404,2,08:04,36,25,MIN,substituicao_sai,Jefferson
+405,2,08:04,36,25,COR,FR,Douglas Santos
+406,2,08:04,36,25,MIN,FC,Daniel
+407,2,08:04,36,25,COR,AS,Gustavinho
+408,2,08:04,36,25,COR,2_Pts_C,Douglas Santos
+409,2,08:13,34,25,COR,RD,Teichmann
+410,2,08:17,34,25,MIN,2_Pts_T,Daniel
+411,2,08:40,34,25,MIN,tempo_tecnico,Minas
+412,2,08:40,34,25,COR,2_Pts_C,Douglas Santos
+413,2,08:40,32,25,COR,RO,Douglas Santos
+414,2,08:40,32,25,COR,2_Pts_T,Teichmann
+415,2,09:03,32,25,MIN,substituicao_entra,Daniel
+416,2,09:03,32,25,MIN,substituicao_sai,Leonardo
+417,2,09:03,32,25,COR,FR,Teichmann
+418,2,09:03,32,25,MIN,FC,Wesley
+419,2,09:03,32,25,COR,RD,Teichmann
+420,2,09:04,32,25,MIN,3_Pts_T,Gegê
+421,2,09:21,32,25,COR,AS,Gustavinho
+422,2,09:21,32,25,COR,2_Pts_C,Fuller
+423,2,09:31,30,25,COR,BR,Douglas Santos
+424,2,09:31,30,25,MIN,ER,Wesley
+425,2,09:46,30,25,COR,AS,Fuller
+426,2,09:46,30,25,COR,2_Pts_C,Teichmann
+427,2,10:00,28,25,,inicio_quarto,
+428,1,00:00,28,25,,fim_quarto,
+429,1,00:00,28,25,MIN,3_Pts_T,Jefferson
+430,1,00:03,28,25,COR,LL_Pts_C,Teichmann
+431,1,00:03,27,25,COR,AS,Fuller
+432,1,00:03,27,25,COR,LL_Pts_C,Teichmann
+433,1,00:03,26,25,COR,substituicao_entra,Nicolas
+434,1,00:03,26,25,COR,substituicao_sai,Fuller
+435,1,00:03,26,25,COR,substituicao_entra,Gui Bento
+436,1,00:03,26,25,COR,substituicao_sai,Humberto
+437,1,00:03,26,25,COR,FR,Teichmann
+438,1,00:03,26,25,MIN,FC,Leonardo
+439,1,00:13,26,25,COR,RD,Humberto
+440,1,00:14,26,25,MIN,LL_Pts_T,Leonardo
+441,1,00:14,26,25,MIN,AS,D Coleman
+442,1,00:14,26,25,MIN,LL_Pts_C,Leonardo
+443,1,00:14,26,24,MIN,substituicao_entra,Bob
+444,1,00:14,26,24,MIN,substituicao_sai,Leandrinho
+445,1,00:14,26,24,MIN,FR,Leonardo
+446,1,00:14,26,24,COR,FC,Douglas Santos
+447,1,00:31,26,24,COR,3_Pts_C,Fuller
+448,1,00:37,23,24,COR,RD,Teichmann
+449,1,00:40,23,24,MIN,3_Pts_T,D Coleman
+450,1,00:48,23,24,COR,substituicao_entra,Gustavinho
+451,1,00:48,23,24,COR,substituicao_sai,Parodi
+452,1,00:48,23,24,COR,LL_Pts_C,Parodi
+453,1,00:48,22,24,MIN,substituicao_entra,Jefferson
+454,1,00:48,22,24,MIN,substituicao_sai,Wesley
+455,1,00:48,22,24,COR,substituicao_entra,Douglas Santos
+456,1,00:48,22,24,COR,substituicao_sai,Shilton
+457,1,00:48,22,24,COR,FR,Parodi
+458,1,00:48,22,24,MIN,FC,Lucas
+459,1,00:48,22,24,COR,2_Pts_C,Parodi
+460,1,01:12,20,24,MIN,AS,Leandrinho
+461,1,01:12,20,24,MIN,2_Pts_C,Leonardo
+462,1,01:24,20,22,COR,AS,Parodi
+463,1,01:24,20,22,COR,2_Pts_C,Humberto
+464,1,01:32,18,22,MIN,2_Pts_C,D Coleman
+465,1,01:44,18,20,COR,AS,Shilton
+466,1,01:44,18,20,COR,2_Pts_C,Teichmann
+467,1,02:03,16,20,MIN,LL_Pts_C,Lucas
+468,1,02:03,16,19,MIN,LL_Pts_C,Lucas
+469,1,02:03,16,18,MIN,LL_Pts_C,Leandrinho
+470,1,02:03,16,17,COR,FC_T,Corinthians
+471,1,02:03,16,17,MIN,FR,Lucas
+472,1,02:03,16,17,COR,FC,Parodi
+473,1,02:21,16,17,COR,ER,Parodi
+474,1,02:43,16,17,MIN,substituicao_entra,Lucas
+475,1,02:43,16,17,MIN,substituicao_sai,Gegê
+476,1,02:43,16,17,COR,substituicao_entra,Teichmann
+477,1,02:43,16,17,COR,substituicao_sai,Giovannoni
+478,1,02:43,16,17,MIN,ER,Gegê
+479,1,02:45,16,17,MIN,RO,Leonardo
+480,1,02:50,16,17,MIN,3_Pts_T,D Coleman
+481,1,03:15,16,17,COR,AS,Shilton
+482,1,03:15,16,17,COR,3_Pts_C,Giovannoni
+483,1,03:17,13,17,COR,RO,Shilton
+484,1,03:21,13,17,COR,3_Pts_T,Fuller
+485,1,03:31,13,17,COR,BR,Giovannoni
+486,1,03:31,13,17,MIN,ER,Leonardo
+487,1,03:47,13,17,COR,AS,Giovannoni
+488,1,03:47,13,17,COR,2_Pts_C,Shilton
+489,1,03:56,11,17,MIN,2_Pts_C,Leonardo
+490,1,03:57,11,15,MIN,RO,Leonardo
+491,1,04:02,11,15,MIN,2_Pts_T,Leandrinho
+492,1,04:17,11,15,MIN,FR,Leandrinho
+493,1,04:17,11,15,COR,FC,Parodi
+494,1,04:23,11,15,MIN,RD,Leandrinho
+495,1,04:26,11,15,COR,3_Pts_T,Humberto
+496,1,04:35,11,15,COR,RD,Shilton
+497,1,04:38,11,15,MIN,3_Pts_T,Gegê
+498,1,04:45,11,15,MIN,RD,Leonardo
+499,1,04:49,11,15,COR,3_Pts_T,Parodi
+500,1,05:04,11,15,MIN,ER,D Coleman
+501,1,05:20,11,15,MIN,RD,Wesley
+502,1,05:22,11,15,COR,LL_Pts_T,Shilton
+503,1,05:22,11,15,MIN,substituicao_entra,Leonardo
+504,1,05:22,11,15,MIN,substituicao_sai,Paranhos
+505,1,05:22,11,15,COR,FR,Shilton
+506,1,05:22,11,15,MIN,FC,Paranhos
+507,1,05:22,11,15,COR,AS,Humberto
+508,1,05:22,11,15,COR,2_Pts_C,Shilton
+509,1,05:46,9,15,MIN,AS,Wesley
+510,1,05:46,9,15,MIN,2_Pts_C,Leandrinho
+511,1,06:01,9,13,COR,LL_Pts_C,Giovannoni
+512,1,06:01,8,13,COR,FR,Giovannoni
+513,1,06:01,8,13,MIN,FC,Paranhos
+514,1,06:02,8,13,COR,AS,Shilton
+515,1,06:02,8,13,COR,2_Pts_C,Giovannoni
+516,1,06:18,6,13,COR,tempo_tecnico,Corinthians
+517,1,06:18,6,13,MIN,AS,Wesley
+518,1,06:18,6,13,MIN,2_Pts_C,D Coleman
+519,1,06:18,6,11,MIN,BR,Paranhos
+520,1,06:18,6,11,COR,ER,Parodi
+521,1,06:18,6,11,COR,BR,Shilton
+522,1,06:18,6,11,MIN,ER,Gegê
+523,1,06:30,6,11,MIN,RD,Wesley
+524,1,06:34,6,11,COR,2_Pts_T,Giovannoni
+525,1,06:54,6,11,MIN,AS,Wesley
+526,1,06:54,6,11,MIN,2_Pts_C,Paranhos
+527,1,07:05,6,9,COR,LL_Pts_C,Humberto
+528,1,07:05,5,9,COR,LL_Pts_C,Humberto
+529,1,07:05,4,9,COR,FR,Humberto
+530,1,07:05,4,9,MIN,FC,Wesley
+531,1,07:26,4,9,COR,RD,Corinthians
+532,1,07:26,4,9,COR,TO,Parodi
+533,1,07:26,4,9,MIN,2_Pts_T,Leandrinho
+534,1,07:39,4,9,COR,2_Pts_C,Giovannoni
+535,1,07:53,2,9,MIN,2_Pts_C,Wesley
+536,1,08:00,2,7,MIN,BR,Paranhos
+537,1,08:00,2,7,COR,ER,Giovannoni
+538,1,08:18,2,7,MIN,LL_Pts_C,D Coleman
+539,1,08:18,2,6,MIN,FR,D Coleman
+540,1,08:18,2,6,COR,FC,Giovannoni
+541,1,08:18,2,6,MIN,3_Pts_C,D Coleman
+542,1,08:31,2,3,COR,AS,Humberto
+543,1,08:31,2,3,COR,EN,Shilton
+544,1,08:44,0,3,COR,FR,Humberto
+545,1,08:44,0,3,MIN,FC,Gegê
+546,1,09:02,0,3,MIN,LL_Pts_C,Leandrinho
+547,1,09:02,0,2,MIN,FR,Leandrinho
+548,1,09:02,0,2,COR,FC,Humberto
+549,1,09:02,0,2,MIN,2_Pts_C,Leandrinho
+550,1,09:15,0,0,COR,ER,Shilton
+551,1,09:32,0,0,COR,RD,Giovannoni
+552,1,09:36,0,0,MIN,2_Pts_T,Wesley
+553,1,10:00,0,0,MIN,substituicao_entra,Leandrinho
+554,1,10:00,0,0,MIN,substituicao_entra,Paranhos
+555,1,10:00,0,0,MIN,substituicao_entra,Wesley
+556,1,10:00,0,0,MIN,substituicao_entra,Gegê
+557,1,10:00,0,0,MIN,substituicao_entra,D Coleman
+558,1,10:00,0,0,COR,substituicao_entra,Parodi
+559,1,10:00,0,0,COR,substituicao_entra,Humberto
+560,1,10:00,0,0,COR,substituicao_entra,Giovannoni
+561,1,10:00,0,0,COR,substituicao_entra,Shilton
+562,1,10:00,0,0,COR,substituicao_entra,Fuller
+563,1,10:00,0,0,,inicio_partida,

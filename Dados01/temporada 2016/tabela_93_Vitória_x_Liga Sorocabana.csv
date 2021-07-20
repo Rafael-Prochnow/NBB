@@ -1,0 +1,598 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,74,69,,fim_partida,
+1,4,00:02,74,69,LSB,LL_Pts_C,Cafferata
+2,4,00:02,74,68,LSB,LL_Pts_T,Cafferata
+3,4,00:02,74,68,LSB,FR,Cafferata
+4,4,00:02,74,68,VIT,FC,Renato
+5,4,00:04,74,68,VIT,LL_Pts_C,Arthur
+6,4,00:04,73,68,VIT,LL_Pts_C,Arthur
+7,4,00:04,72,68,LSB,substituicao_entra,Adriano
+8,4,00:04,72,68,LSB,substituicao_sai,Castellon
+9,4,00:04,72,68,VIT,FR,Arthur
+10,4,00:04,72,68,LSB,FC,Castellon
+11,4,00:07,72,68,LSB,2_Pts_C,Lucão
+12,4,00:08,72,66,LSB,RO,Lucão
+13,4,00:13,72,66,LSB,3_Pts_T,Cafferata
+14,4,00:18,72,66,VIT,LL_Pts_C,Arthur
+15,4,00:18,71,66,VIT,LL_Pts_C,Arthur
+16,4,00:18,70,66,LSB,substituicao_entra,Cafferata
+17,4,00:18,70,66,LSB,substituicao_sai,J Sobral
+18,4,00:18,70,66,VIT,FR,Arthur
+19,4,00:18,70,66,LSB,FC,J Sobral
+20,4,00:19,70,66,VIT,RD,Arthur
+21,4,00:22,70,66,LSB,3_Pts_T,Ted
+22,4,00:26,70,66,LSB,RD,Lucão
+23,4,00:27,70,66,VIT,LL_Pts_T,Edu Mariano
+24,4,00:27,70,66,VIT,LL_Pts_C,Edu Mariano
+25,4,00:27,69,66,VIT,FR,Edu Mariano
+26,4,00:27,69,66,LSB,FC,Castellon
+27,4,00:32,69,66,LSB,AS,Ted
+28,4,00:32,69,66,LSB,2_Pts_C,Lucão
+29,4,00:34,69,64,LSB,tempo_tecnico,
+30,4,00:34,69,64,VIT,LL_Pts_C,André
+31,4,00:34,68,64,VIT,LL_Pts_T,André
+32,4,00:34,68,64,LSB,substituicao_entra,Lucão
+33,4,00:34,68,64,LSB,substituicao_sai,Alexandre
+34,4,00:35,68,64,VIT,FR,André
+35,4,00:35,68,64,LSB,FC,Alexandre
+36,4,00:41,68,64,LSB,AS,J Sobral
+37,4,00:41,68,64,LSB,2_Pts_C,Castellon
+38,4,00:56,68,62,VIT,LL_Pts_C,Renato
+39,4,00:56,67,62,VIT,LL_Pts_T,Renato
+40,4,00:56,67,62,VIT,FR,Renato
+41,4,00:56,67,62,LSB,FC,Castellon
+42,4,01:03,67,62,LSB,AS,Lucas
+43,4,01:03,67,62,LSB,3_Pts_C,Castellon
+44,4,01:18,67,59,VIT,LL_Pts_C,André
+45,4,01:18,66,59,VIT,LL_Pts_C,André
+46,4,01:18,65,59,LSB,substituicao_entra,Alexandre
+47,4,01:18,65,59,LSB,substituicao_sai,Bruno
+48,4,01:18,65,59,VIT,FR,André
+49,4,01:18,65,59,LSB,FC,Bruno
+50,4,01:23,65,59,LSB,LL_Pts_C,Castellon
+51,4,01:23,65,58,LSB,LL_Pts_C,Castellon
+52,4,01:24,65,57,LSB,FR,Castellon
+53,4,01:24,65,57,VIT,FC,Arthur
+54,4,01:31,65,57,VIT,substituicao_entra,Edu Mariano
+55,4,01:31,65,57,VIT,substituicao_sai,Kurtz
+56,4,01:31,65,57,VIT,LL_Pts_C,Kurtz
+57,4,01:31,64,57,VIT,LL_Pts_C,Kurtz
+58,4,01:32,63,57,VIT,FR,Kurtz
+59,4,01:32,63,57,LSB,FC,Ted
+60,4,01:33,63,57,LSB,LL_Pts_C,Bruno
+61,4,01:33,63,56,LSB,LL_Pts_C,Bruno
+62,4,01:33,63,55,VIT,substituicao_entra,Kurtz
+63,4,01:33,63,55,VIT,substituicao_sai,Coimbra
+64,4,01:34,63,55,LSB,FR,Bruno
+65,4,01:34,63,55,VIT,FC,Coimbra
+66,4,01:35,63,55,LSB,RO,Bruno
+67,4,01:38,63,55,LSB,2_Pts_T,Castellon
+68,4,01:39,63,55,LSB,RO,Castellon
+69,4,01:44,63,55,LSB,3_Pts_T,J Sobral
+70,4,01:48,63,55,VIT,LL_Pts_C,Dawkins
+71,4,01:48,62,55,VIT,LL_Pts_C,Dawkins
+72,4,01:48,61,55,LSB,substituicao_entra,Castellon
+73,4,01:48,61,55,LSB,substituicao_sai,Cafferata
+74,4,01:49,61,55,VIT,FR,Dawkins
+75,4,01:49,61,55,LSB,FC,Cafferata
+76,4,01:51,61,55,VIT,tempo_tecnico,
+77,4,01:55,61,55,LSB,2_Pts_C,Cafferata
+78,4,01:59,61,53,LSB,BR,Cafferata
+79,4,01:59,61,53,VIT,ER,Renato
+80,4,02:11,61,53,LSB,2_Pts_C,J Sobral
+81,4,02:29,61,51,LSB,RD,Bruno
+82,4,02:31,61,51,VIT,AS,Dawkins
+83,4,02:31,61,51,VIT,LL_Pts_T,Coimbra
+84,4,02:31,61,51,VIT,LL_Pts_C,Coimbra
+85,4,02:31,60,51,VIT,FR,Coimbra
+86,4,02:31,60,51,LSB,FC,J Sobral
+87,4,02:45,60,51,LSB,AS,Cafferata
+88,4,02:45,60,51,LSB,LL_Pts_C,Bruno
+89,4,02:45,60,50,LSB,LL_Pts_C,Bruno
+90,4,02:46,60,49,LSB,FR,Bruno
+91,4,02:46,60,49,VIT,FC,André
+92,4,02:58,60,49,VIT,LL_Pts_C,Renato
+93,4,02:58,59,49,VIT,LL_Pts_C,Renato
+94,4,02:59,58,49,VIT,FR,Renato
+95,4,02:59,58,49,LSB,FC,J Sobral
+96,4,03:01,58,49,VIT,RD,Renato
+97,4,03:05,58,49,LSB,2_Pts_T,Ted
+98,4,03:23,58,49,VIT,ER,Dawkins
+99,4,03:35,58,49,LSB,AS,Cafferata
+100,4,03:35,58,49,LSB,LL_Pts_C,J Sobral
+101,4,03:35,58,48,LSB,LL_Pts_C,J Sobral
+102,4,03:35,58,47,LSB,substituicao_entra,Lucas
+103,4,03:35,58,47,LSB,substituicao_sai,Alexandre
+104,4,03:36,58,47,LSB,FR,J Sobral
+105,4,03:36,58,47,VIT,FC,André
+106,4,03:40,58,47,LSB,RO,Alexandre
+107,4,03:43,58,47,LSB,3_Pts_T,Cafferata
+108,4,03:45,58,47,LSB,RO,Ted
+109,4,03:48,58,47,LSB,3_Pts_T,J Sobral
+110,4,03:54,58,47,VIT,LL_Pts_C,Arthur
+111,4,03:54,57,47,VIT,LL_Pts_C,Arthur
+112,4,03:54,56,47,VIT,substituicao_entra,Coimbra
+113,4,03:54,56,47,VIT,substituicao_sai,Kurtz
+114,4,03:55,56,47,VIT,FR,Arthur
+115,4,03:55,56,47,LSB,FC,Alexandre
+116,4,04:09,56,47,LSB,AS,Ted
+117,4,04:09,56,47,LSB,2_Pts_C,Cafferata
+118,4,04:15,56,45,VIT,ER,André
+119,4,04:37,56,45,VIT,RD,Dawkins
+120,4,04:40,56,45,LSB,2_Pts_T,Alexandre
+121,4,04:50,56,45,VIT,LL_Pts_C,Renato
+122,4,04:50,55,45,VIT,LL_Pts_T,Renato
+123,4,04:50,55,45,VIT,FR,Renato
+124,4,04:50,55,45,LSB,FC,Bruno
+125,4,04:53,55,45,VIT,RD,Renato
+126,4,04:58,55,45,LSB,3_Pts_T,Ted
+127,4,05:20,55,45,LSB,tempo_tecnico,
+128,4,05:20,55,45,VIT,LL_Pts_C,André
+129,4,05:20,54,45,VIT,LL_Pts_C,André
+130,4,05:22,53,45,VIT,FR,André
+131,4,05:22,53,45,LSB,FC,Cafferata
+132,4,05:28,53,45,VIT,RD,Arthur
+133,4,05:32,53,45,LSB,3_Pts_T,Cafferata
+134,4,05:48,53,45,LSB,BR,Cafferata
+135,4,05:48,53,45,VIT,ER,Kurtz
+136,4,06:01,53,45,LSB,tempo_tecnico,
+137,4,06:02,53,45,VIT,RD,Vitória
+138,4,06:05,53,45,LSB,3_Pts_T,J Sobral
+139,4,06:12,53,45,LSB,BR,Cafferata
+140,4,06:12,53,45,VIT,ER,Arthur
+141,4,06:16,53,45,VIT,BR,Arthur
+142,4,06:16,53,45,LSB,ER,Cafferata
+143,4,06:21,53,45,VIT,LL_Pts_C,Kurtz
+144,4,06:21,52,45,VIT,LL_Pts_C,Kurtz
+145,4,06:23,51,45,VIT,FR,Kurtz
+146,4,06:23,51,45,LSB,FC,Alexandre
+147,4,06:35,51,45,VIT,RD,Renato
+148,4,06:37,51,45,LSB,2_Pts_T,J Sobral
+149,4,06:51,51,45,VIT,substituicao_entra,André
+150,4,06:51,51,45,VIT,substituicao_sai,Keyron
+151,4,06:52,51,45,VIT,ER,
+152,4,07:22,51,45,LSB,LL_Pts_C,Alexandre
+153,4,07:22,51,44,LSB,LL_Pts_C,Alexandre
+154,4,07:23,51,43,LSB,FR,Alexandre
+155,4,07:23,51,43,VIT,FC,Kurtz
+156,4,07:43,51,43,LSB,RD,Bruno
+157,4,07:46,51,43,VIT,2_Pts_T,Arthur
+158,4,07:58,51,43,VIT,tempo_tecnico,
+159,4,07:58,51,43,VIT,FR,Kurtz
+160,4,07:58,51,43,LSB,FC,J Sobral
+161,4,08:19,51,43,LSB,AS,J Sobral
+162,4,08:19,51,43,LSB,2_Pts_C,Alexandre
+163,4,08:20,51,41,LSB,RO,J Sobral
+164,4,08:23,51,41,LSB,3_Pts_T,Cafferata
+165,4,08:37,51,41,VIT,substituicao_entra,Kurtz
+166,4,08:37,51,41,VIT,substituicao_sai,Coimbra
+167,4,08:37,51,41,VIT,ER,Coimbra
+168,4,08:38,51,41,LSB,FR,J Sobral
+169,4,08:38,51,41,VIT,FC_O,Coimbra
+170,4,08:50,51,41,LSB,substituicao_entra,Cafferata
+171,4,08:50,51,41,LSB,substituicao_sai,Lucas
+172,4,08:51,51,41,LSB,ER,Ted
+173,4,09:08,51,41,LSB,RD,Alexandre
+174,4,09:11,51,41,VIT,2_Pts_T,Coimbra
+175,4,09:29,51,41,LSB,ER,Alexandre
+176,4,09:30,51,41,VIT,FR,Renato
+177,4,09:30,51,41,LSB,FC_O,Alexandre
+178,4,09:39,51,41,LSB,RD,Lucas
+179,4,09:42,51,41,VIT,3_Pts_T,Keyron
+180,4,10:00,51,41,,inicio_quarto,
+181,3,00:00,51,41,,fim_quarto,
+182,3,00:03,51,41,VIT,RD,Coimbra
+183,3,00:06,51,41,LSB,3_Pts_T,Bruno
+184,3,00:19,51,41,VIT,substituicao_entra,Assunção
+185,3,00:19,51,41,VIT,substituicao_sai,André
+186,3,00:19,51,41,VIT,substituicao_entra,Keyron
+187,3,00:19,51,41,VIT,substituicao_sai,Renato
+188,3,00:19,51,41,VIT,substituicao_entra,Murilo
+189,3,00:19,51,41,VIT,substituicao_sai,Dawkins
+190,3,00:19,51,41,VIT,LL_Pts_C,Arthur
+191,3,00:19,50,41,VIT,LL_Pts_C,Arthur
+192,3,00:19,49,41,LSB,substituicao_entra,J Sobral
+193,3,00:19,49,41,LSB,substituicao_sai,Lucas
+194,3,00:19,49,41,LSB,substituicao_entra,Alexandre
+195,3,00:19,49,41,LSB,substituicao_sai,Castellon
+196,3,00:19,49,41,LSB,substituicao_entra,Cafferata
+197,3,00:19,49,41,LSB,substituicao_sai,Leandro
+198,3,00:19,49,41,VIT,FR,Arthur
+199,3,00:19,49,41,LSB,FC,Ted
+200,3,00:22,49,41,LSB,RD,Lucas
+201,3,00:27,49,41,VIT,3_Pts_T,Dawkins
+202,3,00:47,49,41,VIT,RD,Coimbra
+203,3,00:50,49,41,LSB,2_Pts_T,Lucas
+204,3,01:10,49,41,VIT,2_Pts_C,Renato
+205,3,01:12,47,41,VIT,RO,Renato
+206,3,01:15,47,41,VIT,2_Pts_T,Coimbra
+207,3,01:33,47,41,VIT,RD,Dawkins
+208,3,01:37,47,41,LSB,2_Pts_T,Castellon
+209,3,01:52,47,41,LSB,RD,Lucas
+210,3,01:56,47,41,VIT,2_Pts_T,Renato
+211,3,02:07,47,41,VIT,BR,André
+212,3,02:07,47,41,LSB,ER,Lucas
+213,3,02:26,47,41,VIT,substituicao_entra,Arthur
+214,3,02:26,47,41,VIT,substituicao_sai,Edu Mariano
+215,3,02:26,47,41,VIT,substituicao_entra,Coimbra
+216,3,02:26,47,41,VIT,substituicao_sai,Kurtz
+217,3,02:26,47,41,VIT,LL_Pts_C,Kurtz
+218,3,02:26,46,41,VIT,LL_Pts_T,Kurtz
+219,3,02:26,46,41,LSB,substituicao_entra,Ted
+220,3,02:26,46,41,LSB,substituicao_sai,J Sobral
+221,3,02:26,46,41,LSB,substituicao_entra,Leandro
+222,3,02:26,46,41,LSB,substituicao_sai,Adriano
+223,3,02:26,46,41,VIT,FR,Kurtz
+224,3,02:26,46,41,LSB,FC,Bruno
+225,3,02:34,46,41,VIT,RD,Dawkins
+226,3,02:40,46,41,LSB,3_Pts_T,J Sobral
+227,3,02:52,46,41,VIT,2_Pts_C,Dawkins
+228,3,03:13,44,41,LSB,AS,Adriano
+229,3,03:13,44,41,LSB,3_Pts_C,J Sobral
+230,3,03:23,44,38,LSB,RD,Adriano
+231,3,03:26,44,38,VIT,2_Pts_T,Edu Mariano
+232,3,03:41,44,38,LSB,LL_Pts_C,J Sobral
+233,3,03:41,44,37,LSB,LL_Pts_C,J Sobral
+234,3,03:41,44,36,VIT,substituicao_entra,Kurtz
+235,3,03:41,44,36,VIT,substituicao_sai,Coimbra
+236,3,03:41,44,36,LSB,substituicao_entra,Adriano
+237,3,03:41,44,36,LSB,substituicao_sai,Maique
+238,3,03:43,44,36,LSB,FR,J Sobral
+239,3,03:43,44,36,VIT,FC,Renato
+240,3,04:02,44,36,VIT,2_Pts_C,Dawkins
+241,3,04:06,42,36,VIT,BR,Dawkins
+242,3,04:06,42,36,LSB,ER,Castellon
+243,3,04:15,42,36,VIT,ER,Coimbra
+244,3,04:16,42,36,LSB,FR,Maique
+245,3,04:16,42,36,VIT,FC_O,Coimbra
+246,3,04:26,42,36,VIT,RD,Vitória
+247,3,04:30,42,36,LSB,3_Pts_T,J Sobral
+248,3,04:50,42,36,VIT,AS,André
+249,3,04:50,42,36,VIT,3_Pts_C,Dawkins
+250,3,05:00,39,36,LSB,substituicao_entra,Castellon
+251,3,05:00,39,36,LSB,substituicao_sai,Cafferata
+252,3,05:01,39,36,LSB,ER,Cafferata
+253,3,05:11,39,36,VIT,AS,Dawkins
+254,3,05:11,39,36,VIT,LL_Pts_C,Renato
+255,3,05:11,38,36,VIT,LL_Pts_C,Renato
+256,3,05:11,37,36,LSB,substituicao_entra,Cafferata
+257,3,05:11,37,36,LSB,substituicao_sai,Ted
+258,3,05:11,37,36,LSB,substituicao_entra,Maique
+259,3,05:11,37,36,LSB,substituicao_sai,Alexandre
+260,3,05:12,37,36,VIT,FR,Renato
+261,3,05:12,37,36,LSB,FC,Alexandre
+262,3,05:25,37,36,LSB,LL_Pts_C,J Sobral
+263,3,05:25,37,35,LSB,LL_Pts_C,J Sobral
+264,3,05:25,37,34,VIT,substituicao_entra,Coimbra
+265,3,05:25,37,34,VIT,substituicao_sai,Kurtz
+266,3,05:25,37,34,LSB,FR,J Sobral
+267,3,05:25,37,34,VIT,FC,Edu Mariano
+268,3,05:30,37,34,VIT,substituicao_entra,André
+269,3,05:30,37,34,VIT,substituicao_sai,Arthur
+270,3,05:45,37,34,LSB,RD,J Sobral
+271,3,05:48,37,34,VIT,2_Pts_T,Kurtz
+272,3,05:51,37,34,VIT,FR,Renato
+273,3,05:51,37,34,LSB,FC,J Sobral
+274,3,06:03,37,34,LSB,2_Pts_C,J Sobral
+275,3,06:04,37,32,LSB,RO,J Sobral
+276,3,06:07,37,32,LSB,3_Pts_T,Lucas
+277,3,06:17,37,32,VIT,substituicao_entra,Edu Mariano
+278,3,06:17,37,32,VIT,substituicao_sai,Keyron
+279,3,06:18,37,32,LSB,FR,J Sobral
+280,3,06:18,37,32,VIT,FC,Keyron
+281,3,06:31,37,32,LSB,BR,Ted
+282,3,06:31,37,32,VIT,ER,Dawkins
+283,3,06:36,37,32,VIT,RD,Kurtz
+284,3,06:39,37,32,LSB,2_Pts_T,Alexandre
+285,3,06:59,37,32,VIT,AS,Dawkins
+286,3,06:59,37,32,VIT,2_Pts_C,Kurtz
+287,3,07:20,35,32,LSB,AS,Alexandre
+288,3,07:20,35,32,LSB,2_Pts_C,J Sobral
+289,3,07:22,35,30,LSB,RD,Alexandre
+290,3,07:24,35,30,VIT,2_Pts_T,Kurtz
+291,3,07:25,35,30,VIT,RO,Kurtz
+292,3,07:27,35,30,VIT,2_Pts_T,Keyron
+293,3,07:31,35,30,VIT,RD,Kurtz
+294,3,07:34,35,30,LSB,2_Pts_T,J Sobral
+295,3,07:41,35,30,LSB,RD,Ted
+296,3,07:45,35,30,VIT,3_Pts_T,Arthur
+297,3,08:07,35,30,LSB,AS,J Sobral
+298,3,08:07,35,30,LSB,2_Pts_C,Ted
+299,3,08:14,35,28,LSB,substituicao_entra,J Sobral
+300,3,08:14,35,28,LSB,substituicao_sai,Cafferata
+301,3,08:15,35,28,LSB,RO,L Sorocabana
+302,3,08:20,35,28,LSB,2_Pts_T,Lucas
+303,3,08:33,35,28,VIT,ER,Arthur
+304,3,08:37,35,28,LSB,ER,Lucas
+305,3,08:54,35,28,VIT,RD,Kurtz
+306,3,08:58,35,28,LSB,2_Pts_T,Cafferata
+307,3,08:59,35,28,LSB,RO,Cafferata
+308,3,09:02,35,28,LSB,2_Pts_T,Ted
+309,3,09:06,35,28,LSB,BR,Alexandre
+310,3,09:06,35,28,VIT,ER,Keyron
+311,3,09:11,35,28,VIT,RD,Dawkins
+312,3,09:15,35,28,LSB,2_Pts_T,Cafferata
+313,3,09:22,35,28,LSB,RD,Bruno
+314,3,09:26,35,28,VIT,3_Pts_T,Dawkins
+315,3,09:29,35,28,LSB,ER,
+316,3,10:00,35,28,,inicio_quarto,
+317,2,00:00,35,28,,fim_quarto,
+318,2,00:06,35,28,VIT,2_Pts_C,Keyron
+319,2,00:16,33,28,LSB,BR,Ted
+320,2,00:16,33,28,LSB,ER,Ted
+321,2,00:36,33,28,LSB,RD,Castellon
+322,2,00:40,33,28,VIT,3_Pts_T,André
+323,2,00:53,33,28,VIT,RD,André
+324,2,00:55,33,28,LSB,AS,Lucas
+325,2,00:55,33,28,LSB,LL_Pts_T,Alexandre
+326,2,00:55,33,28,LSB,LL_Pts_C,Alexandre
+327,2,00:56,33,27,LSB,FR,Alexandre
+328,2,00:56,33,27,VIT,FC,Coimbra
+329,2,01:09,33,27,LSB,substituicao_entra,J Sobral
+330,2,01:09,33,27,LSB,substituicao_sai,Bruno
+331,2,01:09,33,27,VIT,LL_Pts_C,Keyron
+332,2,01:09,32,27,VIT,LL_Pts_T,Keyron
+333,2,01:10,32,27,VIT,FR,Keyron
+334,2,01:10,32,27,LSB,FC,Bruno
+335,2,01:14,32,27,VIT,BR,Coimbra
+336,2,01:14,32,27,LSB,ER,Lucas
+337,2,01:18,32,27,LSB,BR,Bruno
+338,2,01:18,32,27,VIT,ER,Renato
+339,2,01:30,32,27,LSB,substituicao_entra,Castellon
+340,2,01:30,32,27,LSB,substituicao_sai,Luisinho
+341,2,01:32,32,27,LSB,ER,Luisinho
+342,2,01:39,32,27,VIT,substituicao_entra,Murilo
+343,2,01:39,32,27,VIT,substituicao_sai,Arthur
+344,2,01:39,32,27,VIT,substituicao_entra,Coimbra
+345,2,01:39,32,27,VIT,substituicao_sai,Kurtz
+346,2,01:39,32,27,VIT,substituicao_entra,André
+347,2,01:39,32,27,VIT,substituicao_sai,Dawkins
+348,2,01:39,32,27,LSB,FR,Ted
+349,2,01:39,32,27,VIT,FC,Renato
+350,2,01:41,32,27,LSB,RD,Alexandre
+351,2,01:45,32,27,VIT,2_Pts_T,Arthur
+352,2,01:58,32,27,LSB,AS,Lucas
+353,2,01:58,32,27,LSB,3_Pts_C,Ted
+354,2,02:00,32,24,LSB,RO,Lucas
+355,2,02:03,32,24,LSB,2_Pts_T,Luisinho
+356,2,02:11,32,24,LSB,substituicao_entra,Luisinho
+357,2,02:11,32,24,LSB,substituicao_sai,Cafferata
+358,2,02:11,32,24,LSB,tempo_tecnico,
+359,2,02:11,32,24,LSB,FR,Ted
+360,2,02:11,32,24,VIT,FC,Keyron
+361,2,02:36,32,24,VIT,3_Pts_C,Dawkins
+362,2,02:40,29,24,VIT,RD,Keyron
+363,2,02:43,29,24,LSB,3_Pts_T,Bruno
+364,2,03:02,29,24,LSB,RD,Bruno
+365,2,03:06,29,24,VIT,3_Pts_T,Keyron
+366,2,03:12,29,24,VIT,LL_Pts_C,Keyron
+367,2,03:12,28,24,VIT,LL_Pts_C,Keyron
+368,2,03:12,27,24,LSB,substituicao_entra,Alexandre
+369,2,03:12,27,24,LSB,substituicao_sai,Adriano
+370,2,03:12,27,24,VIT,FR,Keyron
+371,2,03:12,27,24,LSB,FC_A,Adriano
+372,2,03:20,27,24,VIT,RD,Kurtz
+373,2,03:24,27,24,LSB,3_Pts_T,Adriano
+374,2,03:45,27,24,VIT,AS,Arthur
+375,2,03:45,27,24,VIT,3_Pts_C,Keyron
+376,2,03:57,24,24,LSB,2_Pts_C,Cafferata
+377,2,04:13,24,22,LSB,substituicao_entra,Adriano
+378,2,04:13,24,22,LSB,substituicao_sai,J Sobral
+379,2,04:13,24,22,LSB,substituicao_entra,Cafferata
+380,2,04:13,24,22,LSB,substituicao_sai,Alexandre
+381,2,04:13,24,22,LSB,tempo_tecnico,
+382,2,04:19,24,22,VIT,AS,Arthur
+383,2,04:19,24,22,VIT,2_Pts_C,Kurtz
+384,2,04:28,22,22,VIT,BR,Keyron
+385,2,04:28,22,22,LSB,ER,Alexandre
+386,2,04:42,22,22,LSB,BR,J Sobral
+387,2,04:42,22,22,VIT,ER,Keyron
+388,2,04:48,22,22,VIT,RD,Arthur
+389,2,04:53,22,22,LSB,3_Pts_T,J Sobral
+390,2,05:09,22,22,VIT,3_Pts_C,Dawkins
+391,2,05:16,19,22,LSB,substituicao_entra,Alexandre
+392,2,05:16,19,22,LSB,substituicao_sai,Leandro
+393,2,05:20,19,22,LSB,ER,Bruno
+394,2,05:27,19,22,LSB,ER,J Sobral
+395,2,05:42,19,22,VIT,LL_Pts_C,Kurtz
+396,2,05:42,18,22,VIT,LL_Pts_C,Kurtz
+397,2,05:42,17,22,LSB,substituicao_entra,Leandro
+398,2,05:42,17,22,LSB,substituicao_sai,Lucão
+399,2,05:42,17,22,LSB,substituicao_entra,J Sobral
+400,2,05:42,17,22,LSB,substituicao_sai,Cafferata
+401,2,05:42,17,22,VIT,substituicao_entra,Keyron
+402,2,05:42,17,22,VIT,substituicao_sai,Edu Mariano
+403,2,05:42,17,22,VIT,FR,Kurtz
+404,2,05:42,17,22,LSB,FC,Lucão
+405,2,05:46,17,22,VIT,3_Pts_T,Dawkins
+406,2,05:53,17,22,VIT,RD,Arthur
+407,2,05:57,17,22,LSB,3_Pts_T,Cafferata
+408,2,06:12,17,22,VIT,AS,Kurtz
+409,2,06:12,17,22,VIT,2_Pts_C,Renato
+410,2,06:27,15,22,LSB,AS,Lucas
+411,2,06:27,15,22,LSB,2_Pts_C,Ted
+412,2,06:42,15,20,VIT,ER,Edu Mariano
+413,2,06:43,15,20,LSB,FR,Lucão
+414,2,06:43,15,20,VIT,FC_O,Edu Mariano
+415,2,06:46,15,20,VIT,FR,Renato
+416,2,06:46,15,20,LSB,FC,Bruno
+417,2,07:02,15,20,LSB,ER,Lucão
+418,2,07:03,15,20,VIT,FR,Kurtz
+419,2,07:03,15,20,LSB,FC_O,Lucão
+420,2,07:24,15,20,VIT,ER,Arthur
+421,2,07:30,15,20,LSB,substituicao_entra,Lucão
+422,2,07:30,15,20,LSB,substituicao_sai,Alexandre
+423,2,07:30,15,20,VIT,substituicao_entra,Renato
+424,2,07:30,15,20,VIT,substituicao_sai,Coimbra
+425,2,07:30,15,20,VIT,tempo_tecnico,
+426,2,07:39,15,20,LSB,AS,Cafferata
+427,2,07:39,15,20,LSB,3_Pts_C,Bruno
+428,2,07:43,15,17,LSB,RD,Bruno
+429,2,07:47,15,17,VIT,2_Pts_T,Kurtz
+430,2,08:04,15,17,VIT,RD,Coimbra
+431,2,08:07,15,17,LSB,3_Pts_T,Ted
+432,2,08:22,15,17,VIT,AS,Coimbra
+433,2,08:22,15,17,VIT,2_Pts_C,Edu Mariano
+434,2,08:48,13,17,LSB,2_Pts_C,Lucas
+435,2,08:58,13,15,VIT,AS,Edu Mariano
+436,2,08:58,13,15,VIT,LL_Pts_C,Kurtz
+437,2,08:58,12,15,VIT,LL_Pts_C,Kurtz
+438,2,08:58,11,15,LSB,substituicao_entra,Lucas
+439,2,08:58,11,15,LSB,substituicao_sai,Adriano
+440,2,08:58,11,15,LSB,substituicao_entra,Alexandre
+441,2,08:58,11,15,LSB,substituicao_sai,Maique
+442,2,09:00,11,15,VIT,FR,Kurtz
+443,2,09:00,11,15,LSB,FC,Maique
+444,2,09:19,11,15,LSB,2_Pts_C,Ted
+445,2,09:20,11,13,LSB,RO,Ted
+446,2,09:24,11,13,LSB,3_Pts_T,Bruno
+447,2,09:38,11,13,LSB,substituicao_entra,Maique
+448,2,09:38,11,13,LSB,substituicao_sai,Castellon
+449,2,09:42,11,13,LSB,BR,Adriano
+450,2,09:42,11,13,VIT,ER,Edu Mariano
+451,2,09:45,11,13,VIT,FR,Kurtz
+452,2,09:45,11,13,LSB,FC,Maique
+453,2,10:00,11,13,,inicio_quarto,
+454,1,00:00,11,13,,fim_quarto,
+455,1,00:02,11,13,VIT,RD,Vitória
+456,1,00:06,11,13,LSB,3_Pts_T,Bruno
+457,1,00:08,11,13,VIT,ER,Keyron
+458,1,00:22,11,13,LSB,AS,Ted
+459,1,00:22,11,13,LSB,2_Pts_C,Adriano
+460,1,00:24,11,11,LSB,RO,Bruno
+461,1,00:28,11,11,LSB,2_Pts_T,Adriano
+462,1,00:45,11,11,VIT,AS,André
+463,1,00:45,11,11,VIT,2_Pts_C,Arthur
+464,1,01:02,9,11,LSB,LL_Pts_C,Cafferata
+465,1,01:02,9,10,LSB,FR,Cafferata
+466,1,01:02,9,10,VIT,FC,Murilo
+467,1,01:06,9,10,LSB,2_Pts_C,Cafferata
+468,1,01:12,9,8,VIT,substituicao_entra,Arthur
+469,1,01:12,9,8,VIT,substituicao_sai,Renato
+470,1,01:12,9,8,LSB,substituicao_entra,Cafferata
+471,1,01:12,9,8,LSB,substituicao_sai,Lucas
+472,1,01:13,9,8,LSB,RD,L Sorocabana
+473,1,01:16,9,8,VIT,3_Pts_T,Murilo
+474,1,01:19,9,8,VIT,RO,Murilo
+475,1,01:23,9,8,VIT,3_Pts_T,Renato
+476,1,01:45,9,8,LSB,2_Pts_C,Lucas
+477,1,01:55,9,6,LSB,substituicao_entra,Castellon
+478,1,01:55,9,6,LSB,substituicao_sai,Cafferata
+479,1,02:01,9,6,LSB,BR,Cafferata
+480,1,02:01,9,6,VIT,ER,Keyron
+481,1,02:19,9,6,LSB,EN,Lucas
+482,1,02:20,9,4,LSB,RO,Lucas
+483,1,02:25,9,4,LSB,3_Pts_T,Ted
+484,1,02:32,9,4,VIT,substituicao_entra,Murilo
+485,1,02:32,9,4,VIT,substituicao_sai,Dawkins
+486,1,02:32,9,4,LSB,substituicao_entra,Cafferata
+487,1,02:32,9,4,LSB,substituicao_sai,J Sobral
+488,1,02:33,9,4,LSB,FR,Lucas
+489,1,02:33,9,4,VIT,FC,Coimbra
+490,1,02:42,9,4,LSB,RD,Adriano
+491,1,02:45,9,4,VIT,2_Pts_T,André
+492,1,02:46,9,4,VIT,RO,André
+493,1,02:49,9,4,VIT,2_Pts_T,Dawkins
+494,1,02:58,9,4,LSB,substituicao_entra,Adriano
+495,1,02:58,9,4,LSB,substituicao_sai,Alexandre
+496,1,02:58,9,4,VIT,tempo_tecnico,
+497,1,02:58,9,4,VIT,substituicao_entra,André
+498,1,02:58,9,4,VIT,substituicao_sai,Arthur
+499,1,03:07,9,4,LSB,BR,Ted
+500,1,03:07,9,4,VIT,ER,Keyron
+501,1,03:14,9,4,LSB,2_Pts_C,Ted
+502,1,03:16,9,2,LSB,RD,Alexandre
+503,1,03:20,9,2,VIT,2_Pts_T,Dawkins
+504,1,03:24,9,2,VIT,BR,Dawkins
+505,1,03:24,9,2,LSB,ER,J Sobral
+506,1,03:43,9,2,VIT,AS,Dawkins
+507,1,03:43,9,2,VIT,3_Pts_C,Renato
+508,1,03:52,6,2,LSB,substituicao_entra,Ted
+509,1,03:52,6,2,LSB,substituicao_sai,Luisinho
+510,1,03:56,6,2,VIT,RD,Coimbra
+511,1,03:58,6,2,LSB,2_Pts_T,Luisinho
+512,1,04:02,6,2,LSB,RD,Alexandre
+513,1,04:09,6,2,VIT,2_Pts_T,Renato
+514,1,04:20,6,2,VIT,substituicao_entra,Renato
+515,1,04:20,6,2,VIT,substituicao_sai,Kurtz
+516,1,04:20,6,2,LSB,substituicao_entra,Lucas
+517,1,04:20,6,2,LSB,substituicao_sai,Maique
+518,1,04:20,6,2,LSB,substituicao_entra,Alexandre
+519,1,04:20,6,2,LSB,substituicao_sai,Cafferata
+520,1,04:28,6,2,VIT,BR,Dawkins
+521,1,04:28,6,2,LSB,ER,Maique
+522,1,04:46,6,2,LSB,RD,Maique
+523,1,04:50,6,2,VIT,3_Pts_T,Keyron
+524,1,05:06,6,2,LSB,AS,Luisinho
+525,1,05:06,6,2,LSB,2_Pts_C,Maique
+526,1,05:09,6,0,LSB,RO,Luisinho
+527,1,05:15,6,0,VIT,TO,Coimbra
+528,1,05:15,6,0,LSB,2_Pts_T,Cafferata
+529,1,05:32,6,0,VIT,AS,Dawkins
+530,1,05:32,6,0,VIT,LL_Pts_C,Arthur
+531,1,05:32,5,0,VIT,LL_Pts_C,Arthur
+532,1,05:35,4,0,VIT,FR,Arthur
+533,1,05:35,4,0,LSB,FC,Maique
+534,1,05:49,4,0,VIT,substituicao_entra,Keyron
+535,1,05:49,4,0,VIT,substituicao_sai,Edu Mariano
+536,1,05:49,4,0,LSB,substituicao_entra,J Sobral
+537,1,05:49,4,0,LSB,substituicao_sai,Castellon
+538,1,05:50,4,0,VIT,RD,Vitória
+539,1,05:55,4,0,LSB,2_Pts_T,Castellon
+540,1,05:59,4,0,LSB,RD,Bruno
+541,1,06:02,4,0,VIT,2_Pts_T,Coimbra
+542,1,06:09,4,0,VIT,BR,Coimbra
+543,1,06:09,4,0,LSB,ER,Castellon
+544,1,06:44,4,0,VIT,AS,Edu Mariano
+545,1,06:44,4,0,VIT,2_Pts_C,Arthur
+546,1,06:48,2,0,VIT,substituicao_entra,Coimbra
+547,1,06:48,2,0,VIT,substituicao_sai,Renato
+548,1,06:48,2,0,LSB,substituicao_entra,Bruno
+549,1,06:48,2,0,LSB,substituicao_sai,Ted
+550,1,06:48,2,0,LSB,substituicao_entra,Maique
+551,1,06:48,2,0,LSB,substituicao_sai,Alexandre
+552,1,06:49,2,0,VIT,FR,Arthur
+553,1,06:49,2,0,LSB,FC,Castellon
+554,1,06:51,2,0,VIT,RD,Arthur
+555,1,06:55,2,0,LSB,2_Pts_T,Alexandre
+556,1,06:56,2,0,LSB,RO,Alexandre
+557,1,07:00,2,0,LSB,3_Pts_T,Ted
+558,1,07:07,2,0,LSB,BR,Alexandre
+559,1,07:07,2,0,VIT,ER,Kurtz
+560,1,07:12,2,0,LSB,TO,Alexandre
+561,1,07:12,2,0,VIT,2_Pts_T,Renato
+562,1,07:26,2,0,LSB,ER,Cafferata
+563,1,07:44,2,0,VIT,LL_Pts_C,Arthur
+564,1,07:44,1,0,VIT,LL_Pts_C,Arthur
+565,1,07:44,0,0,LSB,substituicao_entra,Luisinho
+566,1,07:44,0,0,LSB,substituicao_sai,Lucas
+567,1,07:46,0,0,VIT,FR,Arthur
+568,1,07:46,0,0,LSB,FC,Castellon
+569,1,07:50,0,0,VIT,RD,Arthur
+570,1,07:54,0,0,LSB,3_Pts_T,Lucas
+571,1,07:57,0,0,LSB,RO,Castellon
+572,1,08:00,0,0,LSB,2_Pts_T,Lucas
+573,1,08:06,0,0,LSB,FR,Cafferata
+574,1,08:06,0,0,VIT,FC,Arthur
+575,1,08:19,0,0,LSB,RD,L Sorocabana
+576,1,08:24,0,0,VIT,3_Pts_T,Renato
+577,1,08:40,0,0,VIT,RD,Renato
+578,1,08:44,0,0,LSB,2_Pts_T,Castellon
+579,1,08:56,0,0,LSB,RD,Castellon
+580,1,09:00,0,0,VIT,3_Pts_T,Dawkins
+581,1,09:04,0,0,VIT,FR,Dawkins
+582,1,09:04,0,0,LSB,FC,Cafferata
+583,1,09:14,0,0,LSB,ER,Lucas
+584,1,09:40,0,0,LSB,FR,Alexandre
+585,1,09:40,0,0,VIT,FC,Kurtz
+586,1,09:47,0,0,LSB,3_Pts_T,Cafferata
+587,1,10:00,0,0,LSB,substituicao_entra,Cafferata
+588,1,10:00,0,0,LSB,substituicao_entra,Ted
+589,1,10:00,0,0,LSB,substituicao_entra,Alexandre
+590,1,10:00,0,0,LSB,substituicao_entra,Castellon
+591,1,10:00,0,0,LSB,substituicao_entra,Lucas
+592,1,10:00,0,0,VIT,substituicao_entra,Kurtz
+593,1,10:00,0,0,VIT,substituicao_entra,Edu Mariano
+594,1,10:00,0,0,VIT,substituicao_entra,Dawkins
+595,1,10:00,0,0,VIT,substituicao_entra,Renato
+596,1,10:00,0,0,VIT,substituicao_entra,Arthur

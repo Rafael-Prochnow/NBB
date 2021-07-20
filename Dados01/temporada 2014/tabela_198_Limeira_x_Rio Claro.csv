@@ -1,0 +1,498 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,95,90, ,fim_partida,
+1,5,00:04,95,90,LIM,BR,Teichmann
+2,5,00:04,95,90,RCB,ER,Tatu
+3,5,00:13,95,90,LIM,LL_Pts_C,David Jackson
+4,5,00:13,94,90,LIM,LL_Pts_T,David Jackson
+5,5,00:13,94,90,LIM,FR,David Jackson
+6,5,00:13,94,90,RCB,FC,Brown
+7,5,00:17,94,90,LIM,BR,Limeira
+8,5,00:17,94,90,RCB,ER,Brown
+9,5,00:18,94,90,LIM,LL_Pts_C,Matheus Dalla
+10,5,00:18,93,90,LIM,LL_Pts_C,Matheus Dalla
+11,5,00:18,92,90,LIM,FR,Matheus Dalla
+12,5,00:18,92,90,RCB,FC,Vinicius
+13,5,00:18,92,90,LIM,BR,Matheus Dalla
+14,5,00:18,92,90,RCB,ER,Brown
+15,5,00:18,92,90,RCB,BR,Calvo
+16,5,00:18,92,90,LIM,ER,Ronald Ramon
+17,5,00:39,92,90,RCB,LL_Pts_C,Mosso
+18,5,00:39,92,89,RCB,LL_Pts_C,Mosso
+19,5,00:39,92,88,RCB,FR,Mosso
+20,5,00:39,92,88,LIM,FC,Hayes
+21,5,00:44,92,88,RCB,tempo_tecnico,Rio Claro
+22,5,00:44,92,88,LIM,3_Pts_C,Ronald Ramon
+23,5,00:44,89,88,LIM,AS,David Jackson
+24,5,00:52,89,88,LIM,RD,David Jackson
+25,5,00:52,89,88,RCB,2_Pts_T,Tatu
+26,5,01:00,89,88,RCB,BR,Tatu
+27,5,01:00,89,88,LIM,ER,Ronald Ramon
+28,5,01:06,89,88,RCB,LL_Pts_C,Tatu
+29,5,01:08,89,87,RCB,2_Pts_C,Tatu
+30,5,01:08,89,85,RCB,FR,Tatu
+31,5,01:08,89,85,LIM,FC,Ronald Ramon
+32,5,01:21,89,85,LIM,2_Pts_C,Matheus Dalla
+33,5,01:21,87,85,LIM,AS,Teichmann
+34,5,01:49,87,85,RCB,2_Pts_C,Brown
+35,5,02:03,87,83,LIM,LL_Pts_C,Ronald Ramon
+36,5,02:03,86,83,LIM,LL_Pts_C,Ronald Ramon
+37,5,02:03,85,83,RCB,substituicao_entra,Vinicius
+38,5,02:03,85,83,RCB,substituicao_sai,Tischer
+39,5,02:03,85,83,LIM,FR,Ronald Ramon
+40,5,02:03,85,83,RCB,FC,Tischer
+41,5,02:29,85,83,RCB,2_Pts_C,Tischer
+42,5,02:29,85,81,RCB,AS,Tatu
+43,5,02:47,85,81,RCB,RD,Tatu
+44,5,02:47,85,81,LIM,3_Pts_T,David Jackson
+45,5,03:12,85,81,LIM,RD,Matheus Dalla
+46,5,03:12,85,81,RCB,3_Pts_T,Mosso
+47,5,03:20,85,81,LIM,LL_Pts_C,Ronald Ramon
+48,5,03:20,84,81,LIM,LL_Pts_C,Ronald Ramon
+49,5,03:22,83,81,LIM,FR,Ronald Ramon
+50,5,03:22,83,81,RCB,FC,Tischer
+51,5,03:42,83,81,RCB,EN,Tischer
+52,5,03:42,83,79,RCB,AS,Brown
+53,5,04:00,83,79,LIM,3_Pts_C,Matheus Dalla
+54,5,04:00,80,79,LIM,AS,Ronald Ramon
+55,5,04:18,80,79,RCB,2_Pts_C,Brown
+56,5,04:35,80,77,LIM,LL_Pts_C,David Jackson
+57,5,04:38,79,77,LIM,2_Pts_C,David Jackson
+58,5,04:38,77,77,LIM,FR,David Jackson
+59,5,04:38,77,77,RCB,FC,Tatu
+60,5,05:00,77,77,RCB,substituicao_entra,Tischer
+61,5,05:00,77,77,RCB,substituicao_entra,Calvo
+62,5,05:00,77,77,RCB,substituicao_entra,Mosso
+63,5,05:00,77,77,RCB,substituicao_entra,Brown
+64,5,05:00,77,77,RCB,substituicao_entra,Tatu
+65,5,05:00,77,77,LIM,substituicao_entra,Hayes
+66,5,05:00,77,77,LIM,substituicao_entra,David Jackson
+67,5,05:00,77,77,LIM,substituicao_entra,Teichmann
+68,5,05:00,77,77,LIM,substituicao_entra,Ronald Ramon
+69,5,05:00,77,77,LIM,substituicao_entra,Matheus Dalla
+70,5,05:00,77,77,RCB,substituicao_sai,Tischer
+71,5,05:00,77,77,RCB,substituicao_sai,Calvo
+72,5,05:00,77,77,RCB,substituicao_sai,Brown
+73,5,05:00,77,77,RCB,substituicao_sai,Mosso
+74,5,05:00,77,77,RCB,substituicao_sai,Tatu
+75,5,05:00,77,77,LIM,substituicao_sai,Hayes
+76,5,05:00,77,77,LIM,substituicao_sai,David Jackson
+77,5,05:00,77,77,LIM,substituicao_sai,Ronald Ramon
+78,5,05:00,77,77,LIM,substituicao_sai,Teichmann
+79,5,05:00,77,77,LIM,substituicao_sai,Matheus Dalla
+80,4,00:00,77,77, ,fim_quarto,
+81,4,00:00,77,77,LIM,BR,Teichmann
+82,4,00:00,77,77,RCB,ER,Calvo
+83,4,00:12,77,77,LIM,substituicao_entra,Teichmann
+84,4,00:12,77,77,LIM,substituicao_sai,Bruno Fiorotto
+85,4,00:12,77,77,RCB,tempo_tecnico,Rio Claro
+86,4,00:12,77,77,LIM,LL_Pts_C,David Jackson
+87,4,00:12,76,77,LIM,2_Pts_C,David Jackson
+88,4,00:12,74,77,LIM,FR,David Jackson
+89,4,00:12,74,77,RCB,FC,Tischer
+90,4,00:23,74,77,LIM,RD,Bruno Fiorotto
+91,4,00:23,74,77,RCB,2_Pts_T,Mosso
+92,4,00:44,74,77,LIM,3_Pts_C,Hayes
+93,4,00:44,71,77,LIM,AS,Ronald Ramon
+94,4,00:46,71,77,RCB,tempo_tecnico,Rio Claro
+95,4,00:46,71,77,RCB,FR,Brown
+96,4,00:46,71,77,LIM,FC,Matheus Dalla
+97,4,00:55,71,77,RCB,ER,
+98,4,01:21,71,77,RCB,RD,Calvo
+99,4,01:21,71,77,LIM,3_Pts_T,Ronald Ramon
+100,4,01:36,71,77,RCB,2_Pts_C,Tatu
+101,4,01:48,71,75,LIM,2_Pts_C,Ronald Ramon
+102,4,02:02,69,75,RCB,2_Pts_C,Mosso
+103,4,02:16,69,73,RCB,RD,Tatu
+104,4,02:16,69,73,LIM,3_Pts_T,Ronald Ramon
+105,4,02:21,69,73,LIM,RO,Hayes
+106,4,02:21,69,73,LIM,2_Pts_T,David Jackson
+107,4,02:45,69,73,RCB,2_Pts_C,Brown
+108,4,02:45,69,71,RCB,AS,Mosso
+109,4,03:09,69,71,LIM,tempo_tecnico,Limeira
+110,4,03:09,69,71,LIM,ER,
+111,4,03:37,69,71,RCB,2_Pts_C,Brown
+112,4,03:52,69,69,RCB,FR,Brown
+113,4,03:52,69,69,LIM,FC,Bruno Fiorotto
+114,4,03:54,69,69,RCB,FR,Tatu
+115,4,03:54,69,69,LIM,FC,Ronald Ramon
+116,4,04:13,69,69,LIM,LL_Pts_C,Hayes
+117,4,04:13,68,69,LIM,LL_Pts_C,Hayes
+118,4,04:15,67,69,LIM,FR,Hayes
+119,4,04:15,67,69,RCB,FC,Mosso
+120,4,04:39,67,69,LIM,RD,David Jackson
+121,4,04:39,67,69,RCB,2_Pts_T,Tischer
+122,4,04:52,67,69,LIM,3_Pts_C,Matheus Dalla
+123,4,04:52,64,69,LIM,AS,Hayes
+124,4,05:09,64,69,LIM,RD,Ronald Ramon
+125,4,05:09,64,69,RCB,3_Pts_T,Tatu
+126,4,05:25,64,69,RCB,RD,Mosso
+127,4,05:25,64,69,LIM,2_Pts_T,David Jackson
+128,4,05:53,64,69,RCB,3_Pts_C,Brown
+129,4,06:13,64,66,RCB,tempo_tecnico,Rio Claro
+130,4,06:13,64,66,LIM,ER,David Jackson
+131,4,06:28,64,66,LIM,RD,Bruno Fiorotto
+132,4,06:28,64,66,RCB,2_Pts_T,Calvo
+133,4,06:46,64,66,RCB,RD,Calvo
+134,4,06:46,64,66,LIM,2_Pts_T,David Jackson
+135,4,07:01,64,66,LIM,RD,Limeira
+136,4,07:01,64,66,RCB,2_Pts_T,Tischer
+137,4,07:24,64,66,LIM,2_Pts_C,David Jackson
+138,4,07:38,62,66,RCB,LL_Pts_C,Tischer
+139,4,07:38,62,65,RCB,AS,Tatu
+140,4,07:38,62,65,RCB,EN,Tischer
+141,4,07:38,62,63,RCB,FR,Tischer
+142,4,07:38,62,63,LIM,FC,Bruno Fiorotto
+143,4,07:55,62,63,LIM,EN,Hayes
+144,4,07:55,60,63,LIM,AS,David Jackson
+145,4,07:55,60,63,LIM,FR,David Jackson
+146,4,07:55,60,63,RCB,FC,Tischer
+147,4,08:06,60,63,LIM,RD,Bruno Fiorotto
+148,4,08:06,60,63,RCB,2_Pts_T,Brown
+149,4,08:30,60,63,LIM,2_Pts_C,Hayes
+150,4,08:45,58,63,RCB,3_Pts_C,Tatu
+151,4,08:45,58,60,RCB,AS,Calvo
+152,4,08:52,58,60,RCB,BR,Tischer
+153,4,08:52,58,60,LIM,ER,David Jackson
+154,4,09:09,58,60,RCB,2_Pts_C,Calvo
+155,4,09:16,58,58,RCB,RO,Calvo
+156,4,09:16,58,58,LIM,TO,Hayes
+157,4,09:16,58,58,RCB,2_Pts_T,Tatu
+158,4,09:23,58,58,RCB,RD,Brown
+159,4,09:23,58,58,LIM,3_Pts_T,Matheus Dalla
+160,4,09:38,58,58,LIM,RD,Bruno Fiorotto
+161,4,09:38,58,58,RCB,2_Pts_T,Calvo
+162,3,00:00,58,58, ,fim_quarto,
+163,3,00:00,58,58,RCB,RD,Mosso
+164,3,00:00,58,58,LIM,2_Pts_T,Bruno Fiorotto
+165,3,00:10,58,58,RCB,2_Pts_C,Mosso
+166,3,00:10,58,56,RCB,AS,Tatu
+167,3,00:15,58,56,RCB,RD,Tischer
+168,3,00:15,58,56,LIM,2_Pts_T,Teichmann
+169,3,00:57,58,56,RCB,2_Pts_C,Tatu
+170,3,01:08,58,54,LIM,LL_Pts_C,Teichmann
+171,3,01:08,57,54,LIM,LL_Pts_C,Teichmann
+172,3,01:08,56,54,LIM,FR,Teichmann
+173,3,01:08,56,54,RCB,FC,Mosso
+174,3,01:16,56,54,RCB,2_Pts_C,Brown
+175,3,01:16,56,52,RCB,AS,Tatu
+176,3,01:23,56,52,RCB,BR,Tatu
+177,3,01:23,56,52,LIM,ER,Teichmann
+178,3,01:33,56,52,RCB,substituicao_entra,Calvo
+179,3,01:33,56,52,RCB,substituicao_sai,Caio
+180,3,01:33,56,52,RCB,LL_Pts_C,Tischer
+181,3,01:33,56,51,RCB,2_Pts_C,Caio
+182,3,01:33,56,49,RCB,substituicao_entra,Caio
+183,3,01:33,56,49,RCB,substituicao_sai,Calvo
+184,3,01:34,56,49,LIM,tempo_tecnico,Limeira
+185,3,01:34,56,49,RCB,3_Pts_C,Mosso
+186,3,01:34,56,46,RCB,AS,Brown
+187,3,01:48,56,46,RCB,RD,Brown
+188,3,01:48,56,46,LIM,3_Pts_T,David Jackson
+189,3,02:11,56,46,LIM,RD,Limeira
+190,3,02:11,56,46,RCB,2_Pts_T,Mosso
+191,3,02:17,56,46,RCB,BR,Tatu
+192,3,02:17,56,46,LIM,ER,Ronald Ramon
+193,3,02:46,56,46,RCB,LL_Pts_C,Tatu
+194,3,02:46,56,45,RCB,LL_Pts_T,Tatu
+195,3,02:46,56,45,RCB,FR,Tatu
+196,3,02:46,56,45,LIM,FC,Deryk
+197,3,02:46,56,45,RCB,substituicao_entra,Brown
+198,3,02:46,56,45,RCB,substituicao_sai,Caio
+199,3,02:46,56,45,RCB,FR,Tischer
+200,3,02:46,56,45,LIM,FC_O,Bruno Fiorotto
+201,3,04:40,56,45,RCB,FR,Tischer
+202,3,04:40,56,45,LIM,FC,Matheus Dalla
+203,3,04:51,56,45,RCB,2_Pts_C,Tischer
+204,3,04:51,56,43,RCB,AS,Tatu
+205,3,04:51,56,43,RCB,RD,Caio
+206,3,04:51,56,43,LIM,3_Pts_T,Ronald Ramon
+207,3,04:51,56,43,LIM,RD,Bruno Fiorotto
+208,3,04:51,56,43,RCB,2_Pts_T,Caio
+209,3,04:51,56,43,LIM,LL_Pts_C,David Jackson
+210,3,04:51,55,43,LIM,LL_Pts_C,David Jackson
+211,3,04:51,54,43,LIM,FR,David Jackson
+212,3,04:51,54,43,RCB,FC,Tischer
+213,3,04:51,54,43,LIM,BR,Teichmann
+214,3,04:51,54,43,RCB,ER,Tischer
+215,3,04:51,54,43,RCB,RD,Tischer
+216,3,04:51,54,43,LIM,2_Pts_T,Teichmann
+217,3,04:51,54,43,RCB,2_Pts_C,Caio
+218,3,04:51,54,41,RCB,AS,Calvo
+219,3,04:51,54,41,RCB,BR,Calvo
+220,3,04:51,54,41,LIM,ER,Bruno Fiorotto
+221,3,04:51,54,41,LIM,substituicao_entra,Deryk
+222,3,04:51,54,41,LIM,substituicao_sai,Matheus Dalla
+223,3,04:51,54,41,RCB,LL_Pts_T,Tischer
+224,3,04:55,54,41,RCB,RD,Mosso
+225,3,04:55,54,41,LIM,LL_Pts_T,Teichmann
+226,3,04:55,54,41,LIM,LL_Pts_T,Teichmann
+227,3,04:55,54,41,LIM,FR,Teichmann
+228,3,04:55,54,41,RCB,FC,Tatu
+229,3,05:07,54,41,LIM,RO,Teichmann
+230,3,05:07,54,41,LIM,2_Pts_T,Ronald Ramon
+231,3,05:27,54,41,RCB,3_Pts_C,Mosso
+232,3,05:39,54,38,LIM,LL_Pts_C,David Jackson
+233,3,05:39,53,38,LIM,LL_Pts_C,David Jackson
+234,3,05:39,52,38,RCB,substituicao_entra,Tischer
+235,3,05:39,52,38,RCB,substituicao_sai,Estevam
+236,3,05:39,52,38,LIM,FR,David Jackson
+237,3,05:39,52,38,RCB,FC,Caio
+238,3,06:23,52,38,RCB,2_Pts_C,Mosso
+239,3,06:23,52,36,LIM,3_Pts_C,David Jackson
+240,3,06:23,49,36,LIM,AS,Matheus Dalla
+241,3,06:23,49,36,RCB,AS,Tatu
+242,3,06:23,49,36,LIM,RD,Teichmann
+243,3,06:23,49,36,LIM,substituicao_entra,Teichmann
+244,3,06:23,49,36,LIM,substituicao_sai,Hayes
+245,3,06:23,49,36,LIM,TO,Bruno Fiorotto
+246,3,06:23,49,36,RCB,LL_Pts_C,Caio
+247,3,06:25,49,35,RCB,2_Pts_C,Caio
+248,3,06:25,49,33,RCB,FR,Caio
+249,3,06:25,49,33,LIM,FC,Hayes
+250,3,06:44,49,33,LIM,2_Pts_C,Matheus Dalla
+251,3,06:44,47,33,LIM,AS,David Jackson
+252,3,06:48,47,33,LIM,RD,David Jackson
+253,3,06:48,47,33,RCB,2_Pts_T,Estevam
+254,3,07:05,47,33,RCB,RD,Mosso
+255,3,07:05,47,33,LIM,2_Pts_T,Hayes
+256,3,07:17,47,33,RCB,substituicao_entra,Mosso
+257,3,07:17,47,33,RCB,substituicao_sai,Vinicius
+258,3,07:17,47,33,LIM,FR,Hayes
+259,3,07:17,47,33,RCB,FC,Vinicius
+260,3,07:30,47,33,RCB,2_Pts_C,Vinicius
+261,3,07:30,47,31,RCB,AS,Tatu
+262,3,07:36,47,31,RCB,BR,Tatu
+263,3,07:36,47,31,LIM,ER,Ronald Ramon
+264,3,07:57,47,31,RCB,2_Pts_C,Calvo
+265,3,08:00,47,29,RCB,FR,Estevam
+266,3,08:00,47,29,LIM,FC,Hayes
+267,3,08:02,47,29,RCB,RD,Calvo
+268,3,08:02,47,29,RCB,TO,Calvo
+269,3,08:02,47,29,LIM,2_Pts_T,Ronald Ramon
+270,3,08:04,47,29,LIM,FR,Hayes
+271,3,08:04,47,29,RCB,FC,Tatu
+272,3,08:10,47,29,RCB,RD,Estevam
+273,3,08:10,47,29,LIM,2_Pts_T,Bruno Fiorotto
+274,3,08:23,47,29,LIM,FR,Matheus Dalla
+275,3,08:23,47,29,RCB,FC,Calvo
+276,3,08:44,47,29,RCB,2_Pts_C,Calvo
+277,3,08:51,47,27,RCB,RO,Calvo
+278,3,08:51,47,27,RCB,2_Pts_T,Caio
+279,3,09:06,47,27,LIM,3_Pts_C,Matheus Dalla
+280,3,09:06,44,27,LIM,AS,Bruno Fiorotto
+281,3,09:23,44,27,LIM,FR,Hayes
+282,3,09:23,44,27,RCB,FC,Vinicius
+283,3,09:30,44,27,LIM,RD,Hayes
+284,3,09:30,44,27,RCB,2_Pts_T,Estevam
+285,3,09:49,44,27,RCB,RD,Caio
+286,3,09:49,44,27,LIM,2_Pts_T,Matheus Dalla
+287,2,00:00,44,27, ,fim_quarto,
+288,2,00:01,44,27,LIM,EN,David Jackson
+289,2,00:04,42,27,LIM,BR,David Jackson
+290,2,00:04,42,27,RCB,ER,Tatu
+291,2,00:26,42,27,RCB,RD,Estevam
+292,2,00:26,42,27,LIM,3_Pts_T,Dú Sommer
+293,2,00:40,42,27,RCB,substituicao_entra,Tatu
+294,2,00:40,42,27,RCB,substituicao_sai,Brown
+295,2,00:42,42,27,RCB,ER,
+296,2,01:02,42,27,RCB,RO,Caio
+297,2,01:02,42,27,RCB,3_Pts_T,Brown
+298,2,01:13,42,27,LIM,2_Pts_C,Bruno Fiorotto
+299,2,01:19,40,27,LIM,RO,Bruno Fiorotto
+300,2,01:19,40,27,LIM,2_Pts_T,Dú Sommer
+301,2,01:38,40,27,RCB,substituicao_entra,Duso
+302,2,01:38,40,27,RCB,substituicao_sai,Calvo
+303,2,01:38,40,27,LIM,substituicao_entra,Dú Sommer
+304,2,01:38,40,27,LIM,substituicao_sai,Hayes
+305,2,01:38,40,27,LIM,RD,Limeira
+306,2,01:38,40,27,LIM,TO,Bruno Fiorotto
+307,2,01:38,40,27,RCB,2_Pts_T,Brown
+308,2,01:56,40,27,LIM,2_Pts_C,Bruno Fiorotto
+309,2,01:56,38,27,LIM,AS,Matheus Dalla
+310,2,02:16,38,27,RCB,2_Pts_C,Estevam
+311,2,02:20,38,25,RCB,RO,Estevam
+312,2,02:20,38,25,RCB,2_Pts_T,Caio
+313,2,02:39,38,25,RCB,BR,Rio Claro
+314,2,02:39,38,25,LIM,ER,Bruno Fiorotto
+315,2,02:58,38,25,RCB,substituicao_entra,Brown
+316,2,02:58,38,25,RCB,substituicao_sai,Tatu
+317,2,03:00,38,25,RCB,ER,
+318,2,03:25,38,25,LIM,substituicao_entra,Deryk
+319,2,03:25,38,25,LIM,substituicao_sai,Ronald Ramon
+320,2,03:29,38,25,LIM,2_Pts_C,David Jackson
+321,2,03:29,36,25,LIM,AS,Ronald Ramon
+322,2,03:34,36,25,LIM,BR,Ronald Ramon
+323,2,03:34,36,25,RCB,ER,Calvo
+324,2,03:54,36,25,LIM,2_Pts_C,Ronald Ramon
+325,2,04:03,34,25,LIM,RD,Matheus Dalla
+326,2,04:03,34,25,RCB,2_Pts_T,Tatu
+327,2,04:10,34,25,RCB,FR,Caio
+328,2,04:10,34,25,LIM,FC_O,David Jackson
+329,2,04:29,34,25,LIM,BR,Limeira
+330,2,04:29,34,25,RCB,ER,Mosso
+331,2,04:29,34,25,LIM,substituicao_entra,Bruno Fiorotto
+332,2,04:29,34,25,LIM,substituicao_sai,Teichmann
+333,2,04:29,34,25,RCB,FR,Calvo
+334,2,04:29,34,25,LIM,FC,Matheus Dalla
+335,2,04:34,34,25,RCB,RD,Calvo
+336,2,04:34,34,25,LIM,3_Pts_T,Matheus Dalla
+337,2,04:56,34,25,RCB,2_Pts_C,Tatu
+338,2,05:02,34,23,RCB,RO,Tatu
+339,2,05:02,34,23,RCB,3_Pts_T,Calvo
+340,2,05:23,34,23,LIM,substituicao_entra,Matheus Dalla
+341,2,05:23,34,23,LIM,substituicao_sai,Deryk
+342,2,05:25,34,23,LIM,ER,Hayes
+343,2,05:39,34,23,RCB,2_Pts_C,Estevam
+344,2,05:56,34,21,RCB,RD,Estevam
+345,2,05:56,34,21,LIM,2_Pts_T,Ronald Ramon
+346,2,06:19,34,21,RCB,2_Pts_C,Estevam
+347,2,06:40,34,19,RCB,substituicao_entra,Mosso
+348,2,06:40,34,19,RCB,substituicao_sai,Vinicius
+349,2,06:49,34,19,RCB,tempo_tecnico,Rio Claro
+350,2,06:49,34,19,LIM,2_Pts_C,Teichmann
+351,2,06:49,32,19,LIM,AS,Ronald Ramon
+352,2,06:59,32,19,LIM,BR,Ronald Ramon
+353,2,06:59,32,19,RCB,ER,Calvo
+354,2,07:22,32,19,RCB,RD,Estevam
+355,2,07:22,32,19,LIM,3_Pts_T,Deryk
+356,2,07:31,32,19,LIM,RD,Ronald Ramon
+357,2,07:31,32,19,RCB,3_Pts_T,Caio
+358,2,07:54,32,19,LIM,2_Pts_C,David Jackson
+359,2,07:54,30,19,LIM,AS,Hayes
+360,2,07:59,30,19,LIM,FR,Hayes
+361,2,07:59,30,19,RCB,FC,Vinicius
+362,2,08:11,30,19,LIM,RD,Deryk
+363,2,08:11,30,19,RCB,2_Pts_T,Estevam
+364,2,08:36,30,19,LIM,3_Pts_C,Deryk
+365,2,08:36,27,19,LIM,AS,Hayes
+366,2,08:47,27,19,LIM,RD,Deryk
+367,2,08:47,27,19,LIM,TO,Teichmann
+368,2,08:47,27,19,RCB,2_Pts_T,Calvo
+369,2,09:05,27,19,LIM,EN,Teichmann
+370,2,09:05,25,19,LIM,AS,Hayes
+371,2,09:18,25,19,LIM,tempo_tecnico,Limeira
+372,2,09:18,25,19,RCB,AS,Calvo
+373,2,09:24,25,19,RCB,RD,Tatu
+374,2,09:24,25,19,LIM,3_Pts_T,David Jackson
+375,2,09:44,25,19,RCB,2_Pts_C,Calvo
+376,2,09:44,25,17,RCB,AS,Tatu
+377,1,00:00,25,17, ,fim_quarto,
+378,1,00:00,25,17,RCB,3_Pts_C,Caio
+379,1,00:03,25,14,LIM,substituicao_entra,Higor
+380,1,00:03,25,14,LIM,substituicao_entra,Dú Sommer
+381,1,00:03,25,14,LIM,substituicao_sai,Ronald Ramon
+382,1,00:03,25,14,LIM,substituicao_sai,Hayes
+383,1,00:03,25,14,RCB,FR,Caio
+384,1,00:03,25,14,LIM,FC,Hayes
+385,1,00:08,25,14,LIM,substituicao_entra,Deryk
+386,1,00:08,25,14,LIM,substituicao_sai,David Jackson
+387,1,00:08,25,14,LIM,substituicao_entra,Teichmann
+388,1,00:08,25,14,LIM,substituicao_sai,Bruno Fiorotto
+389,1,00:08,25,14,RCB,FR,Tatu
+390,1,00:08,25,14,LIM,FC,Ronald Ramon
+391,1,00:16,25,14,RCB,RD,Caio
+392,1,00:16,25,14,LIM,3_Pts_T,David Jackson
+393,1,00:21,25,14,LIM,BR,Ronald Ramon
+394,1,00:21,25,14,RCB,ER,Calvo
+395,1,00:42,25,14,RCB,RD,Cicero
+396,1,00:42,25,14,LIM,3_Pts_T,Matheus Dalla
+397,1,00:58,25,14,RCB,2_Pts_C,Vinicius
+398,1,00:58,25,12,RCB,AS,Tatu
+399,1,01:14,25,12,LIM,3_Pts_C,David Jackson
+400,1,01:14,22,12,LIM,AS,Matheus Dalla
+401,1,01:31,22,12,RCB,3_Pts_C,Tatu
+402,1,01:58,22,9,LIM,EN,Bruno Fiorotto
+403,1,01:58,20,9,LIM,AS,David Jackson
+404,1,02:05,20,9,LIM,RD,Hayes
+405,1,02:05,20,9,RCB,3_Pts_T,Vinicius
+406,1,02:15,20,9,LIM,2_Pts_C,Matheus Dalla
+407,1,02:15,18,9,LIM,AS,David Jackson
+408,1,02:27,18,9,LIM,RD,David Jackson
+409,1,02:27,18,9,RCB,3_Pts_T,Caio
+410,1,02:46,18,9,RCB,RD,Tatu
+411,1,02:46,18,9,LIM,2_Pts_T,Matheus Dalla
+412,1,03:04,18,9,RCB,2_Pts_C,Cicero
+413,1,03:10,18,7,RCB,RO,Cicero
+414,1,03:10,18,7,RCB,3_Pts_T,Caio
+415,1,03:22,18,7,RCB,RD,Vinicius
+416,1,03:22,18,7,LIM,3_Pts_T,Matheus Dalla
+417,1,03:41,18,7,RCB,EN,Cicero
+418,1,03:41,18,5,RCB,AS,Vinicius
+419,1,03:46,18,5,RCB,BR,Vinicius
+420,1,03:46,18,5,LIM,ER,Matheus Dalla
+421,1,04:04,18,5,LIM,RD,Limeira
+422,1,04:04,18,5,RCB,3_Pts_T,Tatu
+423,1,04:19,18,5,LIM,3_Pts_C,Ronald Ramon
+424,1,04:19,15,5,LIM,AS,David Jackson
+425,1,04:25,15,5,LIM,RD,David Jackson
+426,1,04:25,15,5,RCB,2_Pts_T,Caio
+427,1,04:31,15,5,RCB,RO,Caio
+428,1,04:31,15,5,RCB,2_Pts_T,Caio
+429,1,04:46,15,5,RCB,RD,Rio Claro
+430,1,04:46,15,5,LIM,3_Pts_T,David Jackson
+431,1,05:05,15,5,LIM,LL_Pts_C,David Jackson
+432,1,05:05,14,5,LIM,LL_Pts_C,David Jackson
+433,1,05:05,13,5,LIM,FR,David Jackson
+434,1,05:05,13,5,RCB,FC_A,Cicero
+435,1,05:24,13,5,RCB,LL_Pts_C,Calvo
+436,1,05:24,13,4,RCB,2_Pts_C,Calvo
+437,1,05:24,13,2,RCB,FR,Calvo
+438,1,05:24,13,2,LIM,FC,Matheus Dalla
+439,1,05:47,13,2,LIM,EN,Bruno Fiorotto
+440,1,05:47,11,2,LIM,AS,David Jackson
+441,1,05:54,11,2,LIM,BR,Bruno Fiorotto
+442,1,05:54,11,2,RCB,ER,Vinicius
+443,1,06:11,11,2,RCB,RD,Cicero
+444,1,06:11,11,2,LIM,2_Pts_T,Bruno Fiorotto
+445,1,06:29,11,2,LIM,RD,Matheus Dalla
+446,1,06:29,11,2,RCB,3_Pts_T,Vinicius
+447,1,06:35,11,2,RCB,substituicao_entra,Vinicius
+448,1,06:35,11,2,RCB,substituicao_sai,Mosso
+449,1,06:35,11,2,RCB,substituicao_entra,Cicero
+450,1,06:35,11,2,RCB,substituicao_sai,Tischer
+451,1,06:38,11,2,RCB,tempo_tecnico,Rio Claro
+452,1,06:38,11,2,LIM,2_Pts_C,Hayes
+453,1,06:50,9,2,LIM,RD,Bruno Fiorotto
+454,1,06:50,9,2,RCB,2_Pts_T,Mosso
+455,1,07:14,9,2,LIM,2_Pts_C,Ronald Ramon
+456,1,07:23,7,2,LIM,BR,Bruno Fiorotto
+457,1,07:23,7,2,RCB,ER,Tatu
+458,1,07:36,7,2,LIM,AS,Bruno Fiorotto
+459,1,07:36,7,2,LIM,LL_Pts_C,Hayes
+460,1,07:38,6,2,LIM,2_Pts_C,Hayes
+461,1,07:38,4,2,LIM,FR,Hayes
+462,1,07:38,4,2,RCB,FC,Calvo
+463,1,07:50,4,2,LIM,RD,Ronald Ramon
+464,1,07:50,4,2,RCB,3_Pts_T,Caio
+465,1,07:56,4,2,RCB,BR,Rio Claro
+466,1,07:56,4,2,LIM,ER,Ronald Ramon
+467,1,08:10,4,2,RCB,2_Pts_C,Tatu
+468,1,08:18,4,0,RCB,RD,Calvo
+469,1,08:18,4,0,LIM,3_Pts_T,Hayes
+470,1,08:27,4,0,RCB,substituicao_entra,Calvo
+471,1,08:27,4,0,RCB,substituicao_sai,Brown
+472,1,08:27,4,0,LIM,FR,David Jackson
+473,1,08:27,4,0,RCB,FC,Brown
+474,1,08:40,4,0,LIM,RD,Bruno Fiorotto
+475,1,08:40,4,0,RCB,2_Pts_T,Tischer
+476,1,09:02,4,0,LIM,2_Pts_C,Bruno Fiorotto
+477,1,09:02,2,0,LIM,AS,Hayes
+478,1,09:11,2,0,LIM,BR,David Jackson
+479,1,09:11,2,0,RCB,ER,Tatu
+480,1,09:28,2,0,RCB,RD,Mosso
+481,1,09:28,2,0,LIM,LL_Pts_T,Bruno Fiorotto
+482,1,09:30,2,0,LIM,2_Pts_C,Bruno Fiorotto
+483,1,09:30,0,0,LIM,FR,Bruno Fiorotto
+484,1,09:30,0,0,RCB,FC,Brown
+485,1,09:39,0,0,LIM,RO,Bruno Fiorotto
+486,1,09:39,0,0,LIM,2_Pts_T,David Jackson
+487,1,10:00,0,0,RCB,substituicao_entra,Tischer
+488,1,10:00,0,0,RCB,substituicao_entra,Mosso
+489,1,10:00,0,0,RCB,substituicao_entra,Caio
+490,1,10:00,0,0,RCB,substituicao_entra,Tatu
+491,1,10:00,0,0,RCB,substituicao_entra,Brown
+492,1,10:00,0,0,LIM,substituicao_entra,Hayes
+493,1,10:00,0,0,LIM,substituicao_entra,David Jackson
+494,1,10:00,0,0,LIM,substituicao_entra,Bruno Fiorotto
+495,1,10:00,0,0,LIM,substituicao_entra,Ronald Ramon
+496,1,10:00,0,0,LIM,substituicao_entra,Matheus Dalla

@@ -1,0 +1,481 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,74,94,,fim_partida,
+1,4,00:09,74,94,VAS,RD,L Felipe
+2,4,00:09,74,94,JLE,2_Pts_T,F Vezaro
+3,4,00:17,74,94,JLE,BR,F Vezaro
+4,4,00:17,74,94,VAS,ER,Hayes
+5,4,00:24,74,94,VAS,RD,L Felipe
+6,4,00:28,74,94,JLE,2_Pts_T,J Socas
+7,4,00:34,74,94,JLE,BR,J Socas
+8,4,00:34,74,94,VAS,ER,Guilherme
+9,4,00:59,74,94,JLE,AS,F Vezaro
+10,4,00:59,74,94,JLE,2_Pts_C,J Socas
+11,4,01:04,72,94,VAS,substituicao_entra,Guilherme
+12,4,01:04,72,94,VAS,substituicao_sai,Bruninho
+13,4,01:18,72,94,VAS,AS,Bruninho
+14,4,01:18,72,94,VAS,2_Pts_C,Renato
+15,4,01:32,72,92,JLE,substituicao_entra,J Socas
+16,4,01:32,72,92,JLE,substituicao_sai,Jerônimo
+17,4,01:32,72,92,VAS,substituicao_entra,L Felipe
+18,4,01:32,72,92,VAS,substituicao_sai,Lucas
+19,4,01:32,72,92,VAS,substituicao_entra,Renato
+20,4,01:32,72,92,VAS,substituicao_sai,Guilherme
+21,4,01:32,72,92,VAS,substituicao_entra,Hayes
+22,4,01:32,72,92,VAS,substituicao_sai,Gustavo
+23,4,01:32,72,92,VAS,BR,Gustavo
+24,4,01:32,72,92,JLE,ER,F Vezaro
+25,4,01:49,72,92,VAS,RO,Dedé
+26,4,01:49,72,92,VAS,LL_Pts_T,Bruninho
+27,4,01:49,72,92,VAS,LL_Pts_C,Bruninho
+28,4,01:49,72,91,VAS,FR,Bruninho
+29,4,01:49,72,91,JLE,FC,Jerônimo
+30,4,02:03,72,91,JLE,AS,F Vezaro
+31,4,02:03,72,91,JLE,2_Pts_C,Vezarinho
+32,4,02:16,70,91,VAS,LL_Pts_C,Lucas
+33,4,02:16,70,90,VAS,LL_Pts_C,Lucas
+34,4,02:16,70,89,JLE,substituicao_entra,Colimerio
+35,4,02:16,70,89,JLE,substituicao_sai,Maxwell
+36,4,02:16,70,89,VAS,FR,Lucas
+37,4,02:16,70,89,JLE,FC,Maxwell
+38,4,02:22,70,89,JLE,EN,Jerônimo
+39,4,02:22,68,89,JLE,RO,Jerônimo
+40,4,02:22,68,89,JLE,3_Pts_T,F Vezaro
+41,4,02:22,68,89,JLE,RO,Joinville / AABJ
+42,4,02:26,68,89,JLE,2_Pts_T,Vezarinho
+43,4,02:27,68,89,VAS,substituicao_entra,Bruninho
+44,4,02:27,68,89,VAS,substituicao_sai,Hayes
+45,4,02:27,68,89,JLE,tempo_tecnico,Joinville / AABJ
+46,4,02:27,68,89,VAS,2_Pts_C,Guilherme
+47,4,03:09,68,87,VAS,RD,Gustavo
+48,4,03:23,68,87,JLE,2_Pts_T,Johnson
+49,4,03:39,68,87,VAS,AS,Guilherme
+50,4,03:39,68,87,VAS,2_Pts_C,Gustavo
+51,4,03:56,68,85,VAS,RD,Hayes
+52,4,04:00,68,85,VAS,TO,Hayes
+53,4,04:00,68,85,JLE,2_Pts_T,F Vezaro
+54,4,04:19,68,85,VAS,substituicao_entra,Dedé
+55,4,04:19,68,85,VAS,substituicao_sai,Bruninho
+56,4,04:19,68,85,VAS,LL_Pts_C,Bruninho
+57,4,04:19,68,84,VAS,LL_Pts_T,Bruninho
+58,4,04:19,68,84,VAS,FR,Bruninho
+59,4,04:19,68,84,JLE,FC,Maxwell
+60,4,04:30,68,84,JLE,AS,F Vezaro
+61,4,04:30,68,84,JLE,3_Pts_C,Vezarinho
+62,4,04:36,65,84,JLE,RO,Jerônimo
+63,4,04:38,65,84,JLE,3_Pts_T,Johnson
+64,4,04:47,65,84,JLE,FR,Maxwell
+65,4,04:47,65,84,VAS,FC,Bruninho
+66,4,05:04,65,84,VAS,2_Pts_C,Bruninho
+67,4,05:14,65,82,VAS,RD,Gustavo
+68,4,05:18,65,82,JLE,2_Pts_T,Jerônimo
+69,4,05:23,65,82,VAS,LL_Pts_C,Gustavo
+70,4,05:23,65,81,VAS,LL_Pts_T,Gustavo
+71,4,05:23,65,81,JLE,substituicao_entra,Johnson
+72,4,05:23,65,81,JLE,substituicao_sai,A Bambu
+73,4,05:23,65,81,VAS,FR,Gustavo
+74,4,05:23,65,81,JLE,FC,A Bambu
+75,4,05:34,65,81,JLE,AS,Vezarinho
+76,4,05:34,65,81,JLE,2_Pts_C,A Bambu
+77,4,05:48,63,81,VAS,ER,Hayes
+78,4,06:05,63,81,JLE,ER,Jerônimo
+79,4,06:13,63,81,JLE,RD,A Bambu
+80,4,06:14,63,81,VAS,LL_Pts_T,Guilherme
+81,4,06:14,63,81,JLE,substituicao_entra,Jerônimo
+82,4,06:14,63,81,JLE,substituicao_sai,Tiagão
+83,4,06:14,63,81,VAS,FR,Guilherme
+84,4,06:14,63,81,JLE,FC,Tiagão
+85,4,06:19,63,81,VAS,2_Pts_C,Guilherme
+86,4,06:23,63,79,JLE,ER,F Vezaro
+87,4,06:23,63,79,JLE,BR,F Vezaro
+88,4,06:23,63,79,VAS,ER,Bruninho
+89,4,06:29,63,79,VAS,BR,Bruninho
+90,4,06:29,63,79,JLE,ER,F Vezaro
+91,4,06:46,63,79,VAS,AS,Lucas
+92,4,06:46,63,79,VAS,3_Pts_C,Guilherme
+93,4,07:05,63,76,VAS,FR,Bruninho
+94,4,07:05,63,76,JLE,ER,Maxwell
+95,4,07:05,63,76,JLE,FC_O,Maxwell
+96,4,07:17,63,76,JLE,substituicao_entra,F Vezaro
+97,4,07:17,63,76,JLE,substituicao_sai,J Socas
+98,4,07:17,63,76,VAS,substituicao_entra,Gustavo
+99,4,07:17,63,76,VAS,substituicao_sai,Dedé
+100,4,07:17,63,76,JLE,FR,Maxwell
+101,4,07:17,63,76,VAS,FC,Guilherme
+102,4,07:22,63,76,JLE,RD,Tiagão
+103,4,07:24,63,76,VAS,2_Pts_T,Guilherme
+104,4,07:41,63,76,JLE,AS,J Socas
+105,4,07:41,63,76,JLE,3_Pts_C,Tiagão
+106,4,07:54,60,76,JLE,RD,Maxwell
+107,4,07:56,60,76,VAS,3_Pts_T,Dedé
+108,4,08:13,60,76,VAS,RD,Hayes
+109,4,08:16,60,76,JLE,3_Pts_T,Tiagão
+110,4,08:27,60,76,JLE,RD,Maxwell
+111,4,08:29,60,76,VAS,2_Pts_T,Hayes
+112,4,08:44,60,76,JLE,ER,Maxwell
+113,4,09:00,60,76,VAS,AS,Hayes
+114,4,09:00,60,76,VAS,EN,Lucas
+115,4,09:04,60,74,VAS,RD,Hayes
+116,4,09:06,60,74,JLE,3_Pts_T,J Socas
+117,4,09:33,60,74,VAS,2_Pts_C,Lucas
+118,4,09:51,60,72,VAS,FR,Guilherme
+119,4,09:51,60,72,JLE,FC,Maxwell
+120,4,10:00,60,72,,inicio_quarto,
+121,3,00:00,60,72,VAS,substituicao_sai,Dedé
+122,3,00:00,60,72,VAS,substituicao_sai,Gustavo
+123,3,00:00,60,72,VAS,substituicao_sai,Guilherme
+124,3,00:00,60,72,VAS,substituicao_sai,Lucas
+125,3,00:00,60,72,VAS,substituicao_sai,Hayes
+126,3,00:00,60,72,JLE,substituicao_sai,Vezarinho
+127,3,00:00,60,72,JLE,substituicao_sai,Colimerio
+128,3,00:00,60,72,JLE,substituicao_sai,Maxwell
+129,3,00:00,60,72,JLE,substituicao_sai,J Socas
+130,3,00:00,60,72,JLE,substituicao_sai,Tiagão
+131,3,00:00,60,72,JLE,RD,Tiagão
+132,3,00:00,60,72,VAS,2_Pts_T,Guilherme
+133,3,00:00,60,72,,fim_quarto,
+134,3,00:21,60,72,VAS,BR,Guilherme
+135,3,00:21,60,72,JLE,ER,Tiagão
+136,3,00:43,60,72,VAS,substituicao_entra,Lucas
+137,3,00:43,60,72,VAS,substituicao_sai,Renato
+138,3,00:45,60,72,VAS,substituicao_entra,Guilherme
+139,3,00:45,60,72,VAS,substituicao_sai,Bruninho
+140,3,00:45,60,72,JLE,substituicao_entra,Vezarinho
+141,3,00:45,60,72,JLE,substituicao_sai,Jerônimo
+142,3,00:45,60,72,JLE,FR,J Socas
+143,3,00:45,60,72,VAS,ER,Renato
+144,3,00:45,60,72,VAS,FC_O,Renato
+145,3,00:55,60,72,VAS,FR,Renato
+146,3,00:55,60,72,JLE,FC,Jerônimo
+147,3,00:58,60,72,VAS,ER,Gustavo
+148,3,01:00,60,72,VAS,RD,Dedé
+149,3,01:03,60,72,JLE,2_Pts_T,Jerônimo
+150,3,01:21,60,72,VAS,3_Pts_C,Bruninho
+151,3,01:39,60,69,JLE,AS,Maxwell
+152,3,01:39,60,69,JLE,2_Pts_C,Colimerio
+153,3,01:52,58,69,JLE,FR,Jerônimo
+154,3,01:52,58,69,VAS,FC,Renato
+155,3,02:04,58,69,VAS,2_Pts_C,Bruninho
+156,3,02:20,58,67,VAS,substituicao_entra,Bruninho
+157,3,02:20,58,67,VAS,substituicao_sai,Guilherme
+158,3,02:27,58,67,JLE,AS,Maxwell
+159,3,02:27,58,67,JLE,2_Pts_C,Tiagão
+160,3,02:31,56,67,JLE,RD,Colimerio
+161,3,02:34,56,67,VAS,3_Pts_T,Dedé
+162,3,02:39,56,67,VAS,RD,Guilherme
+163,3,02:41,56,67,JLE,2_Pts_T,Colimerio
+164,3,02:43,56,67,JLE,RO,J Socas
+165,3,02:45,56,67,JLE,3_Pts_T,Tiagão
+166,3,03:01,56,67,JLE,RD,Tiagão
+167,3,03:03,56,67,VAS,3_Pts_T,Dedé
+168,3,03:10,56,67,VAS,RD,Renato
+169,3,03:13,56,67,JLE,2_Pts_T,J Socas
+170,3,03:26,56,67,JLE,RD,Tiagão
+171,3,03:29,56,67,VAS,2_Pts_T,Gustavo
+172,3,03:50,56,67,JLE,2_Pts_C,Jerônimo
+173,3,04:08,54,67,VAS,AS,Guilherme
+174,3,04:08,54,67,VAS,3_Pts_C,Dedé
+175,3,04:10,54,64,VAS,RO,Guilherme
+176,3,04:14,54,64,VAS,2_Pts_T,Guilherme
+177,3,04:19,54,64,VAS,RD,Renato
+178,3,04:22,54,64,JLE,2_Pts_T,Colimerio
+179,3,04:50,54,64,JLE,RD,Joinville / AABJ
+180,3,04:56,54,64,JLE,TO,Maxwell
+181,3,04:56,54,64,VAS,2_Pts_T,Guilherme
+182,3,05:04,54,64,JLE,substituicao_entra,Jerônimo
+183,3,05:04,54,64,JLE,substituicao_sai,F Vezaro
+184,3,05:07,54,64,VAS,substituicao_entra,Renato
+185,3,05:07,54,64,VAS,substituicao_sai,Lucas
+186,3,05:07,54,64,JLE,substituicao_entra,Colimerio
+187,3,05:07,54,64,JLE,substituicao_sai,A Bambu
+188,3,05:07,54,64,VAS,FR,Hayes
+189,3,05:07,54,64,JLE,FC,F Vezaro
+190,3,05:10,54,64,VAS,RD,Lucas
+191,3,05:10,54,64,JLE,3_Pts_T,A Bambu
+192,3,05:10,54,64,VAS,substituicao_entra,Dedé
+193,3,05:10,54,64,VAS,substituicao_sai,Bruninho
+194,3,05:10,54,64,JLE,FR,Maxwell
+195,3,05:10,54,64,VAS,FC,Bruninho
+196,3,05:14,54,64,JLE,RD,A Bambu
+197,3,05:16,54,64,VAS,3_Pts_T,Bruninho
+198,3,05:36,54,64,VAS,RD,Lucas
+199,3,05:39,54,64,JLE,2_Pts_T,Maxwell
+200,3,05:44,54,64,JLE,RO,Tiagão
+201,3,05:46,54,64,JLE,3_Pts_T,A Bambu
+202,3,06:01,54,64,JLE,RD,A Bambu
+203,3,06:04,54,64,VAS,2_Pts_T,Hayes
+204,3,06:24,54,64,JLE,2_Pts_C,J Socas
+205,3,06:28,52,64,VAS,LL_Pts_C,Hayes
+206,3,06:28,52,63,VAS,LL_Pts_C,Hayes
+207,3,06:28,52,62,JLE,substituicao_entra,Tiagão
+208,3,06:28,52,62,JLE,substituicao_sai,Johnson
+209,3,06:28,52,62,VAS,FR,Hayes
+210,3,06:28,52,62,JLE,FC,F Vezaro
+211,3,06:28,52,62,VAS,RO,Hayes
+212,3,06:28,52,62,VAS,3_Pts_T,Guilherme
+213,3,06:34,52,62,VAS,RD,Bruninho
+214,3,06:37,52,62,JLE,2_Pts_T,F Vezaro
+215,3,06:56,52,62,JLE,tempo_tecnico,Joinville / AABJ
+216,3,07:03,52,62,VAS,AS,Lucas
+217,3,07:03,52,62,VAS,3_Pts_C,Gustavo
+218,3,07:08,52,59,VAS,BR,Hayes
+219,3,07:08,52,59,JLE,ER,Johnson
+220,3,07:22,52,59,VAS,LL_Pts_C,Hayes
+221,3,07:22,52,58,VAS,FR,Hayes
+222,3,07:22,52,58,JLE,FC,A Bambu
+223,3,07:23,52,58,VAS,2_Pts_C,Hayes
+224,3,07:33,52,56,VAS,BR,Gustavo
+225,3,07:33,52,56,JLE,ER,Maxwell
+226,3,07:40,52,56,JLE,RD,Johnson
+227,3,07:44,52,56,VAS,2_Pts_T,Guilherme
+228,3,07:57,52,56,VAS,RD,Hayes
+229,3,08:00,52,56,JLE,2_Pts_T,Maxwell
+230,3,08:21,52,56,VAS,AS,Hayes
+231,3,08:21,52,56,VAS,3_Pts_C,Gustavo
+232,3,08:34,52,53,JLE,AS,Maxwell
+233,3,08:34,52,53,JLE,3_Pts_C,A Bambu
+234,3,08:51,49,53,VAS,3_Pts_C,Hayes
+235,3,09:09,49,50,JLE,ER,J Socas
+236,3,09:09,49,50,JLE,RO,A Bambu
+237,3,09:09,49,50,JLE,2_Pts_T,J Socas
+238,3,09:18,49,50,JLE,BR,J Socas
+239,3,09:18,49,50,VAS,ER,Hayes
+240,3,09:37,49,50,JLE,2_Pts_C,J Socas
+241,3,09:50,47,50,JLE,FR,Maxwell
+242,3,09:50,47,50,VAS,FC,Hayes
+243,3,10:00,47,50,,inicio_quarto,
+244,2,00:00,47,50,VAS,substituicao_sai,Dedé
+245,2,00:00,47,50,VAS,substituicao_sai,Gustavo
+246,2,00:00,47,50,VAS,substituicao_sai,Guilherme
+247,2,00:00,47,50,VAS,substituicao_sai,Bruninho
+248,2,00:00,47,50,VAS,substituicao_sai,Lucas
+249,2,00:00,47,50,JLE,substituicao_sai,F Vezaro
+250,2,00:00,47,50,JLE,substituicao_sai,A Bambu
+251,2,00:00,47,50,JLE,substituicao_sai,Weihermann
+252,2,00:00,47,50,JLE,substituicao_sai,Maxwell
+253,2,00:00,47,50,JLE,substituicao_sai,J Socas
+254,2,00:00,47,50,,fim_quarto,
+255,2,00:08,47,50,VAS,AS,Gustavo
+256,2,00:08,47,50,VAS,3_Pts_C,Bruninho
+257,2,00:19,47,47,VAS,substituicao_entra,Dedé
+258,2,00:19,47,47,VAS,substituicao_sai,Renato
+259,2,00:19,47,47,JLE,substituicao_entra,Weihermann
+260,2,00:19,47,47,JLE,substituicao_sai,Johnson
+261,2,00:19,47,47,JLE,substituicao_entra,J Socas
+262,2,00:19,47,47,JLE,substituicao_sai,Vezarinho
+263,2,00:19,47,47,VAS,tempo_tecnico,Vasco da Gama
+264,2,00:25,47,47,JLE,2_Pts_C,Johnson
+265,2,00:42,45,47,VAS,AS,Renato
+266,2,00:42,45,47,VAS,2_Pts_C,Guilherme
+267,2,01:09,45,45,JLE,ER,Vezarinho
+268,2,01:31,45,45,VAS,AS,Gustavo
+269,2,01:31,45,45,VAS,3_Pts_C,Guilherme
+270,2,01:36,45,42,VAS,RD,Guilherme
+271,2,01:38,45,42,JLE,3_Pts_T,Maxwell
+272,2,01:51,45,42,JLE,RD,F Vezaro
+273,2,01:53,45,42,VAS,2_Pts_T,Lucas
+274,2,02:06,45,42,JLE,2_Pts_C,A Bambu
+275,2,02:23,43,42,VAS,2_Pts_C,Gustavo
+276,2,02:27,43,40,VAS,substituicao_entra,Bruninho
+277,2,02:27,43,40,VAS,substituicao_sai,Dedé
+278,2,02:33,43,40,VAS,RD,Guilherme
+279,2,02:37,43,40,JLE,3_Pts_T,F Vezaro
+280,2,02:55,43,40,VAS,AS,Gustavo
+281,2,02:55,43,40,VAS,EN,Renato
+282,2,03:01,43,38,VAS,RD,Lucas
+283,2,03:04,43,38,JLE,3_Pts_T,Vezarinho
+284,2,03:20,43,38,VAS,AS,Gustavo
+285,2,03:20,43,38,VAS,3_Pts_C,Lucas
+286,2,03:42,43,35,JLE,LL_Pts_C,F Vezaro
+287,2,03:42,42,35,JLE,LL_Pts_C,F Vezaro
+288,2,03:42,41,35,JLE,substituicao_entra,A Bambu
+289,2,03:42,41,35,JLE,substituicao_sai,Tiagão
+290,2,03:42,41,35,JLE,FR,F Vezaro
+291,2,03:42,41,35,VAS,FC,Dedé
+292,2,03:58,41,35,VAS,substituicao_entra,Gustavo
+293,2,03:58,41,35,VAS,substituicao_sai,Bruninho
+294,2,04:04,41,35,VAS,AS,Renato
+295,2,04:04,41,35,VAS,3_Pts_C,Lucas
+296,2,04:24,41,32,JLE,2_Pts_C,Vezarinho
+297,2,04:32,39,32,VAS,ER,Guilherme
+298,2,04:35,39,32,VAS,RD,Guilherme
+299,2,04:37,39,32,JLE,2_Pts_T,Tiagão
+300,2,04:52,39,32,VAS,LL_Pts_C,Dedé
+301,2,04:52,39,31,VAS,LL_Pts_C,Dedé
+302,2,04:52,39,30,JLE,substituicao_entra,Maxwell
+303,2,04:52,39,30,JLE,substituicao_sai,Colimerio
+304,2,04:52,39,30,VAS,FR,Dedé
+305,2,04:52,39,30,JLE,FC,Tiagão
+306,2,04:55,39,30,VAS,BR,Guilherme
+307,2,04:55,39,30,JLE,ER,Vezarinho
+308,2,05:08,39,30,VAS,3_Pts_C,Dedé
+309,2,05:28,39,27,JLE,AS,F Vezaro
+310,2,05:28,39,27,JLE,EN,Johnson
+311,2,05:41,37,27,VAS,LL_Pts_C,Guilherme
+312,2,05:41,37,26,VAS,LL_Pts_C,Guilherme
+313,2,05:41,37,25,VAS,FR,Guilherme
+314,2,05:41,37,25,JLE,FC,Colimerio
+315,2,05:55,37,25,JLE,AS,F Vezaro
+316,2,05:55,37,25,JLE,3_Pts_C,Vezarinho
+317,2,06:11,34,25,VAS,AS,Dedé
+318,2,06:11,34,25,VAS,2_Pts_C,Renato
+319,2,06:14,34,23,VAS,RD,Guilherme
+320,2,06:17,34,23,JLE,2_Pts_T,Colimerio
+321,2,06:39,34,23,JLE,RD,Tiagão
+322,2,06:42,34,23,VAS,3_Pts_T,Guilherme
+323,2,06:45,34,23,VAS,RO,Renato
+324,2,06:45,34,23,VAS,LL_Pts_T,Guilherme
+325,2,06:45,34,23,VAS,LL_Pts_C,Guilherme
+326,2,06:45,34,22,JLE,substituicao_entra,Vezarinho
+327,2,06:45,34,22,JLE,substituicao_sai,J Socas
+328,2,06:45,34,22,VAS,substituicao_entra,Lucas
+329,2,06:45,34,22,VAS,substituicao_sai,Gustavo
+330,2,06:45,34,22,VAS,FR,Guilherme
+331,2,06:45,34,22,JLE,FC,F Vezaro
+332,2,06:50,34,22,VAS,RD,Dedé
+333,2,06:53,34,22,JLE,2_Pts_T,J Socas
+334,2,07:12,34,22,JLE,RD,Tiagão
+335,2,07:15,34,22,VAS,2_Pts_T,Guilherme
+336,2,07:28,34,22,VAS,RD,Renato
+337,2,07:31,34,22,JLE,2_Pts_T,Tiagão
+338,2,07:46,34,22,JLE,FR,Colimerio
+339,2,07:46,34,22,VAS,FC,Dedé
+340,2,08:02,34,22,VAS,LL_Pts_C,Dedé
+341,2,08:02,34,21,VAS,FR,Dedé
+342,2,08:02,34,21,JLE,FC,J Socas
+343,2,08:02,34,21,VAS,2_Pts_C,Dedé
+344,2,08:07,34,19,VAS,BR,Guilherme
+345,2,08:07,34,19,JLE,ER,J Socas
+346,2,08:12,34,19,JLE,RD,J Socas
+347,2,08:15,34,19,VAS,3_Pts_T,Bruninho
+348,2,08:46,34,19,JLE,AS,J Socas
+349,2,08:46,34,19,JLE,2_Pts_C,Colimerio
+350,2,08:50,32,19,JLE,RO,F Vezaro
+351,2,08:52,32,19,JLE,2_Pts_T,Johnson
+352,2,09:07,32,19,VAS,2_Pts_C,Renato
+353,2,09:08,32,17,VAS,RO,Renato
+354,2,09:09,32,17,VAS,LL_Pts_T,Renato
+355,2,09:09,32,17,VAS,LL_Pts_C,Renato
+356,2,09:09,32,16,VAS,FR,Renato
+357,2,09:09,32,16,JLE,FC,J Socas
+358,2,09:18,32,16,JLE,AS,Tiagão
+359,2,09:18,32,16,JLE,3_Pts_C,J Socas
+360,2,09:37,29,16,VAS,2_Pts_C,Guilherme
+361,2,10:00,29,14,,inicio_quarto,
+362,1,00:00,29,14,VAS,substituicao_sai,Dedé
+363,1,00:00,29,14,VAS,substituicao_sai,Gustavo
+364,1,00:00,29,14,VAS,substituicao_sai,Renato
+365,1,00:00,29,14,VAS,substituicao_sai,Bruninho
+366,1,00:00,29,14,VAS,substituicao_sai,Hayes
+367,1,00:00,29,14,JLE,substituicao_sai,Maxwell
+368,1,00:00,29,14,JLE,substituicao_sai,Johnson
+369,1,00:00,29,14,JLE,substituicao_sai,F Vezaro
+370,1,00:00,29,14,JLE,substituicao_sai,Weihermann
+371,1,00:00,29,14,JLE,substituicao_sai,Colimerio
+372,1,00:00,29,14,,fim_quarto,
+373,1,00:06,29,14,VAS,3_Pts_T,Bruninho
+374,1,00:07,29,14,JLE,LL_Pts_C,Johnson
+375,1,00:07,28,14,JLE,LL_Pts_C,Johnson
+376,1,00:07,27,14,JLE,LL_Pts_C,Johnson
+377,1,00:07,26,14,JLE,substituicao_entra,Maxwell
+378,1,00:07,26,14,JLE,substituicao_sai,Vezarinho
+379,1,00:07,26,14,JLE,substituicao_entra,Weihermann
+380,1,00:07,26,14,JLE,substituicao_sai,Tiagão
+381,1,00:07,26,14,JLE,FR,Johnson
+382,1,00:07,26,14,VAS,FC,Hayes
+383,1,00:07,26,14,JLE,RO,Johnson
+384,1,00:07,26,14,JLE,3_Pts_T,Vezarinho
+385,1,00:09,26,14,JLE,RD,Tiagão
+386,1,00:11,26,14,VAS,LL_Pts_T,Dedé
+387,1,00:11,26,14,VAS,LL_Pts_C,Dedé
+388,1,00:11,26,13,JLE,substituicao_entra,Johnson
+389,1,00:11,26,13,JLE,substituicao_sai,J Socas
+390,1,00:11,26,13,JLE,substituicao_entra,Vezarinho
+391,1,00:11,26,13,JLE,substituicao_sai,Maxwell
+392,1,00:11,26,13,VAS,FR,Dedé
+393,1,00:11,26,13,JLE,FC,Maxwell
+394,1,00:11,26,13,VAS,RD,Gustavo
+395,1,00:14,26,13,JLE,2_Pts_T,F Vezaro
+396,1,00:34,26,13,VAS,2_Pts_C,Gustavo
+397,1,00:51,26,11,JLE,AS,J Socas
+398,1,00:51,26,11,JLE,2_Pts_C,Tiagão
+399,1,01:05,24,11,JLE,RD,F Vezaro
+400,1,01:07,24,11,VAS,2_Pts_T,Hayes
+401,1,01:31,24,11,JLE,AS,Colimerio
+402,1,01:31,24,11,JLE,2_Pts_C,Tiagão
+403,1,01:40,22,11,JLE,RD,J Socas
+404,1,01:43,22,11,VAS,3_Pts_T,Hayes
+405,1,02:06,22,11,JLE,AS,Maxwell
+406,1,02:06,22,11,JLE,2_Pts_C,Colimerio
+407,1,02:23,20,11,VAS,substituicao_entra,Renato
+408,1,02:23,20,11,VAS,substituicao_sai,Lucas
+409,1,02:23,20,11,VAS,substituicao_entra,Bruninho
+410,1,02:23,20,11,VAS,substituicao_sai,Guilherme
+411,1,02:23,20,11,JLE,substituicao_entra,Colimerio
+412,1,02:23,20,11,JLE,substituicao_sai,A Bambu
+413,1,02:23,20,11,VAS,ER,Lucas
+414,1,02:24,20,11,VAS,RD,Guilherme
+415,1,02:27,20,11,JLE,2_Pts_T,A Bambu
+416,1,02:45,20,11,VAS,AS,Gustavo
+417,1,02:45,20,11,VAS,2_Pts_C,Dedé
+418,1,02:51,20,9,VAS,RD,Gustavo
+419,1,02:54,20,9,JLE,3_Pts_T,F Vezaro
+420,1,03:07,20,9,JLE,RD,Maxwell
+421,1,03:10,20,9,VAS,3_Pts_T,Lucas
+422,1,03:15,20,9,JLE,substituicao_entra,Tiagão
+423,1,03:15,20,9,JLE,substituicao_sai,Johnson
+424,1,03:15,20,9,VAS,FR,Guilherme
+425,1,03:15,20,9,JLE,FC,Johnson
+426,1,03:15,20,9,JLE,2_Pts_C,F Vezaro
+427,1,03:48,18,9,VAS,2_Pts_C,Gustavo
+428,1,03:58,18,7,VAS,RO,Vasco da Gama
+429,1,03:58,18,7,VAS,3_Pts_T,Guilherme
+430,1,04:10,18,7,JLE,AS,J Socas
+431,1,04:10,18,7,JLE,3_Pts_C,A Bambu
+432,1,04:22,15,7,VAS,ER,Lucas
+433,1,04:34,15,7,JLE,2_Pts_C,Maxwell
+434,1,04:54,13,7,VAS,AS,Hayes
+435,1,04:54,13,7,VAS,3_Pts_C,Lucas
+436,1,05:07,13,4,VAS,substituicao_entra,Dedé
+437,1,05:07,13,4,VAS,substituicao_sai,Bruninho
+438,1,05:07,13,4,VAS,FR,Guilherme
+439,1,05:07,13,4,JLE,FC,Johnson
+440,1,05:21,13,4,JLE,AS,J Socas
+441,1,05:21,13,4,JLE,3_Pts_C,Johnson
+442,1,05:36,10,4,VAS,2_Pts_C,Bruninho
+443,1,05:38,10,2,VAS,RO,Bruninho
+444,1,05:40,10,2,VAS,3_Pts_T,Lucas
+445,1,06:01,10,2,VAS,tempo_tecnico,Vasco da Gama
+446,1,06:02,10,2,JLE,2_Pts_C,A Bambu
+447,1,06:11,8,2,JLE,FR,F Vezaro
+448,1,06:11,8,2,VAS,FC,Bruninho
+449,1,06:26,8,2,JLE,RD,Maxwell
+450,1,06:29,8,2,VAS,2_Pts_T,Bruninho
+451,1,06:50,8,2,JLE,AS,J Socas
+452,1,06:50,8,2,JLE,3_Pts_C,Johnson
+453,1,07:06,5,2,JLE,RD,Joinville / AABJ
+454,1,07:08,5,2,VAS,3_Pts_T,Bruninho
+455,1,07:21,5,2,VAS,RD,Guilherme
+456,1,07:23,5,2,JLE,2_Pts_T,A Bambu
+457,1,07:38,5,2,VAS,ER,Guilherme
+458,1,07:47,5,2,JLE,ER,J Socas
+459,1,08:01,5,2,VAS,2_Pts_C,Gustavo
+460,1,08:23,5,0,JLE,AS,J Socas
+461,1,08:23,5,0,JLE,3_Pts_C,F Vezaro
+462,1,08:31,2,0,JLE,RD,A Bambu
+463,1,08:35,2,0,VAS,2_Pts_T,Lucas
+464,1,08:44,2,0,VAS,RD,Guilherme
+465,1,08:47,2,0,JLE,2_Pts_T,A Bambu
+466,1,09:06,2,0,JLE,RD,A Bambu
+467,1,09:10,2,0,VAS,3_Pts_T,Gustavo
+468,1,09:36,2,0,JLE,AS,F Vezaro
+469,1,09:36,2,0,JLE,2_Pts_C,Maxwell
+470,1,10:00,0,0,VAS,substituicao_entra,Hayes
+471,1,10:00,0,0,VAS,substituicao_entra,Lucas
+472,1,10:00,0,0,VAS,substituicao_entra,Bruninho
+473,1,10:00,0,0,VAS,substituicao_entra,Guilherme
+474,1,10:00,0,0,VAS,substituicao_entra,Gustavo
+475,1,10:00,0,0,JLE,substituicao_entra,J Socas
+476,1,10:00,0,0,JLE,substituicao_entra,Johnson
+477,1,10:00,0,0,JLE,substituicao_entra,Maxwell
+478,1,10:00,0,0,JLE,substituicao_entra,A Bambu
+479,1,10:00,0,0,JLE,substituicao_entra,F Vezaro

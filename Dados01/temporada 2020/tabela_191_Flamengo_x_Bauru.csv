@@ -1,0 +1,559 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,91,86,,fim_partida,
+1,4,00:00,91,86,,fim_quarto,
+2,4,00:02,91,86,FLA,tempo_tecnico,Flamengo
+3,4,00:04,91,86,FLA,substituicao_entra,Marquinhos
+4,4,00:04,91,86,FLA,substituicao_entra,Balbi
+5,4,00:04,91,86,FLA,substituicao_sai,Demétrio
+6,4,00:04,91,86,FLA,substituicao_sai,Mineiro
+7,4,00:06,91,86,BAU,2_Pts_C,Alexey Borges
+8,4,00:12,91,84,FLA,AS,Martinez
+9,4,00:12,91,84,FLA,2_Pts_C,Mineiro
+10,4,00:15,89,84,FLA,RD,Martinez
+11,4,00:19,89,84,BAU,3_Pts_T,Gui Deodato
+12,4,00:22,89,84,FLA,substituicao_entra,Demétrio
+13,4,00:22,89,84,FLA,substituicao_entra,Martinez
+14,4,00:22,89,84,FLA,substituicao_entra,Mineiro
+15,4,00:22,89,84,FLA,substituicao_sai,Olivinha
+16,4,00:22,89,84,FLA,substituicao_sai,Marquinhos
+17,4,00:22,89,84,FLA,substituicao_sai,Balbi
+18,4,00:22,89,84,BAU,tempo_tecnico,Bauru
+19,4,00:22,89,84,FLA,LL_Pts_C,Yago
+20,4,00:22,88,84,FLA,LL_Pts_C,Yago
+21,4,00:22,87,84,FLA,FR,Yago
+22,4,00:22,87,84,BAU,FC,Alexey Borges
+23,4,00:25,87,84,FLA,substituicao_entra,Yago
+24,4,00:25,87,84,FLA,substituicao_sai,Hettsheimeir
+25,4,00:25,87,84,BAU,LL_Pts_C,Gui Deodato
+26,4,00:25,87,83,BAU,LL_Pts_T,Gui Deodato
+27,4,00:25,87,83,BAU,FR,Gui Deodato
+28,4,00:25,87,83,FLA,FC,Chuzito
+29,4,00:28,87,83,BAU,RD,Alex
+30,4,00:34,87,83,FLA,2_Pts_T,Hettsheimeir
+31,4,00:56,87,83,FLA,substituicao_entra,Olivinha
+32,4,00:56,87,83,FLA,substituicao_sai,Yago
+33,4,00:56,87,83,FLA,tempo_tecnico,Flamengo
+34,4,01:01,87,83,BAU,AS,Alex
+35,4,01:01,87,83,BAU,3_Pts_C,Tyrone Curnell
+36,4,01:12,87,80,BAU,BR,Gui Deodato
+37,4,01:12,87,80,FLA,ER,Balbi
+38,4,01:27,87,80,FLA,substituicao_entra,Hettsheimeir
+39,4,01:27,87,80,FLA,substituicao_entra,Yago
+40,4,01:27,87,80,FLA,substituicao_sai,Demétrio
+41,4,01:27,87,80,FLA,substituicao_sai,Mineiro
+42,4,01:27,87,80,BAU,ER,Gui Deodato
+43,4,01:28,87,80,BAU,RO,Bauru
+44,4,01:28,87,80,FLA,TO,Mineiro
+45,4,01:28,87,80,BAU,3_Pts_T,Tyrone Curnell
+46,4,01:38,87,80,BAU,substituicao_entra,Larry Taylor
+47,4,01:38,87,80,BAU,substituicao_sai,Gabriel Jaú
+48,4,01:38,87,80,FLA,substituicao_entra,Demétrio
+49,4,01:38,87,80,FLA,substituicao_sai,Hettsheimeir
+50,4,01:38,87,80,BAU,tempo_tecnico,Bauru
+51,4,01:40,87,80,FLA,3_Pts_C,Marquinhos
+52,4,01:57,84,80,FLA,BR,Mineiro
+53,4,01:57,84,80,BAU,ER,Gabriel Jaú
+54,4,01:58,84,80,BAU,RD,Gabriel Jaú
+55,4,02:03,84,80,FLA,2_Pts_T,Marquinhos
+56,4,02:24,84,80,FLA,RD,Mineiro
+57,4,02:27,84,80,BAU,3_Pts_T,Alex
+58,4,02:43,84,80,BAU,RD,Tyrone Curnell
+59,4,02:43,84,80,FLA,LL_Pts_T,Hettsheimeir
+60,4,02:43,84,80,FLA,AS,Marquinhos
+61,4,02:43,84,80,FLA,LL_Pts_C,Hettsheimeir
+62,4,02:43,83,80,BAU,substituicao_entra,Gabriel Jaú
+63,4,02:43,83,80,BAU,substituicao_sai,Dikembe
+64,4,02:43,83,80,FLA,substituicao_entra,Mineiro
+65,4,02:43,83,80,FLA,substituicao_sai,Olivinha
+66,4,02:43,83,80,FLA,FR,Hettsheimeir
+67,4,02:43,83,80,BAU,FC,Dikembe
+68,4,03:03,83,80,BAU,LL_Pts_C,Alexey Borges
+69,4,03:03,83,79,FLA,substituicao_entra,Hettsheimeir
+70,4,03:03,83,79,FLA,substituicao_sai,Mineiro
+71,4,03:03,83,79,BAU,FR,Alexey Borges
+72,4,03:03,83,79,FLA,FC,Mineiro
+73,4,03:03,83,79,BAU,2_Pts_C,Alexey Borges
+74,4,03:20,83,77,FLA,LL_Pts_C,Balbi
+75,4,03:20,82,77,FLA,LL_Pts_C,Balbi
+76,4,03:20,81,77,FLA,substituicao_entra,Mineiro
+77,4,03:20,81,77,FLA,substituicao_entra,Marquinhos
+78,4,03:20,81,77,FLA,substituicao_sai,Hettsheimeir
+79,4,03:20,81,77,FLA,substituicao_sai,Yago
+80,4,03:20,81,77,FLA,FR,Balbi
+81,4,03:20,81,77,BAU,FC,Tyrone Curnell
+82,4,03:22,81,77,FLA,RD,Balbi
+83,4,03:22,81,77,BAU,2_Pts_T,Tyrone Curnell
+84,4,03:35,81,77,BAU,RD,Tyrone Curnell
+85,4,03:39,81,77,FLA,3_Pts_T,Balbi
+86,4,03:47,81,77,FLA,RD,Olivinha
+87,4,03:47,81,77,BAU,LL_Pts_T,Alexey Borges
+88,4,03:47,81,77,BAU,LL_Pts_C,Alexey Borges
+89,4,03:47,81,76,FLA,substituicao_entra,Yago
+90,4,03:47,81,76,FLA,substituicao_sai,Mineiro
+91,4,03:47,81,76,BAU,FR,Alexey Borges
+92,4,03:47,81,76,FLA,FC,Balbi
+93,4,03:56,81,76,FLA,substituicao_entra,Olivinha
+94,4,03:56,81,76,FLA,substituicao_sai,Yago
+95,4,03:58,81,76,FLA,ER,Chuzito
+96,4,04:10,81,76,FLA,substituicao_entra,Yago
+97,4,04:10,81,76,FLA,substituicao_sai,Marquinhos
+98,4,04:11,81,76,FLA,RD,Hettsheimeir
+99,4,04:15,81,76,BAU,2_Pts_T,Alex
+100,4,04:25,81,76,BAU,RD,Tyrone Curnell
+101,4,04:29,81,76,FLA,3_Pts_T,Hettsheimeir
+102,4,04:43,81,76,FLA,RD,Balbi
+103,4,04:49,81,76,BAU,3_Pts_T,Gui Deodato
+104,4,04:57,81,76,BAU,FR,Tyrone Curnell
+105,4,04:57,81,76,FLA,FC,Mineiro
+106,4,04:57,81,76,FLA,substituicao_entra,Mineiro
+107,4,04:57,81,76,FLA,substituicao_sai,Olivinha
+108,4,04:57,81,76,FLA,substituicao_entra,Balbi
+109,4,04:57,81,76,FLA,substituicao_sai,Yago
+110,4,04:57,81,76,BAU,FR,Alexey Borges
+111,4,04:57,81,76,FLA,FC,Yago
+112,4,05:19,81,76,FLA,AS,Yago
+113,4,05:19,81,76,FLA,3_Pts_C,Hettsheimeir
+114,4,05:39,78,76,BAU,AS,Alexey Borges
+115,4,05:39,78,76,BAU,2_Pts_C,Dikembe
+116,4,05:48,78,74,BAU,FR,Tyrone Curnell
+117,4,05:48,78,74,FLA,FC,Chuzito
+118,4,06:09,78,74,FLA,LL_Pts_C,Olivinha
+119,4,06:09,77,74,FLA,LL_Pts_C,Olivinha
+120,4,06:09,76,74,BAU,substituicao_entra,Dikembe
+121,4,06:09,76,74,BAU,substituicao_sai,Gabriel Jaú
+122,4,06:09,76,74,FLA,FR,Olivinha
+123,4,06:09,76,74,BAU,FC,Gabriel Jaú
+124,4,06:09,76,74,FLA,RD,Olivinha
+125,4,06:11,76,74,BAU,2_Pts_T,Gabriel Jaú
+126,4,06:22,76,74,FLA,substituicao_entra,Chuzito
+127,4,06:22,76,74,FLA,substituicao_sai,Balbi
+128,4,06:22,76,74,BAU,substituicao_entra,Alexey Borges
+129,4,06:22,76,74,BAU,substituicao_sai,Larry Taylor
+130,4,06:26,76,74,FLA,2_Pts_C,Marquinhos
+131,4,06:39,74,74,FLA,RD,Hettsheimeir
+132,4,06:43,74,74,BAU,3_Pts_T,Alex
+133,4,07:11,74,74,FLA,AS,Yago
+134,4,07:11,74,74,FLA,3_Pts_C,Olivinha
+135,4,07:18,71,74,FLA,RO,Marquinhos
+136,4,07:23,71,74,FLA,3_Pts_T,Balbi
+137,4,07:35,71,74,FLA,substituicao_entra,Hettsheimeir
+138,4,07:35,71,74,FLA,substituicao_sai,Mineiro
+139,4,07:35,71,74,BAU,substituicao_entra,Gabriel Jaú
+140,4,07:35,71,74,BAU,substituicao_sai,Alexey Borges
+141,4,07:35,71,74,FLA,FR,Yago
+142,4,07:35,71,74,BAU,FC,Alexey Borges
+143,4,07:51,71,74,FLA,FR,Balbi
+144,4,07:51,71,74,BAU,ER,Tyrone Curnell
+145,4,07:51,71,74,BAU,FC_O,Tyrone Curnell
+146,4,08:07,71,74,FLA,2_Pts_C,Mineiro
+147,4,08:25,69,74,BAU,ER,Alexey Borges
+148,4,08:35,69,74,BAU,FR,Larry Taylor
+149,4,08:35,69,74,FLA,FC,Olivinha
+150,4,08:52,69,74,FLA,LL_Pts_C,Marquinhos
+151,4,08:52,68,74,FLA,AS,Balbi
+152,4,08:52,68,74,FLA,LL_Pts_C,Marquinhos
+153,4,08:52,67,74,FLA,substituicao_entra,Olivinha
+154,4,08:52,67,74,FLA,substituicao_entra,Yago
+155,4,08:52,67,74,FLA,substituicao_sai,Demétrio
+156,4,08:52,67,74,FLA,substituicao_sai,Chuzito
+157,4,08:52,67,74,FLA,FR,Marquinhos
+158,4,08:52,67,74,BAU,FC,Gui Deodato
+159,4,08:54,67,74,FLA,RD,Demétrio
+160,4,08:59,67,74,BAU,3_Pts_T,Alexey Borges
+161,4,09:10,67,74,BAU,RD,Gui Deodato
+162,4,09:14,67,74,FLA,2_Pts_T,Demétrio
+163,4,09:25,67,74,FLA,tempo_tecnico,Flamengo
+164,4,09:26,67,74,BAU,EN,Alex
+165,4,09:31,67,72,BAU,BR,Alex
+166,4,09:31,67,72,FLA,ER,Balbi
+167,4,09:31,67,72,FLA,FR,Marquinhos
+168,4,09:31,67,72,BAU,FC,Larry Taylor
+169,4,09:47,67,72,BAU,AS,Alexey Borges
+170,4,09:47,67,72,BAU,3_Pts_C,Larry Taylor
+171,4,10:00,67,69,,inicio_quarto,
+172,3,00:00,67,69,,fim_quarto,
+173,3,00:00,67,69,BAU,AS,Larry Taylor
+174,3,00:00,67,69,BAU,2_Pts_C,Gui Deodato
+175,3,00:00,67,67,BAU,substituicao_entra,Gui Deodato
+176,3,00:00,67,67,BAU,substituicao_sai,Gabriel Jaú
+177,3,00:00,67,67,FLA,substituicao_entra,Marquinhos
+178,3,00:00,67,67,FLA,substituicao_sai,Yago
+179,3,00:00,67,67,BAU,FR,Alex
+180,3,00:00,67,67,FLA,FC,Jhonatan
+181,3,00:08,67,67,FLA,substituicao_entra,Jhonatan
+182,3,00:08,67,67,FLA,substituicao_sai,Olivinha
+183,3,00:08,67,67,BAU,FR,Alex
+184,3,00:08,67,67,FLA,FC,Mineiro
+185,3,00:22,67,67,FLA,2_Pts_C,Mineiro
+186,3,00:24,65,67,FLA,RO,Mineiro
+187,3,00:26,65,67,FLA,2_Pts_T,Yago
+188,3,00:32,65,67,FLA,RD,Olivinha
+189,3,00:38,65,67,BAU,2_Pts_T,Alexey Borges
+190,3,00:44,65,67,BAU,RD,Gabriel Jaú
+191,3,00:48,65,67,FLA,3_Pts_T,Olivinha
+192,3,00:51,65,67,FLA,RD,Yago
+193,3,00:55,65,67,BAU,2_Pts_T,Gabriel Jaú
+194,3,01:10,65,67,FLA,2_Pts_C,Olivinha
+195,3,01:35,63,67,BAU,AS,Alex
+196,3,01:35,63,67,BAU,3_Pts_C,Larry Taylor
+197,3,01:45,63,64,FLA,substituicao_entra,Mineiro
+198,3,01:45,63,64,FLA,substituicao_sai,Marquinhos
+199,3,01:45,63,64,BAU,substituicao_entra,Alex
+200,3,01:45,63,64,BAU,substituicao_sai,Gui Deodato
+201,3,01:48,63,64,FLA,2_Pts_C,Olivinha
+202,3,02:03,61,64,BAU,2_Pts_C,Gui Deodato
+203,3,02:13,61,62,BAU,FR,Alexey Borges
+204,3,02:13,61,62,FLA,FC,Olivinha
+205,3,02:22,61,62,BAU,RD,Gui Deodato
+206,3,02:26,61,62,FLA,2_Pts_T,Demétrio
+207,3,02:37,61,62,FLA,LL_Pts_C,Demétrio
+208,3,02:37,60,62,FLA,LL_Pts_C,Demétrio
+209,3,02:37,59,62,BAU,substituicao_entra,Gabriel Jaú
+210,3,02:37,59,62,BAU,substituicao_sai,Diego
+211,3,02:37,59,62,FLA,FR,Demétrio
+212,3,02:37,59,62,BAU,FC_A,Diego
+213,3,02:53,59,62,BAU,2_Pts_C,Gui Deodato
+214,3,03:04,59,60,FLA,substituicao_entra,Demétrio
+215,3,03:04,59,60,FLA,substituicao_entra,Yago
+216,3,03:04,59,60,FLA,substituicao_sai,Mineiro
+217,3,03:04,59,60,FLA,substituicao_sai,Balbi
+218,3,03:19,59,60,FLA,AS,Balbi
+219,3,03:19,59,60,FLA,3_Pts_C,Olivinha
+220,3,03:34,56,60,BAU,2_Pts_C,Tyrone Curnell
+221,3,03:48,56,58,FLA,AS,Balbi
+222,3,03:48,56,58,FLA,3_Pts_C,Olivinha
+223,3,04:03,53,58,BAU,AS,Gui Deodato
+224,3,04:03,53,58,BAU,2_Pts_C,Tyrone Curnell
+225,3,04:14,53,56,BAU,substituicao_entra,Diego
+226,3,04:14,53,56,BAU,substituicao_sai,Dikembe
+227,3,04:14,53,56,FLA,substituicao_entra,Olivinha
+228,3,04:14,53,56,FLA,substituicao_sai,Hettsheimeir
+229,3,04:16,53,56,FLA,2_Pts_C,Marquinhos
+230,3,04:16,51,56,FLA,RO,Marquinhos
+231,3,04:19,51,56,FLA,3_Pts_T,Hettsheimeir
+232,3,04:28,51,56,BAU,substituicao_entra,Larry Taylor
+233,3,04:28,51,56,BAU,substituicao_sai,Alex
+234,3,04:28,51,56,FLA,substituicao_entra,Chuzito
+235,3,04:28,51,56,FLA,substituicao_sai,Martinez
+236,3,04:32,51,56,BAU,AS,Alexey Borges
+237,3,04:32,51,56,BAU,3_Pts_C,Alex
+238,3,04:42,51,53,BAU,RD,Alexey Borges
+239,3,04:45,51,53,FLA,3_Pts_T,Marquinhos
+240,3,04:49,51,53,FLA,RD,Mineiro
+241,3,04:53,51,53,BAU,3_Pts_T,Gui Deodato
+242,3,05:08,51,53,BAU,FR,Alex
+243,3,05:08,51,53,FLA,FC,Martinez
+244,3,05:16,51,53,BAU,tempo_tecnico,Bauru
+245,3,05:17,51,53,FLA,AS,Mineiro
+246,3,05:17,51,53,FLA,2_Pts_C,Hettsheimeir
+247,3,05:25,49,53,FLA,RD,Martinez
+248,3,05:30,49,53,BAU,3_Pts_T,Gui Deodato
+249,3,05:44,49,53,FLA,LL_Pts_C,Hettsheimeir
+250,3,05:44,48,53,FLA,AS,Balbi
+251,3,05:44,48,53,FLA,LL_Pts_C,Hettsheimeir
+252,3,05:44,47,53,FLA,FR,Hettsheimeir
+253,3,05:44,47,53,BAU,FC,Gui Deodato
+254,3,06:03,47,53,FLA,RD,Flamengo
+255,3,06:05,47,53,FLA,TO,Hettsheimeir
+256,3,06:05,47,53,BAU,2_Pts_T,Alexey Borges
+257,3,06:21,47,53,FLA,ER,Hettsheimeir
+258,3,06:30,47,53,FLA,RD,Marquinhos
+259,3,06:35,47,53,BAU,3_Pts_T,Alex
+260,3,06:53,47,53,FLA,AS,Balbi
+261,3,06:53,47,53,FLA,3_Pts_C,Marquinhos
+262,3,06:57,44,53,FLA,RD,Hettsheimeir
+263,3,07:00,44,53,BAU,2_Pts_T,Tyrone Curnell
+264,3,07:11,44,53,FLA,LL_Pts_C,Hettsheimeir
+265,3,07:11,43,53,FLA,LL_Pts_C,Hettsheimeir
+266,3,07:11,42,53,BAU,substituicao_entra,Dikembe
+267,3,07:11,42,53,BAU,substituicao_sai,Gabriel Jaú
+268,3,07:11,42,53,FLA,FR,Hettsheimeir
+269,3,07:11,42,53,BAU,FC,Gabriel Jaú
+270,3,07:33,42,53,BAU,AS,Alex
+271,3,07:33,42,53,BAU,3_Pts_C,Gui Deodato
+272,3,07:45,42,50,BAU,BR,Gui Deodato
+273,3,07:45,42,50,FLA,ER,Hettsheimeir
+274,3,07:52,42,50,FLA,RD,Martinez
+275,3,07:56,42,50,BAU,2_Pts_T,Alexey Borges
+276,3,08:11,42,50,BAU,RD,Gabriel Jaú
+277,3,08:15,42,50,FLA,3_Pts_T,Mineiro
+278,3,08:34,42,50,FLA,RD,Hettsheimeir
+279,3,08:37,42,50,BAU,2_Pts_T,Alex
+280,3,08:45,42,50,BAU,RD,Tyrone Curnell
+281,3,08:50,42,50,FLA,2_Pts_T,Hettsheimeir
+282,3,09:06,42,50,BAU,AS,Tyrone Curnell
+283,3,09:06,42,50,BAU,3_Pts_C,Alexey Borges
+284,3,09:12,42,47,BAU,BR,Tyrone Curnell
+285,3,09:12,42,47,FLA,ER,Mineiro
+286,3,09:13,42,47,BAU,ER,
+287,3,09:40,42,47,BAU,RD,Bauru
+288,3,09:42,42,47,FLA,3_Pts_T,Martinez
+289,3,10:00,42,47,,inicio_quarto,
+290,2,00:00,42,47,,fim_quarto,
+291,2,00:05,42,47,BAU,substituicao_entra,Tyrone Curnell
+292,2,00:05,42,47,BAU,substituicao_sai,Diego
+293,2,00:05,42,47,FLA,substituicao_entra,Mineiro
+294,2,00:05,42,47,FLA,substituicao_entra,Chuzito
+295,2,00:05,42,47,FLA,substituicao_sai,Demétrio
+296,2,00:05,42,47,FLA,substituicao_sai,Yago
+297,2,00:05,42,47,BAU,tempo_tecnico,Bauru
+298,2,00:05,42,47,FLA,ER,Marquinhos
+299,2,00:17,42,47,BAU,AS,Gui Deodato
+300,2,00:17,42,47,BAU,2_Pts_C,Gabriel Jaú
+301,2,00:34,42,45,BAU,RD,Alexey Borges
+302,2,00:39,42,45,FLA,3_Pts_T,Demétrio
+303,2,00:50,42,45,FLA,tempo_tecnico,Flamengo
+304,2,00:51,42,45,BAU,2_Pts_C,Alexey Borges
+305,2,01:06,42,43,BAU,substituicao_entra,Alexey Borges
+306,2,01:06,42,43,BAU,substituicao_sai,Alexei Patrício
+307,2,01:06,42,43,FLA,LL_Pts_C,Yago
+308,2,01:06,41,43,FLA,LL_Pts_T,Yago
+309,2,01:06,41,43,BAU,substituicao_entra,Gabriel Jaú
+310,2,01:06,41,43,BAU,substituicao_sai,Dikembe
+311,2,01:06,41,43,FLA,substituicao_entra,Olivinha
+312,2,01:06,41,43,FLA,substituicao_entra,Jhonatan
+313,2,01:06,41,43,FLA,substituicao_sai,Mineiro
+314,2,01:06,41,43,FLA,substituicao_sai,Chuzito
+315,2,01:06,41,43,FLA,FR,Yago
+316,2,01:06,41,43,BAU,FC,Dikembe
+317,2,01:10,41,43,FLA,RD,Marquinhos
+318,2,01:15,41,43,BAU,2_Pts_T,Dikembe
+319,2,01:23,41,43,BAU,BR,Diego
+320,2,01:23,41,43,FLA,ER,Chuzito
+321,2,01:31,41,43,FLA,RD,Marquinhos
+322,2,01:35,41,43,BAU,2_Pts_T,Larry Taylor
+323,2,01:54,41,43,FLA,AS,Yago
+324,2,01:54,41,43,FLA,3_Pts_C,Marquinhos
+325,2,02:07,38,43,BAU,2_Pts_C,Larry Taylor
+326,2,02:27,38,41,FLA,substituicao_entra,Marquinhos
+327,2,02:27,38,41,FLA,substituicao_sai,Olivinha
+328,2,02:27,38,41,FLA,LL_Pts_C,Olivinha
+329,2,02:27,37,41,FLA,LL_Pts_C,Olivinha
+330,2,02:27,36,41,BAU,substituicao_entra,Diego
+331,2,02:27,36,41,BAU,substituicao_sai,Alex
+332,2,02:27,36,41,FLA,FR,Olivinha
+333,2,02:27,36,41,BAU,FC,Alex
+334,2,02:37,36,41,FLA,RD,Chuzito
+335,2,02:44,36,41,BAU,2_Pts_T,Alexei Patrício
+336,2,02:55,36,41,BAU,substituicao_entra,Dikembe
+337,2,02:55,36,41,BAU,substituicao_sai,Gabriel Jaú
+338,2,02:55,36,41,BAU,tempo_tecnico,Bauru
+339,2,02:55,36,41,FLA,ER,Chuzito
+340,2,03:06,36,41,FLA,FR,Yago
+341,2,03:06,36,41,BAU,ER,Gui Deodato
+342,2,03:06,36,41,BAU,FC_O,Gui Deodato
+343,2,03:21,36,41,FLA,AS,Yago
+344,2,03:21,36,41,FLA,3_Pts_C,Mineiro
+345,2,03:23,33,41,FLA,RO,Mineiro
+346,2,03:27,33,41,FLA,2_Pts_T,Olivinha
+347,2,03:37,33,41,FLA,FR,Olivinha
+348,2,03:37,33,41,BAU,FC,Larry Taylor
+349,2,03:45,33,41,BAU,AS,Gui Deodato
+350,2,03:45,33,41,BAU,2_Pts_C,Gabriel Jaú
+351,2,04:09,33,39,FLA,ER,
+352,2,04:10,33,39,FLA,3_Pts_T,Yago
+353,2,04:35,33,39,BAU,LL_Pts_C,Alex
+354,2,04:35,33,38,BAU,FR,Alex
+355,2,04:35,33,38,FLA,FC,Olivinha
+356,2,04:35,33,38,BAU,2_Pts_C,Alex
+357,2,04:45,33,36,FLA,LL_Pts_C,Yago
+358,2,04:45,32,36,FLA,LL_Pts_C,Yago
+359,2,04:45,31,36,FLA,FR,Yago
+360,2,04:45,31,36,BAU,FC,Alexei Patrício
+361,2,04:57,31,36,FLA,RD,Mineiro
+362,2,04:57,31,36,BAU,LL_Pts_T,Gui Deodato
+363,2,04:57,31,36,BAU,LL_Pts_C,Gui Deodato
+364,2,04:57,31,35,BAU,AS,Larry Taylor
+365,2,04:57,31,35,BAU,LL_Pts_C,Gui Deodato
+366,2,04:57,31,34,BAU,substituicao_entra,Gabriel Jaú
+367,2,04:57,31,34,BAU,substituicao_sai,Dikembe
+368,2,04:57,31,34,FLA,substituicao_entra,Demétrio
+369,2,04:57,31,34,FLA,substituicao_sai,Marquinhos
+370,2,04:57,31,34,BAU,FR,Gui Deodato
+371,2,04:57,31,34,FLA,FC,Marquinhos
+372,2,05:12,31,34,FLA,AS,Yago
+373,2,05:12,31,34,FLA,2_Pts_C,Chuzito
+374,2,05:16,29,34,FLA,RD,Mineiro
+375,2,05:19,29,34,BAU,2_Pts_T,Dikembe
+376,2,05:28,29,34,BAU,RD,Gui Deodato
+377,2,05:31,29,34,FLA,3_Pts_T,Mineiro
+378,2,05:46,29,34,BAU,substituicao_entra,Alexei Patrício
+379,2,05:46,29,34,BAU,substituicao_sai,Alexey Borges
+380,2,05:47,29,34,FLA,FR,Yago
+381,2,05:47,29,34,BAU,FC,Alexey Borges
+382,2,05:54,29,34,FLA,tempo_tecnico,Flamengo
+383,2,05:55,29,34,BAU,AS,Alexey Borges
+384,2,05:55,29,34,BAU,3_Pts_C,Gui Deodato
+385,2,06:14,29,31,BAU,FR,Alex
+386,2,06:14,29,31,FLA,FC,Mineiro
+387,2,06:14,29,31,BAU,RD,Bauru
+388,2,06:15,29,31,FLA,2_Pts_T,Mineiro
+389,2,06:38,29,31,BAU,AS,Alexey Borges
+390,2,06:38,29,31,BAU,3_Pts_C,Gui Deodato
+391,2,06:56,29,28,BAU,substituicao_entra,Alex
+392,2,06:56,29,28,BAU,substituicao_sai,Diego
+393,2,06:56,29,28,FLA,substituicao_entra,Olivinha
+394,2,06:56,29,28,FLA,substituicao_entra,Mineiro
+395,2,06:56,29,28,FLA,substituicao_entra,Marquinhos
+396,2,06:56,29,28,FLA,substituicao_entra,Yago
+397,2,06:56,29,28,FLA,substituicao_sai,Demétrio
+398,2,06:56,29,28,FLA,substituicao_sai,Hettsheimeir
+399,2,06:56,29,28,FLA,substituicao_sai,Martinez
+400,2,06:56,29,28,FLA,substituicao_sai,Balbi
+401,2,06:56,29,28,FLA,2_Pts_C,Demétrio
+402,2,07:12,27,28,BAU,AS,Alexey Borges
+403,2,07:12,27,28,BAU,3_Pts_C,Gui Deodato
+404,2,07:36,27,25,FLA,EN,Demétrio
+405,2,07:54,25,25,FLA,RD,Hettsheimeir
+406,2,07:57,25,25,BAU,3_Pts_T,Diego
+407,2,08:09,25,25,BAU,FR,Larry Taylor
+408,2,08:09,25,25,FLA,FC,Balbi
+409,2,08:21,25,25,BAU,RD,Gui Deodato
+410,2,08:25,25,25,FLA,3_Pts_T,Chuzito
+411,2,08:35,25,25,FLA,FR,Chuzito
+412,2,08:35,25,25,BAU,FC,Diego
+413,2,08:37,25,25,FLA,RD,Balbi
+414,2,08:41,25,25,BAU,2_Pts_T,Alexey Borges
+415,2,08:52,25,25,FLA,2_Pts_C,Balbi
+416,2,09:15,23,25,BAU,LL_Pts_C,Larry Taylor
+417,2,09:15,23,24,FLA,ER,
+418,2,09:15,23,24,FLA,FC_T,Flamengo
+419,2,09:15,23,24,FLA,RD,Balbi
+420,2,09:17,23,24,BAU,2_Pts_T,Gui Deodato
+421,2,09:25,23,24,BAU,FR,Gui Deodato
+422,2,09:25,23,24,FLA,FC,Demétrio
+423,2,09:42,23,24,FLA,substituicao_entra,Martinez
+424,2,09:42,23,24,FLA,substituicao_entra,Balbi
+425,2,09:42,23,24,FLA,substituicao_sai,Jhonatan
+426,2,09:42,23,24,FLA,substituicao_sai,Yago
+427,2,09:42,23,24,FLA,ER,Jhonatan
+428,2,09:52,23,24,BAU,2_Pts_C,Larry Taylor
+429,2,10:00,23,22,,inicio_quarto,
+430,1,00:00,23,22,,fim_quarto,
+431,1,00:00,23,22,BAU,3_Pts_C,Larry Taylor
+432,1,00:02,23,19,BAU,RD,Diego
+433,1,00:05,23,19,FLA,3_Pts_T,Demétrio
+434,1,00:27,23,19,FLA,RD,Demétrio
+435,1,00:31,23,19,BAU,2_Pts_T,Alex
+436,1,00:46,23,19,BAU,BR,Alex
+437,1,00:46,23,19,FLA,ER,Yago
+438,1,00:56,23,19,FLA,RD,Jhonatan
+439,1,01:00,23,19,BAU,3_Pts_T,Larry Taylor
+440,1,01:10,23,19,FLA,LL_Pts_C,Jhonatan
+441,1,01:10,22,19,FLA,LL_Pts_C,Jhonatan
+442,1,01:10,21,19,FLA,substituicao_entra,Demétrio
+443,1,01:10,21,19,FLA,substituicao_sai,Marquinhos
+444,1,01:10,21,19,FLA,FR,Jhonatan
+445,1,01:10,21,19,BAU,FC,Alex
+446,1,01:25,21,19,FLA,substituicao_entra,Jhonatan
+447,1,01:25,21,19,FLA,substituicao_sai,Demétrio
+448,1,01:30,21,19,BAU,ER,Gui Deodato
+449,1,01:47,21,19,BAU,RD,Gui Deodato
+450,1,01:52,21,19,FLA,3_Pts_T,Yago
+451,1,02:08,21,19,BAU,AS,Larry Taylor
+452,1,02:08,21,19,BAU,3_Pts_C,Gui Deodato
+453,1,02:21,21,16,FLA,3_Pts_C,Marquinhos
+454,1,02:45,18,16,BAU,2_Pts_C,Alex
+455,1,03:00,18,14,FLA,LL_Pts_C,Hettsheimeir
+456,1,03:00,17,14,FLA,LL_Pts_C,Hettsheimeir
+457,1,03:00,16,14,FLA,FR,Hettsheimeir
+458,1,03:00,16,14,BAU,FC,Diego
+459,1,03:13,16,14,BAU,2_Pts_C,Alex
+460,1,03:27,16,12,FLA,substituicao_entra,Chuzito
+461,1,03:27,16,12,FLA,substituicao_sai,Balbi
+462,1,03:27,16,12,BAU,FR,Diego
+463,1,03:27,16,12,FLA,FC,Demétrio
+464,1,03:27,16,12,BAU,RO,Bauru
+465,1,03:29,16,12,BAU,2_Pts_T,Dikembe
+466,1,03:42,16,12,BAU,RD,Diego
+467,1,03:45,16,12,FLA,2_Pts_T,Balbi
+468,1,03:57,16,12,FLA,RD,Hettsheimeir
+469,1,03:57,16,12,BAU,LL_Pts_T,Dikembe
+470,1,03:57,16,12,BAU,FR,Dikembe
+471,1,03:57,16,12,FLA,FC,Balbi
+472,1,03:57,16,12,BAU,AS,Alex
+473,1,03:57,16,12,BAU,2_Pts_C,Dikembe
+474,1,04:08,16,10,FLA,LL_Pts_C,Marquinhos
+475,1,04:08,15,10,BAU,ER,
+476,1,04:08,15,10,BAU,FC_T,Bauru
+477,1,04:08,15,10,BAU,substituicao_entra,Larry Taylor
+478,1,04:08,15,10,BAU,substituicao_sai,Alexey Borges
+479,1,04:08,15,10,FLA,substituicao_entra,Demétrio
+480,1,04:08,15,10,FLA,substituicao_entra,Hettsheimeir
+481,1,04:08,15,10,FLA,substituicao_entra,Yago
+482,1,04:08,15,10,FLA,substituicao_sai,Martinez
+483,1,04:08,15,10,FLA,substituicao_sai,Olivinha
+484,1,04:08,15,10,FLA,substituicao_sai,Mineiro
+485,1,04:08,15,10,BAU,FR,Alexey Borges
+486,1,04:08,15,10,FLA,FC,Martinez
+487,1,04:11,15,10,BAU,RO,Alex
+488,1,04:12,15,10,BAU,2_Pts_T,Dikembe
+489,1,04:12,15,10,BAU,RO,Dikembe
+490,1,04:17,15,10,BAU,2_Pts_T,Alex
+491,1,04:34,15,10,FLA,2_Pts_C,Martinez
+492,1,04:39,13,10,FLA,BR,Martinez
+493,1,04:39,13,10,BAU,ER,Dikembe
+494,1,04:51,13,10,FLA,3_Pts_C,Balbi
+495,1,05:16,10,10,BAU,3_Pts_C,Alex
+496,1,05:34,10,7,BAU,RD,Gui Deodato
+497,1,05:38,10,7,FLA,3_Pts_T,Martinez
+498,1,05:49,10,7,FLA,RD,Balbi
+499,1,05:55,10,7,FLA,TO,Olivinha
+500,1,05:55,10,7,BAU,2_Pts_T,Alex
+501,1,06:00,10,7,BAU,BR,Alex
+502,1,06:00,10,7,FLA,ER,Balbi
+503,1,06:03,10,7,FLA,RD,Balbi
+504,1,06:07,10,7,BAU,3_Pts_T,Diego
+505,1,06:10,10,7,BAU,RO,Dikembe
+506,1,06:14,10,7,BAU,3_Pts_T,Alexey Borges
+507,1,06:28,10,7,BAU,RO,Alexey Borges
+508,1,06:31,10,7,BAU,3_Pts_T,Gui Deodato
+509,1,06:53,10,7,FLA,LL_Pts_C,Olivinha
+510,1,06:53,9,7,BAU,substituicao_entra,Dikembe
+511,1,06:53,9,7,BAU,substituicao_sai,Gabriel Jaú
+512,1,06:53,9,7,FLA,FR,Olivinha
+513,1,06:53,9,7,BAU,FC,Gabriel Jaú
+514,1,06:53,9,7,FLA,AS,Balbi
+515,1,06:53,9,7,FLA,2_Pts_C,Olivinha
+516,1,07:02,7,7,BAU,substituicao_entra,Diego
+517,1,07:02,7,7,BAU,substituicao_sai,Tyrone Curnell
+518,1,07:02,7,7,FLA,FR,Olivinha
+519,1,07:02,7,7,BAU,ER,Tyrone Curnell
+520,1,07:02,7,7,BAU,FC_O,Tyrone Curnell
+521,1,07:20,7,7,FLA,2_Pts_C,Mineiro
+522,1,07:30,5,7,FLA,FR,Olivinha
+523,1,07:30,5,7,BAU,FC,Alexey Borges
+524,1,07:30,5,7,FLA,RO,Olivinha
+525,1,07:30,5,7,BAU,TO,Gabriel Jaú
+526,1,07:30,5,7,FLA,2_Pts_T,Olivinha
+527,1,07:31,5,7,FLA,RO,Olivinha
+528,1,07:34,5,7,FLA,2_Pts_T,Olivinha
+529,1,07:54,5,7,BAU,AS,Gabriel Jaú
+530,1,07:54,5,7,BAU,2_Pts_C,Alexey Borges
+531,1,07:58,5,5,BAU,FR,Alexey Borges
+532,1,07:58,5,5,FLA,FC,Martinez
+533,1,08:08,5,5,FLA,2_Pts_C,Balbi
+534,1,08:25,3,5,BAU,2_Pts_C,Gabriel Jaú
+535,1,08:38,3,3,BAU,BR,Tyrone Curnell
+536,1,08:38,3,3,FLA,ER,Olivinha
+537,1,08:54,3,3,FLA,FR,Balbi
+538,1,08:54,3,3,BAU,FC,Tyrone Curnell
+539,1,08:55,3,3,FLA,RD,Balbi
+540,1,08:59,3,3,BAU,2_Pts_T,Gui Deodato
+541,1,09:11,3,3,FLA,3_Pts_C,Balbi
+542,1,09:23,0,3,FLA,FR,Marquinhos
+543,1,09:23,0,3,BAU,FC,Gabriel Jaú
+544,1,09:39,0,3,BAU,3_Pts_C,Alex
+545,1,09:49,0,0,BAU,BR,Tyrone Curnell
+546,1,09:49,0,0,FLA,ER,Martinez
+547,1,10:00,0,0,BAU,substituicao_entra,Gabriel Jaú
+548,1,10:00,0,0,BAU,substituicao_entra,Alex
+549,1,10:00,0,0,BAU,substituicao_entra,Alexey Borges
+550,1,10:00,0,0,BAU,substituicao_entra,Gui Deodato
+551,1,10:00,0,0,BAU,substituicao_entra,Tyrone Curnell
+552,1,10:00,0,0,FLA,substituicao_entra,Martinez
+553,1,10:00,0,0,FLA,substituicao_entra,Olivinha
+554,1,10:00,0,0,FLA,substituicao_entra,Mineiro
+555,1,10:00,0,0,FLA,substituicao_entra,Marquinhos
+556,1,10:00,0,0,FLA,substituicao_entra,Balbi
+557,1,10:00,0,0,,inicio_partida,

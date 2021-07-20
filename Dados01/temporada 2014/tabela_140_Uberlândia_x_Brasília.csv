@@ -1,0 +1,546 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,91,74, ,fim_partida,
+1,4,00:00,91,74,BRA,3_Pts_C,Arthur
+2,4,00:00,91,71,BRA,AS,Fred
+3,4,00:09,91,71,BRA,RD,Fred
+4,4,00:09,91,71,UBE,2_Pts_T,Dida
+5,4,00:12,91,71,UBE,RO,Dida
+6,4,00:12,91,71,UBE,3_Pts_T,Leandro
+7,4,00:32,91,71,UBE,RD,Dida
+8,4,00:32,91,71,BRA,3_Pts_T,Arthur
+9,4,00:36,91,71,BRA,substituicao_sai,Bruno
+10,4,00:36,91,71,BRA,substituicao_entra,Arthur
+11,4,00:47,91,71,UBE,3_Pts_C,Icaro
+12,4,01:07,88,71,BRA,LL_Pts_C,Fred
+13,4,01:07,88,70,BRA,LL_Pts_T,Fred
+14,4,01:07,88,70,BRA,FR,Fred
+15,4,01:07,88,70,UBE,FC,Leandro
+16,4,01:17,88,70,UBE,substituicao_entra,Dida
+17,4,01:17,88,70,UBE,substituicao_sai,Luis Gruber
+18,4,01:18,88,70,UBE,LL_Pts_C,Teló
+19,4,01:18,87,70,UBE,2_Pts_C,Teló
+20,4,01:18,85,70,UBE,FR,Teló
+21,4,01:18,85,70,BRA,FC,Max
+22,4,01:38,85,70,BRA,LL_Pts_C,Isaac
+23,4,01:38,85,69,BRA,LL_Pts_C,Isaac
+24,4,01:38,85,68,UBE,substituicao_entra,Leandro
+25,4,01:38,85,68,UBE,substituicao_sai,Audrei
+26,4,01:38,85,68,BRA,substituicao_entra,Max
+27,4,01:38,85,68,BRA,substituicao_sai,Arthur
+28,4,01:38,85,68,BRA,FR,Isaac
+29,4,01:38,85,68,UBE,FC,Zanini
+30,4,01:41,85,68,BRA,RD,Bruno
+31,4,01:41,85,68,UBE,2_Pts_T,Audrei
+32,4,01:48,85,68,UBE,RO,Audrei
+33,4,01:48,85,68,BRA,TO,Cipolini
+34,4,01:48,85,68,UBE,3_Pts_T,Luis Gruber
+35,4,02:02,85,68,UBE,BR,Zanini
+36,4,02:02,85,68,BRA,ER,Bruno
+37,4,02:05,85,68,BRA,RD,Bruno
+38,4,02:05,85,68,UBE,2_Pts_T,Luis Gruber
+39,4,02:29,85,68,UBE,RD,Teló
+40,4,02:29,85,68,BRA,2_Pts_T,Cipolini
+41,4,02:47,85,68,UBE,2_Pts_C,Icaro
+42,4,02:58,83,68,BRA,LL_Pts_C,Arthur
+43,4,02:58,83,67,BRA,LL_Pts_T,Arthur
+44,4,02:58,83,67,BRA,FR,Arthur
+45,4,02:58,83,67,UBE,FC,Audrei
+46,4,03:05,83,67,BRA,RD,Arthur
+47,4,03:05,83,67,UBE,LL_Pts_T,Luis Gruber
+48,4,03:05,83,67,UBE,LL_Pts_C,Luis Gruber
+49,4,03:05,82,67,BRA,substituicao_entra,Cipolini
+50,4,03:05,82,67,BRA,substituicao_sai,G Giovannoni
+51,4,03:05,82,67,BRA,substituicao_entra,Bruno
+52,4,03:05,82,67,BRA,substituicao_sai,Fulvio
+53,4,03:05,82,67,UBE,FR,Luis Gruber
+54,4,03:05,82,67,BRA,FC,Fulvio
+55,4,03:20,82,67,UBE,substituicao_entra,Zanini
+56,4,03:20,82,67,UBE,substituicao_sai,Hélio
+57,4,03:20,82,67,BRA,2_Pts_C,G Giovannoni
+58,4,03:21,82,65,BRA,RO,G Giovannoni
+59,4,03:21,82,65,BRA,2_Pts_T,Isaac
+60,4,03:31,82,65,BRA,RD,Isaac
+61,4,03:31,82,65,UBE,3_Pts_T,Teló
+62,4,03:52,82,65,BRA,tempo_tecnico,Brasília
+63,4,03:52,82,65,BRA,LL_Pts_C,Arthur
+64,4,03:52,82,64,BRA,LL_Pts_C,Arthur
+65,4,03:52,82,63,UBE,substituicao_entra,Teló
+66,4,03:52,82,63,UBE,substituicao_sai,Taboada
+67,4,03:52,82,63,BRA,substituicao_entra,Fred
+68,4,03:52,82,63,BRA,substituicao_sai,LaMonte
+69,4,03:52,82,63,BRA,FR,Arthur
+70,4,03:52,82,63,UBE,FC,Taboada
+71,4,04:01,82,63,UBE,2_Pts_C,Icaro
+72,4,04:04,80,63,UBE,RO,Icaro
+73,4,04:04,80,63,UBE,3_Pts_T,Luis Gruber
+74,4,04:30,80,63,UBE,RD,Icaro
+75,4,04:30,80,63,BRA,2_Pts_T,Arthur
+76,4,04:36,80,63,BRA,BR,Arthur
+77,4,04:36,80,63,UBE,ER,Icaro
+78,4,04:43,80,63,UBE,LL_Pts_C,Luis Gruber
+79,4,04:43,79,63,BRA,LL_Pts_C,G Giovannoni
+80,4,04:43,79,62,BRA,LL_Pts_C,G Giovannoni
+81,4,04:43,79,61,BRA,FC_T,Arthur
+82,4,04:43,79,61,BRA,FR,G Giovannoni
+83,4,04:43,79,61,UBE,FC,Hélio
+84,4,04:53,79,61,UBE,ER,Hélio
+85,4,05:03,79,61,UBE,RO,Audrei
+86,4,05:03,79,61,UBE,3_Pts_T,Icaro
+87,4,05:26,79,61,UBE,RD,Taboada
+88,4,05:26,79,61,BRA,LL_Pts_T,Isaac
+89,4,05:26,79,61,BRA,LL_Pts_C,Isaac
+90,4,05:26,79,60,BRA,FR,Isaac
+91,4,05:26,79,60,UBE,FC,Taboada
+92,4,05:42,79,60,UBE,LL_Pts_C,Luis Gruber
+93,4,05:42,78,60,BRA,substituicao_entra,Isaac
+94,4,05:42,78,60,BRA,substituicao_sai,Goodridge
+95,4,05:42,78,60,BRA,substituicao_entra,G Giovannoni
+96,4,05:42,78,60,BRA,substituicao_sai,Cipolini
+97,4,05:42,78,60,UBE,FR,Audrei
+98,4,05:42,78,60,BRA,FC,Goodridge
+99,4,05:42,78,60,UBE,2_Pts_C,Luis Gruber
+100,4,05:42,76,60,UBE,AS,Hélio
+101,4,05:54,76,60,BRA,2_Pts_C,Goodridge
+102,4,06:09,76,58,UBE,2_Pts_C,Audrei
+103,4,06:09,74,58,UBE,AS,Hélio
+104,4,06:25,74,58,UBE,substituicao_sai,Mims
+105,4,06:25,74,58,UBE,substituicao_entra,Hélio
+106,4,06:25,74,58,BRA,ER,LaMonte
+107,4,06:39,74,58,BRA,RD,Brasília
+108,4,06:39,74,58,UBE,2_Pts_T,Taboada
+109,4,06:41,74,58,BRA,substituicao_sai,G Giovannoni
+110,4,06:41,74,58,BRA,substituicao_entra,LaMonte
+111,4,06:41,74,58,UBE,FR,Audrei
+112,4,06:41,74,58,BRA,FC,G Giovannoni
+113,4,06:43,74,58,UBE,FR,Icaro
+114,4,06:43,74,58,BRA,FC,Fulvio
+115,4,07:00,74,58,BRA,LL_Pts_C,Arthur
+116,4,07:00,74,57,BRA,LL_Pts_C,Arthur
+117,4,07:00,74,56,UBE,tempo_tecnico,Uberlândia
+118,4,07:00,74,56,BRA,FR,Arthur
+119,4,07:00,74,56,UBE,FC,Mims
+120,4,07:06,74,56,BRA,BR,Goodridge
+121,4,07:06,74,56,UBE,ER,Mims
+122,4,07:23,74,56,BRA,substituicao_entra,Goodridge
+123,4,07:23,74,56,BRA,substituicao_sai,LaMonte
+124,4,07:23,74,56,BRA,LL_Pts_C,LaMonte
+125,4,07:23,74,55,UBE,substituicao_entra,Mims
+126,4,07:23,74,55,UBE,substituicao_entra,Taboada
+127,4,07:23,74,55,UBE,substituicao_entra,Icaro
+128,4,07:23,74,55,UBE,substituicao_sai,Hélio
+129,4,07:23,74,55,UBE,substituicao_sai,Rodrigo Silva
+130,4,07:23,74,55,UBE,substituicao_sai,Teló
+131,4,07:23,74,55,BRA,2_Pts_C,LaMonte
+132,4,07:23,74,53,BRA,FR,LaMonte
+133,4,07:23,74,53,UBE,FC,Teló
+134,4,07:35,74,53,BRA,RD,Arthur
+135,4,07:35,74,53,UBE,2_Pts_T,Teló
+136,4,07:39,74,53,UBE,RO,Teló
+137,4,07:39,74,53,UBE,2_Pts_T,Luis Gruber
+138,4,07:59,74,53,BRA,3_Pts_C,Cipolini
+139,4,07:59,74,50,BRA,AS,Arthur
+140,4,08:21,74,50,UBE,3_Pts_C,Luis Gruber
+141,4,08:21,71,50,UBE,AS,Hélio
+142,4,08:38,71,50,UBE,RD,Luis Gruber
+143,4,08:38,71,50,BRA,2_Pts_T,G Giovannoni
+144,4,08:46,71,50,BRA,RD,Brasília
+145,4,08:46,71,50,UBE,3_Pts_T,Audrei
+146,4,09:07,71,50,BRA,2_Pts_C,G Giovannoni
+147,4,09:21,71,48,BRA,substituicao_entra,Fulvio
+148,4,09:21,71,48,BRA,substituicao_sai,Fred
+149,4,09:21,71,48,BRA,FR,Fred
+150,4,09:21,71,48,UBE,FC,Rodrigo Silva
+151,4,09:29,71,48,BRA,FR,Cipolini
+152,4,09:29,71,48,UBE,FC,Rodrigo Silva
+153,4,09:47,71,48,UBE,2_Pts_C,Audrei
+154,4,09:47,69,48,UBE,AS,Hélio
+155,4,09:52,69,48,UBE,RD,Rodrigo Silva
+156,4,09:52,69,48,BRA,2_Pts_T,Arthur
+157,3,00:00,69,48, ,fim_quarto,
+158,3,00:00,69,48,UBE,2_Pts_C,Hélio
+159,3,00:03,67,48,UBE,BR,Hélio
+160,3,00:03,67,48,BRA,ER,LaMonte
+161,3,00:23,67,48,UBE,2_Pts_C,Hélio
+162,3,00:45,65,48,UBE,RD,Luis Gruber
+163,3,00:45,65,48,BRA,3_Pts_T,Fred
+164,3,00:56,65,48,BRA,substituicao_entra,LaMonte
+165,3,00:56,65,48,BRA,substituicao_sai,Ronald
+166,3,00:56,65,48,UBE,LL_Pts_C,Audrei
+167,3,00:56,64,48,UBE,LL_Pts_C,Audrei
+168,3,00:56,63,48,UBE,FR,Audrei
+169,3,00:56,63,48,BRA,FC,Ronald
+170,3,01:17,63,48,BRA,2_Pts_C,Cipolini
+171,3,01:17,63,46,BRA,AS,Fred
+172,3,01:24,63,46,UBE,2_Pts_C,Audrei
+173,3,01:24,61,46,UBE,AS,Hélio
+174,3,01:49,61,46,BRA,3_Pts_C,Fred
+175,3,01:49,61,43,BRA,AS,Arthur
+176,3,02:02,61,43,UBE,substituicao_entra,Teló
+177,3,02:02,61,43,UBE,substituicao_sai,Taboada
+178,3,02:02,61,43,BRA,substituicao_entra,Arthur
+179,3,02:02,61,43,BRA,substituicao_sai,G Giovannoni
+180,3,02:06,61,43,BRA,RD,Brasília
+181,3,02:06,61,43,UBE,2_Pts_T,Audrei
+182,3,02:31,61,43,UBE,RD,Rodrigo Silva
+183,3,02:31,61,43,BRA,3_Pts_T,Isaac
+184,3,02:53,61,43,UBE,3_Pts_C,Luis Gruber
+185,3,02:53,58,43,UBE,AS,Audrei
+186,3,03:08,58,43,BRA,FR,G Giovannoni
+187,3,03:08,58,43,UBE,FC,Icaro
+188,3,03:10,58,43,BRA,LL_Pts_C,G Giovannoni
+189,3,03:10,58,42,BRA,LL_Pts_C,G Giovannoni
+190,3,03:10,58,41,UBE,substituicao_entra,Hélio
+191,3,03:10,58,41,UBE,substituicao_sai,Icaro
+192,3,03:12,58,41,BRA,RO,Cipolini
+193,3,03:12,58,41,BRA,3_Pts_T,G Giovannoni
+194,3,03:21,58,41,UBE,substituicao_sai,Renan
+195,3,03:21,58,41,UBE,substituicao_entra,Rodrigo Silva
+196,3,03:21,58,41,BRA,FR,Ronald
+197,3,03:21,58,41,UBE,FC,Renan
+198,3,03:24,58,41,BRA,3_Pts_T,Fred
+199,3,03:38,58,41,BRA,substituicao_entra,Cipolini
+200,3,03:38,58,41,BRA,substituicao_sai,LaMonte
+201,3,03:40,58,41,BRA,tempo_tecnico,Brasília
+202,3,03:40,58,41,UBE,3_Pts_C,Icaro
+203,3,03:55,55,41,UBE,RO,Renan
+204,3,03:55,55,41,UBE,3_Pts_T,Taboada
+205,3,03:58,55,41,UBE,FR,Taboada
+206,3,03:58,55,41,BRA,FC,Isaac
+207,3,04:04,55,41,UBE,substituicao_entra,Luis Gruber
+208,3,04:04,55,41,UBE,substituicao_sai,Mims
+209,3,04:04,55,41,UBE,FR,Taboada
+210,3,04:04,55,41,BRA,FC,Isaac
+211,3,04:18,55,41,UBE,RD,Audrei
+212,3,04:18,55,41,BRA,3_Pts_T,LaMonte
+213,3,04:23,55,41,BRA,RO,Ronald
+214,3,04:23,55,41,BRA,2_Pts_T,Fred
+215,3,04:33,55,41,BRA,RD,Isaac
+216,3,04:33,55,41,UBE,3_Pts_T,Audrei
+217,3,04:39,55,41,UBE,RD,Audrei
+218,3,04:39,55,41,BRA,3_Pts_T,Isaac
+219,3,04:58,55,41,UBE,LL_Pts_C,Taboada
+220,3,04:58,54,41,BRA,substituicao_sai,Cipolini
+221,3,04:58,54,41,BRA,substituicao_entra,Ronald
+222,3,04:58,54,41,BRA,substituicao_entra,Fred
+223,3,04:58,54,41,BRA,substituicao_sai,Fulvio
+224,3,04:58,54,41,UBE,substituicao_entra,Icaro
+225,3,04:58,54,41,UBE,substituicao_sai,Hélio
+226,3,04:58,54,41,UBE,2_Pts_C,Taboada
+227,3,04:58,52,41,UBE,FR,Taboada
+228,3,04:58,52,41,BRA,FC,Cipolini
+229,3,05:10,52,41,UBE,RD,Mims
+230,3,05:10,52,41,BRA,2_Pts_T,LaMonte
+231,3,05:10,52,41,BRA,FR,G Giovannoni
+232,3,05:10,52,41,UBE,FC,Audrei
+233,3,05:11,52,41,BRA,3_Pts_T,Fulvio
+234,3,05:25,52,41,BRA,RD,G Giovannoni
+235,3,05:25,52,41,UBE,3_Pts_T,Audrei
+236,3,05:46,52,41,BRA,substituicao_entra,Isaac
+237,3,05:46,52,41,BRA,substituicao_sai,Arthur
+238,3,05:46,52,41,UBE,substituicao_entra,Renan
+239,3,05:46,52,41,UBE,substituicao_sai,Luis Gruber
+240,3,05:55,52,41,BRA,3_Pts_C,G Giovannoni
+241,3,05:55,52,38,BRA,AS,Fulvio
+242,3,06:13,52,38,UBE,2_Pts_C,Taboada
+243,3,06:29,50,38,UBE,RD,Luis Gruber
+244,3,06:29,50,38,BRA,3_Pts_T,Arthur
+245,3,06:36,50,38,BRA,FR,Fulvio
+246,3,06:36,50,38,UBE,FC,Hélio
+247,3,06:47,50,38,UBE,2_Pts_C,Hélio
+248,3,07:13,48,38,BRA,LL_Pts_C,Arthur
+249,3,07:13,48,37,BRA,AS,Cipolini
+250,3,07:13,48,37,BRA,LL_Pts_C,Arthur
+251,3,07:13,48,36,BRA,FR,Arthur
+252,3,07:13,48,36,UBE,FC,Luis Gruber
+253,3,07:31,48,36,UBE,2_Pts_C,Luis Gruber
+254,3,07:31,46,36,UBE,AS,Mims
+255,3,07:50,46,36,BRA,2_Pts_C,Cipolini
+256,3,07:50,46,34,BRA,AS,LaMonte
+257,3,08:11,46,34,UBE,2_Pts_C,Audrei
+258,3,08:17,44,34,UBE,FR,Taboada
+259,3,08:17,44,34,BRA,FC,Arthur
+260,3,08:21,44,34,UBE,RO,Mims
+261,3,08:21,44,34,UBE,2_Pts_T,Mims
+262,3,08:30,44,34,UBE,RD,Mims
+263,3,08:30,44,34,BRA,2_Pts_T,LaMonte
+264,3,08:46,44,34,UBE,EN,Audrei
+265,3,08:50,42,34,UBE,BR,Hélio
+266,3,08:50,42,34,BRA,ER,Fulvio
+267,3,09:09,42,34,UBE,2_Pts_C,Audrei
+268,3,09:09,40,34,UBE,AS,Mims
+269,3,09:27,40,34,BRA,2_Pts_C,Cipolini
+270,3,09:27,40,32,BRA,AS,Fulvio
+271,3,09:38,40,32,BRA,RD,Cipolini
+272,3,09:38,40,32,UBE,2_Pts_T,Audrei
+273,2,00:00,40,32, ,fim_quarto,
+274,2,00:00,40,32,UBE,3_Pts_C,Hélio
+275,2,00:00,37,32,UBE,AS,Audrei
+276,2,00:04,37,32,UBE,BR,Audrei
+277,2,00:04,37,32,BRA,ER,LaMonte
+278,2,00:13,37,32,BRA,RD,G Giovannoni
+279,2,00:13,37,32,UBE,LL_Pts_T,Hélio
+280,2,00:13,37,32,UBE,LL_Pts_C,Hélio
+281,2,00:13,36,32,UBE,substituicao_entra,Rodrigo Silva
+282,2,00:13,36,32,UBE,substituicao_sai,Renan
+283,2,00:13,36,32,BRA,substituicao_entra,Cipolini
+284,2,00:13,36,32,BRA,substituicao_sai,Abner
+285,2,00:13,36,32,UBE,FR,Hélio
+286,2,00:13,36,32,BRA,FC,Abner
+287,2,00:32,36,32,UBE,RD,Hélio
+288,2,00:32,36,32,BRA,2_Pts_T,LaMonte
+289,2,00:37,36,32,BRA,RD,LaMonte
+290,2,00:37,36,32,UBE,3_Pts_T,Taboada
+291,2,00:53,36,32,BRA,2_Pts_C,LaMonte
+292,2,00:59,36,30,BRA,BR,LaMonte
+293,2,00:59,36,30,UBE,ER,Taboada
+294,2,01:13,36,30,UBE,RD,Taboada
+295,2,01:13,36,30,BRA,LL_Pts_T,Abner
+296,2,01:13,36,30,BRA,LL_Pts_C,Abner
+297,2,01:17,36,29,BRA,FR,Abner
+298,2,01:17,36,29,UBE,FC,Luis Gruber
+299,2,01:28,36,29,BRA,RD,LaMonte
+300,2,01:28,36,29,UBE,2_Pts_T,Hélio
+301,2,01:40,36,29,BRA,substituicao_entra,Abner
+302,2,01:40,36,29,BRA,substituicao_sai,Cipolini
+303,2,01:40,36,29,BRA,LL_Pts_C,Cipolini
+304,2,01:40,36,28,BRA,LL_Pts_C,Cipolini
+305,2,01:40,36,27,BRA,FR,Cipolini
+306,2,01:40,36,27,UBE,FC,Renan
+307,2,01:53,36,27,BRA,substituicao_entra,Cipolini
+308,2,01:53,36,27,BRA,substituicao_sai,Abner
+309,2,01:57,36,27,BRA,tempo_tecnico,Brasília
+310,2,01:57,36,27,UBE,3_Pts_C,Luis Gruber
+311,2,01:57,33,27,UBE,AS,Taboada
+312,2,01:59,33,27,UBE,FR,Audrei
+313,2,01:59,33,27,BRA,FC,Fulvio
+314,2,02:04,33,27,UBE,RD,Audrei
+315,2,02:04,33,27,BRA,3_Pts_T,Arthur
+316,2,02:24,33,27,UBE,3_Pts_C,Taboada
+317,2,02:24,30,27,UBE,AS,Luis Gruber
+318,2,02:40,30,27,BRA,2_Pts_C,LaMonte
+319,2,02:54,30,25,BRA,RD,Arthur
+320,2,02:54,30,25,UBE,2_Pts_T,Taboada
+321,2,03:15,30,25,BRA,LL_Pts_C,LaMonte
+322,2,03:15,30,24,BRA,LL_Pts_C,LaMonte
+323,2,03:15,30,23,BRA,FR,LaMonte
+324,2,03:15,30,23,UBE,FC,Audrei
+325,2,03:26,30,23,BRA,substituicao_entra,Abner
+326,2,03:26,30,23,BRA,substituicao_sai,Ronald
+327,2,03:26,30,23,UBE,substituicao_entra,Renan
+328,2,03:26,30,23,UBE,substituicao_sai,Mims
+329,2,03:26,30,23,UBE,AS,Taboada
+330,2,03:26,30,23,UBE,LL_Pts_C,Mims
+331,2,03:26,29,23,UBE,LL_Pts_T,Mims
+332,2,03:26,29,23,UBE,FR,Mims
+333,2,03:26,29,23,BRA,FC,Ronald
+334,2,03:33,29,23,UBE,RD,Hélio
+335,2,03:33,29,23,BRA,2_Pts_T,Arthur
+336,2,03:38,29,23,BRA,BR,Fulvio
+337,2,03:38,29,23,UBE,ER,Hélio
+338,2,03:45,29,23,UBE,tempo_tecnico,Uberlândia
+339,2,03:45,29,23,BRA,3_Pts_C,LaMonte
+340,2,03:45,29,20,BRA,AS,Fulvio
+341,2,03:54,29,20,UBE,2_Pts_C,Hélio
+342,2,04:10,27,20,BRA,3_Pts_C,Fulvio
+343,2,04:10,27,17,BRA,AS,G Giovannoni
+344,2,04:34,27,17,BRA,RD,G Giovannoni
+345,2,04:34,27,17,UBE,LL_Pts_T,Mims
+346,2,04:34,27,17,UBE,LL_Pts_C,Mims
+347,2,04:34,26,17,UBE,substituicao_sai,Rodrigo Silva
+348,2,04:34,26,17,UBE,substituicao_entra,Luis Gruber
+349,2,04:34,26,17,BRA,substituicao_sai,Cipolini
+350,2,04:34,26,17,BRA,substituicao_entra,Ronald
+351,2,04:34,26,17,UBE,FR,Mims
+352,2,04:34,26,17,BRA,FC,Cipolini
+353,2,04:39,26,17,UBE,FR,Hélio
+354,2,04:39,26,17,BRA,FC,Cipolini
+355,2,05:06,26,17,BRA,substituicao_entra,Fulvio
+356,2,05:06,26,17,BRA,substituicao_sai,Fred
+357,2,05:06,26,17,BRA,substituicao_entra,Arthur
+358,2,05:06,26,17,BRA,substituicao_sai,Isaac
+359,2,05:06,26,17,UBE,RD,Uberlândia
+360,2,05:06,26,17,BRA,2_Pts_T,Cipolini
+361,2,05:18,26,17,BRA,RD,Cipolini
+362,2,05:18,26,17,UBE,3_Pts_T,Hélio
+363,2,05:37,26,17,BRA,2_Pts_C,G Giovannoni
+364,2,05:42,26,15,BRA,RO,G Giovannoni
+365,2,05:42,26,15,BRA,3_Pts_T,Isaac
+366,2,06:00,26,15,UBE,2_Pts_C,Mims
+367,2,06:03,24,15,UBE,RO,Mims
+368,2,06:03,24,15,UBE,2_Pts_T,Mims
+369,2,06:05,24,15,UBE,RO,Mims
+370,2,06:05,24,15,UBE,2_Pts_T,Mims
+371,2,06:19,24,15,UBE,BR,Uberlândia
+372,2,06:19,24,15,BRA,ER,Fred
+373,2,06:27,24,15,UBE,substituicao_sai,Luis Gruber
+374,2,06:27,24,15,UBE,substituicao_entra,Rodrigo Silva
+375,2,06:27,24,15,BRA,FR,LaMonte
+376,2,06:27,24,15,UBE,FC,Mims
+377,2,06:41,24,15,BRA,RD,Brasília
+378,2,06:41,24,15,UBE,2_Pts_T,Taboada
+379,2,07:07,24,15,UBE,RD,Luis Gruber
+380,2,07:07,24,15,BRA,3_Pts_T,G Giovannoni
+381,2,07:20,24,15,UBE,2_Pts_C,Audrei
+382,2,07:42,22,15,UBE,RD,Audrei
+383,2,07:42,22,15,BRA,3_Pts_T,Isaac
+384,2,07:49,22,15,UBE,substituicao_entra,Taboada
+385,2,07:49,22,15,UBE,substituicao_sai,Icaro
+386,2,07:49,22,15,UBE,substituicao_entra,Mims
+387,2,07:49,22,15,UBE,substituicao_sai,Renan
+388,2,07:52,22,15,UBE,tempo_tecnico,Uberlândia
+389,2,07:52,22,15,BRA,FR,LaMonte
+390,2,07:52,22,15,UBE,FC,Icaro
+391,2,07:56,22,15,BRA,RD,LaMonte
+392,2,07:56,22,15,UBE,2_Pts_T,Icaro
+393,2,08:14,22,15,BRA,3_Pts_C,Fred
+394,2,08:14,22,12,BRA,AS,LaMonte
+395,2,08:24,22,12,BRA,FR,Fred
+396,2,08:24,22,12,UBE,FC,Icaro
+397,2,08:24,22,12,BRA,substituicao_entra,LaMonte
+398,2,08:24,22,12,BRA,substituicao_sai,Arthur
+399,2,08:24,22,12,BRA,FR,Fred
+400,2,08:24,22,12,UBE,FC,Icaro
+401,2,08:41,22,12,UBE,2_Pts_C,Luis Gruber
+402,2,09:00,20,12,BRA,ER,Fred
+403,2,09:20,20,12,UBE,2_Pts_C,Renan
+404,2,09:20,18,12,UBE,AS,Icaro
+405,2,09:27,18,12,UBE,RO,Uberlândia
+406,2,09:27,18,12,UBE,2_Pts_T,Audrei
+407,2,09:49,18,12,UBE,RD,Uberlândia
+408,2,09:49,18,12,BRA,3_Pts_T,Fred
+409,1,00:00,18,12, ,fim_quarto,
+410,1,00:00,18,12,BRA,3_Pts_T,Max
+411,1,00:05,18,12,BRA,RO,Max
+412,1,00:05,18,12,BRA,3_Pts_T,Fred
+413,1,00:13,18,12,UBE,2_Pts_C,Luis Gruber
+414,1,00:36,16,12,BRA,LL_Pts_C,Isaac
+415,1,00:36,16,11,BRA,LL_Pts_C,Isaac
+416,1,00:36,16,10,BRA,substituicao_entra,Max
+417,1,00:36,16,10,BRA,substituicao_sai,Arthur
+418,1,00:36,16,10,UBE,substituicao_entra,Hélio
+419,1,00:36,16,10,UBE,substituicao_sai,Taboada
+420,1,00:36,16,10,UBE,substituicao_entra,Luis Gruber
+421,1,00:36,16,10,UBE,substituicao_sai,Renan
+422,1,00:37,16,10,BRA,FR,Isaac
+423,1,00:37,16,10,UBE,FC,Taboada
+424,1,00:53,16,10,BRA,RD,Goodridge
+425,1,00:53,16,10,UBE,2_Pts_T,Renan
+426,1,00:57,16,10,UBE,RO,Uberlândia
+427,1,00:57,16,10,UBE,2_Pts_T,Renan
+428,1,01:12,16,10,UBE,BR,Uberlândia
+429,1,01:12,16,10,BRA,ER,Goodridge
+430,1,01:28,16,10,UBE,substituicao_entra,Rodrigo Silva
+431,1,01:28,16,10,UBE,substituicao_sai,Luis Gruber
+432,1,01:28,16,10,BRA,substituicao_entra,Arthur
+433,1,01:28,16,10,BRA,substituicao_sai,LaMonte
+434,1,01:28,16,10,BRA,tempo_tecnico,Brasília
+435,1,01:28,16,10,BRA,substituicao_entra,Fred
+436,1,01:28,16,10,BRA,substituicao_sai,Fulvio
+437,1,01:34,16,10,UBE,3_Pts_C,Audrei
+438,1,01:34,13,10,UBE,AS,Luis Gruber
+439,1,01:50,13,10,BRA,2_Pts_C,Isaac
+440,1,01:54,13,8,BRA,RO,Isaac
+441,1,01:54,13,8,BRA,2_Pts_T,Goodridge
+442,1,02:05,13,8,BRA,RD,Cipolini
+443,1,02:05,13,8,UBE,3_Pts_T,Icaro
+444,1,02:23,13,8,UBE,RD,Audrei
+445,1,02:23,13,8,BRA,3_Pts_T,Cipolini
+446,1,02:31,13,8,BRA,FR,LaMonte
+447,1,02:31,13,8,UBE,FC,Renan
+448,1,02:36,13,8,BRA,substituicao_entra,Isaac
+449,1,02:36,13,8,BRA,substituicao_sai,G Giovannoni
+450,1,02:36,13,8,UBE,ER,Luis Gruber
+451,1,02:39,13,8,UBE,BR,Luis Gruber
+452,1,02:39,13,8,BRA,ER,Cipolini
+453,1,02:58,13,8,UBE,EN,Renan
+454,1,02:58,11,8,UBE,AS,Icaro
+455,1,03:04,11,8,UBE,RD,Icaro
+456,1,03:04,11,8,BRA,2_Pts_T,G Giovannoni
+457,1,03:21,11,8,UBE,3_Pts_C,Taboada
+458,1,03:21,8,8,UBE,AS,Renan
+459,1,03:37,8,8,BRA,2_Pts_C,G Giovannoni
+460,1,03:55,8,6,UBE,LL_Pts_C,Renan
+461,1,03:55,7,6,UBE,LL_Pts_C,Renan
+462,1,03:55,6,6,UBE,substituicao_entra,Taboada
+463,1,03:55,6,6,UBE,substituicao_sai,Hélio
+464,1,03:55,6,6,BRA,substituicao_entra,Goodridge
+465,1,03:55,6,6,BRA,substituicao_entra,Cipolini
+466,1,03:55,6,6,BRA,substituicao_sai,Arthur
+467,1,03:55,6,6,BRA,substituicao_sai,Ronald
+468,1,03:55,6,6,UBE,FR,Renan
+469,1,03:55,6,6,BRA,FC,Ronald
+470,1,04:05,6,6,UBE,RD,Hélio
+471,1,04:05,6,6,BRA,2_Pts_T,G Giovannoni
+472,1,04:25,6,6,UBE,2_Pts_C,Hélio
+473,1,04:28,4,6,UBE,BR,Hélio
+474,1,04:28,4,6,BRA,ER,Ronald
+475,1,04:33,4,6,BRA,RD,Ronald
+476,1,04:33,4,6,UBE,2_Pts_T,Audrei
+477,1,04:37,4,6,UBE,RO,Renan
+478,1,04:37,4,6,UBE,2_Pts_T,Audrei
+479,1,05:03,4,6,UBE,FR,Icaro
+480,1,05:03,4,6,BRA,FC,Arthur
+481,1,05:10,4,6,UBE,RD,Luis Gruber
+482,1,05:10,4,6,BRA,3_Pts_T,Arthur
+483,1,05:21,4,6,BRA,FR,G Giovannoni
+484,1,05:21,4,6,UBE,FC_O,Renan
+485,1,05:36,4,6,BRA,LL_Pts_C,Ronald
+486,1,05:36,4,5,BRA,LL_Pts_C,Ronald
+487,1,05:36,4,4,UBE,substituicao_entra,Icaro
+488,1,05:36,4,4,UBE,substituicao_sai,Taboada
+489,1,05:36,4,4,BRA,FR,Ronald
+490,1,05:36,4,4,UBE,FC,Luis Gruber
+491,1,05:40,4,4,BRA,RO,Ronald
+492,1,05:40,4,4,BRA,2_Pts_T,G Giovannoni
+493,1,05:45,4,4,BRA,BR,Arthur
+494,1,05:45,4,4,UBE,ER,Taboada
+495,1,05:47,4,4,UBE,FR,Renan
+496,1,05:47,4,4,BRA,FC,Ronald
+497,1,05:59,4,4,UBE,RD,Audrei
+498,1,05:59,4,4,BRA,3_Pts_T,Arthur
+499,1,06:01,4,4,UBE,substituicao_entra,Renan
+500,1,06:03,4,4,UBE,substituicao_sai,Mims
+501,1,06:12,4,4,UBE,2_Pts_C,Luis Gruber
+502,1,06:34,2,4,UBE,RD,Luis Gruber
+503,1,06:34,2,4,UBE,TO,Mims
+504,1,06:34,2,4,BRA,2_Pts_T,Ronald
+505,1,06:34,2,4,BRA,RO,Ronald
+506,1,06:34,2,4,UBE,TO,Luis Gruber
+507,1,06:34,2,4,BRA,2_Pts_T,LaMonte
+508,1,06:48,2,4,BRA,BR,Brasília
+509,1,06:48,2,4,UBE,ER,Taboada
+510,1,07:03,2,4,UBE,RD,Taboada
+511,1,07:03,2,4,BRA,3_Pts_T,G Giovannoni
+512,1,07:28,2,4,BRA,RD,Ronald
+513,1,07:28,2,4,UBE,2_Pts_T,Mims
+514,1,07:31,2,4,UBE,RO,Mims
+515,1,07:31,2,4,UBE,2_Pts_T,Mims
+516,1,07:54,2,4,BRA,LL_Pts_C,LaMonte
+517,1,07:54,2,3,BRA,LL_Pts_T,LaMonte
+518,1,07:56,2,3,BRA,FR,LaMonte
+519,1,07:56,2,3,UBE,FC,Taboada
+520,1,08:13,2,3,UBE,ER,Mims
+521,1,08:31,2,3,UBE,BR,Uberlândia
+522,1,08:31,2,3,BRA,ER,LaMonte
+523,1,08:36,2,3,BRA,RD,Ronald
+524,1,08:36,2,3,UBE,3_Pts_T,Taboada
+525,1,08:48,2,3,UBE,RD,Mims
+526,1,08:48,2,3,BRA,3_Pts_T,LaMonte
+527,1,09:02,2,3,BRA,BR,LaMonte
+528,1,09:02,2,3,UBE,ER,Taboada
+529,1,09:07,2,3,UBE,BR,Taboada
+530,1,09:07,2,3,BRA,ER,Ronald
+531,1,09:16,2,3,BRA,RD,G Giovannoni
+532,1,09:16,2,3,UBE,2_Pts_T,Hélio
+533,1,09:34,2,3,BRA,3_Pts_C,LaMonte
+534,1,09:44,2,0,UBE,2_Pts_C,Mims
+535,1,10:00,0,0,BRA,substituicao_entra,LaMonte
+536,1,10:00,0,0,BRA,substituicao_entra,G Giovannoni
+537,1,10:00,0,0,BRA,substituicao_entra,Fulvio
+538,1,10:00,0,0,BRA,substituicao_entra,Ronald
+539,1,10:00,0,0,BRA,substituicao_entra,Arthur
+540,1,10:00,0,0,UBE,substituicao_entra,Audrei
+541,1,10:00,0,0,UBE,substituicao_entra,Luis Gruber
+542,1,10:00,0,0,UBE,substituicao_entra,Taboada
+543,1,10:00,0,0,UBE,substituicao_entra,Hélio
+544,1,10:00,0,0,UBE,substituicao_entra,Mims

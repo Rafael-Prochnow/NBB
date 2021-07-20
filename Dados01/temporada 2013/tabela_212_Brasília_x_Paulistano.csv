@@ -1,0 +1,555 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,100,77, ,fim_partida,
+1,4,00:01,100,77,BRA,RD,G Giovannoni
+2,4,00:01,100,77,CAP,3_Pts_T,Dawkins
+3,4,00:05,100,77,CAP,RO,Paulistano
+4,4,00:05,100,77,CAP,2_Pts_T,Pedro
+5,4,00:09,100,77,CAP,tempo_tecnico,Paulistano
+6,4,00:09,100,77,BRA,LL_Pts_C,Alex Garcia
+7,4,00:09,99,77,BRA,LL_Pts_T,Alex Garcia
+8,4,00:09,99,77,BRA,FR,Alex Garcia
+9,4,00:09,99,77,CAP,FC,Holloway
+10,4,00:12,99,77,BRA,tempo_tecnico,Brasília
+11,4,00:12,99,77,CAP,2_Pts_C,Holloway
+12,4,00:18,99,75,CAP,RD,Mineiro
+13,4,00:18,99,75,BRA,3_Pts_T,Osimani
+14,4,00:40,99,75,CAP,3_Pts_C,Pedro
+15,4,00:40,99,72,CAP,AS,Dawkins
+16,4,00:45,99,72,CAP,BR,Dawkins
+17,4,00:45,99,72,BRA,ER,Nezinho
+18,4,01:07,99,72,BRA,RD,Alex Garcia
+19,4,01:07,99,72,CAP,LL_Pts_T,Dawkins
+20,4,01:07,99,72,CAP,LL_Pts_T,Dawkins
+21,4,01:07,99,72,CAP,FR,Dawkins
+22,4,01:07,99,72,BRA,FC,Nezinho
+23,4,01:14,99,72,BRA,2_Pts_C,Alex Garcia
+24,4,01:34,97,72,CAP,LL_Pts_C,Pedro
+25,4,01:34,97,71,CAP,LL_Pts_C,Pedro
+26,4,01:34,97,70,CAP,FR,Pedro
+27,4,01:34,97,70,BRA,FC,Alex Garcia
+28,4,01:36,97,70,CAP,BR,André
+29,4,01:36,97,70,BRA,ER,G Giovannoni
+30,4,01:50,97,70,BRA,LL_Pts_C,Alex Garcia
+31,4,01:50,96,70,BRA,LL_Pts_C,Alex Garcia
+32,4,01:50,95,70,CAP,FC_T,Paulistano
+33,4,01:50,95,70,BRA,substituicao_sai,Goree
+34,4,01:50,95,70,BRA,substituicao_entra,Nezinho
+35,4,01:50,95,70,BRA,LL_Pts_C,Goree
+36,4,01:50,94,70,BRA,LL_Pts_C,Goree
+37,4,01:50,93,70,BRA,FR,Goree
+38,4,01:50,93,70,CAP,FC_A,Mineiro
+39,4,01:50,93,70,CAP,FR,Mineiro
+40,4,01:50,93,70,BRA,FC,Goree
+41,4,01:50,93,70,CAP,RD,Mineiro
+42,4,01:50,93,70,BRA,3_Pts_T,Arthur
+43,4,01:56,93,70,BRA,RO,Goree
+44,4,01:56,93,70,CAP,TO,Mineiro
+45,4,01:56,93,70,BRA,2_Pts_T,Goree
+46,4,02:04,93,70,CAP,RO,Pedro
+47,4,02:04,93,70,CAP,2_Pts_T,Mineiro
+48,4,02:22,93,70,BRA,LL_Pts_C,Alex Garcia
+49,4,02:22,92,70,BRA,LL_Pts_C,Alex Garcia
+50,4,02:22,91,70,BRA,FR,Alex Garcia
+51,4,02:22,91,70,CAP,FC,Mineiro
+52,4,02:24,91,70,BRA,RD,Alex Garcia
+53,4,02:24,91,70,CAP,2_Pts_T,Dawkins
+54,4,02:28,91,70,CAP,substituicao_sai,Renato C
+55,4,02:28,91,70,CAP,substituicao_entra,Pedro
+56,4,02:28,91,70,BRA,substituicao_entra,Goree
+57,4,02:28,91,70,BRA,substituicao_sai,Nezinho
+58,4,02:28,91,70,CAP,substituicao_entra,Mineiro
+59,4,02:28,91,70,CAP,substituicao_sai,Pilar
+60,4,02:28,91,70,CAP,FR,Pilar
+61,4,02:28,91,70,BRA,FC,Alex Garcia
+62,4,02:48,91,70,BRA,2_Pts_C,Arthur
+63,4,02:48,89,70,BRA,AS,Alex Garcia
+64,4,02:55,89,70,BRA,RD,Alex Garcia
+65,4,02:55,89,70,CAP,3_Pts_T,Dawkins
+66,4,03:07,89,70,BRA,2_Pts_C,Alex Garcia
+67,4,03:19,87,70,BRA,substituicao_sai,Isaac
+68,4,03:19,87,70,BRA,substituicao_entra,Alex Garcia
+69,4,03:19,87,70,BRA,BR,Brasília
+70,4,03:19,87,70,CAP,ER,Renato C
+71,4,03:32,87,70,CAP,RD,Renato C
+72,4,03:32,87,70,BRA,3_Pts_T,Isaac
+73,4,03:46,87,70,CAP,substituicao_entra,André
+74,4,03:46,87,70,CAP,substituicao_sai,Pedro
+75,4,03:46,87,70,BRA,substituicao_sai,Goree
+76,4,03:46,87,70,BRA,substituicao_entra,Arthur
+77,4,03:46,87,70,CAP,substituicao_entra,Holloway
+78,4,03:46,87,70,CAP,substituicao_sai,André
+79,4,03:46,87,70,BRA,FR,G Giovannoni
+80,4,03:46,87,70,CAP,FC,Pilar
+81,4,04:05,87,70,CAP,2_Pts_C,Renato C
+82,4,04:05,87,68,CAP,AS,André
+83,4,04:20,87,68,CAP,RD,Dawkins
+84,4,04:20,87,68,BRA,LL_Pts_T,G Giovannoni
+85,4,04:20,87,68,BRA,substituicao_sai,Alex Garcia
+86,4,04:20,87,68,BRA,substituicao_entra,Isaac
+87,4,04:20,87,68,BRA,AS,Alex Garcia
+88,4,04:20,87,68,BRA,2_Pts_C,G Giovannoni
+89,4,04:20,85,68,BRA,FR,G Giovannoni
+90,4,04:20,85,68,CAP,FC,Pilar
+91,4,04:26,85,68,BRA,RO,Alex Garcia
+92,4,04:26,85,68,CAP,2_Pts_T,Pilar
+93,4,04:37,85,68,BRA,substituicao_sai,Arthur
+94,4,04:37,85,68,BRA,substituicao_entra,Goree
+95,4,04:45,85,68,CAP,RD,Renato C
+96,4,04:45,85,68,CAP,TO,Renato C
+97,4,04:45,85,68,BRA,2_Pts_T,Nezinho
+98,4,04:55,85,68,CAP,substituicao_entra,Renato C
+99,4,04:55,85,68,CAP,substituicao_sai,Mineiro
+100,4,04:55,85,68,BRA,substituicao_sai,Goree
+101,4,04:55,85,68,BRA,substituicao_entra,Arthur
+102,4,04:55,85,68,BRA,FR,Osimani
+103,4,04:55,85,68,CAP,FC,André
+104,4,04:55,85,68,BRA,BR,Osimani
+105,4,04:55,85,68,CAP,ER,Mineiro
+106,4,05:19,85,68,CAP,substituicao_entra,Pedro
+107,4,05:19,85,68,CAP,substituicao_entra,Pilar
+108,4,05:19,85,68,CAP,substituicao_sai,Holloway
+109,4,05:19,85,68,CAP,substituicao_sai,Renato C
+110,4,05:19,85,68,CAP,tempo_tecnico,Paulistano
+111,4,05:19,85,68,BRA,2_Pts_C,Nezinho
+112,4,05:24,83,68,BRA,BR,Goree
+113,4,05:24,83,68,CAP,ER,Holloway
+114,4,05:41,83,68,BRA,2_Pts_C,Nezinho
+115,4,05:58,81,68,BRA,RD,Nezinho
+116,4,05:58,81,68,CAP,2_Pts_T,Holloway
+117,4,06:06,81,68,BRA,substituicao_sai,Arthur
+118,4,06:06,81,68,BRA,substituicao_entra,Osimani
+119,4,06:06,81,68,CAP,substituicao_entra,Dawkins
+120,4,06:06,81,68,CAP,substituicao_entra,Holloway
+121,4,06:06,81,68,CAP,substituicao_sai,Pedro
+122,4,06:06,81,68,CAP,substituicao_sai,Gemerson
+123,4,06:06,81,68,CAP,FR,Pedro
+124,4,06:06,81,68,BRA,FC,Arthur
+125,4,06:24,81,68,BRA,3_Pts_C,Arthur
+126,4,06:24,78,68,BRA,AS,Nezinho
+127,4,06:43,78,68,CAP,2_Pts_C,Pedro
+128,4,07:03,78,66,CAP,RD,Mineiro
+129,4,07:03,78,66,BRA,3_Pts_T,Goree
+130,4,07:22,78,66,BRA,RD,Alex Garcia
+131,4,07:22,78,66,CAP,2_Pts_T,Renato C
+132,4,07:27,78,66,CAP,RD,André
+133,4,07:27,78,66,BRA,3_Pts_T,G Giovannoni
+134,4,07:42,78,66,BRA,RD,Alex Garcia
+135,4,07:42,78,66,CAP,3_Pts_T,André
+136,4,07:57,78,66,CAP,RD,Mineiro
+137,4,07:57,78,66,BRA,3_Pts_T,G Giovannoni
+138,4,08:11,78,66,CAP,2_Pts_C,André
+139,4,08:25,78,64,BRA,substituicao_sai,Abner
+140,4,08:25,78,64,BRA,substituicao_entra,Goree
+141,4,08:25,78,64,BRA,tempo_tecnico,Brasília
+142,4,08:25,78,64,CAP,FR,André
+143,4,08:25,78,64,BRA,FC,Nezinho
+144,4,08:27,78,64,CAP,BR,Pedro
+145,4,08:27,78,64,BRA,ER,Arthur
+146,4,08:48,78,64,CAP,3_Pts_C,André
+147,4,09:10,78,61,CAP,RD,Mineiro
+148,4,09:10,78,61,BRA,3_Pts_T,Alex Garcia
+149,4,09:21,78,61,BRA,FR,Alex Garcia
+150,4,09:21,78,61,CAP,FC,Pedro
+151,4,09:37,78,61,CAP,3_Pts_C,André
+152,4,09:52,78,58,CAP,RD,Paulistano
+153,4,09:52,78,58,BRA,3_Pts_T,Nezinho
+154,3,00:00,78,58, ,fim_quarto,
+155,3,00:00,78,58,BRA,3_Pts_C,Goree
+156,3,00:17,75,58,CAP,2_Pts_C,Mineiro
+157,3,00:31,75,56,CAP,LL_Pts_C,Pedro
+158,3,00:31,75,55,CAP,LL_Pts_C,Pedro
+159,3,00:31,75,54,BRA,FC_T,Ronald
+160,3,00:33,75,54,CAP,2_Pts_C,Gemerson
+161,3,00:38,75,52,CAP,RO,Renato C
+162,3,00:38,75,52,CAP,3_Pts_T,Gemerson
+163,3,01:00,75,52,CAP,substituicao_entra,Mineiro
+164,3,01:00,75,52,CAP,substituicao_sai,Pilar
+165,3,01:00,75,52,CAP,FR,Pedro
+166,3,01:00,75,52,BRA,FC_O,Isaac
+167,3,01:15,75,52,CAP,2_Pts_C,Gemerson
+168,3,01:21,75,50,CAP,RO,Gemerson
+169,3,01:21,75,50,CAP,2_Pts_T,Pilar
+170,3,01:38,75,50,CAP,BR,Paulistano
+171,3,01:38,75,50,BRA,ER,Nezinho
+172,3,01:50,75,50,BRA,RD,Brasília
+173,3,01:50,75,50,CAP,3_Pts_T,Pilar
+174,3,02:05,75,50,BRA,3_Pts_C,Nezinho
+175,3,02:05,72,50,BRA,AS,Alex Garcia
+176,3,02:25,72,50,BRA,LL_Pts_C,Alex Garcia
+177,3,02:25,71,50,BRA,LL_Pts_T,Alex Garcia
+178,3,02:25,71,50,BRA,LL_Pts_C,Alex Garcia
+179,3,02:25,70,50,BRA,LL_Pts_C,Alex Garcia
+180,3,02:25,69,50,CAP,substituicao_entra,Pedro
+181,3,02:25,69,50,CAP,substituicao_sai,Holloway
+182,3,02:25,69,50,CAP,FC_T,Paulistano
+183,3,02:25,69,50,BRA,FR,Alex Garcia
+184,3,02:25,69,50,CAP,FC,Holloway
+185,3,02:35,69,50,CAP,3_Pts_C,Pilar
+186,3,02:49,69,47,BRA,LL_Pts_C,Alex Garcia
+187,3,02:49,68,47,BRA,LL_Pts_C,Alex Garcia
+188,3,02:49,67,47,CAP,substituicao_entra,Renato C
+189,3,02:49,67,47,CAP,substituicao_sai,César
+190,3,02:49,67,47,BRA,FR,Alex Garcia
+191,3,02:49,67,47,CAP,FC,Gemerson
+192,3,03:15,67,47,BRA,FR,Isaac
+193,3,03:15,67,47,CAP,FC_O,César
+194,3,03:31,67,47,BRA,EN,Ronald
+195,3,03:31,65,47,BRA,AS,Alex Garcia
+196,3,03:46,65,47,CAP,2_Pts_C,César
+197,3,03:51,65,45,BRA,substituicao_entra,Isaac
+198,3,03:51,65,45,BRA,substituicao_sai,Osimani
+199,3,03:51,65,45,CAP,FR,César
+200,3,03:51,65,45,BRA,FC,Ronald
+201,3,04:04,65,45,CAP,RD,Gemerson
+202,3,04:04,65,45,BRA,3_Pts_T,Nezinho
+203,3,04:13,65,45,BRA,FR,Ronald
+204,3,04:13,65,45,CAP,FC_O,César
+205,3,04:32,65,45,BRA,3_Pts_C,Alex Garcia
+206,3,04:32,62,45,BRA,AS,Goree
+207,3,05:11,62,45,BRA,RD,Ronald
+208,3,05:11,62,45,CAP,2_Pts_T,Gemerson
+209,3,05:11,62,45,BRA,3_Pts_C,Nezinho
+210,3,05:11,59,45,BRA,substituicao_entra,Ronald
+211,3,05:11,59,45,BRA,substituicao_sai,G Giovannoni
+212,3,05:11,59,45,CAP,substituicao_entra,César
+213,3,05:11,59,45,CAP,substituicao_entra,Gemerson
+214,3,05:11,59,45,CAP,substituicao_sai,Mineiro
+215,3,05:11,59,45,CAP,substituicao_sai,Dawkins
+216,3,05:11,59,45,CAP,substituicao_sai,Renato C
+217,3,05:11,59,45,CAP,substituicao_entra,André
+218,3,05:11,59,45,BRA,FR,Nezinho
+219,3,05:11,59,45,CAP,FC,Dawkins
+220,3,05:31,59,45,CAP,2_Pts_C,Pilar
+221,3,05:31,59,43,CAP,AS,Holloway
+222,3,05:38,59,43,CAP,BR,Dawkins
+223,3,05:38,59,43,BRA,ER,Nezinho
+224,3,05:46,59,43,BRA,RD,Nezinho
+225,3,05:46,59,43,CAP,3_Pts_T,Pilar
+226,3,06:01,59,43,CAP,RD,Mineiro
+227,3,06:01,59,43,BRA,3_Pts_T,Nezinho
+228,3,06:13,59,43,BRA,RD,Alex Garcia
+229,3,06:13,59,43,CAP,2_Pts_T,Dawkins
+230,3,06:22,59,43,CAP,RD,Mineiro
+231,3,06:22,59,43,BRA,2_Pts_T,Alex Garcia
+232,3,06:34,59,43,BRA,RD,Nezinho
+233,3,06:34,59,43,CAP,3_Pts_T,Renato C
+234,3,06:46,59,43,CAP,tempo_tecnico,Paulistano
+235,3,06:46,59,43,BRA,2_Pts_C,Alex Garcia
+236,3,06:46,57,43,BRA,AS,Nezinho
+237,3,06:52,57,43,BRA,RD,Nezinho
+238,3,06:52,57,43,CAP,2_Pts_T,Holloway
+239,3,07:00,57,43,CAP,RO,Holloway
+240,3,07:00,57,43,CAP,3_Pts_T,Pilar
+241,3,07:14,57,43,BRA,3_Pts_C,G Giovannoni
+242,3,07:14,54,43,BRA,AS,Goree
+243,3,07:20,54,43,BRA,RO,Goree
+244,3,07:20,54,43,BRA,2_Pts_T,Goree
+245,3,07:36,54,43,CAP,LL_Pts_C,Holloway
+246,3,07:36,54,42,CAP,2_Pts_C,Holloway
+247,3,07:36,54,40,CAP,FR,Holloway
+248,3,07:36,54,40,BRA,FC,G Giovannoni
+249,3,07:52,54,40,BRA,2_Pts_C,Osimani
+250,3,07:57,52,40,BRA,FR,Goree
+251,3,07:57,52,40,CAP,FC,Mineiro
+252,3,07:59,52,40,BRA,FR,Osimani
+253,3,07:59,52,40,CAP,FC,Holloway
+254,3,08:09,52,40,CAP,2_Pts_C,Dawkins
+255,3,08:19,52,38,CAP,RD,Renato C
+256,3,08:19,52,38,BRA,2_Pts_T,Goree
+257,3,08:43,52,38,CAP,LL_Pts_C,Renato C
+258,3,08:43,52,37,CAP,LL_Pts_T,Renato C
+259,3,08:43,52,37,CAP,FR,Renato C
+260,3,08:43,52,37,BRA,FC,Alex Garcia
+261,3,08:51,52,37,BRA,RD,Nezinho
+262,3,08:51,52,37,CAP,3_Pts_T,Renato C
+263,3,08:56,52,37,BRA,3_Pts_C,G Giovannoni
+264,3,09:16,49,37,CAP,RD,Pilar
+265,3,09:16,49,37,CAP,2_Pts_T,Dawkins
+266,3,09:29,49,37,CAP,RD,Renato C
+267,3,09:29,49,37,BRA,3_Pts_T,Goree
+268,3,09:39,49,37,CAP,LL_Pts_C,Holloway
+269,3,09:39,49,36,CAP,LL_Pts_C,Holloway
+270,3,09:39,49,35,CAP,FR,Holloway
+271,3,09:39,49,35,BRA,FC,G Giovannoni
+272,2,00:00,49,35, ,fim_quarto,
+273,2,00:02,49,35,BRA,RD,G Giovannoni
+274,2,00:02,49,35,CAP,2_Pts_T,Dawkins
+275,2,00:06,49,35,BRA,LL_Pts_C,Alex Garcia
+276,2,00:06,48,35,BRA,LL_Pts_C,Alex Garcia
+277,2,00:06,47,35,CAP,substituicao_entra,Dawkins
+278,2,00:06,47,35,CAP,substituicao_sai,Arthur Pecos
+279,2,00:06,47,35,CAP,substituicao_entra,Renato C
+280,2,00:06,47,35,CAP,substituicao_sai,Gemerson
+281,2,00:06,47,35,CAP,substituicao_sai,Labbate
+282,2,00:06,47,35,CAP,substituicao_entra,Mineiro
+283,2,00:06,47,35,BRA,FR,Alex Garcia
+284,2,00:06,47,35,CAP,FC,Gemerson
+285,2,00:18,47,35,CAP,substituicao_entra,Labbate
+286,2,00:18,47,35,CAP,substituicao_entra,Arthur Pecos
+287,2,00:18,47,35,CAP,substituicao_entra,Gemerson
+288,2,00:18,47,35,CAP,substituicao_sai,César
+289,2,00:18,47,35,CAP,substituicao_sai,Mineiro
+290,2,00:18,47,35,CAP,substituicao_sai,André
+291,2,00:18,47,35,BRA,tempo_tecnico,Brasília
+292,2,00:18,47,35,BRA,BR,Brasília
+293,2,00:18,47,35,CAP,ER,César
+294,2,00:28,47,35,BRA,substituicao_sai,Arthur
+295,2,00:28,47,35,BRA,substituicao_entra,Osimani
+296,2,00:28,47,35,CAP,LL_Pts_C,Holloway
+297,2,00:28,47,34,CAP,LL_Pts_C,Holloway
+298,2,00:28,47,33,CAP,LL_Pts_C,Holloway
+299,2,00:28,47,32,CAP,LL_Pts_C,Holloway
+300,2,00:28,47,31,CAP,substituicao_sai,Pilar
+301,2,00:28,47,31,CAP,substituicao_entra,Pedro
+302,2,00:28,47,31,BRA,FC_T,Arthur
+303,2,00:28,47,31,CAP,FR,Holloway
+304,2,00:28,47,31,BRA,FC,Arthur
+305,2,00:41,47,31,BRA,2_Pts_C,G Giovannoni
+306,2,00:57,45,31,CAP,2_Pts_C,Mineiro
+307,2,00:57,45,29,CAP,AS,Pilar
+308,2,01:13,45,29,BRA,2_Pts_C,Nezinho
+309,2,01:13,43,29,BRA,AS,Alex Garcia
+310,2,01:17,43,29,BRA,BR,Goree
+311,2,01:17,43,29,CAP,ER,César
+312,2,01:22,43,29,CAP,RO,César
+313,2,01:22,43,29,CAP,2_Pts_T,André
+314,2,01:35,43,29,BRA,LL_Pts_C,Nezinho
+315,2,01:35,42,29,BRA,LL_Pts_C,Nezinho
+316,2,01:35,41,29,CAP,substituicao_sai,Dawkins
+317,2,01:35,41,29,CAP,substituicao_entra,André
+318,2,01:35,41,29,BRA,FR,Nezinho
+319,2,01:35,41,29,CAP,FC,Dawkins
+320,2,01:41,41,29,CAP,2_Pts_C,Dawkins
+321,2,01:48,41,27,CAP,BR,Mineiro
+322,2,01:48,41,27,BRA,ER,Nezinho
+323,2,01:59,41,27,CAP,2_Pts_C,Holloway
+324,2,01:59,41,25,CAP,AS,Dawkins
+325,2,02:12,41,25,CAP,substituicao_sai,André
+326,2,02:12,41,25,CAP,substituicao_entra,Pilar
+327,2,02:13,41,25,BRA,LL_Pts_C,Arthur
+328,2,02:13,40,25,BRA,LL_Pts_C,Arthur
+329,2,02:13,39,25,BRA,LL_Pts_C,Arthur
+330,2,02:13,38,25,BRA,FR,Arthur
+331,2,02:13,38,25,CAP,FC,Mineiro
+332,2,02:33,38,25,CAP,2_Pts_C,Dawkins
+333,2,02:48,38,23,CAP,BR,Paulistano
+334,2,02:48,38,23,BRA,ER,G Giovannoni
+335,2,02:52,38,23,BRA,RD,Arthur
+336,2,02:52,38,23,CAP,3_Pts_T,César
+337,2,03:06,38,23,CAP,substituicao_entra,Mineiro
+338,2,03:06,38,23,CAP,substituicao_entra,André
+339,2,03:06,38,23,CAP,substituicao_sai,Renato C
+340,2,03:06,38,23,CAP,substituicao_sai,Pedro
+341,2,03:06,38,23,BRA,substituicao_sai,Osimani
+342,2,03:06,38,23,BRA,substituicao_entra,Alex Garcia
+343,2,03:06,38,23,CAP,tempo_tecnico,Paulistano
+344,2,03:06,38,23,BRA,LL_Pts_C,Osimani
+345,2,03:06,37,23,BRA,LL_Pts_C,Osimani
+346,2,03:06,36,23,BRA,FR,Osimani
+347,2,03:06,36,23,CAP,FC,Dawkins
+348,2,03:19,36,23,BRA,RD,Arthur
+349,2,03:19,36,23,CAP,3_Pts_T,Dawkins
+350,2,03:24,36,23,CAP,RD,Pedro
+351,2,03:24,36,23,BRA,2_Pts_T,Goree
+352,2,03:28,36,23,BRA,RO,Goree
+353,2,03:28,36,23,BRA,2_Pts_T,Arthur
+354,2,03:48,36,23,BRA,FR,Arthur
+355,2,03:48,36,23,CAP,FC,Pedro
+356,2,03:56,36,23,BRA,RO,G Giovannoni
+357,2,03:56,36,23,BRA,2_Pts_T,G Giovannoni
+358,2,04:01,36,23,BRA,BR,Goree
+359,2,04:01,36,23,CAP,ER,Holloway
+360,2,04:01,36,23,CAP,FR,Dawkins
+361,2,04:01,36,23,BRA,FC,G Giovannoni
+362,2,04:26,36,23,BRA,3_Pts_C,G Giovannoni
+363,2,04:26,33,23,BRA,AS,Nezinho
+364,2,04:27,33,23,BRA,substituicao_entra,Nezinho
+365,2,04:27,33,23,BRA,substituicao_entra,Arthur
+366,2,04:27,33,23,BRA,substituicao_sai,Alex Garcia
+367,2,04:27,33,23,BRA,substituicao_sai,Isaac
+368,2,04:30,33,23,BRA,substituicao_sai,Abner
+369,2,04:30,33,23,BRA,substituicao_entra,G Giovannoni
+370,2,04:30,33,23,BRA,FR,Goree
+371,2,04:30,33,23,CAP,FC,César
+372,2,04:37,33,23,BRA,substituicao_sai,Ronald
+373,2,04:37,33,23,BRA,substituicao_entra,Abner
+374,2,04:37,33,23,CAP,ER,Holloway
+375,2,04:37,33,23,CAP,substituicao_entra,Holloway
+376,2,04:37,33,23,CAP,substituicao_sai,Pilar
+377,2,04:45,33,23,CAP,RD,César
+378,2,04:45,33,23,BRA,3_Pts_T,Isaac
+379,2,04:56,33,23,BRA,RD,Alex Garcia
+380,2,04:56,33,23,CAP,2_Pts_T,Renato C
+381,2,05:02,33,23,CAP,RO,Renato C
+382,2,05:02,33,23,CAP,2_Pts_T,César
+383,2,05:22,33,23,CAP,tempo_tecnico,Paulistano
+384,2,05:22,33,23,BRA,2_Pts_C,Isaac
+385,2,05:42,31,23,BRA,FC_T,Alex Garcia
+386,2,05:42,31,23,CAP,FC_T,Pilar
+387,2,05:42,31,23,BRA,LL_Pts_C,Alex Garcia
+388,2,05:42,30,23,BRA,LL_Pts_T,Alex Garcia
+389,2,05:42,30,23,CAP,FC_T,Renato C
+390,2,05:45,30,23,BRA,RD,Alex Garcia
+391,2,05:45,30,23,BRA,TO,Ronald
+392,2,05:45,30,23,CAP,2_Pts_T,Renato C
+393,2,05:58,30,23,CAP,substituicao_entra,Dawkins
+394,2,05:58,30,23,CAP,substituicao_entra,Renato C
+395,2,05:58,30,23,CAP,substituicao_sai,Mineiro
+396,2,05:58,30,23,CAP,substituicao_sai,André
+397,2,05:58,30,23,CAP,FR,André
+398,2,05:58,30,23,BRA,FC,Osimani
+399,2,06:11,30,23,CAP,RD,Mineiro
+400,2,06:11,30,23,BRA,3_Pts_T,Alex Garcia
+401,2,06:25,30,23,BRA,RD,Ronald
+402,2,06:25,30,23,CAP,2_Pts_T,Pilar
+403,2,06:44,30,23,CAP,RD,Pilar
+404,2,06:44,30,23,BRA,3_Pts_T,Goree
+405,2,06:51,30,23,BRA,RD,Ronald
+406,2,06:51,30,23,CAP,3_Pts_T,Pilar
+407,2,07:18,30,23,BRA,3_Pts_C,Osimani
+408,2,07:18,27,23,BRA,AS,Goree
+409,2,07:38,27,23,CAP,LL_Pts_C,Mineiro
+410,2,07:38,27,22,CAP,LL_Pts_C,Mineiro
+411,2,07:38,27,21,CAP,FR,Mineiro
+412,2,07:38,27,21,BRA,FC,Ronald
+413,2,07:42,27,21,BRA,substituicao_entra,Osimani
+414,2,07:42,27,21,BRA,substituicao_entra,Ronald
+415,2,07:42,27,21,BRA,substituicao_sai,Nezinho
+416,2,07:42,27,21,BRA,substituicao_sai,G Giovannoni
+417,2,07:44,27,21,BRA,,
+418,2,07:51,27,21,BRA,RD,G Giovannoni
+419,2,07:51,27,21,CAP,3_Pts_T,André
+420,2,08:07,27,21,BRA,3_Pts_C,Isaac
+421,2,08:07,24,21,BRA,AS,Nezinho
+422,2,08:14,24,21,BRA,RO,Nezinho
+423,2,08:14,24,21,BRA,3_Pts_T,Nezinho
+424,2,08:24,24,21,BRA,RD,Isaac
+425,2,08:24,24,21,CAP,3_Pts_T,César
+426,2,08:36,24,21,CAP,RD,César
+427,2,08:36,24,21,BRA,2_Pts_T,Goree
+428,2,08:58,24,21,CAP,2_Pts_C,Pedro
+429,2,09:24,24,19,CAP,RD,Mineiro
+430,2,09:24,24,19,BRA,2_Pts_T,G Giovannoni
+431,2,09:40,24,19,CAP,2_Pts_C,André
+432,2,09:56,24,17,BRA,2_Pts_C,Nezinho
+433,1,00:00,22,17, ,fim_quarto,
+434,1,00:02,22,17,BRA,3_Pts_C,Alex Garcia
+435,1,00:02,19,17,BRA,AS,G Giovannoni
+436,1,00:12,19,17,CAP,substituicao_entra,Arthur Pecos
+437,1,00:12,19,17,CAP,substituicao_entra,Pilar
+438,1,00:12,19,17,CAP,substituicao_sai,César
+439,1,00:12,19,17,CAP,substituicao_sai,Holloway
+440,1,00:12,19,17,CAP,LL_Pts_C,Holloway
+441,1,00:12,19,16,CAP,LL_Pts_C,Holloway
+442,1,00:12,19,15,CAP,substituicao_sai,Mineiro
+443,1,00:12,19,15,CAP,substituicao_entra,Gemerson
+444,1,00:12,19,15,CAP,FR,Holloway
+445,1,00:12,19,15,BRA,FC,Isaac
+446,1,00:18,19,15,CAP,RD,Holloway
+447,1,00:18,19,15,BRA,3_Pts_T,Isaac
+448,1,00:45,19,15,CAP,3_Pts_C,César
+449,1,00:45,19,12,CAP,AS,André
+450,1,01:05,19,12,BRA,2_Pts_C,Alex Garcia
+451,1,01:21,17,12,BRA,substituicao_sai,Ronald
+452,1,01:21,17,12,BRA,substituicao_entra,Isaac
+453,1,01:21,17,12,CAP,substituicao_sai,Renato C
+454,1,01:21,17,12,CAP,substituicao_entra,Mineiro
+455,1,01:21,17,12,BRA,tempo_tecnico,Brasília
+456,1,01:21,17,12,BRA,BR,Brasília
+457,1,01:21,17,12,CAP,ER,César
+458,1,01:38,17,12,CAP,RD,André
+459,1,01:38,17,12,BRA,LL_Pts_T,Ronald
+460,1,01:38,17,12,BRA,LL_Pts_T,Ronald
+461,1,01:38,17,12,BRA,FR,Ronald
+462,1,01:38,17,12,CAP,FC,Renato C
+463,1,01:50,17,12,BRA,RD,G Giovannoni
+464,1,01:50,17,12,CAP,2_Pts_T,Renato C
+465,1,02:09,17,12,CAP,substituicao_entra,André
+466,1,02:09,17,12,CAP,substituicao_sai,Dawkins
+467,1,02:09,17,12,CAP,FR,Dawkins
+468,1,02:09,17,12,BRA,FC,Nezinho
+469,1,02:15,17,12,CAP,RD,Pedro
+470,1,02:15,17,12,BRA,2_Pts_T,G Giovannoni
+471,1,02:27,17,12,CAP,2_Pts_C,Holloway
+472,1,02:45,17,10,BRA,2_Pts_C,Ronald
+473,1,02:45,15,10,BRA,AS,Nezinho
+474,1,03:09,15,10,CAP,LL_Pts_C,Holloway
+475,1,03:09,15,9,CAP,LL_Pts_C,Holloway
+476,1,03:09,15,8,CAP,substituicao_entra,Pedro
+477,1,03:09,15,8,CAP,substituicao_sai,Pilar
+478,1,03:09,15,8,CAP,substituicao_entra,César
+479,1,03:09,15,8,CAP,substituicao_sai,Mineiro
+480,1,03:09,15,8,CAP,FR,Holloway
+481,1,03:09,15,8,BRA,FC,Ronald
+482,1,03:33,15,8,CAP,RD,Mineiro
+483,1,03:33,15,8,BRA,2_Pts_T,Alex Garcia
+484,1,03:41,15,8,BRA,RD,Arthur
+485,1,03:41,15,8,CAP,3_Pts_T,Renato C
+486,1,03:49,15,8,CAP,RD,Renato C
+487,1,03:49,15,8,BRA,3_Pts_T,Arthur
+488,1,03:58,15,8,BRA,RD,G Giovannoni
+489,1,03:58,15,8,CAP,3_Pts_T,Dawkins
+490,1,04:20,15,8,BRA,LL_Pts_C,Alex Garcia
+491,1,04:20,14,8,BRA,2_Pts_C,Alex Garcia
+492,1,04:20,12,8,BRA,FR,Alex Garcia
+493,1,04:20,12,8,CAP,FC,Holloway
+494,1,04:31,12,8,CAP,3_Pts_C,Pilar
+495,1,04:55,12,5,BRA,2_Pts_C,G Giovannoni
+496,1,05:06,10,5,BRA,RD,Nezinho
+497,1,05:06,10,5,CAP,3_Pts_T,Holloway
+498,1,05:20,10,5,BRA,2_Pts_C,Ronald
+499,1,05:28,8,5,BRA,RO,Ronald
+500,1,05:28,8,5,BRA,2_Pts_T,Nezinho
+501,1,05:33,8,5,BRA,BR,Arthur
+502,1,05:33,8,5,CAP,ER,Dawkins
+503,1,05:43,8,5,CAP,RO,Paulistano
+504,1,05:43,8,5,CAP,3_Pts_T,Renato C
+505,1,05:55,8,5,CAP,RD,Pilar
+506,1,05:55,8,5,BRA,3_Pts_T,G Giovannoni
+507,1,06:11,8,5,CAP,2_Pts_C,Mineiro
+508,1,06:21,8,3,BRA,3_Pts_C,G Giovannoni
+509,1,06:21,5,3,BRA,AS,Nezinho
+510,1,06:50,5,3,CAP,3_Pts_C,Renato C
+511,1,06:50,5,0,CAP,AS,Dawkins
+512,1,06:58,5,0,CAP,BR,Dawkins
+513,1,06:58,5,0,BRA,ER,Ronald
+514,1,07:27,5,0,BRA,RD,G Giovannoni
+515,1,07:27,5,0,CAP,2_Pts_T,Mineiro
+516,1,07:34,5,0,CAP,RD,Mineiro
+517,1,07:34,5,0,BRA,2_Pts_T,G Giovannoni
+518,1,07:55,5,0,BRA,FR,Nezinho
+519,1,07:55,5,0,CAP,FC,Pilar
+520,1,07:55,5,0,BRA,BR,Nezinho
+521,1,07:55,5,0,CAP,ER,Mineiro
+522,1,08:11,5,0,CAP,FR,Dawkins
+523,1,08:11,5,0,BRA,FC,Arthur
+524,1,08:15,5,0,BRA,LL_Pts_C,Nezinho
+525,1,08:15,4,0,BRA,LL_Pts_C,Nezinho
+526,1,08:15,3,0,BRA,FR,Nezinho
+527,1,08:15,3,0,CAP,FC,Dawkins
+528,1,08:35,3,0,BRA,RO,G Giovannoni
+529,1,08:35,3,0,BRA,3_Pts_T,Nezinho
+530,1,08:42,3,0,BRA,RD,Arthur
+531,1,08:42,3,0,CAP,3_Pts_T,Renato C
+532,1,09:04,3,0,BRA,3_Pts_C,Arthur
+533,1,09:04,0,0,BRA,AS,G Giovannoni
+534,1,09:12,0,0,BRA,RD,Nezinho
+535,1,09:12,0,0,CAP,3_Pts_T,Holloway
+536,1,09:18,0,0,CAP,BR,Holloway
+537,1,09:18,0,0,BRA,ER,Arthur
+538,1,09:24,0,0,BRA,BR,Nezinho
+539,1,09:24,0,0,CAP,ER,Pilar
+540,1,09:31,0,0,CAP,RD,Pilar
+541,1,09:31,0,0,BRA,3_Pts_T,Nezinho
+542,1,09:40,0,0,BRA,BR,Brasília
+543,1,09:40,0,0,CAP,ER,Pilar
+544,1,10:00,0,0,CAP,substituicao_entra,Mineiro
+545,1,10:00,0,0,CAP,substituicao_entra,Dawkins
+546,1,10:00,0,0,CAP,substituicao_entra,Holloway
+547,1,10:00,0,0,CAP,substituicao_entra,Renato C
+548,1,10:00,0,0,CAP,substituicao_entra,Pilar
+549,1,10:00,0,0,BRA,substituicao_entra,Nezinho
+550,1,10:00,0,0,BRA,substituicao_entra,G Giovannoni
+551,1,10:00,0,0,BRA,substituicao_entra,Alex Garcia
+552,1,10:00,0,0,BRA,substituicao_entra,Ronald
+553,1,10:00,0,0,BRA,substituicao_entra,Arthur

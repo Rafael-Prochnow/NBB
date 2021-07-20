@@ -1,0 +1,545 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,68,72,,fim_partida,
+1,4,00:00,68,72,,fim_quarto,
+2,4,00:01,68,72,COR,3_Pts_T,Fischer
+3,4,00:02,68,72,FLA,substituicao_entra,Léo Demétrio
+4,4,00:02,68,72,FLA,substituicao_entra,Jhonatan
+5,4,00:02,68,72,FLA,substituicao_sai,Marquinhos
+6,4,00:02,68,72,FLA,substituicao_sai,Balbi
+7,4,00:02,68,72,COR,tempo_tecnico,Corinthians
+8,4,00:02,68,72,FLA,LL_Pts_C,Mineiro
+9,4,00:02,68,71,FLA,LL_Pts_T,Mineiro
+10,4,00:02,68,71,COR,substituicao_entra,F Vezaro
+11,4,00:02,68,71,COR,substituicao_sai,Humberto
+12,4,00:02,68,71,FLA,FR,Mineiro
+13,4,00:02,68,71,COR,FC,Humberto
+14,4,00:04,68,71,FLA,RD,Mineiro
+15,4,00:04,68,71,COR,LL_Pts_T,Robinson
+16,4,00:04,68,71,COR,LL_Pts_T,Robinson
+17,4,00:04,68,71,FLA,substituicao_entra,Marquinhos
+18,4,00:04,68,71,FLA,substituicao_sai,Jhonatan
+19,4,00:04,68,71,FLA,tempo_tecnico,Flamengo
+20,4,00:04,68,71,COR,LL_Pts_T,Fischer
+21,4,00:04,68,71,FLA,FC_T,Flamengo
+22,4,00:04,68,71,COR,FR,Robinson
+23,4,00:04,68,71,FLA,FC,Mineiro
+24,4,00:15,68,71,COR,BR,Humberto
+25,4,00:15,68,71,FLA,ER,Mineiro
+26,4,00:33,68,71,COR,AS,Humberto
+27,4,00:33,68,71,COR,3_Pts_C,Fischer
+28,4,00:37,65,71,FLA,substituicao_entra,Jhonatan
+29,4,00:37,65,71,FLA,substituicao_sai,Deryk
+30,4,00:37,65,71,COR,tempo_tecnico,Corinthians
+31,4,00:37,65,71,FLA,LL_Pts_C,Balbi
+32,4,00:37,65,70,FLA,LL_Pts_C,Balbi
+33,4,00:37,65,69,FLA,substituicao_entra,Olivinha
+34,4,00:37,65,69,FLA,substituicao_sai,Marquinhos
+35,4,00:37,65,69,FLA,FR,Balbi
+36,4,00:37,65,69,COR,FC,Robinson
+37,4,00:48,65,69,FLA,substituicao_entra,Zach Graham
+38,4,00:48,65,69,FLA,substituicao_sai,Olivinha
+39,4,00:48,65,69,COR,substituicao_entra,Humberto
+40,4,00:48,65,69,COR,substituicao_sai,Douglas Santos
+41,4,00:48,65,69,COR,LL_Pts_C,Douglas Santos
+42,4,00:48,64,69,COR,LL_Pts_C,Douglas Santos
+43,4,00:48,63,69,FLA,substituicao_entra,Mineiro
+44,4,00:48,63,69,FLA,substituicao_sai,Jhonatan
+45,4,00:48,63,69,COR,FR,Douglas Santos
+46,4,00:48,63,69,FLA,FC,Olivinha
+47,4,00:48,63,69,COR,RD,Nesbitt
+48,4,00:52,63,69,FLA,3_Pts_T,Balbi
+49,4,01:12,63,69,FLA,substituicao_entra,Olivinha
+50,4,01:12,63,69,FLA,substituicao_entra,Deryk
+51,4,01:12,63,69,FLA,substituicao_entra,Jhonatan
+52,4,01:12,63,69,FLA,substituicao_sai,Léo Demétrio
+53,4,01:12,63,69,FLA,substituicao_sai,Zach Graham
+54,4,01:12,63,69,FLA,substituicao_sai,Mineiro
+55,4,01:14,63,69,FLA,RD,Flamengo
+56,4,01:16,63,69,COR,3_Pts_T,Fuller
+57,4,01:27,63,69,COR,RD,Fischer
+58,4,01:30,63,69,FLA,3_Pts_T,Léo Demétrio
+59,4,01:49,63,69,FLA,RD,Léo Demétrio
+60,4,01:53,63,69,COR,2_Pts_T,Fischer
+61,4,02:17,63,69,FLA,3_Pts_C,Balbi
+62,4,02:24,63,66,FLA,RD,Léo Demétrio
+63,4,02:24,63,66,COR,LL_Pts_T,Nesbitt
+64,4,02:24,63,66,COR,AS,Douglas Santos
+65,4,02:24,63,66,COR,LL_Pts_C,Nesbitt
+66,4,02:24,62,66,COR,FR,Nesbitt
+67,4,02:24,62,66,FLA,FC,Léo Demétrio
+68,4,02:28,62,66,FLA,substituicao_entra,Léo Demétrio
+69,4,02:28,62,66,FLA,substituicao_sai,Olivinha
+70,4,02:28,62,66,COR,substituicao_entra,Douglas Santos
+71,4,02:28,62,66,COR,substituicao_sai,Teichmann
+72,4,02:36,62,66,COR,RD,Teichmann
+73,4,02:39,62,66,FLA,3_Pts_T,Zach Graham
+74,4,02:52,62,66,FLA,RD,Marquinhos
+75,4,02:55,62,66,COR,3_Pts_T,Fischer
+76,4,03:06,62,66,FLA,substituicao_entra,Marquinhos
+77,4,03:06,62,66,FLA,substituicao_sai,Deryk
+78,4,03:06,62,66,COR,substituicao_entra,Fischer
+79,4,03:06,62,66,COR,substituicao_sai,Arthur Pecos
+80,4,03:06,62,66,COR,FR,Nesbitt
+81,4,03:06,62,66,FLA,FC,Zach Graham
+82,4,03:24,62,66,FLA,2_Pts_C,Balbi
+83,4,03:42,62,64,FLA,RD,Olivinha
+84,4,03:47,62,64,COR,2_Pts_T,Fuller
+85,4,03:54,62,64,COR,FR,Arthur Pecos
+86,4,03:54,62,64,FLA,FC,Deryk
+87,4,04:13,62,64,FLA,AS,Olivinha
+88,4,04:13,62,64,FLA,2_Pts_C,Mineiro
+89,4,04:27,62,62,FLA,RD,Balbi
+90,4,04:35,62,62,COR,2_Pts_T,Robinson
+91,4,04:55,62,62,FLA,substituicao_entra,Balbi
+92,4,04:55,62,62,FLA,substituicao_sai,Marquinhos
+93,4,04:55,62,62,FLA,LL_Pts_C,Marquinhos
+94,4,04:55,62,61,FLA,LL_Pts_C,Marquinhos
+95,4,04:55,62,60,COR,substituicao_entra,Nesbitt
+96,4,04:55,62,60,COR,substituicao_entra,Fuller
+97,4,04:55,62,60,COR,substituicao_sai,Humberto
+98,4,04:55,62,60,COR,substituicao_sai,Douglas Santos
+99,4,04:55,62,60,FLA,substituicao_entra,Mineiro
+100,4,04:55,62,60,FLA,substituicao_sai,Léo Demétrio
+101,4,04:55,62,60,FLA,FR,Marquinhos
+102,4,04:55,62,60,COR,FC,Humberto
+103,4,05:04,62,60,FLA,RD,Léo Demétrio
+104,4,05:07,62,60,COR,2_Pts_T,Douglas Santos
+105,4,05:07,62,60,COR,RO,Douglas Santos
+106,4,05:12,62,60,COR,3_Pts_T,Humberto
+107,4,05:36,62,60,FLA,2_Pts_C,Zach Graham
+108,4,05:47,62,58,FLA,RD,Deryk
+109,4,05:51,62,58,COR,2_Pts_T,Arthur Pecos
+110,4,06:15,62,58,FLA,LL_Pts_C,Olivinha
+111,4,06:15,62,57,FLA,LL_Pts_C,Olivinha
+112,4,06:15,62,56,COR,substituicao_entra,Arthur Pecos
+113,4,06:15,62,56,COR,substituicao_sai,Fischer
+114,4,06:15,62,56,FLA,FR,Olivinha
+115,4,06:15,62,56,COR,FC,Douglas Santos
+116,4,06:16,62,56,FLA,RO,Olivinha
+117,4,06:20,62,56,FLA,2_Pts_T,Deryk
+118,4,06:37,62,56,FLA,RD,Marquinhos
+119,4,06:37,62,56,COR,LL_Pts_T,Douglas Santos
+120,4,06:37,62,56,COR,LL_Pts_T,Douglas Santos
+121,4,06:37,62,56,FLA,substituicao_entra,Léo Demétrio
+122,4,06:37,62,56,FLA,substituicao_entra,Zach Graham
+123,4,06:37,62,56,FLA,substituicao_entra,Olivinha
+124,4,06:37,62,56,FLA,substituicao_sai,Mineiro
+125,4,06:37,62,56,FLA,substituicao_sai,Jhonatan
+126,4,06:37,62,56,FLA,substituicao_sai,Balbi
+127,4,06:37,62,56,COR,FR,Douglas Santos
+128,4,06:37,62,56,FLA,FC,Balbi
+129,4,06:55,62,56,COR,RD,Teichmann
+130,4,06:59,62,56,FLA,2_Pts_T,Balbi
+131,4,07:09,62,56,FLA,RD,Mineiro
+132,4,07:12,62,56,COR,3_Pts_T,Fischer
+133,4,07:33,62,56,FLA,LL_Pts_C,Mineiro
+134,4,07:33,62,55,FLA,AS,Balbi
+135,4,07:33,62,55,FLA,LL_Pts_C,Mineiro
+136,4,07:33,62,54,FLA,FR,Mineiro
+137,4,07:33,62,54,COR,FC,Humberto
+138,4,07:51,62,54,COR,3_Pts_C,Fischer
+139,4,08:14,59,54,COR,FR,Robinson
+140,4,08:14,59,54,FLA,FC,Deryk
+141,4,08:16,59,54,COR,RD,Robinson
+142,4,08:17,59,54,FLA,2_Pts_T,Deryk
+143,4,08:23,59,54,FLA,FR,Marquinhos
+144,4,08:23,59,54,COR,FC,Humberto
+145,4,08:26,59,54,COR,substituicao_entra,Douglas Santos
+146,4,08:26,59,54,COR,substituicao_sai,Nesbitt
+147,4,08:26,59,54,FLA,FR,Deryk
+148,4,08:26,59,54,COR,FC,Nesbitt
+149,4,08:46,59,54,FLA,RD,Flamengo
+150,4,08:47,59,54,COR,2_Pts_T,Robinson
+151,4,09:01,59,54,FLA,AS,Balbi
+152,4,09:01,59,54,FLA,2_Pts_C,Mineiro
+153,4,09:10,59,52,COR,2_Pts_C,Teichmann
+154,4,09:10,57,52,COR,RO,Teichmann
+155,4,09:18,57,52,COR,2_Pts_T,Robinson
+156,4,09:25,57,52,COR,RO,Teichmann
+157,4,09:27,57,52,COR,2_Pts_T,Nesbitt
+158,4,09:50,57,52,FLA,2_Pts_C,Balbi
+159,4,10:00,57,50,,inicio_quarto,
+160,3,00:00,57,50,,fim_quarto,
+161,3,00:02,57,50,FLA,substituicao_entra,Mineiro
+162,3,00:02,57,50,FLA,substituicao_entra,Deryk
+163,3,00:02,57,50,FLA,substituicao_sai,Marquinhos
+164,3,00:02,57,50,FLA,substituicao_sai,Balbi
+165,3,00:02,57,50,COR,substituicao_entra,F Vezaro
+166,3,00:02,57,50,COR,substituicao_entra,Fuller
+167,3,00:02,57,50,COR,substituicao_sai,Humberto
+168,3,00:02,57,50,COR,substituicao_sai,Douglas Santos
+169,3,00:02,57,50,FLA,ER,Léo Demétrio
+170,3,00:03,57,50,FLA,RO,Léo Demétrio
+171,3,00:03,57,50,FLA,2_Pts_T,Olivinha
+172,3,00:04,57,50,FLA,RO,Olivinha
+173,3,00:05,57,50,FLA,2_Pts_T,Balbi
+174,3,00:27,57,50,FLA,RD,Léo Demétrio
+175,3,00:30,57,50,COR,2_Pts_T,Douglas Santos
+176,3,00:48,57,50,COR,RD,Teichmann
+177,3,00:53,57,50,FLA,2_Pts_T,Olivinha
+178,3,01:01,57,50,FLA,RD,Léo Demétrio
+179,3,01:05,57,50,COR,2_Pts_T,Teichmann
+180,3,01:25,57,50,COR,RD,Robinson
+181,3,01:28,57,50,FLA,3_Pts_T,Marquinhos
+182,3,01:44,57,50,COR,2_Pts_C,Fischer
+183,3,01:50,55,50,COR,RO,Corinthians
+184,3,01:52,55,50,COR,2_Pts_T,Douglas Santos
+185,3,02:13,55,50,FLA,LL_Pts_C,Olivinha
+186,3,02:13,55,49,FLA,AS,Balbi
+187,3,02:13,55,49,FLA,LL_Pts_C,Olivinha
+188,3,02:13,55,48,FLA,FR,Olivinha
+189,3,02:13,55,48,COR,FC,Fischer
+190,3,02:23,55,48,FLA,BR,Balbi
+191,3,02:23,55,48,COR,ER,Teichmann
+192,3,02:34,55,48,COR,RD,Teichmann
+193,3,02:34,55,48,FLA,LL_Pts_T,Olivinha
+194,3,02:34,55,48,FLA,LL_Pts_T,Olivinha
+195,3,02:34,55,48,FLA,FR,Olivinha
+196,3,02:34,55,48,COR,FC,Douglas Santos
+197,3,02:35,55,48,FLA,RO,Flamengo
+198,3,02:36,55,48,FLA,3_Pts_T,Léo Demétrio
+199,3,02:38,55,48,FLA,FR,Zach Graham
+200,3,02:38,55,48,COR,FC,Douglas Santos
+201,3,02:45,55,48,FLA,substituicao_entra,Olivinha
+202,3,02:45,55,48,FLA,substituicao_entra,Marquinhos
+203,3,02:45,55,48,FLA,substituicao_sai,Mineiro
+204,3,02:45,55,48,FLA,substituicao_sai,Jhonatan
+205,3,02:45,55,48,FLA,FR,Balbi
+206,3,02:45,55,48,COR,FC,Fischer
+207,3,02:55,55,48,COR,AS,Teichmann
+208,3,02:55,55,48,COR,EN,Douglas Santos
+209,3,03:00,53,48,COR,BR,Teichmann
+210,3,03:00,53,48,FLA,ER,Léo Demétrio
+211,3,03:17,53,48,COR,AS,Fischer
+212,3,03:17,53,48,COR,2_Pts_C,Teichmann
+213,3,03:20,51,48,COR,RD,Fischer
+214,3,03:23,51,48,FLA,2_Pts_T,Mineiro
+215,3,03:36,51,48,FLA,tempo_tecnico,Flamengo
+216,3,03:38,51,48,COR,AS,Teichmann
+217,3,03:38,51,48,COR,EN,Douglas Santos
+218,3,03:43,49,48,COR,RD,Teichmann
+219,3,03:46,49,48,FLA,2_Pts_T,Zach Graham
+220,3,04:00,49,48,COR,LL_Pts_C,Humberto
+221,3,04:00,48,48,COR,AS,Fischer
+222,3,04:00,48,48,COR,LL_Pts_C,Humberto
+223,3,04:00,47,48,COR,substituicao_entra,Douglas Santos
+224,3,04:00,47,48,COR,substituicao_sai,Nesbitt
+225,3,04:00,47,48,COR,FR,Humberto
+226,3,04:00,47,48,FLA,FC,Balbi
+227,3,04:09,47,48,COR,BR,Nesbitt
+228,3,04:09,47,48,FLA,ER,Balbi
+229,3,04:17,47,48,FLA,FR,Jhonatan
+230,3,04:17,47,48,COR,FC,Nesbitt
+231,3,04:17,47,48,FLA,RD,Flamengo
+232,3,04:20,47,48,COR,3_Pts_T,Humberto
+233,3,04:40,47,48,COR,BR,Teichmann
+234,3,04:40,47,48,FLA,ER,Zach Graham
+235,3,04:54,47,48,COR,LL_Pts_C,Nesbitt
+236,3,04:54,46,48,FLA,substituicao_entra,Léo Demétrio
+237,3,04:54,46,48,FLA,substituicao_entra,Jhonatan
+238,3,04:54,46,48,FLA,substituicao_sai,Olivinha
+239,3,04:54,46,48,FLA,substituicao_sai,Marquinhos
+240,3,04:54,46,48,COR,FR,Nesbitt
+241,3,04:54,46,48,FLA,FC,Marquinhos
+242,3,04:54,46,48,COR,2_Pts_C,Nesbitt
+243,3,05:15,44,48,COR,RD,Teichmann
+244,3,05:18,44,48,FLA,3_Pts_T,Balbi
+245,3,05:27,44,48,FLA,RD,Balbi
+246,3,05:30,44,48,COR,3_Pts_T,Fischer
+247,3,05:49,44,48,FLA,2_Pts_C,Balbi
+248,3,05:53,44,46,FLA,BR,Balbi
+249,3,05:53,44,46,COR,ER,Fischer
+250,3,05:58,44,46,COR,RD,Nesbitt
+251,3,06:01,44,46,FLA,3_Pts_T,Olivinha
+252,3,06:20,44,46,COR,LL_Pts_C,Robinson
+253,3,06:20,43,46,COR,LL_Pts_C,Robinson
+254,3,06:20,42,46,COR,FR,Robinson
+255,3,06:20,42,46,FLA,FC,Zach Graham
+256,3,06:20,42,46,COR,RO,Robinson
+257,3,06:22,42,46,COR,2_Pts_T,Nesbitt
+258,3,06:38,42,46,FLA,AS,Balbi
+259,3,06:38,42,46,FLA,3_Pts_C,Marquinhos
+260,3,07:01,42,43,COR,AS,Robinson
+261,3,07:01,42,43,COR,3_Pts_C,Fischer
+262,3,07:15,39,43,FLA,substituicao_entra,Mineiro
+263,3,07:15,39,43,FLA,substituicao_entra,Balbi
+264,3,07:15,39,43,FLA,substituicao_sai,Léo Demétrio
+265,3,07:15,39,43,FLA,substituicao_sai,Deryk
+266,3,07:15,39,43,FLA,LL_Pts_C,Deryk
+267,3,07:15,39,42,FLA,LL_Pts_T,Deryk
+268,3,07:15,39,42,FLA,FR,Deryk
+269,3,07:15,39,42,COR,FC,Nesbitt
+270,3,07:40,39,42,COR,2_Pts_C,Humberto
+271,3,07:45,37,42,COR,BR,Humberto
+272,3,07:45,37,42,FLA,ER,Deryk
+273,3,07:53,37,42,FLA,substituicao_entra,Zach Graham
+274,3,07:53,37,42,FLA,substituicao_sai,Jhonatan
+275,3,07:53,37,42,COR,ER,Fischer
+276,3,07:56,37,42,COR,RD,Teichmann
+277,3,07:59,37,42,FLA,2_Pts_T,Deryk
+278,3,08:23,37,42,FLA,RD,Flamengo
+279,3,08:26,37,42,COR,3_Pts_T,Humberto
+280,3,08:32,37,42,COR,RD,Humberto
+281,3,08:36,37,42,FLA,3_Pts_T,Deryk
+282,3,08:47,37,42,COR,2_Pts_C,Robinson
+283,3,08:47,35,42,COR,RO,Robinson
+284,3,08:57,35,42,COR,2_Pts_T,Nesbitt
+285,3,09:19,35,42,COR,RD,Corinthians
+286,3,09:22,35,42,FLA,3_Pts_T,Deryk
+287,3,09:46,35,42,COR,2_Pts_C,Nesbitt
+288,3,10:00,33,42,,inicio_quarto,
+289,2,00:00,33,42,,fim_quarto,
+290,2,00:01,33,42,FLA,3_Pts_T,Balbi
+291,2,00:02,33,42,FLA,substituicao_entra,Zach Graham
+292,2,00:02,33,42,FLA,substituicao_entra,Balbi
+293,2,00:02,33,42,FLA,substituicao_sai,Olivinha
+294,2,00:02,33,42,FLA,substituicao_sai,Jhonatan
+295,2,00:02,33,42,COR,substituicao_entra,Arthur Pecos
+296,2,00:02,33,42,COR,substituicao_entra,Humberto
+297,2,00:02,33,42,COR,substituicao_sai,Fuller
+298,2,00:02,33,42,COR,substituicao_sai,Fischer
+299,2,00:02,33,42,FLA,FR,Deryk
+300,2,00:02,33,42,COR,FC,Fuller
+301,2,00:17,33,42,FLA,RD,Marquinhos
+302,2,00:22,33,42,FLA,TO,Léo Demétrio
+303,2,00:22,33,42,COR,2_Pts_T,F Vezaro
+304,2,00:27,33,42,COR,BR,F Vezaro
+305,2,00:27,33,42,FLA,ER,Olivinha
+306,2,00:33,33,42,FLA,RO,Marquinhos
+307,2,00:37,33,42,FLA,3_Pts_T,Léo Demétrio
+308,2,00:54,33,42,FLA,RD,Marquinhos
+309,2,00:57,33,42,COR,2_Pts_T,Douglas Santos
+310,2,01:05,33,42,COR,RD,Fischer
+311,2,01:09,33,42,FLA,3_Pts_T,Léo Demétrio
+312,2,01:20,33,42,FLA,RO,Olivinha
+313,2,01:24,33,42,FLA,3_Pts_T,Jhonatan
+314,2,01:28,33,42,FLA,RD,Olivinha
+315,2,01:32,33,42,COR,2_Pts_T,Fuller
+316,2,01:48,33,42,FLA,AS,Jhonatan
+317,2,01:48,33,42,FLA,3_Pts_C,Marquinhos
+318,2,02:04,33,39,FLA,RD,Marquinhos
+319,2,02:07,33,39,COR,3_Pts_T,F Vezaro
+320,2,02:13,33,39,COR,BR,Teichmann
+321,2,02:13,33,39,FLA,ER,Deryk
+322,2,02:28,33,39,FLA,RD,Olivinha
+323,2,02:31,33,39,COR,2_Pts_T,Fischer
+324,2,02:42,33,39,FLA,substituicao_entra,Léo Demétrio
+325,2,02:42,33,39,FLA,substituicao_sai,Zach Graham
+326,2,02:42,33,39,COR,substituicao_entra,Teichmann
+327,2,02:42,33,39,COR,substituicao_sai,Wesley
+328,2,02:42,33,39,COR,FR,Wesley
+329,2,02:42,33,39,FLA,FC,Marquinhos
+330,2,02:59,33,39,FLA,AS,Deryk
+331,2,02:59,33,39,FLA,3_Pts_C,Olivinha
+332,2,03:10,33,36,FLA,LL_Pts_C,Marquinhos
+333,2,03:10,33,35,COR,FC_T,Fischer
+334,2,03:17,33,35,FLA,BR,Olivinha
+335,2,03:17,33,35,COR,ER,Fischer
+336,2,03:35,33,35,FLA,AS,Marquinhos
+337,2,03:35,33,35,FLA,2_Pts_C,Olivinha
+338,2,03:39,33,33,FLA,substituicao_entra,Olivinha
+339,2,03:39,33,33,FLA,substituicao_sai,Mineiro
+340,2,03:39,33,33,COR,substituicao_entra,Wesley
+341,2,03:39,33,33,COR,substituicao_sai,Johnson
+342,2,03:39,33,33,FLA,RO,Flamengo
+343,2,03:42,33,33,FLA,2_Pts_T,Zach Graham
+344,2,03:59,33,33,FLA,RD,Marquinhos
+345,2,03:59,33,33,COR,LL_Pts_T,Johnson
+346,2,03:59,33,33,COR,LL_Pts_T,Johnson
+347,2,03:59,33,33,COR,substituicao_entra,Fischer
+348,2,03:59,33,33,COR,substituicao_sai,Arthur Pecos
+349,2,03:59,33,33,COR,FR,Johnson
+350,2,03:59,33,33,FLA,FC,Mineiro
+351,2,04:00,33,33,COR,RO,Johnson
+352,2,04:00,33,33,COR,2_Pts_T,Douglas Santos
+353,2,04:21,33,33,FLA,substituicao_entra,Marquinhos
+354,2,04:21,33,33,FLA,substituicao_sai,Olivinha
+355,2,04:21,33,33,COR,tempo_tecnico,Corinthians
+356,2,04:22,33,33,FLA,AS,Deryk
+357,2,04:22,33,33,FLA,3_Pts_C,Zach Graham
+358,2,04:30,33,30,FLA,RD,Zach Graham
+359,2,04:34,33,30,COR,3_Pts_T,Fuller
+360,2,04:38,33,30,COR,FR,Arthur Pecos
+361,2,04:38,33,30,FLA,FC,Deryk
+362,2,04:49,33,30,FLA,3_Pts_C,Deryk
+363,2,05:05,33,27,FLA,substituicao_entra,Mineiro
+364,2,05:05,33,27,FLA,substituicao_sai,Léo Demétrio
+365,2,05:05,33,27,FLA,tempo_tecnico,Flamengo
+366,2,05:05,33,27,COR,AS,Douglas Santos
+367,2,05:05,33,27,COR,3_Pts_C,Fuller
+368,2,05:11,30,27,COR,BR,Douglas Santos
+369,2,05:11,30,27,FLA,ER,Deryk
+370,2,05:23,30,27,FLA,RD,Flamengo
+371,2,05:27,30,27,COR,2_Pts_T,Arthur Pecos
+372,2,05:30,30,27,COR,RD,Johnson
+373,2,05:34,30,27,FLA,3_Pts_T,Léo Demétrio
+374,2,05:50,30,27,COR,AS,Fuller
+375,2,05:50,30,27,COR,EN,Douglas Santos
+376,2,06:02,28,27,FLA,substituicao_entra,Olivinha
+377,2,06:02,28,27,FLA,substituicao_entra,Deryk
+378,2,06:02,28,27,FLA,substituicao_sai,Mineiro
+379,2,06:02,28,27,FLA,substituicao_sai,Balbi
+380,2,06:02,28,27,COR,RD,Corinthians
+381,2,06:06,28,27,FLA,3_Pts_T,Balbi
+382,2,06:31,28,27,COR,2_Pts_C,Fuller
+383,2,06:52,26,27,FLA,AS,Balbi
+384,2,06:52,26,27,FLA,2_Pts_C,Zach Graham
+385,2,07:13,26,25,FLA,substituicao_entra,Jhonatan
+386,2,07:13,26,25,FLA,substituicao_sai,Deryk
+387,2,07:13,26,25,FLA,FR,Mineiro
+388,2,07:13,26,25,COR,ER,Johnson
+389,2,07:13,26,25,COR,FC_O,Johnson
+390,2,07:17,26,25,COR,RD,F Vezaro
+391,2,07:20,26,25,FLA,3_Pts_T,Zach Graham
+392,2,07:25,26,25,FLA,RD,Léo Demétrio
+393,2,07:30,26,25,FLA,TO,Léo Demétrio
+394,2,07:30,26,25,COR,2_Pts_T,Johnson
+395,2,07:38,26,25,COR,RD,Arthur Pecos
+396,2,07:42,26,25,FLA,3_Pts_T,Mineiro
+397,2,07:49,26,25,COR,substituicao_entra,Douglas Santos
+398,2,07:49,26,25,COR,substituicao_sai,Nesbitt
+399,2,07:53,26,25,COR,substituicao_entra,F Vezaro
+400,2,07:53,26,25,COR,substituicao_sai,Robinson
+401,2,07:53,26,25,FLA,FR,Zach Graham
+402,2,07:53,26,25,COR,FC,Robinson
+403,2,08:08,26,25,FLA,RD,Zach Graham
+404,2,08:12,26,25,COR,3_Pts_T,Robinson
+405,2,08:21,26,25,COR,BR,Arthur Pecos
+406,2,08:21,26,25,FLA,ER,Balbi
+407,2,08:23,26,25,FLA,RO,Balbi
+408,2,08:26,26,25,FLA,3_Pts_T,Léo Demétrio
+409,2,08:41,26,25,FLA,RD,Léo Demétrio
+410,2,08:46,26,25,COR,2_Pts_T,Arthur Pecos
+411,2,08:58,26,25,COR,tempo_tecnico,Corinthians
+412,2,08:58,26,25,FLA,AS,Balbi
+413,2,08:58,26,25,FLA,EN,Léo Demétrio
+414,2,09:06,26,23,FLA,RD,Zach Graham
+415,2,09:09,26,23,COR,3_Pts_T,Nesbitt
+416,2,09:27,26,23,FLA,AS,Balbi
+417,2,09:27,26,23,FLA,2_Pts_C,Mineiro
+418,2,09:32,26,21,FLA,BR,Balbi
+419,2,09:32,26,21,COR,ER,Arthur Pecos
+420,2,09:42,26,21,FLA,AS,Balbi
+421,2,09:42,26,21,FLA,3_Pts_C,Deryk
+422,2,10:00,26,18,,inicio_quarto,
+423,1,00:00,26,18,,fim_quarto,
+424,1,00:04,26,18,FLA,RD,Olivinha
+425,1,00:04,26,18,COR,2_Pts_T,Humberto
+426,1,00:09,26,18,COR,RD,Arthur Pecos
+427,1,00:13,26,18,FLA,2_Pts_T,Deryk
+428,1,00:23,26,18,FLA,substituicao_entra,Olivinha
+429,1,00:23,26,18,FLA,substituicao_sai,Léo Demétrio
+430,1,00:23,26,18,FLA,substituicao_entra,Balbi
+431,1,00:23,26,18,FLA,substituicao_sai,Marquinhos
+432,1,00:26,26,18,FLA,RD,Deryk
+433,1,00:31,26,18,FLA,TO,Mineiro
+434,1,00:31,26,18,COR,2_Pts_T,Wesley
+435,1,00:47,26,18,COR,RD,Arthur Pecos
+436,1,00:50,26,18,FLA,3_Pts_T,Mineiro
+437,1,00:56,26,18,FLA,RD,Marquinhos
+438,1,01:01,26,18,COR,2_Pts_T,Nesbitt
+439,1,01:13,26,18,COR,RD,Wesley
+440,1,01:13,26,18,FLA,LL_Pts_T,Marquinhos
+441,1,01:13,26,18,FLA,LL_Pts_C,Marquinhos
+442,1,01:13,26,17,COR,substituicao_entra,Wesley
+443,1,01:13,26,17,COR,substituicao_sai,Johnson
+444,1,01:13,26,17,COR,substituicao_entra,Arthur Pecos
+445,1,01:13,26,17,COR,substituicao_sai,Fischer
+446,1,01:13,26,17,FLA,FR,Marquinhos
+447,1,01:13,26,17,COR,FC,Humberto
+448,1,01:38,26,17,COR,AS,Johnson
+449,1,01:38,26,17,COR,3_Pts_C,Nesbitt
+450,1,01:48,23,17,COR,RD,Nesbitt
+451,1,01:52,23,17,FLA,2_Pts_T,Mineiro
+452,1,01:56,23,17,COR,ER,Humberto
+453,1,02:04,23,17,FLA,AS,Marquinhos
+454,1,02:04,23,17,FLA,EN,Léo Demétrio
+455,1,02:10,23,15,FLA,BR,Deryk
+456,1,02:10,23,15,COR,ER,Humberto
+457,1,02:26,23,15,COR,RD,Nesbitt
+458,1,02:26,23,15,FLA,LL_Pts_T,Léo Demétrio
+459,1,02:26,23,15,FLA,AS,Zach Graham
+460,1,02:26,23,15,FLA,LL_Pts_C,Léo Demétrio
+461,1,02:26,23,14,FLA,substituicao_entra,Mineiro
+462,1,02:26,23,14,FLA,substituicao_sai,Olivinha
+463,1,02:26,23,14,FLA,FR,Léo Demétrio
+464,1,02:26,23,14,COR,FC,Johnson
+465,1,02:40,23,14,FLA,FR,Zach Graham
+466,1,02:40,23,14,COR,FC,Robinson
+467,1,02:57,23,14,FLA,tempo_tecnico,Flamengo
+468,1,02:57,23,14,COR,AS,Humberto
+469,1,02:57,23,14,COR,3_Pts_C,Robinson
+470,1,03:10,20,14,COR,substituicao_entra,Johnson
+471,1,03:10,20,14,COR,substituicao_sai,Teichmann
+472,1,03:10,20,14,COR,FR,Teichmann
+473,1,03:10,20,14,FLA,ER,Léo Demétrio
+474,1,03:10,20,14,FLA,FC_O,Léo Demétrio
+475,1,03:26,20,14,COR,ER,Fischer
+476,1,03:28,20,14,COR,RD,Fischer
+477,1,03:28,20,14,FLA,2_Pts_T,Olivinha
+478,1,03:57,20,14,COR,AS,Humberto
+479,1,03:57,20,14,COR,2_Pts_C,Teichmann
+480,1,04:02,18,14,COR,FR,Fischer
+481,1,04:02,18,14,FLA,FC,Deryk
+482,1,04:09,18,14,FLA,substituicao_entra,Léo Demétrio
+483,1,04:09,18,14,FLA,substituicao_entra,Zach Graham
+484,1,04:09,18,14,FLA,substituicao_entra,Deryk
+485,1,04:09,18,14,FLA,substituicao_sai,Mineiro
+486,1,04:09,18,14,FLA,substituicao_sai,Jhonatan
+487,1,04:09,18,14,FLA,substituicao_sai,Balbi
+488,1,04:09,18,14,COR,FR,Robinson
+489,1,04:09,18,14,FLA,ER,Mineiro
+490,1,04:09,18,14,FLA,FC_O,Mineiro
+491,1,04:26,18,14,COR,3_Pts_C,Fischer
+492,1,04:28,15,14,COR,RD,Teichmann
+493,1,04:32,15,14,FLA,2_Pts_T,Mineiro
+494,1,04:33,15,14,FLA,RO,Mineiro
+495,1,04:36,15,14,FLA,3_Pts_T,Jhonatan
+496,1,04:59,15,14,COR,AS,Fischer
+497,1,04:59,15,14,COR,2_Pts_C,Teichmann
+498,1,05:14,13,14,FLA,AS,Jhonatan
+499,1,05:14,13,14,FLA,2_Pts_C,Olivinha
+500,1,05:21,13,12,COR,3_Pts_C,Fischer
+501,1,05:38,10,12,FLA,2_Pts_C,Balbi
+502,1,05:56,10,10,FLA,RD,Olivinha
+503,1,06:01,10,10,COR,2_Pts_T,Robinson
+504,1,06:21,10,10,FLA,2_Pts_C,Marquinhos
+505,1,06:35,10,8,COR,LL_Pts_C,Teichmann
+506,1,06:35,9,8,COR,FR,Teichmann
+507,1,06:35,9,8,FLA,FC,Balbi
+508,1,06:35,9,8,COR,AS,Nesbitt
+509,1,06:35,9,8,COR,2_Pts_C,Teichmann
+510,1,06:52,7,8,FLA,LL_Pts_C,Olivinha
+511,1,06:52,7,7,FLA,AS,Marquinhos
+512,1,06:52,7,7,FLA,LL_Pts_C,Olivinha
+513,1,06:52,7,6,FLA,FR,Olivinha
+514,1,06:52,7,6,COR,FC,Nesbitt
+515,1,07:15,7,6,COR,3_Pts_C,Fischer
+516,1,07:33,4,6,FLA,2_Pts_C,Mineiro
+517,1,07:51,4,4,COR,2_Pts_C,Robinson
+518,1,08:05,2,4,COR,BR,Teichmann
+519,1,08:05,2,4,FLA,ER,Balbi
+520,1,08:17,2,4,FLA,FR,Balbi
+521,1,08:17,2,4,COR,FC,Teichmann
+522,1,08:36,2,4,COR,ER,Humberto
+523,1,08:42,2,4,COR,BR,Teichmann
+524,1,08:42,2,4,FLA,ER,Olivinha
+525,1,08:52,2,4,COR,2_Pts_C,Fischer
+526,1,09:12,0,4,FLA,AS,Olivinha
+527,1,09:12,0,4,FLA,2_Pts_C,Marquinhos
+528,1,09:17,0,2,FLA,BR,Olivinha
+529,1,09:17,0,2,COR,ER,Teichmann
+530,1,09:29,0,2,FLA,2_Pts_C,Balbi
+531,1,09:43,0,0,FLA,RD,Olivinha
+532,1,09:48,0,0,COR,2_Pts_T,Nesbitt
+533,1,10:00,0,0,FLA,substituicao_entra,Olivinha
+534,1,10:00,0,0,FLA,substituicao_entra,Mineiro
+535,1,10:00,0,0,FLA,substituicao_entra,Marquinhos
+536,1,10:00,0,0,FLA,substituicao_entra,Jhonatan
+537,1,10:00,0,0,FLA,substituicao_entra,Balbi
+538,1,10:00,0,0,COR,substituicao_entra,Robinson
+539,1,10:00,0,0,COR,substituicao_entra,Nesbitt
+540,1,10:00,0,0,COR,substituicao_entra,Humberto
+541,1,10:00,0,0,COR,substituicao_entra,Teichmann
+542,1,10:00,0,0,COR,substituicao_entra,Fischer
+543,1,10:00,0,0,,inicio_partida,

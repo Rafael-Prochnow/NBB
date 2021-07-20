@@ -15,7 +15,7 @@ tabela_geral_tabela, lista_cada_temporada_tabela, l1, l2 = arquivos_tabela_df()
 # essa é a ordem das temporadas
 temporada = 2013
 # lista_de_temporadas = [59, 54, 47, 41, 34, 27, 20, 15, 8, 4, 3, 2, 1]
-lista_de_temporadas = [15, 8]
+lista_de_temporadas = [15, 8, 4, 3, 2, 1]
 
 inicio = time.time()
 for x in lista_de_temporadas:
@@ -24,7 +24,7 @@ for x in lista_de_temporadas:
     r = requests.get(f'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D={x}')
     soup = BeautifulSoup(r.content, 'html.parser')
     list_inoutControl = get_links_from(soup)
-    del (list_inoutControl[:314])
+    # del (list_inoutControl[:314])
     print(list_inoutControl)
     numero_jogo = 1
     # informações para a tabela tabela
@@ -74,7 +74,8 @@ for x in lista_de_temporadas:
                     (i == 'https://lnb.com.br/noticias/dramatico/') | \
                     (i == 'https://lnb.com.br/noticias/the-man/') | \
                     (i == 'https://lnb.com.br/noticias/lider-isolado-e-100/') | \
-                    (i == 'https://lnb.com.br/noticias/noite-de-gala/'):
+                    (i == 'https://lnb.com.br/noticias/noite-de-gala/') | \
+                    (i == 'https://lnb.com.br/noticias/boa-estreia/'):
                 print(f'SEM DADOS KKKKKKKKKKKKKK {i}')
                 # ação ação
                 lista_falha_acao.append(i)

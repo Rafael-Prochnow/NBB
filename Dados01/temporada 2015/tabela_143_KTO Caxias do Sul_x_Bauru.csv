@@ -1,0 +1,457 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,83,84, ,fim_partida,
+1,4,00:00,83,84,CAX,3_Pts_C,Betinho
+2,4,00:00,80,84,BAU,LL_Pts_C,Alex Garcia
+3,4,00:00,80,83,BAU,LL_Pts_C,Alex Garcia
+4,4,00:00,80,82,BAU,FR,Alex Garcia
+5,4,00:00,80,82,CAX,FC,Alex
+6,4,00:00,80,82,BAU,RD,Alex Garcia
+7,4,00:00,80,82,CAX,LL_Pts_T,Alex
+8,4,00:00,80,82,CAX,LL_Pts_C,Alex
+9,4,00:00,79,82,BAU,substituicao_sai,Léo Meindl
+10,4,00:00,79,82,BAU,substituicao_entra,Hettsheimeir
+11,4,00:00,79,82,CAX,substituicao_sai,Guto
+12,4,00:00,79,82,CAX,substituicao_entra,Marcão
+13,4,00:00,79,82,CAX,FR,Alex
+14,4,00:00,79,82,BAU,FC,Jefferson W
+15,4,00:05,79,82,BAU,substituicao_entra,Léo Meindl
+16,4,00:05,79,82,BAU,substituicao_sai,Hettsheimeir
+17,4,00:05,79,82,CAX,substituicao_entra,Guto
+18,4,00:05,79,82,CAX,substituicao_sai,Marcão
+19,4,00:05,79,82,BAU,LL_Pts_C,Hettsheimeir
+20,4,00:05,79,81,BAU,LL_Pts_C,Hettsheimeir
+21,4,00:05,79,80,BAU,FR,Hettsheimeir
+22,4,00:05,79,80,CAX,FC,Marcão
+23,4,00:06,79,80,CAX,tempo_tecnico,Caxias do Sul
+24,4,00:06,79,80,BAU,LL_Pts_C,R Fischer
+25,4,00:06,79,79,BAU,LL_Pts_T,R Fischer
+26,4,00:06,79,79,BAU,FR,R Fischer
+27,4,00:06,79,79,CAX,FC,Alex
+28,4,00:07,79,79,BAU,tempo_tecnico,Bauru
+29,4,00:07,79,79,CAX,LL_Pts_C,Alex
+30,4,00:07,78,79,CAX,LL_Pts_C,Alex
+31,4,00:07,77,79,CAX,FR,Alex
+32,4,00:07,77,79,BAU,FC,R Fischer
+33,4,00:15,77,79,BAU,tempo_tecnico,Bauru
+34,4,00:15,77,79,CAX,3_Pts_C,Betinho
+35,4,00:15,74,79,CAX,AS,Alex
+36,4,00:19,74,79,CAX,RO,Alex
+37,4,00:19,74,79,CAX,2_Pts_T,Alex
+38,4,00:19,74,79,CAX,tempo_tecnico,Caxias do Sul
+39,4,00:19,74,79,BAU,2_Pts_C,R Fischer
+40,4,00:31,74,77,BAU,RO,R Fischer
+41,4,00:31,74,77,BAU,3_Pts_T,Alex Garcia
+42,4,00:54,74,77,BAU,RD,Alex Garcia
+43,4,00:54,74,77,CAX,2_Pts_T,Alex
+44,4,01:10,74,77,BAU,LL_Pts_C,R Fischer
+45,4,01:10,74,76,BAU,LL_Pts_C,R Fischer
+46,4,01:10,74,75,BAU,FR,R Fischer
+47,4,01:10,74,75,CAX,FC,Marcão
+48,4,01:30,74,75,CAX,LL_Pts_C,Marcão
+49,4,01:30,73,75,CAX,LL_Pts_C,Marcão
+50,4,01:30,72,75,CAX,FR,Marcão
+51,4,01:30,72,75,BAU,FC,Robert Day
+52,4,01:47,72,75,BAU,LL_Pts_C,Hettsheimeir
+53,4,01:47,72,74,BAU,LL_Pts_C,Hettsheimeir
+54,4,01:47,72,73,BAU,FR,Hettsheimeir
+55,4,01:47,72,73,CAX,FC,Betinho
+56,4,02:07,72,73,CAX,LL_Pts_C,Alex
+57,4,02:07,71,73,CAX,LL_Pts_C,Alex
+58,4,02:07,70,73,CAX,FR,Alex
+59,4,02:07,70,73,BAU,FC,Robert Day
+60,4,02:24,70,73,CAX,RD,Diego
+61,4,02:24,70,73,BAU,LL_Pts_T,R Fischer
+62,4,02:24,70,73,BAU,LL_Pts_C,R Fischer
+63,4,02:24,70,72,BAU,FR,R Fischer
+64,4,02:24,70,72,CAX,FC,Diego
+65,4,02:42,70,72,CAX,2_Pts_C,Marcão
+66,4,02:42,68,72,CAX,AS,Alex
+67,4,03:01,68,72,CAX,RD,Betinho
+68,4,03:01,68,72,BAU,3_Pts_T,Jefferson W
+69,4,03:18,68,72,BAU,RD,R Fischer
+70,4,03:18,68,72,BAU,TO,R Fischer
+71,4,03:18,68,72,CAX,2_Pts_T,Gustavinho
+72,4,03:28,68,72,CAX,RD,Marcão
+73,4,03:28,68,72,BAU,2_Pts_T,Hettsheimeir
+74,4,03:50,68,72,CAX,2_Pts_C,Marcão
+75,4,04:11,66,72,BAU,3_Pts_C,Jefferson W
+76,4,04:11,66,69,BAU,AS,Robert Day
+77,4,04:19,66,69,BAU,RD,Hettsheimeir
+78,4,04:19,66,69,CAX,2_Pts_T,Gustavinho
+79,4,04:30,66,69,CAX,RD,Marcão
+80,4,04:30,66,69,BAU,LL_Pts_T,Hettsheimeir
+81,4,04:30,66,69,BAU,LL_Pts_C,Hettsheimeir
+82,4,04:30,66,68,BAU,FR,Hettsheimeir
+83,4,04:30,66,68,CAX,FC,Gustavinho
+84,4,04:46,66,68,BAU,RD,Robert Day
+85,4,04:46,66,68,CAX,3_Pts_T,Diego
+86,4,04:59,66,68,CAX,RD,Betinho
+87,4,04:59,66,68,BAU,2_Pts_T,R Fischer
+88,4,05:23,66,68,CAX,LL_Pts_C,Diego
+89,4,05:23,65,68,CAX,LL_Pts_C,Diego
+90,4,05:23,64,68,CAX,FR,Diego
+91,4,05:23,64,68,BAU,FC,Robert Day
+92,4,05:31,64,68,CAX,FR,Betinho
+93,4,05:31,64,68,BAU,FC_O,Hettsheimeir
+94,4,05:50,64,68,CAX,substituicao_entra,Marcão
+95,4,05:50,64,68,CAX,substituicao_entra,Gustavinho
+96,4,05:50,64,68,CAX,substituicao_sai,R Stabile
+97,4,05:50,64,68,CAX,substituicao_sai,Vinícius
+98,4,05:50,64,68,BAU,substituicao_entra,Hettsheimeir
+99,4,05:50,64,68,BAU,substituicao_entra,R Fischer
+100,4,05:50,64,68,BAU,substituicao_sai,Léo Meindl
+101,4,05:50,64,68,BAU,substituicao_sai,Murilo
+102,4,05:50,64,68,BAU,FR,Jefferson W
+103,4,05:50,64,68,CAX,FC,Diego
+104,4,05:54,64,68,BAU,RD,Jefferson W
+105,4,05:54,64,68,CAX,3_Pts_T,Betinho
+106,4,06:13,64,68,BAU,2_Pts_C,Jefferson W
+107,4,06:28,64,66,CAX,3_Pts_C,Betinho
+108,4,06:28,61,66,CAX,AS,Alex
+109,4,06:36,61,66,BAU,3_Pts_C,Robert Day
+110,4,06:36,61,63,BAU,AS,Alex Garcia
+111,4,06:59,61,63,CAX,2_Pts_C,Diego
+112,4,06:59,59,63,CAX,AS,Vinícius
+113,4,07:10,59,63,CAX,BR,Caxias do Sul
+114,4,07:10,59,63,BAU,ER,Jefferson W
+115,4,07:21,59,63,BAU,LL_Pts_C,Alex Garcia
+116,4,07:21,59,62,CAX,FC_T,Betinho
+117,4,07:21,59,62,BAU,RD,Bauru
+118,4,07:21,59,62,CAX,3_Pts_T,Betinho
+119,4,07:35,59,62,CAX,FR,Betinho
+120,4,07:35,59,62,BAU,FC,Jefferson W
+121,4,07:44,59,62,CAX,RD,Betinho
+122,4,07:44,59,62,BAU,2_Pts_T,Murilo
+123,4,07:58,59,62,BAU,FR,Jefferson W
+124,4,07:58,59,62,CAX,FC,R Stabile
+125,4,08:11,59,62,BAU,BR,Bauru
+126,4,08:11,59,62,CAX,ER,Betinho
+127,4,08:23,59,62,BAU,2_Pts_C,Jefferson W
+128,4,08:39,59,60,BAU,FR,Jefferson W
+129,4,08:39,59,60,CAX,FC,R Stabile
+130,4,08:57,59,60,CAX,LL_Pts_C,Diego
+131,4,08:57,58,60,CAX,LL_Pts_T,Diego
+132,4,08:57,58,60,BAU,tempo_tecnico,Bauru
+133,4,08:57,58,60,CAX,FR,Diego
+134,4,08:57,58,60,BAU,FC,Alex Garcia
+135,4,09:01,58,60,CAX,BR,R Stabile
+136,4,09:01,58,60,BAU,ER,Alex Garcia
+137,4,09:16,58,60,CAX,2_Pts_C,Diego
+138,4,09:16,56,60,CAX,AS,Betinho
+139,4,09:31,56,60,CAX,LL_Pts_C,Diego
+140,4,09:31,55,60,BAU,substituicao_entra,Jefferson W
+141,4,09:31,55,60,BAU,substituicao_sai,R Fischer
+142,4,09:31,55,60,BAU,FC_T,R Fischer
+143,4,09:31,55,60,CAX,BR,Caxias do Sul
+144,4,09:31,55,60,BAU,ER,R Fischer
+145,4,09:36,55,60,BAU,RD,R Fischer
+146,4,09:36,55,60,CAX,2_Pts_T,Betinho
+147,3,00:00,55,60, ,fim_quarto,
+148,3,00:00,55,60,CAX,RD,Betinho
+149,3,00:00,55,60,BAU,3_Pts_T,R Fischer
+150,3,00:06,55,60,CAX,2_Pts_C,Betinho
+151,3,00:31,53,60,CAX,BR,Marcão
+152,3,00:31,53,60,BAU,ER,R Fischer
+153,3,00:37,53,60,BAU,FR,R Fischer
+154,3,00:37,53,60,CAX,FC,Vinícius
+155,3,00:51,53,60,CAX,2_Pts_C,Vinícius
+156,3,00:54,51,60,CAX,BR,Vinícius
+157,3,00:54,51,60,BAU,ER,R Fischer
+158,3,01:02,51,60,CAX,3_Pts_C,Vinícius
+159,3,01:13,48,60,CAX,RD,Betinho
+160,3,01:13,48,60,BAU,3_Pts_T,Robert Day
+161,3,01:29,48,60,CAX,3_Pts_C,Betinho
+162,3,01:41,45,60,BAU,2_Pts_C,Robert Day
+163,3,01:46,45,58,BAU,RO,Robert Day
+164,3,01:46,45,58,BAU,2_Pts_T,Léo Meindl
+165,3,01:51,45,58,BAU,BR,Alex Garcia
+166,3,01:51,45,58,CAX,ER,Vinícius
+167,3,02:05,45,58,BAU,substituicao_sai,Hettsheimeir
+168,3,02:05,45,58,BAU,substituicao_entra,Murilo
+169,3,02:05,45,58,CAX,substituicao_entra,Alex
+170,3,02:05,45,58,CAX,substituicao_entra,Vinícius
+171,3,02:05,45,58,CAX,substituicao_sai,Guto
+172,3,02:05,45,58,CAX,substituicao_sai,Gustavinho
+173,3,02:05,45,58,BAU,substituicao_entra,Léo Meindl
+174,3,02:05,45,58,BAU,substituicao_sai,Jefferson W
+175,3,02:05,45,58,BAU,ER,Hettsheimeir
+176,3,02:10,45,58,BAU,BR,Hettsheimeir
+177,3,02:10,45,58,CAX,ER,Gustavinho
+178,3,02:24,45,58,BAU,3_Pts_C,Hettsheimeir
+179,3,02:24,45,55,BAU,AS,Alex Garcia
+180,3,02:33,45,55,CAX,3_Pts_C,Gustavinho
+181,3,02:46,42,55,BAU,2_Pts_C,Robert Day
+182,3,02:46,42,53,BAU,AS,R Fischer
+183,3,03:04,42,53,BAU,RD,Robert Day
+184,3,03:04,42,53,CAX,2_Pts_T,Gustavinho
+185,3,03:23,42,53,CAX,RD,R Stabile
+186,3,03:23,42,53,BAU,2_Pts_T,R Fischer
+187,3,03:38,42,53,CAX,ER,
+188,3,03:40,42,53,CAX,RO,Gustavinho
+189,3,03:40,42,53,CAX,2_Pts_T,Marcão
+190,3,04:07,42,53,BAU,2_Pts_C,Hettsheimeir
+191,3,04:07,42,51,BAU,AS,R Fischer
+192,3,04:31,42,51,CAX,3_Pts_C,Guto
+193,3,04:31,39,51,CAX,AS,R Stabile
+194,3,04:53,39,51,CAX,tempo_tecnico,Caxias do Sul
+195,3,04:53,39,51,BAU,3_Pts_C,Robert Day
+196,3,04:53,39,48,BAU,AS,R Fischer
+197,3,04:59,39,48,BAU,RD,Alex Garcia
+198,3,04:59,39,48,CAX,3_Pts_T,Guto
+199,3,05:14,39,48,BAU,2_Pts_C,Jefferson W
+200,3,05:21,39,46,BAU,RO,Jefferson W
+201,3,05:21,39,46,CAX,TO,R Stabile
+202,3,05:21,39,46,BAU,2_Pts_T,Jefferson W
+203,3,05:27,39,46,BAU,RD,Alex Garcia
+204,3,05:27,39,46,CAX,2_Pts_T,R Stabile
+205,3,05:36,39,46,CAX,FR,Marcão
+206,3,05:36,39,46,BAU,FC,Hettsheimeir
+207,3,05:59,39,46,CAX,RD,Guto
+208,3,05:59,39,46,BAU,2_Pts_T,Jefferson W
+209,3,06:17,39,46,CAX,2_Pts_C,R Stabile
+210,3,06:37,37,46,BAU,LL_Pts_C,Robert Day
+211,3,06:37,37,45,BAU,AS,R Fischer
+212,3,06:37,37,45,BAU,LL_Pts_C,Robert Day
+213,3,06:37,37,44,BAU,LL_Pts_T,Robert Day
+214,3,06:37,37,44,BAU,FR,Robert Day
+215,3,06:37,37,44,CAX,FC,Guto
+216,3,06:55,37,44,CAX,2_Pts_C,Guto
+217,3,06:55,35,44,CAX,AS,Gustavinho
+218,3,07:19,35,44,BAU,3_Pts_C,Alex Garcia
+219,3,07:19,35,41,BAU,AS,Hettsheimeir
+220,3,07:24,35,41,BAU,RO,Hettsheimeir
+221,3,07:24,35,41,BAU,3_Pts_T,Jefferson W
+222,3,07:34,35,41,BAU,RD,Robert Day
+223,3,07:34,35,41,CAX,3_Pts_T,Gustavinho
+224,3,07:52,35,41,BAU,3_Pts_C,Robert Day
+225,3,07:52,35,38,BAU,AS,R Fischer
+226,3,07:56,35,38,BAU,RO,R Fischer
+227,3,07:56,35,38,BAU,2_Pts_T,Jefferson W
+228,3,08:20,35,38,CAX,EN,Marcão
+229,3,08:20,33,38,CAX,AS,Betinho
+230,3,08:26,33,38,CAX,FR,Gustavinho
+231,3,08:26,33,38,BAU,FC,R Fischer
+232,3,08:31,33,38,CAX,RD,R Stabile
+233,3,08:31,33,38,BAU,2_Pts_T,R Fischer
+234,3,08:41,33,38,CAX,2_Pts_C,Gustavinho
+235,3,09:00,31,38,BAU,LL_Pts_C,Jefferson W
+236,3,09:00,31,37,BAU,LL_Pts_C,Jefferson W
+237,3,09:00,31,36,BAU,FR,Jefferson W
+238,3,09:00,31,36,CAX,FC,Betinho
+239,3,09:04,31,36,BAU,RO,Jefferson W
+240,3,09:04,31,36,BAU,3_Pts_T,Alex Garcia
+241,3,09:30,31,36,CAX,EN,Marcão
+242,3,09:30,29,36,CAX,AS,Gustavinho
+243,3,09:45,29,36,CAX,RD,Marcão
+244,3,09:45,29,36,BAU,3_Pts_T,Robert Day
+245,2,00:00,29,36, ,fim_quarto,
+246,2,00:00,29,36,BAU,3_Pts_T,Léo Meindl
+247,2,00:03,29,36,BAU,BR,Léo Meindl
+248,2,00:03,29,36,CAX,ER,Vinícius
+249,2,00:21,29,36,BAU,LL_Pts_C,Alex Garcia
+250,2,00:21,29,35,BAU,LL_Pts_C,Alex Garcia
+251,2,00:21,29,34,BAU,substituicao_entra,Wesley
+252,2,00:21,29,34,BAU,substituicao_sai,Hettsheimeir
+253,2,00:21,29,34,BAU,substituicao_entra,Gui Santos
+254,2,00:21,29,34,BAU,substituicao_sai,R Fischer
+255,2,00:21,29,34,BAU,FR,Alex Garcia
+256,2,00:21,29,34,CAX,FC,Vinícius
+257,2,00:30,29,34,BAU,RD,R Fischer
+258,2,00:30,29,34,CAX,3_Pts_T,Vinícius
+259,2,00:53,29,34,BAU,2_Pts_C,R Fischer
+260,2,01:04,29,32,BAU,FR,Murilo
+261,2,01:04,29,32,CAX,FC,Diego
+262,2,01:24,29,32,CAX,3_Pts_C,Alex
+263,2,01:24,26,32,CAX,AS,Diego
+264,2,01:29,26,32,CAX,RO,Vinícius
+265,2,01:29,26,32,CAX,3_Pts_T,Guto
+266,2,01:55,26,32,CAX,tempo_tecnico,Caxias do Sul
+267,2,01:55,26,32,CAX,RD,Caxias do Sul
+268,2,01:55,26,32,BAU,3_Pts_T,Alex Garcia
+269,2,02:24,26,32,BAU,FR,Alex Garcia
+270,2,02:24,26,32,CAX,FC,Guto
+271,2,02:31,26,32,BAU,RD,Alex Garcia
+272,2,02:31,26,32,CAX,3_Pts_T,Alex
+273,2,02:31,26,32,CAX,FR,Vinícius
+274,2,02:31,26,32,BAU,FC,R Fischer
+275,2,02:37,26,32,CAX,substituicao_entra,Marcão
+276,2,02:37,26,32,CAX,substituicao_sai,Dida
+277,2,02:37,26,32,BAU,ER,R Fischer
+278,2,02:46,26,32,BAU,BR,Léo Meindl
+279,2,02:46,26,32,CAX,ER,Dida
+280,2,02:50,26,32,CAX,RO,Dida
+281,2,02:50,26,32,CAX,2_Pts_T,Dida
+282,2,02:55,26,32,CAX,RO,Dida
+283,2,02:55,26,32,CAX,2_Pts_T,Diego
+284,2,02:59,26,32,CAX,RO,Diego
+285,2,02:59,26,32,CAX,3_Pts_T,Diego
+286,2,03:16,26,32,BAU,2_Pts_C,Hettsheimeir
+287,2,03:16,26,30,BAU,AS,Murilo
+288,2,03:25,26,30,BAU,RD,Alex Garcia
+289,2,03:25,26,30,CAX,3_Pts_T,Diego
+290,2,03:40,26,30,CAX,RD,Dida
+291,2,03:40,26,30,BAU,2_Pts_T,Hettsheimeir
+292,2,03:56,26,30,CAX,substituicao_entra,Guto
+293,2,03:56,26,30,CAX,substituicao_sai,Betinho
+294,2,03:56,26,30,BAU,substituicao_sai,Robert Day
+295,2,03:56,26,30,BAU,substituicao_entra,Alex Garcia
+296,2,03:56,26,30,BAU,substituicao_entra,R Fischer
+297,2,03:56,26,30,BAU,substituicao_sai,Gui Santos
+298,2,03:56,26,30,CAX,ER,Dida
+299,2,04:15,26,30,CAX,RD,Diego
+300,2,04:15,26,30,BAU,2_Pts_T,Murilo
+301,2,04:39,26,30,BAU,RD,Hettsheimeir
+302,2,04:39,26,30,CAX,2_Pts_T,Betinho
+303,2,04:48,26,30,CAX,FR,Betinho
+304,2,04:48,26,30,BAU,FC,Robert Day
+305,2,05:03,26,30,BAU,ER,Robert Day
+306,2,05:11,26,30,BAU,substituicao_entra,Hettsheimeir
+307,2,05:11,26,30,BAU,substituicao_sai,Alex Garcia
+308,2,05:14,26,30,BAU,tempo_tecnico,Bauru
+309,2,05:14,26,30,CAX,3_Pts_C,Vinícius
+310,2,05:29,23,30,CAX,RD,Diego
+311,2,05:29,23,30,BAU,2_Pts_T,Léo Meindl
+312,2,05:36,23,30,BAU,RD,Murilo
+313,2,05:36,23,30,CAX,2_Pts_T,Alex
+314,2,06:04,23,30,BAU,3_Pts_C,Robert Day
+315,2,06:04,23,27,BAU,AS,Gui Santos
+316,2,06:18,23,27,BAU,RD,Léo Meindl
+317,2,06:18,23,27,CAX,3_Pts_T,Diego
+318,2,06:39,23,27,BAU,ER,Alex Garcia
+319,2,06:45,23,27,BAU,RD,Robert Day
+320,2,06:45,23,27,CAX,2_Pts_T,Vinícius
+321,2,06:56,23,27,CAX,BR,Caxias do Sul
+322,2,06:56,23,27,BAU,ER,Alex Garcia
+323,2,07:07,23,27,BAU,substituicao_sai,R Fischer
+324,2,07:07,23,27,BAU,substituicao_entra,Gui Santos
+325,2,07:07,23,27,CAX,substituicao_entra,Diego
+326,2,07:07,23,27,CAX,substituicao_sai,R Stabile
+327,2,07:07,23,27,BAU,FR,Alex Garcia
+328,2,07:07,23,27,CAX,FC,Vinícius
+329,2,07:13,23,27,BAU,RD,Alex Garcia
+330,2,07:13,23,27,CAX,3_Pts_T,Vinícius
+331,2,07:29,23,27,BAU,2_Pts_C,Murilo
+332,2,07:34,23,25,BAU,RO,Léo Meindl
+333,2,07:34,23,25,BAU,3_Pts_T,R Fischer
+334,2,07:39,23,25,BAU,RO,Murilo
+335,2,07:39,23,25,BAU,3_Pts_T,Léo Meindl
+336,2,07:56,23,25,BAU,RD,Léo Meindl
+337,2,07:56,23,25,CAX,2_Pts_T,Alex
+338,2,08:11,23,25,BAU,substituicao_entra,Léo Meindl
+339,2,08:11,23,25,BAU,substituicao_sai,Jefferson W
+340,2,08:11,23,25,CAX,substituicao_entra,Vinícius
+341,2,08:11,23,25,CAX,substituicao_sai,Gustavinho
+342,2,08:11,23,25,CAX,FR,Betinho
+343,2,08:11,23,25,BAU,FC_O,Jefferson W
+344,2,08:31,23,25,BAU,RD,Murilo
+345,2,08:31,23,25,CAX,3_Pts_T,Betinho
+346,2,08:51,23,25,CAX,RD,R Stabile
+347,2,08:51,23,25,BAU,3_Pts_T,Jefferson W
+348,2,08:59,23,25,BAU,BR,R Fischer
+349,2,08:59,23,25,CAX,ER,Gustavinho
+350,2,09:09,23,25,CAX,RD,R Stabile
+351,2,09:09,23,25,CAX,TO,Alex
+352,2,09:09,23,25,BAU,2_Pts_T,Murilo
+353,2,09:22,23,25,BAU,FR,Jefferson W
+354,2,09:22,23,25,CAX,FC,Betinho
+355,2,09:26,23,25,BAU,RO,Jefferson W
+356,2,09:26,23,25,BAU,3_Pts_T,Alex Garcia
+357,2,09:47,23,25,BAU,RD,Murilo
+358,2,09:47,23,25,CAX,2_Pts_T,Betinho
+359,1,00:00,23,25, ,fim_quarto,
+360,1,00:02,23,25,CAX,2_Pts_C,Marcão
+361,1,00:02,21,25,CAX,AS,Gustavinho
+362,1,00:22,21,25,CAX,RD,Marcão
+363,1,00:22,21,25,BAU,2_Pts_T,Hettsheimeir
+364,1,00:32,21,25,BAU,FR,R Fischer
+365,1,00:32,21,25,CAX,FC,Marcão
+366,1,00:50,21,25,CAX,2_Pts_C,Marcão
+367,1,01:10,19,25,CAX,RD,Betinho
+368,1,01:10,19,25,BAU,3_Pts_T,Hettsheimeir
+369,1,01:13,19,25,BAU,FR,R Fischer
+370,1,01:13,19,25,CAX,FC,Gustavinho
+371,1,01:28,19,25,CAX,2_Pts_C,R Stabile
+372,1,01:28,17,25,CAX,AS,Betinho
+373,1,01:45,17,25,BAU,3_Pts_C,Robert Day
+374,1,01:45,17,22,BAU,AS,Alex Garcia
+375,1,01:52,17,22,BAU,RD,Hettsheimeir
+376,1,01:52,17,22,CAX,3_Pts_T,R Stabile
+377,1,02:04,17,22,CAX,tempo_tecnico,Caxias do Sul
+378,1,02:04,17,22,BAU,3_Pts_C,Alex Garcia
+379,1,02:04,17,19,BAU,AS,R Fischer
+380,1,02:10,17,19,BAU,RD,Jefferson W
+381,1,02:10,17,19,CAX,2_Pts_T,Betinho
+382,1,02:35,17,19,BAU,2_Pts_C,Alex Garcia
+383,1,02:39,17,17,BAU,BR,R Fischer
+384,1,02:39,17,17,CAX,ER,Betinho
+385,1,02:53,17,17,BAU,3_Pts_C,Alex Garcia
+386,1,02:53,17,14,BAU,AS,Hettsheimeir
+387,1,03:02,17,14,BAU,RD,Alex Garcia
+388,1,03:02,17,14,CAX,2_Pts_T,Marcão
+389,1,03:20,17,14,CAX,BR,Caxias do Sul
+390,1,03:20,17,14,BAU,ER,Jefferson W
+391,1,03:42,17,14,CAX,LL_Pts_C,Marcão
+392,1,03:48,16,14,CAX,2_Pts_C,Marcão
+393,1,03:48,14,14,CAX,FR,Marcão
+394,1,03:48,14,14,BAU,FC,Hettsheimeir
+395,1,03:58,14,14,CAX,RD,Marcão
+396,1,03:58,14,14,BAU,2_Pts_T,Hettsheimeir
+397,1,04:17,14,14,CAX,2_Pts_C,Gustavinho
+398,1,04:46,12,14,BAU,EN,Hettsheimeir
+399,1,04:46,12,12,BAU,AS,R Fischer
+400,1,04:51,12,12,BAU,RD,Robert Day
+401,1,04:51,12,12,CAX,3_Pts_T,Marcão
+402,1,05:05,12,12,BAU,3_Pts_C,Jefferson W
+403,1,05:05,12,9,BAU,AS,Alex Garcia
+404,1,05:16,12,9,BAU,FR,R Fischer
+405,1,05:16,12,9,CAX,FC,Gustavinho
+406,1,05:27,12,9,CAX,3_Pts_C,Gustavinho
+407,1,05:44,9,9,BAU,2_Pts_C,Jefferson W
+408,1,05:44,9,7,BAU,AS,Alex Garcia
+409,1,06:02,9,7,CAX,3_Pts_C,Gustavinho
+410,1,06:15,6,7,CAX,RD,R Stabile
+411,1,06:15,6,7,BAU,3_Pts_T,Robert Day
+412,1,06:28,6,7,BAU,RD,Alex Garcia
+413,1,06:28,6,7,CAX,3_Pts_T,Guto
+414,1,06:36,6,7,CAX,RD,Marcão
+415,1,06:36,6,7,BAU,2_Pts_T,R Fischer
+416,1,06:43,6,7,BAU,RO,R Fischer
+417,1,06:43,6,7,BAU,3_Pts_T,R Fischer
+418,1,06:50,6,7,BAU,RO,Alex Garcia
+419,1,06:50,6,7,BAU,3_Pts_T,Jefferson W
+420,1,06:59,6,7,BAU,RO,Hettsheimeir
+421,1,06:59,6,7,BAU,3_Pts_T,Jefferson W
+422,1,07:15,6,7,CAX,ER,R Stabile
+423,1,07:20,6,7,CAX,RO,R Stabile
+424,1,07:20,6,7,CAX,3_Pts_T,Guto
+425,1,07:34,6,7,BAU,2_Pts_C,Jefferson W
+426,1,07:50,6,5,BAU,RD,Hettsheimeir
+427,1,07:50,6,5,CAX,3_Pts_T,Betinho
+428,1,08:03,6,5,CAX,RD,R Stabile
+429,1,08:03,6,5,BAU,2_Pts_T,Jefferson W
+430,1,08:26,6,5,CAX,LL_Pts_C,R Stabile
+431,1,08:26,5,5,CAX,LL_Pts_C,R Stabile
+432,1,08:26,4,5,CAX,FR,R Stabile
+433,1,08:26,4,5,BAU,FC,Jefferson W
+434,1,08:36,4,5,CAX,BR,Caxias do Sul
+435,1,08:36,4,5,BAU,ER,Alex Garcia
+436,1,08:48,4,5,CAX,EN,Marcão
+437,1,08:48,2,5,CAX,AS,Betinho
+438,1,09:08,2,5,BAU,LL_Pts_C,Hettsheimeir
+439,1,09:08,2,4,BAU,LL_Pts_C,Hettsheimeir
+440,1,09:08,2,3,BAU,FR,Hettsheimeir
+441,1,09:08,2,3,CAX,FC,R Stabile
+442,1,09:27,2,3,CAX,2_Pts_C,Marcão
+443,1,09:27,0,3,CAX,AS,Gustavinho
+444,1,09:48,0,3,BAU,3_Pts_C,Alex Garcia
+445,1,09:48,0,0,BAU,AS,R Fischer
+446,1,10:00,0,0,BAU,substituicao_entra,Robert Day
+447,1,10:00,0,0,BAU,substituicao_entra,Hettsheimeir
+448,1,10:00,0,0,BAU,substituicao_entra,Jefferson W
+449,1,10:00,0,0,BAU,substituicao_entra,Alex Garcia
+450,1,10:00,0,0,BAU,substituicao_entra,R Fischer
+451,1,10:00,0,0,CAX,substituicao_entra,Betinho
+452,1,10:00,0,0,CAX,substituicao_entra,R Stabile
+453,1,10:00,0,0,CAX,substituicao_entra,Guto
+454,1,10:00,0,0,CAX,substituicao_entra,Marcão
+455,1,10:00,0,0,CAX,substituicao_entra,Gustavinho

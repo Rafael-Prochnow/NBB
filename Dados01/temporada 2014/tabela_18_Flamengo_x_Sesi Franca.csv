@@ -1,0 +1,516 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,82,79, ,fim_partida,
+1,4,00:04,82,79,FRA,tempo_tecnico,Franca
+2,4,00:04,82,79,FLA,LL_Pts_C,Herrmann
+3,4,00:04,81,79,FLA,LL_Pts_T,Herrmann
+4,4,00:04,81,79,FRA,substituicao_entra,Antonio
+5,4,00:04,81,79,FRA,substituicao_sai,Lucas Mariano
+6,4,00:04,81,79,FLA,FR,Herrmann
+7,4,00:04,81,79,FRA,FC,Lucas Mariano
+8,4,00:05,81,79,FLA,tempo_tecnico,Flamengo
+9,4,00:05,81,79,FRA,LL_Pts_C,Cobos
+10,4,00:05,81,78,FRA,LL_Pts_C,Cobos
+11,4,00:05,81,77,FRA,FR,Cobos
+12,4,00:05,81,77,FLA,FC,Meyinsse
+13,4,00:14,81,77,FRA,2_Pts_C,Helinho
+14,4,00:23,81,75,FLA,LL_Pts_C,Marquinhos
+15,4,00:23,80,75,FLA,LL_Pts_C,Marquinhos
+16,4,00:23,79,75,FRA,substituicao_entra,Helinho
+17,4,00:23,79,75,FRA,substituicao_sai,Léo Meindl
+18,4,00:23,79,75,FLA,FR,Marquinhos
+19,4,00:23,79,75,FRA,FC,Léo Meindl
+20,4,00:30,79,75,FLA,BR,Olivinha
+21,4,00:30,79,75,FRA,ER,Figueroa
+22,4,00:31,79,75,FRA,tempo_tecnico,Franca
+23,4,00:31,79,75,FLA,LL_Pts_C,Marquinhos
+24,4,00:31,78,75,FLA,LL_Pts_C,Marquinhos
+25,4,00:31,77,75,FLA,FR,Marquinhos
+26,4,00:31,77,75,FRA,FC,Figueroa
+27,4,00:32,77,75,FLA,substituicao_entra,Herrmann
+28,4,00:32,77,75,FLA,substituicao_sai,Marcelinho
+29,4,00:42,77,75,FRA,3_Pts_C,Léo Meindl
+30,4,00:42,77,72,FRA,AS,Mata
+31,4,00:47,77,72,FRA,BR,Figueroa
+32,4,00:47,77,72,FLA,ER,Laprovittola
+33,4,01:05,77,72,FLA,RD,Laprovittola
+34,4,01:05,77,72,FRA,2_Pts_T,Lucas Mariano
+35,4,01:28,77,72,FLA,EN,Meyinsse
+36,4,01:28,75,72,FLA,AS,Marquinhos
+37,4,01:49,75,72,FLA,RD,Marquinhos
+38,4,01:49,75,72,FRA,LL_Pts_T,Lucas Mariano
+39,4,01:49,75,72,FRA,LL_Pts_C,Lucas Mariano
+40,4,01:49,75,71,FRA,FR,Lucas Mariano
+41,4,01:49,75,71,FLA,FC,Laprovittola
+42,4,02:01,75,71,FLA,LL_Pts_C,Meyinsse
+43,4,02:01,74,71,FLA,LL_Pts_T,Meyinsse
+44,4,02:01,74,71,FLA,FR,Meyinsse
+45,4,02:01,74,71,FRA,FC,Lucas Mariano
+46,4,02:13,74,71,FLA,RD,Marquinhos
+47,4,02:13,74,71,FRA,LL_Pts_T,Mata
+48,4,02:13,74,71,FRA,LL_Pts_C,Mata
+49,4,02:13,74,70,FRA,FR,Mata
+50,4,02:13,74,70,FLA,FC,Meyinsse
+51,4,02:25,74,70,FRA,BR,Franca
+52,4,02:25,74,70,FLA,ER,Laprovittola
+53,4,02:31,74,70,FLA,RD,Meyinsse
+54,4,02:31,74,70,FRA,2_Pts_T,Lucas Mariano
+55,4,02:50,74,70,FLA,LL_Pts_C,Marcelinho
+56,4,02:50,73,70,FLA,LL_Pts_T,Marcelinho
+57,4,02:50,73,70,FLA,substituicao_entra,Marquinhos
+58,4,02:50,73,70,FLA,substituicao_sai,Benite
+59,4,02:50,73,70,FLA,FR,Marcelinho
+60,4,02:50,73,70,FRA,FC,Léo Meindl
+61,4,03:15,73,70,FRA,2_Pts_C,Mata
+62,4,03:15,73,68,FRA,AS,Figueroa
+63,4,03:17,73,68,FLA,ER,Meyinsse
+64,4,03:26,73,68,FLA,substituicao_entra,Meyinsse
+65,4,03:26,73,68,FLA,substituicao_sai,Felicio
+66,4,03:26,73,68,FLA,FR,Benite
+67,4,03:26,73,68,FRA,FC,Léo Meindl
+68,4,03:36,73,68,FLA,BR,Benite
+69,4,03:36,73,68,FRA,ER,Mata
+70,4,03:54,73,68,FRA,RD,Léo Meindl
+71,4,03:54,73,68,FLA,LL_Pts_T,Felicio
+72,4,03:54,73,68,FLA,LL_Pts_T,Felicio
+73,4,03:54,73,68,FLA,FR,Felicio
+74,4,03:54,73,68,FRA,FC,Cobos
+75,4,04:09,73,68,FLA,RD,Felicio
+76,4,04:09,73,68,FRA,LL_Pts_T,Léo Meindl
+77,4,04:09,73,68,FRA,substituicao_entra,Figueroa
+78,4,04:09,73,68,FRA,substituicao_sai,Helinho
+79,4,04:09,73,68,FRA,substituicao_entra,Cobos
+80,4,04:09,73,68,FRA,substituicao_sai,Léo Waszkiewicz
+81,4,04:09,73,68,FRA,2_Pts_C,Léo Meindl
+82,4,04:09,73,66,FRA,FR,Léo Meindl
+83,4,04:09,73,66,FLA,FC,Marcelinho
+84,4,04:20,73,66,FLA,ER,
+85,4,04:27,73,66,FLA,RO,Laprovittola
+86,4,04:27,73,66,FLA,3_Pts_T,Olivinha
+87,4,04:51,73,66,FLA,BR,Flamengo
+88,4,04:51,73,66,FRA,ER,Léo Meindl
+89,4,05:12,73,66,FLA,2_Pts_C,Felicio
+90,4,05:12,71,66,FLA,AS,Marcelinho
+91,4,05:21,71,66,FRA,LL_Pts_C,Léo Waszkiewicz
+92,4,05:21,71,65,FRA,LL_Pts_C,Léo Waszkiewicz
+93,4,05:21,71,64,FRA,FR,Léo Waszkiewicz
+94,4,05:21,71,64,FLA,FC,Olivinha
+95,4,05:27,71,64,FRA,FR,Lucas Mariano
+96,4,05:27,71,64,FLA,FC,Olivinha
+97,4,05:33,71,64,FRA,RD,Léo Waszkiewicz
+98,4,05:33,71,64,FLA,2_Pts_T,Felicio
+99,4,05:50,71,64,FLA,RD,Olivinha
+100,4,05:50,71,64,FRA,3_Pts_T,Léo Meindl
+101,4,06:05,71,64,FLA,LL_Pts_C,Benite
+102,4,06:05,70,64,FLA,LL_Pts_C,Benite
+103,4,06:05,69,64,FLA,FR,Benite
+104,4,06:05,69,64,FRA,FC,Léo Meindl
+105,4,06:09,69,64,FLA,BR,Felicio
+106,4,06:09,69,64,FRA,ER,Helinho
+107,4,06:33,69,64,FLA,3_Pts_C,Marcelinho
+108,4,06:33,66,64,FRA,substituicao_entra,Mata
+109,4,06:33,66,64,FRA,substituicao_sai,Mata
+110,4,06:33,66,64,FLA,FR,Laprovittola
+111,4,06:33,66,64,FRA,FC,Helinho
+112,4,06:49,66,64,FRA,2_Pts_C,Helinho
+113,4,07:06,66,62,FLA,2_Pts_C,Olivinha
+114,4,07:11,64,62,FLA,RO,Olivinha
+115,4,07:11,64,62,FLA,2_Pts_T,Laprovittola
+116,4,07:25,64,62,FLA,RD,Olivinha
+117,4,07:25,64,62,FRA,2_Pts_T,Lucas Mariano
+118,4,07:55,64,62,FLA,2_Pts_C,Marcelinho
+119,4,08:07,62,62,FRA,2_Pts_C,Léo Waszkiewicz
+120,4,08:12,62,60,FRA,RO,Léo Waszkiewicz
+121,4,08:12,62,60,FRA,2_Pts_T,Léo Meindl
+122,4,08:30,62,60,FRA,RD,Mata
+123,4,08:30,62,60,FLA,3_Pts_T,Olivinha
+124,4,08:40,62,60,FLA,BR,Flamengo
+125,4,08:40,62,60,FRA,ER,Mata
+126,4,08:51,62,60,FLA,3_Pts_C,Benite
+127,4,08:51,59,60,FLA,AS,Felicio
+128,4,09:01,59,60,FLA,BR,Olivinha
+129,4,09:01,59,60,FRA,ER,Lucas Mariano
+130,4,09:18,59,60,FLA,ER,Benite
+131,4,09:33,59,60,FLA,RD,Olivinha
+132,4,09:33,59,60,FRA,3_Pts_T,Léo Meindl
+133,3,00:00,59,60, ,fim_quarto,
+134,3,00:00,59,60,FRA,2_Pts_T,Léo Meindl
+135,3,00:17,59,60,FRA,RD,Tom
+136,3,00:17,59,60,FLA,3_Pts_T,Benite
+137,3,00:43,59,60,FRA,2_Pts_C,Mata
+138,3,00:43,59,58,FRA,AS,Helinho
+139,3,00:58,59,58,FRA,RD,Tom
+140,3,00:58,59,58,FLA,3_Pts_T,Gegê
+141,3,01:22,59,58,FRA,2_Pts_C,Mata
+142,3,01:31,59,56,FLA,2_Pts_C,Marquinhos
+143,3,01:48,57,56,FRA,RO,Léo Meindl
+144,3,01:48,57,56,FLA,TO,Meyinsse
+145,3,01:48,57,56,FRA,2_Pts_T,Helinho
+146,3,02:07,57,56,FRA,RD,Helinho
+147,3,02:07,57,56,FLA,2_Pts_T,Meyinsse
+148,3,02:30,57,56,FRA,2_Pts_C,Tom
+149,3,02:30,57,54,FRA,AS,Helinho
+150,3,02:51,57,54,FLA,EN,Marquinhos
+151,3,02:51,55,54,FLA,AS,Olivinha
+152,3,02:57,55,54,FRA,LL_Pts_C,Helinho
+153,3,02:57,55,53,FRA,LL_Pts_C,Helinho
+154,3,02:57,55,52,FRA,FR,Helinho
+155,3,02:57,55,52,FLA,FC,Gegê
+156,3,03:09,55,52,FRA,RD,Mata
+157,3,03:09,55,52,FLA,LL_Pts_T,Olivinha
+158,3,03:09,55,52,FLA,LL_Pts_T,Olivinha
+159,3,03:09,55,52,FRA,substituicao_entra,Tom
+160,3,03:09,55,52,FRA,substituicao_sai,André Luiz
+161,3,03:09,55,52,FLA,FR,Olivinha
+162,3,03:09,55,52,FRA,FC,André Luiz
+163,3,03:27,55,52,FLA,RD,Meyinsse
+164,3,03:27,55,52,FRA,LL_Pts_T,Mata
+165,3,03:27,55,52,FLA,tempo_tecnico,Flamengo
+166,3,03:27,55,52,FRA,FR,Mata
+167,3,03:27,55,52,FLA,FC,Marquinhos
+168,3,03:27,55,52,FRA,2_Pts_C,Mata
+169,3,03:27,55,50,FRA,AS,Léo Meindl
+170,3,03:28,55,50,FLA,ER,Meyinsse
+171,3,03:36,55,50,FRA,FR,Helinho
+172,3,03:36,55,50,FLA,FC,Gegê
+173,3,03:51,55,50,FRA,BR,Franca
+174,3,03:51,55,50,FLA,ER,Gegê
+175,3,04:10,55,50,FLA,RD,Meyinsse
+176,3,04:10,55,50,FRA,2_Pts_T,Léo Meindl
+177,3,04:32,55,50,FRA,BR,Franca
+178,3,04:32,55,50,FLA,ER,Olivinha
+179,3,04:32,55,50,FRA,substituicao_entra,Helinho
+180,3,04:34,55,50,FRA,substituicao_sai,Figueroa
+181,3,04:43,55,50,FLA,RD,Marquinhos
+182,3,04:43,55,50,FRA,LL_Pts_T,Lucas Mariano
+183,3,04:43,55,50,FLA,substituicao_entra,Gegê
+184,3,04:43,55,50,FLA,substituicao_sai,Marcelinho
+185,3,04:43,55,50,FLA,substituicao_entra,Olivinha
+186,3,04:43,55,50,FLA,substituicao_sai,Herrmann
+187,3,04:43,55,50,FLA,substituicao_entra,Benite
+188,3,04:43,55,50,FLA,substituicao_sai,Laprovittola
+189,3,04:43,55,50,FRA,2_Pts_C,Lucas Mariano
+190,3,04:43,55,48,FRA,FR,Lucas Mariano
+191,3,04:43,55,48,FLA,FC,Herrmann
+192,3,04:46,55,48,FRA,RO,Lucas Mariano
+193,3,04:46,55,48,FRA,2_Pts_T,Mata
+194,3,05:01,55,48,FRA,RD,Franca
+195,3,05:01,55,48,FLA,3_Pts_T,Marcelinho
+196,3,05:12,55,48,FLA,BR,Meyinsse
+197,3,05:12,55,48,FRA,ER,Lucas Mariano
+198,3,05:21,55,48,FRA,RD,Mata
+199,3,05:21,55,48,FLA,2_Pts_T,Herrmann
+200,3,05:32,55,48,FRA,3_Pts_C,Mata
+201,3,05:42,55,45,FRA,RD,André Luiz
+202,3,05:42,55,45,FLA,2_Pts_T,Laprovittola
+203,3,05:58,55,45,FLA,LL_Pts_C,Marcelinho
+204,3,05:58,54,45,FLA,LL_Pts_C,Meyinsse
+205,3,05:58,53,45,FLA,LL_Pts_C,Meyinsse
+206,3,05:58,52,45,FRA,FC_T,Franca
+207,3,05:58,52,45,FLA,FR,Meyinsse
+208,3,05:58,52,45,FRA,FC,Figueroa
+209,3,06:17,52,45,FRA,2_Pts_C,Lucas Mariano
+210,3,06:17,52,43,FRA,AS,Figueroa
+211,3,06:21,52,43,FRA,BR,Figueroa
+212,3,06:21,52,43,FLA,ER,Marquinhos
+213,3,06:30,52,43,FLA,RD,Meyinsse
+214,3,06:30,52,43,FRA,3_Pts_T,Lucas Mariano
+215,3,06:48,52,43,FRA,substituicao_entra,Lucas Mariano
+216,3,06:48,52,43,FRA,substituicao_sai,Léo Waszkiewicz
+217,3,06:48,52,43,FRA,substituicao_entra,André Luiz
+218,3,06:48,52,43,FRA,substituicao_sai,Antonio
+219,3,06:48,52,43,FRA,tempo_tecnico,Franca
+220,3,06:48,52,43,FLA,2_Pts_C,Meyinsse
+221,3,06:48,50,43,FLA,AS,Herrmann
+222,3,06:57,50,43,FLA,FR,Marquinhos
+223,3,06:57,50,43,FRA,FC,Léo Meindl
+224,3,07:07,50,43,FLA,LL_Pts_C,Marcelinho
+225,3,07:07,49,43,FLA,LL_Pts_C,Marcelinho
+226,3,07:07,48,43,FLA,FR,Marcelinho
+227,3,07:07,48,43,FRA,FC_A,Figueroa
+228,3,07:07,48,43,FLA,BR,Marcelinho
+229,3,07:07,48,43,FRA,ER,Figueroa
+230,3,07:12,48,43,FRA,RO,Léo Meindl
+231,3,07:12,48,43,FRA,2_Pts_T,Léo Meindl
+232,3,07:25,48,43,FRA,RD,Léo Meindl
+233,3,07:25,48,43,FLA,3_Pts_T,Herrmann
+234,3,07:33,48,43,FLA,RD,Laprovittola
+235,3,07:33,48,43,FRA,3_Pts_T,Figueroa
+236,3,07:53,48,43,FLA,3_Pts_C,Marquinhos
+237,3,07:53,45,43,FLA,AS,Herrmann
+238,3,08:11,45,43,FLA,RD,Marcelinho
+239,3,08:11,45,43,FRA,2_Pts_T,Léo Waszkiewicz
+240,3,08:17,45,43,FRA,FR,Mata
+241,3,08:17,45,43,FLA,FC,Marcelinho
+242,3,08:32,45,43,FLA,3_Pts_C,Marquinhos
+243,3,08:32,42,43,FLA,AS,Marcelinho
+244,3,08:49,42,43,FLA,RD,Meyinsse
+245,3,08:49,42,43,FRA,2_Pts_T,Léo Meindl
+246,3,09:08,42,43,FRA,RD,Léo Waszkiewicz
+247,3,09:08,42,43,FLA,LL_Pts_T,Meyinsse
+248,3,09:08,42,43,FLA,LL_Pts_C,Meyinsse
+249,3,09:08,41,43,FLA,FR,Meyinsse
+250,3,09:08,41,43,FRA,FC,Mata
+251,3,09:21,41,43,FRA,2_Pts_C,Figueroa
+252,3,09:44,41,41,FLA,LL_Pts_C,Herrmann
+253,3,09:44,40,41,FLA,LL_Pts_C,Herrmann
+254,3,09:50,39,41,FLA,FR,Herrmann
+255,3,09:50,39,41,FRA,FC,Figueroa
+256,3,09:56,39,41,FLA,RO,Herrmann
+257,3,09:56,39,41,FLA,2_Pts_T,Marcelinho
+258,2,00:00,39,41, ,fim_quarto,
+259,2,00:00,39,41,FLA,3_Pts_T,Marcelinho
+260,2,00:06,39,41,FLA,BR,Benite
+261,2,00:06,39,41,FRA,ER,Figueroa
+262,2,00:34,39,41,FRA,tempo_tecnico,Franca
+263,2,00:34,39,41,FLA,2_Pts_C,Olivinha
+264,2,00:34,37,41,FLA,AS,Gegê
+265,2,00:46,37,41,FRA,substituicao_entra,Tom
+266,2,00:46,37,41,FRA,substituicao_sai,Léo Waszkiewicz
+267,2,00:46,37,41,FRA,LL_Pts_C,Léo Meindl
+268,2,00:46,37,40,FRA,LL_Pts_C,Léo Meindl
+269,2,00:46,37,39,FRA,FR,Léo Meindl
+270,2,00:46,37,39,FLA,FC,Olivinha
+271,2,00:46,37,39,FRA,BR,Léo Meindl
+272,2,00:46,37,39,FLA,ER,Benite
+273,2,01:04,37,39,FRA,3_Pts_C,Léo Meindl
+274,2,01:04,37,36,FRA,AS,Figueroa
+275,2,01:18,37,36,FLA,LL_Pts_C,Olivinha
+276,2,01:18,36,36,FLA,LL_Pts_C,Olivinha
+277,2,01:18,35,36,FLA,FR,Olivinha
+278,2,01:18,35,36,FRA,FC,Léo Waszkiewicz
+279,2,01:18,35,36,FRA,3_Pts_T,Cobos
+280,2,01:34,35,36,FRA,substituicao_entra,Léo Waszkiewicz
+281,2,01:34,35,36,FRA,substituicao_sai,André Luiz
+282,2,01:34,35,36,FLA,LL_Pts_C,Marcelinho
+283,2,01:34,34,36,FLA,LL_Pts_C,Marcelinho
+284,2,01:34,33,36,FLA,FR,Marcelinho
+285,2,01:34,33,36,FRA,FC,André Luiz
+286,2,01:48,33,36,FRA,3_Pts_C,Léo Meindl
+287,2,01:48,33,33,FRA,AS,Figueroa
+288,2,01:53,33,33,FRA,RO,Mata
+289,2,01:53,33,33,FRA,LL_Pts_T,André Luiz
+290,2,01:53,33,33,FRA,LL_Pts_T,André Luiz
+291,2,01:53,33,33,FRA,FR,André Luiz
+292,2,01:53,33,33,FLA,FC,Meyinsse
+293,2,02:02,33,33,FRA,RD,Léo Meindl
+294,2,02:02,33,33,FLA,2_Pts_T,Olivinha
+295,2,02:07,33,33,FLA,RO,Olivinha
+296,2,02:07,33,33,FLA,2_Pts_T,Marcelinho
+297,2,02:15,33,33,FLA,RO,Flamengo
+298,2,02:15,33,33,FLA,2_Pts_T,Meyinsse
+299,2,02:33,33,33,FLA,FR,Gegê
+300,2,02:33,33,33,FRA,FC,André Luiz
+301,2,02:47,33,33,FRA,RD,André Luiz
+302,2,02:47,33,33,FLA,LL_Pts_T,Olivinha
+303,2,02:47,33,33,FRA,substituicao_entra,André Luiz
+304,2,02:47,33,33,FRA,substituicao_sai,Lucas Mariano
+305,2,02:47,33,33,FRA,substituicao_entra,Léo Meindl
+306,2,02:47,33,33,FRA,substituicao_sai,Léo Waszkiewicz
+307,2,02:47,33,33,FLA,tempo_tecnico,Flamengo
+308,2,02:47,33,33,FRA,tempo_tecnico,Franca
+309,2,02:47,33,33,FLA,2_Pts_C,Olivinha
+310,2,02:47,31,33,FLA,FR,Olivinha
+311,2,02:47,31,33,FRA,FC,Léo Waszkiewicz
+312,2,02:56,31,33,FLA,RD,Marcelinho
+313,2,02:56,31,33,FRA,3_Pts_T,Mata
+314,2,03:13,31,33,FLA,3_Pts_C,Benite
+315,2,03:13,28,33,FLA,AS,Meyinsse
+316,2,03:30,28,33,FRA,2_Pts_C,Cobos
+317,2,03:46,28,31,FLA,2_Pts_C,Marcelinho
+318,2,04:08,26,31,FLA,FR,Gegê
+319,2,04:08,26,31,FRA,FC,Lucas Mariano
+320,2,04:12,26,31,FRA,LL_Pts_C,Léo Waszkiewicz
+321,2,04:12,26,30,FRA,AS,Lucas Mariano
+322,2,04:12,26,30,FRA,LL_Pts_C,Léo Waszkiewicz
+323,2,04:12,26,29,FRA,FR,Léo Waszkiewicz
+324,2,04:12,26,29,FLA,FC,Olivinha
+325,2,04:26,26,29,FRA,BR,Franca
+326,2,04:26,26,29,FLA,ER,Gegê
+327,2,04:30,26,29,FRA,LL_Pts_C,Léo Waszkiewicz
+328,2,04:30,26,28,FRA,LL_Pts_T,Léo Waszkiewicz
+329,2,04:30,26,28,FRA,FR,Léo Waszkiewicz
+330,2,04:30,26,28,FLA,FC,Benite
+331,2,04:37,26,28,FRA,RO,Franca
+332,2,04:37,26,28,FRA,LL_Pts_T,Figueroa
+333,2,04:37,26,28,FRA,FR,Figueroa
+334,2,04:37,26,28,FLA,FC,Gegê
+335,2,04:37,26,28,FRA,2_Pts_C,Figueroa
+336,2,04:44,26,26,FRA,substituicao_entra,Lucas Mariano
+337,2,04:44,26,26,FRA,substituicao_sai,Antonio
+338,2,04:44,26,26,FRA,BR,Franca
+339,2,04:44,26,26,FLA,ER,Marcelinho
+340,2,04:48,26,26,FLA,BR,Olivinha
+341,2,04:48,26,26,FRA,ER,Antonio
+342,2,05:01,26,26,FLA,3_Pts_C,Marcelinho
+343,2,05:10,23,26,FLA,BR,Olivinha
+344,2,05:10,23,26,FRA,ER,Figueroa
+345,2,05:20,23,26,FLA,3_Pts_T,Marcelinho
+346,2,05:45,23,26,FRA,LL_Pts_C,Antonio
+347,2,05:45,23,25,FLA,substituicao_entra,Meyinsse
+348,2,05:45,23,25,FLA,substituicao_sai,Felicio
+349,2,05:45,23,25,FRA,2_Pts_C,Antonio
+350,2,05:45,23,23,FRA,FR,Antonio
+351,2,05:45,23,23,FLA,FC,Felicio
+352,2,05:58,23,23,FRA,BR,Cobos
+353,2,05:58,23,23,FLA,ER,Felicio
+354,2,06:22,23,23,FRA,LL_Pts_C,Cobos
+355,2,06:22,23,22,FRA,substituicao_entra,Figueroa
+356,2,06:22,23,22,FRA,substituicao_sai,Helinho
+357,2,06:22,23,22,FRA,FR,Cobos
+358,2,06:22,23,22,FLA,FC,Felicio
+359,2,06:22,23,22,FRA,2_Pts_C,Cobos
+360,2,06:37,23,20,FLA,2_Pts_C,Olivinha
+361,2,06:37,21,20,FLA,AS,Gegê
+362,2,06:41,21,20,FLA,BR,Gegê
+363,2,06:41,21,20,FRA,ER,Léo Waszkiewicz
+364,2,06:46,21,20,FRA,RO,Léo Waszkiewicz
+365,2,06:46,21,20,FRA,2_Pts_T,Helinho
+366,2,07:00,21,20,FLA,LL_Pts_C,Gegê
+367,2,07:00,20,20,FLA,LL_Pts_T,Gegê
+368,2,07:00,20,20,FRA,substituicao_entra,Mata
+369,2,07:00,20,20,FRA,substituicao_sai,Léo Meindl
+370,2,07:00,20,20,FLA,substituicao_entra,Marcelinho
+371,2,07:00,20,20,FLA,substituicao_sai,Marquinhos
+372,2,07:00,20,20,FLA,FR,Gegê
+373,2,07:00,20,20,FRA,FC,Helinho
+374,2,07:16,20,20,FRA,3_Pts_T,Léo Meindl
+375,2,07:24,20,20,FLA,substituicao_entra,Olivinha
+376,2,07:24,20,20,FLA,substituicao_sai,Herrmann
+377,2,07:24,20,20,FRA,RO,Franca
+378,2,07:24,20,20,FRA,3_Pts_T,Léo Meindl
+379,2,07:34,20,20,FRA,RD,Antonio
+380,2,07:34,20,20,FLA,3_Pts_T,Marquinhos
+381,2,07:41,20,20,FRA,substituicao_entra,Léo Waszkiewicz
+382,2,07:41,20,20,FRA,substituicao_sai,André Luiz
+383,2,07:41,20,20,FLA,FR,Felicio
+384,2,07:41,20,20,FRA,FC,Helinho
+385,2,08:04,20,20,FRA,2_Pts_C,Helinho
+386,2,08:18,20,18,FRA,RD,André Luiz
+387,2,08:18,20,18,FLA,3_Pts_T,Marquinhos
+388,2,08:41,20,18,FRA,EN,André Luiz
+389,2,08:41,20,16,FRA,AS,Cobos
+390,2,09:01,20,16,FRA,RO,Léo Meindl
+391,2,09:01,20,16,FRA,2_Pts_T,Léo Meindl
+392,2,09:12,20,16,FRA,RD,Léo Meindl
+393,2,09:12,20,16,FLA,3_Pts_T,Herrmann
+394,2,09:27,20,16,FLA,RD,Gegê
+395,2,09:27,20,16,FRA,3_Pts_T,Cobos
+396,2,09:38,20,16,FRA,RO,André Luiz
+397,2,09:38,20,16,FRA,3_Pts_T,Léo Meindl
+398,2,09:48,20,16,FRA,FR,Cobos
+399,2,09:48,20,16,FLA,FC,Felicio
+400,1,00:00,20,16, ,fim_quarto,
+401,1,00:00,20,16,FRA,2_Pts_C,Helinho
+402,1,00:00,20,14,FLA,3_Pts_T,Herrmann
+403,1,00:03,20,14,FLA,BR,Laprovittola
+404,1,00:03,20,14,FRA,ER,André Luiz
+405,1,00:24,20,14,FLA,substituicao_entra,Benite
+406,1,00:24,20,14,FLA,substituicao_sai,Marcelinho
+407,1,00:24,20,14,FLA,ER,Meyinsse
+408,1,00:31,20,14,FRA,LL_Pts_C,Léo Meindl
+409,1,00:31,20,13,FRA,LL_Pts_C,Léo Meindl
+410,1,00:31,20,12,FRA,FR,Léo Meindl
+411,1,00:31,20,12,FLA,FC,Marcelinho
+412,1,00:42,20,12,FLA,2_Pts_C,Herrmann
+413,1,00:42,18,12,FLA,AS,Marcelinho
+414,1,00:52,18,12,FLA,RO,Flamengo
+415,1,00:52,18,12,FLA,3_Pts_T,Herrmann
+416,1,01:12,18,12,FRA,AS,Antonio
+417,1,01:12,18,12,FRA,FR,Léo Meindl
+418,1,01:12,18,12,FLA,FC,Marquinhos
+419,1,01:31,18,12,FLA,LL_Pts_C,Marquinhos
+420,1,01:31,17,12,FLA,2_Pts_C,Marquinhos
+421,1,01:31,15,12,FLA,FR,Marquinhos
+422,1,01:31,15,12,FRA,FC,André Luiz
+423,1,01:40,15,12,FRA,substituicao_entra,Antonio
+424,1,01:40,15,12,FRA,substituicao_sai,Lucas Mariano
+425,1,01:40,15,12,FLA,FR,Herrmann
+426,1,01:40,15,12,FRA,FC,Lucas Mariano
+427,1,01:42,15,12,FLA,RD,Herrmann
+428,1,01:42,15,12,FRA,3_Pts_T,Helinho
+429,1,01:59,15,12,FLA,2_Pts_C,Laprovittola
+430,1,02:12,13,12,FRA,2_Pts_C,Lucas Mariano
+431,1,02:29,13,10,FLA,ER,Meyinsse
+432,1,02:40,13,10,FRA,LL_Pts_C,Léo Meindl
+433,1,02:40,13,9,FRA,LL_Pts_C,Léo Meindl
+434,1,02:40,13,8,FRA,substituicao_entra,Helinho
+435,1,02:40,13,8,FRA,substituicao_sai,Figueroa
+436,1,02:40,13,8,FRA,FR,Léo Meindl
+437,1,02:40,13,8,FLA,FC,Marcelinho
+438,1,02:49,13,8,FRA,RD,Mata
+439,1,02:49,13,8,FLA,3_Pts_T,Marcelinho
+440,1,02:55,13,8,FLA,RD,Laprovittola
+441,1,02:55,13,8,FRA,2_Pts_T,André Luiz
+442,1,03:00,13,8,FRA,RO,André Luiz
+443,1,03:00,13,8,FRA,3_Pts_T,Mata
+444,1,03:10,13,8,FRA,RD,Mata
+445,1,03:10,13,8,FLA,2_Pts_T,Marcelinho
+446,1,03:24,13,8,FLA,FR,Laprovittola
+447,1,03:24,13,8,FRA,FC,André Luiz
+448,1,03:37,13,8,FLA,RD,Herrmann
+449,1,03:37,13,8,FRA,2_Pts_T,André Luiz
+450,1,03:46,13,8,FRA,RO,Figueroa
+451,1,03:46,13,8,FRA,2_Pts_T,Léo Meindl
+452,1,04:09,13,8,FLA,2_Pts_C,Meyinsse
+453,1,04:09,11,8,FLA,AS,Marcelinho
+454,1,04:22,11,8,FLA,RO,Flamengo
+455,1,04:22,11,8,FLA,2_Pts_T,Meyinsse
+456,1,04:39,11,8,FRA,ER,André Luiz
+457,1,04:52,11,8,FLA,3_Pts_C,Marquinhos
+458,1,04:52,8,8,FLA,AS,Herrmann
+459,1,05:01,8,8,FRA,substituicao_entra,André Luiz
+460,1,05:01,8,8,FRA,substituicao_sai,Léo Waszkiewicz
+461,1,05:01,8,8,FLA,LL_Pts_C,Laprovittola
+462,1,05:01,7,8,FLA,LL_Pts_T,Laprovittola
+463,1,05:01,7,8,FLA,FR,Laprovittola
+464,1,05:01,7,8,FRA,FC_A,Lucas Mariano
+465,1,05:07,7,8,FLA,RD,Laprovittola
+466,1,05:07,7,8,FRA,2_Pts_T,Figueroa
+467,1,05:18,7,8,FRA,RD,Figueroa
+468,1,05:18,7,8,FLA,3_Pts_T,Marcelinho
+469,1,05:32,7,8,FRA,3_Pts_C,Lucas Mariano
+470,1,05:46,7,5,FRA,RO,Léo Meindl
+471,1,05:46,7,5,FRA,3_Pts_T,Figueroa
+472,1,06:06,7,5,FLA,ER,Meyinsse
+473,1,06:16,7,5,FLA,RD,Marquinhos
+474,1,06:16,7,5,FRA,2_Pts_T,Léo Waszkiewicz
+475,1,06:34,7,5,FRA,RD,Léo Waszkiewicz
+476,1,06:34,7,5,FLA,3_Pts_T,Laprovittola
+477,1,06:47,7,5,FRA,ER,Mata
+478,1,07:09,7,5,FLA,LL_Pts_C,Marquinhos
+479,1,07:09,6,5,FLA,LL_Pts_T,Marquinhos
+480,1,07:09,6,5,FLA,FR,Marquinhos
+481,1,07:09,6,5,FRA,FC,Léo Waszkiewicz
+482,1,07:32,6,5,FRA,3_Pts_C,Mata
+483,1,07:32,6,2,FRA,AS,Léo Meindl
+484,1,07:48,6,2,FLA,2_Pts_C,Herrmann
+485,1,07:48,4,2,FLA,AS,Laprovittola
+486,1,07:52,4,2,FLA,BR,Marcelinho
+487,1,07:52,4,2,FRA,ER,Figueroa
+488,1,08:12,4,2,FLA,2_Pts_C,Laprovittola
+489,1,08:31,2,2,FRA,LL_Pts_C,Léo Waszkiewicz
+490,1,08:31,2,1,FRA,LL_Pts_C,Léo Waszkiewicz
+491,1,08:31,2,0,FRA,FR,Léo Waszkiewicz
+492,1,08:31,2,0,FLA,FC,Meyinsse
+493,1,08:37,2,0,FRA,BR,Léo Meindl
+494,1,08:37,2,0,FLA,ER,Marcelinho
+495,1,08:49,2,0,FLA,RD,Meyinsse
+496,1,08:49,2,0,FRA,2_Pts_T,Figueroa
+497,1,09:03,2,0,FRA,BR,Léo Meindl
+498,1,09:03,2,0,FLA,ER,Laprovittola
+499,1,09:15,2,0,FLA,RD,Flamengo
+500,1,09:15,2,0,FRA,3_Pts_T,Mata
+501,1,09:32,2,0,FRA,RD,Mata
+502,1,09:32,2,0,FLA,3_Pts_T,Marquinhos
+503,1,09:50,2,0,FRA,ER,Léo Meindl
+504,1,09:57,2,0,FLA,2_Pts_C,Herrmann
+505,1,10:00,0,0,FRA,substituicao_entra,Léo Meindl
+506,1,10:00,0,0,FRA,substituicao_entra,Léo Waszkiewicz
+507,1,10:00,0,0,FRA,substituicao_entra,Lucas Mariano
+508,1,10:00,0,0,FRA,substituicao_entra,Figueroa
+509,1,10:00,0,0,FRA,substituicao_entra,Mata
+510,1,10:00,0,0,FLA,substituicao_entra,Meyinsse
+511,1,10:00,0,0,FLA,substituicao_entra,Marquinhos
+512,1,10:00,0,0,FLA,substituicao_entra,Laprovittola
+513,1,10:00,0,0,FLA,substituicao_entra,Marcelinho
+514,1,10:00,0,0,FLA,substituicao_entra,Herrmann

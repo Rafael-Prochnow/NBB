@@ -1,0 +1,468 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,46,92,,fim_partida,
+1,4,00:00,46,92,,fim_quarto,
+2,4,00:30,46,92,CEA,LL_Pts_C,Gabriel
+3,4,00:30,46,91,CEA,AS,Mathias
+4,4,00:30,46,91,CEA,LL_Pts_C,Gabriel
+5,4,00:30,46,90,CEA,FR,Gabriel
+6,4,00:30,46,90,PIN,FC,
+7,4,00:32,46,90,CEA,RO,Mathias
+8,4,00:36,46,90,CEA,3_Pts_T,Mathias
+9,4,00:50,46,90,CEA,RD,Sualisson
+10,4,00:54,46,90,PIN,3_Pts_T,T Faria
+11,4,01:03,46,90,PIN,FR,Gabriel
+12,4,01:03,46,90,CEA,FC,Lassance
+13,4,01:06,46,90,PIN,BR,Gabriel
+14,4,01:06,46,90,CEA,ER,Lassance
+15,4,01:13,46,90,PIN,AS,D Souza
+16,4,01:13,46,90,PIN,2_Pts_C,T Faria
+17,4,01:32,44,90,PIN,BR,T Faria
+18,4,01:32,44,90,CEA,ER,Mathias
+19,4,01:48,44,90,PIN,ER,Gabriel
+20,4,02:05,44,90,CEA,LL_Pts_C,Schneider
+21,4,02:05,44,89,PIN,substituicao_entra,
+22,4,02:05,44,89,PIN,substituicao_entra,D Souza
+23,4,02:05,44,89,PIN,substituicao_sai,M Douglas
+24,4,02:05,44,89,PIN,substituicao_sai,Jamison
+25,4,02:05,44,89,CEA,FR,Schneider
+26,4,02:05,44,89,PIN,FC,Jamison
+27,4,02:05,44,89,CEA,AS,Mathias
+28,4,02:05,44,89,CEA,2_Pts_C,Schneider
+29,4,02:18,44,87,CEA,RD,Fortaleza Basquete Cearense
+30,4,02:19,44,87,PIN,3_Pts_T,Capela
+31,4,02:36,44,87,CEA,2_Pts_C,Gabriel
+32,4,02:46,44,85,CEA,RD,Sualisson
+33,4,02:52,44,85,PIN,3_Pts_T,Capela
+34,4,03:06,44,85,PIN,RD,Capela
+35,4,03:10,44,85,CEA,3_Pts_T,Schneider
+36,4,03:13,44,85,CEA,RD,Sualisson
+37,4,03:17,44,85,PIN,2_Pts_T,Capela
+38,4,03:21,44,85,PIN,RO,Jamison
+39,4,03:22,44,85,PIN,2_Pts_T,M Douglas
+40,4,03:31,44,85,PIN,RD,Gabriel
+41,4,03:35,44,85,CEA,3_Pts_T,Schneider
+42,4,03:46,44,85,PIN,ER,Capela
+43,4,04:01,44,85,CEA,LL_Pts_C,Mathias
+44,4,04:01,44,84,CEA,FR,Mathias
+45,4,04:01,44,84,PIN,FC,M Douglas
+46,4,04:01,44,84,CEA,AS,Sualisson
+47,4,04:01,44,84,CEA,2_Pts_C,Mathias
+48,4,04:06,44,82,PIN,substituicao_entra,Jamison
+49,4,04:06,44,82,PIN,substituicao_sai,D Souza
+50,4,04:18,44,82,CEA,RD,Mathias
+51,4,04:22,44,82,PIN,3_Pts_T,Capela
+52,4,04:39,44,82,CEA,AS,Schneider
+53,4,04:39,44,82,CEA,2_Pts_C,Gabriel
+54,4,04:41,44,80,CEA,RD,Schneider
+55,4,04:46,44,80,PIN,2_Pts_T,Gabriel
+56,4,04:59,44,80,CEA,substituicao_entra,Mathias
+57,4,04:59,44,80,CEA,substituicao_sai,Felipe
+58,4,04:59,44,80,PIN,FR,M Douglas
+59,4,04:59,44,80,CEA,FC,Schneider
+60,4,05:06,44,80,PIN,RD,D Souza
+61,4,05:09,44,80,CEA,2_Pts_T,Lassance
+62,4,05:19,44,80,PIN,2_Pts_C,T Faria
+63,4,05:21,42,80,PIN,RD,M Douglas
+64,4,05:25,42,80,CEA,3_Pts_T,Schneider
+65,4,05:26,42,80,PIN,substituicao_entra,M Douglas
+66,4,05:26,42,80,PIN,substituicao_sai,Jamison
+67,4,05:40,42,80,PIN,2_Pts_C,Gabriel
+68,4,05:47,40,80,PIN,RD,D Souza
+69,4,05:55,40,80,CEA,2_Pts_T,Felipe
+70,4,05:58,40,80,CEA,substituicao_entra,Gabriel
+71,4,05:58,40,80,CEA,substituicao_sai,Holloway
+72,4,05:58,40,80,CEA,RD,Fortaleza Basquete Cearense
+73,4,05:58,40,80,CEA,TO,Sualisson
+74,4,05:58,40,80,PIN,2_Pts_T,Capela
+75,4,06:13,40,80,CEA,AS,Holloway
+76,4,06:13,40,80,CEA,2_Pts_C,Schneider
+77,4,06:14,40,78,CEA,RD,Lassance
+78,4,06:21,40,78,CEA,TO,Sualisson
+79,4,06:21,40,78,PIN,2_Pts_T,T Faria
+80,4,06:39,40,78,CEA,EN,Felipe
+81,4,06:44,40,76,CEA,BR,Felipe
+82,4,06:44,40,76,PIN,ER,Jamison
+83,4,06:55,40,76,PIN,RD,Gabriel
+84,4,06:59,40,76,CEA,2_Pts_T,Holloway
+85,4,07:13,40,76,PIN,substituicao_entra,Gabriel
+86,4,07:13,40,76,PIN,substituicao_sai,
+87,4,07:13,40,76,CEA,RD,Fortaleza Basquete Cearense
+88,4,07:14,40,76,PIN,3_Pts_T,Jamison
+89,4,07:34,40,76,CEA,AS,Holloway
+90,4,07:34,40,76,CEA,2_Pts_C,Felipe
+91,4,07:52,40,74,CEA,substituicao_entra,Sualisson
+92,4,07:52,40,74,CEA,substituicao_sai,Mathias
+93,4,07:52,40,74,PIN,substituicao_entra,D Souza
+94,4,07:52,40,74,PIN,substituicao_entra,Capela
+95,4,07:52,40,74,PIN,substituicao_sai,M Douglas
+96,4,07:52,40,74,PIN,substituicao_sai,Gabriel
+97,4,07:52,40,74,CEA,RD,Fortaleza Basquete Cearense
+98,4,07:53,40,74,PIN,2_Pts_T,M Douglas
+99,4,07:53,40,74,PIN,RO,M Douglas
+100,4,08:01,40,74,PIN,2_Pts_T,M Douglas
+101,4,08:15,40,74,CEA,AS,Mathias
+102,4,08:15,40,74,CEA,3_Pts_C,Felipe
+103,4,08:31,40,71,PIN,2_Pts_C,Jamison
+104,4,08:47,38,71,PIN,RD,M Douglas
+105,4,08:47,38,71,CEA,LL_Pts_T,Holloway
+106,4,08:47,38,71,CEA,FR,Holloway
+107,4,08:47,38,71,PIN,FC,Gabriel
+108,4,08:47,38,71,CEA,2_Pts_C,Holloway
+109,4,08:59,38,69,CEA,RD,Felipe
+110,4,09:03,38,69,PIN,3_Pts_T,Gabriel
+111,4,09:23,38,69,CEA,AS,Lassance
+112,4,09:23,38,69,CEA,2_Pts_C,Holloway
+113,4,09:32,38,67,CEA,RD,Lassance
+114,4,09:36,38,67,PIN,2_Pts_T,Jamison
+115,4,09:37,38,67,PIN,RO,Jamison
+116,4,09:42,38,67,PIN,3_Pts_T,
+117,4,10:00,38,67,,inicio_quarto,
+118,3,00:00,38,67,,fim_quarto,
+119,3,00:02,38,67,PIN,RD,M Douglas
+120,3,00:02,38,67,CEA,3_Pts_T,Brite
+121,3,00:20,38,67,PIN,substituicao_entra,Gabriel
+122,3,00:20,38,67,PIN,substituicao_sai,Capela
+123,3,00:20,38,67,CEA,RD,Fortaleza Basquete Cearense
+124,3,00:20,38,67,PIN,3_Pts_T,T Faria
+125,3,00:34,38,67,CEA,3_Pts_C,Brite
+126,3,00:49,38,64,CEA,RD,Gabriel
+127,3,00:53,38,64,PIN,2_Pts_T,M Douglas
+128,3,01:07,38,64,CEA,3_Pts_C,Brite
+129,3,01:18,38,61,CEA,BR,Mathias
+130,3,01:18,38,61,PIN,ER,Capela
+131,3,01:27,38,61,PIN,RD,M Douglas
+132,3,01:32,38,61,CEA,2_Pts_T,Sualisson
+133,3,01:49,38,61,PIN,ER,
+134,3,02:03,38,61,PIN,RO,Pinheiros
+135,3,02:03,38,61,CEA,TO,Mathias
+136,3,02:03,38,61,PIN,2_Pts_T,Jamison
+137,3,02:12,38,61,PIN,substituicao_entra,T Faria
+138,3,02:12,38,61,PIN,substituicao_sai,Gabriel
+139,3,02:13,38,61,PIN,BR,Gabriel
+140,3,02:13,38,61,CEA,ER,Brite
+141,3,02:28,38,61,PIN,LL_Pts_C,Gabriel
+142,3,02:28,37,61,PIN,LL_Pts_T,Gabriel
+143,3,02:28,37,61,CEA,substituicao_entra,Lassance
+144,3,02:28,37,61,CEA,substituicao_sai,Schneider
+145,3,02:28,37,61,PIN,FR,Gabriel
+146,3,02:28,37,61,CEA,FC,Sualisson
+147,3,02:31,37,61,PIN,RD,M Douglas
+148,3,02:35,37,61,CEA,3_Pts_T,Gabriel
+149,3,02:49,37,61,PIN,ER,
+150,3,02:53,37,61,CEA,LL_Pts_C,Schneider
+151,3,02:53,37,60,CEA,LL_Pts_C,Schneider
+152,3,02:53,37,59,CEA,LL_Pts_T,Schneider
+153,3,02:53,37,59,PIN,substituicao_entra,
+154,3,02:53,37,59,PIN,substituicao_entra,Capela
+155,3,02:53,37,59,PIN,substituicao_sai,D Souza
+156,3,02:53,37,59,PIN,substituicao_sai,T Faria
+157,3,02:53,37,59,CEA,FR,Schneider
+158,3,02:53,37,59,PIN,FC,Gabriel
+159,3,03:02,37,59,CEA,RO,Brite
+160,3,03:07,37,59,CEA,3_Pts_T,Schneider
+161,3,03:24,37,59,CEA,RD,Mathias
+162,3,03:28,37,59,PIN,3_Pts_T,Gabriel
+163,3,03:35,37,59,PIN,tempo_tecnico,Pinheiros
+164,3,03:35,37,59,PIN,FR,Gabriel
+165,3,03:35,37,59,CEA,FC,Mathias
+166,3,03:54,37,59,CEA,substituicao_entra,Gabriel
+167,3,03:54,37,59,CEA,substituicao_sai,Holloway
+168,3,03:54,37,59,CEA,AS,Sualisson
+169,3,03:54,37,59,CEA,3_Pts_C,Schneider
+170,3,04:05,37,56,CEA,RD,Fortaleza Basquete Cearense
+171,3,04:08,37,56,PIN,2_Pts_T,T Faria
+172,3,04:21,37,56,PIN,RD,M Douglas
+173,3,04:27,37,56,PIN,TO,M Douglas
+174,3,04:27,37,56,CEA,2_Pts_T,Mathias
+175,3,04:42,37,56,CEA,substituicao_entra,Sualisson
+176,3,04:42,37,56,CEA,substituicao_sai,Felipe
+177,3,04:42,37,56,CEA,BR,Felipe
+178,3,04:42,37,56,PIN,ER,Jamison
+179,3,04:43,37,56,PIN,RD,Jamison
+180,3,04:48,37,56,CEA,3_Pts_T,Holloway
+181,3,05:12,37,56,PIN,AS,T Faria
+182,3,05:12,37,56,PIN,EN,M Douglas
+183,3,05:14,35,56,PIN,RD,M Douglas
+184,3,05:21,35,56,CEA,3_Pts_T,Brite
+185,3,05:44,35,56,PIN,AS,Gabriel
+186,3,05:44,35,56,PIN,2_Pts_C,M Douglas
+187,3,05:52,33,56,PIN,BR,Jamison
+188,3,05:52,33,56,CEA,ER,Mathias
+189,3,06:01,33,56,CEA,RD,Felipe
+190,3,06:06,33,56,PIN,2_Pts_T,T Faria
+191,3,06:12,33,56,PIN,BR,Gabriel
+192,3,06:12,33,56,CEA,ER,Holloway
+193,3,06:26,33,56,PIN,2_Pts_C,Jamison
+194,3,06:40,31,56,CEA,2_Pts_C,Felipe
+195,3,06:43,31,54,CEA,RO,Felipe
+196,3,06:49,31,54,CEA,2_Pts_T,Holloway
+197,3,06:50,31,54,CEA,RO,Holloway
+198,3,06:55,31,54,CEA,3_Pts_T,Schneider
+199,3,07:11,31,54,PIN,LL_Pts_C,Jamison
+200,3,07:11,30,54,PIN,LL_Pts_T,Jamison
+201,3,07:11,30,54,PIN,FR,Jamison
+202,3,07:11,30,54,CEA,FC,Schneider
+203,3,07:19,30,54,CEA,AS,Felipe
+204,3,07:19,30,54,CEA,2_Pts_C,Schneider
+205,3,07:21,30,52,CEA,RD,Felipe
+206,3,07:30,30,52,CEA,TO,Mathias
+207,3,07:30,30,52,PIN,2_Pts_T,M Douglas
+208,3,07:50,30,52,CEA,AS,Brite
+209,3,07:50,30,52,CEA,3_Pts_C,Schneider
+210,3,08:00,30,49,CEA,RD,Brite
+211,3,08:04,30,49,PIN,3_Pts_T,Gabriel
+212,3,08:08,30,49,PIN,RD,D Souza
+213,3,08:09,30,49,CEA,2_Pts_T,Mathias
+214,3,08:09,30,49,CEA,RO,Mathias
+215,3,08:15,30,49,CEA,2_Pts_T,Felipe
+216,3,08:30,30,49,PIN,ER,Gabriel
+217,3,08:42,30,49,CEA,AS,Brite
+218,3,08:42,30,49,CEA,3_Pts_C,Felipe
+219,3,08:55,30,46,PIN,ER,Gabriel
+220,3,09:04,30,46,CEA,3_Pts_C,Brite
+221,3,09:26,30,43,PIN,LL_Pts_C,Gabriel
+222,3,09:26,29,43,PIN,LL_Pts_C,Gabriel
+223,3,09:26,28,43,PIN,FR,Gabriel
+224,3,09:26,28,43,CEA,FC,Felipe
+225,3,09:51,28,43,CEA,2_Pts_C,Mathias
+226,3,10:00,28,41,,inicio_quarto,
+227,2,00:00,28,41,,fim_quarto,
+228,2,00:08,28,41,CEA,RD,Felipe
+229,2,00:12,28,41,PIN,3_Pts_T,Gabriel
+230,2,00:35,28,41,CEA,AS,Brite
+231,2,00:35,28,41,CEA,2_Pts_C,Sualisson
+232,2,00:45,28,39,CEA,RD,Felipe
+233,2,00:45,28,39,PIN,LL_Pts_T,Capela
+234,2,00:45,28,39,PIN,LL_Pts_T,Capela
+235,2,00:45,28,39,PIN,FR,Capela
+236,2,00:45,28,39,CEA,FC,Brite
+237,2,01:01,28,39,PIN,RD,
+238,2,01:01,28,39,CEA,LL_Pts_T,Felipe
+239,2,01:01,28,39,CEA,substituicao_entra,Sualisson
+240,2,01:01,28,39,CEA,substituicao_entra,Brite
+241,2,01:01,28,39,CEA,substituicao_sai,Mathias
+242,2,01:01,28,39,CEA,substituicao_sai,Holloway
+243,2,01:01,28,39,CEA,FR,Felipe
+244,2,01:01,28,39,PIN,FC,D Souza
+245,2,01:01,28,39,CEA,2_Pts_C,Felipe
+246,2,01:21,28,37,PIN,AS,Gabriel
+247,2,01:21,28,37,PIN,3_Pts_C,D Souza
+248,2,01:28,25,37,PIN,RD,Gabriel
+249,2,01:32,25,37,CEA,3_Pts_T,Mathias
+250,2,01:43,25,37,CEA,RD,Schneider
+251,2,01:50,25,37,PIN,3_Pts_T,Gabriel
+252,2,01:54,25,37,PIN,RD,T Faria
+253,2,01:58,25,37,CEA,2_Pts_T,Holloway
+254,2,02:07,25,37,CEA,RD,Felipe
+255,2,02:10,25,37,PIN,2_Pts_T,D Souza
+256,2,02:23,25,37,CEA,3_Pts_C,Schneider
+257,2,02:39,25,34,PIN,LL_Pts_C,T Faria
+258,2,02:39,24,34,PIN,LL_Pts_C,T Faria
+259,2,02:39,23,34,PIN,AS,Gabriel
+260,2,02:39,23,34,PIN,LL_Pts_C,T Faria
+261,2,02:39,22,34,PIN,FR,T Faria
+262,2,02:39,22,34,CEA,FC,Lassance
+263,2,03:13,22,34,CEA,AS,Felipe
+264,2,03:13,22,34,CEA,3_Pts_C,Lassance
+265,2,03:31,22,31,PIN,LL_Pts_C,D Souza
+266,2,03:31,21,31,PIN,LL_Pts_T,D Souza
+267,2,03:31,21,31,PIN,FR,D Souza
+268,2,03:31,21,31,CEA,FC,Mathias
+269,2,03:31,21,31,CEA,substituicao_entra,Mathias
+270,2,03:31,21,31,CEA,substituicao_sai,Sualisson
+271,2,03:32,21,31,PIN,RO,D Souza
+272,2,03:32,21,31,PIN,LL_Pts_T,Capela
+273,2,03:32,21,31,PIN,LL_Pts_T,Capela
+274,2,03:32,21,31,PIN,substituicao_entra,D Souza
+275,2,03:32,21,31,PIN,substituicao_entra,Gabriel
+276,2,03:32,21,31,PIN,substituicao_sai,M Douglas
+277,2,03:32,21,31,PIN,substituicao_sai,Jamison
+278,2,03:32,21,31,PIN,FR,Capela
+279,2,03:32,21,31,CEA,FC,Lassance
+280,2,03:43,21,31,PIN,BR,
+281,2,03:43,21,31,CEA,ER,Sualisson
+282,2,04:08,21,31,PIN,2_Pts_C,Jamison
+283,2,04:23,19,31,PIN,RD,
+284,2,04:27,19,31,CEA,3_Pts_T,Holloway
+285,2,04:46,19,31,PIN,2_Pts_C,M Douglas
+286,2,04:46,17,31,PIN,RO,M Douglas
+287,2,04:52,17,31,PIN,2_Pts_T,Capela
+288,2,04:59,17,31,PIN,BR,Capela
+289,2,04:59,17,31,CEA,ER,Holloway
+290,2,05:01,17,31,CEA,RO,Sualisson
+291,2,05:04,17,31,CEA,3_Pts_T,Schneider
+292,2,05:14,17,31,CEA,substituicao_entra,Lassance
+293,2,05:14,17,31,CEA,substituicao_entra,Schneider
+294,2,05:14,17,31,CEA,substituicao_sai,Rashaun
+295,2,05:14,17,31,CEA,substituicao_sai,Brite
+296,2,05:14,17,31,PIN,ER,
+297,2,05:45,17,31,CEA,2_Pts_C,Holloway
+298,2,05:48,17,29,CEA,RD,Holloway
+299,2,05:52,17,29,PIN,2_Pts_T,Jamison
+300,2,06:06,17,29,PIN,RD,Jamison
+301,2,06:11,17,29,CEA,3_Pts_T,Holloway
+302,2,06:21,17,29,CEA,BR,Brite
+303,2,06:21,17,29,PIN,ER,Jamison
+304,2,06:42,17,29,PIN,RD,Jamison
+305,2,06:45,17,29,CEA,3_Pts_T,Sualisson
+306,2,06:50,17,29,CEA,RD,Sualisson
+307,2,06:54,17,29,PIN,2_Pts_T,Jamison
+308,2,07:12,17,29,PIN,substituicao_entra,
+309,2,07:12,17,29,PIN,substituicao_sai,Gabriel
+310,2,07:12,17,29,PIN,substituicao_entra,Capela
+311,2,07:12,17,29,PIN,substituicao_sai,D Souza
+312,2,07:12,17,29,CEA,LL_Pts_C,Brite
+313,2,07:12,17,28,CEA,substituicao_entra,Holloway
+314,2,07:12,17,28,CEA,substituicao_sai,Gabriel
+315,2,07:12,17,28,CEA,LL_Pts_T,Brite
+316,2,07:12,17,28,CEA,FR,Brite
+317,2,07:12,17,28,PIN,FC,T Faria
+318,2,07:16,17,28,PIN,substituicao_entra,D Souza
+319,2,07:16,17,28,PIN,substituicao_sai,Capela
+320,2,07:16,17,28,CEA,RD,Felipe
+321,2,07:20,17,28,PIN,3_Pts_T,T Faria
+322,2,07:32,17,28,PIN,RD,Gabriel
+323,2,07:36,17,28,CEA,2_Pts_T,Brite
+324,2,07:37,17,28,CEA,RD,Felipe
+325,2,07:43,17,28,PIN,2_Pts_T,T Faria
+326,2,07:48,17,28,PIN,BR,T Faria
+327,2,07:48,17,28,CEA,ER,Brite
+328,2,07:50,17,28,CEA,RD,Brite
+329,2,08:00,17,28,CEA,TO,Felipe
+330,2,08:00,17,28,PIN,2_Pts_T,T Faria
+331,2,08:10,17,28,PIN,RD,D Souza
+332,2,08:15,17,28,CEA,2_Pts_T,Gabriel
+333,2,08:20,17,28,CEA,BR,Gabriel
+334,2,08:20,17,28,PIN,ER,Gabriel
+335,2,08:33,17,28,CEA,ER,
+336,2,08:33,17,28,CEA,3_Pts_T,Gabriel
+337,2,08:45,17,28,CEA,RO,Rashaun
+338,2,08:50,17,28,CEA,3_Pts_T,Felipe
+339,2,08:56,17,28,CEA,RD,Sualisson
+340,2,09:00,17,28,PIN,2_Pts_T,M Douglas
+341,2,09:07,17,28,PIN,RD,T Faria
+342,2,09:10,17,28,CEA,3_Pts_T,Rashaun
+343,2,09:13,17,28,CEA,RO,Gabriel
+344,2,09:16,17,28,CEA,3_Pts_T,Gabriel
+345,2,09:24,17,28,CEA,RD,Felipe
+346,2,09:28,17,28,PIN,2_Pts_T,M Douglas
+347,2,09:29,17,28,PIN,RO,M Douglas
+348,2,09:33,17,28,PIN,2_Pts_T,D Souza
+349,2,09:34,17,28,PIN,RO,D Souza
+350,2,09:38,17,28,PIN,2_Pts_T,Jamison
+351,2,10:00,17,28,,inicio_quarto,
+352,1,00:00,17,28,,fim_quarto,
+353,1,00:01,17,28,CEA,3_Pts_T,Rashaun
+354,1,00:04,17,28,PIN,2_Pts_C,T Faria
+355,1,00:23,15,28,CEA,2_Pts_C,Brite
+356,1,00:25,15,26,CEA,RD,Brite
+357,1,00:29,15,26,PIN,3_Pts_T,Gabriel
+358,1,00:36,15,26,PIN,RD,M Douglas
+359,1,00:41,15,26,CEA,2_Pts_T,Sualisson
+360,1,01:00,15,26,PIN,AS,Gabriel
+361,1,01:00,15,26,PIN,3_Pts_C,T Faria
+362,1,01:11,12,26,CEA,AS,Lassance
+363,1,01:11,12,26,CEA,2_Pts_C,Mathias
+364,1,01:26,12,24,PIN,2_Pts_C,Gabriel
+365,1,01:29,10,24,PIN,RD,Gabriel
+366,1,01:39,10,24,PIN,TO,D Souza
+367,1,01:39,10,24,CEA,2_Pts_T,Mathias
+368,1,02:00,10,24,CEA,substituicao_entra,Brite
+369,1,02:00,10,24,CEA,substituicao_sai,Schneider
+370,1,02:00,10,24,CEA,FR,Mathias
+371,1,02:00,10,24,PIN,ER,D Souza
+372,1,02:00,10,24,PIN,FC_O,D Souza
+373,1,02:09,10,24,CEA,2_Pts_C,Mathias
+374,1,02:25,10,22,PIN,AS,D Souza
+375,1,02:25,10,22,PIN,3_Pts_C,Gabriel
+376,1,02:33,7,22,CEA,substituicao_entra,Rashaun
+377,1,02:33,7,22,CEA,substituicao_sai,Holloway
+378,1,02:46,7,22,CEA,AS,Mathias
+379,1,02:46,7,22,CEA,3_Pts_C,Lassance
+380,1,02:59,7,19,CEA,BR,Mathias
+381,1,02:59,7,19,PIN,ER,Gabriel
+382,1,03:00,7,19,PIN,RD,Gabriel
+383,1,03:04,7,19,CEA,3_Pts_T,Schneider
+384,1,03:15,7,19,PIN,AS,Jamison
+385,1,03:15,7,19,PIN,2_Pts_C,D Souza
+386,1,03:27,5,19,PIN,RD,M Douglas
+387,1,03:27,5,19,CEA,LL_Pts_T,Holloway
+388,1,03:27,5,19,CEA,FR,Holloway
+389,1,03:27,5,19,PIN,FC,T Faria
+390,1,03:27,5,19,CEA,AS,Schneider
+391,1,03:27,5,19,CEA,2_Pts_C,Holloway
+392,1,03:33,5,17,CEA,BR,Schneider
+393,1,03:33,5,17,PIN,ER,Jamison
+394,1,03:39,5,17,PIN,substituicao_entra,T Faria
+395,1,03:39,5,17,PIN,substituicao_sai,Capela
+396,1,03:39,5,17,PIN,tempo_tecnico,Pinheiros
+397,1,03:40,5,17,CEA,AS,Holloway
+398,1,03:40,5,17,CEA,3_Pts_C,Schneider
+399,1,03:49,5,14,CEA,RD,Mathias
+400,1,03:52,5,14,PIN,3_Pts_T,Jamison
+401,1,04:11,5,14,CEA,AS,Lassance
+402,1,04:11,5,14,CEA,2_Pts_C,Holloway
+403,1,04:14,5,12,CEA,FR,Holloway
+404,1,04:14,5,12,PIN,FC,Capela
+405,1,04:19,5,12,CEA,RD,Sualisson
+406,1,04:23,5,12,PIN,3_Pts_T,D Souza
+407,1,04:27,5,12,PIN,FR,Jamison
+408,1,04:27,5,12,CEA,FC,Schneider
+409,1,04:43,5,12,CEA,3_Pts_C,Schneider
+410,1,04:55,5,9,CEA,substituicao_entra,Lassance
+411,1,04:55,5,9,CEA,substituicao_entra,Sualisson
+412,1,04:55,5,9,CEA,substituicao_sai,Felipe
+413,1,04:55,5,9,CEA,substituicao_sai,Brite
+414,1,04:55,5,9,CEA,RD,Fortaleza Basquete Cearense
+415,1,04:58,5,9,PIN,3_Pts_T,Gabriel
+416,1,05:09,5,9,PIN,RD,M Douglas
+417,1,05:14,5,9,CEA,3_Pts_T,Holloway
+418,1,05:17,5,9,CEA,RO,Mathias
+419,1,05:22,5,9,CEA,3_Pts_T,Brite
+420,1,05:34,5,9,CEA,RD,Felipe
+421,1,05:39,5,9,PIN,2_Pts_T,Capela
+422,1,05:45,5,9,PIN,RD,Jamison
+423,1,05:48,5,9,CEA,2_Pts_T,Holloway
+424,1,06:02,5,9,PIN,2_Pts_C,Capela
+425,1,06:12,3,9,PIN,RD,Pinheiros
+426,1,06:12,3,9,CEA,2_Pts_T,Felipe
+427,1,06:20,3,9,CEA,RD,Mathias
+428,1,06:25,3,9,PIN,2_Pts_T,Jamison
+429,1,06:26,3,9,PIN,RO,Jamison
+430,1,06:30,3,9,PIN,3_Pts_T,Gabriel
+431,1,06:35,3,9,PIN,RD,D Souza
+432,1,06:40,3,9,CEA,3_Pts_T,Schneider
+433,1,06:51,3,9,CEA,RD,Mathias
+434,1,06:55,3,9,PIN,3_Pts_T,Jamison
+435,1,07:16,3,9,CEA,3_Pts_C,Holloway
+436,1,07:27,3,6,CEA,RD,Mathias
+437,1,07:33,3,6,PIN,2_Pts_T,Jamison
+438,1,07:50,3,6,CEA,AS,Holloway
+439,1,07:50,3,6,CEA,3_Pts_C,Schneider
+440,1,08:11,3,3,PIN,3_Pts_C,Gabriel
+441,1,08:37,0,3,CEA,3_Pts_C,Holloway
+442,1,08:50,0,0,CEA,FR,Mathias
+443,1,08:50,0,0,PIN,FC,Jamison
+444,1,08:58,0,0,CEA,RD,Holloway
+445,1,09:03,0,0,PIN,3_Pts_T,D Souza
+446,1,09:07,0,0,PIN,FR,Capela
+447,1,09:07,0,0,CEA,FC,Holloway
+448,1,09:15,0,0,PIN,RD,M Douglas
+449,1,09:20,0,0,CEA,2_Pts_T,Felipe
+450,1,09:25,0,0,CEA,RD,Brite
+451,1,09:29,0,0,PIN,3_Pts_T,M Douglas
+452,1,09:31,0,0,PIN,RO,M Douglas
+453,1,09:35,0,0,PIN,2_Pts_T,M Douglas
+454,1,09:39,0,0,PIN,RD,Gabriel
+455,1,09:44,0,0,CEA,3_Pts_T,Brite
+456,1,10:00,0,0,CEA,substituicao_entra,Felipe
+457,1,10:00,0,0,CEA,substituicao_entra,Schneider
+458,1,10:00,0,0,CEA,substituicao_entra,Mathias
+459,1,10:00,0,0,CEA,substituicao_entra,Brite
+460,1,10:00,0,0,CEA,substituicao_entra,Holloway
+461,1,10:00,0,0,PIN,substituicao_entra,M Douglas
+462,1,10:00,0,0,PIN,substituicao_entra,D Souza
+463,1,10:00,0,0,PIN,substituicao_entra,Jamison
+464,1,10:00,0,0,PIN,substituicao_entra,Capela
+465,1,10:00,0,0,PIN,substituicao_entra,Gabriel
+466,1,10:00,0,0,,inicio_partida,

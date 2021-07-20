@@ -1,0 +1,512 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,68,71,,fim_partida,
+1,4,00:00,68,71,,fim_quarto,
+2,4,00:00,68,71,PAT,RD,Matheusinho
+3,4,00:02,68,71,CEA,3_Pts_T,Schneider
+4,4,00:02,68,71,PAT,substituicao_entra,Funches III
+5,4,00:02,68,71,PAT,substituicao_sai,Leal
+6,4,00:02,68,71,CEA,tempo_tecnico,Fortaleza Basquete Cearense
+7,4,00:02,68,71,PAT,LL_Pts_C,I Thornton
+8,4,00:02,68,70,PAT,LL_Pts_C,I Thornton
+9,4,00:02,68,69,PAT,substituicao_entra,Leal
+10,4,00:02,68,69,PAT,substituicao_sai,Augusto
+11,4,00:02,68,69,CEA,substituicao_entra,Brite
+12,4,00:02,68,69,CEA,substituicao_sai,Mathias
+13,4,00:02,68,69,CEA,substituicao_entra,Mathias
+14,4,00:02,68,69,CEA,substituicao_sai,Brite
+15,4,00:02,68,69,CEA,tempo_tecnico,Fortaleza Basquete Cearense
+16,4,00:02,68,69,PAT,FR,I Thornton
+17,4,00:02,68,69,CEA,FC,Holloway
+18,4,00:05,68,69,PAT,substituicao_entra,Augusto
+19,4,00:05,68,69,PAT,substituicao_sai,Leal
+20,4,00:05,68,69,CEA,substituicao_entra,Brite
+21,4,00:05,68,69,CEA,substituicao_sai,Mathias
+22,4,00:05,68,69,PAT,tempo_tecnico,Pato Basquete
+23,4,00:05,68,69,CEA,ER,Holloway
+24,4,00:20,68,69,CEA,RD,Mathias
+25,4,00:20,68,69,PAT,LL_Pts_T,Matheusinho
+26,4,00:20,68,69,PAT,LL_Pts_C,Matheusinho
+27,4,00:20,68,68,PAT,FR,Matheusinho
+28,4,00:20,68,68,CEA,FC,Schneider
+29,4,00:23,68,68,PAT,tempo_tecnico,Pato Basquete
+30,4,00:23,68,68,PAT,FR,Lucas
+31,4,00:23,68,68,CEA,FC,Holloway
+32,4,00:23,68,68,PAT,RO,Pato Basquete
+33,4,00:27,68,68,PAT,2_Pts_T,Lucas
+34,4,00:35,68,68,PAT,RO,Lucas
+35,4,00:38,68,68,PAT,2_Pts_T,I Thornton
+36,4,00:59,68,68,PAT,RD,I Thornton
+37,4,00:59,68,68,CEA,LL_Pts_T,Sualisson
+38,4,01:00,68,68,CEA,LL_Pts_T,Sualisson
+39,4,01:00,68,68,CEA,FR,Sualisson
+40,4,01:00,68,68,PAT,FC,Scheuer
+41,4,01:01,68,68,CEA,RO,Sualisson
+42,4,01:03,68,68,CEA,2_Pts_T,Holloway
+43,4,01:14,68,68,CEA,RO,Sualisson
+44,4,01:18,68,68,CEA,3_Pts_T,Schneider
+45,4,01:30,68,68,PAT,LL_Pts_C,I Thornton
+46,4,01:30,68,67,PAT,LL_Pts_T,I Thornton
+47,4,01:30,68,67,PAT,FR,I Thornton
+48,4,01:30,68,67,CEA,FC,Schneider
+49,4,01:47,68,67,CEA,2_Pts_C,Sualisson
+50,4,01:47,66,67,CEA,RO,Sualisson
+51,4,01:50,66,67,CEA,3_Pts_T,Cauê
+52,4,02:02,66,67,CEA,LL_Pts_C,Schneider
+53,4,02:02,65,67,CEA,LL_Pts_C,Schneider
+54,4,02:02,64,67,CEA,FR,Schneider
+55,4,02:02,64,67,PAT,FC_A,Leal
+56,4,02:02,64,67,CEA,RD,Schneider
+57,4,02:04,64,67,CEA,TO,Sualisson
+58,4,02:04,64,67,PAT,2_Pts_T,Scheuer
+59,4,02:18,64,67,PAT,RD,Matheusinho
+60,4,02:21,64,67,CEA,3_Pts_T,Mathias
+61,4,02:42,64,67,CEA,RD,Mathias
+62,4,02:45,64,67,PAT,2_Pts_T,I Thornton
+63,4,03:01,64,67,PAT,substituicao_entra,Leal
+64,4,03:01,64,67,PAT,substituicao_sai,Funches III
+65,4,03:01,64,67,PAT,FR,Lucas
+66,4,03:01,64,67,CEA,FC,Cauê
+67,4,03:19,64,67,CEA,2_Pts_C,Cauê
+68,4,03:38,62,67,PAT,3_Pts_C,Lucas
+69,4,03:56,62,64,CEA,AS,Cauê
+70,4,03:56,62,64,CEA,2_Pts_C,Mathias
+71,4,04:07,60,64,CEA,BR,Schneider
+72,4,04:07,60,64,PAT,ER,I Thornton
+73,4,04:09,60,64,PAT,RO,I Thornton
+74,4,04:12,60,64,PAT,2_Pts_T,Matheusinho
+75,4,04:25,60,64,CEA,substituicao_entra,Mathias
+76,4,04:25,60,64,CEA,substituicao_sai,Rashaun
+77,4,04:25,60,64,PAT,FR,Funches III
+78,4,04:25,60,64,CEA,FC,Cauê
+79,4,04:38,60,64,PAT,RD,Funches III
+80,4,04:41,60,64,CEA,2_Pts_T,Rashaun
+81,4,04:56,60,64,PAT,AS,I Thornton
+82,4,04:56,60,64,PAT,2_Pts_C,Scheuer
+83,4,05:02,60,62,PAT,BR,Matheusinho
+84,4,05:02,60,62,CEA,ER,Sualisson
+85,4,05:03,60,62,CEA,RO,Sualisson
+86,4,05:06,60,62,CEA,3_Pts_T,Schneider
+87,4,05:21,60,62,CEA,substituicao_entra,Cauê
+88,4,05:21,60,62,CEA,substituicao_sai,Brite
+89,4,05:21,60,62,PAT,ER,Matheusinho
+90,4,05:38,60,62,PAT,RD,Matheusinho
+91,4,05:41,60,62,CEA,3_Pts_T,Rashaun
+92,4,05:55,60,62,CEA,FR,Brite
+93,4,05:55,60,62,PAT,FC,Lucas
+94,4,06:09,60,62,CEA,substituicao_entra,Schneider
+95,4,06:09,60,62,CEA,substituicao_sai,Alex
+96,4,06:09,60,62,PAT,substituicao_entra,Scheuer
+97,4,06:09,60,62,PAT,substituicao_entra,Matheusinho
+98,4,06:09,60,62,PAT,substituicao_sai,Aquiles
+99,4,06:09,60,62,PAT,substituicao_sai,Rodrigues
+100,4,06:09,60,62,PAT,ER,Lucas
+101,4,06:18,60,62,PAT,RD,Lucas
+102,4,06:19,60,62,CEA,2_Pts_T,Alex
+103,4,06:19,60,62,CEA,RO,Alex
+104,4,06:22,60,62,CEA,2_Pts_T,Holloway
+105,4,06:36,60,62,CEA,substituicao_entra,Alex
+106,4,06:36,60,62,CEA,substituicao_sai,Mathias
+107,4,06:39,60,62,PAT,ER,
+108,4,06:58,60,62,PAT,RD,Aquiles
+109,4,07:01,60,62,CEA,3_Pts_T,Brite
+110,4,07:22,60,62,CEA,RD,Mathias
+111,4,07:24,60,62,PAT,3_Pts_T,Aquiles
+112,4,07:28,60,62,PAT,RD,Funches III
+113,4,07:28,60,62,CEA,2_Pts_T,Rashaun
+114,4,08:07,60,62,PAT,3_Pts_C,I Thornton
+115,4,08:07,60,59,PAT,RD,Funches III
+116,4,08:07,60,59,CEA,3_Pts_T,Holloway
+117,4,08:07,60,59,CEA,FR,Rashaun
+118,4,08:07,60,59,PAT,FC,Aquiles
+119,4,08:10,60,59,CEA,RD,Mathias
+120,4,08:12,60,59,PAT,3_Pts_T,Lucas
+121,4,08:13,60,59,PAT,RO,Rodrigues
+122,4,08:15,60,59,PAT,3_Pts_T,I Thornton
+123,4,08:19,60,59,PAT,BR,Lucas
+124,4,08:19,60,59,CEA,ER,Brite
+125,4,08:48,60,59,PAT,AS,Aquiles
+126,4,08:48,60,59,PAT,2_Pts_C,Rodrigues
+127,4,08:51,60,57,PAT,RO,Aquiles
+128,4,08:54,60,57,PAT,2_Pts_T,Lucas
+129,4,09:12,60,57,PAT,RD,Pato Basquete
+130,4,09:15,60,57,CEA,3_Pts_T,Holloway
+131,4,09:40,60,57,CEA,FR,Rashaun
+132,4,09:40,60,57,PAT,ER,Funches III
+133,4,09:40,60,57,PAT,FC_O,Funches III
+134,4,09:49,60,57,CEA,2_Pts_C,Mathias
+135,4,09:51,58,57,CEA,FR,Rashaun
+136,4,09:51,58,57,PAT,FC,I Thornton
+137,4,09:52,58,57,PAT,substituicao_entra,Funches III
+138,4,09:52,58,57,PAT,substituicao_entra,I Thornton
+139,4,09:52,58,57,PAT,substituicao_sai,Matheusinho
+140,4,09:52,58,57,PAT,substituicao_sai,Derick
+141,4,09:52,58,57,CEA,substituicao_entra,Rashaun
+142,4,09:52,58,57,CEA,substituicao_entra,Brite
+143,4,09:52,58,57,CEA,substituicao_sai,Alex
+144,4,09:52,58,57,CEA,substituicao_sai,Cauê
+145,4,10:00,58,57,,inicio_quarto,
+146,3,00:00,58,57,,fim_quarto,
+147,3,00:01,58,57,CEA,3_Pts_T,Alex
+148,3,00:04,58,57,PAT,substituicao_entra,Derick
+149,3,00:04,58,57,PAT,substituicao_sai,Scheuer
+150,3,00:04,58,57,PAT,LL_Pts_C,Matheusinho
+151,3,00:04,58,56,PAT,LL_Pts_T,Matheusinho
+152,3,00:04,58,56,PAT,FR,Matheusinho
+153,3,00:04,58,56,CEA,FC,Holloway
+154,3,00:25,58,56,CEA,AS,Cauê
+155,3,00:25,58,56,CEA,2_Pts_C,Sualisson
+156,3,00:28,56,56,CEA,RD,Mathias
+157,3,00:31,56,56,PAT,3_Pts_T,Scheuer
+158,3,00:43,56,56,CEA,3_Pts_C,Holloway
+159,3,01:02,53,56,PAT,AS,Matheusinho
+160,3,01:02,53,56,PAT,2_Pts_C,Rodrigues
+161,3,01:29,53,54,PAT,RD,Scheuer
+162,3,01:29,53,54,CEA,LL_Pts_T,Holloway
+163,3,01:29,53,54,CEA,LL_Pts_T,Holloway
+164,3,01:29,53,54,CEA,FR,Holloway
+165,3,01:29,53,54,PAT,FC,Matheusinho
+166,3,01:29,53,54,CEA,RO,Holloway
+167,3,01:29,53,54,CEA,2_Pts_T,Holloway
+168,3,01:46,53,54,PAT,substituicao_entra,Aquiles
+169,3,01:46,53,54,PAT,substituicao_sai,Augusto
+170,3,01:46,53,54,PAT,substituicao_entra,Rodrigues
+171,3,01:46,53,54,PAT,substituicao_entra,Lucas
+172,3,01:46,53,54,PAT,substituicao_sai,Leal
+173,3,01:46,53,54,PAT,substituicao_sai,I Thornton
+174,3,01:46,53,54,PAT,LL_Pts_C,I Thornton
+175,3,01:46,53,53,PAT,LL_Pts_T,I Thornton
+176,3,01:46,53,53,PAT,FR,I Thornton
+177,3,01:46,53,53,CEA,FC,Cauê
+178,3,02:06,53,53,PAT,RD,Scheuer
+179,3,02:06,53,53,CEA,LL_Pts_T,Alex
+180,3,02:06,53,53,CEA,LL_Pts_C,Alex
+181,3,02:06,52,53,CEA,FR,Alex
+182,3,02:06,52,53,PAT,FC,Leal
+183,3,02:19,52,53,CEA,RD,Mathias
+184,3,02:22,52,53,PAT,2_Pts_T,Augusto
+185,3,02:41,52,53,PAT,RD,I Thornton
+186,3,02:44,52,53,CEA,2_Pts_T,Holloway
+187,3,02:58,52,53,PAT,LL_Pts_C,Leal
+188,3,03:04,52,52,PAT,FR,Leal
+189,3,03:04,52,52,CEA,FC,Sualisson
+190,3,03:08,52,52,PAT,3_Pts_C,Leal
+191,3,03:16,52,49,PAT,BR,Augusto
+192,3,03:16,52,49,CEA,ER,Holloway
+193,3,03:20,52,49,CEA,BR,Holloway
+194,3,03:20,52,49,PAT,ER,Matheusinho
+195,3,03:39,52,49,PAT,RD,I Thornton
+196,3,03:41,52,49,CEA,3_Pts_T,Alex
+197,3,03:46,52,49,PAT,LL_Pts_C,I Thornton
+198,3,03:52,52,48,CEA,RD,Mathias
+199,3,03:52,52,48,PAT,LL_Pts_T,I Thornton
+200,3,04:08,52,48,PAT,FR,I Thornton
+201,3,04:08,52,48,CEA,FC,Holloway
+202,3,04:09,52,48,PAT,RD,I Thornton
+203,3,04:13,52,48,CEA,2_Pts_T,Cauê
+204,3,04:15,52,48,CEA,substituicao_entra,Alex
+205,3,04:15,52,48,CEA,substituicao_entra,Cauê
+206,3,04:15,52,48,CEA,substituicao_sai,Schneider
+207,3,04:15,52,48,CEA,substituicao_sai,Brite
+208,3,04:22,52,48,CEA,tempo_tecnico,Fortaleza Basquete Cearense
+209,3,04:22,52,48,PAT,AS,Matheusinho
+210,3,04:22,52,48,PAT,3_Pts_C,I Thornton
+211,3,04:29,52,45,PAT,BR,Matheusinho
+212,3,04:29,52,45,CEA,ER,Schneider
+213,3,04:51,52,45,CEA,RD,Fortaleza Basquete Cearense
+214,3,04:53,52,45,PAT,3_Pts_T,Matheusinho
+215,3,04:55,52,45,CEA,substituicao_entra,Schneider
+216,3,04:55,52,45,CEA,substituicao_sai,Rashaun
+217,3,04:55,52,45,PAT,FR,I Thornton
+218,3,04:55,52,45,CEA,FC,Rashaun
+219,3,05:02,52,45,PAT,RD,Pato Basquete
+220,3,05:02,52,45,CEA,3_Pts_T,Rashaun
+221,3,05:23,52,45,PAT,AS,Leal
+222,3,05:23,52,45,PAT,2_Pts_C,Augusto
+223,3,05:34,52,43,CEA,AS,Brite
+224,3,05:34,52,43,CEA,3_Pts_C,Holloway
+225,3,05:38,49,43,CEA,RO,Mathias
+226,3,05:41,49,43,CEA,3_Pts_T,Rashaun
+227,3,06:03,49,43,PAT,3_Pts_C,Matheusinho
+228,3,06:12,49,40,PAT,FR,I Thornton
+229,3,06:12,49,40,CEA,FC,Mathias
+230,3,06:22,49,40,PAT,FR,I Thornton
+231,3,06:22,49,40,CEA,FC,Rashaun
+232,3,06:22,49,40,PAT,RD,Leal
+233,3,06:25,49,40,CEA,3_Pts_T,Rashaun
+234,3,06:43,49,40,PAT,AS,Matheusinho
+235,3,06:43,49,40,PAT,2_Pts_C,I Thornton
+236,3,06:57,49,38,PAT,RD,Matheusinho
+237,3,06:59,49,38,CEA,3_Pts_T,Brite
+238,3,07:19,49,38,PAT,AS,I Thornton
+239,3,07:19,49,38,PAT,EN,Leal
+240,3,07:35,49,36,CEA,AS,Rashaun
+241,3,07:35,49,36,CEA,2_Pts_C,Mathias
+242,3,07:42,47,36,CEA,RD,Sualisson
+243,3,07:45,47,36,PAT,3_Pts_T,I Thornton
+244,3,07:59,47,36,PAT,RO,Pato Basquete
+245,3,07:59,47,36,CEA,TO,Holloway
+246,3,07:59,47,36,PAT,2_Pts_T,Matheusinho
+247,3,08:02,47,36,PAT,RD,Leal
+248,3,08:04,47,36,CEA,2_Pts_T,Holloway
+249,3,08:07,47,36,CEA,BR,Brite
+250,3,08:07,47,36,PAT,ER,Scheuer
+251,3,08:16,47,36,CEA,2_Pts_C,Brite
+252,3,08:34,45,36,PAT,LL_Pts_C,Scheuer
+253,3,08:34,45,35,PAT,LL_Pts_C,Scheuer
+254,3,08:34,45,34,PAT,FR,Scheuer
+255,3,08:34,45,34,CEA,FC,Sualisson
+256,3,08:50,45,34,CEA,AS,Holloway
+257,3,08:50,45,34,CEA,2_Pts_C,Sualisson
+258,3,09:05,43,34,CEA,LL_Pts_C,Holloway
+259,3,09:05,42,34,PAT,FC_T,Augusto
+260,3,09:05,42,34,CEA,RD,Fortaleza Basquete Cearense
+261,3,09:05,42,34,PAT,2_Pts_T,Matheusinho
+262,3,09:05,42,34,PAT,RO,Matheusinho
+263,3,09:06,42,34,PAT,2_Pts_T,I Thornton
+264,3,09:14,42,34,PAT,BR,Matheusinho
+265,3,09:14,42,34,CEA,ER,Brite
+266,3,09:19,42,34,CEA,RO,Sualisson
+267,3,09:19,42,34,CEA,2_Pts_T,Mathias
+268,3,09:19,42,34,CEA,RO,Mathias
+269,3,09:22,42,34,CEA,2_Pts_T,Holloway
+270,3,09:27,42,34,CEA,RO,Sualisson
+271,3,09:30,42,34,CEA,3_Pts_T,Sualisson
+272,3,09:47,42,34,PAT,AS,Matheusinho
+273,3,09:47,42,34,PAT,EN,Leal
+274,3,10:00,42,32,,inicio_quarto,
+275,2,00:00,42,32,,fim_quarto,
+276,2,00:00,42,32,CEA,2_Pts_C,Rashaun
+277,2,00:20,40,32,PAT,2_Pts_C,Matheusinho
+278,2,00:32,40,30,PAT,substituicao_entra,Augusto
+279,2,00:32,40,30,PAT,substituicao_sai,Derick
+280,2,00:49,40,30,CEA,AS,Holloway
+281,2,00:49,40,30,CEA,2_Pts_C,Cauê
+282,2,00:54,38,30,CEA,RD,Cauê
+283,2,00:56,38,30,PAT,2_Pts_T,Matheusinho
+284,2,01:12,38,30,PAT,RD,Scheuer
+285,2,01:16,38,30,CEA,2_Pts_T,Mathias
+286,2,01:34,38,30,PAT,AS,Matheusinho
+287,2,01:34,38,30,PAT,3_Pts_C,Aquiles
+288,2,01:35,38,27,CEA,2_Pts_C,Holloway
+289,2,01:44,36,27,CEA,substituicao_entra,Rashaun
+290,2,01:44,36,27,CEA,substituicao_sai,Brite
+291,2,02:09,36,27,PAT,2_Pts_C,Matheusinho
+292,2,02:22,36,25,CEA,LL_Pts_C,Brite
+293,2,02:22,35,25,CEA,LL_Pts_C,Brite
+294,2,02:22,34,25,PAT,substituicao_entra,I Thornton
+295,2,02:22,34,25,PAT,substituicao_sai,Lucas
+296,2,02:22,34,25,CEA,FR,Brite
+297,2,02:22,34,25,PAT,FC,Scheuer
+298,2,02:27,34,25,CEA,FR,Cauê
+299,2,02:27,34,25,PAT,FC,Aquiles
+300,2,02:32,34,25,CEA,RD,Mathias
+301,2,02:35,34,25,PAT,3_Pts_T,Aquiles
+302,2,02:51,34,25,PAT,RD,Aquiles
+303,2,02:54,34,25,CEA,2_Pts_T,Alex
+304,2,03:21,34,25,PAT,2_Pts_C,Derick
+305,2,03:40,34,23,PAT,tempo_tecnico,Pato Basquete
+306,2,03:41,34,23,CEA,AS,Mathias
+307,2,03:41,34,23,CEA,2_Pts_C,Brite
+308,2,04:05,32,23,CEA,substituicao_entra,Mathias
+309,2,04:05,32,23,CEA,substituicao_sai,Sualisson
+310,2,04:05,32,23,CEA,substituicao_entra,Holloway
+311,2,04:05,32,23,CEA,substituicao_sai,Rashaun
+312,2,04:05,32,23,PAT,ER,Matheusinho
+313,2,04:09,32,23,PAT,RD,Matheusinho
+314,2,04:11,32,23,CEA,3_Pts_T,Brite
+315,2,04:23,32,23,CEA,RO,Alex
+316,2,04:26,32,23,CEA,2_Pts_T,Rashaun
+317,2,04:36,32,23,CEA,RO,Sualisson
+318,2,04:38,32,23,CEA,3_Pts_T,Alex
+319,2,04:42,32,23,PAT,substituicao_entra,Aquiles
+320,2,04:42,32,23,PAT,substituicao_entra,Matheusinho
+321,2,04:42,32,23,PAT,substituicao_entra,Derick
+322,2,04:42,32,23,PAT,substituicao_sai,Augusto
+323,2,04:42,32,23,PAT,substituicao_sai,Leal
+324,2,04:42,32,23,PAT,substituicao_sai,I Thornton
+325,2,04:42,32,23,CEA,substituicao_entra,Alex
+326,2,04:42,32,23,CEA,substituicao_entra,Cauê
+327,2,04:42,32,23,CEA,substituicao_sai,Schneider
+328,2,04:42,32,23,CEA,substituicao_sai,Holloway
+329,2,04:42,32,23,CEA,FR,Holloway
+330,2,04:42,32,23,PAT,FC,Augusto
+331,2,04:42,32,23,CEA,RO,Fortaleza Basquete Cearense
+332,2,04:44,32,23,CEA,2_Pts_T,Holloway
+333,2,04:45,32,23,CEA,RO,Holloway
+334,2,04:48,32,23,CEA,3_Pts_T,Rashaun
+335,2,05:06,32,23,CEA,RD,Holloway
+336,2,05:08,32,23,PAT,3_Pts_T,Scheuer
+337,2,05:27,32,23,CEA,AS,Brite
+338,2,05:27,32,23,CEA,3_Pts_C,Rashaun
+339,2,05:37,29,23,CEA,BR,Schneider
+340,2,05:37,29,23,PAT,ER,I Thornton
+341,2,05:54,29,23,PAT,RD,Leal
+342,2,05:57,29,23,CEA,3_Pts_T,Holloway
+343,2,06:05,29,23,CEA,RD,Sualisson
+344,2,06:06,29,23,PAT,2_Pts_T,Leal
+345,2,06:06,29,23,PAT,RO,Leal
+346,2,06:09,29,23,PAT,2_Pts_T,Lucas
+347,2,06:18,29,23,PAT,RO,Lucas
+348,2,06:21,29,23,PAT,3_Pts_T,Augusto
+349,2,06:30,29,23,PAT,RD,I Thornton
+350,2,06:33,29,23,CEA,2_Pts_T,Rashaun
+351,2,06:43,29,23,PAT,LL_Pts_C,Leal
+352,2,06:43,29,22,PAT,AS,Lucas
+353,2,06:43,29,22,PAT,LL_Pts_C,Leal
+354,2,06:43,29,21,PAT,substituicao_entra,Augusto
+355,2,06:43,29,21,PAT,substituicao_sai,Matheusinho
+356,2,06:48,29,21,PAT,FR,Leal
+357,2,06:48,29,21,CEA,FC,Sualisson
+358,2,06:56,29,21,PAT,RD,Lucas
+359,2,06:59,29,21,CEA,2_Pts_T,Schneider
+360,2,07:04,29,21,CEA,BR,Brite
+361,2,07:04,29,21,PAT,ER,Matheusinho
+362,2,07:09,29,21,PAT,RD,Leal
+363,2,07:12,29,21,CEA,3_Pts_T,Schneider
+364,2,07:27,29,21,PAT,3_Pts_C,Lucas
+365,2,07:28,29,18,PAT,substituicao_entra,Scheuer
+366,2,07:28,29,18,PAT,substituicao_entra,Matheusinho
+367,2,07:28,29,18,PAT,substituicao_entra,Leal
+368,2,07:28,29,18,PAT,substituicao_sai,Augusto
+369,2,07:28,29,18,PAT,substituicao_sai,Rodrigues
+370,2,07:28,29,18,PAT,substituicao_sai,Funches III
+371,2,07:28,29,18,CEA,substituicao_entra,Rashaun
+372,2,07:28,29,18,CEA,substituicao_sai,Mathias
+373,2,07:40,29,18,CEA,AS,Brite
+374,2,07:40,29,18,CEA,2_Pts_C,Holloway
+375,2,07:44,27,18,CEA,RD,Brite
+376,2,07:46,27,18,PAT,2_Pts_T,Funches III
+377,2,07:54,27,18,PAT,RD,I Thornton
+378,2,07:57,27,18,CEA,3_Pts_T,Brite
+379,2,08:23,27,18,PAT,AS,Augusto
+380,2,08:23,27,18,PAT,EN,Rodrigues
+381,2,08:41,27,16,CEA,AS,Sualisson
+382,2,08:41,27,16,CEA,2_Pts_C,Mathias
+383,2,09:03,25,16,PAT,2_Pts_C,Rodrigues
+384,2,09:03,25,14,PAT,RO,Rodrigues
+385,2,09:07,25,14,PAT,2_Pts_T,Lucas
+386,2,09:11,25,14,PAT,RD,Augusto
+387,2,09:13,25,14,CEA,3_Pts_T,Mathias
+388,2,09:19,25,14,CEA,RO,Schneider
+389,2,09:22,25,14,CEA,2_Pts_T,Holloway
+390,2,09:23,25,14,CEA,RD,Mathias
+391,2,09:27,25,14,CEA,TO,Holloway
+392,2,09:27,25,14,PAT,2_Pts_T,Augusto
+393,2,09:41,25,14,CEA,2_Pts_C,Mathias
+394,2,09:41,23,14,CEA,RO,Mathias
+395,2,09:45,23,14,CEA,2_Pts_T,Sualisson
+396,2,10:00,23,14,,inicio_quarto,
+397,1,00:00,23,14,,fim_quarto,
+398,1,00:01,23,14,PAT,3_Pts_T,I Thornton
+399,1,00:20,23,14,CEA,AS,Cauê
+400,1,00:20,23,14,CEA,3_Pts_C,Rashaun
+401,1,00:34,20,14,CEA,substituicao_entra,Schneider
+402,1,00:34,20,14,CEA,substituicao_sai,Alex
+403,1,00:34,20,14,CEA,FR,Alex
+404,1,00:34,20,14,PAT,FC,I Thornton
+405,1,00:58,20,14,PAT,2_Pts_C,Lucas
+406,1,01:15,20,12,PAT,BR,Funches III
+407,1,01:15,20,12,CEA,ER,Cauê
+408,1,01:33,20,12,CEA,BR,Sualisson
+409,1,01:33,20,12,PAT,ER,Lucas
+410,1,01:58,20,12,PAT,RD,I Thornton
+411,1,01:58,20,12,CEA,LL_Pts_T,Sualisson
+412,1,01:58,20,12,CEA,LL_Pts_T,Sualisson
+413,1,01:58,20,12,CEA,FR,Sualisson
+414,1,01:58,20,12,PAT,FC,Funches III
+415,1,02:02,20,12,CEA,RD,Cauê
+416,1,02:06,20,12,PAT,2_Pts_T,Funches III
+417,1,02:09,20,12,PAT,RD,Funches III
+418,1,02:13,20,12,CEA,2_Pts_T,Sualisson
+419,1,02:24,20,12,CEA,BR,Sualisson
+420,1,02:24,20,12,PAT,ER,Augusto
+421,1,02:35,20,12,PAT,FR,Lucas
+422,1,02:35,20,12,CEA,ER,Mathias
+423,1,02:35,20,12,CEA,FC_O,Mathias
+424,1,02:49,20,12,CEA,FR,Rashaun
+425,1,02:49,20,12,PAT,FC,Rodrigues
+426,1,02:50,20,12,CEA,RD,Rashaun
+427,1,02:51,20,12,PAT,3_Pts_T,Lucas
+428,1,03:07,20,12,PAT,substituicao_entra,Rodrigues
+429,1,03:07,20,12,PAT,substituicao_entra,Funches III
+430,1,03:07,20,12,PAT,substituicao_entra,I Thornton
+431,1,03:07,20,12,PAT,substituicao_sai,Aquiles
+432,1,03:07,20,12,PAT,substituicao_sai,Scheuer
+433,1,03:07,20,12,PAT,substituicao_sai,Leal
+434,1,03:07,20,12,PAT,tempo_tecnico,Pato Basquete
+435,1,03:08,20,12,CEA,2_Pts_C,Rashaun
+436,1,03:21,18,12,CEA,RD,Cauê
+437,1,03:23,18,12,PAT,2_Pts_T,Leal
+438,1,03:34,18,12,PAT,substituicao_entra,Lucas
+439,1,03:34,18,12,PAT,substituicao_sai,Matheusinho
+440,1,03:34,18,12,CEA,substituicao_entra,Cauê
+441,1,03:34,18,12,CEA,substituicao_sai,Brite
+442,1,03:34,18,12,PAT,FR,Matheusinho
+443,1,03:34,18,12,CEA,FC,Brite
+444,1,03:54,18,12,CEA,AS,Brite
+445,1,03:54,18,12,CEA,3_Pts_C,Alex
+446,1,04:13,15,12,CEA,RD,Sualisson
+447,1,04:16,15,12,PAT,2_Pts_T,Aquiles
+448,1,04:30,15,12,CEA,AS,Sualisson
+449,1,04:30,15,12,CEA,3_Pts_C,Brite
+450,1,04:40,12,12,CEA,RD,Rashaun
+451,1,04:43,12,12,PAT,2_Pts_T,Leal
+452,1,05:01,12,12,PAT,substituicao_entra,Augusto
+453,1,05:01,12,12,PAT,substituicao_entra,Aquiles
+454,1,05:01,12,12,PAT,substituicao_sai,Derick
+455,1,05:01,12,12,PAT,substituicao_sai,I Thornton
+456,1,05:01,12,12,CEA,substituicao_entra,Rashaun
+457,1,05:01,12,12,CEA,substituicao_sai,Holloway
+458,1,05:01,12,12,PAT,FR,I Thornton
+459,1,05:01,12,12,CEA,FC,Alex
+460,1,05:11,12,12,CEA,AS,Brite
+461,1,05:11,12,12,CEA,3_Pts_C,Holloway
+462,1,05:23,9,12,CEA,RD,Sualisson
+463,1,05:26,9,12,PAT,2_Pts_T,Scheuer
+464,1,05:38,9,12,PAT,BR,Derick
+465,1,05:38,9,12,CEA,ER,Brite
+466,1,05:43,9,12,CEA,RD,Sualisson
+467,1,05:46,9,12,PAT,3_Pts_T,I Thornton
+468,1,06:01,9,12,CEA,AS,Holloway
+469,1,06:01,9,12,CEA,3_Pts_C,Brite
+470,1,06:07,6,12,CEA,RO,Mathias
+471,1,06:07,6,12,CEA,2_Pts_T,Holloway
+472,1,06:07,6,12,CEA,RO,Holloway
+473,1,06:13,6,12,PAT,TO,Leal
+474,1,06:13,6,12,CEA,2_Pts_T,Holloway
+475,1,06:28,6,12,PAT,3_Pts_C,I Thornton
+476,1,06:44,6,9,CEA,2_Pts_C,Holloway
+477,1,07:00,4,9,PAT,LL_Pts_C,I Thornton
+478,1,07:00,4,8,PAT,LL_Pts_C,I Thornton
+479,1,07:01,4,7,PAT,FR,I Thornton
+480,1,07:01,4,7,CEA,FC,Brite
+481,1,07:02,4,7,PAT,RO,Scheuer
+482,1,07:05,4,7,PAT,2_Pts_T,Scheuer
+483,1,07:10,4,7,PAT,BR,Matheusinho
+484,1,07:10,4,7,CEA,ER,Brite
+485,1,07:24,4,7,CEA,RD,Mathias
+486,1,07:26,4,7,PAT,2_Pts_T,Matheusinho
+487,1,07:31,4,7,PAT,RD,Leal
+488,1,07:34,4,7,CEA,2_Pts_T,Alex
+489,1,07:55,4,7,PAT,AS,Derick
+490,1,07:55,4,7,PAT,3_Pts_C,Matheusinho
+491,1,08:16,4,4,CEA,AS,Holloway
+492,1,08:16,4,4,CEA,2_Pts_C,Mathias
+493,1,08:36,2,4,PAT,2_Pts_C,Matheusinho
+494,1,09:07,2,2,CEA,2_Pts_C,Brite
+495,1,09:11,0,2,CEA,BR,Brite
+496,1,09:11,0,2,PAT,ER,Matheusinho
+497,1,09:21,0,2,PAT,RD,Leal
+498,1,09:24,0,2,CEA,2_Pts_T,Sualisson
+499,1,09:50,0,2,PAT,EN,Scheuer
+500,1,10:00,0,0,PAT,substituicao_entra,Scheuer
+501,1,10:00,0,0,PAT,substituicao_entra,Matheusinho
+502,1,10:00,0,0,PAT,substituicao_entra,Derick
+503,1,10:00,0,0,PAT,substituicao_entra,Leal
+504,1,10:00,0,0,PAT,substituicao_entra,I Thornton
+505,1,10:00,0,0,CEA,substituicao_entra,Sualisson
+506,1,10:00,0,0,CEA,substituicao_entra,Mathias
+507,1,10:00,0,0,CEA,substituicao_entra,Alex
+508,1,10:00,0,0,CEA,substituicao_entra,Brite
+509,1,10:00,0,0,CEA,substituicao_entra,Holloway
+510,1,10:00,0,0,,inicio_partida,

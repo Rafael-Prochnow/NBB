@@ -26,11 +26,11 @@ def conferir_siglas_acao(descobir, dados):
         if i == '':
             pass
         elif i == 'BSB':
-            dados['Time'] = dados['Time'].replace(i, 'BRA')
+            dados['Time'] = dados['Time'].str.replace(i, 'BRA')
         elif i == 'FOR':
-            dados['Time'] = dados['Time'].replace(i, 'CEA')
+            dados['Time'] = dados['Time'].str.replace(i, 'CEA')
         elif i == 'PAU':
-            dados['Time'] = dados['Time'].replace(i, 'CAP')
+            dados['Time'] = dados['Time'].str.replace(i, 'CAP')
 
 
 def tabela_tipo_1(element):

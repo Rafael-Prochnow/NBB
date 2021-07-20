@@ -1,0 +1,578 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,76,74,,fim_partida,
+1,4,00:00,76,74,,fim_quarto,
+2,4,00:03,76,74,MIN,3_Pts_T,Davi
+3,4,00:05,76,74,MIN,RD,Davi
+4,4,00:05,76,74,CAP,LL_Pts_T,Ruivo
+5,4,00:05,76,74,CAP,LL_Pts_C,Ruivo
+6,4,00:05,75,74,CAP,FR,Ruivo
+7,4,00:05,75,74,MIN,FC,Johnson Jr
+8,4,00:08,75,74,MIN,substituicao_entra,Ronald
+9,4,00:08,75,74,MIN,substituicao_sai,Batista
+10,4,00:08,75,74,CAP,substituicao_entra,Jonatan
+11,4,00:08,75,74,CAP,substituicao_sai,Doria
+12,4,00:08,75,74,CAP,tempo_tecnico,Paulistano
+13,4,00:08,75,74,MIN,LL_Pts_C,Gui Santos
+14,4,00:08,75,73,MIN,LL_Pts_C,Gui Santos
+15,4,00:08,75,72,CAP,substituicao_entra,Doria
+16,4,00:08,75,72,CAP,substituicao_sai,Du Sommer
+17,4,00:08,75,72,MIN,FR,Gui Santos
+18,4,00:08,75,72,CAP,FC,Du Sommer
+19,4,00:12,75,72,CAP,LL_Pts_C,Thomas
+20,4,00:12,74,72,CAP,LL_Pts_T,Thomas
+21,4,00:12,74,72,MIN,substituicao_entra,Johnson Jr
+22,4,00:12,74,72,MIN,substituicao_sai,Ronald
+23,4,00:12,74,72,CAP,FR,Thomas
+24,4,00:12,74,72,MIN,FC,Gui Santos
+25,4,00:16,74,72,MIN,LL_Pts_C,Gui Santos
+26,4,00:16,74,71,MIN,LL_Pts_T,Gui Santos
+27,4,00:16,74,71,CAP,substituicao_entra,Deryk
+28,4,00:16,74,71,CAP,substituicao_sai,Jimmy
+29,4,00:16,74,71,MIN,FR,Gui Santos
+30,4,00:16,74,71,CAP,FC,Jimmy
+31,4,00:17,74,71,MIN,RD,David Jackson
+32,4,00:20,74,71,CAP,2_Pts_T,Thomas
+33,4,00:43,74,71,MIN,LL_Pts_C,Batista
+34,4,00:43,74,70,MIN,LL_Pts_T,Batista
+35,4,00:43,74,70,MIN,substituicao_entra,Ronald
+36,4,00:43,74,70,MIN,substituicao_sai,Johnson Jr
+37,4,00:43,74,70,CAP,substituicao_entra,Du Sommer
+38,4,00:43,74,70,CAP,substituicao_sai,Deryk
+39,4,00:43,74,70,MIN,FR,Batista
+40,4,00:43,74,70,CAP,FC,Jimmy
+41,4,00:51,74,70,CAP,substituicao_entra,Deryk
+42,4,00:51,74,70,CAP,substituicao_sai,Du Sommer
+43,4,00:51,74,70,MIN,tempo_tecnico,Minas
+44,4,00:51,74,70,CAP,LL_Pts_C,Ruivo
+45,4,00:51,73,70,CAP,LL_Pts_C,Ruivo
+46,4,00:51,72,70,CAP,substituicao_entra,Jimmy
+47,4,00:51,72,70,CAP,substituicao_sai,Deryk
+48,4,00:51,72,70,CAP,FR,Ruivo
+49,4,00:51,72,70,MIN,FC,Davi
+50,4,01:02,72,70,CAP,substituicao_entra,Deryk
+51,4,01:02,72,70,CAP,substituicao_sai,Jimmy
+52,4,01:03,72,70,MIN,3_Pts_C,Davi
+53,4,01:08,72,67,MIN,RD,David Jackson
+54,4,01:12,72,67,CAP,3_Pts_T,Du Sommer
+55,4,01:23,72,67,CAP,RO,Thomas
+56,4,01:23,72,67,CAP,LL_Pts_T,Du Sommer
+57,4,01:23,72,67,CAP,LL_Pts_T,Du Sommer
+58,4,01:23,72,67,MIN,substituicao_entra,Gui Santos
+59,4,01:23,72,67,MIN,substituicao_sai,Rafa Moreira
+60,4,01:23,72,67,CAP,FR,Du Sommer
+61,4,01:23,72,67,MIN,FC,Rafa Moreira
+62,4,01:25,72,67,CAP,RD,Jimmy
+63,4,01:28,72,67,MIN,2_Pts_T,Batista
+64,4,01:28,72,67,MIN,RO,Batista
+65,4,01:33,72,67,MIN,2_Pts_T,David Jackson
+66,4,01:47,72,67,MIN,FR,Batista
+67,4,01:47,72,67,CAP,FC,Jimmy
+68,4,02:03,72,67,CAP,LL_Pts_C,Maique
+69,4,02:03,71,67,CAP,AS,Ruivo
+70,4,02:03,71,67,CAP,LL_Pts_C,Maique
+71,4,02:03,70,67,MIN,substituicao_entra,Johnson Jr
+72,4,02:03,70,67,MIN,substituicao_sai,Gui Santos
+73,4,02:03,70,67,CAP,substituicao_entra,Jimmy
+74,4,02:03,70,67,CAP,substituicao_sai,Deryk
+75,4,02:03,70,67,CAP,FR,Maique
+76,4,02:03,70,67,MIN,FC,Rafa Moreira
+77,4,02:12,70,67,MIN,LL_Pts_C,David Jackson
+78,4,02:12,70,66,MIN,FR,David Jackson
+79,4,02:12,70,66,CAP,FC,Thomas
+80,4,02:12,70,66,MIN,2_Pts_C,David Jackson
+81,4,02:21,70,64,MIN,tempo_tecnico,Minas
+82,4,02:33,70,64,MIN,RD,Batista
+83,4,02:35,70,64,CAP,2_Pts_T,Du Sommer
+84,4,02:51,70,64,MIN,ER,Gui Santos
+85,4,02:56,70,64,MIN,BR,Davi
+86,4,02:56,70,64,CAP,ER,Ruivo
+87,4,03:06,70,64,MIN,substituicao_entra,Gui Santos
+88,4,03:06,70,64,MIN,substituicao_sai,Johnson Jr
+89,4,03:06,70,64,CAP,FR,Du Sommer
+90,4,03:06,70,64,MIN,FC,Rafa Moreira
+91,4,03:06,70,64,CAP,substituicao_entra,Du Sommer
+92,4,03:06,70,64,CAP,substituicao_sai,Doria
+93,4,03:06,70,64,CAP,FR,Deryk
+94,4,03:06,70,64,MIN,FC,Johnson Jr
+95,4,03:11,70,64,CAP,RD,Ruivo
+96,4,03:15,70,64,MIN,2_Pts_T,Johnson Jr
+97,4,03:31,70,64,MIN,RD,Davi
+98,4,03:34,70,64,CAP,3_Pts_T,Doria
+99,4,03:53,70,64,CAP,RD,Doria
+100,4,03:57,70,64,MIN,3_Pts_T,Johnson Jr
+101,4,04:12,70,64,CAP,AS,Deryk
+102,4,04:12,70,64,CAP,3_Pts_C,Ruivo
+103,4,04:25,67,64,CAP,substituicao_entra,Deryk
+104,4,04:25,67,64,CAP,substituicao_sai,Jimmy
+105,4,04:25,67,64,CAP,tempo_tecnico,Paulistano
+106,4,04:27,67,64,MIN,2_Pts_C,Johnson Jr
+107,4,04:44,67,62,CAP,ER,
+108,4,05:07,67,62,CAP,FR,Jimmy
+109,4,05:07,67,62,MIN,ER,David Jackson
+110,4,05:07,67,62,MIN,FC_O,David Jackson
+111,4,05:11,67,62,MIN,BR,Johnson Jr
+112,4,05:11,67,62,CAP,ER,Thomas
+113,4,05:17,67,62,CAP,BR,Doria
+114,4,05:17,67,62,MIN,ER,David Jackson
+115,4,05:38,67,62,CAP,LL_Pts_C,Maique
+116,4,05:38,66,62,CAP,LL_Pts_T,Maique
+117,4,05:38,66,62,MIN,substituicao_entra,David Jackson
+118,4,05:38,66,62,MIN,substituicao_sai,Gui Santos
+119,4,05:38,66,62,MIN,substituicao_entra,Batista
+120,4,05:38,66,62,MIN,substituicao_sai,Ronald
+121,4,05:38,66,62,CAP,substituicao_entra,Maique
+122,4,05:38,66,62,CAP,substituicao_sai,Ianguas
+123,4,05:38,66,62,CAP,FR,Ianguas
+124,4,05:38,66,62,MIN,FC,Rafa Moreira
+125,4,05:53,66,62,CAP,BR,Doria
+126,4,05:53,66,62,MIN,ER,Gui Santos
+127,4,05:54,66,62,MIN,RO,Ronald
+128,4,05:57,66,62,MIN,3_Pts_T,Gui Santos
+129,4,06:10,66,62,MIN,FR,Ronald
+130,4,06:10,66,62,CAP,FC,Ianguas
+131,4,06:10,66,62,MIN,RO,Ronald
+132,4,06:10,66,62,MIN,2_Pts_T,Davi
+133,4,06:30,66,62,MIN,substituicao_entra,Johnson Jr
+134,4,06:30,66,62,MIN,substituicao_sai,David Jackson
+135,4,06:30,66,62,CAP,substituicao_entra,Ianguas
+136,4,06:30,66,62,CAP,substituicao_entra,Ruivo
+137,4,06:30,66,62,CAP,substituicao_sai,Maique
+138,4,06:30,66,62,CAP,substituicao_sai,Deryk
+139,4,06:30,66,62,CAP,2_Pts_C,Deryk
+140,4,06:51,64,62,CAP,RD,Thomas
+141,4,06:54,64,62,MIN,3_Pts_T,Rafa Moreira
+142,4,07:01,64,62,MIN,BR,Davi
+143,4,07:01,64,62,CAP,ER,Deryk
+144,4,07:17,64,62,MIN,AS,Davi
+145,4,07:17,64,62,MIN,3_Pts_C,Rafa Moreira
+146,4,07:26,64,59,MIN,RD,David Jackson
+147,4,07:29,64,59,CAP,2_Pts_T,Maique
+148,4,07:51,64,59,CAP,RD,Maique
+149,4,07:54,64,59,MIN,3_Pts_T,Rafa Moreira
+150,4,07:57,64,59,MIN,RO,Ronald
+151,4,08:01,64,59,MIN,2_Pts_T,Davi
+152,4,08:24,64,59,CAP,AS,Deryk
+153,4,08:24,64,59,CAP,EN,Maique
+154,4,08:52,62,59,MIN,AS,Davi
+155,4,08:52,62,59,MIN,EN,Ronald
+156,4,09:07,62,57,MIN,FR,Davi
+157,4,09:07,62,57,CAP,FC,Deryk
+158,4,09:14,62,57,MIN,substituicao_entra,Gui Santos
+159,4,09:14,62,57,MIN,substituicao_sai,Johnson Jr
+160,4,09:14,62,57,MIN,RD,Minas
+161,4,09:14,62,57,CAP,3_Pts_T,Thomas
+162,4,09:43,62,57,MIN,AS,Johnson Jr
+163,4,09:43,62,57,MIN,3_Pts_C,Rafa Moreira
+164,4,10:00,62,54,,inicio_quarto,
+165,3,00:00,62,54,,fim_quarto,
+166,3,00:00,62,54,MIN,RD,David Jackson
+167,3,00:02,62,54,CAP,2_Pts_T,Deryk
+168,3,00:13,62,54,MIN,AS,Rafa Moreira
+169,3,00:13,62,54,MIN,3_Pts_C,Johnson Jr
+170,3,00:18,62,51,MIN,BR,Rafa Moreira
+171,3,00:18,62,51,CAP,ER,Ruivo
+172,3,00:25,62,51,CAP,RO,André
+173,3,00:28,62,51,CAP,3_Pts_T,Jonatan
+174,3,00:48,62,51,MIN,AS,Johnson Jr
+175,3,00:48,62,51,MIN,3_Pts_C,David Jackson
+176,3,01:12,62,48,CAP,substituicao_entra,Deryk
+177,3,01:12,62,48,CAP,substituicao_entra,Doria
+178,3,01:12,62,48,CAP,substituicao_sai,Maique
+179,3,01:12,62,48,CAP,substituicao_sai,Jimmy
+180,3,01:12,62,48,MIN,substituicao_entra,Rafa Moreira
+181,3,01:12,62,48,MIN,substituicao_entra,Davi
+182,3,01:12,62,48,MIN,substituicao_sai,Batista
+183,3,01:12,62,48,MIN,substituicao_sai,Gui Santos
+184,3,01:12,62,48,CAP,substituicao_entra,André
+185,3,01:12,62,48,CAP,substituicao_sai,Du Sommer
+186,3,01:12,62,48,MIN,RD,Minas
+187,3,01:12,62,48,CAP,3_Pts_T,Jimmy
+188,3,01:18,62,48,CAP,RO,Maique
+189,3,01:21,62,48,CAP,3_Pts_T,Maique
+190,3,01:36,62,48,CAP,RD,Maique
+191,3,01:36,62,48,MIN,LL_Pts_T,Gui Santos
+192,3,01:36,62,48,MIN,LL_Pts_T,Gui Santos
+193,3,01:36,62,48,MIN,FR,Gui Santos
+194,3,01:36,62,48,CAP,FC,Du Sommer
+195,3,02:09,62,48,CAP,2_Pts_C,Jimmy
+196,3,02:30,60,48,MIN,AS,Gui Santos
+197,3,02:30,60,48,MIN,3_Pts_C,Johnson Jr
+198,3,02:37,60,45,MIN,RD,Gui Santos
+199,3,02:41,60,45,CAP,3_Pts_T,Du Sommer
+200,3,02:55,60,45,CAP,substituicao_entra,Jonatan
+201,3,02:55,60,45,CAP,substituicao_entra,Du Sommer
+202,3,02:55,60,45,CAP,substituicao_entra,Ruivo
+203,3,02:55,60,45,CAP,substituicao_sai,Thomas
+204,3,02:55,60,45,CAP,substituicao_sai,Deryk
+205,3,02:55,60,45,CAP,substituicao_sai,Doria
+206,3,02:55,60,45,CAP,tempo_tecnico,Paulistano
+207,3,02:55,60,45,MIN,2_Pts_C,Gui Santos
+208,3,02:57,60,43,MIN,RD,Gui Santos
+209,3,03:01,60,43,CAP,2_Pts_T,Jimmy
+210,3,03:02,60,43,CAP,RO,Maique
+211,3,03:08,60,43,MIN,TO,Johnson Jr
+212,3,03:08,60,43,CAP,2_Pts_T,Thomas
+213,3,03:32,60,43,MIN,2_Pts_C,Johnson Jr
+214,3,03:35,60,41,MIN,RO,Ronald
+215,3,03:38,60,41,MIN,3_Pts_T,Johnson Jr
+216,3,03:48,60,41,MIN,FR,David Jackson
+217,3,03:48,60,41,CAP,FC,Deryk
+218,3,03:50,60,41,MIN,RD,Johnson Jr
+219,3,03:53,60,41,CAP,2_Pts_T,Maique
+220,3,04:14,60,41,MIN,2_Pts_C,Johnson Jr
+221,3,04:25,60,39,CAP,LL_Pts_C,Deryk
+222,3,04:25,59,39,MIN,substituicao_entra,Ronald
+223,3,04:25,59,39,MIN,substituicao_sai,Queiros
+224,3,04:25,59,39,MIN,tempo_tecnico,Minas
+225,3,04:25,59,39,CAP,FR,Deryk
+226,3,04:25,59,39,MIN,FC,Batista
+227,3,04:25,59,39,CAP,2_Pts_C,Deryk
+228,3,04:34,57,39,CAP,RD,Maique
+229,3,04:37,57,39,MIN,3_Pts_T,Queiros
+230,3,04:45,57,39,CAP,substituicao_entra,Doria
+231,3,04:45,57,39,CAP,substituicao_sai,Du Sommer
+232,3,04:45,57,39,MIN,FR,David Jackson
+233,3,04:45,57,39,CAP,FC,Du Sommer
+234,3,05:00,57,39,CAP,AS,Deryk
+235,3,05:00,57,39,CAP,3_Pts_C,Du Sommer
+236,3,05:23,54,39,CAP,FR,Jimmy
+237,3,05:23,54,39,MIN,ER,Johnson Jr
+238,3,05:23,54,39,MIN,FC_O,Johnson Jr
+239,3,05:29,54,39,MIN,RD,Batista
+240,3,05:33,54,39,CAP,2_Pts_T,Thomas
+241,3,05:44,54,39,CAP,RD,Maique
+242,3,05:47,54,39,MIN,3_Pts_T,David Jackson
+243,3,05:54,54,39,CAP,substituicao_entra,Deryk
+244,3,05:54,54,39,CAP,substituicao_sai,Ruivo
+245,3,05:54,54,39,MIN,FR,Gui Santos
+246,3,05:54,54,39,CAP,FC,Thomas
+247,3,05:54,54,39,MIN,LL_Pts_C,David Jackson
+248,3,05:54,54,38,CAP,FC_T,Paulistano
+249,3,05:59,54,38,MIN,BR,Queiros
+250,3,05:59,54,38,CAP,ER,Ruivo
+251,3,06:03,54,38,CAP,RD,Thomas
+252,3,06:06,54,38,MIN,3_Pts_T,Queiros
+253,3,06:18,54,38,MIN,RD,David Jackson
+254,3,06:21,54,38,CAP,3_Pts_T,Ruivo
+255,3,06:30,54,38,MIN,2_Pts_C,Batista
+256,3,06:43,54,36,CAP,2_Pts_C,Ruivo
+257,3,07:02,52,36,MIN,substituicao_entra,Johnson Jr
+258,3,07:02,52,36,MIN,substituicao_sai,Davi
+259,3,07:02,52,36,CAP,FR,Ruivo
+260,3,07:02,52,36,MIN,FC,Davi
+261,3,07:04,52,36,CAP,BR,Thomas
+262,3,07:04,52,36,MIN,ER,Davi
+263,3,07:18,52,36,CAP,AS,Thomas
+264,3,07:18,52,36,CAP,2_Pts_C,Maique
+265,3,07:21,50,36,CAP,RD,Du Sommer
+266,3,07:26,50,36,CAP,TO,Maique
+267,3,07:26,50,36,MIN,2_Pts_T,Batista
+268,3,07:42,50,36,CAP,AS,Ruivo
+269,3,07:42,50,36,CAP,3_Pts_C,Maique
+270,3,08:05,47,36,MIN,3_Pts_C,David Jackson
+271,3,08:19,47,33,MIN,FR,Batista
+272,3,08:19,47,33,CAP,FC,Maique
+273,3,08:28,47,33,MIN,RD,Davi
+274,3,08:32,47,33,CAP,2_Pts_T,Thomas
+275,3,08:38,47,33,CAP,RD,Ruivo
+276,3,08:43,47,33,MIN,2_Pts_T,Gui Santos
+277,3,09:04,47,33,CAP,3_Pts_C,Thomas
+278,3,09:18,44,33,MIN,AS,Davi
+279,3,09:18,44,33,MIN,2_Pts_C,Batista
+280,3,09:28,44,31,CAP,LL_Pts_C,Du Sommer
+281,3,09:28,43,31,CAP,AS,Ruivo
+282,3,09:28,43,31,CAP,LL_Pts_C,Du Sommer
+283,3,09:28,42,31,CAP,FR,Du Sommer
+284,3,09:28,42,31,MIN,FC,Queiros
+285,3,09:37,42,31,CAP,RD,Maique
+286,3,09:40,42,31,MIN,3_Pts_T,Davi
+287,3,09:48,42,31,MIN,BR,Gui Santos
+288,3,09:48,42,31,CAP,ER,Jimmy
+289,3,10:00,42,31,,inicio_quarto,
+290,2,00:00,42,31,,fim_quarto,
+291,2,00:00,42,31,CAP,RD,André
+292,2,00:00,42,31,CAP,TO,Buiú
+293,2,00:00,42,31,MIN,3_Pts_T,Davi
+294,2,00:07,42,31,CAP,substituicao_entra,Buiú
+295,2,00:07,42,31,CAP,substituicao_sai,Ruivo
+296,2,00:07,42,31,CAP,LL_Pts_C,Ruivo
+297,2,00:07,41,31,CAP,LL_Pts_C,Ruivo
+298,2,00:07,40,31,CAP,substituicao_entra,Deryk
+299,2,00:07,40,31,CAP,substituicao_sai,Jimmy
+300,2,00:07,40,31,CAP,substituicao_entra,André
+301,2,00:07,40,31,CAP,substituicao_sai,Maique
+302,2,00:07,40,31,CAP,FR,Ruivo
+303,2,00:07,40,31,MIN,FC,Johnson Jr
+304,2,00:21,40,31,MIN,substituicao_entra,Rafa Moreira
+305,2,00:21,40,31,MIN,substituicao_sai,Batista
+306,2,00:21,40,31,CAP,substituicao_entra,Maique
+307,2,00:21,40,31,CAP,substituicao_entra,Jimmy
+308,2,00:21,40,31,CAP,substituicao_entra,Ruivo
+309,2,00:21,40,31,CAP,substituicao_sai,André
+310,2,00:21,40,31,CAP,substituicao_sai,Buiú
+311,2,00:21,40,31,CAP,substituicao_sai,Doria
+312,2,00:21,40,31,CAP,tempo_tecnico,Paulistano
+313,2,00:26,40,31,MIN,AS,Batista
+314,2,00:26,40,31,MIN,2_Pts_C,Ronald
+315,2,00:39,40,29,MIN,RD,Johnson Jr
+316,2,00:39,40,29,CAP,LL_Pts_T,Thomas
+317,2,00:39,40,29,CAP,LL_Pts_C,Thomas
+318,2,00:39,39,29,CAP,substituicao_entra,Buiú
+319,2,00:39,39,29,CAP,substituicao_entra,Doria
+320,2,00:39,39,29,CAP,substituicao_sai,Maique
+321,2,00:39,39,29,CAP,substituicao_sai,Deryk
+322,2,00:39,39,29,CAP,FR,Thomas
+323,2,00:39,39,29,MIN,FC,Ronald
+324,2,00:43,39,29,MIN,LL_Pts_C,Johnson Jr
+325,2,00:43,39,28,MIN,LL_Pts_C,Johnson Jr
+326,2,00:43,39,27,MIN,substituicao_entra,Batista
+327,2,00:43,39,27,MIN,substituicao_sai,Queiros
+328,2,00:43,39,27,CAP,substituicao_entra,Maique
+329,2,00:43,39,27,CAP,substituicao_sai,Doria
+330,2,00:43,39,27,MIN,substituicao_entra,Ronald
+331,2,00:43,39,27,MIN,substituicao_sai,Batista
+332,2,00:43,39,27,CAP,substituicao_entra,Deryk
+333,2,00:43,39,27,CAP,substituicao_sai,Buiú
+334,2,00:43,39,27,MIN,FR,Johnson Jr
+335,2,00:43,39,27,CAP,FC,Buiú
+336,2,01:05,39,27,CAP,AS,Deryk
+337,2,01:05,39,27,CAP,LL_Pts_C,André
+338,2,01:05,38,27,CAP,LL_Pts_T,André
+339,2,01:05,38,27,CAP,substituicao_entra,Buiú
+340,2,01:05,38,27,CAP,substituicao_sai,Deryk
+341,2,01:05,38,27,CAP,FR,André
+342,2,01:05,38,27,MIN,FC,Queiros
+343,2,01:14,38,27,MIN,2_Pts_C,Davi
+344,2,01:19,38,25,MIN,substituicao_entra,Queiros
+345,2,01:19,38,25,MIN,substituicao_sai,Rafa Moreira
+346,2,01:19,38,25,CAP,substituicao_entra,André
+347,2,01:19,38,25,CAP,substituicao_sai,Maique
+348,2,01:19,38,25,MIN,FR,Rafa Moreira
+349,2,01:19,38,25,CAP,FC,Doria
+350,2,01:19,38,25,MIN,RO,Rafa Moreira
+351,2,01:20,38,25,MIN,3_Pts_T,David Jackson
+352,2,01:32,38,25,MIN,RD,David Jackson
+353,2,01:35,38,25,CAP,3_Pts_T,Doria
+354,2,01:48,38,25,CAP,RO,Doria
+355,2,01:51,38,25,CAP,3_Pts_T,Jonatan
+356,2,02:21,38,25,MIN,AS,David Jackson
+357,2,02:21,38,25,MIN,3_Pts_C,Johnson Jr
+358,2,02:35,38,22,MIN,RD,Batista
+359,2,02:40,38,22,CAP,3_Pts_T,Thomas
+360,2,02:57,38,22,CAP,RD,Doria
+361,2,03:00,38,22,MIN,3_Pts_T,Johnson Jr
+362,2,03:25,38,22,CAP,AS,Deryk
+363,2,03:25,38,22,CAP,3_Pts_C,Jonatan
+364,2,03:29,35,22,CAP,RO,Doria
+365,2,03:29,35,22,CAP,LL_Pts_T,Doria
+366,2,03:29,35,22,CAP,LL_Pts_T,Doria
+367,2,03:29,35,22,MIN,tempo_tecnico,Minas
+368,2,03:29,35,22,CAP,FR,Doria
+369,2,03:29,35,22,MIN,FC,Rafa Moreira
+370,2,03:40,35,22,CAP,LL_Pts_C,Thomas
+371,2,03:40,34,22,MIN,FC_T,Minas
+372,2,03:41,34,22,CAP,RD,Maique
+373,2,03:44,34,22,CAP,TO,Maique
+374,2,03:44,34,22,MIN,2_Pts_T,Batista
+375,2,03:50,34,22,MIN,RD,Johnson Jr
+376,2,03:52,34,22,CAP,3_Pts_T,Doria
+377,2,04:18,34,22,CAP,substituicao_entra,Deryk
+378,2,04:18,34,22,CAP,substituicao_sai,Ruivo
+379,2,04:18,34,22,CAP,RD,Paulistano
+380,2,04:20,34,22,MIN,2_Pts_T,Rafa Moreira
+381,2,04:42,34,22,CAP,AS,Thomas
+382,2,04:42,34,22,CAP,2_Pts_C,Maique
+383,2,04:57,32,22,MIN,2_Pts_C,Batista
+384,2,05:09,32,20,MIN,RO,Minas
+385,2,05:09,32,20,MIN,2_Pts_T,Davi
+386,2,05:09,32,20,MIN,RO,Rafa Moreira
+387,2,05:13,32,20,MIN,2_Pts_T,Davi
+388,2,05:25,32,20,CAP,substituicao_entra,Thomas
+389,2,05:25,32,20,CAP,substituicao_sai,Jimmy
+390,2,05:25,32,20,MIN,FR,David Jackson
+391,2,05:25,32,20,CAP,FC,Jimmy
+392,2,05:35,32,20,CAP,substituicao_entra,Jonatan
+393,2,05:35,32,20,CAP,substituicao_sai,Deryk
+394,2,05:53,32,20,CAP,AS,Deryk
+395,2,05:53,32,20,CAP,3_Pts_C,Jimmy
+396,2,06:16,29,20,MIN,AS,Davi
+397,2,06:16,29,20,MIN,2_Pts_C,Batista
+398,2,06:36,29,18,CAP,2_Pts_C,Jimmy
+399,2,06:52,27,18,CAP,RO,Paulistano
+400,2,06:52,27,18,CAP,2_Pts_T,Deryk
+401,2,07:09,27,18,MIN,substituicao_entra,David Jackson
+402,2,07:09,27,18,MIN,substituicao_sai,Gui Santos
+403,2,07:09,27,18,CAP,FR,Doria
+404,2,07:09,27,18,MIN,ER,Gui Santos
+405,2,07:09,27,18,MIN,FC_O,Gui Santos
+406,2,07:21,27,18,MIN,substituicao_entra,Batista
+407,2,07:21,27,18,MIN,substituicao_sai,Ronald
+408,2,07:21,27,18,MIN,FR,Rafa Moreira
+409,2,07:21,27,18,CAP,ER,Maique
+410,2,07:21,27,18,CAP,FC_O,Maique
+411,2,07:24,27,18,CAP,RD,Jimmy
+412,2,07:27,27,18,MIN,2_Pts_T,Ronald
+413,2,07:48,27,18,CAP,AS,Ruivo
+414,2,07:48,27,18,CAP,3_Pts_C,Maique
+415,2,07:58,24,18,MIN,2_Pts_C,Davi
+416,2,07:59,24,16,MIN,RD,Davi
+417,2,08:05,24,16,MIN,TO,Johnson Jr
+418,2,08:05,24,16,CAP,2_Pts_T,Jimmy
+419,2,08:24,24,16,MIN,ER,
+420,2,08:46,24,16,MIN,RD,Rafa Moreira
+421,2,08:50,24,16,CAP,3_Pts_T,Ruivo
+422,2,08:55,24,16,CAP,RD,Doria
+423,2,08:59,24,16,MIN,2_Pts_T,Johnson Jr
+424,2,09:12,24,16,MIN,RD,Ronald
+425,2,09:15,24,16,CAP,3_Pts_T,Ruivo
+426,2,09:33,24,16,CAP,RD,Ruivo
+427,2,09:36,24,16,MIN,2_Pts_T,Johnson Jr
+428,2,10:00,24,16,,inicio_quarto,
+429,1,00:00,24,16,,fim_quarto,
+430,1,00:02,24,16,MIN,3_Pts_T,Davi
+431,1,00:07,24,16,CAP,substituicao_entra,Doria
+432,1,00:07,24,16,CAP,substituicao_sai,Ruivo
+433,1,00:07,24,16,CAP,LL_Pts_C,Ruivo
+434,1,00:07,23,16,CAP,AS,Deryk
+435,1,00:07,23,16,CAP,LL_Pts_C,Ruivo
+436,1,00:07,22,16,MIN,substituicao_entra,Gui Santos
+437,1,00:07,22,16,MIN,substituicao_entra,Davi
+438,1,00:07,22,16,MIN,substituicao_sai,Dias
+439,1,00:07,22,16,MIN,substituicao_sai,Ribeiro
+440,1,00:07,22,16,CAP,FR,Ruivo
+441,1,00:07,22,16,MIN,FC,Ribeiro
+442,1,00:15,22,16,MIN,substituicao_entra,Dias
+443,1,00:15,22,16,MIN,substituicao_entra,Ribeiro
+444,1,00:15,22,16,MIN,substituicao_sai,David Jackson
+445,1,00:15,22,16,MIN,substituicao_sai,Davi
+446,1,00:15,22,16,CAP,substituicao_entra,Ruivo
+447,1,00:15,22,16,CAP,substituicao_sai,Doria
+448,1,00:15,22,16,MIN,ER,
+449,1,00:15,22,16,MIN,RO,David Jackson
+450,1,00:15,22,16,MIN,2_Pts_T,David Jackson
+451,1,00:36,22,16,MIN,RD,David Jackson
+452,1,00:39,22,16,CAP,3_Pts_T,Deryk
+453,1,00:45,22,16,MIN,LL_Pts_C,Johnson Jr
+454,1,00:45,22,15,MIN,LL_Pts_T,Johnson Jr
+455,1,00:45,22,15,MIN,LL_Pts_T,Johnson Jr
+456,1,00:45,22,15,MIN,substituicao_entra,Rafa Moreira
+457,1,00:45,22,15,MIN,substituicao_sai,Queiros
+458,1,00:45,22,15,MIN,FR,Johnson Jr
+459,1,00:45,22,15,CAP,FC,André
+460,1,01:01,22,15,MIN,RD,Davi
+461,1,01:04,22,15,CAP,3_Pts_T,Doria
+462,1,01:23,22,15,CAP,BR,Deryk
+463,1,01:23,22,15,MIN,ER,David Jackson
+464,1,01:29,22,15,MIN,BR,Johnson Jr
+465,1,01:29,22,15,CAP,ER,Deryk
+466,1,01:32,22,15,CAP,RD,Deryk
+467,1,01:35,22,15,MIN,3_Pts_T,Queiros
+468,1,01:53,22,15,CAP,AS,Thomas
+469,1,01:53,22,15,CAP,3_Pts_C,Jonatan
+470,1,02:03,19,15,MIN,LL_Pts_C,Johnson Jr
+471,1,02:03,19,14,MIN,LL_Pts_T,Johnson Jr
+472,1,02:03,19,14,MIN,FR,Johnson Jr
+473,1,02:03,19,14,CAP,FC,André
+474,1,02:13,19,14,CAP,LL_Pts_C,Thomas
+475,1,02:13,18,14,MIN,substituicao_entra,Davi
+476,1,02:13,18,14,MIN,substituicao_sai,Gui Santos
+477,1,02:13,18,14,CAP,FR,Thomas
+478,1,02:13,18,14,MIN,FC,Gui Santos
+479,1,02:13,18,14,CAP,2_Pts_C,Thomas
+480,1,02:36,16,14,MIN,AS,David Jackson
+481,1,02:36,16,14,MIN,2_Pts_C,Queiros
+482,1,02:42,16,12,CAP,substituicao_entra,André
+483,1,02:42,16,12,CAP,substituicao_sai,Du Sommer
+484,1,02:42,16,12,MIN,FR,Ronald
+485,1,02:42,16,12,CAP,FC,Du Sommer
+486,1,02:44,16,12,CAP,substituicao_entra,Thomas
+487,1,02:44,16,12,CAP,substituicao_entra,Du Sommer
+488,1,02:44,16,12,CAP,substituicao_sai,Maique
+489,1,02:44,16,12,CAP,substituicao_sai,Jimmy
+490,1,02:44,16,12,CAP,tempo_tecnico,Paulistano
+491,1,02:44,16,12,MIN,RO,Minas
+492,1,02:45,16,12,MIN,2_Pts_T,Ronald
+493,1,02:46,16,12,MIN,RO,Ronald
+494,1,02:49,16,12,MIN,3_Pts_T,Queiros
+495,1,02:52,16,12,MIN,RD,Queiros
+496,1,02:57,16,12,MIN,TO,Gui Santos
+497,1,02:57,16,12,CAP,2_Pts_T,Jimmy
+498,1,03:12,16,12,MIN,LL_Pts_C,Gui Santos
+499,1,03:12,16,11,MIN,FR,Gui Santos
+500,1,03:12,16,11,CAP,FC,Jimmy
+501,1,03:12,16,11,MIN,2_Pts_C,Gui Santos
+502,1,03:25,16,9,CAP,2_Pts_C,Jimmy
+503,1,03:27,14,9,CAP,RO,Jimmy
+504,1,03:31,14,9,CAP,3_Pts_T,Deryk
+505,1,03:32,14,9,CAP,RO,Doria
+506,1,03:36,14,9,CAP,3_Pts_T,Jimmy
+507,1,03:51,14,9,CAP,substituicao_entra,Jonatan
+508,1,03:51,14,9,CAP,substituicao_sai,Thomas
+509,1,03:51,14,9,MIN,ER,
+510,1,04:18,14,9,CAP,ER,
+511,1,04:31,14,9,MIN,substituicao_entra,Ronald
+512,1,04:31,14,9,MIN,substituicao_sai,Batista
+513,1,04:31,14,9,MIN,substituicao_entra,Johnson Jr
+514,1,04:31,14,9,MIN,substituicao_sai,Davi
+515,1,04:31,14,9,CAP,substituicao_entra,Doria
+516,1,04:31,14,9,CAP,substituicao_sai,Du Sommer
+517,1,04:31,14,9,CAP,FR,Du Sommer
+518,1,04:31,14,9,MIN,FC,Queiros
+519,1,04:34,14,9,CAP,RO,Maique
+520,1,04:37,14,9,CAP,2_Pts_T,Thomas
+521,1,04:58,14,9,MIN,2_Pts_C,David Jackson
+522,1,05:22,14,7,CAP,ER,
+523,1,05:23,14,7,CAP,RO,Du Sommer
+524,1,05:29,14,7,MIN,TO,David Jackson
+525,1,05:29,14,7,CAP,2_Pts_T,Thomas
+526,1,05:50,14,7,CAP,substituicao_entra,Deryk
+527,1,05:50,14,7,CAP,substituicao_sai,Ruivo
+528,1,05:50,14,7,MIN,AS,Batista
+529,1,05:50,14,7,MIN,LL_Pts_C,Queiros
+530,1,05:50,14,6,MIN,LL_Pts_T,Queiros
+531,1,05:50,14,6,MIN,FR,Queiros
+532,1,05:50,14,6,CAP,FC,Du Sommer
+533,1,06:05,14,6,CAP,ER,Thomas
+534,1,06:18,14,6,CAP,RD,Maique
+535,1,06:21,14,6,MIN,2_Pts_T,David Jackson
+536,1,06:29,14,6,MIN,RO,Gui Santos
+537,1,06:32,14,6,MIN,2_Pts_T,Davi
+538,1,06:46,14,6,CAP,EN,Maique
+539,1,07:11,12,6,MIN,AS,Gui Santos
+540,1,07:11,12,6,MIN,3_Pts_C,Queiros
+541,1,07:13,12,3,MIN,RO,Gui Santos
+542,1,07:16,12,3,MIN,2_Pts_T,Gui Santos
+543,1,07:18,12,3,MIN,RD,Gui Santos
+544,1,07:21,12,3,CAP,3_Pts_T,Jimmy
+545,1,07:43,12,3,MIN,AS,David Jackson
+546,1,07:43,12,3,MIN,3_Pts_C,Davi
+547,1,07:45,12,0,MIN,RO,David Jackson
+548,1,07:48,12,0,MIN,2_Pts_T,Batista
+549,1,08:09,12,0,MIN,tempo_tecnico,Minas
+550,1,08:10,12,0,CAP,AS,Jimmy
+551,1,08:10,12,0,CAP,3_Pts_C,Ruivo
+552,1,08:14,9,0,CAP,RD,Maique
+553,1,08:17,9,0,MIN,3_Pts_T,Gui Santos
+554,1,08:33,9,0,MIN,FR,Davi
+555,1,08:33,9,0,CAP,FC,Ruivo
+556,1,08:48,9,0,CAP,AS,Maique
+557,1,08:48,9,0,CAP,3_Pts_C,Du Sommer
+558,1,09:02,6,0,CAP,BR,Du Sommer
+559,1,09:02,6,0,MIN,ER,Batista
+560,1,09:17,6,0,CAP,AS,Thomas
+561,1,09:17,6,0,CAP,3_Pts_C,Jimmy
+562,1,09:25,3,0,CAP,BR,Du Sommer
+563,1,09:25,3,0,MIN,ER,Batista
+564,1,09:45,3,0,CAP,AS,Thomas
+565,1,09:45,3,0,CAP,3_Pts_C,Jimmy
+566,1,10:00,0,0,MIN,substituicao_entra,David Jackson
+567,1,10:00,0,0,MIN,substituicao_entra,Batista
+568,1,10:00,0,0,MIN,substituicao_entra,Gui Santos
+569,1,10:00,0,0,MIN,substituicao_entra,Davi
+570,1,10:00,0,0,MIN,substituicao_entra,Queiros
+571,1,10:00,0,0,CAP,substituicao_entra,Maique
+572,1,10:00,0,0,CAP,substituicao_entra,Thomas
+573,1,10:00,0,0,CAP,substituicao_entra,Jimmy
+574,1,10:00,0,0,CAP,substituicao_entra,Du Sommer
+575,1,10:00,0,0,CAP,substituicao_entra,Ruivo
+576,1,10:00,0,0,,inicio_partida,

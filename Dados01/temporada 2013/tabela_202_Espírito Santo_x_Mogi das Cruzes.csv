@@ -1,0 +1,521 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,70,73, ,fim_partida,
+1,4,00:01,70,73,ESB,3_Pts_T,Collins
+2,4,00:05,70,73,ESB,RD,Gorauskas
+3,4,00:05,70,73,MOG,LL_Pts_T,Jeff Agba
+4,4,00:05,70,73,MOG,LL_Pts_C,Jeff Agba
+5,4,00:05,70,72,MOG,FR,Jeff Agba
+6,4,00:05,70,72,ESB,FC,Collins
+7,4,00:05,70,72,ESB,LL_Pts_T,Collins
+8,4,00:05,70,72,ESB,LL_Pts_C,Collins
+9,4,00:05,69,72,ESB,FR,Collins
+10,4,00:05,69,72,MOG,FC,B Simões
+11,4,00:09,69,72,MOG,LL_Pts_C,Jason Smith
+12,4,00:09,69,71,MOG,LL_Pts_C,Jason Smith
+13,4,00:09,69,70,MOG,FR,Jason Smith
+14,4,00:09,69,70,ESB,FC,Edu
+15,4,00:10,69,70,ESB,LL_Pts_C,Collins
+16,4,00:10,68,70,ESB,LL_Pts_C,Collins
+17,4,00:10,67,70,ESB,FR,Collins
+18,4,00:10,67,70,MOG,FC,Gustavinho
+19,4,00:15,67,70,MOG,LL_Pts_C,Gustavinho
+20,4,00:15,67,69,MOG,LL_Pts_T,Gustavinho
+21,4,00:15,67,69,MOG,FR,Gustavinho
+22,4,00:15,67,69,ESB,FC,Arnaldinho
+23,4,00:18,67,69,MOG,tempo_tecnico,Mogi das Cruzes
+24,4,00:18,67,69,ESB,LL_Pts_C,Arnaldinho
+25,4,00:18,66,69,ESB,LL_Pts_C,Arnaldinho
+26,4,00:18,65,69,ESB,FR,Arnaldinho
+27,4,00:18,65,69,MOG,FC,Gustavinho
+28,4,00:21,65,69,MOG,LL_Pts_C,Gustavinho
+29,4,00:21,65,68,MOG,LL_Pts_C,Gustavinho
+30,4,00:21,65,67,MOG,FR,Gustavinho
+31,4,00:21,65,67,ESB,FC,Collins
+32,4,00:23,65,67,ESB,LL_Pts_C,Arnaldinho
+33,4,00:23,64,67,ESB,LL_Pts_T,Arnaldinho
+34,4,00:23,64,67,MOG,substituicao_entra,Gustavinho
+35,4,00:23,64,67,MOG,substituicao_sai,Filipin
+36,4,00:24,64,67,ESB,FR,Arnaldinho
+37,4,00:24,64,67,MOG,FC,Filipin
+38,4,00:27,64,67,ESB,tempo_tecnico,Espírito Santo Basquetebol
+39,4,00:27,64,67,MOG,LL_Pts_C,Jason Smith
+40,4,00:27,64,66,MOG,LL_Pts_C,Jason Smith
+41,4,00:27,64,65,MOG,FR,Jason Smith
+42,4,00:27,64,65,ESB,FC,Collins
+43,4,00:39,64,65,MOG,RO,Toledo
+44,4,00:39,64,65,MOG,3_Pts_T,Jason Smith
+45,4,00:52,64,65,ESB,AS,Arnaldinho
+46,4,00:55,64,65,MOG,RD,Toledo
+47,4,00:55,64,65,ESB,LL_Pts_T,Cicero
+48,4,00:55,64,65,ESB,LL_Pts_C,Cicero
+49,4,00:56,63,65,ESB,FR,Cicero
+50,4,00:56,63,65,MOG,FC,B Simões
+51,4,01:17,63,65,ESB,RD,Gorauskas
+52,4,01:17,63,65,MOG,LL_Pts_T,Jason Smith
+53,4,01:17,63,65,MOG,LL_Pts_T,Jason Smith
+54,4,01:17,63,65,MOG,FR,Jason Smith
+55,4,01:17,63,65,ESB,FC,Collins
+56,4,01:27,63,65,ESB,LL_Pts_C,Arnaldinho
+57,4,01:27,62,65,ESB,LL_Pts_C,Arnaldinho
+58,4,01:27,61,65,ESB,FR,Arnaldinho
+59,4,01:27,61,65,MOG,FC,Jason Smith
+60,4,01:41,61,65,MOG,2_Pts_C,Filipin
+61,4,01:54,61,63,MOG,RO,Toledo
+62,4,01:54,61,63,MOG,2_Pts_T,Jason Smith
+63,4,02:11,61,63,MOG,RD,Toledo
+64,4,02:11,61,63,ESB,3_Pts_T,Gorauskas
+65,4,02:22,61,63,MOG,substituicao_entra,Jeff Agba
+66,4,02:22,61,63,MOG,substituicao_sai,Sidão
+67,4,02:26,61,63,MOG,3_Pts_C,Filipin
+68,4,02:26,61,60,MOG,AS,Toledo
+69,4,02:37,61,60,MOG,RO,Sidão
+70,4,02:37,61,60,MOG,3_Pts_T,Toledo
+71,4,02:57,61,60,ESB,3_Pts_C,Collins
+72,4,03:16,58,60,ESB,FR,Gorauskas
+73,4,03:16,58,60,MOG,FC_O,Sidão
+74,4,03:31,58,60,ESB,3_Pts_C,Collins
+75,4,03:48,55,60,ESB,tempo_tecnico,Espírito Santo Basquetebol
+76,4,03:48,55,60,MOG,2_Pts_C,Filipin
+77,4,03:52,55,58,MOG,RO,Filipin
+78,4,03:52,55,58,MOG,2_Pts_T,Filipin
+79,4,04:05,55,58,MOG,RO,Jason Smith
+80,4,04:05,55,58,MOG,3_Pts_T,Filipin
+81,4,04:27,55,58,MOG,RD,Filipin
+82,4,04:27,55,58,ESB,3_Pts_T,Arnaldinho
+83,4,04:37,55,58,MOG,LL_Pts_C,B Simões
+84,4,04:37,55,57,MOG,LL_Pts_C,B Simões
+85,4,04:37,55,56,MOG,FR,B Simões
+86,4,04:37,55,56,ESB,FC,Cicero
+87,4,04:37,55,56,MOG,BR,B Simões
+88,4,04:37,55,56,ESB,ER,Cicero
+89,4,04:43,55,56,ESB,RD,Cicero
+90,4,04:43,55,56,MOG,2_Pts_T,Filipin
+91,4,04:55,55,56,ESB,LL_Pts_C,Arnaldinho
+92,4,04:55,54,56,ESB,LL_Pts_C,Arnaldinho
+93,4,04:55,53,56,ESB,LL_Pts_C,Arnaldinho
+94,4,04:55,52,56,ESB,FR,Arnaldinho
+95,4,04:55,52,56,MOG,FC,Filipin
+96,4,05:07,52,56,MOG,AS,Filipin
+97,4,05:07,52,56,MOG,LL_Pts_C,Sidão
+98,4,05:07,52,55,ESB,substituicao_entra,Gorauskas
+99,4,05:07,52,55,ESB,substituicao_sai,Gaspar
+100,4,05:07,52,55,MOG,2_Pts_C,Sidão
+101,4,05:07,52,53,MOG,FR,Sidão
+102,4,05:07,52,53,ESB,FC,Gaspar
+103,4,05:27,52,53,MOG,BR,B Simões
+104,4,05:27,52,53,ESB,ER,Edu
+105,4,05:39,52,53,ESB,FR,Gaspar
+106,4,05:39,52,53,MOG,FC_O,Sidão
+107,4,05:55,52,53,MOG,substituicao_entra,Filipin
+108,4,05:55,52,53,MOG,substituicao_sai,Jeff Agba
+109,4,05:55,52,53,ESB,ER,Cicero
+110,4,06:19,52,53,ESB,RD,Edu
+111,4,06:19,52,53,MOG,2_Pts_T,Jeff Agba
+112,4,06:39,52,53,MOG,RD,Jeff Agba
+113,4,06:39,52,53,ESB,LL_Pts_T,Edu
+114,4,06:39,52,53,ESB,LL_Pts_C,Edu
+115,4,06:39,51,53,ESB,FR,Edu
+116,4,06:39,51,53,MOG,FC,Toledo
+117,4,07:01,51,53,MOG,LL_Pts_C,Sidão
+118,4,07:01,51,52,MOG,LL_Pts_T,Sidão
+119,4,07:01,51,52,ESB,substituicao_entra,Collins
+120,4,07:01,51,52,ESB,substituicao_sai,Gorauskas
+121,4,07:01,51,52,MOG,FR,Sidão
+122,4,07:01,51,52,ESB,FC,Gorauskas
+123,4,07:05,51,52,MOG,RO,Sidão
+124,4,07:05,51,52,MOG,3_Pts_T,Jason Smith
+125,4,07:09,51,52,MOG,FR,Toledo
+126,4,07:09,51,52,ESB,FC,Gorauskas
+127,4,07:13,51,52,MOG,RO,Toledo
+128,4,07:13,51,52,MOG,2_Pts_T,B Simões
+129,4,07:19,51,52,MOG,RO,B Simões
+130,4,07:19,51,52,MOG,2_Pts_T,Jeff Agba
+131,4,07:31,51,52,MOG,substituicao_entra,Jeff Agba
+132,4,07:31,51,52,MOG,substituicao_sai,Thomas Gehrke
+133,4,07:31,51,52,ESB,tempo_tecnico,Espírito Santo Basquetebol
+134,4,07:31,51,52,MOG,FR,Jason Smith
+135,4,07:31,51,52,ESB,FC,Arnaldinho
+136,4,07:38,51,52,MOG,RD,Thomas Gehrke
+137,4,07:38,51,52,MOG,TO,Sidão
+138,4,07:38,51,52,ESB,2_Pts_T,Cicero
+139,4,07:47,51,52,MOG,2_Pts_C,Thomas Gehrke
+140,4,07:47,51,50,MOG,AS,Toledo
+141,4,08:01,51,50,MOG,FR,Toledo
+142,4,08:01,51,50,ESB,FC_O,Gaspar
+143,4,08:23,51,50,MOG,substituicao_entra,B Simões
+144,4,08:23,51,50,MOG,substituicao_sai,Filipin
+145,4,08:23,51,50,ESB,FR,Edu
+146,4,08:23,51,50,MOG,FC_O,Filipin
+147,4,08:35,51,50,ESB,2_Pts_C,Gorauskas
+148,4,08:41,49,50,ESB,RO,Gorauskas
+149,4,08:41,49,50,ESB,3_Pts_T,Cicero
+150,4,09:06,49,50,ESB,RD,Cicero
+151,4,09:06,49,50,MOG,LL_Pts_T,Thomas Gehrke
+152,4,09:06,49,50,MOG,LL_Pts_C,Thomas Gehrke
+153,4,09:06,49,49,MOG,AS,Filipin
+154,4,09:06,49,49,MOG,LL_Pts_C,Thomas Gehrke
+155,4,09:06,49,48,MOG,FR,Thomas Gehrke
+156,4,09:06,49,48,ESB,FC,Gaspar
+157,4,09:37,49,48,MOG,RD,Thomas Gehrke
+158,4,09:37,49,48,ESB,3_Pts_T,Arnaldinho
+159,4,09:47,49,48,ESB,RO,Gaspar
+160,4,09:47,49,48,ESB,2_Pts_T,Gorauskas
+161,3,00:00,49,48, ,fim_quarto,
+162,3,00:00,49,48,MOG,2_Pts_C,Jason Smith
+163,3,00:01,49,46,MOG,RO,Jason Smith
+164,3,00:01,49,46,MOG,2_Pts_T,Filipin
+165,3,00:05,49,46,MOG,RO,Filipin
+166,3,00:05,49,46,MOG,2_Pts_T,Filipin
+167,3,00:12,49,46,MOG,RD,Thomas Gehrke
+168,3,00:12,49,46,ESB,2_Pts_T,Edu
+169,3,00:34,49,46,ESB,BR,Edu
+170,3,00:34,49,46,MOG,ER,Toledo
+171,3,00:50,49,46,ESB,3_Pts_C,Arnaldinho
+172,3,01:03,46,46,ESB,RD,Gaspar
+173,3,01:03,46,46,MOG,LL_Pts_T,Sidão
+174,3,01:03,46,46,MOG,LL_Pts_T,Sidão
+175,3,01:03,46,46,MOG,FR,Sidão
+176,3,01:03,46,46,ESB,FC,Edu
+177,3,01:16,46,46,ESB,substituicao_entra,Gaspar
+178,3,01:16,46,46,ESB,substituicao_sai,Daniel Filé
+179,3,01:16,46,46,MOG,substituicao_entra,Jason Smith
+180,3,01:16,46,46,MOG,substituicao_sai,Gustavinho
+181,3,01:16,46,46,ESB,ER,Daniel Filé
+182,3,01:33,46,46,MOG,2_Pts_C,Sidão
+183,3,01:35,46,44,MOG,RO,Sidão
+184,3,01:35,46,44,MOG,LL_Pts_T,Toledo
+185,3,01:35,46,44,MOG,LL_Pts_T,Toledo
+186,3,01:35,46,44,MOG,FR,Toledo
+187,3,01:35,46,44,ESB,FC,Daniel Filé
+188,3,01:38,46,44,MOG,RO,Toledo
+189,3,01:38,46,44,MOG,2_Pts_T,Thomas Gehrke
+190,3,01:46,46,44,MOG,RD,Sidão
+191,3,01:46,46,44,ESB,2_Pts_T,Edu
+192,3,02:07,46,44,ESB,RD,Cicero
+193,3,02:07,46,44,MOG,LL_Pts_T,Toledo
+194,3,02:07,46,44,MOG,LL_Pts_T,Toledo
+195,3,02:07,46,44,ESB,substituicao_entra,Daniel Filé
+196,3,02:07,46,44,ESB,substituicao_sai,Robson
+197,3,02:11,46,44,MOG,FR,Toledo
+198,3,02:11,46,44,ESB,FC,Robson
+199,3,02:29,46,44,ESB,EN,Cicero
+200,3,02:29,44,44,ESB,AS,Gorauskas
+201,3,02:43,44,44,ESB,RD,Robson
+202,3,02:43,44,44,MOG,3_Pts_T,Filipin
+203,3,03:00,44,44,MOG,BR,Mogi das Cruzes
+204,3,03:00,44,44,ESB,ER,Edu
+205,3,03:08,44,44,MOG,LL_Pts_C,Sidão
+206,3,03:08,44,43,MOG,LL_Pts_C,Sidão
+207,3,03:08,44,42,MOG,FR,Sidão
+208,3,03:08,44,42,ESB,FC,Gorauskas
+209,3,03:19,44,42,MOG,RD,Thomas Gehrke
+210,3,03:19,44,42,ESB,3_Pts_T,Gorauskas
+211,3,03:42,44,42,ESB,FR,Robson
+212,3,03:42,44,42,MOG,FC_O,Filipin
+213,3,03:46,44,42,MOG,FR,Filipin
+214,3,03:46,44,42,ESB,FC,Robson
+215,3,03:55,44,42,ESB,substituicao_entra,Robson
+216,3,03:55,44,42,ESB,substituicao_sai,Daniel Filé
+217,3,04:00,44,42,ESB,LL_Pts_C,Daniel Filé
+218,3,04:00,43,42,ESB,LL_Pts_T,Daniel Filé
+219,3,04:00,43,42,ESB,FR,Daniel Filé
+220,3,04:00,43,42,MOG,FC,Sidão
+221,3,04:00,43,42,ESB,BR,Daniel Filé
+222,3,04:00,43,42,MOG,ER,Thomas Gehrke
+223,3,04:00,43,42,MOG,FR,Toledo
+224,3,04:00,43,42,ESB,FC,Daniel Filé
+225,3,04:08,43,42,MOG,RD,Toledo
+226,3,04:08,43,42,ESB,3_Pts_T,Cicero
+227,3,04:23,43,42,MOG,3_Pts_C,Filipin
+228,3,04:27,43,39,MOG,substituicao_entra,Sidão
+229,3,04:29,43,39,MOG,substituicao_sai,B Simões
+230,3,05:04,43,39,ESB,3_Pts_C,Gorauskas
+231,3,05:04,40,39,ESB,AS,Arnaldinho
+232,3,05:53,40,39,MOG,2_Pts_C,Toledo
+233,3,05:53,40,37,MOG,AS,Thomas Gehrke
+234,3,05:53,40,37,MOG,RD,B Simões
+235,3,05:53,40,37,ESB,3_Pts_T,Edu
+236,3,05:53,40,37,ESB,RD,Gorauskas
+237,3,05:53,40,37,MOG,3_Pts_T,Filipin
+238,3,05:53,40,37,MOG,FR,Toledo
+239,3,05:53,40,37,ESB,FC,Gorauskas
+240,3,06:11,40,37,ESB,LL_Pts_C,Daniel Filé
+241,3,06:11,39,37,ESB,LL_Pts_C,Daniel Filé
+242,3,06:11,38,37,MOG,substituicao_entra,Thomas Gehrke
+243,3,06:11,38,37,MOG,substituicao_sai,Jeff Agba
+244,3,06:11,38,37,ESB,FR,Daniel Filé
+245,3,06:11,38,37,MOG,FC,Jeff Agba
+246,3,06:11,38,37,MOG,substituicao_entra,Jeff Agba
+247,3,06:11,38,37,MOG,substituicao_sai,Jeff Agba
+248,3,06:16,38,37,ESB,FR,Daniel Filé
+249,3,06:16,38,37,MOG,FC,Jeff Agba
+250,3,06:16,38,37,MOG,substituicao_entra,Jeff Agba
+251,3,06:16,38,37,MOG,substituicao_sai,Daniel Alemão
+252,3,06:42,38,37,ESB,LL_Pts_C,Arnaldinho
+253,3,06:42,37,37,ESB,LL_Pts_C,Arnaldinho
+254,3,06:42,36,37,ESB,LL_Pts_T,Edu
+255,3,06:42,36,37,ESB,LL_Pts_C,Edu
+256,3,06:42,35,37,MOG,FC_T,Daniel Alemão
+257,3,06:42,35,37,ESB,FR,Edu
+258,3,06:42,35,37,MOG,FC,Daniel Alemão
+259,3,06:42,35,37,MOG,2_Pts_C,Filipin
+260,3,07:02,35,35,MOG,3_Pts_C,Filipin
+261,3,07:02,35,32,MOG,AS,Toledo
+262,3,07:22,35,32,MOG,BR,Mogi das Cruzes
+263,3,07:22,35,32,ESB,ER,Arnaldinho
+264,3,07:30,35,32,MOG,AS,Gustavinho
+265,3,07:36,35,32,MOG,RO,Daniel Alemão
+266,3,07:36,35,32,MOG,3_Pts_T,B Simões
+267,3,07:50,35,32,ESB,2_Pts_C,Cicero
+268,3,08:05,33,32,ESB,RD,Edu
+269,3,08:05,33,32,MOG,3_Pts_T,Gustavinho
+270,3,08:23,33,32,MOG,BR,Daniel Alemão
+271,3,08:23,33,32,ESB,ER,Daniel Filé
+272,3,08:50,33,32,ESB,FR,Edu
+273,3,08:50,33,32,MOG,FC,Gustavinho
+274,3,09:01,33,32,MOG,ER,Gustavinho
+275,3,09:18,33,32,MOG,RD,Gustavinho
+276,3,09:18,33,32,ESB,3_Pts_T,Cicero
+277,3,09:33,33,32,ESB,RD,Arnaldinho
+278,3,09:33,33,32,MOG,2_Pts_T,Toledo
+279,3,09:51,33,32,ESB,3_Pts_C,Edu
+280,3,09:51,30,32,ESB,RO,Edu
+281,3,09:51,30,32,MOG,TO,B Simões
+282,3,09:51,30,32,ESB,2_Pts_T,Cicero
+283,3,09:56,30,32,ESB,BR,Espírito Santo Basquetebol
+284,3,09:56,30,32,MOG,ER,Filipin
+285,2,00:00,30,32, ,fim_quarto,
+286,2,00:01,30,32,MOG,FR,B Simões
+287,2,00:01,30,32,ESB,FC,Robson
+288,2,00:01,30,32,ESB,substituicao_entra,Rafael
+289,2,00:01,30,32,ESB,substituicao_sai,Arnaldinho
+290,2,00:01,30,32,ESB,substituicao_entra,Robson
+291,2,00:01,30,32,ESB,substituicao_sai,Cicero
+292,2,00:01,30,32,MOG,substituicao_entra,B Simões
+293,2,00:01,30,32,MOG,substituicao_sai,Thomas Gehrke
+294,2,00:01,30,32,MOG,substituicao_entra,Gustavinho
+295,2,00:01,30,32,MOG,substituicao_sai,Jason Smith
+296,2,00:01,30,32,MOG,tempo_tecnico,Mogi das Cruzes
+297,2,00:01,30,32,MOG,FR,Jason Smith
+298,2,00:01,30,32,ESB,FC,Arnaldinho
+299,2,00:21,30,32,MOG,RD,Filipin
+300,2,00:21,30,32,ESB,LL_Pts_T,Cicero
+301,2,00:21,30,32,ESB,LL_Pts_C,Cicero
+302,2,00:21,29,32,MOG,substituicao_entra,Jefferson Campos
+303,2,00:21,29,32,MOG,substituicao_sai,B Simões
+304,2,00:21,29,32,ESB,FR,Cicero
+305,2,00:21,29,32,MOG,FC,B Simões
+306,2,00:33,29,32,ESB,BR,Espírito Santo Basquetebol
+307,2,00:33,29,32,MOG,ER,B Simões
+308,2,00:42,29,32,MOG,BR,Toledo
+309,2,00:42,29,32,ESB,ER,Arnaldinho
+310,2,00:55,29,32,ESB,BR,Espírito Santo Basquetebol
+311,2,00:55,29,32,MOG,ER,Jason Smith
+312,2,01:11,29,32,ESB,LL_Pts_C,Arnaldinho
+313,2,01:11,28,32,ESB,LL_Pts_C,Arnaldinho
+314,2,01:11,27,32,ESB,FR,Arnaldinho
+315,2,01:11,27,32,MOG,FC,Jason Smith
+316,2,01:15,27,32,ESB,BR,Edu
+317,2,01:15,27,32,MOG,ER,B Simões
+318,2,01:31,27,32,MOG,substituicao_entra,Filipin
+319,2,01:31,27,32,MOG,substituicao_sai,Patekoski
+320,2,01:45,27,32,ESB,2_Pts_C,Edu
+321,2,01:51,25,32,ESB,BR,Gaspar
+322,2,01:51,25,32,MOG,ER,Thomas Gehrke
+323,2,02:07,25,32,ESB,LL_Pts_C,Cicero
+324,2,02:07,24,32,ESB,AS,Arnaldinho
+325,2,02:07,24,32,ESB,LL_Pts_C,Cicero
+326,2,02:07,23,32,ESB,FR,Cicero
+327,2,02:07,23,32,MOG,FC,Patekoski
+328,2,02:22,23,32,MOG,2_Pts_C,Toledo
+329,2,02:22,23,30,MOG,AS,Jason Smith
+330,2,02:28,23,30,MOG,BR,B Simões
+331,2,02:28,23,30,ESB,ER,Cicero
+332,2,02:44,23,30,ESB,FR,Edu
+333,2,02:44,23,30,MOG,FC,Patekoski
+334,2,02:49,23,30,ESB,RD,Edu
+335,2,02:49,23,30,MOG,2_Pts_T,Patekoski
+336,2,03:05,23,30,MOG,RO,Toledo
+337,2,03:05,23,30,MOG,3_Pts_T,B Simões
+338,2,03:07,23,30,MOG,substituicao_entra,Toledo
+339,2,03:07,23,30,MOG,substituicao_sai,Daniel Alemão
+340,2,03:07,23,30,ESB,substituicao_entra,Arnaldinho
+341,2,03:07,23,30,ESB,substituicao_sai,Collins
+342,2,03:07,23,30,ESB,substituicao_entra,Gorauskas
+343,2,03:07,23,30,ESB,substituicao_sai,Daniel Filé
+344,2,03:07,23,30,MOG,FR,Patekoski
+345,2,03:07,23,30,ESB,FC,Daniel Filé
+346,2,03:18,23,30,MOG,RD,Thomas Gehrke
+347,2,03:18,23,30,ESB,2_Pts_T,Edu
+348,2,03:32,23,30,MOG,substituicao_entra,Patekoski
+349,2,03:32,23,30,MOG,substituicao_sai,Jefferson Campos
+350,2,03:32,23,30,ESB,FR,Collins
+351,2,03:32,23,30,MOG,FC,Jefferson Campos
+352,2,03:41,23,30,MOG,,
+353,2,03:48,23,30,MOG,RO,B Simões
+354,2,03:48,23,30,MOG,3_Pts_T,Jason Smith
+355,2,03:58,23,30,MOG,RD,B Simões
+356,2,03:58,23,30,ESB,2_Pts_T,Collins
+357,2,04:14,23,30,ESB,tempo_tecnico,Espírito Santo Basquetebol
+358,2,04:14,23,30,ESB,FR,Gaspar
+359,2,04:14,23,30,MOG,FC,Daniel Alemão
+360,2,04:28,23,30,MOG,substituicao_entra,Jason Smith
+361,2,04:28,23,30,MOG,substituicao_sai,Gustavinho
+362,2,04:37,23,30,ESB,FR,Collins
+363,2,04:37,23,30,MOG,FC,Gustavinho
+364,2,04:48,23,30,ESB,substituicao_entra,Collins
+365,2,04:48,23,30,ESB,substituicao_sai,Arnaldinho
+366,2,04:55,23,30,MOG,2_Pts_C,Daniel Alemão
+367,2,04:55,23,28,MOG,AS,Gustavinho
+368,2,05:21,23,28,ESB,EN,Cicero
+369,2,05:44,21,28,ESB,2_Pts_C,Edu
+370,2,05:52,19,28,MOG,2_Pts_C,Filipin
+371,2,06:05,19,26,ESB,2_Pts_C,Edu
+372,2,06:34,17,26,MOG,2_Pts_C,Thomas Gehrke
+373,2,06:45,17,24,ESB,substituicao_entra,Edu
+374,2,06:45,17,24,ESB,substituicao_sai,Robson
+375,2,06:58,17,24,ESB,BR,Daniel Filé
+376,2,06:58,17,24,MOG,ER,Gustavinho
+377,2,07:10,17,24,MOG,RD,Mogi das Cruzes
+378,2,07:10,17,24,ESB,2_Pts_T,Arnaldinho
+379,2,07:25,17,24,ESB,RD,Daniel Filé
+380,2,07:25,17,24,MOG,LL_Pts_T,Thomas Gehrke
+381,2,07:25,17,24,MOG,2_Pts_C,Thomas Gehrke
+382,2,07:25,17,22,MOG,FR,Thomas Gehrke
+383,2,07:25,17,22,ESB,FC,Cicero
+384,2,07:25,17,22,MOG,substituicao_entra,Jefferson Campos
+385,2,07:25,17,22,MOG,substituicao_sai,Filipin
+386,2,07:26,17,22,ESB,substituicao_entra,Daniel Filé
+387,2,07:26,17,22,ESB,substituicao_sai,Gorauskas
+388,2,07:38,17,22,MOG,substituicao_entra,Daniel Alemão
+389,2,07:38,17,22,MOG,substituicao_sai,Jeff Agba
+390,2,07:52,17,22,MOG,2_Pts_C,Gustavinho
+391,2,08:09,17,20,ESB,substituicao_entra,Gaspar
+392,2,08:09,17,20,ESB,substituicao_sai,Edu
+393,2,08:17,17,20,ESB,2_Pts_C,Edu
+394,2,08:20,15,20,ESB,BR,Edu
+395,2,08:20,15,20,MOG,ER,Thomas Gehrke
+396,2,08:31,15,20,MOG,2_Pts_C,Gustavinho
+397,2,09:09,15,18,ESB,RD,Robson
+398,2,09:09,15,18,MOG,2_Pts_T,Gustavinho
+399,2,09:45,15,18,ESB,2_Pts_C,Cicero
+400,1,00:00,13,18, ,fim_quarto,
+401,1,00:01,13,18,ESB,2_Pts_C,Edu
+402,1,00:18,11,18,MOG,RD,Jeff Agba
+403,1,00:18,11,18,ESB,3_Pts_T,Cicero
+404,1,00:28,11,18,MOG,2_Pts_C,B Simões
+405,1,00:36,11,16,MOG,RO,B Simões
+406,1,00:36,11,16,MOG,2_Pts_T,Thomas Gehrke
+407,1,00:53,11,16,ESB,LL_Pts_C,Gorauskas
+408,1,00:53,10,16,ESB,LL_Pts_C,Gorauskas
+409,1,00:53,9,16,ESB,FR,Gorauskas
+410,1,00:53,9,16,MOG,FC,Thomas Gehrke
+411,1,01:00,9,16,ESB,RD,Gorauskas
+412,1,01:00,9,16,MOG,2_Pts_T,B Simões
+413,1,01:00,9,16,MOG,substituicao_entra,B Simões
+414,1,01:00,9,16,MOG,substituicao_sai,Toledo
+415,1,01:24,9,16,ESB,ER,Robson
+416,1,01:41,9,16,MOG,substituicao_entra,Gustavinho
+417,1,01:41,9,16,MOG,substituicao_sai,Jason Smith
+418,1,01:41,9,16,ESB,BR,Espírito Santo Basquetebol
+419,1,01:41,9,16,MOG,ER,Jason Smith
+420,1,01:47,9,16,MOG,FR,Thomas Gehrke
+421,1,01:47,9,16,ESB,FC,Robson
+422,1,01:50,9,16,MOG,BR,Thomas Gehrke
+423,1,01:50,9,16,ESB,ER,Robson
+424,1,02:00,9,16,ESB,substituicao_entra,Cicero
+425,1,02:00,9,16,ESB,substituicao_sai,Daniel Filé
+426,1,02:00,9,16,MOG,substituicao_entra,Thomas Gehrke
+427,1,02:00,9,16,MOG,substituicao_sai,Daniel Alemão
+428,1,02:00,9,16,ESB,FR,Robson
+429,1,02:00,9,16,MOG,FC,Daniel Alemão
+430,1,02:03,9,16,ESB,BR,Robson
+431,1,02:03,9,16,MOG,ER,Daniel Alemão
+432,1,02:20,9,16,MOG,2_Pts_C,Jason Smith
+433,1,02:30,9,14,ESB,RD,Gorauskas
+434,1,02:30,9,14,MOG,3_Pts_T,Jason Smith
+435,1,02:54,9,14,ESB,3_Pts_C,Arnaldinho
+436,1,03:01,6,14,MOG,,
+437,1,03:01,6,14,MOG,RO,Daniel Alemão
+438,1,03:01,6,14,MOG,2_Pts_T,Daniel Alemão
+439,1,03:12,6,14,MOG,RD,Jeff Agba
+440,1,03:12,6,14,ESB,2_Pts_T,Edu
+441,1,03:25,6,14,MOG,2_Pts_C,Jeff Agba
+442,1,03:40,6,12,MOG,RO,Jason Smith
+443,1,03:40,6,12,MOG,3_Pts_T,Toledo
+444,1,03:56,6,12,ESB,substituicao_entra,Robson
+445,1,03:56,6,12,ESB,substituicao_sai,Cicero
+446,1,03:56,6,12,MOG,LL_Pts_C,Toledo
+447,1,03:56,6,11,MOG,LL_Pts_C,Toledo
+448,1,03:56,6,10,MOG,FR,Toledo
+449,1,03:56,6,10,ESB,FC_A,Cicero
+450,1,04:01,6,10,MOG,BR,Toledo
+451,1,04:01,6,10,ESB,ER,Gorauskas
+452,1,04:15,6,10,ESB,RD,Gorauskas
+453,1,04:15,6,10,MOG,2_Pts_T,Daniel Alemão
+454,1,04:32,6,10,ESB,tempo_tecnico,Espírito Santo Basquetebol
+455,1,04:32,6,10,MOG,FR,Jason Smith
+456,1,04:32,6,10,ESB,FC,Arnaldinho
+457,1,04:42,6,10,MOG,RD,Filipin
+458,1,04:42,6,10,ESB,3_Pts_T,Cicero
+459,1,05:02,6,10,MOG,2_Pts_C,Filipin
+460,1,05:02,6,8,MOG,AS,Jeff Agba
+461,1,05:13,6,8,MOG,RD,Filipin
+462,1,05:13,6,8,ESB,3_Pts_T,Gorauskas
+463,1,05:25,6,8,MOG,LL_Pts_C,Filipin
+464,1,05:25,6,7,MOG,LL_Pts_C,Filipin
+465,1,05:25,6,6,MOG,FR,Filipin
+466,1,05:25,6,6,ESB,FC,Daniel Filé
+467,1,05:35,6,6,MOG,RD,Toledo
+468,1,05:35,6,6,ESB,3_Pts_T,Arnaldinho
+469,1,05:49,6,6,MOG,2_Pts_C,Toledo
+470,1,05:56,6,4,MOG,RO,Toledo
+471,1,05:56,6,4,MOG,3_Pts_T,Filipin
+472,1,06:05,6,4,MOG,BR,Jeff Agba
+473,1,06:05,6,4,ESB,ER,Arnaldinho
+474,1,06:25,6,4,ESB,FR,Daniel Filé
+475,1,06:25,6,4,MOG,FC,Toledo
+476,1,06:26,6,4,ESB,RD,Espírito Santo Basquetebol
+477,1,06:26,6,4,ESB,TO,Edu
+478,1,06:26,6,4,MOG,2_Pts_T,Jeff Agba
+479,1,06:42,6,4,MOG,RD,Filipin
+480,1,06:42,6,4,MOG,TO,Daniel Alemão
+481,1,06:42,6,4,ESB,2_Pts_T,Gorauskas
+482,1,06:56,6,4,ESB,FR,Daniel Filé
+483,1,06:56,6,4,MOG,FC_O,Jeff Agba
+484,1,07:04,6,4,ESB,LL_Pts_C,Edu
+485,1,07:04,5,4,ESB,LL_Pts_C,Edu
+486,1,07:04,4,4,ESB,FR,Edu
+487,1,07:04,4,4,MOG,FC,Filipin
+488,1,07:13,4,4,MOG,2_Pts_C,Jason Smith
+489,1,07:34,4,2,ESB,2_Pts_C,Daniel Filé
+490,1,07:34,2,2,ESB,AS,Gorauskas
+491,1,07:54,2,2,ESB,RD,Gorauskas
+492,1,07:54,2,2,MOG,2_Pts_T,Toledo
+493,1,08:06,2,2,MOG,RD,Filipin
+494,1,08:06,2,2,ESB,2_Pts_T,Daniel Filé
+495,1,08:17,2,2,MOG,2_Pts_C,Jason Smith
+496,1,08:35,2,0,MOG,BR,Mogi das Cruzes
+497,1,08:35,2,0,ESB,ER,Daniel Filé
+498,1,08:37,2,0,ESB,RO,Espírito Santo Basquetebol
+499,1,08:37,2,0,ESB,2_Pts_T,Edu
+500,1,08:46,2,0,ESB,RD,Gorauskas
+501,1,08:46,2,0,MOG,2_Pts_T,Filipin
+502,1,09:07,2,0,ESB,2_Pts_C,Daniel Filé
+503,1,09:07,0,0,ESB,AS,Gorauskas
+504,1,09:20,0,0,ESB,RD,Daniel Filé
+505,1,09:20,0,0,MOG,2_Pts_T,Jeff Agba
+506,1,09:34,0,0,MOG,RD,Jeff Agba
+507,1,09:34,0,0,ESB,2_Pts_T,Gorauskas
+508,1,09:42,0,0,ESB,RD,Arnaldinho
+509,1,09:42,0,0,MOG,3_Pts_T,Filipin
+510,1,10:00,0,0,MOG,substituicao_entra,Jeff Agba
+511,1,10:00,0,0,MOG,substituicao_entra,Daniel Alemão
+512,1,10:00,0,0,MOG,substituicao_entra,Toledo
+513,1,10:00,0,0,MOG,substituicao_entra,Filipin
+514,1,10:00,0,0,MOG,substituicao_entra,Jason Smith
+515,1,10:00,0,0,ESB,substituicao_entra,Arnaldinho
+516,1,10:00,0,0,ESB,substituicao_entra,Cicero
+517,1,10:00,0,0,ESB,substituicao_entra,Gorauskas
+518,1,10:00,0,0,ESB,substituicao_entra,Daniel Filé
+519,1,10:00,0,0,ESB,substituicao_entra,Edu

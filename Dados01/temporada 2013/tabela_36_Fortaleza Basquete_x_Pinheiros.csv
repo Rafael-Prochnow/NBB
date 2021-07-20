@@ -1,0 +1,530 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,94,97, ,fim_partida,
+1,5,00:00,94,97,PIN,FR,Joe Smith
+2,5,00:00,94,97,CEA,FC,Davi
+3,5,00:09,94,97,PIN,RD,Rafael Mineiro
+4,5,00:09,94,97,CEA,3_Pts_T,Jimmy
+5,5,00:09,94,97,CEA,RO,Jimmy
+6,5,00:09,94,97,CEA,3_Pts_T,André Góes
+7,5,00:09,94,97,PIN,LL_Pts_C,Joe Smith
+8,5,00:09,94,96,PIN,LL_Pts_C,Joe Smith
+9,5,00:09,94,95,CEA,substituicao_entra,Nick
+10,5,00:09,94,95,CEA,substituicao_sai,Davi
+11,5,00:17,94,95,PIN,RD,Joe Smith
+12,5,00:17,94,95,CEA,3_Pts_T,André Góes
+13,5,00:31,94,95,CEA,FR,Davi
+14,5,00:31,94,95,PIN,FC_O,Shamell
+15,5,00:46,94,95,CEA,2_Pts_C,André Góes
+16,5,00:50,92,95,CEA,RO,André Góes
+17,5,00:50,92,95,CEA,3_Pts_T,André Góes
+18,5,01:04,92,95,CEA,BR,André Góes
+19,5,01:04,92,95,PIN,ER,Rafael Mineiro
+20,5,01:10,92,95,CEA,3_Pts_C,Brown
+21,5,01:10,89,95,CEA,AS,André Góes
+22,5,01:10,89,95,CEA,tempo_tecnico,Basquete Cearense
+23,5,01:10,89,95,PIN,LL_Pts_C,Leandrinho
+24,5,01:10,89,94,PIN,LL_Pts_C,Leandrinho
+25,5,01:10,89,93,CEA,substituicao_entra,Brown
+26,5,01:10,89,93,CEA,substituicao_sai,Drudi
+27,5,01:10,89,93,PIN,FR,Leandrinho
+28,5,01:10,89,93,CEA,FC,Davi
+29,5,01:20,89,93,PIN,RD,Morro
+30,5,01:20,89,93,CEA,LL_Pts_T,André Góes
+31,5,01:20,89,93,CEA,LL_Pts_C,André Góes
+32,5,01:22,88,93,CEA,FR,André Góes
+33,5,01:22,88,93,PIN,FC,Morro
+34,5,01:31,88,93,CEA,RD,Devon
+35,5,01:31,88,93,PIN,LL_Pts_T,Shamell
+36,5,01:37,88,93,PIN,2_Pts_C,Shamell
+37,5,01:37,88,91,PIN,FR,Shamell
+38,5,01:37,88,91,CEA,FC,Jimmy
+39,5,01:47,88,91,PIN,RD,Morro
+40,5,01:47,88,91,CEA,2_Pts_T,Drudi
+41,5,02:10,88,91,PIN,2_Pts_C,Shamell
+42,5,02:17,88,89,PIN,RD,Rafael Mineiro
+43,5,02:17,88,89,CEA,2_Pts_T,Davi
+44,5,02:34,88,89,CEA,RD,Devon
+45,5,02:34,88,89,PIN,3_Pts_T,Leandrinho
+46,5,03:10,88,89,CEA,3_Pts_C,André Góes
+47,5,03:10,85,89,CEA,AS,Davi
+48,5,03:10,85,89,CEA,BR,Basquete Cearense
+49,5,03:10,85,89,PIN,ER,Rafael Mineiro
+50,5,03:29,85,89,PIN,RD,Shamell
+51,5,03:29,85,89,CEA,2_Pts_T,André Góes
+52,5,03:34,85,89,CEA,substituicao_entra,Drudi
+53,5,03:36,85,89,CEA,substituicao_sai,Brown
+54,5,03:49,85,89,CEA,RO,Basquete Cearense
+55,5,03:49,85,89,CEA,3_Pts_T,Brown
+56,5,04:04,85,89,PIN,3_Pts_C,Joe Smith
+57,5,04:23,85,86,PIN,RD,Morro
+58,5,04:23,85,86,CEA,2_Pts_T,Devon
+59,5,04:53,85,86,CEA,RD,André Góes
+60,5,04:53,85,86,PIN,LL_Pts_T,Shamell
+61,5,04:53,85,86,PIN,LL_Pts_C,Shamell
+62,5,04:53,85,85,PIN,FR,Shamell
+63,5,04:53,85,85,CEA,FC,Devon
+64,5,05:00,85,85,CEA,substituicao_entra,Brown
+65,5,05:00,85,85,CEA,substituicao_entra,Devon
+66,5,05:00,85,85,CEA,substituicao_entra,Jimmy
+67,5,05:00,85,85,CEA,substituicao_entra,Davi
+68,5,05:00,85,85,CEA,substituicao_entra,André Góes
+69,5,05:00,85,85,PIN,substituicao_entra,Rafael Mineiro
+70,5,05:00,85,85,PIN,substituicao_entra,Leandrinho
+71,5,05:00,85,85,PIN,substituicao_entra,Shamell
+72,5,05:00,85,85,PIN,substituicao_entra,Morro
+73,5,05:00,85,85,PIN,substituicao_entra,Joe Smith
+74,5,05:00,85,85,PIN,substituicao_sai,Leandrinho
+75,5,05:00,85,85,PIN,substituicao_sai,Shamell
+76,5,05:00,85,85,PIN,substituicao_sai,Rafael Mineiro
+77,5,05:00,85,85,PIN,substituicao_sai,Joe Smith
+78,5,05:00,85,85,PIN,substituicao_sai,Morro
+79,5,05:00,85,85,CEA,substituicao_sai,Devon
+80,5,05:00,85,85,CEA,substituicao_sai,Jimmy
+81,5,05:00,85,85,CEA,substituicao_sai,Brown
+82,5,05:00,85,85,CEA,substituicao_sai,Davi
+83,5,05:00,85,85,CEA,substituicao_sai,André Góes
+84,4,00:00,85,85, ,fim_quarto,
+85,4,00:09,85,85,PIN,substituicao_entra,Leandrinho
+86,4,00:09,85,85,PIN,substituicao_sai,Jonathan
+87,4,00:09,85,85,PIN,substituicao_entra,Morro
+88,4,00:09,85,85,PIN,substituicao_sai,Leandrinho
+89,4,00:09,85,85,CEA,tempo_tecnico,Basquete Cearense
+90,4,00:09,85,85,PIN,3_Pts_C,Leandrinho
+91,4,00:18,85,82,PIN,substituicao_entra,Joe Smith
+92,4,00:18,85,82,PIN,substituicao_sai,Morro
+93,4,00:21,85,82,PIN,tempo_tecnico,Pinheiros
+94,4,00:21,85,82,CEA,2_Pts_C,Jimmy
+95,4,00:25,83,82,CEA,BR,Jimmy
+96,4,00:25,83,82,PIN,ER,Leandrinho
+97,4,00:38,83,82,PIN,RO,Shamell
+98,4,00:38,83,82,PIN,3_Pts_T,Shamell
+99,4,01:07,83,82,PIN,RD,Pinheiros
+100,4,01:07,83,82,CEA,LL_Pts_T,André Góes
+101,4,01:07,83,82,CEA,LL_Pts_C,André Góes
+102,4,01:07,82,82,PIN,substituicao_entra,Morro
+103,4,01:07,82,82,PIN,substituicao_sai,Joe Smith
+104,4,01:07,82,82,CEA,FR,André Góes
+105,4,01:07,82,82,PIN,FC,Jonathan
+106,4,01:21,82,82,CEA,RD,Brown
+107,4,01:21,82,82,PIN,2_Pts_T,Shamell
+108,4,01:30,82,82,PIN,BR,Jonathan
+109,4,01:30,82,82,CEA,ER,Devon
+110,4,01:35,82,82,CEA,RD,Devon
+111,4,01:35,82,82,PIN,3_Pts_T,Joe Smith
+112,4,02:28,82,82,CEA,2_Pts_C,André Góes
+113,4,02:28,80,82,CEA,RO,André Góes
+114,4,02:28,80,82,CEA,2_Pts_T,Brown
+115,4,02:30,80,82,PIN,LL_Pts_C,Shamell
+116,4,02:30,80,81,PIN,LL_Pts_T,Shamell
+117,4,02:30,80,81,PIN,FR,Shamell
+118,4,02:30,80,81,CEA,FC,Jimmy
+119,4,02:35,80,81,PIN,RO,Shamell
+120,4,02:35,80,81,PIN,3_Pts_T,Joe Smith
+121,4,02:53,80,81,PIN,tempo_tecnico,Pinheiros
+122,4,02:53,80,81,CEA,2_Pts_C,Brown
+123,4,02:53,78,81,CEA,AS,Jimmy
+124,4,03:09,78,81,PIN,ER,Joe Smith
+125,4,03:14,78,81,CEA,2_Pts_C,Jimmy
+126,4,03:14,76,81,CEA,AS,Brown
+127,4,03:25,76,81,CEA,RD,Devon
+128,4,03:25,76,81,PIN,2_Pts_T,Shamell
+129,4,03:37,76,81,PIN,FR,Shamell
+130,4,03:37,76,81,CEA,FC,André Góes
+131,4,03:47,76,81,CEA,2_Pts_C,Devon
+132,4,03:59,74,81,CEA,FR,André Góes
+133,4,03:59,74,81,PIN,FC_O,Shamell
+134,4,04:15,74,81,PIN,RD,Leandrinho
+135,4,04:15,74,81,CEA,3_Pts_T,Jimmy
+136,4,04:37,74,81,PIN,AS,Joe Smith
+137,4,04:37,74,81,PIN,3_Pts_C,Jonathan
+138,4,04:37,74,78,PIN,FR,Shamell
+139,4,04:37,74,78,CEA,FC,Jimmy
+140,4,04:52,74,78,PIN,substituicao_entra,Joe Smith
+141,4,04:52,74,78,PIN,substituicao_sai,Morro
+142,4,04:56,74,78,CEA,2_Pts_C,André Góes
+143,4,04:56,72,78,CEA,AS,Brown
+144,4,04:59,72,78,CEA,BR,Brown
+145,4,04:59,72,78,PIN,ER,Rafael Mineiro
+146,4,05:20,72,78,CEA,LL_Pts_C,Devon
+147,4,05:20,71,78,CEA,LL_Pts_C,Devon
+148,4,05:20,70,78,CEA,substituicao_entra,Brown
+149,4,05:20,70,78,CEA,substituicao_sai,Drudi
+150,4,05:20,70,78,CEA,FR,Devon
+151,4,05:20,70,78,PIN,FC,Morro
+152,4,05:40,70,78,PIN,3_Pts_C,Jonathan
+153,4,05:40,70,75,PIN,AS,Shamell
+154,4,06:03,70,75,PIN,RD,Pinheiros
+155,4,06:03,70,75,CEA,2_Pts_T,André Góes
+156,4,06:13,70,75,CEA,RD,Drudi
+157,4,06:13,70,75,PIN,3_Pts_T,Leandrinho
+158,4,06:40,70,75,PIN,RD,Shamell
+159,4,06:40,70,75,CEA,2_Pts_T,Davi
+160,4,06:48,70,75,PIN,substituicao_entra,Jonathan
+161,4,06:48,70,75,PIN,substituicao_sai,Joe Smith
+162,4,06:50,70,75,CEA,FR,Davi
+163,4,06:50,70,75,PIN,FC,Joe Smith
+164,4,07:02,70,75,PIN,2_Pts_C,Morro
+165,4,07:09,70,73,PIN,RO,Morro
+166,4,07:09,70,73,PIN,2_Pts_T,Leandrinho
+167,4,07:26,70,73,CEA,LL_Pts_C,Devon
+168,4,07:26,69,73,CEA,LL_Pts_T,Devon
+169,4,07:26,69,73,CEA,FR,Devon
+170,4,07:26,69,73,PIN,FC,Leandrinho
+171,4,07:35,69,73,PIN,LL_Pts_C,Leandrinho
+172,4,07:35,69,72,PIN,LL_Pts_C,Leandrinho
+173,4,07:35,69,71,PIN,FR,Leandrinho
+174,4,07:35,69,71,CEA,FC,Devon
+175,4,07:56,69,71,PIN,RD,Joe Smith
+176,4,07:56,69,71,CEA,3_Pts_T,Davi
+177,4,08:01,69,71,PIN,LL_Pts_C,Morro
+178,4,08:06,69,70,PIN,2_Pts_C,Morro
+179,4,08:06,69,68,PIN,FR,Morro
+180,4,08:06,69,68,CEA,FC,Devon
+181,4,08:35,69,68,CEA,2_Pts_C,Drudi
+182,4,08:35,67,68,CEA,AS,Davi
+183,4,08:37,67,68,PIN,substituicao_entra,Morro
+184,4,08:37,67,68,PIN,substituicao_sai,Bambu
+185,4,08:37,67,68,CEA,substituicao_entra,Drudi
+186,4,08:37,67,68,CEA,substituicao_sai,Nick
+187,4,08:37,67,68,CEA,substituicao_entra,Jimmy
+188,4,08:37,67,68,CEA,substituicao_sai,Felipe
+189,4,08:51,67,68,CEA,BR,Felipe
+190,4,08:51,67,68,PIN,ER,Bambu
+191,4,09:02,67,68,PIN,RD,Leandrinho
+192,4,09:02,67,68,CEA,2_Pts_T,André Góes
+193,4,09:22,67,68,CEA,RD,Devon
+194,4,09:22,67,68,PIN,2_Pts_T,Shamell
+195,4,09:49,67,68,PIN,RD,Shamell
+196,4,09:49,67,68,CEA,3_Pts_T,André Góes
+197,3,00:00,67,68, ,fim_quarto,
+198,3,00:01,67,68,CEA,3_Pts_T,André Góes
+199,3,00:01,67,68,PIN,substituicao_entra,Humberto
+200,3,00:01,67,68,PIN,substituicao_sai,Shamell
+201,3,00:01,67,68,CEA,FR,André Góes
+202,3,00:01,67,68,PIN,FC,Shamell
+203,3,00:10,67,68,PIN,2_Pts_C,Shamell
+204,3,00:10,67,66,PIN,AS,Joe Smith
+205,3,00:38,67,66,CEA,2_Pts_C,Davi
+206,3,00:38,65,66,CEA,AS,André Góes
+207,3,00:38,65,66,CEA,RD,Nick
+208,3,00:38,65,66,PIN,3_Pts_T,Bambu
+209,3,00:41,65,66,PIN,RD,Joe Smith
+210,3,00:41,65,66,CEA,LL_Pts_T,Devon
+211,3,00:43,65,66,CEA,2_Pts_C,Devon
+212,3,00:43,63,66,CEA,FR,Devon
+213,3,00:43,63,66,PIN,FC,Bambu
+214,3,00:44,63,66,CEA,substituicao_entra,Devon
+215,3,00:46,63,66,CEA,substituicao_sai,Drudi
+216,3,01:25,63,66,PIN,2_Pts_C,Joe Smith
+217,3,01:36,63,64,CEA,3_Pts_C,Davi
+218,3,01:36,60,64,CEA,AS,Felipe
+219,3,01:56,60,64,PIN,3_Pts_C,Joe Smith
+220,3,02:05,60,61,PIN,FR,Rafael Mineiro
+221,3,02:05,60,61,CEA,FC,André Góes
+222,3,02:10,60,61,PIN,RD,Bambu
+223,3,02:10,60,61,CEA,3_Pts_T,André Góes
+224,3,02:32,60,61,CEA,BR,Basquete Cearense
+225,3,02:32,60,61,PIN,ER,Leandrinho
+226,3,02:32,60,61,PIN,RD,Joe Smith
+227,3,02:32,60,61,CEA,2_Pts_T,Felipe
+228,3,02:37,60,61,CEA,RD,André Góes
+229,3,02:37,60,61,PIN,3_Pts_T,Rafael Mineiro
+230,3,03:29,60,61,CEA,2_Pts_C,Drudi
+231,3,03:29,58,61,CEA,AS,Davi
+232,3,03:32,58,61,CEA,BR,Davi
+233,3,03:32,58,61,PIN,ER,Leandrinho
+234,3,03:41,58,61,PIN,LL_Pts_C,Shamell
+235,3,03:41,58,60,CEA,substituicao_entra,Davi
+236,3,03:41,58,60,CEA,substituicao_sai,Brown
+237,3,03:41,58,60,PIN,FR,Shamell
+238,3,03:41,58,60,CEA,FC,Brown
+239,3,03:41,58,60,CEA,substituicao_entra,Brown
+240,3,03:41,58,60,CEA,substituicao_sai,Davi
+241,3,03:41,58,60,CEA,substituicao_entra,Davi
+242,3,03:41,58,60,CEA,substituicao_sai,Brown
+243,3,03:42,58,60,PIN,2_Pts_C,Shamell
+244,3,03:42,58,58,PIN,AS,Leandrinho
+245,3,03:42,58,58,PIN,RD,Rafael Mineiro
+246,3,03:42,58,58,CEA,2_Pts_T,Drudi
+247,3,03:42,58,58,CEA,RO,Drudi
+248,3,03:42,58,58,CEA,2_Pts_T,Nick
+249,3,04:10,58,58,PIN,EN,Bambu
+250,3,04:14,58,56,PIN,RO,Bambu
+251,3,04:14,58,56,PIN,3_Pts_T,Rafael Mineiro
+252,3,04:28,58,56,PIN,RD,Joe Smith
+253,3,04:28,58,56,CEA,2_Pts_T,Drudi
+254,3,04:34,58,56,CEA,substituicao_entra,Drudi
+255,3,04:34,58,56,CEA,substituicao_sai,Devon
+256,3,04:39,58,56,CEA,RD,André Góes
+257,3,04:39,58,56,PIN,2_Pts_T,Leandrinho
+258,3,05:02,58,56,CEA,EN,Devon
+259,3,05:02,56,56,CEA,AS,Brown
+260,3,05:18,56,56,PIN,3_Pts_C,Joe Smith
+261,3,05:18,56,53,PIN,AS,Shamell
+262,3,05:26,56,53,PIN,RD,Rafael Mineiro
+263,3,05:26,56,53,CEA,2_Pts_T,Devon
+264,3,05:33,56,53,CEA,RD,Brown
+265,3,05:33,56,53,PIN,2_Pts_T,Shamell
+266,3,05:45,56,53,PIN,RD,Rafael Mineiro
+267,3,05:45,56,53,CEA,2_Pts_T,Brown
+268,3,06:00,56,53,PIN,LL_Pts_C,Leandrinho
+269,3,06:00,56,52,PIN,LL_Pts_C,Leandrinho
+270,3,06:00,56,51,PIN,substituicao_entra,Joe Smith
+271,3,06:00,56,51,PIN,substituicao_sai,Jonathan
+272,3,06:00,56,51,PIN,substituicao_entra,Bambu
+273,3,06:00,56,51,PIN,substituicao_sai,Morro
+274,3,06:00,56,51,PIN,FR,Leandrinho
+275,3,06:00,56,51,CEA,FC,André Góes
+276,3,06:10,56,51,CEA,2_Pts_C,Felipe
+277,3,06:13,54,51,CEA,RO,Felipe
+278,3,06:13,54,51,CEA,2_Pts_T,Felipe
+279,3,06:31,54,51,PIN,EN,Morro
+280,3,06:31,54,49,PIN,AS,Leandrinho
+281,3,06:53,54,49,CEA,3_Pts_C,Nick
+282,3,06:53,51,49,CEA,AS,Brown
+283,3,07:00,51,49,CEA,RD,Devon
+284,3,07:00,51,49,PIN,2_Pts_T,Shamell
+285,3,07:07,51,49,PIN,BR,Shamell
+286,3,07:07,51,49,CEA,ER,Brown
+287,3,07:14,51,49,CEA,RD,Brown
+288,3,07:14,51,49,PIN,2_Pts_T,Shamell
+289,3,07:32,51,49,CEA,3_Pts_C,Felipe
+290,3,07:32,48,49,CEA,AS,André Góes
+291,3,07:47,48,49,PIN,2_Pts_C,Leandrinho
+292,3,08:10,48,47,CEA,2_Pts_C,Felipe
+293,3,08:32,46,47,CEA,RD,Brown
+294,3,08:32,46,47,PIN,2_Pts_T,Rafael Mineiro
+295,3,08:32,46,47,PIN,RD,Shamell
+296,3,08:32,46,47,CEA,3_Pts_T,Felipe
+297,3,08:47,46,47,CEA,RD,Devon
+298,3,08:47,46,47,PIN,3_Pts_T,Leandrinho
+299,3,09:06,46,47,CEA,3_Pts_C,André Góes
+300,3,09:19,43,47,CEA,RD,André Góes
+301,3,09:19,43,47,PIN,3_Pts_T,Shamell
+302,3,09:34,43,47,CEA,2_Pts_C,Devon
+303,3,09:49,41,47,PIN,EN,Rafael Mineiro
+304,3,09:49,41,45,PIN,AS,Shamell
+305,2,00:00,41,45, ,fim_quarto,
+306,2,00:08,41,45,PIN,RD,Jonathan
+307,2,00:08,41,45,CEA,3_Pts_T,Brown
+308,2,00:08,41,45,CEA,substituicao_entra,Brown
+309,2,00:08,41,45,CEA,substituicao_sai,Devon
+310,2,00:08,41,45,CEA,substituicao_entra,Nick
+311,2,00:08,41,45,CEA,substituicao_sai,Brown
+312,2,00:08,41,45,PIN,substituicao_entra,Humberto
+313,2,00:08,41,45,PIN,substituicao_sai,Joe Smith
+314,2,00:08,41,45,CEA,FR,Brown
+315,2,00:08,41,45,PIN,FC,Joe Smith
+316,2,00:25,41,45,PIN,substituicao_entra,Bruno Mortari
+317,2,00:25,41,45,PIN,substituicao_sai,Shamell
+318,2,00:25,41,45,PIN,LL_Pts_C,Shamell
+319,2,00:25,41,44,PIN,LL_Pts_C,Shamell
+320,2,00:25,41,43,PIN,FR,Shamell
+321,2,00:25,41,43,CEA,FC,Jimmy
+322,2,00:39,41,43,PIN,RD,Jonathan
+323,2,00:39,41,43,CEA,3_Pts_T,Brown
+324,2,00:59,41,43,PIN,2_Pts_C,Shamell
+325,2,01:25,41,41,CEA,2_Pts_C,André Góes
+326,2,01:26,39,41,CEA,substituicao_entra,Jimmy
+327,2,01:26,39,41,CEA,substituicao_sai,Davi
+328,2,01:26,39,41,PIN,substituicao_entra,Joe Smith
+329,2,01:26,39,41,PIN,substituicao_sai,Leandrinho
+330,2,01:31,39,41,CEA,tempo_tecnico,Basquete Cearense
+331,2,01:31,39,41,PIN,2_Pts_C,Shamell
+332,2,01:37,39,39,PIN,RD,Shamell
+333,2,01:37,39,39,CEA,2_Pts_T,Devon
+334,2,01:59,39,39,PIN,3_Pts_C,Shamell
+335,2,01:59,39,36,PIN,AS,Jonathan
+336,2,02:24,39,36,CEA,3_Pts_C,André Góes
+337,2,02:24,36,36,CEA,AS,Brown
+338,2,02:28,36,36,CEA,FR,Davi
+339,2,02:28,36,36,PIN,FC,Leandrinho
+340,2,02:52,36,36,PIN,2_Pts_C,Leandrinho
+341,2,03:07,36,34,PIN,RD,Pinheiros
+342,2,03:07,36,34,CEA,2_Pts_T,Devon
+343,2,03:22,36,34,PIN,LL_Pts_C,Leandrinho
+344,2,03:22,36,33,PIN,LL_Pts_C,Leandrinho
+345,2,03:22,36,32,CEA,substituicao_entra,Brown
+346,2,03:22,36,32,CEA,substituicao_sai,Nick
+347,2,03:22,36,32,PIN,substituicao_entra,Morro
+348,2,03:22,36,32,PIN,substituicao_sai,Rafael Mineiro
+349,2,03:22,36,32,PIN,FR,Leandrinho
+350,2,03:22,36,32,CEA,FC,Davi
+351,2,03:26,36,32,PIN,RD,Bambu
+352,2,03:26,36,32,CEA,2_Pts_T,Devon
+353,2,03:55,36,32,PIN,EN,Rafael Mineiro
+354,2,03:55,36,30,PIN,AS,Shamell
+355,2,04:08,36,30,CEA,substituicao_entra,Devon
+356,2,04:08,36,30,CEA,substituicao_sai,Drudi
+357,2,04:08,36,30,PIN,FR,Shamell
+358,2,04:08,36,30,CEA,FC,Drudi
+359,2,04:15,36,30,PIN,RO,Rafael Mineiro
+360,2,04:15,36,30,PIN,2_Pts_T,Bambu
+361,2,04:34,36,30,PIN,RD,Bambu
+362,2,04:34,36,30,CEA,2_Pts_T,Davi
+363,2,04:51,36,30,PIN,ER,Shamell
+364,2,05:19,36,30,PIN,FR,Shamell
+365,2,05:19,36,30,CEA,FC,Drudi
+366,2,05:21,36,30,PIN,RO,Shamell
+367,2,05:21,36,30,PIN,2_Pts_T,Rafael Mineiro
+368,2,05:21,36,30,PIN,FR,Rafael Mineiro
+369,2,05:21,36,30,CEA,FC,Davi
+370,2,05:26,36,30,CEA,2_Pts_C,Drudi
+371,2,05:26,34,30,CEA,LL_Pts_C,Drudi
+372,2,05:26,33,30,CEA,FR,Drudi
+373,2,05:26,33,30,PIN,FC,Bambu
+374,2,06:02,33,30,PIN,3_Pts_C,Rafael Mineiro
+375,2,06:02,33,27,PIN,AS,Shamell
+376,2,07:12,33,27,CEA,LL_Pts_C,Drudi
+377,2,07:12,32,27,CEA,LL_Pts_T,Drudi
+378,2,07:17,32,27,CEA,FR,Drudi
+379,2,07:17,32,27,PIN,FC,Rafael Mineiro
+380,2,07:18,32,27,CEA,substituicao_entra,Drudi
+381,2,07:19,32,27,CEA,substituicao_sai,Erick Camilo
+382,2,07:26,32,27,PIN,2_Pts_C,Rafael Mineiro
+383,2,07:26,32,25,CEA,EN,Nick
+384,2,07:26,30,25,CEA,AS,Felipe
+385,2,07:26,30,25,PIN,2_Pts_C,Jonathan
+386,2,07:26,30,23,PIN,substituicao_entra,Jonathan
+387,2,07:26,30,23,PIN,substituicao_sai,Bruno Mortari
+388,2,07:26,30,23,CEA,substituicao_entra,Davi
+389,2,07:26,30,23,CEA,substituicao_sai,Brown
+390,2,07:26,30,23,CEA,substituicao_entra,André Góes
+391,2,07:26,30,23,CEA,substituicao_sai,Jimmy
+392,2,07:26,30,23,CEA,tempo_tecnico,Basquete Cearense
+393,2,07:26,30,23,CEA,ER,Brown
+394,2,07:34,30,23,PIN,2_Pts_C,Leandrinho
+395,2,07:45,30,21,PIN,RD,Bambu
+396,2,07:45,30,21,CEA,3_Pts_T,Jimmy
+397,2,08:07,30,21,CEA,RO,Jimmy
+398,2,08:07,30,21,CEA,2_Pts_T,Brown
+399,2,08:22,30,21,CEA,RO,Jimmy
+400,2,08:22,30,21,CEA,2_Pts_T,Felipe
+401,2,08:48,30,21,PIN,ER,Bambu
+402,2,09:03,30,21,CEA,ER,Brown
+403,2,09:23,30,21,PIN,2_Pts_C,Rafael Mineiro
+404,2,09:23,30,19,PIN,AS,Shamell
+405,2,09:42,30,19,CEA,2_Pts_C,Jimmy
+406,1,00:00,28,19, ,fim_quarto,
+407,1,00:01,28,19,CEA,3_Pts_C,Nick
+408,1,00:01,25,19,CEA,AS,Felipe
+409,1,00:01,25,19,CEA,FR,Brown
+410,1,00:01,25,19,PIN,FC,Bruno Mortari
+411,1,00:06,25,19,PIN,substituicao_entra,Bruno Mortari
+412,1,00:06,25,19,PIN,substituicao_sai,Leandrinho
+413,1,00:06,25,19,CEA,substituicao_entra,Erick Camilo
+414,1,00:06,25,19,CEA,substituicao_entra,Brown
+415,1,00:06,25,19,CEA,substituicao_sai,Devon
+416,1,00:06,25,19,CEA,substituicao_sai,Davi
+417,1,00:06,25,19,PIN,substituicao_entra,Humberto
+418,1,00:06,25,19,PIN,substituicao_sai,Joe Smith
+419,1,00:06,25,19,CEA,FR,Davi
+420,1,00:06,25,19,PIN,FC,Joe Smith
+421,1,00:13,25,19,PIN,2_Pts_C,Rafael Mineiro
+422,1,00:13,25,17,PIN,AS,Leandrinho
+423,1,00:20,25,17,PIN,RD,Leandrinho
+424,1,00:20,25,17,PIN,TO,Leandrinho
+425,1,00:20,25,17,CEA,2_Pts_T,Davi
+426,1,00:38,25,17,CEA,RO,Felipe
+427,1,00:38,25,17,CEA,2_Pts_T,Devon
+428,1,00:59,25,17,PIN,3_Pts_C,Joe Smith
+429,1,01:06,25,14,PIN,RD,Jonathan
+430,1,01:06,25,14,CEA,2_Pts_T,Devon
+431,1,01:29,25,14,PIN,3_Pts_C,Leandrinho
+432,1,01:29,25,11,PIN,AS,Rafael Mineiro
+433,1,01:47,25,11,CEA,3_Pts_C,Felipe
+434,1,01:47,22,11,CEA,AS,Davi
+435,1,02:17,22,11,PIN,2_Pts_C,Rafael Mineiro
+436,1,02:17,22,9,PIN,AS,Leandrinho
+437,1,02:17,22,9,CEA,,
+438,1,02:22,22,9,CEA,RD,Nick
+439,1,02:22,22,9,PIN,2_Pts_T,Leandrinho
+440,1,02:34,22,9,CEA,2_Pts_C,Nick
+441,1,02:34,20,9,CEA,AS,Davi
+442,1,02:48,20,9,PIN,2_Pts_C,Jonathan
+443,1,02:48,20,7,PIN,AS,Joe Smith
+444,1,03:12,20,7,CEA,EN,Devon
+445,1,03:29,18,7,CEA,substituicao_entra,Jimmy
+446,1,03:29,18,7,CEA,substituicao_sai,André Góes
+447,1,03:29,18,7,PIN,LL_Pts_C,Leandrinho
+448,1,03:29,18,6,PIN,LL_Pts_C,Leandrinho
+449,1,03:29,18,5,PIN,FR,Leandrinho
+450,1,03:29,18,5,CEA,FC,André Góes
+451,1,03:36,18,5,PIN,substituicao_entra,Jonathan
+452,1,03:36,18,5,PIN,substituicao_entra,Bambu
+453,1,03:36,18,5,PIN,substituicao_sai,Shamell
+454,1,03:36,18,5,PIN,substituicao_sai,Morro
+455,1,03:38,18,5,PIN,tempo_tecnico,Pinheiros
+456,1,03:38,18,5,CEA,2_Pts_C,Davi
+457,1,03:43,16,5,CEA,BR,Davi
+458,1,03:43,16,5,PIN,ER,Morro
+459,1,03:55,16,5,PIN,FR,Joe Smith
+460,1,03:55,16,5,CEA,FC,Felipe
+461,1,04:02,16,5,CEA,2_Pts_C,Felipe
+462,1,04:07,14,5,CEA,BR,Felipe
+463,1,04:07,14,5,PIN,ER,Joe Smith
+464,1,04:16,14,5,PIN,FR,Leandrinho
+465,1,04:16,14,5,CEA,FC,Davi
+466,1,04:22,14,5,PIN,RD,Leandrinho
+467,1,04:22,14,5,CEA,2_Pts_T,Nick
+468,1,04:27,14,5,CEA,RD,Davi
+469,1,04:27,14,5,PIN,2_Pts_T,Shamell
+470,1,04:38,14,5,CEA,RO,Devon
+471,1,04:38,14,5,CEA,2_Pts_T,Devon
+472,1,04:42,14,5,CEA,RO,Devon
+473,1,04:42,14,5,CEA,2_Pts_T,Davi
+474,1,05:00,14,5,CEA,RD,André Góes
+475,1,05:00,14,5,PIN,2_Pts_T,Morro
+476,1,05:16,14,5,PIN,tempo_tecnico,Pinheiros
+477,1,05:16,14,5,CEA,3_Pts_C,Nick
+478,1,05:16,11,5,CEA,AS,Davi
+479,1,05:38,11,5,CEA,RD,Devon
+480,1,05:38,11,5,PIN,3_Pts_T,Leandrinho
+481,1,05:59,11,5,CEA,2_Pts_C,Felipe
+482,1,06:12,9,5,CEA,RD,Felipe
+483,1,06:12,9,5,PIN,3_Pts_T,Morro
+484,1,06:20,9,5,PIN,FR,Morro
+485,1,06:20,9,5,CEA,FC,Nick
+486,1,06:33,9,5,CEA,2_Pts_C,Devon
+487,1,06:51,7,5,CEA,RD,Devon
+488,1,06:51,7,5,PIN,2_Pts_T,Shamell
+489,1,07:16,7,5,CEA,LL_Pts_C,Devon
+490,1,07:16,6,5,CEA,FR,Devon
+491,1,07:16,6,5,PIN,FC,Shamell
+492,1,07:16,6,5,CEA,EN,Devon
+493,1,07:16,4,5,CEA,AS,Davi
+494,1,07:36,4,5,PIN,3_Pts_C,Rafael Mineiro
+495,1,07:36,4,2,PIN,AS,Morro
+496,1,08:01,4,2,CEA,2_Pts_C,Nick
+497,1,08:06,2,2,CEA,BR,Nick
+498,1,08:06,2,2,PIN,ER,Joe Smith
+499,1,08:27,2,2,CEA,EN,Devon
+500,1,08:27,0,2,CEA,AS,Felipe
+501,1,08:38,0,2,CEA,RD,Devon
+502,1,08:38,0,2,PIN,2_Pts_T,Leandrinho
+503,1,08:46,0,2,PIN,BR,Leandrinho
+504,1,08:46,0,2,CEA,ER,Devon
+505,1,09:26,0,2,PIN,LL_Pts_C,Leandrinho
+506,1,09:26,0,1,PIN,LL_Pts_C,Leandrinho
+507,1,09:32,0,0,PIN,FR,Leandrinho
+508,1,09:32,0,0,CEA,FC,Devon
+509,1,09:36,0,0,PIN,RD,Shamell
+510,1,09:36,0,0,CEA,3_Pts_T,Felipe
+511,1,09:36,0,0,CEA,RD,Davi
+512,1,09:36,0,0,PIN,3_Pts_T,Shamell
+513,1,09:36,0,0,PIN,RO,Pinheiros
+514,1,09:36,0,0,PIN,2_Pts_T,Leandrinho
+515,1,09:36,0,0,PIN,BR,Morro
+516,1,09:36,0,0,CEA,ER,André Góes
+517,1,09:50,0,0,CEA,BR,Davi
+518,1,09:50,0,0,PIN,ER,Rafael Mineiro
+519,1,10:00,0,0,PIN,substituicao_entra,Leandrinho
+520,1,10:00,0,0,PIN,substituicao_entra,Shamell
+521,1,10:00,0,0,PIN,substituicao_entra,Rafael Mineiro
+522,1,10:00,0,0,PIN,substituicao_entra,Joe Smith
+523,1,10:00,0,0,PIN,substituicao_entra,Morro
+524,1,10:00,0,0,CEA,substituicao_entra,Felipe
+525,1,10:00,0,0,CEA,substituicao_entra,Devon
+526,1,10:00,0,0,CEA,substituicao_entra,Nick
+527,1,10:00,0,0,CEA,substituicao_entra,Davi
+528,1,10:00,0,0,CEA,substituicao_entra,André Góes

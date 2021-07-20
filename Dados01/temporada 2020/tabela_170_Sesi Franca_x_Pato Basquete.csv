@@ -1,0 +1,558 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,109,68,,fim_partida,
+1,4,00:00,109,68,,fim_quarto,
+2,4,00:25,109,68,PAT,RD,Derick
+3,4,00:30,109,68,FRA,3_Pts_T,Adyel
+4,4,00:40,109,68,PAT,AS,Lucas
+5,4,00:40,109,68,PAT,3_Pts_C,Kirsten
+6,4,01:02,109,65,FRA,2_Pts_C,Vitor
+7,4,01:17,107,65,FRA,RD,Gui Abreu
+8,4,01:20,107,65,FRA,ER,Márcio
+9,4,01:20,107,65,PAT,3_Pts_T,Kirsten
+10,4,01:41,107,65,FRA,RD,Márcio
+11,4,01:50,107,65,PAT,2_Pts_T,Aquiles
+12,4,02:12,107,65,FRA,2_Pts_C,Adyel
+13,4,02:27,105,65,PAT,substituicao_entra,Derick
+14,4,02:27,105,65,PAT,substituicao_sai,Rodrigues
+15,4,02:27,105,65,PAT,LL_Pts_C,Lucas
+16,4,02:27,105,64,PAT,LL_Pts_T,Lucas
+17,4,02:27,105,64,FRA,substituicao_entra,Vitor
+18,4,02:27,105,64,FRA,substituicao_sai,Green
+19,4,02:27,105,64,PAT,FR,Lucas
+20,4,02:27,105,64,FRA,FC,Edu Marília
+21,4,02:33,105,64,FRA,AS,Adyel
+22,4,02:33,105,64,FRA,3_Pts_C,Gui Abreu
+23,4,02:37,102,64,FRA,RD,Edu Marília
+24,4,02:41,102,64,PAT,2_Pts_T,Rodrigues
+25,4,02:57,102,64,PAT,RD,Scheuer
+26,4,03:02,102,64,FRA,3_Pts_T,Gui Abreu
+27,4,03:07,102,64,FRA,RO,Franca
+28,4,03:07,102,64,FRA,2_Pts_T,Edu Marília
+29,4,03:07,102,64,FRA,RO,Edu Marília
+30,4,03:09,102,64,FRA,2_Pts_T,Márcio
+31,4,03:14,102,64,FRA,RD,Márcio
+32,4,03:17,102,64,PAT,2_Pts_T,Kirsten
+33,4,03:21,102,64,PAT,RD,Rodrigues
+34,4,03:25,102,64,FRA,2_Pts_T,Green
+35,4,03:44,102,64,PAT,AS,Lucas
+36,4,03:44,102,64,PAT,3_Pts_C,Kirsten
+37,4,04:05,102,61,FRA,LL_Pts_C,Gui Abreu
+38,4,04:05,101,61,FRA,LL_Pts_C,Gui Abreu
+39,4,04:05,100,61,FRA,FR,Gui Abreu
+40,4,04:05,100,61,PAT,FC,Kirsten
+41,4,04:07,100,61,FRA,RD,Márcio
+42,4,04:11,100,61,PAT,2_Pts_T,Rodrigues
+43,4,04:27,100,61,PAT,RD,Pato Basquete
+44,4,04:28,100,61,FRA,3_Pts_T,Edu Marília
+45,4,04:32,100,61,FRA,FR,Adyel
+46,4,04:32,100,61,PAT,FC,Aquiles
+47,4,04:43,100,61,FRA,RD,Edu Marília
+48,4,04:47,100,61,PAT,2_Pts_T,Rodrigues
+49,4,04:56,100,61,PAT,FR,Rodrigues
+50,4,04:56,100,61,FRA,FC,Green
+51,4,05:04,100,61,FRA,2_Pts_C,Gui Abreu
+52,4,05:14,98,61,FRA,BR,Green
+53,4,05:14,98,61,PAT,ER,Rodrigues
+54,4,05:19,98,61,PAT,RD,Rodrigues
+55,4,05:19,98,61,FRA,LL_Pts_T,Adyel
+56,4,05:19,98,61,FRA,LL_Pts_C,Adyel
+57,4,05:19,97,61,PAT,tempo_tecnico,Pato Basquete
+58,4,05:19,97,61,FRA,FR,Adyel
+59,4,05:19,97,61,PAT,FC,Lucas
+60,4,05:28,97,61,PAT,AS,Scheuer
+61,4,05:28,97,61,PAT,3_Pts_C,Lucas
+62,4,05:30,97,58,PAT,RD,Scheuer
+63,4,05:39,97,58,FRA,2_Pts_T,Gui Abreu
+64,4,05:41,97,58,FRA,RD,Gui Abreu
+65,4,05:45,97,58,PAT,2_Pts_T,Aquiles
+66,4,05:48,97,58,FRA,substituicao_entra,Márcio
+67,4,05:48,97,58,FRA,substituicao_sai,Hubner
+68,4,05:49,97,58,PAT,FR,Rodrigues
+69,4,05:49,97,58,FRA,FC,Edu Marília
+70,4,05:49,97,58,PAT,RO,Rodrigues
+71,4,05:50,97,58,FRA,TO,Hubner
+72,4,05:50,97,58,PAT,2_Pts_T,Aquiles
+73,4,06:10,97,58,FRA,3_Pts_C,Hubner
+74,4,06:21,94,58,FRA,RD,Hubner
+75,4,06:25,94,58,PAT,2_Pts_T,Lucas
+76,4,06:49,94,58,FRA,AS,Gui Abreu
+77,4,06:49,94,58,FRA,3_Pts_C,Green
+78,4,07:06,91,58,PAT,AS,Lucas
+79,4,07:06,91,58,PAT,EN,Rodrigues
+80,4,07:20,91,56,FRA,2_Pts_C,Adyel
+81,4,07:30,89,56,PAT,LL_Pts_C,Rodrigues
+82,4,07:30,89,55,PAT,AS,Lucas
+83,4,07:30,89,55,PAT,LL_Pts_C,Rodrigues
+84,4,07:30,89,54,PAT,FR,Rodrigues
+85,4,07:30,89,54,FRA,FC,Edu Marília
+86,4,07:47,89,54,PAT,RD,Pato Basquete
+87,4,07:51,89,54,FRA,3_Pts_T,Adyel
+88,4,08:09,89,54,PAT,LL_Pts_C,Rodrigues
+89,4,08:09,89,53,PAT,FR,Rodrigues
+90,4,08:09,89,53,FRA,FC,Hubner
+91,4,08:09,89,53,PAT,AS,Lucas
+92,4,08:09,89,53,PAT,2_Pts_C,Rodrigues
+93,4,08:15,89,51,PAT,RD,Kirsten
+94,4,08:19,89,51,FRA,2_Pts_T,Green
+95,4,08:23,89,51,PAT,substituicao_entra,Scheuer
+96,4,08:23,89,51,PAT,substituicao_sai,Derick
+97,4,08:23,89,51,FRA,FR,Adyel
+98,4,08:23,89,51,PAT,FC,Lucas
+99,4,08:27,89,51,FRA,RD,Hubner
+100,4,08:30,89,51,PAT,3_Pts_T,Kirsten
+101,4,08:45,89,51,FRA,2_Pts_C,Green
+102,4,08:54,87,51,FRA,RD,Hubner
+103,4,08:57,87,51,PAT,2_Pts_T,Rodrigues
+104,4,09:13,87,51,FRA,ER,Gui Abreu
+105,4,09:19,87,51,FRA,FR,Adyel
+106,4,09:19,87,51,PAT,FC,Lucas
+107,4,09:30,87,51,PAT,AS,Rodrigues
+108,4,09:30,87,51,PAT,3_Pts_C,Lucas
+109,4,09:33,87,48,PAT,RD,Derick
+110,4,09:37,87,48,FRA,2_Pts_T,Hubner
+111,4,10:00,87,48,,inicio_quarto,
+112,3,00:00,87,48,,fim_quarto,
+113,3,00:02,87,48,FRA,RD,Hubner
+114,3,00:03,87,48,PAT,3_Pts_T,Derick
+115,3,00:23,87,48,FRA,AS,Adyel
+116,3,00:23,87,48,FRA,3_Pts_C,Edu Marília
+117,3,00:27,84,48,FRA,RD,Adyel
+118,3,00:32,84,48,PAT,2_Pts_T,Rodrigues
+119,3,00:44,84,48,FRA,2_Pts_C,Edu Marília
+120,3,01:10,82,48,PAT,substituicao_entra,Rodrigues
+121,3,01:10,82,48,PAT,substituicao_sai,Funches III
+122,3,01:10,82,48,FRA,substituicao_entra,Edu Marília
+123,3,01:10,82,48,FRA,substituicao_sai,Márcio
+124,3,01:11,82,48,FRA,RD,Franca
+125,3,01:12,82,48,PAT,2_Pts_T,Derick
+126,3,01:30,82,48,FRA,LL_Pts_C,Adyel
+127,3,01:30,81,48,FRA,LL_Pts_C,Adyel
+128,3,01:30,80,48,FRA,FR,Adyel
+129,3,01:30,80,48,PAT,FC,Lucas
+130,3,01:31,80,48,FRA,BR,Hubner
+131,3,01:31,80,48,PAT,ER,Funches III
+132,3,01:32,80,48,PAT,RO,Derick
+133,3,01:37,80,48,FRA,TO,Márcio
+134,3,01:37,80,48,PAT,2_Pts_T,Derick
+135,3,01:40,80,48,PAT,RO,Lucas
+136,3,01:44,80,48,PAT,3_Pts_T,Derick
+137,3,02:02,80,48,FRA,substituicao_entra,Adyel
+138,3,02:02,80,48,FRA,substituicao_sai,Elinho
+139,3,02:02,80,48,FRA,LL_Pts_C,Elinho
+140,3,02:02,79,48,FRA,LL_Pts_C,Elinho
+141,3,02:02,78,48,FRA,FR,Elinho
+142,3,02:02,78,48,PAT,FC,Kirsten
+143,3,02:08,78,48,FRA,RD,Gui Abreu
+144,3,02:12,78,48,PAT,2_Pts_T,Derick
+145,3,02:15,78,48,PAT,RO,Derick
+146,3,02:20,78,48,PAT,3_Pts_T,Lucas
+147,3,02:30,78,48,FRA,2_Pts_C,Green
+148,3,02:39,76,48,PAT,LL_Pts_C,Funches III
+149,3,02:39,76,47,PAT,AS,Matheusinho
+150,3,02:39,76,47,PAT,LL_Pts_C,Funches III
+151,3,02:39,76,46,PAT,substituicao_entra,Aquiles
+152,3,02:39,76,46,PAT,substituicao_entra,Kirsten
+153,3,02:39,76,46,PAT,substituicao_entra,Lucas
+154,3,02:39,76,46,PAT,substituicao_entra,Derick
+155,3,02:39,76,46,PAT,substituicao_sai,Rodrigues
+156,3,02:39,76,46,PAT,substituicao_sai,Matheusinho
+157,3,02:39,76,46,PAT,substituicao_sai,Servelin
+158,3,02:39,76,46,PAT,substituicao_sai,I Thornton
+159,3,02:39,76,46,FRA,substituicao_entra,Hubner
+160,3,02:39,76,46,FRA,substituicao_sai,Lucas Dias
+161,3,02:39,76,46,PAT,FR,Funches III
+162,3,02:39,76,46,FRA,FC,Lucas Dias
+163,3,03:01,76,46,FRA,AS,Elinho
+164,3,03:01,76,46,FRA,EN,Lucas Dias
+165,3,03:05,74,46,FRA,BR,Elinho
+166,3,03:05,74,46,PAT,ER,Servelin
+167,3,03:20,74,46,FRA,AS,Elinho
+168,3,03:20,74,46,FRA,EN,Márcio
+169,3,03:25,72,46,FRA,RD,Elinho
+170,3,03:30,72,46,PAT,3_Pts_T,I Thornton
+171,3,03:43,72,46,FRA,substituicao_entra,Gui Abreu
+172,3,03:43,72,46,FRA,substituicao_sai,André Goes
+173,3,03:43,72,46,PAT,FR,Servelin
+174,3,03:43,72,46,FRA,FC,Elinho
+175,3,04:09,72,46,FRA,AS,Elinho
+176,3,04:09,72,46,FRA,3_Pts_C,Lucas Dias
+177,3,04:14,69,46,FRA,RO,Lucas Dias
+178,3,04:18,69,46,FRA,3_Pts_T,André Goes
+179,3,04:32,69,46,PAT,2_Pts_C,Matheusinho
+180,3,04:37,69,44,PAT,RD,Rodrigues
+181,3,04:37,69,44,FRA,LL_Pts_T,Márcio
+182,3,04:37,69,44,FRA,LL_Pts_C,Márcio
+183,3,04:37,68,44,FRA,FR,Márcio
+184,3,04:37,68,44,PAT,FC,Rodrigues
+185,3,04:53,68,44,PAT,AS,Rodrigues
+186,3,04:53,68,44,PAT,3_Pts_C,Funches III
+187,3,05:03,68,41,FRA,ER,André Goes
+188,3,05:03,68,41,FRA,RD,Márcio
+189,3,05:08,68,41,PAT,3_Pts_T,Matheusinho
+190,3,05:15,68,41,PAT,BR,Servelin
+191,3,05:15,68,41,FRA,ER,Márcio
+192,3,05:26,68,41,PAT,LL_Pts_C,Rodrigues
+193,3,05:26,68,40,PAT,LL_Pts_C,Rodrigues
+194,3,05:26,68,39,FRA,substituicao_entra,Green
+195,3,05:26,68,39,FRA,substituicao_sai,Fuzaro
+196,3,05:26,68,39,PAT,FR,Rodrigues
+197,3,05:26,68,39,FRA,FC,Fuzaro
+198,3,05:26,68,39,PAT,BR,Servelin
+199,3,05:26,68,39,FRA,ER,Elinho
+200,3,05:37,68,39,PAT,AS,Matheusinho
+201,3,05:37,68,39,PAT,2_Pts_C,Rodrigues
+202,3,05:59,68,37,FRA,AS,Elinho
+203,3,05:59,68,37,FRA,3_Pts_C,Fuzaro
+204,3,06:19,65,37,FRA,RD,André Goes
+205,3,06:23,65,37,PAT,3_Pts_T,Servelin
+206,3,06:36,65,37,PAT,tempo_tecnico,Pato Basquete
+207,3,06:36,65,37,FRA,AS,André Goes
+208,3,06:36,65,37,FRA,EN,Fuzaro
+209,3,06:41,63,37,FRA,BR,André Goes
+210,3,06:41,63,37,PAT,ER,Servelin
+211,3,07:02,63,37,FRA,AS,Elinho
+212,3,07:02,63,37,FRA,2_Pts_C,André Goes
+213,3,07:05,61,37,FRA,FR,Lucas Dias
+214,3,07:05,61,37,PAT,FC,Funches III
+215,3,07:12,61,37,PAT,2_Pts_C,Rodrigues
+216,3,07:13,61,35,PAT,RO,Rodrigues
+217,3,07:17,61,35,PAT,2_Pts_T,Rodrigues
+218,3,07:17,61,35,PAT,RO,Rodrigues
+219,3,07:21,61,35,PAT,2_Pts_T,Matheusinho
+220,3,07:30,61,35,PAT,FR,Matheusinho
+221,3,07:30,61,35,FRA,FC,Fuzaro
+222,3,07:40,61,35,FRA,2_Pts_C,Fuzaro
+223,3,07:48,59,35,FRA,RD,Fuzaro
+224,3,07:51,59,35,PAT,3_Pts_T,Servelin
+225,3,08:03,59,35,PAT,substituicao_entra,Funches III
+226,3,08:03,59,35,PAT,substituicao_sai,Scheuer
+227,3,08:03,59,35,FRA,AS,André Goes
+228,3,08:03,59,35,FRA,LL_Pts_C,Lucas Dias
+229,3,08:03,58,35,FRA,LL_Pts_T,Lucas Dias
+230,3,08:03,58,35,FRA,FR,Lucas Dias
+231,3,08:03,58,35,PAT,FC,Scheuer
+232,3,08:03,58,35,PAT,substituicao_entra,Rodrigues
+233,3,08:03,58,35,PAT,substituicao_sai,Leal
+234,3,08:11,58,35,FRA,FR,Márcio
+235,3,08:11,58,35,PAT,FC,Leal
+236,3,08:20,58,35,FRA,RD,Elinho
+237,3,08:25,58,35,PAT,3_Pts_T,I Thornton
+238,3,08:39,58,35,PAT,RD,Scheuer
+239,3,08:39,58,35,FRA,LL_Pts_T,Fuzaro
+240,3,08:39,58,35,PAT,substituicao_entra,Servelin
+241,3,08:39,58,35,PAT,substituicao_sai,Aquiles
+242,3,08:39,58,35,FRA,FR,Fuzaro
+243,3,08:39,58,35,PAT,FC,Leal
+244,3,08:39,58,35,FRA,2_Pts_C,Fuzaro
+245,3,08:45,56,35,PAT,AS,Matheusinho
+246,3,08:45,56,35,PAT,3_Pts_C,I Thornton
+247,3,08:48,56,32,PAT,RD,Leal
+248,3,08:53,56,32,PAT,TO,Matheusinho
+249,3,08:53,56,32,FRA,2_Pts_T,Fuzaro
+250,3,08:59,56,32,FRA,RD,Lucas Dias
+251,3,09:03,56,32,PAT,2_Pts_T,Aquiles
+252,3,09:18,56,32,FRA,AS,Elinho
+253,3,09:18,56,32,FRA,3_Pts_C,André Goes
+254,3,09:22,53,32,FRA,RO,Lucas Dias
+255,3,09:25,53,32,FRA,3_Pts_T,Lucas Dias
+256,3,09:44,53,32,FRA,RD,Elinho
+257,3,09:49,53,32,PAT,3_Pts_T,Aquiles
+258,3,10:00,53,32,,inicio_quarto,
+259,2,00:00,53,32,,fim_quarto,
+260,2,00:00,53,32,PAT,3_Pts_T,Lucas
+261,2,00:03,53,32,PAT,substituicao_entra,Lucas
+262,2,00:03,53,32,PAT,substituicao_entra,Matheusinho
+263,2,00:03,53,32,PAT,substituicao_sai,Rodrigues
+264,2,00:03,53,32,PAT,substituicao_sai,Funches III
+265,2,00:03,53,32,FRA,LL_Pts_C,Elinho
+266,2,00:03,52,32,FRA,LL_Pts_C,Elinho
+267,2,00:03,51,32,FRA,substituicao_entra,Gui Abreu
+268,2,00:03,51,32,FRA,substituicao_entra,Vitor
+269,2,00:03,51,32,FRA,substituicao_sai,Hubner
+270,2,00:03,51,32,FRA,substituicao_sai,André Goes
+271,2,00:03,51,32,FRA,FR,Elinho
+272,2,00:03,51,32,PAT,FC,Rodrigues
+273,2,00:08,51,32,FRA,FR,André Goes
+274,2,00:08,51,32,PAT,ER,Funches III
+275,2,00:08,51,32,PAT,FC_O,Funches III
+276,2,00:26,51,32,PAT,RD,Funches III
+277,2,00:32,51,32,FRA,3_Pts_T,Elinho
+278,2,00:44,51,32,PAT,substituicao_entra,Servelin
+279,2,00:44,51,32,PAT,substituicao_sai,Lucas
+280,2,00:44,51,32,PAT,LL_Pts_C,Lucas
+281,2,00:44,51,31,PAT,LL_Pts_C,Lucas
+282,2,00:44,51,30,PAT,substituicao_entra,Rodrigues
+283,2,00:44,51,30,PAT,substituicao_sai,Leal
+284,2,00:44,51,30,FRA,tempo_tecnico,Franca
+285,2,00:44,51,30,PAT,FR,Lucas
+286,2,00:44,51,30,FRA,FC,André Goes
+287,2,01:02,51,30,FRA,AS,Hubner
+288,2,01:02,51,30,FRA,3_Pts_C,André Goes
+289,2,01:14,48,30,PAT,2_Pts_C,Leal
+290,2,01:14,48,28,PAT,RO,Leal
+291,2,01:24,48,28,PAT,2_Pts_T,Lucas
+292,2,01:44,48,28,FRA,LL_Pts_C,Edu Marília
+293,2,01:44,47,28,FRA,AS,Green
+294,2,01:44,47,28,FRA,LL_Pts_C,Edu Marília
+295,2,01:44,46,28,FRA,FR,Edu Marília
+296,2,01:44,46,28,PAT,FC,Leal
+297,2,01:48,46,28,FRA,BR,André Goes
+298,2,01:48,46,28,PAT,ER,Leal
+299,2,02:00,46,28,PAT,RD,Funches III
+300,2,02:04,46,28,FRA,3_Pts_T,Elinho
+301,2,02:28,46,28,PAT,AS,Lucas
+302,2,02:28,46,28,PAT,2_Pts_C,Leal
+303,2,02:39,46,26,PAT,FR,Funches III
+304,2,02:39,46,26,FRA,ER,Hubner
+305,2,02:39,46,26,FRA,FC_O,Hubner
+306,2,02:52,46,26,FRA,substituicao_entra,André Goes
+307,2,02:52,46,26,FRA,substituicao_sai,Fuzaro
+308,2,02:52,46,26,FRA,tempo_tecnico,Franca
+309,2,02:53,46,26,PAT,3_Pts_C,Lucas
+310,2,03:10,46,23,FRA,2_Pts_C,Green
+311,2,03:13,44,23,FRA,RD,Elinho
+312,2,03:16,44,23,PAT,3_Pts_T,Lucas
+313,2,03:22,44,23,PAT,RD,Aquiles
+314,2,03:26,44,23,FRA,3_Pts_T,Fuzaro
+315,2,03:40,44,23,PAT,LL_Pts_C,Aquiles
+316,2,03:40,44,22,PAT,LL_Pts_C,Aquiles
+317,2,03:40,44,21,PAT,FR,Aquiles
+318,2,03:40,44,21,FRA,FC,Green
+319,2,03:40,44,21,PAT,RO,Aquiles
+320,2,03:41,44,21,PAT,3_Pts_T,I Thornton
+321,2,03:45,44,21,PAT,RD,Leal
+322,2,03:49,44,21,FRA,2_Pts_T,Edu Marília
+323,2,04:04,44,21,PAT,LL_Pts_C,Aquiles
+324,2,04:04,44,20,PAT,FR,Aquiles
+325,2,04:04,44,20,FRA,FC,Edu Marília
+326,2,04:04,44,20,PAT,AS,Funches III
+327,2,04:04,44,20,PAT,2_Pts_C,Aquiles
+328,2,04:10,44,18,PAT,BR,Funches III
+329,2,04:10,44,18,FRA,ER,Green
+330,2,04:15,44,18,FRA,RD,Hubner
+331,2,04:19,44,18,PAT,3_Pts_T,Lucas
+332,2,04:28,44,18,FRA,LL_Pts_C,Green
+333,2,04:28,43,18,PAT,substituicao_entra,Leal
+334,2,04:28,43,18,PAT,substituicao_entra,Funches III
+335,2,04:28,43,18,PAT,substituicao_sai,Rodrigues
+336,2,04:28,43,18,PAT,substituicao_sai,Scheuer
+337,2,04:28,43,18,FRA,substituicao_entra,Edu Marília
+338,2,04:28,43,18,FRA,substituicao_sai,Lucas Dias
+339,2,04:28,43,18,FRA,FR,Green
+340,2,04:28,43,18,PAT,FC,Rodrigues
+341,2,04:28,43,18,FRA,AS,Fuzaro
+342,2,04:28,43,18,FRA,2_Pts_C,Green
+343,2,04:44,41,18,FRA,RD,Hubner
+344,2,04:48,41,18,PAT,3_Pts_T,Lucas
+345,2,04:56,41,18,PAT,RD,Aquiles
+346,2,04:59,41,18,FRA,3_Pts_T,Lucas Dias
+347,2,05:24,41,18,PAT,2_Pts_C,I Thornton
+348,2,05:28,41,16,PAT,RD,Scheuer
+349,2,05:32,41,16,FRA,2_Pts_T,Elinho
+350,2,05:46,41,16,FRA,FR,Elinho
+351,2,05:46,41,16,PAT,ER,I Thornton
+352,2,05:46,41,16,PAT,FC_O,I Thornton
+353,2,05:56,41,16,PAT,FR,Rodrigues
+354,2,05:56,41,16,FRA,FC,Fuzaro
+355,2,06:07,41,16,FRA,substituicao_entra,Hubner
+356,2,06:07,41,16,FRA,substituicao_sai,Márcio
+357,2,06:07,41,16,FRA,substituicao_entra,Fuzaro
+358,2,06:07,41,16,FRA,substituicao_sai,Adyel
+359,2,06:07,41,16,PAT,FR,Scheuer
+360,2,06:07,41,16,FRA,FC,Márcio
+361,2,06:07,41,16,PAT,RD,Scheuer
+362,2,06:09,41,16,FRA,3_Pts_T,Green
+363,2,06:22,41,16,PAT,AS,Lucas
+364,2,06:22,41,16,PAT,2_Pts_C,Rodrigues
+365,2,06:35,41,14,PAT,substituicao_entra,Aquiles
+366,2,06:35,41,14,PAT,substituicao_entra,Lucas
+367,2,06:35,41,14,PAT,substituicao_sai,Matheusinho
+368,2,06:35,41,14,PAT,substituicao_sai,Servelin
+369,2,06:38,41,14,PAT,FR,Matheusinho
+370,2,06:38,41,14,FRA,FC,Adyel
+371,2,06:54,41,14,FRA,AS,Elinho
+372,2,06:54,41,14,FRA,2_Pts_C,Lucas Dias
+373,2,07:03,39,14,FRA,RD,Green
+374,2,07:08,39,14,PAT,3_Pts_T,Matheusinho
+375,2,07:24,39,14,FRA,LL_Pts_C,Márcio
+376,2,07:24,38,14,FRA,LL_Pts_C,Lucas Dias
+377,2,07:24,37,14,PAT,FC_T,Pato Basquete
+378,2,07:24,37,14,PAT,substituicao_entra,Rodrigues
+379,2,07:24,37,14,PAT,substituicao_sai,Leal
+380,2,07:24,37,14,FRA,FR,Márcio
+381,2,07:24,37,14,PAT,FC,Leal
+382,2,07:24,37,14,FRA,AS,Elinho
+383,2,07:24,37,14,FRA,2_Pts_C,Márcio
+384,2,07:42,35,14,PAT,2_Pts_C,Matheusinho
+385,2,07:53,35,12,PAT,tempo_tecnico,Pato Basquete
+386,2,07:53,35,12,FRA,AS,Adyel
+387,2,07:53,35,12,FRA,3_Pts_C,Lucas Dias
+388,2,07:53,32,12,FRA,RO,Adyel
+389,2,07:57,32,12,FRA,3_Pts_T,Lucas Dias
+390,2,08:01,32,12,FRA,RD,Lucas Dias
+391,2,08:06,32,12,PAT,2_Pts_T,Leal
+392,2,08:24,32,12,FRA,2_Pts_C,Lucas Dias
+393,2,08:35,30,12,FRA,substituicao_entra,Elinho
+394,2,08:35,30,12,FRA,substituicao_sai,Gui Abreu
+395,2,08:44,30,12,FRA,BR,Adyel
+396,2,08:44,30,12,PAT,ER,Scheuer
+397,2,08:51,30,12,PAT,BR,Scheuer
+398,2,08:51,30,12,FRA,ER,Adyel
+399,2,08:54,30,12,FRA,RD,Márcio
+400,2,08:58,30,12,PAT,2_Pts_T,Servelin
+401,2,09:06,30,12,PAT,RD,Servelin
+402,2,09:11,30,12,FRA,2_Pts_T,Green
+403,2,09:20,30,12,FRA,LL_Pts_C,Márcio
+404,2,09:20,29,12,FRA,LL_Pts_C,Márcio
+405,2,09:20,28,12,PAT,substituicao_entra,Servelin
+406,2,09:20,28,12,PAT,substituicao_entra,Leal
+407,2,09:20,28,12,PAT,substituicao_sai,Derick
+408,2,09:20,28,12,PAT,substituicao_sai,Funches III
+409,2,09:20,28,12,FRA,FR,Márcio
+410,2,09:20,28,12,PAT,FC_A,Derick
+411,2,09:22,28,12,FRA,RD,Green
+412,2,09:25,28,12,PAT,2_Pts_T,Scheuer
+413,2,09:36,28,12,FRA,2_Pts_C,Lucas Dias
+414,2,09:51,26,12,FRA,FR,Márcio
+415,2,09:51,26,12,PAT,FC,Scheuer
+416,2,10:00,26,12,,inicio_quarto,
+417,1,00:00,26,12,,fim_quarto,
+418,1,00:00,26,12,PAT,3_Pts_T,Funches III
+419,1,00:01,26,12,PAT,RD,Funches III
+420,1,00:01,26,12,FRA,LL_Pts_T,Márcio
+421,1,00:01,26,12,FRA,FR,Márcio
+422,1,00:01,26,12,PAT,FC,Funches III
+423,1,00:01,26,12,FRA,AS,André Goes
+424,1,00:01,26,12,FRA,2_Pts_C,Márcio
+425,1,00:16,24,12,PAT,substituicao_entra,Derick
+426,1,00:16,24,12,PAT,substituicao_sai,Kirsten
+427,1,00:16,24,12,FRA,FR,André Goes
+428,1,00:16,24,12,PAT,FC,Kirsten
+429,1,00:31,24,12,PAT,AS,Scheuer
+430,1,00:31,24,12,PAT,2_Pts_C,Funches III
+431,1,00:55,24,10,FRA,AS,André Goes
+432,1,00:55,24,10,FRA,EN,Márcio
+433,1,00:56,22,10,FRA,RO,André Goes
+434,1,01:02,22,10,FRA,3_Pts_T,Gui Abreu
+435,1,01:16,22,10,PAT,LL_Pts_C,Funches III
+436,1,01:16,22,9,PAT,LL_Pts_C,Funches III
+437,1,01:16,22,8,PAT,FR,Funches III
+438,1,01:16,22,8,FRA,FC,Márcio
+439,1,01:35,22,8,FRA,LL_Pts_C,Márcio
+440,1,01:35,21,8,PAT,substituicao_entra,Scheuer
+441,1,01:35,21,8,PAT,substituicao_entra,Kirsten
+442,1,01:35,21,8,PAT,substituicao_entra,I Thornton
+443,1,01:35,21,8,PAT,substituicao_sai,Aquiles
+444,1,01:35,21,8,PAT,substituicao_sai,Rodrigues
+445,1,01:35,21,8,PAT,substituicao_sai,Servelin
+446,1,01:35,21,8,FRA,substituicao_entra,Green
+447,1,01:35,21,8,FRA,substituicao_entra,Adyel
+448,1,01:35,21,8,FRA,substituicao_sai,Fuzaro
+449,1,01:35,21,8,FRA,substituicao_sai,Elinho
+450,1,01:35,21,8,FRA,FR,Márcio
+451,1,01:35,21,8,PAT,FC,Aquiles
+452,1,01:35,21,8,FRA,AS,Gui Abreu
+453,1,01:35,21,8,FRA,2_Pts_C,Márcio
+454,1,01:36,19,8,FRA,RO,Gui Abreu
+455,1,01:40,19,8,FRA,2_Pts_T,Fuzaro
+456,1,01:53,19,8,FRA,RD,Márcio
+457,1,01:57,19,8,PAT,2_Pts_T,Rodrigues
+458,1,02:11,19,8,PAT,BR,Aquiles
+459,1,02:11,19,8,FRA,ER,André Goes
+460,1,02:16,19,8,PAT,LL_Pts_C,Servelin
+461,1,02:16,19,7,PAT,LL_Pts_C,Servelin
+462,1,02:16,19,6,FRA,substituicao_entra,Márcio
+463,1,02:16,19,6,FRA,substituicao_sai,Hubner
+464,1,02:16,19,6,PAT,FR,Servelin
+465,1,02:16,19,6,FRA,FC,André Goes
+466,1,02:19,19,6,PAT,RD,Rodrigues
+467,1,02:23,19,6,FRA,2_Pts_T,Gui Abreu
+468,1,02:28,19,6,FRA,BR,Gui Abreu
+469,1,02:28,19,6,PAT,ER,Lucas
+470,1,02:37,19,6,FRA,2_Pts_C,Hubner
+471,1,02:38,17,6,FRA,RO,Hubner
+472,1,02:41,17,6,FRA,2_Pts_T,Hubner
+473,1,02:43,17,6,FRA,RO,Hubner
+474,1,02:47,17,6,FRA,3_Pts_T,Elinho
+475,1,02:55,17,6,FRA,RO,Hubner
+476,1,02:59,17,6,FRA,3_Pts_T,André Goes
+477,1,03:18,17,6,PAT,substituicao_entra,Aquiles
+478,1,03:18,17,6,PAT,substituicao_entra,Rodrigues
+479,1,03:18,17,6,PAT,substituicao_sai,Leal
+480,1,03:18,17,6,PAT,substituicao_sai,I Thornton
+481,1,03:18,17,6,FRA,substituicao_entra,Gui Abreu
+482,1,03:18,17,6,FRA,substituicao_sai,Lucas Dias
+483,1,03:18,17,6,PAT,ER,I Thornton
+484,1,03:31,17,6,PAT,RO,Funches III
+485,1,03:35,17,6,PAT,3_Pts_T,Lucas
+486,1,03:55,17,6,FRA,2_Pts_C,Fuzaro
+487,1,04:10,15,6,FRA,RD,Hubner
+488,1,04:11,15,6,PAT,LL_Pts_T,Leal
+489,1,04:11,15,6,PAT,AS,Servelin
+490,1,04:11,15,6,PAT,LL_Pts_C,Leal
+491,1,04:11,15,5,PAT,substituicao_entra,Lucas
+492,1,04:11,15,5,PAT,substituicao_sai,Matheusinho
+493,1,04:11,15,5,PAT,FR,Leal
+494,1,04:11,15,5,FRA,FC,Hubner
+495,1,04:27,15,5,FRA,AS,André Goes
+496,1,04:27,15,5,FRA,2_Pts_C,Lucas Dias
+497,1,04:38,13,5,FRA,RD,Hubner
+498,1,04:42,13,5,PAT,3_Pts_T,Matheusinho
+499,1,04:46,13,5,PAT,RD,Leal
+500,1,04:49,13,5,FRA,2_Pts_T,Hubner
+501,1,04:56,13,5,PAT,2_Pts_C,Servelin
+502,1,05:00,13,3,PAT,RD,Leal
+503,1,05:03,13,3,FRA,2_Pts_T,Elinho
+504,1,05:06,13,3,FRA,RD,Hubner
+505,1,05:10,13,3,PAT,2_Pts_T,Funches III
+506,1,05:34,13,3,FRA,AS,André Goes
+507,1,05:34,13,3,FRA,2_Pts_C,Lucas Dias
+508,1,05:39,11,3,FRA,RD,Hubner
+509,1,05:42,11,3,PAT,2_Pts_T,Matheusinho
+510,1,06:03,11,3,PAT,substituicao_entra,Funches III
+511,1,06:03,11,3,PAT,substituicao_sai,Scheuer
+512,1,06:03,11,3,PAT,tempo_tecnico,Pato Basquete
+513,1,06:04,11,3,FRA,AS,André Goes
+514,1,06:04,11,3,FRA,2_Pts_C,Hubner
+515,1,06:09,9,3,FRA,RD,Hubner
+516,1,06:12,9,3,PAT,3_Pts_T,I Thornton
+517,1,06:29,9,3,FRA,AS,André Goes
+518,1,06:29,9,3,FRA,2_Pts_C,Lucas Dias
+519,1,06:49,7,3,PAT,3_Pts_C,Matheusinho
+520,1,06:58,7,0,PAT,FR,I Thornton
+521,1,06:58,7,0,FRA,FC,Fuzaro
+522,1,07:11,7,0,FRA,2_Pts_C,Elinho
+523,1,07:25,5,0,FRA,RD,Franca
+524,1,07:26,5,0,PAT,2_Pts_T,Servelin
+525,1,07:31,5,0,PAT,BR,Matheusinho
+526,1,07:31,5,0,FRA,ER,Elinho
+527,1,07:33,5,0,FRA,RD,André Goes
+528,1,07:37,5,0,PAT,3_Pts_T,Matheusinho
+529,1,08:00,5,0,FRA,AS,Hubner
+530,1,08:00,5,0,FRA,2_Pts_C,Elinho
+531,1,08:04,3,0,FRA,FR,Fuzaro
+532,1,08:04,3,0,PAT,FC,Scheuer
+533,1,08:10,3,0,FRA,RD,Hubner
+534,1,08:17,3,0,PAT,2_Pts_T,Leal
+535,1,08:37,3,0,FRA,3_Pts_C,Elinho
+536,1,08:43,0,0,FRA,RD,Lucas Dias
+537,1,08:47,0,0,PAT,3_Pts_T,I Thornton
+538,1,08:51,0,0,PAT,RD,Matheusinho
+539,1,08:56,0,0,FRA,3_Pts_T,André Goes
+540,1,09:15,0,0,FRA,RD,Fuzaro
+541,1,09:18,0,0,PAT,3_Pts_T,Scheuer
+542,1,09:29,0,0,PAT,RD,I Thornton
+543,1,09:32,0,0,FRA,3_Pts_T,Lucas Dias
+544,1,09:40,0,0,FRA,RD,Elinho
+545,1,09:44,0,0,PAT,3_Pts_T,I Thornton
+546,1,10:00,0,0,PAT,substituicao_entra,Scheuer
+547,1,10:00,0,0,PAT,substituicao_entra,Matheusinho
+548,1,10:00,0,0,PAT,substituicao_entra,Servelin
+549,1,10:00,0,0,PAT,substituicao_entra,Leal
+550,1,10:00,0,0,PAT,substituicao_entra,I Thornton
+551,1,10:00,0,0,FRA,substituicao_entra,Hubner
+552,1,10:00,0,0,FRA,substituicao_entra,André Goes
+553,1,10:00,0,0,FRA,substituicao_entra,Lucas Dias
+554,1,10:00,0,0,FRA,substituicao_entra,Fuzaro
+555,1,10:00,0,0,FRA,substituicao_entra,Elinho
+556,1,10:00,0,0,,inicio_partida,

@@ -1,0 +1,527 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,62,95,,fim_partida,
+1,4,00:00,62,95,,fim_quarto,
+2,4,00:01,62,95,FLA,3_Pts_T,Pedro Nunes
+3,4,00:03,62,95,FLA,RD,R Rachel
+4,4,00:06,62,95,PIN,2_Pts_T,M Douglas
+5,4,00:09,62,95,PIN,RO,M Douglas
+6,4,00:12,62,95,PIN,3_Pts_T,Gabriel
+7,4,00:17,62,95,FLA,2_Pts_C,Demétrio
+8,4,00:17,62,93,FLA,RO,Demétrio
+9,4,00:18,62,93,FLA,2_Pts_T,Maciel
+10,4,00:19,62,93,FLA,RO,Maciel
+11,4,00:22,62,93,FLA,3_Pts_T,R Rachel
+12,4,00:44,62,93,PIN,AS,Buffat
+13,4,00:44,62,93,PIN,3_Pts_C,Gabriel
+14,4,00:54,59,93,PIN,FR,Munford
+15,4,00:54,59,93,FLA,ER,Maciel
+16,4,00:54,59,93,FLA,FC_O,Maciel
+17,4,01:03,59,93,FLA,BR,Pedro Nunes
+18,4,01:03,59,93,PIN,ER,Munford
+19,4,01:07,59,93,PIN,FR,Gustavo
+20,4,01:07,59,93,FLA,FC,R Rachel
+21,4,01:09,59,93,PIN,RD,Gustavo
+22,4,01:12,59,93,FLA,2_Pts_T,Demétrio
+23,4,01:35,59,93,PIN,AS,Buffat
+24,4,01:35,59,93,PIN,2_Pts_C,Munford
+25,4,01:45,57,93,PIN,substituicao_entra,Gabriel
+26,4,01:45,57,93,PIN,substituicao_sai,Valter
+27,4,01:45,57,93,PIN,FR,Valter
+28,4,01:45,57,93,FLA,ER,Pedro Nunes
+29,4,01:45,57,93,FLA,FC_O,Pedro Nunes
+30,4,01:50,57,93,FLA,RO,Demétrio
+31,4,01:53,57,93,FLA,3_Pts_T,Jhonatan
+32,4,02:15,57,93,PIN,ER,Munford
+33,4,02:18,57,93,PIN,RD,Munford
+34,4,02:20,57,93,FLA,3_Pts_T,Demétrio
+35,4,02:40,57,93,PIN,AS,Gustavo
+36,4,02:40,57,93,PIN,2_Pts_C,Munford
+37,4,02:42,55,93,PIN,RD,M Douglas
+38,4,02:45,55,93,FLA,2_Pts_T,Maciel
+39,4,03:06,55,93,FLA,RD,Maciel
+40,4,03:08,55,93,PIN,3_Pts_T,Valter
+41,4,03:13,55,93,PIN,BR,Gustavo
+42,4,03:13,55,93,FLA,ER,R Rachel
+43,4,03:25,55,93,FLA,substituicao_entra,Demétrio
+44,4,03:25,55,93,FLA,substituicao_sai,Chuzito
+45,4,03:43,55,93,PIN,3_Pts_C,Buffat
+46,4,03:56,52,93,FLA,ER,Maciel
+47,4,04:20,52,93,PIN,2_Pts_C,Gustavo
+48,4,04:30,50,93,FLA,substituicao_entra,Jhonatan
+49,4,04:30,50,93,FLA,substituicao_sai,Demétrio
+50,4,04:30,50,93,PIN,FR,Buffat
+51,4,04:30,50,93,FLA,FC,Pedro Nunes
+52,4,04:41,50,93,FLA,AS,Chuzito
+53,4,04:41,50,93,FLA,3_Pts_C,Maciel
+54,4,05:02,50,90,FLA,RD,Demétrio
+55,4,05:04,50,90,PIN,3_Pts_T,Munford
+56,4,05:11,50,90,PIN,RD,Munford
+57,4,05:15,50,90,PIN,TO,Buffat
+58,4,05:15,50,90,FLA,2_Pts_T,Pedro Nunes
+59,4,05:24,50,90,PIN,substituicao_entra,Valter
+60,4,05:24,50,90,PIN,substituicao_entra,Munford
+61,4,05:24,50,90,PIN,substituicao_entra,Gustavo
+62,4,05:24,50,90,PIN,substituicao_sai,Zubiaurre
+63,4,05:24,50,90,PIN,substituicao_sai,Humberto
+64,4,05:24,50,90,PIN,substituicao_sai,Teichmann
+65,4,05:36,50,90,PIN,2_Pts_C,Humberto
+66,4,05:40,48,90,PIN,BR,Humberto
+67,4,05:40,48,90,FLA,ER,Chuzito
+68,4,05:47,48,90,FLA,RD,Demétrio
+69,4,05:50,48,90,PIN,2_Pts_T,Teichmann
+70,4,05:56,48,90,FLA,AS,Demétrio
+71,4,05:56,48,90,FLA,2_Pts_C,Chuzito
+72,4,05:59,48,88,FLA,RD,Demétrio
+73,4,06:02,48,88,PIN,2_Pts_T,Humberto
+74,4,06:31,48,88,FLA,AS,Demétrio
+75,4,06:31,48,88,FLA,3_Pts_C,Chuzito
+76,4,06:53,48,85,FLA,RD,Flamengo
+77,4,06:53,48,85,PIN,3_Pts_T,M Douglas
+78,4,07:09,48,85,PIN,substituicao_entra,Buffat
+79,4,07:09,48,85,PIN,substituicao_sai,Gustavo
+80,4,07:09,48,85,FLA,substituicao_entra,Maciel
+81,4,07:09,48,85,FLA,substituicao_entra,Chuzito
+82,4,07:09,48,85,FLA,substituicao_sai,Hettsheimeir
+83,4,07:09,48,85,FLA,substituicao_sai,Balbi
+84,4,07:09,48,85,PIN,substituicao_entra,M Douglas
+85,4,07:09,48,85,PIN,substituicao_sai,W Sena
+86,4,07:09,48,85,PIN,RD,Pinheiros
+87,4,07:11,48,85,FLA,3_Pts_T,Pedro Nunes
+88,4,07:28,48,85,PIN,AS,Zubiaurre
+89,4,07:28,48,85,PIN,3_Pts_C,Gustavo
+90,4,07:31,45,85,PIN,RD,Zubiaurre
+91,4,07:34,45,85,FLA,2_Pts_T,Balbi
+92,4,07:40,45,85,FLA,RO,Hettsheimeir
+93,4,07:43,45,85,FLA,2_Pts_T,R Rachel
+94,4,07:48,45,85,FLA,RD,Demétrio
+95,4,07:51,45,85,PIN,3_Pts_T,Humberto
+96,4,08:05,45,85,FLA,ER,
+97,4,08:06,45,85,PIN,TO,Zubiaurre
+98,4,08:06,45,85,FLA,3_Pts_T,Balbi
+99,4,08:21,45,85,FLA,LL_Pts_T,R Rachel
+100,4,08:21,45,85,FLA,LL_Pts_T,R Rachel
+101,4,08:21,45,85,FLA,FR,R Rachel
+102,4,08:21,45,85,PIN,FC_A,W Sena
+103,4,08:30,45,85,FLA,BR,Hettsheimeir
+104,4,08:30,45,85,PIN,ER,Gustavo
+105,4,08:46,45,85,FLA,2_Pts_C,Balbi
+106,4,08:55,45,83,FLA,FR,Hettsheimeir
+107,4,08:55,45,83,PIN,FC,Humberto
+108,4,09:06,45,83,FLA,BR,Demétrio
+109,4,09:06,45,83,PIN,ER,Humberto
+110,4,09:22,45,83,FLA,2_Pts_C,Pedro Nunes
+111,4,09:26,45,81,FLA,BR,Balbi
+112,4,09:26,45,81,PIN,ER,Gustavo
+113,4,09:37,45,81,PIN,RD,Zubiaurre
+114,4,09:40,45,81,FLA,3_Pts_T,Pedro Nunes
+115,4,09:46,45,81,FLA,RD,R Rachel
+116,4,09:49,45,81,PIN,2_Pts_T,Humberto
+117,4,10:00,45,81,,inicio_quarto,
+118,3,00:00,45,81,,fim_quarto,
+119,3,00:03,45,81,PIN,2_Pts_T,Gustavo
+120,3,00:04,45,81,PIN,BR,Gustavo
+121,3,00:04,45,81,FLA,ER,Balbi
+122,3,00:23,45,81,PIN,AS,Buffat
+123,3,00:23,45,81,PIN,2_Pts_C,Valter
+124,3,00:43,43,81,FLA,AS,Balbi
+125,3,00:43,43,81,FLA,3_Pts_C,Olivinha
+126,3,01:02,43,78,FLA,RD,Marquinhos
+127,3,01:04,43,78,PIN,2_Pts_T,M Douglas
+128,3,01:26,43,78,FLA,2_Pts_C,Balbi
+129,3,01:49,43,76,PIN,ER,Buffat
+130,3,02:08,43,76,FLA,EN,Olivinha
+131,3,02:13,43,74,FLA,BR,Olivinha
+132,3,02:13,43,74,PIN,ER,Valter
+133,3,02:19,43,74,PIN,RD,Pinheiros
+134,3,02:19,43,74,FLA,3_Pts_T,Marquinhos
+135,3,02:27,43,74,FLA,RD,Marquinhos
+136,3,02:29,43,74,PIN,3_Pts_T,M Douglas
+137,3,02:49,43,74,PIN,RD,Pinheiros
+138,3,02:50,43,74,FLA,2_Pts_T,Demétrio
+139,3,03:11,43,74,PIN,2_Pts_C,M Douglas
+140,3,03:12,41,74,PIN,RO,M Douglas
+141,3,03:15,41,74,PIN,2_Pts_T,Gustavo
+142,3,03:27,41,74,PIN,LL_Pts_C,Buffat
+143,3,03:27,40,74,PIN,LL_Pts_C,Buffat
+144,3,03:27,39,74,PIN,FR,Buffat
+145,3,03:27,39,74,FLA,FC_A,Olivinha
+146,3,03:28,39,74,PIN,BR,Buffat
+147,3,03:28,39,74,FLA,ER,Balbi
+148,3,03:46,39,74,PIN,AS,Gustavo
+149,3,03:46,39,74,PIN,3_Pts_C,M Douglas
+150,3,03:56,36,74,FLA,substituicao_entra,Pedro Nunes
+151,3,03:56,36,74,FLA,substituicao_sai,Jhonatan
+152,3,03:56,36,74,PIN,FR,Gustavo
+153,3,03:56,36,74,FLA,FC,Marquinhos
+154,3,04:11,36,74,FLA,LL_Pts_C,Marquinhos
+155,3,04:11,36,73,FLA,LL_Pts_C,Marquinhos
+156,3,04:11,36,72,FLA,substituicao_entra,Balbi
+157,3,04:11,36,72,FLA,substituicao_sai,Yago
+158,3,04:11,36,72,FLA,FR,Marquinhos
+159,3,04:11,36,72,PIN,FC,Gustavo
+160,3,04:16,36,72,FLA,BR,Yago
+161,3,04:16,36,72,PIN,ER,W Sena
+162,3,04:30,36,72,FLA,substituicao_entra,Olivinha
+163,3,04:30,36,72,FLA,substituicao_sai,Mineiro
+164,3,04:30,36,72,PIN,substituicao_entra,Valter
+165,3,04:30,36,72,PIN,substituicao_entra,Gustavo
+166,3,04:30,36,72,PIN,substituicao_sai,Zubiaurre
+167,3,04:30,36,72,PIN,substituicao_sai,Humberto
+168,3,04:30,36,72,FLA,LL_Pts_C,Marquinhos
+169,3,04:30,36,71,FLA,LL_Pts_T,Marquinhos
+170,3,04:30,36,71,FLA,FR,Marquinhos
+171,3,04:30,36,71,PIN,FC,Zubiaurre
+172,3,04:39,36,71,FLA,RD,Mineiro
+173,3,04:41,36,71,PIN,2_Pts_T,M Douglas
+174,3,04:52,36,71,FLA,ER,Marquinhos
+175,3,04:59,36,71,FLA,RD,Marquinhos
+176,3,05:01,36,71,PIN,2_Pts_T,Buffat
+177,3,05:10,36,71,FLA,substituicao_entra,Demétrio
+178,3,05:10,36,71,FLA,substituicao_entra,Marquinhos
+179,3,05:10,36,71,FLA,substituicao_sai,Hettsheimeir
+180,3,05:10,36,71,FLA,substituicao_sai,Chuzito
+181,3,05:10,36,71,PIN,substituicao_entra,W Sena
+182,3,05:10,36,71,PIN,substituicao_entra,Buffat
+183,3,05:10,36,71,PIN,substituicao_sai,Munford
+184,3,05:10,36,71,PIN,substituicao_sai,Teichmann
+185,3,05:10,36,71,PIN,RO,Pinheiros
+186,3,05:11,36,71,FLA,TO,Mineiro
+187,3,05:11,36,71,PIN,2_Pts_T,Zubiaurre
+188,3,05:15,36,71,PIN,RD,Munford
+189,3,05:17,36,71,FLA,2_Pts_T,Chuzito
+190,3,05:22,36,71,FLA,RO,Yago
+191,3,05:25,36,71,FLA,3_Pts_T,Mineiro
+192,3,05:37,36,71,PIN,AS,Humberto
+193,3,05:37,36,71,PIN,2_Pts_C,M Douglas
+194,3,05:57,34,71,FLA,2_Pts_C,Mineiro
+195,3,06:15,34,69,PIN,2_Pts_C,Zubiaurre
+196,3,06:37,32,69,PIN,RD,Munford
+197,3,06:40,32,69,PIN,TO,M Douglas
+198,3,06:40,32,69,FLA,2_Pts_T,Mineiro
+199,3,06:54,32,69,FLA,BR,Mineiro
+200,3,06:54,32,69,PIN,ER,Humberto
+201,3,07:05,32,69,PIN,RD,Pinheiros
+202,3,07:12,32,69,PIN,TO,Humberto
+203,3,07:12,32,69,FLA,2_Pts_T,Chuzito
+204,3,07:20,32,69,FLA,RO,Jhonatan
+205,3,07:23,32,69,FLA,3_Pts_T,Yago
+206,3,07:33,32,69,FLA,RD,Flamengo
+207,3,07:34,32,69,PIN,3_Pts_T,Zubiaurre
+208,3,07:54,32,69,FLA,AS,Mineiro
+209,3,07:54,32,69,FLA,3_Pts_C,Hettsheimeir
+210,3,08:14,32,66,PIN,AS,Teichmann
+211,3,08:14,32,66,PIN,3_Pts_C,Munford
+212,3,08:32,29,66,FLA,LL_Pts_C,Hettsheimeir
+213,3,08:32,29,65,FLA,FR,Hettsheimeir
+214,3,08:32,29,65,PIN,FC,Teichmann
+215,3,08:32,29,65,FLA,AS,Mineiro
+216,3,08:32,29,65,FLA,2_Pts_C,Hettsheimeir
+217,3,08:50,29,63,FLA,RD,Hettsheimeir
+218,3,08:52,29,63,PIN,2_Pts_T,M Douglas
+219,3,09:03,29,63,PIN,BR,M Douglas
+220,3,09:03,29,63,FLA,ER,Chuzito
+221,3,09:05,29,63,FLA,RD,Chuzito
+222,3,09:08,29,63,PIN,2_Pts_T,Teichmann
+223,3,09:22,29,63,FLA,AS,Chuzito
+224,3,09:22,29,63,FLA,3_Pts_C,Yago
+225,3,09:26,29,60,FLA,RD,Hettsheimeir
+226,3,09:29,29,60,PIN,2_Pts_T,Zubiaurre
+227,3,09:49,29,60,FLA,AS,Yago
+228,3,09:49,29,60,FLA,3_Pts_C,Jhonatan
+229,3,10:00,29,57,,inicio_quarto,
+230,2,00:00,29,57,,fim_quarto,
+231,2,00:02,29,57,FLA,substituicao_entra,Mineiro
+232,2,00:02,29,57,FLA,substituicao_entra,Marquinhos
+233,2,00:02,29,57,FLA,substituicao_entra,Pedro Nunes
+234,2,00:02,29,57,FLA,substituicao_sai,Hettsheimeir
+235,2,00:02,29,57,FLA,substituicao_sai,Balbi
+236,2,00:02,29,57,FLA,substituicao_sai,Yago
+237,2,00:02,29,57,PIN,FR,Buffat
+238,2,00:02,29,57,FLA,FC,Balbi
+239,2,00:10,29,57,FLA,2_Pts_C,Yago
+240,2,00:31,29,55,PIN,AS,Buffat
+241,2,00:31,29,55,PIN,3_Pts_C,Humberto
+242,2,00:48,26,55,FLA,AS,Balbi
+243,2,00:48,26,55,FLA,3_Pts_C,Hettsheimeir
+244,2,00:54,26,52,FLA,RD,Jhonatan
+245,2,00:57,26,52,PIN,3_Pts_T,Gabriel
+246,2,01:10,26,52,FLA,AS,Jhonatan
+247,2,01:10,26,52,FLA,3_Pts_C,Balbi
+248,2,01:25,26,49,FLA,RD,Demétrio
+249,2,01:25,26,49,PIN,LL_Pts_T,Teichmann
+250,2,01:25,26,49,PIN,LL_Pts_T,Teichmann
+251,2,01:25,26,49,PIN,FR,Teichmann
+252,2,01:25,26,49,FLA,FC,Hettsheimeir
+253,2,01:38,26,49,FLA,FR,Yago
+254,2,01:38,26,49,PIN,FC,Teichmann
+255,2,01:38,26,49,FLA,LL_Pts_C,Demétrio
+256,2,01:38,26,48,FLA,LL_Pts_C,Demétrio
+257,2,01:38,26,47,PIN,substituicao_entra,M Douglas
+258,2,01:38,26,47,PIN,substituicao_sai,W Sena
+259,2,01:38,26,47,FLA,FR,Demétrio
+260,2,01:38,26,47,PIN,FC,W Sena
+261,2,01:38,26,47,FLA,RO,Flamengo
+262,2,01:38,26,47,FLA,2_Pts_T,Demétrio
+263,2,02:01,26,47,PIN,2_Pts_C,Gabriel
+264,2,02:06,24,47,PIN,RD,Gabriel
+265,2,02:09,24,47,FLA,3_Pts_T,Hettsheimeir
+266,2,02:11,24,47,FLA,RD,Hettsheimeir
+267,2,02:15,24,47,PIN,2_Pts_T,Humberto
+268,2,02:34,24,47,FLA,substituicao_entra,Hettsheimeir
+269,2,02:34,24,47,FLA,substituicao_sai,Mineiro
+270,2,02:34,24,47,FLA,LL_Pts_C,Mineiro
+271,2,02:34,24,46,FLA,LL_Pts_T,Mineiro
+272,2,02:34,24,46,FLA,substituicao_entra,Yago
+273,2,02:34,24,46,FLA,substituicao_sai,Marquinhos
+274,2,02:34,24,46,PIN,substituicao_entra,Gabriel
+275,2,02:34,24,46,PIN,substituicao_sai,Valter
+276,2,02:34,24,46,FLA,FR,Mineiro
+277,2,02:34,24,46,PIN,FC,Valter
+278,2,02:38,24,46,FLA,RD,Jhonatan
+279,2,02:42,24,46,PIN,3_Pts_T,Valter
+280,2,02:50,24,46,PIN,RD,Teichmann
+281,2,02:53,24,46,FLA,2_Pts_T,Jhonatan
+282,2,03:03,24,46,FLA,substituicao_entra,Jhonatan
+283,2,03:03,24,46,FLA,substituicao_sai,Chuzito
+284,2,03:03,24,46,PIN,substituicao_entra,Valter
+285,2,03:03,24,46,PIN,substituicao_sai,Zubiaurre
+286,2,03:03,24,46,PIN,ER,Teichmann
+287,2,03:10,24,46,FLA,AS,Mineiro
+288,2,03:10,24,46,FLA,2_Pts_C,Marquinhos
+289,2,03:11,24,44,FLA,RO,Demétrio
+290,2,03:15,24,44,PIN,TO,Teichmann
+291,2,03:15,24,44,FLA,2_Pts_T,Demétrio
+292,2,03:16,24,44,FLA,RO,Demétrio
+293,2,03:20,24,44,FLA,3_Pts_T,Marquinhos
+294,2,03:33,24,44,PIN,ER,Teichmann
+295,2,03:45,24,44,PIN,substituicao_entra,Buffat
+296,2,03:45,24,44,PIN,substituicao_sai,Munford
+297,2,03:45,24,44,FLA,ER,Marquinhos
+298,2,03:47,24,44,FLA,RD,Mineiro
+299,2,03:50,24,44,PIN,2_Pts_T,Zubiaurre
+300,2,04:08,24,44,FLA,substituicao_entra,Demétrio
+301,2,04:08,24,44,FLA,substituicao_sai,Olivinha
+302,2,04:08,24,44,FLA,LL_Pts_C,Marquinhos
+303,2,04:08,24,43,FLA,LL_Pts_C,Marquinhos
+304,2,04:08,24,42,FLA,LL_Pts_C,Marquinhos
+305,2,04:08,24,41,PIN,substituicao_entra,Zubiaurre
+306,2,04:08,24,41,PIN,substituicao_sai,M Douglas
+307,2,04:08,24,41,PIN,substituicao_entra,Munford
+308,2,04:08,24,41,PIN,substituicao_sai,Zubiaurre
+309,2,04:08,24,41,PIN,substituicao_entra,Teichmann
+310,2,04:08,24,41,PIN,substituicao_sai,Valter
+311,2,04:08,24,41,FLA,FR,Marquinhos
+312,2,04:08,24,41,PIN,FC,Valter
+313,2,04:27,24,41,FLA,RD,Mineiro
+314,2,04:29,24,41,PIN,3_Pts_T,Valter
+315,2,04:42,24,41,FLA,ER,Olivinha
+316,2,05:05,24,41,FLA,substituicao_entra,Mineiro
+317,2,05:05,24,41,FLA,substituicao_sai,Hettsheimeir
+318,2,05:05,24,41,FLA,FR,Balbi
+319,2,05:05,24,41,PIN,ER,Valter
+320,2,05:05,24,41,PIN,FC_O,Valter
+321,2,05:20,24,41,FLA,AS,Balbi
+322,2,05:20,24,41,FLA,2_Pts_C,Olivinha
+323,2,05:23,24,39,PIN,substituicao_entra,Zubiaurre
+324,2,05:23,24,39,PIN,substituicao_sai,Gustavo
+325,2,05:23,24,39,FLA,FR,Hettsheimeir
+326,2,05:23,24,39,PIN,FC,Gustavo
+327,2,05:29,24,39,FLA,substituicao_entra,Balbi
+328,2,05:29,24,39,FLA,substituicao_sai,Yago
+329,2,06:10,24,39,PIN,substituicao_entra,W Sena
+330,2,06:10,24,39,PIN,substituicao_sai,Teichmann
+331,2,06:21,24,39,FLA,FR,Marquinhos
+332,2,06:21,24,39,PIN,FC,Gustavo
+333,2,06:23,24,39,FLA,RD,Olivinha
+334,2,06:23,24,39,PIN,2_Pts_T,M Douglas
+335,2,06:23,24,39,FLA,AS,Yago
+336,2,06:23,24,39,FLA,3_Pts_C,Olivinha
+337,2,06:23,24,36,FLA,RD,Hettsheimeir
+338,2,06:23,24,36,PIN,2_Pts_T,M Douglas
+339,2,06:23,24,36,PIN,RD,M Douglas
+340,2,06:23,24,36,FLA,2_Pts_T,Chuzito
+341,2,06:23,24,36,FLA,BR,Marquinhos
+342,2,06:23,24,36,PIN,ER,Teichmann
+343,2,06:23,24,36,PIN,BR,Humberto
+344,2,06:23,24,36,FLA,ER,Chuzito
+345,2,06:43,24,36,FLA,FR,Marquinhos
+346,2,06:43,24,36,PIN,FC,Gustavo
+347,2,06:44,24,36,FLA,RD,Olivinha
+348,2,06:44,24,36,PIN,3_Pts_T,Humberto
+349,2,06:44,24,36,PIN,RD,Teichmann
+350,2,06:44,24,36,FLA,3_Pts_T,Chuzito
+351,2,06:55,24,36,FLA,substituicao_entra,Olivinha
+352,2,06:55,24,36,FLA,substituicao_entra,Marquinhos
+353,2,06:55,24,36,FLA,substituicao_sai,Demétrio
+354,2,06:55,24,36,FLA,substituicao_sai,Jhonatan
+355,2,06:55,24,36,PIN,substituicao_entra,Valter
+356,2,06:55,24,36,PIN,substituicao_entra,Gustavo
+357,2,06:55,24,36,PIN,substituicao_sai,Zubiaurre
+358,2,06:55,24,36,PIN,substituicao_sai,Buffat
+359,2,07:17,24,36,FLA,FR,Demétrio
+360,2,07:17,24,36,PIN,FC,Humberto
+361,2,07:23,24,36,FLA,RO,Demétrio
+362,2,07:26,24,36,FLA,3_Pts_T,Yago
+363,2,07:44,24,36,PIN,AS,Teichmann
+364,2,07:44,24,36,PIN,3_Pts_C,Humberto
+365,2,08:05,21,36,FLA,AS,Yago
+366,2,08:05,21,36,FLA,3_Pts_C,Chuzito
+367,2,08:14,21,33,FLA,RD,Hettsheimeir
+368,2,08:17,21,33,PIN,2_Pts_T,M Douglas
+369,2,08:33,21,33,PIN,FR,Zubiaurre
+370,2,08:33,21,33,FLA,FC,Demétrio
+371,2,08:39,21,33,FLA,substituicao_entra,Chuzito
+372,2,08:39,21,33,FLA,substituicao_sai,Pedro Nunes
+373,2,08:39,21,33,PIN,FR,Humberto
+374,2,08:39,21,33,FLA,FC,Jhonatan
+375,2,08:52,21,33,FLA,AS,Hettsheimeir
+376,2,08:52,21,33,FLA,3_Pts_C,Demétrio
+377,2,09:14,21,30,PIN,AS,Teichmann
+378,2,09:14,21,30,PIN,2_Pts_C,M Douglas
+379,2,09:33,19,30,FLA,AS,Pedro Nunes
+380,2,09:33,19,30,FLA,3_Pts_C,Yago
+381,2,09:35,19,27,FLA,RO,Pedro Nunes
+382,2,09:38,19,27,FLA,3_Pts_T,Jhonatan
+383,2,09:45,19,27,FLA,RD,Demétrio
+384,2,09:48,19,27,PIN,2_Pts_T,Zubiaurre
+385,2,10:00,19,27,,inicio_quarto,
+386,1,00:00,19,27,,fim_quarto,
+387,1,00:00,19,27,FLA,2_Pts_T,Demétrio
+388,1,00:00,19,27,FLA,RO,Demétrio
+389,1,00:00,19,27,FLA,3_Pts_T,Yago
+390,1,00:20,19,27,PIN,2_Pts_C,Buffat
+391,1,00:33,17,27,PIN,substituicao_entra,Humberto
+392,1,00:33,17,27,PIN,substituicao_sai,Munford
+393,1,00:33,17,27,FLA,LL_Pts_C,Yago
+394,1,00:33,17,26,FLA,LL_Pts_C,Yago
+395,1,00:33,17,25,FLA,FR,Yago
+396,1,00:33,17,25,PIN,FC,Zubiaurre
+397,1,00:40,17,25,PIN,2_Pts_C,Zubiaurre
+398,1,00:54,15,25,FLA,AS,Yago
+399,1,00:54,15,25,FLA,3_Pts_C,Jhonatan
+400,1,01:01,15,22,FLA,RO,Flamengo
+401,1,01:03,15,22,FLA,3_Pts_T,Hettsheimeir
+402,1,01:07,15,22,FLA,RD,Yago
+403,1,01:10,15,22,PIN,3_Pts_T,Munford
+404,1,01:25,15,22,FLA,LL_Pts_C,Pedro Nunes
+405,1,01:25,15,21,PIN,substituicao_entra,Zubiaurre
+406,1,01:25,15,21,PIN,substituicao_sai,Valter
+407,1,01:25,15,21,FLA,FR,Pedro Nunes
+408,1,01:25,15,21,PIN,FC,Valter
+409,1,01:25,15,21,FLA,2_Pts_C,Pedro Nunes
+410,1,01:26,15,19,FLA,BR,Pedro Nunes
+411,1,01:26,15,19,PIN,ER,Valter
+412,1,01:31,15,19,FLA,AS,Yago
+413,1,01:31,15,19,FLA,3_Pts_C,Jhonatan
+414,1,01:48,15,16,FLA,tempo_tecnico,Flamengo
+415,1,01:53,15,16,PIN,AS,Buffat
+416,1,01:53,15,16,PIN,2_Pts_C,W Sena
+417,1,01:57,13,16,FLA,substituicao_entra,Demétrio
+418,1,01:57,13,16,FLA,substituicao_entra,Yago
+419,1,01:57,13,16,FLA,substituicao_entra,Pedro Nunes
+420,1,01:57,13,16,FLA,substituicao_sai,Olivinha
+421,1,01:57,13,16,FLA,substituicao_sai,Chuzito
+422,1,01:57,13,16,FLA,substituicao_sai,Balbi
+423,1,01:57,13,16,PIN,substituicao_entra,W Sena
+424,1,01:57,13,16,PIN,substituicao_entra,Gustavo
+425,1,01:57,13,16,PIN,substituicao_sai,Humberto
+426,1,01:57,13,16,PIN,substituicao_sai,Teichmann
+427,1,01:59,13,16,PIN,RO,Pinheiros
+428,1,02:01,13,16,PIN,2_Pts_T,Munford
+429,1,02:06,13,16,PIN,RD,Buffat
+430,1,02:06,13,16,FLA,2_Pts_T,Hettsheimeir
+431,1,02:06,13,16,FLA,RO,Hettsheimeir
+432,1,02:14,13,16,FLA,2_Pts_T,Balbi
+433,1,02:19,13,16,FLA,RD,Olivinha
+434,1,02:25,13,16,PIN,3_Pts_T,Buffat
+435,1,02:37,13,16,PIN,RD,Munford
+436,1,02:39,13,16,FLA,3_Pts_T,Hettsheimeir
+437,1,02:58,13,16,PIN,2_Pts_C,Humberto
+438,1,03:02,11,16,PIN,BR,Humberto
+439,1,03:02,11,16,FLA,ER,Chuzito
+440,1,03:04,11,16,FLA,RD,Chuzito
+441,1,03:07,11,16,PIN,3_Pts_T,Humberto
+442,1,03:13,11,16,PIN,RD,Buffat
+443,1,03:16,11,16,FLA,3_Pts_T,Chuzito
+444,1,03:27,11,16,FLA,RD,Olivinha
+445,1,03:27,11,16,PIN,LL_Pts_T,Buffat
+446,1,03:27,11,16,PIN,LL_Pts_C,Buffat
+447,1,03:27,10,16,FLA,substituicao_entra,Hettsheimeir
+448,1,03:27,10,16,FLA,substituicao_entra,Jhonatan
+449,1,03:27,10,16,FLA,substituicao_sai,Mineiro
+450,1,03:27,10,16,FLA,substituicao_sai,Marquinhos
+451,1,03:27,10,16,PIN,FR,Buffat
+452,1,03:27,10,16,FLA,FC,Mineiro
+453,1,03:39,10,16,PIN,RD,Teichmann
+454,1,03:42,10,16,FLA,3_Pts_T,Chuzito
+455,1,03:54,10,16,FLA,RO,Balbi
+456,1,03:57,10,16,FLA,3_Pts_T,Marquinhos
+457,1,03:59,10,16,FLA,RO,Chuzito
+458,1,04:02,10,16,FLA,3_Pts_T,Marquinhos
+459,1,04:10,10,16,PIN,AS,Munford
+460,1,04:10,10,16,PIN,2_Pts_C,Humberto
+461,1,04:14,8,16,PIN,RD,Buffat
+462,1,04:17,8,16,FLA,2_Pts_T,Mineiro
+463,1,04:30,8,16,FLA,RD,Marquinhos
+464,1,04:33,8,16,PIN,2_Pts_T,Valter
+465,1,04:56,8,16,FLA,LL_Pts_C,Olivinha
+466,1,04:56,8,15,FLA,LL_Pts_T,Olivinha
+467,1,04:56,8,15,FLA,FR,Olivinha
+468,1,04:56,8,15,PIN,FC,Buffat
+469,1,04:59,8,15,FLA,RO,Olivinha
+470,1,05:01,8,15,FLA,2_Pts_T,Olivinha
+471,1,05:20,8,15,PIN,substituicao_entra,Valter
+472,1,05:20,8,15,PIN,substituicao_sai,Zubiaurre
+473,1,05:27,8,15,PIN,ER,Buffat
+474,1,05:43,8,15,FLA,2_Pts_C,Chuzito
+475,1,05:47,8,13,PIN,AS,Teichmann
+476,1,05:47,8,13,PIN,3_Pts_C,Buffat
+477,1,05:58,5,13,PIN,substituicao_entra,Munford
+478,1,05:58,5,13,PIN,substituicao_entra,Buffat
+479,1,05:58,5,13,PIN,substituicao_sai,W Sena
+480,1,05:58,5,13,PIN,substituicao_sai,Gustavo
+481,1,05:58,5,13,PIN,tempo_tecnico,Pinheiros
+482,1,05:58,5,13,FLA,AS,Balbi
+483,1,05:58,5,13,FLA,2_Pts_C,Mineiro
+484,1,06:03,5,11,FLA,RD,Olivinha
+485,1,06:05,5,11,PIN,2_Pts_T,Teichmann
+486,1,06:18,5,11,PIN,RD,W Sena
+487,1,06:21,5,11,FLA,2_Pts_T,Mineiro
+488,1,06:32,5,11,FLA,RD,Marquinhos
+489,1,06:35,5,11,PIN,3_Pts_T,Gustavo
+490,1,06:57,5,11,FLA,AS,Balbi
+491,1,06:57,5,11,FLA,2_Pts_C,Olivinha
+492,1,06:59,5,9,FLA,RD,Chuzito
+493,1,07:03,5,9,PIN,2_Pts_T,Gustavo
+494,1,07:22,5,9,FLA,AS,Olivinha
+495,1,07:22,5,9,FLA,2_Pts_C,Marquinhos
+496,1,07:23,5,7,FLA,RD,Balbi
+497,1,07:27,5,7,PIN,3_Pts_T,Humberto
+498,1,07:52,5,7,FLA,3_Pts_C,Balbi
+499,1,08:06,5,4,PIN,AS,Zubiaurre
+500,1,08:06,5,4,PIN,3_Pts_C,Humberto
+501,1,08:17,2,4,FLA,2_Pts_C,Olivinha
+502,1,08:17,2,2,FLA,RO,Olivinha
+503,1,08:20,2,2,FLA,2_Pts_T,Chuzito
+504,1,08:26,2,2,FLA,BR,Chuzito
+505,1,08:26,2,2,PIN,ER,Teichmann
+506,1,08:47,2,2,PIN,BR,Humberto
+507,1,08:47,2,2,FLA,ER,Marquinhos
+508,1,09:08,2,2,PIN,2_Pts_C,Humberto
+509,1,09:24,0,2,FLA,AS,Balbi
+510,1,09:24,0,2,FLA,2_Pts_C,Marquinhos
+511,1,09:28,0,0,FLA,BR,Mineiro
+512,1,09:28,0,0,PIN,ER,Zubiaurre
+513,1,09:39,0,0,PIN,RD,Teichmann
+514,1,09:42,0,0,FLA,2_Pts_T,Marquinhos
+515,1,10:00,0,0,FLA,substituicao_entra,Olivinha
+516,1,10:00,0,0,FLA,substituicao_entra,Mineiro
+517,1,10:00,0,0,FLA,substituicao_entra,Marquinhos
+518,1,10:00,0,0,FLA,substituicao_entra,Chuzito
+519,1,10:00,0,0,FLA,substituicao_entra,Balbi
+520,1,10:00,0,0,PIN,substituicao_entra,Zubiaurre
+521,1,10:00,0,0,PIN,substituicao_entra,W Sena
+522,1,10:00,0,0,PIN,substituicao_entra,Humberto
+523,1,10:00,0,0,PIN,substituicao_entra,Teichmann
+524,1,10:00,0,0,PIN,substituicao_entra,Gustavo
+525,1,10:00,0,0,,inicio_partida,

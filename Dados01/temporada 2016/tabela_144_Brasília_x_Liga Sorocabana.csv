@@ -1,0 +1,619 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,79,77,,fim_partida,
+1,4,00:02,79,77,BRA,3_Pts_T,Alex
+2,4,00:02,79,77,BRA,BR,Alex
+3,4,00:02,79,77,LSB,ER,Léo
+4,4,00:03,79,77,BRA,2_Pts_C,Fulvio
+5,4,00:10,77,77,LSB,substituicao_entra,Léo
+6,4,00:10,77,77,LSB,substituicao_sai,Lucão
+7,4,00:10,77,77,BRA,tempo_tecnico,
+8,4,00:10,77,77,LSB,2_Pts_C,Cafferata
+9,4,00:29,77,75,LSB,RD,Castellon
+10,4,00:29,77,75,BRA,LL_Pts_T,Lucas Mariano
+11,4,00:29,77,75,BRA,LL_Pts_T,Lucas Mariano
+12,4,00:29,77,75,BRA,FR,Lucas Mariano
+13,4,00:29,77,75,LSB,FC,Cafferata
+14,4,00:30,77,75,BRA,RO,Pilar
+15,4,00:31,77,75,BRA,LL_Pts_T,Lucas Mariano
+16,4,00:31,77,75,BRA,LL_Pts_C,Lucas Mariano
+17,4,00:31,76,75,BRA,FR,Lucas Mariano
+18,4,00:31,76,75,LSB,FC,Lucão
+19,4,00:32,76,75,BRA,substituicao_entra,Lucas Mariano
+20,4,00:32,76,75,BRA,substituicao_entra,Alex
+21,4,00:32,76,75,BRA,substituicao_entra,Deryk
+22,4,00:32,76,75,BRA,substituicao_entra,Pilar
+23,4,00:32,76,75,BRA,substituicao_entra,Fulvio
+24,4,00:32,76,75,BRA,substituicao_sai,Lucas Mariano
+25,4,00:32,76,75,BRA,substituicao_sai,Fulvio
+26,4,00:32,76,75,BRA,substituicao_sai,Alex
+27,4,00:32,76,75,BRA,substituicao_sai,Deryk
+28,4,00:32,76,75,BRA,substituicao_sai,Pilar
+29,4,00:32,76,75,BRA,tempo_tecnico,
+30,4,00:32,76,75,LSB,LL_Pts_C,Lucão
+31,4,00:32,76,74,LSB,LL_Pts_C,Lucão
+32,4,00:32,76,73,LSB,FR,Lucão
+33,4,00:32,76,73,BRA,FC,Alex
+34,4,00:34,76,73,LSB,substituicao_entra,Ted
+35,4,00:34,76,73,LSB,substituicao_entra,Cafferata
+36,4,00:34,76,73,LSB,substituicao_entra,Lucas
+37,4,00:34,76,73,LSB,substituicao_entra,Castellon
+38,4,00:34,76,73,LSB,substituicao_entra,Lucão
+39,4,00:34,76,73,BRA,substituicao_entra,Lucas Mariano
+40,4,00:34,76,73,BRA,substituicao_entra,Fulvio
+41,4,00:34,76,73,BRA,substituicao_entra,Deryk
+42,4,00:34,76,73,BRA,substituicao_entra,Alex
+43,4,00:34,76,73,BRA,substituicao_entra,Pilar
+44,4,00:34,76,73,BRA,substituicao_sai,Lucas Mariano
+45,4,00:34,76,73,BRA,substituicao_sai,Fulvio
+46,4,00:34,76,73,BRA,substituicao_sai,Alex
+47,4,00:34,76,73,BRA,substituicao_sai,Deryk
+48,4,00:34,76,73,BRA,substituicao_sai,Pilar
+49,4,00:34,76,73,LSB,substituicao_sai,Cafferata
+50,4,00:34,76,73,LSB,substituicao_sai,Ted
+51,4,00:34,76,73,LSB,substituicao_sai,Castellon
+52,4,00:34,76,73,LSB,substituicao_sai,Lucas
+53,4,00:34,76,73,LSB,substituicao_sai,Lucão
+54,4,00:34,76,73,LSB,tempo_tecnico,
+55,4,00:34,76,73,BRA,LL_Pts_C,Fulvio
+56,4,00:34,75,73,BRA,LL_Pts_C,Fulvio
+57,4,00:34,74,73,LSB,substituicao_entra,Lucão
+58,4,00:34,74,73,LSB,substituicao_sai,Maique
+59,4,00:34,74,73,BRA,FR,Fulvio
+60,4,00:34,74,73,LSB,FC,Maique
+61,4,00:41,74,73,LSB,substituicao_entra,Ted
+62,4,00:41,74,73,BRA,substituicao_entra,Alex
+63,4,00:41,74,73,BRA,substituicao_entra,Lucas Mariano
+64,4,00:41,74,73,BRA,substituicao_entra,Pilar
+65,4,00:41,74,73,BRA,substituicao_entra,Deryk
+66,4,00:41,74,73,BRA,substituicao_entra,Fulvio
+67,4,00:41,74,73,LSB,substituicao_entra,Maique
+68,4,00:41,74,73,LSB,substituicao_entra,Castellon
+69,4,00:41,74,73,LSB,substituicao_entra,Cafferata
+70,4,00:41,74,73,LSB,substituicao_entra,Lucas
+71,4,00:41,74,73,BRA,substituicao_sai,Lucas Mariano
+72,4,00:41,74,73,BRA,substituicao_sai,João
+73,4,00:41,74,73,BRA,substituicao_sai,Fulvio
+74,4,00:41,74,73,BRA,substituicao_sai,Alex
+75,4,00:41,74,73,BRA,substituicao_sai,Deryk
+76,4,00:41,74,73,LSB,substituicao_sai,Cafferata
+77,4,00:41,74,73,LSB,substituicao_sai,Ted
+78,4,00:41,74,73,LSB,substituicao_sai,Maique
+79,4,00:41,74,73,LSB,substituicao_sai,Castellon
+80,4,00:41,74,73,LSB,substituicao_sai,Lucas
+81,4,00:41,74,73,LSB,tempo_tecnico,
+82,4,00:41,74,73,BRA,RO,Brasília
+83,4,00:45,74,73,BRA,3_Pts_T,Lucas Mariano
+84,4,01:05,74,73,BRA,RD,João
+85,4,01:08,74,73,LSB,3_Pts_T,Ted
+86,4,01:22,74,73,LSB,RD,Cafferata
+87,4,01:26,74,73,BRA,3_Pts_T,Fulvio
+88,4,01:40,74,73,BRA,LL_Pts_C,Lucas Mariano
+89,4,01:40,73,73,BRA,LL_Pts_C,Lucas Mariano
+90,4,01:40,72,73,LSB,substituicao_entra,Maique
+91,4,01:40,72,73,LSB,substituicao_sai,Alexandre
+92,4,01:40,72,73,BRA,substituicao_entra,João
+93,4,01:40,72,73,BRA,substituicao_sai,Pilar
+94,4,01:40,72,73,BRA,FR,Lucas Mariano
+95,4,01:40,72,73,LSB,FC_A,Alexandre
+96,4,01:54,72,73,LSB,LL_Pts_C,Alexandre
+97,4,01:54,72,72,LSB,LL_Pts_C,Alexandre
+98,4,01:54,72,71,LSB,FR,Alexandre
+99,4,01:54,72,71,BRA,FC,Lucas Mariano
+100,4,01:54,72,71,LSB,RO,Alexandre
+101,4,01:56,72,71,LSB,2_Pts_T,Cafferata
+102,4,02:17,72,71,BRA,LL_Pts_C,Deryk
+103,4,02:17,71,71,BRA,FR,Deryk
+104,4,02:17,71,71,LSB,FC,Ted
+105,4,02:17,71,71,BRA,2_Pts_C,Deryk
+106,4,02:29,69,71,BRA,RD,Pilar
+107,4,02:32,69,71,LSB,2_Pts_T,Lucas
+108,4,02:45,69,71,LSB,FR,Cafferata
+109,4,02:45,69,71,BRA,FC,Fulvio
+110,4,02:55,69,71,LSB,substituicao_entra,Alexandre
+111,4,02:55,69,71,LSB,substituicao_sai,Maique
+112,4,02:55,69,71,LSB,FR,Ted
+113,4,02:55,69,71,BRA,FC,Pilar
+114,4,02:58,69,71,LSB,RD,Ted
+115,4,03:02,69,71,BRA,3_Pts_T,Alex
+116,4,03:19,69,71,LSB,substituicao_entra,Castellon
+117,4,03:19,69,71,LSB,substituicao_sai,Léo
+118,4,03:19,69,71,LSB,substituicao_entra,Léo
+119,4,03:19,69,71,LSB,substituicao_sai,Castellon
+120,4,03:19,69,71,LSB,,
+121,4,03:23,69,71,LSB,substituicao_entra,Ted
+122,4,03:23,69,71,LSB,substituicao_sai,Léo
+123,4,03:25,69,71,LSB,2_Pts_T,Cafferata
+124,4,03:45,69,71,LSB,FR,Castellon
+125,4,03:45,69,71,BRA,FC,Fulvio
+126,4,03:45,69,71,LSB,ER,Castellon
+127,4,03:45,69,71,LSB,RD,Castellon
+128,4,03:48,69,71,BRA,3_Pts_T,Deryk
+129,4,03:51,69,71,BRA,RD,Pilar
+130,4,03:54,69,71,LSB,2_Pts_T,Maique
+131,4,03:59,69,71,LSB,BR,Cafferata
+132,4,03:59,69,71,BRA,ER,Pilar
+133,4,04:35,69,71,LSB,AS,Léo
+134,4,04:35,69,71,LSB,3_Pts_C,Castellon
+135,4,04:36,69,68,LSB,RO,Léo
+136,4,04:40,69,68,LSB,2_Pts_T,Léo
+137,4,04:59,69,68,BRA,substituicao_entra,Lucas Mariano
+138,4,04:59,69,68,BRA,substituicao_sai,D Alemão
+139,4,04:59,69,68,BRA,LL_Pts_C,D Alemão
+140,4,04:59,68,68,BRA,LL_Pts_T,D Alemão
+141,4,04:59,68,68,BRA,substituicao_entra,Pilar
+142,4,04:59,68,68,BRA,substituicao_sai,Jefferson
+143,4,04:59,68,68,LSB,substituicao_entra,Castellon
+144,4,04:59,68,68,LSB,substituicao_sai,Ted
+145,4,04:59,68,68,BRA,FR,D Alemão
+146,4,04:59,68,68,LSB,FC,Maique
+147,4,04:59,68,68,BRA,RO,D Alemão
+148,4,05:01,68,68,BRA,3_Pts_T,Alex
+149,4,05:18,68,68,LSB,2_Pts_C,Lucas
+150,4,05:35,68,66,LSB,RD,Ted
+151,4,05:40,68,66,BRA,3_Pts_T,Deryk
+152,4,05:49,68,66,LSB,3_Pts_C,Cafferata
+153,4,06:13,68,63,BRA,AS,Fulvio
+154,4,06:13,68,63,BRA,EN,D Alemão
+155,4,06:32,66,63,LSB,AS,Léo
+156,4,06:32,66,63,LSB,2_Pts_C,Maique
+157,4,06:42,66,61,BRA,AS,Fulvio
+158,4,06:42,66,61,BRA,3_Pts_C,Alex
+159,4,06:47,63,61,LSB,2_Pts_C,Maique
+160,4,06:48,63,59,LSB,RO,Maique
+161,4,06:52,63,59,LSB,2_Pts_T,Cafferata
+162,4,07:09,63,59,BRA,ER,Jefferson
+163,4,07:30,63,59,LSB,substituicao_entra,Cafferata
+164,4,07:30,63,59,LSB,substituicao_entra,Ted
+165,4,07:30,63,59,LSB,substituicao_entra,Lucas
+166,4,07:30,63,59,BRA,substituicao_entra,D Alemão
+167,4,07:30,63,59,BRA,substituicao_entra,Fulvio
+168,4,07:30,63,59,BRA,substituicao_entra,Alex
+169,4,07:30,63,59,BRA,substituicao_entra,Deryk
+170,4,07:30,63,59,BRA,substituicao_entra,Jefferson
+171,4,07:30,63,59,BRA,substituicao_sai,D Alemão
+172,4,07:30,63,59,BRA,substituicao_sai,Fulvio
+173,4,07:30,63,59,BRA,substituicao_sai,Alex
+174,4,07:30,63,59,BRA,substituicao_sai,Deryk
+175,4,07:30,63,59,BRA,substituicao_sai,Jefferson
+176,4,07:30,63,59,LSB,substituicao_sai,Cafferata
+177,4,07:30,63,59,LSB,substituicao_sai,Ted
+178,4,07:30,63,59,LSB,substituicao_sai,Castellon
+179,4,07:30,63,59,LSB,substituicao_entra,Maique
+180,4,07:30,63,59,LSB,substituicao_sai,Lucas
+181,4,07:30,63,59,LSB,substituicao_entra,Léo
+182,4,07:30,63,59,LSB,substituicao_sai,Lucão
+183,4,07:30,63,59,LSB,tempo_tecnico,
+184,4,07:30,63,59,BRA,FR,Deryk
+185,4,07:30,63,59,LSB,FC,Lucão
+186,4,07:30,63,59,BRA,RD,Jefferson
+187,4,07:32,63,59,LSB,2_Pts_T,Cafferata
+188,4,07:48,63,59,BRA,3_Pts_C,Jefferson
+189,4,07:59,60,59,BRA,FR,D Alemão
+190,4,07:59,60,59,LSB,ER,Ted
+191,4,07:59,60,59,LSB,FC_O,Ted
+192,4,08:21,60,59,BRA,LL_Pts_C,Fulvio
+193,4,08:21,59,59,BRA,LL_Pts_C,Fulvio
+194,4,08:21,58,59,LSB,substituicao_entra,Lucão
+195,4,08:21,58,59,LSB,substituicao_sai,Alexandre
+196,4,08:21,58,59,BRA,FR,Fulvio
+197,4,08:21,58,59,LSB,FC,Alexandre
+198,4,08:42,58,59,LSB,AS,Castellon
+199,4,08:42,58,59,LSB,2_Pts_C,Ted
+200,4,09:00,58,57,BRA,ER,Jefferson
+201,4,09:19,58,57,LSB,substituicao_entra,Alexandre
+202,4,09:19,58,57,LSB,substituicao_sai,Maique
+203,4,09:19,58,57,BRA,FR,D Alemão
+204,4,09:19,58,57,LSB,FC,Maique
+205,4,09:30,58,57,BRA,RD,Jefferson
+206,4,09:34,58,57,LSB,2_Pts_T,Maique
+207,4,09:45,58,57,LSB,RO,L Sorocabana
+208,4,09:45,58,57,BRA,TO,D Alemão
+209,4,09:45,58,57,LSB,2_Pts_T,Castellon
+210,4,10:00,58,57,,inicio_quarto,
+211,3,00:00,58,57,,fim_quarto,
+212,3,00:13,58,57,BRA,AS,Fulvio
+213,3,00:13,58,57,BRA,2_Pts_C,Deryk
+214,3,00:13,56,57,BRA,RD,Lucas Mariano
+215,3,00:13,56,57,LSB,3_Pts_T,Cafferata
+216,3,00:36,56,57,BRA,2_Pts_C,Fulvio
+217,3,00:45,54,57,LSB,2_Pts_C,Cafferata
+218,3,00:52,54,55,LSB,BR,Léo
+219,3,00:52,54,55,BRA,ER,Lucas Mariano
+220,3,01:06,54,55,BRA,RD,Deryk
+221,3,01:10,54,55,LSB,3_Pts_T,Léo
+222,3,01:26,54,55,BRA,AS,Lucas Mariano
+223,3,01:26,54,55,BRA,3_Pts_C,Jefferson
+224,3,01:39,51,55,LSB,2_Pts_C,Lucão
+225,3,01:52,51,53,LSB,RO,Cafferata
+226,3,01:55,51,53,LSB,3_Pts_T,Castellon
+227,3,02:03,51,53,BRA,substituicao_entra,Deryk
+228,3,02:03,51,53,BRA,substituicao_sai,João
+229,3,02:03,51,53,LSB,substituicao_entra,Lucão
+230,3,02:03,51,53,LSB,substituicao_sai,Maique
+231,3,02:03,51,53,LSB,FR,Cafferata
+232,3,02:03,51,53,BRA,FC,Jefferson
+233,3,02:21,51,53,BRA,substituicao_entra,Jefferson
+234,3,02:21,51,53,BRA,substituicao_sai,Pilar
+235,3,02:21,51,53,BRA,LL_Pts_C,Lucas Mariano
+236,3,02:22,50,53,BRA,FR,Lucas Mariano
+237,3,02:22,50,53,LSB,FC,Léo
+238,3,02:31,50,53,BRA,AS,Fulvio
+239,3,02:31,50,53,BRA,EN,Lucas Mariano
+240,3,02:50,48,53,LSB,3_Pts_C,Cafferata
+241,3,03:03,48,50,BRA,2_Pts_C,Alex
+242,3,03:04,46,50,BRA,RO,Alex
+243,3,03:07,46,50,BRA,2_Pts_T,Alex
+244,3,03:10,46,50,BRA,RO,Pilar
+245,3,03:13,46,50,BRA,2_Pts_T,Pilar
+246,3,03:17,46,50,BRA,RD,Lucas Mariano
+247,3,03:20,46,50,LSB,2_Pts_T,Cafferata
+248,3,03:40,46,50,LSB,RD,Cafferata
+249,3,03:44,46,50,BRA,3_Pts_T,Alex
+250,3,03:52,46,50,LSB,ER,Léo
+251,3,03:52,46,50,LSB,BR,Castellon
+252,3,03:52,46,50,BRA,ER,João
+253,3,03:55,46,50,BRA,FR,Alex
+254,3,03:55,46,50,LSB,FC,Castellon
+255,3,03:55,46,50,LSB,FR,Castellon
+256,3,03:55,46,50,BRA,FC,Alex
+257,3,04:10,46,50,LSB,substituicao_entra,Castellon
+258,3,04:10,46,50,LSB,substituicao_sai,Felipe
+259,3,04:10,46,50,LSB,substituicao_entra,Lucas
+260,3,04:10,46,50,LSB,substituicao_sai,Ted
+261,3,04:10,46,50,BRA,RD,Brasília
+262,3,04:11,46,50,LSB,3_Pts_T,Léo
+263,3,04:27,46,50,LSB,substituicao_entra,Maique
+264,3,04:27,46,50,LSB,substituicao_sai,Alexandre
+265,3,04:35,46,50,BRA,LL_Pts_C,Lucas Mariano
+266,3,04:35,45,50,BRA,LL_Pts_T,Lucas Mariano
+267,3,04:35,45,50,BRA,substituicao_entra,Alex
+268,3,04:35,45,50,BRA,substituicao_sai,Deryk
+269,3,04:35,45,50,BRA,FR,Lucas Mariano
+270,3,04:35,45,50,LSB,FC,Alexandre
+271,3,04:35,45,50,LSB,substituicao_entra,Léo
+272,3,04:35,45,50,LSB,substituicao_sai,Lucas
+273,3,04:50,45,50,LSB,AS,Lucas
+274,3,04:50,45,50,LSB,3_Pts_C,Ted
+275,3,05:04,45,47,BRA,AS,Lucas Mariano
+276,3,05:04,45,47,BRA,2_Pts_C,João
+277,3,05:30,43,47,BRA,LL_Pts_T,Fulvio
+278,3,05:30,43,47,LSB,substituicao_entra,Felipe
+279,3,05:30,43,47,LSB,substituicao_sai,Léo
+280,3,05:30,43,47,LSB,substituicao_entra,Léo
+281,3,05:30,43,47,LSB,substituicao_sai,Castellon
+282,3,05:30,43,47,LSB,FC_T,Castellon
+283,3,05:40,43,47,LSB,ER,Castellon
+284,3,05:43,43,47,LSB,BR,Ted
+285,3,05:43,43,47,BRA,ER,Fulvio
+286,3,05:56,43,47,LSB,AS,Lucas
+287,3,05:56,43,47,LSB,3_Pts_C,Castellon
+288,3,06:02,43,44,LSB,RD,Cafferata
+289,3,06:05,43,44,BRA,3_Pts_T,Deryk
+290,3,06:13,43,44,LSB,AS,Alexandre
+291,3,06:13,43,44,LSB,2_Pts_C,Cafferata
+292,3,06:29,43,42,BRA,AS,Lucas Mariano
+293,3,06:29,43,42,BRA,2_Pts_C,Pilar
+294,3,06:34,41,42,LSB,ER,Lucas
+295,3,06:46,41,42,BRA,2_Pts_C,Fulvio
+296,3,06:57,39,42,LSB,2_Pts_C,Cafferata
+297,3,06:59,39,40,LSB,substituicao_entra,Cafferata
+298,3,06:59,39,40,LSB,substituicao_sai,Léo
+299,3,07:27,39,40,BRA,AS,João
+300,3,07:27,39,40,BRA,2_Pts_C,Deryk
+301,3,07:29,37,40,BRA,RD,João
+302,3,07:32,37,40,LSB,2_Pts_T,Ted
+303,3,07:55,37,40,BRA,AS,Fulvio
+304,3,07:55,37,40,BRA,2_Pts_C,João
+305,3,08:14,35,40,LSB,2_Pts_C,Léo
+306,3,08:26,35,38,LSB,BR,Léo
+307,3,08:26,35,38,BRA,ER,Fulvio
+308,3,08:29,35,38,BRA,RD,Fulvio
+309,3,08:32,35,38,LSB,3_Pts_T,Castellon
+310,3,08:42,35,38,LSB,RO,L Sorocabana
+311,3,08:43,35,38,LSB,2_Pts_T,Lucas
+312,3,08:52,35,38,LSB,BR,Castellon
+313,3,08:52,35,38,BRA,ER,Fulvio
+314,3,08:59,35,38,BRA,RD,João
+315,3,09:07,35,38,BRA,TO,Lucas Mariano
+316,3,09:07,35,38,LSB,2_Pts_T,Lucas
+317,3,09:14,35,38,LSB,RD,Lucas
+318,3,09:17,35,38,BRA,2_Pts_T,João
+319,3,09:28,35,38,BRA,FR,Fulvio
+320,3,09:28,35,38,LSB,FC,Léo
+321,3,09:32,35,38,LSB,2_Pts_C,Ted
+322,3,09:51,35,36,BRA,LL_Pts_C,Lucas Mariano
+323,3,09:51,34,36,LSB,substituicao_entra,Alexandre
+324,3,09:51,34,36,LSB,substituicao_sai,Maique
+325,3,09:51,34,36,BRA,FR,Lucas Mariano
+326,3,09:51,34,36,LSB,FC,Maique
+327,3,09:51,34,36,BRA,2_Pts_C,Lucas Mariano
+328,3,10:00,32,36,,inicio_quarto,
+329,2,00:00,32,36,,fim_quarto,
+330,2,00:19,32,36,LSB,AS,Léo
+331,2,00:19,32,36,LSB,EN,Maique
+332,2,00:19,32,34,LSB,RO,Castellon
+333,2,00:20,32,34,LSB,2_Pts_T,Léo
+334,2,00:33,32,34,BRA,AS,João
+335,2,00:33,32,34,BRA,2_Pts_C,Deryk
+336,2,00:45,30,34,LSB,LL_Pts_C,Lucas
+337,2,00:45,30,33,LSB,LL_Pts_T,Lucas
+338,2,00:45,30,33,BRA,substituicao_entra,Deryk
+339,2,00:45,30,33,BRA,substituicao_sai,Jefferson
+340,2,00:45,30,33,LSB,tempo_tecnico,
+341,2,00:54,30,33,LSB,FR,Lucas
+342,2,00:54,30,33,BRA,FC,Jefferson
+343,2,00:55,30,33,LSB,RD,Maique
+344,2,00:59,30,33,BRA,2_Pts_T,Jefferson
+345,2,01:02,30,33,BRA,substituicao_entra,D Alemão
+346,2,01:02,30,33,BRA,substituicao_sai,Lucas Mariano
+347,2,01:13,30,33,LSB,LL_Pts_C,Maique
+348,2,01:13,30,32,LSB,LL_Pts_C,Maique
+349,2,01:13,30,31,LSB,FR,Maique
+350,2,01:13,30,31,BRA,FC,Pilar
+351,2,01:13,30,31,LSB,RO,Maique
+352,2,01:13,30,31,LSB,3_Pts_T,Castellon
+353,2,01:18,30,31,LSB,RO,Maique
+354,2,01:22,30,31,LSB,3_Pts_T,Castellon
+355,2,01:40,30,31,LSB,RD,Ted
+356,2,01:44,30,31,BRA,LL_Pts_T,Lucas Mariano
+357,2,01:44,30,31,BRA,LL_Pts_C,Lucas Mariano
+358,2,01:44,29,31,BRA,FR,Lucas Mariano
+359,2,01:44,29,31,LSB,FC,Ted
+360,2,01:57,29,31,BRA,LL_Pts_C,Lucas Mariano
+361,2,01:57,28,31,BRA,LL_Pts_C,Lucas Mariano
+362,2,01:57,27,31,BRA,FR,Lucas Mariano
+363,2,01:57,27,31,LSB,FC_A,Maique
+364,2,02:12,27,31,LSB,LL_Pts_C,Ted
+365,2,02:12,27,30,LSB,LL_Pts_C,Ted
+366,2,02:12,27,29,LSB,LL_Pts_C,Ted
+367,2,02:12,27,28,LSB,FR,Ted
+368,2,02:12,27,28,BRA,FC,João
+369,2,02:33,27,28,BRA,ER,Jefferson
+370,2,02:53,27,28,LSB,AS,Ted
+371,2,02:53,27,28,LSB,3_Pts_C,Castellon
+372,2,03:01,27,25,BRA,substituicao_entra,Pilar
+373,2,03:01,27,25,BRA,substituicao_sai,Alex
+374,2,03:01,27,25,LSB,FR,Lucas
+375,2,03:01,27,25,BRA,FC,Alex
+376,2,03:10,27,25,LSB,BR,Ted
+377,2,03:10,27,25,BRA,ER,Lucas Mariano
+378,2,03:30,27,25,LSB,2_Pts_C,Castellon
+379,2,03:57,27,23,BRA,AS,Alex
+380,2,03:57,27,23,BRA,3_Pts_C,João
+381,2,04:25,24,23,LSB,substituicao_entra,Ted
+382,2,04:25,24,23,LSB,substituicao_entra,Maique
+383,2,04:25,24,23,LSB,substituicao_entra,Castellon
+384,2,04:25,24,23,LSB,substituicao_entra,Léo
+385,2,04:25,24,23,LSB,substituicao_entra,Lucas
+386,2,04:25,24,23,BRA,substituicao_entra,Lucas Mariano
+387,2,04:25,24,23,BRA,substituicao_entra,Alex
+388,2,04:25,24,23,BRA,substituicao_entra,Jefferson
+389,2,04:25,24,23,BRA,substituicao_entra,João
+390,2,04:25,24,23,BRA,substituicao_entra,Fulvio
+391,2,04:25,24,23,LSB,substituicao_sai,Ted
+392,2,04:25,24,23,LSB,substituicao_sai,Maique
+393,2,04:25,24,23,LSB,substituicao_sai,Castellon
+394,2,04:25,24,23,LSB,substituicao_sai,Lucas
+395,2,04:25,24,23,LSB,substituicao_sai,Léo
+396,2,04:25,24,23,BRA,substituicao_sai,Lucas Mariano
+397,2,04:25,24,23,BRA,substituicao_sai,João
+398,2,04:25,24,23,BRA,substituicao_sai,Fulvio
+399,2,04:25,24,23,BRA,substituicao_sai,Alex
+400,2,04:25,24,23,BRA,substituicao_sai,Deryk
+401,2,04:25,24,23,BRA,tempo_tecnico,
+402,2,04:25,24,23,LSB,AS,Léo
+403,2,04:25,24,23,LSB,2_Pts_C,Ted
+404,2,04:29,24,21,LSB,BR,Léo
+405,2,04:29,24,21,BRA,ER,João
+406,2,04:40,24,21,BRA,RD,Deryk
+407,2,04:44,24,21,LSB,3_Pts_T,Ted
+408,2,05:06,24,21,BRA,substituicao_entra,João
+409,2,05:06,24,21,BRA,substituicao_sai,D Alemão
+410,2,05:06,24,21,BRA,ER,Lucas Mariano
+411,2,05:15,24,21,LSB,ER,Léo
+412,2,05:20,24,21,LSB,RD,Castellon
+413,2,05:25,24,21,BRA,2_Pts_T,D Alemão
+414,2,05:32,24,21,LSB,2_Pts_C,Léo
+415,2,05:40,24,19,LSB,BR,Léo
+416,2,05:40,24,19,BRA,ER,Fulvio
+417,2,05:46,24,19,BRA,RD,Lucas Mariano
+418,2,05:48,24,19,LSB,2_Pts_T,Castellon
+419,2,05:54,24,19,LSB,RO,Lucas
+420,2,05:58,24,19,LSB,3_Pts_T,Ted
+421,2,06:13,24,19,LSB,RD,Maique
+422,2,06:16,24,19,BRA,2_Pts_T,Lucas Mariano
+423,2,06:35,24,19,BRA,substituicao_entra,Alex
+424,2,06:35,24,19,BRA,substituicao_entra,D Alemão
+425,2,06:35,24,19,BRA,substituicao_entra,Lucas Mariano
+426,2,06:35,24,19,BRA,substituicao_entra,Fulvio
+427,2,06:35,24,19,BRA,substituicao_entra,Deryk
+428,2,06:35,24,19,LSB,substituicao_entra,Ted
+429,2,06:35,24,19,LSB,substituicao_entra,Maique
+430,2,06:35,24,19,LSB,substituicao_entra,Lucas
+431,2,06:35,24,19,LSB,substituicao_entra,Castellon
+432,2,06:35,24,19,LSB,substituicao_entra,Léo
+433,2,06:35,24,19,BRA,substituicao_sai,Lucas Mariano
+434,2,06:35,24,19,BRA,substituicao_sai,D Alemão
+435,2,06:35,24,19,BRA,substituicao_sai,Fulvio
+436,2,06:35,24,19,BRA,substituicao_sai,Alex
+437,2,06:35,24,19,BRA,substituicao_sai,Jefferson
+438,2,06:35,24,19,LSB,substituicao_sai,Ted
+439,2,06:35,24,19,LSB,substituicao_sai,Maique
+440,2,06:35,24,19,LSB,substituicao_sai,Castellon
+441,2,06:35,24,19,LSB,substituicao_sai,Lucas
+442,2,06:35,24,19,LSB,substituicao_sai,Léo
+443,2,06:35,24,19,BRA,tempo_tecnico,
+444,2,06:44,24,19,LSB,AS,Lucas
+445,2,06:44,24,19,LSB,3_Pts_C,Ted
+446,2,06:50,24,16,LSB,RD,Castellon
+447,2,06:57,24,16,BRA,2_Pts_T,Alex
+448,2,07:17,24,16,LSB,AS,Léo
+449,2,07:17,24,16,LSB,2_Pts_C,Maique
+450,2,07:30,24,14,BRA,substituicao_entra,Fulvio
+451,2,07:30,24,14,BRA,substituicao_sai,Pilar
+452,2,07:30,24,14,BRA,substituicao_entra,Lucas Mariano
+453,2,07:30,24,14,BRA,substituicao_sai,João
+454,2,07:30,24,14,BRA,ER,Pilar
+455,2,07:30,24,14,BRA,RO,Pilar
+456,2,07:31,24,14,LSB,TO,Castellon
+457,2,07:31,24,14,BRA,2_Pts_T,Pilar
+458,2,07:44,24,14,BRA,RD,Pilar
+459,2,07:46,24,14,LSB,2_Pts_T,Maique
+460,2,08:10,24,14,BRA,ER,
+461,2,08:16,24,14,LSB,substituicao_entra,Léo
+462,2,08:16,24,14,LSB,substituicao_sai,Cafferata
+463,2,08:16,24,14,BRA,substituicao_entra,D Alemão
+464,2,08:16,24,14,BRA,substituicao_sai,Deryk
+465,2,08:38,24,14,LSB,2_Pts_C,Cafferata
+466,2,09:00,24,12,BRA,2_Pts_C,Deryk
+467,2,09:07,22,12,BRA,RD,Jefferson
+468,2,09:10,22,12,LSB,2_Pts_T,Lucas
+469,2,09:28,22,12,LSB,substituicao_entra,Maique
+470,2,09:28,22,12,LSB,substituicao_sai,Lucão
+471,2,09:28,22,12,LSB,FR,Cafferata
+472,2,09:28,22,12,BRA,FC,Deryk
+473,2,09:28,22,12,LSB,RD,Cafferata
+474,2,09:29,22,12,BRA,2_Pts_T,Deryk
+475,2,09:55,22,12,LSB,2_Pts_C,Lucas
+476,2,10:00,22,10,,inicio_quarto,
+477,1,00:00,22,10,LSB,substituicao_sai,Cafferata
+478,1,00:00,22,10,LSB,substituicao_sai,Ted
+479,1,00:00,22,10,LSB,substituicao_sai,Felipe
+480,1,00:00,22,10,LSB,substituicao_sai,Lucas
+481,1,00:00,22,10,LSB,substituicao_sai,Léo
+482,1,00:00,22,10,,fim_quarto,
+483,1,00:11,22,10,BRA,2_Pts_C,Jefferson
+484,1,00:14,20,10,BRA,BR,Jefferson
+485,1,00:14,20,10,LSB,ER,Cafferata
+486,1,00:38,20,10,BRA,AS,Jefferson
+487,1,00:38,20,10,BRA,2_Pts_C,Pilar
+488,1,00:38,18,10,BRA,RD,Alex
+489,1,00:38,18,10,BRA,TO,João
+490,1,00:38,18,10,LSB,2_Pts_T,Cafferata
+491,1,00:51,18,10,BRA,LL_Pts_C,Deryk
+492,1,00:51,17,10,LSB,substituicao_entra,Lucas
+493,1,00:51,17,10,LSB,substituicao_sai,Leandro
+494,1,00:51,17,10,BRA,LL_Pts_C,Deryk
+495,1,00:51,16,10,BRA,FR,Deryk
+496,1,00:51,16,10,LSB,FC,Léo
+497,1,01:07,16,10,LSB,LL_Pts_C,Felipe
+498,1,01:07,16,9,LSB,LL_Pts_C,Felipe
+499,1,01:07,16,8,LSB,FR,Felipe
+500,1,01:07,16,8,BRA,FC,João
+501,1,01:07,16,8,LSB,substituicao_entra,Leandro
+502,1,01:07,16,8,LSB,substituicao_sai,Lucão
+503,1,01:07,16,8,BRA,substituicao_entra,Deryk
+504,1,01:07,16,8,BRA,substituicao_sai,D Alemão
+505,1,01:07,16,8,BRA,substituicao_entra,Pilar
+506,1,01:07,16,8,BRA,substituicao_sai,Fulvio
+507,1,01:07,16,8,LSB,substituicao_entra,Ted
+508,1,01:07,16,8,LSB,substituicao_sai,Castellon
+509,1,01:23,16,8,LSB,RO,Castellon
+510,1,01:36,16,8,LSB,3_Pts_T,Ted
+511,1,01:53,16,8,BRA,2_Pts_C,D Alemão
+512,1,01:56,14,8,BRA,RO,D Alemão
+513,1,01:59,14,8,BRA,2_Pts_T,Alex
+514,1,02:15,14,8,LSB,LL_Pts_C,Lucão
+515,1,02:15,14,7,LSB,LL_Pts_C,Lucão
+516,1,02:15,14,6,LSB,FR,Lucão
+517,1,02:15,14,6,BRA,FC,D Alemão
+518,1,02:15,14,6,LSB,RO,Léo
+519,1,02:16,14,6,BRA,TO,D Alemão
+520,1,02:16,14,6,LSB,2_Pts_T,Felipe
+521,1,02:26,14,6,BRA,substituicao_entra,João
+522,1,02:26,14,6,BRA,substituicao_sai,Pilar
+523,1,02:26,14,6,LSB,RO,L Sorocabana
+524,1,02:26,14,6,BRA,TO,D Alemão
+525,1,02:26,14,6,LSB,2_Pts_T,Léo
+526,1,02:29,14,6,LSB,RD,Felipe
+527,1,02:35,14,6,BRA,3_Pts_T,Jefferson
+528,1,02:40,14,6,BRA,substituicao_entra,Jefferson
+529,1,02:40,14,6,BRA,substituicao_sai,Deryk
+530,1,02:40,14,6,BRA,FR,Fulvio
+531,1,02:40,14,6,LSB,FC,Cafferata
+532,1,02:45,14,6,BRA,RD,D Alemão
+533,1,02:49,14,6,LSB,2_Pts_T,Cafferata
+534,1,02:54,14,6,LSB,substituicao_entra,Felipe
+535,1,02:54,14,6,LSB,substituicao_sai,Ted
+536,1,02:54,14,6,LSB,substituicao_entra,Cafferata
+537,1,02:54,14,6,LSB,substituicao_sai,Lucas
+538,1,02:54,14,6,LSB,FR,Castellon
+539,1,02:54,14,6,BRA,FC,Alex
+540,1,02:56,14,6,LSB,2_Pts_T,Castellon
+541,1,03:06,14,6,BRA,substituicao_entra,Alex
+542,1,03:06,14,6,BRA,substituicao_sai,João
+543,1,03:06,14,6,LSB,tempo_tecnico,
+544,1,03:15,14,6,BRA,AS,Fulvio
+545,1,03:15,14,6,BRA,EN,D Alemão
+546,1,03:26,12,6,BRA,RO,Fulvio
+547,1,03:30,12,6,BRA,3_Pts_T,Fulvio
+548,1,03:43,12,6,BRA,BR,Fulvio
+549,1,03:43,12,6,LSB,ER,Castellon
+550,1,03:47,12,6,LSB,RO,Ted
+551,1,03:52,12,6,LSB,2_Pts_T,Ted
+552,1,04:16,12,6,BRA,AS,Fulvio
+553,1,04:16,12,6,BRA,3_Pts_C,Deryk
+554,1,04:27,9,6,LSB,substituicao_entra,Léo
+555,1,04:27,9,6,LSB,substituicao_sai,Cafferata
+556,1,04:27,9,6,LSB,substituicao_entra,Lucão
+557,1,04:27,9,6,LSB,substituicao_sai,Alexandre
+558,1,04:27,9,6,BRA,FR,D Alemão
+559,1,04:27,9,6,LSB,ER,Alexandre
+560,1,04:27,9,6,LSB,FC_O,Alexandre
+561,1,04:42,9,6,BRA,AS,Deryk
+562,1,04:42,9,6,BRA,2_Pts_C,Pilar
+563,1,04:56,7,6,BRA,RD,João
+564,1,04:59,7,6,LSB,2_Pts_T,Alexandre
+565,1,05:25,7,6,BRA,AS,Deryk
+566,1,05:25,7,6,BRA,3_Pts_C,Fulvio
+567,1,05:29,4,6,BRA,FR,Fulvio
+568,1,05:29,4,6,LSB,FC,Castellon
+569,1,05:37,4,6,LSB,AS,Ted
+570,1,05:37,4,6,LSB,2_Pts_C,Lucas
+571,1,05:47,4,4,LSB,RD,Alexandre
+572,1,05:52,4,4,BRA,2_Pts_T,João
+573,1,06:06,4,4,BRA,RD,Fulvio
+574,1,06:09,4,4,LSB,2_Pts_T,Castellon
+575,1,06:20,4,4,LSB,FR,Cafferata
+576,1,06:20,4,4,BRA,FC,Deryk
+577,1,06:24,4,4,LSB,RD,Ted
+578,1,06:28,4,4,BRA,3_Pts_T,Deryk
+579,1,06:46,4,4,LSB,AS,Cafferata
+580,1,06:46,4,4,LSB,LL_Pts_C,Alexandre
+581,1,06:46,4,3,LSB,LL_Pts_T,Alexandre
+582,1,06:46,4,3,BRA,substituicao_entra,D Alemão
+583,1,06:46,4,3,BRA,substituicao_sai,Lucas Mariano
+584,1,06:46,4,3,LSB,FR,Alexandre
+585,1,06:46,4,3,BRA,FC,Lucas Mariano
+586,1,06:48,4,3,LSB,RO,L Sorocabana
+587,1,06:48,4,3,BRA,TO,Lucas Mariano
+588,1,06:48,4,3,LSB,2_Pts_T,Ted
+589,1,07:10,4,3,BRA,,
+590,1,07:23,4,3,LSB,ER,
+591,1,07:36,4,3,LSB,FR,Alexandre
+592,1,07:36,4,3,BRA,FC,Lucas Mariano
+593,1,07:38,4,3,LSB,3_Pts_T,Castellon
+594,1,07:52,4,3,BRA,ER,
+595,1,08:21,4,3,LSB,AS,Cafferata
+596,1,08:21,4,3,LSB,3_Pts_C,Ted
+597,1,08:41,4,0,BRA,2_Pts_C,Lucas Mariano
+598,1,08:50,2,0,BRA,RD,Lucas Mariano
+599,1,08:55,2,0,LSB,2_Pts_T,Cafferata
+600,1,09:09,2,0,LSB,RD,L Sorocabana
+601,1,09:12,2,0,BRA,2_Pts_T,Deryk
+602,1,09:14,2,0,LSB,substituicao_entra,Ted
+603,1,09:14,2,0,LSB,substituicao_sai,Maique
+604,1,09:14,2,0,BRA,FR,Lucas Mariano
+605,1,09:14,2,0,LSB,FC,Alexandre
+606,1,09:30,2,0,LSB,ER,Maique
+607,1,09:50,2,0,BRA,2_Pts_C,João
+608,1,10:00,0,0,LSB,substituicao_entra,Alexandre
+609,1,10:00,0,0,LSB,substituicao_entra,Maique
+610,1,10:00,0,0,LSB,substituicao_entra,Castellon
+611,1,10:00,0,0,LSB,substituicao_entra,Lucas
+612,1,10:00,0,0,LSB,substituicao_entra,Cafferata
+613,1,10:00,0,0,BRA,substituicao_entra,Lucas Mariano
+614,1,10:00,0,0,BRA,substituicao_entra,João
+615,1,10:00,0,0,BRA,substituicao_entra,Fulvio
+616,1,10:00,0,0,BRA,substituicao_entra,Deryk
+617,1,10:00,0,0,BRA,substituicao_entra,Pilar

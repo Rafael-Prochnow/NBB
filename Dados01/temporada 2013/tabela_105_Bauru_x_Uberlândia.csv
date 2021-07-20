@@ -1,0 +1,484 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,74,76, ,fim_partida,
+1,4,00:03,74,76,BAU,substituicao_entra,F Fischer
+2,4,00:03,74,76,BAU,substituicao_sai,Gui Deodato
+3,4,00:03,74,76,BAU,substituicao_entra,Tischer
+4,4,00:03,74,76,BAU,substituicao_sai,Murilo
+5,4,00:03,74,76,UBE,substituicao_entra,Léo Waszkiewicz
+6,4,00:03,74,76,UBE,substituicao_sai,McCants
+7,4,00:03,74,76,BAU,tempo_tecnico,Bauru
+8,4,00:03,74,76,UBE,2_Pts_C,Cipolini
+9,4,00:25,74,74,UBE,substituicao_entra,McCants
+10,4,00:25,74,74,UBE,substituicao_sai,Léo Waszkiewicz
+11,4,00:25,74,74,BAU,substituicao_entra,Gui Deodato
+12,4,00:25,74,74,BAU,substituicao_sai,F Fischer
+13,4,00:27,74,74,UBE,tempo_tecnico,Uberlândia
+14,4,00:27,74,74,BAU,3_Pts_C,Larry
+15,4,00:35,71,74,UBE,2_Pts_C,Audrei
+16,4,00:35,71,72,UBE,AS,Valtinho
+17,4,00:37,71,72,UBE,substituicao_entra,Léo Waszkiewicz
+18,4,00:37,71,72,UBE,substituicao_sai,McCants
+19,4,00:40,71,72,UBE,BR,Robert Day
+20,4,00:40,71,72,BAU,ER,Murilo
+21,4,00:58,71,72,BAU,BR,R Fischer
+22,4,00:58,71,72,UBE,ER,Valtinho
+23,4,01:13,71,72,UBE,RD,McCants
+24,4,01:13,71,72,BAU,3_Pts_T,Barrios
+25,4,01:26,71,72,BAU,substituicao_entra,F Fischer
+26,4,01:26,71,72,BAU,substituicao_sai,Tischer
+27,4,01:26,71,72,UBE,substituicao_entra,Robert Day
+28,4,01:26,71,72,UBE,substituicao_sai,Léo Waszkiewicz
+29,4,01:32,71,72,BAU,tempo_tecnico,Bauru
+30,4,01:32,71,72,UBE,RD,McCants
+31,4,01:32,71,72,BAU,2_Pts_T,Murilo
+32,4,01:35,71,72,BAU,RO,Murilo
+33,4,01:35,71,72,BAU,2_Pts_T,R Fischer
+34,4,02:05,71,72,UBE,3_Pts_C,Audrei
+35,4,02:05,71,69,UBE,AS,Valtinho
+36,4,02:20,71,69,UBE,RO,Uberlândia
+37,4,02:20,71,69,BAU,TO,Tischer
+38,4,02:20,71,69,UBE,2_Pts_T,Léo Waszkiewicz
+39,4,02:31,71,69,BAU,2_Pts_C,R Fischer
+40,4,02:55,69,69,UBE,LL_Pts_C,Valtinho
+41,4,02:55,69,68,UBE,LL_Pts_C,Valtinho
+42,4,02:55,69,67,UBE,FR,Valtinho
+43,4,02:55,69,67,BAU,FC,Tischer
+44,4,03:02,69,67,UBE,RO,Valtinho
+45,4,03:02,69,67,UBE,3_Pts_T,Audrei
+46,4,03:21,69,67,BAU,2_Pts_C,R Fischer
+47,4,03:41,67,67,UBE,LL_Pts_C,McCants
+48,4,03:41,67,66,UBE,LL_Pts_T,McCants
+49,4,03:41,67,66,UBE,FR,McCants
+50,4,03:41,67,66,BAU,FC,Tischer
+51,4,03:54,67,66,BAU,LL_Pts_C,Larry
+52,4,03:54,66,66,BAU,LL_Pts_C,Larry
+53,4,03:54,65,66,BAU,FR,Larry
+54,4,03:54,65,66,UBE,FC,McCants
+55,4,03:59,65,66,BAU,BR,Larry
+56,4,03:59,65,66,UBE,ER,Léo Waszkiewicz
+57,4,04:29,65,66,UBE,BR,Uberlândia
+58,4,04:29,65,66,BAU,ER,Tischer
+59,4,04:49,65,66,BAU,RD,Murilo
+60,4,04:49,65,66,UBE,LL_Pts_T,Valtinho
+61,4,04:49,65,66,UBE,LL_Pts_T,Valtinho
+62,4,04:49,65,66,BAU,substituicao_entra,Murilo
+63,4,04:49,65,66,BAU,substituicao_sai,F Fischer
+64,4,04:49,65,66,UBE,FR,Valtinho
+65,4,04:49,65,66,BAU,FC,R Fischer
+66,4,04:51,65,66,UBE,RD,Valtinho
+67,4,04:51,65,66,BAU,2_Pts_T,Larry
+68,4,05:04,65,66,UBE,2_Pts_C,Audrei
+69,4,05:16,65,64,UBE,FR,Léo Waszkiewicz
+70,4,05:16,65,64,BAU,FC,Tischer
+71,4,05:16,65,64,UBE,RO,Léo Waszkiewicz
+72,4,05:16,65,64,UBE,3_Pts_T,Valtinho
+73,4,05:33,65,64,UBE,substituicao_entra,McCants
+74,4,05:33,65,64,UBE,substituicao_sai,Robert Day
+75,4,05:33,65,64,UBE,FR,Valtinho
+76,4,05:33,65,64,BAU,FC,Larry
+77,4,05:39,65,64,UBE,BR,Robert Day
+78,4,05:39,65,64,BAU,ER,Barrios
+79,4,06:04,65,64,UBE,EN,Léo Waszkiewicz
+80,4,06:04,65,62,UBE,AS,Valtinho
+81,4,06:26,65,62,BAU,LL_Pts_C,F Fischer
+82,4,06:26,64,62,BAU,LL_Pts_C,F Fischer
+83,4,06:26,63,62,UBE,substituicao_entra,Cipolini
+84,4,06:26,63,62,UBE,substituicao_sai,McCants
+85,4,06:26,63,62,BAU,substituicao_entra,Tischer
+86,4,06:26,63,62,BAU,substituicao_sai,Murilo
+87,4,06:26,63,62,BAU,FR,F Fischer
+88,4,06:26,63,62,UBE,FC,Robert Day
+89,4,06:44,63,62,BAU,substituicao_entra,R Fischer
+90,4,06:44,63,62,BAU,substituicao_sai,Gui Deodato
+91,4,06:44,63,62,BAU,FR,Murilo
+92,4,06:44,63,62,UBE,FC,McCants
+93,4,07:00,63,62,UBE,ER,
+94,4,07:23,63,62,UBE,substituicao_entra,Léo Waszkiewicz
+95,4,07:23,63,62,UBE,substituicao_sai,Cipolini
+96,4,07:24,63,62,UBE,RD,Uberlândia
+97,4,07:24,63,62,BAU,3_Pts_T,F Fischer
+98,4,07:29,63,62,BAU,BR,F Fischer
+99,4,07:29,63,62,UBE,ER,Audrei
+100,4,07:31,63,62,UBE,BR,Cipolini
+101,4,07:31,63,62,BAU,ER,Murilo
+102,4,07:38,63,62,BAU,RO,Murilo
+103,4,07:38,63,62,BAU,3_Pts_T,Larry
+104,4,07:57,63,62,BAU,2_Pts_C,F Fischer
+105,4,07:57,61,62,BAU,AS,Larry
+106,4,08:18,61,62,UBE,2_Pts_C,Audrei
+107,4,08:18,61,60,UBE,AS,Robert Day
+108,4,08:39,61,60,UBE,FR,Valtinho
+109,4,08:39,61,60,BAU,FC,F Fischer
+110,4,08:46,61,60,UBE,BR,McCants
+111,4,08:46,61,60,BAU,ER,Murilo
+112,4,08:49,61,60,BAU,BR,Murilo
+113,4,08:49,61,60,UBE,ER,McCants
+114,4,09:11,61,60,BAU,2_Pts_C,Barrios
+115,4,09:15,59,60,BAU,BR,Barrios
+116,4,09:15,59,60,UBE,ER,McCants
+117,4,09:25,59,60,UBE,RD,McCants
+118,4,09:25,59,60,BAU,2_Pts_T,Murilo
+119,4,09:36,59,60,UBE,LL_Pts_C,Cipolini
+120,4,09:36,59,59,UBE,LL_Pts_C,Cipolini
+121,4,09:38,59,58,UBE,FR,Cipolini
+122,4,09:38,59,58,BAU,FC,Murilo
+123,4,09:54,59,58,BAU,2_Pts_C,Murilo
+124,4,09:54,57,58,BAU,AS,Barrios
+125,4,10:00,57,58,BAU,substituicao_entra,Murilo
+126,4,10:00,57,58,BAU,substituicao_entra,F Fischer
+127,4,10:00,57,58,BAU,substituicao_entra,Barrios
+128,4,10:00,57,58,BAU,substituicao_entra,Gui Deodato
+129,4,10:00,57,58,BAU,substituicao_entra,Larry
+130,4,10:00,57,58,UBE,substituicao_entra,McCants
+131,4,10:00,57,58,UBE,substituicao_entra,Robert Day
+132,4,10:00,57,58,UBE,substituicao_entra,Audrei
+133,4,10:00,57,58,UBE,substituicao_entra,Cipolini
+134,4,10:00,57,58,UBE,substituicao_entra,Valtinho
+135,3,00:00,57,58, ,fim_quarto,
+136,3,00:03,57,58,UBE,3_Pts_T,Audrei
+137,3,00:03,57,58,UBE,substituicao_entra,Robert Day
+138,3,00:03,57,58,UBE,substituicao_sai,Léo Waszkiewicz
+139,3,00:21,57,58,UBE,RD,Helinho
+140,3,00:21,57,58,BAU,3_Pts_T,F Fischer
+141,3,00:24,57,58,UBE,LL_Pts_C,Léo Waszkiewicz
+142,3,00:30,57,57,UBE,LL_Pts_C,Léo Waszkiewicz
+143,3,00:33,57,56,BAU,substituicao_entra,Larry
+144,3,00:33,57,56,BAU,substituicao_sai,R Fischer
+145,3,00:33,57,56,UBE,FR,Léo Waszkiewicz
+146,3,00:33,57,56,BAU,FC,R Fischer
+147,3,00:33,57,56,UBE,RO,Léo Waszkiewicz
+148,3,00:33,57,56,UBE,2_Pts_T,Audrei
+149,3,00:37,57,56,UBE,RO,Léo Waszkiewicz
+150,3,00:37,57,56,UBE,3_Pts_T,McCants
+151,3,00:52,57,56,UBE,RD,Léo Waszkiewicz
+152,3,00:52,57,56,BAU,3_Pts_T,R Fischer
+153,3,01:01,57,56,BAU,RD,Barrios
+154,3,01:01,57,56,UBE,2_Pts_T,Léo Waszkiewicz
+155,3,01:16,57,56,BAU,2_Pts_C,R Fischer
+156,3,01:43,55,56,UBE,3_Pts_C,Audrei
+157,3,01:43,55,53,UBE,AS,Helinho
+158,3,02:01,55,53,BAU,LL_Pts_C,Murilo
+159,3,02:01,54,53,BAU,LL_Pts_C,Murilo
+160,3,02:01,53,53,BAU,FR,Murilo
+161,3,02:01,53,53,UBE,FC,Robert Day
+162,3,02:01,53,53,UBE,substituicao_entra,Audrei
+163,3,02:01,53,53,UBE,substituicao_sai,Robert Day
+164,3,02:26,53,53,UBE,substituicao_entra,Léo Waszkiewicz
+165,3,02:26,53,53,UBE,substituicao_sai,Luis Gruber
+166,3,02:26,53,53,UBE,substituicao_entra,Helinho
+167,3,02:26,53,53,UBE,substituicao_sai,Valtinho
+168,3,02:26,53,53,UBE,ER,Luis Gruber
+169,3,02:40,53,53,BAU,2_Pts_C,Murilo
+170,3,02:50,51,53,BAU,substituicao_entra,Gui Deodato
+171,3,02:50,51,53,BAU,substituicao_sai,Tischer
+172,3,02:50,51,53,BAU,substituicao_entra,F Fischer
+173,3,02:50,51,53,BAU,substituicao_sai,Larry
+174,3,02:50,51,53,BAU,BR,Bauru
+175,3,02:50,51,53,UBE,ER,Robert Day
+176,3,02:54,51,53,UBE,RO,Robert Day
+177,3,02:54,51,53,UBE,2_Pts_T,McCants
+178,3,03:15,51,53,BAU,2_Pts_C,R Fischer
+179,3,03:15,49,53,BAU,AS,Larry
+180,3,03:22,49,53,BAU,RD,Larry
+181,3,03:22,49,53,UBE,3_Pts_T,Cipolini
+182,3,03:38,49,53,UBE,BR,Uberlândia
+183,3,03:38,49,53,BAU,ER,Larry
+184,3,03:47,49,53,UBE,3_Pts_C,McCants
+185,3,03:47,49,50,UBE,AS,Luis Gruber
+186,3,03:54,49,50,UBE,RD,Luis Gruber
+187,3,03:54,49,50,BAU,2_Pts_T,Tischer
+188,3,04:10,49,50,BAU,FR,Tischer
+189,3,04:10,49,50,UBE,FC_O,Cipolini
+190,3,04:28,49,50,BAU,ER,
+191,3,04:51,49,50,UBE,AS,Luis Gruber
+192,3,04:55,49,50,UBE,2_Pts_C,Cipolini
+193,3,05:09,49,48,UBE,FR,Robert Day
+194,3,05:09,49,48,BAU,FC,Barrios
+195,3,05:13,49,48,UBE,BR,Robert Day
+196,3,05:13,49,48,BAU,ER,Larry
+197,3,05:22,49,48,BAU,BR,Tischer
+198,3,05:22,49,48,UBE,ER,Valtinho
+199,3,05:37,49,48,BAU,LL_Pts_C,R Fischer
+200,3,05:37,48,48,BAU,LL_Pts_C,R Fischer
+201,3,05:37,47,48,BAU,FR,R Fischer
+202,3,05:37,47,48,UBE,FC,McCants
+203,3,05:43,47,48,BAU,RD,Murilo
+204,3,05:43,47,48,UBE,3_Pts_T,Valtinho
+205,3,05:51,47,48,UBE,BR,Robert Day
+206,3,05:51,47,48,BAU,ER,Tischer
+207,3,06:13,47,48,UBE,LL_Pts_C,Valtinho
+208,3,06:13,47,47,UBE,LL_Pts_C,Valtinho
+209,3,06:13,47,46,UBE,FR,Valtinho
+210,3,06:13,47,46,BAU,FC,R Fischer
+211,3,06:22,47,46,BAU,2_Pts_C,Larry
+212,3,06:30,45,46,UBE,substituicao_entra,Luis Gruber
+213,3,06:30,45,46,UBE,substituicao_sai,Léo Waszkiewicz
+214,3,06:34,45,46,BAU,FR,R Fischer
+215,3,06:34,45,46,UBE,FC,Léo Waszkiewicz
+216,3,06:44,45,46,BAU,FR,Barrios
+217,3,06:44,45,46,UBE,FC,McCants
+218,3,06:51,45,46,UBE,ER,
+219,3,07:18,45,46,UBE,AS,Valtinho
+220,3,07:22,45,46,BAU,3_Pts_C,Barrios
+221,3,07:22,42,46,BAU,AS,R Fischer
+222,3,07:33,42,46,UBE,3_Pts_C,McCants
+223,3,07:42,42,43,BAU,3_Pts_C,Barrios
+224,3,07:42,39,43,BAU,AS,Larry
+225,3,07:53,39,43,BAU,RD,R Fischer
+226,3,07:53,39,43,UBE,3_Pts_T,Robert Day
+227,3,08:10,39,43,UBE,RD,Uberlândia
+228,3,08:10,39,43,BAU,3_Pts_T,Murilo
+229,3,08:35,39,43,UBE,EN,Cipolini
+230,3,08:35,39,41,UBE,AS,Robert Day
+231,3,09:02,39,41,UBE,RO,Valtinho
+232,3,09:02,39,41,UBE,2_Pts_T,Léo Waszkiewicz
+233,3,09:27,39,41,UBE,RD,Léo Waszkiewicz
+234,3,09:27,39,41,BAU,2_Pts_T,R Fischer
+235,3,09:30,39,41,BAU,RO,Bauru
+236,3,09:30,39,41,UBE,TO,Léo Waszkiewicz
+237,3,09:30,39,41,BAU,2_Pts_T,Larry
+238,3,09:44,39,41,BAU,RD,Tischer
+239,3,09:44,39,41,UBE,2_Pts_T,Cipolini
+240,3,10:00,39,41,UBE,substituicao_entra,McCants
+241,3,10:00,39,41,UBE,substituicao_entra,Robert Day
+242,3,10:00,39,41,UBE,substituicao_entra,Léo Waszkiewicz
+243,3,10:00,39,41,UBE,substituicao_entra,Cipolini
+244,3,10:00,39,41,UBE,substituicao_entra,Valtinho
+245,3,10:00,39,41,BAU,substituicao_entra,Tischer
+246,3,10:00,39,41,BAU,substituicao_entra,Murilo
+247,3,10:00,39,41,BAU,substituicao_entra,Barrios
+248,3,10:00,39,41,BAU,substituicao_entra,R Fischer
+249,3,10:00,39,41,BAU,substituicao_entra,Larry
+250,2,00:00,39,41, ,fim_quarto,
+251,2,00:03,39,41,UBE,BR,Uberlândia
+252,2,00:03,39,41,BAU,ER,R Fischer
+253,2,00:14,39,41,UBE,3_Pts_C,Robert Day
+254,2,00:14,39,38,UBE,AS,Valtinho
+255,2,00:24,39,38,BAU,substituicao_entra,Ayarza
+256,2,00:24,39,38,BAU,substituicao_sai,Murilo
+257,2,00:24,39,38,UBE,FR,Luis Gruber
+258,2,00:24,39,38,BAU,FC,Murilo
+259,2,00:31,39,38,UBE,FR,Valtinho
+260,2,00:31,39,38,BAU,FC,F Fischer
+261,2,00:40,39,38,BAU,3_Pts_C,Murilo
+262,2,00:40,36,38,BAU,AS,R Fischer
+263,2,00:53,36,38,BAU,substituicao_entra,Barrios
+264,2,00:53,36,38,BAU,substituicao_sai,Larry
+265,2,01:00,36,38,BAU,RO,R Fischer
+266,2,01:00,36,38,BAU,2_Pts_T,Tischer
+267,2,01:06,36,38,BAU,RO,R Fischer
+268,2,01:06,36,38,BAU,2_Pts_T,R Fischer
+269,2,01:23,36,38,BAU,substituicao_entra,F Fischer
+270,2,01:23,36,38,BAU,substituicao_sai,Gui Deodato
+271,2,01:23,36,38,BAU,FR,Tischer
+272,2,01:23,36,38,UBE,FC_O,Kurtz
+273,2,01:29,36,38,UBE,RD,Luis Gruber
+274,2,01:29,36,38,BAU,2_Pts_T,Tischer
+275,2,01:47,36,38,BAU,BR,Larry
+276,2,01:47,36,38,UBE,ER,Robert Day
+277,2,01:52,36,38,UBE,BR,Luis Gruber
+278,2,01:52,36,38,BAU,ER,Larry
+279,2,01:56,36,38,BAU,RO,Larry
+280,2,01:56,36,38,BAU,2_Pts_T,Gui Deodato
+281,2,02:15,36,38,BAU,RD,Murilo
+282,2,02:15,36,38,UBE,2_Pts_T,Luis Gruber
+283,2,02:33,36,38,UBE,substituicao_entra,Luis Gruber
+284,2,02:33,36,38,UBE,substituicao_sai,Cipolini
+285,2,02:37,36,38,UBE,tempo_tecnico,Uberlândia
+286,2,02:37,36,38,BAU,3_Pts_C,R Fischer
+287,2,02:37,33,38,BAU,AS,Larry
+288,2,03:04,33,38,BAU,FR,R Fischer
+289,2,03:04,33,38,UBE,FC,Valtinho
+290,2,03:04,33,38,BAU,BR,R Fischer
+291,2,03:04,33,38,UBE,ER,Cipolini
+292,2,03:18,33,38,BAU,3_Pts_C,Murilo
+293,2,03:18,30,38,BAU,AS,Larry
+294,2,03:28,30,38,BAU,substituicao_entra,R Fischer
+295,2,03:28,30,38,BAU,substituicao_sai,F Fischer
+296,2,03:28,30,38,UBE,substituicao_entra,Robert Day
+297,2,03:28,30,38,UBE,substituicao_sai,McCants
+298,2,03:28,30,38,UBE,ER,Cipolini
+299,2,03:45,30,38,BAU,3_Pts_C,Murilo
+300,2,03:45,27,38,BAU,AS,Larry
+301,2,03:58,27,38,BAU,RO,Tischer
+302,2,03:58,27,38,BAU,2_Pts_T,Murilo
+303,2,04:01,27,38,BAU,RO,Murilo
+304,2,04:01,27,38,BAU,2_Pts_T,Murilo
+305,2,04:16,27,38,UBE,substituicao_entra,Valtinho
+306,2,04:16,27,38,UBE,substituicao_sai,Helinho
+307,2,04:16,27,38,BAU,substituicao_entra,Gui Deodato
+308,2,04:16,27,38,BAU,substituicao_sai,Ayarza
+309,2,04:16,27,38,BAU,substituicao_entra,Murilo
+310,2,04:16,27,38,BAU,substituicao_sai,Barrios
+311,2,04:16,27,38,UBE,substituicao_entra,Kurtz
+312,2,04:16,27,38,UBE,substituicao_sai,Léo Waszkiewicz
+313,2,04:16,27,38,BAU,FR,Larry
+314,2,04:16,27,38,UBE,FC,Helinho
+315,2,04:21,27,38,BAU,RD,Tischer
+316,2,04:21,27,38,UBE,2_Pts_T,McCants
+317,2,04:37,27,38,UBE,RD,McCants
+318,2,04:37,27,38,BAU,3_Pts_T,F Fischer
+319,2,04:58,27,38,UBE,2_Pts_C,Audrei
+320,2,05:06,27,36,UBE,RO,Cipolini
+321,2,05:06,27,36,UBE,3_Pts_T,McCants
+322,2,05:21,27,36,UBE,RD,McCants
+323,2,05:21,27,36,BAU,2_Pts_T,Tischer
+324,2,05:37,27,36,UBE,3_Pts_C,McCants
+325,2,06:00,27,33,UBE,substituicao_entra,Audrei
+326,2,06:00,27,33,UBE,substituicao_sai,Robert Day
+327,2,06:00,27,33,BAU,LL_Pts_C,Tischer
+328,2,06:00,26,33,BAU,LL_Pts_C,Tischer
+329,2,06:03,25,33,BAU,FR,Tischer
+330,2,06:03,25,33,UBE,FC,Léo Waszkiewicz
+331,2,06:06,25,33,UBE,substituicao_entra,Helinho
+332,2,06:06,25,33,UBE,substituicao_sai,Valtinho
+333,2,06:08,25,33,BAU,tempo_tecnico,Bauru
+334,2,06:08,25,33,UBE,3_Pts_C,Cipolini
+335,2,06:08,25,30,UBE,AS,Valtinho
+336,2,06:20,25,30,UBE,RD,McCants
+337,2,06:20,25,30,BAU,2_Pts_T,Tischer
+338,2,06:33,25,30,BAU,substituicao_entra,Larry
+339,2,06:33,25,30,BAU,substituicao_sai,R Fischer
+340,2,06:33,25,30,BAU,substituicao_entra,Tischer
+341,2,06:33,25,30,BAU,substituicao_sai,Murilo
+342,2,06:33,25,30,BAU,BR,Bauru
+343,2,06:33,25,30,UBE,ER,Léo Waszkiewicz
+344,2,06:34,25,30,UBE,RO,Léo Waszkiewicz
+345,2,06:34,25,30,UBE,2_Pts_T,Cipolini
+346,2,06:38,25,30,UBE,RO,Cipolini
+347,2,06:38,25,30,UBE,3_Pts_T,Robert Day
+348,2,07:09,25,30,BAU,3_Pts_C,F Fischer
+349,2,07:09,22,30,BAU,AS,Ayarza
+350,2,07:16,22,30,BAU,RD,R Fischer
+351,2,07:16,22,30,BAU,TO,Barrios
+352,2,07:16,22,30,UBE,2_Pts_T,Valtinho
+353,2,07:24,22,30,UBE,RD,Robert Day
+354,2,07:24,22,30,BAU,3_Pts_T,Barrios
+355,2,07:49,22,30,UBE,3_Pts_C,Valtinho
+356,2,07:49,22,27,UBE,AS,Léo Waszkiewicz
+357,2,08:09,22,27,BAU,3_Pts_C,Murilo
+358,2,08:09,19,27,BAU,AS,R Fischer
+359,2,08:20,19,27,UBE,2_Pts_C,Robert Day
+360,2,08:43,19,25,UBE,RD,Cipolini
+361,2,08:43,19,25,BAU,3_Pts_T,R Fischer
+362,2,09:10,19,25,UBE,3_Pts_C,McCants
+363,2,09:10,19,22,UBE,AS,Cipolini
+364,2,09:33,19,22,BAU,3_Pts_C,F Fischer
+365,2,09:33,16,22,BAU,AS,R Fischer
+366,2,09:38,16,22,BAU,RO,F Fischer
+367,2,09:38,16,22,BAU,2_Pts_T,Ayarza
+368,2,09:43,16,22,BAU,RO,Ayarza
+369,2,09:43,16,22,BAU,2_Pts_T,Murilo
+370,2,10:00,16,22,BAU,substituicao_entra,F Fischer
+371,2,10:00,16,22,UBE,substituicao_entra,McCants
+372,2,10:00,16,22,UBE,substituicao_entra,Robert Day
+373,2,10:00,16,22,UBE,substituicao_entra,Léo Waszkiewicz
+374,2,10:00,16,22,UBE,substituicao_entra,Cipolini
+375,2,10:00,16,22,UBE,substituicao_entra,Valtinho
+376,2,10:00,16,22,BAU,substituicao_entra,Tischer
+377,2,10:00,16,22,BAU,substituicao_entra,Murilo
+378,2,10:00,16,22,BAU,substituicao_entra,Barrios
+379,2,10:00,16,22,BAU,substituicao_entra,Ayarza
+380,2,10:00,16,22,BAU,substituicao_entra,R Fischer
+381,1,00:00,16,22, ,fim_quarto,
+382,1,00:01,16,22,UBE,RO,Robert Day
+383,1,00:01,16,22,UBE,3_Pts_T,Valtinho
+384,1,00:10,16,22,UBE,RD,McCants
+385,1,00:10,16,22,BAU,LL_Pts_T,Ayarza
+386,1,00:10,16,22,BAU,LL_Pts_C,Ayarza
+387,1,00:10,15,22,BAU,substituicao_entra,Gui Deodato
+388,1,00:10,15,22,BAU,substituicao_sai,R Fischer
+389,1,00:11,15,22,BAU,FR,Ayarza
+390,1,00:11,15,22,UBE,FC,Robert Day
+391,1,00:14,15,22,BAU,RO,Bauru
+392,1,00:14,15,22,UBE,TO,Léo Waszkiewicz
+393,1,00:14,15,22,BAU,2_Pts_T,Murilo
+394,1,00:36,15,22,UBE,EN,Léo Waszkiewicz
+395,1,00:36,15,20,UBE,AS,Valtinho
+396,1,00:51,15,20,UBE,RD,Cipolini
+397,1,00:51,15,20,BAU,2_Pts_T,Larry
+398,1,00:59,15,20,BAU,RO,Ayarza
+399,1,00:59,15,20,BAU,3_Pts_T,Larry
+400,1,01:12,15,20,BAU,substituicao_entra,Ayarza
+401,1,01:12,15,20,BAU,substituicao_sai,Gui Deodato
+402,1,01:12,15,20,BAU,FR,Murilo
+403,1,01:12,15,20,UBE,FC,Léo Waszkiewicz
+404,1,01:13,15,20,BAU,RD,Murilo
+405,1,01:13,15,20,UBE,2_Pts_T,Léo Waszkiewicz
+406,1,01:24,15,20,UBE,RO,Robert Day
+407,1,01:24,15,20,UBE,2_Pts_T,McCants
+408,1,02:04,15,20,UBE,BR,Uberlândia
+409,1,02:04,15,20,BAU,ER,Gui Deodato
+410,1,02:05,15,20,UBE,substituicao_entra,McCants
+411,1,02:05,15,20,UBE,substituicao_sai,Audrei
+412,1,02:05,15,20,BAU,substituicao_entra,Barrios
+413,1,02:05,15,20,BAU,substituicao_sai,Tischer
+414,1,02:05,15,20,UBE,substituicao_entra,Léo Waszkiewicz
+415,1,02:05,15,20,UBE,substituicao_sai,Luis Gruber
+416,1,02:05,15,20,BAU,FR,R Fischer
+417,1,02:05,15,20,UBE,FC,Luis Gruber
+418,1,02:08,15,20,UBE,2_Pts_C,Luis Gruber
+419,1,02:35,15,18,BAU,2_Pts_C,Gui Deodato
+420,1,03:00,13,18,UBE,2_Pts_C,Valtinho
+421,1,03:04,13,16,UBE,BR,Robert Day
+422,1,03:04,13,16,BAU,ER,Larry
+423,1,03:18,13,16,UBE,2_Pts_C,Cipolini
+424,1,03:30,13,14,BAU,2_Pts_C,Murilo
+425,1,03:30,11,14,BAU,AS,R Fischer
+426,1,03:40,11,14,UBE,2_Pts_C,Cipolini
+427,1,03:55,11,12,BAU,,
+428,1,04:15,11,12,BAU,BR,Gui Deodato
+429,1,04:15,11,12,UBE,ER,Robert Day
+430,1,04:20,11,12,UBE,RD,Valtinho
+431,1,04:20,11,12,BAU,2_Pts_T,Murilo
+432,1,04:46,11,12,UBE,LL_Pts_C,Cipolini
+433,1,04:46,11,11,UBE,2_Pts_C,Cipolini
+434,1,04:46,11,9,UBE,FR,Cipolini
+435,1,04:46,11,9,BAU,FC,Tischer
+436,1,05:00,11,9,UBE,RD,Uberlândia
+437,1,05:00,11,9,BAU,3_Pts_T,Gui Deodato
+438,1,05:17,11,9,UBE,2_Pts_C,Audrei
+439,1,05:45,11,7,BAU,2_Pts_C,Murilo
+440,1,05:45,9,7,BAU,AS,R Fischer
+441,1,06:13,9,7,UBE,2_Pts_C,Cipolini
+442,1,06:25,9,5,UBE,BR,Uberlândia
+443,1,06:25,9,5,BAU,ER,Tischer
+444,1,06:36,9,5,BAU,RD,Murilo
+445,1,06:36,9,5,UBE,3_Pts_T,Luis Gruber
+446,1,06:56,9,5,BAU,LL_Pts_C,Tischer
+447,1,06:56,8,5,BAU,LL_Pts_C,Tischer
+448,1,06:56,7,5,BAU,FR,Tischer
+449,1,06:56,7,5,UBE,FC,Luis Gruber
+450,1,07:04,7,5,BAU,RD,Murilo
+451,1,07:04,7,5,UBE,3_Pts_T,Robert Day
+452,1,07:20,7,5,BAU,2_Pts_C,Tischer
+453,1,07:20,5,5,BAU,AS,R Fischer
+454,1,07:43,5,5,UBE,2_Pts_C,Valtinho
+455,1,07:57,5,3,UBE,RD,Audrei
+456,1,07:57,5,3,BAU,2_Pts_T,Larry
+457,1,08:09,5,3,BAU,RO,Bauru
+458,1,08:09,5,3,BAU,2_Pts_T,Tischer
+459,1,08:13,5,3,BAU,RO,Tischer
+460,1,08:13,5,3,BAU,2_Pts_T,Murilo
+461,1,08:28,5,3,UBE,,
+462,1,08:44,5,3,BAU,3_Pts_C,Larry
+463,1,08:57,2,3,UBE,3_Pts_C,Luis Gruber
+464,1,08:57,2,0,UBE,AS,Robert Day
+465,1,09:17,2,0,BAU,EN,Tischer
+466,1,09:20,0,0,BAU,RO,Tischer
+467,1,09:20,0,0,BAU,3_Pts_T,Murilo
+468,1,09:31,0,0,BAU,FR,Tischer
+469,1,09:31,0,0,UBE,FC,Cipolini
+470,1,09:41,0,0,BAU,BR,R Fischer
+471,1,09:41,0,0,UBE,ER,Robert Day
+472,1,10:00,0,0,BAU,substituicao_entra,Tischer
+473,1,10:00,0,0,BAU,substituicao_entra,Murilo
+474,1,10:00,0,0,BAU,substituicao_entra,Gui Deodato
+475,1,10:00,0,0,BAU,substituicao_entra,R Fischer
+476,1,10:00,0,0,BAU,substituicao_entra,Larry
+477,1,10:00,0,0,UBE,substituicao_entra,Luis Gruber
+478,1,10:00,0,0,UBE,substituicao_entra,Robert Day
+479,1,10:00,0,0,UBE,substituicao_entra,Audrei
+480,1,10:00,0,0,UBE,substituicao_entra,Léo Waszkiewicz
+481,1,10:00,0,0,UBE,substituicao_entra,Cipolini
+482,1,10:00,0,0,UBE,substituicao_entra,Valtinho

@@ -1,0 +1,519 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,92,75,,fim_partida,
+1,4,00:16,92,75,MOG,BR,Elinho
+2,4,00:16,92,75,CEA,ER,Davi
+3,4,00:19,92,75,CEA,RD,Leal
+4,4,00:21,92,75,MOG,3_Pts_T,Jimmy
+5,4,00:24,92,75,MOG,BR,Tyrone
+6,4,00:24,92,75,CEA,ER,Rashaun
+7,4,00:35,92,75,MOG,AS,Filipin
+8,4,00:35,92,75,MOG,3_Pts_C,Tyrone
+9,4,00:56,89,75,MOG,BR,Jimmy
+10,4,00:57,89,75,CEA,ER,Davi
+11,4,01:05,89,75,MOG,AS,Elinho
+12,4,01:09,89,75,MOG,2_Pts_C,Tyrone
+13,4,01:21,87,75,CEA,2_Pts_C,Leal
+14,4,01:40,87,73,MOG,ER,Jimmy
+15,4,01:53,87,73,MOG,FR,Elinho
+16,4,01:53,87,73,CEA,FC,Sualisson
+17,4,01:53,87,73,MOG,BR,Tyrone
+18,4,01:54,87,73,CEA,ER,Davi
+19,4,02:01,87,73,CEA,BR,Sualisson
+20,4,02:03,87,73,MOG,ER,Larry
+21,4,02:11,87,73,CEA,LL_Pts_C,Rashaun
+22,4,02:11,87,72,CEA,LL_Pts_T,Rashaun
+23,4,02:11,87,72,CEA,FR,Rashaun
+24,4,02:11,87,72,MOG,FC,Elinho
+25,4,02:14,87,72,CEA,RO,Basq Cearense
+26,4,02:14,87,72,CEA,2_Pts_T,Sualisson
+27,4,02:15,87,72,CEA,RO,Rashaun
+28,4,02:17,87,72,CEA,3_Pts_T,Davi
+29,4,02:26,87,72,CEA,FR,Rashaun
+30,4,02:26,87,72,MOG,FC,Larry
+31,4,02:26,87,72,CEA,BR,Rashaun
+32,4,02:28,87,72,MOG,ER,Larry
+33,4,02:47,87,72,MOG,RD,Filipin
+34,4,02:49,87,72,CEA,3_Pts_T,Davi
+35,4,02:55,87,72,CEA,BR,Sualisson
+36,4,02:57,87,72,MOG,ER,Tyrone
+37,4,03:13,87,72,CEA,substituicao_entra,Gruber
+38,4,03:13,87,72,CEA,substituicao_sai,Gustavinho
+39,4,03:13,87,72,MOG,FR,Larry
+40,4,03:13,87,72,CEA,FC,Gustavinho
+41,4,03:17,87,72,MOG,RD,Filipin
+42,4,03:20,87,72,CEA,3_Pts_T,Davi
+43,4,03:41,87,72,CEA,RD,Sualisson
+44,4,03:44,87,72,MOG,2_Pts_T,Larry
+45,4,03:50,87,72,CEA,substituicao_entra,Sualisson
+46,4,03:50,87,72,CEA,substituicao_sai,Toledo
+47,4,03:54,87,72,CEA,AS,Davi
+48,4,03:56,87,72,CEA,3_Pts_C,Rashaun
+49,4,04:12,87,69,MOG,AS,Elinho
+50,4,04:13,87,69,MOG,3_Pts_C,Jimmy
+51,4,04:41,84,69,MOG,substituicao_entra,Larry
+52,4,04:41,84,69,MOG,substituicao_sai,C Torres
+53,4,04:41,84,69,MOG,substituicao_entra,Tyrone
+54,4,04:41,84,69,MOG,substituicao_sai,Fabricio
+55,4,04:41,84,69,MOG,tempo_tecnico,
+56,4,04:41,84,69,CEA,3_Pts_C,Davi
+57,4,04:48,84,66,CEA,RD,Toledo
+58,4,04:50,84,66,MOG,3_Pts_T,Filipin
+59,4,05:10,84,66,CEA,AS,Davi
+60,4,05:15,84,66,CEA,3_Pts_C,Gustavinho
+61,4,05:26,84,63,CEA,RD,Rashaun
+62,4,05:28,84,63,MOG,2_Pts_T,Fabricio
+63,4,05:48,84,63,CEA,substituicao_entra,Leal
+64,4,05:48,84,63,CEA,substituicao_sai,Gruber
+65,4,05:48,84,63,MOG,substituicao_entra,Jimmy
+66,4,05:48,84,63,MOG,substituicao_sai,Shamell
+67,4,05:48,84,63,CEA,ER,Gruber
+68,4,05:59,84,63,MOG,AS,Elinho
+69,4,05:59,84,63,MOG,LL_Pts_C,Fabricio
+70,4,05:59,83,63,MOG,LL_Pts_C,Fabricio
+71,4,05:59,82,63,MOG,FR,Fabricio
+72,4,05:59,82,63,CEA,FC,Gruber
+73,4,06:13,82,63,CEA,2_Pts_C,Gustavinho
+74,4,06:31,82,61,MOG,substituicao_entra,Fabricio
+75,4,06:31,82,61,MOG,substituicao_sai,Tyrone
+76,4,06:31,82,61,MOG,substituicao_entra,Elinho
+77,4,06:31,82,61,MOG,substituicao_sai,Larry
+78,4,06:31,82,61,CEA,RD,Basq Cearense
+79,4,06:31,82,61,MOG,3_Pts_T,Larry
+80,4,06:54,82,61,CEA,2_Pts_C,Gustavinho
+81,4,07:11,82,59,MOG,AS,Tyrone
+82,4,07:14,82,59,MOG,3_Pts_C,Filipin
+83,4,07:18,79,59,MOG,RD,C Torres
+84,4,07:21,79,59,CEA,2_Pts_T,Davi
+85,4,07:32,79,59,MOG,AS,Larry
+86,4,07:35,79,59,MOG,EN,C Torres
+87,4,07:47,77,59,MOG,BR,Tyrone
+88,4,07:47,77,59,CEA,ER,Davi
+89,4,07:56,77,59,CEA,BR,Gustavinho
+90,4,07:57,77,59,MOG,ER,C Torres
+91,4,08:09,77,59,MOG,RD,Mogi
+92,4,08:09,77,59,CEA,3_Pts_T,Rashaun
+93,4,08:18,77,59,CEA,FR,Rashaun
+94,4,08:18,77,59,MOG,FC,Tyrone
+95,4,08:24,77,59,CEA,FR,Davi
+96,4,08:24,77,59,MOG,FC,Tyrone
+97,4,08:31,77,59,MOG,AS,Larry
+98,4,08:32,77,59,MOG,3_Pts_C,Filipin
+99,4,08:37,74,59,MOG,BR,Larry
+100,4,08:40,74,59,CEA,ER,Gruber
+101,4,08:50,74,59,MOG,AS,Larry
+102,4,08:51,74,59,MOG,3_Pts_C,Filipin
+103,4,09:12,71,59,CEA,3_Pts_C,Gustavinho
+104,4,09:23,71,56,MOG,AS,Tyrone
+105,4,09:25,71,56,MOG,3_Pts_C,C Torres
+106,4,09:39,68,56,CEA,3_Pts_C,Rashaun
+107,4,09:50,68,53,CEA,FR,Toledo
+108,4,09:50,68,53,MOG,FC,Tyrone
+109,4,10:00,68,53,,inicio_quarto,
+110,3,00:00,68,53,CEA,substituicao_sai,Leal
+111,3,00:00,68,53,CEA,substituicao_sai,Rashaun
+112,3,00:00,68,53,CEA,substituicao_sai,Sualisson
+113,3,00:00,68,53,CEA,substituicao_sai,Toledo
+114,3,00:00,68,53,CEA,substituicao_sai,Davi
+115,3,00:00,68,53,MOG,substituicao_sai,C Torres
+116,3,00:00,68,53,MOG,substituicao_sai,Filipin
+117,3,00:00,68,53,MOG,substituicao_sai,Fabricio
+118,3,00:00,68,53,MOG,substituicao_sai,Larry
+119,3,00:00,68,53,MOG,substituicao_sai,Tyrone
+120,3,00:00,68,53,,fim_quarto,
+121,3,00:06,68,53,MOG,2_Pts_C,Larry
+122,3,00:14,66,53,CEA,substituicao_entra,Leal
+123,3,00:14,66,53,CEA,substituicao_sai,Gustavinho
+124,3,00:14,66,53,CEA,substituicao_entra,Sualisson
+125,3,00:14,66,53,CEA,substituicao_sai,Gruber
+126,3,00:14,66,53,CEA,2_Pts_C,Toledo
+127,3,00:33,66,51,CEA,RD,Davi
+128,3,00:35,66,51,MOG,3_Pts_T,Fabricio
+129,3,00:52,66,51,MOG,RD,Filipin
+130,3,00:53,66,51,MOG,TO,C Torres
+131,3,00:56,66,51,CEA,2_Pts_T,Gruber
+132,3,01:07,66,51,CEA,substituicao_entra,Rashaun
+133,3,01:07,66,51,CEA,substituicao_sai,Felipe
+134,3,01:07,66,51,MOG,LL_Pts_C,C Torres
+135,3,01:07,65,51,MOG,LL_Pts_C,C Torres
+136,3,01:07,64,51,MOG,substituicao_entra,Tyrone
+137,3,01:07,64,51,MOG,substituicao_sai,Jimmy
+138,3,01:07,64,51,MOG,substituicao_entra,Larry
+139,3,01:07,64,51,MOG,substituicao_sai,Vithinho
+140,3,01:07,64,51,MOG,FR,C Torres
+141,3,01:07,64,51,CEA,FC,Felipe
+142,3,01:07,64,51,CEA,RO,Toledo
+143,3,01:07,64,51,CEA,2_Pts_T,Davi
+144,3,01:14,64,51,CEA,2_Pts_T,Felipe
+145,3,01:14,64,51,CEA,RO,Felipe
+146,3,01:17,64,51,CEA,2_Pts_T,Gruber
+147,3,01:35,64,51,MOG,AS,Vithinho
+148,3,01:35,64,51,MOG,LL_Pts_C,Jimmy
+149,3,01:35,63,51,MOG,LL_Pts_C,Jimmy
+150,3,01:35,62,51,MOG,FR,Jimmy
+151,3,01:35,62,51,CEA,FC,Gruber
+152,3,01:47,62,51,CEA,2_Pts_C,Davi
+153,3,02:01,62,49,MOG,AS,Filipin
+154,3,02:01,62,49,MOG,LL_Pts_C,C Torres
+155,3,02:01,61,49,MOG,LL_Pts_C,C Torres
+156,3,02:01,60,49,MOG,FR,C Torres
+157,3,02:01,60,49,CEA,FC,Gruber
+158,3,02:11,60,49,CEA,AS,Felipe
+159,3,02:13,60,49,CEA,3_Pts_C,Toledo
+160,3,02:17,60,46,CEA,RD,Toledo
+161,3,02:20,60,46,MOG,3_Pts_T,Vithinho
+162,3,02:26,60,46,MOG,tempo_tecnico,
+163,3,02:26,60,46,CEA,AS,Davi
+164,3,02:26,60,46,CEA,3_Pts_C,Gruber
+165,3,02:34,60,43,CEA,RD,Felipe
+166,3,02:36,60,43,MOG,3_Pts_T,Vithinho
+167,3,02:47,60,43,CEA,2_Pts_C,Gruber
+168,3,03:04,60,41,MOG,substituicao_entra,Filipin
+169,3,03:04,60,41,MOG,substituicao_sai,Shamell
+170,3,03:04,60,41,MOG,LL_Pts_C,Shamell
+171,3,03:04,59,41,MOG,substituicao_entra,Fabricio
+172,3,03:04,59,41,MOG,substituicao_sai,Tyrone
+173,3,03:04,59,41,MOG,FR,Shamell
+174,3,03:04,59,41,CEA,FC,Davi
+175,3,03:04,59,41,MOG,2_Pts_C,Shamell
+176,3,03:21,57,41,CEA,AS,Davi
+177,3,03:25,57,41,CEA,3_Pts_C,Gustavinho
+178,3,03:32,57,38,CEA,BR,Felipe
+179,3,03:35,57,38,MOG,ER,Shamell
+180,3,03:46,57,38,CEA,AS,Toledo
+181,3,03:47,57,38,CEA,3_Pts_C,Felipe
+182,3,03:52,57,35,CEA,RO,Davi
+183,3,03:54,57,35,CEA,2_Pts_T,Davi
+184,3,04:13,57,35,MOG,AS,Jimmy
+185,3,04:16,57,35,MOG,3_Pts_C,C Torres
+186,3,04:26,54,35,MOG,RD,C Torres
+187,3,04:28,54,35,CEA,3_Pts_T,Felipe
+188,3,04:40,54,35,CEA,RD,Toledo
+189,3,04:45,54,35,MOG,2_Pts_T,Vithinho
+190,3,04:56,54,35,MOG,FR,Shamell
+191,3,04:56,54,35,CEA,FC,Felipe
+192,3,05:04,54,35,MOG,RD,Tyrone
+193,3,05:04,54,35,CEA,LL_Pts_T,Toledo
+194,3,05:04,54,35,MOG,substituicao_entra,C Torres
+195,3,05:04,54,35,MOG,substituicao_sai,Fer Calvi
+196,3,05:04,54,35,MOG,tempo_tecnico,
+197,3,05:04,54,35,CEA,FR,Toledo
+198,3,05:04,54,35,MOG,FC,Tyrone
+199,3,05:04,54,35,CEA,AS,Davi
+200,3,05:04,54,35,CEA,2_Pts_C,Toledo
+201,3,05:11,54,33,CEA,RD,Gustavinho
+202,3,05:12,54,33,MOG,3_Pts_T,Jimmy
+203,3,05:32,54,33,CEA,2_Pts_C,Gruber
+204,3,05:38,54,31,MOG,substituicao_entra,Vithinho
+205,3,05:38,54,31,MOG,substituicao_sai,Larry
+206,3,05:38,54,31,CEA,FR,Gruber
+207,3,05:38,54,31,MOG,FC,Fer Calvi
+208,3,05:40,54,31,CEA,RO,Basq Cearense
+209,3,05:40,54,31,CEA,2_Pts_T,Toledo
+210,3,05:40,54,31,CEA,RD,Gruber
+211,3,05:45,54,31,MOG,3_Pts_T,Fer Calvi
+212,3,06:07,54,31,MOG,substituicao_entra,Jimmy
+213,3,06:07,54,31,MOG,substituicao_sai,Elinho
+214,3,06:07,54,31,MOG,FR,Fer Calvi
+215,3,06:07,54,31,CEA,FC,Gustavinho
+216,3,06:07,54,31,MOG,RD,Tyrone
+217,3,06:11,54,31,CEA,3_Pts_T,Gustavinho
+218,3,06:19,54,31,MOG,AS,Fer Calvi
+219,3,06:21,54,31,MOG,2_Pts_C,Larry
+220,3,06:41,52,31,MOG,RD,Fer Calvi
+221,3,06:43,52,31,CEA,3_Pts_T,Davi
+222,3,06:49,52,31,CEA,BR,Toledo
+223,3,06:51,52,31,MOG,ER,Larry
+224,3,06:58,52,31,MOG,RD,Tyrone
+225,3,07:00,52,31,CEA,3_Pts_T,Gruber
+226,3,07:07,52,31,CEA,FR,Gruber
+227,3,07:07,52,31,MOG,FC,Larry
+228,3,07:23,52,31,MOG,ER,Elinho
+229,3,07:25,52,31,MOG,RD,Larry
+230,3,07:27,52,31,CEA,3_Pts_T,Davi
+231,3,07:47,52,31,CEA,RD,Gruber
+232,3,07:48,52,31,MOG,3_Pts_T,Shamell
+233,3,07:57,52,31,CEA,2_Pts_C,Toledo
+234,3,07:59,52,29,CEA,BR,Toledo
+235,3,08:02,52,29,MOG,ER,Shamell
+236,3,08:05,52,29,MOG,RD,Shamell
+237,3,08:10,52,29,CEA,3_Pts_T,Gustavinho
+238,3,08:21,52,29,MOG,AS,Larry
+239,3,08:23,52,29,MOG,3_Pts_C,Shamell
+240,3,08:29,49,29,MOG,BR,Fer Calvi
+241,3,08:31,49,29,CEA,ER,Toledo
+242,3,08:42,49,29,CEA,RO,Basq Cearense
+243,3,08:42,49,29,CEA,2_Pts_T,Gruber
+244,3,08:57,49,29,MOG,ER,Larry
+245,3,09:06,49,29,CEA,AS,Gruber
+246,3,09:07,49,29,CEA,3_Pts_C,Davi
+247,3,09:13,49,26,CEA,FR,Toledo
+248,3,09:13,49,26,MOG,FC,Fer Calvi
+249,3,09:31,49,26,MOG,ER,Shamell
+250,3,09:39,49,26,CEA,AS,Davi
+251,3,09:41,49,26,CEA,2_Pts_C,Felipe
+252,3,10:00,49,24,,inicio_quarto,
+253,2,00:00,49,24,CEA,substituicao_sai,Rashaun
+254,2,00:00,49,24,CEA,substituicao_sai,Toledo
+255,2,00:00,49,24,CEA,substituicao_sai,Gruber
+256,2,00:00,49,24,CEA,substituicao_sai,Davi
+257,2,00:00,49,24,CEA,substituicao_sai,Gustavinho
+258,2,00:00,49,24,MOG,substituicao_sai,Jimmy
+259,2,00:00,49,24,MOG,substituicao_sai,C Torres
+260,2,00:00,49,24,MOG,substituicao_sai,Elinho
+261,2,00:00,49,24,MOG,substituicao_sai,Larry
+262,2,00:00,49,24,MOG,substituicao_sai,Tyrone
+263,2,00:00,49,24,,fim_quarto,
+264,2,00:14,49,24,CEA,3_Pts_T,Toledo
+265,2,00:19,49,24,MOG,AS,Jimmy
+266,2,00:24,49,24,MOG,2_Pts_C,Elinho
+267,2,00:27,47,24,MOG,BR,Jimmy
+268,2,00:31,47,24,CEA,ER,Toledo
+269,2,00:36,47,24,CEA,FR,Toledo
+270,2,00:36,47,24,MOG,FC,Elinho
+271,2,00:36,47,24,CEA,RO,Basq Cearense
+272,2,00:36,47,24,CEA,3_Pts_T,Rashaun
+273,2,00:47,47,24,MOG,AS,Elinho
+274,2,00:49,47,24,MOG,3_Pts_C,Larry
+275,2,00:55,44,24,MOG,RD,Jimmy
+276,2,00:57,44,24,CEA,3_Pts_T,Gustavinho
+277,2,01:17,44,24,MOG,AS,Elinho
+278,2,01:22,44,24,MOG,2_Pts_C,C Torres
+279,2,01:32,42,24,MOG,substituicao_entra,Jimmy
+280,2,01:32,42,24,MOG,substituicao_sai,Shamell
+281,2,01:32,42,24,MOG,RO,Mogi
+282,2,01:32,42,24,MOG,2_Pts_T,Elinho
+283,2,01:37,42,24,MOG,RD,C Torres
+284,2,01:39,42,24,CEA,2_Pts_T,Toledo
+285,2,01:56,42,24,MOG,AS,Larry
+286,2,01:57,42,24,MOG,3_Pts_C,Shamell
+287,2,02:20,39,24,CEA,LL_Pts_C,Gustavinho
+288,2,02:20,39,23,CEA,LL_Pts_T,Gustavinho
+289,2,02:20,39,23,CEA,FR,Gustavinho
+290,2,02:20,39,23,MOG,FC,Shamell
+291,2,02:29,39,23,CEA,tempo_tecnico,
+292,2,02:29,39,23,MOG,LL_Pts_C,C Torres
+293,2,02:29,38,23,MOG,FR,C Torres
+294,2,02:29,38,23,CEA,FC,Toledo
+295,2,02:29,38,23,MOG,AS,Tyrone
+296,2,02:29,38,23,MOG,2_Pts_C,C Torres
+297,2,02:39,36,23,MOG,RD,Larry
+298,2,02:40,36,23,CEA,3_Pts_T,Toledo
+299,2,02:56,36,23,MOG,AS,Tyrone
+300,2,02:58,36,23,MOG,3_Pts_C,Shamell
+301,2,03:12,33,23,MOG,RD,Mogi
+302,2,03:18,33,23,CEA,3_Pts_T,Rashaun
+303,2,03:24,33,23,CEA,RD,Gustavinho
+304,2,03:26,33,23,MOG,2_Pts_T,Shamell
+305,2,03:41,33,23,MOG,RD,C Torres
+306,2,03:43,33,23,CEA,3_Pts_T,Davi
+307,2,04:00,33,23,MOG,AS,Elinho
+308,2,04:03,33,23,MOG,3_Pts_C,Shamell
+309,2,04:11,30,23,MOG,RD,Shamell
+310,2,04:13,30,23,CEA,2_Pts_T,Toledo
+311,2,04:18,30,23,CEA,substituicao_entra,Gustavinho
+312,2,04:18,30,23,CEA,substituicao_sai,Felipe
+313,2,04:18,30,23,MOG,substituicao_entra,Tyrone
+314,2,04:18,30,23,MOG,substituicao_sai,Fabricio
+315,2,04:18,30,23,CEA,RO,Basq Cearense
+316,2,04:18,30,23,MOG,TO,C Torres
+317,2,04:18,30,23,CEA,2_Pts_T,Felipe
+318,2,04:34,30,23,MOG,AS,Elinho
+319,2,04:37,30,23,MOG,3_Pts_C,Shamell
+320,2,04:42,27,23,MOG,RO,Larry
+321,2,04:43,27,23,MOG,3_Pts_T,Fabricio
+322,2,04:57,27,23,CEA,2_Pts_C,Rashaun
+323,2,04:57,27,21,CEA,RO,Rashaun
+324,2,05:02,27,21,CEA,3_Pts_T,Gruber
+325,2,05:13,27,21,CEA,substituicao_entra,Toledo
+326,2,05:13,27,21,CEA,substituicao_sai,Leal
+327,2,05:13,27,21,CEA,FR,Davi
+328,2,05:13,27,21,MOG,FC,Elinho
+329,2,05:31,27,21,MOG,2_Pts_C,C Torres
+330,2,05:54,25,21,CEA,tempo_tecnico,
+331,2,05:54,25,21,MOG,FR,Elinho
+332,2,05:54,25,21,CEA,ER,Leal
+333,2,05:54,25,21,CEA,FC_O,Leal
+334,2,06:14,25,21,MOG,AS,Elinho
+335,2,06:16,25,21,MOG,3_Pts_C,Fabricio
+336,2,06:29,22,21,CEA,ER,Leal
+337,2,06:52,22,21,MOG,AS,Shamell
+338,2,06:54,22,21,MOG,3_Pts_C,Larry
+339,2,07:02,19,21,MOG,RO,Mogi
+340,2,07:02,19,21,MOG,3_Pts_T,Elinho
+341,2,07:12,19,21,MOG,substituicao_entra,Larry
+342,2,07:12,19,21,MOG,substituicao_sai,Filipin
+343,2,07:12,19,21,MOG,substituicao_entra,C Torres
+344,2,07:12,19,21,MOG,substituicao_sai,Fer Calvi
+345,2,07:12,19,21,MOG,tempo_tecnico,
+346,2,07:12,19,21,CEA,3_Pts_C,Davi
+347,2,07:17,19,18,CEA,BR,Leal
+348,2,07:19,19,18,MOG,ER,Fabricio
+349,2,07:35,19,18,CEA,2_Pts_C,Rashaun
+350,2,07:47,19,16,CEA,FR,Davi
+351,2,07:47,19,16,MOG,FC,Elinho
+352,2,07:47,19,16,CEA,RD,Davi
+353,2,07:47,19,16,MOG,3_Pts_T,Filipin
+354,2,08:00,19,16,MOG,RO,Mogi
+355,2,08:00,19,16,MOG,2_Pts_T,Fabricio
+356,2,08:07,19,16,MOG,RD,Fabricio
+357,2,08:09,19,16,CEA,3_Pts_T,Rashaun
+358,2,08:19,19,16,CEA,substituicao_entra,Gruber
+359,2,08:19,19,16,CEA,substituicao_sai,Gustavinho
+360,2,08:19,19,16,MOG,substituicao_entra,Shamell
+361,2,08:19,19,16,MOG,substituicao_sai,Jimmy
+362,2,08:24,19,16,CEA,RD,Davi
+363,2,08:25,19,16,MOG,3_Pts_T,Fer Calvi
+364,2,08:31,19,16,MOG,RD,Elinho
+365,2,08:33,19,16,CEA,3_Pts_T,Gustavinho
+366,2,08:46,19,16,CEA,substituicao_entra,Rashaun
+367,2,08:46,19,16,CEA,substituicao_sai,Sualisson
+368,2,08:46,19,16,MOG,substituicao_entra,Elinho
+369,2,08:46,19,16,MOG,substituicao_sai,Vithinho
+370,2,08:46,19,16,MOG,ER,Jimmy
+371,2,08:48,19,16,MOG,RD,Jimmy
+372,2,08:49,19,16,CEA,2_Pts_T,Sualisson
+373,2,09:09,19,16,MOG,AS,Fabricio
+374,2,09:12,19,16,MOG,3_Pts_C,Filipin
+375,2,09:24,16,16,MOG,RD,Fer Calvi
+376,2,09:26,16,16,CEA,3_Pts_T,Davi
+377,2,09:39,16,16,CEA,RD,Leal
+378,2,09:40,16,16,MOG,3_Pts_T,Filipin
+379,2,10:00,16,16,,inicio_quarto,
+380,1,00:00,16,16,CEA,substituicao_sai,Leal
+381,1,00:00,16,16,CEA,substituicao_sai,Felipe
+382,1,00:00,16,16,CEA,substituicao_sai,Sualisson
+383,1,00:00,16,16,CEA,substituicao_sai,Davi
+384,1,00:00,16,16,CEA,substituicao_sai,Gustavinho
+385,1,00:00,16,16,MOG,substituicao_sai,Jimmy
+386,1,00:00,16,16,MOG,substituicao_sai,Filipin
+387,1,00:00,16,16,MOG,substituicao_sai,Fabricio
+388,1,00:00,16,16,MOG,substituicao_sai,Vithinho
+389,1,00:00,16,16,MOG,substituicao_sai,Fer Calvi
+390,1,00:00,16,16,,fim_quarto,
+391,1,00:03,16,16,CEA,AS,Gustavinho
+392,1,00:03,16,16,CEA,3_Pts_C,Davi
+393,1,00:26,16,13,CEA,FR,Felipe
+394,1,00:26,16,13,MOG,ER,Fabricio
+395,1,00:26,16,13,MOG,FC_O,Fabricio
+396,1,00:33,16,13,CEA,2_Pts_C,Gustavinho
+397,1,00:35,16,11,CEA,RO,Gustavinho
+398,1,00:37,16,11,CEA,2_Pts_T,Leal
+399,1,01:03,16,11,MOG,AS,Vithinho
+400,1,01:06,16,11,MOG,3_Pts_C,Filipin
+401,1,01:27,13,11,CEA,substituicao_entra,Sualisson
+402,1,01:27,13,11,CEA,substituicao_sai,Toledo
+403,1,01:27,13,11,MOG,FR,Fer Calvi
+404,1,01:27,13,11,CEA,FC,Leal
+405,1,01:27,13,11,CEA,3_Pts_T,Toledo
+406,1,01:33,13,11,CEA,substituicao_entra,Davi
+407,1,01:33,13,11,CEA,substituicao_sai,Rashaun
+408,1,01:33,13,11,CEA,substituicao_entra,Leal
+409,1,01:33,13,11,CEA,substituicao_sai,Gruber
+410,1,01:33,13,11,MOG,substituicao_entra,Fabricio
+411,1,01:33,13,11,MOG,substituicao_sai,Tyrone
+412,1,01:33,13,11,CEA,FR,Gustavinho
+413,1,01:33,13,11,MOG,FC,Vithinho
+414,1,01:34,13,11,CEA,RD,Gustavinho
+415,1,01:37,13,11,MOG,2_Pts_T,Tyrone
+416,1,01:43,13,11,MOG,RD,Vithinho
+417,1,01:45,13,11,CEA,3_Pts_T,Gruber
+418,1,01:51,13,11,CEA,RO,Gruber
+419,1,01:54,13,11,CEA,3_Pts_T,Gustavinho
+420,1,02:07,13,11,CEA,RD,Gruber
+421,1,02:09,13,11,MOG,3_Pts_T,Tyrone
+422,1,02:22,13,11,MOG,RD,Tyrone
+423,1,02:23,13,11,CEA,3_Pts_T,Gruber
+424,1,02:27,13,11,CEA,RO,Felipe
+425,1,02:28,13,11,CEA,2_Pts_T,Gruber
+426,1,02:40,13,11,MOG,LL_Pts_C,Tyrone
+427,1,02:40,12,11,MOG,LL_Pts_C,Tyrone
+428,1,02:40,11,11,MOG,substituicao_entra,Filipin
+429,1,02:40,11,11,MOG,substituicao_entra,Vithinho
+430,1,02:40,11,11,MOG,substituicao_entra,Fer Calvi
+431,1,02:40,11,11,MOG,substituicao_sai,C Torres
+432,1,02:40,11,11,MOG,substituicao_sai,Larry
+433,1,02:40,11,11,MOG,substituicao_sai,Shamell
+434,1,02:40,11,11,MOG,FR,Tyrone
+435,1,02:40,11,11,CEA,FC,Gruber
+436,1,02:55,11,11,CEA,AS,Gruber
+437,1,02:57,11,11,CEA,3_Pts_C,Rashaun
+438,1,03:07,11,8,CEA,RD,Gruber
+439,1,03:09,11,8,MOG,3_Pts_T,C Torres
+440,1,03:32,11,8,CEA,ER,Toledo
+441,1,03:33,11,8,CEA,RO,Toledo
+442,1,03:37,11,8,CEA,2_Pts_T,Toledo
+443,1,03:42,11,8,CEA,BR,Felipe
+444,1,03:45,11,8,MOG,ER,Jimmy
+445,1,03:52,11,8,MOG,RD,C Torres
+446,1,03:54,11,8,CEA,2_Pts_T,Gustavinho
+447,1,04:19,11,8,MOG,AS,Shamell
+448,1,04:22,11,8,MOG,3_Pts_C,Jimmy
+449,1,04:27,8,8,CEA,substituicao_entra,Felipe
+450,1,04:27,8,8,CEA,substituicao_sai,Duda
+451,1,04:38,8,8,CEA,LL_Pts_C,Rashaun
+452,1,04:38,8,7,CEA,LL_Pts_C,Rashaun
+453,1,04:38,8,6,CEA,substituicao_entra,Gustavinho
+454,1,04:38,8,6,CEA,substituicao_sai,Davi
+455,1,04:38,8,6,CEA,FR,Rashaun
+456,1,04:38,8,6,MOG,FC,Shamell
+457,1,04:53,8,6,MOG,AS,Tyrone
+458,1,04:58,8,6,MOG,2_Pts_C,Larry
+459,1,05:01,6,6,MOG,BR,Larry
+460,1,05:02,6,6,CEA,ER,Davi
+461,1,05:17,6,6,MOG,AS,C Torres
+462,1,05:19,6,6,MOG,2_Pts_C,Tyrone
+463,1,05:38,4,6,CEA,2_Pts_C,Rashaun
+464,1,05:52,4,4,CEA,FR,Davi
+465,1,05:52,4,4,MOG,ER,Jimmy
+466,1,05:52,4,4,MOG,FC_O,Jimmy
+467,1,06:01,4,4,MOG,RD,C Torres
+468,1,06:03,4,4,CEA,3_Pts_T,Davi
+469,1,06:11,4,4,CEA,RD,Davi
+470,1,06:13,4,4,MOG,3_Pts_T,Tyrone
+471,1,06:49,4,4,MOG,RD,Jimmy
+472,1,06:51,4,4,CEA,2_Pts_T,Gruber
+473,1,07:01,4,4,CEA,RD,Rashaun
+474,1,07:03,4,4,MOG,2_Pts_T,Shamell
+475,1,07:11,4,4,MOG,RD,Tyrone
+476,1,07:12,4,4,CEA,3_Pts_T,Gruber
+477,1,07:20,4,4,CEA,RO,Basq Cearense
+478,1,07:23,4,4,CEA,2_Pts_T,Toledo
+479,1,07:36,4,4,MOG,AS,Tyrone
+480,1,07:36,4,4,MOG,2_Pts_C,Jimmy
+481,1,07:36,2,4,MOG,BR,Larry
+482,1,07:36,2,4,CEA,ER,Duda
+483,1,07:36,2,4,MOG,AS,Tyrone
+484,1,07:36,2,4,MOG,2_Pts_C,C Torres
+485,1,07:36,0,4,CEA,ER,Rashaun
+486,1,07:36,0,4,CEA,RO,Rashaun
+487,1,07:36,0,4,MOG,TO,Larry
+488,1,07:36,0,4,CEA,2_Pts_T,Rashaun
+489,1,07:37,0,4,CEA,RD,Davi
+490,1,07:39,0,4,MOG,2_Pts_T,Larry
+491,1,07:58,0,4,CEA,2_Pts_C,Duda
+492,1,08:01,0,2,CEA,BR,Duda
+493,1,08:05,0,2,MOG,ER,C Torres
+494,1,08:21,0,2,MOG,RD,C Torres
+495,1,08:23,0,2,CEA,3_Pts_T,Davi
+496,1,08:28,0,2,CEA,RD,Toledo
+497,1,08:32,0,2,MOG,2_Pts_T,Shamell
+498,1,08:47,0,2,MOG,RD,Jimmy
+499,1,08:49,0,2,CEA,3_Pts_T,Gruber
+500,1,09:05,0,2,MOG,ER,Tyrone
+501,1,09:11,0,2,CEA,2_Pts_C,Gruber
+502,1,09:11,0,0,CEA,RO,Gruber
+503,1,09:12,0,0,CEA,2_Pts_T,Toledo
+504,1,09:27,0,0,CEA,RD,Basq Cearense
+505,1,09:28,0,0,MOG,3_Pts_T,Tyrone
+506,1,09:43,0,0,MOG,RD,Larry
+507,1,09:45,0,0,CEA,3_Pts_T,Davi
+508,1,10:00,0,0,CEA,substituicao_entra,Rashaun
+509,1,10:00,0,0,CEA,substituicao_entra,Toledo
+510,1,10:00,0,0,CEA,substituicao_entra,Duda
+511,1,10:00,0,0,CEA,substituicao_entra,Gruber
+512,1,10:00,0,0,CEA,substituicao_entra,Davi
+513,1,10:00,0,0,MOG,substituicao_entra,Shamell
+514,1,10:00,0,0,MOG,substituicao_entra,Jimmy
+515,1,10:00,0,0,MOG,substituicao_entra,C Torres
+516,1,10:00,0,0,MOG,substituicao_entra,Larry
+517,1,10:00,0,0,MOG,substituicao_entra,Tyrone

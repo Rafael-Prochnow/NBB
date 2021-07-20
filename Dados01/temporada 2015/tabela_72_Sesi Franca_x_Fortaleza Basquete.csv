@@ -1,0 +1,512 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,78,106, ,fim_partida,
+1,4,00:22,78,106,CEA,RD,Rômulo
+2,4,00:22,78,106,FRA,LL_Pts_T,Antonio
+3,4,00:22,78,106,FRA,LL_Pts_C,Antonio
+4,4,00:22,77,106,FRA,FR,Antonio
+5,4,00:22,77,106,CEA,FC,Rômulo
+6,4,00:31,77,106,FRA,RD,Thiaguinho
+7,4,00:31,77,106,CEA,3_Pts_T,Victor
+8,4,00:44,77,106,FRA,substituicao_entra,Bruno
+9,4,00:44,77,106,FRA,substituicao_sai,Isaac
+10,4,00:44,77,106,FRA,2_Pts_C,Kurtz
+11,4,00:45,75,106,FRA,RO,Kurtz
+12,4,00:45,75,106,FRA,2_Pts_T,Isaac
+13,4,01:05,75,106,FRA,RD,Isaac
+14,4,01:05,75,106,CEA,2_Pts_T,Sualisson
+15,4,01:20,75,106,FRA,LL_Pts_C,Antonio
+16,4,01:20,74,106,FRA,LL_Pts_C,Antonio
+17,4,01:20,73,106,FRA,FR,Antonio
+18,4,01:20,73,106,CEA,FC,Rômulo
+19,4,01:38,73,106,CEA,2_Pts_C,Léo Waszkiewicz
+20,4,01:38,73,104,CEA,AS,Rômulo
+21,4,01:48,73,104,FRA,LL_Pts_C,Thiaguinho
+22,4,01:48,72,104,FRA,LL_Pts_C,Thiaguinho
+23,4,01:48,71,104,CEA,substituicao_entra,Sualisson
+24,4,01:48,71,104,CEA,substituicao_sai,Audrei
+25,4,01:48,71,104,CEA,substituicao_entra,Rômulo
+26,4,01:48,71,104,CEA,substituicao_sai,Felipe
+27,4,01:48,71,104,FRA,FR,Thiaguinho
+28,4,01:48,71,104,CEA,FC,Léo Waszkiewicz
+29,4,02:03,71,104,CEA,2_Pts_C,Audrei
+30,4,02:03,71,102,CEA,AS,Victor
+31,4,02:09,71,102,CEA,RD,Victor
+32,4,02:09,71,102,CEA,TO,Léo Waszkiewicz
+33,4,02:09,71,102,FRA,2_Pts_T,Matheus
+34,4,02:22,71,102,FRA,RD,Isaac
+35,4,02:22,71,102,CEA,2_Pts_T,Audrei
+36,4,02:33,71,102,CEA,BR,Léo Waszkiewicz
+37,4,02:33,71,102,FRA,ER,Matheus
+38,4,02:44,71,102,FRA,RD,Antonio
+39,4,02:44,71,102,CEA,3_Pts_T,Victor
+40,4,02:56,71,102,FRA,EN,Kurtz
+41,4,03:03,69,102,FRA,RO,Kurtz
+42,4,03:03,69,102,CEA,TO,Léo Waszkiewicz
+43,4,03:03,69,102,FRA,2_Pts_T,Isaac
+44,4,03:22,69,102,CEA,2_Pts_C,Felipe
+45,4,03:25,69,100,CEA,RO,Felipe
+46,4,03:25,69,100,CEA,2_Pts_T,Victor
+47,4,03:47,69,100,FRA,2_Pts_C,Kurtz
+48,4,03:55,67,100,FRA,RD,Matheus
+49,4,03:55,67,100,CEA,2_Pts_T,Audrei
+50,4,04:15,67,100,CEA,RD,Léo Waszkiewicz
+51,4,04:15,67,100,FRA,3_Pts_T,Isaac
+52,4,04:31,67,100,CEA,substituicao_entra,Léo Waszkiewicz
+53,4,04:31,67,100,CEA,substituicao_sai,Rômulo
+54,4,04:31,67,100,CEA,LL_Pts_C,Rômulo
+55,4,04:31,67,99,CEA,LL_Pts_C,Rômulo
+56,4,04:31,67,98,CEA,substituicao_entra,Audrei
+57,4,04:31,67,98,CEA,substituicao_sai,Sualisson
+58,4,04:31,67,98,CEA,FR,Rômulo
+59,4,04:31,67,98,FRA,FC,Thiaguinho
+60,4,04:45,67,98,FRA,3_Pts_C,Isaac
+61,4,04:45,64,98,FRA,AS,Thiaguinho
+62,4,05:00,64,98,FRA,RD,Thiaguinho
+63,4,05:00,64,98,CEA,3_Pts_T,Duda Machado
+64,4,05:03,64,98,CEA,BR,Duda Machado
+65,4,05:03,64,98,FRA,ER,Thiaguinho
+66,4,05:06,64,98,FRA,BR,Franca
+67,4,05:06,64,98,CEA,ER,Rômulo
+68,4,05:22,64,98,CEA,RD,Felipe
+69,4,05:22,64,98,FRA,2_Pts_T,Isaac
+70,4,05:39,64,98,FRA,RD,Franca
+71,4,05:39,64,98,CEA,2_Pts_T,Sualisson
+72,4,06:02,64,98,FRA,LL_Pts_C,Kurtz
+73,4,06:02,63,98,FRA,LL_Pts_C,Kurtz
+74,4,06:02,62,98,FRA,FR,Kurtz
+75,4,06:02,62,98,CEA,FC,Felipe
+76,4,06:03,62,98,FRA,RO,Kurtz
+77,4,06:03,62,98,FRA,3_Pts_T,Isaac
+78,4,06:09,62,98,FRA,FR,Kurtz
+79,4,06:09,62,98,CEA,FC,Sualisson
+80,4,06:22,62,98,FRA,FR,Isaac
+81,4,06:22,62,98,CEA,FC,Sualisson
+82,4,06:26,62,98,FRA,RD,Isaac
+83,4,06:26,62,98,FRA,TO,Antonio
+84,4,06:26,62,98,CEA,2_Pts_T,Sualisson
+85,4,06:43,62,98,CEA,BR,Basquete Cearense
+86,4,06:43,62,98,FRA,ER,Thiaguinho
+87,4,06:55,62,98,FRA,substituicao_sai,Bruno
+88,4,06:55,62,98,FRA,substituicao_entra,Antonio
+89,4,06:55,62,98,FRA,substituicao_entra,Isaac
+90,4,06:55,62,98,FRA,substituicao_entra,Thiaguinho
+91,4,06:55,62,98,FRA,substituicao_sai,Cauê
+92,4,06:55,62,98,FRA,substituicao_sai,Schneider
+93,4,06:55,62,98,CEA,substituicao_entra,Rômulo
+94,4,06:55,62,98,CEA,substituicao_sai,Toledo
+95,4,06:55,62,98,FRA,tempo_tecnico,Franca
+96,4,06:55,62,98,CEA,3_Pts_C,Felipe
+97,4,07:12,62,95,CEA,BR,Toledo
+98,4,07:12,62,95,FRA,ER,Schneider
+99,4,07:22,62,95,CEA,3_Pts_C,Duda Machado
+100,4,07:35,62,92,CEA,RD,Toledo
+101,4,07:35,62,92,CEA,TO,Felipe
+102,4,07:35,62,92,FRA,2_Pts_T,Bruno
+103,4,07:47,62,92,CEA,LL_Pts_C,Sualisson
+104,4,07:47,62,91,CEA,LL_Pts_C,Sualisson
+105,4,07:47,62,90,CEA,substituicao_entra,Duda Machado
+106,4,07:47,62,90,CEA,substituicao_sai,Rashaun
+107,4,07:47,62,90,CEA,FR,Sualisson
+108,4,07:47,62,90,FRA,FC,Schneider
+109,4,08:00,62,90,CEA,LL_Pts_C,Rashaun
+110,4,08:00,62,89,FRA,FC_T,Franca
+111,4,08:04,62,89,FRA,FR,Bruno
+112,4,08:04,62,89,CEA,FC,Felipe
+113,4,08:16,62,89,FRA,BR,Franca
+114,4,08:16,62,89,CEA,ER,Sualisson
+115,4,08:20,62,89,CEA,BR,Sualisson
+116,4,08:20,62,89,FRA,ER,Matheus
+117,4,08:30,62,89,CEA,3_Pts_C,Rashaun
+118,4,08:42,62,86,FRA,substituicao_entra,Cauê
+119,4,08:42,62,86,FRA,substituicao_entra,Schneider
+120,4,08:42,62,86,FRA,substituicao_sai,Isaac
+121,4,08:42,62,86,FRA,substituicao_sai,Cassiano
+122,4,08:42,62,86,FRA,ER,Kurtz
+123,4,08:54,62,86,FRA,RO,Kurtz
+124,4,08:54,62,86,FRA,2_Pts_T,Isaac
+125,4,09:09,62,86,CEA,2_Pts_C,Toledo
+126,4,09:15,62,84,CEA,BR,Sualisson
+127,4,09:15,62,84,FRA,ER,Cassiano
+128,4,09:24,62,84,CEA,LL_Pts_C,Felipe
+129,4,09:24,62,83,CEA,LL_Pts_C,Felipe
+130,4,09:24,62,82,CEA,FR,Felipe
+131,4,09:24,62,82,FRA,FC,Isaac
+132,4,09:39,62,82,CEA,RD,Rashaun
+133,4,09:39,62,82,FRA,3_Pts_T,Isaac
+134,3,00:00,62,82, ,fim_quarto,
+135,3,00:03,62,82,CEA,2_Pts_C,Victor
+136,3,00:03,62,80,CEA,AS,Rashaun
+137,3,00:06,62,80,CEA,BR,Rashaun
+138,3,00:06,62,80,FRA,ER,Bruno
+139,3,00:06,62,80,FRA,substituicao_sai,Kurtz
+140,3,00:06,62,80,FRA,substituicao_entra,Antonio
+141,3,00:06,62,80,FRA,LL_Pts_T,Bruno
+142,3,00:06,62,80,CEA,FC_T,Rashaun
+143,3,00:06,62,80,FRA,BR,Franca
+144,3,00:06,62,80,CEA,ER,Rashaun
+145,3,00:12,62,80,CEA,RD,Felipe
+146,3,00:12,62,80,FRA,LL_Pts_T,Cassiano
+147,3,00:12,62,80,FRA,LL_Pts_C,Cassiano
+148,3,00:12,61,80,CEA,substituicao_entra,Victor
+149,3,00:12,61,80,CEA,substituicao_sai,Duda Machado
+150,3,00:12,61,80,FRA,FR,Cassiano
+151,3,00:12,61,80,CEA,FC,Duda Machado
+152,3,00:31,61,80,CEA,2_Pts_C,Felipe
+153,3,00:49,61,78,FRA,LL_Pts_C,Cassiano
+154,3,00:49,60,78,FRA,LL_Pts_C,Cassiano
+155,3,00:49,59,78,FRA,FR,Cassiano
+156,3,00:49,59,78,CEA,FC,Duda Machado
+157,3,00:54,59,78,FRA,substituicao_entra,Bruno
+158,3,00:54,59,78,FRA,substituicao_sai,Antonio
+159,3,00:54,59,78,CEA,LL_Pts_C,Rashaun
+160,3,00:54,59,77,CEA,LL_Pts_C,Rashaun
+161,3,00:54,59,76,FRA,substituicao_sai,Schneider
+162,3,00:54,59,76,FRA,substituicao_entra,Matheus
+163,3,00:54,59,76,CEA,FR,Rashaun
+164,3,00:54,59,76,FRA,FC,Cassiano
+165,3,00:57,59,76,CEA,BR,Rashaun
+166,3,00:57,59,76,FRA,ER,Cassiano
+167,3,01:10,59,76,CEA,EN,Sualisson
+168,3,01:10,59,74,CEA,AS,Duda Machado
+169,3,01:24,59,74,CEA,substituicao_entra,Duda Machado
+170,3,01:24,59,74,CEA,substituicao_sai,Davi
+171,3,01:24,59,74,CEA,RO,Basquete Cearense
+172,3,01:24,59,74,CEA,2_Pts_T,Toledo
+173,3,01:26,59,74,CEA,RO,Toledo
+174,3,01:26,59,74,CEA,2_Pts_T,Rashaun
+175,3,01:34,59,74,CEA,RD,Toledo
+176,3,01:34,59,74,FRA,2_Pts_T,Schneider
+177,3,01:40,59,74,FRA,RO,Schneider
+178,3,01:40,59,74,CEA,TO,Sualisson
+179,3,01:40,59,74,FRA,2_Pts_T,Kurtz
+180,3,01:53,59,74,CEA,2_Pts_C,Toledo
+181,3,02:14,59,72,FRA,2_Pts_C,Isaac
+182,3,02:29,57,72,FRA,RD,Kurtz
+183,3,02:29,57,72,CEA,3_Pts_T,Toledo
+184,3,02:45,57,72,CEA,BR,Basquete Cearense
+185,3,02:45,57,72,FRA,ER,Isaac
+186,3,02:49,57,72,CEA,LL_Pts_C,Toledo
+187,3,02:49,57,71,CEA,LL_Pts_T,Toledo
+188,3,02:49,57,71,CEA,FR,Toledo
+189,3,02:49,57,71,FRA,FC,Cassiano
+190,3,02:50,57,71,CEA,RD,Toledo
+191,3,02:50,57,71,FRA,2_Pts_T,Isaac
+192,3,02:57,57,71,FRA,BR,Isaac
+193,3,02:57,57,71,CEA,ER,Sualisson
+194,3,03:04,57,71,FRA,LL_Pts_C,Kurtz
+195,3,03:04,56,71,FRA,FR,Kurtz
+196,3,03:04,56,71,CEA,FC,Rashaun
+197,3,03:04,56,71,FRA,2_Pts_C,Kurtz
+198,3,03:04,54,71,FRA,AS,Cassiano
+199,3,03:04,54,71,CEA,3_Pts_C,Davi
+200,3,03:04,54,68,CEA,AS,Rashaun
+201,3,03:16,54,68,CEA,RO,Rashaun
+202,3,03:16,54,68,CEA,3_Pts_T,Davi
+203,3,03:29,54,68,CEA,RD,Rashaun
+204,3,03:29,54,68,FRA,3_Pts_T,Antonio
+205,3,03:51,54,68,CEA,2_Pts_C,Felipe
+206,3,04:01,54,66,CEA,FR,Rashaun
+207,3,04:01,54,66,FRA,FC,Schneider
+208,3,04:20,54,66,FRA,LL_Pts_C,Kurtz
+209,3,04:20,53,66,CEA,substituicao_sai,Rômulo
+210,3,04:20,53,66,CEA,substituicao_entra,Toledo
+211,3,04:20,53,66,FRA,FR,Kurtz
+212,3,04:20,53,66,CEA,FC,Rômulo
+213,3,04:20,53,66,FRA,EN,Kurtz
+214,3,04:20,51,66,FRA,AS,Cassiano
+215,3,04:36,51,66,CEA,2_Pts_C,Davi
+216,3,04:58,51,64,CEA,FR,Davi
+217,3,04:58,51,64,FRA,FC,Kurtz
+218,3,04:58,51,64,CEA,RD,Davi
+219,3,04:58,51,64,FRA,3_Pts_T,Schneider
+220,3,05:15,51,64,FRA,RO,Franca
+221,3,05:15,51,64,FRA,2_Pts_T,Isaac
+222,3,05:21,51,64,CEA,substituicao_sai,Toledo
+223,3,05:21,51,64,CEA,substituicao_entra,Sualisson
+224,3,05:21,51,64,FRA,substituicao_entra,Isaac
+225,3,05:21,51,64,FRA,substituicao_entra,Cassiano
+226,3,05:21,51,64,FRA,substituicao_sai,Bruno
+227,3,05:21,51,64,FRA,substituicao_sai,Matheus
+228,3,05:21,51,64,FRA,RO,Franca
+229,3,05:21,51,64,CEA,TO,Rômulo
+230,3,05:21,51,64,FRA,2_Pts_T,Antonio
+231,3,05:38,51,64,CEA,2_Pts_C,Davi
+232,3,05:41,51,62,CEA,RO,Davi
+233,3,05:41,51,62,CEA,2_Pts_T,Felipe
+234,3,05:44,51,62,CEA,BR,Felipe
+235,3,05:44,51,62,FRA,ER,Matheus
+236,3,05:59,51,62,FRA,RD,Kurtz
+237,3,05:59,51,62,CEA,LL_Pts_T,Toledo
+238,3,05:59,51,62,CEA,LL_Pts_T,Toledo
+239,3,05:59,51,62,CEA,substituicao_entra,Rashaun
+240,3,05:59,51,62,CEA,substituicao_sai,Audrei
+241,3,05:59,51,62,CEA,FR,Toledo
+242,3,05:59,51,62,FRA,FC,Matheus
+243,3,05:59,51,62,CEA,RO,Toledo
+244,3,05:59,51,62,CEA,2_Pts_T,Rômulo
+245,3,06:17,51,62,CEA,RD,Toledo
+246,3,06:17,51,62,FRA,LL_Pts_T,Schneider
+247,3,06:17,51,62,FRA,LL_Pts_T,Schneider
+248,3,06:17,51,62,FRA,LL_Pts_C,Schneider
+249,3,06:17,50,62,FRA,FR,Schneider
+250,3,06:17,50,62,CEA,FC,Audrei
+251,3,06:31,50,62,FRA,BR,Franca
+252,3,06:31,50,62,CEA,ER,Felipe
+253,3,06:54,50,62,CEA,BR,Felipe
+254,3,06:54,50,62,FRA,ER,Kurtz
+255,3,07:03,50,62,FRA,FR,Kurtz
+256,3,07:03,50,62,CEA,FC,Rômulo
+257,3,07:13,50,62,CEA,2_Pts_C,Toledo
+258,3,07:31,50,60,FRA,2_Pts_C,Schneider
+259,3,07:43,48,60,CEA,substituicao_entra,Rômulo
+260,3,07:43,48,60,CEA,substituicao_sai,Léo Waszkiewicz
+261,3,07:43,48,60,FRA,FR,Kurtz
+262,3,07:43,48,60,CEA,FC,Léo Waszkiewicz
+263,3,07:49,48,60,FRA,FR,Kurtz
+264,3,07:49,48,60,CEA,FC,Léo Waszkiewicz
+265,3,08:12,48,60,CEA,2_Pts_C,Léo Waszkiewicz
+266,3,08:12,48,58,CEA,AS,Davi
+267,3,08:19,48,58,CEA,BR,Audrei
+268,3,08:19,48,58,FRA,ER,Schneider
+269,3,08:33,48,58,CEA,2_Pts_C,Audrei
+270,3,08:37,48,56,CEA,FR,Audrei
+271,3,08:37,48,56,FRA,FC,Bruno
+272,3,08:46,48,56,CEA,RD,Léo Waszkiewicz
+273,3,08:46,48,56,FRA,2_Pts_T,Matheus
+274,3,09:11,48,56,CEA,3_Pts_C,Davi
+275,3,09:28,48,53,FRA,2_Pts_C,Bruno
+276,3,09:46,46,53,CEA,3_Pts_C,Felipe
+277,3,09:46,46,50,CEA,AS,Davi
+278,2,00:00,46,50, ,fim_quarto,
+279,2,00:05,46,50,CEA,2_Pts_T,Rashaun
+280,2,00:18,46,50,CEA,tempo_tecnico,Basquete Cearense
+281,2,00:18,46,50,FRA,substituicao_sai,Kurtz
+282,2,00:18,46,50,FRA,substituicao_entra,João Pedro
+283,2,00:18,46,50,FRA,AS,Bruno
+284,2,00:18,46,50,FRA,LL_Pts_C,Kurtz
+285,2,00:18,45,50,FRA,LL_Pts_T,Kurtz
+286,2,00:18,45,50,FRA,substituicao_entra,Cauê
+287,2,00:18,45,50,FRA,substituicao_sai,Antonio
+288,2,00:18,45,50,FRA,FR,Kurtz
+289,2,00:18,45,50,CEA,FC,Felipe
+290,2,00:38,45,50,CEA,LL_Pts_C,Toledo
+291,2,00:38,45,49,CEA,AS,Duda Machado
+292,2,00:38,45,49,CEA,LL_Pts_C,Toledo
+293,2,00:38,45,48,CEA,FR,Toledo
+294,2,00:38,45,48,FRA,FC,Kurtz
+295,2,00:56,45,48,CEA,substituicao_sai,Audrei
+296,2,00:56,45,48,CEA,substituicao_entra,Felipe
+297,2,00:58,45,48,CEA,tempo_tecnico,Basquete Cearense
+298,2,00:58,45,48,FRA,2_Pts_C,Kurtz
+299,2,01:00,43,48,FRA,RO,Kurtz
+300,2,01:00,43,48,FRA,3_Pts_T,Bruno
+301,2,01:07,43,48,FRA,RD,Thiaguinho
+302,2,01:07,43,48,CEA,2_Pts_T,Toledo
+303,2,01:12,43,48,CEA,FR,Duda Machado
+304,2,01:12,43,48,FRA,FC,Antonio
+305,2,01:20,43,48,FRA,2_Pts_C,Antonio
+306,2,01:25,41,48,FRA,BR,Antonio
+307,2,01:25,41,48,CEA,ER,Duda Machado
+308,2,01:39,41,48,CEA,substituicao_entra,Duda Machado
+309,2,01:39,41,48,CEA,substituicao_sai,Victor
+310,2,01:39,41,48,CEA,RD,Basquete Cearense
+311,2,01:39,41,48,FRA,2_Pts_T,Isaac
+312,2,01:53,41,48,CEA,substituicao_entra,Victor
+313,2,01:53,41,48,CEA,substituicao_sai,Léo Waszkiewicz
+314,2,01:53,41,48,FRA,BR,Franca
+315,2,01:53,41,48,CEA,ER,Rashaun
+316,2,02:14,41,48,FRA,LL_Pts_C,Isaac
+317,2,02:14,40,48,FRA,LL_Pts_T,Isaac
+318,2,02:14,40,48,FRA,FR,Isaac
+319,2,02:14,40,48,CEA,FC,Davi
+320,2,02:22,40,48,FRA,RD,Antonio
+321,2,02:22,40,48,CEA,2_Pts_T,Audrei
+322,2,02:41,40,48,FRA,2_Pts_C,Kurtz
+323,2,02:53,38,48,CEA,substituicao_entra,Rashaun
+324,2,02:53,38,48,CEA,substituicao_sai,Duda Machado
+325,2,02:53,38,48,CEA,ER,Audrei
+326,2,02:53,38,48,CEA,BR,Audrei
+327,2,02:53,38,48,FRA,ER,Thiaguinho
+328,2,03:04,38,48,FRA,RD,Thiaguinho
+329,2,03:04,38,48,CEA,3_Pts_T,Duda Machado
+330,2,03:17,38,48,CEA,RD,Toledo
+331,2,03:17,38,48,FRA,2_Pts_T,Kurtz
+332,2,03:26,38,48,FRA,FR,Isaac
+333,2,03:26,38,48,CEA,FC,Duda Machado
+334,2,03:38,38,48,CEA,2_Pts_C,Audrei
+335,2,03:38,38,46,CEA,AS,Davi
+336,2,03:43,38,46,CEA,BR,Toledo
+337,2,03:43,38,46,FRA,ER,Bruno
+338,2,04:02,38,46,CEA,2_Pts_C,Duda Machado
+339,2,04:14,38,44,FRA,substituicao_entra,Antonio
+340,2,04:14,38,44,FRA,substituicao_sai,Schneider
+341,2,04:14,38,44,FRA,ER,Bruno
+342,2,04:29,38,44,FRA,substituicao_entra,Thiaguinho
+343,2,04:29,38,44,FRA,substituicao_sai,Nezinho
+344,2,04:29,38,44,CEA,ER,Toledo
+345,2,04:34,38,44,CEA,RD,Toledo
+346,2,04:34,38,44,FRA,3_Pts_T,Schneider
+347,2,04:57,38,44,CEA,3_Pts_C,Duda Machado
+348,2,04:57,38,41,CEA,AS,Toledo
+349,2,05:02,38,41,CEA,FR,Davi
+350,2,05:02,38,41,FRA,FC,Isaac
+351,2,05:21,38,41,FRA,LL_Pts_C,Kurtz
+352,2,05:21,37,41,FRA,2_Pts_C,Kurtz
+353,2,05:21,35,41,FRA,FR,Kurtz
+354,2,05:21,35,41,CEA,FC,Léo Waszkiewicz
+355,2,05:21,35,41,FRA,RO,Kurtz
+356,2,05:21,35,41,FRA,3_Pts_T,Nezinho
+357,2,05:37,35,41,FRA,substituicao_entra,Bruno
+358,2,05:37,35,41,FRA,substituicao_sai,Cauê
+359,2,05:39,35,41,FRA,tempo_tecnico,Franca
+360,2,05:39,35,41,CEA,3_Pts_C,Audrei
+361,2,05:39,35,38,CEA,AS,Davi
+362,2,05:50,35,38,FRA,EN,Kurtz
+363,2,05:50,33,38,FRA,AS,Schneider
+364,2,06:05,33,38,CEA,2_Pts_C,Toledo
+365,2,06:09,33,36,CEA,FR,Toledo
+366,2,06:09,33,36,FRA,FC,Nezinho
+367,2,06:18,33,36,CEA,substituicao_sai,Rashaun
+368,2,06:18,33,36,CEA,substituicao_entra,Duda Machado
+369,2,06:18,33,36,CEA,substituicao_entra,Davi
+370,2,06:18,33,36,CEA,substituicao_sai,Duda Machado
+371,2,06:18,33,36,FRA,ER,Schneider
+372,2,06:25,33,36,CEA,2_Pts_C,Audrei
+373,2,06:25,33,34,CEA,AS,Duda Machado
+374,2,06:42,33,34,FRA,3_Pts_C,Schneider
+375,2,06:42,30,34,FRA,AS,Isaac
+376,2,06:50,30,34,FRA,RD,Cauê
+377,2,06:50,30,34,CEA,3_Pts_T,Duda Machado
+378,2,07:07,30,34,FRA,2_Pts_C,Kurtz
+379,2,07:15,28,34,FRA,FR,Cauê
+380,2,07:15,28,34,CEA,FC,Toledo
+381,2,07:17,28,34,FRA,RD,Nezinho
+382,2,07:17,28,34,CEA,2_Pts_T,Duda Machado
+383,2,07:30,28,34,FRA,ER,Kurtz
+384,2,07:48,28,34,CEA,EN,Léo Waszkiewicz
+385,2,08:03,28,32,CEA,BR,Basquete Cearense
+386,2,08:03,28,32,FRA,ER,Nezinho
+387,2,08:13,28,32,FRA,FR,Cauê
+388,2,08:13,28,32,CEA,FC,Rashaun
+389,2,08:32,28,32,CEA,2_Pts_C,Rashaun
+390,2,08:48,28,30,CEA,RD,Basquete Cearense
+391,2,08:48,28,30,FRA,3_Pts_T,Nezinho
+392,2,09:07,28,30,CEA,2_Pts_C,Duda Machado
+393,2,09:17,28,28,CEA,BR,Basquete Cearense
+394,2,09:17,28,28,FRA,ER,Schneider
+395,2,09:32,28,28,CEA,2_Pts_C,Toledo
+396,2,09:32,28,26,CEA,AS,Duda Machado
+397,2,09:42,28,26,FRA,2_Pts_C,Cauê
+398,2,09:42,26,26,FRA,AS,Isaac
+399,1,00:00,26,26, ,fim_quarto,
+400,1,00:00,26,26,FRA,EN,Schneider
+401,1,00:04,24,26,FRA,BR,Schneider
+402,1,00:04,24,26,CEA,ER,Audrei
+403,1,00:11,24,26,FRA,substituicao_entra,Cauê
+404,1,00:11,24,26,FRA,substituicao_sai,Bruno
+405,1,00:11,24,26,CEA,substituicao_entra,Audrei
+406,1,00:11,24,26,CEA,substituicao_sai,Felipe
+407,1,00:11,24,26,CEA,FR,Davi
+408,1,00:11,24,26,FRA,FC,Antonio
+409,1,00:22,24,26,CEA,RD,Léo Waszkiewicz
+410,1,00:22,24,26,FRA,2_Pts_T,Antonio
+411,1,00:39,24,26,CEA,3_Pts_C,Duda Machado
+412,1,00:51,24,23,FRA,2_Pts_C,Schneider
+413,1,00:55,22,23,FRA,BR,Schneider
+414,1,00:55,22,23,CEA,ER,Duda Machado
+415,1,01:02,22,23,FRA,LL_Pts_C,Schneider
+416,1,01:02,21,23,FRA,LL_Pts_C,Schneider
+417,1,01:58,20,23,FRA,FR,Schneider
+418,1,01:58,20,23,CEA,FC,Duda Machado
+419,1,02:02,20,23,FRA,RD,Schneider
+420,1,02:02,20,23,CEA,3_Pts_T,Felipe
+421,1,02:02,20,23,FRA,2_Pts_C,Antonio
+422,1,02:02,18,23,CEA,3_Pts_C,Rashaun
+423,1,02:02,18,20,CEA,AS,Felipe
+424,1,02:02,18,20,CEA,FR,Davi
+425,1,02:02,18,20,FRA,FC,Schneider
+426,1,02:14,18,20,FRA,2_Pts_C,Antonio
+427,1,02:14,16,20,FRA,AS,Bruno
+428,1,02:29,16,20,CEA,substituicao_entra,Felipe
+429,1,02:29,16,20,CEA,substituicao_entra,Léo Waszkiewicz
+430,1,02:29,16,20,CEA,substituicao_sai,Rômulo
+431,1,02:29,16,20,CEA,substituicao_sai,Toledo
+432,1,02:29,16,20,FRA,substituicao_entra,Matheus
+433,1,02:29,16,20,FRA,substituicao_sai,Nezinho
+434,1,02:29,16,20,CEA,2_Pts_C,Rômulo
+435,1,02:29,16,18,CEA,RO,Rômulo
+436,1,02:29,16,18,CEA,2_Pts_T,Rômulo
+437,1,02:51,16,18,FRA,3_Pts_C,Bruno
+438,1,02:51,13,18,FRA,AS,Nezinho
+439,1,03:00,13,18,FRA,RD,Antonio
+440,1,03:00,13,18,CEA,3_Pts_T,Rashaun
+441,1,03:19,13,18,FRA,2_Pts_C,João Pedro
+442,1,03:19,11,18,FRA,AS,Nezinho
+443,1,03:29,11,18,CEA,2_Pts_C,Rômulo
+444,1,03:48,11,16,FRA,3_Pts_C,Antonio
+445,1,03:48,8,16,FRA,AS,Nezinho
+446,1,04:03,8,16,CEA,3_Pts_C,Rashaun
+447,1,04:03,8,13,CEA,AS,Duda Machado
+448,1,04:18,8,13,FRA,2_Pts_C,Bruno
+449,1,04:42,6,13,FRA,tempo_tecnico,Franca
+450,1,04:42,6,13,CEA,2_Pts_C,Rômulo
+451,1,04:42,6,11,CEA,AS,Duda Machado
+452,1,04:52,6,11,CEA,RD,Rômulo
+453,1,04:52,6,11,FRA,2_Pts_T,João Pedro
+454,1,05:10,6,11,CEA,substituicao_sai,Léo Waszkiewicz
+455,1,05:10,6,11,CEA,substituicao_entra,Rômulo
+456,1,05:10,6,11,CEA,substituicao_entra,Duda Machado
+457,1,05:10,6,11,CEA,substituicao_sai,Audrei
+458,1,05:10,6,11,FRA,substituicao_sai,Kurtz
+459,1,05:10,6,11,FRA,substituicao_entra,João Pedro
+460,1,05:10,6,11,FRA,RD,Franca
+461,1,05:10,6,11,CEA,2_Pts_T,Rashaun
+462,1,05:17,6,11,CEA,RD,Audrei
+463,1,05:17,6,11,FRA,3_Pts_T,Nezinho
+464,1,05:28,6,11,FRA,RD,Kurtz
+465,1,05:28,6,11,CEA,2_Pts_T,Léo Waszkiewicz
+466,1,05:40,6,11,CEA,RD,Léo Waszkiewicz
+467,1,05:40,6,11,FRA,3_Pts_T,Schneider
+468,1,05:47,6,11,FRA,substituicao_sai,Isaac
+469,1,05:47,6,11,FRA,substituicao_entra,Schneider
+470,1,05:47,6,11,FRA,FR,Isaac
+471,1,05:47,6,11,CEA,FC,Audrei
+472,1,06:07,6,11,CEA,2_Pts_C,Léo Waszkiewicz
+473,1,06:07,6,9,CEA,AS,Davi
+474,1,06:24,6,9,FRA,LL_Pts_C,Kurtz
+475,1,06:24,5,9,FRA,LL_Pts_T,Kurtz
+476,1,06:24,5,9,FRA,FR,Kurtz
+477,1,06:24,5,9,CEA,FC,Audrei
+478,1,06:42,5,9,CEA,2_Pts_C,Rashaun
+479,1,06:57,5,7,FRA,ER,Kurtz
+480,1,07:08,5,7,FRA,RO,Antonio
+481,1,07:08,5,7,FRA,3_Pts_T,Bruno
+482,1,07:18,5,7,FRA,RD,Bruno
+483,1,07:18,5,7,CEA,2_Pts_T,Audrei
+484,1,07:33,5,7,CEA,BR,Audrei
+485,1,07:33,5,7,FRA,ER,Antonio
+486,1,07:59,5,7,CEA,LL_Pts_C,Léo Waszkiewicz
+487,1,07:59,5,6,CEA,LL_Pts_C,Léo Waszkiewicz
+488,1,07:59,5,5,CEA,FR,Léo Waszkiewicz
+489,1,07:59,5,5,FRA,FC,Kurtz
+490,1,08:15,5,5,FRA,3_Pts_C,Isaac
+491,1,08:15,2,5,FRA,AS,Antonio
+492,1,08:28,2,5,CEA,3_Pts_C,Rashaun
+493,1,08:52,2,2,FRA,2_Pts_C,Bruno
+494,1,09:12,0,2,CEA,2_Pts_C,Léo Waszkiewicz
+495,1,09:17,0,0,CEA,RO,Léo Waszkiewicz
+496,1,09:17,0,0,CEA,2_Pts_T,Audrei
+497,1,09:29,0,0,CEA,RO,Toledo
+498,1,09:29,0,0,CEA,2_Pts_T,Davi
+499,1,09:44,0,0,CEA,RO,Basquete Cearense
+500,1,09:44,0,0,CEA,3_Pts_T,Davi
+501,1,10:00,0,0,CEA,substituicao_entra,Audrei
+502,1,10:00,0,0,CEA,substituicao_entra,Léo Waszkiewicz
+503,1,10:00,0,0,CEA,substituicao_entra,Rashaun
+504,1,10:00,0,0,CEA,substituicao_entra,Toledo
+505,1,10:00,0,0,CEA,substituicao_entra,Davi
+506,1,10:00,0,0,FRA,substituicao_entra,Antonio
+507,1,10:00,0,0,FRA,substituicao_entra,Kurtz
+508,1,10:00,0,0,FRA,substituicao_entra,Nezinho
+509,1,10:00,0,0,FRA,substituicao_entra,Isaac
+510,1,10:00,0,0,FRA,substituicao_entra,Bruno

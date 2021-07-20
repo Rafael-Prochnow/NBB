@@ -1,0 +1,536 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,79,84, ,fim_partida,
+1,5,00:14,79,84,BAU,RD,Alex Garcia
+2,5,00:14,79,84,MIN,3_Pts_T,Coelho
+3,5,00:17,79,84,BAU,LL_Pts_C,Alex Garcia
+4,5,00:17,79,83,BAU,LL_Pts_T,Alex Garcia
+5,5,00:17,79,83,BAU,substituicao_entra,Gui Deodato
+6,5,00:17,79,83,BAU,substituicao_sai,Jefferson W
+7,5,00:17,79,83,MIN,substituicao_sai,Ansaloni
+8,5,00:17,79,83,MIN,substituicao_entra,Alex
+9,5,00:17,79,83,BAU,FR,Alex Garcia
+10,5,00:17,79,83,MIN,FC,Ansaloni
+11,5,00:22,79,83,BAU,RD,Alex Garcia
+12,5,00:22,79,83,MIN,2_Pts_T,Shilton
+13,5,00:33,79,83,MIN,tempo_tecnico,Minas
+14,5,00:33,79,83,BAU,3_Pts_C,Jefferson W
+15,5,00:54,79,80,BAU,RD,R Fischer
+16,5,00:54,79,80,MIN,3_Pts_T,Collum
+17,5,01:04,79,80,MIN,RD,Shilton
+18,5,01:04,79,80,BAU,3_Pts_T,Jefferson W
+19,5,01:21,79,80,MIN,2_Pts_C,Ansaloni
+20,5,01:21,77,80,MIN,AS,Siqueira
+21,5,01:33,77,80,MIN,FR,Collum
+22,5,01:33,77,80,BAU,FC,Larry
+23,5,01:44,77,80,BAU,LL_Pts_C,R Fischer
+24,5,01:44,77,79,BAU,LL_Pts_C,R Fischer
+25,5,01:44,77,78,MIN,substituicao_entra,Ansaloni
+26,5,01:44,77,78,MIN,substituicao_sai,Alex
+27,5,01:44,77,78,BAU,FR,R Fischer
+28,5,01:44,77,78,MIN,FC,Coelho
+29,5,01:52,77,78,BAU,RD,Hettsheimeir
+30,5,01:52,77,78,MIN,2_Pts_T,Coelho
+31,5,02:12,77,78,BAU,3_Pts_C,Larry
+32,5,02:12,77,75,BAU,AS,R Fischer
+33,5,02:24,77,75,BAU,RD,Alex Garcia
+34,5,02:24,77,75,MIN,3_Pts_T,Collum
+35,5,02:43,77,75,MIN,RD,Collum
+36,5,02:43,77,75,BAU,2_Pts_T,Alex Garcia
+37,5,02:49,77,75,BAU,RD,Hettsheimeir
+38,5,02:49,77,75,BAU,TO,Hettsheimeir
+39,5,02:49,77,75,MIN,2_Pts_T,Alex
+40,5,02:59,77,75,MIN,RO,Coelho
+41,5,02:59,77,75,MIN,2_Pts_T,Shilton
+42,5,03:22,77,75,MIN,BR,Minas
+43,5,03:22,77,75,BAU,ER,R Fischer
+44,5,03:38,77,75,MIN,2_Pts_C,Siqueira
+45,5,03:38,75,75,MIN,AS,Coelho
+46,5,03:43,75,75,MIN,RD,Alex
+47,5,03:43,75,75,BAU,3_Pts_T,Jefferson W
+48,5,03:53,75,75,BAU,FR,Alex Garcia
+49,5,03:53,75,75,MIN,FC,Coelho
+50,5,03:59,75,75,BAU,RO,Bauru
+51,5,03:59,75,75,BAU,3_Pts_T,R Fischer
+52,5,04:20,75,75,MIN,2_Pts_C,Coelho
+53,5,04:39,73,75,BAU,2_Pts_C,Hettsheimeir
+54,5,04:39,73,73,BAU,AS,Jefferson W
+55,5,05:00,73,73,MIN,substituicao_entra,Siqueira
+56,5,05:00,73,73,MIN,substituicao_entra,Collum
+57,5,05:00,73,73,MIN,substituicao_entra,Coelho
+58,5,05:00,73,73,MIN,substituicao_entra,Shilton
+59,5,05:00,73,73,MIN,substituicao_entra,Alex
+60,5,05:00,73,73,BAU,substituicao_entra,Jefferson W
+61,5,05:00,73,73,BAU,substituicao_sai,Gui Deodato
+62,5,05:00,73,73,BAU,substituicao_entra,Hettsheimeir
+63,5,05:00,73,73,BAU,substituicao_entra,Alex Garcia
+64,5,05:00,73,73,BAU,substituicao_entra,Gui Deodato
+65,5,05:00,73,73,BAU,substituicao_entra,R Fischer
+66,5,05:00,73,73,BAU,substituicao_entra,Larry
+67,5,05:00,73,73,BAU,substituicao_sai,Hettsheimeir
+68,5,05:00,73,73,BAU,substituicao_sai,Alex Garcia
+69,5,05:00,73,73,BAU,substituicao_sai,Gui Deodato
+70,5,05:00,73,73,BAU,substituicao_sai,R Fischer
+71,5,05:00,73,73,BAU,substituicao_sai,Jefferson W
+72,5,05:00,73,73,MIN,substituicao_sai,Siqueira
+73,5,05:00,73,73,MIN,substituicao_sai,Ansaloni
+74,5,05:00,73,73,MIN,substituicao_sai,Coelho
+75,5,05:00,73,73,MIN,substituicao_sai,Shilton
+76,5,05:00,73,73,MIN,substituicao_sai,Alex
+77,4,00:00,73,73, ,fim_quarto,
+78,4,00:01,73,73,MIN,substituicao_sai,Collum
+79,4,00:01,73,73,MIN,substituicao_entra,Siqueira
+80,4,00:01,73,73,MIN,substituicao_sai,Irigoyen
+81,4,00:01,73,73,MIN,substituicao_entra,Shilton
+82,4,00:01,73,73,BAU,substituicao_sai,Murilo
+83,4,00:01,73,73,BAU,substituicao_entra,Gui Deodato
+84,4,00:01,73,73,BAU,substituicao_entra,R Fischer
+85,4,00:01,73,73,BAU,substituicao_sai,Larry
+86,4,00:02,73,73,BAU,tempo_tecnico,Bauru
+87,4,00:02,73,73,MIN,LL_Pts_C,Alex
+88,4,00:02,72,73,MIN,LL_Pts_T,Alex
+89,4,00:02,72,73,MIN,FR,Alex
+90,4,00:02,72,73,BAU,FC,Jefferson W
+91,4,00:03,72,73,MIN,substituicao_entra,Irigoyen
+92,4,00:03,72,73,MIN,substituicao_sai,Shilton
+93,4,00:03,72,73,BAU,substituicao_entra,Murilo
+94,4,00:03,72,73,BAU,substituicao_sai,R Fischer
+95,4,00:03,72,73,MIN,tempo_tecnico,Minas
+96,4,00:03,72,73,BAU,3_Pts_C,R Fischer
+97,4,00:03,72,70,BAU,AS,Alex Garcia
+98,4,00:07,72,70,MIN,RD,Coelho
+99,4,00:07,72,70,BAU,3_Pts_T,Jefferson W
+100,4,00:15,72,70,BAU,tempo_tecnico,Bauru
+101,4,00:15,72,70,MIN,2_Pts_C,Coelho
+102,4,00:28,70,70,MIN,BR,Shilton
+103,4,00:28,70,70,BAU,ER,Larry
+104,4,00:33,70,70,BAU,RO,Larry
+105,4,00:33,70,70,BAU,3_Pts_T,Jefferson W
+106,4,00:51,70,70,BAU,RD,Alex Garcia
+107,4,00:51,70,70,MIN,3_Pts_T,Collum
+108,4,01:15,70,70,MIN,RD,Shilton
+109,4,01:15,70,70,BAU,3_Pts_T,Alex Garcia
+110,4,01:38,70,70,BAU,RD,Jefferson W
+111,4,01:38,70,70,MIN,2_Pts_T,Alex
+112,4,01:45,70,70,MIN,BR,Coelho
+113,4,01:45,70,70,BAU,ER,R Fischer
+114,4,02:04,70,70,MIN,LL_Pts_C,Coelho
+115,4,02:04,69,70,MIN,2_Pts_C,Coelho
+116,4,02:04,67,70,MIN,FR,Coelho
+117,4,02:04,67,70,BAU,FC,R Fischer
+118,4,02:15,67,70,MIN,RD,Shilton
+119,4,02:15,67,70,BAU,3_Pts_T,Jefferson W
+120,4,02:25,67,70,BAU,RD,Hettsheimeir
+121,4,02:25,67,70,MIN,3_Pts_T,Coelho
+122,4,02:31,67,70,MIN,substituicao_entra,Ansaloni
+123,4,02:31,67,70,MIN,substituicao_sai,Siqueira
+124,4,02:48,67,70,BAU,3_Pts_C,Hettsheimeir
+125,4,02:48,67,67,BAU,AS,R Fischer
+126,4,03:06,67,67,MIN,2_Pts_C,Shilton
+127,4,03:37,65,67,BAU,2_Pts_C,Hettsheimeir
+128,4,03:54,65,65,BAU,RD,Bauru
+129,4,03:54,65,65,MIN,2_Pts_T,Siqueira
+130,4,03:59,65,65,MIN,BR,Alex
+131,4,03:59,65,65,BAU,ER,R Fischer
+132,4,04:22,65,65,MIN,2_Pts_C,Siqueira
+133,4,04:34,63,65,MIN,RO,Minas
+134,4,04:34,63,65,MIN,2_Pts_T,Alex
+135,4,04:51,63,65,MIN,tempo_tecnico,Minas
+136,4,04:51,63,65,BAU,3_Pts_C,Hettsheimeir
+137,4,04:58,63,62,BAU,BR,Larry
+138,4,04:58,63,62,MIN,ER,Siqueira
+139,4,05:04,63,62,MIN,BR,Siqueira
+140,4,05:04,63,62,BAU,ER,Alex Garcia
+141,4,05:12,63,62,BAU,FR,R Fischer
+142,4,05:12,63,62,MIN,FC,Siqueira
+143,4,05:24,63,62,BAU,RD,R Fischer
+144,4,05:24,63,62,MIN,3_Pts_T,Alex
+145,4,05:42,63,62,MIN,RD,Alex
+146,4,05:42,63,62,BAU,LL_Pts_T,R Fischer
+147,4,05:42,63,62,MIN,substituicao_entra,Shilton
+148,4,05:42,63,62,MIN,substituicao_sai,Ansaloni
+149,4,05:46,63,62,BAU,2_Pts_C,R Fischer
+150,4,05:46,63,60,BAU,FR,R Fischer
+151,4,05:46,63,60,MIN,FC,Ansaloni
+152,4,06:01,63,60,BAU,RD,Alex Garcia
+153,4,06:01,63,60,MIN,LL_Pts_T,Siqueira
+154,4,06:01,63,60,MIN,AS,Coelho
+155,4,06:01,63,60,MIN,LL_Pts_C,Siqueira
+156,4,06:01,62,60,MIN,FR,Siqueira
+157,4,06:01,62,60,BAU,FC,Jefferson W
+158,4,06:06,62,60,MIN,RD,Collum
+159,4,06:06,62,60,BAU,2_Pts_T,Alex Garcia
+160,4,06:29,62,60,BAU,tempo_tecnico,Bauru
+161,4,06:29,62,60,MIN,EN,Coelho
+162,4,06:41,60,60,MIN,substituicao_entra,Collum
+163,4,06:41,60,60,MIN,substituicao_sai,Irigoyen
+164,4,06:45,60,60,MIN,RO,Minas
+165,4,06:45,60,60,MIN,2_Pts_T,Siqueira
+166,4,06:57,60,60,BAU,2_Pts_C,R Fischer
+167,4,07:15,60,58,MIN,3_Pts_C,Alex
+168,4,07:15,57,58,MIN,AS,Siqueira
+169,4,07:36,57,58,BAU,2_Pts_C,Jefferson W
+170,4,08:01,57,56,MIN,EN,Ansaloni
+171,4,08:01,55,56,MIN,AS,Siqueira
+172,4,08:22,55,56,BAU,LL_Pts_C,Jefferson W
+173,4,08:22,55,55,BAU,AS,R Fischer
+174,4,08:22,55,55,BAU,LL_Pts_C,Jefferson W
+175,4,08:22,55,54,BAU,substituicao_entra,Hettsheimeir
+176,4,08:22,55,54,BAU,substituicao_sai,Murilo
+177,4,08:22,55,54,MIN,substituicao_entra,Alex
+178,4,08:22,55,54,MIN,substituicao_sai,Shilton
+179,4,08:22,55,54,BAU,FR,Jefferson W
+180,4,08:22,55,54,MIN,FC,Ansaloni
+181,4,08:29,55,54,MIN,3_Pts_C,Siqueira
+182,4,08:52,52,54,BAU,2_Pts_C,Alex Garcia
+183,4,09:01,52,52,BAU,RD,Murilo
+184,4,09:01,52,52,MIN,2_Pts_T,Shilton
+185,4,09:25,52,52,MIN,RD,Ansaloni
+186,4,09:25,52,52,BAU,3_Pts_T,Murilo
+187,4,09:45,52,52,BAU,RD,Alex Garcia
+188,4,09:45,52,52,MIN,3_Pts_T,Coelho
+189,3,00:00,52,52, ,fim_quarto,
+190,3,00:05,52,52,MIN,2_Pts_T,Ansaloni
+191,3,00:12,52,52,MIN,BR,Siqueira
+192,3,00:12,52,52,BAU,ER,R Fischer
+193,3,00:18,52,52,BAU,RD,R Fischer
+194,3,00:18,52,52,MIN,2_Pts_T,Ansaloni
+195,3,00:24,52,52,MIN,RO,Ansaloni
+196,3,00:24,52,52,MIN,2_Pts_T,Ansaloni
+197,3,00:39,52,52,BAU,LL_Pts_C,Jefferson W
+198,3,00:39,52,51,BAU,LL_Pts_T,Jefferson W
+199,3,00:39,52,51,MIN,substituicao_entra,Ansaloni
+200,3,00:39,52,51,MIN,substituicao_sai,Adyb
+201,3,00:39,52,51,BAU,FR,Jefferson W
+202,3,00:39,52,51,MIN,FC,Adyb
+203,3,00:48,52,51,BAU,substituicao_entra,R Fischer
+204,3,00:48,52,51,BAU,substituicao_sai,Alex Garcia
+205,3,00:48,52,51,MIN,substituicao_entra,Adyb
+206,3,00:48,52,51,MIN,substituicao_entra,Irigoyen
+207,3,00:48,52,51,MIN,substituicao_sai,Ansaloni
+208,3,00:48,52,51,MIN,substituicao_sai,Collum
+209,3,00:48,52,51,MIN,LL_Pts_C,Ansaloni
+210,3,00:48,51,51,MIN,LL_Pts_C,Ansaloni
+211,3,00:48,50,51,MIN,FR,Ansaloni
+212,3,00:48,50,51,BAU,FC,Jefferson W
+213,3,00:57,50,51,MIN,BR,Minas
+214,3,00:57,50,51,BAU,ER,Larry
+215,3,01:22,50,51,BAU,RD,Alex Garcia
+216,3,01:22,50,51,MIN,3_Pts_T,Collum
+217,3,01:35,50,51,BAU,substituicao_entra,Alex Garcia
+218,3,01:35,50,51,BAU,substituicao_sai,R Fischer
+219,3,01:35,50,51,BAU,LL_Pts_C,Larry
+220,3,01:35,50,50,BAU,LL_Pts_C,Larry
+221,3,01:35,50,49,BAU,FR,Larry
+222,3,01:35,50,49,MIN,FC,Siqueira
+223,3,01:54,50,49,MIN,3_Pts_C,Collum
+224,3,02:04,47,49,MIN,RO,Collum
+225,3,02:04,47,49,MIN,2_Pts_T,Shilton
+226,3,02:26,47,49,BAU,3_Pts_C,R Fischer
+227,3,02:43,47,46,BAU,RD,Jefferson W
+228,3,02:43,47,46,MIN,LL_Pts_T,Ansaloni
+229,3,02:43,47,46,MIN,LL_Pts_T,Ansaloni
+230,3,02:43,47,46,BAU,substituicao_entra,Larry
+231,3,02:43,47,46,BAU,substituicao_sai,Alex Garcia
+232,3,02:43,47,46,MIN,substituicao_entra,Siqueira
+233,3,02:43,47,46,MIN,substituicao_sai,Alex
+234,3,02:43,47,46,MIN,FR,Ansaloni
+235,3,02:43,47,46,BAU,FC,Murilo
+236,3,02:51,47,46,MIN,RD,Collum
+237,3,02:51,47,46,BAU,2_Pts_T,R Fischer
+238,3,03:14,47,46,BAU,substituicao_entra,Alex Garcia
+239,3,03:14,47,46,BAU,substituicao_sai,Hettsheimeir
+240,3,03:14,47,46,BAU,substituicao_entra,Jefferson W
+241,3,03:14,47,46,BAU,substituicao_sai,Larry
+242,3,03:14,47,46,BAU,LL_Pts_C,Hettsheimeir
+243,3,03:14,47,45,BAU,LL_Pts_C,Hettsheimeir
+244,3,03:14,47,44,MIN,substituicao_entra,Ansaloni
+245,3,03:14,47,44,MIN,substituicao_sai,Adyb
+246,3,03:14,47,44,BAU,FR,Hettsheimeir
+247,3,03:14,47,44,MIN,FC_A,Coelho
+248,3,03:27,47,44,MIN,LL_Pts_T,Shilton
+249,3,03:27,47,44,MIN,LL_Pts_T,Shilton
+250,3,03:27,47,44,MIN,FR,Shilton
+251,3,03:27,47,44,BAU,FC,R Fischer
+252,3,03:48,47,44,MIN,LL_Pts_C,Collum
+253,3,03:48,46,44,BAU,FC_T,Hettsheimeir
+254,3,03:53,46,44,MIN,RO,Minas
+255,3,03:53,46,44,MIN,2_Pts_T,Collum
+256,3,04:01,46,44,BAU,substituicao_entra,Murilo
+257,3,04:01,46,44,BAU,substituicao_sai,Jefferson W
+258,3,04:01,46,44,BAU,substituicao_entra,Gui Deodato
+259,3,04:01,46,44,BAU,substituicao_sai,Alex Garcia
+260,3,04:01,46,44,MIN,FR,Alex
+261,3,04:01,46,44,BAU,FC,Alex Garcia
+262,3,04:01,46,44,BAU,FR,Alex Garcia
+263,3,04:01,46,44,MIN,FC,Alex
+264,3,04:17,46,44,MIN,RD,Collum
+265,3,04:17,46,44,BAU,2_Pts_T,Hettsheimeir
+266,3,04:26,46,44,BAU,RD,Jefferson W
+267,3,04:26,46,44,MIN,2_Pts_T,Adyb
+268,3,04:31,46,44,MIN,RD,Shilton
+269,3,04:31,46,44,BAU,2_Pts_T,Larry
+270,3,04:37,46,44,BAU,BR,Bauru
+271,3,04:37,46,44,MIN,ER,Alex
+272,3,05:01,46,44,BAU,2_Pts_C,Larry
+273,3,05:05,46,42,BAU,RO,Larry
+274,3,05:05,46,42,BAU,3_Pts_T,Hettsheimeir
+275,3,05:06,46,42,BAU,FR,R Fischer
+276,3,05:06,46,42,MIN,FC,Coelho
+277,3,05:25,46,42,MIN,3_Pts_C,Coelho
+278,3,05:25,43,42,MIN,AS,Collum
+279,3,05:35,43,42,MIN,FR,Shilton
+280,3,05:35,43,42,BAU,FC,Alex Garcia
+281,3,05:44,43,42,MIN,RD,Shilton
+282,3,05:44,43,42,BAU,2_Pts_T,Alex Garcia
+283,3,06:09,43,42,MIN,2_Pts_C,Adyb
+284,3,06:09,41,42,MIN,AS,Collum
+285,3,06:31,41,42,BAU,3_Pts_C,Hettsheimeir
+286,3,06:31,41,39,BAU,AS,R Fischer
+287,3,06:53,41,39,MIN,2_Pts_C,Shilton
+288,3,06:53,39,39,MIN,AS,Coelho
+289,3,07:09,39,39,BAU,LL_Pts_C,Hettsheimeir
+290,3,07:09,39,38,BAU,AS,R Fischer
+291,3,07:09,39,38,BAU,LL_Pts_C,Hettsheimeir
+292,3,07:09,39,37,BAU,FR,Hettsheimeir
+293,3,07:09,39,37,MIN,FC,Shilton
+294,3,07:29,39,37,MIN,2_Pts_C,Collum
+295,3,07:29,37,37,MIN,AS,Coelho
+296,3,07:36,37,37,MIN,RO,Minas
+297,3,07:36,37,37,BAU,TO,Jefferson W
+298,3,07:36,37,37,MIN,2_Pts_T,Adyb
+299,3,07:53,37,37,MIN,RD,Alex
+300,3,07:53,37,37,BAU,2_Pts_T,Alex Garcia
+301,3,08:09,37,37,MIN,ER,Adyb
+302,3,08:27,37,37,BAU,ER,Jefferson W
+303,3,08:48,37,37,MIN,2_Pts_C,Coelho
+304,3,09:06,35,37,BAU,3_Pts_C,Hettsheimeir
+305,3,09:06,35,34,BAU,AS,Alex Garcia
+306,3,09:17,35,34,BAU,RD,Alex Garcia
+307,3,09:17,35,34,MIN,2_Pts_T,Collum
+308,3,09:18,35,34,MIN,FR,Collum
+309,3,09:18,35,34,BAU,FC,Larry
+310,3,09:34,35,34,MIN,RD,Minas
+311,3,09:34,35,34,BAU,3_Pts_T,R Fischer
+312,2,00:00,35,34, ,fim_quarto,
+313,2,00:01,35,34,MIN,2_Pts_T,Alex
+314,2,00:06,35,34,MIN,RD,Shilton
+315,2,00:06,35,34,BAU,2_Pts_T,R Fischer
+316,2,00:31,35,34,MIN,2_Pts_C,Shilton
+317,2,00:31,33,34,MIN,AS,Coelho
+318,2,00:43,33,34,MIN,substituicao_entra,Irigoyen
+319,2,00:43,33,34,MIN,substituicao_sai,Moisés
+320,2,00:47,33,34,MIN,tempo_tecnico,Minas
+321,2,00:47,33,34,BAU,3_Pts_C,Jefferson W
+322,2,00:47,33,31,BAU,AS,R Fischer
+323,2,00:51,33,31,BAU,substituicao_entra,Alex Garcia
+324,2,00:51,33,31,BAU,substituicao_entra,Larry
+325,2,00:51,33,31,BAU,substituicao_sai,Murilo
+326,2,00:51,33,31,BAU,substituicao_sai,Gui Deodato
+327,2,01:03,33,31,MIN,ER,Moisés
+328,2,01:12,33,31,BAU,ER,
+329,2,01:41,33,31,BAU,tempo_tecnico,Bauru
+330,2,01:41,33,31,MIN,2_Pts_C,Coelho
+331,2,01:41,31,31,MIN,AS,Siqueira
+332,2,01:47,31,31,MIN,RD,Coelho
+333,2,01:47,31,31,BAU,3_Pts_T,Gui Deodato
+334,2,02:02,31,31,MIN,2_Pts_C,Moisés
+335,2,02:02,29,31,MIN,AS,Siqueira
+336,2,02:18,29,31,MIN,substituicao_entra,Moisés
+337,2,02:18,29,31,MIN,substituicao_sai,Ansaloni
+338,2,02:18,29,31,BAU,LL_Pts_C,Murilo
+339,2,02:18,29,30,BAU,LL_Pts_C,Murilo
+340,2,02:18,29,29,BAU,FR,Murilo
+341,2,02:18,29,29,MIN,FC,Ansaloni
+342,2,02:32,29,29,BAU,BR,Hettsheimeir
+343,2,02:32,29,29,MIN,ER,Ansaloni
+344,2,02:41,29,29,MIN,substituicao_sai,Irigoyen
+345,2,02:41,29,29,MIN,substituicao_entra,Alex
+346,2,02:41,29,29,MIN,substituicao_entra,Siqueira
+347,2,02:41,29,29,MIN,substituicao_sai,Collum
+348,2,02:45,29,29,MIN,tempo_tecnico,Minas
+349,2,02:45,29,29,BAU,3_Pts_C,Gui Deodato
+350,2,03:08,29,26,MIN,ER,
+351,2,03:32,29,26,MIN,RD,Ansaloni
+352,2,03:32,29,26,BAU,LL_Pts_T,Gui Deodato
+353,2,03:32,29,26,BAU,substituicao_entra,Jefferson W
+354,2,03:32,29,26,BAU,substituicao_sai,Alex Garcia
+355,2,03:32,29,26,MIN,substituicao_entra,Ansaloni
+356,2,03:32,29,26,MIN,substituicao_sai,Adyb
+357,2,03:35,29,26,BAU,2_Pts_C,Gui Deodato
+358,2,03:35,29,24,BAU,FR,Gui Deodato
+359,2,03:35,29,24,MIN,FC,Adyb
+360,2,03:39,29,24,BAU,BR,Gui Deodato
+361,2,03:39,29,24,MIN,ER,Irigoyen
+362,2,03:56,29,24,BAU,3_Pts_C,R Fischer
+363,2,03:56,29,21,BAU,AS,Alex Garcia
+364,2,04:12,29,21,MIN,2_Pts_C,Adyb
+365,2,04:12,27,21,MIN,AS,Shilton
+366,2,04:18,27,21,MIN,RO,Shilton
+367,2,04:18,27,21,MIN,2_Pts_T,Coelho
+368,2,04:45,27,21,BAU,2_Pts_C,Hettsheimeir
+369,2,04:45,27,19,BAU,AS,R Fischer
+370,2,04:53,27,19,BAU,RD,Murilo
+371,2,04:53,27,19,MIN,3_Pts_T,Adyb
+372,2,05:06,27,19,MIN,RD,Irigoyen
+373,2,05:06,27,19,BAU,3_Pts_T,Hettsheimeir
+374,2,05:16,27,19,MIN,substituicao_entra,Coelho
+375,2,05:16,27,19,MIN,substituicao_entra,Adyb
+376,2,05:16,27,19,MIN,substituicao_sai,Siqueira
+377,2,05:16,27,19,MIN,substituicao_sai,Alex
+378,2,05:16,27,19,MIN,substituicao_entra,Shilton
+379,2,05:16,27,19,MIN,substituicao_sai,Ansaloni
+380,2,05:16,27,19,BAU,substituicao_entra,Hettsheimeir
+381,2,05:16,27,19,BAU,substituicao_entra,R Fischer
+382,2,05:16,27,19,BAU,substituicao_sai,Larry
+383,2,05:16,27,19,BAU,substituicao_sai,Jefferson W
+384,2,05:21,27,19,BAU,tempo_tecnico,Bauru
+385,2,05:21,27,19,BAU,RD,Bauru
+386,2,05:21,27,19,MIN,3_Pts_T,Alex
+387,2,05:26,27,19,MIN,RO,Siqueira
+388,2,05:26,27,19,BAU,TO,Jefferson W
+389,2,05:26,27,19,MIN,2_Pts_T,Siqueira
+390,2,05:34,27,19,MIN,RD,Ansaloni
+391,2,05:34,27,19,BAU,2_Pts_T,Alex Garcia
+392,2,05:56,27,19,MIN,3_Pts_C,Irigoyen
+393,2,05:56,24,19,MIN,AS,Siqueira
+394,2,06:17,24,19,BAU,2_Pts_C,Murilo
+395,2,06:17,24,17,BAU,AS,Gui Deodato
+396,2,06:32,24,17,MIN,2_Pts_C,Ansaloni
+397,2,06:32,22,17,MIN,AS,Siqueira
+398,2,06:45,22,17,MIN,RO,Siqueira
+399,2,06:45,22,17,BAU,TO,Murilo
+400,2,06:45,22,17,MIN,2_Pts_T,Siqueira
+401,2,06:54,22,17,MIN,RD,Collum
+402,2,06:54,22,17,BAU,2_Pts_T,Jefferson W
+403,2,07:02,22,17,MIN,ER,Ansaloni
+404,2,07:22,22,17,BAU,2_Pts_C,Larry
+405,2,07:27,22,15,BAU,FR,Alex Garcia
+406,2,07:27,22,15,MIN,FC,Irigoyen
+407,2,07:32,22,15,BAU,RO,Alex Garcia
+408,2,07:32,22,15,BAU,3_Pts_T,Murilo
+409,2,07:46,22,15,MIN,2_Pts_C,Ansaloni
+410,2,07:46,20,15,MIN,AS,Collum
+411,2,08:04,20,15,BAU,2_Pts_C,Murilo
+412,2,08:08,20,13,BAU,RO,Murilo
+413,2,08:08,20,13,BAU,2_Pts_T,Jefferson W
+414,2,08:10,20,13,BAU,FR,Gui Deodato
+415,2,08:10,20,13,MIN,FC,Ansaloni
+416,2,08:15,20,13,BAU,RO,Larry
+417,2,08:15,20,13,BAU,3_Pts_T,Gui Deodato
+418,2,08:31,20,13,BAU,RD,Bauru
+419,2,08:31,20,13,MIN,3_Pts_T,Siqueira
+420,2,08:49,20,13,BAU,ER,Murilo
+421,2,09:18,20,13,MIN,3_Pts_C,Collum
+422,2,09:18,17,13,MIN,AS,Siqueira
+423,2,09:28,17,13,MIN,RD,Alex
+424,2,09:28,17,13,BAU,2_Pts_T,Murilo
+425,2,09:46,17,13,MIN,2_Pts_C,Ansaloni
+426,2,09:50,15,13,MIN,RO,Ansaloni
+427,2,09:50,15,13,MIN,2_Pts_T,Siqueira
+428,1,00:00,15,13, ,fim_quarto,
+429,1,00:06,15,13,BAU,3_Pts_T,Gui Deodato
+430,1,00:10,15,13,BAU,BR,Murilo
+431,1,00:10,15,13,MIN,ER,Ansaloni
+432,1,00:10,15,13,BAU,substituicao_entra,Murilo
+433,1,00:10,15,13,BAU,substituicao_entra,Gui Deodato
+434,1,00:10,15,13,MIN,substituicao_entra,Ansaloni
+435,1,00:10,15,13,MIN,substituicao_entra,Collum
+436,1,00:10,15,13,MIN,substituicao_sai,Coelho
+437,1,00:10,15,13,MIN,substituicao_sai,Shilton
+438,1,00:10,15,13,BAU,substituicao_sai,Hettsheimeir
+439,1,00:10,15,13,BAU,substituicao_sai,Alex Garcia
+440,1,00:13,15,13,MIN,RD,Minas
+441,1,00:13,15,13,BAU,3_Pts_T,Hettsheimeir
+442,1,00:28,15,13,BAU,BR,R Fischer
+443,1,00:28,15,13,MIN,ER,Irigoyen
+444,1,00:49,15,13,BAU,2_Pts_C,Alex Garcia
+445,1,00:55,15,11,BAU,RD,Jefferson W
+446,1,00:55,15,11,MIN,3_Pts_T,Coelho
+447,1,01:12,15,11,MIN,RD,Coelho
+448,1,01:12,15,11,BAU,2_Pts_T,Hettsheimeir
+449,1,01:32,15,11,BAU,RD,Hettsheimeir
+450,1,01:32,15,11,MIN,2_Pts_T,Siqueira
+451,1,01:49,15,11,MIN,RD,Shilton
+452,1,01:49,15,11,BAU,3_Pts_T,Alex Garcia
+453,1,02:03,15,11,MIN,EN,Alex
+454,1,02:11,13,11,MIN,RO,Alex
+455,1,02:11,13,11,MIN,2_Pts_T,Coelho
+456,1,02:15,13,11,MIN,BR,Coelho
+457,1,02:15,13,11,BAU,ER,Larry
+458,1,02:22,13,11,BAU,RO,Larry
+459,1,02:22,13,11,BAU,2_Pts_T,Larry
+460,1,02:36,13,11,BAU,RD,Jefferson W
+461,1,02:36,13,11,MIN,3_Pts_T,Alex
+462,1,02:51,13,11,MIN,RD,Siqueira
+463,1,02:51,13,11,BAU,2_Pts_T,Alex Garcia
+464,1,03:11,13,11,BAU,RD,Bauru
+465,1,03:11,13,11,MIN,3_Pts_T,Coelho
+466,1,03:15,13,11,MIN,RO,Shilton
+467,1,03:15,13,11,MIN,3_Pts_T,Coelho
+468,1,03:21,13,11,MIN,FR,Alex
+469,1,03:21,13,11,BAU,FC,Alex Garcia
+470,1,03:30,13,11,MIN,substituicao_entra,Irigoyen
+471,1,03:30,13,11,MIN,substituicao_sai,Adyb
+472,1,03:30,13,11,MIN,LL_Pts_C,Coelho
+473,1,03:30,12,11,BAU,FC_T,R Fischer
+474,1,03:35,12,11,MIN,RD,Shilton
+475,1,03:35,12,11,BAU,2_Pts_T,Jefferson W
+476,1,03:56,12,11,BAU,BR,Larry
+477,1,03:56,12,11,MIN,ER,Siqueira
+478,1,04:06,12,11,MIN,RD,Shilton
+479,1,04:06,12,11,BAU,2_Pts_T,Alex Garcia
+480,1,04:19,12,11,BAU,RD,Jefferson W
+481,1,04:19,12,11,MIN,2_Pts_T,Coelho
+482,1,04:41,12,11,BAU,ER,R Fischer
+483,1,05:02,12,11,MIN,3_Pts_C,Siqueira
+484,1,05:13,9,11,MIN,RD,Shilton
+485,1,05:13,9,11,BAU,3_Pts_T,Alex Garcia
+486,1,05:35,9,11,MIN,3_Pts_C,Coelho
+487,1,05:45,6,11,MIN,RD,Adyb
+488,1,05:45,6,11,BAU,2_Pts_T,Larry
+489,1,05:52,6,11,BAU,RD,Alex Garcia
+490,1,05:52,6,11,MIN,3_Pts_T,Coelho
+491,1,06:08,6,11,MIN,substituicao_entra,Siqueira
+492,1,06:08,6,11,MIN,substituicao_sai,Collum
+493,1,06:08,6,11,BAU,LL_Pts_C,Hettsheimeir
+494,1,06:08,6,10,BAU,LL_Pts_C,Hettsheimeir
+495,1,06:08,6,9,BAU,FR,Hettsheimeir
+496,1,06:08,6,9,MIN,FC,Collum
+497,1,06:18,6,9,BAU,RD,R Fischer
+498,1,06:18,6,9,MIN,3_Pts_T,Alex
+499,1,06:40,6,9,BAU,2_Pts_C,R Fischer
+500,1,06:49,6,7,BAU,RD,R Fischer
+501,1,06:49,6,7,MIN,2_Pts_T,Shilton
+502,1,07:12,6,7,BAU,2_Pts_C,Larry
+503,1,07:18,6,5,BAU,FR,Larry
+504,1,07:18,6,5,MIN,FC,Collum
+505,1,07:23,6,5,BAU,RD,Larry
+506,1,07:23,6,5,MIN,3_Pts_T,Collum
+507,1,07:33,6,5,MIN,RD,Coelho
+508,1,07:33,6,5,BAU,2_Pts_T,Hettsheimeir
+509,1,07:42,6,5,BAU,FR,Alex Garcia
+510,1,07:42,6,5,MIN,FC,Alex
+511,1,07:56,6,5,MIN,2_Pts_C,Shilton
+512,1,07:56,4,5,MIN,AS,Collum
+513,1,08:01,4,5,MIN,BR,Collum
+514,1,08:01,4,5,BAU,ER,R Fischer
+515,1,08:19,4,5,MIN,2_Pts_C,Alex
+516,1,08:24,2,5,MIN,BR,Alex
+517,1,08:24,2,5,BAU,ER,Jefferson W
+518,1,08:35,2,5,BAU,FR,Jefferson W
+519,1,08:35,2,5,MIN,FC,Adyb
+520,1,08:48,2,5,MIN,ER,Coelho
+521,1,08:59,2,5,BAU,2_Pts_C,R Fischer
+522,1,09:20,2,3,MIN,2_Pts_C,Shilton
+523,1,09:39,0,3,BAU,3_Pts_C,Jefferson W
+524,1,09:39,0,0,BAU,AS,R Fischer
+525,1,10:00,0,0,BAU,substituicao_entra,Hettsheimeir
+526,1,10:00,0,0,BAU,substituicao_entra,Alex Garcia
+527,1,10:00,0,0,BAU,substituicao_entra,R Fischer
+528,1,10:00,0,0,BAU,substituicao_entra,Larry
+529,1,10:00,0,0,BAU,substituicao_entra,Jefferson W
+530,1,10:00,0,0,MIN,substituicao_entra,Collum
+531,1,10:00,0,0,MIN,substituicao_entra,Coelho
+532,1,10:00,0,0,MIN,substituicao_entra,Adyb
+533,1,10:00,0,0,MIN,substituicao_entra,Shilton
+534,1,10:00,0,0,MIN,substituicao_entra,Alex

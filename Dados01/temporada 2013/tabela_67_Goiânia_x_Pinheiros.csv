@@ -1,0 +1,435 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,74,88, ,fim_partida,
+1,4,00:01,74,88,GOI,RO,Adyb
+2,4,00:01,74,88,PIN,TO,Bruno Caboclo
+3,4,00:04,74,88,PIN,RD,Pinheiros
+4,4,00:04,74,88,GOI,2_Pts_T,Adyb
+5,4,00:10,74,88,GOI,RD,Diego
+6,4,00:10,74,88,PIN,3_Pts_T,Bruno Caboclo
+7,4,00:19,74,88,GOI,2_Pts_C,Diego
+8,4,00:19,72,88,GOI,AS,Taboada
+9,4,00:26,72,88,GOI,RD,Goiânia
+10,4,00:26,72,88,PIN,3_Pts_T,Lucas Dias
+11,4,00:38,72,88,GOI,2_Pts_C,Adyb
+12,4,00:46,70,88,GOI,BR,Adyb
+13,4,00:46,70,88,PIN,ER,Lucas Dias
+14,4,00:54,70,88,GOI,substituicao_entra,Adyb
+15,4,00:54,70,88,GOI,substituicao_sai,Fernando Mineiro
+16,4,00:54,70,88,PIN,substituicao_entra,Humberto
+17,4,00:54,70,88,PIN,substituicao_sai,Shamell
+18,4,01:04,70,88,PIN,RO,Pinheiros
+19,4,01:04,70,88,PIN,2_Pts_T,Bruno Caboclo
+20,4,01:20,70,88,PIN,RO,Bruno Caboclo
+21,4,01:20,70,88,PIN,3_Pts_T,Lucas Dias
+22,4,01:29,70,88,GOI,substituicao_entra,Raphael
+23,4,01:30,70,88,GOI,substituicao_sai,Rafinha
+24,4,01:39,70,88,PIN,LL_Pts_C,Shamell
+25,4,01:39,70,87,PIN,LL_Pts_C,Shamell
+26,4,01:39,70,86,PIN,FR,Shamell
+27,4,01:39,70,86,GOI,FC,Rafinha
+28,4,01:44,70,86,PIN,substituicao_entra,Bruno Caboclo
+29,4,01:47,70,86,PIN,substituicao_entra,Lucas Dias
+30,4,01:48,70,86,PIN,substituicao_sai,Leandrinho
+31,4,01:50,70,86,PIN,substituicao_sai,Rafael Mineiro
+32,4,02:00,70,86,GOI,2_Pts_C,Rafinha
+33,4,02:00,68,86,GOI,AS,Diego
+34,4,02:10,68,86,GOI,RD,Diego
+35,4,02:10,68,86,PIN,3_Pts_T,Joe Smith
+36,4,02:18,68,86,GOI,3_Pts_T,Rafinha
+37,4,02:29,68,86,PIN,2_Pts_C,Shamell
+38,4,02:52,68,84,PIN,2_Pts_C,Shamell
+39,4,02:54,68,82,GOI,LL_Pts_C,Rafinha
+40,4,02:54,67,82,GOI,LL_Pts_T,Rafinha
+41,4,02:54,67,82,GOI,FR,Rafinha
+42,4,02:54,67,82,PIN,FC,Jonathan
+43,4,02:59,67,82,PIN,BR,Shamell
+44,4,02:59,67,82,GOI,ER,Diego
+45,4,03:11,67,82,PIN,LL_Pts_C,Shamell
+46,4,03:11,67,81,PIN,LL_Pts_T,Shamell
+47,4,03:11,67,81,GOI,substituicao_entra,F Penna
+48,4,03:11,67,81,GOI,substituicao_sai,Fábio
+49,4,03:11,67,81,PIN,FR,Shamell
+50,4,03:11,67,81,GOI,FC,Taboada
+51,4,03:20,67,81,PIN,RD,Rafael Mineiro
+52,4,03:26,67,81,GOI,2_Pts_T,Fernando Mineiro
+53,4,03:41,67,81,GOI,RD,Fábio
+54,4,03:41,67,81,PIN,3_Pts_T,Leandrinho
+55,4,04:13,67,81,PIN,RD,Pinheiros
+56,4,04:13,67,81,GOI,3_Pts_T,Diego
+57,4,04:26,67,81,PIN,substituicao_entra,Jonathan
+58,4,04:26,67,81,PIN,substituicao_sai,Morro
+59,4,04:26,67,81,PIN,LL_Pts_C,Morro
+60,4,04:26,67,80,PIN,LL_Pts_C,Morro
+61,4,04:26,67,79,PIN,FR,Morro
+62,4,04:26,67,79,GOI,FC,Diego
+63,4,05:21,67,79,GOI,2_Pts_C,Fernando Mineiro
+64,4,05:21,65,79,GOI,RO,Fernando Mineiro
+65,4,05:21,65,79,GOI,2_Pts_T,Fernando Mineiro
+66,4,05:21,65,79,GOI,RD,Fernando Mineiro
+67,4,05:21,65,79,PIN,2_Pts_T,Shamell
+68,4,05:21,65,79,PIN,RD,Leandrinho
+69,4,05:21,65,79,GOI,3_Pts_T,Taboada
+70,4,05:21,65,79,PIN,3_Pts_C,Rafael Mineiro
+71,4,05:21,65,76,PIN,AS,Joe Smith
+72,4,05:21,65,76,GOI,LL_Pts_C,Fernando Mineiro
+73,4,05:21,64,76,GOI,2_Pts_C,Fernando Mineiro
+74,4,05:21,62,76,GOI,FR,Fernando Mineiro
+75,4,05:21,62,76,PIN,FC,Morro
+76,4,05:21,62,76,GOI,RO,Fernando Mineiro
+77,4,05:27,62,76,GOI,FR,Taboada
+78,4,05:27,62,76,PIN,FC,Joe Smith
+79,4,05:30,62,76,GOI,3_Pts_T,Taboada
+80,4,05:34,62,76,GOI,RD,Diego
+81,4,05:34,62,76,PIN,2_Pts_T,Shamell
+82,4,05:43,62,76,PIN,FR,Joe Smith
+83,4,05:43,62,76,GOI,FC,Rafinha
+84,4,05:56,62,76,PIN,RD,Pinheiros
+85,4,06:01,62,76,GOI,2_Pts_T,Diego
+86,4,06:13,62,76,GOI,substituicao_entra,Fábio
+87,4,06:13,62,76,GOI,substituicao_sai,André Luiz
+88,4,06:13,62,76,PIN,FR,Rafael Mineiro
+89,4,06:13,62,76,GOI,FC,André Luiz
+90,4,06:16,62,76,PIN,2_Pts_C,Shamell
+91,4,06:29,62,74,GOI,2_Pts_T,André Luiz
+92,4,06:41,62,74,PIN,substituicao_entra,Morro
+93,4,06:41,62,74,PIN,substituicao_sai,Bambu
+94,4,06:41,62,74,GOI,substituicao_entra,André Luiz
+95,4,06:41,62,74,GOI,substituicao_sai,F Penna
+96,4,06:41,62,74,PIN,LL_Pts_C,Bambu
+97,4,06:41,62,73,PIN,LL_Pts_C,Bambu
+98,4,06:45,62,72,PIN,FR,Bambu
+99,4,06:45,62,72,GOI,FC,Diego
+100,4,06:52,62,72,PIN,RD,Leandrinho
+101,4,06:52,62,72,GOI,2_Pts_T,Taboada
+102,4,06:58,62,72,PIN,2_Pts_C,Shamell
+103,4,06:58,62,70,PIN,AS,Joe Smith
+104,4,07:10,62,70,PIN,RD,Joe Smith
+105,4,07:10,62,70,GOI,2_Pts_T,F Penna
+106,4,07:24,62,70,PIN,3_Pts_C,Joe Smith
+107,4,07:50,62,67,PIN,RD,Rafael Mineiro
+108,4,07:50,62,67,GOI,3_Pts_T,Taboada
+109,4,08:08,62,67,GOI,RD,Fernando Mineiro
+110,4,08:08,62,67,PIN,3_Pts_T,Shamell
+111,4,08:17,62,67,PIN,2_Pts_T,Shamell
+112,4,08:26,62,67,PIN,RD,Joe Smith
+113,4,08:26,62,67,GOI,3_Pts_T,Rafinha
+114,4,08:30,62,67,GOI,FR,Taboada
+115,4,08:30,62,67,PIN,FC_O,Bambu
+116,4,08:39,62,67,GOI,BR,F Penna
+117,4,08:39,62,67,PIN,ER,Leandrinho
+118,4,09:05,62,67,PIN,FR,Shamell
+119,4,09:05,62,67,GOI,FC,Taboada
+120,4,09:13,62,67,PIN,RO,Pinheiros
+121,4,09:20,62,67,PIN,2_Pts_T,Rafael Mineiro
+122,4,09:28,62,67,GOI,AS,Taboada
+123,4,09:28,62,67,GOI,LL_Pts_C,Fernando Mineiro
+124,4,09:28,61,67,GOI,LL_Pts_C,Fernando Mineiro
+125,4,09:35,60,67,GOI,FR,Fernando Mineiro
+126,4,09:35,60,67,PIN,FC,Joe Smith
+127,4,09:58,60,67,GOI,BR,Fernando Mineiro
+128,4,09:58,60,67,PIN,ER,Joe Smith
+129,3,00:00,60,67, ,fim_quarto,
+130,3,00:08,60,67,GOI,3_Pts_T,Fernando Mineiro
+131,3,00:23,60,67,GOI,RD,Fernando Mineiro
+132,3,00:23,60,67,PIN,2_Pts_T,Bambu
+133,3,00:28,60,67,PIN,BR,Leandrinho
+134,3,00:28,60,67,GOI,ER,F Penna
+135,3,00:38,60,67,PIN,2_Pts_C,Shamell
+136,3,00:38,60,65,PIN,AS,Leandrinho
+137,3,00:40,60,65,PIN,substituicao_entra,Shamell
+138,3,00:40,60,65,PIN,substituicao_sai,Morro
+139,3,01:06,60,65,GOI,3_Pts_C,Taboada
+140,3,01:20,57,65,PIN,substituicao_entra,Bambu
+141,3,01:21,57,65,PIN,substituicao_sai,Shamell
+142,3,01:42,57,65,GOI,2_Pts_C,Diego
+143,3,01:42,55,65,GOI,AS,Taboada
+144,3,02:01,55,65,PIN,substituicao_entra,Leandrinho
+145,3,02:01,55,65,PIN,substituicao_sai,Jonathan
+146,3,02:01,55,65,PIN,substituicao_entra,Jonathan
+147,3,02:01,55,65,PIN,substituicao_sai,Leandrinho
+148,3,02:06,55,65,PIN,2_Pts_C,Joe Smith
+149,3,02:24,55,63,GOI,2_Pts_C,F Penna
+150,3,02:24,53,63,GOI,AS,Diego
+151,3,02:31,53,63,PIN,BR,Morro
+152,3,02:31,53,63,GOI,ER,Taboada
+153,3,02:42,53,63,PIN,2_Pts_C,Shamell
+154,3,03:02,53,61,PIN,EN,Morro
+155,3,03:02,53,59,PIN,AS,Leandrinho
+156,3,03:08,53,59,GOI,3_Pts_T,Rafinha
+157,3,03:33,53,59,GOI,RO,Taboada
+158,3,03:33,53,59,GOI,3_Pts_T,F Penna
+159,3,03:40,53,59,GOI,RD,Diego
+160,3,03:40,53,59,PIN,2_Pts_T,Morro
+161,3,03:57,53,59,GOI,3_Pts_C,Fernando Mineiro
+162,3,03:57,50,59,GOI,AS,F Penna
+163,3,04:09,50,59,GOI,3_Pts_T,Taboada
+164,3,04:29,50,59,GOI,RD,Taboada
+165,3,04:29,50,59,PIN,2_Pts_T,Joe Smith
+166,3,04:32,50,59,PIN,substituicao_entra,Joe Smith
+167,3,04:32,50,59,PIN,substituicao_sai,Jonathan
+168,3,04:32,50,59,PIN,FR,Morro
+169,3,04:32,50,59,GOI,FC,F Penna
+170,3,04:45,50,59,GOI,2_Pts_C,Rafinha
+171,3,04:45,48,59,GOI,AS,Diego
+172,3,04:53,48,59,GOI,BR,Rafinha
+173,3,04:53,48,59,PIN,ER,Morro
+174,3,05:01,48,59,GOI,2_Pts_C,Fernando Mineiro
+175,3,05:01,46,59,GOI,AS,Rafinha
+176,3,05:07,46,59,GOI,BR,Rafinha
+177,3,05:07,46,59,PIN,ER,Rafael Mineiro
+178,3,05:17,46,59,GOI,substituicao_entra,Diego
+179,3,05:17,46,59,GOI,substituicao_sai,André Luiz
+180,3,05:17,46,59,GOI,substituicao_entra,Taboada
+181,3,05:17,46,59,GOI,substituicao_sai,Diego
+182,3,05:17,46,59,PIN,FR,Morro
+183,3,05:17,46,59,GOI,FC,André Luiz
+184,3,05:31,46,59,GOI,3_Pts_C,Fernando Mineiro
+185,3,05:31,43,59,GOI,AS,Diego
+186,3,05:46,43,59,GOI,RD,Diego
+187,3,05:46,43,59,GOI,TO,André Luiz
+188,3,05:46,43,59,PIN,2_Pts_T,Morro
+189,3,05:55,43,59,PIN,FR,Shamell
+190,3,05:55,43,59,GOI,FC,F Penna
+191,3,06:01,43,59,PIN,FR,Shamell
+192,3,06:01,43,59,GOI,FC,Rafinha
+193,3,06:19,43,59,GOI,3_Pts_C,Diego
+194,3,06:19,40,59,GOI,AS,F Penna
+195,3,06:26,40,59,GOI,RO,F Penna
+196,3,06:26,40,59,GOI,3_Pts_T,Rafinha
+197,3,06:37,40,59,GOI,RD,Diego
+198,3,06:37,40,59,PIN,2_Pts_T,Shamell
+199,3,06:58,40,59,GOI,3_Pts_C,Diego
+200,3,06:58,37,59,GOI,AS,F Penna
+201,3,07:10,37,59,GOI,RD,F Penna
+202,3,07:10,37,59,PIN,3_Pts_T,Jonathan
+203,3,07:19,37,59,GOI,LL_Pts_C,André Luiz
+204,3,07:19,36,59,GOI,FR,André Luiz
+205,3,07:19,36,59,PIN,FC,Leandrinho
+206,3,07:26,36,59,GOI,2_Pts_C,André Luiz
+207,3,07:26,34,59,GOI,AS,Diego
+208,3,07:41,34,59,PIN,2_Pts_C,Jonathan
+209,3,07:41,34,57,PIN,AS,Leandrinho
+210,3,07:46,34,57,PIN,BR,Leandrinho
+211,3,07:46,34,57,GOI,ER,Rafinha
+212,3,08:05,34,57,PIN,2_Pts_C,Shamell
+213,3,08:24,34,55,GOI,RD,André Luiz
+214,3,08:24,34,55,PIN,2_Pts_T,Leandrinho
+215,3,08:33,34,55,PIN,3_Pts_C,Leandrinho
+216,3,08:56,34,52,GOI,3_Pts_C,Rafinha
+217,3,08:56,31,52,GOI,AS,Diego
+218,3,09:08,31,52,PIN,AS,Shamell
+219,3,09:26,31,52,GOI,LL_Pts_C,André Luiz
+220,3,09:26,30,52,GOI,LL_Pts_C,André Luiz
+221,3,09:26,29,52,GOI,FR,André Luiz
+222,3,09:26,29,52,PIN,FC,Morro
+223,3,09:36,29,52,GOI,RO,André Luiz
+224,3,09:36,29,52,GOI,2_Pts_T,André Luiz
+225,2,00:00,29,52, ,fim_quarto,
+226,2,00:30,29,52,GOI,RD,Rafinha
+227,2,00:30,29,52,PIN,2_Pts_T,Joe Smith
+228,2,00:47,29,52,GOI,EN,Lacerda
+229,2,00:47,27,52,GOI,AS,Rafinha
+230,2,01:02,27,52,PIN,2_Pts_C,Lucas Dias
+231,2,01:19,27,50,PIN,3_Pts_T,Joe Smith
+232,2,01:19,27,50,GOI,3_Pts_C,Diego
+233,2,01:19,24,50,GOI,AS,Taboada
+234,2,01:19,24,50,GOI,substituicao_entra,Rafinha
+235,2,01:19,24,50,GOI,substituicao_sai,F Penna
+236,2,01:49,24,50,PIN,RD,Bambu
+237,2,01:49,24,50,GOI,2_Pts_T,Diego
+238,2,02:01,24,50,PIN,RD,Jonathan
+239,2,03:12,24,50,GOI,FR,Taboada
+240,2,03:12,24,50,PIN,FC,Lucas Dias
+241,2,03:12,24,50,GOI,FR,Diego
+242,2,03:12,24,50,PIN,FC,Lucas Dias
+243,2,03:17,24,50,PIN,3_Pts_C,Rafael Mineiro
+244,2,03:17,24,47,PIN,AS,Lucas Dias
+245,2,03:35,24,47,PIN,3_Pts_C,Joe Smith
+246,2,03:39,24,44,GOI,2_Pts_C,Fernando Mineiro
+247,2,03:57,22,44,PIN,3_Pts_C,Rafael Mineiro
+248,2,03:57,22,41,PIN,substituicao_entra,Rafael Mineiro
+249,2,03:57,22,41,PIN,substituicao_sai,Morro
+250,2,04:31,22,41,GOI,ER,Diego
+251,2,04:33,22,41,PIN,substituicao_entra,Lucas Dias
+252,2,04:33,22,41,PIN,substituicao_sai,Leandrinho
+253,2,04:33,22,41,GOI,FR,Fernando Mineiro
+254,2,04:33,22,41,PIN,FC,Jonathan
+255,2,04:56,22,41,GOI,3_Pts_T,F Penna
+256,2,04:59,22,41,PIN,3_Pts_C,Jonathan
+257,2,04:59,22,38,PIN,LL_Pts_C,Jonathan
+258,2,04:59,22,37,PIN,LL_Pts_C,Jonathan
+259,2,05:06,22,36,PIN,3_Pts_C,Jonathan
+260,2,05:14,22,33,GOI,LL_Pts_C,Diego
+261,2,05:20,21,33,GOI,2_Pts_C,Diego
+262,2,05:20,19,33,GOI,FR,Diego
+263,2,05:28,19,33,GOI,substituicao_entra,Taboada
+264,2,05:28,19,33,GOI,substituicao_sai,Fábio
+265,2,05:28,19,33,GOI,2_Pts_T,Diego
+266,2,05:28,19,33,GOI,RO,Diego
+267,2,05:28,19,33,GOI,2_Pts_T,Diego
+268,2,05:28,19,33,PIN,FR,Leandrinho
+269,2,05:28,19,33,GOI,FC,Lacerda
+270,2,05:28,19,33,GOI,substituicao_entra,Lacerda
+271,2,05:28,19,33,GOI,substituicao_sai,Adyb
+272,2,05:28,19,33,PIN,FR,Leandrinho
+273,2,05:28,19,33,GOI,FC,Fábio
+274,2,05:33,19,33,PIN,RD,Jonathan
+275,2,05:33,19,33,PIN,RO,Jonathan
+276,2,05:41,19,33,PIN,substituicao_entra,Jonathan
+277,2,05:41,19,33,PIN,substituicao_sai,Shamell
+278,2,05:41,19,33,GOI,substituicao_entra,Fernando Mineiro
+279,2,05:41,19,33,GOI,substituicao_sai,Lacerda
+280,2,05:41,19,33,GOI,2_Pts_C,Lacerda
+281,2,05:41,17,33,GOI,RO,Lacerda
+282,2,05:41,17,33,GOI,2_Pts_T,Fábio
+283,2,05:41,17,33,GOI,substituicao_entra,Lacerda
+284,2,05:41,17,33,GOI,substituicao_sai,Taboada
+285,2,06:00,17,33,PIN,2_Pts_C,Leandrinho
+286,2,06:00,17,31,PIN,RD,Leandrinho
+287,2,06:00,17,31,GOI,2_Pts_T,Diego
+288,2,06:00,17,31,GOI,RO,Diego
+289,2,06:00,17,31,GOI,2_Pts_T,F Penna
+290,2,06:00,17,31,GOI,substituicao_entra,Diego
+291,2,06:00,17,31,GOI,substituicao_sai,André Luiz
+292,2,06:26,17,31,PIN,3_Pts_C,Leandrinho
+293,2,06:28,17,28,GOI,FR,Taboada
+294,2,06:28,17,28,PIN,FC,Leandrinho
+295,2,07:08,17,28,PIN,2_Pts_C,Leandrinho
+296,2,07:17,17,26,PIN,RD,Morro
+297,2,07:17,17,26,GOI,3_Pts_T,F Penna
+298,2,07:25,17,26,GOI,BR,F Penna
+299,2,07:25,17,26,PIN,ER,Shamell
+300,2,07:51,17,26,GOI,TO,Adyb
+301,2,07:51,17,26,PIN,2_Pts_T,Morro
+302,2,07:56,17,26,GOI,,
+303,2,08:14,17,26,GOI,RD,Adyb
+304,2,08:14,17,26,PIN,2_Pts_T,Morro
+305,2,08:30,17,26,GOI,substituicao_entra,Adyb
+306,2,08:30,17,26,GOI,substituicao_sai,Fernando Mineiro
+307,2,08:30,17,26,PIN,FR,Bambu
+308,2,08:30,17,26,GOI,FC,André Luiz
+309,2,08:41,17,26,PIN,2_Pts_C,Bambu
+310,2,08:41,17,24,PIN,AS,Leandrinho
+311,2,08:57,17,24,GOI,RD,André Luiz
+312,2,08:57,17,24,PIN,3_Pts_T,Shamell
+313,2,09:03,17,24,GOI,2_Pts_C,André Luiz
+314,2,09:03,15,24,GOI,AS,F Penna
+315,2,09:03,15,24,GOI,substituicao_entra,F Penna
+316,2,09:03,15,24,GOI,substituicao_sai,Murilo
+317,2,09:03,15,24,PIN,2_Pts_C,Shamell
+318,2,09:03,15,22,PIN,FR,Shamell
+319,2,09:03,15,22,GOI,FC,Murilo
+320,2,09:03,15,22,GOI,substituicao_entra,Murilo
+321,2,09:03,15,22,GOI,substituicao_sai,F Penna
+322,2,09:13,15,22,PIN,substituicao_entra,Bambu
+323,2,09:13,15,22,PIN,substituicao_entra,Leandrinho
+324,2,09:13,15,22,PIN,substituicao_entra,Shamell
+325,2,09:13,15,22,PIN,substituicao_entra,Joe Smith
+326,2,09:13,15,22,PIN,substituicao_entra,Morro
+327,2,09:27,15,22,GOI,substituicao_entra,Taboada
+328,2,09:32,15,22,GOI,substituicao_entra,André Luiz
+329,2,09:32,15,22,GOI,substituicao_entra,Fábio
+330,2,09:50,15,22,GOI,substituicao_entra,F Penna
+331,2,09:54,15,22,GOI,substituicao_entra,Fernando Mineiro
+332,1,00:00,15,22, ,fim_quarto,
+333,1,00:01,15,22,GOI,RO,Taboada
+334,1,00:01,15,22,GOI,2_Pts_C,Taboada
+335,1,00:01,13,22,PIN,RD,Morro
+336,1,00:01,13,22,PIN,TO,Morro
+337,1,00:01,13,22,GOI,2_Pts_T,Murilo
+338,1,00:18,13,22,PIN,RD,Morro
+339,1,00:18,13,22,GOI,3_Pts_T,F Penna
+340,1,00:22,13,22,GOI,substituicao_entra,F Penna
+341,1,00:23,13,22,GOI,substituicao_sai,Rafinha
+342,1,00:46,13,22,PIN,3_Pts_C,Joe Smith
+343,1,00:46,13,19,PIN,AS,Shamell
+344,1,00:55,13,19,PIN,RO,Rafael Mineiro
+345,1,00:55,13,19,PIN,3_Pts_T,Rafael Mineiro
+346,1,01:08,13,19,PIN,RD,Morro
+347,1,01:08,13,19,GOI,3_Pts_T,Taboada
+348,1,01:22,13,19,PIN,2_Pts_C,Leandrinho
+349,1,01:30,13,17,PIN,RD,Leandrinho
+350,1,01:30,13,17,GOI,3_Pts_T,Fernando Mineiro
+351,1,01:39,13,17,GOI,AS,Taboada
+352,1,01:53,13,17,GOI,2_Pts_C,André Luiz
+353,1,02:06,11,17,GOI,FR,Rafinha
+354,1,02:06,11,17,PIN,FC,Joe Smith
+355,1,02:13,11,17,GOI,RD,Taboada
+356,1,02:13,11,17,PIN,2_Pts_T,Leandrinho
+357,1,02:24,11,17,PIN,RD,Rafael Mineiro
+358,1,02:24,11,17,GOI,3_Pts_T,Murilo
+359,1,02:35,11,17,PIN,3_Pts_C,Leandrinho
+360,1,02:41,11,14,PIN,LL_Pts_C,Morro
+361,1,02:49,11,13,GOI,,
+362,1,03:05,11,13,PIN,AS,Shamell
+363,1,03:05,11,13,PIN,2_Pts_C,Morro
+364,1,03:05,11,11,PIN,FR,Morro
+365,1,03:05,11,11,GOI,FC,Taboada
+366,1,03:13,11,11,GOI,substituicao_entra,Murilo
+367,1,03:13,11,11,GOI,substituicao_sai,Diego
+368,1,03:13,11,11,PIN,FR,Shamell
+369,1,03:13,11,11,GOI,FC,André Luiz
+370,1,03:31,11,11,PIN,BR,Morro
+371,1,03:31,11,11,GOI,ER,Fernando Mineiro
+372,1,03:40,11,11,PIN,2_Pts_C,Rafael Mineiro
+373,1,03:40,11,9,PIN,AS,Joe Smith
+374,1,03:59,11,9,GOI,2_Pts_C,Fernando Mineiro
+375,1,03:59,9,9,GOI,AS,Taboada
+376,1,04:10,9,9,GOI,RD,Taboada
+377,1,04:10,9,9,PIN,2_Pts_T,Rafael Mineiro
+378,1,04:33,9,9,GOI,EN,André Luiz
+379,1,04:33,7,9,GOI,AS,Diego
+380,1,04:52,7,9,PIN,,
+381,1,05:08,7,9,PIN,RD,Joe Smith
+382,1,05:08,7,9,GOI,3_Pts_T,Rafinha
+383,1,05:20,7,9,PIN,AS,Joe Smith
+384,1,05:20,7,9,PIN,LL_Pts_C,Leandrinho
+385,1,05:20,7,8,PIN,LL_Pts_C,Leandrinho
+386,1,05:20,7,7,PIN,FR,Leandrinho
+387,1,05:20,7,7,GOI,FC,André Luiz
+388,1,05:31,7,7,PIN,RD,Shamell
+389,1,05:31,7,7,GOI,2_Pts_T,Fernando Mineiro
+390,1,05:34,7,7,GOI,substituicao_entra,André Luiz
+391,1,05:34,7,7,GOI,substituicao_sai,Lacerda
+392,1,05:39,7,7,GOI,3_Pts_T,Taboada
+393,1,05:54,7,7,GOI,RD,Lacerda
+394,1,05:54,7,7,PIN,3_Pts_T,Joe Smith
+395,1,05:57,7,7,PIN,FR,Rafael Mineiro
+396,1,05:57,7,7,GOI,FC,Diego
+397,1,06:11,7,7,PIN,FR,Leandrinho
+398,1,06:11,7,7,GOI,FC,Taboada
+399,1,06:29,7,7,GOI,3_Pts_T,Rafinha
+400,1,06:41,7,7,PIN,EN,Morro
+401,1,06:41,7,5,PIN,AS,Rafael Mineiro
+402,1,07:09,7,5,PIN,AS,Rafael Mineiro
+403,1,07:23,7,5,GOI,LL_Pts_C,Rafinha
+404,1,07:24,6,5,GOI,2_Pts_C,Rafinha
+405,1,07:24,4,5,GOI,FR,Rafinha
+406,1,07:24,4,5,PIN,FC,Shamell
+407,1,07:31,4,5,GOI,RD,Rafinha
+408,1,07:31,4,5,PIN,2_Pts_T,Leandrinho
+409,1,07:44,4,5,PIN,RD,Morro
+410,1,07:44,4,5,GOI,3_Pts_T,Diego
+411,1,08:10,4,5,GOI,RD,Lacerda
+412,1,08:10,4,5,PIN,3_Pts_T,Shamell
+413,1,08:33,4,5,PIN,RD,Morro
+414,1,08:33,4,5,GOI,3_Pts_T,Diego
+415,1,08:51,4,5,PIN,3_Pts_C,Rafael Mineiro
+416,1,08:51,4,2,PIN,AS,Shamell
+417,1,09:16,4,2,GOI,2_Pts_C,Lacerda
+418,1,09:16,2,2,GOI,AS,Taboada
+419,1,09:30,2,2,PIN,EN,Morro
+420,1,09:30,2,0,PIN,AS,Leandrinho
+421,1,09:36,2,0,GOI,2_Pts_C,Fernando Mineiro
+422,1,09:53,0,0,GOI,RO,Fernando Mineiro
+423,1,09:53,0,0,GOI,3_Pts_T,Taboada
+424,1,10:00,0,0,PIN,substituicao_entra,Leandrinho
+425,1,10:00,0,0,PIN,substituicao_entra,Shamell
+426,1,10:00,0,0,PIN,substituicao_entra,Joe Smith
+427,1,10:00,0,0,PIN,substituicao_entra,Rafael Mineiro
+428,1,10:00,0,0,PIN,substituicao_entra,Morro
+429,1,10:00,0,0,GOI,substituicao_entra,Taboada
+430,1,10:00,0,0,GOI,substituicao_entra,Lacerda
+431,1,10:00,0,0,GOI,substituicao_entra,Fernando Mineiro
+432,1,10:00,0,0,GOI,substituicao_entra,Diego
+433,1,10:00,0,0,GOI,substituicao_entra,Rafinha

@@ -1,0 +1,598 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,98,97,,fim_partida,
+1,5,00:00,98,97,,fim_quarto,
+2,5,00:03,98,97,CEA,2_Pts_T,Rashaun
+3,5,00:03,98,97,CEA,substituicao_entra,Felipe
+4,5,00:03,98,97,CEA,substituicao_entra,Mathias
+5,5,00:03,98,97,CEA,substituicao_sai,Sualisson
+6,5,00:03,98,97,CEA,substituicao_sai,Alex
+7,5,00:03,98,97,CEA,tempo_tecnico,Fortaleza Basquete Cearense
+8,5,00:04,98,97,BAU,2_Pts_C,Gui Deodato
+9,5,00:20,96,97,CEA,2_Pts_C,Rashaun
+10,5,00:21,96,95,CEA,substituicao_entra,Sualisson
+11,5,00:21,96,95,CEA,substituicao_entra,Holloway
+12,5,00:21,96,95,CEA,substituicao_sai,Felipe
+13,5,00:21,96,95,CEA,substituicao_sai,Cauê
+14,5,00:21,96,95,BAU,tempo_tecnico,Bauru
+15,5,00:32,96,95,CEA,substituicao_entra,Rashaun
+16,5,00:32,96,95,CEA,substituicao_sai,Holloway
+17,5,00:37,96,95,CEA,BR,Holloway
+18,5,00:37,96,95,BAU,ER,Alex
+19,5,00:48,96,95,CEA,LL_Pts_C,Holloway
+20,5,00:48,96,94,CEA,LL_Pts_T,Holloway
+21,5,00:48,96,94,CEA,FR,Holloway
+22,5,00:48,96,94,BAU,FC,Gabriel Jaú
+23,5,00:56,96,94,BAU,2_Pts_C,Alex
+24,5,01:07,94,94,BAU,RD,Gabriel Jaú
+25,5,01:11,94,94,CEA,3_Pts_T,Holloway
+26,5,01:21,94,94,CEA,RD,Fortaleza Basquete Cearense
+27,5,01:23,94,94,BAU,3_Pts_T,Zach Graham
+28,5,01:37,94,94,CEA,LL_Pts_C,Holloway
+29,5,01:37,94,93,CEA,LL_Pts_T,Holloway
+30,5,01:37,94,93,BAU,substituicao_entra,Gabriel Jaú
+31,5,01:37,94,93,BAU,substituicao_sai,Tyrone Curnell
+32,5,01:37,94,93,CEA,FR,Holloway
+33,5,01:37,94,93,BAU,FC,Tyrone Curnell
+34,5,01:37,94,93,CEA,RO,Holloway
+35,5,01:38,94,93,CEA,2_Pts_T,Holloway
+36,5,01:52,94,93,CEA,RD,Schneider
+37,5,01:57,94,93,BAU,3_Pts_T,Alex
+38,5,02:13,94,93,CEA,LL_Pts_C,Holloway
+39,5,02:13,94,92,CEA,LL_Pts_C,Holloway
+40,5,02:13,94,91,CEA,FR,Holloway
+41,5,02:13,94,91,BAU,FC,Gui Deodato
+42,5,02:13,94,91,CEA,RD,Holloway
+43,5,02:16,94,91,BAU,3_Pts_T,Alex
+44,5,02:31,94,91,CEA,AS,Holloway
+45,5,02:31,94,91,CEA,3_Pts_C,Schneider
+46,5,02:48,94,88,BAU,LL_Pts_C,Tyrone Curnell
+47,5,02:48,93,88,BAU,AS,Larry Taylor
+48,5,02:48,93,88,BAU,LL_Pts_C,Tyrone Curnell
+49,5,02:48,92,88,CEA,substituicao_entra,Schneider
+50,5,02:48,92,88,CEA,substituicao_sai,Rashaun
+51,5,02:48,92,88,BAU,FR,Tyrone Curnell
+52,5,02:48,92,88,CEA,FC,Cauê
+53,5,02:53,92,88,BAU,RD,Gui Deodato
+54,5,02:57,92,88,CEA,2_Pts_T,Rashaun
+55,5,03:06,92,88,CEA,RD,Cauê
+56,5,03:10,92,88,BAU,3_Pts_T,Gui Deodato
+57,5,03:20,92,88,BAU,RD,Tyrone Curnell
+58,5,03:24,92,88,CEA,3_Pts_T,Holloway
+59,5,03:40,92,88,BAU,LL_Pts_C,Tyrone Curnell
+60,5,03:40,91,88,BAU,LL_Pts_C,Tyrone Curnell
+61,5,03:40,90,88,CEA,substituicao_entra,Alex
+62,5,03:40,90,88,CEA,substituicao_sai,Schneider
+63,5,03:40,90,88,BAU,FR,Tyrone Curnell
+64,5,03:40,90,88,CEA,FC,Felipe
+65,5,03:49,90,88,BAU,RD,Gui Deodato
+66,5,03:52,90,88,CEA,3_Pts_T,Felipe
+67,5,03:55,90,88,CEA,RD,Cauê
+68,5,04:02,90,88,BAU,2_Pts_T,Tyrone Curnell
+69,5,04:18,90,88,BAU,RD,Tyrone Curnell
+70,5,04:22,90,88,CEA,3_Pts_T,Cauê
+71,5,04:26,90,88,CEA,RO,Schneider
+72,5,04:30,90,88,CEA,3_Pts_T,Schneider
+73,5,04:46,90,88,BAU,2_Pts_C,Larry Taylor
+74,5,05:00,88,88,,inicio_quarto,
+75,5,05:00,88,88,CEA,substituicao_entra,Holloway
+76,5,05:00,88,88,CEA,substituicao_sai,Lobo
+77,4,00:00,88,88,,fim_quarto,
+78,4,00:04,88,88,BAU,2_Pts_T,Larry Taylor
+79,4,00:04,88,88,BAU,BR,Gui Deodato
+80,4,00:04,88,88,CEA,ER,Schneider
+81,4,00:10,88,88,CEA,RO,Schneider
+82,4,00:14,88,88,CEA,3_Pts_T,Rashaun
+83,4,00:41,88,88,BAU,AS,Gui Deodato
+84,4,00:41,88,88,BAU,2_Pts_C,Alex
+85,4,00:59,86,88,CEA,LL_Pts_C,Rashaun
+86,4,00:59,86,87,CEA,LL_Pts_C,Rashaun
+87,4,00:59,86,86,CEA,substituicao_entra,Lobo
+88,4,00:59,86,86,CEA,substituicao_sai,Holloway
+89,4,00:59,86,86,BAU,substituicao_entra,Larry Taylor
+90,4,00:59,86,86,BAU,substituicao_sai,Alexey Borges
+91,4,00:59,86,86,CEA,FR,Rashaun
+92,4,00:59,86,86,BAU,FC,Alexey Borges
+93,4,00:59,86,86,CEA,RO,Rashaun
+94,4,01:02,86,86,CEA,2_Pts_T,Holloway
+95,4,01:11,86,86,CEA,FR,Holloway
+96,4,01:11,86,86,BAU,FC,Zach Graham
+97,4,01:27,86,86,CEA,FR,Cauê
+98,4,01:27,86,86,BAU,FC,Tyrone Curnell
+99,4,01:27,86,86,CEA,RD,Cauê
+100,4,01:30,86,86,BAU,2_Pts_T,Alexey Borges
+101,4,01:49,86,86,BAU,RD,Bauru
+102,4,01:51,86,86,CEA,2_Pts_T,Rashaun
+103,4,02:00,86,86,BAU,AS,Alexey Borges
+104,4,02:00,86,86,BAU,LL_Pts_C,Tyrone Curnell
+105,4,02:00,85,86,BAU,LL_Pts_T,Tyrone Curnell
+106,4,02:06,85,86,BAU,FR,Tyrone Curnell
+107,4,02:06,85,86,CEA,FC,Rashaun
+108,4,02:34,85,86,CEA,substituicao_entra,Schneider
+109,4,02:34,85,86,CEA,substituicao_sai,Lobo
+110,4,02:34,85,86,BAU,substituicao_entra,Alexey Borges
+111,4,02:34,85,86,BAU,substituicao_sai,Larry Taylor
+112,4,02:34,85,86,BAU,tempo_tecnico,Bauru
+113,4,02:43,85,86,CEA,2_Pts_C,Rashaun
+114,4,02:59,85,84,CEA,RD,Cauê
+115,4,03:02,85,84,BAU,3_Pts_T,Gui Deodato
+116,4,03:19,85,84,CEA,2_Pts_C,Rashaun
+117,4,03:20,85,82,CEA,RO,Rashaun
+118,4,03:25,85,82,CEA,2_Pts_T,Rashaun
+119,4,03:48,85,82,BAU,2_Pts_C,Alex
+120,4,04:02,83,82,CEA,3_Pts_C,Cauê
+121,4,04:06,83,79,CEA,RD,Lobo
+122,4,04:20,83,79,CEA,TO,Cauê
+123,4,04:20,83,79,BAU,2_Pts_T,Tyrone Curnell
+124,4,04:22,83,79,CEA,substituicao_entra,Rashaun
+125,4,04:22,83,79,CEA,substituicao_sai,Mathias
+126,4,04:27,83,79,BAU,substituicao_entra,Zach Graham
+127,4,04:27,83,79,BAU,substituicao_entra,Larry Taylor
+128,4,04:27,83,79,BAU,substituicao_sai,Gabriel Jaú
+129,4,04:27,83,79,BAU,substituicao_sai,Alexey Borges
+130,4,04:27,83,79,CEA,ER,Mathias
+131,4,04:38,83,79,CEA,FR,Holloway
+132,4,04:38,83,79,BAU,FC,Alexey Borges
+133,4,04:53,83,79,BAU,LL_Pts_C,Alexey Borges
+134,4,04:53,82,79,BAU,LL_Pts_T,Alexey Borges
+135,4,04:53,82,79,BAU,FR,Alexey Borges
+136,4,04:53,82,79,CEA,FC,Mathias
+137,4,05:12,82,79,CEA,AS,Lobo
+138,4,05:12,82,79,CEA,2_Pts_C,Mathias
+139,4,05:19,82,77,CEA,RD,Holloway
+140,4,05:22,82,77,BAU,2_Pts_T,Alex
+141,4,05:39,82,77,BAU,RD,Tyrone Curnell
+142,4,05:39,82,77,CEA,LL_Pts_T,Holloway
+143,4,05:39,82,77,CEA,LL_Pts_C,Holloway
+144,4,05:39,82,76,CEA,FR,Holloway
+145,4,05:39,82,76,BAU,FC,Alex
+146,4,05:55,82,76,BAU,LL_Pts_C,Tyrone Curnell
+147,4,05:55,81,76,BAU,FR,Tyrone Curnell
+148,4,05:55,81,76,CEA,FC,Felipe
+149,4,05:55,81,76,BAU,2_Pts_C,Tyrone Curnell
+150,4,06:00,79,76,BAU,FR,Alex
+151,4,06:00,79,76,CEA,FC,Lobo
+152,4,06:15,79,76,CEA,AS,Cauê
+153,4,06:15,79,76,CEA,3_Pts_C,Felipe
+154,4,06:26,79,73,CEA,BR,Cauê
+155,4,06:26,79,73,BAU,ER,Gui Deodato
+156,4,06:32,79,73,CEA,substituicao_entra,Holloway
+157,4,06:32,79,73,CEA,substituicao_sai,Rashaun
+158,4,06:32,79,73,BAU,substituicao_entra,Alex
+159,4,06:32,79,73,BAU,substituicao_entra,Alexey Borges
+160,4,06:32,79,73,BAU,substituicao_sai,Zach Graham
+161,4,06:32,79,73,BAU,substituicao_sai,Larry Taylor
+162,4,06:45,79,73,CEA,AS,Rashaun
+163,4,06:45,79,73,CEA,3_Pts_C,Lobo
+164,4,07:06,79,70,CEA,RD,Mathias
+165,4,07:06,79,70,BAU,LL_Pts_T,Gui Deodato
+166,4,07:06,79,70,BAU,LL_Pts_C,Gui Deodato
+167,4,07:06,78,70,BAU,FR,Gui Deodato
+168,4,07:06,78,70,CEA,FC,Lobo
+169,4,07:06,78,70,BAU,RD,Gui Deodato
+170,4,07:13,78,70,BAU,TO,Tyrone Curnell
+171,4,07:13,78,70,CEA,2_Pts_T,Lobo
+172,4,07:24,78,70,CEA,RD,Mathias
+173,4,07:30,78,70,BAU,3_Pts_T,Zach Graham
+174,4,07:41,78,70,BAU,RD,Zach Graham
+175,4,07:45,78,70,CEA,3_Pts_T,Rashaun
+176,4,08:00,78,70,BAU,LL_Pts_C,Gui Deodato
+177,4,08:00,77,70,CEA,substituicao_entra,Mathias
+178,4,08:00,77,70,CEA,substituicao_entra,Lobo
+179,4,08:00,77,70,CEA,substituicao_sai,Sualisson
+180,4,08:00,77,70,CEA,substituicao_sai,Holloway
+181,4,08:00,77,70,BAU,FR,Gui Deodato
+182,4,08:00,77,70,CEA,FC,Holloway
+183,4,08:00,77,70,BAU,2_Pts_C,Gui Deodato
+184,4,08:12,75,70,CEA,2_Pts_C,Sualisson
+185,4,08:35,75,68,CEA,RD,Felipe
+186,4,08:38,75,68,BAU,2_Pts_T,Gabriel Jaú
+187,4,09:06,75,68,BAU,RD,Gui Deodato
+188,4,09:09,75,68,CEA,3_Pts_T,Cauê
+189,4,09:30,75,68,BAU,AS,Larry Taylor
+190,4,09:30,75,68,BAU,3_Pts_C,Gui Deodato
+191,4,09:37,72,68,CEA,AS,Holloway
+192,4,09:37,72,68,CEA,3_Pts_C,Rashaun
+193,4,09:37,72,65,CEA,RO,Fortaleza Basquete Cearense
+194,4,09:37,72,65,CEA,2_Pts_T,Rashaun
+195,4,09:43,72,65,CEA,BR,Holloway
+196,4,09:43,72,65,BAU,ER,Zach Graham
+197,4,10:00,72,65,,inicio_quarto,
+198,3,00:00,72,65,,fim_quarto,
+199,3,00:02,72,65,CEA,2_Pts_C,Cauê
+200,3,00:26,72,63,BAU,2_Pts_C,Gui Deodato
+201,3,00:41,70,63,CEA,AS,Rashaun
+202,3,00:41,70,63,CEA,3_Pts_C,Cauê
+203,3,00:46,70,60,CEA,RD,Holloway
+204,3,00:50,70,60,BAU,3_Pts_T,Zach Graham
+205,3,00:51,70,60,BAU,substituicao_entra,Larry Taylor
+206,3,00:51,70,60,BAU,substituicao_sai,Alexey Borges
+207,3,01:09,70,60,CEA,substituicao_entra,Felipe
+208,3,01:09,70,60,CEA,substituicao_sai,Mathias
+209,3,01:19,70,60,BAU,RD,Gui Deodato
+210,3,01:19,70,60,CEA,LL_Pts_T,Sualisson
+211,3,01:19,70,60,CEA,LL_Pts_T,Sualisson
+212,3,01:19,70,60,CEA,FR,Sualisson
+213,3,01:19,70,60,BAU,FC,Alexey Borges
+214,3,01:19,70,60,CEA,RO,Sualisson
+215,3,01:23,70,60,CEA,2_Pts_T,Holloway
+216,3,01:37,70,60,CEA,RD,Mathias
+217,3,01:41,70,60,BAU,2_Pts_T,Alexey Borges
+218,3,01:49,70,60,BAU,RD,Diego
+219,3,01:49,70,60,CEA,LL_Pts_T,Mathias
+220,3,01:49,70,60,CEA,LL_Pts_T,Mathias
+221,3,01:49,70,60,BAU,substituicao_entra,Diego
+222,3,01:49,70,60,BAU,substituicao_sai,Dikembe
+223,3,01:49,70,60,CEA,FR,Mathias
+224,3,01:49,70,60,BAU,FC,Dikembe
+225,3,01:59,70,60,BAU,substituicao_entra,Gabriel Jaú
+226,3,01:59,70,60,BAU,substituicao_sai,Alex
+227,3,01:59,70,60,CEA,FR,Rashaun
+228,3,01:59,70,60,BAU,FC,Alex
+229,3,02:17,70,60,BAU,2_Pts_C,Zach Graham
+230,3,02:30,68,60,CEA,2_Pts_C,Cauê
+231,3,02:48,68,58,BAU,AS,Alex
+232,3,02:48,68,58,BAU,3_Pts_C,Zach Graham
+233,3,02:58,65,58,CEA,2_Pts_C,Mathias
+234,3,03:22,65,56,BAU,AS,Alex
+235,3,03:22,65,56,BAU,2_Pts_C,Gui Deodato
+236,3,03:28,63,56,CEA,substituicao_entra,Holloway
+237,3,03:28,63,56,CEA,substituicao_sai,Lobo
+238,3,03:28,63,56,BAU,FR,Alexey Borges
+239,3,03:28,63,56,CEA,FC,Lobo
+240,3,03:34,63,56,CEA,2_Pts_C,Rashaun
+241,3,03:42,63,54,CEA,RD,Mathias
+242,3,03:46,63,54,BAU,3_Pts_T,Zach Graham
+243,3,03:49,63,54,CEA,substituicao_entra,Rashaun
+244,3,03:49,63,54,CEA,substituicao_entra,Sualisson
+245,3,03:49,63,54,CEA,substituicao_entra,Lobo
+246,3,03:49,63,54,CEA,substituicao_sai,Felipe
+247,3,03:49,63,54,CEA,substituicao_sai,Alex
+248,3,03:49,63,54,CEA,substituicao_sai,Holloway
+249,3,03:53,63,54,BAU,RD,Alex
+250,3,03:57,63,54,CEA,2_Pts_T,Felipe
+251,3,04:16,63,54,BAU,ER,Gui Deodato
+252,3,04:23,63,54,BAU,RD,Gui Deodato
+253,3,04:27,63,54,CEA,3_Pts_T,Felipe
+254,3,04:44,63,54,BAU,AS,Alexey Borges
+255,3,04:44,63,54,BAU,3_Pts_C,Gui Deodato
+256,3,04:46,60,54,CEA,substituicao_entra,Cauê
+257,3,04:46,60,54,CEA,substituicao_sai,Lobo
+258,3,04:46,60,54,BAU,RO,Bauru
+259,3,04:48,60,54,BAU,3_Pts_T,Gui Deodato
+260,3,04:51,60,54,BAU,RD,Zach Graham
+261,3,04:55,60,54,CEA,2_Pts_T,Mathias
+262,3,05:08,60,54,CEA,substituicao_entra,Lobo
+263,3,05:08,60,54,CEA,substituicao_sai,Rashaun
+264,3,05:08,60,54,CEA,FR,Rashaun
+265,3,05:08,60,54,BAU,FC,Alexey Borges
+266,3,05:23,60,54,BAU,AS,Gui Deodato
+267,3,05:23,60,54,BAU,3_Pts_C,Alexey Borges
+268,3,05:35,57,54,BAU,BR,Gui Deodato
+269,3,05:35,57,54,CEA,ER,Alex
+270,3,05:48,57,54,BAU,LL_Pts_C,Alex
+271,3,05:48,56,54,CEA,substituicao_entra,Alex
+272,3,05:48,56,54,CEA,substituicao_sai,Cauê
+273,3,05:48,56,54,BAU,FR,Alex
+274,3,05:48,56,54,CEA,FC,Mathias
+275,3,05:48,56,54,BAU,2_Pts_C,Alex
+276,3,06:06,54,54,CEA,AS,Cauê
+277,3,06:06,54,54,CEA,3_Pts_C,Felipe
+278,3,06:12,54,51,CEA,RD,Cauê
+279,3,06:15,54,51,BAU,3_Pts_T,Alex
+280,3,06:23,54,51,BAU,BR,Zach Graham
+281,3,06:23,54,51,CEA,ER,Rashaun
+282,3,06:35,54,51,CEA,RD,Fortaleza Basquete Cearense
+283,3,06:38,54,51,BAU,3_Pts_T,Zach Graham
+284,3,06:47,54,51,CEA,LL_Pts_C,Holloway
+285,3,06:47,54,50,BAU,substituicao_entra,Zach Graham
+286,3,06:47,54,50,BAU,substituicao_entra,Dikembe
+287,3,06:47,54,50,BAU,substituicao_sai,Gabriel Jaú
+288,3,06:47,54,50,BAU,substituicao_sai,Diego
+289,3,06:47,54,50,CEA,FR,Holloway
+290,3,06:47,54,50,BAU,FC,Alexey Borges
+291,3,06:47,54,50,CEA,2_Pts_C,Holloway
+292,3,06:47,54,48,CEA,RO,Holloway
+293,3,06:49,54,48,CEA,2_Pts_T,Holloway
+294,3,07:07,54,48,BAU,ER,Alex
+295,3,07:15,54,48,CEA,AS,Felipe
+296,3,07:15,54,48,CEA,2_Pts_C,Mathias
+297,3,07:41,54,46,BAU,AS,Gui Deodato
+298,3,07:41,54,46,BAU,3_Pts_C,Alexey Borges
+299,3,07:55,51,46,CEA,AS,Rashaun
+300,3,07:55,51,46,CEA,3_Pts_C,Felipe
+301,3,08:07,51,43,BAU,2_Pts_C,Gabriel Jaú
+302,3,08:08,49,43,BAU,RO,Alexey Borges
+303,3,08:12,49,43,BAU,3_Pts_T,Alex
+304,3,08:13,49,43,BAU,RO,Alexey Borges
+305,3,08:17,49,43,BAU,3_Pts_T,Alex
+306,3,08:32,49,43,CEA,AS,Rashaun
+307,3,08:32,49,43,CEA,2_Pts_C,Holloway
+308,3,08:34,49,41,BAU,substituicao_entra,Diego
+309,3,08:34,49,41,BAU,substituicao_sai,Tyrone Curnell
+310,3,08:34,49,41,CEA,FR,Felipe
+311,3,08:34,49,41,BAU,FC,Tyrone Curnell
+312,3,08:45,49,41,BAU,AS,Alexey Borges
+313,3,08:45,49,41,BAU,3_Pts_C,Tyrone Curnell
+314,3,08:57,46,41,CEA,2_Pts_C,Mathias
+315,3,08:57,46,39,CEA,RO,Mathias
+316,3,09:04,46,39,BAU,TO,Tyrone Curnell
+317,3,09:04,46,39,CEA,2_Pts_T,Holloway
+318,3,09:12,46,39,BAU,AS,Alex
+319,3,09:12,46,39,BAU,EN,Gabriel Jaú
+320,3,09:14,44,39,BAU,RD,Alex
+321,3,09:18,44,39,CEA,3_Pts_T,Holloway
+322,3,09:25,44,39,CEA,RD,Mathias
+323,3,09:31,44,39,BAU,2_Pts_T,Tyrone Curnell
+324,3,09:37,44,39,CEA,2_Pts_C,Felipe
+325,3,10:00,44,37,,inicio_quarto,
+326,2,00:00,44,37,,fim_quarto,
+327,2,00:03,44,37,CEA,BR,Alex
+328,2,00:03,44,37,BAU,ER,Alex
+329,2,00:04,44,37,BAU,substituicao_entra,Alex
+330,2,00:04,44,37,BAU,substituicao_entra,Tyrone Curnell
+331,2,00:04,44,37,BAU,substituicao_sai,Gabriel Jaú
+332,2,00:04,44,37,BAU,substituicao_sai,Diego
+333,2,00:04,44,37,CEA,LL_Pts_C,Cauê
+334,2,00:04,44,36,CEA,LL_Pts_T,Cauê
+335,2,00:04,44,36,CEA,FR,Cauê
+336,2,00:04,44,36,BAU,FC,Diego
+337,2,00:10,44,36,CEA,RD,Sualisson
+338,2,00:14,44,36,BAU,3_Pts_T,Alexey Borges
+339,2,00:28,44,36,CEA,substituicao_entra,Mathias
+340,2,00:28,44,36,CEA,substituicao_sai,Holloway
+341,2,00:28,44,36,BAU,substituicao_entra,Zach Graham
+342,2,00:28,44,36,BAU,substituicao_sai,Larry Taylor
+343,2,00:28,44,36,BAU,RO,Bauru
+344,2,00:31,44,36,BAU,3_Pts_T,Gui Deodato
+345,2,00:49,44,36,CEA,2_Pts_C,Sualisson
+346,2,01:04,44,34,CEA,substituicao_entra,Holloway
+347,2,01:04,44,34,CEA,substituicao_sai,Rashaun
+348,2,01:04,44,34,BAU,substituicao_entra,Diego
+349,2,01:04,44,34,BAU,substituicao_sai,Alex
+350,2,01:04,44,34,BAU,LL_Pts_C,Gabriel Jaú
+351,2,01:04,43,34,BAU,LL_Pts_C,Gabriel Jaú
+352,2,01:04,42,34,BAU,FR,Gabriel Jaú
+353,2,01:04,42,34,CEA,FC,Alex
+354,2,01:25,42,34,CEA,2_Pts_C,Rashaun
+355,2,01:32,42,32,BAU,2_Pts_C,Alexey Borges
+356,2,01:54,40,32,CEA,ER,
+357,2,02:14,40,32,CEA,RD,Sualisson
+358,2,02:19,40,32,BAU,3_Pts_T,Larry Taylor
+359,2,02:37,40,32,BAU,tempo_tecnico,Bauru
+360,2,02:37,40,32,CEA,substituicao_entra,Felipe
+361,2,02:37,40,32,CEA,substituicao_sai,Mathias
+362,2,02:37,40,32,CEA,LL_Pts_C,Rashaun
+363,2,02:37,40,31,CEA,LL_Pts_C,Rashaun
+364,2,02:37,40,30,BAU,substituicao_entra,Gabriel Jaú
+365,2,02:37,40,30,BAU,substituicao_sai,Dikembe
+366,2,02:37,40,30,CEA,FR,Rashaun
+367,2,02:37,40,30,BAU,FC,Dikembe
+368,2,02:45,40,30,CEA,RO,Rashaun
+369,2,02:48,40,30,CEA,3_Pts_T,Cauê
+370,2,02:51,40,30,CEA,RD,Cauê
+371,2,02:55,40,30,BAU,3_Pts_T,Alexey Borges
+372,2,03:08,40,30,CEA,2_Pts_C,Rashaun
+373,2,03:16,40,28,CEA,RO,Sualisson
+374,2,03:16,40,28,CEA,LL_Pts_T,Mathias
+375,2,03:16,40,28,CEA,LL_Pts_T,Mathias
+376,2,03:16,40,28,BAU,substituicao_entra,Dikembe
+377,2,03:16,40,28,BAU,substituicao_sai,Tyrone Curnell
+378,2,03:16,40,28,CEA,FR,Mathias
+379,2,03:16,40,28,BAU,FC,Tyrone Curnell
+380,2,03:35,40,28,BAU,LL_Pts_C,Alex
+381,2,03:35,39,28,BAU,LL_Pts_C,Alex
+382,2,03:35,38,28,BAU,LL_Pts_C,Alex
+383,2,03:35,37,28,CEA,FC_T,Fortaleza Basquete Cearense
+384,2,03:35,37,28,BAU,FR,Alex
+385,2,03:35,37,28,CEA,FC,Sualisson
+386,2,03:39,37,28,BAU,RD,Tyrone Curnell
+387,2,03:43,37,28,CEA,2_Pts_T,Rashaun
+388,2,03:45,37,28,CEA,FR,Rashaun
+389,2,03:45,37,28,BAU,FC,Larry Taylor
+390,2,03:52,37,28,CEA,RD,Mathias
+391,2,03:55,37,28,BAU,2_Pts_T,Gui Deodato
+392,2,04:09,37,28,BAU,BR,Alex
+393,2,04:09,37,28,CEA,ER,Alex
+394,2,04:10,37,28,CEA,tempo_tecnico,Fortaleza Basquete Cearense
+395,2,04:30,37,28,CEA,RD,Alex
+396,2,04:34,37,28,BAU,3_Pts_T,Gui Deodato
+397,2,04:47,37,28,CEA,substituicao_entra,Mathias
+398,2,04:47,37,28,CEA,substituicao_sai,Schneider
+399,2,04:47,37,28,BAU,FR,Alex
+400,2,04:47,37,28,CEA,FC,Rashaun
+401,2,04:59,37,28,BAU,RD,Tyrone Curnell
+402,2,05:05,37,28,CEA,3_Pts_T,Alex
+403,2,05:26,37,28,CEA,substituicao_entra,Cauê
+404,2,05:26,37,28,CEA,substituicao_sai,Holloway
+405,2,05:26,37,28,BAU,substituicao_entra,Larry Taylor
+406,2,05:26,37,28,BAU,substituicao_sai,Zach Graham
+407,2,05:26,37,28,BAU,LL_Pts_C,Tyrone Curnell
+408,2,05:26,36,28,BAU,FR,Tyrone Curnell
+409,2,05:26,36,28,CEA,FC,Holloway
+410,2,05:26,36,28,BAU,2_Pts_C,Tyrone Curnell
+411,2,05:36,34,28,CEA,substituicao_entra,Holloway
+412,2,05:36,34,28,CEA,substituicao_sai,Cauê
+413,2,05:36,34,28,BAU,tempo_tecnico,Bauru
+414,2,06:26,34,28,CEA,3_Pts_C,Cauê
+415,2,06:26,34,25,CEA,RD,Schneider
+416,2,06:26,34,25,BAU,2_Pts_T,Zach Graham
+417,2,06:26,34,25,BAU,RD,Alex
+418,2,06:26,34,25,CEA,2_Pts_T,Rashaun
+419,2,06:26,34,25,BAU,3_Pts_C,Gui Deodato
+420,2,06:26,31,25,BAU,RO,Gui Deodato
+421,2,06:26,31,25,BAU,3_Pts_T,Zach Graham
+422,2,06:27,31,25,CEA,2_Pts_C,Sualisson
+423,2,06:27,31,23,CEA,substituicao_entra,Alex
+424,2,06:27,31,23,CEA,substituicao_sai,Holloway
+425,2,06:52,31,23,CEA,substituicao_entra,Sualisson
+426,2,06:52,31,23,CEA,substituicao_sai,Felipe
+427,2,06:52,31,23,BAU,ER,Alexey Borges
+428,2,06:55,31,23,BAU,RD,Alex
+429,2,07:00,31,23,CEA,2_Pts_T,Felipe
+430,2,07:17,31,23,BAU,3_Pts_C,Gui Deodato
+431,2,07:19,28,23,BAU,RD,Zach Graham
+432,2,07:29,28,23,CEA,3_Pts_T,Schneider
+433,2,07:40,28,23,CEA,FR,Holloway
+434,2,07:40,28,23,BAU,FC,Tyrone Curnell
+435,2,07:40,28,23,CEA,RO,Holloway
+436,2,07:45,28,23,BAU,TO,Alexey Borges
+437,2,07:45,28,23,CEA,2_Pts_T,Holloway
+438,2,07:49,28,23,CEA,RO,Holloway
+439,2,07:55,28,23,CEA,3_Pts_T,Rashaun
+440,2,08:11,28,23,BAU,LL_Pts_T,Alex
+441,2,08:11,28,23,CEA,ER,
+442,2,08:11,28,23,CEA,FC_T,Fortaleza Basquete Cearense
+443,2,08:11,28,23,BAU,substituicao_entra,Tyrone Curnell
+444,2,08:11,28,23,BAU,substituicao_sai,Diego
+445,2,08:11,28,23,CEA,substituicao_entra,Schneider
+446,2,08:11,28,23,CEA,substituicao_sai,Mathias
+447,2,08:11,28,23,CEA,FR,Cauê
+448,2,08:11,28,23,BAU,ER,Alex
+449,2,08:11,28,23,BAU,FC_O,Alex
+450,2,08:18,28,23,BAU,RD,Gui Deodato
+451,2,08:22,28,23,CEA,3_Pts_T,Felipe
+452,2,08:39,28,23,BAU,2_Pts_C,Gui Deodato
+453,2,08:53,26,23,CEA,2_Pts_C,Cauê
+454,2,09:03,26,21,BAU,LL_Pts_C,Zach Graham
+455,2,09:03,25,21,BAU,LL_Pts_C,Zach Graham
+456,2,09:03,24,21,BAU,LL_Pts_T,Zach Graham
+457,2,09:03,24,21,BAU,FR,Zach Graham
+458,2,09:03,24,21,CEA,FC,Felipe
+459,2,09:16,24,21,CEA,ER,Mathias
+460,2,09:27,24,21,CEA,RD,Mathias
+461,2,09:35,24,21,CEA,TO,Mathias
+462,2,09:35,24,21,BAU,2_Pts_T,Gui Deodato
+463,2,09:48,24,21,BAU,RD,Alexey Borges
+464,2,09:48,24,21,CEA,LL_Pts_T,Mathias
+465,2,09:48,24,21,CEA,LL_Pts_C,Mathias
+466,2,09:48,24,20,CEA,FR,Mathias
+467,2,09:48,24,20,BAU,FC,Diego
+468,2,10:00,24,20,,inicio_quarto,
+469,1,00:00,24,20,,fim_quarto,
+470,1,00:04,24,20,BAU,2_Pts_T,Alex
+471,1,00:24,24,20,CEA,LL_Pts_C,Felipe
+472,1,00:24,24,19,CEA,LL_Pts_C,Felipe
+473,1,00:24,24,18,CEA,FR,Felipe
+474,1,00:24,24,18,BAU,FC,Zach Graham
+475,1,00:41,24,18,BAU,AS,Alexey Borges
+476,1,00:41,24,18,BAU,3_Pts_C,Diego
+477,1,00:56,21,18,CEA,substituicao_entra,Cauê
+478,1,00:56,21,18,CEA,substituicao_sai,Lobo
+479,1,00:56,21,18,BAU,substituicao_entra,Alexey Borges
+480,1,00:56,21,18,BAU,substituicao_sai,Tyrone Curnell
+481,1,00:56,21,18,CEA,ER,
+482,1,01:19,21,18,CEA,RD,Mathias
+483,1,01:24,21,18,BAU,3_Pts_T,Alex
+484,1,01:37,21,18,CEA,2_Pts_C,Felipe
+485,1,01:56,21,16,CEA,RD,Mathias
+486,1,02:00,21,16,BAU,3_Pts_T,Zach Graham
+487,1,02:11,21,16,BAU,substituicao_entra,Diego
+488,1,02:11,21,16,BAU,substituicao_sai,Gabriel Jaú
+489,1,02:11,21,16,CEA,LL_Pts_C,Holloway
+490,1,02:11,21,15,CEA,FR,Holloway
+491,1,02:11,21,15,BAU,FC,Gabriel Jaú
+492,1,02:11,21,15,CEA,2_Pts_C,Holloway
+493,1,02:24,21,13,BAU,substituicao_entra,Alex
+494,1,02:24,21,13,BAU,substituicao_sai,Gui Deodato
+495,1,02:24,21,13,BAU,LL_Pts_C,Gui Deodato
+496,1,02:24,20,13,BAU,LL_Pts_C,Gui Deodato
+497,1,02:24,19,13,BAU,LL_Pts_C,Gui Deodato
+498,1,02:24,18,13,BAU,FR,Gui Deodato
+499,1,02:24,18,13,CEA,FC,Holloway
+500,1,02:42,18,13,CEA,3_Pts_C,Holloway
+501,1,02:58,18,10,BAU,3_Pts_C,Gui Deodato
+502,1,03:08,15,10,BAU,RD,Larry Taylor
+503,1,03:11,15,10,CEA,3_Pts_T,Rashaun
+504,1,03:28,15,10,BAU,AS,Larry Taylor
+505,1,03:28,15,10,BAU,3_Pts_C,Gui Deodato
+506,1,03:30,12,10,BAU,RO,Larry Taylor
+507,1,03:34,12,10,BAU,2_Pts_T,Larry Taylor
+508,1,03:48,12,10,CEA,AS,Holloway
+509,1,03:48,12,10,CEA,2_Pts_C,Mathias
+510,1,03:56,12,8,CEA,substituicao_entra,Lobo
+511,1,03:56,12,8,CEA,substituicao_sai,Cauê
+512,1,04:03,12,8,BAU,2_Pts_C,Gui Deodato
+513,1,04:05,10,8,BAU,RD,Tyrone Curnell
+514,1,04:10,10,8,CEA,2_Pts_T,Holloway
+515,1,04:23,10,8,BAU,2_Pts_C,Gui Deodato
+516,1,04:39,8,8,BAU,substituicao_entra,Zach Graham
+517,1,04:39,8,8,BAU,substituicao_entra,Larry Taylor
+518,1,04:39,8,8,BAU,substituicao_sai,Alex
+519,1,04:39,8,8,BAU,substituicao_sai,Alexey Borges
+520,1,04:39,8,8,CEA,ER,Mathias
+521,1,04:51,8,8,CEA,RD,Mathias
+522,1,04:55,8,8,BAU,3_Pts_T,Tyrone Curnell
+523,1,04:57,8,8,BAU,RO,Bauru
+524,1,04:58,8,8,BAU,2_Pts_T,Tyrone Curnell
+525,1,05:06,8,8,BAU,RO,Alex
+526,1,05:10,8,8,BAU,3_Pts_T,Alexey Borges
+527,1,05:27,8,8,CEA,2_Pts_C,Cauê
+528,1,05:40,8,6,BAU,AS,Alexey Borges
+529,1,05:40,8,6,BAU,2_Pts_C,Tyrone Curnell
+530,1,05:41,6,6,BAU,RD,Alexey Borges
+531,1,05:45,6,6,CEA,2_Pts_T,Felipe
+532,1,05:53,6,6,CEA,RO,Fortaleza Basquete Cearense
+533,1,05:53,6,6,BAU,TO,Gui Deodato
+534,1,05:53,6,6,CEA,2_Pts_T,Rashaun
+535,1,05:59,6,6,CEA,FR,Mathias
+536,1,05:59,6,6,BAU,FC,Gabriel Jaú
+537,1,06:14,6,6,BAU,LL_Pts_C,Gui Deodato
+538,1,06:14,5,6,BAU,AS,Alexey Borges
+539,1,06:14,5,6,BAU,LL_Pts_C,Gui Deodato
+540,1,06:14,4,6,BAU,FR,Gui Deodato
+541,1,06:14,4,6,CEA,FC,Holloway
+542,1,06:15,4,6,BAU,RD,Alexey Borges
+543,1,06:20,4,6,CEA,3_Pts_T,Holloway
+544,1,06:30,4,6,CEA,RD,Felipe
+545,1,06:35,4,6,BAU,3_Pts_T,Alex
+546,1,06:41,4,6,CEA,LL_Pts_C,Rashaun
+547,1,06:43,4,5,CEA,FR,Rashaun
+548,1,06:43,4,5,BAU,FC,Alex
+549,1,06:50,4,5,CEA,2_Pts_C,Rashaun
+550,1,06:58,4,3,BAU,2_Pts_C,Alex
+551,1,06:59,2,3,BAU,RO,Alex
+552,1,07:03,2,3,BAU,2_Pts_T,Gui Deodato
+553,1,07:08,2,3,BAU,BR,Gui Deodato
+554,1,07:08,2,3,CEA,ER,Cauê
+555,1,07:16,2,3,CEA,RD,Mathias
+556,1,07:21,2,3,BAU,3_Pts_T,Gui Deodato
+557,1,07:33,2,3,BAU,substituicao_entra,Gabriel Jaú
+558,1,07:33,2,3,BAU,substituicao_sai,Dikembe
+559,1,07:33,2,3,CEA,ER,Felipe
+560,1,07:52,2,3,CEA,RD,Mathias
+561,1,07:56,2,3,BAU,3_Pts_T,Alex
+562,1,08:13,2,3,CEA,AS,Cauê
+563,1,08:13,2,3,CEA,3_Pts_C,Felipe
+564,1,08:26,2,0,CEA,RO,Cauê
+565,1,08:32,2,0,CEA,3_Pts_T,Felipe
+566,1,08:39,2,0,CEA,FR,Holloway
+567,1,08:39,2,0,BAU,FC,Gui Deodato
+568,1,08:39,2,0,CEA,RO,Fortaleza Basquete Cearense
+569,1,08:41,2,0,CEA,2_Pts_T,Mathias
+570,1,08:51,2,0,CEA,RD,Mathias
+571,1,08:57,2,0,CEA,TO,Mathias
+572,1,08:57,2,0,BAU,2_Pts_T,Dikembe
+573,1,09:13,2,0,BAU,FR,Gui Deodato
+574,1,09:13,2,0,CEA,FC,Mathias
+575,1,09:13,2,0,BAU,RD,Bauru
+576,1,09:14,2,0,CEA,2_Pts_T,Holloway
+577,1,09:26,2,0,CEA,RD,Mathias
+578,1,09:26,2,0,BAU,LL_Pts_T,Tyrone Curnell
+579,1,09:26,2,0,BAU,FR,Tyrone Curnell
+580,1,09:26,2,0,CEA,FC,Rashaun
+581,1,09:26,2,0,BAU,2_Pts_C,Tyrone Curnell
+582,1,09:30,0,0,BAU,BR,Gui Deodato
+583,1,09:30,0,0,CEA,ER,Mathias
+584,1,09:44,0,0,CEA,RD,Mathias
+585,1,09:47,0,0,BAU,2_Pts_T,Alex
+586,1,10:00,0,0,CEA,substituicao_entra,Felipe
+587,1,10:00,0,0,CEA,substituicao_entra,Rashaun
+588,1,10:00,0,0,CEA,substituicao_entra,Mathias
+589,1,10:00,0,0,CEA,substituicao_entra,Cauê
+590,1,10:00,0,0,CEA,substituicao_entra,Holloway
+591,1,10:00,0,0,BAU,substituicao_entra,Dikembe
+592,1,10:00,0,0,BAU,substituicao_entra,Alex
+593,1,10:00,0,0,BAU,substituicao_entra,Alexey Borges
+594,1,10:00,0,0,BAU,substituicao_entra,Gui Deodato
+595,1,10:00,0,0,BAU,substituicao_entra,Tyrone Curnell
+596,1,10:00,0,0,,inicio_partida,

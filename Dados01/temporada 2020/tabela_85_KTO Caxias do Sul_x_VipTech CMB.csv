@@ -1,0 +1,543 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,76,96,,fim_partida,
+1,4,00:00,76,96,,fim_quarto,
+2,4,00:02,76,96,CMO,2_Pts_T,Rapha
+3,4,00:07,76,96,CAX,2_Pts_C,Dida
+4,4,00:18,74,96,CMO,LL_Pts_C,Rapha
+5,4,00:18,74,95,CMO,LL_Pts_T,Rapha
+6,4,00:18,74,95,CMO,FR,Rapha
+7,4,00:18,74,95,CAX,FC,R Stabile
+8,4,00:19,74,95,CAX,LL_Pts_C,Da Silva
+9,4,00:19,73,95,CAX,LL_Pts_C,Da Silva
+10,4,00:19,72,95,CAX,FR,Da Silva
+11,4,00:19,72,95,CMO,FC,Magna
+12,4,00:30,72,95,CMO,AS,Rapha
+13,4,00:30,72,95,CMO,3_Pts_C,Magna
+14,4,00:33,72,92,CMO,RO,Brito
+15,4,00:35,72,92,CMO,LL_Pts_T,Brito
+16,4,00:35,72,92,CMO,LL_Pts_C,Brito
+17,4,00:35,72,91,CMO,FR,Brito
+18,4,00:35,72,91,CAX,FC,Nico
+19,4,00:44,72,91,CAX,AS,Nico
+20,4,00:44,72,91,CAX,2_Pts_C,Dida
+21,4,00:52,70,91,CMO,ER,Magna
+22,4,00:55,70,91,CMO,substituicao_entra,Rapha
+23,4,00:55,70,91,CMO,substituicao_sai,Figueroa
+24,4,00:55,70,91,CMO,RD,Lucão
+25,4,01:00,70,91,CAX,2_Pts_T,Pedro
+26,4,01:03,70,91,CAX,RD,R Stabile
+27,4,01:07,70,91,CMO,2_Pts_T,Brito
+28,4,01:18,70,91,CMO,RD,Magna
+29,4,01:21,70,91,CAX,3_Pts_T,Pedro
+30,4,01:35,70,91,CMO,AS,Figueroa
+31,4,01:35,70,91,CMO,2_Pts_C,Lucão
+32,4,01:42,70,89,CMO,RO,Figueroa
+33,4,01:47,70,89,CMO,3_Pts_T,Magna
+34,4,01:53,70,89,CMO,substituicao_entra,Brito
+35,4,01:53,70,89,CMO,substituicao_sai,Pierotti
+36,4,01:53,70,89,CMO,LL_Pts_T,Pierotti
+37,4,01:53,70,89,CMO,LL_Pts_C,Pierotti
+38,4,01:53,70,88,CMO,FR,Pierotti
+39,4,01:53,70,88,CAX,FC_A,Dida
+40,4,01:54,70,88,CMO,BR,Pierotti
+41,4,01:54,70,88,CAX,ER,Da Silva
+42,4,01:56,70,88,CAX,RD,Da Silva
+43,4,01:59,70,88,CMO,3_Pts_T,Frierson
+44,4,02:15,70,88,CMO,substituicao_entra,Lucão
+45,4,02:15,70,88,CMO,substituicao_entra,Magna
+46,4,02:15,70,88,CMO,substituicao_entra,Frierson
+47,4,02:15,70,88,CMO,substituicao_sai,M Pajé
+48,4,02:15,70,88,CMO,substituicao_sai,Pezão
+49,4,02:15,70,88,CMO,substituicao_sai,Luizinho
+50,4,02:15,70,88,CAX,AS,Eddy
+51,4,02:15,70,88,CAX,LL_Pts_C,Dida
+52,4,02:15,69,88,CAX,LL_Pts_T,Dida
+53,4,02:15,69,88,CAX,substituicao_entra,R Stabile
+54,4,02:15,69,88,CAX,substituicao_sai,Eddy
+55,4,02:15,69,88,CAX,FR,Dida
+56,4,02:15,69,88,CMO,FC,Figueroa
+57,4,02:24,69,88,CAX,RD,Pedro
+58,4,02:28,69,88,CMO,3_Pts_T,Pierotti
+59,4,02:44,69,88,CAX,2_Pts_C,Da Silva
+60,4,02:55,67,88,CMO,AS,Figueroa
+61,4,02:55,67,88,CMO,2_Pts_C,M Pajé
+62,4,03:01,67,86,CAX,LL_Pts_C,Pedro
+63,4,03:01,66,86,CAX,LL_Pts_C,Pedro
+64,4,03:01,65,86,CAX,LL_Pts_C,Pedro
+65,4,03:01,64,86,CAX,FR,Pedro
+66,4,03:01,64,86,CMO,FC,Pezão
+67,4,03:19,64,86,CMO,LL_Pts_C,Pezão
+68,4,03:19,64,85,CMO,AS,Figueroa
+69,4,03:19,64,85,CMO,LL_Pts_C,Pezão
+70,4,03:19,64,84,CMO,FR,Pezão
+71,4,03:19,64,84,CAX,FC,Dida
+72,4,03:31,64,84,CAX,LL_Pts_C,Pedro
+73,4,03:31,63,84,CMO,substituicao_entra,Figueroa
+74,4,03:31,63,84,CMO,substituicao_sai,Brito
+75,4,03:31,63,84,CAX,FR,Pedro
+76,4,03:31,63,84,CMO,FC,Brito
+77,4,03:31,63,84,CAX,AS,Eddy
+78,4,03:31,63,84,CAX,2_Pts_C,Pedro
+79,4,03:36,61,84,CAX,BR,Eddy
+80,4,03:36,61,84,CMO,ER,Brito
+81,4,03:51,61,84,CAX,2_Pts_C,Nico
+82,4,04:02,59,84,CMO,AS,Pierotti
+83,4,04:02,59,84,CMO,2_Pts_C,Pezão
+84,4,04:13,59,82,CMO,RD,Pezão
+85,4,04:19,59,82,CMO,TO,Pezão
+86,4,04:19,59,82,CAX,2_Pts_T,Eddy
+87,4,04:35,59,82,CAX,substituicao_entra,Dida
+88,4,04:35,59,82,CAX,substituicao_sai,Antonio
+89,4,04:35,59,82,CMO,AS,Pezão
+90,4,04:35,59,82,CMO,2_Pts_C,M Pajé
+91,4,04:56,59,80,CMO,RD,Luizinho
+92,4,05:02,59,80,CAX,2_Pts_T,Pedro
+93,4,05:13,59,80,CMO,substituicao_entra,Luizinho
+94,4,05:13,59,80,CMO,substituicao_sai,Figueroa
+95,4,05:13,59,80,CMO,LL_Pts_C,Pierotti
+96,4,05:13,59,79,CMO,LL_Pts_C,Pierotti
+97,4,05:13,59,78,CMO,LL_Pts_C,Pierotti
+98,4,05:13,59,77,CMO,FR,Pierotti
+99,4,05:13,59,77,CAX,FC,Eddy
+100,4,05:26,59,77,CMO,RD,Brito
+101,4,05:30,59,77,CAX,3_Pts_T,Eddy
+102,4,05:46,59,77,CMO,AS,Pezão
+103,4,05:46,59,77,CMO,3_Pts_C,Pierotti
+104,4,06:07,59,74,CAX,LL_Pts_C,Da Silva
+105,4,06:07,58,74,CMO,substituicao_entra,Pierotti
+106,4,06:07,58,74,CMO,substituicao_sai,Luizinho
+107,4,06:07,58,74,CAX,FR,Da Silva
+108,4,06:07,58,74,CMO,FC,M Pajé
+109,4,06:07,58,74,CAX,2_Pts_C,Da Silva
+110,4,06:19,56,74,CAX,FR,Pedro
+111,4,06:19,56,74,CMO,ER,Brito
+112,4,06:19,56,74,CMO,FC_O,Brito
+113,4,06:35,56,74,CAX,2_Pts_C,Nico
+114,4,06:48,54,74,CMO,substituicao_entra,Figueroa
+115,4,06:48,54,74,CMO,substituicao_sai,Pierotti
+116,4,06:51,54,74,CMO,ER,
+117,4,07:13,54,74,CMO,RD,Brito
+118,4,07:18,54,74,CAX,3_Pts_T,Antonio
+119,4,07:27,54,74,CAX,RD,Nico
+120,4,07:27,54,74,CMO,LL_Pts_T,Pezão
+121,4,07:27,54,74,CMO,LL_Pts_C,Pezão
+122,4,07:27,54,73,CMO,substituicao_entra,Brito
+123,4,07:27,54,73,CMO,substituicao_sai,Figueroa
+124,4,07:27,54,73,CMO,FR,Pezão
+125,4,07:27,54,73,CAX,FC,Antonio
+126,4,07:27,54,73,CAX,tempo_tecnico,
+127,4,07:39,54,73,CMO,BR,M Pajé
+128,4,07:39,54,73,CAX,ER,Pedro
+129,4,07:57,54,73,CMO,LL_Pts_C,Pierotti
+130,4,07:57,54,72,CMO,substituicao_entra,Luizinho
+131,4,07:57,54,72,CMO,substituicao_sai,Castellon
+132,4,07:57,54,72,CAX,substituicao_entra,Nico
+133,4,07:57,54,72,CAX,substituicao_sai,Eugeniusz
+134,4,07:57,54,72,CMO,FR,Pierotti
+135,4,07:57,54,72,CAX,FC,Eugeniusz
+136,4,07:57,54,72,CMO,AS,Figueroa
+137,4,07:57,54,72,CMO,2_Pts_C,Pierotti
+138,4,07:59,54,70,CMO,FR,Pezão
+139,4,07:59,54,70,CAX,FC,Eddy
+140,4,07:59,54,70,CAX,RD,Caxias do Sul
+141,4,07:59,54,70,CMO,3_Pts_T,Castellon
+142,4,08:15,54,70,CAX,LL_Pts_C,Eugeniusz
+143,4,08:15,53,70,CAX,substituicao_entra,Eddy
+144,4,08:15,53,70,CAX,substituicao_sai,R Stabile
+145,4,08:15,53,70,CAX,FR,Eugeniusz
+146,4,08:15,53,70,CMO,FC,Pezão
+147,4,08:15,53,70,CAX,2_Pts_C,Eugeniusz
+148,4,08:27,51,70,CMO,AS,M Pajé
+149,4,08:27,51,70,CMO,3_Pts_C,Pierotti
+150,4,08:29,51,67,CMO,RO,M Pajé
+151,4,08:34,51,67,CMO,2_Pts_T,Castellon
+152,4,08:51,51,67,CAX,substituicao_entra,Pedro
+153,4,08:51,51,67,CAX,substituicao_sai,Pedro
+154,4,08:51,51,67,CAX,LL_Pts_C,Pedro
+155,4,08:51,50,67,CAX,LL_Pts_C,Pedro
+156,4,08:51,49,67,CAX,FR,Pedro
+157,4,08:51,49,67,CMO,FC,Pezão
+158,4,08:53,49,67,CMO,2_Pts_C,Pezão
+159,4,08:53,49,65,CMO,RO,Pezão
+160,4,09:04,49,65,CMO,2_Pts_T,Pierotti
+161,4,09:16,49,65,CAX,AS,Pedro
+162,4,09:16,49,65,CAX,3_Pts_C,Eugeniusz
+163,4,09:39,46,65,CMO,3_Pts_C,Pierotti
+164,4,10:00,46,62,,inicio_quarto,
+165,3,00:00,46,62,,fim_quarto,
+166,3,00:04,46,62,CMO,RD,Brito
+167,3,00:04,46,62,CAX,3_Pts_T,Antonio
+168,3,00:12,46,62,CMO,substituicao_entra,Luizinho
+169,3,00:12,46,62,CMO,substituicao_sai,Pierotti
+170,3,00:12,46,62,CMO,LL_Pts_C,Pierotti
+171,3,00:12,46,61,CMO,LL_Pts_T,Pierotti
+172,3,00:12,46,61,CMO,substituicao_entra,Brito
+173,3,00:12,46,61,CMO,substituicao_sai,Figueroa
+174,3,00:12,46,61,CMO,FR,Pierotti
+175,3,00:12,46,61,CAX,FC,R Stabile
+176,3,00:30,46,61,CAX,LL_Pts_C,R Stabile
+177,3,00:30,45,61,CAX,LL_Pts_T,R Stabile
+178,3,00:30,45,61,CMO,substituicao_entra,Pierotti
+179,3,00:30,45,61,CMO,substituicao_sai,Brito
+180,3,00:30,45,61,CAX,FR,R Stabile
+181,3,00:30,45,61,CMO,FC,M Pajé
+182,3,00:30,45,61,CAX,RD,R Stabile
+183,3,00:30,45,61,CMO,2_Pts_T,Tom
+184,3,00:53,45,61,CAX,ER,Eugeniusz
+185,3,00:56,45,61,CAX,RD,Eugeniusz
+186,3,01:03,45,61,CMO,2_Pts_T,Brito
+187,3,01:30,45,61,CAX,LL_Pts_C,R Stabile
+188,3,01:30,44,61,CAX,substituicao_entra,Eugeniusz
+189,3,01:30,44,61,CAX,substituicao_sai,Nico
+190,3,01:30,44,61,CAX,FR,R Stabile
+191,3,01:30,44,61,CMO,FC,Brito
+192,3,01:30,44,61,CAX,2_Pts_C,R Stabile
+193,3,01:30,42,61,CMO,substituicao_entra,Brito
+194,3,01:30,42,61,CMO,substituicao_sai,Luizinho
+195,3,01:39,42,61,CAX,RD,R Stabile
+196,3,01:39,42,61,CMO,LL_Pts_T,M Pajé
+197,3,01:39,42,61,CMO,FR,M Pajé
+198,3,01:39,42,61,CAX,FC,Nico
+199,3,01:39,42,61,CMO,2_Pts_C,M Pajé
+200,3,01:39,42,59,CMO,RO,M Pajé
+201,3,01:39,42,59,CAX,TO,R Stabile
+202,3,01:39,42,59,CMO,2_Pts_T,Castellon
+203,3,01:56,42,59,CMO,RD,Figueroa
+204,3,02:01,42,59,CAX,3_Pts_T,Pedro
+205,3,02:09,42,59,CMO,substituicao_entra,Figueroa
+206,3,02:09,42,59,CMO,substituicao_sai,Pierotti
+207,3,02:09,42,59,CAX,substituicao_entra,Pedro
+208,3,02:09,42,59,CAX,substituicao_sai,Pedro
+209,3,02:09,42,59,CAX,FR,Nico
+210,3,02:09,42,59,CMO,FC,Pierotti
+211,3,02:09,42,59,CAX,RD,R Stabile
+212,3,02:14,42,59,CMO,2_Pts_T,Luizinho
+213,3,02:37,42,59,CMO,RD,Tom
+214,3,02:41,42,59,CAX,3_Pts_T,Nico
+215,3,02:54,42,59,CAX,RD,R Stabile
+216,3,02:57,42,59,CMO,3_Pts_T,Pierotti
+217,3,03:05,42,59,CMO,RO,Pierotti
+218,3,03:10,42,59,CMO,2_Pts_T,Castellon
+219,3,03:11,42,59,CMO,RO,Castellon
+220,3,03:15,42,59,CMO,3_Pts_T,Pierotti
+221,3,03:25,42,59,CMO,RD,Pierotti
+222,3,03:28,42,59,CAX,3_Pts_T,R Stabile
+223,3,03:34,42,59,CAX,RD,Pedro
+224,3,03:38,42,59,CMO,2_Pts_T,Castellon
+225,3,03:55,42,59,CMO,RD,Tom
+226,3,04:00,42,59,CAX,2_Pts_T,Nico
+227,3,04:12,42,59,CAX,RD,Da Silva
+228,3,04:12,42,59,CMO,LL_Pts_T,Pierotti
+229,3,04:12,42,59,CMO,substituicao_entra,Tom
+230,3,04:12,42,59,CMO,substituicao_entra,M Pajé
+231,3,04:12,42,59,CMO,substituicao_sai,Pezão
+232,3,04:12,42,59,CMO,substituicao_sai,Magna
+233,3,04:12,42,59,CAX,tempo_tecnico,
+234,3,04:12,42,59,CMO,FR,Pierotti
+235,3,04:12,42,59,CAX,FC,R Stabile
+236,3,04:12,42,59,CMO,2_Pts_C,Pierotti
+237,3,04:25,42,57,CAX,AS,R Stabile
+238,3,04:25,42,57,CAX,EN,Da Silva
+239,3,04:46,40,57,CMO,AS,Pezão
+240,3,04:46,40,57,CMO,2_Pts_C,Castellon
+241,3,04:56,40,55,CAX,2_Pts_C,Antonio
+242,3,04:57,38,55,CAX,RO,Antonio
+243,3,05:02,38,55,CAX,2_Pts_T,Antonio
+244,3,05:10,38,55,CAX,BR,Nico
+245,3,05:10,38,55,CMO,ER,Magna
+246,3,05:13,38,55,CMO,RD,Luizinho
+247,3,05:17,38,55,CAX,3_Pts_T,Antonio
+248,3,05:25,38,55,CAX,FR,Antonio
+249,3,05:25,38,55,CMO,FC,Castellon
+250,3,05:36,38,55,CMO,LL_Pts_C,Pierotti
+251,3,05:36,38,54,CMO,substituicao_entra,Castellon
+252,3,05:36,38,54,CMO,substituicao_sai,Figueroa
+253,3,05:36,38,54,CAX,substituicao_entra,R Stabile
+254,3,05:36,38,54,CAX,substituicao_sai,Eddy
+255,3,05:36,38,54,CAX,ER,
+256,3,05:36,38,54,CAX,FC_T,Caxias do Sul
+257,3,05:36,38,54,CMO,3_Pts_C,Pierotti
+258,3,05:38,38,51,CMO,RD,Figueroa
+259,3,05:42,38,51,CAX,2_Pts_T,Da Silva
+260,3,05:44,38,51,CAX,RD,Nico
+261,3,05:50,38,51,CAX,TO,Nico
+262,3,05:50,38,51,CMO,2_Pts_T,Pierotti
+263,3,05:55,38,51,CMO,BR,Pierotti
+264,3,05:55,38,51,CAX,ER,Nico
+265,3,06:10,38,51,CMO,AS,Pezão
+266,3,06:10,38,51,CMO,2_Pts_C,Magna
+267,3,06:28,38,49,CAX,AS,Antonio
+268,3,06:28,38,49,CAX,2_Pts_C,Eddy
+269,3,06:37,36,49,CAX,RO,Caxias do Sul
+270,3,06:37,36,49,CMO,TO,Pezão
+271,3,06:37,36,49,CAX,2_Pts_T,Eddy
+272,3,07:00,36,49,CMO,2_Pts_C,Luizinho
+273,3,07:22,36,47,CAX,2_Pts_C,Antonio
+274,3,07:39,34,47,CMO,3_Pts_C,Pierotti
+275,3,08:03,34,44,CAX,AS,Pedro
+276,3,08:03,34,44,CAX,2_Pts_C,Da Silva
+277,3,08:08,32,44,CAX,BR,Da Silva
+278,3,08:08,32,44,CMO,ER,Pierotti
+279,3,08:28,32,44,CAX,2_Pts_C,Pedro
+280,3,08:52,30,44,CMO,AS,Figueroa
+281,3,08:52,30,44,CMO,3_Pts_C,Pierotti
+282,3,08:56,30,41,CMO,RD,Pierotti
+283,3,09:01,30,41,CAX,3_Pts_T,Nico
+284,3,09:17,30,41,CAX,BR,Da Silva
+285,3,09:17,30,41,CMO,ER,Figueroa
+286,3,09:19,30,41,CMO,RO,Figueroa
+287,3,09:25,30,41,CMO,2_Pts_T,Pezão
+288,3,09:43,30,41,CMO,RD,Luizinho
+289,3,09:43,30,41,CAX,LL_Pts_T,Pedro
+290,3,09:43,30,41,CAX,FR,Pedro
+291,3,09:43,30,41,CMO,FC,Magna
+292,3,09:43,30,41,CAX,2_Pts_C,Pedro
+293,3,10:00,28,41,,inicio_quarto,
+294,2,00:00,28,41,,fim_quarto,
+295,2,00:04,28,41,CMO,RD,Luizinho
+296,2,00:04,28,41,CAX,3_Pts_T,Nico
+297,2,00:10,28,41,CMO,substituicao_entra,M Pajé
+298,2,00:10,28,41,CMO,substituicao_entra,Pezão
+299,2,00:10,28,41,CMO,substituicao_entra,Luizinho
+300,2,00:10,28,41,CMO,substituicao_entra,Brito
+301,2,00:10,28,41,CMO,substituicao_sai,Figueroa
+302,2,00:10,28,41,CMO,substituicao_sai,Lucão
+303,2,00:10,28,41,CMO,substituicao_sai,Magna
+304,2,00:10,28,41,CMO,substituicao_sai,Frierson
+305,2,00:10,28,41,CAX,substituicao_entra,Antonio
+306,2,00:10,28,41,CAX,substituicao_sai,Adriano Big
+307,2,00:10,28,41,CAX,FR,Adriano Big
+308,2,00:10,28,41,CMO,FC,Lucão
+309,2,00:24,28,41,CAX,RD,Adriano Big
+310,2,00:29,28,41,CMO,2_Pts_T,Lucão
+311,2,00:48,28,41,CMO,substituicao_entra,Figueroa
+312,2,00:48,28,41,CMO,substituicao_entra,Magna
+313,2,00:48,28,41,CMO,substituicao_entra,Frierson
+314,2,00:48,28,41,CMO,substituicao_sai,M Pajé
+315,2,00:48,28,41,CMO,substituicao_sai,Luizinho
+316,2,00:48,28,41,CMO,substituicao_sai,Brito
+317,2,00:48,28,41,CMO,tempo_tecnico,
+318,2,00:48,28,41,CAX,ER,Pedro
+319,2,00:49,28,41,CAX,RD,Pedro
+320,2,00:53,28,41,CMO,2_Pts_T,Lucão
+321,2,01:13,28,41,CMO,RD,M Pajé
+322,2,01:17,28,41,CAX,3_Pts_T,Nico
+323,2,01:20,28,41,CAX,RO,Adriano Big
+324,2,01:24,28,41,CAX,2_Pts_T,Nico
+325,2,01:42,28,41,CAX,RD,Pedro
+326,2,01:42,28,41,CMO,LL_Pts_T,Lucão
+327,2,01:42,28,41,CMO,LL_Pts_T,Lucão
+328,2,01:42,28,41,CAX,substituicao_entra,Nico
+329,2,01:42,28,41,CAX,substituicao_entra,Pedro
+330,2,01:42,28,41,CAX,substituicao_sai,Eddy
+331,2,01:42,28,41,CAX,substituicao_sai,Eugeniusz
+332,2,01:42,28,41,CMO,FR,Lucão
+333,2,01:42,28,41,CAX,FC,Adriano Big
+334,2,02:02,28,41,CMO,BR,Pierotti
+335,2,02:02,28,41,CAX,ER,Adriano Big
+336,2,02:06,28,41,CAX,FR,Adriano Big
+337,2,02:06,28,41,CMO,FC,Lucão
+338,2,02:14,28,41,CMO,AS,Brito
+339,2,02:14,28,41,CMO,2_Pts_C,Lucão
+340,2,02:16,28,39,CMO,substituicao_entra,Luizinho
+341,2,02:16,28,39,CMO,substituicao_sai,Figueroa
+342,2,02:16,28,39,CAX,tempo_tecnico,
+343,2,02:35,28,39,CMO,RD,M Pajé
+344,2,02:39,28,39,CAX,3_Pts_T,Pedro
+345,2,02:51,28,39,CAX,RO,Pedro
+346,2,02:57,28,39,CAX,2_Pts_T,Pedro
+347,2,03:10,28,39,CMO,substituicao_entra,M Pajé
+348,2,03:10,28,39,CMO,substituicao_sai,Magna
+349,2,03:10,28,39,CAX,substituicao_entra,Adriano Big
+350,2,03:10,28,39,CAX,substituicao_sai,Dida
+351,2,03:10,28,39,CAX,FR,Eugeniusz
+352,2,03:10,28,39,CMO,FC,Brito
+353,2,03:10,28,39,CAX,RO,Da Silva
+354,2,03:13,28,39,CAX,3_Pts_T,Eddy
+355,2,03:16,28,39,CAX,RO,Dida
+356,2,03:19,28,39,CAX,2_Pts_T,Da Silva
+357,2,03:24,28,39,CAX,RO,Pedro
+358,2,03:29,28,39,CAX,3_Pts_T,Da Silva
+359,2,03:38,28,39,CAX,RO,Pedro
+360,2,03:41,28,39,CAX,3_Pts_T,Eddy
+361,2,04:03,28,39,CMO,2_Pts_C,Lucão
+362,2,04:26,28,37,CAX,AS,Pedro
+363,2,04:26,28,37,CAX,2_Pts_C,Eugeniusz
+364,2,04:30,26,37,CAX,substituicao_entra,Pedro
+365,2,04:30,26,37,CAX,substituicao_sai,Pedro
+366,2,04:30,26,37,CMO,LL_Pts_C,Pierotti
+367,2,04:30,26,36,CAX,ER,Pedro
+368,2,04:30,26,36,CAX,FC_T,Pedro
+369,2,04:41,26,36,CMO,AS,Figueroa
+370,2,04:41,26,36,CMO,2_Pts_C,Lucão
+371,2,04:59,26,34,CMO,FR,Magna
+372,2,04:59,26,34,CAX,FC,Dida
+373,2,04:59,26,34,CMO,RD,Campo Mourão
+374,2,05:00,26,34,CAX,2_Pts_T,Pedro
+375,2,05:22,26,34,CMO,AS,Figueroa
+376,2,05:22,26,34,CMO,2_Pts_C,Lucão
+377,2,05:42,26,32,CAX,substituicao_entra,Pedro
+378,2,05:42,26,32,CAX,substituicao_sai,Pedro
+379,2,05:42,26,32,CAX,ER,Da Silva
+380,2,06:06,26,32,CMO,2_Pts_C,Pierotti
+381,2,06:24,26,30,CMO,substituicao_entra,Figueroa
+382,2,06:24,26,30,CMO,substituicao_entra,Lucão
+383,2,06:24,26,30,CMO,substituicao_sai,Pezão
+384,2,06:24,26,30,CMO,substituicao_sai,Castellon
+385,2,06:24,26,30,CAX,substituicao_entra,Dida
+386,2,06:24,26,30,CAX,substituicao_sai,Antonio
+387,2,06:24,26,30,CAX,tempo_tecnico,
+388,2,06:24,26,30,CMO,FR,Magna
+389,2,06:24,26,30,CAX,ER,Eugeniusz
+390,2,06:24,26,30,CAX,FC_O,Eugeniusz
+391,2,06:24,26,30,CAX,RD,Pedro
+392,2,06:29,26,30,CMO,2_Pts_T,Brito
+393,2,06:44,26,30,CMO,BR,Brito
+394,2,06:44,26,30,CAX,ER,Da Silva
+395,2,07:07,26,30,CMO,substituicao_entra,Brito
+396,2,07:07,26,30,CMO,substituicao_sai,Figueroa
+397,2,07:07,26,30,CMO,LL_Pts_C,Castellon
+398,2,07:07,26,29,CMO,LL_Pts_C,Castellon
+399,2,07:07,26,28,CMO,FR,Castellon
+400,2,07:07,26,28,CAX,FC,Eddy
+401,2,07:12,26,28,CMO,BR,Castellon
+402,2,07:12,26,28,CAX,ER,Da Silva
+403,2,07:25,26,28,CAX,RD,Pedro
+404,2,07:30,26,28,CMO,3_Pts_T,Castellon
+405,2,07:47,26,28,CMO,RD,Campo Mourão
+406,2,07:48,26,28,CAX,2_Pts_T,Da Silva
+407,2,08:03,26,28,CAX,substituicao_entra,Eugeniusz
+408,2,08:03,26,28,CAX,substituicao_sai,Nico
+409,2,08:03,26,28,CAX,FR,Nico
+410,2,08:03,26,28,CMO,FC,Figueroa
+411,2,08:28,26,28,CMO,AS,Magna
+412,2,08:28,26,28,CMO,3_Pts_C,Pierotti
+413,2,08:42,26,25,CAX,AS,Nico
+414,2,08:42,26,25,CAX,2_Pts_C,Antonio
+415,2,09:12,24,25,CMO,AS,Pierotti
+416,2,09:12,24,25,CMO,3_Pts_C,Castellon
+417,2,09:23,24,22,CAX,3_Pts_C,Da Silva
+418,2,09:45,21,22,CMO,AS,Pezão
+419,2,09:45,21,22,CMO,3_Pts_C,Figueroa
+420,2,10:00,21,19,,inicio_quarto,
+421,1,00:00,21,19,,fim_quarto,
+422,1,00:04,21,19,CMO,3_Pts_T,Pierotti
+423,1,00:04,21,19,CMO,RD,Pierotti
+424,1,00:04,21,19,CMO,TO,Pierotti
+425,1,00:04,21,19,CAX,2_Pts_T,Pedro
+426,1,00:21,21,19,CMO,AS,Pierotti
+427,1,00:21,21,19,CMO,3_Pts_C,Magna
+428,1,00:36,21,16,CMO,BR,Castellon
+429,1,00:36,21,16,CAX,ER,Pedro
+430,1,00:44,21,16,CAX,RO,Da Silva
+431,1,00:49,21,16,CAX,3_Pts_T,Eddy
+432,1,01:06,21,16,CMO,substituicao_entra,Pierotti
+433,1,01:06,21,16,CMO,substituicao_sai,Frierson
+434,1,01:06,21,16,CAX,FR,Eddy
+435,1,01:06,21,16,CMO,FC,Pezão
+436,1,01:06,21,16,CAX,RD,Eddy
+437,1,01:06,21,16,CMO,2_Pts_T,Pezão
+438,1,01:12,21,16,CMO,FR,Figueroa
+439,1,01:12,21,16,CAX,FC,Nico
+440,1,01:24,21,16,CAX,AS,Nico
+441,1,01:24,21,16,CAX,2_Pts_C,Pedro
+442,1,01:27,19,16,CAX,RD,Eddy
+443,1,01:31,19,16,CMO,3_Pts_T,Castellon
+444,1,01:33,19,16,CMO,RD,Pezão
+445,1,01:38,19,16,CAX,2_Pts_T,Da Silva
+446,1,01:59,19,16,CMO,AS,Figueroa
+447,1,01:59,19,16,CMO,3_Pts_C,Magna
+448,1,02:07,19,13,CMO,substituicao_entra,Castellon
+449,1,02:07,19,13,CMO,substituicao_sai,Luizinho
+450,1,02:07,19,13,CMO,FR,Figueroa
+451,1,02:07,19,13,CAX,FC,Antonio
+452,1,02:33,19,13,CAX,AS,Pedro
+453,1,02:33,19,13,CAX,3_Pts_C,Eddy
+454,1,02:50,16,13,CMO,AS,Figueroa
+455,1,02:50,16,13,CMO,2_Pts_C,Magna
+456,1,02:51,16,11,CMO,substituicao_entra,Figueroa
+457,1,02:51,16,11,CMO,substituicao_entra,Pezão
+458,1,02:51,16,11,CMO,substituicao_entra,Magna
+459,1,02:51,16,11,CMO,substituicao_sai,Tom
+460,1,02:51,16,11,CMO,substituicao_sai,M Pajé
+461,1,02:51,16,11,CMO,substituicao_sai,Pierotti
+462,1,02:51,16,11,CMO,FR,Frierson
+463,1,02:51,16,11,CAX,FC,Pedro
+464,1,03:07,16,11,CAX,AS,Nico
+465,1,03:07,16,11,CAX,3_Pts_C,Da Silva
+466,1,03:24,13,11,CMO,AS,Luizinho
+467,1,03:24,13,11,CMO,2_Pts_C,M Pajé
+468,1,03:47,13,9,CAX,AS,Pedro
+469,1,03:47,13,9,CAX,EN,Eddy
+470,1,03:52,11,9,CAX,BR,Pedro
+471,1,03:52,11,9,CMO,ER,M Pajé
+472,1,04:06,11,9,CMO,RD,Luizinho
+473,1,04:10,11,9,CAX,3_Pts_T,Pedro
+474,1,04:23,11,9,CMO,2_Pts_C,Pierotti
+475,1,04:35,11,7,CMO,RD,Luizinho
+476,1,04:39,11,7,CAX,3_Pts_T,Eddy
+477,1,04:50,11,7,CAX,FR,Antonio
+478,1,04:50,11,7,CMO,FC,Tom
+479,1,04:50,11,7,CAX,RO,Caxias do Sul
+480,1,04:50,11,7,CAX,2_Pts_T,Antonio
+481,1,04:55,11,7,CAX,RD,Nico
+482,1,04:59,11,7,CMO,3_Pts_T,M Pajé
+483,1,05:10,11,7,CAX,AS,Antonio
+484,1,05:10,11,7,CAX,EN,Da Silva
+485,1,05:26,9,7,CAX,BR,Eddy
+486,1,05:26,9,7,CMO,ER,Frierson
+487,1,05:42,9,7,CAX,2_Pts_C,Nico
+488,1,05:45,7,7,CAX,RD,Nico
+489,1,05:49,7,7,CMO,2_Pts_T,Pierotti
+490,1,05:58,7,7,CMO,RO,Luizinho
+491,1,06:03,7,7,CMO,3_Pts_T,Pierotti
+492,1,06:11,7,7,CMO,RD,Luizinho
+493,1,06:11,7,7,CAX,LL_Pts_T,Antonio
+494,1,06:11,7,7,CAX,LL_Pts_T,Antonio
+495,1,06:11,7,7,CMO,substituicao_entra,Pierotti
+496,1,06:11,7,7,CMO,substituicao_entra,Frierson
+497,1,06:11,7,7,CMO,substituicao_sai,Castellon
+498,1,06:11,7,7,CMO,substituicao_sai,Brito
+499,1,06:11,7,7,CAX,FR,Antonio
+500,1,06:11,7,7,CMO,FC,Tom
+501,1,06:20,7,7,CMO,substituicao_entra,Castellon
+502,1,06:20,7,7,CMO,substituicao_entra,Brito
+503,1,06:20,7,7,CMO,substituicao_sai,Pierotti
+504,1,06:20,7,7,CMO,substituicao_sai,Frierson
+505,1,06:20,7,7,CMO,AS,Luizinho
+506,1,06:20,7,7,CMO,3_Pts_C,Frierson
+507,1,06:27,7,4,CMO,BR,Tom
+508,1,06:27,7,4,CAX,ER,Da Silva
+509,1,06:47,7,4,CMO,2_Pts_C,Frierson
+510,1,07:11,7,2,CAX,AS,Eddy
+511,1,07:11,7,2,CAX,3_Pts_C,Pedro
+512,1,07:14,4,2,CAX,FR,Pedro
+513,1,07:14,4,2,CMO,FC,Luizinho
+514,1,07:16,4,2,CAX,RD,Da Silva
+515,1,07:22,4,2,CMO,2_Pts_T,Luizinho
+516,1,07:41,4,2,CAX,AS,Pedro
+517,1,07:41,4,2,CAX,2_Pts_C,Da Silva
+518,1,07:59,2,2,CMO,AS,Pierotti
+519,1,07:59,2,2,CMO,2_Pts_C,Tom
+520,1,08:19,2,0,CAX,AS,Pedro
+521,1,08:19,2,0,CAX,2_Pts_C,Da Silva
+522,1,08:23,0,0,CAX,RD,Pedro
+523,1,08:27,0,0,CMO,3_Pts_T,Pierotti
+524,1,08:33,0,0,CMO,RO,Campo Mourão
+525,1,08:34,0,0,CMO,2_Pts_T,Tom
+526,1,08:51,0,0,CMO,BR,M Pajé
+527,1,08:51,0,0,CAX,ER,Pedro
+528,1,09:06,0,0,CAX,RD,Eddy
+529,1,09:11,0,0,CMO,3_Pts_T,M Pajé
+530,1,09:35,0,0,CAX,ER,
+531,1,10:00,0,0,CMO,substituicao_entra,Tom
+532,1,10:00,0,0,CMO,substituicao_entra,M Pajé
+533,1,10:00,0,0,CMO,substituicao_entra,Luizinho
+534,1,10:00,0,0,CMO,substituicao_entra,Pierotti
+535,1,10:00,0,0,CMO,substituicao_entra,Frierson
+536,1,10:00,0,0,CAX,substituicao_entra,Eddy
+537,1,10:00,0,0,CAX,substituicao_entra,Nico
+538,1,10:00,0,0,CAX,substituicao_entra,Pedro
+539,1,10:00,0,0,CAX,substituicao_entra,Antonio
+540,1,10:00,0,0,CAX,substituicao_entra,Da Silva
+541,1,10:00,0,0,,inicio_partida,

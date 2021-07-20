@@ -1,0 +1,560 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,76,74,,fim_partida,
+1,4,00:00,76,74,,fim_quarto,
+2,4,00:00,76,74,PIN,2_Pts_T,Teichmann
+3,4,00:01,76,74,PIN,substituicao_entra,Sena
+4,4,00:01,76,74,PIN,substituicao_sai,Zubiaurre
+5,4,00:01,76,74,PIN,substituicao_entra,Teichmann
+6,4,00:01,76,74,PIN,substituicao_sai,Munford
+7,4,00:01,76,74,COR,substituicao_entra,L Cauê
+8,4,00:01,76,74,COR,substituicao_entra,A Ludwig
+9,4,00:01,76,74,COR,substituicao_sai,Gegê
+10,4,00:01,76,74,COR,substituicao_sai,Fischer
+11,4,00:01,76,74,PIN,tempo_tecnico,Pinheiros
+12,4,00:01,76,74,COR,ER,Gegê
+13,4,00:01,76,74,COR,substituicao_entra,Renato
+14,4,00:01,76,74,COR,substituicao_sai,Dalaqua
+15,4,00:01,76,74,COR,tempo_tecnico,Corinthians
+16,4,00:01,76,74,COR,FR,Gegê
+17,4,00:01,76,74,PIN,FC,Valter
+18,4,00:02,76,74,COR,FR,Fuller
+19,4,00:02,76,74,PIN,FC,Elvis F
+20,4,00:03,76,74,COR,FR,Miller
+21,4,00:03,76,74,PIN,FC,Elvis F
+22,4,00:03,76,74,PIN,substituicao_entra,Zubiaurre
+23,4,00:03,76,74,PIN,substituicao_sai,Teichmann
+24,4,00:03,76,74,COR,substituicao_entra,Dalaqua
+25,4,00:03,76,74,COR,substituicao_sai,Renato
+26,4,00:03,76,74,COR,substituicao_entra,Gegê
+27,4,00:03,76,74,COR,substituicao_sai,L Cauê
+28,4,00:03,76,74,PIN,substituicao_entra,Elvis F
+29,4,00:03,76,74,PIN,substituicao_sai,Sena
+30,4,00:03,76,74,COR,RD,Corinthians
+31,4,00:03,76,74,PIN,LL_Pts_T,Sena
+32,4,00:05,76,74,PIN,LL_Pts_C,Sena
+33,4,00:05,76,73,COR,substituicao_entra,L Cauê
+34,4,00:05,76,73,COR,substituicao_sai,Gegê
+35,4,00:05,76,73,PIN,FR,Sena
+36,4,00:05,76,73,COR,FC,Gegê
+37,4,00:08,76,73,PIN,LL_Pts_C,Valter
+38,4,00:08,76,72,PIN,substituicao_entra,Sena
+39,4,00:08,76,72,PIN,substituicao_sai,W Sena
+40,4,00:08,76,72,PIN,tempo_tecnico,Pinheiros
+41,4,00:08,76,72,COR,FC_T,Fischer
+42,4,00:08,76,72,COR,ER,Fischer
+43,4,00:30,76,72,PIN,ER,Gustavo
+44,4,00:39,76,72,PIN,RD,W Sena
+45,4,00:39,76,72,COR,LL_Pts_T,Fuller
+46,4,00:39,76,72,COR,LL_Pts_T,Fuller
+47,4,00:39,76,72,PIN,substituicao_entra,W Sena
+48,4,00:39,76,72,PIN,substituicao_sai,Humberto
+49,4,00:39,76,72,COR,FR,Fuller
+50,4,00:39,76,72,PIN,FC,Humberto
+51,4,00:58,76,72,PIN,substituicao_entra,Valter
+52,4,00:58,76,72,PIN,substituicao_entra,Munford
+53,4,00:58,76,72,PIN,substituicao_entra,Teichmann
+54,4,00:58,76,72,PIN,substituicao_sai,Zubiaurre
+55,4,00:58,76,72,PIN,substituicao_sai,W Sena
+56,4,00:58,76,72,PIN,substituicao_sai,Sena
+57,4,00:58,76,72,COR,tempo_tecnico,Corinthians
+58,4,00:58,76,72,PIN,2_Pts_C,Gustavo
+59,4,01:05,76,70,PIN,RD,Gustavo
+60,4,01:10,76,70,COR,2_Pts_T,Renato
+61,4,01:24,76,70,PIN,ER,W Sena
+62,4,01:36,76,70,COR,AS,Gegê
+63,4,01:36,76,70,COR,2_Pts_C,Miller
+64,4,01:38,74,70,COR,RO,Renato
+65,4,01:45,74,70,COR,2_Pts_T,Gegê
+66,4,02:14,74,70,PIN,AS,Zubiaurre
+67,4,02:14,74,70,PIN,2_Pts_C,Gustavo
+68,4,02:19,74,68,PIN,RD,Sena
+69,4,02:24,74,68,COR,2_Pts_T,Miller
+70,4,02:33,74,68,PIN,2_Pts_C,Gustavo
+71,4,02:35,74,66,PIN,RO,Pinheiros
+72,4,02:35,74,66,PIN,2_Pts_T,W Sena
+73,4,02:35,74,66,PIN,RO,W Sena
+74,4,02:38,74,66,PIN,2_Pts_T,W Sena
+75,4,02:38,74,66,PIN,RO,W Sena
+76,4,02:46,74,66,PIN,2_Pts_T,Humberto
+77,4,02:47,74,66,PIN,RO,Humberto
+78,4,02:50,74,66,PIN,2_Pts_T,Humberto
+79,4,02:55,74,66,PIN,RO,Pinheiros
+80,4,03:05,74,66,COR,TO,Miller
+81,4,03:05,74,66,PIN,2_Pts_T,Zubiaurre
+82,4,03:20,74,66,PIN,substituicao_entra,Zubiaurre
+83,4,03:20,74,66,PIN,substituicao_entra,W Sena
+84,4,03:20,74,66,PIN,substituicao_entra,Gustavo
+85,4,03:20,74,66,PIN,substituicao_entra,Sena
+86,4,03:20,74,66,PIN,substituicao_sai,Valter
+87,4,03:20,74,66,PIN,substituicao_sai,Munford
+88,4,03:20,74,66,PIN,substituicao_sai,Teichmann
+89,4,03:20,74,66,PIN,substituicao_sai,Buffat
+90,4,03:20,74,66,PIN,tempo_tecnico,Pinheiros
+91,4,03:20,74,66,COR,2_Pts_C,Fuller
+92,4,03:23,72,66,COR,RD,Gegê
+93,4,03:29,72,66,PIN,2_Pts_T,Valter
+94,4,03:51,72,66,COR,AS,Fischer
+95,4,03:51,72,66,COR,EN,Renato
+96,4,03:55,70,66,COR,RD,Miller
+97,4,04:02,70,66,PIN,2_Pts_T,Buffat
+98,4,04:05,70,66,PIN,RD,Munford
+99,4,04:11,70,66,COR,3_Pts_T,Fuller
+100,4,04:21,70,66,COR,BR,Gegê
+101,4,04:21,70,66,PIN,ER,Humberto
+102,4,04:26,70,66,PIN,BR,Humberto
+103,4,04:26,70,66,COR,ER,Fuller
+104,4,04:43,70,66,PIN,AS,Humberto
+105,4,04:43,70,66,PIN,2_Pts_C,Teichmann
+106,4,04:49,70,64,PIN,RO,Teichmann
+107,4,04:54,70,64,PIN,3_Pts_T,Humberto
+108,4,05:08,70,64,COR,AS,Gegê
+109,4,05:08,70,64,COR,3_Pts_C,Fischer
+110,4,05:31,67,64,PIN,substituicao_entra,Humberto
+111,4,05:31,67,64,PIN,substituicao_sai,Gustavo
+112,4,05:31,67,64,PIN,ER,Buffat
+113,4,05:49,67,64,PIN,RD,Pinheiros
+114,4,05:49,67,64,COR,3_Pts_T,Fischer
+115,4,06:02,67,64,COR,RD,Miller
+116,4,06:08,67,64,PIN,2_Pts_T,Gustavo
+117,4,06:22,67,64,COR,AS,Fischer
+118,4,06:22,67,64,COR,2_Pts_C,Renato
+119,4,06:37,65,64,COR,substituicao_entra,Fischer
+120,4,06:37,65,64,COR,substituicao_sai,Dalaqua
+121,4,06:37,65,64,COR,RD,Corinthians
+122,4,06:45,65,64,PIN,3_Pts_T,Gustavo
+123,4,06:52,65,64,PIN,RD,Teichmann
+124,4,06:57,65,64,COR,2_Pts_T,Fuller
+125,4,07:02,65,64,COR,RD,Renato
+126,4,07:09,65,64,COR,TO,Miller
+127,4,07:09,65,64,PIN,2_Pts_T,Munford
+128,4,07:10,65,64,PIN,RD,Teichmann
+129,4,07:15,65,64,COR,3_Pts_T,Fuller
+130,4,07:30,65,64,COR,substituicao_entra,Renato
+131,4,07:30,65,64,COR,substituicao_sai,L Cauê
+132,4,07:30,65,64,COR,tempo_tecnico,Corinthians
+133,4,07:33,65,64,PIN,AS,Buffat
+134,4,07:33,65,64,PIN,3_Pts_C,Valter
+135,4,07:39,65,61,PIN,RD,Munford
+136,4,07:42,65,61,COR,3_Pts_T,Gegê
+137,4,08:03,65,61,PIN,AS,Teichmann
+138,4,08:03,65,61,PIN,2_Pts_C,Munford
+139,4,08:12,65,59,COR,substituicao_entra,Gegê
+140,4,08:12,65,59,COR,substituicao_sai,Vezarinho
+141,4,08:12,65,59,PIN,FR,Munford
+142,4,08:12,65,59,COR,FC,Vezarinho
+143,4,08:17,65,59,PIN,RD,Valter
+144,4,08:21,65,59,COR,2_Pts_T,Vezarinho
+145,4,08:50,65,59,PIN,ER,
+146,4,09:06,65,59,COR,ER,L Cauê
+147,4,09:19,65,59,PIN,ER,Teichmann
+148,4,09:30,65,59,PIN,RD,Teichmann
+149,4,09:35,65,59,COR,3_Pts_T,Miller
+150,4,09:39,65,59,COR,RD,Miller
+151,4,09:44,65,59,COR,TO,Miller
+152,4,09:44,65,59,PIN,2_Pts_T,Munford
+153,4,09:50,65,59,PIN,FR,Gustavo
+154,4,09:50,65,59,COR,FC,Fuller
+155,4,09:54,65,59,PIN,FR,Valter
+156,4,09:54,65,59,COR,FC,Dalaqua
+157,4,10:00,65,59,,inicio_quarto,
+158,3,00:00,65,59,,fim_quarto,
+159,3,00:02,65,59,COR,AS,Vezarinho
+160,3,00:02,65,59,COR,3_Pts_C,Dalaqua
+161,3,00:18,62,59,PIN,substituicao_entra,M Douglas
+162,3,00:18,62,59,PIN,substituicao_entra,Gustavo
+163,3,00:18,62,59,PIN,substituicao_sai,W Sena
+164,3,00:18,62,59,PIN,substituicao_sai,Teichmann
+165,3,00:18,62,59,COR,substituicao_entra,Gegê
+166,3,00:18,62,59,COR,substituicao_sai,L Cauê
+167,3,00:18,62,59,PIN,2_Pts_C,W Sena
+168,3,00:18,62,57,PIN,RO,W Sena
+169,3,00:21,62,57,PIN,2_Pts_T,Munford
+170,3,00:28,62,57,PIN,RD,Teichmann
+171,3,00:30,62,57,COR,3_Pts_T,Dalaqua
+172,3,00:36,62,57,COR,RD,L Cauê
+173,3,00:43,62,57,PIN,2_Pts_T,W Sena
+174,3,00:56,62,57,COR,AS,Fuller
+175,3,00:56,62,57,COR,2_Pts_C,L Cauê
+176,3,01:12,60,57,COR,RD,Miller
+177,3,01:12,60,57,PIN,LL_Pts_T,Teichmann
+178,3,01:12,60,57,PIN,LL_Pts_C,Teichmann
+179,3,01:12,60,56,PIN,FR,Teichmann
+180,3,01:12,60,56,COR,FC,Miller
+181,3,01:22,60,56,COR,AS,Fuller
+182,3,01:22,60,56,COR,2_Pts_C,Miller
+183,3,01:35,58,56,PIN,substituicao_entra,Zubiaurre
+184,3,01:35,58,56,PIN,substituicao_entra,Sena
+185,3,01:35,58,56,PIN,substituicao_sai,Valter
+186,3,01:35,58,56,PIN,substituicao_sai,Buffat
+187,3,01:35,58,56,COR,substituicao_entra,Dalaqua
+188,3,01:35,58,56,COR,substituicao_sai,Fischer
+189,3,01:35,58,56,COR,RD,Corinthians
+190,3,01:40,58,56,PIN,3_Pts_T,W Sena
+191,3,01:50,58,56,PIN,RD,Teichmann
+192,3,01:54,58,56,COR,3_Pts_T,Vezarinho
+193,3,02:05,58,56,PIN,substituicao_entra,Munford
+194,3,02:05,58,56,PIN,substituicao_sai,Humberto
+195,3,02:05,58,56,COR,LL_Pts_C,Fuller
+196,3,02:05,57,56,PIN,FC_T,Humberto
+197,3,02:07,57,56,PIN,2_Pts_C,Teichmann
+198,3,02:07,57,54,PIN,RO,Teichmann
+199,3,02:20,57,54,PIN,2_Pts_T,W Sena
+200,3,02:42,57,54,PIN,FR,Valter
+201,3,02:42,57,54,COR,ER,L Cauê
+202,3,02:42,57,54,COR,FC_O,L Cauê
+203,3,02:51,57,54,COR,FR,Miller
+204,3,02:51,57,54,PIN,ER,Teichmann
+205,3,02:51,57,54,PIN,FC_O,Teichmann
+206,3,03:05,57,54,COR,ER,L Cauê
+207,3,03:14,57,54,COR,BR,Fischer
+208,3,03:14,57,54,PIN,ER,Teichmann
+209,3,03:28,57,54,COR,substituicao_entra,Vezarinho
+210,3,03:28,57,54,COR,substituicao_sai,Gegê
+211,3,03:28,57,54,COR,LL_Pts_C,Fischer
+212,3,03:28,56,54,COR,LL_Pts_C,Fischer
+213,3,03:28,55,54,PIN,substituicao_entra,Buffat
+214,3,03:28,55,54,PIN,substituicao_sai,Gustavo
+215,3,03:28,55,54,COR,FR,Fischer
+216,3,03:28,55,54,PIN,FC,Gustavo
+217,3,03:34,55,54,COR,RD,Fischer
+218,3,03:41,55,54,COR,TO,L Cauê
+219,3,03:41,55,54,PIN,2_Pts_T,Gustavo
+220,3,03:49,55,54,PIN,RD,Gustavo
+221,3,03:52,55,54,COR,3_Pts_T,Fuller
+222,3,04:08,55,54,COR,RD,Corinthians
+223,3,04:08,55,54,PIN,2_Pts_T,Gustavo
+224,3,04:31,55,54,PIN,RD,Pinheiros
+225,3,04:33,55,54,COR,3_Pts_T,Gegê
+226,3,04:43,55,54,COR,BR,Fuller
+227,3,04:43,55,54,PIN,ER,Humberto
+228,3,04:46,55,54,PIN,RD,Humberto
+229,3,04:52,55,54,COR,3_Pts_T,Gegê
+230,3,05:12,55,54,PIN,AS,Gustavo
+231,3,05:12,55,54,PIN,2_Pts_C,W Sena
+232,3,05:23,55,52,PIN,substituicao_entra,Valter
+233,3,05:23,55,52,PIN,substituicao_sai,Buffat
+234,3,05:23,55,52,COR,ER,Fuller
+235,3,05:37,55,52,COR,BR,L Cauê
+236,3,05:37,55,52,PIN,ER,Buffat
+237,3,05:50,55,52,COR,LL_Pts_C,Fuller
+238,3,05:50,54,52,COR,LL_Pts_C,Fuller
+239,3,05:50,53,52,COR,FR,Fuller
+240,3,05:50,53,52,PIN,FC,W Sena
+241,3,05:55,53,52,PIN,ER,Humberto
+242,3,06:05,53,52,COR,ER,L Cauê
+243,3,06:12,53,52,COR,RD,Fuller
+244,3,06:16,53,52,PIN,3_Pts_T,Humberto
+245,3,06:32,53,52,COR,LL_Pts_C,L Cauê
+246,3,06:32,52,52,COR,LL_Pts_C,L Cauê
+247,3,06:32,51,52,PIN,substituicao_entra,W Sena
+248,3,06:32,51,52,PIN,substituicao_sai,Valter
+249,3,06:32,51,52,COR,FR,L Cauê
+250,3,06:32,51,52,PIN,FC,Teichmann
+251,3,06:33,51,52,COR,RO,L Cauê
+252,3,06:37,51,52,COR,3_Pts_T,Fuller
+253,3,06:50,51,52,PIN,LL_Pts_C,Buffat
+254,3,06:50,51,51,PIN,AS,Teichmann
+255,3,06:50,51,51,PIN,LL_Pts_C,Buffat
+256,3,06:50,51,50,PIN,FR,Buffat
+257,3,06:50,51,50,COR,FC,Fischer
+258,3,07:09,51,50,PIN,FR,Teichmann
+259,3,07:09,51,50,COR,ER,L Cauê
+260,3,07:09,51,50,COR,FC_O,L Cauê
+261,3,07:21,51,50,COR,BR,Gegê
+262,3,07:21,51,50,PIN,ER,Humberto
+263,3,07:32,51,50,PIN,FR,Humberto
+264,3,07:32,51,50,COR,FC,Gegê
+265,3,07:46,51,50,COR,LL_Pts_C,Fuller
+266,3,07:46,50,50,COR,LL_Pts_C,Fuller
+267,3,07:46,49,50,COR,FR,Fuller
+268,3,07:46,49,50,PIN,FC,Buffat
+269,3,07:53,49,50,COR,FR,Fischer
+270,3,07:53,49,50,PIN,FC,Valter
+271,3,08:01,49,50,COR,substituicao_entra,Gegê
+272,3,08:01,49,50,COR,substituicao_sai,Renato
+273,3,08:01,49,50,COR,FR,L Cauê
+274,3,08:01,49,50,PIN,FC,Humberto
+275,3,08:18,49,50,PIN,3_Pts_C,Gustavo
+276,3,08:21,49,47,PIN,RD,Gustavo
+277,3,08:24,49,47,COR,3_Pts_T,Miller
+278,3,08:42,49,47,COR,RD,Renato
+279,3,08:46,49,47,PIN,2_Pts_T,Humberto
+280,3,08:51,49,47,PIN,RO,Buffat
+281,3,08:56,49,47,COR,TO,L Cauê
+282,3,08:56,49,47,PIN,2_Pts_T,Buffat
+283,3,09:05,49,47,PIN,BR,Teichmann
+284,3,09:05,49,47,COR,ER,Miller
+285,3,09:18,49,47,PIN,AS,Humberto
+286,3,09:18,49,47,PIN,3_Pts_C,Valter
+287,3,09:28,49,44,COR,ER,Fischer
+288,3,09:36,49,44,COR,FR,Fischer
+289,3,09:36,49,44,PIN,FC,Valter
+290,3,09:50,49,44,PIN,LL_Pts_C,Buffat
+291,3,09:50,49,43,PIN,LL_Pts_C,Buffat
+292,3,09:50,49,42,PIN,FR,Buffat
+293,3,09:50,49,42,COR,FC,Renato
+294,3,10:00,49,42,,inicio_quarto,
+295,2,00:00,49,42,,fim_quarto,
+296,2,00:01,49,42,COR,3_Pts_T,Fischer
+297,2,00:04,49,42,PIN,substituicao_entra,Teichmann
+298,2,00:04,49,42,PIN,substituicao_sai,Gustavo
+299,2,00:04,49,42,COR,substituicao_entra,L Cauê
+300,2,00:04,49,42,COR,substituicao_sai,Fuller
+301,2,00:04,49,42,PIN,LL_Pts_C,Gabriel
+302,2,00:04,49,41,PIN,LL_Pts_T,Gabriel
+303,2,00:04,49,41,PIN,FR,Gabriel
+304,2,00:04,49,41,COR,FC,Vezarinho
+305,2,00:05,49,41,PIN,substituicao_entra,Gabriel
+306,2,00:05,49,41,PIN,substituicao_sai,Elvis F
+307,2,00:05,49,41,PIN,tempo_tecnico,Pinheiros
+308,2,00:05,49,41,COR,,
+309,2,00:05,49,41,PIN,substituicao_entra,Buffat
+310,2,00:05,49,41,PIN,substituicao_sai,Zubiaurre
+311,2,00:05,49,41,PIN,substituicao_entra,M Douglas
+312,2,00:05,49,41,PIN,substituicao_sai,Teichmann
+313,2,00:05,49,41,COR,FR,Fischer
+314,2,00:05,49,41,PIN,FC,Teichmann
+315,2,00:07,49,41,COR,FR,Fischer
+316,2,00:07,49,41,PIN,FC,Gustavo
+317,2,00:13,49,41,PIN,substituicao_entra,Zubiaurre
+318,2,00:13,49,41,PIN,substituicao_entra,Elvis F
+319,2,00:13,49,41,PIN,substituicao_entra,Munford
+320,2,00:13,49,41,PIN,substituicao_sai,Valter
+321,2,00:13,49,41,PIN,substituicao_sai,W Sena
+322,2,00:13,49,41,PIN,substituicao_sai,Humberto
+323,2,00:13,49,41,COR,substituicao_entra,Vezarinho
+324,2,00:13,49,41,COR,substituicao_sai,L Cauê
+325,2,00:13,49,41,COR,tempo_tecnico,Corinthians
+326,2,00:13,49,41,PIN,2_Pts_C,Teichmann
+327,2,00:14,49,39,PIN,RO,Gustavo
+328,2,00:18,49,39,PIN,2_Pts_T,Valter
+329,2,00:35,49,39,COR,AS,L Cauê
+330,2,00:35,49,39,COR,2_Pts_C,Renato
+331,2,00:55,47,39,PIN,AS,Teichmann
+332,2,00:55,47,39,PIN,2_Pts_C,Valter
+333,2,00:56,47,37,PIN,substituicao_entra,Gustavo
+334,2,00:56,47,37,PIN,substituicao_sai,Munford
+335,2,00:56,47,37,PIN,RD,Teichmann
+336,2,00:56,47,37,COR,2_Pts_T,L Cauê
+337,2,00:58,47,37,COR,BR,L Cauê
+338,2,00:58,47,37,PIN,ER,Valter
+339,2,01:01,47,37,PIN,RD,Teichmann
+340,2,01:14,47,37,COR,2_Pts_T,Renato
+341,2,01:32,47,37,PIN,LL_Pts_C,W Sena
+342,2,01:32,47,36,COR,substituicao_entra,Miller
+343,2,01:32,47,36,COR,substituicao_sai,Gegê
+344,2,01:32,47,36,PIN,FR,W Sena
+345,2,01:32,47,36,COR,FC,Fischer
+346,2,01:41,47,36,PIN,AS,Teichmann
+347,2,01:41,47,36,PIN,2_Pts_C,W Sena
+348,2,01:58,47,34,COR,AS,Gegê
+349,2,01:58,47,34,COR,3_Pts_C,Fuller
+350,2,02:17,44,34,PIN,2_Pts_C,Munford
+351,2,02:22,44,32,COR,,
+352,2,02:31,44,32,COR,substituicao_entra,L Cauê
+353,2,02:31,44,32,COR,substituicao_sai,A Ludwig
+354,2,02:31,44,32,COR,tempo_tecnico,Corinthians
+355,2,02:32,44,32,PIN,2_Pts_C,Humberto
+356,2,02:48,44,30,COR,AS,Renato
+357,2,02:48,44,30,COR,3_Pts_C,Fischer
+358,2,03:00,41,30,PIN,AS,Teichmann
+359,2,03:00,41,30,PIN,2_Pts_C,Valter
+360,2,03:22,41,28,COR,AS,Fischer
+361,2,03:22,41,28,COR,2_Pts_C,A Ludwig
+362,2,03:42,39,28,COR,BR,Fischer
+363,2,03:42,39,28,PIN,ER,Humberto
+364,2,03:45,39,28,COR,substituicao_entra,A Ludwig
+365,2,03:45,39,28,COR,substituicao_sai,Arthur
+366,2,03:48,39,28,PIN,RD,Teichmann
+367,2,03:54,39,28,COR,2_Pts_T,Arthur
+368,2,04:15,39,28,PIN,LL_Pts_C,Valter
+369,2,04:15,39,27,PIN,AS,Sena
+370,2,04:15,39,27,PIN,LL_Pts_C,Valter
+371,2,04:15,39,26,PIN,substituicao_entra,Teichmann
+372,2,04:15,39,26,PIN,substituicao_sai,Sena
+373,2,04:15,39,26,PIN,FR,Valter
+374,2,04:15,39,26,COR,FC,Arthur
+375,2,04:22,39,26,PIN,BR,Sena
+376,2,04:22,39,26,COR,ER,Gegê
+377,2,04:32,39,26,COR,substituicao_entra,Fuller
+378,2,04:32,39,26,COR,substituicao_sai,Vezarinho
+379,2,04:44,39,26,PIN,AS,Humberto
+380,2,04:44,39,26,PIN,2_Pts_C,Valter
+381,2,04:58,39,24,PIN,substituicao_entra,Valter
+382,2,04:58,39,24,PIN,substituicao_entra,W Sena
+383,2,04:58,39,24,PIN,substituicao_sai,Teichmann
+384,2,04:58,39,24,PIN,substituicao_sai,Gabriel
+385,2,04:58,39,24,PIN,FR,Munford
+386,2,04:58,39,24,COR,ER,Renato
+387,2,04:58,39,24,COR,FC_O,Renato
+388,2,05:05,39,24,COR,RD,Renato
+389,2,05:08,39,24,PIN,2_Pts_T,Gabriel
+390,2,05:19,39,24,COR,2_Pts_C,Vezarinho
+391,2,05:44,37,24,COR,substituicao_entra,Fischer
+392,2,05:44,37,24,COR,substituicao_sai,Dalaqua
+393,2,05:44,37,24,COR,RD,Corinthians
+394,2,05:45,37,24,PIN,3_Pts_T,Munford
+395,2,06:00,37,24,COR,2_Pts_C,Arthur
+396,2,06:26,35,24,PIN,2_Pts_C,Munford
+397,2,06:35,35,22,PIN,FR,Humberto
+398,2,06:35,35,22,COR,FC,Vezarinho
+399,2,06:47,35,22,PIN,substituicao_entra,Gabriel
+400,2,06:47,35,22,PIN,substituicao_sai,Zubiaurre
+401,2,06:47,35,22,PIN,FR,Munford
+402,2,06:47,35,22,COR,FC,Gegê
+403,2,07:02,35,22,COR,substituicao_entra,Arthur
+404,2,07:02,35,22,COR,substituicao_sai,L Cauê
+405,2,07:08,35,22,PIN,RD,Teichmann
+406,2,07:14,35,22,COR,3_Pts_T,Dalaqua
+407,2,07:28,35,22,COR,FR,Renato
+408,2,07:28,35,22,PIN,FC,Humberto
+409,2,07:36,35,22,COR,ER,
+410,2,07:37,35,22,COR,RO,L Cauê
+411,2,07:37,35,22,COR,2_Pts_T,Vezarinho
+412,2,07:53,35,22,PIN,substituicao_entra,Humberto
+413,2,07:53,35,22,PIN,substituicao_sai,Gustavo
+414,2,07:53,35,22,COR,FR,Gegê
+415,2,07:53,35,22,PIN,FC,Gustavo
+416,2,08:08,35,22,COR,RD,L Cauê
+417,2,08:15,35,22,PIN,2_Pts_T,Gustavo
+418,2,08:16,35,22,PIN,RO,Gustavo
+419,2,08:20,35,22,PIN,2_Pts_T,Gustavo
+420,2,08:24,35,22,PIN,FR,Zubiaurre
+421,2,08:24,35,22,COR,FC,Dalaqua
+422,2,08:29,35,22,PIN,substituicao_entra,Teichmann
+423,2,08:29,35,22,PIN,substituicao_entra,Sena
+424,2,08:29,35,22,PIN,substituicao_sai,W Sena
+425,2,08:29,35,22,PIN,substituicao_sai,Buffat
+426,2,08:29,35,22,PIN,tempo_tecnico,Pinheiros
+427,2,08:30,35,22,COR,AS,Vezarinho
+428,2,08:30,35,22,COR,3_Pts_C,Dalaqua
+429,2,08:33,32,22,COR,RD,Renato
+430,2,08:37,32,22,PIN,2_Pts_T,Buffat
+431,2,08:50,32,22,COR,AS,Gegê
+432,2,08:50,32,22,COR,EN,Renato
+433,2,08:54,30,22,COR,RD,L Cauê
+434,2,08:58,30,22,PIN,2_Pts_T,W Sena
+435,2,09:09,30,22,PIN,RD,W Sena
+436,2,09:13,30,22,COR,2_Pts_T,L Cauê
+437,2,09:33,30,22,PIN,ER,Gustavo
+438,2,09:46,30,22,COR,3_Pts_C,Dalaqua
+439,2,10:00,27,22,,inicio_quarto,
+440,1,00:00,27,22,,fim_quarto,
+441,1,00:00,27,22,PIN,3_Pts_T,Gabriel
+442,1,00:04,27,22,PIN,RD,Gustavo
+443,1,00:04,27,22,COR,LL_Pts_T,L Cauê
+444,1,00:04,27,22,PIN,substituicao_entra,Gabriel
+445,1,00:04,27,22,PIN,substituicao_sai,Valter
+446,1,00:04,27,22,PIN,substituicao_entra,Buffat
+447,1,00:04,27,22,PIN,substituicao_sai,Humberto
+448,1,00:04,27,22,COR,substituicao_entra,Dalaqua
+449,1,00:04,27,22,COR,substituicao_sai,Fuller
+450,1,00:11,27,22,COR,FR,L Cauê
+451,1,00:11,27,22,PIN,FC,Humberto
+452,1,00:25,27,22,COR,AS,Gegê
+453,1,00:25,27,22,COR,2_Pts_C,L Cauê
+454,1,00:39,25,22,PIN,AS,Sena
+455,1,00:39,25,22,PIN,3_Pts_C,Valter
+456,1,00:50,25,19,COR,substituicao_entra,L Cauê
+457,1,00:50,25,19,COR,substituicao_sai,Miller
+458,1,01:17,25,19,COR,3_Pts_C,Gegê
+459,1,01:48,22,19,PIN,ER,Sena
+460,1,01:49,22,19,PIN,RD,Sena
+461,1,01:49,22,19,COR,3_Pts_T,Fuller
+462,1,01:49,22,19,PIN,AS,Humberto
+463,1,01:49,22,19,PIN,3_Pts_C,Sena
+464,1,01:49,22,16,COR,AS,Miller
+465,1,01:49,22,16,COR,2_Pts_C,Renato
+466,1,01:49,20,16,PIN,AS,Valter
+467,1,01:49,20,16,PIN,LL_Pts_C,Sena
+468,1,01:49,20,15,PIN,LL_Pts_C,Sena
+469,1,01:49,20,14,PIN,FR,Sena
+470,1,01:49,20,14,COR,FC,Vezarinho
+471,1,01:49,20,14,PIN,RO,Valter
+472,1,01:53,20,14,PIN,2_Pts_T,W Sena
+473,1,02:13,20,14,PIN,substituicao_entra,Gustavo
+474,1,02:13,20,14,PIN,substituicao_sai,Munford
+475,1,02:13,20,14,COR,ER,Renato
+476,1,02:23,20,14,PIN,2_Pts_C,Humberto
+477,1,02:34,20,12,COR,AS,Renato
+478,1,02:34,20,12,COR,3_Pts_C,Fuller
+479,1,02:36,17,12,COR,RO,Renato
+480,1,02:41,17,12,COR,3_Pts_T,Miller
+481,1,02:54,17,12,PIN,2_Pts_C,Munford
+482,1,03:02,17,10,PIN,RD,Valter
+483,1,03:06,17,10,COR,3_Pts_T,Fuller
+484,1,03:24,17,10,COR,substituicao_entra,Vezarinho
+485,1,03:24,17,10,COR,substituicao_sai,Arthur
+486,1,03:24,17,10,PIN,LL_Pts_C,Humberto
+487,1,03:24,17,9,PIN,FR,Humberto
+488,1,03:24,17,9,COR,FC,Renato
+489,1,03:24,17,9,PIN,2_Pts_C,Humberto
+490,1,03:31,17,7,PIN,RD,W Sena
+491,1,03:37,17,7,COR,2_Pts_T,Arthur
+492,1,03:48,17,7,COR,RD,Arthur
+493,1,03:51,17,7,PIN,2_Pts_T,Sena
+494,1,04:10,17,7,COR,substituicao_entra,Renato
+495,1,04:10,17,7,COR,substituicao_sai,L Cauê
+496,1,04:10,17,7,COR,substituicao_entra,Gegê
+497,1,04:10,17,7,COR,substituicao_sai,Fischer
+498,1,04:10,17,7,COR,ER,Miller
+499,1,04:22,17,7,COR,BR,Arthur
+500,1,04:22,17,7,PIN,ER,Humberto
+501,1,04:35,17,7,PIN,substituicao_entra,W Sena
+502,1,04:35,17,7,PIN,substituicao_sai,Teichmann
+503,1,04:43,17,7,COR,3_Pts_C,Miller
+504,1,04:59,14,7,COR,RD,Fischer
+505,1,05:02,14,7,PIN,2_Pts_T,Teichmann
+506,1,05:17,14,7,PIN,substituicao_entra,Sena
+507,1,05:17,14,7,PIN,substituicao_sai,Buffat
+508,1,05:17,14,7,PIN,substituicao_entra,Valter
+509,1,05:17,14,7,PIN,substituicao_sai,Zubiaurre
+510,1,05:17,14,7,COR,ER,Fuller
+511,1,05:23,14,7,COR,RD,L Cauê
+512,1,05:26,14,7,PIN,2_Pts_T,Humberto
+513,1,05:42,14,7,COR,2_Pts_C,L Cauê
+514,1,05:42,12,7,COR,RO,L Cauê
+515,1,05:48,12,7,COR,3_Pts_T,Fuller
+516,1,05:51,12,7,COR,RD,Miller
+517,1,05:55,12,7,PIN,2_Pts_T,Munford
+518,1,05:57,12,7,PIN,RO,Teichmann
+519,1,06:01,12,7,PIN,2_Pts_T,Munford
+520,1,06:17,12,7,COR,AS,Fischer
+521,1,06:17,12,7,COR,3_Pts_C,Fuller
+522,1,06:30,9,7,COR,FR,Miller
+523,1,06:30,9,7,PIN,ER,Buffat
+524,1,06:30,9,7,PIN,FC_O,Buffat
+525,1,06:39,9,7,COR,AS,Fuller
+526,1,06:39,9,7,COR,2_Pts_C,Arthur
+527,1,06:54,7,7,PIN,AS,Buffat
+528,1,06:54,7,7,PIN,2_Pts_C,Teichmann
+529,1,07:03,7,5,PIN,RD,Munford
+530,1,07:09,7,5,COR,3_Pts_T,Fischer
+531,1,07:24,7,5,PIN,AS,Humberto
+532,1,07:24,7,5,PIN,3_Pts_C,Zubiaurre
+533,1,07:43,7,2,COR,AS,L Cauê
+534,1,07:43,7,2,COR,2_Pts_C,Miller
+535,1,07:59,5,2,COR,FR,Fischer
+536,1,07:59,5,2,PIN,ER,Zubiaurre
+537,1,07:59,5,2,PIN,FC_O,Zubiaurre
+538,1,08:13,5,2,COR,2_Pts_C,Arthur
+539,1,08:22,3,2,COR,RD,L Cauê
+540,1,08:27,3,2,PIN,2_Pts_T,Buffat
+541,1,08:46,3,2,COR,AS,Fischer
+542,1,08:46,3,2,COR,3_Pts_C,Miller
+543,1,08:49,0,2,COR,RD,Fuller
+544,1,08:53,0,2,PIN,2_Pts_T,Buffat
+545,1,09:15,0,2,PIN,RD,Buffat
+546,1,09:18,0,2,COR,3_Pts_T,Miller
+547,1,09:43,0,2,PIN,2_Pts_C,Buffat
+548,1,10:00,0,0,PIN,substituicao_entra,Zubiaurre
+549,1,10:00,0,0,PIN,substituicao_entra,Humberto
+550,1,10:00,0,0,PIN,substituicao_entra,Munford
+551,1,10:00,0,0,PIN,substituicao_entra,Teichmann
+552,1,10:00,0,0,PIN,substituicao_entra,Buffat
+553,1,10:00,0,0,COR,substituicao_entra,Arthur
+554,1,10:00,0,0,COR,substituicao_entra,Miller
+555,1,10:00,0,0,COR,substituicao_entra,L Cauê
+556,1,10:00,0,0,COR,substituicao_entra,Fuller
+557,1,10:00,0,0,COR,substituicao_entra,Fischer
+558,1,10:00,0,0,,inicio_partida,

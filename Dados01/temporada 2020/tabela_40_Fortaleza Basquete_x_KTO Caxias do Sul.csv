@@ -1,0 +1,530 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,85,78,,fim_partida,
+1,4,00:00,85,78,,fim_quarto,
+2,4,00:03,85,78,CEA,RD,Felipe
+3,4,00:03,85,78,CAX,LL_Pts_T,Eugeniusz
+4,4,00:03,85,78,CAX,LL_Pts_T,Eugeniusz
+5,4,00:03,85,78,CEA,substituicao_entra,Lobo
+6,4,00:03,85,78,CEA,substituicao_sai,Schneider
+7,4,00:03,85,78,CAX,FR,Eugeniusz
+8,4,00:03,85,78,CEA,FC,Schneider
+9,4,00:07,85,78,CEA,LL_Pts_C,Schneider
+10,4,00:07,84,78,CEA,LL_Pts_T,Schneider
+11,4,00:07,84,78,CEA,FR,Schneider
+12,4,00:07,84,78,CAX,FC,Eddy
+13,4,00:14,84,78,CAX,3_Pts_C,Nico
+14,4,00:24,84,75,CEA,LL_Pts_C,Schneider
+15,4,00:24,83,75,CEA,LL_Pts_C,Schneider
+16,4,00:24,82,75,CEA,FR,Schneider
+17,4,00:24,82,75,CAX,FC,Eugeniusz
+18,4,00:26,82,75,CAX,LL_Pts_C,Eugeniusz
+19,4,00:26,82,74,CAX,LL_Pts_T,Eugeniusz
+20,4,00:26,82,74,CEA,substituicao_entra,Felipe
+21,4,00:26,82,74,CEA,substituicao_sai,Cauê
+22,4,00:26,82,74,CAX,FR,Eugeniusz
+23,4,00:26,82,74,CEA,FC,Cauê
+24,4,00:31,82,74,CEA,LL_Pts_C,Rashaun
+25,4,00:31,81,74,CEA,LL_Pts_C,Rashaun
+26,4,00:31,80,74,CAX,substituicao_entra,Antonio
+27,4,00:31,80,74,CAX,substituicao_sai,Pedro
+28,4,00:31,80,74,CEA,FR,Rashaun
+29,4,00:31,80,74,CAX,FC,Pedro
+30,4,00:31,80,74,CEA,RD,Rashaun
+31,4,00:32,80,74,CAX,3_Pts_T,Nico
+32,4,00:32,80,74,CAX,RO,Pedro
+33,4,00:36,80,74,CAX,3_Pts_T,Pedro
+34,4,00:40,80,74,CEA,substituicao_entra,Cauê
+35,4,00:40,80,74,CEA,substituicao_sai,Felipe
+36,4,00:40,80,74,CAX,substituicao_entra,Eugeniusz
+37,4,00:40,80,74,CAX,substituicao_sai,Antonio
+38,4,00:40,80,74,CEA,ER,Holloway
+39,4,00:42,80,74,CEA,RD,Felipe
+40,4,00:46,80,74,CAX,2_Pts_T,Antonio
+41,4,00:56,80,74,CAX,tempo_tecnico,Caxias do Sul
+42,4,00:58,80,74,CEA,LL_Pts_C,Holloway
+43,4,00:58,79,74,CAX,substituicao_entra,Pedro
+44,4,00:58,79,74,CAX,substituicao_sai,Da Silva
+45,4,00:58,79,74,CEA,substituicao_entra,Schneider
+46,4,00:58,79,74,CEA,substituicao_sai,Cauê
+47,4,01:18,79,74,CEA,FR,Holloway
+48,4,01:18,79,74,CAX,FC,Da Silva
+49,4,01:21,79,74,CEA,2_Pts_C,Holloway
+50,4,01:22,77,74,CEA,RD,Holloway
+51,4,01:22,77,74,CAX,LL_Pts_T,Eddy
+52,4,01:22,77,74,CAX,LL_Pts_T,Eddy
+53,4,01:22,77,74,CAX,FR,Eddy
+54,4,01:22,77,74,CEA,FC,Felipe
+55,4,01:44,77,74,CEA,LL_Pts_C,Felipe
+56,4,01:44,76,74,CEA,LL_Pts_C,Felipe
+57,4,01:44,75,74,CAX,substituicao_entra,Da Silva
+58,4,01:44,75,74,CAX,substituicao_sai,Shilton
+59,4,01:44,75,74,CEA,FR,Felipe
+60,4,01:44,75,74,CAX,FC,Shilton
+61,4,01:44,75,74,CEA,RO,Felipe
+62,4,01:44,75,74,CEA,2_Pts_T,Sualisson
+63,4,02:03,75,74,CAX,LL_Pts_C,Shilton
+64,4,02:03,75,73,CAX,LL_Pts_T,Shilton
+65,4,02:03,75,73,CAX,FR,Shilton
+66,4,02:03,75,73,CEA,FC,Holloway
+67,4,02:12,75,73,CEA,2_Pts_C,Sualisson
+68,4,02:30,73,73,CAX,AS,Nico
+69,4,02:30,73,73,CAX,2_Pts_C,Eddy
+70,4,02:42,73,71,CAX,RD,Shilton
+71,4,02:42,73,71,CEA,LL_Pts_T,Rashaun
+72,4,02:42,73,71,CEA,LL_Pts_T,Rashaun
+73,4,02:42,73,71,CAX,substituicao_entra,Antonio
+74,4,02:42,73,71,CAX,substituicao_sai,R Stabile
+75,4,02:42,73,71,CEA,FR,Rashaun
+76,4,02:42,73,71,CAX,FC,R Stabile
+77,4,02:42,73,71,CEA,RD,Cauê
+78,4,02:52,73,71,CAX,3_Pts_T,R Stabile
+79,4,02:55,73,71,CAX,RO,Caxias do Sul
+80,4,02:55,73,71,CEA,TO,Holloway
+81,4,02:55,73,71,CAX,2_Pts_T,Eddy
+82,4,03:03,73,71,CAX,tempo_tecnico,Caxias do Sul
+83,4,03:05,73,71,CAX,FR,Pedro
+84,4,03:05,73,71,CEA,ER,Holloway
+85,4,03:05,73,71,CEA,FC_O,Holloway
+86,4,03:07,73,71,CEA,RD,Holloway
+87,4,03:11,73,71,CAX,3_Pts_T,Pedro
+88,4,03:28,73,71,CAX,RD,Eddy
+89,4,03:32,73,71,CEA,3_Pts_T,Felipe
+90,4,03:44,73,71,CEA,RD,Rashaun
+91,4,03:48,73,71,CAX,3_Pts_T,R Stabile
+92,4,04:01,73,71,CEA,ER,
+93,4,04:27,73,71,CAX,LL_Pts_C,Pedro
+94,4,04:27,73,70,CAX,LL_Pts_C,Pedro
+95,4,04:27,73,69,CAX,FR,Pedro
+96,4,04:27,73,69,CEA,FC,Holloway
+97,4,04:27,73,69,CAX,BR,Pedro
+98,4,04:27,73,69,CEA,ER,Holloway
+99,4,04:47,73,69,CAX,LL_Pts_C,Pedro
+100,4,04:47,73,68,CAX,LL_Pts_T,Pedro
+101,4,04:47,73,68,CAX,FR,Pedro
+102,4,04:47,73,68,CEA,FC,Cauê
+103,4,04:52,73,68,CAX,BR,Pedro
+104,4,04:52,73,68,CEA,ER,Cauê
+105,4,05:00,73,68,CEA,RD,Holloway
+106,4,05:05,73,68,CAX,2_Pts_T,Nico
+107,4,05:21,73,68,CEA,AS,Rashaun
+108,4,05:21,73,68,CEA,3_Pts_C,Felipe
+109,4,05:26,70,68,CEA,RD,Felipe
+110,4,05:32,70,68,CAX,2_Pts_T,Pedro
+111,4,05:44,70,68,CEA,substituicao_entra,Felipe
+112,4,05:44,70,68,CEA,substituicao_sai,Lobo
+113,4,05:44,70,68,CEA,substituicao_entra,Holloway
+114,4,05:44,70,68,CEA,substituicao_sai,Schneider
+115,4,05:44,70,68,CAX,FR,Nico
+116,4,05:44,70,68,CEA,FC,Schneider
+117,4,05:48,70,68,CAX,RD,R Stabile
+118,4,05:53,70,68,CEA,3_Pts_T,Lobo
+119,4,06:14,70,68,CAX,AS,Nico
+120,4,06:14,70,68,CAX,3_Pts_C,Eddy
+121,4,06:23,70,65,CAX,RD,Pedro
+122,4,06:26,70,65,CEA,3_Pts_T,Schneider
+123,4,06:32,70,65,CEA,FR,Rashaun
+124,4,06:32,70,65,CAX,FC,R Stabile
+125,4,06:47,70,65,CAX,LL_Pts_C,Nico
+126,4,06:47,70,64,CAX,LL_Pts_C,Nico
+127,4,06:47,70,63,CAX,FR,Nico
+128,4,06:47,70,63,CEA,FC,Sualisson
+129,4,06:59,70,63,CEA,LL_Pts_C,Rashaun
+130,4,06:59,69,63,CEA,LL_Pts_C,Rashaun
+131,4,06:59,68,63,CEA,FR,Rashaun
+132,4,06:59,68,63,CAX,FC,Shilton
+133,4,07:09,68,63,CEA,ER,Schneider
+134,4,07:11,68,63,CAX,substituicao_entra,R Stabile
+135,4,07:11,68,63,CAX,substituicao_sai,Pedro
+136,4,07:11,68,63,CEA,FR,Lobo
+137,4,07:11,68,63,CAX,FC,Pedro
+138,4,07:11,68,63,CEA,RD,Lobo
+139,4,07:15,68,63,CAX,3_Pts_T,Pedro
+140,4,07:26,68,63,CAX,RD,Pedro
+141,4,07:30,68,63,CEA,2_Pts_T,Schneider
+142,4,07:52,68,63,CEA,RD,Fortaleza Basquete Cearense
+143,4,07:52,68,63,CAX,2_Pts_T,Shilton
+144,4,08:04,68,63,CAX,FR,Nico
+145,4,08:04,68,63,CEA,FC,Cauê
+146,4,08:15,68,63,CAX,FR,Shilton
+147,4,08:15,68,63,CEA,FC,Lobo
+148,4,08:15,68,63,CAX,RD,Shilton
+149,4,08:17,68,63,CEA,2_Pts_T,Cauê
+150,4,08:36,68,63,CEA,substituicao_entra,Lobo
+151,4,08:36,68,63,CEA,substituicao_sai,Holloway
+152,4,08:36,68,63,CEA,RD,Fortaleza Basquete Cearense
+153,4,08:39,68,63,CAX,3_Pts_T,Pedro
+154,4,08:43,68,63,CAX,RD,Shilton
+155,4,08:47,68,63,CEA,2_Pts_T,Holloway
+156,4,09:01,68,63,CAX,substituicao_entra,Shilton
+157,4,09:01,68,63,CAX,substituicao_sai,Antonio
+158,4,09:01,68,63,CEA,substituicao_entra,Schneider
+159,4,09:01,68,63,CEA,substituicao_sai,Felipe
+160,4,09:01,68,63,CEA,FR,Felipe
+161,4,09:01,68,63,CAX,FC,Pedro
+162,4,09:03,68,63,CEA,RD,Rashaun
+163,4,09:07,68,63,CAX,3_Pts_T,Pedro
+164,4,09:16,68,63,CAX,RD,Eddy
+165,4,09:20,68,63,CEA,3_Pts_T,Felipe
+166,4,09:38,68,63,CEA,BR,Rashaun
+167,4,09:38,68,63,CAX,ER,Pedro
+168,4,09:40,68,63,CAX,RO,Pedro
+169,4,09:43,68,63,CAX,3_Pts_T,Eddy
+170,4,10:00,68,63,,inicio_quarto,
+171,3,00:00,68,63,,fim_quarto,
+172,3,00:07,68,63,CAX,AS,Pedro
+173,3,00:07,68,63,CAX,3_Pts_C,Eddy
+174,3,00:13,68,60,CAX,substituicao_entra,Pedro
+175,3,00:13,68,60,CAX,substituicao_sai,Shilton
+176,3,00:21,68,60,CAX,RD,Caxias do Sul
+177,3,00:23,68,60,CEA,2_Pts_T,Holloway
+178,3,00:36,68,60,CAX,AS,Nico
+179,3,00:36,68,60,CAX,3_Pts_C,Eddy
+180,3,00:55,68,57,CEA,AS,Cauê
+181,3,00:55,68,57,CAX,RD,Shilton
+182,3,00:55,68,57,CEA,LL_Pts_T,Sualisson
+183,3,00:55,68,57,CEA,FR,Sualisson
+184,3,00:55,68,57,CAX,FC,Shilton
+185,3,00:55,68,57,CEA,2_Pts_C,Sualisson
+186,3,01:10,66,57,CEA,substituicao_entra,Holloway
+187,3,01:10,66,57,CEA,substituicao_sai,Rashaun
+188,3,01:11,66,57,CAX,LL_Pts_C,Pedro
+189,3,01:11,66,56,CAX,LL_Pts_C,Pedro
+190,3,01:11,66,55,CAX,FR,Pedro
+191,3,01:11,66,55,CEA,FC,Rashaun
+192,3,01:27,66,55,CEA,LL_Pts_C,Rashaun
+193,3,01:27,65,55,CEA,LL_Pts_C,Rashaun
+194,3,01:27,64,55,CEA,substituicao_entra,Lobo
+195,3,01:27,64,55,CEA,substituicao_sai,Holloway
+196,3,01:27,64,55,CEA,FR,Rashaun
+197,3,01:27,64,55,CAX,FC,Shilton
+198,3,01:34,64,55,CEA,RD,Rashaun
+199,3,01:37,64,55,CAX,2_Pts_T,Pedro
+200,3,02:01,64,55,CEA,LL_Pts_C,Felipe
+201,3,02:01,63,55,CEA,LL_Pts_C,Felipe
+202,3,02:01,62,55,CEA,FR,Felipe
+203,3,02:01,62,55,CAX,FC,Pedro
+204,3,02:01,62,55,CEA,RO,Felipe
+205,3,02:01,62,55,CEA,2_Pts_T,Cauê
+206,3,02:19,62,55,CAX,LL_Pts_C,Antonio
+207,3,02:25,62,54,CAX,FR,Antonio
+208,3,02:25,62,54,CEA,FC,Felipe
+209,3,02:32,62,54,CAX,2_Pts_C,Antonio
+210,3,02:39,62,52,CEA,LL_Pts_C,Holloway
+211,3,02:39,61,52,CAX,substituicao_entra,Eddy
+212,3,02:39,61,52,CAX,substituicao_sai,Da Silva
+213,3,02:39,61,52,CAX,ER,Da Silva
+214,3,02:39,61,52,CAX,FC_T,Da Silva
+215,3,02:39,61,52,CEA,ER,Cauê
+216,3,02:39,61,52,CEA,FC_T,Cauê
+217,3,02:39,61,52,CEA,FR,Holloway
+218,3,02:39,61,52,CAX,FC,Da Silva
+219,3,02:39,61,52,CEA,2_Pts_C,Holloway
+220,3,02:46,59,52,CEA,RD,Rashaun
+221,3,02:52,59,52,CEA,TO,Sualisson
+222,3,02:52,59,52,CAX,2_Pts_T,Nico
+223,3,03:02,59,52,CAX,FR,Pedro
+224,3,03:02,59,52,CEA,FC,Sualisson
+225,3,03:22,59,52,CEA,AS,Rashaun
+226,3,03:22,59,52,CEA,2_Pts_C,Sualisson
+227,3,03:28,57,52,CEA,RD,Felipe
+228,3,03:32,57,52,CAX,3_Pts_T,Pedro
+229,3,03:46,57,52,CEA,LL_Pts_C,Holloway
+230,3,03:46,56,52,CEA,FR,Holloway
+231,3,03:46,56,52,CAX,FC,Da Silva
+232,3,03:46,56,52,CEA,2_Pts_C,Holloway
+233,3,03:50,54,52,CEA,RD,Holloway
+234,3,03:54,54,52,CAX,3_Pts_T,Antonio
+235,3,04:05,54,52,CAX,RD,Shilton
+236,3,04:10,54,52,CEA,2_Pts_T,Rashaun
+237,3,04:27,54,52,CAX,AS,Antonio
+238,3,04:27,54,52,CAX,2_Pts_C,Shilton
+239,3,04:44,54,50,CEA,AS,Cauê
+240,3,04:44,54,50,CEA,EN,Sualisson
+241,3,04:56,52,50,CAX,LL_Pts_C,Da Silva
+242,3,04:56,52,49,CAX,LL_Pts_C,Da Silva
+243,3,04:56,52,48,CAX,FR,Da Silva
+244,3,04:56,52,48,CEA,FC,Felipe
+245,3,05:01,52,48,CAX,RD,Shilton
+246,3,05:04,52,48,CEA,3_Pts_T,Felipe
+247,3,05:13,52,48,CEA,LL_Pts_C,Holloway
+248,3,05:13,51,48,CEA,LL_Pts_C,Holloway
+249,3,05:13,50,48,CEA,FR,Holloway
+250,3,05:13,50,48,CAX,FC_A,Antonio
+251,3,05:13,50,48,CEA,RD,Felipe
+252,3,05:20,50,48,CEA,TO,Sualisson
+253,3,05:20,50,48,CAX,2_Pts_T,Pedro
+254,3,05:25,50,48,CAX,RD,Shilton
+255,3,05:30,50,48,CEA,2_Pts_T,Felipe
+256,3,05:41,50,48,CEA,FR,Sualisson
+257,3,05:41,50,48,CAX,FC,Antonio
+258,3,05:55,50,48,CEA,tempo_tecnico,Fortaleza Basquete Cearense
+259,3,06:02,50,48,CAX,2_Pts_C,Nico
+260,3,06:10,50,46,CAX,BR,Nico
+261,3,06:10,50,46,CEA,ER,Sualisson
+262,3,06:24,50,46,CEA,substituicao_entra,Cauê
+263,3,06:24,50,46,CEA,substituicao_sai,Schneider
+264,3,06:26,50,46,CAX,2_Pts_C,Nico
+265,3,06:34,50,44,CAX,RD,Shilton
+266,3,06:39,50,44,CEA,3_Pts_T,Felipe
+267,3,06:47,50,44,CEA,RD,Holloway
+268,3,06:51,50,44,CAX,2_Pts_T,Pedro
+269,3,06:59,50,44,CAX,RD,Shilton
+270,3,07:04,50,44,CEA,2_Pts_T,Sualisson
+271,3,07:21,50,44,CAX,AS,Da Silva
+272,3,07:21,50,44,CAX,3_Pts_C,Pedro
+273,3,07:42,50,41,CEA,AS,Schneider
+274,3,07:42,50,41,CEA,3_Pts_C,Felipe
+275,3,07:49,47,41,CEA,FR,Holloway
+276,3,07:49,47,41,CAX,FC,Antonio
+277,3,08:05,47,41,CAX,2_Pts_C,Antonio
+278,3,08:17,47,39,CAX,FR,Shilton
+279,3,08:17,47,39,CEA,FC,Schneider
+280,3,08:21,47,39,CAX,RD,Pedro
+281,3,08:26,47,39,CEA,3_Pts_T,Schneider
+282,3,08:39,47,39,CEA,RD,Rashaun
+283,3,08:44,47,39,CAX,2_Pts_T,Da Silva
+284,3,09:07,47,39,CEA,2_Pts_C,Holloway
+285,3,09:27,45,39,CAX,AS,Nico
+286,3,09:27,45,39,CAX,2_Pts_C,Da Silva
+287,3,09:41,45,37,CAX,RD,Nico
+288,3,09:45,45,37,CEA,3_Pts_T,Schneider
+289,3,10:00,45,37,,inicio_quarto,
+290,2,00:00,45,37,,fim_quarto,
+291,2,00:03,45,37,CAX,3_Pts_T,Pedro
+292,2,00:12,45,37,CAX,RD,Shilton
+293,2,00:12,45,37,CEA,LL_Pts_T,Holloway
+294,2,00:12,45,37,CEA,LL_Pts_C,Holloway
+295,2,00:12,44,37,CEA,FR,Holloway
+296,2,00:12,44,37,CAX,FC,Pedro
+297,2,00:37,44,37,CEA,BR,Felipe
+298,2,00:37,44,37,CAX,ER,Shilton
+299,2,00:38,44,37,CAX,RO,Shilton
+300,2,00:43,44,37,CAX,3_Pts_T,Da Silva
+301,2,00:56,44,37,CEA,ER,Sualisson
+302,2,01:05,44,37,CEA,RD,Cauê
+303,2,01:09,44,37,CAX,3_Pts_T,Eddy
+304,2,01:19,44,37,CEA,2_Pts_C,Rashaun
+305,2,01:35,42,37,CAX,2_Pts_C,Da Silva
+306,2,01:48,42,35,CEA,substituicao_entra,Cauê
+307,2,01:48,42,35,CEA,substituicao_sai,Schneider
+308,2,01:48,42,35,CEA,ER,Schneider
+309,2,01:52,42,35,CEA,RO,Schneider
+310,2,01:56,42,35,CEA,3_Pts_T,Holloway
+311,2,02:10,42,35,CAX,2_Pts_C,Da Silva
+312,2,02:11,42,33,CAX,RO,Da Silva
+313,2,02:14,42,33,CAX,3_Pts_T,Antonio
+314,2,02:24,42,33,CAX,FR,Shilton
+315,2,02:24,42,33,CEA,FC,Holloway
+316,2,02:24,42,33,CAX,RO,Shilton
+317,2,02:27,42,33,CAX,3_Pts_T,Eddy
+318,2,02:40,42,33,CEA,substituicao_entra,Rashaun
+319,2,02:40,42,33,CEA,substituicao_entra,Sualisson
+320,2,02:40,42,33,CEA,substituicao_sai,Nogueira
+321,2,02:40,42,33,CEA,substituicao_sai,Lobo
+322,2,02:40,42,33,CAX,tempo_tecnico,Caxias do Sul
+323,2,02:46,42,33,CEA,AS,Nogueira
+324,2,02:46,42,33,CEA,3_Pts_C,Holloway
+325,2,03:10,39,33,CAX,AS,Pedro
+326,2,03:10,39,33,CAX,3_Pts_C,Da Silva
+327,2,03:22,39,30,CAX,RO,Da Silva
+328,2,03:26,39,30,CAX,3_Pts_T,Pedro
+329,2,03:29,39,30,CAX,RD,Da Silva
+330,2,03:35,39,30,CEA,3_Pts_T,Felipe
+331,2,03:54,39,30,CEA,BR,Nogueira
+332,2,03:54,39,30,CAX,ER,Da Silva
+333,2,04:06,39,30,CEA,3_Pts_C,Holloway
+334,2,04:28,36,30,CAX,LL_Pts_C,Da Silva
+335,2,04:28,36,29,CAX,LL_Pts_T,Da Silva
+336,2,04:28,36,29,CAX,AS,Pedro
+337,2,04:28,36,29,CAX,LL_Pts_C,Da Silva
+338,2,04:28,36,28,CAX,FR,Da Silva
+339,2,04:28,36,28,CEA,FC,Schneider
+340,2,04:40,36,28,CEA,substituicao_entra,Lobo
+341,2,04:40,36,28,CEA,substituicao_sai,Rashaun
+342,2,04:40,36,28,CEA,substituicao_entra,Schneider
+343,2,04:40,36,28,CEA,substituicao_sai,Sualisson
+344,2,04:46,36,28,CAX,BR,Antonio
+345,2,04:46,36,28,CEA,ER,Felipe
+346,2,05:04,36,28,CEA,RD,Nogueira
+347,2,05:08,36,28,CAX,2_Pts_T,Pedro
+348,2,05:15,36,28,CAX,RD,Da Silva
+349,2,05:15,36,28,CEA,LL_Pts_T,Nogueira
+350,2,05:15,36,28,CEA,LL_Pts_T,Nogueira
+351,2,05:15,36,28,CEA,FR,Nogueira
+352,2,05:15,36,28,CAX,FC,Pedro
+353,2,05:20,36,28,CEA,FR,Rashaun
+354,2,05:20,36,28,CAX,FC,Shilton
+355,2,05:38,36,28,CAX,3_Pts_C,Pedro
+356,2,05:42,36,25,CAX,RD,Shilton
+357,2,05:46,36,25,CEA,2_Pts_T,Sualisson
+358,2,05:58,36,25,CAX,substituicao_entra,Shilton
+359,2,05:58,36,25,CAX,substituicao_sai,R Stabile
+360,2,05:58,36,25,CEA,substituicao_entra,Nogueira
+361,2,05:58,36,25,CEA,substituicao_sai,Schneider
+362,2,05:58,36,25,CEA,FR,Felipe
+363,2,05:58,36,25,CAX,FC,R Stabile
+364,2,06:06,36,25,CAX,LL_Pts_C,Antonio
+365,2,06:06,36,24,CAX,LL_Pts_C,Antonio
+366,2,06:06,36,23,CAX,FR,Antonio
+367,2,06:06,36,23,CEA,FC,Sualisson
+368,2,06:06,36,23,CAX,RO,Antonio
+369,2,06:07,36,23,CAX,2_Pts_T,Antonio
+370,2,06:12,36,23,CAX,RO,Eddy
+371,2,06:17,36,23,CAX,3_Pts_T,Pedro
+372,2,06:35,36,23,CEA,AS,Sualisson
+373,2,06:35,36,23,CEA,2_Pts_C,Holloway
+374,2,06:36,34,23,CEA,RO,Sualisson
+375,2,06:41,34,23,CEA,2_Pts_T,Schneider
+376,2,06:46,34,23,CEA,BR,Sualisson
+377,2,06:46,34,23,CAX,ER,Eddy
+378,2,06:59,34,23,CEA,substituicao_entra,Felipe
+379,2,06:59,34,23,CEA,substituicao_sai,Cauê
+380,2,07:05,34,23,CAX,RD,Caxias do Sul
+381,2,07:08,34,23,CEA,3_Pts_T,Rashaun
+382,2,07:15,34,23,CEA,RD,Holloway
+383,2,07:23,34,23,CAX,3_Pts_T,Eddy
+384,2,07:38,34,23,CEA,AS,Schneider
+385,2,07:38,34,23,CEA,2_Pts_C,Sualisson
+386,2,07:52,32,23,CAX,AS,Pedro
+387,2,07:52,32,23,CAX,2_Pts_C,Eddy
+388,2,07:59,32,21,CAX,BR,Pedro
+389,2,07:59,32,21,CEA,ER,Sualisson
+390,2,08:03,32,21,CEA,RD,Sualisson
+391,2,08:07,32,21,CAX,2_Pts_T,R Stabile
+392,2,08:20,32,21,CEA,LL_Pts_C,Holloway
+393,2,08:20,31,21,CEA,LL_Pts_C,Holloway
+394,2,08:20,30,21,CEA,LL_Pts_C,Holloway
+395,2,08:20,29,21,CEA,substituicao_entra,Cauê
+396,2,08:20,29,21,CEA,substituicao_sai,Felipe
+397,2,08:20,29,21,CEA,FR,Holloway
+398,2,08:20,29,21,CAX,FC,Eddy
+399,2,08:34,29,21,CAX,AS,Eddy
+400,2,08:34,29,21,CAX,3_Pts_C,Da Silva
+401,2,08:40,29,18,CAX,FR,Da Silva
+402,2,08:40,29,18,CEA,FC,Schneider
+403,2,08:41,29,18,CAX,RD,R Stabile
+404,2,08:47,29,18,CEA,3_Pts_T,Schneider
+405,2,08:59,29,18,CAX,AS,Eddy
+406,2,08:59,29,18,CAX,3_Pts_C,Pedro
+407,2,09:19,29,15,CEA,2_Pts_C,Rashaun
+408,2,09:32,27,15,CEA,FR,Rashaun
+409,2,09:32,27,15,CAX,FC,R Stabile
+410,2,09:51,27,15,CAX,,
+411,2,10:00,27,15,,inicio_quarto,
+412,1,00:00,27,15,,fim_quarto,
+413,1,00:06,27,15,CEA,3_Pts_C,Rashaun
+414,1,00:07,24,15,CAX,2_Pts_C,Nico
+415,1,00:14,24,13,CAX,FR,Nico
+416,1,00:14,24,13,CEA,FC,Rashaun
+417,1,00:29,24,13,CEA,LL_Pts_C,Rashaun
+418,1,00:29,23,13,CEA,LL_Pts_T,Rashaun
+419,1,00:29,23,13,CEA,substituicao_entra,Lobo
+420,1,00:29,23,13,CEA,substituicao_sai,Holloway
+421,1,00:29,23,13,CEA,FR,Rashaun
+422,1,00:29,23,13,CAX,FC,R Stabile
+423,1,00:29,23,13,CEA,RD,Rashaun
+424,1,00:30,23,13,CAX,3_Pts_T,Pedro
+425,1,00:42,23,13,CEA,substituicao_entra,Sualisson
+426,1,00:42,23,13,CEA,substituicao_sai,Nogueira
+427,1,00:46,23,13,CEA,ER,Rashaun
+428,1,00:53,23,13,CEA,BR,Rashaun
+429,1,00:53,23,13,CAX,ER,Adriano Big
+430,1,01:08,23,13,CEA,3_Pts_C,Holloway
+431,1,01:25,20,13,CEA,RD,Rashaun
+432,1,01:30,20,13,CAX,3_Pts_T,R Stabile
+433,1,01:33,20,13,CAX,RO,Caxias do Sul
+434,1,01:33,20,13,CEA,TO,Holloway
+435,1,01:33,20,13,CAX,2_Pts_T,Pedro
+436,1,01:45,20,13,CAX,RD,Caxias do Sul
+437,1,01:50,20,13,CEA,3_Pts_T,Nogueira
+438,1,01:58,20,13,CEA,FR,Holloway
+439,1,01:58,20,13,CAX,FC,Pedro
+440,1,02:08,20,13,CEA,FR,Schneider
+441,1,02:08,20,13,CAX,ER,Adriano Big
+442,1,02:08,20,13,CAX,FC_O,Adriano Big
+443,1,02:21,20,13,CEA,2_Pts_C,Rashaun
+444,1,02:30,18,13,CAX,substituicao_entra,Adriano Big
+445,1,02:30,18,13,CAX,substituicao_sai,Shilton
+446,1,02:30,18,13,CAX,substituicao_entra,R Stabile
+447,1,02:30,18,13,CAX,substituicao_entra,Pedro
+448,1,02:30,18,13,CAX,substituicao_sai,Eddy
+449,1,02:30,18,13,CAX,substituicao_sai,Da Silva
+450,1,02:30,18,13,CEA,substituicao_entra,Schneider
+451,1,02:30,18,13,CEA,substituicao_sai,Cauê
+452,1,02:40,18,13,CAX,2_Pts_C,Nico
+453,1,03:00,18,11,CEA,AS,Nogueira
+454,1,03:00,18,11,CEA,3_Pts_C,Rashaun
+455,1,03:30,15,11,CAX,AS,Nico
+456,1,03:30,15,11,CAX,2_Pts_C,Shilton
+457,1,03:36,15,9,CAX,RD,Da Silva
+458,1,03:41,15,9,CEA,3_Pts_T,Holloway
+459,1,03:56,15,9,CEA,RD,Felipe
+460,1,04:01,15,9,CAX,2_Pts_T,Eddy
+461,1,04:17,15,9,CEA,ER,Holloway
+462,1,04:28,15,9,CAX,2_Pts_C,Nico
+463,1,04:47,15,7,CEA,2_Pts_C,Rashaun
+464,1,04:53,13,7,CEA,BR,Rashaun
+465,1,04:53,13,7,CAX,ER,Eddy
+466,1,05:05,13,7,CEA,LL_Pts_C,Holloway
+467,1,05:05,12,7,CEA,FR,Holloway
+468,1,05:05,12,7,CAX,FC,Pedro
+469,1,05:05,12,7,CEA,2_Pts_C,Holloway
+470,1,05:11,10,7,CAX,substituicao_entra,Pedro
+471,1,05:11,10,7,CAX,substituicao_sai,Pedro
+472,1,05:19,10,7,CAX,RO,Eddy
+473,1,05:19,10,7,CAX,LL_Pts_T,Pedro
+474,1,05:19,10,7,CAX,LL_Pts_C,Pedro
+475,1,05:19,10,6,CAX,FR,Pedro
+476,1,05:19,10,6,CEA,FC,Felipe
+477,1,05:37,10,6,CEA,AS,Rashaun
+478,1,05:37,10,6,CEA,3_Pts_C,Cauê
+479,1,05:45,7,6,CEA,RD,Nogueira
+480,1,05:50,7,6,CAX,3_Pts_T,Eddy
+481,1,05:59,7,6,CAX,ER,
+482,1,06:13,7,6,CEA,RO,Holloway
+483,1,06:17,7,6,CEA,3_Pts_T,Felipe
+484,1,06:32,7,6,CEA,RD,Holloway
+485,1,06:36,7,6,CAX,2_Pts_T,Eddy
+486,1,07:11,7,6,CEA,AS,Holloway
+487,1,07:11,7,6,CEA,EN,Nogueira
+488,1,07:14,5,6,CEA,RD,Cauê
+489,1,07:21,5,6,CEA,TO,Nogueira
+490,1,07:21,5,6,CAX,2_Pts_T,Shilton
+491,1,07:26,5,6,CAX,RD,Eddy
+492,1,07:32,5,6,CEA,3_Pts_T,Felipe
+493,1,07:41,5,6,CAX,2_Pts_C,Da Silva
+494,1,07:48,5,4,CAX,BR,Eddy
+495,1,07:48,5,4,CEA,ER,Nogueira
+496,1,07:58,5,4,CEA,RD,Felipe
+497,1,08:02,5,4,CAX,3_Pts_T,Da Silva
+498,1,08:12,5,4,CEA,2_Pts_C,Holloway
+499,1,08:13,3,4,CEA,RO,Holloway
+500,1,08:20,3,4,CEA,2_Pts_T,Rashaun
+501,1,08:39,3,4,CAX,2_Pts_C,Nico
+502,1,08:50,3,2,CAX,RD,Shilton
+503,1,08:50,3,2,CEA,LL_Pts_T,Felipe
+504,1,08:50,3,2,CEA,LL_Pts_C,Felipe
+505,1,08:50,2,2,CEA,FR,Felipe
+506,1,08:50,2,2,CAX,FC,Da Silva
+507,1,09:12,2,2,CAX,LL_Pts_C,Shilton
+508,1,09:12,2,1,CAX,LL_Pts_C,Shilton
+509,1,09:12,2,0,CAX,FR,Shilton
+510,1,09:12,2,0,CEA,FC,Cauê
+511,1,09:12,2,0,CAX,RO,Shilton
+512,1,09:12,2,0,CAX,2_Pts_T,Pedro
+513,1,09:14,2,0,CAX,RD,Pedro
+514,1,09:19,2,0,CEA,2_Pts_T,Nogueira
+515,1,09:33,2,0,CEA,BR,Cauê
+516,1,09:33,2,0,CAX,ER,Pedro
+517,1,09:54,2,0,CEA,2_Pts_C,Nogueira
+518,1,10:00,0,0,CAX,substituicao_entra,Shilton
+519,1,10:00,0,0,CAX,substituicao_entra,Eddy
+520,1,10:00,0,0,CAX,substituicao_entra,Nico
+521,1,10:00,0,0,CAX,substituicao_entra,Pedro
+522,1,10:00,0,0,CAX,substituicao_entra,Da Silva
+523,1,10:00,0,0,CEA,substituicao_entra,Nogueira
+524,1,10:00,0,0,CEA,substituicao_entra,Felipe
+525,1,10:00,0,0,CEA,substituicao_entra,Rashaun
+526,1,10:00,0,0,CEA,substituicao_entra,Cauê
+527,1,10:00,0,0,CEA,substituicao_entra,Holloway
+528,1,10:00,0,0,,inicio_partida,

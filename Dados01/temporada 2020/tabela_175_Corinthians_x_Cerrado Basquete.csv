@@ -1,0 +1,442 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,83,61,,fim_partida,
+1,4,00:00,83,61,,fim_quarto,
+2,4,00:04,83,61,COR,RD,Renato
+3,4,00:06,83,61,CER,2_Pts_T,Luis
+4,4,00:07,83,61,CER,RD,Von Haydin
+5,4,00:14,83,61,COR,3_Pts_T,Renato
+6,4,00:39,83,61,COR,RD,Arthur
+7,4,00:43,83,61,CER,2_Pts_T,Von Haydin
+8,4,01:01,83,61,COR,3_Pts_C,Fischer
+9,4,01:18,80,61,COR,RD,Miller
+10,4,01:22,80,61,CER,3_Pts_T,Crescenzi
+11,4,01:35,80,61,COR,AS,Miller
+12,4,01:35,80,61,COR,3_Pts_C,Fuller
+13,4,01:56,77,61,CER,substituicao_entra,Alex
+14,4,01:56,77,61,CER,substituicao_entra,Luis
+15,4,01:56,77,61,CER,substituicao_entra,Sérgio
+16,4,01:56,77,61,CER,substituicao_sai,D Nunes
+17,4,01:56,77,61,CER,substituicao_sai,Wiggins
+18,4,01:56,77,61,CER,substituicao_sai,Lucas Lima
+19,4,01:56,77,61,CER,ER,Lucas Lima
+20,4,01:57,77,61,CER,RD,Von Haydin
+21,4,02:03,77,61,COR,2_Pts_T,Miller
+22,4,02:04,77,61,COR,RD,Miller
+23,4,02:08,77,61,CER,2_Pts_T,Wiggins
+24,4,02:09,77,61,CER,RO,Wiggins
+25,4,02:12,77,61,CER,2_Pts_T,D Nunes
+26,4,02:12,77,61,CER,RO,D Nunes
+27,4,02:19,77,61,CER,2_Pts_T,Lucas Lima
+28,4,02:35,77,61,COR,LL_Pts_C,Fischer
+29,4,02:35,76,61,COR,LL_Pts_C,Fischer
+30,4,02:35,75,61,COR,FR,Fischer
+31,4,02:35,75,61,CER,FC,Crescenzi
+32,4,02:46,75,61,COR,LL_Pts_C,Arthur
+33,4,02:46,74,61,COR,LL_Pts_T,Arthur
+34,4,02:46,74,61,COR,substituicao_entra,Arthur
+35,4,02:46,74,61,COR,substituicao_sai,Pedro Nunes
+36,4,02:46,74,61,COR,FR,Pedro Nunes
+37,4,02:46,74,61,CER,ER,D Nunes
+38,4,02:46,74,61,CER,FC_A,D Nunes
+39,4,02:47,74,61,CER,FR,D Nunes
+40,4,02:47,74,61,COR,FC,Fischer
+41,4,03:01,74,61,CER,tempo_tecnico,Cerrado Basquete
+42,4,03:03,74,61,COR,3_Pts_C,Fischer
+43,4,03:11,71,61,COR,FR,Fischer
+44,4,03:11,71,61,CER,FC,Crescenzi
+45,4,03:11,71,61,COR,RD,Renato
+46,4,03:14,71,61,COR,TO,Renato
+47,4,03:14,71,61,CER,2_Pts_T,Wiggins
+48,4,03:28,71,61,CER,FR,Crescenzi
+49,4,03:28,71,61,COR,FC,Renato
+50,4,03:35,71,61,CER,FR,Crescenzi
+51,4,03:35,71,61,COR,FC,Pedro Nunes
+52,4,03:43,71,61,COR,LL_Pts_C,Fischer
+53,4,03:43,70,61,COR,LL_Pts_C,Fischer
+54,4,03:43,69,61,COR,LL_Pts_C,Fischer
+55,4,03:43,68,61,COR,substituicao_entra,Renato
+56,4,03:43,68,61,COR,substituicao_sai,L Cauê
+57,4,03:43,68,61,COR,FR,Fischer
+58,4,03:43,68,61,CER,FC,Lucas Lima
+59,4,03:54,68,61,COR,RD,Miller
+60,4,03:58,68,61,CER,2_Pts_T,D Nunes
+61,4,04:20,68,61,COR,AS,Miller
+62,4,04:20,68,61,COR,EN,L Cauê
+63,4,04:28,66,61,COR,RD,L Cauê
+64,4,04:32,66,61,CER,3_Pts_T,Wiggins
+65,4,04:34,66,61,CER,RD,Von Haydin
+66,4,04:38,66,61,COR,3_Pts_T,Miller
+67,4,05:05,66,61,COR,substituicao_entra,Fischer
+68,4,05:05,66,61,COR,substituicao_sai,Djalo
+69,4,05:25,66,61,COR,tempo_tecnico,Corinthians
+70,4,05:25,66,61,CER,AS,Crescenzi
+71,4,05:25,66,61,CER,2_Pts_C,Wiggins
+72,4,05:28,66,59,CER,BR,Von Haydin
+73,4,05:28,66,59,COR,ER,Fuller
+74,4,05:49,66,59,COR,FR,Pedro Nunes
+75,4,05:49,66,59,CER,FC,Von Haydin
+76,4,06:00,66,59,CER,3_Pts_C,Crescenzi
+77,4,06:06,66,56,CER,RO,Wiggins
+78,4,06:34,66,56,CER,3_Pts_T,D Nunes
+79,4,06:36,66,56,CER,substituicao_entra,Von Haydin
+80,4,06:36,66,56,CER,substituicao_sai,Alex
+81,4,06:36,66,56,CER,tempo_tecnico,Cerrado Basquete
+82,4,06:37,66,56,COR,3_Pts_C,Pedro Nunes
+83,4,07:02,63,56,CER,2_Pts_C,Lucas Lima
+84,4,07:04,63,54,CER,RO,Lucas Lima
+85,4,07:08,63,54,CER,2_Pts_T,Wiggins
+86,4,07:24,63,54,COR,AS,Miller
+87,4,07:24,63,54,COR,3_Pts_C,Djalo
+88,4,07:43,60,54,CER,2_Pts_C,Lucas Lima
+89,4,07:56,60,52,COR,ER,Djalo
+90,4,07:56,60,52,COR,RD,Djalo
+91,4,07:56,60,52,CER,2_Pts_T,Crescenzi
+92,4,08:01,60,52,CER,RO,Alex
+93,4,08:05,60,52,CER,2_Pts_T,Crescenzi
+94,4,08:25,60,52,COR,2_Pts_C,Pedro Nunes
+95,4,08:32,58,52,CER,ER,
+96,4,08:32,58,52,CER,3_Pts_T,Wiggins
+97,4,09:02,58,52,COR,AS,Fuller
+98,4,09:02,58,52,COR,3_Pts_C,Miller
+99,4,09:23,55,52,CER,AS,Lucas Lima
+100,4,09:23,55,52,CER,2_Pts_C,D Nunes
+101,4,09:44,55,50,COR,AS,Miller
+102,4,09:44,55,50,COR,3_Pts_C,Fuller
+103,4,10:00,52,50,,inicio_quarto,
+104,3,00:00,52,50,,fim_quarto,
+105,3,00:02,52,50,COR,AS,Pedro Nunes
+106,3,00:02,52,50,COR,3_Pts_C,Miller
+107,3,00:03,49,50,CER,substituicao_entra,Ambrosino
+108,3,00:03,49,50,CER,substituicao_sai,D Nunes
+109,3,00:03,49,50,COR,FR,Arthur
+110,3,00:03,49,50,CER,FC,D Nunes
+111,3,00:04,49,50,COR,LL_Pts_T,Pedro Nunes
+112,3,00:04,49,50,COR,LL_Pts_C,Pedro Nunes
+113,3,00:04,48,50,COR,FR,Pedro Nunes
+114,3,00:04,48,50,CER,FC_A,Alex
+115,3,00:04,48,50,COR,RD,Pedro Nunes
+116,3,00:06,48,50,CER,2_Pts_T,Crescenzi
+117,3,00:28,48,50,CER,BR,Crescenzi
+118,3,00:28,48,50,COR,ER,Miller
+119,3,00:46,48,50,CER,LL_Pts_C,D Nunes
+120,3,00:46,48,49,CER,LL_Pts_C,D Nunes
+121,3,00:46,48,48,CER,substituicao_entra,Alex
+122,3,00:46,48,48,CER,substituicao_entra,Luis
+123,3,00:46,48,48,CER,substituicao_sai,Von Haydin
+124,3,00:46,48,48,CER,substituicao_sai,Sérgio
+125,3,00:46,48,48,CER,FR,D Nunes
+126,3,00:46,48,48,COR,FC,Arthur
+127,3,01:07,48,48,COR,2_Pts_C,Miller
+128,3,01:31,46,48,COR,BR,Fuller
+129,3,01:31,46,48,CER,ER,Von Haydin
+130,3,01:32,46,48,CER,RD,Von Haydin
+131,3,01:37,46,48,COR,3_Pts_T,Miller
+132,3,01:40,46,48,COR,RD,Fuller
+133,3,01:44,46,48,CER,2_Pts_T,Crescenzi
+134,3,01:57,46,48,COR,2_Pts_C,Miller
+135,3,02:21,44,48,COR,substituicao_entra,Miller
+136,3,02:21,44,48,COR,substituicao_sai,Fischer
+137,3,02:21,44,48,COR,RD,Corinthians
+138,3,02:22,44,48,CER,2_Pts_T,Von Haydin
+139,3,02:30,44,48,CER,RD,Lucas Lima
+140,3,02:33,44,48,COR,2_Pts_T,L Cauê
+141,3,02:56,44,48,COR,RD,L Cauê
+142,3,03:01,44,48,CER,3_Pts_T,Crescenzi
+143,3,03:05,44,48,COR,2_Pts_C,L Cauê
+144,3,03:05,42,48,COR,RO,L Cauê
+145,3,03:10,42,48,COR,3_Pts_T,Fuller
+146,3,03:27,42,48,CER,AS,Crescenzi
+147,3,03:27,42,48,CER,2_Pts_C,Von Haydin
+148,3,03:30,42,46,CER,FR,D Nunes
+149,3,03:30,42,46,COR,FC,L Cauê
+150,3,03:42,42,46,CER,RD,Lucas Lima
+151,3,03:47,42,46,COR,3_Pts_T,Arthur
+152,3,04:08,42,46,CER,LL_Pts_C,Crescenzi
+153,3,04:08,42,45,CER,LL_Pts_C,Crescenzi
+154,3,04:08,42,44,CER,substituicao_entra,Von Haydin
+155,3,04:08,42,44,CER,substituicao_sai,Wiggins
+156,3,04:08,42,44,CER,FR,Crescenzi
+157,3,04:08,42,44,COR,FC,Fischer
+158,3,04:15,42,44,CER,RD,D Nunes
+159,3,04:18,42,44,COR,3_Pts_T,Pedro Nunes
+160,3,04:27,42,44,COR,BR,Fischer
+161,3,04:27,42,44,CER,ER,Wiggins
+162,3,04:50,42,44,COR,LL_Pts_C,Fuller
+163,3,04:50,41,44,COR,FR,Fuller
+164,3,04:50,41,44,CER,FC,Sérgio
+165,3,04:51,41,44,COR,2_Pts_C,Fuller
+166,3,04:53,39,44,COR,substituicao_entra,L Cauê
+167,3,04:53,39,44,COR,substituicao_sai,Renato
+168,3,05:12,39,44,CER,ER,Lucas Lima
+169,3,05:12,39,44,CER,RD,Lucas Lima
+170,3,05:16,39,44,COR,2_Pts_T,Renato
+171,3,05:29,39,44,CER,2_Pts_C,Sérgio
+172,3,05:31,39,42,CER,RO,Sérgio
+173,3,05:35,39,42,CER,2_Pts_T,Wiggins
+174,3,05:48,39,42,CER,FR,Wiggins
+175,3,05:48,39,42,COR,FC,Pedro Nunes
+176,3,05:52,39,42,CER,BR,Wiggins
+177,3,05:52,39,42,COR,ER,Arthur
+178,3,06:10,39,42,CER,ER,D Nunes
+179,3,06:19,39,42,CER,FR,Sérgio
+180,3,06:19,39,42,COR,FC,Renato
+181,3,06:19,39,42,CER,RD,Sérgio
+182,3,06:19,39,42,COR,2_Pts_T,Fischer
+183,3,06:39,39,42,COR,RD,Corinthians
+184,3,06:39,39,42,CER,2_Pts_T,Lucas Lima
+185,3,06:59,39,42,CER,RD,D Nunes
+186,3,07:04,39,42,COR,2_Pts_T,Arthur
+187,3,07:15,39,42,COR,substituicao_entra,Pedro Nunes
+188,3,07:15,39,42,COR,substituicao_sai,Miller
+189,3,07:18,39,42,CER,AS,Crescenzi
+190,3,07:18,39,42,CER,EN,Sérgio
+191,3,07:39,39,40,COR,AS,Arthur
+192,3,07:39,39,40,COR,3_Pts_C,Fuller
+193,3,07:58,36,40,CER,AS,D Nunes
+194,3,07:58,36,40,CER,3_Pts_C,Wiggins
+195,3,08:09,36,37,COR,2_Pts_C,Renato
+196,3,08:25,34,37,COR,RD,Miller
+197,3,08:29,34,37,COR,TO,Miller
+198,3,08:29,34,37,CER,3_Pts_T,Crescenzi
+199,3,08:40,34,37,CER,RO,Crescenzi
+200,3,08:43,34,37,CER,2_Pts_T,Crescenzi
+201,3,09:04,34,37,CER,BR,Crescenzi
+202,3,09:04,34,37,COR,ER,Renato
+203,3,09:17,34,37,COR,FR,Renato
+204,3,09:17,34,37,CER,FC,Sérgio
+205,3,09:20,34,37,COR,BR,Arthur
+206,3,09:20,34,37,CER,ER,D Nunes
+207,3,09:25,34,37,CER,RD,Cerrado Basquete
+208,3,09:25,34,37,COR,3_Pts_T,Fuller
+209,3,09:37,34,37,CER,ER,Wiggins
+210,3,09:45,34,37,COR,AS,Fischer
+211,3,09:45,34,37,COR,3_Pts_C,Renato
+212,3,10:00,31,37,,inicio_quarto,
+213,2,00:00,31,37,,fim_quarto,
+214,2,00:04,31,37,COR,3_Pts_C,Fischer
+215,2,00:04,28,37,COR,BR,Fischer
+216,2,00:04,28,37,CER,ER,Alex
+217,2,00:04,28,37,CER,BR,Alex
+218,2,00:04,28,37,COR,ER,Fischer
+219,2,00:07,28,37,CER,LL_Pts_C,Wiggins
+220,2,00:07,28,36,CER,LL_Pts_C,Wiggins
+221,2,00:07,28,35,CER,substituicao_entra,Alex
+222,2,00:07,28,35,CER,substituicao_entra,Luis
+223,2,00:07,28,35,CER,substituicao_sai,D Nunes
+224,2,00:07,28,35,CER,substituicao_sai,Crescenzi
+225,2,00:07,28,35,CER,FR,Wiggins
+226,2,00:07,28,35,COR,FC,Fischer
+227,2,00:25,28,35,COR,AS,Fischer
+228,2,00:25,28,35,COR,3_Pts_C,Fuller
+229,2,00:35,25,35,CER,AS,Lucas Lima
+230,2,00:35,25,35,CER,2_Pts_C,Wiggins
+231,2,00:43,25,33,CER,tempo_tecnico,Cerrado Basquete
+232,2,01:02,25,33,COR,AS,Miller
+233,2,01:02,25,33,COR,2_Pts_C,Fuller
+234,2,01:03,23,33,COR,RD,Miller
+235,2,01:07,23,33,CER,2_Pts_T,D Nunes
+236,2,01:17,23,33,CER,RD,Wiggins
+237,2,01:22,23,33,COR,3_Pts_T,Miller
+238,2,01:23,23,33,COR,RO,Renato
+239,2,01:29,23,33,COR,2_Pts_T,Renato
+240,2,01:30,23,33,COR,RO,Renato
+241,2,01:34,23,33,COR,2_Pts_T,Renato
+242,2,01:47,23,33,COR,tempo_tecnico,Corinthians
+243,2,01:53,23,33,CER,AS,D Nunes
+244,2,01:53,23,33,CER,2_Pts_C,Sérgio
+245,2,02:13,23,31,CER,RD,D Nunes
+246,2,02:18,23,31,COR,3_Pts_T,Fischer
+247,2,02:32,23,31,COR,RD,Corinthians
+248,2,02:32,23,31,CER,2_Pts_T,Lucas Lima
+249,2,02:32,23,31,CER,RO,Lucas Lima
+250,2,02:34,23,31,CER,2_Pts_T,Lucas Lima
+251,2,02:56,23,31,CER,BR,Lucas Lima
+252,2,02:56,23,31,COR,ER,Miller
+253,2,03:06,23,31,COR,BR,Renato
+254,2,03:06,23,31,CER,ER,D Nunes
+255,2,03:31,23,31,CER,RD,Lucas Lima
+256,2,03:35,23,31,COR,3_Pts_T,Arthur
+257,2,03:51,23,31,CER,2_Pts_C,Crescenzi
+258,2,03:52,23,29,CER,RO,Crescenzi
+259,2,03:52,23,29,CER,LL_Pts_T,Sérgio
+260,2,03:52,23,29,COR,substituicao_entra,Arthur
+261,2,03:52,23,29,COR,substituicao_sai,Djalo
+262,2,03:52,23,29,CER,FR,Sérgio
+263,2,03:52,23,29,COR,FC,Djalo
+264,2,03:52,23,29,CER,2_Pts_C,Sérgio
+265,2,03:52,23,27,CER,RO,Sérgio
+266,2,03:52,23,27,CER,2_Pts_T,D Nunes
+267,2,04:13,23,27,COR,LL_Pts_C,Renato
+268,2,04:13,22,27,COR,AS,Fischer
+269,2,04:13,22,27,COR,LL_Pts_C,Renato
+270,2,04:13,21,27,COR,FR,Renato
+271,2,04:13,21,27,CER,FC,D Nunes
+272,2,04:25,21,27,COR,tempo_tecnico,Corinthians
+273,2,04:25,21,27,CER,AS,Crescenzi
+274,2,04:25,21,27,CER,2_Pts_C,Wiggins
+275,2,04:25,21,25,CER,BR,Lucas Lima
+276,2,04:25,21,25,COR,ER,Fischer
+277,2,04:26,21,25,COR,RD,Djalo
+278,2,04:30,21,25,CER,2_Pts_T,Crescenzi
+279,2,04:42,21,25,CER,RO,Cerrado Basquete
+280,2,04:44,21,25,CER,3_Pts_T,D Nunes
+281,2,04:59,21,25,CER,substituicao_entra,Sérgio
+282,2,04:59,21,25,CER,substituicao_sai,Alex
+283,2,04:59,21,25,COR,substituicao_entra,Renato
+284,2,04:59,21,25,COR,substituicao_entra,Fuller
+285,2,04:59,21,25,COR,substituicao_sai,Pedro Nunes
+286,2,04:59,21,25,COR,substituicao_sai,L Cauê
+287,2,04:59,21,25,CER,FR,D Nunes
+288,2,04:59,21,25,COR,FC,Miller
+289,2,05:10,21,25,CER,RD,Alex
+290,2,05:13,21,25,COR,3_Pts_T,Fischer
+291,2,05:38,21,25,CER,LL_Pts_C,D Nunes
+292,2,05:38,21,24,CER,FR,D Nunes
+293,2,05:38,21,24,COR,FC,Djalo
+294,2,05:38,21,24,CER,2_Pts_C,D Nunes
+295,2,05:50,21,22,CER,RD,Cerrado Basquete
+296,2,05:50,21,22,COR,3_Pts_T,Pedro Nunes
+297,2,06:05,21,22,CER,substituicao_entra,D Nunes
+298,2,06:05,21,22,CER,substituicao_entra,Wiggins
+299,2,06:05,21,22,CER,substituicao_entra,Lucas Lima
+300,2,06:05,21,22,CER,substituicao_sai,Ambrosino
+301,2,06:05,21,22,CER,substituicao_sai,Von Haydin
+302,2,06:05,21,22,CER,substituicao_sai,Luis
+303,2,06:05,21,22,COR,substituicao_entra,Miller
+304,2,06:05,21,22,COR,substituicao_sai,Vezarinho
+305,2,06:05,21,22,COR,FR,Fischer
+306,2,06:05,21,22,CER,FC,Von Haydin
+307,2,06:20,21,22,CER,2_Pts_C,Von Haydin
+308,2,06:42,21,20,COR,AS,Vezarinho
+309,2,06:42,21,20,COR,3_Pts_C,Fischer
+310,2,06:43,18,20,COR,RO,Djalo
+311,2,06:47,18,20,COR,2_Pts_T,Fischer
+312,2,07:03,18,20,CER,AS,Crescenzi
+313,2,07:03,18,20,CER,EN,Alex
+314,2,07:06,18,18,CER,RD,Alex
+315,2,07:10,18,18,COR,2_Pts_T,Fischer
+316,2,07:27,18,18,COR,RD,Fischer
+317,2,07:33,18,18,CER,2_Pts_T,Ambrosino
+318,2,07:56,18,18,CER,tempo_tecnico,Cerrado Basquete
+319,2,07:56,18,18,COR,AS,Fischer
+320,2,07:56,18,18,COR,2_Pts_C,Pedro Nunes
+321,2,08:01,16,18,COR,BR,Fischer
+322,2,08:01,16,18,CER,ER,Luis
+323,2,08:08,16,18,COR,LL_Pts_C,Pedro Nunes
+324,2,08:08,15,18,COR,substituicao_entra,Djalo
+325,2,08:08,15,18,COR,substituicao_sai,Arthur
+326,2,08:08,15,18,COR,FR,Pedro Nunes
+327,2,08:08,15,18,CER,FC,Von Haydin
+328,2,08:08,15,18,COR,AS,Vezarinho
+329,2,08:08,15,18,COR,2_Pts_C,Pedro Nunes
+330,2,08:08,13,18,COR,RD,Vezarinho
+331,2,08:11,13,18,CER,3_Pts_T,Alex
+332,2,08:29,13,18,CER,RD,Ambrosino
+333,2,08:29,13,18,COR,3_Pts_T,Pedro Nunes
+334,2,08:38,13,18,COR,RD,L Cauê
+335,2,08:42,13,18,CER,2_Pts_T,Crescenzi
+336,2,08:56,13,18,COR,2_Pts_C,Pedro Nunes
+337,2,08:56,11,18,COR,RO,Pedro Nunes
+338,2,09:05,11,18,COR,2_Pts_T,Arthur
+339,2,09:06,11,18,COR,RO,Arthur
+340,2,09:16,11,18,COR,2_Pts_T,Arthur
+341,2,09:36,11,18,CER,2_Pts_C,Crescenzi
+342,2,09:45,11,16,CER,BR,Crescenzi
+343,2,09:45,11,16,COR,ER,Vezarinho
+344,2,10:00,11,16,,inicio_quarto,
+345,1,00:00,11,16,,fim_quarto,
+346,1,00:04,11,16,COR,substituicao_entra,Vezarinho
+347,1,00:04,11,16,COR,substituicao_entra,Fischer
+348,1,00:04,11,16,COR,substituicao_sai,Arthur
+349,1,00:04,11,16,COR,substituicao_sai,Miller
+350,1,00:04,11,16,COR,RD,Corinthians
+351,1,00:04,11,16,CER,3_Pts_T,Von Haydin
+352,1,00:04,11,16,CER,RD,Alex
+353,1,00:05,11,16,COR,2_Pts_T,Fuller
+354,1,00:26,11,16,CER,2_Pts_C,Lucas Lima
+355,1,00:48,11,14,CER,RD,D Nunes
+356,1,00:52,11,14,COR,2_Pts_T,Arthur
+357,1,01:14,11,14,CER,2_Pts_C,Wiggins
+358,1,01:21,11,12,CER,BR,Lucas Lima
+359,1,01:21,11,12,COR,ER,Pedro Nunes
+360,1,01:39,11,12,CER,2_Pts_C,D Nunes
+361,1,01:52,11,10,CER,RD,Alex
+362,1,01:58,11,10,COR,2_Pts_T,L Cauê
+363,1,02:18,11,10,CER,ER,Von Haydin
+364,1,02:26,11,10,CER,RO,Cerrado Basquete
+365,1,02:26,11,10,CER,2_Pts_T,Alex
+366,1,02:37,11,10,CER,RD,Alex
+367,1,02:42,11,10,COR,2_Pts_T,Miller
+368,1,02:50,11,10,COR,RO,Corinthians
+369,1,02:50,11,10,COR,2_Pts_T,Arthur
+370,1,03:08,11,10,CER,ER,
+371,1,03:27,11,10,CER,substituicao_entra,Von Haydin
+372,1,03:27,11,10,CER,substituicao_entra,Alex
+373,1,03:27,11,10,CER,substituicao_sai,Crescenzi
+374,1,03:27,11,10,CER,substituicao_sai,Sérgio
+375,1,03:27,11,10,COR,substituicao_entra,Pedro Nunes
+376,1,03:27,11,10,COR,substituicao_entra,L Cauê
+377,1,03:27,11,10,COR,substituicao_sai,Renato
+378,1,03:27,11,10,COR,substituicao_sai,Fischer
+379,1,03:27,11,10,CER,FR,D Nunes
+380,1,03:27,11,10,COR,FC,Arthur
+381,1,03:38,11,10,CER,RD,Lucas Lima
+382,1,03:43,11,10,COR,2_Pts_T,Miller
+383,1,03:48,11,10,COR,RD,Miller
+384,1,03:51,11,10,CER,3_Pts_T,Crescenzi
+385,1,03:58,11,10,CER,RD,Lucas Lima
+386,1,04:02,11,10,COR,2_Pts_T,Renato
+387,1,04:23,11,10,COR,RD,Corinthians
+388,1,04:24,11,10,CER,3_Pts_T,Crescenzi
+389,1,04:33,11,10,CER,BR,Wiggins
+390,1,04:33,11,10,COR,ER,Fischer
+391,1,04:48,11,10,CER,3_Pts_C,Wiggins
+392,1,05:04,11,7,CER,FR,Lucas Lima
+393,1,05:04,11,7,COR,ER,Renato
+394,1,05:04,11,7,COR,FC_O,Renato
+395,1,05:11,11,7,CER,AS,Lucas Lima
+396,1,05:11,11,7,CER,2_Pts_C,Sérgio
+397,1,05:36,11,5,COR,AS,Fischer
+398,1,05:36,11,5,COR,3_Pts_C,Renato
+399,1,05:43,8,5,COR,RD,Miller
+400,1,05:44,8,5,CER,2_Pts_T,Sérgio
+401,1,05:44,8,5,CER,RO,Sérgio
+402,1,05:50,8,5,CER,2_Pts_T,Wiggins
+403,1,05:56,8,5,CER,RD,Sérgio
+404,1,06:01,8,5,COR,2_Pts_T,Fuller
+405,1,06:12,8,5,COR,RD,Arthur
+406,1,06:15,8,5,CER,2_Pts_T,Crescenzi
+407,1,06:44,8,5,COR,AS,Fischer
+408,1,06:44,8,5,COR,3_Pts_C,Arthur
+409,1,07:03,5,5,COR,RD,Arthur
+410,1,07:08,5,5,CER,3_Pts_T,Lucas Lima
+411,1,07:21,5,5,CER,RO,Cerrado Basquete
+412,1,07:21,5,5,CER,2_Pts_T,Wiggins
+413,1,07:33,5,5,COR,2_Pts_C,Miller
+414,1,07:35,3,5,COR,RD,Miller
+415,1,07:40,3,5,CER,2_Pts_T,Crescenzi
+416,1,07:55,3,5,CER,BR,Lucas Lima
+417,1,07:55,3,5,COR,ER,Fischer
+418,1,08:12,3,5,COR,FR,Miller
+419,1,08:12,3,5,CER,FC,Crescenzi
+420,1,08:12,3,5,COR,RD,Miller
+421,1,08:12,3,5,CER,3_Pts_T,D Nunes
+422,1,08:25,3,5,CER,FR,Crescenzi
+423,1,08:25,3,5,COR,FC,Fuller
+424,1,08:28,3,5,CER,RD,Wiggins
+425,1,08:31,3,5,COR,3_Pts_T,Fuller
+426,1,08:53,3,5,CER,3_Pts_C,Crescenzi
+427,1,09:15,3,2,COR,AS,Miller
+428,1,09:15,3,2,COR,3_Pts_C,Arthur
+429,1,09:42,0,2,CER,2_Pts_C,Lucas Lima
+430,1,10:00,0,0,CER,substituicao_entra,D Nunes
+431,1,10:00,0,0,CER,substituicao_entra,Wiggins
+432,1,10:00,0,0,CER,substituicao_entra,Crescenzi
+433,1,10:00,0,0,CER,substituicao_entra,Lucas Lima
+434,1,10:00,0,0,CER,substituicao_entra,Sérgio
+435,1,10:00,0,0,COR,substituicao_entra,Arthur
+436,1,10:00,0,0,COR,substituicao_entra,Miller
+437,1,10:00,0,0,COR,substituicao_entra,Renato
+438,1,10:00,0,0,COR,substituicao_entra,Fuller
+439,1,10:00,0,0,COR,substituicao_entra,Fischer
+440,1,10:00,0,0,,inicio_partida,

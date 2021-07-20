@@ -1,0 +1,604 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,89,90, ,fim_partida,
+1,4,00:01,89,90,BAU,RD,Alex Garcia
+2,4,00:01,89,90,BAU,TO,Alex Garcia
+3,4,00:01,89,90,CAP,2_Pts_T,Dawkins
+4,4,00:01,89,90,BAU,substituicao_entra,Gui Deodato
+5,4,00:01,89,90,BAU,substituicao_sai,Hettsheimeir
+6,4,00:01,89,90,CAP,tempo_tecnico,Paulistano
+7,4,00:01,89,90,CAP,substituicao_entra,Dawkins
+8,4,00:01,89,90,CAP,substituicao_entra,Holloway
+9,4,00:01,89,90,CAP,substituicao_sai,Renato C
+10,4,00:01,89,90,CAP,substituicao_sai,Gemerson
+11,4,00:01,89,90,CAP,tempo_tecnico,Paulistano
+12,4,00:01,89,90,BAU,2_Pts_C,Alex Garcia
+13,4,00:08,89,88,BAU,RO,Bauru
+14,4,00:08,89,88,BAU,3_Pts_T,Larry
+15,4,00:21,89,88,BAU,substituicao_entra,Hettsheimeir
+16,4,00:21,89,88,BAU,substituicao_sai,R Fischer
+17,4,00:21,89,88,CAP,substituicao_entra,César
+18,4,00:21,89,88,CAP,substituicao_sai,Dawkins
+19,4,00:21,89,88,CAP,substituicao_sai,Holloway
+20,4,00:21,89,88,CAP,substituicao_entra,Gemerson
+21,4,00:21,89,88,CAP,AS,Pilar
+22,4,00:21,89,88,BAU,tempo_tecnico,Bauru
+23,4,00:21,89,88,CAP,2_Pts_C,Dawkins
+24,4,00:26,87,88,CAP,BR,Pilar
+25,4,00:26,87,88,BAU,ER,Larry
+26,4,00:45,87,88,CAP,substituicao_sai,César
+27,4,00:45,87,88,CAP,substituicao_entra,Renato C
+28,4,00:45,87,88,CAP,LL_Pts_C,Pilar
+29,4,00:45,86,88,CAP,LL_Pts_C,Pilar
+30,4,00:45,85,88,CAP,FR,Pilar
+31,4,00:45,85,88,BAU,FC,R Fischer
+32,4,00:51,85,88,CAP,BR,César
+33,4,00:51,85,88,BAU,ER,Jefferson W
+34,4,01:11,85,88,BAU,RD,Alex Garcia
+35,4,01:11,85,88,CAP,3_Pts_T,Pedro
+36,4,01:22,85,88,BAU,substituicao_entra,Jefferson W
+37,4,01:22,85,88,BAU,substituicao_sai,Hettsheimeir
+38,4,01:22,85,88,BAU,LL_Pts_C,Hettsheimeir
+39,4,01:22,85,87,BAU,LL_Pts_C,Hettsheimeir
+40,4,01:22,85,86,BAU,FR,Robert Day
+41,4,01:22,85,86,CAP,FC,César
+42,4,01:31,85,86,CAP,3_Pts_C,César
+43,4,01:31,82,86,CAP,AS,Pedro
+44,4,01:48,82,86,BAU,LL_Pts_C,Larry
+45,4,01:48,82,85,BAU,LL_Pts_C,Larry
+46,4,01:48,82,84,BAU,substituicao_entra,R Fischer
+47,4,01:48,82,84,BAU,substituicao_sai,Jefferson W
+48,4,01:48,82,84,CAP,substituicao_sai,Jeff Agba
+49,4,01:48,82,84,CAP,substituicao_entra,Pilar
+50,4,01:48,82,84,BAU,FR,Larry
+51,4,01:48,82,84,CAP,FC,Jeff Agba
+52,4,01:56,82,84,CAP,substituicao_sai,Pilar
+53,4,01:56,82,84,CAP,substituicao_entra,Jeff Agba
+54,4,02:01,82,84,CAP,2_Pts_C,Dawkins
+55,4,02:11,80,84,CAP,substituicao_sai,Jeff Agba
+56,4,02:11,80,84,CAP,substituicao_entra,Pedro
+57,4,02:17,80,84,CAP,RD,Paulistano
+58,4,02:17,80,84,BAU,3_Pts_T,Jefferson W
+59,4,02:40,80,84,BAU,RD,Alex Garcia
+60,4,02:40,80,84,CAP,2_Pts_T,Pilar
+61,4,02:44,80,84,CAP,FR,Pilar
+62,4,02:44,80,84,BAU,FC,Robert Day
+63,4,02:47,80,84,CAP,RO,Paulistano
+64,4,02:47,80,84,BAU,TO,Jefferson W
+65,4,02:47,80,84,CAP,2_Pts_T,Dawkins
+66,4,02:54,80,84,BAU,2_Pts_C,Larry
+67,4,02:59,80,82,BAU,RD,Alex Garcia
+68,4,02:59,80,82,CAP,2_Pts_T,César
+69,4,03:15,80,82,CAP,tempo_tecnico,Paulistano
+70,4,03:15,80,82,BAU,3_Pts_C,Jefferson W
+71,4,03:15,80,79,BAU,AS,Alex Garcia
+72,4,03:24,80,79,BAU,RD,Larry
+73,4,03:24,80,79,CAP,3_Pts_T,César
+74,4,03:31,80,79,CAP,RO,Jeff Agba
+75,4,03:31,80,79,CAP,3_Pts_T,Jeff Agba
+76,4,03:47,80,79,BAU,LL_Pts_C,Jefferson W
+77,4,03:47,80,78,BAU,LL_Pts_C,Jefferson W
+78,4,03:47,80,77,BAU,FR,Jefferson W
+79,4,03:47,80,77,CAP,substituicao_sai,Pedro
+80,4,03:47,80,77,CAP,substituicao_entra,Jeff Agba
+81,4,03:47,80,77,CAP,substituicao_entra,César
+82,4,03:47,80,77,CAP,substituicao_sai,Renato C
+83,4,03:47,80,77,CAP,substituicao_sai,Arthur Pecos
+84,4,03:47,80,77,CAP,substituicao_entra,Dawkins
+85,4,03:47,80,77,BAU,FR,Jefferson W
+86,4,03:47,80,77,CAP,FC,Pilar
+87,4,03:47,80,77,CAP,2_Pts_T,Holloway
+88,4,03:47,80,77,CAP,RO,Holloway
+89,4,03:47,80,77,CAP,2_Pts_T,Arthur Pecos
+90,4,03:50,80,77,CAP,RO,Arthur Pecos
+91,4,03:50,80,77,CAP,2_Pts_T,Renato C
+92,4,04:12,80,77,BAU,LL_Pts_C,Larry
+93,4,04:12,80,76,BAU,LL_Pts_C,Larry
+94,4,04:12,80,75,BAU,FR,Larry
+95,4,04:12,80,75,CAP,FC,Arthur Pecos
+96,4,04:22,80,75,BAU,tempo_tecnico,Bauru
+97,4,04:22,80,75,CAP,2_Pts_C,Pilar
+98,4,04:40,78,75,CAP,substituicao_entra,Arthur Pecos
+99,4,04:40,78,75,CAP,substituicao_entra,Pilar
+100,4,04:40,78,75,CAP,substituicao_sai,Jeff Agba
+101,4,04:40,78,75,CAP,substituicao_sai,Dawkins
+102,4,04:40,78,75,CAP,BR,Paulistano
+103,4,04:40,78,75,BAU,ER,Alex Garcia
+104,4,04:47,78,75,BAU,RD,Jefferson W
+105,4,04:47,78,75,CAP,2_Pts_T,Pedro
+106,4,05:07,78,75,CAP,RD,Renato C
+107,4,05:07,78,75,BAU,3_Pts_T,Robert Day
+108,4,05:21,78,75,BAU,RD,Larry
+109,4,05:21,78,75,CAP,2_Pts_T,Jeff Agba
+110,4,05:41,78,75,BAU,substituicao_entra,Larry
+111,4,05:41,78,75,BAU,substituicao_sai,R Fischer
+112,4,05:41,78,75,CAP,BR,Paulistano
+113,4,05:41,78,75,BAU,ER,Alex Garcia
+114,4,05:53,78,75,CAP,2_Pts_C,Dawkins
+115,4,05:53,76,75,CAP,AS,Jeff Agba
+116,4,05:58,76,75,CAP,BR,Jeff Agba
+117,4,05:58,76,75,BAU,ER,R Fischer
+118,4,06:08,76,75,CAP,2_Pts_C,Holloway
+119,4,06:26,74,75,BAU,3_Pts_C,Robert Day
+120,4,06:26,74,72,BAU,AS,Hettsheimeir
+121,4,06:41,74,72,CAP,2_Pts_C,Dawkins
+122,4,07:01,72,72,BAU,LL_Pts_C,Robert Day
+123,4,07:01,72,71,BAU,LL_Pts_C,Robert Day
+124,4,07:01,72,70,CAP,substituicao_entra,Pedro
+125,4,07:01,72,70,CAP,substituicao_sai,Pilar
+126,4,07:01,72,70,BAU,FR,Robert Day
+127,4,07:01,72,70,CAP,FC,Renato C
+128,4,07:05,72,70,BAU,RD,Robert Day
+129,4,07:05,72,70,CAP,3_Pts_T,Dawkins
+130,4,07:14,72,70,CAP,RD,Pilar
+131,4,07:14,72,70,BAU,3_Pts_T,Hettsheimeir
+132,4,07:33,72,70,CAP,2_Pts_C,Holloway
+133,4,07:33,70,70,CAP,AS,Renato C
+134,4,07:52,70,70,BAU,substituicao_entra,Hettsheimeir
+135,4,07:52,70,70,BAU,substituicao_sai,Mathias
+136,4,07:52,70,70,CAP,LL_Pts_C,Dawkins
+137,4,07:52,69,70,CAP,LL_Pts_C,Dawkins
+138,4,07:52,68,70,CAP,FR,Dawkins
+139,4,07:52,68,70,BAU,FC_A,Robert Day
+140,4,07:56,68,70,CAP,RD,Dawkins
+141,4,07:56,68,70,BAU,3_Pts_T,Robert Day
+142,4,08:01,68,70,BAU,FR,Robert Day
+143,4,08:01,68,70,CAP,FC,Renato C
+144,4,08:08,68,70,BAU,FR,R Fischer
+145,4,08:08,68,70,CAP,FC,Dawkins
+146,4,08:13,68,70,CAP,substituicao_entra,Holloway
+147,4,08:13,68,70,CAP,substituicao_sai,Pedro
+148,4,08:13,68,70,CAP,LL_Pts_C,Pedro
+149,4,08:13,67,70,CAP,LL_Pts_C,Pedro
+150,4,08:13,66,70,CAP,substituicao_entra,Jeff Agba
+151,4,08:13,66,70,CAP,substituicao_sai,César
+152,4,08:13,66,70,CAP,FR,Pedro
+153,4,08:13,66,70,BAU,FC,Mathias
+154,4,08:18,66,70,CAP,BR,Pedro
+155,4,08:18,66,70,BAU,ER,R Fischer
+156,4,08:27,66,70,BAU,BR,Jefferson W
+157,4,08:27,66,70,CAP,ER,Dawkins
+158,4,08:39,66,70,CAP,RD,Renato C
+159,4,08:39,66,70,BAU,3_Pts_T,Jefferson W
+160,4,08:46,66,70,BAU,FR,Jefferson W
+161,4,08:46,66,70,CAP,FC,Dawkins
+162,4,08:49,66,70,BAU,RD,Jefferson W
+163,4,08:49,66,70,CAP,3_Pts_T,Dawkins
+164,4,09:00,66,70,BAU,3_Pts_C,Robert Day
+165,4,09:00,66,67,BAU,AS,R Fischer
+166,4,09:04,66,67,BAU,RO,R Fischer
+167,4,09:04,66,67,BAU,3_Pts_T,Alex Garcia
+168,4,09:14,66,67,BAU,FR,Robert Day
+169,4,09:14,66,67,CAP,FC,César
+170,4,09:25,66,67,CAP,2_Pts_C,Dawkins
+171,4,09:38,64,67,CAP,RO,Renato C
+172,4,09:38,64,67,CAP,3_Pts_T,Pilar
+173,3,00:00,64,67, ,fim_quarto,
+174,3,00:01,64,67,CAP,RD,Renato C
+175,3,00:01,64,67,BAU,2_Pts_T,R Fischer
+176,3,00:16,64,67,BAU,substituicao_entra,Alex Garcia
+177,3,00:16,64,67,BAU,substituicao_sai,Mathias
+178,3,00:16,64,67,BAU,substituicao_entra,R Fischer
+179,3,00:16,64,67,BAU,substituicao_sai,Larry
+180,3,00:16,64,67,CAP,substituicao_entra,Gemerson
+181,3,00:16,64,67,CAP,substituicao_sai,Pedro
+182,3,00:16,64,67,CAP,substituicao_entra,Holloway
+183,3,00:16,64,67,CAP,substituicao_sai,Pilar
+184,3,00:19,64,67,CAP,2_Pts_C,Renato C
+185,3,00:22,62,67,CAP,RO,Renato C
+186,3,00:22,62,67,CAP,2_Pts_T,Pilar
+187,3,00:36,62,67,CAP,RO,Renato C
+188,3,00:36,62,67,CAP,3_Pts_T,Pedro
+189,3,00:41,62,67,CAP,RO,Renato C
+190,3,00:41,62,67,CAP,3_Pts_T,Renato C
+191,3,01:03,62,67,BAU,3_Pts_C,Robert Day
+192,3,01:03,62,64,BAU,AS,Gui Deodato
+193,3,01:13,62,64,BAU,RD,Mathias
+194,3,01:13,62,64,CAP,3_Pts_T,César
+195,3,01:23,62,64,BAU,2_Pts_C,Mathias
+196,3,01:30,62,62,BAU,FR,Mathias
+197,3,01:30,62,62,CAP,FC,Pedro
+198,3,01:32,62,62,BAU,3_Pts_T,Larry
+199,3,01:50,62,62,CAP,3_Pts_C,Pedro
+200,3,01:50,59,62,CAP,AS,Arthur Pecos
+201,3,02:06,59,62,CAP,substituicao_entra,César
+202,3,02:06,59,62,CAP,substituicao_sai,Jeff Agba
+203,3,02:06,59,62,CAP,LL_Pts_T,Pedro
+204,3,02:06,59,62,CAP,LL_Pts_T,Pedro
+205,3,02:06,59,62,CAP,FR,Pedro
+206,3,02:06,59,62,BAU,FC_A,Jefferson W
+207,3,02:12,59,62,BAU,3_Pts_C,Jefferson W
+208,3,02:12,59,59,BAU,AS,Larry
+209,3,02:18,59,59,BAU,RD,Mathias
+210,3,02:18,59,59,CAP,2_Pts_T,Pedro
+211,3,02:22,59,59,CAP,RO,Pedro
+212,3,02:22,59,59,CAP,3_Pts_T,Renato C
+213,3,02:44,59,59,BAU,2_Pts_C,Larry
+214,3,03:04,59,57,CAP,LL_Pts_C,Pedro
+215,3,03:04,58,57,CAP,LL_Pts_C,Pedro
+216,3,03:04,57,57,BAU,substituicao_sai,Alex Garcia
+217,3,03:04,57,57,BAU,substituicao_entra,Gui Deodato
+218,3,03:04,57,57,BAU,substituicao_entra,Jefferson W
+219,3,03:04,57,57,BAU,substituicao_sai,Murilo
+220,3,03:04,57,57,CAP,FR,Pedro
+221,3,03:04,57,57,BAU,FC,Alex Garcia
+222,3,03:08,57,57,CAP,BR,Jeff Agba
+223,3,03:08,57,57,BAU,ER,Alex Garcia
+224,3,03:21,57,57,CAP,substituicao_sai,César
+225,3,03:21,57,57,CAP,substituicao_entra,Renato C
+226,3,03:24,57,57,CAP,LL_Pts_C,César
+227,3,03:24,56,57,CAP,LL_Pts_C,César
+228,3,03:24,55,57,CAP,FR,César
+229,3,03:24,55,57,BAU,FC,Mathias
+230,3,03:25,55,57,CAP,substituicao_entra,Pilar
+231,3,03:25,55,57,CAP,substituicao_sai,Dawkins
+232,3,03:36,55,57,CAP,RD,Jeff Agba
+233,3,03:36,55,57,BAU,3_Pts_T,Larry
+234,3,04:03,55,57,CAP,2_Pts_C,Pedro
+235,3,04:08,53,57,CAP,BR,Pedro
+236,3,04:08,53,57,BAU,ER,Murilo
+237,3,04:21,53,57,BAU,RO,Mathias
+238,3,04:21,53,57,BAU,3_Pts_T,Alex Garcia
+239,3,04:29,53,57,BAU,substituicao_entra,Murilo
+240,3,04:29,53,57,BAU,substituicao_sai,Jefferson W
+241,3,04:29,53,57,BAU,FR,Larry
+242,3,04:29,53,57,CAP,FC,Dawkins
+243,3,04:33,53,57,BAU,RD,Alex Garcia
+244,3,04:33,53,57,CAP,2_Pts_T,Arthur Pecos
+245,3,04:49,53,57,BAU,2_Pts_C,Mathias
+246,3,04:49,53,55,BAU,AS,Alex Garcia
+247,3,05:08,53,55,CAP,substituicao_entra,Arthur Pecos
+248,3,05:08,53,55,CAP,substituicao_sai,Holloway
+249,3,05:08,53,55,CAP,LL_Pts_C,César
+250,3,05:08,52,55,CAP,LL_Pts_C,César
+251,3,05:08,51,55,BAU,substituicao_sai,R Fischer
+252,3,05:08,51,55,BAU,substituicao_entra,Robert Day
+253,3,05:08,51,55,CAP,FR,César
+254,3,05:08,51,55,BAU,FC,R Fischer
+255,3,05:24,51,55,BAU,LL_Pts_C,Alex Garcia
+256,3,05:24,51,54,CAP,substituicao_entra,Pedro
+257,3,05:24,51,54,CAP,substituicao_sai,Gemerson
+258,3,05:24,51,54,BAU,FR,Alex Garcia
+259,3,05:24,51,54,CAP,FC,Gemerson
+260,3,05:24,51,54,BAU,2_Pts_C,Alex Garcia
+261,3,05:39,51,52,BAU,RD,Mathias
+262,3,05:39,51,52,CAP,2_Pts_T,Dawkins
+263,3,05:44,51,52,CAP,LL_Pts_T,Dawkins
+264,3,05:44,51,52,BAU,substituicao_sai,Hettsheimeir
+265,3,05:44,51,52,BAU,substituicao_entra,Mathias
+266,3,05:44,51,52,BAU,FC_T,R Fischer
+267,3,05:44,51,52,CAP,FR,César
+268,3,05:44,51,52,BAU,FC,Hettsheimeir
+269,3,05:53,51,52,BAU,RD,Larry
+270,3,05:53,51,52,BAU,TO,Hettsheimeir
+271,3,05:53,51,52,CAP,2_Pts_T,Dawkins
+272,3,05:56,51,52,BAU,2_Pts_C,Hettsheimeir
+273,3,06:03,51,50,BAU,RO,Hettsheimeir
+274,3,06:03,51,50,BAU,2_Pts_T,R Fischer
+275,3,06:10,51,50,CAP,substituicao_entra,Gemerson
+276,3,06:10,51,50,CAP,substituicao_sai,Pilar
+277,3,06:12,51,50,BAU,RO,Hettsheimeir
+278,3,06:12,51,50,BAU,3_Pts_T,Jefferson W
+279,3,06:31,51,50,CAP,2_Pts_C,Pilar
+280,3,06:54,49,50,BAU,LL_Pts_C,Hettsheimeir
+281,3,06:54,49,49,BAU,LL_Pts_T,Hettsheimeir
+282,3,06:54,49,49,BAU,FR,Hettsheimeir
+283,3,06:54,49,49,CAP,FC,Holloway
+284,3,07:17,49,49,BAU,RD,Bauru
+285,3,07:17,49,49,CAP,3_Pts_T,Pilar
+286,3,07:38,49,49,CAP,BR,Paulistano
+287,3,07:38,49,49,BAU,ER,Alex Garcia
+288,3,07:46,49,49,BAU,RD,R Fischer
+289,3,07:46,49,49,CAP,3_Pts_T,César
+290,3,07:55,49,49,CAP,RD,Pilar
+291,3,07:55,49,49,BAU,2_Pts_T,Alex Garcia
+292,3,08:05,49,49,BAU,BR,R Fischer
+293,3,08:05,49,49,CAP,ER,Dawkins
+294,3,08:29,49,49,BAU,3_Pts_C,Hettsheimeir
+295,3,08:29,49,46,BAU,AS,R Fischer
+296,3,08:39,49,46,BAU,RD,Alex Garcia
+297,3,08:39,49,46,CAP,2_Pts_T,Holloway
+298,3,08:44,49,46,CAP,RD,Jeff Agba
+299,3,08:44,49,46,BAU,2_Pts_T,Jefferson W
+300,3,09:09,49,46,CAP,2_Pts_C,Pilar
+301,3,09:17,47,46,CAP,RD,Jeff Agba
+302,3,09:17,47,46,BAU,2_Pts_T,Hettsheimeir
+303,3,09:42,47,46,CAP,2_Pts_C,Holloway
+304,2,00:00,45,46, ,fim_quarto,
+305,2,00:00,45,46,CAP,FC,Arthur
+306,2,00:00,45,46,CAP,substituicao_sai,César
+307,2,00:00,45,46,CAP,substituicao_entra,Arthur
+308,2,00:02,45,46,BAU,3_Pts_T,R Fischer
+309,2,00:06,45,46,BAU,RD,R Fischer
+310,2,00:06,45,46,CAP,3_Pts_T,Dawkins
+311,2,00:19,45,46,CAP,RD,Arthur Pecos
+312,2,00:19,45,46,BAU,2_Pts_T,Alex Garcia
+313,2,00:30,45,46,BAU,RD,R Fischer
+314,2,00:30,45,46,CAP,3_Pts_T,Pilar
+315,2,00:38,45,46,BAU,LL_Pts_C,Jefferson W
+316,2,00:38,45,45,BAU,LL_Pts_C,Jefferson W
+317,2,00:38,45,44,CAP,substituicao_sai,Labbate
+318,2,00:38,45,44,CAP,substituicao_entra,César
+319,2,00:38,45,44,CAP,substituicao_sai,Renato C
+320,2,00:38,45,44,CAP,substituicao_entra,Pilar
+321,2,00:38,45,44,BAU,FR,Jefferson W
+322,2,00:38,45,44,CAP,FC,Arthur Pecos
+323,2,00:50,45,44,CAP,substituicao_sai,Pilar
+324,2,00:50,45,44,CAP,substituicao_entra,Renato C
+325,2,00:50,45,44,CAP,LL_Pts_C,Pilar
+326,2,00:50,44,44,CAP,LL_Pts_C,Pilar
+327,2,00:50,43,44,CAP,substituicao_sai,César
+328,2,00:50,43,44,CAP,substituicao_entra,Labbate
+329,2,00:50,43,44,CAP,FR,Pilar
+330,2,00:50,43,44,BAU,FC,Alex Garcia
+331,2,00:57,43,44,BAU,substituicao_entra,Larry
+332,2,00:57,43,44,BAU,substituicao_sai,Gui Deodato
+333,2,00:57,43,44,CAP,substituicao_sai,Pedro
+334,2,00:57,43,44,CAP,substituicao_entra,Holloway
+335,2,00:57,43,44,BAU,substituicao_entra,Alex Garcia
+336,2,00:57,43,44,BAU,substituicao_sai,Murilo
+337,2,00:57,43,44,CAP,substituicao_sai,Labbate
+338,2,00:57,43,44,CAP,substituicao_entra,César
+339,2,00:57,43,44,CAP,RO,Arthur Pecos
+340,2,00:57,43,44,BAU,TO,Jefferson W
+341,2,00:57,43,44,CAP,2_Pts_T,Pilar
+342,2,01:00,43,44,CAP,BR,Pilar
+343,2,01:00,43,44,BAU,ER,Jefferson W
+344,2,01:22,43,44,CAP,LL_Pts_C,Pilar
+345,2,01:22,42,44,CAP,substituicao_sai,Holloway
+346,2,01:22,42,44,CAP,substituicao_entra,Arthur Pecos
+347,2,01:22,42,44,BAU,substituicao_sai,Alex Garcia
+348,2,01:22,42,44,BAU,substituicao_entra,Robert Day
+349,2,01:22,42,44,BAU,substituicao_entra,Jefferson W
+350,2,01:22,42,44,BAU,substituicao_sai,Mathias
+351,2,01:22,42,44,CAP,substituicao_sai,César
+352,2,01:22,42,44,CAP,substituicao_entra,Labbate
+353,2,01:22,42,44,CAP,FR,Pilar
+354,2,01:22,42,44,BAU,FC,Murilo
+355,2,01:22,42,44,CAP,2_Pts_C,Pilar
+356,2,01:45,40,44,BAU,2_Pts_C,R Fischer
+357,2,01:59,40,42,CAP,2_Pts_C,Dawkins
+358,2,02:04,38,42,CAP,substituicao_sai,Labbate
+359,2,02:04,38,42,CAP,substituicao_entra,César
+360,2,02:04,38,42,CAP,FR,Pedro
+361,2,02:04,38,42,BAU,FC,R Fischer
+362,2,02:16,38,42,BAU,LL_Pts_C,R Fischer
+363,2,02:16,38,41,BAU,LL_Pts_C,R Fischer
+364,2,02:16,38,40,BAU,substituicao_sai,Hettsheimeir
+365,2,02:16,38,40,BAU,substituicao_entra,Mathias
+366,2,02:16,38,40,BAU,FR,R Fischer
+367,2,02:20,38,40,CAP,FR,Labbate
+368,2,02:20,38,40,BAU,FC,Hettsheimeir
+369,2,02:38,38,40,BAU,LL_Pts_C,Murilo
+370,2,02:38,38,39,BAU,LL_Pts_C,Murilo
+371,2,02:38,38,38,BAU,FR,Murilo
+372,2,02:38,38,38,CAP,FC,Labbate
+373,2,02:40,38,38,BAU,RD,Murilo
+374,2,02:40,38,38,BAU,TO,Murilo
+375,2,02:40,38,38,CAP,2_Pts_T,Labbate
+376,2,02:57,38,38,CAP,substituicao_entra,Dawkins
+377,2,02:57,38,38,CAP,substituicao_sai,F Penna
+378,2,02:57,38,38,BAU,LL_Pts_C,Alex Garcia
+379,2,02:57,38,37,BAU,LL_Pts_C,Alex Garcia
+380,2,02:57,38,36,BAU,substituicao_entra,Gui Deodato
+381,2,02:57,38,36,BAU,substituicao_sai,Robert Day
+382,2,02:57,38,36,BAU,substituicao_entra,Murilo
+383,2,02:57,38,36,BAU,substituicao_sai,Jefferson W
+384,2,02:57,38,36,CAP,substituicao_entra,Labbate
+385,2,02:57,38,36,CAP,substituicao_sai,César
+386,2,02:57,38,36,BAU,FR,Alex Garcia
+387,2,02:57,38,36,CAP,FC,Pedro
+388,2,03:07,38,36,BAU,RD,Alex Garcia
+389,2,03:07,38,36,CAP,3_Pts_T,César
+390,2,03:13,38,36,CAP,RD,Holloway
+391,2,03:13,38,36,CAP,TO,F Penna
+392,2,03:13,38,36,BAU,2_Pts_T,R Fischer
+393,2,03:26,38,36,BAU,RD,Robert Day
+394,2,03:26,38,36,CAP,2_Pts_T,Pilar
+395,2,03:34,38,36,CAP,FR,César
+396,2,03:34,38,36,BAU,FC,Hettsheimeir
+397,2,03:38,38,36,CAP,RD,Holloway
+398,2,03:38,38,36,BAU,3_Pts_T,Hettsheimeir
+399,2,03:43,38,36,BAU,substituicao_entra,Hettsheimeir
+400,2,03:43,38,36,BAU,substituicao_entra,R Fischer
+401,2,03:43,38,36,BAU,substituicao_sai,Mathias
+402,2,03:43,38,36,BAU,substituicao_sai,Larry
+403,2,03:43,38,36,CAP,substituicao_entra,Pedro
+404,2,03:43,38,36,CAP,substituicao_entra,Pilar
+405,2,03:43,38,36,CAP,substituicao_sai,Dawkins
+406,2,03:43,38,36,CAP,substituicao_sai,Renato C
+407,2,04:07,38,36,CAP,2_Pts_C,Holloway
+408,2,04:27,36,36,BAU,2_Pts_C,Mathias
+409,2,04:27,36,34,BAU,AS,Larry
+410,2,04:40,36,34,CAP,3_Pts_C,Renato C
+411,2,04:40,33,34,CAP,AS,F Penna
+412,2,04:54,33,34,BAU,2_Pts_C,Alex Garcia
+413,2,04:54,33,32,BAU,AS,Mathias
+414,2,05:14,33,32,CAP,2_Pts_C,Dawkins
+415,2,05:20,31,32,CAP,BR,Dawkins
+416,2,05:20,31,32,BAU,ER,Mathias
+417,2,05:31,31,32,BAU,RD,Larry
+418,2,05:31,31,32,CAP,3_Pts_T,César
+419,2,05:49,31,32,BAU,ER,Larry
+420,2,06:16,31,32,CAP,2_Pts_C,Holloway
+421,2,06:16,29,32,CAP,AS,F Penna
+422,2,06:23,29,32,CAP,RD,César
+423,2,06:23,29,32,BAU,3_Pts_T,Larry
+424,2,06:31,29,32,BAU,RO,Larry
+425,2,06:31,29,32,BAU,2_Pts_T,Mathias
+426,2,06:43,29,32,CAP,2_Pts_C,Dawkins
+427,2,06:52,27,32,CAP,tempo_tecnico,Paulistano
+428,2,06:52,27,32,BAU,2_Pts_C,Mathias
+429,2,06:56,27,30,BAU,RO,Mathias
+430,2,06:56,27,30,BAU,3_Pts_T,Jefferson W
+431,2,07:14,27,30,CAP,substituicao_entra,Renato C
+432,2,07:14,27,30,CAP,substituicao_sai,Jeff Agba
+433,2,07:14,27,30,CAP,substituicao_entra,Holloway
+434,2,07:14,27,30,CAP,substituicao_sai,Gemerson
+435,2,07:14,27,30,BAU,FR,Mathias
+436,2,07:14,27,30,CAP,FC_O,Jeff Agba
+437,2,07:24,27,30,BAU,3_Pts_C,Alex Garcia
+438,2,07:24,27,27,BAU,AS,Larry
+439,2,07:31,27,27,BAU,RD,Larry
+440,2,07:31,27,27,CAP,3_Pts_T,F Penna
+441,2,07:47,27,27,BAU,LL_Pts_C,Alex Garcia
+442,2,07:47,27,26,BAU,LL_Pts_C,Alex Garcia
+443,2,07:47,27,25,BAU,FR,Alex Garcia
+444,2,07:47,27,25,CAP,FC,Gemerson
+445,2,07:58,27,25,CAP,substituicao_sai,Arthur
+446,2,07:58,27,25,CAP,substituicao_entra,F Penna
+447,2,07:58,27,25,CAP,substituicao_sai,Pedro
+448,2,07:58,27,25,CAP,substituicao_entra,Jeff Agba
+449,2,07:58,27,25,BAU,FR,Alex Garcia
+450,2,07:58,27,25,CAP,FC_O,Pedro
+451,2,07:58,27,25,CAP,RO,Pedro
+452,2,07:58,27,25,CAP,2_Pts_T,Arthur
+453,2,08:01,27,25,CAP,RO,Arthur
+454,2,08:01,27,25,CAP,2_Pts_T,Pedro
+455,2,08:19,27,25,BAU,substituicao_entra,Jefferson W
+456,2,08:19,27,25,BAU,substituicao_sai,Murilo
+457,2,08:19,27,25,BAU,ER,Robert Day
+458,2,08:34,27,25,BAU,RD,Larry
+459,2,08:34,27,25,CAP,2_Pts_T,Pedro
+460,2,08:45,27,25,CAP,LL_Pts_C,Pedro
+461,2,08:45,26,25,BAU,FC_T,Banco do Bauru
+462,2,08:45,26,25,BAU,FR,Robert Day
+463,2,08:45,26,25,CAP,FC,Gemerson
+464,2,08:45,26,25,BAU,BR,Robert Day
+465,2,08:45,26,25,CAP,ER,Dawkins
+466,2,08:52,26,25,CAP,RD,Dawkins
+467,2,08:52,26,25,BAU,2_Pts_T,Larry
+468,2,08:56,26,25,CAP,substituicao_sai,Pilar
+469,2,08:56,26,25,CAP,substituicao_entra,Gemerson
+470,2,09:03,26,25,BAU,BR,Bauru
+471,2,09:03,26,25,CAP,ER,Pedro
+472,2,09:22,26,25,BAU,FR,Robert Day
+473,2,09:22,26,25,CAP,FC,César
+474,2,09:27,26,25,BAU,3_Pts_C,Robert Day
+475,2,09:27,26,22,BAU,AS,Alex Garcia
+476,2,09:34,26,22,BAU,RD,Murilo
+477,2,09:34,26,22,CAP,2_Pts_T,Pilar
+478,2,09:45,26,22,CAP,RD,Arthur
+479,2,09:45,26,22,BAU,LL_Pts_T,Murilo
+480,2,09:45,26,22,BAU,FR,Murilo
+481,2,09:45,26,22,CAP,FC,Arthur
+482,2,09:45,26,22,BAU,2_Pts_C,Murilo
+483,2,09:45,26,20,BAU,AS,Larry
+484,1,00:00,26,20, ,fim_quarto,
+485,1,00:02,26,20,BAU,RO,Mathias
+486,1,00:02,26,20,BAU,3_Pts_T,Murilo
+487,1,00:16,26,20,CAP,2_Pts_C,Pedro
+488,1,00:35,24,20,BAU,2_Pts_C,Mathias
+489,1,00:48,24,18,BAU,RD,Alex Garcia
+490,1,00:48,24,18,CAP,2_Pts_T,Renato C
+491,1,01:07,24,18,BAU,2_Pts_C,Mathias
+492,1,01:07,24,16,BAU,AS,Robert Day
+493,1,01:13,24,16,BAU,RO,Larry
+494,1,01:13,24,16,BAU,3_Pts_T,Robert Day
+495,1,01:25,24,16,BAU,substituicao_entra,Robert Day
+496,1,01:25,24,16,BAU,substituicao_sai,Gui Deodato
+497,1,01:36,24,16,CAP,2_Pts_C,Pedro
+498,1,01:47,22,16,CAP,substituicao_sai,Holloway
+499,1,01:47,22,16,CAP,substituicao_entra,Pedro
+500,1,01:47,22,16,CAP,FR,F Penna
+501,1,01:47,22,16,BAU,FC,Alex Garcia
+502,1,01:56,22,16,CAP,FR,Holloway
+503,1,01:56,22,16,BAU,FC,Gui Deodato
+504,1,02:18,22,16,CAP,RD,Paulistano
+505,1,02:18,22,16,BAU,2_Pts_T,Larry
+506,1,02:25,22,16,BAU,RD,Alex Garcia
+507,1,02:25,22,16,CAP,2_Pts_T,Jeff Agba
+508,1,02:40,22,16,BAU,2_Pts_C,Larry
+509,1,02:40,22,14,BAU,AS,Alex Garcia
+510,1,02:45,22,14,BAU,RO,Mathias
+511,1,02:45,22,14,BAU,3_Pts_T,Gui Deodato
+512,1,02:58,22,14,CAP,substituicao_sai,Dawkins
+513,1,02:58,22,14,CAP,substituicao_entra,F Penna
+514,1,02:58,22,14,CAP,substituicao_sai,César
+515,1,02:58,22,14,CAP,substituicao_entra,Jeff Agba
+516,1,02:58,22,14,CAP,substituicao_entra,Pilar
+517,1,02:58,22,14,CAP,substituicao_sai,Gemerson
+518,1,02:58,22,14,BAU,substituicao_sai,Jefferson W
+519,1,02:58,22,14,BAU,substituicao_entra,Murilo
+520,1,02:58,22,14,BAU,FR,Alex Garcia
+521,1,02:58,22,14,CAP,FC,Holloway
+522,1,02:59,22,14,CAP,RO,Renato C
+523,1,02:59,22,14,CAP,3_Pts_T,César
+524,1,03:08,22,14,BAU,2_Pts_C,Gui Deodato
+525,1,03:20,22,12,BAU,RD,Gui Deodato
+526,1,03:20,22,12,CAP,3_Pts_T,Renato C
+527,1,03:32,22,12,CAP,LL_Pts_C,Holloway
+528,1,03:32,21,12,CAP,LL_Pts_T,Holloway
+529,1,03:32,21,12,CAP,LL_Pts_C,Holloway
+530,1,03:32,20,12,BAU,FC_T,Gui Deodato
+531,1,03:32,20,12,BAU,FC_T,Bauru
+532,1,03:42,20,12,BAU,3_Pts_C,Jefferson W
+533,1,03:42,20,9,BAU,AS,Alex Garcia
+534,1,03:49,20,9,BAU,substituicao_entra,Mathias
+535,1,03:49,20,9,BAU,substituicao_sai,Hettsheimeir
+536,1,03:57,20,9,BAU,RD,Gui Deodato
+537,1,03:57,20,9,CAP,3_Pts_T,Gemerson
+538,1,04:05,20,9,CAP,FR,Holloway
+539,1,04:05,20,9,BAU,FC,Gui Deodato
+540,1,04:19,20,9,BAU,2_Pts_C,Gui Deodato
+541,1,04:21,20,7,CAP,substituicao_entra,César
+542,1,04:21,20,7,CAP,substituicao_sai,Jeff Agba
+543,1,04:21,20,7,CAP,substituicao_sai,Pilar
+544,1,04:21,20,7,CAP,substituicao_entra,Gemerson
+545,1,04:21,20,7,BAU,substituicao_entra,Gui Deodato
+546,1,04:21,20,7,BAU,substituicao_entra,Larry
+547,1,04:21,20,7,BAU,substituicao_sai,Robert Day
+548,1,04:21,20,7,BAU,substituicao_sai,R Fischer
+549,1,04:21,20,7,CAP,substituicao_entra,Renato C
+550,1,04:21,20,7,CAP,substituicao_sai,César
+551,1,04:37,20,7,BAU,RD,Robert Day
+552,1,04:37,20,7,CAP,2_Pts_T,Dawkins
+553,1,04:46,20,7,CAP,RD,César
+554,1,04:46,20,7,BAU,2_Pts_T,Hettsheimeir
+555,1,05:05,20,7,CAP,3_Pts_C,Dawkins
+556,1,05:26,17,7,BAU,3_Pts_C,Jefferson W
+557,1,05:50,17,4,CAP,3_Pts_C,Dawkins
+558,1,06:04,14,4,CAP,RD,Pilar
+559,1,06:04,14,4,BAU,2_Pts_T,Hettsheimeir
+560,1,06:21,14,4,CAP,2_Pts_C,Holloway
+561,1,06:34,12,4,BAU,tempo_tecnico,Bauru
+562,1,06:34,12,4,BAU,ER,
+563,1,06:51,12,4,CAP,3_Pts_C,Dawkins
+564,1,07:04,9,4,BAU,LL_Pts_C,Alex Garcia
+565,1,07:04,9,3,BAU,LL_Pts_C,Alex Garcia
+566,1,07:04,9,2,BAU,FR,Alex Garcia
+567,1,07:04,9,2,CAP,FC,Jeff Agba
+568,1,07:33,9,2,CAP,2_Pts_C,Holloway
+569,1,07:38,7,2,BAU,2_Pts_C,Hettsheimeir
+570,1,07:42,7,0,BAU,RO,Hettsheimeir
+571,1,07:42,7,0,BAU,2_Pts_T,Robert Day
+572,1,07:43,7,0,CAP,BR,Pilar
+573,1,07:43,7,0,BAU,ER,Hettsheimeir
+574,1,07:51,7,0,CAP,2_Pts_C,Jeff Agba
+575,1,07:55,5,0,CAP,RO,Jeff Agba
+576,1,07:55,5,0,CAP,2_Pts_T,Jeff Agba
+577,1,08:11,5,0,CAP,BR,César
+578,1,08:11,5,0,BAU,ER,Hettsheimeir
+579,1,08:17,5,0,CAP,2_Pts_C,César
+580,1,08:29,3,0,CAP,RD,Pilar
+581,1,08:29,3,0,BAU,3_Pts_T,Jefferson W
+582,1,08:47,3,0,BAU,RD,Robert Day
+583,1,08:47,3,0,CAP,3_Pts_T,César
+584,1,08:53,3,0,CAP,RD,César
+585,1,08:53,3,0,BAU,2_Pts_T,Jefferson W
+586,1,08:57,3,0,BAU,FR,Alex Garcia
+587,1,08:57,3,0,CAP,FC,Pilar
+588,1,09:10,3,0,CAP,3_Pts_C,Pilar
+589,1,09:10,0,0,CAP,AS,Dawkins
+590,1,09:29,0,0,BAU,ER,Jefferson W
+591,1,09:48,0,0,BAU,RD,Jefferson W
+592,1,09:48,0,0,CAP,2_Pts_T,Pilar
+593,1,10:00,0,0,BAU,substituicao_entra,Robert Day
+594,1,10:00,0,0,BAU,substituicao_entra,Hettsheimeir
+595,1,10:00,0,0,BAU,substituicao_entra,Alex Garcia
+596,1,10:00,0,0,BAU,substituicao_entra,R Fischer
+597,1,10:00,0,0,BAU,substituicao_entra,Jefferson W
+598,1,10:00,0,0,CAP,substituicao_entra,César
+599,1,10:00,0,0,CAP,substituicao_entra,Jeff Agba
+600,1,10:00,0,0,CAP,substituicao_entra,Dawkins
+601,1,10:00,0,0,CAP,substituicao_entra,Holloway
+602,1,10:00,0,0,CAP,substituicao_entra,Pilar

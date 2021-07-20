@@ -1,0 +1,473 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,66,110, ,fim_partida,
+1,4,00:02,66,110,BRA,2_Pts_C,Ronald
+2,4,00:02,66,108,BRA,AS,Bruno Felipe
+3,4,00:19,66,108,BRA,RD,Abner
+4,4,00:19,66,108,ESB,3_Pts_T,Collins
+5,4,00:29,66,108,ESB,BR,Espírito Santo Basquetebol
+6,4,00:29,66,108,BRA,ER,Bruno Felipe
+7,4,00:36,66,108,ESB,3_Pts_C,Collins
+8,4,00:43,63,108,BRA,2_Pts_C,Maxwell
+9,4,00:48,63,106,BRA,BR,Isaac
+10,4,00:48,63,106,ESB,ER,Gorauskas
+11,4,01:03,63,106,BRA,2_Pts_C,Ronald
+12,4,01:03,63,104,BRA,AS,Maxwell
+13,4,01:22,63,104,BRA,FR,Abner
+14,4,01:22,63,104,ESB,FC,Mateus
+15,4,01:31,63,104,BRA,RD,Abner
+16,4,01:31,63,104,ESB,3_Pts_T,Collins
+17,4,01:40,63,104,ESB,substituicao_entra,Mateus
+18,4,01:40,63,104,ESB,substituicao_sai,Rafael
+19,4,01:42,63,104,ESB,RD,Espírito Santo Basquetebol
+20,4,01:42,63,104,BRA,3_Pts_T,Ronald
+21,4,01:53,63,104,BRA,RD,Maxwell
+22,4,01:53,63,104,ESB,3_Pts_T,Gaspar
+23,4,02:14,63,104,BRA,2_Pts_C,Maxwell
+24,4,02:35,63,102,ESB,3_Pts_C,Rashaun
+25,4,02:35,60,102,ESB,AS,Gaspar
+26,4,02:54,60,102,BRA,2_Pts_C,Bruno Felipe
+27,4,03:07,60,100,BRA,RD,Bruno Felipe
+28,4,03:07,60,100,ESB,2_Pts_T,Gaspar
+29,4,03:14,60,100,ESB,RD,Gorauskas
+30,4,03:14,60,100,BRA,2_Pts_T,Abner
+31,4,03:26,60,100,BRA,RD,Ronald
+32,4,03:26,60,100,ESB,2_Pts_T,Gorauskas
+33,4,03:40,60,100,BRA,2_Pts_C,Ronald
+34,4,03:58,60,98,BRA,BR,Bruno Felipe
+35,4,03:58,60,98,ESB,ER,Gaspar
+36,4,04:19,60,98,BRA,substituicao_entra,Bruno Felipe
+37,4,04:19,60,98,BRA,substituicao_entra,Abner
+38,4,04:19,60,98,BRA,substituicao_sai,Osimani
+39,4,04:19,60,98,BRA,substituicao_sai,Goree
+40,4,04:24,60,98,ESB,tempo_tecnico,Espírito Santo Basquetebol
+41,4,04:24,60,98,BRA,3_Pts_C,Osimani
+42,4,04:36,60,95,ESB,2_Pts_C,Collins
+43,4,04:53,58,95,BRA,3_Pts_C,Osimani
+44,4,05:07,58,92,ESB,AS,Rashaun
+45,4,05:12,58,92,ESB,3_Pts_C,Gaspar
+46,4,05:31,55,92,ESB,RD,Rashaun
+47,4,05:31,55,92,BRA,3_Pts_T,Goree
+48,4,05:57,55,92,BRA,RD,Brasília
+49,4,05:57,55,92,ESB,3_Pts_T,Rafael
+50,4,06:11,55,92,ESB,substituicao_entra,Gaspar
+51,4,06:11,55,92,ESB,substituicao_entra,Rafael
+52,4,06:11,55,92,ESB,substituicao_sai,Robson
+53,4,06:11,55,92,ESB,substituicao_sai,Cicero
+54,4,06:11,55,92,ESB,RO,Espírito Santo Basquetebol
+55,4,06:11,55,92,BRA,TO,Ronald
+56,4,06:11,55,92,ESB,2_Pts_T,Collins
+57,4,06:22,55,92,BRA,2_Pts_C,Maxwell
+58,4,06:26,55,90,BRA,RO,Maxwell
+59,4,06:26,55,90,BRA,2_Pts_T,Isaac
+60,4,06:34,55,90,ESB,3_Pts_C,Rashaun
+61,4,06:49,52,90,BRA,2_Pts_C,Ronald
+62,4,07:06,52,88,BRA,RD,Ronald
+63,4,07:06,52,88,ESB,2_Pts_T,Cicero
+64,4,07:32,52,88,ESB,RD,Collins
+65,4,07:32,52,88,BRA,3_Pts_T,Osimani
+66,4,07:33,52,88,ESB,substituicao_entra,Gorauskas
+67,4,07:33,52,88,ESB,substituicao_sai,Daniel Filé
+68,4,07:33,52,88,ESB,substituicao_entra,Rashaun
+69,4,07:33,52,88,ESB,substituicao_sai,Rafael
+70,4,07:43,52,88,BRA,RO,Isaac
+71,4,07:43,52,88,BRA,2_Pts_T,Maxwell
+72,4,07:47,52,88,BRA,BR,Maxwell
+73,4,07:47,52,88,ESB,ER,Robson
+74,4,08:03,52,88,ESB,RD,Cicero
+75,4,08:03,52,88,BRA,2_Pts_T,Maxwell
+76,4,08:03,52,88,BRA,RO,Brasília
+77,4,08:03,52,88,ESB,TO,Cicero
+78,4,08:03,52,88,BRA,2_Pts_T,Goree
+79,4,08:15,52,88,BRA,RD,Ronald
+80,4,08:15,52,88,ESB,3_Pts_T,Cicero
+81,4,08:43,52,88,BRA,3_Pts_C,Osimani
+82,4,08:50,52,85,ESB,2_Pts_C,Cicero
+83,4,08:53,50,85,ESB,RO,Cicero
+84,4,08:53,50,85,ESB,2_Pts_T,Cicero
+85,4,10:00,50,85,BRA,3_Pts_C,Osimani
+86,4,10:00,50,82,BRA,RO,Ronald
+87,4,10:00,50,82,BRA,3_Pts_T,Goree
+88,4,10:00,50,82,BRA,BR,Osimani
+89,4,10:00,50,82,ESB,ER,Daniel Filé
+90,3,00:00,50,82, ,fim_quarto,
+91,3,00:00,50,82,ESB,3_Pts_T,Rafael
+92,3,00:02,50,82,ESB,RD,Rafael
+93,3,00:02,50,82,BRA,3_Pts_T,Arthur
+94,3,00:11,50,82,ESB,LL_Pts_C,Cicero
+95,3,00:11,49,82,ESB,LL_Pts_C,Cicero
+96,3,00:11,48,82,ESB,FR,Cicero
+97,3,00:11,48,82,BRA,FC,Maxwell
+98,3,00:17,48,82,ESB,RD,Cicero
+99,3,00:17,48,82,BRA,3_Pts_T,Arthur
+100,3,00:27,48,82,BRA,RD,Goree
+101,3,00:27,48,82,ESB,2_Pts_T,Cicero
+102,3,00:51,48,82,BRA,LL_Pts_C,Maxwell
+103,3,00:51,48,81,BRA,AS,Osimani
+104,3,00:51,48,81,BRA,2_Pts_C,Maxwell
+105,3,00:51,48,79,BRA,FR,Maxwell
+106,3,00:51,48,79,ESB,FC,Robson
+107,3,01:07,48,79,ESB,ER,
+108,3,01:33,48,79,BRA,LL_Pts_C,Maxwell
+109,3,01:33,48,78,BRA,LL_Pts_T,Maxwell
+110,3,01:33,48,78,BRA,FR,Maxwell
+111,3,01:33,48,78,ESB,FC,Daniel Filé
+112,3,01:44,48,78,ESB,LL_Pts_C,Daniel Filé
+113,3,01:44,47,78,ESB,LL_Pts_T,Daniel Filé
+114,3,01:44,47,78,ESB,FR,Daniel Filé
+115,3,01:44,47,78,BRA,FC,Osimani
+116,3,01:47,47,78,ESB,RO,Daniel Filé
+117,3,01:47,47,78,ESB,2_Pts_T,Daniel Filé
+118,3,01:50,47,78,ESB,RO,Daniel Filé
+119,3,01:50,47,78,ESB,2_Pts_T,Daniel Filé
+120,3,01:57,47,78,ESB,RO,Espírito Santo Basquetebol
+121,3,01:57,47,78,ESB,LL_Pts_T,Daniel Filé
+122,3,01:57,47,78,ESB,LL_Pts_C,Daniel Filé
+123,3,01:57,46,78,ESB,FR,Daniel Filé
+124,3,01:57,46,78,BRA,FC,Goree
+125,3,02:09,46,78,BRA,substituicao_entra,Maxwell
+126,3,02:09,46,78,BRA,substituicao_sai,G Giovannoni
+127,3,02:09,46,78,ESB,FR,Daniel Filé
+128,3,02:09,46,78,BRA,FC,Alex Garcia
+129,3,02:36,46,78,BRA,2_Pts_C,Arthur
+130,3,02:36,46,76,BRA,AS,Alex Garcia
+131,3,02:36,46,76,BRA,RD,G Giovannoni
+132,3,02:36,46,76,ESB,3_Pts_T,Robson
+133,3,02:54,46,76,BRA,2_Pts_C,G Giovannoni
+134,3,02:54,46,74,BRA,AS,Alex Garcia
+135,3,03:02,46,74,BRA,RD,G Giovannoni
+136,3,03:02,46,74,ESB,2_Pts_T,Cicero
+137,3,03:08,46,74,ESB,RD,Daniel Filé
+138,3,03:08,46,74,BRA,2_Pts_T,Goree
+139,3,03:12,46,74,BRA,RO,Goree
+140,3,03:12,46,74,BRA,2_Pts_T,Goree
+141,3,03:23,46,74,BRA,substituicao_entra,Arthur
+142,3,03:23,46,74,BRA,substituicao_entra,Osimani
+143,3,03:23,46,74,BRA,substituicao_entra,Goree
+144,3,03:23,46,74,BRA,substituicao_sai,Abner
+145,3,03:23,46,74,BRA,substituicao_sai,Nezinho
+146,3,03:23,46,74,BRA,substituicao_sai,Rossi
+147,3,03:23,46,74,ESB,substituicao_entra,Rafael
+148,3,03:23,46,74,ESB,substituicao_sai,Gaspar
+149,3,03:23,46,74,BRA,FR,Alex Garcia
+150,3,03:23,46,74,ESB,FC,Gaspar
+151,3,03:27,46,74,ESB,substituicao_entra,Robson
+152,3,03:27,46,74,ESB,substituicao_entra,Daniel Filé
+153,3,03:27,46,74,ESB,substituicao_sai,Rashaun
+154,3,03:27,46,74,ESB,substituicao_sai,Gorauskas
+155,3,03:27,46,74,BRA,FR,G Giovannoni
+156,3,03:27,46,74,ESB,FC,Rashaun
+157,3,03:31,46,74,BRA,RD,Rossi
+158,3,03:31,46,74,ESB,3_Pts_T,Rashaun
+159,3,03:43,46,74,BRA,2_Pts_C,Abner
+160,3,03:48,46,72,BRA,RO,Abner
+161,3,03:48,46,72,BRA,2_Pts_T,Nezinho
+162,3,04:00,46,72,BRA,RO,G Giovannoni
+163,3,04:00,46,72,BRA,3_Pts_T,Alex Garcia
+164,3,04:07,46,72,BRA,RO,Brasília
+165,3,04:07,46,72,ESB,TO,Gaspar
+166,3,04:07,46,72,BRA,2_Pts_T,Alex Garcia
+167,3,04:25,46,72,ESB,3_Pts_C,Rashaun
+168,3,04:25,43,72,ESB,AS,Collins
+169,3,04:30,43,72,ESB,RD,Gorauskas
+170,3,04:30,43,72,BRA,2_Pts_T,Nezinho
+171,3,04:41,43,72,BRA,FR,Alex Garcia
+172,3,04:41,43,72,ESB,FC,Rashaun
+173,3,04:46,43,72,ESB,3_Pts_C,Rashaun
+174,3,04:55,40,72,ESB,RO,Gaspar
+175,3,04:55,40,72,ESB,3_Pts_T,Gorauskas
+176,3,05:07,40,72,ESB,RD,Gaspar
+177,3,05:07,40,72,BRA,3_Pts_T,G Giovannoni
+178,3,05:24,40,72,ESB,3_Pts_C,Rashaun
+179,3,05:49,37,72,ESB,FR,Rashaun
+180,3,05:49,37,72,BRA,FC_O,Abner
+181,3,06:08,37,72,BRA,RD,Abner
+182,3,06:08,37,72,ESB,3_Pts_T,Gaspar
+183,3,06:21,37,72,BRA,tempo_tecnico,Brasília
+184,3,06:21,37,72,BRA,2_Pts_C,Alex Garcia
+185,3,06:31,37,70,BRA,RO,Abner
+186,3,06:31,37,70,BRA,3_Pts_T,Rossi
+187,3,06:44,37,70,ESB,substituicao_entra,Gaspar
+188,3,06:44,37,70,ESB,substituicao_sai,Daniel Filé
+189,3,06:44,37,70,BRA,BR,Brasília
+190,3,06:44,37,70,ESB,ER,Collins
+191,3,07:02,37,70,BRA,2_Pts_C,G Giovannoni
+192,3,07:02,37,68,BRA,AS,Nezinho
+193,3,07:09,37,68,ESB,2_Pts_C,Rashaun
+194,3,07:12,35,68,ESB,RO,Rashaun
+195,3,07:12,35,68,ESB,2_Pts_T,Rashaun
+196,3,07:25,35,68,BRA,2_Pts_C,Alex Garcia
+197,3,07:25,35,66,BRA,AS,G Giovannoni
+198,3,07:32,35,66,BRA,RD,Nezinho
+199,3,07:32,35,66,ESB,3_Pts_T,Collins
+200,3,07:42,35,66,BRA,EN,Abner
+201,3,07:42,35,64,BRA,AS,Alex Garcia
+202,3,07:50,35,64,BRA,RD,Abner
+203,3,07:50,35,64,ESB,2_Pts_T,Daniel Filé
+204,3,07:56,35,64,ESB,FR,Gorauskas
+205,3,07:56,35,64,BRA,FC,Nezinho
+206,3,08:00,35,64,ESB,BR,Collins
+207,3,08:00,35,64,BRA,ER,G Giovannoni
+208,3,08:23,35,64,ESB,2_Pts_C,Daniel Filé
+209,3,08:53,33,64,ESB,FR,Gorauskas
+210,3,08:53,33,64,BRA,FC,Abner
+211,3,08:57,33,64,ESB,RD,Collins
+212,3,08:57,33,64,BRA,3_Pts_T,G Giovannoni
+213,3,09:07,33,64,ESB,2_Pts_C,Gorauskas
+214,3,09:07,31,64,ESB,AS,Daniel Filé
+215,3,09:20,31,64,BRA,2_Pts_C,Alex Garcia
+216,3,09:20,31,62,BRA,AS,Nezinho
+217,3,09:32,31,62,ESB,2_Pts_C,Collins
+218,3,09:50,29,62,ESB,RD,Cicero
+219,3,09:50,29,62,BRA,3_Pts_T,Nezinho
+220,2,00:00,29,62, ,fim_quarto,
+221,2,00:00,29,62,ESB,3_Pts_T,Rashaun
+222,2,00:03,29,62,BRA,LL_Pts_C,Nezinho
+223,2,00:03,29,61,BRA,LL_Pts_C,Nezinho
+224,2,00:03,29,60,BRA,FR,Nezinho
+225,2,00:03,29,60,ESB,FC,Rashaun
+226,2,00:24,29,60,ESB,LL_Pts_C,Daniel Filé
+227,2,00:24,28,60,ESB,AS,Rafael
+228,2,00:24,28,60,ESB,LL_Pts_C,Daniel Filé
+229,2,00:24,27,60,ESB,FR,Daniel Filé
+230,2,00:24,27,60,BRA,FC,Rossi
+231,2,00:29,27,60,ESB,RO,Espírito Santo Basquetebol
+232,2,00:29,27,60,ESB,2_Pts_T,Rafael
+233,2,00:43,27,60,ESB,RD,Daniel Filé
+234,2,00:43,27,60,BRA,3_Pts_T,Nezinho
+235,2,01:00,27,60,ESB,2_Pts_C,Daniel Filé
+236,2,01:17,25,60,ESB,RD,Gorauskas
+237,2,01:17,25,60,BRA,3_Pts_T,Rossi
+238,2,01:25,25,60,BRA,RD,Arthur
+239,2,01:25,25,60,ESB,2_Pts_T,Gorauskas
+240,2,01:42,25,60,ESB,RD,Espírito Santo Basquetebol
+241,2,01:42,25,60,BRA,3_Pts_T,Arthur
+242,2,02:09,25,60,ESB,,
+243,2,02:09,25,60,ESB,LL_Pts_T,Daniel Filé
+244,2,02:09,25,60,ESB,LL_Pts_C,Daniel Filé
+245,2,02:09,24,60,ESB,substituicao_entra,Cicero
+246,2,02:09,24,60,ESB,substituicao_sai,Mateus
+247,2,02:09,24,60,ESB,FR,Daniel Filé
+248,2,02:09,24,60,BRA,FC,Abner
+249,2,02:18,24,60,ESB,RO,Rashaun
+250,2,02:18,24,60,BRA,TO,Goree
+251,2,02:18,24,60,ESB,2_Pts_T,Rashaun
+252,2,02:25,24,60,ESB,RD,Rashaun
+253,2,02:25,24,60,BRA,2_Pts_T,Arthur
+254,2,02:33,24,60,BRA,RD,Abner
+255,2,02:33,24,60,ESB,3_Pts_T,Rafael
+256,2,02:47,24,60,BRA,3_Pts_C,Nezinho
+257,2,03:04,24,57,BRA,RD,Rossi
+258,2,03:04,24,57,ESB,3_Pts_T,Gorauskas
+259,2,03:21,24,57,BRA,LL_Pts_C,Goree
+260,2,03:21,24,56,BRA,substituicao_entra,Abner
+261,2,03:21,24,56,BRA,substituicao_sai,Ronald
+262,2,03:21,24,56,ESB,substituicao_entra,Rashaun
+263,2,03:21,24,56,ESB,substituicao_sai,Robson
+264,2,03:21,24,56,BRA,2_Pts_C,Goree
+265,2,03:21,24,54,BRA,FR,Goree
+266,2,03:21,24,54,ESB,FC,Robson
+267,2,03:23,24,54,ESB,tempo_tecnico,Espírito Santo Basquetebol
+268,2,03:46,24,54,ESB,2_Pts_C,Gorauskas
+269,2,03:46,22,54,ESB,AS,Robson
+270,2,04:16,22,54,BRA,EN,Goree
+271,2,04:16,22,52,BRA,AS,Nezinho
+272,2,04:20,22,52,BRA,BR,Nezinho
+273,2,04:20,22,52,ESB,ER,Daniel Filé
+274,2,04:46,22,52,BRA,2_Pts_C,Arthur
+275,2,04:56,22,50,BRA,RD,Goree
+276,2,04:56,22,50,ESB,2_Pts_T,Daniel Filé
+277,2,05:14,22,50,BRA,LL_Pts_C,Nezinho
+278,2,05:14,22,49,BRA,LL_Pts_C,Nezinho
+279,2,05:14,22,48,BRA,substituicao_entra,Rossi
+280,2,05:14,22,48,BRA,substituicao_sai,Isaac
+281,2,05:14,22,48,BRA,FR,Nezinho
+282,2,05:14,22,48,ESB,FC,Mateus
+283,2,05:18,22,48,BRA,RD,Goree
+284,2,05:18,22,48,ESB,3_Pts_T,Mateus
+285,2,05:38,22,48,ESB,substituicao_entra,Gorauskas
+286,2,05:38,22,48,ESB,substituicao_sai,Gaspar
+287,2,05:38,22,48,BRA,LL_Pts_C,Nezinho
+288,2,05:38,22,47,BRA,LL_Pts_C,Nezinho
+289,2,05:38,22,46,BRA,FR,Nezinho
+290,2,05:38,22,46,ESB,FC,Gaspar
+291,2,05:42,22,46,BRA,RD,Goree
+292,2,05:42,22,46,ESB,2_Pts_T,Robson
+293,2,06:13,22,46,BRA,3_Pts_C,Isaac
+294,2,06:13,22,43,BRA,AS,Nezinho
+295,2,06:26,22,43,ESB,substituicao_entra,Daniel Filé
+296,2,06:26,22,43,ESB,substituicao_sai,Cicero
+297,2,06:26,22,43,BRA,FR,Isaac
+298,2,06:26,22,43,ESB,FC,Gaspar
+299,2,06:28,22,43,BRA,BR,Isaac
+300,2,06:28,22,43,ESB,ER,Rafael
+301,2,06:55,22,43,ESB,substituicao_entra,Robson
+302,2,06:55,22,43,ESB,substituicao_sai,Rashaun
+303,2,06:55,22,43,ESB,BR,Espírito Santo Basquetebol
+304,2,06:55,22,43,BRA,ER,Isaac
+305,2,06:55,22,43,ESB,ER,
+306,2,06:55,22,43,ESB,3_Pts_T,Cicero
+307,2,07:04,22,43,ESB,RO,Espírito Santo Basquetebol
+308,2,07:04,22,43,BRA,TO,Nezinho
+309,2,07:04,22,43,ESB,2_Pts_T,Mateus
+310,2,07:27,22,43,ESB,RD,Rafael
+311,2,07:27,22,43,BRA,2_Pts_T,Arthur
+312,2,07:33,22,43,BRA,BR,Nezinho
+313,2,07:33,22,43,ESB,ER,Mateus
+314,2,07:34,22,43,ESB,FR,Gaspar
+315,2,07:34,22,43,BRA,FC,Goree
+316,2,07:42,22,43,BRA,2_Pts_C,Ronald
+317,2,07:42,22,41,BRA,AS,Nezinho
+318,2,07:50,22,41,BRA,substituicao_entra,Nezinho
+319,2,07:50,22,41,BRA,substituicao_sai,Osimani
+320,2,07:50,22,41,BRA,substituicao_entra,Goree
+321,2,07:50,22,41,BRA,substituicao_entra,Arthur
+322,2,07:50,22,41,BRA,substituicao_sai,G Giovannoni
+323,2,07:50,22,41,BRA,substituicao_sai,Alex Garcia
+324,2,07:55,22,41,ESB,3_Pts_T,Mateus
+325,2,08:11,22,41,ESB,substituicao_entra,Mateus
+326,2,08:11,22,41,ESB,substituicao_sai,Robson
+327,2,08:13,22,41,BRA,LL_Pts_C,Ronald
+328,2,08:13,22,40,BRA,LL_Pts_C,Ronald
+329,2,08:15,22,39,BRA,FR,Ronald
+330,2,08:15,22,39,ESB,FC,Gaspar
+331,2,08:22,22,39,BRA,RD,Isaac
+332,2,08:22,22,39,ESB,2_Pts_T,Cicero
+333,2,08:40,22,39,BRA,AS,G Giovannoni
+334,2,08:40,22,39,BRA,LL_Pts_C,Ronald
+335,2,08:40,22,38,BRA,LL_Pts_T,Ronald
+336,2,08:40,22,38,BRA,FR,Ronald
+337,2,08:40,22,38,ESB,FC,Rafael
+338,2,08:53,22,38,ESB,LL_Pts_C,Rafael
+339,2,08:53,21,38,ESB,LL_Pts_C,Rafael
+340,2,08:53,20,38,ESB,FR,Rafael
+341,2,08:53,20,38,BRA,FC,Isaac
+342,2,09:11,20,38,BRA,LL_Pts_C,Isaac
+343,2,09:11,20,37,BRA,LL_Pts_C,Isaac
+344,2,09:11,20,36,BRA,FR,Isaac
+345,2,09:11,20,36,ESB,FC,Rashaun
+346,2,09:16,20,36,ESB,LL_Pts_C,Cicero
+347,2,09:19,19,36,ESB,2_Pts_C,Cicero
+348,2,09:19,17,36,ESB,FR,Cicero
+349,2,09:19,17,36,BRA,FC,G Giovannoni
+350,2,09:23,17,36,ESB,RO,Cicero
+351,2,09:23,17,36,ESB,2_Pts_T,Cicero
+352,2,09:27,17,36,ESB,RO,Cicero
+353,2,09:27,17,36,ESB,2_Pts_T,Rashaun
+354,2,09:44,17,36,BRA,2_Pts_C,Alex Garcia
+355,2,09:44,17,34,BRA,AS,Isaac
+356,2,09:57,17,34,ESB,AS,Rashaun
+357,2,09:57,17,34,ESB,LL_Pts_C,Cicero
+358,2,09:57,16,34,ESB,LL_Pts_T,Cicero
+359,2,09:57,16,34,ESB,FR,Cicero
+360,2,09:57,16,34,BRA,FC,Ronald
+361,1,00:00,16,34, ,fim_quarto,
+362,1,00:00,16,34,ESB,3_Pts_T,Gaspar
+363,1,00:03,16,34,BRA,LL_Pts_C,G Giovannoni
+364,1,00:03,16,33,BRA,LL_Pts_C,G Giovannoni
+365,1,00:03,16,32,BRA,FR,G Giovannoni
+366,1,00:03,16,32,ESB,FC,Daniel Filé
+367,1,00:19,16,32,BRA,tempo_tecnico,Brasília
+368,1,00:19,16,32,ESB,substituicao_entra,Rafael
+369,1,00:19,16,32,ESB,substituicao_sai,Robson
+370,1,00:19,16,32,BRA,substituicao_entra,Arthur
+371,1,00:19,16,32,BRA,substituicao_sai,Ronald
+372,1,00:19,16,32,BRA,FR,Osimani
+373,1,00:19,16,32,ESB,FC,Robson
+374,1,00:24,16,32,BRA,RD,G Giovannoni
+375,1,00:24,16,32,ESB,2_Pts_T,Daniel Filé
+376,1,00:36,16,32,ESB,FR,Robson
+377,1,00:36,16,32,BRA,FC,Nezinho
+378,1,00:51,16,32,BRA,3_Pts_C,G Giovannoni
+379,1,00:51,16,29,BRA,AS,Nezinho
+380,1,00:51,16,29,BRA,BR,Brasília
+381,1,00:51,16,29,ESB,ER,Cicero
+382,1,01:03,16,29,BRA,3_Pts_C,Alex Garcia
+383,1,01:13,16,26,BRA,substituicao_entra,Osimani
+384,1,01:13,16,26,BRA,substituicao_sai,Arthur
+385,1,01:13,16,26,BRA,substituicao_entra,Ronald
+386,1,01:13,16,26,BRA,substituicao_sai,Goree
+387,1,01:17,16,26,BRA,RD,Brasília
+388,1,01:17,16,26,ESB,3_Pts_T,Robson
+389,1,01:34,16,26,ESB,RO,Cicero
+390,1,01:34,16,26,ESB,2_Pts_T,Rashaun
+391,1,01:55,16,26,BRA,3_Pts_C,Arthur
+392,1,01:55,16,23,BRA,AS,Alex Garcia
+393,1,02:06,16,23,BRA,RD,Goree
+394,1,02:06,16,23,ESB,3_Pts_T,Cicero
+395,1,02:24,16,23,BRA,2_Pts_C,Arthur
+396,1,02:24,16,21,BRA,AS,Alex Garcia
+397,1,02:34,16,21,ESB,substituicao_entra,Gaspar
+398,1,02:34,16,21,ESB,substituicao_sai,Gorauskas
+399,1,02:34,16,21,BRA,FR,G Giovannoni
+400,1,02:34,16,21,ESB,FC,Gorauskas
+401,1,02:39,16,21,BRA,RD,G Giovannoni
+402,1,02:39,16,21,ESB,3_Pts_T,Cicero
+403,1,02:59,16,21,ESB,BR,Espírito Santo Basquetebol
+404,1,02:59,16,21,BRA,ER,Goree
+405,1,03:12,16,21,BRA,RO,Arthur
+406,1,03:12,16,21,BRA,3_Pts_T,Nezinho
+407,1,03:18,16,21,BRA,RO,Alex Garcia
+408,1,03:18,16,21,BRA,3_Pts_T,Goree
+409,1,03:30,16,21,BRA,FR,G Giovannoni
+410,1,03:30,16,21,ESB,FC_O,Gorauskas
+411,1,03:43,16,21,ESB,BR,Espírito Santo Basquetebol
+412,1,03:43,16,21,BRA,ER,Goree
+413,1,03:53,16,21,BRA,RD,Alex Garcia
+414,1,03:53,16,21,ESB,2_Pts_T,Rashaun
+415,1,04:00,16,21,ESB,RD,Daniel Filé
+416,1,04:00,16,21,BRA,3_Pts_T,Alex Garcia
+417,1,04:25,16,21,ESB,3_Pts_C,Cicero
+418,1,04:25,13,21,ESB,AS,Gorauskas
+419,1,04:37,13,21,BRA,2_Pts_C,Alex Garcia
+420,1,04:44,13,19,ESB,3_Pts_C,Rashaun
+421,1,04:44,10,19,ESB,AS,Gorauskas
+422,1,05:13,10,19,ESB,tempo_tecnico,Espírito Santo Basquetebol
+423,1,05:13,10,19,BRA,3_Pts_C,G Giovannoni
+424,1,05:13,10,16,BRA,AS,Goree
+425,1,05:23,10,16,BRA,RD,Arthur
+426,1,05:23,10,16,ESB,2_Pts_T,Daniel Filé
+427,1,05:50,10,16,BRA,3_Pts_C,Alex Garcia
+428,1,05:50,10,13,BRA,AS,Nezinho
+429,1,06:06,10,13,ESB,2_Pts_C,Cicero
+430,1,06:14,8,13,ESB,RD,Daniel Filé
+431,1,06:14,8,13,BRA,2_Pts_T,Alex Garcia
+432,1,06:26,8,13,ESB,LL_Pts_C,Robson
+433,1,06:26,7,13,ESB,LL_Pts_C,Robson
+434,1,06:26,6,13,ESB,FR,Robson
+435,1,06:26,6,13,BRA,FC,Goree
+436,1,06:52,6,13,BRA,3_Pts_C,Goree
+437,1,06:52,6,10,BRA,AS,Alex Garcia
+438,1,07:02,6,10,BRA,RD,G Giovannoni
+439,1,07:02,6,10,ESB,2_Pts_T,Daniel Filé
+440,1,07:22,6,10,BRA,LL_Pts_C,Alex Garcia
+441,1,07:22,6,9,BRA,2_Pts_C,Alex Garcia
+442,1,07:22,6,7,BRA,FR,Alex Garcia
+443,1,07:22,6,7,ESB,FC,Cicero
+444,1,07:42,6,7,BRA,RD,Brasília
+445,1,07:42,6,7,ESB,3_Pts_T,Gorauskas
+446,1,08:10,6,7,ESB,RD,Daniel Filé
+447,1,08:10,6,7,BRA,2_Pts_T,Alex Garcia
+448,1,08:27,6,7,ESB,EN,Daniel Filé
+449,1,08:27,4,7,ESB,AS,Rashaun
+450,1,08:38,4,7,BRA,AS,Nezinho
+451,1,08:43,4,7,BRA,3_Pts_C,Arthur
+452,1,09:01,4,4,ESB,2_Pts_C,Robson
+453,1,09:09,2,4,BRA,2_Pts_C,Arthur
+454,1,09:09,2,2,BRA,AS,G Giovannoni
+455,1,09:16,2,2,ESB,2_Pts_C,Rashaun
+456,1,09:26,0,2,BRA,2_Pts_C,Goree
+457,1,09:26,0,0,BRA,AS,Nezinho
+458,1,09:34,0,0,BRA,RD,G Giovannoni
+459,1,09:34,0,0,ESB,2_Pts_T,Gorauskas
+460,1,09:55,0,0,ESB,RD,Rashaun
+461,1,09:55,0,0,BRA,3_Pts_T,Arthur
+462,1,10:00,0,0,BRA,substituicao_entra,Goree
+463,1,10:00,0,0,BRA,substituicao_entra,Nezinho
+464,1,10:00,0,0,BRA,substituicao_entra,G Giovannoni
+465,1,10:00,0,0,BRA,substituicao_entra,Alex Garcia
+466,1,10:00,0,0,BRA,substituicao_entra,Arthur
+467,1,10:00,0,0,ESB,substituicao_entra,Robson
+468,1,10:00,0,0,ESB,substituicao_entra,Cicero
+469,1,10:00,0,0,ESB,substituicao_entra,Rashaun
+470,1,10:00,0,0,ESB,substituicao_entra,Gorauskas
+471,1,10:00,0,0,ESB,substituicao_entra,Daniel Filé

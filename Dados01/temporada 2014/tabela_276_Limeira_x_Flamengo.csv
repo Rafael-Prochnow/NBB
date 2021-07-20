@@ -1,0 +1,527 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,78,85, ,fim_partida,
+1,4,00:04,78,85,FLA,LL_Pts_C,Benite
+2,4,00:04,78,84,FLA,LL_Pts_C,Benite
+3,4,00:04,78,83,FLA,FR,Benite
+4,4,00:04,78,83,LIM,FC,Rafael Mineiro
+5,4,00:04,78,83,LIM,2_Pts_C,David Jackson
+6,4,00:11,76,83,FLA,LL_Pts_C,Benite
+7,4,00:11,76,82,FLA,LL_Pts_C,Benite
+8,4,00:13,76,81,FLA,FR,Benite
+9,4,00:13,76,81,LIM,FC,David Jackson
+10,4,00:13,76,81,FLA,substituicao_entra,Laprovittola
+11,4,00:13,76,81,FLA,substituicao_sai,Gegê
+12,4,00:13,76,81,FLA,substituicao_entra,Marcelinho
+13,4,00:13,76,81,FLA,substituicao_sai,Olivinha
+14,4,00:13,76,81,FLA,BR,Flamengo
+15,4,00:13,76,81,LIM,ER,David Jackson
+16,4,00:22,76,81,FLA,substituicao_entra,Gegê
+17,4,00:22,76,81,FLA,substituicao_sai,Laprovittola
+18,4,00:22,76,81,FLA,LL_Pts_C,Laprovittola
+19,4,00:22,76,80,FLA,LL_Pts_C,Laprovittola
+20,4,00:22,76,79,FLA,substituicao_entra,Olivinha
+21,4,00:22,76,79,FLA,substituicao_sai,Marcelinho
+22,4,00:22,76,79,LIM,substituicao_entra,Deryk
+23,4,00:22,76,79,LIM,substituicao_sai,Nezinho
+24,4,00:22,76,79,FLA,FR,Laprovittola
+25,4,00:22,76,79,LIM,FC,Nezinho
+26,4,00:26,76,79,FLA,substituicao_entra,Marcelinho
+27,4,00:26,76,79,FLA,substituicao_sai,Olivinha
+28,4,00:26,76,79,LIM,LL_Pts_C,David Jackson
+29,4,00:26,75,79,LIM,LL_Pts_C,David Jackson
+30,4,00:26,74,79,LIM,LL_Pts_C,David Jackson
+31,4,00:26,73,79,FLA,substituicao_entra,Laprovittola
+32,4,00:26,73,79,FLA,substituicao_sai,Gegê
+33,4,00:29,73,79,LIM,FR,David Jackson
+34,4,00:29,73,79,FLA,FC,Meyinsse
+35,4,00:33,73,79,FLA,substituicao_entra,Gegê
+36,4,00:33,73,79,FLA,substituicao_sai,Laprovittola
+37,4,00:33,73,79,FLA,tempo_tecnico,Flamengo
+38,4,00:33,73,79,FLA,3_Pts_C,Benite
+39,4,00:33,73,76,FLA,AS,Laprovittola
+40,4,00:53,73,76,FLA,substituicao_entra,Benite
+41,4,00:53,73,76,FLA,substituicao_sai,Gegê
+42,4,00:53,73,76,LIM,LL_Pts_C,Nezinho
+43,4,00:53,72,76,LIM,LL_Pts_C,Nezinho
+44,4,00:53,71,76,FLA,substituicao_entra,Laprovittola
+45,4,00:53,71,76,FLA,substituicao_sai,Herrmann
+46,4,00:53,71,76,LIM,FR,Nezinho
+47,4,00:53,71,76,FLA,FC,Herrmann
+48,4,01:00,71,76,FLA,substituicao_entra,Gegê
+49,4,01:00,71,76,FLA,substituicao_sai,Laprovittola
+50,4,01:00,71,76,LIM,tempo_tecnico,Limeira
+51,4,01:00,71,76,FLA,LL_Pts_C,Laprovittola
+52,4,01:00,71,75,FLA,LL_Pts_C,Laprovittola
+53,4,01:00,71,74,LIM,substituicao_entra,Hayes
+54,4,01:00,71,74,LIM,substituicao_sai,Bruno Fiorotto
+55,4,01:00,71,74,FLA,FR,Laprovittola
+56,4,01:00,71,74,LIM,FC,Bruno Fiorotto
+57,4,01:03,71,74,FLA,RO,Herrmann
+58,4,01:03,71,74,FLA,3_Pts_T,Olivinha
+59,4,01:28,71,74,LIM,EN,Bruno Fiorotto
+60,4,01:28,69,74,LIM,AS,Ronald Ramon
+61,4,01:39,69,74,LIM,RD,Ronald Ramon
+62,4,01:39,69,74,FLA,2_Pts_T,Laprovittola
+63,4,02:00,69,74,FLA,RD,Meyinsse
+64,4,02:00,69,74,LIM,LL_Pts_T,Bruno Fiorotto
+65,4,02:02,69,74,LIM,2_Pts_C,Bruno Fiorotto
+66,4,02:02,67,74,LIM,FR,Bruno Fiorotto
+67,4,02:02,67,74,FLA,FC,Herrmann
+68,4,02:15,67,74,FLA,3_Pts_C,Herrmann
+69,4,02:15,67,71,FLA,AS,Marquinhos
+70,4,02:30,67,71,LIM,LL_Pts_C,Ronald Ramon
+71,4,02:30,66,71,LIM,LL_Pts_C,Ronald Ramon
+72,4,02:30,65,71,LIM,FR,Ronald Ramon
+73,4,02:30,65,71,FLA,FC,Laprovittola
+74,4,02:44,65,71,FLA,LL_Pts_C,Olivinha
+75,4,02:44,65,70,FLA,LL_Pts_C,Olivinha
+76,4,02:44,65,69,FLA,substituicao_entra,Herrmann
+77,4,02:44,65,69,FLA,substituicao_sai,Marcelinho
+78,4,02:44,65,69,FLA,FR,Olivinha
+79,4,02:44,65,69,LIM,FC,Bruno Fiorotto
+80,4,02:55,65,69,LIM,2_Pts_C,Bruno Fiorotto
+81,4,02:55,63,69,LIM,AS,Rafael Mineiro
+82,4,03:11,63,69,LIM,BR,Rafael Mineiro
+83,4,03:11,63,69,FLA,ER,Meyinsse
+84,4,03:40,63,69,FLA,tempo_tecnico,Flamengo
+85,4,03:40,63,69,LIM,2_Pts_C,Bruno Fiorotto
+86,4,03:40,61,69,LIM,RO,Bruno Fiorotto
+87,4,03:40,61,69,LIM,2_Pts_T,Nezinho
+88,4,03:44,61,69,LIM,RD,Limeira
+89,4,03:44,61,69,FLA,3_Pts_T,Marcelinho
+90,4,03:59,61,69,LIM,2_Pts_C,David Jackson
+91,4,04:09,59,69,LIM,BR,David Jackson
+92,4,04:09,59,69,FLA,ER,Marcelinho
+93,4,04:14,59,69,FLA,RO,Marcelinho
+94,4,04:14,59,69,FLA,3_Pts_T,Marquinhos
+95,4,04:32,59,69,LIM,substituicao_entra,Rafael Mineiro
+96,4,04:32,59,69,LIM,substituicao_sai,Hayes
+97,4,04:32,59,69,FLA,FR,Olivinha
+98,4,04:32,59,69,LIM,FC,Bruno Fiorotto
+99,4,04:36,59,69,FLA,RD,Olivinha
+100,4,04:36,59,69,LIM,2_Pts_T,Bruno Fiorotto
+101,4,04:51,59,69,FLA,2_Pts_C,Olivinha
+102,4,05:16,59,67,FLA,RD,Marquinhos
+103,4,05:16,59,67,LIM,2_Pts_T,Hayes
+104,4,05:28,59,67,LIM,RO,David Jackson
+105,4,05:28,59,67,LIM,3_Pts_T,Ronald Ramon
+106,4,05:40,59,67,FLA,2_Pts_C,Olivinha
+107,4,05:43,59,65,FLA,RO,Olivinha
+108,4,05:43,59,65,FLA,2_Pts_T,Marquinhos
+109,4,05:57,59,65,FLA,RD,Olivinha
+110,4,05:57,59,65,LIM,2_Pts_T,Bruno Fiorotto
+111,4,06:01,59,65,LIM,RO,Bruno Fiorotto
+112,4,06:01,59,65,LIM,3_Pts_T,Nezinho
+113,4,06:11,59,65,FLA,substituicao_entra,Meyinsse
+114,4,06:11,59,65,FLA,substituicao_sai,Felicio
+115,4,06:11,59,65,LIM,FR,Ronald Ramon
+116,4,06:11,59,65,FLA,FC,Felicio
+117,4,06:21,59,65,LIM,BR,Ronald Ramon
+118,4,06:21,59,65,FLA,ER,Marcelinho
+119,4,06:29,59,65,FLA,FR,Laprovittola
+120,4,06:29,59,65,LIM,FC,Hayes
+121,4,06:41,59,65,FLA,RD,Laprovittola
+122,4,06:41,59,65,LIM,3_Pts_T,Hayes
+123,4,07:02,59,65,FLA,AS,Marcelinho
+124,4,07:02,59,65,FLA,LL_Pts_C,Marquinhos
+125,4,07:02,59,64,FLA,LL_Pts_C,Marquinhos
+126,4,07:02,59,63,LIM,tempo_tecnico,Limeira
+127,4,07:02,59,63,FLA,FR,Marquinhos
+128,4,07:02,59,63,LIM,FC,Hayes
+129,4,07:02,59,63,LIM,substituicao_entra,Bruno Fiorotto
+130,4,07:02,59,63,LIM,substituicao_sai,Rafael Mineiro
+131,4,07:02,59,63,FLA,FR,Felicio
+132,4,07:02,59,63,LIM,FC,Rafael Mineiro
+133,4,07:09,59,63,FLA,RO,Felicio
+134,4,07:09,59,63,FLA,3_Pts_T,Laprovittola
+135,4,07:31,59,63,FLA,RD,Marquinhos
+136,4,07:31,59,63,LIM,3_Pts_T,Hayes
+137,4,07:46,59,63,LIM,substituicao_entra,Nezinho
+138,4,07:46,59,63,LIM,substituicao_sai,Deryk
+139,4,07:46,59,63,LIM,FR,David Jackson
+140,4,07:46,59,63,FLA,FC,Marcelinho
+141,4,08:02,59,63,FLA,3_Pts_C,Marcelinho
+142,4,08:02,59,60,FLA,AS,Laprovittola
+143,4,08:11,59,60,FLA,RD,Felicio
+144,4,08:11,59,60,LIM,2_Pts_T,Ronald Ramon
+145,4,08:28,59,60,LIM,FR,Rafael Mineiro
+146,4,08:28,59,60,FLA,FC,Felicio
+147,4,08:31,59,60,LIM,substituicao_entra,David Jackson
+148,4,08:31,59,60,LIM,substituicao_sai,Matheus Dalla
+149,4,08:31,59,60,LIM,FR,Ronald Ramon
+150,4,08:31,59,60,FLA,FC,Felicio
+151,4,08:48,59,60,FLA,2_Pts_C,Laprovittola
+152,4,09:00,59,58,FLA,RD,Laprovittola
+153,4,09:00,59,58,LIM,2_Pts_T,Rafael Mineiro
+154,4,09:15,59,58,LIM,RD,Rafael Mineiro
+155,4,09:15,59,58,FLA,2_Pts_T,Olivinha
+156,4,09:18,59,58,FLA,RO,Olivinha
+157,4,09:18,59,58,FLA,2_Pts_T,Olivinha
+158,4,09:26,59,58,FLA,BR,Laprovittola
+159,4,09:26,59,58,LIM,ER,Deryk
+160,4,09:49,59,58,FLA,2_Pts_C,Marquinhos
+161,4,09:49,59,56,FLA,AS,Laprovittola
+162,3,00:00,59,56, ,fim_quarto,
+163,3,00:01,59,56,LIM,substituicao_entra,Hayes
+164,3,00:01,59,56,LIM,substituicao_sai,Nezinho
+165,3,00:01,59,56,LIM,LL_Pts_C,David Jackson
+166,3,00:01,58,56,LIM,LL_Pts_T,David Jackson
+167,3,00:01,58,56,LIM,FR,David Jackson
+168,3,00:01,58,56,FLA,FC,Marquinhos
+169,3,00:09,58,56,FLA,substituicao_entra,Benite
+170,3,00:09,58,56,FLA,substituicao_sai,Herrmann
+171,3,00:09,58,56,LIM,substituicao_entra,Nezinho
+172,3,00:09,58,56,LIM,substituicao_entra,David Jackson
+173,3,00:09,58,56,LIM,substituicao_sai,Hayes
+174,3,00:09,58,56,LIM,substituicao_sai,Teichmann
+175,3,00:13,58,56,FLA,LL_Pts_C,Herrmann
+176,3,00:13,58,55,FLA,AS,Marquinhos
+177,3,00:15,58,55,FLA,2_Pts_C,Herrmann
+178,3,00:15,58,53,FLA,FR,Herrmann
+179,3,00:15,58,53,LIM,FC,Teichmann
+180,3,00:30,58,53,LIM,substituicao_entra,Teichmann
+181,3,00:30,58,53,LIM,substituicao_sai,David Jackson
+182,3,00:30,58,53,LIM,ER,
+183,3,00:37,58,53,LIM,RO,David Jackson
+184,3,00:37,58,53,FLA,TO,Felicio
+185,3,00:37,58,53,LIM,2_Pts_T,David Jackson
+186,3,00:52,58,53,LIM,RD,Limeira
+187,3,00:52,58,53,FLA,2_Pts_T,Gegê
+188,3,00:53,58,53,LIM,substituicao_entra,David Jackson
+189,3,00:53,58,53,LIM,substituicao_sai,Teichmann
+190,3,01:15,58,53,FLA,BR,Flamengo
+191,3,01:15,58,53,LIM,ER,Deryk
+192,3,01:39,58,53,FLA,2_Pts_C,Felicio
+193,3,01:43,58,51,FLA,RO,Felicio
+194,3,01:43,58,51,FLA,2_Pts_T,Herrmann
+195,3,02:04,58,51,LIM,2_Pts_C,Hayes
+196,3,02:04,56,51,LIM,AS,Ronald Ramon
+197,3,02:19,56,51,FLA,substituicao_entra,Felicio
+198,3,02:19,56,51,FLA,substituicao_sai,Meyinsse
+199,3,02:19,56,51,FLA,substituicao_entra,Marcelinho
+200,3,02:19,56,51,FLA,substituicao_sai,Laprovittola
+201,3,02:19,56,51,FLA,LL_Pts_C,Laprovittola
+202,3,02:19,56,50,FLA,LL_Pts_C,Laprovittola
+203,3,02:19,56,49,FLA,substituicao_entra,Herrmann
+204,3,02:19,56,49,FLA,substituicao_sai,Olivinha
+205,3,02:19,56,49,FLA,FR,Laprovittola
+206,3,02:19,56,49,LIM,FC,Deryk
+207,3,02:21,56,49,FLA,BR,Laprovittola
+208,3,02:21,56,49,LIM,ER,Ronald Ramon
+209,3,02:37,56,49,LIM,RD,Ronald Ramon
+210,3,02:37,56,49,FLA,3_Pts_T,Gegê
+211,3,03:03,56,49,LIM,2_Pts_C,Deryk
+212,3,03:12,54,49,LIM,RD,Ronald Ramon
+213,3,03:12,54,49,FLA,2_Pts_T,Meyinsse
+214,3,03:33,54,49,FLA,RD,Marquinhos
+215,3,03:33,54,49,LIM,LL_Pts_T,Teichmann
+216,3,03:33,54,49,LIM,LL_Pts_T,Teichmann
+217,3,03:36,54,49,LIM,FR,Teichmann
+218,3,03:36,54,49,FLA,FC,Meyinsse
+219,3,03:55,54,49,FLA,LL_Pts_C,Olivinha
+220,3,03:55,54,48,FLA,LL_Pts_C,Olivinha
+221,3,03:55,54,47,LIM,substituicao_entra,Matheus Dalla
+222,3,03:55,54,47,LIM,substituicao_sai,David Jackson
+223,3,03:55,54,47,LIM,substituicao_entra,Teichmann
+224,3,03:55,54,47,LIM,substituicao_sai,Bruno Fiorotto
+225,3,03:58,54,47,FLA,FR,Olivinha
+226,3,03:58,54,47,LIM,FC,Bruno Fiorotto
+227,3,04:17,54,47,FLA,RD,Olivinha
+228,3,04:17,54,47,LIM,3_Pts_T,David Jackson
+229,3,04:23,54,47,LIM,FR,David Jackson
+230,3,04:23,54,47,FLA,FC,Laprovittola
+231,3,04:32,54,47,LIM,FR,David Jackson
+232,3,04:32,54,47,FLA,FC,Meyinsse
+233,3,04:43,54,47,LIM,RD,David Jackson
+234,3,04:43,54,47,FLA,3_Pts_T,Laprovittola
+235,3,05:03,54,47,LIM,3_Pts_C,Ronald Ramon
+236,3,05:20,51,47,LIM,BR,Deryk
+237,3,05:20,51,47,FLA,ER,Meyinsse
+238,3,05:30,51,47,FLA,BR,Olivinha
+239,3,05:30,51,47,LIM,ER,Deryk
+240,3,05:46,51,47,FLA,substituicao_entra,Gegê
+241,3,05:46,51,47,FLA,substituicao_sai,Benite
+242,3,05:48,51,47,FLA,ER,Meyinsse
+243,3,06:04,51,47,LIM,substituicao_entra,Deryk
+244,3,06:04,51,47,LIM,substituicao_sai,Nezinho
+245,3,06:04,51,47,FLA,LL_Pts_T,Benite
+246,3,06:04,51,47,LIM,FC_T,Nezinho
+247,3,06:04,51,47,FLA,FR,Benite
+248,3,06:04,51,47,LIM,FC,Nezinho
+249,3,06:07,51,47,FLA,BR,Benite
+250,3,06:07,51,47,LIM,ER,Bruno Fiorotto
+251,3,06:26,51,47,LIM,RD,Bruno Fiorotto
+252,3,06:26,51,47,FLA,3_Pts_T,Benite
+253,3,06:41,51,47,FLA,FR,Laprovittola
+254,3,06:41,51,47,LIM,FC_O,Nezinho
+255,3,06:55,51,47,FLA,2_Pts_C,Benite
+256,3,06:59,51,45,FLA,RO,Benite
+257,3,06:59,51,45,FLA,3_Pts_T,Marquinhos
+258,3,07:11,51,45,LIM,3_Pts_C,Ronald Ramon
+259,3,07:11,48,45,LIM,AS,Nezinho
+260,3,07:16,48,45,LIM,RO,Bruno Fiorotto
+261,3,07:16,48,45,LIM,3_Pts_T,Nezinho
+262,3,07:25,48,45,LIM,BR,Bruno Fiorotto
+263,3,07:25,48,45,FLA,ER,Benite
+264,3,07:36,48,45,LIM,2_Pts_C,Bruno Fiorotto
+265,3,07:36,46,45,LIM,AS,Nezinho
+266,3,07:46,46,45,LIM,FR,Bruno Fiorotto
+267,3,07:46,46,45,FLA,FC,Benite
+268,3,08:05,46,45,LIM,RD,Limeira
+269,3,08:05,46,45,FLA,2_Pts_T,Laprovittola
+270,3,08:20,46,45,LIM,3_Pts_C,Ronald Ramon
+271,3,08:20,43,45,LIM,AS,Nezinho
+272,3,08:36,43,45,FLA,3_Pts_C,Marquinhos
+273,3,08:36,43,42,FLA,AS,Benite
+274,3,08:49,43,42,FLA,BR,Flamengo
+275,3,08:49,43,42,LIM,ER,Nezinho
+276,3,09:05,43,42,FLA,LL_Pts_C,Laprovittola
+277,3,09:05,43,41,FLA,LL_Pts_C,Laprovittola
+278,3,09:06,43,40,FLA,FR,Laprovittola
+279,3,09:06,43,40,LIM,FC,Nezinho
+280,3,09:15,43,40,FLA,RD,Benite
+281,3,09:15,43,40,LIM,2_Pts_T,David Jackson
+282,3,09:30,43,40,FLA,LL_Pts_C,Meyinsse
+283,3,09:30,43,39,FLA,AS,Marquinhos
+284,3,09:30,43,39,FLA,LL_Pts_C,Meyinsse
+285,3,09:30,43,38,FLA,FR,Meyinsse
+286,3,09:30,43,38,LIM,FC,Ronald Ramon
+287,3,09:40,43,38,LIM,2_Pts_C,Hayes
+288,3,09:40,41,38,LIM,AS,David Jackson
+289,2,00:00,41,38, ,fim_quarto,
+290,2,00:00,41,38,FLA,3_Pts_T,Marquinhos
+291,2,00:11,41,38,FLA,RD,Gegê
+292,2,00:11,41,38,LIM,2_Pts_T,David Jackson
+293,2,00:35,41,38,LIM,RD,David Jackson
+294,2,00:35,41,38,FLA,3_Pts_T,Laprovittola
+295,2,00:51,41,38,LIM,2_Pts_C,Hayes
+296,2,01:04,39,38,FLA,2_Pts_C,Laprovittola
+297,2,01:06,39,36,LIM,FR,Hayes
+298,2,01:06,39,36,FLA,FC,Herrmann
+299,2,01:17,39,36,LIM,RO,Hayes
+300,2,01:17,39,36,LIM,2_Pts_T,Rafael Mineiro
+301,2,01:21,39,36,LIM,LL_Pts_C,Hayes
+302,2,01:21,38,36,LIM,LL_Pts_C,Hayes
+303,2,01:31,37,36,FLA,LL_Pts_C,Laprovittola
+304,2,01:35,37,35,FLA,2_Pts_C,Laprovittola
+305,2,01:35,37,33,FLA,FR,Laprovittola
+306,2,01:35,37,33,LIM,FC,Rafael Mineiro
+307,2,01:42,37,33,LIM,substituicao_entra,Rafael Mineiro
+308,2,01:42,37,33,LIM,substituicao_sai,Bruno Fiorotto
+309,2,01:42,37,33,FLA,substituicao_entra,Meyinsse
+310,2,01:42,37,33,FLA,substituicao_sai,Felicio
+311,2,01:42,37,33,FLA,FR,Marquinhos
+312,2,01:42,37,33,LIM,FC,Bruno Fiorotto
+313,2,01:54,37,33,LIM,3_Pts_C,David Jackson
+314,2,01:54,34,33,LIM,AS,Bruno Fiorotto
+315,2,02:08,34,33,FLA,3_Pts_C,Herrmann
+316,2,02:08,34,30,FLA,AS,Laprovittola
+317,2,02:28,34,30,FLA,substituicao_entra,Marquinhos
+318,2,02:28,34,30,FLA,substituicao_sai,Marcelinho
+319,2,02:28,34,30,LIM,LL_Pts_C,David Jackson
+320,2,02:28,33,30,LIM,LL_Pts_C,David Jackson
+321,2,02:28,32,30,LIM,substituicao_entra,Hayes
+322,2,02:28,32,30,LIM,substituicao_sai,Rafael Mineiro
+323,2,02:28,32,30,LIM,FR,David Jackson
+324,2,02:28,32,30,FLA,FC,Felicio
+325,2,02:30,32,30,LIM,FR,Bruno Fiorotto
+326,2,02:30,32,30,FLA,FC_O,Herrmann
+327,2,02:39,32,30,FLA,RO,Herrmann
+328,2,02:39,32,30,FLA,3_Pts_T,Marcelinho
+329,2,03:06,32,30,LIM,3_Pts_C,David Jackson
+330,2,03:28,29,30,FLA,2_Pts_C,Laprovittola
+331,2,03:28,29,28,FLA,AS,Marcelinho
+332,2,03:44,29,28,LIM,3_Pts_C,Ronald Ramon
+333,2,03:44,26,28,LIM,AS,Nezinho
+334,2,03:55,26,28,FLA,3_Pts_C,Herrmann
+335,2,03:55,26,25,FLA,AS,Laprovittola
+336,2,04:03,26,25,FLA,BR,Gegê
+337,2,04:03,26,25,LIM,ER,Nezinho
+338,2,04:21,26,25,FLA,substituicao_entra,Gegê
+339,2,04:21,26,25,FLA,substituicao_sai,Benite
+340,2,04:21,26,25,FLA,2_Pts_C,Laprovittola
+341,2,04:27,26,23,FLA,FR,Herrmann
+342,2,04:27,26,23,LIM,FC,Rafael Mineiro
+343,2,04:39,26,23,FLA,FR,Benite
+344,2,04:39,26,23,LIM,FC,Ronald Ramon
+345,2,04:51,26,23,FLA,tempo_tecnico,Flamengo
+346,2,04:51,26,23,LIM,EN,Bruno Fiorotto
+347,2,04:51,24,23,LIM,AS,Nezinho
+348,2,04:59,24,23,LIM,BR,Limeira
+349,2,04:59,24,23,FLA,ER,Marcelinho
+350,2,05:06,24,23,LIM,EN,Bruno Fiorotto
+351,2,05:25,22,23,LIM,AS,Rafael Mineiro
+352,2,05:50,22,23,FLA,EN,Felicio
+353,2,05:50,22,21,FLA,AS,Marcelinho
+354,2,06:09,22,21,LIM,substituicao_entra,Ronald Ramon
+355,2,06:09,22,21,LIM,substituicao_sai,Deryk
+356,2,06:09,22,21,FLA,substituicao_entra,Laprovittola
+357,2,06:09,22,21,FLA,substituicao_sai,Gegê
+358,2,06:09,22,21,FLA,BR,Flamengo
+359,2,06:09,22,21,LIM,ER,Deryk
+360,2,06:25,22,21,LIM,BR,Limeira
+361,2,06:25,22,21,FLA,ER,Benite
+362,2,06:42,22,21,LIM,2_Pts_C,Bruno Fiorotto
+363,2,06:42,20,21,LIM,AS,Nezinho
+364,2,06:53,20,21,LIM,RO,Limeira
+365,2,06:53,20,21,LIM,3_Pts_T,Deryk
+366,2,07:07,20,21,LIM,RD,David Jackson
+367,2,07:07,20,21,FLA,3_Pts_T,Herrmann
+368,2,07:18,20,21,FLA,BR,Felicio
+369,2,07:18,20,21,LIM,ER,Nezinho
+370,2,07:23,20,21,LIM,FR,Rafael Mineiro
+371,2,07:23,20,21,FLA,FC,Herrmann
+372,2,07:24,20,21,LIM,FR,Bruno Fiorotto
+373,2,07:24,20,21,FLA,FC,Marcelinho
+374,2,07:46,20,21,LIM,FR,Nezinho
+375,2,07:46,20,21,FLA,FC_O,Benite
+376,2,08:09,20,21,FLA,RD,Herrmann
+377,2,08:09,20,21,LIM,3_Pts_T,Nezinho
+378,2,08:27,20,21,LIM,substituicao_entra,Deryk
+379,2,08:27,20,21,LIM,substituicao_sai,Matheus Dalla
+380,2,08:27,20,21,LIM,substituicao_entra,David Jackson
+381,2,08:27,20,21,LIM,substituicao_sai,Deryk
+382,2,08:27,20,21,LIM,substituicao_entra,Bruno Fiorotto
+383,2,08:27,20,21,LIM,substituicao_sai,Teichmann
+384,2,08:28,20,21,LIM,tempo_tecnico,Limeira
+385,2,08:28,20,21,FLA,3_Pts_C,Marcelinho
+386,2,08:28,20,18,FLA,AS,Benite
+387,2,08:34,20,18,FLA,BR,Marcelinho
+388,2,08:34,20,18,LIM,ER,Rafael Mineiro
+389,2,08:55,20,18,FLA,2_Pts_C,Herrmann
+390,2,08:55,20,16,FLA,AS,Benite
+391,2,09:06,20,16,FLA,RO,Felicio
+392,2,09:06,20,16,FLA,2_Pts_T,Herrmann
+393,2,09:10,20,16,FLA,FR,Felicio
+394,2,09:10,20,16,LIM,FC,Teichmann
+395,2,09:28,20,16,FLA,RD,Herrmann
+396,2,09:28,20,16,LIM,2_Pts_T,Deryk
+397,2,09:49,20,16,FLA,2_Pts_C,Benite
+398,2,09:49,20,14,FLA,AS,Marcelinho
+399,1,00:00,20,14, ,fim_quarto,
+400,1,00:00,20,14,LIM,2_Pts_C,Teichmann
+401,1,00:00,18,14,LIM,AS,Nezinho
+402,1,00:01,18,14,LIM,RO,Limeira
+403,1,00:01,18,14,LIM,2_Pts_T,David Jackson
+404,1,00:03,18,14,LIM,substituicao_entra,Teichmann
+405,1,00:03,18,14,LIM,substituicao_sai,Matheus Dalla
+406,1,00:19,18,14,FLA,substituicao_entra,Laprovittola
+407,1,00:19,18,14,FLA,substituicao_sai,Olivinha
+408,1,00:19,18,14,LIM,substituicao_entra,David Jackson
+409,1,00:19,18,14,LIM,substituicao_sai,Teichmann
+410,1,00:19,18,14,FLA,LL_Pts_C,Benite
+411,1,00:19,18,13,FLA,LL_Pts_C,Benite
+412,1,00:19,18,12,FLA,substituicao_entra,Felicio
+413,1,00:19,18,12,FLA,substituicao_sai,Meyinsse
+414,1,00:19,18,12,FLA,FR,Benite
+415,1,00:19,18,12,LIM,FC,Teichmann
+416,1,00:35,18,12,FLA,RD,Flamengo
+417,1,00:35,18,12,LIM,2_Pts_T,Nezinho
+418,1,00:54,18,12,LIM,RD,Limeira
+419,1,00:54,18,12,FLA,3_Pts_T,Benite
+420,1,01:09,18,12,FLA,FR,Herrmann
+421,1,01:09,18,12,LIM,FC,Matheus Dalla
+422,1,01:37,18,12,LIM,substituicao_entra,Teichmann
+423,1,01:37,18,12,LIM,substituicao_sai,Hayes
+424,1,01:37,18,12,LIM,LL_Pts_C,Hayes
+425,1,01:37,17,12,LIM,LL_Pts_C,Hayes
+426,1,01:37,16,12,LIM,substituicao_entra,Matheus Dalla
+427,1,01:37,16,12,LIM,substituicao_entra,Nezinho
+428,1,01:37,16,12,LIM,substituicao_sai,David Jackson
+429,1,01:37,16,12,LIM,substituicao_sai,Ronald Ramon
+430,1,01:37,16,12,LIM,FR,Hayes
+431,1,01:37,16,12,FLA,FC,Olivinha
+432,1,01:44,16,12,FLA,substituicao_entra,Herrmann
+433,1,01:44,16,12,FLA,substituicao_sai,Marquinhos
+434,1,01:44,16,12,FLA,ER,
+435,1,01:59,16,12,FLA,FR,Meyinsse
+436,1,01:59,16,12,LIM,FC,Deryk
+437,1,02:27,16,12,LIM,3_Pts_C,Ronald Ramon
+438,1,02:32,13,12,LIM,RD,Ronald Ramon
+439,1,02:32,13,12,FLA,2_Pts_T,Benite
+440,1,02:47,13,12,FLA,BR,Flamengo
+441,1,02:47,13,12,LIM,ER,Rafael Mineiro
+442,1,03:14,13,12,FLA,3_Pts_C,Marquinhos
+443,1,03:14,13,9,FLA,AS,Benite
+444,1,03:18,13,9,FLA,FR,Meyinsse
+445,1,03:18,13,9,LIM,FC,Hayes
+446,1,03:27,13,9,FLA,BR,Marquinhos
+447,1,03:27,13,9,LIM,ER,Rafael Mineiro
+448,1,03:40,13,9,FLA,substituicao_entra,Gegê
+449,1,03:40,13,9,FLA,substituicao_sai,Laprovittola
+450,1,03:42,13,9,LIM,substituicao_entra,Rafael Mineiro
+451,1,03:42,13,9,LIM,substituicao_sai,Bruno Fiorotto
+452,1,03:42,13,9,LIM,substituicao_entra,Deryk
+453,1,03:42,13,9,LIM,substituicao_sai,Nezinho
+454,1,03:44,13,9,LIM,BR,Limeira
+455,1,03:44,13,9,FLA,ER,Marquinhos
+456,1,03:52,13,9,FLA,RD,Marquinhos
+457,1,03:52,13,9,LIM,2_Pts_T,Hayes
+458,1,04:11,13,9,LIM,RD,Bruno Fiorotto
+459,1,04:11,13,9,FLA,2_Pts_T,Laprovittola
+460,1,04:28,13,9,FLA,RD,Olivinha
+461,1,04:28,13,9,LIM,2_Pts_T,Bruno Fiorotto
+462,1,04:52,13,9,FLA,2_Pts_C,Meyinsse
+463,1,04:52,13,7,FLA,AS,Olivinha
+464,1,05:07,13,7,LIM,LL_Pts_C,David Jackson
+465,1,05:10,12,7,LIM,2_Pts_C,David Jackson
+466,1,05:10,10,7,LIM,FR,David Jackson
+467,1,05:10,10,7,FLA,FC,Laprovittola
+468,1,05:14,10,7,LIM,BR,David Jackson
+469,1,05:14,10,7,FLA,ER,Laprovittola
+470,1,05:19,10,7,FLA,FR,Marquinhos
+471,1,05:19,10,7,LIM,FC,David Jackson
+472,1,05:20,10,7,LIM,LL_Pts_C,Hayes
+473,1,05:23,9,7,LIM,2_Pts_C,Hayes
+474,1,05:23,7,7,LIM,FR,Hayes
+475,1,05:23,7,7,FLA,FC,Marquinhos
+476,1,05:26,7,7,LIM,RO,Hayes
+477,1,05:26,7,7,LIM,2_Pts_T,Hayes
+478,1,05:45,7,7,FLA,2_Pts_C,Laprovittola
+479,1,05:45,7,5,FLA,AS,Marquinhos
+480,1,05:51,7,5,FLA,RD,Marquinhos
+481,1,05:51,7,5,LIM,3_Pts_T,Nezinho
+482,1,06:14,7,5,FLA,3_Pts_C,Benite
+483,1,06:14,7,2,FLA,AS,Laprovittola
+484,1,06:26,7,2,LIM,2_Pts_C,Hayes
+485,1,06:31,5,2,LIM,RO,Hayes
+486,1,06:31,5,2,LIM,2_Pts_T,Hayes
+487,1,06:36,5,2,LIM,BR,Ronald Ramon
+488,1,06:36,5,2,FLA,ER,Marquinhos
+489,1,06:44,5,2,FLA,RD,Marquinhos
+490,1,06:44,5,2,LIM,2_Pts_T,Bruno Fiorotto
+491,1,07:07,5,2,FLA,2_Pts_C,Olivinha
+492,1,07:07,5,0,FLA,AS,Benite
+493,1,07:23,5,0,FLA,BR,Flamengo
+494,1,07:23,5,0,LIM,ER,Nezinho
+495,1,07:41,5,0,LIM,RD,Limeira
+496,1,07:41,5,0,FLA,2_Pts_T,Olivinha
+497,1,07:46,5,0,FLA,RO,Laprovittola
+498,1,07:46,5,0,FLA,2_Pts_T,Laprovittola
+499,1,07:55,5,0,FLA,BR,Benite
+500,1,07:55,5,0,LIM,ER,Nezinho
+501,1,08:06,5,0,LIM,RD,Nezinho
+502,1,08:06,5,0,FLA,2_Pts_T,Meyinsse
+503,1,08:19,5,0,FLA,RD,Laprovittola
+504,1,08:19,5,0,LIM,2_Pts_T,Ronald Ramon
+505,1,08:30,5,0,LIM,FR,Nezinho
+506,1,08:30,5,0,FLA,FC,Laprovittola
+507,1,08:33,5,0,LIM,FR,David Jackson
+508,1,08:33,5,0,FLA,FC,Marquinhos
+509,1,08:39,5,0,LIM,RD,Hayes
+510,1,08:39,5,0,FLA,2_Pts_T,Olivinha
+511,1,08:50,5,0,LIM,EN,Bruno Fiorotto
+512,1,09:21,3,0,LIM,BR,Limeira
+513,1,09:21,3,0,FLA,ER,Meyinsse
+514,1,09:42,3,0,LIM,3_Pts_C,Nezinho
+515,1,09:42,0,0,LIM,AS,Bruno Fiorotto
+516,1,10:00,0,0,FLA,substituicao_entra,Meyinsse
+517,1,10:00,0,0,FLA,substituicao_entra,Olivinha
+518,1,10:00,0,0,FLA,substituicao_entra,Marquinhos
+519,1,10:00,0,0,FLA,substituicao_entra,Benite
+520,1,10:00,0,0,FLA,substituicao_entra,Laprovittola
+521,1,10:00,0,0,LIM,substituicao_entra,Hayes
+522,1,10:00,0,0,LIM,substituicao_entra,David Jackson
+523,1,10:00,0,0,LIM,substituicao_entra,Nezinho
+524,1,10:00,0,0,LIM,substituicao_entra,Bruno Fiorotto
+525,1,10:00,0,0,LIM,substituicao_entra,Ronald Ramon

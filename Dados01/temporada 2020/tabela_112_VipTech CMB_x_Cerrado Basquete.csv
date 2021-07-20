@@ -1,0 +1,537 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,66,74,,fim_partida,
+1,4,00:00,66,74,,fim_quarto,
+2,4,00:01,66,74,CER,3_Pts_T,Paulo
+3,4,00:03,66,74,CER,BR,Paulo
+4,4,00:03,66,74,CMO,ER,M Pajé
+5,4,00:04,66,74,CER,2_Pts_C,Coelho
+6,4,00:09,66,72,CER,BR,Coelho
+7,4,00:09,66,72,CMO,ER,Cook
+8,4,00:10,66,72,CMO,RD,Luizinho
+9,4,00:10,66,72,CER,LL_Pts_T,Alex
+10,4,00:10,66,72,CER,LL_Pts_T,Alex
+11,4,00:10,66,72,CER,FR,Alex
+12,4,00:10,66,72,CMO,FC,Luizinho
+13,4,00:10,66,72,CER,RD,Alex
+14,4,00:14,66,72,CMO,2_Pts_T,Pierotti
+15,4,00:20,66,72,CER,LL_Pts_C,Paulo
+16,4,00:20,66,71,CER,LL_Pts_T,Paulo
+17,4,00:20,66,71,CMO,substituicao_entra,Frierson
+18,4,00:20,66,71,CMO,substituicao_sai,Brito
+19,4,00:20,66,71,CER,FR,Paulo
+20,4,00:20,66,71,CMO,FC,Pierotti
+21,4,00:25,66,71,CMO,LL_Pts_C,Luizinho
+22,4,00:25,65,71,CMO,FR,Luizinho
+23,4,00:25,65,71,CER,FC,Alex
+24,4,00:25,65,71,CMO,2_Pts_C,Luizinho
+25,4,00:25,63,71,CMO,RO,Luizinho
+26,4,00:25,63,71,CMO,2_Pts_T,Cook
+27,4,00:33,63,71,CMO,RD,M Pajé
+28,4,00:33,63,71,CER,LL_Pts_T,D Nunes
+29,4,00:33,63,71,CER,LL_Pts_C,D Nunes
+30,4,00:33,63,70,CER,FR,D Nunes
+31,4,00:33,63,70,CMO,FC,Cook
+32,4,00:36,63,70,CMO,2_Pts_C,Cook
+33,4,00:42,61,70,CER,LL_Pts_C,D Nunes
+34,4,00:42,61,69,CER,LL_Pts_C,D Nunes
+35,4,00:42,61,68,CER,FR,D Nunes
+36,4,00:42,61,68,CMO,FC,M Pajé
+37,4,00:44,61,68,CMO,LL_Pts_C,Pierotti
+38,4,00:44,60,68,CMO,LL_Pts_T,Pierotti
+39,4,00:44,60,68,CMO,substituicao_entra,Luizinho
+40,4,00:44,60,68,CMO,substituicao_entra,Brito
+41,4,00:44,60,68,CMO,substituicao_sai,Tom
+42,4,00:44,60,68,CMO,substituicao_sai,Frierson
+43,4,00:44,60,68,CMO,FR,Pierotti
+44,4,00:44,60,68,CER,FC,Alex
+45,4,00:47,60,68,CER,AS,Coelho
+46,4,00:47,60,68,CER,2_Pts_C,Von Haydin
+47,4,01:05,60,66,CER,RD,Paulo
+48,4,01:08,60,66,CMO,3_Pts_T,Pierotti
+49,4,01:10,60,66,CMO,FR,Tom
+50,4,01:10,60,66,CER,FC,Coelho
+51,4,01:18,60,66,CMO,substituicao_entra,Tom
+52,4,01:18,60,66,CMO,substituicao_entra,Frierson
+53,4,01:18,60,66,CMO,substituicao_sai,Pezão
+54,4,01:18,60,66,CMO,substituicao_sai,Luizinho
+55,4,01:18,60,66,CMO,tempo_tecnico,Campo Mourão
+56,4,01:18,60,66,CER,AS,Coelho
+57,4,01:18,60,66,CER,3_Pts_C,Von Haydin
+58,4,01:38,60,63,CER,FR,Coelho
+59,4,01:38,60,63,CMO,ER,Pezão
+60,4,01:38,60,63,CMO,FC_O,Pezão
+61,4,01:42,60,63,CMO,FR,Pierotti
+62,4,01:42,60,63,CER,FC,Paulo
+63,4,01:53,60,63,CER,AS,Von Haydin
+64,4,01:53,60,63,CER,2_Pts_C,D Nunes
+65,4,02:03,60,61,CMO,substituicao_entra,Pezão
+66,4,02:03,60,61,CMO,substituicao_sai,Tom
+67,4,02:03,60,61,CER,tempo_tecnico,Cerrado Basquete
+68,4,02:03,60,61,CMO,ER,Cook
+69,4,02:08,60,61,CER,LL_Pts_C,D Nunes
+70,4,02:08,60,60,CER,LL_Pts_C,D Nunes
+71,4,02:08,60,59,CER,FR,D Nunes
+72,4,02:08,60,59,CMO,FC,M Pajé
+73,4,02:10,60,59,CER,RD,D Nunes
+74,4,02:10,60,59,CMO,3_Pts_T,Cook
+75,4,02:30,60,59,CMO,tempo_tecnico,Campo Mourão
+76,4,02:30,60,59,CMO,substituicao_entra,Pierotti
+77,4,02:30,60,59,CMO,substituicao_sai,Figueroa
+78,4,02:30,60,59,CMO,FR,Luizinho
+79,4,02:30,60,59,CER,ER,Alex
+80,4,02:30,60,59,CER,FC_O,Alex
+81,4,02:44,60,59,CER,BR,Von Haydin
+82,4,02:44,60,59,CMO,ER,Luizinho
+83,4,02:59,60,59,CMO,RD,Luizinho
+84,4,03:04,60,59,CER,3_Pts_T,Coelho
+85,4,03:12,60,59,CMO,substituicao_entra,Tom
+86,4,03:12,60,59,CMO,substituicao_sai,Lucão
+87,4,03:12,60,59,CER,FR,Coelho
+88,4,03:12,60,59,CMO,FC,Lucão
+89,4,03:22,60,59,CMO,3_Pts_C,Cook
+90,4,03:35,57,59,CER,ER,Alex
+91,4,03:37,57,59,CMO,substituicao_entra,Luizinho
+92,4,03:37,57,59,CMO,substituicao_sai,Pierotti
+93,4,03:37,57,59,CER,RD,Cerrado Basquete
+94,4,03:38,57,59,CMO,2_Pts_T,Cook
+95,4,03:45,57,59,CER,AS,Coelho
+96,4,03:45,57,59,CER,3_Pts_C,D Nunes
+97,4,03:54,57,56,CER,substituicao_entra,D Nunes
+98,4,03:54,57,56,CER,substituicao_entra,Alex
+99,4,03:54,57,56,CER,substituicao_entra,Paulo
+100,4,03:54,57,56,CER,substituicao_sai,Ambrosino
+101,4,03:54,57,56,CER,substituicao_sai,B Fiorotto
+102,4,03:54,57,56,CER,substituicao_sai,Crescenzi
+103,4,03:54,57,56,CMO,substituicao_entra,Figueroa
+104,4,03:54,57,56,CMO,substituicao_entra,Lucão
+105,4,03:54,57,56,CMO,substituicao_sai,Tom
+106,4,03:54,57,56,CMO,substituicao_sai,Luizinho
+107,4,04:21,57,56,CER,FR,Coelho
+108,4,04:21,57,56,CMO,FC,Tom
+109,4,04:28,57,56,CER,RD,Ambrosino
+110,4,04:32,57,56,CMO,2_Pts_T,Pierotti
+111,4,04:47,57,56,CER,AS,B Fiorotto
+112,4,04:47,57,56,CER,2_Pts_C,Ambrosino
+113,4,05:09,57,54,CMO,AS,M Pajé
+114,4,05:09,57,54,CMO,2_Pts_C,Tom
+115,4,05:28,55,54,CER,AS,Coelho
+116,4,05:28,55,54,CER,2_Pts_C,Crescenzi
+117,4,05:45,55,52,CMO,AS,Luizinho
+118,4,05:45,55,52,CMO,2_Pts_C,Tom
+119,4,06:06,53,52,CER,AS,Crescenzi
+120,4,06:06,53,52,CER,2_Pts_C,B Fiorotto
+121,4,06:20,53,50,CMO,2_Pts_C,Tom
+122,4,06:21,51,50,CMO,RO,Tom
+123,4,06:26,51,50,CMO,2_Pts_T,Luizinho
+124,4,06:44,51,50,CMO,RO,M Pajé
+125,4,06:50,51,50,CMO,3_Pts_T,Pierotti
+126,4,07:02,51,50,CER,LL_Pts_C,Ambrosino
+127,4,07:02,51,49,CER,LL_Pts_C,Ambrosino
+128,4,07:02,51,48,CER,FR,Ambrosino
+129,4,07:02,51,48,CMO,FC,M Pajé
+130,4,07:08,51,48,CER,RD,Crescenzi
+131,4,07:12,51,48,CMO,2_Pts_T,M Pajé
+132,4,07:34,51,48,CMO,RD,Tom
+133,4,07:38,51,48,CER,3_Pts_T,Ambrosino
+134,4,07:44,51,48,CER,RD,Ambrosino
+135,4,07:50,51,48,CMO,2_Pts_T,Cook
+136,4,08:02,51,48,CER,AS,Coelho
+137,4,08:02,51,48,CER,2_Pts_C,B Fiorotto
+138,4,08:10,51,46,CER,FR,B Fiorotto
+139,4,08:10,51,46,CMO,ER,Tom
+140,4,08:10,51,46,CMO,FC_O,Tom
+141,4,08:20,51,46,CER,ER,
+142,4,08:24,51,46,CMO,AS,Luizinho
+143,4,08:24,51,46,CMO,LL_Pts_C,Tom
+144,4,08:44,50,46,CMO,LL_Pts_T,Tom
+145,4,09:26,50,46,CMO,FR,Tom
+146,4,09:26,50,46,CER,FC,Ambrosino
+147,4,09:28,50,46,CMO,BR,Pierotti
+148,4,09:28,50,46,CER,ER,Von Haydin
+149,4,09:33,50,46,CER,RD,Cerrado Basquete
+150,4,09:35,50,46,CMO,2_Pts_T,Cook
+151,4,09:36,50,46,CMO,RO,Cook
+152,4,09:39,50,46,CMO,2_Pts_T,Luizinho
+153,4,10:00,50,46,,inicio_quarto,
+154,3,00:00,50,46,,fim_quarto,
+155,3,00:00,50,46,CMO,substituicao_entra,M Pajé
+156,3,00:00,50,46,CMO,substituicao_entra,Luizinho
+157,3,00:00,50,46,CMO,substituicao_sai,Figueroa
+158,3,00:00,50,46,CMO,substituicao_sai,Castellon
+159,3,00:05,50,46,CER,RD,Crescenzi
+160,3,00:08,50,46,CMO,3_Pts_T,Pierotti
+161,3,00:10,50,46,CMO,FR,Cook
+162,3,00:10,50,46,CER,FC,Crescenzi
+163,3,00:13,50,46,CER,substituicao_entra,Coelho
+164,3,00:13,50,46,CER,substituicao_sai,Lucas Lima
+165,3,00:13,50,46,CMO,substituicao_entra,Pierotti
+166,3,00:13,50,46,CMO,substituicao_sai,Luizinho
+167,3,00:14,50,46,CMO,FR,Cook
+168,3,00:14,50,46,CER,FC,Lucas Lima
+169,3,00:30,50,46,CMO,RD,Castellon
+170,3,00:36,50,46,CER,3_Pts_T,Von Haydin
+171,3,00:54,50,46,CMO,2_Pts_C,Luizinho
+172,3,01:06,48,46,CMO,FR,Figueroa
+173,3,01:06,48,46,CER,ER,B Fiorotto
+174,3,01:06,48,46,CER,FC_O,B Fiorotto
+175,3,01:20,48,46,CER,RD,Cerrado Basquete
+176,3,01:21,48,46,CMO,2_Pts_T,Cook
+177,3,01:37,48,46,CER,substituicao_entra,Ambrosino
+178,3,01:37,48,46,CER,substituicao_entra,Von Haydin
+179,3,01:37,48,46,CER,substituicao_sai,D Nunes
+180,3,01:37,48,46,CER,substituicao_sai,Paulo
+181,3,01:37,48,46,CMO,FR,Tom
+182,3,01:37,48,46,CER,ER,B Fiorotto
+183,3,01:37,48,46,CER,FC_O,B Fiorotto
+184,3,01:49,48,46,CMO,3_Pts_C,Cook
+185,3,02:07,45,46,CER,2_Pts_C,Paulo
+186,3,02:32,45,44,CMO,3_Pts_C,Cook
+187,3,02:39,42,44,CMO,RD,Castellon
+188,3,02:43,42,44,CER,2_Pts_T,Paulo
+189,3,02:49,42,44,CMO,substituicao_entra,Cook
+190,3,02:49,42,44,CMO,substituicao_sai,Pierotti
+191,3,02:51,42,44,CER,RD,B Fiorotto
+192,3,02:57,42,44,CER,TO,D Nunes
+193,3,02:57,42,44,CMO,2_Pts_T,Luizinho
+194,3,03:21,42,44,CER,AS,D Nunes
+195,3,03:21,42,44,CER,2_Pts_C,B Fiorotto
+196,3,03:40,42,42,CER,BR,Paulo
+197,3,03:40,42,42,CMO,ER,Pierotti
+198,3,03:52,42,42,CER,substituicao_entra,Lucas Lima
+199,3,03:52,42,42,CER,substituicao_sai,Coelho
+200,3,03:52,42,42,CMO,substituicao_entra,Castellon
+201,3,03:52,42,42,CMO,substituicao_sai,Cook
+202,3,03:52,42,42,CER,LL_Pts_C,Coelho
+203,3,03:52,42,41,CER,AS,Paulo
+204,3,03:52,42,41,CER,LL_Pts_C,Coelho
+205,3,03:52,42,40,CER,substituicao_entra,B Fiorotto
+206,3,03:52,42,40,CER,substituicao_entra,Crescenzi
+207,3,03:52,42,40,CER,substituicao_sai,Von Haydin
+208,3,03:52,42,40,CER,substituicao_sai,Alex
+209,3,03:52,42,40,CMO,substituicao_entra,Luizinho
+210,3,03:52,42,40,CMO,substituicao_sai,M Pajé
+211,3,03:52,42,40,CER,FR,Coelho
+212,3,03:52,42,40,CMO,FC,Cook
+213,3,03:54,42,40,CER,RD,Paulo
+214,3,03:59,42,40,CER,TO,Alex
+215,3,03:59,42,40,CMO,2_Pts_T,Pierotti
+216,3,04:07,42,40,CMO,RD,Pierotti
+217,3,04:11,42,40,CER,2_Pts_T,Paulo
+218,3,04:29,42,40,CMO,AS,M Pajé
+219,3,04:29,42,40,CMO,2_Pts_C,Figueroa
+220,3,04:33,40,40,CMO,RD,M Pajé
+221,3,04:38,40,40,CER,2_Pts_T,Alex
+222,3,04:58,40,40,CMO,2_Pts_C,Pierotti
+223,3,05:10,38,40,CER,ER,D Nunes
+224,3,05:32,38,40,CER,BR,Alex
+225,3,05:32,38,40,CMO,ER,M Pajé
+226,3,05:39,38,40,CMO,RO,M Pajé
+227,3,05:42,38,40,CMO,2_Pts_T,Pierotti
+228,3,06:01,38,40,CMO,substituicao_entra,Tom
+229,3,06:01,38,40,CMO,substituicao_entra,Figueroa
+230,3,06:01,38,40,CMO,substituicao_sai,Lucão
+231,3,06:01,38,40,CMO,substituicao_sai,Luizinho
+232,3,06:01,38,40,CMO,FR,Cook
+233,3,06:01,38,40,CER,ER,D Nunes
+234,3,06:01,38,40,CER,FC_O,D Nunes
+235,3,06:10,38,40,CER,RD,Paulo
+236,3,06:15,38,40,CMO,2_Pts_T,Lucão
+237,3,06:35,38,40,CER,AS,Von Haydin
+238,3,06:35,38,40,CER,2_Pts_C,Paulo
+239,3,06:39,38,38,CER,RD,Von Haydin
+240,3,06:42,38,38,CMO,2_Pts_T,Luizinho
+241,3,06:53,38,38,CMO,RD,M Pajé
+242,3,06:59,38,38,CER,3_Pts_T,Paulo
+243,3,07:09,38,38,CMO,2_Pts_C,Luizinho
+244,3,07:19,36,38,CER,LL_Pts_C,Coelho
+245,3,07:19,36,37,CER,LL_Pts_T,Coelho
+246,3,07:19,36,37,CER,FR,Coelho
+247,3,07:19,36,37,CMO,FC,Pierotti
+248,3,07:23,36,37,CER,RD,Paulo
+249,3,07:26,36,37,CMO,3_Pts_T,Luizinho
+250,3,07:42,36,37,CMO,BR,Pierotti
+251,3,07:42,36,37,CER,ER,Coelho
+252,3,07:45,36,37,CER,RO,Coelho
+253,3,07:49,36,37,CER,3_Pts_T,Paulo
+254,3,08:14,36,37,CMO,2_Pts_C,Lucão
+255,3,08:24,34,37,CMO,RD,Luizinho
+256,3,08:27,34,37,CER,2_Pts_T,Alex
+257,3,08:32,34,37,CER,RD,Alex
+258,3,08:36,34,37,CMO,2_Pts_T,Lucão
+259,3,08:57,34,37,CER,AS,Von Haydin
+260,3,08:57,34,37,CER,2_Pts_C,D Nunes
+261,3,09:12,34,35,CMO,2_Pts_C,Lucão
+262,3,09:13,32,35,CMO,RO,Lucão
+263,3,09:17,32,35,CMO,2_Pts_T,Cook
+264,3,09:21,32,35,CMO,RD,Luizinho
+265,3,09:25,32,35,CER,3_Pts_T,Coelho
+266,3,09:35,32,35,CER,RD,D Nunes
+267,3,09:39,32,35,CMO,3_Pts_T,Cook
+268,3,09:42,32,35,CMO,RD,Luizinho
+269,3,09:47,32,35,CER,3_Pts_T,Von Haydin
+270,3,10:00,32,35,,inicio_quarto,
+271,2,00:00,32,35,,fim_quarto,
+272,2,00:00,32,35,CMO,3_Pts_T,M Pajé
+273,2,00:00,32,35,CER,substituicao_entra,Ambrosino
+274,2,00:00,32,35,CER,substituicao_entra,Luis
+275,2,00:00,32,35,CER,substituicao_sai,Crescenzi
+276,2,00:00,32,35,CER,substituicao_sai,Lucas Lima
+277,2,00:00,32,35,CMO,substituicao_entra,Cook
+278,2,00:00,32,35,CMO,substituicao_entra,Castellon
+279,2,00:00,32,35,CMO,substituicao_entra,Frierson
+280,2,00:00,32,35,CMO,substituicao_sai,Figueroa
+281,2,00:00,32,35,CMO,substituicao_sai,Lucão
+282,2,00:00,32,35,CMO,substituicao_sai,Luizinho
+283,2,00:00,32,35,CMO,FR,Pierotti
+284,2,00:00,32,35,CER,FC,Lucas Lima
+285,2,00:09,32,35,CER,AS,Crescenzi
+286,2,00:09,32,35,CER,3_Pts_C,Von Haydin
+287,2,00:22,32,32,CMO,AS,Figueroa
+288,2,00:22,32,32,CMO,2_Pts_C,Lucão
+289,2,00:31,30,32,CMO,BR,M Pajé
+290,2,00:31,30,32,CER,ER,Sérgio
+291,2,00:47,30,32,CMO,2_Pts_C,Pierotti
+292,2,00:53,28,32,CMO,FR,Pierotti
+293,2,00:53,28,32,CER,FC,Sérgio
+294,2,01:13,28,32,CER,ER,Lucas Lima
+295,2,01:33,28,32,CER,substituicao_entra,D Nunes
+296,2,01:33,28,32,CER,substituicao_sai,Ambrosino
+297,2,01:33,28,32,CMO,substituicao_entra,Figueroa
+298,2,01:33,28,32,CMO,substituicao_sai,Cook
+299,2,01:33,28,32,CER,tempo_tecnico,Cerrado Basquete
+300,2,01:33,28,32,CMO,AS,Luizinho
+301,2,01:33,28,32,CMO,EN,Cook
+302,2,01:37,26,32,CMO,BR,Luizinho
+303,2,01:37,26,32,CER,ER,Sérgio
+304,2,01:46,26,32,CER,RD,Sérgio
+305,2,01:49,26,32,CMO,2_Pts_T,Luizinho
+306,2,02:07,26,32,CER,LL_Pts_C,Von Haydin
+307,2,02:07,26,31,CER,LL_Pts_C,Von Haydin
+308,2,02:07,26,30,CER,FR,Von Haydin
+309,2,02:07,26,30,CMO,FC,Luizinho
+310,2,02:19,26,30,CMO,AS,Luizinho
+311,2,02:19,26,30,CMO,3_Pts_C,Cook
+312,2,02:36,23,30,CMO,BR,Pierotti
+313,2,02:36,23,30,CER,ER,Lucas Lima
+314,2,02:43,23,30,CER,substituicao_entra,Von Haydin
+315,2,02:43,23,30,CER,substituicao_sai,Coelho
+316,2,02:43,23,30,CMO,2_Pts_C,Lucão
+317,2,02:44,21,30,CMO,RO,Lucão
+318,2,02:47,21,30,CMO,2_Pts_T,M Pajé
+319,2,03:06,21,30,CMO,RD,M Pajé
+320,2,03:11,21,30,CER,2_Pts_T,Coelho
+321,2,03:32,21,30,CER,FR,Ambrosino
+322,2,03:32,21,30,CMO,FC,M Pajé
+323,2,03:41,21,30,CER,substituicao_entra,Sérgio
+324,2,03:41,21,30,CER,substituicao_sai,B Fiorotto
+325,2,03:41,21,30,CER,tempo_tecnico,Cerrado Basquete
+326,2,03:41,21,30,CMO,AS,Luizinho
+327,2,03:41,21,30,CMO,2_Pts_C,Cook
+328,2,04:06,19,30,CER,ER,B Fiorotto
+329,2,04:27,19,30,CMO,AS,M Pajé
+330,2,04:27,19,30,CMO,2_Pts_C,Cook
+331,2,04:28,17,30,CMO,RO,M Pajé
+332,2,04:32,17,30,CMO,3_Pts_T,Cook
+333,2,04:45,17,30,CER,AS,Coelho
+334,2,04:45,17,30,CER,LL_Pts_C,Crescenzi
+335,2,04:45,17,29,CER,LL_Pts_T,Crescenzi
+336,2,04:45,17,29,CER,substituicao_entra,Lucas Lima
+337,2,04:45,17,29,CER,substituicao_sai,Paulo
+338,2,04:45,17,29,CER,FR,Crescenzi
+339,2,04:45,17,29,CMO,FC,Cook
+340,2,05:08,17,29,CMO,AS,M Pajé
+341,2,05:08,17,29,CMO,2_Pts_C,Lucão
+342,2,05:18,15,29,CMO,RD,Lucão
+343,2,05:23,15,29,CER,3_Pts_T,Ambrosino
+344,2,05:25,15,29,CER,FR,B Fiorotto
+345,2,05:25,15,29,CMO,FC,Lucão
+346,2,05:38,15,29,CER,RD,B Fiorotto
+347,2,05:42,15,29,CMO,3_Pts_T,Pierotti
+348,2,06:03,15,29,CMO,tempo_tecnico,Campo Mourão
+349,2,06:03,15,29,CER,2_Pts_C,Coelho
+350,2,06:07,15,27,CER,BR,Coelho
+351,2,06:07,15,27,CMO,ER,Pierotti
+352,2,06:13,15,27,CER,substituicao_entra,Crescenzi
+353,2,06:13,15,27,CER,substituicao_sai,Von Haydin
+354,2,06:13,15,27,CER,substituicao_entra,Ambrosino
+355,2,06:13,15,27,CER,substituicao_entra,B Fiorotto
+356,2,06:13,15,27,CER,substituicao_sai,D Nunes
+357,2,06:13,15,27,CER,substituicao_sai,Alex
+358,2,06:13,15,27,CMO,substituicao_entra,Cook
+359,2,06:13,15,27,CMO,substituicao_entra,M Pajé
+360,2,06:13,15,27,CMO,substituicao_sai,Figueroa
+361,2,06:13,15,27,CMO,substituicao_sai,Magna
+362,2,06:13,15,27,CMO,FR,Pierotti
+363,2,06:13,15,27,CER,FC,D Nunes
+364,2,06:14,15,27,CMO,RD,Lucão
+365,2,06:18,15,27,CER,2_Pts_T,Coelho
+366,2,06:35,15,27,CER,RD,Alex
+367,2,06:39,15,27,CMO,3_Pts_T,Pierotti
+368,2,06:50,15,27,CER,2_Pts_C,Paulo
+369,2,06:57,15,25,CER,RD,Coelho
+370,2,07:01,15,25,CMO,2_Pts_T,Magna
+371,2,07:21,15,25,CER,2_Pts_C,Coelho
+372,2,07:45,15,23,CER,RD,D Nunes
+373,2,07:45,15,23,CMO,LL_Pts_T,Luizinho
+374,2,07:45,15,23,CMO,LL_Pts_T,Luizinho
+375,2,07:45,15,23,CMO,substituicao_entra,Lucão
+376,2,07:45,15,23,CMO,substituicao_sai,Pezão
+377,2,07:45,15,23,CMO,FR,Luizinho
+378,2,07:45,15,23,CER,FC,Alex
+379,2,07:53,15,23,CMO,BR,Luizinho
+380,2,07:53,15,23,CER,ER,Coelho
+381,2,08:11,15,23,CER,BR,Paulo
+382,2,08:11,15,23,CMO,ER,Pezão
+383,2,08:30,15,23,CMO,substituicao_entra,Luizinho
+384,2,08:30,15,23,CMO,substituicao_entra,Pierotti
+385,2,08:30,15,23,CMO,substituicao_sai,Castellon
+386,2,08:30,15,23,CMO,substituicao_sai,Frierson
+387,2,08:30,15,23,CMO,tempo_tecnico,Campo Mourão
+388,2,08:30,15,23,CER,AS,Coelho
+389,2,08:30,15,23,CER,EN,D Nunes
+390,2,08:35,15,21,CER,BR,Coelho
+391,2,08:35,15,21,CMO,ER,Figueroa
+392,2,08:50,15,21,CER,AS,Coelho
+393,2,08:50,15,21,CER,3_Pts_C,Paulo
+394,2,08:54,15,18,CER,RD,D Nunes
+395,2,08:57,15,18,CMO,3_Pts_T,Frierson
+396,2,09:03,15,18,CMO,RD,Pezão
+397,2,09:07,15,18,CER,3_Pts_T,D Nunes
+398,2,09:11,15,18,CER,RD,Paulo
+399,2,09:15,15,18,CMO,3_Pts_T,Frierson
+400,2,09:34,15,18,CER,AS,Paulo
+401,2,09:34,15,18,CER,3_Pts_C,Von Haydin
+402,2,09:51,15,15,CER,FR,Von Haydin
+403,2,09:51,15,15,CMO,ER,Pezão
+404,2,09:51,15,15,CMO,FC_O,Pezão
+405,2,10:00,15,15,,inicio_quarto,
+406,1,00:00,15,15,,fim_quarto,
+407,1,00:02,15,15,CER,AS,Coelho
+408,1,00:02,15,15,CER,3_Pts_C,Alex
+409,1,00:15,15,12,CER,FR,Coelho
+410,1,00:15,15,12,CMO,FC,Figueroa
+411,1,00:30,15,12,CER,RD,Cerrado Basquete
+412,1,00:31,15,12,CMO,3_Pts_T,Frierson
+413,1,00:46,15,12,CER,AS,Coelho
+414,1,00:46,15,12,CER,3_Pts_C,D Nunes
+415,1,00:56,15,9,CER,RD,Paulo
+416,1,00:59,15,9,CMO,3_Pts_T,Magna
+417,1,01:14,15,9,CER,LL_Pts_C,Von Haydin
+418,1,01:14,15,8,CER,LL_Pts_C,Von Haydin
+419,1,01:14,15,7,CER,FR,Von Haydin
+420,1,01:14,15,7,CMO,FC,Frierson
+421,1,01:24,15,7,CMO,2_Pts_C,Pezão
+422,1,01:24,13,7,CMO,RO,Pezão
+423,1,01:29,13,7,CMO,2_Pts_T,Pezão
+424,1,01:29,13,7,CMO,RO,Pezão
+425,1,01:33,13,7,CMO,2_Pts_T,Castellon
+426,1,01:39,13,7,CMO,RD,Castellon
+427,1,01:45,13,7,CER,3_Pts_T,Von Haydin
+428,1,01:48,13,7,CER,RD,Paulo
+429,1,01:51,13,7,CMO,2_Pts_T,Pezão
+430,1,02:03,13,7,CER,substituicao_entra,Coelho
+431,1,02:03,13,7,CER,substituicao_sai,Lucas Lima
+432,1,02:03,13,7,CMO,RD,Campo Mourão
+433,1,02:05,13,7,CER,2_Pts_T,Von Haydin
+434,1,02:19,13,7,CER,BR,Lucas Lima
+435,1,02:19,13,7,CMO,ER,Figueroa
+436,1,02:24,13,7,CMO,RD,Frierson
+437,1,02:28,13,7,CER,2_Pts_T,Paulo
+438,1,02:35,13,7,CER,RO,D Nunes
+439,1,02:40,13,7,CER,2_Pts_T,D Nunes
+440,1,03:07,13,7,CMO,3_Pts_C,Castellon
+441,1,03:22,10,7,CMO,substituicao_entra,Magna
+442,1,03:22,10,7,CMO,substituicao_sai,M Pajé
+443,1,03:22,10,7,CMO,FR,Figueroa
+444,1,03:22,10,7,CER,ER,Von Haydin
+445,1,03:22,10,7,CER,FC_O,Von Haydin
+446,1,03:40,10,7,CER,substituicao_entra,Paulo
+447,1,03:40,10,7,CER,substituicao_sai,Crescenzi
+448,1,03:40,10,7,CMO,substituicao_entra,Pezão
+449,1,03:40,10,7,CMO,substituicao_entra,Castellon
+450,1,03:40,10,7,CMO,substituicao_sai,Lucão
+451,1,03:40,10,7,CMO,substituicao_sai,Luizinho
+452,1,03:40,10,7,CMO,ER,Lucão
+453,1,03:48,10,7,CMO,RD,M Pajé
+454,1,03:51,10,7,CER,2_Pts_T,Lucas Lima
+455,1,04:09,10,7,CMO,2_Pts_C,Luizinho
+456,1,04:24,8,7,CMO,substituicao_entra,Frierson
+457,1,04:24,8,7,CMO,substituicao_sai,Cook
+458,1,04:24,8,7,CER,substituicao_entra,Von Haydin
+459,1,04:24,8,7,CER,substituicao_entra,D Nunes
+460,1,04:24,8,7,CER,substituicao_sai,Ambrosino
+461,1,04:24,8,7,CER,substituicao_sai,Paulo
+462,1,04:24,8,7,CMO,substituicao_entra,Figueroa
+463,1,04:24,8,7,CMO,substituicao_sai,Pierotti
+464,1,04:24,8,7,CMO,FR,Pierotti
+465,1,04:24,8,7,CER,FC,Lucas Lima
+466,1,04:28,8,7,CMO,RD,M Pajé
+467,1,04:32,8,7,CER,2_Pts_T,Lucas Lima
+468,1,04:39,8,7,CER,RO,Cerrado Basquete
+469,1,04:41,8,7,CER,3_Pts_T,Crescenzi
+470,1,04:45,8,7,CER,RD,Lucas Lima
+471,1,04:50,8,7,CMO,3_Pts_T,Cook
+472,1,04:52,8,7,CMO,RD,Luizinho
+473,1,04:57,8,7,CER,2_Pts_T,Ambrosino
+474,1,05:10,8,7,CER,RD,Alex
+475,1,05:14,8,7,CMO,2_Pts_T,Lucão
+476,1,05:26,8,7,CER,substituicao_entra,Alex
+477,1,05:26,8,7,CER,substituicao_entra,Lucas Lima
+478,1,05:26,8,7,CER,substituicao_sai,Coelho
+479,1,05:26,8,7,CER,substituicao_sai,Sérgio
+480,1,05:26,8,7,CMO,FR,Pierotti
+481,1,05:26,8,7,CER,ER,Paulo
+482,1,05:26,8,7,CER,FC_O,Paulo
+483,1,05:48,8,7,CMO,AS,Cook
+484,1,05:48,8,7,CMO,2_Pts_C,Lucão
+485,1,06:05,6,7,CER,AS,Coelho
+486,1,06:05,6,7,CER,2_Pts_C,Ambrosino
+487,1,06:13,6,5,CER,BR,Crescenzi
+488,1,06:13,6,5,CMO,ER,Cook
+489,1,06:14,6,5,CMO,FR,Lucão
+490,1,06:14,6,5,CER,FC,Crescenzi
+491,1,06:22,6,5,CMO,RD,Luizinho
+492,1,06:25,6,5,CER,2_Pts_T,Paulo
+493,1,06:25,6,5,CER,RO,Paulo
+494,1,06:28,6,5,CER,3_Pts_T,Crescenzi
+495,1,06:29,6,5,CER,RO,Sérgio
+496,1,06:32,6,5,CER,2_Pts_T,Paulo
+497,1,06:56,6,5,CMO,AS,Cook
+498,1,06:56,6,5,CMO,2_Pts_C,M Pajé
+499,1,07:01,4,5,CMO,RD,Luizinho
+500,1,07:03,4,5,CER,2_Pts_T,Paulo
+501,1,07:28,4,5,CMO,2_Pts_C,Lucão
+502,1,07:42,2,5,CMO,BR,M Pajé
+503,1,07:42,2,5,CER,ER,Sérgio
+504,1,07:51,2,5,CER,RD,Crescenzi
+505,1,07:54,2,5,CMO,3_Pts_T,Pierotti
+506,1,07:56,2,5,CMO,RD,Luizinho
+507,1,07:59,2,5,CER,2_Pts_T,Ambrosino
+508,1,08:15,2,5,CMO,AS,Luizinho
+509,1,08:15,2,5,CMO,2_Pts_C,Pierotti
+510,1,08:21,0,5,CMO,BR,Luizinho
+511,1,08:21,0,5,CER,ER,Ambrosino
+512,1,08:32,0,5,CER,RD,Sérgio
+513,1,08:35,0,5,CMO,2_Pts_T,Cook
+514,1,08:57,0,5,CER,AS,Coelho
+515,1,08:57,0,5,CER,3_Pts_C,Paulo
+516,1,09:04,0,2,CER,FR,Coelho
+517,1,09:04,0,2,CMO,FC,Cook
+518,1,09:10,0,2,CER,RD,Paulo
+519,1,09:14,0,2,CMO,2_Pts_T,Cook
+520,1,09:25,0,2,CMO,BR,M Pajé
+521,1,09:25,0,2,CER,ER,Ambrosino
+522,1,09:30,0,2,CER,BR,Ambrosino
+523,1,09:30,0,2,CMO,ER,Pierotti
+524,1,09:47,0,2,CER,2_Pts_C,Coelho
+525,1,10:00,0,0,CER,substituicao_entra,Ambrosino
+526,1,10:00,0,0,CER,substituicao_entra,Coelho
+527,1,10:00,0,0,CER,substituicao_entra,Crescenzi
+528,1,10:00,0,0,CER,substituicao_entra,Paulo
+529,1,10:00,0,0,CER,substituicao_entra,Sérgio
+530,1,10:00,0,0,CMO,substituicao_entra,Cook
+531,1,10:00,0,0,CMO,substituicao_entra,Lucão
+532,1,10:00,0,0,CMO,substituicao_entra,M Pajé
+533,1,10:00,0,0,CMO,substituicao_entra,Luizinho
+534,1,10:00,0,0,CMO,substituicao_entra,Pierotti
+535,1,10:00,0,0,,inicio_partida,

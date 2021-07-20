@@ -1,0 +1,509 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,70,85,,fim_partida,
+1,4,00:00,70,85,,fim_quarto,
+2,4,00:04,70,85,COR,RD,Corinthians
+3,4,00:04,70,85,SJO,2_Pts_T,Duda
+4,4,00:06,70,85,SJO,RD,São José
+5,4,00:06,70,85,COR,2_Pts_T,Wesley
+6,4,00:19,70,85,COR,RO,Arthur Pecos
+7,4,00:22,70,85,COR,3_Pts_T,Fuller
+8,4,00:43,70,85,SJO,AS,Duda
+9,4,00:43,70,85,SJO,2_Pts_C,Mariani
+10,4,00:46,68,85,SJO,FR,Duda
+11,4,00:46,68,85,COR,FC,Wesley
+12,4,00:55,68,85,COR,AS,Arthur Pecos
+13,4,00:55,68,85,COR,2_Pts_C,Wesley
+14,4,01:19,68,83,SJO,AS,Duda
+15,4,01:19,68,83,SJO,2_Pts_C,Rafael
+16,4,01:29,66,83,COR,LL_Pts_C,Fuller
+17,4,01:29,66,82,COR,LL_Pts_T,Fuller
+18,4,01:29,66,82,COR,substituicao_entra,Douglas Santos
+19,4,01:29,66,82,COR,substituicao_sai,Nesbitt
+20,4,01:29,66,82,COR,FR,Fuller
+21,4,01:29,66,82,SJO,FC,Sérgio
+22,4,01:42,66,82,COR,RD,Wesley
+23,4,01:46,66,82,SJO,2_Pts_T,Duda
+24,4,01:56,66,82,COR,AS,Fuller
+25,4,01:56,66,82,COR,LL_Pts_C,Wesley
+26,4,01:56,66,81,COR,LL_Pts_T,Wesley
+27,4,01:56,66,81,COR,FR,Wesley
+28,4,01:56,66,81,SJO,FC,Sérgio
+29,4,02:06,66,81,COR,substituicao_entra,Robinson
+30,4,02:06,66,81,COR,substituicao_sai,F Vezaro
+31,4,02:06,66,81,COR,RO,F Vezaro
+32,4,02:09,66,81,COR,2_Pts_T,Nesbitt
+33,4,02:25,66,81,COR,RD,Nesbitt
+34,4,02:29,66,81,SJO,2_Pts_T,Rafael
+35,4,02:35,66,81,SJO,RD,Mariani
+36,4,02:37,66,81,COR,3_Pts_T,Wesley
+37,4,02:53,66,81,COR,RD,Fuller
+38,4,02:56,66,81,SJO,2_Pts_T,Sérgio
+39,4,03:06,66,81,COR,2_Pts_C,Fuller
+40,4,03:35,66,79,SJO,AS,Rafael
+41,4,03:35,66,79,SJO,2_Pts_C,Figueredo
+42,4,03:52,64,79,SJO,substituicao_entra,Duda
+43,4,03:52,64,79,SJO,substituicao_sai,Buemo
+44,4,03:52,64,79,SJO,tempo_tecnico,São José
+45,4,03:52,64,79,COR,3_Pts_C,Arthur Pecos
+46,4,03:58,64,76,COR,RD,Wesley
+47,4,04:03,64,76,COR,TO,Wesley
+48,4,04:03,64,76,SJO,2_Pts_T,Buemo
+49,4,04:04,64,76,SJO,RD,Mariani
+50,4,04:08,64,76,COR,2_Pts_T,Arthur Pecos
+51,4,04:33,64,76,SJO,AS,Mariani
+52,4,04:33,64,76,SJO,2_Pts_C,Figueredo
+53,4,04:45,62,76,COR,substituicao_entra,Arthur Pecos
+54,4,04:45,62,76,COR,substituicao_sai,Fischer
+55,4,04:45,62,76,COR,LL_Pts_C,Fischer
+56,4,04:45,62,75,COR,LL_Pts_C,Fischer
+57,4,04:45,62,74,SJO,substituicao_entra,Figueredo
+58,4,04:45,62,74,SJO,substituicao_sai,Eugeniusz
+59,4,04:45,62,74,COR,FR,Fischer
+60,4,04:45,62,74,SJO,FC,Eugeniusz
+61,4,04:58,62,74,COR,FR,Fischer
+62,4,04:58,62,74,SJO,FC,Eugeniusz
+63,4,05:01,62,74,SJO,substituicao_entra,Eugeniusz
+64,4,05:01,62,74,SJO,substituicao_sai,Figueredo
+65,4,05:01,62,74,COR,RO,Fuller
+66,4,05:01,62,74,COR,2_Pts_T,Fuller
+67,4,05:16,62,74,SJO,AS,Buemo
+68,4,05:16,62,74,SJO,3_Pts_C,Mariani
+69,4,05:26,59,74,SJO,BR,Figueredo
+70,4,05:26,59,74,COR,ER,Fischer
+71,4,05:36,59,74,COR,FR,Nesbitt
+72,4,05:36,59,74,SJO,ER,Sérgio
+73,4,05:36,59,74,SJO,FC_O,Sérgio
+74,4,05:50,59,74,SJO,substituicao_entra,Sérgio
+75,4,05:50,59,74,SJO,substituicao_sai,Lupa
+76,4,05:50,59,74,COR,LL_Pts_C,Nesbitt
+77,4,05:50,59,73,COR,FR,Nesbitt
+78,4,05:50,59,73,SJO,FC,Lupa
+79,4,05:50,59,73,COR,AS,Fischer
+80,4,05:50,59,73,COR,EN,Nesbitt
+81,4,06:08,59,71,COR,substituicao_entra,Wesley
+82,4,06:08,59,71,COR,substituicao_sai,Johnson
+83,4,06:08,59,71,SJO,substituicao_entra,Buemo
+84,4,06:08,59,71,SJO,substituicao_sai,Duda
+85,4,06:08,59,71,SJO,ER,Rafael
+86,4,06:17,59,71,COR,2_Pts_C,Fuller
+87,4,06:32,59,69,COR,RD,Johnson
+88,4,06:35,59,69,SJO,2_Pts_T,Mariani
+89,4,06:38,59,69,SJO,FR,Rafael
+90,4,06:38,59,69,COR,FC,Fischer
+91,4,06:41,59,69,SJO,RD,Rafael
+92,4,06:44,59,69,COR,3_Pts_T,F Vezaro
+93,4,06:48,59,69,COR,RO,Nesbitt
+94,4,06:53,59,69,COR,2_Pts_T,Nesbitt
+95,4,07:17,59,69,SJO,2_Pts_C,Figueredo
+96,4,07:29,57,69,SJO,FR,Lupa
+97,4,07:29,57,69,COR,FC,Johnson
+98,4,07:29,57,69,SJO,RD,São José
+99,4,07:29,57,69,COR,2_Pts_T,Johnson
+100,4,07:42,57,69,COR,RO,Fischer
+101,4,07:44,57,69,COR,2_Pts_T,Fischer
+102,4,07:51,57,69,COR,BR,Nesbitt
+103,4,07:51,57,69,SJO,ER,Mariani
+104,4,08:10,57,69,COR,AS,Fuller
+105,4,08:10,57,69,COR,LL_Pts_C,Johnson
+106,4,08:10,57,68,COR,LL_Pts_T,Johnson
+107,4,08:10,57,68,SJO,substituicao_entra,Rafael
+108,4,08:10,57,68,SJO,substituicao_sai,Ambrosino
+109,4,08:10,57,68,COR,FR,Johnson
+110,4,08:10,57,68,SJO,FC,Figueredo
+111,4,08:29,57,68,SJO,2_Pts_C,Figueredo
+112,4,08:50,55,68,COR,2_Pts_C,Fuller
+113,4,09:17,55,66,SJO,AS,Mariani
+114,4,09:17,55,66,SJO,EN,Lupa
+115,4,09:23,53,66,SJO,RD,Mariani
+116,4,09:26,53,66,COR,3_Pts_T,Fischer
+117,4,09:38,53,66,COR,RD,F Vezaro
+118,4,09:41,53,66,SJO,3_Pts_T,Duda
+119,4,10:00,53,66,,inicio_quarto,
+120,3,00:00,53,66,,fim_quarto,
+121,3,00:00,53,66,SJO,3_Pts_T,Buemo
+122,3,00:15,53,66,SJO,FR,Duda
+123,3,00:15,53,66,COR,FC,Teichmann
+124,3,00:15,53,66,COR,substituicao_entra,Arthur Pecos
+125,3,00:15,53,66,COR,substituicao_sai,Douglas Santos
+126,3,00:15,53,66,COR,substituicao_entra,Teichmann
+127,3,00:15,53,66,COR,substituicao_sai,Johnson
+128,3,00:15,53,66,SJO,substituicao_entra,Figueredo
+129,3,00:15,53,66,SJO,substituicao_sai,Lupa
+130,3,00:15,53,66,SJO,substituicao_entra,Duda
+131,3,00:15,53,66,SJO,substituicao_sai,Guga
+132,3,00:15,53,66,SJO,BR,Lupa
+133,3,00:15,53,66,COR,ER,Nesbitt
+134,3,00:34,53,66,COR,RD,Fischer
+135,3,00:37,53,66,SJO,2_Pts_T,Guga
+136,3,00:55,53,66,COR,LL_Pts_C,Nesbitt
+137,3,00:55,53,65,COR,LL_Pts_T,Nesbitt
+138,3,00:55,53,65,COR,substituicao_entra,Douglas Santos
+139,3,00:55,53,65,COR,substituicao_sai,Robinson
+140,3,00:55,53,65,SJO,substituicao_entra,Lupa
+141,3,00:55,53,65,SJO,substituicao_sai,Abner
+142,3,00:55,53,65,COR,FR,Nesbitt
+143,3,00:55,53,65,SJO,FC,Buemo
+144,3,01:08,53,65,COR,RD,Johnson
+145,3,01:12,53,65,SJO,2_Pts_T,Abner
+146,3,01:38,53,65,COR,2_Pts_C,Fuller
+147,3,01:42,53,63,COR,RD,Nesbitt
+148,3,01:47,53,63,SJO,3_Pts_T,L Eltink
+149,3,01:49,53,63,SJO,substituicao_entra,Guga
+150,3,01:49,53,63,SJO,substituicao_sai,Mariani
+151,3,02:20,53,63,COR,LL_Pts_C,Nesbitt
+152,3,02:20,53,62,COR,AS,Fischer
+153,3,02:20,53,62,COR,LL_Pts_C,Nesbitt
+154,3,02:20,53,61,SJO,substituicao_entra,L Eltink
+155,3,02:20,53,61,SJO,substituicao_sai,Figueredo
+156,3,02:20,53,61,COR,FR,Nesbitt
+157,3,02:20,53,61,SJO,FC,Abner
+158,3,02:38,53,61,SJO,3_Pts_C,Buemo
+159,3,02:52,50,61,COR,substituicao_entra,Fuller
+160,3,02:52,50,61,COR,substituicao_sai,Arthur Pecos
+161,3,02:52,50,61,COR,substituicao_entra,Fischer
+162,3,02:52,50,61,COR,substituicao_sai,F Vezaro
+163,3,02:54,50,61,SJO,FR,Figueredo
+164,3,02:54,50,61,COR,FC,F Vezaro
+165,3,03:04,50,61,SJO,RD,Figueredo
+166,3,03:07,50,61,COR,2_Pts_T,Arthur Pecos
+167,3,03:23,50,61,COR,RD,Nesbitt
+168,3,03:26,50,61,SJO,2_Pts_T,Mariani
+169,3,03:38,50,61,COR,AS,Nesbitt
+170,3,03:38,50,61,COR,2_Pts_C,Arthur Pecos
+171,3,03:43,50,59,COR,FR,F Vezaro
+172,3,03:43,50,59,SJO,FC,Buemo
+173,3,03:44,50,59,COR,RD,F Vezaro
+174,3,03:48,50,59,SJO,3_Pts_T,Mariani
+175,3,04:03,50,59,SJO,substituicao_entra,Ambrosino
+176,3,04:03,50,59,SJO,substituicao_sai,Rafael
+177,3,04:03,50,59,SJO,tempo_tecnico,São José
+178,3,04:05,50,59,COR,AS,Arthur Pecos
+179,3,04:05,50,59,COR,2_Pts_C,Johnson
+180,3,04:18,50,57,SJO,substituicao_entra,Buemo
+181,3,04:18,50,57,SJO,substituicao_sai,Duda
+182,3,04:18,50,57,SJO,substituicao_entra,Abner
+183,3,04:18,50,57,SJO,substituicao_sai,Lupa
+184,3,04:18,50,57,COR,FR,Nesbitt
+185,3,04:18,50,57,SJO,FC,Rafael
+186,3,04:18,50,57,COR,RD,Nesbitt
+187,3,04:19,50,57,SJO,3_Pts_T,Duda
+188,3,04:29,50,57,COR,AS,F Vezaro
+189,3,04:29,50,57,COR,3_Pts_C,Robinson
+190,3,04:33,50,54,COR,RD,F Vezaro
+191,3,04:37,50,54,SJO,2_Pts_T,Lupa
+192,3,04:39,50,54,SJO,RO,Lupa
+193,3,04:46,50,54,COR,TO,Nesbitt
+194,3,04:46,50,54,SJO,2_Pts_T,Rafael
+195,3,05:02,50,54,COR,AS,Robinson
+196,3,05:02,50,54,COR,EN,Johnson
+197,3,05:08,50,52,COR,RD,Robinson
+198,3,05:11,50,52,SJO,2_Pts_T,Lupa
+199,3,05:22,50,52,COR,ER,Johnson
+200,3,05:22,50,52,COR,RD,Johnson
+201,3,05:23,50,52,SJO,3_Pts_T,Duda
+202,3,05:41,50,52,COR,AS,Arthur Pecos
+203,3,05:41,50,52,COR,EN,Johnson
+204,3,05:51,50,50,COR,FR,F Vezaro
+205,3,05:51,50,50,SJO,FC,Duda
+206,3,05:56,50,50,SJO,2_Pts_C,Figueredo
+207,3,05:56,48,50,SJO,RO,Figueredo
+208,3,06:01,48,50,SJO,2_Pts_T,Rafael
+209,3,06:09,48,50,SJO,BR,Figueredo
+210,3,06:09,48,50,COR,ER,Johnson
+211,3,06:30,48,50,SJO,AS,Figueredo
+212,3,06:30,48,50,SJO,2_Pts_C,Rafael
+213,3,06:43,46,50,COR,AS,Robinson
+214,3,06:43,46,50,COR,3_Pts_C,F Vezaro
+215,3,06:55,46,47,SJO,LL_Pts_C,Rafael
+216,3,06:55,45,47,SJO,AS,Figueredo
+217,3,06:55,45,47,SJO,LL_Pts_C,Rafael
+218,3,06:55,44,47,COR,substituicao_entra,Nesbitt
+219,3,06:55,44,47,COR,substituicao_sai,Wesley
+220,3,06:55,44,47,COR,substituicao_entra,Johnson
+221,3,06:55,44,47,COR,substituicao_sai,Teichmann
+222,3,06:55,44,47,SJO,FR,Rafael
+223,3,06:55,44,47,COR,FC,Robinson
+224,3,06:56,44,47,SJO,RD,Figueredo
+225,3,06:59,44,47,COR,3_Pts_T,F Vezaro
+226,3,07:21,44,47,SJO,AS,Figueredo
+227,3,07:21,44,47,SJO,2_Pts_C,Lupa
+228,3,07:30,42,47,COR,AS,Teichmann
+229,3,07:30,42,47,COR,2_Pts_C,Robinson
+230,3,07:56,42,45,SJO,AS,Duda
+231,3,07:56,42,45,SJO,2_Pts_C,Lupa
+232,3,07:57,40,45,SJO,FR,Mariani
+233,3,07:57,40,45,COR,FC,Wesley
+234,3,08:17,40,45,COR,ER,Teichmann
+235,3,08:34,40,45,COR,RD,Arthur Pecos
+236,3,08:36,40,45,SJO,3_Pts_T,Duda
+237,3,09:02,40,45,COR,AS,Teichmann
+238,3,09:02,40,45,COR,2_Pts_C,F Vezaro
+239,3,09:24,40,43,SJO,AS,Duda
+240,3,09:24,40,43,SJO,2_Pts_C,Figueredo
+241,3,09:40,38,43,COR,AS,Arthur Pecos
+242,3,09:40,38,43,COR,3_Pts_C,F Vezaro
+243,3,10:00,38,40,,inicio_quarto,
+244,2,00:00,38,40,,fim_quarto,
+245,2,00:02,38,40,COR,AS,Robinson
+246,2,00:02,38,40,COR,3_Pts_C,F Vezaro
+247,2,00:02,38,37,COR,substituicao_entra,Teichmann
+248,2,00:02,38,37,COR,substituicao_sai,Arthur Pecos
+249,2,00:02,38,37,SJO,substituicao_entra,Sérgio
+250,2,00:02,38,37,SJO,substituicao_sai,Guga
+251,2,00:02,38,37,COR,FR,Arthur Pecos
+252,2,00:02,38,37,SJO,FC,L Eltink
+253,2,00:04,38,37,COR,substituicao_entra,Fuller
+254,2,00:04,38,37,COR,substituicao_sai,Teichmann
+255,2,00:04,38,37,SJO,AS,Ambrosino
+256,2,00:04,38,37,SJO,LL_Pts_C,Buemo
+257,2,00:04,37,37,SJO,LL_Pts_T,Buemo
+258,2,00:04,37,37,SJO,substituicao_entra,Guga
+259,2,00:04,37,37,SJO,substituicao_sai,Abner
+260,2,00:04,37,37,SJO,FR,Buemo
+261,2,00:04,37,37,COR,FC,F Vezaro
+262,2,00:15,37,37,SJO,BR,Eugeniusz
+263,2,00:15,37,37,COR,ER,Arthur Pecos
+264,2,00:32,37,37,COR,FR,Arthur Pecos
+265,2,00:32,37,37,SJO,FC,Eugeniusz
+266,2,00:33,37,37,SJO,substituicao_entra,L Eltink
+267,2,00:33,37,37,SJO,substituicao_sai,Mariani
+268,2,00:33,37,37,SJO,substituicao_entra,Eugeniusz
+269,2,00:33,37,37,SJO,substituicao_sai,Figueredo
+270,2,00:33,37,37,COR,RD,Corinthians
+271,2,00:36,37,37,SJO,3_Pts_T,Figueredo
+272,2,00:37,37,37,SJO,RO,Buemo
+273,2,00:40,37,37,SJO,3_Pts_T,Ambrosino
+274,2,00:51,37,37,SJO,substituicao_entra,Ambrosino
+275,2,00:51,37,37,SJO,substituicao_sai,Rafael
+276,2,00:51,37,37,SJO,FR,Figueredo
+277,2,00:51,37,37,COR,FC,Teichmann
+278,2,01:09,37,37,COR,AS,Wesley
+279,2,01:09,37,37,COR,3_Pts_C,F Vezaro
+280,2,01:22,37,34,SJO,substituicao_entra,Abner
+281,2,01:22,37,34,SJO,substituicao_sai,Lupa
+282,2,01:22,37,34,SJO,substituicao_entra,Buemo
+283,2,01:22,37,34,SJO,substituicao_sai,Duda
+284,2,01:22,37,34,SJO,ER,Mariani
+285,2,01:37,37,34,COR,2_Pts_C,F Vezaro
+286,2,01:53,37,32,COR,RD,Corinthians
+287,2,01:53,37,32,COR,TO,Robinson
+288,2,01:53,37,32,SJO,2_Pts_T,Rafael
+289,2,01:59,37,32,SJO,BR,Lupa
+290,2,01:59,37,32,COR,ER,Teichmann
+291,2,02:12,37,32,SJO,AS,Mariani
+292,2,02:12,37,32,SJO,2_Pts_C,Lupa
+293,2,02:24,35,32,SJO,tempo_tecnico,São José
+294,2,02:24,35,32,COR,2_Pts_C,Wesley
+295,2,02:24,35,30,COR,RO,Wesley
+296,2,02:25,35,30,COR,2_Pts_T,Wesley
+297,2,02:41,35,30,COR,BR,Teichmann
+298,2,02:41,35,30,SJO,ER,Lupa
+299,2,02:56,35,30,COR,2_Pts_C,Robinson
+300,2,03:00,35,28,COR,RD,Teichmann
+301,2,03:03,35,28,SJO,3_Pts_T,Figueredo
+302,2,03:21,35,28,COR,3_Pts_C,Arthur Pecos
+303,2,03:31,35,25,COR,substituicao_entra,Robinson
+304,2,03:31,35,25,COR,substituicao_sai,Fuller
+305,2,03:50,35,25,SJO,AS,Figueredo
+306,2,03:50,35,25,SJO,3_Pts_C,Duda
+307,2,03:55,32,25,SJO,RD,Mariani
+308,2,03:58,32,25,COR,2_Pts_T,Wesley
+309,2,04:21,32,25,COR,substituicao_entra,Teichmann
+310,2,04:21,32,25,COR,substituicao_sai,Johnson
+311,2,04:21,32,25,COR,substituicao_entra,Arthur Pecos
+312,2,04:21,32,25,COR,substituicao_sai,Fischer
+313,2,04:21,32,25,COR,tempo_tecnico,Corinthians
+314,2,04:22,32,25,SJO,AS,Figueredo
+315,2,04:22,32,25,SJO,3_Pts_C,Duda
+316,2,04:29,29,25,SJO,BR,Rafael
+317,2,04:29,29,25,COR,ER,Fischer
+318,2,04:40,29,25,SJO,AS,Mariani
+319,2,04:40,29,25,SJO,2_Pts_C,Rafael
+320,2,04:46,27,25,SJO,BR,Mariani
+321,2,04:46,27,25,COR,ER,Wesley
+322,2,05:06,27,25,SJO,LL_Pts_C,Mariani
+323,2,05:06,26,25,SJO,FR,Mariani
+324,2,05:06,26,25,COR,FC,Wesley
+325,2,05:06,26,25,SJO,2_Pts_C,Mariani
+326,2,05:18,24,25,COR,substituicao_entra,Wesley
+327,2,05:18,24,25,COR,substituicao_sai,Nesbitt
+328,2,05:18,24,25,SJO,substituicao_entra,Mariani
+329,2,05:18,24,25,SJO,substituicao_sai,L Eltink
+330,2,05:29,24,25,COR,2_Pts_C,Fischer
+331,2,05:41,24,23,SJO,AS,Lupa
+332,2,05:41,24,23,SJO,2_Pts_C,Rafael
+333,2,05:46,22,23,SJO,RO,Figueredo
+334,2,05:51,22,23,SJO,2_Pts_T,Figueredo
+335,2,06:01,22,23,SJO,RD,Rafael
+336,2,06:04,22,23,COR,3_Pts_T,F Vezaro
+337,2,06:20,22,23,COR,FR,Johnson
+338,2,06:20,22,23,SJO,FC,Duda
+339,2,06:28,22,23,COR,substituicao_entra,Johnson
+340,2,06:28,22,23,COR,substituicao_sai,Arthur Pecos
+341,2,06:28,22,23,COR,substituicao_entra,F Vezaro
+342,2,06:28,22,23,COR,substituicao_sai,Robinson
+343,2,06:28,22,23,COR,substituicao_entra,Fischer
+344,2,06:28,22,23,COR,substituicao_sai,Douglas Santos
+345,2,06:28,22,23,COR,tempo_tecnico,Corinthians
+346,2,06:31,22,23,SJO,3_Pts_C,Figueredo
+347,2,06:49,19,23,SJO,RD,Duda
+348,2,06:54,19,23,COR,3_Pts_T,Nesbitt
+349,2,07:02,19,23,COR,RD,Arthur Pecos
+350,2,07:05,19,23,SJO,3_Pts_T,Duda
+351,2,07:12,19,23,SJO,RD,Duda
+352,2,07:14,19,23,COR,3_Pts_T,Fuller
+353,2,07:34,19,23,SJO,AS,Duda
+354,2,07:34,19,23,SJO,2_Pts_C,Figueredo
+355,2,07:37,17,23,SJO,substituicao_entra,Rafael
+356,2,07:37,17,23,SJO,substituicao_sai,Ambrosino
+357,2,07:37,17,23,SJO,substituicao_entra,Lupa
+358,2,07:37,17,23,SJO,substituicao_sai,Sérgio
+359,2,07:38,17,23,SJO,RO,Ambrosino
+360,2,07:40,17,23,SJO,3_Pts_T,L Eltink
+361,2,08:05,17,23,SJO,RD,L Eltink
+362,2,08:09,17,23,COR,2_Pts_T,Robinson
+363,2,08:19,17,23,COR,BR,Nesbitt
+364,2,08:19,17,23,SJO,ER,Duda
+365,2,08:23,17,23,SJO,RD,Ambrosino
+366,2,08:26,17,23,COR,2_Pts_T,Robinson
+367,2,08:53,17,23,SJO,3_Pts_C,Duda
+368,2,09:06,14,23,COR,2_Pts_C,Nesbitt
+369,2,09:06,14,21,COR,RO,Nesbitt
+370,2,09:10,14,21,COR,3_Pts_T,Arthur Pecos
+371,2,09:28,14,21,SJO,2_Pts_C,L Eltink
+372,2,09:28,12,21,SJO,RO,L Eltink
+373,2,09:39,12,21,SJO,3_Pts_T,Sérgio
+374,2,10:00,12,21,,inicio_quarto,
+375,1,00:00,12,21,,fim_quarto,
+376,1,00:05,12,21,COR,RD,Corinthians
+377,1,00:05,12,21,SJO,2_Pts_T,Ambrosino
+378,1,00:05,12,21,SJO,RO,Ambrosino
+379,1,00:05,12,21,SJO,2_Pts_T,Eugeniusz
+380,1,00:16,12,21,SJO,FR,L Eltink
+381,1,00:16,12,21,COR,FC,Arthur Pecos
+382,1,00:22,12,21,COR,AS,Fuller
+383,1,00:22,12,21,COR,3_Pts_C,Arthur Pecos
+384,1,00:33,12,18,COR,FR,Arthur Pecos
+385,1,00:33,12,18,SJO,FC,Eugeniusz
+386,1,00:46,12,18,SJO,ER,Buemo
+387,1,01:02,12,18,COR,substituicao_entra,Douglas Santos
+388,1,01:02,12,18,COR,substituicao_sai,Wesley
+389,1,01:02,12,18,COR,substituicao_entra,Fuller
+390,1,01:02,12,18,COR,substituicao_sai,F Vezaro
+391,1,01:02,12,18,SJO,substituicao_entra,L Eltink
+392,1,01:02,12,18,SJO,substituicao_sai,Mariani
+393,1,01:02,12,18,SJO,RD,São José
+394,1,01:02,12,18,COR,3_Pts_T,Wesley
+395,1,01:21,12,18,SJO,2_Pts_C,Mariani
+396,1,01:44,10,18,COR,2_Pts_C,Arthur Pecos
+397,1,01:47,10,16,SJO,2_Pts_C,Eugeniusz
+398,1,01:47,8,16,SJO,RO,Eugeniusz
+399,1,01:56,8,16,SJO,2_Pts_T,Eugeniusz
+400,1,02:09,8,16,COR,substituicao_entra,Robinson
+401,1,02:09,8,16,COR,substituicao_sai,Fuller
+402,1,02:09,8,16,SJO,FR,Eugeniusz
+403,1,02:09,8,16,COR,FC,Fuller
+404,1,02:20,8,16,COR,AS,Arthur Pecos
+405,1,02:20,8,16,COR,3_Pts_C,Wesley
+406,1,02:21,8,13,COR,RO,Nesbitt
+407,1,02:27,8,13,COR,2_Pts_T,Fuller
+408,1,02:40,8,13,SJO,2_Pts_C,Sérgio
+409,1,02:40,6,13,SJO,RO,Sérgio
+410,1,02:45,6,13,SJO,2_Pts_T,Sérgio
+411,1,02:52,6,13,SJO,RD,Ambrosino
+412,1,02:55,6,13,COR,3_Pts_T,Fuller
+413,1,03:18,6,13,SJO,2_Pts_C,Ambrosino
+414,1,03:32,4,13,SJO,substituicao_entra,Buemo
+415,1,03:32,4,13,SJO,substituicao_sai,Duda
+416,1,03:32,4,13,COR,ER,Arthur Pecos
+417,1,03:45,4,13,COR,substituicao_entra,Nesbitt
+418,1,03:45,4,13,COR,substituicao_sai,Johnson
+419,1,03:45,4,13,COR,substituicao_entra,Arthur Pecos
+420,1,03:45,4,13,COR,substituicao_sai,Fischer
+421,1,03:45,4,13,SJO,substituicao_entra,Eugeniusz
+422,1,03:45,4,13,SJO,substituicao_sai,Figueredo
+423,1,03:51,4,13,COR,RD,Johnson
+424,1,03:55,4,13,SJO,2_Pts_T,Sérgio
+425,1,04:01,4,13,SJO,BR,Duda
+426,1,04:01,4,13,COR,ER,Fischer
+427,1,04:02,4,13,COR,RD,Fischer
+428,1,04:05,4,13,SJO,3_Pts_T,Duda
+429,1,04:14,4,13,SJO,RD,Duda
+430,1,04:18,4,13,COR,2_Pts_T,Fuller
+431,1,04:23,4,13,COR,RO,Corinthians
+432,1,04:23,4,13,COR,2_Pts_T,Fischer
+433,1,04:48,4,13,SJO,substituicao_entra,Sérgio
+434,1,04:48,4,13,SJO,substituicao_sai,Lupa
+435,1,04:48,4,13,SJO,AS,Figueredo
+436,1,04:48,4,13,SJO,LL_Pts_C,Lupa
+437,1,04:48,3,13,SJO,LL_Pts_T,Lupa
+438,1,04:48,3,13,SJO,FR,Lupa
+439,1,04:48,3,13,COR,FC,Johnson
+440,1,05:09,3,13,COR,AS,Fuller
+441,1,05:09,3,13,COR,3_Pts_C,Fischer
+442,1,05:21,3,10,COR,FR,Fischer
+443,1,05:21,3,10,SJO,FC,Figueredo
+444,1,05:28,3,10,COR,RD,Johnson
+445,1,05:30,3,10,SJO,3_Pts_T,Figueredo
+446,1,05:44,3,10,SJO,RD,Lupa
+447,1,05:44,3,10,COR,LL_Pts_T,Johnson
+448,1,05:44,3,10,SJO,substituicao_entra,Ambrosino
+449,1,05:44,3,10,SJO,substituicao_sai,Rafael
+450,1,05:44,3,10,SJO,tempo_tecnico,São José
+451,1,05:44,3,10,COR,FR,Johnson
+452,1,05:44,3,10,SJO,FC,Lupa
+453,1,05:44,3,10,COR,AS,Fischer
+454,1,05:44,3,10,COR,EN,Johnson
+455,1,05:51,3,8,COR,FR,Fischer
+456,1,05:51,3,8,SJO,FC,Rafael
+457,1,05:59,3,8,COR,RD,Johnson
+458,1,06:01,3,8,SJO,2_Pts_T,Lupa
+459,1,06:14,3,8,COR,ER,Johnson
+460,1,06:23,3,8,COR,RD,Johnson
+461,1,06:26,3,8,SJO,3_Pts_T,Figueredo
+462,1,06:43,3,8,COR,AS,Fischer
+463,1,06:43,3,8,COR,2_Pts_C,Wesley
+464,1,06:47,3,6,COR,RD,Fischer
+465,1,06:50,3,6,SJO,3_Pts_T,Duda
+466,1,06:58,3,6,SJO,RD,Rafael
+467,1,07:01,3,6,COR,2_Pts_T,F Vezaro
+468,1,07:18,3,6,SJO,LL_Pts_C,Rafael
+469,1,07:18,2,6,SJO,LL_Pts_T,Rafael
+470,1,07:18,2,6,SJO,FR,Rafael
+471,1,07:18,2,6,COR,FC,Wesley
+472,1,07:30,2,6,COR,2_Pts_C,Johnson
+473,1,07:35,2,4,COR,BR,Johnson
+474,1,07:35,2,4,SJO,ER,Duda
+475,1,07:38,2,4,SJO,RD,Lupa
+476,1,07:42,2,4,COR,3_Pts_T,Fischer
+477,1,08:05,2,4,SJO,AS,Figueredo
+478,1,08:05,2,4,SJO,2_Pts_C,Lupa
+479,1,08:12,0,4,SJO,RD,Figueredo
+480,1,08:15,0,4,COR,3_Pts_T,Fischer
+481,1,08:21,0,4,COR,BR,F Vezaro
+482,1,08:21,0,4,SJO,ER,Figueredo
+483,1,08:28,0,4,SJO,BR,Rafael
+484,1,08:28,0,4,COR,ER,Wesley
+485,1,08:37,0,4,COR,BR,Fuller
+486,1,08:37,0,4,SJO,ER,Mariani
+487,1,09:02,0,4,COR,AS,Fischer
+488,1,09:02,0,4,COR,2_Pts_C,Wesley
+489,1,09:04,0,2,COR,RD,Wesley
+490,1,09:09,0,2,SJO,2_Pts_T,Figueredo
+491,1,09:20,0,2,COR,AS,Fischer
+492,1,09:20,0,2,COR,2_Pts_C,Fuller
+493,1,09:26,0,0,COR,RD,Fischer
+494,1,09:30,0,0,SJO,3_Pts_T,Rafael
+495,1,09:38,0,0,SJO,RD,Rafael
+496,1,09:43,0,0,COR,2_Pts_T,Johnson
+497,1,10:00,0,0,COR,substituicao_entra,Johnson
+498,1,10:00,0,0,COR,substituicao_entra,Wesley
+499,1,10:00,0,0,COR,substituicao_entra,F Vezaro
+500,1,10:00,0,0,COR,substituicao_entra,Fuller
+501,1,10:00,0,0,COR,substituicao_entra,Fischer
+502,1,10:00,0,0,SJO,substituicao_entra,Lupa
+503,1,10:00,0,0,SJO,substituicao_entra,Rafael
+504,1,10:00,0,0,SJO,substituicao_entra,Duda
+505,1,10:00,0,0,SJO,substituicao_entra,Figueredo
+506,1,10:00,0,0,SJO,substituicao_entra,Mariani
+507,1,10:00,0,0,,inicio_partida,

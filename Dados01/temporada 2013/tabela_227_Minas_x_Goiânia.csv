@@ -1,0 +1,502 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,75,74, ,fim_partida,
+1,4,00:02,75,74,MIN,2_Pts_C,Coelho
+2,4,00:04,73,74,MIN,RO,Coelho
+3,4,00:04,73,74,MIN,2_Pts_T,Elinho
+4,4,00:17,73,74,GOI,2_Pts_C,Fernando Mineiro
+5,4,00:31,73,72,GOI,tempo_tecnico,Goiânia
+6,4,00:31,73,72,MIN,3_Pts_C,Coelho
+7,4,00:42,70,72,MIN,tempo_tecnico,Minas
+8,4,00:42,70,72,MIN,RD,Minas
+9,4,00:42,70,72,GOI,2_Pts_T,André Luiz
+10,4,00:55,70,72,GOI,tempo_tecnico,Goiânia
+11,4,00:55,70,72,MIN,3_Pts_C,Elinho
+12,4,00:55,67,72,MIN,AS,Coelho
+13,4,01:00,67,72,MIN,tempo_tecnico,Minas
+14,4,01:00,67,72,GOI,ER,
+15,4,01:26,67,72,GOI,RD,Fernando Mineiro
+16,4,01:26,67,72,MIN,2_Pts_T,Wanderson
+17,4,01:45,67,72,GOI,2_Pts_C,André Luiz
+18,4,01:55,67,70,MIN,LL_Pts_C,Elinho
+19,4,01:55,66,70,MIN,LL_Pts_C,Elinho
+20,4,01:55,65,70,MIN,FR,Elinho
+21,4,01:55,65,70,GOI,FC,André Luiz
+22,4,02:06,65,70,MIN,substituicao_entra,Douglas Nunes
+23,4,02:06,65,70,MIN,substituicao_sai,Ansaloni
+24,4,02:06,65,70,GOI,LL_Pts_C,Fernando Mineiro
+25,4,02:06,65,69,GOI,LL_Pts_C,Fernando Mineiro
+26,4,02:06,65,68,GOI,substituicao_sai,Murilo
+27,4,02:06,65,68,GOI,substituicao_entra,Rafinha
+28,4,02:06,65,68,GOI,FR,Fernando Mineiro
+29,4,02:06,65,68,MIN,FC,Wanderson
+30,4,02:16,65,68,GOI,RO,Fernando Mineiro
+31,4,02:16,65,68,GOI,3_Pts_T,Taboada
+32,4,02:29,65,68,MIN,LL_Pts_C,Wanderson
+33,4,02:29,64,68,MIN,AS,Laing
+34,4,02:29,64,68,GOI,substituicao_entra,Murilo
+35,4,02:29,64,68,GOI,substituicao_sai,Rafinha
+36,4,02:29,64,68,MIN,2_Pts_C,Wanderson
+37,4,02:29,62,68,MIN,FR,Wanderson
+38,4,02:29,62,68,GOI,FC,Fernando Mineiro
+39,4,02:44,62,68,GOI,LL_Pts_C,Taboada
+40,4,02:44,62,67,GOI,substituicao_sai,Murilo
+41,4,02:44,62,67,GOI,substituicao_entra,Rafinha
+42,4,02:44,62,67,MIN,substituicao_entra,Laing
+43,4,02:44,62,67,MIN,substituicao_sai,Siqueira
+44,4,02:44,62,67,GOI,2_Pts_C,Taboada
+45,4,02:44,62,65,GOI,FR,Taboada
+46,4,02:44,62,65,MIN,FC,Siqueira
+47,4,03:02,62,65,MIN,ER,Siqueira
+48,4,03:13,62,65,MIN,FR,Elinho
+49,4,03:13,62,65,GOI,FC,Murilo
+50,4,03:26,62,65,GOI,2_Pts_C,André Luiz
+51,4,03:32,62,63,GOI,substituicao_entra,F Penna
+52,4,03:32,62,63,GOI,substituicao_sai,Rafinha
+53,4,03:32,62,63,GOI,RO,Goiânia
+54,4,03:32,62,63,MIN,TO,Ansaloni
+55,4,03:32,62,63,GOI,2_Pts_T,André Luiz
+56,4,04:00,62,63,MIN,3_Pts_C,Wanderson
+57,4,04:00,59,63,MIN,AS,Elinho
+58,4,04:13,59,63,MIN,BR,Elinho
+59,4,04:13,59,63,GOI,ER,Taboada
+60,4,04:30,59,63,GOI,RD,Taboada
+61,4,04:30,59,63,MIN,2_Pts_T,Wanderson
+62,4,04:38,59,63,MIN,RD,Siqueira
+63,4,04:38,59,63,MIN,TO,Ansaloni
+64,4,04:38,59,63,GOI,2_Pts_T,Taboada
+65,4,04:57,59,63,GOI,RD,Goiânia
+66,4,04:57,59,63,MIN,2_Pts_T,Elinho
+67,4,05:10,59,63,GOI,2_Pts_C,Taboada
+68,4,05:28,59,61,MIN,ER,Wanderson
+69,4,05:46,59,61,GOI,ER,André Luiz
+70,4,05:57,59,61,MIN,EN,Ansaloni
+71,4,05:57,57,61,MIN,AS,Coelho
+72,4,06:02,57,61,MIN,BR,Siqueira
+73,4,06:02,57,61,GOI,ER,Taboada
+74,4,06:12,57,61,MIN,substituicao_entra,Elinho
+75,4,06:12,57,61,MIN,substituicao_sai,Laing
+76,4,06:12,57,61,MIN,tempo_tecnico,Minas
+77,4,06:12,57,61,GOI,LL_Pts_C,André Luiz
+78,4,06:12,57,60,GOI,LL_Pts_C,André Luiz
+79,4,06:12,57,59,GOI,FR,André Luiz
+80,4,06:12,57,59,MIN,FC_A,Ansaloni
+81,4,06:33,57,59,GOI,RD,Fernando Mineiro
+82,4,06:33,57,59,MIN,3_Pts_T,Laing
+83,4,06:41,57,59,GOI,substituicao_entra,André Luiz
+84,4,06:41,57,59,GOI,substituicao_sai,Lacerda
+85,4,06:41,57,59,MIN,FR,Siqueira
+86,4,06:41,57,59,GOI,FC,Murilo
+87,4,06:55,57,59,MIN,BR,Minas
+88,4,06:55,57,59,GOI,ER,Fernando Mineiro
+89,4,07:11,57,59,MIN,substituicao_entra,Siqueira
+90,4,07:11,57,59,MIN,substituicao_entra,Wanderson
+91,4,07:11,57,59,MIN,substituicao_sai,Douglas Nunes
+92,4,07:11,57,59,MIN,substituicao_sai,Elinho
+93,4,07:14,57,59,GOI,BR,Goiânia
+94,4,07:14,57,59,MIN,ER,Laing
+95,4,07:34,57,59,MIN,RD,Douglas Nunes
+96,4,07:34,57,59,GOI,3_Pts_T,Rafinha
+97,4,07:55,57,59,GOI,RD,Lacerda
+98,4,07:55,57,59,MIN,3_Pts_T,Elinho
+99,4,08:10,57,59,GOI,LL_Pts_C,Murilo
+100,4,08:10,57,58,GOI,LL_Pts_C,Murilo
+101,4,08:10,57,57,GOI,FR,Murilo
+102,4,08:10,57,57,MIN,FC,Douglas Nunes
+103,4,08:16,57,57,GOI,BR,Taboada
+104,4,08:16,57,57,MIN,ER,Elinho
+105,4,08:23,57,57,MIN,RD,Elinho
+106,4,08:23,57,57,MIN,TO,Ansaloni
+107,4,08:23,57,57,GOI,2_Pts_T,Taboada
+108,4,08:44,57,57,GOI,RD,Taboada
+109,4,08:44,57,57,MIN,2_Pts_T,Laing
+110,4,09:02,57,57,MIN,RD,Douglas Nunes
+111,4,09:02,57,57,GOI,LL_Pts_T,Murilo
+112,4,09:02,57,57,GOI,2_Pts_C,Murilo
+113,4,09:02,57,55,GOI,FR,Murilo
+114,4,09:02,57,55,MIN,FC,Douglas Nunes
+115,4,09:08,57,55,GOI,BR,Lacerda
+116,4,09:08,57,55,MIN,ER,Coelho
+117,4,09:29,57,55,GOI,3_Pts_C,Taboada
+118,4,09:29,57,52,GOI,AS,Rafinha
+119,4,09:46,57,52,MIN,2_Pts_C,Coelho
+120,3,00:00,55,52, ,fim_quarto,
+121,3,00:02,55,52,GOI,3_Pts_T,Fernando Mineiro
+122,3,00:02,55,52,MIN,ER,Adriano
+123,3,00:16,55,52,MIN,RD,Adriano
+124,3,00:16,55,52,GOI,LL_Pts_T,Lacerda
+125,3,00:16,55,52,GOI,2_Pts_C,Lacerda
+126,3,00:16,55,50,GOI,FR,Lacerda
+127,3,00:16,55,50,MIN,FC,Adriano
+128,3,00:33,55,50,MIN,LL_Pts_C,Coelho
+129,3,00:33,54,50,MIN,LL_Pts_C,Coelho
+130,3,00:33,53,50,MIN,FR,Coelho
+131,3,00:33,53,50,GOI,FC,Lacerda
+132,3,00:48,53,50,GOI,3_Pts_C,Fernando Mineiro
+133,3,00:48,53,47,GOI,AS,Rafinha
+134,3,00:53,53,47,GOI,substituicao_sai,Adyb
+135,3,00:53,53,47,GOI,substituicao_entra,Fernando Mineiro
+136,3,00:53,53,47,MIN,LL_Pts_C,Adriano
+137,3,00:53,52,47,MIN,LL_Pts_C,Adriano
+138,3,00:53,51,47,GOI,substituicao_entra,Taboada
+139,3,00:53,51,47,GOI,substituicao_sai,Fábio
+140,3,00:53,51,47,MIN,FR,Adriano
+141,3,00:53,51,47,GOI,FC,Adyb
+142,3,00:57,51,47,MIN,RD,Adriano
+143,3,00:57,51,47,GOI,LL_Pts_T,Murilo
+144,3,00:57,51,47,GOI,2_Pts_C,Murilo
+145,3,00:57,51,45,GOI,FR,Murilo
+146,3,00:57,51,45,MIN,FC,Wanderson
+147,3,01:06,51,45,GOI,RD,Murilo
+148,3,01:06,51,45,MIN,2_Pts_T,Adriano
+149,3,01:18,51,45,GOI,LL_Pts_C,Lacerda
+150,3,01:18,51,44,GOI,LL_Pts_T,Lacerda
+151,3,01:18,51,44,GOI,FR,Lacerda
+152,3,01:18,51,44,MIN,FC,Adriano
+153,3,01:30,51,44,MIN,2_Pts_C,Elinho
+154,3,01:30,49,44,MIN,AS,Coelho
+155,3,01:43,49,44,GOI,LL_Pts_C,Rafinha
+156,3,01:43,49,43,GOI,LL_Pts_C,Rafinha
+157,3,01:43,49,42,GOI,substituicao_entra,Adyb
+158,3,01:43,49,42,GOI,substituicao_sai,Fernando Mineiro
+159,3,01:43,49,42,GOI,FR,Rafinha
+160,3,01:43,49,42,MIN,FC,Coelho
+161,3,02:00,49,42,MIN,LL_Pts_C,Elinho
+162,3,02:00,48,42,MIN,LL_Pts_C,Elinho
+163,3,02:00,47,42,MIN,substituicao_sai,Ansaloni
+164,3,02:00,47,42,MIN,substituicao_entra,Adriano
+165,3,02:00,47,42,MIN,FR,Elinho
+166,3,02:00,47,42,GOI,FC,Murilo
+167,3,02:14,47,42,MIN,RD,Laing
+168,3,02:14,47,42,GOI,2_Pts_T,Lacerda
+169,3,02:29,47,42,MIN,ER,Laing
+170,3,02:39,47,42,GOI,LL_Pts_C,Fábio
+171,3,02:39,47,41,GOI,LL_Pts_C,Fábio
+172,3,02:39,47,40,GOI,FR,Fábio
+173,3,02:39,47,40,MIN,FC,Elinho
+174,3,02:44,47,40,GOI,BR,Lacerda
+175,3,02:44,47,40,MIN,ER,Wanderson
+176,3,03:03,47,40,MIN,RD,Ansaloni
+177,3,03:03,47,40,MIN,TO,Ansaloni
+178,3,03:03,47,40,GOI,2_Pts_T,Fernando Mineiro
+179,3,03:16,47,40,MIN,LL_Pts_C,Laing
+180,3,03:16,46,40,MIN,LL_Pts_C,Laing
+181,3,03:16,45,40,MIN,substituicao_entra,Wanderson
+182,3,03:16,45,40,MIN,substituicao_sai,Douglas Nunes
+183,3,03:16,45,40,MIN,FR,Laing
+184,3,03:16,45,40,GOI,FC,Fábio
+185,3,03:39,45,40,GOI,2_Pts_C,Fernando Mineiro
+186,3,03:52,45,38,GOI,substituicao_entra,Fábio
+187,3,03:52,45,38,GOI,substituicao_sai,F Penna
+188,3,03:52,45,38,MIN,LL_Pts_C,Coelho
+189,3,03:52,44,38,MIN,LL_Pts_T,Coelho
+190,3,03:52,44,38,MIN,substituicao_entra,Laing
+191,3,03:52,44,38,MIN,substituicao_sai,Wanderson
+192,3,03:52,44,38,GOI,substituicao_entra,Rafinha
+193,3,03:52,44,38,GOI,substituicao_sai,Taboada
+194,3,03:52,44,38,MIN,FR,Coelho
+195,3,03:52,44,38,GOI,FC,F Penna
+196,3,04:00,44,38,MIN,RD,Ansaloni
+197,3,04:00,44,38,GOI,2_Pts_T,F Penna
+198,3,04:12,44,38,GOI,FR,F Penna
+199,3,04:12,44,38,MIN,FC,Douglas Nunes
+200,3,04:16,44,38,GOI,BR,F Penna
+201,3,04:16,44,38,MIN,ER,Douglas Nunes
+202,3,04:32,44,38,MIN,RD,Wanderson
+203,3,04:32,44,38,GOI,LL_Pts_T,F Penna
+204,3,04:32,44,38,GOI,LL_Pts_T,F Penna
+205,3,04:32,44,38,GOI,FR,F Penna
+206,3,04:32,44,38,MIN,FC,Coelho
+207,3,04:39,44,38,GOI,substituicao_entra,Lacerda
+208,3,04:39,44,38,GOI,substituicao_sai,André Luiz
+209,3,04:44,44,38,GOI,RO,Goiânia
+210,3,04:44,44,38,GOI,2_Pts_T,Taboada
+211,3,05:04,44,38,MIN,3_Pts_C,Elinho
+212,3,05:04,41,38,MIN,AS,Ansaloni
+213,3,05:19,41,38,MIN,FR,Ansaloni
+214,3,05:19,41,38,GOI,FC_O,André Luiz
+215,3,05:35,41,38,MIN,LL_Pts_C,Ansaloni
+216,3,05:35,40,38,MIN,AS,Wanderson
+217,3,05:35,40,38,MIN,LL_Pts_C,Ansaloni
+218,3,05:35,39,38,MIN,FR,Ansaloni
+219,3,05:35,39,38,GOI,FC,Taboada
+220,3,05:52,39,38,GOI,3_Pts_C,Taboada
+221,3,05:52,39,35,GOI,AS,F Penna
+222,3,06:09,39,35,MIN,2_Pts_C,Coelho
+223,3,06:09,37,35,MIN,AS,Elinho
+224,3,06:17,37,35,MIN,RD,Wanderson
+225,3,06:17,37,35,MIN,TO,Wanderson
+226,3,06:17,37,35,GOI,2_Pts_T,Murilo
+227,3,06:30,37,35,MIN,2_Pts_C,Ansaloni
+228,3,06:36,35,35,MIN,RO,Ansaloni
+229,3,06:36,35,35,MIN,2_Pts_T,Coelho
+230,3,06:43,35,35,MIN,BR,Wanderson
+231,3,06:43,35,35,GOI,ER,Taboada
+232,3,06:57,35,35,MIN,AS,Coelho
+233,3,06:57,35,35,MIN,LL_Pts_C,Ansaloni
+234,3,06:57,34,35,MIN,LL_Pts_T,Ansaloni
+235,3,06:57,34,35,MIN,FR,Ansaloni
+236,3,06:57,34,35,GOI,FC,André Luiz
+237,3,07:14,34,35,GOI,LL_Pts_C,Taboada
+238,3,07:14,34,34,GOI,LL_Pts_T,Taboada
+239,3,07:14,34,34,GOI,FR,Taboada
+240,3,07:14,34,34,MIN,FC,Elinho
+241,3,07:27,34,34,GOI,RD,Fernando Mineiro
+242,3,07:27,34,34,MIN,2_Pts_T,Douglas Nunes
+243,3,07:48,34,34,GOI,3_Pts_C,Murilo
+244,3,07:48,34,31,GOI,AS,F Penna
+245,3,07:56,34,31,GOI,RD,André Luiz
+246,3,07:56,34,31,MIN,2_Pts_T,Douglas Nunes
+247,3,08:12,34,31,MIN,RD,Ansaloni
+248,3,08:12,34,31,GOI,2_Pts_T,F Penna
+249,3,08:31,34,31,MIN,3_Pts_C,Coelho
+250,3,08:31,31,31,MIN,AS,Elinho
+251,3,08:36,31,31,MIN,FR,Coelho
+252,3,08:36,31,31,GOI,FC,F Penna
+253,3,08:55,31,31,MIN,RD,Ansaloni
+254,3,08:55,31,31,GOI,2_Pts_T,F Penna
+255,3,09:00,31,31,GOI,BR,Murilo
+256,3,09:00,31,31,MIN,ER,Coelho
+257,3,09:23,31,31,MIN,BR,Coelho
+258,3,09:23,31,31,GOI,ER,Fernando Mineiro
+259,3,09:30,31,31,GOI,FR,André Luiz
+260,3,09:30,31,31,MIN,FC,Douglas Nunes
+261,3,09:40,31,31,GOI,BR,Taboada
+262,3,09:40,31,31,MIN,ER,Coelho
+263,3,09:50,31,31,MIN,RD,Elinho
+264,3,09:50,31,31,GOI,3_Pts_T,Taboada
+265,2,00:00,31,31, ,fim_quarto,
+266,2,00:02,31,31,MIN,LL_Pts_C,Elinho
+267,2,00:02,30,31,MIN,LL_Pts_C,Elinho
+268,2,00:02,29,31,MIN,FR,Elinho
+269,2,00:02,29,31,GOI,FC,F Penna
+270,2,00:05,29,31,GOI,LL_Pts_C,Lacerda
+271,2,00:05,29,30,GOI,LL_Pts_T,Lacerda
+272,2,00:05,29,30,GOI,substituicao_entra,Adyb
+273,2,00:05,29,30,GOI,substituicao_entra,Fábio
+274,2,00:05,29,30,GOI,substituicao_sai,Taboada
+275,2,00:05,29,30,GOI,substituicao_sai,Fernando Mineiro
+276,2,00:05,29,30,GOI,FR,Lacerda
+277,2,00:05,29,30,MIN,FC,Laing
+278,2,00:18,29,30,GOI,RD,Fernando Mineiro
+279,2,00:18,29,30,MIN,3_Pts_T,Coelho
+280,2,00:37,29,30,MIN,RO,Minas
+281,2,00:37,29,30,MIN,2_Pts_T,Ansaloni
+282,2,00:56,29,30,GOI,2_Pts_C,Murilo
+283,2,00:56,29,28,GOI,AS,Lacerda
+284,2,01:13,29,28,GOI,RD,Lacerda
+285,2,01:13,29,28,MIN,2_Pts_T,Laing
+286,2,01:20,29,28,MIN,RD,Elinho
+287,2,01:20,29,28,MIN,TO,Douglas Nunes
+288,2,01:20,29,28,GOI,2_Pts_T,Lacerda
+289,2,01:41,29,28,GOI,RD,Lacerda
+290,2,01:41,29,28,MIN,3_Pts_T,Douglas Nunes
+291,2,01:58,29,28,GOI,ER,Lacerda
+292,2,02:03,29,28,MIN,substituicao_entra,Douglas Nunes
+293,2,02:03,29,28,MIN,substituicao_entra,Laing
+294,2,02:03,29,28,MIN,substituicao_sai,Demétrio
+295,2,02:03,29,28,MIN,substituicao_sai,Wanderson
+296,2,02:03,29,28,GOI,FR,Taboada
+297,2,02:03,29,28,MIN,FC,Wanderson
+298,2,02:19,29,28,MIN,tempo_tecnico,Minas
+299,2,02:19,29,28,MIN,substituicao_entra,Coelho
+300,2,02:19,29,28,MIN,substituicao_sai,Siqueira
+301,2,02:19,29,28,GOI,FR,Lacerda
+302,2,02:19,29,28,MIN,FC,Demétrio
+303,2,02:19,29,28,GOI,RD,Goiânia
+304,2,02:19,29,28,MIN,3_Pts_T,Siqueira
+305,2,02:45,29,28,GOI,3_Pts_C,Taboada
+306,2,02:55,29,25,GOI,RD,Goiânia
+307,2,02:55,29,25,GOI,substituicao_entra,Taboada
+308,2,02:55,29,25,GOI,substituicao_sai,Fábio
+309,2,03:01,29,25,MIN,3_Pts_T,Elinho
+310,2,03:20,29,25,GOI,substituicao_sai,Adyb
+311,2,03:20,29,25,GOI,substituicao_entra,Fernando Mineiro
+312,2,03:20,29,25,MIN,substituicao_entra,Ansaloni
+313,2,03:20,29,25,MIN,substituicao_sai,Adriano
+314,2,03:20,29,25,GOI,substituicao_entra,Lacerda
+315,2,03:20,29,25,GOI,substituicao_sai,André Luiz
+316,2,03:26,29,25,MIN,RO,Demétrio
+317,2,03:26,29,25,MIN,2_Pts_T,Siqueira
+318,2,03:31,29,25,MIN,RD,Elinho
+319,2,03:31,29,25,GOI,3_Pts_T,Murilo
+320,2,03:56,29,25,MIN,LL_Pts_C,Elinho
+321,2,03:56,28,25,GOI,substituicao_sai,Taboada
+322,2,03:56,28,25,GOI,substituicao_entra,Murilo
+323,2,03:56,28,25,MIN,substituicao_entra,Siqueira
+324,2,03:56,28,25,MIN,substituicao_entra,Demétrio
+325,2,03:56,28,25,MIN,substituicao_sai,Douglas Nunes
+326,2,03:56,28,25,MIN,substituicao_sai,Coelho
+327,2,03:56,28,25,MIN,2_Pts_C,Elinho
+328,2,03:56,26,25,MIN,FR,Elinho
+329,2,03:56,26,25,GOI,FC,Fábio
+330,2,04:15,26,25,MIN,RD,Wanderson
+331,2,04:15,26,25,GOI,3_Pts_T,F Penna
+332,2,04:38,26,25,MIN,2_Pts_C,Douglas Nunes
+333,2,04:42,24,25,MIN,RO,Douglas Nunes
+334,2,04:42,24,25,MIN,2_Pts_T,Coelho
+335,2,05:03,24,25,MIN,RD,Minas
+336,2,05:03,24,25,GOI,2_Pts_T,Taboada
+337,2,05:31,24,25,MIN,substituicao_entra,Elinho
+338,2,05:31,24,25,MIN,substituicao_sai,Laing
+339,2,05:31,24,25,GOI,substituicao_entra,Adyb
+340,2,05:31,24,25,GOI,substituicao_sai,Fernando Mineiro
+341,2,05:31,24,25,GOI,tempo_tecnico,Goiânia
+342,2,05:31,24,25,MIN,3_Pts_C,Wanderson
+343,2,05:31,21,25,MIN,AS,Coelho
+344,2,05:38,21,25,MIN,BR,Coelho
+345,2,05:38,21,25,GOI,ER,F Penna
+346,2,05:45,21,25,GOI,BR,Fernando Mineiro
+347,2,05:45,21,25,MIN,ER,Adriano
+348,2,05:53,21,25,MIN,RO,Adriano
+349,2,05:53,21,25,MIN,2_Pts_T,Laing
+350,2,06:15,21,25,MIN,RD,Adriano
+351,2,06:15,21,25,GOI,2_Pts_T,André Luiz
+352,2,06:39,21,25,MIN,ER,Coelho
+353,2,06:57,21,25,MIN,RD,Douglas Nunes
+354,2,06:57,21,25,GOI,LL_Pts_T,Fernando Mineiro
+355,2,06:57,21,25,GOI,AS,F Penna
+356,2,06:57,21,25,GOI,LL_Pts_C,Fernando Mineiro
+357,2,06:57,21,24,GOI,FR,Fernando Mineiro
+358,2,06:57,21,24,MIN,FC,Adriano
+359,2,07:16,21,24,MIN,2_Pts_C,Wanderson
+360,2,07:16,19,24,MIN,AS,Coelho
+361,2,07:18,19,24,GOI,substituicao_entra,André Luiz
+362,2,07:18,19,24,GOI,substituicao_entra,F Penna
+363,2,07:18,19,24,GOI,substituicao_sai,Lacerda
+364,2,07:18,19,24,GOI,substituicao_sai,Rafinha
+365,2,07:18,19,24,MIN,FR,Coelho
+366,2,07:18,19,24,GOI,FC,Rafinha
+367,2,07:27,19,24,MIN,FR,Coelho
+368,2,07:27,19,24,GOI,FC_O,Rafinha
+369,2,07:46,19,24,MIN,2_Pts_C,Coelho
+370,2,07:52,17,24,MIN,RD,Wanderson
+371,2,07:52,17,24,GOI,2_Pts_T,Taboada
+372,2,08:06,17,24,MIN,substituicao_entra,Adriano
+373,2,08:06,17,24,MIN,substituicao_sai,Barbosa
+374,2,08:06,17,24,MIN,substituicao_entra,Laing
+375,2,08:06,17,24,MIN,substituicao_sai,Elinho
+376,2,08:06,17,24,GOI,FR,Taboada
+377,2,08:06,17,24,MIN,FC,Elinho
+378,2,08:12,17,24,GOI,RD,Lacerda
+379,2,08:12,17,24,GOI,TO,Fábio
+380,2,08:12,17,24,MIN,2_Pts_T,Barbosa
+381,2,08:17,17,24,MIN,RO,Barbosa
+382,2,08:17,17,24,MIN,2_Pts_T,Coelho
+383,2,08:30,17,24,MIN,FR,Coelho
+384,2,08:30,17,24,GOI,FC,Lacerda
+385,2,08:36,17,24,MIN,RD,Coelho
+386,2,08:36,17,24,GOI,2_Pts_T,Fábio
+387,2,08:44,17,24,GOI,RO,Fábio
+388,2,08:44,17,24,MIN,TO,Coelho
+389,2,08:44,17,24,GOI,2_Pts_T,Taboada
+390,2,09:04,17,24,MIN,2_Pts_C,Douglas Nunes
+391,2,09:04,15,24,MIN,AS,Elinho
+392,2,09:07,15,24,MIN,BR,Elinho
+393,2,09:07,15,24,GOI,ER,Taboada
+394,2,09:28,15,24,GOI,RO,Fábio
+395,2,09:28,15,24,GOI,2_Pts_T,Fernando Mineiro
+396,2,09:51,15,24,GOI,RD,Fábio
+397,2,09:51,15,24,MIN,3_Pts_T,Douglas Nunes
+398,1,00:00,15,24, ,fim_quarto,
+399,1,00:00,15,24,GOI,RD,Taboada
+400,1,00:00,15,24,MIN,2_Pts_T,Elinho
+401,1,00:16,15,24,GOI,2_Pts_C,Murilo
+402,1,00:38,15,22,MIN,2_Pts_C,Douglas Nunes
+403,1,00:52,13,22,GOI,substituicao_entra,Lacerda
+404,1,00:52,13,22,GOI,substituicao_sai,André Luiz
+405,1,00:52,13,22,GOI,LL_Pts_C,André Luiz
+406,1,00:52,13,21,GOI,substituicao_entra,Rafinha
+407,1,00:52,13,21,GOI,substituicao_sai,F Penna
+408,1,00:52,13,21,GOI,AS,Taboada
+409,1,00:52,13,21,GOI,2_Pts_C,André Luiz
+410,1,00:52,13,19,GOI,FR,André Luiz
+411,1,00:52,13,19,MIN,FC,Barbosa
+412,1,01:09,13,19,MIN,2_Pts_C,Wanderson
+413,1,01:09,11,19,MIN,AS,Elinho
+414,1,01:14,11,19,MIN,BR,Elinho
+415,1,01:14,11,19,GOI,ER,F Penna
+416,1,01:33,11,19,MIN,LL_Pts_C,Douglas Nunes
+417,1,01:33,10,19,MIN,LL_Pts_T,Douglas Nunes
+418,1,01:33,10,19,MIN,FR,Douglas Nunes
+419,1,01:33,10,19,GOI,FC,Fernando Mineiro
+420,1,01:38,10,19,GOI,2_Pts_C,André Luiz
+421,1,01:52,10,17,GOI,RO,André Luiz
+422,1,01:52,10,17,GOI,2_Pts_T,F Penna
+423,1,01:58,10,17,MIN,FR,Wanderson
+424,1,01:58,10,17,GOI,FC,Taboada
+425,1,01:58,10,17,GOI,FR,Taboada
+426,1,01:58,10,17,MIN,FC,Wanderson
+427,1,02:16,10,17,MIN,LL_Pts_C,Wanderson
+428,1,02:16,9,17,MIN,2_Pts_C,Wanderson
+429,1,02:16,7,17,MIN,FR,Wanderson
+430,1,02:16,7,17,GOI,FC,André Luiz
+431,1,02:35,7,17,MIN,RD,Wanderson
+432,1,02:35,7,17,GOI,2_Pts_T,Taboada
+433,1,03:00,7,17,MIN,2_Pts_C,Douglas Nunes
+434,1,03:23,5,17,GOI,2_Pts_C,André Luiz
+435,1,03:23,5,15,GOI,AS,Taboada
+436,1,03:37,5,15,MIN,substituicao_entra,Barbosa
+437,1,03:37,5,15,MIN,substituicao_entra,Wanderson
+438,1,03:37,5,15,MIN,substituicao_sai,Laing
+439,1,03:37,5,15,MIN,substituicao_sai,Ansaloni
+440,1,03:37,5,15,MIN,ER,Laing
+441,1,03:54,5,15,GOI,2_Pts_C,André Luiz
+442,1,04:23,5,13,MIN,2_Pts_C,Laing
+443,1,04:41,3,13,GOI,LL_Pts_C,André Luiz
+444,1,04:41,3,12,GOI,AS,F Penna
+445,1,04:41,3,12,GOI,LL_Pts_C,André Luiz
+446,1,04:41,3,11,MIN,substituicao_entra,Coelho
+447,1,04:41,3,11,MIN,substituicao_sai,Rafa Moreira
+448,1,04:41,3,11,GOI,FR,André Luiz
+449,1,04:41,3,11,MIN,FC,Rafa Moreira
+450,1,04:56,3,11,GOI,RD,André Luiz
+451,1,04:56,3,11,MIN,3_Pts_T,Elinho
+452,1,05:16,3,11,MIN,tempo_tecnico,Minas
+453,1,05:16,3,11,GOI,2_Pts_C,André Luiz
+454,1,05:16,3,9,GOI,AS,Taboada
+455,1,05:31,3,9,GOI,RD,Taboada
+456,1,05:31,3,9,MIN,3_Pts_T,Rafa Moreira
+457,1,05:44,3,9,MIN,RD,Ansaloni
+458,1,05:44,3,9,GOI,3_Pts_T,F Penna
+459,1,05:55,3,9,MIN,substituicao_entra,Rafa Moreira
+460,1,05:55,3,9,MIN,substituicao_sai,Siqueira
+461,1,05:55,3,9,GOI,FR,André Luiz
+462,1,05:55,3,9,MIN,FC,Siqueira
+463,1,06:06,3,9,GOI,BR,Fernando Mineiro
+464,1,06:06,3,9,MIN,ER,Ansaloni
+465,1,06:11,3,9,MIN,RD,Ansaloni
+466,1,06:11,3,9,GOI,3_Pts_T,F Penna
+467,1,06:17,3,9,GOI,BR,F Penna
+468,1,06:17,3,9,MIN,ER,Laing
+469,1,06:42,3,9,GOI,2_Pts_C,F Penna
+470,1,06:45,3,7,GOI,BR,F Penna
+471,1,06:45,3,7,MIN,ER,Siqueira
+472,1,07:02,3,7,GOI,ER,André Luiz
+473,1,07:08,3,7,GOI,RD,André Luiz
+474,1,07:08,3,7,MIN,3_Pts_T,Elinho
+475,1,07:25,3,7,GOI,2_Pts_C,André Luiz
+476,1,07:52,3,5,MIN,3_Pts_C,Elinho
+477,1,07:52,0,5,MIN,AS,Douglas Nunes
+478,1,08:09,0,5,MIN,RO,Ansaloni
+479,1,08:09,0,5,MIN,2_Pts_T,Ansaloni
+480,1,08:31,0,5,MIN,BR,Elinho
+481,1,08:31,0,5,GOI,ER,Murilo
+482,1,08:54,0,5,GOI,RD,Murilo
+483,1,08:54,0,5,MIN,3_Pts_T,Douglas Nunes
+484,1,09:16,0,5,GOI,3_Pts_C,Fernando Mineiro
+485,1,09:16,0,2,GOI,AS,F Penna
+486,1,09:35,0,2,GOI,RD,F Penna
+487,1,09:35,0,2,MIN,3_Pts_T,Siqueira
+488,1,09:46,0,2,GOI,2_Pts_C,André Luiz
+489,1,09:54,0,0,GOI,RO,André Luiz
+490,1,09:54,0,0,GOI,2_Pts_T,Murilo
+491,1,10:00,0,0,GOI,substituicao_entra,Taboada
+492,1,10:00,0,0,GOI,substituicao_entra,André Luiz
+493,1,10:00,0,0,GOI,substituicao_entra,Murilo
+494,1,10:00,0,0,GOI,substituicao_entra,Fernando Mineiro
+495,1,10:00,0,0,GOI,substituicao_entra,F Penna
+496,1,10:00,0,0,MIN,substituicao_entra,Siqueira
+497,1,10:00,0,0,MIN,substituicao_entra,Douglas Nunes
+498,1,10:00,0,0,MIN,substituicao_entra,Laing
+499,1,10:00,0,0,MIN,substituicao_entra,Ansaloni
+500,1,10:00,0,0,MIN,substituicao_entra,Elinho

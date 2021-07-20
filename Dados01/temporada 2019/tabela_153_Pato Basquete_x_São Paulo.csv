@@ -1,0 +1,481 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,86,106,,fim_partida,
+1,4,00:00,86,106,,fim_quarto,
+2,4,00:06,86,106,SPF,LL_Pts_C,Igor
+3,4,00:06,86,105,SPF,LL_Pts_T,Igor
+4,4,00:06,86,105,SPF,FR,Igor
+5,4,00:06,86,105,APB,FC,Augusto
+6,4,00:20,86,105,SPF,substituicao_entra,Igor
+7,4,00:20,86,105,SPF,substituicao_sai,Shamell
+8,4,00:20,86,105,APB,ER,Phillips
+9,4,00:43,86,105,SPF,2_Pts_C,Kurtz
+10,4,00:45,86,103,SPF,RO,Kurtz
+11,4,00:47,86,103,SPF,2_Pts_T,Danilo
+12,4,01:08,86,103,SPF,RD,Shamell
+13,4,01:11,86,103,APB,3_Pts_T,Thornton
+14,4,01:21,86,103,APB,RO,Thornton
+15,4,01:23,86,103,APB,2_Pts_T,Paulo
+16,4,01:31,86,103,APB,RD,Paulo
+17,4,01:34,86,103,SPF,3_Pts_T,Shamell
+18,4,01:53,86,103,APB,2_Pts_C,Paulo
+19,4,01:54,84,103,APB,RO,Paulo
+20,4,01:54,84,103,APB,LL_Pts_T,Paulo
+21,4,01:54,84,103,APB,FR,Paulo
+22,4,01:54,84,103,SPF,FC,Kurtz
+23,4,01:54,84,103,APB,AS,Phillips
+24,4,01:54,84,103,APB,2_Pts_C,Paulo
+25,4,02:12,82,103,SPF,substituicao_entra,Kurtz
+26,4,02:12,82,103,SPF,substituicao_sai,Renan
+27,4,02:12,82,103,SPF,substituicao_entra,Renan
+28,4,02:12,82,103,SPF,substituicao_entra,Cassiano
+29,4,02:12,82,103,SPF,substituicao_entra,Danilo
+30,4,02:12,82,103,SPF,substituicao_sai,Kurtz
+31,4,02:12,82,103,SPF,substituicao_sai,Léo Meindl
+32,4,02:12,82,103,SPF,substituicao_sai,Georginho
+33,4,02:12,82,103,APB,substituicao_entra,Augusto
+34,4,02:12,82,103,APB,substituicao_sai,Gegê
+35,4,02:12,82,103,APB,tempo_tecnico,Pato Basquete
+36,4,02:12,82,103,SPF,AS,Georginho
+37,4,02:12,82,103,SPF,3_Pts_C,Jones
+38,4,02:21,82,100,SPF,RD,Georginho
+39,4,02:25,82,100,APB,2_Pts_T,Paulo
+40,4,02:43,82,100,SPF,AS,Shamell
+41,4,02:43,82,100,SPF,3_Pts_C,Jones
+42,4,02:51,82,97,SPF,substituicao_entra,Kurtz
+43,4,02:51,82,97,SPF,substituicao_sai,Renan
+44,4,02:51,82,97,APB,substituicao_entra,Paulo
+45,4,02:51,82,97,APB,substituicao_sai,Funches III
+46,4,03:04,82,97,APB,AS,Thornton
+47,4,03:04,82,97,APB,3_Pts_C,Paulo
+48,4,03:09,79,97,APB,RD,Funches III
+49,4,03:12,79,97,SPF,3_Pts_T,Renan
+50,4,03:31,79,97,SPF,RD,Léo Meindl
+51,4,03:35,79,97,APB,3_Pts_T,Gegê
+52,4,03:54,79,97,SPF,AS,Jones
+53,4,03:54,79,97,SPF,EN,Renan
+54,4,04:03,79,95,APB,substituicao_entra,Phillips
+55,4,04:03,79,95,APB,substituicao_sai,Gustavo
+56,4,04:03,79,95,APB,2_Pts_C,Thornton
+57,4,04:03,77,95,APB,RO,Thornton
+58,4,04:03,77,95,APB,2_Pts_T,Paulo
+59,4,04:18,77,95,SPF,3_Pts_C,Shamell
+60,4,04:20,77,92,SPF,RD,Léo Meindl
+61,4,04:23,77,92,APB,2_Pts_T,Gustavo
+62,4,04:33,77,92,SPF,LL_Pts_C,Léo Meindl
+63,4,04:33,77,91,SPF,LL_Pts_C,Léo Meindl
+64,4,04:33,77,90,SPF,FR,Léo Meindl
+65,4,04:33,77,90,APB,FC,Paulo
+66,4,04:47,77,90,SPF,FR,Shamell
+67,4,04:47,77,90,APB,FC,Funches III
+68,4,05:00,77,90,APB,2_Pts_C,Funches III
+69,4,05:01,75,90,APB,RO,Funches III
+70,4,05:06,75,90,APB,2_Pts_T,Funches III
+71,4,05:17,75,90,APB,LL_Pts_C,Thornton
+72,4,05:17,74,90,APB,LL_Pts_C,Thornton
+73,4,05:17,73,90,APB,FR,Thornton
+74,4,05:17,73,90,SPF,FC_A,Léo Meindl
+75,4,05:18,73,90,APB,BR,Thornton
+76,4,05:18,73,90,SPF,ER,Georginho
+77,4,05:22,73,90,APB,LL_Pts_C,Funches III
+78,4,05:22,72,90,APB,LL_Pts_C,Funches III
+79,4,05:22,71,90,APB,FR,Funches III
+80,4,05:22,71,90,SPF,FC,Jones
+81,4,05:39,71,90,SPF,3_Pts_C,Georginho
+82,4,05:59,71,87,APB,AS,Gustavo
+83,4,05:59,71,87,APB,EN,Funches III
+84,4,06:19,69,87,SPF,AS,Renan
+85,4,06:19,69,87,SPF,3_Pts_C,Shamell
+86,4,06:26,69,84,APB,LL_Pts_C,Funches III
+87,4,06:26,68,84,APB,LL_Pts_C,Funches III
+88,4,06:26,67,84,APB,FR,Funches III
+89,4,06:26,67,84,SPF,FC,Georginho
+90,4,06:48,67,84,SPF,AS,Georginho
+91,4,06:48,67,84,SPF,2_Pts_C,Léo Meindl
+92,4,06:56,67,82,APB,substituicao_entra,Paulo
+93,4,06:56,67,82,APB,substituicao_sai,Augusto
+94,4,06:56,67,82,SPF,FR,Shamell
+95,4,06:56,67,82,APB,FC,Gegê
+96,4,07:09,67,82,SPF,RD,Jones
+97,4,07:15,67,82,SPF,TO,Renan
+98,4,07:15,67,82,APB,2_Pts_T,Augusto
+99,4,07:31,67,82,APB,substituicao_entra,Gegê
+100,4,07:31,67,82,APB,substituicao_sai,Phillips
+101,4,07:31,67,82,APB,tempo_tecnico,Pato Basquete
+102,4,07:31,67,82,SPF,AS,Georginho
+103,4,07:31,67,82,SPF,3_Pts_C,Renan
+104,4,07:41,67,79,SPF,RD,Léo Meindl
+105,4,07:44,67,79,APB,3_Pts_T,Phillips
+106,4,07:53,67,79,APB,FR,Gustavo
+107,4,07:53,67,79,SPF,FC,Léo Meindl
+108,4,08:02,67,79,APB,FR,Funches III
+109,4,08:02,67,79,SPF,FC,Shamell
+110,4,08:06,67,79,SPF,substituicao_entra,Renan
+111,4,08:06,67,79,SPF,substituicao_sai,Jefferson
+112,4,08:06,67,79,APB,FR,Phillips
+113,4,08:06,67,79,SPF,FC,Jefferson
+114,4,08:20,67,79,APB,FR,Gustavo
+115,4,08:20,67,79,SPF,ER,Jefferson
+116,4,08:20,67,79,SPF,FC_O,Jefferson
+117,4,08:27,67,79,SPF,RD,Jefferson
+118,4,08:32,67,79,APB,2_Pts_T,Funches III
+119,4,08:33,67,79,APB,RO,Thornton
+120,4,08:38,67,79,APB,3_Pts_T,Gustavo
+121,4,08:49,67,79,SPF,ER,Léo Meindl
+122,4,09:05,67,79,APB,AS,Phillips
+123,4,09:05,67,79,APB,3_Pts_C,Gustavo
+124,4,09:21,64,79,SPF,LL_Pts_C,Jefferson
+125,4,09:21,64,78,SPF,FR,Jefferson
+126,4,09:21,64,78,APB,FC,Funches III
+127,4,09:21,64,78,SPF,2_Pts_C,Jefferson
+128,4,09:24,64,76,SPF,RO,Jefferson
+129,4,09:27,64,76,SPF,2_Pts_T,Jefferson
+130,4,09:43,64,76,APB,2_Pts_C,Phillips
+131,4,10:00,62,76,,inicio_quarto,
+132,3,00:00,62,76,,fim_quarto,
+133,3,00:03,62,76,APB,2_Pts_T,Thornton
+134,3,00:04,62,76,APB,LL_Pts_C,Augusto
+135,3,00:04,61,76,APB,LL_Pts_C,Augusto
+136,3,00:04,60,76,APB,FR,Augusto
+137,3,00:04,60,76,SPF,FC_A,Shamell
+138,3,00:05,60,76,SPF,substituicao_entra,Danilo
+139,3,00:05,60,76,SPF,substituicao_sai,Jefferson
+140,3,00:05,60,76,SPF,LL_Pts_C,Shamell
+141,3,00:05,60,75,SPF,LL_Pts_C,Shamell
+142,3,00:05,60,74,SPF,FR,Shamell
+143,3,00:05,60,74,APB,FC,Gustavo
+144,3,00:11,60,74,APB,substituicao_entra,Paulo
+145,3,00:11,60,74,APB,substituicao_sai,Phillips
+146,3,00:11,60,74,APB,2_Pts_C,Funches III
+147,3,00:11,58,74,APB,RO,Funches III
+148,3,00:13,58,74,APB,2_Pts_T,Thornton
+149,3,00:30,58,74,SPF,substituicao_entra,Jones
+150,3,00:30,58,74,SPF,substituicao_sai,Renan
+151,3,00:30,58,74,APB,substituicao_entra,Gustavo
+152,3,00:30,58,74,APB,substituicao_sai,Coimbra
+153,3,00:30,58,74,SPF,LL_Pts_C,Georginho
+154,3,00:30,58,73,SPF,LL_Pts_C,Georginho
+155,3,00:30,58,72,SPF,FR,Georginho
+156,3,00:30,58,72,APB,FC,Augusto
+157,3,00:36,58,72,SPF,BR,Georginho
+158,3,00:36,58,72,APB,ER,Augusto
+159,3,00:51,58,72,SPF,2_Pts_C,Léo Meindl
+160,3,01:06,58,70,APB,2_Pts_C,Phillips
+161,3,01:20,56,70,APB,FR,Funches III
+162,3,01:20,56,70,SPF,ER,Léo Meindl
+163,3,01:20,56,70,SPF,FC_O,Léo Meindl
+164,3,01:39,56,70,APB,AS,Coimbra
+165,3,01:39,56,70,APB,2_Pts_C,Funches III
+166,3,01:56,54,70,APB,BR,Phillips
+167,3,01:56,54,70,SPF,ER,Léo Meindl
+168,3,01:58,54,70,SPF,RD,Léo Meindl
+169,3,02:01,54,70,APB,3_Pts_T,Phillips
+170,3,02:26,54,70,SPF,LL_Pts_C,Jefferson
+171,3,02:26,54,69,SPF,LL_Pts_C,Jefferson
+172,3,02:26,54,68,SPF,LL_Pts_T,Jefferson
+173,3,02:27,54,68,SPF,FR,Jefferson
+174,3,02:27,54,68,APB,FC,Phillips
+175,3,02:36,54,68,SPF,RO,Jefferson
+176,3,02:40,54,68,SPF,2_Pts_T,Shamell
+177,3,02:48,54,68,APB,substituicao_entra,Augusto
+178,3,02:48,54,68,APB,substituicao_sai,Gegê
+179,3,02:48,54,68,SPF,FR,Léo Meindl
+180,3,02:48,54,68,APB,FC,Phillips
+181,3,03:10,54,68,APB,AS,Phillips
+182,3,03:10,54,68,APB,2_Pts_C,Thornton
+183,3,03:16,52,68,APB,RO,Funches III
+184,3,03:18,52,68,APB,3_Pts_T,Thornton
+185,3,03:26,52,68,APB,RD,Coimbra
+186,3,03:29,52,68,SPF,3_Pts_T,Jefferson
+187,3,03:51,52,68,APB,AS,Funches III
+188,3,03:51,52,68,APB,2_Pts_C,Coimbra
+189,3,04:09,50,68,SPF,AS,Jefferson
+190,3,04:09,50,68,SPF,EN,Renan
+191,3,04:27,50,66,APB,LL_Pts_C,Phillips
+192,3,04:27,49,66,APB,FR,Phillips
+193,3,04:27,49,66,SPF,FC,Jefferson
+194,3,04:27,49,66,APB,2_Pts_C,Phillips
+195,3,04:56,47,66,SPF,AS,Léo Meindl
+196,3,04:56,47,66,SPF,3_Pts_C,Renan
+197,3,05:09,47,63,APB,substituicao_entra,Coimbra
+198,3,05:09,47,63,APB,substituicao_entra,Phillips
+199,3,05:09,47,63,APB,substituicao_sai,Rodrigues
+200,3,05:09,47,63,APB,substituicao_sai,Gustavo
+201,3,05:09,47,63,SPF,FR,Shamell
+202,3,05:09,47,63,APB,FC,Rodrigues
+203,3,05:21,47,63,APB,3_Pts_C,Gegê
+204,3,05:46,44,63,SPF,EN,Georginho
+205,3,06:02,44,61,SPF,BR,Renan
+206,3,06:02,44,61,APB,ER,Gustavo
+207,3,06:13,44,61,SPF,LL_Pts_C,Léo Meindl
+208,3,06:13,44,60,SPF,FR,Léo Meindl
+209,3,06:13,44,60,APB,FC,Rodrigues
+210,3,06:13,44,60,SPF,2_Pts_C,Léo Meindl
+211,3,06:30,44,58,APB,AS,Thornton
+212,3,06:30,44,58,APB,2_Pts_C,Funches III
+213,3,06:44,42,58,APB,RD,Pato Basquete
+214,3,06:45,42,58,SPF,3_Pts_T,Léo Meindl
+215,3,07:01,42,58,APB,AS,Gegê
+216,3,07:01,42,58,APB,EN,Funches III
+217,3,07:18,40,58,APB,substituicao_entra,Thornton
+218,3,07:18,40,58,APB,substituicao_sai,Paulo
+219,3,07:18,40,58,SPF,EN,Renan
+220,3,07:19,40,56,SPF,RD,Jefferson
+221,3,07:24,40,56,APB,2_Pts_T,Funches III
+222,3,07:30,40,56,APB,RD,Gegê
+223,3,07:33,40,56,SPF,3_Pts_T,Renan
+224,3,07:41,40,56,SPF,RD,Jefferson
+225,3,07:46,40,56,APB,2_Pts_T,Paulo
+226,3,07:59,40,56,SPF,substituicao_entra,Léo Meindl
+227,3,07:59,40,56,SPF,substituicao_sai,Murilo
+228,3,08:04,40,56,APB,tempo_tecnico,Pato Basquete
+229,3,08:06,40,56,SPF,AS,Renan
+230,3,08:06,40,56,SPF,3_Pts_C,Jefferson
+231,3,08:10,40,53,SPF,RD,Jefferson
+232,3,08:14,40,53,APB,2_Pts_T,Paulo
+233,3,08:32,40,53,SPF,AS,Georginho
+234,3,08:32,40,53,SPF,3_Pts_C,Jefferson
+235,3,08:43,40,50,SPF,BR,Shamell
+236,3,08:43,40,50,APB,ER,Paulo
+237,3,08:48,40,50,APB,RD,Gegê
+238,3,08:52,40,50,SPF,2_Pts_T,Jefferson
+239,3,08:57,40,50,SPF,RD,Renan
+240,3,09:02,40,50,APB,2_Pts_T,Paulo
+241,3,09:25,40,50,SPF,AS,Shamell
+242,3,09:25,40,50,SPF,2_Pts_C,Georginho
+243,3,09:31,40,48,SPF,BR,Shamell
+244,3,09:31,40,48,APB,ER,Gustavo
+245,3,09:43,40,48,SPF,2_Pts_C,Shamell
+246,3,10:00,40,46,,inicio_quarto,
+247,2,00:00,40,46,,fim_quarto,
+248,2,00:02,40,46,APB,AS,Gegê
+249,2,00:02,40,46,APB,EN,Paulo
+250,2,00:21,38,46,APB,tempo_tecnico,Pato Basquete
+251,2,00:21,38,46,SPF,AS,Georginho
+252,2,00:21,38,46,SPF,2_Pts_C,Murilo
+253,2,00:43,38,44,APB,2_Pts_C,Paulo
+254,2,00:45,36,44,APB,substituicao_entra,Paulo
+255,2,00:45,36,44,APB,substituicao_sai,Leandro
+256,2,00:49,36,44,APB,RD,Rodrigues
+257,2,00:53,36,44,SPF,3_Pts_T,Danilo
+258,2,00:54,36,44,SPF,substituicao_entra,Danilo
+259,2,00:54,36,44,SPF,substituicao_sai,Jefferson
+260,2,01:17,36,44,SPF,substituicao_entra,Shamell
+261,2,01:17,36,44,SPF,substituicao_sai,Danilo
+262,2,01:17,36,44,SPF,tempo_tecnico,São Paulo
+263,2,01:17,36,44,APB,EN,Rodrigues
+264,2,01:17,34,44,APB,RO,Rodrigues
+265,2,01:19,34,44,APB,2_Pts_T,Rodrigues
+266,2,01:38,34,44,SPF,substituicao_entra,Danilo
+267,2,01:38,34,44,SPF,substituicao_sai,Léo Meindl
+268,2,01:38,34,44,SPF,LL_Pts_C,Léo Meindl
+269,2,01:38,34,43,SPF,LL_Pts_C,Léo Meindl
+270,2,01:38,34,42,SPF,FR,Léo Meindl
+271,2,01:38,34,42,APB,FC,Rodrigues
+272,2,01:42,34,42,SPF,RD,Léo Meindl
+273,2,01:45,34,42,APB,2_Pts_T,Thornton
+274,2,01:59,34,42,SPF,LL_Pts_C,Léo Meindl
+275,2,01:59,34,41,SPF,LL_Pts_C,Léo Meindl
+276,2,01:59,34,40,SPF,FR,Léo Meindl
+277,2,01:59,34,40,APB,FC,Leandro
+278,2,02:21,34,40,APB,AS,Thornton
+279,2,02:21,34,40,APB,3_Pts_C,Gustavo
+280,2,02:41,31,40,SPF,ER,Murilo
+281,2,02:41,31,40,SPF,RO,Murilo
+282,2,02:43,31,40,APB,TO,Rodrigues
+283,2,02:43,31,40,SPF,2_Pts_T,Murilo
+284,2,02:57,31,40,SPF,RD,Georginho
+285,2,02:57,31,40,APB,LL_Pts_T,Rodrigues
+286,2,02:57,31,40,APB,LL_Pts_T,Rodrigues
+287,2,02:57,31,40,SPF,substituicao_entra,Murilo
+288,2,02:57,31,40,SPF,substituicao_sai,Renan
+289,2,02:57,31,40,APB,FR,Rodrigues
+290,2,02:57,31,40,SPF,FC,Renan
+291,2,03:11,31,40,APB,LL_Pts_T,Leandro
+292,2,03:11,31,40,APB,AS,Gegê
+293,2,03:11,31,40,APB,LL_Pts_C,Leandro
+294,2,03:11,30,40,APB,FR,Leandro
+295,2,03:11,30,40,SPF,FC_A,Jones
+296,2,03:26,30,40,SPF,LL_Pts_C,Jefferson
+297,2,03:26,30,39,SPF,LL_Pts_T,Jefferson
+298,2,03:26,30,39,SPF,substituicao_entra,Léo Meindl
+299,2,03:26,30,39,SPF,substituicao_sai,Shamell
+300,2,03:26,30,39,APB,substituicao_entra,Rodrigues
+301,2,03:26,30,39,APB,substituicao_entra,Leandro
+302,2,03:26,30,39,APB,substituicao_entra,Thornton
+303,2,03:26,30,39,APB,substituicao_sai,Coimbra
+304,2,03:26,30,39,APB,substituicao_sai,Paulo
+305,2,03:26,30,39,APB,substituicao_sai,Phillips
+306,2,03:26,30,39,SPF,FR,Jefferson
+307,2,03:26,30,39,APB,FC,Paulo
+308,2,03:29,30,39,SPF,RD,Renan
+309,2,03:32,30,39,APB,3_Pts_T,Phillips
+310,2,03:47,30,39,SPF,AS,Renan
+311,2,03:47,30,39,SPF,2_Pts_C,Jones
+312,2,03:47,30,37,SPF,RO,Renan
+313,2,03:51,30,37,SPF,3_Pts_T,Jefferson
+314,2,04:11,30,37,APB,2_Pts_C,Gustavo
+315,2,04:12,28,37,APB,RO,Gustavo
+316,2,04:15,28,37,APB,2_Pts_T,Coimbra
+317,2,04:40,28,37,SPF,3_Pts_C,Jones
+318,2,04:55,28,34,APB,2_Pts_C,Phillips
+319,2,05:17,26,34,SPF,LL_Pts_C,Renan
+320,2,05:17,26,33,SPF,LL_Pts_C,Renan
+321,2,05:17,26,32,SPF,FR,Renan
+322,2,05:17,26,32,APB,FC,Paulo
+323,2,05:26,26,32,SPF,substituicao_entra,Jones
+324,2,05:26,26,32,SPF,substituicao_sai,Léo Meindl
+325,2,05:26,26,32,SPF,FR,Georginho
+326,2,05:26,26,32,APB,FC,Gustavo
+327,2,05:26,26,32,SPF,RO,São Paulo
+328,2,05:27,26,32,SPF,3_Pts_T,Renan
+329,2,05:52,26,32,APB,AS,Gegê
+330,2,05:52,26,32,APB,2_Pts_C,Paulo
+331,2,05:58,24,32,APB,BR,Paulo
+332,2,05:58,24,32,SPF,ER,Georginho
+333,2,06:42,24,32,APB,2_Pts_C,Gustavo
+334,2,06:43,22,32,APB,RD,Paulo
+335,2,06:47,22,32,SPF,3_Pts_T,Jefferson
+336,2,06:53,22,32,APB,LL_Pts_C,Coimbra
+337,2,06:53,21,32,APB,LL_Pts_T,Coimbra
+338,2,06:53,21,32,APB,FR,Coimbra
+339,2,06:53,21,32,SPF,FC,Renan
+340,2,07:00,21,32,SPF,3_Pts_C,Jefferson
+341,2,07:07,21,29,APB,FR,Coimbra
+342,2,07:07,21,29,SPF,FC,Jefferson
+343,2,07:07,21,29,SPF,RD,Renan
+344,2,07:07,21,29,APB,LL_Pts_T,Coimbra
+345,2,07:07,21,29,APB,2_Pts_C,Coimbra
+346,2,07:14,19,29,APB,substituicao_entra,Paulo
+347,2,07:14,19,29,APB,substituicao_sai,Leandro
+348,2,07:14,19,29,APB,substituicao_entra,Gegê
+349,2,07:14,19,29,APB,substituicao_entra,Gustavo
+350,2,07:14,19,29,APB,substituicao_sai,Augusto
+351,2,07:14,19,29,APB,substituicao_sai,Paulo
+352,2,07:30,19,29,SPF,2_Pts_C,Renan
+353,2,07:46,19,27,SPF,TO,Renan
+354,2,07:46,19,27,SPF,RD,Renan
+355,2,07:46,19,27,APB,2_Pts_T,Paulo
+356,2,08:05,19,27,APB,tempo_tecnico,Pato Basquete
+357,2,08:05,19,27,SPF,2_Pts_C,Georginho
+358,2,08:10,19,25,SPF,RO,Georginho
+359,2,08:13,19,25,SPF,3_Pts_T,Léo Meindl
+360,2,08:25,19,25,SPF,FR,Jefferson
+361,2,08:25,19,25,APB,FC,Paulo
+362,2,08:25,19,25,SPF,RD,São Paulo
+363,2,08:27,19,25,APB,3_Pts_T,Augusto
+364,2,08:48,19,25,SPF,AS,Georginho
+365,2,08:48,19,25,SPF,3_Pts_C,Jefferson
+366,2,09:06,19,22,APB,LL_Pts_C,Paulo
+367,2,09:06,18,22,APB,LL_Pts_C,Paulo
+368,2,09:06,17,22,APB,FR,Paulo
+369,2,09:06,17,22,SPF,FC,Renan
+370,2,09:25,17,22,SPF,LL_Pts_C,Renan
+371,2,09:25,17,21,SPF,FR,Renan
+372,2,09:25,17,21,APB,FC,Coimbra
+373,2,09:26,17,21,SPF,AS,Shamell
+374,2,09:26,17,21,SPF,EN,Renan
+375,2,09:34,17,19,SPF,RD,Léo Meindl
+376,2,09:37,17,19,APB,3_Pts_T,Leandro
+377,2,10:00,17,19,,inicio_quarto,
+378,1,00:00,17,19,,fim_quarto,
+379,1,00:03,17,19,APB,3_Pts_T,Thornton
+380,1,00:05,17,19,APB,RD,Thornton
+381,1,00:08,17,19,SPF,2_Pts_T,Léo Meindl
+382,1,00:20,17,19,APB,2_Pts_C,Thornton
+383,1,00:26,15,19,APB,RO,Thornton
+384,1,00:29,15,19,APB,2_Pts_T,Coimbra
+385,1,00:49,15,19,SPF,2_Pts_C,Léo Meindl
+386,1,00:53,15,17,SPF,RD,Shamell
+387,1,00:56,15,17,APB,3_Pts_T,Thornton
+388,1,01:13,15,17,SPF,AS,Shamell
+389,1,01:13,15,17,SPF,3_Pts_C,Renan
+390,1,01:22,15,14,SPF,RD,Renan
+391,1,01:22,15,14,APB,LL_Pts_T,Augusto
+392,1,01:22,15,14,APB,substituicao_entra,Paulo
+393,1,01:22,15,14,APB,substituicao_sai,Gustavo
+394,1,01:22,15,14,APB,FR,Augusto
+395,1,01:22,15,14,SPF,FC,Léo Meindl
+396,1,01:23,15,14,APB,2_Pts_C,Augusto
+397,1,01:32,13,14,APB,RD,Leandro
+398,1,01:36,13,14,SPF,3_Pts_T,Shamell
+399,1,01:40,13,14,SPF,RD,Jefferson
+400,1,01:45,13,14,APB,3_Pts_T,Leandro
+401,1,02:09,13,14,SPF,AS,Shamell
+402,1,02:09,13,14,SPF,3_Pts_C,Jefferson
+403,1,02:14,13,11,SPF,BR,Shamell
+404,1,02:14,13,11,APB,ER,Coimbra
+405,1,02:15,13,11,APB,RD,Coimbra
+406,1,02:19,13,11,SPF,2_Pts_T,Shamell
+407,1,02:32,13,11,SPF,RD,Renan
+408,1,02:36,13,11,APB,3_Pts_T,Augusto
+409,1,02:51,13,11,APB,substituicao_entra,Coimbra
+410,1,02:51,13,11,APB,substituicao_sai,Paulo
+411,1,02:51,13,11,APB,substituicao_entra,Augusto
+412,1,02:51,13,11,APB,substituicao_sai,Gegê
+413,1,02:51,13,11,SPF,ER,Shamell
+414,1,03:15,13,11,APB,AS,Gegê
+415,1,03:15,13,11,APB,2_Pts_C,Gustavo
+416,1,03:19,11,11,APB,RO,Gegê
+417,1,03:22,11,11,APB,3_Pts_T,Leandro
+418,1,03:49,11,11,SPF,AS,Jefferson
+419,1,03:49,11,11,SPF,2_Pts_C,Léo Meindl
+420,1,03:58,11,9,SPF,RD,Renan
+421,1,04:01,11,9,APB,3_Pts_T,Gustavo
+422,1,04:03,11,9,APB,RO,Paulo
+423,1,04:07,11,9,APB,2_Pts_T,Paulo
+424,1,04:09,11,9,APB,RO,Paulo
+425,1,04:12,11,9,APB,3_Pts_T,Gustavo
+426,1,04:31,11,9,SPF,AS,Georginho
+427,1,04:31,11,9,SPF,2_Pts_C,Renan
+428,1,04:45,11,7,APB,2_Pts_C,Leandro
+429,1,05:06,9,7,SPF,AS,Georginho
+430,1,05:06,9,7,SPF,3_Pts_C,Shamell
+431,1,05:26,9,4,APB,AS,Gegê
+432,1,05:26,9,4,APB,2_Pts_C,Paulo
+433,1,05:41,7,4,APB,BR,Gustavo
+434,1,05:41,7,4,SPF,ER,Léo Meindl
+435,1,05:46,7,4,APB,substituicao_entra,Leandro
+436,1,05:46,7,4,APB,substituicao_sai,Funches III
+437,1,05:46,7,4,SPF,FR,Jefferson
+438,1,05:46,7,4,APB,FC,Funches III
+439,1,05:56,7,4,SPF,RD,São Paulo
+440,1,06:02,7,4,APB,2_Pts_T,Funches III
+441,1,06:18,7,4,SPF,LL_Pts_C,Renan
+442,1,06:18,7,3,SPF,LL_Pts_T,Renan
+443,1,06:18,7,3,SPF,FR,Renan
+444,1,06:18,7,3,APB,FC,Funches III
+445,1,06:24,7,3,APB,2_Pts_C,Funches III
+446,1,06:49,5,3,SPF,2_Pts_C,Léo Meindl
+447,1,06:58,5,1,SPF,RO,Jefferson
+448,1,07:03,5,1,SPF,3_Pts_T,Georginho
+449,1,07:14,5,1,SPF,FR,Renan
+450,1,07:14,5,1,APB,FC,Gegê
+451,1,07:30,5,1,APB,AS,Gegê
+452,1,07:30,5,1,APB,3_Pts_C,Gustavo
+453,1,07:31,2,1,APB,RO,Gegê
+454,1,07:34,2,1,APB,2_Pts_T,Funches III
+455,1,07:43,2,1,APB,RD,Funches III
+456,1,07:46,2,1,SPF,3_Pts_T,Léo Meindl
+457,1,07:52,2,1,SPF,RO,Léo Meindl
+458,1,07:56,2,1,SPF,2_Pts_T,Jefferson
+459,1,08:14,2,1,APB,2_Pts_C,Gustavo
+460,1,08:31,0,1,SPF,LL_Pts_C,Jefferson
+461,1,08:31,0,0,SPF,LL_Pts_T,Jefferson
+462,1,08:31,0,0,SPF,FR,Jefferson
+463,1,08:31,0,0,APB,FC,Paulo
+464,1,08:44,0,0,APB,ER,
+465,1,09:08,0,0,APB,RD,Funches III
+466,1,09:12,0,0,SPF,3_Pts_T,Jefferson
+467,1,09:23,0,0,APB,,
+468,1,09:46,0,0,SPF,ER,
+469,1,10:00,0,0,SPF,substituicao_entra,Renan
+470,1,10:00,0,0,SPF,substituicao_entra,Léo Meindl
+471,1,10:00,0,0,SPF,substituicao_entra,Georginho
+472,1,10:00,0,0,SPF,substituicao_entra,Jefferson
+473,1,10:00,0,0,SPF,substituicao_entra,Shamell
+474,1,10:00,0,0,APB,substituicao_entra,Paulo
+475,1,10:00,0,0,APB,substituicao_entra,Gegê
+476,1,10:00,0,0,APB,substituicao_entra,Gustavo
+477,1,10:00,0,0,APB,substituicao_entra,Funches III
+478,1,10:00,0,0,APB,substituicao_entra,Thornton
+479,1,10:00,0,0,,inicio_partida,

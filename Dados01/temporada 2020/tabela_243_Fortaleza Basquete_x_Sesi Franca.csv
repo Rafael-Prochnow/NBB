@@ -1,0 +1,445 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,64,82,,fim_partida,
+1,4,00:00,64,82,,fim_quarto,
+2,4,00:15,64,82,FRA,RD,Lucas Dias
+3,4,00:20,64,82,CEA,3_Pts_T,Schneider
+4,4,00:29,64,82,CEA,RD,Felipe
+5,4,00:33,64,82,FRA,2_Pts_T,Edu Marília
+6,4,00:37,64,82,FRA,RD,Elinho
+7,4,00:41,64,82,CEA,2_Pts_T,Lobo
+8,4,00:43,64,82,CEA,RD,Lobo
+9,4,00:49,64,82,FRA,2_Pts_T,Edu Marília
+10,4,01:12,64,82,CEA,tempo_tecnico,Fortaleza Basquete Cearense
+11,4,01:12,64,82,CEA,ER,Brite
+12,4,01:26,64,82,FRA,2_Pts_C,Elinho
+13,4,01:38,64,80,FRA,substituicao_entra,Edu Marília
+14,4,01:38,64,80,FRA,substituicao_entra,Adyel
+15,4,01:38,64,80,FRA,substituicao_sai,Gui Abreu
+16,4,01:38,64,80,FRA,substituicao_sai,Jamaal
+17,4,01:38,64,80,CEA,substituicao_entra,Lobo
+18,4,01:38,64,80,CEA,substituicao_sai,Rashaun
+19,4,01:38,64,80,FRA,RD,Jamaal
+20,4,01:39,64,80,CEA,3_Pts_T,Schneider
+21,4,01:58,64,80,FRA,substituicao_entra,Fuzaro
+22,4,01:58,64,80,FRA,substituicao_sai,André Goes
+23,4,01:58,64,80,CEA,substituicao_entra,Felipe
+24,4,01:58,64,80,CEA,substituicao_entra,Schneider
+25,4,01:58,64,80,CEA,substituicao_sai,Sualisson
+26,4,01:58,64,80,CEA,substituicao_sai,Cauê
+27,4,02:00,64,80,FRA,2_Pts_C,Elinho
+28,4,02:24,64,78,FRA,BR,Elinho
+29,4,02:24,64,78,CEA,ER,Brite
+30,4,02:37,64,78,FRA,AS,Jamaal
+31,4,02:37,64,78,FRA,2_Pts_C,Gui Abreu
+32,4,02:57,64,76,CEA,2_Pts_C,Sualisson
+33,4,02:57,62,76,CEA,RO,Sualisson
+34,4,03:06,62,76,FRA,TO,Gui Abreu
+35,4,03:06,62,76,CEA,2_Pts_T,Rashaun
+36,4,03:12,62,76,CEA,BR,Rashaun
+37,4,03:12,62,76,FRA,ER,Elinho
+38,4,03:27,62,76,CEA,LL_Pts_C,Brite
+39,4,03:27,61,76,CEA,substituicao_entra,Cauê
+40,4,03:27,61,76,CEA,substituicao_sai,Schneider
+41,4,03:27,61,76,CEA,FR,Brite
+42,4,03:27,61,76,FRA,FC,Gui Abreu
+43,4,03:27,61,76,CEA,2_Pts_C,Brite
+44,4,03:42,59,76,FRA,2_Pts_C,Elinho
+45,4,03:46,59,74,FRA,BR,Elinho
+46,4,03:46,59,74,CEA,ER,Schneider
+47,4,03:56,59,74,FRA,AS,Gui Abreu
+48,4,03:56,59,74,FRA,2_Pts_C,Jamaal
+49,4,04:16,59,72,FRA,RD,Lucas Dias
+50,4,04:20,59,72,CEA,3_Pts_T,Schneider
+51,4,04:29,59,72,FRA,LL_Pts_C,Gui Abreu
+52,4,04:29,59,71,FRA,LL_Pts_C,Gui Abreu
+53,4,04:29,59,70,FRA,FR,Gui Abreu
+54,4,04:29,59,70,CEA,FC,Sualisson
+55,4,04:51,59,70,CEA,AS,Rashaun
+56,4,04:51,59,70,CEA,3_Pts_C,Schneider
+57,4,05:03,56,70,CEA,tempo_tecnico,Fortaleza Basquete Cearense
+58,4,05:03,56,70,FRA,LL_Pts_C,André Goes
+59,4,05:03,56,69,FRA,LL_Pts_T,André Goes
+60,4,05:03,56,69,FRA,substituicao_entra,Lucas Dias
+61,4,05:03,56,69,FRA,substituicao_sai,Márcio
+62,4,05:03,56,69,FRA,FR,André Goes
+63,4,05:03,56,69,CEA,FC,Schneider
+64,4,05:11,56,69,CEA,LL_Pts_C,Rashaun
+65,4,05:11,55,69,CEA,LL_Pts_C,Rashaun
+66,4,05:11,54,69,CEA,FR,Rashaun
+67,4,05:11,54,69,FRA,FC,Márcio
+68,4,05:12,54,69,CEA,RO,Schneider
+69,4,05:18,54,69,CEA,3_Pts_T,Schneider
+70,4,05:29,54,69,FRA,LL_Pts_C,Márcio
+71,4,05:29,54,68,FRA,LL_Pts_T,Márcio
+72,4,05:29,54,68,FRA,LL_Pts_C,André Goes
+73,4,05:29,54,67,CEA,FC_T,Rashaun
+74,4,05:33,54,67,FRA,FR,Márcio
+75,4,05:33,54,67,CEA,FC,Rashaun
+76,4,05:50,54,67,FRA,RD,Márcio
+77,4,05:50,54,67,CEA,LL_Pts_T,Sualisson
+78,4,05:50,54,67,CEA,AS,Brite
+79,4,05:50,54,67,CEA,LL_Pts_C,Sualisson
+80,4,05:50,53,67,CEA,FR,Sualisson
+81,4,05:50,53,67,FRA,FC,André Goes
+82,4,06:06,53,67,FRA,LL_Pts_C,André Goes
+83,4,06:06,53,66,FRA,LL_Pts_C,André Goes
+84,4,06:06,53,65,FRA,FR,André Goes
+85,4,06:06,53,65,CEA,FC,Alex
+86,4,06:17,53,65,CEA,2_Pts_C,Schneider
+87,4,06:21,51,65,CEA,RD,Brite
+88,4,06:25,51,65,FRA,3_Pts_T,Gui Abreu
+89,4,06:48,51,65,CEA,AS,Brite
+90,4,06:48,51,65,CEA,2_Pts_C,Sualisson
+91,4,06:59,49,65,FRA,2_Pts_C,Elinho
+92,4,07:18,49,63,FRA,RD,Jamaal
+93,4,07:21,49,63,CEA,3_Pts_T,Brite
+94,4,07:30,49,63,CEA,substituicao_entra,Rashaun
+95,4,07:30,49,63,CEA,substituicao_sai,Cauê
+96,4,07:31,49,63,CEA,FR,Schneider
+97,4,07:31,49,63,FRA,ER,Gui Abreu
+98,4,07:31,49,63,FRA,FC_O,Gui Abreu
+99,4,07:37,49,63,FRA,RD,Márcio
+100,4,07:40,49,63,CEA,2_Pts_T,Alex
+101,4,08:08,49,63,FRA,2_Pts_C,Gui Abreu
+102,4,08:26,49,61,FRA,FR,André Goes
+103,4,08:26,49,61,CEA,FC,Schneider
+104,4,08:26,49,61,FRA,RD,Franca
+105,4,08:29,49,61,CEA,3_Pts_T,Alex
+106,4,08:50,49,61,CEA,substituicao_entra,Sualisson
+107,4,08:50,49,61,CEA,substituicao_entra,Alex
+108,4,08:50,49,61,CEA,substituicao_sai,Felipe
+109,4,08:50,49,61,CEA,substituicao_sai,Mathias
+110,4,08:50,49,61,CEA,tempo_tecnico,Fortaleza Basquete Cearense
+111,4,08:54,49,61,FRA,AS,André Goes
+112,4,08:54,49,61,FRA,3_Pts_C,Jamaal
+113,4,09:09,49,58,CEA,ER,Felipe
+114,4,09:25,49,58,FRA,AS,Jamaal
+115,4,09:25,49,58,FRA,3_Pts_C,Gui Abreu
+116,4,09:43,49,55,CEA,LL_Pts_C,Brite
+117,4,09:43,48,55,CEA,LL_Pts_C,Brite
+118,4,09:43,47,55,CEA,FR,Brite
+119,4,09:43,47,55,FRA,FC,Márcio
+120,4,10:00,47,55,,inicio_quarto,
+121,3,00:00,47,55,,fim_quarto,
+122,3,00:01,47,55,FRA,RO,Franca
+123,3,00:01,47,55,FRA,2_Pts_T,Jamaal
+124,3,00:17,47,55,FRA,substituicao_entra,Elinho
+125,3,00:17,47,55,FRA,substituicao_sai,Fuzaro
+126,3,00:17,47,55,CEA,substituicao_entra,Schneider
+127,3,00:17,47,55,CEA,substituicao_sai,Brite
+128,3,00:17,47,55,FRA,FR,Márcio
+129,3,00:17,47,55,CEA,ER,Mathias
+130,3,00:17,47,55,CEA,FC_O,Mathias
+131,3,00:27,47,55,FRA,substituicao_entra,Fuzaro
+132,3,00:27,47,55,FRA,substituicao_sai,Elinho
+133,3,00:27,47,55,CEA,substituicao_entra,Mathias
+134,3,00:27,47,55,CEA,substituicao_entra,Brite
+135,3,00:27,47,55,CEA,substituicao_sai,Rashaun
+136,3,00:27,47,55,CEA,substituicao_sai,Alex
+137,3,00:37,47,55,FRA,AS,Elinho
+138,3,00:37,47,55,FRA,2_Pts_C,Márcio
+139,3,01:05,47,53,CEA,AS,Cauê
+140,3,01:05,47,53,CEA,3_Pts_C,Felipe
+141,3,01:17,44,53,FRA,2_Pts_C,Márcio
+142,3,01:19,44,51,FRA,RO,Márcio
+143,3,01:24,44,51,FRA,3_Pts_T,André Goes
+144,3,01:38,44,51,CEA,ER,
+145,3,01:51,44,51,CEA,RO,Cauê
+146,3,01:55,44,51,CEA,3_Pts_T,Rashaun
+147,3,01:57,44,51,CEA,RD,Sualisson
+148,3,02:00,44,51,FRA,2_Pts_T,Elinho
+149,3,02:09,44,51,FRA,RD,Márcio
+150,3,02:15,44,51,CEA,2_Pts_T,Felipe
+151,3,02:16,44,51,CEA,RO,Rashaun
+152,3,02:22,44,51,CEA,2_Pts_T,Sualisson
+153,3,02:46,44,51,FRA,AS,Elinho
+154,3,02:46,44,51,FRA,EN,Márcio
+155,3,03:04,44,49,CEA,AS,Alex
+156,3,03:04,44,49,CEA,3_Pts_C,Felipe
+157,3,03:06,41,49,CEA,FR,Felipe
+158,3,03:06,41,49,FRA,FC,Márcio
+159,3,03:19,41,49,FRA,LL_Pts_C,Márcio
+160,3,03:19,41,48,CEA,substituicao_entra,Felipe
+161,3,03:19,41,48,CEA,substituicao_sai,Lobo
+162,3,03:19,41,48,FRA,FR,Márcio
+163,3,03:19,41,48,CEA,FC,Lobo
+164,3,03:19,41,48,FRA,AS,Gui Abreu
+165,3,03:19,41,48,FRA,2_Pts_C,Márcio
+166,3,03:35,41,46,FRA,RD,André Goes
+167,3,03:39,41,46,CEA,2_Pts_T,Sualisson
+168,3,04:00,41,46,FRA,AS,Elinho
+169,3,04:00,41,46,FRA,2_Pts_C,Márcio
+170,3,04:19,41,44,FRA,substituicao_entra,Jamaal
+171,3,04:19,41,44,FRA,substituicao_sai,Fuzaro
+172,3,04:19,41,44,FRA,FR,Márcio
+173,3,04:19,41,44,CEA,FC,Alex
+174,3,04:19,41,44,FRA,RD,Márcio
+175,3,04:22,41,44,CEA,3_Pts_T,Lobo
+176,3,04:43,41,44,FRA,ER,André Goes
+177,3,04:44,41,44,FRA,FR,Márcio
+178,3,04:44,41,44,CEA,FC,Alex
+179,3,04:52,41,44,FRA,substituicao_entra,Márcio
+180,3,04:52,41,44,FRA,substituicao_sai,Lucas Dias
+181,3,04:52,41,44,CEA,substituicao_entra,Lobo
+182,3,04:52,41,44,CEA,substituicao_sai,Brite
+183,3,04:53,41,44,FRA,FR,Elinho
+184,3,04:53,41,44,CEA,FC,Brite
+185,3,05:06,41,44,FRA,RD,Gui Abreu
+186,3,05:06,41,44,CEA,LL_Pts_T,Rashaun
+187,3,05:06,41,44,CEA,LL_Pts_C,Rashaun
+188,3,05:06,40,44,CEA,substituicao_entra,Alex
+189,3,05:06,40,44,CEA,substituicao_sai,Felipe
+190,3,05:07,40,44,CEA,FR,Rashaun
+191,3,05:07,40,44,FRA,FC,André Goes
+192,3,05:10,40,44,CEA,BR,Rashaun
+193,3,05:10,40,44,FRA,ER,Elinho
+194,3,05:30,40,44,FRA,BR,Gui Abreu
+195,3,05:30,40,44,CEA,ER,Cauê
+196,3,05:38,40,44,CEA,RD,Sualisson
+197,3,05:41,40,44,FRA,2_Pts_T,Fuzaro
+198,3,05:48,40,44,FRA,RD,Elinho
+199,3,05:53,40,44,CEA,2_Pts_T,Felipe
+200,3,06:12,40,44,CEA,RD,Sualisson
+201,3,06:16,40,44,FRA,3_Pts_T,André Goes
+202,3,06:26,40,44,FRA,RD,Lucas Dias
+203,3,06:30,40,44,CEA,2_Pts_T,Felipe
+204,3,06:49,40,44,FRA,ER,Lucas Dias
+205,3,07:17,40,44,FRA,BR,Lucas Dias
+206,3,07:17,40,44,CEA,ER,Brite
+207,3,07:34,40,44,CEA,substituicao_entra,Sualisson
+208,3,07:34,40,44,CEA,substituicao_sai,Alex
+209,3,07:40,40,44,FRA,ER,Elinho
+210,3,07:46,40,44,FRA,RD,Elinho
+211,3,07:46,40,44,CEA,2_Pts_T,Brite
+212,3,07:46,40,44,CEA,BR,Brite
+213,3,07:46,40,44,FRA,ER,Lucas Dias
+214,3,07:57,40,44,CEA,2_Pts_C,Brite
+215,3,08:03,38,44,CEA,BR,Cauê
+216,3,08:03,38,44,FRA,ER,Elinho
+217,3,08:37,38,44,FRA,RO,Franca
+218,3,08:40,38,44,FRA,2_Pts_T,Lucas Dias
+219,3,08:43,38,44,CEA,substituicao_entra,Felipe
+220,3,08:43,38,44,CEA,substituicao_sai,Mathias
+221,3,08:43,38,44,CEA,ER,Rashaun
+222,3,08:43,38,44,CEA,RD,Mathias
+223,3,08:52,38,44,FRA,3_Pts_T,Gui Abreu
+224,3,08:58,38,44,FRA,BR,Fuzaro
+225,3,08:58,38,44,CEA,ER,Alex
+226,3,09:19,38,44,FRA,EN,Fuzaro
+227,3,09:26,38,42,FRA,RD,Fuzaro
+228,3,09:30,38,42,CEA,3_Pts_T,Cauê
+229,3,09:47,38,42,FRA,AS,Elinho
+230,3,09:47,38,42,FRA,3_Pts_C,Gui Abreu
+231,3,10:00,38,39,,inicio_quarto,
+232,2,00:00,38,39,,fim_quarto,
+233,2,00:01,38,39,CEA,2_Pts_C,Brite
+234,2,00:19,36,39,FRA,2_Pts_C,Fuzaro
+235,2,00:24,36,37,FRA,BR,Fuzaro
+236,2,00:24,36,37,CEA,ER,Brite
+237,2,00:30,36,37,CEA,RD,Cauê
+238,2,00:36,36,37,FRA,2_Pts_T,Elinho
+239,2,00:51,36,37,CEA,AS,Cauê
+240,2,00:51,36,37,CEA,3_Pts_C,Alex
+241,2,01:10,33,37,CEA,tempo_tecnico,Fortaleza Basquete Cearense
+242,2,01:11,33,37,FRA,AS,Fuzaro
+243,2,01:11,33,37,FRA,3_Pts_C,André Goes
+244,2,01:21,33,34,FRA,RD,Fuzaro
+245,2,01:26,33,34,CEA,3_Pts_T,Felipe
+246,2,01:28,33,34,CEA,RD,Alex
+247,2,01:34,33,34,CEA,TO,Cauê
+248,2,01:34,33,34,FRA,2_Pts_T,Márcio
+249,2,01:35,33,34,FRA,RD,André Goes
+250,2,01:40,33,34,CEA,3_Pts_T,Brite
+251,2,02:06,33,34,FRA,AS,André Goes
+252,2,02:06,33,34,FRA,2_Pts_C,Lucas Dias
+253,2,02:13,33,32,FRA,substituicao_entra,Lucas Dias
+254,2,02:13,33,32,FRA,substituicao_sai,Hubner
+255,2,02:13,33,32,FRA,tempo_tecnico,Franca
+256,2,02:14,33,32,FRA,FR,Fuzaro
+257,2,02:14,33,32,CEA,FC,Brite
+258,2,02:22,33,32,FRA,RD,Fuzaro
+259,2,02:25,33,32,CEA,3_Pts_T,Schneider
+260,2,02:31,33,32,CEA,FR,Brite
+261,2,02:31,33,32,FRA,FC,Fuzaro
+262,2,02:37,33,32,CEA,FR,Cauê
+263,2,02:37,33,32,FRA,FC,Fuzaro
+264,2,02:49,33,32,FRA,ER,Elinho
+265,2,02:58,33,32,FRA,substituicao_entra,André Goes
+266,2,02:58,33,32,FRA,substituicao_sai,Jamaal
+267,2,03:00,33,32,CEA,ER,Schneider
+268,2,03:00,33,32,CEA,RD,Schneider
+269,2,03:06,33,32,CEA,TO,Felipe
+270,2,03:06,33,32,FRA,2_Pts_T,Hubner
+271,2,03:26,33,32,CEA,AS,Cauê
+272,2,03:26,33,32,CEA,3_Pts_C,Felipe
+273,2,03:42,30,32,FRA,substituicao_entra,Elinho
+274,2,03:42,30,32,FRA,substituicao_sai,Gui Abreu
+275,2,03:42,30,32,CEA,substituicao_entra,Felipe
+276,2,03:42,30,32,CEA,substituicao_sai,Mathias
+277,2,03:42,30,32,CEA,RD,Fortaleza Basquete Cearense
+278,2,03:43,30,32,FRA,3_Pts_T,Hubner
+279,2,03:58,30,32,FRA,RD,Fuzaro
+280,2,04:03,30,32,CEA,3_Pts_T,Brite
+281,2,04:18,30,32,FRA,AS,Jamaal
+282,2,04:18,30,32,FRA,2_Pts_C,Lucas Dias
+283,2,04:19,30,30,FRA,RD,Jamaal
+284,2,04:23,30,30,CEA,2_Pts_T,Mathias
+285,2,04:41,30,30,CEA,RO,Fortaleza Basquete Cearense
+286,2,04:42,30,30,FRA,substituicao_entra,Hubner
+287,2,04:42,30,30,FRA,substituicao_sai,Lucas Dias
+288,2,04:43,30,30,CEA,2_Pts_T,Cauê
+289,2,05:03,30,30,CEA,BR,Alex
+290,2,05:03,30,30,FRA,ER,Fuzaro
+291,2,05:25,30,30,CEA,AS,Brite
+292,2,05:25,30,30,CEA,2_Pts_C,Alex
+293,2,05:46,28,30,FRA,2_Pts_C,Jamaal
+294,2,06:01,28,28,CEA,2_Pts_C,Mathias
+295,2,06:15,26,28,CEA,RD,Mathias
+296,2,06:19,26,28,FRA,2_Pts_T,Fuzaro
+297,2,06:34,26,28,FRA,BR,Gui Abreu
+298,2,06:34,26,28,CEA,ER,Mathias
+299,2,06:42,26,28,CEA,RD,Schneider
+300,2,06:47,26,28,FRA,2_Pts_T,Lucas Dias
+301,2,06:49,26,28,FRA,substituicao_entra,Fuzaro
+302,2,06:49,26,28,FRA,substituicao_sai,André Goes
+303,2,06:49,26,28,CEA,substituicao_entra,Brite
+304,2,06:49,26,28,CEA,substituicao_sai,Rashaun
+305,2,06:49,26,28,FRA,FR,Lucas Dias
+306,2,06:49,26,28,CEA,FC,Schneider
+307,2,07:15,26,28,CEA,3_Pts_C,Rashaun
+308,2,07:35,23,28,FRA,AS,Lucas Dias
+309,2,07:35,23,28,FRA,3_Pts_C,Gui Abreu
+310,2,07:49,23,25,FRA,BR,Lucas Dias
+311,2,07:49,23,25,CEA,ER,Cauê
+312,2,08:02,23,25,CEA,substituicao_entra,Mathias
+313,2,08:02,23,25,CEA,substituicao_sai,Felipe
+314,2,08:02,23,25,CEA,FR,Alex
+315,2,08:02,23,25,FRA,FC,Gui Abreu
+316,2,08:15,23,25,FRA,AS,Márcio
+317,2,08:15,23,25,FRA,2_Pts_C,André Goes
+318,2,08:21,23,23,FRA,BR,Márcio
+319,2,08:21,23,23,CEA,ER,Felipe
+320,2,08:40,23,23,CEA,RD,Fortaleza Basquete Cearense
+321,2,08:41,23,23,FRA,2_Pts_T,Márcio
+322,2,09:03,23,23,CEA,AS,Rashaun
+323,2,09:03,23,23,CEA,3_Pts_C,Cauê
+324,2,09:13,20,23,CEA,FR,Rashaun
+325,2,09:13,20,23,FRA,FC,Jamaal
+326,2,09:17,20,23,CEA,RD,Cauê
+327,2,09:22,20,23,FRA,2_Pts_T,Gui Abreu
+328,2,09:38,20,23,CEA,AS,Cauê
+329,2,09:38,20,23,CEA,3_Pts_C,Rashaun
+330,2,10:00,17,23,,inicio_quarto,
+331,1,00:00,17,23,,fim_quarto,
+332,1,00:03,17,23,FRA,3_Pts_C,Jamaal
+333,1,00:11,17,20,FRA,RD,Gui Abreu
+334,1,00:15,17,20,CEA,3_Pts_T,Alex
+335,1,00:18,17,20,CEA,RO,Fortaleza Basquete Cearense
+336,1,00:18,17,20,FRA,TO,Márcio
+337,1,00:18,17,20,CEA,2_Pts_T,Rashaun
+338,1,00:34,17,20,FRA,ER,Márcio
+339,1,00:34,17,20,FRA,BR,Márcio
+340,1,00:34,17,20,CEA,ER,Schneider
+341,1,00:41,17,20,CEA,BR,Schneider
+342,1,00:41,17,20,FRA,ER,Márcio
+343,1,00:54,17,20,FRA,FR,Jamaal
+344,1,00:54,17,20,CEA,FC,Cauê
+345,1,01:17,17,20,FRA,substituicao_entra,Gui Abreu
+346,1,01:17,17,20,FRA,substituicao_sai,Fuzaro
+347,1,01:17,17,20,CEA,substituicao_entra,Felipe
+348,1,01:17,17,20,CEA,substituicao_entra,Alex
+349,1,01:17,17,20,CEA,substituicao_entra,Cauê
+350,1,01:17,17,20,CEA,substituicao_sai,Sualisson
+351,1,01:17,17,20,CEA,substituicao_sai,Mathias
+352,1,01:17,17,20,CEA,substituicao_sai,Brite
+353,1,01:17,17,20,FRA,RD,Franca
+354,1,01:19,17,20,CEA,3_Pts_T,Schneider
+355,1,01:36,17,20,CEA,RD,Rashaun
+356,1,01:41,17,20,FRA,3_Pts_T,Fuzaro
+357,1,01:42,17,20,FRA,RD,Márcio
+358,1,01:51,17,20,CEA,2_Pts_T,Brite
+359,1,02:09,17,20,FRA,AS,Jamaal
+360,1,02:09,17,20,FRA,3_Pts_C,André Goes
+361,1,02:29,17,17,CEA,3_Pts_C,Brite
+362,1,02:47,14,17,FRA,AS,Lucas Dias
+363,1,02:47,14,17,FRA,2_Pts_C,André Goes
+364,1,02:47,14,15,FRA,substituicao_entra,Jamaal
+365,1,02:47,14,15,FRA,substituicao_sai,Elinho
+366,1,03:05,14,15,CEA,AS,Sualisson
+367,1,03:05,14,15,CEA,3_Pts_C,Brite
+368,1,03:08,11,15,CEA,RD,Rashaun
+369,1,03:14,11,15,CEA,TO,Mathias
+370,1,03:14,11,15,FRA,2_Pts_T,Lucas Dias
+371,1,03:29,11,15,CEA,AS,Brite
+372,1,03:29,11,15,CEA,LL_Pts_C,Mathias
+373,1,03:29,10,15,CEA,LL_Pts_T,Mathias
+374,1,03:29,10,15,FRA,substituicao_entra,Márcio
+375,1,03:29,10,15,FRA,substituicao_sai,Hubner
+376,1,03:29,10,15,CEA,FR,Mathias
+377,1,03:29,10,15,FRA,FC,Elinho
+378,1,03:50,10,15,FRA,AS,Hubner
+379,1,03:50,10,15,FRA,3_Pts_C,Elinho
+380,1,03:59,10,12,CEA,substituicao_entra,Schneider
+381,1,03:59,10,12,CEA,substituicao_sai,Cauê
+382,1,03:59,10,12,CEA,ER,Rashaun
+383,1,04:25,10,12,FRA,AS,Hubner
+384,1,04:25,10,12,FRA,3_Pts_C,André Goes
+385,1,04:30,10,9,FRA,RO,Hubner
+386,1,04:35,10,9,FRA,3_Pts_T,André Goes
+387,1,04:41,10,9,FRA,RD,André Goes
+388,1,04:44,10,9,CEA,2_Pts_T,Cauê
+389,1,05:00,10,9,CEA,FR,Rashaun
+390,1,05:00,10,9,FRA,FC,Elinho
+391,1,05:21,10,9,FRA,AS,André Goes
+392,1,05:21,10,9,FRA,3_Pts_C,Elinho
+393,1,05:35,10,6,CEA,2_Pts_C,Brite
+394,1,05:55,8,6,CEA,RD,Fortaleza Basquete Cearense
+395,1,05:58,8,6,FRA,3_Pts_T,Elinho
+396,1,06:11,8,6,FRA,RD,Hubner
+397,1,06:14,8,6,CEA,3_Pts_T,Rashaun
+398,1,06:19,8,6,CEA,RD,Brite
+399,1,06:24,8,6,FRA,3_Pts_T,Lucas Dias
+400,1,06:42,8,6,CEA,3_Pts_C,Rashaun
+401,1,06:49,5,6,CEA,RD,Cauê
+402,1,06:52,5,6,FRA,3_Pts_T,Lucas Dias
+403,1,07:12,5,6,FRA,RD,Lucas Dias
+404,1,07:16,5,6,CEA,3_Pts_T,Cauê
+405,1,07:32,5,6,CEA,RD,Fortaleza Basquete Cearense
+406,1,07:34,5,6,FRA,3_Pts_T,Hubner
+407,1,07:44,5,6,FRA,FR,Lucas Dias
+408,1,07:44,5,6,CEA,FC,Sualisson
+409,1,07:52,5,6,CEA,LL_Pts_C,Rashaun
+410,1,07:52,4,6,CEA,LL_Pts_C,Rashaun
+411,1,07:52,3,6,CEA,FR,Rashaun
+412,1,07:52,3,6,FRA,FC,André Goes
+413,1,07:56,3,6,CEA,BR,Cauê
+414,1,07:56,3,6,FRA,ER,Elinho
+415,1,08:03,3,6,FRA,RD,Hubner
+416,1,08:07,3,6,CEA,3_Pts_T,Sualisson
+417,1,08:24,3,6,FRA,2_Pts_C,André Goes
+418,1,08:35,3,4,FRA,RD,Lucas Dias
+419,1,08:39,3,4,CEA,3_Pts_T,Brite
+420,1,08:40,3,4,CEA,RD,Cauê
+421,1,08:45,3,4,FRA,2_Pts_T,Hubner
+422,1,08:46,3,4,FRA,RO,Hubner
+423,1,08:51,3,4,FRA,2_Pts_T,Fuzaro
+424,1,09:05,3,4,CEA,3_Pts_C,Brite
+425,1,09:15,0,4,FRA,AS,André Goes
+426,1,09:15,0,4,FRA,2_Pts_C,Elinho
+427,1,09:20,0,2,FRA,RD,Fuzaro
+428,1,09:24,0,2,CEA,2_Pts_T,Sualisson
+429,1,09:45,0,2,FRA,LL_Pts_C,Elinho
+430,1,09:45,0,1,FRA,LL_Pts_C,Elinho
+431,1,09:45,0,0,FRA,FR,Elinho
+432,1,09:45,0,0,CEA,FC,Brite
+433,1,10:00,0,0,FRA,substituicao_entra,Hubner
+434,1,10:00,0,0,FRA,substituicao_entra,André Goes
+435,1,10:00,0,0,FRA,substituicao_entra,Lucas Dias
+436,1,10:00,0,0,FRA,substituicao_entra,Fuzaro
+437,1,10:00,0,0,FRA,substituicao_entra,Elinho
+438,1,10:00,0,0,CEA,substituicao_entra,Rashaun
+439,1,10:00,0,0,CEA,substituicao_entra,Sualisson
+440,1,10:00,0,0,CEA,substituicao_entra,Mathias
+441,1,10:00,0,0,CEA,substituicao_entra,Cauê
+442,1,10:00,0,0,CEA,substituicao_entra,Brite
+443,1,10:00,0,0,,inicio_partida,

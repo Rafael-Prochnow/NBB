@@ -1,0 +1,498 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,85,95, ,fim_partida,
+1,4,00:01,85,95,PIN,3_Pts_T,Bennett
+2,4,00:02,85,95,BAU,2_Pts_C,Paulinho Boracini
+3,4,00:02,85,93,BAU,AS,Robert Day
+4,4,00:06,85,93,BAU,BR,Robert Day
+5,4,00:06,85,93,PIN,ER,Humberto
+6,4,00:12,85,93,BAU,2_Pts_C,Paulinho Boracini
+7,4,00:29,85,91,PIN,LL_Pts_C,Holloway
+8,4,00:29,84,91,PIN,LL_Pts_T,Holloway
+9,4,00:29,84,91,PIN,substituicao_entra,Renan
+10,4,00:29,84,91,PIN,substituicao_sai,Mineiro
+11,4,00:29,84,91,BAU,substituicao_entra,Robert Day
+12,4,00:29,84,91,BAU,substituicao_sai,Léo Meindl
+13,4,00:29,84,91,BAU,substituicao_entra,Jefferson W
+14,4,00:29,84,91,BAU,substituicao_sai,Robert Day
+15,4,00:29,84,91,PIN,FR,Holloway
+16,4,00:29,84,91,BAU,FC,Robert Day
+17,4,00:29,84,91,PIN,RD,Holloway
+18,4,00:29,84,91,BAU,3_Pts_T,Léo Meindl
+19,4,00:45,84,91,PIN,LL_Pts_C,Lucas Dias
+20,4,00:45,83,91,PIN,LL_Pts_C,Lucas Dias
+21,4,00:45,82,91,PIN,FR,Lucas Dias
+22,4,00:45,82,91,BAU,FC,Alex Garcia
+23,4,00:47,82,91,BAU,tempo_tecnico,Bauru
+24,4,00:47,82,91,BAU,FR,Alex Garcia
+25,4,00:47,82,91,PIN,FC,Bennett
+26,4,00:55,82,91,BAU,LL_Pts_C,Alex Garcia
+27,4,00:55,82,90,BAU,LL_Pts_C,Alex Garcia
+28,4,00:59,82,89,PIN,2_Pts_C,Bennett
+29,4,01:09,80,89,BAU,LL_Pts_C,Robert Day
+30,4,01:09,80,88,BAU,LL_Pts_C,Robert Day
+31,4,01:09,80,87,BAU,LL_Pts_C,Robert Day
+32,4,01:09,80,86,BAU,FR,Robert Day
+33,4,01:09,80,86,PIN,FC,Holloway
+34,4,01:19,80,86,BAU,substituicao_entra,Paulinho Boracini
+35,4,01:19,80,86,BAU,substituicao_sai,Jefferson W
+36,4,01:20,80,86,BAU,tempo_tecnico,Bauru
+37,4,01:20,80,86,PIN,2_Pts_C,Holloway
+38,4,01:20,78,86,PIN,AS,Humberto
+39,4,01:25,78,86,PIN,BR,Mineiro
+40,4,01:25,78,86,BAU,ER,Hettsheimeir
+41,4,01:37,78,86,PIN,LL_Pts_C,Lucas Dias
+42,4,01:37,77,86,PIN,2_Pts_C,Lucas Dias
+43,4,01:37,75,86,PIN,FR,Lucas Dias
+44,4,01:37,75,86,BAU,FC,Jefferson W
+45,4,01:50,75,86,BAU,ER,
+46,4,02:17,75,86,BAU,tempo_tecnico,Bauru
+47,4,02:17,75,86,PIN,LL_Pts_C,Bennett
+48,4,02:17,74,86,PIN,LL_Pts_C,Bennett
+49,4,02:17,73,86,PIN,substituicao_entra,Humberto
+50,4,02:17,73,86,PIN,substituicao_sai,Andrezão
+51,4,02:17,73,86,PIN,substituicao_entra,Mineiro
+52,4,02:17,73,86,PIN,substituicao_sai,Renan
+53,4,02:17,73,86,PIN,FR,Bennett
+54,4,02:17,73,86,BAU,FC,Robert Day
+55,4,02:25,73,86,PIN,RD,Lucas Dias
+56,4,02:25,73,86,BAU,3_Pts_T,Léo Meindl
+57,4,02:38,73,86,PIN,2_Pts_C,Renan
+58,4,02:42,71,86,PIN,RO,Renan
+59,4,02:42,71,86,PIN,2_Pts_T,Andrezão
+60,4,02:57,71,86,BAU,3_Pts_C,Robert Day
+61,4,02:57,71,83,BAU,AS,Jefferson W
+62,4,03:17,71,83,PIN,2_Pts_C,Bennett
+63,4,03:26,69,83,PIN,tempo_tecnico,Pinheiros
+64,4,03:26,69,83,BAU,2_Pts_C,Alex Garcia
+65,4,03:46,69,81,BAU,RD,Robert Day
+66,4,03:46,69,81,PIN,3_Pts_T,Andrezão
+67,4,05:06,69,81,BAU,LL_Pts_C,Hettsheimeir
+68,4,05:06,69,80,BAU,AS,Alex Garcia
+69,4,05:06,69,80,BAU,LL_Pts_C,Hettsheimeir
+70,4,05:06,69,79,BAU,FR,Hettsheimeir
+71,4,05:06,69,79,PIN,FC,Bennett
+72,4,05:24,69,79,BAU,substituicao_entra,Jefferson W
+73,4,05:24,69,79,BAU,substituicao_sai,Murilo
+74,4,05:24,69,79,PIN,LL_Pts_C,Renan
+75,4,05:24,68,79,PIN,AS,Holloway
+76,4,05:24,68,79,PIN,LL_Pts_C,Renan
+77,4,05:24,67,79,PIN,FR,Renan
+78,4,05:24,67,79,BAU,FC,Alex Garcia
+79,4,05:28,67,79,PIN,BR,Andrezão
+80,4,05:28,67,79,BAU,ER,Robert Day
+81,4,05:28,67,79,BAU,RO,Robert Day
+82,4,05:28,67,79,BAU,2_Pts_T,Hettsheimeir
+83,4,05:28,67,79,BAU,RD,Léo Meindl
+84,4,05:28,67,79,PIN,3_Pts_T,Holloway
+85,4,05:28,67,79,BAU,3_Pts_C,Alex Garcia
+86,4,05:28,67,76,BAU,AS,Léo Meindl
+87,4,05:28,67,76,BAU,FR,Léo Meindl
+88,4,05:28,67,76,PIN,FC,Andrezão
+89,4,05:45,67,76,PIN,LL_Pts_C,Andrezão
+90,4,05:45,66,76,PIN,LL_Pts_C,Andrezão
+91,4,05:45,65,76,PIN,FR,Andrezão
+92,4,05:45,65,76,BAU,FC,Léo Meindl
+93,4,06:01,65,76,BAU,substituicao_entra,Hettsheimeir
+94,4,06:01,65,76,BAU,substituicao_sai,Wesley
+95,4,06:01,65,76,BAU,substituicao_sai,Paulinho Boracini
+96,4,06:01,65,76,BAU,substituicao_entra,Léo Meindl
+97,4,06:01,65,76,PIN,FR,Bennett
+98,4,06:01,65,76,BAU,FC,Paulinho Boracini
+99,4,06:03,65,76,PIN,RD,Lucas Dias
+100,4,06:03,65,76,BAU,3_Pts_T,Alex Garcia
+101,4,06:17,65,76,PIN,substituicao_entra,Andrezão
+102,4,06:17,65,76,PIN,substituicao_sai,Humberto
+103,4,06:17,65,76,BAU,FR,Murilo
+104,4,06:17,65,76,PIN,FC,Humberto
+105,4,06:30,65,76,BAU,RD,Wesley
+106,4,06:30,65,76,PIN,2_Pts_T,Lucas Dias
+107,4,06:35,65,76,PIN,RO,Lucas Dias
+108,4,06:35,65,76,PIN,2_Pts_T,Lucas Dias
+109,4,06:58,65,76,BAU,3_Pts_C,Robert Day
+110,4,06:58,65,73,BAU,AS,Alex Garcia
+111,4,07:17,65,73,BAU,RD,Alex Garcia
+112,4,07:17,65,73,PIN,LL_Pts_T,Humberto
+113,4,07:17,65,73,PIN,LL_Pts_T,Humberto
+114,4,07:17,65,73,PIN,FR,Humberto
+115,4,07:17,65,73,BAU,FC,Murilo
+116,4,07:29,65,73,BAU,substituicao_entra,Alex Garcia
+117,4,07:29,65,73,BAU,substituicao_sai,Léo Meindl
+118,4,07:29,65,73,BAU,substituicao_sai,Jefferson W
+119,4,07:29,65,73,BAU,substituicao_entra,Wesley
+120,4,07:29,65,73,PIN,BR,Pinheiros
+121,4,07:29,65,73,BAU,ER,Murilo
+122,4,07:55,65,73,PIN,EN,Bennett
+123,4,07:58,63,73,PIN,BR,Bennett
+124,4,07:58,63,73,BAU,ER,Léo Meindl
+125,4,08:09,63,73,BAU,BR,Jefferson W
+126,4,08:09,63,73,PIN,ER,Lucas Dias
+127,4,08:25,63,73,PIN,RD,Lucas Dias
+128,4,08:25,63,73,BAU,2_Pts_T,Murilo
+129,4,08:37,63,73,BAU,BR,Léo Meindl
+130,4,08:37,63,73,PIN,ER,Humberto
+131,4,08:41,63,73,BAU,2_Pts_C,Jefferson W
+132,4,08:41,63,71,BAU,AS,Léo Meindl
+133,4,08:46,63,71,BAU,RD,Paulinho Boracini
+134,4,08:46,63,71,PIN,2_Pts_T,Bennett
+135,4,08:52,63,71,PIN,RD,Bennett
+136,4,08:52,63,71,BAU,2_Pts_T,Jefferson W
+137,4,09:04,63,71,BAU,RO,Paulinho Boracini
+138,4,09:04,63,71,BAU,3_Pts_T,Jefferson W
+139,4,09:16,63,71,BAU,RD,Bauru
+140,4,09:16,63,71,BAU,TO,Jefferson W
+141,4,09:16,63,71,PIN,2_Pts_T,Holloway
+142,4,09:30,63,71,PIN,FR,Bennett
+143,4,09:30,63,71,BAU,FC,Paulinho Boracini
+144,4,09:31,63,71,PIN,RO,Bennett
+145,4,09:31,63,71,PIN,2_Pts_T,Holloway
+146,4,09:42,63,71,PIN,RO,Renan
+147,4,09:42,63,71,PIN,3_Pts_T,Lucas Dias
+148,3,00:00,63,71, ,fim_quarto,
+149,3,00:01,63,71,BAU,3_Pts_T,Léo Meindl
+150,3,00:05,63,71,BAU,BR,Bauru
+151,3,00:05,63,71,PIN,ER,Georginho
+152,3,00:10,63,71,PIN,BR,Andrezão
+153,3,00:10,63,71,BAU,ER,Jefferson W
+154,3,00:17,63,71,BAU,RD,Wesley
+155,3,00:17,63,71,PIN,2_Pts_T,Holloway
+156,3,00:30,63,71,BAU,substituicao_entra,Gui Santos
+157,3,00:30,63,71,BAU,substituicao_sai,Robert Day
+158,3,00:30,63,71,BAU,LL_Pts_C,Robert Day
+159,3,00:30,63,70,BAU,substituicao_entra,Léo
+160,3,00:30,63,70,BAU,substituicao_sai,Paulinho Boracini
+161,3,00:30,63,70,BAU,3_Pts_C,Robert Day
+162,3,00:30,63,67,BAU,FR,Robert Day
+163,3,00:30,63,67,PIN,FC,Mineiro
+164,3,00:35,63,67,BAU,RO,Léo Meindl
+165,3,00:35,63,67,BAU,3_Pts_T,Robert Day
+166,3,00:44,63,67,BAU,RD,Robert Day
+167,3,00:44,63,67,PIN,2_Pts_T,Mineiro
+168,3,01:05,63,67,PIN,RD,Mineiro
+169,3,01:05,63,67,BAU,LL_Pts_T,Wesley
+170,3,01:05,63,67,BAU,AS,Alex Garcia
+171,3,01:05,63,67,BAU,LL_Pts_C,Wesley
+172,3,01:05,63,66,BAU,substituicao_entra,Léo Meindl
+173,3,01:05,63,66,BAU,substituicao_sai,Alex Garcia
+174,3,01:05,63,66,BAU,FR,Wesley
+175,3,01:05,63,66,PIN,FC,Holloway
+176,3,01:13,63,66,PIN,substituicao_entra,Andrezão
+177,3,01:13,63,66,PIN,substituicao_sai,Lucas Dias
+178,3,01:13,63,66,BAU,FR,Jefferson W
+179,3,01:13,63,66,PIN,FC,Lucas Dias
+180,3,01:21,63,66,PIN,substituicao_entra,Bennett
+181,3,01:21,63,66,PIN,substituicao_sai,Humberto
+182,3,01:21,63,66,BAU,FR,Jefferson W
+183,3,01:21,63,66,PIN,FC,Georginho
+184,3,01:38,63,66,PIN,2_Pts_C,Mineiro
+185,3,01:38,61,66,PIN,AS,Lucas Dias
+186,3,01:59,61,66,BAU,substituicao_entra,Wesley
+187,3,01:59,61,66,BAU,substituicao_sai,Murilo
+188,3,02:01,61,66,PIN,substituicao_entra,Georginho
+189,3,02:01,61,66,PIN,substituicao_sai,Bennett
+190,3,02:01,61,66,PIN,FR,Lucas Dias
+191,3,02:01,61,66,BAU,FC_O,Murilo
+192,3,02:06,61,66,BAU,RO,Murilo
+193,3,02:06,61,66,BAU,3_Pts_T,Paulinho Boracini
+194,3,02:13,61,66,BAU,BR,Bauru
+195,3,02:13,61,66,PIN,ER,Bennett
+196,3,02:18,61,66,BAU,3_Pts_C,Jefferson W
+197,3,02:18,61,63,BAU,AS,Paulinho Boracini
+198,3,02:26,61,63,BAU,FR,Alex Garcia
+199,3,02:26,61,63,PIN,FC,Humberto
+200,3,02:38,61,63,PIN,2_Pts_C,Holloway
+201,3,02:38,59,63,PIN,AS,Bennett
+202,3,02:45,59,63,PIN,RD,Bennett
+203,3,02:45,59,63,BAU,3_Pts_T,Alex Garcia
+204,3,03:01,59,63,PIN,2_Pts_C,Holloway
+205,3,03:05,57,63,PIN,RO,Holloway
+206,3,03:05,57,63,PIN,3_Pts_T,Humberto
+207,3,03:15,57,63,PIN,FR,Lucas Dias
+208,3,03:15,57,63,BAU,FC,Paulinho Boracini
+209,3,03:26,57,63,PIN,RD,Holloway
+210,3,03:26,57,63,BAU,3_Pts_T,Alex Garcia
+211,3,03:43,57,63,PIN,2_Pts_C,Lucas Dias
+212,3,03:59,55,63,PIN,tempo_tecnico,Pinheiros
+213,3,03:59,55,63,BAU,3_Pts_C,Murilo
+214,3,04:17,55,60,PIN,ER,Mineiro
+215,3,04:35,55,60,BAU,2_Pts_C,Murilo
+216,3,04:35,55,58,BAU,AS,Robert Day
+217,3,04:53,55,58,BAU,RD,Jefferson W
+218,3,04:53,55,58,PIN,3_Pts_T,Holloway
+219,3,05:09,55,58,BAU,3_Pts_C,Jefferson W
+220,3,05:09,55,55,BAU,AS,Alex Garcia
+221,3,05:22,55,55,PIN,LL_Pts_C,Bennett
+222,3,05:22,54,55,PIN,LL_Pts_C,Bennett
+223,3,05:22,53,55,BAU,substituicao_sai,Hettsheimeir
+224,3,05:22,53,55,BAU,substituicao_entra,Murilo
+225,3,05:22,53,55,PIN,substituicao_entra,Mineiro
+226,3,05:22,53,55,PIN,substituicao_sai,Renan
+227,3,05:22,53,55,PIN,FR,Bennett
+228,3,05:22,53,55,BAU,FC,Hettsheimeir
+229,3,05:42,53,55,BAU,3_Pts_C,Robert Day
+230,3,05:42,53,52,BAU,AS,Paulinho Boracini
+231,3,05:59,53,52,BAU,RD,Jefferson W
+232,3,05:59,53,52,PIN,3_Pts_T,Renan
+233,3,06:18,53,52,BAU,2_Pts_C,Alex Garcia
+234,3,06:18,53,50,BAU,AS,Jefferson W
+235,3,06:28,53,50,BAU,RD,Robert Day
+236,3,06:28,53,50,PIN,2_Pts_T,Renan
+237,3,06:49,53,50,BAU,2_Pts_C,Alex Garcia
+238,3,06:49,53,48,BAU,AS,Hettsheimeir
+239,3,07:06,53,48,BAU,RD,Jefferson W
+240,3,07:06,53,48,PIN,2_Pts_T,Renan
+241,3,07:24,53,48,PIN,RD,Bennett
+242,3,07:24,53,48,BAU,3_Pts_T,Jefferson W
+243,3,07:46,53,48,PIN,2_Pts_C,Bennett
+244,3,07:51,51,48,PIN,RD,Lucas Dias
+245,3,07:51,51,48,BAU,2_Pts_T,Alex Garcia
+246,3,08:15,51,48,BAU,RD,Jefferson W
+247,3,08:15,51,48,PIN,3_Pts_T,Humberto
+248,3,08:26,51,48,PIN,RD,Bennett
+249,3,08:26,51,48,BAU,2_Pts_T,Jefferson W
+250,3,08:47,51,48,PIN,3_Pts_C,Humberto
+251,3,09:11,48,48,BAU,2_Pts_C,Hettsheimeir
+252,3,09:11,48,46,BAU,AS,Alex Garcia
+253,3,09:24,48,46,BAU,RD,Jefferson W
+254,3,09:24,48,46,PIN,3_Pts_T,Lucas Dias
+255,3,09:43,48,46,PIN,RD,Renan
+256,3,09:43,48,46,BAU,2_Pts_T,Hettsheimeir
+257,2,00:00,48,46, ,fim_quarto,
+258,2,00:01,48,46,PIN,3_Pts_T,Lucas Dias
+259,2,00:06,48,46,PIN,substituicao_entra,Lucas Dias
+260,2,00:06,48,46,PIN,substituicao_sai,Andrezão
+261,2,00:06,48,46,PIN,FR,Bennett
+262,2,00:06,48,46,BAU,FC,Gui Santos
+263,2,00:13,48,46,BAU,substituicao_sai,Hettsheimeir
+264,2,00:13,48,46,BAU,substituicao_entra,Wesley
+265,2,00:13,48,46,PIN,FR,Holloway
+266,2,00:13,48,46,BAU,FC,Hettsheimeir
+267,2,00:31,48,46,BAU,substituicao_entra,Gui Santos
+268,2,00:31,48,46,BAU,substituicao_sai,Paulinho Boracini
+269,2,00:31,48,46,BAU,substituicao_entra,Léo
+270,2,00:31,48,46,BAU,substituicao_sai,Alex Garcia
+271,2,00:31,48,46,PIN,tempo_tecnico,Pinheiros
+272,2,00:31,48,46,BAU,3_Pts_C,Paulinho Boracini
+273,2,00:41,48,43,PIN,2_Pts_C,Holloway
+274,2,00:45,46,43,PIN,RO,Holloway
+275,2,00:45,46,43,PIN,2_Pts_T,Bennett
+276,2,00:49,46,43,PIN,RO,Bennett
+277,2,00:49,46,43,PIN,2_Pts_T,Holloway
+278,2,01:11,46,43,PIN,RD,Holloway
+279,2,01:11,46,43,BAU,2_Pts_T,Léo Meindl
+280,2,01:23,46,43,PIN,substituicao_sai,Lucas Dias
+281,2,01:23,46,43,PIN,substituicao_entra,Bennett
+282,2,01:27,46,43,BAU,RO,Bauru
+283,2,01:27,46,43,BAU,3_Pts_T,Léo Meindl
+284,2,01:46,46,43,PIN,2_Pts_C,Andrezão
+285,2,01:46,44,43,PIN,AS,Georginho
+286,2,01:57,44,43,PIN,RD,Renan
+287,2,01:57,44,43,BAU,3_Pts_T,Paulinho Boracini
+288,2,02:17,44,43,PIN,2_Pts_C,Andrezão
+289,2,02:17,42,43,PIN,AS,Georginho
+290,2,02:22,42,43,PIN,RO,Georginho
+291,2,02:22,42,43,PIN,2_Pts_T,Holloway
+292,2,02:42,42,43,BAU,LL_Pts_C,Paulinho Boracini
+293,2,02:42,42,42,BAU,LL_Pts_C,Paulinho Boracini
+294,2,02:42,42,41,BAU,FR,Paulinho Boracini
+295,2,02:42,42,41,PIN,FC,Renan
+296,2,02:42,42,41,BAU,RO,Paulinho Boracini
+297,2,02:42,42,41,BAU,2_Pts_T,Paulinho Boracini
+298,2,02:58,42,41,PIN,substituicao_entra,Andrezão
+299,2,02:58,42,41,PIN,substituicao_sai,Humberto
+300,2,02:58,42,41,BAU,substituicao_entra,Alex Garcia
+301,2,02:58,42,41,BAU,substituicao_sai,Gui Santos
+302,2,02:58,42,41,PIN,ER,Humberto
+303,2,03:09,42,41,BAU,2_Pts_C,Paulinho Boracini
+304,2,03:09,42,39,BAU,AS,Gui Santos
+305,2,03:15,42,39,BAU,RO,Léo Meindl
+306,2,03:15,42,39,BAU,3_Pts_T,Paulinho Boracini
+307,2,03:39,42,39,PIN,3_Pts_C,Holloway
+308,2,03:56,39,39,PIN,RD,Georginho
+309,2,03:56,39,39,BAU,3_Pts_T,Jefferson W
+310,2,04:13,39,39,PIN,EN,Holloway
+311,2,04:17,37,39,PIN,BR,Holloway
+312,2,04:17,37,39,BAU,ER,Paulinho Boracini
+313,2,04:24,37,39,BAU,substituicao_sai,Wesley
+314,2,04:24,37,39,BAU,substituicao_entra,Jefferson W
+315,2,04:29,37,39,BAU,substituicao_entra,Paulinho Boracini
+316,2,04:29,37,39,BAU,substituicao_sai,Léo
+317,2,04:36,37,39,BAU,tempo_tecnico,Bauru
+318,2,04:36,37,39,PIN,2_Pts_C,Humberto
+319,2,04:36,35,39,PIN,RD,Georginho
+320,2,04:36,35,39,BAU,2_Pts_T,Léo Meindl
+321,2,04:44,35,39,PIN,3_Pts_C,Lucas Dias
+322,2,04:44,32,39,PIN,AS,Holloway
+323,2,05:01,32,39,PIN,RO,Holloway
+324,2,05:01,32,39,PIN,3_Pts_T,Lucas Dias
+325,2,05:15,32,39,PIN,substituicao_entra,Holloway
+326,2,05:15,32,39,PIN,substituicao_sai,Bennett
+327,2,05:15,32,39,PIN,FR,Humberto
+328,2,05:15,32,39,BAU,FC,Léo Meindl
+329,2,05:18,32,39,PIN,RD,Humberto
+330,2,05:18,32,39,BAU,3_Pts_T,Léo
+331,2,05:36,32,39,PIN,substituicao_entra,Renan
+332,2,05:36,32,39,PIN,substituicao_sai,Mineiro
+333,2,05:37,32,39,BAU,RD,Bauru
+334,2,05:37,32,39,PIN,2_Pts_T,Bennett
+335,2,05:53,32,39,PIN,RD,Lucas Dias
+336,2,05:53,32,39,BAU,2_Pts_T,Hettsheimeir
+337,2,06:02,32,39,BAU,RD,Hettsheimeir
+338,2,06:02,32,39,PIN,3_Pts_T,Lucas Dias
+339,2,06:24,32,39,PIN,RD,Pinheiros
+340,2,06:24,32,39,BAU,3_Pts_T,Hettsheimeir
+341,2,06:28,32,39,BAU,FR,Léo Meindl
+342,2,06:28,32,39,PIN,FC,Mineiro
+343,2,06:30,32,39,PIN,2_Pts_C,Mineiro
+344,2,06:36,30,39,PIN,RO,Mineiro
+345,2,06:36,30,39,PIN,2_Pts_T,Humberto
+346,2,06:42,30,39,PIN,BR,Bennett
+347,2,06:42,30,39,BAU,ER,Léo Meindl
+348,2,06:53,30,39,BAU,substituicao_entra,Léo
+349,2,06:53,30,39,BAU,substituicao_sai,Robert Day
+350,2,06:53,30,39,PIN,substituicao_entra,Georginho
+351,2,06:53,30,39,PIN,substituicao_sai,Holloway
+352,2,06:53,30,39,PIN,LL_Pts_C,Mineiro
+353,2,06:53,29,39,PIN,LL_Pts_C,Mineiro
+354,2,06:53,28,39,PIN,FR,Mineiro
+355,2,06:53,28,39,BAU,FC,Robert Day
+356,2,06:53,28,39,PIN,RO,Holloway
+357,2,06:53,28,39,PIN,2_Pts_T,Mineiro
+358,2,06:58,28,39,PIN,RO,Mineiro
+359,2,06:58,28,39,PIN,3_Pts_T,Humberto
+360,2,07:16,28,39,BAU,2_Pts_C,Robert Day
+361,2,07:16,28,37,BAU,AS,Léo Meindl
+362,2,07:22,28,37,BAU,RD,Léo Meindl
+363,2,07:22,28,37,PIN,2_Pts_T,Lucas Dias
+364,2,07:45,28,37,BAU,3_Pts_C,Wesley
+365,2,07:45,28,34,BAU,AS,Léo Meindl
+366,2,07:59,28,34,BAU,substituicao_sai,Jefferson W
+367,2,07:59,28,34,BAU,substituicao_entra,Wesley
+368,2,07:59,28,34,BAU,substituicao_sai,Murilo
+369,2,07:59,28,34,BAU,substituicao_entra,Hettsheimeir
+370,2,08:00,28,34,BAU,tempo_tecnico,Bauru
+371,2,08:00,28,34,PIN,3_Pts_C,Lucas Dias
+372,2,08:00,25,34,PIN,AS,Humberto
+373,2,08:06,25,34,PIN,BR,Bennett
+374,2,08:06,25,34,BAU,ER,Léo Meindl
+375,2,08:24,25,34,PIN,2_Pts_C,Holloway
+376,2,08:44,23,34,BAU,3_Pts_C,Murilo
+377,2,08:44,23,31,BAU,AS,Gui Santos
+378,2,08:59,23,31,PIN,ER,Holloway
+379,2,09:14,23,31,BAU,2_Pts_C,Léo Meindl
+380,2,09:14,23,29,BAU,AS,Robert Day
+381,2,09:29,23,29,BAU,RD,Gui Santos
+382,2,09:29,23,29,PIN,2_Pts_T,Mineiro
+383,2,09:44,23,29,PIN,RO,Bennett
+384,2,09:44,23,29,PIN,2_Pts_T,Mineiro
+385,1,00:00,23,29, ,fim_quarto,
+386,1,00:06,23,29,PIN,2_Pts_T,Holloway
+387,1,00:26,23,29,BAU,3_Pts_C,Jefferson W
+388,1,00:26,23,26,BAU,AS,Léo Meindl
+389,1,00:36,23,26,BAU,RO,Léo Meindl
+390,1,00:36,23,26,BAU,2_Pts_T,Murilo
+391,1,00:58,23,26,PIN,2_Pts_C,Humberto
+392,1,01:05,21,26,PIN,RD,Bennett
+393,1,01:05,21,26,BAU,3_Pts_T,Gui Santos
+394,1,01:29,21,26,PIN,LL_Pts_C,Mineiro
+395,1,01:29,20,26,BAU,substituicao_entra,Gui Santos
+396,1,01:29,20,26,BAU,substituicao_sai,Paulinho Boracini
+397,1,01:29,20,26,PIN,2_Pts_C,Mineiro
+398,1,01:29,18,26,PIN,FR,Mineiro
+399,1,01:29,18,26,BAU,FC,Murilo
+400,1,01:30,18,26,PIN,RO,Mineiro
+401,1,01:30,18,26,PIN,2_Pts_T,Lucas Dias
+402,1,01:41,18,26,BAU,2_Pts_C,Murilo
+403,1,01:45,18,24,BAU,RO,Murilo
+404,1,01:45,18,24,BAU,2_Pts_T,Paulinho Boracini
+405,1,02:10,18,24,PIN,LL_Pts_C,Lucas Dias
+406,1,02:10,17,24,PIN,LL_Pts_C,Lucas Dias
+407,1,02:10,16,24,PIN,FR,Lucas Dias
+408,1,02:10,16,24,BAU,FC,Murilo
+409,1,02:27,16,24,BAU,substituicao_entra,Murilo
+410,1,02:27,16,24,BAU,substituicao_sai,Hettsheimeir
+411,1,02:27,16,24,PIN,substituicao_entra,Mineiro
+412,1,02:27,16,24,PIN,substituicao_sai,Renan
+413,1,02:27,16,24,PIN,tempo_tecnico,Pinheiros
+414,1,02:27,16,24,BAU,2_Pts_C,Hettsheimeir
+415,1,02:38,16,22,BAU,RD,Paulinho Boracini
+416,1,02:38,16,22,PIN,3_Pts_T,Renan
+417,1,02:50,16,22,BAU,3_Pts_C,Hettsheimeir
+418,1,02:50,16,19,BAU,AS,Paulinho Boracini
+419,1,03:11,16,19,PIN,LL_Pts_C,Bennett
+420,1,03:11,15,19,PIN,LL_Pts_C,Bennett
+421,1,03:11,14,19,PIN,FR,Bennett
+422,1,03:11,14,19,BAU,FC,Robert Day
+423,1,03:23,14,19,BAU,substituicao_entra,Léo Meindl
+424,1,03:23,14,19,BAU,substituicao_sai,Alex Garcia
+425,1,03:23,14,19,PIN,FR,Humberto
+426,1,03:23,14,19,BAU,FC_O,Alex Garcia
+427,1,03:34,14,19,BAU,RD,Bauru
+428,1,03:34,14,19,PIN,3_Pts_T,Lucas Dias
+429,1,03:49,14,19,BAU,2_Pts_C,Paulinho Boracini
+430,1,03:57,14,17,BAU,RO,Jefferson W
+431,1,03:57,14,17,BAU,3_Pts_T,Paulinho Boracini
+432,1,04:12,14,17,PIN,2_Pts_C,Humberto
+433,1,04:21,12,17,BAU,LL_Pts_C,Hettsheimeir
+434,1,04:21,12,16,BAU,2_Pts_C,Hettsheimeir
+435,1,04:21,12,14,BAU,FR,Hettsheimeir
+436,1,04:21,12,14,PIN,FC,Lucas Dias
+437,1,04:41,12,14,PIN,3_Pts_C,Bennett
+438,1,04:41,9,14,PIN,AS,Holloway
+439,1,04:55,9,14,PIN,FR,Holloway
+440,1,04:55,9,14,BAU,FC,Alex Garcia
+441,1,05:16,9,14,PIN,FR,Humberto
+442,1,05:16,9,14,BAU,FC_O,Hettsheimeir
+443,1,05:36,9,14,PIN,2_Pts_C,Holloway
+444,1,05:52,7,14,BAU,3_Pts_C,Robert Day
+445,1,05:52,7,11,BAU,AS,Jefferson W
+446,1,06:11,7,11,BAU,RD,Bauru
+447,1,06:11,7,11,PIN,3_Pts_T,Holloway
+448,1,06:26,7,11,BAU,3_Pts_C,Robert Day
+449,1,06:26,7,8,BAU,AS,Hettsheimeir
+450,1,06:29,7,8,BAU,BR,Hettsheimeir
+451,1,06:29,7,8,PIN,ER,Bennett
+452,1,06:33,7,8,PIN,BR,Bennett
+453,1,06:33,7,8,BAU,ER,Robert Day
+454,1,06:42,7,8,BAU,FR,Alex Garcia
+455,1,06:42,7,8,PIN,FC,Humberto
+456,1,06:47,7,8,BAU,RD,Alex Garcia
+457,1,06:47,7,8,PIN,2_Pts_T,Lucas Dias
+458,1,07:02,7,8,BAU,3_Pts_C,Jefferson W
+459,1,07:02,7,5,BAU,AS,Paulinho Boracini
+460,1,07:12,7,5,PIN,2_Pts_C,Renan
+461,1,07:12,5,5,PIN,AS,Holloway
+462,1,07:21,5,5,PIN,RO,Pinheiros
+463,1,07:21,5,5,PIN,2_Pts_T,Bennett
+464,1,07:38,5,5,BAU,2_Pts_C,Hettsheimeir
+465,1,07:38,5,3,BAU,AS,Robert Day
+466,1,07:50,5,3,PIN,2_Pts_C,Bennett
+467,1,07:50,3,3,PIN,AS,Holloway
+468,1,07:53,3,3,PIN,BR,Holloway
+469,1,07:53,3,3,BAU,ER,Paulinho Boracini
+470,1,08:07,3,3,PIN,3_Pts_C,Lucas Dias
+471,1,08:13,0,3,PIN,RD,Holloway
+472,1,08:13,0,3,BAU,3_Pts_T,Alex Garcia
+473,1,08:29,0,3,BAU,RD,Hettsheimeir
+474,1,08:29,0,3,PIN,3_Pts_T,Humberto
+475,1,08:35,0,3,PIN,FR,Bennett
+476,1,08:35,0,3,BAU,FC,Paulinho Boracini
+477,1,08:37,0,3,PIN,BR,Holloway
+478,1,08:37,0,3,BAU,ER,Alex Garcia
+479,1,08:46,0,3,BAU,RD,Jefferson W
+480,1,08:46,0,3,PIN,2_Pts_T,Holloway
+481,1,09:14,0,3,BAU,3_Pts_C,Hettsheimeir
+482,1,09:14,0,0,BAU,AS,Alex Garcia
+483,1,09:33,0,0,BAU,BR,Robert Day
+484,1,09:33,0,0,PIN,ER,Renan
+485,1,09:41,0,0,PIN,RD,Renan
+486,1,09:41,0,0,BAU,2_Pts_T,Hettsheimeir
+487,1,10:00,0,0,BAU,substituicao_entra,Robert Day
+488,1,10:00,0,0,BAU,substituicao_entra,Hettsheimeir
+489,1,10:00,0,0,BAU,substituicao_entra,Jefferson W
+490,1,10:00,0,0,BAU,substituicao_entra,Alex Garcia
+491,1,10:00,0,0,BAU,substituicao_entra,Paulinho Boracini
+492,1,10:00,0,0,PIN,substituicao_entra,Humberto
+493,1,10:00,0,0,PIN,substituicao_entra,Renan
+494,1,10:00,0,0,PIN,substituicao_entra,Lucas Dias
+495,1,10:00,0,0,PIN,substituicao_entra,Bennett
+496,1,10:00,0,0,PIN,substituicao_entra,Holloway

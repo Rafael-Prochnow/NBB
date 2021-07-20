@@ -1,0 +1,532 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,80,83, ,fim_partida,
+1,4,00:00,80,83,MOG,3_Pts_T,Tyrone
+2,4,00:07,80,83,CAP,LL_Pts_C,Gruber
+3,4,00:07,80,82,CAP,LL_Pts_T,Gruber
+4,4,00:07,80,82,MOG,substituicao_sai,Lucas Mariano
+5,4,00:07,80,82,MOG,substituicao_entra,Gerson
+6,4,00:07,80,82,CAP,substituicao_sai,Arthur Pecos
+7,4,00:07,80,82,CAP,substituicao_entra,Jhonatan
+8,4,00:07,80,82,CAP,FR,Gruber
+9,4,00:07,80,82,MOG,FC,Lucas Mariano
+10,4,00:08,80,82,CAP,RD,Gruber
+11,4,00:08,80,82,MOG,LL_Pts_T,Shamell
+12,4,00:08,80,82,MOG,LL_Pts_C,Shamell
+13,4,00:08,79,82,CAP,substituicao_sai,Jhonatan
+14,4,00:08,79,82,CAP,substituicao_entra,Valtinho
+15,4,00:08,79,82,MOG,FR,Shamell
+16,4,00:08,79,82,CAP,FC,Jhonatan
+17,4,00:10,79,82,CAP,LL_Pts_C,Caio Torres
+18,4,00:10,79,81,CAP,LL_Pts_C,Caio Torres
+19,4,00:10,79,80,CAP,substituicao_sai,Valtinho
+20,4,00:10,79,80,CAP,substituicao_entra,Jhonatan
+21,4,00:10,79,80,CAP,FR,Caio Torres
+22,4,00:10,79,80,MOG,FC,Filipin
+23,4,00:10,79,80,CAP,tempo_tecnico,Paulistano
+24,4,00:10,79,80,CAP,substituicao_sai,Jhonatan
+25,4,00:10,79,80,CAP,substituicao_entra,Valtinho
+26,4,00:10,79,80,MOG,3_Pts_C,Filipin
+27,4,00:10,76,80,MOG,AS,Larry
+28,4,00:13,76,80,CAP,substituicao_sai,Valtinho
+29,4,00:13,76,80,CAP,substituicao_entra,Jhonatan
+30,4,00:13,76,80,MOG,tempo_tecnico,Mogi das Cruzes
+31,4,00:13,76,80,CAP,LL_Pts_C,Arthur Pecos
+32,4,00:13,76,79,CAP,LL_Pts_C,Arthur Pecos
+33,4,00:13,76,78,CAP,FR,Arthur Pecos
+34,4,00:13,76,78,MOG,FC,Shamell
+35,4,00:21,76,78,CAP,RO,Caio Torres
+36,4,00:21,76,78,CAP,LL_Pts_T,Gruber
+37,4,00:21,76,78,CAP,LL_Pts_C,Gruber
+38,4,00:21,76,77,CAP,FR,Gruber
+39,4,00:21,76,77,MOG,FC,Filipin
+40,4,00:21,76,77,CAP,substituicao_sai,Jhonatan
+41,4,00:21,76,77,CAP,substituicao_entra,Valtinho
+42,4,00:21,76,77,MOG,ER,Shamell
+43,4,00:29,76,77,CAP,substituicao_sai,Valtinho
+44,4,00:29,76,77,CAP,substituicao_entra,Arthur Pecos
+45,4,00:29,76,77,MOG,tempo_tecnico,Mogi das Cruzes
+46,4,00:29,76,77,CAP,LL_Pts_C,Dawkins
+47,4,00:29,76,76,CAP,LL_Pts_C,Dawkins
+48,4,00:29,76,75,CAP,FR,Dawkins
+49,4,00:29,76,75,MOG,FC,Lucas Mariano
+50,4,00:49,76,75,MOG,3_Pts_C,Shamell
+51,4,00:49,73,75,MOG,AS,Lucas Mariano
+52,4,00:54,73,75,MOG,RO,Lucas Mariano
+53,4,00:54,73,75,MOG,LL_Pts_T,Shamell
+54,4,00:54,73,75,MOG,LL_Pts_C,Shamell
+55,4,00:54,72,75,CAP,substituicao_sai,Gemerson
+56,4,00:54,72,75,CAP,substituicao_entra,Gruber
+57,4,00:54,72,75,CAP,substituicao_sai,Arthur Pecos
+58,4,00:54,72,75,CAP,substituicao_entra,Valtinho
+59,4,00:54,72,75,MOG,FR,Gerson
+60,4,00:54,72,75,CAP,FC,Gemerson
+61,4,00:57,72,75,MOG,RD,Tyrone
+62,4,00:57,72,75,CAP,2_Pts_T,Caio Torres
+63,4,01:14,72,75,MOG,2_Pts_C,Shamell
+64,4,01:27,70,75,MOG,substituicao_sai,Gerson
+65,4,01:27,70,75,MOG,substituicao_entra,Lucas Mariano
+66,4,01:27,70,75,CAP,substituicao_sai,Gruber
+67,4,01:27,70,75,CAP,substituicao_entra,Jhonatan
+68,4,01:27,70,75,CAP,LL_Pts_C,Gruber
+69,4,01:27,70,74,CAP,LL_Pts_C,Gruber
+70,4,01:27,70,73,CAP,substituicao_sai,Valtinho
+71,4,01:27,70,73,CAP,substituicao_entra,Arthur Pecos
+72,4,01:27,70,73,CAP,FR,Gruber
+73,4,01:27,70,73,MOG,FC,Tyrone
+74,4,01:47,70,73,CAP,RD,Caio Torres
+75,4,01:47,70,73,MOG,2_Pts_T,Shamell
+76,4,01:59,70,73,CAP,3_Pts_C,Dawkins
+77,4,01:59,70,70,CAP,AS,Valtinho
+78,4,02:14,70,70,CAP,tempo_tecnico,Paulistano
+79,4,02:14,70,70,MOG,EN,Tyrone
+80,4,02:14,68,70,MOG,AS,Larry
+81,4,02:21,68,70,MOG,RD,Larry
+82,4,02:21,68,70,CAP,2_Pts_T,Caio Torres
+83,4,02:37,68,70,CAP,substituicao_sai,Jhonatan
+84,4,02:37,68,70,CAP,substituicao_entra,Gruber
+85,4,02:37,68,70,CAP,LL_Pts_C,Valtinho
+86,4,02:37,68,69,CAP,substituicao_sai,Arthur Pecos
+87,4,02:37,68,69,CAP,substituicao_entra,Valtinho
+88,4,02:37,68,69,MOG,FC_T,Mogi das Cruzes
+89,4,02:38,68,69,CAP,RD,Caio Torres
+90,4,02:38,68,69,MOG,2_Pts_T,Filipin
+91,4,02:53,68,69,MOG,substituicao_sai,Lucas Mariano
+92,4,02:53,68,69,MOG,substituicao_entra,Filipin
+93,4,02:53,68,69,CAP,substituicao_sai,Gruber
+94,4,02:53,68,69,CAP,substituicao_entra,Jhonatan
+95,4,02:53,68,69,CAP,substituicao_sai,Valtinho
+96,4,02:53,68,69,CAP,substituicao_entra,Arthur Pecos
+97,4,02:53,68,69,CAP,LL_Pts_C,Valtinho
+98,4,02:53,68,68,CAP,LL_Pts_C,Valtinho
+99,4,02:53,68,67,CAP,FR,Valtinho
+100,4,02:53,68,67,MOG,FC,Gerson
+101,4,03:08,68,67,CAP,substituicao_sai,Jhonatan
+102,4,03:08,68,67,CAP,substituicao_entra,Gruber
+103,4,03:08,68,67,CAP,substituicao_sai,Arthur Pecos
+104,4,03:08,68,67,CAP,substituicao_entra,Valtinho
+105,4,03:26,68,67,CAP,RD,Gemerson
+106,4,03:26,68,67,MOG,2_Pts_T,Lucas Mariano
+107,4,03:32,68,67,MOG,RO,Lucas Mariano
+108,4,03:32,68,67,MOG,3_Pts_T,Larry
+109,4,03:59,68,67,CAP,substituicao_sai,Gruber
+110,4,03:59,68,67,CAP,substituicao_entra,Jhonatan
+111,4,03:59,68,67,CAP,substituicao_sai,Valtinho
+112,4,03:59,68,67,CAP,substituicao_entra,Arthur Pecos
+113,4,03:59,68,67,CAP,LL_Pts_C,Valtinho
+114,4,03:59,68,66,CAP,LL_Pts_C,Valtinho
+115,4,03:59,68,65,CAP,FR,Valtinho
+116,4,03:59,68,65,MOG,FC,Lucas Mariano
+117,4,03:59,68,65,CAP,FR,Gemerson
+118,4,03:59,68,65,MOG,FC,Gerson
+119,4,03:59,68,65,MOG,RD,Shamell
+120,4,03:59,68,65,CAP,3_Pts_T,Gruber
+121,4,04:13,68,65,MOG,FR,Gerson
+122,4,04:13,68,65,CAP,FC,Dawkins
+123,4,04:13,68,65,MOG,RD,Gerson
+124,4,04:13,68,65,CAP,2_Pts_T,Caio Torres
+125,4,04:15,68,65,MOG,LL_Pts_C,Gerson
+126,4,04:15,67,65,MOG,LL_Pts_T,Gerson
+127,4,04:16,67,65,CAP,RO,Caio Torres
+128,4,04:16,67,65,CAP,2_Pts_T,Dawkins
+129,4,04:41,67,65,CAP,substituicao_sai,Jhonatan
+130,4,04:41,67,65,CAP,substituicao_entra,Gruber
+131,4,04:41,67,65,CAP,substituicao_sai,Arthur Pecos
+132,4,04:41,67,65,CAP,substituicao_entra,Valtinho
+133,4,04:41,67,65,MOG,ER,Shamell
+134,4,04:58,67,65,MOG,substituicao_sai,Jimmy
+135,4,04:58,67,65,MOG,substituicao_entra,Gerson
+136,4,04:58,67,65,CAP,substituicao_sai,Valtinho
+137,4,04:58,67,65,CAP,substituicao_entra,Arthur Pecos
+138,4,04:58,67,65,CAP,substituicao_sai,Gruber
+139,4,04:58,67,65,CAP,substituicao_entra,Gemerson
+140,4,04:58,67,65,MOG,FR,Tyrone
+141,4,04:58,67,65,CAP,FC_O,Dawkins
+142,4,05:00,67,65,CAP,BR,Jhonatan
+143,4,05:00,67,65,MOG,ER,Shamell
+144,4,05:16,67,65,MOG,RD,Jimmy
+145,4,05:16,67,65,CAP,2_Pts_T,Caio Torres
+146,4,05:19,67,65,CAP,RO,Caio Torres
+147,4,05:19,67,65,CAP,2_Pts_T,Valtinho
+148,4,05:43,67,65,MOG,ER,Tyrone
+149,4,05:58,67,65,MOG,FR,Tyrone
+150,4,05:58,67,65,CAP,FC,Gruber
+151,4,06:09,67,65,MOG,BR,Lucas Mariano
+152,4,06:09,67,65,CAP,ER,Jhonatan
+153,4,06:24,67,65,CAP,RD,Paulistano
+154,4,06:24,67,65,MOG,3_Pts_T,Larry
+155,4,06:43,67,65,MOG,BR,Mogi das Cruzes
+156,4,06:43,67,65,CAP,ER,Valtinho
+157,4,06:55,67,65,CAP,RO,Paulistano
+158,4,06:55,67,65,CAP,2_Pts_T,Caio Torres
+159,4,07:11,67,65,MOG,2_Pts_C,Shamell
+160,4,07:26,65,65,MOG,substituicao_sai,Lersch
+161,4,07:26,65,65,MOG,substituicao_entra,Shamell
+162,4,07:26,65,65,MOG,FR,Lersch
+163,4,07:26,65,65,CAP,FC,Jhonatan
+164,4,07:32,65,65,CAP,LL_Pts_C,Valtinho
+165,4,07:32,65,64,CAP,LL_Pts_C,Valtinho
+166,4,07:32,65,63,CAP,FR,Valtinho
+167,4,07:32,65,63,MOG,FC,Lucas Mariano
+168,4,07:41,65,63,CAP,RD,Gruber
+169,4,07:41,65,63,MOG,2_Pts_T,Jimmy
+170,4,08:03,65,63,CAP,substituicao_sai,Gemerson
+171,4,08:03,65,63,CAP,substituicao_entra,Gruber
+172,4,08:05,65,63,MOG,FR,Tyrone
+173,4,08:05,65,63,CAP,FC,Gemerson
+174,4,08:05,65,63,MOG,RD,Mogi das Cruzes
+175,4,08:05,65,63,CAP,2_Pts_T,Gemerson
+176,4,08:23,65,63,CAP,substituicao_sai,Toyloy
+177,4,08:23,65,63,CAP,substituicao_entra,Caio Torres
+178,4,08:23,65,63,CAP,FR,Valtinho
+179,4,08:23,65,63,MOG,FC,Lersch
+180,4,08:27,65,63,MOG,LL_Pts_C,Tyrone
+181,4,08:27,64,63,MOG,2_Pts_C,Tyrone
+182,4,08:27,62,63,MOG,FR,Tyrone
+183,4,08:27,62,63,CAP,FC,Jhonatan
+184,4,08:50,62,63,CAP,substituicao_sai,Arthur Pecos
+185,4,08:50,62,63,CAP,substituicao_entra,Valtinho
+186,4,08:50,62,63,CAP,LL_Pts_C,Arthur Pecos
+187,4,08:50,62,62,CAP,LL_Pts_C,Arthur Pecos
+188,4,08:50,62,61,CAP,substituicao_entra,Jhonatan
+189,4,08:50,62,61,CAP,substituicao_sai,Gruber
+190,4,08:50,62,61,CAP,substituicao_sai,Jhonatan
+191,4,08:50,62,61,CAP,substituicao_entra,Gemerson
+192,4,08:50,62,61,CAP,FR,Arthur Pecos
+193,4,08:50,62,61,MOG,FC,Lersch
+194,4,09:02,62,61,MOG,3_Pts_C,Jimmy
+195,4,09:02,59,61,MOG,AS,Larry
+196,4,09:20,59,61,CAP,ER,
+197,4,09:20,59,61,CAP,RO,Toyloy
+198,4,09:20,59,61,CAP,2_Pts_T,Dawkins
+199,4,09:38,59,61,CAP,RD,Dawkins
+200,4,09:38,59,61,MOG,2_Pts_T,Tyrone
+201,4,09:49,59,61,MOG,RD,Lucas Mariano
+202,4,09:49,59,61,MOG,TO,Lucas Mariano
+203,4,09:49,59,61,CAP,2_Pts_T,Dawkins
+204,3,00:00,59,61, ,fim_quarto,
+205,3,00:00,59,61,MOG,RD,Tyrone
+206,3,00:00,59,61,CAP,2_Pts_T,Gruber
+207,3,00:20,59,61,CAP,RD,Arthur Pecos
+208,3,00:20,59,61,MOG,2_Pts_T,Lersch
+209,3,00:44,59,61,CAP,3_Pts_C,Dawkins
+210,3,00:44,59,58,CAP,AS,Arthur Pecos
+211,3,00:53,59,58,CAP,RO,Toyloy
+212,3,00:53,59,58,CAP,2_Pts_T,Dawkins
+213,3,01:16,59,58,CAP,RD,Jhonatan
+214,3,01:16,59,58,MOG,2_Pts_T,Shamell
+215,3,01:46,59,58,CAP,3_Pts_C,Jhonatan
+216,3,01:46,59,55,CAP,AS,Dawkins
+217,3,02:08,59,55,CAP,RD,Paulistano
+218,3,02:08,59,55,MOG,LL_Pts_T,Tyrone
+219,3,02:08,59,55,MOG,AS,Shamell
+220,3,02:08,59,55,MOG,LL_Pts_C,Tyrone
+221,3,02:08,58,55,CAP,substituicao_sai,Caio Torres
+222,3,02:08,58,55,CAP,substituicao_entra,Toyloy
+223,3,02:08,58,55,CAP,substituicao_sai,Gemerson
+224,3,02:08,58,55,CAP,substituicao_entra,Gruber
+225,3,02:08,58,55,MOG,FR,Tyrone
+226,3,02:08,58,55,CAP,FC,Gemerson
+227,3,02:12,58,55,MOG,BR,Shamell
+228,3,02:12,58,55,CAP,ER,Caio Torres
+229,3,02:23,58,55,MOG,3_Pts_C,Lucas Mariano
+230,3,02:33,55,55,MOG,FR,Shamell
+231,3,02:33,55,55,CAP,FC,Arthur Pecos
+232,3,02:37,55,55,MOG,FR,Paulão
+233,3,02:37,55,55,CAP,FC,Caio Torres
+234,3,02:39,55,55,CAP,substituicao_sai,Gruber
+235,3,02:39,55,55,CAP,substituicao_entra,Jhonatan
+236,3,02:57,55,55,MOG,substituicao_entra,Lersch
+237,3,02:57,55,55,MOG,substituicao_sai,Larry
+238,3,03:04,55,55,CAP,2_Pts_C,Arthur Pecos
+239,3,03:04,55,53,CAP,AS,Gruber
+240,3,03:08,55,53,CAP,RD,Gruber
+241,3,03:08,55,53,MOG,2_Pts_T,Tyrone
+242,3,03:22,55,53,CAP,2_Pts_C,Caio Torres
+243,3,03:22,55,51,CAP,AS,Gruber
+244,3,03:44,55,51,MOG,2_Pts_C,Paulão
+245,3,03:44,53,51,MOG,AS,Larry
+246,3,04:04,53,51,CAP,3_Pts_C,Gemerson
+247,3,04:04,53,48,CAP,AS,Dawkins
+248,3,04:15,53,48,MOG,substituicao_sai,Gerson
+249,3,04:15,53,48,MOG,substituicao_entra,Paulão
+250,3,04:15,53,48,CAP,FR,Gemerson
+251,3,04:15,53,48,MOG,FC,Tyrone
+252,3,04:15,53,48,CAP,RO,Paulistano
+253,3,04:15,53,48,CAP,3_Pts_T,Gruber
+254,3,04:32,53,48,CAP,BR,Caio Torres
+255,3,04:32,53,48,MOG,ER,Lucas Mariano
+256,3,04:47,53,48,MOG,BR,Tyrone
+257,3,04:47,53,48,CAP,ER,Gruber
+258,3,04:59,53,48,MOG,2_Pts_C,Shamell
+259,3,05:19,51,48,CAP,LL_Pts_C,Gruber
+260,3,05:19,51,47,CAP,LL_Pts_C,Gruber
+261,3,05:19,51,46,MOG,substituicao_sai,Filipin
+262,3,05:19,51,46,MOG,substituicao_entra,Tyrone
+263,3,05:19,51,46,CAP,substituicao_sai,Valtinho
+264,3,05:19,51,46,CAP,substituicao_entra,Arthur Pecos
+265,3,05:19,51,46,CAP,FR,Gruber
+266,3,05:19,51,46,MOG,FC,Lucas Mariano
+267,3,05:33,51,46,MOG,2_Pts_C,Shamell
+268,3,05:49,49,46,CAP,2_Pts_C,Gemerson
+269,3,06:17,49,44,CAP,RD,Caio Torres
+270,3,06:17,49,44,MOG,2_Pts_T,Larry
+271,3,06:26,49,44,MOG,RO,Larry
+272,3,06:26,49,44,MOG,2_Pts_T,Filipin
+273,3,06:35,49,44,MOG,BR,Mogi das Cruzes
+274,3,06:35,49,44,CAP,ER,Valtinho
+275,3,06:48,49,44,MOG,ER,Shamell
+276,3,07:11,49,44,CAP,2_Pts_C,Gemerson
+277,3,07:11,49,42,CAP,AS,Gruber
+278,3,07:25,49,42,MOG,LL_Pts_C,Shamell
+279,3,07:25,48,42,MOG,LL_Pts_C,Shamell
+280,3,07:25,47,42,MOG,FR,Shamell
+281,3,07:25,47,42,CAP,FC,Valtinho
+282,3,07:25,47,42,MOG,RO,Shamell
+283,3,07:25,47,42,MOG,2_Pts_T,Gerson
+284,3,07:48,47,42,MOG,RD,Filipin
+285,3,07:48,47,42,CAP,3_Pts_T,Gemerson
+286,3,08:02,47,42,MOG,2_Pts_C,Gerson
+287,3,08:06,45,42,MOG,RO,Gerson
+288,3,08:06,45,42,MOG,3_Pts_T,Filipin
+289,3,08:11,45,42,MOG,RD,Gerson
+290,3,08:11,45,42,CAP,2_Pts_T,Caio Torres
+291,3,08:23,45,42,CAP,BR,Dawkins
+292,3,08:23,45,42,MOG,ER,Shamell
+293,3,08:29,45,42,MOG,RD,Gerson
+294,3,08:29,45,42,CAP,3_Pts_T,Gemerson
+295,3,08:55,45,42,MOG,2_Pts_C,Shamell
+296,3,09:08,43,42,MOG,RD,Lucas Mariano
+297,3,09:08,43,42,MOG,TO,Lucas Mariano
+298,3,09:08,43,42,CAP,2_Pts_T,Gruber
+299,3,09:32,43,42,MOG,3_Pts_C,Lucas Mariano
+300,3,09:32,40,42,MOG,AS,Larry
+301,2,00:00,40,42, ,fim_quarto,
+302,2,00:00,40,42,MOG,RD,Jimmy
+303,2,00:00,40,42,CAP,3_Pts_T,Caio Torres
+304,2,00:03,40,42,MOG,substituicao_sai,Shamell
+305,2,00:03,40,42,MOG,substituicao_entra,Jimmy
+306,2,00:03,40,42,CAP,FR,Valtinho
+307,2,00:03,40,42,MOG,FC,Larry
+308,2,00:16,40,42,CAP,RO,Paulistano
+309,2,00:16,40,42,CAP,2_Pts_T,Gemerson
+310,2,00:36,40,42,MOG,ER,Shamell
+311,2,00:36,40,42,MOG,RO,Gerson
+312,2,00:36,40,42,MOG,2_Pts_T,Shamell
+313,2,01:00,40,42,MOG,LL_Pts_C,Filipin
+314,2,01:00,39,42,MOG,LL_Pts_C,Filipin
+315,2,01:00,38,42,CAP,FC_T,Banco do Paulistano
+316,2,01:00,38,42,CAP,FC_T,Valtinho
+317,2,01:00,38,42,CAP,tempo_tecnico,Paulistano
+318,2,01:00,38,42,MOG,EN,Gerson
+319,2,01:00,36,42,MOG,AS,Shamell
+320,2,01:11,36,42,CAP,substituicao_sai,Toyloy
+321,2,01:11,36,42,CAP,substituicao_entra,Jhonatan
+322,2,01:11,36,42,CAP,substituicao_sai,Gruber
+323,2,01:11,36,42,CAP,substituicao_entra,Caio Torres
+324,2,01:11,36,42,MOG,substituicao_sai,Paulão
+325,2,01:11,36,42,MOG,substituicao_entra,Tyrone
+326,2,01:11,36,42,MOG,FR,Shamell
+327,2,01:11,36,42,CAP,FC,Valtinho
+328,2,01:19,36,42,MOG,RD,Gerson
+329,2,01:19,36,42,CAP,3_Pts_T,Dawkins
+330,2,01:41,36,42,MOG,3_Pts_C,Shamell
+331,2,01:41,33,42,MOG,AS,Filipin
+332,2,01:48,33,42,MOG,BR,Shamell
+333,2,01:48,33,42,CAP,ER,Gruber
+334,2,02:04,33,42,MOG,2_Pts_C,Paulão
+335,2,02:04,31,42,MOG,AS,Gerson
+336,2,02:12,31,42,MOG,RD,Shamell
+337,2,02:12,31,42,CAP,2_Pts_T,Toyloy
+338,2,02:27,31,42,MOG,2_Pts_C,Paulão
+339,2,02:30,29,42,MOG,RO,Paulão
+340,2,02:30,29,42,MOG,2_Pts_T,Gerson
+341,2,02:48,29,42,CAP,3_Pts_C,Gemerson
+342,2,02:48,29,39,CAP,AS,Valtinho
+343,2,03:03,29,39,CAP,RD,Gemerson
+344,2,03:03,29,39,MOG,2_Pts_T,Gerson
+345,2,03:17,29,39,MOG,substituicao_sai,Jimmy
+346,2,03:17,29,39,MOG,substituicao_entra,Shamell
+347,2,03:19,29,39,MOG,FR,Gerson
+348,2,03:19,29,39,CAP,FC,Toyloy
+349,2,03:19,29,39,MOG,RD,Mogi das Cruzes
+350,2,03:19,29,39,CAP,2_Pts_T,Gemerson
+351,2,03:37,29,39,CAP,RD,Toyloy
+352,2,03:37,29,39,MOG,2_Pts_T,Larry
+353,2,04:03,29,39,MOG,FR,Larry
+354,2,04:03,29,39,CAP,FC,Dawkins
+355,2,04:03,29,39,MOG,substituicao_sai,Lersch
+356,2,04:03,29,39,MOG,substituicao_entra,Filipin
+357,2,04:03,29,39,CAP,ER,Gruber
+358,2,04:23,29,39,CAP,RD,Valtinho
+359,2,04:23,29,39,MOG,2_Pts_T,Larry
+360,2,04:36,29,39,CAP,3_Pts_C,Valtinho
+361,2,04:36,29,36,CAP,AS,Dawkins
+362,2,04:38,29,36,CAP,substituicao_sai,Arthur Pecos
+363,2,04:38,29,36,CAP,substituicao_entra,Valtinho
+364,2,05:05,29,36,CAP,BR,Paulistano
+365,2,05:05,29,36,MOG,ER,Jimmy
+366,2,05:14,29,36,MOG,RD,Paulão
+367,2,05:14,29,36,CAP,2_Pts_T,Gruber
+368,2,05:34,29,36,CAP,tempo_tecnico,Paulistano
+369,2,05:34,29,36,MOG,FR,Paulão
+370,2,05:34,29,36,CAP,FC,Toyloy
+371,2,05:34,29,36,MOG,2_Pts_C,Paulão
+372,2,05:34,27,36,MOG,AS,Larry
+373,2,05:36,27,36,CAP,RD,Gruber
+374,2,05:36,27,36,MOG,LL_Pts_T,Paulão
+375,2,05:36,27,36,CAP,substituicao_sai,Jhonatan
+376,2,05:36,27,36,CAP,substituicao_entra,Gemerson
+377,2,05:38,27,36,MOG,RO,Larry
+378,2,05:38,27,36,MOG,2_Pts_T,Lersch
+379,2,06:08,27,36,MOG,RD,Paulão
+380,2,06:08,27,36,CAP,3_Pts_T,Gruber
+381,2,06:26,27,36,MOG,EN,Jimmy
+382,2,06:26,25,36,MOG,AS,Larry
+383,2,06:35,25,36,MOG,RD,Paulão
+384,2,06:35,25,36,CAP,3_Pts_T,Jhonatan
+385,2,06:44,25,36,CAP,BR,Paulistano
+386,2,06:44,25,36,MOG,ER,Jimmy
+387,2,06:45,25,36,CAP,substituicao_sai,Caio Torres
+388,2,06:45,25,36,CAP,substituicao_entra,Toyloy
+389,2,06:49,25,36,MOG,RD,Jimmy
+390,2,06:49,25,36,CAP,2_Pts_T,Caio Torres
+391,2,07:04,25,36,MOG,2_Pts_C,Jimmy
+392,2,07:04,23,36,MOG,AS,Paulão
+393,2,07:30,23,36,CAP,2_Pts_C,Gruber
+394,2,07:30,23,34,CAP,AS,Jhonatan
+395,2,07:49,23,34,MOG,2_Pts_C,Gerson
+396,2,08:09,21,34,CAP,EN,Gruber
+397,2,08:09,21,32,CAP,AS,Caio Torres
+398,2,08:14,21,32,CAP,substituicao_sai,Guilherme
+399,2,08:14,21,32,CAP,substituicao_entra,Gruber
+400,2,08:14,21,32,CAP,substituicao_sai,Valtinho
+401,2,08:14,21,32,CAP,substituicao_entra,Dawkins
+402,2,08:14,21,32,CAP,FR,Arthur Pecos
+403,2,08:14,21,32,MOG,FC,Lersch
+404,2,08:19,21,32,CAP,RD,Arthur Pecos
+405,2,08:19,21,32,MOG,2_Pts_T,Lersch
+406,2,08:28,21,32,MOG,RD,Paulão
+407,2,08:28,21,32,CAP,3_Pts_T,Guilherme
+408,2,08:55,21,32,MOG,EN,Gerson
+409,2,08:55,19,32,MOG,AS,Larry
+410,2,09:02,19,32,MOG,RD,Paulão
+411,2,09:02,19,32,CAP,3_Pts_T,Guilherme
+412,2,09:24,19,32,MOG,3_Pts_C,Jimmy
+413,2,09:24,16,32,MOG,AS,Gerson
+414,2,09:50,16,32,CAP,2_Pts_C,Caio Torres
+415,1,00:00,16,30, ,fim_quarto,
+416,1,00:01,16,30,MOG,RD,Larry
+417,1,00:01,16,30,CAP,3_Pts_T,Caio Torres
+418,1,00:14,16,30,MOG,substituicao_sai,Paulão
+419,1,00:14,16,30,MOG,substituicao_entra,Wagner
+420,1,00:14,16,30,CAP,substituicao_sai,Jhonatan
+421,1,00:14,16,30,CAP,substituicao_entra,Dawkins
+422,1,00:27,16,30,MOG,2_Pts_C,Paulão
+423,1,00:32,14,30,CAP,3_Pts_C,Valtinho
+424,1,01:05,14,27,CAP,RO,Caio Torres
+425,1,01:05,14,27,CAP,3_Pts_T,Jhonatan
+426,1,01:13,14,27,MOG,substituicao_sai,Lucas Mariano
+427,1,01:13,14,27,MOG,substituicao_entra,Gerson
+428,1,01:13,14,27,CAP,substituicao_sai,Dawkins
+429,1,01:13,14,27,CAP,substituicao_entra,Arthur Pecos
+430,1,01:13,14,27,CAP,FR,Caio Torres
+431,1,01:13,14,27,MOG,FC,Paulão
+432,1,01:24,14,27,CAP,BR,Dawkins
+433,1,01:24,14,27,MOG,ER,Lucas Mariano
+434,1,01:37,14,27,MOG,RD,Lersch
+435,1,01:37,14,27,CAP,3_Pts_T,Gruber
+436,1,01:57,14,27,MOG,substituicao_sai,Tyrone
+437,1,01:57,14,27,MOG,substituicao_entra,Paulão
+438,1,01:57,14,27,MOG,substituicao_sai,Shamell
+439,1,01:57,14,27,MOG,substituicao_entra,Larry
+440,1,01:57,14,27,CAP,FR,Valtinho
+441,1,01:57,14,27,MOG,FC_O,Shamell
+442,1,02:08,14,27,CAP,3_Pts_C,Caio Torres
+443,1,02:08,14,24,CAP,AS,Valtinho
+444,1,02:27,14,24,MOG,2_Pts_C,Lucas Mariano
+445,1,02:35,12,24,MOG,BR,Lersch
+446,1,02:35,12,24,CAP,ER,Caio Torres
+447,1,02:40,12,24,CAP,RD,Dawkins
+448,1,02:40,12,24,CAP,TO,Dawkins
+449,1,02:40,12,24,MOG,3_Pts_T,Lersch
+450,1,02:56,12,24,CAP,substituicao_sai,Gemerson
+451,1,02:56,12,24,CAP,substituicao_entra,Jhonatan
+452,1,02:56,12,24,MOG,FR,Tyrone
+453,1,02:56,12,24,CAP,FC,Gemerson
+454,1,03:04,12,24,CAP,2_Pts_C,Dawkins
+455,1,03:15,12,22,CAP,AS,Valtinho
+456,1,03:22,12,22,CAP,BR,Valtinho
+457,1,03:22,12,22,MOG,ER,Lersch
+458,1,03:42,12,22,MOG,substituicao_sai,Filipin
+459,1,03:42,12,22,MOG,substituicao_entra,Jimmy
+460,1,03:42,12,22,MOG,substituicao_sai,Larry
+461,1,03:42,12,22,MOG,substituicao_entra,Lersch
+462,1,03:42,12,22,MOG,FR,Larry
+463,1,03:42,12,22,CAP,FC_O,Gruber
+464,1,03:59,12,22,MOG,3_Pts_C,Lucas Mariano
+465,1,03:59,9,22,MOG,AS,Larry
+466,1,04:21,9,22,CAP,3_Pts_C,Dawkins
+467,1,04:21,9,19,CAP,AS,Caio Torres
+468,1,04:28,9,19,CAP,FR,Valtinho
+469,1,04:28,9,19,MOG,FC,Shamell
+470,1,04:38,9,19,CAP,RD,Valtinho
+471,1,04:38,9,19,MOG,3_Pts_T,Larry
+472,1,04:56,9,19,CAP,LL_Pts_C,Gruber
+473,1,04:56,9,18,MOG,tempo_tecnico,Mogi das Cruzes
+474,1,04:56,9,18,CAP,FR,Gruber
+475,1,04:56,9,18,MOG,FC,Tyrone
+476,1,04:56,9,18,CAP,2_Pts_C,Gruber
+477,1,04:56,9,16,CAP,AS,Valtinho
+478,1,04:59,9,16,CAP,BR,Gruber
+479,1,04:59,9,16,MOG,ER,Filipin
+480,1,05:09,9,16,MOG,RD,Tyrone
+481,1,05:09,9,16,CAP,3_Pts_T,Gemerson
+482,1,05:22,9,16,CAP,RD,Gemerson
+483,1,05:22,9,16,MOG,3_Pts_T,Tyrone
+484,1,05:28,9,16,MOG,FR,Filipin
+485,1,05:28,9,16,CAP,FC,Gemerson
+486,1,05:45,9,16,CAP,3_Pts_C,Gruber
+487,1,05:45,9,13,CAP,AS,Gemerson
+488,1,06:01,9,13,MOG,2_Pts_C,Lucas Mariano
+489,1,06:01,7,13,MOG,AS,Larry
+490,1,06:16,7,13,CAP,3_Pts_C,Gruber
+491,1,06:16,7,10,CAP,AS,Dawkins
+492,1,06:39,7,10,MOG,2_Pts_C,Shamell
+493,1,06:53,5,10,CAP,3_Pts_C,Valtinho
+494,1,06:53,5,7,CAP,AS,Caio Torres
+495,1,07:10,5,7,CAP,BR,Caio Torres
+496,1,07:10,5,7,MOG,ER,Larry
+497,1,07:17,5,7,MOG,RD,Larry
+498,1,07:17,5,7,CAP,2_Pts_T,Caio Torres
+499,1,07:35,5,7,MOG,3_Pts_C,Larry
+500,1,07:35,2,7,MOG,AS,Shamell
+501,1,07:47,2,7,CAP,3_Pts_C,Dawkins
+502,1,07:47,2,4,CAP,AS,Valtinho
+503,1,08:00,2,4,CAP,RD,Caio Torres
+504,1,08:00,2,4,MOG,3_Pts_T,Larry
+505,1,08:07,2,4,MOG,RO,Mogi das Cruzes
+506,1,08:07,2,4,CAP,TO,Gruber
+507,1,08:07,2,4,MOG,2_Pts_T,Larry
+508,1,08:27,2,4,CAP,2_Pts_C,Valtinho
+509,1,08:38,2,2,MOG,LL_Pts_C,Filipin
+510,1,08:38,1,2,MOG,AS,Lucas Mariano
+511,1,08:38,1,2,MOG,LL_Pts_C,Filipin
+512,1,08:38,0,2,MOG,FR,Filipin
+513,1,08:38,0,2,CAP,FC,Gruber
+514,1,08:48,0,2,MOG,BR,Shamell
+515,1,08:48,0,2,CAP,ER,Dawkins
+516,1,09:04,0,2,CAP,RD,Caio Torres
+517,1,09:04,0,2,MOG,2_Pts_T,Filipin
+518,1,09:20,0,2,CAP,2_Pts_C,Dawkins
+519,1,09:38,0,0,CAP,RD,Dawkins
+520,1,09:38,0,0,MOG,2_Pts_T,Tyrone
+521,1,10:00,0,0,CAP,substituicao_entra,Dawkins
+522,1,10:00,0,0,CAP,substituicao_entra,Gruber
+523,1,10:00,0,0,CAP,substituicao_entra,Caio Torres
+524,1,10:00,0,0,CAP,substituicao_entra,Valtinho
+525,1,10:00,0,0,CAP,substituicao_entra,Gemerson
+526,1,10:00,0,0,MOG,substituicao_entra,Tyrone
+527,1,10:00,0,0,MOG,substituicao_entra,Lucas Mariano
+528,1,10:00,0,0,MOG,substituicao_entra,Shamell
+529,1,10:00,0,0,MOG,substituicao_entra,Filipin
+530,1,10:00,0,0,MOG,substituicao_entra,Larry

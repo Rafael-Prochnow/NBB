@@ -15,7 +15,7 @@ for x in lista_de_temporadas:
     r = requests.get(f'https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D={x}')
     soup = BeautifulSoup(r.content, 'html.parser')
     list_inoutControl = get_links_from(soup)
-    del(list_inoutControl[:347])
+    # del(list_inoutControl[:347])
     print(list_inoutControl)
     numero_jogo = 1
     table_inf = soup.find(name='table')

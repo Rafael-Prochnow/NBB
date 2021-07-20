@@ -1,0 +1,527 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,83,69, ,fim_partida,
+1,4,00:01,83,69,FRA,3_Pts_T,Helinho
+2,4,00:03,83,69,MIN,2_Pts_C,Shilton
+3,4,00:04,81,69,MIN,RO,Shilton
+4,4,00:04,81,69,FRA,TO,Lucas Mariano
+5,4,00:04,81,69,MIN,2_Pts_T,Ansaloni
+6,4,00:19,81,69,FRA,LL_Pts_C,Mata
+7,4,00:19,81,68,FRA,LL_Pts_C,Mata
+8,4,00:19,81,67,FRA,FR,Mata
+9,4,00:19,81,67,MIN,FC,Shilton
+10,4,00:19,81,67,FRA,BR,Mata
+11,4,00:19,81,67,MIN,ER,Collum
+12,4,00:38,81,67,MIN,RD,Ansaloni
+13,4,00:38,81,67,FRA,3_Pts_T,Mata
+14,4,00:56,81,67,FRA,BR,Franca
+15,4,00:56,81,67,MIN,ER,Coelho
+16,4,01:13,81,67,MIN,LL_Pts_T,Coelho
+17,4,01:13,81,67,MIN,LL_Pts_C,Coelho
+18,4,01:13,80,67,FRA,tempo_tecnico,Franca
+19,4,01:13,80,67,MIN,FR,Coelho
+20,4,01:13,80,67,FRA,FC_A,Helinho
+21,4,01:14,80,67,MIN,BR,Shilton
+22,4,01:14,80,67,FRA,ER,Léo Meindl
+23,4,01:28,80,67,MIN,EN,Coelho
+24,4,01:35,78,67,MIN,substituicao_sai,Siqueira
+25,4,01:35,78,67,MIN,substituicao_entra,Ansaloni
+26,4,01:39,78,67,MIN,RD,Shilton
+27,4,01:39,78,67,FRA,3_Pts_T,Helinho
+28,4,01:56,78,67,FRA,BR,Cobos
+29,4,01:56,78,67,MIN,ER,Siqueira
+30,4,02:00,78,67,FRA,2_Pts_C,Lucas Mariano
+31,4,02:00,78,65,FRA,AS,Helinho
+32,4,02:07,78,65,FRA,FR,Mata
+33,4,02:07,78,65,MIN,FC_O,Shilton
+34,4,02:25,78,65,MIN,substituicao_sai,Adyb
+35,4,02:25,78,65,MIN,substituicao_entra,Siqueira
+36,4,02:25,78,65,FRA,substituicao_entra,Cobos
+37,4,02:25,78,65,FRA,substituicao_sai,André Luiz
+38,4,02:25,78,65,FRA,tempo_tecnico,Franca
+39,4,02:25,78,65,MIN,FR,Irigoyen
+40,4,02:25,78,65,FRA,FC_O,André Luiz
+41,4,02:47,78,65,MIN,2_Pts_C,Irigoyen
+42,4,02:47,76,65,MIN,AS,Collum
+43,4,03:05,76,65,MIN,FR,Coelho
+44,4,03:05,76,65,FRA,FC,Helinho
+45,4,03:06,76,65,FRA,LL_Pts_C,André Luiz
+46,4,03:06,76,64,FRA,LL_Pts_C,André Luiz
+47,4,03:06,76,63,FRA,FR,André Luiz
+48,4,03:06,76,63,MIN,FC,Coelho
+49,4,03:27,76,63,MIN,3_Pts_C,Collum
+50,4,03:27,73,63,MIN,AS,Irigoyen
+51,4,03:47,73,63,FRA,ER,André Luiz
+52,4,04:00,73,63,MIN,LL_Pts_C,Shilton
+53,4,04:00,72,63,FRA,substituicao_sai,Léo Waszkiewicz
+54,4,04:00,72,63,FRA,substituicao_entra,André Luiz
+55,4,04:00,72,63,MIN,substituicao_sai,Siqueira
+56,4,04:00,72,63,MIN,substituicao_entra,Irigoyen
+57,4,04:00,72,63,MIN,AS,Collum
+58,4,04:00,72,63,MIN,2_Pts_C,Shilton
+59,4,04:00,70,63,MIN,FR,Shilton
+60,4,04:00,70,63,FRA,FC,Léo Waszkiewicz
+61,4,04:14,70,63,FRA,2_Pts_C,Léo Meindl
+62,4,04:39,70,61,FRA,BR,Franca
+63,4,04:39,70,61,MIN,ER,Coelho
+64,4,04:59,70,61,MIN,BR,Adyb
+65,4,04:59,70,61,FRA,ER,Léo Waszkiewicz
+66,4,05:05,70,61,FRA,BR,Léo Waszkiewicz
+67,4,05:05,70,61,MIN,ER,Coelho
+68,4,05:05,70,61,MIN,substituicao_entra,Siqueira
+69,4,05:05,70,61,MIN,substituicao_sai,Irigoyen
+70,4,05:27,70,61,FRA,2_Pts_C,Mata
+71,4,05:47,70,59,MIN,3_Pts_C,Collum
+72,4,05:47,67,59,MIN,AS,Adyb
+73,4,06:03,67,59,MIN,substituicao_entra,Adyb
+74,4,06:03,67,59,MIN,substituicao_sai,Ansaloni
+75,4,06:03,67,59,MIN,tempo_tecnico,Minas
+76,4,06:03,67,59,FRA,LL_Pts_C,Léo Waszkiewicz
+77,4,06:03,67,58,FRA,LL_Pts_C,Léo Waszkiewicz
+78,4,06:03,67,57,FRA,FR,Léo Waszkiewicz
+79,4,06:03,67,57,MIN,FC,Ansaloni
+80,4,06:03,67,57,FRA,RO,Léo Waszkiewicz
+81,4,06:03,67,57,FRA,3_Pts_T,Léo Meindl
+82,4,06:19,67,57,FRA,BR,Léo Meindl
+83,4,06:19,67,57,MIN,ER,Ansaloni
+84,4,06:27,67,57,MIN,RD,Minas
+85,4,06:27,67,57,FRA,3_Pts_T,Léo Meindl
+86,4,06:39,67,57,FRA,RD,Mata
+87,4,06:39,67,57,MIN,2_Pts_T,Collum
+88,4,07:00,67,57,FRA,LL_Pts_C,Léo Meindl
+89,4,07:00,67,56,MIN,substituicao_entra,Coelho
+90,4,07:00,67,56,MIN,substituicao_sai,Siqueira
+91,4,07:00,67,56,FRA,2_Pts_C,Léo Meindl
+92,4,07:00,67,54,FRA,FR,Léo Meindl
+93,4,07:00,67,54,MIN,FC,Siqueira
+94,4,07:07,67,54,FRA,FR,Léo Waszkiewicz
+95,4,07:07,67,54,MIN,FC,Siqueira
+96,4,07:16,67,54,FRA,BR,Lucas Mariano
+97,4,07:16,67,54,MIN,ER,Irigoyen
+98,4,07:34,67,54,FRA,LL_Pts_C,Léo Meindl
+99,4,07:34,67,53,FRA,LL_Pts_C,Léo Meindl
+100,4,07:34,67,52,FRA,FR,Léo Meindl
+101,4,07:34,67,52,MIN,FC,Shilton
+102,4,07:40,67,52,FRA,RO,Lucas Mariano
+103,4,07:40,67,52,FRA,3_Pts_T,Mata
+104,4,07:50,67,52,FRA,FR,Mata
+105,4,07:50,67,52,MIN,FC,Irigoyen
+106,4,07:55,67,52,FRA,RO,Léo Meindl
+107,4,07:55,67,52,FRA,2_Pts_T,Helinho
+108,4,08:09,67,52,MIN,LL_Pts_C,Ansaloni
+109,4,08:09,66,52,MIN,AS,Irigoyen
+110,4,08:09,66,52,MIN,LL_Pts_C,Ansaloni
+111,4,08:09,65,52,MIN,FR,Ansaloni
+112,4,08:09,65,52,FRA,FC,Mata
+113,4,08:20,65,52,MIN,FR,Siqueira
+114,4,08:20,65,52,FRA,FC_O,Léo Meindl
+115,4,08:32,65,52,MIN,3_Pts_C,Collum
+116,4,08:32,62,52,MIN,AS,Shilton
+117,4,08:45,62,52,FRA,ER,Mata
+118,4,09:11,62,52,MIN,2_Pts_C,Collum
+119,4,09:11,60,52,MIN,AS,Irigoyen
+120,4,09:34,60,52,MIN,BR,Collum
+121,4,09:34,60,52,FRA,ER,Helinho
+122,4,09:41,60,52,FRA,FR,Mata
+123,4,09:41,60,52,MIN,FC,Ansaloni
+124,3,00:00,60,52, ,fim_quarto,
+125,3,00:01,60,52,MIN,RD,Irigoyen
+126,3,00:01,60,52,FRA,2_Pts_T,Antonio
+127,3,00:10,60,52,FRA,RD,Tom
+128,3,00:10,60,52,MIN,3_Pts_T,Coelho
+129,3,00:31,60,52,FRA,LL_Pts_C,Léo Meindl
+130,3,00:31,60,51,MIN,substituicao_entra,Collum
+131,3,00:31,60,51,MIN,substituicao_entra,Coelho
+132,3,00:31,60,51,MIN,substituicao_sai,Christian
+133,3,00:31,60,51,MIN,substituicao_sai,Adyb
+134,3,00:31,60,51,FRA,substituicao_entra,Tom
+135,3,00:31,60,51,FRA,substituicao_sai,Léo Waszkiewicz
+136,3,00:31,60,51,FRA,2_Pts_C,Léo Meindl
+137,3,00:31,60,49,FRA,FR,Léo Meindl
+138,3,00:31,60,49,MIN,FC,Adyb
+139,3,00:45,60,49,MIN,substituicao_entra,Christian
+140,3,00:45,60,49,MIN,substituicao_sai,Collum
+141,3,00:45,60,49,MIN,LL_Pts_C,Collum
+142,3,00:45,59,49,MIN,LL_Pts_C,Collum
+143,3,00:45,58,49,MIN,substituicao_entra,Siqueira
+144,3,00:45,58,49,MIN,substituicao_sai,Coelho
+145,3,00:45,58,49,MIN,FR,Collum
+146,3,00:45,58,49,FRA,FC,Gustavo
+147,3,00:56,58,49,MIN,RD,Collum
+148,3,00:56,58,49,FRA,2_Pts_T,Antonio
+149,3,01:09,58,49,MIN,ER,Adyb
+150,3,01:29,58,49,MIN,substituicao_entra,Coelho
+151,3,01:29,58,49,MIN,substituicao_sai,Siqueira
+152,3,01:29,58,49,MIN,RD,Minas
+153,3,01:29,58,49,FRA,3_Pts_T,Gustavo
+154,3,01:46,58,49,MIN,2_Pts_C,Siqueira
+155,3,01:52,56,49,MIN,BR,Collum
+156,3,01:52,56,49,FRA,ER,Léo Meindl
+157,3,02:06,56,49,MIN,2_Pts_C,Ansaloni
+158,3,02:06,54,49,MIN,AS,Collum
+159,3,02:22,54,49,FRA,2_Pts_C,Léo Meindl
+160,3,02:38,54,47,MIN,LL_Pts_C,Siqueira
+161,3,02:38,53,47,MIN,LL_Pts_C,Siqueira
+162,3,02:38,52,47,MIN,FR,Siqueira
+163,3,02:38,52,47,FRA,FC,Cobos
+164,3,02:50,52,47,FRA,3_Pts_C,Léo Meindl
+165,3,02:50,52,44,FRA,AS,Gustavo
+166,3,03:07,52,44,FRA,substituicao_entra,Gustavo
+167,3,03:07,52,44,FRA,substituicao_sai,Lucas Mariano
+168,3,03:07,52,44,MIN,substituicao_entra,Adyb
+169,3,03:07,52,44,MIN,substituicao_sai,Shilton
+170,3,03:07,52,44,MIN,LL_Pts_C,Shilton
+171,3,03:07,51,44,MIN,LL_Pts_T,Shilton
+172,3,03:07,51,44,MIN,FR,Shilton
+173,3,03:07,51,44,FRA,FC,Lucas Mariano
+174,3,03:07,51,44,MIN,RO,Shilton
+175,3,03:07,51,44,MIN,2_Pts_T,Ansaloni
+176,3,03:28,51,44,FRA,2_Pts_C,Léo Meindl
+177,3,03:28,51,42,FRA,AS,Cobos
+178,3,03:47,51,42,MIN,3_Pts_C,Siqueira
+179,3,03:47,48,42,MIN,AS,Collum
+180,3,04:08,48,42,FRA,2_Pts_C,Cobos
+181,3,04:24,48,40,FRA,RD,Léo Waszkiewicz
+182,3,04:24,48,40,MIN,LL_Pts_T,Shilton
+183,3,04:24,48,40,MIN,LL_Pts_T,Shilton
+184,3,04:24,48,40,MIN,FR,Shilton
+185,3,04:24,48,40,FRA,FC,Antonio
+186,3,04:28,48,40,MIN,RD,Siqueira
+187,3,04:28,48,40,FRA,2_Pts_T,Lucas Mariano
+188,3,04:31,48,40,FRA,BR,Lucas Mariano
+189,3,04:31,48,40,MIN,ER,Ansaloni
+190,3,04:47,48,40,FRA,3_Pts_C,Cobos
+191,3,05:01,48,37,MIN,LL_Pts_C,Shilton
+192,3,05:01,47,37,MIN,2_Pts_C,Shilton
+193,3,05:01,45,37,MIN,FR,Shilton
+194,3,05:01,45,37,FRA,FC,Léo Waszkiewicz
+195,3,05:03,45,37,MIN,RO,Shilton
+196,3,05:03,45,37,MIN,2_Pts_T,Ansaloni
+197,3,05:16,45,37,FRA,substituicao_entra,Léo Meindl
+198,3,05:16,45,37,FRA,substituicao_sai,Helinho
+199,3,05:16,45,37,FRA,LL_Pts_C,Helinho
+200,3,05:16,45,36,FRA,LL_Pts_C,Helinho
+201,3,05:16,45,35,FRA,substituicao_entra,Antonio
+202,3,05:16,45,35,FRA,substituicao_sai,Mata
+203,3,05:16,45,35,FRA,substituicao_entra,Léo Waszkiewicz
+204,3,05:16,45,35,FRA,substituicao_sai,André Luiz
+205,3,05:16,45,35,MIN,substituicao_entra,Collum
+206,3,05:16,45,35,MIN,substituicao_sai,Coelho
+207,3,05:16,45,35,FRA,FR,Helinho
+208,3,05:16,45,35,MIN,FC,Coelho
+209,3,05:28,45,35,MIN,3_Pts_C,Coelho
+210,3,05:28,42,35,MIN,AS,Shilton
+211,3,05:50,42,35,FRA,ER,Mata
+212,3,06:04,42,35,MIN,2_Pts_C,Irigoyen
+213,3,06:04,40,35,MIN,AS,Coelho
+214,3,06:14,40,35,MIN,RO,Coelho
+215,3,06:14,40,35,MIN,2_Pts_T,Shilton
+216,3,06:25,40,35,FRA,LL_Pts_C,Lucas Mariano
+217,3,06:25,40,34,FRA,LL_Pts_T,Lucas Mariano
+218,3,06:25,40,34,MIN,substituicao_entra,Ansaloni
+219,3,06:25,40,34,MIN,substituicao_sai,Adyb
+220,3,06:25,40,34,FRA,FR,Lucas Mariano
+221,3,06:25,40,34,MIN,FC,Adyb
+222,3,06:33,40,34,FRA,RD,Mata
+223,3,06:33,40,34,MIN,3_Pts_T,Adyb
+224,3,06:46,40,34,MIN,FR,Shilton
+225,3,06:46,40,34,FRA,FC,André Luiz
+226,3,06:56,40,34,FRA,LL_Pts_C,Mata
+227,3,06:56,40,33,FRA,LL_Pts_C,Mata
+228,3,06:56,40,32,FRA,FR,Mata
+229,3,06:56,40,32,MIN,FC,Irigoyen
+230,3,06:56,40,32,FRA,substituicao_entra,Cobos
+231,3,06:56,40,32,FRA,substituicao_sai,Léo Meindl
+232,3,06:56,40,32,FRA,FR,Lucas Mariano
+233,3,06:56,40,32,MIN,FC,Adyb
+234,3,07:04,40,32,FRA,RD,Mata
+235,3,07:04,40,32,MIN,2_Pts_T,Adyb
+236,3,07:10,40,32,MIN,BR,Shilton
+237,3,07:10,40,32,FRA,ER,Léo Meindl
+238,3,07:19,40,32,MIN,substituicao_entra,Siqueira
+239,3,07:19,40,32,MIN,substituicao_sai,Collum
+240,3,07:19,40,32,FRA,FR,Léo Meindl
+241,3,07:19,40,32,MIN,FC,Collum
+242,3,07:21,40,32,FRA,FR,Mata
+243,3,07:21,40,32,MIN,FC,Collum
+244,3,07:22,40,32,FRA,BR,Mata
+245,3,07:22,40,32,MIN,ER,Collum
+246,3,07:40,40,32,MIN,RD,Shilton
+247,3,07:40,40,32,FRA,3_Pts_T,Helinho
+248,3,07:52,40,32,FRA,RD,Lucas Mariano
+249,3,07:52,40,32,MIN,3_Pts_T,Irigoyen
+250,3,07:59,40,32,MIN,RD,Shilton
+251,3,07:59,40,32,FRA,2_Pts_T,Léo Meindl
+252,3,08:09,40,32,FRA,RD,Helinho
+253,3,08:09,40,32,MIN,2_Pts_T,Irigoyen
+254,3,08:23,40,32,MIN,AS,Shilton
+255,3,08:23,40,32,MIN,LL_Pts_C,Adyb
+256,3,08:23,39,32,MIN,LL_Pts_T,Adyb
+257,3,08:23,39,32,MIN,FR,Adyb
+258,3,08:23,39,32,FRA,FC_A,André Luiz
+259,3,08:55,39,32,MIN,BR,Minas
+260,3,08:55,39,32,FRA,ER,Léo Meindl
+261,3,09:09,39,32,MIN,2_Pts_C,Adyb
+262,3,09:09,37,32,MIN,AS,Irigoyen
+263,3,09:20,37,32,FRA,AS,Léo Meindl
+264,3,09:20,37,32,FRA,LL_Pts_C,André Luiz
+265,3,09:20,37,31,FRA,LL_Pts_T,André Luiz
+266,3,09:20,37,31,FRA,FR,André Luiz
+267,3,09:20,37,31,MIN,FC,Coelho
+268,3,09:42,37,31,MIN,EN,Adyb
+269,3,09:42,35,31,MIN,AS,Shilton
+270,3,09:47,35,31,MIN,RO,Shilton
+271,3,09:47,35,31,MIN,3_Pts_T,Collum
+272,2,00:00,35,31, ,fim_quarto,
+273,2,00:01,35,31,FRA,3_Pts_C,Lucas Mariano
+274,2,00:01,35,28,FRA,AS,Cobos
+275,2,00:27,35,28,MIN,3_Pts_C,Coelho
+276,2,00:35,32,28,MIN,RD,Moisés
+277,2,00:35,32,28,MIN,TO,Irigoyen
+278,2,00:35,32,28,FRA,2_Pts_T,Mata
+279,2,00:46,32,28,FRA,FR,Cobos
+280,2,00:46,32,28,MIN,FC,Coelho
+281,2,01:02,32,28,MIN,ER,Coelho
+282,2,01:07,32,28,MIN,FR,Irigoyen
+283,2,01:07,32,28,FRA,FC,Mata
+284,2,01:20,32,28,FRA,LL_Pts_C,Cobos
+285,2,01:20,32,27,FRA,LL_Pts_C,Cobos
+286,2,01:20,32,26,MIN,substituicao_entra,Coelho
+287,2,01:20,32,26,MIN,substituicao_sai,Siqueira
+288,2,01:20,32,26,FRA,FR,Cobos
+289,2,01:20,32,26,MIN,FC,Moisés
+290,2,01:37,32,26,MIN,2_Pts_C,Ansaloni
+291,2,01:42,30,26,MIN,RO,Ansaloni
+292,2,01:42,30,26,MIN,3_Pts_T,Collum
+293,2,02:05,30,26,FRA,substituicao_entra,André Luiz
+294,2,02:05,30,26,FRA,substituicao_sai,Léo Waszkiewicz
+295,2,02:07,30,26,MIN,tempo_tecnico,Minas
+296,2,02:07,30,26,FRA,2_Pts_C,Antonio
+297,2,02:07,30,24,FRA,AS,Cobos
+298,2,02:16,30,24,FRA,RD,Antonio
+299,2,02:16,30,24,MIN,2_Pts_T,Moisés
+300,2,02:35,30,24,FRA,2_Pts_C,Léo Waszkiewicz
+301,2,02:35,30,22,FRA,AS,Antonio
+302,2,02:36,30,22,FRA,RO,Franca
+303,2,02:36,30,22,MIN,TO,Moisés
+304,2,02:36,30,22,FRA,2_Pts_T,Mata
+305,2,02:51,30,22,MIN,LL_Pts_C,Ansaloni
+306,2,02:51,29,22,MIN,AS,Collum
+307,2,02:51,29,22,MIN,LL_Pts_C,Ansaloni
+308,2,02:51,28,22,MIN,FR,Ansaloni
+309,2,02:51,28,22,FRA,FC,Léo Waszkiewicz
+310,2,02:59,28,22,MIN,BR,Ansaloni
+311,2,02:59,28,22,FRA,ER,Mata
+312,2,03:03,28,22,FRA,RO,Mata
+313,2,03:03,28,22,FRA,3_Pts_T,Mata
+314,2,03:11,28,22,FRA,RO,Léo Waszkiewicz
+315,2,03:11,28,22,FRA,2_Pts_T,Léo Waszkiewicz
+316,2,03:37,28,22,MIN,substituicao_entra,Ansaloni
+317,2,03:37,28,22,MIN,substituicao_sai,Shilton
+318,2,03:37,28,22,FRA,substituicao_entra,Cobos
+319,2,03:37,28,22,FRA,substituicao_sai,Helinho
+320,2,03:37,28,22,FRA,RD,Franca
+321,2,03:37,28,22,MIN,2_Pts_T,Siqueira
+322,2,03:47,28,22,MIN,BR,Siqueira
+323,2,03:47,28,22,FRA,ER,Helinho
+324,2,04:07,28,22,FRA,RD,Antonio
+325,2,04:07,28,22,MIN,2_Pts_T,Moisés
+326,2,04:14,28,22,MIN,BR,Collum
+327,2,04:14,28,22,FRA,ER,Mata
+328,2,04:26,28,22,MIN,substituicao_entra,Moisés
+329,2,04:26,28,22,MIN,substituicao_sai,Adyb
+330,2,04:30,28,22,FRA,tempo_tecnico,Franca
+331,2,04:30,28,22,MIN,2_Pts_C,Adyb
+332,2,04:30,26,22,MIN,AS,Collum
+333,2,04:41,26,22,MIN,BR,Siqueira
+334,2,04:41,26,22,FRA,ER,Antonio
+335,2,04:53,26,22,FRA,RD,Helinho
+336,2,04:53,26,22,MIN,3_Pts_T,Collum
+337,2,05:12,26,22,FRA,substituicao_entra,Antonio
+338,2,05:12,26,22,FRA,substituicao_sai,Léo Meindl
+339,2,05:12,26,22,MIN,FR,Shilton
+340,2,05:12,26,22,FRA,FC,Léo Meindl
+341,2,05:16,26,22,MIN,RD,Shilton
+342,2,05:16,26,22,FRA,3_Pts_T,Helinho
+343,2,05:30,26,22,MIN,3_Pts_C,Collum
+344,2,05:30,23,22,MIN,AS,Shilton
+345,2,05:43,23,22,FRA,substituicao_entra,Léo Waszkiewicz
+346,2,05:43,23,22,FRA,substituicao_sai,André Luiz
+347,2,05:43,23,22,MIN,substituicao_entra,Collum
+348,2,05:43,23,22,MIN,substituicao_sai,Coelho
+349,2,05:43,23,22,MIN,BR,Minas
+350,2,05:43,23,22,FRA,ER,Mata
+351,2,06:02,23,22,FRA,RD,Lucas Mariano
+352,2,06:02,23,22,MIN,2_Pts_T,Shilton
+353,2,06:21,23,22,FRA,2_Pts_C,Lucas Mariano
+354,2,06:26,23,20,FRA,RO,Lucas Mariano
+355,2,06:26,23,20,FRA,3_Pts_T,Léo Meindl
+356,2,06:37,23,20,FRA,RD,Mata
+357,2,06:37,23,20,MIN,2_Pts_T,Shilton
+358,2,06:46,23,20,MIN,RD,Irigoyen
+359,2,06:46,23,20,FRA,3_Pts_T,Mata
+360,2,06:56,23,20,FRA,RD,Lucas Mariano
+361,2,06:56,23,20,MIN,2_Pts_T,Coelho
+362,2,07:25,23,20,FRA,2_Pts_C,André Luiz
+363,2,07:25,23,18,FRA,AS,Helinho
+364,2,07:41,23,18,MIN,2_Pts_C,Irigoyen
+365,2,07:50,21,18,MIN,RD,Irigoyen
+366,2,07:50,21,18,FRA,3_Pts_T,Lucas Mariano
+367,2,07:58,21,18,FRA,BR,Léo Meindl
+368,2,07:58,21,18,MIN,ER,Coelho
+369,2,08:13,21,18,FRA,LL_Pts_C,André Luiz
+370,2,08:13,21,17,FRA,LL_Pts_C,André Luiz
+371,2,08:13,21,16,MIN,substituicao_entra,Shilton
+372,2,08:13,21,16,MIN,substituicao_sai,Ansaloni
+373,2,08:13,21,16,FRA,FR,André Luiz
+374,2,08:13,21,16,MIN,FC,Ansaloni
+375,2,08:36,21,16,MIN,2_Pts_C,Ansaloni
+376,2,08:36,19,16,MIN,AS,Adyb
+377,2,08:57,19,16,FRA,2_Pts_C,André Luiz
+378,2,09:16,19,14,FRA,BR,Léo Meindl
+379,2,09:16,19,14,MIN,ER,Siqueira
+380,2,09:28,19,14,MIN,RD,Ansaloni
+381,2,09:28,19,14,FRA,2_Pts_T,Léo Meindl
+382,2,09:45,19,14,FRA,RD,Mata
+383,2,09:45,19,14,MIN,3_Pts_T,Coelho
+384,2,09:51,19,14,MIN,BR,Coelho
+385,2,09:51,19,14,FRA,ER,Lucas Mariano
+386,1,00:00,19,14, ,fim_quarto,
+387,1,00:01,19,14,FRA,RD,Léo Meindl
+388,1,00:01,19,14,MIN,2_Pts_T,Siqueira
+389,1,00:08,19,14,MIN,substituicao_entra,Siqueira
+390,1,00:08,19,14,MIN,substituicao_entra,Collum
+391,1,00:08,19,14,MIN,substituicao_sai,Moisés
+392,1,00:08,19,14,MIN,substituicao_sai,Ansaloni
+393,1,00:20,19,14,FRA,3_Pts_C,Lucas Mariano
+394,1,00:20,19,11,FRA,AS,Léo Meindl
+395,1,00:39,19,11,MIN,LL_Pts_C,Ansaloni
+396,1,00:39,18,11,MIN,LL_Pts_T,Ansaloni
+397,1,00:39,18,11,MIN,substituicao_entra,Christian
+398,1,00:39,18,11,MIN,substituicao_sai,Siqueira
+399,1,00:39,18,11,MIN,substituicao_entra,Irigoyen
+400,1,00:39,18,11,MIN,substituicao_sai,Collum
+401,1,00:39,18,11,MIN,substituicao_entra,Moisés
+402,1,00:39,18,11,MIN,substituicao_sai,Shilton
+403,1,00:39,18,11,MIN,FR,Ansaloni
+404,1,00:39,18,11,FRA,FC,André Luiz
+405,1,00:40,18,11,MIN,RD,Ansaloni
+406,1,00:40,18,11,FRA,2_Pts_T,Léo Meindl
+407,1,01:05,18,11,FRA,RD,Léo Meindl
+408,1,01:05,18,11,MIN,2_Pts_T,Ansaloni
+409,1,01:23,18,11,MIN,RD,Shilton
+410,1,01:23,18,11,FRA,LL_Pts_T,Lucas Mariano
+411,1,01:23,18,11,FRA,LL_Pts_T,Lucas Mariano
+412,1,01:23,18,11,FRA,substituicao_entra,Léo Meindl
+413,1,01:23,18,11,FRA,substituicao_sai,Mata
+414,1,01:23,18,11,FRA,FR,Lucas Mariano
+415,1,01:23,18,11,MIN,FC,Ansaloni
+416,1,01:41,18,11,MIN,2_Pts_C,Collum
+417,1,02:07,16,11,MIN,RD,Minas
+418,1,02:07,16,11,FRA,LL_Pts_T,André Luiz
+419,1,02:07,16,11,FRA,LL_Pts_C,André Luiz
+420,1,02:07,16,10,FRA,FR,André Luiz
+421,1,02:07,16,10,MIN,FC,Collum
+422,1,02:31,16,10,MIN,LL_Pts_C,Collum
+423,1,02:31,15,10,MIN,LL_Pts_C,Collum
+424,1,02:31,14,10,MIN,FR,Collum
+425,1,02:31,14,10,FRA,FC,Helinho
+426,1,02:41,14,10,FRA,substituicao_entra,Helinho
+427,1,02:41,14,10,FRA,substituicao_sai,Léo Meindl
+428,1,02:41,14,10,MIN,substituicao_entra,Shilton
+429,1,02:41,14,10,MIN,substituicao_sai,Adyb
+430,1,02:41,14,10,FRA,ER,Mata
+431,1,02:52,14,10,FRA,RD,Lucas Mariano
+432,1,02:52,14,10,MIN,3_Pts_T,Collum
+433,1,03:18,14,10,MIN,substituicao_entra,Coelho
+434,1,03:18,14,10,MIN,substituicao_sai,Irigoyen
+435,1,03:18,14,10,FRA,substituicao_entra,André Luiz
+436,1,03:18,14,10,FRA,substituicao_sai,Léo Waszkiewicz
+437,1,03:18,14,10,MIN,FR,Siqueira
+438,1,03:18,14,10,FRA,FC,Léo Meindl
+439,1,03:20,14,10,MIN,RD,Siqueira
+440,1,03:20,14,10,FRA,2_Pts_T,Léo Waszkiewicz
+441,1,03:30,14,10,FRA,RD,Léo Meindl
+442,1,03:30,14,10,FRA,TO,Mata
+443,1,03:30,14,10,MIN,3_Pts_T,Irigoyen
+444,1,03:48,14,10,FRA,LL_Pts_C,Léo Meindl
+445,1,03:48,14,9,FRA,LL_Pts_C,Léo Meindl
+446,1,03:48,14,8,FRA,FR,Léo Meindl
+447,1,03:48,14,8,MIN,FC,Siqueira
+448,1,03:57,14,8,FRA,RD,Cobos
+449,1,03:57,14,8,MIN,2_Pts_T,Ansaloni
+450,1,04:14,14,8,FRA,2_Pts_C,Léo Meindl
+451,1,04:18,14,6,FRA,BR,Léo Meindl
+452,1,04:18,14,6,MIN,ER,Irigoyen
+453,1,04:27,14,6,MIN,substituicao_entra,Ansaloni
+454,1,04:27,14,6,MIN,substituicao_sai,Shilton
+455,1,04:27,14,6,FRA,ER,Cobos
+456,1,04:53,14,6,MIN,2_Pts_C,Shilton
+457,1,04:55,12,6,MIN,RO,Shilton
+458,1,04:55,12,6,MIN,LL_Pts_T,Shilton
+459,1,04:55,12,6,MIN,LL_Pts_C,Shilton
+460,1,04:55,11,6,MIN,FR,Shilton
+461,1,04:55,11,6,FRA,FC,Léo Waszkiewicz
+462,1,05:15,11,6,FRA,substituicao_entra,Lucas Mariano
+463,1,05:15,11,6,FRA,substituicao_sai,Antonio
+464,1,05:15,11,6,FRA,substituicao_entra,Cobos
+465,1,05:15,11,6,FRA,substituicao_sai,Helinho
+466,1,05:15,11,6,MIN,substituicao_entra,Siqueira
+467,1,05:15,11,6,MIN,substituicao_sai,Coelho
+468,1,05:15,11,6,FRA,ER,Léo Waszkiewicz
+469,1,05:34,11,6,MIN,3_Pts_C,Irigoyen
+470,1,05:34,8,6,MIN,AS,Collum
+471,1,05:47,8,6,MIN,RD,Adyb
+472,1,05:47,8,6,FRA,2_Pts_T,Helinho
+473,1,05:58,8,6,FRA,RO,Léo Meindl
+474,1,05:58,8,6,FRA,3_Pts_T,Mata
+475,1,06:20,8,6,MIN,2_Pts_C,Adyb
+476,1,06:20,6,6,MIN,AS,Collum
+477,1,06:35,6,6,FRA,LL_Pts_C,Antonio
+478,1,06:35,6,5,FRA,LL_Pts_C,Antonio
+479,1,06:35,6,4,FRA,FR,Antonio
+480,1,06:35,6,4,MIN,FC,Adyb
+481,1,06:44,6,4,FRA,RD,Antonio
+482,1,06:44,6,4,MIN,2_Pts_T,Adyb
+483,1,07:02,6,4,MIN,RD,Shilton
+484,1,07:02,6,4,FRA,LL_Pts_T,Mata
+485,1,07:02,6,4,FRA,2_Pts_C,Mata
+486,1,07:02,6,2,FRA,FR,Mata
+487,1,07:02,6,2,MIN,FC,Irigoyen
+488,1,07:15,6,2,MIN,LL_Pts_C,Coelho
+489,1,07:15,5,2,MIN,2_Pts_C,Coelho
+490,1,07:15,3,2,MIN,FR,Coelho
+491,1,07:15,3,2,FRA,FC,Helinho
+492,1,07:21,3,2,MIN,RD,Coelho
+493,1,07:21,3,2,MIN,TO,Shilton
+494,1,07:21,3,2,FRA,2_Pts_T,Léo Waszkiewicz
+495,1,07:36,3,2,FRA,RD,Léo Meindl
+496,1,07:36,3,2,MIN,2_Pts_T,Coelho
+497,1,07:41,3,2,MIN,BR,Coelho
+498,1,07:41,3,2,FRA,ER,Antonio
+499,1,07:57,3,2,FRA,BR,Franca
+500,1,07:57,3,2,MIN,ER,Coelho
+501,1,08:14,3,2,FRA,EN,Léo Waszkiewicz
+502,1,08:14,3,0,FRA,AS,Léo Meindl
+503,1,08:31,3,0,MIN,ER,Adyb
+504,1,08:50,3,0,FRA,FR,Léo Waszkiewicz
+505,1,08:50,3,0,MIN,FC,Shilton
+506,1,08:50,3,0,MIN,FR,Shilton
+507,1,08:50,3,0,FRA,FC,Léo Waszkiewicz
+508,1,08:50,3,0,MIN,RD,Minas
+509,1,08:50,3,0,FRA,3_Pts_T,Helinho
+510,1,09:04,3,0,FRA,RO,Helinho
+511,1,09:04,3,0,FRA,3_Pts_T,Mata
+512,1,09:31,3,0,MIN,3_Pts_C,Irigoyen
+513,1,09:31,0,0,MIN,AS,Coelho
+514,1,09:40,0,0,MIN,BR,Adyb
+515,1,09:40,0,0,FRA,ER,Léo Waszkiewicz
+516,1,10:00,0,0,FRA,substituicao_entra,Antonio
+517,1,10:00,0,0,FRA,substituicao_entra,Léo Meindl
+518,1,10:00,0,0,FRA,substituicao_entra,Léo Waszkiewicz
+519,1,10:00,0,0,FRA,substituicao_entra,Helinho
+520,1,10:00,0,0,FRA,substituicao_entra,Mata
+521,1,10:00,0,0,MIN,substituicao_entra,Collum
+522,1,10:00,0,0,MIN,substituicao_entra,Coelho
+523,1,10:00,0,0,MIN,substituicao_entra,Adyb
+524,1,10:00,0,0,MIN,substituicao_entra,Irigoyen
+525,1,10:00,0,0,MIN,substituicao_entra,Shilton

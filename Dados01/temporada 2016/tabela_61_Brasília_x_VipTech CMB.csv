@@ -1,0 +1,600 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,76,78,,fim_partida,
+1,4,00:02,76,78,CMO,BR,Wesley
+2,4,00:02,76,78,BRA,ER,Lucas Mariano
+3,4,00:03,76,78,BRA,RO,Lucas Mariano
+4,4,00:04,76,78,BRA,LL_Pts_T,Fulvio
+5,4,00:04,76,78,BRA,LL_Pts_C,Fulvio
+6,4,00:04,75,78,BRA,FR,Fulvio
+7,4,00:04,75,78,CMO,FC,Leandro
+8,4,00:04,75,78,CMO,LL_Pts_C,Cauê
+9,4,00:04,75,77,CMO,LL_Pts_T,Cauê
+10,4,00:04,75,77,CMO,substituicao_entra,Wesley
+11,4,00:04,75,77,CMO,substituicao_sai,Taddei
+12,4,00:04,75,77,BRA,substituicao_entra,Lucas Mariano
+13,4,00:04,75,77,BRA,substituicao_sai,Alex
+14,4,00:04,75,77,CMO,FR,Cauê
+15,4,00:04,75,77,BRA,FC,Deryk
+16,4,00:06,75,77,BRA,substituicao_entra,Alex
+17,4,00:06,75,77,BRA,substituicao_sai,Lucas Mariano
+18,4,00:06,75,77,CMO,substituicao_entra,Taddei
+19,4,00:06,75,77,CMO,substituicao_sai,Wesley
+20,4,00:11,75,77,CMO,FR,Brown
+21,4,00:11,75,77,BRA,FC,Fulvio
+22,4,00:11,75,77,CMO,RD,Wesley
+23,4,00:11,75,77,BRA,2_Pts_T,Lucas Mariano
+24,4,00:11,75,77,BRA,RO,Lucas Mariano
+25,4,00:11,75,77,BRA,2_Pts_T,Giovannoni
+26,4,00:28,75,77,CMO,substituicao_entra,Brown
+27,4,00:28,75,77,CMO,substituicao_entra,Pastor
+28,4,00:28,75,77,CMO,substituicao_entra,Wesley
+29,4,00:28,75,77,CMO,substituicao_entra,Cauê
+30,4,00:28,75,77,CMO,substituicao_entra,Leandro
+31,4,00:28,75,77,BRA,substituicao_entra,Giovannoni
+32,4,00:28,75,77,BRA,substituicao_sai,Alex
+33,4,00:28,75,77,BRA,substituicao_entra,Lucas Mariano
+34,4,00:28,75,77,BRA,substituicao_entra,Fulvio
+35,4,00:28,75,77,BRA,substituicao_entra,Alex
+36,4,00:28,75,77,BRA,substituicao_entra,Deryk
+37,4,00:28,75,77,BRA,substituicao_entra,Pilar
+38,4,00:28,75,77,CMO,substituicao_sai,Romário
+39,4,00:28,75,77,CMO,substituicao_sai,Pastor
+40,4,00:28,75,77,CMO,substituicao_sai,Cauê
+41,4,00:28,75,77,CMO,substituicao_sai,Leandro
+42,4,00:28,75,77,CMO,substituicao_sai,Brown
+43,4,00:28,75,77,BRA,substituicao_sai,Lucas Mariano
+44,4,00:28,75,77,BRA,substituicao_sai,Giovannoni
+45,4,00:28,75,77,BRA,substituicao_sai,Fulvio
+46,4,00:28,75,77,BRA,substituicao_sai,Deryk
+47,4,00:28,75,77,BRA,substituicao_sai,Pilar
+48,4,00:28,75,77,BRA,tempo_tecnico,
+49,4,00:34,75,77,CMO,ER,Brown
+50,4,00:34,75,77,CMO,BR,Pastor
+51,4,00:34,75,77,BRA,ER,Giovannoni
+52,4,00:34,75,77,BRA,RO,Giovannoni
+53,4,00:36,75,77,CMO,TO,Cauê
+54,4,00:39,75,77,BRA,2_Pts_T,Pilar
+55,4,00:53,75,77,CMO,substituicao_entra,Romário
+56,4,00:53,75,77,CMO,substituicao_sai,Taddei
+57,4,00:53,75,77,BRA,substituicao_entra,Deryk
+58,4,00:53,75,77,BRA,substituicao_sai,Alex
+59,4,00:53,75,77,BRA,tempo_tecnico,
+60,4,00:55,75,77,CMO,2_Pts_C,Brown
+61,4,01:05,75,75,CMO,RD,Brown
+62,4,01:06,75,75,BRA,LL_Pts_T,Lucas Mariano
+63,4,01:06,75,75,BRA,LL_Pts_T,Lucas Mariano
+64,4,01:06,75,75,CMO,substituicao_entra,Brown
+65,4,01:06,75,75,CMO,substituicao_sai,Wesley
+66,4,01:06,75,75,BRA,substituicao_entra,Pilar
+67,4,01:06,75,75,BRA,substituicao_sai,Deryk
+68,4,01:06,75,75,BRA,FR,Lucas Mariano
+69,4,01:06,75,75,CMO,FC,Leandro
+70,4,01:18,75,75,CMO,LL_Pts_C,Pastor
+71,4,01:18,75,74,CMO,FR,Pastor
+72,4,01:18,75,74,BRA,FC,Alex
+73,4,01:18,75,74,CMO,2_Pts_C,Pastor
+74,4,01:25,75,72,CMO,substituicao_entra,Wesley
+75,4,01:25,75,72,CMO,substituicao_sai,Romário
+76,4,01:25,75,72,CMO,substituicao_entra,Taddei
+77,4,01:25,75,72,CMO,substituicao_sai,Brown
+78,4,01:25,75,72,CMO,tempo_tecnico,
+79,4,01:26,75,72,BRA,ER,Fulvio
+80,4,01:46,75,72,BRA,RD,Lucas Mariano
+81,4,01:48,75,72,CMO,2_Pts_T,Romário
+82,4,02:08,75,72,CMO,RD,Pastor
+83,4,02:11,75,72,BRA,2_Pts_T,Lucas Mariano
+84,4,02:29,75,72,CMO,ER,Leandro
+85,4,02:30,75,72,CMO,substituicao_entra,Romário
+86,4,02:30,75,72,CMO,substituicao_sai,Wesley
+87,4,02:30,75,72,CMO,tempo_tecnico,
+88,4,02:35,75,72,BRA,LL_Pts_C,Lucas Mariano
+89,4,02:35,74,72,BRA,FR,Lucas Mariano
+90,4,02:35,74,72,CMO,FC,Cauê
+91,4,02:35,74,72,BRA,AS,Fulvio
+92,4,02:35,74,72,BRA,2_Pts_C,Lucas Mariano
+93,4,02:41,72,72,BRA,RD,Alex
+94,4,02:43,72,72,CMO,2_Pts_T,Brown
+95,4,02:55,72,72,CMO,RD,Pastor
+96,4,02:58,72,72,CMO,TO,Cauê
+97,4,03:01,72,72,BRA,2_Pts_T,Fulvio
+98,4,03:05,72,72,BRA,RD,Lucas Mariano
+99,4,03:09,72,72,CMO,2_Pts_T,Brown
+100,4,03:14,72,72,CMO,RD,Leandro
+101,4,03:17,72,72,BRA,3_Pts_T,Giovannoni
+102,4,03:37,72,72,CMO,AS,Cauê
+103,4,03:40,72,72,CMO,2_Pts_C,Wesley
+104,4,04:03,72,70,BRA,AS,Fulvio
+105,4,04:03,72,70,BRA,2_Pts_C,Deryk
+106,4,04:03,70,70,CMO,substituicao_entra,Wesley
+107,4,04:03,70,70,CMO,substituicao_sai,Romário
+108,4,04:03,70,70,BRA,substituicao_entra,Alex
+109,4,04:03,70,70,BRA,substituicao_sai,D Alemão
+110,4,04:03,70,70,BRA,RO,Brasília
+111,4,04:03,70,70,CMO,TO,Romário
+112,4,04:03,70,70,BRA,2_Pts_T,Fulvio
+113,4,04:12,70,70,BRA,RD,D Alemão
+114,4,04:13,70,70,CMO,2_Pts_T,Romário
+115,4,04:34,70,70,CMO,RD,Brown
+116,4,04:36,70,70,BRA,2_Pts_T,Fulvio
+117,4,04:51,70,70,CMO,3_Pts_T,Leandro
+118,4,05:02,70,70,CMO,substituicao_entra,Cauê
+119,4,05:02,70,70,CMO,substituicao_sai,W César
+120,4,05:02,70,70,BRA,ER,D Alemão
+121,4,05:08,70,70,BRA,RD,Lucas Mariano
+122,4,05:10,70,70,CMO,2_Pts_T,Brown
+123,4,05:32,70,70,CMO,RD,Leandro
+124,4,05:36,70,70,BRA,2_Pts_T,D Alemão
+125,4,05:40,70,70,BRA,FR,Lucas Mariano
+126,4,05:40,70,70,CMO,FC,Brown
+127,4,05:58,70,70,CMO,AS,Brown
+128,4,06:00,70,70,CMO,2_Pts_C,Romário
+129,4,06:13,70,68,BRA,AS,D Alemão
+130,4,06:15,70,68,BRA,2_Pts_C,Giovannoni
+131,4,06:31,68,68,BRA,tempo_tecnico,
+132,4,06:31,68,68,BRA,substituicao_entra,Lucas Mariano
+133,4,06:31,68,68,BRA,substituicao_entra,Deryk
+134,4,06:31,68,68,BRA,substituicao_entra,D Alemão
+135,4,06:31,68,68,BRA,substituicao_entra,Giovannoni
+136,4,06:31,68,68,BRA,substituicao_entra,Fulvio
+137,4,06:31,68,68,BRA,substituicao_sai,Lucas Mariano
+138,4,06:31,68,68,BRA,substituicao_sai,João
+139,4,06:31,68,68,BRA,substituicao_sai,Giovannoni
+140,4,06:31,68,68,BRA,substituicao_sai,Deryk
+141,4,06:31,68,68,BRA,substituicao_sai,Pilar
+142,4,06:31,68,68,CMO,AS,Pastor
+143,4,06:32,68,68,CMO,3_Pts_C,Leandro
+144,4,06:39,68,65,CMO,RD,Pastor
+145,4,06:41,68,65,BRA,3_Pts_T,Deryk
+146,4,06:56,68,65,CMO,AS,W César
+147,4,06:58,68,65,CMO,3_Pts_C,Pastor
+148,4,07:03,68,62,CMO,BR,W César
+149,4,07:09,68,62,BRA,ER,Pilar
+150,4,07:11,68,62,BRA,RD,Pilar
+151,4,07:13,68,62,CMO,2_Pts_T,Pastor
+152,4,07:17,68,62,CMO,RD,Pastor
+153,4,07:20,68,62,BRA,2_Pts_T,Giovannoni
+154,4,07:57,68,62,CMO,2_Pts_C,Pastor
+155,4,08:18,68,60,BRA,AS,Deryk
+156,4,08:20,68,60,BRA,2_Pts_C,Giovannoni
+157,4,08:25,66,60,CMO,substituicao_entra,W César
+158,4,08:25,66,60,CMO,substituicao_sai,Cauê
+159,4,08:25,66,60,BRA,FR,Lucas Mariano
+160,4,08:25,66,60,CMO,FC,Romário
+161,4,08:30,66,60,BRA,RD,Pilar
+162,4,08:32,66,60,CMO,3_Pts_T,Cauê
+163,4,08:36,66,60,CMO,RO,Leandro
+164,4,08:38,66,60,CMO,2_Pts_T,Cauê
+165,4,09:00,66,60,BRA,2_Pts_C,Lucas Mariano
+166,4,09:03,64,60,BRA,RO,Lucas Mariano
+167,4,09:04,64,60,BRA,3_Pts_T,João
+168,4,09:23,64,60,CMO,LL_Pts_C,Cauê
+169,4,09:23,64,59,CMO,LL_Pts_T,Cauê
+170,4,09:23,64,59,CMO,LL_Pts_T,Cauê
+171,4,09:23,64,59,CMO,FR,Cauê
+172,4,09:23,64,59,BRA,FC,Lucas Mariano
+173,4,09:42,64,59,CMO,LL_Pts_C,Leandro
+174,4,09:42,64,58,BRA,FC_T,Pilar
+175,4,10:00,64,58,,inicio_quarto,
+176,3,00:00,64,58,CMO,substituicao_entra,Romário
+177,3,00:00,64,58,CMO,substituicao_entra,Pastor
+178,3,00:00,64,58,CMO,substituicao_entra,Cauê
+179,3,00:00,64,58,CMO,substituicao_entra,Leandro
+180,3,00:00,64,58,CMO,substituicao_entra,Brown
+181,3,00:00,64,58,CMO,substituicao_sai,Pastor
+182,3,00:00,64,58,CMO,substituicao_sai,Taddei
+183,3,00:00,64,58,CMO,substituicao_sai,Cauê
+184,3,00:00,64,58,CMO,substituicao_sai,Leandro
+185,3,00:00,64,58,CMO,substituicao_sai,Brown
+186,3,00:00,64,58,BRA,substituicao_entra,Lucas Mariano
+187,3,00:00,64,58,BRA,substituicao_entra,João
+188,3,00:00,64,58,BRA,substituicao_entra,Giovannoni
+189,3,00:00,64,58,BRA,substituicao_entra,Deryk
+190,3,00:00,64,58,BRA,substituicao_entra,Pilar
+191,3,00:00,64,58,BRA,substituicao_sai,Lucas Mariano
+192,3,00:00,64,58,BRA,substituicao_sai,João
+193,3,00:00,64,58,BRA,substituicao_sai,Deryk
+194,3,00:00,64,58,BRA,substituicao_sai,Paulo
+195,3,00:00,64,58,BRA,substituicao_sai,Jefferson
+196,3,00:00,64,58,,fim_quarto,
+197,3,00:12,64,58,BRA,RD,Jefferson
+198,3,00:12,64,58,CMO,3_Pts_T,Pastor
+199,3,00:24,64,58,BRA,LL_Pts_C,Lucas Mariano
+200,3,00:24,63,58,BRA,LL_Pts_T,Lucas Mariano
+201,3,00:24,63,58,BRA,substituicao_entra,Paulo
+202,3,00:24,63,58,BRA,substituicao_sai,Giovannoni
+203,3,00:24,63,58,CMO,substituicao_entra,Pastor
+204,3,00:24,63,58,CMO,substituicao_sai,W César
+205,3,00:24,63,58,BRA,substituicao_entra,Jefferson
+206,3,00:24,63,58,BRA,substituicao_sai,Fulvio
+207,3,00:24,63,58,CMO,substituicao_entra,Brown
+208,3,00:24,63,58,CMO,substituicao_sai,Wesley
+209,3,00:24,63,58,BRA,FR,Lucas Mariano
+210,3,00:24,63,58,CMO,FC,Wesley
+211,3,00:42,63,58,BRA,RD,Giovannoni
+212,3,00:44,63,58,CMO,3_Pts_T,Wesley
+213,3,00:50,63,58,CMO,BR,Leandro
+214,3,00:52,63,58,BRA,ER,Giovannoni
+215,3,00:55,63,58,BRA,RD,Giovannoni
+216,3,00:56,63,58,CMO,3_Pts_T,Taddei
+217,3,01:18,63,58,CMO,RD,Taddei
+218,3,01:19,63,58,BRA,2_Pts_T,Lucas Mariano
+219,3,01:23,63,58,BRA,BR,João
+220,3,01:25,63,58,CMO,ER,Cauê
+221,3,01:33,63,58,CMO,substituicao_entra,Taddei
+222,3,01:33,63,58,CMO,substituicao_sai,Brown
+223,3,01:33,63,58,BRA,ER,Lucas Mariano
+224,3,01:50,63,58,CMO,ER,
+225,3,01:50,63,58,CMO,RO,Wesley
+226,3,01:50,63,58,BRA,TO,Lucas Mariano
+227,3,01:50,63,58,CMO,3_Pts_T,Wesley
+228,3,01:57,63,58,CMO,substituicao_entra,Leandro
+229,3,01:57,63,58,CMO,substituicao_sai,Pastor
+230,3,02:24,63,58,BRA,3_Pts_C,Fulvio
+231,3,02:24,60,58,BRA,substituicao_entra,Giovannoni
+232,3,02:24,60,58,BRA,substituicao_sai,Jefferson
+233,3,02:24,60,58,BRA,FR,Giovannoni
+234,3,02:24,60,58,CMO,FC,Brown
+235,3,02:25,60,58,BRA,RD,Deryk
+236,3,02:27,60,58,CMO,2_Pts_T,W César
+237,3,02:58,60,58,CMO,RD,Wesley
+238,3,02:58,60,58,BRA,LL_Pts_T,Lucas Mariano
+239,3,02:58,60,58,BRA,FR,Lucas Mariano
+240,3,02:58,60,58,CMO,FC,Cauê
+241,3,02:58,60,58,BRA,AS,Fulvio
+242,3,02:58,60,58,BRA,2_Pts_C,Lucas Mariano
+243,3,02:59,58,58,CMO,2_Pts_C,Pastor
+244,3,03:05,58,56,CMO,RO,Pastor
+245,3,03:07,58,56,CMO,2_Pts_T,Wesley
+246,3,03:09,58,56,CMO,RO,Wesley
+247,3,03:10,58,56,CMO,2_Pts_T,Pastor
+248,3,03:12,58,56,CMO,RO,Pastor
+249,3,03:13,58,56,CMO,2_Pts_T,Brown
+250,3,03:20,58,56,BRA,ER,Deryk
+251,3,03:28,58,56,BRA,RO,Deryk
+252,3,03:30,58,56,BRA,2_Pts_T,Deryk
+253,3,03:49,58,56,CMO,substituicao_entra,Cauê
+254,3,03:49,58,56,CMO,substituicao_sai,Taddei
+255,3,03:49,58,56,BRA,FR,Lucas Mariano
+256,3,03:49,58,56,CMO,FC,Wesley
+257,3,04:03,58,56,CMO,substituicao_entra,W César
+258,3,04:03,58,56,CMO,substituicao_sai,Cauê
+259,3,04:03,58,56,CMO,ER,Cauê
+260,3,04:18,58,56,BRA,substituicao_entra,João
+261,3,04:18,58,56,BRA,substituicao_sai,Giovannoni
+262,3,04:18,58,56,BRA,ER,Jefferson
+263,3,04:20,58,56,CMO,AS,Taddei
+264,3,04:23,58,56,CMO,2_Pts_C,Brown
+265,3,04:49,58,54,BRA,3_Pts_C,Jefferson
+266,3,05:00,55,54,CMO,AS,Taddei
+267,3,05:03,55,54,CMO,3_Pts_C,Wesley
+268,3,05:10,55,51,BRA,substituicao_entra,Lucas Mariano
+269,3,05:10,55,51,BRA,substituicao_sai,Alex
+270,3,05:10,55,51,CMO,FR,Pastor
+271,3,05:10,55,51,BRA,ER,Alex
+272,3,05:10,55,51,BRA,FC_O,Alex
+273,3,05:23,55,51,CMO,2_Pts_C,Wesley
+274,3,05:29,55,49,BRA,substituicao_entra,Deryk
+275,3,05:29,55,49,BRA,substituicao_sai,Pilar
+276,3,05:29,55,49,CMO,substituicao_entra,Wesley
+277,3,05:29,55,49,CMO,substituicao_sai,Leandro
+278,3,05:30,55,49,CMO,RO,Campo Mourão
+279,3,05:30,55,49,CMO,LL_Pts_T,Leandro
+280,3,05:30,55,49,CMO,LL_Pts_T,Leandro
+281,3,05:30,55,49,CMO,FR,Leandro
+282,3,05:30,55,49,BRA,FC,Pilar
+283,3,05:30,55,49,CMO,RO,Leandro
+284,3,05:30,55,49,CMO,2_Pts_T,Leandro
+285,3,05:39,55,49,CMO,tempo_tecnico,
+286,3,05:41,55,49,BRA,2_Pts_C,Pilar
+287,3,05:42,53,49,BRA,BR,Pilar
+288,3,05:44,53,49,CMO,ER,Cauê
+289,3,05:47,53,49,CMO,FR,Pastor
+290,3,05:47,53,49,BRA,FC,Alex
+291,3,06:12,53,49,BRA,2_Pts_C,Giovannoni
+292,3,06:15,51,49,BRA,RO,Giovannoni
+293,3,06:17,51,49,BRA,3_Pts_T,Jefferson
+294,3,06:24,51,49,BRA,RD,Fulvio
+295,3,06:26,51,49,CMO,3_Pts_T,Taddei
+296,3,06:42,51,49,CMO,RD,Cauê
+297,3,06:44,51,49,BRA,3_Pts_T,Giovannoni
+298,3,06:54,51,49,CMO,ER,Pastor
+299,3,07:07,51,49,CMO,FR,Taddei
+300,3,07:07,51,49,BRA,ER,Alex
+301,3,07:07,51,49,BRA,FC_O,Alex
+302,3,07:19,51,49,CMO,2_Pts_C,Pastor
+303,3,07:38,51,47,BRA,AS,Jefferson
+304,3,07:39,51,47,BRA,3_Pts_C,Fulvio
+305,3,07:52,48,47,BRA,RD,Giovannoni
+306,3,07:54,48,47,CMO,2_Pts_T,Brown
+307,3,08:01,48,47,CMO,FR,Cauê
+308,3,08:01,48,47,BRA,FC,Pilar
+309,3,08:17,48,47,CMO,RD,Cauê
+310,3,08:19,48,47,BRA,3_Pts_T,Pilar
+311,3,08:39,48,47,CMO,AS,Brown
+312,3,08:40,48,47,CMO,3_Pts_C,Leandro
+313,3,09:04,48,44,BRA,LL_Pts_C,Pilar
+314,3,09:04,47,44,BRA,FR,Pilar
+315,3,09:04,47,44,CMO,FC,Brown
+316,3,09:04,47,44,BRA,2_Pts_C,Pilar
+317,3,09:05,45,44,BRA,RO,Pilar
+318,3,09:08,45,44,BRA,3_Pts_T,Alex
+319,3,09:12,45,44,BRA,RO,Brasília
+320,3,09:12,45,44,BRA,2_Pts_T,Jefferson
+321,3,09:15,45,44,BRA,RD,Pilar
+322,3,09:16,45,44,CMO,3_Pts_T,Cauê
+323,3,09:26,45,44,CMO,substituicao_entra,Taddei
+324,3,09:26,45,44,CMO,substituicao_sai,Romário
+325,3,09:26,45,44,CMO,RO,Campo Mourão
+326,3,09:26,45,44,BRA,TO,Giovannoni
+327,3,09:26,45,44,CMO,2_Pts_T,Romário
+328,3,09:43,45,44,CMO,RD,Cauê
+329,3,09:45,45,44,BRA,3_Pts_T,Giovannoni
+330,3,10:00,45,44,,inicio_quarto,
+331,2,00:00,45,44,,fim_quarto,
+332,2,00:11,45,44,BRA,RD,Alex
+333,2,00:11,45,44,CMO,3_Pts_T,Cauê
+334,2,00:24,45,44,CMO,RD,Pastor
+335,2,00:24,45,44,BRA,2_Pts_T,Fulvio
+336,2,00:44,45,44,CMO,AS,Romário
+337,2,00:48,45,44,CMO,3_Pts_C,Pastor
+338,2,01:01,45,41,BRA,AS,Pilar
+339,2,01:05,45,41,BRA,2_Pts_C,Giovannoni
+340,2,01:08,43,41,BRA,RD,Pilar
+341,2,01:09,43,41,CMO,2_Pts_T,Pastor
+342,2,01:28,43,41,CMO,LL_Pts_C,Taddei
+343,2,01:30,43,40,BRA,FC_T,D Alemão
+344,2,01:30,43,40,CMO,BR,Pastor
+345,2,01:30,43,40,BRA,ER,Giovannoni
+346,2,01:33,43,40,BRA,RO,Brasília
+347,2,01:33,43,40,CMO,TO,Leandro
+348,2,01:33,43,40,BRA,2_Pts_T,Giovannoni
+349,2,01:34,43,40,BRA,BR,Giovannoni
+350,2,01:34,43,40,CMO,ER,Cauê
+351,2,01:34,43,40,CMO,tempo_tecnico,
+352,2,01:34,43,40,BRA,AS,Alex
+353,2,01:36,43,40,BRA,2_Pts_C,Pilar
+354,2,01:57,41,40,BRA,LL_Pts_C,Giovannoni
+355,2,01:57,40,40,CMO,FC_T,Campo Mourão
+356,2,01:57,40,40,BRA,ER,Giovannoni
+357,2,01:57,40,40,BRA,BR,Giovannoni
+358,2,01:59,40,40,CMO,ER,Leandro
+359,2,02:05,40,40,CMO,substituicao_entra,Pastor
+360,2,02:05,40,40,CMO,substituicao_sai,Brown
+361,2,02:05,40,40,CMO,FR,Leandro
+362,2,02:05,40,40,BRA,FC,Pilar
+363,2,02:11,40,40,BRA,AS,Fulvio
+364,2,02:14,40,40,BRA,2_Pts_C,D Alemão
+365,2,02:30,38,40,BRA,RD,Pilar
+366,2,02:32,38,40,CMO,3_Pts_T,Taddei
+367,2,02:39,38,40,BRA,LL_Pts_C,Giovannoni
+368,2,02:39,37,40,BRA,substituicao_entra,D Alemão
+369,2,02:39,37,40,BRA,substituicao_sai,Lucas Mariano
+370,2,02:39,37,40,BRA,FR,Giovannoni
+371,2,02:39,37,40,CMO,FC,Taddei
+372,2,02:43,37,40,BRA,2_Pts_C,Giovannoni
+373,2,02:47,35,40,BRA,RO,Giovannoni
+374,2,02:49,35,40,BRA,3_Pts_T,Fulvio
+375,2,02:57,35,40,BRA,RD,Pilar
+376,2,02:58,35,40,CMO,2_Pts_T,Taddei
+377,2,03:12,35,40,CMO,BR,Taddei
+378,2,03:14,35,40,BRA,ER,Fulvio
+379,2,03:23,35,40,CMO,3_Pts_C,Cauê
+380,2,03:43,35,37,BRA,AS,Pilar
+381,2,03:46,35,37,BRA,3_Pts_C,Giovannoni
+382,2,03:51,32,37,BRA,RD,Lucas Mariano
+383,2,03:53,32,37,CMO,2_Pts_T,Brown
+384,2,04:09,32,37,BRA,AS,Pilar
+385,2,04:10,32,37,CMO,tempo_tecnico,
+386,2,04:15,32,37,BRA,2_Pts_C,Alex
+387,2,04:38,30,37,BRA,LL_Pts_C,Giovannoni
+388,2,04:38,29,37,CMO,FC_T,Taddei
+389,2,04:52,29,37,CMO,2_Pts_C,Cauê
+390,2,05:15,29,35,CMO,substituicao_entra,Cauê
+391,2,05:15,29,35,CMO,substituicao_sai,W César
+392,2,05:15,29,35,BRA,ER,Lucas Mariano
+393,2,05:31,29,35,BRA,substituicao_entra,Pilar
+394,2,05:31,29,35,BRA,substituicao_sai,Deryk
+395,2,05:31,29,35,BRA,RD,Brasília
+396,2,05:31,29,35,CMO,2_Pts_T,W César
+397,2,05:51,29,35,BRA,AS,Fulvio
+398,2,05:53,29,35,BRA,2_Pts_C,Giovannoni
+399,2,06:14,27,35,CMO,AS,Cauê
+400,2,06:14,27,35,CMO,LL_Pts_C,Romário
+401,2,06:14,27,34,CMO,LL_Pts_C,Romário
+402,2,06:14,27,33,CMO,substituicao_entra,W César
+403,2,06:14,27,33,CMO,substituicao_sai,Cauê
+404,2,06:14,27,33,CMO,FR,Romário
+405,2,06:14,27,33,BRA,FC,Lucas Mariano
+406,2,06:23,27,33,BRA,LL_Pts_C,Alex
+407,2,06:23,26,33,BRA,LL_Pts_C,Alex
+408,2,06:23,25,33,CMO,substituicao_entra,Cauê
+409,2,06:23,25,33,CMO,substituicao_sai,W César
+410,2,06:23,25,33,CMO,substituicao_entra,Leandro
+411,2,06:23,25,33,CMO,substituicao_sai,Pastor
+412,2,06:23,25,33,BRA,FR,Alex
+413,2,06:23,25,33,CMO,FC,Romário
+414,2,06:29,25,33,BRA,RD,Deryk
+415,2,06:31,25,33,CMO,3_Pts_T,W César
+416,2,06:46,25,33,BRA,AS,Giovannoni
+417,2,06:50,25,33,BRA,2_Pts_C,Lucas Mariano
+418,2,07:03,23,33,CMO,AS,W César
+419,2,07:05,23,33,CMO,3_Pts_C,Pastor
+420,2,07:13,23,30,CMO,RD,Taddei
+421,2,07:15,23,30,BRA,3_Pts_T,Giovannoni
+422,2,07:31,23,30,CMO,AS,Cauê
+423,2,07:31,23,30,CMO,LL_Pts_C,Romário
+424,2,07:31,23,29,CMO,LL_Pts_T,Romário
+425,2,07:31,23,29,CMO,substituicao_entra,Taddei
+426,2,07:31,23,29,CMO,substituicao_sai,Leandro
+427,2,07:31,23,29,CMO,substituicao_entra,W César
+428,2,07:31,23,29,CMO,substituicao_sai,Cauê
+429,2,07:31,23,29,BRA,substituicao_entra,Fulvio
+430,2,07:31,23,29,BRA,substituicao_sai,Jefferson
+431,2,07:31,23,29,BRA,substituicao_entra,Lucas Mariano
+432,2,07:31,23,29,BRA,substituicao_sai,João
+433,2,07:31,23,29,BRA,tempo_tecnico,
+434,2,07:31,23,29,CMO,FR,Romário
+435,2,07:31,23,29,BRA,FC,João
+436,2,07:49,23,29,CMO,RD,Leandro
+437,2,07:50,23,29,BRA,3_Pts_T,João
+438,2,08:05,23,29,CMO,2_Pts_C,Brown
+439,2,08:23,23,27,CMO,RD,Leandro
+440,2,08:26,23,27,BRA,3_Pts_T,Alex
+441,2,08:45,23,27,CMO,substituicao_entra,Romário
+442,2,08:45,23,27,CMO,substituicao_sai,Taddei
+443,2,08:45,23,27,BRA,substituicao_entra,Giovannoni
+444,2,08:45,23,27,BRA,substituicao_sai,D Alemão
+445,2,08:45,23,27,BRA,substituicao_entra,Alex
+446,2,08:45,23,27,BRA,substituicao_sai,Alex
+447,2,08:51,23,27,BRA,RD,D Alemão
+448,2,08:53,23,27,CMO,3_Pts_T,Taddei
+449,2,09:05,23,27,BRA,2_Pts_C,Deryk
+450,2,09:12,21,27,CMO,AS,Taddei
+451,2,09:15,21,27,CMO,2_Pts_C,Pastor
+452,2,09:18,21,25,CMO,BR,Leandro
+453,2,09:21,21,25,BRA,ER,D Alemão
+454,2,09:36,21,25,BRA,RD,D Alemão
+455,2,09:36,21,25,CMO,3_Pts_T,Pastor
+456,2,09:44,21,25,CMO,substituicao_entra,Cauê
+457,2,09:44,21,25,CMO,substituicao_sai,W César
+458,2,09:44,21,25,CMO,substituicao_entra,Leandro
+459,2,09:44,21,25,CMO,substituicao_sai,Romário
+460,2,09:44,21,25,CMO,RO,Campo Mourão
+461,2,09:44,21,25,BRA,TO,João
+462,2,09:44,21,25,CMO,2_Pts_T,Pastor
+463,2,09:44,21,25,CMO,RO,Pastor
+464,2,09:44,21,25,CMO,2_Pts_T,Romário
+465,2,10:00,21,25,,inicio_quarto,
+466,2,10:00,21,25,CMO,RO,Brown
+467,1,00:00,21,25,,fim_quarto,
+468,1,00:28,21,25,CMO,2_Pts_C,Pastor
+469,1,00:28,21,23,CMO,RO,Pastor
+470,1,00:28,21,23,BRA,TO,D Alemão
+471,1,00:28,21,23,CMO,2_Pts_T,Brown
+472,1,00:31,21,23,CMO,BR,W César
+473,1,00:31,21,23,BRA,ER,Paulo
+474,1,00:44,21,23,CMO,AS,Romário
+475,1,00:46,21,23,CMO,3_Pts_C,W César
+476,1,00:59,21,20,CMO,FR,W César
+477,1,00:59,21,20,BRA,AS,Paulo
+478,1,00:59,21,20,BRA,2_Pts_C,D Alemão
+479,1,00:59,19,20,BRA,FC,D Alemão
+480,1,01:00,19,20,BRA,substituicao_entra,Paulo
+481,1,01:00,19,20,BRA,substituicao_sai,Fulvio
+482,1,01:00,19,20,CMO,RD,W César
+483,1,01:00,19,20,BRA,2_Pts_T,João
+484,1,01:01,19,20,CMO,substituicao_entra,Romário
+485,1,01:01,19,20,CMO,substituicao_sai,Wesley
+486,1,01:01,19,20,CMO,LL_Pts_C,Wesley
+487,1,01:01,19,19,CMO,substituicao_entra,W César
+488,1,01:01,19,19,CMO,substituicao_sai,Cauê
+489,1,01:01,19,19,CMO,FR,Wesley
+490,1,01:01,19,19,BRA,FC,D Alemão
+491,1,01:05,19,19,CMO,LL_Pts_T,W César
+492,1,01:05,19,19,CMO,LL_Pts_C,W César
+493,1,01:07,19,18,CMO,AS,Cauê
+494,1,01:08,19,18,CMO,2_Pts_C,Wesley
+495,1,01:24,19,16,CMO,BR,Pastor
+496,1,01:38,19,16,BRA,ER,João
+497,1,01:47,19,16,BRA,FC,João
+498,1,02:03,19,16,CMO,2_Pts_C,Pastor
+499,1,02:23,19,14,BRA,AS,Fulvio
+500,1,02:25,19,14,BRA,3_Pts_C,Alex
+501,1,02:29,16,14,BRA,RO,D Alemão
+502,1,02:33,16,14,BRA,2_Pts_T,D Alemão
+503,1,02:38,16,14,BRA,RD,Jefferson
+504,1,02:39,16,14,CMO,2_Pts_T,Pastor
+505,1,02:42,16,14,CMO,BR,Wesley
+506,1,02:45,16,14,BRA,ER,Jefferson
+507,1,03:07,16,14,CMO,3_Pts_C,Cauê
+508,1,03:15,16,11,CMO,RO,Wesley
+509,1,03:18,16,11,CMO,3_Pts_T,Taddei
+510,1,03:32,16,11,BRA,AS,D Alemão
+511,1,03:34,16,11,BRA,2_Pts_C,João
+512,1,03:39,14,11,BRA,substituicao_entra,João
+513,1,03:39,14,11,BRA,substituicao_sai,Pilar
+514,1,03:40,14,11,BRA,RO,Fulvio
+515,1,03:41,14,11,BRA,AS,Pilar
+516,1,03:41,14,11,BRA,LL_Pts_T,D Alemão
+517,1,03:41,14,11,BRA,LL_Pts_C,D Alemão
+518,1,03:41,13,11,BRA,FR,D Alemão
+519,1,03:41,13,11,CMO,FC,Wesley
+520,1,03:51,13,11,BRA,RD,Fulvio
+521,1,03:52,13,11,CMO,3_Pts_T,Pastor
+522,1,04:07,13,11,BRA,substituicao_entra,Alex
+523,1,04:07,13,11,BRA,substituicao_sai,Giovannoni
+524,1,04:07,13,11,CMO,substituicao_entra,Cauê
+525,1,04:07,13,11,CMO,substituicao_sai,W César
+526,1,04:07,13,11,CMO,FR,W César
+527,1,04:07,13,11,BRA,FC,Giovannoni
+528,1,04:19,13,11,BRA,AS,Fulvio
+529,1,04:22,13,11,BRA,2_Pts_C,Pilar
+530,1,04:27,11,11,CMO,AS,Brown
+531,1,04:31,11,11,CMO,2_Pts_C,Wesley
+532,1,04:43,11,9,CMO,RD,W César
+533,1,04:45,11,9,BRA,2_Pts_T,Pilar
+534,1,05:12,11,9,CMO,substituicao_entra,W César
+535,1,05:12,11,9,CMO,substituicao_sai,Leandro
+536,1,05:12,11,9,CMO,LL_Pts_C,Leandro
+537,1,05:12,11,8,CMO,substituicao_entra,Taddei
+538,1,05:12,11,8,CMO,substituicao_sai,Cauê
+539,1,05:12,11,8,BRA,substituicao_entra,D Alemão
+540,1,05:12,11,8,BRA,substituicao_sai,Lucas Mariano
+541,1,05:12,11,8,CMO,FR,Leandro
+542,1,05:12,11,8,BRA,FC,Lucas Mariano
+543,1,05:12,11,8,CMO,2_Pts_C,Leandro
+544,1,05:23,11,6,BRA,LL_Pts_C,Lucas Mariano
+545,1,05:23,10,6,BRA,substituicao_entra,Jefferson
+546,1,05:23,10,6,BRA,substituicao_sai,Deryk
+547,1,05:23,10,6,BRA,FR,Lucas Mariano
+548,1,05:23,10,6,CMO,FC,Leandro
+549,1,05:23,10,6,BRA,AS,Fulvio
+550,1,05:23,10,6,BRA,2_Pts_C,Lucas Mariano
+551,1,05:37,8,6,CMO,2_Pts_C,Brown
+552,1,05:46,8,4,BRA,AS,Fulvio
+553,1,05:50,8,4,BRA,2_Pts_C,Giovannoni
+554,1,05:58,6,4,BRA,RD,Pilar
+555,1,06:00,6,4,CMO,3_Pts_T,Brown
+556,1,06:15,6,4,BRA,LL_Pts_C,Lucas Mariano
+557,1,06:15,5,4,BRA,LL_Pts_C,Lucas Mariano
+558,1,06:15,4,4,BRA,FR,Lucas Mariano
+559,1,06:15,4,4,CMO,FC,Cauê
+560,1,06:20,4,4,BRA,RO,Lucas Mariano
+561,1,06:22,4,4,BRA,3_Pts_T,Deryk
+562,1,06:26,4,4,BRA,RD,Pilar
+563,1,06:28,4,4,CMO,2_Pts_T,Brown
+564,1,06:43,4,4,BRA,ER,Giovannoni
+565,1,06:47,4,4,BRA,RD,Deryk
+566,1,06:49,4,4,CMO,2_Pts_T,Leandro
+567,1,06:56,4,4,CMO,RD,Cauê
+568,1,06:57,4,4,CMO,TO,Wesley
+569,1,07:00,4,4,BRA,2_Pts_T,Lucas Mariano
+570,1,07:21,4,4,BRA,RD,Lucas Mariano
+571,1,07:24,4,4,CMO,3_Pts_T,Leandro
+572,1,07:33,4,4,CMO,RD,Wesley
+573,1,07:36,4,4,BRA,3_Pts_T,Deryk
+574,1,07:43,4,4,BRA,RD,Lucas Mariano
+575,1,07:44,4,4,CMO,3_Pts_T,Pastor
+576,1,08:01,4,4,BRA,AS,Pilar
+577,1,08:03,4,4,BRA,2_Pts_C,Giovannoni
+578,1,08:15,2,4,BRA,RD,Brasília
+579,1,08:18,2,4,CMO,2_Pts_T,Pastor
+580,1,08:44,2,4,BRA,ER,Lucas Mariano
+581,1,08:54,2,4,CMO,AS,Cauê
+582,1,08:57,2,4,CMO,2_Pts_C,Brown
+583,1,09:18,2,2,BRA,2_Pts_C,Pilar
+584,1,09:27,0,2,CMO,2_Pts_C,Wesley
+585,1,09:27,0,0,CMO,RO,Wesley
+586,1,09:32,0,0,CMO,2_Pts_T,Brown
+587,1,09:38,0,0,CMO,BR,Wesley
+588,1,09:41,0,0,BRA,ER,Pilar
+589,1,10:00,0,0,CMO,substituicao_entra,Pastor
+590,1,10:00,0,0,CMO,substituicao_entra,Wesley
+591,1,10:00,0,0,CMO,substituicao_entra,Cauê
+592,1,10:00,0,0,CMO,substituicao_entra,Leandro
+593,1,10:00,0,0,CMO,substituicao_entra,Brown
+594,1,10:00,0,0,BRA,substituicao_entra,Lucas Mariano
+595,1,10:00,0,0,BRA,substituicao_entra,Giovannoni
+596,1,10:00,0,0,BRA,substituicao_entra,Fulvio
+597,1,10:00,0,0,BRA,substituicao_entra,Deryk
+598,1,10:00,0,0,BRA,substituicao_entra,Pilar

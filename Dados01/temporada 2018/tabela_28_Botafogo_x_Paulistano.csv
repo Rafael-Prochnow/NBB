@@ -1,0 +1,611 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,77,74,,fim_partida,
+1,4,00:00,77,74,,fim_quarto,
+2,4,00:03,77,74,BOT,RD,Guga
+3,4,00:03,77,74,CAP,3_Pts_T,Roquemore
+4,4,00:09,77,74,BOT,substituicao_entra,Fabrício
+5,4,00:09,77,74,BOT,substituicao_sai,Ansaloni
+6,4,00:09,77,74,BOT,LL_Pts_C,Guga
+7,4,00:09,76,74,BOT,LL_Pts_C,Guga
+8,4,00:09,75,74,BOT,FR,Guga
+9,4,00:09,75,74,CAP,FC,Victão
+10,4,00:11,75,74,CAP,substituicao_entra,Victão
+11,4,00:11,75,74,CAP,substituicao_sai,Guilherme
+12,4,00:11,75,74,BOT,tempo_tecnico,Botafogo
+13,4,00:11,75,74,CAP,LL_Pts_C,De Paula
+14,4,00:11,75,73,CAP,LL_Pts_C,De Paula
+15,4,00:11,75,72,BOT,substituicao_entra,Maique
+16,4,00:11,75,72,BOT,substituicao_sai,Fabrício
+17,4,00:11,75,72,CAP,FR,De Paula
+18,4,00:11,75,72,BOT,FC,Fabrício
+19,4,00:15,75,72,BOT,LL_Pts_C,Fabrício
+20,4,00:15,74,72,BOT,LL_Pts_T,Fabrício
+21,4,00:15,74,72,BOT,FR,Fabrício
+22,4,00:15,74,72,CAP,FC,Léo Meindl
+23,4,00:17,74,72,CAP,AS,Yago
+24,4,00:17,74,72,CAP,3_Pts_C,Roquemore
+25,4,00:25,74,69,CAP,RD,Paulistano
+26,4,00:25,74,69,BOT,2_Pts_T,Mogi
+27,4,00:26,74,69,BOT,RD,Arthur
+28,4,00:29,74,69,CAP,2_Pts_T,De Paula
+29,4,00:38,74,69,CAP,RO,Paulistano
+30,4,00:38,74,69,BOT,TO,Ansaloni
+31,4,00:38,74,69,CAP,2_Pts_T,Guilherme
+32,4,00:43,74,69,CAP,RD,De Paula
+33,4,00:44,74,69,BOT,LL_Pts_T,Ansaloni
+34,4,00:44,74,69,BOT,LL_Pts_C,Ansaloni
+35,4,00:44,73,69,CAP,substituicao_entra,Guilherme
+36,4,00:44,73,69,CAP,substituicao_sai,Du Sommer
+37,4,00:44,73,69,BOT,substituicao_entra,Fabrício
+38,4,00:44,73,69,BOT,substituicao_sai,Maique
+39,4,00:44,73,69,BOT,FR,Ansaloni
+40,4,00:44,73,69,CAP,FC,Du Sommer
+41,4,00:49,73,69,CAP,AS,Yago
+42,4,00:49,73,69,CAP,3_Pts_C,Roquemore
+43,4,00:54,73,66,BOT,substituicao_entra,Guga
+44,4,00:54,73,66,BOT,substituicao_sai,Jamaal
+45,4,00:54,73,66,CAP,FR,Yago
+46,4,00:54,73,66,BOT,ER,Jamaal
+47,4,00:54,73,66,BOT,FC_O,Jamaal
+48,4,01:00,73,66,BOT,FR,Jamaal
+49,4,01:00,73,66,CAP,FC,Du Sommer
+50,4,01:06,73,66,BOT,RD,Mogi
+51,4,01:08,73,66,CAP,LL_Pts_T,Roquemore
+52,4,01:08,73,66,CAP,LL_Pts_C,Roquemore
+53,4,01:08,73,65,CAP,FR,Roquemore
+54,4,01:08,73,65,BOT,FC,Arthur
+55,4,01:24,73,65,BOT,LL_Pts_C,Maique
+56,4,01:24,72,65,BOT,AS,Arthur
+57,4,01:24,72,65,BOT,LL_Pts_C,Maique
+58,4,01:24,71,65,CAP,substituicao_entra,Yago
+59,4,01:24,71,65,CAP,substituicao_sai,Renan
+60,4,01:24,71,65,BOT,FR,Maique
+61,4,01:24,71,65,CAP,FC,Du Sommer
+62,4,01:34,71,65,BOT,RO,Maique
+63,4,01:37,71,65,BOT,2_Pts_T,Jamaal
+64,4,02:00,71,65,CAP,AS,Léo Meindl
+65,4,02:00,71,65,CAP,3_Pts_C,De Paula
+66,4,02:22,71,62,CAP,substituicao_entra,Renan
+67,4,02:22,71,62,CAP,substituicao_sai,Antonio
+68,4,02:22,71,62,CAP,tempo_tecnico,Paulistano
+69,4,02:22,71,62,BOT,AS,Jamaal
+70,4,02:22,71,62,BOT,3_Pts_C,Ansaloni
+71,4,02:30,68,62,BOT,RD,Arthur
+72,4,02:32,68,62,CAP,2_Pts_T,Léo Meindl
+73,4,02:54,68,62,BOT,AS,Jamaal
+74,4,02:54,68,62,BOT,2_Pts_C,Mogi
+75,4,03:01,66,62,BOT,RO,Jamaal
+76,4,03:04,66,62,BOT,2_Pts_T,Maique
+77,4,03:19,66,62,BOT,RD,Ansaloni
+78,4,03:21,66,62,CAP,LL_Pts_T,Antonio
+79,4,03:21,66,62,BOT,substituicao_entra,Arthur
+80,4,03:21,66,62,BOT,substituicao_sai,Guga
+81,4,03:21,66,62,CAP,FR,Antonio
+82,4,03:21,66,62,BOT,FC,Guga
+83,4,03:21,66,62,CAP,2_Pts_C,Antonio
+84,4,03:37,66,60,BOT,AS,Jamaal
+85,4,03:37,66,60,BOT,3_Pts_C,Ansaloni
+86,4,03:59,63,60,CAP,LL_Pts_C,Roquemore
+87,4,03:59,63,59,CAP,LL_Pts_T,Roquemore
+88,4,03:59,63,59,CAP,FR,Roquemore
+89,4,03:59,63,59,BOT,FC,Jamaal
+90,4,04:03,63,59,BOT,substituicao_entra,Mogi
+91,4,04:03,63,59,BOT,substituicao_sai,Arthur
+92,4,04:03,63,59,BOT,substituicao_entra,Ansaloni
+93,4,04:03,63,59,BOT,substituicao_sai,Murilo
+94,4,04:03,63,59,CAP,FR,Léo Meindl
+95,4,04:03,63,59,BOT,FC,Murilo
+96,4,04:15,63,59,CAP,FR,Léo Meindl
+97,4,04:15,63,59,BOT,FC,Guga
+98,4,04:16,63,59,CAP,RD,Léo Meindl
+99,4,04:19,63,59,BOT,3_Pts_T,Murilo
+100,4,04:45,63,59,CAP,EN,Antonio
+101,4,04:50,63,57,CAP,BR,Antonio
+102,4,04:50,63,57,BOT,ER,Maique
+103,4,05:08,63,57,BOT,RD,Arthur
+104,4,05:11,63,57,CAP,2_Pts_T,Du Sommer
+105,4,05:23,63,57,BOT,AS,Jamaal
+106,4,05:23,63,57,BOT,2_Pts_C,Maique
+107,4,05:41,61,57,BOT,RD,Maique
+108,4,05:43,61,57,CAP,LL_Pts_T,Du Sommer
+109,4,05:43,61,57,CAP,AS,Antonio
+110,4,05:43,61,57,CAP,LL_Pts_C,Du Sommer
+111,4,05:43,61,56,CAP,substituicao_entra,Antonio
+112,4,05:43,61,56,CAP,substituicao_sai,Guilherme
+113,4,05:43,61,56,CAP,FR,Du Sommer
+114,4,05:43,61,56,BOT,FC,Maique
+115,4,06:06,61,56,BOT,ER,Arthur
+116,4,06:28,61,56,CAP,AS,Léo Meindl
+117,4,06:28,61,56,CAP,3_Pts_C,De Paula
+118,4,06:40,61,53,BOT,AS,Jamaal
+119,4,06:40,61,53,BOT,3_Pts_C,Arthur
+120,4,06:59,58,53,CAP,LL_Pts_C,Du Sommer
+121,4,06:59,58,52,CAP,AS,Léo Meindl
+122,4,06:59,58,52,CAP,LL_Pts_C,Du Sommer
+123,4,06:59,58,51,BOT,substituicao_entra,Murilo
+124,4,06:59,58,51,BOT,substituicao_sai,Ansaloni
+125,4,06:59,58,51,CAP,FR,Du Sommer
+126,4,06:59,58,51,BOT,FC,Ansaloni
+127,4,07:27,58,51,BOT,AS,Arthur
+128,4,07:27,58,51,BOT,2_Pts_C,Jamaal
+129,4,07:29,56,51,BOT,RD,Arthur
+130,4,07:33,56,51,CAP,2_Pts_T,Du Sommer
+131,4,07:51,56,51,BOT,AS,Jamaal
+132,4,07:51,56,51,BOT,EN,Maique
+133,4,07:52,54,51,BOT,RD,Arthur
+134,4,07:56,54,51,CAP,3_Pts_T,Léo Meindl
+135,4,08:15,54,51,CAP,substituicao_entra,De Paula
+136,4,08:15,54,51,CAP,substituicao_sai,Yago
+137,4,08:17,54,51,CAP,tempo_tecnico,Paulistano
+138,4,08:17,54,51,BOT,AS,Maique
+139,4,08:17,54,51,BOT,2_Pts_C,Guga
+140,4,08:27,52,51,BOT,RD,Guga
+141,4,08:30,52,51,CAP,2_Pts_T,Yago
+142,4,08:42,52,51,BOT,2_Pts_C,Guga
+143,4,08:54,50,51,CAP,substituicao_entra,Guilherme
+144,4,08:54,50,51,CAP,substituicao_sai,Victão
+145,4,08:54,50,51,BOT,FR,Ansaloni
+146,4,08:54,50,51,CAP,FC,Victão
+147,4,08:54,50,51,BOT,RO,Ansaloni
+148,4,08:54,50,51,BOT,3_Pts_T,Jamaal
+149,4,09:02,50,51,BOT,RD,Arthur
+150,4,09:05,50,51,CAP,3_Pts_T,Yago
+151,4,09:25,50,51,BOT,LL_Pts_C,Jamaal
+152,4,09:25,49,51,CAP,ER,Léo Meindl
+153,4,09:25,49,51,CAP,FC_T,Léo Meindl
+154,4,09:26,49,51,CAP,RD,Léo Meindl
+155,4,09:30,49,51,BOT,2_Pts_T,Maique
+156,4,09:52,49,51,CAP,ER,Léo Meindl
+157,4,10:00,49,51,,inicio_quarto,
+158,3,00:00,49,51,,fim_quarto,
+159,3,00:01,49,51,CAP,2_Pts_T,Yago
+160,3,00:03,49,51,BOT,AS,Jamaal
+161,3,00:03,49,51,BOT,3_Pts_C,Arthur
+162,3,00:26,46,51,CAP,AS,Yago
+163,3,00:26,46,51,CAP,3_Pts_C,Léo Meindl
+164,3,00:36,46,48,BOT,2_Pts_C,Maique
+165,3,00:37,44,48,BOT,RO,Maique
+166,3,00:40,44,48,BOT,3_Pts_T,Murilo
+167,3,00:59,44,48,CAP,2_Pts_C,Du Sommer
+168,3,01:00,44,46,CAP,RO,Du Sommer
+169,3,01:07,44,46,BOT,TO,Arthur
+170,3,01:07,44,46,CAP,2_Pts_T,Roquemore
+171,3,01:12,44,46,CAP,BR,Roquemore
+172,3,01:12,44,46,BOT,ER,Maique
+173,3,01:21,44,46,CAP,3_Pts_C,Yago
+174,3,01:33,44,43,CAP,substituicao_entra,Léo Meindl
+175,3,01:33,44,43,CAP,substituicao_sai,Eddy
+176,3,01:41,44,43,CAP,RO,Léo Meindl
+177,3,01:43,44,43,CAP,2_Pts_T,Du Sommer
+178,3,02:06,44,43,BOT,LL_Pts_C,Jamaal
+179,3,02:06,43,43,CAP,substituicao_entra,Victão
+180,3,02:06,43,43,CAP,substituicao_sai,Guilherme
+181,3,02:06,43,43,CAP,substituicao_entra,Eddy
+182,3,02:06,43,43,CAP,substituicao_sai,Léo Meindl
+183,3,02:06,43,43,CAP,substituicao_entra,Du Sommer
+184,3,02:06,43,43,CAP,substituicao_sai,Antonio
+185,3,02:06,43,43,CAP,tempo_tecnico,Paulistano
+186,3,02:06,43,43,CAP,substituicao_entra,Léo Meindl
+187,3,02:06,43,43,CAP,substituicao_sai,De Paula
+188,3,02:06,43,43,BOT,FR,Jamaal
+189,3,02:06,43,43,CAP,FC,Antonio
+190,3,02:06,43,43,BOT,3_Pts_C,Jamaal
+191,3,02:10,40,43,BOT,BR,Murilo
+192,3,02:10,40,43,CAP,ER,De Paula
+193,3,02:13,40,43,CAP,RD,De Paula
+194,3,02:16,40,43,BOT,2_Pts_T,Guga
+195,3,02:29,40,43,BOT,FR,Arthur
+196,3,02:29,40,43,CAP,FC,Antonio
+197,3,02:29,40,43,BOT,AS,Jamaal
+198,3,02:29,40,43,BOT,3_Pts_C,Guga
+199,3,02:41,37,43,BOT,RD,Jamaal
+200,3,02:45,37,43,CAP,3_Pts_T,De Paula
+201,3,02:56,37,43,BOT,substituicao_entra,Jamaal
+202,3,02:56,37,43,BOT,substituicao_sai,Mogi
+203,3,02:56,37,43,BOT,ER,Murilo
+204,3,03:04,37,43,BOT,RD,Murilo
+205,3,03:05,37,43,CAP,LL_Pts_T,Antonio
+206,3,03:05,37,43,CAP,LL_Pts_C,Antonio
+207,3,03:05,37,42,CAP,FR,Antonio
+208,3,03:05,37,42,BOT,FC,Murilo
+209,3,03:05,37,42,CAP,RD,Guilherme
+210,3,03:05,37,42,BOT,2_Pts_T,Arthur
+211,3,03:17,37,42,CAP,LL_Pts_C,Yago
+212,3,03:17,37,41,CAP,LL_Pts_C,Yago
+213,3,03:17,37,40,CAP,FR,Yago
+214,3,03:17,37,40,BOT,FC,Murilo
+215,3,03:33,37,40,CAP,RD,Yago
+216,3,03:36,37,40,BOT,2_Pts_T,Arthur
+217,3,03:46,37,40,CAP,substituicao_entra,Roquemore
+218,3,03:46,37,40,CAP,substituicao_sai,Léo Meindl
+219,3,03:46,37,40,BOT,tempo_tecnico,Botafogo
+220,3,03:46,37,40,CAP,AS,De Paula
+221,3,03:46,37,40,CAP,2_Pts_C,Léo Meindl
+222,3,03:49,37,38,CAP,RD,De Paula
+223,3,03:52,37,38,BOT,3_Pts_T,Murilo
+224,3,04:12,37,38,CAP,LL_Pts_C,Antonio
+225,3,04:12,37,37,CAP,LL_Pts_C,Antonio
+226,3,04:12,37,36,CAP,substituicao_entra,De Paula
+227,3,04:12,37,36,CAP,substituicao_sai,Danilo
+228,3,04:12,37,36,CAP,FR,Antonio
+229,3,04:12,37,36,BOT,FC,Arthur
+230,3,04:12,37,36,CAP,RO,Antonio
+231,3,04:12,37,36,CAP,3_Pts_T,Danilo
+232,3,04:13,37,36,CAP,RD,Yago
+233,3,04:17,37,36,BOT,2_Pts_T,Guga
+234,3,04:32,37,36,CAP,substituicao_entra,Danilo
+235,3,04:32,37,36,CAP,substituicao_sai,De Paula
+236,3,04:34,37,36,CAP,2_Pts_C,Guilherme
+237,3,04:34,37,34,CAP,RO,Guilherme
+238,3,04:34,37,34,CAP,2_Pts_T,De Paula
+239,3,04:52,37,34,CAP,FR,Léo Meindl
+240,3,04:52,37,34,BOT,FC,Murilo
+241,3,05:07,37,34,CAP,substituicao_entra,Antonio
+242,3,05:07,37,34,CAP,substituicao_sai,Renan
+243,3,05:07,37,34,BOT,substituicao_entra,Arthur
+244,3,05:07,37,34,BOT,substituicao_sai,Jamaal
+245,3,05:07,37,34,CAP,FR,De Paula
+246,3,05:07,37,34,BOT,ER,Jamaal
+247,3,05:07,37,34,BOT,FC_O,Jamaal
+248,3,05:08,37,34,BOT,RD,Jamaal
+249,3,05:11,37,34,CAP,2_Pts_T,Léo Meindl
+250,3,05:12,37,34,CAP,RO,Léo Meindl
+251,3,05:15,37,34,CAP,3_Pts_T,De Paula
+252,3,05:20,37,34,CAP,RD,Yago
+253,3,05:25,37,34,BOT,3_Pts_T,Murilo
+254,3,05:44,37,34,CAP,substituicao_entra,De Paula
+255,3,05:44,37,34,CAP,substituicao_sai,Roquemore
+256,3,05:44,37,34,BOT,FR,Mogi
+257,3,05:44,37,34,CAP,ER,Roquemore
+258,3,05:44,37,34,CAP,FC_O,Roquemore
+259,3,05:56,37,34,BOT,LL_Pts_C,Jamaal
+260,3,05:56,36,34,BOT,LL_Pts_T,Jamaal
+261,3,05:56,36,34,CAP,substituicao_entra,Guilherme
+262,3,05:56,36,34,CAP,substituicao_sai,Du Sommer
+263,3,05:56,36,34,BOT,substituicao_entra,Guga
+264,3,05:56,36,34,BOT,substituicao_sai,Arthur
+265,3,05:56,36,34,BOT,FR,Jamaal
+266,3,05:56,36,34,CAP,FC,Léo Meindl
+267,3,05:56,36,34,BOT,RO,Jamaal
+268,3,05:56,36,34,BOT,2_Pts_T,Jamaal
+269,3,05:59,36,34,BOT,RD,Maique
+270,3,06:04,36,34,CAP,3_Pts_T,Renan
+271,3,06:29,36,34,BOT,AS,Jamaal
+272,3,06:29,36,34,BOT,2_Pts_C,Arthur
+273,3,06:30,34,34,BOT,RD,Murilo
+274,3,06:31,34,34,CAP,2_Pts_T,Renan
+275,3,06:31,34,34,CAP,RO,Renan
+276,3,06:35,34,34,CAP,2_Pts_T,Léo Meindl
+277,3,06:38,34,34,CAP,RD,Du Sommer
+278,3,06:40,34,34,BOT,2_Pts_T,Arthur
+279,3,07:01,34,34,CAP,AS,Léo Meindl
+280,3,07:01,34,34,CAP,2_Pts_C,Du Sommer
+281,3,07:11,34,32,CAP,substituicao_entra,Yago
+282,3,07:11,34,32,CAP,substituicao_sai,Victão
+283,3,07:11,34,32,CAP,substituicao_entra,Renan
+284,3,07:11,34,32,CAP,substituicao_sai,De Paula
+285,3,07:11,34,32,CAP,FR,Léo Meindl
+286,3,07:11,34,32,BOT,FC,Jamaal
+287,3,07:20,34,32,BOT,AS,Jamaal
+288,3,07:20,34,32,BOT,2_Pts_C,Arthur
+289,3,07:25,32,32,BOT,RD,Murilo
+290,3,07:28,32,32,CAP,2_Pts_T,Du Sommer
+291,3,07:33,32,32,CAP,RO,Paulistano
+292,3,07:35,32,32,CAP,3_Pts_T,Roquemore
+293,3,07:39,32,32,CAP,RD,Du Sommer
+294,3,07:42,32,32,BOT,2_Pts_T,Arthur
+295,3,08:01,32,32,BOT,BR,Maique
+296,3,08:01,32,32,CAP,ER,Du Sommer
+297,3,08:01,32,32,CAP,RO,Du Sommer
+298,3,08:02,32,32,CAP,2_Pts_T,Du Sommer
+299,3,08:09,32,32,CAP,RD,Léo Meindl
+300,3,08:13,32,32,BOT,2_Pts_T,Maique
+301,3,08:22,32,32,BOT,RD,Maique
+302,3,08:25,32,32,CAP,3_Pts_T,De Paula
+303,3,08:28,32,32,CAP,RD,Léo Meindl
+304,3,08:31,32,32,BOT,2_Pts_T,Murilo
+305,3,09:02,32,32,BOT,RD,Botafogo
+306,3,09:07,32,32,CAP,2_Pts_T,Du Sommer
+307,3,09:13,32,32,BOT,substituicao_entra,Maique
+308,3,09:13,32,32,BOT,substituicao_sai,Ansaloni
+309,3,09:13,32,32,CAP,FR,Roquemore
+310,3,09:13,32,32,BOT,FC,Ansaloni
+311,3,09:13,32,32,BOT,substituicao_entra,Ansaloni
+312,3,09:13,32,32,BOT,substituicao_sai,Maique
+313,3,09:13,32,32,BOT,substituicao_entra,Maique
+314,3,09:13,32,32,BOT,substituicao_sai,Ansaloni
+315,3,09:13,32,32,BOT,ER,
+316,3,09:13,32,32,BOT,2_Pts_T,Mogi
+317,3,09:39,32,32,CAP,2_Pts_C,Léo Meindl
+318,3,10:00,32,30,,inicio_quarto,
+319,2,00:00,32,30,,fim_quarto,
+320,2,00:08,32,30,BOT,RD,Jamaal
+321,2,00:11,32,30,CAP,3_Pts_T,Léo Meindl
+322,2,00:20,32,30,CAP,RD,Léo Meindl
+323,2,00:22,32,30,BOT,2_Pts_T,Fabrício
+324,2,00:25,32,30,BOT,substituicao_entra,Fabrício
+325,2,00:25,32,30,BOT,substituicao_sai,Erike
+326,2,00:36,32,30,CAP,LL_Pts_C,Roquemore
+327,2,00:36,32,29,CAP,LL_Pts_C,Roquemore
+328,2,00:36,32,28,CAP,LL_Pts_C,Roquemore
+329,2,00:36,32,27,CAP,FR,Roquemore
+330,2,00:36,32,27,BOT,FC,Erike
+331,2,00:40,32,27,CAP,BR,Roquemore
+332,2,00:40,32,27,BOT,ER,Guga
+333,2,00:47,32,27,CAP,AS,Léo Meindl
+334,2,00:47,32,27,CAP,EN,Dikembe
+335,2,00:47,32,25,CAP,RD,Léo Meindl
+336,2,00:47,32,25,BOT,2_Pts_T,Jamaal
+337,2,00:47,32,25,BOT,substituicao_entra,Jamaal
+338,2,00:47,32,25,BOT,substituicao_sai,Fabrício
+339,2,00:50,32,25,BOT,RD,Guga
+340,2,00:56,32,25,BOT,TO,Murilo
+341,2,00:56,32,25,CAP,2_Pts_T,Dikembe
+342,2,01:04,32,25,BOT,substituicao_entra,Murilo
+343,2,01:04,32,25,BOT,substituicao_sai,Maique
+344,2,01:04,32,25,CAP,FR,Victão
+345,2,01:04,32,25,BOT,ER,Maique
+346,2,01:04,32,25,BOT,FC_O,Maique
+347,2,01:04,32,25,BOT,RO,Erike
+348,2,01:04,32,25,BOT,3_Pts_T,Fabrício
+349,2,01:18,32,25,BOT,RD,Arthur
+350,2,01:22,32,25,CAP,3_Pts_T,Roquemore
+351,2,01:30,32,25,CAP,BR,Dikembe
+352,2,01:30,32,25,BOT,ER,Arthur
+353,2,01:51,32,25,CAP,2_Pts_C,Léo Meindl
+354,2,02:05,32,23,BOT,substituicao_entra,Erike
+355,2,02:05,32,23,BOT,substituicao_sai,Mogi
+356,2,02:05,32,23,CAP,FR,Léo Meindl
+357,2,02:05,32,23,BOT,FC,Mogi
+358,2,02:14,32,23,CAP,RD,Dikembe
+359,2,02:17,32,23,BOT,2_Pts_T,Maique
+360,2,02:31,32,23,BOT,FR,Mogi
+361,2,02:31,32,23,CAP,ER,Dikembe
+362,2,02:31,32,23,CAP,FC_O,Dikembe
+363,2,02:47,32,23,CAP,RD,Léo Meindl
+364,2,02:51,32,23,BOT,2_Pts_T,Maique
+365,2,03:01,32,23,CAP,LL_Pts_C,Léo Meindl
+366,2,03:01,32,22,CAP,LL_Pts_C,Léo Meindl
+367,2,03:01,32,21,BOT,substituicao_entra,Guga
+368,2,03:01,32,21,BOT,substituicao_sai,Murilo
+369,2,03:01,32,21,BOT,substituicao_entra,Maique
+370,2,03:01,32,21,BOT,substituicao_sai,Ansaloni
+371,2,03:01,32,21,BOT,substituicao_entra,Fabrício
+372,2,03:01,32,21,BOT,substituicao_sai,Jamaal
+373,2,03:01,32,21,CAP,FR,Léo Meindl
+374,2,03:01,32,21,BOT,FC,Ansaloni
+375,2,03:19,32,21,BOT,2_Pts_C,Ansaloni
+376,2,03:19,30,21,BOT,RO,Ansaloni
+377,2,03:25,30,21,BOT,2_Pts_T,Murilo
+378,2,03:50,30,21,BOT,RD,Murilo
+379,2,03:53,30,21,CAP,3_Pts_T,Eddy
+380,2,03:59,30,21,CAP,RD,Roquemore
+381,2,04:02,30,21,BOT,3_Pts_T,Ansaloni
+382,2,04:35,30,21,CAP,2_Pts_C,Léo Meindl
+383,2,04:43,30,19,CAP,RD,Léo Meindl
+384,2,04:46,30,19,BOT,LL_Pts_T,Ansaloni
+385,2,04:46,30,19,BOT,AS,Murilo
+386,2,04:46,30,19,BOT,LL_Pts_C,Ansaloni
+387,2,04:46,29,19,CAP,substituicao_entra,Dikembe
+388,2,04:46,29,19,CAP,substituicao_sai,De Paula
+389,2,04:46,29,19,CAP,substituicao_entra,Eddy
+390,2,04:46,29,19,CAP,substituicao_sai,Guilherme
+391,2,04:46,29,19,CAP,tempo_tecnico,Paulistano
+392,2,04:46,29,19,BOT,FR,Ansaloni
+393,2,04:46,29,19,CAP,FC,Roquemore
+394,2,04:51,29,19,BOT,RD,Mogi
+395,2,04:54,29,19,CAP,2_Pts_T,Roquemore
+396,2,05:13,29,19,BOT,AS,Mogi
+397,2,05:13,29,19,BOT,2_Pts_C,Murilo
+398,2,05:32,27,19,BOT,RD,Murilo
+399,2,05:35,27,19,CAP,3_Pts_T,Léo Meindl
+400,2,05:50,27,19,CAP,RD,Paulistano
+401,2,05:50,27,19,BOT,3_Pts_T,Murilo
+402,2,06:06,27,19,CAP,ER,Roquemore
+403,2,06:08,27,19,CAP,RD,Roquemore
+404,2,06:11,27,19,BOT,2_Pts_T,Ansaloni
+405,2,06:27,27,19,CAP,substituicao_entra,Léo Meindl
+406,2,06:27,27,19,CAP,substituicao_sai,Yago
+407,2,06:27,27,19,BOT,substituicao_entra,Ansaloni
+408,2,06:27,27,19,BOT,substituicao_sai,Maique
+409,2,06:27,27,19,BOT,FR,Jamaal
+410,2,06:27,27,19,CAP,ER,Yago
+411,2,06:27,27,19,CAP,FC_O,Yago
+412,2,06:35,27,19,BOT,AS,Murilo
+413,2,06:35,27,19,BOT,3_Pts_C,Jamaal
+414,2,06:51,24,19,CAP,2_Pts_C,Guilherme
+415,2,06:51,24,17,CAP,RO,Guilherme
+416,2,06:56,24,17,CAP,3_Pts_T,Victão
+417,2,07:22,24,17,BOT,LL_Pts_C,Jamaal
+418,2,07:22,23,17,BOT,LL_Pts_C,Jamaal
+419,2,07:22,22,17,CAP,substituicao_entra,Victão
+420,2,07:22,22,17,CAP,substituicao_sai,Antonio
+421,2,07:22,22,17,BOT,FR,Jamaal
+422,2,07:22,22,17,CAP,FC,Yago
+423,2,07:27,22,17,BOT,RD,Maique
+424,2,07:30,22,17,CAP,3_Pts_T,De Paula
+425,2,07:35,22,17,CAP,RD,Guilherme
+426,2,07:39,22,17,BOT,2_Pts_T,Murilo
+427,2,07:56,22,17,CAP,AS,De Paula
+428,2,07:56,22,17,CAP,2_Pts_C,Guilherme
+429,2,08:17,22,15,BOT,2_Pts_C,Arthur
+430,2,08:18,20,15,BOT,RO,Arthur
+431,2,08:22,20,15,BOT,2_Pts_T,Mogi
+432,2,08:29,20,15,BOT,BR,Arthur
+433,2,08:29,20,15,CAP,ER,Yago
+434,2,08:36,20,15,CAP,RD,Guilherme
+435,2,08:39,20,15,BOT,3_Pts_T,Arthur
+436,2,09:02,20,15,CAP,AS,Yago
+437,2,09:02,20,15,CAP,3_Pts_C,De Paula
+438,2,09:07,20,12,CAP,RD,Yago
+439,2,09:10,20,12,BOT,2_Pts_T,Maique
+440,2,09:22,20,12,BOT,FR,Murilo
+441,2,09:22,20,12,CAP,FC,Antonio
+442,2,09:34,20,12,BOT,RD,Jamaal
+443,2,09:37,20,12,CAP,3_Pts_T,Guilherme
+444,2,09:44,20,12,CAP,RD,Roquemore
+445,2,09:47,20,12,BOT,2_Pts_T,Arthur
+446,2,10:00,20,12,,inicio_quarto,
+447,1,00:00,20,12,,fim_quarto,
+448,1,00:03,20,12,CAP,2_Pts_T,Eddy
+449,1,00:03,20,12,CAP,RO,Eddy
+450,1,00:06,20,12,CAP,2_Pts_T,Léo Meindl
+451,1,00:17,20,12,CAP,substituicao_entra,Léo Meindl
+452,1,00:17,20,12,CAP,substituicao_sai,Danilo
+453,1,00:17,20,12,BOT,substituicao_entra,Guga
+454,1,00:17,20,12,BOT,substituicao_sai,Arthur
+455,1,00:17,20,12,BOT,substituicao_entra,Erike
+456,1,00:17,20,12,BOT,substituicao_sai,Jamaal
+457,1,00:19,20,12,CAP,BR,Eddy
+458,1,00:19,20,12,BOT,ER,Jamaal
+459,1,00:23,20,12,CAP,LL_Pts_C,Dikembe
+460,1,00:23,20,11,CAP,LL_Pts_T,Dikembe
+461,1,00:23,20,11,CAP,substituicao_entra,Danilo
+462,1,00:23,20,11,CAP,substituicao_sai,Léo Meindl
+463,1,00:23,20,11,BOT,substituicao_entra,Jamaal
+464,1,00:23,20,11,BOT,substituicao_sai,Guga
+465,1,00:23,20,11,BOT,substituicao_entra,Arthur
+466,1,00:23,20,11,BOT,substituicao_sai,Jamaal
+467,1,00:23,20,11,CAP,FR,Dikembe
+468,1,00:23,20,11,BOT,FC,Fabrício
+469,1,00:23,20,11,CAP,RO,Dikembe
+470,1,00:23,20,11,CAP,3_Pts_T,Eddy
+471,1,00:28,20,11,CAP,RD,De Paula
+472,1,00:30,20,11,BOT,2_Pts_T,Jamaal
+473,1,00:38,20,11,BOT,RO,Mogi
+474,1,00:41,20,11,BOT,3_Pts_T,Jamaal
+475,1,01:05,20,11,BOT,substituicao_entra,Jamaal
+476,1,01:05,20,11,BOT,substituicao_sai,Arthur
+477,1,01:05,20,11,CAP,ER,Antonio
+478,1,01:05,20,11,CAP,RO,Antonio
+479,1,01:07,20,11,CAP,LL_Pts_T,Dikembe
+480,1,01:07,20,11,CAP,LL_Pts_C,Dikembe
+481,1,01:07,20,10,CAP,FR,Dikembe
+482,1,01:07,20,10,BOT,FC,Arthur
+483,1,01:15,20,10,BOT,LL_Pts_C,Ansaloni
+484,1,01:15,19,10,BOT,LL_Pts_C,Ansaloni
+485,1,01:15,18,10,CAP,substituicao_entra,Dikembe
+486,1,01:15,18,10,CAP,substituicao_sai,Renan
+487,1,01:15,18,10,BOT,FR,Ansaloni
+488,1,01:15,18,10,CAP,FC,Renan
+489,1,01:19,18,10,BOT,BR,Arthur
+490,1,01:19,18,10,CAP,ER,De Paula
+491,1,01:19,18,10,CAP,RD,De Paula
+492,1,01:22,18,10,BOT,2_Pts_T,Ansaloni
+493,1,01:23,18,10,BOT,RO,Ansaloni
+494,1,01:26,18,10,BOT,2_Pts_T,Ansaloni
+495,1,01:32,18,10,BOT,RO,Botafogo
+496,1,01:32,18,10,BOT,2_Pts_T,Fabrício
+497,1,01:43,18,10,CAP,substituicao_entra,Renan
+498,1,01:43,18,10,CAP,substituicao_sai,Guilherme
+499,1,01:43,18,10,BOT,substituicao_entra,Guga
+500,1,01:43,18,10,BOT,substituicao_sai,Jamaal
+501,1,01:43,18,10,BOT,FR,Fabrício
+502,1,01:43,18,10,CAP,ER,Eddy
+503,1,01:43,18,10,CAP,FC_O,Eddy
+504,1,01:55,18,10,BOT,AS,Mogi
+505,1,01:55,18,10,BOT,2_Pts_C,Ansaloni
+506,1,02:05,16,10,CAP,AS,Léo Meindl
+507,1,02:05,16,10,CAP,3_Pts_C,De Paula
+508,1,02:09,16,7,CAP,RD,Léo Meindl
+509,1,02:13,16,7,BOT,2_Pts_T,Ansaloni
+510,1,02:34,16,7,BOT,RD,Ansaloni
+511,1,02:37,16,7,CAP,3_Pts_T,Guilherme
+512,1,02:58,16,7,CAP,FR,De Paula
+513,1,02:58,16,7,BOT,ER,Ansaloni
+514,1,02:58,16,7,BOT,FC_O,Ansaloni
+515,1,03:10,16,7,CAP,substituicao_entra,Léo Meindl
+516,1,03:10,16,7,CAP,substituicao_sai,Roquemore
+517,1,03:10,16,7,BOT,substituicao_entra,Fabrício
+518,1,03:10,16,7,BOT,substituicao_sai,Murilo
+519,1,03:20,16,7,CAP,2_Pts_C,Antonio
+520,1,03:21,16,5,CAP,RO,Antonio
+521,1,03:24,16,5,CAP,3_Pts_T,Eddy
+522,1,03:43,16,5,BOT,AS,Jamaal
+523,1,03:43,16,5,BOT,2_Pts_C,Mogi
+524,1,03:53,14,5,BOT,tempo_tecnico,Botafogo
+525,1,03:58,14,5,CAP,AS,De Paula
+526,1,03:58,14,5,CAP,3_Pts_C,Roquemore
+527,1,04:04,14,2,CAP,RD,De Paula
+528,1,04:07,14,2,BOT,3_Pts_T,Arthur
+529,1,04:33,14,2,CAP,LL_Pts_C,Roquemore
+530,1,04:33,14,1,CAP,AS,De Paula
+531,1,04:33,14,1,CAP,LL_Pts_C,Roquemore
+532,1,04:33,14,0,CAP,substituicao_entra,Eddy
+533,1,04:33,14,0,CAP,substituicao_sai,Yago
+534,1,04:33,14,0,BOT,substituicao_entra,Ansaloni
+535,1,04:33,14,0,BOT,substituicao_sai,Maique
+536,1,04:33,14,0,CAP,FR,Roquemore
+537,1,04:33,14,0,BOT,FC,Mogi
+538,1,04:53,14,0,BOT,AS,Maique
+539,1,04:53,14,0,BOT,2_Pts_C,Jamaal
+540,1,04:55,12,0,BOT,RD,Arthur
+541,1,04:59,12,0,CAP,3_Pts_T,Yago
+542,1,05:17,12,0,BOT,3_Pts_C,Jamaal
+543,1,05:20,9,0,BOT,RO,Maique
+544,1,05:25,9,0,BOT,2_Pts_T,Arthur
+545,1,05:44,9,0,BOT,RD,Mogi
+546,1,05:48,9,0,CAP,3_Pts_T,Guilherme
+547,1,05:52,9,0,CAP,RD,De Paula
+548,1,05:55,9,0,BOT,3_Pts_T,Mogi
+549,1,06:07,9,0,BOT,RD,Arthur
+550,1,06:11,9,0,CAP,3_Pts_T,Yago
+551,1,06:18,9,0,CAP,RO,Antonio
+552,1,06:23,9,0,CAP,3_Pts_T,Guilherme
+553,1,06:37,9,0,CAP,FR,Guilherme
+554,1,06:37,9,0,BOT,ER,Maique
+555,1,06:37,9,0,BOT,FC_O,Maique
+556,1,06:37,9,0,BOT,RD,Maique
+557,1,06:38,9,0,CAP,3_Pts_T,Antonio
+558,1,06:45,9,0,CAP,FR,Yago
+559,1,06:45,9,0,BOT,FC,Jamaal
+560,1,06:57,9,0,CAP,substituicao_entra,De Paula
+561,1,06:57,9,0,CAP,substituicao_sai,Renan
+562,1,06:57,9,0,CAP,substituicao_entra,Antonio
+563,1,06:57,9,0,CAP,substituicao_sai,Léo Meindl
+564,1,06:57,9,0,CAP,tempo_tecnico,Paulistano
+565,1,06:57,9,0,BOT,AS,Murilo
+566,1,06:57,9,0,BOT,EN,Maique
+567,1,06:58,7,0,BOT,RD,Mogi
+568,1,07:02,7,0,CAP,3_Pts_T,Renan
+569,1,07:26,7,0,BOT,AS,Mogi
+570,1,07:26,7,0,BOT,3_Pts_C,Arthur
+571,1,07:38,4,0,CAP,substituicao_entra,Guilherme
+572,1,07:38,4,0,CAP,substituicao_sai,Du Sommer
+573,1,07:38,4,0,BOT,FR,Maique
+574,1,07:38,4,0,CAP,ER,Du Sommer
+575,1,07:38,4,0,CAP,FC_O,Du Sommer
+576,1,07:39,4,0,CAP,RD,Renan
+577,1,07:45,4,0,BOT,2_Pts_T,Mogi
+578,1,07:47,4,0,BOT,RD,Jamaal
+579,1,07:50,4,0,CAP,2_Pts_T,Yago
+580,1,07:59,4,0,CAP,BR,Yago
+581,1,07:59,4,0,BOT,ER,Arthur
+582,1,07:59,4,0,BOT,RO,Arthur
+583,1,08:04,4,0,BOT,3_Pts_T,Mogi
+584,1,08:25,4,0,BOT,FR,Arthur
+585,1,08:25,4,0,CAP,FC,Léo Meindl
+586,1,08:30,4,0,CAP,ER,
+587,1,08:30,4,0,CAP,3_Pts_T,Roquemore
+588,1,08:57,4,0,BOT,AS,Arthur
+589,1,08:57,4,0,BOT,EN,Maique
+590,1,08:59,2,0,BOT,RD,Jamaal
+591,1,09:07,2,0,BOT,TO,Maique
+592,1,09:07,2,0,CAP,2_Pts_T,Léo Meindl
+593,1,09:15,2,0,BOT,AS,Arthur
+594,1,09:15,2,0,BOT,2_Pts_C,Murilo
+595,1,09:29,0,0,BOT,FR,Murilo
+596,1,09:29,0,0,CAP,FC,Du Sommer
+597,1,09:34,0,0,BOT,RD,Murilo
+598,1,09:38,0,0,CAP,2_Pts_T,Roquemore
+599,1,10:00,0,0,CAP,substituicao_entra,Renan
+600,1,10:00,0,0,CAP,substituicao_entra,Léo Meindl
+601,1,10:00,0,0,CAP,substituicao_entra,Du Sommer
+602,1,10:00,0,0,CAP,substituicao_entra,Yago
+603,1,10:00,0,0,CAP,substituicao_entra,Roquemore
+604,1,10:00,0,0,BOT,substituicao_entra,Arthur
+605,1,10:00,0,0,BOT,substituicao_entra,Maique
+606,1,10:00,0,0,BOT,substituicao_entra,Murilo
+607,1,10:00,0,0,BOT,substituicao_entra,Mogi
+608,1,10:00,0,0,BOT,substituicao_entra,Jamaal
+609,1,10:00,0,0,,inicio_partida,

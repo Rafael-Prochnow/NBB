@@ -1,0 +1,523 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,90,86, ,fim_partida,
+1,4,00:00,90,86,MAC,FR,Fred
+2,4,00:00,90,86,BAU,FC,Ayarza
+3,4,00:01,90,86,BAU,RD,Murilo
+4,4,00:01,90,86,MAC,2_Pts_T,Fred
+5,4,00:10,90,86,BAU,substituicao_entra,Andrezão
+6,4,00:10,90,86,BAU,substituicao_sai,Fischer
+7,4,00:10,90,86,BAU,LL_Pts_C,Fischer
+8,4,00:10,89,86,BAU,LL_Pts_C,Fischer
+9,4,00:10,88,86,MAC,substituicao_entra,João
+10,4,00:10,88,86,MAC,substituicao_sai,Will
+11,4,00:10,88,86,BAU,FR,Fischer
+12,4,00:10,88,86,MAC,FC,Espinoza
+13,4,00:12,88,86,MAC,substituicao_entra,Will
+14,4,00:12,88,86,MAC,substituicao_sai,João
+15,4,00:12,88,86,MAC,substituicao_entra,Espinoza
+16,4,00:12,88,86,MAC,substituicao_sai,Atilio
+17,4,00:12,88,86,BAU,substituicao_entra,Fischer
+18,4,00:12,88,86,BAU,substituicao_sai,Andrezão
+19,4,00:12,88,86,BAU,tempo_tecnico,Bauru
+20,4,00:12,88,86,MAC,2_Pts_C,Jamaal
+21,4,00:21,88,84,MAC,substituicao_entra,Atilio
+22,4,00:21,88,84,MAC,substituicao_sai,Espinoza
+23,4,00:21,88,84,BAU,substituicao_entra,Andrezão
+24,4,00:21,88,84,BAU,substituicao_sai,Fischer
+25,4,00:21,88,84,MAC,tempo_tecnico,Macaé
+26,4,00:21,88,84,BAU,LL_Pts_C,R Fischer
+27,4,00:21,87,84,BAU,LL_Pts_C,R Fischer
+28,4,00:21,86,84,BAU,FR,R Fischer
+29,4,00:21,86,84,MAC,FC,Fred
+30,4,00:22,86,84,MAC,2_Pts_C,Jamaal
+31,4,00:27,86,82,MAC,RO,João
+32,4,00:27,86,82,MAC,2_Pts_T,Jamaal
+33,4,00:47,86,82,MAC,RD,Macaé
+34,4,00:47,86,82,BAU,3_Pts_T,Fischer
+35,4,01:02,86,82,MAC,,
+36,4,01:02,86,82,MAC,BR,Espinoza
+37,4,01:02,86,82,BAU,ER,Murilo
+38,4,01:06,86,82,BAU,RO,Murilo
+39,4,01:06,86,82,BAU,2_Pts_T,Barrios
+40,4,01:23,86,82,BAU,RD,Murilo
+41,4,01:23,86,82,BAU,TO,Murilo
+42,4,01:23,86,82,MAC,2_Pts_T,João
+43,4,01:40,86,82,MAC,tempo_tecnico,Macaé
+44,4,01:40,86,82,BAU,3_Pts_C,Barrios
+45,4,01:40,83,82,BAU,AS,R Fischer
+46,4,01:56,83,82,BAU,BR,Fischer
+47,4,01:56,83,82,MAC,ER,Duda Machado
+48,4,02:12,83,82,BAU,LL_Pts_C,Barrios
+49,4,02:12,82,82,BAU,LL_Pts_C,Barrios
+50,4,02:12,81,82,BAU,FR,Barrios
+51,4,02:12,81,82,MAC,FC,João
+52,4,02:18,81,82,BAU,substituicao_entra,Larry
+53,4,02:18,81,82,BAU,substituicao_sai,Ayarza
+54,4,02:18,81,82,MAC,LL_Pts_C,Duda Machado
+55,4,02:18,81,81,MAC,LL_Pts_C,Duda Machado
+56,4,02:24,81,80,MAC,FR,Duda Machado
+57,4,02:24,81,80,BAU,FC,Barrios
+58,4,02:41,81,80,BAU,LL_Pts_C,Murilo
+59,4,02:41,80,80,BAU,LL_Pts_C,Murilo
+60,4,02:41,79,80,MAC,substituicao_entra,Espinoza
+61,4,02:41,79,80,MAC,substituicao_sai,Atilio
+62,4,02:41,79,80,BAU,FR,Murilo
+63,4,02:41,79,80,MAC,FC,Atilio
+64,4,02:52,79,80,BAU,RD,Ayarza
+65,4,02:52,79,80,MAC,LL_Pts_T,Atilio
+66,4,02:52,79,80,MAC,LL_Pts_T,Atilio
+67,4,02:52,79,80,MAC,FR,Atilio
+68,4,02:52,79,80,BAU,FC,Murilo
+69,4,02:52,79,80,MAC,RO,Atilio
+70,4,02:52,79,80,MAC,2_Pts_T,Jamaal
+71,4,03:01,79,80,MAC,RD,João
+72,4,03:01,79,80,BAU,2_Pts_T,Fischer
+73,4,03:16,79,80,BAU,tempo_tecnico,Bauru
+74,4,03:16,79,80,MAC,LL_Pts_T,Atilio
+75,4,03:16,79,80,MAC,LL_Pts_C,Atilio
+76,4,03:22,79,79,MAC,FR,Atilio
+77,4,03:22,79,79,BAU,FC,Ayarza
+78,4,03:36,79,79,MAC,RD,Jamaal
+79,4,03:36,79,79,BAU,3_Pts_T,Ayarza
+80,4,03:59,79,79,BAU,substituicao_entra,Fischer
+81,4,03:59,79,79,BAU,substituicao_sai,Larry
+82,4,03:59,79,79,MAC,ER,Atilio
+83,4,04:14,79,79,MAC,RD,Atilio
+84,4,04:14,79,79,BAU,2_Pts_T,Larry
+85,4,04:25,79,79,BAU,RD,Murilo
+86,4,04:25,79,79,MAC,3_Pts_T,Jamaal
+87,4,04:33,79,79,MAC,RD,Duda Machado
+88,4,04:33,79,79,BAU,3_Pts_T,Murilo
+89,4,04:43,79,79,BAU,FR,R Fischer
+90,4,04:43,79,79,MAC,FC,Fred
+91,4,04:54,79,79,MAC,substituicao_entra,Atilio
+92,4,04:54,79,79,MAC,substituicao_sai,Romario
+93,4,04:54,79,79,BAU,FR,Murilo
+94,4,04:54,79,79,MAC,FC,Romario
+95,4,05:08,79,79,MAC,LL_Pts_C,João
+96,4,05:08,79,78,MAC,LL_Pts_C,João
+97,4,05:08,79,77,BAU,substituicao_entra,Murilo
+98,4,05:08,79,77,BAU,substituicao_sai,Tischer
+99,4,05:08,79,77,BAU,substituicao_sai,Gui
+100,4,05:08,79,77,BAU,substituicao_entra,Larry
+101,4,05:08,79,77,MAC,substituicao_entra,João
+102,4,05:08,79,77,MAC,substituicao_sai,Espinoza
+103,4,05:10,79,77,MAC,FR,Espinoza
+104,4,05:10,79,77,BAU,FC,Ayarza
+105,4,05:10,79,77,MAC,RD,Espinoza
+106,4,05:10,79,77,BAU,3_Pts_T,Gui
+107,4,05:36,79,77,BAU,RO,Gui
+108,4,05:36,79,77,BAU,LL_Pts_T,Tischer
+109,4,05:36,79,77,BAU,LL_Pts_C,Tischer
+110,4,05:36,78,77,MAC,substituicao_entra,Romario
+111,4,05:36,78,77,MAC,substituicao_sai,Torres
+112,4,05:36,78,77,BAU,FR,Tischer
+113,4,05:36,78,77,MAC,FC,Torres
+114,4,05:51,78,77,MAC,2_Pts_C,Espinoza
+115,4,05:51,78,75,MAC,AS,Fred
+116,4,06:05,78,75,BAU,substituicao_entra,Ayarza
+117,4,06:05,78,75,BAU,substituicao_sai,Andrezão
+118,4,06:09,78,75,MAC,FR,Jamaal
+119,4,06:09,78,75,BAU,FC,Tischer
+120,4,06:13,78,75,BAU,RD,Barrios
+121,4,06:13,78,75,MAC,3_Pts_T,Espinoza
+122,4,06:24,78,75,MAC,RD,Espinoza
+123,4,06:24,78,75,BAU,3_Pts_T,Andrezão
+124,4,06:41,78,75,MAC,substituicao_entra,Torres
+125,4,06:41,78,75,MAC,substituicao_sai,Romario
+126,4,06:41,78,75,MAC,ER,Romario
+127,4,06:48,78,75,BAU,LL_Pts_C,R Fischer
+128,4,06:48,77,75,BAU,FR,R Fischer
+129,4,06:48,77,75,MAC,FC,Espinoza
+130,4,06:48,77,75,BAU,2_Pts_C,R Fischer
+131,4,06:59,75,75,BAU,RD,R Fischer
+132,4,06:59,75,75,MAC,2_Pts_T,Duda Machado
+133,4,07:01,75,75,MAC,FR,Duda Machado
+134,4,07:01,75,75,BAU,FC,Tischer
+135,4,07:20,75,75,BAU,2_Pts_C,Tischer
+136,4,07:36,73,75,MAC,,
+137,4,07:50,73,75,MAC,substituicao_entra,Fred
+138,4,07:50,73,75,MAC,substituicao_sai,João
+139,4,07:53,73,75,MAC,FR,Jamaal
+140,4,07:53,73,75,BAU,FC,Barrios
+141,4,07:58,73,75,MAC,RD,João
+142,4,07:58,73,75,BAU,2_Pts_T,Gui
+143,4,08:21,73,75,MAC,2_Pts_C,João
+144,4,08:32,73,73,BAU,3_Pts_C,Gui
+145,4,08:52,70,73,MAC,LL_Pts_C,Espinoza
+146,4,08:52,70,72,MAC,AS,Jamaal
+147,4,08:52,70,72,MAC,2_Pts_C,Espinoza
+148,4,08:52,70,70,MAC,FR,Espinoza
+149,4,08:52,70,70,BAU,FC,Andrezão
+150,4,09:18,70,70,BAU,3_Pts_C,Gui
+151,4,09:32,67,70,MAC,2_Pts_C,Romario
+152,4,09:32,67,68,MAC,AS,Duda Machado
+153,4,09:47,67,68,BAU,2_Pts_C,Andrezão
+154,4,09:47,65,68,BAU,AS,Barrios
+155,3,00:00,65,68, ,fim_quarto,
+156,3,00:00,65,68,MAC,RD,João
+157,3,00:00,65,68,BAU,2_Pts_T,Larry
+158,3,00:26,65,68,BAU,RD,Murilo
+159,3,00:26,65,68,MAC,3_Pts_T,João
+160,3,00:51,65,68,BAU,LL_Pts_C,Murilo
+161,3,00:51,64,68,BAU,LL_Pts_C,Murilo
+162,3,00:51,63,68,BAU,FR,Murilo
+163,3,00:51,63,68,MAC,FC,Romario
+164,3,01:13,63,68,MAC,3_Pts_C,Duda Machado
+165,3,01:25,63,65,BAU,substituicao_entra,Andrezão
+166,3,01:25,63,65,BAU,substituicao_sai,Ayarza
+167,3,01:25,63,65,BAU,LL_Pts_C,Fischer
+168,3,01:25,62,65,BAU,LL_Pts_C,Fischer
+169,3,01:27,61,65,BAU,FR,Fischer
+170,3,01:27,61,65,MAC,FC,João
+171,3,01:43,61,65,BAU,BR,Bauru
+172,3,01:43,61,65,MAC,ER,Duda Machado
+173,3,01:55,61,65,BAU,ER,Murilo
+174,3,02:14,61,65,MAC,2_Pts_C,João
+175,3,02:14,61,63,MAC,AS,Espinoza
+176,3,02:29,61,63,BAU,LL_Pts_C,Murilo
+177,3,02:29,60,63,BAU,LL_Pts_C,Murilo
+178,3,02:29,59,63,MAC,substituicao_entra,Romario
+179,3,02:29,59,63,MAC,substituicao_sai,Torres
+180,3,02:29,59,63,BAU,FR,Murilo
+181,3,02:29,59,63,MAC,FC,Torres
+182,3,02:41,59,63,MAC,2_Pts_C,João
+183,3,02:41,59,61,MAC,AS,Duda Machado
+184,3,02:57,59,61,BAU,substituicao_entra,Larry
+185,3,02:57,59,61,BAU,substituicao_sai,Barrios
+186,3,02:57,59,61,BAU,LL_Pts_C,Barrios
+187,3,02:57,58,61,BAU,LL_Pts_C,Barrios
+188,3,02:57,57,61,BAU,substituicao_entra,Gui
+189,3,02:57,57,61,BAU,substituicao_sai,R Fischer
+190,3,02:57,57,61,BAU,FR,Barrios
+191,3,02:57,57,61,MAC,FC,João
+192,3,03:03,57,61,MAC,AS,Jamaal
+193,3,03:07,57,61,MAC,2_Pts_C,João
+194,3,03:12,57,59,MAC,RD,Espinoza
+195,3,03:12,57,59,BAU,2_Pts_T,R Fischer
+196,3,03:27,57,59,MAC,LL_Pts_C,Duda Machado
+197,3,03:27,57,58,MAC,LL_Pts_C,Duda Machado
+198,3,03:27,57,57,MAC,FR,Duda Machado
+199,3,03:27,57,57,BAU,FC,R Fischer
+200,3,03:30,57,57,MAC,FR,Jamaal
+201,3,03:30,57,57,BAU,FC,R Fischer
+202,3,03:42,57,57,MAC,tempo_tecnico,Macaé
+203,3,03:42,57,57,BAU,tempo_tecnico,Bauru
+204,3,03:42,57,57,MAC,FR,Torres
+205,3,03:42,57,57,BAU,FC,Barrios
+206,3,03:42,57,57,MAC,2_Pts_C,Torres
+207,3,03:42,57,55,MAC,AS,Duda Machado
+208,3,04:00,57,55,MAC,BR,Macaé
+209,3,04:00,57,55,BAU,ER,R Fischer
+210,3,04:01,57,55,BAU,RO,Bauru
+211,3,04:01,57,55,BAU,2_Pts_T,Ayarza
+212,3,04:28,57,55,MAC,ER,João
+213,3,04:39,57,55,MAC,RD,Torres
+214,3,04:39,57,55,BAU,3_Pts_T,R Fischer
+215,3,04:50,57,55,BAU,FR,Murilo
+216,3,04:50,57,55,MAC,FC,Torres
+217,3,04:53,57,55,BAU,RO,Murilo
+218,3,04:53,57,55,BAU,3_Pts_T,Barrios
+219,3,04:54,57,55,BAU,substituicao_entra,Fischer
+220,3,04:54,57,55,BAU,substituicao_sai,Larry
+221,3,04:54,57,55,BAU,substituicao_entra,Murilo
+222,3,04:54,57,55,BAU,substituicao_sai,Tischer
+223,3,04:56,57,55,BAU,FR,Larry
+224,3,04:56,57,55,MAC,FC,Jamaal
+225,3,05:06,57,55,MAC,LL_Pts_C,Espinoza
+226,3,05:06,57,54,MAC,AS,Jamaal
+227,3,05:06,57,54,MAC,FR,Espinoza
+228,3,05:06,57,54,BAU,FC,Tischer
+229,3,05:06,57,54,MAC,2_Pts_C,Espinoza
+230,3,05:16,57,52,MAC,FR,Torres
+231,3,05:16,57,52,BAU,FC,Tischer
+232,3,05:27,57,52,MAC,RD,Torres
+233,3,05:27,57,52,BAU,3_Pts_T,Ayarza
+234,3,05:30,57,52,BAU,FR,R Fischer
+235,3,05:30,57,52,MAC,FC,Jamaal
+236,3,05:40,57,52,BAU,RD,Tischer
+237,3,05:40,57,52,MAC,3_Pts_T,Espinoza
+238,3,05:49,57,52,MAC,RD,João
+239,3,05:49,57,52,BAU,2_Pts_T,Tischer
+240,3,06:06,57,52,MAC,2_Pts_C,Torres
+241,3,06:20,57,50,BAU,3_Pts_C,Ayarza
+242,3,06:30,54,50,BAU,RD,Ayarza
+243,3,06:30,54,50,MAC,2_Pts_T,Torres
+244,3,06:48,54,50,BAU,LL_Pts_C,Ayarza
+245,3,06:48,53,50,BAU,LL_Pts_C,Ayarza
+246,3,06:48,52,50,MAC,substituicao_entra,Jamaal
+247,3,06:48,52,50,MAC,substituicao_sai,Fred
+248,3,06:50,52,50,BAU,FR,Ayarza
+249,3,06:50,52,50,MAC,FC,João
+250,3,06:58,52,50,BAU,RD,Barrios
+251,3,06:58,52,50,MAC,3_Pts_T,Espinoza
+252,3,07:17,52,50,BAU,3_Pts_C,R Fischer
+253,3,07:17,49,50,BAU,AS,Barrios
+254,3,07:23,49,50,BAU,RO,Bauru
+255,3,07:23,49,50,MAC,TO,Espinoza
+256,3,07:23,49,50,BAU,2_Pts_T,Larry
+257,3,07:28,49,50,BAU,RD,Tischer
+258,3,07:28,49,50,MAC,2_Pts_T,Fred
+259,3,07:47,49,50,BAU,2_Pts_C,R Fischer
+260,3,07:57,47,50,MAC,2_Pts_C,João
+261,3,07:57,47,48,MAC,AS,Fred
+262,3,08:09,47,48,BAU,3_Pts_C,R Fischer
+263,3,08:09,44,48,BAU,AS,Larry
+264,3,08:19,44,48,MAC,AS,Fred
+265,3,08:30,44,48,MAC,3_Pts_C,Espinoza
+266,3,08:48,44,45,MAC,LL_Pts_C,João
+267,3,08:48,44,44,MAC,LL_Pts_T,João
+268,3,08:48,44,44,MAC,FR,João
+269,3,08:48,44,44,BAU,FC_A,Barrios
+270,3,09:01,44,44,MAC,RD,Duda Machado
+271,3,09:01,44,44,BAU,2_Pts_T,Larry
+272,3,09:12,44,44,MAC,2_Pts_C,Torres
+273,3,09:12,44,42,MAC,AS,Fred
+274,3,09:30,44,42,BAU,3_Pts_C,R Fischer
+275,3,09:30,41,42,BAU,AS,Barrios
+276,3,09:50,41,42,BAU,RD,Tischer
+277,3,09:50,41,42,MAC,3_Pts_T,Duda Machado
+278,2,00:00,41,42, ,fim_quarto,
+279,2,00:01,41,42,BAU,RD,Andrezão
+280,2,00:01,41,42,MAC,3_Pts_T,Jamaal
+281,2,00:04,41,42,BAU,LL_Pts_C,Ayarza
+282,2,00:04,40,42,BAU,LL_Pts_C,Ayarza
+283,2,00:04,39,42,MAC,substituicao_entra,Espinoza
+284,2,00:04,39,42,MAC,substituicao_sai,João
+285,2,00:04,39,42,BAU,substituicao_entra,Andrezão
+286,2,00:04,39,42,BAU,substituicao_sai,Fischer
+287,2,00:08,39,42,MAC,tempo_tecnico,Macaé
+288,2,00:08,39,42,BAU,FR,Ayarza
+289,2,00:08,39,42,MAC,FC,Atilio
+290,2,00:27,39,42,MAC,2_Pts_C,João
+291,2,00:46,39,40,BAU,3_Pts_C,Barrios
+292,2,01:08,36,40,BAU,substituicao_entra,Larry
+293,2,01:08,36,40,BAU,substituicao_sai,Murilo
+294,2,01:12,36,40,BAU,tempo_tecnico,Bauru
+295,2,01:12,36,40,MAC,substituicao_entra,João
+296,2,01:12,36,40,MAC,substituicao_sai,Espinoza
+297,2,01:12,36,40,MAC,LL_Pts_C,Jamaal
+298,2,01:12,36,39,MAC,LL_Pts_C,Jamaal
+299,2,01:12,36,38,MAC,FR,Jamaal
+300,2,01:12,36,38,BAU,FC,Fischer
+301,2,01:18,36,38,MAC,RD,Atilio
+302,2,01:18,36,38,BAU,2_Pts_T,Murilo
+303,2,01:36,36,38,BAU,RD,Ayarza
+304,2,01:36,36,38,MAC,2_Pts_T,Atilio
+305,2,01:57,36,38,MAC,RD,Espinoza
+306,2,01:57,36,38,BAU,3_Pts_T,Murilo
+307,2,02:09,36,38,BAU,RD,Barrios
+308,2,02:09,36,38,MAC,3_Pts_T,Jamaal
+309,2,02:20,36,38,BAU,2_Pts_C,Barrios
+310,2,02:34,34,38,MAC,2_Pts_C,Espinoza
+311,2,02:39,34,36,MAC,RO,Espinoza
+312,2,02:39,34,36,MAC,3_Pts_T,Duda Machado
+313,2,02:55,34,36,BAU,LL_Pts_C,Fischer
+314,2,02:55,33,36,BAU,LL_Pts_C,Fischer
+315,2,03:02,32,36,MAC,tempo_tecnico,Macaé
+316,2,03:02,32,36,BAU,FR,Fischer
+317,2,03:02,32,36,MAC,FC,Fred
+318,2,03:13,32,36,BAU,BR,Bauru
+319,2,03:13,32,36,MAC,ER,Jamaal
+320,2,03:30,32,36,BAU,LL_Pts_C,Ayarza
+321,2,03:30,31,36,BAU,LL_Pts_C,Ayarza
+322,2,03:30,30,36,BAU,FR,Ayarza
+323,2,03:30,30,36,MAC,FC,Espinoza
+324,2,03:42,30,36,MAC,LL_Pts_C,Duda Machado
+325,2,03:42,30,35,MAC,LL_Pts_T,Duda Machado
+326,2,03:42,30,35,BAU,substituicao_entra,Ayarza
+327,2,03:42,30,35,BAU,substituicao_sai,Andrezão
+328,2,03:42,30,35,MAC,FR,Duda Machado
+329,2,03:42,30,35,BAU,FC,Murilo
+330,2,03:52,30,35,BAU,2_Pts_C,Murilo
+331,2,03:52,28,35,BAU,AS,R Fischer
+332,2,03:58,28,35,BAU,BR,Murilo
+333,2,03:58,28,35,MAC,ER,Fred
+334,2,04:15,28,35,BAU,substituicao_entra,Fischer
+335,2,04:15,28,35,BAU,substituicao_sai,Tischer
+336,2,04:15,28,35,BAU,substituicao_entra,Murilo
+337,2,04:15,28,35,BAU,substituicao_sai,Larry
+338,2,04:15,28,35,BAU,substituicao_entra,Barrios
+339,2,04:15,28,35,BAU,substituicao_sai,Gui
+340,2,04:15,28,35,MAC,substituicao_entra,Espinoza
+341,2,04:15,28,35,MAC,substituicao_sai,João
+342,2,04:15,28,35,MAC,FR,Duda Machado
+343,2,04:15,28,35,BAU,FC,Larry
+344,2,04:23,28,35,MAC,RD,João
+345,2,04:23,28,35,BAU,LL_Pts_T,Tischer
+346,2,04:23,28,35,BAU,LL_Pts_T,Tischer
+347,2,04:23,28,35,BAU,FR,Tischer
+348,2,04:23,28,35,MAC,FC,Atilio
+349,2,04:32,28,35,BAU,RD,Tischer
+350,2,04:32,28,35,MAC,2_Pts_T,João
+351,2,04:50,28,35,MAC,BR,Duda Machado
+352,2,04:50,28,35,BAU,ER,Tischer
+353,2,04:55,28,35,BAU,RD,Tischer
+354,2,04:55,28,35,MAC,2_Pts_T,João
+355,2,05:10,28,35,MAC,RD,Duda Machado
+356,2,05:10,28,35,BAU,3_Pts_T,Larry
+357,2,05:25,28,35,MAC,2_Pts_C,João
+358,2,05:25,28,33,MAC,AS,Fred
+359,2,05:43,28,33,MAC,substituicao_entra,Jamaal
+360,2,05:43,28,33,MAC,substituicao_sai,Espinoza
+361,2,05:43,28,33,BAU,LL_Pts_C,Larry
+362,2,05:43,27,33,BAU,LL_Pts_T,Larry
+363,2,05:43,27,33,MAC,substituicao_entra,Atilio
+364,2,05:43,27,33,MAC,substituicao_sai,Romario
+365,2,05:43,27,33,BAU,substituicao_entra,R Fischer
+366,2,05:43,27,33,BAU,substituicao_sai,Fischer
+367,2,05:43,27,33,BAU,FR,Larry
+368,2,05:43,27,33,MAC,FC,Romario
+369,2,06:00,27,33,BAU,RD,Andrezão
+370,2,06:00,27,33,MAC,2_Pts_T,João
+371,2,06:02,27,33,MAC,substituicao_entra,Duda Machado
+372,2,06:02,27,33,MAC,substituicao_sai,Will
+373,2,06:02,27,33,MAC,FR,Fred
+374,2,06:02,27,33,BAU,FC,Larry
+375,2,06:21,27,33,BAU,3_Pts_C,Andrezão
+376,2,06:21,24,33,BAU,AS,Gui
+377,2,06:35,24,33,BAU,LL_Pts_T,Tischer
+378,2,06:35,24,33,BAU,LL_Pts_C,Tischer
+379,2,06:35,23,33,BAU,FR,Tischer
+380,2,06:35,23,33,MAC,FC_A,Will
+381,2,06:58,23,33,BAU,FR,Larry
+382,2,06:58,23,33,MAC,FC_O,Romario
+383,2,07:07,23,33,MAC,RD,João
+384,2,07:07,23,33,BAU,3_Pts_T,Gui
+385,2,07:26,23,33,BAU,RD,Andrezão
+386,2,07:26,23,33,MAC,LL_Pts_T,Romario
+387,2,07:26,23,33,MAC,LL_Pts_T,Romario
+388,2,07:26,23,33,MAC,substituicao_entra,João
+389,2,07:26,23,33,MAC,substituicao_sai,Duda Machado
+390,2,07:26,23,33,BAU,substituicao_entra,Tischer
+391,2,07:26,23,33,BAU,substituicao_sai,Murilo
+392,2,07:30,23,33,MAC,FR,Romario
+393,2,07:30,23,33,BAU,FC,Gui
+394,2,07:43,23,33,MAC,RD,Espinoza
+395,2,07:43,23,33,BAU,2_Pts_T,Fischer
+396,2,08:01,23,33,MAC,AS,Fred
+397,2,08:05,23,33,MAC,2_Pts_C,Espinoza
+398,2,08:25,23,31,BAU,3_Pts_C,Gui
+399,2,08:25,20,31,BAU,AS,Larry
+400,2,08:42,20,31,MAC,2_Pts_C,Romario
+401,2,08:42,20,29,MAC,AS,Duda Machado
+402,2,08:49,20,29,MAC,RD,Espinoza
+403,2,08:49,20,29,BAU,2_Pts_T,Andrezão
+404,2,09:00,20,29,BAU,BR,Fischer
+405,2,09:00,20,29,MAC,ER,Fred
+406,2,09:22,20,29,MAC,FR,Romario
+407,2,09:22,20,29,BAU,FC_O,Murilo
+408,2,09:27,20,29,BAU,FR,Larry
+409,2,09:27,20,29,MAC,FC,Romario
+410,2,09:34,20,29,BAU,BR,Fischer
+411,2,09:34,20,29,MAC,ER,Espinoza
+412,2,09:51,20,29,BAU,2_Pts_C,Fischer
+413,2,09:54,18,29,BAU,substituicao_entra,Gui
+414,2,09:54,18,29,BAU,substituicao_sai,Ayarza
+415,2,09:54,18,29,BAU,FR,Ayarza
+416,2,09:54,18,29,MAC,FC,Will
+417,1,00:00,18,29, ,fim_quarto,
+418,1,00:00,18,29,MAC,RD,Duda Machado
+419,1,00:00,18,29,BAU,2_Pts_T,Murilo
+420,1,00:01,18,29,BAU,RO,Murilo
+421,1,00:01,18,29,BAU,2_Pts_T,Andrezão
+422,1,00:21,18,29,MAC,3_Pts_C,Duda Machado
+423,1,00:37,18,26,BAU,LL_Pts_C,Murilo
+424,1,00:37,17,26,BAU,LL_Pts_C,Murilo
+425,1,00:38,16,26,BAU,substituicao_entra,Andrezão
+426,1,00:38,16,26,BAU,substituicao_sai,Barrios
+427,1,00:38,16,26,MAC,substituicao_entra,Will
+428,1,00:38,16,26,MAC,substituicao_sai,Torres
+429,1,00:38,16,26,MAC,substituicao_entra,Romario
+430,1,00:38,16,26,MAC,substituicao_sai,João
+431,1,00:38,16,26,BAU,FR,Murilo
+432,1,00:38,16,26,MAC,FC,Torres
+433,1,00:59,16,26,MAC,2_Pts_C,Duda Machado
+434,1,00:59,16,24,MAC,AS,Espinoza
+435,1,01:11,16,24,BAU,2_Pts_C,Ayarza
+436,1,01:11,14,24,BAU,AS,Murilo
+437,1,01:32,14,24,BAU,RD,Ayarza
+438,1,01:32,14,24,MAC,3_Pts_T,Duda Machado
+439,1,01:50,14,24,BAU,2_Pts_C,Ayarza
+440,1,01:50,12,24,BAU,AS,R Fischer
+441,1,02:19,12,24,MAC,3_Pts_C,Duda Machado
+442,1,02:19,12,21,MAC,AS,Espinoza
+443,1,02:36,12,21,MAC,RD,Espinoza
+444,1,02:36,12,21,BAU,3_Pts_T,Fischer
+445,1,02:48,12,21,BAU,BR,Barrios
+446,1,02:48,12,21,MAC,ER,João
+447,1,02:55,12,21,MAC,RD,Duda Machado
+448,1,02:55,12,21,BAU,2_Pts_T,Murilo
+449,1,03:20,12,21,MAC,2_Pts_C,Torres
+450,1,03:26,12,19,MAC,RO,Macaé
+451,1,03:26,12,19,MAC,2_Pts_T,João
+452,1,03:42,12,19,BAU,2_Pts_C,R Fischer
+453,1,03:44,10,19,BAU,FR,Tischer
+454,1,03:44,10,19,MAC,FC,Torres
+455,1,03:48,10,19,BAU,substituicao_entra,Fischer
+456,1,03:48,10,19,BAU,substituicao_sai,Larry
+457,1,03:48,10,19,BAU,substituicao_entra,Murilo
+458,1,03:48,10,19,BAU,substituicao_sai,Tischer
+459,1,04:01,10,19,MAC,2_Pts_C,Torres
+460,1,04:20,10,17,MAC,RD,João
+461,1,04:20,10,17,BAU,3_Pts_T,Barrios
+462,1,04:37,10,17,BAU,RO,Ayarza
+463,1,04:37,10,17,BAU,3_Pts_T,R Fischer
+464,1,04:48,10,17,BAU,RD,R Fischer
+465,1,04:48,10,17,MAC,3_Pts_T,Espinoza
+466,1,05:01,10,17,BAU,2_Pts_C,Larry
+467,1,05:10,8,17,MAC,2_Pts_C,Duda Machado
+468,1,05:10,8,15,MAC,AS,Espinoza
+469,1,05:21,8,15,BAU,LL_Pts_C,Ayarza
+470,1,05:21,7,15,BAU,LL_Pts_C,Ayarza
+471,1,05:21,6,15,BAU,FR,Ayarza
+472,1,05:21,6,15,MAC,FC,Espinoza
+473,1,05:36,6,15,MAC,3_Pts_C,Espinoza
+474,1,05:36,6,12,MAC,AS,Fred
+475,1,06:01,6,12,BAU,2_Pts_C,Tischer
+476,1,06:27,4,12,BAU,tempo_tecnico,Bauru
+477,1,06:27,4,12,MAC,AS,Fred
+478,1,06:29,4,12,MAC,3_Pts_C,Espinoza
+479,1,06:38,4,9,MAC,RD,Espinoza
+480,1,06:38,4,9,BAU,3_Pts_T,Larry
+481,1,06:57,4,9,MAC,2_Pts_C,Fred
+482,1,07:00,4,7,MAC,BR,Fred
+483,1,07:00,4,7,BAU,ER,Barrios
+484,1,07:06,4,7,MAC,ER,Torres
+485,1,07:20,4,7,MAC,substituicao_entra,Fred
+486,1,07:20,4,7,MAC,substituicao_sai,Jamaal
+487,1,07:20,4,7,BAU,LL_Pts_C,Tischer
+488,1,07:20,3,7,BAU,LL_Pts_T,Tischer
+489,1,07:20,3,7,BAU,FR,Tischer
+490,1,07:20,3,7,MAC,FC,Duda Machado
+491,1,07:22,3,7,BAU,BR,Tischer
+492,1,07:22,3,7,MAC,ER,Jamaal
+493,1,07:35,3,7,MAC,RD,João
+494,1,07:35,3,7,BAU,2_Pts_T,Tischer
+495,1,08:01,3,7,MAC,2_Pts_C,João
+496,1,08:17,3,5,BAU,3_Pts_C,Barrios
+497,1,08:17,0,5,BAU,AS,Larry
+498,1,08:25,0,5,BAU,RO,Ayarza
+499,1,08:25,0,5,BAU,3_Pts_T,R Fischer
+500,1,08:41,0,5,MAC,2_Pts_C,Jamaal
+501,1,08:41,0,3,MAC,AS,Duda Machado
+502,1,08:54,0,3,MAC,RD,João
+503,1,08:54,0,3,BAU,2_Pts_T,Ayarza
+504,1,08:57,0,3,BAU,RO,Ayarza
+505,1,08:57,0,3,BAU,2_Pts_T,Larry
+506,1,09:06,0,3,MAC,3_Pts_C,Duda Machado
+507,1,09:21,0,0,MAC,RD,Torres
+508,1,09:21,0,0,MAC,TO,Torres
+509,1,09:21,0,0,BAU,2_Pts_T,Ayarza
+510,1,09:48,0,0,BAU,RD,R Fischer
+511,1,09:48,0,0,MAC,2_Pts_T,Torres
+512,1,10:00,0,0,MAC,substituicao_entra,Espinoza
+513,1,10:00,0,0,MAC,substituicao_entra,Torres
+514,1,10:00,0,0,MAC,substituicao_entra,João
+515,1,10:00,0,0,MAC,substituicao_entra,Jamaal
+516,1,10:00,0,0,MAC,substituicao_entra,Duda Machado
+517,1,10:00,0,0,BAU,substituicao_entra,Tischer
+518,1,10:00,0,0,BAU,substituicao_entra,Barrios
+519,1,10:00,0,0,BAU,substituicao_entra,Ayarza
+520,1,10:00,0,0,BAU,substituicao_entra,R Fischer
+521,1,10:00,0,0,BAU,substituicao_entra,Larry

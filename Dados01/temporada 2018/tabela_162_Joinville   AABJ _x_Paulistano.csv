@@ -1,0 +1,627 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,5,00:00,87,97,,fim_partida,
+1,5,00:00,87,97,,fim_quarto,
+2,5,00:04,87,97,CAP,AS,Léo Meindl
+3,5,00:04,87,97,CAP,2_Pts_C,Du Sommer
+4,5,00:25,87,95,CAP,RD,Léo Meindl
+5,5,00:28,87,95,JLE,3_Pts_T,Cook
+6,5,00:41,87,95,CAP,AS,Léo Meindl
+7,5,00:41,87,95,CAP,EN,Du Sommer
+8,5,00:57,87,93,JLE,AS,Cook
+9,5,00:57,87,93,JLE,3_Pts_C,Starks
+10,5,01:03,84,93,JLE,RD,Starks
+11,5,01:09,84,93,CAP,2_Pts_T,Yago
+12,5,01:27,84,93,CAP,RD,Léo Meindl
+13,5,01:27,84,93,JLE,3_Pts_T,Starks
+14,5,01:27,84,93,CAP,LL_Pts_C,Du Sommer
+15,5,01:33,84,92,CAP,LL_Pts_T,Du Sommer
+16,5,01:49,84,92,JLE,substituicao_entra,Vezarinho
+17,5,01:49,84,92,JLE,substituicao_sai,J Socas
+18,5,02:05,84,92,CAP,FR,Du Sommer
+19,5,02:05,84,92,JLE,FC,J Socas
+20,5,02:13,84,92,CAP,RD,Victão
+21,5,02:15,84,92,JLE,LL_Pts_T,Cook
+22,5,02:15,84,92,JLE,LL_Pts_C,Cook
+23,5,02:31,83,92,JLE,FR,Cook
+24,5,02:31,83,92,CAP,FC,Du Sommer
+25,5,02:32,83,92,CAP,LL_Pts_C,Léo Meindl
+26,5,02:32,83,91,CAP,LL_Pts_C,Léo Meindl
+27,5,02:32,83,90,CAP,substituicao_entra,Victão
+28,5,02:32,83,90,CAP,substituicao_sai,Roquemore
+29,5,02:32,83,90,JLE,substituicao_entra,J Socas
+30,5,02:32,83,90,JLE,substituicao_sai,Vezarinho
+31,5,02:34,83,90,CAP,FR,Léo Meindl
+32,5,02:34,83,90,JLE,FC,Colimerio
+33,5,02:34,83,90,CAP,RD,Léo Meindl
+34,5,02:34,83,90,JLE,2_Pts_T,Starks
+35,5,02:34,83,90,JLE,tempo_tecnico,Joinville / AABJ
+36,5,02:34,83,90,CAP,LL_Pts_C,Yago
+37,5,02:34,83,89,CAP,LL_Pts_C,Yago
+38,5,02:34,83,88,CAP,substituicao_entra,Roquemore
+39,5,02:34,83,88,CAP,substituicao_sai,Victão
+40,5,02:34,83,88,JLE,substituicao_entra,Starks
+41,5,02:34,83,88,JLE,substituicao_sai,J Socas
+42,5,02:35,83,88,CAP,FR,Yago
+43,5,02:35,83,88,JLE,FC,J Socas
+44,5,02:54,83,88,CAP,RD,Victão
+45,5,02:56,83,88,JLE,LL_Pts_T,J Socas
+46,5,02:56,83,88,JLE,LL_Pts_T,J Socas
+47,5,02:56,83,88,JLE,FR,J Socas
+48,5,02:56,83,88,CAP,FC,Du Sommer
+49,5,03:12,83,88,CAP,2_Pts_C,Yago
+50,5,03:34,83,86,CAP,BR,Victão
+51,5,03:34,83,86,JLE,ER,F Vezaro
+52,5,03:48,83,86,CAP,LL_Pts_C,Léo Meindl
+53,5,04:00,83,85,CAP,FR,Léo Meindl
+54,5,04:00,83,85,JLE,FC,Colimerio
+55,5,04:07,83,85,CAP,2_Pts_C,Léo Meindl
+56,5,04:09,83,83,CAP,RD,Eddy
+57,5,04:18,83,83,JLE,3_Pts_T,Cook
+58,5,04:18,83,83,JLE,BR,F Vezaro
+59,5,04:18,83,83,CAP,ER,Yago
+60,5,04:18,83,83,JLE,substituicao_entra,Colimerio
+61,5,04:18,83,83,JLE,substituicao_sai,Mathias
+62,5,04:19,83,83,CAP,FR,Yago
+63,5,04:19,83,83,JLE,ER,Mathias
+64,5,04:19,83,83,JLE,FC_O,Mathias
+65,5,04:29,83,83,CAP,2_Pts_C,Léo Meindl
+66,5,04:50,83,81,JLE,AS,J Socas
+67,5,04:50,83,81,JLE,2_Pts_C,Vezarinho
+68,5,04:51,81,81,JLE,RD,J Socas
+69,5,04:56,81,81,CAP,3_Pts_T,Victão
+70,5,05:00,81,81,,inicio_quarto,
+71,4,00:00,81,81,CAP,substituicao_entra,Yago
+72,4,00:00,81,81,CAP,substituicao_sai,Roquemore
+73,4,00:00,81,81,JLE,substituicao_entra,Vezarinho
+74,4,00:00,81,81,JLE,substituicao_sai,Starks
+75,4,00:00,81,81,,fim_quarto,
+76,4,00:06,81,81,JLE,3_Pts_T,Starks
+77,4,00:21,81,81,JLE,substituicao_entra,Starks
+78,4,00:21,81,81,JLE,substituicao_sai,Vezarinho
+79,4,00:21,81,81,CAP,substituicao_entra,Victão
+80,4,00:21,81,81,CAP,substituicao_sai,Yago
+81,4,00:21,81,81,JLE,tempo_tecnico,Joinville / AABJ
+82,4,00:21,81,81,CAP,AS,Yago
+83,4,00:21,81,81,CAP,2_Pts_C,Léo Meindl
+84,4,00:29,81,79,CAP,FR,Yago
+85,4,00:29,81,79,JLE,FC,Vezarinho
+86,4,00:30,81,79,CAP,tempo_tecnico,Paulistano
+87,4,00:30,81,79,JLE,2_Pts_C,J Socas
+88,4,00:31,79,79,JLE,BR,J Socas
+89,4,00:31,79,79,CAP,ER,Yago
+90,4,00:37,79,79,CAP,RD,Du Sommer
+91,4,00:41,79,79,JLE,2_Pts_T,Vezarinho
+92,4,00:52,79,79,JLE,BR,Cook
+93,4,00:52,79,79,CAP,ER,Léo Meindl
+94,4,00:57,79,79,CAP,BR,Yago
+95,4,00:57,79,79,JLE,ER,J Socas
+96,4,01:07,79,79,JLE,BR,J Socas
+97,4,01:07,79,79,CAP,ER,Yago
+98,4,01:11,79,79,CAP,RO,Léo Meindl
+99,4,01:15,79,79,CAP,2_Pts_T,Yago
+100,4,01:28,79,79,JLE,2_Pts_C,Mathias
+101,4,01:39,77,79,JLE,RD,Joinville / AABJ
+102,4,01:40,77,79,CAP,3_Pts_T,Léo Meindl
+103,4,02:02,77,79,JLE,3_Pts_C,Cook
+104,4,02:07,74,79,JLE,substituicao_entra,J Socas
+105,4,02:07,74,79,JLE,substituicao_sai,Starks
+106,4,02:07,74,79,JLE,tempo_tecnico,Joinville / AABJ
+107,4,02:08,74,79,CAP,AS,Léo Meindl
+108,4,02:08,74,79,CAP,EN,Du Sommer
+109,4,02:15,74,77,CAP,BR,Léo Meindl
+110,4,02:15,74,77,JLE,ER,Cook
+111,4,02:20,74,77,JLE,RO,Mathias
+112,4,02:23,74,77,JLE,3_Pts_T,Starks
+113,4,02:26,74,77,JLE,RO,Mathias
+114,4,02:30,74,77,JLE,3_Pts_T,Vezarinho
+115,4,02:50,74,77,CAP,3_Pts_C,Yago
+116,4,02:57,74,74,CAP,RD,Léo Meindl
+117,4,03:01,74,74,JLE,3_Pts_T,F Vezaro
+118,4,03:10,74,74,CAP,2_Pts_C,Yago
+119,4,03:10,74,72,JLE,2_Pts_C,Vezarinho
+120,4,03:26,72,72,JLE,RD,Mathias
+121,4,03:30,72,72,CAP,LL_Pts_T,Léo Meindl
+122,4,03:51,72,72,CAP,LL_Pts_C,Léo Meindl
+123,4,04:08,72,71,JLE,substituicao_entra,Starks
+124,4,04:08,72,71,JLE,substituicao_sai,J Socas
+125,4,04:40,72,71,CAP,FR,Léo Meindl
+126,4,04:40,72,71,JLE,FC,Mathias
+127,4,04:44,72,71,CAP,RD,Léo Meindl
+128,4,04:48,72,71,JLE,2_Pts_T,Vezarinho
+129,4,05:04,72,71,CAP,2_Pts_C,Yago
+130,4,05:15,72,69,CAP,RD,Léo Meindl
+131,4,05:20,72,69,JLE,3_Pts_T,Cook
+132,4,05:32,72,69,CAP,substituicao_entra,Du Sommer
+133,4,05:32,72,69,CAP,substituicao_sai,Renan
+134,4,05:32,72,69,CAP,tempo_tecnico,Paulistano
+135,4,05:32,72,69,JLE,FR,J Socas
+136,4,05:32,72,69,CAP,ER,Léo Meindl
+137,4,05:32,72,69,CAP,FC_O,Léo Meindl
+138,4,06:15,72,69,JLE,AS,Vezarinho
+139,4,06:15,72,69,JLE,3_Pts_C,Mathias
+140,4,06:15,69,69,JLE,RD,Vezarinho
+141,4,06:15,69,69,CAP,3_Pts_T,Renan
+142,4,06:15,69,69,CAP,RD,Renan
+143,4,06:15,69,69,JLE,2_Pts_T,Cook
+144,4,06:15,69,69,JLE,substituicao_entra,Vezarinho
+145,4,06:15,69,69,JLE,substituicao_sai,Starks
+146,4,06:23,69,69,CAP,AS,Roquemore
+147,4,06:23,69,69,CAP,3_Pts_C,Renan
+148,4,06:27,69,66,CAP,RD,Yago
+149,4,06:30,69,66,JLE,3_Pts_T,F Vezaro
+150,4,06:33,69,66,JLE,RO,F Vezaro
+151,4,06:36,69,66,JLE,3_Pts_T,J Socas
+152,4,06:48,69,66,CAP,substituicao_entra,Roquemore
+153,4,06:48,69,66,CAP,substituicao_sai,Victão
+154,4,06:48,69,66,JLE,FR,Cook
+155,4,06:48,69,66,CAP,ER,Victão
+156,4,06:48,69,66,CAP,FC_O,Victão
+157,4,07:04,69,66,CAP,RD,Léo Meindl
+158,4,07:11,69,66,CAP,TO,Renan
+159,4,07:11,69,66,JLE,3_Pts_T,Starks
+160,4,07:22,69,66,JLE,FR,Cook
+161,4,07:22,69,66,CAP,ER,Eddy
+162,4,07:22,69,66,CAP,FC_O,Eddy
+163,4,07:22,69,66,CAP,RO,Eddy
+164,4,07:25,69,66,CAP,3_Pts_T,Yago
+165,4,07:32,69,66,JLE,ER,
+166,4,07:50,69,66,JLE,RO,F Vezaro
+167,4,07:57,69,66,JLE,3_Pts_T,Cook
+168,4,08:08,69,66,JLE,RD,Starks
+169,4,08:14,69,66,CAP,FR,Victão
+170,4,08:14,69,66,JLE,FC,Mathias
+171,4,08:14,69,66,CAP,3_Pts_T,Eddy
+172,4,08:29,69,66,JLE,AS,Cook
+173,4,08:29,69,66,JLE,2_Pts_C,Mathias
+174,4,08:47,67,66,CAP,substituicao_entra,Victão
+175,4,08:47,67,66,CAP,substituicao_sai,Roquemore
+176,4,08:47,67,66,JLE,tempo_tecnico,Joinville / AABJ
+177,4,08:51,67,66,CAP,AS,Eddy
+178,4,08:51,67,66,CAP,3_Pts_C,Léo Meindl
+179,4,09:02,67,63,CAP,BR,Renan
+180,4,09:02,67,63,JLE,ER,Mathias
+181,4,09:29,67,63,CAP,3_Pts_C,Yago
+182,4,09:34,67,60,CAP,FR,Roquemore
+183,4,09:34,67,60,JLE,FC,J Socas
+184,4,09:42,67,60,JLE,LL_Pts_C,Cook
+185,4,09:42,66,60,JLE,LL_Pts_C,Cook
+186,4,09:42,65,60,CAP,substituicao_entra,Renan
+187,4,09:42,65,60,CAP,substituicao_sai,Guilherme
+188,4,09:42,65,60,JLE,FR,Cook
+189,4,09:42,65,60,CAP,FC,Guilherme
+190,4,10:00,65,60,,inicio_quarto,
+191,3,00:00,65,60,,fim_quarto,
+192,3,00:10,65,60,JLE,RD,Cook
+193,3,00:10,65,60,JLE,TO,Mathias
+194,3,00:10,65,60,CAP,3_Pts_T,Victão
+195,3,00:21,65,60,CAP,RD,Antonio
+196,3,00:25,65,60,JLE,3_Pts_T,Dieguinho
+197,3,00:33,65,60,JLE,RO,Dieguinho
+198,3,00:36,65,60,JLE,3_Pts_T,Vezarinho
+199,3,00:55,65,60,CAP,substituicao_entra,Antonio
+200,3,00:55,65,60,CAP,substituicao_sai,Léo Meindl
+201,3,00:55,65,60,CAP,LL_Pts_C,Léo Meindl
+202,3,00:55,65,59,CAP,LL_Pts_C,Léo Meindl
+203,3,00:55,65,58,JLE,substituicao_entra,Mathias
+204,3,00:55,65,58,JLE,substituicao_sai,J Nunes
+205,3,00:55,65,58,JLE,substituicao_entra,Cook
+206,3,00:55,65,58,JLE,substituicao_sai,Starks
+207,3,00:55,65,58,JLE,substituicao_entra,F Vezaro
+208,3,00:55,65,58,JLE,substituicao_sai,Colimerio
+209,3,00:55,65,58,CAP,FR,Léo Meindl
+210,3,00:55,65,58,JLE,FC,J Nunes
+211,3,01:04,65,58,CAP,substituicao_entra,Victão
+212,3,01:04,65,58,CAP,substituicao_sai,Guilherme
+213,3,01:04,65,58,JLE,LL_Pts_C,Vezarinho
+214,3,01:04,64,58,JLE,LL_Pts_C,Vezarinho
+215,3,01:04,63,58,CAP,substituicao_entra,Eddy
+216,3,01:04,63,58,CAP,substituicao_sai,De Paula
+217,3,01:04,63,58,JLE,substituicao_entra,Dieguinho
+218,3,01:04,63,58,JLE,substituicao_sai,J Socas
+219,3,01:04,63,58,JLE,substituicao_entra,J Nunes
+220,3,01:04,63,58,JLE,substituicao_sai,Rosniak
+221,3,01:04,63,58,JLE,FR,Vezarinho
+222,3,01:04,63,58,CAP,FC,De Paula
+223,3,01:05,63,58,JLE,RD,Colimerio
+224,3,01:09,63,58,CAP,3_Pts_T,Roquemore
+225,3,01:22,63,58,CAP,RD,Paulistano
+226,3,01:27,63,58,JLE,3_Pts_T,Colimerio
+227,3,01:39,63,58,JLE,RD,J Socas
+228,3,01:41,63,58,CAP,2_Pts_T,Du Sommer
+229,3,01:41,63,58,CAP,RO,Du Sommer
+230,3,01:43,63,58,CAP,2_Pts_T,Du Sommer
+231,3,01:43,63,58,CAP,RO,Du Sommer
+232,3,01:52,63,58,CAP,2_Pts_T,De Paula
+233,3,01:55,63,58,CAP,FR,Guilherme
+234,3,01:55,63,58,JLE,FC,Rosniak
+235,3,01:55,63,58,CAP,RO,Paulistano
+236,3,01:55,63,58,CAP,3_Pts_T,Guilherme
+237,3,02:06,63,58,JLE,substituicao_entra,Rosniak
+238,3,02:06,63,58,JLE,substituicao_sai,Cook
+239,3,02:06,63,58,JLE,substituicao_entra,Starks
+240,3,02:06,63,58,JLE,substituicao_sai,Mathias
+241,3,02:06,63,58,CAP,FR,Roquemore
+242,3,02:06,63,58,JLE,FC,Vezarinho
+243,3,02:11,63,58,JLE,LL_Pts_C,J Socas
+244,3,02:11,62,58,JLE,LL_Pts_T,J Socas
+245,3,02:11,62,58,JLE,substituicao_entra,Colimerio
+246,3,02:11,62,58,JLE,substituicao_sai,F Vezaro
+247,3,02:11,62,58,JLE,FR,J Socas
+248,3,02:11,62,58,CAP,FC,Du Sommer
+249,3,02:12,62,58,JLE,RD,J Socas
+250,3,02:22,62,58,CAP,2_Pts_T,Guilherme
+251,3,02:34,62,58,JLE,AS,Cook
+252,3,02:34,62,58,JLE,2_Pts_C,Vezarinho
+253,3,02:43,60,58,CAP,AS,Roquemore
+254,3,02:43,60,58,CAP,2_Pts_C,Guilherme
+255,3,02:59,60,56,CAP,BR,Roquemore
+256,3,02:59,60,56,JLE,ER,Mathias
+257,3,03:04,60,56,JLE,substituicao_entra,Vezarinho
+258,3,03:04,60,56,JLE,substituicao_sai,Starks
+259,3,03:04,60,56,JLE,FR,F Vezaro
+260,3,03:04,60,56,CAP,FC,Guilherme
+261,3,03:04,60,56,JLE,RO,Joinville / AABJ
+262,3,03:11,60,56,JLE,3_Pts_T,Mathias
+263,3,03:19,60,56,JLE,substituicao_entra,J Socas
+264,3,03:19,60,56,JLE,substituicao_sai,Rosniak
+265,3,03:27,60,56,JLE,RO,F Vezaro
+266,3,03:29,60,56,JLE,3_Pts_T,Cook
+267,3,03:43,60,56,CAP,3_Pts_C,Roquemore
+268,3,03:58,60,53,JLE,AS,Starks
+269,3,03:58,60,53,JLE,2_Pts_C,F Vezaro
+270,3,04:00,58,53,JLE,RD,F Vezaro
+271,3,04:07,58,53,CAP,3_Pts_T,Guilherme
+272,3,04:13,58,53,CAP,substituicao_entra,Léo Meindl
+273,3,04:13,58,53,CAP,substituicao_sai,Eddy
+274,3,04:27,58,53,CAP,BR,Guilherme
+275,3,04:27,58,53,JLE,ER,F Vezaro
+276,3,04:42,58,53,CAP,substituicao_entra,Guilherme
+277,3,04:42,58,53,CAP,substituicao_sai,Léo Meindl
+278,3,04:42,58,53,CAP,substituicao_entra,De Paula
+279,3,04:42,58,53,CAP,substituicao_sai,Yago
+280,3,04:42,58,53,JLE,substituicao_entra,F Vezaro
+281,3,04:42,58,53,JLE,substituicao_sai,J Socas
+282,3,04:45,58,53,JLE,RD,Joinville / AABJ
+283,3,04:49,58,53,CAP,2_Pts_T,Yago
+284,3,04:56,58,53,JLE,2_Pts_C,Cook
+285,3,04:59,56,53,JLE,RD,J Socas
+286,3,05:04,56,53,CAP,2_Pts_T,Yago
+287,3,05:19,56,53,JLE,substituicao_entra,Rosniak
+288,3,05:19,56,53,JLE,substituicao_sai,F Vezaro
+289,3,05:19,56,53,JLE,ER,F Vezaro
+290,3,05:33,56,53,CAP,AS,Yago
+291,3,05:33,56,53,CAP,2_Pts_C,Léo Meindl
+292,3,05:36,56,51,CAP,RD,Eddy
+293,3,05:41,56,51,JLE,3_Pts_T,Cook
+294,3,05:59,56,51,JLE,substituicao_entra,Mathias
+295,3,05:59,56,51,JLE,substituicao_sai,Colimerio
+296,3,05:59,56,51,JLE,substituicao_entra,F Vezaro
+297,3,05:59,56,51,JLE,substituicao_sai,Rosniak
+298,3,06:00,56,51,JLE,RO,Joinville / AABJ
+299,3,06:04,56,51,JLE,3_Pts_T,Cook
+300,3,06:09,56,51,JLE,RD,J Socas
+301,3,06:13,56,51,CAP,2_Pts_T,Léo Meindl
+302,3,06:21,56,51,CAP,RD,Yago
+303,3,06:29,56,51,JLE,2_Pts_T,J Socas
+304,3,06:38,56,51,JLE,FR,Starks
+305,3,06:38,56,51,CAP,FC,Du Sommer
+306,3,06:48,56,51,CAP,3_Pts_C,Roquemore
+307,3,07:00,56,48,JLE,substituicao_entra,Colimerio
+308,3,07:00,56,48,JLE,substituicao_sai,Mathias
+309,3,07:02,56,48,JLE,LL_Pts_C,J Socas
+310,3,07:02,55,48,CAP,substituicao_entra,Du Sommer
+311,3,07:02,55,48,CAP,substituicao_sai,Renan
+312,3,07:02,55,48,JLE,FR,J Socas
+313,3,07:02,55,48,CAP,FC,Renan
+314,3,07:02,55,48,JLE,2_Pts_C,J Socas
+315,3,07:09,53,48,JLE,BR,Mathias
+316,3,07:09,53,48,CAP,ER,Léo Meindl
+317,3,07:17,53,48,JLE,substituicao_entra,Rosniak
+318,3,07:17,53,48,JLE,substituicao_sai,F Vezaro
+319,3,07:17,53,48,JLE,ER,F Vezaro
+320,3,07:20,53,48,CAP,2_Pts_C,Léo Meindl
+321,3,07:28,53,46,JLE,2_Pts_C,Cook
+322,3,07:42,51,46,JLE,FR,F Vezaro
+323,3,07:42,51,46,CAP,ER,Renan
+324,3,07:42,51,46,CAP,FC_O,Renan
+325,3,07:42,51,46,CAP,FR,Renan
+326,3,07:42,51,46,JLE,FC,F Vezaro
+327,3,07:54,51,46,JLE,AS,Mathias
+328,3,07:54,51,46,JLE,3_Pts_C,F Vezaro
+329,3,08:14,48,46,CAP,2_Pts_C,Léo Meindl
+330,3,08:33,48,44,CAP,RD,Renan
+331,3,08:33,48,44,JLE,2_Pts_T,J Socas
+332,3,08:34,48,44,CAP,ER,Eddy
+333,3,08:48,48,44,JLE,AS,J Socas
+334,3,08:48,48,44,JLE,3_Pts_C,Mathias
+335,3,08:49,45,44,JLE,RO,J Socas
+336,3,08:54,45,44,JLE,2_Pts_T,F Vezaro
+337,3,09:12,45,44,CAP,AS,Eddy
+338,3,09:12,45,44,CAP,EN,Renan
+339,3,09:30,45,42,JLE,2_Pts_C,Mathias
+340,3,09:49,43,42,CAP,2_Pts_C,Roquemore
+341,3,10:00,43,40,,inicio_quarto,
+342,2,00:00,43,40,,fim_quarto,
+343,2,00:11,43,40,CAP,RD,Du Sommer
+344,2,00:12,43,40,JLE,2_Pts_T,Mathias
+345,2,00:24,43,40,CAP,substituicao_entra,Du Sommer
+346,2,00:24,43,40,CAP,substituicao_sai,Renan
+347,2,00:24,43,40,CAP,substituicao_entra,Beto
+348,2,00:24,43,40,CAP,substituicao_sai,Yago
+349,2,00:24,43,40,JLE,substituicao_entra,Mathias
+350,2,00:24,43,40,JLE,substituicao_sai,Dieguinho
+351,2,00:24,43,40,JLE,substituicao_entra,F Vezaro
+352,2,00:24,43,40,JLE,substituicao_sai,Rosniak
+353,2,00:24,43,40,JLE,substituicao_entra,Starks
+354,2,00:24,43,40,JLE,substituicao_sai,Colimerio
+355,2,00:24,43,40,JLE,tempo_tecnico,Joinville / AABJ
+356,2,00:26,43,40,CAP,AS,Yago
+357,2,00:26,43,40,CAP,3_Pts_C,Eddy
+358,2,00:45,43,37,JLE,LL_Pts_C,Cook
+359,2,00:45,42,37,JLE,LL_Pts_C,Cook
+360,2,00:45,41,37,CAP,substituicao_entra,Eddy
+361,2,00:45,41,37,CAP,substituicao_sai,Roquemore
+362,2,00:45,41,37,JLE,substituicao_entra,Dieguinho
+363,2,00:45,41,37,JLE,substituicao_sai,Mathias
+364,2,00:45,41,37,JLE,substituicao_entra,Rosniak
+365,2,00:45,41,37,JLE,substituicao_sai,Starks
+366,2,00:45,41,37,JLE,FR,Cook
+367,2,00:45,41,37,CAP,FC,Antonio
+368,2,00:53,41,37,JLE,RD,Mathias
+369,2,00:56,41,37,CAP,3_Pts_T,Roquemore
+370,2,01:00,41,37,CAP,RO,Antonio
+371,2,01:05,41,37,CAP,3_Pts_T,Renan
+372,2,01:10,41,37,CAP,RD,Renan
+373,2,01:14,41,37,JLE,2_Pts_T,Starks
+374,2,01:18,41,37,CAP,2_Pts_C,Renan
+375,2,01:21,41,35,JLE,substituicao_entra,Cook
+376,2,01:21,41,35,JLE,substituicao_sai,F Vezaro
+377,2,01:41,41,35,JLE,3_Pts_C,Colimerio
+378,2,01:45,38,35,CAP,RO,Renan
+379,2,01:45,38,35,CAP,LL_Pts_T,Roquemore
+380,2,01:45,38,35,CAP,LL_Pts_T,Roquemore
+381,2,01:45,38,35,CAP,2_Pts_C,Renan
+382,2,01:45,38,33,CAP,LL_Pts_T,Roquemore
+383,2,01:45,38,33,JLE,substituicao_entra,Colimerio
+384,2,01:45,38,33,JLE,substituicao_sai,Rosniak
+385,2,01:45,38,33,JLE,FC_T,Rosniak
+386,2,01:45,38,33,CAP,FR,Roquemore
+387,2,01:45,38,33,JLE,FC,Rosniak
+388,2,02:11,38,33,JLE,ER,Vezarinho
+389,2,02:31,38,33,JLE,RD,Vezarinho
+390,2,02:34,38,33,CAP,LL_Pts_T,Renan
+391,2,02:45,38,33,CAP,FR,Renan
+392,2,02:45,38,33,JLE,FC,Rosniak
+393,2,02:53,38,33,CAP,2_Pts_C,Renan
+394,2,02:56,38,31,CAP,RO,Renan
+395,2,03:07,38,31,CAP,2_Pts_T,Renan
+396,2,03:07,38,31,CAP,substituicao_entra,De Paula
+397,2,03:07,38,31,CAP,substituicao_sai,Guilherme
+398,2,03:07,38,31,CAP,substituicao_entra,Antonio
+399,2,03:07,38,31,CAP,substituicao_sai,Eddy
+400,2,03:07,38,31,JLE,substituicao_entra,Vezarinho
+401,2,03:07,38,31,JLE,substituicao_sai,J Socas
+402,2,03:07,38,31,JLE,substituicao_entra,Starks
+403,2,03:07,38,31,JLE,substituicao_sai,Cook
+404,2,03:07,38,31,CAP,FR,Yago
+405,2,03:07,38,31,JLE,FC,J Socas
+406,2,03:09,38,31,CAP,RD,Eddy
+407,2,03:13,38,31,JLE,3_Pts_T,J Socas
+408,2,03:20,38,31,JLE,RD,Joinville / AABJ
+409,2,03:29,38,31,CAP,2_Pts_T,Roquemore
+410,2,03:30,38,31,JLE,RD,J Socas
+411,2,03:33,38,31,CAP,3_Pts_T,Eddy
+412,2,03:36,38,31,JLE,2_Pts_C,Rosniak
+413,2,03:36,36,31,JLE,RO,Rosniak
+414,2,03:43,36,31,JLE,2_Pts_T,Cook
+415,2,04:23,36,31,JLE,AS,Cook
+416,2,04:23,36,31,JLE,3_Pts_C,Rosniak
+417,2,04:39,33,31,JLE,FR,J Socas
+418,2,04:39,33,31,CAP,ER,Guilherme
+419,2,04:39,33,31,CAP,FC_O,Guilherme
+420,2,04:53,33,31,JLE,2_Pts_C,Cook
+421,2,05:09,31,31,CAP,AS,Roquemore
+422,2,05:09,31,31,CAP,3_Pts_C,Yago
+423,2,05:18,31,28,JLE,AS,Cook
+424,2,05:18,31,28,JLE,2_Pts_C,Mathias
+425,2,05:36,29,28,JLE,substituicao_entra,Rosniak
+426,2,05:36,29,28,JLE,substituicao_sai,Starks
+427,2,05:38,29,28,CAP,AS,Eddy
+428,2,05:38,29,28,CAP,2_Pts_C,Guilherme
+429,2,05:43,29,26,CAP,RD,Renan
+430,2,05:47,29,26,JLE,2_Pts_T,F Vezaro
+431,2,05:53,29,26,JLE,BR,F Vezaro
+432,2,05:53,29,26,CAP,ER,Eddy
+433,2,05:59,29,26,CAP,RD,Eddy
+434,2,06:03,29,26,JLE,2_Pts_T,J Socas
+435,2,06:25,29,26,CAP,2_Pts_C,Eddy
+436,2,06:38,29,24,CAP,RD,Guilherme
+437,2,06:41,29,24,JLE,3_Pts_T,Starks
+438,2,06:56,29,24,CAP,AS,Guilherme
+439,2,06:56,29,24,CAP,2_Pts_C,Renan
+440,2,06:56,29,22,CAP,substituicao_entra,Guilherme
+441,2,06:56,29,22,CAP,substituicao_sai,Victão
+442,2,06:56,29,22,CAP,tempo_tecnico,Paulistano
+443,2,06:56,29,22,CAP,FR,Yago
+444,2,06:56,29,22,JLE,ER,J Socas
+445,2,06:56,29,22,JLE,FC_O,J Socas
+446,2,07:02,29,22,JLE,RD,J Socas
+447,2,07:03,29,22,CAP,2_Pts_T,Renan
+448,2,07:03,29,22,CAP,RO,Renan
+449,2,07:08,29,22,CAP,2_Pts_T,Victão
+450,2,07:26,29,22,JLE,LL_Pts_C,Cook
+451,2,07:26,28,22,JLE,FR,Cook
+452,2,07:26,28,22,CAP,FC,Roquemore
+453,2,07:27,28,22,JLE,AS,Starks
+454,2,07:27,28,22,JLE,2_Pts_C,Cook
+455,2,07:39,26,22,JLE,RD,F Vezaro
+456,2,07:43,26,22,CAP,2_Pts_T,Renan
+457,2,07:56,26,22,CAP,RD,Yago
+458,2,08:01,26,22,JLE,3_Pts_T,Starks
+459,2,08:27,26,22,JLE,FR,Cook
+460,2,08:27,26,22,CAP,ER,Victão
+461,2,08:27,26,22,CAP,FC_O,Victão
+462,2,08:32,26,22,CAP,FR,Roquemore
+463,2,08:32,26,22,JLE,FC,F Vezaro
+464,2,08:33,26,22,CAP,RO,Paulistano
+465,2,08:40,26,22,CAP,3_Pts_T,Eddy
+466,2,09:01,26,22,CAP,RO,Paulistano
+467,2,09:01,26,22,CAP,2_Pts_T,Eddy
+468,2,09:01,26,22,CAP,RO,Victão
+469,2,09:01,26,22,CAP,3_Pts_T,Eddy
+470,2,09:01,26,22,CAP,RO,Victão
+471,2,09:01,26,22,CAP,2_Pts_T,Renan
+472,2,09:01,26,22,CAP,FR,Yago
+473,2,09:01,26,22,JLE,FC,Mathias
+474,2,09:15,26,22,CAP,BR,Eddy
+475,2,09:15,26,22,JLE,ER,Cook
+476,2,09:22,26,22,JLE,RD,Cook
+477,2,09:26,26,22,CAP,2_Pts_T,Victão
+478,2,09:31,26,22,CAP,substituicao_entra,Victão
+479,2,09:31,26,22,CAP,substituicao_sai,Du Sommer
+480,2,09:31,26,22,CAP,substituicao_entra,Roquemore
+481,2,09:31,26,22,CAP,substituicao_sai,De Paula
+482,2,09:39,26,22,JLE,2_Pts_C,Cook
+483,2,09:43,24,22,JLE,RD,Mathias
+484,2,09:53,24,22,CAP,2_Pts_T,De Paula
+485,2,09:58,24,22,JLE,AS,J Socas
+486,2,09:58,24,22,JLE,3_Pts_C,Cook
+487,2,10:00,21,22,,inicio_quarto,
+488,1,00:00,21,22,CAP,substituicao_entra,Renan
+489,1,00:00,21,22,CAP,substituicao_sai,Antonio
+490,1,00:00,21,22,JLE,substituicao_entra,Cook
+491,1,00:00,21,22,JLE,substituicao_sai,Colimerio
+492,1,00:00,21,22,JLE,substituicao_entra,Starks
+493,1,00:00,21,22,JLE,substituicao_sai,Vezarinho
+494,1,00:00,21,22,,fim_quarto,
+495,1,00:57,21,22,CAP,2_Pts_C,Du Sommer
+496,1,01:01,21,20,CAP,2_Pts_C,Eddy
+497,1,01:13,21,18,JLE,substituicao_entra,Mathias
+498,1,01:13,21,18,JLE,substituicao_sai,Rosniak
+499,1,01:38,21,18,CAP,LL_Pts_C,Du Sommer
+500,1,01:38,21,17,CAP,LL_Pts_C,Du Sommer
+501,1,01:38,21,16,CAP,substituicao_entra,Yago
+502,1,01:38,21,16,CAP,substituicao_sai,Victão
+503,1,01:38,21,16,CAP,FR,Du Sommer
+504,1,01:38,21,16,JLE,FC,F Vezaro
+505,1,01:41,21,16,JLE,LL_Pts_C,Vezarinho
+506,1,01:41,20,16,JLE,LL_Pts_T,Vezarinho
+507,1,01:41,20,16,JLE,FR,Vezarinho
+508,1,01:41,20,16,CAP,FC,Antonio
+509,1,01:41,20,16,CAP,substituicao_entra,Antonio
+510,1,01:41,20,16,CAP,substituicao_sai,Yago
+511,1,01:41,20,16,JLE,substituicao_entra,Colimerio
+512,1,01:41,20,16,JLE,substituicao_sai,Mathias
+513,1,01:43,20,16,JLE,RD,Joinville / AABJ
+514,1,01:52,20,16,CAP,3_Pts_T,Yago
+515,1,01:54,20,16,JLE,AS,Vezarinho
+516,1,01:54,20,16,JLE,3_Pts_C,F Vezaro
+517,1,01:54,17,16,JLE,substituicao_entra,F Vezaro
+518,1,01:54,17,16,JLE,substituicao_sai,Cook
+519,1,01:54,17,16,CAP,2_Pts_C,Du Sommer
+520,1,01:54,17,14,CAP,substituicao_entra,Yago
+521,1,01:54,17,14,CAP,substituicao_sai,Roquemore
+522,1,01:54,17,14,CAP,FR,De Paula
+523,1,01:54,17,14,JLE,FC,Mathias
+524,1,02:02,17,14,CAP,RD,Du Sommer
+525,1,02:06,17,14,JLE,2_Pts_T,Mathias
+526,1,02:12,17,14,JLE,BR,Cook
+527,1,02:12,17,14,CAP,ER,Eddy
+528,1,02:13,17,14,CAP,RO,Eddy
+529,1,02:19,17,14,CAP,3_Pts_T,Victão
+530,1,02:52,17,14,CAP,RO,Paulistano
+531,1,02:57,17,14,CAP,2_Pts_T,Du Sommer
+532,1,02:59,17,14,JLE,substituicao_entra,J Socas
+533,1,02:59,17,14,JLE,substituicao_sai,F Vezaro
+534,1,03:05,17,14,CAP,RD,Paulistano
+535,1,03:16,17,14,JLE,3_Pts_T,Cook
+536,1,03:33,17,14,CAP,AS,Roquemore
+537,1,03:33,17,14,CAP,3_Pts_C,Eddy
+538,1,03:42,17,11,JLE,AS,Mathias
+539,1,03:42,17,11,JLE,2_Pts_C,Rosniak
+540,1,04:05,15,11,CAP,3_Pts_C,Victão
+541,1,04:24,15,8,JLE,AS,Vezarinho
+542,1,04:24,15,8,JLE,3_Pts_C,F Vezaro
+543,1,04:28,12,8,CAP,substituicao_entra,Du Sommer
+544,1,04:28,12,8,CAP,substituicao_sai,Guilherme
+545,1,04:28,12,8,JLE,substituicao_entra,Vezarinho
+546,1,04:28,12,8,JLE,substituicao_sai,J Socas
+547,1,04:28,12,8,JLE,substituicao_entra,Rosniak
+548,1,04:28,12,8,JLE,substituicao_sai,Starks
+549,1,04:28,12,8,CAP,tempo_tecnico,Paulistano
+550,1,04:28,12,8,JLE,FR,Starks
+551,1,04:28,12,8,CAP,FC,Guilherme
+552,1,04:28,12,8,JLE,RD,Starks
+553,1,04:32,12,8,CAP,3_Pts_T,De Paula
+554,1,04:41,12,8,CAP,RD,Victão
+555,1,04:46,12,8,JLE,2_Pts_T,J Socas
+556,1,04:49,12,8,JLE,RD,F Vezaro
+557,1,04:49,12,8,CAP,2_Pts_T,Guilherme
+558,1,04:49,12,8,CAP,RO,Guilherme
+559,1,04:59,12,8,CAP,3_Pts_T,Roquemore
+560,1,05:03,12,8,CAP,RD,Guilherme
+561,1,05:06,12,8,JLE,3_Pts_T,F Vezaro
+562,1,05:14,12,8,JLE,BR,F Vezaro
+563,1,05:14,12,8,CAP,ER,De Paula
+564,1,05:17,12,8,CAP,RD,De Paula
+565,1,05:21,12,8,JLE,2_Pts_T,Starks
+566,1,05:47,12,8,CAP,ER,Victão
+567,1,05:51,12,8,CAP,2_Pts_C,Roquemore
+568,1,05:51,12,6,CAP,RD,Eddy
+569,1,05:51,12,6,JLE,3_Pts_T,Starks
+570,1,05:51,12,6,CAP,FR,Victão
+571,1,05:51,12,6,JLE,FC,Starks
+572,1,05:52,12,6,CAP,RO,Paulistano
+573,1,06:02,12,6,CAP,3_Pts_T,Eddy
+574,1,06:31,12,6,CAP,substituicao_entra,De Paula
+575,1,06:31,12,6,CAP,substituicao_sai,Yago
+576,1,06:50,12,6,JLE,2_Pts_C,Cook
+577,1,06:56,10,6,JLE,RD,Mathias
+578,1,07:00,10,6,CAP,3_Pts_T,Roquemore
+579,1,07:02,10,6,JLE,LL_Pts_T,J Socas
+580,1,07:02,10,6,CAP,ER,Léo Meindl
+581,1,07:02,10,6,CAP,FC_T,Léo Meindl
+582,1,07:02,10,6,JLE,LL_Pts_C,J Socas
+583,1,07:02,9,6,JLE,LL_Pts_T,J Socas
+584,1,07:02,9,6,CAP,substituicao_entra,Eddy
+585,1,07:02,9,6,CAP,substituicao_sai,Léo Meindl
+586,1,07:02,9,6,JLE,FR,J Socas
+587,1,07:02,9,6,CAP,FC,Léo Meindl
+588,1,07:08,9,6,CAP,2_Pts_C,Léo Meindl
+589,1,07:08,9,4,CAP,RO,Léo Meindl
+590,1,07:19,9,4,CAP,3_Pts_T,Guilherme
+591,1,07:41,9,4,JLE,2_Pts_C,Mathias
+592,1,08:00,7,4,CAP,AS,Guilherme
+593,1,08:00,7,4,CAP,2_Pts_C,Léo Meindl
+594,1,08:16,7,2,JLE,2_Pts_C,Starks
+595,1,08:37,5,2,CAP,AS,Roquemore
+596,1,08:37,5,2,CAP,LL_Pts_C,Victão
+597,1,08:37,5,1,CAP,LL_Pts_C,Victão
+598,1,08:37,5,0,CAP,FR,Victão
+599,1,08:37,5,0,JLE,FC,Cook
+600,1,08:40,5,0,CAP,RD,Victão
+601,1,08:44,5,0,JLE,2_Pts_T,J Socas
+602,1,08:48,5,0,JLE,RD,J Socas
+603,1,08:53,5,0,CAP,3_Pts_T,Roquemore
+604,1,09:05,5,0,JLE,ER,Mathias
+605,1,09:19,5,0,CAP,ER,Léo Meindl
+606,1,09:19,5,0,JLE,FR,Cook
+607,1,09:19,5,0,CAP,FC_O,Léo Meindl
+608,1,09:28,5,0,JLE,2_Pts_C,J Socas
+609,1,09:33,3,0,JLE,BR,J Socas
+610,1,09:33,3,0,CAP,ER,Yago
+611,1,09:42,3,0,JLE,AS,Cook
+612,1,09:42,3,0,JLE,3_Pts_C,Starks
+613,1,09:45,0,0,JLE,RO,F Vezaro
+614,1,09:52,0,0,JLE,3_Pts_T,F Vezaro
+615,1,10:00,0,0,CAP,substituicao_entra,Guilherme
+616,1,10:00,0,0,CAP,substituicao_entra,Léo Meindl
+617,1,10:00,0,0,CAP,substituicao_entra,Victão
+618,1,10:00,0,0,CAP,substituicao_entra,Yago
+619,1,10:00,0,0,CAP,substituicao_entra,Roquemore
+620,1,10:00,0,0,JLE,substituicao_entra,J Socas
+621,1,10:00,0,0,JLE,substituicao_entra,Mathias
+622,1,10:00,0,0,JLE,substituicao_entra,F Vezaro
+623,1,10:00,0,0,JLE,substituicao_entra,Starks
+624,1,10:00,0,0,JLE,substituicao_entra,Cook
+625,1,10:00,0,0,,inicio_partida,

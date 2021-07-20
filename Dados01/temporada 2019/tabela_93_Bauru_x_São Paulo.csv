@@ -1,0 +1,419 @@
+,Quarto,Tempo,placar_casa,placar_visitante,Time,Indicador,Nome
+0,4,00:00,70,73,,fim_partida,
+1,4,00:00,70,73,,fim_quarto,
+2,4,00:02,70,73,SPF,RD,Jones
+3,4,00:05,70,73,BAU,3_Pts_T,Crescenzi
+4,4,00:13,70,73,SPF,substituicao_entra,Jones
+5,4,00:13,70,73,SPF,substituicao_sai,Léo Meindl
+6,4,00:13,70,73,BAU,substituicao_entra,Samuel
+7,4,00:13,70,73,BAU,substituicao_sai,Jaú
+8,4,00:13,70,73,BAU,FR,Jaú
+9,4,00:13,70,73,SPF,FC,Léo Meindl
+10,4,00:20,70,73,SPF,LL_Pts_C,Shamell
+11,4,00:20,70,72,SPF,LL_Pts_C,Shamell
+12,4,00:20,70,71,SPF,FR,Shamell
+13,4,00:20,70,71,BAU,FC,Faggiano
+14,4,00:25,70,71,SPF,RD,Kurtz
+15,4,00:30,70,71,BAU,2_Pts_T,Jaú
+16,4,00:36,70,71,BAU,FR,Faggiano
+17,4,00:36,70,71,SPF,FC,Léo Meindl
+18,4,00:40,70,71,BAU,FR,L Brito
+19,4,00:40,70,71,SPF,FC,De Paula
+20,4,00:45,70,71,BAU,tempo_tecnico,Bauru
+21,4,00:45,70,71,SPF,LL_Pts_C,Shamell
+22,4,00:45,70,70,SPF,LL_Pts_C,Shamell
+23,4,00:45,70,69,SPF,FR,Shamell
+24,4,00:45,70,69,BAU,FC,Renato
+25,4,00:45,70,69,SPF,BR,Shamell
+26,4,00:45,70,69,BAU,ER,Renato
+27,4,00:48,70,69,SPF,2_Pts_C,Shamell
+28,4,01:00,70,67,SPF,tempo_tecnico,São Paulo
+29,4,01:01,70,67,BAU,AS,L Brito
+30,4,01:01,70,67,BAU,3_Pts_C,Crescenzi
+31,4,01:22,67,67,SPF,2_Pts_C,De Paula
+32,4,01:43,67,65,BAU,AS,Faggiano
+33,4,01:43,67,65,BAU,3_Pts_C,Renato
+34,4,01:57,64,65,SPF,2_Pts_C,Shamell
+35,4,02:09,64,63,SPF,RD,De Paula
+36,4,02:14,64,63,BAU,2_Pts_T,Renato
+37,4,02:33,64,63,BAU,RD,Jaú
+38,4,02:37,64,63,SPF,3_Pts_T,Léo Meindl
+39,4,02:46,64,63,SPF,RO,São Paulo
+40,4,02:51,64,63,SPF,3_Pts_T,Renan
+41,4,03:10,64,63,BAU,AS,Renato
+42,4,03:10,64,63,BAU,2_Pts_C,Jaú
+43,4,03:32,62,63,BAU,substituicao_entra,Crescenzi
+44,4,03:32,62,63,BAU,substituicao_sai,Samuel
+45,4,03:32,62,63,BAU,tempo_tecnico,Bauru
+46,4,03:33,62,63,SPF,AS,De Paula
+47,4,03:33,62,63,SPF,2_Pts_C,Kurtz
+48,4,03:40,62,61,SPF,RD,De Paula
+49,4,03:44,62,61,BAU,3_Pts_T,Faggiano
+50,4,04:11,62,61,SPF,AS,Kurtz
+51,4,04:11,62,61,SPF,3_Pts_C,De Paula
+52,4,04:39,62,58,BAU,AS,Renato
+53,4,04:39,62,58,BAU,3_Pts_C,Faggiano
+54,4,04:45,59,58,BAU,RD,L Brito
+55,4,04:49,59,58,SPF,2_Pts_T,Léo Meindl
+56,4,05:09,59,58,SPF,BR,Léo Meindl
+57,4,05:09,59,58,BAU,ER,Jaú
+58,4,05:11,59,58,BAU,RD,Jaú
+59,4,05:11,59,58,SPF,LL_Pts_T,Kurtz
+60,4,05:11,59,58,SPF,AS,Renan
+61,4,05:11,59,58,SPF,LL_Pts_C,Kurtz
+62,4,05:11,59,57,SPF,FR,Kurtz
+63,4,05:11,59,57,BAU,FC,Jaú
+64,4,05:20,59,57,SPF,RO,De Paula
+65,4,05:24,59,57,SPF,3_Pts_T,De Paula
+66,4,05:33,59,57,SPF,RD,Léo Meindl
+67,4,05:33,59,57,BAU,LL_Pts_T,Samuel
+68,4,05:33,59,57,BAU,AS,Renato
+69,4,05:33,59,57,BAU,LL_Pts_C,Samuel
+70,4,05:33,58,57,BAU,FR,Samuel
+71,4,05:33,58,57,SPF,FC,Kurtz
+72,4,05:51,58,57,SPF,AS,Shamell
+73,4,05:51,58,57,SPF,LL_Pts_C,Kurtz
+74,4,05:51,58,56,SPF,LL_Pts_T,Kurtz
+75,4,05:51,58,56,SPF,FR,Kurtz
+76,4,05:51,58,56,BAU,FC,Faggiano
+77,4,06:01,58,56,BAU,ER,
+78,4,06:31,58,56,SPF,AS,De Paula
+79,4,06:31,58,56,SPF,2_Pts_C,Léo Meindl
+80,4,06:35,58,54,SPF,RD,De Paula
+81,4,06:41,58,54,BAU,3_Pts_T,Renato
+82,4,06:50,58,54,BAU,RD,Renato
+83,4,06:55,58,54,SPF,3_Pts_T,Shamell
+84,4,07:16,58,54,SPF,BR,Renan
+85,4,07:16,58,54,BAU,ER,Renato
+86,4,07:36,58,54,SPF,LL_Pts_C,Léo Meindl
+87,4,07:36,58,53,SPF,LL_Pts_C,Léo Meindl
+88,4,07:36,58,52,BAU,substituicao_entra,Samuel
+89,4,07:36,58,52,BAU,substituicao_sai,Crescenzi
+90,4,07:36,58,52,SPF,FR,Léo Meindl
+91,4,07:36,58,52,BAU,FC,Crescenzi
+92,4,07:38,58,52,SPF,FR,Shamell
+93,4,07:38,58,52,BAU,FC,Jaú
+94,4,07:38,58,52,BAU,RD,Jaú
+95,4,07:43,58,52,SPF,3_Pts_T,Shamell
+96,4,08:02,58,52,SPF,RD,São Paulo
+97,4,08:09,58,52,BAU,2_Pts_T,L Brito
+98,4,08:22,58,52,BAU,RD,Faggiano
+99,4,08:26,58,52,SPF,2_Pts_T,Léo Meindl
+100,4,08:46,58,52,SPF,RD,Léo Meindl
+101,4,08:51,58,52,BAU,2_Pts_T,Faggiano
+102,4,09:02,58,52,SPF,ER,Renan
+103,4,09:02,58,52,SPF,RO,Renan
+104,4,09:06,58,52,SPF,3_Pts_T,Léo Meindl
+105,4,09:27,58,52,BAU,AS,Renato
+106,4,09:27,58,52,BAU,3_Pts_C,Faggiano
+107,4,09:47,55,52,SPF,AS,De Paula
+108,4,09:47,55,52,SPF,2_Pts_C,Léo Meindl
+109,4,10:00,55,50,,inicio_quarto,
+110,3,00:00,55,50,,fim_quarto,
+111,3,00:03,55,50,BAU,RD,Emanuel
+112,3,00:03,55,50,SPF,3_Pts_T,Jefferson
+113,3,00:16,55,50,SPF,RD,Jefferson
+114,3,00:24,55,50,BAU,2_Pts_T,Crescenzi
+115,3,00:45,55,50,BAU,RD,Crescenzi
+116,3,00:50,55,50,SPF,3_Pts_T,Jefferson
+117,3,01:05,55,50,BAU,AS,L Brito
+118,3,01:05,55,50,BAU,2_Pts_C,Faggiano
+119,3,01:28,53,50,SPF,AS,Jefferson
+120,3,01:28,53,50,SPF,2_Pts_C,Shamell
+121,3,01:45,53,48,SPF,RD,São Paulo
+122,3,01:49,53,48,BAU,3_Pts_T,Faggiano
+123,3,01:57,53,48,BAU,RO,L Brito
+124,3,02:01,53,48,BAU,2_Pts_T,Malachias
+125,3,02:02,53,48,BAU,RO,Emanuel
+126,3,02:09,53,48,BAU,2_Pts_T,Emanuel
+127,3,02:10,53,48,BAU,RO,Emanuel
+128,3,02:14,53,48,BAU,3_Pts_T,Crescenzi
+129,3,02:34,53,48,SPF,3_Pts_C,Shamell
+130,3,02:50,53,45,BAU,2_Pts_C,Malachias
+131,3,02:51,51,45,BAU,RO,Malachias
+132,3,02:57,51,45,BAU,2_Pts_T,Faggiano
+133,3,02:59,51,45,BAU,FR,Crescenzi
+134,3,02:59,51,45,SPF,FC,Léo Meindl
+135,3,03:13,51,45,BAU,substituicao_entra,Crescenzi
+136,3,03:13,51,45,BAU,substituicao_sai,Gabriel
+137,3,03:13,51,45,BAU,substituicao_entra,Malachias
+138,3,03:13,51,45,BAU,substituicao_sai,Samuel
+139,3,03:13,51,45,BAU,tempo_tecnico,Bauru
+140,3,03:13,51,45,SPF,AS,Shamell
+141,3,03:13,51,45,SPF,EN,Kurtz
+142,3,03:20,51,43,BAU,ER,Faggiano
+143,3,03:36,51,43,SPF,2_Pts_C,Shamell
+144,3,03:46,51,41,BAU,substituicao_entra,Gabriel
+145,3,03:46,51,41,BAU,substituicao_sai,Jaú
+146,3,03:46,51,41,BAU,substituicao_entra,Samuel
+147,3,03:46,51,41,BAU,substituicao_sai,Crescenzi
+148,3,03:46,51,41,SPF,FR,Kurtz
+149,3,03:46,51,41,BAU,FC,Crescenzi
+150,3,04:00,51,41,BAU,substituicao_entra,Emanuel
+151,3,04:00,51,41,BAU,substituicao_sai,Renato
+152,3,04:02,51,41,SPF,FR,De Paula
+153,3,04:02,51,41,BAU,FC,Renato
+154,3,04:02,51,41,SPF,BR,De Paula
+155,3,04:02,51,41,BAU,ER,Jaú
+156,3,04:25,51,41,SPF,LL_Pts_C,Shamell
+157,3,04:25,51,40,SPF,LL_Pts_T,Shamell
+158,3,04:26,51,40,SPF,FR,Shamell
+159,3,04:26,51,40,BAU,FC,Renato
+160,3,04:41,51,40,SPF,RD,Léo Meindl
+161,3,04:46,51,40,BAU,2_Pts_T,L Brito
+162,3,05:06,51,40,SPF,AS,Shamell
+163,3,05:06,51,40,SPF,3_Pts_C,De Paula
+164,3,05:17,51,37,SPF,RD,Shamell
+165,3,05:23,51,37,BAU,3_Pts_T,Jaú
+166,3,05:27,51,37,BAU,RD,L Brito
+167,3,05:33,51,37,SPF,3_Pts_T,Jefferson
+168,3,05:49,51,37,BAU,2_Pts_C,L Brito
+169,3,05:56,49,37,BAU,RD,L Brito
+170,3,06:00,49,37,SPF,3_Pts_T,Shamell
+171,3,06:16,49,37,SPF,RD,Jefferson
+172,3,06:21,49,37,BAU,2_Pts_T,Jaú
+173,3,06:31,49,37,BAU,RD,Renato
+174,3,06:35,49,37,SPF,3_Pts_T,Léo Meindl
+175,3,06:37,49,37,SPF,RD,Kurtz
+176,3,06:43,49,37,BAU,2_Pts_T,Faggiano
+177,3,06:46,49,37,BAU,FR,Faggiano
+178,3,06:46,49,37,SPF,FC,Léo Meindl
+179,3,06:57,49,37,SPF,AS,De Paula
+180,3,06:57,49,37,SPF,3_Pts_C,Léo Meindl
+181,3,07:00,49,34,SPF,RD,De Paula
+182,3,07:11,49,34,SPF,TO,Kurtz
+183,3,07:11,49,34,BAU,2_Pts_T,L Brito
+184,3,07:21,49,34,BAU,RD,Renato
+185,3,07:26,49,34,SPF,2_Pts_T,Kurtz
+186,3,07:40,49,34,BAU,LL_Pts_C,Jaú
+187,3,07:40,48,34,BAU,LL_Pts_T,Jaú
+188,3,07:40,48,34,SPF,substituicao_entra,Kurtz
+189,3,07:40,48,34,SPF,substituicao_sai,Renan
+190,3,07:40,48,34,BAU,FR,Jaú
+191,3,07:40,48,34,SPF,FC,Renan
+192,3,07:46,48,34,BAU,RD,Faggiano
+193,3,07:53,48,34,SPF,3_Pts_T,De Paula
+194,3,08:04,48,34,SPF,FR,Jefferson
+195,3,08:04,48,34,BAU,FC,Crescenzi
+196,3,08:28,48,34,BAU,2_Pts_C,Renato
+197,3,08:42,46,34,BAU,FR,Faggiano
+198,3,08:42,46,34,SPF,FC,Léo Meindl
+199,3,08:50,46,34,SPF,2_Pts_C,Léo Meindl
+200,3,08:59,46,32,SPF,tempo_tecnico,São Paulo
+201,3,09:14,46,32,BAU,3_Pts_C,L Brito
+202,3,09:27,43,32,BAU,RD,Jaú
+203,3,09:31,43,32,SPF,3_Pts_T,Jefferson
+204,3,09:49,43,32,BAU,2_Pts_C,Faggiano
+205,3,10:00,41,32,,inicio_quarto,
+206,2,00:00,41,32,,fim_quarto,
+207,2,00:02,41,32,BAU,RD,Crescenzi
+208,2,00:02,41,32,SPF,2_Pts_T,Léo Meindl
+209,2,00:17,41,32,SPF,substituicao_entra,Shamell
+210,2,00:17,41,32,SPF,substituicao_sai,Renan
+211,2,00:17,41,32,BAU,substituicao_entra,Emanuel
+212,2,00:17,41,32,BAU,substituicao_sai,Faggiano
+213,2,00:17,41,32,SPF,RO,São Paulo
+214,2,00:21,41,32,SPF,2_Pts_T,De Paula
+215,2,00:34,41,32,BAU,2_Pts_C,L Brito
+216,2,00:57,39,32,BAU,BR,Crescenzi
+217,2,00:57,39,32,SPF,ER,Jones
+218,2,01:04,39,32,SPF,RD,Jones
+219,2,01:09,39,32,BAU,3_Pts_T,Faggiano
+220,2,01:15,39,32,BAU,substituicao_entra,Crescenzi
+221,2,01:15,39,32,BAU,substituicao_sai,Emanuel
+222,2,01:33,39,32,SPF,LL_Pts_C,Jones
+223,2,01:33,39,31,SPF,LL_Pts_C,Jones
+224,2,01:33,39,30,SPF,FR,Jones
+225,2,01:33,39,30,BAU,FC,Renato
+226,2,01:38,39,30,BAU,RD,Renato
+227,2,01:43,39,30,SPF,2_Pts_T,Jefferson
+228,2,01:52,39,30,BAU,substituicao_entra,Emanuel
+229,2,01:52,39,30,BAU,substituicao_sai,Jaú
+230,2,01:52,39,30,SPF,FR,Renan
+231,2,01:52,39,30,BAU,FC,Jaú
+232,2,02:10,39,30,BAU,AS,Renato
+233,2,02:10,39,30,BAU,2_Pts_C,Jaú
+234,2,02:32,37,30,SPF,AS,Léo Meindl
+235,2,02:32,37,30,SPF,2_Pts_C,De Paula
+236,2,02:44,37,28,SPF,substituicao_entra,Jefferson
+237,2,02:44,37,28,SPF,substituicao_sai,Murilo
+238,2,02:44,37,28,SPF,tempo_tecnico,São Paulo
+239,2,02:44,37,28,SPF,FR,Léo Meindl
+240,2,02:44,37,28,BAU,ER,Jaú
+241,2,02:44,37,28,BAU,FC_O,Jaú
+242,2,02:55,37,28,BAU,RD,Samuel
+243,2,03:00,37,28,SPF,2_Pts_T,Jones
+244,2,03:24,37,28,BAU,AS,Jaú
+245,2,03:24,37,28,BAU,3_Pts_C,L Brito
+246,2,03:32,34,28,BAU,BR,Jaú
+247,2,03:32,34,28,SPF,ER,Murilo
+248,2,03:41,34,28,SPF,RD,Léo Meindl
+249,2,03:46,34,28,BAU,3_Pts_T,Jaú
+250,2,03:56,34,28,BAU,substituicao_entra,L Brito
+251,2,03:56,34,28,BAU,substituicao_sai,Gabriel
+252,2,03:56,34,28,BAU,substituicao_entra,Samuel
+253,2,03:56,34,28,BAU,substituicao_sai,Crescenzi
+254,2,04:30,34,28,BAU,tempo_tecnico,Bauru
+255,2,04:35,34,28,SPF,2_Pts_C,Léo Meindl
+256,2,04:45,34,26,SPF,RD,Léo Meindl
+257,2,04:52,34,26,BAU,3_Pts_T,Jaú
+258,2,05:08,34,26,SPF,2_Pts_C,Léo Meindl
+259,2,05:12,34,24,BAU,substituicao_entra,Renato
+260,2,05:12,34,24,BAU,substituicao_sai,Samuel
+261,2,05:33,34,24,BAU,AS,Jaú
+262,2,05:33,34,24,BAU,3_Pts_C,Crescenzi
+263,2,05:40,31,24,SPF,3_Pts_C,De Paula
+264,2,05:47,31,21,BAU,LL_Pts_C,Crescenzi
+265,2,05:47,30,21,BAU,FR,Crescenzi
+266,2,05:47,30,21,SPF,FC,Renan
+267,2,05:47,30,21,SPF,substituicao_entra,Renan
+268,2,05:47,30,21,SPF,substituicao_sai,Shamell
+269,2,05:48,30,21,BAU,2_Pts_C,Crescenzi
+270,2,06:00,28,21,BAU,RD,Crescenzi
+271,2,06:00,28,21,SPF,LL_Pts_T,Jones
+272,2,06:00,28,21,SPF,substituicao_entra,Léo Meindl
+273,2,06:00,28,21,SPF,substituicao_sai,Renan
+274,2,06:00,28,21,SPF,LL_Pts_C,Jones
+275,2,06:00,28,20,SPF,FR,Jones
+276,2,06:00,28,20,BAU,FC,Crescenzi
+277,2,06:05,28,20,SPF,BR,Renan
+278,2,06:05,28,20,BAU,ER,Samuel
+279,2,06:09,28,20,BAU,RD,Samuel
+280,2,06:15,28,20,SPF,3_Pts_T,Shamell
+281,2,06:25,28,20,SPF,RD,Renan
+282,2,06:29,28,20,BAU,2_Pts_T,Faggiano
+283,2,06:38,28,20,SPF,substituicao_entra,De Paula
+284,2,06:38,28,20,SPF,substituicao_sai,Cassiano
+285,2,06:42,28,20,BAU,RD,Jaú
+286,2,06:47,28,20,SPF,2_Pts_T,Shamell
+287,2,06:59,28,20,SPF,RD,Renan
+288,2,07:02,28,20,BAU,3_Pts_T,Crescenzi
+289,2,07:08,28,20,BAU,BR,Crescenzi
+290,2,07:08,28,20,SPF,ER,Cassiano
+291,2,07:36,28,20,BAU,AS,Faggiano
+292,2,07:36,28,20,BAU,3_Pts_C,Samuel
+293,2,07:49,25,20,BAU,substituicao_entra,Jaú
+294,2,07:49,25,20,BAU,substituicao_sai,Emanuel
+295,2,07:49,25,20,BAU,FR,Crescenzi
+296,2,07:49,25,20,SPF,FC,Jones
+297,2,08:02,25,20,BAU,FR,Faggiano
+298,2,08:02,25,20,SPF,FC,Cassiano
+299,2,08:19,25,20,SPF,2_Pts_C,Cassiano
+300,2,08:20,25,18,SPF,RO,Cassiano
+301,2,08:25,25,18,SPF,2_Pts_T,Shamell
+302,2,08:33,25,18,BAU,substituicao_entra,Crescenzi
+303,2,08:33,25,18,BAU,substituicao_sai,L Brito
+304,2,08:33,25,18,SPF,FR,Murilo
+305,2,08:33,25,18,BAU,FC,Gabriel
+306,2,08:33,25,18,SPF,RD,São Paulo
+307,2,08:38,25,18,BAU,3_Pts_T,Samuel
+308,2,08:44,25,18,BAU,RO,Samuel
+309,2,08:50,25,18,BAU,3_Pts_T,L Brito
+310,2,09:02,25,18,BAU,RD,Faggiano
+311,2,09:06,25,18,SPF,3_Pts_T,Jones
+312,2,09:15,25,18,SPF,RD,Jones
+313,2,09:20,25,18,BAU,3_Pts_T,Faggiano
+314,2,09:43,25,18,SPF,2_Pts_C,Jones
+315,2,10:00,25,16,,inicio_quarto,
+316,1,00:00,25,16,,fim_quarto,
+317,1,00:11,25,16,BAU,RD,Samuel
+318,1,00:11,25,16,SPF,3_Pts_T,Cassiano
+319,1,00:23,25,16,SPF,FR,Renan
+320,1,00:23,25,16,BAU,FC,Samuel
+321,1,00:23,25,16,BAU,AS,Emanuel
+322,1,00:23,25,16,BAU,3_Pts_C,Crescenzi
+323,1,00:24,22,16,SPF,substituicao_entra,Murilo
+324,1,00:24,22,16,SPF,substituicao_sai,Léo Meindl
+325,1,00:24,22,16,SPF,substituicao_entra,Cassiano
+326,1,00:24,22,16,SPF,substituicao_sai,De Paula
+327,1,00:24,22,16,SPF,substituicao_entra,Jones
+328,1,00:24,22,16,SPF,substituicao_sai,Shamell
+329,1,00:24,22,16,BAU,substituicao_entra,Gabriel
+330,1,00:24,22,16,BAU,substituicao_sai,Renato
+331,1,00:46,22,16,BAU,BR,Renato
+332,1,00:46,22,16,SPF,ER,De Paula
+333,1,01:05,22,16,BAU,AS,Emanuel
+334,1,01:05,22,16,BAU,2_Pts_C,L Brito
+335,1,01:07,20,16,BAU,RD,Renato
+336,1,01:13,20,16,SPF,2_Pts_T,Léo Meindl
+337,1,01:18,20,16,SPF,BR,Jefferson
+338,1,01:18,20,16,BAU,ER,Samuel
+339,1,01:31,20,16,SPF,AS,Jefferson
+340,1,01:31,20,16,SPF,2_Pts_C,Shamell
+341,1,01:49,20,14,BAU,AS,Crescenzi
+342,1,01:49,20,14,BAU,2_Pts_C,Renato
+343,1,01:51,18,14,BAU,substituicao_entra,Samuel
+344,1,01:51,18,14,BAU,substituicao_sai,Faggiano
+345,1,01:51,18,14,BAU,RO,Bauru
+346,1,01:57,18,14,BAU,2_Pts_T,L Brito
+347,1,02:01,18,14,BAU,RD,Crescenzi
+348,1,02:05,18,14,SPF,2_Pts_T,De Paula
+349,1,02:12,18,14,BAU,substituicao_entra,Emanuel
+350,1,02:12,18,14,BAU,substituicao_sai,Jaú
+351,1,02:20,18,14,SPF,RD,Shamell
+352,1,02:24,18,14,BAU,3_Pts_T,Crescenzi
+353,1,02:39,18,14,SPF,AS,De Paula
+354,1,02:39,18,14,SPF,3_Pts_C,Léo Meindl
+355,1,02:55,18,11,BAU,AS,L Brito
+356,1,02:55,18,11,BAU,3_Pts_C,Renato
+357,1,03:13,15,11,SPF,AS,Jefferson
+358,1,03:13,15,11,SPF,3_Pts_C,Renan
+359,1,03:30,15,8,BAU,2_Pts_C,Renato
+360,1,03:45,13,8,SPF,ER,
+361,1,04:13,13,8,BAU,AS,Faggiano
+362,1,04:13,13,8,BAU,2_Pts_C,Jaú
+363,1,04:16,11,8,BAU,RD,Faggiano
+364,1,04:20,11,8,SPF,3_Pts_T,Jefferson
+365,1,04:30,11,8,SPF,RD,Jefferson
+366,1,04:35,11,8,BAU,3_Pts_T,Renato
+367,1,04:49,11,8,SPF,2_Pts_C,Jefferson
+368,1,05:12,11,6,BAU,3_Pts_C,Faggiano
+369,1,05:15,8,6,BAU,RD,Jaú
+370,1,05:18,8,6,SPF,2_Pts_T,Renan
+371,1,05:43,8,6,SPF,RD,Renan
+372,1,05:43,8,6,BAU,LL_Pts_T,Jaú
+373,1,05:43,8,6,BAU,FR,Jaú
+374,1,05:43,8,6,SPF,FC,Jefferson
+375,1,05:43,8,6,BAU,2_Pts_C,Jaú
+376,1,05:48,6,6,BAU,BR,L Brito
+377,1,05:48,6,6,SPF,ER,Léo Meindl
+378,1,05:50,6,6,SPF,RO,Léo Meindl
+379,1,05:56,6,6,SPF,3_Pts_T,Jefferson
+380,1,06:14,6,6,BAU,AS,Jaú
+381,1,06:14,6,6,BAU,3_Pts_C,Faggiano
+382,1,06:17,3,6,BAU,RD,Jaú
+383,1,06:21,3,6,SPF,2_Pts_T,Léo Meindl
+384,1,06:30,3,6,SPF,RD,Shamell
+385,1,06:34,3,6,BAU,2_Pts_T,Renato
+386,1,06:48,3,6,SPF,AS,Renan
+387,1,06:48,3,6,SPF,3_Pts_C,Shamell
+388,1,07:05,3,3,BAU,ER,Faggiano
+389,1,07:11,3,3,BAU,RD,Renato
+390,1,07:16,3,3,SPF,2_Pts_T,Léo Meindl
+391,1,07:32,3,3,SPF,FR,Shamell
+392,1,07:32,3,3,BAU,FC,Faggiano
+393,1,07:46,3,3,SPF,RD,Renan
+394,1,07:51,3,3,BAU,3_Pts_T,Crescenzi
+395,1,07:55,3,3,BAU,RD,Crescenzi
+396,1,08:01,3,3,SPF,3_Pts_T,Shamell
+397,1,08:27,3,3,BAU,AS,Faggiano
+398,1,08:27,3,3,BAU,3_Pts_C,Crescenzi
+399,1,08:30,0,3,BAU,RD,L Brito
+400,1,08:37,0,3,SPF,3_Pts_T,Jefferson
+401,1,08:59,0,3,SPF,RD,Shamell
+402,1,09:03,0,3,BAU,2_Pts_T,Jaú
+403,1,09:27,0,3,SPF,AS,Shamell
+404,1,09:27,0,3,SPF,3_Pts_C,Renan
+405,1,09:32,0,0,SPF,RD,Léo Meindl
+406,1,09:39,0,0,BAU,3_Pts_T,Jaú
+407,1,10:00,0,0,SPF,substituicao_entra,Renan
+408,1,10:00,0,0,SPF,substituicao_entra,Léo Meindl
+409,1,10:00,0,0,SPF,substituicao_entra,De Paula
+410,1,10:00,0,0,SPF,substituicao_entra,Jefferson
+411,1,10:00,0,0,SPF,substituicao_entra,Shamell
+412,1,10:00,0,0,BAU,substituicao_entra,Jaú
+413,1,10:00,0,0,BAU,substituicao_entra,Renato
+414,1,10:00,0,0,BAU,substituicao_entra,Crescenzi
+415,1,10:00,0,0,BAU,substituicao_entra,L Brito
+416,1,10:00,0,0,BAU,substituicao_entra,Faggiano
+417,1,10:00,0,0,,inicio_partida,
