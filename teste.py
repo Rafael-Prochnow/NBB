@@ -1,5 +1,4 @@
 import time
-import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -37,12 +36,14 @@ def buildrank(type):
     # Transformar os Dados em um Dicionário de dados próprio
     return df.to_dict('records')
 
+
 option = Options()
 option.headless = True
 driver = webdriver.Firefox(options=option)
 
 driver.get(
-    'https://stats.nba.com/players/traditional/?PerMode=Totals&Season=2019-20&SeasonType=Regular%20Season&sort=PLAYER_NAME&dir=-1')
+    'https://stats.nba.com/players/traditional/?PerMode=Totals&Season=2019-20&SeasonType=Regular%20Season&sort'
+    '=PLAYER_NAME&dir=-1')
 time.sleep(10)
 
 for k in ranking:
@@ -53,7 +54,7 @@ js = json.dumps(top50ranking)
 df = pd.read_json(js)
 df.to_csv("tabnba.csv", index = None)
 
-#top50ranking.to_csv(r"tabnba.csv", index = None)
-#fp = open('ranking.json', 'w')
-#fp.write(js)
-#fp.close()
+# top50ranking.to_csv(r"tabnba.csv", index = None)
+# fp = open('ranking.json', 'w')
+# fp.write(js)
+# fp.close()

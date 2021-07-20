@@ -1,13 +1,7 @@
 import time
 from bs4 import BeautifulSoup
 import pandas as pd
-from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
 import requests
-from selenium.common.exceptions import NoSuchElementException
-import io
-import re
-import datetime as dt
 
 
 def get_links_from(soup):

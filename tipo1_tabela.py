@@ -6,9 +6,9 @@ from selenium.webdriver.firefox.options import Options
 import requests
 
 
-def get_links_from(soup):
+def get_links_from(soup1):
     links = []
-    for a in soup.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
+    for a in soup1.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
         links.append((a.get('href')))
     return links
 
