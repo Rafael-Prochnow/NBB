@@ -49,10 +49,9 @@ for x in lista_de_temporadas:
                     (i == 'https://lnb.com.br/noticias/agora-sim-5/') | \
                     (i == 'https://lnb.com.br/partidas/nbb-2020-2021-corinthians-x-fortaleza-b-c-16122020-2000/') | \
                     (i == 'https://lnb.com.br/partidas/nbb-2020-2021-minas-x-corinthians-14122020-2000/') | \
-                    (i == 'https://lnb.com.br/noticias/agora-sim-5/') | \
                     (i == 'https://lnb.com.br/noticias/de-virada/') | \
-                    (i == 'https://lnb.com.br/partidas/nbb-2020-2021-corinthians-x-fortaleza-b-c-16122020-2000/') | \
-                    (i == 'https://lnb.com.br/partidas/nbb-2020-2021-minas-x-corinthians-14122020-2000/') | \
+                    (i == 'https://lnb.com.br/noticias/feito-expressivo/') | \
+                    (i == 'https://lnb.com.br/noticias/so-vitorias/') | \
                     (i == 'https://lnb.com.br/noticias/com-a-mao-direita/') | \
                     (i == 'https://lnb.com.br/noticias/triunfo/') | \
                     (i == 'https://lnb.com.br/noticias/na-raca-3/') | \
