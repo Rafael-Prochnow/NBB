@@ -5,10 +5,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-import datetime as dt
 
 
-r = requests.get('https://lnb.com.br/nbb/tabela-de-jogos/?season%5B%5D=59')
+'''r = requests.get('https://lnb.com.br/ldb/tabela-de-jogos/?season%5B%5D=64&wherePlaying=-1&played=-1')
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
@@ -20,15 +19,16 @@ def get_links_from(soup):
 
 
 list_inoutControl = get_links_from(soup)
-del(list_inoutControl[:140])
-print(list_inoutControl)
+del(list_inoutControl[:14])'''
+# print(list_inoutControl)
+jogo = 'https://lnb.com.br/partidas/ldb-2021-rio-claro-abdc-x-praia-clube-gabarito-30072021-0900/'
 
 ########################################################################################################################
 option = Options()
 option.headless = True
 driver = webdriver.Firefox()
 # options=option
-driver.get(list_inoutControl[0])
+driver.get(jogo)
 time.sleep(10)
 
 driver.find_element_by_xpath(
@@ -112,7 +112,8 @@ for n in range(len(lista_dois)):
 # erros
 c = c.apply(lambda x: re.sub("( perde posse de bola|Estouro dos 24s| andou com a bola|"
                              " comete violação de saída de quadra| comete violação de volta de quadra|"
-                             " comete violação de condução| comete violação de 3s no garrafão)", ">ER;1", x))
+                             " comete violação de condução| comete violação de 3s no garrafão|"
+                             " comete violação de 5s com a posse de bola)", ">ER;1", x))
 
 # primeira separação é coloco na ordem dos nomes e depois indicadores
 # o ; é para fazer a primeira separação: obtem os nomes
@@ -154,7 +155,7 @@ dados = dados[['Quarto', 'Tempo', 'placar_casa', 'placar_visitante', 'Time', 'In
 
 ########################################################################################################################
 
-r1 = requests.get(list_inoutControl[0])
+r1 = requests.get(jogo)
 soup01 = BeautifulSoup(r1.content, 'html.parser')
 
 informacoes_1 = soup01.find_all("div", class_="float-left text-right")
@@ -168,5 +169,5 @@ nome_casa_of = nome_casa_of.replace('/', ' ')
 nome_fora_of = nome_fora_of.replace('/', ' ')
 
 # se ER não tiver ninguém é pq foi estouro de 24s
-dados.to_csv('parte_3.csv')
+dados.to_csv('Rio Claro_x_Prai Clube.csv')
 

@@ -140,8 +140,6 @@ def tipo_2_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     # df_full.fillna(0, inplace=True)
 
     ################################################################################################
-    # divisão 1 separa da porcentagem
-    divisao1 = df_full["Pts"].str.split(" ")
     # separar os convertidos e tentados
     divisao = df_full["Pts"].str.split("/")
     # resultado dos convertidos
@@ -159,8 +157,6 @@ def tipo_2_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     # tirei a coluna "Pts C/T %"
     df_full.drop('Pts', axis=1, inplace=True)
     ##############################################################################################
-    # divisão 1 separa da porcentagem
-    divisao1_3 = df_full["3P%"].str.split(" ")
     # separar os convertidos e tentados
     divisao_3 = df_full["3P%"].str.split("/")
     # resultado dos convertidos
@@ -178,8 +174,6 @@ def tipo_2_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     df_full.drop('3P%', axis=1, inplace=True)
     #############################################################################################
     # 2 PONTOS
-    # divisão 1 separa da porcentagem
-    divisao1_2 = df_full["2P%"].str.split(" ")
     # separar os convertidos e tentados
     divisao_2 = df_full["2P%"].str.split("/")
     # resultado dos convertidos
@@ -197,8 +191,6 @@ def tipo_2_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     df_full.drop('2P%', axis=1, inplace=True)
     ############################################################################################
     # LANCE LIVRE
-    # divisão 1 separa da porcentagem
-    divisao1_LL = df_full["LL%"].str.split(" ")
     # separar os convertidos e tentados
     divisao_LL = df_full["LL%"].str.split("/")
     # resultado dos convertidos
@@ -265,13 +257,13 @@ def tipo_1_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     # Estruturar conteúdos em uma Data Frame
     time_casa = pd.read_html(str(table))[0]
     linhas = len(time_casa)
-    tamanho_casa = [nome_casa for item in range(linhas)]
-    tamanho_casa_adversario = [nome_fora for item01 in range(linhas)]
-    tamanho01_casa = ['casa' for item02 in range(linhas)]
-    ano_casa = [temporada for item03 in range(linhas)]
-    Data_casa = [Data for item04 in range(linhas)]
-    Fase_casa = [Fase for item05 in range(linhas)]
-    Turno_casa = [Campeonato for item06 in range(linhas)]
+    tamanho_casa = [nome_casa for _ in range(linhas)]
+    tamanho_casa_adversario = [nome_fora for _ in range(linhas)]
+    tamanho01_casa = ['casa' for _ in range(linhas)]
+    ano_casa = [temporada for _ in range(linhas)]
+    Data_casa = [Data for _ in range(linhas)]
+    Fase_casa = [Fase for _ in range(linhas)]
+    Turno_casa = [Campeonato for _ in range(linhas)]
     time_casa['Time'] = tamanho_casa
     time_casa['Casa/Fora'] = tamanho01_casa
     time_casa['Oponente'] = tamanho_casa_adversario
@@ -286,13 +278,13 @@ def tipo_1_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     time_casa.loc[(time_casa['Jogador'] == 'Equipe') | (time_casa['Jogador'] == 'Total'), 'Min'] = soma1
     time_fora = pd.read_html(str(table_2))[0]
     linhas_fora = len(time_fora)
-    tamanho_fora = [nome_fora for itens in range(linhas_fora)]
-    tamanho01_fora = ['fora' for itens01 in range(linhas_fora)]
-    ano_fora = [temporada for itens02 in range(linhas_fora)]
-    tamanho_fora_adversario = [nome_casa for itens03 in range(linhas_fora)]
-    Data_fora = [Data for itens04 in range(linhas_fora)]
-    Fase_fora = [Fase for itens05 in range(linhas_fora)]
-    Turno_fora = [Campeonato for itens06 in range(linhas_fora)]
+    tamanho_fora = [nome_fora for _ in range(linhas_fora)]
+    tamanho01_fora = ['fora' for _ in range(linhas_fora)]
+    ano_fora = [temporada for _ in range(linhas_fora)]
+    tamanho_fora_adversario = [nome_casa for _ in range(linhas_fora)]
+    Data_fora = [Data for _ in range(linhas_fora)]
+    Fase_fora = [Fase for _ in range(linhas_fora)]
+    Turno_fora = [Campeonato for _ in range(linhas_fora)]
     time_fora['Time'] = tamanho_fora
     time_fora['Casa/Fora'] = tamanho01_fora
     time_fora['Oponente'] = tamanho_fora_adversario
@@ -318,8 +310,6 @@ def tipo_1_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     # substitui os valores nulos por 0
     # df_full.fillna(0, inplace=True)
     ########################################################################################
-    # divisão 1 separa da porcentagem
-    divisao1 = df_full["Pts C/T %"].str.split(" ")
     # separar os convertidos e tentados
     divisao = df_full["Pts C/T %"].str.split("/")
     # resultado dos convertidos
@@ -336,8 +326,6 @@ def tipo_1_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     # tirei a coluna "Pts C/T %"
     df_full.drop('Pts C/T %', axis=1, inplace=True)
     ####################################################################################
-    # divisão 1 separa da porcentagem
-    divisao1_3 = df_full["3 P C/T %"].str.split(" ")
     # separar os convertidos e tentados
     divisao_3 = df_full["3 P C/T %"].str.split("/")
     # resultado dos convertidos
@@ -355,8 +343,6 @@ def tipo_1_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     df_full.drop('3 P C/T %', axis=1, inplace=True)
     #########################################################################################
     # 2 PONTOS
-    # divisão 1 separa da porcentagem
-    divisao1_2 = df_full["2 P C/T %"].str.split(" ")
     # separar os convertidos e tentados
     divisao_2 = df_full["2 P C/T %"].str.split("/")
     # resultado dos convertidos
@@ -374,8 +360,6 @@ def tipo_1_tabela(element, driver, i, temporada, Data, Fase, Campeonato):
     df_full.drop('2 P C/T %', axis=1, inplace=True)
     ###########################################################################################
     # LANCE LIVRE
-    # divisão 1 separa da porcentagem
-    divisao1_LL = df_full["LL C/T %"].str.split(" ")
     # separar os convertidos e tentados
     divisao_LL = df_full["LL C/T %"].str.split("/")
     # resultado dos convertidos

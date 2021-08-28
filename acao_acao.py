@@ -8,11 +8,13 @@ from selenium.common.exceptions import NoSuchElementException
 import io
 import re
 
+
 def get_links_from(teste):
     links = []
     for a in teste.findAll('a', attrs={'class': 'small-4 medium-12 large-12 float-left match_score_relatorio'}):
         links.append((a.get('href')))
     return links
+
 
 tabela_geral = pd.DataFrame([])
 lista_cada_temporada = pd.DataFrame([])
